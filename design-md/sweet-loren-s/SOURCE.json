@@ -1,0 +1,927 @@
+{
+  "source_url": "https://sweetlorens.com",
+  "final_url": "https://sweetlorens.com/",
+  "captured_at": "2026-09-28T05:02:58.602441+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://sweetlorens.com",
+      "final_url": "https://sweetlorens.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "327e42b5603ec96ea2c4b4c38959466714efcd6bdc582561af1987365d5d8e2b",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://sweetlorens.com/cdn/shop/t/164/assets/theme.css?v=8869610379871432031749745820",
+      "final_url": "https://sweetlorens.com/cdn/shop/t/164/assets/theme.css?v=8869610379871432031749745820",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "245807ef2f0d4fb23f010b4c9ac03671003b7c5348ed4fda308acca927f9a2e7",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css",
+      "final_url": "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d012ac224fb70f29d7d9d7d4a63f5dd15eabca3114c3d5e3d10c898e0726c477",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://sweetlorens.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://sweetlorens.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://sweetlorens.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css",
+      "final_url": "https://sweetlorens.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "f5a3b49c83f59914b840ae0bfef1e853a859fa7630fd3517ed1b95a724a8bee4",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 124,
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/theme.css?v=8869610379871432031749745820",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css",
+        "https://sweetlorens.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://sweetlorens.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+      ]
+    },
+    "#e21b77": {
+      "count": 99,
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "#000000": {
+      "count": 30,
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/theme.css?v=8869610379871432031749745820",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css",
+        "https://sweetlorens.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+      ]
+    },
+    "#251b57": {
+      "count": 22,
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "#e793b7": {
+      "count": 20,
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/theme.css?v=8869610379871432031749745820",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "#13293c": {
+      "count": 20,
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "#3a3a3a": {
+      "count": 14,
+      "sources": [
+        "https://sweetlorens.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+      ]
+    },
+    "#00000017": {
+      "count": 13,
+      "sources": [
+        "https://sweetlorens.com/cdn/shop/t/164/assets/theme.css?v=8869610379871432031749745820"
+      ]
+    },
+    "#00000024": {
+      "count": 9,
+      "sources": [
+        "https://sweetlorens.com/cdn/shop/t/164/assets/theme.css?v=8869610379871432031749745820"
+      ]
+    },
+    "#00000000": {
+      "count": 8,
+      "sources": [
+        "https://sweetlorens.com/cdn/shop/t/164/assets/theme.css?v=8869610379871432031749745820",
+        "https://sweetlorens.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#fffcf6": {
+      "count": 7,
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "#00000080": {
+      "count": 7,
+      "sources": [
+        "https://sweetlorens.com/cdn/shop/t/164/assets/theme.css?v=8869610379871432031749745820"
+      ]
+    },
+    "#2f75c6": {
+      "count": 6,
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "#faf6e7": {
+      "count": 6,
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "#ffffff00": {
+      "count": 6,
+      "sources": [
+        "https://sweetlorens.com/cdn/shop/t/164/assets/theme.css?v=8869610379871432031749745820"
+      ]
+    },
+    "#ea0a0a": {
+      "count": 6,
+      "sources": [
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "#c44760": {
+      "count": 4,
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "#8a2a2b": {
+      "count": 4,
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "#fce6e9": {
+      "count": 4,
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "#b14992": {
+      "count": 4,
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "#b5b6e7": {
+      "count": 4,
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "#00b9c4": {
+      "count": 4,
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "#17449b": {
+      "count": 4,
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "#f1ebe0": {
+      "count": 4,
+      "sources": [
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "#ff3eb5": {
+      "count": 3,
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "#00865e": {
+      "count": 3,
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "#49c6e3": {
+      "count": 3,
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "#96d9e8": {
+      "count": 3,
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 3,
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/theme.css?v=8869610379871432031749745820"
+      ]
+    },
+    "#ffd7e9": {
+      "count": 3,
+      "sources": [
+        "https://sweetlorens.com/"
+      ]
+    },
+    "#ededed": {
+      "count": 3,
+      "sources": [
+        "https://sweetlorens.com/"
+      ]
+    },
+    "#0000000f": {
+      "count": 3,
+      "sources": [
+        "https://sweetlorens.com/cdn/shop/t/164/assets/theme.css?v=8869610379871432031749745820"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 3,
+      "sources": [
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "#40b18f": {
+      "count": 3,
+      "sources": [
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "#0000ff": {
+      "count": 2,
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/theme.css?v=8869610379871432031749745820"
+      ]
+    },
+    "#cf3209": {
+      "count": 2,
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "#fddae9": {
+      "count": 2,
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "#f5ea61": {
+      "count": 2,
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "#f6f0d6": {
+      "count": 2,
+      "sources": [
+        "https://sweetlorens.com/"
+      ]
+    },
+    "#f1e8c1": {
+      "count": 2,
+      "sources": [
+        "https://sweetlorens.com/"
+      ]
+    },
+    "#c31818": {
+      "count": 2,
+      "sources": [
+        "https://sweetlorens.com/"
+      ]
+    },
+    "#3c9342": {
+      "count": 2,
+      "sources": [
+        "https://sweetlorens.com/"
+      ]
+    },
+    "#a70100": {
+      "count": 2,
+      "sources": [
+        "https://sweetlorens.com/"
+      ]
+    },
+    "#4f4f4f": {
+      "count": 2,
+      "sources": [
+        "https://sweetlorens.com/cdn/shop/t/164/assets/theme.css?v=8869610379871432031749745820"
+      ]
+    },
+    "#cccccc": {
+      "count": 2,
+      "sources": [
+        "https://sweetlorens.com/cdn/shop/t/164/assets/theme.css?v=8869610379871432031749745820"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 2,
+      "sources": [
+        "https://sweetlorens.com/cdn/shop/t/164/assets/theme.css?v=8869610379871432031749745820"
+      ]
+    },
+    "#00000066": {
+      "count": 2,
+      "sources": [
+        "https://sweetlorens.com/cdn/shop/t/164/assets/theme.css?v=8869610379871432031749745820",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "#bb0458": {
+      "count": 2,
+      "sources": [
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "#737373": {
+      "count": 2,
+      "sources": [
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://sweetlorens.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#c1c9d1": {
+      "count": 2,
+      "sources": [
+        "https://sweetlorens.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+      ]
+    },
+    "#ff0000": {
+      "count": 1,
+      "sources": [
+        "https://sweetlorens.com/"
+      ]
+    },
+    "#478947": {
+      "count": 1,
+      "sources": [
+        "https://sweetlorens.com/"
+      ]
+    },
+    "#f4edce": {
+      "count": 1,
+      "sources": [
+        "https://sweetlorens.com/"
+      ]
+    },
+    "#ac0b56": {
+      "count": 1,
+      "sources": [
+        "https://sweetlorens.com/"
+      ]
+    },
+    "#e01573": {
+      "count": 1,
+      "sources": [
+        "https://sweetlorens.com/"
+      ]
+    },
+    "#414141": {
+      "count": 1,
+      "sources": [
+        "https://sweetlorens.com/"
+      ]
+    },
+    "#a77a06": {
+      "count": 1,
+      "sources": [
+        "https://sweetlorens.com/"
+      ]
+    },
+    "#7e6b45": {
+      "count": 1,
+      "sources": [
+        "https://sweetlorens.com/"
+      ]
+    },
+    "#222222": {
+      "count": 1,
+      "sources": [
+        "https://sweetlorens.com/cdn/shop/t/164/assets/theme.css?v=8869610379871432031749745820"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://sweetlorens.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+    ],
+    "Avenir": [
+      "https://sweetlorens.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+    ],
+    "Avenir Next": [
+      "https://sweetlorens.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+    ],
+    "Caveat": [
+      "https://sweetlorens.com/",
+      "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+    ],
+    "Halant": [
+      "https://sweetlorens.com/"
+    ],
+    "Helvetica": [
+      "https://sweetlorens.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+    ],
+    "Helvetica Neue": [
+      "https://sweetlorens.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+    ],
+    "Instrument Sans": [
+      "https://sweetlorens.com/"
+    ],
+    "Playfair Display": [
+      "https://sweetlorens.com/"
+    ],
+    "Proxima Nova": [
+      "https://sweetlorens.com/",
+      "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+    ],
+    "Proxima Nova Condensed": [
+      "https://sweetlorens.com/"
+    ],
+    "Proxima Nova Condensed ext": [
+      "https://sweetlorens.com/"
+    ],
+    "Proxima Nova ext": [
+      "https://sweetlorens.com/",
+      "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+    ],
+    "Proxima Nova!important": [
+      "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+    ],
+    "Segoe UI": [
+      "https://sweetlorens.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+    ],
+    "Stash": [
+      "https://sweetlorens.com/",
+      "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+    ],
+    "The Vibes": [
+      "https://sweetlorens.com/",
+      "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+    ],
+    "Turbinado Dry": [
+      "https://sweetlorens.com/",
+      "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+    ],
+    "sans-serif": [
+      "https://sweetlorens.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+    ],
+    "swiper-icons": [
+      "https://sweetlorens.com/",
+      "https://sweetlorens.com/cdn/shop/t/164/assets/theme.css?v=8869610379871432031749745820"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://sweetlorens.com/",
+      "selector": "html:not(.no-js) body.user-is-tabbing :focus",
+      "declarations": "outline-color:var(--color-text-link)"
+    },
+    {
+      "source": "https://sweetlorens.com/",
+      "selector": "body",
+      "declarations": "margin:0;font-family:var(--font-body);font-weight:var(--font-body-weight);font-style:var(--font-body-style);font-size:var(--font-size-body-100);line-height:var(--line-height-body);color:var(--color-text);letter-spacing:var(--font-body-base-letter-spacing);-webkit-font-smoothing:antialiased"
+    },
+    {
+      "source": "https://sweetlorens.com/",
+      "selector": "body>.page",
+      "declarations": "background-color:var(--color-background);margin:0 auto;width:100%;min-height:100vh;display:flex;flex-direction:column"
+    },
+    {
+      "source": "https://sweetlorens.com/",
+      "selector": ".header",
+      "declarations": "--size-icon-touch:18px;--size-icon-touch-mobile:18px;background-color:var(--color-background-header);color:var(--color-text-header);transition:background-color .5s cubic-bezier(.33,0,0,1);-webkit-transform:translateZ(0);-webkit-backface-visibility:hidden;-webkit-perspective:0"
+    },
+    {
+      "source": "https://sweetlorens.com/",
+      "selector": "n=start],.header__inner [data-scroll-container][data-axis=horizontal] .scroll-button[data-position=end],.header__inner [data-scroll-container][data-axis=horizon",
+      "declarations": "position:relative;flex:0 0 30px;box-shadow:unset;background-color:transparent;overflow:hidden"
+    },
+    {
+      "source": "https://sweetlorens.com/",
+      "selector": ".header__logo-text",
+      "declarations": "font-size:var(--logo-font-size);text-transform:var(--logo-text-transform);letter-spacing:var(--logo-letter-spacing);font-family:var(--font-logo);font-weight:var(--font-logo-weight);font-style:var(--font-logo-style);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;display:block"
+    },
+    {
+      "source": "https://sweetlorens.com/",
+      "selector": ".product",
+      "declarations": "--swatch-size:48px;max-width:calc(1400px + 6.6vw);max-width:calc(1280px + 6.6vw);margin:40px auto 12px"
+    },
+    {
+      "source": "https://sweetlorens.com/",
+      "selector": ".product__media-container.below-mobile .swiper-pagination .swiper-pagination-bullet",
+      "declarations": "width:8px;height:8px;opacity:.3;background-color:currentColor;transition:transform .3s ease-out,opacity .3s ease-out;margin:21px 5px"
+    },
+    {
+      "source": "https://sweetlorens.com/",
+      "selector": ".product__media-container.below-mobile .swiper-pagination .swiper-pagination-bullet.swiper-pagination-bullet-active",
+      "declarations": "opacity:1;background-color:currentColor;transform:scale(1.3)"
+    },
+    {
+      "source": "https://sweetlorens.com/",
+      "selector": "button",
+      "declarations": "border:0;border-radius:0;display:inline-block;cursor:pointer;-webkit-appearance:none;font-family:inherit;color:inherit;margin:0;padding:0;background-color:transparent;font-size:inherit;text-transform:inherit;font-weight:inherit"
+    },
+    {
+      "source": "https://sweetlorens.com/",
+      "selector": ".btn,.spr-summary-actions-newreview",
+      "declarations": "--button-height:50px;--button-height-large:58px;--button-height-small:40px;--button-height-x-small:34px;--button-padding-large:calc(1em*var(--button-padding-multiplier)) calc(2.31em*var(--button-padding-multiplier));--button-padding-normal:calc(0.777em*var(--button-padding-multiplier)) calc(1.777em*var(--button-padding-multiplier));--button-padding-small:calc(0.555em*var(--button-padding-multiplier)) calc(1.333em*var(--button-padding-multiplier));--button-padding-x-small:calc(0.444em*var(--button-padding-multiplier)) calc(1.111em*var(--button-padding-multiplier));min-height:var(--button-height);display:inline-flex;padding:var(--button-padding-normal);align-items:center;justify-content:space-"
+    },
+    {
+      "source": "https://sweetlorens.com/",
+      "selector": ".btn.btn--primary,.shopify-challenge__button",
+      "declarations": "color:var(--color-text-button)"
+    },
+    {
+      "source": "https://sweetlorens.com/",
+      "selector": ".btn.btn--secondary,.spr-button-primary",
+      "declarations": "position:relative;color:var(--color-text-button-secondary);transition:color .2s ease,border-color .2s ease;overflow:hidden;z-index:1"
+    },
+    {
+      "source": "https://sweetlorens.com/",
+      "selector": ".filter-bar__button",
+      "declarations": "display:inline-flex;align-items:center;padding:4px 0;border:0;border-radius:0;background-color:transparent;color:var(--color-text);font-family:var(--font-body);font-style:var(--font-body-style)"
+    },
+    {
+      "source": "https://sweetlorens.com/",
+      "selector": ".filter-bar__button-count",
+      "declarations": "margin-left:8px;padding:4px;background-color:var(--color-text);color:var(--color-background);font-size:var(--font-size-body-50)"
+    },
+    {
+      "source": "https://sweetlorens.com/",
+      "selector": "[data-scroll-container] .scroll-button",
+      "declarations": "height:100%;width:30px;background-color:var(--color-background);position:absolute;z-index:10;transition:opacity .5s cubic-bezier(.33,0,0,1);display:flex;align-items:center;justify-content:center"
+    },
+    {
+      "source": "https://sweetlorens.com/",
+      "selector": ":root",
+      "declarations": "--space-outer:25px!important"
+    },
+    {
+      "source": "https://sweetlorens.com/",
+      "selector": ":root",
+      "declarations": "--space-outer:40px!important"
+    },
+    {
+      "source": "https://sweetlorens.com/",
+      "selector": ":root",
+      "declarations": "--space-outer:80px!important"
+    },
+    {
+      "source": "https://sweetlorens.com/",
+      "selector": ".fs-heading-1-base,.fs-heading-display-1,.h1",
+      "declarations": "font-size:40px;line-height:1.05;font-weight:400;font-family:The Vibes"
+    },
+    {
+      "source": "https://sweetlorens.com/",
+      "selector": ".button-text",
+      "declarations": "font-size:16px;line-height:1.2;font-family:Proxima Nova ext"
+    },
+    {
+      "source": "https://sweetlorens.com/",
+      "selector": ".btn--secondary,.button-secondary",
+      "declarations": "font-size:16px;line-height:1.5;font-weight:400;font-family:Proxima Nova"
+    },
+    {
+      "source": "https://sweetlorens.com/",
+      "selector": ".btn.btn--primary,.btn.btn--primary-white,.btn.btn--secondary",
+      "declarations": "font-size:16px;line-height:1.2;font-family:Proxima Nova ext;font-weight:800;min-height:43px;padding:0!important;overflow:visible"
+    },
+    {
+      "source": "https://sweetlorens.com/",
+      "selector": ".btn.btn--primary,.btn.btn--primary-white",
+      "declarations": "border:0;background-color:var(--color-background-button);border-radius:38px"
+    },
+    {
+      "source": "https://sweetlorens.com/",
+      "selector": ".btn.btn--secondary",
+      "declarations": "padding:0;border-color:transparent"
+    },
+    {
+      "source": "https://sweetlorens.com/",
+      "selector": ".video-play-button",
+      "declarations": "pointer-events:all;display:flex;justify-content:center;align-items:center;min-height:auto;width:40px;height:40px;padding:0;background:#fff;color:#e21b77;border-radius:100%;z-index:100"
+    },
+    {
+      "source": "https://sweetlorens.com/",
+      "selector": ".template-product .apps__heading",
+      "declarations": "color:#e21b77"
+    },
+    {
+      "source": "https://sweetlorens.com/",
+      "selector": ".btn.home-hero__where-to-buy-button:hover",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://sweetlorens.com/",
+      "selector": ".home-hero--rebrand .home-hero__wrapper-button .btn",
+      "declarations": "width:30px;height:30px;background-color:#e21b77;color:#fff"
+    },
+    {
+      "source": "https://sweetlorens.com/",
+      "selector": ":root",
+      "declarations": "--logo-font-size: \n1.7rem\n;\n      --font-size-heading-display-1: \n5.0625rem\n;\n      --font-size-heading-display-2: \n4.498875rem\n;\n      --font-size-heading-display-3: \n3.937275rem\n;\n      --font-size-heading-1-base: \n3.375rem\n;\n      --font-size-heading-2-base: \n2.953125rem\n;\n      --font-size-heading-3-base: \n2.53125rem\n;\n      --font-size-heading-4-base: \n1.967625rem\n;\n      --font-size-heading-5-base: \n1.6875rem\n;\n      --font-size-heading-6-base: \n1.404rem\n;\n      --font-size-body-400: \n1.725871875rem\n;\n      --font-size-body-350: \n1.6108828125rem\n;\n      --font-size-body-300: \n1.49589375rem\n;\n      --font-size-body-250: \n1.3809046875rem\n;\n      --font-size-body-200: \n1.265915625rem\n;\n  "
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Sweet Loren's: Gluten Free, Vegan Cookie Dough and Refrigerated Dough",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "colors.primary-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sweetlorens.com/"
+      ]
+    },
+    "colors.primary-tint": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sweetlorens.com/"
+      ]
+    },
+    "colors.secondary-accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/theme.css?v=8869610379871432031749745820",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "colors.ink-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sweetlorens.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sweetlorens.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/theme.css?v=8869610379871432031749745820",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css",
+        "https://sweetlorens.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://sweetlorens.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+      ]
+    },
+    "colors.surface-cream": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/theme.css?v=8869610379871432031749745820",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css",
+        "https://sweetlorens.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://sweetlorens.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+      ]
+    },
+    "colors.accent-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "colors.accent-yellow": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sweetlorens.com/",
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "colors.accent-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sweetlorens.com/cdn/shop/t/164/assets/index-1b437e33.css"
+      ]
+    },
+    "colors.error": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sweetlorens.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.logo-mark": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.diet-claim-badge": {
+      "status": "inferred"
+    }
+  }
+}

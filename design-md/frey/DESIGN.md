@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Frey
-description: A clean, eco-friendly laundry care brand that uses a deep slate (#35434e) as its primary ink — an unusual choice for a category that typically defaults to bright whites and pastels — paired with a teal accent (#108474) that reads as fresh water rather than synthetic detergent. The palette is restrained: the slate anchors product photography and body text, while the teal appears in secondary CTAs and hover states, and a coral-red (#d43747) provides occasional urgency for sale badges and limited-time messaging. The canvas is a warm off-white (#f9fafb) rather than pure white, softening the overall impression and aligning with the brand's natural positioning. Typography runs on Instrument Sans, a geometric sans-serif with subtle humanist curves, set at moderate weights — display headlines use 500–600 weight rather than heavy 700, letting the product imagery and eco-certification badges carry visual weight. Buttons are softly rounded (`{rounded.md}` ~12px), not pill-shaped, and the search bar follows the same radius — the brand avoids extreme roundness in favor of a gentle, approachable geometry. The checkout flow uses a light blue-gray (#deecf2) for informational banners, and the footer collapses into a dense column of links in muted gray (#707070). Frey's design language is one of deliberate restraint: the slate ink, the teal accent, and the off-white canvas create a system that feels trustworthy, calm, and environmentally conscious without resorting to green-washing clichés.
+name: "Frey"
+source_url: "https://frey.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A clean, eco-friendly laundry care brand that uses a deep slate (#35434e) as its primary ink — an unusual choice for a category that typically defaults to bright whites and pastels — paired with a teal accent (#108474) that reads as fresh water rather than synthetic detergent. The palette is restrained: the slate anchors product photography and body text, while the teal appears in secondary CTAs and hover states, and a coral-red (#d43747) provides occasional urgency for sale badges and limited-time messaging. The canvas is a warm off-white (#f9fafb) rather than pure white, softening the overall impression and aligning with the brand's natural positioning. Typography runs on Instrument Sans, a geometric sans-serif with subtle humanist curves, set at moderate weights — display headlines use 500–600 weight rather than heavy 700, letting the product imagery and eco-certification badges carry visual weight. Buttons are softly rounded (`{rounded.md}` ~12px), not pill-shaped, and the search bar follows the same radius — the brand avoids extreme roundness in favor of a gentle, approachable geometry. The checkout flow uses a light blue-gray (#deecf2) for informational banners, and the footer collapses into a dense column of links in muted gray (#707070). Frey's design language is one of deliberate restraint: the slate ink, the teal accent, and the off-white canvas create a system that feels trustworthy, calm, and environmentally conscious without resorting to green-washing clichés.
 
 colors:
   primary: "#35434e"
@@ -333,6 +337,8 @@ components:
 - Hero sections reduce padding and font sizes on mobile to maintain proportion.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components are inferred from the extracted color palette; actual hover transitions (e.g., opacity, shadow) were not extractable from the static HTML/CSS.
 - Error and success states for forms (validation messages, success banners) are not present in the extracted data; the coral-red (#d43747) is used as a best-guess for error states.

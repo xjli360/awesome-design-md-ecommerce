@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: The Ordinary
-description: A clinical skincare brand that uses a stark white canvas and a single red accent — #e83f42 — as its only emotional release, applied to the cart icon, sale badges, and the "Add to Cart" button that sits like a stop sign against a field of gray. The palette is almost entirely achromatic: #757575 for body text, #e1ded9 for hairline borders, #f7f7f7 and #f9f9f9 for soft surfaces, and #222222 for ink. This is a brand that refuses to seduce — no gradients, no photography, no lifestyle imagery. Product pages are clinical grids of ingredient names in Jost, a geometric sans-serif that reads like a lab report. The typographic system is built on Jost for headings and Geologica for body, with Geologica declared `!important` in the CSS, suggesting a deliberate override of a framework default. Buttons are hard-cornered rectangles (`{rounded.none}`) with #e83f42 fill and white text, or outlined in #757575 for secondary actions. The search bar is a simple rectangle with #e1ded9 borders and #f7f7f7 background. There is no hero image, no carousel, no decorative illustration — the brand communicates entirely through typographic hierarchy, whitespace, and the occasional red intervention. The product grid uses 4-column layouts on desktop with tight spacing (`{spacing.base}` between cards), each card showing a product name in Jost, a price in Geologica, and a "Size" dropdown. The footer is a dense gray block with #404040 background and white links. The brand's integrity is in its refusal to perform — it looks like a scientific journal that happens to sell things.
+name: "The Ordinary"
+source_url: "https://theordinary.com"
+captured_at: "2026-09-28T04:09:54.212001+00:00"
+evidence_status: "historical_partial_css_evidence"
+description: |-
+  A clinical skincare brand that uses a stark white canvas and a single red accent — #e83f42 — as its only emotional release, applied to the cart icon, sale badges, and the "Add to Cart" button that sits like a stop sign against a field of gray. The palette is almost entirely achromatic: #757575 for body text, #e1ded9 for hairline borders, #f7f7f7 and #f9f9f9 for soft surfaces, and #222222 for ink. This is a brand that refuses to seduce — no gradients, no photography, no lifestyle imagery. Product pages are clinical grids of ingredient names in Jost, a geometric sans-serif that reads like a lab report. The typographic system is built on Jost for headings and Geologica for body, with Geologica declared `!important` in the CSS, suggesting a deliberate override of a framework default. Buttons are hard-cornered rectangles (`{rounded.none}`) with #e83f42 fill and white text, or outlined in #757575 for secondary actions. The search bar is a simple rectangle with #e1ded9 borders and #f7f7f7 background. There is no hero image, no carousel, no decorative illustration — the brand communicates entirely through typographic hierarchy, whitespace, and the occasional red intervention. The product grid uses 4-column layouts on desktop with tight spacing (`{spacing.base}` between cards), each card showing a product name in Jost, a price in Geologica, and a "Size" dropdown. The footer is a dense gray block with #404040 background and white links. The brand's integrity is in its refusal to perform — it looks like a scientific journal that happens to sell things.
 
 colors:
   primary: "#e83f42"
@@ -353,6 +357,8 @@ components:
 - Accordion content is collapsed by default on mobile product pages, with only the first panel open
 
 ## Known Gaps
+
+- **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 
 - Hover and focus states for most components could not be reliably extracted from the CSS — the extracted colors include many framework defaults (Bootstrap alert colors, social media icons) that may not be part of the brand's design system
 - Error and validation styling for form inputs is not confirmed — the `#b3261e` error color is inferred from common patterns

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: All the Anime
-description: A deep blue #2d8fce — the exact shade of a clear summer sky seen through an airplane window — acts as the brand's primary voltage, appearing on every add-to-cart button, collection header, and navigation highlight. This is not the electric cyan of gaming or the navy of prestige streaming; it's a calm, confident blue that signals trust and quality in physical media. The palette is anchored by a near-black ink (#121212) for body text and a warm light-gray canvas (#f3f3f3) that softens the shopping experience, while a secondary blue (#334fb4) appears in footer links and secondary actions, creating a subtle gradient of authority. Assistant and Cabin — two clean, geometric sans-serifs — handle all typography, with Assistant taking the heavier lifting for body copy and Cabin appearing in display contexts. Product cards use generous whitespace and a consistent 12px radius ({rounded.md}), giving each Blu-ray or art book the breathing room of a gallery display. The checkout flow inherits Shopify's standard widget colors, but the brand's own interface maintains a disciplined two-blue system: the sky primary and the indigo secondary, with no tertiary accent to distract from the product photography. Badges for "Pre-order" and "Exclusive" appear in the primary blue on white, while sold-out items fade to #dedede — a muted gray that respects the customer's time without shouting.
+name: "All the Anime"
+source_url: "https://www.alltheanime.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep blue #2d8fce — the exact shade of a clear summer sky seen through an airplane window — acts as the brand's primary voltage, appearing on every add-to-cart button, collection header, and navigation highlight. This is not the electric cyan of gaming or the navy of prestige streaming; it's a calm, confident blue that signals trust and quality in physical media. The palette is anchored by a near-black ink (#121212) for body text and a warm light-gray canvas (#f3f3f3) that softens the shopping experience, while a secondary blue (#334fb4) appears in footer links and secondary actions, creating a subtle gradient of authority. Assistant and Cabin — two clean, geometric sans-serifs — handle all typography, with Assistant taking the heavier lifting for body copy and Cabin appearing in display contexts. Product cards use generous whitespace and a consistent 12px radius ({rounded.md}), giving each Blu-ray or art book the breathing room of a gallery display. The checkout flow inherits Shopify's standard widget colors, but the brand's own interface maintains a disciplined two-blue system: the sky primary and the indigo secondary, with no tertiary accent to distract from the product photography. Badges for "Pre-order" and "Exclusive" appear in the primary blue on white, while sold-out items fade to #dedede — a muted gray that respects the customer's time without shouting.
 
 colors:
   primary: "#2d8fce"
@@ -466,6 +470,8 @@ components:
 - Cart sidebar becomes a full-screen overlay on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states**: Only primary and secondary button hover states were reliably extracted. Hover states for product cards, filter chips, and footer links are inferred from common patterns.
 - **Error styling**: Error text color (#d32f2f) is inferred from common web conventions, not extracted from the live site. Error message placement and animation are not documented.

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Blue Orange Games
-description: A primary blue (#65afe0) and a marigold yellow (#f5c400) that feel like a playground floor and a sunbeam — this is a brand that signals "simply fun for all" through color contrast alone, without needing a single illustration. The blue carries the header, navigation, and primary CTAs as a calm, trustworthy anchor, while the yellow bursts through as the accent voltage on sale badges, price highlights, and hover states. The site reads as a clean, white-canvas grid with generous spacing between game tiles, each product card a soft rectangle with the blue used sparingly — a border, a button, a category tag. There is no hard geometry: corners are gently rounded ({rounded.sm} on cards, {rounded.md} on buttons) to keep the mood approachable for both kids and adults. The typography leans on a system sans-serif stack (likely system-ui or a web-safe fallback, as no custom font declarations were found), set at modest weights — body copy at 16px/1.5, game titles at 20px/1.3, and category headers in a slightly bolder weight. The brand's voice is direct and inclusive: "Award-winning games for the whole family" appears in the hero, and the navigation is flat and shallow — Shop, About, Blog, and a search icon — no mega-menus, no clutter. The footer is a simple three-column layout with social icons, a newsletter signup, and a "Made with love" tagline. The overall feel is that of a well-organized toy store shelf: everything has its place, the colors are cheerful but not chaotic, and the white space lets each game breathe.
+name: "Blue Orange Games"
+source_url: "https://www.blueorangegames.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A primary blue (#65afe0) and a marigold yellow (#f5c400) that feel like a playground floor and a sunbeam — this is a brand that signals "simply fun for all" through color contrast alone, without needing a single illustration. The blue carries the header, navigation, and primary CTAs as a calm, trustworthy anchor, while the yellow bursts through as the accent voltage on sale badges, price highlights, and hover states. The site reads as a clean, white-canvas grid with generous spacing between game tiles, each product card a soft rectangle with the blue used sparingly — a border, a button, a category tag. There is no hard geometry: corners are gently rounded ({rounded.sm} on cards, {rounded.md} on buttons) to keep the mood approachable for both kids and adults. The typography leans on a system sans-serif stack (likely system-ui or a web-safe fallback, as no custom font declarations were found), set at modest weights — body copy at 16px/1.5, game titles at 20px/1.3, and category headers in a slightly bolder weight. The brand's voice is direct and inclusive: "Award-winning games for the whole family" appears in the hero, and the navigation is flat and shallow — Shop, About, Blog, and a search icon — no mega-menus, no clutter. The footer is a simple three-column layout with social icons, a newsletter signup, and a "Made with love" tagline. The overall feel is that of a well-organized toy store shelf: everything has its place, the colors are cheerful but not chaotic, and the white space lets each game breathe.
 
 colors:
   primary: "#65afe0"
@@ -379,6 +383,8 @@ components:
 - The newsletter signup form stacks vertically on mobile (input above button)
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom font family declarations were found on the live site; the brand likely uses a system font stack. A custom brand font (if any) would need to be identified and added to the typography block.
 - Only two brand colors were extracted from the live site (#65afe0 and #f5c400). Additional brand colors (secondary accents, error states, success states) may exist but were not detected. The red used for sale badges (#e74c3c) is a common web color and may not be official brand.

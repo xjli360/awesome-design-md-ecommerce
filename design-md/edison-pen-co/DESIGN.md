@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Edison Pen Co.
-description: |
+name: "Edison Pen Co."
+source_url: "https://edisonpen.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Parchment arrives before chrome at Edison Pen Co. The dominant surface is #dcd7ca — an unbleached cream much closer to cotton rag paper than digital white — and it primes every visitor to decelerate before reading a single word: this is a maker's site, not a marketplace. Against that warm field, crimson (#cd2653) appears with the economy of a wax seal: at the single decisive CTA moment — add to cart, confirm selection, initiate custom order — and nowhere else. The rest of the palette reads like a working desk: charcoal (#32373c) for running copy, near-black (#1e1f26) for display headings, and a deep molasses brown (#382110) that suggests dried iron-gall ink pooled in a glass bottle under an incandescent lamp. Muted gray (#6d6d6d) and its lighter sibling (#949494) handle secondary copy and ornamental hairlines without competing with the warm ground.
 
   Typography is unapologetically pre-digital. Palatino and Georgia dominate the display hierarchy — serif stacks chosen for a customer who selected a fountain pen over a ballpoint, who registered that a nib was adjusted by hand. System sans-serif (Geneva, Verdana) enters only for form labels, utility navigation, and small swatches; brief, functional appearances that prevent the reading experience from sliding into commodity UI. Display scale sits at 28–40px at normal weight (400) rather than the bold-heavy register of apparel brands; type trusts white space rather than mass to assert hierarchy.
@@ -419,6 +422,8 @@ components:
 - Hero: stacks image above text on mobile; image shifts to 100vw bleed and text sits below in full-width block with standard horizontal padding
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Many extracted hex values (#21759b, #00d084, #0693e3, #fdf497, #ff9900, #5865f2, #e94c89, #02e49b, #0757fe, #0a7aff, #4280ff, #f45800, #0866ff, #0461dd, #1d4fc4, #f00075, #e65678) appear to originate from WordPress Gutenberg editor UI, social-share widgets, or embedded third-party services — they were excluded from the brand palette
 - No meta theme-color was found; mobile browser chrome color is unspecified and will default to system behavior

@@ -1,11 +1,15 @@
 ---
 version: alpha
-name: xTool
-description: The most calibrated detail in xTool's UI system is the primary CTA color: #00cb69, a machine-readout green borrowed from CNC status displays rather than consumer e-commerce convention, detonating against a layered grey canvas (#f8f9fd, #f2f3f5, #ecedf0) with the visual clarity of a "job running" indicator. The ink runs to #191a19 — not pure black but a near-black with a trace of olive warmth that softens the industrial reference without losing the workshop register. Type is set in InterTight, a narrow geometric sans optimized for label-dense specifications: weights cluster at 600–700 for headers and 400–500 for body, never reaching the heavy 800–900 range that would make a product spec page feel aggressive rather than precise. Montserrat appears on marketing callouts and hero headlines; Nunito Sans handles longer body paragraphs and review text.
+name: "xTool"
+source_url: "https://www.xtool.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The most calibrated detail in xTool's UI system is the primary CTA color: #00cb69, a machine-readout green borrowed from CNC status displays rather than consumer e-commerce convention, detonating against a layered grey canvas (#f8f9fd, #f2f3f5, #ecedf0) with the visual clarity of a "job running" indicator. The ink runs to #191a19 — not pure black but a near-black with a trace of olive warmth that softens the industrial reference without losing the workshop register. Type is set in InterTight, a narrow geometric sans optimized for label-dense specifications: weights cluster at 600–700 for headers and 400–500 for body, never reaching the heavy 800–900 range that would make a product spec page feel aggressive rather than precise. Montserrat appears on marketing callouts and hero headlines; Nunito Sans handles longer body paragraphs and review text.
 
-Corner radii are modest: {rounded.sm} (8px) on buttons and inputs, {rounded.md} (12px) on product cards — professional rather than playful, closer to industrial software than consumer lifestyle. Pill chips ({rounded.full}) appear only on category selectors and small filter tags, where their compact floating quality serves legibility in dense filter bars. Spacing leans generous, with section padding at 64px and product grid gutters at 24–32px — the photography-first approach puts large laser engravers and DTF printers in full-bleed hero frames where whitespace is the structural decoration.
+  Corner radii are modest: {rounded.sm} (8px) on buttons and inputs, {rounded.md} (12px) on product cards — professional rather than playful, closer to industrial software than consumer lifestyle. Pill chips ({rounded.full}) appear only on category selectors and small filter tags, where their compact floating quality serves legibility in dense filter bars. Spacing leans generous, with section padding at 64px and product grid gutters at 24–32px — the photography-first approach puts large laser engravers and DTF printers in full-bleed hero frames where whitespace is the structural decoration.
 
-The danger and error states run through #9d0000 and #f5222d (traffic-light logic: green confirms, red warns), and a deep teal (#329179 / #108474) surfaces in secondary hover states and informational accents, maintaining the technical-precision register without repeating the primary green. Sale badges hit #9d0000, availability and buy buttons hit #00cb69, and the spectrum between is occupied by disciplined greys — a system that reads as workshop dashboard rather than marketplace.
+  The danger and error states run through #9d0000 and #f5222d (traffic-light logic: green confirms, red warns), and a deep teal (#329179 / #108474) surfaces in secondary hover states and informational accents, maintaining the technical-precision register without repeating the primary green. Sale badges hit #9d0000, availability and buy buttons hit #00cb69, and the spectrum between is occupied by disciplined greys — a system that reads as workshop dashboard rather than marketplace.
 
 colors:
   primary: "#00cb69"
@@ -345,6 +349,8 @@ components:
 - Hero subtitle copy is visually hidden on mobile to prevent text overload below the headline
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No yellow or gold color extracted — review star color (Judge.me integration confirmed by JudgemeIcons font) defaults to Judge.me's own orange-gold rather than a brand-defined value; exact hex unconfirmed
 - Relative weight of Montserrat vs InterTight in marketing contexts not deterministic from extraction alone — assumed InterTight for all product/UI text, Montserrat for hero marketing headlines only

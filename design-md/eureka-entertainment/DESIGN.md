@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Eureka Entertainment
-description: A deep-crimson accent of #c90000 against a near-white canvas of #fdfdfd announces Eureka Entertainment as a home for serious cinema — the red is not a playful brand mark but a signal of authority, used sparingly on primary CTAs, the masthead logo, and the "Masters of Cinema" series badge. The palette is deliberately restrained: body text in #2c2d33, secondary copy in #5d7380, and hairline borders in #dadada create a reading environment that prioritizes film stills and poster art over decorative UI. Typography relies on system-native stacks — Helvetica Neue, Arial, and BlinkMacSystemFont — with Andale Mono reserved for technical metadata (run times, aspect ratios, release years), a nod to the collector's impulse for specification. Cards and buttons use gentle radii ({rounded.sm} ~8px) that never compete with the hard edges of film frames, while the footer and secondary navigation recede into #eeeeee surfaces. The brand trusts its product photography entirely: there are no hero illustrations, no decorative gradients, no brand patterns — just a white gallery wall with red accents.
+name: "Eureka Entertainment"
+source_url: "https://eurekavideo.co.uk"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep-crimson accent of #c90000 against a near-white canvas of #fdfdfd announces Eureka Entertainment as a home for serious cinema — the red is not a playful brand mark but a signal of authority, used sparingly on primary CTAs, the masthead logo, and the "Masters of Cinema" series badge. The palette is deliberately restrained: body text in #2c2d33, secondary copy in #5d7380, and hairline borders in #dadada create a reading environment that prioritizes film stills and poster art over decorative UI. Typography relies on system-native stacks — Helvetica Neue, Arial, and BlinkMacSystemFont — with Andale Mono reserved for technical metadata (run times, aspect ratios, release years), a nod to the collector's impulse for specification. Cards and buttons use gentle radii ({rounded.sm} ~8px) that never compete with the hard edges of film frames, while the footer and secondary navigation recede into #eeeeee surfaces. The brand trusts its product photography entirely: there are no hero illustrations, no decorative gradients, no brand patterns — just a white gallery wall with red accents.
 
 colors:
   primary: "#c90000"
@@ -431,6 +435,8 @@ components:
 - Hero banner text overlays shift from side-by-side to stacked on mobile, with reduced font sizes.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states**: While primary button hover (#a30000) and card hover (border + shadow) are documented, secondary hover states for all components (e.g., filter chips, pagination buttons, footer links) were inferred from common patterns rather than extracted from the live site.
 - **Error and validation styling**: The error state for text inputs (#bd2130 border) is based on the extracted color list, but specific error message typography, iconography, and animation timing are not confirmed.

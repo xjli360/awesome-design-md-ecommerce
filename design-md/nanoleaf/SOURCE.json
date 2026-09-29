@@ -1,0 +1,903 @@
+{
+  "source_url": "https://nanoleaf.me",
+  "final_url": "https://nanoleaf.me/en-us",
+  "captured_at": "2026-09-28T10:00:14.273511+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://nanoleaf.me",
+      "final_url": "https://nanoleaf.me/en-us",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "17aef29ff0e9b580e3c6da37e2f000b317f03bc0433067324abe3c744d879a3c",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://nanoleaf.me/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://nanoleaf.me/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+      "final_url": "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a8e9319606df75f8ac9e9091a8d8c133bb28bab71afc72ea825c316cdf837f97",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "24f893d4566619c88a06efc0370ee757249c3d6bfff9de9eca2a475d799f37db",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://nanoleaf.me/cdn/shop/t/5/assets/theme.css?v=181676951086165098391789278394",
+      "final_url": "https://nanoleaf.me/cdn/shop/t/5/assets/theme.css?v=181676951086165098391789278394",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "92d0475cc5d448195e553b28ff45669b361f709f24d9bc3f7dd91b2ed584b7c3",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://nanoleaf.me/cdn/shop/t/5/assets/pdp-unified-v2.css?v=112137894623924737371788514494",
+      "final_url": "https://nanoleaf.me/cdn/shop/t/5/assets/pdp-unified-v2.css?v=112137894623924737371788514494",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3e28a6c84f805bb2a009ab42bf336e075a4c5d55c43b0c0fa0ee3dac41e6e7bb",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#1a1a2e": {
+      "count": 626,
+      "sources": [
+        "https://nanoleaf.me/en-us",
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+        "https://nanoleaf.me/cdn/shop/t/5/assets/theme.css?v=181676951086165098391789278394",
+        "https://nanoleaf.me/cdn/shop/t/5/assets/pdp-unified-v2.css?v=112137894623924737371788514494"
+      ]
+    },
+    "#ffffff": {
+      "count": 488,
+      "sources": [
+        "https://nanoleaf.me/en-us",
+        "https://nanoleaf.me/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+        "https://nanoleaf.me/cdn/shop/t/5/assets/theme.css?v=181676951086165098391789278394",
+        "https://nanoleaf.me/cdn/shop/t/5/assets/pdp-unified-v2.css?v=112137894623924737371788514494"
+      ]
+    },
+    "#48a06a": {
+      "count": 184,
+      "sources": [
+        "https://nanoleaf.me/en-us",
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+        "https://nanoleaf.me/cdn/shop/t/5/assets/theme.css?v=181676951086165098391789278394"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 115,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#999999": {
+      "count": 89,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+        "https://nanoleaf.me/cdn/shop/t/5/assets/theme.css?v=181676951086165098391789278394"
+      ]
+    },
+    "#71717a": {
+      "count": 79,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#666666": {
+      "count": 67,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+        "https://nanoleaf.me/cdn/shop/t/5/assets/theme.css?v=181676951086165098391789278394"
+      ]
+    },
+    "#2d8a23": {
+      "count": 58,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+        "https://nanoleaf.me/cdn/shop/t/5/assets/pdp-unified-v2.css?v=112137894623924737371788514494"
+      ]
+    },
+    "#f7f7f8": {
+      "count": 55,
+      "sources": [
+        "https://nanoleaf.me/en-us",
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+        "https://nanoleaf.me/cdn/shop/t/5/assets/theme.css?v=181676951086165098391789278394",
+        "https://nanoleaf.me/cdn/shop/t/5/assets/pdp-unified-v2.css?v=112137894623924737371788514494"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 48,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+        "https://nanoleaf.me/cdn/shop/t/5/assets/theme.css?v=181676951086165098391789278394"
+      ]
+    },
+    "#deddd8": {
+      "count": 46,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+        "https://nanoleaf.me/cdn/shop/t/5/assets/theme.css?v=181676951086165098391789278394"
+      ]
+    },
+    "#f5f4f0": {
+      "count": 39,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#eeeeee": {
+      "count": 34,
+      "sources": [
+        "https://nanoleaf.me/en-us",
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#51bd7a": {
+      "count": 32,
+      "sources": [
+        "https://nanoleaf.me/en-us",
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#000000": {
+      "count": 31,
+      "sources": [
+        "https://nanoleaf.me/en-us",
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+        "https://nanoleaf.me/cdn/shop/t/5/assets/theme.css?v=181676951086165098391789278394"
+      ]
+    },
+    "#555555": {
+      "count": 31,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 29,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#888888": {
+      "count": 28,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 27,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+        "https://nanoleaf.me/cdn/shop/t/5/assets/theme.css?v=181676951086165098391789278394"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 27,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#1e1e21": {
+      "count": 25,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#f0efea": {
+      "count": 22,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#e63946": {
+      "count": 21,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+        "https://nanoleaf.me/cdn/shop/t/5/assets/theme.css?v=181676951086165098391789278394"
+      ]
+    },
+    "#f5f5f0": {
+      "count": 20,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#308551": {
+      "count": 16,
+      "sources": [
+        "https://nanoleaf.me/en-us",
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+        "https://nanoleaf.me/cdn/shop/t/5/assets/theme.css?v=181676951086165098391789278394"
+      ]
+    },
+    "#cccccc": {
+      "count": 15,
+      "sources": [
+        "https://nanoleaf.me/en-us",
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#555c65": {
+      "count": 15,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+        "https://nanoleaf.me/cdn/shop/t/5/assets/theme.css?v=181676951086165098391789278394"
+      ]
+    },
+    "#131c29": {
+      "count": 14,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#5a5a6a": {
+      "count": 14,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#111111": {
+      "count": 13,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#6b7280": {
+      "count": 13,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#f0f0f5": {
+      "count": 13,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#2e2e3a": {
+      "count": 12,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#6f6f7d": {
+      "count": 12,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+        "https://nanoleaf.me/cdn/shop/t/5/assets/pdp-unified-v2.css?v=112137894623924737371788514494"
+      ]
+    },
+    "#131329": {
+      "count": 11,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#24242e": {
+      "count": 11,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#0f172a": {
+      "count": 10,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#ef4444": {
+      "count": 9,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#fafafa": {
+      "count": 9,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 8,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#dddddd": {
+      "count": 8,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#2a2a2d": {
+      "count": 8,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#141416": {
+      "count": 8,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#45a468": {
+      "count": 7,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#f3f4f6": {
+      "count": 7,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#333333": {
+      "count": 7,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#444444": {
+      "count": 6,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 6,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#3b82f6": {
+      "count": 6,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#111122": {
+      "count": 6,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#9ca3af": {
+      "count": 6,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#388455": {
+      "count": 6,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#8fc8a5": {
+      "count": 5,
+      "sources": [
+        "https://nanoleaf.me/en-us",
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#0d0d18": {
+      "count": 5,
+      "sources": [
+        "https://nanoleaf.me/en-us",
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#f8f7f4": {
+      "count": 5,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#f9f9f7": {
+      "count": 5,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#eae9e4": {
+      "count": 5,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+        "https://nanoleaf.me/cdn/shop/t/5/assets/theme.css?v=181676951086165098391789278394"
+      ]
+    },
+    "#f59e0b": {
+      "count": 5,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+        "https://nanoleaf.me/cdn/shop/t/5/assets/theme.css?v=181676951086165098391789278394"
+      ]
+    },
+    "#f0ede8": {
+      "count": 5,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "#3d3d56": {
+      "count": 5,
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+    ],
+    "BlinkMacSystemFont": [
+      "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+    ],
+    "Cascadia Code": [
+      "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+    ],
+    "Consolas": [
+      "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+    ],
+    "Fira Code": [
+      "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+    ],
+    "Georgia": [
+      "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+    ],
+    "Gilroy": [
+      "https://nanoleaf.me/en-us"
+    ],
+    "Inter": [
+      "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+      "https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap"
+    ],
+    "JudgemeStar": [
+      "https://nanoleaf.me/en-us"
+    ],
+    "Liberation Mono": [
+      "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+    ],
+    "Menlo": [
+      "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+    ],
+    "SF Mono": [
+      "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+    ],
+    "SFMono-Regular": [
+      "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+    ],
+    "inherit !important": [
+      "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+    ],
+    "inherit!important": [
+      "https://nanoleaf.me/cdn/shop/t/5/assets/theme.css?v=181676951086165098391789278394",
+      "https://nanoleaf.me/cdn/shop/t/5/assets/pdp-unified-v2.css?v=112137894623924737371788514494"
+    ],
+    "monospace": [
+      "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+    ],
+    "sans-serif": [
+      "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+    ],
+    "serif": [
+      "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+    ],
+    "system-ui": [
+      "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+    ],
+    "ui-monospace": [
+      "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://nanoleaf.me/en-us",
+      "selector": "html, body",
+      "declarations": "background-color: #ffffff;"
+    },
+    {
+      "source": "https://nanoleaf.me/en-us",
+      "selector": ":root",
+      "declarations": "--radius-card: 12px;\n      --radius-button: 100px;\n      --radius-image: 12px;\n      --color-brand-green: #48A06A;\n      --color-brand-green-hover: color-mix(in srgb, var(--color-brand-green) 85%, #000);\n      --color-brand-green-dark: color-mix(in srgb, var(--color-brand-green) 70%, #000);\n\n      \n      --section-spacing-s: 24px;\n      --section-spacing-m: 48px;\n      --section-spacing-l: 64px;\n      --section-spacing-xl: 80px;"
+    },
+    {
+      "source": "https://nanoleaf.me/en-us",
+      "selector": ":root",
+      "declarations": "--section-spacing-s: 18px;\n        --section-spacing-m: 34px;\n        --section-spacing-l: 42px;\n        --section-spacing-xl: 48px;"
+    },
+    {
+      "source": "https://nanoleaf.me/en-us",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #51BD7A;--jdgm-secondary-color: #F7F7F8;--jdgm-star-color: #51BD7A;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #51BD7A;--jdgm-paginate-color: #51BD7A;--jdgm-border-radius: 10;--jdgm-reviewer-name-color: #51BD7A"
+    },
+    {
+      "source": "https://nanoleaf.me/en-us",
+      "selector": "background: #308551; color: #f7f7f8;\n\n  :root",
+      "declarations": "--segment-corporate-color: #48a06a;--segment-ai-robotics-color: #48a06a;--segment-home-lighting-color: #48a06a;--segment-wellness-color: #6b947a;--segment-wellness-color-secondary: #8fc8a5;--segment-wellness-color-tertiary: #f2f2f2;--segment-active-color: #48a06a;\n    --brand-color-primary: #48a06a;"
+    },
+    {
+      "source": "https://nanoleaf.me/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://nanoleaf.me/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://nanoleaf.me/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://nanoleaf.me/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://nanoleaf.me/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://nanoleaf.me/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+      "selector": ".ag__body",
+      "declarations": "font-size: 0.9375rem;\n  line-height: 1.55;\n  color: rgba(26, 26, 46, 0.72);\n  margin: 0 0 1.75rem;"
+    },
+    {
+      "source": "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+      "selector": ":root",
+      "declarations": "--bb-dark: #1a1a2e;\n  --bb-green: var(--color-brand-green, #48A06A);\n  --bb-green-light: #e8f5e7;\n  --bb-surface: #f5f4f0;\n  --bb-border: #e5e5e5;\n  --bb-radius: 12px;\n  --bb-pill: 999px;\n  --bb-shadow: 0 1px 3px rgba(0,0,0,0.08);\n  --bb-shadow-lg: 0 4px 16px rgba(0,0,0,0.10);"
+    },
+    {
+      "source": "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+      "selector": ".bb__qty button",
+      "declarations": "width: 2.25rem;\n  height: 2.25rem;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  background: none;\n  border: none;\n  font-size: 1rem;\n  font-family: inherit;\n  cursor: pointer;\n  color: var(--bb-dark);\n  transition: background 0.15s;"
+    },
+    {
+      "source": "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+      "selector": ".bundler__product.is-selected",
+      "declarations": "border-color: #1a1a2e;\n  box-shadow: 0 0 0 1px #1a1a2e;"
+    },
+    {
+      "source": "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+      "selector": ".bundler__product-badge",
+      "declarations": "position: absolute;\n  top: 0.5rem;\n  right: 0.5rem;\n  padding: 0.125rem 0.5rem;\n  border-radius: var(--radius-button);\n  font-size: 9px;\n  font-weight: 700;\n  text-transform: uppercase;\n  color: #fff;\n  line-height: 1.4;"
+    },
+    {
+      "source": "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+      "selector": ".bundler__product-price",
+      "declarations": "font-size: 0.875rem;\n  font-weight: 700;\n  margin: 0;\n  color: #1a1a2e;"
+    },
+    {
+      "source": "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+      "selector": ".bundler__product-toggle",
+      "declarations": "display: flex;\n  align-items: center;\n  justify-content: center;\n  gap: 0.25rem;\n  width: 100%;\n  padding: 0.4375rem 0;\n  background: #1a1a2e;\n  color: #fff;\n  border: none;\n  border-radius: var(--radius-button);\n  font-size: 0.75rem;\n  font-weight: 600;\n  font-family: inherit;\n  cursor: pointer;\n  transition: background 0.25s, transform 0.2s;"
+    },
+    {
+      "source": "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+      "selector": ".bundler__product-qty button",
+      "declarations": "width: 2.25rem;\n  height: 2.25rem;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  background: none;\n  border: none;\n  font-size: 1rem;\n  font-family: inherit;\n  cursor: pointer;\n  color: #1a1a2e;\n  transition: background 0.15s;"
+    },
+    {
+      "source": "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+      "selector": ".bundler__product-sold-out",
+      "declarations": "display: block;\n  text-align: center;\n  font-size: 0.75rem;\n  color: #999;\n  font-weight: 600;"
+    },
+    {
+      "source": "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+      "selector": ".cl-seo__body",
+      "declarations": "font-size: 0.9375rem;\n  line-height: 1.8;\n  color: var(--color-text-muted, #555);"
+    },
+    {
+      "source": "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+      "selector": ".cl-seo--dark .cl-seo__body",
+      "declarations": "color: rgba(255,255,255,0.6);"
+    },
+    {
+      "source": "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+      "selector": ".cl-seo__body h2, .cl-seo__body h3",
+      "declarations": "font-size: 1.125rem;\n  font-weight: 600;\n  color: var(--color-foreground, #1a1a2e);\n  margin: 2rem 0 0.75rem;"
+    },
+    {
+      "source": "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+      "selector": ".cl-seo--dark .cl-seo__body h2,\n.cl-seo--dark .cl-seo__body h3",
+      "declarations": "color: #f5f5f5;"
+    },
+    {
+      "source": "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+      "selector": ".cl-seo__body a",
+      "declarations": "color: var(--color-foreground, #1a1a2e); text-decoration: underline;"
+    },
+    {
+      "source": "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+      "selector": ".cl-seo--dark .cl-seo__body a",
+      "declarations": "color: #f5f5f5;"
+    },
+    {
+      "source": "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+      "selector": ".cl-spotlights__body",
+      "declarations": "font-size: 1.0625rem;\n  line-height: 1.7;\n  color: var(--color-text-muted, #555);"
+    },
+    {
+      "source": "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+      "selector": ".cl-spotlights--dark .cl-spotlights__body",
+      "declarations": "color: rgba(255,255,255,0.65);"
+    },
+    {
+      "source": "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+      "selector": ".cl-filter-drawer__panel--dark .cl-filter-drawer__header",
+      "declarations": "border-color: rgba(255,255,255,0.1);"
+    },
+    {
+      "source": "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+      "selector": ".editorial__body",
+      "declarations": "font-size: 1.0625rem;\n  line-height: 1.7;\n  color: var(--color-text, #1a1a2e);\n  columns: 1;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Nanoleaf | LED Light Panels, AI-Powered Experiences & Wellness",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nanoleaf.me/en-us",
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+        "https://nanoleaf.me/cdn/shop/t/5/assets/theme.css?v=181676951086165098391789278394"
+      ]
+    },
+    "colors.primary-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nanoleaf.me/en-us",
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+        "https://nanoleaf.me/cdn/shop/t/5/assets/theme.css?v=181676951086165098391789278394"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nanoleaf.me/en-us",
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+        "https://nanoleaf.me/cdn/shop/t/5/assets/theme.css?v=181676951086165098391789278394",
+        "https://nanoleaf.me/cdn/shop/t/5/assets/pdp-unified-v2.css?v=112137894623924737371788514494"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nanoleaf.me/en-us",
+        "https://nanoleaf.me/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+        "https://nanoleaf.me/cdn/shop/t/5/assets/theme.css?v=181676951086165098391789278394",
+        "https://nanoleaf.me/cdn/shop/t/5/assets/pdp-unified-v2.css?v=112137894623924737371788514494"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+        "https://nanoleaf.me/cdn/shop/t/5/assets/theme.css?v=181676951086165098391789278394"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nanoleaf.me/en-us",
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+        "https://nanoleaf.me/cdn/shop/t/5/assets/theme.css?v=181676951086165098391789278394",
+        "https://nanoleaf.me/cdn/shop/t/5/assets/pdp-unified-v2.css?v=112137894623924737371788514494"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nanoleaf.me/en-us",
+        "https://nanoleaf.me/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+        "https://nanoleaf.me/cdn/shop/t/5/assets/theme.css?v=181676951086165098391789278394",
+        "https://nanoleaf.me/cdn/shop/t/5/assets/pdp-unified-v2.css?v=112137894623924737371788514494"
+      ]
+    },
+    "colors.accent-sale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+        "https://nanoleaf.me/cdn/shop/t/5/assets/theme.css?v=181676951086165098391789278394"
+      ]
+    },
+    "colors.accent-amber": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783",
+        "https://nanoleaf.me/cdn/shop/t/5/assets/theme.css?v=181676951086165098391789278394"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nanoleaf.me/en-us",
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "colors.wellness-tint": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nanoleaf.me/en-us",
+        "https://nanoleaf.me/cdn/shop/t/5/compiled_assets/styles.css?v=145381570381606913001790231783"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.bundle-builder": {
+      "status": "inferred"
+    }
+  }
+}

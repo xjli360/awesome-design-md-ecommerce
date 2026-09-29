@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Snif
-description: Snif is a warm, tactile, and slightly irreverent fragrance brand that feels like a cozy evening in a candle-lit room with a friend who has impeccable taste. The brand’s palette is built on a foundation of deep, earthy browns and creamy, blush-adjacent neutrals, anchored by a primary of rich mahogany (`#523228`) and a canvas of soft, barely-there blush (`#f5e8e2`). This isn’t a stark, minimalist white-label scent; it’s a sensory experience that leans into comfort and intimacy. The primary action color, a vibrant, almost urgent red (`#e32c2b`), provides a jolt of energy against the otherwise muted, grounded tones, used sparingly for critical CTAs and sale badges. Typography is a playful mix of the chunky, hand-drawn feel of `ExtraChunkPlease Regular` for headlines and the refined, serifed elegance of `GrandSlang Roman` for body copy, creating a deliberate tension between the casual and the luxurious. The system relies heavily on pill-shaped inputs and buttons (`{rounded.full}`), soft card corners (`{rounded.md}`), and generous whitespace (`{spacing.section}`) to create a feeling of approachability and calm. The overall mood is one of curated, accessible indulgence—a brand that doesn’t take itself too seriously but is deeply serious about the quality of its scents.
+name: "Snif"
+source_url: "https://snif.co"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Snif is a warm, tactile, and slightly irreverent fragrance brand that feels like a cozy evening in a candle-lit room with a friend who has impeccable taste. The brand’s palette is built on a foundation of deep, earthy browns and creamy, blush-adjacent neutrals, anchored by a primary of rich mahogany (`#523228`) and a canvas of soft, barely-there blush (`#f5e8e2`). This isn’t a stark, minimalist white-label scent; it’s a sensory experience that leans into comfort and intimacy. The primary action color, a vibrant, almost urgent red (`#e32c2b`), provides a jolt of energy against the otherwise muted, grounded tones, used sparingly for critical CTAs and sale badges. Typography is a playful mix of the chunky, hand-drawn feel of `ExtraChunkPlease Regular` for headlines and the refined, serifed elegance of `GrandSlang Roman` for body copy, creating a deliberate tension between the casual and the luxurious. The system relies heavily on pill-shaped inputs and buttons (`{rounded.full}`), soft card corners (`{rounded.md}`), and generous whitespace (`{spacing.section}`) to create a feeling of approachability and calm. The overall mood is one of curated, accessible indulgence—a brand that doesn’t take itself too seriously but is deeply serious about the quality of its scents.
 
 colors:
   primary: "#523228"
@@ -351,6 +355,8 @@ components:
 - The hero section's side-by-side layout (image + text) collapses into a stacked layout with the image above the text.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact hover and focus states for all components (e.g., `text-input-hover`, `product-card-hover`) were not reliably extracted from the live site and are inferred from standard patterns.
 - Error styling for form inputs (e.g., error border color, error message typography) is not available.

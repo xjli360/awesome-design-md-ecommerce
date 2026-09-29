@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: DKOldies
-description: A retro game retailer that wears its primary red #e03e2d like a neon sign above an arcade cabinet — the same voltage that fills every "Add to Cart" button, sale badge, and category header, set against a deep purple-black #221155 that reads as a CRT screen after the power cuts off. The brand pairs Press Start 2P (a pixel-perfect bitmap font for display headlines) with Roboto for body copy, creating a deliberate friction: the chunky 8-bit nostalgia of the former versus the clean, utilitarian readability of the latter. Product cards sit on a white canvas with soft `{rounded.sm}` corners, but the real visual punch comes from the green #28a300 — used for "In Stock" badges and price drops — which against the purple backdrop feels like a power-up mushroom appearing in a dark dungeon. The top navigation bar is a solid band of #221155 with white text, and the search bar echoes the same purple fill with a white placeholder, making the entire header feel like a game console's dashboard. Buttons are squat and chunky (48px tall, `{rounded.sm}`), and the primary CTA's red-on-white contrast is aggressive enough to survive any CRT scanline. The overall mood is less "curated nostalgia" and more "the back room of a 90s rental store that still smells like cardboard and victory."
+name: "DKOldies"
+source_url: "https://www.dkoldies.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A retro game retailer that wears its primary red #e03e2d like a neon sign above an arcade cabinet — the same voltage that fills every "Add to Cart" button, sale badge, and category header, set against a deep purple-black #221155 that reads as a CRT screen after the power cuts off. The brand pairs Press Start 2P (a pixel-perfect bitmap font for display headlines) with Roboto for body copy, creating a deliberate friction: the chunky 8-bit nostalgia of the former versus the clean, utilitarian readability of the latter. Product cards sit on a white canvas with soft `{rounded.sm}` corners, but the real visual punch comes from the green #28a300 — used for "In Stock" badges and price drops — which against the purple backdrop feels like a power-up mushroom appearing in a dark dungeon. The top navigation bar is a solid band of #221155 with white text, and the search bar echoes the same purple fill with a white placeholder, making the entire header feel like a game console's dashboard. Buttons are squat and chunky (48px tall, `{rounded.sm}`), and the primary CTA's red-on-white contrast is aggressive enough to survive any CRT scanline. The overall mood is less "curated nostalgia" and more "the back room of a 90s rental store that still smells like cardboard and victory."
 
 colors:
   primary: "#e03e2d"
@@ -386,6 +390,8 @@ components:
 - Search bar moves from inline nav to a full-width row below the nav on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for most components were inferred from common patterns, not extracted from the live site
 - Error styling for form inputs (validation, error messages) was not observed

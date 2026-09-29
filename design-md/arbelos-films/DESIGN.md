@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Arbelos Films
-description: A deep, scholarly blue — #1561a8 — anchors a site that feels more like a university press catalog than a movie distributor’s storefront. The palette is built on a narrow band of navy and slate (#003388, #005a87, #006ba1) against a near-white canvas (#f8f9f9), with the occasional jolt of cyan (#34e2e4) or purple (#4721fb) reserved for badges and accent elements. Typography runs Arial and Helvetica at modest sizes — no display faces, no variable fonts, no theatrical weight jumps. The grid is tight and text-heavy: film titles, director names, and release dates stack in compact rows with minimal imagery, trusting the strength of the catalog over hero photography. Buttons use {rounded.sm} corners and solid fills, while the search bar adopts {rounded.full} pill shapes — a rare moment of softness in an otherwise rectilinear system. The overall effect is archival and authoritative, a design that treats film as text worth studying rather than spectacle worth consuming.
+name: "Arbelos Films"
+source_url: "https://arbelosfilms.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep, scholarly blue — #1561a8 — anchors a site that feels more like a university press catalog than a movie distributor’s storefront. The palette is built on a narrow band of navy and slate (#003388, #005a87, #006ba1) against a near-white canvas (#f8f9f9), with the occasional jolt of cyan (#34e2e4) or purple (#4721fb) reserved for badges and accent elements. Typography runs Arial and Helvetica at modest sizes — no display faces, no variable fonts, no theatrical weight jumps. The grid is tight and text-heavy: film titles, director names, and release dates stack in compact rows with minimal imagery, trusting the strength of the catalog over hero photography. Buttons use {rounded.sm} corners and solid fills, while the search bar adopts {rounded.full} pill shapes — a rare moment of softness in an otherwise rectilinear system. The overall effect is archival and authoritative, a design that treats film as text worth studying rather than spectacle worth consuming.
 
 colors:
   primary: "#1561a8"
@@ -321,6 +325,8 @@ components:
 - Search bar moves from hero to sticky header on mobile for persistent access
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Extracted color list is heavily weighted toward generic web blues and grays — the brand's true primary (#1561a8) is the most distinctive blue, but there may be additional brand-specific accent colors not captured (e.g., a signature yellow or red for sale badges)
 - No font-family declarations beyond system stacks (Arial, Helvetica, Times New Roman) — the brand may use a custom or licensed typeface not detectable from HTML/CSS extraction

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Kinokuniya USA
-description: A bibliophile’s sanctuary where the page is the primary interface and the brand’s entire visual language defers to the printed object. The canvas is a cool, archival white (#ffffff) — not the warm cream of a cozy indie, but the clinical, respectful white of a gallery or a Japanese stationery shop. There is no extracted primary color from the live site, which is itself a design statement: Kinokuniya USA trusts the infinite color of book covers to provide the palette, and the UI steps back into a restrained system of hairline-thin borders (#e0e0e0), muted body text (#555555), and soft surface cards (#f8f8f8). The only deliberate brand voltage is the deep, ink-black (#111111) of the logo and navigation text — a nod to the weight of printed type. Buttons are minimal, secondary, and pill-shaped ({rounded.full}) with a transparent background and a subtle border, never competing with the product. The search bar is a full-width, pill-shaped field ({rounded.full}) with a magnifying-glass icon, inviting discovery without algorithmic aggression. The typography, though unextracted from the live site, is inferred to be a clean, readable sans-serif like Noto Sans JP or a system font stack — prioritizing legibility for multilingual book titles. The grid is generous and airy, with product cards using {rounded.sm} (4px) corners — a slight softening that prevents the white space from feeling sterile. The overall effect is that of a well-edited shelf: the brand’s personality is not in its chrome but in its restraint, allowing the thousands of book spines to be the true visual heroes.
+name: "Kinokuniya USA"
+source_url: "https://www.kinokuniya.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A bibliophile’s sanctuary where the page is the primary interface and the brand’s entire visual language defers to the printed object. The canvas is a cool, archival white (#ffffff) — not the warm cream of a cozy indie, but the clinical, respectful white of a gallery or a Japanese stationery shop. There is no extracted primary color from the live site, which is itself a design statement: Kinokuniya USA trusts the infinite color of book covers to provide the palette, and the UI steps back into a restrained system of hairline-thin borders (#e0e0e0), muted body text (#555555), and soft surface cards (#f8f8f8). The only deliberate brand voltage is the deep, ink-black (#111111) of the logo and navigation text — a nod to the weight of printed type. Buttons are minimal, secondary, and pill-shaped ({rounded.full}) with a transparent background and a subtle border, never competing with the product. The search bar is a full-width, pill-shaped field ({rounded.full}) with a magnifying-glass icon, inviting discovery without algorithmic aggression. The typography, though unextracted from the live site, is inferred to be a clean, readable sans-serif like Noto Sans JP or a system font stack — prioritizing legibility for multilingual book titles. The grid is generous and airy, with product cards using {rounded.sm} (4px) corners — a slight softening that prevents the white space from feeling sterile. The overall effect is that of a well-edited shelf: the brand’s personality is not in its chrome but in its restraint, allowing the thousands of book spines to be the true visual heroes.
 
 colors:
   primary: "#111111"
@@ -414,6 +418,8 @@ components:
 - **Search bar**: On mobile, the persistent search bar collapses into an icon in the top nav. Tapping the icon opens a full-width overlay search bar with auto-focus.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **No extracted primary color**: The live site did not yield a distinctive brand color from HTML/CSS extraction. The primary color (#111111) is inferred from the logo and navigation text, which is the most consistent visual element across pages. This may not match the brand's official color guidelines.
 - **No font-family declarations found**: The typography block uses a best-guess font stack (Noto Sans JP, Noto Sans, system fonts) based on the brand's Japanese heritage and the need for multilingual support. The actual brand font may be different (e.g., a custom typeface or a different Google Font).

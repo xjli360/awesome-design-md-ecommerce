@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Vornado
-description: |
+name: "Vornado"
+source_url: "https://www.vornado.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The vortex spiral pressed into every Vornado housing — its physical signature of air-column engineering — carries into the digital system as one act of visual compression: nearly everything routes through #d3161f, an industrial red with no warm undertone, punched against deep charcoal (#2d2d2d) and a cool near-white (#f4f4f4) grid with no softening intermediary. This is not a brand that distributes energy across a spectrum of accent colors; it bets the entire CTA layer on one signal, trusting the red to do simultaneous work as buy button, sale badge, urgency callout, and hover state. The discipline reads closer to power-tool branding than home-comfort lifestyle.
 
   Typography runs entirely on system stacks — Arial and Helvetica Neue — at weights that match the mechanical directness of the hardware. Display headlines sit at 700 weight and 36–48px; the heaviness is structural, echoing the solidity of cast-plastic housings rather than decorating a page. Body copy drops to 400/16px for legibility through spec-dense product pages where airflow ratings, BTU figures, and wattage numbers compete with marketing copy. No custom typeface was found in the extracted stacks; the plainness keeps attention on product photography and engineering credentials.
@@ -365,6 +368,8 @@ components:
 - Hero subhead text hides on viewports narrower than 375px to keep headline and CTA above the fold
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom brand typeface detected in extracted stacks — Arial and Helvetica Neue inferred as primary; Vornado may load a proprietary or licensed web font via Shopify theme JavaScript that the static extraction did not capture
 - Meta theme-color not set; system chrome defaults apply on mobile browsers, no brand red in the OS chrome bar

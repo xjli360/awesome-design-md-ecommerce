@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Honey Pot
-description: A deep, earthy warmth anchors Honey Pot’s digital presence — not the pastel pinks of conventional feminine care, but a rich #252222 ink that grounds every page against a #fdfbf6 canvas that reads like unbleached cotton or sun-dried parchment. The brand’s primary voltage comes from #da532c, a fired-clay orange that appears in CTAs, ingredient callouts, and the signature “plant-derived” badge, while a supporting cast of botanical accents — sage #7bc6b9, petal pink #f7a4d7, lavender #dccdf1, and mint #a7ecd7 — map directly to product variants and ingredient families. Typography is a deliberate hybrid: Rational Display for headlines (a warm, geometric sans with subtle humanist curves) and Syke Mono for data, pricing, and ingredient percentages, creating a system that feels both clinical and nurturing. The site uses generous vertical rhythm — section padding at {spacing.section} — and softens every interactive element with {rounded.full} pill shapes: search bars, add-to-cart buttons, ingredient tags. Product photography is high-contrast and shadow-rich, often set against the #fdfbf6 ground with a single hero product in center frame, the orange #da532c accent appearing only in the CTA strip below. The overall mood is that of an apothecary that happens to sell online: honest, plant-forward, and unapologetically warm.
+name: "Honey Pot"
+source_url: "https://thehoneypot.co"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep, earthy warmth anchors Honey Pot’s digital presence — not the pastel pinks of conventional feminine care, but a rich #252222 ink that grounds every page against a #fdfbf6 canvas that reads like unbleached cotton or sun-dried parchment. The brand’s primary voltage comes from #da532c, a fired-clay orange that appears in CTAs, ingredient callouts, and the signature “plant-derived” badge, while a supporting cast of botanical accents — sage #7bc6b9, petal pink #f7a4d7, lavender #dccdf1, and mint #a7ecd7 — map directly to product variants and ingredient families. Typography is a deliberate hybrid: Rational Display for headlines (a warm, geometric sans with subtle humanist curves) and Syke Mono for data, pricing, and ingredient percentages, creating a system that feels both clinical and nurturing. The site uses generous vertical rhythm — section padding at {spacing.section} — and softens every interactive element with {rounded.full} pill shapes: search bars, add-to-cart buttons, ingredient tags. Product photography is high-contrast and shadow-rich, often set against the #fdfbf6 ground with a single hero product in center frame, the orange #da532c accent appearing only in the CTA strip below. The overall mood is that of an apothecary that happens to sell online: honest, plant-forward, and unapologetically warm.
 
 colors:
   primary: "#da532c"
@@ -350,6 +354,8 @@ components:
 - Hero sections reduce vertical padding from 64px to 32px on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for ingredient badges and product card images could not be reliably extracted — assumed to use a subtle scale transform (1.02) and shadow lift
 - Error styling for form validation beyond the 2px orange border is not documented — error message typography and iconography are unknown

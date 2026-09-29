@@ -1,0 +1,659 @@
+{
+  "source_url": "https://inspiredleatherco.com",
+  "final_url": "https://inspiredleatherco.com/",
+  "captured_at": "2026-09-28T10:23:53.020801+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://inspiredleatherco.com",
+      "final_url": "https://inspiredleatherco.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "23e1d0a4b151cb2a7d6741362084fefb675412b642045a3181d13472d43a6687",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813",
+      "final_url": "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2fc25b70fe37b58775cbe46a25cff48b93eb02e97aa7fa05f1f895cf9d26a976",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://inspiredleatherco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://inspiredleatherco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme-noscript.css?v=123003003821296204761683498813",
+      "final_url": "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme-noscript.css?v=123003003821296204761683498813",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a9253f0d4da25ee29b4ef3b96ff990b1ca4de3558a705e6b96764e5c725e1a73",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://inspiredleatherco.com/cdn/shop/t/4/assets/section-sidebar.css?v=78590617930844620621683498813",
+      "final_url": "https://inspiredleatherco.com/cdn/shop/t/4/assets/section-sidebar.css?v=78590617930844620621683498813",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7f0886f4d5c3bafda4a7056150a514cda563bffd92ce812bdfc9a2e3c7db53df",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://inspiredleatherco.com/cdn/shop/t/4/assets/component-cart.css?v=165124980657838234891683498812",
+      "final_url": "https://inspiredleatherco.com/cdn/shop/t/4/assets/component-cart.css?v=165124980657838234891683498812",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2e76d8bb3f29d6fa33111cb3c5b68a8ec682c650486363d4bc30e310cfc1c308",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 15,
+      "sources": [
+        "https://inspiredleatherco.com/",
+        "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813",
+        "https://inspiredleatherco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#000000": {
+      "count": 9,
+      "sources": [
+        "https://inspiredleatherco.com/"
+      ]
+    },
+    "#fafafa": {
+      "count": 4,
+      "sources": [
+        "https://inspiredleatherco.com/"
+      ]
+    },
+    "#262626": {
+      "count": 3,
+      "sources": [
+        "https://inspiredleatherco.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://inspiredleatherco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://inspiredleatherco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0000005c": {
+      "count": 2,
+      "sources": [
+        "https://inspiredleatherco.com/cdn/shop/t/4/assets/section-sidebar.css?v=78590617930844620621683498813"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 1,
+      "sources": [
+        "https://inspiredleatherco.com/"
+      ]
+    },
+    "#282323": {
+      "count": 1,
+      "sources": [
+        "https://inspiredleatherco.com/"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 1,
+      "sources": [
+        "https://inspiredleatherco.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://inspiredleatherco.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://inspiredleatherco.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://inspiredleatherco.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://inspiredleatherco.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://inspiredleatherco.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://inspiredleatherco.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://inspiredleatherco.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://inspiredleatherco.com/"
+      ]
+    },
+    "#3333334d": {
+      "count": 1,
+      "sources": [
+        "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813"
+      ]
+    },
+    "#33333340": {
+      "count": 1,
+      "sources": [
+        "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813"
+      ]
+    },
+    "#33333333": {
+      "count": 1,
+      "sources": [
+        "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813"
+      ]
+    },
+    "#33333326": {
+      "count": 1,
+      "sources": [
+        "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813"
+      ]
+    },
+    "#3333331a": {
+      "count": 1,
+      "sources": [
+        "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813"
+      ]
+    },
+    "#3333330d": {
+      "count": 1,
+      "sources": [
+        "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813"
+      ]
+    },
+    "#33333305": {
+      "count": 1,
+      "sources": [
+        "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813"
+      ]
+    },
+    "#33333300": {
+      "count": 1,
+      "sources": [
+        "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813"
+      ]
+    },
+    "#721c24": {
+      "count": 1,
+      "sources": [
+        "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813"
+      ]
+    },
+    "#f8d7da": {
+      "count": 1,
+      "sources": [
+        "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813"
+      ]
+    },
+    "#155724": {
+      "count": 1,
+      "sources": [
+        "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813"
+      ]
+    },
+    "#d4edda": {
+      "count": 1,
+      "sources": [
+        "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813"
+      ]
+    },
+    "#856404": {
+      "count": 1,
+      "sources": [
+        "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813"
+      ]
+    },
+    "#fff3cd": {
+      "count": 1,
+      "sources": [
+        "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 1,
+      "sources": [
+        "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813"
+      ]
+    },
+    "#000000cc": {
+      "count": 1,
+      "sources": [
+        "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://inspiredleatherco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://inspiredleatherco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://inspiredleatherco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813"
+    ],
+    "Baskerville": [
+      "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813"
+    ],
+    "Montserrat": [
+      "https://inspiredleatherco.com/"
+    ],
+    "monospace": [
+      "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://inspiredleatherco.com/",
+      "selector": ":root",
+      "declarations": "--color-sidebar-bg: 255, 255, 255;\n    --color-sidebar-mobile-border: #e0e0e0;\n\n    --color-sidebar-txt: 0, 0, 0;\n    --color-sidebar-txt-foreground: 255, 255, 255;\n\n    --color-sidebar-accent: 239, 16, 16;\n    --color-sidebar-accent-foreground: 255, 255, 255;\n\n    \n\n    --color-body-bg: 255, 255, 255;\n\n    --color-body-txt: 0, 0, 0;\n    --color-body-txt-foreground: 255, 255, 255;\n\n    --color-body-accent: 239, 16, 16;\n    --color-body-accent-foreground: 255, 255, 255;\n\n    \n\n    --color-footer-bg: 0, 0, 0;\n    --color-footer-txt: 255, 255, 255;\n    --color-footer-accent: 239, 16, 16;\n\n    \n\n    --color-body-text: #000000;\n    --color-body: #ffffff;\n    --color-bg: #ffffff;\n\n    \n\n    --base"
+    },
+    {
+      "source": "https://inspiredleatherco.com/",
+      "selector": "#slide-d3b89bb2-9585-4a55-a778-d87653a2345b a.button--solid",
+      "declarations": "background: #ffffff;\n\t\t\t\t\t\t\t\tcolor: #000;"
+    },
+    {
+      "source": "https://inspiredleatherco.com/",
+      "selector": "#slide-image_bTgKpK a.button--solid",
+      "declarations": "background: #ffffff;\n\t\t\t\t\t\t\t\tcolor: #000;"
+    },
+    {
+      "source": "https://inspiredleatherco.com/",
+      "selector": "#slide-b4300b06-06be-4e54-953d-f6d48ae6aea5 a.button--solid",
+      "declarations": "background: #fafafa;\n\t\t\t\t\t\t\t\tcolor: #000;"
+    },
+    {
+      "source": "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813",
+      "selector": ":root",
+      "declarations": "--vertical-padding: var(--vertical-padding-base);--vertical-padding-more: calc(var(--vertical-padding-base) * 1.5);--horizontal-padding: var(--horizontal-padding-base);--horizontal-padding-more: calc(var(--horizontal-padding-base) * 1.1);--compact-header-padding: 50px;--grid-gutter: var(--grid-gutter-base)"
+    },
+    {
+      "source": "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813",
+      "selector": ":root",
+      "declarations": "--grid-gutter: calc(var(--grid-gutter-base) * .75)"
+    },
+    {
+      "source": "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813",
+      "selector": ":root",
+      "declarations": "--horizontal-padding: calc(var(--horizontal-padding-base) * .8)"
+    },
+    {
+      "source": "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813",
+      "selector": ":root",
+      "declarations": "--horizontal-padding: calc(var(--horizontal-padding-base) * .7)"
+    },
+    {
+      "source": "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813",
+      "selector": ":root",
+      "declarations": "--grid-gutter: calc(var(--grid-gutter-base) * .6)"
+    },
+    {
+      "source": "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813",
+      "selector": ":root",
+      "declarations": "--horizontal-padding: calc(var(--horizontal-padding-base) * .6)"
+    },
+    {
+      "source": "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813",
+      "selector": ":root",
+      "declarations": "--vertical-padding-more: var(--vertical-padding);--horizontal-padding: calc(var(--horizontal-padding-base) * .5);--horizontal-padding-more: calc(var(--horizontal-padding-base) * .7)"
+    },
+    {
+      "source": "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813",
+      "selector": ":root",
+      "declarations": "--vertical-padding: calc(var(--vertical-padding-base) * .7);--horizontal-padding: 25px;--horizontal-padding-more: 50px;--compact-header-padding: 30px;--grid-gutter: calc(var(--grid-gutter-base) * .4)"
+    },
+    {
+      "source": "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813",
+      "selector": ":root",
+      "declarations": "--vertical-padding: calc(var(--vertical-padding-base) * .6);--compact-header-padding: 20px"
+    },
+    {
+      "source": "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813",
+      "selector": ":root",
+      "declarations": "--vertical-padding: calc(var(--vertical-padding-base) * .5)"
+    },
+    {
+      "source": "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813",
+      "selector": ".button,.shopify-challenge__button",
+      "declarations": "font-family:var(--font-stack-body);font-weight:var(--font-weight-body);font-style:var(--font-style-body);font-size:15px;line-height:53px;height:55px;font-weight:var(--font-weight-body-semibold);padding:0 25px;border:2px solid transparent;transition:all .15s linear,width 0ms;cursor:pointer;display:inline-block;-webkit-appearance:none;border-radius:0"
+    },
+    {
+      "source": "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813",
+      "selector": ".button--outline",
+      "declarations": "outline:none!important;border-color:rgba(var(--color-body-txt),1);color:rgba(var(--color-body-txt),1)"
+    },
+    {
+      "source": "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813",
+      "selector": ".no-touch .button--outline:not(.button--outline-hover):hover",
+      "declarations": "border-color:rgba(var(--color-body-accent),1);color:rgba(var(--color-body-accent),1)"
+    },
+    {
+      "source": "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813",
+      "selector": ".disabled.button--outline",
+      "declarations": "opacity:.66;border-color:rgba(var(--color-body-txt),.16)"
+    },
+    {
+      "source": "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813",
+      "selector": ".sidebar-element .button--outline",
+      "declarations": "border-color:rgba(var(--color-sidebar-txt),1)!important;color:rgba(var(--color-sidebar-txt),1)!important"
+    },
+    {
+      "source": "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813",
+      "selector": ".no-touch .sidebar-element .button--outline:not(.button--outline-hover):hover",
+      "declarations": "border-color:rgba(var(--color-sidebar-accent),1)!important;color:rgba(var(--color-sidebar-accent),1)!important"
+    },
+    {
+      "source": "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813",
+      "selector": ".sidebar-element .disabled.button--outline",
+      "declarations": "border-color:rgba(var(--color-sidebar-txt),.16)"
+    },
+    {
+      "source": "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813",
+      "selector": ".button--solid,.shopify-challenge__button",
+      "declarations": "outline:none!important;background:rgba(var(--color-body-txt),1);color:rgba(var(--color-body-txt-foreground),1)"
+    },
+    {
+      "source": "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813",
+      "selector": ".no-touch .button--solid:hover,.no-touch .shopify-challenge__button:hover",
+      "declarations": "border-color:transparent;background:rgba(var(--color-body-accent),1)!important;color:rgba(var(--color-body-accent-foreground),1)!important"
+    },
+    {
+      "source": "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813",
+      "selector": ".sidebar-element .button--solid,.sidebar-element .shopify-challenge__button",
+      "declarations": "background:rgba(var(--color-sidebar-txt),1);color:rgba(var(--color-sidebar-txt-foreground),1)"
+    },
+    {
+      "source": "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813",
+      "selector": ".no-touch .sidebar-element .button--solid:hover,.no-touch .sidebar-element .shopify-challenge__button:hover",
+      "declarations": "background:rgba(var(--color-sidebar-accent),1)!important;color:rgba(var(--color-sidebar-accent-foreground),1)!important"
+    },
+    {
+      "source": "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813",
+      "selector": ".button--text",
+      "declarations": "font-family:var(--font-stack-body);font-weight:var(--font-weight-body);font-style:var(--font-style-body);color:rgba(var(--color-body-txt),1);border-bottom:1px solid;cursor:pointer;transition:all .15s linear"
+    },
+    {
+      "source": "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813",
+      "selector": ".no-touch .button--text:hover",
+      "declarations": "color:rgba(var(--color-body-accent),1)"
+    },
+    {
+      "source": "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813",
+      "selector": "body",
+      "declarations": "font-family:var(--font-stack-body);font-weight:var(--font-weight-body);font-style:var(--font-style-body);color:rgba(var(--color-body-txt),1);background:rgba(var(--color-body-bg),1)"
+    },
+    {
+      "source": "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813",
+      "selector": "h1,h2,h3,h4,h5,h6,.hh,.h0,.h1,.h2,.h3,.h4,.h5,.h6",
+      "declarations": "font-family:var(--font-stack-headings);font-weight:var(--font-weight-headings);font-style:var(--font-style-headings);display:block;margin-bottom:1em"
+    },
+    {
+      "source": "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813",
+      "selector": ".no-touch .rte a:not(.button):hover",
+      "declarations": "color:rgba(var(--color-body-accent),1)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Inspired Leather | Customizable Leather Goods As Unique As You",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://inspiredleatherco.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://inspiredleatherco.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://inspiredleatherco.com/",
+        "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813",
+        "https://inspiredleatherco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://inspiredleatherco.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://inspiredleatherco.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://inspiredleatherco.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://inspiredleatherco.com/",
+        "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813",
+        "https://inspiredleatherco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.ink-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://inspiredleatherco.com/"
+      ]
+    },
+    "colors.overlay": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://inspiredleatherco.com/cdn/shop/t/4/assets/theme.css?v=25251717489336841321683498813"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://inspiredleatherco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://inspiredleatherco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.personalization-panel": {
+      "status": "inferred"
+    }
+  }
+}

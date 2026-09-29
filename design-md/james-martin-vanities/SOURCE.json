@@ -1,0 +1,748 @@
+{
+  "source_url": "https://jamesmartinvanities.com",
+  "final_url": "https://jamesmartinvanities.com/",
+  "captured_at": "2026-09-29T04:07:49.453225+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://jamesmartinvanities.com",
+      "final_url": "https://jamesmartinvanities.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "29977f3350ea020e84ae65ab3cd95fbdea9020c4f5c8f349995641be80cb9c31",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://jamesmartinvanities.com/cdn/shop/t/55/assets/swiper.min.css?v=88091268259482038431708377876",
+      "final_url": "https://jamesmartinvanities.com/cdn/shop/t/55/assets/swiper.min.css?v=88091268259482038431708377876",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c48beb371e6c464d2bff57b165a1a9272f26e9a2e5e20420cc9bbcb39883d294",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://jamesmartinvanities.com/cdn/shop/t/55/assets/photoswipe.min.css?v=165459975419098386681708377876",
+      "final_url": "https://jamesmartinvanities.com/cdn/shop/t/55/assets/photoswipe.min.css?v=165459975419098386681708377876",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6d8e96a1ee8566ae849e74d55df99ae9ef1915d2931e03f6a1ecf20296753a0f",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876",
+      "final_url": "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3435b42fe7d6a5260695b4226c5b045bd1d9affe69f6e55461bcdb5df41376e9",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://jamesmartinvanities.com/cdn/shop/t/55/assets/custom.css?v=102493421877365237651708377876",
+      "final_url": "https://jamesmartinvanities.com/cdn/shop/t/55/assets/custom.css?v=102493421877365237651708377876",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "51507b68be668e24ba0b62b2d8e942e0becea336fd21bf82a1e308fe86934baa",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 36,
+      "sources": [
+        "https://jamesmartinvanities.com/",
+        "https://jamesmartinvanities.com/cdn/shop/t/55/assets/swiper.min.css?v=88091268259482038431708377876",
+        "https://jamesmartinvanities.com/cdn/shop/t/55/assets/photoswipe.min.css?v=165459975419098386681708377876"
+      ]
+    },
+    "#242424": {
+      "count": 21,
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "#94918c": {
+      "count": 13,
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "#323131": {
+      "count": 8,
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "#000000": {
+      "count": 7,
+      "sources": [
+        "https://jamesmartinvanities.com/cdn/shop/t/55/assets/swiper.min.css?v=88091268259482038431708377876",
+        "https://jamesmartinvanities.com/cdn/shop/t/55/assets/photoswipe.min.css?v=165459975419098386681708377876",
+        "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876"
+      ]
+    },
+    "#d02e2e": {
+      "count": 6,
+      "sources": [
+        "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 5,
+      "sources": [
+        "https://jamesmartinvanities.com/",
+        "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876"
+      ]
+    },
+    "#efefef": {
+      "count": 5,
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "#262428": {
+      "count": 5,
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "#3d7f4e": {
+      "count": 4,
+      "sources": [
+        "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876"
+      ]
+    },
+    "#757575": {
+      "count": 3,
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "#373737": {
+      "count": 2,
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "#4f4f4f": {
+      "count": 2,
+      "sources": [
+        "https://jamesmartinvanities.com/cdn/shop/t/55/assets/photoswipe.min.css?v=165459975419098386681708377876"
+      ]
+    },
+    "#d4d3d4": {
+      "count": 2,
+      "sources": [
+        "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876"
+      ]
+    },
+    "#fff6f6": {
+      "count": 2,
+      "sources": [
+        "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876"
+      ]
+    },
+    "#d2d1d1": {
+      "count": 1,
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "#3f3e3e": {
+      "count": 1,
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "#e4e4e4": {
+      "count": 1,
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "#343434": {
+      "count": 1,
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 1,
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "#181818": {
+      "count": 1,
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "#fcfcfc": {
+      "count": 1,
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "#a09e99": {
+      "count": 1,
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 1,
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "#4c4a4a": {
+      "count": 1,
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "#28a745": {
+      "count": 1,
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "#dc3545": {
+      "count": 1,
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "#eb9247": {
+      "count": 1,
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "#54708b": {
+      "count": 1,
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "#d3d7d6": {
+      "count": 1,
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "#f8f3ec": {
+      "count": 1,
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "#d3d2cc": {
+      "count": 1,
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "#e0e2e1": {
+      "count": 1,
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "#b3a284": {
+      "count": 1,
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "#007aff": {
+      "count": 1,
+      "sources": [
+        "https://jamesmartinvanities.com/cdn/shop/t/55/assets/swiper.min.css?v=88091268259482038431708377876"
+      ]
+    },
+    "#222222": {
+      "count": 1,
+      "sources": [
+        "https://jamesmartinvanities.com/cdn/shop/t/55/assets/photoswipe.min.css?v=165459975419098386681708377876"
+      ]
+    },
+    "#e6e5e7": {
+      "count": 1,
+      "sources": [
+        "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 1,
+      "sources": [
+        "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876"
+      ]
+    },
+    "#b6b6b6": {
+      "count": 1,
+      "sources": [
+        "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876"
+      ]
+    },
+    "#ecfef0": {
+      "count": 1,
+      "sources": [
+        "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876"
+      ]
+    },
+    "#faf7f5": {
+      "count": 1,
+      "sources": [
+        "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876"
+      ]
+    },
+    "#51ab62": {
+      "count": 1,
+      "sources": [
+        "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876"
+      ]
+    },
+    "#e8d2d2": {
+      "count": 1,
+      "sources": [
+        "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876"
+      ]
+    },
+    "#bcbcbc": {
+      "count": 1,
+      "sources": [
+        "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876"
+      ]
+    }
+  },
+  "font_families": {
+    "Consolas": [
+      "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876"
+    ],
+    "Open Sans": [
+      "https://jamesmartinvanities.com/"
+    ],
+    "Segoe UI": [
+      "https://jamesmartinvanities.com/"
+    ],
+    "helvetica": [
+      "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876"
+    ],
+    "monospace": [
+      "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876"
+    ],
+    "object-fit: contain": [
+      "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876"
+    ],
+    "swiper-icons": [
+      "https://jamesmartinvanities.com/cdn/shop/t/55/assets/swiper.min.css?v=88091268259482038431708377876"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://jamesmartinvanities.com/",
+      "selector": "body",
+      "declarations": "background-color: var(--body-color);\n      min-height: 100%;\n      margin: 0;\n      display: grid;\n      grid-template-rows: auto auto 1fr auto;\n      grid-template-columns: 100%;\n      overflow-x: hidden;"
+    },
+    {
+      "source": "https://jamesmartinvanities.com/",
+      "selector": "object-fit:cover;object-position:50.0% 50.0%!important;\n object-fit:cover;object-position:50.0% 50.0%!important;\n\n\n  :root",
+      "declarations": "--logo-max-width: 360px;\n    --header-overlay-background-color: #ffffff;"
+    },
+    {
+      "source": "https://jamesmartinvanities.com/",
+      "selector": ".header-section:not(.sticky-header) .overlay-header,\n  .contact-page .header-section.sticky-header:not(.sticked) .overlay-header,\n  .contact-page .header-sectio",
+      "declarations": "background-color: #ffffff;"
+    },
+    {
+      "source": "https://jamesmartinvanities.com/",
+      "selector": ".template-index .overlay-header.force-hover,\n  \n  .template-list-collections .overlay-header.force-hover\n  .contact-page .overlay-header.force-hover",
+      "declarations": "background-color: #ffffff;"
+    },
+    {
+      "source": "https://jamesmartinvanities.com/",
+      "selector": ".back-to-top-button",
+      "declarations": "border: none;\n    background-color: transparent;"
+    },
+    {
+      "source": "https://jamesmartinvanities.com/cdn/shop/t/55/assets/swiper.min.css?v=88091268259482038431708377876",
+      "selector": ":root",
+      "declarations": "--swiper-theme-color:#007aff"
+    },
+    {
+      "source": "https://jamesmartinvanities.com/cdn/shop/t/55/assets/swiper.min.css?v=88091268259482038431708377876",
+      "selector": ":root",
+      "declarations": "--swiper-navigation-size:44px"
+    },
+    {
+      "source": "https://jamesmartinvanities.com/cdn/shop/t/55/assets/swiper.min.css?v=88091268259482038431708377876",
+      "selector": ".swiper-button-next,.swiper-button-prev",
+      "declarations": "position:absolute;top:50%;width:calc(var(--swiper-navigation-size)/ 44 * 27);height:var(--swiper-navigation-size);margin-top:calc(-1 * var(--swiper-navigation-size)/ 2);z-index:10;cursor:pointer;display:flex;align-items:center;justify-content:center;color:var(--swiper-navigation-color,var(--swiper-theme-color))"
+    },
+    {
+      "source": "https://jamesmartinvanities.com/cdn/shop/t/55/assets/swiper.min.css?v=88091268259482038431708377876",
+      "selector": ".swiper-button-next:after,.swiper-button-prev:after",
+      "declarations": "font-family:swiper-icons;font-size:var(--swiper-navigation-size);text-transform:none!important;letter-spacing:0;text-transform:none;font-variant:initial;line-height:1"
+    },
+    {
+      "source": "https://jamesmartinvanities.com/cdn/shop/t/55/assets/swiper.min.css?v=88091268259482038431708377876",
+      "selector": ".swiper-button-next.swiper-button-white,.swiper-button-prev.swiper-button-white",
+      "declarations": "--swiper-navigation-color:#ffffff"
+    },
+    {
+      "source": "https://jamesmartinvanities.com/cdn/shop/t/55/assets/swiper.min.css?v=88091268259482038431708377876",
+      "selector": ".swiper-button-next.swiper-button-black,.swiper-button-prev.swiper-button-black",
+      "declarations": "--swiper-navigation-color:#000000"
+    },
+    {
+      "source": "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876",
+      "selector": ".btn,.shopify-payment-button__button.shopify-payment-button__button--unbranded",
+      "declarations": "-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;display:inline-block;padding:10px calc(15px + 20px);width:auto;margin:0;position:relative;overflow:hidden;text-decoration:none;text-align:center;vertical-align:middle;line-height:1.6;cursor:pointer;border:0;-webkit-appearance:none;-moz-appearance:none;border-radius:var(--alt-btn-border-radius);background-color:var(--primary-btn-bg-color);color:var(--primary-btn-text-color);font-family:var(--button-font-stack);font-weight:var(--button-font-weight);font-style:var(--button-font-style);text-transform:var(--button-text-case);font-size:var(--button-font-size-px);letter-spacing:var(--button-text-spacing-px)"
+    },
+    {
+      "source": "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876",
+      "selector": ".btn.btn--secondary,.shopify-payment-button__button.shopify-payment-button__button--unbranded.btn--secondary",
+      "declarations": "background:0 0;color:var(--primary-btn-bg-color);border:1px solid var(--primary-btn-bg-color)"
+    },
+    {
+      "source": "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876",
+      "selector": "button--unbranded:disabled,.shopify-payment-button__button.shopify-payment-button__button--unbranded:hover,.shopify-payment-button__button.shopify-payment-butto",
+      "declarations": "color:var(--primary-btn-text-color)!important;background-color:var(--primary-btn-bg-color)!important;opacity:1!important"
+    },
+    {
+      "source": "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876",
+      "selector": ".shopify-product-form .shopify-payment-button__more-options",
+      "declarations": "font-size:var(--button-font-size-px);width:70%;margin:15px auto 0;color:var(--link-color)"
+    },
+    {
+      "source": "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876",
+      "selector": "body .homepage-section--testimonials-wrapper a",
+      "declarations": "color:var(--text-color)"
+    },
+    {
+      "source": "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876",
+      "selector": "body .homepage-sections-wrapper--white",
+      "declarations": "--color-scheme-text-color:var(--text-color);--color-scheme-text-color-transparent50:var(--text-color-transparent50);--color-scheme-background-color:var(--body-color);--color-scheme-border-color:var(--text-color-transparent25);background:var(--body-color);color:var(--text-color)"
+    },
+    {
+      "source": "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876",
+      "selector": "per--white .inline-icon--wrapper,body .homepage-sections-wrapper--white .standalone-icon--wrapper,body .homepage-sections-wrapper--white input,body .homepage-se",
+      "declarations": "color:var(--text-color)"
+    },
+    {
+      "source": "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876",
+      "selector": "body .homepage-sections-wrapper--white a:not(.btn):not(.standalone-icon--wrapper)",
+      "declarations": "color:var(--link-color)"
+    },
+    {
+      "source": "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876",
+      "selector": "body .homepage-sections-wrapper--white .btn,body .homepage-sections-wrapper--white .color-scheme-btn",
+      "declarations": "background-color:var(--primary-btn-bg-color);color:var(--primary-btn-text-color)"
+    },
+    {
+      "source": "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876",
+      "selector": "body .homepage-sections-wrapper--white .color-scheme-btn .homepage-video-play-button-inner",
+      "declarations": "border-color:transparent transparent transparent var(--primary-btn-text-color)"
+    },
+    {
+      "source": "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876",
+      "selector": "body .homepage-sections-wrapper--light",
+      "declarations": "--color-scheme-text-color:var(--color-scheme-light-text);--color-scheme-text-color-transparent50:var(--color-scheme-light-text-transparent50);--color-scheme-background-color:var(--color-scheme-light-background);--color-scheme-border-color:var(--color-scheme-light-text-transparent25);background-color:var(--color-scheme-light-background);color:var(--color-scheme-light-text)"
+    },
+    {
+      "source": "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876",
+      "selector": "per--light .inline-icon--wrapper,body .homepage-sections-wrapper--light .standalone-icon--wrapper,body .homepage-sections-wrapper--light input,body .homepage-se",
+      "declarations": "color:var(--color-scheme-light-text)"
+    },
+    {
+      "source": "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876",
+      "selector": "body .homepage-sections-wrapper--light a:not(.btn)",
+      "declarations": "color:var(--color-scheme-light-text)"
+    },
+    {
+      "source": "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876",
+      "selector": "body .homepage-sections-wrapper--light .btn,body .homepage-sections-wrapper--light .color-scheme-btn",
+      "declarations": "background-color:var(--color-scheme-light-text);color:var(--color-scheme-light-background)"
+    },
+    {
+      "source": "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876",
+      "selector": "body .homepage-sections-wrapper--light .color-scheme-btn .homepage-video-play-button-inner",
+      "declarations": "border-color:transparent transparent transparent var(--color-scheme-light-text)"
+    },
+    {
+      "source": "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876",
+      "selector": "body .homepage-sections-wrapper--light .homepage-video-play-button-inner",
+      "declarations": "border-color:transparent transparent transparent var(--color-scheme-light-text)"
+    },
+    {
+      "source": "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876",
+      "selector": "body .image-with-text-wrapper .homepage-sections-wrapper--light .homepage-featured-content-box",
+      "declarations": "color:var(--color-scheme-light-text);background:var(--color-scheme-light-background)"
+    },
+    {
+      "source": "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876",
+      "selector": "body .image-with-text-wrapper .homepage-sections-wrapper--light .btn.homepage-featured-box-btn",
+      "declarations": "background-color:var(--color-scheme-light-text);color:var(--color-scheme-light-background)"
+    },
+    {
+      "source": "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876",
+      "selector": "body .map-section-wrapper .homepage-sections-wrapper--light .homepage-map-content-box",
+      "declarations": "color:var(--color-scheme-light-text);background:var(--color-scheme-light-background)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "James Martin Vanities - Designer Bathroom Vanities | Luxury Vanity",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jamesmartinvanities.com/cdn/shop/t/55/assets/swiper.min.css?v=88091268259482038431708377876",
+        "https://jamesmartinvanities.com/cdn/shop/t/55/assets/photoswipe.min.css?v=165459975419098386681708377876",
+        "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jamesmartinvanities.com/",
+        "https://jamesmartinvanities.com/cdn/shop/t/55/assets/swiper.min.css?v=88091268259482038431708377876",
+        "https://jamesmartinvanities.com/cdn/shop/t/55/assets/photoswipe.min.css?v=165459975419098386681708377876"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jamesmartinvanities.com/",
+        "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jamesmartinvanities.com/",
+        "https://jamesmartinvanities.com/cdn/shop/t/55/assets/swiper.min.css?v=88091268259482038431708377876",
+        "https://jamesmartinvanities.com/cdn/shop/t/55/assets/photoswipe.min.css?v=165459975419098386681708377876"
+      ]
+    },
+    "colors.accent-brass": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "colors.blush": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876"
+      ]
+    },
+    "colors.cream": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jamesmartinvanities.com/cdn/shop/t/55/assets/theme.min.css?v=47343804334189442121708377876"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jamesmartinvanities.com/"
+      ]
+    },
+    "colors.interactive-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jamesmartinvanities.com/cdn/shop/t/55/assets/swiper.min.css?v=88091268259482038431708377876"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.collection-tile": {
+      "status": "inferred"
+    }
+  }
+}

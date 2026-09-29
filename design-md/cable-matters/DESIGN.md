@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Cable Matters
-description: |
+name: "Cable Matters"
+source_url: "https://www.cablematters.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Safety-vest orange (#f17506) is the load-bearing color of this catalog — not the friendlier tangerine consumer electronics brands favor, but a utility-grade signal hue that Cable Matters fires at every primary CTA, price callout, and promotional accent, set against a warm ecru canvas (#f5f4ef) that immediately separates the site from clinical-white competitors; the ecru choice is the quiet tell that this is a dense product database built for buyers who comparison-shop connector types and bandwidth ratings across hundreds of SKUs rather than browsing for brand experience. Text runs entirely in Arial — no custom typeface, no variable font — which reads as a trust signal in a category where purchase decisions rest on technical compatibility tables and accurate product photography rather than brand narrative.
 
   Red appears in two functional registers: a burnt crimson (#a72d2c) marks sale pricing and inventory warnings, while a hotter alert red (#d20000, escalating to #e12000) signals urgent low-stock or error states — a legible urgency ladder that works without iconography. Informational blue (#0263c1, deepening to #004b91 on hover) handles anchor links and callout badges, cleanly separated from the orange commercial register so a buyer scanning a spec page always knows which element is after their wallet and which is simply after their attention. The neutral stack runs warm — primary text at #484848, body copy at #595959, stepping through #757575 and #8c8c8c toward hairlines at #dedede — keeping the large SKU grid from reading as raw data.
@@ -378,6 +381,8 @@ components:
 - Breadcrumb collapses to show only the immediate parent category plus the current page on mobile, separated by a `muted` chevron
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact disabled state for `button-primary` not extractable — assume `primary-hover` (#f38727) at 50% opacity as a safe fallback; not confirmed from static extraction
 - Footer background may be darker than #484848 (the darkest neutral in the extracted palette); actual footer could use a near-black not surfaced by the color sweep

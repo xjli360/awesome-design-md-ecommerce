@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Hardgraft
-description: A leather-goods brand that builds its entire visual identity around a single metallic thread: #ab8c52, an aged-brass gold that appears in every button, every badge, every underline, and every hover state — not as a flashy accent but as the quiet structural color of a well-worn belt buckle. The canvas is #f5f2ec, a warm off-white that reads like unbleached linen or the inside of a vintage wallet, while #212121 ink provides the deep contrast of a hand-stamped monogram. Hardgraft’s typography is a deliberate collision: the display voice is alternate-gothic-no-3-d, a compressed, muscular sans that feels like a shipping-stencil mark on a crate, while body copy runs in brandon-grotesque or davis-sans — softer, more readable, the kind of type you’d find in a small-batch catalog. The brand uses {rounded.xs} (4px) on nearly everything — buttons, cards, inputs — a radius so subtle it’s almost a chamfer, like the edge of a leather strap that’s been skived and burnished rather than cut with a laser. There are no pill shapes, no bubbly friendliness; the system is rectilinear and grounded. Product photography dominates over UI chrome: the nav is a thin strip of {colors.canvas} with {colors.ink} links, the footer is dense with legal and support links in {colors.muted} (#a49c8b), and the only decorative flourish is the gold line — a 1px {colors.primary} border that appears on hover under nav items and on the top edge of the footer. The overall mood is that of a workshop ledger: serious, material, unimpressed by trends.
+name: "Hardgraft"
+source_url: "https://www.hardgraft.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A leather-goods brand that builds its entire visual identity around a single metallic thread: #ab8c52, an aged-brass gold that appears in every button, every badge, every underline, and every hover state — not as a flashy accent but as the quiet structural color of a well-worn belt buckle. The canvas is #f5f2ec, a warm off-white that reads like unbleached linen or the inside of a vintage wallet, while #212121 ink provides the deep contrast of a hand-stamped monogram. Hardgraft’s typography is a deliberate collision: the display voice is alternate-gothic-no-3-d, a compressed, muscular sans that feels like a shipping-stencil mark on a crate, while body copy runs in brandon-grotesque or davis-sans — softer, more readable, the kind of type you’d find in a small-batch catalog. The brand uses {rounded.xs} (4px) on nearly everything — buttons, cards, inputs — a radius so subtle it’s almost a chamfer, like the edge of a leather strap that’s been skived and burnished rather than cut with a laser. There are no pill shapes, no bubbly friendliness; the system is rectilinear and grounded. Product photography dominates over UI chrome: the nav is a thin strip of {colors.canvas} with {colors.ink} links, the footer is dense with legal and support links in {colors.muted} (#a49c8b), and the only decorative flourish is the gold line — a 1px {colors.primary} border that appears on hover under nav items and on the top edge of the footer. The overall mood is that of a workshop ledger: serious, material, unimpressed by trends.
 
 colors:
   primary: "#ab8c52"
@@ -406,6 +410,8 @@ components:
 - Product image galleries switch from a thumbnail strip to a swipeable carousel.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for `button-secondary` and `button-text` are inferred from common patterns; exact color transitions (e.g., background opacity changes) were not extractable.
 - Error styling for forms (error messages, icon placement) is assumed; the extracted palette includes #c13515 as a likely error red, but its usage is not confirmed.

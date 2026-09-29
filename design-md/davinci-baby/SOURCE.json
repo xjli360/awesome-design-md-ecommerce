@@ -1,0 +1,643 @@
+{
+  "source_url": "https://davincibaby.com",
+  "final_url": "https://davincibaby.com/",
+  "captured_at": "2026-09-28T09:06:04.367746+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://davincibaby.com",
+      "final_url": "https://davincibaby.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "c311b2305407b0be383be49c1501f57b2274fba165417a23fd91d46045c37fae",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css",
+      "final_url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "e5e202e3c899507992952533f57b634722b69b34241d271963559d31aa33ef81",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://davincibaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://davincibaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://davincibaby.com/cdn/shop/t/39/assets/component-predictive-search.css?v=161167102660133001421718024007",
+      "final_url": "https://davincibaby.com/cdn/shop/t/39/assets/component-predictive-search.css?v=161167102660133001421718024007",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ebb9d6a632ba330436a426e2d6726bcf9ab39220cd99c000110e3aa9bdada19d",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://davincibaby.com/cdn/shop/t/39/assets/mobile.css?v=8919848572956843891765206623",
+      "final_url": "https://davincibaby.com/cdn/shop/t/39/assets/mobile.css?v=8919848572956843891765206623",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4bc02e3cd72a07365c7f3941b9aba104af4818cfd8de4fca60e840d48c485361",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#2e435a": {
+      "count": 64,
+      "sources": [
+        "https://davincibaby.com/",
+        "https://davincibaby.com/cdn/shop/t/39/assets/component-predictive-search.css?v=161167102660133001421718024007",
+        "https://davincibaby.com/cdn/shop/t/39/assets/mobile.css?v=8919848572956843891765206623"
+      ]
+    },
+    "#000000": {
+      "count": 25,
+      "sources": [
+        "https://davincibaby.com/",
+        "https://davincibaby.com/cdn/shop/t/39/assets/mobile.css?v=8919848572956843891765206623"
+      ]
+    },
+    "#98e8ff": {
+      "count": 21,
+      "sources": [
+        "https://davincibaby.com/",
+        "https://davincibaby.com/cdn/shop/t/39/assets/mobile.css?v=8919848572956843891765206623"
+      ]
+    },
+    "#ffffff": {
+      "count": 20,
+      "sources": [
+        "https://davincibaby.com/",
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css",
+        "https://davincibaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://davincibaby.com/cdn/shop/t/39/assets/mobile.css?v=8919848572956843891765206623"
+      ]
+    },
+    "#00000000": {
+      "count": 20,
+      "sources": [
+        "https://davincibaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://davincibaby.com/cdn/shop/t/39/assets/mobile.css?v=8919848572956843891765206623"
+      ]
+    },
+    "#ddf7fc": {
+      "count": 10,
+      "sources": [
+        "https://davincibaby.com/",
+        "https://davincibaby.com/cdn/shop/t/39/assets/mobile.css?v=8919848572956843891765206623"
+      ]
+    },
+    "#f1fcfe": {
+      "count": 6,
+      "sources": [
+        "https://davincibaby.com/"
+      ]
+    },
+    "#ff4b24": {
+      "count": 6,
+      "sources": [
+        "https://davincibaby.com/",
+        "https://davincibaby.com/cdn/shop/t/39/assets/mobile.css?v=8919848572956843891765206623"
+      ]
+    },
+    "#ddeb5a": {
+      "count": 4,
+      "sources": [
+        "https://davincibaby.com/"
+      ]
+    },
+    "#ffc657": {
+      "count": 4,
+      "sources": [
+        "https://davincibaby.com/"
+      ]
+    },
+    "#ffdccf": {
+      "count": 4,
+      "sources": [
+        "https://davincibaby.com/"
+      ]
+    },
+    "#1a172c": {
+      "count": 3,
+      "sources": [
+        "https://davincibaby.com/",
+        "https://davincibaby.com/cdn/shop/t/39/assets/mobile.css?v=8919848572956843891765206623"
+      ]
+    },
+    "#ffffff80": {
+      "count": 3,
+      "sources": [
+        "https://davincibaby.com/cdn/shop/t/39/assets/mobile.css?v=8919848572956843891765206623"
+      ]
+    },
+    "#dddddd": {
+      "count": 2,
+      "sources": [
+        "https://davincibaby.com/"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://davincibaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000080": {
+      "count": 2,
+      "sources": [
+        "https://davincibaby.com/cdn/shop/t/39/assets/mobile.css?v=8919848572956843891765206623"
+      ]
+    },
+    "#f8c555": {
+      "count": 1,
+      "sources": [
+        "https://davincibaby.com/"
+      ]
+    },
+    "#8a8a8a": {
+      "count": 1,
+      "sources": [
+        "https://davincibaby.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 1,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://davincibaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://davincibaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://davincibaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#d9d9d980": {
+      "count": 1,
+      "sources": [
+        "https://davincibaby.com/cdn/shop/t/39/assets/mobile.css?v=8919848572956843891765206623"
+      ]
+    },
+    "#ffffff8c": {
+      "count": 1,
+      "sources": [
+        "https://davincibaby.com/cdn/shop/t/39/assets/mobile.css?v=8919848572956843891765206623"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://davincibaby.com/"
+    ],
+    "Bigola Display": [
+      "https://davincibaby.com/",
+      "https://davincibaby.com/cdn/shop/t/39/assets/mobile.css?v=8919848572956843891765206623"
+    ],
+    "Des Montilles": [
+      "https://davincibaby.com/",
+      "https://davincibaby.com/cdn/shop/t/39/assets/mobile.css?v=8919848572956843891765206623"
+    ],
+    "Font Awesome 5 Brands": [
+      "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+    ],
+    "Font Awesome 5 Free": [
+      "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+    ],
+    "Font Awesome 6 Brands": [
+      "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+    ],
+    "Font Awesome 6 Free": [
+      "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+    ],
+    "FontAwesome": [
+      "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"
+    ],
+    "Goldplay": [
+      "https://davincibaby.com/",
+      "https://davincibaby.com/cdn/shop/t/39/assets/mobile.css?v=8919848572956843891765206623"
+    ],
+    "Helvetica": [
+      "https://davincibaby.com/"
+    ],
+    "Helvetica Neue": [
+      "https://davincibaby.com/"
+    ],
+    "sans": [
+      "https://davincibaby.com/"
+    ],
+    "sans-serif": [
+      "https://davincibaby.com/"
+    ],
+    "sans-serif !important": [
+      "https://davincibaby.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://davincibaby.com/",
+      "selector": ":root",
+      "declarations": "--screen-break: 768px;--announcement-bar-height: 40px;--header-height: 60px;--header-height-desktop: 100px;--header-border-bottom-width: 0;--indent: 30px;--indent-desktop: 86px;--body-font: Goldplay;--body-font-size: 14px;--text-color: #2E435A;--color-dark: #1a172c;--border-color: rgba(217, 217, 217, 0.5);--background-color: #DDF7FC;--header-background-color: #F1FCFE;--icon-size: 20px;--header-font: Goldplay;--header-font-size: 9px;--header-font-weight: 600;--header-letter-spacing: 0em;--header-text-transform: none;--header-color: #2E435A;--accent-color: #ff4b24"
+    },
+    {
+      "source": "https://davincibaby.com/",
+      "selector": "body",
+      "declarations": "font-family:\"Goldplay\";font-size:14px;font-weight:normal;line-height:normal;letter-spacing:normal;background-color:#ddf7fc;color:#2e435a"
+    },
+    {
+      "source": "https://davincibaby.com/",
+      "selector": ":root",
+      "declarations": "--section-announcement-bar: 0"
+    },
+    {
+      "source": "https://davincibaby.com/",
+      "selector": "h1,.h1",
+      "declarations": "font-family:\"Bigola Display\";text-shadow:none;text-transform:lowercase;font-size:24px;font-weight:400;letter-spacing:.2px;line-height:100%;margin-top:20px;margin-bottom:20px"
+    },
+    {
+      "source": "https://davincibaby.com/",
+      "selector": "ot(.button-link):not(.secondary):not(.button-icon),button.shopify-payment-button__button:not(.button-link):not(.secondary):not(.button-icon),.button:not(.button",
+      "declarations": "display:inline-flex;align-items:center;gap:8px;white-space:nowrap;background:#ddeb5a;color:#2e435a;border:1px solid #ddeb5a;border-radius:31.5px;padding:8px 23px;font-family:\"Goldplay\",sans-serif;font-size:12px;font-weight:500;letter-spacing:normal;line-height:normal;text-transform:lowercase;cursor:pointer;transition:all .4s ease"
+    },
+    {
+      "source": "https://davincibaby.com/",
+      "selector": "con):hover,.button:not(.button-link):not(.secondary):not(.button-icon).shopify-payment-button__button--unbranded:hover:not([disabled]),.button:not(.button-link)",
+      "declarations": "background:#98e8ff;color:#2e435a;border-color:#98e8ff"
+    },
+    {
+      "source": "https://davincibaby.com/",
+      "selector": "(.button-link):not(.secondary):not(.button-icon).shopify-payment-button__button--unbranded:hover:not([disabled]) .icon path,.button:not(.button-link):not(.secon",
+      "declarations": "color:#2e435a;fill:#2e435a"
+    },
+    {
+      "source": "https://davincibaby.com/",
+      "selector": "ot(.secondary):not(.button-icon) .icon,button.shopify-payment-button__button:not(.button-link):not(.secondary):not(.button-icon) .icon,.button:not(.button-link)",
+      "declarations": "color:#2e435a;width:16px;height:16px"
+    },
+    {
+      "source": "https://davincibaby.com/",
+      "selector": "not(.button-icon) .icon path,button.shopify-payment-button__button:not(.button-link):not(.secondary):not(.button-icon) .icon path,.button:not(.button-link):not(",
+      "declarations": "transition:all .4s ease;color:#2e435a;fill:#2e435a"
+    },
+    {
+      "source": "https://davincibaby.com/",
+      "selector": "button.secondary,button.shopify-payment-button__button.secondary,.button.secondary",
+      "declarations": "display:inline-flex;align-items:center;gap:8px;white-space:nowrap;background:#fff;color:#000;border:1px solid #ddeb5a;border-radius:6px;padding:6px 10px;font-family:sans-serif;font-size:1.4rem;font-weight:normal;letter-spacing:.2px;line-height:normal;text-transform:none;transition:all .4s ease"
+    },
+    {
+      "source": "https://davincibaby.com/",
+      "selector": "button.secondary:hover,button.shopify-payment-button__button.secondary:hover,.button.secondary:hover",
+      "declarations": "background:#000;color:#fff;border-color:#000"
+    },
+    {
+      "source": "https://davincibaby.com/",
+      "selector": "button.secondary:hover .icon path,button.shopify-payment-button__button.secondary:hover .icon path,.button.secondary:hover .icon path",
+      "declarations": "color:#fff;fill:#fff"
+    },
+    {
+      "source": "https://davincibaby.com/",
+      "selector": "button.secondary .icon,button.shopify-payment-button__button.secondary .icon,.button.secondary .icon",
+      "declarations": "color:#000;width:16px;height:16px"
+    },
+    {
+      "source": "https://davincibaby.com/",
+      "selector": "ton.secondary .icon path,button.shopify-payment-button__button.secondary .icon line,button.shopify-payment-button__button.secondary .icon path,.button.secondary",
+      "declarations": "transition:all .4s ease;color:#fff;fill:#000"
+    },
+    {
+      "source": "https://davincibaby.com/",
+      "selector": "button.button-link,button.shopify-payment-button__button.button-link,.button.button-link",
+      "declarations": "background:rgba(0,0,0,0);border:0;display:inline-flex;flex-direction:row;align-items:center;gap:8px;color:#2e435a;padding:0 6px;font-family:sans-serif;font-size:1.4rem;font-weight:normal;letter-spacing:.2px;line-height:normal;text-transform:none;text-decoration:underline 1px;transition:all .4s ease"
+    },
+    {
+      "source": "https://davincibaby.com/",
+      "selector": "button.button-link:hover,button.shopify-payment-button__button.button-link:hover,.button.button-link:hover",
+      "declarations": "color:#000;text-decoration:underline 3px"
+    },
+    {
+      "source": "https://davincibaby.com/",
+      "selector": "button.button-link:hover .icon path,button.shopify-payment-button__button.button-link:hover .icon path,.button.button-link:hover .icon path",
+      "declarations": "color:#000;fill:#000"
+    },
+    {
+      "source": "https://davincibaby.com/",
+      "selector": "button.button-link .icon,button.shopify-payment-button__button.button-link .icon,.button.button-link .icon",
+      "declarations": "color:#2e435a;width:16px;height:16px"
+    },
+    {
+      "source": "https://davincibaby.com/",
+      "selector": "-link .icon path,button.shopify-payment-button__button.button-link .icon line,button.shopify-payment-button__button.button-link .icon path,.button.button-link .",
+      "declarations": "transition:all .4s ease;color:#000;fill:#2e435a"
+    },
+    {
+      "source": "https://davincibaby.com/",
+      "selector": "button.button-icon,button.shopify-payment-button__button.button-icon,.button.button-icon",
+      "declarations": "background:#ddeb5a;color:#2e435a;border:0;border-radius:6px;padding:6px"
+    },
+    {
+      "source": "https://davincibaby.com/",
+      "selector": "button.button-icon:hover,button.shopify-payment-button__button.button-icon:hover,.button.button-icon:hover",
+      "declarations": "background:#98e8ff;color:#2e435a;border:0"
+    },
+    {
+      "source": "https://davincibaby.com/",
+      "selector": "button.button-icon:hover svg path,button.shopify-payment-button__button.button-icon:hover svg path,.button.button-icon:hover svg path",
+      "declarations": "color:#2e435a;fill:#2e435a"
+    },
+    {
+      "source": "https://davincibaby.com/",
+      "selector": "button.button-link,button.shopify-payment-button__button.button-link,.button.button-link",
+      "declarations": "gap:8px;padding:0 6px;font-family:sans-serif;font-size:1.4rem;font-weight:normal;letter-spacing:.2px;line-height:normal"
+    },
+    {
+      "source": "https://davincibaby.com/",
+      "selector": ".button.cloud",
+      "declarations": "background-color:#ddf7fc;border-color:#ddf7fc"
+    },
+    {
+      "source": "https://davincibaby.com/",
+      "selector": ".button.cloud:hover",
+      "declarations": "background-color:#98e8ff;border-color:#98e8ff"
+    },
+    {
+      "source": "https://davincibaby.com/",
+      "selector": ".shopify-pc__banner__dialog button:hover",
+      "declarations": "background-color:#ddf7fc !important;border-color:#ddf7fc !important"
+    },
+    {
+      "source": "https://davincibaby.com/",
+      "selector": ".klaviyo-form-TnuWcS input,.klaviyo-form-TnuWcS button",
+      "declarations": "background-color:#98e8ff !important;border:none !important;height:79px !important"
+    },
+    {
+      "source": "https://davincibaby.com/",
+      "selector": "#klaviyo-bis-button-container button.needsclick",
+      "declarations": "display:block !important;text-align:center !important;color:#2e435a !important;font-family:\"Goldplay\",Arial,\"Helvetica Neue\",Helvetica,sans-serif !important;font-size:20px !important;font-style:normal !important;font-weight:500 !important;letter-spacing:0px !important;text-decoration:none !important;background-color:#98e8ff !important;border-radius:24px !important;height:48px !important;line-height:48px !important;width:100% !important;cursor:pointer !important"
+    },
+    {
+      "source": "https://davincibaby.com/",
+      "selector": "form[data-testid=klaviyo-form-SiXHkf] button.klaviyo-form-button",
+      "declarations": "display:block !important;text-align:center !important;color:#2e435a !important;font-family:\"Goldplay\",Arial,\"Helvetica Neue\",Helvetica,sans-serif !important;font-size:20px !important;font-style:normal !important;font-weight:500 !important;letter-spacing:0px !important;text-decoration:none !important;background-color:#98e8ff !important;border-radius:24px !important;height:48px !important;line-height:48px !important;width:100% !important;cursor:pointer !important"
+    },
+    {
+      "source": "https://davincibaby.com/",
+      "selector": "button.needsclick.klaviyo-close-form",
+      "declarations": "width:auto !important;background-color:unset !important"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "daVinci | Cribs, Gliders, & Award-Winning Nursery Furniture\n – DaVinci Baby",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://davincibaby.com/"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://davincibaby.com/",
+        "https://davincibaby.com/cdn/shop/t/39/assets/mobile.css?v=8919848572956843891765206623"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://davincibaby.com/",
+        "https://davincibaby.com/cdn/shop/t/39/assets/mobile.css?v=8919848572956843891765206623"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://davincibaby.com/",
+        "https://davincibaby.com/cdn/shop/t/39/assets/component-predictive-search.css?v=161167102660133001421718024007",
+        "https://davincibaby.com/cdn/shop/t/39/assets/mobile.css?v=8919848572956843891765206623"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://davincibaby.com/",
+        "https://davincibaby.com/cdn/shop/t/39/assets/mobile.css?v=8919848572956843891765206623"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://davincibaby.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://davincibaby.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://davincibaby.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://davincibaby.com/",
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css",
+        "https://davincibaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://davincibaby.com/cdn/shop/t/39/assets/mobile.css?v=8919848572956843891765206623"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://davincibaby.com/",
+        "https://davincibaby.com/cdn/shop/t/39/assets/component-predictive-search.css?v=161167102660133001421718024007",
+        "https://davincibaby.com/cdn/shop/t/39/assets/mobile.css?v=8919848572956843891765206623"
+      ]
+    },
+    "colors.highlight": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://davincibaby.com/",
+        "https://davincibaby.com/cdn/shop/t/39/assets/mobile.css?v=8919848572956843891765206623"
+      ]
+    },
+    "colors.gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://davincibaby.com/"
+      ]
+    },
+    "colors.peach": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://davincibaby.com/"
+      ]
+    },
+    "colors.deep-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://davincibaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.deep-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://davincibaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.near-black": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://davincibaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.trust-badge": {
+      "status": "inferred"
+    }
+  }
+}

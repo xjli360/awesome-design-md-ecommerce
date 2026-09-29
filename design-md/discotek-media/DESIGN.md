@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Discotek Media
-description: A midnight-blue (#091727) digital storefront for a physical-media revivalist, where the warmth of #fffbf0 — a buttery off-white that reads like aged paper stock — offsets the institutional weight of #003399, a deep corporate blue that appears on every product badge and price tag. The site runs Tahoma and Trebuchet MS, two system fonts that feel like they were chosen in the early 2000s and never revisited, which is exactly right for a brand selling DVD and Blu-ray releases of anime and cult films from that era. Navigation is a simple horizontal bar of text links in #091727 on the cream canvas, with no dropdowns or mega-menus — the brand trusts its grid of product thumbnails to do the selling. Product cards sit on {rounded.sm} corners with the cream background, each showing a key visual, title, and price in #003399, creating a consistent blue-accent rhythm across the page. The footer is a dense block of #111111 with white links, a classic dark-bottom layout that anchors the light content above. There is no hero section, no carousel, no search bar — just a straightforward catalog grid and a sidebar of category filters, suggesting a brand that prioritizes browsability over persuasion.
+name: "Discotek Media"
+source_url: "https://discotekmedia.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A midnight-blue (#091727) digital storefront for a physical-media revivalist, where the warmth of #fffbf0 — a buttery off-white that reads like aged paper stock — offsets the institutional weight of #003399, a deep corporate blue that appears on every product badge and price tag. The site runs Tahoma and Trebuchet MS, two system fonts that feel like they were chosen in the early 2000s and never revisited, which is exactly right for a brand selling DVD and Blu-ray releases of anime and cult films from that era. Navigation is a simple horizontal bar of text links in #091727 on the cream canvas, with no dropdowns or mega-menus — the brand trusts its grid of product thumbnails to do the selling. Product cards sit on {rounded.sm} corners with the cream background, each showing a key visual, title, and price in #003399, creating a consistent blue-accent rhythm across the page. The footer is a dense block of #111111 with white links, a classic dark-bottom layout that anchors the light content above. There is no hero section, no carousel, no search bar — just a straightforward catalog grid and a sidebar of category filters, suggesting a brand that prioritizes browsability over persuasion.
 
 colors:
   primary: "#003399"
@@ -257,6 +261,8 @@ components:
 - Footer columns stack vertically on mobile, with each link group becoming a full-width block
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for most components could not be reliably extracted from the live site CSS
 - Error styling for form inputs (validation states, error messages) was not observed

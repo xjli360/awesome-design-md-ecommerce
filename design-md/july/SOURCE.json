@@ -1,0 +1,943 @@
+{
+  "source_url": "https://july.com",
+  "final_url": "https://july.com/us/",
+  "captured_at": "2026-09-28T09:12:13.132238+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://july.com",
+      "final_url": "https://july.com/us/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "456592744c99f8f40544cfef21ac4924fe1d7d64a58d0bc2437d26dadfca0e11",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://july.com/_next/static/chunks/0atv12nk~hus0.css",
+      "final_url": "https://july.com/_next/static/chunks/0atv12nk~hus0.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "20067ad0abc6ea53ff6c29045b739f5b04f4a9027bf6c01ea564db0abd66e952",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://july.com/_next/static/chunks/0.3tlu~ckw158.css",
+      "final_url": "https://july.com/_next/static/chunks/0.3tlu~ckw158.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "4830be394b29d9b75e3624c8c2408d8a2ffbb2fb98c6cede2831f6eb52bebb93",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://july.com/_next/static/chunks/0.flouz58jk3j.css",
+      "final_url": "https://july.com/_next/static/chunks/0.flouz58jk3j.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "1136ecd398ea40335f2b21e9bbeaeb433c2806d0f872efe5f78b403fef52c5f9",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://july.com/_next/static/chunks/0kmrxws7da~el.css",
+      "final_url": "https://july.com/_next/static/chunks/0kmrxws7da~el.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "2b38abbd6477b9255e26ae808c3ec308a1a1f725586643ba2ca6b2544afd0307",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://july.com/_next/static/chunks/07y407allc.h5.css",
+      "final_url": "https://july.com/_next/static/chunks/07y407allc.h5.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "36ec5a0cee50c5712ed017a6aab6afa136d161f8be3f21fe36410eed8586dfeb",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 56,
+      "sources": [
+        "https://july.com/us/",
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css",
+        "https://july.com/_next/static/chunks/0.flouz58jk3j.css",
+        "https://july.com/_next/static/chunks/0kmrxws7da~el.css"
+      ]
+    },
+    "#00000000": {
+      "count": 52,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css",
+        "https://july.com/_next/static/chunks/0.flouz58jk3j.css",
+        "https://july.com/_next/static/chunks/0kmrxws7da~el.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 48,
+      "sources": [
+        "https://july.com/us/",
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css",
+        "https://july.com/_next/static/chunks/0.flouz58jk3j.css",
+        "https://july.com/_next/static/chunks/0kmrxws7da~el.css"
+      ]
+    },
+    "#171513": {
+      "count": 18,
+      "sources": [
+        "https://july.com/us/",
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 11,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#a5a987": {
+      "count": 7,
+      "sources": [
+        "https://july.com/us/"
+      ]
+    },
+    "#0a0a0a": {
+      "count": 7,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css",
+        "https://july.com/_next/static/chunks/0kmrxws7da~el.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 7,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css",
+        "https://july.com/_next/static/chunks/0kmrxws7da~el.css"
+      ]
+    },
+    "#3e4288": {
+      "count": 6,
+      "sources": [
+        "https://july.com/us/"
+      ]
+    },
+    "#ffffff00": {
+      "count": 6,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css",
+        "https://july.com/_next/static/chunks/0.flouz58jk3j.css"
+      ]
+    },
+    "#f7f6f4": {
+      "count": 5,
+      "sources": [
+        "https://july.com/us/",
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#666666": {
+      "count": 5,
+      "sources": [
+        "https://july.com/us/",
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css",
+        "https://july.com/_next/static/chunks/0kmrxws7da~el.css"
+      ]
+    },
+    "#203c2b": {
+      "count": 5,
+      "sources": [
+        "https://july.com/us/"
+      ]
+    },
+    "#ca7a4f": {
+      "count": 4,
+      "sources": [
+        "https://july.com/us/",
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#282828": {
+      "count": 4,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#475f4c": {
+      "count": 4,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 4,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#d8d4cc": {
+      "count": 4,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#f6f3ef": {
+      "count": 4,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#00000088": {
+      "count": 4,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 4,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#fbf7f0": {
+      "count": 4,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 4,
+      "sources": [
+        "https://july.com/_next/static/chunks/0kmrxws7da~el.css"
+      ]
+    },
+    "#2c572b": {
+      "count": 3,
+      "sources": [
+        "https://july.com/us/"
+      ]
+    },
+    "#66443b": {
+      "count": 3,
+      "sources": [
+        "https://july.com/us/"
+      ]
+    },
+    "#838959": {
+      "count": 3,
+      "sources": [
+        "https://july.com/us/"
+      ]
+    },
+    "#444666": {
+      "count": 3,
+      "sources": [
+        "https://july.com/us/"
+      ]
+    },
+    "#0c0c0c": {
+      "count": 3,
+      "sources": [
+        "https://july.com/us/"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 3,
+      "sources": [
+        "https://july.com/us/",
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#6f2b31": {
+      "count": 3,
+      "sources": [
+        "https://july.com/us/"
+      ]
+    },
+    "#605c57": {
+      "count": 3,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#f2fbbf": {
+      "count": 3,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#ffeafc": {
+      "count": 3,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#cecece": {
+      "count": 3,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#ffffff99": {
+      "count": 3,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#90ee90": {
+      "count": 3,
+      "sources": [
+        "https://july.com/_next/static/chunks/0.flouz58jk3j.css"
+      ]
+    },
+    "#525064": {
+      "count": 2,
+      "sources": [
+        "https://july.com/us/"
+      ]
+    },
+    "#85776a": {
+      "count": 2,
+      "sources": [
+        "https://july.com/us/"
+      ]
+    },
+    "#733233": {
+      "count": 2,
+      "sources": [
+        "https://july.com/us/"
+      ]
+    },
+    "#2c2c2c": {
+      "count": 2,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#7e5238": {
+      "count": 2,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#80808030": {
+      "count": 2,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#928d8c": {
+      "count": 2,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#a64d4c80": {
+      "count": 2,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#ffaecb80": {
+      "count": 2,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#f3ffaf": {
+      "count": 2,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#fe5b42": {
+      "count": 2,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#724731": {
+      "count": 2,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#0000004d": {
+      "count": 2,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#00000059": {
+      "count": 2,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 2,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#000000aa": {
+      "count": 2,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#212121": {
+      "count": 2,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#7e523803": {
+      "count": 2,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#a09d98": {
+      "count": 2,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#d3d3d340": {
+      "count": 2,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 2,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#ffffff03": {
+      "count": 2,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#ffffff33": {
+      "count": 2,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 2,
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Apple Color Emoji": [
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+    ],
+    "Apple Garamond": [
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+    ],
+    "Bourbon Grotesque": [
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+    ],
+    "Caladea": [
+      "https://july.com/_next/static/chunks/0.flouz58jk3j.css"
+    ],
+    "Consolas": [
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css",
+      "https://july.com/_next/static/chunks/0.flouz58jk3j.css"
+    ],
+    "Courier New": [
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css",
+      "https://july.com/_next/static/chunks/0.flouz58jk3j.css"
+    ],
+    "Geist Mono": [
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+    ],
+    "Georgia": [
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+    ],
+    "HouseSlant": [
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+    ],
+    "ITC Garamond Std": [
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+    ],
+    "July Autograph": [
+      "https://july.com/_next/static/chunks/07y407allc.h5.css"
+    ],
+    "July Bold": [
+      "https://july.com/_next/static/chunks/07y407allc.h5.css"
+    ],
+    "July Dolce": [
+      "https://july.com/_next/static/chunks/07y407allc.h5.css"
+    ],
+    "July Loveletter": [
+      "https://july.com/_next/static/chunks/0.flouz58jk3j.css",
+      "https://july.com/_next/static/chunks/07y407allc.h5.css"
+    ],
+    "July Monogram Face": [
+      "https://july.com/_next/static/chunks/07y407allc.h5.css"
+    ],
+    "July Monogram Shadow": [
+      "https://july.com/_next/static/chunks/07y407allc.h5.css"
+    ],
+    "July Retro": [
+      "https://july.com/_next/static/chunks/07y407allc.h5.css"
+    ],
+    "July Sans Serif": [
+      "https://july.com/_next/static/chunks/07y407allc.h5.css"
+    ],
+    "July Sharpie": [
+      "https://july.com/_next/static/chunks/07y407allc.h5.css"
+    ],
+    "July Signwriter Face": [
+      "https://july.com/_next/static/chunks/07y407allc.h5.css"
+    ],
+    "July Signwriter Shadow": [
+      "https://july.com/_next/static/chunks/07y407allc.h5.css"
+    ],
+    "July Stencil": [
+      "https://july.com/_next/static/chunks/07y407allc.h5.css"
+    ],
+    "July Storybook": [
+      "https://july.com/_next/static/chunks/07y407allc.h5.css"
+    ],
+    "Liberation Mono": [
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css",
+      "https://july.com/_next/static/chunks/0.flouz58jk3j.css"
+    ],
+    "Lovelo": [
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+    ],
+    "Ma Shan Zheng": [
+      "https://july.com/_next/static/chunks/0.flouz58jk3j.css"
+    ],
+    "Machineat": [
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+    ],
+    "Menlo": [
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css",
+      "https://july.com/_next/static/chunks/0.flouz58jk3j.css"
+    ],
+    "Monaco": [
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css",
+      "https://july.com/_next/static/chunks/0.flouz58jk3j.css"
+    ],
+    "Noto Color Emoji": [
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+    ],
+    "Noto Sans SC": [
+      "https://july.com/_next/static/chunks/0.flouz58jk3j.css"
+    ],
+    "Noto Serif SC": [
+      "https://july.com/_next/static/chunks/0.flouz58jk3j.css"
+    ],
+    "Object Sans": [
+      "https://july.com/us/"
+    ],
+    "Objectivity": [
+      "https://july.com/us/",
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+    ],
+    "PP Agrandir": [
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+    ],
+    "PPEditorialNew": [
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+    ],
+    "Pinyon Script": [
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+    ],
+    "Redaction 35": [
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+    ],
+    "Roslindale": [
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+    ],
+    "SFMono-Regular": [
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css",
+      "https://july.com/_next/static/chunks/0.flouz58jk3j.css"
+    ],
+    "SackersGothicStd-Heavy": [
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+    ],
+    "Segoe UI Emoji": [
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+    ],
+    "Segoe UI Symbol": [
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+    ],
+    "TT Modernoir": [
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+    ],
+    "Work Sans": [
+      "https://july.com/_next/static/chunks/0.flouz58jk3j.css"
+    ],
+    "Zhi Mang Xing": [
+      "https://july.com/_next/static/chunks/0.flouz58jk3j.css"
+    ],
+    "cursive": [
+      "https://july.com/_next/static/chunks/0.flouz58jk3j.css"
+    ],
+    "mazius": [
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+    ],
+    "minion-pro": [
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css",
+      "https://july.com/_next/static/chunks/0.flouz58jk3j.css"
+    ],
+    "monospace": [
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css",
+      "https://july.com/_next/static/chunks/0.flouz58jk3j.css"
+    ],
+    "objectivity": [
+      "https://july.com/_next/static/chunks/0.3tlu~ckw158.css"
+    ],
+    "objectivity Fallback": [
+      "https://july.com/_next/static/chunks/0.3tlu~ckw158.css"
+    ],
+    "sans-serif": [
+      "https://july.com/us/",
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css",
+      "https://july.com/_next/static/chunks/0.flouz58jk3j.css"
+    ],
+    "serif": [
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css",
+      "https://july.com/_next/static/chunks/0.flouz58jk3j.css"
+    ],
+    "swear-display": [
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+    ],
+    "system-ui": [
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+    ],
+    "ui-monospace": [
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css",
+      "https://july.com/_next/static/chunks/0.flouz58jk3j.css"
+    ],
+    "ui-sans-serif": [
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+    ],
+    "zhcasual": [
+      "https://july.com/_next/static/chunks/0atv12nk~hus0.css",
+      "https://july.com/_next/static/chunks/0.flouz58jk3j.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://july.com/_next/static/chunks/0atv12nk~hus0.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-feature-settings:inherit;font-variation-settings:inherit;font-family:inherit;font-size:100%;font-weight:inherit;line-height:inherit;letter-spacing:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://july.com/_next/static/chunks/0atv12nk~hus0.css",
+      "selector": "button,input:where([type=button]),input:where([type=reset]),input:where([type=submit])",
+      "declarations": "-webkit-appearance:button;background-color:#0000;background-image:none"
+    },
+    {
+      "source": "https://july.com/_next/static/chunks/0atv12nk~hus0.css",
+      "selector": ".text-\\[color\\:var\\(--quiz-body\\)\\]",
+      "declarations": "color:var(--quiz-body)"
+    },
+    {
+      "source": "https://july.com/_next/static/chunks/0atv12nk~hus0.css",
+      "selector": ":root",
+      "declarations": "--foreground-rgb:255, 255, 255;--background-start-rgb:0, 0, 0;--background-end-rgb:0, 0, 0"
+    },
+    {
+      "source": "https://july.com/_next/static/chunks/0atv12nk~hus0.css",
+      "selector": "body",
+      "declarations": "color:rgb(var(--foreground-rgb));-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;scroll-behavior:smooth;text-rendering:optimizelegibility!important;-webkit-font-smoothing:subpixel-antialiased!important;-webkit-font-smoothing:antialiased!important;-moz-osx-font-smoothing:grayscale!important"
+    },
+    {
+      "source": "https://july.com/_next/static/chunks/0atv12nk~hus0.css",
+      "selector": ".\\[\\&_button\\]\\:\\!border-black button",
+      "declarations": "--tw-border-opacity:1!important;border-color:rgb(0 0 0/var(--tw-border-opacity))!important"
+    },
+    {
+      "source": "https://july.com/_next/static/chunks/0atv12nk~hus0.css",
+      "selector": ".\\[\\&_button\\]\\:\\!text-black button",
+      "declarations": "--tw-text-opacity:1!important;color:rgb(0 0 0/var(--tw-text-opacity))!important"
+    },
+    {
+      "source": "https://july.com/_next/static/chunks/0.flouz58jk3j.css",
+      "selector": "body",
+      "declarations": "--tw-bg-opacity:1;background-color:rgb(0 0 0/var(--tw-bg-opacity))"
+    },
+    {
+      "source": "https://july.com/_next/static/chunks/0.flouz58jk3j.css",
+      "selector": ".rich-text h1",
+      "declarations": "--tw-text-opacity:1;color:rgb(167 139 250/var(--tw-text-opacity));margin-bottom:1rem;font-size:2.25rem;font-weight:700;line-height:2.5rem"
+    },
+    {
+      "source": "https://july.com/_next/static/chunks/0.flouz58jk3j.css",
+      "selector": ".select-button",
+      "declarations": "cursor:pointer;color:#000;text-align:center;justify-content:center;padding:8px 0;font-size:14px;font-weight:500;text-decoration:underline;transition:background-color .3s,transform .3s;display:flex"
+    },
+    {
+      "source": "https://july.com/_next/static/chunks/0.flouz58jk3j.css",
+      "selector": ".select-button.selected",
+      "declarations": "color:#000;background-color:#fff;border:1px solid #000"
+    },
+    {
+      "source": "https://july.com/_next/static/chunks/0.flouz58jk3j.css",
+      "selector": ".select-button.selected",
+      "declarations": "color:#fff;background-color:#000;border-color:#0000;border-bottom-right-radius:20px;border-bottom-left-radius:20px"
+    },
+    {
+      "source": "https://july.com/_next/static/chunks/0kmrxws7da~el.css",
+      "selector": ".header-menu a",
+      "declarations": "color:#1f3e3c;text-decoration:none"
+    },
+    {
+      "source": "https://july.com/_next/static/chunks/0kmrxws7da~el.css",
+      "selector": ".close-button",
+      "declarations": "cursor:pointer;text-decoration:unset;color:#000;background-color:#0000;border:1px solid #d3d3d3;border-radius:50%;padding:10px;font-size:8px;line-height:1;display:inline-block"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Luggage Bags & Travel Suitcases | July",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://july.com/us/",
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css",
+        "https://july.com/_next/static/chunks/0.flouz58jk3j.css",
+        "https://july.com/_next/static/chunks/0kmrxws7da~el.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://july.com/us/",
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://july.com/us/",
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css",
+        "https://july.com/_next/static/chunks/0.flouz58jk3j.css",
+        "https://july.com/_next/static/chunks/0kmrxws7da~el.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://july.com/us/",
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css",
+        "https://july.com/_next/static/chunks/0kmrxws7da~el.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://july.com/_next/static/chunks/0kmrxws7da~el.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://july.com/us/",
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://july.com/us/",
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css",
+        "https://july.com/_next/static/chunks/0.flouz58jk3j.css",
+        "https://july.com/_next/static/chunks/0kmrxws7da~el.css"
+      ]
+    },
+    "colors.surface-warm": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "colors.border-subtle": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "colors.accent-olive": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://july.com/us/"
+      ]
+    },
+    "colors.accent-terracotta": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://july.com/us/",
+        "https://july.com/_next/static/chunks/0atv12nk~hus0.css"
+      ]
+    },
+    "colors.accent-forest": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://july.com/us/"
+      ]
+    },
+    "colors.accent-indigo": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://july.com/us/"
+      ]
+    },
+    "colors.accent-burgundy": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://july.com/us/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.size-selector": {
+      "status": "inferred"
+    }
+  }
+}

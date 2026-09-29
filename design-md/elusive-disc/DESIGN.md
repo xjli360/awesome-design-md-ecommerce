@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Elusive Disc
-description: A high-voltage audiophile marketplace that signals its passion through a raw, unapologetic palette anchored on signal yellow (#ffff00) — a color so loud it would be reckless in any other context, but here it reads as the visual equivalent of a needle drop onto virgin vinyl. The brand’s primary accent, a deep crimson (#a92504) that recalls vintage Marantz glow, appears on CTAs and price tags, while a teal (#6e9aa7) and a cooler cyan (#42ceed) add unexpected mid-century hi-fi flavor. The canvas is a near-black (#161015) — not a safe dark gray, but a true void that makes every album cover, SACD jewel case, and turntable photo float like an illuminated object in a listening room. Oswald, a condensed sans-serif with Germanic precision, runs across the site in all-caps navigation, product titles, and badge copy, lending a slight broadcast-engineering feel. Buttons are sharp-cornered rectangles (`{rounded.none}`), not friendly pills — this is a brand that values signal over softness. The product grid uses generous white borders (`{spacing.base}`) between items, creating a rhythm that mimics LP spines on a shelf. Search is a full-width bar with a yellow submit orb (`{rounded.full}`), the only pill in the system, acting as a tuning dial. The footer collapses into dense, monochrome link stacks — no decorative imagery, just information density. Elusive Disc doesn’t whisper; it sends a clean, hot signal straight to the amp.
+name: "Elusive Disc"
+source_url: "https://www.elusivedisc.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A high-voltage audiophile marketplace that signals its passion through a raw, unapologetic palette anchored on signal yellow (#ffff00) — a color so loud it would be reckless in any other context, but here it reads as the visual equivalent of a needle drop onto virgin vinyl. The brand’s primary accent, a deep crimson (#a92504) that recalls vintage Marantz glow, appears on CTAs and price tags, while a teal (#6e9aa7) and a cooler cyan (#42ceed) add unexpected mid-century hi-fi flavor. The canvas is a near-black (#161015) — not a safe dark gray, but a true void that makes every album cover, SACD jewel case, and turntable photo float like an illuminated object in a listening room. Oswald, a condensed sans-serif with Germanic precision, runs across the site in all-caps navigation, product titles, and badge copy, lending a slight broadcast-engineering feel. Buttons are sharp-cornered rectangles (`{rounded.none}`), not friendly pills — this is a brand that values signal over softness. The product grid uses generous white borders (`{spacing.base}`) between items, creating a rhythm that mimics LP spines on a shelf. Search is a full-width bar with a yellow submit orb (`{rounded.full}`), the only pill in the system, acting as a tuning dial. The footer collapses into dense, monochrome link stacks — no decorative imagery, just information density. Elusive Disc doesn’t whisper; it sends a clean, hot signal straight to the amp.
 
 colors:
   primary: "#ffff00"
@@ -328,6 +332,8 @@ components:
 - The footer collapses from 4 columns to a single vertical stack on mobile, with accordion-style expandable sections for link groups.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states** for most interactive elements (buttons, links, cards) could not be reliably extracted from static CSS. The active states provided are best guesses based on color relationships.
 - **Error and validation styling** for forms (red borders, error messages) is not present in the extracted data. A crimson accent (`{colors.accent-crimson}`) is a reasonable candidate for error states.

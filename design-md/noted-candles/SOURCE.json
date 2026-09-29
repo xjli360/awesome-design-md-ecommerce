@@ -1,0 +1,841 @@
+{
+  "source_url": "https://notedcandles.com",
+  "final_url": "https://www.notedcandles.com/",
+  "captured_at": "2026-09-28T09:51:04.058872+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://notedcandles.com",
+      "final_url": "https://www.notedcandles.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "8dcd837b30f55fffa440e00190add4c5becf6b76b2b2e8cd4a66d2ceb10f0de3",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.notedcandles.com/cdn/shop/t/36/assets/vendor.css?v=94183888130352382221768444796",
+      "final_url": "https://www.notedcandles.com/cdn/shop/t/36/assets/vendor.css?v=94183888130352382221768444796",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ee96a0f6244f8812f946322e528e50c2a5df2bd775bbe6d16863533d08aaea8f",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.notedcandles.com/cdn/shop/t/36/assets/theme.css?v=32969801667123624051768444796",
+      "final_url": "https://www.notedcandles.com/cdn/shop/t/36/assets/theme.css?v=32969801667123624051768444796",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "8fa64e8923beeecd3cf591c17dc3b955c9f3bb4cc71e9008aef0ebbe780ad487",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.notedcandles.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.notedcandles.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a1d72f3544b55d70adb9af5f31c8cb14839fdd5db07b59fb6c6f5daa06b0561e",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a014b1-6566-7c61-aedf-79a2912282a5/watchlist-145/assets/app-embed-block.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a014b1-6566-7c61-aedf-79a2912282a5/watchlist-145/assets/app-embed-block.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9e5351e8c2e1478fbe644998bd89267797fb0845079100a02c79a32afbf7e7f9",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 195,
+      "sources": [
+        "https://www.notedcandles.com/",
+        "https://www.notedcandles.com/cdn/shop/t/36/assets/theme.css?v=32969801667123624051768444796",
+        "https://www.notedcandles.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#000000": {
+      "count": 135,
+      "sources": [
+        "https://www.notedcandles.com/",
+        "https://www.notedcandles.com/cdn/shop/t/36/assets/vendor.css?v=94183888130352382221768444796",
+        "https://www.notedcandles.com/cdn/shop/t/36/assets/theme.css?v=32969801667123624051768444796",
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css",
+        "https://cdn.shopify.com/extensions/01a014b1-6566-7c61-aedf-79a2912282a5/watchlist-145/assets/app-embed-block.css"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 63,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#333333": {
+      "count": 31,
+      "sources": [
+        "https://www.notedcandles.com/",
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#97c8da": {
+      "count": 23,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 21,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#ff3860": {
+      "count": 20,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 19,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#666666": {
+      "count": 18,
+      "sources": [
+        "https://www.notedcandles.com/",
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#111827": {
+      "count": 16,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#6b7280": {
+      "count": 16,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#121212": {
+      "count": 15,
+      "sources": [
+        "https://www.notedcandles.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#000001": {
+      "count": 14,
+      "sources": [
+        "https://www.notedcandles.com/"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 14,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#00000080": {
+      "count": 14,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#00000005": {
+      "count": 13,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#ededed": {
+      "count": 13,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 11,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#999999": {
+      "count": 10,
+      "sources": [
+        "https://www.notedcandles.com/",
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#303030": {
+      "count": 10,
+      "sources": [
+        "https://www.notedcandles.com/",
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#fafafa": {
+      "count": 10,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 10,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#cfcfcf": {
+      "count": 9,
+      "sources": [
+        "https://www.notedcandles.com/"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 9,
+      "sources": [
+        "https://www.notedcandles.com/cdn/shop/t/36/assets/theme.css?v=32969801667123624051768444796",
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#444444": {
+      "count": 8,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#eac2c2": {
+      "count": 8,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#737373": {
+      "count": 7,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 7,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#f3f4f6": {
+      "count": 7,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#ececec": {
+      "count": 6,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#eb5050": {
+      "count": 6,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#fffffd": {
+      "count": 5,
+      "sources": [
+        "https://www.notedcandles.com/"
+      ]
+    },
+    "#8e1f0b": {
+      "count": 5,
+      "sources": [
+        "https://www.notedcandles.com/cdn/shop/t/36/assets/theme.css?v=32969801667123624051768444796",
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#00000000": {
+      "count": 5,
+      "sources": [
+        "https://www.notedcandles.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#ffe7e7": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#f9fafb": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#fcfcfc": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#5c5f62": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#d00000": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#96c8da": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#c5c5c5": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#000000cc": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#00000026": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#616161": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#15803d": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#00000033": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#00000021": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#11111a0d": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "#c5ada3": {
+      "count": 3,
+      "sources": [
+        "https://www.notedcandles.com/"
+      ]
+    },
+    "#8a5a46": {
+      "count": 3,
+      "sources": [
+        "https://www.notedcandles.com/"
+      ]
+    },
+    "#62615f": {
+      "count": 3,
+      "sources": [
+        "https://www.notedcandles.com/"
+      ]
+    },
+    "#c7c4c1": {
+      "count": 3,
+      "sources": [
+        "https://www.notedcandles.com/"
+      ]
+    },
+    "#626262": {
+      "count": 3,
+      "sources": [
+        "https://www.notedcandles.com/"
+      ]
+    },
+    "#c6c6c6": {
+      "count": 3,
+      "sources": [
+        "https://www.notedcandles.com/"
+      ]
+    },
+    "#4e423a": {
+      "count": 3,
+      "sources": [
+        "https://www.notedcandles.com/"
+      ]
+    },
+    "#9d8675": {
+      "count": 3,
+      "sources": [
+        "https://www.notedcandles.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://www.notedcandles.com/",
+      "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+    ],
+    "BlinkMacSystemFont": [
+      "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+    ],
+    "Helvetica Neue": [
+      "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+    ],
+    "Nunito Sans": [
+      "https://www.notedcandles.com/"
+    ],
+    "Poppins": [
+      "https://www.notedcandles.com/"
+    ],
+    "Roboto": [
+      "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+    ],
+    "San Francisco": [
+      "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+    ],
+    "Segoe UI": [
+      "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+    ],
+    "sans-serif": [
+      "https://www.notedcandles.com/",
+      "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+    ],
+    "swiper-icons": [
+      "https://www.notedcandles.com/cdn/shop/t/36/assets/vendor.css?v=94183888130352382221768444796"
+    ],
+    "system-ui": [
+      "https://www.notedcandles.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.notedcandles.com/",
+      "selector": ":root,\n.color-scheme-1",
+      "declarations": "--color-background: 255,255,255;\n      --color-secondary-background: 246,242,238;\n      --color-primary: 214,58,47;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-border: 237,237,237;\n      --color-button: 0,0,0;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 255,255,255;\n      --color-secondary-button-border: 197,194,190;\n      --color-secondary-button-text: 0,0,0;\n      --color-button-hover-background: 0,0,0;\n      --color-button-hover-text: 255,255,255;\n      --color-button-before: #333333;\n      --color-field: 245,245,245;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      --color-link-hover: 0,0,0;\n      --color-"
+    },
+    {
+      "source": "https://www.notedcandles.com/",
+      "selector": "body .desktop-color-scheme-1",
+      "declarations": "--color-background: 255,255,255;\n      --color-secondary-background: 246,242,238;\n      --color-primary: 214,58,47;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-border: 237,237,237;\n      --color-button: 0,0,0;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 255,255,255;\n      --color-secondary-button-border: 197,194,190;\n      --color-secondary-button-text: 0,0,0;\n      --color-button-hover-background: 0,0,0;\n      --color-button-hover-text: 255,255,255;\n      --color-button-before: #333333;\n      --color-field: 245,245,245;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      --color-link-hover: 0,0,0;\n      --color-"
+    },
+    {
+      "source": "https://www.notedcandles.com/",
+      "selector": "body .mobile-color-scheme-1",
+      "declarations": "--color-background: 255,255,255;\n      --color-secondary-background: 246,242,238;\n      --color-primary: 214,58,47;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-border: 237,237,237;\n      --color-button: 0,0,0;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 255,255,255;\n      --color-secondary-button-border: 197,194,190;\n      --color-secondary-button-text: 0,0,0;\n      --color-button-hover-background: 0,0,0;\n      --color-button-hover-text: 255,255,255;\n      --color-button-before: #333333;\n      --color-field: 245,245,245;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      --color-link-hover: 0,0,0;\n      --color-"
+    },
+    {
+      "source": "https://www.notedcandles.com/",
+      "selector": "body .desktop-color-scheme-2",
+      "declarations": "--color-background: 110,51,26;\n      --color-secondary-background: 110,51,26;\n      --color-primary: 214,58,47;\n      --color-text-heading: 255,255,255;\n      --color-foreground: 255,255,255;\n      --color-border: 198,191,177;\n      --color-button: 246,242,238;\n      --color-button-text: 0,0,0;\n      --color-secondary-button: 110,51,26;\n      --color-secondary-button-border: 139,92,72;\n      --color-secondary-button-text: 255,255,255;\n      --color-button-hover-background: 246,242,238;\n      --color-button-hover-text: 0,0,0;\n      --color-button-before: #ffffff;\n      --color-field: 255,255,255;\n      --color-field-text: 0,0,0;\n      --color-link: 255,255,255;\n      --color-link-hover: 255,2"
+    },
+    {
+      "source": "https://www.notedcandles.com/",
+      "selector": "body .mobile-color-scheme-2",
+      "declarations": "--color-background: 110,51,26;\n      --color-secondary-background: 110,51,26;\n      --color-primary: 214,58,47;\n      --color-text-heading: 255,255,255;\n      --color-foreground: 255,255,255;\n      --color-border: 198,191,177;\n      --color-button: 246,242,238;\n      --color-button-text: 0,0,0;\n      --color-secondary-button: 110,51,26;\n      --color-secondary-button-border: 139,92,72;\n      --color-secondary-button-text: 255,255,255;\n      --color-button-hover-background: 246,242,238;\n      --color-button-hover-text: 0,0,0;\n      --color-button-before: #ffffff;\n      --color-field: 255,255,255;\n      --color-field-text: 0,0,0;\n      --color-link: 255,255,255;\n      --color-link-hover: 255,2"
+    },
+    {
+      "source": "https://www.notedcandles.com/",
+      "selector": "body .desktop-color-scheme-3",
+      "declarations": "--color-background: 246,242,238;\n      --color-secondary-background: 246,242,238;\n      --color-primary: 214,58,47;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-border: 230,230,230;\n      --color-button: 0,0,0;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 246,242,238;\n      --color-secondary-button-border: 209,206,202;\n      --color-secondary-button-text: 0,0,0;\n      --color-button-hover-background: 0,0,0;\n      --color-button-hover-text: 255,255,255;\n      --color-button-before: #333333;\n      --color-field: 255,255,255;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      --color-link-hover: 0,0,0;\n      --color-"
+    },
+    {
+      "source": "https://www.notedcandles.com/",
+      "selector": "body .mobile-color-scheme-3",
+      "declarations": "--color-background: 246,242,238;\n      --color-secondary-background: 246,242,238;\n      --color-primary: 214,58,47;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-border: 230,230,230;\n      --color-button: 0,0,0;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 246,242,238;\n      --color-secondary-button-border: 209,206,202;\n      --color-secondary-button-text: 0,0,0;\n      --color-button-hover-background: 0,0,0;\n      --color-button-hover-text: 255,255,255;\n      --color-button-before: #333333;\n      --color-field: 255,255,255;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      --color-link-hover: 0,0,0;\n      --color-"
+    },
+    {
+      "source": "https://www.notedcandles.com/",
+      "selector": "body .desktop-color-scheme-4",
+      "declarations": "--color-background: 245,245,245;\n      --color-secondary-background: 230,230,230;\n      --color-primary: 214,58,47;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-border: 247,247,247;\n      --color-button: 255,255,255;\n      --color-button-text: 0,0,0;\n      --color-secondary-button: 0,0,0;\n      --color-secondary-button-border: 0,0,0;\n      --color-secondary-button-text: 255,255,255;\n      --color-button-hover-background: 0,0,0;\n      --color-button-hover-text: 255,255,255;\n      --color-button-before: #333333;\n      --color-field: 255,255,255;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      --color-link-hover: 0,0,0;\n      --color-produc"
+    },
+    {
+      "source": "https://www.notedcandles.com/",
+      "selector": "body .mobile-color-scheme-4",
+      "declarations": "--color-background: 245,245,245;\n      --color-secondary-background: 230,230,230;\n      --color-primary: 214,58,47;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-border: 247,247,247;\n      --color-button: 255,255,255;\n      --color-button-text: 0,0,0;\n      --color-secondary-button: 0,0,0;\n      --color-secondary-button-border: 0,0,0;\n      --color-secondary-button-text: 255,255,255;\n      --color-button-hover-background: 0,0,0;\n      --color-button-hover-text: 255,255,255;\n      --color-button-before: #333333;\n      --color-field: 255,255,255;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      --color-link-hover: 0,0,0;\n      --color-produc"
+    },
+    {
+      "source": "https://www.notedcandles.com/",
+      "selector": "body .desktop-color-scheme-inverse",
+      "declarations": "--color-background: 194,166,144;\n      --color-secondary-background: 0,0,0;\n      --color-primary: 214,58,47;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-border: 255,255,255;\n      --color-button: 255,255,255;\n      --color-button-text: 0,0,0;\n      --color-secondary-button: 0,0,0;\n      --color-secondary-button-border: 255,255,255;\n      --color-secondary-button-text: 255,255,255;\n      --color-button-hover-background: 255,255,255;\n      --color-button-hover-text: 0,0,0;\n      --color-button-before: #ffffff;\n      --color-field: 255,255,255;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      --color-link-hover: 0,0,0;\n      --color-produc"
+    },
+    {
+      "source": "https://www.notedcandles.com/",
+      "selector": "body .mobile-color-scheme-inverse",
+      "declarations": "--color-background: 194,166,144;\n      --color-secondary-background: 0,0,0;\n      --color-primary: 214,58,47;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-border: 255,255,255;\n      --color-button: 255,255,255;\n      --color-button-text: 0,0,0;\n      --color-secondary-button: 0,0,0;\n      --color-secondary-button-border: 255,255,255;\n      --color-secondary-button-text: 255,255,255;\n      --color-button-hover-background: 255,255,255;\n      --color-button-hover-text: 0,0,0;\n      --color-button-before: #ffffff;\n      --color-field: 255,255,255;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      --color-link-hover: 0,0,0;\n      --color-produc"
+    },
+    {
+      "source": "https://www.notedcandles.com/",
+      "selector": "body .desktop-color-scheme-6",
+      "declarations": "--color-background: 88,44,25;\n      --color-secondary-background: 88,44,25;\n      --color-primary: 214,58,47;\n      --color-text-heading: 255,255,255;\n      --color-foreground: 255,255,255;\n      --color-border: 246,242,238;\n      --color-button: 246,242,238;\n      --color-button-text: 0,0,0;\n      --color-secondary-button: 88,44,25;\n      --color-secondary-button-border: 255,255,255;\n      --color-secondary-button-text: 255,255,255;\n      --color-button-hover-background: 0,0,0;\n      --color-button-hover-text: 255,255,255;\n      --color-button-before: #333333;\n      --color-field: 255,255,255;\n      --color-field-text: 0,0,0;\n      --color-link: 255,255,255;\n      --color-link-hover: 255,25"
+    },
+    {
+      "source": "https://www.notedcandles.com/",
+      "selector": "body .mobile-color-scheme-6",
+      "declarations": "--color-background: 88,44,25;\n      --color-secondary-background: 88,44,25;\n      --color-primary: 214,58,47;\n      --color-text-heading: 255,255,255;\n      --color-foreground: 255,255,255;\n      --color-border: 246,242,238;\n      --color-button: 246,242,238;\n      --color-button-text: 0,0,0;\n      --color-secondary-button: 88,44,25;\n      --color-secondary-button-border: 255,255,255;\n      --color-secondary-button-text: 255,255,255;\n      --color-button-hover-background: 0,0,0;\n      --color-button-hover-text: 255,255,255;\n      --color-button-before: #333333;\n      --color-field: 255,255,255;\n      --color-field-text: 0,0,0;\n      --color-link: 255,255,255;\n      --color-link-hover: 255,25"
+    },
+    {
+      "source": "https://www.notedcandles.com/",
+      "selector": "body .desktop-color-scheme-7",
+      "declarations": "--color-background: 0,0,0;\n      --color-secondary-background: 0,0,0;\n      --color-primary: 231,255,161;\n      --color-text-heading: 255,255,255;\n      --color-foreground: 255,255,255;\n      --color-border: 230,230,230;\n      --color-button: 255,255,255;\n      --color-button-text: 0,0,0;\n      --color-secondary-button: 0,0,0;\n      --color-secondary-button-border: 255,255,255;\n      --color-secondary-button-text: 255,255,255;\n      --color-button-hover-background: 255,255,255;\n      --color-button-hover-text: 0,0,0;\n      --color-button-before: #ffffff;\n      --color-field: 255,255,255;\n      --color-field-text: 0,0,0;\n      --color-link: 255,255,255;\n      --color-link-hover: 255,255,255;\n"
+    },
+    {
+      "source": "https://www.notedcandles.com/",
+      "selector": "body .mobile-color-scheme-7",
+      "declarations": "--color-background: 0,0,0;\n      --color-secondary-background: 0,0,0;\n      --color-primary: 231,255,161;\n      --color-text-heading: 255,255,255;\n      --color-foreground: 255,255,255;\n      --color-border: 230,230,230;\n      --color-button: 255,255,255;\n      --color-button-text: 0,0,0;\n      --color-secondary-button: 0,0,0;\n      --color-secondary-button-border: 255,255,255;\n      --color-secondary-button-text: 255,255,255;\n      --color-button-hover-background: 255,255,255;\n      --color-button-hover-text: 0,0,0;\n      --color-button-before: #ffffff;\n      --color-field: 255,255,255;\n      --color-field-text: 0,0,0;\n      --color-link: 255,255,255;\n      --color-link-hover: 255,255,255;\n"
+    },
+    {
+      "source": "https://www.notedcandles.com/",
+      "selector": "body .desktop-color-scheme-8",
+      "declarations": "--color-background: 255,255,255;\n      --color-secondary-background: 255,255,255;\n      --color-primary: 214,58,47;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-border: 230,230,230;\n      --color-button: 0,0,0;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 255,255,255;\n      --color-secondary-button-border: 255,255,255;\n      --color-secondary-button-text: 255,255,255;\n      --color-button-hover-background: 255,255,255;\n      --color-button-hover-text: 0,0,0;\n      --color-button-before: #ffffff;\n      --color-field: 245,245,245;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      --color-link-hover: 0,0,0;\n      --"
+    },
+    {
+      "source": "https://www.notedcandles.com/",
+      "selector": "body .mobile-color-scheme-8",
+      "declarations": "--color-background: 255,255,255;\n      --color-secondary-background: 255,255,255;\n      --color-primary: 214,58,47;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-border: 230,230,230;\n      --color-button: 0,0,0;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 255,255,255;\n      --color-secondary-button-border: 255,255,255;\n      --color-secondary-button-text: 255,255,255;\n      --color-button-hover-background: 255,255,255;\n      --color-button-hover-text: 0,0,0;\n      --color-button-before: #ffffff;\n      --color-field: 245,245,245;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      --color-link-hover: 0,0,0;\n      --"
+    },
+    {
+      "source": "https://www.notedcandles.com/",
+      "selector": "body .desktop-color-scheme-9",
+      "declarations": "--color-background: 255,255,255;\n      --color-secondary-background: 245,245,245;\n      --color-primary: 214,58,47;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-border: 237,237,237;\n      --color-button: 0,0,0;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 255,255,255;\n      --color-secondary-button-border: 204,204,204;\n      --color-secondary-button-text: 0,0,0;\n      --color-button-hover-background: 0,0,0;\n      --color-button-hover-text: 255,255,255;\n      --color-button-before: #333333;\n      --color-field: 245,245,245;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      --color-link-hover: 0,0,0;\n      --color-"
+    },
+    {
+      "source": "https://www.notedcandles.com/",
+      "selector": "body .mobile-color-scheme-9",
+      "declarations": "--color-background: 255,255,255;\n      --color-secondary-background: 245,245,245;\n      --color-primary: 214,58,47;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-border: 237,237,237;\n      --color-button: 0,0,0;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 255,255,255;\n      --color-secondary-button-border: 204,204,204;\n      --color-secondary-button-text: 0,0,0;\n      --color-button-hover-background: 0,0,0;\n      --color-button-hover-text: 255,255,255;\n      --color-button-before: #333333;\n      --color-field: 245,245,245;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      --color-link-hover: 0,0,0;\n      --color-"
+    },
+    {
+      "source": "https://www.notedcandles.com/",
+      "selector": "body .desktop-color-scheme-10",
+      "declarations": "--color-background: 0,0,0;\n      --color-secondary-background: 0,0,0;\n      --color-primary: 255,255,255;\n      --color-text-heading: 255,255,255;\n      --color-foreground: 255,255,255;\n      --color-border: 230,230,230;\n      --color-button: 255,255,255;\n      --color-button-text: 0,0,0;\n      --color-secondary-button: 0,0,0;\n      --color-secondary-button-border: 255,255,255;\n      --color-secondary-button-text: 255,255,255;\n      --color-button-hover-background: 0,0,0;\n      --color-button-hover-text: 255,255,255;\n      --color-button-before: #333333;\n      --color-field: 245,245,245;\n      --color-field-text: 0,0,0;\n      --color-link: 255,255,255;\n      --color-link-hover: 255,255,255;\n"
+    },
+    {
+      "source": "https://www.notedcandles.com/",
+      "selector": "body .mobile-color-scheme-10",
+      "declarations": "--color-background: 0,0,0;\n      --color-secondary-background: 0,0,0;\n      --color-primary: 255,255,255;\n      --color-text-heading: 255,255,255;\n      --color-foreground: 255,255,255;\n      --color-border: 230,230,230;\n      --color-button: 255,255,255;\n      --color-button-text: 0,0,0;\n      --color-secondary-button: 0,0,0;\n      --color-secondary-button-border: 255,255,255;\n      --color-secondary-button-text: 255,255,255;\n      --color-button-hover-background: 0,0,0;\n      --color-button-hover-text: 255,255,255;\n      --color-button-before: #333333;\n      --color-field: 245,245,245;\n      --color-field-text: 0,0,0;\n      --color-link: 255,255,255;\n      --color-link-hover: 255,255,255;\n"
+    },
+    {
+      "source": "https://www.notedcandles.com/",
+      "selector": "body .desktop-color-scheme-11",
+      "declarations": "--color-background: 243,238,234;\n      --color-secondary-background: 247,247,247;\n      --color-primary: 214,58,47;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-border: 255,255,255;\n      --color-button: 0,0,0;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 233,233,233;\n      --color-secondary-button-border: 233,233,233;\n      --color-secondary-button-text: 0,0,0;\n      --color-button-hover-background: 0,0,0;\n      --color-button-hover-text: 255,255,255;\n      --color-button-before: #333333;\n      --color-field: 255,255,255;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      --color-link-hover: 0,0,0;\n      --color-"
+    },
+    {
+      "source": "https://www.notedcandles.com/",
+      "selector": "body .mobile-color-scheme-11",
+      "declarations": "--color-background: 243,238,234;\n      --color-secondary-background: 247,247,247;\n      --color-primary: 214,58,47;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-border: 255,255,255;\n      --color-button: 0,0,0;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 233,233,233;\n      --color-secondary-button-border: 233,233,233;\n      --color-secondary-button-text: 0,0,0;\n      --color-button-hover-background: 0,0,0;\n      --color-button-hover-text: 255,255,255;\n      --color-button-before: #333333;\n      --color-field: 255,255,255;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      --color-link-hover: 0,0,0;\n      --color-"
+    },
+    {
+      "source": "https://www.notedcandles.com/",
+      "selector": "body, .color-scheme-1, .color-scheme-2, .color-scheme-3, .color-scheme-4, .color-scheme-inverse, .color-scheme-6, .color-scheme-7, .color-scheme-8, .color-schem",
+      "declarations": "color: rgb(var(--color-foreground));\n    background-color: rgb(var(--color-background));"
+    },
+    {
+      "source": "https://www.notedcandles.com/",
+      "selector": "body",
+      "declarations": "min-height: 100%;\n    margin: 0;\n    font-family: var(--font-body-family);\n    font-style: var(--font-body-style);\n    font-weight: var(--font-body-weight);\n    font-size: var(--font-body-size);\n    line-height: var(--font-body-line-height);\n    -webkit-font-smoothing: antialiased;\n    -moz-osx-font-smoothing: grayscale;\n    touch-action: manipulation;\n    -webkit-text-size-adjust: 100%;\n    font-feature-settings: normal;"
+    },
+    {
+      "source": "https://www.notedcandles.com/",
+      "selector": "--section-padding-top: 12px;--section-padding-bottom: 12px;\n--content-width: 30%;\n\n  #shopify-section-sections--21015805067501__header",
+      "declarations": "--section-padding-top: 16px;\n    --section-padding-bottom: 16px;\n    --logo-width: 250px;\n    --logo-width-mobile: 80px;\n    --color-transparent: 255,255,255;"
+    },
+    {
+      "source": "https://www.notedcandles.com/",
+      "selector": "bottom: 50px;\n--section-padding-top: 50px;--section-padding-bottom: 50px;\n--media-item-gap: 10px\n--aspect-ratio: 1.5;\n--swatch-size: 40px;\n\n  .ai-header-text-aq",
+      "declarations": "display: block;\n    width: 100%;\n    max-width: 100%;\n    padding: 40px 20px 40px;\n    text-align: center;\n    background-color: #ffffff;"
+    },
+    {
+      "source": "https://www.notedcandles.com/",
+      "selector": ".ai-header-text__heading-aqznjbdfnu0nub0lkqaigenblocke366573vbvbid",
+      "declarations": "margin: 0;\n    color: #000000;\n    font-size: 48px;\n    line-height: 1.2;"
+    },
+    {
+      "source": "https://www.notedcandles.com/",
+      "selector": ".ai-header-text__subheading-aqznjbdfnu0nub0lkqaigenblocke366573vbvbid",
+      "declarations": "margin: 12px 0 0;\n    color: #000000;\n    font-size: 18px;\n    line-height: 1.4;"
+    },
+    {
+      "source": "https://www.notedcandles.com/",
+      "selector": ".back-to-top button",
+      "declarations": "background: rgb(var(--color-button));\n    color: rgb(var(--color-button-text));\n    border: 0;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Noted. - Candles | Classroom | Gift Shop – Noted Candles",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.notedcandles.com/cdn/shop/t/36/assets/theme.css?v=32969801667123624051768444796",
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.notedcandles.com/",
+        "https://www.notedcandles.com/cdn/shop/t/36/assets/vendor.css?v=94183888130352382221768444796",
+        "https://www.notedcandles.com/cdn/shop/t/36/assets/theme.css?v=32969801667123624051768444796",
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css",
+        "https://cdn.shopify.com/extensions/01a014b1-6566-7c61-aedf-79a2912282a5/watchlist-145/assets/app-embed-block.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.notedcandles.com/",
+        "https://www.notedcandles.com/cdn/shop/t/36/assets/theme.css?v=32969801667123624051768444796",
+        "https://www.notedcandles.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.notedcandles.com/",
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.notedcandles.com/",
+        "https://www.notedcandles.com/cdn/shop/t/36/assets/theme.css?v=32969801667123624051768444796",
+        "https://www.notedcandles.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "colors.accent-earth": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.notedcandles.com/"
+      ]
+    },
+    "colors.accent-warm": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.notedcandles.com/"
+      ]
+    },
+    "colors.alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d516-0722-7a1b-a376-0fece5c7d064/giftship-124/assets/giftship.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.scent-chip": {
+      "status": "inferred"
+    }
+  }
+}

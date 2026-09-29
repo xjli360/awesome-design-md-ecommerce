@@ -1,0 +1,881 @@
+{
+  "source_url": "https://diasporaco.com",
+  "final_url": "https://www.diasporaco.com/",
+  "captured_at": "2026-09-28T05:00:44.604946+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://diasporaco.com",
+      "final_url": "https://www.diasporaco.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "d95ddc6a4505bab37228e18d0ca45fd2359a863854d6b657ff54facbde95a73d",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://use.typekit.net/sjo4bih.css",
+      "final_url": "https://use.typekit.net/sjo4bih.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "775e9d075f0d3ba81caf16e2d64c5e9af240c1b450d133855fdab3ab61c81fd8",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Fustat:wght@200..800&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Fustat:wght@200..800&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "8b5f05fc57ed2744331a604b528985dbc887c92e7fc7424e234ac4ac740e90d1",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845",
+      "final_url": "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "682a928055f6f5afe2312dbba950c19341f78d9747924a7fd98c6bdd5e058739",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.diasporaco.com/cdn/shop/t/151/assets/component-spf-search.css?v=159807630885120816831775551573",
+      "final_url": "https://www.diasporaco.com/cdn/shop/t/151/assets/component-spf-search.css?v=159807630885120816831775551573",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "51bf315c0ac709b7a9e9be245981479652a4d802153b2f6b4ddd4927f106e3ea",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.diasporaco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.diasporaco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#d5137b": {
+      "count": 216,
+      "sources": [
+        "https://www.diasporaco.com/",
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845",
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/component-spf-search.css?v=159807630885120816831775551573"
+      ]
+    },
+    "#ffffff": {
+      "count": 135,
+      "sources": [
+        "https://www.diasporaco.com/",
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845",
+        "https://www.diasporaco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#080a5c": {
+      "count": 49,
+      "sources": [
+        "https://www.diasporaco.com/",
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845",
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/component-spf-search.css?v=159807630885120816831775551573"
+      ]
+    },
+    "#ffd000": {
+      "count": 47,
+      "sources": [
+        "https://www.diasporaco.com/",
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#ffcf01": {
+      "count": 46,
+      "sources": [
+        "https://www.diasporaco.com/"
+      ]
+    },
+    "#ffde17": {
+      "count": 42,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#000000": {
+      "count": 38,
+      "sources": [
+        "https://www.diasporaco.com/",
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845",
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/component-spf-search.css?v=159807630885120816831775551573"
+      ]
+    },
+    "#ffe200": {
+      "count": 26,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#f57320": {
+      "count": 23,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#ffbb00": {
+      "count": 23,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#ffd200": {
+      "count": 18,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#3a3a3a": {
+      "count": 11,
+      "sources": [
+        "https://www.diasporaco.com/",
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#f41f86": {
+      "count": 11,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#9a9bc0": {
+      "count": 8,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#efac23": {
+      "count": 8,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#fffdf0": {
+      "count": 7,
+      "sources": [
+        "https://www.diasporaco.com/",
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845",
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/component-spf-search.css?v=159807630885120816831775551573"
+      ]
+    },
+    "#222222": {
+      "count": 6,
+      "sources": [
+        "https://www.diasporaco.com/",
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#d02e2e": {
+      "count": 6,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#333333": {
+      "count": 5,
+      "sources": [
+        "https://www.diasporaco.com/",
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#fffceb": {
+      "count": 5,
+      "sources": [
+        "https://www.diasporaco.com/"
+      ]
+    },
+    "#fff7ee": {
+      "count": 5,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#00000099": {
+      "count": 4,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#0000004d": {
+      "count": 4,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#dedede": {
+      "count": 3,
+      "sources": [
+        "https://www.diasporaco.com/",
+        "https://www.diasporaco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#969595": {
+      "count": 3,
+      "sources": [
+        "https://www.diasporaco.com/"
+      ]
+    },
+    "#969696": {
+      "count": 3,
+      "sources": [
+        "https://www.diasporaco.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 3,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#e5e3d3": {
+      "count": 3,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 3,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#56ad6a": {
+      "count": 3,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#d21625": {
+      "count": 2,
+      "sources": [
+        "https://www.diasporaco.com/"
+      ]
+    },
+    "#a09f9c": {
+      "count": 2,
+      "sources": [
+        "https://www.diasporaco.com/"
+      ]
+    },
+    "#c42c78": {
+      "count": 2,
+      "sources": [
+        "https://www.diasporaco.com/"
+      ]
+    },
+    "#e4e9cd": {
+      "count": 2,
+      "sources": [
+        "https://www.diasporaco.com/"
+      ]
+    },
+    "#fdfdfd": {
+      "count": 2,
+      "sources": [
+        "https://www.diasporaco.com/"
+      ]
+    },
+    "#007e00": {
+      "count": 2,
+      "sources": [
+        "https://www.diasporaco.com/",
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#3f3f3f": {
+      "count": 2,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#f3107e": {
+      "count": 2,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#545587": {
+      "count": 2,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#a40058": {
+      "count": 2,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#d5137b66": {
+      "count": 2,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#fff6f6": {
+      "count": 2,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#74747440": {
+      "count": 2,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 2,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#d5137b99": {
+      "count": 2,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#00000066": {
+      "count": 2,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#ffde1700": {
+      "count": 2,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#d5147b": {
+      "count": 2,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#eeeeee": {
+      "count": 2,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#d5137bcc": {
+      "count": 2,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#fee07e": {
+      "count": 2,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#fefbd0": {
+      "count": 2,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#cca443": {
+      "count": 2,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#f2e09b": {
+      "count": 2,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#9c9c9c": {
+      "count": 2,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#ff78001c": {
+      "count": 2,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#f598aa": {
+      "count": 2,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#ffee00": {
+      "count": 2,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.diasporaco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#bfbfbf": {
+      "count": 1,
+      "sources": [
+        "https://www.diasporaco.com/"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 1,
+      "sources": [
+        "https://diasporaco.com"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+    ],
+    "Baskerville": [
+      "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+    ],
+    "Caslon Graphique": [
+      "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+    ],
+    "Consolas": [
+      "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+    ],
+    "Figtree": [
+      "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+    ],
+    "Fustat": [
+      "https://www.diasporaco.com/",
+      "https://fonts.googleapis.com/css2?family=Fustat:wght@200..800&display=swap",
+      "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845",
+      "https://www.diasporaco.com/cdn/shop/t/151/assets/component-spf-search.css?v=159807630885120816831775551573"
+    ],
+    "Fustat Next": [
+      "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+    ],
+    "PT Sans": [
+      "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+    ],
+    "icons": [
+      "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+    ],
+    "monospace": [
+      "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+    ],
+    "p22-mackinac-pro": [
+      "https://www.diasporaco.com/",
+      "https://use.typekit.net/sjo4bih.css",
+      "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845",
+      "https://www.diasporaco.com/cdn/shop/t/151/assets/component-spf-search.css?v=159807630885120816831775551573"
+    ],
+    "sans-serif": [
+      "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+    ],
+    "serif": [
+      "https://use.typekit.net/sjo4bih.css",
+      "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+    ],
+    "slick": [
+      "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.diasporaco.com/",
+      "selector": "tton, \n.gf-option-block ul li a span.gf-count,\n.gf-option-block ul li button span.gf-count,\n.gf-clear, \n.gf-clear-all, \n.selected-item.gf-option-label a,\n.gf-fo",
+      "declarations": "font-size: 14px !important;\n  color: #000000 !important;\n  text-transform: none !important;\n  font-weight: normal !important;"
+    },
+    {
+      "source": "https://www.diasporaco.com/",
+      "selector": ".gf-refine-toggle-mobile,\n.gf-refine-toggle-mobile button,\n.gf-form-button-group button",
+      "declarations": "font-size: 14px !important;\n  text-transform: none !important;\n  font-weight: normal !important;\n  color: #3a3a3a !important;"
+    },
+    {
+      "source": "https://www.diasporaco.com/",
+      "selector": ".gf-option-block-box-rectangle.gf-option-block ul li.gf-box-rectangle a,\n.gf-option-block-box-rectangle.gf-option-block ul li.gf-box-rectangle button",
+      "declarations": "border-color: #000000 !important;"
+    },
+    {
+      "source": "https://www.diasporaco.com/",
+      "selector": ".gf-option-block-box-rectangle.gf-option-block ul li.gf-box-rectangle a.checked,\n.gf-option-block-box-rectangle.gf-option-block ul li.gf-box-rectangle button.ch",
+      "declarations": "color: #fff !important;\n  background-color: #000000 !important;"
+    },
+    {
+      "source": "https://www.diasporaco.com/",
+      "selector": ".gf-option-block-box-rectangle.gf-option-block ul li.gf-box-rectangle button:hover,\n  .gf-option-block-box-rectangle.gf-option-block ul li.gf-box-rectangle a:ho",
+      "declarations": "color: #fff !important;\n    background-color: #000000 !important;"
+    },
+    {
+      "source": "https://www.diasporaco.com/",
+      "selector": "#gf-form .gf-form-button-group button, .gf-YMM-forms .gf-form-button-group button",
+      "declarations": "color: #FFFFFF !important;\n  background: #3a3a3a !important;\n  border-radius: 0px !important;"
+    },
+    {
+      "source": "https://www.diasporaco.com/",
+      "selector": ".h4.spf-product-card__title a",
+      "declarations": "color: #333333;\n  font-size: 15px;\n   font-family: inherit;     font-style: normal;\n  text-transform: none;"
+    },
+    {
+      "source": "https://www.diasporaco.com/",
+      "selector": ".h4.spf-product-card__title a:hover",
+      "declarations": "color: #000000;"
+    },
+    {
+      "source": "https://www.diasporaco.com/",
+      "selector": ".spf-product-card button.spf-product__form-btn-addtocart",
+      "declarations": "font-size: 14px;\n   font-family: inherit;   font-weight: normal;   font-style: normal;   text-transform: none;"
+    },
+    {
+      "source": "https://www.diasporaco.com/",
+      "selector": ".spf-product-card button.spf-product__form-btn-addtocart,\n.spf-product-card.spf-product-card__template-4 a.open-quick-view,\n.spf-product-card.spf-product-card__",
+      "declarations": "color: #FFFFFF !important;\n  border: 1px solid #333333 !important;\n  background: #333333 !important;"
+    },
+    {
+      "source": "https://www.diasporaco.com/",
+      "selector": "roduct-card button.spf-product__form-btn-addtocart:hover,\n.spf-product-card.spf-product-card__template-4 a.open-quick-view:hover,\n.spf-product-card.spf-product-",
+      "declarations": "color: #FFFFFF !important;\n  border: 1px solid #000000 !important;\n  background: #000000 !important;"
+    },
+    {
+      "source": "https://www.diasporaco.com/",
+      "selector": "span.spf-product__label.spf-product__label-soldout",
+      "declarations": "color: #ffffff;\n  background: #989898;"
+    },
+    {
+      "source": "https://www.diasporaco.com/",
+      "selector": "span.spf-product__label.spf-product__label-sale",
+      "declarations": "color: #F0F0F0;\n  background: #d21625;"
+    },
+    {
+      "source": "https://www.diasporaco.com/",
+      "selector": ".spf-product-card__vendor a",
+      "declarations": "color: #969595;\n  font-size: 13px;\n   font-family: inherit;   font-weight: normal;   font-style: normal;"
+    },
+    {
+      "source": "https://www.diasporaco.com/",
+      "selector": ".spf-product-card__vendor a:hover",
+      "declarations": "color: #969595;"
+    },
+    {
+      "source": "https://www.diasporaco.com/",
+      "selector": ".spf-product-card__oldprice,\n.spf-product-card__saleprice,\n.spf-product-card__price,\n.gfqv-product-card__oldprice,\n.gfqv-product-card__saleprice,\n.gfqv-product-",
+      "declarations": "font-size: 14px;\n   font-family: inherit;   font-weight: normal;   font-style: normal;"
+    },
+    {
+      "source": "https://www.diasporaco.com/",
+      "selector": "span.spf-product-card__price, span.gfqv-product-card__price",
+      "declarations": "color: #141414;"
+    },
+    {
+      "source": "https://www.diasporaco.com/",
+      "selector": "span.spf-product-card__oldprice, span.gfqv-product-card__oldprice",
+      "declarations": "color: #969595;"
+    },
+    {
+      "source": "https://www.diasporaco.com/",
+      "selector": "span.spf-product-card__saleprice, span.gfqv-product-card__saleprice",
+      "declarations": "color: #d21625;"
+    },
+    {
+      "source": "https://www.diasporaco.com/",
+      "selector": "body",
+      "declarations": "--assets-base-url: //www.diasporaco.com/cdn/shop/t/151/assets/;\n    --footer-menu-png: url(//www.diasporaco.com/cdn/shop/t/151/assets/footer_menu.png?v=160021795670524424671665183254);"
+    },
+    {
+      "source": "https://www.diasporaco.com/",
+      "selector": "#hero-template--15984055189675__hero_masala_landing_yJK8Cp .btn--secondary",
+      "declarations": "background: rgba(255,255,255,.1); color: #fff; border-color: rgba(255,255,255,.4);"
+    },
+    {
+      "source": "https://www.diasporaco.com/",
+      "selector": "#hero-template--15984055189675__hero_masala_landing_yJK8Cp .btn--outline",
+      "declarations": "background: transparent; border-color: currentColor;"
+    },
+    {
+      "source": "https://www.diasporaco.com/",
+      "selector": ".main-header.is-over-hero .header > a,\n  .main-header.is-over-hero .header .icon,\n  .main-header.is-over-hero .header svg,\n  .main-header.is-over-hero .header .",
+      "declarations": "color:#fff !important; fill:#fff !important;"
+    },
+    {
+      "source": "https://www.diasporaco.com/",
+      "selector": "r:#ffcf01 !important;\ncolor:#ffcf01 !important;\ncolor:#ffcf01 !important;\ndisplay:none;\nborder-left: 1px solid rgba(0, 0, 0, 0.20);\n\n        #section-template--",
+      "declarations": "padding-top:24px;\n            padding-bottom:24px;\n            background-color:#fffceb;"
+    },
+    {
+      "source": "https://www.diasporaco.com/",
+      "selector": "#shopify-section-template--15984055189675__product_grid_new_33T4Br h4",
+      "declarations": "color: #080a5c;"
+    },
+    {
+      "source": "https://www.diasporaco.com/",
+      "selector": ".article-header-tag-badge .tag-name_team-fave,\n  .featured-blog__image-wrapper .tag-name_team-fave",
+      "declarations": "background: #FFCF01 url('//www.diasporaco.com/cdn/shop/files/recipe-featured-tag-icon.png?v=3918661574340373241') no-repeat 8px center / 22px;\n    padding-left: 35px !important;\n    color: #d5137b;"
+    },
+    {
+      "source": "https://www.diasporaco.com/",
+      "selector": ".recipe-buttons .btn-secondary",
+      "declarations": "background-color: transparent;\n      color: #C42C78;\n      border: 0.1rem solid #C42C78;"
+    },
+    {
+      "source": "https://www.diasporaco.com/",
+      "selector": ".recipe-buttons .btn-secondary:hover",
+      "declarations": "background-color: rgba(196, 44, 120, 0.1);"
+    },
+    {
+      "source": "https://www.diasporaco.com/",
+      "selector": ".donation-receipt-modal__copy-button",
+      "declarations": "display: inline-flex; align-items: center; justify-content: center; width: 2rem; height: 2rem; padding: .5rem; color: #d5137b; background: transparent; border: 0; cursor: pointer;"
+    },
+    {
+      "source": "https://www.diasporaco.com/",
+      "selector": ".donation-receipt-modal__copy-button:hover, .donation-receipt-modal__copy-button:focus",
+      "declarations": "color: #080a5c;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Diaspora Co.\n – Diaspora Co.  \n  Diaspora Co. – Diaspora Co.",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.diasporaco.com/",
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845",
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/component-spf-search.css?v=159807630885120816831775551573"
+      ]
+    },
+    "colors.secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.diasporaco.com/",
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845",
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/component-spf-search.css?v=159807630885120816831775551573"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.diasporaco.com/",
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845",
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/component-spf-search.css?v=159807630885120816831775551573"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.diasporaco.com/",
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.diasporaco.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.diasporaco.com/",
+        "https://www.diasporaco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.diasporaco.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.diasporaco.com/",
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845",
+        "https://www.diasporaco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.diasporaco.com/",
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845",
+        "https://www.diasporaco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-yellow": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.diasporaco.com/",
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "colors.accent-orange": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "colors.sale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.diasporaco.com/"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "colors.border-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.diasporaco.com/",
+        "https://www.diasporaco.com/cdn/shop/t/151/assets/style.scss.css?v=119369455969904422681779518845"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.origin-tag": {
+      "status": "inferred"
+    }
+  },
+  "retained_css_palette_extension": [
+    "#f0f0f0"
+  ]
+}

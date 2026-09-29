@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Sonic Editions
-description: Crimson edition stamps (#ce051d) break the surface of an otherwise monastic gallery — every product page uses this single voltage against archival paper tones (#f7f5f2, #e7e4da) that read less like a web store and more like unfolding an envelope of print stock. Canela-Light carries all display and editorial typesetting, its airy thin serifs evoking museum wall text rather than retail headline hierarchy; HelveticaNowPro handles the commerce layer — prices, CTAs, navigation — keeping the transactional register clean and separate from the curatorial one. The palette divides cleanly into three registers: the crimson primary for edition count badges and primary actions; a family of dark navy-slates (#272d45, #676986, #9a9db1) that stand in for the dark gallery wall behind a lit photograph; and a run of warm off-whites (#fbfaf8 through #e7e4da) that mimic the tonal range of actual fine-art paper. A teal accent (#0e7a82) surfaces on hover states and secondary links — quiet enough not to compete with the photography, present enough to give the interface a second signature color beyond the crimson. Edition size numerals, photographer names, and print dimensions all get Canela-Light at restrained weights; the result is a hierarchy built around reverence for the image rather than urgency around the purchase. Corners are consistently sharp or near-sharp — product cards, input fields, and primary buttons all use minimal radii, reinforcing the print-object seriousness. The grid is wide and uncluttered, relying on generous whitespace and the natural draw of large-format photography thumbnails to move the eye. Soft {rounded.xs} radii on UI chrome keep the interface from feeling clinical while preserving the sense of a physical, institutional space.
+name: "Sonic Editions"
+source_url: "https://www.soniceditions.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Crimson edition stamps (#ce051d) break the surface of an otherwise monastic gallery — every product page uses this single voltage against archival paper tones (#f7f5f2, #e7e4da) that read less like a web store and more like unfolding an envelope of print stock. Canela-Light carries all display and editorial typesetting, its airy thin serifs evoking museum wall text rather than retail headline hierarchy; HelveticaNowPro handles the commerce layer — prices, CTAs, navigation — keeping the transactional register clean and separate from the curatorial one. The palette divides cleanly into three registers: the crimson primary for edition count badges and primary actions; a family of dark navy-slates (#272d45, #676986, #9a9db1) that stand in for the dark gallery wall behind a lit photograph; and a run of warm off-whites (#fbfaf8 through #e7e4da) that mimic the tonal range of actual fine-art paper. A teal accent (#0e7a82) surfaces on hover states and secondary links — quiet enough not to compete with the photography, present enough to give the interface a second signature color beyond the crimson. Edition size numerals, photographer names, and print dimensions all get Canela-Light at restrained weights; the result is a hierarchy built around reverence for the image rather than urgency around the purchase. Corners are consistently sharp or near-sharp — product cards, input fields, and primary buttons all use minimal radii, reinforcing the print-object seriousness. The grid is wide and uncluttered, relying on generous whitespace and the natural draw of large-format photography thumbnails to move the eye. Soft {rounded.xs} radii on UI chrome keep the interface from feeling clinical while preserving the sense of a physical, institutional space.
 
 colors:
   primary: "#ce051d"
@@ -366,6 +370,8 @@ components:
 - Photographer spotlight sections: horizontal scroll carousel on mobile, static grid on desktop
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact nav height and logo dimensions not confirmed; 64px is inferred from Shopify theme patterns
 - Hover animation timing and easing curves not extractable from static snapshot

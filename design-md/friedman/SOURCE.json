@@ -1,0 +1,960 @@
+{
+  "source_url": "https://www.friedmanamplification.com",
+  "final_url": "https://friedmanamplification.com/",
+  "captured_at": "2026-09-28T10:32:51.038732+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.friedmanamplification.com",
+      "final_url": "https://friedmanamplification.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "ebc74662979ab73833e3a8b919cc18c2de27c9e9640907df57d11f60c1c46a2f",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://friedmanamplification.com/wp-content/plugins/load-more-products-for-woocommerce/berocket/assets/css/font-awesome.min.css?ver=627979a9ea146ce62747b04c087c5032",
+      "final_url": "https://friedmanamplification.com/wp-content/plugins/load-more-products-for-woocommerce/berocket/assets/css/font-awesome.min.css?ver=627979a9ea146ce62747b04c087c5032",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a4478c8cc089e538147f5900b936647cf4049376e5d9f637b10b5eaafabc3f21",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://friedmanamplification.com/wp-content/plugins/conditional-shipping-for-woocommerce/frontend/css/woo-conditional-shipping.css?ver=3.7.0.free",
+      "final_url": "https://friedmanamplification.com/wp-content/plugins/conditional-shipping-for-woocommerce/frontend/css/woo-conditional-shipping.css?ver=3.7.0.free",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4dd7022da83246a9b8b293d5f4f51a89d5cdfd4ad2c1bdaa09434a83fbeb90cb",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://friedmanamplification.com/wp-content/plugins/cookie-notice/css/front.min.css?ver=3.1.12",
+      "final_url": "https://friedmanamplification.com/wp-content/plugins/cookie-notice/css/front.min.css?ver=3.1.12",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "63b48438278c5dfb73dd5bb3cbf8310caccd91457201debe4cff4dec4410d96c",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+      "final_url": "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c52dc19e1f84684beb82391dacc133a11400f1c351dc2c456fb38a1e22ec8ddd",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+      "final_url": "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "262c2912a618e3aa1af029cba7dde16245c35dd550bb10fa72c74b435456097a",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 55,
+      "sources": [
+        "https://friedmanamplification.com/",
+        "https://friedmanamplification.com/wp-content/plugins/conditional-shipping-for-woocommerce/frontend/css/woo-conditional-shipping.css?ver=3.7.0.free",
+        "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2"
+      ]
+    },
+    "#ffffff": {
+      "count": 52,
+      "sources": [
+        "https://friedmanamplification.com/",
+        "https://friedmanamplification.com/wp-content/plugins/load-more-products-for-woocommerce/berocket/assets/css/font-awesome.min.css?ver=627979a9ea146ce62747b04c087c5032",
+        "https://friedmanamplification.com/wp-content/plugins/conditional-shipping-for-woocommerce/frontend/css/woo-conditional-shipping.css?ver=3.7.0.free",
+        "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2"
+      ]
+    },
+    "#bea668": {
+      "count": 38,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#64646c": {
+      "count": 7,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#222222": {
+      "count": 6,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#949494": {
+      "count": 5,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 5,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 4,
+      "sources": [
+        "https://friedmanamplification.com/",
+        "https://friedmanamplification.com/wp-content/plugins/load-more-products-for-woocommerce/berocket/assets/css/font-awesome.min.css?ver=627979a9ea146ce62747b04c087c5032"
+      ]
+    },
+    "#c6c6c6": {
+      "count": 4,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#f5a623": {
+      "count": 4,
+      "sources": [
+        "https://friedmanamplification.com/wp-content/plugins/cookie-notice/css/front.min.css?ver=3.1.12"
+      ]
+    },
+    "#720eec": {
+      "count": 4,
+      "sources": [
+        "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2"
+      ]
+    },
+    "#ff6900": {
+      "count": 3,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#cf2e2e": {
+      "count": 2,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#fcb900": {
+      "count": 2,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#0693e3": {
+      "count": 2,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#9b51e0": {
+      "count": 2,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#0000001a": {
+      "count": 2,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#c9c9c9": {
+      "count": 2,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#9999ff": {
+      "count": 2,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#111111": {
+      "count": 2,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#0d0d0d": {
+      "count": 2,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#dee2e6": {
+      "count": 2,
+      "sources": [
+        "https://friedmanamplification.com/wp-content/plugins/conditional-shipping-for-woocommerce/frontend/css/woo-conditional-shipping.css?ver=3.7.0.free"
+      ]
+    },
+    "#2b8a3e": {
+      "count": 2,
+      "sources": [
+        "https://friedmanamplification.com/wp-content/plugins/conditional-shipping-for-woocommerce/frontend/css/woo-conditional-shipping.css?ver=3.7.0.free"
+      ]
+    },
+    "#c92a2a": {
+      "count": 2,
+      "sources": [
+        "https://friedmanamplification.com/wp-content/plugins/conditional-shipping-for-woocommerce/frontend/css/woo-conditional-shipping.css?ver=3.7.0.free"
+      ]
+    },
+    "#007518": {
+      "count": 2,
+      "sources": [
+        "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2"
+      ]
+    },
+    "#aa0000": {
+      "count": 2,
+      "sources": [
+        "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2"
+      ]
+    },
+    "#ffba00": {
+      "count": 2,
+      "sources": [
+        "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2"
+      ]
+    },
+    "#2ea2cc": {
+      "count": 2,
+      "sources": [
+        "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2"
+      ]
+    },
+    "#fcfbfe": {
+      "count": 2,
+      "sources": [
+        "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2"
+      ]
+    },
+    "#e9e6ed": {
+      "count": 2,
+      "sources": [
+        "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2"
+      ]
+    },
+    "#515151": {
+      "count": 2,
+      "sources": [
+        "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2"
+      ]
+    },
+    "#958e09": {
+      "count": 2,
+      "sources": [
+        "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2"
+      ]
+    },
+    "#767676": {
+      "count": 2,
+      "sources": [
+        "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2"
+      ]
+    },
+    "#cc1818": {
+      "count": 2,
+      "sources": [
+        "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2"
+      ]
+    },
+    "#abb8c3": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#f78da7": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#7bdcb5": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#00d084": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#8ed1fc": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#32373c": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#898989": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#7e57c2": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#7adcb4": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#00d082": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#a9b8c3": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#4aeadc": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#9778d1": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#cf2aba": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#ee2c82": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#fb6962": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#fef84c": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#ffceec": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#9896f0": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#fecda5": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#fe2d2d": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#6b003e": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#ffcb70": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#c751c0": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#4158d0": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#fff5cb": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#b6e3d4": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#33a7b5": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#caf880": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#71ce7e": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#020381": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#2874fc": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "#3d9cd2": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/wp-content/plugins/conditional-shipping-for-woocommerce/frontend/css/woo-conditional-shipping.css?ver=3.7.0.free"
+      ]
+    },
+    "#1864ab": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/wp-content/plugins/conditional-shipping-for-woocommerce/frontend/css/woo-conditional-shipping.css?ver=3.7.0.free"
+      ]
+    },
+    "#495057": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/wp-content/plugins/conditional-shipping-for-woocommerce/frontend/css/woo-conditional-shipping.css?ver=3.7.0.free"
+      ]
+    },
+    "#2f2f2f": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/wp-content/plugins/conditional-shipping-for-woocommerce/frontend/css/woo-conditional-shipping.css?ver=3.7.0.free"
+      ]
+    },
+    "#fffbf4": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/wp-content/plugins/conditional-shipping-for-woocommerce/frontend/css/woo-conditional-shipping.css?ver=3.7.0.free"
+      ]
+    },
+    "#f0b849": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/wp-content/plugins/conditional-shipping-for-woocommerce/frontend/css/woo-conditional-shipping.css?ver=3.7.0.free"
+      ]
+    },
+    "#e67700": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/wp-content/plugins/conditional-shipping-for-woocommerce/frontend/css/woo-conditional-shipping.css?ver=3.7.0.free"
+      ]
+    },
+    "#f4fff4": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/wp-content/plugins/conditional-shipping-for-woocommerce/frontend/css/woo-conditional-shipping.css?ver=3.7.0.free"
+      ]
+    },
+    "#66c449": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/wp-content/plugins/conditional-shipping-for-woocommerce/frontend/css/woo-conditional-shipping.css?ver=3.7.0.free"
+      ]
+    },
+    "#fff4f4": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/wp-content/plugins/conditional-shipping-for-woocommerce/frontend/css/woo-conditional-shipping.css?ver=3.7.0.free"
+      ]
+    },
+    "#f06b49": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/wp-content/plugins/conditional-shipping-for-woocommerce/frontend/css/woo-conditional-shipping.css?ver=3.7.0.free"
+      ]
+    },
+    "#ffb84d": {
+      "count": 1,
+      "sources": [
+        "https://friedmanamplification.com/wp-content/plugins/cookie-notice/css/front.min.css?ver=3.1.12"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://friedmanamplification.com/wp-content/plugins/cookie-notice/css/front.min.css?ver=3.1.12"
+    ],
+    "Arial": [
+      "https://friedmanamplification.com/wp-content/plugins/cookie-notice/css/front.min.css?ver=3.1.12"
+    ],
+    "BlinkMacSystemFont": [
+      "https://friedmanamplification.com/wp-content/plugins/cookie-notice/css/front.min.css?ver=3.1.12"
+    ],
+    "ETmodules": [
+      "https://friedmanamplification.com/"
+    ],
+    "FontAwesome": [
+      "https://friedmanamplification.com/wp-content/plugins/load-more-products-for-woocommerce/berocket/assets/css/font-awesome.min.css?ver=627979a9ea146ce62747b04c087c5032"
+    ],
+    "Helvetica Neue": [
+      "https://friedmanamplification.com/wp-content/plugins/cookie-notice/css/front.min.css?ver=3.1.12"
+    ],
+    "Josefin Sans": [
+      "https://friedmanamplification.com/"
+    ],
+    "Raleway": [
+      "https://friedmanamplification.com/"
+    ],
+    "Roboto": [
+      "https://friedmanamplification.com/",
+      "https://friedmanamplification.com/wp-content/plugins/cookie-notice/css/front.min.css?ver=3.1.12"
+    ],
+    "sans-serif": [
+      "https://friedmanamplification.com/",
+      "https://friedmanamplification.com/wp-content/plugins/cookie-notice/css/front.min.css?ver=3.1.12"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://friedmanamplification.com/",
+      "selector": ":root",
+      "declarations": "--wp--style--global--content-size: 823px;--wp--style--global--wide-size: 1080px;"
+    },
+    {
+      "source": "https://friedmanamplification.com/",
+      "selector": ":root :where(.wp-element-button, .wp-block-button__link)",
+      "declarations": "background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;"
+    },
+    {
+      "source": "https://friedmanamplification.com/",
+      "selector": ".xoo-wsc-header",
+      "declarations": "color: #000000;\r\n\tbackground-color: #ffffff;\r\n\tborder-bottom: 2px solid #eee;\r\n\tpadding: 15px 15px;"
+    },
+    {
+      "source": "https://friedmanamplification.com/",
+      "selector": ".xoo-wsc-body",
+      "declarations": "background-color: #ffffff;"
+    },
+    {
+      "source": "https://friedmanamplification.com/",
+      "selector": ".xoo-wsc-products:not(.xoo-wsc-pattern-card), .xoo-wsc-products:not(.xoo-wsc-pattern-card) span.amount, .xoo-wsc-products:not(.xoo-wsc-pattern-card) a",
+      "declarations": "font-size: 16px;\r\n\tcolor: #000000;"
+    },
+    {
+      "source": "https://friedmanamplification.com/",
+      "selector": ".xoo-wsc-products:not(.xoo-wsc-pattern-card) .xoo-wsc-product",
+      "declarations": "padding: 20px 15px;\r\n\tmargin: 0;\r\n\tborder-radius: 0px;\r\n\tbox-shadow: 0 0;\r\n\tbackground-color: transparent;"
+    },
+    {
+      "source": "https://friedmanamplification.com/",
+      "selector": ".lmp_load_more_button.br_lmp_button_settings .lmp_button:hover",
+      "declarations": "background-color: #9999ff!important;\n                    color: #111111!important;"
+    },
+    {
+      "source": "https://friedmanamplification.com/",
+      "selector": ".lmp_load_more_button.br_lmp_prev_settings .lmp_button:hover",
+      "declarations": "background-color: #9999ff!important;\n                    color: #111111!important;"
+    },
+    {
+      "source": "https://friedmanamplification.com/",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "color:#000000"
+    },
+    {
+      "source": "https://friedmanamplification.com/",
+      "selector": ".woocommerce-page button.button,.woocommerce input.button,.woocommerce-page input.button,.et_pb_contact p input[type=\"checkbox\"]:checked+label i:before,.et_pb_b",
+      "declarations": "color:#bea668"
+    },
+    {
+      "source": "https://friedmanamplification.com/",
+      "selector": ".et_secondary_nav_enabled #page-container #top-header",
+      "declarations": "background-color:#bea668!important"
+    },
+    {
+      "source": "https://friedmanamplification.com/",
+      "selector": "er .footer-widget h4,#main-footer .widget_block h1,#main-footer .widget_block h2,#main-footer .widget_block h3,#main-footer .widget_block h4,#main-footer .widge",
+      "declarations": "color:#bea668"
+    },
+    {
+      "source": "https://friedmanamplification.com/",
+      "selector": "rce #respond input#submit,.woocommerce-page #respond input#submit,.woocommerce #content input.button,.woocommerce-page #content input.button,.woocommerce-messag",
+      "declarations": "font-size:16px;background-color:#bea668;border-color:#bea668;border-radius:0px;font-weight:bold;font-style:normal;text-transform:uppercase;text-decoration:none;;letter-spacing:-1px"
+    },
+    {
+      "source": "https://friedmanamplification.com/",
+      "selector": "per_class #content input.button,.woocommerce-page.et_pb_button_helper_class #content input.button,body.et_pb_button_helper_class .et_pb_button,body.et_pb_button",
+      "declarations": "color:#ffffff"
+    },
+    {
+      "source": "https://friedmanamplification.com/",
+      "selector": "body .et_pb_bg_layout_light.et_pb_button:hover,body .et_pb_bg_layout_light .et_pb_button:hover,body .et_pb_button:hover",
+      "declarations": "color:#bea668!important;background-color:rgba(190,166,104,0);border-color:#bea668!important;letter-spacing:-1px"
+    },
+    {
+      "source": "https://friedmanamplification.com/",
+      "selector": "ce-page input.button:hover,.woocommerce #respond input#submit:hover,.woocommerce-page #respond input#submit:hover,.woocommerce #content input.button:hover,.wooc",
+      "declarations": "color:#bea668!important;background-color:rgba(190,166,104,0)!important;border-color:#bea668!important;letter-spacing:-1px"
+    },
+    {
+      "source": "https://friedmanamplification.com/",
+      "selector": ".et_fixed_nav #page-container .et-fixed-header#top-header",
+      "declarations": "background-color:#bea668!important"
+    },
+    {
+      "source": "https://friedmanamplification.com/",
+      "selector": ".et_fixed_nav #page-container .et-fixed-header#top-header #et-secondary-nav li ul",
+      "declarations": "background-color:#bea668"
+    },
+    {
+      "source": "https://friedmanamplification.com/",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "font-family:'Josefin Sans',sans-serif"
+    },
+    {
+      "source": "https://friedmanamplification.com/",
+      "selector": "body,input,textarea,select",
+      "declarations": "font-family:'Raleway',sans-serif"
+    },
+    {
+      "source": "https://friedmanamplification.com/",
+      "selector": ".et_pb_button",
+      "declarations": "font-family:'Josefin Sans',sans-serif"
+    },
+    {
+      "source": "https://friedmanamplification.com/",
+      "selector": "display: none;\n.et_pb_section_0_tb_header",
+      "declarations": "border-bottom-width:1px;border-bottom-color:#64646c;margin-top:0px;margin-bottom:0px;overflow:visible!important"
+    },
+    {
+      "source": "https://friedmanamplification.com/",
+      "selector": ".et_pb_section_0_tb_header.et_pb_section",
+      "declarations": "padding-top:0px;padding-bottom:0px;background-color:#000000!important"
+    },
+    {
+      "source": "https://friedmanamplification.com/",
+      "selector": ".et_pb_menu_0_tb_header.et_pb_menu ul li a",
+      "declarations": "font-family:'Josefin Sans',sans-serif;text-transform:uppercase;font-size:18px;color:#c6c6c6!important;letter-spacing:-1px"
+    },
+    {
+      "source": "https://friedmanamplification.com/",
+      "selector": ".et_pb_menu_0_tb_header.et_pb_menu ul li:hover>a,.et_pb_menu_0_tb_header.et_pb_menu .nav li ul.sub-menu a:hover,.et_pb_menu_0_tb_header.et_pb_menu .nav li ul.su",
+      "declarations": "color:#FFFFFF!important"
+    },
+    {
+      "source": "https://friedmanamplification.com/",
+      "selector": ".et_pb_menu_0_tb_header.et_pb_menu",
+      "declarations": "background-color:#000000"
+    },
+    {
+      "source": "https://friedmanamplification.com/",
+      "selector": ".et_pb_menu_0_tb_header.et_pb_menu ul li.current-menu-item a",
+      "declarations": "color:#bea668!important"
+    },
+    {
+      "source": "https://friedmanamplification.com/",
+      "selector": ".et_pb_menu_0_tb_header.et_pb_menu .nav li ul",
+      "declarations": "background-color:rgba(0,0,0,0.9)!important;border-color:#000000"
+    },
+    {
+      "source": "https://friedmanamplification.com/",
+      "selector": ".et_pb_menu_0_tb_header.et_pb_menu .et_mobile_menu",
+      "declarations": "border-color:#000000"
+    },
+    {
+      "source": "https://friedmanamplification.com/",
+      "selector": ".et_pb_menu_0_tb_header.et_pb_menu .nav li ul.sub-menu a,.et_pb_menu_0_tb_header.et_pb_menu .nav li ul.sub-menu li.current-menu-item a,.et_pb_menu_0_tb_header.e",
+      "declarations": "color:#c6c6c6!important"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Friedman Amplification | USA Hand-Built Tube Amps & Guitar Pedals",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://friedmanamplification.com/",
+        "https://friedmanamplification.com/wp-content/plugins/conditional-shipping-for-woocommerce/frontend/css/woo-conditional-shipping.css?ver=3.7.0.free",
+        "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://friedmanamplification.com/",
+        "https://friedmanamplification.com/wp-content/plugins/load-more-products-for-woocommerce/berocket/assets/css/font-awesome.min.css?ver=627979a9ea146ce62747b04c087c5032",
+        "https://friedmanamplification.com/wp-content/plugins/conditional-shipping-for-woocommerce/frontend/css/woo-conditional-shipping.css?ver=3.7.0.free",
+        "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://friedmanamplification.com/",
+        "https://friedmanamplification.com/wp-content/plugins/load-more-products-for-woocommerce/berocket/assets/css/font-awesome.min.css?ver=627979a9ea146ce62747b04c087c5032"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://friedmanamplification.com/",
+        "https://friedmanamplification.com/wp-content/plugins/load-more-products-for-woocommerce/berocket/assets/css/font-awesome.min.css?ver=627979a9ea146ce62747b04c087c5032"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://friedmanamplification.com/",
+        "https://friedmanamplification.com/wp-content/plugins/load-more-products-for-woocommerce/berocket/assets/css/font-awesome.min.css?ver=627979a9ea146ce62747b04c087c5032",
+        "https://friedmanamplification.com/wp-content/plugins/conditional-shipping-for-woocommerce/frontend/css/woo-conditional-shipping.css?ver=3.7.0.free",
+        "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://friedmanamplification.com/",
+        "https://friedmanamplification.com/wp-content/plugins/load-more-products-for-woocommerce/berocket/assets/css/font-awesome.min.css?ver=627979a9ea146ce62747b04c087c5032",
+        "https://friedmanamplification.com/wp-content/plugins/conditional-shipping-for-woocommerce/frontend/css/woo-conditional-shipping.css?ver=3.7.0.free",
+        "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://friedmanamplification.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2"
+      ]
+    },
+    "colors.secondary-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "colors.accent-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "colors.border": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://friedmanamplification.com/wp-content/plugins/conditional-shipping-for-woocommerce/frontend/css/woo-conditional-shipping.css?ver=3.7.0.free"
+      ]
+    },
+    "colors.muted-2": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://friedmanamplification.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.cart-drawer": {
+      "status": "inferred"
+    }
+  }
+}

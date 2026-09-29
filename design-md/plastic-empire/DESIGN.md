@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Plastic Empire
-description: Bright #118811 green set against a near-black (#121212) field is an unusual call for a collectibles superstore — most shops in the Funko space default to corporate blue or shadowy charcoal, but Plastic Empire stakes its territory with a vivid mid-green that reads across vinyl-packed shelves and thumbnail grids alike. The palette is deliberately primary: green for action (every CTA, every in-stock signal), #e32402 red for urgency (sale, low-stock, clearance), #ffbd00 yellow for celebration and featured drops, and #dedede silver-gray for structure and dividers. Nothing in the stack is subtle — these are the colors of box art, not luxury goods. Type runs in Muli, a geometric sans that sits at moderate weights for body copy and jumps to bold 700–800 for price tags and product titles, matching the energy of a store where the headline is always the figure in the box. Navigation is dense — categories span action figures, comics, trading cards, exclusives, pre-orders, and clearance — so the nav bar must handle horizontal scroll on mobile without collapsing into a hamburger wilderness. Product cards are the dominant UI unit: square-cropped art, a title in `{typography.title-md}`, a price in `{typography.price-display}`, and badge slots for Exclusive, Pre-Order, Sale, and New Arrival — all drawn from the same four-color signal palette. The `{rounded.xs}` to `{rounded.sm}` range keeps corners firm and geometric, fitting the hard plastic aesthetic of the product category. Checkout urgency is amplified through red countdown badges and yellow "only X left" callouts. The overall register is a high-density comic shop translated into an always-on digital grid — loud, legible, and genuinely fun to browse.
+name: "Plastic Empire"
+source_url: "https://www.plasticempire.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Bright #118811 green set against a near-black (#121212) field is an unusual call for a collectibles superstore — most shops in the Funko space default to corporate blue or shadowy charcoal, but Plastic Empire stakes its territory with a vivid mid-green that reads across vinyl-packed shelves and thumbnail grids alike. The palette is deliberately primary: green for action (every CTA, every in-stock signal), #e32402 red for urgency (sale, low-stock, clearance), #ffbd00 yellow for celebration and featured drops, and #dedede silver-gray for structure and dividers. Nothing in the stack is subtle — these are the colors of box art, not luxury goods. Type runs in Muli, a geometric sans that sits at moderate weights for body copy and jumps to bold 700–800 for price tags and product titles, matching the energy of a store where the headline is always the figure in the box. Navigation is dense — categories span action figures, comics, trading cards, exclusives, pre-orders, and clearance — so the nav bar must handle horizontal scroll on mobile without collapsing into a hamburger wilderness. Product cards are the dominant UI unit: square-cropped art, a title in `{typography.title-md}`, a price in `{typography.price-display}`, and badge slots for Exclusive, Pre-Order, Sale, and New Arrival — all drawn from the same four-color signal palette. The `{rounded.xs}` to `{rounded.sm}` range keeps corners firm and geometric, fitting the hard plastic aesthetic of the product category. Checkout urgency is amplified through red countdown badges and yellow "only X left" callouts. The overall register is a high-density comic shop translated into an always-on digital grid — loud, legible, and genuinely fun to browse.
 
 colors:
   primary: "#118811"
@@ -404,6 +408,8 @@ components:
 - Price and title remain visible at all sizes; description text (if present) is truncated to 2 lines on card
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No meta theme-color extracted; the #118811 green is inferred as primary from extracted palette distinctiveness
 - Muli is listed in font stacks but exact weight variants loaded (400/600/700/800) could not be confirmed from extraction — using logical weight assignments based on Muli's published weight range

@@ -1,0 +1,698 @@
+{
+  "source_url": "https://wemax.com",
+  "final_url": "https://www.wemax.com/",
+  "captured_at": "2026-09-28T10:17:43.612399+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://wemax.com",
+      "final_url": "https://www.wemax.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "9ac409fbe6a352889842010769c3cee6b6d2e2d55d79a3c7510f61bd31013ceb",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704",
+      "final_url": "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3725ff623b37d8d54548cc47b15903cf31ae3438a5dde74ef4af89efb33a09cd",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.wemax.com/cdn/shop/t/43/assets/apps.css?v=162097722211979372921759996704",
+      "final_url": "https://www.wemax.com/cdn/shop/t/43/assets/apps.css?v=162097722211979372921759996704",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "59a8c9e31f75ed4cd27be94a7cdc306ae7fc2b834e3e485b8ba67b7b79dfd5e0",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.wemax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.wemax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.wemax.com/cdn/shop/t/43/assets/newsletter-popup.css?v=70958374402311731511759996704",
+      "final_url": "https://www.wemax.com/cdn/shop/t/43/assets/newsletter-popup.css?v=70958374402311731511759996704",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5a56370a25ce8c42cf9da95c804b6d667cbf197a8ea116fff5b1472d1f67605a",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.wemax.com/cdn/shop/t/43/assets/mobile-dock.css?v=99392679313967444441759996704",
+      "final_url": "https://www.wemax.com/cdn/shop/t/43/assets/mobile-dock.css?v=99392679313967444441759996704",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3b3fdf1a85ab55cabef8a95080dc02ed4378a382015389b4dc461167ff1fbd32",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 12,
+      "sources": [
+        "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704",
+        "https://www.wemax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#171717": {
+      "count": 4,
+      "sources": [
+        "https://www.wemax.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 4,
+      "sources": [
+        "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704",
+        "https://www.wemax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.wemax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#1f1f1f": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/"
+      ]
+    },
+    "#f9c58d": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/"
+      ]
+    },
+    "#2b2b2b": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/"
+      ]
+    },
+    "#ffffffbf": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704"
+      ]
+    },
+    "#1199ff": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704"
+      ]
+    },
+    "#000000": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704"
+      ]
+    },
+    "#3b5998": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704"
+      ]
+    },
+    "#00acee": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704"
+      ]
+    },
+    "#e60023": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704"
+      ]
+    },
+    "#3390f7": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704"
+      ]
+    },
+    "#25d366": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704"
+      ]
+    },
+    "#0064ff": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704"
+      ]
+    },
+    "#61f0f3": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704"
+      ]
+    },
+    "#ff3484": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704"
+      ]
+    },
+    "#f1e04d": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704"
+      ]
+    },
+    "#309fff": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704"
+      ]
+    },
+    "#b635ff": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704"
+      ]
+    },
+    "#049cff": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704"
+      ]
+    },
+    "#35ee7a": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704"
+      ]
+    },
+    "#00e166": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704"
+      ]
+    },
+    "#0066ec": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704"
+      ]
+    },
+    "#f7d00b": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704"
+      ]
+    },
+    "#f60e0e": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704"
+      ]
+    },
+    "#b700ff": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.wemax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Consolas": [
+      "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704"
+    ],
+    "Courier New": [
+      "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704"
+    ],
+    "Inter": [
+      "https://www.wemax.com/"
+    ],
+    "Liberation Mono": [
+      "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704"
+    ],
+    "Menlo": [
+      "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704"
+    ],
+    "Monaco": [
+      "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704"
+    ],
+    "SFMono-Regular": [
+      "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704"
+    ],
+    "inherit!important": [
+      "https://www.wemax.com/cdn/shop/t/43/assets/apps.css?v=162097722211979372921759996704"
+    ],
+    "monospace": [
+      "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704"
+    ],
+    "ui-monospace": [
+      "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.wemax.com/",
+      "selector": ":root",
+      "declarations": "--page-padding: var(--sp-9);"
+    },
+    {
+      "source": "https://www.wemax.com/",
+      "selector": ":root",
+      "declarations": "--gap-padding: var(--sp-12);\n      --page-padding: var(--sp-12);\n      --page-container: min(calc(100vw - var(--scrollbar-width, 0px) - var(--page-padding) * 2), max(var(--page-width), 1280px));"
+    },
+    {
+      "source": "https://www.wemax.com/",
+      "selector": ":root",
+      "declarations": "--page-padding: max(var(--sp-12), 50vw - var(--scrollbar-width, 0px)/2 - var(--page-width)/2);"
+    },
+    {
+      "source": "https://www.wemax.com/",
+      "selector": ":root",
+      "declarations": "--topbar-height: var(--sp-12);"
+    },
+    {
+      "source": "https://www.wemax.com/",
+      "selector": ":root",
+      "declarations": "--topbar-height: var(--sp-14);"
+    },
+    {
+      "source": "https://www.wemax.com/",
+      "selector": "#shopify-section-sections--25329711645039__header",
+      "declarations": "--section-padding-top: 32px;\n    --section-padding-bottom: 32px;\n    --color-background: 255 255 255;\n    --color-foreground: 23 23 23;\n    --color-transparent: 255 255 255;\n    --color-localization: ;"
+    },
+    {
+      "source": "https://www.wemax.com/",
+      "selector": "--aspect-ratio: 1.775;\n--aspect-ratio: 1.775;\n\n  #shopify-section-template--25329710956911__featured-product",
+      "declarations": "--section-padding-top: 120px;\n    --section-padding-bottom: 0px;"
+    },
+    {
+      "source": "https://www.wemax.com/",
+      "selector": "#shopify-section-template--25329710956911__featured-product",
+      "declarations": "--product-grid: auto / minmax(0, 1.28fr) minmax(0, 0.72fr);"
+    },
+    {
+      "source": "https://www.wemax.com/",
+      "selector": "#shopify-section-template--25329710956911__featured-product",
+      "declarations": "--aspect-ratio: 1.0;"
+    },
+    {
+      "source": "https://www.wemax.com/",
+      "selector": "#shopify-section-template--25329710956911__featured-product",
+      "declarations": "--aspect-ratio: 1.0;"
+    },
+    {
+      "source": "https://www.wemax.com/",
+      "selector": "#shopify-section-template--25329710956911__product-bundle",
+      "declarations": "--section-padding-top: 0px;\n    --section-padding-bottom: 0px;"
+    },
+    {
+      "source": "https://www.wemax.com/",
+      "selector": "#shopify-block-product-1",
+      "declarations": "--hotspot-color: 255 255 255;\n      --hotspot-x: 12%;\n      --hotspot-y: 43%;"
+    },
+    {
+      "source": "https://www.wemax.com/",
+      "selector": "#shopify-block-product-3",
+      "declarations": "--hotspot-color: 255 255 255;\n      --hotspot-x: 62%;\n      --hotspot-y: 32%;"
+    },
+    {
+      "source": "https://www.wemax.com/",
+      "selector": "#shopify-block-product-1",
+      "declarations": "--hotspot-x: 14%;\n          --hotspot-y: 25%;"
+    },
+    {
+      "source": "https://www.wemax.com/",
+      "selector": "#shopify-block-product-3",
+      "declarations": "--hotspot-x: 50%;\n          --hotspot-y: 50%;"
+    },
+    {
+      "source": "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704",
+      "selector": ":root",
+      "declarations": "--text-h1: var(--sp-12);--text-h2: var(--sp-7d5);--text-h3: var(--sp-6);--text-h4: var(--sp-5d5);--text-h5: var(--sp-4d5);--text-h6: var(--sp-4)"
+    },
+    {
+      "source": "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704",
+      "selector": ":root",
+      "declarations": "--title-lg: clamp(var(--sp-12), 4.73vw, var(--sp-23));--title-xl: clamp(var(--sp-20), 6.737vw, var(--sp-32));--text-h1: var(--sp-14);--text-h2: var(--sp-9);--text-h3: var(--sp-7d5);--text-h4: var(--sp-6);--text-h5: var(--sp-5)"
+    },
+    {
+      "source": "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704",
+      "selector": ".pswp__button",
+      "declarations": "--tw-shadow: 0 0 #0000;--tw-shadow-colored: 0 0 #0000;-webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px);background-color:rgb(var(--color-background)/ .6);border:1px solid rgb(var(--color-border));border-radius:var(--rounded-full);box-shadow:var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow);cursor:pointer;display:block;height:var(--sp-12);margin:0;opacity:1;overflow:hidden;padding:0;position:relative;width:var(--sp-12)"
+    },
+    {
+      "source": "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704",
+      "selector": "button.pswp__button",
+      "declarations": "-webkit-touch-callout:none;-webkit-appearance:none;appearance:none;background-color:rgb(var(--color-background)/ .6)"
+    },
+    {
+      "source": "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704",
+      "selector": ".pswp__button .pswp__icn",
+      "declarations": "--tw-translate-x: -50%;--tw-translate-y: -50%;fill:var(--pswp-icon-color);color:var(--pswp-icon-color-secondary);width:var(--sp-6);height:var(--sp-6);overflow:hidden;pointer-events:none;position:absolute;inset-block-start:50%;inset-inline-start:50%;transform:translate(calc(var(--tw-translate-x) * var(--transform-logical)),var(--tw-translate-y)) scaleX(calc(var(--tw-scale-x) * var(--transform-logical))) scaleY(var(--tw-scale-y))"
+    },
+    {
+      "source": "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704",
+      "selector": ".pswp__button--arrow",
+      "declarations": "color:rgb(var(--color-foreground));width:var(--sp-12);height:var(--sp-12);position:absolute;inset-block-start:auto;inset-block-end:var(--sp-5)"
+    },
+    {
+      "source": "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704",
+      "selector": ".pswp__button--arrow",
+      "declarations": "--tw-translate-y: -50%;width:var(--sp-15);height:var(--sp-15);inset-block-start:50%;transform:translate(var(--tw-translate-x),var(--tw-translate-y))"
+    },
+    {
+      "source": "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704",
+      "selector": ".pswp__button--arrow--next .pswp__icn",
+      "declarations": "--tw-scale-x: -1"
+    },
+    {
+      "source": "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704",
+      "selector": ".pswp__video-container .play-button",
+      "declarations": "width:var(--sp-10);height:var(--sp-10);inset-inline-end:var(--sp-4);inset-block-start:var(--sp-4);background-color:rgb(var(--color-background))"
+    },
+    {
+      "source": "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704",
+      "selector": ".flickity-button",
+      "declarations": "background:#ffffffbf;border:none;color:#333;position:absolute"
+    },
+    {
+      "source": "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704",
+      "selector": "body",
+      "declarations": "background-color:rgb(var(--color-background));color:rgb(var(--color-foreground));font-family:var(--font-body-family);font-style:var(--font-body-style);font-weight:var(--font-body-weight);font-size:var(--text-base);line-height:var(--font-body-line-height);letter-spacing:var(--font-body-letter-spacing);overflow-x:hidden;line-height:inherit;margin:0"
+    },
+    {
+      "source": "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704",
+      "selector": "blockquote,.heading,h1,h2,h3,h4,h5,h6,.h0,.h1,.h2,.h3,.h4,.h5,.h6",
+      "declarations": "font-family:var(--font-heading-family);font-style:var(--font-heading-style);font-weight:var(--font-heading-weight);letter-spacing:var(--font-heading-letter-spacing);line-height:var(--font-heading-line-height);text-transform:var(--font-heading-text-transform);color:rgb(var(--color-foreground));word-break:break-word"
+    },
+    {
+      "source": "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font-family:inherit;font-size:100%;font-weight:inherit;line-height:inherit;border:none;margin:0;padding:0"
+    },
+    {
+      "source": "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704",
+      "selector": "[type=button],[type=reset],[type=submit],button",
+      "declarations": "-webkit-appearance:button;appearance:button;background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704",
+      "selector": ".button,.shopify-challenge__button,button.shopify-payment-button__button--unbranded,.shopify-payment-button [role=button],.additional-checkout-buttons [role=but",
+      "declarations": "--shadow-horizontal-offset: var(--buttons-shadow-horizontal-offset);--shadow-vertical-offset: var(--buttons-shadow-vertical-offset);--shadow-opacity: var(--buttons-shadow-opacity);--border-opacity: var(--buttons-border-opacity)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Experience the Future with 4K UST Laser Projectors and ALPD Technology – WEMAX Official",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wemax.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wemax.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704",
+        "https://www.wemax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wemax.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wemax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704",
+        "https://www.wemax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704",
+        "https://www.wemax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wemax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.overlay-glass": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704"
+      ]
+    },
+    "colors.overlay-scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wemax.com/cdn/shop/t/43/assets/theme.css?v=170060359207655550861759996704",
+        "https://www.wemax.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.price-mono": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.feature-hotspot": {
+      "status": "inferred"
+    }
+  }
+}

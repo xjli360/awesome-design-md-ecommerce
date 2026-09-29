@@ -1,0 +1,761 @@
+{
+  "source_url": "https://roverlund.com",
+  "final_url": "https://www.roverlund.com/",
+  "captured_at": "2026-09-28T04:48:10.663346+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://roverlund.com",
+      "final_url": "https://www.roverlund.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "8bcce176b7fa1eff758c6a2db2b41983204f0497288f06bc3e1ca8cea0e5b014",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.roverlund.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.roverlund.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762",
+      "final_url": "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "991d0b7e5f68e28853718dd405824ce6da0ec6bf7b00fe969c66db7254b70834",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.roverlund.com/cdn/shop/t/61/assets/fancybox.min.css?v=19278034316635137701788809782",
+      "final_url": "https://www.roverlund.com/cdn/shop/t/61/assets/fancybox.min.css?v=19278034316635137701788809782",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5736e3eec0c34bfc288854b7b8d2a8f1e22e9e2e7dae3c8d1ad5dfb2d4734ad0",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.roverlund.com/cdn/shop/t/61/assets/owl-carousel.css?v=70516089817612781961788809782",
+      "final_url": "https://www.roverlund.com/cdn/shop/t/61/assets/owl-carousel.css?v=70516089817612781961788809782",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4990eb1269b343c5933c867cd07e852d2cd2310bc45fbde3a5c5c624a9d0dbda",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.roverlund.com/cdn/shop/t/61/assets/custom.css?v=118344780570164681601788809782",
+      "final_url": "https://www.roverlund.com/cdn/shop/t/61/assets/custom.css?v=118344780570164681601788809782",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7ed238437032c018e227909b404f9b7a6b519ad1d2cfefef15ad9dd36c8078f9",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 30,
+      "sources": [
+        "https://www.roverlund.com/",
+        "https://www.roverlund.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762",
+        "https://www.roverlund.com/cdn/shop/t/61/assets/fancybox.min.css?v=19278034316635137701788809782",
+        "https://www.roverlund.com/cdn/shop/t/61/assets/custom.css?v=118344780570164681601788809782"
+      ]
+    },
+    "#ffbc44": {
+      "count": 15,
+      "sources": [
+        "https://www.roverlund.com/",
+        "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762",
+        "https://www.roverlund.com/cdn/shop/t/61/assets/custom.css?v=118344780570164681601788809782"
+      ]
+    },
+    "#000000": {
+      "count": 14,
+      "sources": [
+        "https://www.roverlund.com/",
+        "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762",
+        "https://www.roverlund.com/cdn/shop/t/61/assets/fancybox.min.css?v=19278034316635137701788809782",
+        "https://www.roverlund.com/cdn/shop/t/61/assets/owl-carousel.css?v=70516089817612781961788809782",
+        "https://www.roverlund.com/cdn/shop/t/61/assets/custom.css?v=118344780570164681601788809782"
+      ]
+    },
+    "#414141": {
+      "count": 10,
+      "sources": [
+        "https://www.roverlund.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 8,
+      "sources": [
+        "https://www.roverlund.com/",
+        "https://www.roverlund.com/cdn/shop/t/61/assets/fancybox.min.css?v=19278034316635137701788809782"
+      ]
+    },
+    "#dddddd": {
+      "count": 6,
+      "sources": [
+        "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762",
+        "https://www.roverlund.com/cdn/shop/t/61/assets/fancybox.min.css?v=19278034316635137701788809782",
+        "https://www.roverlund.com/cdn/shop/t/61/assets/custom.css?v=118344780570164681601788809782"
+      ]
+    },
+    "#cccccc": {
+      "count": 5,
+      "sources": [
+        "https://www.roverlund.com/",
+        "https://www.roverlund.com/cdn/shop/t/61/assets/fancybox.min.css?v=19278034316635137701788809782"
+      ]
+    },
+    "#0000000d": {
+      "count": 3,
+      "sources": [
+        "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762",
+        "https://www.roverlund.com/cdn/shop/t/61/assets/custom.css?v=118344780570164681601788809782"
+      ]
+    },
+    "#ffffff00": {
+      "count": 3,
+      "sources": [
+        "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762"
+      ]
+    },
+    "#809986": {
+      "count": 2,
+      "sources": [
+        "https://www.roverlund.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.roverlund.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.roverlund.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#888888": {
+      "count": 2,
+      "sources": [
+        "https://www.roverlund.com/cdn/shop/t/61/assets/fancybox.min.css?v=19278034316635137701788809782"
+      ]
+    },
+    "#ff5268": {
+      "count": 2,
+      "sources": [
+        "https://www.roverlund.com/cdn/shop/t/61/assets/fancybox.min.css?v=19278034316635137701788809782"
+      ]
+    },
+    "#7b7b7b": {
+      "count": 1,
+      "sources": [
+        "https://www.roverlund.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://www.roverlund.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://www.roverlund.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://www.roverlund.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://www.roverlund.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://www.roverlund.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://www.roverlund.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://www.roverlund.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://www.roverlund.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.roverlund.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.roverlund.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.roverlund.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000080": {
+      "count": 1,
+      "sources": [
+        "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762"
+      ]
+    },
+    "#ffc762": {
+      "count": 1,
+      "sources": [
+        "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762"
+      ]
+    },
+    "#1e1e1e": {
+      "count": 1,
+      "sources": [
+        "https://www.roverlund.com/cdn/shop/t/61/assets/fancybox.min.css?v=19278034316635137701788809782"
+      ]
+    },
+    "#e5e3df": {
+      "count": 1,
+      "sources": [
+        "https://www.roverlund.com/cdn/shop/t/61/assets/fancybox.min.css?v=19278034316635137701788809782"
+      ]
+    },
+    "#444444": {
+      "count": 1,
+      "sources": [
+        "https://www.roverlund.com/cdn/shop/t/61/assets/fancybox.min.css?v=19278034316635137701788809782"
+      ]
+    },
+    "#4e4e4e": {
+      "count": 1,
+      "sources": [
+        "https://www.roverlund.com/cdn/shop/t/61/assets/fancybox.min.css?v=19278034316635137701788809782"
+      ]
+    },
+    "#f2f4f6": {
+      "count": 1,
+      "sources": [
+        "https://www.roverlund.com/cdn/shop/t/61/assets/fancybox.min.css?v=19278034316635137701788809782"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 1,
+      "sources": [
+        "https://www.roverlund.com/cdn/shop/t/61/assets/fancybox.min.css?v=19278034316635137701788809782"
+      ]
+    },
+    "#222222": {
+      "count": 1,
+      "sources": [
+        "https://www.roverlund.com/cdn/shop/t/61/assets/fancybox.min.css?v=19278034316635137701788809782"
+      ]
+    },
+    "#3b5998": {
+      "count": 1,
+      "sources": [
+        "https://www.roverlund.com/cdn/shop/t/61/assets/fancybox.min.css?v=19278034316635137701788809782"
+      ]
+    },
+    "#344e86": {
+      "count": 1,
+      "sources": [
+        "https://www.roverlund.com/cdn/shop/t/61/assets/fancybox.min.css?v=19278034316635137701788809782"
+      ]
+    },
+    "#bd081d": {
+      "count": 1,
+      "sources": [
+        "https://www.roverlund.com/cdn/shop/t/61/assets/fancybox.min.css?v=19278034316635137701788809782"
+      ]
+    },
+    "#aa0719": {
+      "count": 1,
+      "sources": [
+        "https://www.roverlund.com/cdn/shop/t/61/assets/fancybox.min.css?v=19278034316635137701788809782"
+      ]
+    },
+    "#1da1f2": {
+      "count": 1,
+      "sources": [
+        "https://www.roverlund.com/cdn/shop/t/61/assets/fancybox.min.css?v=19278034316635137701788809782"
+      ]
+    },
+    "#0d95e8": {
+      "count": 1,
+      "sources": [
+        "https://www.roverlund.com/cdn/shop/t/61/assets/fancybox.min.css?v=19278034316635137701788809782"
+      ]
+    },
+    "#d7d7d7": {
+      "count": 1,
+      "sources": [
+        "https://www.roverlund.com/cdn/shop/t/61/assets/fancybox.min.css?v=19278034316635137701788809782"
+      ]
+    },
+    "#5d5b5b": {
+      "count": 1,
+      "sources": [
+        "https://www.roverlund.com/cdn/shop/t/61/assets/fancybox.min.css?v=19278034316635137701788809782"
+      ]
+    },
+    "#2a2a2a": {
+      "count": 1,
+      "sources": [
+        "https://www.roverlund.com/cdn/shop/t/61/assets/fancybox.min.css?v=19278034316635137701788809782"
+      ]
+    },
+    "#000000b3": {
+      "count": 1,
+      "sources": [
+        "https://www.roverlund.com/cdn/shop/t/61/assets/custom.css?v=118344780570164681601788809782"
+      ]
+    },
+    "#00000014": {
+      "count": 1,
+      "sources": [
+        "https://www.roverlund.com/cdn/shop/t/61/assets/custom.css?v=118344780570164681601788809782"
+      ]
+    }
+  },
+  "font_families": {
+    "Argent Pixel": [
+      "https://www.roverlund.com/"
+    ],
+    "Argent Pixel CF": [
+      "https://www.roverlund.com/"
+    ],
+    "JudgemeStar": [
+      "https://www.roverlund.com/"
+    ],
+    "Nineties Headliner": [
+      "https://www.roverlund.com/"
+    ],
+    "Nineties Headliner!important": [
+      "https://www.roverlund.com/"
+    ],
+    "Oswald": [
+      "https://www.roverlund.com/"
+    ],
+    "Titillium Web": [
+      "https://www.roverlund.com/"
+    ],
+    "sans-serif": [
+      "https://www.roverlund.com/"
+    ],
+    "serif": [
+      "https://www.roverlund.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.roverlund.com/",
+      "selector": ":root,\n        .color-background-1",
+      "declarations": "--color-background: 255,255,255;\n        \n          --gradient-background: #ffffff;\n        \n\n\n\n\n\n\n\n      \n        \n\n        --color-foreground: 0,0,0;\n        --color-background-contrast: 191,191,191;\n        --color-shadow: 0,0,0;\n        --color-button: 255,188,68;\n        --color-button-text: 255,255,255;\n        --color-secondary-button: 255,255,255;\n        --color-secondary-button-text: 255,188,68;\n        --color-link: 255,188,68;\n        --color-badge-foreground: 0,0,0;\n        --color-badge-background: 255,255,255;\n        --color-badge-border: 0,0,0;\n        --payment-terms-background-color: rgb(255 255 255);"
+    },
+    {
+      "source": "https://www.roverlund.com/",
+      "selector": "body",
+      "declarations": "display: grid;\n        grid-template-rows: auto auto 1fr auto;\n        grid-template-columns: 100%;\n        min-height: 100%;\n        margin: 0;\n        font-size: 1.5rem;\n        letter-spacing: 0.06rem;\n        line-height: calc(1 + 0.8 / var(--font-body-scale));\n        font-family: var(--font-body-family);\n        font-style: var(--font-body-style);\n        font-weight: var(--font-body-weight);"
+    },
+    {
+      "source": "https://www.roverlund.com/",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #414141;--jdgm-secondary-color: rgba(65,65,65,0.1);--jdgm-star-color: #ffbc44;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #414141;--jdgm-paginate-color: #414141;--jdgm-border-radius: 0;--jdgm-reviewer-name-color: #414141"
+    },
+    {
+      "source": "https://www.roverlund.com/",
+      "selector": "#LovedBy-template--23728382214379__roverlund_loved_by_scroll_kgD6pJ .loved-by__body",
+      "declarations": "margin-top: 16px;\n    font-family: var(--font-body-family);\n    font-style: var(--font-body-style);\n    font-weight: var(--font-body-weight);\n    line-height: 1.6;\n    overflow-wrap: anywhere;"
+    },
+    {
+      "source": "https://www.roverlund.com/",
+      "selector": "yebrow-letter-spacing: 1px;\n            --heading-spacing: 16px;\n            --heading-line-height: 1.1;\n            --heading-weight: 700;\n            --body-s",
+      "declarations": "font-family: 'Argent Pixel';\n    src: url('//www.roverlund.com/cdn/shop/files/ArgentPixelCF-Regular.woff?v=12783028760935593525') format('woff');\n    font-weight: 400;\n    font-style: normal;\n    font-display: swap;"
+    },
+    {
+      "source": "https://www.roverlund.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.roverlund.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.roverlund.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.roverlund.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.roverlund.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.roverlund.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762",
+      "selector": ":root",
+      "declarations": "--alpha-button-background: 1;--alpha-button-border: 1;--alpha-link: .85;--alpha-badge-border: .1;--focused-base-outline: .2rem solid rgba(var(--color-foreground), .5);--focused-base-outline-offset: .3rem;--focused-base-box-shadow: 0 0 0 .3rem rgb(var(--color-background)), 0 0 .5rem .4rem rgba(var(--color-foreground), .3)"
+    },
+    {
+      "source": "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762",
+      "selector": ".product-card-wrapper .card,.contains-card--product",
+      "declarations": "--border-radius: var(--product-card-corner-radius);--border-width: var(--product-card-border-width);--border-opacity: var(--product-card-border-opacity);--shadow-horizontal-offset: var(--product-card-shadow-horizontal-offset);--shadow-vertical-offset: var(--product-card-shadow-vertical-offset);--shadow-blur-radius: var(--product-card-shadow-blur-radius);--shadow-opacity: var(--product-card-shadow-opacity);--shadow-visible: var(--product-card-shadow-visible);--image-padding: var(--product-card-image-padding);--text-alignment: var(--product-card-text-alignment)"
+    },
+    {
+      "source": "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762",
+      "selector": ".text-body",
+      "declarations": "font-size:1.5rem;letter-spacing:.06rem;line-height:calc(1 + .8 / var(--font-body-scale));font-family:var(--font-body-family);font-style:var(--font-body-style);font-weight:var(--font-body-weight)"
+    },
+    {
+      "source": "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762",
+      "selector": "h1,h2,h3,h4,h5,.h0,.h1,.h2,.h3,.h4,.h5",
+      "declarations": "font-family:var(--font-heading-family);font-style:var(--font-heading-style);font-weight:var(--font-heading-weight);letter-spacing:calc(var(--font-heading-scale) * .06rem);color:rgb(var(--color-foreground));line-height:calc(1 + .3/max(1,var(--font-heading-scale)));word-break:break-word"
+    },
+    {
+      "source": "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762",
+      "selector": ":root",
+      "declarations": "--duration-short: .1s;--duration-default: .2s;--duration-announcement-bar: .25s;--duration-medium: .3s;--duration-long: .5s;--duration-extra-long: .6s;--duration-extra-longer: .75s;--duration-extended: 3s;--ease-out-slow: cubic-bezier(0, 0, .3, 1);--animation-slide-in: slideIn var(--duration-extra-long) var(--ease-out-slow) forwards;--animation-fade-in: fadeIn var(--duration-extra-long) var(--ease-out-slow)"
+    },
+    {
+      "source": "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762",
+      "selector": ".button--secondary,.button--tertiary",
+      "declarations": "--color-button: var(--color-secondary-button);--color-button-text: var(--color-secondary-button-text)"
+    },
+    {
+      "source": "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762",
+      "selector": ".button--tertiary",
+      "declarations": "--alpha-button-background: 0;--alpha-button-border: .2"
+    },
+    {
+      "source": "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762",
+      "selector": ".button,.shopify-challenge__button,.customer button,button.shopify-payment-button__button--unbranded",
+      "declarations": "--shadow-horizontal-offset: var(--buttons-shadow-horizontal-offset);--shadow-vertical-offset: var(--buttons-shadow-vertical-offset);--shadow-blur-radius: var(--buttons-shadow-blur-radius);--shadow-opacity: var(--buttons-shadow-opacity);--shadow-visible: var(--buttons-shadow-visible);--border-offset: var(--buttons-border-offset);--border-opacity: calc(1 - var(--buttons-border-opacity));border-radius:var(--buttons-radius-outset);position:relative"
+    },
+    {
+      "source": "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762",
+      "selector": ".button,.shopify-challenge__button,.customer button",
+      "declarations": "display:inline-flex;justify-content:center;align-items:center;border:0;padding:0 3rem;cursor:pointer;font:inherit;font-size:1.5rem;text-decoration:none;color:rgb(var(--color-button-text));transition:box-shadow var(--duration-short) ease;-webkit-appearance:none;appearance:none;background-color:rgba(var(--color-button),var(--alpha-button-background))"
+    },
+    {
+      "source": "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762",
+      "selector": ".button:not([disabled]):hover:after,.shopify-challenge__button:hover:after,.customer button:hover:after,.shopify-payment-button__button--unbranded:hover:after",
+      "declarations": "--border-offset: 1.3px;box-shadow:0 0 0 calc(var(--buttons-border-width) + var(--border-offset)) rgba(var(--color-button-text),var(--border-opacity)),0 0 0 calc(var(--buttons-border-width) + 1px) rgba(var(--color-button),var(--alpha-button-background))"
+    },
+    {
+      "source": "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762",
+      "selector": ".button--secondary:after",
+      "declarations": "--border-opacity: var(--buttons-border-opacity)"
+    },
+    {
+      "source": "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762",
+      "selector": ".button::selection,.shopify-challenge__button::selection,.customer button::selection",
+      "declarations": "background-color:rgba(var(--color-button-text),.3)"
+    },
+    {
+      "source": "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762",
+      "selector": ".button.loading",
+      "declarations": "color:transparent;position:relative"
+    },
+    {
+      "source": "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762",
+      "selector": ".button.loading",
+      "declarations": "color:rgb(var(--color-foreground))"
+    },
+    {
+      "source": "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762",
+      "selector": ".share-button__button",
+      "declarations": "font-size:1.4rem;display:flex;align-items:center;color:rgb(var(--color-link));margin-left:0;padding-left:0;min-height:4.4rem"
+    },
+    {
+      "source": "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762",
+      "selector": ".share-button__button,.share-button__fallback button",
+      "declarations": "cursor:pointer;background-color:transparent;border:none"
+    },
+    {
+      "source": "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762",
+      "selector": ".share-button__fallback button:hover",
+      "declarations": "color:rgba(var(--color-foreground),.75)"
+    },
+    {
+      "source": "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762",
+      "selector": ".share-button__close,.share-button__copy",
+      "declarations": "background-color:transparent;color:rgb(var(--color-foreground))"
+    },
+    {
+      "source": "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762",
+      "selector": ".share-button__copy:focus-visible,.share-button__close:focus-visible",
+      "declarations": "background-color:rgb(var(--color-background));z-index:2"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Airline-Compliant Pet Carriers & Travel Gear | Roverlund",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.roverlund.com/",
+        "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762",
+        "https://www.roverlund.com/cdn/shop/t/61/assets/custom.css?v=118344780570164681601788809782"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.roverlund.com/",
+        "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762",
+        "https://www.roverlund.com/cdn/shop/t/61/assets/fancybox.min.css?v=19278034316635137701788809782",
+        "https://www.roverlund.com/cdn/shop/t/61/assets/owl-carousel.css?v=70516089817612781961788809782",
+        "https://www.roverlund.com/cdn/shop/t/61/assets/custom.css?v=118344780570164681601788809782"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.roverlund.com/",
+        "https://www.roverlund.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762",
+        "https://www.roverlund.com/cdn/shop/t/61/assets/fancybox.min.css?v=19278034316635137701788809782",
+        "https://www.roverlund.com/cdn/shop/t/61/assets/custom.css?v=118344780570164681601788809782"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.roverlund.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.roverlund.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762",
+        "https://www.roverlund.com/cdn/shop/t/61/assets/fancybox.min.css?v=19278034316635137701788809782",
+        "https://www.roverlund.com/cdn/shop/t/61/assets/custom.css?v=118344780570164681601788809782"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.roverlund.com/cdn/shop/t/61/assets/fancybox.min.css?v=19278034316635137701788809782"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.roverlund.com/",
+        "https://www.roverlund.com/cdn/shop/t/61/assets/fancybox.min.css?v=19278034316635137701788809782"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.roverlund.com/",
+        "https://www.roverlund.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762",
+        "https://www.roverlund.com/cdn/shop/t/61/assets/fancybox.min.css?v=19278034316635137701788809782",
+        "https://www.roverlund.com/cdn/shop/t/61/assets/custom.css?v=118344780570164681601788809782"
+      ]
+    },
+    "colors.accent-coral": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.roverlund.com/cdn/shop/t/61/assets/fancybox.min.css?v=19278034316635137701788809782"
+      ]
+    },
+    "colors.accent-sage": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.roverlund.com/"
+      ]
+    },
+    "colors.accent-gold-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.roverlund.com/cdn/shop/t/61/assets/base.css?v=78928743722298579751790302762"
+      ]
+    },
+    "colors.warm-canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.roverlund.com/cdn/shop/t/61/assets/fancybox.min.css?v=19278034316635137701788809782"
+      ]
+    },
+    "colors.deep-ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.roverlund.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.fit-checker-panel": {
+      "status": "inferred"
+    }
+  }
+}

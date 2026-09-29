@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Dirty Labs
-description: A science-first cleaning brand that wraps its laboratory rigor in a palette of deep navy (#014d93), soft sage (#bad3c0), and pale sky (#a9ccec) — colors that evoke a clean lab coat and a fresh rinse rather than the harsh chemical yellows or bleached whites of conventional laundry. The brand's primary voltage is a confident, almost academic blue (#014d93) that appears on every primary CTA, product badge, and header, while a secondary teal (#aadddd) and a warm off-white canvas (#f7f7f7) keep the experience approachable rather than sterile. Typography runs sofia-pro at moderate weights — display sits at 24–32px in weight 500/600, letting the brand's detailed ingredient science and product photography carry the emotional weight rather than heavy type. Product cards use softly rounded corners (`{rounded.md}` ~12px), while buttons and badges employ a tighter `{rounded.sm}` ~8px, suggesting precision without coldness. The checkout and utility areas introduce a restrained set of grays (#272727, #545454, #c7c7c7) that ground the pastel-adjacent palette, and a single accent red (#cb1f2b) appears sparingly on sale badges or error states — a deliberate jolt in an otherwise calm system. The overall feel is that of a modern chemistry lab that has been thoughtfully softened: beakers and bubbles rendered in watercolor tones, with every hex chosen to reinforce the promise of nontoxic efficacy.
+name: "Dirty Labs"
+source_url: "https://dirtylabs.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A science-first cleaning brand that wraps its laboratory rigor in a palette of deep navy (#014d93), soft sage (#bad3c0), and pale sky (#a9ccec) — colors that evoke a clean lab coat and a fresh rinse rather than the harsh chemical yellows or bleached whites of conventional laundry. The brand's primary voltage is a confident, almost academic blue (#014d93) that appears on every primary CTA, product badge, and header, while a secondary teal (#aadddd) and a warm off-white canvas (#f7f7f7) keep the experience approachable rather than sterile. Typography runs sofia-pro at moderate weights — display sits at 24–32px in weight 500/600, letting the brand's detailed ingredient science and product photography carry the emotional weight rather than heavy type. Product cards use softly rounded corners (`{rounded.md}` ~12px), while buttons and badges employ a tighter `{rounded.sm}` ~8px, suggesting precision without coldness. The checkout and utility areas introduce a restrained set of grays (#272727, #545454, #c7c7c7) that ground the pastel-adjacent palette, and a single accent red (#cb1f2b) appears sparingly on sale badges or error states — a deliberate jolt in an otherwise calm system. The overall feel is that of a modern chemistry lab that has been thoughtfully softened: beakers and bubbles rendered in watercolor tones, with every hex chosen to reinforce the promise of nontoxic efficacy.
 
 colors:
   primary: "#014d93"
@@ -413,6 +417,8 @@ components:
 - Accordion sections collapse on all breakpoints, toggling on click
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for most components could not be reliably extracted; only primary button hover is inferred from `primary-active`
 - Error state styling for form inputs (border color, error message typography) not observed

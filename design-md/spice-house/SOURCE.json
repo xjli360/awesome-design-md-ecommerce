@@ -1,0 +1,896 @@
+{
+  "source_url": "https://thespicehouse.com",
+  "final_url": "https://www.thespicehouse.com/",
+  "captured_at": "2026-09-28T09:27:16.616831+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://thespicehouse.com",
+      "final_url": "https://www.thespicehouse.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "85be3a7a5a0220687771a809b067801e963343d866933a09a94ef14d22e25926",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.thespicehouse.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.thespicehouse.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://cdn.judge.me/shopify_v2.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "be10bc4b16346e787891f1da5de658505019fcd30172651891a4bf550c948e36",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "be10bc4b16346e787891f1da5de658505019fcd30172651891a4bf550c948e36",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#eeeeee": {
+      "count": 64,
+      "sources": [
+        "https://www.thespicehouse.com/",
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 53,
+      "sources": [
+        "https://www.thespicehouse.com/",
+        "https://www.thespicehouse.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#d24602": {
+      "count": 37,
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    },
+    "#3d4047": {
+      "count": 22,
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 18,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 16,
+      "sources": [
+        "https://www.thespicehouse.com/",
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#333333": {
+      "count": 14,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#000000": {
+      "count": 12,
+      "sources": [
+        "https://www.thespicehouse.com/",
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#666666": {
+      "count": 12,
+      "sources": [
+        "https://www.thespicehouse.com/",
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#555555": {
+      "count": 12,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#f5f5f3": {
+      "count": 10,
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    },
+    "#757575": {
+      "count": 7,
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    },
+    "#108474": {
+      "count": 6,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#627261": {
+      "count": 5,
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    },
+    "#3d404733": {
+      "count": 4,
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    },
+    "#3d4047bf": {
+      "count": 4,
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    },
+    "#fbcd0a": {
+      "count": 4,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 4,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 4,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 4,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#a89cc8": {
+      "count": 4,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#c1e6e6": {
+      "count": 4,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#0000000d": {
+      "count": 3,
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    },
+    "#d4d4d4": {
+      "count": 3,
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    },
+    "#627361": {
+      "count": 2,
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    },
+    "#e3e2dd": {
+      "count": 2,
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    },
+    "#f8f8f7": {
+      "count": 2,
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    },
+    "#585858": {
+      "count": 2,
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    },
+    "#595c61": {
+      "count": 2,
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    },
+    "#f6f6f4": {
+      "count": 2,
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    },
+    "#47494f": {
+      "count": 2,
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    },
+    "#7b7b7b": {
+      "count": 2,
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.thespicehouse.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.thespicehouse.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#888888": {
+      "count": 2,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#ffff00": {
+      "count": 2,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 2,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#3b5998": {
+      "count": 2,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#1da1f2": {
+      "count": 2,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#dd4b39": {
+      "count": 2,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#e60023": {
+      "count": 2,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#0073b1": {
+      "count": 2,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#fffb00": {
+      "count": 2,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#eaeaea": {
+      "count": 2,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#e9eaeb": {
+      "count": 2,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#a36710": {
+      "count": 2,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#d2920f": {
+      "count": 2,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#488282": {
+      "count": 2,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#4c8eda": {
+      "count": 2,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#3d4047d9": {
+      "count": 1,
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    },
+    "#ffffff12": {
+      "count": 1,
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    },
+    "#00000080": {
+      "count": 1,
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    },
+    "#45453b": {
+      "count": 1,
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    },
+    "#6f6f6f": {
+      "count": 1,
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    },
+    "#ffffffb3": {
+      "count": 1,
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    },
+    "#6e7075": {
+      "count": 1,
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    },
+    "#d5d5d5": {
+      "count": 1,
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    },
+    "#c7c7c7": {
+      "count": 1,
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    },
+    "#919191": {
+      "count": 1,
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    },
+    "#d34603": {
+      "count": 1,
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.thespicehouse.com/",
+      "https://cdn.judge.me/shopify_v2.css",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Baskerville": [
+      "https://cdn.judge.me/shopify_v2.css",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Canela": [
+      "https://www.thespicehouse.com/"
+    ],
+    "Helvetica": [
+      "https://www.thespicehouse.com/",
+      "https://cdn.judge.me/shopify_v2.css",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons": [
+      "https://cdn.judge.me/shopify_v2.css",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons\" !important": [
+      "https://cdn.judge.me/shopify_v2.css",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons' !important": [
+      "https://cdn.judge.me/shopify_v2.css",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeStar": [
+      "https://www.thespicehouse.com/"
+    ],
+    "JudgemeStar!important": [
+      "https://www.thespicehouse.com/"
+    ],
+    "JudgemeStar' !important": [
+      "https://cdn.judge.me/shopify_v2.css",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Marr Sans Web": [
+      "https://www.thespicehouse.com/"
+    ],
+    "Nunito Sans": [
+      "https://cdn.judge.me/shopify_v2.css",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Venus URW": [
+      "https://www.thespicehouse.com/"
+    ],
+    "monospace": [
+      "https://cdn.judge.me/shopify_v2.css",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "sans-serif": [
+      "https://www.thespicehouse.com/",
+      "https://cdn.judge.me/shopify_v2.css",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "serif": [
+      "https://www.thespicehouse.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.thespicehouse.com/",
+      "selector": "body",
+      "declarations": "background:#fff;color:#3d4047;font-family:Venus URW,Helvetica,sans-serif;font-size:14px;font-weight:400;line-height:1.3;min-width:320px"
+    },
+    {
+      "source": "https://www.thespicehouse.com/",
+      "selector": ".h4,.h5,h1,h2,h3",
+      "declarations": "font-family:Canela,serif;margin-bottom:.65em"
+    },
+    {
+      "source": "https://www.thespicehouse.com/",
+      "selector": ".body-overlay",
+      "declarations": "background-color:transparent;bottom:0;left:0;opacity:0;position:fixed;right:0;top:0;visibility:hidden;z-index:201"
+    },
+    {
+      "source": "https://www.thespicehouse.com/",
+      "selector": "button,input,select",
+      "declarations": "-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;font-smoothing:antialiased;color:inherit;font-family:inherit;font-size:inherit"
+    },
+    {
+      "source": "https://www.thespicehouse.com/",
+      "selector": ".btn",
+      "declarations": "-webkit-appearance:none;-moz-appearance:none;appearance:none;border:1px solid #fff;border-radius:0;-webkit-box-shadow:none;box-shadow:none;color:#3d4047;display:inline-block;font-size:19px;font-weight:700;letter-spacing:.08em;line-height:1.21;min-width:235px;padding:11px 20px 16px;position:relative;text-decoration:none;vertical-align:middle"
+    },
+    {
+      "source": "https://www.thespicehouse.com/",
+      "selector": ".btn:after,.btn:before",
+      "declarations": "background-color:#3d4047;content:\"\";position:absolute;top:50%"
+    },
+    {
+      "source": "https://www.thespicehouse.com/",
+      "selector": ".btn--orange",
+      "declarations": "background-color:#d24602;border-color:#d24602;color:#fff"
+    },
+    {
+      "source": "https://www.thespicehouse.com/",
+      "selector": ".btn--green",
+      "declarations": "background-color:#627261;border-color:#627261;color:#fff"
+    },
+    {
+      "source": "https://www.thespicehouse.com/",
+      "selector": ".form-search-mega #search_form .btn",
+      "declarations": "font-family:Venus URW,Helvetica,sans-serif;font-size:14px;height:50px;letter-spacing:1px;line-height:18px;min-width:unset;padding:0 50px;text-transform:uppercase;width:auto"
+    },
+    {
+      "source": "https://www.thespicehouse.com/",
+      "selector": "#shopify-section-header",
+      "declarations": "background-color:#f5f5f3;position:sticky;top:0;width:100%;z-index:200"
+    },
+    {
+      "source": "https://www.thespicehouse.com/",
+      "selector": ".header .header__inner",
+      "declarations": "background-color:#f5f5f3"
+    },
+    {
+      "source": "https://www.thespicehouse.com/",
+      "selector": ".header .header__triggers .login__prompt,.header .nav-utilities .login__prompt",
+      "declarations": "-webkit-animation:1.25s infinite bounce;animation:1.25s infinite bounce;background:#627361;border-radius:5px;color:#fff;display:none;padding:3px 9px;position:absolute;right:0;top:calc(100% + 16px);white-space:nowrap;z-index:10"
+    },
+    {
+      "source": "https://www.thespicehouse.com/",
+      "selector": ".header .header__triggers .login__prompt:before,.header .nav-utilities .login__prompt:before",
+      "declarations": "border:7px solid transparent;border-bottom-color:#627361;content:\"\";position:absolute;right:10px;top:-12px"
+    },
+    {
+      "source": "https://www.thespicehouse.com/",
+      "selector": ".header .header__bar",
+      "declarations": "background-color:#627261;color:#fff;font-size:12px;letter-spacing:.08em;line-height:1.5;padding:6px;position:relative;text-align:center;text-transform:uppercase"
+    },
+    {
+      "source": "https://www.thespicehouse.com/",
+      "selector": ".header .header__bar.header__bar--highlight",
+      "declarations": "background-color:#d24602;color:#fff"
+    },
+    {
+      "source": "https://www.thespicehouse.com/",
+      "selector": ".header .nav__wrapper .nav>ul>li>a",
+      "declarations": "color:inherit;display:-webkit-box;display:-ms-flexbox;display:flex;gap:5px;padding:24px 0"
+    },
+    {
+      "source": "https://www.thespicehouse.com/",
+      "selector": ".header .nav__wrapper",
+      "declarations": "background-color:#00000080;display:block;height:100%;left:0;opacity:0;padding:0;position:fixed;top:0;visibility:hidden;width:100%"
+    },
+    {
+      "source": "https://www.thespicehouse.com/",
+      "selector": ".header .nav__wrapper .nav__content",
+      "declarations": "background-color:#fff;height:100%;left:0;position:absolute;top:0;-webkit-transform:translateX(-100%);transform:translate(-100%);width:82vw"
+    },
+    {
+      "source": "https://www.thespicehouse.com/",
+      "selector": ".header .nav__wrapper .nav a",
+      "declarations": "color:#3d4047;display:block;font-family:Venus URW,Helvetica,sans-serif;font-size:16px;font-weight:700;letter-spacing:.03em;line-height:1.23;opacity:1;padding:19px 23px;position:relative;text-decoration:none;text-transform:uppercase;z-index:10"
+    },
+    {
+      "source": "https://www.thespicehouse.com/",
+      "selector": ".header .nav__wrapper .mobile-menu__head",
+      "declarations": "-webkit-box-pack:justify;-ms-flex-pack:justify;-webkit-box-align:center;-ms-flex-align:center;align-items:center;background-color:#f5f5f3;color:#3d4047bf;display:-webkit-box;display:-ms-flexbox;display:flex;font-size:14px;font-weight:700;justify-content:space-between;line-height:1.16;padding:22px 20px"
+    },
+    {
+      "source": "https://www.thespicehouse.com/",
+      "selector": ".header .nav__wrapper .mobile-menu__head .nav-trigger:after,.header .nav__wrapper .mobile-menu__head .nav-trigger:before",
+      "declarations": "background-color:#3d4047;content:\"\";left:50%;position:absolute;top:50%;-webkit-transform:translate(-50%,-50%);transform:translate(-50%,-50%)"
+    },
+    {
+      "source": "https://www.thespicehouse.com/",
+      "selector": ":root",
+      "declarations": "--header-height:186px"
+    },
+    {
+      "source": "https://www.thespicehouse.com/",
+      "selector": ":root",
+      "declarations": "--header-height:149px"
+    },
+    {
+      "source": "https://www.thespicehouse.com/",
+      "selector": ".section-collection .section__body:before",
+      "declarations": "background-color:#757575;content:\"\";height:1px;left:50%;position:absolute;top:0;-webkit-transform:translateX(-50%);transform:translate(-50%);width:86.5%"
+    },
+    {
+      "source": "https://www.thespicehouse.com/",
+      "selector": ".cms-section__header .header__title",
+      "declarations": "color:#3d4047;font-family:Canela,serif;font-size:36px;font-weight:400;letter-spacing:.04em;line-height:1.22;margin-bottom:8px"
+    },
+    {
+      "source": "https://www.thespicehouse.com/",
+      "selector": ".product .product__title",
+      "declarations": "color:#3d4047;font-family:Canela,serif;font-size:19px;font-weight:400;letter-spacing:.05em;line-height:1.5;margin-bottom:8px;overflow:hidden;text-align:center"
+    },
+    {
+      "source": "https://www.thespicehouse.com/",
+      "selector": ".product .product__actions .btn",
+      "declarations": "-webkit-box-flex:1;background-color:#d24602;border:1px solid #d24602;color:#fff;-ms-flex:1;flex:1;font-size:14px;letter-spacing:.07em;line-height:1.3;min-width:135px;padding:10px;text-align:center;text-transform:uppercase"
+    },
+    {
+      "source": "https://www.thespicehouse.com/",
+      "selector": ".product .product__badges .product__badge",
+      "declarations": "background:#47494f;color:#fff;padding:4px 8px;position:static;white-space:nowrap"
+    },
+    {
+      "source": "https://www.thespicehouse.com/",
+      "selector": ".slider-products .product .product__badges .product__badge",
+      "declarations": "background:#47494f;color:#fff;padding:4px 8px;position:static;white-space:nowrap"
+    },
+    {
+      "source": "https://www.thespicehouse.com/",
+      "selector": ".slider-products .product .product__actions .btn",
+      "declarations": "-webkit-box-flex:1;background-color:#d24602;border-color:#d24602;color:#fff;-ms-flex:1;flex:1;height:40px;margin-left:7px;min-width:0"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Online Spice Store, Exquisite Spices & Seasonings - The Spice House",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    },
+    "colors.secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thespicehouse.com/",
+        "https://www.thespicehouse.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thespicehouse.com/",
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thespicehouse.com/",
+        "https://www.thespicehouse.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.accent-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.accent-yellow": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.accent-lilac": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.accent-cyan": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.overlay": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thespicehouse.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thespicehouse.com/",
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spice-category-tile": {
+      "status": "inferred"
+    }
+  }
+}

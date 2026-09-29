@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Reckless Records
-description: A gritty, music-first marketplace where #111111 ink meets #868e96 muted steel, and the only polish is on the vinyl. This is a record store's digital counter — utilitarian, dense with information, and built for the crate-digger who knows what they want. The palette is pulled from the physical space: deep black for the bins, warm gray for the concrete floor, and a single voltage of #004085 blue that appears on price tags and category headers like a sticker slapped on a used jacket. Typography runs system-native (-apple-system, Segoe UI, Roboto) at modest sizes — no brand font, no display face, just the browser's own voice — because the records are the typography. Cards use {rounded.sm} (8px) corners, buttons use {rounded.md} (12px), and the search bar uses {rounded.full} pills, but nothing is precious: the layout is a single-column stack on mobile, a two-column grid on desktop, and the footer is a wall of text links. The site doesn't sell an experience; it sells a catalog. Every hex in the palette — from #155724 (success green) to #721c24 (error red) to #856404 (warning amber) — comes from Bootstrap's alert classes, suggesting the store uses a framework boilerplate for its admin panels and checkout flows. The brand's true primary is #004085, a deep corporate blue that appears on the site's primary CTAs and navigation elements, standing out against the sea of grays and blacks like a record label's logo on a plain sleeve.
+name: "Reckless Records"
+source_url: "https://www.reckless.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A gritty, music-first marketplace where #111111 ink meets #868e96 muted steel, and the only polish is on the vinyl. This is a record store's digital counter — utilitarian, dense with information, and built for the crate-digger who knows what they want. The palette is pulled from the physical space: deep black for the bins, warm gray for the concrete floor, and a single voltage of #004085 blue that appears on price tags and category headers like a sticker slapped on a used jacket. Typography runs system-native (-apple-system, Segoe UI, Roboto) at modest sizes — no brand font, no display face, just the browser's own voice — because the records are the typography. Cards use {rounded.sm} (8px) corners, buttons use {rounded.md} (12px), and the search bar uses {rounded.full} pills, but nothing is precious: the layout is a single-column stack on mobile, a two-column grid on desktop, and the footer is a wall of text links. The site doesn't sell an experience; it sells a catalog. Every hex in the palette — from #155724 (success green) to #721c24 (error red) to #856404 (warning amber) — comes from Bootstrap's alert classes, suggesting the store uses a framework boilerplate for its admin panels and checkout flows. The brand's true primary is #004085, a deep corporate blue that appears on the site's primary CTAs and navigation elements, standing out against the sea of grays and blacks like a record label's logo on a plain sleeve.
 
 colors:
   primary: "#004085"
@@ -321,6 +325,8 @@ components:
 - Search bar moves from inline in nav (desktop) to a standalone element below the header (mobile)
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for many components (e.g., product-card, footer links) are inferred from common patterns, not extracted from the live site
 - Error styling for form validation (red borders, error messages) is not confirmed — the extracted error colors (#721c24, #f1b0b7) suggest Bootstrap alert patterns but may not be used in form contexts

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Things From Another World
-description: A comic-book retailer that wears its midnight-blue #3c596c like a storefront awning over a deep #110011 interior — the palette reads as a dimly lit back-issue room where fluorescent fixtures hum over long boxes. The brand's primary voltage comes from #137ac6, a cobalt that snaps across CTAs and category headers, while #cc3727 (a stop-sign red) appears sparingly on sale badges and clearance markers, never allowed to dominate. Typography splits between Didact Gothic for display — a geometric sans with open counters that feels like a 1990s comic-shop sign painted on glass — and Barlow Semi Condensed for body, a workhorse that packs character names and price lines into tight grid cells without crowding. The site's architecture is a dense grid of cover-art thumbnails, each one a 200px-square portal into a specific universe, with the search bar acting as the single navigational constant. There are no soft corners: cards use `{rounded.none}` and buttons use `{rounded.sm}`, preserving the sharp, collectible-card feel of the merchandise itself. The canvas is `#ffffff` but it's used sparingly — most surfaces are tinted `{colors.surface-soft}` (#f4f4f4) or the deep `{colors.ink}` (#110011), making the white feel like a spotlight on a comic panel rather than a page background. The overall effect is a store that knows its inventory is the decoration: the design gets out of the way, dims the lights, and lets the four-color covers glow.
+name: "Things From Another World"
+source_url: "https://www.tfaw.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A comic-book retailer that wears its midnight-blue #3c596c like a storefront awning over a deep #110011 interior — the palette reads as a dimly lit back-issue room where fluorescent fixtures hum over long boxes. The brand's primary voltage comes from #137ac6, a cobalt that snaps across CTAs and category headers, while #cc3727 (a stop-sign red) appears sparingly on sale badges and clearance markers, never allowed to dominate. Typography splits between Didact Gothic for display — a geometric sans with open counters that feels like a 1990s comic-shop sign painted on glass — and Barlow Semi Condensed for body, a workhorse that packs character names and price lines into tight grid cells without crowding. The site's architecture is a dense grid of cover-art thumbnails, each one a 200px-square portal into a specific universe, with the search bar acting as the single navigational constant. There are no soft corners: cards use `{rounded.none}` and buttons use `{rounded.sm}`, preserving the sharp, collectible-card feel of the merchandise itself. The canvas is `#ffffff` but it's used sparingly — most surfaces are tinted `{colors.surface-soft}` (#f4f4f4) or the deep `{colors.ink}` (#110011), making the white feel like a spotlight on a comic panel rather than a page background. The overall effect is a store that knows its inventory is the decoration: the design gets out of the way, dims the lights, and lets the four-color covers glow.
 
 colors:
   primary: "#137ac6"
@@ -299,6 +303,8 @@ components:
 - Footer link columns stack vertically on mobile, with each section separated by a `{spacing.base}` (16px) gap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for text-input and search-bar could not be reliably extracted; the border-color change to `{colors.primary}` is an assumption based on common patterns
 - Error styling (validation messages, error borders, error icons) was not present in the extracted data and should be defined by the implementation team

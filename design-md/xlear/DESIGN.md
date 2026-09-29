@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Xlear
-description: Xlear is a health-first oral care brand rooted in the science of xylitol, a natural sweetener that disrupts cavity-causing bacteria. The brand's visual identity reflects this clinical yet natural positioning — a clean white canvas (`#ffffff`) and soft gray surfaces (`#f9fafb`, `#f2f2f2`, `#efefef`) provide a sterile, trustworthy backdrop, while a vibrant green (`#3aaf4a`) and a deep teal (`#108474`) serve as the primary and secondary brand voltages. These greens appear on every primary CTA, badge, and accent, signaling freshness, health, and natural efficacy. A warm yellow (`#fbcd0a`) is used sparingly for highlights and promotional badges, adding a touch of approachability. Typography relies on the clean, geometric `Nunito Sans` for body and headings, with `Arial` and `Helvetica` as fallbacks, set at modest weights (400–700) to maintain readability and a clinical clarity. The brand avoids heavy typographic muscle, instead trusting generous whitespace and product photography to convey quality. Corners are softly rounded (`{rounded.sm}` for buttons, `{rounded.md}` for cards) to feel friendly and human, while the overall layout is structured and grid-based, reflecting a methodical, science-backed approach. The palette also includes a range of neutral grays (`#333333`, `#555555`, `#666666`, `#7b7b7b`, `#6c757d`, `#cccccc`, `#dddddd`, `#eeeeee`) for text, borders, and muted elements, ensuring a high-contrast, accessible reading experience. A subtle lavender (`#a89cc8`) and pale mint (`#c1e6e6`, `#e3f2e6`, `#edf5f5`) appear in supporting roles, likely for informational banners or category highlights, adding a gentle, calming dimension. The overall feel is that of a trusted health partner — clean, green, and evidence-based.
+name: "Xlear"
+source_url: "https://xlear.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Xlear is a health-first oral care brand rooted in the science of xylitol, a natural sweetener that disrupts cavity-causing bacteria. The brand's visual identity reflects this clinical yet natural positioning — a clean white canvas (`#ffffff`) and soft gray surfaces (`#f9fafb`, `#f2f2f2`, `#efefef`) provide a sterile, trustworthy backdrop, while a vibrant green (`#3aaf4a`) and a deep teal (`#108474`) serve as the primary and secondary brand voltages. These greens appear on every primary CTA, badge, and accent, signaling freshness, health, and natural efficacy. A warm yellow (`#fbcd0a`) is used sparingly for highlights and promotional badges, adding a touch of approachability. Typography relies on the clean, geometric `Nunito Sans` for body and headings, with `Arial` and `Helvetica` as fallbacks, set at modest weights (400–700) to maintain readability and a clinical clarity. The brand avoids heavy typographic muscle, instead trusting generous whitespace and product photography to convey quality. Corners are softly rounded (`{rounded.sm}` for buttons, `{rounded.md}` for cards) to feel friendly and human, while the overall layout is structured and grid-based, reflecting a methodical, science-backed approach. The palette also includes a range of neutral grays (`#333333`, `#555555`, `#666666`, `#7b7b7b`, `#6c757d`, `#cccccc`, `#dddddd`, `#eeeeee`) for text, borders, and muted elements, ensuring a high-contrast, accessible reading experience. A subtle lavender (`#a89cc8`) and pale mint (`#c1e6e6`, `#e3f2e6`, `#edf5f5`) appear in supporting roles, likely for informational banners or category highlights, adding a gentle, calming dimension. The overall feel is that of a trusted health partner — clean, green, and evidence-based.
 
 colors:
   primary: "#3aaf4a"
@@ -389,6 +393,8 @@ components:
 - Hero sections may stack vertically instead of side-by-side.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and active states for all components are not fully extracted; only primary and secondary buttons have defined active states.
 - Error styling for form inputs (e.g., error messages, iconography) is inferred but not confirmed from the live site.

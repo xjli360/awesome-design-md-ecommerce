@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Peloton
-description: A dark, high-contrast fitness ecosystem built on a near-black canvas (#181a1d) and a single red voltage (#df1c2f) that fires across every primary CTA, leaderboard metric, and live-class indicator. The brand treats black as its signature — not as a background default but as an intentional stage for motion, data, and the glow of instructor faces. Inter runs at clean, utilitarian weights (400–600) with generous tracking on body copy, while brandon-grotesque appears in hero headlines and marketing lockups, lending a geometric, athletic warmth. The extracted palette reveals a system built for legibility under gym lighting: high-contrast grays (#65666a, #888b93) for secondary text and muted UI, a cool blue (#84b6e1) for linked content and informational badges, and a soft off-white (#f5f7f9) for surface cards that sit on the dark canvas. Red appears in two distinct strengths — the primary action red (#df1c2f) and a deeper, hover-weight red (#d00c2a) — suggesting a two-state button system without opacity tricks. The meta theme-color of #000000 confirms the brand commits to full black in browser chrome, a rare and intentional choice. Rounded corners are restrained: buttons and inputs use {rounded.sm} (8px), cards use {rounded.md} (12px), and only the profile avatar and live-class thumbnail use {rounded.full}. The overall mood is premium, focused, and slightly theatrical — a dark room where the only thing that matters is the workout.
+name: "Peloton"
+source_url: "https://www.onepeloton.com"
+captured_at: "2026-09-28T04:10:53.896515+00:00"
+evidence_status: "historical_partial_css_evidence"
+description: |-
+  A dark, high-contrast fitness ecosystem built on a near-black canvas (#181a1d) and a single red voltage (#df1c2f) that fires across every primary CTA, leaderboard metric, and live-class indicator. The brand treats black as its signature — not as a background default but as an intentional stage for motion, data, and the glow of instructor faces. Inter runs at clean, utilitarian weights (400–600) with generous tracking on body copy, while brandon-grotesque appears in hero headlines and marketing lockups, lending a geometric, athletic warmth. The extracted palette reveals a system built for legibility under gym lighting: high-contrast grays (#65666a, #888b93) for secondary text and muted UI, a cool blue (#84b6e1) for linked content and informational badges, and a soft off-white (#f5f7f9) for surface cards that sit on the dark canvas. Red appears in two distinct strengths — the primary action red (#df1c2f) and a deeper, hover-weight red (#d00c2a) — suggesting a two-state button system without opacity tricks. The meta theme-color of #000000 confirms the brand commits to full black in browser chrome, a rare and intentional choice. Rounded corners are restrained: buttons and inputs use {rounded.sm} (8px), cards use {rounded.md} (12px), and only the profile avatar and live-class thumbnail use {rounded.full}. The overall mood is premium, focused, and slightly theatrical — a dark room where the only thing that matters is the workout.
 
 colors:
   primary: "#df1c2f"
@@ -385,6 +389,8 @@ components:
 - Leaderboard collapses to essential columns (rank, output) on mobile, with expandable row details
 
 ## Known Gaps
+
+- **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 
 - The extracted color list is heavily polluted with framework defaults (Shopify checkout colors, notification toast colors, social media brand colors). The true brand palette likely has fewer than 10 colors, but the extraction returned 30+. The primary red (#df1c2f) and near-black (#181a1d) are the most distinctive and likely correct; the blues (#3498db, #5ac8fa, #007aff) are almost certainly iOS/Shopify defaults and should be used with caution.
 - Font sizes and line heights are estimated from common patterns for Inter and brandon-grotesque; exact values from the live site's CSS were not extracted.

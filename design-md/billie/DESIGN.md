@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Billie
-description: Billie is a direct-to-consumer body-care brand that reimagines the everyday rituals of shaving and grooming with a distinctly playful, unpretentious, and body-positive voice. The brand lives on a clean white canvas (`#ffffff`) and uses a restrained palette where soft, muted tones like `#f5f0eb` and `#e8e0d8` create a warm, approachable foundation rather than a sterile one. There is no aggressive brand color commanding every CTA — instead, Billie trusts generous whitespace, friendly illustration, and a system font stack anchored on `nowie-web` and `-apple-system` to feel human and accessible. Typography is intentionally low-contrast and understated: body copy sits at modest weights (400–500) with comfortable line heights around 1.5, while display treatments rarely exceed 600 weight, avoiding the heavy-handedness of traditional CPG. The brand’s signature design move is the soft pill shape — buttons, input fields, and badges all use `{rounded.full}` (9999px) to erase any hard edge, reinforcing a tactile, gentle quality. Cards and containers use `{rounded.lg}` (20px) to maintain softness without losing structure. The overall mood is one of calm confidence: pastel-adjacent neutrals, no harsh shadows, and a layout that breathes. Billie’s visual system says “we take care, not ourselves too seriously.”
+name: "Billie"
+source_url: "https://mybillie.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Billie is a direct-to-consumer body-care brand that reimagines the everyday rituals of shaving and grooming with a distinctly playful, unpretentious, and body-positive voice. The brand lives on a clean white canvas (`#ffffff`) and uses a restrained palette where soft, muted tones like `#f5f0eb` and `#e8e0d8` create a warm, approachable foundation rather than a sterile one. There is no aggressive brand color commanding every CTA — instead, Billie trusts generous whitespace, friendly illustration, and a system font stack anchored on `nowie-web` and `-apple-system` to feel human and accessible. Typography is intentionally low-contrast and understated: body copy sits at modest weights (400–500) with comfortable line heights around 1.5, while display treatments rarely exceed 600 weight, avoiding the heavy-handedness of traditional CPG. The brand’s signature design move is the soft pill shape — buttons, input fields, and badges all use `{rounded.full}` (9999px) to erase any hard edge, reinforcing a tactile, gentle quality. Cards and containers use `{rounded.lg}` (20px) to maintain softness without losing structure. The overall mood is one of calm confidence: pastel-adjacent neutrals, no harsh shadows, and a layout that breathes. Billie’s visual system says “we take care, not ourselves too seriously.”
 
 colors:
   primary: "#f5a623"
@@ -340,6 +344,8 @@ components:
 - Hero sections reduce vertical padding from `{spacing.section}` to `{spacing.xl}` on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components could not be fully extracted; only active and disabled states are documented where visible.
 - Error styling for forms (e.g., validation messages, error icons) is inferred from common patterns but not confirmed from the live site.

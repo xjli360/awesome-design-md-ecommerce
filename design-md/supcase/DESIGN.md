@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Supcase
-description: A black-on-black-on-black design system where #111111 is the canvas, the ink, and the primary — a monochrome fortress built for the drop-and-scrape reality of phone cases. The brand's tagline "Gear Up. Stay Unbreakable." is literal: the site wraps everything in near-black surfaces (#111111) with silver-gray accents (#d1d1d1, #dcdcdc) that read as metal edges on a rugged case. HelveticaNeueLTStd-BlkCn at 700 weight drives display headlines with a compressed, authoritative punch — the kind of type that looks like it was stamped into aluminum. Roboto Condensed handles body copy, keeping the mechanical precision while adding readability. Buttons are chunky and pill-shaped ({rounded.full}) in #111111 with white text, or outlined in #d1d1d1 for secondary actions. The product grid uses soft white cards ({rounded.sm}) against a #f9f9f9 background, letting the black cases pop in product photography. There is no color warmth here — no blues, no reds, no gradients. The palette is intentionally industrial: black, white, and three shades of silver. This is a system that says "we don't need to be pretty, we need to survive a 6-foot drop."
+name: "Supcase"
+source_url: "https://www.supcase.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A black-on-black-on-black design system where #111111 is the canvas, the ink, and the primary — a monochrome fortress built for the drop-and-scrape reality of phone cases. The brand's tagline "Gear Up. Stay Unbreakable." is literal: the site wraps everything in near-black surfaces (#111111) with silver-gray accents (#d1d1d1, #dcdcdc) that read as metal edges on a rugged case. HelveticaNeueLTStd-BlkCn at 700 weight drives display headlines with a compressed, authoritative punch — the kind of type that looks like it was stamped into aluminum. Roboto Condensed handles body copy, keeping the mechanical precision while adding readability. Buttons are chunky and pill-shaped ({rounded.full}) in #111111 with white text, or outlined in #d1d1d1 for secondary actions. The product grid uses soft white cards ({rounded.sm}) against a #f9f9f9 background, letting the black cases pop in product photography. There is no color warmth here — no blues, no reds, no gradients. The palette is intentionally industrial: black, white, and three shades of silver. This is a system that says "we don't need to be pretty, we need to survive a 6-foot drop."
 
 colors:
   primary: "#111111"
@@ -393,6 +397,8 @@ components:
 - Cart icon persists across all breakpoints
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted color palette is heavily monochrome (blacks, whites, grays) with no distinctive brand accent color. The #d1d1d1 and #dcdcdc values may be generic UI borders rather than intentional brand colors. The true brand identity may include a secondary accent (possibly red for sale badges, which we've inferred from common ecommerce patterns) that wasn't captured in extraction.
 - Font sizes and weights for display and body typography are inferred from common usage patterns — the exact hierarchy may differ on the live site.

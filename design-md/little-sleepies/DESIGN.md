@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Little Sleepies
-description: A pastel-soft universe built around a single distinctive sage-teal #a9cdd3 that appears nowhere in the generic web palette — this is the brand's true primary, a muted celadon that wraps every product card, badge, and accent element in a calm, bedtime-ready warmth. The canvas is pure white (#ffffff) and the ink is near-black #141414, but the visual center of gravity is the interplay between that sage and a warm butter-yellow #fad588 that surfaces in sale badges, star ratings, and playful accents. A secondary blush-sky #cce8f2 extends the pastel range without competing with the primary. The typography stacks three distinct voices: Inter for body and UI clarity, a rounded custom display face called alana for product titles and headlines (giving a soft, handwritten warmth), and beverly-drive-right for decorative or script moments — likely in logos or limited-edition banners. Corners are universally soft: buttons use {rounded.full} pill shapes, product cards use {rounded.lg} (20px), and the search bar is a pill. The brand avoids hard geometry entirely — even the footer links sit on a {surface-soft} #f6f6f6 background with generous {spacing.section} padding. The overall effect is a digital nursery: safe, tactile in feeling though not in texture, with a color story that reads as "clean bedtime" rather than "clinical baby." The red #d95c5c is the only high-saturation note — used sparingly for error states, sale urgency, or small accent dots — and it lands with deliberate contrast against the pastel field.
+name: "Little Sleepies"
+source_url: "https://littlesleepies.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A pastel-soft universe built around a single distinctive sage-teal #a9cdd3 that appears nowhere in the generic web palette — this is the brand's true primary, a muted celadon that wraps every product card, badge, and accent element in a calm, bedtime-ready warmth. The canvas is pure white (#ffffff) and the ink is near-black #141414, but the visual center of gravity is the interplay between that sage and a warm butter-yellow #fad588 that surfaces in sale badges, star ratings, and playful accents. A secondary blush-sky #cce8f2 extends the pastel range without competing with the primary. The typography stacks three distinct voices: Inter for body and UI clarity, a rounded custom display face called alana for product titles and headlines (giving a soft, handwritten warmth), and beverly-drive-right for decorative or script moments — likely in logos or limited-edition banners. Corners are universally soft: buttons use {rounded.full} pill shapes, product cards use {rounded.lg} (20px), and the search bar is a pill. The brand avoids hard geometry entirely — even the footer links sit on a {surface-soft} #f6f6f6 background with generous {spacing.section} padding. The overall effect is a digital nursery: safe, tactile in feeling though not in texture, with a color story that reads as "clean bedtime" rather than "clinical baby." The red #d95c5c is the only high-saturation note — used sparingly for error states, sale urgency, or small accent dots — and it lands with deliberate contrast against the pastel field.
 
 colors:
   primary: "#a9cdd3"
@@ -296,6 +300,8 @@ components:
 - Hero banner reduces font size and padding on mobile; CTA button remains full-width.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact font sizes for alana and beverly-drive-right are inferred from typical usage patterns; the extracted CSS only showed font-family declarations without size/weight values for these custom faces. The sizes above are best estimates for a baby-clothing brand.
 - Hover and focus states for text inputs, links, and secondary buttons are inferred from common patterns — extracted CSS did not include :hover/:focus pseudo-classes.

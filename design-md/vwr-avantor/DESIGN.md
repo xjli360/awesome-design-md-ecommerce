@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: VWR (Avantor)
-description: |
+name: "VWR (Avantor)"
+source_url: "https://www.vwr.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Six hundred thousand catalog numbers deep, VWR lands with a search bar before it shows you a hero — the procurement-first hierarchy of a platform where lab managers navigate by SKU, CAS number, and pack size rather than by scrolling lifestyle photography. The interface is engineered for institutional buyers: order history, punchout integration, quantity breaks, and a request-a-quote flow sit at the same visual level as add-to-cart, because a $40,000 spectrophotometer and a box of nitrile gloves travel through the same checkout logic. The primary type color is the only confirmed extraction at `#313131`, a near-black charcoal that runs on a white canvas across system-ui stacks — Arial, Helvetica Neue, and their OS-native fallbacks — a deliberate refusal of brand fonts signaling compatibility with slow institutional machines and enterprise procurement terminals where custom font loading is a liability. The nav runs three layers deep: a utility bar carrying account and location context, a logo bar anchoring the primary search field, and a dark-blue category rail below that triggers mega-menus two or three levels wide. Corner radii stay tight across most surfaces — form inputs, data tables, and filter chips are nearly square at `{rounded.xs}`, communicating the precision register expected in a domain where tolerances are measured to the microgram. Only buttons and status badges carry any softness, creating a clear visual grammar between data surfaces and action affordances. The brand's primary blue (approximate — see Known Gaps) carries navigation, interactive links, and quote-related CTAs; an accent orange surfaces for add-to-cart actions and promotional sale pricing, a deliberate separation of transactional completion from navigational blue that prevents the two from competing in dense product-grid views. Product cards carry catalog number, pack size, unit price, and stock status without requiring hover or expansion — the behavior of a printed catalog translated to a screen-native grid, not a lifestyle marketplace adapted for procurement.
 
 colors:
@@ -373,6 +376,8 @@ components:
 - Price block condenses pack-size selector and price into a vertical stack on mobile, removing the default side-by-side layout used on desktop product pages
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Full color palette**: Only `#313131` was extracted — the site returned a Cloudflare challenge page ("Just a moment...") blocking the crawl. Primary blue (`#0057B8`), accent orange (`#E8600D`), and nav navy (`#003E80`) are approximate values derived from Avantor/VWR brand knowledge, not confirmed site extraction.
 - **Custom typeface**: No proprietary brand font was detected; all stacks resolved to system-ui/Arial/Helvetica fallbacks. VWR may load a licensed typeface via deferred JavaScript — unverifiable under anti-bot interception.

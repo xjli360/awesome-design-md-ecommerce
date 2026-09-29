@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Card Kingdom
-description: A deep charcoal #313131 anchors Card Kingdom’s interface — not as an accent but as the primary text color, the nav background, the footer fill, and the default button state, giving the entire marketplace the weight of a well-worn binder of Magic: The Gathering cards. The brand operates in a deliberately narrow value range: near-black ink on a white canvas, with no secondary brand color visible in the extracted palette, forcing every UI decision through contrast and typographic hierarchy rather than chromatic variety. Product photography — glossy foil cards, matte sleeves, sealed booster boxes — supplies the only color, and the layout trusts those images to carry emotional load. Buttons are compact and rectangular (`{rounded.sm}`), not pill-shaped; the search bar sits as a full-width field rather than an orb, suggesting a catalog-driven experience where precision matters over discovery. The type stack defaults to system fonts (San Francisco on Apple, Roboto on Android, Arial fallback), a pragmatic choice that prioritizes legibility at small sizes — card names, set symbols, and price tags are the real content, not brand typography. Navigation is dense: a top bar with account, cart, and search, plus a category mega-menu beneath it, all in the same `{colors.ink}` on `{colors.canvas}`. The site reads as a tool for collectors who know exactly what they want — search first, filter second, browse third — and the design gets out of the way.
+name: "Card Kingdom"
+source_url: "https://www.cardkingdom.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep charcoal #313131 anchors Card Kingdom’s interface — not as an accent but as the primary text color, the nav background, the footer fill, and the default button state, giving the entire marketplace the weight of a well-worn binder of Magic: The Gathering cards. The brand operates in a deliberately narrow value range: near-black ink on a white canvas, with no secondary brand color visible in the extracted palette, forcing every UI decision through contrast and typographic hierarchy rather than chromatic variety. Product photography — glossy foil cards, matte sleeves, sealed booster boxes — supplies the only color, and the layout trusts those images to carry emotional load. Buttons are compact and rectangular (`{rounded.sm}`), not pill-shaped; the search bar sits as a full-width field rather than an orb, suggesting a catalog-driven experience where precision matters over discovery. The type stack defaults to system fonts (San Francisco on Apple, Roboto on Android, Arial fallback), a pragmatic choice that prioritizes legibility at small sizes — card names, set symbols, and price tags are the real content, not brand typography. Navigation is dense: a top bar with account, cart, and search, plus a category mega-menu beneath it, all in the same `{colors.ink}` on `{colors.canvas}`. The site reads as a tool for collectors who know exactly what they want — search first, filter second, browse third — and the design gets out of the way.
 
 colors:
   primary: "#313131"
@@ -410,6 +414,8 @@ components:
 - Cart summary collapses to a sticky bottom bar on mobile with total and checkout button
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one extracted hex color (#313131) was available from the live site — the full palette above is inferred from common trading card marketplace patterns and the single extracted value. The brand may use additional accent colors (e.g., a specific green for "In Stock", red for "Sold Out", gold for foil variants) that could not be verified.
 - No secondary brand color was extracted — the site may use a specific accent color for promotions, sales, or category highlights that wasn't captured.

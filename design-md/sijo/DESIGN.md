@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Sijo
-description: Sijo is a performance bedding and bath brand that speaks in a quiet, confident palette of deep navy and soft stone. The primary voltage is a rich midnight blue (`#0b173a`) that appears on CTAs, headlines, and the brand's signature woven labels — a color that reads as both premium and restful, like a well-made bed in a dim room. Supporting this is a warm off-white canvas (`#f1efec`) that softens the digital experience, paired with a cooler surface tone (`#f4f4f6`) for cards and panels. The brand's accent palette introduces unexpected energy: a lime green (`#c7e400`) used sparingly for badges and highlights, a deeper forest green (`#468038`) for sustainability messaging, and a mustard yellow (`#ffcf2a`) for sale indicators and trust signals. Typography centers on `basis-grotesque-bold-pro` for display headings — a geometric sans-serif with sharp, confident letterforms — while body copy runs in a clean system stack (`-apple-system`, `Helvetica Neue`, `Roboto`). Buttons use `{rounded.sm}` (8px) corners, while product cards and modals adopt `{rounded.md}` (12px) for a soft but not pill-like feel. The overall mood is one of considered calm: generous whitespace, muted borders (`#dbdde4`), and a deliberate avoidance of visual noise. Signature design moves include a persistent top nav with a centered logo, product cards that float on `{surface-card}` with subtle shadow, and a footer that stacks utility links in a dense, readable grid. The brand trusts its textile photography — close-ups of percale weaves, bamboo fibers, and brushed cotton — to carry emotional weight, letting the UI step back into a supporting role. Every interaction feels deliberate, from the `{spacing.lg}` padding on CTAs to the `{spacing.section}` breathing room between product rows.
+name: "Sijo"
+source_url: "https://sijohome.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Sijo is a performance bedding and bath brand that speaks in a quiet, confident palette of deep navy and soft stone. The primary voltage is a rich midnight blue (`#0b173a`) that appears on CTAs, headlines, and the brand's signature woven labels — a color that reads as both premium and restful, like a well-made bed in a dim room. Supporting this is a warm off-white canvas (`#f1efec`) that softens the digital experience, paired with a cooler surface tone (`#f4f4f6`) for cards and panels. The brand's accent palette introduces unexpected energy: a lime green (`#c7e400`) used sparingly for badges and highlights, a deeper forest green (`#468038`) for sustainability messaging, and a mustard yellow (`#ffcf2a`) for sale indicators and trust signals. Typography centers on `basis-grotesque-bold-pro` for display headings — a geometric sans-serif with sharp, confident letterforms — while body copy runs in a clean system stack (`-apple-system`, `Helvetica Neue`, `Roboto`). Buttons use `{rounded.sm}` (8px) corners, while product cards and modals adopt `{rounded.md}` (12px) for a soft but not pill-like feel. The overall mood is one of considered calm: generous whitespace, muted borders (`#dbdde4`), and a deliberate avoidance of visual noise. Signature design moves include a persistent top nav with a centered logo, product cards that float on `{surface-card}` with subtle shadow, and a footer that stacks utility links in a dense, readable grid. The brand trusts its textile photography — close-ups of percale weaves, bamboo fibers, and brushed cotton — to carry emotional weight, letting the UI step back into a supporting role. Every interaction feels deliberate, from the `{spacing.lg}` padding on CTAs to the `{spacing.section}` breathing room between product rows.
 
 colors:
   primary: "#0b173a"
@@ -394,6 +398,8 @@ components:
 - "Quick Add" button on product cards becomes "Select Options" link on mobile to avoid accidental taps
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for product cards (secondary image reveal, shadow elevation) could not be reliably extracted from static CSS
 - Error states for form validation (inline error messages, field-level error icons) were not visible in the extracted styles

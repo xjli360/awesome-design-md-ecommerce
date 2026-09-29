@@ -1,0 +1,874 @@
+{
+  "source_url": "https://vegogarden.com",
+  "final_url": "https://www.vegogarden.com/",
+  "captured_at": "2026-09-28T04:04:23.773829+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://vegogarden.com",
+      "final_url": "https://www.vegogarden.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "dea05d24911b13674a5ee54ba5b846c74c8fb8fbf54da2addf9908dc6cd538e2",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.vegogarden.com/cdn/shop/t/829/assets/Custom-fonts.css?v=181235700671370766541773384878",
+      "final_url": "https://www.vegogarden.com/cdn/shop/t/829/assets/Custom-fonts.css?v=181235700671370766541773384878",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "51b793831b366db30081af0ce010cc1b7dc2aedae50acd7e8431517ab0aad165",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.vegogarden.com/cdn/shop/t/829/assets/accessibility.css?v=135827877497669388761787206416",
+      "final_url": "https://www.vegogarden.com/cdn/shop/t/829/assets/accessibility.css?v=135827877497669388761787206416",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9340918c00858c4e40c4f1a9b59dca55fb0cd968a69d2bdec569b97a5cd309bf",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+      "final_url": "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2b7dbf34a33cddd5a60cf1b1dbe2ad215e8d09f875f07f328ca78647ad5f7e32",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.vegogarden.com/cdn/shop/t/829/assets/custom-yotpo.min.css?v=162682879401326123241786696018",
+      "final_url": "https://www.vegogarden.com/cdn/shop/t/829/assets/custom-yotpo.min.css?v=162682879401326123241786696018",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f62880e85c2b6e268432f3beda5d1a737a36cc28a0d1dbb629a2bb6f444d6833",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.vegogarden.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.vegogarden.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#3a5b39": {
+      "count": 212,
+      "sources": [
+        "https://www.vegogarden.com/",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/custom-yotpo.min.css?v=162682879401326123241786696018"
+      ]
+    },
+    "#fef9eb": {
+      "count": 104,
+      "sources": [
+        "https://www.vegogarden.com/",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/custom-yotpo.min.css?v=162682879401326123241786696018"
+      ]
+    },
+    "#ffffff": {
+      "count": 71,
+      "sources": [
+        "https://www.vegogarden.com/",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/custom-yotpo.min.css?v=162682879401326123241786696018",
+        "https://www.vegogarden.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000000": {
+      "count": 53,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/custom-yotpo.min.css?v=162682879401326123241786696018",
+        "https://www.vegogarden.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#9a4a27": {
+      "count": 38,
+      "sources": [
+        "https://www.vegogarden.com/",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/custom-yotpo.min.css?v=162682879401326123241786696018"
+      ]
+    },
+    "#bfcd89": {
+      "count": 37,
+      "sources": [
+        "https://www.vegogarden.com/",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/custom-yotpo.min.css?v=162682879401326123241786696018"
+      ]
+    },
+    "#bfcd8a": {
+      "count": 25,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/custom-yotpo.min.css?v=162682879401326123241786696018"
+      ]
+    },
+    "#000000": {
+      "count": 23,
+      "sources": [
+        "https://www.vegogarden.com/",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#ebecce": {
+      "count": 12,
+      "sources": [
+        "https://www.vegogarden.com/",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/custom-yotpo.min.css?v=162682879401326123241786696018"
+      ]
+    },
+    "#ffdd81": {
+      "count": 11,
+      "sources": [
+        "https://www.vegogarden.com/",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/custom-yotpo.min.css?v=162682879401326123241786696018"
+      ]
+    },
+    "#3a5b3a": {
+      "count": 10,
+      "sources": [
+        "https://www.vegogarden.com/",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/custom-yotpo.min.css?v=162682879401326123241786696018"
+      ]
+    },
+    "#fff3d2": {
+      "count": 10,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/custom-yotpo.min.css?v=162682879401326123241786696018"
+      ]
+    },
+    "#f8eccb": {
+      "count": 8,
+      "sources": [
+        "https://www.vegogarden.com/",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/custom-yotpo.min.css?v=162682879401326123241786696018"
+      ]
+    },
+    "#b6b6b6": {
+      "count": 8,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#3a5b3999": {
+      "count": 7,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/custom-yotpo.min.css?v=162682879401326123241786696018"
+      ]
+    },
+    "#008062": {
+      "count": 6,
+      "sources": [
+        "https://www.vegogarden.com/",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 6,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#93826e": {
+      "count": 6,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#d02e2e": {
+      "count": 6,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#f7c15e": {
+      "count": 5,
+      "sources": [
+        "https://www.vegogarden.com/",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 5,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#3a5b394d": {
+      "count": 5,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#3a5b3966": {
+      "count": 5,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/custom-yotpo.min.css?v=162682879401326123241786696018"
+      ]
+    },
+    "#fabd65": {
+      "count": 5,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#3a5b39cc": {
+      "count": 5,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/custom-yotpo.min.css?v=162682879401326123241786696018"
+      ]
+    },
+    "#cc6228": {
+      "count": 4,
+      "sources": [
+        "https://www.vegogarden.com/",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#003629": {
+      "count": 4,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#ffc98e": {
+      "count": 4,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#e8e8e1": {
+      "count": 3,
+      "sources": [
+        "https://www.vegogarden.com/",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#f6dfb4": {
+      "count": 3,
+      "sources": [
+        "https://www.vegogarden.com/",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#88937c": {
+      "count": 3,
+      "sources": [
+        "https://www.vegogarden.com/",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#3e3d3d": {
+      "count": 3,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#3a5b3933": {
+      "count": 3,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#56ad6a": {
+      "count": 3,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#0000004d": {
+      "count": 3,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/custom-yotpo.min.css?v=162682879401326123241786696018"
+      ]
+    },
+    "#ac0000": {
+      "count": 3,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#bfcd894d": {
+      "count": 3,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#3d3d3d": {
+      "count": 2,
+      "sources": [
+        "https://www.vegogarden.com/",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#201d13": {
+      "count": 2,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#ffdd80": {
+      "count": 2,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/custom-yotpo.min.css?v=162682879401326123241786696018"
+      ]
+    },
+    "#fef9ebe6": {
+      "count": 2,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#cccccc": {
+      "count": 2,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#fff6f6": {
+      "count": 2,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#f8f6f4": {
+      "count": 2,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#999999": {
+      "count": 2,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#f3e6c2": {
+      "count": 2,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#3a5b3a99": {
+      "count": 2,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#d74100": {
+      "count": 2,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#00000017": {
+      "count": 2,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#88937c4d": {
+      "count": 2,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#0000001a": {
+      "count": 2,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#c25740": {
+      "count": 2,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#848484": {
+      "count": 2,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#374659": {
+      "count": 2,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#000000b3": {
+      "count": 2,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#28427c": {
+      "count": 2,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#e1907c": {
+      "count": 2,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#c3cab6": {
+      "count": 2,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "#bfcd8980": {
+      "count": 2,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/custom-yotpo.min.css?v=162682879401326123241786696018"
+      ]
+    },
+    "#9a4a2726": {
+      "count": 2,
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/custom-yotpo.min.css?v=162682879401326123241786696018"
+      ]
+    }
+  },
+  "font_families": {
+    "Consolas": [
+      "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+    ],
+    "Manrope": [
+      "https://www.vegogarden.com/",
+      "https://www.vegogarden.com/cdn/shop/t/829/assets/Custom-fonts.css?v=181235700671370766541773384878",
+      "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+      "https://www.vegogarden.com/cdn/shop/t/829/assets/custom-yotpo.min.css?v=162682879401326123241786696018"
+    ],
+    "Manrope!important": [
+      "https://www.vegogarden.com/cdn/shop/t/829/assets/custom-yotpo.min.css?v=162682879401326123241786696018"
+    ],
+    "Moret": [
+      "https://www.vegogarden.com/",
+      "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+      "https://www.vegogarden.com/cdn/shop/t/829/assets/custom-yotpo.min.css?v=162682879401326123241786696018"
+    ],
+    "Moret!important": [
+      "https://www.vegogarden.com/cdn/shop/t/829/assets/custom-yotpo.min.css?v=162682879401326123241786696018"
+    ],
+    "monospace": [
+      "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+    ],
+    "moret": [
+      "https://www.vegogarden.com/cdn/shop/t/829/assets/Custom-fonts.css?v=181235700671370766541773384878",
+      "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+    ],
+    "object-fit\\: cover": [
+      "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+    ],
+    "sans-serif": [
+      "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+    ],
+    "serif": [
+      "https://www.vegogarden.com/cdn/shop/t/829/assets/Custom-fonts.css?v=181235700671370766541773384878"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.vegogarden.com/",
+      "selector": ".site-header--inline .announcement-link",
+      "declarations": "align-items: center;\n        display: flex;\n        height: 100%;\n        justify-content: center;\n        color: #fef9eb;"
+    },
+    {
+      "source": "https://www.vegogarden.com/",
+      "selector": ".site-header--inline .announcement-link:active, .site-header--inline .announcement-link:hover",
+      "declarations": "color: #fef9eb;"
+    },
+    {
+      "source": "https://www.vegogarden.com/",
+      "selector": ".loading-primary.btn--loading:before",
+      "declarations": "border: 3px solid #3a5b39;\n      border-color: #3a5b39;\n      border-top-color: transparent;"
+    },
+    {
+      "source": "https://www.vegogarden.com/",
+      "selector": ".start-your-garden .review-header h2",
+      "declarations": "margin: 0;\n    font-weight: 400;\n    font-size: 56px;\n    line-height: 56px;\n    color: #3a5b39;"
+    },
+    {
+      "source": "https://www.vegogarden.com/",
+      "selector": ".seed-starting-v2 .vego-featuredProducts-btn:hover,\n    .seed-starting-v2 .vego-featuredProducts-btn",
+      "declarations": "color: #FEF9EB !important;\n        margin: 0 auto;\n        background: #3A5B39 !important;\n        width:380px;\n        font-weight: 700;\n        font-size: 17px;"
+    },
+    {
+      "source": "https://www.vegogarden.com/",
+      "selector": "one;\npointer-events: none;\npointer-events: none;\npointer-events: none;\npointer-events: none;\npointer-events: none;\npointer-events: none;\npointer-events: none;\n\n",
+      "declarations": "margin: 0;\n    font-weight: 400;\n    font-size: 56px;\n    line-height: 56px;\n    color: #3A5B39;"
+    },
+    {
+      "source": "https://www.vegogarden.com/",
+      "selector": ".index-review-v3 .review-box .review-body .review-title",
+      "declarations": "color: var(--primaryColor);\n  margin-bottom: 22px;\n  font-size: 15px;\n  font-weight: 700;"
+    },
+    {
+      "source": "https://www.vegogarden.com/",
+      "selector": ".subscribe-box button:not(.cc-revoke-btn)",
+      "declarations": "background: var(--thirdColor);\n    color: #3a5b39;\n    font-weight: 600;\n    display: block;\n    width: 100%;\n    font-size: 18px;\n    line-height: 1.5;\n    padding: 12px 40px;"
+    },
+    {
+      "source": "https://www.vegogarden.com/",
+      "selector": ".subscribe-box button:not(.cc-revoke-btn):hover",
+      "declarations": "background: #fef9eb !important;\n    color: #3a5b39 !important;"
+    },
+    {
+      "source": "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+      "selector": "body,html",
+      "declarations": "background-color:var(--colorBody);color:var(--colorTextBody)"
+    },
+    {
+      "source": "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+      "selector": ".faux-select,body,button,input,select,textarea",
+      "declarations": "font-family:\"Manrope\", var(--typeBaseFallback);font-size:calc(var(--typeBaseSize)*.85);letter-spacing:var(--typeBaseSpacing);line-height:var(--typeBaseLineHeight)"
+    },
+    {
+      "source": "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+      "selector": ".h1,.h2,.h3,h1,h2,h3",
+      "declarations": "font-family:var(--typeHeaderPrimary), var(--typeHeaderFallback);font-weight:var(--typeHeaderWeight);letter-spacing:var(--typeHeaderSpacing);line-height:var(--typeHeaderLineHeight)"
+    },
+    {
+      "source": "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+      "selector": ".h1,.h2,.h3,.h4,.h5",
+      "declarations": "font-family:Moret"
+    },
+    {
+      "source": "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+      "selector": ".btn,.product-reviews .spr-button,.product-reviews .spr-summary-actions a,.rte .btn",
+      "declarations": "text-align:center;white-space:normal;vertical-align:middle;cursor:pointer;-webkit-user-select:none;user-select:none;-webkit-appearance:none;-moz-appearance:none;border-radius:200px;border-radius:var(--buttonRadius);width:auto;min-width:90px;color:var(--colorBtnPrimaryText);background:var(--colorBtnPrimary);border:1px solid #0000;margin:0;padding:11px 20px;font-size:14px;font-weight:700;line-height:1.42;text-decoration:none;display:inline-block"
+    },
+    {
+      "source": "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+      "selector": ".btn:hover,.product-reviews .spr-button:hover,.product-reviews .spr-summary-actions a:hover,.rte .btn:hover",
+      "declarations": "color:var(--colorBtnPrimaryText);background-color:var(--colorBtnPrimary)"
+    },
+    {
+      "source": "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+      "selector": "isabled],.rte .btn.disabled,.rte .btn[disabled],.shopify-payment-button .shopify-payment-button__button--unbranded.disabled,.shopify-payment-button .shopify-pay",
+      "declarations": "cursor:default;color:#b6b6b6;background-color:#f6f6f6"
+    },
+    {
+      "source": "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+      "selector": "led:hover,.rte .btn[disabled]:hover,.shopify-payment-button .shopify-payment-button__button--unbranded.disabled:hover,.shopify-payment-button .shopify-payment-b",
+      "declarations": "color:#b6b6b6;background-color:#f6f6f6"
+    },
+    {
+      "source": "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+      "selector": "ngled] .shopify-payment-button .shopify-payment-button__button--unbranded[disabled]:after,[data-button_style=angled] .shopify-payment-button .shopify-payment-bu",
+      "declarations": "background-color:#f6f6f6;border-top:1px solid #b6b6b6;border-bottom:1px solid #b6b6b6"
+    },
+    {
+      "source": "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+      "selector": "[data-button_style=angled] .shopify-payment-button .shopify-payment-button__button--unbranded:after,[data-button_style=angled] .shopify-payment-button .shopify-",
+      "declarations": "content:\"\";background-color:inherit;width:20px;display:block;position:absolute;top:0;bottom:0;transform:skew(-12deg)"
+    },
+    {
+      "source": "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+      "selector": ".shopify-payment-button .shopify-payment-button__more-options",
+      "declarations": "color:#003629;width:auto;font-size:15px;text-decoration:underline;display:inline-block"
+    },
+    {
+      "source": "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+      "selector": ".btn--secondary,.rte .btn--secondary",
+      "declarations": "color:var(--colorBtnSecondary);border:1px solid;border-color:var(--colorBtnSecondary);background-color:#0000"
+    },
+    {
+      "source": "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+      "selector": "[data-button_style=angled] .btn--secondary,[data-button_style=angled] .rte .btn--secondary",
+      "declarations": "border:1px solid;border-left:0;border-right:0;border-top-color:var(--colorBorder);border-bottom-color:var(--colorBorder)"
+    },
+    {
+      "source": "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+      "selector": "utton_style=angled] .btn--secondary:after,[data-button_style=angled] .btn--secondary:before,[data-button_style=angled] .rte .btn--secondary:after,[data-button_s",
+      "declarations": "background-color:#0000;top:-1px;bottom:-1px"
+    },
+    {
+      "source": "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+      "selector": "[data-button_style=angled] .btn--secondary:before,[data-button_style=angled] .rte .btn--secondary:before",
+      "declarations": "border-left:1px solid;border-left-color:var(--colorBorder);border-bottom:1px solid;border-bottom-color:var(--colorBorder)"
+    },
+    {
+      "source": "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+      "selector": "[data-button_style=angled] .btn--secondary:after,[data-button_style=angled] .rte .btn--secondary:after",
+      "declarations": "border-top:1px solid;border-top-color:var(--colorBorder);border-right:1px solid;border-right-color:var(--colorBorder)"
+    },
+    {
+      "source": "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+      "selector": ".btn--secondary:hover,.rte .btn--secondary:hover",
+      "declarations": "color:var(--colorTextBody);border-color:var(--colorBorder);background-color:#0000"
+    },
+    {
+      "source": "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+      "selector": ".btn--secondary:hover:before,.rte .btn--secondary:hover:before,.btn--secondary:hover:after,.rte .btn--secondary:hover:after",
+      "declarations": "border-color:var(--colorBorder)"
+    },
+    {
+      "source": "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+      "selector": ".btn--tertiary,.rte .btn--tertiary",
+      "declarations": "text-transform:none;letter-spacing:normal;border:1px solid;border-color:var(--colorBorder);color:var(--colorTextBody);white-space:nowrap;background-color:#0000;padding:8px 10px;font-weight:400"
+    },
+    {
+      "source": "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+      "selector": ".btn--tertiary:hover,.rte .btn--tertiary:hover",
+      "declarations": "color:var(--colorTextBody);background-color:#0000"
+    },
+    {
+      "source": "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+      "selector": ".btn--tertiary.disabled,.btn--tertiary[disabled],.rte .btn--tertiary.disabled,.rte .btn--tertiary[disabled]",
+      "declarations": "cursor:default;color:#b6b6b6;background-color:#f6f6f6;border-color:#b6b6b6"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Vego Garden | Modular Garden Beds & Smarter Growing Solutions",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vegogarden.com/",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/custom-yotpo.min.css?v=162682879401326123241786696018"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vegogarden.com/",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vegogarden.com/",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/custom-yotpo.min.css?v=162682879401326123241786696018"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vegogarden.com/",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vegogarden.com/",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vegogarden.com/",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/custom-yotpo.min.css?v=162682879401326123241786696018",
+        "https://www.vegogarden.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vegogarden.com/",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/custom-yotpo.min.css?v=162682879401326123241786696018"
+      ]
+    },
+    "colors.secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vegogarden.com/",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/custom-yotpo.min.css?v=162682879401326123241786696018"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vegogarden.com/",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "colors.highlight": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vegogarden.com/",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928",
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/custom-yotpo.min.css?v=162682879401326123241786696018"
+      ]
+    },
+    "colors.disabled-text": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "colors.alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vegogarden.com/cdn/shop/t/829/assets/theme.min.css?v=115249039670179788591789460928"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.bed-configurator-panel": {
+      "status": "inferred"
+    }
+  }
+}

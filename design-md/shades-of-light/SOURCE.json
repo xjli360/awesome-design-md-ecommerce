@@ -1,0 +1,698 @@
+{
+  "source_url": "https://shadesoflight.com",
+  "final_url": "https://www.shadesoflight.com/",
+  "captured_at": "2026-09-28T04:50:05.947614+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://shadesoflight.com",
+      "final_url": "https://www.shadesoflight.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "fbac806250d020d0551fcc6cd472e93be46fa23b878e2833b7478969862df7b5",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css",
+      "final_url": "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "7927ff336b5d8d9b7d509c4ccd570d4e0c921ba6c65926084bfdba2b97bfb912",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.shadesoflight.com/_next/static/css/a94c700847bcf280.css",
+      "final_url": "https://www.shadesoflight.com/_next/static/css/a94c700847bcf280.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "709dbe033ae75a1ae339f3aea241a8ebc862249303c3e995a91ff74be44a0f68",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 42,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 14,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 7,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#404040": {
+      "count": 6,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#b19a6a": {
+      "count": 6,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#333333": {
+      "count": 4,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#222222": {
+      "count": 3,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#000000": {
+      "count": 3,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#2563eb": {
+      "count": 3,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#f7f6f0": {
+      "count": 2,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 2,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#da0f0f": {
+      "count": 2,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 2,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#da100f": {
+      "count": 2,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#00000033": {
+      "count": 2,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#fcfcfa": {
+      "count": 2,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#edededed": {
+      "count": 2,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#00000080": {
+      "count": 2,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#ffffffbf": {
+      "count": 2,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#4b5563": {
+      "count": 2,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#7f7f7f": {
+      "count": 2,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#d5a806": {
+      "count": 2,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#ebebeb": {
+      "count": 2,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#231f20": {
+      "count": 2,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#e5e5e4": {
+      "count": 2,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 2,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#cdbcff": {
+      "count": 2,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#ffdeee": {
+      "count": 2,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#efeee4": {
+      "count": 1,
+      "sources": [
+        "https://www.shadesoflight.com/"
+      ]
+    },
+    "#93c5fd80": {
+      "count": 1,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 1,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#959595": {
+      "count": 1,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#b19b6a": {
+      "count": 1,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#f1ebde": {
+      "count": 1,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 1,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#fafaf6": {
+      "count": 1,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#2222221a": {
+      "count": 1,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#00000066": {
+      "count": 1,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#000000bf": {
+      "count": 1,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#4b5563bf": {
+      "count": 1,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#ffffff00": {
+      "count": 1,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#ffffff1a": {
+      "count": 1,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#ffffff26": {
+      "count": 1,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#ffffff33": {
+      "count": 1,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#ffffff40": {
+      "count": 1,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#ffffff4d": {
+      "count": 1,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#ffffff59": {
+      "count": 1,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#ffffff66": {
+      "count": 1,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#ffffff73": {
+      "count": 1,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#ffffff0d": {
+      "count": 1,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#ffffff80": {
+      "count": 1,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#ffffff8c": {
+      "count": 1,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#ffffff99": {
+      "count": 1,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#ffffffa6": {
+      "count": 1,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#ffffffb3": {
+      "count": 1,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#ffffffcc": {
+      "count": 1,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#ffffffd9": {
+      "count": 1,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "#ffffffe6": {
+      "count": 1,
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Apple Color Emoji": [
+      "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+    ],
+    "Consolas": [
+      "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+    ],
+    "Courier New": [
+      "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+    ],
+    "Liberation Mono": [
+      "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+    ],
+    "Menlo": [
+      "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+    ],
+    "Monaco": [
+      "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+    ],
+    "Noto Color Emoji": [
+      "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+    ],
+    "SFMono-Regular": [
+      "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+    ],
+    "Segoe UI Emoji": [
+      "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+    ],
+    "Segoe UI Symbol": [
+      "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+    ],
+    "__Montserrat_Fallback_f56828": [
+      "https://www.shadesoflight.com/_next/static/css/a94c700847bcf280.css"
+    ],
+    "__Montserrat_f56828": [
+      "https://www.shadesoflight.com/_next/static/css/a94c700847bcf280.css"
+    ],
+    "monospace": [
+      "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+    ],
+    "sans-serif": [
+      "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+    ],
+    "system-ui": [
+      "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+    ],
+    "ui-monospace": [
+      "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+    ],
+    "ui-sans-serif": [
+      "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-feature-settings:inherit;color:inherit;font-family:inherit;font-size:100%;font-variation-settings:inherit;font-weight:inherit;letter-spacing:inherit;line-height:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css",
+      "selector": "button,input:where([type=button]),input:where([type=reset]),input:where([type=submit])",
+      "declarations": "-webkit-appearance:button;background-color:initial;background-image:none"
+    },
+    {
+      "source": "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css",
+      "selector": ":root",
+      "declarations": "--radius:0.5rem"
+    },
+    {
+      "source": "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css",
+      "selector": ".bg-card-button",
+      "declarations": "background-color:var(--color-card-button)"
+    },
+    {
+      "source": "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css",
+      "selector": ".font-body,.font-main",
+      "declarations": "font-family:var(--font-montserrat)"
+    },
+    {
+      "source": "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css",
+      "selector": "body",
+      "declarations": "--tw-text-opacity:1;color:rgb(var(--color-primary-black)/var(--tw-text-opacity,1));font-family:var(--font-montserrat);margin:0;width:100%"
+    },
+    {
+      "source": "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css",
+      "selector": ".active\\:shadow-button:active",
+      "declarations": "--tw-shadow:1px 1px 1px #00000026,-1px -1px 1px #19285126;--tw-shadow-colored:1px 1px 1px var(--tw-shadow-color),-1px -1px 1px var(--tw-shadow-color);box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Unique High Quality Lighting, Rugs & Home Decor | Shades of Light",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "colors.accent-alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "colors.accent-link": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "colors.surface-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "colors.shadow-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "colors.overlay-scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.shadesoflight.com/_next/static/css/5398b12dde72c8ee.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.mega-menu": {
+      "status": "inferred"
+    }
+  }
+}

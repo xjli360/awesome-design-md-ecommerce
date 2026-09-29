@@ -1,0 +1,856 @@
+{
+  "source_url": "https://www.hay.com",
+  "final_url": "https://www.hay.com/",
+  "captured_at": "2026-09-28T04:10:42.006747+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.hay.com",
+      "final_url": "https://www.hay.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "3b2f5c4a537973946f4f2ff4dbd9fd2e6540ead36dd05e61a7302804d6a73840",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://fast.fonts.net/cssapi/c662bd36-64e0-42df-979a-b65817650b70.css",
+      "final_url": "https://fast.fonts.net/cssapi/c662bd36-64e0-42df-979a-b65817650b70.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7c80898d8f242b813d58d5872cf346b3ea961cf22eeb47cd3e01891ddc3e8555",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css",
+      "final_url": "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ecbd37c349f848b1452d170d5adf71d4e0a5a65ff2a23d80a43354c46aea853f",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 69,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#fefefe": {
+      "count": 60,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#0a0a0a": {
+      "count": 56,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#000000": {
+      "count": 55,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#cacaca": {
+      "count": 26,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 17,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#ec5840": {
+      "count": 10,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#c0c0c0": {
+      "count": 8,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#8a8a8a": {
+      "count": 8,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#ececec": {
+      "count": 8,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#777777": {
+      "count": 7,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#3adb76": {
+      "count": 7,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#ffae00": {
+      "count": 7,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 5,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#050505": {
+      "count": 4,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#c7c8ca": {
+      "count": 4,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#bababa": {
+      "count": 3,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#ffff00": {
+      "count": 2,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#090808": {
+      "count": 2,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#080808": {
+      "count": 2,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#5f5f5f": {
+      "count": 2,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#22bb5b": {
+      "count": 2,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#da3116": {
+      "count": 2,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#cc8b00": {
+      "count": 2,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#3c3b3b": {
+      "count": 2,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#157539": {
+      "count": 2,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#881f0e": {
+      "count": 2,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#805700": {
+      "count": 2,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#ebebeb": {
+      "count": 2,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 2,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#55bbba": {
+      "count": 2,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#090909": {
+      "count": 1,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#999999": {
+      "count": 1,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#dadada": {
+      "count": 1,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#e1faea": {
+      "count": 1,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#fce6e2": {
+      "count": 1,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#fff3d9": {
+      "count": 1,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 1,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 1,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#161616": {
+      "count": 1,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#231f20": {
+      "count": 1,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#dedee0": {
+      "count": 1,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#a8bacc": {
+      "count": 1,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#404041": {
+      "count": 1,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#e3e3e3": {
+      "count": 1,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#595959": {
+      "count": 1,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 1,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "#95e495": {
+      "count": 1,
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+    ],
+    "Consolas": [
+      "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+    ],
+    "Courier": [
+      "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+    ],
+    "Georgia": [
+      "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+    ],
+    "Helvetica": [
+      "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+    ],
+    "ITC New Baskerville W01": [
+      "https://fast.fonts.net/cssapi/c662bd36-64e0-42df-979a-b65817650b70.css"
+    ],
+    "ITCNewBaskervilleItalic": [
+      "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+    ],
+    "ITCNewBaskervilleRoman": [
+      "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+    ],
+    "Liberation Mono": [
+      "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+    ],
+    "NeueHelvetica55Roman": [
+      "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+    ],
+    "NeueHelvetica56Italic": [
+      "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+    ],
+    "NeueHelvetica76BoldItalic": [
+      "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+    ],
+    "Roboto": [
+      "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+    ],
+    "monospace": [
+      "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+    ],
+    "sans-serif": [
+      "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+    ],
+    "serif": [
+      "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+    ],
+    "serif !important": [
+      "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+    ],
+    "small=0em&medium=40em&large=64em&xlarge=75em&xxlarge=90em": [
+      "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css",
+      "selector": "body:after",
+      "declarations": "display:block;position:fixed;top:0;left:-9999px;background-color:rgba(0,125,125,0.25);margin:0 auto;z-index:999999"
+    },
+    {
+      "source": "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font:inherit;margin:0;color:inherit"
+    },
+    {
+      "source": "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font:inherit;margin:0;color:inherit"
+    },
+    {
+      "source": "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css",
+      "selector": "body",
+      "declarations": "font-family:\"NeueHelvetica55Roman\",Helvetica,Roboto,Arial,sans-serif;font-weight:normal;line-height:1.5;margin:0;padding:0;color:#0a0a0a;background:#fefefe;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale"
+    },
+    {
+      "source": "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "font-family:\"NeueHelvetica55Roman\",Helvetica,Roboto,Arial,sans-serif;font-weight:normal;font-style:normal;color:inherit;text-rendering:optimizeLegibility;margin-top:0;margin-bottom:2.8125rem;line-height:1.4"
+    },
+    {
+      "source": "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css",
+      "selector": "h1 small,h2 small,h3 small,h4 small,h5 small,h6 small",
+      "declarations": "color:#cacaca;line-height:0"
+    },
+    {
+      "source": "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css",
+      "selector": ".subheader",
+      "declarations": "margin-top:.2rem;margin-bottom:.5rem;font-weight:normal;line-height:1.4;color:#8a8a8a"
+    },
+    {
+      "source": "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css",
+      "selector": ".button",
+      "declarations": "display:inline-block;text-align:center;line-height:1;cursor:pointer;-webkit-appearance:none;-webkit-transition:background-color 0.25s ease-out, color 0.25s ease-out;-o-transition:background-color 0.25s ease-out, color 0.25s ease-out;transition:background-color 0.25s ease-out, color 0.25s ease-out;vertical-align:middle;border:1px solid transparent;border-radius:0;padding:0.85em 1em;margin:0 0 1rem 0;font-size:0.9rem;background-color:#0a0a0a;color:#fff"
+    },
+    {
+      "source": "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css",
+      "selector": ".button:hover,.button:focus",
+      "declarations": "background-color:#090808;color:#fff"
+    },
+    {
+      "source": "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css",
+      "selector": ".button.primary",
+      "declarations": "background-color:#0a0a0a;color:#fff"
+    },
+    {
+      "source": "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css",
+      "selector": ".button.primary:hover,.button.primary:focus",
+      "declarations": "background-color:#080808;color:#fff"
+    },
+    {
+      "source": "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css",
+      "selector": ".button.secondary",
+      "declarations": "background-color:#777;color:#fff"
+    },
+    {
+      "source": "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css",
+      "selector": ".button.secondary:hover,.button.secondary:focus",
+      "declarations": "background-color:#5f5f5f;color:#fff"
+    },
+    {
+      "source": "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css",
+      "selector": ".button.success",
+      "declarations": "background-color:#3adb76;color:#fff"
+    },
+    {
+      "source": "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css",
+      "selector": ".button.success:hover,.button.success:focus",
+      "declarations": "background-color:#22bb5b;color:#fff"
+    },
+    {
+      "source": "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css",
+      "selector": ".button.alert",
+      "declarations": "background-color:#ec5840;color:#fff"
+    },
+    {
+      "source": "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css",
+      "selector": ".button.alert:hover,.button.alert:focus",
+      "declarations": "background-color:#da3116;color:#fff"
+    },
+    {
+      "source": "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css",
+      "selector": ".button.warning",
+      "declarations": "background-color:#ffae00;color:#fff"
+    },
+    {
+      "source": "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css",
+      "selector": ".button.warning:hover,.button.warning:focus",
+      "declarations": "background-color:#cc8b00;color:#fff"
+    },
+    {
+      "source": "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css",
+      "selector": ".button.hollow",
+      "declarations": "border:1px solid #0a0a0a;color:#0a0a0a"
+    },
+    {
+      "source": "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css",
+      "selector": ".button.hollow,.button.hollow:hover,.button.hollow:focus",
+      "declarations": "background-color:transparent"
+    },
+    {
+      "source": "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css",
+      "selector": ".button.hollow:hover,.button.hollow:focus",
+      "declarations": "border-color:#050505;color:#050505"
+    },
+    {
+      "source": "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css",
+      "selector": ".button.hollow.primary",
+      "declarations": "border:1px solid #0a0a0a;color:#0a0a0a"
+    },
+    {
+      "source": "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css",
+      "selector": ".button.hollow.primary:hover,.button.hollow.primary:focus",
+      "declarations": "border-color:#050505;color:#050505"
+    },
+    {
+      "source": "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css",
+      "selector": ".button.hollow.secondary",
+      "declarations": "border:1px solid #777;color:#777"
+    },
+    {
+      "source": "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css",
+      "selector": ".button.hollow.secondary:hover,.button.hollow.secondary:focus",
+      "declarations": "border-color:#3c3b3b;color:#3c3b3b"
+    },
+    {
+      "source": "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css",
+      "selector": ".button.hollow.success",
+      "declarations": "border:1px solid #3adb76;color:#3adb76"
+    },
+    {
+      "source": "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css",
+      "selector": ".button.hollow.success:hover,.button.hollow.success:focus",
+      "declarations": "border-color:#157539;color:#157539"
+    },
+    {
+      "source": "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css",
+      "selector": ".button.hollow.alert",
+      "declarations": "border:1px solid #ec5840;color:#ec5840"
+    },
+    {
+      "source": "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css",
+      "selector": ".button.hollow.alert:hover,.button.hollow.alert:focus",
+      "declarations": "border-color:#881f0e;color:#881f0e"
+    }
+  ],
+  "confidence": "historical_partial_css_evidence",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "HAY.com – latest products, designer news and retailer info",
+  "schema_version": 1,
+  "design_origin": "historical",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.primary-active": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.primary-disabled": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.ink": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.muted-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.hairline-soft": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "colors.accent-warm": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.accent-cool": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.badge-new": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.star-rating": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hay.com/b18.0.0.2/Frontend/CSS/haybrand.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-lg": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.title-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.title-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.body-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.body-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.caption": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.button-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.button-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.link": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.nav-link": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.badge": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "rounded.none": {
+      "status": "unverified"
+    },
+    "rounded.xs": {
+      "status": "unverified"
+    },
+    "rounded.sm": {
+      "status": "unverified"
+    },
+    "rounded.md": {
+      "status": "unverified"
+    },
+    "rounded.lg": {
+      "status": "unverified"
+    },
+    "rounded.xl": {
+      "status": "unverified"
+    },
+    "rounded.full": {
+      "status": "unverified"
+    },
+    "spacing.xxs": {
+      "status": "unverified"
+    },
+    "spacing.xs": {
+      "status": "unverified"
+    },
+    "spacing.sm": {
+      "status": "unverified"
+    },
+    "spacing.md": {
+      "status": "unverified"
+    },
+    "spacing.base": {
+      "status": "unverified"
+    },
+    "spacing.lg": {
+      "status": "unverified"
+    },
+    "spacing.xl": {
+      "status": "unverified"
+    },
+    "spacing.xxl": {
+      "status": "unverified"
+    },
+    "spacing.section": {
+      "status": "unverified"
+    },
+    "components.button-primary": {
+      "status": "unverified"
+    },
+    "components.button-primary-active": {
+      "status": "unverified"
+    },
+    "components.button-primary-disabled": {
+      "status": "unverified"
+    },
+    "components.button-secondary": {
+      "status": "unverified"
+    },
+    "components.button-secondary-active": {
+      "status": "unverified"
+    },
+    "components.button-tertiary-text": {
+      "status": "unverified"
+    },
+    "components.button-tertiary-text-active": {
+      "status": "unverified"
+    },
+    "components.button-pill": {
+      "status": "unverified"
+    },
+    "components.button-pill-outline": {
+      "status": "unverified"
+    },
+    "components.icon-button": {
+      "status": "unverified"
+    },
+    "components.icon-button-circle": {
+      "status": "unverified"
+    },
+    "components.top-nav": {
+      "status": "unverified"
+    },
+    "components.nav-link": {
+      "status": "unverified"
+    },
+    "components.nav-link-active": {
+      "status": "unverified"
+    },
+    "components.search-bar": {
+      "status": "unverified"
+    },
+    "components.search-bar-focus": {
+      "status": "unverified"
+    },
+    "components.text-input": {
+      "status": "unverified"
+    },
+    "components.text-input-focus": {
+      "status": "unverified"
+    },
+    "components.text-input-error": {
+      "status": "unverified"
+    },
+    "components.select": {
+      "status": "unverified"
+    },
+    "components.product-card": {
+      "status": "unverified"
+    },
+    "components.product-card-image": {
+      "status": "unverified"
+    },
+    "components.product-card-title": {
+      "status": "unverified"
+    },
+    "components.product-card-price": {
+      "status": "unverified"
+    },
+    "components.product-card-badge": {
+      "status": "unverified"
+    },
+    "components.hero": {
+      "status": "unverified"
+    },
+    "components.hero-cta": {
+      "status": "unverified"
+    },
+    "components.section-heading": {
+      "status": "unverified"
+    },
+    "components.footer": {
+      "status": "unverified"
+    },
+    "components.footer-link": {
+      "status": "unverified"
+    },
+    "components.divider": {
+      "status": "unverified"
+    },
+    "components.badge": {
+      "status": "unverified"
+    },
+    "components.badge-cool": {
+      "status": "unverified"
+    },
+    "components.filter-chip": {
+      "status": "unverified"
+    },
+    "components.filter-chip-active": {
+      "status": "unverified"
+    },
+    "components.accordion": {
+      "status": "unverified"
+    },
+    "components.accordion-header": {
+      "status": "unverified"
+    },
+    "components.accordion-content": {
+      "status": "unverified"
+    }
+  },
+  "observed_color_tokens": 6,
+  "total_color_tokens": 18
+}

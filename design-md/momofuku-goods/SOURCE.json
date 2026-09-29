@@ -1,0 +1,1245 @@
+{
+  "source_url": "https://shop.momofuku.com/",
+  "final_url": "https://shop.momofuku.com/",
+  "captured_at": "2026-09-29T04:11:19.395863+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://shop.momofuku.com/",
+      "final_url": "https://shop.momofuku.com/",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "56e3d52a2123998876129473e4d2424f4f5cb05cf4d1159845600b30e70eb6b2",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://shop.momofuku.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://shop.momofuku.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "rendered-style-1.css"
+    },
+    {
+      "url": "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148",
+      "final_url": "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "cce0d4403fcbd759200aa2f721d858d36699e2e5a8741028dcace7bd17d32c97",
+      "snapshot": "rendered-style-2.css"
+    },
+    {
+      "url": "https://shop.momofuku.com/cdn/shop/t/530/assets/custom.css?v=95416990893279569121790091148",
+      "final_url": "https://shop.momofuku.com/cdn/shop/t/530/assets/custom.css?v=95416990893279569121790091148",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6fc06d9df4b602c64871b3b5c87a4decda5defe44cd8182669d0da655617fb1a",
+      "snapshot": "rendered-style-3.css"
+    },
+    {
+      "url": "https://cdn.rebuyengine.com/onsite/css/rebuy-smart-cart-v2.a714bda0fe06468db4b9.min.css",
+      "final_url": "https://cdn.rebuyengine.com/onsite/css/rebuy-smart-cart-v2.a714bda0fe06468db4b9.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d24441338b434f254506adc53243c27e565fc85532579e2cae92f8e73b860c7b",
+      "snapshot": "rendered-style-4.css"
+    },
+    {
+      "url": "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css",
+      "final_url": "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "cfb1cdde3c91681e2429afbf29693fc7e52c3035229c38e37574d4e3d73458a9",
+      "snapshot": "rendered-style-5.css"
+    },
+    {
+      "url": "https://shop.momofuku.com/#computed-style-snapshot",
+      "final_url": "https://shop.momofuku.com/#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "891e591bcb707790947b488f9d750f79e829886644836c9e557ab3f4e27b5f31",
+      "snapshot": "rendered-style-6.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 393,
+      "sources": [
+        "https://shop.momofuku.com/",
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148",
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/custom.css?v=95416990893279569121790091148",
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css",
+        "https://shop.momofuku.com/#computed-style-snapshot"
+      ]
+    },
+    "#ffffff": {
+      "count": 190,
+      "sources": [
+        "https://shop.momofuku.com/",
+        "https://shop.momofuku.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148",
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/custom.css?v=95416990893279569121790091148",
+        "https://cdn.rebuyengine.com/onsite/css/rebuy-smart-cart-v2.a714bda0fe06468db4b9.min.css",
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css",
+        "https://shop.momofuku.com/#computed-style-snapshot"
+      ]
+    },
+    "#00000000": {
+      "count": 79,
+      "sources": [
+        "https://shop.momofuku.com/",
+        "https://shop.momofuku.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148",
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/custom.css?v=95416990893279569121790091148"
+      ]
+    },
+    "#eeeeee": {
+      "count": 30,
+      "sources": [
+        "https://shop.momofuku.com/",
+        "https://cdn.rebuyengine.com/onsite/css/rebuy-smart-cart-v2.a714bda0fe06468db4b9.min.css",
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#2491c4": {
+      "count": 28,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/rebuy-smart-cart-v2.a714bda0fe06468db4b9.min.css",
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#f6a71b": {
+      "count": 25,
+      "sources": [
+        "https://shop.momofuku.com/",
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148",
+        "https://shop.momofuku.com/#computed-style-snapshot"
+      ]
+    },
+    "#f76c20": {
+      "count": 24,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#8e0606": {
+      "count": 23,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#737373": {
+      "count": 19,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/rebuy-smart-cart-v2.a714bda0fe06468db4b9.min.css",
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#1268b3": {
+      "count": 15,
+      "sources": [
+        "https://shop.momofuku.com/"
+      ]
+    },
+    "#20b2aa": {
+      "count": 15,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#666666": {
+      "count": 10,
+      "sources": [
+        "https://shop.momofuku.com/",
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148",
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#434343": {
+      "count": 10,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 8,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#8c1b1b": {
+      "count": 7,
+      "sources": [
+        "https://shop.momofuku.com/",
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148",
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/custom.css?v=95416990893279569121790091148"
+      ]
+    },
+    "#faf7ee": {
+      "count": 6,
+      "sources": [
+        "https://shop.momofuku.com/",
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#faecc8": {
+      "count": 6,
+      "sources": [
+        "https://shop.momofuku.com/",
+        "https://shop.momofuku.com/#computed-style-snapshot"
+      ]
+    },
+    "#00000080": {
+      "count": 6,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148",
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/custom.css?v=95416990893279569121790091148"
+      ]
+    },
+    "#fbe9c3": {
+      "count": 6,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#faebc8": {
+      "count": 5,
+      "sources": [
+        "https://shop.momofuku.com/"
+      ]
+    },
+    "#377e3b": {
+      "count": 5,
+      "sources": [
+        "https://shop.momofuku.com/",
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#919191": {
+      "count": 5,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#590000": {
+      "count": 4,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#fffffe": {
+      "count": 4,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#222222": {
+      "count": 4,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/custom.css?v=95416990893279569121790091148",
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#999999": {
+      "count": 4,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/rebuy-smart-cart-v2.a714bda0fe06468db4b9.min.css",
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#d1dbe2": {
+      "count": 4,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#869ab8": {
+      "count": 4,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#ebebe4": {
+      "count": 4,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#757575": {
+      "count": 3,
+      "sources": [
+        "https://shop.momofuku.com/",
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148",
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/custom.css?v=95416990893279569121790091148"
+      ]
+    },
+    "#232323": {
+      "count": 3,
+      "sources": [
+        "https://shop.momofuku.com/",
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/custom.css?v=95416990893279569121790091148"
+      ]
+    },
+    "#0000001a": {
+      "count": 3,
+      "sources": [
+        "https://shop.momofuku.com/",
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#fbf7ee": {
+      "count": 3,
+      "sources": [
+        "https://shop.momofuku.com/",
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148",
+        "https://shop.momofuku.com/#computed-style-snapshot"
+      ]
+    },
+    "#939393": {
+      "count": 3,
+      "sources": [
+        "https://shop.momofuku.com/",
+        "https://cdn.rebuyengine.com/onsite/css/rebuy-smart-cart-v2.a714bda0fe06468db4b9.min.css",
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#00000033": {
+      "count": 3,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#9a9a9a": {
+      "count": 3,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148",
+        "https://shop.momofuku.com/#computed-style-snapshot"
+      ]
+    },
+    "#e67338": {
+      "count": 3,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#dddddd": {
+      "count": 3,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148",
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/custom.css?v=95416990893279569121790091148"
+      ]
+    },
+    "#e9e7e7": {
+      "count": 3,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#00000026": {
+      "count": 3,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/custom.css?v=95416990893279569121790091148"
+      ]
+    },
+    "#44be70": {
+      "count": 3,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#387e3b": {
+      "count": 2,
+      "sources": [
+        "https://shop.momofuku.com/"
+      ]
+    },
+    "#424242": {
+      "count": 2,
+      "sources": [
+        "https://shop.momofuku.com/"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 2,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148",
+        "https://shop.momofuku.com/#computed-style-snapshot"
+      ]
+    },
+    "#691010": {
+      "count": 2,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#fce9c3": {
+      "count": 2,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#eaeaea": {
+      "count": 2,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#b55c1c": {
+      "count": 2,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#c4c4c4": {
+      "count": 2,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#f6a91d": {
+      "count": 2,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#f5a706": {
+      "count": 2,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#5a31f4": {
+      "count": 2,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/rebuy-smart-cart-v2.a714bda0fe06468db4b9.min.css"
+      ]
+    },
+    "#3c0def": {
+      "count": 2,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/rebuy-smart-cart-v2.a714bda0fe06468db4b9.min.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/rebuy-smart-cart-v2.a714bda0fe06468db4b9.min.css",
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#c0392b": {
+      "count": 2,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/rebuy-smart-cart-v2.a714bda0fe06468db4b9.min.css"
+      ]
+    },
+    "#28a745": {
+      "count": 2,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/rebuy-smart-cart-v2.a714bda0fe06468db4b9.min.css"
+      ]
+    },
+    "#57e1d9": {
+      "count": 2,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 2,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#10a443": {
+      "count": 2,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#ef4444": {
+      "count": 2,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#fff0f0": {
+      "count": 2,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#ffbdbd": {
+      "count": 2,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#637381": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/"
+      ]
+    },
+    "#fdb600": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/"
+      ]
+    },
+    "#faa41f": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/"
+      ]
+    },
+    "#b6b6b6": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/"
+      ]
+    },
+    "#f0a701": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/"
+      ]
+    },
+    "#ef4625": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/"
+      ]
+    },
+    "#fcf7ee": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/"
+      ]
+    },
+    "#c1afaf": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/"
+      ]
+    },
+    "#eaac37": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#ffff00": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#003d04": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#d32147": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#ffffffd9": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#767474": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#9e9c9c": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#ffd9d9": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#00000059": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#306e35": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#5a5858": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#5f9876": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#0000004d": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#005fcc": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#105d49": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#f8e9c7": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#97281b": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "#007aff": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/custom.css?v=95416990893279569121790091148"
+      ]
+    },
+    "#00000040": {
+      "count": 1,
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/custom.css?v=95416990893279569121790091148"
+      ]
+    },
+    "#545454": {
+      "count": 1,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/rebuy-smart-cart-v2.a714bda0fe06468db4b9.min.css"
+      ]
+    },
+    "#dfdfdf": {
+      "count": 1,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/rebuy-smart-cart-v2.a714bda0fe06468db4b9.min.css"
+      ]
+    },
+    "#ffc439": {
+      "count": 1,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/rebuy-smart-cart-v2.a714bda0fe06468db4b9.min.css"
+      ]
+    },
+    "#f2b544": {
+      "count": 1,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/rebuy-smart-cart-v2.a714bda0fe06468db4b9.min.css"
+      ]
+    },
+    "#dc3545": {
+      "count": 1,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/rebuy-smart-cart-v2.a714bda0fe06468db4b9.min.css"
+      ]
+    },
+    "#ffc107": {
+      "count": 1,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/rebuy-smart-cart-v2.a714bda0fe06468db4b9.min.css"
+      ]
+    },
+    "#212529": {
+      "count": 1,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/rebuy-smart-cart-v2.a714bda0fe06468db4b9.min.css"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 1,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#888888": {
+      "count": 1,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#f7f9fa": {
+      "count": 1,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#fafafa": {
+      "count": 1,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#cc0000": {
+      "count": 1,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#5cb85c": {
+      "count": 1,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#e3ebf6": {
+      "count": 1,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Graphik": [
+      "https://shop.momofuku.com/",
+      "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148",
+      "https://shop.momofuku.com/cdn/shop/t/530/assets/custom.css?v=95416990893279569121790091148",
+      "https://shop.momofuku.com/#computed-style-snapshot"
+    ],
+    "Graphik Initial": [
+      "https://shop.momofuku.com/"
+    ],
+    "MomoSharpie": [
+      "https://shop.momofuku.com/"
+    ],
+    "Roboto": [
+      "https://shop.momofuku.com/"
+    ],
+    "monospace": [
+      "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+    ],
+    "sans-serif": [
+      "https://shop.momofuku.com/",
+      "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148",
+      "https://shop.momofuku.com/cdn/shop/t/530/assets/custom.css?v=95416990893279569121790091148",
+      "https://shop.momofuku.com/#computed-style-snapshot"
+    ],
+    "swiper-icons": [
+      "https://shop.momofuku.com/cdn/shop/t/530/assets/custom.css?v=95416990893279569121790091148"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://shop.momofuku.com/",
+      "selector": ".fonts-loaded-1 body",
+      "declarations": "font-family: \"Graphik Initial\";"
+    },
+    {
+      "source": "https://shop.momofuku.com/",
+      "selector": ".fonts-loaded-2 body",
+      "declarations": "font-family: \"Graphik\";"
+    },
+    {
+      "source": "https://shop.momofuku.com/",
+      "selector": ":root",
+      "declarations": "--junipOutlineColor:#637381"
+    },
+    {
+      "source": "https://shop.momofuku.com/",
+      "selector": ".junip-product-summary-review-count",
+      "declarations": "color:inherit;margin-left:3px"
+    },
+    {
+      "source": "https://shop.momofuku.com/",
+      "selector": ":root",
+      "declarations": "--junipPrimaryColor: #000; --junipButtonColor: #000; --junipButtonOutlineColor: undefined80; --junipStarColor: #FDB600; --junipButtonTextColor: #000; --junipBorderColor: rgba(0, 0, 0, 0.08); --junipSurfaceColor: rgba(0, 0, 0, 0.03);"
+    },
+    {
+      "source": "https://shop.momofuku.com/",
+      "selector": ".tvg_promotional_products_HWQUuG_PromotionalProducts-top-bottom-navigation-arrow",
+      "declarations": "aspect-ratio:1;color:#fff;background:#000;border-radius:1.25rem;justify-content:center;align-items:center;width:1.25rem;height:1.25rem;min-height:auto;margin:0;padding:0;line-height:1;display:flex"
+    },
+    {
+      "source": "https://shop.momofuku.com/",
+      "selector": ".tvg_promotional_products_HWQUuG_PromotionalProducts-bottom-cta",
+      "declarations": "color:#fff;text-transform:uppercase;background-color:#000;border-radius:.3125rem;justify-self:center;align-items:center;width:auto;height:3.125rem;padding:0 2.5rem;font-size:1rem;font-weight:700;display:flex"
+    },
+    {
+      "source": "https://shop.momofuku.com/",
+      "selector": ".tvg_promotional_products_HWQUuG_PromotionalProducts-bottom-cta:focus",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://shop.momofuku.com/",
+      "selector": ".tvg_promotional_products_HWQUuG_PromotionalProducts",
+      "declarations": "background-color: #faebc8;"
+    },
+    {
+      "source": "https://shop.momofuku.com/",
+      "selector": ".tvg_promotional_products_HWQUuG_PromotionalProducts-bottom-cta",
+      "declarations": "color:#fff !important;text-transform:uppercase !important;background-color:#000 !important;border-radius:.3125rem !important;display:flex !important;justify-content:center !important;align-items:center !important;width:fit-content !important;min-width:150px !important;max-width:100% !important;height:auto !important;line-height:normal !important;padding:.75rem 1.5rem !important;font-size:1rem !important;font-weight:700 !important;flex-shrink:0 !important;text-align:center !important;margin:0 auto !important;"
+    },
+    {
+      "source": "https://shop.momofuku.com/",
+      "selector": ".tvg_feature_product_carousel_LtnLrW_ProductCarousel",
+      "declarations": "background-color:#faf7ee;flex-direction:column;gap:max(.5rem,1.66667vw);padding:1.875rem 0 2.375rem;display:flex;position:relative"
+    },
+    {
+      "source": "https://shop.momofuku.com/",
+      "selector": ".tvg_feature_product_carousel_LtnLrW_ProductCarousel-title",
+      "declarations": "text-align:center;color:#000;text-transform:uppercase;font-size:max(1.5rem,3.33333vw);font-style:normal;font-weight:700;line-height:116.66%"
+    },
+    {
+      "source": "https://shop.momofuku.com/",
+      "selector": ".tvg_feature_product_carousel_LtnLrW_ProductCarousel-categories",
+      "declarations": "color:#000;text-align:center;padding:.625rem 0 .625rem 1.25rem;font-size:max(.75rem,.972222vw)"
+    },
+    {
+      "source": "https://shop.momofuku.com/",
+      "selector": ".tvg_feature_product_carousel_LtnLrW_ProductCarousel-shopAll-link",
+      "declarations": "color:inherit;text-transform:uppercase;font-weight:inherit;border:1px solid #0000;width:fit-content;padding:max(.5rem,.694444vw) max(.625rem,1.04167vw);font-weight:600;line-height:100%"
+    },
+    {
+      "source": "https://shop.momofuku.com/",
+      "selector": ".tvg_feature_product_carousel_LtnLrW_ProductCarousel-category-button",
+      "declarations": "color:#000;text-transform:uppercase;font-size:max(.75rem,.972222vw);font-weight:inherit;background-color:#faebc8;border:1px solid #000;border-radius:.25rem;width:fit-content;padding:max(.5rem,.694444vw) max(.625rem,1.04167vw);font-weight:600;line-height:100%;transition:all .3s"
+    },
+    {
+      "source": "https://shop.momofuku.com/",
+      "selector": ".tvg_feature_product_carousel_LtnLrW_ProductCarousel-category-button.is-active",
+      "declarations": "color:#fff;background-color:#387e3b"
+    },
+    {
+      "source": "https://shop.momofuku.com/",
+      "selector": ".tvg_feature_product_carousel_LtnLrW_ProductCarousel div.tvg_feature_product_carousel_LtnLrW_ProductCarousel-product-card",
+      "declarations": "background-color:#faf7ee;border-top:2px solid #000;border-bottom:2px solid #000;border-right:2px solid #000;height:100%"
+    },
+    {
+      "source": "https://shop.momofuku.com/",
+      "selector": "-junip-star-fill: 61.35%\n--junip-star-fill: 100%\n--junip-star-fill: 100%\n--junip-star-fill: 100%\n--junip-star-fill: 100%\n--junip-star-fill: 57.56666666666668%\n\n",
+      "declarations": "background-color:#faebc8;flex-direction:column;padding-bottom:max(1.25rem,2.08333vw);display:flex;position:relative"
+    },
+    {
+      "source": "https://shop.momofuku.com/",
+      "selector": ".tvg_new_product_card_9VlfiW_ProductCard__badges__text span",
+      "declarations": "font-family:MomoSharpie;font-size:max(.75rem,.972222vw);font-style:normal;font-weight:400;line-height:100%"
+    },
+    {
+      "source": "https://shop.momofuku.com/",
+      "selector": ".tvg_new_product_card_9VlfiW_ProductCard__content__title",
+      "declarations": "color:#000;text-align:center;text-transform:uppercase;font-family:Graphik,sans-serif;font-size:max(.875rem,1.25vw);font-style:normal;font-weight:700;line-height:110%"
+    },
+    {
+      "source": "https://shop.momofuku.com/",
+      "selector": ".tvg_new_product_card_9VlfiW_ProductCard__content__priceInfo__price__compare",
+      "declarations": "color:#b6b6b6;font-size:max(.875rem,1.25vw);font-weight:700;text-decoration:line-through;display:inline-block;position:relative"
+    },
+    {
+      "source": "https://shop.momofuku.com/",
+      "selector": ".tvg_new_product_card_9VlfiW_ProductCard__content__tagContainer__tag",
+      "declarations": "text-align:center;text-transform:capitalize;color:#232323;border:1px solid #0000001a;border-radius:40px;justify-content:center;align-items:center;width:fit-content;padding:.125rem .625rem;font-size:12px;line-height:120%;display:flex"
+    },
+    {
+      "source": "https://shop.momofuku.com/",
+      "selector": ".tvg_new_product_card_9VlfiW_ProductCard__controls__button",
+      "declarations": "color:#fff;text-transform:uppercase;text-align:center;background-color:#000;border-radius:.3125rem;width:9.9375rem;padding:.75rem 1.25rem;font-family:Graphik,sans-serif;font-size:max(.875rem,1.11111vw);font-weight:700;line-height:max(1rem,1.25vw)"
+    },
+    {
+      "source": "https://shop.momofuku.com/",
+      "selector": ".tvg_new_product_card_9VlfiW_ProductCard__controls__button:focus",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://shop.momofuku.com/",
+      "selector": ".tvg_featured_recipes_rc3hrG_FeaturedRecipes__wrapper__nav__button",
+      "declarations": "color:#fff;align-items:baseline;height:auto;padding:0;display:flex"
+    },
+    {
+      "source": "https://shop.momofuku.com/",
+      "selector": ".tvg_featured_recipes_rc3hrG_FeaturedRecipes__wrapper__nav__button__label",
+      "declarations": "text-align:center;border-radius:.5rem .5rem 0 0;justify-content:center;align-items:center;height:100%;padding:.75rem .5625rem .6875rem;font-family:Graphik,sans-serif;font-size:max(1rem,1.38889vw);font-weight:700;display:flex;overflow:hidden"
+    },
+    {
+      "source": "https://shop.momofuku.com/",
+      "selector": ".tvg_featured_recipes_rc3hrG_FeaturedRecipes__wrapper__tabs__tab__form__productCard__rightSide__atc",
+      "declarations": "color:#fff;text-transform:uppercase;background-color:#000;border-radius:.3125rem;width:100%;font-family:Graphik,sans-serif;font-size:1rem;font-weight:700;line-height:2.5rem"
+    },
+    {
+      "source": "https://shop.momofuku.com/",
+      "selector": ".rebuy-button",
+      "declarations": "font-weight: bold;\n        font-family: Graphik,sans-serif;\n        text-transform: uppercase;"
+    },
+    {
+      "source": "https://shop.momofuku.com/",
+      "selector": ".rebuy-cart__flyout-recommendations .rebuy-product-block .rebuy-money.compare-at",
+      "declarations": "color: #666;"
+    },
+    {
+      "source": "https://shop.momofuku.com/",
+      "selector": ".rebuy-cart__flyout-recommendations .rebuy-button",
+      "declarations": "color: white;\n        background-color: black;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "Momofuku Goods | Shop Chili Crunch, Seasoned Salts, and More",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "a69d4d7123508871443dc282293b84abae38f653becb357945d3d71a46308db9"
+    }
+  ],
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.momofuku.com/",
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148",
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/custom.css?v=95416990893279569121790091148",
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css",
+        "https://shop.momofuku.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.momofuku.com/",
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148",
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/custom.css?v=95416990893279569121790091148",
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css",
+        "https://shop.momofuku.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.momofuku.com/",
+        "https://shop.momofuku.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148",
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/custom.css?v=95416990893279569121790091148",
+        "https://cdn.rebuyengine.com/onsite/css/rebuy-smart-cart-v2.a714bda0fe06468db4b9.min.css",
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css",
+        "https://shop.momofuku.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.momofuku.com/",
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/custom.css?v=95416990893279569121790091148"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/rebuy-smart-cart-v2.a714bda0fe06468db4b9.min.css",
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148",
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/custom.css?v=95416990893279569121790091148"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.momofuku.com/",
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.momofuku.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.momofuku.com/",
+        "https://shop.momofuku.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148",
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/custom.css?v=95416990893279569121790091148",
+        "https://cdn.rebuyengine.com/onsite/css/rebuy-smart-cart-v2.a714bda0fe06468db4b9.min.css",
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css",
+        "https://shop.momofuku.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.accent-chili": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.momofuku.com/",
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148",
+        "https://shop.momofuku.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.accent-orange": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148"
+      ]
+    },
+    "colors.accent-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.momofuku.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.momofuku.com/",
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/index.css?v=124270977706828217831790091148",
+        "https://shop.momofuku.com/cdn/shop/t/530/assets/custom.css?v=95416990893279569121790091148",
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css",
+        "https://shop.momofuku.com/#computed-style-snapshot"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.flavor-filter-pill": {
+      "status": "inferred"
+    }
+  }
+}

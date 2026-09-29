@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Abbio
-description: Abbio is a cookware brand that feels like a quiet morning in a well-loved kitchen — calm, capable, and utterly unpretentious. The palette is built on a foundation of soft blues and muted neutrals, with `#5b5b5b` as the anchoring ink for body text, giving every product description and recipe step a grounded, readable presence. The brand’s signature breath comes from a family of ice-blue tones: `#c1e9ff`, `#e1fcff`, `#bde7ff`, and `#ecf7fc` layer across surfaces, cards, and soft backgrounds, creating a visual temperature that reads as fresh rather than cold. These are not aggressive accent colors — they are washes, used generously on `{colors.surface-soft}` and `{colors.surface-card}` backgrounds, making product photography the hero. A whisper of lavender appears in `#eceafb` and `#f0edfe`, used sparingly for badges or secondary highlights, adding a subtle warmth that keeps the palette from feeling clinical. Typography runs on Shopify Sans Medium and Shopify Sans Regular, a clean, slightly condensed geometric sans that feels modern without chasing trends. Display sizes are restrained — there is no heavy 700-weight hero text; instead, the brand trusts generous whitespace and the soft `{rounded.md}` (12px) and `{rounded.lg}` (20px) corner radii on cards and buttons to create a tactile, approachable interface. Buttons are pill-shaped with `{rounded.full}` for primary actions, echoing the rounded forms of cookware itself. The overall mood is one of gentle competence — Abbio doesn’t shout about its quality; it lets the soft blue glow of its UI and the clarity of its photography whisper it.
+name: "Abbio"
+source_url: "https://abbiokitchen.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Abbio is a cookware brand that feels like a quiet morning in a well-loved kitchen — calm, capable, and utterly unpretentious. The palette is built on a foundation of soft blues and muted neutrals, with `#5b5b5b` as the anchoring ink for body text, giving every product description and recipe step a grounded, readable presence. The brand’s signature breath comes from a family of ice-blue tones: `#c1e9ff`, `#e1fcff`, `#bde7ff`, and `#ecf7fc` layer across surfaces, cards, and soft backgrounds, creating a visual temperature that reads as fresh rather than cold. These are not aggressive accent colors — they are washes, used generously on `{colors.surface-soft}` and `{colors.surface-card}` backgrounds, making product photography the hero. A whisper of lavender appears in `#eceafb` and `#f0edfe`, used sparingly for badges or secondary highlights, adding a subtle warmth that keeps the palette from feeling clinical. Typography runs on Shopify Sans Medium and Shopify Sans Regular, a clean, slightly condensed geometric sans that feels modern without chasing trends. Display sizes are restrained — there is no heavy 700-weight hero text; instead, the brand trusts generous whitespace and the soft `{rounded.md}` (12px) and `{rounded.lg}` (20px) corner radii on cards and buttons to create a tactile, approachable interface. Buttons are pill-shaped with `{rounded.full}` for primary actions, echoing the rounded forms of cookware itself. The overall mood is one of gentle competence — Abbio doesn’t shout about its quality; it lets the soft blue glow of its UI and the clarity of its photography whisper it.
 
 colors:
   primary: "#c1e9ff"
@@ -406,6 +410,8 @@ components:
 - Accordion sections remain collapsed by default on all breakpoints, expanding on tap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components beyond primary/secondary buttons could not be reliably extracted — specific color transitions, shadow effects, and animation durations are inferred from common Shopify patterns
 - Error state styling for forms (error messages, iconography, border colors) is not fully documented — the `text-input-error` token is a best-guess based on convention

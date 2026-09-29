@@ -1,0 +1,306 @@
+{
+  "source_url": "https://www.analogman.com",
+  "final_url": "https://www.analogman.com/",
+  "captured_at": "2026-09-29T04:21:06.555630+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://www.analogman.com",
+      "final_url": "https://www.analogman.com/",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "62a6edc7d19efb03812336ed20962a07f91dea9358130ed91f0f5be18d871a4e",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.analogman.com/#computed-style-snapshot",
+      "final_url": "https://www.analogman.com/#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "6f6d9be0108dbfb27203201a36519ddc7f7fd144525b433a721a182531ed18f3",
+      "snapshot": "rendered-style-1.css"
+    }
+  ],
+  "colors": {
+    "#0000ee": {
+      "count": 250,
+      "sources": [
+        "https://www.analogman.com/#computed-style-snapshot"
+      ]
+    },
+    "#000000": {
+      "count": 224,
+      "sources": [
+        "https://www.analogman.com/#computed-style-snapshot"
+      ]
+    },
+    "#ffffff": {
+      "count": 1,
+      "sources": [
+        "https://www.analogman.com/#computed-style-snapshot"
+      ]
+    }
+  },
+  "font_families": {
+    "Times": [
+      "https://www.analogman.com/#computed-style-snapshot"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.analogman.com/#computed-style-snapshot",
+      "selector": ".sample-0-body",
+      "declarations": "color:rgb(0, 0, 0);background-color:rgb(255, 255, 255);border-top-color:rgb(0, 0, 0);font-family:Times"
+    },
+    {
+      "source": "https://www.analogman.com/#computed-style-snapshot",
+      "selector": ".sample-4-h1",
+      "declarations": "color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(0, 0, 0);font-family:Times"
+    },
+    {
+      "source": "https://www.analogman.com/#computed-style-snapshot",
+      "selector": ".sample-137-h1",
+      "declarations": "color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(0, 0, 0);font-family:Times"
+    },
+    {
+      "source": "https://www.analogman.com/#computed-style-snapshot",
+      "selector": ".sample-163-h1",
+      "declarations": "color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(0, 0, 0);font-family:Times"
+    },
+    {
+      "source": "https://www.analogman.com/#computed-style-snapshot",
+      "selector": ".sample-165-h1",
+      "declarations": "color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(0, 0, 0);font-family:Times"
+    },
+    {
+      "source": "https://www.analogman.com/#computed-style-snapshot",
+      "selector": ".sample-167-h1",
+      "declarations": "color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(0, 0, 0);font-family:Times"
+    },
+    {
+      "source": "https://www.analogman.com/#computed-style-snapshot",
+      "selector": ".sample-170-h1",
+      "declarations": "color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(0, 0, 0);font-family:Times"
+    },
+    {
+      "source": "https://www.analogman.com/#computed-style-snapshot",
+      "selector": ".sample-173-h1",
+      "declarations": "color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(0, 0, 0);font-family:Times"
+    },
+    {
+      "source": "https://www.analogman.com/#computed-style-snapshot",
+      "selector": ".sample-190-h1",
+      "declarations": "color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(0, 0, 0);font-family:Times"
+    },
+    {
+      "source": "https://www.analogman.com/#computed-style-snapshot",
+      "selector": ".sample-194-h1",
+      "declarations": "color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(0, 0, 0);font-family:Times"
+    },
+    {
+      "source": "https://www.analogman.com/#computed-style-snapshot",
+      "selector": ".sample-203-h1",
+      "declarations": "color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(0, 0, 0);font-family:Times"
+    },
+    {
+      "source": "https://www.analogman.com/#computed-style-snapshot",
+      "selector": ".sample-207-h1",
+      "declarations": "color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(0, 0, 0);font-family:Times"
+    },
+    {
+      "source": "https://www.analogman.com/#computed-style-snapshot",
+      "selector": ".sample-210-h1",
+      "declarations": "color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(0, 0, 0);font-family:Times"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "aNaLoG.MaN Custom Guitar Effects Pedals",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "4f2571ca0ad91d1fac24982d1e285a08b6c4540e25ca35ae145f8385e142de5d"
+    }
+  ],
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogman.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogman.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogman.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogman.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogman.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogman.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogman.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogman.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogman.com/#computed-style-snapshot"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.pedal-index-row": {
+      "status": "inferred"
+    }
+  }
+}

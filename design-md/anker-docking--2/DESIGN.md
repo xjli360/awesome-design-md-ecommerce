@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Anker
-description: A brand that lives in the gap between industrial reliability and consumer warmth, Anker’s palette is anchored by a deep near-black ink (#080a0f) and a signature cyan (#00befa) that reads as engineered energy — the kind of blue you’d see on a high-end power meter or a charging indicator LED. The canvas is a cool off-white (#f5f5f7), not a sterile #ffffff, which softens the technical product photography of charging docks, cables, and power banks. Secondary accents of green (#00db84) and orange (#ff9900) appear sparingly — the green on “GaN” badges and fast-charge indicators, the orange on limited-edition or promotional elements. Typography runs system-native (-apple-system, Helvetica Neue) at moderate weights (400–600), never competing with the product itself; the brand trusts its industrial design and spec sheets to do the selling. Corners are gently rounded ({rounded.sm} on buttons, {rounded.md} on product cards), avoiding the harshness of a pure rectangle while staying far from the pill-shaped friendliness of consumer lifestyle brands. The nav bar sits at 64px, compact and utilitarian, with a sticky search bar that collapses on mobile. Anker’s design voice says: this equipment will outlast your expectations, and it looks good enough to leave on your desk.
+name: "Anker"
+source_url: "https://www.anker.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A brand that lives in the gap between industrial reliability and consumer warmth, Anker’s palette is anchored by a deep near-black ink (#080a0f) and a signature cyan (#00befa) that reads as engineered energy — the kind of blue you’d see on a high-end power meter or a charging indicator LED. The canvas is a cool off-white (#f5f5f7), not a sterile #ffffff, which softens the technical product photography of charging docks, cables, and power banks. Secondary accents of green (#00db84) and orange (#ff9900) appear sparingly — the green on “GaN” badges and fast-charge indicators, the orange on limited-edition or promotional elements. Typography runs system-native (-apple-system, Helvetica Neue) at moderate weights (400–600), never competing with the product itself; the brand trusts its industrial design and spec sheets to do the selling. Corners are gently rounded ({rounded.sm} on buttons, {rounded.md} on product cards), avoiding the harshness of a pure rectangle while staying far from the pill-shaped friendliness of consumer lifestyle brands. The nav bar sits at 64px, compact and utilitarian, with a sticky search bar that collapses on mobile. Anker’s design voice says: this equipment will outlast your expectations, and it looks good enough to leave on your desk.
 
 colors:
   primary: "#00befa"
@@ -347,6 +351,8 @@ components:
 - Hero images switch from landscape to portrait crop on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Extracted hex colors include many framework defaults and checkout-widget colors (Shopify Pay pink #f81ce5, Afterpay blue #0070f3, Klarna pink #ff0080). The brand’s true primary (#00befa) was identified as the most distinctive and frequently used accent, but hover states and disabled variants are inferred.
 - No custom font family was found beyond system fonts. Anker may use a custom typeface (e.g., Anker Sans) that is loaded via JavaScript or a CDN not captured in the extraction. The system-native stack is used as a fallback.

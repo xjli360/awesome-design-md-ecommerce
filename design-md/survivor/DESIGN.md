@@ -1,13 +1,17 @@
 ---
 version: alpha
-name: Survivor
-description: Every Survivor product detail page opens not with a lifestyle image but with a grid of certification marks — MIL-STD-810G, tested drop heights, IP ratings — treating engineering documentation as the primary visual event on the screen. The brand's palette runs on a white canvas with a near-black header bar (#0f0f0f), and the single chromatic decision that carries all urgency is a burnt-orange primary (#e85d1a) — the exact register of industrial safety marking, not the polished coral of consumer electronics. This orange appears on the Add to Cart button, the protection-tier active state, the hover ring on compatibility chips, and nowhere else; there is no secondary accent diluting its signal authority.
+name: "Survivor"
+source_url: "https://www.survivorcase.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Every Survivor product detail page opens not with a lifestyle image but with a grid of certification marks — MIL-STD-810G, tested drop heights, IP ratings — treating engineering documentation as the primary visual event on the screen. The brand's palette runs on a white canvas with a near-black header bar (#0f0f0f), and the single chromatic decision that carries all urgency is a burnt-orange primary (#e85d1a) — the exact register of industrial safety marking, not the polished coral of consumer electronics. This orange appears on the Add to Cart button, the protection-tier active state, the hover ring on compatibility chips, and nowhere else; there is no secondary accent diluting its signal authority.
 
-Typography divides into two registers. Display headings use a condensed sans-serif — tall, tightly tracked at weights above 700 — compressing product names and protection tiers into impact-poster blocks that reference gear catalogs and military procurement sheets rather than editorial lifestyle copy. Body and specification text drops to a regular-weight system sans at 15–16px with expanded leading, giving compatibility tables and drop-test footnotes breathing room. All classification labels and section headers print uppercase with `{typography.label-caps}` letter-spacing, reinforcing the nomenclature of a technical datasheet.
+  Typography divides into two registers. Display headings use a condensed sans-serif — tall, tightly tracked at weights above 700 — compressing product names and protection tiers into impact-poster blocks that reference gear catalogs and military procurement sheets rather than editorial lifestyle copy. Body and specification text drops to a regular-weight system sans at 15–16px with expanded leading, giving compatibility tables and drop-test footnotes breathing room. All classification labels and section headers print uppercase with `{typography.label-caps}` letter-spacing, reinforcing the nomenclature of a technical datasheet.
 
-Product cards carry a compatibility-first information hierarchy: device model sits at the top of the card above the product name, a reversal of typical marketplace logic that reflects Survivor's SKU architecture — the right fit matters more than the product line name. A protection tier chip styled with `{typography.badge-caps}` appears directly below the device identifier, color-coded in tiers against the white card field. Cards use `{rounded.xs}` corners and a one-pixel `{colors.hairline}` border, reading as precision panels rather than soft marketplace tiles.
+  Product cards carry a compatibility-first information hierarchy: device model sits at the top of the card above the product name, a reversal of typical marketplace logic that reflects Survivor's SKU architecture — the right fit matters more than the product line name. A protection tier chip styled with `{typography.badge-caps}` appears directly below the device identifier, color-coded in tiers against the white card field. Cards use `{rounded.xs}` corners and a one-pixel `{colors.hairline}` border, reading as precision panels rather than soft marketplace tiles.
 
-The device compatibility selector — always the first filter step — uses a segmented chip row with `{rounded.xs}` form, not a dropdown, making the filter gesture feel closer to hardware configuration than a standard e-commerce facet. The footer shifts to a full-width dark band at `{colors.surface-dark}`, with all-caps section labels at wide letter-spacing, mimicking the column headers of a product specification sheet and closing the page in the same register it opened.
+  The device compatibility selector — always the first filter step — uses a segmented chip row with `{rounded.xs}` form, not a dropdown, making the filter gesture feel closer to hardware configuration than a standard e-commerce facet. The footer shifts to a full-width dark band at `{colors.surface-dark}`, with all-caps section labels at wide letter-spacing, mimicking the column headers of a product specification sheet and closing the page in the same register it opened.
 
 colors:
   primary: "#e85d1a"
@@ -342,6 +346,8 @@ components:
 - Certification badge strip in hero wraps to two rows on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No hex colors could be extracted from the live site; all palette values are inferred from brand-knowledge of rugged protection case aesthetics and are unverified against the actual site implementation
 - No font-family stacks were extracted; typography uses Barlow Condensed (a common choice for military/industrial brands) as a best-guess display font with system-ui fallback — actual fonts may differ entirely

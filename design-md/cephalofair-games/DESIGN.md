@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Cephalofair Games
-description: A deep, saturated blue (#006fcf) anchors a brand that sells epic strategy — board games that take hours, not minutes, and reward repeated plays. That blue, the most distinctive and frequent color extracted from the live site, appears on primary buttons, navigation bars, and hero backgrounds, often paired with a warm, high-contrast yellow (#ffc600) used for badges, sale tags, and accent highlights. The palette is deliberately limited: a near-black ink (#1d1c1c) for body text, a softer charcoal (#232323) for secondary text, and a clean white canvas (#dedede as a warm off-white, with pure white likely used on cards). Orange (#f48120) appears as a secondary accent, likely for pre-order or limited-edition callouts. The typography stack — Geneva, Tahoma, Verdana, sans-serif — is pragmatic and system-native, suggesting the brand prioritizes legibility and load speed over custom typefaces. Buttons use `{rounded.sm}` corners, cards use `{rounded.md}`, and the overall feel is functional and direct: a storefront for complex games, not a lifestyle brand. The site is built on Shopify, so checkout widgets introduce extraneous colors (Klarna pink `#cc0066`, Afterpay blue `#4285f4`, Google Pay colors) that should be ignored when defining the brand palette. The true Cephalofair voice is confident, game-first, and unpretentious — the blue says "trust us, this game is worth your time," the yellow says "this deal is worth your attention."
+name: "Cephalofair Games"
+source_url: "https://cephalofair.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep, saturated blue (#006fcf) anchors a brand that sells epic strategy — board games that take hours, not minutes, and reward repeated plays. That blue, the most distinctive and frequent color extracted from the live site, appears on primary buttons, navigation bars, and hero backgrounds, often paired with a warm, high-contrast yellow (#ffc600) used for badges, sale tags, and accent highlights. The palette is deliberately limited: a near-black ink (#1d1c1c) for body text, a softer charcoal (#232323) for secondary text, and a clean white canvas (#dedede as a warm off-white, with pure white likely used on cards). Orange (#f48120) appears as a secondary accent, likely for pre-order or limited-edition callouts. The typography stack — Geneva, Tahoma, Verdana, sans-serif — is pragmatic and system-native, suggesting the brand prioritizes legibility and load speed over custom typefaces. Buttons use `{rounded.sm}` corners, cards use `{rounded.md}`, and the overall feel is functional and direct: a storefront for complex games, not a lifestyle brand. The site is built on Shopify, so checkout widgets introduce extraneous colors (Klarna pink `#cc0066`, Afterpay blue `#4285f4`, Google Pay colors) that should be ignored when defining the brand palette. The true Cephalofair voice is confident, game-first, and unpretentious — the blue says "trust us, this game is worth your time," the yellow says "this deal is worth your attention."
 
 colors:
   primary: "#006fcf"
@@ -341,6 +345,8 @@ components:
 - Hero text reduces in size on mobile to prevent overflow.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for buttons and cards are inferred from common patterns; exact colors and transitions were not extractable from the static HTML/CSS.
 - Error and success styling for forms (e.g., validation messages, input borders) is estimated based on standard web conventions; the brand may use custom colors.

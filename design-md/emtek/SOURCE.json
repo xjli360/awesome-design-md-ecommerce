@@ -1,0 +1,626 @@
+{
+  "source_url": "https://emtek.com",
+  "final_url": "https://www.emtek.com:443/",
+  "captured_at": "2026-09-28T04:20:54.933537+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://emtek.com",
+      "final_url": "https://www.emtek.com:443/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "caecc4991f71815382367192253f9f87e165bc8308f7fd385a5c1f9c686e0e20",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css",
+      "final_url": "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "06e5e5983e153a5db674d2087f509ff04ffea835e557ce0e3d458bfc36e8acec",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css",
+      "final_url": "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "9befaa0ba8a9323af62e92c86121c12033fa4d8ffa9dbf3ed419e601e2342caa",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.emtek.com:443/_next/static/css/75a1a63de484ddd7.css",
+      "final_url": "https://www.emtek.com:443/_next/static/css/75a1a63de484ddd7.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "475294016bd25be95df3195fe90dac3850988f94833ee2bb798b2c5203914c25",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.emtek.com:443/_next/static/css/b9bf6079653dfe5b.css",
+      "final_url": "https://www.emtek.com:443/_next/static/css/b9bf6079653dfe5b.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "86596d8a5c9381573a2bb550007a972e244b8cf28995f6c1f6d27c8b34989f72",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.emtek.com:443/_next/static/css/869c6974d41c1484.css",
+      "final_url": "https://www.emtek.com:443/_next/static/css/869c6974d41c1484.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "89a92a3211811b59e7b95efe7e92f35d13dc108fad655a819a2ec65bba1d4836",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 33,
+      "sources": [
+        "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css",
+        "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css",
+        "https://www.emtek.com:443/_next/static/css/75a1a63de484ddd7.css",
+        "https://www.emtek.com:443/_next/static/css/b9bf6079653dfe5b.css"
+      ]
+    },
+    "#697278": {
+      "count": 31,
+      "sources": [
+        "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css",
+        "https://www.emtek.com:443/_next/static/css/75a1a63de484ddd7.css",
+        "https://www.emtek.com:443/_next/static/css/b9bf6079653dfe5b.css",
+        "https://www.emtek.com:443/_next/static/css/869c6974d41c1484.css"
+      ]
+    },
+    "#dbc598": {
+      "count": 23,
+      "sources": [
+        "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css",
+        "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css",
+        "https://www.emtek.com:443/_next/static/css/869c6974d41c1484.css"
+      ]
+    },
+    "#e6e9eb": {
+      "count": 21,
+      "sources": [
+        "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css",
+        "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css",
+        "https://www.emtek.com:443/_next/static/css/75a1a63de484ddd7.css",
+        "https://www.emtek.com:443/_next/static/css/869c6974d41c1484.css"
+      ]
+    },
+    "#616f6c": {
+      "count": 15,
+      "sources": [
+        "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css",
+        "https://www.emtek.com:443/_next/static/css/b9bf6079653dfe5b.css",
+        "https://www.emtek.com:443/_next/static/css/869c6974d41c1484.css"
+      ]
+    },
+    "#b9bdc1": {
+      "count": 8,
+      "sources": [
+        "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css",
+        "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css"
+      ]
+    },
+    "#e2d1ad": {
+      "count": 5,
+      "sources": [
+        "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css"
+      ]
+    },
+    "#1a4456": {
+      "count": 3,
+      "sources": [
+        "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css"
+      ]
+    },
+    "#000000": {
+      "count": 2,
+      "sources": [
+        "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css",
+        "https://www.emtek.com:443/_next/static/css/869c6974d41c1484.css"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 2,
+      "sources": [
+        "https://www.emtek.com:443/_next/static/css/869c6974d41c1484.css"
+      ]
+    },
+    "#922525": {
+      "count": 1,
+      "sources": [
+        "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css"
+      ]
+    },
+    "#8c734c": {
+      "count": 1,
+      "sources": [
+        "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css"
+      ]
+    },
+    "#6b7261": {
+      "count": 1,
+      "sources": [
+        "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css"
+      ]
+    },
+    "#616e81": {
+      "count": 1,
+      "sources": [
+        "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css"
+      ]
+    },
+    "#e2c5c2": {
+      "count": 1,
+      "sources": [
+        "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css"
+      ]
+    },
+    "#d3cec2": {
+      "count": 1,
+      "sources": [
+        "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css"
+      ]
+    },
+    "#b6bbb7": {
+      "count": 1,
+      "sources": [
+        "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css"
+      ]
+    },
+    "#6d706e": {
+      "count": 1,
+      "sources": [
+        "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css"
+      ]
+    },
+    "#314f4a": {
+      "count": 1,
+      "sources": [
+        "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css"
+      ]
+    },
+    "#a9a9a9": {
+      "count": 1,
+      "sources": [
+        "https://www.emtek.com:443/_next/static/css/869c6974d41c1484.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css"
+    ],
+    "Apple Color Emoji": [
+      "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css"
+    ],
+    "Arial": [
+      "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css"
+    ],
+    "Consolas": [
+      "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css"
+    ],
+    "Helvetica": [
+      "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css"
+    ],
+    "Lato": [
+      "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css"
+    ],
+    "Liberation Mono": [
+      "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css"
+    ],
+    "Menlo": [
+      "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css"
+    ],
+    "Ophian": [
+      "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css"
+    ],
+    "Roboto": [
+      "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css"
+    ],
+    "SFMono-Regular": [
+      "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css"
+    ],
+    "Segoe UI": [
+      "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css"
+    ],
+    "Segoe UI Emoji": [
+      "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css"
+    ],
+    "monospace": [
+      "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css"
+    ],
+    "sans-serif": [
+      "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css"
+    ],
+    "system-ui": [
+      "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css"
+    ],
+    "ui-monospace": [
+      "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css",
+      "selector": ":root",
+      "declarations": "--color-black:#000;--color-red:#922525;--font-base:\"Lato\";--font-secondary:\"Ophian\";--text-input-border-color:#b9bdc1;--main-nav--search-input-background-color:#fff;--main-nav--search-input-color:var(--color-black);--footer-nav--bg-color:#1a4456;--footer-nav--color-primary:#fff;--footer-nav--color-secondary:#fff"
+    },
+    {
+      "source": "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css",
+      "selector": "body",
+      "declarations": "font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji"
+    },
+    {
+      "source": "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;line-height:1.15;margin:0"
+    },
+    {
+      "source": "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css",
+      "selector": ":root",
+      "declarations": "--flexihero-text-light:#fff;--flexihero-text-dark:var(--color-black);--flexihero-padding:0;--flexihero-color1:#1a4456;--flexihero-color1-dark-mode:#b9bdc1;--flexihero-color2:#616f6c;--flexihero-color2-dark-mode:#e6e9eb;--flexihero-color3:#dbc598;--flexihero-color3-dark-mode:#616f6c;--flexihero-color4:#e6e9eb;--flexihero-color4-dark-mode:#616f6c;--flexihero-color5:#b9bdc1;--flexihero-color5-dark-mode:#616f6c;--flexihero-color6:#8c734c;--flexihero-color6-dark-mode:#b9bdc1;--flexihero-color7:#6b7261;--flexihero-color7-dark-mode:#e6e9eb;--flexihero-color8:#616e81;--flexihero-color8-dark-mode:#616f6c;--flexihero-color9:#e2c5c2;--flexihero-color9-dark-mode:#616f6c;--flexihero-color10:#d3cec2;--fle"
+    },
+    {
+      "source": "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css",
+      "selector": "body",
+      "declarations": "background-color:var(--body--bg-color,#fff);margin:0;padding:0;font-family:var(--font-base),\"sans-serif\";font-size:16px;line-height:1.5em;font-weight:400;letter-spacing:0;text-transform:none"
+    },
+    {
+      "source": "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css",
+      "selector": ".h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6",
+      "declarations": "margin:.65em 0;font-family:var(--font-base),\"sans-serif\";font-weight:300"
+    },
+    {
+      "source": "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css",
+      "selector": ":where(.button_buttonReset__zvqiF)",
+      "declarations": "display:inline-block;-webkit-appearance:none;-moz-appearance:none;appearance:none;padding:0;border:0;background:transparent;color:inherit;font-family:inherit;font-size:1em;cursor:pointer"
+    },
+    {
+      "source": "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css",
+      "selector": ":where(.button_linkReset__LFkPu)",
+      "declarations": "color:inherit;text-decoration:none"
+    },
+    {
+      "source": "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css",
+      "selector": ".button_link__EhW_w.button_disabled__MUWUl,.button_link__EhW_w:disabled",
+      "declarations": "cursor:default;pointer-events:none;color:#697278"
+    },
+    {
+      "source": "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css",
+      "selector": ".button_link__EhW_w:visited",
+      "declarations": "color:inherit"
+    },
+    {
+      "source": "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css",
+      "selector": ".button_button__gdiPv",
+      "declarations": "display:inline-block;-webkit-appearance:none;-moz-appearance:none;appearance:none;background:transparent;color:inherit;font-family:inherit;font-size:1em;font-family:var(--font-secondary),sans-serif;font-weight:400;letter-spacing:.07em;line-height:1.4em;text-transform:uppercase;font-family:var(--button--font-family,var(--font-secondary),sans-serif);position:relative;padding:11px 30px;background-color:var(--button--bg-color,#dbc598);border:1px solid transparent;color:var(--button--font-color,var(--color-black));font-size:14px;text-decoration:none;cursor:pointer;transition:background-color .2s,border-color .2s,color .2s"
+    },
+    {
+      "source": "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css",
+      "selector": ".button_button__gdiPv.button_disabled__MUWUl.button_loading__GMsNL,.button_button__gdiPv.button_loading__GMsNL,.button_button__gdiPv:disabled.button_loading__GM",
+      "declarations": "color:transparent"
+    },
+    {
+      "source": "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css",
+      "selector": ".button_buttonPrimary__40vPg",
+      "declarations": "display:inline-block;-webkit-appearance:none;-moz-appearance:none;appearance:none;background:transparent;color:inherit;font-family:inherit;font-size:1em;font-family:var(--font-secondary),sans-serif;font-weight:400;letter-spacing:.07em;line-height:1.4em;text-transform:uppercase;font-family:var(--button--font-family,var(--font-secondary),sans-serif);position:relative;padding:11px 30px;background-color:var(--button--bg-color,#dbc598);border:1px solid transparent;color:var(--button--font-color,var(--color-black));font-size:14px;text-decoration:none;cursor:pointer;transition:background-color .2s,border-color .2s,color .2s"
+    },
+    {
+      "source": "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css",
+      "selector": ".button_buttonPrimary__40vPg.button_disabled__MUWUl.button_loading__GMsNL,.button_buttonPrimary__40vPg.button_loading__GMsNL,.button_buttonPrimary__40vPg:disabl",
+      "declarations": "color:transparent"
+    },
+    {
+      "source": "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css",
+      "selector": ".button_buttonPrimary__40vPg",
+      "declarations": "background-color:var(--button-primary--bg-color,#dbc598);border-color:var(--button-primary--border-color,#dbc598)"
+    },
+    {
+      "source": "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css",
+      "selector": ".button_buttonPrimary__40vPg:hover:not(.button_loading__GMsNL)",
+      "declarations": "background-color:var(--button-primary--hover-bg-color,#e2d1ad);border-color:var(--button-primary--hover-border-color,#e2d1ad)"
+    },
+    {
+      "source": "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css",
+      "selector": ".button_buttonPrimary__40vPg.button_disabled__MUWUl,.button_buttonPrimary__40vPg:disabled",
+      "declarations": "background-color:var(--button-primary--disabled-bg-color,#e6e9eb);border-color:var(--button-primary--disabled-border-color,#e6e9eb);color:var(--button-primary--disabled-font-color,#697278)"
+    },
+    {
+      "source": "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css",
+      "selector": ".button_buttonSecondary__9eRQz",
+      "declarations": "display:inline-block;-webkit-appearance:none;-moz-appearance:none;appearance:none;background:transparent;color:inherit;font-family:inherit;font-size:1em;font-family:var(--font-secondary),sans-serif;font-weight:400;letter-spacing:.07em;line-height:1.4em;text-transform:uppercase;font-family:var(--button--font-family,var(--font-secondary),sans-serif);position:relative;padding:11px 30px;background-color:var(--button--bg-color,#dbc598);border:1px solid transparent;color:var(--button--font-color,var(--color-black));font-size:14px;text-decoration:none;cursor:pointer;transition:background-color .2s,border-color .2s,color .2s"
+    },
+    {
+      "source": "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css",
+      "selector": ".button_buttonSecondary__9eRQz.button_disabled__MUWUl.button_loading__GMsNL,.button_buttonSecondary__9eRQz.button_loading__GMsNL,.button_buttonSecondary__9eRQz:",
+      "declarations": "color:transparent"
+    },
+    {
+      "source": "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css",
+      "selector": ".button_buttonSecondary__9eRQz",
+      "declarations": "background-color:transparent;border-color:var(--color-black);color:var(--button-secondary--font-color,var(--color-black))"
+    },
+    {
+      "source": "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css",
+      "selector": ".button_buttonSecondary__9eRQz:hover:not(.button_loading__GMsNL)",
+      "declarations": "background-color:var(--color-black);color:#fff"
+    },
+    {
+      "source": "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css",
+      "selector": ".button_buttonSecondary__9eRQz.button_disabled__MUWUl,.button_buttonSecondary__9eRQz:disabled",
+      "declarations": "background-color:transparent;border-color:var(--button-secondary--disabled-border-color,#e6e9eb);color:var(--button-secondary--disabled-font-color,#697278)"
+    },
+    {
+      "source": "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css",
+      "selector": ".button_buttonText__LYAdt",
+      "declarations": "display:inline-block;-webkit-appearance:none;-moz-appearance:none;appearance:none;background:transparent;font-family:inherit;font-size:1em;font-family:var(--font-secondary),sans-serif;font-weight:400;letter-spacing:.07em;line-height:1.4em;text-transform:uppercase;font-family:var(--button--font-family,var(--font-secondary),sans-serif);position:relative;padding:11px 30px;background-color:var(--button--bg-color,#dbc598);border:1px solid transparent;color:var(--button--font-color,var(--color-black));font-size:14px;text-decoration:none;cursor:pointer;transition:background-color .2s,border-color .2s,color .2s"
+    },
+    {
+      "source": "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css",
+      "selector": ".button_buttonText__LYAdt.button_disabled__MUWUl.button_loading__GMsNL,.button_buttonText__LYAdt.button_loading__GMsNL,.button_buttonText__LYAdt:disabled.button",
+      "declarations": "color:transparent"
+    },
+    {
+      "source": "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css",
+      "selector": ".button_buttonText__LYAdt",
+      "declarations": "background-color:transparent;border-color:transparent;text-decoration:underline;text-underline-offset:var(--button-text--underline-offset,auto);padding-left:0;padding-right:0;color:inherit"
+    },
+    {
+      "source": "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css",
+      "selector": ".button_buttonText__LYAdt.button_disabled__MUWUl,.button_buttonText__LYAdt:disabled",
+      "declarations": "color:#697278"
+    },
+    {
+      "source": "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css",
+      "selector": ".input_searchCollapsed__wrvy5 button",
+      "declarations": "color:var(--input--search-collapsed-color,currentColor)"
+    },
+    {
+      "source": "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css",
+      "selector": ".dropdown_button__zwAUt",
+      "declarations": "align-items:center;color:var(--color-black);cursor:pointer;display:inline-flex;justify-content:space-between;overflow:hidden;white-space:nowrap;height:var(--text-input-height)"
+    },
+    {
+      "source": "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css",
+      "selector": ".dropdown_button__zwAUt[aria-expanded=true]",
+      "declarations": "border-color:var(--color-black);outline:none"
+    },
+    {
+      "source": "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css",
+      "selector": ".dropdown_button__zwAUt.dropdown_placeholderSelected__4iqKh",
+      "declarations": "color:var(--dropdown--placeholder-selected,#697278)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Cabinet and Door Hardware, designed by you | Emtek",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css",
+        "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css",
+        "https://www.emtek.com:443/_next/static/css/869c6974d41c1484.css"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css",
+        "https://www.emtek.com:443/_next/static/css/869c6974d41c1484.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css",
+        "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css",
+        "https://www.emtek.com:443/_next/static/css/75a1a63de484ddd7.css",
+        "https://www.emtek.com:443/_next/static/css/b9bf6079653dfe5b.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css",
+        "https://www.emtek.com:443/_next/static/css/75a1a63de484ddd7.css",
+        "https://www.emtek.com:443/_next/static/css/b9bf6079653dfe5b.css",
+        "https://www.emtek.com:443/_next/static/css/869c6974d41c1484.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css",
+        "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.emtek.com:443/_next/static/css/869c6974d41c1484.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css",
+        "https://www.emtek.com:443/_next/static/css/cc46d01782a7dbc5.css",
+        "https://www.emtek.com:443/_next/static/css/75a1a63de484ddd7.css",
+        "https://www.emtek.com:443/_next/static/css/869c6974d41c1484.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css",
+        "https://www.emtek.com:443/_next/static/css/869c6974d41c1484.css"
+      ]
+    },
+    "colors.accent-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css"
+      ]
+    },
+    "colors.accent-brass": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.emtek.com:443/_next/static/css/5e317115e4a27061.css"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.emtek.com:443/_next/static/css/869c6974d41c1484.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.finish-swatch": {
+      "status": "inferred"
+    }
+  }
+}

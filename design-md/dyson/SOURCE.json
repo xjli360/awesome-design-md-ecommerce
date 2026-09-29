@@ -1,0 +1,290 @@
+{
+  "source_url": "https://www.dyson.com",
+  "final_url": "https://www.dyson.com/",
+  "captured_at": "2026-09-28T04:10:58.577933+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.dyson.com",
+      "final_url": "https://www.dyson.com/",
+      "http_status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "3d1f8b5011a3dd9ff2fc2ea8a621f3f012188e8fe949e9cee1e00d1014788af2",
+      "snapshot": "homepage.html"
+    }
+  ],
+  "colors": {},
+  "font_families": {},
+  "css_rules": [],
+  "confidence": "historical_unverified",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "failure": "HTTP_OR_CHALLENGE",
+  "schema_version": 1,
+  "design_origin": "historical",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.primary-active": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.primary-disabled": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.accent-yellow": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.accent-green": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.accent-green-dark": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.accent-blue": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.accent-blue-light": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.error": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.ink": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.body": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.muted": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.muted-soft": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.hairline": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.hairline-soft": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.canvas": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.surface-soft": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.surface-muted": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.surface-card": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.surface-dark": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.surface-mid-dark": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.on-primary": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.on-dark": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "typography.display-xl": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.display-lg": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.display-md": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.display-sm": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.spec-number": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.spec-unit": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.title-md": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.title-sm": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.body-md": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.body-sm": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.caption": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.label-sm": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.button-md": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.button-sm": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.nav-link": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.promo-text": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "rounded.none": {
+      "status": "unverified"
+    },
+    "rounded.xs": {
+      "status": "unverified"
+    },
+    "rounded.sm": {
+      "status": "unverified"
+    },
+    "rounded.md": {
+      "status": "unverified"
+    },
+    "rounded.lg": {
+      "status": "unverified"
+    },
+    "rounded.xl": {
+      "status": "unverified"
+    },
+    "rounded.full": {
+      "status": "unverified"
+    },
+    "spacing.xxs": {
+      "status": "unverified"
+    },
+    "spacing.xs": {
+      "status": "unverified"
+    },
+    "spacing.sm": {
+      "status": "unverified"
+    },
+    "spacing.md": {
+      "status": "unverified"
+    },
+    "spacing.base": {
+      "status": "unverified"
+    },
+    "spacing.lg": {
+      "status": "unverified"
+    },
+    "spacing.xl": {
+      "status": "unverified"
+    },
+    "spacing.xxl": {
+      "status": "unverified"
+    },
+    "spacing.section": {
+      "status": "unverified"
+    },
+    "components.button-primary": {
+      "status": "unverified"
+    },
+    "components.button-secondary": {
+      "status": "unverified"
+    },
+    "components.button-ghost": {
+      "status": "unverified"
+    },
+    "components.button-dark": {
+      "status": "unverified"
+    },
+    "components.text-input": {
+      "status": "unverified"
+    },
+    "components.nav-bar": {
+      "status": "unverified"
+    },
+    "components.promo-strip": {
+      "status": "unverified"
+    },
+    "components.product-card": {
+      "status": "unverified"
+    },
+    "components.hero-banner": {
+      "status": "unverified"
+    },
+    "components.hero-banner-dark": {
+      "status": "unverified"
+    },
+    "components.spec-callout": {
+      "status": "unverified"
+    },
+    "components.product-badge": {
+      "status": "unverified"
+    },
+    "components.product-badge-new": {
+      "status": "unverified"
+    },
+    "components.filter-chip": {
+      "status": "unverified"
+    },
+    "components.color-swatch": {
+      "status": "unverified"
+    },
+    "components.search-bar": {
+      "status": "unverified"
+    },
+    "components.dark-feature-section": {
+      "status": "unverified"
+    },
+    "components.category-card": {
+      "status": "unverified"
+    }
+  },
+  "observed_color_tokens": 0,
+  "total_color_tokens": 23,
+  "title": "Attention Required! | Cloudflare"
+}

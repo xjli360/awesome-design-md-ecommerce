@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Levoit
-description: |
+name: "Levoit"
+source_url: "https://levoit.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The four-step teal progression — #02454f, #005e6e, #006689, #00c1bc — is Levoit's visual grammar for filtered air: a depth chart that moves from ocean-bottom dark to bright surface shimmer without leaving the same hue family, the brand's way of rendering invisible air quality as color. Against this cool spectrum sits #f9d861, a single warm-yellow voltage used on sale badges and promotional moments — its rarity is its function, a directional pop in a grid of teal-dominant product cards. The warm beige at #dacebf surfaces only on lifestyle feature rows, where product photography needs a domestic ground tone rather than the clinical white that dominates the rest of the canvas.
 
   DIN handles display headers with utilitarian precision suited to air-quality metrics — short, numeric-adjacent strings like "CADR 400" or "PM 2.5" read cleanly in the condensed geometric cuts. Museo Slab steps in at mid-hierarchy callouts as the more editorial voice; where DIN is a readout, Museo Slab is a declaration. Proxima Nova carries body copy, review text, and UI labels with approachable neutrality. Sun Valley appears in campaign imagery as a display flourish rather than a workhorse stack.
@@ -396,6 +399,8 @@ components:
 - Feature badge chips on product cards wrap to two rows on mobile rather than truncating
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - White canvas (`#ffffff`) is inferred; the extraction contains no explicit white, and the brand may use a very slightly off-white background not captured
 - Sun Valley font has no widely-documented scale or weight spec; appears to be a campaign-display typeface only — omitted from functional typography tokens

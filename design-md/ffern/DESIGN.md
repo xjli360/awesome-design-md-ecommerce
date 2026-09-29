@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Ffern
-description: Ffern is a British fragrance house that operates on a seasonal ledger — four bottles a year, no more, no less. The brand's visual language is a slow, tactile poem written in parchment and earth. The canvas is not white but a warm, living off-white (`#faf9f7`), the meta theme-color that sets the stage for a palette drawn from dried petals, bark, and stone. The dominant hue, `#f5f2ec`, is the color of unbleached linen, while `#e8e2d5` and `#d2c2af` read as aged paper and sun-bleached wood. Accents arrive as mineral greys (`#9b9b9b`, `#868686`, `#717267`) and deep, resinous browns (`#835436`, `#a36f4d`, `#66594a`), with a single, deliberate pop of warmth in `#e2976e` and `#fbbd54` — like a sliver of amber catching light. The typography is a quiet conversation between FfernType, a proprietary serif that carries the weight of tradition, and FfernTypeMono, a monospace that whispers of apothecary labels and botanical catalogues. There are no hard corners in the Ffern world; `{rounded.full}` is the default for buttons and badges, while `{rounded.lg}` (20px) and `{rounded.md}` (12px) soften cards and containers, making every interaction feel like handling a smooth, water-worn stone. The brand's signature design move is the absence of urgency — generous whitespace, low-contrast text in `{colors.ink}` (#585858) against `{colors.canvas}` (#faf9f7), and a deliberate avoidance of aggressive CTAs. The primary button, `{colors.primary}` (#bd957b), is the color of a worn leather journal, not a call to action but an invitation to pause.
+name: "Ffern"
+source_url: "https://ffern.co"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Ffern is a British fragrance house that operates on a seasonal ledger — four bottles a year, no more, no less. The brand's visual language is a slow, tactile poem written in parchment and earth. The canvas is not white but a warm, living off-white (`#faf9f7`), the meta theme-color that sets the stage for a palette drawn from dried petals, bark, and stone. The dominant hue, `#f5f2ec`, is the color of unbleached linen, while `#e8e2d5` and `#d2c2af` read as aged paper and sun-bleached wood. Accents arrive as mineral greys (`#9b9b9b`, `#868686`, `#717267`) and deep, resinous browns (`#835436`, `#a36f4d`, `#66594a`), with a single, deliberate pop of warmth in `#e2976e` and `#fbbd54` — like a sliver of amber catching light. The typography is a quiet conversation between FfernType, a proprietary serif that carries the weight of tradition, and FfernTypeMono, a monospace that whispers of apothecary labels and botanical catalogues. There are no hard corners in the Ffern world; `{rounded.full}` is the default for buttons and badges, while `{rounded.lg}` (20px) and `{rounded.md}` (12px) soften cards and containers, making every interaction feel like handling a smooth, water-worn stone. The brand's signature design move is the absence of urgency — generous whitespace, low-contrast text in `{colors.ink}` (#585858) against `{colors.canvas}` (#faf9f7), and a deliberate avoidance of aggressive CTAs. The primary button, `{colors.primary}` (#bd957b), is the color of a worn leather journal, not a call to action but an invitation to pause.
 
 colors:
   primary: "#bd957b"
@@ -347,6 +351,8 @@ components:
 - Accordions are fully expanded by default on mobile to reduce the need for tapping.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact hover and focus states for all components (e.g., `button-secondary` hover border color, `text-input` focus ring) could not be reliably extracted from the live site CSS.
 - Error styling for forms (e.g., error message typography, icon placement) is inferred from the accent-warm color but not confirmed.

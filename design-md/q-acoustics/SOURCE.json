@@ -1,0 +1,641 @@
+{
+  "source_url": "https://qacoustics.com",
+  "final_url": "https://www.qacoustics.com/",
+  "captured_at": "2026-09-28T04:55:27.392100+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://qacoustics.com",
+      "final_url": "https://www.qacoustics.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "aa4009d917ff429463972f9652ca3e01e55c84cc09299bf3dbb13f16453c9525",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582",
+      "final_url": "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c8a57cb8dcda1147c2878e0e72d1ea549a2ffcd89a1180072cef860444e451cf",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.qacoustics.com/cdn/shop/t/5/assets/apps.css?v=162097722211979372921762442582",
+      "final_url": "https://www.qacoustics.com/cdn/shop/t/5/assets/apps.css?v=162097722211979372921762442582",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b40826b2f7cf4a02a3074c2537be9bf34b3d80020a03ee9ef4c97e502cfd1224",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.qacoustics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.qacoustics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.qacoustics.com/cdn/shop/t/5/assets/mobile-dock.css?v=65492524909462691551762442582",
+      "final_url": "https://www.qacoustics.com/cdn/shop/t/5/assets/mobile-dock.css?v=65492524909462691551762442582",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a4cce08ee14ce8c38cc59cb778440ef955a1e662839b2c2ee608a1f0bf7a758b",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 12,
+      "sources": [
+        "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582",
+        "https://www.qacoustics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 8,
+      "sources": [
+        "https://www.qacoustics.com/",
+        "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582",
+        "https://www.qacoustics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#171717": {
+      "count": 2,
+      "sources": [
+        "https://www.qacoustics.com/"
+      ]
+    },
+    "#000000": {
+      "count": 2,
+      "sources": [
+        "https://www.qacoustics.com/",
+        "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582"
+      ]
+    },
+    "#cccccc": {
+      "count": 2,
+      "sources": [
+        "https://www.qacoustics.com/"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.qacoustics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#1f1f1f": {
+      "count": 1,
+      "sources": [
+        "https://www.qacoustics.com/"
+      ]
+    },
+    "#202020": {
+      "count": 1,
+      "sources": [
+        "https://www.qacoustics.com/"
+      ]
+    },
+    "#23185c": {
+      "count": 1,
+      "sources": [
+        "https://www.qacoustics.com/"
+      ]
+    },
+    "#ffffffbf": {
+      "count": 1,
+      "sources": [
+        "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582"
+      ]
+    },
+    "#1199ff": {
+      "count": 1,
+      "sources": [
+        "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 1,
+      "sources": [
+        "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582"
+      ]
+    },
+    "#3b5998": {
+      "count": 1,
+      "sources": [
+        "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582"
+      ]
+    },
+    "#00acee": {
+      "count": 1,
+      "sources": [
+        "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582"
+      ]
+    },
+    "#e60023": {
+      "count": 1,
+      "sources": [
+        "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582"
+      ]
+    },
+    "#3390f7": {
+      "count": 1,
+      "sources": [
+        "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582"
+      ]
+    },
+    "#25d366": {
+      "count": 1,
+      "sources": [
+        "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582"
+      ]
+    },
+    "#0064ff": {
+      "count": 1,
+      "sources": [
+        "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582"
+      ]
+    },
+    "#61f0f3": {
+      "count": 1,
+      "sources": [
+        "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582"
+      ]
+    },
+    "#ff3484": {
+      "count": 1,
+      "sources": [
+        "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582"
+      ]
+    },
+    "#f1e04d": {
+      "count": 1,
+      "sources": [
+        "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582"
+      ]
+    },
+    "#309fff": {
+      "count": 1,
+      "sources": [
+        "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582"
+      ]
+    },
+    "#b635ff": {
+      "count": 1,
+      "sources": [
+        "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582"
+      ]
+    },
+    "#049cff": {
+      "count": 1,
+      "sources": [
+        "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582"
+      ]
+    },
+    "#35ee7a": {
+      "count": 1,
+      "sources": [
+        "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582"
+      ]
+    },
+    "#00e166": {
+      "count": 1,
+      "sources": [
+        "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582"
+      ]
+    },
+    "#0066ec": {
+      "count": 1,
+      "sources": [
+        "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582"
+      ]
+    },
+    "#f7d00b": {
+      "count": 1,
+      "sources": [
+        "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582"
+      ]
+    },
+    "#f60e0e": {
+      "count": 1,
+      "sources": [
+        "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582"
+      ]
+    },
+    "#b700ff": {
+      "count": 1,
+      "sources": [
+        "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.qacoustics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.qacoustics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.qacoustics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Consolas": [
+      "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582"
+    ],
+    "Courier New": [
+      "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582"
+    ],
+    "Inter": [
+      "https://www.qacoustics.com/"
+    ],
+    "Liberation Mono": [
+      "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582"
+    ],
+    "Menlo": [
+      "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582"
+    ],
+    "Monaco": [
+      "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582"
+    ],
+    "SFMono-Regular": [
+      "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582"
+    ],
+    "inherit!important": [
+      "https://www.qacoustics.com/cdn/shop/t/5/assets/apps.css?v=162097722211979372921762442582"
+    ],
+    "monospace": [
+      "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582"
+    ],
+    "ui-monospace": [
+      "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.qacoustics.com/",
+      "selector": ":root",
+      "declarations": "--page-padding: var(--sp-9);"
+    },
+    {
+      "source": "https://www.qacoustics.com/",
+      "selector": ":root",
+      "declarations": "--gap-padding: var(--sp-12);\n      --page-padding: var(--sp-12);\n      --page-container: min(calc(100vw - var(--scrollbar-width, 0px) - var(--page-padding) * 2), max(var(--page-width), 1280px));"
+    },
+    {
+      "source": "https://www.qacoustics.com/",
+      "selector": ":root",
+      "declarations": "--page-padding: max(var(--sp-12), 50vw - var(--scrollbar-width, 0px)/2 - var(--page-width)/2);"
+    },
+    {
+      "source": "https://www.qacoustics.com/",
+      "selector": "display:none\n\n    :root",
+      "declarations": "--topbar-height: var(--sp-12);"
+    },
+    {
+      "source": "https://www.qacoustics.com/",
+      "selector": ":root",
+      "declarations": "--topbar-height: var(--sp-14);"
+    },
+    {
+      "source": "https://www.qacoustics.com/",
+      "selector": "#shopify-section-sections--18301101768819__header",
+      "declarations": "--section-padding-top: 22px;\n    --section-padding-bottom: 32px;\n    --color-background: 255 255 255;\n    --color-foreground: 23 23 23;\n    --color-transparent: 255 255 255;\n    --color-localization: ;"
+    },
+    {
+      "source": "https://www.qacoustics.com/",
+      "selector": "#shopify-block-product-1",
+      "declarations": "--hotspot-color: 255 255 255;\n      --hotspot-x: 20%;\n      --hotspot-y: 86%;"
+    },
+    {
+      "source": "https://www.qacoustics.com/",
+      "selector": "#shopify-block-product-2",
+      "declarations": "--hotspot-color: 255 255 255;\n      --hotspot-x: 38%;\n      --hotspot-y: 65%;"
+    },
+    {
+      "source": "https://www.qacoustics.com/",
+      "selector": "#shopify-block-product-3",
+      "declarations": "--hotspot-color: 255 255 255;\n      --hotspot-x: 84%;\n      --hotspot-y: 68%;"
+    },
+    {
+      "source": "https://www.qacoustics.com/",
+      "selector": ".asw-widget-button-top",
+      "declarations": "position: absolute !important;\n     top: 10px !important;\n     left: 10px !important;\n     background-color: #000 !important;\n     color: #fff !important;\n     text-decoration: none !important;\n     overflow: hidden;\n     width: 1px !important;\n     height: 1px !important;\n     margin: -1px !important;\n     padding: 0 !important;\n     border: 0 !important;\n     clip: rect(0 0 0 0) !important;\n     word-wrap: normal !important;"
+    },
+    {
+      "source": "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582",
+      "selector": ":root",
+      "declarations": "--text-h1: var(--sp-12);--text-h2: var(--sp-7d5);--text-h3: var(--sp-6);--text-h4: var(--sp-5d5);--text-h5: var(--sp-4d5);--text-h6: var(--sp-4)"
+    },
+    {
+      "source": "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582",
+      "selector": ":root",
+      "declarations": "--title-lg: clamp(var(--sp-12), 4.73vw, var(--sp-23));--title-xl: clamp(var(--sp-20), 6.737vw, var(--sp-32));--text-h1: var(--sp-14);--text-h2: var(--sp-9);--text-h3: var(--sp-7d5);--text-h4: var(--sp-6);--text-h5: var(--sp-5)"
+    },
+    {
+      "source": "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582",
+      "selector": ".pswp__button",
+      "declarations": "--tw-shadow: 0 0 #0000;--tw-shadow-colored: 0 0 #0000;-webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px);background-color:rgb(var(--color-background)/ .6);border:1px solid rgb(var(--color-border));border-radius:var(--rounded-full);box-shadow:var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow);cursor:pointer;display:block;height:var(--sp-12);margin:0;opacity:1;overflow:hidden;padding:0;position:relative;width:var(--sp-12)"
+    },
+    {
+      "source": "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582",
+      "selector": "button.pswp__button",
+      "declarations": "-webkit-touch-callout:none;-webkit-appearance:none;appearance:none;background-color:rgb(var(--color-background)/ .6)"
+    },
+    {
+      "source": "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582",
+      "selector": ".pswp__button .pswp__icn",
+      "declarations": "--tw-translate-x: -50%;--tw-translate-y: -50%;fill:var(--pswp-icon-color);color:var(--pswp-icon-color-secondary);width:var(--sp-6);height:var(--sp-6);overflow:hidden;pointer-events:none;position:absolute;inset-block-start:50%;inset-inline-start:50%;transform:translate(calc(var(--tw-translate-x) * var(--transform-logical)),var(--tw-translate-y)) scaleX(calc(var(--tw-scale-x) * var(--transform-logical))) scaleY(var(--tw-scale-y))"
+    },
+    {
+      "source": "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582",
+      "selector": ".pswp__button--arrow",
+      "declarations": "color:rgb(var(--color-foreground));width:var(--sp-12);height:var(--sp-12);position:absolute;inset-block-start:auto;inset-block-end:var(--sp-5)"
+    },
+    {
+      "source": "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582",
+      "selector": ".pswp__button--arrow",
+      "declarations": "--tw-translate-y: -50%;width:var(--sp-15);height:var(--sp-15);inset-block-start:50%;transform:translate(var(--tw-translate-x),var(--tw-translate-y))"
+    },
+    {
+      "source": "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582",
+      "selector": ".pswp__button--arrow--next .pswp__icn",
+      "declarations": "--tw-scale-x: -1"
+    },
+    {
+      "source": "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582",
+      "selector": ".pswp__video-container .play-button",
+      "declarations": "width:var(--sp-10);height:var(--sp-10);inset-inline-end:var(--sp-4);inset-block-start:var(--sp-4);background-color:rgb(var(--color-background))"
+    },
+    {
+      "source": "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582",
+      "selector": ".flickity-button",
+      "declarations": "background:#ffffffbf;border:none;color:#333;position:absolute"
+    },
+    {
+      "source": "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582",
+      "selector": "body",
+      "declarations": "background-color:rgb(var(--color-background));color:rgb(var(--color-foreground));font-family:var(--font-body-family);font-style:var(--font-body-style);font-weight:var(--font-body-weight);font-size:var(--text-base);line-height:var(--font-body-line-height);letter-spacing:var(--font-body-letter-spacing);overflow-x:hidden;line-height:inherit;margin:0"
+    },
+    {
+      "source": "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582",
+      "selector": "blockquote,.heading,h1,h2,h3,h4,h5,h6,.h0,.h1,.h2,.h3,.h4,.h5,.h6",
+      "declarations": "font-family:var(--font-heading-family);font-style:var(--font-heading-style);font-weight:var(--font-heading-weight);letter-spacing:var(--font-heading-letter-spacing);line-height:var(--font-heading-line-height);text-transform:var(--font-heading-text-transform);color:rgb(var(--color-foreground));word-break:break-word"
+    },
+    {
+      "source": "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font-family:inherit;font-size:100%;font-weight:inherit;line-height:inherit;border:none;margin:0;padding:0"
+    },
+    {
+      "source": "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582",
+      "selector": "[type=button],[type=reset],[type=submit],button",
+      "declarations": "-webkit-appearance:button;appearance:button;background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582",
+      "selector": ".button,.shopify-challenge__button,button.shopify-payment-button__button--unbranded,.shopify-payment-button [role=button],.additional-checkout-buttons [role=but",
+      "declarations": "--shadow-horizontal-offset: var(--buttons-shadow-horizontal-offset);--shadow-vertical-offset: var(--buttons-shadow-vertical-offset);--shadow-opacity: var(--buttons-shadow-opacity);--border-opacity: var(--buttons-border-opacity)"
+    },
+    {
+      "source": "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582",
+      "selector": ".shopify-payment-button__button--branded",
+      "declarations": "z-index:auto;font-family:var(--font-button-family);border-radius:var(--buttons-radius)!important;overflow:hidden!important"
+    },
+    {
+      "source": "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582",
+      "selector": ".button,.shopify-challenge__button,button.shopify-payment-button__button--unbranded",
+      "declarations": "cursor:pointer;position:relative;display:inline-flex;align-items:center;justify-content:center;overflow:hidden;line-height:1;font-family:var(--font-button-family);font-size:var(--font-button-size);font-weight:var(--font-button-weight);text-transform:var(--font-button-text-transform);padding:clamp(var(--sp-4d5),1.2vw,var(--sp-5d5)) clamp(var(--sp-6d5),1.473vw,var(--sp-7d5));color:rgb(var(--color-button-text));background:var(--color-button-gradient);background-color:rgb(var(--color-button-background));border-radius:var(--buttons-radius);box-shadow:var(--shadow-horizontal-offset) var(--shadow-vertical-offset) rgb(var(--color-shadow)/ var(--shadow-opacity));max-height:3.75rem;border:none;height:"
+    },
+    {
+      "source": "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582",
+      "selector": ".button .btn-text",
+      "declarations": "color:currentColor"
+    },
+    {
+      "source": "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582",
+      "selector": ".button--primary .btn-fill",
+      "declarations": "background-color:rgb(var(--color-button-text))"
+    },
+    {
+      "source": "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582",
+      "selector": ".button--secondary .btn-fill",
+      "declarations": "background:var(--color-button-gradient);background-color:rgb(var(--color-button-background))"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Q Acoustics: Beautifully Engineered Speakers and Speaker Stands – QAcoustics",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.qacoustics.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.qacoustics.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.qacoustics.com/",
+        "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582",
+        "https://www.qacoustics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.qacoustics.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.qacoustics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.qacoustics.com/",
+        "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582",
+        "https://www.qacoustics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.qacoustics.com/",
+        "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582",
+        "https://www.qacoustics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.qacoustics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.overlay": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.qacoustics.com/cdn/shop/t/5/assets/theme.css?v=97895539110510535931762442582"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.swatch-selector": {
+      "status": "inferred"
+    }
+  }
+}

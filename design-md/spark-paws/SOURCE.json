@@ -1,0 +1,835 @@
+{
+  "source_url": "https://sparkpaws.com",
+  "final_url": "https://www.sparkpaws.com/",
+  "captured_at": "2026-09-28T09:03:48.625409+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://sparkpaws.com",
+      "final_url": "https://www.sparkpaws.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "2d6881219a47db5f792cca3c40ab4173b063fdd054f47a2159fc340b5fa63c84",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.sparkpaws.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.sparkpaws.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167",
+      "final_url": "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9afa69eb81aad15d21a7c37d927e6f594cb6b725867b17db8800359b9083d92d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/019f845b-ea0a-7f6d-b8bd-14dcbe496e11/langify-91/assets/langify-lib.css",
+      "final_url": "https://cdn.shopify.com/extensions/019f845b-ea0a-7f6d-b8bd-14dcbe496e11/langify-91/assets/langify-lib.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5a37692320bee1b2c2b79344a0cbd3cca1d2b8e9047bde584d3afdd892ffb9dc",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 41,
+      "sources": [
+        "https://www.sparkpaws.com/",
+        "https://www.sparkpaws.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167"
+      ]
+    },
+    "#000000": {
+      "count": 24,
+      "sources": [
+        "https://www.sparkpaws.com/",
+        "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167"
+      ]
+    },
+    "#383a3d": {
+      "count": 9,
+      "sources": [
+        "https://www.sparkpaws.com/",
+        "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167"
+      ]
+    },
+    "#36363633": {
+      "count": 8,
+      "sources": [
+        "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167"
+      ]
+    },
+    "#323232": {
+      "count": 4,
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "#1c1b1b": {
+      "count": 4,
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "#ebbf20": {
+      "count": 4,
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "#5c5c5c": {
+      "count": 3,
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "#060000": {
+      "count": 3,
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "#36363626": {
+      "count": 3,
+      "sources": [
+        "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167"
+      ]
+    },
+    "#4469af": {
+      "count": 3,
+      "sources": [
+        "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167"
+      ]
+    },
+    "#c8232c": {
+      "count": 3,
+      "sources": [
+        "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167"
+      ]
+    },
+    "#00aced": {
+      "count": 3,
+      "sources": [
+        "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 3,
+      "sources": [
+        "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167"
+      ]
+    },
+    "#888888": {
+      "count": 3,
+      "sources": [
+        "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167"
+      ]
+    },
+    "#939393": {
+      "count": 2,
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "#344d79": {
+      "count": 2,
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "#3cbe1a": {
+      "count": 2,
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "#999999": {
+      "count": 2,
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "#363636": {
+      "count": 2,
+      "sources": [
+        "https://www.sparkpaws.com/",
+        "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167"
+      ]
+    },
+    "#919190": {
+      "count": 2,
+      "sources": [
+        "https://www.sparkpaws.com/",
+        "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167"
+      ]
+    },
+    "#333333": {
+      "count": 2,
+      "sources": [
+        "https://www.sparkpaws.com/",
+        "https://cdn.shopify.com/extensions/019f845b-ea0a-7f6d-b8bd-14dcbe496e11/langify-91/assets/langify-lib.css"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.sparkpaws.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.sparkpaws.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 2,
+      "sources": [
+        "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167"
+      ]
+    },
+    "#5c5555": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "#e7e7e7": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "#ededed": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "#0f0000": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "#ccc9c9": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "#f6a429": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "#a62337": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "#1abe56": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "#d5f7d0": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "#005fcc": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "#66b3ff": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "#f2f4f5": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "#d0d0d0": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "#262121": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "#1e1f20": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#c0c0c0": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167"
+      ]
+    },
+    "#e6554d": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167"
+      ]
+    },
+    "#040404a6": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167"
+      ]
+    },
+    "#696969": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167"
+      ]
+    },
+    "#a1a1a1": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167"
+      ]
+    },
+    "#8b0000": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167"
+      ]
+    },
+    "#e4c4c4": {
+      "count": 1,
+      "sources": [
+        "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://www.sparkpaws.com/"
+    ],
+    "Apple Color Emoji": [
+      "https://www.sparkpaws.com/"
+    ],
+    "Arial": [
+      "https://www.sparkpaws.com/"
+    ],
+    "Helvetica": [
+      "https://www.sparkpaws.com/"
+    ],
+    "Helvetica Neue": [
+      "https://www.sparkpaws.com/"
+    ],
+    "Jost": [
+      "https://www.sparkpaws.com/"
+    ],
+    "Liberation Sans": [
+      "https://www.sparkpaws.com/"
+    ],
+    "Noto Color Emoji": [
+      "https://www.sparkpaws.com/"
+    ],
+    "Noto Sans": [
+      "https://www.sparkpaws.com/"
+    ],
+    "Roboto": [
+      "https://www.sparkpaws.com/"
+    ],
+    "Segoe UI": [
+      "https://www.sparkpaws.com/"
+    ],
+    "Segoe UI Emoji": [
+      "https://www.sparkpaws.com/"
+    ],
+    "Segoe UI Symbol": [
+      "https://www.sparkpaws.com/"
+    ],
+    "monospace": [
+      "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167"
+    ],
+    "object-fit: cover": [
+      "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167"
+    ],
+    "sans-serif": [
+      "https://www.sparkpaws.com/",
+      "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167"
+    ],
+    "system_ui": [
+      "https://www.sparkpaws.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.sparkpaws.com/",
+      "selector": ":root",
+      "declarations": "--lxs-rating-icon-color: #EBBF20;"
+    },
+    {
+      "source": "https://www.sparkpaws.com/",
+      "selector": ".ly-recommendation-form button[type=\"submit\"]",
+      "declarations": "font-size: 14px !important;\n          color: #fff !important;\n          background: #999 !important;"
+    },
+    {
+      "source": "https://www.sparkpaws.com/",
+      "selector": ".ly-recommendation-form button[type=\"submit\"]",
+      "declarations": "font-size: 14px !important;\n          color: #fff !important;\n          background: #999 !important;"
+    },
+    {
+      "source": "https://www.sparkpaws.com/",
+      "selector": "lign-items: center;min-width: fit-content;\ncolor: #383a3d\ndisplay: inline-flex; flex-direction: column; justify-content: flex-end; align-items: center;min-width",
+      "declarations": "--use-sticky-header: 1;\n      --use-unsticky-header: 0;"
+    },
+    {
+      "source": "https://www.sparkpaws.com/",
+      "selector": ":root",
+      "declarations": "--header-is-not-transparent: 1;\n      --header-is-transparent: 0;"
+    },
+    {
+      "source": "https://www.sparkpaws.com/",
+      "selector": "#section-template--27066751877301__e826ee7c-7bbd-44b5-9a6d-60fcf25e1570 .Button",
+      "declarations": "color: #363636;\n          border-color: #ffffff;"
+    },
+    {
+      "source": "https://www.sparkpaws.com/",
+      "selector": "#section-template--27066751877301__e826ee7c-7bbd-44b5-9a6d-60fcf25e1570 .Button::before",
+      "declarations": "background-color: #ffffff;"
+    },
+    {
+      "source": "https://www.sparkpaws.com/",
+      "selector": "#shopify-section-template--27066751877301__7164ea44-ce08-4d5c-8d10-61c0a6e6e334 .ProductCollectionListItem__Link.Button",
+      "declarations": "color: #ffffff;\n    background: #344d79;\n    padding: 10px 20px;\n    font-size: 12px;"
+    },
+    {
+      "source": "https://www.sparkpaws.com/",
+      "selector": "#shopify-section-template--27066751877301__7164ea44-ce08-4d5c-8d10-61c0a6e6e334 .ProductCollectionListItem__Content .SectionHeader__SubHeading",
+      "declarations": "font-size: 14px;\n    \n    font-family: \"system_ui\", -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', 'Noto Sans', 'Liberation Sans', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';\n    word-wrap: break-word;\n    white-space: break-spaces;"
+    },
+    {
+      "source": "https://www.sparkpaws.com/",
+      "selector": "#shopify-section-template--27066751877301__7164ea44-ce08-4d5c-8d10-61c0a6e6e334 .ProductCollectionListItem__Content .SectionHeader__Heading",
+      "declarations": "font-size: 20px !important;\n    \n    font-family: \"system_ui\", -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', 'Noto Sans', 'Liberation Sans', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';\n    word-wrap: break-word;\n    white-space: break-spaces;"
+    },
+    {
+      "source": "https://www.sparkpaws.com/",
+      "selector": ":root",
+      "declarations": "--lxs-rating-icon-color: #EBBF20;"
+    },
+    {
+      "source": "https://www.sparkpaws.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.sparkpaws.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.sparkpaws.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.sparkpaws.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.sparkpaws.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.sparkpaws.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0"
+    },
+    {
+      "source": "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167",
+      "selector": "body",
+      "declarations": "font-family:var(--text-font-family);font-weight:var(--text-font-weight);font-style:var(--text-font-style);color:var(--text-color);background:var(--background);line-height:1.65"
+    },
+    {
+      "source": "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167",
+      "selector": ".Button,.shopify-payment-button__button--unbranded,input.spr-button-primary,.spr-summary-actions-newreview,.spr-button-primary:not(input),.spr-pagination-prev>a",
+      "declarations": "position:relative;display:inline-block;padding:14px 12px;line-height:normal;border:1px solid transparent;border-radius:0;text-transform:uppercase;font-size:calc(var(--base-text-font-size) - (var(--default-text-font-size) - 12px));text-align:center;letter-spacing:.2em;font-family:var(--heading-font-family);font-weight:var(--heading-font-weight);font-style:var(--heading-font-style);background-color:transparent;transition:color .45s cubic-bezier(.785,.135,.15,.86),border .45s cubic-bezier(.785,.135,.15,.86);z-index:1;-webkit-tap-highlight-color:initial"
+    },
+    {
+      "source": "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167",
+      "selector": ".Button--primary,.shopify-payment-button__button--unbranded,.spr-summary-actions-newreview,.spr-button-primary:not(input)",
+      "declarations": "color:var(--button-text-color);border-color:var(--button-background)"
+    },
+    {
+      "source": "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167",
+      "selector": ".Button--primary:before,.shopify-payment-button__button--unbranded:before,.spr-summary-actions-newreview:before,.spr-button-primary:not(input):before",
+      "declarations": "background-color:var(--button-background)"
+    },
+    {
+      "source": "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167",
+      "selector": "nded:not([disabled]):hover,.features--show-button-transition .spr-summary-actions-newreview:not([disabled]):hover,.features--show-button-transition .spr-button-",
+      "declarations": "color:var(--button-background);background-color:transparent"
+    },
+    {
+      "source": "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167",
+      "selector": ".Button--secondary,.spr-pagination-prev>a,.spr-pagination-next>a",
+      "declarations": "color:var(--text-color-light);border:1px solid rgba(var(--text-color-light-rgb),.2)"
+    },
+    {
+      "source": "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167",
+      "selector": ".Button--secondary:before,.spr-pagination-prev>a:before,.spr-pagination-next>a:before",
+      "declarations": "background-color:var(--button-background);transform-origin:right center;transform:scaleX(0)"
+    },
+    {
+      "source": "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167",
+      "selector": "n .Button--secondary:not([disabled]):hover,.features--show-button-transition .spr-pagination-prev>a:not([disabled]):hover,.features--show-button-transition .spr",
+      "declarations": "color:var(--button-text-color);border-color:var(--button-background)"
+    },
+    {
+      "source": "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167",
+      "selector": ".RoundButton,.flickity-prev-next-button",
+      "declarations": "position:relative;width:45px;height:45px;border:none;border-radius:50%;background:var(--button-text-color);color:var(--button-background);cursor:pointer;text-align:center;z-index:1;box-shadow:0 2px 10px #36363626;vertical-align:middle;line-height:0;transform:scale(1.001);transition:background .15s ease-in-out,opacity .15s ease-in-out,transform .2s ease-in-out,color .2s ease-in-out;overflow:hidden"
+    },
+    {
+      "source": "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167",
+      "selector": ".RoundButton.is-active,.flickity-prev-next-button.is-active",
+      "declarations": "background:var(--button-background);color:var(--button-text-color);outline:none"
+    },
+    {
+      "source": "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167",
+      "selector": ".RoundButton--flat",
+      "declarations": "box-shadow:0 1px 5px #36363626;color:rgba(var(--button-background-rgb),.5)"
+    },
+    {
+      "source": "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167",
+      "selector": ".RoundButton:not([aria-expanded=true]):hover",
+      "declarations": "color:var(--button-background)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Spark Paws - Premium Dog Clothing, Walk Gear, Shoes and More! – SPARK PAWS",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sparkpaws.com/",
+        "https://www.sparkpaws.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "colors.ink-secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sparkpaws.com/",
+        "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sparkpaws.com/",
+        "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sparkpaws.com/",
+        "https://www.sparkpaws.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.sparkpaws.com/cdn/shop/t/172/assets/theme.css?v=46230541615468841941789671167"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sparkpaws.com/"
+      ]
+    },
+    "colors.link-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sparkpaws.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.link-blue-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sparkpaws.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.skeleton": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sparkpaws.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.collection-tile": {
+      "status": "inferred"
+    }
+  }
+}

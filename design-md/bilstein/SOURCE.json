@@ -1,0 +1,812 @@
+{
+  "source_url": "https://bilstein.com",
+  "final_url": "https://bilstein.com/en/",
+  "captured_at": "2026-09-28T04:58:25.126077+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://bilstein.com",
+      "final_url": "https://bilstein.com/en/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "9ad2390db58e731b960dd3f13c191435789e61e901304a651fe29ebbe3339665",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://use.typekit.net/qdz2mun.css",
+      "final_url": "https://use.typekit.net/qdz2mun.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "d4f42009bd56c25ff085726551cf124f04eadf7f4990af97b97da47ce29c806b",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://bilstein.com/wp-content/themes/bilstein-themeworld/style.css",
+      "final_url": "https://bilstein.com/wp-content/themes/bilstein-themeworld/style.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "576d23d4790de2b7ff65798d143a5d2670845b7702b314321c07cefdae747112",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2",
+      "final_url": "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e103f5ded32482aecf2efb8a309c780a1f65778c7ea8d079cb97b4636d944567",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 112,
+      "sources": [
+        "https://bilstein.com/en/",
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "#0094d8": {
+      "count": 110,
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "#182128": {
+      "count": 85,
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "#f4f5f7": {
+      "count": 76,
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "#000000": {
+      "count": 45,
+      "sources": [
+        "https://bilstein.com/en/",
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "#ffdc00": {
+      "count": 44,
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "#dae2e6": {
+      "count": 44,
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "#323e48": {
+      "count": 38,
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "#959da5": {
+      "count": 31,
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "#c8ccd5": {
+      "count": 23,
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "#0083bf": {
+      "count": 14,
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "#b22d31": {
+      "count": 14,
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "#014f89": {
+      "count": 8,
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "#23282d": {
+      "count": 7,
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "#f1af00": {
+      "count": 6,
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "#ff2e33": {
+      "count": 6,
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "#28c94d": {
+      "count": 6,
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "#586169": {
+      "count": 6,
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "#e6c600": {
+      "count": 5,
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "#0050d9": {
+      "count": 5,
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "#039fe0": {
+      "count": 4,
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "#00508a": {
+      "count": 4,
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "#6a737d": {
+      "count": 4,
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "#ff6900": {
+      "count": 3,
+      "sources": [
+        "https://bilstein.com/en/"
+      ]
+    },
+    "#ccb000": {
+      "count": 3,
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "#32373c": {
+      "count": 2,
+      "sources": [
+        "https://bilstein.com/en/"
+      ]
+    },
+    "#cf2e2e": {
+      "count": 2,
+      "sources": [
+        "https://bilstein.com/en/"
+      ]
+    },
+    "#fcb900": {
+      "count": 2,
+      "sources": [
+        "https://bilstein.com/en/"
+      ]
+    },
+    "#0693e3": {
+      "count": 2,
+      "sources": [
+        "https://bilstein.com/en/"
+      ]
+    },
+    "#9b51e0": {
+      "count": 2,
+      "sources": [
+        "https://bilstein.com/en/"
+      ]
+    },
+    "#ffdd00": {
+      "count": 2,
+      "sources": [
+        "https://bilstein.com/en/"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 2,
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "#1d242a": {
+      "count": 2,
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "#0d0d0d": {
+      "count": 2,
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "#0d1b27": {
+      "count": 2,
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "#abb8c3": {
+      "count": 1,
+      "sources": [
+        "https://bilstein.com/en/"
+      ]
+    },
+    "#f78da7": {
+      "count": 1,
+      "sources": [
+        "https://bilstein.com/en/"
+      ]
+    },
+    "#7bdcb5": {
+      "count": 1,
+      "sources": [
+        "https://bilstein.com/en/"
+      ]
+    },
+    "#00d084": {
+      "count": 1,
+      "sources": [
+        "https://bilstein.com/en/"
+      ]
+    },
+    "#8ed1fc": {
+      "count": 1,
+      "sources": [
+        "https://bilstein.com/en/"
+      ]
+    },
+    "#7adcb4": {
+      "count": 1,
+      "sources": [
+        "https://bilstein.com/en/"
+      ]
+    },
+    "#00d082": {
+      "count": 1,
+      "sources": [
+        "https://bilstein.com/en/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 1,
+      "sources": [
+        "https://bilstein.com/en/"
+      ]
+    },
+    "#a9b8c3": {
+      "count": 1,
+      "sources": [
+        "https://bilstein.com/en/"
+      ]
+    },
+    "#4aeadc": {
+      "count": 1,
+      "sources": [
+        "https://bilstein.com/en/"
+      ]
+    },
+    "#9778d1": {
+      "count": 1,
+      "sources": [
+        "https://bilstein.com/en/"
+      ]
+    },
+    "#cf2aba": {
+      "count": 1,
+      "sources": [
+        "https://bilstein.com/en/"
+      ]
+    },
+    "#ee2c82": {
+      "count": 1,
+      "sources": [
+        "https://bilstein.com/en/"
+      ]
+    },
+    "#fb6962": {
+      "count": 1,
+      "sources": [
+        "https://bilstein.com/en/"
+      ]
+    },
+    "#fef84c": {
+      "count": 1,
+      "sources": [
+        "https://bilstein.com/en/"
+      ]
+    },
+    "#ffceec": {
+      "count": 1,
+      "sources": [
+        "https://bilstein.com/en/"
+      ]
+    },
+    "#9896f0": {
+      "count": 1,
+      "sources": [
+        "https://bilstein.com/en/"
+      ]
+    },
+    "#fecda5": {
+      "count": 1,
+      "sources": [
+        "https://bilstein.com/en/"
+      ]
+    },
+    "#fe2d2d": {
+      "count": 1,
+      "sources": [
+        "https://bilstein.com/en/"
+      ]
+    },
+    "#6b003e": {
+      "count": 1,
+      "sources": [
+        "https://bilstein.com/en/"
+      ]
+    },
+    "#ffcb70": {
+      "count": 1,
+      "sources": [
+        "https://bilstein.com/en/"
+      ]
+    },
+    "#c751c0": {
+      "count": 1,
+      "sources": [
+        "https://bilstein.com/en/"
+      ]
+    },
+    "#4158d0": {
+      "count": 1,
+      "sources": [
+        "https://bilstein.com/en/"
+      ]
+    },
+    "#fff5cb": {
+      "count": 1,
+      "sources": [
+        "https://bilstein.com/en/"
+      ]
+    },
+    "#b6e3d4": {
+      "count": 1,
+      "sources": [
+        "https://bilstein.com/en/"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+    ],
+    "Helvetica": [
+      "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+    ],
+    "interstate": [
+      "https://use.typekit.net/qdz2mun.css",
+      "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+    ],
+    "interstate-condensed": [
+      "https://use.typekit.net/qdz2mun.css",
+      "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+    ],
+    "monospace": [
+      "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+    ],
+    "noto-sans": [
+      "https://use.typekit.net/qdz2mun.css",
+      "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+    ],
+    "noto-sans-condensed": [
+      "https://use.typekit.net/qdz2mun.css",
+      "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+    ],
+    "sans-serif": [
+      "https://use.typekit.net/qdz2mun.css",
+      "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://bilstein.com/en/",
+      "selector": ".wp-block-button__link",
+      "declarations": "color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em"
+    },
+    {
+      "source": "https://bilstein.com/en/",
+      "selector": ".wp-block-file__button",
+      "declarations": "background:#32373c;color:#fff;text-decoration:none"
+    },
+    {
+      "source": "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;line-height:1.15;margin:0"
+    },
+    {
+      "source": "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2",
+      "selector": "body",
+      "declarations": "color:#182128"
+    },
+    {
+      "source": "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2",
+      "selector": ".h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6",
+      "declarations": "margin-top:0;margin-bottom:20px;font-family:interstate-condensed,Helvetica,Arial,sans-serif;font-weight:800;color:inherit"
+    },
+    {
+      "source": "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2",
+      "selector": ".button-v2.-outlined",
+      "declarations": "padding-top:14px;padding-bottom:13px;border:2px solid;background-color:transparent"
+    },
+    {
+      "source": "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2",
+      "selector": ".button-v2.-white:not(.-outlined)",
+      "declarations": "background-color:#fff;color:#000"
+    },
+    {
+      "source": "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2",
+      "selector": ".button-v2.-white:not(.-outlined):hover",
+      "declarations": "background-color:#323e48;color:#fff"
+    },
+    {
+      "source": "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2",
+      "selector": ".button-v2.-white.-outlined",
+      "declarations": "border-color:#fff;color:#fff"
+    },
+    {
+      "source": "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2",
+      "selector": ".button-v2.-white.-outlined:hover",
+      "declarations": "background-color:#fff;color:#000"
+    },
+    {
+      "source": "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2",
+      "selector": ".button-v2.-white-op-2:not(.-outlined)",
+      "declarations": "background-color:hsla(0,0%,100%,.2);color:#fff"
+    },
+    {
+      "source": "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2",
+      "selector": ".button-v2.-white-op-2:not(.-outlined):hover",
+      "declarations": "background-color:#fff;color:#000"
+    },
+    {
+      "source": "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2",
+      "selector": ".button-v2.-white-op-2.-outlined",
+      "declarations": "border-color:hsla(0,0%,100%,.2);color:#fff"
+    },
+    {
+      "source": "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2",
+      "selector": ".button-v2.-white-op-2.-outlined:hover",
+      "declarations": "background-color:hsla(0,0%,100%,.2);color:#fff"
+    },
+    {
+      "source": "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2",
+      "selector": ".button-v2.-black:not(.-outlined)",
+      "declarations": "background-color:#000;color:#fff"
+    },
+    {
+      "source": "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2",
+      "selector": ".button-v2.-black:not(.-outlined):hover",
+      "declarations": "background-color:#1a1a1a"
+    },
+    {
+      "source": "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2",
+      "selector": ".button-v2.-black.-outlined",
+      "declarations": "border-color:#000;color:#000"
+    },
+    {
+      "source": "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2",
+      "selector": ".button-v2.-black.-outlined:hover",
+      "declarations": "background-color:#000;color:#fff"
+    },
+    {
+      "source": "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2",
+      "selector": ".button.-blue:hover",
+      "declarations": "background-color:#0083bf"
+    },
+    {
+      "source": "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2",
+      "selector": ".button.-blue:not(.-outline)",
+      "declarations": "background-color:#0094d8;color:#f4f5f7"
+    },
+    {
+      "source": "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2",
+      "selector": ".button.-blue:not(.-outline):hover",
+      "declarations": "background-color:#0083bf"
+    },
+    {
+      "source": "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2",
+      "selector": ".button.-blue.-outline",
+      "declarations": "border-color:#0094d8;color:#0094d8"
+    },
+    {
+      "source": "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2",
+      "selector": ".button.-blue.-outline:hover",
+      "declarations": "background-color:#0094d8;color:#f4f5f7"
+    },
+    {
+      "source": "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2",
+      "selector": ".button.-yellow:not(.-outline)",
+      "declarations": "background-color:#ffdc00;color:#182128"
+    },
+    {
+      "source": "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2",
+      "selector": ".button.-yellow.-outline:hover,.button.-yellow:hover",
+      "declarations": "background-color:#e6c600"
+    },
+    {
+      "source": "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2",
+      "selector": ".button.-yellow.-outline",
+      "declarations": "border-color:#ffdc00;color:#ffdc00"
+    },
+    {
+      "source": "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2",
+      "selector": ".button.-yellow.-outline:hover",
+      "declarations": "color:#182128"
+    },
+    {
+      "source": "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2",
+      "selector": ".button.-grey",
+      "declarations": "background-color:#323e48;color:#f4f5f7"
+    },
+    {
+      "source": "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2",
+      "selector": ".button.-grey:hover",
+      "declarations": "background-color:#3c4b57"
+    },
+    {
+      "source": "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2",
+      "selector": ".button.-light-grey",
+      "declarations": "background-color:#f4f5f7;color:#323e48"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "BILSTEIN Corporate - BILSTEIN",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bilstein.com/en/",
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bilstein.com/en/",
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "colors.accent-blue-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "colors.surface-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "colors.on-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bilstein.com/en/",
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "colors.button-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bilstein.com/en/"
+      ]
+    },
+    "colors.button-black": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bilstein.com/en/",
+        "https://bilstein.com/wp-content/themes/bilstein-themeworld/dist/css/style.css?ver=2.0.2"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.dealer-locator-card": {
+      "status": "inferred"
+    }
+  }
+}

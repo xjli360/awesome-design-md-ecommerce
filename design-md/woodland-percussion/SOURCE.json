@@ -1,0 +1,815 @@
+{
+  "source_url": "https://www.woodlandpercussion.com",
+  "final_url": "https://www.woodlandpercussion.com/",
+  "captured_at": "2026-09-28T09:52:02.411925+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.woodlandpercussion.com",
+      "final_url": "https://www.woodlandpercussion.com/",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "sha256": "6755c492dba3a1d274c5d2f17e8241949a06458ff1e1c2ba2a861b5743b7cf2e",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.button/5a741ea1-9d9f-47f9-825c-74a26f91e3b4_1111/website.components.button.styles.css",
+      "final_url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.button/5a741ea1-9d9f-47f9-825c-74a26f91e3b4_1111/website.components.button.styles.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "1ae84d9f9687b4d101a7e87382c7a11b8029157df95de292ad48ac87f209f912",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/c23c8f20-aefd-4113-b7e7-3dfe12eea5a8_928/website.components.imageFluid.styles.css",
+      "final_url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/c23c8f20-aefd-4113-b7e7-3dfe12eea5a8_928/website.components.imageFluid.styles.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "09c0bfc44bf3a27d6b3a08c2b3ea09ded67a36860b9b095b6295a398aef87307",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/7625cf5e-824a-409c-844c-dc15103c89a9_941/website.components.html.styles.css",
+      "final_url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/7625cf5e-824a-409c-844c-dc15103c89a9_941/website.components.html.styles.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "62851efff91ee5fe72cea604fca72bbd29cfe282a517f1cbca5ba647285a1b65",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css",
+      "final_url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "ecb4d6d01d535788189bc6ea40c9e2e3bba6adcfc7f5a79aa69fc76fa64c9b68",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true",
+      "final_url": "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "6398cf4825105fc885ef1ea6c1a342e32071f6ec38fc10d5cbdfe51258ac6a63",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 128,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css",
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "#000000": {
+      "count": 46,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css",
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "#272727": {
+      "count": 25,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "#3e3e3e": {
+      "count": 22,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "#222222": {
+      "count": 14,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css",
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 13,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "#f0523d": {
+      "count": 11,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "#0e0e0e": {
+      "count": 11,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "#dddddd": {
+      "count": 10,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "#333333": {
+      "count": 10,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "#e7e7e7": {
+      "count": 9,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "#00b2ff": {
+      "count": 9,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "#22222266": {
+      "count": 8,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css"
+      ]
+    },
+    "#999999": {
+      "count": 6,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "#4a5464": {
+      "count": 5,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "#e4e4e4": {
+      "count": 4,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "#666666": {
+      "count": 4,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "#c4c4c4": {
+      "count": 4,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "#eeeeee": {
+      "count": 3,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "#111111": {
+      "count": 3,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "#d0d0d0": {
+      "count": 3,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 3,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "#cccccc": {
+      "count": 3,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "#ffffff66": {
+      "count": 2,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css"
+      ]
+    },
+    "#00000066": {
+      "count": 2,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css"
+      ]
+    },
+    "#797979": {
+      "count": 2,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "#313131": {
+      "count": 2,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 2,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "#1d1d1d": {
+      "count": 2,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "#e8ecec": {
+      "count": 2,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "#728197": {
+      "count": 2,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "#6e6e6e": {
+      "count": 2,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "#00000000": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css"
+      ]
+    },
+    "#00b4b3": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css"
+      ]
+    },
+    "#00b4b366": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css"
+      ]
+    },
+    "#1769ff": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css"
+      ]
+    },
+    "#1769ff66": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css"
+      ]
+    },
+    "#dc5d54": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css"
+      ]
+    },
+    "#dc5d5466": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css"
+      ]
+    },
+    "#ea4c89": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css"
+      ]
+    },
+    "#ea4c8966": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css"
+      ]
+    },
+    "#007ee5": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css"
+      ]
+    },
+    "#007ee566": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css"
+      ]
+    },
+    "#3b5998": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css"
+      ]
+    },
+    "#3b599866": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css"
+      ]
+    },
+    "#0099e5": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css"
+      ]
+    },
+    "#0099e566": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css"
+      ]
+    },
+    "#0063dc": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css"
+      ]
+    },
+    "#0063dc66": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css"
+      ]
+    },
+    "#f94877": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css"
+      ]
+    },
+    "#f9487766": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css"
+      ]
+    },
+    "#4183c4": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css"
+      ]
+    },
+    "#4183c466": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css"
+      ]
+    },
+    "#382110": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css"
+      ]
+    },
+    "#38211066": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css"
+      ]
+    },
+    "#5adfcb": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css"
+      ]
+    },
+    "#5adfcb66": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css"
+      ]
+    },
+    "#dc4e41": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css"
+      ]
+    },
+    "#dc4e4166": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css"
+      ]
+    },
+    "#7ac143": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+    ],
+    "Cinzel": [
+      "https://www.woodlandpercussion.com/",
+      "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+    ],
+    "Clarkson": [
+      "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+    ],
+    "Helvetica": [
+      "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+    ],
+    "Helvetica Neue": [
+      "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+    ],
+    "Poppins": [
+      "https://www.woodlandpercussion.com/",
+      "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+    ],
+    "Sans-serif": [
+      "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+    ],
+    "Times": [
+      "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+    ],
+    "Times New Roman": [
+      "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+    ],
+    "monospace": [
+      "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+    ],
+    "sans-serif": [
+      "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+    ],
+    "serif": [
+      "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+    ],
+    "social-icon-font": [
+      "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+    ],
+    "squarespace-ui-font": [
+      "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true",
+      "selector": ":root",
+      "declarations": "--white-hsl:90,20%,98.04%;--black-hsl:0,0%,0%;--safeLightAccent-hsl:39.62,94.64%,78.04%;--safeDarkAccent-hsl:0,0%,0%;--safeInverseAccent-hsl:0,0%,0%;--safeInverseLightAccent-hsl:0,0%,0%;--safeInverseDarkAccent-hsl:90,20%,98.04%;--accent-hsl:39.62,94.64%,78.04%;--lightAccent-hsl:0,20%,97.06%;--darkAccent-hsl:38.97,92.13%,75.1%"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true",
+      "selector": "button,input,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;margin:0"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true",
+      "selector": ".sqs-cookie-banner-v2 p,.sqs-cookie-banner-v2 button",
+      "declarations": "font-family:'Helvetica Neue',Helvetica,Sans-serif;font-size:12px;line-height:1.5em;font-weight:normal;font-style:normal;letter-spacing:.05em;margin:10px !important"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true",
+      "selector": ".sqs-cookie-banner-v2.DARK p,.sqs-cookie-banner-v2.DARK button,.sqs-cookie-banner-v2.DARK a",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true",
+      "selector": ".sqs-cookie-banner-v2.LIGHT p,.sqs-cookie-banner-v2.LIGHT button,.sqs-cookie-banner-v2.LIGHT a",
+      "declarations": "color:#111"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a:not(.reject)",
+      "declarations": "cursor:pointer;background:#f6f6f6;padding:11px;text-align:center;transition:background-color .1s ease-in-out, opacity .1s ease-in-out;line-height:22px;-webkit-user-select:none;-ms-user-select:none;user-select:none;font-family:inherit;-webkit-appearance:none;appearance:none"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a:not(.reject),.sqsp-tooltip .buttons a:not(.reject)>*",
+      "declarations": "color:#3e3e3e !important;-webkit-appearance:none;border:0;text-transform:uppercase;letter-spacing:.5px;font-size:11px;font-weight:500"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a:not(.reject):focus,.sqsp-tooltip .buttons a:not(.reject)>*:focus",
+      "declarations": "outline-color:#3e3e3e;outline-style:solid;outline-width:2px;outline-offset:-2px"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a:not(.reject):hover",
+      "declarations": "background-color:#fff;box-shadow:none"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a:not(.reject).disabled:hover",
+      "declarations": "background-color:#f6f6f6 !important"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a.reject",
+      "declarations": "cursor:pointer;background:#f6f6f6;padding:11px;text-align:center;transition:background-color .1s ease-in-out, opacity .1s ease-in-out;line-height:22px;-webkit-user-select:none;-ms-user-select:none;user-select:none;font-family:inherit;-webkit-appearance:none;appearance:none"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a.reject,.sqsp-tooltip .buttons a.reject>*",
+      "declarations": "color:#3e3e3e !important;-webkit-appearance:none;border:0;text-transform:uppercase;letter-spacing:.5px;font-size:11px;font-weight:500"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a.reject:focus,.sqsp-tooltip .buttons a.reject>*:focus",
+      "declarations": "outline-color:#3e3e3e;outline-style:solid;outline-width:2px;outline-offset:-2px"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a.reject:hover",
+      "declarations": "background-color:#000;box-shadow:none"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a.reject.disabled:hover",
+      "declarations": "background-color:#f6f6f6 !important"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a.reject:hover",
+      "declarations": "background-color:#f0523d"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true",
+      "selector": ".sqsp-tooltip .buttons a.reject:hover,.sqsp-tooltip .buttons a.reject:hover *",
+      "declarations": "color:#fff !important"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button:not(.reject)",
+      "declarations": "cursor:pointer;background:#f6f6f6;padding:11px;text-align:center;transition:background-color .1s ease-in-out, opacity .1s ease-in-out;line-height:22px;-webkit-user-select:none;-ms-user-select:none;user-select:none;font-family:inherit;-webkit-appearance:none;appearance:none;line-height:16px"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button:not(.reject),.sqs-widgets-confirmation-content .buttons .confirmation-button:not(.reject)>*",
+      "declarations": "color:#3e3e3e !important;-webkit-appearance:none;border:0;text-transform:uppercase;letter-spacing:.5px;font-size:11px;font-weight:500"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button:not(.reject):focus,.sqs-widgets-confirmation-content .buttons .confirmation-button:not(.reject)>",
+      "declarations": "outline-color:#3e3e3e;outline-style:solid;outline-width:2px;outline-offset:-2px"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button:not(.reject):hover",
+      "declarations": "background-color:#fff;box-shadow:none"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button:not(.reject).disabled:hover",
+      "declarations": "background-color:#f6f6f6 !important"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button.reject",
+      "declarations": "cursor:pointer;background:#f6f6f6;padding:11px;text-align:center;transition:background-color .1s ease-in-out, opacity .1s ease-in-out;line-height:22px;-webkit-user-select:none;-ms-user-select:none;user-select:none;font-family:inherit;-webkit-appearance:none;appearance:none;line-height:16px"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button.reject,.sqs-widgets-confirmation-content .buttons .confirmation-button.reject>*",
+      "declarations": "color:#3e3e3e !important;-webkit-appearance:none;border:0;text-transform:uppercase;letter-spacing:.5px;font-size:11px;font-weight:500"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button.reject:focus,.sqs-widgets-confirmation-content .buttons .confirmation-button.reject>*:focus",
+      "declarations": "outline-color:#3e3e3e;outline-style:solid;outline-width:2px;outline-offset:-2px"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button.reject:hover",
+      "declarations": "background-color:#000;box-shadow:none"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button.reject.disabled:hover",
+      "declarations": "background-color:#f6f6f6 !important"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button.reject:hover",
+      "declarations": "background-color:#f0523d"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation-content .buttons .confirmation-button.reject:hover,.sqs-widgets-confirmation-content .buttons .confirmation-button.reject:hover *",
+      "declarations": "color:#fff !important"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true",
+      "selector": ".sqs-widgets-confirmation.danger-zone .sqs-widgets-confirmation-content .buttons .confirmation-button",
+      "declarations": "background-color:#f0523d;color:#fff !important"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Woodland Percussion  | Giving The Forest Its Voice — Shop Now",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css",
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css",
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.socialLinks/7c0d68ec-9884-4426-84b2-bd2d6a6675fc_719/website.components.socialLinks.styles.css",
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "colors.ink-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/57fee6eb15d5db0c03afa114/145/5c5a519771c10ba3470d8101/677c4d1a4b68955a376d7fbb/1831/site.css?nocustom=true"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.custom-build-spec": {
+      "status": "inferred"
+    }
+  }
+}

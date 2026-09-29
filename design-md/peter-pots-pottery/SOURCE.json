@@ -1,0 +1,289 @@
+{
+  "source_url": "https://peterpots.com",
+  "final_url": "https://www.peterpots.com/",
+  "captured_at": "2026-09-29T04:14:03.912484+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://peterpots.com",
+      "final_url": "https://www.peterpots.com/",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "sha256": "1294534dc9e9ba71f34ddf16222979594fd5e0b2539b23feea34f06ccba7d33f",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/user-account-core-39ca4b7f697b3da5-min.en-US.css",
+      "final_url": "https://assets.squarespace.com/universal/styles-compressed/user-account-core-39ca4b7f697b3da5-min.en-US.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6d0567f43dc27b9464465ecfa88861a04b2934a44eb8422ffed91db2c1d3c18b",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/09462abe-4883-4891-8d53-bd2559ca7f96_1267/website.components.spacer.styles.css",
+      "final_url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.spacer/09462abe-4883-4891-8d53-bd2559ca7f96_1267/website.components.spacer.styles.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "79cf11e511b4d35a376b07a268e704c15d8f8935b64de4c3a152f5ceb05cf96a",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.horizontalrule/b84190ba-da02-40e1-8a41-d9c14a907874_311/website.components.horizontalrule.styles.css",
+      "final_url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.horizontalrule/b84190ba-da02-40e1-8a41-d9c14a907874_311/website.components.horizontalrule.styles.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "16728fc007853637c7768b0c79c377bcc59811904609cfa1954475b58a32c109",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.button/15170ac3-56bb-419c-892a-8706938616ef_1114/website.components.button.styles.css",
+      "final_url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.button/15170ac3-56bb-419c-892a-8706938616ef_1114/website.components.button.styles.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "1ae84d9f9687b4d101a7e87382c7a11b8029157df95de292ad48ac87f209f912",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#555555": {
+      "count": 1,
+      "sources": [
+        "https://www.peterpots.com/"
+      ]
+    },
+    "#262524": {
+      "count": 1,
+      "sources": [
+        "https://www.peterpots.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "Didact Gothic": [
+      "https://www.peterpots.com/"
+    ],
+    "EB Garamond": [
+      "https://www.peterpots.com/"
+    ],
+    "Roboto": [
+      "https://www.peterpots.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.peterpots.com/",
+      "selector": "#block-yui_3_17_2_1_1690903880479_20722 .product-block-content",
+      "declarations": "--product-block-padding: initial;"
+    },
+    {
+      "source": "https://www.peterpots.com/",
+      "selector": "#block-yui_3_17_2_1_1690903880479_28453 .product-block-content",
+      "declarations": "--product-block-padding: initial;"
+    },
+    {
+      "source": "https://www.peterpots.com/",
+      "selector": "#block-yui_3_17_2_1_1690903880479_37856 .product-block-content",
+      "declarations": "--product-block-padding: initial;"
+    },
+    {
+      "source": "https://www.peterpots.com/",
+      "selector": "#block-yui_3_17_2_1_1690903880479_23538 .product-block-content",
+      "declarations": "--product-block-padding: initial;"
+    },
+    {
+      "source": "https://www.peterpots.com/",
+      "selector": "#block-yui_3_17_2_1_1690903880479_27765 .product-block-content",
+      "declarations": "--product-block-padding: initial;"
+    },
+    {
+      "source": "https://www.peterpots.com/",
+      "selector": "#block-yui_3_17_2_1_1690903880479_22644 .product-block-content",
+      "declarations": "--product-block-padding: initial;"
+    },
+    {
+      "source": "https://www.peterpots.com/",
+      "selector": "#block-yui_3_17_2_1_1690903880479_25711 .product-block-content",
+      "declarations": "--product-block-padding: initial;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "peter pots pottery",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.peterpots.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.peterpots.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.peterpots.com/"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.peterpots.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.peterpots.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.peterpots.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.peterpots.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.peterpots.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.peterpots.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.color-swatch-selector": {
+      "status": "inferred"
+    }
+  }
+}

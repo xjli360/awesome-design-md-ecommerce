@@ -1,0 +1,862 @@
+{
+  "source_url": "https://boba.com",
+  "final_url": "https://boba.com/",
+  "captured_at": "2026-09-28T10:16:50.819544+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://boba.com",
+      "final_url": "https://boba.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "45040be76501d7808653d9f621181639e44270c04236c2e8762972f3f8d9a15c",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905",
+      "final_url": "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2923c3cac598a2c5e38ff9b6692ef83edb4bc197cf5c516f5b8869a3e93e6705",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://boba.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://boba.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "be10bc4b16346e787891f1da5de658505019fcd30172651891a4bf550c948e36",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://boba.com/cdn/shop/t/122/assets/section-announcement.css?v=20995991697193811561754635904",
+      "final_url": "https://boba.com/cdn/shop/t/122/assets/section-announcement.css?v=20995991697193811561754635904",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "fdd4c2d6fae1bb80c3c153cc59106dd3efd57b4af13729b568d6fa1e540a1109",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://boba.com/cdn/shop/t/122/assets/section-header-navigation.css?v=80269463823002851541754635905",
+      "final_url": "https://boba.com/cdn/shop/t/122/assets/section-header-navigation.css?v=80269463823002851541754635905",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "8d2d23201de0bd3932974786c5ccb6e889e801ad27ad17029a86255db17871c4",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 47,
+      "sources": [
+        "https://boba.com/",
+        "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905",
+        "https://boba.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 32,
+      "sources": [
+        "https://boba.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#000000": {
+      "count": 27,
+      "sources": [
+        "https://boba.com/",
+        "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+        "https://boba.com/cdn/shop/t/122/assets/section-announcement.css?v=20995991697193811561754635904"
+      ]
+    },
+    "#a2beb2": {
+      "count": 16,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 12,
+      "sources": [
+        "https://boba.com/",
+        "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#333333": {
+      "count": 11,
+      "sources": [
+        "https://boba.com/",
+        "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#43525a": {
+      "count": 10,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#f4efe9": {
+      "count": 9,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 9,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#c32121": {
+      "count": 8,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 6,
+      "sources": [
+        "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905",
+        "https://boba.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#555555": {
+      "count": 6,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#00000033": {
+      "count": 5,
+      "sources": [
+        "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905"
+      ]
+    },
+    "#666666": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#6f8794": {
+      "count": 3,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 3,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 3,
+      "sources": [
+        "https://boba.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 3,
+      "sources": [
+        "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905"
+      ]
+    },
+    "#00000066": {
+      "count": 3,
+      "sources": [
+        "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905"
+      ]
+    },
+    "#5c5c5c1a": {
+      "count": 3,
+      "sources": [
+        "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905"
+      ]
+    },
+    "#108474": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 2,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 2,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#a6a6a6": {
+      "count": 2,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#808080": {
+      "count": 2,
+      "sources": [
+        "https://boba.com/",
+        "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905"
+      ]
+    },
+    "#d02e2e": {
+      "count": 2,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#1199ff": {
+      "count": 2,
+      "sources": [
+        "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905"
+      ]
+    },
+    "#0000000f": {
+      "count": 2,
+      "sources": [
+        "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://boba.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#fbcd0a": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#a89cc8": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#c1e6e6": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#84a999": {
+      "count": 1,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#171d20": {
+      "count": 1,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#fafafa": {
+      "count": 1,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 1,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#cdcdcd": {
+      "count": 1,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#c0c0c0": {
+      "count": 1,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#9a9a9a": {
+      "count": 1,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#999999": {
+      "count": 1,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#8c8c8c": {
+      "count": 1,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#737373": {
+      "count": 1,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#c65a12": {
+      "count": 1,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#e0ded8": {
+      "count": 1,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#9c9683": {
+      "count": 1,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#d26e78": {
+      "count": 1,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 1,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#f3cbcb": {
+      "count": 1,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#56ad6a": {
+      "count": 1,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#ecfef0": {
+      "count": 1,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#ecbd5e": {
+      "count": 1,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 1,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#7b7b7b": {
+      "count": 1,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#d43747": {
+      "count": 1,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#f1eae2": {
+      "count": 1,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#ede5db": {
+      "count": 1,
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://boba.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Baskerville": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Consolas": [
+      "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905"
+    ],
+    "Helvetica": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons\" !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons' !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeStar": [
+      "https://boba.com/"
+    ],
+    "JudgemeStar' !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Nunito Sans": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Pacifico": [
+      "https://boba.com/"
+    ],
+    "Raleway": [
+      "https://boba.com/"
+    ],
+    "Space Mono": [
+      "https://boba.com/"
+    ],
+    "monospace": [
+      "https://boba.com/",
+      "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "sans-serif": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://boba.com/",
+      "selector": ":root",
+      "declarations": "--overlay-bg: #f4efe9;\n      --overlay-bg-svg: #000;"
+    },
+    {
+      "source": "https://boba.com/",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #A2BEB2;--jdgm-secondary-color: rgba(162,190,178,0.1);--jdgm-star-color: #A2BEB2;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #A2BEB2;--jdgm-paginate-color: #A2BEB2;--jdgm-border-radius: 0;--jdgm-reviewer-name-color: #A2BEB2"
+    },
+    {
+      "source": "https://boba.com/",
+      "selector": ":root",
+      "declarations": "--announcement-height: calc(0.75rem * 1.25 * 1.5 + 10px * 2 + var(--BORDER-WIDTH));"
+    },
+    {
+      "source": "https://boba.com/",
+      "selector": ":root",
+      "declarations": "--announcement-height: calc(0.75rem * 1.25 * 1.5 + 10px * 2 + var(--BORDER-WIDTH));"
+    },
+    {
+      "source": "https://boba.com/",
+      "selector": "--adjust-heading: calc(var(--FONT-ADJUST-HEADING) * 0.7);\n--adjust-heading: calc(var(--FONT-ADJUST-HEADING) * 0.7);\n:root",
+      "declarations": "--header-height: 63px;\n    --header-sticky-height: 60px;\n    --header-background-height: 63px;"
+    },
+    {
+      "source": "https://boba.com/",
+      "selector": ":root",
+      "declarations": "--full-height: calc(100vh - var(--header-sticky-height));"
+    },
+    {
+      "source": "https://boba.com/",
+      "selector": "#Testimonials--template--24866062369089__section_testimonials_a7netz .section__header .testimonial__heading",
+      "declarations": "--adjust-heading: calc(var(--FONT-ADJUST-HEADING) * 1.0);"
+    },
+    {
+      "source": "https://boba.com/",
+      "selector": "#Testimonials--template--24866062369089__section_testimonials_a7netz .section__header .testimonial__subheading",
+      "declarations": "--adjust-body: calc(var(--FONT-ADJUST-SUBHEADING) * 1.0);"
+    },
+    {
+      "source": "https://boba.com/",
+      "selector": "#Testimonials--template--24866062369089__section_testimonials_a7netz .section__header .testimonial__heading",
+      "declarations": "--adjust-heading: calc(var(--FONT-ADJUST-HEADING) * 1.0);"
+    },
+    {
+      "source": "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905",
+      "selector": ":root",
+      "declarations": "--adjust-body: var(--FONT-ADJUST-BODY);--adjust-heading: var(--FONT-ADJUST-HEADING);--adjust-button: var(--FONT-ADJUST-MEDIUM-BUTTON);--adjust-small-button: var(--FONT-ADJUST-SMALL-BUTTON);--adjust-medium-button: var(--FONT-ADJUST-MEDIUM-BUTTON);--adjust-large-button: var(--FONT-ADJUST-LARGE-BUTTON);--adjust-nav: var(--FONT-ADJUST-NAV);--adjust-nav-top-level: var(--FONT-ADJUST-NAV-TOP-LEVEL);--adjust-accent: var(--FONT-ADJUST-SUBHEADING);--adjust-label: var(--FONT-ADJUST-LABEL);--adjust-product-grid: var(--FONT-ADJUST-PRODUCT-GRID);--adjust-product-grid-heading: var(--FONT-ADJUST-PRODUCT-GRID-HEADING);--adjust-badges: calc(var(--FONT-ADJUST-BADGES) * var(--FONT-ADJUST-SUBHEADING))"
+    },
+    {
+      "source": "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905",
+      "selector": "body",
+      "declarations": "font-family:var(--FONT-STACK-BODY);font-weight:var(--FONT-WEIGHT-BODY);font-style:var(--FONT-STYLE-BODY);line-height:1.5625;color:var(--text);-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:100%"
+    },
+    {
+      "source": "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905",
+      "selector": "input,textarea,select,button",
+      "declarations": "font-family:var(--FONT-STACK-BODY);font-weight:var(--FONT-WEIGHT-BODY);font-style:var(--FONT-STYLE-BODY);font-size:calc(1rem * var(--adjust-body));line-height:26px;border-radius:var(--RADIUS)"
+    },
+    {
+      "source": "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905",
+      "selector": "h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6",
+      "declarations": "font-family:var(--FONT-STACK-HEADING);font-weight:var(--FONT-WEIGHT-HEADING);font-style:var(--FONT-STYLE-HEADING);text-transform:var(--HEADING-TEXT-CAPS);letter-spacing:var(--LETTER-SPACING-HEADING);display:block;color:var(--heading);margin:0 0 .5em;font-size:var(--heading-size, 3rem);line-height:1.25"
+    },
+    {
+      "source": "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905",
+      "selector": "h1 a,h2 a,h3 a,h4 a,h5 a,h6 a,.h1 a,.h2 a,.h3 a,.h4 a,.h5 a,.h6 a",
+      "declarations": "text-decoration:none;font-weight:inherit;color:inherit"
+    },
+    {
+      "source": "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905",
+      "selector": "h1,.h1",
+      "declarations": "--heading-size: calc(3rem * var(--adjust-heading));font-size:var(--heading-size)"
+    },
+    {
+      "source": "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905",
+      "selector": "h1,.h1",
+      "declarations": "--heading-size: calc(2.5rem * var(--adjust-heading))"
+    },
+    {
+      "source": "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905",
+      "selector": "h1,.h1",
+      "declarations": "--heading-size: calc(2.25rem * var(--adjust-heading))"
+    },
+    {
+      "source": "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905",
+      "selector": ".h1-body",
+      "declarations": "--text-size: calc(3rem * var(--adjust-body));font-size:var(--text-size)"
+    },
+    {
+      "source": "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905",
+      "selector": ".h1-body",
+      "declarations": "--text-size: calc(2rem * var(--adjust-body))"
+    },
+    {
+      "source": "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905",
+      "selector": ".h2-body",
+      "declarations": "--text-size: calc(3rem * var(--adjust-body));font-size:var(--text-size)"
+    },
+    {
+      "source": "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905",
+      "selector": ".h2-body",
+      "declarations": "--text-size: calc(2rem * var(--adjust-body))"
+    },
+    {
+      "source": "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905",
+      "selector": ".h3-body",
+      "declarations": "--text-size: calc(2rem * var(--adjust-body));font-size:var(--text-size)"
+    },
+    {
+      "source": "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905",
+      "selector": ".h3-body",
+      "declarations": "--text-size: calc(1.5rem * var(--adjust-body))"
+    },
+    {
+      "source": "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905",
+      "selector": ".h4-body",
+      "declarations": "--text-size: calc(1.3125rem * var(--adjust-body));font-size:var(--text-size)"
+    },
+    {
+      "source": "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905",
+      "selector": ".h4-body",
+      "declarations": "--text-size: calc(1.25rem * var(--adjust-body))"
+    },
+    {
+      "source": "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905",
+      "selector": ".h5-body",
+      "declarations": "--text-size: calc(1.1rem * var(--adjust-body));font-size:var(--text-size)"
+    },
+    {
+      "source": "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905",
+      "selector": ".h5-body",
+      "declarations": "--text-size: calc(1rem * var(--adjust-body))"
+    },
+    {
+      "source": "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905",
+      "selector": ".h6-body",
+      "declarations": "--text-size: calc(1rem * var(--adjust-body));font-size:var(--text-size)"
+    },
+    {
+      "source": "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905",
+      "selector": ".h6-body",
+      "declarations": "--text-size: calc(.875rem * var(--adjust-body))"
+    },
+    {
+      "source": "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905",
+      "selector": ".font-body",
+      "declarations": "font-family:var(--FONT-STACK-BODY);font-weight:var(--FONT-WEIGHT-BODY);font-style:var(--FONT-STYLE-BODY)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Baby Carriers & Baby Wraps | Boba | Ergonomic Baby Wearing\n  \n  \n   – Boba Inc.",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://boba.com/",
+        "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905",
+        "https://boba.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://boba.com/",
+        "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://boba.com/",
+        "https://boba.com/cdn/shop/t/122/assets/theme.css?v=103899792911566307181754635905",
+        "https://boba.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.accent-sale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "colors.accent-warm": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "colors.sage-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "colors.parchment": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "colors.border-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.text-faint": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://boba.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.fit-consultation-cta": {
+      "status": "inferred"
+    }
+  }
+}

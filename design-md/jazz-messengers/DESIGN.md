@@ -1,11 +1,15 @@
 ---
 version: alpha
-name: Jazz Messengers
-description: Three bold chords define the palette before a note plays — an emerald #00b87c that presses through the grid like a highlight marker across a club setlist, a sapphire #0067b8 carrying authority without the cold of corporate blue, and a coral #ff6666 landing exactly where heat is needed: a sold-out badge, a price alert, an impulse buy. The system runs on system-level Arial rather than a commissioned typeface, a choice that reads less like budget constraint and more like function-first record-store pragmatism — the same legibility as a handwritten bin card, rendered on a desktop product listing. PingFang SC in the font stack signals a Chinese-market presence, pointing to a store that treats Asia-Pacific listeners as a primary audience rather than an afterthought.
+name: "Jazz Messengers"
+source_url: "https://www.jazzmessengers.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Three bold chords define the palette before a note plays — an emerald #00b87c that presses through the grid like a highlight marker across a club setlist, a sapphire #0067b8 carrying authority without the cold of corporate blue, and a coral #ff6666 landing exactly where heat is needed: a sold-out badge, a price alert, an impulse buy. The system runs on system-level Arial rather than a commissioned typeface, a choice that reads less like budget constraint and more like function-first record-store pragmatism — the same legibility as a handwritten bin card, rendered on a desktop product listing. PingFang SC in the font stack signals a Chinese-market presence, pointing to a store that treats Asia-Pacific listeners as a primary audience rather than an afterthought.
 
-Cards arrive at `{rounded.sm}` — enough softness to feel digital, not enough to feel decorative. The canvas stays white and the surface system deploys two quiet gray grades to separate sections without visual weight. Green takes the action layer: primary buttons, in-stock indicators, active genre pills, and filter chips all draw from `{colors.primary}`. Blue rotates in as the informational register — artist biography links, pagination controls, external streaming callouts. Coral handles urgency and negative states exclusively — its saturation is high enough that overuse tips the register into alarm, so the system reserves it for limited-edition alerts, sale pricing, and low-stock warnings only.
+  Cards arrive at `{rounded.sm}` — enough softness to feel digital, not enough to feel decorative. The canvas stays white and the surface system deploys two quiet gray grades to separate sections without visual weight. Green takes the action layer: primary buttons, in-stock indicators, active genre pills, and filter chips all draw from `{colors.primary}`. Blue rotates in as the informational register — artist biography links, pagination controls, external streaming callouts. Coral handles urgency and negative states exclusively — its saturation is high enough that overuse tips the register into alarm, so the system reserves it for limited-edition alerts, sale pricing, and low-stock warnings only.
 
-Spacing is tight at the component level — 8–12px internal padding in chips and badges — then opens into 48–64px breathing room between catalog rows and editorial strips. Navigation is flat: a horizontal top bar carries genre links, a search input, and a cart icon. No mega-menu, no accordion. The catalog runs a responsive grid collapsing from four columns at wide desktop down to two on mobile, with card image ratios locked at 1:1 — the square vinyl cover convention applied across all digital formats. The footer darkens the canvas to near-black and lets the green reappear as a link accent, closing the visual loop with the same primary that opened it.
+  Spacing is tight at the component level — 8–12px internal padding in chips and badges — then opens into 48–64px breathing room between catalog rows and editorial strips. Navigation is flat: a horizontal top bar carries genre links, a search input, and a cart icon. No mega-menu, no accordion. The catalog runs a responsive grid collapsing from four columns at wide desktop down to two on mobile, with card image ratios locked at 1:1 — the square vinyl cover convention applied across all digital formats. The footer darkens the canvas to near-black and lets the green reappear as a link accent, closing the visual loop with the same primary that opened it.
 
 colors:
   primary: "#00b87c"
@@ -369,6 +373,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom typeface detected — system stack (Arial / Helvetica / PingFang SC) may not reflect a licensed font loaded via JavaScript or a CDN with bot protection in place
 - Only three hex values extracted; shadow depths, overlay tints, hover states, and dark-mode surface tokens are derived from convention, not measured from the live site

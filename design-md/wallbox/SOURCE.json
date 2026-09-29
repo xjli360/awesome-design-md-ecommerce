@@ -1,0 +1,391 @@
+{
+  "source_url": "https://wallbox.com",
+  "final_url": "https://wallbox.com/",
+  "captured_at": "2026-09-28T09:26:10.513799+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://wallbox.com",
+      "final_url": "https://wallbox.com/",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "sha256": "98ee5cfead2373bd29cbf6e46a1592f99081faecf7b7dd1158ddfdb4fd5fa96d",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://wallbox.com/_nuxt/entry.CYPzazWT.css",
+      "final_url": "https://wallbox.com/_nuxt/entry.CYPzazWT.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "a3512adaf4c586e92f422819544ab8d86eef6ce3eb93854b3fa49de5b38c136d",
+      "snapshot": "stylesheet-1.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 6,
+      "sources": [
+        "https://wallbox.com/"
+      ]
+    },
+    "#626467": {
+      "count": 6,
+      "sources": [
+        "https://wallbox.com/"
+      ]
+    },
+    "#009b86": {
+      "count": 5,
+      "sources": [
+        "https://wallbox.com/"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 5,
+      "sources": [
+        "https://wallbox.com/"
+      ]
+    },
+    "#202124": {
+      "count": 4,
+      "sources": [
+        "https://wallbox.com/"
+      ]
+    },
+    "#dd3b3b": {
+      "count": 3,
+      "sources": [
+        "https://wallbox.com/"
+      ]
+    },
+    "#085d52": {
+      "count": 3,
+      "sources": [
+        "https://wallbox.com/"
+      ]
+    },
+    "#b4e5dd": {
+      "count": 3,
+      "sources": [
+        "https://wallbox.com/"
+      ]
+    },
+    "#f0eeee": {
+      "count": 2,
+      "sources": [
+        "https://wallbox.com/"
+      ]
+    },
+    "#000000": {
+      "count": 1,
+      "sources": [
+        "https://wallbox.com/"
+      ]
+    },
+    "#adadad": {
+      "count": 1,
+      "sources": [
+        "https://wallbox.com/"
+      ]
+    },
+    "#d4d4d4": {
+      "count": 1,
+      "sources": [
+        "https://wallbox.com/"
+      ]
+    },
+    "#2a394f": {
+      "count": 1,
+      "sources": [
+        "https://wallbox.com/"
+      ]
+    },
+    "#1e1f22": {
+      "count": 1,
+      "sources": [
+        "https://wallbox.com/"
+      ]
+    },
+    "#ecf5f4": {
+      "count": 1,
+      "sources": [
+        "https://wallbox.com/"
+      ]
+    },
+    "#999999": {
+      "count": 1,
+      "sources": [
+        "https://wallbox.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "HeyWallbox": [
+      "https://wallbox.com/"
+    ],
+    "sans-serif": [
+      "https://wallbox.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://wallbox.com/",
+      "selector": "body",
+      "declarations": "font-family:HeyWallbox,sans-serif;-webkit-font-smoothing:antialiased;color:#202124"
+    },
+    {
+      "source": "https://wallbox.com/",
+      "selector": ".button.primary[data-v-32f71276]",
+      "declarations": "background-color:#009b86;border:1px solid transparent;color:#fff"
+    },
+    {
+      "source": "https://wallbox.com/",
+      "selector": ".button.primary[data-v-32f71276]:hover",
+      "declarations": "background-color:#085d52"
+    },
+    {
+      "source": "https://wallbox.com/",
+      "selector": ".button.secondary[data-v-32f71276]",
+      "declarations": "background:#fff;border:1px solid #202124;color:#202124"
+    },
+    {
+      "source": "https://wallbox.com/",
+      "selector": ".button.tertiary[data-v-32f71276]",
+      "declarations": "background-color:#f0eeee;border:1px solid transparent;color:#202124"
+    },
+    {
+      "source": "https://wallbox.com/",
+      "selector": ".button.disabled[data-v-32f71276],.button[data-v-32f71276]:disabled",
+      "declarations": "background:#e5e5e5;color:#999;cursor:not-allowed;opacity:.6"
+    },
+    {
+      "source": "https://wallbox.com/",
+      "selector": ".button.disabled[data-v-32f71276]:hover,.button[data-v-32f71276]:disabled:hover",
+      "declarations": "background-color:#e5e5e5"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Electric Vehicle Charging Stations | Wallbox",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wallbox.com/"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wallbox.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wallbox.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wallbox.com/"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wallbox.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wallbox.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wallbox.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wallbox.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wallbox.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wallbox.com/"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wallbox.com/"
+      ]
+    },
+    "colors.accent-tint": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wallbox.com/"
+      ]
+    },
+    "colors.surface-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wallbox.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wallbox.com/"
+      ]
+    },
+    "colors.disabled-text": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wallbox.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.button-tertiary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.charger-spec-card": {
+      "status": "inferred"
+    }
+  }
+}

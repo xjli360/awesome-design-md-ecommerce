@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Severin Films
-description: A crimson pulse — #b62030 — runs through every Severin Films page like a genre-movie blood spatter, the meta-theme color that stains the browser chrome and resurfaces in hover states, price tags, and the "Entertainment With Sharp Edges" tagline. The palette is deliberately gritty: #0f0f0f and #121212 create a near-black canvas for product photography, while #eeeeee and #fefefe provide high-contrast text on dark surfaces. A surprising teal-adjacent #aadddd appears as an accent — possibly a nod to vintage VHS tape labels or retro horror typography — and #a24e4e offers a desaturated secondary red that keeps the brand from feeling like a single-note slasher. Roboto runs the typography at moderate weights, giving the site a utilitarian, no-nonsense readability that lets the absurdist cover art and genre descriptions do the theatrical work. Buttons use hard corners ({rounded.sm}) rather than pills, and product cards stack with tight spacing ({spacing.md}) and thin hairline borders (#444444), evoking the crowded shelves of a video store. The overall effect is a digital exploitation-label storefront: dark, loud when it needs to be, and unapologetically niche.
+name: "Severin Films"
+source_url: "https://severin-films.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A crimson pulse — #b62030 — runs through every Severin Films page like a genre-movie blood spatter, the meta-theme color that stains the browser chrome and resurfaces in hover states, price tags, and the "Entertainment With Sharp Edges" tagline. The palette is deliberately gritty: #0f0f0f and #121212 create a near-black canvas for product photography, while #eeeeee and #fefefe provide high-contrast text on dark surfaces. A surprising teal-adjacent #aadddd appears as an accent — possibly a nod to vintage VHS tape labels or retro horror typography — and #a24e4e offers a desaturated secondary red that keeps the brand from feeling like a single-note slasher. Roboto runs the typography at moderate weights, giving the site a utilitarian, no-nonsense readability that lets the absurdist cover art and genre descriptions do the theatrical work. Buttons use hard corners ({rounded.sm}) rather than pills, and product cards stack with tight spacing ({spacing.md}) and thin hairline borders (#444444), evoking the crowded shelves of a video store. The overall effect is a digital exploitation-label storefront: dark, loud when it needs to be, and unapologetically niche.
 
 colors:
   primary: "#b62030"
@@ -396,6 +400,8 @@ components:
 - Search bar may collapse to icon-only on mobile, expanding on tap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for all components are inferred from extracted colors and common patterns; actual hover transitions (ease, duration) are unknown
 - Error states for forms (validation messages, error icons) are not extracted

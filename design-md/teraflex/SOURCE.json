@@ -1,0 +1,846 @@
+{
+  "source_url": "https://teraflex.com",
+  "final_url": "https://teraflex.com/",
+  "captured_at": "2026-09-28T09:26:10.363430+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://teraflex.com",
+      "final_url": "https://teraflex.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "3320e7737dcf457cedd0d07c41d41acdd1361e8edf04ae7722328df48ef4b726",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css",
+      "final_url": "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0e24862acc20a2e6eb0ef97841808d39317bc5f448a210e5095358d9ca47b749",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Roboto:400,700,900",
+      "final_url": "https://fonts.googleapis.com/css?family=Roboto:400,700,900",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "6f8fe41015e60424be7f910fe536c2dba01f607cb6dc31587eaf13033783bad0",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Anton&family=Barlow+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Anton&family=Barlow+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "0105a095e94b5986403d82b491a634686a2cc0fcd5669595e2f580641d6f4f16",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 400,
+      "sources": [
+        "https://teraflex.com/",
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#da2128": {
+      "count": 177,
+      "sources": [
+        "https://teraflex.com/",
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#000000": {
+      "count": 138,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#616161": {
+      "count": 101,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 80,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#333333": {
+      "count": 53,
+      "sources": [
+        "https://teraflex.com/",
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 34,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#c5c5c5": {
+      "count": 31,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 30,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#1e1e1e": {
+      "count": 26,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#444444": {
+      "count": 15,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#58595b": {
+      "count": 12,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#0370c4": {
+      "count": 11,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#777777": {
+      "count": 10,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#404041": {
+      "count": 10,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#999999": {
+      "count": 9,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#ed1c24": {
+      "count": 9,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#6d6e70": {
+      "count": 9,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#efefef": {
+      "count": 8,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#c8c6c5": {
+      "count": 7,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 6,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#4af510": {
+      "count": 6,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#2b2b2b": {
+      "count": 6,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#cfcfcf": {
+      "count": 5,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 5,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#dcdcdc": {
+      "count": 5,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#ff0084": {
+      "count": 5,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 4,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 4,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 4,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#808080": {
+      "count": 4,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#d8d8d8": {
+      "count": 4,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#76c7fe": {
+      "count": 4,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#e2a037": {
+      "count": 4,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#3f3f3f": {
+      "count": 4,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#ffb425": {
+      "count": 4,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#0358f0": {
+      "count": 4,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#6e716e": {
+      "count": 3,
+      "sources": [
+        "https://teraflex.com/"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 3,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#dbdbdb": {
+      "count": 3,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#666666": {
+      "count": 3,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#c7c7c7": {
+      "count": 3,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#8f8f8f": {
+      "count": 3,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#db2027": {
+      "count": 3,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#0b0b0b": {
+      "count": 3,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#2e3135": {
+      "count": 3,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#bdbdbd": {
+      "count": 3,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#d87a68": {
+      "count": 3,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#ce563f": {
+      "count": 3,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#205081": {
+      "count": 3,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#163758": {
+      "count": 3,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#1087dd": {
+      "count": 3,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#0d6aad": {
+      "count": 3,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#3b5998": {
+      "count": 3,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#2d4373": {
+      "count": 3,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#cc006a": {
+      "count": 3,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#f94877": {
+      "count": 3,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#f71752": {
+      "count": 3,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#dd4b39": {
+      "count": 3,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "#c23321": {
+      "count": 3,
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+    ],
+    "Anton": [
+      "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css",
+      "https://fonts.googleapis.com/css2?family=Anton&family=Barlow+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+    ],
+    "Anton\" !important": [
+      "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+    ],
+    "Arial": [
+      "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+    ],
+    "Barlow": [
+      "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css",
+      "https://fonts.googleapis.com/css2?family=Anton&family=Barlow+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+    ],
+    "Barlow Condensed": [
+      "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css",
+      "https://fonts.googleapis.com/css2?family=Anton&family=Barlow+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Barlow:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+    ],
+    "Baskerville": [
+      "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+    ],
+    "FontAwesome": [
+      "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+    ],
+    "Fontawesome": [
+      "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+    ],
+    "Helvetica": [
+      "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+    ],
+    "Helvetica Neue": [
+      "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+    ],
+    "Helvetica Reg": [
+      "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+    ],
+    "HelveticaNeue-Condensed": [
+      "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+    ],
+    "HelveticaNeue-CondensedBold": [
+      "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+    ],
+    "Lato": [
+      "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+    ],
+    "Open Sans": [
+      "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+    ],
+    "Roboto": [
+      "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css",
+      "https://fonts.googleapis.com/css?family=Roboto:400,700,900"
+    ],
+    "Segoe UI": [
+      "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+    ],
+    "icons-blank-theme": [
+      "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+    ],
+    "luma-icons": [
+      "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+    ],
+    "monospace": [
+      "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+    ],
+    "sans-serif": [
+      "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+    ],
+    "sans-serif !important": [
+      "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+    ],
+    "system-ui": [
+      "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://teraflex.com/",
+      "selector": "l-login-popup .social-login #bnt-social-login-authentication, #social-login-popup .forgot .primary button, #social-login-popup .create .primary button, #social-",
+      "declarations": "background-color: #6e716e; border: #6e716e"
+    },
+    {
+      "source": "https://teraflex.com/",
+      "selector": ".mpquickcart .modal-header",
+      "declarations": "background-color: #1979c3; color: #ffffff;"
+    },
+    {
+      "source": "https://teraflex.com/",
+      "selector": ".mpquickcart .modal-header .action-close:before",
+      "declarations": "color: #ffffff;"
+    },
+    {
+      "source": "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css",
+      "selector": "button,input[type=\"button\"],input[type=\"reset\"],input[type=\"submit\"],button",
+      "declarations": "-webkit-appearance:none;-moz-appearance:none;-o-appearance:none;appearance:none;-webkit-font-smoothing:antialiased;background-color:#477dca;border-radius:3px;border:none;color:#fff;cursor:pointer;display:inline-block;font-family:inherit;font-size:14px;font-weight:600;line-height:1;padding:0.75em 1em;text-decoration:none;-webkit-user-select:none;-moz-user-select:none;user-select:none;vertical-align:middle;white-space:nowrap"
+    },
+    {
+      "source": "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css",
+      "selector": "r,button:focus,input[type=\"button\"]:hover,input[type=\"button\"]:focus,input[type=\"reset\"]:hover,input[type=\"reset\"]:focus,input[type=\"submit\"]:hover,input[type=\"",
+      "declarations": "background-color:#2c5999;color:#fff"
+    },
+    {
+      "source": "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css",
+      "selector": ".webforms .form .field.type-date button.ui-datepicker-trigger",
+      "declarations": "display:none;position:initial;top:0;right:0;margin-left:0;width:100%;height:30px;background-color:#da2128;border-radius:0;color:#ffffff;text-transform:uppercase;font-weight:bold;padding:0;font-size:14px"
+    },
+    {
+      "source": "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css",
+      "selector": ".webforms .form button.submit",
+      "declarations": "width:100%;height:30px;background-color:#da2128;border-radius:0;color:#ffffff;text-transform:uppercase;font-weight:bold;padding:0;font-size:14px"
+    },
+    {
+      "source": "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css",
+      "selector": "#ui-datepicker-div button",
+      "declarations": "width:100%;height:30px;background-color:#da2128;border-radius:0;color:#ffffff;text-transform:uppercase;font-weight:bold;padding:0;font-size:14px"
+    },
+    {
+      "source": "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css",
+      "selector": "body",
+      "declarations": "-ms-font-feature-settings:\"kern\",\"liga\",\"pnum\";font-feature-settings:\"kern\",\"liga\",\"pnum\";-webkit-font-smoothing:antialiased;color:#1E1E1E;font-family:\"Barlow\",system-ui,-apple-system,Segoe UI,Roboto,Arial,sans-serif;font-size:14px;line-height:1.5;margin:0;top:0 !important"
+    },
+    {
+      "source": "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "font-family:\"Barlow Condensed\",system-ui,sans-serif;font-size:14px;line-height:1.2;margin:0 0 .75em;color:#da2128"
+    },
+    {
+      "source": "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css",
+      "selector": "h1,h2",
+      "declarations": "font-family:\"Anton\",system-ui,sans-serif;color:#000"
+    },
+    {
+      "source": "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css",
+      "selector": ".email--popup button",
+      "declarations": "border-radius:0;background-color:#da2128;width:100%;height:35px;text-transform:uppercase;color:#ffffff;font-family:inherit;font-weight:600;font-size:20px;line-height:1;padding:0"
+    },
+    {
+      "source": "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css",
+      "selector": ".email--popup button:hover",
+      "declarations": "background-color:#da2128"
+    },
+    {
+      "source": "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css",
+      "selector": ".header--mobile",
+      "declarations": "background-color:#000;box-shadow:0 3px 3px 0 rgba(0,0,0,0.25);position:relative;z-index:2"
+    },
+    {
+      "source": "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css",
+      "selector": ".header--mobile .fa",
+      "declarations": "color:#fff;font-size:16px"
+    },
+    {
+      "source": "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css",
+      "selector": ".header--mobile .mobile--top .nav-toggle.active .fa,.header--mobile .mobile--top .configurator-toggle.active .fa",
+      "declarations": "color:#da2128"
+    },
+    {
+      "source": "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css",
+      "selector": ".header--mobile .mobile--menu",
+      "declarations": "display:none;background-color:#F4F4F4;min-height:100vh;width:100%;position:fixed"
+    },
+    {
+      "source": "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css",
+      "selector": ".header--mobile .mobile--nav__header",
+      "declarations": "display:none;text-align:center;font-family:inherit;font-weight:900;padding:25px 0 20px;background-color:#616161"
+    },
+    {
+      "source": "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css",
+      "selector": ".header--mobile .mobile--nav__header .configurator-toggle",
+      "declarations": "font-family:\"Barlow Condensed\", sans-serif;font-weight:400;font-size:22px;line-height:24px;text-align:center;vertical-align:middle;text-transform:uppercase;padding:10px 24px 10px 24px;opacity:1;border-radius:5px;border:1px solid #fff;color:#fff;width:87%"
+    },
+    {
+      "source": "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css",
+      "selector": ".header--mobile .mobile--nav__header a",
+      "declarations": "color:#fff;text-transform:capitalize;display:flex;justify-content:space-between;font-size:22px;font-family:\"Barlow Condensed\", sans-serif"
+    },
+    {
+      "source": "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css",
+      "selector": ".header--mobile .mobile--nav__header a .fa",
+      "declarations": "color:#f0f0f0;font-size:14px;margin-top:6px"
+    },
+    {
+      "source": "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css",
+      "selector": ".header--mobile .mobile--nav",
+      "declarations": "display:none;background-color:#F4F4F4;padding:0 10px;color:#fff;font-size:14px;font-weight:900;text-transform:uppercase;padding-bottom:20px;max-height:51vh;overflow:scroll"
+    },
+    {
+      "source": "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css",
+      "selector": ".header--mobile .mobile--nav li a",
+      "declarations": "text-transform:capitalize;font-family:\"Barlow Condensed\", sans-serif;color:#1E1E1E;font-weight:500;font-size:22px"
+    },
+    {
+      "source": "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css",
+      "selector": ".header--mobile .mobile-nav__products,.header--mobile .mobile-nav__lifelifted,.header--mobile .mobile-nav__vehicles",
+      "declarations": "display:none;background-color:#333333;padding:0 10px;color:#fff;font-size:14px;font-weight:900;text-transform:uppercase;padding-bottom:23px;max-height:51vh;overflow:scroll"
+    },
+    {
+      "source": "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css",
+      "selector": ".header--mobile .mobile-nav__products.active,.header--mobile .mobile-nav__lifelifted.active,.header--mobile .mobile-nav__vehicles.active",
+      "declarations": "display:block;z-index:9;max-height:68vh;padding-bottom:160px;width:100%;background-color:#F4F4F4"
+    },
+    {
+      "source": "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css",
+      "selector": ".header--mobile .mobile-nav__products a,.header--mobile .mobile-nav__lifelifted a,.header--mobile .mobile-nav__vehicles a",
+      "declarations": "text-transform:capitalize;font-family:\"Barlow Condensed\";color:black;font-weight:500;font-size:22px"
+    },
+    {
+      "source": "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css",
+      "selector": ".header--mobile .mobile-nav__products li:after,.header--mobile .mobile-nav__lifelifted li:after,.header--mobile .mobile-nav__vehicles li:after",
+      "declarations": "font-family:Fontawesome;content:'\\f054';position:absolute;right:5px;color:#1E1E1E;font-weight:100;font-size:12px;margin-top:6px"
+    },
+    {
+      "source": "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css",
+      "selector": "efore,.header--mobile .mobile-nav__lifelifted li .lifelifted-trigger:before,.header--mobile .mobile-nav__vehicles li.nav-back:before,.header--mobile .mobile-nav",
+      "declarations": "font-family:Fontawesome;content:'\\f053';position:absolute;left:15px;color:#1E1E1E;font-size:12px;margin-top:6px"
+    },
+    {
+      "source": "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css",
+      "selector": ".header--mobile .mobile--nav .search--container input[type=\"text\"]",
+      "declarations": "float:left;width:75%;background-color:transparent;border:none;box-shadow:none;margin-bottom:0;padding:0;color:#fff;font-family:inherit;font-weight:900"
+    },
+    {
+      "source": "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css",
+      "selector": ".header--mobile .mobile--nav .search--container input[type=\"text\"]::-webkit-input-placeholder",
+      "declarations": "color:#fff"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "TeraFlex | TeraFlex | Premium Jeep & Bronco Suspension Systems | TeraFlex Suspension | Proven Off-Road Performance | TeraFlex Off-Road Parts | Jeep, Truck & Bronco Upgrades | TeraFlex | Lift Kits, Shocks & Trail-Ready Suspension | Engineered Suspensi",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teraflex.com/",
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teraflex.com/",
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teraflex.com/",
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teraflex.com/",
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "colors.surface-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "colors.panel-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "colors.border-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teraflex.com/static/_cache/merged/3df4ac4f13de2a2196896d65eaa42534.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.vehicle-fitment-selector": {
+      "status": "inferred"
+    }
+  }
+}

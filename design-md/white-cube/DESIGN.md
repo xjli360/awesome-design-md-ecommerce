@@ -1,11 +1,15 @@
 ---
 version: alpha
-name: White Cube
-description: Three cuts of Beausite — display for headings, text for navigation and prose, detail for caption and annotation — structure White Cube's site the way a curatorial wall label structures a gallery: the artist's name at scale, the work title one tier below, the medium and date in the smallest layer. The hierarchy is not decorative; it is the design. Against a near-white canvas (#fafafa), cobalt (#003399) arrives as institutional declaration rather than brand color — closer in register to a European museum department plaque than to a commercial gallery eager to be noticed. It appears on primary CTAs, active link states, and selected navigation elements; it does not decorate. The Shopify-powered editions shop introduces a quiet commerce layer that shares identical typographic restraint with every editorial page — no color shift, no marketing register, just product titles and prices in beausite-text at body scale.
+name: "White Cube"
+source_url: "https://whitecube.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Three cuts of Beausite — display for headings, text for navigation and prose, detail for caption and annotation — structure White Cube's site the way a curatorial wall label structures a gallery: the artist's name at scale, the work title one tier below, the medium and date in the smallest layer. The hierarchy is not decorative; it is the design. Against a near-white canvas (#fafafa), cobalt (#003399) arrives as institutional declaration rather than brand color — closer in register to a European museum department plaque than to a commercial gallery eager to be noticed. It appears on primary CTAs, active link states, and selected navigation elements; it does not decorate. The Shopify-powered editions shop introduces a quiet commerce layer that shares identical typographic restraint with every editorial page — no color shift, no marketing register, just product titles and prices in beausite-text at body scale.
 
-The palette carries unexpected warmth in its secondary register. An orange-sienna (#da532c) surfaces as an event or exhibition alert — the temperature of a 1970s art-world broadsheet, useful because it breaks the cool institutional field without decorating it. Blush (#ffbbbb) and pale straw (#f7eea6) read as seasonal or exhibition-specific color stories, likely originating in catalog or printed matter rather than permanent UI tokens; they soften the system when present without committing to lifestyle brand warmth.
+  The palette carries unexpected warmth in its secondary register. An orange-sienna (#da532c) surfaces as an event or exhibition alert — the temperature of a 1970s art-world broadsheet, useful because it breaks the cool institutional field without decorating it. Blush (#ffbbbb) and pale straw (#f7eea6) read as seasonal or exhibition-specific color stories, likely originating in catalog or printed matter rather than permanent UI tokens; they soften the system when present without committing to lifestyle brand warmth.
 
-Full-bleed photography — installation views, artist portraits, surface details — carries the experiential weight that copy cannot. Type sits in a column grid above or below, never competing. Hairlines divide where boxes would crowd; corners are universally sharp ({rounded.none}). The white cube, by definition, has no curves. At mobile, the grid collapses to a single track and generous vertical rhythm preserves the pacing that makes editorial content legible at reading distance. The Shopify scaffold is nearly invisible behind the editorial voice.
+  Full-bleed photography — installation views, artist portraits, surface details — carries the experiential weight that copy cannot. Type sits in a column grid above or below, never competing. Hairlines divide where boxes would crowd; corners are universally sharp ({rounded.none}). The white cube, by definition, has no curves. At mobile, the grid collapses to a single track and generous vertical rhythm preserves the pacing that makes editorial content legible at reading distance. The Shopify scaffold is nearly invisible behind the editorial voice.
 
 colors:
   primary: "#003399"
@@ -298,6 +302,8 @@ components:
 - Footer columns: 4-column grid collapses to 2-column at tablet, single-column stacked at mobile with the newsletter input promoted above the link lists
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Font weights for each Beausite cut are not confirmed from extraction; weight 300 (display) and 400 (text/detail) are inferred from the gallery's known institutional aesthetic — actual weights may differ
 - The exact role split between beausite-display, beausite-text, and beausite-detail is inferred from naming convention; no CSS variable declarations were captured confirming which cut maps to which use

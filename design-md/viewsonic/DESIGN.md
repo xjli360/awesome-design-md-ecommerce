@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: ViewSonic
-description: |
+name: "ViewSonic"
+source_url: "https://www.viewsonic.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Deep crimson (#990000) bleeds through every navigation hover, CTA gradient terminus, and category accent on ViewSonic's site — a color closer to dried lacquer than the cherry-reds typical of consumer electronics, anchoring the interface in something almost industrial. The palette doubles down with #db0025 for primary action buttons and promotional flashes, while #6e0000 lurks beneath as the pressed/active darkening — three registers of the same red bloodline. Body type runs Open Sans at 400/600 weights across a neutral Helvetica Neue fallback stack, kept deliberately unserifed and tight-tracked so product specs and comparison tables remain scannable at 14px. Display headlines push to 600–700 weight but rarely exceed 32px; the brand lets full-bleed monitor photography do the shouting. Cards and product tiles sit on #ffffff surfaces with `{rounded.xs}` corners — barely softened rectangles that echo the physical geometry of bezels and screens. The canvas alternates between pure white and #f2f2f2 banding for section separation, with #e2e2e2 hairlines dividing spec rows. A secondary palette surfaces in product-category contexts: #7fbbe7 (a washed cerulean for "Business" lines), #ff5501 (a construction-cone orange for gaming/promotional urgency), and a quiet #c5d7ce sage that appears in sustainability messaging. Navigation is a sticky black bar (#111111) with white type, collapsing to a hamburger below 1024px. Spacing is utilitarian — `{spacing.base}` (16px) between card grid gutters, `{spacing.section}` (64px) between marketing bands — and the overall density is high: ViewSonic packs monitor specs, comparison toggles, and purchase CTAs into viewport-height hero modules without scroll prompting.
 
 colors:
@@ -380,6 +383,8 @@ components:
 - Hero banner copy + image side-by-side → stacked vertically (copy above image)
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom web font beyond Open Sans detected; ViewSonic may load a proprietary display face via JS or font-display swap that was not captured in the static extraction
 - The iconic three-bird logo colors (red/green/blue) are partially represented in the palette (#990000 red, #7fbbe7 blue, #c5d7ce sage-green) but exact logo-mark hex values may differ from UI tokens

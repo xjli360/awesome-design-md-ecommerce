@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Field Company
-description: Field Company brings a quiet, rugged warmth to cookware, built on a palette of deep navy-blues and steely grays that evoke a well-seasoned skillet and the workshop where it was forged. The brand’s canvas is a soft off-white (`#f8f7f7`) that feels tactile rather than sterile, with ink tones (`#0b1e2f`) and body text (`#3a3a3a`) that read as sturdy and grounded. Signature accents like `#f9c23c` (a warm, buttery gold) and `#0e7a82` (a teal inspired by patina) appear sparingly — on badges, hover states, and secondary CTAs — adding just enough brightness against the dominant `#557b97` (the meta theme-color and primary blue) and `#434e4e` (a muted olive-gray used for secondary text). Typography leans heavily on GT America for clean, utilitarian body copy and Beaufort for display headings that carry a slight serif warmth, echoing the brand’s blend of heritage craftsmanship and modern precision. Rounded corners are restrained (`{rounded.sm}` on buttons, `{rounded.md}` on cards), never pill-shaped, keeping the interface honest and tool-like. The overall mood is confident, unpretentious, and deeply material — like a cast-iron pan that only gets better with use.
+name: "Field Company"
+source_url: "https://fieldcompany.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Field Company brings a quiet, rugged warmth to cookware, built on a palette of deep navy-blues and steely grays that evoke a well-seasoned skillet and the workshop where it was forged. The brand’s canvas is a soft off-white (`#f8f7f7`) that feels tactile rather than sterile, with ink tones (`#0b1e2f`) and body text (`#3a3a3a`) that read as sturdy and grounded. Signature accents like `#f9c23c` (a warm, buttery gold) and `#0e7a82` (a teal inspired by patina) appear sparingly — on badges, hover states, and secondary CTAs — adding just enough brightness against the dominant `#557b97` (the meta theme-color and primary blue) and `#434e4e` (a muted olive-gray used for secondary text). Typography leans heavily on GT America for clean, utilitarian body copy and Beaufort for display headings that carry a slight serif warmth, echoing the brand’s blend of heritage craftsmanship and modern precision. Rounded corners are restrained (`{rounded.sm}` on buttons, `{rounded.md}` on cards), never pill-shaped, keeping the interface honest and tool-like. The overall mood is confident, unpretentious, and deeply material — like a cast-iron pan that only gets better with use.
 
 colors:
   primary: "#557b97"
@@ -300,6 +304,8 @@ components:
 - Footer links collapse from multi-column to single-column on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components (e.g., button-secondary hover, text-input focus border) are inferred from brand colors; exact transitions and shadows are not extracted.
 - Error and validation styling for forms (e.g., red borders, error messages) is not available from the live site.

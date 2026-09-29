@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: J-Subculture
-description: An import shop that feels like a well-organized warehouse aisle lit by fluorescent tubes and staffed by people who know exactly where every SKU lives. The palette is almost entirely system — #337ab7 (a mid-blue that suggests a corporate portal rather than a boutique), #777777 for body text, #eeeeee for backgrounds, and a full suite of Bootstrap alert colors (#3c763d green, #8a6d3b yellow, #a94442 red, #31708f teal) that the site uses for shipping statuses, stock warnings, and membership tier badges. There is no brand color in the conventional sense; the most distinctive accent is #337ab7, which appears on primary CTAs and the top nav, but it reads as a framework default rather than a deliberate choice. The typography stack is equally utilitarian — Arial, Helvetica Neue, and sans-serif for body copy, with monospace (Consolas, Monaco, Menlo) reserved for product codes and tracking numbers that appear in small, tightly-spaced tables. Rounded corners are minimal: buttons use `{rounded.xs}` (4px), cards use `{rounded.sm}` (8px), and the search bar is a simple rectangle with `{rounded.none}`. The site prioritizes density over whitespace — product listings stack in tight grids with 8px gaps (`{spacing.sm}`), and every inch of the viewport carries information: prices in bold, stock counts in muted gray, shipping estimates in green badges. The overall impression is of a tool, not a destination — a proxy shopping service that wants you to find your item, add it to cart, and move on.
+name: "J-Subculture"
+source_url: "https://www.j-subculture.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  An import shop that feels like a well-organized warehouse aisle lit by fluorescent tubes and staffed by people who know exactly where every SKU lives. The palette is almost entirely system — #337ab7 (a mid-blue that suggests a corporate portal rather than a boutique), #777777 for body text, #eeeeee for backgrounds, and a full suite of Bootstrap alert colors (#3c763d green, #8a6d3b yellow, #a94442 red, #31708f teal) that the site uses for shipping statuses, stock warnings, and membership tier badges. There is no brand color in the conventional sense; the most distinctive accent is #337ab7, which appears on primary CTAs and the top nav, but it reads as a framework default rather than a deliberate choice. The typography stack is equally utilitarian — Arial, Helvetica Neue, and sans-serif for body copy, with monospace (Consolas, Monaco, Menlo) reserved for product codes and tracking numbers that appear in small, tightly-spaced tables. Rounded corners are minimal: buttons use `{rounded.xs}` (4px), cards use `{rounded.sm}` (8px), and the search bar is a simple rectangle with `{rounded.none}`. The site prioritizes density over whitespace — product listings stack in tight grids with 8px gaps (`{spacing.sm}`), and every inch of the viewport carries information: prices in bold, stock counts in muted gray, shipping estimates in green badges. The overall impression is of a tool, not a destination — a proxy shopping service that wants you to find your item, add it to cart, and move on.
 
 colors:
   primary: "#337ab7"
@@ -367,6 +371,8 @@ components:
 - Sidebar filters (category, price range) collapse to a toggleable drawer below 768px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No extracted hover states for secondary buttons, links, or badges beyond what's listed — hover colors for `button-success`, `button-danger`, and badge variants are inferred from Bootstrap defaults
 - No extracted active/focus states for form inputs beyond the primary blue ring — error states, success states, and validation styling are unknown

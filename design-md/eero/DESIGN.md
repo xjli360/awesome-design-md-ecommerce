@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Eero
-description: Eero’s interface is a study in controlled contrast — a deep near-black ink (#0e0f0f) against a cool white canvas (#f7f7f7), punctuated by a single electric-blue anchor (#2668ff) that appears only where action is required. The brand trusts its hardware to do the talking; the UI stays out of the way, using generous negative space and a restrained type palette built on Centra No2 — a geometric sans-serif with a slight humanist warmth that keeps the experience from feeling cold or technical. Buttons are softly rounded (`{rounded.sm}` ~8px), never pill-shaped, and the primary CTA carries that blue voltage without gradient or shadow — flat, confident, direct. Error states and promotional accents introduce a coral-red (#e80a2a) and a muted sage-green (#00b086), but these are sparingly deployed, like indicator lights on a router. The navigation bar is a thin, transparent strip with minimal chrome — no heavy drop shadows, no sticky gradients — just a clean line of type and a subtle hairline (#e0e0e0) separating it from the hero. Product cards use a soft surface (#ffffff) with a rounded corner (`{rounded.md}` ~12px) and a thin border (#d8d8d8), creating a floating-card system that feels modular and expandable. The overall mood is one of quiet competence: the interface doesn’t perform, it facilitates. Every pixel is in service of the message that your network is stable, secure, and simple.
+name: "Eero"
+source_url: "https://eero.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Eero’s interface is a study in controlled contrast — a deep near-black ink (#0e0f0f) against a cool white canvas (#f7f7f7), punctuated by a single electric-blue anchor (#2668ff) that appears only where action is required. The brand trusts its hardware to do the talking; the UI stays out of the way, using generous negative space and a restrained type palette built on Centra No2 — a geometric sans-serif with a slight humanist warmth that keeps the experience from feeling cold or technical. Buttons are softly rounded (`{rounded.sm}` ~8px), never pill-shaped, and the primary CTA carries that blue voltage without gradient or shadow — flat, confident, direct. Error states and promotional accents introduce a coral-red (#e80a2a) and a muted sage-green (#00b086), but these are sparingly deployed, like indicator lights on a router. The navigation bar is a thin, transparent strip with minimal chrome — no heavy drop shadows, no sticky gradients — just a clean line of type and a subtle hairline (#e0e0e0) separating it from the hero. Product cards use a soft surface (#ffffff) with a rounded corner (`{rounded.md}` ~12px) and a thin border (#d8d8d8), creating a floating-card system that feels modular and expandable. The overall mood is one of quiet competence: the interface doesn’t perform, it facilitates. Every pixel is in service of the message that your network is stable, secure, and simple.
 
 colors:
   primary: "#2668ff"
@@ -453,6 +457,8 @@ components:
 - Search bar: On mobile, the search bar may collapse to an icon that expands on tap.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states**: Only primary/secondary button hover states were reliably extracted. Hover states for cards, links, and navigation items are inferred from common patterns and may differ from the live site.
 - **Error styling**: Error text color (#e80a2a) was extracted, but full error state styling (icons, borders, helper text) is inferred. The live site may use different patterns.

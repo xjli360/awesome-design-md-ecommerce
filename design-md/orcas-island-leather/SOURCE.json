@@ -1,0 +1,850 @@
+{
+  "source_url": "https://orcasislandleather.com",
+  "final_url": "https://orcasislandleather.com/",
+  "captured_at": "2026-09-28T09:13:42.428795+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://orcasislandleather.com",
+      "final_url": "https://orcasislandleather.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "cc805efd803ff90aaed69865d106a293a5603b8125f312546b9217805bff3c60",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://orcasislandleather.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://orcasislandleather.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+      "final_url": "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "12ebc379bfb748f0eeec7e254fe7210e8191d2cc3ead87141eed3f9edcbeb29b",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.judge.me/shopify_v2.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "be10bc4b16346e787891f1da5de658505019fcd30172651891a4bf550c948e36",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://orcasislandleather.com/cdn/shop/t/10/assets/shopacado-styles.css?v=162767427492711984341698268942",
+      "final_url": "https://orcasislandleather.com/cdn/shop/t/10/assets/shopacado-styles.css?v=162767427492711984341698268942",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "dd7c717e62af011140ef510d852cf30ae88b883ea6aa77ca3cbf9913543da756",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#2b445e": {
+      "count": 119,
+      "sources": [
+        "https://orcasislandleather.com/",
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+      ]
+    },
+    "#dddddd": {
+      "count": 94,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 90,
+      "sources": [
+        "https://orcasislandleather.com/",
+        "https://orcasislandleather.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/shopacado-styles.css?v=162767427492711984341698268942"
+      ]
+    },
+    "#eeeeee": {
+      "count": 32,
+      "sources": [
+        "https://orcasislandleather.com/",
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#000000": {
+      "count": 19,
+      "sources": [
+        "https://orcasislandleather.com/",
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#8a8a8a": {
+      "count": 19,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+      ]
+    },
+    "#a09489": {
+      "count": 16,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+      ]
+    },
+    "#232323": {
+      "count": 15,
+      "sources": [
+        "https://orcasislandleather.com/",
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+      ]
+    },
+    "#108474": {
+      "count": 12,
+      "sources": [
+        "https://orcasislandleather.com/",
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 8,
+      "sources": [
+        "https://orcasislandleather.com/",
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#5783b2": {
+      "count": 8,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+      ]
+    },
+    "#333333": {
+      "count": 7,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#95a2af": {
+      "count": 6,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+      ]
+    },
+    "#2b445e40": {
+      "count": 6,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+      ]
+    },
+    "#ffffff40": {
+      "count": 6,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+      ]
+    },
+    "#555555": {
+      "count": 6,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#d60000": {
+      "count": 5,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+      ]
+    },
+    "#000000cc": {
+      "count": 5,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+      ]
+    },
+    "#666666": {
+      "count": 5,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#928578": {
+      "count": 4,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+      ]
+    },
+    "#95877b": {
+      "count": 4,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+      ]
+    },
+    "#ff7070": {
+      "count": 4,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+      ]
+    },
+    "#ffffff80": {
+      "count": 4,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+      ]
+    },
+    "#2b445e0d": {
+      "count": 4,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+      ]
+    },
+    "#00000000": {
+      "count": 3,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+      ]
+    },
+    "#e4e4e4": {
+      "count": 3,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 3,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#0078bd": {
+      "count": 3,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/shopacado-styles.css?v=162767427492711984341698268942"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#ffff00": {
+      "count": 2,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#b33a3a": {
+      "count": 2,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+      ]
+    },
+    "#808080": {
+      "count": 2,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+      ]
+    },
+    "#888888": {
+      "count": 2,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#00000080": {
+      "count": 2,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 2,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+      ]
+    },
+    "#108144": {
+      "count": 2,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 2,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 2,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+      ]
+    },
+    "#fbcd0a": {
+      "count": 2,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 2,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 2,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#a89cc8": {
+      "count": 2,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#c1e6e6": {
+      "count": 2,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#7b7b7b": {
+      "count": 1,
+      "sources": [
+        "https://orcasislandleather.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://orcasislandleather.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://orcasislandleather.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://orcasislandleather.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://orcasislandleather.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://orcasislandleather.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://orcasislandleather.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://orcasislandleather.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#c0c0c0": {
+      "count": 1,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+      ]
+    },
+    "#2b445e33": {
+      "count": 1,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 1,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+      ]
+    },
+    "#355373": {
+      "count": 1,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+      ]
+    },
+    "#607386": {
+      "count": 1,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+      ]
+    },
+    "#d8d8d6": {
+      "count": 1,
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+      "https://cdn.judge.me/shopify_v2.css"
+    ],
+    "Baskerville": [
+      "https://cdn.judge.me/shopify_v2.css"
+    ],
+    "Bodoni Moda": [
+      "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+    ],
+    "Helvetica": [
+      "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+      "https://cdn.judge.me/shopify_v2.css"
+    ],
+    "JudgemeIcons": [
+      "https://cdn.judge.me/shopify_v2.css"
+    ],
+    "JudgemeIcons\" !important": [
+      "https://cdn.judge.me/shopify_v2.css"
+    ],
+    "JudgemeIcons' !important": [
+      "https://cdn.judge.me/shopify_v2.css"
+    ],
+    "JudgemeStar": [
+      "https://orcasislandleather.com/"
+    ],
+    "JudgemeStar' !important": [
+      "https://cdn.judge.me/shopify_v2.css"
+    ],
+    "Lato": [
+      "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+    ],
+    "Nunito Sans": [
+      "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+      "https://cdn.judge.me/shopify_v2.css"
+    ],
+    "arial": [
+      "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+    ],
+    "chiko-icons": [
+      "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+    ],
+    "monospace": [
+      "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+      "https://cdn.judge.me/shopify_v2.css"
+    ],
+    "pxu-social-icons": [
+      "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+    ],
+    "sans-serif": [
+      "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+      "https://cdn.judge.me/shopify_v2.css"
+    ],
+    "serif": [
+      "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://orcasislandleather.com/",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #108474;--jdgm-secondary-color: rgba(16,132,116,0.1);--jdgm-star-color: #108474;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #108474;--jdgm-paginate-color: #108474;--jdgm-border-radius: 0;--jdgm-reviewer-name-color: #108474"
+    },
+    {
+      "source": "https://orcasislandleather.com/",
+      "selector": ":root",
+      "declarations": "--shopify-chat-bg-color: #FFFFFF;\n    --shopify-chat-text-color: #000000;\n    --shopify-chat-accent-bg-color: #000000;\n    --shopify-chat-accent-text-color: #FFFFFF;\n    --shopify-chat-activator-offset: 20px;\n\n    \n\n    --shopify-chat-activator-font-size: 16px;\n    --shopify-chat-border-radius: 16px;"
+    },
+    {
+      "source": "https://orcasislandleather.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://orcasislandleather.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://orcasislandleather.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://orcasislandleather.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://orcasislandleather.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://orcasislandleather.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0"
+    },
+    {
+      "source": "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+      "selector": "-list .mega-nav-list-title-link,.product-title,.home-masonry-feature-title,th,.section-title,.page-title,.shopify-policy__title h1,h1,h2,h3,h4,h5,h6,.home-slide",
+      "declarations": "font-family:Bodoni Moda,serif;font-style:normal;font-weight:400;color:#2b445e"
+    },
+    {
+      "source": "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+      "selector": "-payment-button__button--unbranded,noscript .shopify-localization-form .disclosure__submit,.pxs-newsletter-form-button,.pxs-image-with-text-button,.button,.subm",
+      "declarations": "font-family:Lato,sans-serif;font-style:normal;font-weight:400;padding:0;cursor:pointer;background:transparent;border:0;-webkit-appearance:none;appearance:none"
+    },
+    {
+      "source": "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+      "selector": "igation-desktop .has-mega-nav summary:after,input[type=submit].header-search-button,.product-thumbnails-navigation-previous,.product-thumbnails-navigation-next,",
+      "declarations": "font-family:chiko-icons;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale"
+    },
+    {
+      "source": "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+      "selector": ".header-branding .logo-link,.template-password .password-branding .logo-link",
+      "declarations": "display:inline-block;max-width:100%;font-size:0;color:#2b445e;word-break:break-word"
+    },
+    {
+      "source": "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+      "selector": ".header-branding h1,.template-password .password-branding h1",
+      "declarations": "font-family:Bodoni Moda,serif;font-style:normal;font-weight:400;margin:0;font-size:2.1428571429rem"
+    },
+    {
+      "source": "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+      "selector": "-price,.mini-cart-item-details .product-price__unit-price,.product .product-price__tax,.product .product-price__unit-price,.cart-item .product-price__unit-price",
+      "declarations": "font-size:13px;color:#95a2af"
+    },
+    {
+      "source": "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+      "selector": ".flickity-prev-next-button.no-svg",
+      "declarations": "color:#000;font-size:1.8571428571rem"
+    },
+    {
+      "source": "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+      "selector": "body",
+      "declarations": "margin:0;color:#2b445e;background-color:#fff;background-size:100% auto"
+    },
+    {
+      "source": "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+      "selector": "body",
+      "declarations": "font-family:Lato,sans-serif;font-style:normal;font-weight:400;color:#2b445e;font-size:16px;line-height:1.625"
+    },
+    {
+      "source": "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+      "selector": "noscript .shopify-localization-form .disclosure__submit,.pxs-newsletter-form-button,.pxs-image-with-text-button,.button,.submit,input[type=submit],input[type=bu",
+      "declarations": "font-family:Lato,sans-serif;font-style:normal;font-weight:400;background:#a09489;color:#2b445e;display:inline-block;text-align:center;line-height:normal;padding:15px 20px;border-radius:2px;font-size:1rem;transition:opacity .2s cubic-bezier(.25,.46,.45,.94),background-color .2s cubic-bezier(.25,.46,.45,.94),color .2s cubic-bezier(.25,.46,.45,.94)"
+    },
+    {
+      "source": "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+      "selector": "t .shopify-localization-form .disclosure__submit:hover,.pxs-newsletter-form-button:hover,.pxs-image-with-text-button:hover,.button:hover,.submit:hover,input[typ",
+      "declarations": "color:#2b445e;background:#95877b"
+    },
+    {
+      "source": "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+      "selector": ".secondary.disclosure__submit,.secondary.pxs-newsletter-form-button,.secondary.pxs-image-with-text-button,.secondary.button,.secondary.submit,input.secondary[ty",
+      "declarations": "background:#2b445e;color:#fff"
+    },
+    {
+      "source": "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+      "selector": "ndary.pxs-newsletter-form-button:hover,.secondary.pxs-image-with-text-button:hover,.secondary.button:hover,.secondary.submit:hover,input.secondary[type=submit]:",
+      "declarations": "color:#fff;background:"
+    },
+    {
+      "source": "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+      "selector": "on-form .disabled.disclosure__submit,.disabled.pxs-newsletter-form-button,.disabled.pxs-image-with-text-button,.disabled.button,.disabled.submit,input.disabled[",
+      "declarations": "background:#ccc;color:#888;cursor:not-allowed"
+    },
+    {
+      "source": "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+      "selector": ".video-section__overlay-header",
+      "declarations": "position:absolute;top:0;left:0;display:flex;flex-direction:column;align-items:center;justify-content:center;width:100%;height:100%;padding:.5rem;margin:auto;text-align:center;background-color:var(--overlay-color)"
+    },
+    {
+      "source": "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+      "selector": ".video-section__play-button--primary",
+      "declarations": "color:#2b445e"
+    },
+    {
+      "source": "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+      "selector": ".product-zoom",
+      "declarations": "position:absolute;background-color:#fff;background-repeat:no-repeat;display:none;top:0;right:0;bottom:0;left:0;z-index:10;cursor:pointer;cursor:zoom-out"
+    },
+    {
+      "source": "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+      "selector": ".product-title a",
+      "declarations": "font-size:inherit;color:inherit;text-decoration:inherit"
+    },
+    {
+      "source": "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+      "selector": ".product-tabs__radio:checked+.product-tabs__label",
+      "declarations": "border-color:#ddd"
+    },
+    {
+      "source": "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+      "selector": ".product-price-compare",
+      "declarations": "margin-left:8px;display:none;color:#95a2af;text-decoration:line-through"
+    },
+    {
+      "source": "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+      "selector": ".product-smart-payments .add-to-cart",
+      "declarations": "color:#fff;background-color:#2b445e"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Orcas Island Leather | DIY Leather Kits for Handmade Leather Goods\n\n    \n\n    \n\n    \n      – Orcas Island Leather Goods",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://orcasislandleather.com/",
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://orcasislandleather.com/",
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://orcasislandleather.com/",
+        "https://orcasislandleather.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/shopacado-styles.css?v=162767427492711984341698268942"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://orcasislandleather.com/",
+        "https://orcasislandleather.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838",
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/shopacado-styles.css?v=162767427492711984341698268942"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://orcasislandleather.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://orcasislandleather.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.leather-tan": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://orcasislandleather.com/cdn/shop/t/10/assets/theme.css?v=104330146785553012471764271838"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.kit-card": {
+      "status": "inferred"
+    }
+  }
+}

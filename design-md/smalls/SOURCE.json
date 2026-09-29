@@ -1,0 +1,702 @@
+{
+  "source_url": "https://smalls.com",
+  "final_url": "https://www.smalls.com/",
+  "captured_at": "2026-09-28T04:17:17.873619+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://smalls.com",
+      "final_url": "https://www.smalls.com/",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "12153704f1e0f0b7b5b1aefa7bf40190beafb13f8442932469691cb11b03138b",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.smalls.com/assets/fonts-BjGMKOjv.css",
+      "final_url": "https://www.smalls.com/assets/fonts-BjGMKOjv.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "1f024fa731e7634fb2b1fc75690b6735bbb3436c9f4e07b7d8f274932bb316c0",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+      "final_url": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "ba19a5c9b67df9f6b1da618fe3dc42bd027f158f20f83f8736dfe8ce8b25899a",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 63,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#363b42": {
+      "count": 16,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#1a1d21": {
+      "count": 11,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 7,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 6,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#000000": {
+      "count": 5,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#efece6": {
+      "count": 5,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#23272c": {
+      "count": 5,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#2a2e33": {
+      "count": 4,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#9aa0a8": {
+      "count": 4,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#bbc692": {
+      "count": 4,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#00000080": {
+      "count": 4,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#6a7282": {
+      "count": 3,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#f2ba36": {
+      "count": 3,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#003087": {
+      "count": 3,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#999999": {
+      "count": 2,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#e0d9cb": {
+      "count": 2,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#c1a188": {
+      "count": 2,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#d1c3e0": {
+      "count": 2,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#155dfc": {
+      "count": 2,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#4a2728": {
+      "count": 2,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#111316": {
+      "count": 2,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#ffc439": {
+      "count": 2,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#bedbff": {
+      "count": 2,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#000000b3": {
+      "count": 2,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#ffffff0f": {
+      "count": 2,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#ffffff99": {
+      "count": 2,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#155c7d": {
+      "count": 2,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#61704d": {
+      "count": 2,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#f0e6b1": {
+      "count": 2,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#6a6f76": {
+      "count": 2,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#ffffff0a": {
+      "count": 2,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#0000004d": {
+      "count": 2,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#ffec66": {
+      "count": 1,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#585858": {
+      "count": 1,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#e9dca1": {
+      "count": 1,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#c8d4e7": {
+      "count": 1,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#92a9cd": {
+      "count": 1,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#9aa8a5": {
+      "count": 1,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#edad93": {
+      "count": 1,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 1,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#c9d6ab": {
+      "count": 1,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#eca574": {
+      "count": 1,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#9facd5": {
+      "count": 1,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#c75100": {
+      "count": 1,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#0a7b09": {
+      "count": 1,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#eaf3e7": {
+      "count": 1,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#0000005e": {
+      "count": 1,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#c7510080": {
+      "count": 1,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#92a9cd14": {
+      "count": 1,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#c751000d": {
+      "count": 1,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#0000000f": {
+      "count": 1,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#00000066": {
+      "count": 1,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#99999933": {
+      "count": 1,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#99999980": {
+      "count": 1,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#ffffff80": {
+      "count": 1,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#ffec661a": {
+      "count": 1,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#ffec66cc": {
+      "count": 1,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#00000099": {
+      "count": 1,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Adieu": [
+      "https://www.smalls.com/assets/fonts-BjGMKOjv.css"
+    ],
+    "Monument": [
+      "https://www.smalls.com/assets/fonts-BjGMKOjv.css"
+    ],
+    "Yorick": [
+      "https://www.smalls.com/assets/fonts-BjGMKOjv.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+      "selector": "button,input,select,optgroup,textarea",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0"
+    },
+    {
+      "source": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+      "selector": "::file-selector-button",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0"
+    },
+    {
+      "source": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+      "selector": "::file-selector-button",
+      "declarations": "border-color:var(--color-gray-200,currentcolor)"
+    },
+    {
+      "source": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+      "selector": ".\\[\\&\\>div\\:has\\(\\>button\\:focus-visible\\)\\+div\\>button\\]\\:border-t-transparent>div:has(>button:focus-visible)+div>button",
+      "declarations": "border-top-color:#0000"
+    },
+    {
+      "source": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+      "selector": ".data-\\[focused\\=true\\]\\:\\[\\&\\>div\\[role\\=button\\]\\]\\:border-t-yellow[data-focused=true]>div[role=button]",
+      "declarations": "border-top-color:var(--color-yellow)"
+    },
+    {
+      "source": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+      "selector": ".data-\\[focused\\=true\\]\\:\\[\\&\\>div\\[role\\=button\\]\\]\\:before\\:border-dashed[data-focused=true]>div[role=button]:before",
+      "declarations": "content:var(--tw-content);--tw-border-style:dashed;border-style:dashed"
+    },
+    {
+      "source": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+      "selector": ".data-\\[focused\\=true\\]\\:\\[\\&\\>div\\[role\\=button\\]\\]\\:before\\:border-t-black[data-focused=true]>div[role=button]:before",
+      "declarations": "content:var(--tw-content);border-top-color:var(--color-black)"
+    },
+    {
+      "source": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+      "selector": ".data-\\[focused\\=true\\]\\:\\[\\&\\>div\\[role\\=button\\]\\]\\:before\\:content-\\[\\'\\'\\][data-focused=true]>div[role=button]:before",
+      "declarations": "--tw-content:\"\";content:var(--tw-content)"
+    },
+    {
+      "source": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+      "selector": ".data-\\[focused\\=true\\]\\:\\[\\&\\>div\\[role\\=button\\]\\[aria-expanded\\=true\\]\\]\\:border-b-yellow[data-focused=true]>div[role=button][aria-expanded=true]",
+      "declarations": "border-bottom-color:var(--color-yellow)"
+    },
+    {
+      "source": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+      "selector": ".data-\\[focused\\=true\\]\\:\\[\\&\\>div\\[role\\=button\\]\\[aria-expanded\\=true\\]\\]\\:after\\:border-dashed[data-focused=true]>div[role=button][aria-expanded=true]:after",
+      "declarations": "content:var(--tw-content);--tw-border-style:dashed;border-style:dashed"
+    },
+    {
+      "source": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+      "selector": ".data-\\[focused\\=true\\]\\:\\[\\&\\>div\\[role\\=button\\]\\[aria-expanded\\=true\\]\\]\\:after\\:border-b-black[data-focused=true]>div[role=button][aria-expanded=true]:after",
+      "declarations": "content:var(--tw-content);border-bottom-color:var(--color-black)"
+    },
+    {
+      "source": "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css",
+      "selector": ".data-\\[focused\\=true\\]\\:\\[\\&\\>div\\[role\\=button\\]\\[aria-expanded\\=true\\]\\]\\:after\\:content-\\[\\'\\'\\][data-focused=true]>div[role=button][aria-expanded=true]:aft",
+      "declarations": "--tw-content:\"\";content:var(--tw-content)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Fresh Human-Grade Cat Food Delivery | Smalls",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "colors.accent-sage": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "colors.accent-olive": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "colors.accent-orange": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "colors.surface-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "colors.overlay-scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.smalls.com/assets/tailwind-ZOZTF5JI.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.plan-builder-step": {
+      "status": "inferred"
+    }
+  }
+}

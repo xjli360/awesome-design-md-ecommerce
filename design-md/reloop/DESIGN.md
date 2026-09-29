@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Reloop
-description: A DJ-gear brand that uses a heavy black canvas (#181818) as its foundation, punctuated by a sharp, urgent red (#cc3333) that appears on primary calls-to-action, price highlights, and sale badges — a color pairing that reads as nightclub lighting rather than e-commerce warmth. The extracted palette is dominated by Bootstrap-era utility colors (#a94442 for error, #3c763d for success, #31708f for info) suggesting the site was built on a framework base and then overlaid with the brand's own dark-and-red identity. Typography defaults to Open Sans at moderate weights, with display headlines at 24–28px in weight 600 and body copy at 14–16px in weight 400, creating a clean, readable hierarchy that lets product photography and technical specs take center stage. The brand's signature move is the use of the red (#cc3333) as a single accent voltage — it never appears on backgrounds, only on text, borders, and small UI elements like add-to-cart buttons and stock indicators, preserving the dark canvas as the dominant visual field. Product cards use a slightly lighter surface (#f2f2f2) for contrast against the black background, with hairline borders (#d9d9d9) that define edges without competing with the product imagery. The overall feel is utilitarian and high-contrast, built for DJs who scan quickly for specs and prices rather than browsing leisurely.
+name: "Reloop"
+source_url: "https://www.reloop.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A DJ-gear brand that uses a heavy black canvas (#181818) as its foundation, punctuated by a sharp, urgent red (#cc3333) that appears on primary calls-to-action, price highlights, and sale badges — a color pairing that reads as nightclub lighting rather than e-commerce warmth. The extracted palette is dominated by Bootstrap-era utility colors (#a94442 for error, #3c763d for success, #31708f for info) suggesting the site was built on a framework base and then overlaid with the brand's own dark-and-red identity. Typography defaults to Open Sans at moderate weights, with display headlines at 24–28px in weight 600 and body copy at 14–16px in weight 400, creating a clean, readable hierarchy that lets product photography and technical specs take center stage. The brand's signature move is the use of the red (#cc3333) as a single accent voltage — it never appears on backgrounds, only on text, borders, and small UI elements like add-to-cart buttons and stock indicators, preserving the dark canvas as the dominant visual field. Product cards use a slightly lighter surface (#f2f2f2) for contrast against the black background, with hairline borders (#d9d9d9) that define edges without competing with the product imagery. The overall feel is utilitarian and high-contrast, built for DJs who scan quickly for specs and prices rather than browsing leisurely.
 
 colors:
   primary: "#cc3333"
@@ -569,6 +573,8 @@ components:
 - Pagination collapses from full number set to prev/next only at < 744px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for buttons and cards were inferred from common patterns — exact extracted hover colors were not available
 - Error styling for form inputs was inferred from Bootstrap utility colors — exact brand error states may differ

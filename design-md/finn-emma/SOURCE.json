@@ -1,0 +1,778 @@
+{
+  "source_url": "https://finnandemma.com",
+  "final_url": "https://www.finnandemma.com/",
+  "captured_at": "2026-09-28T04:53:16.485483+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://finnandemma.com",
+      "final_url": "https://www.finnandemma.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "954e8fde0ab906c31d841dfd3bc87e60065be03df8278b77d8fa0da5598aac25",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.finnandemma.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.finnandemma.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.finnandemma.com/cdn/shop/t/124/assets/font.css?v=32010140489918109181769498609",
+      "final_url": "https://www.finnandemma.com/cdn/shop/t/124/assets/font.css?v=32010140489918109181769498609",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0fb26b1516d590177b6af704997484f0b3c323c7be27e94bce6dc0bd2812f30c",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.finnandemma.com/cdn/shop/t/124/assets/base.css?v=166280942565498907661769497241",
+      "final_url": "https://www.finnandemma.com/cdn/shop/t/124/assets/base.css?v=166280942565498907661769497241",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "31044541e94d9f2e74e0c8fa3ed7de884fed5404132657709b9e8d1719709ed9",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398",
+      "final_url": "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c7727955cd9d532f455c3a7efac775181f52ecd8fd1e959567c06fd321d042df",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.finnandemma.com/cdn/shop/t/124/assets/component-cart-items.css?v=123238115697927560811769497246",
+      "final_url": "https://www.finnandemma.com/cdn/shop/t/124/assets/component-cart-items.css?v=123238115697927560811769497246",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4dff94d154c389c4cb17d062979f07ffab1200c4f9bd66d5d3c508093946340a",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#3d3b37": {
+      "count": 53,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "#000000": {
+      "count": 51,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/base.css?v=166280942565498907661769497241",
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "#ffffff": {
+      "count": 45,
+      "sources": [
+        "https://www.finnandemma.com/",
+        "https://www.finnandemma.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/base.css?v=166280942565498907661769497241",
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "#945e45": {
+      "count": 30,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "#f7f4ed": {
+      "count": 11,
+      "sources": [
+        "https://www.finnandemma.com/",
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "#121416": {
+      "count": 10,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "#a0a0a0": {
+      "count": 6,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "#3c2828": {
+      "count": 5,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "#d6d6d6": {
+      "count": 4,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "#323232": {
+      "count": 4,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "#121212": {
+      "count": 3,
+      "sources": [
+        "https://www.finnandemma.com/",
+        "https://www.finnandemma.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#ffffff00": {
+      "count": 3,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/base.css?v=166280942565498907661769497241"
+      ]
+    },
+    "#a5a5a5": {
+      "count": 3,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "#d2d2d2": {
+      "count": 3,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 2,
+      "sources": [
+        "https://www.finnandemma.com/"
+      ]
+    },
+    "#242833": {
+      "count": 2,
+      "sources": [
+        "https://www.finnandemma.com/"
+      ]
+    },
+    "#334fb4": {
+      "count": 2,
+      "sources": [
+        "https://www.finnandemma.com/"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 2,
+      "sources": [
+        "https://www.finnandemma.com/"
+      ]
+    },
+    "#1773b0": {
+      "count": 2,
+      "sources": [
+        "https://www.finnandemma.com/"
+      ]
+    },
+    "#125988": {
+      "count": 2,
+      "sources": [
+        "https://www.finnandemma.com/"
+      ]
+    },
+    "#74abd0": {
+      "count": 2,
+      "sources": [
+        "https://www.finnandemma.com/"
+      ]
+    },
+    "#ebbf20": {
+      "count": 2,
+      "sources": [
+        "https://www.finnandemma.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/base.css?v=166280942565498907661769497241"
+      ]
+    },
+    "#ebebeb": {
+      "count": 2,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "#6e6e6e": {
+      "count": 2,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "#458fc0": {
+      "count": 1,
+      "sources": [
+        "https://www.finnandemma.com/"
+      ]
+    },
+    "#a2c7df": {
+      "count": 1,
+      "sources": [
+        "https://www.finnandemma.com/"
+      ]
+    },
+    "#c5dceb": {
+      "count": 1,
+      "sources": [
+        "https://www.finnandemma.com/"
+      ]
+    },
+    "#dceaf3": {
+      "count": 1,
+      "sources": [
+        "https://www.finnandemma.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000080": {
+      "count": 1,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/base.css?v=166280942565498907661769497241"
+      ]
+    },
+    "#84c2ff": {
+      "count": 1,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "#acc7fc": {
+      "count": 1,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "#945e4591": {
+      "count": 1,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "#d0d0d0": {
+      "count": 1,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "#f4f0eb": {
+      "count": 1,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "#fafaf9": {
+      "count": 1,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "#707070": {
+      "count": 1,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "#f1ece0": {
+      "count": 1,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "#949494": {
+      "count": 1,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "#383734": {
+      "count": 1,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "#f21111": {
+      "count": 1,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "#a7b5ab": {
+      "count": 1,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "#6c757d": {
+      "count": 1,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "#757575": {
+      "count": 1,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "#cecece": {
+      "count": 1,
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    }
+  },
+  "font_families": {
+    "Catchy Mager": [
+      "https://www.finnandemma.com/cdn/shop/t/124/assets/font.css?v=32010140489918109181769498609",
+      "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+    ],
+    "Helvetica": [
+      "https://www.finnandemma.com/cdn/shop/t/124/assets/font.css?v=32010140489918109181769498609",
+      "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+    ],
+    "Inter": [
+      "https://www.finnandemma.com/",
+      "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+    ],
+    "Jost": [
+      "https://www.finnandemma.com/cdn/shop/t/124/assets/font.css?v=32010140489918109181769498609",
+      "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+    ],
+    "Nunito": [
+      "https://www.finnandemma.com/cdn/shop/t/124/assets/font.css?v=32010140489918109181769498609",
+      "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+    ],
+    "Open Sans": [
+      "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+    ],
+    "Poppins": [
+      "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+    ],
+    "TAN - MON CHERI": [
+      "https://www.finnandemma.com/cdn/shop/t/124/assets/font.css?v=32010140489918109181769498609",
+      "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+    ],
+    "sans-serif": [
+      "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.finnandemma.com/",
+      "selector": ":root,\n        .color-scheme-1",
+      "declarations": "--color-background: 247,244,237;\n        \n          --gradient-background: #f7f4ed;\n        \n\n        \n\n        --color-foreground: 56,55,52;\n        --color-background-contrast: 208,190,149;\n        --color-shadow: 56,55,52;\n        --color-button: 56,55,52;\n        --color-button-text: 255,255,255;\n        --color-secondary-button: 247,244,237;\n        --color-secondary-button-text: 56,55,52;\n        --color-link: 56,55,52;\n        --color-badge-foreground: 56,55,52;\n        --color-badge-background: 247,244,237;\n        --color-badge-border: 56,55,52;\n        --payment-terms-background-color: rgb(247 244 237);"
+    },
+    {
+      "source": "https://www.finnandemma.com/",
+      "selector": "body, .color-scheme-1, .color-scheme-2, .color-scheme-3, .color-scheme-4, .color-scheme-5, .color-scheme-c596207a-76ef-40cf-8e5f-685d230e204b",
+      "declarations": "color: rgba(var(--color-foreground), 0.75);\n        background-color: rgb(var(--color-background));"
+    },
+    {
+      "source": "https://www.finnandemma.com/",
+      "selector": "body",
+      "declarations": "display: grid;\n        grid-template-rows: auto auto 1fr auto;\n        grid-template-columns: 100%;\n        min-height: 100%;\n        margin: 0;\n        font-size: 1.5rem;\n        letter-spacing: 0.06rem;\n        line-height: calc(1 + 0.8 / var(--font-body-scale));\n        font-family: var(--font-body-family);\n        font-style: var(--font-body-style);\n        font-weight: var(--font-body-weight);"
+    },
+    {
+      "source": "https://www.finnandemma.com/",
+      "selector": ":root",
+      "declarations": "--lxs-rating-icon-color: #EBBF20;"
+    },
+    {
+      "source": "https://www.finnandemma.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.finnandemma.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.finnandemma.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.finnandemma.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.finnandemma.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.finnandemma.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.finnandemma.com/cdn/shop/t/124/assets/base.css?v=166280942565498907661769497241",
+      "selector": ":root",
+      "declarations": "--alpha-button-background: 1;--alpha-button-border: 1;--alpha-link: .85;--alpha-badge-border: .1;--focused-base-outline: .2rem solid rgba(var(--color-foreground), .5);--focused-base-outline-offset: .3rem;--focused-base-box-shadow: 0 0 0 .3rem rgb(var(--color-background)), 0 0 .5rem .4rem rgba(var(--color-foreground), .3)"
+    },
+    {
+      "source": "https://www.finnandemma.com/cdn/shop/t/124/assets/base.css?v=166280942565498907661769497241",
+      "selector": ".product-card-wrapper .card,.contains-card--product",
+      "declarations": "--border-radius: var(--product-card-corner-radius);--border-width: var(--product-card-border-width);--border-opacity: var(--product-card-border-opacity);--shadow-horizontal-offset: var(--product-card-shadow-horizontal-offset);--shadow-vertical-offset: var(--product-card-shadow-vertical-offset);--shadow-blur-radius: var(--product-card-shadow-blur-radius);--shadow-opacity: var(--product-card-shadow-opacity);--shadow-visible: var(--product-card-shadow-visible);--image-padding: var(--product-card-image-padding);--text-alignment: var(--product-card-text-alignment)"
+    },
+    {
+      "source": "https://www.finnandemma.com/cdn/shop/t/124/assets/base.css?v=166280942565498907661769497241",
+      "selector": ".text-body",
+      "declarations": "font-size:1.5rem;letter-spacing:.06rem;line-height:calc(1 + .8 / var(--font-body-scale));font-family:var(--font-body-family);font-style:var(--font-body-style);font-weight:var(--font-body-weight)"
+    },
+    {
+      "source": "https://www.finnandemma.com/cdn/shop/t/124/assets/base.css?v=166280942565498907661769497241",
+      "selector": "h1,h2,h3,h4,h5,.h0,.h1,.h2,.h3,.h4,.h5",
+      "declarations": "font-family:var(--font-heading-family);font-style:var(--font-heading-style);font-weight:var(--font-heading-weight);letter-spacing:calc(var(--font-heading-scale) * .06rem);color:rgb(var(--color-foreground));line-height:calc(1 + .3/max(1,var(--font-heading-scale)));word-break:break-word"
+    },
+    {
+      "source": "https://www.finnandemma.com/cdn/shop/t/124/assets/base.css?v=166280942565498907661769497241",
+      "selector": ":root",
+      "declarations": "--duration-short: .1s;--duration-default: .2s;--duration-announcement-bar: .25s;--duration-medium: .3s;--duration-long: .5s;--duration-extra-long: .6s;--duration-extra-longer: .75s;--duration-extended: 3s;--ease-out-slow: cubic-bezier(0, 0, .3, 1);--animation-slide-in: slideIn var(--duration-extra-long) var(--ease-out-slow) forwards;--animation-fade-in: fadeIn var(--duration-extra-long) var(--ease-out-slow)"
+    },
+    {
+      "source": "https://www.finnandemma.com/cdn/shop/t/124/assets/base.css?v=166280942565498907661769497241",
+      "selector": ".button--secondary,.button--tertiary",
+      "declarations": "--color-button: var(--color-secondary-button);--color-button-text: var(--color-secondary-button-text)"
+    },
+    {
+      "source": "https://www.finnandemma.com/cdn/shop/t/124/assets/base.css?v=166280942565498907661769497241",
+      "selector": ".button--tertiary",
+      "declarations": "--alpha-button-background: 0;--alpha-button-border: .2"
+    },
+    {
+      "source": "https://www.finnandemma.com/cdn/shop/t/124/assets/base.css?v=166280942565498907661769497241",
+      "selector": ".button,.shopify-challenge__button,.customer button,button.shopify-payment-button__button--unbranded",
+      "declarations": "--shadow-horizontal-offset: var(--buttons-shadow-horizontal-offset);--shadow-vertical-offset: var(--buttons-shadow-vertical-offset);--shadow-blur-radius: var(--buttons-shadow-blur-radius);--shadow-opacity: var(--buttons-shadow-opacity);--shadow-visible: var(--buttons-shadow-visible);--border-offset: var(--buttons-border-offset);--border-opacity: calc(1 - var(--buttons-border-opacity));border-radius:var(--buttons-radius-outset);position:relative"
+    },
+    {
+      "source": "https://www.finnandemma.com/cdn/shop/t/124/assets/base.css?v=166280942565498907661769497241",
+      "selector": ".button,.shopify-challenge__button,.customer button",
+      "declarations": "display:inline-flex;justify-content:center;align-items:center;border:0;padding:0 3rem;cursor:pointer;font:inherit;font-size:1.5rem;text-decoration:none;color:rgb(var(--color-button-text));transition:box-shadow var(--duration-short) ease;-webkit-appearance:none;appearance:none;background-color:rgba(var(--color-button),var(--alpha-button-background))"
+    },
+    {
+      "source": "https://www.finnandemma.com/cdn/shop/t/124/assets/base.css?v=166280942565498907661769497241",
+      "selector": ".button:not([disabled]):hover:after,.shopify-challenge__button:hover:after,.customer button:hover:after,.shopify-payment-button__button--unbranded:hover:after",
+      "declarations": "--border-offset: 1.3px;box-shadow:0 0 0 calc(var(--buttons-border-width) + var(--border-offset)) rgba(var(--color-button-text),var(--border-opacity)),0 0 0 calc(var(--buttons-border-width) + 1px) rgba(var(--color-button),var(--alpha-button-background))"
+    },
+    {
+      "source": "https://www.finnandemma.com/cdn/shop/t/124/assets/base.css?v=166280942565498907661769497241",
+      "selector": ".button--secondary:after",
+      "declarations": "--border-opacity: var(--buttons-border-opacity)"
+    },
+    {
+      "source": "https://www.finnandemma.com/cdn/shop/t/124/assets/base.css?v=166280942565498907661769497241",
+      "selector": ".button::selection,.shopify-challenge__button::selection,.customer button::selection",
+      "declarations": "background-color:rgba(var(--color-button-text),.3)"
+    },
+    {
+      "source": "https://www.finnandemma.com/cdn/shop/t/124/assets/base.css?v=166280942565498907661769497241",
+      "selector": ".button.loading",
+      "declarations": "color:transparent;position:relative"
+    },
+    {
+      "source": "https://www.finnandemma.com/cdn/shop/t/124/assets/base.css?v=166280942565498907661769497241",
+      "selector": ".button.loading",
+      "declarations": "color:rgb(var(--color-foreground))"
+    },
+    {
+      "source": "https://www.finnandemma.com/cdn/shop/t/124/assets/base.css?v=166280942565498907661769497241",
+      "selector": ".share-button__button",
+      "declarations": "font-size:1.4rem;display:flex;align-items:center;color:rgb(var(--color-link));margin-left:0;padding-left:0;min-height:4.4rem"
+    },
+    {
+      "source": "https://www.finnandemma.com/cdn/shop/t/124/assets/base.css?v=166280942565498907661769497241",
+      "selector": ".share-button__button,.share-button__fallback button",
+      "declarations": "cursor:pointer;background-color:transparent;border:none"
+    },
+    {
+      "source": "https://www.finnandemma.com/cdn/shop/t/124/assets/base.css?v=166280942565498907661769497241",
+      "selector": ".share-button__fallback button:hover",
+      "declarations": "color:rgba(var(--color-foreground),.75)"
+    },
+    {
+      "source": "https://www.finnandemma.com/cdn/shop/t/124/assets/base.css?v=166280942565498907661769497241",
+      "selector": ".share-button__close,.share-button__copy",
+      "declarations": "background-color:transparent;color:rgb(var(--color-foreground))"
+    },
+    {
+      "source": "https://www.finnandemma.com/cdn/shop/t/124/assets/base.css?v=166280942565498907661769497241",
+      "selector": ".share-button__copy:focus-visible,.share-button__close:focus-visible",
+      "declarations": "background-color:rgb(var(--color-background));z-index:2"
+    },
+    {
+      "source": "https://www.finnandemma.com/cdn/shop/t/124/assets/base.css?v=166280942565498907661769497241",
+      "selector": ".share-button__copy:focus,.share-button__close:focus",
+      "declarations": "background-color:rgb(var(--color-background));z-index:2"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Organic Baby Clothes & Toys | Finn + Emma Official Site",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.finnandemma.com/",
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.finnandemma.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.finnandemma.com/",
+        "https://www.finnandemma.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/base.css?v=166280942565498907661769497241",
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.finnandemma.com/",
+        "https://www.finnandemma.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/base.css?v=166280942565498907661769497241",
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.finnandemma.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-blue-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.finnandemma.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.rating": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.finnandemma.com/"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.finnandemma.com/cdn/shop/t/124/assets/custom.css?v=21696667800521721001776256398"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.filter-chip": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,0 +1,399 @@
+{
+  "source_url": "https://secrid.com",
+  "final_url": "https://secrid.com/en-us/",
+  "captured_at": "2026-09-28T09:30:34.564799+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://secrid.com",
+      "final_url": "https://secrid.com/en-us/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "9857fba89e4509aa9a0cdac0d16474ab52feef7e351488cd5ba1966aa6bb5e2e",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css",
+      "final_url": "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "3509723c4ff0b73cb16caf3d5666079a5281a8f117c45149e6d65599efe6ecfb",
+      "snapshot": "stylesheet-1.css"
+    }
+  ],
+  "colors": {
+    "#f5f4f0": {
+      "count": 22,
+      "sources": [
+        "https://secrid.com/en-us/",
+        "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 13,
+      "sources": [
+        "https://secrid.com/en-us/",
+        "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
+      ]
+    },
+    "#2e2e2b": {
+      "count": 11,
+      "sources": [
+        "https://secrid.com/en-us/",
+        "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
+      ]
+    },
+    "#686868": {
+      "count": 8,
+      "sources": [
+        "https://secrid.com/en-us/"
+      ]
+    },
+    "#5c5648": {
+      "count": 3,
+      "sources": [
+        "https://secrid.com/en-us/",
+        "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
+      ]
+    },
+    "#8d897f": {
+      "count": 2,
+      "sources": [
+        "https://secrid.com/en-us/"
+      ]
+    },
+    "#32312a": {
+      "count": 1,
+      "sources": [
+        "https://secrid.com/en-us/"
+      ]
+    },
+    "#d6ceba": {
+      "count": 1,
+      "sources": [
+        "https://secrid.com/en-us/"
+      ]
+    },
+    "#888888": {
+      "count": 1,
+      "sources": [
+        "https://secrid.com/en-us/"
+      ]
+    },
+    "#c05746": {
+      "count": 1,
+      "sources": [
+        "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
+      ]
+    },
+    "#007aff": {
+      "count": 1,
+      "sources": [
+        "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
+      ]
+    },
+    "#000000": {
+      "count": 1,
+      "sources": [
+        "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
+      ]
+    }
+  },
+  "font_families": {
+    "TYPE_CAPITOLIUM": [
+      "https://secrid.com/en-us/",
+      "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
+    ],
+    "TYPE_CAPITOLIUM Fallback": [
+      "https://secrid.com/en-us/",
+      "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
+    ],
+    "TYPE_DINPRO_COND": [
+      "https://secrid.com/en-us/",
+      "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
+    ],
+    "TYPE_DINPRO_COND Fallback": [
+      "https://secrid.com/en-us/",
+      "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
+    ],
+    "TYPE_IMPACT": [
+      "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
+    ],
+    "TYPE_IMPACT Fallback": [
+      "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
+    ],
+    "TYPE_VERDANA": [
+      "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
+    ],
+    "TYPE_VERDANA Fallback": [
+      "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
+    ],
+    "monospace": [
+      "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://secrid.com/en-us/",
+      "selector": "body",
+      "declarations": "color:#2E2E2B;background-color:#F5F4F0;-webkit-transition:color .3s ease,background-color .3s ease;transition:color .3s ease,background-color .3s ease;"
+    },
+    {
+      "source": "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;line-height:1.15;margin:0"
+    },
+    {
+      "source": "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css",
+      "selector": ":root",
+      "declarations": "--vh:1vh;--vh-without-browserbar:1vh;--highlight-color:#c05746;--color:#2e2e2b;--background-color:#f5f4f0"
+    },
+    {
+      "source": "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css",
+      "selector": "body",
+      "declarations": "position:relative;width:100%;font-size:100%;color:var(--color);background-color:var(--background-color)"
+    },
+    {
+      "source": "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css",
+      "selector": "body.newsletter-page",
+      "declarations": "background-color:#5c5648"
+    },
+    {
+      "source": "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css",
+      "selector": "button",
+      "declarations": "padding:0;font:inherit;color:inherit;background-color:transparent;border:0;border-radius:0"
+    },
+    {
+      "source": "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css",
+      "selector": ":root",
+      "declarations": "--swiper-theme-color:#007aff"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Secrid - Dutch wallet makers since 1995",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://secrid.com/en-us/",
+        "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://secrid.com/en-us/",
+        "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://secrid.com/en-us/",
+        "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://secrid.com/en-us/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://secrid.com/en-us/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://secrid.com/en-us/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://secrid.com/en-us/",
+        "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://secrid.com/en-us/",
+        "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
+      ]
+    },
+    "colors.accent-warm": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://secrid.com/en-us/",
+        "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
+      ]
+    },
+    "colors.neutral-warm": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://secrid.com/en-us/"
+      ]
+    },
+    "colors.ink-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://secrid.com/en-us/"
+      ]
+    },
+    "colors.muted-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://secrid.com/en-us/"
+      ]
+    },
+    "colors.focus": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
+      ]
+    },
+    "colors.black": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://secrid.com/_next/static/css/a3246bd0cb3ea723.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.cardprotector-spec-panel": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,0 +1,720 @@
+{
+  "source_url": "https://threespiritdrinks.com",
+  "final_url": "https://threespiritdrinks.com/",
+  "captured_at": "2026-09-28T10:05:51.163791+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://threespiritdrinks.com",
+      "final_url": "https://threespiritdrinks.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "90ac0846a1a33f5847436849cecd09b15d709fe602293a46f05db5ef960c0e51",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://threespiritdrinks.com/cdn/shop/t/209/assets/ia-normalize.css?v=76473722325599453791789476640",
+      "final_url": "https://threespiritdrinks.com/cdn/shop/t/209/assets/ia-normalize.css?v=76473722325599453791789476640",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "40f9f480e4180ac2649c04892faefffc438a3590c59afc9f5a5e786ea712711b",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://threespiritdrinks.com/cdn/shop/t/209/assets/ts-base.css?v=70650816115709477661789540360",
+      "final_url": "https://threespiritdrinks.com/cdn/shop/t/209/assets/ts-base.css?v=70650816115709477661789540360",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "30927c255a4a8b8f3b95040b5282d880137e455400f46c69b1dd60a2b6b69f93",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://threespiritdrinks.com/cdn/shop/t/209/assets/ts-product-card.css?v=79858446418406933801789540360",
+      "final_url": "https://threespiritdrinks.com/cdn/shop/t/209/assets/ts-product-card.css?v=79858446418406933801789540360",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "34af0a9229eddb0a63877250af7604a3a1ec8b25194ae20355121c7bbfb29d85",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://threespiritdrinks.com/cdn/shop/t/209/assets/ts-product-label.css?v=160981411325883839981789476640",
+      "final_url": "https://threespiritdrinks.com/cdn/shop/t/209/assets/ts-product-label.css?v=160981411325883839981789476640",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e2bf73ac921d21812b0a0637c7eae30f754959f6a768c3fa814d6f8022a82103",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://threespiritdrinks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://threespiritdrinks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 21,
+      "sources": [
+        "https://threespiritdrinks.com/",
+        "https://threespiritdrinks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#202020": {
+      "count": 14,
+      "sources": [
+        "https://threespiritdrinks.com/",
+        "https://threespiritdrinks.com/cdn/shop/t/209/assets/ts-base.css?v=70650816115709477661789540360",
+        "https://threespiritdrinks.com/cdn/shop/t/209/assets/ts-product-label.css?v=160981411325883839981789476640"
+      ]
+    },
+    "#ff79f1": {
+      "count": 8,
+      "sources": [
+        "https://threespiritdrinks.com/",
+        "https://threespiritdrinks.com/cdn/shop/t/209/assets/ts-base.css?v=70650816115709477661789540360"
+      ]
+    },
+    "#000000": {
+      "count": 7,
+      "sources": [
+        "https://threespiritdrinks.com/"
+      ]
+    },
+    "#5c1162": {
+      "count": 5,
+      "sources": [
+        "https://threespiritdrinks.com/"
+      ]
+    },
+    "#fefefd": {
+      "count": 4,
+      "sources": [
+        "https://threespiritdrinks.com/",
+        "https://threespiritdrinks.com/cdn/shop/t/209/assets/ts-base.css?v=70650816115709477661789540360"
+      ]
+    },
+    "#cbcbcb": {
+      "count": 3,
+      "sources": [
+        "https://threespiritdrinks.com/"
+      ]
+    },
+    "#7a4a2e": {
+      "count": 3,
+      "sources": [
+        "https://threespiritdrinks.com/"
+      ]
+    },
+    "#00000080": {
+      "count": 2,
+      "sources": [
+        "https://threespiritdrinks.com/"
+      ]
+    },
+    "#c8c8c8": {
+      "count": 2,
+      "sources": [
+        "https://threespiritdrinks.com/"
+      ]
+    },
+    "#fc4b12": {
+      "count": 2,
+      "sources": [
+        "https://threespiritdrinks.com/"
+      ]
+    },
+    "#2020200f": {
+      "count": 2,
+      "sources": [
+        "https://threespiritdrinks.com/",
+        "https://threespiritdrinks.com/cdn/shop/t/209/assets/ts-product-card.css?v=79858446418406933801789540360"
+      ]
+    },
+    "#6e6e6e": {
+      "count": 2,
+      "sources": [
+        "https://threespiritdrinks.com/"
+      ]
+    },
+    "#f5f6ed": {
+      "count": 2,
+      "sources": [
+        "https://threespiritdrinks.com/",
+        "https://threespiritdrinks.com/cdn/shop/t/209/assets/ts-product-label.css?v=160981411325883839981789476640"
+      ]
+    },
+    "#3dbf2a": {
+      "count": 2,
+      "sources": [
+        "https://threespiritdrinks.com/"
+      ]
+    },
+    "#ffffff00": {
+      "count": 2,
+      "sources": [
+        "https://threespiritdrinks.com/cdn/shop/t/209/assets/ts-product-card.css?v=79858446418406933801789540360"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://threespiritdrinks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://threespiritdrinks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#777777": {
+      "count": 1,
+      "sources": [
+        "https://threespiritdrinks.com/"
+      ]
+    },
+    "#f3f0ed": {
+      "count": 1,
+      "sources": [
+        "https://threespiritdrinks.com/"
+      ]
+    },
+    "#00000099": {
+      "count": 1,
+      "sources": [
+        "https://threespiritdrinks.com/"
+      ]
+    },
+    "#00000066": {
+      "count": 1,
+      "sources": [
+        "https://threespiritdrinks.com/"
+      ]
+    },
+    "#fffaec": {
+      "count": 1,
+      "sources": [
+        "https://threespiritdrinks.com/"
+      ]
+    },
+    "#9bd9e1": {
+      "count": 1,
+      "sources": [
+        "https://threespiritdrinks.com/"
+      ]
+    },
+    "#d3d1d4": {
+      "count": 1,
+      "sources": [
+        "https://threespiritdrinks.com/"
+      ]
+    },
+    "#343439": {
+      "count": 1,
+      "sources": [
+        "https://threespiritdrinks.com/"
+      ]
+    },
+    "#141414": {
+      "count": 1,
+      "sources": [
+        "https://threespiritdrinks.com/"
+      ]
+    },
+    "#3a0d2e": {
+      "count": 1,
+      "sources": [
+        "https://threespiritdrinks.com/"
+      ]
+    },
+    "#cccdcc": {
+      "count": 1,
+      "sources": [
+        "https://threespiritdrinks.com/"
+      ]
+    },
+    "#ff5924": {
+      "count": 1,
+      "sources": [
+        "https://threespiritdrinks.com/"
+      ]
+    },
+    "#57b847": {
+      "count": 1,
+      "sources": [
+        "https://threespiritdrinks.com/"
+      ]
+    },
+    "#2fa81e": {
+      "count": 1,
+      "sources": [
+        "https://threespiritdrinks.com/"
+      ]
+    },
+    "#575757": {
+      "count": 1,
+      "sources": [
+        "https://threespiritdrinks.com/cdn/shop/t/209/assets/ts-base.css?v=70650816115709477661789540360"
+      ]
+    },
+    "#c6ff00": {
+      "count": 1,
+      "sources": [
+        "https://threespiritdrinks.com/cdn/shop/t/209/assets/ts-base.css?v=70650816115709477661789540360"
+      ]
+    },
+    "#151515": {
+      "count": 1,
+      "sources": [
+        "https://threespiritdrinks.com/cdn/shop/t/209/assets/ts-base.css?v=70650816115709477661789540360"
+      ]
+    },
+    "#ff00e5": {
+      "count": 1,
+      "sources": [
+        "https://threespiritdrinks.com/cdn/shop/t/209/assets/ts-base.css?v=70650816115709477661789540360"
+      ]
+    },
+    "#ffffff8c": {
+      "count": 1,
+      "sources": [
+        "https://threespiritdrinks.com/cdn/shop/t/209/assets/ts-product-card.css?v=79858446418406933801789540360"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://threespiritdrinks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://threespiritdrinks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://threespiritdrinks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "ABCFavoritMono": [
+      "https://threespiritdrinks.com/"
+    ],
+    "PPMuseum": [
+      "https://threespiritdrinks.com/"
+    ],
+    "monospace": [
+      "https://threespiritdrinks.com/cdn/shop/t/209/assets/ia-normalize.css?v=76473722325599453791789476640"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://threespiritdrinks.com/",
+      "selector": ":root",
+      "declarations": "--ia-color-primary-button-text-rgb: 32, 32, 32, 1.0;\n    --ia-color-primary-button-background-rgb: 255, 121, 241, 1.0;\n    --ia-color-primary-button-border-rgb: 255, 121, 241, 1.0;\n    --ia-color-primary-button-text-hover-rgb: 255, 121, 241, 1.0;\n    --ia-color-primary-button-background-hover-rgb: 32, 32, 32, 1.0;\n    --ia-color-primary-button-border-hover-rgb: 32, 32, 32, 1.0;\n    --ia-color-secondary-button-text-rgb: 255, 255, 255, 1.0;\n    --ia-color-secondary-button-background-rgb: 32, 32, 32, 1.0;\n    --ia-color-secondary-button-border-rgb: 32, 32, 32, 1.0;\n    --ia-color-secondary-button-text-hover-rgb: 32, 32, 32, 1.0;\n    --ia-color-secondary-button-background-hover-rgb: 255, 255, 25"
+    },
+    {
+      "source": "https://threespiritdrinks.com/",
+      "selector": ":root,\n    \n    .ia-color-default",
+      "declarations": "--ia-color-background-rgb: 245, 246, 237, 1.0;\n        --ia-color-text-primary-rgb: 32, 32, 32, 1.0;\n        --ia-color-text-secondary-rgb: 61, 72, 78, 1.0;\n        --ia-color-link-rgb: 20, 20, 20, 1.0;\n        --ia-color-link-hover-rgb: 20, 20, 20, 1.0;\n        --ia-color-border-rgb: 61, 72, 78, 1.0;\n        --ia-color-background-secondary-rgb: 255, 255, 255, 1.0;\n        \n        --ia-color-foreground-muted: rgb(var(--ia-color-text-primary-rgb), 0.6);\n        --ia-color-scheme-overlay: rgb(var(--ia-color-background-rgb), 0.8);"
+    },
+    {
+      "source": "https://threespiritdrinks.com/",
+      "selector": "body, .ia-color-default, .ia-color-scheme-ab8ed1b4-7df0-47c1-94e9-eb320ef65b40, .ia-color-scheme-e46d348a-36f2-4572-bab3-92ad92fd43f8, .ia-color-scheme-orange-p",
+      "declarations": "color: rgb(var(--ia-color-text-primary-rgb));\n    background-color: rgb(var(--ia-color-background-rgb));"
+    },
+    {
+      "source": "https://threespiritdrinks.com/",
+      "selector": ":root",
+      "declarations": "--ia-font-heading: 'PPMuseum', Georgia, serif;--ia-font-subheading: 'ABCFavoritMono', ui-monospace, 'Courier New', monospace;--ia-font-body: 'ABCFavoritMono', ui-monospace, 'Courier New', monospace;--ia-font-button: 'ABCFavoritMono', ui-monospace, 'Courier New', monospace;--ia-font-accent: 'PPMuseum', Georgia, serif;\n\n    --ia-line-height-small: 1.04;\n    --ia-line-height-medium: 1.3;\n    --ia-line-height-large: 1.4;\n\n    --ia-letter-spacing-heading: normal;\n    --ia-letter-spacing-body: normal;\n\n    --ia-font-weight-medium: 400;\n    --ia-font-weight-bold: 700;\n\n    --ia-button-font-weight: 400;\n    --ia-button-line-height: 1;\n    --ia-button-letter-spacing: normal;\n    --ia-button-text-tran"
+    },
+    {
+      "source": "https://threespiritdrinks.com/",
+      "selector": ":root",
+      "declarations": "--ia-text-xs: 11px;\n    --ia-text-sm: 14px;\n    --ia-text-md: 16px;\n    --ia-text-lg: 16px;\n    --ia-text-xlg: 20px;\n    --ia-text-h-xl: 44px;\n    --ia-text-h1: 32px;\n    --ia-text-h2: 24px;\n    --ia-text-h3: 16px;\n    --ia-text-h4: 14px;\n    --ia-text-h5: 22px;\n    --ia-text-h6: 20px;\n    --ia-text-button: 15px;\n    --ia-body-font-size: 16px;"
+    },
+    {
+      "source": "https://threespiritdrinks.com/",
+      "selector": ":root",
+      "declarations": "--ia-text-xs-desktop: 12px;\n      --ia-text-sm-desktop: 14px;\n      --ia-text-md-desktop: 16px;\n      --ia-text-lg-desktop: 20px;\n      --ia-text-xlg-desktop:20px;\n      --ia-text-h-xl-desktop: 64px;\n      --ia-text-h1-desktop: 40px;\n      --ia-text-h2-desktop: 32px;\n      --ia-text-h3-desktop: 20px;\n      --ia-text-h4-desktop: 16px;\n      --ia-text-h5-desktop: 28px;\n      --ia-text-h6-desktop: 24px;\n      --ia-text-button-desktop: 15px;\n      --ia-body-font-size: 16px;\n\n      --ia-page-padding-x: 64px;"
+    },
+    {
+      "source": "https://threespiritdrinks.com/",
+      "selector": "body",
+      "declarations": "background-color:rgb(var(--ia-color-background-rgb));color:rgb(var(--ia-color-text-primary-rgb))"
+    },
+    {
+      "source": "https://threespiritdrinks.com/",
+      "selector": "body.ia-body",
+      "declarations": "font-family:var(--ia-font-body);font-size:var(--ia-body-font-size, var(--ia-text-md));line-height:var(--ia-line-height-medium);letter-spacing:var(--ia-letter-spacing-body, normal);-webkit-font-smoothing:antialiased"
+    },
+    {
+      "source": "https://threespiritdrinks.com/",
+      "selector": "body.ia-body,.ia-text-xlg,.ia-text-lg,.ia-text-md,.ia-text-sm,.ia-text-xs,.ia-eyebrow",
+      "declarations": "font-family:var(--ia-font-body);font-weight:400;letter-spacing:0"
+    },
+    {
+      "source": "https://threespiritdrinks.com/",
+      "selector": ".ia-h-xl,.ia-h1,.ia-h3,.ia-h5,.ia-h-xl-desktop,.ia-h1-desktop,.ia-h3-desktop,.ia-h5-desktop,.ia-prose :where(h1,h3,h5)",
+      "declarations": "font-weight:400;letter-spacing:var(--ia-letter-spacing-heading, normal);font-family:var(--ia-font-heading);text-wrap:pretty"
+    },
+    {
+      "source": "https://threespiritdrinks.com/",
+      "selector": ".ia-rte h1",
+      "declarations": "margin-top:24px;color:rgb(var(--ia-color-text-primary-rgb));font-family:var(--ia-font-heading);font-weight:400;line-height:1.1;letter-spacing:0"
+    },
+    {
+      "source": "https://threespiritdrinks.com/",
+      "selector": ".ia-font-body",
+      "declarations": "font-family:var(--ia-font-body)"
+    },
+    {
+      "source": "https://threespiritdrinks.com/",
+      "selector": ".ia-font-button",
+      "declarations": "font-family:var(--ia-font-button)"
+    },
+    {
+      "source": "https://threespiritdrinks.com/",
+      "selector": ".ia-button",
+      "declarations": "min-height:var(--ia-button-min-height-desktop, 48px);display:inline-flex;justify-content:center;align-items:center;background-color:rgb(var(--ia-color-primary-button-background-rgb));color:rgb(var(--ia-color-primary-button-text-rgb));text-decoration:none;font-size:var(--ia-text-button-desktop);font-family:var(--ia-font-button);font-weight:var(--ia-button-font-weight, 400);line-height:var(--ia-button-line-height, 1);letter-spacing:var(--ia-button-letter-spacing, normal);text-transform:var(--ia-button-text-transform, uppercase);padding:var(--ia-button-padding-y-desktop, 4px) var(--ia-button-padding-x-desktop, 20px);border-radius:var(--ia-button-border-radius, 9999px);border:var(--ia-button-bor"
+    },
+    {
+      "source": "https://threespiritdrinks.com/",
+      "selector": ".ia-button__loader",
+      "declarations": "display:none;color:currentColor;position:absolute;top:50%;left:50%;transform:translate(-50%,-50%)"
+    },
+    {
+      "source": "https://threespiritdrinks.com/",
+      "selector": ".ia-button:hover,.ia-button:active",
+      "declarations": "background-color:rgb(var(--ia-color-primary-button-background-hover-rgb));color:rgb(var(--ia-color-primary-button-text-hover-rgb));border-color:rgb(var(--ia-color-primary-button-border-hover-rgb))"
+    },
+    {
+      "source": "https://threespiritdrinks.com/",
+      "selector": ".ia-button:disabled",
+      "declarations": "border-color:#00000080;background:#cbcbcb;color:#00000080;pointer-events:none"
+    },
+    {
+      "source": "https://threespiritdrinks.com/",
+      "selector": ".ia-button--secondary",
+      "declarations": "background-color:rgb(var(--ia-color-secondary-button-background-rgb));color:rgb(var(--ia-color-secondary-button-text-rgb));border-color:rgb(var(--ia-color-secondary-button-border-rgb))"
+    },
+    {
+      "source": "https://threespiritdrinks.com/",
+      "selector": ".ia-button--secondary:hover,.ia-button--secondary:active",
+      "declarations": "background-color:rgb(var(--ia-color-secondary-button-background-hover-rgb));color:rgb(var(--ia-color-secondary-button-text-hover-rgb));border-color:rgb(var(--ia-color-secondary-button-border-hover-rgb))"
+    },
+    {
+      "source": "https://threespiritdrinks.com/",
+      "selector": ".ia-button--secondary:disabled",
+      "declarations": "background-color:rgb(var(--ia-color-secondary-button-background-rgb) / .5);color:rgb(var(--ia-color-secondary-button-text-rgb) / .5);border-color:rgb(var(--ia-color-secondary-button-border-rgb) / .5)"
+    },
+    {
+      "source": "https://threespiritdrinks.com/",
+      "selector": ".ia-button--outline",
+      "declarations": "background-color:rgb(var(--ia-color-outline-button-background-rgb));color:rgb(var(--ia-color-outline-button-text-rgb));border-color:rgb(var(--ia-color-outline-button-border-rgb))"
+    },
+    {
+      "source": "https://threespiritdrinks.com/",
+      "selector": ".ia-button--outline:hover,.ia-button--outline:active",
+      "declarations": "background-color:rgb(var(--ia-color-outline-button-background-hover-rgb));color:rgb(var(--ia-color-outline-button-text-hover-rgb));border-color:rgb(var(--ia-color-outline-button-border-hover-rgb))"
+    },
+    {
+      "source": "https://threespiritdrinks.com/",
+      "selector": ".ia-button--outline:disabled",
+      "declarations": "background-color:rgb(var(--ia-color-outline-button-background-rgb) / .5);color:rgb(var(--ia-color-outline-button-text-rgb) / .5);border-color:rgb(var(--ia-color-outline-button-border-rgb) / .5)"
+    },
+    {
+      "source": "https://threespiritdrinks.com/",
+      "selector": ".ia-iconic-button:not(.ia-button)",
+      "declarations": "background-color:transparent;border:none"
+    },
+    {
+      "source": "https://threespiritdrinks.com/",
+      "selector": ".ia-link-underline,.ia-shopify-payment-button__more-options",
+      "declarations": "cursor:pointer;background:transparent;border:none;padding:0;margin:0;text-align:left;text-decoration:underline;text-decoration-style:solid;text-decoration-skip-ink:auto;text-decoration-thickness:auto;text-underline-offset:.2em;text-underline-position:from-font;color:inherit"
+    },
+    {
+      "source": "https://threespiritdrinks.com/",
+      "selector": ".ia-accordion__header",
+      "declarations": "align-items:center;justify-content:space-between;display:flex;padding:13px 0;column-gap:15px;cursor:pointer;font-size:var(--ia-text-sm);background-color:transparent;color:inherit;border:none;box-shadow:none;text-align:left"
+    },
+    {
+      "source": "https://threespiritdrinks.com/",
+      "selector": ".ia-accordion--primary .ia-accordion__header",
+      "declarations": "padding-block:16px;color:rgba(var(--ia-color-text-secondary-rgb));position:relative"
+    },
+    {
+      "source": "https://threespiritdrinks.com/",
+      "selector": ".ia-drawer__header",
+      "declarations": "display:flex;align-items:center;justify-content:space-between;position:sticky;top:0;z-index:100;background-color:rgb(var(--ia-color-background-rgb));min-height:56px;padding:24px 0"
+    },
+    {
+      "source": "https://threespiritdrinks.com/",
+      "selector": ".ia-drawer__close-button",
+      "declarations": "--size: 18px;--padding: 0"
+    },
+    {
+      "source": "https://threespiritdrinks.com/",
+      "selector": ".ia-drawer__close-button--circle",
+      "declarations": "border-radius:9999px;border:1px solid rgb(var(--ia-color-border-rgb));--size: 14px;--padding: 8px"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Three Spirit GB | Non-Alcoholic Drinks | Functional Drinks\n – Three Spirit UK",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://threespiritdrinks.com/",
+        "https://threespiritdrinks.com/cdn/shop/t/209/assets/ts-base.css?v=70650816115709477661789540360"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://threespiritdrinks.com/",
+        "https://threespiritdrinks.com/cdn/shop/t/209/assets/ts-base.css?v=70650816115709477661789540360",
+        "https://threespiritdrinks.com/cdn/shop/t/209/assets/ts-product-label.css?v=160981411325883839981789476640"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://threespiritdrinks.com/",
+        "https://threespiritdrinks.com/cdn/shop/t/209/assets/ts-product-label.css?v=160981411325883839981789476640"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://threespiritdrinks.com/",
+        "https://threespiritdrinks.com/cdn/shop/t/209/assets/ts-base.css?v=70650816115709477661789540360",
+        "https://threespiritdrinks.com/cdn/shop/t/209/assets/ts-product-label.css?v=160981411325883839981789476640"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://threespiritdrinks.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://threespiritdrinks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://threespiritdrinks.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://threespiritdrinks.com/",
+        "https://threespiritdrinks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://threespiritdrinks.com/",
+        "https://threespiritdrinks.com/cdn/shop/t/209/assets/ts-base.css?v=70650816115709477661789540360",
+        "https://threespiritdrinks.com/cdn/shop/t/209/assets/ts-product-label.css?v=160981411325883839981789476640"
+      ]
+    },
+    "colors.on-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://threespiritdrinks.com/",
+        "https://threespiritdrinks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-plum": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://threespiritdrinks.com/"
+      ]
+    },
+    "colors.accent-plum-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://threespiritdrinks.com/"
+      ]
+    },
+    "colors.accent-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://threespiritdrinks.com/"
+      ]
+    },
+    "colors.accent-green-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://threespiritdrinks.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://threespiritdrinks.com/"
+      ]
+    },
+    "colors.disabled-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://threespiritdrinks.com/"
+      ]
+    },
+    "colors.disabled-border": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://threespiritdrinks.com/"
+      ]
+    },
+    "colors.overlay-scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://threespiritdrinks.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.ingredient-tile": {
+      "status": "inferred"
+    }
+  }
+}

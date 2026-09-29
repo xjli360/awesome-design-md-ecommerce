@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Microcosm Publishing
-description: A riot of hot pink #ed018c against near-black #111111 defines Microcosm Publishing's visual identity — a zine publisher that wears its DIY ethos on its sleeve. The primary pink, a shade that reads as both punk and playful, appears on category headers, sale badges, and primary buttons, while a supporting cast of electric yellow #e8f26e, cyan #8dd9f4, and coral #fd534d creates a palette that feels pulled from a risograph machine rather than a brand guidelines document. The site uses Impact for display headlines — a bold, condensed slab that screams "zine culture" — paired with Lato for body text, creating a deliberate tension between the aggressive and the readable. Navigation is utilitarian: a sticky top bar with dropdown menus, a prominent search field, and category links that use the full spectrum of accent colors. Product cards are simple white rectangles with soft shadows, letting the cover art do the heavy lifting. The footer is dense with links, social icons, and a newsletter signup, all contained within a #111111 band that grounds the page. The overall feel is that of a well-stocked indie bookstore's website — functional, colorful, and unapologetically niche.
+name: "Microcosm Publishing"
+source_url: "https://microcosmpublishing.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A riot of hot pink #ed018c against near-black #111111 defines Microcosm Publishing's visual identity — a zine publisher that wears its DIY ethos on its sleeve. The primary pink, a shade that reads as both punk and playful, appears on category headers, sale badges, and primary buttons, while a supporting cast of electric yellow #e8f26e, cyan #8dd9f4, and coral #fd534d creates a palette that feels pulled from a risograph machine rather than a brand guidelines document. The site uses Impact for display headlines — a bold, condensed slab that screams "zine culture" — paired with Lato for body text, creating a deliberate tension between the aggressive and the readable. Navigation is utilitarian: a sticky top bar with dropdown menus, a prominent search field, and category links that use the full spectrum of accent colors. Product cards are simple white rectangles with soft shadows, letting the cover art do the heavy lifting. The footer is dense with links, social icons, and a newsletter signup, all contained within a #111111 band that grounds the page. The overall feel is that of a well-stocked indie bookstore's website — functional, colorful, and unapologetically niche.
 
 colors:
   primary: "#ed018c"
@@ -507,6 +511,8 @@ components:
 - Hero banner text reduces in size and may stack vertically on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for most interactive elements could not be reliably extracted from static CSS; hover colors are inferred from brand logic
 - Error message styling (validation text, error icons, inline errors) not observed on the live site

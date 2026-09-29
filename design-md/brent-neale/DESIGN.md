@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Brent Neale
-description: |
+name: "Brent Neale"
+source_url: "https://www.brentneale.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Warm parchment (#f8f4eb) is the first cue: Brent Neale operates more like a private jeweler's reference book than a standard e-commerce grid. The palette layers three registers of gold — a mid-tone honey (#9d8858) as the signature brand accent, an amber vein (#a77a06) for active states, and a deep burnished sienna (#625332) for depth — all read against that cream canvas that makes each piece appear as if resting on archival paper rather than floating in a digital void. Garamond Premier Pro arrives in four optical-size variants (caption, text, subhead, display), carrying all editorial weight: long-form product descriptions, collection intros, and story prose run in the display cut at generous leading with open tracking, while Basis Grotesque Regular Pro handles every piece of UI chrome — navigation labels, price strings, checkout inputs — in deliberate counterpoint to the serif's warmth. The unexpected presence of a violet (#574cd5) appears in hover treatments and select interactive states, a flash of color recalling Brent Neale's signature rainbow gemstone work: bold, unlikely, and somehow exactly right. Hairlines hold at pale #ededed and barely announce themselves; product cards sit on the cream canvas without visible borders; corner radii stay at none or xs across all containers — the visual grammar of a space that trusts its objects to do the work and keeps its architecture invisible. Functional states complete the jewel-box range: a terracotta red (#c31818) for sale pricing, a muted forest green (#3c9342) for availability confirmation, and a near-black (#171717) that anchors primary CTAs as the one hard edge in an otherwise warm, yielding surface.
 
 colors:
@@ -352,6 +355,8 @@ components:
 - Announcement bar: always present, height reduces from 36px to 30px on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Logo wordmark weight, size, and exact lockup geometry not confirmed; treatment inferred from fine-jewelry category conventions
 - Whether the violet accent (#574cd5) is a theme-level CTA color or a component-scoped hover treatment is ambiguous — verify in live Shopify theme settings

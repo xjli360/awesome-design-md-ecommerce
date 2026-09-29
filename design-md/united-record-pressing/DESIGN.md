@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: United Record Pressing
-description: A Nashville vinyl pressing plant that has been spinning records since 1949, United Record Pressing communicates through the warmth of physical media — its digital presence is a study in analog fidelity. The brand's primary color, `#e7762b`, is a burnt orange that reads like the glow of a tube amplifier or the label on a vintage 45 RPM single, not a generic web accent. It appears on CTAs and key navigation elements against a near-white canvas (`#fafafa`) and a secondary teal (`#2a7f89`) that echoes the patina of old recording studio equipment. The typography stack favors Montserrat and Open Sans — clean, geometric sans-serifs that balance readability with a slight mid-century modern feel, avoiding the overly decorative or the sterile. Cards and buttons use `{rounded.sm}` (8px) corners, a subtle nod to the rounded edges of record sleeves without going fully pill-shaped. The layout is generously spaced (`{spacing.section}` 64px between major content blocks), giving each product image and description room to breathe, much like the wide grooves on a 12-inch LP. A secondary accent of deep brown (`#744e45`) appears in footer and secondary text, grounding the palette in earthy, tactile tones. The overall impression is that of a well-loved record shop — organized, purposeful, and unpretentious, with every design decision deferring to the physical object at the center of the experience: the vinyl record itself.
+name: "United Record Pressing"
+source_url: "https://www.unitedrecordpressing.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A Nashville vinyl pressing plant that has been spinning records since 1949, United Record Pressing communicates through the warmth of physical media — its digital presence is a study in analog fidelity. The brand's primary color, `#e7762b`, is a burnt orange that reads like the glow of a tube amplifier or the label on a vintage 45 RPM single, not a generic web accent. It appears on CTAs and key navigation elements against a near-white canvas (`#fafafa`) and a secondary teal (`#2a7f89`) that echoes the patina of old recording studio equipment. The typography stack favors Montserrat and Open Sans — clean, geometric sans-serifs that balance readability with a slight mid-century modern feel, avoiding the overly decorative or the sterile. Cards and buttons use `{rounded.sm}` (8px) corners, a subtle nod to the rounded edges of record sleeves without going fully pill-shaped. The layout is generously spaced (`{spacing.section}` 64px between major content blocks), giving each product image and description room to breathe, much like the wide grooves on a 12-inch LP. A secondary accent of deep brown (`#744e45`) appears in footer and secondary text, grounding the palette in earthy, tactile tones. The overall impression is that of a well-loved record shop — organized, purposeful, and unpretentious, with every design decision deferring to the physical object at the center of the experience: the vinyl record itself.
 
 colors:
   primary: "#e7762b"
@@ -335,6 +339,8 @@ components:
 - Search bar collapses to icon-only on mobile, expanding on tap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Extracted hex colors include many framework defaults and generic web colors (grays, blues) that may not be brand-specific — the primary (`#e7762b`), teal (`#2a7f89`), and brown (`#744e45`) are the most distinctive and likely brand colors
 - Font-family declarations are inferred from the site's CSS but exact hierarchy and weights for each typography token are estimated based on common usage patterns for Montserrat and Open Sans

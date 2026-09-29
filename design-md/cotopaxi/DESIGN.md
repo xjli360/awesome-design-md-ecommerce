@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Cotopaxi
-description: A brand built on the conviction that outdoor gear can be both vividly colorful and deeply purposeful, Cotopaxi wraps its mission in a palette that feels like a well-loved thrift-store haul: the deep indigo of a high-altitude sky (#2c2a41) anchors the experience, while a warm terra-cotta (#e18133) and a dusty sage (#9ebadc) appear as accent colors that refuse to be quiet. The signature blue (#007aaf) — pulled from the brand's logo and the meta theme-color — acts as a reliable north star across navigation bars, primary buttons, and footer backgrounds, while the lighter airy blue (#b7d9f0) softens the edges of cards and banners. The canvas is a warm off-white (#f1f0eb) rather than a sterile pure white, giving the entire site the feel of a well-worn trail map spread across a wooden table. Type is set in a clean, approachable sans-serif (likely a system stack given the `inherit` extraction) that never competes with the product photography — the gear is the hero, and the typography steps back to let the vibrant yellows, oranges, and blues of the products do the talking. Buttons are softly rounded (`{rounded.sm}`), product cards carry a gentle shadow and `{rounded.md}` corners, and the overall rhythm is generous without being wasteful: `{spacing.section}` of 64px separates major content blocks, while `{spacing.base}` of 16px keeps the reading experience intimate. The brand's "Gear For Good" ethos is woven into every interaction — a subtle badge on product cards, a persistent banner in the footer, and a warm tone in the microcopy that treats the customer like a fellow adventurer rather than a transaction.
+name: "Cotopaxi"
+source_url: "https://www.cotopaxi.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A brand built on the conviction that outdoor gear can be both vividly colorful and deeply purposeful, Cotopaxi wraps its mission in a palette that feels like a well-loved thrift-store haul: the deep indigo of a high-altitude sky (#2c2a41) anchors the experience, while a warm terra-cotta (#e18133) and a dusty sage (#9ebadc) appear as accent colors that refuse to be quiet. The signature blue (#007aaf) — pulled from the brand's logo and the meta theme-color — acts as a reliable north star across navigation bars, primary buttons, and footer backgrounds, while the lighter airy blue (#b7d9f0) softens the edges of cards and banners. The canvas is a warm off-white (#f1f0eb) rather than a sterile pure white, giving the entire site the feel of a well-worn trail map spread across a wooden table. Type is set in a clean, approachable sans-serif (likely a system stack given the `inherit` extraction) that never competes with the product photography — the gear is the hero, and the typography steps back to let the vibrant yellows, oranges, and blues of the products do the talking. Buttons are softly rounded (`{rounded.sm}`), product cards carry a gentle shadow and `{rounded.md}` corners, and the overall rhythm is generous without being wasteful: `{spacing.section}` of 64px separates major content blocks, while `{spacing.base}` of 16px keeps the reading experience intimate. The brand's "Gear For Good" ethos is woven into every interaction — a subtle badge on product cards, a persistent banner in the footer, and a warm tone in the microcopy that treats the customer like a fellow adventurer rather than a transaction.
 
 colors:
   primary: "#007aaf"
@@ -420,6 +424,8 @@ components:
 - Product detail pages collapse the image gallery into a single-column swipeable carousel, with thumbnails hidden.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Font family**: The extraction returned `inherit` for font-family declarations. The system stack used in the typography block is an educated assumption based on common Shopify practices. The actual brand font (if any custom typeface is used) could not be determined.
 - **Hover states**: While hover states for buttons and cards are defined, hover states for navigation links, filter chips, and footer links are inferred from common patterns rather than extracted from the live site.

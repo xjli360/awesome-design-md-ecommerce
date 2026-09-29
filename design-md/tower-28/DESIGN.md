@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Tower 28
-description: A clean, vegan, and cruelty-free beauty brand that feels like a breath of fresh air in the makeup aisle. Tower 28's visual identity is anchored on a warm, off-white canvas (`#fffaf7`) and a signature coral-orange (`#d74015`) that pulses through every primary CTA, badge, and accent — a color that reads as energetic but not aggressive, like a sunlit California poppy. The brand's palette is surprisingly complex for "clean beauty": deep berry tones (`#872626`, `#892628`) suggest lip and cheek stains, while a muted lavender (`#efe3f3`) and soft pink (`#f9e5fc`) whisper toward inclusivity and gentle femininity. Cool steel blues (`#676986`, `#9a9db1`) and a pale sky (`#bcdbff`) ground the system, preventing it from tipping into saccharine. Typography leans on Cooper Lt BT for display moments — a rounded, friendly serif that feels hand-drawn and approachable — paired with Scto Grotesk A Medium for body and buttons, giving the brand a crisp, editorial edge. Corners are softly rounded (`{rounded.sm}` for buttons, `{rounded.md}` for cards), and the overall spacing is generous (`{spacing.lg}` to `{spacing.xxl}`), letting each product breathe. The brand trusts its color stories and ingredient transparency over heavy ornamentation; there are no hard corners, no aggressive contrasts, just a warm, sun-washed minimalism that says "you can wear makeup and still be good to your skin."
+name: "Tower 28"
+source_url: "https://www.tower28beauty.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A clean, vegan, and cruelty-free beauty brand that feels like a breath of fresh air in the makeup aisle. Tower 28's visual identity is anchored on a warm, off-white canvas (`#fffaf7`) and a signature coral-orange (`#d74015`) that pulses through every primary CTA, badge, and accent — a color that reads as energetic but not aggressive, like a sunlit California poppy. The brand's palette is surprisingly complex for "clean beauty": deep berry tones (`#872626`, `#892628`) suggest lip and cheek stains, while a muted lavender (`#efe3f3`) and soft pink (`#f9e5fc`) whisper toward inclusivity and gentle femininity. Cool steel blues (`#676986`, `#9a9db1`) and a pale sky (`#bcdbff`) ground the system, preventing it from tipping into saccharine. Typography leans on Cooper Lt BT for display moments — a rounded, friendly serif that feels hand-drawn and approachable — paired with Scto Grotesk A Medium for body and buttons, giving the brand a crisp, editorial edge. Corners are softly rounded (`{rounded.sm}` for buttons, `{rounded.md}` for cards), and the overall spacing is generous (`{spacing.lg}` to `{spacing.xxl}`), letting each product breathe. The brand trusts its color stories and ingredient transparency over heavy ornamentation; there are no hard corners, no aggressive contrasts, just a warm, sun-washed minimalism that says "you can wear makeup and still be good to your skin."
 
 colors:
   primary: "#d74015"
@@ -372,6 +376,8 @@ components:
 - Product detail pages collapse the image gallery into a single-column swipeable carousel, with thumbnails hidden.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components beyond primary/secondary buttons could not be reliably extracted (e.g., nav-link hover color, product-card hover shadow, text-input focus ring).
 - Error and success states for forms (e.g., input validation messages, success banners) are not fully documented.

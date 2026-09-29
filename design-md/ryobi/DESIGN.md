@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Ryobi
-description: That specific yellow — #e1e723, an electric chartreuse sitting exactly between safety marker and solar flare — is the organizing principle behind every Ryobi surface, and it arrives from physical reality rather than branding committee: the color must match the battery packs and mower decks that come out of the box. The digital system is therefore constrained by the object, which gives Ryobi's palette an unusual kind of discipline. Against the yellow, the site runs a near-black ground (#0c0c0c) and a dark teal ink (#141e23) that reads warmer than pure black — workshop-floor pragmatism rather than lifestyle aspiration. A muted teal (#4a6e78) surfaces in secondary UI chrome, providing information hierarchy without competing with the primary volt. The supporting grays — #b1b3b5, #bdbec0, #dddedf, #ececed, #cbcdce — form a tightly stepped neutral staircase that keeps product photography uncontested on pale canvases (#fdfdfd, #f7f7f8). The type system runs on futura-pt, a geometric sans with an industrial pedigree: display sizes are set in uppercase with wide tracking to land product names with the authority of a spec-sheet header. Body copy shifts to Roboto for legibility at small sizes. Buttons are nearly square-cornered (`{rounded.xs}`), consistent with the angular tool silhouettes they accompany — there is no softness for its own sake. Badges and ribbons are hard-edged (`{rounded.none}`), printed on the #e1e723 primary or the near-black, functioning more like stickers on a product box than digital adornment. Spacing is generous at section scale so that product photography breathes, but interactive elements stay dense enough for a buyer who already knows their battery platform and is shopping by specs, not story. The footer carries a 3px top border in #e1e723 — the yellow that starts on the tool ends the page.
+name: "Ryobi"
+source_url: "https://www.ryobitools.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  That specific yellow — #e1e723, an electric chartreuse sitting exactly between safety marker and solar flare — is the organizing principle behind every Ryobi surface, and it arrives from physical reality rather than branding committee: the color must match the battery packs and mower decks that come out of the box. The digital system is therefore constrained by the object, which gives Ryobi's palette an unusual kind of discipline. Against the yellow, the site runs a near-black ground (#0c0c0c) and a dark teal ink (#141e23) that reads warmer than pure black — workshop-floor pragmatism rather than lifestyle aspiration. A muted teal (#4a6e78) surfaces in secondary UI chrome, providing information hierarchy without competing with the primary volt. The supporting grays — #b1b3b5, #bdbec0, #dddedf, #ececed, #cbcdce — form a tightly stepped neutral staircase that keeps product photography uncontested on pale canvases (#fdfdfd, #f7f7f8). The type system runs on futura-pt, a geometric sans with an industrial pedigree: display sizes are set in uppercase with wide tracking to land product names with the authority of a spec-sheet header. Body copy shifts to Roboto for legibility at small sizes. Buttons are nearly square-cornered (`{rounded.xs}`), consistent with the angular tool silhouettes they accompany — there is no softness for its own sake. Badges and ribbons are hard-edged (`{rounded.none}`), printed on the #e1e723 primary or the near-black, functioning more like stickers on a product box than digital adornment. Spacing is generous at section scale so that product photography breathes, but interactive elements stay dense enough for a buyer who already knows their battery platform and is shopping by specs, not story. The footer carries a 3px top border in #e1e723 — the yellow that starts on the tool ends the page.
 
 colors:
   primary: "#e1e723"
@@ -386,6 +390,8 @@ components:
 - Battery compatibility chip row wraps to two rows if more than three platforms apply
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom Ryobi icon set could be extracted; icon style (stroke weight, corner style) is unconfirmed — assumed to match futura-pt geometry (geometric, moderate stroke)
 - Exact nav height on mobile and breakpoint-specific logo scaling not confirmed from extraction

@@ -1,0 +1,619 @@
+{
+  "source_url": "https://counterculturecoffee.com",
+  "final_url": "https://counterculturecoffee.com/",
+  "captured_at": "2026-09-29T04:09:35.553450+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://counterculturecoffee.com",
+      "final_url": "https://counterculturecoffee.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "8d6c5940bbf51ada1a97c2956e931297f96783c8cadccec5dd7223a8a0b2d2aa",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://counterculturecoffee.com/cdn/shop/t/132/assets/affinity-portal.css?v=19949268880641921821758798392",
+      "final_url": "https://counterculturecoffee.com/cdn/shop/t/132/assets/affinity-portal.css?v=19949268880641921821758798392",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ed762d38b47da3ad6ac72ed82933a87785dd9bc029afc06f611cd20b78f51cd5",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828",
+      "final_url": "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5824a0911ad6d208d7be02e526c65fb827d8ce981b575f03f2b4eced7bf75f01",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://counterculturecoffee.com/cdn/shop/t/132/assets/base-transparency.css.liquid?v=21410130805811304961758798393",
+      "final_url": "https://counterculturecoffee.com/cdn/shop/t/132/assets/base-transparency.css.liquid?v=21410130805811304961758798393",
+      "http_status": 200,
+      "content_type": "application/x-liquid",
+      "sha256": "adae8926101b302a75908dc4fe4f18f878531dc95e833c144d35a53c3dcc6811",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 12,
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 9,
+      "sources": [
+        "https://counterculturecoffee.com/",
+        "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828"
+      ]
+    },
+    "#8d93d9": {
+      "count": 5,
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "#001386": {
+      "count": 2,
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "#cfabf2": {
+      "count": 2,
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "#bbe590": {
+      "count": 2,
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "#f58320": {
+      "count": 2,
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "#fedaa5": {
+      "count": 2,
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "#ff4e00": {
+      "count": 2,
+      "sources": [
+        "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828",
+        "https://counterculturecoffee.com/cdn/shop/t/132/assets/base-transparency.css.liquid?v=21410130805811304961758798393"
+      ]
+    },
+    "#fb90c5": {
+      "count": 2,
+      "sources": [
+        "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828",
+        "https://counterculturecoffee.com/cdn/shop/t/132/assets/base-transparency.css.liquid?v=21410130805811304961758798393"
+      ]
+    },
+    "#5f9fff": {
+      "count": 2,
+      "sources": [
+        "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828",
+        "https://counterculturecoffee.com/cdn/shop/t/132/assets/base-transparency.css.liquid?v=21410130805811304961758798393"
+      ]
+    },
+    "#008f5e": {
+      "count": 2,
+      "sources": [
+        "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828",
+        "https://counterculturecoffee.com/cdn/shop/t/132/assets/base-transparency.css.liquid?v=21410130805811304961758798393"
+      ]
+    },
+    "#e7e880": {
+      "count": 1,
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "#6b9cf888": {
+      "count": 1,
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "#ff8d6b": {
+      "count": 1,
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "#ff5c35": {
+      "count": 1,
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 1,
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "#f5d300": {
+      "count": 1,
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "#e9e6de": {
+      "count": 1,
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "#000f9f": {
+      "count": 1,
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "#fcfbf8": {
+      "count": 1,
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "#fbc8b3": {
+      "count": 1,
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "#b088ba": {
+      "count": 1,
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "#050505": {
+      "count": 1,
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "#373737": {
+      "count": 1,
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "#696969": {
+      "count": 1,
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "#9b9b9b": {
+      "count": 1,
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "#c1c1c1": {
+      "count": 1,
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "#dadada": {
+      "count": 1,
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "#01108f": {
+      "count": 1,
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "#010b62": {
+      "count": 1,
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "#6770bc": {
+      "count": 1,
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "#ece8df": {
+      "count": 1,
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "#efebe1": {
+      "count": 1,
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "#000f8f": {
+      "count": 1,
+      "sources": [
+        "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828"
+      ]
+    },
+    "#ec4899": {
+      "count": 1,
+      "sources": [
+        "https://counterculturecoffee.com/cdn/shop/t/132/assets/base-transparency.css.liquid?v=21410130805811304961758798393"
+      ]
+    },
+    "#ef4444": {
+      "count": 1,
+      "sources": [
+        "https://counterculturecoffee.com/cdn/shop/t/132/assets/base-transparency.css.liquid?v=21410130805811304961758798393"
+      ]
+    }
+  },
+  "font_families": {
+    "Founders Grotesk": [
+      "https://counterculturecoffee.com/"
+    ],
+    "acorn": [
+      "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828",
+      "https://counterculturecoffee.com/cdn/shop/t/132/assets/base-transparency.css.liquid?v=21410130805811304961758798393"
+    ],
+    "acorn-medium": [
+      "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828"
+    ],
+    "acorn-regular": [
+      "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828",
+      "https://counterculturecoffee.com/cdn/shop/t/132/assets/base-transparency.css.liquid?v=21410130805811304961758798393"
+    ],
+    "acorn-semibold": [
+      "https://counterculturecoffee.com/cdn/shop/t/132/assets/affinity-portal.css?v=19949268880641921821758798392",
+      "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828",
+      "https://counterculturecoffee.com/cdn/shop/t/132/assets/base-transparency.css.liquid?v=21410130805811304961758798393"
+    ],
+    "caveat": [
+      "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828"
+    ],
+    "couch": [
+      "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828"
+    ],
+    "droid-regular": [
+      "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828",
+      "https://counterculturecoffee.com/cdn/shop/t/132/assets/base-transparency.css.liquid?v=21410130805811304961758798393"
+    ],
+    "eiko-black": [
+      "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828"
+    ],
+    "eiko-bold": [
+      "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828"
+    ],
+    "eiko-light": [
+      "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828"
+    ],
+    "eiko-light-italic": [
+      "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828"
+    ],
+    "eiko-medium": [
+      "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828"
+    ],
+    "eiko-regular": [
+      "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828"
+    ],
+    "founders-grotesk-bold": [
+      "https://counterculturecoffee.com/",
+      "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828"
+    ],
+    "founders-grotesk-light": [
+      "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828"
+    ],
+    "founders-grotesk-medium": [
+      "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828"
+    ],
+    "founders-grotesk-regular": [
+      "https://counterculturecoffee.com/",
+      "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828"
+    ],
+    "founders-grotesk-semibold": [
+      "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828"
+    ],
+    "inter-bold": [
+      "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828"
+    ],
+    "inter-light": [
+      "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828",
+      "https://counterculturecoffee.com/cdn/shop/t/132/assets/base-transparency.css.liquid?v=21410130805811304961758798393"
+    ],
+    "inter-medium": [
+      "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828",
+      "https://counterculturecoffee.com/cdn/shop/t/132/assets/base-transparency.css.liquid?v=21410130805811304961758798393"
+    ],
+    "inter-regular": [
+      "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828",
+      "https://counterculturecoffee.com/cdn/shop/t/132/assets/base-transparency.css.liquid?v=21410130805811304961758798393"
+    ],
+    "inter-semibold": [
+      "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828",
+      "https://counterculturecoffee.com/cdn/shop/t/132/assets/base-transparency.css.liquid?v=21410130805811304961758798393"
+    ],
+    "sans-serif": [
+      "https://counterculturecoffee.com/"
+    ],
+    "sans-serif !important": [
+      "https://counterculturecoffee.com/cdn/shop/t/132/assets/affinity-portal.css?v=19949268880641921821758798392"
+    ],
+    "serif": [
+      "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://counterculturecoffee.com/",
+      "selector": "#TrustBanner-template--17967772008525__trust_banner_B9Hy8a .tb-body",
+      "declarations": "color: var(--tb-body-color);\n    font-size: var(--tb-body-size);\n    font-weight: var(--tb-body-weight);\n    line-height: 1.45;\n    margin: 0 0 32px;\n    max-width: 34rem;"
+    },
+    {
+      "source": "https://counterculturecoffee.com/cdn/shop/t/132/assets/affinity-portal.css?v=19949268880641921821758798392",
+      "selector": ".recharge-button-secondary",
+      "declarations": "background-color: transparent !important;\n  border: 1px solid black !important;"
+    },
+    {
+      "source": "https://counterculturecoffee.com/cdn/shop/t/132/assets/affinity-portal.css?v=19949268880641921821758798392",
+      "selector": ".recharge-button.recharge-button-secondary:disabled",
+      "declarations": "color: grey !important;"
+    },
+    {
+      "source": "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828",
+      "selector": ":root",
+      "declarations": "--img-starburst: url(//counterculturecoffee.com/cdn/shop/files/starburst-yellow_small.png?v=9540051949823662798);--img-chevron: url(//counterculturecoffee.com/cdn/shop/files/icon-chevron_small.png?v=9389737131476296934);--img-squiggle-static: url(//counterculturecoffee.com/cdn/shop/files/decoration-squiggle-2.svg?v=16406421104679952942)"
+    },
+    {
+      "source": "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828",
+      "selector": "#checkout-override .btn",
+      "declarations": "background-color:#000f8f;color:#fff!important"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Counter Culture Coffee",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://counterculturecoffee.com/",
+        "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://counterculturecoffee.com/",
+        "https://counterculturecoffee.com/cdn/shop/t/132/assets/base.css?v=31738782054181025301790148828"
+      ]
+    },
+    "colors.accent-orange": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "colors.accent-mint": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "colors.accent-lavender": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "colors.accent-coral": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "colors.accent-yellow": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://counterculturecoffee.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.flavor-note-chip": {
+      "status": "inferred"
+    }
+  }
+}

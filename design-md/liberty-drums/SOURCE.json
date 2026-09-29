@@ -1,0 +1,752 @@
+{
+  "source_url": "https://www.libertydrums.com",
+  "final_url": "https://libertydrums.com/",
+  "captured_at": "2026-09-29T03:54:19.531599+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.libertydrums.com",
+      "final_url": "https://libertydrums.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "327f0527a7757e96a5b5fb171f1777b17e56ad38ff1ff6603f2bfd1ba96110c8",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739",
+      "final_url": "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "df59012e183e3b922133ad340257f47cce9ec275b5745917c9cdaf8b832a9c80",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Open+Sans:400",
+      "final_url": "https://fonts.googleapis.com/css?family=Open+Sans:400",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "29701cad209f859045535c41d362eac4aa5823a9cd29bdd14e681adf8d66ef6d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Ubuntu:400",
+      "final_url": "https://fonts.googleapis.com/css?family=Ubuntu:400",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "44009e5174e5911baf37b0580e2e4b4f9b64061a4c7b1dac63418a922928c4d2",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://libertydrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://libertydrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 50,
+      "sources": [
+        "https://libertydrums.com/",
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739",
+        "https://libertydrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 45,
+      "sources": [
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+      ]
+    },
+    "#000000": {
+      "count": 17,
+      "sources": [
+        "https://libertydrums.com/",
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+      ]
+    },
+    "#666666": {
+      "count": 11,
+      "sources": [
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+      ]
+    },
+    "#3cb0fd": {
+      "count": 10,
+      "sources": [
+        "https://libertydrums.com/"
+      ]
+    },
+    "#b62b2b": {
+      "count": 10,
+      "sources": [
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+      ]
+    },
+    "#eeeeee": {
+      "count": 8,
+      "sources": [
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+      ]
+    },
+    "#333333": {
+      "count": 5,
+      "sources": [
+        "https://libertydrums.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 5,
+      "sources": [
+        "https://libertydrums.com/",
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739",
+        "https://libertydrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#3498db": {
+      "count": 5,
+      "sources": [
+        "https://libertydrums.com/"
+      ]
+    },
+    "#de4c39": {
+      "count": 4,
+      "sources": [
+        "https://libertydrums.com/"
+      ]
+    },
+    "#5c5c5c": {
+      "count": 4,
+      "sources": [
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+      ]
+    },
+    "#dac08e": {
+      "count": 4,
+      "sources": [
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+      ]
+    },
+    "#89b171": {
+      "count": 3,
+      "sources": [
+        "https://libertydrums.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 3,
+      "sources": [
+        "https://libertydrums.com/"
+      ]
+    },
+    "#fff0f0": {
+      "count": 3,
+      "sources": [
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 3,
+      "sources": [
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 3,
+      "sources": [
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+      ]
+    },
+    "#ddf6cf": {
+      "count": 2,
+      "sources": [
+        "https://libertydrums.com/"
+      ]
+    },
+    "#bfbfbf": {
+      "count": 2,
+      "sources": [
+        "https://libertydrums.com/"
+      ]
+    },
+    "#80000000": {
+      "count": 2,
+      "sources": [
+        "https://libertydrums.com/"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 2,
+      "sources": [
+        "https://libertydrums.com/"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 2,
+      "sources": [
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+      ]
+    },
+    "#56ad6a": {
+      "count": 2,
+      "sources": [
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+      ]
+    },
+    "#1a1a1a00": {
+      "count": 2,
+      "sources": [
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://libertydrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dadada": {
+      "count": 1,
+      "sources": [
+        "https://libertydrums.com/"
+      ]
+    },
+    "#9a9a9a": {
+      "count": 1,
+      "sources": [
+        "https://libertydrums.com/"
+      ]
+    },
+    "#a9d092": {
+      "count": 1,
+      "sources": [
+        "https://libertydrums.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://libertydrums.com/"
+      ]
+    },
+    "#d4d4d4": {
+      "count": 1,
+      "sources": [
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 1,
+      "sources": [
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+      ]
+    },
+    "#00000080": {
+      "count": 1,
+      "sources": [
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+      ]
+    },
+    "#ecfef0": {
+      "count": 1,
+      "sources": [
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+      ]
+    },
+    "#3b5998": {
+      "count": 1,
+      "sources": [
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+      ]
+    },
+    "#00aced": {
+      "count": 1,
+      "sources": [
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+      ]
+    },
+    "#cb2027": {
+      "count": 1,
+      "sources": [
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+      ]
+    },
+    "#4999dc": {
+      "count": 1,
+      "sources": [
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+      ]
+    },
+    "#dd4b39": {
+      "count": 1,
+      "sources": [
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+      ]
+    },
+    "#00000099": {
+      "count": 1,
+      "sources": [
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 1,
+      "sources": [
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+      ]
+    },
+    "#dbdbdb": {
+      "count": 1,
+      "sources": [
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 1,
+      "sources": [
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://libertydrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://libertydrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://libertydrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://libertydrums.com/"
+    ],
+    "Arial!important": [
+      "https://libertydrums.com/"
+    ],
+    "Consolas": [
+      "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+    ],
+    "Geneva": [
+      "https://libertydrums.com/"
+    ],
+    "Glyphicons Halflings": [
+      "https://libertydrums.com/"
+    ],
+    "Helvetica": [
+      "https://libertydrums.com/"
+    ],
+    "Helvetica Neue": [
+      "https://libertydrums.com/",
+      "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+    ],
+    "HelveticaNeue": [
+      "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+    ],
+    "Open Sans": [
+      "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739",
+      "https://fonts.googleapis.com/css?family=Open+Sans:400"
+    ],
+    "Tahoma": [
+      "https://libertydrums.com/"
+    ],
+    "Trebuchet MS": [
+      "https://libertydrums.com/"
+    ],
+    "Ubuntu": [
+      "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739",
+      "https://fonts.googleapis.com/css?family=Ubuntu:400"
+    ],
+    "icons": [
+      "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+    ],
+    "monospace": [
+      "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+    ],
+    "sans-serif": [
+      "https://libertydrums.com/",
+      "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+    ],
+    "serif": [
+      "https://libertydrums.com/"
+    ],
+    "slick-icons": [
+      "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://libertydrums.com/",
+      "selector": ".layered-currency-switcher li button.currency-switcher-btn",
+      "declarations": "width:auto;height:auto;margin-bottom:0px;background:#fff;font-family:Arial!important;line-height:18px;border:1px solid #dadada;border-radius:25px;color:#9a9a9a;float:left;font-weight:700;margin-left:-46px;min-width:90px;position:relative;text-align:center;text-decoration:none;padding:10px 11px 10px 49px"
+    },
+    {
+      "source": "https://libertydrums.com/",
+      "selector": ".layered-currency-switcher li button.currency-switcher-btn:hover",
+      "declarations": "background:#ddf6cf;border-color:#a9d092;color:#89b171"
+    },
+    {
+      "source": "https://libertydrums.com/",
+      "selector": ".layered-currency-switcher li button.currency-switcher-btn.selected",
+      "declarations": "background:#de4c39;border-color:#de4c39;color:#fff;z-index:99;padding-left:23px!important;padding-right:23px!important"
+    },
+    {
+      "source": "https://libertydrums.com/",
+      "selector": ".layered-currency-switcher li button.currency-switcher-btn",
+      "declarations": "background: #FFFFFF !important; border-color: #BFBFBF !important; color: #BFBFBF !important;"
+    },
+    {
+      "source": "https://libertydrums.com/",
+      "selector": ".layered-currency-switcher li button.currency-switcher-btn:hover",
+      "declarations": "background: #DDF6CF !important; border-color: #89B171 !important; color: #89B171 !important;"
+    },
+    {
+      "source": "https://libertydrums.com/",
+      "selector": ".layered-currency-switcher li button.currency-switcher-btn.selected",
+      "declarations": "background: #DE4C39 !important; border-color: #DE4C39 !important; color: #FFFFFF !important;"
+    },
+    {
+      "source": "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0"
+    },
+    {
+      "source": "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739",
+      "selector": "body,html",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739",
+      "selector": ".btn,.rte .btn",
+      "declarations": "display:inline-block;width:auto;text-decoration:none;text-align:center;vertical-align:middle;white-space:nowrap;cursor:pointer;border:1px solid transparent;-moz-user-select:none;-ms-user-select:none;-webkit-user-select:none;user-select:none;-webkit-appearance:none;-moz-appearance:none;appearance:none;background-color:#1a1a1a;color:#fff"
+    },
+    {
+      "source": "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739",
+      "selector": ".btn:hover,.rte .btn:hover",
+      "declarations": "background-color:#000;color:#fff"
+    },
+    {
+      "source": "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739",
+      "selector": ".btn:active,.btn:focus,.rte .btn:active,.rte .btn:focus",
+      "declarations": "background-color:#000;color:#fff"
+    },
+    {
+      "source": "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739",
+      "selector": "body,input,textarea,button,select",
+      "declarations": "font-size:15px;font-family:Open Sans,HelveticaNeue,Helvetica Neue,sans-serif;color:#666;line-height:1.6"
+    },
+    {
+      "source": "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739",
+      "selector": "h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6",
+      "declarations": "font-family:Ubuntu,HelveticaNeue,Helvetica Neue,sans-serif;font-weight:400;text-rendering:optimizeLegibility;letter-spacing:.05em;margin:0 0 .66667em;line-height:1.4;color:#1a1a1a"
+    },
+    {
+      "source": "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739",
+      "selector": "h1 a,.h1 a,h2 a,.h2 a,h3 a,.h3 a,h4 a,.h4 a,h5 a,.h5 a,h6 a,.h6 a",
+      "declarations": "color:#1a1a1a;text-decoration:none;font-weight:inherit"
+    },
+    {
+      "source": "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739",
+      "selector": ".btn",
+      "declarations": "position:relative;padding:10px 30px;border-radius:2px;font-family:Ubuntu,HelveticaNeue,Helvetica Neue,sans-serif;font-weight:400;text-rendering:optimizeLegibility;letter-spacing:.05em;font-size:16px"
+    },
+    {
+      "source": "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739",
+      "selector": ".btn.btn--ajax-disabled:before",
+      "declarations": "position:absolute;top:0;left:0;right:0;bottom:0;content:\"\";background-color:#1a1a1a"
+    },
+    {
+      "source": "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739",
+      "selector": ".btn.btn--ajax-disabled:after",
+      "declarations": "content:\"\";display:block;width:20px;height:20px;position:absolute;top:50%;margin-left:-10px;margin-top:-10px;border-radius:50%;border:3px solid white;border-top-color:transparent;-webkit-animation:spin .65s infinite linear;-moz-animation:spin .65s infinite linear;left:50%"
+    },
+    {
+      "source": "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739",
+      "selector": ".link-body-color",
+      "declarations": "color:#666"
+    },
+    {
+      "source": "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739",
+      "selector": ".btn--link",
+      "declarations": "background-color:transparent;border:none;color:#1a1a1a"
+    },
+    {
+      "source": "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739",
+      "selector": ".slick-slider .slick-dots li button:before",
+      "declarations": "text-indent:-9999px;background-color:#fff;border-radius:100%;border:2px solid transparent;width:10px;height:10px;margin:5px 0 0 5px;opacity:1;transition:all .2s"
+    },
+    {
+      "source": "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739",
+      "selector": ".slick-slider .slick-dots li.slick-active button:before",
+      "declarations": "background-color:transparent;border-color:#fff;opacity:1;width:12px;height:12px;margin:4px 0 0 4px"
+    },
+    {
+      "source": "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739",
+      "selector": ".hero__site-header .site-header__inner",
+      "declarations": "background-color:transparent"
+    },
+    {
+      "source": "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739",
+      "selector": ".hero__site-header .site-header__link",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739",
+      "selector": ".hero__site-header .site-header__link:hover,.hero__site-header .site-header__link:focus,.hero__site-header .site-header__link:active",
+      "declarations": "background-color:transparent"
+    },
+    {
+      "source": "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739",
+      "selector": ".slick-dots li button",
+      "declarations": "border:0;background:transparent;display:block;height:20px;width:20px;outline:none;line-height:0;font-size:0;color:transparent;padding:5px;cursor:pointer"
+    },
+    {
+      "source": "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739",
+      "selector": ".slick-dots li button:before",
+      "declarations": "position:absolute;top:0;left:0;content:\"\\2022\";width:20px;height:20px;font-family:\"slick-icons, sans-serif\";font-size:6px;line-height:20px;text-align:center;color:#1a1a1a;opacity:.25;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale"
+    },
+    {
+      "source": "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739",
+      "selector": ".slick-dots li.slick-active button:before",
+      "declarations": "color:#1a1a1a;opacity:.75"
+    },
+    {
+      "source": "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739",
+      "selector": ".site-header__inner",
+      "declarations": "position:relative;height:65px;padding:0 10px;background-color:#fff;z-index:7"
+    },
+    {
+      "source": "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739",
+      "selector": ".site-header__link",
+      "declarations": "display:inline-block;color:#1a1a1a"
+    },
+    {
+      "source": "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739",
+      "selector": ".site-header__logo .site-header__logo-link",
+      "declarations": "color:#1a1a1a;display:block;text-align:center"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Liberty Drums - Largest Boutique Drum Company in the UK",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+      ]
+    },
+    "colors.ink-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://libertydrums.com/",
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://libertydrums.com/",
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739",
+        "https://libertydrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://libertydrums.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://libertydrums.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://libertydrums.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://libertydrums.com/",
+        "https://libertydrums.com/cdn/shop/t/3/assets/theme.scss.css?v=87538723872183450991779215739",
+        "https://libertydrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://libertydrums.com/"
+      ]
+    },
+    "colors.accent-positive": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://libertydrums.com/"
+      ]
+    },
+    "colors.accent-positive-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://libertydrums.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.kit-builder-selector": {
+      "status": "inferred"
+    }
+  }
+}

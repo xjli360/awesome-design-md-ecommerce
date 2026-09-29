@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: 1-2-3-4 Go! Records
-description: A record store that wears its punk and garage-rock DNA on its sleeve, anchored by a raw #cc3b3b red that hits like a Marshall stack on ten. The brand lives in the tension between that shouty primary and a near-black #111111 ink — no pastels, no soft gradients, just the voltage of a storefront sign against a dark interior. Allerta Stencil, a typeface borrowed from military stencils and skate-park graffiti, runs the display hierarchy at 28px and 22px, its hard edges echoing the sharp corners of a record sleeve. The canvas is #fafafa, barely off-white, like the paper of a well-thumbed zine, while #e1e1e1 hairlines and #aaaaaa muted tones keep the structure readable without softening the attitude. Buttons are solid red blocks with {rounded.xs} — a concession to usability that still refuses to go pill-shaped. The product grid uses {rounded.none} on cards; the only curve in the system is the {rounded.full} search bar, a necessary portal into the inventory. This is a store that trusts its stock photography and album art to do the emotional work, keeping chrome and ornament to a minimum. The secondary red #bd0000 and a faded pink #e99292 appear in sale badges and sold-out markers, extending the palette without diluting the core voltage. The nav is a single dark band at #222222, the footer a deeper #040404 — the brand reads as a physical space translated into code, where the digital interface defers to the records themselves.
+name: "1-2-3-4 Go! Records"
+source_url: "https://1234gorecords.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A record store that wears its punk and garage-rock DNA on its sleeve, anchored by a raw #cc3b3b red that hits like a Marshall stack on ten. The brand lives in the tension between that shouty primary and a near-black #111111 ink — no pastels, no soft gradients, just the voltage of a storefront sign against a dark interior. Allerta Stencil, a typeface borrowed from military stencils and skate-park graffiti, runs the display hierarchy at 28px and 22px, its hard edges echoing the sharp corners of a record sleeve. The canvas is #fafafa, barely off-white, like the paper of a well-thumbed zine, while #e1e1e1 hairlines and #aaaaaa muted tones keep the structure readable without softening the attitude. Buttons are solid red blocks with {rounded.xs} — a concession to usability that still refuses to go pill-shaped. The product grid uses {rounded.none} on cards; the only curve in the system is the {rounded.full} search bar, a necessary portal into the inventory. This is a store that trusts its stock photography and album art to do the emotional work, keeping chrome and ornament to a minimum. The secondary red #bd0000 and a faded pink #e99292 appear in sale badges and sold-out markers, extending the palette without diluting the core voltage. The nav is a single dark band at #222222, the footer a deeper #040404 — the brand reads as a physical space translated into code, where the digital interface defers to the records themselves.
 
 colors:
   primary: "#cc3b3b"
@@ -321,6 +325,8 @@ components:
 - Search bar expands to full width below the nav on mobile, remains in nav on tablet and above
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states**: Only primary button hover was extracted (#bd0000). Secondary button, link, and card hover states are inferred from common patterns but not confirmed from the live site.
 - **Error styling**: No form validation, error message, or error state colors could be extracted. The system uses #cc3b3b for focus states, but error-specific colors (e.g., red for field errors) are unknown.

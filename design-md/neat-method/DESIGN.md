@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Neat Method
-description: Neat Method is a professional home organization brand that speaks in quiet, confident tones — a palette of deep charcoals ({colors.ink}: #363535), soft grays ({colors.muted}: #5f6166, {colors.muted-soft}: #8a8c91), and warm off-whites ({colors.canvas}: #fafafa) that feels like a freshly edited closet. The brand's signature voltage is a restrained royal purple ({colors.primary}: #3e34d3) that appears sparingly — on primary CTAs, accent lines, and the occasional badge — lending a sense of curated luxury without shouting. A secondary gold accent ({colors.gold}: #a98f36) and a muted sage ({colors.sage}: #515a4e) hint at the natural, textile-rich world of custom drawer liners and velvet hangers. The typography relies on a clean, inherited sans-serif system ({typography.body-md}) that prioritizes readability over personality, letting the before-and-after photography and generous whitespace carry the emotional weight. Rounded corners are soft but not pill-like — {rounded.sm} (8px) on cards and {rounded.md} (12px) on buttons — creating a tactile, approachable feel that mirrors the brand's promise of calm, orderly spaces. The overall mood is professional yet warm, like a trusted consultant who arrives with labeled bins and a quiet smile.
+name: "Neat Method"
+source_url: "https://neatmethod.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Neat Method is a professional home organization brand that speaks in quiet, confident tones — a palette of deep charcoals ({colors.ink}: #363535), soft grays ({colors.muted}: #5f6166, {colors.muted-soft}: #8a8c91), and warm off-whites ({colors.canvas}: #fafafa) that feels like a freshly edited closet. The brand's signature voltage is a restrained royal purple ({colors.primary}: #3e34d3) that appears sparingly — on primary CTAs, accent lines, and the occasional badge — lending a sense of curated luxury without shouting. A secondary gold accent ({colors.gold}: #a98f36) and a muted sage ({colors.sage}: #515a4e) hint at the natural, textile-rich world of custom drawer liners and velvet hangers. The typography relies on a clean, inherited sans-serif system ({typography.body-md}) that prioritizes readability over personality, letting the before-and-after photography and generous whitespace carry the emotional weight. Rounded corners are soft but not pill-like — {rounded.sm} (8px) on cards and {rounded.md} (12px) on buttons — creating a tactile, approachable feel that mirrors the brand's promise of calm, orderly spaces. The overall mood is professional yet warm, like a trusted consultant who arrives with labeled bins and a quiet smile.
 
 colors:
   primary: "#3e34d3"
@@ -308,6 +312,8 @@ components:
 - The footer collapses from 3 columns to 2 (tablet) to a single column (mobile).
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for buttons and links could not be reliably extracted from the live site; the active states defined above are best guesses based on color relationships.
 - Error styling for forms (beyond the border color) is inferred; actual error message typography and iconography are unknown.

@@ -1,13 +1,17 @@
 ---
 version: alpha
-name: ECM
-description: ECM's brand lives at the intersection of two temperatures — the deep royal blue (#003399) of precision instrument panels and the warm near-black (#100a05) of roasted coffee grounds. These two colors carry almost all chromatic work: a cool engineering blue beside a pigment so dark it reads as black with a trace of the roast embedded in it. The site canvas arrives in barely-warm gray (#e6e5e3) rather than paper white, a choice that keeps stainless-steel machine photography from floating on too clinical a ground. Every CTA arrives in that royal blue; no secondary accent competes for primary hierarchy. The red (#dc3232) surfaces only in system error states — it is not a brand color.
+name: "ECM"
+source_url: "https://www.ecm.de/en"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  ECM's brand lives at the intersection of two temperatures — the deep royal blue (#003399) of precision instrument panels and the warm near-black (#100a05) of roasted coffee grounds. These two colors carry almost all chromatic work: a cool engineering blue beside a pigment so dark it reads as black with a trace of the roast embedded in it. The site canvas arrives in barely-warm gray (#e6e5e3) rather than paper white, a choice that keeps stainless-steel machine photography from floating on too clinical a ground. Every CTA arrives in that royal blue; no secondary accent competes for primary hierarchy. The red (#dc3232) surfaces only in system error states — it is not a brand color.
 
-The font stack extracted from the site returns only monospace and code-editor fallbacks — WordPress Gutenberg editor palette defaults — meaning ECM's heading face loads through JavaScript or custom theme assets and escaped extraction. What shows through element geometry and spacing is a preference for weight contrast: headline copy runs heavy at 700 with compressed letter-spacing against lighter body text at relaxed line-height. No display serifs, no decorative lettering — this is the typographic culture of a technical specification sheet elevated to editorial.
+  The font stack extracted from the site returns only monospace and code-editor fallbacks — WordPress Gutenberg editor palette defaults — meaning ECM's heading face loads through JavaScript or custom theme assets and escaped extraction. What shows through element geometry and spacing is a preference for weight contrast: headline copy runs heavy at 700 with compressed letter-spacing against lighter body text at relaxed line-height. No display serifs, no decorative lettering — this is the typographic culture of a technical specification sheet elevated to editorial.
 
-Corner radius sits near zero throughout. The 2–4px `{rounded.xs}` and `{rounded.sm}` tokens replicate the machined-edge aesthetic of the Synchronika or Mechanika grouphead — a precise corner with only the smallest relief. Pill-shaped and full-radius buttons are absent; they would import consumer-brand softness incompatible with German precision engineering. Product cards carry only the lightest hairline border; hover state promotes the primary blue as a frame, signaling selection rather than delight animation.
+  Corner radius sits near zero throughout. The 2–4px `{rounded.xs}` and `{rounded.sm}` tokens replicate the machined-edge aesthetic of the Synchronika or Mechanika grouphead — a precise corner with only the smallest relief. Pill-shaped and full-radius buttons are absent; they would import consumer-brand softness incompatible with German precision engineering. Product cards carry only the lightest hairline border; hover state promotes the primary blue as a frame, signaling selection rather than delight animation.
 
-Machine detail pages function as technical portfolios: spec tables with uppercase wide-tracked labels beside values, boiler-configuration badges in primary blue, finish options surfaced as swatches. The dealer-locator is a first-class page element — ECM does not sell direct in most markets, so the purchase path runs through authorized service partners. An EN/DE language toggle anchors top-right, confirming that this German manufacturer addresses a global specialty audience on equal terms without relegating internationalization to a footer footnote.
+  Machine detail pages function as technical portfolios: spec tables with uppercase wide-tracked labels beside values, boiler-configuration badges in primary blue, finish options surfaced as swatches. The dealer-locator is a first-class page element — ECM does not sell direct in most markets, so the purchase path runs through authorized service partners. An EN/DE language toggle anchors top-right, confirming that this German manufacturer addresses a global specialty audience on equal terms without relegating internationalization to a footer footnote.
 
 colors:
   primary: "#003399"
@@ -343,6 +347,8 @@ components:
 - Footer: 4-column link grid → 2-column at tablet → single-column accordion (headings are expand triggers) at mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Brand typeface not captured**: all extracted font-family values are WordPress Gutenberg editor defaults (monospace stacks — Andale Mono, Courier, Monaco, consolas). ECM's heading and body face loads via JavaScript or a custom theme bundle. All typography tokens fall back to system-ui sans-serif; true weight distribution and optical sizing may differ materially.
 - **True root canvas color**: site may use pure white (#ffffff) for the document root; the warm gray (#e6e5e3) readings may originate from section backgrounds rather than the page ground, and `{colors.surface-soft}` vs `{colors.canvas}` assignments may need inversion.

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Kylie Cosmetics
-description: Kylie Cosmetics by Kylie Jenner is a beauty empire built on a foundation of millennial-pink confidence and glossy, aspirational glamour. The brand's digital presence mirrors its product philosophy: bold, unapologetically feminine, and meticulously curated. The palette is anchored by a signature dusty rose (`#b3848f`) that appears across primary CTAs, badges, and accent elements, creating a cohesive visual identity that feels both luxurious and approachable. This is supported by a deeper, more grounded mauve (`#905d5d`) used for active states and secondary accents, while a clean white canvas (`#f8f8f8`) provides the necessary breathing room for product photography to shine. The brand's voice is amplified through a sophisticated typographic system that pairs the elegant, custom Tt-Chocolate script for display headings with the sturdy UniversLTStd-Bold for navigation and buttons, creating a deliberate contrast between playful femininity and editorial authority. Signature design moves include pill-shaped buttons (`{rounded.full}`) that soften the user interface, generous use of negative space, and a consistent application of the primary rose across interactive elements. The overall feel is that of a luxury boutique translated for the digital age — intimate, high-contrast, and designed to make every product feel like a coveted treasure. The dark ink (`#040404`) used for body text against the light canvas ensures readability, while muted tones (`#393939`, `#373737`) provide hierarchy without competing with the vibrant product imagery. This is a system that trusts its color story and typographic contrast to create a memorable, instantly recognizable brand experience.
+name: "Kylie Cosmetics"
+source_url: "https://kyliecosmetics.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Kylie Cosmetics by Kylie Jenner is a beauty empire built on a foundation of millennial-pink confidence and glossy, aspirational glamour. The brand's digital presence mirrors its product philosophy: bold, unapologetically feminine, and meticulously curated. The palette is anchored by a signature dusty rose (`#b3848f`) that appears across primary CTAs, badges, and accent elements, creating a cohesive visual identity that feels both luxurious and approachable. This is supported by a deeper, more grounded mauve (`#905d5d`) used for active states and secondary accents, while a clean white canvas (`#f8f8f8`) provides the necessary breathing room for product photography to shine. The brand's voice is amplified through a sophisticated typographic system that pairs the elegant, custom Tt-Chocolate script for display headings with the sturdy UniversLTStd-Bold for navigation and buttons, creating a deliberate contrast between playful femininity and editorial authority. Signature design moves include pill-shaped buttons (`{rounded.full}`) that soften the user interface, generous use of negative space, and a consistent application of the primary rose across interactive elements. The overall feel is that of a luxury boutique translated for the digital age — intimate, high-contrast, and designed to make every product feel like a coveted treasure. The dark ink (`#040404`) used for body text against the light canvas ensures readability, while muted tones (`#393939`, `#373737`) provide hierarchy without competing with the vibrant product imagery. This is a system that trusts its color story and typographic contrast to create a memorable, instantly recognizable brand experience.
 
 colors:
   primary: "#b3848f"
@@ -340,6 +344,8 @@ components:
 - Search functionality moves from inline to a full-screen overlay on mobile devices
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for secondary buttons, tertiary text buttons, and footer links could not be reliably extracted from the live site
 - Error states for form inputs (validation, error messages, error borders) were not observed in the extracted data

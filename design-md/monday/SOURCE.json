@@ -1,0 +1,1961 @@
+{
+  "source_url": "https://drinkmonday.co/",
+  "final_url": "https://drinkmonday.co/",
+  "captured_at": "2026-09-29T04:11:55.800704+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://drinkmonday.co/",
+      "final_url": "https://drinkmonday.co/",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "e5894dc607fcd74212cf15cad971304b06feca3f9ab9eb0a4a8439a1cf2a2495",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://drinkmonday.co/cdn/shop/t/83/compiled_assets/styles.css?v=161077484629862783261781635831",
+      "final_url": "https://drinkmonday.co/cdn/shop/t/83/compiled_assets/styles.css?v=161077484629862783261781635831",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "05438368da52db994bd0b44cd538628fb3d756c9b545c924c366dc369109d4ce",
+      "snapshot": "rendered-style-1.css"
+    },
+    {
+      "url": "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831",
+      "final_url": "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4d43b187add760fbb98e1502c25fa8b78f9ef41f113d4844d2cd8130ef0a5457",
+      "snapshot": "rendered-style-2.css"
+    },
+    {
+      "url": "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+      "final_url": "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b926134232c9f2049d40181a1ec3be54a86bab1c1832a6250c60155cf0c22d40",
+      "snapshot": "rendered-style-3.css"
+    },
+    {
+      "url": "https://drinkmonday.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://drinkmonday.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "rendered-style-4.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a1a805fe98177c6ca53e6feb7f2f83e937cd53de757a704a2f53ed9b2108263c",
+      "snapshot": "rendered-style-5.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Oswald:wght@400&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Oswald:wght@400&display=swap",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3fd3ac106fd1fa78258bba91d50840f6480a0fb84f0115ccab480cc8d2a15ef9",
+      "snapshot": "rendered-style-6.css"
+    },
+    {
+      "url": "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css",
+      "final_url": "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "cfb1cdde3c91681e2429afbf29693fc7e52c3035229c38e37574d4e3d73458a9",
+      "snapshot": "rendered-style-7.css"
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css",
+      "final_url": "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "fdf79963b3c079f1f2cdac3eadba204b5c1dc9f78e5f0603add46a7715b2c213",
+      "snapshot": "rendered-style-8.css"
+    },
+    {
+      "url": "https://drinkmonday.co/#computed-style-snapshot",
+      "final_url": "https://drinkmonday.co/#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "804be03b4d82d656715f9f5cd66eec5e8f6c8bc499f9e950f53918cc301de245",
+      "snapshot": "rendered-style-9.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 154,
+      "sources": [
+        "https://drinkmonday.co/",
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831",
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+        "https://drinkmonday.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css",
+        "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css",
+        "https://drinkmonday.co/#computed-style-snapshot"
+      ]
+    },
+    "#000000": {
+      "count": 144,
+      "sources": [
+        "https://drinkmonday.co/",
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831",
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css",
+        "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css",
+        "https://drinkmonday.co/#computed-style-snapshot"
+      ]
+    },
+    "#8b713e": {
+      "count": 124,
+      "sources": [
+        "https://drinkmonday.co/",
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+        "https://drinkmonday.co/#computed-style-snapshot"
+      ]
+    },
+    "#707070": {
+      "count": 74,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+        "https://drinkmonday.co/#computed-style-snapshot"
+      ]
+    },
+    "#434343": {
+      "count": 34,
+      "sources": [
+        "https://drinkmonday.co/",
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css",
+        "https://drinkmonday.co/#computed-style-snapshot"
+      ]
+    },
+    "#0d6efd": {
+      "count": 29,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#3d4246": {
+      "count": 27,
+      "sources": [
+        "https://drinkmonday.co/",
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+        "https://drinkmonday.co/#computed-style-snapshot"
+      ]
+    },
+    "#2491c4": {
+      "count": 24,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#e8e9eb": {
+      "count": 22,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558"
+      ]
+    },
+    "#6c757d": {
+      "count": 19,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#eeeeee": {
+      "count": 19,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#dc3545": {
+      "count": 18,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831",
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558"
+      ]
+    },
+    "#f8f9fa": {
+      "count": 17,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#212529": {
+      "count": 17,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#198754": {
+      "count": 16,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#20b2aa": {
+      "count": 15,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#737373": {
+      "count": 15,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#f2ebdd": {
+      "count": 14,
+      "sources": [
+        "https://drinkmonday.co/",
+        "https://drinkmonday.co/#computed-style-snapshot"
+      ]
+    },
+    "#ffc107": {
+      "count": 14,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#0dcaf0": {
+      "count": 14,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#002c0d": {
+      "count": 11,
+      "sources": [
+        "https://drinkmonday.co/",
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+        "https://drinkmonday.co/#computed-style-snapshot"
+      ]
+    },
+    "#e5f3ee": {
+      "count": 10,
+      "sources": [
+        "https://drinkmonday.co/",
+        "https://drinkmonday.co/#computed-style-snapshot"
+      ]
+    },
+    "#f4f3ed": {
+      "count": 9,
+      "sources": [
+        "https://drinkmonday.co/",
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+        "https://drinkmonday.co/#computed-style-snapshot"
+      ]
+    },
+    "#cccccc": {
+      "count": 9,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#222d5e": {
+      "count": 8,
+      "sources": [
+        "https://drinkmonday.co/",
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+        "https://drinkmonday.co/#computed-style-snapshot"
+      ]
+    },
+    "#e9e4d8": {
+      "count": 7,
+      "sources": [
+        "https://drinkmonday.co/",
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+        "https://drinkmonday.co/#computed-style-snapshot"
+      ]
+    },
+    "#999999": {
+      "count": 7,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#0a2e1f": {
+      "count": 6,
+      "sources": [
+        "https://drinkmonday.co/",
+        "https://drinkmonday.co/#computed-style-snapshot"
+      ]
+    },
+    "#c9a84c": {
+      "count": 6,
+      "sources": [
+        "https://drinkmonday.co/",
+        "https://drinkmonday.co/#computed-style-snapshot"
+      ]
+    },
+    "#343a40": {
+      "count": 6,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#0d6efd40": {
+      "count": 6,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#f5f0e8": {
+      "count": 5,
+      "sources": [
+        "https://drinkmonday.co/",
+        "https://drinkmonday.co/#computed-style-snapshot"
+      ]
+    },
+    "#dee2e6": {
+      "count": 5,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#adb5bd": {
+      "count": 5,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#495057": {
+      "count": 5,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#564626": {
+      "count": 5,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558"
+      ]
+    },
+    "#919191": {
+      "count": 5,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 4,
+      "sources": [
+        "https://drinkmonday.co/",
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css",
+        "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css",
+        "https://drinkmonday.co/#computed-style-snapshot"
+      ]
+    },
+    "#373b3e": {
+      "count": 4,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#86b7fe": {
+      "count": 4,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 4,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558"
+      ]
+    },
+    "#0e1226": {
+      "count": 4,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558"
+      ]
+    },
+    "#777777": {
+      "count": 4,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+        "https://drinkmonday.co/#computed-style-snapshot"
+      ]
+    },
+    "#d1dbe2": {
+      "count": 4,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#869ab8": {
+      "count": 4,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#ebebe4": {
+      "count": 4,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 3,
+      "sources": [
+        "https://drinkmonday.co/",
+        "https://drinkmonday.co/#computed-style-snapshot"
+      ]
+    },
+    "#6a8a7a": {
+      "count": 3,
+      "sources": [
+        "https://drinkmonday.co/",
+        "https://drinkmonday.co/#computed-style-snapshot"
+      ]
+    },
+    "#e9ecef": {
+      "count": 3,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#fff3cd": {
+      "count": 3,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#0a58ca": {
+      "count": 3,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#75b798": {
+      "count": 3,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#ea868f": {
+      "count": 3,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#00000000": {
+      "count": 3,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+        "https://drinkmonday.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#222222": {
+      "count": 3,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#44be70": {
+      "count": 3,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#be2119": {
+      "count": 3,
+      "sources": [
+        "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css"
+      ]
+    },
+    "#102b26": {
+      "count": 2,
+      "sources": [
+        "https://drinkmonday.co/",
+        "https://drinkmonday.co/#computed-style-snapshot"
+      ]
+    },
+    "#c6c6c6": {
+      "count": 2,
+      "sources": [
+        "https://drinkmonday.co/"
+      ]
+    },
+    "#f9f8f4": {
+      "count": 2,
+      "sources": [
+        "https://drinkmonday.co/"
+      ]
+    },
+    "#d63384": {
+      "count": 2,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#ced4da": {
+      "count": 2,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#cfe2ff": {
+      "count": 2,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#e2e3e5": {
+      "count": 2,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#d1e7dd": {
+      "count": 2,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#cff4fc": {
+      "count": 2,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#f8d7da": {
+      "count": 2,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#6ea8fe": {
+      "count": 2,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#bacbe6": {
+      "count": 2,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#cbccce": {
+      "count": 2,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#bcd0c7": {
+      "count": 2,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#badce3": {
+      "count": 2,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#e6dbb9": {
+      "count": 2,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#dfc2c4": {
+      "count": 2,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#dfe0e1": {
+      "count": 2,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#b6d4fe": {
+      "count": 2,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#565e64": {
+      "count": 2,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#146c43": {
+      "count": 2,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#25cff2": {
+      "count": 2,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#ffc720": {
+      "count": 2,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#b02a37": {
+      "count": 2,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#c6c7c8": {
+      "count": 2,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#00000026": {
+      "count": 2,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831",
+        "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css"
+      ]
+    },
+    "#8d8d8d": {
+      "count": 2,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558"
+      ]
+    },
+    "#4d4d4d": {
+      "count": 2,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558"
+      ]
+    },
+    "#56c722": {
+      "count": 2,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558"
+      ]
+    },
+    "#e8e9eb26": {
+      "count": 2,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://drinkmonday.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#57e1d9": {
+      "count": 2,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#666666": {
+      "count": 2,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 2,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#10a443": {
+      "count": 2,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#ef4444": {
+      "count": 2,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#fff0f0": {
+      "count": 2,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#ffbdbd": {
+      "count": 2,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#1d1e20": {
+      "count": 2,
+      "sources": [
+        "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css"
+      ]
+    },
+    "#4b4d4e": {
+      "count": 2,
+      "sources": [
+        "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css"
+      ]
+    },
+    "#3f5260": {
+      "count": 2,
+      "sources": [
+        "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css"
+      ]
+    },
+    "#cc3c28": {
+      "count": 2,
+      "sources": [
+        "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css"
+      ]
+    },
+    "#f0c000": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/"
+      ]
+    },
+    "#6c5730": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/"
+      ]
+    },
+    "#a28d65": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/"
+      ]
+    },
+    "#b9aa8b": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/"
+      ]
+    },
+    "#d1c6b2": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/"
+      ]
+    },
+    "#e2dccf": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/"
+      ]
+    },
+    "#eeeae2": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/"
+      ]
+    },
+    "#66806e": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/"
+      ]
+    },
+    "#6610f2": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#6f42c1": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#fd7e14": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#20c997": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#052c65": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#2b2f32": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#0a3622": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#055160": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#664d03": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#58151c": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#fcfcfd": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#9ec5fe": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#c4c8cb": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#a3cfbb": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#9eeaf9": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#ffe69c": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#f1aeb5": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#2b3035": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#a7acb1": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#6edff6": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#ffda6a": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#031633": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#161719": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#051b11": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#032830": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#332701": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#2c0b0e": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#1a1d20": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#084298": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#41464b": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#0f5132": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#087990": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#997404": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#842029": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#8bb9fe": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#e685b5": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#c5d7f2": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#bfd1ec": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#d7d8da": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#d1d2d4": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#c7dbd2": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#c1d6cc": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#c5e8ef": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#bfe2e9": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#f2e7c3": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#ece1be": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#eccccf": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#e5c7ca": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#ecedee": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#e5e6e7": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#2c3034": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#323539": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#0b5ed7": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#0a53be": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#5c636a": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#51585e": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#157347": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#13653f": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#31d2f2": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#3dd5f3": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#ffca2c": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#ffcd39": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#bb2d3b": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#a52834": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#d3d4d5": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#babbbc": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#424649": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#4d5154": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#000000cc": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#00000013": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#0000002d": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#00000080": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#ffffff80": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "#c9c9c9": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558"
+      ]
+    },
+    "#646668": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558"
+      ]
+    },
+    "#70707026": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558"
+      ]
+    },
+    "#e8e9eb40": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558"
+      ]
+    },
+    "#8b713e0d": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558"
+      ]
+    },
+    "#7070700d": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558"
+      ]
+    },
+    "#ffffff59": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558"
+      ]
+    },
+    "#8b713e40": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558"
+      ]
+    },
+    "#e8e9eb73": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558"
+      ]
+    },
+    "#e8e9eb80": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558"
+      ]
+    },
+    "#ad8449": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558"
+      ]
+    },
+    "#eeeae3": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://drinkmonday.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 1,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#939393": {
+      "count": 1,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#888888": {
+      "count": 1,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#f7f9fa": {
+      "count": 1,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#fafafa": {
+      "count": 1,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#cc0000": {
+      "count": 1,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#5cb85c": {
+      "count": 1,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#e3ebf6": {
+      "count": 1,
+      "sources": [
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "#faf9f8": {
+      "count": 1,
+      "sources": [
+        "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css"
+      ]
+    },
+    "#518b22": {
+      "count": 1,
+      "sources": [
+        "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css"
+      ]
+    },
+    "#366d12": {
+      "count": 1,
+      "sources": [
+        "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css"
+      ]
+    },
+    "#747576": {
+      "count": 1,
+      "sources": [
+        "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css"
+      ]
+    },
+    "#41a1e6": {
+      "count": 1,
+      "sources": [
+        "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css"
+      ]
+    },
+    "#fdd926": {
+      "count": 1,
+      "sources": [
+        "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css"
+      ]
+    },
+    "#322e2f": {
+      "count": 1,
+      "sources": [
+        "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css"
+      ]
+    },
+    "#797979": {
+      "count": 1,
+      "sources": [
+        "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css"
+      ]
+    },
+    "#d4d4d8": {
+      "count": 1,
+      "sources": [
+        "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css"
+      ]
+    },
+    "#18181b": {
+      "count": 1,
+      "sources": [
+        "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css"
+    ],
+    "Antiga-Regular": [
+      "https://drinkmonday.co/",
+      "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+      "https://drinkmonday.co/#computed-style-snapshot"
+    ],
+    "Arial": [
+      "https://drinkmonday.co/",
+      "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css"
+    ],
+    "BlinkMacSystemFont": [
+      "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css"
+    ],
+    "Cantarell": [
+      "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css"
+    ],
+    "Droid Sans": [
+      "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css"
+    ],
+    "Fira Sans": [
+      "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css"
+    ],
+    "FontAwesome": [
+      "https://drinkmonday.co/"
+    ],
+    "Graphik": [
+      "https://drinkmonday.co/",
+      "https://drinkmonday.co/#computed-style-snapshot"
+    ],
+    "Graphik-Light": [
+      "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558"
+    ],
+    "Graphik-Regular": [
+      "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+      "https://drinkmonday.co/#computed-style-snapshot"
+    ],
+    "Graphik-Semibold": [
+      "https://drinkmonday.co/",
+      "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+      "https://drinkmonday.co/#computed-style-snapshot"
+    ],
+    "Helvetic Neue": [
+      "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+      "https://drinkmonday.co/#computed-style-snapshot"
+    ],
+    "Helvetica": [
+      "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+      "https://drinkmonday.co/#computed-style-snapshot"
+    ],
+    "Helvetica Neue": [
+      "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+      "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css",
+      "https://drinkmonday.co/#computed-style-snapshot"
+    ],
+    "HelveticaNeue": [
+      "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+      "https://drinkmonday.co/#computed-style-snapshot"
+    ],
+    "Montserrat": [
+      "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+      "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap"
+    ],
+    "Open Sans": [
+      "https://drinkmonday.co/"
+    ],
+    "Oswald": [
+      "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+      "https://fonts.googleapis.com/css2?family=Oswald:wght@400&display=swap",
+      "https://drinkmonday.co/#computed-style-snapshot"
+    ],
+    "Oxygen": [
+      "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css"
+    ],
+    "Roboto": [
+      "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css"
+    ],
+    "Segoe UI": [
+      "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css"
+    ],
+    "Times Bnew Roman": [
+      "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+      "https://drinkmonday.co/#computed-style-snapshot"
+    ],
+    "Ubuntu": [
+      "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css"
+    ],
+    "san-serif": [
+      "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+      "https://drinkmonday.co/#computed-style-snapshot"
+    ],
+    "sans-serif": [
+      "https://drinkmonday.co/",
+      "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+      "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css",
+      "https://drinkmonday.co/#computed-style-snapshot"
+    ],
+    "serif": [
+      "https://drinkmonday.co/",
+      "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+      "https://drinkmonday.co/#computed-style-snapshot"
+    ],
+    "slick": [
+      "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+    ],
+    "stamped-font": [
+      "https://drinkmonday.co/"
+    ],
+    "system-ui": [
+      "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://drinkmonday.co/",
+      "selector": "#block-d092ccc5-8508-4956-83e0-ec887883e245 .body, #block-d092ccc5-8508-4956-83e0-ec887883e245 .body *",
+      "declarations": "color: #3d4246!important;"
+    },
+    {
+      "source": "https://drinkmonday.co/",
+      "selector": "#block-2e0ce1eb-e44e-48e9-a65e-dd4bff9a53e6 .body, #block-2e0ce1eb-e44e-48e9-a65e-dd4bff9a53e6 .body *",
+      "declarations": "color: !important;"
+    },
+    {
+      "source": "https://drinkmonday.co/",
+      "selector": "#block-25c3048d-58ed-4947-8f78-5976e5c2be11 .body, #block-25c3048d-58ed-4947-8f78-5976e5c2be11 .body *",
+      "declarations": "color: #434343!important;"
+    },
+    {
+      "source": "https://drinkmonday.co/",
+      "selector": "#block-490b4099-c646-4568-a4ac-9706b9ed0b57 .body, #block-490b4099-c646-4568-a4ac-9706b9ed0b57 .body *",
+      "declarations": "color: !important;"
+    },
+    {
+      "source": "https://drinkmonday.co/",
+      "selector": "#block-fc1257a2-2a7a-42b1-a4c9-f8ff62992cc8 .body, #block-fc1257a2-2a7a-42b1-a4c9-f8ff62992cc8 .body *",
+      "declarations": "color: !important;"
+    },
+    {
+      "source": "https://drinkmonday.co/",
+      "selector": "#block-b33d750b-8216-4386-b086-06a355d6ff44 .body, #block-b33d750b-8216-4386-b086-06a355d6ff44 .body *",
+      "declarations": "color: #f2ebdd!important;"
+    },
+    {
+      "source": "https://drinkmonday.co/",
+      "selector": "#block-fc1257a2-2a7a-42b1-a4c9-f8ff62992cc7 .body, #block-fc1257a2-2a7a-42b1-a4c9-f8ff62992cc7 .body *",
+      "declarations": "color: !important;"
+    },
+    {
+      "source": "https://drinkmonday.co/",
+      "selector": "#block-b33d750b-8216-4386-b086-06a355d6ff43 .body, #block-b33d750b-8216-4386-b086-06a355d6ff43 .body *",
+      "declarations": "color: #f2ebdd!important;"
+    },
+    {
+      "source": "https://drinkmonday.co/",
+      "selector": "#block-736745a1-b9aa-499d-b89b-6864a2908420 .body, #block-736745a1-b9aa-499d-b89b-6864a2908420 .body *",
+      "declarations": "color: #000000!important;"
+    },
+    {
+      "source": "https://drinkmonday.co/",
+      "selector": "#block-662e9d82-6ebd-4b63-af0e-a87d2a7ae6e9 .body, #block-662e9d82-6ebd-4b63-af0e-a87d2a7ae6e9 .body *",
+      "declarations": "color: #000000!important;"
+    },
+    {
+      "source": "https://drinkmonday.co/",
+      "selector": "#block-0d82933a-dcde-461b-8390-54ac433deef5 .body, #block-0d82933a-dcde-461b-8390-54ac433deef5 .body *",
+      "declarations": "color: #000000!important;"
+    },
+    {
+      "source": "https://drinkmonday.co/",
+      "selector": "#block-daf3d022-19c2-4cd5-bb25-61303a86c455 .body, #block-daf3d022-19c2-4cd5-bb25-61303a86c455 .body *",
+      "declarations": "color: #000000!important;"
+    },
+    {
+      "source": "https://drinkmonday.co/",
+      "selector": "#section-164341773124c59dad .header .title",
+      "declarations": "color: #e9e4d8;"
+    },
+    {
+      "source": "https://drinkmonday.co/",
+      "selector": "#section-164341773124c59dad .header p",
+      "declarations": "color: #e9e4d8;"
+    },
+    {
+      "source": "https://drinkmonday.co/",
+      "selector": "#shopify-section-164341773124c59dad section.product-header #product_title_box h1 *",
+      "declarations": "color: #e9e4d8;"
+    },
+    {
+      "source": "https://drinkmonday.co/",
+      "selector": "#section-16469722771bff2f3e .header .title, #section-16469722771bff2f3e .breadcrumb-item *, #section-16469722771bff2f3e .header .breadcrumb-item:before",
+      "declarations": "color: #8b713e;"
+    },
+    {
+      "source": "https://drinkmonday.co/cdn/shop/t/83/compiled_assets/styles.css?v=161077484629862783261781635831",
+      "selector": ".content-grid-images .row,.row.product-grid",
+      "declarations": "--bs-gutter-y:.5rem"
+    },
+    {
+      "source": "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831",
+      "selector": "body",
+      "declarations": "margin:0;font-family:var(--bs-body-font-family);font-size:var(--bs-body-font-size);font-weight:var(--bs-body-font-weight);line-height:var(--bs-body-line-height);color:var(--bs-body-color);text-align:var(--bs-body-text-align);background-color:var(--bs-body-bg);-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:transparent"
+    },
+    {
+      "source": "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831",
+      "selector": ".h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6",
+      "declarations": "margin-top:0;margin-bottom:.5rem;font-weight:500;line-height:1.2;color:var(--bs-heading-color)"
+    },
+    {
+      "source": "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831",
+      "selector": "tbody,td,tfoot,th,thead,tr",
+      "declarations": "border-color:inherit;border-style:solid;border-width:0"
+    },
+    {
+      "source": "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "margin:0;font-family:inherit;font-size:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831",
+      "selector": ":root",
+      "declarations": "--bs-breakpoint-xs:0;--bs-breakpoint-sm:576px;--bs-breakpoint-md:768px;--bs-breakpoint-lg:992px;--bs-breakpoint-xl:1200px;--bs-breakpoint-xxl:1400px"
+    },
+    {
+      "source": "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831",
+      "selector": ".table-striped>tbody>tr:nth-of-type(odd)>*",
+      "declarations": "--bs-table-color-type:var(--bs-table-striped-color);--bs-table-bg-type:var(--bs-table-striped-bg)"
+    },
+    {
+      "source": "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831",
+      "selector": ".table-hover>tbody>tr:hover>*",
+      "declarations": "--bs-table-color-state:var(--bs-table-hover-color);--bs-table-bg-state:var(--bs-table-hover-bg)"
+    },
+    {
+      "source": "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831",
+      "selector": ".form-control::-webkit-file-upload-button",
+      "declarations": "padding:.375rem .75rem;margin:-.375rem -.75rem;-webkit-margin-end:.75rem;margin-inline-end:.75rem;color:var(--bs-body-color);background-color:var(--bs-tertiary-bg);pointer-events:none;border-color:inherit;border-style:solid;border-width:0;border-inline-end-width:var(--bs-border-width);border-radius:0;-webkit-transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out"
+    },
+    {
+      "source": "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831",
+      "selector": ".form-control::file-selector-button",
+      "declarations": "padding:.375rem .75rem;margin:-.375rem -.75rem;-webkit-margin-end:.75rem;margin-inline-end:.75rem;color:var(--bs-body-color);background-color:var(--bs-tertiary-bg);pointer-events:none;border-color:inherit;border-style:solid;border-width:0;border-inline-end-width:var(--bs-border-width);border-radius:0;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out"
+    },
+    {
+      "source": "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831",
+      "selector": ".form-control:hover:not(:disabled):not([readonly])::-webkit-file-upload-button",
+      "declarations": "background-color:var(--bs-secondary-bg)"
+    },
+    {
+      "source": "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831",
+      "selector": ".form-control:hover:not(:disabled):not([readonly])::file-selector-button",
+      "declarations": "background-color:var(--bs-secondary-bg)"
+    },
+    {
+      "source": "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831",
+      "selector": ".btn",
+      "declarations": "--bs-btn-padding-x:.75rem;--bs-btn-padding-y:.375rem;--bs-btn-font-family: ;--bs-btn-font-size:1rem;--bs-btn-font-weight:400;--bs-btn-line-height:1.5;--bs-btn-color:var(--bs-body-color);--bs-btn-bg:transparent;--bs-btn-border-width:var(--bs-border-width);--bs-btn-border-color:transparent;--bs-btn-border-radius:var(--bs-border-radius);--bs-btn-hover-border-color:transparent;--bs-btn-box-shadow:inset 0 1px 0 rgba(255, 255, 255, .15),0 1px 1px rgba(0, 0, 0, .075);--bs-btn-disabled-opacity:.65;--bs-btn-focus-box-shadow:0 0 0 .25rem rgba(var(--bs-btn-focus-shadow-rgb), .5);display:inline-block;padding:var(--bs-btn-padding-y) var(--bs-btn-padding-x);font-family:var(--bs-btn-font-family);font-size:"
+    },
+    {
+      "source": "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831",
+      "selector": ".btn:hover",
+      "declarations": "color:var(--bs-btn-hover-color);background-color:var(--bs-btn-hover-bg);border-color:var(--bs-btn-hover-border-color)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "Monday Zero Alcohol Spirits - have it all without alcohol",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "1dfb8846f097908aacb191288d0b250600abf740aa8d55297350fc6240774673"
+    }
+  ],
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinkmonday.co/",
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+        "https://drinkmonday.co/#computed-style-snapshot"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinkmonday.co/",
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831",
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css",
+        "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css",
+        "https://drinkmonday.co/#computed-style-snapshot"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinkmonday.co/"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinkmonday.co/",
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+        "https://drinkmonday.co/#computed-style-snapshot"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinkmonday.co/",
+        "https://drinkmonday.co/#computed-style-snapshot"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinkmonday.co/",
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831",
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+        "https://drinkmonday.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css",
+        "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css",
+        "https://drinkmonday.co/#computed-style-snapshot"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinkmonday.co/",
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831",
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+        "https://drinkmonday.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css",
+        "https://static.klaviyo.com/onsite/js/kServiceStyles.fdf79963b3c07.css",
+        "https://drinkmonday.co/#computed-style-snapshot"
+      ]
+    },
+    "colors.cream-text": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinkmonday.co/",
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+        "https://drinkmonday.co/#computed-style-snapshot"
+      ]
+    },
+    "colors.hero-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinkmonday.co/",
+        "https://drinkmonday.co/#computed-style-snapshot"
+      ]
+    },
+    "colors.gold-accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinkmonday.co/",
+        "https://drinkmonday.co/#computed-style-snapshot"
+      ]
+    },
+    "colors.ink-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinkmonday.co/",
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css",
+        "https://drinkmonday.co/#computed-style-snapshot"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558",
+        "https://cdn.rebuyengine.com/onsite/css/global.7237ee84c39f4a6cc092.min.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831",
+        "https://drinkmonday.co/cdn/shop/t/83/assets/theme.css?v=22036514838843126031786728558"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinkmonday.co/cdn/shop/t/83/assets/vendors.css?v=134089998783101433621781635831"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.bottle-quantity-selector": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    }
+  }
+}

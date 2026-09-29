@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Anycubic
-description: |
+name: "Anycubic"
+source_url: "https://www.anycubic.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Every color token in Anycubic's extracted palette maps almost perfectly to Element UI's default Vue component theme — #409eff as primary, a stepped gray scale running #c0c4cc / #909399 / #606266 / #303133, and semantic status tokens in danger-red (#f56c6c), warning-amber (#e6a23c), and success-green (#67c23a) — which places the brand's visual identity in product photography and layout density rather than a bespoke color language. The electric blue at #409eff reads as generous and pragmatic rather than corporate: it carries every primary CTA, filter-active state, and in-page link without modification, sitting cleanly against both the white-canvas product grid and the near-black workshop darks (#1a1a1a, #303133) that frame hero sections. MiSans appears in the font stack — a Chinese sans-serif released by Xiaomi that signals Shenzhen maker-community roots while preserving Latin legibility — falling back through Helvetica Neue and system-ui for non-CJK environments. No proprietary display typeface was pulled from CSS; the brand trusts hardware credibility and competitive pricing over editorial font investment.
 
   The layout vocabulary is grid-forward and utilitarian: product listing pages run four-column card arrays at desktop, collapse to two columns at tablet, and go single-column on mobile with no intermediate lazy-design breaks. Buttons carry a modest 4px radius (`{rounded.sm}`) and nothing reaches pill territory — establishing an engineering-product UX register rather than fashion or lifestyle retail. Surface hierarchy is deliberately quiet: #f5f7fa for page backgrounds, #ffffff for product cards, #f2f6fc for nested filter panels, #ebeef5 for divider zones in settings screens. Status semantics borrowed from Element UI run throughout the product catalog: "New" and "Best Seller" badges in success-green (#67c23a), clearance alerts in danger-red (#f56c6c), and low-stock warnings in amber (#e6a23c). These four semantic hues — primary blue, success green, warning amber, danger red — constitute the entire interactive color vocabulary; everything else is a gray or a white.
@@ -427,6 +430,8 @@ components:
 - Spec tables gain `overflow-x: scroll` on mobile rather than wrapping values; row labels remain sticky at left
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom brand typeface found in CSS; MiSans is in the font stack but weight variants (Light, Regular, Medium, Bold) and CJK subset coverage are unconfirmed
 - Exact nav-bar height not extracted; 64px is estimated from Element UI's default layout patterns

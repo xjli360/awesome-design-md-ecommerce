@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Ultimaker
-description: Electric blue #100aed arrives at the interface the way a status LED fires on a live print head — immediate, unambiguous, and engineered rather than styled. Ultimaker's visual language is built on the tension between that voltage and a near-black base (#1b1b1b, #000e1a) pulled from deep-shadow industrial photography: machines photographed against darkness rather than white infinity coves. IBM Plex Sans carries the bulk of the typographic work, its rational construction making spec readouts, layer counts, and filament weights feel at home in a UI that might otherwise read as generic corporate tech. IBM Plex Sans Condensed appears in tighter informational contexts — material badges, printer model labels — where horizontal compression earns real estate without sacrificing legibility. Artex, the geometric display typeface found in the stack, carries the headline register: its precise construction echoes the build-plate grid while remaining warm enough for a brand selling to engineers who care about craft. The warm cream tone (#dad0c0) surfaces in editorial photography backdrops, grounding machine imagery in a material studio environment rather than a sterile lab. Orange-red #ff4500 reads as a functional alert register rather than a decorative accent — consistent with an interface where color carries semantic weight. The palette runs a disciplined gray ladder from #ececec through #8d8d8d to #444444, giving the system room to differentiate disabled states, hover layers, and border weights without reaching for new hues. Rounded corners are conservative: `{rounded.xs}` on form inputs, `{rounded.sm}` on cards — nothing softer than that. The brand's confidence lives in exactness.
+name: "Ultimaker"
+source_url: "https://www.ultimaker.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Electric blue #100aed arrives at the interface the way a status LED fires on a live print head — immediate, unambiguous, and engineered rather than styled. Ultimaker's visual language is built on the tension between that voltage and a near-black base (#1b1b1b, #000e1a) pulled from deep-shadow industrial photography: machines photographed against darkness rather than white infinity coves. IBM Plex Sans carries the bulk of the typographic work, its rational construction making spec readouts, layer counts, and filament weights feel at home in a UI that might otherwise read as generic corporate tech. IBM Plex Sans Condensed appears in tighter informational contexts — material badges, printer model labels — where horizontal compression earns real estate without sacrificing legibility. Artex, the geometric display typeface found in the stack, carries the headline register: its precise construction echoes the build-plate grid while remaining warm enough for a brand selling to engineers who care about craft. The warm cream tone (#dad0c0) surfaces in editorial photography backdrops, grounding machine imagery in a material studio environment rather than a sterile lab. Orange-red #ff4500 reads as a functional alert register rather than a decorative accent — consistent with an interface where color carries semantic weight. The palette runs a disciplined gray ladder from #ececec through #8d8d8d to #444444, giving the system room to differentiate disabled states, hover layers, and border weights without reaching for new hues. Rounded corners are conservative: `{rounded.xs}` on form inputs, `{rounded.sm}` on cards — nothing softer than that. The brand's confidence lives in exactness.
 
 colors:
   primary: "#100aed"
@@ -383,6 +387,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Artex typeface role is inferred from font-stack position; exact use cases (display-only vs. broader UI) not confirmed from extraction
 - Messina Sans appears in the stack but its specific UI role (marketing vs. interface) is unconfirmed

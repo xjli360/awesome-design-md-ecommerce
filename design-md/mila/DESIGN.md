@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Mila
-description: The #1ce4d5 teal names a clean-air default, but Mila's real design invention is using color as product naming: each filter personality — Critter Cuddler, The Overreactor, Basic Breather, and the full roster — receives its own hex, turning the palette into a product catalog where strawberry red (#f42d53), amber gold (#ffc140), and blush pink (#f394b5) are not brand accents but filter identifiers. Every marketing surface therefore doubles as wayfinding within the product line. Graphik carries the full weight range — Regular through Black — and the brand trusts it: display headlines run Graphik-Black at 56px with -1.5px tracking, giving aspirational copy a compressed, engineered quality rather than the airy openness most wellness brands favor. The sole monospace interruption is a stack of Andale Mono / Consolas / Monaco deployed exclusively in spec tables and filter performance data, where it reads as honest measurement. Near-black hero stages (#131314, #19191a) let the teal CTAs glow as if back-lit — a photon-clean visual register borrowed from consumer electronics packaging rather than home goods. The surface vocabulary splits deliberately: dark product stages for aspiration, warm off-white (#f0ece5) for narrative prose, and a near-white (#f9f9f9) for the commerce layer. Corners settle at {rounded.md} across product UI elements and step up to {rounded.lg} on marketing cards; the only {rounded.full} shapes belong to filter-variant color badges, where a pill silhouette signals categorical identity rather than action. On-primary text runs dark (#131314 on #1ce4d5) — possible because teal's luminosity is high enough to pass WCAG AA without inverting to white — a small but conspicuous break from consumer color defaults.
+name: "Mila"
+source_url: "https://milacares.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The #1ce4d5 teal names a clean-air default, but Mila's real design invention is using color as product naming: each filter personality — Critter Cuddler, The Overreactor, Basic Breather, and the full roster — receives its own hex, turning the palette into a product catalog where strawberry red (#f42d53), amber gold (#ffc140), and blush pink (#f394b5) are not brand accents but filter identifiers. Every marketing surface therefore doubles as wayfinding within the product line. Graphik carries the full weight range — Regular through Black — and the brand trusts it: display headlines run Graphik-Black at 56px with -1.5px tracking, giving aspirational copy a compressed, engineered quality rather than the airy openness most wellness brands favor. The sole monospace interruption is a stack of Andale Mono / Consolas / Monaco deployed exclusively in spec tables and filter performance data, where it reads as honest measurement. Near-black hero stages (#131314, #19191a) let the teal CTAs glow as if back-lit — a photon-clean visual register borrowed from consumer electronics packaging rather than home goods. The surface vocabulary splits deliberately: dark product stages for aspiration, warm off-white (#f0ece5) for narrative prose, and a near-white (#f9f9f9) for the commerce layer. Corners settle at {rounded.md} across product UI elements and step up to {rounded.lg} on marketing cards; the only {rounded.full} shapes belong to filter-variant color badges, where a pill silhouette signals categorical identity rather than action. On-primary text runs dark (#131314 on #1ce4d5) — possible because teal's luminosity is high enough to pass WCAG AA without inverting to white — a small but conspicuous break from consumer color defaults.
 
 colors:
   primary: "#1ce4d5"
@@ -347,6 +351,8 @@ components:
 - Air quality indicator tiles: full-width single tile on mobile; 2–3 per row on tablet and above
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - `primary-disabled` (#b0e8e4) is a derived approximation — no light teal found in extracted palette; actual disabled-state color may differ
 - `EasyNotes` font detected in the font-family stack — likely used for handwritten or playful accent copy in hero sections; specific usage context and sizing not confirmed

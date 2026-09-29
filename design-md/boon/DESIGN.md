@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Boon
-description: |
+name: "Boon"
+source_url: "https://www.booninc.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The grass countertop drying rack — rows of flexible green pegs that look more like a lawn than kitchen equipment — established Boon's design language before any screen ever loaded: everyday baby utility reimagined as something you'd actually want to leave on your counter. That same impulse governs the digital surface: a single saturated orange (#f78f1e) carries every CTA, price callout, and promo strip while a warm cream canvas (#fbf8e7) and a disciplined range of cool neutrals (#636466, #757575, #e5e5e5) hold everything else in reserve. The brand doesn't apologize for color — it also keeps a teal (#00c2c7), a signal red (#f94436), and a golden yellow (#ffbb49) in rotation for product and promotional moments — but orange is the organizing voltage, the one hue that tells parents exactly where to press.
 
   Type runs in Jost, a geometric sans that sits between the looseness of a rounded display face and the austerity of a Swiss grotesque. At display scale it's set at weights 600–700 rather than the heavy 800+ that other infant brands use to project authority; Boon trusts color and product photography to carry that load instead. Body copy drops to 400 weight at 16px with a 1.6 line-height, making dishwasher-safe specs and feature callouts scannable at pace. Button labels and filter tags use uppercase tracking at modest letter-spacing, giving the UI a clean industrial quality without reading cold.
@@ -357,6 +360,8 @@ components:
 - Footer column layout shifts from four columns (desktop) to two (tablet) to single stacked (mobile)
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No meta theme-color was set, so the exact intended browser chrome accent color is inferred from the dominant orange rather than confirmed
 - Precise button border-radius values could not be measured from the live site; `{rounded.sm}` (8px) is estimated from visual inspection

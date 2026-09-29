@@ -1,0 +1,882 @@
+{
+  "source_url": "https://snapon.com",
+  "final_url": "https://www.snapon.com/",
+  "captured_at": "2026-09-28T04:19:42.677573+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://snapon.com",
+      "final_url": "https://www.snapon.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "69b06cca63f37912b8d4287a85acf94562fa09eab07930bda69214ba679522c6",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.snapon.com/ClientCSS/portal/portal.css",
+      "final_url": "https://www.snapon.com/ClientCSS/portal/portal.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "039f914ca75e34f5401536f26d8cb373115d0085467ec834974a8237ca640a50",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+      "final_url": "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "47f717980756b54791aa78bb84a47ad62d2e8d591e514cba01b645122e2bdce5",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i",
+      "final_url": "https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "712ca2b2c6d9dbc13fe839491294b9cca8c473d00572d7bc20117f20aa3f3fcb",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css",
+      "final_url": "https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "5736e3eec0c34bfc288854b7b8d2a8f1e22e9e2e7dae3c8d1ad5dfb2d4734ad0",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.snapon.com/CommonScripts/Portal/Flexslider/flexslider.css",
+      "final_url": "https://www.snapon.com/CommonScripts/Portal/Flexslider/flexslider.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "d7a82baea03010d7b2fdadf28de58102e7a608020f407b9e638ded508453dd7d",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 94,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css",
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+        "https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css",
+        "https://www.snapon.com/CommonScripts/Portal/Flexslider/flexslider.css"
+      ]
+    },
+    "#ff0000": {
+      "count": 48,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css",
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "#000000": {
+      "count": 27,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css",
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+        "https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css",
+        "https://www.snapon.com/CommonScripts/Portal/Flexslider/flexslider.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 23,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css",
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+        "https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css"
+      ]
+    },
+    "#999999": {
+      "count": 15,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css",
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "#990000": {
+      "count": 14,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "#333333": {
+      "count": 12,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css",
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "#666666": {
+      "count": 12,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "#777777": {
+      "count": 10,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css",
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "#282828": {
+      "count": 9,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 9,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+        "https://www.snapon.com/CommonScripts/Portal/Flexslider/flexslider.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 8,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css",
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+        "https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 8,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css",
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+        "https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css"
+      ]
+    },
+    "#1b1b1b": {
+      "count": 7,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "#888888": {
+      "count": 6,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css",
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+        "https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css"
+      ]
+    },
+    "#cacaca": {
+      "count": 6,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "#bebebe": {
+      "count": 5,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 4,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "#323232": {
+      "count": 4,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "#808080": {
+      "count": 3,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css",
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 3,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css"
+      ]
+    },
+    "#c8c8c8": {
+      "count": 3,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css",
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "#444444": {
+      "count": 3,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+        "https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css"
+      ]
+    },
+    "#171717": {
+      "count": 3,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "#787878": {
+      "count": 3,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "#203263": {
+      "count": 3,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "#909090": {
+      "count": 3,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "#abadb3": {
+      "count": 2,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css"
+      ]
+    },
+    "#dbdfe6": {
+      "count": 2,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css"
+      ]
+    },
+    "#e3e9ef": {
+      "count": 2,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css"
+      ]
+    },
+    "#e2e3ea": {
+      "count": 2,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css"
+      ]
+    },
+    "#dcdcdc": {
+      "count": 2,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css"
+      ]
+    },
+    "#e1e1e1": {
+      "count": 2,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css"
+      ]
+    },
+    "#555555": {
+      "count": 2,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css"
+      ]
+    },
+    "#2a2a2a": {
+      "count": 2,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css",
+        "https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 2,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css",
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "#b4b4b4": {
+      "count": 2,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "#cbcbcb": {
+      "count": 2,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "#cc0000": {
+      "count": 2,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "#f20026": {
+      "count": 2,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "#ff5268": {
+      "count": 2,
+      "sources": [
+        "https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css"
+      ]
+    },
+    "#707070": {
+      "count": 1,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css"
+      ]
+    },
+    "#f1f1e3": {
+      "count": 1,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css"
+      ]
+    },
+    "#ffebf1": {
+      "count": 1,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 1,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css"
+      ]
+    },
+    "#feefce": {
+      "count": 1,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css"
+      ]
+    },
+    "#ff9900": {
+      "count": 1,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 1,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css"
+      ]
+    },
+    "#4d4d4d": {
+      "count": 1,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css"
+      ]
+    },
+    "#bc0000": {
+      "count": 1,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css"
+      ]
+    },
+    "#c1c1c1": {
+      "count": 1,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css"
+      ]
+    },
+    "#3f4073": {
+      "count": 1,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css"
+      ]
+    },
+    "#cecece": {
+      "count": 1,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css"
+      ]
+    },
+    "#969696": {
+      "count": 1,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css"
+      ]
+    },
+    "#250e4bfd": {
+      "count": 1,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "#d0ec7df3": {
+      "count": 1,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "#9e9e9e": {
+      "count": 1,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "#dedede": {
+      "count": 1,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "#363636": {
+      "count": 1,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 1,
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Aptos": [
+      "https://www.snapon.com/"
+    ],
+    "Arial": [
+      "https://www.snapon.com/ClientCSS/portal/portal.css",
+      "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+    ],
+    "FontAwesome": [
+      "https://www.snapon.com/ClientCSS/portal/portal.css",
+      "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+      "https://www.snapon.com/CommonScripts/Portal/Flexslider/flexslider.css"
+    ],
+    "Helvetica": [
+      "https://www.snapon.com/ClientCSS/portal/portal.css",
+      "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+    ],
+    "MemphisBold": [
+      "https://www.snapon.com/ClientCSS/portal/portal.css",
+      "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+    ],
+    "MemphisExtraBold": [
+      "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+    ],
+    "MemphisMedium": [
+      "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+    ],
+    "MemphisMediumItalic": [
+      "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+    ],
+    "Roboto": [
+      "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+      "https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,500,500i,700,700i"
+    ],
+    "fontawesome": [
+      "https://www.snapon.com/CommonScripts/Portal/Flexslider/flexslider.css"
+    ],
+    "sans-serif": [
+      "https://www.snapon.com/ClientCSS/portal/portal.css",
+      "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+    ],
+    "sans-serif\nfont-size:12pt\nfont-size:14px\nfont-size:11pt\nfont-family:\"Aptos": [
+      "https://www.snapon.com/"
+    ],
+    "sans-serif\nfont-size:14px\nfont-size:12pt\nfont-size:11pt\nfont-family:\"Aptos": [
+      "https://www.snapon.com/"
+    ],
+    "sans-serif\nfont-size:14px\nvisibility:hidden": [
+      "https://www.snapon.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.snapon.com/ClientCSS/portal/portal.css",
+      "selector": ".titanDisplay hr,.mainBody hr,.Freeform hr,.FormEditor hr,.FAQ hr",
+      "declarations": "background-color:#ccc;border:0;color:#ccc;height:1px;clear:both"
+    },
+    {
+      "source": "https://www.snapon.com/ClientCSS/portal/portal.css",
+      "selector": ".titanBody .listingTools *",
+      "declarations": "color:rgba(0,0,0,.6)"
+    },
+    {
+      "source": "https://www.snapon.com/ClientCSS/portal/portal.css",
+      "selector": ".titanBody .listingTools li.selected a,.ErrorMessage,.ErrorText,.messageOn,.messageOn",
+      "declarations": "color:rgba(0,0,0,.7)"
+    },
+    {
+      "source": "https://www.snapon.com/ClientCSS/portal/portal.css",
+      "selector": "archResults .view .maxIcon::before,.SearchResults .view .maxIcon:hover::before,.SearchResults .view .minIcon:hover::before,.SearchResults.min .view .minIcon::be",
+      "declarations": "color:rgba(0,0,0,.8)"
+    },
+    {
+      "source": "https://www.snapon.com/ClientCSS/portal/portal.css",
+      "selector": ".CenterZone input[type=\"submit\"],.CenterZone input[type=\"button\"],.Commenting input[type=\"button\"]",
+      "declarations": "color:rgba(0,0,0,1)"
+    },
+    {
+      "source": "https://www.snapon.com/ClientCSS/portal/portal.css",
+      "selector": "ver,.CenterZone input[type=\"button\"]:focus,.CenterZone input[type=\"button\"]:active,.Commenting input[type=\"button\"]:hover,.Commenting input[type=\"button\"]:focus",
+      "declarations": "color:rgba(255,255,255,1)"
+    },
+    {
+      "source": "https://www.snapon.com/ClientCSS/portal/portal.css",
+      "selector": "div.tabbedContent ul.buttons li:hover,div.tabbedContent ul.buttons li.selected",
+      "declarations": "font-weight:bold;background:#fff;border-color:#999"
+    },
+    {
+      "source": "https://www.snapon.com/ClientCSS/portal/portal.css",
+      "selector": "div.DataEditor div.dataField div.buttons input.sortUp.disabled",
+      "declarations": "border-bottom-color:#e1e1e1"
+    },
+    {
+      "source": "https://www.snapon.com/ClientCSS/portal/portal.css",
+      "selector": "div.DataEditor div.dataField div.buttons input.sortDown.disabled",
+      "declarations": "border-top-color:#e1e1e1"
+    },
+    {
+      "source": "https://www.snapon.com/ClientCSS/portal/portal.css",
+      "selector": "input[disabled=true][type=button][value=Submit],input[disabled=true][type=button][value=Submit]:hover",
+      "declarations": "background-color:#d3d3d3;cursor:auto"
+    },
+    {
+      "source": "https://www.snapon.com/ClientCSS/portal/portal.css",
+      "selector": ".titanBody #dropsearch a,#dropsearch",
+      "declarations": "color:#333;font-size:1.6rem;font-weight:400"
+    },
+    {
+      "source": "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+      "selector": ":root",
+      "declarations": "--color-brand-primary:rgba(255,0,0);--color-brand-primary-hover:rgb(153,0,0)"
+    },
+    {
+      "source": "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+      "selector": ".mainBody textarea,.FAQ input,.FAQ select,.FAQ textarea,.SearchBox input,.SearchBox select,.FormEditor input,.FormEditor select,.FormEditor textarea,.Freeform i",
+      "declarations": "font-family:Roboto,Arial,Helvetica,sans-serif"
+    },
+    {
+      "source": "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+      "selector": ".sticky #topNavContainer a,.simple #topNavContainer a,.titanBody a:hover,.titanBody a:focus,.titanBody a:active,#leftNav a.current",
+      "declarations": "color:#000"
+    },
+    {
+      "source": "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+      "selector": ".titanBody",
+      "declarations": "color:#282828"
+    },
+    {
+      "source": "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+      "selector": ".titanBody a",
+      "declarations": "color:#f00"
+    },
+    {
+      "source": "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+      "selector": ".titanBody a:hover,.titanBody a:focus,.titanBody a:active",
+      "declarations": "color:#900"
+    },
+    {
+      "source": "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+      "selector": ".CenterZone input[type=\"submit\"],.CenterZone input[type=\"button\"],.Commenting input[type=\"button\"],.titanBody .button a",
+      "declarations": "border:1px solid rgba(255,0,0,0);background:#f00;border-radius:1px;color:#fff;display:inline-block;font-size:10.5px;letter-spacing:1px;padding:9px 19px;text-align:center;text-decoration:none;text-transform:uppercase;font-weight:500;-moz-transition:opacity .15s ease-in,width .45s ease-in-out;-o-transition:opacity .15s ease-in,width .45s ease-in-out;-webkit-transition:opacity .15s ease-in,width .45s ease-in-out;transition:opacity .15s ease-in,width .45s ease-in-out"
+    },
+    {
+      "source": "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+      "selector": "=\"disabled\"]:focus,.CenterZone input[type=\"button\"][disabled=\"disabled\"]:focus,.CenterZone input[type=\"submit\"][disabled=\"disabled\"]:active,.CenterZone input[ty",
+      "declarations": "background:#b4b4b4;color:#888;cursor:default"
+    },
+    {
+      "source": "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+      "selector": ".titanBody .RedBlock .button a",
+      "declarations": "border:1px solid rgba(255,255,255,0);color:#f00;background:#fff"
+    },
+    {
+      "source": "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+      "selector": ".titanBody .RedBlock .button a:hover,.titanBody .RedBlock .button a:focus,.titanBody .RedBlock .button a:active",
+      "declarations": "background:#900;border:1px solid rgba(153,0,0,0);color:#fff"
+    },
+    {
+      "source": "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+      "selector": ".buttonArrow a,div.CenterZone div.OurPeople .linkText a",
+      "declarations": "letter-spacing:.5px;font-size:10.5px;font-weight:500;color:#f00;display:inline-block;margin-bottom:.3rem"
+    },
+    {
+      "source": "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+      "selector": ".buttonArrow a:hover,.buttonArrow a:focus,.buttonArrow a:active",
+      "declarations": "color:#900"
+    },
+    {
+      "source": "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+      "selector": ".titanBody #pageTopArea .searchBarContainer ::-webkit-input-placeholder",
+      "declarations": "color:#bebebe"
+    },
+    {
+      "source": "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+      "selector": ".titanBody #pageTopArea .searchBarContainer ::-moz-placeholder",
+      "declarations": "color:#bebebe;opacity:1"
+    },
+    {
+      "source": "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+      "selector": ".titanBody #pageTopArea .searchBarContainer :-ms-input-placeholder",
+      "declarations": "color:#bebebe"
+    },
+    {
+      "source": "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+      "selector": ".titanBody #pageTopArea .searchBarContainer :-moz-placeholder",
+      "declarations": "color:#bebebe"
+    },
+    {
+      "source": "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+      "selector": ".titanBody #pageTopArea .searchBarContainer input[placeholder]",
+      "declarations": "color:#bebebe;opacity:1"
+    },
+    {
+      "source": "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+      "selector": ".titanDisplay .GoogleSear hr,.mainBody .GoogleSear hr",
+      "declarations": "background-color:#ddd;color:#ddd;margin:6px 0 12px"
+    },
+    {
+      "source": "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+      "selector": ".titanBody .clusterPhone a",
+      "declarations": "color:#666;letter-spacing:1px"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Snap-on Incorporated",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css",
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css",
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+        "https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css",
+        "https://www.snapon.com/CommonScripts/Portal/Flexslider/flexslider.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css",
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css",
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+        "https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+        "https://www.snapon.com/CommonScripts/Portal/Flexslider/flexslider.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css",
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+        "https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css",
+        "https://www.snapon.com/CommonScripts/Portal/Flexslider/flexslider.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css",
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+        "https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css",
+        "https://www.snapon.com/CommonScripts/Portal/Flexslider/flexslider.css"
+      ]
+    },
+    "colors.border": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css",
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css",
+        "https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css"
+      ]
+    },
+    "colors.disabled": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal.css"
+      ]
+    },
+    "colors.dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "colors.accent-navy": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.snapon.com/ClientCSS/portal/portal_styles.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-sheet-table": {
+      "status": "inferred"
+    }
+  }
+}

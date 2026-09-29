@@ -1,0 +1,833 @@
+{
+  "source_url": "https://dickies.com",
+  "final_url": "https://www.dickies.com/en-us",
+  "captured_at": "2026-09-28T04:52:04.991588+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://dickies.com",
+      "final_url": "https://www.dickies.com/en-us",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "7489d430ee533e7063f93afe77ed86f8fbee208795bdf24bf40d6f171819dee1",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.dickies.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.dickies.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.dickies.com/cdn/shop/t/231/assets/critical.CvzK-VbN.min.css?v=178243765078441834371789342230",
+      "final_url": "https://www.dickies.com/cdn/shop/t/231/assets/critical.CvzK-VbN.min.css?v=178243765078441834371789342230",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0e2d60c834383616501df6f7903870bec52d9d562c7c7dc39f5b4c12577f02a4",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.dickies.com/cdn/shop/t/231/assets/powerreviews.css?v=133478236342952000311789342611",
+      "final_url": "https://www.dickies.com/cdn/shop/t/231/assets/powerreviews.css?v=133478236342952000311789342611",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ab57c3ba1ac24cd39641a27a50fee6a95e48bb34ae9da33d6b8250e80e93c7ab",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a035e1-227c-7691-a4f8-3ba7a43c167b/expertvoice-59/assets/expertvoice.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a035e1-227c-7691-a4f8-3ba7a43c167b/expertvoice-59/assets/expertvoice.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "810679d4e6a427256fbe143fe3e86a3280436bdd24097131e17e7cc13107ea79",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 35,
+      "sources": [
+        "https://www.dickies.com/en-us",
+        "https://www.dickies.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.dickies.com/cdn/shop/t/231/assets/powerreviews.css?v=133478236342952000311789342611",
+        "https://cdn.shopify.com/extensions/01a035e1-227c-7691-a4f8-3ba7a43c167b/expertvoice-59/assets/expertvoice.css"
+      ]
+    },
+    "#000000": {
+      "count": 32,
+      "sources": [
+        "https://www.dickies.com/en-us",
+        "https://www.dickies.com/cdn/shop/t/231/assets/critical.CvzK-VbN.min.css?v=178243765078441834371789342230"
+      ]
+    },
+    "#622714": {
+      "count": 13,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#204387": {
+      "count": 6,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#848484": {
+      "count": 4,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 4,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#b2b2b2": {
+      "count": 4,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#757575": {
+      "count": 4,
+      "sources": [
+        "https://www.dickies.com/en-us",
+        "https://www.dickies.com/cdn/shop/t/231/assets/critical.CvzK-VbN.min.css?v=178243765078441834371789342230",
+        "https://cdn.shopify.com/extensions/01a035e1-227c-7691-a4f8-3ba7a43c167b/expertvoice-59/assets/expertvoice.css"
+      ]
+    },
+    "#b42318": {
+      "count": 3,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#f04438": {
+      "count": 3,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#6d6d6d": {
+      "count": 3,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#f4803e": {
+      "count": 3,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#4f98b0": {
+      "count": 3,
+      "sources": [
+        "https://www.dickies.com/cdn/shop/t/231/assets/powerreviews.css?v=133478236342952000311789342611"
+      ]
+    },
+    "#235768": {
+      "count": 3,
+      "sources": [
+        "https://www.dickies.com/cdn/shop/t/231/assets/powerreviews.css?v=133478236342952000311789342611"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#c9c9c9": {
+      "count": 2,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#9b9b9b": {
+      "count": 2,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 2,
+      "sources": [
+        "https://www.dickies.com/en-us",
+        "https://cdn.shopify.com/extensions/01a035e1-227c-7691-a4f8-3ba7a43c167b/expertvoice-59/assets/expertvoice.css"
+      ]
+    },
+    "#111111": {
+      "count": 2,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#12b76a": {
+      "count": 2,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#008247": {
+      "count": 2,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 2,
+      "sources": [
+        "https://www.dickies.com/en-us",
+        "https://www.dickies.com/cdn/shop/t/231/assets/critical.CvzK-VbN.min.css?v=178243765078441834371789342230"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 2,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#d9c940": {
+      "count": 2,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#d66503": {
+      "count": 2,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.dickies.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.dickies.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#64686b": {
+      "count": 2,
+      "sources": [
+        "https://www.dickies.com/cdn/shop/t/231/assets/powerreviews.css?v=133478236342952000311789342611"
+      ]
+    },
+    "#327c95": {
+      "count": 2,
+      "sources": [
+        "https://www.dickies.com/cdn/shop/t/231/assets/powerreviews.css?v=133478236342952000311789342611"
+      ]
+    },
+    "#252525": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a035e1-227c-7691-a4f8-3ba7a43c167b/expertvoice-59/assets/expertvoice.css"
+      ]
+    },
+    "#3a1a1a": {
+      "count": 1,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#565656": {
+      "count": 1,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#3f3f3f": {
+      "count": 1,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#282828": {
+      "count": 1,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#fef3f2": {
+      "count": 1,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#d92d20": {
+      "count": 1,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#fffaeb": {
+      "count": 1,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#f79009": {
+      "count": 1,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#dc6803": {
+      "count": 1,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#b54708": {
+      "count": 1,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#d1fadf": {
+      "count": 1,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#32d583": {
+      "count": 1,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#cdcdcd": {
+      "count": 1,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#fff0ea": {
+      "count": 1,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#ff9c6e": {
+      "count": 1,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#ff6c2c": {
+      "count": 1,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#f05c1c": {
+      "count": 1,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#bc4a1a": {
+      "count": 1,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#fbfaf8": {
+      "count": 1,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#ede8da": {
+      "count": 1,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#a2a2a2": {
+      "count": 1,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#717171": {
+      "count": 1,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#444444": {
+      "count": 1,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 1,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.dickies.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.dickies.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.dickies.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#d9c9ad": {
+      "count": 1,
+      "sources": [
+        "https://www.dickies.com/cdn/shop/t/231/assets/critical.CvzK-VbN.min.css?v=178243765078441834371789342230"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://cdn.shopify.com/extensions/01a035e1-227c-7691-a4f8-3ba7a43c167b/expertvoice-59/assets/expertvoice.css"
+    ],
+    "Bureau Grot Cond": [
+      "https://www.dickies.com/cdn/shop/t/231/assets/powerreviews.css?v=133478236342952000311789342611"
+    ],
+    "Bureau Grot Medium": [
+      "https://www.dickies.com/cdn/shop/t/231/assets/powerreviews.css?v=133478236342952000311789342611"
+    ],
+    "IBM Plex Mono": [
+      "https://www.dickies.com/en-us"
+    ],
+    "IBM Plex Sans": [
+      "https://www.dickies.com/en-us"
+    ],
+    "Inter": [
+      "https://www.dickies.com/en-us"
+    ],
+    "Source Sans 3": [
+      "https://cdn.shopify.com/extensions/01a035e1-227c-7691-a4f8-3ba7a43c167b/expertvoice-59/assets/expertvoice.css"
+    ],
+    "sans-serif": [
+      "https://www.dickies.com/cdn/shop/t/231/assets/powerreviews.css?v=133478236342952000311789342611"
+    ],
+    "sans-serif !important": [
+      "https://cdn.shopify.com/extensions/01a035e1-227c-7691-a4f8-3ba7a43c167b/expertvoice-59/assets/expertvoice.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.dickies.com/en-us",
+      "selector": ":root",
+      "declarations": "--typography-display-font:    \"IBM Plex Sans\";\n        --typography-heading-font:    \"IBM Plex Sans\";\n        --typography-subheading-font: \"IBM Plex Sans\";\n        --typography-body-font:       \"IBM Plex Sans\", sans-serif;\n        --typography-accent-font:     \"IBM Plex Mono\";"
+    },
+    {
+      "source": "https://www.dickies.com/en-us",
+      "selector": ":root",
+      "declarations": "--border-radius-none:            0px;\n    --border-radius-0:               0px;\n    --border-radius-50:              2px;\n    --border-radius-full:            100%;\n\n    --border-stroke-none:            0px;\n    --border-stroke-0:               0px;\n    --border-stroke-25:              0.66px;\n    --border-stroke-50:              1px;\n    --border-stroke-100:             2px;\n\n    --border-color-white:            #ffffff;\n    --border-color-gray-50:          #f2f2f2;\n    --border-color-light:            #c9c9c9;\n    --border-color-medium:           #848484;\n    --border-color-dark:             #3a1a1a;\n    --border-color-black:            #000000;\n    --border-color-brand:            #622714"
+    },
+    {
+      "source": "https://www.dickies.com/en-us",
+      "selector": ":root",
+      "declarations": "--overlay: 0px 4px 40px 0px rgba(0, 0, 0, 0.1);\n    --top-shadow: 0px -4px 10px 0px rgba(0, 0, 0, 0.08);\n    --bottom-shadow: 0px 4px 10px 0px rgba(0, 0, 0, 0.08);\n    --left-shadow: -4px 0px 10px 0px rgba(0, 0, 0, 0.08);\n    --right-shadow: 4px 0px 10px 0px rgba(0, 0, 0, 0.08);\n    --blur-small: blur(4px);\n    --blur-medium: blur(8px);"
+    },
+    {
+      "source": "https://www.dickies.com/en-us",
+      "selector": ":root",
+      "declarations": "--typography-display-large-size:       65px;\n      --typography-display-large-height:     75px;\n\n      --typography-display-medium-size:      46px;\n      --typography-display-medium-height:    55px;\n\n      --typography-display-small-size:       30px;\n      --typography-display-small-height:     36px;\n\n      \n      --typography-heading-xlarge-size:      46px;\n      --typography-heading-xlarge-height:    55px;\n\n      --typography-heading-large-size:       30px;\n      --typography-heading-large-height:     36px;\n\n      \n      --typography-subheading-xlarge-size:   30px;\n      --typography-subheading-xlarge-height: 36px;\n\n      --typography-subheading-large-size:    20px;\n      --typography-subh"
+    },
+    {
+      "source": "https://www.dickies.com/en-us",
+      "selector": ":root",
+      "declarations": "--btn-x-padding: var(--spacing-400);\n      --btn-y-padding: var(--spacing-700);\n      --btn-type-size: 20px;\n      --btn-type-height: 28px;"
+    },
+    {
+      "source": "https://www.dickies.com/en-us",
+      "selector": ":root",
+      "declarations": "--product-image-ratio: 1;"
+    },
+    {
+      "source": "https://www.dickies.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.dickies.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.dickies.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.dickies.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.dickies.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.dickies.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.dickies.com/cdn/shop/t/231/assets/critical.CvzK-VbN.min.css?v=178243765078441834371789342230",
+      "selector": "body",
+      "declarations": "background-color:var(--hp-background-color, var(--base-background-color, var(--color-neutrals-0)));overflow-x:clip;padding-bottom:var(--body-padding-bottom, 0)"
+    },
+    {
+      "source": "https://www.dickies.com/cdn/shop/t/231/assets/critical.CvzK-VbN.min.css?v=178243765078441834371789342230",
+      "selector": "button",
+      "declarations": "color:inherit"
+    },
+    {
+      "source": "https://www.dickies.com/cdn/shop/t/231/assets/critical.CvzK-VbN.min.css?v=178243765078441834371789342230",
+      "selector": ".button",
+      "declarations": "background-color:var(--btn-primary-bg-color);display:inline-flex;align-items:center;justify-content:center;padding:var(--btn-x-padding) var(--btn-y-padding);font-size:var(--btn-type-size);line-height:var(--btn-type-height);font-weight:var(--btn-type-weight);letter-spacing:calc(var(--btn-type-size) * var(--btn-type-tracking) * .01);text-transform:var(--btn-type-transform);white-space:nowrap;color:var(--btn-primary-txt-color);-webkit-user-select:none;-moz-user-select:none;user-select:none;text-decoration:none;cursor:pointer;border:var(--btn-border-stroke) solid transparent;border-radius:var(--btn-border-radius);border-color:var(--btn-primary-border-color);transition-property:background-color,c"
+    },
+    {
+      "source": "https://www.dickies.com/cdn/shop/t/231/assets/critical.CvzK-VbN.min.css?v=178243765078441834371789342230",
+      "selector": ".button:hover,.button:active,.button:focus-visible",
+      "declarations": "background-color:var(--btn-primary-bg-color-hover);color:var(--btn-primary-txt-color-hover);border-color:var(--btn-primary-border-color-hover);box-shadow:inset 0 0 0 var(--btn-border-stroke-hover) var(--btn-primary-border-color-hover)"
+    },
+    {
+      "source": "https://www.dickies.com/cdn/shop/t/231/assets/critical.CvzK-VbN.min.css?v=178243765078441834371789342230",
+      "selector": ".button--primary",
+      "declarations": "background-color:var(--btn-primary-bg-color);color:var(--btn-primary-txt-color);border-color:var(--btn-primary-border-color)"
+    },
+    {
+      "source": "https://www.dickies.com/cdn/shop/t/231/assets/critical.CvzK-VbN.min.css?v=178243765078441834371789342230",
+      "selector": ".button--primary:hover,.button--primary:active,.button--primary:focus-visible",
+      "declarations": "background-color:var(--btn-primary-bg-color-hover);color:var(--btn-primary-txt-color-hover);border-color:var(--btn-primary-border-color-hover);box-shadow:inset 0 0 0 var(--btn-border-stroke-hover) var(--btn-primary-border-color-hover)"
+    },
+    {
+      "source": "https://www.dickies.com/cdn/shop/t/231/assets/critical.CvzK-VbN.min.css?v=178243765078441834371789342230",
+      "selector": ".button--primary.button--inverse",
+      "declarations": "background-color:var(--btn-primary-bg-color-inverse);color:var(--btn-primary-txt-color-inverse);border-color:var(--btn-primary-border-color-inverse)"
+    },
+    {
+      "source": "https://www.dickies.com/cdn/shop/t/231/assets/critical.CvzK-VbN.min.css?v=178243765078441834371789342230",
+      "selector": ".button--primary.button--inverse:hover,.button--primary.button--inverse:active,.button--primary.button--inverse:focus-visible",
+      "declarations": "background-color:var(--btn-primary-bg-color-hover-inverse);color:var(--btn-primary-txt-color-hover-inverse);border-color:var(--btn-primary-border-color-hover-inverse);box-shadow:inset 0 0 0 var(--btn-border-stroke-hover) var(--btn-primary-border-color-hover-inverse)"
+    },
+    {
+      "source": "https://www.dickies.com/cdn/shop/t/231/assets/critical.CvzK-VbN.min.css?v=178243765078441834371789342230",
+      "selector": ".button--primary.button--disabled,.button--primary--disabled,.button--primary:disabled",
+      "declarations": "pointer-events:none;opacity:.5;background-color:var(--btn-disabled-bg-color);color:var(--btn-disabled-txt-color);border-color:var(--btn-disabled-border-color);box-shadow:none"
+    },
+    {
+      "source": "https://www.dickies.com/cdn/shop/t/231/assets/critical.CvzK-VbN.min.css?v=178243765078441834371789342230",
+      "selector": ".button--secondary",
+      "declarations": "background-color:var(--btn-secondary-bg-color);color:var(--btn-secondary-txt-color);border-color:var(--btn-secondary-border-color)"
+    },
+    {
+      "source": "https://www.dickies.com/cdn/shop/t/231/assets/critical.CvzK-VbN.min.css?v=178243765078441834371789342230",
+      "selector": ".button--secondary:hover,.button--secondary:active,.button--secondary:focus-visible",
+      "declarations": "background-color:var(--btn-secondary-bg-color-hover);color:var(--btn-secondary-txt-color-hover);border-color:var(--btn-secondary-border-color-hover);box-shadow:inset 0 0 0 var(--btn-border-stroke-hover) var(--btn-secondary-border-color-hover)"
+    },
+    {
+      "source": "https://www.dickies.com/cdn/shop/t/231/assets/critical.CvzK-VbN.min.css?v=178243765078441834371789342230",
+      "selector": ".button--secondary.button--inverse",
+      "declarations": "background-color:var(--btn-secondary-bg-color-inverse);color:var(--btn-secondary-txt-color-inverse);border-color:var(--btn-secondary-border-color-inverse)"
+    },
+    {
+      "source": "https://www.dickies.com/cdn/shop/t/231/assets/critical.CvzK-VbN.min.css?v=178243765078441834371789342230",
+      "selector": ".button--secondary.button--inverse:hover,.button--secondary.button--inverse:active,.button--secondary.button--inverse:focus-visible",
+      "declarations": "background-color:var(--btn-secondary-bg-color-hover-inverse);color:var(--btn-secondary-txt-color-hover-inverse);border-color:var(--btn-secondary-border-color-hover-inverse);box-shadow:inset 0 0 0 var(--btn-border-stroke-hover) var(--btn-secondary-border-color-hover)"
+    },
+    {
+      "source": "https://www.dickies.com/cdn/shop/t/231/assets/critical.CvzK-VbN.min.css?v=178243765078441834371789342230",
+      "selector": ".button--secondary.button--disabled,.button--secondary--disabled,.button--secondary:disabled",
+      "declarations": "pointer-events:none;opacity:.5;background-color:var(--btn-disabled-bg-color);color:var(--btn-disabled-txt-color);border-color:var(--btn-disabled-border-color);box-shadow:none"
+    },
+    {
+      "source": "https://www.dickies.com/cdn/shop/t/231/assets/critical.CvzK-VbN.min.css?v=178243765078441834371789342230",
+      "selector": ".button--tertiary",
+      "declarations": "background-color:var(--btn-tertiary-bg-color);color:var(--btn-tertiary-txt-color);border-color:var(--btn-tertiary-border-color)"
+    },
+    {
+      "source": "https://www.dickies.com/cdn/shop/t/231/assets/critical.CvzK-VbN.min.css?v=178243765078441834371789342230",
+      "selector": ".button--tertiary:hover,.button--tertiary:active,.button--tertiary:focus-visible",
+      "declarations": "background-color:var(--btn-tertiary-bg-color-hover);color:var(--btn-tertiary-txt-color-hover);border-color:var(--btn-tertiary-border-color-hover);box-shadow:inset 0 0 0 var(--btn-border-stroke-hover) var(--btn-tertiary-border-color-hover)"
+    },
+    {
+      "source": "https://www.dickies.com/cdn/shop/t/231/assets/critical.CvzK-VbN.min.css?v=178243765078441834371789342230",
+      "selector": ".button--tertiary.button--disabled,.button--tertiary--disabled,.button--tertiary:disabled",
+      "declarations": "pointer-events:none;opacity:.5;background-color:var(--btn-disabled-bg-color);color:var(--btn-disabled-txt-color);border-color:var(--btn-disabled-border-color);box-shadow:none"
+    },
+    {
+      "source": "https://www.dickies.com/cdn/shop/t/231/assets/critical.CvzK-VbN.min.css?v=178243765078441834371789342230",
+      "selector": ".button--disabled,.button:disabled",
+      "declarations": "pointer-events:none;opacity:.5;background-color:var(--btn-disabled-bg-color);color:var(--btn-disabled-txt-color);border-color:var(--btn-disabled-border-color);box-shadow:none"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Dickies Official Site | Durable Workwear and Apparel Since 1922 US",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dickies.com/en-us",
+        "https://www.dickies.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.dickies.com/cdn/shop/t/231/assets/powerreviews.css?v=133478236342952000311789342611",
+        "https://cdn.shopify.com/extensions/01a035e1-227c-7691-a4f8-3ba7a43c167b/expertvoice-59/assets/expertvoice.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dickies.com/en-us",
+        "https://www.dickies.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.dickies.com/cdn/shop/t/231/assets/powerreviews.css?v=133478236342952000311789342611",
+        "https://cdn.shopify.com/extensions/01a035e1-227c-7691-a4f8-3ba7a43c167b/expertvoice-59/assets/expertvoice.css"
+      ]
+    },
+    "colors.border-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "colors.interactive": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dickies.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.interactive-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dickies.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "colors.error": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "colors.navy-accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dickies.com/en-us"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.size-selector": {
+      "status": "inferred"
+    }
+  }
+}

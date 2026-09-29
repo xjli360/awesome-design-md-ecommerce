@@ -1,0 +1,1176 @@
+{
+  "source_url": "https://hexclad.com",
+  "final_url": "https://hexclad.com/",
+  "captured_at": "2026-09-28T04:10:16.214740+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://hexclad.com",
+      "final_url": "https://hexclad.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "8998c519051ad9591e9ad3b9bb4fb79c59d36411d1d75fc301dc98db55582c40",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160",
+      "final_url": "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a70a16c7806c671d08bd65835792435d7149493c62abae1ba9cb78c4782060b2",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://hexclad.com/cdn/shop/t/1453/assets/wc-ssr.css?v=101996895394005310671787027377",
+      "final_url": "https://hexclad.com/cdn/shop/t/1453/assets/wc-ssr.css?v=101996895394005310671787027377",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e62eac00903686aa231886218922b79fbb4e9ea570ce63b11cd7ca6545aa9b1f",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://hexclad.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://hexclad.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0cff8-2c69-745f-8772-fd89b29d2d4b/keepcart-2-253/assets/app.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0cff8-2c69-745f-8772-fd89b29d2d4b/keepcart-2-253/assets/app.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9645d1c7ed126f4eb0f36e7547241c95a7290b0b563bc886cb5110a3c068b437",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399",
+      "final_url": "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "19acff8d7fb245640cae74de2485d48ac56d4523393c16f4e7028cd8fceaea11",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 472,
+      "sources": [
+        "https://hexclad.com/",
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160",
+        "https://hexclad.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0cff8-2c69-745f-8772-fd89b29d2d4b/keepcart-2-253/assets/app.css",
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "#d9d8d6": {
+      "count": 165,
+      "sources": [
+        "https://hexclad.com/",
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "#0a0a0a": {
+      "count": 109,
+      "sources": [
+        "https://hexclad.com/",
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "#0e0e0e": {
+      "count": 107,
+      "sources": [
+        "https://hexclad.com/",
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "#efefef": {
+      "count": 107,
+      "sources": [
+        "https://hexclad.com/",
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160",
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "#d73939": {
+      "count": 60,
+      "sources": [
+        "https://hexclad.com/",
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "#000000": {
+      "count": 53,
+      "sources": [
+        "https://hexclad.com/",
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160",
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "#1b1a1a": {
+      "count": 50,
+      "sources": [
+        "https://hexclad.com/",
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "#11322c": {
+      "count": 40,
+      "sources": [
+        "https://hexclad.com/",
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "#303030": {
+      "count": 34,
+      "sources": [
+        "https://hexclad.com/",
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "#4b4b4a": {
+      "count": 30,
+      "sources": [
+        "https://hexclad.com/",
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "#707070": {
+      "count": 22,
+      "sources": [
+        "https://hexclad.com/",
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "#a3a3a3": {
+      "count": 20,
+      "sources": [
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "#af9963": {
+      "count": 18,
+      "sources": [
+        "https://hexclad.com/",
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 18,
+      "sources": [
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "#dddedc": {
+      "count": 17,
+      "sources": [
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "#00000000": {
+      "count": 16,
+      "sources": [
+        "https://hexclad.com/",
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160",
+        "https://hexclad.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#a7a8a9": {
+      "count": 14,
+      "sources": [
+        "https://hexclad.com/",
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "#808080": {
+      "count": 13,
+      "sources": [
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "#eeeeee": {
+      "count": 13,
+      "sources": [
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160",
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "#828282": {
+      "count": 11,
+      "sources": [
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "#85754e": {
+      "count": 11,
+      "sources": [
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "#002f00": {
+      "count": 10,
+      "sources": [
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 8,
+      "sources": [
+        "https://hexclad.com/",
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "#bfbebe": {
+      "count": 8,
+      "sources": [
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "#00000080": {
+      "count": 8,
+      "sources": [
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "#c4c4c4": {
+      "count": 7,
+      "sources": [
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "#ff4343": {
+      "count": 6,
+      "sources": [
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "#77767c": {
+      "count": 6,
+      "sources": [
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "#dfd5c4": {
+      "count": 6,
+      "sources": [
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "#121212": {
+      "count": 5,
+      "sources": [
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160",
+        "https://hexclad.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#ffffff80": {
+      "count": 5,
+      "sources": [
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 5,
+      "sources": [
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "#212121": {
+      "count": 4,
+      "sources": [
+        "https://hexclad.com/",
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "#f97f32": {
+      "count": 4,
+      "sources": [
+        "https://hexclad.com/",
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 4,
+      "sources": [
+        "https://hexclad.com/",
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "#0000004d": {
+      "count": 4,
+      "sources": [
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160",
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "#f4cb66": {
+      "count": 4,
+      "sources": [
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "#cccccc": {
+      "count": 4,
+      "sources": [
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160",
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "#ef4444": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "#1f3521": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "#6b7280": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "#0a0a0a4d": {
+      "count": 3,
+      "sources": [
+        "https://hexclad.com/"
+      ]
+    },
+    "#b2292e": {
+      "count": 3,
+      "sources": [
+        "https://hexclad.com/",
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "#00000040": {
+      "count": 3,
+      "sources": [
+        "https://hexclad.com/",
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160",
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "#c70000": {
+      "count": 3,
+      "sources": [
+        "https://hexclad.com/",
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "#dadada": {
+      "count": 3,
+      "sources": [
+        "https://hexclad.com/",
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "#129134": {
+      "count": 3,
+      "sources": [
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "#d73938": {
+      "count": 3,
+      "sources": [
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "#e8c765": {
+      "count": 3,
+      "sources": [
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "#070f1f": {
+      "count": 3,
+      "sources": [
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "#eeeeee33": {
+      "count": 3,
+      "sources": [
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "#9b9b9b": {
+      "count": 2,
+      "sources": [
+        "https://hexclad.com/",
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "#0e0e0eb3": {
+      "count": 2,
+      "sources": [
+        "https://hexclad.com/"
+      ]
+    },
+    "#00000066": {
+      "count": 2,
+      "sources": [
+        "https://hexclad.com/"
+      ]
+    },
+    "#fff500": {
+      "count": 2,
+      "sources": [
+        "https://hexclad.com/"
+      ]
+    },
+    "#0d0d0d": {
+      "count": 2,
+      "sources": [
+        "https://hexclad.com/"
+      ]
+    },
+    "#0000001a": {
+      "count": 2,
+      "sources": [
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160",
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    }
+  },
+  "font_families": {
+    "Apple Color Emoji": [
+      "https://hexclad.com/",
+      "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+    ],
+    "Canela": [
+      "https://hexclad.com/",
+      "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+    ],
+    "Canela!important": [
+      "https://hexclad.com/"
+    ],
+    "Consolas": [
+      "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+    ],
+    "Courier": [
+      "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+    ],
+    "Helvetica Neue": [
+      "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+    ],
+    "Liberation Mono": [
+      "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+    ],
+    "NotoSansJP": [
+      "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+    ],
+    "Sawarabi": [
+      "https://hexclad.com/",
+      "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+    ],
+    "Sawarabi!important": [
+      "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+    ],
+    "Trebuchet MS": [
+      "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+    ],
+    "darklinos": [
+      "https://hexclad.com/",
+      "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+    ],
+    "din-2014": [
+      "https://hexclad.com/",
+      "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+    ],
+    "din-2014!important": [
+      "https://hexclad.com/"
+    ],
+    "monospace": [
+      "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160",
+      "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+    ],
+    "sans-serif": [
+      "https://hexclad.com/",
+      "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+    ],
+    "serif": [
+      "https://hexclad.com/",
+      "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+    ],
+    "swiper-icons": [
+      "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+    ],
+    "system-ui": [
+      "https://hexclad.com/",
+      "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://hexclad.com/",
+      "selector": ":root",
+      "declarations": "--mod_header_BIfLoG_system-font-stack:\"din-2014\",system-ui,sans-serif,\"Apple Color Emoji\";--mod_header_BIfLoG_header-font-family:\"Canela\",serif"
+    },
+    {
+      "source": "https://hexclad.com/",
+      "selector": "body[data-jp-fonts=true]",
+      "declarations": "--mod_header_BIfLoG_system-font-stack:\"NotoSansJP\",system-ui,sans-serif,\"Apple Color Emoji\";--mod_header_BIfLoG_header-font-family:\"Sawarabi\",serif"
+    },
+    {
+      "source": "https://hexclad.com/",
+      "selector": ".mod_header_BIfLoG_Section",
+      "declarations": "z-index:500;will-change:top;background-color:#0e0e0e;width:100%;transition:top .3s ease-in-out;position:sticky;top:0;left:0"
+    },
+    {
+      "source": "https://hexclad.com/",
+      "selector": ".mod_header_BIfLoG_Header__burger",
+      "declarations": "color:#fff;background:0 0;justify-content:center;align-items:center;font-size:1px;line-height:1;display:inline-flex"
+    },
+    {
+      "source": "https://hexclad.com/",
+      "selector": ".mod_header_BIfLoG_Menu--bottom .mod_header_BIfLoG_Menu__link[aria-expanded=true]",
+      "declarations": "background-color:#0a0a0a;border:0 solid #fff;border-width:0 1px"
+    },
+    {
+      "source": "https://hexclad.com/",
+      "selector": ".mod_header_BIfLoG_Menu--bottom .mod_header_BIfLoG_Menu__link:after",
+      "declarations": "content:\"\";opacity:0;background-color:#0a0a0a;width:100%;height:1px;position:absolute;top:100%;left:0"
+    },
+    {
+      "source": "https://hexclad.com/",
+      "selector": ".mod_header_BIfLoG_Menu__link",
+      "declarations": "color:#fff;text-underline-offset:.125rem;appearance:none;background:0 0;align-items:center;gap:.5rem;padding:1.25rem .625rem;font-size:.9375rem;font-weight:400;line-height:1;text-decoration:none;text-decoration-thickness:1px;display:inline-flex"
+    },
+    {
+      "source": "https://hexclad.com/",
+      "selector": ".mod_header_BIfLoG_Menu__link.mod_header_BIfLoG_--promo",
+      "declarations": "font-size:1.25rem;font-family:var(--mod_header_BIfLoG_system-font-stack);border:0;align-items:center;padding-top:0;padding-bottom:0;font-style:normal;font-weight:300;line-height:100%"
+    },
+    {
+      "source": "https://hexclad.com/",
+      "selector": ".mod_header_BIfLoG_Menu__link.mod_header_BIfLoG_--live-red",
+      "declarations": "color:#d73939"
+    },
+    {
+      "source": "https://hexclad.com/",
+      "selector": ".mod_header_BIfLoG_Menu__link.mod_header_BIfLoG_--darklinos",
+      "declarations": "font-family:darklinos,sans-serif;font-size:1rem;font-family:var(--mod_header_BIfLoG_system-font-stack);font-style:normal;font-weight:300;line-height:100%"
+    },
+    {
+      "source": "https://hexclad.com/",
+      "selector": ".mod_header_BIfLoG_Menu__list",
+      "declarations": "background-color:#0e0e0e;margin:0;padding:0;list-style-type:none"
+    },
+    {
+      "source": "https://hexclad.com/",
+      "selector": ".mod_header_BIfLoG_Menu__list a",
+      "declarations": "font-size:1rem;font-family:var(--mod_header_BIfLoG_system-font-stack);color:#fff;white-space:nowrap;gap:.5rem;padding:.5rem;font-style:normal;font-weight:300;line-height:100%;display:flex"
+    },
+    {
+      "source": "https://hexclad.com/",
+      "selector": ".mod_header_BIfLoG_Utils__link .mod_header_BIfLoG_CartCount",
+      "declarations": "color:#fff;background-color:#b2292e;border-radius:50%;justify-content:center;align-items:center;width:.625rem;height:.625rem;font-size:.625rem;display:none;position:absolute;top:-.1875rem;right:0"
+    },
+    {
+      "source": "https://hexclad.com/",
+      "selector": ".mod_header_BIfLoG_Localization",
+      "declarations": "color:#fff;padding-top:.125rem;line-height:1;display:none;position:relative"
+    },
+    {
+      "source": "https://hexclad.com/",
+      "selector": ".mod_header_BIfLoG_Localization__link",
+      "declarations": "color:#fff;text-transform:uppercase;background:0 0;border:1px solid #fff;border-radius:0;align-items:center;gap:.5rem;padding:.3125rem;font-size:clamp(.6875rem,.605046rem + .351803vw,.9375rem);font-weight:400;text-decoration:none;display:inline-flex"
+    },
+    {
+      "source": "https://hexclad.com/",
+      "selector": ".mod_header_BIfLoG_Localization__list",
+      "declarations": "z-index:1;opacity:0;visibility:hidden;background-color:#0a0a0a;border:1px solid #fff;width:100%;margin:0;padding:0;list-style-type:none;transition:transform .3s,opacity .3s,visibility .3s;position:absolute;top:calc(100% + .625rem);left:0;transform:translateY(-.625rem)"
+    },
+    {
+      "source": "https://hexclad.com/",
+      "selector": ".mod_header_BIfLoG_Localization__button",
+      "declarations": "color:#fff;text-align:center;text-transform:uppercase;appearance:none;background:0 0;justify-content:center;align-items:center;width:100%;padding:.3125rem;font-size:.8125rem;font-weight:400;display:flex"
+    },
+    {
+      "source": "https://hexclad.com/",
+      "selector": ".mod_header_BIfLoG_Submenu",
+      "declarations": "background-color:#1b1a1a;border-bottom:1px solid #fff;max-height:calc(100vh - 8.75rem);display:flex;position:relative;overflow-y:auto"
+    },
+    {
+      "source": "https://hexclad.com/",
+      "selector": ".mod_header_BIfLoG_Submenu__nav a",
+      "declarations": "font-size:1.125rem;font-family:var(--mod_header_BIfLoG_system-font-stack);text-transform:uppercase;text-underline-offset:.3125rem;padding:.875rem 0;font-style:normal;font-weight:600;line-height:140%;display:block"
+    },
+    {
+      "source": "https://hexclad.com/",
+      "selector": ".mod_header_BIfLoG_Submenu__content",
+      "declarations": "background-color:#0a0a0a;align-items:center;width:100%;padding:4rem .625rem;display:flex"
+    },
+    {
+      "source": "https://hexclad.com/",
+      "selector": ".mod_header_BIfLoG_Card",
+      "declarations": "width:12.5rem;font-size:1rem;font-family:var(--mod_header_BIfLoG_system-font-stack);font-style:normal;font-weight:400;line-height:100%;text-decoration:none;display:none"
+    },
+    {
+      "source": "https://hexclad.com/",
+      "selector": ".mod_header_BIfLoG_Card__badge",
+      "declarations": "letter-spacing:-.01em;color:#fff;width:fit-content;height:auto;font-size:.75rem;font-weight:600;line-height:1;font-family:var(--mod_header_BIfLoG_system-font-stack);background-color:#11322c;justify-content:center;align-items:center;padding:.125rem .25rem;font-style:normal;font-weight:400;line-height:1.2;display:inline-flex"
+    },
+    {
+      "source": "https://hexclad.com/",
+      "selector": ".mod_header_BIfLoG_Card__button",
+      "declarations": "-webkit-backdrop-filter:blur(5px);backdrop-filter:blur(5px);color:#efefef;text-align:center;opacity:0;visibility:hidden;background-color:#0a0a0a80;border:1px solid #efefef;justify-content:center;align-items:center;gap:.5rem;width:100%;padding:.625rem 0;font-size:clamp(.75rem,.667546rem + .351803vw,1rem);font-weight:400;transition:transform .25s,opacity .25s;display:flex;position:absolute;bottom:0;left:0;transform:translateY(100%)"
+    },
+    {
+      "source": "https://hexclad.com/",
+      "selector": ".mod_header_BIfLoG_Card__button:before",
+      "declarations": "content:\"\";clip-path:polygon(0% 75%,50% 100%,100% 75%,100% 25%,50% 0%,0% 25%);background-color:#d73939;width:.9rem;height:1rem;display:block"
+    },
+    {
+      "source": "https://hexclad.com/",
+      "selector": ".mod_header_BIfLoG_Card__title",
+      "declarations": "font-size:1.5rem;font-family:var(--mod_header_BIfLoG_system-font-stack);font-style:normal;font-weight:300;line-height:100%"
+    },
+    {
+      "source": "https://hexclad.com/",
+      "selector": ".mod_header_BIfLoG_Card__name",
+      "declarations": "font-size:1rem;font-family:var(--mod_header_BIfLoG_system-font-stack);text-transform:uppercase;font-style:normal;font-weight:400;line-height:100%"
+    },
+    {
+      "source": "https://hexclad.com/",
+      "selector": ".mod_header_BIfLoG_Card__price-original",
+      "declarations": "color:gray;text-decoration:none"
+    },
+    {
+      "source": "https://hexclad.com/",
+      "selector": ".mod_header_BIfLoG_Card__reviews .junip-product-summary-review-count",
+      "declarations": "font-size:.875rem;font-family:var(--mod_header_BIfLoG_system-font-stack);font-style:normal;font-weight:300;line-height:1"
+    },
+    {
+      "source": "https://hexclad.com/",
+      "selector": ".mod_header_BIfLoG_Card__link",
+      "declarations": "font-size:.875rem;font-family:var(--mod_header_BIfLoG_system-font-stack);color:inherit;align-items:center;gap:.4375rem;font-style:normal;font-weight:400;line-height:100%;display:inline-flex"
+    },
+    {
+      "source": "https://hexclad.com/",
+      "selector": ".mod_header_BIfLoG_Search",
+      "declarations": "z-index:1;opacity:0;visibility:hidden;will-change:transform,opacity,visibility;background-color:#0a0a0a;border-bottom:1px solid #fff;justify-content:flex-end;width:100%;padding:2.5rem;transition:transform .3s,opacity .3s,visibility .3s;display:flex;position:absolute;top:calc(100% + 1px);left:0;transform:translateY(-.625rem);box-shadow:0 .5rem 1rem #0a0a0a4d"
+    }
+  ],
+  "confidence": "historical_partial_css_evidence",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "HexClad Cookware | The Hybrid Revolution",
+  "schema_version": 1,
+  "design_origin": "historical",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://hexclad.com/",
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "colors.primary-active": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://hexclad.com/",
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "colors.primary-disabled": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://hexclad.com/",
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://hexclad.com/",
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://hexclad.com/",
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "colors.muted-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160",
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "colors.hairline-soft": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://hexclad.com/",
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160",
+        "https://hexclad.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0cff8-2c69-745f-8772-fd89b29d2d4b/keepcart-2-253/assets/app.css",
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://hexclad.com/",
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://hexclad.com/",
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160",
+        "https://hexclad.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0cff8-2c69-745f-8772-fd89b29d2d4b/keepcart-2-253/assets/app.css",
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "colors.surface-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://hexclad.com/",
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "colors.surface-mid": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://hexclad.com/",
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160",
+        "https://hexclad.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0cff8-2c69-745f-8772-fd89b29d2d4b/keepcart-2-253/assets/app.css",
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "colors.on-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://hexclad.com/",
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160",
+        "https://hexclad.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0cff8-2c69-745f-8772-fd89b29d2d4b/keepcart-2-253/assets/app.css",
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "colors.accent-warm": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "colors.accent-warm-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://hexclad.com/",
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "colors.badge-sale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://hexclad.com/",
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "colors.badge-new": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.badge-new-bg": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.star-rating": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.hex-pattern": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://hexclad.com/",
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "colors.scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://hexclad.com/",
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "colors.error": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/s/files/1/0194/1736/6592/t/1/assets/ba_rivo_profile.css?v=1786981399"
+      ]
+    },
+    "colors.success-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://hexclad.com/",
+        "https://hexclad.com/cdn/shop/t/1453/assets/theme.css?v=182857610237574663051789660160"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-lg": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.title-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.title-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.body-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.body-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.caption": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.caption-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.badge": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.micro-label": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.button-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.button-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.link": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.nav-link": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "rounded.none": {
+      "status": "unverified"
+    },
+    "rounded.xs": {
+      "status": "unverified"
+    },
+    "rounded.sm": {
+      "status": "unverified"
+    },
+    "rounded.md": {
+      "status": "unverified"
+    },
+    "rounded.lg": {
+      "status": "unverified"
+    },
+    "rounded.xl": {
+      "status": "unverified"
+    },
+    "rounded.full": {
+      "status": "unverified"
+    },
+    "spacing.xxs": {
+      "status": "unverified"
+    },
+    "spacing.xs": {
+      "status": "unverified"
+    },
+    "spacing.sm": {
+      "status": "unverified"
+    },
+    "spacing.md": {
+      "status": "unverified"
+    },
+    "spacing.base": {
+      "status": "unverified"
+    },
+    "spacing.lg": {
+      "status": "unverified"
+    },
+    "spacing.xl": {
+      "status": "unverified"
+    },
+    "spacing.xxl": {
+      "status": "unverified"
+    },
+    "spacing.section": {
+      "status": "unverified"
+    },
+    "components.button-primary": {
+      "status": "unverified"
+    },
+    "components.button-primary-hover": {
+      "status": "unverified"
+    },
+    "components.button-primary-active": {
+      "status": "unverified"
+    },
+    "components.button-primary-disabled": {
+      "status": "unverified"
+    },
+    "components.button-secondary": {
+      "status": "unverified"
+    },
+    "components.button-secondary-hover": {
+      "status": "unverified"
+    },
+    "components.button-outline-light": {
+      "status": "unverified"
+    },
+    "components.button-pill-dark": {
+      "status": "unverified"
+    },
+    "components.button-pill-sale": {
+      "status": "unverified"
+    },
+    "components.icon-button-circle": {
+      "status": "unverified"
+    },
+    "components.text-input": {
+      "status": "unverified"
+    },
+    "components.text-input-focus": {
+      "status": "unverified"
+    },
+    "components.text-input-error": {
+      "status": "unverified"
+    },
+    "components.select-input": {
+      "status": "unverified"
+    },
+    "components.nav-bar": {
+      "status": "unverified"
+    },
+    "components.nav-bar-sticky": {
+      "status": "unverified"
+    },
+    "components.nav-link-active": {
+      "status": "unverified"
+    },
+    "components.nav-link-inactive": {
+      "status": "unverified"
+    },
+    "components.search-bar-pill": {
+      "status": "unverified"
+    },
+    "components.search-bar-pill-focus": {
+      "status": "unverified"
+    },
+    "components.product-card": {
+      "status": "unverified"
+    },
+    "components.product-card-hover": {
+      "status": "unverified"
+    },
+    "components.product-card-image": {
+      "status": "unverified"
+    },
+    "components.product-card-badge": {
+      "status": "unverified"
+    },
+    "components.product-card-badge-new": {
+      "status": "unverified"
+    },
+    "components.product-card-price": {
+      "status": "unverified"
+    },
+    "components.product-card-price-sale": {
+      "status": "unverified"
+    },
+    "components.product-card-rating": {
+      "status": "unverified"
+    },
+    "components.hero-section": {
+      "status": "unverified"
+    },
+    "components.hero-cta": {
+      "status": "unverified"
+    },
+    "components.hero-cta-secondary": {
+      "status": "unverified"
+    },
+    "components.section-header": {
+      "status": "unverified"
+    },
+    "components.feature-grid-item": {
+      "status": "unverified"
+    },
+    "components.feature-grid-item-icon": {
+      "status": "unverified"
+    },
+    "components.testimonial-card": {
+      "status": "unverified"
+    },
+    "components.footer": {
+      "status": "unverified"
+    },
+    "components.footer-link": {
+      "status": "unverified"
+    },
+    "components.footer-link-hover": {
+      "status": "unverified"
+    },
+    "components.footer-heading": {
+      "status": "unverified"
+    },
+    "components.newsletter-input": {
+      "status": "unverified"
+    },
+    "components.newsletter-input-focus": {
+      "status": "unverified"
+    },
+    "components.newsletter-submit": {
+      "status": "unverified"
+    },
+    "components.accordion-header": {
+      "status": "unverified"
+    },
+    "components.accordion-content": {
+      "status": "unverified"
+    },
+    "components.tab-active": {
+      "status": "unverified"
+    },
+    "components.tab-inactive": {
+      "status": "unverified"
+    },
+    "components.quantity-selector": {
+      "status": "unverified"
+    },
+    "components.quantity-selector-button": {
+      "status": "unverified"
+    },
+    "components.cart-item": {
+      "status": "unverified"
+    },
+    "components.cart-total": {
+      "status": "unverified"
+    },
+    "components.badge-sale": {
+      "status": "unverified"
+    },
+    "components.badge-new": {
+      "status": "unverified"
+    },
+    "components.badge-best-seller": {
+      "status": "unverified"
+    },
+    "components.hex-pattern-overlay": {
+      "status": "unverified"
+    },
+    "components.divider": {
+      "status": "unverified"
+    },
+    "components.divider-dark": {
+      "status": "unverified"
+    },
+    "components.tooltip": {
+      "status": "unverified"
+    }
+  },
+  "observed_color_tokens": 22,
+  "total_color_tokens": 28
+}

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Lumi
-description: Every CTA on Lumi burns the same warm amber-orange (#ff5c28) against a near-black marketing canvas (#0d0d0d) — a single voltage that distinguishes this brand from the white-field-plus-generic-blue register of most B2B SaaS. The choice is intentional: Lumi sells packaging as infrastructure to founders and ops leads, and the dark-field-orange-signal pairing reads more like a logistics control room than a checkout page. Type is geometric sans-serif, most likely Inter or a close sibling, at compressed weights and tight negative tracking; headlines arrive at 52px, weight 700, with -1.5px letter-spacing — a specification-board density that signals a tool for operations professionals, not a lifestyle storefront. Corner radii stay spare: `{rounded.sm}` (4px) on buttons and inputs, `{rounded.md}` (8px) on cards, and fully square `{rounded.none}` on data-table rows. There is no pill button anywhere in the primary transactional flow.
+name: "Lumi"
+source_url: "https://www.lumi.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Every CTA on Lumi burns the same warm amber-orange (#ff5c28) against a near-black marketing canvas (#0d0d0d) — a single voltage that distinguishes this brand from the white-field-plus-generic-blue register of most B2B SaaS. The choice is intentional: Lumi sells packaging as infrastructure to founders and ops leads, and the dark-field-orange-signal pairing reads more like a logistics control room than a checkout page. Type is geometric sans-serif, most likely Inter or a close sibling, at compressed weights and tight negative tracking; headlines arrive at 52px, weight 700, with -1.5px letter-spacing — a specification-board density that signals a tool for operations professionals, not a lifestyle storefront. Corner radii stay spare: `{rounded.sm}` (4px) on buttons and inputs, `{rounded.md}` (8px) on cards, and fully square `{rounded.none}` on data-table rows. There is no pill button anywhere in the primary transactional flow.
 
   The platform runs three distinct surface registers: a marketing tier (dark canvas, large display type, orange CTAs, generous section spacing), a dashboard/account tier (light canvas, tight 8px grids, small body type, hairline separators), and a quoting/ordering tier (tabular data, monospace spec labels, a live pricing calculator that highlights active inputs with `{colors.primary}`). This stacking is unusual — most consumer-facing companies flatten everything into a single visual register — and it reflects Lumi's position as packaging infrastructure for other brands rather than a product sold directly to consumers. Brand-signature moments concentrate in that pricing calculator where `{colors.primary}` glows on focus, a browser-rendered packaging visualizer on a `{colors.mono-100}` field, and an order-status tracker styled as a logistics manifest with `{typography.caption}` overline labels and `{colors.primary}` active dots. Imagery is almost entirely product photography — die-cut packaging forms on white or near-black backgrounds — with no aspirational lifestyle photography in the primary marketing position. The footer collapses to `{colors.ink}` black with muted navigation links, closing the frame in the same dark register that opens the homepage. The net effect reads like a platform built by engineers who care about brand: structured, orange-lit, precise without being cold.
 
@@ -381,6 +385,8 @@ components:
 - Footer switches from four-column to accordion-collapsed sections on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No hex colors were extracted from the live site — the site likely loads design tokens via JavaScript or is behind anti-bot protection. All color values in this file are approximated from visual brand observation and should be verified against the live site or Lumi's internal design system before production use.
 - No font-family stacks were extracted. Inter is inferred from the geometric sans-serif appearance; the actual typeface (and whether a custom variable font is used) must be confirmed.

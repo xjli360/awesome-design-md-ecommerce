@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Omnicharge
-description: |
+name: "Omnicharge"
+source_url: "https://www.omnicharge.co"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Red voltage arcs across a near-black field — that single #ec0101 punch is the visual shorthand Omnicharge uses to signal raw wattage in a market drowning in matte-white pebble chargers. The site opens on a deep #121212 canvas with product photography lit like studio stills: power stations float against darkness, their LED indicators glowing in brand-red and status-green (#428445), letting the hardware do the talking rather than lifestyle imagery. Typography is pure Roboto at disciplined weights — headlines land at 600/700 in the 32–48px range, body copy at 400/16px — no custom face, no decorative serif, just the mechanical neutrality of a spec sheet that happens to be beautiful. Navigation sits in a slim white bar with dark ink text, creating a stark frame-shift from the immersive hero below. Product cards use `{rounded.sm}` corners on `{colors.surface-card}` backgrounds with generous `{spacing.lg}` internal padding, each card anchored by a single product silhouette and a bold price in `{typography.title-md}`. CTAs are solid red rectangles (`{rounded.xs}`) — deliberately squared-off to echo the angular aluminum chassis of the power stations themselves. A secondary gold tone (#e0b252) surfaces for premium-tier badges and limited-edition callouts, while an orange (#ff4e00) fires on urgency states like low-stock alerts. The spacing system breathes at `{spacing.section}` (64px) between major blocks, compressing to `{spacing.base}` (16px) inside dense spec-comparison grids that are central to the purchase decision. Overall the system reads as an industrial catalog with consumer polish — dark, confident, and information-dense without clutter.
 
 colors:
@@ -403,6 +406,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one font family (Roboto) detected; the brand may load additional display weights or a secondary face via JavaScript or Shopify's font loader that wasn't captured in static extraction
 - No custom icon set or SVG sprite information could be extracted — the brand likely uses inline SVGs or an icon font loaded asynchronously

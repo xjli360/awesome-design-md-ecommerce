@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Balolo
-description: A deep teal #108474 anchors every primary action across Balolo's wood-and-workspace ecosystem — a color pulled from the heart of a forest rather than a tech dashboard, appearing on add-to-cart buttons, navigation highlights, and the brand's signature monitor-stand risers. The palette runs through a meticulous grayscale gradient (#1a1a1a for ink, #7b7b7b for body text, #b1b1b1 for muted, #dedede for hairline, #f9fafb for canvas) with a warm undertow in #f5f2ee and #cbc0ac that echoes natural wood tones without being literal. Plus Jakarta Sans carries the typography at moderate weights — display headlines sit at 500–600 rather than aggressive 700s, letting the product photography of walnut and oak grain do the heavy lifting. Cards use {rounded.sm} corners, buttons use {rounded.sm}, and the search bar uses {rounded.full}, creating a system that feels precise and workshop-crafted rather than playful. The brand's trust signal — a 4.8-star Judge.me badge — appears in {rounded.xs} pills with the extracted #108474 as its accent, and every product card floats on {surface-card} white with a {hairline} border that reads like a blueprint edge. This is a system built for clarity: the teal is the only color that ever feels like a decision, and everything else steps back to let the wood grain and the workspace function lead.
+name: "Balolo"
+source_url: "https://www.balolo.de"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep teal #108474 anchors every primary action across Balolo's wood-and-workspace ecosystem — a color pulled from the heart of a forest rather than a tech dashboard, appearing on add-to-cart buttons, navigation highlights, and the brand's signature monitor-stand risers. The palette runs through a meticulous grayscale gradient (#1a1a1a for ink, #7b7b7b for body text, #b1b1b1 for muted, #dedede for hairline, #f9fafb for canvas) with a warm undertow in #f5f2ee and #cbc0ac that echoes natural wood tones without being literal. Plus Jakarta Sans carries the typography at moderate weights — display headlines sit at 500–600 rather than aggressive 700s, letting the product photography of walnut and oak grain do the heavy lifting. Cards use {rounded.sm} corners, buttons use {rounded.sm}, and the search bar uses {rounded.full}, creating a system that feels precise and workshop-crafted rather than playful. The brand's trust signal — a 4.8-star Judge.me badge — appears in {rounded.xs} pills with the extracted #108474 as its accent, and every product card floats on {surface-card} white with a {hairline} border that reads like a blueprint edge. This is a system built for clarity: the teal is the only color that ever feels like a decision, and everything else steps back to let the wood grain and the workspace function lead.
 
 colors:
   primary: "#108474"
@@ -274,6 +278,8 @@ components:
 - Hero section reduces padding from 64px to 32px at mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Extracted colors are heavily weighted toward grayscale tones — the brand's true primary #108474 appears only once in the extracted list, suggesting it may be used sparingly or the extraction missed some pages. The remaining colors (#eeeeee, #f9fafb, #7b7b7b, etc.) form a clean grayscale system but lack the distinctive teal presence one would expect from a brand using it as primary.
 - Font-family extraction returned "JudgemeStar" (a review-widget font) and "Plus Jakarta Sans" with some duplication. The actual brand font may include additional weights (e.g., 700 for display) not captured.

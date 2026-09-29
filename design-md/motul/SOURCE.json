@@ -1,0 +1,749 @@
+{
+  "source_url": "https://motul.com",
+  "final_url": "https://www.motul.com/en-US",
+  "captured_at": "2026-09-28T04:29:30.813344+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://motul.com",
+      "final_url": "https://www.motul.com/en-US",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "b2d98ac4b49c36baa7a0195cde21a7fcc9a48bf7b92aeaceb87a1e3946bc2d38",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+      "final_url": "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "7cd5368b617567d5e7024e80866da16ab0ea3d7e220bd1b091236e0ca54d5e83",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.motul.com/_next/static/css/5a119dc666c0cae3.css",
+      "final_url": "https://www.motul.com/_next/static/css/5a119dc666c0cae3.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "6bc8212eee4af530124f25dbbf05248202063d71cc143f684ff6d2817b427d16",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 71,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+        "https://www.motul.com/_next/static/css/5a119dc666c0cae3.css"
+      ]
+    },
+    "#202020": {
+      "count": 30,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#ed1c24": {
+      "count": 30,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#e7e7e7": {
+      "count": 24,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#3b3e3f": {
+      "count": 21,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+        "https://www.motul.com/_next/static/css/5a119dc666c0cae3.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 8,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#727272": {
+      "count": 8,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#db3832": {
+      "count": 8,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#ed252f": {
+      "count": 8,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+        "https://www.motul.com/_next/static/css/5a119dc666c0cae3.css"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 7,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+        "https://www.motul.com/_next/static/css/5a119dc666c0cae3.css"
+      ]
+    },
+    "#25282a": {
+      "count": 7,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#929394": {
+      "count": 6,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+        "https://www.motul.com/_next/static/css/5a119dc666c0cae3.css"
+      ]
+    },
+    "#000000": {
+      "count": 5,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+        "https://www.motul.com/_next/static/css/5a119dc666c0cae3.css"
+      ]
+    },
+    "#434343": {
+      "count": 5,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#515355": {
+      "count": 5,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#333333": {
+      "count": 4,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 4,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#d62638": {
+      "count": 4,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#1e1e27": {
+      "count": 4,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+        "https://www.motul.com/_next/static/css/5a119dc666c0cae3.css"
+      ]
+    },
+    "#c4c4c4": {
+      "count": 3,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#141414": {
+      "count": 3,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#dadada": {
+      "count": 3,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#e8121c": {
+      "count": 3,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+        "https://www.motul.com/_next/static/css/5a119dc666c0cae3.css"
+      ]
+    },
+    "#bf2923": {
+      "count": 3,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+        "https://www.motul.com/_next/static/css/5a119dc666c0cae3.css"
+      ]
+    },
+    "#edf1f7": {
+      "count": 3,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 2,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#26ab33": {
+      "count": 2,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 2,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#e52713": {
+      "count": 2,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#990030": {
+      "count": 1,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#72ccfd": {
+      "count": 1,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#62f962": {
+      "count": 1,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#fc7899": {
+      "count": 1,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#fdfd77": {
+      "count": 1,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#128a00": {
+      "count": 1,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#e71313": {
+      "count": 1,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 1,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#bfbfbf": {
+      "count": 1,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#353535": {
+      "count": 1,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#dedede": {
+      "count": 1,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#a9a9a9": {
+      "count": 1,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#df0329": {
+      "count": 1,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#737373": {
+      "count": 1,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#a2acab": {
+      "count": 1,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 1,
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "#007aff": {
+      "count": 1,
+      "sources": [
+        "https://www.motul.com/_next/static/css/5a119dc666c0cae3.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 1,
+      "sources": [
+        "https://www.motul.com/_next/static/css/5a119dc666c0cae3.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+      "https://www.motul.com/_next/static/css/5a119dc666c0cae3.css"
+    ],
+    "Be Vietnam Pro": [
+      "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+    ],
+    "GE SS Two": [
+      "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+    ],
+    "Graphik": [
+      "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+    ],
+    "Graphik LCG": [
+      "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+    ],
+    "Helvetica": [
+      "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+      "https://www.motul.com/_next/static/css/5a119dc666c0cae3.css"
+    ],
+    "Roboto": [
+      "https://www.motul.com/_next/static/css/5a119dc666c0cae3.css"
+    ],
+    "Sans-Serif": [
+      "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+    ],
+    "Tahoma": [
+      "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+    ],
+    "Verdana": [
+      "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+    ],
+    "YouTube Noto": [
+      "https://www.motul.com/_next/static/css/5a119dc666c0cae3.css"
+    ],
+    "sans-serif": [
+      "https://www.motul.com/_next/static/css/5a119dc666c0cae3.css"
+    ],
+    "swiper-icons": [
+      "https://www.motul.com/_next/static/css/5a119dc666c0cae3.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+      "selector": "body",
+      "declarations": "line-height:1.5;-webkit-font-smoothing:antialiased;background-color:#f8f8f8;font-family:var(--font-family-body,helvetica,arial,roboto,sans-serif);scroll-behavior:smooth"
+    },
+    {
+      "source": "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "font-family:var(--font-family-body,helvetica,arial,roboto,sans-serif)"
+    },
+    {
+      "source": "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+      "selector": "a,button",
+      "declarations": "border:unset;color:inherit;text-transform:none;text-decoration:none;background-color:unset;cursor:pointer;padding:unset"
+    },
+    {
+      "source": "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+      "selector": ":root",
+      "declarations": "--font-family-title:graphik,\"Helvetica Neue\",helvetica,roboto,arial,sans-serif;--font-family-body:helvetica,arial,roboto,sans-serif"
+    },
+    {
+      "source": "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+      "selector": ":root:lang(vi-VN)",
+      "declarations": "--font-family-title:\"Be Vietnam Pro\",\"Helvetica Neue\",helvetica,roboto,arial,sans-serif;--font-family-body:\"Be Vietnam Pro\",\"Helvetica Neue\",helvetica,roboto,arial,sans-serif"
+    },
+    {
+      "source": "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+      "selector": ":root:lang(uk-UA)",
+      "declarations": "--font-family-title:\"Graphik LCG\",\"Helvetica Neue\",helvetica,roboto,arial,sans-serif;--font-family-body:\"Graphik LCG\",\"Helvetica Neue\",helvetica,roboto,arial,sans-serif"
+    },
+    {
+      "source": "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+      "selector": ":root:lang(ar)",
+      "declarations": "--font-family-title:\"GE SS Two\",\"Helvetica Neue\",helvetica,roboto,arial,sans-serif;--font-family-body:\"GE SS Two\",\"Helvetica Neue\",helvetica,roboto,arial,sans-serif"
+    },
+    {
+      "source": "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+      "selector": ":root",
+      "declarations": "--ck-color-image-caption-background:#f7f7f7;--ck-color-image-caption-text:#333;--ck-color-mention-background:rgba(153,0,48,.1);--ck-color-mention-text:#990030;--ck-color-table-caption-background:#f7f7f7;--ck-color-table-caption-text:#333;--ck-highlight-marker-blue:#72ccfd;--ck-highlight-marker-green:#62f962;--ck-highlight-marker-pink:#fc7899;--ck-highlight-marker-yellow:#fdfd77;--ck-highlight-pen-green:#128a00;--ck-highlight-pen-red:#e71313;--ck-image-style-spacing:1.5em;--ck-inline-image-style-spacing:calc(var(--ck-image-style-spacing) / 2);--ck-todo-list-checkmark-size:16px"
+    },
+    {
+      "source": "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+      "selector": ".Header_header__eKy3I",
+      "declarations": "position:-webkit-sticky;position:sticky;inset-block-start:0;z-index:200;width:100%;background:#fff;-webkit-border-after:1px solid #e7e7e7;border-block-end:1px solid #e7e7e7;color:#202020;fill:#202020"
+    },
+    {
+      "source": "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+      "selector": ".MobileMenuSubDialog_blackButton__WyoMa",
+      "declarations": "font-size:1rem;font-weight:500;line-height:1.4;font-family:var(--font-family-body,graphik,\"Helvetica Neue\",helvetica,roboto,arial,sans-serif);background-color:#202020;color:#fff;padding-block:1rem;padding-inline:2rem;text-transform:uppercase"
+    },
+    {
+      "source": "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+      "selector": ".DesktopHeader_separator__5Wfn6",
+      "declarations": "height:1.5rem;width:.0625rem;flex-shrink:0;background-color:#dadada"
+    },
+    {
+      "source": "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+      "selector": ".ProductsMenuContent_contentWrapper__tVXng",
+      "declarations": "inset-block-start:calc((3.5rem + 100%)/2 + 1rem);background-color:#fff;border-radius:.25rem;position:absolute;inset-inline-start:calc(-1*1.5rem);z-index:200;padding:1.5rem;max-width:90vw"
+    },
+    {
+      "source": "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+      "selector": ".ProductCategoryRail_railItem__WTWgx",
+      "declarations": "display:flex;flex-flow:row nowrap;justify-content:flex-start;align-items:center;font-size:1rem;font-weight:500;line-height:1.4;font-family:var(--font-family-body,graphik,\"Helvetica Neue\",helvetica,roboto,arial,sans-serif);gap:1rem;padding-block:1rem;padding-inline:1.25rem;border-radius:.125rem;color:#202020;text-decoration:none;transition:background-color .2s ease-out"
+    },
+    {
+      "source": "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+      "selector": ".ProductCategoryRail_railItem__WTWgx:hover",
+      "declarations": "background-color:#f3f3f3"
+    },
+    {
+      "source": "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+      "selector": ".ProductCategoryRail_railItemActive__pxez_",
+      "declarations": "background-color:#ed1c24;color:#fff"
+    },
+    {
+      "source": "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+      "selector": ".ProductCategoryRail_railItemActive__pxez_:hover",
+      "declarations": "background-color:#ed1c24"
+    },
+    {
+      "source": "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+      "selector": ".ProductCategoryPanel_heading__X_tKG",
+      "declarations": "font-size:1rem;font-weight:500;line-height:1.4;align-self:center;color:#202020;font-weight:600"
+    },
+    {
+      "source": "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+      "selector": ".ProductCategoryPanel_heading__X_tKG,.ProductCategoryPanel_subCategoryName__yNLcg",
+      "declarations": "font-family:var(--font-family-body,graphik,\"Helvetica Neue\",helvetica,roboto,arial,sans-serif)"
+    },
+    {
+      "source": "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+      "selector": ".ProductCategoryPanel_subCategoryName__yNLcg",
+      "declarations": "display:flex;flex-flow:row nowrap;justify-content:flex-start;align-items:center;font-size:.875rem;font-weight:400;line-height:1.5;gap:1rem;color:#434343;text-decoration:none;white-space:nowrap;transition:color .2s ease-out"
+    },
+    {
+      "source": "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+      "selector": ".ProductCategoryPanel_subCategoryName__yNLcg:before",
+      "declarations": "content:\"\";width:.0625rem;height:1.5rem;flex-shrink:0;background-color:#e7e7e7;transition:width .2s ease-out,background-color .2s ease-out"
+    },
+    {
+      "source": "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+      "selector": ".ProductCategoryPanel_subCategoryName__yNLcg:focus-visible,.ProductCategoryPanel_subCategoryName__yNLcg:hover",
+      "declarations": "color:#ed1c24"
+    },
+    {
+      "source": "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+      "selector": ".ProductCategoryPanel_subCategoryName__yNLcg:focus-visible:before,.ProductCategoryPanel_subCategoryName__yNLcg:hover:before",
+      "declarations": "width:1.5rem;background-color:#ed1c24"
+    },
+    {
+      "source": "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+      "selector": ".HeaderSearch_overlay__YxDOU",
+      "declarations": "position:fixed;inset:0;z-index:300;background-color:rgba(0,0,0,.25)"
+    },
+    {
+      "source": "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+      "selector": ".HeaderSearchForm_input__EbRHq",
+      "declarations": "font-size:.875rem;font-weight:400;line-height:1.5;font-family:var(--font-family-body,graphik,\"Helvetica Neue\",helvetica,roboto,arial,sans-serif);width:100%;border:unset;outline:none;background:#fff"
+    },
+    {
+      "source": "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+      "selector": ".HeaderSearchForm_button__hBU28",
+      "declarations": "font-size:.875rem;font-weight:500;line-height:1.4;font-family:var(--font-family-body,graphik,\"Helvetica Neue\",helvetica,roboto,arial,sans-serif);background:#ed1c24;color:#fff;border:unset;border-radius:.25rem;padding:.75rem 1.5rem;cursor:pointer"
+    },
+    {
+      "source": "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+      "selector": ".PortalButton_portalBox__pMjHB:hover",
+      "declarations": "background-color:#202020;border-color:#202020"
+    },
+    {
+      "source": "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+      "selector": ".PortalButton_portalLink__NR0BE",
+      "declarations": "display:flex;flex-flow:column nowrap;justify-content:center;align-items:center;font-size:.875rem;font-weight:500;line-height:1.4;font-family:var(--font-family-body,graphik,\"Helvetica Neue\",helvetica,roboto,arial,sans-serif);color:#202020;padding-block:.5rem;padding-inline:1rem;width:max-content;text-align:center;text-transform:uppercase;transition:color .2s ease-in-out"
+    },
+    {
+      "source": "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+      "selector": ".PortalButton_portalBox__pMjHB:hover .PortalButton_portalLink__NR0BE",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+      "selector": ".PortalButton_motulTechBox__34zVR:hover",
+      "declarations": "background-color:transparent;border-color:transparent"
+    },
+    {
+      "source": "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+      "selector": ".PortalButton_motulTechLink__JDqGy",
+      "declarations": "color:#202020"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Motul: Motor Oils & Lubricants for Car, Moto, Truck",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "colors.primary-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+        "https://www.motul.com/_next/static/css/5a119dc666c0cae3.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+        "https://www.motul.com/_next/static/css/5a119dc666c0cae3.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "colors.hairline-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+        "https://www.motul.com/_next/static/css/5a119dc666c0cae3.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "colors.surface-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+        "https://www.motul.com/_next/static/css/5a119dc666c0cae3.css"
+      ]
+    },
+    "colors.on-ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css",
+        "https://www.motul.com/_next/static/css/5a119dc666c0cae3.css"
+      ]
+    },
+    "colors.border-mid": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "colors.border-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.motul.com/_next/static/css/6c5ca60638620049.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.button-outline": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.category-rail-item": {
+      "status": "inferred"
+    }
+  }
+}

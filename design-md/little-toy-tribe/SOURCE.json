@@ -1,0 +1,811 @@
+{
+  "source_url": "https://littletoytribe.com.au",
+  "final_url": "https://littletoytribe.com.au/",
+  "captured_at": "2026-09-28T09:21:11.422225+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://littletoytribe.com.au",
+      "final_url": "https://littletoytribe.com.au/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "8166098fbe5e2338451fda912369e184215434886cb9119a7aaf24a92acfa761",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://littletoytribe.com.au/cdn/shop/t/42/assets/swiper-bundle.min.css?v=127370101718424465871738231633",
+      "final_url": "https://littletoytribe.com.au/cdn/shop/t/42/assets/swiper-bundle.min.css?v=127370101718424465871738231633",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a283a43e2ac897a9d4f4437afa0ee2f13bd9941612142e4696f623092e44f170",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://littletoytribe.com.au/cdn/shop/t/42/assets/photoswipe.min.css?v=165459975419098386681738231635",
+      "final_url": "https://littletoytribe.com.au/cdn/shop/t/42/assets/photoswipe.min.css?v=165459975419098386681738231635",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6d8e96a1ee8566ae849e74d55df99ae9ef1915d2931e03f6a1ecf20296753a0f",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634",
+      "final_url": "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "948201afab19c0f5bc1280d20943a8e40e882a4b1eb012fda534bcf85b2a6626",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://littletoytribe.com.au/cdn/shop/t/42/assets/custom.css?v=102493421877365237651738231633",
+      "final_url": "https://littletoytribe.com.au/cdn/shop/t/42/assets/custom.css?v=102493421877365237651738231633",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "51507b68be668e24ba0b62b2d8e942e0becea336fd21bf82a1e308fe86934baa",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://littletoytribe.com.au/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://littletoytribe.com.au/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 56,
+      "sources": [
+        "https://littletoytribe.com.au/",
+        "https://littletoytribe.com.au/cdn/shop/t/42/assets/swiper-bundle.min.css?v=127370101718424465871738231633",
+        "https://littletoytribe.com.au/cdn/shop/t/42/assets/photoswipe.min.css?v=165459975419098386681738231635",
+        "https://littletoytribe.com.au/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#757575": {
+      "count": 13,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#242424": {
+      "count": 12,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#000000": {
+      "count": 11,
+      "sources": [
+        "https://littletoytribe.com.au/",
+        "https://littletoytribe.com.au/cdn/shop/t/42/assets/swiper-bundle.min.css?v=127370101718424465871738231633",
+        "https://littletoytribe.com.au/cdn/shop/t/42/assets/photoswipe.min.css?v=165459975419098386681738231635",
+        "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634"
+      ]
+    },
+    "#f6bdbe": {
+      "count": 9,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#d02e2e": {
+      "count": 6,
+      "sources": [
+        "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634"
+      ]
+    },
+    "#efefef": {
+      "count": 5,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 3,
+      "sources": [
+        "https://littletoytribe.com.au/",
+        "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634"
+      ]
+    },
+    "#eeeeee": {
+      "count": 3,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#292929": {
+      "count": 3,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#3d7f4e": {
+      "count": 3,
+      "sources": [
+        "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634"
+      ]
+    },
+    "#9ccfc9": {
+      "count": 2,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#494949": {
+      "count": 2,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#6b6b6b": {
+      "count": 2,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#4f4f4f": {
+      "count": 2,
+      "sources": [
+        "https://littletoytribe.com.au/cdn/shop/t/42/assets/photoswipe.min.css?v=165459975419098386681738231635"
+      ]
+    },
+    "#969696": {
+      "count": 2,
+      "sources": [
+        "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634"
+      ]
+    },
+    "#fff6f6": {
+      "count": 2,
+      "sources": [
+        "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://littletoytribe.com.au/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://littletoytribe.com.au/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#ababab": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#828282": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#f26c4f": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#5c5c5c": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#f3a7a8": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#fefefe": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#add7d2": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#4d4d4d": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#8f8f8f": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#28a745": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#dc3545": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#eb9247": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#7b7b7b": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#ebebeb": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#383d41": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#d6d8db": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "#007aff": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/cdn/shop/t/42/assets/swiper-bundle.min.css?v=127370101718424465871738231633"
+      ]
+    },
+    "#222222": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/cdn/shop/t/42/assets/photoswipe.min.css?v=165459975419098386681738231635"
+      ]
+    },
+    "#5d5d5d": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634"
+      ]
+    },
+    "#858585": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634"
+      ]
+    },
+    "#b6b6b6": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634"
+      ]
+    },
+    "#ecfef0": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634"
+      ]
+    },
+    "#faf7f5": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634"
+      ]
+    },
+    "#51ab62": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://littletoytribe.com.au/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Consolas": [
+      "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634"
+    ],
+    "JudgemeStar": [
+      "https://littletoytribe.com.au/"
+    ],
+    "Montserrat": [
+      "https://littletoytribe.com.au/"
+    ],
+    "monospace": [
+      "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634"
+    ],
+    "object-fit: contain": [
+      "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634"
+    ],
+    "swiper-icons": [
+      "https://littletoytribe.com.au/cdn/shop/t/42/assets/swiper-bundle.min.css?v=127370101718424465871738231633"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://littletoytribe.com.au/",
+      "selector": "body",
+      "declarations": "background-color: var(--body-color);\n      min-height: 100%;\n      margin: 0;\n      display: grid;\n      grid-template-rows: auto auto 1fr auto;\n      grid-template-columns: 100%;\n      overflow-x: hidden;"
+    },
+    {
+      "source": "https://littletoytribe.com.au/",
+      "selector": ":root",
+      "declarations": "--shopify-chat-bg-color: #FFFFFF;\n    --shopify-chat-text-color: #000000;\n    --shopify-chat-accent-bg-color: #000000;\n    --shopify-chat-accent-text-color: #FFFFFF;\n    --shopify-chat-activator-offset: 20px;\n\n    \n\n    --shopify-chat-activator-font-size: 16px;\n    --shopify-chat-border-radius: 16px;"
+    },
+    {
+      "source": "https://littletoytribe.com.au/",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #757575;--jdgm-secondary-color: #EFEFEF;--jdgm-star-color: #F6BDBE;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #757575;--jdgm-paginate-color: #757575;--jdgm-border-radius: 10;--jdgm-reviewer-name-color: #757575"
+    },
+    {
+      "source": "https://littletoytribe.com.au/",
+      "selector": "object-fit:cover;object-position:50.0% 50.0%!important;\n object-fit:cover;object-position:50.0% 50.0%!important;\n\n\n  :root",
+      "declarations": "--logo-max-width: 190px;\n    --header-overlay-background-color: #f6bdbe;"
+    },
+    {
+      "source": "https://littletoytribe.com.au/",
+      "selector": ".header-section:not(.sticky-header) .overlay-header,\n  .contact-page .header-section.sticky-header:not(.sticked) .overlay-header,\n  .contact-page .header-sectio",
+      "declarations": "background-color: rgba(246, 189, 190, 0.88);"
+    },
+    {
+      "source": "https://littletoytribe.com.au/",
+      "selector": ".template-index .overlay-header.force-hover,\n  \n  .template-list-collections .overlay-header.force-hover\n  .contact-page .overlay-header.force-hover",
+      "declarations": "background-color: #f6bdbe;"
+    },
+    {
+      "source": "https://littletoytribe.com.au/",
+      "selector": ".back-to-top-button",
+      "declarations": "border: none;\n    background-color: transparent;"
+    },
+    {
+      "source": "https://littletoytribe.com.au/",
+      "selector": "pup-parent div.swym-collections-variant-popup-header h1.swym-collections-variant-popup-header-title,\n.swym-collections-variant-popup-content .swym-collection-ti",
+      "declarations": "color: #333333;"
+    },
+    {
+      "source": "https://littletoytribe.com.au/",
+      "selector": "-collections-variant-popup-content .swym-add-to-wishlist-1, \ndiv.swym-variant-selector-lists-btn-container button:nth-child(2),\n#swym-create-list-button-wrapper",
+      "declarations": "background: #292929;\n  color: #ffffff;"
+    },
+    {
+      "source": "https://littletoytribe.com.au/cdn/shop/t/42/assets/swiper-bundle.min.css?v=127370101718424465871738231633",
+      "selector": ":root",
+      "declarations": "--swiper-theme-color:#007aff"
+    },
+    {
+      "source": "https://littletoytribe.com.au/cdn/shop/t/42/assets/swiper-bundle.min.css?v=127370101718424465871738231633",
+      "selector": ":root",
+      "declarations": "--swiper-navigation-size:44px"
+    },
+    {
+      "source": "https://littletoytribe.com.au/cdn/shop/t/42/assets/swiper-bundle.min.css?v=127370101718424465871738231633",
+      "selector": ".swiper-button-next,.swiper-button-prev",
+      "declarations": "position:absolute;top:var(--swiper-navigation-top-offset,50%);width:calc(var(--swiper-navigation-size)/ 44 * 27);height:var(--swiper-navigation-size);margin-top:calc(0px - (var(--swiper-navigation-size)/ 2));z-index:10;cursor:pointer;display:flex;align-items:center;justify-content:center;color:var(--swiper-navigation-color,var(--swiper-theme-color))"
+    },
+    {
+      "source": "https://littletoytribe.com.au/cdn/shop/t/42/assets/swiper-bundle.min.css?v=127370101718424465871738231633",
+      "selector": ".swiper-button-next:after,.swiper-button-prev:after",
+      "declarations": "font-family:swiper-icons;font-size:var(--swiper-navigation-size);text-transform:none!important;letter-spacing:0;font-variant:initial;line-height:1"
+    },
+    {
+      "source": "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634",
+      "selector": ".btn,.shopify-payment-button__button.shopify-payment-button__button--unbranded",
+      "declarations": "-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;display:inline-block;padding:10px calc(15px + 20px);width:auto;margin:0;position:relative;overflow:hidden;text-decoration:none;text-align:center;vertical-align:middle;line-height:1.6;cursor:pointer;border:0;-webkit-appearance:none;-moz-appearance:none;border-radius:var(--alt-btn-border-radius);background-color:var(--primary-btn-bg-color);color:var(--primary-btn-text-color);font-family:var(--button-font-stack);font-weight:var(--button-font-weight);font-style:var(--button-font-style);text-transform:var(--button-text-case);font-size:var(--button-font-size-px);letter-spacing:var(--button-text-spacing-px)"
+    },
+    {
+      "source": "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634",
+      "selector": ".btn.btn--secondary,.shopify-payment-button__button.shopify-payment-button__button--unbranded.btn--secondary",
+      "declarations": "background:0 0;color:var(--primary-btn-bg-color);border:1px solid var(--primary-btn-bg-color)"
+    },
+    {
+      "source": "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634",
+      "selector": ".btn--underlined",
+      "declarations": "--link-color:var(--primary-btn-bg-color);--link-border-color:var(--primary-btn-bg-color-opacity50);color:var(--primary-btn-bg-color);border:0"
+    },
+    {
+      "source": "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634",
+      "selector": "product-form .paymentButtonsWrapper .shopify-payment-button__button.shopify-payment-button__button--unbranded:hover",
+      "declarations": "color:var(--primary-btn-text-color)!important;background-color:var(--primary-btn-bg-color)!important"
+    },
+    {
+      "source": "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634",
+      "selector": ".shopify-product-form .shopify-payment-button__more-options",
+      "declarations": "font-size:var(--button-font-size-px);width:70%;margin:15px auto 0;color:var(--link-color)"
+    },
+    {
+      "source": "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634",
+      "selector": "body .section--testimonials-wrapper a",
+      "declarations": "color:var(--text-color)"
+    },
+    {
+      "source": "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634",
+      "selector": "body .color-scheme--white",
+      "declarations": "--color-scheme-text-color:var(--text-color);--color-scheme-text-color-transparent10:var(--text-color-transparent10);--color-scheme-text-color-transparent40:var(--text-color-transparent40);--color-scheme-text-color-transparent50:var(--text-color-transparent50);--color-scheme-background-color:var(--body-color);--color-scheme-background-rgb:var(--color-primary-background-rgb);--color-scheme-border-color:var(--text-color-transparent25);background:var(--body-color);color:var(--text-color)"
+    },
+    {
+      "source": "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634",
+      "selector": "body .color-scheme--white .inline-icon--wrapper,body .color-scheme--white .standalone-icon--wrapper,body .color-scheme--white input,body .color-scheme--white in",
+      "declarations": "color:var(--text-color)"
+    },
+    {
+      "source": "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634",
+      "selector": "body .color-scheme--white a:not(.btn):not(.standalone-icon--wrapper):not(.btn--underlined):not(.animated-link--item--nested)",
+      "declarations": "color:var(--link-color)"
+    },
+    {
+      "source": "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634",
+      "selector": "body .color-scheme--white.product-section .shopify-payment-button__button--unbranded",
+      "declarations": "background-color:var(--primary-btn-bg-color);color:var(--primary-btn-text-color)"
+    },
+    {
+      "source": "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634",
+      "selector": "body .color-scheme--light",
+      "declarations": "--color-scheme-text-color:var(--color-scheme-light-text);--color-scheme-text-color-transparent10:var(--color-scheme-light-text-transparent10);--color-scheme-text-color-transparent40:var(--color-scheme-light-text-transparent40);--color-scheme-text-color-transparent50:var(--color-scheme-light-text-transparent50);--color-scheme-background-color:var(--color-scheme-light-background);--color-scheme-background-rgb:var(--color-scheme-light-background-rgb);--color-scheme-border-color:var(--color-scheme-light-text-transparent25);--border-color:var(--color-scheme-light-text-transparent25);--body-color-transparent50:var(--color-scheme-light-background-transparent50);--body-color-transparent40:var(--colo"
+    },
+    {
+      "source": "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634",
+      "selector": "body .color-scheme--light .inline-icon--wrapper,body .color-scheme--light .standalone-icon--wrapper,body .color-scheme--light input,body .color-scheme--light in",
+      "declarations": "color:var(--color-scheme-light-text)"
+    },
+    {
+      "source": "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634",
+      "selector": "ice-line-through.sale-price+.money,body .color-scheme--light .product-grid--price .money.sale-price+.money,body .color-scheme--light a:not(.btn):not(.btn--under",
+      "declarations": "color:var(--color-scheme-light-text)"
+    },
+    {
+      "source": "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634",
+      "selector": "body .color-scheme--light.product-section .shopify-payment-button__button--unbranded",
+      "declarations": "background-color:var(--color-scheme-light-text);color:var(--color-scheme-light-background)"
+    },
+    {
+      "source": "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634",
+      "selector": "body .image-with-text-wrapper .color-scheme--light .homepage-featured-content-box",
+      "declarations": "color:var(--color-scheme-light-text);background:var(--color-scheme-light-background)"
+    },
+    {
+      "source": "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634",
+      "selector": "body .map-section-wrapper .color-scheme--light .homepage-map-content-box",
+      "declarations": "color:var(--color-scheme-light-text);background:var(--color-scheme-light-background)"
+    },
+    {
+      "source": "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634",
+      "selector": "body .color-scheme--light .text-slideshow__pagination-btn span",
+      "declarations": "background-color:var(--color-scheme-light-text)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Quality Open Ended Toys & Educational Resources – Little Toy Tribe",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634"
+      ]
+    },
+    "colors.reassurance": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634"
+      ]
+    },
+    "colors.teal-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littletoytribe.com.au/",
+        "https://littletoytribe.com.au/cdn/shop/t/42/assets/swiper-bundle.min.css?v=127370101718424465871738231633",
+        "https://littletoytribe.com.au/cdn/shop/t/42/assets/photoswipe.min.css?v=165459975419098386681738231635",
+        "https://littletoytribe.com.au/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littletoytribe.com.au/cdn/shop/t/42/assets/photoswipe.min.css?v=165459975419098386681738231635"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littletoytribe.com.au/",
+        "https://littletoytribe.com.au/cdn/shop/t/42/assets/theme.min.css?v=163210442857690897761738231634"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littletoytribe.com.au/",
+        "https://littletoytribe.com.au/cdn/shop/t/42/assets/swiper-bundle.min.css?v=127370101718424465871738231633",
+        "https://littletoytribe.com.au/cdn/shop/t/42/assets/photoswipe.min.css?v=165459975419098386681738231635",
+        "https://littletoytribe.com.au/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.dark-surface": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littletoytribe.com.au/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.age-filter-chip": {
+      "status": "inferred"
+    }
+  }
+}

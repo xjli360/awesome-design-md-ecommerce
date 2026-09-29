@@ -1,0 +1,870 @@
+{
+  "source_url": "https://thule.com",
+  "final_url": "https://www.thule.com/en-us/",
+  "captured_at": "2026-09-28T09:57:29.549082+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://thule.com",
+      "final_url": "https://www.thule.com/en-us/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "de3fd2684a61b0dc488ea25ac817801f5a3da2965139dd70fda1fe645c8a866b",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+      "final_url": "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "408e31bc2c8dfa46e219b62bfd5c66c8100ff687d3699048e789305ec6ab5cf0",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.thule.com/dist/vndrs_nopurge.f36e189ef25a71793715.css",
+      "final_url": "https://www.thule.com/dist/vndrs_nopurge.f36e189ef25a71793715.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a797aef2a94614295c63dba3daac465d98050199e37b61ea2748841399f6fb94",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css",
+      "final_url": "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "46c6746350c16c850db22e33195a843f0e74bb2d5ec27f780c886c7331c18e30",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.thule.com/dist/jumpToMainContent.bdf16943d75889aee785.css",
+      "final_url": "https://www.thule.com/dist/jumpToMainContent.bdf16943d75889aee785.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "210c1131407cd04bf4f60bfc2c3d263f95d1963fa44d9e2c17cc8c20ff01ecd7",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.thule.com/dist/helloBar.affd90c00d64e6952038.css",
+      "final_url": "https://www.thule.com/dist/helloBar.affd90c00d64e6952038.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "8f083341244f31c09638543a0bbc2cf1b18f7284f101f48724cf6dbddfaead38",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 99,
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+        "https://www.thule.com/dist/vndrs_nopurge.f36e189ef25a71793715.css",
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css",
+        "https://www.thule.com/dist/jumpToMainContent.bdf16943d75889aee785.css",
+        "https://www.thule.com/dist/helloBar.affd90c00d64e6952038.css"
+      ]
+    },
+    "#181818": {
+      "count": 53,
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css",
+        "https://www.thule.com/dist/jumpToMainContent.bdf16943d75889aee785.css"
+      ]
+    },
+    "#474747": {
+      "count": 53,
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css",
+        "https://www.thule.com/dist/helloBar.affd90c00d64e6952038.css"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 29,
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+      ]
+    },
+    "#757575": {
+      "count": 22,
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 20,
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+      ]
+    },
+    "#0d6efd": {
+      "count": 18,
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css"
+      ]
+    },
+    "#000000": {
+      "count": 16,
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+        "https://www.thule.com/dist/vndrs_nopurge.f36e189ef25a71793715.css",
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+      ]
+    },
+    "#a3a3a3": {
+      "count": 13,
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+      ]
+    },
+    "#303030": {
+      "count": 13,
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+      ]
+    },
+    "#00bbff": {
+      "count": 11,
+      "sources": [
+        "https://www.thule.com/dist/vndrs_nopurge.f36e189ef25a71793715.css"
+      ]
+    },
+    "#198754": {
+      "count": 8,
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css"
+      ]
+    },
+    "#6c757d": {
+      "count": 5,
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css"
+      ]
+    },
+    "#bababa": {
+      "count": 5,
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+      ]
+    },
+    "#8c8c8c": {
+      "count": 5,
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+      ]
+    },
+    "#5e5e5e": {
+      "count": 5,
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+      ]
+    },
+    "#6694b5": {
+      "count": 5,
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css",
+        "https://www.thule.com/dist/jumpToMainContent.bdf16943d75889aee785.css",
+        "https://www.thule.com/dist/helloBar.affd90c00d64e6952038.css"
+      ]
+    },
+    "#af0a0a": {
+      "count": 5,
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+      ]
+    },
+    "#dc3545": {
+      "count": 4,
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css"
+      ]
+    },
+    "#212529": {
+      "count": 4,
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css"
+      ]
+    },
+    "#bdc5c1": {
+      "count": 4,
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+      ]
+    },
+    "#cbc8bd": {
+      "count": 4,
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+      ]
+    },
+    "#f8f9fa": {
+      "count": 3,
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css"
+      ]
+    },
+    "#e9ecef": {
+      "count": 3,
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css"
+      ]
+    },
+    "#495057": {
+      "count": 3,
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css"
+      ]
+    },
+    "#0a58ca": {
+      "count": 3,
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css"
+      ]
+    },
+    "#86b7fe": {
+      "count": 3,
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 3,
+      "sources": [
+        "https://www.thule.com/dist/vndrs_nopurge.f36e189ef25a71793715.css"
+      ]
+    },
+    "#148914": {
+      "count": 3,
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+      ]
+    },
+    "#cec3b6": {
+      "count": 3,
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+      ]
+    },
+    "#cedddf": {
+      "count": 3,
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+      ]
+    },
+    "#aec5ca": {
+      "count": 3,
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+      ]
+    },
+    "#d40303": {
+      "count": 3,
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+      ]
+    },
+    "#306fdb": {
+      "count": 3,
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+      ]
+    },
+    "#fbe6e6": {
+      "count": 3,
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+      ]
+    },
+    "#d63384": {
+      "count": 2,
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css"
+      ]
+    },
+    "#ffc107": {
+      "count": 2,
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css"
+      ]
+    },
+    "#0dcaf0": {
+      "count": 2,
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css"
+      ]
+    },
+    "#343a40": {
+      "count": 2,
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css"
+      ]
+    },
+    "#dee2e6": {
+      "count": 2,
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css"
+      ]
+    },
+    "#ced4da": {
+      "count": 2,
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css"
+      ]
+    },
+    "#adb5bd": {
+      "count": 2,
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css"
+      ]
+    },
+    "#fff3cd": {
+      "count": 2,
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css"
+      ]
+    },
+    "#146c43": {
+      "count": 2,
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css"
+      ]
+    },
+    "#adbab3": {
+      "count": 2,
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+      ]
+    },
+    "#c6c0b6": {
+      "count": 2,
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+      ]
+    },
+    "#bdc2ba": {
+      "count": 2,
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+      ]
+    },
+    "#574f4f": {
+      "count": 2,
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+      ]
+    },
+    "#c1cebd": {
+      "count": 2,
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+      ]
+    },
+    "#eaf1fb": {
+      "count": 2,
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+      ]
+    },
+    "#f3f9f3": {
+      "count": 2,
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+      ]
+    },
+    "#6610f2": {
+      "count": 1,
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css"
+      ]
+    },
+    "#6f42c1": {
+      "count": 1,
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css"
+      ]
+    },
+    "#fd7e14": {
+      "count": 1,
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css"
+      ]
+    },
+    "#20c997": {
+      "count": 1,
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css"
+      ]
+    },
+    "#052c65": {
+      "count": 1,
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css"
+      ]
+    },
+    "#2b2f32": {
+      "count": 1,
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css"
+      ]
+    },
+    "#0a3622": {
+      "count": 1,
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css"
+      ]
+    },
+    "#055160": {
+      "count": 1,
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css"
+      ]
+    },
+    "#664d03": {
+      "count": 1,
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Font Awesome\\ 5 Brands": [
+      "https://www.thule.com/dist/vndrs_nopurge.f36e189ef25a71793715.css"
+    ],
+    "Font Awesome\\ 5 Free": [
+      "https://www.thule.com/dist/vndrs_nopurge.f36e189ef25a71793715.css"
+    ],
+    "Font Awesome\\ 6 Brands": [
+      "https://www.thule.com/dist/vndrs_nopurge.f36e189ef25a71793715.css"
+    ],
+    "Font Awesome\\ 6 Free": [
+      "https://www.thule.com/dist/vndrs_nopurge.f36e189ef25a71793715.css"
+    ],
+    "FontAwesome": [
+      "https://www.thule.com/dist/vndrs_nopurge.f36e189ef25a71793715.css"
+    ],
+    "SuisseWorks": [
+      "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+    ],
+    "arial": [
+      "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+    ],
+    "frg-icons": [
+      "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+    ],
+    "frg-icons!important": [
+      "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+    ],
+    "frutiger": [
+      "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+    ],
+    "helvetica": [
+      "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+    ],
+    "helvetica neue": [
+      "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+    ],
+    "sans-serif": [
+      "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+    ],
+    "suisse": [
+      "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+    ],
+    "suisseWorks": [
+      "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+    ],
+    "univers": [
+      "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+      "selector": "body",
+      "declarations": "background-color:var(--bs-body-bg);color:var(--bs-body-color);font-family:var(--bs-body-font-family);font-size:var(--bs-body-font-size);font-weight:var(--bs-body-font-weight);line-height:var(--bs-body-line-height);margin:0;text-align:var(--bs-body-text-align);-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:transparent"
+    },
+    {
+      "source": "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+      "selector": ".h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6",
+      "declarations": "color:var(--bs-heading-color);font-weight:500;line-height:1.2;margin-bottom:.5rem;margin-top:0"
+    },
+    {
+      "source": "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+      "selector": "tbody,td,tfoot,th,thead,tr",
+      "declarations": "border:0 solid;border-color:inherit"
+    },
+    {
+      "source": "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:inherit;line-height:inherit;margin:0"
+    },
+    {
+      "source": "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+      "selector": ":root",
+      "declarations": "--bs-breakpoint-xs:0;--bs-breakpoint-sm:576px;--bs-breakpoint-md:768px;--bs-breakpoint-lg:992px;--bs-breakpoint-xl:1200px;--bs-breakpoint-xxl:1400px"
+    },
+    {
+      "source": "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+      "selector": ".form-control::-webkit-file-upload-button",
+      "declarations": "margin:-.375rem -.75rem;padding:.375rem .75rem;-webkit-margin-end:.75rem;background-color:var(--bs-tertiary-bg);border:0 solid;border-color:inherit;border-inline-end-width:var(--bs-border-width);border-radius:0;color:var(--bs-body-color);margin-inline-end:.75rem;pointer-events:none;-webkit-transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out"
+    },
+    {
+      "source": "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+      "selector": ".form-control::file-selector-button",
+      "declarations": "margin:-.375rem -.75rem;padding:.375rem .75rem;-webkit-margin-end:.75rem;background-color:var(--bs-tertiary-bg);border:0 solid;border-color:inherit;border-inline-end-width:var(--bs-border-width);border-radius:0;color:var(--bs-body-color);margin-inline-end:.75rem;pointer-events:none;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out"
+    },
+    {
+      "source": "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+      "selector": ".form-control:hover:not(:disabled):not([readonly])::-webkit-file-upload-button",
+      "declarations": "background-color:var(--bs-secondary-bg)"
+    },
+    {
+      "source": "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+      "selector": ".form-control:hover:not(:disabled):not([readonly])::file-selector-button",
+      "declarations": "background-color:var(--bs-secondary-bg)"
+    },
+    {
+      "source": "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+      "selector": ".btn",
+      "declarations": "--bs-btn-padding-x:0.75rem;--bs-btn-padding-y:0.375rem;--bs-btn-font-family: ;--bs-btn-font-size:1rem;--bs-btn-font-weight:400;--bs-btn-line-height:1.5;--bs-btn-color:var(--bs-body-color);--bs-btn-bg:transparent;--bs-btn-border-width:var(--bs-border-width);--bs-btn-border-color:transparent;--bs-btn-border-radius:var(--bs-border-radius);--bs-btn-hover-border-color:transparent;--bs-btn-box-shadow:inset 0 1px 0 hsla(0,0%,100%,.15),0 1px 1px rgba(0,0,0,.075);--bs-btn-disabled-opacity:0.65;--bs-btn-focus-box-shadow:0 0 0 0.25rem rgba(var(--bs-btn-focus-shadow-rgb),.5);background-color:var(--bs-btn-bg);border:var(--bs-btn-border-width) solid var(--bs-btn-border-color);border-radius:var(--bs-btn-bo"
+    },
+    {
+      "source": "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+      "selector": ".btn:hover",
+      "declarations": "background-color:var(--bs-btn-hover-bg);border-color:var(--bs-btn-hover-border-color);color:var(--bs-btn-hover-color)"
+    },
+    {
+      "source": "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+      "selector": ".btn:focus-visible",
+      "declarations": "background-color:var(--bs-btn-hover-bg);border-color:var(--bs-btn-hover-border-color);box-shadow:var(--bs-btn-focus-box-shadow);color:var(--bs-btn-hover-color);outline:0"
+    },
+    {
+      "source": "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+      "selector": ".btn.active,.btn.show,.btn:first-child:active,:not(.btn-check)+.btn:active",
+      "declarations": "background-color:var(--bs-btn-active-bg);border-color:var(--bs-btn-active-border-color);color:var(--bs-btn-active-color)"
+    },
+    {
+      "source": "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+      "selector": ".btn.disabled,.btn:disabled,fieldset:disabled .btn",
+      "declarations": "background-color:var(--bs-btn-disabled-bg);border-color:var(--bs-btn-disabled-border-color);color:var(--bs-btn-disabled-color);opacity:var(--bs-btn-disabled-opacity);pointer-events:none"
+    },
+    {
+      "source": "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+      "selector": ".btn-primary",
+      "declarations": "--bs-btn-color:#fff;--bs-btn-bg:#0d6efd;--bs-btn-border-color:#0d6efd;--bs-btn-hover-color:#fff;--bs-btn-hover-bg:#0b5ed7;--bs-btn-hover-border-color:#0a58ca;--bs-btn-focus-shadow-rgb:49,132,253;--bs-btn-active-color:#fff;--bs-btn-active-bg:#0a58ca;--bs-btn-active-border-color:#0a53be;--bs-btn-active-shadow:inset 0 3px 5px rgba(0,0,0,.125);--bs-btn-disabled-color:#fff;--bs-btn-disabled-bg:#0d6efd;--bs-btn-disabled-border-color:#0d6efd"
+    },
+    {
+      "source": "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+      "selector": ".btn-success",
+      "declarations": "--bs-btn-color:#fff;--bs-btn-bg:#198754;--bs-btn-border-color:#198754;--bs-btn-hover-color:#fff;--bs-btn-hover-bg:#157347;--bs-btn-hover-border-color:#146c43;--bs-btn-focus-shadow-rgb:60,153,110;--bs-btn-active-color:#fff;--bs-btn-active-bg:#146c43;--bs-btn-active-border-color:#13653f;--bs-btn-active-shadow:inset 0 3px 5px rgba(0,0,0,.125);--bs-btn-disabled-color:#fff;--bs-btn-disabled-bg:#198754;--bs-btn-disabled-border-color:#198754"
+    },
+    {
+      "source": "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+      "selector": ".btn-link",
+      "declarations": "--bs-btn-font-weight:400;--bs-btn-color:var(--bs-link-color);--bs-btn-bg:transparent;--bs-btn-border-color:transparent;--bs-btn-hover-color:var(--bs-link-hover-color);--bs-btn-hover-border-color:transparent;--bs-btn-active-color:var(--bs-link-hover-color);--bs-btn-active-border-color:transparent;--bs-btn-disabled-color:#6c757d;--bs-btn-disabled-border-color:transparent;--bs-btn-box-shadow:0 0 0 #000;--bs-btn-focus-shadow-rgb:49,132,253;text-decoration:underline"
+    },
+    {
+      "source": "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+      "selector": ".btn-link:focus-visible",
+      "declarations": "color:var(--bs-btn-color)"
+    },
+    {
+      "source": "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+      "selector": ".btn-link:hover",
+      "declarations": "color:var(--bs-btn-hover-color)"
+    },
+    {
+      "source": "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+      "selector": ".btn-lg",
+      "declarations": "--bs-btn-padding-y:0.5rem;--bs-btn-padding-x:1rem;--bs-btn-font-size:1.25rem;--bs-btn-border-radius:var(--bs-border-radius-lg)"
+    },
+    {
+      "source": "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+      "selector": ".btn-sm",
+      "declarations": "--bs-btn-padding-y:0.25rem;--bs-btn-padding-x:0.5rem;--bs-btn-font-size:0.875rem;--bs-btn-border-radius:var(--bs-border-radius-sm)"
+    },
+    {
+      "source": "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+      "selector": ".accordion-button",
+      "declarations": "align-items:center;background-color:var(--bs-accordion-btn-bg);border:0;border-radius:0;color:var(--bs-accordion-btn-color);display:flex;font-size:1rem;overflow-anchor:none;padding:var(--bs-accordion-btn-padding-y) var(--bs-accordion-btn-padding-x);position:relative;text-align:left;transition:var(--bs-accordion-transition);width:100%"
+    },
+    {
+      "source": "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+      "selector": ".accordion-button:not(.collapsed)",
+      "declarations": "background-color:var(--bs-accordion-active-bg);box-shadow:inset 0 calc(var(--bs-accordion-border-width)*-1) 0 var(--bs-accordion-border-color);color:var(--bs-accordion-active-color)"
+    },
+    {
+      "source": "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+      "selector": ".btn-close",
+      "declarations": "--bs-btn-close-color:#000;--bs-btn-close-bg:url(\"data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M.293.293a1 1 0 0 1 1.414 0L8 6.586 14.293.293a1 1 0 1 1 1.414 1.414L9.414 8l6.293 6.293a1 1 0 0 1-1.414 1.414L8 9.414l-6.293 6.293a1 1 0 0 1-1.414-1.414L6.586 8 .293 1.707a1 1 0 0 1 0-1.414'/%3E%3C/svg%3E\");--bs-btn-close-opacity:0.5;--bs-btn-close-hover-opacity:0.75;--bs-btn-close-focus-shadow:0 0 0 0.25rem rgba(13,110,253,.25);--bs-btn-close-focus-opacity:1;--bs-btn-close-disabled-opacity:0.25;background:transparent var(--bs-btn-close-bg) center/1em auto no-repeat;border:0;border-radius:.375rem;box-sizing:content-box;filter:var(--bs-b"
+    },
+    {
+      "source": "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+      "selector": ".btn-close,.btn-close:hover",
+      "declarations": "color:var(--bs-btn-close-color)"
+    },
+    {
+      "source": "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+      "selector": ".btn-close-white",
+      "declarations": "--bs-btn-close-filter:invert(1) grayscale(100%) brightness(200%)"
+    },
+    {
+      "source": "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+      "selector": ":root",
+      "declarations": "--bs-btn-close-filter:"
+    },
+    {
+      "source": "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+      "selector": ".popover-header",
+      "declarations": "background-color:var(--bs-popover-header-bg);border-bottom:var(--bs-popover-border-width) solid var(--bs-popover-border-color);border-top-left-radius:var(--bs-popover-inner-border-radius);border-top-right-radius:var(--bs-popover-inner-border-radius);color:var(--bs-popover-header-color);font-size:var(--bs-popover-header-font-size);margin-bottom:0;padding:var(--bs-popover-header-padding-y) var(--bs-popover-header-padding-x)"
+    },
+    {
+      "source": "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+      "selector": ".popover-body",
+      "declarations": "color:var(--bs-popover-body-color);padding:var(--bs-popover-body-padding-y) var(--bs-popover-body-padding-x)"
+    },
+    {
+      "source": "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+      "selector": ":root",
+      "declarations": "--bs-carousel-indicator-active-bg:#fff;--bs-carousel-caption-color:#fff;--bs-carousel-control-icon-filter:"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Thule | United States",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css",
+        "https://www.thule.com/dist/jumpToMainContent.bdf16943d75889aee785.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+        "https://www.thule.com/dist/vndrs_nopurge.f36e189ef25a71793715.css",
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css",
+        "https://www.thule.com/dist/jumpToMainContent.bdf16943d75889aee785.css",
+        "https://www.thule.com/dist/helloBar.affd90c00d64e6952038.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css",
+        "https://www.thule.com/dist/helloBar.affd90c00d64e6952038.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css",
+        "https://www.thule.com/dist/vndrs_nopurge.f36e189ef25a71793715.css",
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css",
+        "https://www.thule.com/dist/jumpToMainContent.bdf16943d75889aee785.css",
+        "https://www.thule.com/dist/helloBar.affd90c00d64e6952038.css"
+      ]
+    },
+    "colors.secondary-accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css",
+        "https://www.thule.com/dist/jumpToMainContent.bdf16943d75889aee785.css",
+        "https://www.thule.com/dist/helloBar.affd90c00d64e6952038.css"
+      ]
+    },
+    "colors.sage-accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+      ]
+    },
+    "colors.stone-accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thule.com/dist/styles.ce14bd53caf045ad6508.css"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thule.com/dist/vendors.7e07a5701dd565dc760d.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.stroller-finder": {
+      "status": "inferred"
+    }
+  }
+}

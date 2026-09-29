@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Powertraveller
-description: A single dark anchor — #313131 — runs through the entire Powertraveller experience, from the bold product-tile borders to the footer background, giving the brand a grounded, industrial consistency that never wavers. The site reads as a technical catalog for the serious traveler, where every power bank, solar panel, and charging station is presented with a no-nonsense, utilitarian clarity. Product images dominate, often isolated against a clean white canvas, with the dark ink providing a strong framing device in cards and section dividers. The typography relies on a system-font stack — -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif — prioritizing legibility and fast load times over typographic flair. There are no decorative serifs or custom brand faces; the hierarchy is established purely through weight (600 for titles, 400 for body) and size, with display text at 24px and body copy at 16px. Buttons are solid, rectangular, and purposeful: the primary CTA uses the dark ink as a background with white text, while secondary actions are outlined in the same dark tone. The overall mood is one of reliability and straightforwardness — a brand that sells gear for off-grid power, not lifestyle. The only visual relief comes from the product imagery itself, which introduces natural greens, blues, and metallic grays against the otherwise monochromatic palette.
+name: "Powertraveller"
+source_url: "https://www.powertraveller.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A single dark anchor — #313131 — runs through the entire Powertraveller experience, from the bold product-tile borders to the footer background, giving the brand a grounded, industrial consistency that never wavers. The site reads as a technical catalog for the serious traveler, where every power bank, solar panel, and charging station is presented with a no-nonsense, utilitarian clarity. Product images dominate, often isolated against a clean white canvas, with the dark ink providing a strong framing device in cards and section dividers. The typography relies on a system-font stack — -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif — prioritizing legibility and fast load times over typographic flair. There are no decorative serifs or custom brand faces; the hierarchy is established purely through weight (600 for titles, 400 for body) and size, with display text at 24px and body copy at 16px. Buttons are solid, rectangular, and purposeful: the primary CTA uses the dark ink as a background with white text, while secondary actions are outlined in the same dark tone. The overall mood is one of reliability and straightforwardness — a brand that sells gear for off-grid power, not lifestyle. The only visual relief comes from the product imagery itself, which introduces natural greens, blues, and metallic grays against the otherwise monochromatic palette.
 
 colors:
   primary: "#313131"
@@ -308,6 +312,8 @@ components:
 - Hero banner padding reduces by 50% on mobile to conserve vertical space.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted color palette is limited to a single hex (#313131) from the live site's HTML and CSS. This may not represent the full brand palette, which could include additional accent colors, gradients, or secondary tones used in imagery or promotional banners. The palette above is inferred from this single anchor and standard e-commerce conventions.
 - No specific font-family declarations beyond the system font stack were found. The brand may use a custom typeface on certain pages or in marketing materials that was not captured in the extraction.

@@ -1,0 +1,758 @@
+{
+  "source_url": "https://ringconn.com",
+  "final_url": "https://ringconn.com/",
+  "captured_at": "2026-09-28T09:41:20.256856+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://ringconn.com",
+      "final_url": "https://ringconn.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "b1588303efdc9370864d3e703f996ac547cd2ecf3a091a0aec5fe90c7278f6ff",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://ringconn.com/cdn/shop/t/245/assets/animate-fade.css?v=13064680265414295291789442839",
+      "final_url": "https://ringconn.com/cdn/shop/t/245/assets/animate-fade.css?v=13064680265414295291789442839",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "30df77367eb20aebefe6bea364651a04a490595b65c3a8523f03a3aa6fe3ef73",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211",
+      "final_url": "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0a0ea799ca8874c7c39aa0b5fe786f949bf0b27812ce1486529acc270aa220f8",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://ringconn.com/cdn/shop/t/245/assets/fonts.css?v=176130586399961558251789458465",
+      "final_url": "https://ringconn.com/cdn/shop/t/245/assets/fonts.css?v=176130586399961558251789458465",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "fb17a76acd544fe14f59b07d477e044b63a81a51bb0f0d2e1a57897bd26da219",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://ringconn.com/cdn/shop/t/245/assets/blur-image.css?v=173008831302595214741790237739",
+      "final_url": "https://ringconn.com/cdn/shop/t/245/assets/blur-image.css?v=173008831302595214741790237739",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4a74ad52f01e329e8127355de79177f2be8caa1dd2d3ec4ad6395e5da9e6c44a",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://ringconn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://ringconn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 46,
+      "sources": [
+        "https://ringconn.com/",
+        "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211",
+        "https://ringconn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#000000": {
+      "count": 22,
+      "sources": [
+        "https://ringconn.com/",
+        "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+      ]
+    },
+    "#2a6fd3": {
+      "count": 13,
+      "sources": [
+        "https://ringconn.com/",
+        "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+      ]
+    },
+    "#00000000": {
+      "count": 11,
+      "sources": [
+        "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211",
+        "https://ringconn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 9,
+      "sources": [
+        "https://ringconn.com/"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 8,
+      "sources": [
+        "https://ringconn.com/"
+      ]
+    },
+    "#e7e7e7": {
+      "count": 6,
+      "sources": [
+        "https://ringconn.com/"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 6,
+      "sources": [
+        "https://ringconn.com/"
+      ]
+    },
+    "#111111": {
+      "count": 6,
+      "sources": [
+        "https://ringconn.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 4,
+      "sources": [
+        "https://ringconn.com/"
+      ]
+    },
+    "#121212": {
+      "count": 4,
+      "sources": [
+        "https://ringconn.com/",
+        "https://ringconn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#005fcc": {
+      "count": 4,
+      "sources": [
+        "https://ringconn.com/",
+        "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+      ]
+    },
+    "#513b2d": {
+      "count": 3,
+      "sources": [
+        "https://ringconn.com/"
+      ]
+    },
+    "#00000066": {
+      "count": 3,
+      "sources": [
+        "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+      ]
+    },
+    "#3181df": {
+      "count": 2,
+      "sources": [
+        "https://ringconn.com/"
+      ]
+    },
+    "#0000001a": {
+      "count": 2,
+      "sources": [
+        "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+      ]
+    },
+    "#00000033": {
+      "count": 2,
+      "sources": [
+        "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://ringconn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#fff1e3": {
+      "count": 1,
+      "sources": [
+        "https://ringconn.com/"
+      ]
+    },
+    "#412d00": {
+      "count": 1,
+      "sources": [
+        "https://ringconn.com/"
+      ]
+    },
+    "#2970d3": {
+      "count": 1,
+      "sources": [
+        "https://ringconn.com/"
+      ]
+    },
+    "#666666": {
+      "count": 1,
+      "sources": [
+        "https://ringconn.com/"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://ringconn.com/"
+      ]
+    },
+    "#f5f6f7": {
+      "count": 1,
+      "sources": [
+        "https://ringconn.com/"
+      ]
+    },
+    "#999999": {
+      "count": 1,
+      "sources": [
+        "https://ringconn.com/"
+      ]
+    },
+    "#f3f5f8": {
+      "count": 1,
+      "sources": [
+        "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+      ]
+    },
+    "#9ca3af": {
+      "count": 1,
+      "sources": [
+        "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+      ]
+    },
+    "#0000000d": {
+      "count": 1,
+      "sources": [
+        "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+      ]
+    },
+    "#0000000f": {
+      "count": 1,
+      "sources": [
+        "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+      ]
+    },
+    "#fffffb": {
+      "count": 1,
+      "sources": [
+        "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+      ]
+    },
+    "#007bff": {
+      "count": 1,
+      "sources": [
+        "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+      ]
+    },
+    "#0056b3": {
+      "count": 1,
+      "sources": [
+        "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+      ]
+    },
+    "#28a745": {
+      "count": 1,
+      "sources": [
+        "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 1,
+      "sources": [
+        "https://ringconn.com/cdn/shop/t/245/assets/blur-image.css?v=173008831302595214741790237739"
+      ]
+    },
+    "#2a2a2a": {
+      "count": 1,
+      "sources": [
+        "https://ringconn.com/cdn/shop/t/245/assets/blur-image.css?v=173008831302595214741790237739"
+      ]
+    },
+    "#3a3a3a": {
+      "count": 1,
+      "sources": [
+        "https://ringconn.com/cdn/shop/t/245/assets/blur-image.css?v=173008831302595214741790237739"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://ringconn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://ringconn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+    ],
+    "Albertus": [
+      "https://ringconn.com/cdn/shop/t/245/assets/fonts.css?v=176130586399961558251789458465"
+    ],
+    "Arial": [
+      "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+    ],
+    "BlinkMacSystemFont": [
+      "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+    ],
+    "Consolas": [
+      "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+    ],
+    "Courier New": [
+      "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+    ],
+    "FZLTZHK": [
+      "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211",
+      "https://ringconn.com/cdn/shop/t/245/assets/fonts.css?v=176130586399961558251789458465"
+    ],
+    "FZLTZHK!important": [
+      "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+    ],
+    "FZYJH_JP_Medium": [
+      "https://ringconn.com/cdn/shop/t/245/assets/fonts.css?v=176130586399961558251789458465"
+    ],
+    "FZYJH_KR_Medium": [
+      "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211",
+      "https://ringconn.com/cdn/shop/t/245/assets/fonts.css?v=176130586399961558251789458465"
+    ],
+    "FZYJH_KR_Medium!important": [
+      "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+    ],
+    "Helvetica Neue": [
+      "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+    ],
+    "HelveticaNowDisplay": [
+      "https://ringconn.com/",
+      "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211",
+      "https://ringconn.com/cdn/shop/t/245/assets/fonts.css?v=176130586399961558251789458465"
+    ],
+    "HelveticaNowDisplay!important": [
+      "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+    ],
+    "JudgemeIcons!important": [
+      "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+    ],
+    "JudgemeStar!important": [
+      "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+    ],
+    "Liberation Mono": [
+      "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+    ],
+    "Menlo": [
+      "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+    ],
+    "Monaco": [
+      "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+    ],
+    "Montserrat": [
+      "https://ringconn.com/"
+    ],
+    "NotoSansJP": [
+      "https://ringconn.com/cdn/shop/t/245/assets/fonts.css?v=176130586399961558251789458465"
+    ],
+    "Roboto": [
+      "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+    ],
+    "SFMono-Regular": [
+      "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+    ],
+    "Segoe UI": [
+      "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+    ],
+    "SimplySerif-Bold": [
+      "https://ringconn.com/cdn/shop/t/245/assets/fonts.css?v=176130586399961558251789458465"
+    ],
+    "monospace": [
+      "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+    ],
+    "sans-serif": [
+      "https://ringconn.com/",
+      "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+    ],
+    "system-ui": [
+      "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+    ],
+    "ui-monospace": [
+      "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://ringconn.com/",
+      "selector": "[dir=\"rtl\"]:root",
+      "declarations": "--transform-logical-flip: -1;\n    --transform-origin-start: right;\n    --transform-origin-end: left;"
+    },
+    {
+      "source": "https://ringconn.com/",
+      "selector": ":root",
+      "declarations": "--text-h0: 3.5rem;\n      --text-h1: 2.5rem;\n      --text-h2: 2rem;\n      --text-h3: 1.625rem;\n      --text-h4: 1.375rem;\n      --text-h5: 1.125rem;\n      --text-h6: 1rem;\n\n      --text-xs: 0.75rem;\n      --text-sm: 0.875rem;\n      --text-base: 1.0rem;\n      --text-lg: 1.25rem;\n\n      \n      --container-gutter: 2rem;\n      --section-outer-spacing-block: var(--spacing-12);\n      --section-inner-max-spacing-block: var(--spacing-10);\n      --section-inner-spacing-inline: var(--spacing-10);\n      --section-stack-spacing-block: var(--spacing-10);\n\n      \n      --grid-gutter: var(--spacing-6);\n\n      \n      --product-list-row-gap: var(--spacing-12);\n\n      \n      --input-gap: 1rem;\n      --input-he"
+    },
+    {
+      "source": "https://ringconn.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: var(--spacing-12);\n      --section-outer-spacing-block: var(--spacing-14);\n      --section-inner-max-spacing-block: var(--spacing-12);\n      --section-inner-spacing-inline: var(--spacing-12);\n      --section-stack-spacing-block: var(--spacing-10);"
+    },
+    {
+      "source": "https://ringconn.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: var(--spacing-12);\n      --section-outer-spacing-block: var(--spacing-14);\n      --section-inner-max-spacing-block: var(--spacing-12);\n      --section-inner-spacing-inline: var(--spacing-12);\n      --section-stack-spacing-block: var(--spacing-12);"
+    },
+    {
+      "source": "https://ringconn.com/",
+      "selector": ":root",
+      "declarations": "--text-h0: 4.5rem;\n      --text-h1: 3.5rem;\n      --text-h2: 2.75rem;\n      --text-h3: 2rem;\n      --text-h4: 1.75rem;\n      --text-h5: 1.375rem;\n      --text-h6: 1.25rem;\n\n      --section-outer-spacing-block: var(--spacing-16);\n      --section-inner-max-spacing-block: var(--spacing-14);\n      --section-inner-spacing-inline: var(--spacing-14);"
+    },
+    {
+      "source": "https://ringconn.com/",
+      "selector": ":root",
+      "declarations": "--section-outer-spacing-block: var(--spacing-16);\n      --section-inner-max-spacing-block: var(--spacing-16);\n      --section-inner-spacing-inline: var(--spacing-16);"
+    },
+    {
+      "source": "https://ringconn.com/",
+      "selector": ".button:not([disabled]):not(.button--outline):hover, .btn:not([disabled]):hover, .shopify-payment-button__button--unbranded:not([disabled]):hover",
+      "declarations": "background-color: transparent !important;\n          color: rgb(var(--button-outline-color) / var(--button-background-opacity, 1)) !important;\n          box-shadow: inset 0 0 0 2px currentColor !important;"
+    },
+    {
+      "source": "https://ringconn.com/",
+      "selector": ".button--outline:not([disabled]):hover",
+      "declarations": "background: rgb(var(--button-background));\n          color: rgb(var(--button-text-color));\n          box-shadow: inset 0 0 0 2px rgb(var(--button-background));"
+    },
+    {
+      "source": "https://ringconn.com/",
+      "selector": ":root",
+      "declarations": "--announcement-bar-height: 0px;"
+    },
+    {
+      "source": "https://ringconn.com/",
+      "selector": "--background: 255 255 255; --text-color: 26 26 26;\n\n  :root",
+      "declarations": "--sticky-header-enabled:1;"
+    },
+    {
+      "source": "https://ringconn.com/",
+      "selector": "#shopify-section-sections--22841534906676__new_header_260408_BJTnmV",
+      "declarations": "--header-grid-template: \"main-nav logo secondary-nav\" / minmax(0, 1fr) auto minmax(0, 1fr);\n    --header-logo-height: 32px;\n    --header-transparent-text-color: 255 255 255;\n    position: sticky;\n    top: 0;\n    width: 100%;\n    z-index: 10030;"
+    },
+    {
+      "source": "https://ringconn.com/",
+      "selector": "#shopify-section-sections--22841534906676__new_header_260408_BJTnmV",
+      "declarations": "--header-section-padding: 0px 40px;\n      --header-grid-template: \"logo main-nav secondary-nav\" / minmax(0, 0.65fr) fit-content(70%) minmax(0, 0.65fr);\n      --header-link-gap: 40px;"
+    },
+    {
+      "source": "https://ringconn.com/",
+      "selector": "#shopify-section-sections--22841534906676__new_header_260408_BJTnmV .header__main-nav .header__link-list details:is([is='dropdown-disclosure'], [is='mega-menu-d",
+      "declarations": "content: '';\n      position: absolute;\n      left: 0;\n      right: 0;\n      bottom: 0px;\n      height: 1px;\n      background-color: #2970d3;\n      opacity: 0;\n      transition: opacity 0.2s ease;"
+    },
+    {
+      "source": "https://ringconn.com/",
+      "selector": "#shopify-section-sections--22841534906676__new_header_260408_BJTnmV .header__wrapper",
+      "declarations": "--header-hover-sync-delay: 0.25s;\n    padding: var(--header-section-padding);\n    background-color: #ffffff;\n    color: rgb(var(--header-text));\n    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.05);\n    transition: background-color 0.2s ease, color 0.2s ease;\n    transition-delay: var(--header-hover-sync-delay);"
+    },
+    {
+      "source": "https://ringconn.com/",
+      "selector": "#shopify-section-sections--22841534906676__new_header_260408_BJTnmV .new-header-right-language .language-selector .language-selector-button",
+      "declarations": "color: inherit !important;\n    transition: border-color 0.2s ease, background-color 0.2s ease !important;\n    transition-delay: var(--header-hover-sync-delay, 0.25s) !important;"
+    },
+    {
+      "source": "https://ringconn.com/",
+      "selector": "#shopify-section-sections--22841534906676__new_header_260408_BJTnmV .new-header-right-language .language-selector .language-select-text",
+      "declarations": "color: inherit !important;\n    transition: none !important;"
+    },
+    {
+      "source": "https://ringconn.com/",
+      "selector": "#shopify-section-sections--22841534906676__new_header_260408_BJTnmV .header",
+      "declarations": "--text-color: var(--header-text);"
+    },
+    {
+      "source": "https://ringconn.com/",
+      "selector": "#shopify-section-sections--22841534906676__new_header_260408_BJTnmV.is-at-top .header",
+      "declarations": "--text-color: var(--header-text) !important;"
+    },
+    {
+      "source": "https://ringconn.com/",
+      "selector": "#shopify-section-sections--22841534906676__new_header_260408_BJTnmV.new-header-drawer-open .header",
+      "declarations": "--text-color: var(--header-text);"
+    },
+    {
+      "source": "https://ringconn.com/",
+      "selector": "#shopify-section-sections--22841534906676__new_header_260408_BJTnmV.new-header-transparent-enabled.is-at-top.new-header-drawer-open .header",
+      "declarations": "--text-color: var(--header-text) !important;"
+    },
+    {
+      "source": "https://ringconn.com/",
+      "selector": "#shopify-section-sections--22841534906676__new_header_260408_BJTnmV.is-at-top .header__wrapper",
+      "declarations": "background-color: #ffffff;\n    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.05);\n    color: rgb(var(--header-text));"
+    },
+    {
+      "source": "https://ringconn.com/",
+      "selector": "#shopify-section-sections--22841534906676__new_header_260408_BJTnmV.new-header-transparent-enabled.is-at-top .header",
+      "declarations": "--text-color: var(--header-transparent-text-color) !important;"
+    },
+    {
+      "source": "https://ringconn.com/",
+      "selector": "#shopify-section-sections--22841534906676__new_header_260408_BJTnmV.new-header-transparent-enabled.is-at-top .header__wrapper",
+      "declarations": "background-color: transparent;\n    box-shadow: none;\n    color: rgb(var(--header-transparent-text-color));"
+    },
+    {
+      "source": "https://ringconn.com/",
+      "selector": "nt-enabled.header-scroll-state-ready:not(.is-at-top) .header__wrapper,\n  #shopify-section-sections--22841534906676__new_header_260408_BJTnmV.header-scroll-state",
+      "declarations": "background-color: #ffffff;\n    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.05);\n    color: rgb(var(--header-text));"
+    },
+    {
+      "source": "https://ringconn.com/",
+      "selector": "#shopify-section-sections--22841534906676__new_header_260408_BJTnmV.new-header-drawer-open .header__wrapper",
+      "declarations": "background-color: #ffffff;\n    color: rgb(var(--header-text));"
+    },
+    {
+      "source": "https://ringconn.com/",
+      "selector": "#shopify-section-sections--22841534906676__new_header_260408_BJTnmV.new-header-transparent-enabled.is-at-top.new-header-drawer-open .header__wrapper",
+      "declarations": "background-color: #ffffff;\n    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.05);\n    color: rgb(var(--header-text));"
+    },
+    {
+      "source": "https://ringconn.com/",
+      "selector": "#shopify-section-sections--22841534906676__new_header_260408_BJTnmV .header__wrapper:hover",
+      "declarations": "--header-hover-sync-delay: 0s;\n      background-color: #ffffff;\n      box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.05);\n      color: rgb(var(--header-text));\n      transition-delay: 0s;"
+    },
+    {
+      "source": "https://ringconn.com/",
+      "selector": "ent-enabled .header__wrapper:has(.header__main-nav details[open]),\n    #shopify-section-sections--22841534906676__new_header_260408_BJTnmV.new-header-transparen",
+      "declarations": "background-color: #ffffff;\n      box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.05);\n      color: rgb(var(--header-text));"
+    },
+    {
+      "source": "https://ringconn.com/",
+      "selector": "#shopify-section-sections--22841534906676__new_header_260408_BJTnmV",
+      "declarations": "--header-section-padding: 6px 20px;\n      --header-menu-item-padding: 0px;\n      --header-menu-item-padding-title: 24px 40px;\n      --header-menu-item-padding-submenu: 0px 60px;\n      --header-menu-item-title-font-size: 18px;\n      --header-drawer-language-padding: 18px 24px;\n      --header-pad-accordion-gap: 10px;\n      --header-pad-trigger-size: 20px;\n      --header-pad-submenu-margin-top: 4px;\n      --header-pad-submenu-font-size: 18px;\n      --header-pad-submenu-row-gap: 14px;"
+    },
+    {
+      "source": "https://ringconn.com/",
+      "selector": "#shopify-section-sections--22841534906676__new_header_260408_BJTnmV .new-header-pad-item-link",
+      "declarations": "flex: 1;\n      display: block;\n      font-weight: 500;\n      font-size: var(--header-menu-item-title-font-size);\n      line-height: 1.4;\n      text-decoration: none;\n      color: inherit;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "RingConn Smart Ring | 24/7 Sleep, Health & Activity Monitoring",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ringconn.com/"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ringconn.com/",
+        "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ringconn.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ringconn.com/",
+        "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211",
+        "https://ringconn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ringconn.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ringconn.com/"
+      ]
+    },
+    "colors.muted-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ringconn.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ringconn.com/cdn/shop/t/245/assets/blur-image.css?v=173008831302595214741790237739"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ringconn.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ringconn.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ringconn.com/",
+        "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211",
+        "https://ringconn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-warm-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ringconn.com/"
+      ]
+    },
+    "colors.accent-warm-ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ringconn.com/"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ringconn.com/cdn/shop/t/245/assets/theme.css?v=172565834930289010551790236211"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.ring-size-selector": {
+      "status": "inferred"
+    }
+  }
+}

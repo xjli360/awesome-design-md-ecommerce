@@ -1,0 +1,762 @@
+{
+  "source_url": "https://drinkpoppi.com",
+  "final_url": "https://www.drinkpoppi.com/",
+  "captured_at": "2026-09-28T09:28:06.452244+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://drinkpoppi.com",
+      "final_url": "https://www.drinkpoppi.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "47bf18a1fb3eb0f754435753091484a700195091f9f4673cb21acfb5d8361ff2",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://s3.us-west-2.amazonaws.com/static.smartcommerce.co/assets/client/Z4USXV/css/smartcart_poppi_us_prod.css",
+      "final_url": "https://s3.us-west-2.amazonaws.com/static.smartcommerce.co/assets/client/Z4USXV/css/smartcart_poppi_us_prod.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d96ef4c82dcfa96df49425734416b26a4fae5e2d8048e7026eecbc9250b63d80",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "final_url": "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "937dfd6c301661af2fc8cd2b64477af17d4fe36f4e67f2b953fb0386b2c76daa",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css",
+      "final_url": "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "de20d4399ba96f991418756ec3d17f017a2d045f1afc0f0bb021afc29e3027c4",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#fff200": {
+      "count": 29,
+      "sources": [
+        "https://www.drinkpoppi.com/",
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css"
+      ]
+    },
+    "#ec008c": {
+      "count": 24,
+      "sources": [
+        "https://www.drinkpoppi.com/",
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 15,
+      "sources": [
+        "https://s3.us-west-2.amazonaws.com/static.smartcommerce.co/assets/client/Z4USXV/css/smartcart_poppi_us_prod.css",
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css"
+      ]
+    },
+    "#00aeef": {
+      "count": 7,
+      "sources": [
+        "https://www.drinkpoppi.com/",
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css"
+      ]
+    },
+    "#e3f205": {
+      "count": 7,
+      "sources": [
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css"
+      ]
+    },
+    "#eb5600": {
+      "count": 6,
+      "sources": [
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css"
+      ]
+    },
+    "#e5fc0f": {
+      "count": 5,
+      "sources": [
+        "https://www.drinkpoppi.com/",
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css"
+      ]
+    },
+    "#cafe26": {
+      "count": 5,
+      "sources": [
+        "https://www.drinkpoppi.com/",
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css"
+      ]
+    },
+    "#f26b6b": {
+      "count": 4,
+      "sources": [
+        "https://www.drinkpoppi.com/"
+      ]
+    },
+    "#8e0011": {
+      "count": 4,
+      "sources": [
+        "https://www.drinkpoppi.com/"
+      ]
+    },
+    "#ffe6d1": {
+      "count": 4,
+      "sources": [
+        "https://www.drinkpoppi.com/",
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css"
+      ]
+    },
+    "#f66ff8": {
+      "count": 4,
+      "sources": [
+        "https://www.drinkpoppi.com/"
+      ]
+    },
+    "#a40e56": {
+      "count": 4,
+      "sources": [
+        "https://www.drinkpoppi.com/"
+      ]
+    },
+    "#222222": {
+      "count": 4,
+      "sources": [
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css"
+      ]
+    },
+    "#e15505": {
+      "count": 3,
+      "sources": [
+        "https://www.drinkpoppi.com/"
+      ]
+    },
+    "#ee1420": {
+      "count": 3,
+      "sources": [
+        "https://www.drinkpoppi.com/",
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css"
+      ]
+    },
+    "#008a00": {
+      "count": 3,
+      "sources": [
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css"
+      ]
+    },
+    "#ffebb3": {
+      "count": 3,
+      "sources": [
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css"
+      ]
+    },
+    "#bcff00": {
+      "count": 2,
+      "sources": [
+        "https://www.drinkpoppi.com/"
+      ]
+    },
+    "#3e8549": {
+      "count": 2,
+      "sources": [
+        "https://www.drinkpoppi.com/"
+      ]
+    },
+    "#0667be": {
+      "count": 2,
+      "sources": [
+        "https://www.drinkpoppi.com/"
+      ]
+    },
+    "#e9e4c5": {
+      "count": 2,
+      "sources": [
+        "https://www.drinkpoppi.com/"
+      ]
+    },
+    "#008cf1": {
+      "count": 2,
+      "sources": [
+        "https://www.drinkpoppi.com/"
+      ]
+    },
+    "#45ce0d": {
+      "count": 2,
+      "sources": [
+        "https://www.drinkpoppi.com/"
+      ]
+    },
+    "#0031a7": {
+      "count": 2,
+      "sources": [
+        "https://www.drinkpoppi.com/"
+      ]
+    },
+    "#027e34": {
+      "count": 2,
+      "sources": [
+        "https://www.drinkpoppi.com/",
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css"
+      ]
+    },
+    "#ff7500": {
+      "count": 2,
+      "sources": [
+        "https://www.drinkpoppi.com/"
+      ]
+    },
+    "#440099": {
+      "count": 2,
+      "sources": [
+        "https://www.drinkpoppi.com/"
+      ]
+    },
+    "#d10119": {
+      "count": 2,
+      "sources": [
+        "https://www.drinkpoppi.com/"
+      ]
+    },
+    "#ffc7df": {
+      "count": 2,
+      "sources": [
+        "https://www.drinkpoppi.com/"
+      ]
+    },
+    "#000000": {
+      "count": 2,
+      "sources": [
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css"
+      ]
+    },
+    "#ffd02e": {
+      "count": 2,
+      "sources": [
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css"
+      ]
+    },
+    "#700058": {
+      "count": 1,
+      "sources": [
+        "https://www.drinkpoppi.com/"
+      ]
+    },
+    "#fd303a": {
+      "count": 1,
+      "sources": [
+        "https://www.drinkpoppi.com/"
+      ]
+    },
+    "#450099": {
+      "count": 1,
+      "sources": [
+        "https://www.drinkpoppi.com/"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://s3.us-west-2.amazonaws.com/static.smartcommerce.co/assets/client/Z4USXV/css/smartcart_poppi_us_prod.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 1,
+      "sources": [
+        "https://s3.us-west-2.amazonaws.com/static.smartcommerce.co/assets/client/Z4USXV/css/smartcart_poppi_us_prod.css"
+      ]
+    },
+    "#007aff": {
+      "count": 1,
+      "sources": [
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css"
+      ]
+    },
+    "#111111": {
+      "count": 1,
+      "sources": [
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css"
+      ]
+    },
+    "#85888a": {
+      "count": 1,
+      "sources": [
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 1,
+      "sources": [
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css"
+      ]
+    },
+    "#f05654": {
+      "count": 1,
+      "sources": [
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css"
+      ]
+    },
+    "#ed018c": {
+      "count": 1,
+      "sources": [
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css"
+      ]
+    },
+    "#fff302": {
+      "count": 1,
+      "sources": [
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css"
+      ]
+    },
+    "#f25f66": {
+      "count": 1,
+      "sources": [
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css"
+      ]
+    },
+    "#4a2620": {
+      "count": 1,
+      "sources": [
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css"
+      ]
+    },
+    "#8725c3": {
+      "count": 1,
+      "sources": [
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css"
+    ],
+    "Georgia": [
+      "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css"
+    ],
+    "Helvetica": [
+      "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css"
+    ],
+    "Helvetica Neue": [
+      "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css"
+    ],
+    "ITC Avant Garde Gothic": [
+      "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css"
+    ],
+    "Recoleta": [
+      "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css"
+    ],
+    "Times New Roman": [
+      "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css"
+    ],
+    "font-primary": [
+      "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css"
+    ],
+    "font-secondary": [
+      "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css"
+    ],
+    "sans-serif": [
+      "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css"
+    ],
+    "sans-serif!important": [
+      "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css"
+    ],
+    "serif": [
+      "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://s3.us-west-2.amazonaws.com/static.smartcommerce.co/assets/client/Z4USXV/css/smartcart_poppi_us_prod.css",
+      "selector": "div[data-sc-id][data-sc-type=\"SmartButton\"] .custom-close-btn",
+      "declarations": "position: absolute;\n  top: -8px;\n  right: -8px;\n  font-size: 14px;\n  cursor: pointer;\n  z-index: 9999;\n  color: #333;\n  background: #fff;\n  border-radius: 50%;\n  width: 18px;\n  height: 18px;\n  display: flex;\n  align-items: center;\n  justify-content: center;"
+    },
+    {
+      "source": "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "selector": "body",
+      "declarations": "margin:0;font-family:font-primary,ITC Avant Garde Gothic,Helvetica Neue,Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;box-sizing:border-box;color:#222;background-color:var(--page-bg,#fff)"
+    },
+    {
+      "source": "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "font-family:font-secondary,Recoleta,Georgia,Times New Roman,serif"
+    },
+    {
+      "source": "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "selector": ":root",
+      "declarations": "--swiper-theme-color:#007aff"
+    },
+    {
+      "source": "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "selector": ":root",
+      "declarations": "--swiper-navigation-size:44px"
+    },
+    {
+      "source": "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "selector": ".swiper-button-next,.swiper-button-prev",
+      "declarations": "color:#000;opacity:.8"
+    },
+    {
+      "source": "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "selector": ".header_bar__N3OJA",
+      "declarations": "position:fixed;top:0;left:0;right:0;z-index:10001;height:80px;background-color:var(--color-primary,#ec008c);border-radius:0 0 24px 24px;-webkit-filter:drop-shadow(0 4px 32px var(--color-secondary,#fff200));filter:drop-shadow(0 4px 32px var(--color-secondary,#fff200));display:grid;grid-template-columns:1fr auto 1fr;-webkit-align-items:center;align-items:center;padding:0 32px;transition:-webkit-transform .3s ease;transition:transform .3s ease;transition:transform .3s ease,-webkit-transform .3s ease"
+    },
+    {
+      "source": "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "selector": ".header_bar__N3OJA",
+      "declarations": "background-color:var(--color-primary,#ec008c);padding:0 24px"
+    },
+    {
+      "source": "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "selector": ".header_navLink__IZ7_v",
+      "declarations": "color:var(--color-secondary,#fff200);font-family:font-primary,ITC Avant Garde Gothic,Helvetica Neue,Helvetica,Arial,sans-serif;font-weight:400;font-size:16px;line-height:24px;padding:0 8px;text-transform:lowercase;white-space:nowrap"
+    },
+    {
+      "source": "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "selector": ".header_navLink__IZ7_v:hover",
+      "declarations": "text-decoration:underline;-webkit-text-decoration-style:wavy;text-decoration-style:wavy;-webkit-text-decoration-color:currentColor;text-decoration-color:currentColor;text-underline-offset:5px"
+    },
+    {
+      "source": "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "selector": ".header_logoMark__OOV2P",
+      "declarations": "display:block;width:100px;height:auto;color:var(--logo-color,var(--color-secondary,#fff))"
+    },
+    {
+      "source": "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "selector": ".header_iconBtn__pZ3dl",
+      "declarations": "position:relative;display:-webkit-inline-flex;display:inline-flex;-webkit-justify-content:center;justify-content:center;background:none;border:none;padding:4px;cursor:pointer;color:var(--color-secondary,#fff);transition:opacity .15s ease"
+    },
+    {
+      "source": "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "selector": ".header_cartCount__qjnX_",
+      "declarations": "position:absolute;top:-2px;right:-4px;min-width:16px;height:16px;padding:0 4px;border-radius:999px;background-color:#e5fc0f;color:#111;font-family:font-primary,ITC Avant Garde Gothic,Helvetica Neue,Helvetica,Arial,sans-serif;font-size:10px;font-weight:700;line-height:16px;text-align:center"
+    },
+    {
+      "source": "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "selector": ".header_hamburger__MLpR5",
+      "declarations": "display:none;-webkit-flex-direction:column;flex-direction:column;-webkit-align-items:center;align-items:center;-webkit-justify-content:center;justify-content:center;gap:3px;width:32px;height:32px;border-radius:50%;background-color:var(--color-secondary,#fff200);border:none;cursor:pointer;padding:0"
+    },
+    {
+      "source": "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "selector": ".header_hamburger__MLpR5 span",
+      "declarations": "display:block;height:2px;width:18px;background-color:var(--color-primary,#ec008c)"
+    },
+    {
+      "source": "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "selector": ".header_marquee__ZBNWO",
+      "declarations": "position:absolute;top:85px;left:5px;right:5px;z-index:10000;height:40px;background-color:#cafe26;border-radius:5px;overflow:hidden"
+    },
+    {
+      "source": "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "selector": ".header_marqueeLink__I20vZ",
+      "declarations": "width:100%;height:100%;background-color:var(--color-primary,#cafe26)"
+    },
+    {
+      "source": "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "selector": ".header_marqueeItem__pRsYp",
+      "declarations": "display:-webkit-inline-flex;display:inline-flex;-webkit-align-items:center;align-items:center;color:var(--color-secondary,#027e34);font-family:font-primary,ITC Avant Garde Gothic,Helvetica Neue,Helvetica,Arial,sans-serif;font-size:16px;line-height:24px;text-transform:lowercase;white-space:nowrap"
+    },
+    {
+      "source": "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "selector": ".header_mobileDrawer__kR7yu",
+      "declarations": "position:fixed;top:80px;left:0;right:0;bottom:0;z-index:10001;background-color:var(--color-secondary,#fff200);overflow-y:auto"
+    },
+    {
+      "source": "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "selector": ".header_drawerLinks__oFk2e .header_navLink__IZ7_v",
+      "declarations": "color:var(--color-primary,#ec008c);font-size:24px;line-height:36px;padding:0"
+    },
+    {
+      "source": "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "selector": ".header_sdNameBar__hnkhD",
+      "declarations": "width:90%;margin-top:-8px;background:var(--sd-primary);color:var(--sd-secondary);text-align:center;padding:16px 0;font-family:font-secondary,Recoleta,Georgia,Times New Roman,serif;font-size:28px;font-weight:400;line-height:1;letter-spacing:-.02em"
+    },
+    {
+      "source": "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "selector": ".header_sdAdd__zxXUl[data-sc-id][data-sc-type=SmartButton]>.sc-btn-ec",
+      "declarations": "height:60px!important;min-height:60px;background:var(--sd-primary)!important;color:var(--sd-secondary)!important;border:2px solid var(--sd-secondary)!important;border-radius:999px!important;box-shadow:5px 5px 0 0 var(--sd-secondary);font-family:font-primary,ITC Avant Garde Gothic,Helvetica Neue,Helvetica,Arial,sans-serif!important;font-size:24px!important;font-weight:400!important;line-height:30px!important;letter-spacing:normal!important;text-align:center;text-transform:lowercase;cursor:pointer"
+    },
+    {
+      "source": "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "selector": ".header_sdAdd__zxXUl[data-sc-id][data-sc-type=SmartButton]>.sc-btn-ec:hover",
+      "declarations": "background:var(--sd-secondary)!important;color:var(--sd-primary)!important;box-shadow:none"
+    },
+    {
+      "source": "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "selector": ".header_sdArrows__xxM7y",
+      "declarations": "position:absolute;right:60px;display:-webkit-flex;display:flex;gap:8px;--color-primary:#fff200;--color-secondary:#ec008c"
+    },
+    {
+      "source": "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "selector": ".header_sdShopAll__KHlEu",
+      "declarations": "display:-webkit-flex;display:flex;-webkit-align-items:center;align-items:center;-webkit-justify-content:center;justify-content:center;min-width:296px;height:60px;box-sizing:border-box;padding:0 60px;border-radius:40px;background:#fff200;color:#ec008c;border:2px solid #ec008c;box-shadow:5px 5px 0 0 #ec008c;font-family:font-primary,ITC Avant Garde Gothic,Helvetica Neue,Helvetica,Arial,sans-serif;font-size:24px;line-height:36px;font-weight:400;text-transform:lowercase"
+    },
+    {
+      "source": "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "selector": ".header_accountItem__NxlXo",
+      "declarations": "display:block;width:100%;padding:10px 20px;border:none;background:none;color:var(--color-secondary,#fff);font-family:font-primary,ITC Avant Garde Gothic,Helvetica Neue,Helvetica,Arial,sans-serif;font-size:16px;line-height:20px;text-align:left;text-decoration:none;cursor:pointer;white-space:nowrap"
+    },
+    {
+      "source": "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "selector": ".header_drawerAccount__GVZKr .header_navLink__IZ7_v",
+      "declarations": "color:var(--color-primary,#ec008c);font-size:24px;line-height:36px;padding:0"
+    },
+    {
+      "source": "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "selector": ".footer_body__CY759",
+      "declarations": "background-color:var(--footer-bg,var(--color-secondary,#ec008c));color:var(--footer-text,var(--color-primary,#fff200));padding:40px 0"
+    },
+    {
+      "source": "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "selector": ".checkoutModal_content__A9SbN .checkoutModal_note__qV5Rt button",
+      "declarations": "color:inherit;text-decoration:underline"
+    },
+    {
+      "source": "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+      "selector": ".checkoutSubscriptionModal_content__Qc14P .checkoutSubscriptionModal_note___cqyu button",
+      "declarations": "color:inherit;font-family:inherit;text-decoration:underline"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "poppi",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.drinkpoppi.com/",
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://s3.us-west-2.amazonaws.com/static.smartcommerce.co/assets/client/Z4USXV/css/smartcart_poppi_us_prod.css",
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://s3.us-west-2.amazonaws.com/static.smartcommerce.co/assets/client/Z4USXV/css/smartcart_poppi_us_prod.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://s3.us-west-2.amazonaws.com/static.smartcommerce.co/assets/client/Z4USXV/css/smartcart_poppi_us_prod.css",
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.drinkpoppi.com/",
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css",
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/f65fc4f5a875be74.css"
+      ]
+    },
+    "colors.accent-lime": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.drinkpoppi.com/",
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css"
+      ]
+    },
+    "colors.accent-chartreuse": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.drinkpoppi.com/",
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css"
+      ]
+    },
+    "colors.deep-ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.production.decovostatic.com/next-static-live/poppi/_next/static/css/1a62b9300cee2038.css"
+      ]
+    },
+    "colors.border-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://s3.us-west-2.amazonaws.com/static.smartcommerce.co/assets/client/Z4USXV/css/smartcart_poppi_us_prod.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.benefit-callout": {
+      "status": "inferred"
+    }
+  }
+}

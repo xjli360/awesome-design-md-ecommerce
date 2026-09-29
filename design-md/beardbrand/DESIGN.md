@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Beardbrand
-description: A rugged yet refined grooming system for the modern bearded man, Beardbrand lives in a tactile, earthy palette anchored by a deep ink (#101010) and a warm off-white canvas (#f9f8f6). The brand's primary voltage is a muted teal (#108474), used sparingly on CTAs and accent elements, while a sharp accent yellow (#fbcd0a) and a softer sage (#c1e6e6) add unexpected moments of brightness. The typographic voice is a mix of the sturdy, geometric Space Grotesk for headlines and the approachable, humanist Nunito Sans for body copy, creating a tension between authority and friendliness. Generous use of soft hairlines (#eeeeee, #dddddd) and muted surfaces (#f9fafb, #f2f2f2) keeps the interface clean and editorial, letting product photography and the brand's signature beard oil bottles take center stage. The overall mood is one of deliberate, unpretentious craftsmanship — a barbershop that happens to be digital, with every corner softened by a consistent `{rounded.sm}` (8px) radius and every interaction feeling solid, not flashy.
+name: "Beardbrand"
+source_url: "https://www.beardbrand.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A rugged yet refined grooming system for the modern bearded man, Beardbrand lives in a tactile, earthy palette anchored by a deep ink (#101010) and a warm off-white canvas (#f9f8f6). The brand's primary voltage is a muted teal (#108474), used sparingly on CTAs and accent elements, while a sharp accent yellow (#fbcd0a) and a softer sage (#c1e6e6) add unexpected moments of brightness. The typographic voice is a mix of the sturdy, geometric Space Grotesk for headlines and the approachable, humanist Nunito Sans for body copy, creating a tension between authority and friendliness. Generous use of soft hairlines (#eeeeee, #dddddd) and muted surfaces (#f9fafb, #f2f2f2) keeps the interface clean and editorial, letting product photography and the brand's signature beard oil bottles take center stage. The overall mood is one of deliberate, unpretentious craftsmanship — a barbershop that happens to be digital, with every corner softened by a consistent `{rounded.sm}` (8px) radius and every interaction feeling solid, not flashy.
 
 colors:
   primary: "#108474"
@@ -291,6 +295,8 @@ components:
 - Product filters collapse into a slide-out drawer on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for text inputs and links were not fully extractable from the live site; assumed standard border/outline changes using the primary teal.
 - Error and success styling for form validation (e.g., red borders, green checkmarks) was not observed.

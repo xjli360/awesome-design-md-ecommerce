@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: ECM Records
-description: A deep blue #003388 — the color of a late-night studio session, of ECM's own catalog spine, of Manfred Eicher's sleeve notes — anchors a system that is deliberately austere, almost monastic. The canvas is not pure white but a faintly violet-warmed #fcfbfe, while surfaces stack in #e9e6ed and #cfc8d8, giving the interface the texture of aged paper or a well-worn LP sleeve. Type runs Univers (the ECM house face) at modest weights and sizes — display sits at 18–24px in weight 400/500, never shouting, letting the album art and the music do the work. Buttons are flat rectangles with `{rounded.none}` corners, typically outlined or filled in the signature blue, and the only rounded element is the search field's `{rounded.xs}`. The nav bar is a thin strip of #1e1e1e with white text, and the entire layout breathes through generous `{spacing.xxl}` gutters. There is no hero carousel, no autoplay video, no gradient — just a grid of square album covers, each a miniature artwork, with the catalog number set in `{typography.caption}` beneath. The brand's voice is that of a curator who trusts the object: the cover, the tracklist, the liner notes. Even the shop cart icon is a simple line drawing. ECM Records is not a storefront; it is a library, and the design makes you slow down.
+name: "ECM Records"
+source_url: "https://www.ecmrecords.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep blue #003388 — the color of a late-night studio session, of ECM's own catalog spine, of Manfred Eicher's sleeve notes — anchors a system that is deliberately austere, almost monastic. The canvas is not pure white but a faintly violet-warmed #fcfbfe, while surfaces stack in #e9e6ed and #cfc8d8, giving the interface the texture of aged paper or a well-worn LP sleeve. Type runs Univers (the ECM house face) at modest weights and sizes — display sits at 18–24px in weight 400/500, never shouting, letting the album art and the music do the work. Buttons are flat rectangles with `{rounded.none}` corners, typically outlined or filled in the signature blue, and the only rounded element is the search field's `{rounded.xs}`. The nav bar is a thin strip of #1e1e1e with white text, and the entire layout breathes through generous `{spacing.xxl}` gutters. There is no hero carousel, no autoplay video, no gradient — just a grid of square album covers, each a miniature artwork, with the catalog number set in `{typography.caption}` beneath. The brand's voice is that of a curator who trusts the object: the cover, the tracklist, the liner notes. Even the shop cart icon is a simple line drawing. ECM Records is not a storefront; it is a library, and the design makes you slow down.
 
 colors:
   primary: "#003388"
@@ -348,6 +352,8 @@ components:
 - The product grid collapses from 3-4 columns to 1 column on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components (only primary and secondary buttons have documented hover states).
 - Error styling for form inputs (red border, error message text).

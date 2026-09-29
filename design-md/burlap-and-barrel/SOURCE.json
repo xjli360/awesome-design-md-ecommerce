@@ -1,0 +1,845 @@
+{
+  "source_url": "https://burlapandbarrel.com",
+  "final_url": "https://www.burlapandbarrel.com/",
+  "captured_at": "2026-09-28T04:32:13.044446+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://burlapandbarrel.com",
+      "final_url": "https://www.burlapandbarrel.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "a6d462da16e1d1186eeee850479f1d1edcd984ec600f94bb4252f942e0ba289e",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363",
+      "final_url": "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9e844b108e7670fa96756b05781c48c130bfcb64326bdc66f533cca1fac92ee1",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+      "final_url": "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "799aeb25cc0373fdee0e1b1db7ad6c2f6a0e058dfadaa3379689f583213190bd",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.burlapandbarrel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.burlapandbarrel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/animate-on-scroll.css?v=116194678796051782541758637809",
+      "final_url": "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/animate-on-scroll.css?v=116194678796051782541758637809",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c95916b88a9a93fa9a8ec7eed9d4f66f6caec7142bd47c40c7f9587ddc9c5b3b",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/design-pack-styles.css?v=108337400465735395681785359359",
+      "final_url": "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/design-pack-styles.css?v=108337400465735395681785359359",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "da235497f8ddc81ff0cb457e204286b4c23ebc1971c52fb7fdc51e8f288e3a75",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 66,
+      "sources": [
+        "https://www.burlapandbarrel.com/",
+        "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363",
+        "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+        "https://www.burlapandbarrel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#7f2629": {
+      "count": 13,
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "#333333": {
+      "count": 8,
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "#121212": {
+      "count": 7,
+      "sources": [
+        "https://www.burlapandbarrel.com/",
+        "https://www.burlapandbarrel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#000000": {
+      "count": 5,
+      "sources": [
+        "https://www.burlapandbarrel.com/",
+        "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363",
+        "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/design-pack-styles.css?v=108337400465735395681785359359"
+      ]
+    },
+    "#0000001a": {
+      "count": 5,
+      "sources": [
+        "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 4,
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "#a2252a": {
+      "count": 4,
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "#3d4246": {
+      "count": 3,
+      "sources": [
+        "https://www.burlapandbarrel.com/",
+        "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363"
+      ]
+    },
+    "#1199ff": {
+      "count": 3,
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "#ffff00": {
+      "count": 3,
+      "sources": [
+        "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/design-pack-styles.css?v=108337400465735395681785359359"
+      ]
+    },
+    "#e1e1e1": {
+      "count": 2,
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "#f6a430": {
+      "count": 2,
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "#e88800": {
+      "count": 2,
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 2,
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "#781c1f": {
+      "count": 2,
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "#f9f8f4": {
+      "count": 2,
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "#467c99": {
+      "count": 2,
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "#38637a": {
+      "count": 2,
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "#90b0c2": {
+      "count": 2,
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.burlapandbarrel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.burlapandbarrel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "#c7e9fe": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "#ececed": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "#fff8ed": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "#1877f2": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "#f09433": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "#e6683c": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "#dc2743": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "#cc2366": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "#bc1888": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "#ea4335": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "#6b96ad": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "#b5cbd6": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "#d1dee6": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "#e3ebf0": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "#e4e4e4": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363"
+      ]
+    },
+    "#00000026": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363"
+      ]
+    },
+    "#d8d8d8": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363"
+      ]
+    },
+    "#777777": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363"
+      ]
+    },
+    "#d5d5d5": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363"
+      ]
+    },
+    "#00000040": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363"
+      ]
+    },
+    "#ffffff00": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363"
+      ]
+    },
+    "#80808985": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363"
+      ]
+    },
+    "#e0e7fa": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363"
+      ]
+    },
+    "#021b6e": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363"
+      ]
+    },
+    "#0538d9": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363"
+      ]
+    },
+    "#dff0dc": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363"
+      ]
+    },
+    "#0a4800": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363"
+      ]
+    },
+    "#148b00": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363"
+      ]
+    },
+    "#fce0ee": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363"
+      ]
+    },
+    "#660534": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363"
+      ]
+    },
+    "#c00c60": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363"
+      ]
+    },
+    "#eeeeee": {
+      "count": 1,
+      "sources": [
+        "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.burlapandbarrel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "FontAwesome": [
+      "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+    ],
+    "Monthoers": [
+      "https://www.burlapandbarrel.com/",
+      "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363"
+    ],
+    "Monthoers Clean": [
+      "https://www.burlapandbarrel.com/"
+    ],
+    "Monthoers Fallback": [
+      "https://www.burlapandbarrel.com/",
+      "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363"
+    ],
+    "Poppins": [
+      "https://www.burlapandbarrel.com/"
+    ],
+    "Recoleta DEMO": [
+      "https://www.burlapandbarrel.com/",
+      "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363"
+    ],
+    "Times": [
+      "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363"
+    ],
+    "icons": [
+      "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363"
+    ],
+    "sans-serif": [
+      "https://www.burlapandbarrel.com/",
+      "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363"
+    ],
+    "serif": [
+      "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.burlapandbarrel.com/",
+      "selector": ":root",
+      "declarations": "--reading-width: 36em;"
+    },
+    {
+      "source": "https://www.burlapandbarrel.com/",
+      "selector": ":root,\n.lm--theme--light,\n.lm--theme--dark",
+      "declarations": "--lm--base-scale: 1.0;"
+    },
+    {
+      "source": "https://www.burlapandbarrel.com/",
+      "selector": ".header",
+      "declarations": "--bg-color: 255 255 255;\n  --text-color: 61 66 70;\n  --nav-bg-color: 255 255 255;\n  --nav-text-color: 61 66 70;\n  --nav-child-bg-color:  255 255 255;\n  --nav-child-text-color: 61 66 70;\n  --header-accent-color: 119 119 119;\n  --search-bg-color: #ececed;"
+    },
+    {
+      "source": "https://www.burlapandbarrel.com/",
+      "selector": ".flickity-button",
+      "declarations": "position:absolute;background:hsla(0,0%,100%,.75);border:none;color:#333"
+    },
+    {
+      "source": "https://www.burlapandbarrel.com/",
+      "selector": ".DP--template--25844804583795__design_pack_announcement_slider_yjw8LV .flickity-button-icon",
+      "declarations": "padding: 0;  transform: none;  color: var(--arrow-color);"
+    },
+    {
+      "source": "https://www.burlapandbarrel.com/",
+      "selector": ".flickity-button",
+      "declarations": "position:absolute;background:hsla(0,0%,100%,.75);border:none;color:#333"
+    },
+    {
+      "source": "https://www.burlapandbarrel.com/",
+      "selector": ".DP--template--25844804583795__design_pack_slideshow_with_text_CQzwhU .dsgn-pck__inner-content--slideshow .dsgn-pck__button",
+      "declarations": "margin-top: 1.2em;  display: inline-block;  text-decoration: none;  padding: 0.5em 1.2em;  transition: all 0.3s ease-in-out;  border-radius: px;  font-size: calc(var(--dp-g-body-size, var(--dp-body-size, 18px)) * 1.1);  color: ;  background-color: ;font-family: var(--main-font);  font-weight: var(--main-font-weight);  font-style: var(--main-font-style);"
+    },
+    {
+      "source": "https://www.burlapandbarrel.com/",
+      "selector": ".DP--template--25844804583795__design_pack_slideshow_with_text_CQzwhU .dsgn-pck__inner-content--slideshow .dsgn-pck__button:hover",
+      "declarations": "opacity: 1;background-color: ;  border-color: transparent;;"
+    },
+    {
+      "source": "https://www.burlapandbarrel.com/",
+      "selector": ".DP--template--25844804583795__design_pack_slideshow_with_text_CQzwhU .dsgn-pck__slider .flickity-button",
+      "declarations": "background: transparent;  color: var(--slideshow-color);  transition: all 0.3s ease-in-out;"
+    },
+    {
+      "source": "https://www.burlapandbarrel.com/",
+      "selector": "#DP--slide_D3gTMp .dsgn-pck__button",
+      "declarations": "border: thin solid;                border-color:#ffffff;                color: #ffffff;                background-color: rgba(0,0,0,0);"
+    },
+    {
+      "source": "https://www.burlapandbarrel.com/",
+      "selector": "#DP--slide_D3gTMp .dsgn-pck__button:hover",
+      "declarations": "background-color: rgba(255, 255, 255, 0.1);"
+    },
+    {
+      "source": "https://www.burlapandbarrel.com/",
+      "selector": "#DP--slide_3wWHBt .dsgn-pck__button",
+      "declarations": "border: thin solid;                border-color:#ffffff;                color: #ffffff;                background-color: rgba(0,0,0,0);"
+    },
+    {
+      "source": "https://www.burlapandbarrel.com/",
+      "selector": "#DP--slide_3wWHBt .dsgn-pck__button:hover",
+      "declarations": "background-color: rgba(255, 255, 255, 0.1);"
+    },
+    {
+      "source": "https://www.burlapandbarrel.com/",
+      "selector": "#DP--slide_CYa4Ny .dsgn-pck__button",
+      "declarations": "border: thin solid;                border-color:#ffffff;                color: #ffffff;                background-color: rgba(0,0,0,0);"
+    },
+    {
+      "source": "https://www.burlapandbarrel.com/",
+      "selector": "#DP--slide_CYa4Ny .dsgn-pck__button:hover",
+      "declarations": "background-color: rgba(255, 255, 255, 0.1);"
+    },
+    {
+      "source": "https://www.burlapandbarrel.com/",
+      "selector": "#DP--slide_LYX4pL .dsgn-pck__button",
+      "declarations": "border: thin solid;                border-color:#ffffff;                color: #ffffff;                background-color: rgba(0,0,0,0);"
+    },
+    {
+      "source": "https://www.burlapandbarrel.com/",
+      "selector": "#DP--slide_LYX4pL .dsgn-pck__button:hover",
+      "declarations": "background-color: rgba(255, 255, 255, 0.1);"
+    },
+    {
+      "source": "https://www.burlapandbarrel.com/",
+      "selector": "#DP--slide_kKXxcz .dsgn-pck__button",
+      "declarations": "border: thin solid;                border-color:#ffffff;                color: #ffffff;                background-color: rgba(0,0,0,0);"
+    },
+    {
+      "source": "https://www.burlapandbarrel.com/",
+      "selector": "#DP--slide_kKXxcz .dsgn-pck__button:hover",
+      "declarations": "background-color: rgba(255, 255, 255, 0.1);"
+    },
+    {
+      "source": "https://www.burlapandbarrel.com/",
+      "selector": ".dsgn-pck__block-id-buttons_pbAnfT .dsgn-pck__button",
+      "declarations": "display: flex;                      justify-content: center;                      align-items: center;                      text-align: center;                      text-decoration: none;                      padding: var(--dp-button-padding, 0.5em 1.2em);                      margin-top: 0;                      border: thin solid;                      transition: all 0.3s ease-in-out;                      border-radius: 10px;                      line-height: var(--dp-g-button-line-height, var(--dp-button-line-height, calc(3px + 2ex + 3px)));                      font-size: calc(var(--dp-g-body-size, var(--dp-body-size, 18px)) * 1.1);font-family: var(--main-font);                      font-"
+    },
+    {
+      "source": "https://www.burlapandbarrel.com/",
+      "selector": ".dsgn-pck__block-id-buttons_pbAnfT .dsgn-pck__button-primary",
+      "declarations": "color: #7f2629;                      border-color:#ffffff;                      background-color: #ffffff;"
+    },
+    {
+      "source": "https://www.burlapandbarrel.com/",
+      "selector": ".dsgn-pck__block-id-buttons_pbAnfT .dsgn-pck__button-secondary",
+      "declarations": "color: #ffffff;                      border-color:#121212;                      background-color: #121212;"
+    },
+    {
+      "source": "https://www.burlapandbarrel.com/",
+      "selector": ".dsgn-pck__block-id-buttons_pbAnfT .dsgn-pck__button-primary:hover",
+      "declarations": "opacity: 1;background-color: #e6e6e6;                      border-color: transparent;;"
+    },
+    {
+      "source": "https://www.burlapandbarrel.com/",
+      "selector": ".dsgn-pck__block-id-buttons_pbAnfT .dsgn-pck__button-secondary:hover",
+      "declarations": "opacity: 1;background-color: #000000;                      border-color: transparent;;"
+    },
+    {
+      "source": "https://www.burlapandbarrel.com/",
+      "selector": ".dsgn-pck__block-id-buttons_LPrkLk .dsgn-pck__button-primary",
+      "declarations": "color: #ffffff;                        border-color:#a2252a;                        background-color: #a2252a;"
+    },
+    {
+      "source": "https://www.burlapandbarrel.com/",
+      "selector": ".dsgn-pck__block-id-buttons_LPrkLk .dsgn-pck__button-secondary",
+      "declarations": "color: #ffffff;                        border-color:#a2252a;                        background-color: #a2252a;"
+    },
+    {
+      "source": "https://www.burlapandbarrel.com/",
+      "selector": ".dsgn-pck__block-id-buttons_LPrkLk .dsgn-pck__button-primary:hover",
+      "declarations": "opacity: 1;background-color: #781c1f;                        border-color: transparent;;"
+    },
+    {
+      "source": "https://www.burlapandbarrel.com/",
+      "selector": ".dsgn-pck__block-id-buttons_LPrkLk .dsgn-pck__button-secondary:hover",
+      "declarations": "opacity: 1;background-color: #781c1f;                        border-color: transparent;;"
+    },
+    {
+      "source": "https://www.burlapandbarrel.com/",
+      "selector": ".flickity-button",
+      "declarations": "position:absolute;background:hsla(0,0%,100%,.75);border:none;color:#333"
+    },
+    {
+      "source": "https://www.burlapandbarrel.com/",
+      "selector": ".DP--template--25844804583795__design_pack_announcement_slider_akDYFg .flickity-button-icon",
+      "declarations": "padding: 0;  transform: none;  color: var(--arrow-color);"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Burlap & Barrel: Single Origin Spices | As Seen on Shark Tank",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "colors.accent-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "colors.highlight": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.burlapandbarrel.com/",
+        "https://www.burlapandbarrel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.burlapandbarrel.com/",
+        "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.burlapandbarrel.com/",
+        "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363",
+        "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+        "https://www.burlapandbarrel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "colors.surface-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.burlapandbarrel.com/",
+        "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363",
+        "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+        "https://www.burlapandbarrel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "colors.search-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.burlapandbarrel.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.burlapandbarrel.com/",
+        "https://www.burlapandbarrel.com/cdn/shop/t/222/assets/main.css?v=25366090922709652361789948363",
+        "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+        "https://www.burlapandbarrel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.origin-badge": {
+      "status": "inferred"
+    }
+  }
+}

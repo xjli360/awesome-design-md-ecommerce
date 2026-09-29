@@ -1,0 +1,862 @@
+{
+  "source_url": "https://www.collingsguitars.com",
+  "final_url": "https://collingsguitars.com/",
+  "captured_at": "2026-09-28T04:06:07.725048+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.collingsguitars.com",
+      "final_url": "https://collingsguitars.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "1a7d6ad66420ffcf3f7689c5f8385e19ea7b36546534caea326ce595603b955d",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400&family=Oswald:wght@200;300;400;500;600;700&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400&family=Oswald:wght@200;300;400;500;600;700&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "84acb9914f9f32e034822d1ffddff5d7ea261747a3415d8f000a924a48d3c067",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+      "final_url": "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c9969fccc33b7ae77b3a96610b0bfda3e31b1c7d4d1ff89942adb0286529cce6",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5",
+      "final_url": "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2e90d0b6009fa379e465d3e577789932891629c5923da4d6590dafd1c6138587",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/theme-components.min.css?ver=2.10.5",
+      "final_url": "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/theme-components.min.css?ver=2.10.5",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.10.5",
+      "final_url": "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.10.5",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3a027e22e4afce126b58987b4c030741a69e9eada4b49c29f63cb8657e1113e3",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 125,
+      "sources": [
+        "https://collingsguitars.com/",
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5",
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.10.5"
+      ]
+    },
+    "#020202": {
+      "count": 29,
+      "sources": [
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 26,
+      "sources": [
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997"
+      ]
+    },
+    "#efefef": {
+      "count": 26,
+      "sources": [
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997"
+      ]
+    },
+    "#000000": {
+      "count": 23,
+      "sources": [
+        "https://collingsguitars.com/",
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.10.5"
+      ]
+    },
+    "#dfdfdf": {
+      "count": 21,
+      "sources": [
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997"
+      ]
+    },
+    "#c02b0a": {
+      "count": 18,
+      "sources": [
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.10.5"
+      ]
+    },
+    "#dddddd": {
+      "count": 15,
+      "sources": [
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5",
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.10.5"
+      ]
+    },
+    "#607382": {
+      "count": 15,
+      "sources": [
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.10.5"
+      ]
+    },
+    "#2a2a2a": {
+      "count": 12,
+      "sources": [
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 11,
+      "sources": [
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997"
+      ]
+    },
+    "#eeeeee": {
+      "count": 10,
+      "sources": [
+        "https://collingsguitars.com/",
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5",
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.10.5"
+      ]
+    },
+    "#767676": {
+      "count": 10,
+      "sources": [
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5",
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.10.5"
+      ]
+    },
+    "#cccccc": {
+      "count": 10,
+      "sources": [
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5",
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.10.5"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 10,
+      "sources": [
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997"
+      ]
+    },
+    "#4f4f4f": {
+      "count": 8,
+      "sources": [
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997"
+      ]
+    },
+    "#fafafa": {
+      "count": 8,
+      "sources": [
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.10.5"
+      ]
+    },
+    "#141414": {
+      "count": 7,
+      "sources": [
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997"
+      ]
+    },
+    "#888888": {
+      "count": 7,
+      "sources": [
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997"
+      ]
+    },
+    "#434960": {
+      "count": 6,
+      "sources": [
+        "https://collingsguitars.com/"
+      ]
+    },
+    "#202020": {
+      "count": 6,
+      "sources": [
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997"
+      ]
+    },
+    "#dadada": {
+      "count": 6,
+      "sources": [
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 6,
+      "sources": [
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5"
+      ]
+    },
+    "#1c1e1e": {
+      "count": 5,
+      "sources": [
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997"
+      ]
+    },
+    "#e6db55": {
+      "count": 5,
+      "sources": [
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5"
+      ]
+    },
+    "#d2d6dc": {
+      "count": 5,
+      "sources": [
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.10.5"
+      ]
+    },
+    "#999999": {
+      "count": 4,
+      "sources": [
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 4,
+      "sources": [
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997"
+      ]
+    },
+    "#c8c8c8": {
+      "count": 4,
+      "sources": [
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 4,
+      "sources": [
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 4,
+      "sources": [
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5",
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.10.5"
+      ]
+    },
+    "#fffbcc": {
+      "count": 4,
+      "sources": [
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5"
+      ]
+    },
+    "#424242": {
+      "count": 4,
+      "sources": [
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5"
+      ]
+    },
+    "#757575": {
+      "count": 4,
+      "sources": [
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.10.5"
+      ]
+    },
+    "#ff6900": {
+      "count": 3,
+      "sources": [
+        "https://collingsguitars.com/"
+      ]
+    },
+    "#d4d4d4": {
+      "count": 3,
+      "sources": [
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5"
+      ]
+    },
+    "#222222": {
+      "count": 3,
+      "sources": [
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5"
+      ]
+    },
+    "#2f4054": {
+      "count": 3,
+      "sources": [
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.10.5"
+      ]
+    },
+    "#32373c": {
+      "count": 2,
+      "sources": [
+        "https://collingsguitars.com/"
+      ]
+    },
+    "#cf2e2e": {
+      "count": 2,
+      "sources": [
+        "https://collingsguitars.com/"
+      ]
+    },
+    "#fcb900": {
+      "count": 2,
+      "sources": [
+        "https://collingsguitars.com/"
+      ]
+    },
+    "#0693e3": {
+      "count": 2,
+      "sources": [
+        "https://collingsguitars.com/"
+      ]
+    },
+    "#9b51e0": {
+      "count": 2,
+      "sources": [
+        "https://collingsguitars.com/"
+      ]
+    },
+    "#b3d4fc": {
+      "count": 2,
+      "sources": [
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997"
+      ]
+    },
+    "#d1d4d6": {
+      "count": 2,
+      "sources": [
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 2,
+      "sources": [
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.10.5"
+      ]
+    },
+    "#060606": {
+      "count": 2,
+      "sources": [
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997"
+      ]
+    },
+    "#f04040": {
+      "count": 2,
+      "sources": [
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5"
+      ]
+    },
+    "#ff853c": {
+      "count": 2,
+      "sources": [
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5"
+      ]
+    },
+    "#ffcc00": {
+      "count": 2,
+      "sources": [
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5"
+      ]
+    },
+    "#8dff1c": {
+      "count": 2,
+      "sources": [
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5"
+      ]
+    },
+    "#444444": {
+      "count": 2,
+      "sources": [
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5"
+      ]
+    },
+    "#3875d7": {
+      "count": 2,
+      "sources": [
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 2,
+      "sources": [
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5"
+      ]
+    },
+    "#5897fb": {
+      "count": 2,
+      "sources": [
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5"
+      ]
+    },
+    "#003300": {
+      "count": 2,
+      "sources": [
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5"
+      ]
+    },
+    "#ddffbb": {
+      "count": 2,
+      "sources": [
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5"
+      ]
+    },
+    "#fffce5": {
+      "count": 2,
+      "sources": [
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5"
+      ]
+    },
+    "#a7c37c": {
+      "count": 2,
+      "sources": [
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5"
+      ]
+    },
+    "#dbf2b7": {
+      "count": 2,
+      "sources": [
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997"
+    ],
+    "BlinkMacSystemFont": [
+      "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997"
+    ],
+    "Cantarell": [
+      "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997"
+    ],
+    "Droid Sans": [
+      "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997"
+    ],
+    "Fira Sans": [
+      "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997"
+    ],
+    "Helvetica Neue": [
+      "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997"
+    ],
+    "Montserrat": [
+      "https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400&family=Oswald:wght@200;300;400;500;600;700&display=swap",
+      "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997"
+    ],
+    "Oswald": [
+      "https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,400&family=Oswald:wght@200;300;400;500;600;700&display=swap",
+      "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997"
+    ],
+    "Oxygen": [
+      "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997"
+    ],
+    "Roboto": [
+      "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997"
+    ],
+    "Segoe UI": [
+      "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997"
+    ],
+    "Ubuntu": [
+      "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997"
+    ],
+    "gform-icons-common!important": [
+      "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.10.5"
+    ],
+    "gform-icons-theme": [
+      "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5",
+      "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.10.5"
+    ],
+    "gform-icons-theme!important": [
+      "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5",
+      "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.10.5"
+    ],
+    "monospace": [
+      "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997"
+    ],
+    "sans-serif": [
+      "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+      "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://collingsguitars.com/",
+      "selector": ".wp-block-button__link",
+      "declarations": "color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em"
+    },
+    {
+      "source": "https://collingsguitars.com/",
+      "selector": ".wp-block-file__button",
+      "declarations": "background:#32373c;color:#fff;text-decoration:none"
+    },
+    {
+      "source": "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+      "selector": "button, input, optgroup, select, textarea",
+      "declarations": "color: inherit;  font: inherit;  margin: 0;"
+    },
+    {
+      "source": "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+      "selector": "button, input, select, textarea",
+      "declarations": "background-color: transparent;"
+    },
+    {
+      "source": "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+      "selector": "button, input, select, textarea",
+      "declarations": "color: inherit; font-family: inherit; font-style: inherit; font-weight: inherit;"
+    },
+    {
+      "source": "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+      "selector": "body",
+      "declarations": "font: 400 1rem/1.8888888889 \"Montserrat\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", \"Roboto\", \"Oxygen\", \"Ubuntu\", \"Cantarell\", \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif; color: #000000; background-color: #f8f8f8;"
+    },
+    {
+      "source": "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+      "selector": ".page-404 h1",
+      "declarations": "font-size: 25vw; letter-spacing: -1vw; line-height: 6vw; margin: 0; color: #dddddd;"
+    },
+    {
+      "source": "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+      "selector": "dialog[open] .dialog-controls button",
+      "declarations": "font-size: 2rem; padding: 0.5rem; margin: 0; color: #ffffff; position: absolute; top: 50%; -webkit-transform: translateY(-50%); transform: translateY(-50%);"
+    },
+    {
+      "source": "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+      "selector": "body",
+      "declarations": "--top: 0.001rem;"
+    },
+    {
+      "source": "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+      "selector": "body.admin-bar",
+      "declarations": "--top: 32px;"
+    },
+    {
+      "source": "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+      "selector": "body.admin-bar",
+      "declarations": "--top: 46px;"
+    },
+    {
+      "source": "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+      "selector": ".main-header",
+      "declarations": "background-color: #020202; padding: 1rem 0; color: #ffffff; z-index: 998; text-align: center; position: relative; -webkit-transition: background 0.5s; transition: background 0.5s;"
+    },
+    {
+      "source": "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+      "selector": ".main-header.expanded",
+      "declarations": "position: fixed; background-color: #020202; width: 100%;"
+    },
+    {
+      "source": "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+      "selector": "body.post-type-archive-custom-craft .main-header:not(.expanded), body.page-template-default .main-header:not(.expanded), body.page-template-page-shoptour .main-",
+      "declarations": "position: absolute; background-color: transparent; width: 100%;"
+    },
+    {
+      "source": "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+      "selector": "nav.header-nav .menu-icon div",
+      "declarations": "background-color: #ffffff; height: 2px; width: 35px; -webkit-transition: all 0.3s; transition: all 0.3s;"
+    },
+    {
+      "source": "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+      "selector": "nav.header-nav #header-menus",
+      "declarations": "display: none; background-color: #020202; -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column; position: absolute; left: 0; right: 0; top: 100%; z-index: 999; padding: 2rem 1rem;"
+    },
+    {
+      "source": "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+      "selector": "-navigation > li span:hover, nav.header-nav ul.secondary-navigation > li span:focus, nav.header-nav ul.secondary-navigation > li button:hover, nav.header-nav ul",
+      "declarations": "text-decoration: none; background-color: #141414;"
+    },
+    {
+      "source": "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+      "selector": "-navigation > li span:hover, nav.header-nav ul.secondary-navigation > li span:focus, nav.header-nav ul.secondary-navigation > li button:hover, nav.header-nav ul",
+      "declarations": "background-color: transparent;"
+    },
+    {
+      "source": "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+      "selector": "nav.header-nav ul.primary-navigation > li > ul.sub-menu, nav.header-nav ul.secondary-navigation > li > ul.sub-menu",
+      "declarations": "display: none; background-color: #ffffff; position: absolute; top: 100%; left: 0; right: 0; padding: 0; margin: 0; -webkit-box-pack: center; -ms-flex-pack: center; justify-content: center; text-align: left; border-bottom: 1px solid #dddddd; -webkit-box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.35); box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.35);"
+    },
+    {
+      "source": "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+      "selector": "nav.header-nav ul.primary-navigation > li > ul.sub-menu > li.bottom-link, nav.header-nav ul.secondary-navigation > li > ul.sub-menu > li.bottom-link",
+      "declarations": "position: absolute; top: 100%; padding: 2px 0 4px; text-align: center; background-color: #f1f1f1; -webkit-box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.35); box-shadow: 0px 10px 15px -3px rgba(0, 0, 0, 0.35);"
+    },
+    {
+      "source": "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+      "selector": "-nav ul.secondary-navigation > li > ul.sub-menu > li > a, nav.header-nav ul.secondary-navigation > li > ul.sub-menu > li > button, nav.header-nav ul.secondary-n",
+      "declarations": "font: 600 1.2222222222rem/1.3636363636 \"Oswald\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", \"Roboto\", \"Oxygen\", \"Ubuntu\", \"Cantarell\", \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif; text-transform: uppercase; color: #020202; letter-spacing: -0.15px; padding: 2rem 1.5rem 0; border-left: 1px solid #efefef;"
+    },
+    {
+      "source": "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+      "selector": "vigation > li > ul.sub-menu > li > button:focus, nav.header-nav ul.secondary-navigation > li > ul.sub-menu > li > div:hover, nav.header-nav ul.secondary-navigat",
+      "declarations": "background-color: transparent;"
+    },
+    {
+      "source": "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+      "selector": "nav.header-nav ul.primary-navigation > li > ul.sub-menu li button, nav.header-nav ul.secondary-navigation > li > ul.sub-menu li a, nav.header-nav ul.secondary-n",
+      "declarations": "color: #020202;"
+    },
+    {
+      "source": "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+      "selector": "nav.header-nav ul.primary-navigation > li > ul.sub-menu.expanded, nav.header-nav ul.secondary-navigation > li > ul.sub-menu.expanded",
+      "declarations": "position: static; background-color: #0f0f0f; border-bottom: none; -webkit-box-orient: vertical; -webkit-box-direction: normal; -ms-flex-direction: column; flex-direction: column; text-align: center; padding-bottom: 0; border-top: 1px solid #1a1a1a;"
+    },
+    {
+      "source": "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+      "selector": "panded > li.bottom-link a, nav.header-nav ul.secondary-navigation > li > ul.sub-menu.expanded > li .menu-heading, nav.header-nav ul.secondary-navigation > li > ",
+      "declarations": "font: 600 0.7777777778rem/1.4285714286 \"Montserrat\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", \"Roboto\", \"Oxygen\", \"Ubuntu\", \"Cantarell\", \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif; text-transform: none; letter-spacing: normal; text-decoration: none; color: #ffffff; border: none; padding: 0.75rem 0; display: block;"
+    },
+    {
+      "source": "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+      "selector": "tion > li > ul.sub-menu.expanded > li button, nav.header-nav ul.secondary-navigation > li > ul.sub-menu.expanded > li a, nav.header-nav ul.secondary-navigation ",
+      "declarations": "color: #ffffff;"
+    },
+    {
+      "source": "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+      "selector": "_wrapper .gform_body .gform_page_footer .gform_next_button, body .gform_wrapper .gform_body .gform_page_footer .gform_previous_button, body .gform_wrapper .gfor",
+      "declarations": "font: 700 0.8888888889rem/1.625 \"Montserrat\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", \"Roboto\", \"Oxygen\", \"Ubuntu\", \"Cantarell\", \"Fira Sans\", \"Droid Sans\", \"Helvetica Neue\", sans-serif; letter-spacing: 1.7px; display: inline-block; text-decoration: none; margin: 1rem 0; cursor: pointer; background-color: #1a1a1a; color: #ffffff; text-transform: uppercase; padding: 0.75em 2em; border-radius: 0; -webkit-transition: all 0.3s ease-in-out; transition: all 0.3s ease-in-out;"
+    },
+    {
+      "source": "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+      "selector": "rm_body .gform_page_footer .gform_previous_button:focus, body .gform_wrapper .gform_body .gform_page_footer .gform_button:hover, body .gform_wrapper .gform_body",
+      "declarations": "background-color: #000000; text-decoration: none;"
+    },
+    {
+      "source": "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+      "selector": "dy .gform_page_footer .gform_next_button.light, body .gform_wrapper .gform_body .gform_page_footer .gform_previous_button.light, body .gform_wrapper .gform_body",
+      "declarations": "background-color: #ffffff; color: #1a1a1a;"
+    },
+    {
+      "source": "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+      "selector": "e_footer .gform_previous_button.light:focus, body .gform_wrapper .gform_body .gform_page_footer .gform_button.light:hover, body .gform_wrapper .gform_body .gfor",
+      "declarations": "background-color: #efefef;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Collings Guitars | Custom Handmade Guitars & Mandolins",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://collingsguitars.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://collingsguitars.com/",
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.10.5"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://collingsguitars.com/",
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.10.5"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5",
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.10.5"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5",
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.10.5"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://collingsguitars.com/",
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5",
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.10.5"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://collingsguitars.com/",
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5",
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.10.5"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://collingsguitars.com/",
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997",
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/basic.min.css?ver=2.10.5",
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.10.5"
+      ]
+    },
+    "colors.header": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997"
+      ]
+    },
+    "colors.header-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://collingsguitars.com/wp-content/themes/collings/dist/css/style.css?ver=1779487997"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://collingsguitars.com/wp-content/plugins/gravityforms/assets/css/dist/theme.min.css?ver=2.10.5"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.gallery-lightbox": {
+      "status": "inferred"
+    }
+  }
+}

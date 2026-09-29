@@ -1,0 +1,2049 @@
+{
+  "source_url": "https://bluebath.com",
+  "final_url": "https://www.bluebath.com/",
+  "captured_at": "2026-09-29T04:07:14.896177+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://bluebath.com",
+      "final_url": "https://www.bluebath.com/",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "286bb2a5ab3d918301dfada6c5a4cb5ac0c58e8b969abcbeae45ef3041f8cc0e",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css",
+      "final_url": "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e141182422dd23725f293956a8de49496b05f75ebb53b5d79345be9d28c9b1ed",
+      "snapshot": "rendered-style-1.css"
+    },
+    {
+      "url": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "final_url": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6ca10462f8b37137bd2425610ad054734381277509ece7e65479206f9efda963",
+      "snapshot": "rendered-style-2.css"
+    },
+    {
+      "url": "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/css/critical.min.css",
+      "final_url": "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/css/critical.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "73bdc5f82af2050c4e7dd2bf25b33e80bb8f4aab271fbde8375ffe48654218cc",
+      "snapshot": "rendered-style-3.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Geist:wght@400;600;700&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Geist:wght@400;600;700&display=swap",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "29a7f0f2602a42c306c46e218530eb83423c9999c5d7778eeae7990fecd8c08f",
+      "snapshot": "rendered-style-4.css"
+    },
+    {
+      "url": "https://www.bluebath.com/#computed-style-snapshot",
+      "final_url": "https://www.bluebath.com/#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "4b1295744d52f8659d1e12c4b1827b0e766cb8adc439a94c16a0943810164392",
+      "snapshot": "rendered-style-5.css"
+    }
+  ],
+  "colors": {
+    "#006bb4": {
+      "count": 325,
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/css/critical.min.css",
+        "https://www.bluebath.com/#computed-style-snapshot"
+      ]
+    },
+    "#ffffff": {
+      "count": 233,
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css",
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/css/critical.min.css",
+        "https://www.bluebath.com/#computed-style-snapshot"
+      ]
+    },
+    "#374151": {
+      "count": 171,
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css",
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+        "https://www.bluebath.com/#computed-style-snapshot"
+      ]
+    },
+    "#000000": {
+      "count": 108,
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/css/critical.min.css",
+        "https://www.bluebath.com/#computed-style-snapshot"
+      ]
+    },
+    "#333333": {
+      "count": 79,
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/css/critical.min.css"
+      ]
+    },
+    "#d1d1d1": {
+      "count": 77,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#222222": {
+      "count": 74,
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css",
+        "https://www.bluebath.com/#computed-style-snapshot"
+      ]
+    },
+    "#1565c0": {
+      "count": 48,
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/#computed-style-snapshot"
+      ]
+    },
+    "#1979c3": {
+      "count": 45,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#8fa5be": {
+      "count": 41,
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/#computed-style-snapshot"
+      ]
+    },
+    "#7d7d7d": {
+      "count": 41,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#0459b6": {
+      "count": 38,
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/#computed-style-snapshot"
+      ]
+    },
+    "#b0e0b0": {
+      "count": 38,
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/css/critical.min.css"
+      ]
+    },
+    "#ff5501": {
+      "count": 30,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#555555": {
+      "count": 28,
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+        "https://www.bluebath.com/#computed-style-snapshot"
+      ]
+    },
+    "#c2c2c2": {
+      "count": 23,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+        "https://www.bluebath.com/#computed-style-snapshot"
+      ]
+    },
+    "#cccccc": {
+      "count": 22,
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/css/critical.min.css"
+      ]
+    },
+    "#cdcdcd": {
+      "count": 21,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#111111": {
+      "count": 20,
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+        "https://www.bluebath.com/#computed-style-snapshot"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 20,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#0056b3": {
+      "count": 19,
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/css/critical.min.css"
+      ]
+    },
+    "#e02b27": {
+      "count": 16,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 16,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 14,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 14,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#0a2540": {
+      "count": 13,
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/#computed-style-snapshot"
+      ]
+    },
+    "#0f2b3d": {
+      "count": 13,
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/#computed-style-snapshot"
+      ]
+    },
+    "#124791": {
+      "count": 13,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css"
+      ]
+    },
+    "#8f8f8f": {
+      "count": 13,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#c9d6e3": {
+      "count": 12,
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/#computed-style-snapshot"
+      ]
+    },
+    "#c1c1c1": {
+      "count": 12,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#ff5216": {
+      "count": 12,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 11,
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/css/critical.min.css"
+      ]
+    },
+    "#666666": {
+      "count": 11,
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+        "https://www.bluebath.com/#computed-style-snapshot"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 11,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 11,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#f7f9fc": {
+      "count": 9,
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/#computed-style-snapshot"
+      ]
+    },
+    "#303030": {
+      "count": 9,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#999999": {
+      "count": 9,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#7a94b0": {
+      "count": 8,
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/#computed-style-snapshot"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 8,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#c13a00": {
+      "count": 7,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#d2d8e1": {
+      "count": 7,
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/#computed-style-snapshot"
+      ]
+    },
+    "#575757": {
+      "count": 6,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#111827": {
+      "count": 6,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/css/critical.min.css",
+        "https://www.bluebath.com/#computed-style-snapshot"
+      ]
+    },
+    "#071525": {
+      "count": 5,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#f4511e": {
+      "count": 5,
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#f74b00": {
+      "count": 5,
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/css/critical.min.css"
+      ]
+    },
+    "#6b7280": {
+      "count": 5,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css",
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#f0f2f8": {
+      "count": 5,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css"
+      ]
+    },
+    "#fcfcfc": {
+      "count": 5,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 5,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#dedede": {
+      "count": 5,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#ffffff2e": {
+      "count": 4,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#e2e6f0": {
+      "count": 4,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css"
+      ]
+    },
+    "#e8eaf0": {
+      "count": 4,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css"
+      ]
+    },
+    "#aeaeae": {
+      "count": 4,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#c9c9c9": {
+      "count": 4,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#6366f1": {
+      "count": 4,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#2563eb": {
+      "count": 3,
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/#computed-style-snapshot"
+      ]
+    },
+    "#033871": {
+      "count": 3,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#eef2fb": {
+      "count": 3,
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css"
+      ]
+    },
+    "#0c2040": {
+      "count": 3,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#42a5f5": {
+      "count": 3,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#ff7043": {
+      "count": 3,
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#ffffff1a": {
+      "count": 3,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#e3eaf5": {
+      "count": 3,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#ed8380": {
+      "count": 3,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#68a8e0": {
+      "count": 3,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#fdf0d5": {
+      "count": 3,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#6f4400": {
+      "count": 3,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#c07600": {
+      "count": 3,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#e4e4e4": {
+      "count": 3,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#949494": {
+      "count": 3,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#dadada": {
+      "count": 3,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#f3f4f6": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css"
+      ]
+    },
+    "#102a4c": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#c62828": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#1565c012": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#f4511e14": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#f4511e12": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#f0f4f8": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#00000080": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#ffffff33": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#84a1c1": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#0459b61f": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#ffffffcc": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#e4e9f0": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#ffffff80": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#ffffff12": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#034a9a": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#b3873f": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#0d1b2e": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/#computed-style-snapshot"
+      ]
+    },
+    "#1a1a2e": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css"
+      ]
+    },
+    "#fafafa": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css",
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#cc0000": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css"
+      ]
+    },
+    "#f4f5f8": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css"
+      ]
+    },
+    "#006400": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#494949": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#a6a6a6": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#c7c7c7": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#282828": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#00ffffff": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#9da5b1": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/css/critical.min.css"
+      ]
+    },
+    "#ff2a2a": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/css/critical.min.css"
+      ]
+    },
+    "#000087": {
+      "count": 2,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/css/critical.min.css"
+      ]
+    },
+    "#c8d1e7": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#d85117": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#e3dede": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#595959": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#1a7c3e": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#12592c": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#a8f0c6": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#c0392b": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#922b21": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#f5b7b1": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#d68910": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#9a6109": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#fdebd0": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#1a6fa8": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#145a86": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#aed6f1": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#357fd4": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#ececec": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#f8f9fc": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#1e88e5": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#fffffff7": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#07152533": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#1565c01a": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#ffd54f": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#42a5f51c": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#f4511e17": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#42a5f533": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#f4511e73": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#ffffff38": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#f4511e99": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#1565c017": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#1565c04d": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#ffffff0f": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#ffffff29": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#ffffff3d": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#ffffff4d": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#0000000d": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#0056b38c": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#f4f7fb": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#e2e8f0": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#f4511e0f": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#eef2f8": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#32323280": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#0056b3f2": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#ffffff00": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#00000073": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#0459b6a6": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#3b82f6": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#e2e8f2": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#eef4ff": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#f5f7fa": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#767676": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#00000014": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#00000005": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#0459b614": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#fefefe": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#2c3e4e": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#071a38": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#0b2550": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#ffffffa6": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#ffffff0d": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#1a7ff0": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#ffffff0a": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#0459b62e": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#0459b659": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#22c55e2e": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#4ade80": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#ffffffbf": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#0f5c6b": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#023d8a": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#60a7fe": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#07111e": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "#d0d5e8": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css"
+      ]
+    },
+    "#f4f6fb": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css"
+      ]
+    },
+    "#c9a84c66": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css"
+      ]
+    },
+    "#ef4444": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css"
+      ]
+    },
+    "#fff0f0": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css"
+      ]
+    },
+    "#eaecf0": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css"
+      ]
+    },
+    "#9aa0b0": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css"
+      ]
+    },
+    "#888888": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css"
+      ]
+    },
+    "#f0f4fb": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css"
+      ]
+    },
+    "#fae5e5": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#b30000": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#e5efe5": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#a3a3a3": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#373330": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#c6c6c6": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#1c1918": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#757575": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#ffafae": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#ffd6b3": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#c5eeac": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#81b562": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#646464": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#686868": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#c34000": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#adadad": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#ffee9c": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#d6ca8e": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#ff0101": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#797777": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#009cde": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#5f6368": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#3c4043": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#dbdbdb": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#777777": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#102a4cdb": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#fef2f2": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#b91c1c": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#fecaca": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#f0fdf4": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#15803d": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#bbf7d0": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#f87171": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#fff7f7": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "#4a7200": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/css/critical.min.css"
+      ]
+    },
+    "#669900": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/css/critical.min.css"
+      ]
+    },
+    "#160000": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/css/critical.min.css"
+      ]
+    },
+    "#ffa8a8": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/css/critical.min.css"
+      ]
+    },
+    "#adade8": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/css/critical.min.css"
+      ]
+    },
+    "#fb8888": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/css/critical.min.css"
+      ]
+    },
+    "#d63d3d": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/css/critical.min.css"
+      ]
+    },
+    "#444444": {
+      "count": 1,
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/css/critical.min.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://www.bluebath.com/",
+      "https://www.bluebath.com/#computed-style-snapshot"
+    ],
+    "Arial": [
+      "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "https://www.bluebath.com/#computed-style-snapshot"
+    ],
+    "BlinkMacSystemFont": [
+      "https://www.bluebath.com/"
+    ],
+    "Consolas": [
+      "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+    ],
+    "Courier New": [
+      "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+    ],
+    "FontAwesome": [
+      "https://www.bluebath.com/",
+      "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+    ],
+    "Geist": [
+      "https://www.bluebath.com/",
+      "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/css/critical.min.css",
+      "https://fonts.googleapis.com/css2?family=Geist:wght@400;600;700&display=swap",
+      "https://www.bluebath.com/#computed-style-snapshot"
+    ],
+    "Helvetica": [
+      "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+    ],
+    "Helvetica Neue": [
+      "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+    ],
+    "Inter": [
+      "https://www.bluebath.com/",
+      "https://www.bluebath.com/#computed-style-snapshot"
+    ],
+    "Menlo": [
+      "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+    ],
+    "Monaco": [
+      "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+    ],
+    "Open Sans": [
+      "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+    ],
+    "Oswald": [
+      "https://www.bluebath.com/",
+      "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/css/critical.min.css",
+      "https://www.bluebath.com/#computed-style-snapshot"
+    ],
+    "Roboto": [
+      "https://www.bluebath.com/",
+      "https://www.bluebath.com/#computed-style-snapshot"
+    ],
+    "Segoe UI": [
+      "https://www.bluebath.com/",
+      "https://www.bluebath.com/#computed-style-snapshot"
+    ],
+    "icons-blank-theme": [
+      "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+    ],
+    "luma-icons": [
+      "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+    ],
+    "monospace": [
+      "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+    ],
+    "object-fit: cover": [
+      "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+    ],
+    "pagebuilder-font": [
+      "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+    ],
+    "sans-serif": [
+      "https://www.bluebath.com/",
+      "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/css/critical.min.css",
+      "https://www.bluebath.com/#computed-style-snapshot"
+    ],
+    "serif": [
+      "https://www.bluebath.com/",
+      "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/css/critical.min.css",
+      "https://www.bluebath.com/#computed-style-snapshot"
+    ],
+    "system-ui": [
+      "https://www.bluebath.com/",
+      "https://www.bluebath.com/#computed-style-snapshot"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.bluebath.com/",
+      "selector": ":root",
+      "declarations": "--global-color:#0056B3"
+    },
+    {
+      "source": "https://www.bluebath.com/",
+      "selector": "body",
+      "declarations": "font-size:16px;font-family:\"Geist\",-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,sans-serif;color:#222;margin:0"
+    },
+    {
+      "source": "https://www.bluebath.com/",
+      "selector": "h1,h2,h3,h4,h5,h6,.price",
+      "declarations": "font-family:\"Geist\",-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,sans-serif"
+    },
+    {
+      "source": "https://www.bluebath.com/",
+      "selector": "#search_mini_form button",
+      "declarations": "background:transparent;border:none;color:#2563EB;font-size:22px;opacity:1;cursor:pointer"
+    },
+    {
+      "source": "https://www.bluebath.com/",
+      "selector": ".page-main>.page-title-wrapper .page-title,.product-info-main .page-title-wrapper .page-title",
+      "declarations": "margin:0;font-size:29px;font-weight:600;color:#0056B3;width:100%;border-bottom:2px solid;padding-bottom:5px;font-family:\"Oswald\",sans-serif"
+    },
+    {
+      "source": "https://www.bluebath.com/",
+      "selector": ".button-primary:hover",
+      "declarations": "background-color:#333"
+    },
+    {
+      "source": "https://www.bluebath.com/",
+      "selector": ":root",
+      "declarations": "--dlx-heading-bg:#033871;--dlx-heading-text:#ffffff;--dlx-left-bg:#f8f9fc;--dlx-hover-bg:#eef2fb;--dlx-viewall-bg:#033871;--dlx-highlight:#033871;--dlx-price:#C13A00;--dlx-old-price:#aaaaaa;"
+    },
+    {
+      "source": "https://www.bluebath.com/",
+      "selector": ":root",
+      "declarations": "--c-navy:#071525;--c-navy2:#0c2040;--c-blue:#1565c0;--c-blue-mid:#1e88e5;--c-blue-lite:#42a5f5;--c-orange:#f4511e;--c-orange2:#ff7043;--c-white:#fff;--glass-bg:#fffffff7;--shadow-drop:0 28px 70px #07152533 0 4px 16px #1565c01a;--ease-out:cubic-bezier(0.22,1,0.36,1);--ease-bounce:cubic-bezier(0.34,1.56,0.64,1);"
+    },
+    {
+      "source": "https://www.bluebath.com/",
+      "selector": ".title-home h1",
+      "declarations": "color: #0459B6; margin: 0; font-size: 30px; padding: 10px; font-weight: 400;text-align: center;"
+    },
+    {
+      "source": "https://www.bluebath.com/",
+      "selector": ".product-list-name a",
+      "declarations": "color:#000;text-decoration:none;position:relative;display:block"
+    },
+    {
+      "source": "https://www.bluebath.com/",
+      "selector": ".product-list-name a:hover",
+      "declarations": "color:#0459B6"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css",
+      "selector": ".dlx-product-item",
+      "declarations": "display:flex;align-items:center;gap:12px;padding:10px 16px;text-decoration:none;color:#1a1a2e;border-bottom:1px solid #f0f2f8;transition:background .1s;cursor:pointer;outline:none"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": "body",
+      "declarations": "color:#333;font-family:'Geist',Arial,sans-serif;font-style:normal;font-weight:400;line-height:1.42857143;font-size:1.4rem"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": "h1 small,h2 small,h3 small,h4 small,h5 small,h6 small,h1 .small,h2 .small,h3 .small,h4 .small,h5 .small,h6 .small",
+      "declarations": "color:#333;font-family:'Geist',Arial,sans-serif;font-style:normal;font-weight:400;line-height:1"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": "button,.cart.table-wrapper .actions-toolbar>.action,.action-gift",
+      "declarations": "background-image:none;background:#f2f2f2;border:1px solid #cdcdcd;color:#333;cursor:pointer;display:inline-block;font-family:'Geist',Arial,sans-serif;font-weight:700;margin:0;padding:7px 15px;font-size:1.4rem;line-height:1.6rem;box-sizing:border-box;vertical-align:middle"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": "button:focus,button:active,.cart.table-wrapper .actions-toolbar>.action:focus,.cart.table-wrapper .actions-toolbar>.action:active,.action-gift:focus,.action-gif",
+      "declarations": "background:#e2e2e2;border:1px solid #cdcdcd;color:#333"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": "button:hover,.cart.table-wrapper .actions-toolbar>.action:hover,.action-gift:hover",
+      "declarations": "background:#e2e2e2;border:1px solid #cdcdcd;color:#555"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": ".product-info-main .action.tocompare,.product-options-bottom .action.tocompare,.product-info-main .action.towishlist,.product-options-bottom .action.towishlist,",
+      "declarations": "background-image:none;background:#f2f2f2;border:1px solid #cdcdcd;color:#333;cursor:pointer;font-family:'Geist',Arial,sans-serif;font-weight:700;margin:0;padding:7px 15px;font-size:1.4rem;line-height:1.6rem;box-sizing:border-box;vertical-align:middle;display:inline-block;text-decoration:none;border-radius:3px"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": "active,.product-options-bottom .action.towishlist:focus,.product-options-bottom .action.towishlist:active,.block-bundle-summary .action.towishlist:focus,.block-",
+      "declarations": "background:#e2e2e2;border:1px solid #cdcdcd;color:#333"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": "ompare:hover,.product-options-bottom .action.tocompare:hover,.product-info-main .action.towishlist:hover,.product-options-bottom .action.towishlist:hover,.block",
+      "declarations": "background:#e2e2e2;border:1px solid #cdcdcd;color:#555"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": ".abs-remove-button-for-blocks:before,.sidebar .action.delete:before,.table-comparison .cell.remove .action.delete:before,.block-compare .action.delete:before,.f",
+      "declarations": "-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-size:26px;line-height:15px;color:#303030;content:'\\e616';font-family:'icons-blank-theme';vertical-align:middle;display:inline-block;font-weight:400;overflow:hidden;speak:none;text-align:center"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": ".product-item-name>a,.product.name a>a",
+      "declarations": "color:#333;text-decoration:none"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": ".abs-product-link>a:visited,.product-item-name>a:visited,.product.name a>a:visited",
+      "declarations": "color:#333;text-decoration:underline"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": ".abs-product-link>a:hover,.product-item-name>a:hover,.product.name a>a:hover",
+      "declarations": "color:#333;text-decoration:underline"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": ".abs-product-link>a:active,.product-item-name>a:active,.product.name a>a:active",
+      "declarations": "color:#333;text-decoration:underline"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": "giftcard .action.check,.gift-options .actions-toolbar .action-cancel,.table-comparison .wishlist.split.button>.action,.product-items .wishlist.split.button>.act",
+      "declarations": "line-height:1.42857143;padding:0;color:#1979c3;text-decoration:none;background:0 0;border:0;display:inline;border-radius:0;font-size:inherit;font-weight:400"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": "ions .actions-toolbar .action-cancel:visited,.table-comparison .wishlist.split.button>.action:visited,.product-items .wishlist.split.button>.action:visited,.pay",
+      "declarations": "color:#1979c3;text-decoration:none"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": "gift-options .actions-toolbar .action-cancel:hover,.table-comparison .wishlist.split.button>.action:hover,.product-items .wishlist.split.button>.action:hover,.p",
+      "declarations": "color:#006bb4;text-decoration:underline"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": "-options .actions-toolbar .action-cancel:active,.table-comparison .wishlist.split.button>.action:active,.product-items .wishlist.split.button>.action:active,.pa",
+      "declarations": "color:#ff5501;text-decoration:underline"
+    },
+    {
+      "source": "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+      "selector": "bled] .product-items .wishlist.split.button>.action,.paypal-button-widget .paypal-button.disabled,.paypal-button-widget .paypal-button[disabled],fieldset[disabl",
+      "declarations": "color:#1979c3;opacity:.5;cursor:default;pointer-events:none;text-decoration:underline"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "Blue Bath | Kitchen & Bathroom Sinks, Faucets & Fixtures",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "6abb93676fecb2779bfd865d99493d22eca28de763441aa05a23ed4b35b33aad"
+    }
+  ],
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/css/critical.min.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css",
+        "https://www.bluebath.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css",
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/css/critical.min.css",
+        "https://www.bluebath.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/css/critical.min.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+        "https://www.bluebath.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css",
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/css/critical.min.css",
+        "https://www.bluebath.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css",
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css",
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/css/critical.min.css",
+        "https://www.bluebath.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.accent-price": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "colors.accent-orange": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "colors.navy-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bluebath.com/"
+      ]
+    },
+    "colors.link-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.border-muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "colors.old-price": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bluebath.com/",
+        "https://www.bluebath.com/static/version1790054583/frontend/Custom/bluebath/en_US/Datalatex_Cmssearch/css/suggest.min.css"
+      ]
+    },
+    "colors.control-fill": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bluebath.com/static/version1790054583/_cache/merged/f78427084f6614abdeba2baaa2ed779c.min.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.mega-menu": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.price-badge": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.trust-badge": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    }
+  }
+}

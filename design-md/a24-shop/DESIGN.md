@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: A24 Shop
-description: A24 Shop is a film-merchandise storefront that treats its products like props from the movies themselves, set against a near-black canvas (#121212) that makes every item feel like it’s under a spotlight. The brand’s primary voltage is a warm, almost sunburned coral (#fc8259) that appears on add-to-cart buttons, sale badges, and the occasional accent line — a color that reads as urgent without being aggressive, like a neon sign in a dark room. The secondary palette is almost entirely achromatic: a mid-gray (#dedede) for borders and secondary text, with white (#ffffff) reserved for product cards and the checkout surface. The site uses a single sans-serif typeface (likely Inter or a similar geometric) at moderate weights — display headlines sit at 24–32px in weight 500, trusting the dark background and generous whitespace to do the heavy lifting rather than bold typography. Product cards are softly rounded (`{rounded.md}` ~12px), buttons are pill-shaped (`{rounded.full}`), and the persistent top nav is a thin, translucent bar that blurs the content behind it — a cinema-foyer gesture that signals “you’re in the lobby, not the theater.” The overall mood is restrained and cinematic: muted tones, high contrast, and a single accent color that never overwhelms.
+name: "A24 Shop"
+source_url: "https://shop.a24films.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A24 Shop is a film-merchandise storefront that treats its products like props from the movies themselves, set against a near-black canvas (#121212) that makes every item feel like it’s under a spotlight. The brand’s primary voltage is a warm, almost sunburned coral (#fc8259) that appears on add-to-cart buttons, sale badges, and the occasional accent line — a color that reads as urgent without being aggressive, like a neon sign in a dark room. The secondary palette is almost entirely achromatic: a mid-gray (#dedede) for borders and secondary text, with white (#ffffff) reserved for product cards and the checkout surface. The site uses a single sans-serif typeface (likely Inter or a similar geometric) at moderate weights — display headlines sit at 24–32px in weight 500, trusting the dark background and generous whitespace to do the heavy lifting rather than bold typography. Product cards are softly rounded (`{rounded.md}` ~12px), buttons are pill-shaped (`{rounded.full}`), and the persistent top nav is a thin, translucent bar that blurs the content behind it — a cinema-foyer gesture that signals “you’re in the lobby, not the theater.” The overall mood is restrained and cinematic: muted tones, high contrast, and a single accent color that never overwhelms.
 
 colors:
   primary: "#fc8259"
@@ -288,6 +292,8 @@ components:
 - Hero sections may reduce image height and stack text below the image on small screens.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No font-family declarations were found in the extracted CSS; the typeface is assumed to be Inter (or a similar geometric sans-serif) based on common Shopify usage and the brand’s aesthetic. This should be verified against the live site’s CSS.
 - Hover states for buttons and cards are inferred from common patterns; exact colors (e.g., button-secondary hover) were not extracted.

@@ -1,0 +1,840 @@
+{
+  "source_url": "https://aquaticarts.com",
+  "final_url": "https://aquaticarts.com/",
+  "captured_at": "2026-09-28T04:18:21.701453+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://aquaticarts.com",
+      "final_url": "https://aquaticarts.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "3356ac25e34f3f5b50635144f767ba73cc12148209026c04fa426127787c771d",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://aquaticarts.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://aquaticarts.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+      "final_url": "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "8743d2f78abe2d3c37bb94fa96da9923b53969634aef3b06c969badd52e7f8a3",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0d81e-a698-737c-a52f-98af41e12d18/kaching-cart-1443/assets/kaching-cart.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0d81e-a698-737c-a52f-98af41e12d18/kaching-cart-1443/assets/kaching-cart.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "8aa4d4bb4d4ef89ae1f1da032bf2d610f6a3685823a774d6eb681c7d7df00097",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0d390-95ac-724a-bb26-96ad41cebc2a/customer-account-deluxe-1735/assets/cad_base.min.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0d390-95ac-724a-bb26-96ad41cebc2a/customer-account-deluxe-1735/assets/cad_base.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3dc3c815dc8bd8a7f41bd0a8bcbd5d0c245b9de0d66ef4460f3a0bf5f05b26d4",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 72,
+      "sources": [
+        "https://aquaticarts.com/",
+        "https://aquaticarts.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+        "https://cdn.shopify.com/extensions/01a0d81e-a698-737c-a52f-98af41e12d18/kaching-cart-1443/assets/kaching-cart.css",
+        "https://cdn.shopify.com/extensions/01a0d390-95ac-724a-bb26-96ad41cebc2a/customer-account-deluxe-1735/assets/cad_base.min.css"
+      ]
+    },
+    "#000000": {
+      "count": 21,
+      "sources": [
+        "https://aquaticarts.com/",
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+        "https://cdn.shopify.com/extensions/01a0d81e-a698-737c-a52f-98af41e12d18/kaching-cart-1443/assets/kaching-cart.css",
+        "https://cdn.shopify.com/extensions/01a0d390-95ac-724a-bb26-96ad41cebc2a/customer-account-deluxe-1735/assets/cad_base.min.css"
+      ]
+    },
+    "#d02e2e": {
+      "count": 11,
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663"
+      ]
+    },
+    "#111111": {
+      "count": 8,
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663"
+      ]
+    },
+    "#ccaadd": {
+      "count": 8,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d390-95ac-724a-bb26-96ad41cebc2a/customer-account-deluxe-1735/assets/cad_base.min.css"
+      ]
+    },
+    "#444444": {
+      "count": 6,
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+        "https://cdn.shopify.com/extensions/01a0d81e-a698-737c-a52f-98af41e12d18/kaching-cart-1443/assets/kaching-cart.css"
+      ]
+    },
+    "#3796d1": {
+      "count": 5,
+      "sources": [
+        "https://aquaticarts.com/"
+      ]
+    },
+    "#121212": {
+      "count": 5,
+      "sources": [
+        "https://aquaticarts.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0d390-95ac-724a-bb26-96ad41cebc2a/customer-account-deluxe-1735/assets/cad_base.min.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 5,
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+        "https://cdn.shopify.com/extensions/01a0d81e-a698-737c-a52f-98af41e12d18/kaching-cart-1443/assets/kaching-cart.css"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 5,
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+        "https://cdn.shopify.com/extensions/01a0d390-95ac-724a-bb26-96ad41cebc2a/customer-account-deluxe-1735/assets/cad_base.min.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 5,
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663"
+      ]
+    },
+    "#00000000": {
+      "count": 4,
+      "sources": [
+        "https://aquaticarts.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0d81e-a698-737c-a52f-98af41e12d18/kaching-cart-1443/assets/kaching-cart.css"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 4,
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+        "https://cdn.shopify.com/extensions/01a0d81e-a698-737c-a52f-98af41e12d18/kaching-cart-1443/assets/kaching-cart.css"
+      ]
+    },
+    "#00000017": {
+      "count": 4,
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663"
+      ]
+    },
+    "#0000000d": {
+      "count": 4,
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+        "https://cdn.shopify.com/extensions/01a0d81e-a698-737c-a52f-98af41e12d18/kaching-cart-1443/assets/kaching-cart.css"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 4,
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663"
+      ]
+    },
+    "#56ad6a": {
+      "count": 4,
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663"
+      ]
+    },
+    "#333333": {
+      "count": 4,
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+        "https://cdn.shopify.com/extensions/01a0d81e-a698-737c-a52f-98af41e12d18/kaching-cart-1443/assets/kaching-cart.css",
+        "https://cdn.shopify.com/extensions/01a0d390-95ac-724a-bb26-96ad41cebc2a/customer-account-deluxe-1735/assets/cad_base.min.css"
+      ]
+    },
+    "#def4a9": {
+      "count": 3,
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663"
+      ]
+    },
+    "#fff6f6": {
+      "count": 3,
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663"
+      ]
+    },
+    "#555555": {
+      "count": 3,
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+        "https://cdn.shopify.com/extensions/01a0d390-95ac-724a-bb26-96ad41cebc2a/customer-account-deluxe-1735/assets/cad_base.min.css"
+      ]
+    },
+    "#b6b6b6": {
+      "count": 3,
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663"
+      ]
+    },
+    "#666666": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d81e-a698-737c-a52f-98af41e12d18/kaching-cart-1443/assets/kaching-cart.css",
+        "https://cdn.shopify.com/extensions/01a0d390-95ac-724a-bb26-96ad41cebc2a/customer-account-deluxe-1735/assets/cad_base.min.css"
+      ]
+    },
+    "#d1d5db": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d390-95ac-724a-bb26-96ad41cebc2a/customer-account-deluxe-1735/assets/cad_base.min.css"
+      ]
+    },
+    "#6b7280": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d390-95ac-724a-bb26-96ad41cebc2a/customer-account-deluxe-1735/assets/cad_base.min.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://aquaticarts.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#fafafa": {
+      "count": 2,
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 2,
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663"
+      ]
+    },
+    "#999999": {
+      "count": 2,
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663"
+      ]
+    },
+    "#00000026": {
+      "count": 2,
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 2,
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663"
+      ]
+    },
+    "#0000004d": {
+      "count": 2,
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+        "https://cdn.shopify.com/extensions/01a0d81e-a698-737c-a52f-98af41e12d18/kaching-cart-1443/assets/kaching-cart.css"
+      ]
+    },
+    "#585858": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d81e-a698-737c-a52f-98af41e12d18/kaching-cart-1443/assets/kaching-cart.css"
+      ]
+    },
+    "#ddddddaa": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d81e-a698-737c-a52f-98af41e12d18/kaching-cart-1443/assets/kaching-cart.css"
+      ]
+    },
+    "#d64a4a": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d81e-a698-737c-a52f-98af41e12d18/kaching-cart-1443/assets/kaching-cart.css"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d390-95ac-724a-bb26-96ad41cebc2a/customer-account-deluxe-1735/assets/cad_base.min.css"
+      ]
+    },
+    "#008f13": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d390-95ac-724a-bb26-96ad41cebc2a/customer-account-deluxe-1735/assets/cad_base.min.css"
+      ]
+    },
+    "#0073e6": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d390-95ac-724a-bb26-96ad41cebc2a/customer-account-deluxe-1735/assets/cad_base.min.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d390-95ac-724a-bb26-96ad41cebc2a/customer-account-deluxe-1735/assets/cad_base.min.css"
+      ]
+    },
+    "#212121": {
+      "count": 1,
+      "sources": [
+        "https://aquaticarts.com/"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 1,
+      "sources": [
+        "https://aquaticarts.com/"
+      ]
+    },
+    "#b55f5f": {
+      "count": 1,
+      "sources": [
+        "https://aquaticarts.com/"
+      ]
+    },
+    "#5c955c": {
+      "count": 1,
+      "sources": [
+        "https://aquaticarts.com/"
+      ]
+    },
+    "#ff6f00": {
+      "count": 1,
+      "sources": [
+        "https://aquaticarts.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://aquaticarts.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://aquaticarts.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://aquaticarts.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://aquaticarts.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://aquaticarts.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://aquaticarts.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://aquaticarts.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://aquaticarts.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://aquaticarts.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://aquaticarts.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#66bed7": {
+      "count": 1,
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 1,
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663"
+      ]
+    },
+    "#0f7662": {
+      "count": 1,
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663"
+      ]
+    },
+    "#d5f192": {
+      "count": 1,
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663"
+      ]
+    },
+    "#009b2c": {
+      "count": 1,
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663"
+      ]
+    }
+  },
+  "font_families": {
+    "Arvo": [
+      "https://aquaticarts.com/"
+    ],
+    "Assistant": [
+      "https://aquaticarts.com/"
+    ],
+    "Consolas": [
+      "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663"
+    ],
+    "monospace": [
+      "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663"
+    ],
+    "object-fit: cover": [
+      "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663"
+    ],
+    "sans-serif": [
+      "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+      "https://cdn.shopify.com/extensions/01a0d390-95ac-724a-bb26-96ad41cebc2a/customer-account-deluxe-1735/assets/cad_base.min.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://aquaticarts.com/",
+      "selector": ":root",
+      "declarations": "--typeHeaderPrimary: Arvo;\n    --typeHeaderFallback: serif;\n    --typeHeaderSize: 37px;\n    --typeHeaderStyle: normal;\n    --typeHeaderWeight: 700;\n    --typeHeaderLineHeight: 1.2;\n    --typeHeaderSpacing: 0.025em;\n\n    --typeBasePrimary:Assistant;\n    --typeBaseFallback:sans-serif;\n    --typeBaseSize: 16px;\n    --typeBaseWeight: 800;\n    --typeBaseStyle: normal;\n    --typeBaseSpacing: 0.05em;\n    --typeBaseLineHeight: 1.5;\n\n    \n      --buttonRadius: 3px;\n    \n\n    --iconWeight: 4px;\n    --iconLinecaps: miter;"
+    },
+    {
+      "source": "https://aquaticarts.com/",
+      "selector": "body,\n  input,\n  textarea,\n  button,\n  select",
+      "declarations": "-webkit-font-smoothing: antialiased;\n    -webkit-text-size-adjust: 100%;\n    text-rendering: optimizeSpeed;\n    font-family: var(--typeBasePrimary), var(--typeBaseFallback);\n    font-size: calc(var(--typeBaseSize) * 0.85);\n    font-weight: var(--typeBaseWeight);\n    font-style: var(--typeBaseStyle);\n    letter-spacing: var(--typeBaseSpacing);\n    line-height: var(--typeBaseLineHeight);"
+    },
+    {
+      "source": "https://aquaticarts.com/",
+      "selector": "h1, .h1,\n  h3, .h3,\n  h4, .h4,\n  h5, .h5,\n  h6, .h6,\n  .section-header__title",
+      "declarations": "font-family: var(--typeHeaderPrimary), var(--typeHeaderFallback);\n    font-weight: var(--typeHeaderWeight);\n    font-style: normal;\n    letter-spacing: var(--typeHeaderSpacing);\n    line-height: var(--typeHeaderLineHeight);\n    word-break: break-word;"
+    },
+    {
+      "source": "https://aquaticarts.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://aquaticarts.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://aquaticarts.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://aquaticarts.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://aquaticarts.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://aquaticarts.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+      "selector": "@charset \"UTF-8\";:root",
+      "declarations": "--colorAlt:#111111;--colorAltText:#ffffff;--colorAnnouncement:#66bed7;--colorAnnouncementText:#111111;--colorBody:#ffffff;--colorBodyAlpha05:rgba(255, 255, 255, .05);--colorBodyLightDim:#fafafa;--colorBodyMediumDim:#f5f5f5;--colorBodyDim:#f2f2f2;--colorBtnPrimary:#def4a9;--colorBtnPrimaryText:#000000;--colorBtnPrimaryBgTransition:background .15s ease;--colorBtnPrimaryActive:#ffffff;--colorCartDot:#0f7662;--colorCartDotText:#ffffff;--colorDrawers:#def4a9;--colorDrawersDim:#d5f192;--colorDrawerText:#000000;--colorDrawerTextDarken:#000000;--colorHeroText:#ffffff;--colorImageOverlay:#000000;--colorImageOverlayOpacity:.03;--colorImageOverlayTextShadow:.3;--colorInputBg:#ffffff;--colorInputText:#1"
+    },
+    {
+      "source": "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+      "selector": ".flickity-button",
+      "declarations": "background:var(--colorBtnPrimary);border:none;border-radius:50%;color:var(--colorBtnPrimaryText);position:absolute"
+    },
+    {
+      "source": "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+      "selector": ".hero .flickity-button",
+      "declarations": "background-color:var(--colorBody);box-shadow:0 5px 5px #0000001a;color:var(--colorTextBody)"
+    },
+    {
+      "source": "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+      "selector": ".hotspots__buttons",
+      "declarations": "background-color:transparent;border:0;height:100%;left:0;position:absolute;top:0;width:100%"
+    },
+    {
+      "source": "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+      "selector": ".hotspot__button-content",
+      "declarations": "background-color:var(--colorBody);border-radius:5px;box-shadow:3px 3px 10px 3px #0003;color:var(--colorTextBody);left:50%;min-width:5rem;opacity:0;padding:1rem;pointer-events:none;position:absolute;top:calc(100% + 1rem);transform:translate(-50%);transition:opacity .3s ease-in-out;visibility:hidden"
+    },
+    {
+      "source": "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+      "selector": ".hotspot__button-content:before",
+      "declarations": "border-color:transparent transparent var(--colorBody) transparent;border-style:solid;border-width:0 5px 10px 5px;content:\"\";height:0;left:50%;position:absolute;top:-10px;transform:translate(-50%);width:0"
+    },
+    {
+      "source": "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+      "selector": ".comparison__button:before",
+      "declarations": "background-color:#fff!important"
+    },
+    {
+      "source": "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+      "selector": ".comparison__button:after",
+      "declarations": "background-color:#fff!important"
+    },
+    {
+      "source": "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+      "selector": "product-recommendations[data-intent=complementary] .grid__image-ratio",
+      "declarations": "background-color:transparent"
+    },
+    {
+      "source": "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+      "selector": "body,html",
+      "declarations": "background-color:var(--colorBody);color:var(--colorTextBody)"
+    },
+    {
+      "source": "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+      "selector": ".rte a:not(.btn),.shopify-email-marketing-confirmation__container a:not(.btn),.shopify-policy__container a:not(.btn)",
+      "declarations": "color:var(--colorLink)"
+    },
+    {
+      "source": "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+      "selector": ".rte a:not(.rte__image):not(.btn)",
+      "declarations": "color:currentColor;-webkit-text-decoration:underline;text-decoration:underline;text-decoration-thickness:2px;text-underline-offset:5px"
+    },
+    {
+      "source": "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+      "selector": "button",
+      "declarations": "color:currentColor;overflow:visible"
+    },
+    {
+      "source": "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+      "selector": ".btn,.rte .btn,.shopify-payment-button .shopify-payment-button__button--unbranded",
+      "declarations": "-webkit-appearance:none;-moz-appearance:none;background:var(--colorBtnPrimary);border:2px solid transparent;border-radius:var(--buttonRadius);color:var(--colorBtnPrimaryText);cursor:pointer;display:inline-block;line-height:1.42;margin:0;min-width:90px;padding:10px 25px;text-align:center;-webkit-text-decoration:none;text-decoration:none;transition:var(--colorBtnPrimaryBgTransition);-webkit-user-select:none;-moz-user-select:none;user-select:none;vertical-align:middle;white-space:normal;width:auto"
+    },
+    {
+      "source": "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+      "selector": ".btn:hover,.rte .btn:hover,.shopify-payment-button .shopify-payment-button__button--unbranded:hover",
+      "declarations": "background-color:var(--colorBtnPrimary);color:var(--colorBtnPrimaryText)"
+    },
+    {
+      "source": "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+      "selector": ".btn:active,.rte .btn:active,.shopify-payment-button .shopify-payment-button__button--unbranded:active",
+      "declarations": "background-color:var(--colorBtnPrimaryActive)"
+    },
+    {
+      "source": "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+      "selector": "isabled],.rte .btn.disabled,.rte .btn[disabled],.shopify-payment-button .shopify-payment-button__button--unbranded.disabled,.shopify-payment-button .shopify-pay",
+      "declarations": "background-color:#f6f6f6;color:#444;cursor:default;transition:none"
+    },
+    {
+      "source": "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+      "selector": "led:hover,.rte .btn[disabled]:hover,.shopify-payment-button .shopify-payment-button__button--unbranded.disabled:hover,.shopify-payment-button .shopify-payment-b",
+      "declarations": "background-color:#f6f6f6;color:#444"
+    },
+    {
+      "source": "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+      "selector": ".shopify-payment-button .shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:var(--colorBtnPrimary);color:var(--colorBtnPrimaryText)"
+    },
+    {
+      "source": "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+      "selector": ".shopify-payment-button__more-options",
+      "declarations": "color:inherit"
+    },
+    {
+      "source": "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+      "selector": ".btn--secondary,.rte .btn--secondary",
+      "declarations": "background:var(--colorBtnPrimaryText);color:var(--colorBtnPrimary)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Freshwater Fish Store | Buy Live Fish Online - Aquatic Arts",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://aquaticarts.com/",
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+        "https://cdn.shopify.com/extensions/01a0d81e-a698-737c-a52f-98af41e12d18/kaching-cart-1443/assets/kaching-cart.css",
+        "https://cdn.shopify.com/extensions/01a0d390-95ac-724a-bb26-96ad41cebc2a/customer-account-deluxe-1735/assets/cad_base.min.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://aquaticarts.com/",
+        "https://aquaticarts.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+        "https://cdn.shopify.com/extensions/01a0d81e-a698-737c-a52f-98af41e12d18/kaching-cart-1443/assets/kaching-cart.css",
+        "https://cdn.shopify.com/extensions/01a0d390-95ac-724a-bb26-96ad41cebc2a/customer-account-deluxe-1735/assets/cad_base.min.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663",
+        "https://cdn.shopify.com/extensions/01a0d81e-a698-737c-a52f-98af41e12d18/kaching-cart-1443/assets/kaching-cart.css",
+        "https://cdn.shopify.com/extensions/01a0d390-95ac-724a-bb26-96ad41cebc2a/customer-account-deluxe-1735/assets/cad_base.min.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d81e-a698-737c-a52f-98af41e12d18/kaching-cart-1443/assets/kaching-cart.css",
+        "https://cdn.shopify.com/extensions/01a0d390-95ac-724a-bb26-96ad41cebc2a/customer-account-deluxe-1735/assets/cad_base.min.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://aquaticarts.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663"
+      ]
+    },
+    "colors.accent-info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663"
+      ]
+    },
+    "colors.accent-dim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663"
+      ]
+    },
+    "colors.link": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://aquaticarts.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.link-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://aquaticarts.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663"
+      ]
+    },
+    "colors.border": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://aquaticarts.com/cdn/shop/t/34/assets/theme.css?v=43700005194005962131726937663"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.guarantee-banner": {
+      "status": "inferred"
+    }
+  }
+}

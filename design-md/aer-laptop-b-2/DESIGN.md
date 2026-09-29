@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Aer
-description: Every primary call-to-action on aersf.com arrives as a rectangle of #000000 — not charcoal, not off-black, but a hard matte black that reads more like a stamped product spec than an invitation. The color story runs in compressed grayscale from white canvas through #f7f7f7, #f2f2f2, #e3e3e3, #d9d9d9, #959595, #707070, #575757, #404040, and #212121 before terminating at pure black — nine stops of extraction that strip the site of any warmth or decorative hue. Into that monochrome field arrives a single chromatic note: #d20000, a signal red reserved for sale pricing, urgency rails, and clearance badges, operating less as brand color and more as a binary flag for markdown. The font stack reaches for Helvetica Now Display — the 2019 optical overhaul of the Neue canon, wider and more optically consistent at large sizes — before falling back through the layered Helvetica Neue variants (Bold, Medium, LT Std 93) for body hierarchies. Weights are functional rather than expressive: display type at 700 carries the restraint of a specification label; body copy at 400 reads like a materials brief. Geometry follows the same logic: corners sit at {rounded.xs} and {rounded.sm} on inputs and cards, but the dominant shapes are near-zero-radius rectangles, as though curvature were a material cost the brand chose not to pay. Product photography occupies full-bleed modules shot against controlled white or neutral gray grounds, pack geometry treated with the same flat orthographic clarity as industrial product photography. The overall register is deliberate compression — every decorative variable removed until only function shows through, then rendered in black.
+name: "Aer"
+source_url: "https://www.aersf.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Every primary call-to-action on aersf.com arrives as a rectangle of #000000 — not charcoal, not off-black, but a hard matte black that reads more like a stamped product spec than an invitation. The color story runs in compressed grayscale from white canvas through #f7f7f7, #f2f2f2, #e3e3e3, #d9d9d9, #959595, #707070, #575757, #404040, and #212121 before terminating at pure black — nine stops of extraction that strip the site of any warmth or decorative hue. Into that monochrome field arrives a single chromatic note: #d20000, a signal red reserved for sale pricing, urgency rails, and clearance badges, operating less as brand color and more as a binary flag for markdown. The font stack reaches for Helvetica Now Display — the 2019 optical overhaul of the Neue canon, wider and more optically consistent at large sizes — before falling back through the layered Helvetica Neue variants (Bold, Medium, LT Std 93) for body hierarchies. Weights are functional rather than expressive: display type at 700 carries the restraint of a specification label; body copy at 400 reads like a materials brief. Geometry follows the same logic: corners sit at {rounded.xs} and {rounded.sm} on inputs and cards, but the dominant shapes are near-zero-radius rectangles, as though curvature were a material cost the brand chose not to pay. Product photography occupies full-bleed modules shot against controlled white or neutral gray grounds, pack geometry treated with the same flat orthographic clarity as industrial product photography. The overall register is deliberate compression — every decorative variable removed until only function shows through, then rendered in black.
 
 colors:
   primary: "#000000"
@@ -345,6 +349,8 @@ components:
 - Spec tables: two-column label/value layout remains on all breakpoints; table width shrinks with container
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No brand-specific custom typeface confirmed; Helvetica Now Display is a licensed font and may not load consistently; fallback to Helvetica Neue is highly likely for most visitors
 - Border-radius values are inferred from brand aesthetic (near-zero) — no direct CSS extraction confirmed

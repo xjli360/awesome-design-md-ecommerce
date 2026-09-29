@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: HigherDose
-description: A high-voltage wellness brand that uses #141414 near-black as its primary canvas, making every product shot and #4efac0 neon-green accent feel like a jolt of energy. The brand’s signature move is pairing deep, almost-ink backgrounds with electric accents — #4efac0 (a minty cyber-lime) appears on CTAs, progress indicators, and hover states, while #ff5742 (a hot coral) and #0018ff (a saturated blue) provide secondary voltage for badges and limited-edition drops. The typography stack runs Brown and Suisse Int’l — two typefaces with serious editorial weight — set at generous sizes that read as confident rather than loud. Product cards use `{rounded.sm}` (8px) corners, a subtle departure from the pill-shaped trend, giving the grid a precise, technical feel. The checkout and cart experience leans on `{colors.canvas}` (#fafafa) with `{colors.hairline}` (#dedede) borders, keeping the purchasing flow clean while the marketing pages stay dark and immersive. The brand’s voice is direct, almost clinical in its claims (“Get a Dose of the High Life”), but the visual system softens that edge with `{rounded.full}` on primary CTAs and a generous `{spacing.section}` (64px) that prevents the dark canvas from feeling oppressive. The extracted palette reveals a heavy reliance on grayscale — #9da1a0, #868a89, #545454, #7e7e7e — suggesting a mature system where color is deployed sparingly as a reward for user action.
+name: "HigherDose"
+source_url: "https://higherdose.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A high-voltage wellness brand that uses #141414 near-black as its primary canvas, making every product shot and #4efac0 neon-green accent feel like a jolt of energy. The brand’s signature move is pairing deep, almost-ink backgrounds with electric accents — #4efac0 (a minty cyber-lime) appears on CTAs, progress indicators, and hover states, while #ff5742 (a hot coral) and #0018ff (a saturated blue) provide secondary voltage for badges and limited-edition drops. The typography stack runs Brown and Suisse Int’l — two typefaces with serious editorial weight — set at generous sizes that read as confident rather than loud. Product cards use `{rounded.sm}` (8px) corners, a subtle departure from the pill-shaped trend, giving the grid a precise, technical feel. The checkout and cart experience leans on `{colors.canvas}` (#fafafa) with `{colors.hairline}` (#dedede) borders, keeping the purchasing flow clean while the marketing pages stay dark and immersive. The brand’s voice is direct, almost clinical in its claims (“Get a Dose of the High Life”), but the visual system softens that edge with `{rounded.full}` on primary CTAs and a generous `{spacing.section}` (64px) that prevents the dark canvas from feeling oppressive. The extracted palette reveals a heavy reliance on grayscale — #9da1a0, #868a89, #545454, #7e7e7e — suggesting a mature system where color is deployed sparingly as a reward for user action.
 
 colors:
   primary: "#4efac0"
@@ -333,6 +337,8 @@ components:
 - Badges remain inline but may wrap on very small screens
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for many components (text-input, nav-links, footer-links) are inferred from common patterns rather than extracted from the live site
 - Error state styling for forms (error messages, validation icons) not fully captured

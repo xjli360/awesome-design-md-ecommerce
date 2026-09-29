@@ -1,11 +1,15 @@
 ---
 version: alpha
-name: Vari
-description: The standing desk category has long defaulted to gray-on-gray industrial minimalism — Vari breaks from this with a saturated teal primary (#007fad) that carries every major CTA and hover state on the site, a hue specific enough to be brand-ownable without tipping into healthcare or nautical territory. Deep navy (#002543) anchors both the header and footer, wrapping the site in a dark-light contrast frame that lets large product photography — desks shown mid-lift, in real offices, with people — land without compositional competition. Type runs Lato at firm weights across the stack: display headings push to 48px at weight 700, body copy sits at 14–16px with generous 1.6 line heights so product specs and dimension tables breathe on the page rather than compressing into data grids. Corner radii stay modest throughout — {rounded.xs} to {rounded.sm} — a deliberate choice for a brand selling to facilities managers and office procurement teams as much as to individual desk buyers.
+name: "Vari"
+source_url: "https://www.vari.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The standing desk category has long defaulted to gray-on-gray industrial minimalism — Vari breaks from this with a saturated teal primary (#007fad) that carries every major CTA and hover state on the site, a hue specific enough to be brand-ownable without tipping into healthcare or nautical territory. Deep navy (#002543) anchors both the header and footer, wrapping the site in a dark-light contrast frame that lets large product photography — desks shown mid-lift, in real offices, with people — land without compositional competition. Type runs Lato at firm weights across the stack: display headings push to 48px at weight 700, body copy sits at 14–16px with generous 1.6 line heights so product specs and dimension tables breathe on the page rather than compressing into data grids. Corner radii stay modest throughout — {rounded.xs} to {rounded.sm} — a deliberate choice for a brand selling to facilities managers and office procurement teams as much as to individual desk buyers.
 
-Color does real functional work in the system. The teal primary (#007fad) drives "Shop Now" and "Add to Cart" CTAs, a vivid red (#e53c3c) marks sale badges and urgency labels, and a clean success green (#008827) confirms stock availability and form submissions. The full alert system deploys a semantic palette with Bootstrap-style tint/dark pairings — info teal (#abdde5 / #0c5460), warning amber (#ffe8a1 / #856404), danger crimson (#f5b1b1 / #771f1f) — pointing to a custom internal commerce platform rather than a theme store build. The canvas sits at a near-white #f9f9f9 rather than pure white, which softens contrast behind spec tables and product cards without drifting into the gray-heavy look of enterprise SaaS.
+  Color does real functional work in the system. The teal primary (#007fad) drives "Shop Now" and "Add to Cart" CTAs, a vivid red (#e53c3c) marks sale badges and urgency labels, and a clean success green (#008827) confirms stock availability and form submissions. The full alert system deploys a semantic palette with Bootstrap-style tint/dark pairings — info teal (#abdde5 / #0c5460), warning amber (#ffe8a1 / #856404), danger crimson (#f5b1b1 / #771f1f) — pointing to a custom internal commerce platform rather than a theme store build. The canvas sits at a near-white #f9f9f9 rather than pure white, which softens contrast behind spec tables and product cards without drifting into the gray-heavy look of enterprise SaaS.
 
-Configurator pages — where buyers choose surface size, finish, and frame color — concentrate the design system's complexity into inline validation states, swatch selectors with {rounded.full} rings, and contextual spec callouts. Mobile nav collapses into a full-screen navy drawer, keeping the teal primary as the sole action color against the dark ground. Section-level spacing is generous (64px+) to give product imagery and feature-grid callouts room to register; internal component spacing stays tight at {spacing.sm} to {spacing.base} to pack comparison rows efficiently.
+  Configurator pages — where buyers choose surface size, finish, and frame color — concentrate the design system's complexity into inline validation states, swatch selectors with {rounded.full} rings, and contextual spec callouts. Mobile nav collapses into a full-screen navy drawer, keeping the teal primary as the sole action color against the dark ground. Section-level spacing is generous (64px+) to give product imagery and feature-grid callouts room to register; internal component spacing stays tight at {spacing.sm} to {spacing.base} to pack comparison rows efficiently.
 
 colors:
   primary: "#007fad"
@@ -386,6 +390,8 @@ components:
 - Product comparison tray reduces to icon + badge count below 744px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom brand font confirmed from extraction — "Lato Fallback" in the font stack implies Lato is the primary web font, but the loading mechanism (Google Fonts, self-hosted, JS-injected) was not directly observable; Lato assigned as best inference
 - Exact button corner radii not captured from static extraction; {rounded.xs} (4px) assigned based on professional workspace positioning

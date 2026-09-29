@@ -1,0 +1,879 @@
+{
+  "source_url": "https://teaforte.com",
+  "final_url": "https://teaforte.com/",
+  "captured_at": "2026-09-28T09:10:27.137867+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://teaforte.com",
+      "final_url": "https://teaforte.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "f9dca47a585b7a06e8b38d361a46f3bfcf18b322562b74db51d581c5dcb03e1e",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://teaforte.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://teaforte.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://teaforte.com/cdn/shop/t/1460/assets/-base.min.css?v=111193936434204217641789415098",
+      "final_url": "https://teaforte.com/cdn/shop/t/1460/assets/-base.min.css?v=111193936434204217641789415098",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "fe5426ebba419cfc7ed79dc7a5f03b8ef9d58819cf0ddf70632a5d326f8c612a",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://teaforte.com/cdn/shop/t/1460/assets/hotfix.css?v=151091839731924727681789415153",
+      "final_url": "https://teaforte.com/cdn/shop/t/1460/assets/hotfix.css?v=151091839731924727681789415153",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "564a767dafe70942a0d86587406df607ac8b4f357d2362cc1427f25fee9b2114",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://teaforte.com/cdn/shop/t/1460/assets/component-acerill-custom-form.css?v=119899939273458221871789415114",
+      "final_url": "https://teaforte.com/cdn/shop/t/1460/assets/component-acerill-custom-form.css?v=119899939273458221871789415114",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e7f3ecc1d533e52f6e488ac952d866e6784f29ed5e3d1a38e78fa33e34791815",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://teaforte.com/cdn/shop/t/1460/assets/animations.css?v=82642193632558060091789415107",
+      "final_url": "https://teaforte.com/cdn/shop/t/1460/assets/animations.css?v=82642193632558060091789415107",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "01ade7d88ce50c6f38409a411e708217e27087c5ea41ceba6885910a430cd42c",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#7f8c95": {
+      "count": 47,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 27,
+      "sources": [
+        "https://teaforte.com/",
+        "https://teaforte.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://teaforte.com/cdn/shop/t/1460/assets/-base.min.css?v=111193936434204217641789415098",
+        "https://teaforte.com/cdn/shop/t/1460/assets/component-acerill-custom-form.css?v=119899939273458221871789415114"
+      ]
+    },
+    "#ae8e4b": {
+      "count": 17,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#46555e": {
+      "count": 17,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#455560": {
+      "count": 12,
+      "sources": [
+        "https://teaforte.com/",
+        "https://teaforte.com/cdn/shop/t/1460/assets/component-acerill-custom-form.css?v=119899939273458221871789415114"
+      ]
+    },
+    "#000000": {
+      "count": 5,
+      "sources": [
+        "https://teaforte.com/cdn/shop/t/1460/assets/-base.min.css?v=111193936434204217641789415098"
+      ]
+    },
+    "#fafafa": {
+      "count": 4,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#e4e3e3": {
+      "count": 4,
+      "sources": [
+        "https://teaforte.com/",
+        "https://teaforte.com/cdn/shop/t/1460/assets/component-acerill-custom-form.css?v=119899939273458221871789415114"
+      ]
+    },
+    "#ebb694": {
+      "count": 4,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#303b42": {
+      "count": 3,
+      "sources": [
+        "https://teaforte.com/",
+        "https://teaforte.com/cdn/shop/t/1460/assets/component-acerill-custom-form.css?v=119899939273458221871789415114"
+      ]
+    },
+    "#e42127": {
+      "count": 3,
+      "sources": [
+        "https://teaforte.com/",
+        "https://teaforte.com/cdn/shop/t/1460/assets/component-acerill-custom-form.css?v=119899939273458221871789415114"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 3,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#df8555": {
+      "count": 3,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#467c99": {
+      "count": 3,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 2,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 2,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#826b2f": {
+      "count": 2,
+      "sources": [
+        "https://teaforte.com/",
+        "https://teaforte.com/cdn/shop/t/1460/assets/component-acerill-custom-form.css?v=119899939273458221871789415114"
+      ]
+    },
+    "#b09040": {
+      "count": 2,
+      "sources": [
+        "https://teaforte.com/",
+        "https://teaforte.com/cdn/shop/t/1460/assets/component-acerill-custom-form.css?v=119899939273458221871789415114"
+      ]
+    },
+    "#b8070c": {
+      "count": 2,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 2,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#999999": {
+      "count": 2,
+      "sources": [
+        "https://teaforte.com/",
+        "https://teaforte.com/cdn/shop/t/1460/assets/-base.min.css?v=111193936434204217641789415098"
+      ]
+    },
+    "#616c74": {
+      "count": 2,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#cbe7d7": {
+      "count": 2,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#9faee5": {
+      "count": 2,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#c6cfc7": {
+      "count": 2,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#c2c6ca": {
+      "count": 2,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#f7eed4": {
+      "count": 2,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#f6e7a1": {
+      "count": 2,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#e3ebf0": {
+      "count": 2,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#0c1418": {
+      "count": 2,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://teaforte.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://teaforte.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0500ff": {
+      "count": 1,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#788c94": {
+      "count": 1,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#c1e0d8": {
+      "count": 1,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#666666": {
+      "count": 1,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#b8b8b8": {
+      "count": 1,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 1,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#ff0000": {
+      "count": 1,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#25b900": {
+      "count": 1,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 1,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#404d59": {
+      "count": 1,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#18191e": {
+      "count": 1,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#7f7560": {
+      "count": 1,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#f27474": {
+      "count": 1,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#f3dddf": {
+      "count": 1,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 1,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#f4f3ee": {
+      "count": 1,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#28a745": {
+      "count": 1,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#060606": {
+      "count": 1,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#bdbdbd": {
+      "count": 1,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#828282": {
+      "count": 1,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 1,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#efefef": {
+      "count": 1,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#425059": {
+      "count": 1,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#5d5d5d": {
+      "count": 1,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#777777": {
+      "count": 1,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "#6d6d6d": {
+      "count": 1,
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://teaforte.com/",
+      "https://teaforte.com/cdn/shop/t/1460/assets/component-acerill-custom-form.css?v=119899939273458221871789415114"
+    ],
+    "Arial": [
+      "https://teaforte.com/",
+      "https://teaforte.com/cdn/shop/t/1460/assets/component-acerill-custom-form.css?v=119899939273458221871789415114"
+    ],
+    "BlinkMacSystemFont": [
+      "https://teaforte.com/",
+      "https://teaforte.com/cdn/shop/t/1460/assets/component-acerill-custom-form.css?v=119899939273458221871789415114"
+    ],
+    "Gotham SSm A": [
+      "https://teaforte.com/",
+      "https://teaforte.com/cdn/shop/t/1460/assets/component-acerill-custom-form.css?v=119899939273458221871789415114"
+    ],
+    "Gotham SSm B": [
+      "https://teaforte.com/",
+      "https://teaforte.com/cdn/shop/t/1460/assets/component-acerill-custom-form.css?v=119899939273458221871789415114"
+    ],
+    "Helvetica Neue": [
+      "https://teaforte.com/",
+      "https://teaforte.com/cdn/shop/t/1460/assets/component-acerill-custom-form.css?v=119899939273458221871789415114"
+    ],
+    "Roboto": [
+      "https://teaforte.com/",
+      "https://teaforte.com/cdn/shop/t/1460/assets/component-acerill-custom-form.css?v=119899939273458221871789415114"
+    ],
+    "Segoe UI": [
+      "https://teaforte.com/cdn/shop/t/1460/assets/component-acerill-custom-form.css?v=119899939273458221871789415114"
+    ],
+    "Work Sans": [
+      "https://teaforte.com/"
+    ],
+    "inherit!important": [
+      "https://teaforte.com/cdn/shop/t/1460/assets/component-acerill-custom-form.css?v=119899939273458221871789415114"
+    ],
+    "sans-serif": [
+      "https://teaforte.com/"
+    ],
+    "sans-serif!important": [
+      "https://teaforte.com/cdn/shop/t/1460/assets/component-acerill-custom-form.css?v=119899939273458221871789415114"
+    ],
+    "system-ui": [
+      "https://teaforte.com/",
+      "https://teaforte.com/cdn/shop/t/1460/assets/component-acerill-custom-form.css?v=119899939273458221871789415114"
+    ],
+    "tf-icons": [
+      "https://teaforte.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://teaforte.com/",
+      "selector": ":root",
+      "declarations": "--hh-grid-gutter: 1rem;\n\n        --hh-space-2xs: 5px;\n        --hh-space-xs: 10px;\n        --hh-space-sm: 20px;\n        --hh-space-md: 30px;\n        --hh-space-lg: 45px;\n        --hh-space-xl: 60px;\n        --hh-space-2xl: 80px;\n        --hh-space-3xl: 120px;\n        --hh-p2-to-p1-font: 400 16px/24px 'Gotham SSm A', 'Gotham SSm B', -apple-system, system-ui;"
+    },
+    {
+      "source": "https://teaforte.com/",
+      "selector": ".product-card__description--discount",
+      "declarations": "--discount-text-color: #c40b11;"
+    },
+    {
+      "source": "https://teaforte.com/",
+      "selector": "hh-broadcast:has(.has-button-checkout) .delivery-text svg",
+      "declarations": "--hh-color: #7F8C95;"
+    },
+    {
+      "source": "https://teaforte.com/",
+      "selector": "hh-broadcast:has(.has-button-checkout) .delivery-text svg",
+      "declarations": "--hh-color: #7F8C95;"
+    },
+    {
+      "source": "https://teaforte.com/",
+      "selector": "hh-broadcast:has(.has-button-checkout) .delivery-text svg",
+      "declarations": "--hh-color: #7F8C95;"
+    },
+    {
+      "source": "https://teaforte.com/",
+      "selector": "hh-broadcast:has(.has-button-checkout) .delivery-text svg",
+      "declarations": "--hh-color: #7F8C95;"
+    },
+    {
+      "source": "https://teaforte.com/",
+      "selector": "hh-broadcast:has(.has-button-checkout) .delivery-text svg",
+      "declarations": "--hh-color: #7F8C95;"
+    },
+    {
+      "source": "https://teaforte.com/",
+      "selector": "hh-broadcast:has(.has-button-checkout) .delivery-text svg",
+      "declarations": "--hh-color: #7F8C95;"
+    },
+    {
+      "source": "https://teaforte.com/",
+      "selector": "hh-broadcast:has(.has-button-checkout) .delivery-text svg",
+      "declarations": "--hh-color: #7F8C95;"
+    },
+    {
+      "source": "https://teaforte.com/",
+      "selector": "hh-broadcast:has(.has-button-checkout) .delivery-text svg",
+      "declarations": "--hh-color: #7F8C95;"
+    },
+    {
+      "source": "https://teaforte.com/",
+      "selector": "hh-broadcast:has(.has-button-checkout) .delivery-text svg",
+      "declarations": "--hh-color: #7F8C95;"
+    },
+    {
+      "source": "https://teaforte.com/",
+      "selector": "hh-broadcast:has(.has-button-checkout) .delivery-text svg",
+      "declarations": "--hh-color: #7F8C95;"
+    },
+    {
+      "source": "https://teaforte.com/",
+      "selector": "hh-broadcast:has(.has-button-checkout) .delivery-text svg",
+      "declarations": "--hh-color: #7F8C95;"
+    },
+    {
+      "source": "https://teaforte.com/",
+      "selector": "hh-broadcast:has(.has-button-checkout) .delivery-text svg",
+      "declarations": "--hh-color: #7F8C95;"
+    },
+    {
+      "source": "https://teaforte.com/",
+      "selector": "hh-broadcast:has(.has-button-checkout) .delivery-text svg",
+      "declarations": "--hh-color: #7F8C95;"
+    },
+    {
+      "source": "https://teaforte.com/",
+      "selector": "hh-broadcast:has(.has-button-checkout) .delivery-text svg",
+      "declarations": "--hh-color: #7F8C95;"
+    },
+    {
+      "source": "https://teaforte.com/",
+      "selector": "hh-broadcast:has(.has-button-checkout) .delivery-text svg",
+      "declarations": "--hh-color: #7F8C95;"
+    },
+    {
+      "source": "https://teaforte.com/",
+      "selector": "hh-broadcast:has(.has-button-checkout) .delivery-text svg",
+      "declarations": "--hh-color: #7F8C95;"
+    },
+    {
+      "source": "https://teaforte.com/",
+      "selector": "hh-broadcast:has(.has-button-checkout) .delivery-text svg",
+      "declarations": "--hh-color: #7F8C95;"
+    },
+    {
+      "source": "https://teaforte.com/",
+      "selector": "hh-broadcast:has(.has-button-checkout) .delivery-text svg",
+      "declarations": "--hh-color: #7F8C95;"
+    },
+    {
+      "source": "https://teaforte.com/",
+      "selector": "hh-broadcast:has(.has-button-checkout) .delivery-text svg",
+      "declarations": "--hh-color: #7F8C95;"
+    },
+    {
+      "source": "https://teaforte.com/",
+      "selector": "hh-broadcast:has(.has-button-checkout) .delivery-text svg",
+      "declarations": "--hh-color: #7F8C95;"
+    },
+    {
+      "source": "https://teaforte.com/",
+      "selector": "hh-broadcast:has(.has-button-checkout) .delivery-text svg",
+      "declarations": "--hh-color: #7F8C95;"
+    },
+    {
+      "source": "https://teaforte.com/",
+      "selector": "hh-broadcast:has(.has-button-checkout) .delivery-text svg",
+      "declarations": "--hh-color: #7F8C95;"
+    },
+    {
+      "source": "https://teaforte.com/",
+      "selector": "hh-broadcast:has(.has-button-checkout) .delivery-text svg",
+      "declarations": "--hh-color: #7F8C95;"
+    },
+    {
+      "source": "https://teaforte.com/",
+      "selector": ".recharge-theme:has(.gift.image) [data-testid=\"cancel-form\"] ._15b7gxl0._17o99wp2._17o99wpjc._17o99wpl3._17o99wpl2._17o99wpmf._17o99wplr > div > div > button[da",
+      "declarations": "background-color: #467C99;\n    border-color: #467C99;\n    color: #fff;"
+    },
+    {
+      "source": "https://teaforte.com/",
+      "selector": ".recharge-theme:has(.gift.image) [data-testid=\"cancel-form\"] ._15b7gxl0._17o99wp2._17o99wpjc._17o99wpl3._17o99wpl2._17o99wpmf._17o99wplr > div > div > button[da",
+      "declarations": "background-color: #E3EBF0;\n    border-color: #E3EBF0;\n    color: #467C99;"
+    },
+    {
+      "source": "https://teaforte.com/",
+      "selector": "hh-header .nav-desktop__link:nth-child(8) > .nav-desktop__link-header",
+      "declarations": "color: #46555e;"
+    },
+    {
+      "source": "https://teaforte.com/",
+      "selector": ":root",
+      "declarations": "--aa-search-input-height:44px;--aa-input-icon-size:20px;--aa-base-unit:16;--aa-spacing-factor:1;--aa-spacing:calc(var(--aa-base-unit)*var(--aa-spacing-factor)*1px);--aa-spacing-half:calc(var(--aa-spacing)/2);--aa-panel-max-height-max:650px;--aa-panel-max-height:var(--aa-panel-max-height-max);--aa-base-z-index:9999;--aa-font-size:calc(var(--aa-base-unit)*1px);--aa-font-family:inherit;--aa-font-weight-medium:500;--aa-font-weight-semibold:600;--aa-font-weight-bold:700;--aa-icon-size:20px;--aa-icon-stroke-width:1.6;--aa-icon-color-rgb:119,119,163;--aa-icon-color-alpha:1;--aa-action-icon-size:20px;--aa-text-color-rgb:38,38,39;--aa-text-color-alpha:1;--aa-primary-color-rgb:62,52,211;--aa-primary-c"
+    },
+    {
+      "source": "https://teaforte.com/",
+      "selector": ":root",
+      "declarations": "--aa-spacing-factor:1.2;--aa-action-icon-size:22px"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Tea Forté | The Exceptional Tea Experience",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teaforte.com/",
+        "https://teaforte.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://teaforte.com/cdn/shop/t/1460/assets/-base.min.css?v=111193936434204217641789415098",
+        "https://teaforte.com/cdn/shop/t/1460/assets/component-acerill-custom-form.css?v=119899939273458221871789415114"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teaforte.com/",
+        "https://teaforte.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://teaforte.com/cdn/shop/t/1460/assets/-base.min.css?v=111193936434204217641789415098",
+        "https://teaforte.com/cdn/shop/t/1460/assets/component-acerill-custom-form.css?v=119899939273458221871789415114"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teaforte.com/",
+        "https://teaforte.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://teaforte.com/cdn/shop/t/1460/assets/-base.min.css?v=111193936434204217641789415098",
+        "https://teaforte.com/cdn/shop/t/1460/assets/component-acerill-custom-form.css?v=119899939273458221871789415114"
+      ]
+    },
+    "colors.accent-brass-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teaforte.com/",
+        "https://teaforte.com/cdn/shop/t/1460/assets/component-acerill-custom-form.css?v=119899939273458221871789415114"
+      ]
+    },
+    "colors.accent-blue-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "colors.accent-sale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teaforte.com/",
+        "https://teaforte.com/cdn/shop/t/1460/assets/component-acerill-custom-form.css?v=119899939273458221871789415114"
+      ]
+    },
+    "colors.accent-sale-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "colors.accent-success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "colors.surface-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teaforte.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teaforte.com/",
+        "https://teaforte.com/cdn/shop/t/1460/assets/-base.min.css?v=111193936434204217641789415098"
+      ]
+    },
+    "colors.overlay-transparent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teaforte.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.tea-collection-tile": {
+      "status": "inferred"
+    }
+  }
+}

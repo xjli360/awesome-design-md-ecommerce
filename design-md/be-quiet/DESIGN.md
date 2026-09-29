@@ -1,31 +1,11 @@
 ---
 version: alpha
-name: Be Quiet!
-description: >-
-  The brand insists on lowercase in its own name — "be quiet!" arrives without a capital letter,
-  as if raising your voice would betray the product. Against a near-black canvas (#1a1a1a to
-  #222222), the signature orange (#ee7f00) functions as the sole thermal event in the visual
-  system: it fires on primary CTAs, active navigation underlines, product-line badges, and
-  compatibility highlights, while everything else recedes into charcoal grays (#929395, #55595c,
-  #373a3c) and a cool light-gray panel (#eceeef). Open Sans carries the full typographic load at
-  weights 400 through 700 — there is no custom display face, no editorial headline font. The brand
-  relies on engineering density rather than typographic spectacle, pushing spec tables,
-  socket-compatibility matrices, and TDP ratings through the same body grid that carries marketing
-  copy. Surface panels favor #eceeef over pure white, creating a slightly industrial separation
-  that recalls specification sheets rather than lifestyle lookbooks. The component system shows
-  clear Bootstrap lineage but deliberately darkened: greens (#5cb85c), ambers (#f0ad4e), reds
-  (#d9534f), and teals (#5bc0de) survive exclusively as status and compatibility flags — thermal
-  tier chips, warranty badge variants, LED support indicators — rather than primary UI chrome.
-  Corner radii are minimal, {rounded.xs} to {rounded.sm}, consistent with precision-machined
-  hardware; pill shapes appear only on filter chips and small rating labels. Product pages are
-  structured around horizontal comparison tables and layered technical diagrams where a CPU
-  cooler's TDP, fan RPM, socket list, and noise floor must coexist in a single scannable row
-  without visual chaos. Navigation is persistent with a dark background, using #ee7f00 as the
-  active-state underline rather than a typographic weight shift. The footer is architecturally
-  deep — PSU calculator, cooler compatibility check, support portals, regulatory certifications
-  — because be quiet!'s audience expects thorough reference infrastructure, not lifestyle
-  curation. The emotional register is controlled and systematic: German precision engineering,
-  proud of specification depth over visual flair.
+name: "Be Quiet!"
+source_url: "https://www.bequiet.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The brand insists on lowercase in its own name — "be quiet!" arrives without a capital letter, as if raising your voice would betray the product. Against a near-black canvas (#1a1a1a to #222222), the signature orange (#ee7f00) functions as the sole thermal event in the visual system: it fires on primary CTAs, active navigation underlines, product-line badges, and compatibility highlights, while everything else recedes into charcoal grays (#929395, #55595c, #373a3c) and a cool light-gray panel (#eceeef). Open Sans carries the full typographic load at weights 400 through 700 — there is no custom display face, no editorial headline font. The brand relies on engineering density rather than typographic spectacle, pushing spec tables, socket-compatibility matrices, and TDP ratings through the same body grid that carries marketing copy. Surface panels favor #eceeef over pure white, creating a slightly industrial separation that recalls specification sheets rather than lifestyle lookbooks. The component system shows clear Bootstrap lineage but deliberately darkened: greens (#5cb85c), ambers (#f0ad4e), reds (#d9534f), and teals (#5bc0de) survive exclusively as status and compatibility flags — thermal tier chips, warranty badge variants, LED support indicators — rather than primary UI chrome. Corner radii are minimal, {rounded.xs} to {rounded.sm}, consistent with precision-machined hardware; pill shapes appear only on filter chips and small rating labels. Product pages are structured around horizontal comparison tables and layered technical diagrams where a CPU cooler's TDP, fan RPM, socket list, and noise floor must coexist in a single scannable row without visual chaos. Navigation is persistent with a dark background, using #ee7f00 as the active-state underline rather than a typographic weight shift. The footer is architecturally deep — PSU calculator, cooler compatibility check, support portals, regulatory certifications — because be quiet!'s audience expects thorough reference infrastructure, not lifestyle curation. The emotional register is controlled and systematic: German precision engineering, proud of specification depth over visual flair.
 
 colors:
   primary: "#ee7f00"
@@ -433,6 +413,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No confirmed custom brand typeface — Open Sans identified from font stacks but display weight distribution and exact size hierarchy not captured; weights 400/600/700 and size scale inferred from common Bootstrap-era e-commerce patterns
 - Dark-mode versus mixed-theme split not determinable from extraction — the palette includes both near-black (#1a1a1a) and near-white (#f5f5f5, #eceeef) tokens, suggesting a mixed-theme layout (dark nav/hero, light content body) rather than a full dark-mode site

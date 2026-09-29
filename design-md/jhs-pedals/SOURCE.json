@@ -1,0 +1,817 @@
+{
+  "source_url": "https://www.jhspedals.info",
+  "final_url": "https://jhspedals.info/",
+  "captured_at": "2026-09-28T09:33:05.111640+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.jhspedals.info",
+      "final_url": "https://jhspedals.info/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "3ad065ceac06a74c17610f456c374d25f90a3e5989a02d22a311228d3ba1c047",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://jhspedals.info/cdn/shop/t/33/assets/font-settings.css?v=169531295829146012681787663563",
+      "final_url": "https://jhspedals.info/cdn/shop/t/33/assets/font-settings.css?v=169531295829146012681787663563",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "63c63cb2d0b4485c478d0fdef15c8d4fe752e35d3a29cad3cb9501f226b23639",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+      "final_url": "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "92b099f447af2f1ad2391290c31296b4fd318f669d0974ef4b17427541c07096",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://jhspedals.info/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://jhspedals.info/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0e741-5035-7f2e-9441-250a25f7ec94/essential-post-purchase-upsell-1719/assets/stylex-DA-4vbPY.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0e741-5035-7f2e-9441-250a25f7ec94/essential-post-purchase-upsell-1719/assets/stylex-DA-4vbPY.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4ec98c89f61f258fe39824170ef8bd88fd4f3898ac0661c65fb82b5703088fea",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 71,
+      "sources": [
+        "https://jhspedals.info/",
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+        "https://jhspedals.info/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0e741-5035-7f2e-9441-250a25f7ec94/essential-post-purchase-upsell-1719/assets/stylex-DA-4vbPY.css"
+      ]
+    },
+    "#000000": {
+      "count": 29,
+      "sources": [
+        "https://jhspedals.info/",
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+        "https://cdn.shopify.com/extensions/01a0e741-5035-7f2e-9441-250a25f7ec94/essential-post-purchase-upsell-1719/assets/stylex-DA-4vbPY.css"
+      ]
+    },
+    "#0000000f": {
+      "count": 17,
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+        "https://cdn.shopify.com/extensions/01a0e741-5035-7f2e-9441-250a25f7ec94/essential-post-purchase-upsell-1719/assets/stylex-DA-4vbPY.css"
+      ]
+    },
+    "#ffffff00": {
+      "count": 16,
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "#3a3a3a": {
+      "count": 14,
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "#ffffff40": {
+      "count": 12,
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "#0000001a": {
+      "count": 8,
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "#3a3a3a40": {
+      "count": 6,
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "#d7d9dc": {
+      "count": 6,
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 5,
+      "sources": [
+        "https://jhspedals.info/",
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "#00000000": {
+      "count": 5,
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+        "https://jhspedals.info/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 4,
+      "sources": [
+        "https://jhspedals.info/",
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "#333333": {
+      "count": 4,
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "#323945": {
+      "count": 3,
+      "sources": [
+        "https://jhspedals.info/"
+      ]
+    },
+    "#ffffff99": {
+      "count": 3,
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "#737b83": {
+      "count": 3,
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "#cccccc": {
+      "count": 3,
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "#b74737": {
+      "count": 3,
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "#00000005": {
+      "count": 3,
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "#00000014": {
+      "count": 3,
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "#00000012": {
+      "count": 3,
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "#e3e3e3": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e741-5035-7f2e-9441-250a25f7ec94/essential-post-purchase-upsell-1719/assets/stylex-DA-4vbPY.css"
+      ]
+    },
+    "#0000000d": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e741-5035-7f2e-9441-250a25f7ec94/essential-post-purchase-upsell-1719/assets/stylex-DA-4vbPY.css"
+      ]
+    },
+    "#0066cc": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e741-5035-7f2e-9441-250a25f7ec94/essential-post-purchase-upsell-1719/assets/stylex-DA-4vbPY.css"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 2,
+      "sources": [
+        "https://jhspedals.info/"
+      ]
+    },
+    "#ff8484": {
+      "count": 2,
+      "sources": [
+        "https://jhspedals.info/"
+      ]
+    },
+    "#000000cc": {
+      "count": 2,
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "#c1c9d1": {
+      "count": 2,
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "#c1c9d1a8": {
+      "count": 2,
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "#0000000a": {
+      "count": 2,
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://jhspedals.info/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 1,
+      "sources": [
+        "https://jhspedals.info/"
+      ]
+    },
+    "#10141b": {
+      "count": 1,
+      "sources": [
+        "https://jhspedals.info/"
+      ]
+    },
+    "#70747d": {
+      "count": 1,
+      "sources": [
+        "https://jhspedals.info/"
+      ]
+    },
+    "#060f9e": {
+      "count": 1,
+      "sources": [
+        "https://jhspedals.info/"
+      ]
+    },
+    "#b8b8b8": {
+      "count": 1,
+      "sources": [
+        "https://jhspedals.info/"
+      ]
+    },
+    "#0f141c": {
+      "count": 1,
+      "sources": [
+        "https://jhspedals.info/"
+      ]
+    },
+    "#f73f88": {
+      "count": 1,
+      "sources": [
+        "https://jhspedals.info/"
+      ]
+    },
+    "#ea005c": {
+      "count": 1,
+      "sources": [
+        "https://jhspedals.info/"
+      ]
+    },
+    "#0d0d0d": {
+      "count": 1,
+      "sources": [
+        "https://jhspedals.info/"
+      ]
+    },
+    "#aeaeae": {
+      "count": 1,
+      "sources": [
+        "https://jhspedals.info/"
+      ]
+    },
+    "#151515": {
+      "count": 1,
+      "sources": [
+        "https://jhspedals.info/"
+      ]
+    },
+    "#1f1f1f": {
+      "count": 1,
+      "sources": [
+        "https://jhspedals.info/"
+      ]
+    },
+    "#51c88e": {
+      "count": 1,
+      "sources": [
+        "https://jhspedals.info/"
+      ]
+    },
+    "#ffc896": {
+      "count": 1,
+      "sources": [
+        "https://jhspedals.info/"
+      ]
+    },
+    "#fff1e3": {
+      "count": 1,
+      "sources": [
+        "https://jhspedals.info/"
+      ]
+    },
+    "#412d00": {
+      "count": 1,
+      "sources": [
+        "https://jhspedals.info/"
+      ]
+    },
+    "#ffffffbf": {
+      "count": 1,
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "#1199ff": {
+      "count": 1,
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "#4a5764": {
+      "count": 1,
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "#3a3a3a8c": {
+      "count": 1,
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "#00000026": {
+      "count": 1,
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "#3a3a3a99": {
+      "count": 1,
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "#fbfbfb": {
+      "count": 1,
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "#d86353": {
+      "count": 1,
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "#555555": {
+      "count": 1,
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "#58686f": {
+      "count": 1,
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "#00000099": {
+      "count": 1,
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "#eeeeee": {
+      "count": 1,
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+    ],
+    "Avenir": [
+      "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+    ],
+    "Avenir Next": [
+      "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+    ],
+    "Figtree": [
+      "https://jhspedals.info/cdn/shop/t/33/assets/font-settings.css?v=169531295829146012681787663563"
+    ],
+    "Helvetica": [
+      "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+    ],
+    "Helvetica Neue": [
+      "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+    ],
+    "Segoe UI": [
+      "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+    ],
+    "monospace": [
+      "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+    ],
+    "sans-serif": [
+      "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://jhspedals.info/",
+      "selector": ":root",
+      "declarations": "--menu-height: calc(114px);"
+    },
+    {
+      "source": "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+      "selector": ".flickity-button",
+      "declarations": "position:absolute;background:#ffffffbf;border:none;color:#333"
+    },
+    {
+      "source": "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button",
+      "declarations": "color:var(--text);border-radius:0;border:none;margin:0;cursor:pointer"
+    },
+    {
+      "source": "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button--control:hover",
+      "declarations": "color:var(--COLOR-A50)"
+    },
+    {
+      "source": "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button--control:active,.shopify-model-viewer-ui .shopify-model-viewer-ui__button--control.focus-visible:focus",
+      "declarations": "color:var(--COLOR-A50);background:var(--COLOR-A5)"
+    },
+    {
+      "source": "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button--poster:hover,.shopify-model-viewer-ui .shopify-model-viewer-ui__button--poster:focus",
+      "declarations": "color:var(--COLOR-A50)"
+    },
+    {
+      "source": "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+      "selector": ".pswp__button,.pswp__button svg.icon,.pswp__button--arrow--left:before,.pswp__button--arrow--right:before",
+      "declarations": "width:2rem;height:2rem;-webkit-tap-highlight-color:rgba(0,0,0,0);-webkit-tap-highlight-color:transparent;-webkit-user-select:none;-moz-user-select:none;user-select:none"
+    },
+    {
+      "source": "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:sans-serif;font-size:100%;line-height:1.15;margin:0"
+    },
+    {
+      "source": "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+      "selector": "button",
+      "declarations": "border:none;background:none;font-family:inherit;font-size:100%;margin:0;text-transform:none;line-height:1;color:inherit"
+    },
+    {
+      "source": "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+      "selector": ".color-body-text",
+      "declarations": "color:var(--text)"
+    },
+    {
+      "source": "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+      "selector": ".color-body-text-dark",
+      "declarations": "color:var(--text-dark)"
+    },
+    {
+      "source": "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+      "selector": ".color-body-text-bright",
+      "declarations": "color:var(--text-light)"
+    },
+    {
+      "source": "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+      "selector": ":root",
+      "declarations": "--gutter: var(--LAYOUT-GUTTER);--outer: var(--LAYOUT-OUTER);--vertical: 60px;--inner: 20px;--base: 16px;--line: 1rem"
+    },
+    {
+      "source": "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+      "selector": ":root",
+      "declarations": "--gutter: calc(var(--LAYOUT-GUTTER) * .8);--outer: calc(var(--LAYOUT-OUTER) * .8);--vertical: 40px;--inner: 18px;--base: 15px"
+    },
+    {
+      "source": "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+      "selector": ":root",
+      "declarations": "--gutter: calc(var(--LAYOUT-GUTTER) * .6);--outer: calc(var(--LAYOUT-OUTER) * .6);--vertical: 24px;--inner: 16px;--base: 14px;--line: .66rem"
+    },
+    {
+      "source": "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+      "selector": "body",
+      "declarations": "min-width:320px;line-height:1.6;font-family:var(--FONT-STACK-BODY);color:var(--text);font-weight:var(--FONT-WEIGHT-BODY);font-size:calc(16px * var(--FONT-ADJUST-BODY));font-style:normal;text-rendering:optimizelegibility"
+    },
+    {
+      "source": "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+      "selector": "body:not(.template-index,.template-collection)",
+      "declarations": "background-color:var(--bg)"
+    },
+    {
+      "source": "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+      "selector": "[data-overlay-header].has-overlay",
+      "declarations": "--image-top: var(--menu-height);--image-bottom: calc(var(--menu-height) * .66)"
+    },
+    {
+      "source": "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+      "selector": ":root",
+      "declarations": "--leading-none: 1;--leading-hairline: 1.25;--leading-tight: 1.25;--leading-snug: 1.375;--leading-normal: 1.5;--leading-relaxed: 1.625;--leading-loose: 2;--font-15: 50px;--font-14: 45px;--font-13: 41px;--font-12: 38px;--font-11: 35px;--font-10: 32px;--font-9: 28px;--font-8: 25px;--font-7: 22px;--font-6: 19px;--font-5: 17px;--font-4: 16px;--font-3: 14px;--font-2: 13px;--font-1: 12px"
+    },
+    {
+      "source": "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+      "selector": ":root",
+      "declarations": "--font-15: 57px;--font-14: 50px;--font-13: 45px;--font-12: 41px;--font-11: 38px;--font-10: 35px;--font-9: 31px;--font-8: 28px;--font-7: 24px;--font-6: 21px;--font-5: 19px;--font-4: 16px;--font-3: 14px;--font-2: 13px;--font-1: 12px"
+    },
+    {
+      "source": "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+      "selector": ":root",
+      "declarations": "--font-15: 68px;--font-14: 62px;--font-13: 55px;--font-12: 50px;--font-11: 45px;--font-10: 40px;--font-9: 34px;--font-8: 30px;--font-7: 26px;--font-6: 23px;--font-5: 20px;--font-4: 16px;--font-3: 14px;--font-2: 13px;--font-1: 12px"
+    },
+    {
+      "source": "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+      "selector": "body,input,textarea,button,select",
+      "declarations": "font-size:calc(var(--font-4) * var(--FONT-ADJUST-BODY));line-height:1.6;font-family:var(--FONT-STACK-BODY);font-weight:var(--FONT-WEIGHT-BODY);color:var(--text);-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;text-size-adjust:100%"
+    },
+    {
+      "source": "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+      "selector": "h1,h2,h3,h4,h5,h6,.h1--body,.h1--accent,.h2--body,.h2--accent,.h3--body,.h3--accent,.h4--body,.h4--accent,.h5--body,.h5--accent,.h6--body,.custom-form__label,.h",
+      "declarations": "color:var(--text-dark);margin:0 0 .5em;line-height:1.4"
+    },
+    {
+      "source": "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+      "selector": "h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6",
+      "declarations": "font-family:var(--FONT-STACK-HEADING);font-weight:var(--FONT-WEIGHT-HEADING);font-style:var(--FONT-STYLE-HEADING)"
+    },
+    {
+      "source": "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+      "selector": ".h1--body,.h2--body,.h3--body,.h4--body,.h5--body,.h6--body,.custom-form__label",
+      "declarations": "font-family:var(--FONT-STACK-BODY);font-weight:var(--FONT-WEIGHT-BODY);font-style:var(--FONT-STYLE-BODY)"
+    },
+    {
+      "source": "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+      "selector": ".h1--accent,.h2--accent,.h3--accent,.h4--accent,.h5--accent,.h6--accent,.pagination .page",
+      "declarations": "font-family:var(--FONT-STACK-ACCENT);font-weight:var(--FONT-WEIGHT-ACCENT)"
+    },
+    {
+      "source": "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+      "selector": ".font-body",
+      "declarations": "font-family:var(--FONT-STACK-BODY);font-weight:var(--FONT-WEIGHT-BODY);font-style:var(--FONT-STYLE-BODY)"
+    },
+    {
+      "source": "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+      "selector": ".palette--light,:root",
+      "declarations": "--bg: var(--COLOR-BG);--bg-accent: var(--COLOR-BG-ACCENT);--text-dark: var(--COLOR-TEXT-DARK);--text: var(--COLOR-TEXT);--text-light: var(--COLOR-TEXT-LIGHT);--hover: var(--COLOR-A95);--muted: var(--COLOR-A40);--dull: var(--COLOR-A20);--border: var(--COLOR-BORDER);--border-light: var(--COLOR-BORDER-LIGHT);--hairline: var(--COLOR-A5);--hairline-hover: var(--COLOR-A10);--contrast: #000;--primary: var(--COLOR-PRIMARY);--primary-fade: var(--COLOR-PRIMARY-FADE);--primary-fade-hover: var(--COLOR-PRIMARY-FADE-HOVER);--primary-hover: var(--COLOR-PRIMARY-HOVER);--primary-opposite: var(--COLOR-PRIMARY-OPPOSITE);--primary-shadow: var(--COLOR-PRIMARY-SHADOW);--secondary: var(--COLOR-SECONDARY);--seconda"
+    },
+    {
+      "source": "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+      "selector": ".palette--dark,body.default--dark",
+      "declarations": "--bg: var(--INVERSE-BG);--bg-accent: var(--INVERSE-BG-ACCENT);--text-dark: var(--INVERSE-TEXT-DARK);--text: var(--INVERSE-TEXT);--text-light: var(--INVERSE-TEXT-LIGHT);--hover: var(--INVERSE-A95);--muted: var(--INVERSE-A40);--dull: var(--INVERSE-A20);--border: var(--INVERSE-BORDER);--border-light: var(--INVERSE-BORDER-LIGHT);--hairline: var(--INVERSE-A5);--hairline-hover: var(--INVERSE-A10);--contrast: #FFF;--primary: var(--INVERSE-PRIMARY);--primary-fade: var(--INVERSE-PRIMARY-FADE);--primary-fade-hover: var(--INVERSE-PRIMARY-FADE-HOVER);--primary-hover: var(--INVERSE-PRIMARY-HOVER);--primary-opposite: var(--INVERSE-PRIMARY-OPPOSITE);--primary-shadow: var(--INVERSE-PRIMARY-SHADOW);--seconda"
+    },
+    {
+      "source": "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+      "selector": ".text-link.btn--neutral",
+      "declarations": "color:var(--text)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "JHS Pedals",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jhspedals.info/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jhspedals.info/",
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+        "https://cdn.shopify.com/extensions/01a0e741-5035-7f2e-9441-250a25f7ec94/essential-post-purchase-upsell-1719/assets/stylex-DA-4vbPY.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jhspedals.info/",
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+        "https://jhspedals.info/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0e741-5035-7f2e-9441-250a25f7ec94/essential-post-purchase-upsell-1719/assets/stylex-DA-4vbPY.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jhspedals.info/",
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jhspedals.info/",
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536",
+        "https://jhspedals.info/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0e741-5035-7f2e-9441-250a25f7ec94/essential-post-purchase-upsell-1719/assets/stylex-DA-4vbPY.css"
+      ]
+    },
+    "colors.ink-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jhspedals.info/"
+      ]
+    },
+    "colors.badge-alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "colors.link": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e741-5035-7f2e-9441-250a25f7ec94/essential-post-purchase-upsell-1719/assets/stylex-DA-4vbPY.css"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jhspedals.info/",
+        "https://jhspedals.info/cdn/shop/t/33/assets/theme.css?v=145404724729125988261787663536"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.product-media-gallery": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "source_url": "https://blacktailstudio.com",
+  "final_url": "https://www.blacktailstudio.com/",
+  "captured_at": "2026-09-28T09:32:15.681667+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://blacktailstudio.com",
+      "final_url": "https://www.blacktailstudio.com/",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "sha256": "02b8db9a869bcdc304af3308b9ef1a396179148e3cf11e3b66fcb7d40bdd37e8",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/user-account-core-bf8b0e0129e2a7ba-min.en-US.css",
+      "final_url": "https://assets.squarespace.com/universal/styles-compressed/user-account-core-bf8b0e0129e2a7ba-min.en-US.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6b5fd9b8af2d32b19f4e31f5ea6db1496a6fa10f6bff4ef9f1c11d90e88f703c",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.button/5a741ea1-9d9f-47f9-825c-74a26f91e3b4_1111/website.components.button.styles.css",
+      "final_url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.button/5a741ea1-9d9f-47f9-825c-74a26f91e3b4_1111/website.components.button.styles.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "1ae84d9f9687b4d101a7e87382c7a11b8029157df95de292ad48ac87f209f912",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css",
+      "final_url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "04074d2ca704a6f1dab02ef607a2a23548cdc1be12c242d03d09c9a133383e87",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 28,
+      "sources": [
+        "https://www.blacktailstudio.com/",
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css"
+      ]
+    },
+    "#b72e00": {
+      "count": 14,
+      "sources": [
+        "https://www.blacktailstudio.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 7,
+      "sources": [
+        "https://www.blacktailstudio.com/",
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css"
+      ]
+    },
+    "#f6774c": {
+      "count": 6,
+      "sources": [
+        "https://www.blacktailstudio.com/"
+      ]
+    },
+    "#e04b4b": {
+      "count": 5,
+      "sources": [
+        "https://www.blacktailstudio.com/"
+      ]
+    },
+    "#333333": {
+      "count": 2,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css"
+      ]
+    },
+    "#f15723": {
+      "count": 1,
+      "sources": [
+        "https://www.blacktailstudio.com/"
+      ]
+    },
+    "#e7ebee": {
+      "count": 1,
+      "sources": [
+        "https://www.blacktailstudio.com/"
+      ]
+    },
+    "#222222": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css"
+      ]
+    }
+  },
+  "font_families": {
+    "EB Garamond": [
+      "https://www.blacktailstudio.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.blacktailstudio.com/",
+      "selector": "#block-yui_3_17_2_1_1709006341547_47895 h1",
+      "declarations": "color: #FFFFFF;"
+    },
+    {
+      "source": "https://www.blacktailstudio.com/",
+      "selector": "#block-yui_3_17_2_1_1653440452993_58366, #block-yui_3_17_2_1_1653441948970_29608 h1",
+      "declarations": "color: white;"
+    },
+    {
+      "source": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css",
+      "selector": ".sqs-block[data-definition-name=\"website.components.summary\"] .summary-product-status .product-mark",
+      "declarations": "background:#222;color:#fff;font-size:14px;line-height:14px;padding:6px 8px;position:absolute;right:0;text-transform:uppercase;top:15px;-webkit-font-smoothing:antialiased;box-sizing:initial"
+    },
+    {
+      "source": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css",
+      "selector": ".sqs-block[data-definition-name=\"website.components.summary\"] .product-scarcity",
+      "declarations": "color:#000;font-size:14px;line-height:20px;margin:0 0 10px;text-align:left"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Custom Woodworking, Tutorials, Epoxy Resin Workshops - Blacktail Studio",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.blacktailstudio.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.blacktailstudio.com/",
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.blacktailstudio.com/",
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.blacktailstudio.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.blacktailstudio.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.blacktailstudio.com/",
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.blacktailstudio.com/",
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css"
+      ]
+    },
+    "colors.accent-orange": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.blacktailstudio.com/"
+      ]
+    },
+    "colors.accent-warm": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.blacktailstudio.com/"
+      ]
+    },
+    "colors.accent-coral": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.blacktailstudio.com/"
+      ]
+    },
+    "colors.surface-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.workshop-card": {
+      "status": "inferred"
+    }
+  }
+}

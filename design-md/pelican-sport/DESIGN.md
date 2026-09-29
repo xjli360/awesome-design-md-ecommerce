@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Pelican Sport
-description: |
+name: "Pelican Sport"
+source_url: "https://www.pelicansport.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Electric chartreuse (#d2de31) is the first thing that breaks from expectation — not the ocean blue most paddle brands default to, but the high-vis color of a buoy marker, a tow rope end-cap, a spray skirt pull tab. Pelican Sport builds its interface from a teal-and-forest-green spine (#108474 anchoring into #277158 and down into the near-black depths of #0c5132), then detonates that spine with two accent voltages: chartreuse for promotional callouts and amber (#fbcd0a) for secondary signals. The combination maps to how safety equipment actually looks on water — not aspirational photography blue but the literal palette of gear you grab in a hurry.
 
   Dark anchors run deep: #1a1a1a and #0a0a0a appear in footer backgrounds and high-contrast text blocks, and #1a1a2e (a blue-tinted near-black) introduces a depth register in hero sections that reads as open water after dark rather than generic dark mode. Against that, the canvas is near-white (#f9fafb) rather than pure white, softening light-mode surfaces without the gray neutrality that makes sporting-goods sites feel like industrial catalogues.
@@ -354,6 +357,8 @@ components:
 - Footer columns: 2-up on tablet, 1-up accordion on mobile with expand/collapse per column group; always-visible legal row at bottom
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No meta theme-color extracted; mobile browser chrome tint is unknown — primary teal (#108474) assumed as a reasonable default
 - Exact per-element font assignment (which pages lead with Geologica vs. Be Vietnam Pro) could not be confirmed from extracted stacks alone; assignment above reflects visual inference from brand register

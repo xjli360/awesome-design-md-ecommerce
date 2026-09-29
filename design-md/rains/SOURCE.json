@@ -1,0 +1,899 @@
+{
+  "source_url": "https://rains.com",
+  "final_url": "https://rains.com/",
+  "captured_at": "2026-09-28T10:22:42.894674+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://rains.com",
+      "final_url": "https://rains.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "d0e4421583460ac51b8b5db002cd6126d05cb6da56424d69e9cc7c655dbfb029",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930",
+      "final_url": "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "91ad655816217c9300d91b1413a0c1f2957123e02438ebf1def10d52b172a5ae",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://rains.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://rains.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 74,
+      "sources": [
+        "https://rains.com/",
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930",
+        "https://rains.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#10100f": {
+      "count": 52,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#efefef": {
+      "count": 22,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#cfcfcf": {
+      "count": 16,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#000000": {
+      "count": 15,
+      "sources": [
+        "https://rains.com/",
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#b3b3b2": {
+      "count": 12,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#2563eb": {
+      "count": 11,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#fcfcfc": {
+      "count": 10,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#797979": {
+      "count": 8,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 7,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#555554": {
+      "count": 7,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#d3d0c4": {
+      "count": 2,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#ffc500": {
+      "count": 2,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#acbefd": {
+      "count": 2,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#fdddac": {
+      "count": 2,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#021864": {
+      "count": 2,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#640802": {
+      "count": 2,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#dc2626": {
+      "count": 2,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://rains.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://rains.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#744700": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#d5c296": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#ffff00": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#0000ff": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#5e9ed6": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#ededed": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#004f99": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#70706f": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#f5f5f6": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#b5b094": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#a8a1ad": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#df484f": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#c5ad89": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#696d6d": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#5e473d": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#b18a51": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#ab9d5c": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#dbd0bd": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#d29c84": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#019e81": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#a7a9ac": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#ece6dd": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#938b78": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#2e5579": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#7d6660": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#efddbd": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#4a595c": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "#a45b55": {
+      "count": 1,
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+    ],
+    "Apple Color Emoji": [
+      "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+    ],
+    "Arial": [
+      "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+    ],
+    "BlinkMacSystemFont": [
+      "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+    ],
+    "Cantarell": [
+      "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+    ],
+    "Consolas": [
+      "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+    ],
+    "Courier New": [
+      "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+    ],
+    "EuropaGroNr2SB": [
+      "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+    ],
+    "EuropaGroNr2SH": [
+      "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+    ],
+    "Helvetica Neue": [
+      "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+    ],
+    "Liberation Mono": [
+      "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+    ],
+    "Menlo": [
+      "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+    ],
+    "Monaco": [
+      "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+    ],
+    "Noto Color Emoji": [
+      "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+    ],
+    "Noto Color Emoji!important": [
+      "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+    ],
+    "Noto Sans": [
+      "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+    ],
+    "Roboto": [
+      "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+    ],
+    "SFMono-Regular": [
+      "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+    ],
+    "Segoe UI": [
+      "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+    ],
+    "Segoe UI Emoji": [
+      "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+    ],
+    "Segoe UI Symbol": [
+      "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+    ],
+    "Ubuntu": [
+      "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+    ],
+    "monospace": [
+      "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+    ],
+    "sans-serif": [
+      "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+    ],
+    "system-ui": [
+      "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+    ],
+    "ui-monospace": [
+      "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+    ],
+    "ui-sans-serif": [
+      "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://rains.com/",
+      "selector": ":root",
+      "declarations": "--reviews-count-translation: \"Reviews (0)\""
+    },
+    {
+      "source": "https://rains.com/",
+      "selector": ":root",
+      "declarations": "--announcement-height: 0px;"
+    },
+    {
+      "source": "https://rains.com/",
+      "selector": "#shopify-section-header .underline",
+      "declarations": "color: #000000;"
+    },
+    {
+      "source": "https://rains.com/",
+      "selector": "#shopify-section-header [data-new-in-item]",
+      "declarations": "color: #000000;"
+    },
+    {
+      "source": "https://rains.com/",
+      "selector": "#shopify-section-header [data-new-in-item]",
+      "declarations": "color: inherit;"
+    },
+    {
+      "source": "https://rains.com/",
+      "selector": "#shopify-section-template--23481083265264__hero_media_zcLiGA .button",
+      "declarations": "background-color: hsla(0, 0%, 89%, 0.52); color: rgba(16, 16, 15, var(--tw-text-opacity, 1));"
+    },
+    {
+      "source": "https://rains.com/",
+      "selector": "#shopify-section-template--23481083265264__hero_media_zcLiGA .button--white.button--outline",
+      "declarations": "--tw-shadow-color: none;"
+    },
+    {
+      "source": "https://rains.com/",
+      "selector": "#shopify-section-template--23481083265264__hero_media_pWMk3D .button",
+      "declarations": "background-color: hsla(0, 0%, 89%, 0.52); color: rgba(16, 16, 15, var(--tw-text-opacity, 1));"
+    },
+    {
+      "source": "https://rains.com/",
+      "selector": "#shopify-section-template--23481083265264__hero_media_pWMk3D .button--white.button--outline",
+      "declarations": "--tw-shadow-color: none;"
+    },
+    {
+      "source": "https://rains.com/",
+      "selector": "#shopify-section-template--23481083265264__hero_media_3cCXzb .button",
+      "declarations": "background-color: hsla(0, 0%, 89%, 0.52); color: rgba(16, 16, 15, var(--tw-text-opacity, 1));"
+    },
+    {
+      "source": "https://rains.com/",
+      "selector": "#shopify-section-template--23481083265264__hero_media_3cCXzb .button--white.button--outline",
+      "declarations": "--tw-shadow-color: none;"
+    },
+    {
+      "source": "https://rains.com/",
+      "selector": "#shopify-section-template--23481083265264__hero_media_D4gPTN .button",
+      "declarations": "background-color: hsla(0, 0%, 89%, 0.52); color: rgba(16, 16, 15, var(--tw-text-opacity, 1));"
+    },
+    {
+      "source": "https://rains.com/",
+      "selector": "#shopify-section-template--23481083265264__hero_media_D4gPTN .button--white.button--outline",
+      "declarations": "--tw-shadow-color: none;"
+    },
+    {
+      "source": "https://rains.com/",
+      "selector": "#shopify-section-template--23481083265264__hero_media_y8DnpN .button",
+      "declarations": "background-color: hsla(0, 0%, 89%, 0.52); color: rgba(16, 16, 15, var(--tw-text-opacity, 1));"
+    },
+    {
+      "source": "https://rains.com/",
+      "selector": "#shopify-section-template--23481083265264__hero_media_y8DnpN .button--white.button--outline",
+      "declarations": "--tw-shadow-color: none;"
+    },
+    {
+      "source": "https://rains.com/",
+      "selector": "#shopify-section-template--23481083265264__hero_media_8j6PMK .button",
+      "declarations": "background-color: hsla(0, 0%, 89%, 0.52); color: rgba(16, 16, 15, var(--tw-text-opacity, 1));"
+    },
+    {
+      "source": "https://rains.com/",
+      "selector": "#shopify-section-template--23481083265264__hero_media_8j6PMK .button--white.button--outline",
+      "declarations": "--tw-shadow-color: none;"
+    },
+    {
+      "source": "https://rains.com/",
+      "selector": "#shopify-section-template--23481083265264__hero_media_cjt6fp .button",
+      "declarations": "background-color: hsla(0, 0%, 89%, 0.52); color: rgba(16, 16, 15, var(--tw-text-opacity, 1));"
+    },
+    {
+      "source": "https://rains.com/",
+      "selector": "#shopify-section-template--23481083265264__hero_media_cjt6fp .button--white.button--outline",
+      "declarations": "--tw-shadow-color: none;"
+    },
+    {
+      "source": "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font-family:inherit;font-feature-settings:inherit;font-size:100%;font-variation-settings:inherit;font-weight:inherit;letter-spacing:inherit;line-height:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930",
+      "selector": "button,input:where([type=button]),input:where([type=reset]),input:where([type=submit])",
+      "declarations": "-webkit-appearance:button;background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930",
+      "selector": "body",
+      "declarations": "--tw-bg-opacity:1;background-color:#fff;background-color:rgba(255,255,255,var(--tw-bg-opacity,1));font-family:EuropaGroNr2SB,ui-sans-serif,system-ui,Segoe UI,Ubuntu,Cantarell,Noto Sans,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;font-size:.875rem;line-height:1.2;--tw-text-opacity:1;color:#10100f;color:rgba(16,16,15,var(--tw-text-opacity,1));-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale"
+    },
+    {
+      "source": "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930",
+      "selector": ".h1,.h2,.h3,.h4,.h5,.heading,h1,h2,h3,h4,h5",
+      "declarations": "font-family:EuropaGroNr2SH,ui-sans-serif,system-ui,Segoe UI,Ubuntu,Cantarell,Noto Sans,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;font-weight:600"
+    },
+    {
+      "source": "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930",
+      "selector": ".header__announcement",
+      "declarations": "background-color:rgba(16,16,15,.8);padding-bottom:.75rem;padding-top:.75rem;text-align:center;--tw-text-opacity:1;color:#fff;color:rgba(255,255,255,var(--tw-text-opacity,1));--tw-backdrop-blur:blur(8px);-webkit-backdrop-filter:blur(8px) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);-webkit-backdrop-filter:var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-satu"
+    },
+    {
+      "source": "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930",
+      "selector": ".header__glass-item",
+      "declarations": "background-color:hsla(0,0%,89%,.52);border-radius:9999px;--tw-backdrop-blur:blur(12px);-webkit-backdrop-filter:blur(12px) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);-webkit-backdrop-filter:var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);backdrop-filter:blur(12px) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast)"
+    },
+    {
+      "source": "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930",
+      "selector": ".header--has-overlay .header__glass-item",
+      "declarations": "background-color:transparent;--tw-backdrop-blur:blur(0);-webkit-backdrop-filter:blur(0) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);-webkit-backdrop-filter:var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia);backdrop-filter:blur(0) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--t"
+    },
+    {
+      "source": "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930",
+      "selector": ".header__navigation-item",
+      "declarations": "align-items:center;font-family:EuropaGroNr2SH,ui-sans-serif,system-ui,Segoe UI,Ubuntu,Cantarell,Noto Sans,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;font-weight:700;height:100%;justify-content:center;line-height:1;text-transform:uppercase"
+    },
+    {
+      "source": "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930",
+      "selector": ".header__cart-count",
+      "declarations": "font-family:EuropaGroNr2SH,ui-sans-serif,system-ui,Segoe UI,Ubuntu,Cantarell,Noto Sans,-apple-system,BlinkMacSystemFont,Roboto,Helvetica Neue,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;font-weight:700;left:50%;position:absolute;top:65%;--tw-translate-x:-50%;--tw-translate-y:-50%;font-size:.5rem;transform:translate(-50%,-50%) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))"
+    },
+    {
+      "source": "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930",
+      "selector": ".collection__navigation-button",
+      "declarations": "--tw-gradient-from:#fff var(--tw-gradient-from-position);--tw-gradient-to:hsla(0,0%,100%,0) var(--tw-gradient-to-position);--tw-gradient-stops:var(--tw-gradient-from),var(--tw-gradient-to);--tw-gradient-stops:var(--tw-gradient-from),#fff var(--tw-gradient-via-position),var(--tw-gradient-to);--tw-gradient-to:transparent var(--tw-gradient-to-position);transition-duration:.3s"
+    },
+    {
+      "source": "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930",
+      "selector": ".collection__navigation-button",
+      "declarations": "--tw-gradient-to:hsla(0,0%,100%,0) var(--tw-gradient-to-position)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Rains® | Explore Waterproof Jackets, Bags & Outerwear Visa Mastercard Maestro American Express Union Pay Apple Pay Google Pay Bancontact iDEAL Wero SOFORT",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rains.com/",
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930",
+        "https://rains.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rains.com/",
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930",
+        "https://rains.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "colors.border-subtle": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rains.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.divider-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "colors.surface-page": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "colors.surface-panel": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "colors.overlay-scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rains.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.swatch-taupe": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "colors.swatch-slate": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "colors.swatch-clay": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "colors.swatch-moss": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "colors.swatch-sand": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "colors.swatch-blush": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://rains.com/cdn/shop/t/3/assets/app.min.css?v=173095863685327037911790241930"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.device-fit-badge": {
+      "status": "inferred"
+    }
+  }
+}

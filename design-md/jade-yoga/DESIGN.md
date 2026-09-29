@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Jade Yoga
-description: A deep, grounded brand built on a forest-floor palette where #108474 (a saturated pine-teal) acts as the primary voltage — appearing on every add-to-cart button, membership CTA, and footer background — while #1b4515 (a near-black forest green) anchors headers and the top navigation bar. The brand’s secondary accent #eb593c (a warm, dried-coral) appears sparingly on sale badges and promotional banners, creating a tension that reads as energetic rather than urgent. The canvas is #f9fafb, a cool off-white that keeps the site from feeling sterile, while #eeeeee and #f2f2f2 form the hairline and surface-soft layers. Typography runs Poppins at 400/500/600 weights — the display sizes use 600 weight at 28px, while body copy sits at 16px/400 with 1.5 line-height, creating a clean, readable hierarchy that lets product photography (mats, blocks, apparel shot on natural textures) carry the emotional weight. Buttons are softly squared at {rounded.sm} (8px), product cards use {rounded.md} (12px), and the search bar employs {rounded.full} pills. The brand avoids hard corners entirely except on the body grid. A secondary accent #a89cc8 (a muted lavender) appears in the footer and on membership badges, hinting at a meditation/wellness sub-brand without overwhelming the core green system. The overall feel is of a well-worn studio mat — clean but not sterile, serious but not severe.
+name: "Jade Yoga"
+source_url: "https://jadeyoga.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep, grounded brand built on a forest-floor palette where #108474 (a saturated pine-teal) acts as the primary voltage — appearing on every add-to-cart button, membership CTA, and footer background — while #1b4515 (a near-black forest green) anchors headers and the top navigation bar. The brand’s secondary accent #eb593c (a warm, dried-coral) appears sparingly on sale badges and promotional banners, creating a tension that reads as energetic rather than urgent. The canvas is #f9fafb, a cool off-white that keeps the site from feeling sterile, while #eeeeee and #f2f2f2 form the hairline and surface-soft layers. Typography runs Poppins at 400/500/600 weights — the display sizes use 600 weight at 28px, while body copy sits at 16px/400 with 1.5 line-height, creating a clean, readable hierarchy that lets product photography (mats, blocks, apparel shot on natural textures) carry the emotional weight. Buttons are softly squared at {rounded.sm} (8px), product cards use {rounded.md} (12px), and the search bar employs {rounded.full} pills. The brand avoids hard corners entirely except on the body grid. A secondary accent #a89cc8 (a muted lavender) appears in the footer and on membership badges, hinting at a meditation/wellness sub-brand without overwhelming the core green system. The overall feel is of a well-worn studio mat — clean but not sterile, serious but not severe.
 
 colors:
   primary: "#108474"
@@ -394,6 +398,8 @@ components:
 - Search bar collapses from full pill to icon-only on mobile, expanding to full-screen overlay on tap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for most components were inferred from common patterns; exact transition durations and box-shadow values were not extractable from the live site
 - Error states for forms (validation messages, error icon placement) were not observed

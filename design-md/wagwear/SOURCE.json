@@ -1,0 +1,911 @@
+{
+  "source_url": "https://wagwear.com",
+  "final_url": "https://wagwear.com/",
+  "captured_at": "2026-09-28T10:12:16.479190+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://wagwear.com",
+      "final_url": "https://wagwear.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "5c25aa078a4640828e8938cadce427c1bcbced0da1545f7f61cf452c171ec34f",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://wagwear.com/cdn/shop/t/67/assets/theme.css?v=66822340696930432441789739343",
+      "final_url": "https://wagwear.com/cdn/shop/t/67/assets/theme.css?v=66822340696930432441789739343",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b2fa043761150af29a2691397f9e944181343d35f178a934facff066c5203f8a",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://wagwear.com/cdn/shop/t/67/assets/custom.css?v=24512061644470164301789739338",
+      "final_url": "https://wagwear.com/cdn/shop/t/67/assets/custom.css?v=24512061644470164301789739338",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "eb29aa3f15de89f2785b065b92d3cb97b14fd61d671dec0c34e745981a97fb64",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://wagwear.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://wagwear.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "39441f1cb6840e4601467c2ea1fbe565e82c4ca6715ceb893847370a8c7532a3",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://wagwear.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css",
+      "final_url": "https://wagwear.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "f5a3b49c83f59914b840ae0bfef1e853a859fa7630fd3517ed1b95a724a8bee4",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 53,
+      "sources": [
+        "https://wagwear.com/",
+        "https://wagwear.com/cdn/shop/t/67/assets/theme.css?v=66822340696930432441789739343",
+        "https://wagwear.com/cdn/shop/t/67/assets/custom.css?v=24512061644470164301789739338",
+        "https://wagwear.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css",
+        "https://wagwear.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+      ]
+    },
+    "#000000": {
+      "count": 29,
+      "sources": [
+        "https://wagwear.com/",
+        "https://wagwear.com/cdn/shop/t/67/assets/theme.css?v=66822340696930432441789739343",
+        "https://wagwear.com/cdn/shop/t/67/assets/custom.css?v=24512061644470164301789739338",
+        "https://wagwear.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+      ]
+    },
+    "#111111": {
+      "count": 24,
+      "sources": [
+        "https://wagwear.com/",
+        "https://wagwear.com/cdn/shop/t/67/assets/custom.css?v=24512061644470164301789739338"
+      ]
+    },
+    "#3a3a3a": {
+      "count": 14,
+      "sources": [
+        "https://wagwear.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+      ]
+    },
+    "#00000017": {
+      "count": 13,
+      "sources": [
+        "https://wagwear.com/cdn/shop/t/67/assets/theme.css?v=66822340696930432441789739343"
+      ]
+    },
+    "#00000024": {
+      "count": 9,
+      "sources": [
+        "https://wagwear.com/cdn/shop/t/67/assets/theme.css?v=66822340696930432441789739343"
+      ]
+    },
+    "#f4f1ec": {
+      "count": 8,
+      "sources": [
+        "https://wagwear.com/",
+        "https://wagwear.com/cdn/shop/t/67/assets/custom.css?v=24512061644470164301789739338"
+      ]
+    },
+    "#00000000": {
+      "count": 8,
+      "sources": [
+        "https://wagwear.com/cdn/shop/t/67/assets/theme.css?v=66822340696930432441789739343",
+        "https://wagwear.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000080": {
+      "count": 7,
+      "sources": [
+        "https://wagwear.com/cdn/shop/t/67/assets/theme.css?v=66822340696930432441789739343"
+      ]
+    },
+    "#e4e1db": {
+      "count": 6,
+      "sources": [
+        "https://wagwear.com/",
+        "https://wagwear.com/cdn/shop/t/67/assets/custom.css?v=24512061644470164301789739338"
+      ]
+    },
+    "#777777": {
+      "count": 5,
+      "sources": [
+        "https://wagwear.com/",
+        "https://wagwear.com/cdn/shop/t/67/assets/custom.css?v=24512061644470164301789739338"
+      ]
+    },
+    "#ffffff00": {
+      "count": 5,
+      "sources": [
+        "https://wagwear.com/cdn/shop/t/67/assets/theme.css?v=66822340696930432441789739343"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 4,
+      "sources": [
+        "https://wagwear.com/",
+        "https://wagwear.com/cdn/shop/t/67/assets/theme.css?v=66822340696930432441789739343"
+      ]
+    },
+    "#f67e3f": {
+      "count": 4,
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "#ced9e3": {
+      "count": 4,
+      "sources": [
+        "https://wagwear.com/",
+        "https://wagwear.com/cdn/shop/t/67/assets/custom.css?v=24512061644470164301789739338"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 3,
+      "sources": [
+        "https://wagwear.com/",
+        "https://wagwear.com/cdn/shop/t/67/assets/theme.css?v=66822340696930432441789739343"
+      ]
+    },
+    "#444444": {
+      "count": 3,
+      "sources": [
+        "https://wagwear.com/",
+        "https://wagwear.com/cdn/shop/t/67/assets/custom.css?v=24512061644470164301789739338"
+      ]
+    },
+    "#666666": {
+      "count": 3,
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 3,
+      "sources": [
+        "https://wagwear.com/",
+        "https://wagwear.com/cdn/shop/t/67/assets/custom.css?v=24512061644470164301789739338"
+      ]
+    },
+    "#0000000f": {
+      "count": 3,
+      "sources": [
+        "https://wagwear.com/cdn/shop/t/67/assets/theme.css?v=66822340696930432441789739343"
+      ]
+    },
+    "#e6e3dd": {
+      "count": 3,
+      "sources": [
+        "https://wagwear.com/cdn/shop/t/67/assets/custom.css?v=24512061644470164301789739338"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 2,
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "#3c9342": {
+      "count": 2,
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "#a70100": {
+      "count": 2,
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "#cdb9e0": {
+      "count": 2,
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "#f6f4f1": {
+      "count": 2,
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "#e9e1f5": {
+      "count": 2,
+      "sources": [
+        "https://wagwear.com/",
+        "https://wagwear.com/cdn/shop/t/67/assets/custom.css?v=24512061644470164301789739338"
+      ]
+    },
+    "#faf7f2": {
+      "count": 2,
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "#4f4f4f": {
+      "count": 2,
+      "sources": [
+        "https://wagwear.com/cdn/shop/t/67/assets/theme.css?v=66822340696930432441789739343"
+      ]
+    },
+    "#999999": {
+      "count": 2,
+      "sources": [
+        "https://wagwear.com/cdn/shop/t/67/assets/theme.css?v=66822340696930432441789739343",
+        "https://wagwear.com/cdn/shop/t/67/assets/custom.css?v=24512061644470164301789739338"
+      ]
+    },
+    "#cccccc": {
+      "count": 2,
+      "sources": [
+        "https://wagwear.com/cdn/shop/t/67/assets/theme.css?v=66822340696930432441789739343"
+      ]
+    },
+    "#f5f3f0": {
+      "count": 2,
+      "sources": [
+        "https://wagwear.com/cdn/shop/t/67/assets/custom.css?v=24512061644470164301789739338"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://wagwear.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#030712": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "#c1c9d1": {
+      "count": 2,
+      "sources": [
+        "https://wagwear.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+      ]
+    },
+    "#d02f2e": {
+      "count": 1,
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "#478947": {
+      "count": 1,
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 1,
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "#d50000": {
+      "count": 1,
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "#414141": {
+      "count": 1,
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "#3e475d": {
+      "count": 1,
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "#c31818": {
+      "count": 1,
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "#a77a06": {
+      "count": 1,
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "#7e6b45": {
+      "count": 1,
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "#ececec": {
+      "count": 1,
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "#ededed": {
+      "count": 1,
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "#617169": {
+      "count": 1,
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "#f5b0bd": {
+      "count": 1,
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "#ff782d": {
+      "count": 1,
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "#97dcfd": {
+      "count": 1,
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "#d9eb4c": {
+      "count": 1,
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "#f8e9d7": {
+      "count": 1,
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "#f43033": {
+      "count": 1,
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "#f0b517": {
+      "count": 1,
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "#894e40": {
+      "count": 1,
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "#ddd0f0": {
+      "count": 1,
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Apple Color Emoji": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Arial": [
+      "https://wagwear.com/",
+      "https://wagwear.com/cdn/shop/t/67/assets/custom.css?v=24512061644470164301789739338",
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css",
+      "https://wagwear.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+    ],
+    "Avenir": [
+      "https://wagwear.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+    ],
+    "Avenir Next": [
+      "https://wagwear.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+    ],
+    "BlinkMacSystemFont": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Georgia": [
+      "https://wagwear.com/"
+    ],
+    "Helvetica": [
+      "https://wagwear.com/",
+      "https://wagwear.com/cdn/shop/t/67/assets/custom.css?v=24512061644470164301789739338",
+      "https://wagwear.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+    ],
+    "Helvetica Neue": [
+      "https://wagwear.com/",
+      "https://wagwear.com/cdn/shop/t/67/assets/custom.css?v=24512061644470164301789739338",
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css",
+      "https://wagwear.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+    ],
+    "Jost": [
+      "https://wagwear.com/"
+    ],
+    "Noto Color Emoji !important": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Noto Color Emoji' !important": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Noto Sans": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Roboto": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "SF Pro Text": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Segoe UI": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css",
+      "https://wagwear.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+    ],
+    "Segoe UI Emoji": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Segoe UI Symbol": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Times New Roman": [
+      "https://wagwear.com/"
+    ],
+    "inherit!important": [
+      "https://wagwear.com/cdn/shop/t/67/assets/custom.css?v=24512061644470164301789739338"
+    ],
+    "sans-serif": [
+      "https://wagwear.com/",
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css",
+      "https://wagwear.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+    ],
+    "sans-serif!important": [
+      "https://wagwear.com/cdn/shop/t/67/assets/custom.css?v=24512061644470164301789739338"
+    ],
+    "serif": [
+      "https://wagwear.com/"
+    ],
+    "swiper-icons": [
+      "https://wagwear.com/cdn/shop/t/67/assets/theme.css?v=66822340696930432441789739343"
+    ],
+    "system-ui": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "ui-sans-serif": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "untitled sans": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://wagwear.com/",
+      "selector": ":root",
+      "declarations": "--logo-font-size: \n1.7rem\n;\n      --font-size-heading-display-1: \n3.88125rem\n;\n      --font-size-heading-display-2: \n3.4491375rem\n;\n      --font-size-heading-display-3: \n3.0185775rem\n;\n      --font-size-heading-1-base: \n2.5875rem\n;\n      --font-size-heading-2-base: \n2.2640625rem\n;\n      --font-size-heading-3-base: \n1.940625rem\n;\n      --font-size-heading-4-base: \n1.5085125rem\n;\n      --font-size-heading-5-base: \n1.29375rem\n;\n      --font-size-heading-6-base: \n1.0764rem\n;\n      --font-size-body-400: \n1.725871875rem\n;\n      --font-size-body-350: \n1.6108828125rem\n;\n      --font-size-body-300: \n1.49589375rem\n;\n      --font-size-body-250: \n1.3809046875rem\n;\n      --font-size-body-200: \n1.26591562"
+    },
+    {
+      "source": "https://wagwear.com/",
+      "selector": ".product-badge[data-handle=\"responsible\"]",
+      "declarations": "color: #3C9342;"
+    },
+    {
+      "source": "https://wagwear.com/",
+      "selector": ".product-badge[data-handle=\"best-seller\"]",
+      "declarations": "color: #7e6b45;"
+    },
+    {
+      "source": "https://wagwear.com/",
+      "selector": ".product-badge[data-handle=\"new\"]",
+      "declarations": "color: #000000;"
+    },
+    {
+      "source": "https://wagwear.com/",
+      "selector": ".product-badge[data-handle=\"save-20\"]",
+      "declarations": "color: #111111;"
+    },
+    {
+      "source": "https://wagwear.com/",
+      "selector": ":root",
+      "declarations": "--lxs-rating-icon-color: #f67e3f;"
+    },
+    {
+      "source": "https://wagwear.com/",
+      "selector": ".wag-mega__product",
+      "declarations": "text-decoration: none;\n        color: #111111;\n        display: block;\n        min-width: 0;"
+    },
+    {
+      "source": "https://wagwear.com/",
+      "selector": ".wag-mega__product-price",
+      "declarations": "display: block;\n        font-size: 12px;\n        color: #777777;\n        margin-top: 2px;"
+    },
+    {
+      "source": "https://wagwear.com/",
+      "selector": ".befp__item .product-item__media",
+      "declarations": "background-color: #f4f1ec;"
+    },
+    {
+      "source": "https://wagwear.com/",
+      "selector": ".ugcc__product",
+      "declarations": "display: flex;\n    align-items: center;\n    gap: 10px;\n    margin-top: 10px;\n    text-decoration: none;\n    color: inherit;"
+    },
+    {
+      "source": "https://wagwear.com/",
+      "selector": ".ugcc__product-meta",
+      "declarations": "display: flex; align-items: center; gap: 5px; font-size: 12px; color: #666666; line-height: 1.3;"
+    },
+    {
+      "source": "https://wagwear.com/",
+      "selector": ".ugcc__product-color",
+      "declarations": "color: #666666;"
+    },
+    {
+      "source": "https://wagwear.com/",
+      "selector": ".ugcc__product-price",
+      "declarations": "font-size: 12px; color: #666666;"
+    },
+    {
+      "source": "https://wagwear.com/",
+      "selector": ".ambcta__button",
+      "declarations": "display: inline-block;\n    background: #000000;\n    color: #ffffff;\n    font-weight: 700;\n    font-size: 14px;\n    letter-spacing: 0.04em;\n    padding: 14px 32px;\n    border-radius: 4px;\n    text-decoration: none;\n    transition: background 0.2s ease;"
+    },
+    {
+      "source": "https://wagwear.com/",
+      "selector": ".ambcta__button:hover",
+      "declarations": "background: #1a1a1a;\n    color: #ffffff;"
+    },
+    {
+      "source": "https://wagwear.com/",
+      "selector": ":root",
+      "declarations": "--lxs-rating-icon-color: #f67e3f;"
+    },
+    {
+      "source": "https://wagwear.com/cdn/shop/t/67/assets/theme.css?v=66822340696930432441789739343",
+      "selector": "#shopify-product-reviews .spr-header .spr-summary-actions-newreview",
+      "declarations": "float:none;margin-top:24px;margin-top:var(--spacing-6);color:var(--color-background-button);border:1px solid var(--color-background-button);transition:color .2s ease,border-color .2s ease"
+    },
+    {
+      "source": "https://wagwear.com/cdn/shop/t/67/assets/theme.css?v=66822340696930432441789739343",
+      "selector": "#shopify-product-reviews .spr-header .spr-summary-actions-newreview:hover:not([disabled]),#shopify-product-reviews .spr-header .spr-summary-actions-newreview:fo",
+      "declarations": "color:var(--color-background-button-alpha);border-color:var(--color-background-button-alpha)"
+    },
+    {
+      "source": "https://wagwear.com/cdn/shop/t/67/assets/theme.css?v=66822340696930432441789739343",
+      "selector": "#shopify-product-reviews .spr-header-title,#shopify-product-reviews .spr-form-title,#shopify-product-reviews .spr-review-header-title",
+      "declarations": "font-family:var(--font-heading);font-weight:var(--font-heading-weight);font-style:var(--font-heading-style);letter-spacing:var(--font-heading-base-letter-spacing);text-transform:var(--font-heading-text-transform)"
+    },
+    {
+      "source": "https://wagwear.com/cdn/shop/t/67/assets/theme.css?v=66822340696930432441789739343",
+      "selector": "bel,#shopify-product-reviews .spr-review-content-body,#shopify-product-reviews .spr-review-header-byline,#shopify-product-reviews .spr-review-reportreview,#shop",
+      "declarations": "font-family:var(--font-body);font-weight:var(--font-body-weight);font-style:var(--font-body-style);line-height:var(--line-height-body);letter-spacing:var(--font-body-base-letter-spacing)"
+    },
+    {
+      "source": "https://wagwear.com/cdn/shop/t/67/assets/theme.css?v=66822340696930432441789739343",
+      "selector": "#shopify-product-reviews .spr-content .spr-form .spr-form-input",
+      "declarations": "color:var(--color-text);opacity:1"
+    },
+    {
+      "source": "https://wagwear.com/cdn/shop/t/67/assets/theme.css?v=66822340696930432441789739343",
+      "selector": "#shopify-product-reviews .spr-content .spr-form .spr-form-input::-moz-placeholder",
+      "declarations": "opacity:.6;color:var(--color-text)"
+    },
+    {
+      "source": "https://wagwear.com/cdn/shop/t/67/assets/theme.css?v=66822340696930432441789739343",
+      "selector": "#shopify-product-reviews .spr-content .spr-form .spr-form-input:-ms-input-placeholder",
+      "declarations": "opacity:.6;color:var(--color-text)"
+    },
+    {
+      "source": "https://wagwear.com/cdn/shop/t/67/assets/theme.css?v=66822340696930432441789739343",
+      "selector": "#shopify-product-reviews .spr-content .spr-form .spr-form-input::placeholder",
+      "declarations": "opacity:.6;color:var(--color-text)"
+    },
+    {
+      "source": "https://wagwear.com/cdn/shop/t/67/assets/theme.css?v=66822340696930432441789739343",
+      "selector": "#shopify-product-reviews .spr-content .spr-form-message-error",
+      "declarations": "position:relative;background-color:transparent;border:1px solid var(--color-text-error);color:var(--color-text-error);padding:8px;padding:var(--spacing-2)"
+    },
+    {
+      "source": "https://wagwear.com/cdn/shop/t/67/assets/theme.css?v=66822340696930432441789739343",
+      "selector": "#shopify-product-reviews .spr-content .spr-form-message-error:after",
+      "declarations": "content:\"\";position:absolute;top:0;right:0;bottom:0;left:0;background-color:var(--color-text-error);opacity:.1"
+    },
+    {
+      "source": "https://wagwear.com/cdn/shop/t/67/assets/theme.css?v=66822340696930432441789739343",
+      "selector": "#shopify-product-reviews .spr-content .spr-starrating.spr-form-input-error a",
+      "declarations": "color:var(--color-text-error)"
+    },
+    {
+      "source": "https://wagwear.com/cdn/shop/t/67/assets/theme.css?v=66822340696930432441789739343",
+      "selector": "#shopify-product-reviews .spr-content .spr-form-input-error",
+      "declarations": "border-color:var(--color-text-error)"
+    },
+    {
+      "source": "https://wagwear.com/cdn/shop/t/67/assets/theme.css?v=66822340696930432441789739343",
+      "selector": "#shopify-product-reviews .spr-reviews .spr-review .spr-review-reportreview",
+      "declarations": "font-size:var(--font-size-body-60);opacity:.6;transition:opacity .2s ease;color:var(--color-text-link)"
+    },
+    {
+      "source": "https://wagwear.com/cdn/shop/t/67/assets/theme.css?v=66822340696930432441789739343",
+      "selector": "#shopify-product-reviews .spr-reviews .spr-pagination a",
+      "declarations": "transition:opacity .2s ease;text-decoration:none;color:var(--color-text)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "wagwear | Dog Boots, Apparel & Accessories Since 1998",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wagwear.com/",
+        "https://wagwear.com/cdn/shop/t/67/assets/theme.css?v=66822340696930432441789739343",
+        "https://wagwear.com/cdn/shop/t/67/assets/custom.css?v=24512061644470164301789739338",
+        "https://wagwear.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wagwear.com/",
+        "https://wagwear.com/cdn/shop/t/67/assets/custom.css?v=24512061644470164301789739338"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wagwear.com/",
+        "https://wagwear.com/cdn/shop/t/67/assets/theme.css?v=66822340696930432441789739343",
+        "https://wagwear.com/cdn/shop/t/67/assets/custom.css?v=24512061644470164301789739338",
+        "https://wagwear.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css",
+        "https://wagwear.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wagwear.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wagwear.com/",
+        "https://wagwear.com/cdn/shop/t/67/assets/custom.css?v=24512061644470164301789739338"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wagwear.com/",
+        "https://wagwear.com/cdn/shop/t/67/assets/custom.css?v=24512061644470164301789739338"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wagwear.com/",
+        "https://wagwear.com/cdn/shop/t/67/assets/custom.css?v=24512061644470164301789739338"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wagwear.com/cdn/shop/t/67/assets/custom.css?v=24512061644470164301789739338"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wagwear.com/",
+        "https://wagwear.com/cdn/shop/t/67/assets/theme.css?v=66822340696930432441789739343",
+        "https://wagwear.com/cdn/shop/t/67/assets/custom.css?v=24512061644470164301789739338",
+        "https://wagwear.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css",
+        "https://wagwear.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "colors.accent-success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wagwear.com/"
+      ]
+    },
+    "colors.border-subtle": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://wagwear.com/cdn/shop/t/67/assets/custom.css?v=24512061644470164301789739338"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.rating-stars": {
+      "status": "inferred"
+    },
+    "components.variant-swatch": {
+      "status": "inferred"
+    }
+  }
+}

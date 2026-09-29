@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Lasko
-description: Every component on Lasko.com resolves toward function: the deep housing-navy at #171f32 anchors navigation and primary typography, the brand blue #0058a8 — locked in as the meta theme-color — handles interactive trust signals and primary CTAs, and the coral at #e25e49, warm as a resistive heating coil, punctuates promotions, urgency tags, and key conversion moments. Type runs on Assistant, a humanist sans-serif with open apertures that read cleanly at 14px body copy and scale to bold 40px hero displays without losing mechanical clarity; weight discipline is strict at 700 for headlines, 600 for subheadings, and 400 for body — no intermediate values, giving the page a hierarchy that mirrors the structured logic of a BTU rating table. Color economy is equally spare: the gray spectrum from warm off-white at #e8e8e1 through mid-grays at #f3f3f3 and #ebebeb down to hairline at #dedede forms a layered surface system in which product cards emerge from their ground in soft relief, framed by {rounded.sm} corners that signal appliance-grade construction rather than lifestyle softness. The nav bar and footer share the same #171f32 deep navy field, reversed-out white typography creating visual bookends around every page. Two accent colors earn semantic roles: the green at #00a47c marks energy-efficiency callouts and certification badges — a regulatory signal rendered in color — while the blue-slate at #334fb4 provides a middle hover-state between brand blue and deep navy without requiring custom tints. Promotional pressure channels exclusively through the coral at #e25e49: sale ribbons, urgency banners, and limited-time labels run this one warm tone against a cool-dominant palette, creating a heat-map of commercial intent across the full catalog grid.
+name: "Lasko"
+source_url: "https://www.lasko.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Every component on Lasko.com resolves toward function: the deep housing-navy at #171f32 anchors navigation and primary typography, the brand blue #0058a8 — locked in as the meta theme-color — handles interactive trust signals and primary CTAs, and the coral at #e25e49, warm as a resistive heating coil, punctuates promotions, urgency tags, and key conversion moments. Type runs on Assistant, a humanist sans-serif with open apertures that read cleanly at 14px body copy and scale to bold 40px hero displays without losing mechanical clarity; weight discipline is strict at 700 for headlines, 600 for subheadings, and 400 for body — no intermediate values, giving the page a hierarchy that mirrors the structured logic of a BTU rating table. Color economy is equally spare: the gray spectrum from warm off-white at #e8e8e1 through mid-grays at #f3f3f3 and #ebebeb down to hairline at #dedede forms a layered surface system in which product cards emerge from their ground in soft relief, framed by {rounded.sm} corners that signal appliance-grade construction rather than lifestyle softness. The nav bar and footer share the same #171f32 deep navy field, reversed-out white typography creating visual bookends around every page. Two accent colors earn semantic roles: the green at #00a47c marks energy-efficiency callouts and certification badges — a regulatory signal rendered in color — while the blue-slate at #334fb4 provides a middle hover-state between brand blue and deep navy without requiring custom tints. Promotional pressure channels exclusively through the coral at #e25e49: sale ribbons, urgency banners, and limited-time labels run this one warm tone against a cool-dominant palette, creating a heat-map of commercial intent across the full catalog grid.
 
 colors:
   primary: "#0058a8"
@@ -400,6 +404,8 @@ components:
 
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom brand typeface detected; all type renders in Assistant (Google Fonts), which may be a framework default — a licensed display typeface may exist but was not detectable from page extraction
 - Exact CSS border-radius values not extractable; {rounded.sm} (8px) and {rounded.xs} (4px) are inferred from visual inspection and Shopify theme defaults

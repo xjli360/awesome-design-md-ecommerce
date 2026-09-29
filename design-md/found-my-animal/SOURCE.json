@@ -1,0 +1,808 @@
+{
+  "source_url": "https://foundmyanimal.com",
+  "final_url": "https://www.foundmyanimal.com/",
+  "captured_at": "2026-09-28T09:03:56.589830+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://foundmyanimal.com",
+      "final_url": "https://www.foundmyanimal.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "a122ac05df0e6bc8f2f1d889dbeda52561ad6b22425f63b3215cf731ed9886f3",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411",
+      "final_url": "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f8b86ff79f3a5f738a91a9b7a28f48cf2aef8ac8fcfeb603eb043286eb43a010",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.foundmyanimal.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.foundmyanimal.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.foundmyanimal.com/cdn/shop/t/11/assets/announcement-bar.css?v=130416140157017794861716408639",
+      "final_url": "https://www.foundmyanimal.com/cdn/shop/t/11/assets/announcement-bar.css?v=130416140157017794861716408639",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "22a44329a476c3c17e613e8146c856e7d07d6a5bac353882ea97203878cdcf8e",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.foundmyanimal.com/cdn/shop/t/11/assets/mobile-menu.css?v=87280388078997094501716408639",
+      "final_url": "https://www.foundmyanimal.com/cdn/shop/t/11/assets/mobile-menu.css?v=87280388078997094501716408639",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "05710fa6dcc1eef8c9da9d70f3590ec6f510cd5f34d41ea11bf018b0c65697d0",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.foundmyanimal.com/cdn/shop/t/11/assets/slideshow.css?v=44594952742559433481716408639",
+      "final_url": "https://www.foundmyanimal.com/cdn/shop/t/11/assets/slideshow.css?v=44594952742559433481716408639",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1cc01df97085c6c3d1c4f147cb4aa8d03dc955f619b1cfc55ad516791ea9d670",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 74,
+      "sources": [
+        "https://www.foundmyanimal.com/",
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411",
+        "https://www.foundmyanimal.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/announcement-bar.css?v=130416140157017794861716408639",
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/mobile-menu.css?v=87280388078997094501716408639",
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/slideshow.css?v=44594952742559433481716408639"
+      ]
+    },
+    "#151515": {
+      "count": 18,
+      "sources": [
+        "https://www.foundmyanimal.com/",
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 10,
+      "sources": [
+        "https://www.foundmyanimal.com/",
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+      ]
+    },
+    "#00000026": {
+      "count": 6,
+      "sources": [
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+      ]
+    },
+    "#000000": {
+      "count": 5,
+      "sources": [
+        "https://www.foundmyanimal.com/",
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+      ]
+    },
+    "#cacaca": {
+      "count": 5,
+      "sources": [
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+      ]
+    },
+    "#8a8a8a": {
+      "count": 4,
+      "sources": [
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+      ]
+    },
+    "#f6f3ed": {
+      "count": 3,
+      "sources": [
+        "https://www.foundmyanimal.com/",
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+      ]
+    },
+    "#dedede": {
+      "count": 3,
+      "sources": [
+        "https://www.foundmyanimal.com/",
+        "https://www.foundmyanimal.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#ddd9ce": {
+      "count": 3,
+      "sources": [
+        "https://www.foundmyanimal.com/"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 3,
+      "sources": [
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+      ]
+    },
+    "#0000001a": {
+      "count": 3,
+      "sources": [
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+      ]
+    },
+    "#ff6d2d": {
+      "count": 2,
+      "sources": [
+        "https://www.foundmyanimal.com/"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 2,
+      "sources": [
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+      ]
+    },
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+      ]
+    },
+    "#e93636": {
+      "count": 2,
+      "sources": [
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.foundmyanimal.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f1ece3": {
+      "count": 1,
+      "sources": [
+        "https://www.foundmyanimal.com/"
+      ]
+    },
+    "#7b7b7b": {
+      "count": 1,
+      "sources": [
+        "https://www.foundmyanimal.com/"
+      ]
+    },
+    "#c3b091": {
+      "count": 1,
+      "sources": [
+        "https://www.foundmyanimal.com/"
+      ]
+    },
+    "#cc0000": {
+      "count": 1,
+      "sources": [
+        "https://www.foundmyanimal.com/"
+      ]
+    },
+    "#111010": {
+      "count": 1,
+      "sources": [
+        "https://www.foundmyanimal.com/"
+      ]
+    },
+    "#279a4b": {
+      "count": 1,
+      "sources": [
+        "https://www.foundmyanimal.com/"
+      ]
+    },
+    "#ff1876": {
+      "count": 1,
+      "sources": [
+        "https://www.foundmyanimal.com/"
+      ]
+    },
+    "#939393": {
+      "count": 1,
+      "sources": [
+        "https://www.foundmyanimal.com/"
+      ]
+    },
+    "#232a3d": {
+      "count": 1,
+      "sources": [
+        "https://www.foundmyanimal.com/"
+      ]
+    },
+    "#202a44": {
+      "count": 1,
+      "sources": [
+        "https://www.foundmyanimal.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://www.foundmyanimal.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://www.foundmyanimal.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://www.foundmyanimal.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://www.foundmyanimal.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://www.foundmyanimal.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://www.foundmyanimal.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://www.foundmyanimal.com/"
+      ]
+    },
+    "#fd9a52": {
+      "count": 1,
+      "sources": [
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+      ]
+    },
+    "#54cdcd": {
+      "count": 1,
+      "sources": [
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+      ]
+    },
+    "#00000099": {
+      "count": 1,
+      "sources": [
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+      ]
+    },
+    "#0000000f": {
+      "count": 1,
+      "sources": [
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+      ]
+    },
+    "#ffffff66": {
+      "count": 1,
+      "sources": [
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+      ]
+    },
+    "#ffffff33": {
+      "count": 1,
+      "sources": [
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+      ]
+    },
+    "#ee3a45": {
+      "count": 1,
+      "sources": [
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+      ]
+    },
+    "#acacac": {
+      "count": 1,
+      "sources": [
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 1,
+      "sources": [
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.foundmyanimal.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.foundmyanimal.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.foundmyanimal.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+    ],
+    "Archivo Narrow": [
+      "https://www.foundmyanimal.com/"
+    ],
+    "BlinkMacSystemFont": [
+      "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+    ],
+    "Brandon Grotesque": [
+      "https://www.foundmyanimal.com/"
+    ],
+    "Brandon Grotesque Black": [
+      "https://www.foundmyanimal.com/"
+    ],
+    "Brandon Grotesque Black'!important": [
+      "https://www.foundmyanimal.com/"
+    ],
+    "Brandon Grotesque'!important": [
+      "https://www.foundmyanimal.com/"
+    ],
+    "Consolas": [
+      "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+    ],
+    "Courier": [
+      "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+    ],
+    "Liberation Mono": [
+      "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+    ],
+    "Ubuntu": [
+      "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+    ],
+    "arial": [
+      "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+    ],
+    "avenir": [
+      "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+    ],
+    "avenir next": [
+      "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+    ],
+    "helvetica": [
+      "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+    ],
+    "helvetica neue": [
+      "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+    ],
+    "monospace": [
+      "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+    ],
+    "noto": [
+      "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+    ],
+    "roboto": [
+      "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+    ],
+    "sans-serif": [
+      "https://www.foundmyanimal.com/",
+      "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+    ],
+    "segoe ui": [
+      "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+    ],
+    "small=0em&medium=48em&large=66.75em&xlarge=75em": [
+      "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.foundmyanimal.com/",
+      "selector": "h1,h2,h3,h4,h5,h6,\n\t.h1,.h2,.h3,.h4,.h5,.h6,\n\t.logolink.text-logo,\n\t.heading-font,\n\t.h1-xlarge,\n\t.h1-large,\n\t.customer-addresses .my-address .address-index",
+      "declarations": "font-style: normal;\n\t\tfont-weight: 600;\n\t\tfont-family: \"Archivo Narrow\", sans-serif;"
+    },
+    {
+      "source": "https://www.foundmyanimal.com/",
+      "selector": "body,\n\t.body-font,\n\t.thb-product-detail .product-title",
+      "declarations": "font-style: normal;\n\t\tfont-weight: 400;\n\t\tfont-family: \"Archivo Narrow\", sans-serif;"
+    },
+    {
+      "source": "https://www.foundmyanimal.com/",
+      "selector": ":root",
+      "declarations": "--font-body-scale: 1.1;\n\t\t--font-body-line-height-scale: 1.0;\n\t\t--font-body-letter-spacing: 0.0em;\n\t\t--font-announcement-scale: 1.0;\n\t\t--font-heading-scale: 1.0;\n\t\t--font-heading-line-height-scale: 1.0;\n\t\t--font-heading-letter-spacing: 0.0em;\n\t\t--font-navigation-scale: 1.0;\n\t\t--font-product-title-scale: 1.0;\n\t\t--font-product-title-line-height-scale: 1.0;\n\t\t--button-letter-spacing: 0.02em;--bg-body: #f6f3ed;\n\t\t\t--bg-body-rgb: 246,243,237;\n\t\t\t--bg-body-darken: #f1ece3;\n\t\t\t--payment-terms-background-color: #f6f3ed;--color-body: #1c1c1c;\n\t\t  --color-body-rgb: 28,28,28;--color-accent: #1c1c1c;\n\t\t\t--color-accent-rgb: 28,28,28;--color-border: #7b7b7b;--color-form-border: #dedede;--color-announcemen"
+    },
+    {
+      "source": "https://www.foundmyanimal.com/",
+      "selector": ":root",
+      "declarations": "--shopify-chat-bg-color: #FFFFFF;\n    --shopify-chat-text-color: #000000;\n    --shopify-chat-accent-bg-color: #000000;\n    --shopify-chat-accent-text-color: #FFFFFF;\n    --shopify-chat-activator-offset: 20px;\n\n    \n\n    --shopify-chat-activator-font-size: 16px;\n    --shopify-chat-border-radius: 16px;"
+    },
+    {
+      "source": "https://www.foundmyanimal.com/",
+      "selector": "50.0% 50.0%;\nobject-position: 50.0% 50.0%;\nobject-position: 50.0% 50.0%;\nobject-position: 50.0% 50.0%;\nobject-position: 50.0% 50.0%;\nobject-position: 50.0% 50.0",
+      "declarations": "--logo-height: 58px;\n\t\t\t--logo-height-mobile: 36px;"
+    },
+    {
+      "source": "https://www.foundmyanimal.com/",
+      "selector": "__heading,\n  #rich-text-96376647 > p > span, .product-card .product-card-title, .go3176171171 span, product-recommendations > div > product-card > div > a, .ann",
+      "declarations": "font-family: 'Brandon Grotesque Black'!important;\n    font-weight: 900;"
+    },
+    {
+      "source": "https://www.foundmyanimal.com/",
+      "selector": "p, label, select, input, button, span, li, a, .ql-font-kanit, .kl_reviews__carousel__content_body, product-recommendations > div > product-card > div > span",
+      "declarations": "font-family: 'Brandon Grotesque'!important;\n    font-weight: normal;"
+    },
+    {
+      "source": "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;line-height:1.15;margin:0"
+    },
+    {
+      "source": "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411",
+      "selector": "body",
+      "declarations": "margin:0;padding:0;background:var(--bg-body);font-family:-apple-system,BlinkMacSystemFont,avenir next,avenir,segoe ui,helvetica neue,helvetica,Ubuntu,roboto,noto,arial,sans-serif;font-weight:400;line-height:1.6;color:var(--color-body);-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale"
+    },
+    {
+      "source": "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit"
+    },
+    {
+      "source": "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411",
+      "selector": "h1,.h1,.h1-large,.h1-xlarge,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6",
+      "declarations": "font-family:-apple-system,BlinkMacSystemFont,avenir next,avenir,segoe ui,helvetica neue,helvetica,Ubuntu,roboto,noto,arial,sans-serif;font-style:normal;font-weight:700;color:var(--color-body);text-rendering:optimizeLegibility"
+    },
+    {
+      "source": "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411",
+      "selector": "h1 small,.h1 small,.h1-large small,.h1-xlarge small,h2 small,.h2 small,h3 small,.h3 small,h4 small,.h4 small,h5 small,.h5 small,h6 small,.h6 small",
+      "declarations": "line-height:0;color:#cacaca"
+    },
+    {
+      "source": "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411",
+      "selector": ".subheader",
+      "declarations": "margin-top:.2rem;margin-bottom:.5rem;font-weight:400;line-height:1.4;color:#8a8a8a"
+    },
+    {
+      "source": "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411",
+      "selector": ":root",
+      "declarations": "--bg-body: #fff;--bg-body-rgb: 255, 255, 255;--color-body: #151515;--color-body-rgb: 21, 21, 21;--color-accent: #151515;--color-accent-rgb: 21, 21, 21;--color-border: #e2e2e2;--color-form-border: #e2e2e2;--color-star: #fd9a52;--color-overlay-rgb: 0, 0, 0;--section-spacing-mobile: 50px;--section-spacing-desktop: 100px"
+    },
+    {
+      "source": "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411",
+      "selector": "button,summary",
+      "declarations": "-webkit-tap-highlight-color:rgba(0,0,0,0)"
+    },
+    {
+      "source": "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411",
+      "selector": ".side-panel-header h4",
+      "declarations": "margin:0;line-height:1;font-size:.9375rem;letter-spacing:.1em;font-weight:600;color:var(--color-body);text-transform:uppercase"
+    },
+    {
+      "source": "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411",
+      "selector": ".side-panel-content--tabs button",
+      "declarations": "display:inline-flex;align-items:center;justify-content:center;text-align:center;text-transform:uppercase;font-size:.75rem;letter-spacing:.1em;font-weight:600;padding:0 15px;height:50px;flex:1;background:rgba(var(--color-body-rgb),.05);border-bottom:1px solid var(--color-border);border-right:1px solid var(--color-border);color:var(--color-body)"
+    },
+    {
+      "source": "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411",
+      "selector": ".side-panel-content--tabs button.tab-active",
+      "declarations": "background:var(--bg-body);border-bottom-color:transparent"
+    },
+    {
+      "source": "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411",
+      "selector": ".header.transparent--true",
+      "declarations": "position:absolute;background:transparent;border-bottom-color:#fff6"
+    },
+    {
+      "source": "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411",
+      "selector": ".header.transparent--true:not(:hover):not(.is-sticky) .logolink.text-logo",
+      "declarations": "color:var(--color-header-transparent-text, #fff)"
+    },
+    {
+      "source": "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411",
+      "selector": ".header.transparent--true:not(:hover):not(.is-sticky) .thb-full-menu>li>a",
+      "declarations": "color:var(--color-header-transparent-text, #fff)"
+    },
+    {
+      "source": "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411",
+      "selector": ".header.transparent--true:not(:hover):not(.is-sticky) .thb-localization-forms.inside-header .select select",
+      "declarations": "color:var(--color-header-transparent-text, #fff)"
+    },
+    {
+      "source": "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411",
+      "selector": ".header.transparent--true:not(:hover):not(.is-sticky) .thb-secondary-area .thb-item-count",
+      "declarations": "background-color:var(--color-header-transparent-text, #fff);color:var(--color-header-icons, --color-accent)"
+    },
+    {
+      "source": "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411",
+      "selector": ".header.transparent--true:not(:hover):not(.is-sticky) .thb-secondary-area-item.thb-secondary-myaccount",
+      "declarations": "color:var(--color-header-transparent-text, #fff)"
+    },
+    {
+      "source": "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411",
+      "selector": ".mega-menu-promotion--cover .text-button:hover",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411",
+      "selector": ".thb-localization-forms.inside-header .select select",
+      "declarations": "font-weight:500;font-size:calc(var(--font-navigation-scale, 1) * 15px);color:var(--color-header-text, --color-body)"
+    },
+    {
+      "source": "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411",
+      "selector": ".shopify-payment-button__more-options.white,.spr-summary-actions-newreview.white,.text-button.white",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411",
+      "selector": "button",
+      "declarations": "color:var(--color-accent);cursor:pointer"
+    },
+    {
+      "source": "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411",
+      "selector": ".button,input[type=submit]",
+      "declarations": "display:inline-flex;cursor:pointer;padding:7px 30px;align-items:center;justify-content:center;height:48px;font-size:.875rem;font-weight:600;letter-spacing:var(--button-letter-spacing, .02em);border:1px solid var(--solid-button-background, var(--color-accent));background:var(--solid-button-background, var(--color-accent));color:var(--solid-button-label, #fff);border-radius:var(--button-border-radius, 0px);text-align:center;position:relative;z-index:1;overflow:hidden;-webkit-appearance:none;-moz-appearance:none;appearance:none;transition:color .25s cubic-bezier(.104,.204,.492,1),background-color .25s cubic-bezier(.104,.204,.492,1),border-color .25s cubic-bezier(.104,.204,.492,1)"
+    },
+    {
+      "source": "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411",
+      "selector": ".button:hover,.button:focus,.button.loading,[loading=true] .button,input[type=submit]:hover,input[type=submit]:focus,input[type=submit].loading,[loading=true] i",
+      "declarations": "color:var(--outline-button-label, var(--color-accent))"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Pet Products and Supplies at Great Prices | Found My Animal",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.foundmyanimal.com/",
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.foundmyanimal.com/",
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.foundmyanimal.com/",
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411",
+        "https://www.foundmyanimal.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/announcement-bar.css?v=130416140157017794861716408639",
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/mobile-menu.css?v=87280388078997094501716408639",
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/slideshow.css?v=44594952742559433481716408639"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.foundmyanimal.com/",
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.foundmyanimal.com/",
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.foundmyanimal.com/",
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411",
+        "https://www.foundmyanimal.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/announcement-bar.css?v=130416140157017794861716408639",
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/mobile-menu.css?v=87280388078997094501716408639",
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/slideshow.css?v=44594952742559433481716408639"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.foundmyanimal.com/",
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411",
+        "https://www.foundmyanimal.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/announcement-bar.css?v=130416140157017794861716408639",
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/mobile-menu.css?v=87280388078997094501716408639",
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/slideshow.css?v=44594952742559433481716408639"
+      ]
+    },
+    "colors.accent-highlight": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.foundmyanimal.com/"
+      ]
+    },
+    "colors.accent-alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+      ]
+    },
+    "colors.star-rating": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.foundmyanimal.com/cdn/shop/t/11/assets/app.css?v=10158811322775156441719764411"
+      ]
+    },
+    "colors.form-border": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.foundmyanimal.com/",
+        "https://www.foundmyanimal.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-darken": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.foundmyanimal.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.announcement-bar": {
+      "status": "inferred"
+    },
+    "components.product-variant-swatch": {
+      "status": "inferred"
+    }
+  }
+}

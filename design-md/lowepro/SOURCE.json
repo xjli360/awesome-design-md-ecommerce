@@ -1,0 +1,871 @@
+{
+  "source_url": "https://lowepro.com",
+  "final_url": "https://www.lowepro.com/",
+  "captured_at": "2026-09-28T05:05:18.939324+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://lowepro.com",
+      "final_url": "https://www.lowepro.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "13a11a2621db9c45a9cca880c039219d617993337a6c00282869dd319187168a",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css",
+      "final_url": "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "cc25743e93a3964665b714e19032fc5ebc6c361d51e269b93fc6d87c0d80d246",
+      "snapshot": "stylesheet-1.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 481,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#f8971d": {
+      "count": 272,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#000000": {
+      "count": 229,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#ebebeb": {
+      "count": 95,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#3a3a3a": {
+      "count": 85,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#6e6e6e": {
+      "count": 81,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#dc3545": {
+      "count": 65,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#d1d1d1": {
+      "count": 53,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#fafafa": {
+      "count": 48,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 45,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#252525": {
+      "count": 36,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#009688": {
+      "count": 33,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#505050": {
+      "count": 26,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#db7d07": {
+      "count": 21,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#ffc107": {
+      "count": 20,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#e88407": {
+      "count": 18,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#17a2b8": {
+      "count": 17,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#38923a": {
+      "count": 17,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 16,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 15,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#b5b5b5": {
+      "count": 14,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#212020": {
+      "count": 12,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#757575": {
+      "count": 12,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#333333": {
+      "count": 10,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#111111": {
+      "count": 10,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#272727": {
+      "count": 9,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#999999": {
+      "count": 7,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 6,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#4c4c4c": {
+      "count": 6,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 6,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#5897fb": {
+      "count": 6,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#007bff": {
+      "count": 5,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#141414": {
+      "count": 5,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#fefefe": {
+      "count": 5,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#e7e7e7": {
+      "count": 5,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#888888": {
+      "count": 5,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#555454": {
+      "count": 4,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#00635a": {
+      "count": 4,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#117a8b": {
+      "count": 4,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#d39e00": {
+      "count": 4,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#bd2130": {
+      "count": 4,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#e1e0e0": {
+      "count": 4,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#2a6d2b": {
+      "count": 4,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 4,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#dadada": {
+      "count": 4,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#767676": {
+      "count": 4,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#c26f06": {
+      "count": 4,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#d2d1d1": {
+      "count": 4,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#444444": {
+      "count": 4,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#ffeeeeee": {
+      "count": 4,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#fcd7a7": {
+      "count": 3,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#c9c9c9": {
+      "count": 3,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#a6dbd6": {
+      "count": 3,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#abdde5": {
+      "count": 3,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#ffe8a1": {
+      "count": 3,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#f1b0b7": {
+      "count": 3,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 3,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#b7d7b8": {
+      "count": 3,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#002b5c": {
+      "count": 3,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "#9b2d98": {
+      "count": 3,
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+    ],
+    "Apple Color Emoji": [
+      "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+    ],
+    "Arial": [
+      "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+    ],
+    "BlinkMacSystemFont": [
+      "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+    ],
+    "Calibri": [
+      "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+    ],
+    "Font Awesome 5 Brands": [
+      "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+    ],
+    "Font Awesome 5 Pro": [
+      "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+    ],
+    "Font Awesome\\ 5 Pro": [
+      "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+    ],
+    "Gilroy": [
+      "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+    ],
+    "Helvetica": [
+      "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+    ],
+    "Helvetica Neue": [
+      "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+    ],
+    "HelveticaNeue": [
+      "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+    ],
+    "Karla-Bold": [
+      "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+    ],
+    "Open Sans": [
+      "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+    ],
+    "Open sans": [
+      "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+    ],
+    "Roboto": [
+      "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+    ],
+    "Segoe UI": [
+      "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+    ],
+    "Segoe UI Emoji": [
+      "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+    ],
+    "Segoe UI Symbol": [
+      "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+    ],
+    "fontAwesome": [
+      "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+    ],
+    "inherit !important": [
+      "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+    ],
+    "luma-icons": [
+      "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+    ],
+    "monospace": [
+      "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+    ],
+    "sans-serif": [
+      "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+    ],
+    "verveine": [
+      "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css",
+      "selector": ":root",
+      "declarations": "--blue: #007bff;\n  --indigo: #6610f2;\n  --purple: #6f42c1;\n  --pink: #e83e8c;\n  --red: #dc3545;\n  --orange: #f8971d;\n  --yellow: #ffc107;\n  --green: #009688;\n  --teal: #20c997;\n  --cyan: #17a2b8;\n  --white: #fff;\n  --gray: #6E6E6E;\n  --gray-dark: #3a3a3a;\n  --sustainability: #38923A;\n  --primary: #f8971d;\n  --secondary: #6E6E6E;\n  --success: #009688;\n  --info: #17a2b8;\n  --warning: #ffc107;\n  --danger: #dc3545;\n  --light: #fafafa;\n  --dark: #3a3a3a;\n  --sustainability: #38923A;\n  --breakpoint-xs: 0;\n  --breakpoint-sm: 576px;\n  --breakpoint-md: 768px;\n  --breakpoint-lg: 992px;\n  --breakpoint-xlg: 1024px;\n  --breakpoint-xl: 1200px;\n  --breakpoint-xxl: 1980px;\n  --font-family-sans-serif: \"Gilro"
+    },
+    {
+      "source": "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css",
+      "selector": "body",
+      "declarations": "margin: 0;\n  font-family: \"Gilroy\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\";\n  font-size: 16px;\n  font-size: 1rem;\n  font-weight: 400;\n  line-height: 1.5;\n  color: #252525;\n  text-align: left;\n  background-color: #fff;"
+    },
+    {
+      "source": "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css",
+      "selector": "input,\nbutton,\nselect,\noptgroup,\ntextarea",
+      "declarations": "margin: 0;\n  font-family: inherit;\n  font-size: inherit;\n  line-height: inherit;"
+    },
+    {
+      "source": "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css",
+      "selector": "h1, h2, h3, h4, h5, h6,\n.h1, .h2, .h3, .h4, .h5, .h6",
+      "declarations": "margin-bottom: 8px;\n  margin-bottom: 0.5rem;\n  font-family: inherit;\n  font-weight: 500;\n  line-height: 1.2;\n  color: inherit;"
+    },
+    {
+      "source": "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css",
+      "selector": ".table-striped tbody tr:nth-of-type(odd)",
+      "declarations": "background-color: rgba(0, 0, 0, 0.05);"
+    },
+    {
+      "source": "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css",
+      "selector": ".table-hover tbody tr:hover",
+      "declarations": "background-color: rgba(0, 0, 0, 0.075);"
+    },
+    {
+      "source": "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css",
+      "selector": ".table-dark.table-striped tbody tr:nth-of-type(odd)",
+      "declarations": "background-color: rgba(255, 255, 255, 0.05);"
+    },
+    {
+      "source": "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css",
+      "selector": ".table-dark.table-hover tbody tr:hover",
+      "declarations": "background-color: rgba(255, 255, 255, 0.075);"
+    },
+    {
+      "source": "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css",
+      "selector": "a.bg-primary:focus, a.bg-primary:hover,\nbutton.bg-primary:focus,\nbutton.bg-primary:hover",
+      "declarations": "background-color: #db7d07 !important;"
+    },
+    {
+      "source": "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css",
+      "selector": "a.bg-secondary:focus, a.bg-secondary:hover,\nbutton.bg-secondary:focus,\nbutton.bg-secondary:hover",
+      "declarations": "background-color: #555454 !important;"
+    },
+    {
+      "source": "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css",
+      "selector": "a.bg-success:focus, a.bg-success:hover,\nbutton.bg-success:focus,\nbutton.bg-success:hover",
+      "declarations": "background-color: #00635a !important;"
+    },
+    {
+      "source": "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css",
+      "selector": "a.bg-info:focus, a.bg-info:hover,\nbutton.bg-info:focus,\nbutton.bg-info:hover",
+      "declarations": "background-color: #117a8b !important;"
+    },
+    {
+      "source": "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css",
+      "selector": "a.bg-warning:focus, a.bg-warning:hover,\nbutton.bg-warning:focus,\nbutton.bg-warning:hover",
+      "declarations": "background-color: #d39e00 !important;"
+    },
+    {
+      "source": "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css",
+      "selector": "a.bg-danger:focus, a.bg-danger:hover,\nbutton.bg-danger:focus,\nbutton.bg-danger:hover",
+      "declarations": "background-color: #bd2130 !important;"
+    },
+    {
+      "source": "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css",
+      "selector": "a.bg-light:focus, a.bg-light:hover,\nbutton.bg-light:focus,\nbutton.bg-light:hover",
+      "declarations": "background-color: #e1e0e0 !important;"
+    },
+    {
+      "source": "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css",
+      "selector": "a.bg-dark:focus, a.bg-dark:hover,\nbutton.bg-dark:focus,\nbutton.bg-dark:hover",
+      "declarations": "background-color: #212020 !important;"
+    },
+    {
+      "source": "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css",
+      "selector": "a.bg-sustainability:focus, a.bg-sustainability:hover,\nbutton.bg-sustainability:focus,\nbutton.bg-sustainability:hover",
+      "declarations": "background-color: #2a6d2b !important;"
+    },
+    {
+      "source": "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css",
+      "selector": ".card-header",
+      "declarations": "padding: 12px 20px;\n  padding: 0.75rem 1.25rem;\n  margin-bottom: 0;\n  background-color: rgba(0, 0, 0, 0.03);\n  border-bottom: 1px solid rgba(0, 0, 0, 0.125);"
+    },
+    {
+      "source": "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css",
+      "selector": ".btn-secondary",
+      "declarations": "color: #fff;\n  background-color: #6E6E6E;\n  border-color: #6E6E6E;"
+    },
+    {
+      "source": "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css",
+      "selector": ".btn-secondary:hover",
+      "declarations": "color: #fff;\n  background-color: #5b5b5b;\n  border-color: #555454;"
+    },
+    {
+      "source": "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css",
+      "selector": ".btn-secondary.disabled, .btn-secondary:disabled",
+      "declarations": "background-color: #6E6E6E;\n  border-color: #6E6E6E;"
+    },
+    {
+      "source": "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css",
+      "selector": ".btn-secondary:not([disabled]):not(.disabled):active, .btn-secondary:not([disabled]):not(.disabled).active,\n.show > .btn-secondary.dropdown-toggle",
+      "declarations": "color: #fff;\n  background-color: #555454;\n  border-color: #4e4e4e;"
+    },
+    {
+      "source": "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css",
+      "selector": ".btn-success",
+      "declarations": "color: #fff;\n  background-color: #009688;\n  border-color: #009688;"
+    },
+    {
+      "source": "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css",
+      "selector": ".btn-success:hover",
+      "declarations": "color: #fff;\n  background-color: #007065;\n  border-color: #00635a;"
+    },
+    {
+      "source": "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css",
+      "selector": ".btn-success.disabled, .btn-success:disabled",
+      "declarations": "background-color: #009688;\n  border-color: #009688;"
+    },
+    {
+      "source": "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css",
+      "selector": ".btn-success:not([disabled]):not(.disabled):active, .btn-success:not([disabled]):not(.disabled).active,\n.show > .btn-success.dropdown-toggle",
+      "declarations": "color: #fff;\n  background-color: #00635a;\n  border-color: #00564e;"
+    },
+    {
+      "source": "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css",
+      "selector": ".btn-info",
+      "declarations": "color: #fff;\n  background-color: #17a2b8;\n  border-color: #17a2b8;"
+    },
+    {
+      "source": "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css",
+      "selector": ".btn-info:hover",
+      "declarations": "color: #fff;\n  background-color: #138496;\n  border-color: #117a8b;"
+    },
+    {
+      "source": "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css",
+      "selector": ".btn-info.disabled, .btn-info:disabled",
+      "declarations": "background-color: #17a2b8;\n  border-color: #17a2b8;"
+    },
+    {
+      "source": "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css",
+      "selector": ".btn-info:not([disabled]):not(.disabled):active, .btn-info:not([disabled]):not(.disabled).active,\n.show > .btn-info.dropdown-toggle",
+      "declarations": "color: #fff;\n  background-color: #117a8b;\n  border-color: #10707f;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Camera Bags & Backpacks For Any Device | Lowepro",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "colors.secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "colors.secondary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "colors.dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "colors.sustainability": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "colors.border-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "colors.text-faint": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lowepro.com/static/frontend/VIS/base/en_US/css/vis-lowepro-other-pages.min.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.region-selector": {
+      "status": "inferred"
+    }
+  }
+}

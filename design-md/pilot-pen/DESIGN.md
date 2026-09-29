@@ -1,13 +1,17 @@
 ---
 version: alpha
-name: Pilot Pen
-description: Three shades of the same navy — #054a7a anchoring the deep end, #0f72b7 as the working primary, #0b598f threading between them — compress the entire brand voltage into a single blue family that reads like the color of fresh ink drying on cotton-bond paper. The palette is nearly monochromatic: one gray (#eeeeee) provides the only departure from the blue-and-white axis, leaving the white canvas and the ink-blue spectrum to carry every product shot, CTA, and editorial block. This restraint is purposeful. A writing instrument brand selling precision and longevity doesn't reach for chromatic noise; the blue does everything.
+name: "Pilot Pen"
+source_url: "https://pilotpen.us"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Three shades of the same navy — #054a7a anchoring the deep end, #0f72b7 as the working primary, #0b598f threading between them — compress the entire brand voltage into a single blue family that reads like the color of fresh ink drying on cotton-bond paper. The palette is nearly monochromatic: one gray (#eeeeee) provides the only departure from the blue-and-white axis, leaving the white canvas and the ink-blue spectrum to carry every product shot, CTA, and editorial block. This restraint is purposeful. A writing instrument brand selling precision and longevity doesn't reach for chromatic noise; the blue does everything.
 
-Without a confirmed text typeface in the extracted font manifest — only Font Awesome 5 Free and Brands appear, both icon fonts — the typography system falls back to a neutral system sans-serif. The visual hierarchy almost certainly leans on weight shifts and modest uppercase tracking rather than a proprietary variable font. Button labels and navigation items likely run at 14–16px medium-weight; editorial hierarchy is earned through size jumps rather than expressive faces.
+  Without a confirmed text typeface in the extracted font manifest — only Font Awesome 5 Free and Brands appear, both icon fonts — the typography system falls back to a neutral system sans-serif. The visual hierarchy almost certainly leans on weight shifts and modest uppercase tracking rather than a proprietary variable font. Button labels and navigation items likely run at 14–16px medium-weight; editorial hierarchy is earned through size jumps rather than expressive faces.
 
-Interaction surfaces follow the corporate-consumer hybrid pattern common to Japanese stationery brands operating a US retail arm: nav bars carry product-line mega-dropdowns rather than lifestyle photography, product cards are dense with model numbers and ink-type metadata, and CTAs drive directly to SKUs rather than to editorial content. The hero likely pairs a product photograph against the primary blue fill with a white headline — high contrast, no gradient softening, no overlay scrim. Corner radii are minimal throughout, sitting around `{rounded.xs}` (4px), consistent with the precision-instrument aesthetic rather than the soft-round consumer goods language of competitors. The `{rounded.full}` pill shape is reserved, if used at all, for tag or badge contexts, not for primary CTAs.
+  Interaction surfaces follow the corporate-consumer hybrid pattern common to Japanese stationery brands operating a US retail arm: nav bars carry product-line mega-dropdowns rather than lifestyle photography, product cards are dense with model numbers and ink-type metadata, and CTAs drive directly to SKUs rather than to editorial content. The hero likely pairs a product photograph against the primary blue fill with a white headline — high contrast, no gradient softening, no overlay scrim. Corner radii are minimal throughout, sitting around `{rounded.xs}` (4px), consistent with the precision-instrument aesthetic rather than the soft-round consumer goods language of competitors. The `{rounded.full}` pill shape is reserved, if used at all, for tag or badge contexts, not for primary CTAs.
 
-The icon system — Font Awesome 5 Free for utility glyphs (cart, search, social links) — handles everything confirmable. Any proprietary nib or ink-type iconography lives in assets not captured by the extraction. Footer real estate allocates columns to product families, customer service, and corporate links, set against the deep navy (#054a7a) that bookends the palette at both ends of the page.
+  The icon system — Font Awesome 5 Free for utility glyphs (cart, search, social links) — handles everything confirmable. Any proprietary nib or ink-type iconography lives in assets not captured by the extraction. Footer real estate allocates columns to product families, customer service, and corporate links, set against the deep navy (#054a7a) that bookends the palette at both ends of the page.
 
 colors:
   primary: "#0f72b7"
@@ -335,6 +339,8 @@ components:
 - Feature callout left-border accent is preserved at all breakpoints; the row layout collapses to vertical stacking on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **No text typeface confirmed**: font manifest captured only Font Awesome 5 Free and Font Awesome 5 Brands (icon fonts); the actual display and body typeface is unknown — system-ui fallbacks used throughout all typography tokens
 - **No meta theme-color set**: browser chrome accent is unspecified; primary blue (#0f72b7) assumed as the intended representative color

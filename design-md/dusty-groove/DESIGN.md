@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Dusty Groove
-description: A deep, obsessive dive into the crates of Chicago's legendary independent record store, Dusty Groove's digital presence is a study in deliberate restraint — a single extracted hex of #313131, a near-black charcoal, dominates the interface, suggesting a space where the product (the album art, the tracklist, the label) is the only color that matters. This is not a brand that sells a lifestyle; it sells the physical artifact of music, and the design reflects a collector's patience: dense text listings, minimal imagery beyond the record sleeve, and a navigation system that prioritizes genre taxonomy over visual spectacle. The typography stack — a fallback chain of -apple-system, Arial, Helvetica Neue, Roboto, sans-serif — is utilitarian, almost anti-brand, chosen for legibility and speed rather than personality. There are no pill-shaped buttons ({rounded.full}) or generous card radii ({rounded.lg}); instead, the interface uses sharp corners ({rounded.none}) and tight spacing ({spacing.sm}) to pack information density onto the page, mimicking the crowded bins of a physical record shop. The brand's voice is that of a knowledgeable, slightly gruff clerk who can tell you the pressing year of a Sun Ra LP from memory — it trusts the user to know what they're looking for, and the design gets out of the way. The absence of a meta theme-color and the presence of a Cloudflare "Just a moment..." page hint at a site that prioritizes backend stability over front-end polish, a pragmatic choice for a small, independent operation.
+name: "Dusty Groove"
+source_url: "https://www.dustygroove.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep, obsessive dive into the crates of Chicago's legendary independent record store, Dusty Groove's digital presence is a study in deliberate restraint — a single extracted hex of #313131, a near-black charcoal, dominates the interface, suggesting a space where the product (the album art, the tracklist, the label) is the only color that matters. This is not a brand that sells a lifestyle; it sells the physical artifact of music, and the design reflects a collector's patience: dense text listings, minimal imagery beyond the record sleeve, and a navigation system that prioritizes genre taxonomy over visual spectacle. The typography stack — a fallback chain of -apple-system, Arial, Helvetica Neue, Roboto, sans-serif — is utilitarian, almost anti-brand, chosen for legibility and speed rather than personality. There are no pill-shaped buttons ({rounded.full}) or generous card radii ({rounded.lg}); instead, the interface uses sharp corners ({rounded.none}) and tight spacing ({spacing.sm}) to pack information density onto the page, mimicking the crowded bins of a physical record shop. The brand's voice is that of a knowledgeable, slightly gruff clerk who can tell you the pressing year of a Sun Ra LP from memory — it trusts the user to know what they're looking for, and the design gets out of the way. The absence of a meta theme-color and the presence of a Cloudflare "Just a moment..." page hint at a site that prioritizes backend stability over front-end polish, a pragmatic choice for a small, independent operation.
 
 colors:
   primary: "#313131"
@@ -310,6 +314,8 @@ components:
 - Secondary navigation items (e.g., "New Arrivals", "Pre-Orders") collapse into a "More" dropdown on tablet and mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only a single hex color (#313131) was reliably extracted from the live site; the full color palette (link blue, price red, stock green, hover states, etc.) has been inferred from common e-commerce patterns and may not match the actual site.
 - No custom font family was found; the site relies entirely on system font stacks. If the brand uses a custom typeface (e.g., for the logo), it could not be detected.

@@ -1,0 +1,938 @@
+{
+  "source_url": "https://yakima.com",
+  "final_url": "https://yakima.com/",
+  "captured_at": "2026-09-28T04:29:14.092266+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://yakima.com",
+      "final_url": "https://yakima.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "ab920ea55500e293396ec7233c4211ff5bfe25577b9436504bb5374ae28661ae",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://yakima.com/cdn/shop/t/51/assets/fontawesome-all.min.css?v=78393058657175651301788215103",
+      "final_url": "https://yakima.com/cdn/shop/t/51/assets/fontawesome-all.min.css?v=78393058657175651301788215103",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "06f2ddc3c85b8028f330b2c5e820f9f9c85adaf97a5cb4eb5aa10f32b258cdd5",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://yakima.com/cdn/shop/t/51/assets/fontawesome-v4-shims.min.css?v=157731650909196412241788215103",
+      "final_url": "https://yakima.com/cdn/shop/t/51/assets/fontawesome-v4-shims.min.css?v=157731650909196412241788215103",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c784643f847baad540c589d49a02b073839278a13e66a36d17f694cb9a820250",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://yakima.com/cdn/shop/t/51/assets/fontawesome-v4-font-face.min.css?v=82333278922397374421788215103",
+      "final_url": "https://yakima.com/cdn/shop/t/51/assets/fontawesome-v4-font-face.min.css?v=82333278922397374421788215103",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "52871cafe10b5660d4e40d12a00027ebba2b413e5c8be6c85f42c3f1c10acc6d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000",
+      "final_url": "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e4442a3932f89d03958465638c83722e9187342fa89ba8911036f777a996d78c",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822",
+      "final_url": "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6fa12a1761026ae402a86edbea430ec3f60c409f13bfb9d74ea6990bf47929ce",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 287,
+      "sources": [
+        "https://yakima.com/",
+        "https://yakima.com/cdn/shop/t/51/assets/fontawesome-all.min.css?v=78393058657175651301788215103",
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000",
+        "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+      ]
+    },
+    "#000000": {
+      "count": 163,
+      "sources": [
+        "https://yakima.com/",
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000",
+        "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+      ]
+    },
+    "#ab2328": {
+      "count": 78,
+      "sources": [
+        "https://yakima.com/",
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000",
+        "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+      ]
+    },
+    "#252525": {
+      "count": 70,
+      "sources": [
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000",
+        "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+      ]
+    },
+    "#323232": {
+      "count": 26,
+      "sources": [
+        "https://yakima.com/"
+      ]
+    },
+    "#e8e9eb": {
+      "count": 24,
+      "sources": [
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000"
+      ]
+    },
+    "#eeeeee": {
+      "count": 21,
+      "sources": [
+        "https://yakima.com/",
+        "https://yakima.com/cdn/shop/t/51/assets/fontawesome-all.min.css?v=78393058657175651301788215103",
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000",
+        "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+      ]
+    },
+    "#cccccc": {
+      "count": 19,
+      "sources": [
+        "https://yakima.com/",
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000",
+        "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+      ]
+    },
+    "#333333": {
+      "count": 15,
+      "sources": [
+        "https://yakima.com/",
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000",
+        "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+      ]
+    },
+    "#fa363a": {
+      "count": 15,
+      "sources": [
+        "https://yakima.com/"
+      ]
+    },
+    "#811a1e": {
+      "count": 13,
+      "sources": [
+        "https://yakima.com/",
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000",
+        "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+      ]
+    },
+    "#1f292e": {
+      "count": 13,
+      "sources": [
+        "https://yakima.com/",
+        "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+      ]
+    },
+    "#c8c8c8": {
+      "count": 10,
+      "sources": [
+        "https://yakima.com/"
+      ]
+    },
+    "#2673bf": {
+      "count": 10,
+      "sources": [
+        "https://yakima.com/"
+      ]
+    },
+    "#d20000": {
+      "count": 10,
+      "sources": [
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000"
+      ]
+    },
+    "#c9cbcd": {
+      "count": 10,
+      "sources": [
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000",
+        "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 7,
+      "sources": [
+        "https://yakima.com/",
+        "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 7,
+      "sources": [
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000"
+      ]
+    },
+    "#cfcfcf": {
+      "count": 6,
+      "sources": [
+        "https://yakima.com/"
+      ]
+    },
+    "#d2d4d9": {
+      "count": 6,
+      "sources": [
+        "https://yakima.com/",
+        "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+      ]
+    },
+    "#dddddd": {
+      "count": 6,
+      "sources": [
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000",
+        "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+      ]
+    },
+    "#ffffff80": {
+      "count": 6,
+      "sources": [
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000"
+      ]
+    },
+    "#231f20": {
+      "count": 5,
+      "sources": [
+        "https://yakima.com/",
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 5,
+      "sources": [
+        "https://yakima.com/"
+      ]
+    },
+    "#3a3a3a": {
+      "count": 5,
+      "sources": [
+        "https://yakima.com/"
+      ]
+    },
+    "#0c0c0c": {
+      "count": 5,
+      "sources": [
+        "https://yakima.com/"
+      ]
+    },
+    "#646464": {
+      "count": 5,
+      "sources": [
+        "https://yakima.com/"
+      ]
+    },
+    "#85144b": {
+      "count": 5,
+      "sources": [
+        "https://yakima.com/"
+      ]
+    },
+    "#4b4b4b": {
+      "count": 5,
+      "sources": [
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000"
+      ]
+    },
+    "#eaeff2": {
+      "count": 5,
+      "sources": [
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000",
+        "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+      ]
+    },
+    "#b2b4b6": {
+      "count": 5,
+      "sources": [
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000",
+        "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+      ]
+    },
+    "#3d4246": {
+      "count": 5,
+      "sources": [
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000"
+      ]
+    },
+    "#202020": {
+      "count": 4,
+      "sources": [
+        "https://yakima.com/"
+      ]
+    },
+    "#969696": {
+      "count": 4,
+      "sources": [
+        "https://yakima.com/"
+      ]
+    },
+    "#fcfcfc": {
+      "count": 4,
+      "sources": [
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000",
+        "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+      ]
+    },
+    "#c9cbcd59": {
+      "count": 4,
+      "sources": [
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000",
+        "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+      ]
+    },
+    "#522d5b": {
+      "count": 4,
+      "sources": [
+        "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+      ]
+    },
+    "#00000000": {
+      "count": 4,
+      "sources": [
+        "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 4,
+      "sources": [
+        "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+      ]
+    },
+    "#7b7b7b": {
+      "count": 3,
+      "sources": [
+        "https://yakima.com/",
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000"
+      ]
+    },
+    "#64686b": {
+      "count": 3,
+      "sources": [
+        "https://yakima.com/",
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000",
+        "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+      ]
+    },
+    "#ff0000": {
+      "count": 3,
+      "sources": [
+        "https://yakima.com/"
+      ]
+    },
+    "#949494": {
+      "count": 3,
+      "sources": [
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 3,
+      "sources": [
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000",
+        "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+      ]
+    },
+    "#90979d": {
+      "count": 3,
+      "sources": [
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000"
+      ]
+    },
+    "#00000066": {
+      "count": 3,
+      "sources": [
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000"
+      ]
+    },
+    "#000000bf": {
+      "count": 3,
+      "sources": [
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000"
+      ]
+    },
+    "#b20000": {
+      "count": 3,
+      "sources": [
+        "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+      ]
+    },
+    "#808080": {
+      "count": 3,
+      "sources": [
+        "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+      ]
+    },
+    "#008000": {
+      "count": 2,
+      "sources": [
+        "https://yakima.com/"
+      ]
+    },
+    "#07c25f": {
+      "count": 2,
+      "sources": [
+        "https://yakima.com/"
+      ]
+    },
+    "#555555": {
+      "count": 2,
+      "sources": [
+        "https://yakima.com/"
+      ]
+    },
+    "#717171": {
+      "count": 2,
+      "sources": [
+        "https://yakima.com/"
+      ]
+    },
+    "#71717160": {
+      "count": 2,
+      "sources": [
+        "https://yakima.com/"
+      ]
+    },
+    "#6c6c6c": {
+      "count": 2,
+      "sources": [
+        "https://yakima.com/"
+      ]
+    },
+    "#fefdfd": {
+      "count": 2,
+      "sources": [
+        "https://yakima.com/"
+      ]
+    },
+    "#414bdc": {
+      "count": 2,
+      "sources": [
+        "https://yakima.com/"
+      ]
+    },
+    "#fff8f8": {
+      "count": 2,
+      "sources": [
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000"
+      ]
+    },
+    "#1f873d": {
+      "count": 2,
+      "sources": [
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000"
+      ]
+    },
+    "#00000099": {
+      "count": 2,
+      "sources": [
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://yakima.com/"
+    ],
+    "Arial": [
+      "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000",
+      "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+    ],
+    "BlinkMacSystemFont": [
+      "https://yakima.com/"
+    ],
+    "Consolas": [
+      "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000"
+    ],
+    "Font Awesome 5 Brands": [
+      "https://yakima.com/cdn/shop/t/51/assets/fontawesome-all.min.css?v=78393058657175651301788215103",
+      "https://yakima.com/cdn/shop/t/51/assets/fontawesome-v4-shims.min.css?v=157731650909196412241788215103"
+    ],
+    "Font Awesome 5 Duotone": [
+      "https://yakima.com/cdn/shop/t/51/assets/fontawesome-all.min.css?v=78393058657175651301788215103"
+    ],
+    "Font Awesome 5 Pro": [
+      "https://yakima.com/cdn/shop/t/51/assets/fontawesome-all.min.css?v=78393058657175651301788215103",
+      "https://yakima.com/cdn/shop/t/51/assets/fontawesome-v4-shims.min.css?v=157731650909196412241788215103",
+      "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000"
+    ],
+    "FontAwesome": [
+      "https://yakima.com/cdn/shop/t/51/assets/fontawesome-v4-font-face.min.css?v=82333278922397374421788215103",
+      "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+    ],
+    "Helvetica": [
+      "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000",
+      "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+    ],
+    "Helvetica Neue": [
+      "https://yakima.com/",
+      "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000"
+    ],
+    "HelveticaNeue": [
+      "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000"
+    ],
+    "JudgemeStar": [
+      "https://yakima.com/"
+    ],
+    "Mark": [
+      "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000",
+      "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+    ],
+    "Mark !important": [
+      "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+    ],
+    "Mark OT": [
+      "https://yakima.com/",
+      "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+    ],
+    "Mark OT !important": [
+      "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+    ],
+    "Mark W01 Bold": [
+      "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+    ],
+    "Mark W01 Medium\" !important": [
+      "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+    ],
+    "Roboto": [
+      "https://yakima.com/"
+    ],
+    "San Francisco": [
+      "https://yakima.com/"
+    ],
+    "Segoe UI": [
+      "https://yakima.com/"
+    ],
+    "Work Sans": [
+      "https://yakima.com/"
+    ],
+    "Yakima Hand": [
+      "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000"
+    ],
+    "monospace": [
+      "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000"
+    ],
+    "object-fit: cover": [
+      "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000"
+    ],
+    "sans-serif": [
+      "https://yakima.com/",
+      "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000",
+      "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+    ],
+    "sans-serif !important": [
+      "https://yakima.com/",
+      "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+    ],
+    "slick-icons": [
+      "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://yakima.com/",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #000;--jdgm-secondary-color: rgba(0,0,0,0.1);--jdgm-star-color: #202020;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #000000;--jdgm-paginate-color: #000;--jdgm-border-radius: 0;--jdgm-reviewer-name-color: #000000"
+    },
+    {
+      "source": "https://yakima.com/",
+      "selector": "nel .gm-header > button > .gm-target > .gm-text,\n.gm-menu-installed .gm-menu.gm-menu-mobile.gm-submenu-open-style-slide.gm-menu-34856 .gm-tabs .gm-tab-panel > .",
+      "declarations": "color: rgba(250, 248, 248, 1) !important;"
+    },
+    {
+      "source": "https://yakima.com/",
+      "selector": ".gm-menu.gm-menu-34856 .gm-product-atc input.gm-btn-atc",
+      "declarations": "color: #FFFFFF !important;\n  background-color: #1F1F1F !important;\n  font-family: \"Mark OT\", sans-serif !important;"
+    },
+    {
+      "source": "https://yakima.com/",
+      "selector": ".gm-menu.gm-menu-34856 .gm-product-atc input.gm-btn-atc:hover",
+      "declarations": "color: #FFFFFF !important;\n  background-color: #000000 !important;"
+    },
+    {
+      "source": "https://yakima.com/",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #000;--jdgm-secondary-color: rgba(0,0,0,0.1);--jdgm-star-color: #202020;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #000000;--jdgm-paginate-color: #000;--jdgm-border-radius: 0;--jdgm-reviewer-name-color: #000000"
+    },
+    {
+      "source": "https://yakima.com/",
+      "selector": "header.site-header",
+      "declarations": "border-bottom: none !important; background-color: transparent !important; margin-top: 20px;"
+    },
+    {
+      "source": "https://yakima.com/",
+      "selector": ".site-header>.page-width",
+      "declarations": "background-color: transparent !important;"
+    },
+    {
+      "source": "https://yakima.com/",
+      "selector": "header .mobile-nav--open, header .mobile-nav--open:hover",
+      "declarations": "color: #fff!important; margin-left: 5px;"
+    },
+    {
+      "source": "https://yakima.com/",
+      "selector": ".site-header #search-icon",
+      "declarations": "color: #fff;"
+    },
+    {
+      "source": "https://yakima.com/",
+      "selector": "html.js-nav-open .site-header__mobile-nav",
+      "declarations": "background-color: #1f292e;"
+    },
+    {
+      "source": "https://yakima.com/",
+      "selector": ".limoniapps-discountninja-block .limoniapps-discountninja-spinner.button:before,.limoniapps-discountninja-block .limoniapps-discountninja-spinner.price:before",
+      "declarations": "visibility:hidden;content:'';box-sizing:border-box;position:absolute;width:1.25em;height:1.25em;border-radius:50%;border:2px solid #ccc;border-top-color:#333;opacity:1!important"
+    },
+    {
+      "source": "https://yakima.com/",
+      "selector": ".limoniapps-trigger-button-badge.limoniapps-bg-1",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://yakima.com/",
+      "selector": ".limoniapps-trigger-button-badge.limoniapps-bg-2",
+      "declarations": "background-color:#eee"
+    },
+    {
+      "source": "https://yakima.com/",
+      "selector": ".limoniapps-trigger-button-badge.limoniapps-bg2",
+      "declarations": "background-color:#07c25f"
+    },
+    {
+      "source": "https://yakima.com/",
+      "selector": ".limoniapps-trigger-button-badge .limoniapps-subtle-box .limoniapps-info .limoniapps-close",
+      "declarations": "position:absolute;font-size:1.25em;padding:0;height:30px;width:30px;line-height:29px;top:0;border-width:0;color:rgba(0,0,0,.7);border-top-right-radius:5px;outline:0;z-index:2"
+    },
+    {
+      "source": "https://yakima.com/",
+      "selector": ".limoniapps-trigger-button-badge .limoniapps-subtle-box .limoniapps-info .limoniapps-close:hover",
+      "declarations": "color:#000;cursor:pointer"
+    },
+    {
+      "source": "https://yakima.com/",
+      "selector": "t-item-quantity-disable span,.limoniapps-discountninja-cart-item-quantity-disable button,.limoniapps-discountninja-cart-item-quantity-disable a,.limoniapps-disc",
+      "declarations": "pointer-events:none;color:#aaa!important"
+    },
+    {
+      "source": "https://yakima.com/",
+      "selector": ".limoniapps-giftbox-button .limoniapps-giftbox",
+      "declarations": "position:fixed;background-color:#fff;overflow:hidden;top:0;left:0;right:0;bottom:0;animation-duration:1s;animation-fill-mode:both;-webkit-animation-duration:.5s;-webkit-animation-fill-mode:both;max-height:100vh;width:100%;z-index:2;display:flex;flex-direction:column"
+    },
+    {
+      "source": "https://yakima.com/",
+      "selector": "-giftbox-button .limoniapps-giftbox .limoniapps-giftbox-header .limoniapps-giftbox-close:focus,.limoniapps-giftbox-button .limoniapps-giftbox .limoniapps-giftbo",
+      "declarations": "background-color:rgba(0,0,0,.1)"
+    },
+    {
+      "source": "https://yakima.com/",
+      "selector": ".limoniapps-giftbox-button .limoniapps-notification-count",
+      "declarations": "position:absolute;right:-2px;width:20px;height:20px;display:flex;font-size:0.69em;line-height:11px;align-items:center;justify-content:center;color:#fff;border-radius:50%;background:#f00;z-index:1"
+    },
+    {
+      "source": "https://yakima.com/",
+      "selector": ".limoniapps-giftbox-button .limoniapps-giftbox-trigger",
+      "declarations": "height:100%;width:100%;position:absolute;top:0;left:0;display:flex;justify-content:center;align-items:center;cursor:pointer;background-color:#fff;border-radius:50%;box-shadow:rgba(0,0,0,.1) 0 1px 8px 0"
+    },
+    {
+      "source": "https://yakima.com/",
+      "selector": ".limoniapps-discountninja-promotioncard-productpage p",
+      "declarations": "color:unset;line-height:unset"
+    },
+    {
+      "source": "https://yakima.com/",
+      "selector": ".limoniapps-discountninja-product-label.limoniapps-discountninja-label-subscription",
+      "declarations": "display:inline-flex;background:#334fb4;color:white;padding:4px 13px;border-radius:40px;font-size:0.75em;margin-left: 10px;"
+    },
+    {
+      "source": "https://yakima.com/",
+      "selector": ".limoniapps-trigger-button-badge.limoniapps-bg-1",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://yakima.com/",
+      "selector": ".limoniapps-trigger-button-badge.limoniapps-bg-2",
+      "declarations": "background-color:#eee"
+    },
+    {
+      "source": "https://yakima.com/",
+      "selector": ".limoniapps-trigger-button-badge.limoniapps-bg2",
+      "declarations": "background-color:#07c25f"
+    },
+    {
+      "source": "https://yakima.com/",
+      "selector": ".limoniapps-trigger-button-badge .limoniapps-subtle-box .limoniapps-info .limoniapps-close",
+      "declarations": "position:absolute;font-size:1.25em;padding:0;height:30px;width:30px;line-height:29px;top:0;border-width:0;color:rgba(0,0,0,.7);border-top-right-radius:5px;outline:0;z-index:2"
+    },
+    {
+      "source": "https://yakima.com/",
+      "selector": ".limoniapps-trigger-button-badge .limoniapps-subtle-box .limoniapps-info .limoniapps-close:hover",
+      "declarations": "color:#000;cursor:pointer"
+    },
+    {
+      "source": "https://yakima.com/",
+      "selector": "t-item-quantity-disable span,.limoniapps-discountninja-cart-item-quantity-disable button,.limoniapps-discountninja-cart-item-quantity-disable a,.limoniapps-disc",
+      "declarations": "pointer-events:none;color:#aaa!important"
+    },
+    {
+      "source": "https://yakima.com/",
+      "selector": ".limoniapps-giftbox-button .limoniapps-giftbox",
+      "declarations": "position:fixed;background-color:#fff;overflow:hidden;top:0;left:0;right:0;bottom:0;animation-duration:1s;animation-fill-mode:both;-webkit-animation-duration:.5s;-webkit-animation-fill-mode:both;max-height:100vh;width:100%;z-index:2;display:flex;flex-direction:column"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Yakima",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://yakima.com/",
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000",
+        "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://yakima.com/",
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000",
+        "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://yakima.com/",
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://yakima.com/",
+        "https://yakima.com/cdn/shop/t/51/assets/fontawesome-all.min.css?v=78393058657175651301788215103",
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000",
+        "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://yakima.com/",
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000",
+        "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://yakima.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000",
+        "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://yakima.com/",
+        "https://yakima.com/cdn/shop/t/51/assets/fontawesome-all.min.css?v=78393058657175651301788215103",
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000",
+        "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://yakima.com/",
+        "https://yakima.com/cdn/shop/t/51/assets/fontawesome-all.min.css?v=78393058657175651301788215103",
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000",
+        "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+      ]
+    },
+    "colors.surface-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://yakima.com/",
+        "https://yakima.com/cdn/shop/t/51/assets/custom.css?v=59566860342440607111790103822"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://yakima.com/"
+      ]
+    },
+    "colors.border-subtle": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://yakima.com/cdn/shop/t/51/assets/theme.scss.css?v=154381626153544000421788216000"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.fit-finder": {
+      "status": "inferred"
+    }
+  }
+}

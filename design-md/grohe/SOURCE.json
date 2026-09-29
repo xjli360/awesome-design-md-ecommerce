@@ -1,0 +1,992 @@
+{
+  "source_url": "https://grohe.us",
+  "final_url": "https://www.grohe.us/",
+  "captured_at": "2026-09-28T10:14:23.232707+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://grohe.us",
+      "final_url": "https://www.grohe.us/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "23c32fe784472ae8df3102722fe0bd038cc920f3294221c8a7d7908062f3c4dd",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+      "final_url": "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "da24ee4e1f1459dd9302e0687a55115b112033d7f7d5f30ccfa2bdf970160295",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.grohe.us/cdn/shop/t/182/assets/lib-swiper-bundle.min.css?v=127325684396148790271789579213",
+      "final_url": "https://www.grohe.us/cdn/shop/t/182/assets/lib-swiper-bundle.min.css?v=127325684396148790271789579213",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4f0153bd3e92d3492c87152a79b577ce4b9b1bffc1822f11c05d16d0db75fa90",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.grohe.us/cdn/shop/t/182/assets/nimstrata.css?v=153396211462663727021789579213",
+      "final_url": "https://www.grohe.us/cdn/shop/t/182/assets/nimstrata.css?v=153396211462663727021789579213",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "504f44a8afcf32553fb4b75c9cdda1f1ea7983ec1fd81a6f530b278e26e9258a",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.grohe.us/cdn/shop/t/182/compiled_assets/styles.css?v=90755379158955959591789673040",
+      "final_url": "https://www.grohe.us/cdn/shop/t/182/compiled_assets/styles.css?v=90755379158955959591789673040",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f38f6aa9f5bfaa5b2bb0a2f108ddd3be0e863b80cf15da1a16d6d75d47b24f0f",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "076a201857fce558d0f3396425b817cdc042c4ecfae2a68122d5476e92e7dc3c",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 154,
+      "sources": [
+        "https://www.grohe.us/",
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+        "https://www.grohe.us/cdn/shop/t/182/assets/lib-swiper-bundle.min.css?v=127325684396148790271789579213",
+        "https://www.grohe.us/cdn/shop/t/182/assets/nimstrata.css?v=153396211462663727021789579213",
+        "https://www.grohe.us/cdn/shop/t/182/compiled_assets/styles.css?v=90755379158955959591789673040",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#000000": {
+      "count": 112,
+      "sources": [
+        "https://www.grohe.us/",
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+        "https://www.grohe.us/cdn/shop/t/182/assets/lib-swiper-bundle.min.css?v=127325684396148790271789579213",
+        "https://www.grohe.us/cdn/shop/t/182/assets/nimstrata.css?v=153396211462663727021789579213",
+        "https://www.grohe.us/cdn/shop/t/182/compiled_assets/styles.css?v=90755379158955959591789673040",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#00000000": {
+      "count": 49,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+      ]
+    },
+    "#0f2b4b": {
+      "count": 37,
+      "sources": [
+        "https://www.grohe.us/",
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+        "https://www.grohe.us/cdn/shop/t/182/assets/nimstrata.css?v=153396211462663727021789579213",
+        "https://www.grohe.us/cdn/shop/t/182/compiled_assets/styles.css?v=90755379158955959591789673040"
+      ]
+    },
+    "#272727": {
+      "count": 34,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#b0b0b0": {
+      "count": 30,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+        "https://www.grohe.us/cdn/shop/t/182/assets/nimstrata.css?v=153396211462663727021789579213"
+      ]
+    },
+    "#1c1f2a": {
+      "count": 25,
+      "sources": [
+        "https://www.grohe.us/",
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+      ]
+    },
+    "#d1ccbd": {
+      "count": 23,
+      "sources": [
+        "https://www.grohe.us/",
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+        "https://www.grohe.us/cdn/shop/t/182/compiled_assets/styles.css?v=90755379158955959591789673040"
+      ]
+    },
+    "#000000cc": {
+      "count": 17,
+      "sources": [
+        "https://www.grohe.us/",
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+      ]
+    },
+    "#0000004d": {
+      "count": 17,
+      "sources": [
+        "https://www.grohe.us/",
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+      ]
+    },
+    "#00000080": {
+      "count": 16,
+      "sources": [
+        "https://www.grohe.us/",
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+        "https://www.grohe.us/cdn/shop/t/182/compiled_assets/styles.css?v=90755379158955959591789673040",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#1c1c1e": {
+      "count": 16,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+        "https://www.grohe.us/cdn/shop/t/182/assets/nimstrata.css?v=153396211462663727021789579213"
+      ]
+    },
+    "#0000000d": {
+      "count": 14,
+      "sources": [
+        "https://www.grohe.us/",
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+        "https://www.grohe.us/cdn/shop/t/182/assets/nimstrata.css?v=153396211462663727021789579213",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#3984be": {
+      "count": 14,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+        "https://www.grohe.us/cdn/shop/t/182/assets/nimstrata.css?v=153396211462663727021789579213"
+      ]
+    },
+    "#00000099": {
+      "count": 13,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+        "https://www.grohe.us/cdn/shop/t/182/compiled_assets/styles.css?v=90755379158955959591789673040"
+      ]
+    },
+    "#ffffff80": {
+      "count": 12,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+      ]
+    },
+    "#48cbff": {
+      "count": 12,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+      ]
+    },
+    "#6b7280": {
+      "count": 10,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#111827": {
+      "count": 10,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+        "https://www.grohe.us/cdn/shop/t/182/assets/nimstrata.css?v=153396211462663727021789579213",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#b1b7c3": {
+      "count": 10,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#d1d1d1": {
+      "count": 9,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+        "https://www.grohe.us/cdn/shop/t/182/assets/nimstrata.css?v=153396211462663727021789579213"
+      ]
+    },
+    "#999ea8": {
+      "count": 8,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#e6f7f4": {
+      "count": 8,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#1c1f2a80": {
+      "count": 7,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+      ]
+    },
+    "#a9a9ae": {
+      "count": 7,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+        "https://www.grohe.us/cdn/shop/t/182/assets/nimstrata.css?v=153396211462663727021789579213"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 7,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#ea0202": {
+      "count": 7,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#121f36": {
+      "count": 7,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#1c1f2a4d": {
+      "count": 6,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+      ]
+    },
+    "#00000066": {
+      "count": 6,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+      ]
+    },
+    "#d1ccbd80": {
+      "count": 6,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 6,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+        "https://www.grohe.us/cdn/shop/t/182/assets/nimstrata.css?v=153396211462663727021789579213"
+      ]
+    },
+    "#2563eb": {
+      "count": 6,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+      ]
+    },
+    "#d1d5db": {
+      "count": 6,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#6b6b72": {
+      "count": 6,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+      ]
+    },
+    "#22973f": {
+      "count": 6,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+      ]
+    },
+    "#222222": {
+      "count": 6,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+        "https://www.grohe.us/cdn/shop/t/182/assets/nimstrata.css?v=153396211462663727021789579213"
+      ]
+    },
+    "#5d5d5d": {
+      "count": 6,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+        "https://www.grohe.us/cdn/shop/t/182/assets/nimstrata.css?v=153396211462663727021789579213"
+      ]
+    },
+    "#ffffffcc": {
+      "count": 5,
+      "sources": [
+        "https://www.grohe.us/",
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+      ]
+    },
+    "#165788": {
+      "count": 5,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+      ]
+    },
+    "#9ca3af": {
+      "count": 5,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+      ]
+    },
+    "#374151": {
+      "count": 5,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#0f2037": {
+      "count": 5,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+      ]
+    },
+    "#0000001a": {
+      "count": 5,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+        "https://www.grohe.us/cdn/shop/t/182/assets/nimstrata.css?v=153396211462663727021789579213",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#e7e7e7": {
+      "count": 5,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+        "https://www.grohe.us/cdn/shop/t/182/assets/nimstrata.css?v=153396211462663727021789579213"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 5,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+      ]
+    },
+    "#888888": {
+      "count": 5,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 5,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/nimstrata.css?v=153396211462663727021789579213",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#f4f8fe": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#eaeaea": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#ffffff4d": {
+      "count": 4,
+      "sources": [
+        "https://www.grohe.us/",
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+      ]
+    },
+    "#111111": {
+      "count": 4,
+      "sources": [
+        "https://www.grohe.us/"
+      ]
+    },
+    "#293142": {
+      "count": 4,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+      ]
+    },
+    "#1a2233": {
+      "count": 4,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+      ]
+    },
+    "#ffffff33": {
+      "count": 4,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+      ]
+    },
+    "#6d6d6d": {
+      "count": 4,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+        "https://www.grohe.us/cdn/shop/t/182/assets/nimstrata.css?v=153396211462663727021789579213"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 4,
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#171722": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#333333": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+    ],
+    "Apple Color Emoji": [
+      "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+    ],
+    "Arial": [
+      "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+    ],
+    "BlinkMacSystemFont": [
+      "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+    ],
+    "Consolas": [
+      "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+    ],
+    "Courier New": [
+      "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+    ],
+    "Helvetica Neue": [
+      "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+    ],
+    "Lato": [
+      "https://www.grohe.us/"
+    ],
+    "Liberation Mono": [
+      "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+    ],
+    "Manrope": [
+      "https://www.grohe.us/"
+    ],
+    "Menlo": [
+      "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+    ],
+    "Monaco": [
+      "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+    ],
+    "Noto Color Emoji": [
+      "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+    ],
+    "Noto Sans": [
+      "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+    ],
+    "Old Standard TT": [
+      "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+    ],
+    "Roboto": [
+      "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+    ],
+    "SFMono-Regular": [
+      "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+    ],
+    "Segoe UI": [
+      "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+    ],
+    "Segoe UI Emoji": [
+      "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+    ],
+    "Segoe UI Symbol": [
+      "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+    ],
+    "Univers": [
+      "https://www.grohe.us/",
+      "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+      "https://www.grohe.us/cdn/shop/t/182/compiled_assets/styles.css?v=90755379158955959591789673040"
+    ],
+    "Univers Extended": [
+      "https://www.grohe.us/",
+      "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+    ],
+    "inherit!important": [
+      "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+    ],
+    "monospace": [
+      "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+    ],
+    "sans-serif": [
+      "https://www.grohe.us/",
+      "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+      "https://www.grohe.us/cdn/shop/t/182/compiled_assets/styles.css?v=90755379158955959591789673040"
+    ],
+    "sans-serif !important": [
+      "https://www.grohe.us/"
+    ],
+    "sans-serif!important": [
+      "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+    ],
+    "swiper-icons": [
+      "https://www.grohe.us/cdn/shop/t/182/assets/lib-swiper-bundle.min.css?v=127325684396148790271789579213"
+    ],
+    "system-ui": [
+      "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+    ],
+    "ui-monospace": [
+      "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+    ],
+    "ui-sans-serif": [
+      "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.grohe.us/",
+      "selector": ".submenu-header",
+      "declarations": "border-bottom: 1px solid var(--fg-opacities-black-05op, rgba(0, 0, 0, 0.05));\n        font-size: var(--font-size-base, 16px);\n        font-style: normal;\n        font-weight: 400;\n        line-height: 140%; \n        color: var(--button-primary-bg-default, #0F2B4B);"
+    },
+    {
+      "source": "https://www.grohe.us/",
+      "selector": ".template-index  .section-header-nav-animation > div:not(.is-scrolled-80) .header-text",
+      "declarations": "color: #FFFFFF !important;"
+    },
+    {
+      "source": "https://www.grohe.us/",
+      "selector": ".template-index .section-header-nav-animation > div.is-desktop-menu-open .header-text",
+      "declarations": "color: #000000 !important;"
+    },
+    {
+      "source": "https://www.grohe.us/",
+      "selector": ".template-index .section-header-nav-animation > .is-scrolled-80 .header-text",
+      "declarations": "color: #000000 !important;"
+    },
+    {
+      "source": "https://www.grohe.us/",
+      "selector": ".section-header-nav-animation > div.is-mobile-menu-open .header-text",
+      "declarations": "color: #000000 !important;"
+    },
+    {
+      "source": "https://www.grohe.us/",
+      "selector": ".section-header-nav-animation > div.is-desktop-menu-open .header-text",
+      "declarations": "color: #000000 !important;"
+    },
+    {
+      "source": "https://www.grohe.us/",
+      "selector": ".section-header-nav-animation [data-desktop-submenu-trigger].is-active",
+      "declarations": "color: inherit;"
+    },
+    {
+      "source": "https://www.grohe.us/",
+      "selector": ".header-mobile-submenu-footer-item",
+      "declarations": "display: flex;\n        align-items: center;\n        gap: 12px;\n        padding: 16px;\n        color: black;\n        font-style: normal;\n        font-size: var(--font-size-md, 16px);\n        font-weight: 400;\n        line-height: 160%;"
+    },
+    {
+      "source": "https://www.grohe.us/",
+      "selector": ".header-mobile-submenu-image-card",
+      "declarations": "display: flex;\n        flex-direction: column;\n        gap: 8px;\n        text-decoration: none;\n        color: inherit;\n        padding: 16px;\n        border-bottom: 1px solid var(--fg-opacities-black-05op, rgba(0, 0, 0, 0.05));"
+    },
+    {
+      "source": "https://www.grohe.us/",
+      "selector": ".header-desktop-submenu-heading",
+      "declarations": "padding: var(--gap-xs, 4px) var(--gap-sm, 8px);\n        margin-bottom: 16px;\n        font-size: var(--font-size-xs, 12px);\n        font-style: normal;\n        font-weight: 700;\n        line-height: 140%; \n        letter-spacing: var(--font-styles-eyebrow-letter-spacing, 1px);\n        text-transform: uppercase;\n        color: var(--fg-primary, #000);"
+    },
+    {
+      "source": "https://www.grohe.us/",
+      "selector": ".header-desktop-submenu-link",
+      "declarations": "display: flex;\n        justify-content: space-between;\n        align-items: center;\n        gap: 10px;\n        font-size: var(--font-size-sm, 14px);\n        font-style: normal;\n        font-weight: 400;\n        line-height: 140%; \n        color: var(--fg-primary, #000);\n        padding: 10px var(--gap-sm, 8px);\n        margin-bottom: 0;"
+    },
+    {
+      "source": "https://www.grohe.us/",
+      "selector": ".header-desktop-submenu-image-card",
+      "declarations": "display: flex;\n        flex-direction: column;\n        gap: 16px;\n        color: inherit;\n        text-decoration: none;\n        height: 100%;\n        padding: var(--spacing-margin, 40px) var(--spacing-col-gap, 32px);"
+    },
+    {
+      "source": "https://www.grohe.us/",
+      "selector": ".header-desktop-submenu-image-title",
+      "declarations": "font-size: var(--font-size-sm, 14px);\n        font-style: normal;\n        font-weight: 400;\n        line-height: 100%; \n        letter-spacing: 1px;\n        text-transform: uppercase;\n        color: var(--fg-primary, #000);\n        padding-bottom: 6px;\n        border-bottom: none;\n        width: max-content;\n        position: relative;"
+    },
+    {
+      "source": "https://www.grohe.us/",
+      "selector": ".header-desktop-submenu-modal a.border-b-2",
+      "declarations": "position: relative;\n        border-bottom-color: transparent !important;"
+    },
+    {
+      "source": "https://www.grohe.us/",
+      "selector": "#shopify-section-template--27872336052537__ugc_feed_JJDepk .ugc-feed.grohe .ugc-feed__header-content .ugc-feed__title",
+      "declarations": "font-family: 'Univers';\n    letter-spacing: 0;"
+    },
+    {
+      "source": "https://www.grohe.us/",
+      "selector": "#shopify-section-template--27872336052537__ugc_feed_JJDepk .ugc-feed.grohe-spa .ugc-feed__header-content .ugc-feed__title",
+      "declarations": "font-family: 'Univers Extended';\n    letter-spacing: 4px;"
+    },
+    {
+      "source": "https://www.grohe.us/",
+      "selector": "#shopify-section-template--27872336052537__ugc_feed_JJDepk .ugc-feed.grohe .ugc-feed__header-content .ugc-feed__description",
+      "declarations": "font-family: 'Univers';\n    letter-spacing: 0;"
+    },
+    {
+      "source": "https://www.grohe.us/",
+      "selector": "#shopify-section-template--27872336052537__ugc_feed_JJDepk .ugc-feed.grohe-spa .ugc-feed__header-content .ugc-feed__description",
+      "declarations": "font-family: 'Univers Extended';\n    letter-spacing: 0;"
+    },
+    {
+      "source": "https://www.grohe.us/",
+      "selector": "#shopify-section-template--27872336052537__ugc_feed_JJDepk .ugc-feed .ugc-feed__header-content .ugc-feed__description p",
+      "declarations": "color: rgba(0, 0, 0, 0.8);\n    font-size: 16px;\n    font-style: normal;\n    font-weight: 400;\n    line-height: 140%;"
+    },
+    {
+      "source": "https://www.grohe.us/",
+      "selector": "#shopify-section-template--27872336052537__ugc_feed_JJDepk .ugc-feed.grohe .ugc-feed__header-aside .ugc-feed__headline",
+      "declarations": "font-family: 'Univers';\n    letter-spacing: 0;"
+    },
+    {
+      "source": "https://www.grohe.us/",
+      "selector": "#shopify-section-template--27872336052537__ugc_feed_JJDepk .ugc-feed.grohe-spa .ugc-feed__header-aside .ugc-feed__headline",
+      "declarations": "font-family: 'Univers Extended';\n    letter-spacing: 4px;"
+    },
+    {
+      "source": "https://www.grohe.us/",
+      "selector": "#shopify-section-template--27872336052537__ugc_feed_JJDepk .ugc-feed.grohe .ugc-feed__header-aside .ugc-feed__inline-button",
+      "declarations": "font-family: 'Univers';\n    letter-spacing: 0;"
+    },
+    {
+      "source": "https://www.grohe.us/",
+      "selector": "#shopify-section-template--27872336052537__ugc_feed_JJDepk .ugc-feed.grohe-spa .ugc-feed__header-aside .ugc-feed__inline-button",
+      "declarations": "font-family: 'Univers Extended';\n    letter-spacing: 3px;"
+    },
+    {
+      "source": "https://www.grohe.us/",
+      "selector": "#shopify-section-template--27872336052537__ugc_feed_JJDepk .ugc-feed .ugc-feed__header-aside .ugc-feed__inline-button",
+      "declarations": "color: #000000;\n    text-box-trim: trim-both;\n    text-box-edge: cap alphabetic;\n    font-size: 14px;\n    font-style: normal;\n    font-weight: 400;\n    line-height: 100%;\n    text-transform: uppercase;\n    position: relative;\n    border-bottom: 0 !important;\n    padding-bottom: 6px;"
+    },
+    {
+      "source": "https://www.grohe.us/",
+      "selector": "#shopify-section-template--27872336052537__ugc_feed_JJDepk .ugc-feed.grohe .ugc-feed__footer .ugc-feed__button",
+      "declarations": "font-family: 'Univers';\n    letter-spacing: 0;"
+    },
+    {
+      "source": "https://www.grohe.us/",
+      "selector": "#shopify-section-template--27872336052537__ugc_feed_JJDepk .ugc-feed.grohe-spa .ugc-feed__footer .ugc-feed__button",
+      "declarations": "font-family: 'Univers Extended';\n    letter-spacing: 3px;"
+    },
+    {
+      "source": "https://www.grohe.us/",
+      "selector": "#shopify-section-template--27872336052537__ugc_feed_JJDepk .ugc-feed .ugc-feed__footer .ugc-feed__button",
+      "declarations": "padding: 16px 24px;\n    border-radius: 0;\n    border: 1px solid currentColor;\n    color: #000000;\n    text-box-trim: trim-both;\n    text-box-edge: cap alphabetic;\n    font-size: 16px;\n    font-style: normal;\n    font-weight: 400;\n    line-height: 100%;\n    text-transform: uppercase;\n    max-height: 48px;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    margin: 0 auto;\n    width: fit-content;"
+    },
+    {
+      "source": "https://www.grohe.us/",
+      "selector": "#get-the-look-template--27872336052537__get_the_look_products_LRJHgR",
+      "declarations": "--gtl-bg: #ffffff;\n    --gtl-text: #111111;\n    --gtl-muted: #5f6977;\n    --gtl-tab: #0f2b4b;\n    --gtl-tab-active: #111111;\n    --gtl-tab-border: rgba(0, 0, 0, 0.08);\n    --gtl-pagination: #9aa0a6;\n    --gtl-pagination-active: #111111;\n    --gtl-cta: #0f2b4b;\n    --gtl-card-text: #111111;\n    --gtl-card-muted: rgba(17, 17, 17, 0.6);"
+    },
+    {
+      "source": "https://www.grohe.us/",
+      "selector": "#get-the-look-template--27872336052537__get_the_look_products_LRJHgR.get-the-look-products--theme-ocean",
+      "declarations": "--gtl-bg: #0f3158;\n    --gtl-text: #f2f6fb;\n    --gtl-muted: #bed0e6;\n    --gtl-tab: #d3e1f3;\n    --gtl-tab-active: #ffffff;\n    --gtl-tab-border: rgba(255, 255, 255, 0.2);\n    --gtl-pagination: rgba(255, 255, 255, 0.45);\n    --gtl-pagination-active: #ffffff;\n    --gtl-cta: #d3e1f3;\n    --gtl-card-text: #eef4fb;\n    --gtl-card-muted: rgba(238, 244, 251, 0.62);"
+    },
+    {
+      "source": "https://www.grohe.us/",
+      "selector": "#get-the-look-template--27872336052537__get_the_look_products_LRJHgR.get-the-look-products--theme-night",
+      "declarations": "--gtl-bg: #1a1f2d;\n    --gtl-text: #d1ccbd;\n    --gtl-muted: #d1ccbd;\n    --gtl-tab: #d1ccbd;\n    --gtl-tab-active: #d1ccbd;\n    --gtl-tab-border: rgba(255, 255, 255, 0.18);\n    --gtl-pagination: #d1ccbd;\n    --gtl-pagination-active: #d1ccbd;\n    --gtl-cta: #d1ccbd;\n    --gtl-card-text: #d1ccbd;\n    --gtl-card-muted: #d1ccbd;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "GROHE",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grohe.us/",
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+        "https://www.grohe.us/cdn/shop/t/182/assets/nimstrata.css?v=153396211462663727021789579213",
+        "https://www.grohe.us/cdn/shop/t/182/compiled_assets/styles.css?v=90755379158955959591789673040"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grohe.us/",
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+        "https://www.grohe.us/cdn/shop/t/182/assets/lib-swiper-bundle.min.css?v=127325684396148790271789579213",
+        "https://www.grohe.us/cdn/shop/t/182/assets/nimstrata.css?v=153396211462663727021789579213",
+        "https://www.grohe.us/cdn/shop/t/182/compiled_assets/styles.css?v=90755379158955959591789673040",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grohe.us/",
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+        "https://www.grohe.us/cdn/shop/t/182/assets/lib-swiper-bundle.min.css?v=127325684396148790271789579213",
+        "https://www.grohe.us/cdn/shop/t/182/assets/nimstrata.css?v=153396211462663727021789579213",
+        "https://www.grohe.us/cdn/shop/t/182/compiled_assets/styles.css?v=90755379158955959591789673040",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grohe.us/",
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+        "https://www.grohe.us/cdn/shop/t/182/assets/nimstrata.css?v=153396211462663727021789579213",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grohe.us/",
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+        "https://www.grohe.us/cdn/shop/t/182/assets/lib-swiper-bundle.min.css?v=127325684396148790271789579213",
+        "https://www.grohe.us/cdn/shop/t/182/assets/nimstrata.css?v=153396211462663727021789579213",
+        "https://www.grohe.us/cdn/shop/t/182/compiled_assets/styles.css?v=90755379158955959591789673040",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grohe.us/",
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+        "https://www.grohe.us/cdn/shop/t/182/assets/lib-swiper-bundle.min.css?v=127325684396148790271789579213",
+        "https://www.grohe.us/cdn/shop/t/182/assets/nimstrata.css?v=153396211462663727021789579213",
+        "https://www.grohe.us/cdn/shop/t/182/compiled_assets/styles.css?v=90755379158955959591789673040",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+        "https://www.grohe.us/cdn/shop/t/182/assets/nimstrata.css?v=153396211462663727021789579213"
+      ]
+    },
+    "colors.accent-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+      ]
+    },
+    "colors.accent-bright": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+      ]
+    },
+    "colors.alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.border": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+        "https://www.grohe.us/cdn/shop/t/182/assets/nimstrata.css?v=153396211462663727021789579213"
+      ]
+    },
+    "colors.overlay": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grohe.us/",
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213",
+        "https://www.grohe.us/cdn/shop/t/182/compiled_assets/styles.css?v=90755379158955959591789673040",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.ink-secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grohe.us/",
+        "https://www.grohe.us/cdn/shop/t/182/assets/theme.css?v=129971642048365036881789579213"
+      ]
+    },
+    "colors.surface-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.finish-selector": {
+      "status": "inferred"
+    }
+  }
+}

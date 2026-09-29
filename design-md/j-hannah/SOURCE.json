@@ -1,0 +1,657 @@
+{
+  "source_url": "https://jhannahjewelry.com",
+  "final_url": "https://jhannahjewelry.com/",
+  "captured_at": "2026-09-29T04:01:18.720420+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://jhannahjewelry.com",
+      "final_url": "https://jhannahjewelry.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "d3c25e2d482d6f259a9104836200d4c4303eba8cf7fffba4f328aea0e4cec3f9",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://jhannahjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://jhannahjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css",
+      "final_url": "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9f1b16ce29987c8c048152ec7b215f38f1a7bf1fca0b83548f8673ca1d805e78",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-f812f92b.css",
+      "final_url": "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-f812f92b.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9926bbdb9160d91100c93a4e7ed9f9461af1413cfa2495b5cc0fb587dcdbb0d2",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 14,
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css",
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-f812f92b.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 10,
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css",
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-f812f92b.css"
+      ]
+    },
+    "#00000000": {
+      "count": 6,
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css"
+      ]
+    },
+    "#00000080": {
+      "count": 4,
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 2,
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css",
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-f812f92b.css"
+      ]
+    },
+    "#fdfdfd": {
+      "count": 2,
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css",
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-f812f92b.css"
+      ]
+    },
+    "#1a3d65": {
+      "count": 2,
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 2,
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css",
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-f812f92b.css"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#007aff": {
+      "count": 1,
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css"
+      ]
+    },
+    "#00000026": {
+      "count": 1,
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css"
+      ]
+    },
+    "#393624": {
+      "count": 1,
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css"
+      ]
+    },
+    "#a82323": {
+      "count": 1,
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 1,
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css"
+      ]
+    },
+    "#6e6e6e": {
+      "count": 1,
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css"
+      ]
+    },
+    "#424244": {
+      "count": 1,
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css"
+      ]
+    },
+    "#010101": {
+      "count": 1,
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css"
+      ]
+    },
+    "#fcfbf9": {
+      "count": 1,
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css"
+      ]
+    },
+    "#d0b9a0": {
+      "count": 1,
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css"
+      ]
+    },
+    "#f5f0e4": {
+      "count": 1,
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css"
+      ]
+    },
+    "#413622": {
+      "count": 1,
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 1,
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-f812f92b.css"
+      ]
+    },
+    "#00000047": {
+      "count": 1,
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-f812f92b.css"
+      ]
+    },
+    "#ff00001a": {
+      "count": 1,
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-f812f92b.css"
+      ]
+    },
+    "#111111": {
+      "count": 1,
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-f812f92b.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Allegro": [
+      "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css"
+    ],
+    "Arial": [
+      "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css",
+      "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-f812f92b.css"
+    ],
+    "Helvetica": [
+      "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css",
+      "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-f812f92b.css"
+    ],
+    "Helvetica Neue": [
+      "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css",
+      "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-f812f92b.css"
+    ],
+    "JH Gothic": [
+      "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css"
+    ],
+    "Times": [
+      "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-f812f92b.css"
+    ],
+    "Times New Roman": [
+      "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-f812f92b.css"
+    ],
+    "folio": [
+      "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css",
+      "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-f812f92b.css"
+    ],
+    "folio-book": [
+      "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css",
+      "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-f812f92b.css"
+    ],
+    "life-regular": [
+      "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css",
+      "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-f812f92b.css"
+    ],
+    "sans-serif": [
+      "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css",
+      "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-f812f92b.css"
+    ],
+    "serif": [
+      "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-f812f92b.css"
+    ],
+    "swiper-icons": [
+      "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://jhannahjewelry.com/",
+      "selector": "body[data-dsm-hide=\"true\"] .dsm-inquiry-button",
+      "declarations": "align-items: center;\n  border: 1px solid;\n  color: inherit;\n  display: flex;\n  height: 35px;\n  justify-content: center;\n  letter-spacing: .01em;\n  line-height: 100%;\n  padding: 1px 5px 0;\n  text-transform: uppercase;\n  transition: all .3s ease;\n  flex-grow: 1;\nwidth: calc(var(--column) * 4 - var(--gutter));\n  text-decoration: none;"
+    },
+    {
+      "source": "https://jhannahjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://jhannahjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://jhannahjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://jhannahjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://jhannahjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://jhannahjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css",
+      "selector": ":root",
+      "declarations": "--swiper-theme-color: #007aff"
+    },
+    {
+      "source": "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css",
+      "selector": ":root",
+      "declarations": "--swiper-navigation-size: 44px"
+    },
+    {
+      "source": "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css",
+      "selector": ".swiper-button-prev,.swiper-button-next",
+      "declarations": "position:absolute;top:var(--swiper-navigation-top-offset, 50%);width:calc(var(--swiper-navigation-size) / 44 * 27);height:var(--swiper-navigation-size);margin-top:calc(0px - (var(--swiper-navigation-size) / 2));z-index:10;cursor:pointer;display:flex;align-items:center;justify-content:center;color:var(--swiper-navigation-color, var(--swiper-theme-color))"
+    },
+    {
+      "source": "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css",
+      "selector": ".swiper-button-prev:after,.swiper-button-next:after",
+      "declarations": "font-family:swiper-icons;font-size:var(--swiper-navigation-size);text-transform:none!important;letter-spacing:0;font-variant:initial;line-height:1"
+    },
+    {
+      "source": "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css",
+      "selector": "button,button[type=submit]",
+      "declarations": "color:currentColor;border-color:inherit;text-transform:inherit;all:unset"
+    },
+    {
+      "source": "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css",
+      "selector": "button,input[type=button],input[type=reset],input[type=submit]",
+      "declarations": "cursor:pointer;-webkit-appearance:button;font-family:inherit"
+    },
+    {
+      "source": "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css",
+      "selector": ":root",
+      "declarations": "--1vh: 1vh;--100vh:: 100vh;--color-primary: rgba(65, 54, 34, 1);--color-secondary: #393624;--color-background: white;--font-bullet: \"\\2022\";--space-xs: 10px;--space-m: 100px;--space-l: 200px;--transition-fade-in: opacity .6s ease;--wrap: 1520px;--inset: 16px;--gutter: 16px;--columns: 24;--column: calc(((1 / var(--columns)) * (100vw - (var(--inset) * 2))));--index-section-spacing: 110px;--page-section-spacing: 280px;--product-section-spacing: 180px;--product-asset-height-percentage: 133.33%;--product-option-spacing: 20px;--product-button-gap: 10px;--transition-opacity: opacity .15s ease-out;--transition-intersection: opacity .45s ease-in;--filter-blur: blur(5px);--superscript-offset: 10px;--p"
+    },
+    {
+      "source": "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css",
+      "selector": ":root",
+      "declarations": "--breakpoint: \"xxl\""
+    },
+    {
+      "source": "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css",
+      "selector": ":root",
+      "declarations": "--breakpoint: \"xl\""
+    },
+    {
+      "source": "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css",
+      "selector": ":root",
+      "declarations": "--breakpoint: \"l\";--inset: 20px;--page-section-spacing: 140px;--product-section-spacing: 120px;--product-inset-left: var(--inset);--product-inset-right: var(--inset);--pop-up-offset: 20px;--columns: 8"
+    },
+    {
+      "source": "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css",
+      "selector": ":root",
+      "declarations": "--breakpoint: \"m\""
+    },
+    {
+      "source": "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css",
+      "selector": ":root",
+      "declarations": "--breakpoint: \"s\""
+    },
+    {
+      "source": "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css",
+      "selector": ":root",
+      "declarations": "--breakpoint: \"xs\""
+    },
+    {
+      "source": "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css",
+      "selector": ":root",
+      "declarations": "--breakpoint: \"xxs\""
+    },
+    {
+      "source": "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css",
+      "selector": ":root",
+      "declarations": "--breakpoint: \"xxxs\""
+    },
+    {
+      "source": "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css",
+      "selector": "body",
+      "declarations": "font-family:folio-book,Helvetica Neue,Helvetica,Arial,sans-serif;letter-spacing:0;margin:0;padding:0;font-weight:400;word-wrap:break-word;font-size:var(--font-xs);line-height:var(--font-lh-xs);letter-spacing:.02em;overflow-x:hidden;color:var(--color-dark);border-color:var(--color-dark);background:var(--color-background)"
+    },
+    {
+      "source": "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-f812f92b.css",
+      "selector": ".product-card-hallmark__text",
+      "declarations": "font-size:var(--font-xs);line-height:var(--font-lh-xs);letter-spacing:.02em;padding-top:1.5px;opacity:0;transition:opacity .15s ease;white-space:nowrap;color:var(--color-light)"
+    },
+    {
+      "source": "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-f812f92b.css",
+      "selector": ".product-card[data-v-a806acf7]",
+      "declarations": "--caption-height:32px;transition:var(--transition-intersection);position:relative;display:flex"
+    },
+    {
+      "source": "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-f812f92b.css",
+      "selector": ".tab-feature-button",
+      "declarations": "font-family:folio,Helvetica Neue,Helvetica,Arial,sans-serif;font-weight:400;font-size:12px;line-height:1.45;letter-spacing:.04em;text-transform:uppercase;position:relative;display:flex;justify-content:center;align-items:center;padding:5px 10px 4px;line-height:1;transition:color .15s ease-out"
+    },
+    {
+      "source": "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-f812f92b.css",
+      "selector": ".tab-feature-button--active .tab-feature-button__background",
+      "declarations": "border-bottom-color:var(--color-background)"
+    },
+    {
+      "source": "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-f812f92b.css",
+      "selector": ".pill-button[data-v-f71fe2ac]",
+      "declarations": "--touch-buffer: 10px;padding:var(--touch-buffer);margin:calc(-1 * var(--touch-buffer))"
+    },
+    {
+      "source": "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-f812f92b.css",
+      "selector": ".product-engraving-heading[data-v-dc3a9286]",
+      "declarations": "--input-spacing-y: 10px;align-items:baseline;line-height:1"
+    },
+    {
+      "source": "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-f812f92b.css",
+      "selector": ".product-engraving-heading__button[data-v-dc3a9286]",
+      "declarations": "position:relative;cursor:pointer;color:var(--color-muted);line-height:1"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "J. Hannah Fine Jewelry | Los Angeles, CA | J.Hannah Jewelry",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css"
+      ]
+    },
+    "colors.secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css",
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-f812f92b.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-f812f92b.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css",
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-f812f92b.css"
+      ]
+    },
+    "colors.accent-cta": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-cta-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css"
+      ]
+    },
+    "colors.overlay": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shop/t/184/assets/theme-cad57ac7.css"
+      ]
+    },
+    "colors.skeleton": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://jhannahjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.button-cta-checkout": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.product-media-gallery": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    }
+  }
+}

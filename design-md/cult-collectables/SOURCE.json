@@ -1,0 +1,847 @@
+{
+  "source_url": "https://cultcollectables.com",
+  "final_url": "https://cultcollectables.com/",
+  "captured_at": "2026-09-28T04:13:21.697028+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://cultcollectables.com",
+      "final_url": "https://cultcollectables.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "38b2487c55708df12c265805f7303856dc5bfa037d8c943e8de770ec451c9c78",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://cultcollectables.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://cultcollectables.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://cultcollectables.com/cdn/shop/t/25/assets/theme.css?v=57739726778843648991780351915",
+      "final_url": "https://cultcollectables.com/cdn/shop/t/25/assets/theme.css?v=57739726778843648991780351915",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b6a7245fdac02c1daf57848da0d9417de0a4eb6b722b583f6113006881830f7b",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "be10bc4b16346e787891f1da5de658505019fcd30172651891a4bf550c948e36",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 51,
+      "sources": [
+        "https://cultcollectables.com/",
+        "https://cultcollectables.com/cdn/shop/t/25/assets/theme.css?v=57739726778843648991780351915",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 46,
+      "sources": [
+        "https://cultcollectables.com/",
+        "https://cultcollectables.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cultcollectables.com/cdn/shop/t/25/assets/theme.css?v=57739726778843648991780351915",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 32,
+      "sources": [
+        "https://cultcollectables.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 12,
+      "sources": [
+        "https://cultcollectables.com/cdn/shop/t/25/assets/theme.css?v=57739726778843648991780351915"
+      ]
+    },
+    "#00000000": {
+      "count": 11,
+      "sources": [
+        "https://cultcollectables.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cultcollectables.com/cdn/shop/t/25/assets/theme.css?v=57739726778843648991780351915"
+      ]
+    },
+    "#dddddd": {
+      "count": 9,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 8,
+      "sources": [
+        "https://cultcollectables.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#333333": {
+      "count": 7,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#555555": {
+      "count": 6,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#00000033": {
+      "count": 5,
+      "sources": [
+        "https://cultcollectables.com/cdn/shop/t/25/assets/theme.css?v=57739726778843648991780351915"
+      ]
+    },
+    "#666666": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#070707": {
+      "count": 4,
+      "sources": [
+        "https://cultcollectables.com/"
+      ]
+    },
+    "#0000004d": {
+      "count": 4,
+      "sources": [
+        "https://cultcollectables.com/cdn/shop/t/25/assets/theme.css?v=57739726778843648991780351915"
+      ]
+    },
+    "#0000001f": {
+      "count": 3,
+      "sources": [
+        "https://cultcollectables.com/cdn/shop/t/25/assets/theme.css?v=57739726778843648991780351915"
+      ]
+    },
+    "#108474": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#8a9297": {
+      "count": 2,
+      "sources": [
+        "https://cultcollectables.com/"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 2,
+      "sources": [
+        "https://cultcollectables.com/"
+      ]
+    },
+    "#ff0000": {
+      "count": 2,
+      "sources": [
+        "https://cultcollectables.com/"
+      ]
+    },
+    "#c0c0c0": {
+      "count": 2,
+      "sources": [
+        "https://cultcollectables.com/"
+      ]
+    },
+    "#ee0000": {
+      "count": 2,
+      "sources": [
+        "https://cultcollectables.com/"
+      ]
+    },
+    "#008a00": {
+      "count": 2,
+      "sources": [
+        "https://cultcollectables.com/"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://cultcollectables.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#696969": {
+      "count": 2,
+      "sources": [
+        "https://cultcollectables.com/cdn/shop/t/25/assets/theme.css?v=57739726778843648991780351915"
+      ]
+    },
+    "#a9a9a9": {
+      "count": 2,
+      "sources": [
+        "https://cultcollectables.com/cdn/shop/t/25/assets/theme.css?v=57739726778843648991780351915"
+      ]
+    },
+    "#4a4a4a": {
+      "count": 2,
+      "sources": [
+        "https://cultcollectables.com/cdn/shop/t/25/assets/theme.css?v=57739726778843648991780351915"
+      ]
+    },
+    "#3b5998": {
+      "count": 2,
+      "sources": [
+        "https://cultcollectables.com/cdn/shop/t/25/assets/theme.css?v=57739726778843648991780351915",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#1da1f2": {
+      "count": 2,
+      "sources": [
+        "https://cultcollectables.com/cdn/shop/t/25/assets/theme.css?v=57739726778843648991780351915",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#fbcd0a": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#a89cc8": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#c1e6e6": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#7c858b": {
+      "count": 1,
+      "sources": [
+        "https://cultcollectables.com/"
+      ]
+    },
+    "#00aa00": {
+      "count": 1,
+      "sources": [
+        "https://cultcollectables.com/"
+      ]
+    },
+    "#6a6a6a": {
+      "count": 1,
+      "sources": [
+        "https://cultcollectables.com/"
+      ]
+    },
+    "#585f63": {
+      "count": 1,
+      "sources": [
+        "https://cultcollectables.com/"
+      ]
+    },
+    "#00a500": {
+      "count": 1,
+      "sources": [
+        "https://cultcollectables.com/"
+      ]
+    },
+    "#ffbd00": {
+      "count": 1,
+      "sources": [
+        "https://cultcollectables.com/"
+      ]
+    },
+    "#7b7b7b": {
+      "count": 1,
+      "sources": [
+        "https://cultcollectables.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://cultcollectables.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://cultcollectables.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://cultcollectables.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://cultcollectables.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://cultcollectables.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://cultcollectables.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://cultcollectables.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://cultcollectables.com/"
+      ]
+    },
+    "#c70e12": {
+      "count": 1,
+      "sources": [
+        "https://cultcollectables.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://cultcollectables.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://cultcollectables.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://cultcollectables.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#212121": {
+      "count": 1,
+      "sources": [
+        "https://cultcollectables.com/cdn/shop/t/25/assets/theme.css?v=57739726778843648991780351915"
+      ]
+    },
+    "#0000000f": {
+      "count": 1,
+      "sources": [
+        "https://cultcollectables.com/cdn/shop/t/25/assets/theme.css?v=57739726778843648991780351915"
+      ]
+    },
+    "#00000066": {
+      "count": 1,
+      "sources": [
+        "https://cultcollectables.com/cdn/shop/t/25/assets/theme.css?v=57739726778843648991780351915"
+      ]
+    },
+    "#00000080": {
+      "count": 1,
+      "sources": [
+        "https://cultcollectables.com/cdn/shop/t/25/assets/theme.css?v=57739726778843648991780351915"
+      ]
+    },
+    "#bd081c": {
+      "count": 1,
+      "sources": [
+        "https://cultcollectables.com/cdn/shop/t/25/assets/theme.css?v=57739726778843648991780351915"
+      ]
+    },
+    "#d83776": {
+      "count": 1,
+      "sources": [
+        "https://cultcollectables.com/cdn/shop/t/25/assets/theme.css?v=57739726778843648991780351915"
+      ]
+    },
+    "#fd355a": {
+      "count": 1,
+      "sources": [
+        "https://cultcollectables.com/cdn/shop/t/25/assets/theme.css?v=57739726778843648991780351915"
+      ]
+    },
+    "#1ab7ea": {
+      "count": 1,
+      "sources": [
+        "https://cultcollectables.com/cdn/shop/t/25/assets/theme.css?v=57739726778843648991780351915"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://cultcollectables.com/",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Baskerville": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Helvetica": [
+      "https://cultcollectables.com/",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons\" !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons' !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeStar": [
+      "https://cultcollectables.com/"
+    ],
+    "JudgemeStar' !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Nunito Sans": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "monospace": [
+      "https://cultcollectables.com/cdn/shop/t/25/assets/theme.css?v=57739726778843648991780351915",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "object-fit: cover": [
+      "https://cultcollectables.com/cdn/shop/t/25/assets/theme.css?v=57739726778843648991780351915"
+    ],
+    "sans-serif": [
+      "https://cultcollectables.com/",
+      "https://cultcollectables.com/cdn/shop/t/25/assets/theme.css?v=57739726778843648991780351915",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://cultcollectables.com/",
+      "selector": ":root",
+      "declarations": "--shopify-chat-bg-color: #FFFFFF;\n    --shopify-chat-text-color: #000000;\n    --shopify-chat-accent-bg-color: #000000;\n    --shopify-chat-accent-text-color: #FFFFFF;\n    --shopify-chat-activator-offset: 20px;\n\n    \n\n    --shopify-chat-activator-font-size: 16px;\n    --shopify-chat-border-radius: 16px;"
+    },
+    {
+      "source": "https://cultcollectables.com/",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #000;--jdgm-secondary-color: rgba(0,0,0,0.1);--jdgm-star-color: #000;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #000000;--jdgm-paginate-color: #000;--jdgm-border-radius: 0;--jdgm-reviewer-name-color: #000000"
+    },
+    {
+      "source": "https://cultcollectables.com/",
+      "selector": "max-width: 140px\n\n  :root",
+      "declarations": "--header-is-sticky: 1;\n    --header-inline-navigation: 1;"
+    },
+    {
+      "source": "https://cultcollectables.com/",
+      "selector": "#shopify-section-sections--25527604707707__header .header__search-bar-wrapper.is-fixed",
+      "declarations": "color: black;"
+    },
+    {
+      "source": "https://cultcollectables.com/",
+      "selector": "#shopify-section-sections--25527604707707__header .search-bar__inner",
+      "declarations": "color: black;"
+    },
+    {
+      "source": "https://cultcollectables.com/",
+      "selector": "#shopify-section-sections--25527604707707__header .search-bar__results",
+      "declarations": "color: black;"
+    },
+    {
+      "source": "https://cultcollectables.com/",
+      "selector": "#shopify-section-sections--25527604707707__header .search-bar__filter-label",
+      "declarations": "color: black;"
+    },
+    {
+      "source": "https://cultcollectables.com/",
+      "selector": "#shopify-section-sections--25527604707707__header .search-bar__filter-label, #shopify-section-sections--25527604707707__header .search-bar__filter-label span",
+      "declarations": "color: black;"
+    },
+    {
+      "source": "https://cultcollectables.com/",
+      "selector": "#shopify-section-sections--25527604707707__header .search-bar__filter select",
+      "declarations": "color: black;"
+    },
+    {
+      "source": "https://cultcollectables.com/",
+      "selector": "#shopify-section-sections--25527604707707__header .search-bar__filter select option",
+      "declarations": "color: black;"
+    },
+    {
+      "source": "https://cultcollectables.com/",
+      "selector": "#block-slide-1 .button",
+      "declarations": "color: #000000;\n              background: #ffffff;"
+    },
+    {
+      "source": "https://cultcollectables.com/",
+      "selector": "ton[aria-haspopup=\"true\"],\n#shopify-section-sections--25527604707707__header .header__inline-menu button[aria-expanded],\n#shopify-section-sections--255276047077",
+      "declarations": "color: #ffffff !important;"
+    },
+    {
+      "source": "https://cultcollectables.com/",
+      "selector": "ria-expanded] *,\n#shopify-section-sections--25527604707707__header nav:not(.header__icons) [data-disclosure-toggle] *,\n#shopify-section-sections--25527604707707",
+      "declarations": "color: #ffffff !important;"
+    },
+    {
+      "source": "https://cultcollectables.com/",
+      "selector": "-sections--25527604707707__header [role=\"menuitem\"] a:not([href*=\"cart\"]):not([class*=\"cart\"]),\n#shopify-section-sections--25527604707707__header nav:not(.heade",
+      "declarations": "color: #ffffff !important;"
+    },
+    {
+      "source": "https://cultcollectables.com/",
+      "selector": "ctions--25527604707707__header .site-nav a:not([href*=\"cart\"]):not([class*=\"cart\"]) *,\n#shopify-section-sections--25527604707707__header [role=\"menuitem\"] a:not",
+      "declarations": "color: #ffffff !important;"
+    },
+    {
+      "source": "https://cultcollectables.com/",
+      "selector": "_item,\n#shopify-section-sections--25527604707707__header nav:not(.header__icons) > ul > li > a,\n#shopify-section-sections--25527604707707__header nav:not(.heade",
+      "declarations": "color: #ffffff !important;"
+    },
+    {
+      "source": "https://cultcollectables.com/",
+      "selector": "button.product-item__action-button.button.button--small.button--primary,\nbutton.product-item__action-button.button.button--small.button--primary *,\nbutton.produ",
+      "declarations": "color: #000000 !important;\n  -webkit-text-fill-color: #000000 !important;"
+    },
+    {
+      "source": "https://cultcollectables.com/",
+      "selector": ".product-item__action-button.button--primary",
+      "declarations": "color:#fff !important"
+    },
+    {
+      "source": "https://cultcollectables.com/",
+      "selector": "ck-add-modal form button,\n#shopify-section-template--25527604052347__featured-collection .quick-add form button,\n#shopify-section-template--25527604052347__feat",
+      "declarations": "color: #000000 !important;\n  -webkit-text-fill-color: #000000 !important;"
+    },
+    {
+      "source": "https://cultcollectables.com/",
+      "selector": "d-to-basket,\n#shopify-section-template--25527604052347__featured-collection product-form button[type=\"submit\"],\n#shopify-section-template--25527604052347__featu",
+      "declarations": "color: #000000 !important;\n  -webkit-text-fill-color: #000000 !important;"
+    },
+    {
+      "source": "https://cultcollectables.com/",
+      "selector": "ick-add button *,\n#shopify-section-template--25527604052347__featured-collection .quick-add__submit *,\n#shopify-section-template--25527604052347__featured-colle",
+      "declarations": "color: #000000 !important;\n  -webkit-text-fill-color: #000000 !important;"
+    },
+    {
+      "source": "https://cultcollectables.com/",
+      "selector": "d\"],\n#shopify-section-template--25527604052347__featured-collection .card-wrapper .quick-add__submit,\n#shopify-section-template--25527604052347__featured-collec",
+      "declarations": "color: #000000 !important;"
+    },
+    {
+      "source": "https://cultcollectables.com/",
+      "selector": "#shopify-section-template--25527604052347__featured-collection .card-wrapper .quick-add__submit *,\n#shopify-section-template--25527604052347__featured-collectio",
+      "declarations": "color: #000000 !important;"
+    },
+    {
+      "source": "https://cultcollectables.com/",
+      "selector": ".mobile-menu__nav-link,.mobile-menu__nav-list-toggle,.mobile-menu__back-button,.mobile-menu__section-title",
+      "declarations": "color: #fff !important;"
+    },
+    {
+      "source": "https://cultcollectables.com/",
+      "selector": ".product-item__title",
+      "declarations": "color: #000;"
+    },
+    {
+      "source": "https://cultcollectables.com/",
+      "selector": ".product-item__price",
+      "declarations": "color: #000;"
+    },
+    {
+      "source": "https://cultcollectables.com/",
+      "selector": ".product-item__action-button",
+      "declarations": "color: #fff !important;"
+    },
+    {
+      "source": "https://cultcollectables.com/",
+      "selector": ".quantity-selector,.quantity-selector__button,.mini-cart__quantity-remove",
+      "declarations": "color: #000;"
+    },
+    {
+      "source": "https://cultcollectables.com/",
+      "selector": "button.product-item__action-button",
+      "declarations": "color:#070707 !important"
+    },
+    {
+      "source": "https://cultcollectables.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Funko Pop - Import, Rare Grail & Exclusive Cult Collectables",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cultcollectables.com/",
+        "https://cultcollectables.com/cdn/shop/t/25/assets/theme.css?v=57739726778843648991780351915",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cultcollectables.com/",
+        "https://cultcollectables.com/cdn/shop/t/25/assets/theme.css?v=57739726778843648991780351915",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cultcollectables.com/",
+        "https://cultcollectables.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cultcollectables.com/cdn/shop/t/25/assets/theme.css?v=57739726778843648991780351915",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cultcollectables.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cultcollectables.com/",
+        "https://cultcollectables.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cultcollectables.com/cdn/shop/t/25/assets/theme.css?v=57739726778843648991780351915",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cultcollectables.com/",
+        "https://cultcollectables.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cultcollectables.com/cdn/shop/t/25/assets/theme.css?v=57739726778843648991780351915",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.border-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cultcollectables.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.border-mid": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cultcollectables.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.overlay": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cultcollectables.com/cdn/shop/t/25/assets/theme.css?v=57739726778843648991780351915"
+      ]
+    },
+    "colors.accent-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cultcollectables.com/"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cultcollectables.com/"
+      ]
+    },
+    "colors.badge-yellow": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search-bar": {
+      "status": "inferred"
+    }
+  }
+}

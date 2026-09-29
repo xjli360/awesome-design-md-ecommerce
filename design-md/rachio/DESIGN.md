@@ -1,9 +1,13 @@
 ---
 version: alpha
-name: Rachio
-description: Electric sky-water blue (#21a8ff) placed directly against a near-black teal void (#00202c) — that single pairing carries the brand's core argument before a word is read: smart irrigation is data, not gardening. Rachio's primary typeface is Figtree, a geometric sans with softened terminals that reads simultaneously as approachable consumer product and credible hardware interface; at weight 700 it anchors display headlines without going severe, and at 400 it handles long-form feature copy without fatigue. The palette is unusually broad for a consumer hardware brand — thirty extracted colors moving from the electric primary through two greens (#45c371 garden-fresh, #2b5232 deep-forest), a full register of earth tones (#dfad72 amber, #c76928 rust, #d1bbb0 warm sand), and several blue-grays (#334d5a, #b4c3c9, #6e94b1) that shift with surface depth. Rather than fight this breadth the system organizes it as biomes: water-blue (#21a8ff) governs all interactive states, greens carry lawn-health and savings metrics, earth tones ground outdoor photography and seasonal context badges.
+name: "Rachio"
+source_url: "https://www.rachio.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Electric sky-water blue (#21a8ff) placed directly against a near-black teal void (#00202c) — that single pairing carries the brand's core argument before a word is read: smart irrigation is data, not gardening. Rachio's primary typeface is Figtree, a geometric sans with softened terminals that reads simultaneously as approachable consumer product and credible hardware interface; at weight 700 it anchors display headlines without going severe, and at 400 it handles long-form feature copy without fatigue. The palette is unusually broad for a consumer hardware brand — thirty extracted colors moving from the electric primary through two greens (#45c371 garden-fresh, #2b5232 deep-forest), a full register of earth tones (#dfad72 amber, #c76928 rust, #d1bbb0 warm sand), and several blue-grays (#334d5a, #b4c3c9, #6e94b1) that shift with surface depth. Rather than fight this breadth the system organizes it as biomes: water-blue (#21a8ff) governs all interactive states, greens carry lawn-health and savings metrics, earth tones ground outdoor photography and seasonal context badges.
 
-Card corners land at `{rounded.md}` (12px) — soft enough to read as consumer product without losing the precision a connected hardware device demands. Buttons use `{rounded.sm}` (8px), not pill-shaped and not rectangular, occupying the middle zone between smart-home warmth and tech authority. The primary CTA in #21a8ff hits loud against dark-canvas hero sections built on #00202c, a water-on-night-sky contrast that is literal and brand-appropriate at once. Navigation stays low in visual mass: a white bar with muted gray labels and a single high-contrast action. Product cards clip device photography against clean white canvas, letting industrial design breathe. Zone and schedule status chips use the green palette (#45c371, #8ea153) — green means active, on-schedule, thriving — while alert and warning states pull from the amber-rust register (#dfad72, #c76928). The result is a smart-home interface that knows it lives outdoors, where the lawn is the product's live performance dashboard.
+  Card corners land at `{rounded.md}` (12px) — soft enough to read as consumer product without losing the precision a connected hardware device demands. Buttons use `{rounded.sm}` (8px), not pill-shaped and not rectangular, occupying the middle zone between smart-home warmth and tech authority. The primary CTA in #21a8ff hits loud against dark-canvas hero sections built on #00202c, a water-on-night-sky contrast that is literal and brand-appropriate at once. Navigation stays low in visual mass: a white bar with muted gray labels and a single high-contrast action. Product cards clip device photography against clean white canvas, letting industrial design breathe. Zone and schedule status chips use the green palette (#45c371, #8ea153) — green means active, on-schedule, thriving — while alert and warning states pull from the amber-rust register (#dfad72, #c76928). The result is a smart-home interface that knows it lives outdoors, where the lawn is the product's live performance dashboard.
 
 colors:
   primary: "#21a8ff"
@@ -359,6 +363,8 @@ components:
 - Zone chip rows: horizontal scroll container on mobile rather than wrapping to multi-row
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No meta theme-color extracted; mobile browser chrome color is unverified — defaulting to `surface-dark` (#00202c) as the likely candidate
 - Exact nav height and scroll-sticky behavior could not be confirmed from static extraction; 64px is an estimate

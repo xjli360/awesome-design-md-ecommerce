@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Sakura of America
-description: |
+name: "Sakura of America"
+source_url: "https://www.sakuraofamerica.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Pigma Micron pens leave a very particular mark — a deep, slightly maritime teal sitting somewhere between inkwell and tide pool, and that same hue, #226d7a, anchors every primary action on Sakura of America's site, from add-to-cart buttons to nav hover states. The palette barely strays from this teal family: a near-identical sibling (#1e6d7a) handles pressed states, a charged cyan volt (#22b8d1) fires only on hover highlights and accent stripes, and at the far end a powder wash (#e4f5fa) lifts section backgrounds off white — giving the catalog a watercolor-paper lightness appropriate for a brand whose product line spans Cray-Pas oil pastels, Gelly Roll gel pens, and archival Micron inks in sixty-plus colors.
 
   Typography leans on Open Sans at a catalog-appropriate scale: display headings run at 32px/700 while button labels and nav links stay at 14–15px/600, letting broad product grids speak louder than typographic drama. Corner rounding is spare and intentional — product cards at {rounded.sm}, buttons at {rounded.xs}, category filters at {rounded.full} — echoing the rectilinear geometry of pen barrels, ink bottles, and pastel sticks. The {colors.surface-soft} wash (#e4f5fa) recurs throughout the layout as chip backgrounds, spec-table alternating rows, and promo banner fills, tying every secondary surface back to the single teal brand voltage without introducing an unrelated neutral. Grid density is high: six product columns on desktop with tight {spacing.sm} gutters, designed for buyers who already know whether they need a 0.1mm or 0.5mm Micron nib and expect the catalog to let them find it fast.
@@ -337,6 +340,8 @@ components:
 - Promo banner wraps to two lines on mobile rather than truncating copy
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Dark neutral palette (ink, body, muted) was not present in extracted colors — values (#1f2324, #3c3c3c, #717171) are contrast-safe defaults that should be verified against the live site once accessible
 - Font extraction returned only generic stacks (Arial, Open Sans, Roboto); no brand-specific or licensed display typeface was identified — DESIGN.md assumes Open Sans as primary; confirm whether a custom web font loads via JavaScript on the live site

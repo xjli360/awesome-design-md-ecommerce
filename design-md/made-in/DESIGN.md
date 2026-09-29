@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Made In
-description: Made In is a direct-to-consumer cookware brand that speaks to the professional home cook with a palette that balances rugged utility and restrained elegance. The brand’s core identity is anchored in a deep, almost black olive green (`#20211a`) that reads as ink across most text and structural elements, while a warm off-white canvas (`#f5f6f2`) provides a soft, tactile backdrop reminiscent of raw linen or unglazed ceramic. This is not a sterile white-box kitchen; it’s a working kitchen where steam rises and knives clatter. A single, confident blue (`#0868d5`) acts as the primary voltage for CTAs and interactive accents, cutting through the earthy tones with a cold, precise clarity. Supporting this are accents of a muted gold (`#fed134`) for badges and highlights, and a restrained sage green (`#7d8b83`) used sparingly in secondary surfaces and illustrations. The typographic voice is set in Aktiv Grotesk, a clean, utilitarian sans-serif that runs from light display weights to a bold, condensed variant for headlines, giving the brand a technical, editorial feel. Corners are softly rounded (`{rounded.sm}`) on buttons and cards, avoiding the harshness of sharp geometry while maintaining a professional, no-nonsense stance. The overall mood is one of quiet confidence — the brand trusts its materials, its craftsmanship, and the user’s skill, never resorting to loud gradients or excessive ornamentation. The system feels built for longevity, like a well-seasoned carbon steel pan.
+name: "Made In"
+source_url: "https://madeincookware.com"
+captured_at: "2026-09-28T04:10:22.228624+00:00"
+evidence_status: "historical_partial_css_evidence"
+description: |-
+  Made In is a direct-to-consumer cookware brand that speaks to the professional home cook with a palette that balances rugged utility and restrained elegance. The brand’s core identity is anchored in a deep, almost black olive green (`#20211a`) that reads as ink across most text and structural elements, while a warm off-white canvas (`#f5f6f2`) provides a soft, tactile backdrop reminiscent of raw linen or unglazed ceramic. This is not a sterile white-box kitchen; it’s a working kitchen where steam rises and knives clatter. A single, confident blue (`#0868d5`) acts as the primary voltage for CTAs and interactive accents, cutting through the earthy tones with a cold, precise clarity. Supporting this are accents of a muted gold (`#fed134`) for badges and highlights, and a restrained sage green (`#7d8b83`) used sparingly in secondary surfaces and illustrations. The typographic voice is set in Aktiv Grotesk, a clean, utilitarian sans-serif that runs from light display weights to a bold, condensed variant for headlines, giving the brand a technical, editorial feel. Corners are softly rounded (`{rounded.sm}`) on buttons and cards, avoiding the harshness of sharp geometry while maintaining a professional, no-nonsense stance. The overall mood is one of quiet confidence — the brand trusts its materials, its craftsmanship, and the user’s skill, never resorting to loud gradients or excessive ornamentation. The system feels built for longevity, like a well-seasoned carbon steel pan.
 
 colors:
   primary: "#0868d5"
@@ -287,6 +291,8 @@ components:
 - Hero sections reduce padding and font size, and may stack text below the image instead of overlaying.
 
 ## Known Gaps
+
+- **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 
 - Hover and focus states for all components (beyond primary button) could not be reliably extracted.
 - Error styling for form inputs (border color, error message typography) is not documented.

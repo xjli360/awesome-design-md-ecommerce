@@ -1,11 +1,15 @@
 ---
 version: alpha
-name: Ohaus
-description: Calibration certificates, GLP/GMP compliance stamps, and class-E weight traceability chains — OHAUS treats every product page with the same documentary rigour a metrologist brings to a reference standard. The homepage arranges product families the way a lab manual arranges protocols: by application discipline, load capacity, and measurement readability rather than by marketing narrative. The single color reliably extractable from the live site — #eeeeee, the confirmed surface tone — sets the entire register: the flat, neutral gray of brushed aluminum panel or a poured epoxy countertop, neither warm nor sterile, just stable and functional. Everything else in the palette is subordinate to that baseline.
+name: "Ohaus"
+source_url: "https://www.ohaus.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Calibration certificates, GLP/GMP compliance stamps, and class-E weight traceability chains — OHAUS treats every product page with the same documentary rigour a metrologist brings to a reference standard. The homepage arranges product families the way a lab manual arranges protocols: by application discipline, load capacity, and measurement readability rather than by marketing narrative. The single color reliably extractable from the live site — #eeeeee, the confirmed surface tone — sets the entire register: the flat, neutral gray of brushed aluminum panel or a poured epoxy countertop, neither warm nor sterile, just stable and functional. Everything else in the palette is subordinate to that baseline.
 
-No brand web font was capturable at extraction time; FontAwesome (an icon library) was the only font-family detected, indicating the brand's actual typefaces load via JS. What the page structure reveals is a typographic hierarchy built for specification scanning rather than emotional persuasion: model designations, maximum capacities, and tolerance figures demand that numbers be readable under lab lighting at arm's length. A monospace scale handles numeric spec values throughout product detail pages, visually separating measurement data from prose descriptions. Display type runs at modest weights — the brand earns authority through specification depth, not typographic muscle.
+  No brand web font was capturable at extraction time; FontAwesome (an icon library) was the only font-family detected, indicating the brand's actual typefaces load via JS. What the page structure reveals is a typographic hierarchy built for specification scanning rather than emotional persuasion: model designations, maximum capacities, and tolerance figures demand that numbers be readable under lab lighting at arm's length. A monospace scale handles numeric spec values throughout product detail pages, visually separating measurement data from prose descriptions. Display type runs at modest weights — the brand earns authority through specification depth, not typographic muscle.
 
-The primary brand blue — conservatively estimated at #004B8D from publicly visible OHAUS catalog covers and trade materials — anchors all primary CTAs, active nav states, and focus rings. Corners are nearly square at the button level (4px radius) and softly rounded at the card level (8px), a geometry that reads as precise and deliberate rather than friendly. The spec-table component is arguably the most load-bearing UI surface on the site: dense two-column rows of tolerance, repeatability, and environmental rating data that a purchasing engineer or lab manager reads before a product image. Red appears in sub-brand badge work and regulatory warning indicators, kept narrow in scope so it retains signal value. The `{colors.surface-soft}` #eeeeee tone repeats as the hero band background, section dividers, and the header row of every spec table, giving the site a low-contrast but coherent visual anchor.
+  The primary brand blue — conservatively estimated at #004B8D from publicly visible OHAUS catalog covers and trade materials — anchors all primary CTAs, active nav states, and focus rings. Corners are nearly square at the button level (4px radius) and softly rounded at the card level (8px), a geometry that reads as precise and deliberate rather than friendly. The spec-table component is arguably the most load-bearing UI surface on the site: dense two-column rows of tolerance, repeatability, and environmental rating data that a purchasing engineer or lab manager reads before a product image. Red appears in sub-brand badge work and regulatory warning indicators, kept narrow in scope so it retains signal value. The `{colors.surface-soft}` #eeeeee tone repeats as the hero band background, section dividers, and the header row of every spec table, giving the site a low-contrast but coherent visual anchor.
 
 colors:
   primary: "#004B8D"
@@ -311,6 +315,8 @@ components:
 - Footer link columns stack vertically on mobile with expand/collapse disclosure toggles per section
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one hex color (#eeeeee) was reliably extracted from the live site; the entire palette beyond surface-soft is estimated from publicly visible OHAUS catalog covers, trade materials, and product photography — production tokens may differ
 - Primary brand blue (#004B8D) is a conservative estimate from documented visual materials; the exact production hex is unconfirmed

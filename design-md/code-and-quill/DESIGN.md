@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Code&Quill
-description: |
+name: "Code&Quill"
+source_url: "https://www.codeandquill.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Crimson (#d0021b) strikes with the finality of a correction mark: it lands on the primary add-to-cart button, the sale price tag, and the logo, and almost nowhere else on the page. The restraint is the whole argument. Everything around it is paper and ink — near-black (#121212, #1c1d1d) for body type and product photography, medium charcoal (#444444) for secondary prose, an off-white page field (#f9f9f9) that reads like uncoated notebook stock, and a cool silver hairline (#dedede) drawing grid lines between sections. The dark navy (#112233) surfaces as a secondary brand accent — the color of a terminal at 2 a.m. — appearing in feature callout blocks and ghost CTAs, giving the brand its dual register: analog craft paired against something that reads like command-line blue.
 
   Figtree is the sole typeface across every role. Its open apertures and even stroke weight read cleanly at 12px caption scale and sit comfortably at 48px without the slab heaviness that a self-consciously "artisanal" brand might reach for. Weight alone does the organizational work: 700 for hero headlines and product titles, 600 for buttons and subheads, 400 for prose, and a 700-weight all-caps 11px variant ({typography.label-caps}) for badge text and section overlines. No secondary serif appears anywhere; the "quill" romance in the brand name lives in product texture — grid paper, dot matrices, cloth covers — rather than in letterform nostalgia.
@@ -353,6 +356,8 @@ components:
 - Announcement bar: single long message becomes a CSS marquee or truncated single line at mobile widths
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - `primary-disabled` color (#e8909a) not extracted from site; value is an estimate — verify against Shopify theme settings or computed button disabled state
 - `surface-card` pure white (#ffffff) is inferred; not directly present in the extracted hex list (closest extracted is #f9f9f9)

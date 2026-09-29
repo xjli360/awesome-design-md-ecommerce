@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Palm Beach Autographs
-description: |
+name: "Palm Beach Autographs"
+source_url: "https://palmbeachautographs.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The first visual fact is amber against black — #fca000 punching out of a #121212 field the way a spotlight hits a jersey in a trophy case. Palm Beach Autographs stages signed memorabilia on a dark canvas that signals vault weight rather than storefront brightness, and every design decision downstream flows from that framing choice. Alternate Gothic No. 1 D compresses headline names into the same tight column-width that sports publishing has used for press credentials and program covers since the offset-printing era; stacked in all-caps at display sizes, a player's name achieves the same visual authority on screen as on a stadium banner. For moments demanding even more spectral density, Prohibition steps in with its ink-heavy condensed geometry. The everyday interface — navigation links, body copy, input labels, filter text — runs in Assistant, a geometric sans that disappears into the chrome and keeps attention on the merchandise.
 
   Gold carries triple meaning here: it colors the primary CTA, marks authenticated provenance iconography, and invokes the literal gold ink of premium signing events. At active states, #fca000 shifts to #d88c00, maintaining contrast on the dark surface without breaking register. A secondary red — #d82727 — stakes out sale prices and urgency rails, reading as team-jersey crimson without competing with the primary. Authentication trust seals reach for #008c62, a green that the collectibles market has conditioned buyers to read as certified and verified. Link and informational accents pull from #405de6 and #334fb4, blues that signal navigational purpose without challenging gold's dominance.
@@ -404,6 +407,8 @@ components:
 - Hero vertical rule accent hidden below tablet breakpoint to reduce chrome
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No animation or transition tokens extracted; duration and easing curves inferred from Shopify defaults
 - Logo dimensions, exact lockup proportions, and wordmark color variants not confirmed

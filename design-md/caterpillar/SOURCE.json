@@ -1,0 +1,804 @@
+{
+  "source_url": "https://catfootwear.com",
+  "final_url": "https://www.catfootwear.com/US/en/home",
+  "captured_at": "2026-09-28T09:19:57.354656+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://catfootwear.com",
+      "final_url": "https://www.catfootwear.com/US/en/home",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "sha256": "abd6aea07ff2a7060b343d28d7e3c967e256f8b4b000663a9a96496a1b1531d9",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.catfootwear.com/on/demandware.static/-/Library-Sites-FONTS/default/v1790574670913/catfootwear/webfonts.css",
+      "final_url": "https://www.catfootwear.com/on/demandware.static/-/Library-Sites-FONTS/default/v1790574670913/catfootwear/webfonts.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1bcccf5660fa50c63edfdf6c52c5df7a0d5b634a21a43afd2f878eb0dcc50bbd",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/css/print.css",
+      "final_url": "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/css/print.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "15619538dca065d48a6083a1706f953237c3746ce4c225748ec80e8f20f29db7",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/lib/jquery/ui/jquery-ui.custom.min.css",
+      "final_url": "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/lib/jquery/ui/jquery-ui.custom.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9e97813ee31ae14336dac0b47b2474e494d2a1e586054a545f15039e9ffe2f7e",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/lib/jquery/jscrollpane/jquery.jscrollpane.css",
+      "final_url": "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/lib/jquery/jscrollpane/jquery.jscrollpane.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6027138b1580265aa8f235a679a932c53ea083ca7b13dcfb97ba9d93bc331fbf",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/lib/jquery/flexslider/flexslider.css",
+      "final_url": "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/lib/jquery/flexslider/flexslider.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b9d715e750700abc5fa09ad791c5165a731cde47b79bc346e4bfce3c06735b8c",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 22,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home",
+        "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/css/print.css",
+        "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/lib/jquery/flexslider/flexslider.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 19,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home",
+        "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/css/print.css",
+        "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/lib/jquery/flexslider/flexslider.css"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 12,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "#cccccc": {
+      "count": 6,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 6,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "#ffcc02": {
+      "count": 4,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "#f2f1ee": {
+      "count": 4,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "#dadada": {
+      "count": 3,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "#ccd2dc": {
+      "count": 3,
+      "sources": [
+        "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/css/print.css"
+      ]
+    },
+    "#ffcb08": {
+      "count": 2,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "#dddddd": {
+      "count": 2,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home",
+        "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/css/print.css"
+      ]
+    },
+    "#999999": {
+      "count": 2,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home",
+        "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/css/print.css"
+      ]
+    },
+    "#262626": {
+      "count": 2,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "#545859": {
+      "count": 2,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "#ffcd00": {
+      "count": 1,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "#bcbec0": {
+      "count": 1,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "#dc4405": {
+      "count": 1,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "#ffcc00": {
+      "count": 1,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "#e5b020": {
+      "count": 1,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "#676767": {
+      "count": 1,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "#8e8a7c": {
+      "count": 1,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "#3b3b3b": {
+      "count": 1,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "#efeeeb": {
+      "count": 1,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "#b8b8b8": {
+      "count": 1,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "#383838": {
+      "count": 1,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "#313131": {
+      "count": 1,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "#151515": {
+      "count": 1,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "#ffcd11": {
+      "count": 1,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "#f3f0ea": {
+      "count": 1,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "#393939": {
+      "count": 1,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "#181318": {
+      "count": 1,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 1,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "#868686": {
+      "count": 1,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "#696969": {
+      "count": 1,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "#696767": {
+      "count": 1,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "#2f547d": {
+      "count": 1,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "#6d6d6d": {
+      "count": 1,
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "#aadddd": {
+      "count": 1,
+      "sources": [
+        "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/css/print.css"
+      ]
+    },
+    "#ddddee": {
+      "count": 1,
+      "sources": [
+        "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/lib/jquery/jscrollpane/jquery.jscrollpane.css"
+      ]
+    },
+    "#bbbbdd": {
+      "count": 1,
+      "sources": [
+        "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/lib/jquery/jscrollpane/jquery.jscrollpane.css"
+      ]
+    },
+    "#50506d": {
+      "count": 1,
+      "sources": [
+        "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/lib/jquery/jscrollpane/jquery.jscrollpane.css"
+      ]
+    },
+    "#80808d": {
+      "count": 1,
+      "sources": [
+        "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/lib/jquery/jscrollpane/jquery.jscrollpane.css"
+      ]
+    },
+    "#eeeef4": {
+      "count": 1,
+      "sources": [
+        "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/lib/jquery/jscrollpane/jquery.jscrollpane.css"
+      ]
+    },
+    "#666666": {
+      "count": 1,
+      "sources": [
+        "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/lib/jquery/flexslider/flexslider.css"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/lib/jquery/flexslider/flexslider.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.catfootwear.com/US/en/home",
+      "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/css/print.css"
+    ],
+    "Druk": [
+      "https://www.catfootwear.com/on/demandware.static/-/Library-Sites-FONTS/default/v1790574670913/catfootwear/webfonts.css"
+    ],
+    "Druk Text Wide": [
+      "https://www.catfootwear.com/on/demandware.static/-/Library-Sites-FONTS/default/v1790574670913/catfootwear/webfonts.css"
+    ],
+    "Druk Wide": [
+      "https://www.catfootwear.com/on/demandware.static/-/Library-Sites-FONTS/default/v1790574670913/catfootwear/webfonts.css"
+    ],
+    "Helvetica": [
+      "https://www.catfootwear.com/US/en/home"
+    ],
+    "Helvetica Neue": [
+      "https://www.catfootwear.com/US/en/home"
+    ],
+    "MarkerMark": [
+      "https://www.catfootwear.com/on/demandware.static/-/Library-Sites-FONTS/default/v1790574670913/catfootwear/webfonts.css"
+    ],
+    "Mier-A-Black": [
+      "https://www.catfootwear.com/US/en/home",
+      "https://www.catfootwear.com/on/demandware.static/-/Library-Sites-FONTS/default/v1790574670913/catfootwear/webfonts.css"
+    ],
+    "Mier-B": [
+      "https://www.catfootwear.com/US/en/home",
+      "https://www.catfootwear.com/on/demandware.static/-/Library-Sites-FONTS/default/v1790574670913/catfootwear/webfonts.css"
+    ],
+    "Mier-B-Bold": [
+      "https://www.catfootwear.com/US/en/home",
+      "https://www.catfootwear.com/on/demandware.static/-/Library-Sites-FONTS/default/v1790574670913/catfootwear/webfonts.css"
+    ],
+    "Mier-B-Bold-Italic": [
+      "https://www.catfootwear.com/on/demandware.static/-/Library-Sites-FONTS/default/v1790574670913/catfootwear/webfonts.css"
+    ],
+    "Mier-B-Italic": [
+      "https://www.catfootwear.com/on/demandware.static/-/Library-Sites-FONTS/default/v1790574670913/catfootwear/webfonts.css"
+    ],
+    "Miller Display": [
+      "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/css/print.css"
+    ],
+    "NoeDisplay": [
+      "https://www.catfootwear.com/on/demandware.static/-/Library-Sites-FONTS/default/v1790574670913/catfootwear/webfonts.css"
+    ],
+    "NoeDisplay-Black": [
+      "https://www.catfootwear.com/on/demandware.static/-/Library-Sites-FONTS/default/v1790574670913/catfootwear/webfonts.css"
+    ],
+    "NoeDisplay-Black-Italic": [
+      "https://www.catfootwear.com/on/demandware.static/-/Library-Sites-FONTS/default/v1790574670913/catfootwear/webfonts.css"
+    ],
+    "NoeDisplay-Bold": [
+      "https://www.catfootwear.com/on/demandware.static/-/Library-Sites-FONTS/default/v1790574670913/catfootwear/webfonts.css"
+    ],
+    "NoeDisplay-Bold-Italic": [
+      "https://www.catfootwear.com/on/demandware.static/-/Library-Sites-FONTS/default/v1790574670913/catfootwear/webfonts.css"
+    ],
+    "NoeDisplay-Italic": [
+      "https://www.catfootwear.com/on/demandware.static/-/Library-Sites-FONTS/default/v1790574670913/catfootwear/webfonts.css"
+    ],
+    "NoeDisplay-Medium": [
+      "https://www.catfootwear.com/on/demandware.static/-/Library-Sites-FONTS/default/v1790574670913/catfootwear/webfonts.css"
+    ],
+    "NoeDisplay-Medium-Italic": [
+      "https://www.catfootwear.com/on/demandware.static/-/Library-Sites-FONTS/default/v1790574670913/catfootwear/webfonts.css"
+    ],
+    "PilatExtended-Black": [
+      "https://www.catfootwear.com/on/demandware.static/-/Library-Sites-FONTS/default/v1790574670913/catfootwear/webfonts.css"
+    ],
+    "Times": [
+      "https://www.catfootwear.com/US/en/home"
+    ],
+    "Verdana": [
+      "https://www.catfootwear.com/US/en/home"
+    ],
+    "flexslider-icon": [
+      "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/lib/jquery/flexslider/flexslider.css"
+    ],
+    "fontello": [
+      "https://www.catfootwear.com/on/demandware.static/-/Library-Sites-FONTS/default/v1790574670913/catfootwear/webfonts.css"
+    ],
+    "sans-serif": [
+      "https://www.catfootwear.com/US/en/home"
+    ],
+    "sans-serif !important": [
+      "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/css/print.css"
+    ],
+    "serif": [
+      "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/css/print.css"
+    ],
+    "serif!important": [
+      "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/css/print.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.catfootwear.com/US/en/home",
+      "selector": ".dw-apple-pay-button,.dw-apple-pay-button:hover,.dw-apple-pay-button:active",
+      "declarations": "background-color:#000;background-image:-webkit-named-image(apple-pay-logo-white);background-position:50% 50%;background-repeat:no-repeat;background-size:75% 60%;border-radius:5px;border:1px solid black;box-sizing:border-box;margin:5px auto;min-height:30px;min-width:100px;padding:0"
+    },
+    {
+      "source": "https://www.catfootwear.com/US/en/home",
+      "selector": ".dw-apple-pay-button.dw-apple-pay-logo-white",
+      "declarations": "background-color:#fff;border-color:#fff;background-image:-webkit-named-image(apple-pay-logo-black);color:#000"
+    },
+    {
+      "source": "https://www.catfootwear.com/US/en/home",
+      "selector": ".dw-apple-pay-button.dw-apple-pay-logo-white.dw-apple-pay-border",
+      "declarations": "border-color:#000"
+    },
+    {
+      "source": "https://www.catfootwear.com/US/en/home",
+      "selector": ":root",
+      "declarations": "--color-primary: #000;\n    --color-secondary: #fff;\n    --color-tertiary: #ffcd00;\n    --color-quaternary: #dadada;\n    \n    --font-primary: \"Mier-B-Bold\", Arial, Helvetica, sans-serif;\n    --font-secondary: \"Mier-A-Black\", Arial, Helvetica, sans-serif;\n    --font-tertiary: \"Mier-B\", Arial, \"Helvetica Neue\", Helvetica, sans-serif;\n    \n    \n    --font-size-primary: 1.563vw;\n    --font-size-secondary: 0.521vw;\n    --font-size-tertiary: 0.625rem;"
+    },
+    {
+      "source": "https://www.catfootwear.com/US/en/home",
+      "selector": "#top-header-banner",
+      "declarations": "--slide-height: 31px;\n      --slide-width: 100%;\n      position: relative;\n      padding: 0;\n      box-sizing: border-box;\n      line-height: normal;\n      z-index: 1;\n      overflow: hidden;\n      margin-inline: 3em;\n      margin-inline: 0;\n      text-align: center;\n      font-size: 10px;"
+    },
+    {
+      "source": "https://www.catfootwear.com/US/en/home",
+      "selector": "#top-header-banner .carousel-slide a",
+      "declarations": "text-decoration: underline;\n      text-decoration-color: transparent;\n      transition: text-decoration-color 0.2s ease-in-out;"
+    },
+    {
+      "source": "https://www.catfootwear.com/US/en/home",
+      "selector": "#top-header-banner .carousel-slide a:hover",
+      "declarations": "text-decoration-color: currentColor;"
+    },
+    {
+      "source": "https://www.catfootwear.com/US/en/home",
+      "selector": "#top-header-banner .carousel-slide .h3",
+      "declarations": "margin-block: 0;\n      font-family:\n        \"Mier-B-Bold\", Arial, \"Helvetica Neue\", Helvetica, sans-serif;\n      letter-spacing: 0.03em;\n      font-size: 0.7em;\n      font-weight: normal;\n      color: #000;"
+    },
+    {
+      "source": "https://www.catfootwear.com/US/en/home",
+      "selector": "#promo-60-sale .lp-cta-button .link-liner:hover",
+      "declarations": "background: var(--brand-color-contrast);\n    color: var(--brand-color-primary);"
+    },
+    {
+      "source": "https://www.catfootwear.com/US/en/home",
+      "selector": "#promo-email-signup .form-email-signup button",
+      "declarations": "display: inline-block;\n    background-position: right -3em top 0.5em;\n    background-image: url(\"https://www.catfootwear.com/on/demandware.static/-/Sites-catfootwear_us-Library/default/dwdc0ed401/images/icon-waiting.gif\");\n    background-size: 1.7em 1.7em;\n    background-repeat: no-repeat;\n    background-color: #000;\n    color: #fff;\n    -webkit-transition: all 0.3s ease;\n    transition: all 0.3s ease;\n    height: 2.5em;\n    width: 15.5em;\n    min-width: 12em;\n    line-height: 1.2;\n    font-family: \"Mier-B-Bold\", Arial, Helvetica, sans-serif;\n    font-size: 1.4em;\n    text-transform: uppercase;"
+    },
+    {
+      "source": "https://www.catfootwear.com/US/en/home",
+      "selector": "#promo-email-signup .form-email-signup button.loading",
+      "declarations": "background-color: #ddd;\n    color: #999;\n    background-position: right 1.5em top 0.4em;"
+    },
+    {
+      "source": "https://www.catfootwear.com/US/en/home",
+      "selector": "#promo-email-signup .form-email-signup button.disabled",
+      "declarations": "background-color: lightgray;\n    color: grey;"
+    },
+    {
+      "source": "https://www.catfootwear.com/US/en/home",
+      "selector": "#promo-email-signup .form-email-signup button:not(.disabled):hover",
+      "declarations": "background-color: #ffcc00;\n    color: #000;\n    cursor: pointer;"
+    },
+    {
+      "source": "https://www.catfootwear.com/US/en/home",
+      "selector": ".fixed-search-bar.alt-header-search.site-search .site-search-results .list-heading",
+      "declarations": "background-color: #f5f5f5;\r\n     font-weight: 700;\r\n     padding: 9px 16px;\r\n     border-bottom: 1px solid #cccccc;\r\n     font-size: 13px;\r\n     text-transform: uppercase;\r\n     line-height: 1.2;\r\n     height: unset;"
+    },
+    {
+      "source": "https://www.catfootwear.com/US/en/home",
+      "selector": ".fixed-search-bar.alt-header-search.site-search .site-search-results .searchterms ul li a span.highlight",
+      "declarations": "color: #e5b020;"
+    },
+    {
+      "source": "https://www.catfootwear.com/US/en/home",
+      "selector": "#home-banner-247 .overlay .lp-cta-button .link-liner:hover",
+      "declarations": "background: rgb(255, 255, 255);\n    color: var(--brand-color-primary);"
+    },
+    {
+      "source": "https://www.catfootwear.com/US/en/home",
+      "selector": "#home-banner-247 .tooltip-overlay .tooltip-container .tooltip-button",
+      "declarations": "border-radius: 50%;\n  font-size: 5em;\n  width: 1em;\n  height: 1em;\n  color: transparent;\n  overflow: hidden;\n  animation: 2s pulsingTooltips infinite;\n  border: solid 0.05em rgba(255, 255, 255, 0.72);\n  padding: 0.125em;"
+    },
+    {
+      "source": "https://www.catfootwear.com/US/en/home",
+      "selector": "#home-main-shop-by-category .products .product .link-liner",
+      "declarations": "padding-inline: 0;\n    width: 13.125em;\n    height: 3.10895312em;\n    border-radius: 99em;\n    border: solid 0.21364282em currentColor;\n    background: transparent;\n    color: var(--brand-color-contrast);"
+    },
+    {
+      "source": "https://www.catfootwear.com/US/en/home",
+      "selector": "#home-main-shop-by-category .products .product .link-liner:hover",
+      "declarations": "color: var(--brand-color-secondary);"
+    },
+    {
+      "source": "https://www.catfootwear.com/US/en/home",
+      "selector": ".lp-home-best-sellers-slider .product-card-liner",
+      "declarations": "display: flex;\n    flex-direction: column;\n    height: 100%;\n    background: #f2f1ee;\n    color: var(--brand-color-primary);\n    padding: 5.5em;\n    padding-bottom: 3.5em;\n    border-radius: 1.132em;\n    overflow: hidden;"
+    },
+    {
+      "source": "https://www.catfootwear.com/US/en/home",
+      "selector": ".lp-home-best-sellers-slider .product-name",
+      "declarations": "font-family: var(--brand-font-body-bold);\n    font-size: 3em;\n    line-height: 1.125;\n    letter-spacing: 0;\n    text-transform: none;\n    margin: 0;"
+    },
+    {
+      "source": "https://www.catfootwear.com/US/en/home",
+      "selector": ".lp-home-best-sellers-slider .product-features",
+      "declarations": "list-style: none;\n    font-size: 2.5em;\n    line-height: 1.38;\n    display: flex;\n    flex-direction: column;\n    --feature-gap: 0.2em;\n    gap: var(--feature-gap);\n    margin-top: var(--feature-gap);\n    margin-bottom: auto;"
+    },
+    {
+      "source": "https://www.catfootwear.com/US/en/home",
+      "selector": ".lp-home-best-sellers-slider .product-link",
+      "declarations": "font-family: var(--brand-font-body-bold);\n    font-size: 2.9em;\n    letter-spacing: 0.04em;\n    color: inherit;\n    text-transform: uppercase;\n    text-decoration: underline;"
+    },
+    {
+      "source": "https://www.catfootwear.com/US/en/home",
+      "selector": "#home-banner-recommended .section-header h2",
+      "declarations": "font-family: var(--brand-font-heading-squat);\n        text-transform: none;\n        margin-bottom: 0;\n        font-size: 3.6em;\n        line-height: 0.8;"
+    },
+    {
+      "source": "https://www.catfootwear.com/US/en/home",
+      "selector": "#home-banner-recommended .embla__button",
+      "declarations": "-webkit-tap-highlight-color: rgba(\n          var(--text-high-contrast-rgb-value),\n          0.5\n        );\n        -ms-appearance: none;\n        appearance: none;\n        touch-action: manipulation;\n        cursor: pointer;\n        z-index: 1;\n        background-color: rgba(0, 0, 0, 0);\n        border: 0;\n        margin: 0;\n        padding: 0;\n        text-decoration: none;\n        transition: all 0.1s;"
+    },
+    {
+      "source": "https://www.catfootwear.com/US/en/home",
+      "selector": "#home-banner-recommended .product-tab header .star-rating",
+      "declarations": "--star-size: 2.5em;\n        --star-achieved: var(--brand-color-medium-grey);\n        --star-remaining: var(--brand-color-primary);\n        --percent: calc(var(--rating) / 5 * 100%);\n        font-family: Times;\n        font-size: var(--star-size);\n        letter-spacing: 0.03em;\n        margin-right: 0.75em;\n        line-height: 1;"
+    },
+    {
+      "source": "https://www.catfootwear.com/US/en/home",
+      "selector": "#home-banner-recommended .product-tab header .star-rating:before",
+      "declarations": "content: \"★★★★★\";\n        background: linear-gradient(\n          90deg,\n          var(--star-remaining) var(--percent),\n          var(--star-achieved) var(--percent)\n        );\n        -webkit-text-fill-color: transparent;\n        -webkit-background-clip: text;"
+    },
+    {
+      "source": "https://www.catfootwear.com/US/en/home",
+      "selector": "#home-banner-recommended .product-tab .lp-cta-button",
+      "declarations": "border-color: var(--brand-color-primary);\n        background: none;\n        border-radius: 1.25em;\n        height: 2.5em;\n        padding-left: 3.6em;\n        padding-right: 3.6em;"
+    },
+    {
+      "source": "https://www.catfootwear.com/US/en/home",
+      "selector": "#home-banner-recommended .product-tab .lp-cta-button:hover",
+      "declarations": "background: var(--brand-color-primary);\n          color: var(--brand-color-contrast);"
+    },
+    {
+      "source": "https://www.catfootwear.com/US/en/home",
+      "selector": "#home-banner-new-arrivals header h2",
+      "declarations": "position: relative;\n    z-index: 2;\n    font-family: var(--brand-font-heading-squat);\n    font-size: 3.6em;\n    line-height: 1;\n    letter-spacing: 0.05em;\n    text-transform: none;\n    color: var(--brand-color-contrast);\n    margin-bottom: 0;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Caterpillar Work Boots - Comfortable Work Shoes | Cat Footwear",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.catfootwear.com/US/en/home",
+        "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/css/print.css",
+        "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/lib/jquery/flexslider/flexslider.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.catfootwear.com/US/en/home",
+        "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/css/print.css",
+        "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/lib/jquery/flexslider/flexslider.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.catfootwear.com/US/en/home",
+        "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/css/print.css",
+        "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/lib/jquery/flexslider/flexslider.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/lib/jquery/flexslider/flexslider.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.catfootwear.com/US/en/home",
+        "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/css/print.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.catfootwear.com/US/en/home",
+        "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/css/print.css",
+        "https://www.catfootwear.com/on/demandware.static/Sites-catfootwear_us-Site/-/default/v1790574670913/lib/jquery/flexslider/flexslider.css"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "colors.accent-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "colors.highlight": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "colors.safety-accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.catfootwear.com/US/en/home"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.category-pill": {
+      "status": "inferred"
+    }
+  }
+}

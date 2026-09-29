@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Tushy
-description: A warm, sustainable bathroom brand that uses a sky-blue primary (#71a7f4) as its visual anchor — a color that reads as clean water, fresh air, and modern hygiene rather than cold clinical white. The palette is built on a creamy off-white canvas (#fdf7f1) that feels like natural paper or unbleached cotton, with secondary blues (#346ab7, #487ecb) providing depth for navigation and interactive states. Peach and coral accents (#ffcf9f, #fcb68c, #f8cfa4) appear in illustrations, badges, and promotional elements, softening the brand's technical product (bidets) into something approachable and human. The typography runs Sofia Pro at moderate weights — display headlines sit at 500–700 weight, body text at 400, creating a clean editorial feel that lets product photography and sustainability messaging carry the emotional weight. Buttons use soft rounded corners ({rounded.sm}) and generous padding, while the primary CTA (#71a7f4 on white) stands out against the warm canvas without aggression. The brand's signature move is pairing its sky-blue primary with warm peach tones in badges and sale indicators, creating a visual temperature contrast that signals both trust and warmth. Error states use a restrained red (#e60000) that appears only in form validation, never in branding. The overall mood is calm, eco-conscious, and modern — a bathroom brand that wants you to feel good about water conservation without sacrificing comfort.
+name: "Tushy"
+source_url: "https://hellotushy.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A warm, sustainable bathroom brand that uses a sky-blue primary (#71a7f4) as its visual anchor — a color that reads as clean water, fresh air, and modern hygiene rather than cold clinical white. The palette is built on a creamy off-white canvas (#fdf7f1) that feels like natural paper or unbleached cotton, with secondary blues (#346ab7, #487ecb) providing depth for navigation and interactive states. Peach and coral accents (#ffcf9f, #fcb68c, #f8cfa4) appear in illustrations, badges, and promotional elements, softening the brand's technical product (bidets) into something approachable and human. The typography runs Sofia Pro at moderate weights — display headlines sit at 500–700 weight, body text at 400, creating a clean editorial feel that lets product photography and sustainability messaging carry the emotional weight. Buttons use soft rounded corners ({rounded.sm}) and generous padding, while the primary CTA (#71a7f4 on white) stands out against the warm canvas without aggression. The brand's signature move is pairing its sky-blue primary with warm peach tones in badges and sale indicators, creating a visual temperature contrast that signals both trust and warmth. Error states use a restrained red (#e60000) that appears only in form validation, never in branding. The overall mood is calm, eco-conscious, and modern — a bathroom brand that wants you to feel good about water conservation without sacrificing comfort.
 
 colors:
   primary: "#71a7f4"
@@ -636,6 +640,8 @@ components:
 - Multi-step checkout collapses to single-column stacked layout below 744px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for all components are inferred from common patterns; actual brand hover animations (ease curves, duration) not extracted
 - Focus-visible ring styles (color, offset, thickness) not present in extracted data — default browser focus may be used

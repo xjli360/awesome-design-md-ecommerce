@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Solawave
-description: A deep-burgundy (#290217) and rosewood (#7c1c2f) brand that sells red-light therapy devices, Solawave stakes its visual identity on a medical-adjacent seriousness softened by a warm, almost cosmetic pink (#e6c4c7) and a cyan accent (#00bbff) that reads as clinical precision. The palette is dominated by dark, saturated reds and browns — #290217 appears as the primary ink, #7c1c2f as the primary brand color, and #6d1929 as a secondary variant — creating a mood that is both luxurious and therapeutic, closer to a dermatologist's office than a beauty counter. Typography runs on TWKLausanne and Inter, with Brown and Helvetica as fallbacks, suggesting a clean, Swiss-influenced sans-serif system. Buttons use full-pill rounding ({rounded.full}) and generous padding, while product cards likely employ soft corners ({rounded.md}) to balance the clinical edge. The brand's signature move is the contrast between its dark, wine-like primary and the bright, almost electric cyan (#00bbff) used for accents — a pairing that signals both efficacy and innovation. The canvas is a warm off-white (#faf3f4) rather than pure white, and the surface cards sit on #f4f4f6, maintaining a soft, approachable feel. The overall impression is of a brand that wants to be taken seriously as a medical device company while still feeling accessible and feminine.
+name: "Solawave"
+source_url: "https://www.solawave.co"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep-burgundy (#290217) and rosewood (#7c1c2f) brand that sells red-light therapy devices, Solawave stakes its visual identity on a medical-adjacent seriousness softened by a warm, almost cosmetic pink (#e6c4c7) and a cyan accent (#00bbff) that reads as clinical precision. The palette is dominated by dark, saturated reds and browns — #290217 appears as the primary ink, #7c1c2f as the primary brand color, and #6d1929 as a secondary variant — creating a mood that is both luxurious and therapeutic, closer to a dermatologist's office than a beauty counter. Typography runs on TWKLausanne and Inter, with Brown and Helvetica as fallbacks, suggesting a clean, Swiss-influenced sans-serif system. Buttons use full-pill rounding ({rounded.full}) and generous padding, while product cards likely employ soft corners ({rounded.md}) to balance the clinical edge. The brand's signature move is the contrast between its dark, wine-like primary and the bright, almost electric cyan (#00bbff) used for accents — a pairing that signals both efficacy and innovation. The canvas is a warm off-white (#faf3f4) rather than pure white, and the surface cards sit on #f4f4f6, maintaining a soft, approachable feel. The overall impression is of a brand that wants to be taken seriously as a medical device company while still feeling accessible and feminine.
 
 colors:
   primary: "#7c1c2f"
@@ -329,6 +333,8 @@ components:
 - Badges may reduce in size or stack vertically on very small screens.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact hover and focus states for all components could not be fully extracted; active states are inferred from the extracted palette.
 - Error styling for forms (beyond border color) is not confirmed — missing error message typography, iconography, and animation.

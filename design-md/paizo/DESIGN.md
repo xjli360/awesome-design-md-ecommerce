@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Paizo
-description: A deep, saturated navy (#202936) forms the bedrock of Paizo’s digital presence, a color that reads as both a library’s leather binding and the void between stars in a Pathfinder campaign. The brand’s primary voltage is a rich crimson (#461413) — not a bright marketing red, but a worn, blood-ink tone that appears on navigation bars, primary buttons, and the signature Golem’s Got It! badge. This red is counterpointed by a pale, parchment-like cream (#fefad6) used for alert backgrounds and secondary surfaces, evoking the aged paper of a rulebook. The extracted palette reveals a surprising breadth: a muted lavender (#7d7ba6) for subtle accents, a brass-gold (#ebc48d) for decorative elements, and a stark warning yellow (#ffff00) for critical system messages — the only color that breaks the low-saturation contract. Typography is a battlefield of serif and sans: Domine for display headings carries the weight of fantasy literature, while GoodOT (a geometric sans with condensed variants) handles body copy and navigation with mechanical precision. The PathfinderIcons font — a custom icon set — appears in search bars and category filters, giving the UI a proprietary, game-specific vocabulary. Corners are mostly sharp (`{rounded.none}`) for cards and containers, with soft rounding (`{rounded.sm}`) reserved for buttons and input fields, suggesting a world where function precedes friendliness. The overall mood is that of a well-worn game master’s screen: dark, organized, and dense with information, but punctuated by the warm glow of community and adventure.
+name: "Paizo"
+source_url: "https://paizo.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep, saturated navy (#202936) forms the bedrock of Paizo’s digital presence, a color that reads as both a library’s leather binding and the void between stars in a Pathfinder campaign. The brand’s primary voltage is a rich crimson (#461413) — not a bright marketing red, but a worn, blood-ink tone that appears on navigation bars, primary buttons, and the signature Golem’s Got It! badge. This red is counterpointed by a pale, parchment-like cream (#fefad6) used for alert backgrounds and secondary surfaces, evoking the aged paper of a rulebook. The extracted palette reveals a surprising breadth: a muted lavender (#7d7ba6) for subtle accents, a brass-gold (#ebc48d) for decorative elements, and a stark warning yellow (#ffff00) for critical system messages — the only color that breaks the low-saturation contract. Typography is a battlefield of serif and sans: Domine for display headings carries the weight of fantasy literature, while GoodOT (a geometric sans with condensed variants) handles body copy and navigation with mechanical precision. The PathfinderIcons font — a custom icon set — appears in search bars and category filters, giving the UI a proprietary, game-specific vocabulary. Corners are mostly sharp (`{rounded.none}`) for cards and containers, with soft rounding (`{rounded.sm}`) reserved for buttons and input fields, suggesting a world where function precedes friendliness. The overall mood is that of a well-worn game master’s screen: dark, organized, and dense with information, but punctuated by the warm glow of community and adventure.
 
 colors:
   primary: "#461413"
@@ -476,6 +480,8 @@ components:
 - **Hero banner**: On mobile, the hero banner reduces padding and font size. Background images may be cropped or replaced with a simpler gradient. CTA buttons stack vertically instead of sitting inline.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states**: While primary button hover is defined, hover states for secondary, tertiary, and ghost buttons are inferred from common patterns. Actual extracted hover colors for these variants are not available.
 - **Focus states**: Focus ring styles (color, width, offset) are not extracted. The system likely uses a `{colors.alert-info}` or `{colors.primary}` outline, but this is unconfirmed.

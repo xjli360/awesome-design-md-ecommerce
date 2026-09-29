@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Science Company
-description: |
+name: "Science Company"
+source_url: "https://www.sciencecompany.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Laboratory safety green — #117744, deep as a fume hood indicator — anchors every primary action on sciencecompany.com, a palette choice that reads less like brand strategy and more like institutional habit: the same green that marks "safe exit" and "eyewash station" now marks "Add to Cart." The second extracted color, a pure #ff0000 with no warm or cool offset, functions as the system's alarm register: required-field markers, out-of-stock notices, sale-price deltas. Together the two chromatic signals mirror the binary of a lab environment — proceed or stop — with no decorative third tone in between.
 
   The type stack is conspicuously institutional: Calibri sits at the sans-serif slot (Microsoft Office's default since 2007), while Cambria Math occupies the serif role, a font designed specifically to render chemical formulas and mathematical notation at screen resolution. Times New Roman appears as the fallback roman. This is not a typographic system assembled for brand expression; it is the stack of a catalog built by scientists for scientists, where legibility of unit abbreviations (mL, µL, mmol/L) and CAS registry numbers at small sizes matters more than display charisma. The "swiss" and "roman" entries in the font-family strings are generic CSS category names, confirming the type system never reached a font-selection phase — it simply inherited browser and OS defaults.
@@ -382,6 +385,8 @@ components:
 - nav-top-strip is hidden on mobile to preserve header height for logo and hamburger
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only two hex colors extracted (#117744 and #ff0000); all neutral palette values (ink, muted, hairline, surface tones) are inferred from catalog-site conventions, not confirmed from the live site
 - No brand custom typeface — the font stack is entirely system/OS fonts (Calibri, Cambria Math, Times New Roman); no hosted web font detected; font sizes and weights throughout are estimated from catalog-context norms

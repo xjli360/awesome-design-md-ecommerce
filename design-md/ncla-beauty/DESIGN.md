@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: NCLA Beauty
-description: A candy-toned bath-and-body brand that runs on a blush-pink current of #f2aead — not a shy whisper of pink but a saturated, almost coral rose that appears on product labels, site badges, and the primary CTA button, giving the entire storefront a warm, Valentine-adjacent glow. The palette is surprisingly restrained for a beauty brand: a cool slate #676986 anchors body text, while #272d45 (a deep navy-charcoal) handles headings and strong ink, creating a crisp, editorial contrast against the soft pink. The canvas is #f4f4f6, a barely-there lavender-gray that reads as cleaner than pure white and avoids the sterile clinic feel of many beauty sites. Accent colors arrive sparingly: a marigold #fce7a8 for sale badges, a true red #c8232c for error states or limited-edition drops, and a muted coral #d59998 that echoes the primary at half saturation. Typography leans on a serif/didone pair — Big Caslon and Bodoni MT for display headings, lending a vintage-apothecary dignity to product names, while Jost (a geometric sans) handles body copy and buttons with a clean, modern counterpoint. Product cards use generous {rounded.md} corners and a soft shadow, making each item feel like a wrapped gift. The nav bar is compact at 60px, with a sticky header that collapses on scroll, and the search icon sits in a pill-shaped field with {rounded.full} ends. The overall impression is a beauty brand that trusts its product photography to do the heavy lifting — the design stays out of the way, offering just enough pink warmth and serif elegance to signal "indie, vegan, cruelty-free" without shouting.
+name: "NCLA Beauty"
+source_url: "https://nclabeauty.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A candy-toned bath-and-body brand that runs on a blush-pink current of #f2aead — not a shy whisper of pink but a saturated, almost coral rose that appears on product labels, site badges, and the primary CTA button, giving the entire storefront a warm, Valentine-adjacent glow. The palette is surprisingly restrained for a beauty brand: a cool slate #676986 anchors body text, while #272d45 (a deep navy-charcoal) handles headings and strong ink, creating a crisp, editorial contrast against the soft pink. The canvas is #f4f4f6, a barely-there lavender-gray that reads as cleaner than pure white and avoids the sterile clinic feel of many beauty sites. Accent colors arrive sparingly: a marigold #fce7a8 for sale badges, a true red #c8232c for error states or limited-edition drops, and a muted coral #d59998 that echoes the primary at half saturation. Typography leans on a serif/didone pair — Big Caslon and Bodoni MT for display headings, lending a vintage-apothecary dignity to product names, while Jost (a geometric sans) handles body copy and buttons with a clean, modern counterpoint. Product cards use generous {rounded.md} corners and a soft shadow, making each item feel like a wrapped gift. The nav bar is compact at 60px, with a sticky header that collapses on scroll, and the search icon sits in a pill-shaped field with {rounded.full} ends. The overall impression is a beauty brand that trusts its product photography to do the heavy lifting — the design stays out of the way, offering just enough pink warmth and serif elegance to signal "indie, vegan, cruelty-free" without shouting.
 
 colors:
   primary: "#f2aead"
@@ -406,6 +410,8 @@ components:
 - Product image galleries collapse from thumbnail strip to swipeable carousel on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for product card badges and footer links are inferred from common patterns, not extracted from live CSS
 - Error state styling for forms (red border) is assumed based on the presence of #c8232c in the palette, but exact error message typography and iconography are unknown

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Retro City Games
-description: A deep, ink-heavy storefront where #0b1d3b and #000b41 form the atmospheric baseline — these are not accidental dark-mode leftovers but deliberate choices that frame the merchandise like a CRT bezel. The palette reads as a dimly lit game room: #2b333f for secondary surfaces, #1b1b1b for deep backgrounds, and #73859f as a desaturated steel-blue accent that appears on hover states and secondary text. The single voltage of warmth comes from #ad631a, a burnt-amber used sparingly for price tags and stock badges, and #ff7734, a brighter orange that punches through the gloom on sale indicators. The extracted hex list is noisy with checkout-widget blues (#006aff, #3374ff) and social-icon tones (#808cff, #7b88bc), but the brand's true signature is the navy-black foundation with amber accents — a palette that evokes late-night browsing in a physical game store. Typography runs Inter at modest weights with Arial/Helvetica fallbacks, suggesting a no-nonsense utilitarian approach that lets product photography (cartridges, consoles, box art) carry the emotional weight. Borders are thin and sharp at 1px in #4d4d4d, avoiding the soft pill shapes of modern e-commerce in favor of squared-off rectangles that recall cartridge edges and console vents. The search bar uses a subtle inset shadow on #262626 fields, and product cards stack on #141414 with #d6d6d6 text — the contrast is deliberate, not accidental, creating a browsing experience that feels like flipping through bins under fluorescent light.
+name: "Retro City Games"
+source_url: "https://retrocitygames.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep, ink-heavy storefront where #0b1d3b and #000b41 form the atmospheric baseline — these are not accidental dark-mode leftovers but deliberate choices that frame the merchandise like a CRT bezel. The palette reads as a dimly lit game room: #2b333f for secondary surfaces, #1b1b1b for deep backgrounds, and #73859f as a desaturated steel-blue accent that appears on hover states and secondary text. The single voltage of warmth comes from #ad631a, a burnt-amber used sparingly for price tags and stock badges, and #ff7734, a brighter orange that punches through the gloom on sale indicators. The extracted hex list is noisy with checkout-widget blues (#006aff, #3374ff) and social-icon tones (#808cff, #7b88bc), but the brand's true signature is the navy-black foundation with amber accents — a palette that evokes late-night browsing in a physical game store. Typography runs Inter at modest weights with Arial/Helvetica fallbacks, suggesting a no-nonsense utilitarian approach that lets product photography (cartridges, consoles, box art) carry the emotional weight. Borders are thin and sharp at 1px in #4d4d4d, avoiding the soft pill shapes of modern e-commerce in favor of squared-off rectangles that recall cartridge edges and console vents. The search bar uses a subtle inset shadow on #262626 fields, and product cards stack on #141414 with #d6d6d6 text — the contrast is deliberate, not accidental, creating a browsing experience that feels like flipping through bins under fluorescent light.
 
 colors:
   primary: "#ad631a"
@@ -385,6 +389,8 @@ components:
 - Hero banner text overlay collapses to a single line on mobile, hiding the subtitle
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for most components could not be reliably extracted — only `button-primary` and `text-input` have confirmed hover/focus colors
 - Error states for forms (validation messages, error borders) are absent from the extracted data

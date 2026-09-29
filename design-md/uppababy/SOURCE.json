@@ -1,0 +1,883 @@
+{
+  "source_url": "https://uppababy.com",
+  "final_url": "https://uppababy.com/",
+  "captured_at": "2026-09-28T04:52:28.112334+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://uppababy.com",
+      "final_url": "https://uppababy.com/",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "sha256": "6dac0c4c8f32bd5acc205ba5d3680ea77592676af50b0f0015a938b57a6fc621",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css",
+      "final_url": "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "9e419b60cf10d4fe8670f3a49644a2840f3b135e420a17eaa3de67afeac1e1d2",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://uppababy.com/_nuxt/SharedModal.BOiEvt2W.css",
+      "final_url": "https://uppababy.com/_nuxt/SharedModal.BOiEvt2W.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "1a46c088582e430350037f7645d078566d644f4f6684e51979e4b5aee1699e6f",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://uppababy.com/_nuxt/LayoutHeader.C8hs0u-p.css",
+      "final_url": "https://uppababy.com/_nuxt/LayoutHeader.C8hs0u-p.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "59aa730f62b49fe263648ee4fb9aea5a3afb30081d2f5feda985c422f40410c0",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://uppababy.com/_nuxt/LayoutNotificationBannerSlider.CE8js-XE.css",
+      "final_url": "https://uppababy.com/_nuxt/LayoutNotificationBannerSlider.CE8js-XE.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "1d18771a686a897b06ffc50c8e0df92b07726efe23e085d9e80ffab85f486d48",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://uppababy.com/_nuxt/LayoutTopNavigationRecursive.DSJO4_YV.css",
+      "final_url": "https://uppababy.com/_nuxt/LayoutTopNavigationRecursive.DSJO4_YV.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "cff6c1416a733d029abc3935f3b7d44a5182aa2e6d04d6a6822a2bc782c44914",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#0f0c0a": {
+      "count": 94,
+      "sources": [
+        "https://uppababy.com/",
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css",
+        "https://uppababy.com/_nuxt/LayoutHeader.C8hs0u-p.css"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 79,
+      "sources": [
+        "https://uppababy.com/",
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css",
+        "https://uppababy.com/_nuxt/LayoutHeader.C8hs0u-p.css"
+      ]
+    },
+    "#8f8f8f": {
+      "count": 9,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 7,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css",
+        "https://uppababy.com/_nuxt/LayoutHeader.C8hs0u-p.css"
+      ]
+    },
+    "#e4e4e4": {
+      "count": 5,
+      "sources": [
+        "https://uppababy.com/",
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#c5c5c5": {
+      "count": 5,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#202020": {
+      "count": 5,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#53687c": {
+      "count": 4,
+      "sources": [
+        "https://uppababy.com/",
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#61baf5": {
+      "count": 4,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#26221f": {
+      "count": 4,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#6c92ab": {
+      "count": 3,
+      "sources": [
+        "https://uppababy.com/",
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#bebebe": {
+      "count": 3,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#efefef": {
+      "count": 3,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 2,
+      "sources": [
+        "https://uppababy.com/",
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 2,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#707070": {
+      "count": 2,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#861212": {
+      "count": 2,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#f7f7f780": {
+      "count": 2,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#00000099": {
+      "count": 2,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css",
+        "https://uppababy.com/_nuxt/LayoutHeader.C8hs0u-p.css"
+      ]
+    },
+    "#2b2d2f": {
+      "count": 2,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css",
+        "https://uppababy.com/_nuxt/LayoutHeader.C8hs0u-p.css"
+      ]
+    },
+    "#d2c4b2": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#0a629c": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#425363": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#0b1722": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#000a14": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#ebebeb": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#045f20": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#666666": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#6b7886": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#d4f0f5": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#e76569": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#ffbd5d": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#6b728080": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#fa00001a": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#f7f7f733": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#f7f7f7bf": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#f7f7f7e6": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#ff156d": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#bcc1c7": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#555555": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#747170": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#ce0000": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#6b7885": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#0f0c0a66": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#f7f7f766": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#000000b3": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#ffbb37": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "#8c8986": {
+      "count": 1,
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+    ],
+    "Apple Color Emoji": [
+      "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+    ],
+    "Arial": [
+      "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+    ],
+    "BlinkMacSystemFont": [
+      "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+    ],
+    "Consolas": [
+      "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+    ],
+    "Courier New": [
+      "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+    ],
+    "Helvetica Neue": [
+      "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+    ],
+    "Liberation Mono": [
+      "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+    ],
+    "Menlo": [
+      "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+    ],
+    "Monaco": [
+      "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+    ],
+    "Noto Color Emoji": [
+      "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+    ],
+    "Noto Sans": [
+      "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+    ],
+    "Roboto": [
+      "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+    ],
+    "SFMono-Regular": [
+      "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+    ],
+    "Segoe UI": [
+      "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+    ],
+    "Segoe UI Emoji": [
+      "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+    ],
+    "Segoe UI Symbol": [
+      "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+    ],
+    "agenda": [
+      "https://uppababy.com/",
+      "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+    ],
+    "gelica": [
+      "https://uppababy.com/"
+    ],
+    "monospace": [
+      "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+    ],
+    "novecento-sans-wide": [
+      "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+    ],
+    "sans-serif": [
+      "https://uppababy.com/",
+      "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+    ],
+    "system-ui": [
+      "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+    ],
+    "ui-monospace": [
+      "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+    ],
+    "ui-sans-serif": [
+      "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://uppababy.com/",
+      "selector": ".dbl_column .cms-block-image-text-row__column:nth-child(1) p.button a",
+      "declarations": "border:2px solid #F7F7F7;\n        background-color: #F7F7F7;\n        color: #0F0C0A;"
+    },
+    {
+      "source": "https://uppababy.com/",
+      "selector": ".dbl_column .cms-block-image-text-row__column:nth-child(1) p.button a:hover",
+      "declarations": "background-color: transparent;\n        color: #F7F7F7;"
+    },
+    {
+      "source": "https://uppababy.com/",
+      "selector": ".dbl_column .cms-block-image-text-row__column:nth-child(1) p.button a:active",
+      "declarations": "background-color: #F7F7F7;\n        color: #0F0C0A;\n        outline: 2px solid #0F0C0A;\n        outline-offset: -4px;"
+    },
+    {
+      "source": "https://uppababy.com/",
+      "selector": ".dbl_column p.button a",
+      "declarations": "border:2px solid #0F0C0A;\n      background-color: #0F0C0A;\n      color: #F7F7F7;\n      text-decoration:none;"
+    },
+    {
+      "source": "https://uppababy.com/",
+      "selector": ".dbl_column p.button a:hover",
+      "declarations": "background-color: transparent;\n      color: #0F0C0A;"
+    },
+    {
+      "source": "https://uppababy.com/",
+      "selector": ".dbl_column p.button a:active",
+      "declarations": "background-color:#0F0C0A;\n      color: #F7F7F7;\n      outline: 2px solid #F7F7F7;\n      outline-offset:-4px;"
+    },
+    {
+      "source": "https://uppababy.com/",
+      "selector": ".uppa-coming-banner .cms-element-text-wrap .button a",
+      "declarations": "padding: .25rem .75rem .375rem;\n        border-radius: 2rem;\n        border: 2px solid #0f0c0a;\n        display: inline-block;\n        background-color: #f7f7f7;\n        color: #0f0c0a;\n        line-height: 1;\n        text-decoration:none;"
+    },
+    {
+      "source": "https://uppababy.com/",
+      "selector": ".uppa-coming-banner .cms-element-text-wrap .button a:hover",
+      "declarations": "background-color: #0f0c0a;\n        color: #f7f7f7;"
+    },
+    {
+      "source": "https://uppababy.com/",
+      "selector": ".uppa-coming-banner .cms-element-text-wrap .button a:active",
+      "declarations": "outline:2px solid #f7f7f7;\n        outline-offset: -0.25rem;\n        background-color:#0f0c0a;\n        color:#f7f7f7;"
+    },
+    {
+      "source": "https://uppababy.com/",
+      "selector": "background-size:cover;\nmargin-bottom:20px;margin-top:20px;background-size:cover;\n\n\n.dbl_column h1,.dbl_column h2",
+      "declarations": "margin-bottom:0;line-height:1.25;font-family:gelica,agenda,sans-serif;font-size:2rem;padding-bottom:1rem"
+    },
+    {
+      "source": "https://uppababy.com/",
+      "selector": ".custom_hdr.hdr\\:display h1,.custom_hdr.hdr\\:display h2,.custom_hdr.hdr\\:display h3,.custom_hdr.hdr\\:display h4",
+      "declarations": "font-family:gelica,agenda,sans-serif"
+    },
+    {
+      "source": "https://uppababy.com/",
+      "selector": ".custom_hdr.hdr\\:heading h1,.custom_hdr.hdr\\:heading h2,.custom_hdr.hdr\\:heading h3,.custom_hdr.hdr\\:heading h4",
+      "declarations": "font-family:agenda,sans-serif"
+    },
+    {
+      "source": "https://uppababy.com/",
+      "selector": ".refresh_video .video_caption h1,.refresh_video .video_caption h2,.refresh_video .video_caption h3",
+      "declarations": "font-size:2.5rem;line-height:1.2;font-family:gelica,agenda,sans-serif;margin-bottom:.75rem"
+    },
+    {
+      "source": "https://uppababy.com/",
+      "selector": ".refresh_video .video_caption p.button a,.refresh_video .video_caption p.button a.underline",
+      "declarations": "padding:.5625rem 1.25rem .75rem;border-radius:2rem;background-color:#0f0c0a;border:.125rem solid #0f0c0a;color:#f7f7f7;text-box-trim:trim-both;display:inline-block;line-height:1;text-decoration:none"
+    },
+    {
+      "source": "https://uppababy.com/",
+      "selector": ".refresh_video .video_caption p.button a:hover,.refresh_video .video_caption p.button a.underline:hover",
+      "declarations": "background-color:#f7f7f7;color:#0f0c0a"
+    },
+    {
+      "source": "https://uppababy.com/",
+      "selector": ".trending_now p.button a",
+      "declarations": "text-align:center;color:#0f0c0a;height:initial;padding:.25rem 1rem;text-decoration:none;border:.125rem solid #0f0c0a"
+    },
+    {
+      "source": "https://uppababy.com/",
+      "selector": ".trending_now p.button a:hover",
+      "declarations": "background-color:#0f0c0a;color:#f7f7f7"
+    },
+    {
+      "source": "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font-family:inherit;font-feature-settings:inherit;font-size:100%;font-variation-settings:inherit;font-weight:inherit;line-height:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css",
+      "selector": "body a.underline.text-uppababy-DEFAULT:active,body a.underline:active,body button.text-btn:active,body button.underline:active,body nav a:active",
+      "declarations": "color:#53687c"
+    },
+    {
+      "source": "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css",
+      "selector": "body a.underline.text-uppababy-DEFAULT:focus,body a.underline:focus,body button.text-btn:focus,body button.underline:focus,body nav a:focus",
+      "declarations": "border-radius:4px;color:#0f0c0a;outline:2px dashed #0f0c0a;outline-offset:6px"
+    },
+    {
+      "source": "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css",
+      "selector": "body a.underline.light,body a.underline.text-uppababy-DEFAULT.light,body button.text-btn.light,body button.underline.light,body nav a.light",
+      "declarations": "color:#f7f7f7"
+    },
+    {
+      "source": "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css",
+      "selector": "body a.underline.light:active,body a.underline.text-uppababy-DEFAULT.light:active,body button.text-btn.light:active,body button.underline.light:active,body nav ",
+      "declarations": "color:#61baf5"
+    },
+    {
+      "source": "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css",
+      "selector": "body a.underline.light:focus,body a.underline.text-uppababy-DEFAULT.light:focus,body button.text-btn.light:focus,body button.underline.light:focus,body nav a.li",
+      "declarations": "outline-color:#f7f7f7"
+    },
+    {
+      "source": "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css",
+      "selector": "body a.hover\\:underline :active",
+      "declarations": "color:#0a629c"
+    },
+    {
+      "source": "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css",
+      "selector": "body a.hover\\:underline:focus",
+      "declarations": "color:#0f0c0a;fill:#0f0c0a;border-radius:4px;outline:2px dashed #0f0c0a;outline-offset:6px"
+    },
+    {
+      "source": "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css",
+      "selector": "body a.hover\\:underline.light",
+      "declarations": "color:#f7f7f7"
+    },
+    {
+      "source": "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css",
+      "selector": "body a.hover\\:underline.light:active",
+      "declarations": "color:#61baf5"
+    },
+    {
+      "source": "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css",
+      "selector": "body a.hover\\:underline.light:focus",
+      "declarations": "outline-color:#f7f7f7"
+    },
+    {
+      "source": "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css",
+      "selector": "body .footer-main-menu a.hover\\:underline:active,body .footer-top-wrap p a.hover\\:underline:active",
+      "declarations": "color:#61baf5"
+    },
+    {
+      "source": "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css",
+      "selector": "body .footer-main-menu a.hover\\:underline:focus,body .footer-top-wrap p a.hover\\:underline:focus",
+      "declarations": "border-radius:4px;color:#0f0c0a;outline:2px dashed #0f0c0a;outline-offset:6px"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Home | UPPAbaby",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uppababy.com/",
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css",
+        "https://uppababy.com/_nuxt/LayoutHeader.C8hs0u-p.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uppababy.com/",
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css",
+        "https://uppababy.com/_nuxt/LayoutHeader.C8hs0u-p.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css",
+        "https://uppababy.com/_nuxt/LayoutHeader.C8hs0u-p.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uppababy.com/",
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uppababy.com/",
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css",
+        "https://uppababy.com/_nuxt/LayoutHeader.C8hs0u-p.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uppababy.com/",
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css",
+        "https://uppababy.com/_nuxt/LayoutHeader.C8hs0u-p.css"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "colors.accent-sky": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "colors.accent-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "colors.accent-coral": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "colors.accent-tan": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uppababy.com/"
+      ]
+    },
+    "colors.accent-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css"
+      ]
+    },
+    "colors.overlay-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uppababy.com/_nuxt/entry.C8ja-Rlk.css",
+        "https://uppababy.com/_nuxt/LayoutHeader.C8hs0u-p.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.resource-tile": {
+      "status": "inferred"
+    }
+  }
+}

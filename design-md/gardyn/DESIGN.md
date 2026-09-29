@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Gardyn
-description: |
+name: "Gardyn"
+source_url: "https://mygardyn.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The palette arrives before the product pitch: #123c2e, a near-black forest green pulled from the deepest strata of a mature canopy, faces off against #fff8f2, a cream that reads like afternoon light filtering through greenhouse film. Between them, Gardyn positions two shot-of-energy accents — #ffa763, a harvest orange that appears on primary CTAs and urgency banners, and #c6ea5f, a young-leaf lime reserved for plant-variety badges and quantity indicators. The structural contrast between dark botanical authority and fresh-produce brightness is the brand's signature voltage: it suggests both the precision of hydroponic science and the pleasure of a Tuesday-morning harvest in your own kitchen.
 
   Type arrives in two distinct voices. P22 Mackinac Pro — a contemporary serif with soft, ink-press curves — handles all display work: hero headlines, product names, section openers. It runs at weights 400–500 rather than the slab-heavy 700 favoured by hardware DTC brands, leaning into legibility and warmth over mechanical force. P22 Underground, Edward Johnston's geometric sans-serif lineage redrawn for digital use, takes the UI layer: navigation labels, button copy, form fields, pricing, and caption data. Proxima Nova serves as the long-form body workhorse wherever body-md prose blocks appear. The result is a magazine editorial stack operating inside a functional e-commerce chassis.
@@ -427,6 +430,8 @@ components:
 - Footer: single-column stacked on mobile with accordion-toggle headings → 4-column grid at desktop
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No confirmed border-radius values from the live site; {rounded.full} for buttons and {rounded.lg/xl} for cards are inferred from hydroponic-brand conventions and the general DTC softness signalled by the warm palette
 - The exact font weight and size pairings for p22-mackinac-pro and p22-underground at specific breakpoints could not be extracted; values are calibrated to the editorial/precision register the palette implies

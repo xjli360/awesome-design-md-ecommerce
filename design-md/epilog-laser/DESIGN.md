@@ -1,9 +1,13 @@
 ---
 version: alpha
-name: Epilog Laser
-description: Machine photography dominates every page — the Fusion Edge, Zing, and MUSE series are lit against near-black slate (#2b2e38) in hero sections that feel closer to darkroom exposures than lifestyle marketing. That darkness is the canvas; the brand's voltage arrives in sky-blue (#6dcff6 and its deeper cousins #085e91 and #005689), colors that echo both the visible spectrum of a CO₂ laser beam and the clean-room palette of precision manufacturing. Epilog runs the entire site on Arial with no custom typeface and no web-font payload, trusting machine specs, cut-speed charts, and wattage comparisons to carry authority over typographic gesture. The system-font stack is a deliberate B2B signal: this brand sells to shop owners and engineers who scan spec tables before they read headlines.
+name: "Epilog Laser"
+source_url: "https://www.epiloglaser.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Machine photography dominates every page — the Fusion Edge, Zing, and MUSE series are lit against near-black slate (#2b2e38) in hero sections that feel closer to darkroom exposures than lifestyle marketing. That darkness is the canvas; the brand's voltage arrives in sky-blue (#6dcff6 and its deeper cousins #085e91 and #005689), colors that echo both the visible spectrum of a CO₂ laser beam and the clean-room palette of precision manufacturing. Epilog runs the entire site on Arial with no custom typeface and no web-font payload, trusting machine specs, cut-speed charts, and wattage comparisons to carry authority over typographic gesture. The system-font stack is a deliberate B2B signal: this brand sells to shop owners and engineers who scan spec tables before they read headlines.
 
-Red (#dd3737) is deliberately narrow in application — safety callouts, urgent badges, and nothing else. It never bleeds into general marketing surface, keeping the overall read disciplined rather than promotional. Deep blues (#005689, #085e91) anchor navigation and primary CTAs; the lighter sky accent (#6dcff6) lifts hero gradients and series identification badges. Corner radii stay minimal throughout, barely above square ({rounded.xs} to {rounded.sm}), matching the machined-metal aesthetic of the hardware itself. Section spacing runs wide — Epilog separates product families, application galleries, and spec blocks with room enough that the page breathes despite its dense technical content. A note on the extracted palette: many colorful hex values (#ff6900, #fcb900, #9b51e0, and others) appear to be WordPress Gutenberg editor swatch artifacts rather than brand tokens and have been excluded; the true brand vocabulary is the blue-slate-red triad defined here.
+  Red (#dd3737) is deliberately narrow in application — safety callouts, urgent badges, and nothing else. It never bleeds into general marketing surface, keeping the overall read disciplined rather than promotional. Deep blues (#005689, #085e91) anchor navigation and primary CTAs; the lighter sky accent (#6dcff6) lifts hero gradients and series identification badges. Corner radii stay minimal throughout, barely above square ({rounded.xs} to {rounded.sm}), matching the machined-metal aesthetic of the hardware itself. Section spacing runs wide — Epilog separates product families, application galleries, and spec blocks with room enough that the page breathes despite its dense technical content. A note on the extracted palette: many colorful hex values (#ff6900, #fcb900, #9b51e0, and others) appear to be WordPress Gutenberg editor swatch artifacts rather than brand tokens and have been excluded; the true brand vocabulary is the blue-slate-red triad defined here.
 
 colors:
   primary: "#085e91"
@@ -352,6 +356,8 @@ components:
 - Footer four-column grid: 2-col at tablet; accordion (all closed by default) at mobile to reduce scroll depth
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom brand typeface detected — the site runs Arial / Helvetica CY / Nimbus Sans L system fonts entirely; type scale values above are inferred from B2B industrial site conventions rather than extracted computed styles
 - Many extracted hex values (#ff6900, #fcb900, #7bdcb5, #00d084, #9b51e0, #8ed1fc, #0693e3, #81c784, #66bb6a, and others) are standard WordPress Gutenberg editor palette swatches, not Epilog brand tokens; they have been excluded

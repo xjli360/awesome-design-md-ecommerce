@@ -1,11 +1,15 @@
 ---
 version: alpha
-name: Cardstock Warehouse
-description: Amber ink on periwinkle stock — the dominant CTA color (#ff9f1c) lands against soft lavender category chips (#bbc1e1) and a barely-blue canvas (#f5f9ff) that reads like lightly tinted card stock rather than blank white. Raleway, a geometric sans with Art Nouveau echoes in its letterforms, carries every heading at weight 700, giving the headline type a distinctiveness that neutral system stacks cannot offer. Body and navigation text settles into a cooled slate (#50596c): not warm gray, not cold charcoal, but the color of a soft pencil line on smooth card.
+name: "Cardstock Warehouse"
+source_url: "https://www.cardstockwarehouse.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Amber ink on periwinkle stock — the dominant CTA color (#ff9f1c) lands against soft lavender category chips (#bbc1e1) and a barely-blue canvas (#f5f9ff) that reads like lightly tinted card stock rather than blank white. Raleway, a geometric sans with Art Nouveau echoes in its letterforms, carries every heading at weight 700, giving the headline type a distinctiveness that neutral system stacks cannot offer. Body and navigation text settles into a cooled slate (#50596c): not warm gray, not cold charcoal, but the color of a soft pencil line on smooth card.
 
-The periwinkle family runs three depths — #899df1 for active UI states, #bbc1e1 for filter chips and surface accents, #e1e6f9 for soft background fills — giving the shop a tonal range tuned to selling paper by color swatch. Sale badges snap to #e63946, alert-red like a stamped discount sticker; forest green (#2e7e4b) flags in-stock status. Pale amber (#faeaa1) fills site-wide promotional banners without the visual noise of the full primary orange. Every interactive edge softens: inputs sit at {rounded.sm}, product cards at {rounded.md}, and filter pills expand to {rounded.full}, so the overall register is boutique stationery studio rather than warehouse liquidator.
+  The periwinkle family runs three depths — #899df1 for active UI states, #bbc1e1 for filter chips and surface accents, #e1e6f9 for soft background fills — giving the shop a tonal range tuned to selling paper by color swatch. Sale badges snap to #e63946, alert-red like a stamped discount sticker; forest green (#2e7e4b) flags in-stock status. Pale amber (#faeaa1) fills site-wide promotional banners without the visual noise of the full primary orange. Every interactive edge softens: inputs sit at {rounded.sm}, product cards at {rounded.md}, and filter pills expand to {rounded.full}, so the overall register is boutique stationery studio rather than warehouse liquidator.
 
-Spacing leans generous, using {spacing.section} (64px) gaps between content rows — the whitespace logic of a well-laid magazine spread rather than a tightly packed category page. The type scale runs Raleway from 36px display headings down to 11px badge labels, with slight negative letter-spacing at large sizes and subtle positive tracking on uppercase badge text to keep small caps sharp. The result is a paper shop confident enough in its curation to give each product room to breathe.
+  Spacing leans generous, using {spacing.section} (64px) gaps between content rows — the whitespace logic of a well-laid magazine spread rather than a tightly packed category page. The type scale runs Raleway from 36px display headings down to 11px badge labels, with slight negative letter-spacing at large sizes and subtle positive tracking on uppercase badge text to keep small caps sharp. The result is a paper shop confident enough in its curation to give each product room to breathe.
 
 colors:
   primary: "#ff9f1c"
@@ -348,6 +352,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No brand font files confirmed beyond the Raleway stack — weight variants (100–900 available in Raleway) used at each scale are inferred from visual pattern, not extracted from CSS
 - Meta theme-color not set; exact nav and header background tones cannot be definitively confirmed from extraction alone

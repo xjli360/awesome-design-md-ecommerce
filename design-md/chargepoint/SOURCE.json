@@ -1,0 +1,888 @@
+{
+  "source_url": "https://chargepoint.com",
+  "final_url": "https://www.chargepoint.com/",
+  "captured_at": "2026-09-28T04:30:54.348117+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://chargepoint.com",
+      "final_url": "https://www.chargepoint.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "bb3a04ec0602be5a7fbde4bb4bd8c481baff8d262ddf44564f7f611cec614a42",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.chargepoint.com/sites/default/files/css/css_H0VCOAweQHeQEzXRfxLOW4HtQxmTe2SeJ6lAB5fRidI.css?delta=0&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "final_url": "https://www.chargepoint.com/sites/default/files/css/css_H0VCOAweQHeQEzXRfxLOW4HtQxmTe2SeJ6lAB5fRidI.css?delta=0&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1144490c1fc2d811e79c1ce11d629aeeecb4d834fc2ce403f8f8eb812eceaccb",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "final_url": "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3b11d51f73f4e8b37a368ccaa54dc5825572fee65c92534b3d815c3820c69600",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.4.1/css/swiper.min.css",
+      "final_url": "https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.4.1/css/swiper.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "cfbf080e7ccc96464af2fd824f0335f67c209a9a9b09262246d046a97f5b9ac0",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.chargepoint.com/sites/default/files/css/css_GuVrKiWnVh5KLPS2FblNGMqn5dQXMa5-VSHvpz81RKE.css?delta=3&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "final_url": "https://www.chargepoint.com/sites/default/files/css/css_GuVrKiWnVh5KLPS2FblNGMqn5dQXMa5-VSHvpz81RKE.css?delta=3&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "61667cbdfd1c27987cf04f28af9bdcc0f26a517ed2b93ce56a4e3b7dedb16739",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 115,
+      "sources": [
+        "https://www.chargepoint.com/",
+        "https://www.chargepoint.com/sites/default/files/css/css_H0VCOAweQHeQEzXRfxLOW4HtQxmTe2SeJ6lAB5fRidI.css?delta=0&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+        "https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.4.1/css/swiper.min.css",
+        "https://www.chargepoint.com/sites/default/files/css/css_GuVrKiWnVh5KLPS2FblNGMqn5dQXMa5-VSHvpz81RKE.css?delta=3&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#cbd6df": {
+      "count": 34,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_H0VCOAweQHeQEzXRfxLOW4HtQxmTe2SeJ6lAB5fRidI.css?delta=0&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#dddddd": {
+      "count": 23,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_H0VCOAweQHeQEzXRfxLOW4HtQxmTe2SeJ6lAB5fRidI.css?delta=0&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#7a9caf": {
+      "count": 20,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#0f588a": {
+      "count": 17,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_H0VCOAweQHeQEzXRfxLOW4HtQxmTe2SeJ6lAB5fRidI.css?delta=0&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#ff7a14": {
+      "count": 17,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#eeeeee": {
+      "count": 16,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_H0VCOAweQHeQEzXRfxLOW4HtQxmTe2SeJ6lAB5fRidI.css?delta=0&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#777777": {
+      "count": 15,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#555555": {
+      "count": 14,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#0076a8": {
+      "count": 14,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#000000": {
+      "count": 10,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+        "https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.4.1/css/swiper.min.css"
+      ]
+    },
+    "#f6f8f9": {
+      "count": 8,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_H0VCOAweQHeQEzXRfxLOW4HtQxmTe2SeJ6lAB5fRidI.css?delta=0&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#333333": {
+      "count": 8,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 8,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#cccccc": {
+      "count": 7,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#3c763d": {
+      "count": 6,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#8a6d3b": {
+      "count": 6,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#a94442": {
+      "count": 6,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#080808": {
+      "count": 6,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#9d9d9d": {
+      "count": 6,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#e7f6fd": {
+      "count": 6,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#999999": {
+      "count": 5,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#e7e7e7": {
+      "count": 5,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#b84500": {
+      "count": 5,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#dee5d4": {
+      "count": 5,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#126636": {
+      "count": 4,
+      "sources": [
+        "https://www.chargepoint.com/",
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#fcf8e3": {
+      "count": 4,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 4,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#95d4e9": {
+      "count": 4,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#dedede": {
+      "count": 4,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#666666": {
+      "count": 4,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 3,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_H0VCOAweQHeQEzXRfxLOW4HtQxmTe2SeJ6lAB5fRidI.css?delta=0&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#dff0d8": {
+      "count": 3,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#f2dede": {
+      "count": 3,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#444444": {
+      "count": 3,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#495e6b": {
+      "count": 3,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#e0eaee": {
+      "count": 3,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#e06100": {
+      "count": 2,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#2b542c": {
+      "count": 2,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#66512c": {
+      "count": 2,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#843534": {
+      "count": 2,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#d9edf7": {
+      "count": 2,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 2,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#67b168": {
+      "count": 2,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#c0a16b": {
+      "count": 2,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#ce8483": {
+      "count": 2,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#80000000": {
+      "count": 2,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#949494": {
+      "count": 2,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#00ffffff": {
+      "count": 2,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 2,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#e75516": {
+      "count": 2,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#fcb315": {
+      "count": 2,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#6ba43a": {
+      "count": 2,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#a5cd23": {
+      "count": 2,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#2a84b8": {
+      "count": 2,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 2,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#aa7a9caf": {
+      "count": 2,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#f1f5f9": {
+      "count": 2,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "#94a3b8": {
+      "count": 2,
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    }
+  },
+  "font_families": {
+    "Gotham Narrow SSm A": [
+      "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+    ],
+    "Gotham Narrow SSm B": [
+      "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+    ],
+    "inherit !important": [
+      "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+    ],
+    "monospace": [
+      "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+    ],
+    "sans-serif": [
+      "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+    ],
+    "serif": [
+      "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.chargepoint.com/sites/default/files/css/css_H0VCOAweQHeQEzXRfxLOW4HtQxmTe2SeJ6lAB5fRidI.css?delta=0&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "selector": ":root",
+      "declarations": "--popoverPos:20px;--productNavPos:auto;"
+    },
+    {
+      "source": "https://www.chargepoint.com/sites/default/files/css/css_H0VCOAweQHeQEzXRfxLOW4HtQxmTe2SeJ6lAB5fRidI.css?delta=0&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "selector": "header.navbar.navbar-default .arrow.up",
+      "declarations": "transform:rotate(-135deg);-webkit-transform:rotate(-135deg);border-color:#0F588A;"
+    },
+    {
+      "source": "https://www.chargepoint.com/sites/default/files/css/css_H0VCOAweQHeQEzXRfxLOW4HtQxmTe2SeJ6lAB5fRidI.css?delta=0&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "selector": "header.navbar.navbar-default .active,header.navbar.navbar-default .active .arrow",
+      "declarations": "border-color:var(--dark-blue);color:var(--dark-blue);"
+    },
+    {
+      "source": "https://www.chargepoint.com/sites/default/files/css/css_H0VCOAweQHeQEzXRfxLOW4HtQxmTe2SeJ6lAB5fRidI.css?delta=0&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "selector": ".cp-main-navigation-first-level>li>button.cp-main-parent:hover,#cp-product-subnav .cp-ProductNav_Link:hover,.subnav-cta a:hover",
+      "declarations": "color:#0F588A;"
+    },
+    {
+      "source": "https://www.chargepoint.com/sites/default/files/css/css_H0VCOAweQHeQEzXRfxLOW4HtQxmTe2SeJ6lAB5fRidI.css?delta=0&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "selector": "#cp-product-subnav ul li:not(.cp-Product_Name):hover:after,#cp-product-subnav ul li:not(.cp-Product_Name).active:after",
+      "declarations": "width:100%;background-color:#0F588A;"
+    },
+    {
+      "source": "https://www.chargepoint.com/sites/default/files/css/css_H0VCOAweQHeQEzXRfxLOW4HtQxmTe2SeJ6lAB5fRidI.css?delta=0&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "selector": "#cp-product-subnav",
+      "declarations": "display:flex;width:100%;background-color:#FFFFFF;"
+    },
+    {
+      "source": "https://www.chargepoint.com/sites/default/files/css/css_H0VCOAweQHeQEzXRfxLOW4HtQxmTe2SeJ6lAB5fRidI.css?delta=0&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "selector": "#cp-product-subnav ul",
+      "declarations": "display:flex;margin:0 auto;padding:0px;width:1400px;color:var(--black);gap:80px;"
+    },
+    {
+      "source": "https://www.chargepoint.com/sites/default/files/css/css_H0VCOAweQHeQEzXRfxLOW4HtQxmTe2SeJ6lAB5fRidI.css?delta=0&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "selector": "#cp-product-subnav ul li.active a",
+      "declarations": "color:#0F588A;pointer-events:none;cursor:default;"
+    },
+    {
+      "source": "https://www.chargepoint.com/sites/default/files/css/css_H0VCOAweQHeQEzXRfxLOW4HtQxmTe2SeJ6lAB5fRidI.css?delta=0&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "selector": ".cp-ProductNav_Wrapper",
+      "declarations": "position:relative;padding:0 25px;background-color:#FFFFFF;border-bottom:1px solid #EEEEEE;max-width:1413px;margin:0 auto;"
+    },
+    {
+      "source": "https://www.chargepoint.com/sites/default/files/css/css_H0VCOAweQHeQEzXRfxLOW4HtQxmTe2SeJ6lAB5fRidI.css?delta=0&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "selector": ".cp-ProductNav_Link",
+      "declarations": "text-decoration:none;color:var(--black);font-size:1rem;"
+    },
+    {
+      "source": "https://www.chargepoint.com/sites/default/files/css/css_H0VCOAweQHeQEzXRfxLOW4HtQxmTe2SeJ6lAB5fRidI.css?delta=0&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "selector": ".cp-Product_Name",
+      "declarations": "color:var(--black);font-size:1rem;line-height:49px;"
+    },
+    {
+      "source": "https://www.chargepoint.com/sites/default/files/css/css_H0VCOAweQHeQEzXRfxLOW4HtQxmTe2SeJ6lAB5fRidI.css?delta=0&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "selector": ".cp-ProductNav_Link[aria-label=\"selected\"]",
+      "declarations": "color:#0F588A"
+    },
+    {
+      "source": "https://www.chargepoint.com/sites/default/files/css/css_H0VCOAweQHeQEzXRfxLOW4HtQxmTe2SeJ6lAB5fRidI.css?delta=0&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "selector": "header.navbar.navbar-default .region-utility a.active",
+      "declarations": "font-weight:400;color:var(--charcoal);pointer-events:none;"
+    },
+    {
+      "source": "https://www.chargepoint.com/sites/default/files/css/css_H0VCOAweQHeQEzXRfxLOW4HtQxmTe2SeJ6lAB5fRidI.css?delta=0&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "selector": ".cp-nav-products .cp-product-tabs .group-tab.active",
+      "declarations": "font-weight:500;background:#fff;border-bottom-color:#cbd6df;border-right:1px solid #fff;border-left:3px solid #0f588a;color:#0f588a;"
+    },
+    {
+      "source": "https://www.chargepoint.com/sites/default/files/css/css_H0VCOAweQHeQEzXRfxLOW4HtQxmTe2SeJ6lAB5fRidI.css?delta=0&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "selector": ".cp-nav-products .cp-product-tabs-content>ul",
+      "declarations": "display:none;background-color:#fff;padding:0.8rem 0 2rem 0.8rem;grid-template-columns:repeat(3,1fr);gap:1rem 2rem;"
+    },
+    {
+      "source": "https://www.chargepoint.com/sites/default/files/css/css_H0VCOAweQHeQEzXRfxLOW4HtQxmTe2SeJ6lAB5fRidI.css?delta=0&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "selector": ".cp-nav-products .sub-grid>div",
+      "declarations": "border-top:1px solid #CBD6DF;border-bottom:1px solid #CBD6DF;color:var(--charcoal);margin:2rem 0 1rem 0;padding:0.5rem 0;"
+    },
+    {
+      "source": "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0;"
+    },
+    {
+      "source": "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "selector": "body",
+      "declarations": "font-family:'Gotham Narrow SSm A','Gotham Narrow SSm B',sans-serif;font-size:16px;line-height:1.42857143;color:var(--black);background-color:#ffffff;"
+    },
+    {
+      "source": "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "selector": "input,button,select,textarea",
+      "declarations": "font-family:inherit;font-size:inherit;line-height:inherit;"
+    },
+    {
+      "source": "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "selector": "h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6",
+      "declarations": "font-family:inherit;font-weight:200;line-height:1.1;"
+    },
+    {
+      "source": "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "selector": "h1,h2,.h1,.h2",
+      "declarations": "color:var(--charcoal);font-weight:400;line-height:1.2;"
+    },
+    {
+      "source": "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "selector": "small,h6 small,.h1 small,.h2 small,.h3 small,.h4 small,.h5 small,.h6 small,h1 .small,h2 .small,h3 .small,h4 .small,h5 .small,h6 .small,.h1 .small,.h2 .small,.h3",
+      "declarations": "font-weight:normal;line-height:1;color:#777777;"
+    },
+    {
+      "source": "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "selector": ".table-striped>tbody>tr:nth-of-type(odd)",
+      "declarations": "background-color:#f9f9f9;"
+    },
+    {
+      "source": "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "selector": ".table-hover>tbody>tr:hover",
+      "declarations": "background-color:#f5f5f5;"
+    },
+    {
+      "source": "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "selector": "tbody>tr>th.active,.table>tfoot>tr>th.active,.table>thead>tr.active>td,.table>tbody>tr.active>td,.table>tfoot>tr.active>td,.table>thead>tr.active>th,.table>tbod",
+      "declarations": "background-color:#f5f5f5;"
+    },
+    {
+      "source": "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "selector": ".table-hover>tbody>tr>td.active:hover,.table-hover>tbody>tr>th.active:hover,.table-hover>tbody>tr.active:hover>td,.table-hover>tbody>tr:hover>.active,.table-hov",
+      "declarations": "background-color:#e8e8e8;"
+    },
+    {
+      "source": "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "selector": ">th.success,.table>tfoot>tr>th.success,.table>thead>tr.success>td,.table>tbody>tr.success>td,.table>tfoot>tr.success>td,.table>thead>tr.success>th,.table>tbody>",
+      "declarations": "background-color:#dff0d8;"
+    },
+    {
+      "source": "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "selector": ".table-hover>tbody>tr>td.success:hover,.table-hover>tbody>tr>th.success:hover,.table-hover>tbody>tr.success:hover>td,.table-hover>tbody>tr:hover>.success,.table",
+      "declarations": "background-color:#d0e9c6;"
+    },
+    {
+      "source": "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "selector": ">th.info,.table>tbody>tr>th.info,.table>tfoot>tr>th.info,.table>thead>tr.info>td,.table>tbody>tr.info>td,.table>tfoot>tr.info>td,.table>thead>tr.info>th,.table>",
+      "declarations": "background-color:#d9edf7;"
+    },
+    {
+      "source": "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+      "selector": ".table-hover>tbody>tr>td.info:hover,.table-hover>tbody>tr>th.info:hover,.table-hover>tbody>tr.info:hover>td,.table-hover>tbody>tr:hover>.info,.table-hover>tbody",
+      "declarations": "background-color:#c4e3f3;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "EVSE | Electric Vehicle (EV) Charging Stations | ChargePoint",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_H0VCOAweQHeQEzXRfxLOW4HtQxmTe2SeJ6lAB5fRidI.css?delta=0&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+        "https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.4.1/css/swiper.min.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chargepoint.com/",
+        "https://www.chargepoint.com/sites/default/files/css/css_H0VCOAweQHeQEzXRfxLOW4HtQxmTe2SeJ6lAB5fRidI.css?delta=0&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+        "https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.4.1/css/swiper.min.css",
+        "https://www.chargepoint.com/sites/default/files/css/css_GuVrKiWnVh5KLPS2FblNGMqn5dQXMa5-VSHvpz81RKE.css?delta=3&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_H0VCOAweQHeQEzXRfxLOW4HtQxmTe2SeJ6lAB5fRidI.css?delta=0&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "colors.hairline-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_H0VCOAweQHeQEzXRfxLOW4HtQxmTe2SeJ6lAB5fRidI.css?delta=0&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_H0VCOAweQHeQEzXRfxLOW4HtQxmTe2SeJ6lAB5fRidI.css?delta=0&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chargepoint.com/",
+        "https://www.chargepoint.com/sites/default/files/css/css_H0VCOAweQHeQEzXRfxLOW4HtQxmTe2SeJ6lAB5fRidI.css?delta=0&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+        "https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.4.1/css/swiper.min.css",
+        "https://www.chargepoint.com/sites/default/files/css/css_GuVrKiWnVh5KLPS2FblNGMqn5dQXMa5-VSHvpz81RKE.css?delta=3&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chargepoint.com/",
+        "https://www.chargepoint.com/sites/default/files/css/css_H0VCOAweQHeQEzXRfxLOW4HtQxmTe2SeJ6lAB5fRidI.css?delta=0&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+        "https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.4.1/css/swiper.min.css",
+        "https://www.chargepoint.com/sites/default/files/css/css_GuVrKiWnVh5KLPS2FblNGMqn5dQXMa5-VSHvpz81RKE.css?delta=3&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "colors.border-default": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_H0VCOAweQHeQEzXRfxLOW4HtQxmTe2SeJ6lAB5fRidI.css?delta=0&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw",
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "colors.link-secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "colors.info-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "colors.info-border": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "colors.success-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "colors.success-text": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "colors.warning-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "colors.warning-text": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "colors.danger-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "colors.danger-text": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "colors.charcoal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.chargepoint.com/sites/default/files/css/css_s_0GIwGrOFWXaXn-4_YS3DAbgBhe_fUkeLnj_St3LP8.css?delta=1&language=en&theme=chargepoint&include=eJxt0VuOwyAMBdANhWQns4XKgRuwhofHQKvsflCqeVD10-ciY4wNpB5SOLeNMidqXLKp7YxY7L9spzqDU2NJ24vxHWqEPOoUHHW0ZPt5GltiT3kKA8hBd9JJxygeJpF-dcw3x9Ia482MFaQ2mNdOTz6KppkfLJhPPtjBBGh5r6aM1-moFiu3THf217Y2Kx-_xYLcuJ03pB1usyQXJjim7eDYoOsPCil5JQl1LK4LxfVP1p6l75FrgFvqWRvS9QXfsEKoCw"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.button-accent": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-nav-dropdown": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.station-status-tag": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: BioLite
-description: A teal (#008fa1) voltage runs through every BioLite interface like the glow of a camp stove at dusk — the brand's primary is a cool, deep cyan that reads as both outdoor-ready and tech-forward, distinct from the olive-and-charcoal palette of legacy camping gear companies. That teal anchors CTAs, the site's sticky top bar, and product-badge accents, while a secondary red (#d02f2e) appears sparingly for sale markers and error states, creating a stoplight-like tension against the otherwise calm palette. The canvas is a warm off-white (#faf0e4) rather than pure white, suggesting paper, tent fabric, or the inside of a fire-starting bellows — a subtle but deliberate departure from the sterile ecommerce norm. Typography pairs Fraunces, a variable serif with soft, almost edible curves, for display headings, with Arimo, a clean neo-grotesk sans, for body and UI text; the contrast is less "heritage meets modern" and more "campfire storytelling meets instrument panel." Product cards use generous white space, a soft hairline (#dedede), and a single teal accent line on hover, while the footer collapses into a dense, link-heavy column grid that mirrors the brand's dual identity (outdoor gear + energy tech). The overall mood is capable but warm — a brand that trusts its product photography to sell the romance of the backcountry, and uses the interface to stay out of the way.
+name: "BioLite"
+source_url: "https://www.bioliteenergy.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A teal (#008fa1) voltage runs through every BioLite interface like the glow of a camp stove at dusk — the brand's primary is a cool, deep cyan that reads as both outdoor-ready and tech-forward, distinct from the olive-and-charcoal palette of legacy camping gear companies. That teal anchors CTAs, the site's sticky top bar, and product-badge accents, while a secondary red (#d02f2e) appears sparingly for sale markers and error states, creating a stoplight-like tension against the otherwise calm palette. The canvas is a warm off-white (#faf0e4) rather than pure white, suggesting paper, tent fabric, or the inside of a fire-starting bellows — a subtle but deliberate departure from the sterile ecommerce norm. Typography pairs Fraunces, a variable serif with soft, almost edible curves, for display headings, with Arimo, a clean neo-grotesk sans, for body and UI text; the contrast is less "heritage meets modern" and more "campfire storytelling meets instrument panel." Product cards use generous white space, a soft hairline (#dedede), and a single teal accent line on hover, while the footer collapses into a dense, link-heavy column grid that mirrors the brand's dual identity (outdoor gear + energy tech). The overall mood is capable but warm — a brand that trusts its product photography to sell the romance of the backcountry, and uses the interface to stay out of the way.
 
 colors:
   primary: "#008fa1"
@@ -319,6 +323,8 @@ components:
 - Product image galleries collapse from thumbnail grid to single-image swipe carousel below 744px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for most components were inferred from common ecommerce patterns; the live site may use different transitions or micro-interactions
 - Error state styling for form inputs (red borders, error message typography) was not extractable from the static HTML/CSS

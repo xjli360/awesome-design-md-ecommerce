@@ -1,0 +1,646 @@
+{
+  "source_url": "https://www.dragcity.com",
+  "final_url": "https://www.dragcity.com/",
+  "captured_at": "2026-09-28T05:08:56.706490+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.dragcity.com",
+      "final_url": "https://www.dragcity.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "de12a818417f124f06729f4f817174a38dc7ce5c15d3342bb2b59ae067b9f95e",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css",
+      "final_url": "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a4d5769b383ba260ac05bf131ca9bd69a4c32179d3277cd854e0494aaa280a11",
+      "snapshot": "stylesheet-1.css"
+    }
+  ],
+  "colors": {
+    "#333333": {
+      "count": 67,
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "#0098ff": {
+      "count": 30,
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 11,
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "#cc1804": {
+      "count": 9,
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "#999999": {
+      "count": 8,
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "#666666": {
+      "count": 8,
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "#000000": {
+      "count": 5,
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 4,
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "#444444": {
+      "count": 4,
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "#e1f2fd": {
+      "count": 3,
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "#00ffffff": {
+      "count": 2,
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "#00aef0": {
+      "count": 2,
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 2,
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "#e3e4e4": {
+      "count": 2,
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 1,
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "#9cc4dc": {
+      "count": 1,
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 1,
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "#e6001b": {
+      "count": 1,
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "#00721e": {
+      "count": 1,
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "#a5b8c4": {
+      "count": 1,
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "#c2c2c2": {
+      "count": 1,
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "#474747": {
+      "count": 1,
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "#ff2a00": {
+      "count": 1,
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "#e7f3fa": {
+      "count": 1,
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "#eeee00": {
+      "count": 1,
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+    ],
+    "Georgia": [
+      "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+    ],
+    "Helvetica": [
+      "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+    ],
+    "Times New Roman": [
+      "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+    ],
+    "sans-serif": [
+      "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+    ],
+    "serif": [
+      "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css",
+      "selector": ".mp3-player .control button",
+      "declarations": "position:absolute;border:none;background-color:transparent;padding:0;width:26px;height:26px;background-image:url(/assets/mp3/sidebar_player_button_bg-a590234f3494f7b7e93efefaccf19e00.png)"
+    },
+    {
+      "source": "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css",
+      "selector": "body",
+      "declarations": "background:#9cc4dc url(/assets/body_bg-a809baae8289767b9b5f8ac6c65f3d81.gif) repeat-x;color:#666;font-family:Georgia,\"Times New Roman\",serif;font-size:14px;line-height:18px"
+    },
+    {
+      "source": "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css",
+      "selector": ".site-navigation .primary li.search button",
+      "declarations": "margin-left:12px;margin-top:-2px;padding:0;width:78px;height:25px;border:none;background-color:transparent;background-position:-679px -4px"
+    },
+    {
+      "source": "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css",
+      "selector": ".content-heading h1 span.untitled",
+      "declarations": "padding-left:20px;padding-right:20px;width:1007px;height:68px;font-size:36px;color:#000;line-height:68px"
+    },
+    {
+      "source": "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css",
+      "selector": ".product-list h2,.product-list h3",
+      "declarations": "color:#333;margin-left:15px"
+    },
+    {
+      "source": "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css",
+      "selector": ".product-list h2 a,.product-list h3 a",
+      "declarations": "color:#333"
+    },
+    {
+      "source": "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css",
+      "selector": ".product-list h2 a:hover,.product-list h3 a:hover",
+      "declarations": "color:#0098ff"
+    },
+    {
+      "source": "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css",
+      "selector": "button",
+      "declarations": "padding:0;border:0;background-color:transparent"
+    },
+    {
+      "source": "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css",
+      "selector": ".sidebar .reviews .body",
+      "declarations": "background:url(/assets/artist_assets_body_bg-c069761d03d2e28cb51c50f06af33d15.png) top left;padding:5px 15px 0;font-family:Arial,Helvetica,sans-serif"
+    },
+    {
+      "source": "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css",
+      "selector": ".sidebar .reviews .body a",
+      "declarations": "color:#333"
+    },
+    {
+      "source": "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css",
+      "selector": ".sidebar .reviews .body a:hover",
+      "declarations": "color:#0098ff"
+    },
+    {
+      "source": "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css",
+      "selector": "ntent .page .body h5,#pages.show .content .page .body h6,#pages.show .sidebar h1,#pages.show .sidebar h2,#pages.show .sidebar h3,#pages.show .sidebar h4,#pages.",
+      "declarations": "color:#474747;font-weight:bold;margin-bottom:14px"
+    },
+    {
+      "source": "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css",
+      "selector": "#home #new-releases .product-list .body",
+      "declarations": "background-color:#FFFFFF;width:100%"
+    },
+    {
+      "source": "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css",
+      "selector": "#artists.show .biography h1,#artists.show .discography h1",
+      "declarations": "color:#333;font-weight:bold;font-size:28px;line-height:28px;margin-bottom:20px"
+    },
+    {
+      "source": "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css",
+      "selector": "#artists.show .sidebar .press-assets .body",
+      "declarations": "background:url(/assets/artist_assets_body_bg-c069761d03d2e28cb51c50f06af33d15.png) top left;padding:5px 15px 0;font-family:Arial,Helvetica,sans-serif"
+    },
+    {
+      "source": "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css",
+      "selector": "#artists.show .sidebar .press-assets .body a",
+      "declarations": "color:#333"
+    },
+    {
+      "source": "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css",
+      "selector": "#artists.show .sidebar .press-assets .body a:hover",
+      "declarations": "color:#0098ff"
+    },
+    {
+      "source": "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css",
+      "selector": "#artists.show .sidebar .press-clips .body",
+      "declarations": "background:url(/assets/artist_assets_body_bg-c069761d03d2e28cb51c50f06af33d15.png) top left;padding:5px 15px 0;font-family:Arial,Helvetica,sans-serif"
+    },
+    {
+      "source": "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css",
+      "selector": "#artists.show .sidebar .press-clips .body a",
+      "declarations": "color:#333"
+    },
+    {
+      "source": "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css",
+      "selector": "#artists.show .sidebar .press-clips .body a:hover",
+      "declarations": "color:#0098ff"
+    },
+    {
+      "source": "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css",
+      "selector": "#products.show .main-info",
+      "declarations": "overflow:hidden;*zoom:1;position:relative;margin-bottom:30px;width:665px;margin-bottom:18px;color:#333"
+    },
+    {
+      "source": "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css",
+      "selector": "#products.show .main-info a",
+      "declarations": "color:#333"
+    },
+    {
+      "source": "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css",
+      "selector": "#products.show .main-info a:hover",
+      "declarations": "color:#0098ff"
+    },
+    {
+      "source": "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css",
+      "selector": "#products.show .main-info li.odd",
+      "declarations": "background-color:#e1f2fd"
+    },
+    {
+      "source": "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css",
+      "selector": "#products.show .main-info .items tr.odd td",
+      "declarations": "background-color:#e1f2fd"
+    },
+    {
+      "source": "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css",
+      "selector": "#products.show .main-info .items .price.on-sale .sale-price",
+      "declarations": "color:#cc1804"
+    },
+    {
+      "source": "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css",
+      "selector": "#products.show .main-info .track-list h2",
+      "declarations": "height:36px;width:627px;background:url(/assets/track_list_header-2ace12a772cb3ca62a30f2695671e5c7.png);line-height:33px;font-family:Arial,Helvetica,sans-serif;color:#FFF;font-size:14px;padding-left:20px"
+    },
+    {
+      "source": "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css",
+      "selector": "#products.show .description h1",
+      "declarations": "font-size:21px;line-height:18px;color:#333;font-weight:bold;margin-bottom:1em"
+    },
+    {
+      "source": "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css",
+      "selector": "#products.show .sidebar .reviews",
+      "declarations": "overflow:hidden;*zoom:1;position:relative;margin-bottom:30px;color:#333;width:274px"
+    },
+    {
+      "source": "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css",
+      "selector": "#products.show .sidebar .reviews .body",
+      "declarations": "background:url(/assets/artist_assets_body_bg-c069761d03d2e28cb51c50f06af33d15.png) top left;padding:5px 15px 0;font-family:Arial,Helvetica,sans-serif"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Drag City",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "colors.text-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "colors.text-mid": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "colors.heading-gray": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "colors.muted-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "colors.muted-mid": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "colors.border-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "colors.border-softer": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "colors.page-band": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "colors.pale-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "colors.pale-blue-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "colors.cool-blue-gray": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "colors.secondary-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "colors.accent-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "colors.accent-bright-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "colors.accent-orange-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "colors.accent-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "colors.accent-yellow": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dragcity.com/assets/application-bf22174781e55f6d019cb645d638939b.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.audio-player": {
+      "status": "inferred"
+    }
+  }
+}

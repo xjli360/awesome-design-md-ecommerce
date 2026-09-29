@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Solo Stove
-description: |
+name: "Solo Stove"
+source_url: "https://www.solostove.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Flame glow trapped in a browser tab. Solo Stove's digital presence opens on a near-white canvas (`#f9f9f9`, the single extractable surface tone) that recedes completely so full-bleed lifestyle photography — backyard fire pits haloed in amber light, steel drums venting clean smoke against dusk — does all the emotional selling. The brand's signature burnt orange (`#E8490F`) appears sparingly but decisively: primary CTAs, price call-outs, and the small flame mark in the header, mirroring the literal fire at the center of every product. Everything else stays in a tight charcoal-to-slate ink range (`#1A1A1A` through `#6B6B6B`) that reads as carbon steel cooled down. Typography is a clean geometric sans-serif loaded via JavaScript — the site sits behind Cloudflare challenge protection, so font-family extraction returned only generic `sans-serif` and `system-ui` stacks — but the visible rhythm is medium-weight headings at generous sizes (36–48px for hero display), relaxed body copy around 16px, and uppercase micro-labels on badges and product specs. Corners stay tight: buttons land at `{rounded.xs}` to `{rounded.sm}`, product cards at `{rounded.sm}`, and only avatar thumbnails and pill filters push to `{rounded.full}`. Generous vertical spacing (`{spacing.section}` between content blocks, `{spacing.xl}` inside cards) gives the layout a campsite-clearing openness — nothing crowds. The product-detail page is the true centerpiece: a sticky image gallery on the left, a spec-dense purchase column on the right, and a "Compare Fire Pits" horizontal scroll strip that reinforces the one-category-done-perfectly ethos. Below the fold, UGC review grids and "#SoloStove" social proof tiles keep the tone peer-to-peer rather than editorial. Navigation is flat — six to eight top-level links with dropdown mega-menus organized by product line (Fire Pits, Stoves, Grills, Pizza Ovens, Accessories) — reflecting a catalog that is wide enough to need hierarchy but shallow enough that one click reaches any PDP.
 
 colors:
@@ -480,6 +483,8 @@ components:
 - UGC grid: 4-column → 2-column → horizontal scroll strip
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Color extraction severely limited**: The site is behind Cloudflare Managed Challenge (anti-bot), returning only `#f9f9f9` as an extractable color. The primary orange (`#E8490F`) is based on widely-documented Solo Stove brand identity but could not be verified from live CSS; the actual production value may differ by several stops.
 - **Font family unconfirmed**: Only generic stacks (`sans-serif`, `system-ui`, `monospace`) were returned. The brand likely loads a custom or licensed geometric sans-serif via JavaScript; the `'Solo Sans'` placeholder used here is a guess — inspect the live site's network waterfall for the actual typeface name and metrics.

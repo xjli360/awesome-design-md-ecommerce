@@ -1,0 +1,906 @@
+{
+  "source_url": "https://aqua-imports.com",
+  "final_url": "https://www.aqua-imports.com/",
+  "captured_at": "2026-09-28T09:54:51.337002+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://aqua-imports.com",
+      "final_url": "https://www.aqua-imports.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "3d1bfa01659aa6e30e5ddc6bd949b7f6f4174ad5cd04761fedfb3cd6de726ac0",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.aqua-imports.com/wp-content/plugins/order-delivery-date/build/style-index.css?ver=d6b248f4a610c01d0ffd",
+      "final_url": "https://www.aqua-imports.com/wp-content/plugins/order-delivery-date/build/style-index.css?ver=d6b248f4a610c01d0ffd",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6d2aaac0d61ae172f2a7d8e51e64ea7ebf1a8dff1644246f5ccc2a720f045fa4",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.aqua-imports.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1",
+      "final_url": "https://www.aqua-imports.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "45173f1550e57be245f3ed3b0f6fde7962e27901d5a04adf9342e546500bed49",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.aqua-imports.com/wp-content/plugins/ajax-search-for-woocommerce/assets/css/style.min.css?ver=1.34.2",
+      "final_url": "https://www.aqua-imports.com/wp-content/plugins/ajax-search-for-woocommerce/assets/css/style.min.css?ver=1.34.2",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ef6785093d54de78388edc1a1c99f11e1f276849fd3a54063acb2e883dd90511",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.aqua-imports.com/wp-content/themes/kadence/assets/css/global.min.css?ver=1.5.2",
+      "final_url": "https://www.aqua-imports.com/wp-content/themes/kadence/assets/css/global.min.css?ver=1.5.2",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4a8c1b6f462bc3fd06a2ddbaaca2aba0bbdcfa5ade52049ade26505a1beb20a8",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.aqua-imports.com/wp-content/themes/kadence/assets/css/header.min.css?ver=1.5.2",
+      "final_url": "https://www.aqua-imports.com/wp-content/themes/kadence/assets/css/header.min.css?ver=1.5.2",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "923c417d8f206d7741ee3b8a6e648a9765e1cb0b18fd56acb75b9f720aaff272",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 54,
+      "sources": [
+        "https://www.aqua-imports.com/",
+        "https://www.aqua-imports.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1",
+        "https://www.aqua-imports.com/wp-content/plugins/ajax-search-for-woocommerce/assets/css/style.min.css?ver=1.34.2",
+        "https://www.aqua-imports.com/wp-content/themes/kadence/assets/css/global.min.css?ver=1.5.2",
+        "https://www.aqua-imports.com/wp-content/themes/kadence/assets/css/header.min.css?ver=1.5.2"
+      ]
+    },
+    "#1a202c": {
+      "count": 24,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#2d7ff9": {
+      "count": 24,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#d1d5db": {
+      "count": 19,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 17,
+      "sources": [
+        "https://www.aqua-imports.com/",
+        "https://www.aqua-imports.com/wp-content/plugins/ajax-search-for-woocommerce/assets/css/style.min.css?ver=1.34.2"
+      ]
+    },
+    "#1f64d4": {
+      "count": 14,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 13,
+      "sources": [
+        "https://www.aqua-imports.com/",
+        "https://www.aqua-imports.com/wp-content/plugins/ajax-search-for-woocommerce/assets/css/style.min.css?ver=1.34.2"
+      ]
+    },
+    "#4a5568": {
+      "count": 13,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#000000": {
+      "count": 11,
+      "sources": [
+        "https://www.aqua-imports.com/",
+        "https://www.aqua-imports.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1",
+        "https://www.aqua-imports.com/wp-content/plugins/ajax-search-for-woocommerce/assets/css/style.min.css?ver=1.34.2"
+      ]
+    },
+    "#f76a0c": {
+      "count": 10,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#0693e3": {
+      "count": 8,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 7,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#999999": {
+      "count": 7,
+      "sources": [
+        "https://www.aqua-imports.com/wp-content/plugins/ajax-search-for-woocommerce/assets/css/style.min.css?ver=1.34.2"
+      ]
+    },
+    "#333333": {
+      "count": 7,
+      "sources": [
+        "https://www.aqua-imports.com/wp-content/plugins/ajax-search-for-woocommerce/assets/css/style.min.css?ver=1.34.2",
+        "https://www.aqua-imports.com/wp-content/themes/kadence/assets/css/global.min.css?ver=1.5.2"
+      ]
+    },
+    "#444444": {
+      "count": 5,
+      "sources": [
+        "https://www.aqua-imports.com/",
+        "https://www.aqua-imports.com/wp-content/plugins/ajax-search-for-woocommerce/assets/css/style.min.css?ver=1.34.2"
+      ]
+    },
+    "#f7fafc": {
+      "count": 5,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#14276d": {
+      "count": 5,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#2f2f2f": {
+      "count": 5,
+      "sources": [
+        "https://www.aqua-imports.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+      ]
+    },
+    "#777777": {
+      "count": 4,
+      "sources": [
+        "https://www.aqua-imports.com/wp-content/plugins/ajax-search-for-woocommerce/assets/css/style.min.css?ver=1.34.2"
+      ]
+    },
+    "#007cba": {
+      "count": 3,
+      "sources": [
+        "https://www.aqua-imports.com/",
+        "https://www.aqua-imports.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+      ]
+    },
+    "#ff6900": {
+      "count": 3,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#2d3748": {
+      "count": 3,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#9ca3af": {
+      "count": 3,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#0f172a": {
+      "count": 3,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#ff0000": {
+      "count": 3,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#90ee90": {
+      "count": 3,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#6d6d6d": {
+      "count": 3,
+      "sources": [
+        "https://www.aqua-imports.com/wp-content/plugins/ajax-search-for-woocommerce/assets/css/style.min.css?ver=1.34.2"
+      ]
+    },
+    "#313131": {
+      "count": 2,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#00d084": {
+      "count": 2,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#020381": {
+      "count": 2,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#2874fc": {
+      "count": 2,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#32373c": {
+      "count": 2,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#cf2e2e": {
+      "count": 2,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#fcb900": {
+      "count": 2,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#9b51e0": {
+      "count": 2,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#718096": {
+      "count": 2,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#edf2f7": {
+      "count": 2,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#2fa84f": {
+      "count": 2,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#279045": {
+      "count": 2,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#5f6f82": {
+      "count": 2,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#084c86": {
+      "count": 2,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#063f70": {
+      "count": 2,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#ffffffde": {
+      "count": 2,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#fffffff2": {
+      "count": 2,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#ff000059": {
+      "count": 2,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#43454b": {
+      "count": 2,
+      "sources": [
+        "https://www.aqua-imports.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+      ]
+    },
+    "#cd2653": {
+      "count": 2,
+      "sources": [
+        "https://www.aqua-imports.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+      ]
+    },
+    "#cc1818": {
+      "count": 2,
+      "sources": [
+        "https://www.aqua-imports.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+      ]
+    },
+    "#f0b849": {
+      "count": 2,
+      "sources": [
+        "https://www.aqua-imports.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+      ]
+    },
+    "#4ab866": {
+      "count": 2,
+      "sources": [
+        "https://www.aqua-imports.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+      ]
+    },
+    "#dfdfdf": {
+      "count": 2,
+      "sources": [
+        "https://www.aqua-imports.com/wp-content/plugins/ajax-search-for-woocommerce/assets/css/style.min.css?ver=1.34.2"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 2,
+      "sources": [
+        "https://www.aqua-imports.com/wp-content/plugins/ajax-search-for-woocommerce/assets/css/style.min.css?ver=1.34.2"
+      ]
+    },
+    "#202020": {
+      "count": 2,
+      "sources": [
+        "https://www.aqua-imports.com/wp-content/plugins/ajax-search-for-woocommerce/assets/css/style.min.css?ver=1.34.2"
+      ]
+    },
+    "#cccccc": {
+      "count": 2,
+      "sources": [
+        "https://www.aqua-imports.com/wp-content/plugins/ajax-search-for-woocommerce/assets/css/style.min.css?ver=1.34.2"
+      ]
+    },
+    "#111111": {
+      "count": 2,
+      "sources": [
+        "https://www.aqua-imports.com/wp-content/plugins/ajax-search-for-woocommerce/assets/css/style.min.css?ver=1.34.2"
+      ]
+    },
+    "#e4e4e4": {
+      "count": 2,
+      "sources": [
+        "https://www.aqua-imports.com/wp-content/plugins/ajax-search-for-woocommerce/assets/css/style.min.css?ver=1.34.2"
+      ]
+    },
+    "#7a00df": {
+      "count": 1,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#006ba1": {
+      "count": 1,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#005a87": {
+      "count": 1,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "#34e2e4": {
+      "count": 1,
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://www.aqua-imports.com/",
+      "https://www.aqua-imports.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+    ],
+    "Andale Mono": [
+      "https://www.aqua-imports.com/wp-content/themes/kadence/assets/css/global.min.css?ver=1.5.2"
+    ],
+    "Apple Color Emoji": [
+      "https://www.aqua-imports.com/"
+    ],
+    "BlinkMacSystemFont": [
+      "https://www.aqua-imports.com/",
+      "https://www.aqua-imports.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+    ],
+    "Cantarell": [
+      "https://www.aqua-imports.com/",
+      "https://www.aqua-imports.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+    ],
+    "Consolas": [
+      "https://www.aqua-imports.com/wp-content/themes/kadence/assets/css/global.min.css?ver=1.5.2"
+    ],
+    "Courier": [
+      "https://www.aqua-imports.com/wp-content/themes/kadence/assets/css/global.min.css?ver=1.5.2"
+    ],
+    "Courier 10 Pitch": [
+      "https://www.aqua-imports.com/wp-content/themes/kadence/assets/css/global.min.css?ver=1.5.2"
+    ],
+    "DejaVu Sans Mono": [
+      "https://www.aqua-imports.com/wp-content/themes/kadence/assets/css/global.min.css?ver=1.5.2"
+    ],
+    "Droid Sans": [
+      "https://www.aqua-imports.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+    ],
+    "Fira Sans": [
+      "https://www.aqua-imports.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+    ],
+    "Helvetica Neue": [
+      "https://www.aqua-imports.com/",
+      "https://www.aqua-imports.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+    ],
+    "Monaco": [
+      "https://www.aqua-imports.com/wp-content/themes/kadence/assets/css/global.min.css?ver=1.5.2"
+    ],
+    "Oxygen": [
+      "https://www.aqua-imports.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+    ],
+    "Oxygen-Sans": [
+      "https://www.aqua-imports.com/"
+    ],
+    "Roboto": [
+      "https://www.aqua-imports.com/",
+      "https://www.aqua-imports.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1",
+      "https://www.aqua-imports.com/wp-content/plugins/ajax-search-for-woocommerce/assets/css/style.min.css?ver=1.34.2"
+    ],
+    "Segoe UI": [
+      "https://www.aqua-imports.com/",
+      "https://www.aqua-imports.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+    ],
+    "Segoe UI Emoji": [
+      "https://www.aqua-imports.com/"
+    ],
+    "Segoe UI Symbol": [
+      "https://www.aqua-imports.com/"
+    ],
+    "Ubuntu": [
+      "https://www.aqua-imports.com/",
+      "https://www.aqua-imports.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+    ],
+    "WooCommerce": [
+      "https://www.aqua-imports.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+    ],
+    "blinkmacsystemfont": [
+      "https://www.aqua-imports.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+    ],
+    "helvetica": [
+      "https://www.aqua-imports.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+    ],
+    "monospace": [
+      "https://www.aqua-imports.com/wp-content/themes/kadence/assets/css/global.min.css?ver=1.5.2"
+    ],
+    "sans-serif": [
+      "https://www.aqua-imports.com/",
+      "https://www.aqua-imports.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1",
+      "https://www.aqua-imports.com/wp-content/plugins/ajax-search-for-woocommerce/assets/css/style.min.css?ver=1.34.2"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.aqua-imports.com/",
+      "selector": ":root",
+      "declarations": "--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px"
+    },
+    {
+      "source": "https://www.aqua-imports.com/",
+      "selector": ":root",
+      "declarations": "--wp-admin-border-width-focus:1.5px"
+    },
+    {
+      "source": "https://www.aqua-imports.com/",
+      "selector": ":root .has-very-light-gray-background-color",
+      "declarations": "background-color:#eee"
+    },
+    {
+      "source": "https://www.aqua-imports.com/",
+      "selector": ":root .has-very-dark-gray-background-color",
+      "declarations": "background-color:#313131"
+    },
+    {
+      "source": "https://www.aqua-imports.com/",
+      "selector": ":root .has-very-light-gray-color",
+      "declarations": "color:#eee"
+    },
+    {
+      "source": "https://www.aqua-imports.com/",
+      "selector": ":root .has-very-dark-gray-color",
+      "declarations": "color:#313131"
+    },
+    {
+      "source": "https://www.aqua-imports.com/",
+      "selector": ":root",
+      "declarations": "--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px"
+    },
+    {
+      "source": "https://www.aqua-imports.com/",
+      "selector": ".wp-block-button__link",
+      "declarations": "color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em"
+    },
+    {
+      "source": "https://www.aqua-imports.com/",
+      "selector": ".wp-block-file__button",
+      "declarations": "background:#32373c;color:#fff;text-decoration:none"
+    },
+    {
+      "source": "https://www.aqua-imports.com/",
+      "selector": ":root",
+      "declarations": "--wp--style--global--content-size: var(--global-calc-content-width);--wp--style--global--wide-size: var(--global-calc-wide-content-width);"
+    },
+    {
+      "source": "https://www.aqua-imports.com/",
+      "selector": ":root",
+      "declarations": "--global-palette1:#3182CE;--global-palette2:#2B6CB0;--global-palette3:#1A202C;--global-palette4:#2D3748;--global-palette5:#4A5568;--global-palette6:#718096;--global-palette7:#EDF2F7;--global-palette8:#F7FAFC;--global-palette9:#ffffff;--global-palette10:oklch(from var(--global-palette1) calc(l + 0.10 * (1 - l)) calc(c * 1.00) calc(h + 180) / 100%);--global-palette11:#13612e;--global-palette12:#1159af;--global-palette13:#b82105;--global-palette14:#f7630c;--global-palette15:#f5a524;--global-palette9rgb:255, 255, 255;--global-palette-highlight:var(--global-palette1);--global-palette-highlight-alt:var(--global-palette2);--global-palette-highlight-alt2:var(--global-palette9);--global-palette-btn-b"
+    },
+    {
+      "source": "https://www.aqua-imports.com/",
+      "selector": "body, input, select, optgroup, textarea",
+      "declarations": "font-weight:400;font-size:17px;line-height:1.6;font-family:var(--global-body-font-family);color:var(--global-palette4);"
+    },
+    {
+      "source": "https://www.aqua-imports.com/",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "font-family:var(--global-heading-font-family);"
+    },
+    {
+      "source": "https://www.aqua-imports.com/",
+      "selector": "h1",
+      "declarations": "font-weight:700;font-size:32px;line-height:1.5;color:var(--global-palette3);"
+    },
+    {
+      "source": "https://www.aqua-imports.com/",
+      "selector": ":root",
+      "declarations": "--global-content-boxed-padding:2rem;"
+    },
+    {
+      "source": "https://www.aqua-imports.com/",
+      "selector": ":root",
+      "declarations": "--global-content-boxed-padding:1.5rem;"
+    },
+    {
+      "source": "https://www.aqua-imports.com/",
+      "selector": ".header-navigation .header-menu-container ul ul li.menu-item > a",
+      "declarations": "width:200px;padding-top:1em;padding-bottom:1em;color:var(--global-palette8);font-size:12px;"
+    },
+    {
+      "source": "https://www.aqua-imports.com/",
+      "selector": ".header-navigation .header-menu-container ul ul li.menu-item > a:hover",
+      "declarations": "color:var(--global-palette15);background:var(--global-palette4);border-radius:0px 0px 0px 0px;"
+    },
+    {
+      "source": "https://www.aqua-imports.com/",
+      "selector": ".header-navigation .header-menu-container ul ul li.menu-item.current-menu-item > a",
+      "declarations": "color:var(--global-palette9);background:var(--global-palette4);border-radius:0px 0px 0px 0px;"
+    },
+    {
+      "source": "https://www.aqua-imports.com/",
+      "selector": ".site-header-item .header-cart-wrap .header-cart-inner-wrap .header-cart-button:hover",
+      "declarations": "color:var(--global-palette1);"
+    },
+    {
+      "source": "https://www.aqua-imports.com/",
+      "selector": ".product-title .single-category",
+      "declarations": "font-weight:700;font-size:32px;line-height:1.5;color:var(--global-palette3);"
+    },
+    {
+      "source": "https://www.aqua-imports.com/",
+      "selector": ".site-header-item .header-account-wrap .header-account-button",
+      "declarations": "text-decoration:none;box-shadow:none;color:inherit;background:transparent;padding:0.6em 0em 0.6em 0em;"
+    },
+    {
+      "source": "https://www.aqua-imports.com/",
+      "selector": ".header-mobile-account-wrap .header-account-button",
+      "declarations": "text-decoration:none;box-shadow:none;color:inherit;background:transparent;padding:0.6em 0em 0.6em 0em;"
+    },
+    {
+      "source": "https://www.aqua-imports.com/",
+      "selector": ".header-item-search-bar form ::-webkit-input-placeholder",
+      "declarations": "color:currentColor;opacity:0.5;"
+    },
+    {
+      "source": "https://www.aqua-imports.com/",
+      "selector": ".header-item-search-bar form ::placeholder",
+      "declarations": "color:currentColor;opacity:0.5;"
+    },
+    {
+      "source": "https://www.aqua-imports.com/",
+      "selector": "#widget-drawer .header-widget2 .widget-title",
+      "declarations": "color:var(--global-palette9);"
+    },
+    {
+      "source": "https://www.aqua-imports.com/",
+      "selector": "#widget-drawer .header-widget2",
+      "declarations": "color:var(--global-palette8);"
+    },
+    {
+      "source": "https://www.aqua-imports.com/",
+      "selector": "#widget-drawer .header-widget2 a:not(.button), #widget-drawer .header-widget2 .drawer-sub-toggle",
+      "declarations": "color:var(--global-palette8);"
+    },
+    {
+      "source": "https://www.aqua-imports.com/",
+      "selector": "#widget-drawer .header-widget2 a:not(.button):hover, #widget-drawer .header-widget2 .drawer-sub-toggle:hover",
+      "declarations": "color:var(--global-palette9);"
+    },
+    {
+      "source": "https://www.aqua-imports.com/",
+      "selector": "#filter-drawer .drawer-header .drawer-toggle, #filter-drawer .drawer-header .drawer-toggle:focus",
+      "declarations": "color:var(--global-palette5);"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Aqua Imports - Rare Tropical Fish, Plants, Invertebrates, Reptiles and More",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.aqua-imports.com/",
+        "https://www.aqua-imports.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.aqua-imports.com/",
+        "https://www.aqua-imports.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1",
+        "https://www.aqua-imports.com/wp-content/plugins/ajax-search-for-woocommerce/assets/css/style.min.css?ver=1.34.2",
+        "https://www.aqua-imports.com/wp-content/themes/kadence/assets/css/global.min.css?ver=1.5.2",
+        "https://www.aqua-imports.com/wp-content/themes/kadence/assets/css/header.min.css?ver=1.5.2"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.aqua-imports.com/",
+        "https://www.aqua-imports.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1",
+        "https://www.aqua-imports.com/wp-content/plugins/ajax-search-for-woocommerce/assets/css/style.min.css?ver=1.34.2",
+        "https://www.aqua-imports.com/wp-content/themes/kadence/assets/css/global.min.css?ver=1.5.2",
+        "https://www.aqua-imports.com/wp-content/themes/kadence/assets/css/header.min.css?ver=1.5.2"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "colors.accent-warm": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.aqua-imports.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+      ]
+    },
+    "colors.dark-surface": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.aqua-imports.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.aqua-imports.com/wp-content/plugins/ajax-search-for-woocommerce/assets/css/style.min.css?ver=1.34.2",
+        "https://www.aqua-imports.com/wp-content/themes/kadence/assets/css/global.min.css?ver=1.5.2"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.shipping-guarantee-callout": {
+      "status": "inferred"
+    }
+  }
+}

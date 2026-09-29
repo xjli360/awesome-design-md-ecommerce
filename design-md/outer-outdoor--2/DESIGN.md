@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Outer
-description: Deep teal (#223843) anchors every primary surface and call-to-action — a color that reads neither coastal nor forest but somewhere between the two, placing this outdoor furniture system in a temperate middle ground where shade fabric meets eucalyptus wood. The palette stays deliberately restrained; near-black ink (#121212) carries all body copy, a single soft gray (#dedede) handles dividers and subtle borders, and the rest is white canvas breathing around oversized lifestyle photography. Barlow, a neo-grotesque with generous x-height and open apertures, runs at comfortable weights — semi-bold 600 for headlines, regular 400 for long-form product descriptions that read more like magazine editorial than furniture spec sheets. Corners soften consistently at `{rounded.sm}` for interactive elements and `{rounded.md}` for cards, never reaching full pill shapes except on tags and small badges; the overall geometry suggests precision joinery rather than playful softness. Spacing is generous — section gaps of 64–80px let hero images command attention, and product cards sit in neat grids with `{spacing.lg}` gutters that prevent the dense material swatches and configuration options from feeling cluttered. The nav bar is minimal, transparent over hero imagery, with teal text links that darken on hover. Product pages lean heavily on a configurator pattern — inline swatches for fabric, frame finish, and sectional arrangement — all rendered in compact touch targets with `{rounded.xs}` chip borders. A persistent sticky add-to-cart bar appears on scroll, using the full-width teal `{colors.primary}` button at `{rounded.sm}` to close the sale. The system trusts its photography and generous whitespace to carry emotional weight while keeping UI chrome functionally invisible.
+name: "Outer"
+source_url: "https://liveouter.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Deep teal (#223843) anchors every primary surface and call-to-action — a color that reads neither coastal nor forest but somewhere between the two, placing this outdoor furniture system in a temperate middle ground where shade fabric meets eucalyptus wood. The palette stays deliberately restrained; near-black ink (#121212) carries all body copy, a single soft gray (#dedede) handles dividers and subtle borders, and the rest is white canvas breathing around oversized lifestyle photography. Barlow, a neo-grotesque with generous x-height and open apertures, runs at comfortable weights — semi-bold 600 for headlines, regular 400 for long-form product descriptions that read more like magazine editorial than furniture spec sheets. Corners soften consistently at `{rounded.sm}` for interactive elements and `{rounded.md}` for cards, never reaching full pill shapes except on tags and small badges; the overall geometry suggests precision joinery rather than playful softness. Spacing is generous — section gaps of 64–80px let hero images command attention, and product cards sit in neat grids with `{spacing.lg}` gutters that prevent the dense material swatches and configuration options from feeling cluttered. The nav bar is minimal, transparent over hero imagery, with teal text links that darken on hover. Product pages lean heavily on a configurator pattern — inline swatches for fabric, frame finish, and sectional arrangement — all rendered in compact touch targets with `{rounded.xs}` chip borders. A persistent sticky add-to-cart bar appears on scroll, using the full-width teal `{colors.primary}` button at `{rounded.sm}` to close the sale. The system trusts its photography and generous whitespace to carry emotional weight while keeping UI chrome functionally invisible.
 
 colors:
   primary: "#223843"
@@ -212,7 +216,7 @@ components:
     textColor: "{colors.ink}"
     typography: "{typography.display-xl}"
     minHeight: 560px
-    padding: "{spacing.section-lg}" "{spacing.xl}"
+    padding: "{spacing.section-lg} {spacing.xl}"
   hero-headline:
     typography: "{typography.display-xl}"
     textColor: "{colors.ink}"
@@ -223,8 +227,8 @@ components:
     padding: 0
     border: none
     imageAspectRatio: 4/3
-    imageRounded: "{rounded.md}" "{rounded.md}" 0 0
-    bodyPadding: "{spacing.base}" "{spacing.md}"
+    imageRounded: "{rounded.md} {rounded.md} 0 0"
+    bodyPadding: "{spacing.base} {spacing.md}"
   product-card-title:
     typography: "{typography.title-sm}"
     textColor: "{colors.ink}"
@@ -249,7 +253,7 @@ components:
     border: 1px solid {colors.hairline}
   sticky-add-to-cart:
     backgroundColor: "{colors.canvas}"
-    padding: "{spacing.md}" "{spacing.base}"
+    padding: "{spacing.md} {spacing.base}"
     borderTop: 1px solid {colors.hairline}
     boxShadow: 0 -2px 8px rgba(0,0,0,0.06)
     position: sticky
@@ -284,7 +288,7 @@ components:
     backgroundColor: "{colors.primary}"
     textColor: "{colors.on-primary}"
     typography: "{typography.body-sm}"
-    padding: "{spacing.section}" "{spacing.xl}"
+    padding: "{spacing.section} {spacing.xl}"
   footer-heading:
     typography: "{typography.title-sm}"
     textColor: "{colors.on-primary}"
@@ -368,6 +372,8 @@ components:
 - Announcement bar text truncates with ellipsis on narrow viewports, full text on hover/tap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only four hex colors extracted; the site likely loads additional palette tokens (warm neutrals, success/error states) via JavaScript or CSS custom properties at runtime
 - Barlow is the only confirmed typeface; a secondary serif or display face may be used for editorial content but was not detected in static extraction

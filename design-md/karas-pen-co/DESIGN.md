@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Karas Pen Co.
-description: Every Karas pen begins as bar stock — aluminum, brass, or titanium — cut on CNC machines a few blocks from their Phoenix storefront, and that manufacturing origin is fully legible in the digital shop. A near-black #171717 anchors the site header, signaling workshop over boutique; the primary action color is a machined-deep teal (#108474), saturated enough to own the screen without reading as corporate blue. A jolt of marigold (#fbcd0a) surfaces on sale pricing, material callouts, and select badges — the visual equivalent of a single brass detail on an otherwise matte-anodized barrel. Light neutral backgrounds cascade through #f9fafb, #f2f2f2, and #edf5f5, keeping anodized-barrel photography visible without chromatic competition, while a faint mint wash (#c5f7f0) backs configurator panels and informational callouts, echoing the primary palette without pulling full saturation. Inter's geometric letterforms handle all type: body copy runs 16px at weight 400, pen names display at 28–40px in weight 700, and every SKU label sits at 13px weight 600 — a hierarchy built for catalog density rather than editorial breathing room. Radii stay at {rounded.xs} to {rounded.sm} throughout; the machined aesthetic rejects pill shapes, so only the search field concedes to {rounded.md}. Checkout and product-detail flows surface material selectors and finish options as inline tag rows rather than dropdown menus, letting customers spec their order like configuring a part — which, effectively, is what they are doing.
+name: "Karas Pen Co."
+source_url: "https://karaskustoms.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Every Karas pen begins as bar stock — aluminum, brass, or titanium — cut on CNC machines a few blocks from their Phoenix storefront, and that manufacturing origin is fully legible in the digital shop. A near-black #171717 anchors the site header, signaling workshop over boutique; the primary action color is a machined-deep teal (#108474), saturated enough to own the screen without reading as corporate blue. A jolt of marigold (#fbcd0a) surfaces on sale pricing, material callouts, and select badges — the visual equivalent of a single brass detail on an otherwise matte-anodized barrel. Light neutral backgrounds cascade through #f9fafb, #f2f2f2, and #edf5f5, keeping anodized-barrel photography visible without chromatic competition, while a faint mint wash (#c5f7f0) backs configurator panels and informational callouts, echoing the primary palette without pulling full saturation. Inter's geometric letterforms handle all type: body copy runs 16px at weight 400, pen names display at 28–40px in weight 700, and every SKU label sits at 13px weight 600 — a hierarchy built for catalog density rather than editorial breathing room. Radii stay at {rounded.xs} to {rounded.sm} throughout; the machined aesthetic rejects pill shapes, so only the search field concedes to {rounded.md}. Checkout and product-detail flows surface material selectors and finish options as inline tag rows rather than dropdown menus, letting customers spec their order like configuring a part — which, effectively, is what they are doing.
 
 colors:
   primary: "#108474"
@@ -372,6 +376,8 @@ components:
 - Footer columns stack to 2-up at tablet, single column on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No confirmed custom display typeface — Inter is inferred from the extracted font stack but a secondary headline or monospace face used in machining-spec callouts may not have been captured
 - Hover and focus transition durations not extracted (animation timing curves unknown)

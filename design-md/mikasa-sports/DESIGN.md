@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Mikasa Sports
-description: A deep teal #226d7a anchors Mikasa Sports — not the expected bright ball-orange or field-green of most team-sport brands, but a deliberate, almost oceanic cyan-teal that reads as precision and endurance rather than hype. This primary voltage appears on every CTA, product badge, and navigation element, paired with a pale aqua #b0e0e9 that softens the system into a coastal palette — think competition-grade pool water under overcast skies. The typography stack defaults to Open Sans and Roboto at moderate weights (400–600), with body copy running at 14–16px and display sizes rarely exceeding 24px; the brand trusts product photography and clean grid layouts over typographic drama. Hard corners dominate — buttons use {rounded.sm} (8px) rather than pills, product cards use {rounded.md} (12px), and the nav bar sits as a flat, full-width teal band with white text, no drop shadow, no gradient. The secondary accent #22b8d1 (a brighter cyan) appears on hover states and secondary badges, creating a two-tone aquatic system that feels more like a precision equipment manufacturer than a mass-market sportswear label. Mikasa’s design language is lean, functional, and unadorned — the visual equivalent of a well-inflated ball: nothing extra, everything intentional.
+name: "Mikasa Sports"
+source_url: "https://mikasasports.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep teal #226d7a anchors Mikasa Sports — not the expected bright ball-orange or field-green of most team-sport brands, but a deliberate, almost oceanic cyan-teal that reads as precision and endurance rather than hype. This primary voltage appears on every CTA, product badge, and navigation element, paired with a pale aqua #b0e0e9 that softens the system into a coastal palette — think competition-grade pool water under overcast skies. The typography stack defaults to Open Sans and Roboto at moderate weights (400–600), with body copy running at 14–16px and display sizes rarely exceeding 24px; the brand trusts product photography and clean grid layouts over typographic drama. Hard corners dominate — buttons use {rounded.sm} (8px) rather than pills, product cards use {rounded.md} (12px), and the nav bar sits as a flat, full-width teal band with white text, no drop shadow, no gradient. The secondary accent #22b8d1 (a brighter cyan) appears on hover states and secondary badges, creating a two-tone aquatic system that feels more like a precision equipment manufacturer than a mass-market sportswear label. Mikasa’s design language is lean, functional, and unadorned — the visual equivalent of a well-inflated ball: nothing extra, everything intentional.
 
 colors:
   primary: "#226d7a"
@@ -375,6 +379,8 @@ components:
 - Secondary navigation (breadcrumbs) hides on mobile, replaced by back button
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components could not be fully extracted from the live site; some are inferred from common patterns
 - Error message styling (colors, typography, placement) was not visible on the extracted page

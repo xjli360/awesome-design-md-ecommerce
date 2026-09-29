@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Quality Arcades
-description: A neon-lit, high-voltage brand that wraps arcade nostalgia in a custom-machine factory aesthetic, anchored on a deep-space ink (#040926) canvas that makes every accent — the electric blue (#006fcf), the arcade-pink (#ff00c9), the marquee-yellow (#ffba22), and the gamer-purple (#9528fa) — pop like a CRT screen in a dark room. The brand uses Bungee for display headlines, a retro-futuristic geometric font that feels like a 1980s arcade marquee, paired with Archivo Narrow for body text — a condensed sans-serif that packs information dense without sacrificing legibility. Buttons and badges use sharp, slightly rounded corners (`{rounded.sm}` ~8px) rather than pills, reinforcing the precision of a factory-built machine. The primary CTA blue (#006fcf) is the same blue used for the brand's "Customize" and "Add to Cart" actions, creating a consistent voltage across the purchase funnel. Product cards sit on white (`{colors.canvas}` #fdfdfd) with thin hairlines (`{colors.hairline}` #231f20), and every machine photo is presented full-bleed against that white — no shadows, no gradients, just the raw cabinet. The footer and navigation use the deep-space ink with white text, punctuated by accent bars in orange (#f48120) and pink (#ff00c9) that serve as section dividers and hover-state indicators. The overall effect is a brand that feels like a custom arcade cabinet itself: dark, glowing, precise, and built to order.
+name: "Quality Arcades"
+source_url: "https://www.qualityarcades.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A neon-lit, high-voltage brand that wraps arcade nostalgia in a custom-machine factory aesthetic, anchored on a deep-space ink (#040926) canvas that makes every accent — the electric blue (#006fcf), the arcade-pink (#ff00c9), the marquee-yellow (#ffba22), and the gamer-purple (#9528fa) — pop like a CRT screen in a dark room. The brand uses Bungee for display headlines, a retro-futuristic geometric font that feels like a 1980s arcade marquee, paired with Archivo Narrow for body text — a condensed sans-serif that packs information dense without sacrificing legibility. Buttons and badges use sharp, slightly rounded corners (`{rounded.sm}` ~8px) rather than pills, reinforcing the precision of a factory-built machine. The primary CTA blue (#006fcf) is the same blue used for the brand's "Customize" and "Add to Cart" actions, creating a consistent voltage across the purchase funnel. Product cards sit on white (`{colors.canvas}` #fdfdfd) with thin hairlines (`{colors.hairline}` #231f20), and every machine photo is presented full-bleed against that white — no shadows, no gradients, just the raw cabinet. The footer and navigation use the deep-space ink with white text, punctuated by accent bars in orange (#f48120) and pink (#ff00c9) that serve as section dividers and hover-state indicators. The overall effect is a brand that feels like a custom arcade cabinet itself: dark, glowing, precise, and built to order.
 
 colors:
   primary: "#006fcf"
@@ -332,6 +336,8 @@ components:
 - Hero section: On mobile, hero padding reduces by 50% and the CTA button becomes full-width
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for text inputs and filter tags could not be reliably extracted from the live site; placeholder values are based on common patterns
 - Error styling for forms (validation messages, error borders) was not visible on the live site

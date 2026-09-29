@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Thermador
-description: Deep ocean teal (#003344) dominates the viewport like the face of a professional range at midnight — a single, saturated anchor that signals authority without the predictable black-on-white minimalism of most premium appliance brands. The site architecture leans cinematic; full-bleed hero photography pushes product into dramatic lighting against dark backdrops, letting stainless steel and chrome catch the eye organically rather than through artificial badge systems. Typography runs a geometric sans-serif in light-to-medium weights at generous sizes, trusting letter-spacing and vertical rhythm over bold flourishes — headlines rarely exceed weight 500, creating a controlled tension between the dark palette and airy type. Navigation collapses into a spare horizontal bar with restrained link counts; category architecture favors curated editorial paths ("One-Two-Free" promotions, "Masterpiece" vs "Professional" collections) over dense mega-menus. Cards and containers carry minimal radius (`{rounded.xs}` to `{rounded.sm}`), reinforcing the architectural precision of the physical product lines. Spacing is generous — `{spacing.section}` or wider between content blocks — giving each appliance room to breathe the way a showroom floor separates a column and a cooktop. CTAs arrive in the brand teal with white text, rectangular and confident, occasionally outlined in secondary variants to pull hierarchy without competing. The overall digital impression is a showroom after hours: controlled lighting, deliberate silence between elements, and every surface reflecting something engineered.
+name: "Thermador"
+source_url: "https://www.thermador.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Deep ocean teal (#003344) dominates the viewport like the face of a professional range at midnight — a single, saturated anchor that signals authority without the predictable black-on-white minimalism of most premium appliance brands. The site architecture leans cinematic; full-bleed hero photography pushes product into dramatic lighting against dark backdrops, letting stainless steel and chrome catch the eye organically rather than through artificial badge systems. Typography runs a geometric sans-serif in light-to-medium weights at generous sizes, trusting letter-spacing and vertical rhythm over bold flourishes — headlines rarely exceed weight 500, creating a controlled tension between the dark palette and airy type. Navigation collapses into a spare horizontal bar with restrained link counts; category architecture favors curated editorial paths ("One-Two-Free" promotions, "Masterpiece" vs "Professional" collections) over dense mega-menus. Cards and containers carry minimal radius (`{rounded.xs}` to `{rounded.sm}`), reinforcing the architectural precision of the physical product lines. Spacing is generous — `{spacing.section}` or wider between content blocks — giving each appliance room to breathe the way a showroom floor separates a column and a cooktop. CTAs arrive in the brand teal with white text, rectangular and confident, occasionally outlined in secondary variants to pull hierarchy without competing. The overall digital impression is a showroom after hours: controlled lighting, deliberate silence between elements, and every surface reflecting something engineered.
 
 colors:
   primary: "#003344"
@@ -357,6 +361,8 @@ components:
 - Footer: multi-column → single accordion-based column list
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one hex color (#003344) was reliably extracted; the full palette (accent golds, grays, surface tones) is inferred from brand-knowledge and standard luxury-appliance conventions
 - No font-family stacks were detected — the site likely loads custom webfonts via JavaScript bundles or behind anti-bot protections; Helvetica Neue is used as a reasonable proxy based on the brand's parent company (BSH/Bosch) design system patterns

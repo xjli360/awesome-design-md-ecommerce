@@ -1,0 +1,625 @@
+{
+  "source_url": "https://sodapup.com",
+  "final_url": "https://sodapup.com/",
+  "captured_at": "2026-09-28T10:12:37.406698+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://sodapup.com",
+      "final_url": "https://sodapup.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "403e869cf2e931e7cf9547963153ffe5f6f6a30e1c699c9ee2ae4e5684c9dbce",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://sodapup.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://sodapup.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://sodapup.com/cdn/shop/t/50/assets/base.css?v=177946997503462741151790011860",
+      "final_url": "https://sodapup.com/cdn/shop/t/50/assets/base.css?v=177946997503462741151790011860",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "77d9622168ac95dd9f974e19501cad0ad93294b9483e096d4e72ba53c5f280eb",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://sodapup.com/cdn/shop/t/50/assets/component-cart-items.css?v=21057267699993713401790011865",
+      "final_url": "https://sodapup.com/cdn/shop/t/50/assets/component-cart-items.css?v=21057267699993713401790011865",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6ba2e39a7046cf364c3ea5c5f93e177d21314ae11b2f351e1bac62e818cc0f40",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://sodapup.com/cdn/shop/t/50/assets/component-localization-form.css?v=170315343355214948141790011870",
+      "final_url": "https://sodapup.com/cdn/shop/t/50/assets/component-localization-form.css?v=170315343355214948141790011870",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "98e3a622c0f35d4989076810d8ca502106caa78619ab628a84506e8c375f2647",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://sodapup.com/cdn/shop/t/50/assets/component-predictive-search.css?v=118923337488134913561790011874",
+      "final_url": "https://sodapup.com/cdn/shop/t/50/assets/component-predictive-search.css?v=118923337488134913561790011874",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9a951b73d36130e0c8cc0ba6d752fd0352b6a919a3098dc97730f9028b036274",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 11,
+      "sources": [
+        "https://sodapup.com/",
+        "https://sodapup.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://sodapup.com/cdn/shop/t/50/assets/base.css?v=177946997503462741151790011860"
+      ]
+    },
+    "#000000": {
+      "count": 10,
+      "sources": [
+        "https://sodapup.com/",
+        "https://sodapup.com/cdn/shop/t/50/assets/base.css?v=177946997503462741151790011860",
+        "https://sodapup.com/cdn/shop/t/50/assets/component-localization-form.css?v=170315343355214948141790011870"
+      ]
+    },
+    "#2f7594": {
+      "count": 10,
+      "sources": [
+        "https://sodapup.com/"
+      ]
+    },
+    "#d1d1d1": {
+      "count": 4,
+      "sources": [
+        "https://sodapup.com/"
+      ]
+    },
+    "#121212": {
+      "count": 3,
+      "sources": [
+        "https://sodapup.com/",
+        "https://sodapup.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 3,
+      "sources": [
+        "https://sodapup.com/"
+      ]
+    },
+    "#ffffff00": {
+      "count": 3,
+      "sources": [
+        "https://sodapup.com/cdn/shop/t/50/assets/base.css?v=177946997503462741151790011860"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 2,
+      "sources": [
+        "https://sodapup.com/"
+      ]
+    },
+    "#242833": {
+      "count": 2,
+      "sources": [
+        "https://sodapup.com/"
+      ]
+    },
+    "#334fb4": {
+      "count": 2,
+      "sources": [
+        "https://sodapup.com/"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 2,
+      "sources": [
+        "https://sodapup.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://sodapup.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://sodapup.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://sodapup.com/cdn/shop/t/50/assets/base.css?v=177946997503462741151790011860"
+      ]
+    },
+    "#7b7b7b": {
+      "count": 1,
+      "sources": [
+        "https://sodapup.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
+      "sources": [
+        "https://sodapup.com/"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 1,
+      "sources": [
+        "https://sodapup.com/"
+      ]
+    },
+    "#108474": {
+      "count": 1,
+      "sources": [
+        "https://sodapup.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://sodapup.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://sodapup.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://sodapup.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://sodapup.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://sodapup.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://sodapup.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://sodapup.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://sodapup.com/"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://sodapup.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://sodapup.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://sodapup.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000080": {
+      "count": 1,
+      "sources": [
+        "https://sodapup.com/cdn/shop/t/50/assets/base.css?v=177946997503462741151790011860"
+      ]
+    }
+  },
+  "font_families": {
+    "JudgemeStar": [
+      "https://sodapup.com/"
+    ],
+    "Murecho": [
+      "https://sodapup.com/"
+    ],
+    "object-fit: contain": [
+      "https://sodapup.com/cdn/shop/t/50/assets/component-predictive-search.css?v=118923337488134913561790011874"
+    ],
+    "unset !important": [
+      "https://sodapup.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://sodapup.com/",
+      "selector": ":root,\n        .color-scheme-1",
+      "declarations": "--color-background: 255,255,255;\n        \n          --gradient-background: #ffffff;\n        \n\n        \n\n        --color-foreground: 18,18,18;\n        --color-background-contrast: 191,191,191;\n        --color-shadow: 18,18,18;\n        --color-button: 18,18,18;\n        --color-button-text: 255,255,255;\n        --color-secondary-button: 255,255,255;\n        --color-secondary-button-text: 18,18,18;\n        --color-link: 18,18,18;\n        --color-badge-foreground: 18,18,18;\n        --color-badge-background: 255,255,255;\n        --color-badge-border: 18,18,18;\n        --payment-terms-background-color: rgb(255 255 255);"
+    },
+    {
+      "source": "https://sodapup.com/",
+      "selector": "body, .color-scheme-1, .color-scheme-2, .color-scheme-3, .color-scheme-4, .color-scheme-5",
+      "declarations": "color: rgba(var(--color-foreground), 0.75);\n        background-color: rgb(var(--color-background));"
+    },
+    {
+      "source": "https://sodapup.com/",
+      "selector": "body",
+      "declarations": "display: flex;\n        flex-direction: column;\n        min-height: 100%;\n        margin: 0;\n        font-size: 1.5rem;\n        letter-spacing: 0.06rem;\n        line-height: calc(1 + 0.8 / var(--font-body-scale));\n        font-family: var(--font-body-family);\n        font-style: var(--font-body-style);\n        font-weight: var(--font-body-weight);"
+    },
+    {
+      "source": "https://sodapup.com/",
+      "selector": ":root",
+      "declarations": "--shopify-chat-bg-color: #FFFFFF;\n    --shopify-chat-text-color: #000000;\n    --shopify-chat-accent-bg-color: #000000;\n    --shopify-chat-accent-text-color: #FFFFFF;\n    --shopify-chat-activator-offset: 20px;\n\n    \n\n    --shopify-chat-activator-font-size: 16px;\n    --shopify-chat-border-radius: 16px;"
+    },
+    {
+      "source": "https://sodapup.com/",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #2F7594;--jdgm-secondary-color: rgba(47,117,148,0.1);--jdgm-star-color: #2F7594;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #2F7594;--jdgm-paginate-color: #2F7594;--jdgm-border-radius: 0;--jdgm-reviewer-name-color: #2F7594"
+    },
+    {
+      "source": "https://sodapup.com/",
+      "selector": "shopify-account.header__icon",
+      "declarations": "--shopify-account-font-heading: var(--font-heading-family);\n    --shopify-account-font-heading-weight: var(--font-heading-weight);\n    --shopify-account-font-body: var(--font-body-family);\n    --shopify-account-font-body-weight: var(--font-body-weight);\n    --shopify-account-radius-base: var(--popup-corner-radius);\n    --shopify-account-radius-button: var(--buttons-radius);\n    --shopify-account-radius-button-small: var(--buttons-radius);\n    --shopify-account-radius-input: var(--inputs-radius);\n    --shopify-account-color-background: rgb(var(--color-background));\n    --shopify-account-color-text: rgb(var(--color-foreground));\n    --shopify-account-color-accent: rgb(var(--color-button));\n   "
+    },
+    {
+      "source": "https://sodapup.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://sodapup.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://sodapup.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://sodapup.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://sodapup.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://sodapup.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://sodapup.com/cdn/shop/t/50/assets/base.css?v=177946997503462741151790011860",
+      "selector": ":root",
+      "declarations": "--alpha-button-background: 1;--alpha-button-border: 1;--alpha-link: .85;--alpha-badge-border: .1;--focused-base-outline: .2rem solid rgba(var(--color-foreground), .5);--focused-base-outline-offset: .3rem;--focused-base-box-shadow: 0 0 0 .3rem rgb(var(--color-background)), 0 0 .5rem .4rem rgba(var(--color-foreground), .3)"
+    },
+    {
+      "source": "https://sodapup.com/cdn/shop/t/50/assets/base.css?v=177946997503462741151790011860",
+      "selector": ".product-card-wrapper .card,.contains-card--product",
+      "declarations": "--border-radius: var(--product-card-corner-radius);--border-width: var(--product-card-border-width);--border-opacity: var(--product-card-border-opacity);--shadow-horizontal-offset: var(--product-card-shadow-horizontal-offset);--shadow-vertical-offset: var(--product-card-shadow-vertical-offset);--shadow-blur-radius: var(--product-card-shadow-blur-radius);--shadow-opacity: var(--product-card-shadow-opacity);--shadow-visible: var(--product-card-shadow-visible);--image-padding: var(--product-card-image-padding);--text-alignment: var(--product-card-text-alignment)"
+    },
+    {
+      "source": "https://sodapup.com/cdn/shop/t/50/assets/base.css?v=177946997503462741151790011860",
+      "selector": ".text-body",
+      "declarations": "font-size:1.5rem;letter-spacing:.06rem;line-height:calc(1 + .8 / var(--font-body-scale));font-family:var(--font-body-family);font-style:var(--font-body-style);font-weight:var(--font-body-weight)"
+    },
+    {
+      "source": "https://sodapup.com/cdn/shop/t/50/assets/base.css?v=177946997503462741151790011860",
+      "selector": "h1,h2,h3,h4,h5,.h0,.h1,.h2,.h3,.h4,.h5",
+      "declarations": "font-family:var(--font-heading-family);font-style:var(--font-heading-style);font-weight:var(--font-heading-weight);letter-spacing:calc(var(--font-heading-scale) * .06rem);color:rgb(var(--color-foreground));line-height:calc(1 + .3/max(1,var(--font-heading-scale)));word-break:break-word"
+    },
+    {
+      "source": "https://sodapup.com/cdn/shop/t/50/assets/base.css?v=177946997503462741151790011860",
+      "selector": ":root",
+      "declarations": "--duration-short: .1s;--duration-default: .2s;--duration-announcement-bar: .25s;--duration-medium: .3s;--duration-long: .5s;--duration-extra-long: .6s;--duration-extra-longer: .75s;--duration-extended: 3s;--ease-out-slow: cubic-bezier(0, 0, .3, 1);--animation-slide-in: slideIn var(--duration-extra-long) var(--ease-out-slow) forwards;--animation-fade-in: fadeIn var(--duration-extra-long) var(--ease-out-slow)"
+    },
+    {
+      "source": "https://sodapup.com/cdn/shop/t/50/assets/base.css?v=177946997503462741151790011860",
+      "selector": ".button--secondary,.button--tertiary",
+      "declarations": "--color-button: var(--color-secondary-button);--color-button-text: var(--color-secondary-button-text)"
+    },
+    {
+      "source": "https://sodapup.com/cdn/shop/t/50/assets/base.css?v=177946997503462741151790011860",
+      "selector": ".button--tertiary",
+      "declarations": "--alpha-button-background: 0;--alpha-button-border: .2"
+    },
+    {
+      "source": "https://sodapup.com/cdn/shop/t/50/assets/base.css?v=177946997503462741151790011860",
+      "selector": ".button,.shopify-challenge__button,.customer button,button.shopify-payment-button__button--unbranded",
+      "declarations": "--shadow-horizontal-offset: var(--buttons-shadow-horizontal-offset);--shadow-vertical-offset: var(--buttons-shadow-vertical-offset);--shadow-blur-radius: var(--buttons-shadow-blur-radius);--shadow-opacity: var(--buttons-shadow-opacity);--shadow-visible: var(--buttons-shadow-visible);--border-offset: var(--buttons-border-offset);--border-opacity: calc(1 - var(--buttons-border-opacity));border-radius:var(--buttons-radius-outset);position:relative"
+    },
+    {
+      "source": "https://sodapup.com/cdn/shop/t/50/assets/base.css?v=177946997503462741151790011860",
+      "selector": ".button,.shopify-challenge__button,.customer button",
+      "declarations": "display:inline-flex;justify-content:center;align-items:center;border:0;padding:0 3rem;cursor:pointer;font:inherit;font-size:1.5rem;text-decoration:none;color:rgb(var(--color-button-text));transition:box-shadow var(--duration-short) ease;-webkit-appearance:none;appearance:none;background-color:rgba(var(--color-button),var(--alpha-button-background))"
+    },
+    {
+      "source": "https://sodapup.com/cdn/shop/t/50/assets/base.css?v=177946997503462741151790011860",
+      "selector": ".button:not([disabled]):hover:after,.shopify-challenge__button:hover:after,.customer button:hover:after,.shopify-payment-button__button--unbranded:hover:after",
+      "declarations": "--border-offset: 1.3px;box-shadow:0 0 0 calc(var(--buttons-border-width) + var(--border-offset)) rgba(var(--color-button-text),var(--border-opacity)),0 0 0 calc(var(--buttons-border-width) + 1px) rgba(var(--color-button),var(--alpha-button-background))"
+    },
+    {
+      "source": "https://sodapup.com/cdn/shop/t/50/assets/base.css?v=177946997503462741151790011860",
+      "selector": ".button--secondary:after",
+      "declarations": "--border-opacity: var(--buttons-border-opacity)"
+    },
+    {
+      "source": "https://sodapup.com/cdn/shop/t/50/assets/base.css?v=177946997503462741151790011860",
+      "selector": ".button::selection,.shopify-challenge__button::selection,.customer button::selection",
+      "declarations": "background-color:rgba(var(--color-button-text),.3)"
+    },
+    {
+      "source": "https://sodapup.com/cdn/shop/t/50/assets/base.css?v=177946997503462741151790011860",
+      "selector": ".button.loading",
+      "declarations": "color:transparent;position:relative"
+    },
+    {
+      "source": "https://sodapup.com/cdn/shop/t/50/assets/base.css?v=177946997503462741151790011860",
+      "selector": ".button.loading",
+      "declarations": "color:rgb(var(--color-foreground))"
+    },
+    {
+      "source": "https://sodapup.com/cdn/shop/t/50/assets/base.css?v=177946997503462741151790011860",
+      "selector": ".share-button__button",
+      "declarations": "font-size:1.4rem;display:flex;align-items:center;color:rgb(var(--color-link));margin-left:0;padding-left:0;min-height:4.4rem"
+    },
+    {
+      "source": "https://sodapup.com/cdn/shop/t/50/assets/base.css?v=177946997503462741151790011860",
+      "selector": ".share-button__button,.share-button__fallback button",
+      "declarations": "cursor:pointer;background-color:transparent;border:none"
+    },
+    {
+      "source": "https://sodapup.com/cdn/shop/t/50/assets/base.css?v=177946997503462741151790011860",
+      "selector": ".share-button__fallback button:hover",
+      "declarations": "color:rgba(var(--color-foreground),.75)"
+    },
+    {
+      "source": "https://sodapup.com/cdn/shop/t/50/assets/base.css?v=177946997503462741151790011860",
+      "selector": ".share-button__close,.share-button__copy",
+      "declarations": "background-color:transparent;color:rgb(var(--color-foreground))"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Shop best enrichment products for dogs in USA | Soda Pup\n – SodaPup/True Dogs, LLC",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sodapup.com/",
+        "https://sodapup.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sodapup.com/",
+        "https://sodapup.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sodapup.com/",
+        "https://sodapup.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://sodapup.com/cdn/shop/t/50/assets/base.css?v=177946997503462741151790011860"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sodapup.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sodapup.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sodapup.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sodapup.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sodapup.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sodapup.com/",
+        "https://sodapup.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://sodapup.com/cdn/shop/t/50/assets/base.css?v=177946997503462741151790011860"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sodapup.com/"
+      ]
+    },
+    "colors.accent-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sodapup.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.interactive": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sodapup.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sodapup.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.announcement-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.review-rating": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    }
+  }
+}

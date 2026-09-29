@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: End of an Ear
-description: A record store that reads like a punk zine designed by a librarian — #3453a3, a deep cobalt blue, is the primary voltage, used for the site's header background, navigation links, and key interactive elements, standing out against a canvas of #e9e9e9. The typography stack is a monospace-heavy affair, with `Consolas`, `Menlo`, and `SF Mono` forming the core reading experience, giving every product title and price the weight of a typewriter. Buttons and badges use `{rounded.sm}` corners, but the real character comes from the color palette: a traffic-light system of green (#008a00) for "In Stock" badges and red (#ee0000) for "Sold Out," with a sharp yellow (#ffff2f) for sale pricing. The layout is dense and utilitarian — a single-column product grid on mobile, expanding to three columns on desktop — with `{spacing.sm}` gaps between cards and `{spacing.base}` padding inside each. There is no hero image, no lifestyle photography; the brand trusts its inventory photography and raw typographic hierarchy. The footer is a dark slab of #393939 with white links, and the search bar sits in the header as a full-width input with a `{rounded.sm}` border. It feels like a physical store's inventory system made public — honest, unpolished, and deeply functional.
+name: "End of an Ear"
+source_url: "https://www.endofanear.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A record store that reads like a punk zine designed by a librarian — #3453a3, a deep cobalt blue, is the primary voltage, used for the site's header background, navigation links, and key interactive elements, standing out against a canvas of #e9e9e9. The typography stack is a monospace-heavy affair, with `Consolas`, `Menlo`, and `SF Mono` forming the core reading experience, giving every product title and price the weight of a typewriter. Buttons and badges use `{rounded.sm}` corners, but the real character comes from the color palette: a traffic-light system of green (#008a00) for "In Stock" badges and red (#ee0000) for "Sold Out," with a sharp yellow (#ffff2f) for sale pricing. The layout is dense and utilitarian — a single-column product grid on mobile, expanding to three columns on desktop — with `{spacing.sm}` gaps between cards and `{spacing.base}` padding inside each. There is no hero image, no lifestyle photography; the brand trusts its inventory photography and raw typographic hierarchy. The footer is a dark slab of #393939 with white links, and the search bar sits in the header as a full-width input with a `{rounded.sm}` border. It feels like a physical store's inventory system made public — honest, unpolished, and deeply functional.
 
 colors:
   primary: "#3453a3"
@@ -278,6 +282,8 @@ components:
 - The search bar moves from the header to below the nav on mobile, becoming a full-width element.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact hover and focus states for all components (only primary button active state is confirmed).
 - Error styling for form inputs (validation, error messages).

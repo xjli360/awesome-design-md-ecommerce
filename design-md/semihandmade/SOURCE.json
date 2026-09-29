@@ -1,0 +1,984 @@
+{
+  "source_url": "https://semihandmade.com",
+  "final_url": "https://www.semihandmade.com/",
+  "captured_at": "2026-09-29T04:02:52.191535+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://semihandmade.com",
+      "final_url": "https://www.semihandmade.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "97ddf3eb17aff7d58d32d20ff689fb1550d3746e04f59d3b83a0897a9c751e3e",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+      "final_url": "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "dffd0fbb15c33498e35d96ed7c29dbd1e8db9a4e3b49c96147782e514579679d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.semihandmade.com/cdn/shop/t/247/assets/global.css?v=60526692883547058291730923906",
+      "final_url": "https://www.semihandmade.com/cdn/shop/t/247/assets/global.css?v=60526692883547058291730923906",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c0ae769643ce9002c057e49724a54aeca9737d57b58e22d1052fdde51580c4e9",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.semihandmade.com/cdn/shop/t/247/assets/theme.css?v=159990016200554745111756235244",
+      "final_url": "https://www.semihandmade.com/cdn/shop/t/247/assets/theme.css?v=159990016200554745111756235244",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "39745ff39cd8964c7338a93695afc9c66a42e79bda6d7146a9d21fb6a92f7f42",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.semihandmade.com/cdn/shop/t/247/assets/flickity.css?v=122453240017779381021713913322",
+      "final_url": "https://www.semihandmade.com/cdn/shop/t/247/assets/flickity.css?v=122453240017779381021713913322",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c6acaa04c59bb52c735dddb6723f94dd4fa1dd14427f94b3b5140889592dfefc",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.semihandmade.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.semihandmade.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 49,
+      "sources": [
+        "https://www.semihandmade.com/",
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/global.css?v=60526692883547058291730923906",
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/theme.css?v=159990016200554745111756235244",
+        "https://www.semihandmade.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f16154": {
+      "count": 36,
+      "sources": [
+        "https://www.semihandmade.com/",
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/theme.css?v=159990016200554745111756235244"
+      ]
+    },
+    "#001838": {
+      "count": 32,
+      "sources": [
+        "https://www.semihandmade.com/",
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/theme.css?v=159990016200554745111756235244"
+      ]
+    },
+    "#00000000": {
+      "count": 14,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/theme.css?v=159990016200554745111756235244",
+        "https://www.semihandmade.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#151531": {
+      "count": 13,
+      "sources": [
+        "https://www.semihandmade.com/",
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/theme.css?v=159990016200554745111756235244"
+      ]
+    },
+    "#00bbff": {
+      "count": 11,
+      "sources": [
+        "https://www.semihandmade.com/"
+      ]
+    },
+    "#585956": {
+      "count": 11,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/theme.css?v=159990016200554745111756235244"
+      ]
+    },
+    "#43576b": {
+      "count": 9,
+      "sources": [
+        "https://www.semihandmade.com/",
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/global.css?v=60526692883547058291730923906"
+      ]
+    },
+    "#e2e8f0": {
+      "count": 6,
+      "sources": [
+        "https://www.semihandmade.com/"
+      ]
+    },
+    "#f1615440": {
+      "count": 6,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816"
+      ]
+    },
+    "#000000": {
+      "count": 4,
+      "sources": [
+        "https://www.semihandmade.com/",
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/theme.css?v=159990016200554745111756235244"
+      ]
+    },
+    "#e8eee6": {
+      "count": 4,
+      "sources": [
+        "https://www.semihandmade.com/",
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/global.css?v=60526692883547058291730923906"
+      ]
+    },
+    "#198754": {
+      "count": 4,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816"
+      ]
+    },
+    "#fae3d2": {
+      "count": 3,
+      "sources": [
+        "https://www.semihandmade.com/"
+      ]
+    },
+    "#667eea": {
+      "count": 3,
+      "sources": [
+        "https://www.semihandmade.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 3,
+      "sources": [
+        "https://www.semihandmade.com/"
+      ]
+    },
+    "#e1e8ed": {
+      "count": 3,
+      "sources": [
+        "https://www.semihandmade.com/"
+      ]
+    },
+    "#f8f9fa": {
+      "count": 3,
+      "sources": [
+        "https://www.semihandmade.com/",
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816"
+      ]
+    },
+    "#6c757d": {
+      "count": 3,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816"
+      ]
+    },
+    "#e9ecef": {
+      "count": 3,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816"
+      ]
+    },
+    "#495057": {
+      "count": 3,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 3,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/theme.css?v=159990016200554745111756235244"
+      ]
+    },
+    "#f8d6bb": {
+      "count": 3,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/theme.css?v=159990016200554745111756235244"
+      ]
+    },
+    "#f7f4f0": {
+      "count": 2,
+      "sources": [
+        "https://www.semihandmade.com/"
+      ]
+    },
+    "#faba0a": {
+      "count": 2,
+      "sources": [
+        "https://www.semihandmade.com/"
+      ]
+    },
+    "#f16255": {
+      "count": 2,
+      "sources": [
+        "https://www.semihandmade.com/"
+      ]
+    },
+    "#666666": {
+      "count": 2,
+      "sources": [
+        "https://www.semihandmade.com/"
+      ]
+    },
+    "#3182ce": {
+      "count": 2,
+      "sources": [
+        "https://www.semihandmade.com/"
+      ]
+    },
+    "#d63384": {
+      "count": 2,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816"
+      ]
+    },
+    "#ffc107": {
+      "count": 2,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816"
+      ]
+    },
+    "#0dcaf0": {
+      "count": 2,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816"
+      ]
+    },
+    "#343a40": {
+      "count": 2,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816"
+      ]
+    },
+    "#ced4da": {
+      "count": 2,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816"
+      ]
+    },
+    "#adb5bd": {
+      "count": 2,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816"
+      ]
+    },
+    "#212529": {
+      "count": 2,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816"
+      ]
+    },
+    "#ccd5de": {
+      "count": 2,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/theme.css?v=159990016200554745111756235244"
+      ]
+    },
+    "#d15449": {
+      "count": 2,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/global.css?v=60526692883547058291730923906"
+      ]
+    },
+    "#1212128c": {
+      "count": 2,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/theme.css?v=159990016200554745111756235244"
+      ]
+    },
+    "#92a3b3": {
+      "count": 2,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/theme.css?v=159990016200554745111756235244"
+      ]
+    },
+    "#1199ff": {
+      "count": 2,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/flickity.css?v=122453240017779381021713913322"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f59087": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/"
+      ]
+    },
+    "#b1473e": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/"
+      ]
+    },
+    "#69312a": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/"
+      ]
+    },
+    "#3f332a": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/"
+      ]
+    },
+    "#f6c8a5": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/"
+      ]
+    },
+    "#eaeef2": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/"
+      ]
+    },
+    "#eaf2fb": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/"
+      ]
+    },
+    "#175b9b": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/"
+      ]
+    },
+    "#a0aec0": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/"
+      ]
+    },
+    "#dcdee0": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/"
+      ]
+    },
+    "#f8faff": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/"
+      ]
+    },
+    "#374151": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/"
+      ]
+    },
+    "#9ca3af": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/"
+      ]
+    },
+    "#999999": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/"
+      ]
+    },
+    "#d1d9e0": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/"
+      ]
+    },
+    "#0d47a1": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/"
+      ]
+    },
+    "#0d6efd": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816"
+      ]
+    },
+    "#6610f2": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816"
+      ]
+    },
+    "#6f42c1": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816"
+      ]
+    },
+    "#dc3545": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816"
+      ]
+    },
+    "#fd7e14": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816"
+      ]
+    },
+    "#20c997": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816"
+      ]
+    },
+    "#dee2e6": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816"
+      ]
+    },
+    "#f9c0bb": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/global.css?v=60526692883547058291730923906"
+      ]
+    },
+    "#f7a098": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/global.css?v=60526692883547058291730923906"
+      ]
+    },
+    "#1212120e": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/theme.css?v=159990016200554745111756235244"
+      ]
+    },
+    "#838383": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/theme.css?v=159990016200554745111756235244"
+      ]
+    },
+    "#c5c5c5": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/theme.css?v=159990016200554745111756235244"
+      ]
+    },
+    "#3a4b63": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/theme.css?v=159990016200554745111756235244"
+      ]
+    },
+    "#00000014": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/theme.css?v=159990016200554745111756235244"
+      ]
+    },
+    "#00000050": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/theme.css?v=159990016200554745111756235244"
+      ]
+    },
+    "#324457": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/theme.css?v=159990016200554745111756235244"
+      ]
+    },
+    "#00000080": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/theme.css?v=159990016200554745111756235244"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/flickity.css?v=122453240017779381021713913322"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.semihandmade.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://www.semihandmade.com/"
+    ],
+    "Arial": [
+      "https://www.semihandmade.com/",
+      "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816"
+    ],
+    "BlinkMacSystemFont": [
+      "https://www.semihandmade.com/"
+    ],
+    "Domaine Sans Text Regular": [
+      "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+      "https://www.semihandmade.com/cdn/shop/t/247/assets/global.css?v=60526692883547058291730923906",
+      "https://www.semihandmade.com/cdn/shop/t/247/assets/theme.css?v=159990016200554745111756235244"
+    ],
+    "GT America Bold": [
+      "https://www.semihandmade.com/cdn/shop/t/247/assets/global.css?v=60526692883547058291730923906",
+      "https://www.semihandmade.com/cdn/shop/t/247/assets/theme.css?v=159990016200554745111756235244"
+    ],
+    "GT America Bold Helvetica": [
+      "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816"
+    ],
+    "Helvetica": [
+      "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816"
+    ],
+    "Helvetica Neue": [
+      "https://www.semihandmade.com/"
+    ],
+    "Larken-Bold": [
+      "https://www.semihandmade.com/cdn/shop/t/247/assets/theme.css?v=159990016200554745111756235244"
+    ],
+    "Roboto": [
+      "https://www.semihandmade.com/"
+    ],
+    "Segoe UI": [
+      "https://www.semihandmade.com/"
+    ],
+    "sans-serif": [
+      "https://www.semihandmade.com/",
+      "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.semihandmade.com/",
+      "selector": ":root",
+      "declarations": "--section-padding-common: 30px;\n\t\t--announcement-banner-height: 61px;\n\t\t--header-height: 76px;"
+    },
+    {
+      "source": "https://www.semihandmade.com/",
+      "selector": ".section-header, #offCanvasMenu, #offCanvasMenu .subnav",
+      "declarations": "background-color: #43576b;"
+    },
+    {
+      "source": "https://www.semihandmade.com/",
+      "selector": ".section-header > *",
+      "declarations": "color: #ffffff;"
+    },
+    {
+      "source": "https://www.semihandmade.com/",
+      "selector": "#gr-widget-633156295.gr-carousel-layout-1 .gr-product-link",
+      "declarations": "display: flex;\n        align-items: center;\n        gap: 6px;\n        padding: var(--gr-product-link-padding-vertical, 6px) var(--gr-product-link-padding-horizontal, 12px);\n        background: var(--gr-product-link-background, #f8f9fa);\n        border-radius: var(--gr-product-link-border-radius, 8px);\n        border: var(--gr-product-link-border, 0px solid #e2e8f0);\n        text-decoration: none;\n        font-size: var(--gr-product-title-font-size, 13px);\n        color: var(--gr-product-link-text-color, #3182ce);\n        transition: all 0.2s ease;"
+    },
+    {
+      "source": "https://www.semihandmade.com/",
+      "selector": "#gr-widget-633156295.gr-carousel-layout-1 .gr-product-link:hover",
+      "declarations": "background: var(--gr-product-link-hover-background, #e2e8f0);\n        text-decoration: none;\n        color: var(--gr-product-link-text-color, #3182ce);"
+    },
+    {
+      "source": "https://www.semihandmade.com/",
+      "selector": "#gr-widget-633156295.gr-carousel-layout-1 .gr-product-title",
+      "declarations": "font-weight: var(--gr-product-title-font-weight, 600);\n        color: inherit;\n        font-size: var(--gr-product-title-font-size, 13px);"
+    },
+    {
+      "source": "https://www.semihandmade.com/",
+      "selector": "#gr-widget-633156295.gr-carousel-layout-1 .gr-ai-summary-header",
+      "declarations": "background: var(--gr-ai-summary-header-background);\n        color: var(--gr-ai-summary-header-text-color);\n        padding: 12px 16px;\n        display: flex;\n        align-items: center;\n        gap: 8px;\n        font-weight: 600;\n        font-size: 14px;\n        border-bottom: 1px solid rgba(255, 255, 255, 0.2);"
+    },
+    {
+      "source": "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+      "selector": "body",
+      "declarations": "margin:0;font-family:var(--bs-body-font-family);font-size:var(--bs-body-font-size);font-weight:var(--bs-body-font-weight);line-height:var(--bs-body-line-height);color:var(--bs-body-color);text-align:var(--bs-body-text-align);background-color:var(--bs-body-bg);-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:rgba(0,24,56,0)"
+    },
+    {
+      "source": "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+      "selector": "h6,.h6,h5,.h5,h4,.h4,h3,.h3,h2,.h2,h1,.h1",
+      "declarations": "margin-top:0;margin-bottom:.5rem;font-family:Domaine Sans Text Regular,Helvetica,Arial,sans-serif;font-weight:400;line-height:1.2;color:var(--bs-heading-color)"
+    },
+    {
+      "source": "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+      "selector": "thead,tbody,tr,td,th",
+      "declarations": "border-color:inherit;border-style:solid;border-width:0"
+    },
+    {
+      "source": "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+      "selector": "input,button,select,textarea",
+      "declarations": "margin:0;font-family:inherit;font-size:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+      "selector": ":root",
+      "declarations": "--bs-breakpoint-xs: 0;--bs-breakpoint-sm: 576px;--bs-breakpoint-md: 768px;--bs-breakpoint-lg: 992px;--bs-breakpoint-xl: 1200px;--bs-breakpoint-xxl: 1400px"
+    },
+    {
+      "source": "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+      "selector": ".form-control::file-selector-button",
+      "declarations": "padding:.375rem .75rem;margin:-.375rem -.75rem;margin-inline-end:.75rem;color:var(--bs-body-color);background-color:var(--bs-tertiary-bg);pointer-events:none;border-color:inherit;border-style:solid;border-width:0;border-inline-end-width:var(--bs-border-width);border-radius:0;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out"
+    },
+    {
+      "source": "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+      "selector": ".form-control:hover:not(:disabled):not([readonly])::file-selector-button",
+      "declarations": "background-color:var(--bs-secondary-bg)"
+    },
+    {
+      "source": "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+      "selector": ".btn",
+      "declarations": "--bs-btn-padding-x: 1rem;--bs-btn-padding-y: .625rem;--bs-btn-font-family: GT America Bold Helvetica, Arial, sans-serif;--bs-btn-font-size:1rem;--bs-btn-font-weight: 700;--bs-btn-line-height: 1.5;--bs-btn-color: #FFFFFF;--bs-btn-bg: transparent;--bs-btn-border-width: var(--bs-border-width);--bs-btn-border-color: transparent;--bs-btn-border-radius: var(--bs-border-radius);--bs-btn-hover-border-color: transparent;--bs-btn-box-shadow: inset 0 1px 0 rgba(255, 255, 255, .15), 0 1px 1px rgba(0, 24, 56, .075);--bs-btn-disabled-opacity: .65;--bs-btn-focus-box-shadow: 0 0 0 .25rem rgba(var(--bs-btn-focus-shadow-rgb), .5);display:inline-block;padding:var(--bs-btn-padding-y) var(--bs-btn-padding-x);fon"
+    },
+    {
+      "source": "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+      "selector": ".btn:hover",
+      "declarations": "color:var(--bs-btn-hover-color);background-color:var(--bs-btn-hover-bg);border-color:var(--bs-btn-hover-border-color)"
+    },
+    {
+      "source": "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+      "selector": ".btn:focus-visible",
+      "declarations": "color:var(--bs-btn-hover-color);background-color:var(--bs-btn-hover-bg);border-color:var(--bs-btn-hover-border-color);outline:0;box-shadow:var(--bs-btn-focus-box-shadow)"
+    },
+    {
+      "source": "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+      "selector": ":not(.btn-check)+.btn:active,.btn:first-child:active,.btn.active,.btn.show",
+      "declarations": "color:var(--bs-btn-active-color);background-color:var(--bs-btn-active-bg);border-color:var(--bs-btn-active-border-color)"
+    },
+    {
+      "source": "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+      "selector": ".btn:disabled,.btn.disabled,fieldset:disabled .btn",
+      "declarations": "color:var(--bs-btn-disabled-color);pointer-events:none;background-color:var(--bs-btn-disabled-bg);border-color:var(--bs-btn-disabled-border-color);opacity:var(--bs-btn-disabled-opacity)"
+    },
+    {
+      "source": "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+      "selector": ".btn-primary",
+      "declarations": "--bs-btn-color: #001838;--bs-btn-bg: #F16154;--bs-btn-border-color: #F16154;--bs-btn-hover-color: #001838;--bs-btn-hover-bg: #f16154;--bs-btn-hover-border-color: rgb(242.4, 112.8, 101.1);--bs-btn-focus-shadow-rgb: 205, 86, 80;--bs-btn-active-color: #001838;--bs-btn-active-bg: rgb(243.8, 128.6, 118.2);--bs-btn-active-border-color: rgb(242.4, 112.8, 101.1);--bs-btn-active-shadow: inset 0 3px 5px rgba(0, 24, 56, .125);--bs-btn-disabled-color: #001838;--bs-btn-disabled-bg: #F16154;--bs-btn-disabled-border-color: #F16154"
+    },
+    {
+      "source": "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+      "selector": ".btn-secondary",
+      "declarations": "--bs-btn-color: #FFFFFF;--bs-btn-bg: #43576B;--bs-btn-border-color: #43576B;--bs-btn-hover-color: #FFFFFF;--bs-btn-hover-bg: #43576b;--bs-btn-hover-border-color: rgb(53.6, 69.6, 85.6);--bs-btn-focus-shadow-rgb: 95, 112, 129;--bs-btn-active-color: #FFFFFF;--bs-btn-active-bg: rgb(53.6, 69.6, 85.6);--bs-btn-active-border-color: rgb(50.25, 65.25, 80.25);--bs-btn-active-shadow: inset 0 3px 5px rgba(0, 24, 56, .125);--bs-btn-disabled-color: #FFFFFF;--bs-btn-disabled-bg: #43576B;--bs-btn-disabled-border-color: #43576B"
+    },
+    {
+      "source": "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+      "selector": ".btn-outline-primary",
+      "declarations": "--bs-btn-color: #F16154;--bs-btn-border-color: #F16154;--bs-btn-hover-color: #001838;--bs-btn-hover-bg: #F16154;--bs-btn-hover-border-color: #F16154;--bs-btn-focus-shadow-rgb: 241, 97, 84;--bs-btn-active-color: #001838;--bs-btn-active-bg: #F16154;--bs-btn-active-border-color: #F16154;--bs-btn-active-shadow: inset 0 3px 5px rgba(0, 24, 56, .125);--bs-btn-disabled-color: #F16154;--bs-btn-disabled-bg: transparent;--bs-btn-disabled-border-color: #F16154;--bs-gradient: none"
+    },
+    {
+      "source": "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+      "selector": ".dropdown-header",
+      "declarations": "display:block;padding:var(--bs-dropdown-header-padding-y) var(--bs-dropdown-header-padding-x);margin-bottom:0;font-size:.875rem;color:var(--bs-dropdown-header-color);white-space:nowrap"
+    },
+    {
+      "source": "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+      "selector": ".card-body",
+      "declarations": "flex:1 1 auto;padding:var(--bs-card-spacer-y) var(--bs-card-spacer-x);color:var(--bs-card-color)"
+    },
+    {
+      "source": "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+      "selector": ".accordion-button",
+      "declarations": "position:relative;display:flex;align-items:center;width:100%;padding:var(--bs-accordion-btn-padding-y) var(--bs-accordion-btn-padding-x);font-size:1rem;color:var(--bs-accordion-btn-color);text-align:left;background-color:var(--bs-accordion-btn-bg);border:0;overflow-anchor:none;transition:var(--bs-accordion-transition)"
+    },
+    {
+      "source": "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+      "selector": ".accordion-button:not(.collapsed)",
+      "declarations": "color:var(--bs-accordion-active-color);background-color:var(--bs-accordion-active-bg);box-shadow:inset 0 calc(-1*var(--bs-accordion-border-width)) 0 var(--bs-accordion-border-color)"
+    },
+    {
+      "source": "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+      "selector": ".btn-close",
+      "declarations": "--bs-btn-close-color: #001838;--bs-btn-close-bg: url(\"data:image/svg+xml,%3Csvg width='24' height='24' viewBox='0 0 24 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='M18 6L6 18' stroke='%23585956' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3Cpath d='M6 6L18 18' stroke='%23585956' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E%0A\");--bs-btn-close-opacity: .5;--bs-btn-close-hover-opacity: .75;--bs-btn-close-focus-shadow: 0 0 0 .25rem rgba(241, 97, 84, .25);--bs-btn-close-focus-opacity: 1;--bs-btn-close-disabled-opacity: .25;--bs-btn-close-white-filter: invert(1) grayscale(100%) brightness(200%);box-sizing:content-box;widt"
+    },
+    {
+      "source": "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+      "selector": ".btn-close:hover",
+      "declarations": "color:var(--bs-btn-close-color);text-decoration:none;opacity:var(--bs-btn-close-hover-opacity)"
+    },
+    {
+      "source": "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+      "selector": ".toast-header",
+      "declarations": "display:flex;align-items:center;padding:var(--bs-toast-padding-y) var(--bs-toast-padding-x);color:var(--bs-toast-header-color);background-color:var(--bs-toast-header-bg);background-clip:padding-box;border-bottom:var(--bs-toast-border-width) solid var(--bs-toast-header-border-color)"
+    },
+    {
+      "source": "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+      "selector": ".popover-header",
+      "declarations": "padding:var(--bs-popover-header-padding-y) var(--bs-popover-header-padding-x);margin-bottom:0;font-size:var(--bs-popover-header-font-size);color:var(--bs-popover-header-color);background-color:var(--bs-popover-header-bg);border-bottom:var(--bs-popover-border-width) solid var(--bs-popover-border-color)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Cabinets & Custom Doors for Ikea | Semihandmade",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.semihandmade.com/",
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/theme.css?v=159990016200554745111756235244"
+      ]
+    },
+    "colors.primary-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/global.css?v=60526692883547058291730923906"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.semihandmade.com/",
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/theme.css?v=159990016200554745111756235244"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.semihandmade.com/",
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/global.css?v=60526692883547058291730923906",
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/theme.css?v=159990016200554745111756235244",
+        "https://www.semihandmade.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.semihandmade.com/",
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.semihandmade.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.semihandmade.com/",
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/global.css?v=60526692883547058291730923906",
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/theme.css?v=159990016200554745111756235244",
+        "https://www.semihandmade.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.secondary-nav": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.semihandmade.com/",
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/global.css?v=60526692883547058291730923906"
+      ]
+    },
+    "colors.footer-ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.semihandmade.com/",
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816",
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/theme.css?v=159990016200554745111756235244"
+      ]
+    },
+    "colors.accent-warm": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.semihandmade.com/"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.semihandmade.com/cdn/shop/t/247/assets/bootstrap.css?v=111035809432975791971786998816"
+      ]
+    },
+    "colors.link": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.semihandmade.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.material-swatch-selector": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Wildflower Cases
-description: A candy-pink voltage of #e50669 runs through every primary CTA, add-to-bag button, and navigation accent, set against a near-white canvas of #f7f7f8 that keeps the focus on the cases themselves — each one a limited-edition fashion accessory rather than a phone protector. The brand leans on GTAmerica for its clean, slightly condensed body and Recife-Light for display moments, creating a contrast between utilitarian sans and a delicate, editorial serif that whispers "fashion" without shouting. Product thumbnails sit in tight grids with generous whitespace, each card a simple image-plus-price unit that lets pattern and color do the selling — no dense copy, no feature bullets. The secondary palette pulls from the cases themselves: a blush #fd83c2, a seafoam #b2f9e9, a marigold #ffcf2a, and a deep navy #272d45 that anchors the footer and utility text. Badges and sale tags use {rounded.full} pills in that signature pink, while the overall layout stays airy and editorial — a fashion magazine translated into a product grid, not a utility app. The brand's voice is confident but not loud, letting the product photography (always the hero) and the occasional all-caps headline carry the energy.
+name: "Wildflower Cases"
+source_url: "https://www.wildflowercases.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A candy-pink voltage of #e50669 runs through every primary CTA, add-to-bag button, and navigation accent, set against a near-white canvas of #f7f7f8 that keeps the focus on the cases themselves — each one a limited-edition fashion accessory rather than a phone protector. The brand leans on GTAmerica for its clean, slightly condensed body and Recife-Light for display moments, creating a contrast between utilitarian sans and a delicate, editorial serif that whispers "fashion" without shouting. Product thumbnails sit in tight grids with generous whitespace, each card a simple image-plus-price unit that lets pattern and color do the selling — no dense copy, no feature bullets. The secondary palette pulls from the cases themselves: a blush #fd83c2, a seafoam #b2f9e9, a marigold #ffcf2a, and a deep navy #272d45 that anchors the footer and utility text. Badges and sale tags use {rounded.full} pills in that signature pink, while the overall layout stays airy and editorial — a fashion magazine translated into a product grid, not a utility app. The brand's voice is confident but not loud, letting the product photography (always the hero) and the occasional all-caps headline carry the energy.
 
 colors:
   primary: "#e50669"
@@ -345,6 +349,8 @@ components:
 - Filter sidebar (if present) becomes a bottom sheet or dropdown on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for product cards (whether image zoom, color overlay, or text underline) could not be reliably extracted from static analysis
 - Error styling for form validation (error messages, input error icons) was not observed in the extracted data

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Serena & Lily
-description: Deep navy (#243953) anchors every surface where confidence matters — the top navigation bar, primary CTAs, and editorial headlines — while a warm cream canvas (#fbf7ee) drifts underneath like bleached linen left on a porch rail. The palette is a tidal gradient: that signature navy pulls toward shore through slate (#667487), coastal blue (#75a2b5), and a barely-there fog (#acbecf) before dissolving into the pale sand of the background. Typography is handled entirely by Beatrice, a geometric sans-serif that runs from Thin (200) in oversized hero proclamations to Semibold (600) in compact navigation labels; display sizes land around 40–48px at weight 300–400, giving headlines a tall, airy proportion that mirrors the brand's high-ceilinged room photography. Cards and containers carry a modest `{rounded.sm}` radius — enough curvature to feel approachable but not so much that furniture imagery loses its rectangular echo. Spacing is generous: product grids breathe at `{spacing.xl}` gutters, hero sections claim `{spacing.section}` or more of vertical territory, and body copy sits at 16px with 1.6 line-height because long-form material descriptions (rattan weaves, teak grain sourcing, Sunbrella fabric specs) need room to scan. Interactive blues (#216ba5, #1d5d90) drive links and focus states while a deep red (#970013) marks clearance and error conditions. The warm off-white surface (#f9f5da) appears on promotional banners and lifestyle editorial cards, separating commerce from storytelling without a hard border. Buttons are solid navy rectangles with white text at `{typography.button-md}`, visually heavy enough to stand out against photography-dominant layouts where a lighter CTA would vanish.
+name: "Serena & Lily"
+source_url: "https://www.serenaandlily.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Deep navy (#243953) anchors every surface where confidence matters — the top navigation bar, primary CTAs, and editorial headlines — while a warm cream canvas (#fbf7ee) drifts underneath like bleached linen left on a porch rail. The palette is a tidal gradient: that signature navy pulls toward shore through slate (#667487), coastal blue (#75a2b5), and a barely-there fog (#acbecf) before dissolving into the pale sand of the background. Typography is handled entirely by Beatrice, a geometric sans-serif that runs from Thin (200) in oversized hero proclamations to Semibold (600) in compact navigation labels; display sizes land around 40–48px at weight 300–400, giving headlines a tall, airy proportion that mirrors the brand's high-ceilinged room photography. Cards and containers carry a modest `{rounded.sm}` radius — enough curvature to feel approachable but not so much that furniture imagery loses its rectangular echo. Spacing is generous: product grids breathe at `{spacing.xl}` gutters, hero sections claim `{spacing.section}` or more of vertical territory, and body copy sits at 16px with 1.6 line-height because long-form material descriptions (rattan weaves, teak grain sourcing, Sunbrella fabric specs) need room to scan. Interactive blues (#216ba5, #1d5d90) drive links and focus states while a deep red (#970013) marks clearance and error conditions. The warm off-white surface (#f9f5da) appears on promotional banners and lifestyle editorial cards, separating commerce from storytelling without a hard border. Buttons are solid navy rectangles with white text at `{typography.button-md}`, visually heavy enough to stand out against photography-dominant layouts where a lighter CTA would vanish.
 
 colors:
   primary: "#243953"
@@ -448,6 +452,8 @@ components:
 - Breadcrumbs truncate to show only parent > current on mobile, with a back-arrow replacing the full path
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact font-weight mapping between Beatrice named variants (e.g., "BeatriceLight" vs numeric 300) could not be confirmed from extraction — weights are inferred from variant names
 - No CSS custom properties or design-token variables were captured; the site may use a compiled/bundled system that strips variable names

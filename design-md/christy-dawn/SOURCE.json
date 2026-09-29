@@ -1,0 +1,889 @@
+{
+  "source_url": "https://christydawn.com",
+  "final_url": "https://christydawn.com/",
+  "captured_at": "2026-09-28T04:15:45.522062+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://christydawn.com",
+      "final_url": "https://christydawn.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "c861e6f410151398e4ef6b0e815aefcff8a4328394890d6acda2cf3e6430dd4f",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://christydawn.com/cdn/shop/t/247/assets/frenzy-placeholder.css?v=75509208904321786261787677039",
+      "final_url": "https://christydawn.com/cdn/shop/t/247/assets/frenzy-placeholder.css?v=75509208904321786261787677039",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "da727e2c5807e34feeddb09427f2e5852b1c048275e61c4842cd7095e9f151ac",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css",
+      "final_url": "https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "de1e399b07289f3b0a8d35142e363e128124a1185770e214e25e58030dad48e5",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878",
+      "final_url": "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "06aa752e5ae77515bc5a4fd4e4c40715bc5907d3bbe27d1a965a9fd0e7a72052",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://christydawn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://christydawn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://crossborder-integration.global-e.com/resources/css/10001425/US",
+      "final_url": "https://crossborder-integration.global-e.com/resources/css/10001425/US",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 144,
+      "sources": [
+        "https://christydawn.com/",
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "#ffffff": {
+      "count": 104,
+      "sources": [
+        "https://christydawn.com/",
+        "https://christydawn.com/cdn/shop/t/247/assets/frenzy-placeholder.css?v=75509208904321786261787677039",
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878",
+        "https://christydawn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000000": {
+      "count": 63,
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878",
+        "https://christydawn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#e2dedd": {
+      "count": 28,
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "#faf8f4": {
+      "count": 19,
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "#00000080": {
+      "count": 12,
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "#00000017": {
+      "count": 11,
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "#ededed": {
+      "count": 9,
+      "sources": [
+        "https://christydawn.com/"
+      ]
+    },
+    "#707070": {
+      "count": 8,
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "#ede2df": {
+      "count": 8,
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "#333333": {
+      "count": 7,
+      "sources": [
+        "https://christydawn.com/"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 7,
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/frenzy-placeholder.css?v=75509208904321786261787677039"
+      ]
+    },
+    "#fbf8f4": {
+      "count": 7,
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "#00000024": {
+      "count": 7,
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "#853423": {
+      "count": 7,
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "#5c4841": {
+      "count": 6,
+      "sources": [
+        "https://christydawn.com/"
+      ]
+    },
+    "#f8f2ea": {
+      "count": 6,
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "#c31818": {
+      "count": 4,
+      "sources": [
+        "https://christydawn.com/",
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "#303030": {
+      "count": 4,
+      "sources": [
+        "https://christydawn.com/"
+      ]
+    },
+    "#f9f4ee": {
+      "count": 4,
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "#ffffff00": {
+      "count": 4,
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "#555555": {
+      "count": 4,
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 3,
+      "sources": [
+        "https://christydawn.com/",
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 3,
+      "sources": [
+        "https://christydawn.com/"
+      ]
+    },
+    "#5e745d": {
+      "count": 3,
+      "sources": [
+        "https://christydawn.com/",
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "#f9f7f3": {
+      "count": 3,
+      "sources": [
+        "https://christydawn.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 3,
+      "sources": [
+        "https://christydawn.com/",
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "#f5f5f4": {
+      "count": 3,
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/frenzy-placeholder.css?v=75509208904321786261787677039"
+      ]
+    },
+    "#89685c": {
+      "count": 3,
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "#6b5147": {
+      "count": 3,
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "#a76263": {
+      "count": 3,
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "#0000000f": {
+      "count": 3,
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "#fcfaf8": {
+      "count": 3,
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "#abc4d3": {
+      "count": 3,
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "#e3685d": {
+      "count": 3,
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 2,
+      "sources": [
+        "https://christydawn.com/"
+      ]
+    },
+    "#52614e": {
+      "count": 2,
+      "sources": [
+        "https://christydawn.com/"
+      ]
+    },
+    "#999999": {
+      "count": 2,
+      "sources": [
+        "https://christydawn.com/",
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "#5e755d": {
+      "count": 2,
+      "sources": [
+        "https://christydawn.com/"
+      ]
+    },
+    "#4f4f4f": {
+      "count": 2,
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "#894d4e": {
+      "count": 2,
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "#eae0dd": {
+      "count": 2,
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "#faf8f400": {
+      "count": 2,
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "#000000bf": {
+      "count": 2,
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://christydawn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#d02f2e": {
+      "count": 1,
+      "sources": [
+        "https://christydawn.com/"
+      ]
+    },
+    "#478947": {
+      "count": 1,
+      "sources": [
+        "https://christydawn.com/"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 1,
+      "sources": [
+        "https://christydawn.com/"
+      ]
+    },
+    "#536652": {
+      "count": 1,
+      "sources": [
+        "https://christydawn.com/"
+      ]
+    },
+    "#414141": {
+      "count": 1,
+      "sources": [
+        "https://christydawn.com/"
+      ]
+    },
+    "#3c9342": {
+      "count": 1,
+      "sources": [
+        "https://christydawn.com/"
+      ]
+    },
+    "#a77a06": {
+      "count": 1,
+      "sources": [
+        "https://christydawn.com/"
+      ]
+    },
+    "#a70100": {
+      "count": 1,
+      "sources": [
+        "https://christydawn.com/"
+      ]
+    },
+    "#473832": {
+      "count": 1,
+      "sources": [
+        "https://christydawn.com/"
+      ]
+    },
+    "#0d0e07": {
+      "count": 1,
+      "sources": [
+        "https://christydawn.com/"
+      ]
+    },
+    "#e4e4e4": {
+      "count": 1,
+      "sources": [
+        "https://christydawn.com/"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 1,
+      "sources": [
+        "https://christydawn.com/"
+      ]
+    },
+    "#ece3df": {
+      "count": 1,
+      "sources": [
+        "https://christydawn.com/"
+      ]
+    },
+    "#c70000": {
+      "count": 1,
+      "sources": [
+        "https://christydawn.com/"
+      ]
+    },
+    "#f8f7f3": {
+      "count": 1,
+      "sources": [
+        "https://christydawn.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+    ],
+    "Crimson Pro": [
+      "https://christydawn.com/"
+    ],
+    "Garamond": [
+      "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+    ],
+    "Helvetica": [
+      "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+    ],
+    "Helvetica Neue": [
+      "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+    ],
+    "Hoefler Text": [
+      "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+    ],
+    "Maison Neue Book": [
+      "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+    ],
+    "Outfit": [
+      "https://christydawn.com/"
+    ],
+    "PalaceItalic": [
+      "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+    ],
+    "PalaceItalic!important": [
+      "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+    ],
+    "Times": [
+      "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+    ],
+    "Times New Roman": [
+      "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+    ],
+    "ajensonpro-lt": [
+      "https://christydawn.com/",
+      "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+    ],
+    "garamond-premier-pro": [
+      "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+    ],
+    "garamond-premier-pro-caption": [
+      "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+    ],
+    "garamond-premier-pro-display": [
+      "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+    ],
+    "sans-serif": [
+      "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+    ],
+    "sans-serif!important": [
+      "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+    ],
+    "serif": [
+      "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+    ],
+    "serif !important": [
+      "https://christydawn.com/"
+    ],
+    "serif!important": [
+      "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+    ],
+    "swiper-icons": [
+      "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://christydawn.com/",
+      "selector": ":root",
+      "declarations": "--logo-font-size: \n2.23125rem\n;\n      --font-size-heading-display-1: \n3.796875rem\n;\n      --font-size-heading-display-2: \n3.37415625rem\n;\n      --font-size-heading-display-3: \n2.95295625rem\n;\n      --font-size-heading-1-base: \n2.53125rem\n;\n      --font-size-heading-2-base: \n2.21484375rem\n;\n      --font-size-heading-3-base: \n1.8984375rem\n;\n      --font-size-heading-4-base: \n1.47571875rem\n;\n      --font-size-heading-5-base: \n1.265625rem\n;\n      --font-size-heading-6-base: \n1.053rem\n;\n      --font-size-body-400: \n1.928915625rem\n;\n      --font-size-body-350: \n1.8003984375rem\n;\n      --font-size-body-300: \n1.67188125rem\n;\n      --font-size-body-250: \n1.5433640625rem\n;\n      --font-size-body-200: "
+    },
+    {
+      "source": "https://christydawn.com/",
+      "selector": "ndle=\"alpaca\"],.product-badge[data-handle=\"alpaca-fabric\"],.product-badge[data-handle=\"alpaca-fabric\"],.product-badge[data-handle=\"regenerative-alpaca\"],.produc",
+      "declarations": "color: #000000;"
+    },
+    {
+      "source": "https://christydawn.com/",
+      "selector": "-overlay-outline-button-alpha:\nrgba(255, 255, 255, 0.1);\n\n  \n--focal-alignment: center;\n--focal-alignment: center;\n #shopify-section-template--19389911367739__s",
+      "declarations": "background-color: #0d0e07;"
+    },
+    {
+      "source": "https://christydawn.com/",
+      "selector": "ax-width: 60px\n--desktop-width: 75%;\n            --desktop-padding: 3%;\n            \n--desktop-width: 25%;\n            --desktop-padding: 0%;\n            \nposit",
+      "declarations": "background-color: transparent;\n    \tborder: none;\n        color: #5c4841;"
+    },
+    {
+      "source": "https://christydawn.com/",
+      "selector": ":root",
+      "declarations": "--rivo-aw-background-color: #ffffff;\n      --rivo-aw-desktop-sidebar-left: 0px;\n      --rivo-aw-desktop-sidebar-right: auto;\n      --rivo-aw-desktop-slidein-translate-x: -100%;\n      --rivo-aw-desktop-slideout-translate-x: -100%;\n      --rivo-aw-heading-font-color: #000000;\n      --rivo-aw-body-primary-font-color: #000000;\n      --rivo-aw-body-secondary-font-color: #000000;\n      --rivo-aw-border-color: #000000;\n      --rivo-aw-subdued-color: #f7f7f7;\n      --rivo-aw-icon-color: #5c4841;\n      --rivo-aw-primary-color: #000000;\n      --rivo-aw-favorite-button-active-color: #5e755d;\n      --rivo-aw-toast-offset-left: 15px;\n      --rivo-aw-toast-offset-right: auto;\n      --rivo-aw-default-font-"
+    },
+    {
+      "source": "https://christydawn.com/",
+      "selector": ":root",
+      "declarations": "--rivo-aw-bg: #f9f7f3;\n  --rivo-aw-border-radius: 0px;\n  --rivo-slideout-body-font-size: 18px;"
+    },
+    {
+      "source": "https://christydawn.com/",
+      "selector": ".rivo-mini-block-title,\n.rivo-product-action-title",
+      "declarations": "font-family: 'ajensonpro-lt';\n  text-transform: uppercase;"
+    },
+    {
+      "source": "https://christydawn.com/cdn/shop/t/247/assets/frenzy-placeholder.css?v=75509208904321786261787677039",
+      "selector": "body .frenzy_grid_inner.filter_animation_loader_frame",
+      "declarations": "background-color:#e9e9e9;height:792.5px"
+    },
+    {
+      "source": "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878",
+      "selector": ".frenzy_recommendation_title.frenzy_slider_title,.frenzy_product_item_detail h3 a",
+      "declarations": "font-family:ajensonpro-lt,garamond-premier-pro,Garamond,Hoefler Text,Times New Roman,Times,serif;font-weight:300;font-style:normal!important;text-transform:uppercase;color:#000!important"
+    },
+    {
+      "source": "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878",
+      "selector": ".frenzy_product_price_sale:not(.is-sale)",
+      "declarations": "color:#000!important"
+    },
+    {
+      "source": "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878",
+      "selector": ".frenzy_product_price_sale.is-sale",
+      "declarations": "color:#c31818!important"
+    },
+    {
+      "source": "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878",
+      "selector": ".btn-lg.rust",
+      "declarations": "font-family:Maison Neue Book,Helvetica Neue,Helvetica,Arial,sans-serif;font-weight:400;letter-spacing:.04em;text-decoration:none!important;background:#89685c;border:1px solid hsl(16.3636363636,20%,44.862745098%);font-size:14px;color:#fbf8f4;padding:8px 60px;line-height:35px;height:50px;opacity:1;-webkit-transition:all .2s ease-out;-moz-transition:all .2s ease-out;-ms-transition:all .2s ease-out;-o-transition:all .2s ease-out;transition:all .2s ease-out"
+    },
+    {
+      "source": "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878",
+      "selector": ".btn-lg.rust:hover",
+      "declarations": "background:#6b5147;color:#fbf8f4"
+    },
+    {
+      "source": "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878",
+      "selector": ".btn-lg.rust.italic",
+      "declarations": "-webkit-font-smoothing:antialiased;font-family:garamond-premier-pro,Garamond,Hoefler Text,Times New Roman,Times,serif;font-weight:400;font-style:italic;text-transform:none;font-size:18px"
+    },
+    {
+      "source": "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878",
+      "selector": ".btn-lg.rust#BIS_trigger",
+      "declarations": "background:#89685c;color:#fbf8f4;font-size:12px;padding-top:1px"
+    },
+    {
+      "source": "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878",
+      "selector": ".btn-lg.rust#BIS_trigger:hover",
+      "declarations": "background:#6b5147;color:#fbf8f4"
+    },
+    {
+      "source": "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878",
+      "selector": ".btn-sm.rust",
+      "declarations": "font-family:Maison Neue Book,Helvetica Neue,Helvetica,Arial,sans-serif;font-weight:400;letter-spacing:.04em;background:#89685c;border:1px solid hsl(16.3636363636,20%,44.862745098%);font-size:14px;color:#fbf8f4;padding:8px 10px;line-height:25px;-webkit-transition:all .2s ease-out;-moz-transition:all .2s ease-out;-ms-transition:all .2s ease-out;-o-transition:all .2s ease-out;transition:all .2s ease-out"
+    },
+    {
+      "source": "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878",
+      "selector": ".btn-sm.rust:hover",
+      "declarations": "background:#6b5147;color:#fbf8f4"
+    },
+    {
+      "source": "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878",
+      "selector": "#shopify-product-reviews .spr-header .spr-summary-actions-newreview",
+      "declarations": "float:none;margin-top:24px;margin-top:var(--spacing-6);color:var(--color-background-button);border:1px solid var(--color-background-button);transition:color .2s ease,border-color .2s ease"
+    },
+    {
+      "source": "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878",
+      "selector": "#shopify-product-reviews .spr-header .spr-summary-actions-newreview:hover:not([disabled]),#shopify-product-reviews .spr-header .spr-summary-actions-newreview:fo",
+      "declarations": "color:var(--color-background-button-alpha);border-color:var(--color-background-button-alpha)"
+    },
+    {
+      "source": "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878",
+      "selector": "#shopify-product-reviews .spr-header-title,#shopify-product-reviews .spr-form-title,#shopify-product-reviews .spr-review-header-title",
+      "declarations": "font-family:var(--font-heading);font-weight:var(--font-heading-weight);font-style:var(--font-heading-style);letter-spacing:var(--font-heading-base-letter-spacing);text-transform:var(--font-heading-text-transform)"
+    },
+    {
+      "source": "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878",
+      "selector": "bel,#shopify-product-reviews .spr-review-content-body,#shopify-product-reviews .spr-review-header-byline,#shopify-product-reviews .spr-review-reportreview,#shop",
+      "declarations": "font-family:var(--font-body);font-weight:var(--font-body-weight);font-style:var(--font-body-style);line-height:var(--line-height-body);letter-spacing:var(--font-body-base-letter-spacing)"
+    },
+    {
+      "source": "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878",
+      "selector": "#shopify-product-reviews .spr-content .spr-form .spr-form-input",
+      "declarations": "color:var(--color-text);opacity:1"
+    },
+    {
+      "source": "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878",
+      "selector": "#shopify-product-reviews .spr-content .spr-form .spr-form-input::-moz-placeholder",
+      "declarations": "opacity:.6;color:var(--color-text)"
+    },
+    {
+      "source": "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878",
+      "selector": "#shopify-product-reviews .spr-content .spr-form .spr-form-input:-ms-input-placeholder",
+      "declarations": "opacity:.6;color:var(--color-text)"
+    },
+    {
+      "source": "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878",
+      "selector": "#shopify-product-reviews .spr-content .spr-form .spr-form-input::placeholder",
+      "declarations": "opacity:.6;color:var(--color-text)"
+    },
+    {
+      "source": "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878",
+      "selector": "#shopify-product-reviews .spr-content .spr-form-message-error",
+      "declarations": "position:relative;background-color:#0000;border:1px solid var(--color-text-error);color:var(--color-text-error);padding:8px;padding:var(--spacing-2)"
+    },
+    {
+      "source": "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878",
+      "selector": "#shopify-product-reviews .spr-content .spr-form-message-error:after",
+      "declarations": "content:\"\";position:absolute;top:0;right:0;bottom:0;left:0;background-color:var(--color-text-error);opacity:.1"
+    },
+    {
+      "source": "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878",
+      "selector": "#shopify-product-reviews .spr-content .spr-starrating.spr-form-input-error a",
+      "declarations": "color:var(--color-text-error)"
+    },
+    {
+      "source": "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878",
+      "selector": "#shopify-product-reviews .spr-content .spr-form-input-error",
+      "declarations": "border-color:var(--color-text-error)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Christy Dawn - Regenerative, Ethical & Timeless Clothing",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "colors.accent-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://christydawn.com/",
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://christydawn.com/",
+        "https://christydawn.com/cdn/shop/t/247/assets/frenzy-placeholder.css?v=75509208904321786261787677039",
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878",
+        "https://christydawn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://christydawn.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://christydawn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.border-subtle": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://christydawn.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "colors.accent-clay": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "colors.accent-sage": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://christydawn.com/"
+      ]
+    },
+    "colors.accent-success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://christydawn.com/"
+      ]
+    },
+    "colors.accent-sale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://christydawn.com/",
+        "https://christydawn.com/cdn/shop/t/247/assets/theme.css?v=116233460824334731971790280878"
+      ]
+    },
+    "colors.accent-error": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://christydawn.com/"
+      ]
+    },
+    "colors.ground-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://christydawn.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.size-selector": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Saddle Creek
-description: A record label turned community brand that runs on a cyan voltage (#40d9f1) against a deep near-black ink (#191919), a pairing that reads more like an indie label's merch drop than a real-estate developer's website — which makes sense given the site's actual page title describes a masterplan community in Calaveras County. The cyan appears sparingly: as a hover underline on navigation links, as a badge background for "NEW" tags, as the fill on small icon buttons, and as the primary CTA background that sits on a white canvas (#ffffff). The body text runs at #222222 on white, with secondary copy in #767676 and hairline borders in #e6e6e6, creating a clean editorial hierarchy that lets the cyan act as the single moment of color surprise. Typography uses Montserrat for headings (weight 600–700, tight tracking at -0.3px) and Lora for body copy, a serif+sans pairing that signals both literary credibility and approachable warmth. Cards use soft rounding ({rounded.sm} at 8px), while buttons and badges use pill shapes ({rounded.full}), giving the interface a friendly, collectible feel — like a vinyl sleeve you want to pick up. The footer stacks four columns of links in #8d8d8d on #f7f7f7, with the cyan reappearing only on hover, a restrained use that makes the brand color feel earned rather than decorative.
+name: "Saddle Creek"
+source_url: "https://www.saddlecreek.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A record label turned community brand that runs on a cyan voltage (#40d9f1) against a deep near-black ink (#191919), a pairing that reads more like an indie label's merch drop than a real-estate developer's website — which makes sense given the site's actual page title describes a masterplan community in Calaveras County. The cyan appears sparingly: as a hover underline on navigation links, as a badge background for "NEW" tags, as the fill on small icon buttons, and as the primary CTA background that sits on a white canvas (#ffffff). The body text runs at #222222 on white, with secondary copy in #767676 and hairline borders in #e6e6e6, creating a clean editorial hierarchy that lets the cyan act as the single moment of color surprise. Typography uses Montserrat for headings (weight 600–700, tight tracking at -0.3px) and Lora for body copy, a serif+sans pairing that signals both literary credibility and approachable warmth. Cards use soft rounding ({rounded.sm} at 8px), while buttons and badges use pill shapes ({rounded.full}), giving the interface a friendly, collectible feel — like a vinyl sleeve you want to pick up. The footer stacks four columns of links in #8d8d8d on #f7f7f7, with the cyan reappearing only on hover, a restrained use that makes the brand color feel earned rather than decorative.
 
 colors:
   primary: "#40d9f1"
@@ -368,6 +372,8 @@ components:
 - Product grids collapse from 4 columns on wide screens to 3 on desktop, 2 on tablet, and 1 on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted hex list is dominated by grays (#eeeeee, #e6e6e6, #222222, #aaaaaa, #444444, #8d8d8d, #888888, #efefef, #fafafa, #e2e2e2, #f7f7f7, #9a9a9a, #767676, #e4e4e4, #202020, #eaeaea, #8a8a8a, #e8e8e8, #777777, #e3e3e3, #282828, #f9f9f9, #f4f4f4) and a few blues (#003388, #5897fb, #008aff) that may be framework defaults or social-icon colors. The most distinctive non-gray color is #40d9f1 (cyan), which has been chosen as the primary brand color. The red #a81010 appears to be a sale/badge color. The actual brand may have a more nuanced palette that wasn't captured.
 - Font-family declarations included "Lora" and "Montserrat" among many system fallbacks. These have been assigned as the primary heading and body fonts respectively, but the actual font weights, sizes, and pairings are inferred from common usage patterns rather than extracted CSS.

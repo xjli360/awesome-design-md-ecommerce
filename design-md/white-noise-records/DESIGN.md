@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: White Noise Records
-description: A record store that wears its orange — #fb6500 — like a neon tube sign flickering in a concrete basement, the single color that electrifies every CTA, price badge, and sale tag against a near-black canvas of #121212 and #222222. The brand lives in the gap between noise and signal: Barlow in modest weights (400–600) runs body copy at 14–16px, while display heads sit at 24–28px in weight 500, never shouting. Buttons are sharp-cornered rectangles (`{rounded.xs}` ~4px) with that orange fill, a deliberate resistance to the pill-shaped friendliness of marketplace design — this is a store for people who dig through crates, not swipe through feeds. Product cards use `{rounded.md}` (12px) on a #cac9c9 hairline, with stock-status badges in #008a00 (available) and #fb6500 (pre-order), and a secondary accent of #ffbd00 for sale pricing. The nav bar is a dark slab (#222222) with white text, the search bar a white pill (`{rounded.full}`) on that dark ground — the one soft shape in an otherwise angular system. Social icons pull in their platform colors (#3b5998 Facebook, #1da1f2 Twitter, #bd081c Pinterest, #d83776 Instagram), but they sit in a footer that's pure #121212, a deliberate dimming after the orange blast of the hero.
+name: "White Noise Records"
+source_url: "https://www.whitenoiserecords.org"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A record store that wears its orange — #fb6500 — like a neon tube sign flickering in a concrete basement, the single color that electrifies every CTA, price badge, and sale tag against a near-black canvas of #121212 and #222222. The brand lives in the gap between noise and signal: Barlow in modest weights (400–600) runs body copy at 14–16px, while display heads sit at 24–28px in weight 500, never shouting. Buttons are sharp-cornered rectangles (`{rounded.xs}` ~4px) with that orange fill, a deliberate resistance to the pill-shaped friendliness of marketplace design — this is a store for people who dig through crates, not swipe through feeds. Product cards use `{rounded.md}` (12px) on a #cac9c9 hairline, with stock-status badges in #008a00 (available) and #fb6500 (pre-order), and a secondary accent of #ffbd00 for sale pricing. The nav bar is a dark slab (#222222) with white text, the search bar a white pill (`{rounded.full}`) on that dark ground — the one soft shape in an otherwise angular system. Social icons pull in their platform colors (#3b5998 Facebook, #1da1f2 Twitter, #bd081c Pinterest, #d83776 Instagram), but they sit in a footer that's pure #121212, a deliberate dimming after the orange blast of the hero.
 
 colors:
   primary: "#fb6500"
@@ -380,6 +384,8 @@ components:
 - Search bar moves from inline in nav to full-width below nav on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for most components could not be reliably extracted from the live site; only `button-primary` and `button-secondary` have confirmed active states. All other hover/focus styling should be assumed from platform conventions (Shopify default) until verified.
 - Error styling for form inputs (validation borders, error messages) was not visible in the extracted data. The brand likely uses Shopify's default error patterns (#e74c3c red borders, red text) but this is unconfirmed.

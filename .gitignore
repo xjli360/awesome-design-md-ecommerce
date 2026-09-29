@@ -16,8 +16,8 @@ RESUME.md
 /DESIGN.md
 
 # --- legacy / superseded brand folders (collection lives in design-md/) ---
-brands/
-kante/
+/brands/
+/kante/
 
 # --- disabled generator + raw source dump (data/brands.csv is the public artifact) ---
 scripts/worker.py

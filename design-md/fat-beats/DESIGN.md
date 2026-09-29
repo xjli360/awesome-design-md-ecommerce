@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Fat Beats
-description: A record store's digital storefront that wears its hip-hop heritage in a single marigold accent — #ffb800 — a color that reads as both a vintage sticker on a crate and a highlighter on a rare 12-inch. The site runs on a near-monochrome palette of #dedede, #e1e1e1, and #121212, with the yellow appearing only on the primary CTA button and the "Add to Cart" pill, making each click feel like a purchase of something singular. The typography is Inter at modest weights (400–600), with product titles at 16px and prices at 14px — no display hero, no oversized headlines, just a clean, utilitarian grid that lets the album art do the talking. The navigation is a simple left-aligned logo and right-aligned cart icon, with a search bar that uses {rounded.full} and a soft gray border. Product cards are flat white rectangles with {rounded.sm} corners, a 1px hairline, and a hover state that subtly lifts the image. The footer is dense with links, divided into columns, and uses {colors.muted} for secondary text. The overall feel is that of a well-organized crate — everything has its place, the yellow tab tells you where to act, and the rest is quiet, letting the vinyl speak.
+name: "Fat Beats"
+source_url: "https://www.fatbeats.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A record store's digital storefront that wears its hip-hop heritage in a single marigold accent — #ffb800 — a color that reads as both a vintage sticker on a crate and a highlighter on a rare 12-inch. The site runs on a near-monochrome palette of #dedede, #e1e1e1, and #121212, with the yellow appearing only on the primary CTA button and the "Add to Cart" pill, making each click feel like a purchase of something singular. The typography is Inter at modest weights (400–600), with product titles at 16px and prices at 14px — no display hero, no oversized headlines, just a clean, utilitarian grid that lets the album art do the talking. The navigation is a simple left-aligned logo and right-aligned cart icon, with a search bar that uses {rounded.full} and a soft gray border. Product cards are flat white rectangles with {rounded.sm} corners, a 1px hairline, and a hover state that subtly lifts the image. The footer is dense with links, divided into columns, and uses {colors.muted} for secondary text. The overall feel is that of a well-organized crate — everything has its place, the yellow tab tells you where to act, and the rest is quiet, letting the vinyl speak.
 
 colors:
   primary: "#ffb800"
@@ -300,6 +304,8 @@ components:
 - The search bar collapses from a full-width pill to a compact icon that expands on tap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No extracted hover states for buttons, links, or cards (assumed from common patterns)
 - No extracted focus or active states for form inputs

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Ooni
-description: Ooni is the brand that turned backyard pizza-making into a cult obsession — a design system built around the heat and glow of fire, the char of a Neapolitan crust, and the tactile satisfaction of a steel peel sliding under a perfect pie. The palette is anchored in deep charcoal and iron tones — `#25282a`, `#293035`, `#17191a`, `#22272a` — that read as industrial, serious, and heat-resistant, like the shell of a Koda 16. Against that dark forge, the brand’s primary voltage is a molten amber-gold gradient that lives between `#ffc633`, `#ffd057`, and `#f79a20` — a color that suggests flame, melted cheese, and the moment of truth when you lift the lid. Accents of `#bc3c26` and `#d4602c` add a burnt-orange edge, while `#006fcf` and `#3086c8` appear sparingly as technical highlights (think gas regulator knobs or app UI). The canvas is `#f5f5f5` and `#e2e2e2` — warm off-whites that never feel clinical — with cards and surfaces sitting on `#ffffff`. Hairlines in `#c1c2c3` and `#cccccc` keep the grid crisp without shouting. Typography is absent from extracted hints, so the system assumes a clean, modern sans-serif stack — likely something like Inter or a system fallback — set at moderate weights to let the product photography (steam, fire, dough) do the heavy lifting. Rounded corners are generous but not pill-obsessed: `{rounded.sm}` for buttons, `{rounded.md}` for cards, `{rounded.full}` for the occasional badge or toggle. The voice is direct, confident, and slightly irreverent — “The world’s best pizza oven” isn’t a boast, it’s a fact. Every design move reinforces the central promise: you, in your backyard, making pizzeria-quality pizza in 60 seconds.
+name: "Ooni"
+source_url: "https://ooni.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Ooni is the brand that turned backyard pizza-making into a cult obsession — a design system built around the heat and glow of fire, the char of a Neapolitan crust, and the tactile satisfaction of a steel peel sliding under a perfect pie. The palette is anchored in deep charcoal and iron tones — `#25282a`, `#293035`, `#17191a`, `#22272a` — that read as industrial, serious, and heat-resistant, like the shell of a Koda 16. Against that dark forge, the brand’s primary voltage is a molten amber-gold gradient that lives between `#ffc633`, `#ffd057`, and `#f79a20` — a color that suggests flame, melted cheese, and the moment of truth when you lift the lid. Accents of `#bc3c26` and `#d4602c` add a burnt-orange edge, while `#006fcf` and `#3086c8` appear sparingly as technical highlights (think gas regulator knobs or app UI). The canvas is `#f5f5f5` and `#e2e2e2` — warm off-whites that never feel clinical — with cards and surfaces sitting on `#ffffff`. Hairlines in `#c1c2c3` and `#cccccc` keep the grid crisp without shouting. Typography is absent from extracted hints, so the system assumes a clean, modern sans-serif stack — likely something like Inter or a system fallback — set at moderate weights to let the product photography (steam, fire, dough) do the heavy lifting. Rounded corners are generous but not pill-obsessed: `{rounded.sm}` for buttons, `{rounded.md}` for cards, `{rounded.full}` for the occasional badge or toggle. The voice is direct, confident, and slightly irreverent — “The world’s best pizza oven” isn’t a boast, it’s a fact. Every design move reinforces the central promise: you, in your backyard, making pizzeria-quality pizza in 60 seconds.
 
 colors:
   primary: "#ffc633"
@@ -530,6 +534,8 @@ components:
 - Cart drawer replaces the full cart page on mobile, sliding in from the right
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact font-family declarations could not be extracted from the live site; the system assumes Inter as the primary sans-serif based on common DTC appliance brand usage, but the actual stack may differ
 - Hover and active states for all components are inferred from common e-commerce patterns and the brand's color palette; actual interaction specifications (transition durations, easing curves, shadow depths) were not extractable

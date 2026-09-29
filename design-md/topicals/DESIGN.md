@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Topicals
-description: Topicals is a skincare brand built for flare-ups — acne, eczema, hyperpigmentation, and the emotional weight that comes with chronic skin conditions. The palette is anchored by a deep, almost-black ink (`#131212`) that reads as serious and grounded, not trendy. Against that sits a warm, off-white canvas (`#f6f6f6`) and a soft card surface (`#ffffff`), creating a clean, clinical-but-comfortable stage for product photography and ingredient storytelling. The brand's primary voltage is a muted, dusty rose (`#973f54`) — not a bright millennial pink, but a sophisticated, almost vintage blush that appears on CTAs, badges, and accent typography. A secondary accent of mustard yellow (`#ffe056`) adds a pop of optimism, while a deep teal (`#00b174`) and burnt sienna (`#ac533e`) round out a palette that feels botanical, not synthetic. Red (`#f61f1f`, `#ff454e`) is reserved for urgency — sale badges, error states, or limited-edition drops. The typography system leans on ITC Garamond Std for display and headline work, lending a literary, editorial feel that separates Topicals from the sans-serif uniformity of most DTC skincare. Body copy runs in a clean monospace or system sans-serif stack, creating a deliberate tension between old-world elegance and modern utility. Rounded corners are generous but not pill-shaped — cards and buttons use `{rounded.sm}` (8px) to `{rounded.md}` (12px), while the primary CTA button uses `{rounded.sm}` with a full-height, bold presence. The brand trusts whitespace, muted hairlines (`#dadada`, `#e6e6e6`), and a restrained use of color to let product photography and ingredient callouts do the heavy lifting. The overall mood is calm, informed, and unapologetically real — no airbrushed models, no pastel gradients, just honest skin science wrapped in warm, tactile design.
+name: "Topicals"
+source_url: "https://www.mytopicals.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Topicals is a skincare brand built for flare-ups — acne, eczema, hyperpigmentation, and the emotional weight that comes with chronic skin conditions. The palette is anchored by a deep, almost-black ink (`#131212`) that reads as serious and grounded, not trendy. Against that sits a warm, off-white canvas (`#f6f6f6`) and a soft card surface (`#ffffff`), creating a clean, clinical-but-comfortable stage for product photography and ingredient storytelling. The brand's primary voltage is a muted, dusty rose (`#973f54`) — not a bright millennial pink, but a sophisticated, almost vintage blush that appears on CTAs, badges, and accent typography. A secondary accent of mustard yellow (`#ffe056`) adds a pop of optimism, while a deep teal (`#00b174`) and burnt sienna (`#ac533e`) round out a palette that feels botanical, not synthetic. Red (`#f61f1f`, `#ff454e`) is reserved for urgency — sale badges, error states, or limited-edition drops. The typography system leans on ITC Garamond Std for display and headline work, lending a literary, editorial feel that separates Topicals from the sans-serif uniformity of most DTC skincare. Body copy runs in a clean monospace or system sans-serif stack, creating a deliberate tension between old-world elegance and modern utility. Rounded corners are generous but not pill-shaped — cards and buttons use `{rounded.sm}` (8px) to `{rounded.md}` (12px), while the primary CTA button uses `{rounded.sm}` with a full-height, bold presence. The brand trusts whitespace, muted hairlines (`#dadada`, `#e6e6e6`), and a restrained use of color to let product photography and ingredient callouts do the heavy lifting. The overall mood is calm, informed, and unapologetically real — no airbrushed models, no pastel gradients, just honest skin science wrapped in warm, tactile design.
 
 colors:
   primary: "#973f54"
@@ -333,6 +337,8 @@ components:
 - Accordions remain single-column on mobile and tablet, expanding to two columns on desktop.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for all components beyond primary/secondary buttons are not reliably extracted (e.g., product card hover shadow, nav link underline animation, accordion hover background).
 - Error and validation styling for forms (red border, error message typography, success state) is not fully documented.

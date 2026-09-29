@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Retro vGames
-description: A deep, dark canvas of #111111 forms the backdrop for a retro gaming marketplace where #dc9814 — a warm, oxidized-gold accent — fires across every primary CTA, price badge, and "Add to Cart" button. The site reads like a well-lit game shop after hours: the ink-black background (#111111) pushes product photography forward while #eeeeee body text on #222222 surface cards keeps readability high without breaking the mood. Navigation runs a clean monochrome hierarchy — #555555 muted links against the dark canvas, #2074c1 as the sole blue anchor for account and cart icons. Product cards sit on #222222 surfaces with {rounded.sm} corners, each carrying a gold price badge (#dc9814) that acts as the brand's single color voltage. The typography stack defaults to system fonts (InterVariable, -apple-system, Arial) — no custom typeface, which keeps page weight low and load times fast for a catalog-heavy store. Search bars and filter dropdowns use {rounded.xs} on #2b2b2b fields with #737373 placeholder text, while the footer collapses into a dense #111111 column stack with #6b7280 legal links. The overall effect is a utilitarian, collector-focused interface — the gold (#dc9814) is the only warmth, and it's deployed sparingly enough that every instance feels like a find.
+name: "Retro vGames"
+source_url: "https://retrovgames.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep, dark canvas of #111111 forms the backdrop for a retro gaming marketplace where #dc9814 — a warm, oxidized-gold accent — fires across every primary CTA, price badge, and "Add to Cart" button. The site reads like a well-lit game shop after hours: the ink-black background (#111111) pushes product photography forward while #eeeeee body text on #222222 surface cards keeps readability high without breaking the mood. Navigation runs a clean monochrome hierarchy — #555555 muted links against the dark canvas, #2074c1 as the sole blue anchor for account and cart icons. Product cards sit on #222222 surfaces with {rounded.sm} corners, each carrying a gold price badge (#dc9814) that acts as the brand's single color voltage. The typography stack defaults to system fonts (InterVariable, -apple-system, Arial) — no custom typeface, which keeps page weight low and load times fast for a catalog-heavy store. Search bars and filter dropdowns use {rounded.xs} on #2b2b2b fields with #737373 placeholder text, while the footer collapses into a dense #111111 column stack with #6b7280 legal links. The overall effect is a utilitarian, collector-focused interface — the gold (#dc9814) is the only warmth, and it's deployed sparingly enough that every instance feels like a find.
 
 colors:
   primary: "#dc9814"
@@ -334,6 +338,8 @@ components:
 - Breadcrumbs hide on mobile; replaced by a "Back" button
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components were inferred from the extracted color palette; actual hover/focus colors may differ on the live site
 - Error state styling for form inputs (red borders, error messages) could not be reliably extracted; `{colors.accent-red}` (#df0202) is a candidate but not confirmed

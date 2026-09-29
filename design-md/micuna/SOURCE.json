@@ -1,0 +1,854 @@
+{
+  "source_url": "https://micuna.com",
+  "final_url": "https://micuna.com/en/",
+  "captured_at": "2026-09-28T10:15:39.359035+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://micuna.com",
+      "final_url": "https://micuna.com/en/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "55c6b58cd259c17c94ed1f7a961e2bfa26ed47ed8089c3355e88e2d248549c6f",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://micuna.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-list-horizontal/style.min.css?ver=1",
+      "final_url": "https://micuna.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/legacy-list-horizontal/style.min.css?ver=1",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "19fb8fd435c0bce0c7b49c24d128cce686d4a6bba0de63d34d5effa4e1f644f4",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://micuna.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/menu-item/style.min.css?ver=1",
+      "final_url": "https://micuna.com/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/menu-item/style.min.css?ver=1",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4b9257e3e9c959214ddfab833a69a021ae6557403efe76afcbee259621175274",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://micuna.com/wp-content/plugins/fusion-core/css/comment-form.min.css?ver=5.4.1",
+      "final_url": "https://micuna.com/wp-content/plugins/fusion-core/css/comment-form.min.css?ver=5.4.1",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2d1e8ba43288eb8319b19f3dc2f0b6574c9ca75bd86446ea3e03d33c8e11d97e",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://micuna.com/wp-content/plugins/fusion-core/css/faqs.min.css?ver=5.4.1",
+      "final_url": "https://micuna.com/wp-content/plugins/fusion-core/css/faqs.min.css?ver=5.4.1",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9c8e7817e3ed96d06a7d3fa1b3c41a11a316c9658df39f422b50e1e681d85947",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://micuna.com/wp-content/plugins/fusion-core/css/portfolio.min.css?ver=5.4.1",
+      "final_url": "https://micuna.com/wp-content/plugins/fusion-core/css/portfolio.min.css?ver=5.4.1",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c16f1dd35ecb4ed981b2b5b6cd9daf8d43175c971b4896da626dcfdc344fe412",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 237,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#333333": {
+      "count": 93,
+      "sources": [
+        "https://micuna.com/en/",
+        "https://micuna.com/wp-content/plugins/fusion-core/css/portfolio.min.css?ver=5.4.1"
+      ]
+    },
+    "#6d6e73": {
+      "count": 72,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#d8ab90": {
+      "count": 62,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#d5ab92": {
+      "count": 38,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#6c6d72": {
+      "count": 37,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#d2d2d2": {
+      "count": 36,
+      "sources": [
+        "https://micuna.com/en/",
+        "https://micuna.com/wp-content/plugins/fusion-core/css/comment-form.min.css?ver=5.4.1"
+      ]
+    },
+    "#e0dede": {
+      "count": 30,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#444444": {
+      "count": 26,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#000000": {
+      "count": 24,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#65bc7b": {
+      "count": 21,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#ebeaea": {
+      "count": 20,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#212934": {
+      "count": 20,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#a0ce4e": {
+      "count": 17,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#f9fcfb": {
+      "count": 16,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#aaa9a9": {
+      "count": 14,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#e7e6e6": {
+      "count": 13,
+      "sources": [
+        "https://micuna.com/en/",
+        "https://micuna.com/wp-content/plugins/fusion-core/css/portfolio.min.css?ver=5.4.1"
+      ]
+    },
+    "#6d6e70": {
+      "count": 13,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#f9f9fb": {
+      "count": 13,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 12,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#54770f": {
+      "count": 12,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#fbfaf9": {
+      "count": 11,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 11,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#4a4e57": {
+      "count": 11,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#a64242": {
+      "count": 10,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#808080": {
+      "count": 10,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#dddddd": {
+      "count": 9,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#6596cb": {
+      "count": 9,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#eae9e9": {
+      "count": 9,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#666666": {
+      "count": 8,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#5ca340": {
+      "count": 8,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#dbdbdb": {
+      "count": 6,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#46494a": {
+      "count": 6,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#747474": {
+      "count": 6,
+      "sources": [
+        "https://micuna.com/en/",
+        "https://micuna.com/wp-content/plugins/fusion-core/css/comment-form.min.css?ver=5.4.1"
+      ]
+    },
+    "#555555": {
+      "count": 6,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 5,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#e7e5d9": {
+      "count": 5,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#222222": {
+      "count": 5,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#eaeaea": {
+      "count": 5,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#d8a88d": {
+      "count": 5,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#efefef": {
+      "count": 4,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#f2dede": {
+      "count": 4,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#f6eae2": {
+      "count": 4,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 4,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#e9eaee": {
+      "count": 4,
+      "sources": [
+        "https://micuna.com/en/",
+        "https://micuna.com/wp-content/plugins/fusion-core/css/portfolio.min.css?ver=5.4.1"
+      ]
+    },
+    "#32373c": {
+      "count": 3,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#ff6900": {
+      "count": 3,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#0693e3": {
+      "count": 3,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#dadada": {
+      "count": 3,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#7099cb": {
+      "count": 3,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#709ad4": {
+      "count": 3,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#fafafa": {
+      "count": 3,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#696460": {
+      "count": 3,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#cccccc": {
+      "count": 3,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#dff0d8": {
+      "count": 3,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#efeeee": {
+      "count": 3,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#cf2e2e": {
+      "count": 2,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#fcb900": {
+      "count": 2,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#00d084": {
+      "count": 2,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "#9b51e0": {
+      "count": 2,
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://micuna.com/en/"
+    ],
+    "Consolas": [
+      "https://micuna.com/en/"
+    ],
+    "DM Sans": [
+      "https://micuna.com/en/"
+    ],
+    "Font Awesome 5 Brands": [
+      "https://micuna.com/en/"
+    ],
+    "Font Awesome 5 Free": [
+      "https://micuna.com/en/"
+    ],
+    "Helvetica": [
+      "https://micuna.com/en/"
+    ],
+    "Lora": [
+      "https://micuna.com/en/"
+    ],
+    "Menlo": [
+      "https://micuna.com/en/"
+    ],
+    "ModernLine": [
+      "https://micuna.com/en/"
+    ],
+    "Montserrat": [
+      "https://micuna.com/en/"
+    ],
+    "Montserrat !important": [
+      "https://micuna.com/en/"
+    ],
+    "Montserrat\" !important": [
+      "https://micuna.com/en/"
+    ],
+    "PT Sans": [
+      "https://micuna.com/en/"
+    ],
+    "awb-icons": [
+      "https://micuna.com/en/"
+    ],
+    "awb-icons!important": [
+      "https://micuna.com/en/"
+    ],
+    "inherit !important": [
+      "https://micuna.com/en/"
+    ],
+    "inherit!important": [
+      "https://micuna.com/en/"
+    ],
+    "monaco": [
+      "https://micuna.com/en/"
+    ],
+    "monospace": [
+      "https://micuna.com/en/"
+    ],
+    "sans-serif": [
+      "https://micuna.com/en/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://micuna.com/en/",
+      "selector": ".wp-block-button__link",
+      "declarations": "color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em"
+    },
+    {
+      "source": "https://micuna.com/en/",
+      "selector": ".wp-block-file__button",
+      "declarations": "background:#32373c;color:#fff;text-decoration:none"
+    },
+    {
+      "source": "https://micuna.com/en/",
+      "selector": ".wp-block-button",
+      "declarations": "--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;"
+    },
+    {
+      "source": "https://micuna.com/en/",
+      "selector": ":root :where(.wp-element-button, .wp-block-button__link)",
+      "declarations": "background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;"
+    },
+    {
+      "source": "https://micuna.com/en/",
+      "selector": ":root",
+      "declarations": "--button_padding:11px 23px;--button_font_size:13px;--button_line_height:16px;"
+    },
+    {
+      "source": "https://micuna.com/en/",
+      "selector": ".woocommerce-product-gallery .woocommerce-product-gallery__trigger",
+      "declarations": "position:absolute;z-index:1;right:0;width:40px;height:40px;text-align:center;background-color:rgba(0,0,0,.3);font-size:0"
+    },
+    {
+      "source": "https://micuna.com/en/",
+      "selector": ".woocommerce-product-gallery .woocommerce-product-gallery__trigger:after",
+      "declarations": "position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);font-family:awb-icons;content:\"\\f002\";color:#fff;font-size:18px"
+    },
+    {
+      "source": "https://micuna.com/en/",
+      "selector": ".product-buttons a:before",
+      "declarations": "position:absolute;margin-left:-16px;font-family:awb-icons;color:inherit"
+    },
+    {
+      "source": "https://micuna.com/en/",
+      "selector": "#wrapper .fusion-clean-product-image-wrapper .cart-loading",
+      "declarations": "background-color:transparent"
+    },
+    {
+      "source": "https://micuna.com/en/",
+      "selector": ".fusion-body .fusion-wrapper .star-rating",
+      "declarations": "font-family:awb-icons"
+    },
+    {
+      "source": "https://micuna.com/en/",
+      "selector": "ollover-content .fusion-rollover-linebreak,.fusion-woo-slider .fusion-product-buttons,.fusion-woo-slider .fusion-product-buttons .fusion-rollover-linebreak,.fus",
+      "declarations": "color:#333333"
+    },
+    {
+      "source": "https://micuna.com/en/",
+      "selector": ".fusion-woo-product-design-clean .products .fusion-rollover .star-rating span:before,.fusion-woo-product-design-clean .products .fusion-rollover .star-rating:be",
+      "declarations": "color:#ffffff"
+    },
+    {
+      "source": "https://micuna.com/en/",
+      "selector": ".products .product-list-view .fusion-product-wrapper",
+      "declarations": "padding-left:20px;padding-right:20px;border-color:#ebeaea"
+    },
+    {
+      "source": "https://micuna.com/en/",
+      "selector": ".products li .fusion-product-wrapper",
+      "declarations": "background-color:#ffffff"
+    },
+    {
+      "source": "https://micuna.com/en/",
+      "selector": ".product-buttons,.product-buttons-container,.products li .fusion-product-wrapper",
+      "declarations": "border-color:#ebeaea"
+    },
+    {
+      "source": "https://micuna.com/en/",
+      "selector": ".avada-button-select,.avada-color-select,.avada-image-select",
+      "declarations": "width:50px;height:50px;border-style:solid;border-width:1px 1px 1px 1px;border-radius:0px;border-color:#d2d2d2;background-color:#ffffff;position:relative;margin-right:5px;cursor:pointer;padding:5px;display:inline-flex"
+    },
+    {
+      "source": "https://micuna.com/en/",
+      "selector": "ect:focus:not([data-checked]),.avada-button-select:hover,.avada-color-select:focus:not([data-checked]),.avada-color-select:hover,.avada-image-select:focus:not([",
+      "declarations": "border-color:rgba(210,210,210,0.5)"
+    },
+    {
+      "source": "https://micuna.com/en/",
+      "selector": ".avada-button-select[data-checked],.avada-color-select[data-checked],.avada-image-select[data-checked]",
+      "declarations": "border-color:#d2d2d2"
+    },
+    {
+      "source": "https://micuna.com/en/",
+      "selector": ".widget_shopping_cart_content .buttons>a:before",
+      "declarations": "font-family:awb-icons;content:\"\\f07a\";margin-right:10px"
+    },
+    {
+      "source": "https://micuna.com/en/",
+      "selector": ".widget_shopping_cart_content .buttons a.checkout:before",
+      "declarations": "font-family:awb-icons;content:\"\\f046\";margin-right:10px"
+    },
+    {
+      "source": "https://micuna.com/en/",
+      "selector": ".woocommerce-MyAccount-content .woocommerce-Pagination .woocommerce-Button--previous:before",
+      "declarations": "font-family:awb-icons;content:\"\\f104\";margin-right:5px;vertical-align:bottom"
+    },
+    {
+      "source": "https://micuna.com/en/",
+      "selector": ".woocommerce-MyAccount-content .woocommerce-Pagination .woocommerce-Button--next:after",
+      "declarations": "font-family:awb-icons;content:\"\\f105\";margin-left:5px;vertical-align:bottom"
+    },
+    {
+      "source": "https://micuna.com/en/",
+      "selector": ".avada-shipping-calculator-button:hover,.shipping-calculator-button:hover",
+      "declarations": "color:inherit;cursor:auto"
+    },
+    {
+      "source": "https://micuna.com/en/",
+      "selector": ".woocommerce.add_to_cart_inline .add_to_cart_button:after",
+      "declarations": "display:none!important;font-family:awb-icons!important;color:inherit;margin-left:5px;vertical-align:middle"
+    },
+    {
+      "source": "https://micuna.com/en/",
+      "selector": ".fusion-footer-widget-area .woocommerce-mini-cart__buttons a:before",
+      "declarations": "color:#6d6e70"
+    },
+    {
+      "source": "https://micuna.com/en/",
+      "selector": ".fusion-footer-widget-area .woocommerce-mini-cart__buttons a:before:hover",
+      "declarations": "color:#709ad4"
+    },
+    {
+      "source": "https://micuna.com/en/",
+      "selector": ".fusion-body .quantity .minus,.fusion-body .quantity .plus",
+      "declarations": "background-color:#fbfaf9"
+    },
+    {
+      "source": "https://micuna.com/en/",
+      "selector": ".fusion-body .quantity .minus:hover,.fusion-body .quantity .plus:hover",
+      "declarations": "background-color:#ffffff"
+    },
+    {
+      "source": "https://micuna.com/en/",
+      "selector": "oo-featured-products-slider .price .amount,.widget_layered_nav li.chosen a,.widget_layered_nav li.chosen a:before,.widget_layered_nav_filters li.chosen a,.widge",
+      "declarations": "color:#333333"
+    },
+    {
+      "source": "https://micuna.com/en/",
+      "selector": ".woocommerce-success-message .button:before",
+      "declarations": "font-family:awb-icons;content:\"\\f07a\";margin-right:6px"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Baby Furniture and Cots - Micuna",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://micuna.com/en/",
+        "https://micuna.com/wp-content/plugins/fusion-core/css/portfolio.min.css?ver=5.4.1"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://micuna.com/en/",
+        "https://micuna.com/wp-content/plugins/fusion-core/css/comment-form.min.css?ver=5.4.1"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "colors.border-select": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://micuna.com/en/",
+        "https://micuna.com/wp-content/plugins/fusion-core/css/comment-form.min.css?ver=5.4.1"
+      ]
+    },
+    "colors.accent-terracotta": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "colors.accent-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "colors.accent-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://micuna.com/en/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.variant-swatch-selector": {
+      "status": "inferred"
+    }
+  }
+}

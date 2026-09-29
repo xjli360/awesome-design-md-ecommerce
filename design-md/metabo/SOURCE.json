@@ -1,0 +1,906 @@
+{
+  "source_url": "https://metabo.com",
+  "final_url": "https://www.metabo.com/us/enus/",
+  "captured_at": "2026-09-28T10:34:11.806412+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://metabo.com",
+      "final_url": "https://www.metabo.com/us/enus/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "53ba2d2a8b057bc3041eea70b2e0cf2bcadfe740a878320f001e91f3cb0117cf",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "final_url": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "300b64ef478b0bf339ad5bfbdce7aad7c50551a7bfe30149a3ba5b83265c0ea4",
+      "snapshot": "stylesheet-1.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 303,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#cfcfcf": {
+      "count": 292,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#000000": {
+      "count": 280,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#224b44": {
+      "count": 195,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#cccccc": {
+      "count": 37,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#ed1a3b": {
+      "count": 30,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#626262": {
+      "count": 19,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 13,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#09726a": {
+      "count": 12,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#222222": {
+      "count": 12,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#314e49": {
+      "count": 9,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 8,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#d2d6d5": {
+      "count": 7,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#15433d": {
+      "count": 7,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#212121": {
+      "count": 6,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#e1e1e1": {
+      "count": 4,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#d1d1d1": {
+      "count": 4,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#8a0d1a": {
+      "count": 4,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 3,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#e2032e": {
+      "count": 3,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#a50a20": {
+      "count": 3,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#dadada": {
+      "count": 3,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#36706b": {
+      "count": 3,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#fefefe": {
+      "count": 3,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#111111": {
+      "count": 3,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#3f3f3f": {
+      "count": 2,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#ec1b3b": {
+      "count": 2,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#d22a32": {
+      "count": 2,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#555555": {
+      "count": 2,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#959594": {
+      "count": 2,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#f21024": {
+      "count": 2,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#004a42": {
+      "count": 2,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#858786": {
+      "count": 2,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#4a4a4a": {
+      "count": 2,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#efefef": {
+      "count": 2,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#0b0b0b": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#444444": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#bdbdbd": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#76ffdc5d": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#ea3343": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#e0e8f3": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#dcdcdc": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#777777": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#d9dfe1": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#929591": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#979a96": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#a2a6a1": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#afb3ae": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#d2d5d1": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#e1e3e1": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#eaebea": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#e3e4e3": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#b4b6b2": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#adafab": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#aeb0ad": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#c1c4c3": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#c3c6c5": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#c1c2c1": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#b7b6b3": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#b2b1ac": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#a1a7a5": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#86161d": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#dedede": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#747474": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#eaeaea": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#ee1a3b": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#d50028": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#4e4e4e": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#09332d": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#efeeec": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#e4e4e4": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#bababa": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#dfdfdf": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 1,
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+    ],
+    "Arial Black": [
+      "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+    ],
+    "Arial Bold": [
+      "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+    ],
+    "Baskerville": [
+      "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+    ],
+    "Gadget": [
+      "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+    ],
+    "Metabo W01 Regular": [
+      "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+    ],
+    "MetaboSans": [
+      "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+    ],
+    "MetaboSlab": [
+      "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+    ],
+    "Verdana": [
+      "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+    ],
+    "icomoon": [
+      "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+    ],
+    "monospace": [
+      "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+    ],
+    "sans-serif": [
+      "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "h1.pageHead",
+      "declarations": "color:transparent;text-shadow:0 0 0 #fff"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "h1.pageHead",
+      "declarations": "color:#fff;-webkit-print-color-adjust:exact"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": ".productHead .pageHead",
+      "declarations": "color:#224b44!important"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "#fontDefinition .h1Style",
+      "declarations": "font-size:1.625em;font-weight:700;line-height:2.5em;font-family:Arial,sans-serif;color:#224b44;text-transform:uppercase"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "#fontDefinition .boxHeaderGreenStyle",
+      "declarations": "font-size:.875em;font-weight:700;line-height:1.125em;font-family:Arial,sans-serif;color:#224b44;text-transform:uppercase"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "#fontDefinition .boxHeaderStyle",
+      "declarations": "font-size:.875em;font-weight:700;line-height:1.125em;font-family:Arial,sans-serif;color:#fff;text-transform:uppercase"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "#fontDefinition .productTitleStyle",
+      "declarations": "font-size:1em;font-weight:700;line-height:1.5em;font-family:Arial,sans-serif;color:#000;text-transform:none"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "#fontDefinition .productTitleBiggerStyle",
+      "declarations": "font-size:1.625em;font-weight:700;line-height:1.875em;font-family:Arial,sans-serif;color:#fff;text-transform:none"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "#fontDefinition .footerHeaderStyle",
+      "declarations": "font-size:.75em;font-weight:700;line-height:1.25em;font-family:Arial,sans-serif;color:#fff;text-transform:uppercase"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "#fontDefinition .footerSubMenuHeaderStyle",
+      "declarations": "font-size:.75em;font-weight:700;line-height:1.25em;font-family:Arial,sans-serif;color:#000;text-transform:uppercase"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "#linkDefinition .boxHeaderStyle",
+      "declarations": "font-size:.875em;font-weight:700;line-height:1.125em;font-family:Arial,sans-serif;color:#fff;text-transform:uppercase"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "#linkDefinition .boxHeaderStyleNormalCase",
+      "declarations": "font-size:.875em;font-weight:700;line-height:1.125em;font-family:Arial,sans-serif;color:#fff;text-transform:none"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "#linkDefinition .productTitleMoreStyle",
+      "declarations": "font-size:.75em;font-weight:700;line-height:1.125em;font-family:Arial,sans-serif;color:#000;text-transform:none"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "h1",
+      "declarations": "font-size:1.625em;font-weight:700;line-height:2.5em;font-family:Arial,sans-serif;color:#224b44;text-transform:uppercase;margin:0"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "h1.webfontmetabo",
+      "declarations": "font-family:'Metabo W01 Regular';font-weight:400"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "div.languageHeader",
+      "declarations": "font-size:.875em;font-weight:700;line-height:1.125em;font-family:Arial,sans-serif;color:#224b44;text-transform:uppercase;margin:1.25em"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": ".box.category div.languageHeader a",
+      "declarations": "display:block;color:#fff;overflow:hidden;width:15em;max-width:15em;text-overflow:ellipsis"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "body",
+      "declarations": "font-size:100.01%;font-family:Arial,sans-serif;cursor:default;color:#000;padding:0;position:relative;max-width:1280px;margin:0 auto;width:100%"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": ".subMenuFooter .footerHeader a",
+      "declarations": "font-size:.875em;font-weight:700;line-height:1.125em;font-family:Arial,sans-serif;color:#fff;text-transform:uppercase"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": ".csc-header-date",
+      "declarations": "font-size:.75em;font-weight:400;line-height:1.25em;font-family:Arial,sans-serif;color:#000;text-transform:none"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": ".csc-subheader",
+      "declarations": "font-size:.75em;font-weight:400;line-height:1.25em;font-family:Arial,sans-serif;color:#000;text-transform:none"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": ".ls-slide a h1,.ls-slide a h2,.ls-slide a h3,.ls-slide a h4,.ls-slide a h5",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": ".tnCookieMessage_Button",
+      "declarations": "position:absolute;right:1em;top:50%;margin:-.75em 0 0 0;width:12em;border:0;padding:.25em;font-size:1em;font-weight:400;line-height:1;font-family:Arial,sans-serif;color:#fff;text-transform:none;background:#09726a;border-radius:2px;cursor:pointer"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "#searchForm button",
+      "declarations": "background-color:transparent;border:0;position:absolute;top:1.55em;right:1.55em"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "#searchForm button span",
+      "declarations": "color:#000;font-size:1.5em;font-weight:700;position:absolute;top:0;right:0"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "ul.headerBottomMenu",
+      "declarations": "position:static;z-index:100;list-style:none outside none;margin:0;padding:0;background-color:transparent;float:right"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "ul.headerBottomMenu li.current",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "ul.headerBottomMenu a.mainNavigationLevel1",
+      "declarations": "font-size:.875em;font-weight:400;line-height:3.25em;font-family:Arial,sans-serif;color:#fff;text-transform:uppercase;padding:0 .75em"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "ul.headerBottomMenu a.mainNavigationLevel1.current",
+      "declarations": "color:#000"
+    },
+    {
+      "source": "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674",
+      "selector": "ul.headerTopMenu",
+      "declarations": "float:right;list-style:none outside none;margin:0;padding:0;background-color:transparent"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Metabo - Power Tools for professional users",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "colors.primary-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "colors.primary-tonal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "colors.accent-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "colors.surface-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "colors.on-accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.metabo.com/us/out/metabo/src/css/dist/style.css?1782982674"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.battery-compat-tag": {
+      "status": "inferred"
+    }
+  }
+}

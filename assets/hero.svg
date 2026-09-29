@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 260" width="860" height="260" role="img" aria-label="Terminal: claude --design @design-md/glossier/DESIGN.md loads a brand's color, type and spacing tokens; output: on-brand UI generated across 1,632 brands and 169 categories.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 260" width="860" height="260" role="img" aria-label="Example: an agent reads @design-md/glossier/DESIGN.md and loads a brand's color, type and spacing tokens; output: on-brand UI generated across 2,636 unique website URLs and 306 category tags.">
   <defs>
     <linearGradient id="brand" x1="0" y1="0" x2="1" y2="0">
       <stop offset="0"   stop-color="#ff5f56"/>
@@ -30,7 +30,7 @@
   <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
     <!-- command -->
     <text x="34" y="98" font-size="19">
-      <tspan fill="#7ee787">❯ </tspan><tspan fill="#c9d1d9">claude </tspan><tspan fill="#8b949e">--design </tspan><tspan fill="#ffa657">@design-md/glossier/DESIGN.md</tspan>
+      <tspan fill="#7ee787">❯ </tspan><tspan fill="#c9d1d9">claude </tspan><tspan fill="#8b949e">&quot;Use </tspan><tspan fill="#ffa657">@design-md/glossier/DESIGN.md</tspan><tspan fill="#8b949e">&quot;</tspan>
     </text>
     <!-- comment -->
     <text x="34" y="126" font-size="14" fill="#6e7681"># colors · type · spacing · radii → loaded into the model's context</text>
@@ -47,7 +47,7 @@
 
     <!-- result -->
     <text x="34" y="226" font-size="15">
-      <tspan fill="#7ee787">✓ </tspan><tspan fill="#c9d1d9">on-brand UI generated  </tspan><tspan fill="#6e7681">·  1,632 brands · 169 categories · 12 domains</tspan>
+      <tspan fill="#7ee787">✓ </tspan><tspan fill="#c9d1d9">on-brand UI generated  </tspan><tspan fill="#6e7681">·  2,636 sites · 306 categories · evidence-labelled</tspan>
     </text>
     <rect x="672" y="213" width="10" height="18" fill="#7ee787">
       <animate attributeName="opacity" values="1;0" keyTimes="0;0.5" dur="1.06s" calcMode="discrete" repeatCount="indefinite"/>

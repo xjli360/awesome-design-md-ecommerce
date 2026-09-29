@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Scotch Porter
-description: Scotch Porter is a modern men's grooming brand built on a foundation of deep, confident hues and warm, earthy accents. The brand's visual identity is anchored by a rich navy ink (`{colors.ink}`: #272d45) and a muted slate (`{colors.body}`: #676986), creating a sophisticated and grounded canvas for its product storytelling. A vibrant, energetic red (`{colors.primary}`: #eb001b) serves as the primary call-to-action, injecting a pulse of passion and urgency into the otherwise calm palette. This red is balanced by a warm, terracotta-like accent (`#b97648`) and a soft, approachable beige (`{colors.canvas}`: #f4f4f6), which together evoke natural ingredients and a tactile, premium feel. The brand's typography relies on the clean, geometric lines of Montserrat, often paired with the reliable legibility of Source Sans Pro and Arial for body copy. This combination communicates a sense of clarity, purpose, and no-nonsense efficacy. Design elements are generously spaced, with `{spacing.lg}` and `{spacing.xl}` creating breathing room around product shots and editorial content. Buttons and cards feature soft, approachable corners (`{rounded.sm}`: 8px), while badges and certain interactive elements may use a more pronounced radius (`{rounded.md}`: 12px). The overall feel is one of intentional, modern masculinity—neither overly aggressive nor minimalist, but rather warm, trustworthy, and aspirational. Subtle highlights of teal (`#00caaa`) and a muted gold (`#ffcf2a`) appear in secondary elements and badges, adding depth and a touch of unexpected color that hints at the brand's holistic approach to grooming.
+name: "Scotch Porter"
+source_url: "https://www.scotchporter.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Scotch Porter is a modern men's grooming brand built on a foundation of deep, confident hues and warm, earthy accents. The brand's visual identity is anchored by a rich navy ink (`{colors.ink}`: #272d45) and a muted slate (`{colors.body}`: #676986), creating a sophisticated and grounded canvas for its product storytelling. A vibrant, energetic red (`{colors.primary}`: #eb001b) serves as the primary call-to-action, injecting a pulse of passion and urgency into the otherwise calm palette. This red is balanced by a warm, terracotta-like accent (`#b97648`) and a soft, approachable beige (`{colors.canvas}`: #f4f4f6), which together evoke natural ingredients and a tactile, premium feel. The brand's typography relies on the clean, geometric lines of Montserrat, often paired with the reliable legibility of Source Sans Pro and Arial for body copy. This combination communicates a sense of clarity, purpose, and no-nonsense efficacy. Design elements are generously spaced, with `{spacing.lg}` and `{spacing.xl}` creating breathing room around product shots and editorial content. Buttons and cards feature soft, approachable corners (`{rounded.sm}`: 8px), while badges and certain interactive elements may use a more pronounced radius (`{rounded.md}`: 12px). The overall feel is one of intentional, modern masculinity—neither overly aggressive nor minimalist, but rather warm, trustworthy, and aspirational. Subtle highlights of teal (`#00caaa`) and a muted gold (`#ffcf2a`) appear in secondary elements and badges, adding depth and a touch of unexpected color that hints at the brand's holistic approach to grooming.
 
 colors:
   primary: "#eb001b"
@@ -343,6 +347,8 @@ components:
 - Side-by-side form fields (e.g., first/last name) stack vertically on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for many components (e.g., product cards, footer links) were inferred from common patterns but not directly extracted.
 - Error and success styling for forms (e.g., inline validation messages, input icons) were not fully captured.

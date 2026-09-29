@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Woodchuck USA
-description: A brand built on the warmth of natural wood grain against a near-black digital backdrop (#111111), where the primary green (#108474) reads less like a corporate accent and more like the patina of a well-worn leather journal. The site operates as a gift-and-accessories marketplace for customizable wooden products—flasks, watches, phone cases, and journals—and the design language mirrors the material: substantial, grounded, and slightly muted. The palette leans heavily on a spectrum of grays (#444444, #7b7b7b, #555555, #323232) that create a quiet hierarchy against the white canvas (#fafafa, #f9fafb, #f5f5f5), while the primary green appears in CTAs, navigation accents, and product badges. A secondary marigold (#fbcd0a) surfaces sparingly—perhaps for sale tags or star ratings—adding a single note of brightness. Typography runs Montserrat and Open Sans, with Montserrat likely carrying headings in a clean, slightly geometric weight, and Open Sans handling body copy for readability. The interface avoids hard corners entirely, using {rounded.sm} for buttons and cards, and {rounded.full} for search inputs and icon orbs. The Shopify platform underpins the experience, so checkout flows inherit those widget colors (#7367f0 for Shop Pay, etc.), but the brand's own visual system stays firmly in the wood-and-ink register. Product cards use generous whitespace, a single product image, and a subtle hairline (#dedede) to separate items, while the footer stacks utility links in a dense, muted grid. The overall effect is that of a specialty workshop's storefront: warm, unpretentious, and focused on the object rather than the interface.
+name: "Woodchuck USA"
+source_url: "https://www.woodchuckusa.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A brand built on the warmth of natural wood grain against a near-black digital backdrop (#111111), where the primary green (#108474) reads less like a corporate accent and more like the patina of a well-worn leather journal. The site operates as a gift-and-accessories marketplace for customizable wooden products—flasks, watches, phone cases, and journals—and the design language mirrors the material: substantial, grounded, and slightly muted. The palette leans heavily on a spectrum of grays (#444444, #7b7b7b, #555555, #323232) that create a quiet hierarchy against the white canvas (#fafafa, #f9fafb, #f5f5f5), while the primary green appears in CTAs, navigation accents, and product badges. A secondary marigold (#fbcd0a) surfaces sparingly—perhaps for sale tags or star ratings—adding a single note of brightness. Typography runs Montserrat and Open Sans, with Montserrat likely carrying headings in a clean, slightly geometric weight, and Open Sans handling body copy for readability. The interface avoids hard corners entirely, using {rounded.sm} for buttons and cards, and {rounded.full} for search inputs and icon orbs. The Shopify platform underpins the experience, so checkout flows inherit those widget colors (#7367f0 for Shop Pay, etc.), but the brand's own visual system stays firmly in the wood-and-ink register. Product cards use generous whitespace, a single product image, and a subtle hairline (#dedede) to separate items, while the footer stacks utility links in a dense, muted grid. The overall effect is that of a specialty workshop's storefront: warm, unpretentious, and focused on the object rather than the interface.
 
 colors:
   primary: "#108474"
@@ -319,6 +323,8 @@ components:
 - Product images switch from landscape to square aspect ratio on mobile for better vertical space usage
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for secondary buttons, text inputs, and links could not be reliably extracted from the live site CSS; the values provided are best-practice estimates based on the brand palette
 - Error state styling for forms (validation colors, error message typography) was not visible in the extracted data; a red accent (#c13515 or similar) is assumed but not confirmed

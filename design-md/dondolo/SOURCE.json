@@ -1,0 +1,1158 @@
+{
+  "source_url": "https://dondolo.com",
+  "final_url": "https://dondolo.com/",
+  "captured_at": "2026-09-29T04:21:43.666631+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://dondolo.com",
+      "final_url": "https://dondolo.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "810c89df135dd402f091e65ca08eace016d80a7e901657a80895ea5320df6506",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+      "final_url": "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1d54beb8e2c28c52e70b642c5f881b796fc4ce536bad1f167061bc33242f4045",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://use.typekit.net/jhz4zux.css",
+      "final_url": "https://use.typekit.net/jhz4zux.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "9372e4b540a33918f2765ecd50350a588adbfcab158f878e96806aa5bbbda063",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747",
+      "final_url": "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c7eb6cb753b797b4d5580cb186eb98174013e52f012eb5f8ff58b1e266b19328",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://dondolo.com/cdn/shop/t/80/assets/dondolo-typography.css?v=51217798137030650321780322803",
+      "final_url": "https://dondolo.com/cdn/shop/t/80/assets/dondolo-typography.css?v=51217798137030650321780322803",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "8a345bb7c8f8c9adf01db975ce9350f851bc833d9553ebf8aba859419b177651",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://dondolo.com/cdn/shop/t/80/assets/dondolo-fonts.css?v=74858573984851618081695997717",
+      "final_url": "https://dondolo.com/cdn/shop/t/80/assets/dondolo-fonts.css?v=74858573984851618081695997717",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "8a71ae8dbfe1a8f5c135a9359c82ed1be9191963aac1d4e2924485f592508776",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 107,
+      "sources": [
+        "https://dondolo.com/",
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-typography.css?v=51217798137030650321780322803"
+      ]
+    },
+    "#938c70": {
+      "count": 65,
+      "sources": [
+        "https://dondolo.com/",
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-typography.css?v=51217798137030650321780322803"
+      ]
+    },
+    "#db918a": {
+      "count": 56,
+      "sources": [
+        "https://dondolo.com/",
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-typography.css?v=51217798137030650321780322803"
+      ]
+    },
+    "#65738c": {
+      "count": 33,
+      "sources": [
+        "https://dondolo.com/",
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-typography.css?v=51217798137030650321780322803"
+      ]
+    },
+    "#444444": {
+      "count": 28,
+      "sources": [
+        "https://dondolo.com/",
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-typography.css?v=51217798137030650321780322803"
+      ]
+    },
+    "#eeeeee": {
+      "count": 27,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-typography.css?v=51217798137030650321780322803"
+      ]
+    },
+    "#000000": {
+      "count": 26,
+      "sources": [
+        "https://dondolo.com/",
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 11,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747"
+      ]
+    },
+    "#00000000": {
+      "count": 9,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747"
+      ]
+    },
+    "#dddddd": {
+      "count": 8,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#d20000": {
+      "count": 7,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#f7cac6": {
+      "count": 7,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#111111": {
+      "count": 6,
+      "sources": [
+        "https://dondolo.com/",
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#f77575": {
+      "count": 5,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747"
+      ]
+    },
+    "#f7f0f0": {
+      "count": 4,
+      "sources": [
+        "https://dondolo.com/",
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#0000004d": {
+      "count": 4,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#e7e7e7": {
+      "count": 4,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747"
+      ]
+    },
+    "#0000001f": {
+      "count": 4,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#bdad8a": {
+      "count": 3,
+      "sources": [
+        "https://dondolo.com/",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-typography.css?v=51217798137030650321780322803"
+      ]
+    },
+    "#cccccc": {
+      "count": 3,
+      "sources": [
+        "https://dondolo.com/"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 3,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#00000033": {
+      "count": 3,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#06b608": {
+      "count": 3,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#1cb5b5": {
+      "count": 3,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#f48920": {
+      "count": 3,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#d0a306": {
+      "count": 3,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#0000001a": {
+      "count": 3,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#333333": {
+      "count": 2,
+      "sources": [
+        "https://dondolo.com/",
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#3f3f3f": {
+      "count": 2,
+      "sources": [
+        "https://dondolo.com/"
+      ]
+    },
+    "#fff8f8": {
+      "count": 2,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#e6d5d4": {
+      "count": 2,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-typography.css?v=51217798137030650321780322803"
+      ]
+    },
+    "#9d5955": {
+      "count": 2,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-typography.css?v=51217798137030650321780322803"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 2,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#777777": {
+      "count": 2,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#f04343": {
+      "count": 2,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#e34848": {
+      "count": 2,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 2,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747"
+      ]
+    },
+    "#f7b6b0": {
+      "count": 2,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747"
+      ]
+    },
+    "#8d9ebd": {
+      "count": 2,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-typography.css?v=51217798137030650321780322803"
+      ]
+    },
+    "#555555": {
+      "count": 2,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-typography.css?v=51217798137030650321780322803"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/"
+      ]
+    },
+    "#b8695e": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/"
+      ]
+    },
+    "#fff8ef": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/"
+      ]
+    },
+    "#f05454": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/"
+      ]
+    },
+    "#00646c": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/"
+      ]
+    },
+    "#8da29a": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/"
+      ]
+    },
+    "#bab86c": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/"
+      ]
+    },
+    "#77bff2": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/"
+      ]
+    },
+    "#37b767": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/"
+      ]
+    },
+    "#df974d": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/"
+      ]
+    },
+    "#bdbdbd": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/"
+      ]
+    },
+    "#cfcfcf": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/"
+      ]
+    },
+    "#c4c4c4": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#54d437": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#edfbea": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#3fbc22": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#3b5998": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#00aced": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#cb2027": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#dd4d42": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#44444433": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#4444440d": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#00000099": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#4444444d": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#00000080": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#919191": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#81d53d": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#bfbbaa": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#ffffffd9": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#ffffffbf": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#938c701a": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#938c700d": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#ffffff80": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#ffffff99": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#76bd1c": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#ff9f3b": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#444444b3": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#0000000d": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#4eaf13": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#faf9f9": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#ffffff66": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#666666": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#222222": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#080808": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#b8b8b8": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "#f8f5f0": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747"
+      ]
+    },
+    "#d4d4d4": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747"
+      ]
+    },
+    "#41362b": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747"
+      ]
+    },
+    "#fafafa": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747"
+      ]
+    },
+    "#000000cc": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747"
+      ]
+    },
+    "#8796ad": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747"
+      ]
+    },
+    "#dc9189": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747"
+      ]
+    },
+    "#ffffff96": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747"
+      ]
+    },
+    "#33c7dd40": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747"
+      ]
+    },
+    "#7f90ae": {
+      "count": 1,
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747"
+      ]
+    }
+  },
+  "font_families": {
+    "Adorn-Icons": [
+      "https://dondolo.com/"
+    ],
+    "Arial": [
+      "https://dondolo.com/",
+      "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+      "https://dondolo.com/cdn/shop/t/80/assets/dondolo-typography.css?v=51217798137030650321780322803"
+    ],
+    "Baskerville": [
+      "https://dondolo.com/"
+    ],
+    "Branch": [
+      "https://dondolo.com/cdn/shop/t/80/assets/dondolo-fonts.css?v=74858573984851618081695997717"
+    ],
+    "Consolas": [
+      "https://dondolo.com/"
+    ],
+    "Lato": [
+      "https://dondolo.com/",
+      "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+      "https://dondolo.com/cdn/shop/t/80/assets/dondolo-typography.css?v=51217798137030650321780322803"
+    ],
+    "Montserrat": [
+      "https://dondolo.com/"
+    ],
+    "Petit Formal Script": [
+      "https://dondolo.com/cdn/shop/t/80/assets/dondolo-fonts.css?v=74858573984851618081695997717"
+    ],
+    "Poppins": [
+      "https://dondolo.com/",
+      "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+    ],
+    "Tahoma": [
+      "https://dondolo.com/",
+      "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+      "https://dondolo.com/cdn/shop/t/80/assets/dondolo-typography.css?v=51217798137030650321780322803"
+    ],
+    "Verdana": [
+      "https://dondolo.com/",
+      "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+      "https://dondolo.com/cdn/shop/t/80/assets/dondolo-typography.css?v=51217798137030650321780322803"
+    ],
+    "adorn-icons": [
+      "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+    ],
+    "adorn-icons!important": [
+      "https://dondolo.com/"
+    ],
+    "arial": [
+      "https://dondolo.com/",
+      "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+    ],
+    "canada-type-gibson": [
+      "https://dondolo.com/",
+      "https://use.typekit.net/jhz4zux.css",
+      "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747",
+      "https://dondolo.com/cdn/shop/t/80/assets/dondolo-typography.css?v=51217798137030650321780322803"
+    ],
+    "eldwin-script": [
+      "https://use.typekit.net/jhz4zux.css"
+    ],
+    "monarcha": [
+      "https://dondolo.com/",
+      "https://use.typekit.net/jhz4zux.css",
+      "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747",
+      "https://dondolo.com/cdn/shop/t/80/assets/dondolo-typography.css?v=51217798137030650321780322803"
+    ],
+    "monarcha!important": [
+      "https://dondolo.com/"
+    ],
+    "monospace": [
+      "https://dondolo.com/"
+    ],
+    "sans-serif": [
+      "https://dondolo.com/",
+      "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+      "https://use.typekit.net/jhz4zux.css",
+      "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747",
+      "https://dondolo.com/cdn/shop/t/80/assets/dondolo-typography.css?v=51217798137030650321780322803"
+    ],
+    "sans-serif!important": [
+      "https://dondolo.com/"
+    ],
+    "serif": [
+      "https://dondolo.com/",
+      "https://use.typekit.net/jhz4zux.css",
+      "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747",
+      "https://dondolo.com/cdn/shop/t/80/assets/dondolo-typography.css?v=51217798137030650321780322803"
+    ],
+    "serif!important": [
+      "https://dondolo.com/cdn/shop/t/80/assets/dondolo-typography.css?v=51217798137030650321780322803"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://dondolo.com/",
+      "selector": "body,button,input,select,textarea",
+      "declarations": "font-family:arial;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:100%"
+    },
+    {
+      "source": "https://dondolo.com/",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0;outline:0"
+    },
+    {
+      "source": "https://dondolo.com/",
+      "selector": ".cross-sell-products-wrap .cross-sell.xs-v2 .xs-card .xs-card-body .xs-price",
+      "declarations": "color: red;    color:#444;    font-family:Lato,Arial,Tahoma,Verdana,sans-serif!important;"
+    },
+    {
+      "source": "https://dondolo.com/",
+      "selector": ".cross-sell-products-wrap    .cross-sell    .flickity-prev-next-button.previous:hover",
+      "declarations": "background-color: none;    background: none;    opacity: 0.7;"
+    },
+    {
+      "source": "https://dondolo.com/",
+      "selector": ".cross-sell-products-wrap .cross-sell .flickity-prev-next-button.next:hover",
+      "declarations": "background-color: none;    background: none;    opacity: 0.7;"
+    },
+    {
+      "source": "https://dondolo.com/",
+      "selector": ".cross-sell-products-wrap h3.crosssell-title",
+      "declarations": "font-size: 24px;    color:#938c70;    margin-bottom: 10px !important;"
+    },
+    {
+      "source": "https://dondolo.com/",
+      "selector": ".cross-sell-products-wrap #cross-sell .cross-sell *,   .cross-sell-products-wrap #cross-sells *,   .cross-sell-products-wrap #xsell-app--quickview *,  .cross-se",
+      "declarations": "font-family: monarcha!important;"
+    },
+    {
+      "source": "https://dondolo.com/",
+      "selector": ".image-block-text-wrap-image_FdLndx .link-button a:link,\n  .image-block-text-wrap-image_FdLndx .link-button a:visited",
+      "declarations": "background-color: #65738c;\n    color: #65738c;\n    font-size: 14px;"
+    },
+    {
+      "source": "https://dondolo.com/",
+      "selector": ".image-block-text-wrap-image_FdLndx .link-button a:hover,\n  .image-block-text-wrap-image_FdLndx .link-button a:focus",
+      "declarations": "background-color: #db918a;\n    color: #db918a;\n    opacity: 1;"
+    },
+    {
+      "source": "https://dondolo.com/",
+      "selector": ".image-block-text-wrap-image_RqphR6 .link-button a:link,\n  .image-block-text-wrap-image_RqphR6 .link-button a:visited",
+      "declarations": "background-color: #db918a;\n    color: #ffffff;\n    font-size: 14px;"
+    },
+    {
+      "source": "https://dondolo.com/",
+      "selector": ".image-block-text-wrap-image_RqphR6 .link-button a:hover,\n  .image-block-text-wrap-image_RqphR6 .link-button a:focus",
+      "declarations": "background-color: #db918a;\n    color: #db918a;\n    opacity: 1;"
+    },
+    {
+      "source": "https://dondolo.com/",
+      "selector": ".image-block-text-wrap-image_XnJXcd .link-button a:link,\n  .image-block-text-wrap-image_XnJXcd .link-button a:visited",
+      "declarations": "background-color: #db918a;\n    color: #ffffff;\n    font-size: 14px;"
+    },
+    {
+      "source": "https://dondolo.com/",
+      "selector": ".image-block-text-wrap-image_XnJXcd .link-button a:hover,\n  .image-block-text-wrap-image_XnJXcd .link-button a:focus",
+      "declarations": "background-color: #db918a;\n    color: #db918a;\n    opacity: 1;"
+    },
+    {
+      "source": "https://dondolo.com/",
+      "selector": ".image-block-text-wrap-image_TJXCbq .link-button a:link,\n  .image-block-text-wrap-image_TJXCbq .link-button a:visited",
+      "declarations": "background-color: #65738c;\n    color: #65738c;\n    font-size: 14px;"
+    },
+    {
+      "source": "https://dondolo.com/",
+      "selector": ".image-block-text-wrap-image_TJXCbq .link-button a:hover,\n  .image-block-text-wrap-image_TJXCbq .link-button a:focus",
+      "declarations": "background-color: #db918a;\n    color: #db918a;\n    opacity: 1;"
+    },
+    {
+      "source": "https://dondolo.com/",
+      "selector": ".image-block-text-wrap-image_mFDG3g .link-button a:link,\n  .image-block-text-wrap-image_mFDG3g .link-button a:visited",
+      "declarations": "background-color: #65738c;\n    color: #65738c;\n    font-size: 14px;"
+    },
+    {
+      "source": "https://dondolo.com/",
+      "selector": ".image-block-text-wrap-image_mFDG3g .link-button a:hover,\n  .image-block-text-wrap-image_mFDG3g .link-button a:focus",
+      "declarations": "background-color: #db918a;\n    color: #db918a;\n    opacity: 1;"
+    },
+    {
+      "source": "https://dondolo.com/",
+      "selector": ".dondolo-product-slider-wrap-template--21117689790737__16446821504e31a477 .sec-ttl h3",
+      "declarations": "font-size: 30px;font-family:monarcha, serif;font-weight:;color: #938c70;"
+    },
+    {
+      "source": "https://dondolo.com/",
+      "selector": ".dondolo-product-slider-wrap-template--21117689790737__16446821504e31a477 .slick-arrow",
+      "declarations": "background-color: #db918a;color: #ffffff; height: 40px;"
+    },
+    {
+      "source": "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+      "selector": ".slick-dots li button",
+      "declarations": "border:0;background-color:#fff;display:block;height:12px;width:12px;padding:0;line-height:0;color:transparent;cursor:pointer;opacity:.5;border-radius:50%"
+    },
+    {
+      "source": "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+      "selector": "body",
+      "declarations": "font-family:Lato,Arial,Tahoma,Verdana,sans-serif;background-color:#fff;color:#444;font-size:14px;line-height:1.4;margin:0;padding:0"
+    },
+    {
+      "source": "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "font-family:Poppins,sans-serif;font-weight:700;line-height:1.4;letter-spacing:.02em;overflow-wrap:break-word;word-wrap:break-word;margin:0 0 20px"
+    },
+    {
+      "source": "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+      "selector": "h1 a,h2 a,h3 a,h4 a,h5 a,h6 a",
+      "declarations": "color:inherit;text-decoration:none;font-weight:inherit"
+    },
+    {
+      "source": "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+      "selector": ".btn,.spr-summary-actions-newreview",
+      "declarations": "display:inline-block;width:auto;text-decoration:none;text-align:center;vertical-align:middle;cursor:pointer;border:2px solid rgba(0,0,0,0);background-color:#db918a;color:#fff;font-weight:400;text-transform:uppercase;line-height:1;white-space:normal;transition:all .3s ease-in-out;font-size:13px;padding:10px 24px;white-space:nowrap;-moz-user-select:none;-ms-user-select:none;-webkit-user-select:none;user-select:none;-webkit-appearance:none;-moz-appearance:none;appearance:none;border-radius:0"
+    },
+    {
+      "source": "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+      "selector": ".btn:hover,.btn:focus,.spr-summary-actions-newreview:hover",
+      "declarations": "color:#db918a;background-color:#e6d5d4;border-color:#0000;opacity:1"
+    },
+    {
+      "source": "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+      "selector": ".btn--secondary",
+      "declarations": "color:#fff;background-color:#938c70;border-color:#0000"
+    },
+    {
+      "source": "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+      "selector": ".btn--secondary:hover,.btn--secondary:focus",
+      "declarations": "color:#fff;background-color:#db918a;border-color:#0000"
+    },
+    {
+      "source": "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+      "selector": ".btn--link",
+      "declarations": "color:#db918a;background-color:transparent;border:0;margin:0;outline:none!important;box-shadow:none!important"
+    },
+    {
+      "source": "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+      "selector": ".btn--link:hover,.btn--link:focus",
+      "declarations": "color:#9d5955"
+    },
+    {
+      "source": "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+      "selector": ".btn--share",
+      "declarations": "color:#938c70;font-weight:400;margin:5px;display:inline-block;letter-spacing:0;text-transform:capitalize"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Dondolo | Unique clothing for women and children",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dondolo.com/",
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-typography.css?v=51217798137030650321780322803"
+      ]
+    },
+    "colors.secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dondolo.com/",
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-typography.css?v=51217798137030650321780322803"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dondolo.com/",
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dondolo.com/",
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-typography.css?v=51217798137030650321780322803"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dondolo.com/",
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-typography.css?v=51217798137030650321780322803"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dondolo.com/",
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-typography.css?v=51217798137030650321780322803"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dondolo.com/",
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-typography.css?v=51217798137030650321780322803"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dondolo.com/",
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-styles.css?v=123244535416894987761728926747",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-typography.css?v=51217798137030650321780322803"
+      ]
+    },
+    "colors.border-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "colors.accent-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "colors.accent-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730",
+        "https://dondolo.com/cdn/shop/t/80/assets/dondolo-typography.css?v=51217798137030650321780322803"
+      ]
+    },
+    "colors.sale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dondolo.com/cdn/shop/t/80/assets/theme.css?v=180734960276733421531728928730"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.collection-tile": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    }
+  }
+}

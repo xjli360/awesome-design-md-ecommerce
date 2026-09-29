@@ -1,0 +1,963 @@
+{
+  "source_url": "https://casper.com",
+  "final_url": "https://casper.com/",
+  "captured_at": "2026-09-28T04:10:40.945444+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://casper.com",
+      "final_url": "https://casper.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "7f75a6a1df8e48e790c1a1b23e919eb8b42f52000a8eac3af4cf5c427aa16ccb",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://casper.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://casper.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067",
+      "final_url": "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4203a1679c140e14c8a7924b9be668dc9975d59c169c5735d9b0af3e61a10fa8",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://casper.com/cdn/shop/t/1916/assets/instant-t2NUxn6Ym56UN0a7.css?v=152503325707983243641790259067",
+      "final_url": "https://casper.com/cdn/shop/t/1916/assets/instant-t2NUxn6Ym56UN0a7.css?v=152503325707983243641790259067",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c40fcb2a51e3a52471baf0e168d9056cff9fc92bcb1beec9a6d2af3565c3eed9",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#1e306e": {
+      "count": 106,
+      "sources": [
+        "https://casper.com/",
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067",
+        "https://casper.com/cdn/shop/t/1916/assets/instant-t2NUxn6Ym56UN0a7.css?v=152503325707983243641790259067"
+      ]
+    },
+    "#ffffff": {
+      "count": 64,
+      "sources": [
+        "https://casper.com/",
+        "https://casper.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067",
+        "https://casper.com/cdn/shop/t/1916/assets/instant-t2NUxn6Ym56UN0a7.css?v=152503325707983243641790259067"
+      ]
+    },
+    "#526699": {
+      "count": 30,
+      "sources": [
+        "https://casper.com/",
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#f5f7fd": {
+      "count": 30,
+      "sources": [
+        "https://casper.com/",
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#151515": {
+      "count": 25,
+      "sources": [
+        "https://casper.com/",
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#00000026": {
+      "count": 13,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#000000": {
+      "count": 11,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067",
+        "https://casper.com/cdn/shop/t/1916/assets/instant-t2NUxn6Ym56UN0a7.css?v=152503325707983243641790259067"
+      ]
+    },
+    "#00000000": {
+      "count": 9,
+      "sources": [
+        "https://casper.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#cb372a": {
+      "count": 8,
+      "sources": [
+        "https://casper.com/",
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#68749c": {
+      "count": 8,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#f3f6fd": {
+      "count": 7,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067",
+        "https://casper.com/cdn/shop/t/1916/assets/instant-t2NUxn6Ym56UN0a7.css?v=152503325707983243641790259067"
+      ]
+    },
+    "#8fc0e4": {
+      "count": 6,
+      "sources": [
+        "https://casper.com/",
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#1e306e1f": {
+      "count": 6,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#e4e6ee": {
+      "count": 5,
+      "sources": [
+        "https://casper.com/",
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#1e306e1a": {
+      "count": 5,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#00706e": {
+      "count": 5,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#0000001a": {
+      "count": 5,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#1e306eb3": {
+      "count": 5,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#f3d26a": {
+      "count": 4,
+      "sources": [
+        "https://casper.com/"
+      ]
+    },
+    "#00000066": {
+      "count": 4,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#151515b2": {
+      "count": 4,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#dae0ed": {
+      "count": 4,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 3,
+      "sources": [
+        "https://casper.com/",
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#00000040": {
+      "count": 3,
+      "sources": [
+        "https://casper.com/",
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#dedede": {
+      "count": 3,
+      "sources": [
+        "https://casper.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#1e3063": {
+      "count": 3,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 3,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#1e306eb2": {
+      "count": 3,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#00706f": {
+      "count": 3,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#1e306f": {
+      "count": 3,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#cfecd7": {
+      "count": 2,
+      "sources": [
+        "https://casper.com/"
+      ]
+    },
+    "#00000033": {
+      "count": 2,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#212b6440": {
+      "count": 2,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#1d306d": {
+      "count": 2,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#e4ecf3": {
+      "count": 2,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#f5f7fb": {
+      "count": 2,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#212121": {
+      "count": 2,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/instant-t2NUxn6Ym56UN0a7.css?v=152503325707983243641790259067"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://casper.com/"
+      ]
+    },
+    "#012169": {
+      "count": 1,
+      "sources": [
+        "https://casper.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://casper.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://casper.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://casper.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 1,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#15151552": {
+      "count": 1,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#707070": {
+      "count": 1,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#0000000f": {
+      "count": 1,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#0c1949": {
+      "count": 1,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#899ac7": {
+      "count": 1,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#595959": {
+      "count": 1,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 1,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#f5f5f540": {
+      "count": 1,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#15151599": {
+      "count": 1,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#1e306e99": {
+      "count": 1,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#e2e1e1": {
+      "count": 1,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#4977bb": {
+      "count": 1,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 1,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 1,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "#d7ecf7": {
+      "count": 1,
+      "sources": [
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    }
+  },
+  "font_families": {
+    "Apple Color Emoji": [
+      "https://casper.com/cdn/shop/t/1916/assets/instant-t2NUxn6Ym56UN0a7.css?v=152503325707983243641790259067"
+    ],
+    "Arial": [
+      "https://casper.com/cdn/shop/t/1916/assets/instant-t2NUxn6Ym56UN0a7.css?v=152503325707983243641790259067"
+    ],
+    "Calibre": [
+      "https://casper.com/",
+      "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067",
+      "https://casper.com/cdn/shop/t/1916/assets/instant-t2NUxn6Ym56UN0a7.css?v=152503325707983243641790259067"
+    ],
+    "Calibre!important": [
+      "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+    ],
+    "Consolas": [
+      "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+    ],
+    "Copyright Klim Type Foundry-Not Licensed for Desktop Use": [
+      "https://casper.com/",
+      "https://casper.com/cdn/shop/t/1916/assets/instant-t2NUxn6Ym56UN0a7.css?v=152503325707983243641790259067"
+    ],
+    "Courier New": [
+      "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+    ],
+    "Helvetica": [
+      "https://casper.com/cdn/shop/t/1916/assets/instant-t2NUxn6Ym56UN0a7.css?v=152503325707983243641790259067"
+    ],
+    "Liberation Mono": [
+      "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+    ],
+    "Menlo": [
+      "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+    ],
+    "Monaco": [
+      "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+    ],
+    "New Kansas TRIAL": [
+      "https://casper.com/",
+      "https://casper.com/cdn/shop/t/1916/assets/instant-t2NUxn6Ym56UN0a7.css?v=152503325707983243641790259067"
+    ],
+    "NewKansas-Medium": [
+      "https://casper.com/",
+      "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+    ],
+    "NewKansas-Regular": [
+      "https://casper.com/"
+    ],
+    "NewKansas-SemiBold": [
+      "https://casper.com/"
+    ],
+    "NewKansas-Thin": [
+      "https://casper.com/"
+    ],
+    "Palmer Lake-Print": [
+      "https://casper.com/"
+    ],
+    "Roboto": [
+      "https://casper.com/cdn/shop/t/1916/assets/instant-t2NUxn6Ym56UN0a7.css?v=152503325707983243641790259067"
+    ],
+    "SFMono-Regular": [
+      "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+    ],
+    "Segoe UI": [
+      "https://casper.com/cdn/shop/t/1916/assets/instant-t2NUxn6Ym56UN0a7.css?v=152503325707983243641790259067"
+    ],
+    "Segoe UI Emoji": [
+      "https://casper.com/cdn/shop/t/1916/assets/instant-t2NUxn6Ym56UN0a7.css?v=152503325707983243641790259067"
+    ],
+    "monospace": [
+      "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+    ],
+    "sans-serif": [
+      "https://casper.com/",
+      "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067",
+      "https://casper.com/cdn/shop/t/1916/assets/instant-t2NUxn6Ym56UN0a7.css?v=152503325707983243641790259067"
+    ],
+    "system-ui": [
+      "https://casper.com/cdn/shop/t/1916/assets/instant-t2NUxn6Ym56UN0a7.css?v=152503325707983243641790259067"
+    ],
+    "ui-monospace": [
+      "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://casper.com/",
+      "selector": "[dir=\"rtl\"]:root",
+      "declarations": "--transform-logical-flip: -1;\n    --transform-origin-start: right;\n    --transform-origin-end: left;"
+    },
+    {
+      "source": "https://casper.com/",
+      "selector": ":root",
+      "declarations": "--text-h0: 3.5rem;\n      --text-h1: 2.5rem;\n      --text-h2: 2rem;\n      --text-h3: 1.625rem;\n      --text-h4: 1.375rem;\n      --text-h5: 1.125rem;\n      --text-h6: 1rem;\n\n      --text-xs: 0.875rem;\n      --text-sm: 1.0rem;\n      --text-base: 1.125rem;\n      --text-lg: 1.375rem;\n\n      \n      --container-gutter: 2rem;\n      --section-outer-spacing-block: var(--spacing-12);\n      --section-inner-max-spacing-block: var(--spacing-10);\n      --section-inner-spacing-inline: var(--spacing-14);\n      --section-stack-spacing-block: var(--spacing-10);\n\n      \n      --grid-gutter: var(--spacing-6);\n\n      \n      --product-list-row-gap: var(--spacing-12);\n\n      \n      --input-gap: 1rem;\n      --input-"
+    },
+    {
+      "source": "https://casper.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: var(--spacing-12);\n      --section-outer-spacing-block: var(--spacing-14);\n      --section-inner-max-spacing-block: var(--spacing-12);\n      --section-inner-spacing-inline: var(--spacing-18);\n      --section-stack-spacing-block: var(--spacing-10);"
+    },
+    {
+      "source": "https://casper.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: var(--spacing-12);\n      --section-outer-spacing-block: var(--spacing-14);\n      --section-inner-max-spacing-block: var(--spacing-12);\n      --section-inner-spacing-inline: var(--spacing-18);\n      --section-stack-spacing-block: var(--spacing-12);"
+    },
+    {
+      "source": "https://casper.com/",
+      "selector": ":root",
+      "declarations": "--text-h0: 4.5rem;\n      --text-h1: 3.5rem;\n      --text-h2: 2.75rem;\n      --text-h3: 2rem;\n      --text-h4: 1.75rem;\n      --text-h5: 1.375rem;\n      --text-h6: 1.25rem;\n\n      --section-outer-spacing-block: var(--spacing-16);\n      --section-inner-max-spacing-block: var(--spacing-14);\n      --section-inner-spacing-inline: var(--spacing-20);"
+    },
+    {
+      "source": "https://casper.com/",
+      "selector": ":root",
+      "declarations": "--section-outer-spacing-block: var(--spacing-16);\n      --section-inner-max-spacing-block: var(--spacing-16);\n      --section-inner-spacing-inline: var(--spacing-24);"
+    },
+    {
+      "source": "https://casper.com/",
+      "selector": ".button:not([disabled]):hover, .btn:not([disabled]):hover, .shopify-payment-button__button--unbranded:not([disabled]):hover",
+      "declarations": "--button-background-opacity: 0.85;"
+    },
+    {
+      "source": "https://casper.com/",
+      "selector": ".button--subdued:not([disabled]):hover",
+      "declarations": "--button-background: var(--text-color) / .05 !important;"
+    },
+    {
+      "source": "https://casper.com/",
+      "selector": ":root",
+      "declarations": "--sticky-announcement-bar-enabled:0;"
+    },
+    {
+      "source": "https://casper.com/",
+      "selector": "min-height: 42px; --background: 30 48 110; --text-color: 255 255 255;\n\n  :root",
+      "declarations": "--sticky-header-enabled:1;"
+    },
+    {
+      "source": "https://casper.com/",
+      "selector": "#shopify-section-sections--29276937322862__header",
+      "declarations": "--header-grid-template: \"main-nav logo secondary-nav\" / minmax(0, 1fr) auto minmax(0, 1fr);\n    --header-padding-block: var(--spacing-3);\n    --header-background-opacity: 1.0;\n    --header-background-blur-radius: 6px;\n    --header-transparent-text-color: 1 33 105;--header-logo-width: 100px;\n      --header-logo-height: 34px;position: sticky;\n    top: 0;\n    z-index: 10;"
+    },
+    {
+      "source": "https://casper.com/",
+      "selector": "#shopify-section-sections--29276937322862__header",
+      "declarations": "--header-logo-width: 120px;\n        --header-logo-height: 41px;--header-padding-block: var(--spacing-6);"
+    },
+    {
+      "source": "https://casper.com/",
+      "selector": "#shopify-section-sections--29276937322862__header",
+      "declarations": "--header-grid-template: \"logo main-nav secondary-nav\" / minmax(0, 1fr) fit-content(55%) minmax(0, 1fr);"
+    },
+    {
+      "source": "https://casper.com/",
+      "selector": ".nav-header-text::after",
+      "declarations": "content: \"\";\n    position: absolute;\n    left: 0;\n    bottom: -3px;\n    width: 100%;\n    height: 2px;\n    background-color: currentColor;\n    transform: scaleX(0);\n    transform-origin: left;\n    transition: transform 0.4s ease;"
+    },
+    {
+      "source": "https://casper.com/",
+      "selector": "var(--button-background-opacity, 1);--button-outline-color: 203 55 42;--button-text-color: 255 255 255;\n\n  #shopify-section-template--29276944564590__hero_promo",
+      "declarations": "background-color: ;\n      position: relative;\n      overflow: hidden;\n      border: 0px solid ;"
+    },
+    {
+      "source": "https://casper.com/",
+      "selector": "ound: 30 48 110 / var(--button-background-opacity, 1);--button-outline-color: 30 48 110;--button-text-color: 255 255 255;\n\n  \n\n  \n  #shopify-section-template--2",
+      "declarations": "--gap: 10px;\n    --tile-w: 253px;\n    --tile-h: 330px;\n    --card-w: var(--tile-w);\n    --card-h: var(--tile-h);"
+    },
+    {
+      "source": "https://casper.com/",
+      "selector": ".category-carousel__body",
+      "declarations": "line-height: 1.5;\n    color: #1e306e;\n    margin-bottom: 1.5rem;\n    font-size: 18px;"
+    },
+    {
+      "source": "https://casper.com/",
+      "selector": "153;--button-text-color: 255 255 255;\nfont-weight:400;\nfont-weight:400;\nfont-weight:400;\nfont-weight:400;\nfont-weight:400;\n\n  #shopify-section-template--2927694",
+      "declarations": "--content-over-media-overlay: 0 0 0 / 0.0;"
+    },
+    {
+      "source": "https://casper.com/",
+      "selector": "515;\ncolor: #1e306e;\ncolor: #151515;\n--button-background: 82 102 153 / var(--button-background-opacity, 1);--button-outline-color: 82 102 153;\n\n  #shopify-secti",
+      "declarations": "--section-stack-intro: 60%;\n    --section-stack-main: 60%;"
+    },
+    {
+      "source": "https://casper.com/",
+      "selector": ".extend-atc-button-sticky",
+      "declarations": "appearance: none;\n        border-radius: 2.0rem;\n        background-color: rgb(1, 33, 105, 1);\n        color: white;\n        text-align: center;\n        font-size: 1rem;\n        font-weight: 500;\n        line-height: 1.6;\n        padding-block-start: 0.75rem;\n        padding-block-end: 0.75rem;\n        padding-inline-start: 1.5rem;\n        padding-inline-end: 1.5rem;\n        width: 100%;\n        position: relative;"
+    },
+    {
+      "source": "https://casper.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://casper.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://casper.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://casper.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://casper.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://casper.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067",
+      "selector": "body",
+      "declarations": "--background: var(--background-primary);--text-color: var(--text-primary);background:rgb(var(--background));color:rgb(var(--text-color));font:var(--text-font-style) var(--text-font-weight) var(--text-base) / 1.6 var(--text-font-family);letter-spacing:var(--text-letter-spacing);margin:0;position:relative"
+    },
+    {
+      "source": "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "font-size:inherit;font-weight:inherit;color:#1e306e"
+    },
+    {
+      "source": "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;font-weight:inherit;font-style:inherit;line-height:inherit;text-transform:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067",
+      "selector": "button,[type=button],[type=reset],[type=submit]",
+      "declarations": "-webkit-appearance:button;text-align:inherit;background-color:#0000;background-image:none"
+    }
+  ],
+  "confidence": "historical_partial_css_evidence",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "The Best Bed for Better Sleep | Casper Online Mattress Store",
+  "schema_version": 1,
+  "design_origin": "historical",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://casper.com/",
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067",
+        "https://casper.com/cdn/shop/t/1916/assets/instant-t2NUxn6Ym56UN0a7.css?v=152503325707983243641790259067"
+      ]
+    },
+    "colors.primary-active": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.primary-disabled": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://casper.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.muted": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.muted-soft": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://casper.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067"
+      ]
+    },
+    "colors.hairline-soft": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://casper.com/",
+        "https://casper.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067",
+        "https://casper.com/cdn/shop/t/1916/assets/instant-t2NUxn6Ym56UN0a7.css?v=152503325707983243641790259067"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://casper.com/",
+        "https://casper.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067",
+        "https://casper.com/cdn/shop/t/1916/assets/instant-t2NUxn6Ym56UN0a7.css?v=152503325707983243641790259067"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://casper.com/",
+        "https://casper.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://casper.com/cdn/shop/t/1916/assets/theme.css?v=179123645212154032771790259067",
+        "https://casper.com/cdn/shop/t/1916/assets/instant-t2NUxn6Ym56UN0a7.css?v=152503325707983243641790259067"
+      ]
+    },
+    "colors.accent-purple": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.accent-yellow": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://casper.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-blue-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://casper.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.star-rating": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "typography.display-xl": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-lg": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.title-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.title-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.body-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.body-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.caption": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.button-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.button-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.link": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.nav-link": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.badge": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "rounded.none": {
+      "status": "unverified"
+    },
+    "rounded.xs": {
+      "status": "unverified"
+    },
+    "rounded.sm": {
+      "status": "unverified"
+    },
+    "rounded.md": {
+      "status": "unverified"
+    },
+    "rounded.lg": {
+      "status": "unverified"
+    },
+    "rounded.xl": {
+      "status": "unverified"
+    },
+    "rounded.full": {
+      "status": "unverified"
+    },
+    "spacing.xxs": {
+      "status": "unverified"
+    },
+    "spacing.xs": {
+      "status": "unverified"
+    },
+    "spacing.sm": {
+      "status": "unverified"
+    },
+    "spacing.md": {
+      "status": "unverified"
+    },
+    "spacing.base": {
+      "status": "unverified"
+    },
+    "spacing.lg": {
+      "status": "unverified"
+    },
+    "spacing.xl": {
+      "status": "unverified"
+    },
+    "spacing.xxl": {
+      "status": "unverified"
+    },
+    "spacing.section": {
+      "status": "unverified"
+    },
+    "components.button-primary": {
+      "status": "unverified"
+    },
+    "components.button-primary-active": {
+      "status": "unverified"
+    },
+    "components.button-primary-disabled": {
+      "status": "unverified"
+    },
+    "components.button-secondary": {
+      "status": "unverified"
+    },
+    "components.button-secondary-active": {
+      "status": "unverified"
+    },
+    "components.button-pill": {
+      "status": "unverified"
+    },
+    "components.button-pill-outline": {
+      "status": "unverified"
+    },
+    "components.text-input": {
+      "status": "unverified"
+    },
+    "components.text-input-focus": {
+      "status": "unverified"
+    },
+    "components.text-input-error": {
+      "status": "unverified"
+    },
+    "components.nav-bar": {
+      "status": "unverified"
+    },
+    "components.nav-bar-scrolled": {
+      "status": "unverified"
+    },
+    "components.product-card": {
+      "status": "unverified"
+    },
+    "components.product-card-image": {
+      "status": "unverified"
+    },
+    "components.product-card-title": {
+      "status": "unverified"
+    },
+    "components.product-card-price": {
+      "status": "unverified"
+    },
+    "components.product-card-badge": {
+      "status": "unverified"
+    },
+    "components.hero-section": {
+      "status": "unverified"
+    },
+    "components.hero-cta": {
+      "status": "unverified"
+    },
+    "components.search-bar": {
+      "status": "unverified"
+    },
+    "components.search-bar-focus": {
+      "status": "unverified"
+    },
+    "components.footer-section": {
+      "status": "unverified"
+    },
+    "components.footer-link": {
+      "status": "unverified"
+    },
+    "components.footer-link-hover": {
+      "status": "unverified"
+    },
+    "components.accordion-trigger": {
+      "status": "unverified"
+    },
+    "components.accordion-content": {
+      "status": "unverified"
+    },
+    "components.rating-stars": {
+      "status": "unverified"
+    },
+    "components.review-card": {
+      "status": "unverified"
+    }
+  },
+  "observed_color_tokens": 8,
+  "total_color_tokens": 18
+}

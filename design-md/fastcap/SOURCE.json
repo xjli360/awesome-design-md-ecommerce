@@ -1,0 +1,1919 @@
+{
+  "source_url": "https://fastcap.com",
+  "final_url": "https://www.fastcap.com/",
+  "captured_at": "2026-09-29T04:06:40.690455+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://fastcap.com",
+      "final_url": "https://www.fastcap.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "4883a6921078f7d402620dadfabe7eabe6cf8d922d3e14da08fb63fd4a7ee6eb",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM",
+      "final_url": "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "675532ac0cd0f34973d6e7151e2277d85587657f0209a0cc7d4a2ecd092eae63",
+      "snapshot": "stylesheet-1.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 331,
+      "sources": [
+        "https://www.fastcap.com/",
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#eeeeee": {
+      "count": 130,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#d3812e": {
+      "count": 128,
+      "sources": [
+        "https://www.fastcap.com/",
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#333333": {
+      "count": 90,
+      "sources": [
+        "https://www.fastcap.com/",
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#444444": {
+      "count": 72,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#dddddd": {
+      "count": 64,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#999999": {
+      "count": 53,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#000000": {
+      "count": 52,
+      "sources": [
+        "https://www.fastcap.com/",
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#cccccc": {
+      "count": 49,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#666666": {
+      "count": 37,
+      "sources": [
+        "https://www.fastcap.com/",
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#6c757d": {
+      "count": 37,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#007bff": {
+      "count": 36,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#212529": {
+      "count": 32,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#dc3545": {
+      "count": 30,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#28a745": {
+      "count": 30,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 29,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#dee2e6": {
+      "count": 28,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 27,
+      "sources": [
+        "https://www.fastcap.com/",
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#888888": {
+      "count": 26,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 23,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#343a40": {
+      "count": 21,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#494949": {
+      "count": 21,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#f8f9fa": {
+      "count": 20,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#222222": {
+      "count": 20,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#555555": {
+      "count": 20,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#17a2b8": {
+      "count": 19,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#ffc107": {
+      "count": 17,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 16,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#ff9209": {
+      "count": 16,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#e9ecef": {
+      "count": 15,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#495057": {
+      "count": 14,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#3f3f3f": {
+      "count": 14,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#777777": {
+      "count": 12,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#383838": {
+      "count": 12,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 11,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#111111": {
+      "count": 11,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#dcdcdc": {
+      "count": 11,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#3c763d": {
+      "count": 10,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#282828": {
+      "count": 10,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#0f1111": {
+      "count": 9,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#31708f": {
+      "count": 7,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#8a6d3b": {
+      "count": 7,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#a94442": {
+      "count": 7,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#adb5bd": {
+      "count": 6,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#dd4b39": {
+      "count": 6,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#ffffcc": {
+      "count": 6,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#e1e1e1": {
+      "count": 5,
+      "sources": [
+        "https://www.fastcap.com/",
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#f89fa1": {
+      "count": 5,
+      "sources": [
+        "https://www.fastcap.com/",
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#c6c6c6": {
+      "count": 5,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 5,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#262626": {
+      "count": 5,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#b8b8b8": {
+      "count": 5,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#ced4da": {
+      "count": 4,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#c02942": {
+      "count": 4,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#53777a": {
+      "count": 4,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#ecd078": {
+      "count": 4,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#59ba41": {
+      "count": 4,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#774f38": {
+      "count": 4,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#40c0cb": {
+      "count": 4,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#aee239": {
+      "count": 4,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#5d4157": {
+      "count": 4,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#a8caba": {
+      "count": 4,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#1693a5": {
+      "count": 4,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#1265a8": {
+      "count": 4,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#eb9c4d": {
+      "count": 4,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#e42c3e": {
+      "count": 4,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#235d85": {
+      "count": 4,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#7b7b7b": {
+      "count": 3,
+      "sources": [
+        "https://www.fastcap.com/",
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#fcf8e3": {
+      "count": 3,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#5f3f3f": {
+      "count": 3,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#a6a6a6": {
+      "count": 3,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#f09433": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/"
+      ]
+    },
+    "#e83e8c": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#b3d4fc": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#d9edf7": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#f2dede": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#dff0d8": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#c5c5c5": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#454545": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#2b2b2b": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#003eff": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#dad55e": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#fffa90": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#777620": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#f08213": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#2162a1": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#b12704": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#fafafa": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#3b5998": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#205cc0": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#00588b": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#f67c1a": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#a4c639": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#e53b2c": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#f74425": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#25a0ca": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#f26739": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#5b9a68": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#191919": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#81b71a": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#fc4f08": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#688527": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#ea4c89": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#5ba525": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#ff0084": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#ff5f52": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#0e76a8": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#2b587a": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#ee802f": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#00aff0": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#00acee": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#c4302b": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#86c9ef": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#fcd20b": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#720e9e": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#6567a5": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#e4b21b": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#525557": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#3d9ae8": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#89c507": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#171515": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#cf5a00": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#0000e6": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#ff7700": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#34526f": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#1e8cbe": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#c41200": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#009ee4": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#f16924": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#008cdd": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#ff5c03": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#131a30": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#d3222a": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#27537a": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#ee4056": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#0e4984": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#ef8236": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#ff6600": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#126567": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#3f729b": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#a82400": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#e16309": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#e47911": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#e4e7ee": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#c8232c": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#4e4e4e": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#428bca": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#ff9900": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#dd4e02": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#ffff99": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#ffe03c": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#ff5e03": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#fbfbfb": {
+      "count": 2,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#c45c00": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/"
+      ]
+    },
+    "#984800": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/"
+      ]
+    },
+    "#e6683c": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/"
+      ]
+    },
+    "#dc2743": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/"
+      ]
+    },
+    "#cc2366": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/"
+      ]
+    },
+    "#bc1888": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/"
+      ]
+    },
+    "#eaeaea": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/"
+      ]
+    },
+    "#6610f2": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#6f42c1": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#fd7e14": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#20c997": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#4c4c4c": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#bce8f1": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#faebcc": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#ebccd1": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#d6e9c6": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#ededed": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#007fff": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#f1a899": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#fddfdf": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#c4c4c4": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#db740d": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#edf8ff": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#fff5f5": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#c5ebd4": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#184b21": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#ffcccc": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#740d0a": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#b9dff4": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#124f70": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#fce0b6": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#975e06": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#00000000": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#a6000000": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#030303": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#51a351": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#bd362f": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#2f96b4": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#f89406": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#ff3300": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#df6f72": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#d0e9c6": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#c4e3f3": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#faf2cc": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#ebcccc": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#0b0b0b": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#bdbdbd": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#007aff": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#0066ff": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#ffeded": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#737373": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#c3392f": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#bd281e": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#d44023": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#ebebeb": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#f3ece2": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#5a5a5a": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#fbcc0a": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#1e91bd": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#eaf1f9": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#f4f9ff": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#bebebe": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#2b6c82": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#f5f2ed": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#a5a5a5": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#dd5600": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#ff8c00": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#a0acb6": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#ee6a00": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "#5e9ed6": {
+      "count": 1,
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "Apple Color Emoji": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "Arial": [
+      "https://www.fastcap.com/",
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "Baskerville": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "BlinkMacSystemFont": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "Consolas": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "Courier New": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "Crete Round": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "FontAwesome": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "Georgia": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "Glyphicons Halflings": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "Helvetica": [
+      "https://www.fastcap.com/",
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "Helvetica Neue": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "Lato": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "Liberation Mono": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "Menlo": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "Monaco": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "Noto Color Emoji": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "Noto Sans": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "Raleway": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "Roboto": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "SFMono-Regular": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "Segoe UI": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "Segoe UI Emoji": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "Segoe UI Symbol": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "Simple-Line-Icons": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "Times": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "Times New Roman": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "Trebuchet MS": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "Verdana": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "arial": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "font-icons": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "lined-icons": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "monospace": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "monospace !important": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "sans-serif": [
+      "https://www.fastcap.com/",
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "serif": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ],
+    "swiper-icons": [
+      "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.fastcap.com/",
+      "selector": ".product .button.button-3d",
+      "declarations": "color: white !important;"
+    },
+    {
+      "source": "https://www.fastcap.com/",
+      "selector": ".button.button-pink.nomargin.icon-heart",
+      "declarations": "background-color: #fff;\r\n    color: #f89fa1;"
+    },
+    {
+      "source": "https://www.fastcap.com/",
+      "selector": ".col_two_third.product-desc.col_last > p",
+      "declarations": "max-width: 660px;\r\n    margin: 20px 0;\r\n    padding: 0;\r\n    font-family: Arial, sans-serif;\r\n    line-height: 1.6;\r\n    font-size: 16px;\r\n    color: #333;\r\n    font-weight: 400;"
+    },
+    {
+      "source": "https://www.fastcap.com/",
+      "selector": ".product-description.margin-bottom-medium p",
+      "declarations": "max-width: 660px;\r\n    margin: 20px 0;\r\n    padding: 0;\r\n    font-family: Arial, sans-serif;\r\n    line-height: 1.6;\r\n    font-size: 16px;\r\n    color: #333;\r\n    font-weight: 400;"
+    },
+    {
+      "source": "https://www.fastcap.com/",
+      "selector": ".cookie-banner__button",
+      "declarations": "flex-shrink: 0;\n    background: #fff;\n    color: #000;\n    border: 1px solid #fff;\n    padding: 10px 24px;\n    font-size: 14px;\n    font-weight: 600;\n    cursor: pointer;\n    border-radius: 3px;"
+    },
+    {
+      "source": "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM",
+      "selector": ":root",
+      "declarations": "--blue: #007bff;--indigo: #6610f2;--purple: #6f42c1;--pink: #e83e8c;--red: #dc3545;--orange: #fd7e14;--yellow: #ffc107;--green: #28a745;--teal: #20c997;--cyan: #17a2b8;--white: #fff;--gray: #6c757d;--gray-dark: #343a40;--primary: #007bff;--secondary: #6c757d;--success: #28a745;--info: #17a2b8;--warning: #ffc107;--danger: #dc3545;--light: #f8f9fa;--dark: #343a40;--breakpoint-xs: 0;--breakpoint-sm: 576px;--breakpoint-md: 768px;--breakpoint-lg: 992px;--breakpoint-xl: 1200px;--font-family-sans-serif: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";--font-family-mo"
+    },
+    {
+      "source": "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM",
+      "selector": "body",
+      "declarations": "margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";font-size:1rem;font-weight:400;line-height:1.5;color:#212529;text-align:left;background-color:#fff"
+    },
+    {
+      "source": "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM",
+      "selector": "input,button,select,optgroup,textarea",
+      "declarations": "margin:0;font-family:inherit;font-size:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM",
+      "selector": ".table-striped tbody tr:nth-of-type(odd)",
+      "declarations": "background-color:rgba(0,0,0,.05)"
+    },
+    {
+      "source": "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM",
+      "selector": ".table-hover tbody tr:hover",
+      "declarations": "color:#212529;background-color:rgba(0,0,0,.075)"
+    },
+    {
+      "source": "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM",
+      "selector": ".table-primary th,.table-primary td,.table-primary thead th,.table-primary tbody+tbody",
+      "declarations": "border-color:rgb(122.4,186.36,255)"
+    },
+    {
+      "source": "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM",
+      "selector": ".table-secondary th,.table-secondary td,.table-secondary thead th,.table-secondary tbody+tbody",
+      "declarations": "border-color:rgb(178.56,183.24,187.4)"
+    },
+    {
+      "source": "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM",
+      "selector": ".table-success th,.table-success td,.table-success thead th,.table-success tbody+tbody",
+      "declarations": "border-color:rgb(143.2,209.24,158.28)"
+    },
+    {
+      "source": "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM",
+      "selector": ".table-info th,.table-info td,.table-info thead th,.table-info tbody+tbody",
+      "declarations": "border-color:rgb(134.36,206.64,218.08)"
+    },
+    {
+      "source": "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM",
+      "selector": ".table-warning th,.table-warning td,.table-warning thead th,.table-warning tbody+tbody",
+      "declarations": "border-color:rgb(255,222.76,126.04)"
+    },
+    {
+      "source": "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM",
+      "selector": ".table-danger th,.table-danger td,.table-danger thead th,.table-danger tbody+tbody",
+      "declarations": "border-color:rgb(236.8,149.96,158.28)"
+    },
+    {
+      "source": "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM",
+      "selector": ".table-light th,.table-light td,.table-light thead th,.table-light tbody+tbody",
+      "declarations": "border-color:rgb(251.36,251.88,252.4)"
+    },
+    {
+      "source": "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM",
+      "selector": ".table-dark th,.table-dark td,.table-dark thead th,.table-dark tbody+tbody",
+      "declarations": "border-color:rgb(149.44,152.56,155.68)"
+    },
+    {
+      "source": "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM",
+      "selector": ".table-dark.table-striped tbody tr:nth-of-type(odd)",
+      "declarations": "background-color:hsla(0,0%,100%,.05)"
+    },
+    {
+      "source": "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM",
+      "selector": ".table-dark.table-hover tbody tr:hover",
+      "declarations": "color:#fff;background-color:hsla(0,0%,100%,.075)"
+    },
+    {
+      "source": "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM",
+      "selector": ".btn",
+      "declarations": "display:inline-block;font-weight:400;color:#212529;text-align:center;vertical-align:middle;user-select:none;background-color:rgba(0,0,0,0);border:1px solid rgba(0,0,0,0);padding:.375rem .75rem;font-size:1rem;line-height:1.5;border-radius:.25rem;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out"
+    },
+    {
+      "source": "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM",
+      "selector": ".btn:hover",
+      "declarations": "color:#212529;text-decoration:none"
+    },
+    {
+      "source": "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM",
+      "selector": ".btn-primary",
+      "declarations": "color:#fff;background-color:#007bff;border-color:#007bff"
+    },
+    {
+      "source": "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM",
+      "selector": ".btn-primary:hover",
+      "declarations": "color:#fff;background-color:rgb(0,104.55,216.75);border-color:rgb(0,98.4,204)"
+    },
+    {
+      "source": "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM",
+      "selector": ".btn-primary:focus,.btn-primary.focus",
+      "declarations": "color:#fff;background-color:rgb(0,104.55,216.75);border-color:rgb(0,98.4,204);box-shadow:0 0 0 .2rem rgba(38.25,142.8,255,.5)"
+    },
+    {
+      "source": "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM",
+      "selector": ".btn-primary.disabled,.btn-primary:disabled",
+      "declarations": "color:#fff;background-color:#007bff;border-color:#007bff"
+    },
+    {
+      "source": "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM",
+      "selector": ".btn-primary:not(:disabled):not(.disabled):active,.btn-primary:not(:disabled):not(.disabled).active,.show>.btn-primary.dropdown-toggle",
+      "declarations": "color:#fff;background-color:rgb(0,98.4,204);border-color:rgb(0,92.25,191.25)"
+    },
+    {
+      "source": "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM",
+      "selector": ".btn-secondary",
+      "declarations": "color:#fff;background-color:#6c757d;border-color:#6c757d"
+    },
+    {
+      "source": "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM",
+      "selector": ".btn-secondary:hover",
+      "declarations": "color:#fff;background-color:rgb(90.2703862661,97.7929184549,104.4796137339);border-color:rgb(84.3605150215,91.3905579399,97.6394849785)"
+    },
+    {
+      "source": "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM",
+      "selector": ".btn-secondary:focus,.btn-secondary.focus",
+      "declarations": "color:#fff;background-color:rgb(90.2703862661,97.7929184549,104.4796137339);border-color:rgb(84.3605150215,91.3905579399,97.6394849785);box-shadow:0 0 0 .2rem rgba(130.05,137.7,144.5,.5)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "FastCap - 888-443-3748 - FastCap - Woodworking Tools",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fastcap.com/",
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fastcap.com/",
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fastcap.com/",
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fastcap.com/",
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "colors.heart-pink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fastcap.com/",
+        "https://www.fastcap.com/styles.min.css?v=Z1UyrAzQ80lz1ucVHiJ32FWHZX8CCaDMfUouzQkurmM"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.product-spec-table": {
+      "status": "inferred"
+    }
+  }
+}

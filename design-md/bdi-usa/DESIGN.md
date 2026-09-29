@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: BDI USA
-description: |
+name: "BDI USA"
+source_url: "https://www.bdiusa.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The charcoal that finishes BDI's credenzas, lateral files, and media consoles — #313131 — crosses without friction from physical product surface to interface ink, so the digital catalog reads as a continuation of the material vocabulary embedded in the furniture itself. BDI occupies an unusual position in office storage: the pieces photograph like residential furniture, price like premium imports, and the brand's digital presence mirrors that controlled sobriety throughout. No bright accent color announces a CTA; the primary action button is drawn from the same near-black that darkens cabinet shells, and everything else recedes into pale neutral canvas and hairline borders. The system font stack — -apple-system, BlinkMacSystemFont, Helvetica Neue, Arial — reinforces the restraint: no custom typeface license, no brand font to maintain, just the screen's native letterforms at precise weights and sizes. Geometry stays sharp and architectural: product cards use zero or minimal rounding ({rounded.none} to {rounded.xs}) to echo the milled precision of the furniture joinery, and grid gutters maintain a consistent architectural beat throughout the catalog. Finish swatches — the physical material options for each SKU, from espresso to matte white — become a signature UI pattern, rendered as small labeled color circles that let the buyer commit to a surface before the piece ships. Photography functions as the real design system: pieces float on near-white fields, shadows anchoring form without lifestyle distraction, nothing introduced to muddy the material read. Button states lean on shade shift within the {colors.primary} channel rather than color-switching; hover darkens fill or draws a 1px inset border, signaling interactivity without introducing a secondary hue. The overall register sits close to a Knoll catalog page — clean, unhurried, confident in the product object — but aimed squarely at the work-from-home buyer who wants that finish tier without a contract-furniture procurement process. Token gaps are significant throughout this spec: only one hex value was extractable from the live site, so palette completions are inferred from that single anchor and from the neutral architectural systems that office furniture brands at this tier reliably employ.
 
 colors:
@@ -322,6 +325,8 @@ components:
 - Hero image: full bleed on desktop, 3:2 aspect crop on tablet, 1:1 square crop on mobile; studio photography with controlled backgrounds typically requires no overlay scrim to maintain text contrast
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one hex color (#313131) was extractable — the live site presents a Cloudflare anti-bot challenge ("Just a moment...") and did not render further design tokens. The full palette is inferred from this single anchor and the neutral systems standard in premium office furniture at this tier.
 - No brand-specific or licensed typeface was detected; the site relies entirely on a system font stack. If BDI uses a custom typeface it was not recoverable via static extraction.

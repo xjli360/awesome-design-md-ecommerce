@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Puori
-description: A Nordic vitamin and supplement brand that uses teal (#00938d) as its primary signal — not as a health-industry green, but as a cold, clean Scandinavian fjord color that appears on every CTA, every product badge, and the site’s persistent top bar. The brand pairs this with a deep navy (#001a41) for headings and heavy text, creating a high-contrast, clinical-but-warm reading experience. The extracted palette includes a bright mint accent (#00daaf) used for hover states and secondary badges, and a soft silver-gray (#dde4e6) that functions as the primary hairline and surface-soft color across the interface. Typography runs Apercu, a geometric sans-serif with a slight humanist warmth, at moderate weights — display headlines sit at 600 weight rather than the heavy 700+ common in supplement ecommerce, letting product photography and white space carry the brand’s “pure, natural, superior” positioning. The site uses a clean white canvas (#ffffff) with generous padding, pill-shaped buttons (`{rounded.full}`) for primary actions, and softly rounded product cards (`{rounded.md}`) that feel approachable without being childish. The overall mood is that of a premium health store in Copenhagen: minimal, trustworthy, with every design decision feeling intentional and restrained.
+name: "Puori"
+source_url: "https://puori.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A Nordic vitamin and supplement brand that uses teal (#00938d) as its primary signal — not as a health-industry green, but as a cold, clean Scandinavian fjord color that appears on every CTA, every product badge, and the site’s persistent top bar. The brand pairs this with a deep navy (#001a41) for headings and heavy text, creating a high-contrast, clinical-but-warm reading experience. The extracted palette includes a bright mint accent (#00daaf) used for hover states and secondary badges, and a soft silver-gray (#dde4e6) that functions as the primary hairline and surface-soft color across the interface. Typography runs Apercu, a geometric sans-serif with a slight humanist warmth, at moderate weights — display headlines sit at 600 weight rather than the heavy 700+ common in supplement ecommerce, letting product photography and white space carry the brand’s “pure, natural, superior” positioning. The site uses a clean white canvas (#ffffff) with generous padding, pill-shaped buttons (`{rounded.full}`) for primary actions, and softly rounded product cards (`{rounded.md}`) that feel approachable without being childish. The overall mood is that of a premium health store in Copenhagen: minimal, trustworthy, with every design decision feeling intentional and restrained.
 
 colors:
   primary: "#00938d"
@@ -425,6 +429,8 @@ components:
 - Product card badges stack vertically on mobile if multiple badges exist
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for many components (product card, footer links, accordion) were inferred from common patterns rather than extracted from live CSS
 - Error styling for forms (validation messages, error icons) could not be reliably extracted

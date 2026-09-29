@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Arpin Philately
-description: The #ff6600 orange assigned as the site's meta theme-color sits on Arpin Philately's catalogue like a price sticker on a penny black — the single proprietary decision on a canvas otherwise assembled entirely from Bootstrap 3's utility palette. Every other color on the page is a known quantity: #337ab7 link-blue, #777777 body mist, #eeeeee row dividers. The orange appears only where commerce must interrupt archival browsing — the Add to Cart button, the search submit, the brand name in the dark navbar — and nowhere else. That restraint is not minimalism; it is the discipline of a catalogue database that respects the collector's attention.
+name: "Arpin Philately"
+source_url: "https://www.arpinphilately.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The #ff6600 orange assigned as the site's meta theme-color sits on Arpin Philately's catalogue like a price sticker on a penny black — the single proprietary decision on a canvas otherwise assembled entirely from Bootstrap 3's utility palette. Every other color on the page is a known quantity: #337ab7 link-blue, #777777 body mist, #eeeeee row dividers. The orange appears only where commerce must interrupt archival browsing — the Add to Cart button, the search submit, the brand name in the dark navbar — and nowhere else. That restraint is not minimalism; it is the discipline of a catalogue database that respects the collector's attention.
 
   Typography is unambiguous in its priorities. Arial and Helvetica Neue carry lot numbers, condition grades, country classifiers, and catalogue descriptions without editorial weight. No custom typeface, no variable-weight display moment. The monospace stack — Consolas, Courier New — surfaces in lot reference fields, echoing the printed catalogue tradition where alphanumeric codes are treated as data, not copy. Font Awesome 5 and Glyphicons Halflings supply every icon: magnifiers, cart glyphs, sort arrows, chevrons. The interface trusts structure over decoration.
 
@@ -395,6 +399,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The confirmed brand primary #ff6600 appears in meta theme-color but not in the extracted top-color list, suggesting it is applied to a small number of elements (CTAs, brand name) rather than broad surfaces — exact coverage unknown
 - No custom brand typeface detected; the entire type stack resolves to Arial and Helvetica Neue system fonts; custom @font-face declarations may be absent or served via a CDN path not captured in extraction

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Native
-description: Native is a clean, honest body-care brand that uses color as a signal of purity and efficacy rather than decoration. The palette is anchored by a deep navy {colors.primary} (#0a1f8f) that reads as trustworthy and clinical, paired with a crisp white canvas (#f7f7f7) and soft off-whites (#f5f5f5, #fafafa) that keep the experience airy and approachable. Accents of red (#e63235, #e40e47) and orange (#b2441e) appear sparingly on badges, sale markers, and secondary actions, injecting just enough energy to draw the eye without overwhelming the calm baseline. The typography system relies on a single clean sans-serif stack (inheriting from system fonts) with modest weights — display sizes hover around 24–28px at weight 600, body text at 14–16px at weight 400, and buttons at 14px weight 500 — letting the product photography and generous whitespace do the heavy lifting. Rounded corners are minimal: small buttons use {rounded.sm} (8px), cards and inputs use {rounded.md} (12px), and only the search bar and hero badges reach {rounded.full} (9999px), preserving a friendly but not overly playful feel. The brand's signature move is the navy-on-white hero section with a single bold headline, a pill-shaped search or CTA button, and a clean product grid below — no clutter, no noise, just clean. Simple. Effective.
+name: "Native"
+source_url: "https://www.nativecos.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Native is a clean, honest body-care brand that uses color as a signal of purity and efficacy rather than decoration. The palette is anchored by a deep navy {colors.primary} (#0a1f8f) that reads as trustworthy and clinical, paired with a crisp white canvas (#f7f7f7) and soft off-whites (#f5f5f5, #fafafa) that keep the experience airy and approachable. Accents of red (#e63235, #e40e47) and orange (#b2441e) appear sparingly on badges, sale markers, and secondary actions, injecting just enough energy to draw the eye without overwhelming the calm baseline. The typography system relies on a single clean sans-serif stack (inheriting from system fonts) with modest weights — display sizes hover around 24–28px at weight 600, body text at 14–16px at weight 400, and buttons at 14px weight 500 — letting the product photography and generous whitespace do the heavy lifting. Rounded corners are minimal: small buttons use {rounded.sm} (8px), cards and inputs use {rounded.md} (12px), and only the search bar and hero badges reach {rounded.full} (9999px), preserving a friendly but not overly playful feel. The brand's signature move is the navy-on-white hero section with a single bold headline, a pill-shaped search or CTA button, and a clean product grid below — no clutter, no noise, just clean. Simple. Effective.
 
 colors:
   primary: "#0a1f8f"
@@ -397,6 +401,8 @@ components:
 - Search bar moves from the nav bar to a full-screen overlay on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for secondary and tertiary buttons could not be fully extracted from the live site
 - Error styling for form validation (border colors, error message typography) is inferred from common patterns

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Tilit
-description: Tilit is a kitchen uniform brand built for the working chef — tough, tactile, and unpretentious. The palette leans heavily on industrial neutrals: deep charcoals like `#3a3a3a` and `#494949` form the backbone, while soft off-whites (`#f8f8f8`, `#eeeeee`, `#f2f2f2`) keep the canvas light and breathable. A single shot of red (`#ca1818`) appears as the brand's accent voltage — used sparingly on sale badges, cart counts, and critical CTAs. The typography is a two-type system: Montserrat for clean, modern headings and Barlow for body and button copy, both sans-serif and highly legible at small sizes. Rounded corners are minimal — `{rounded.sm}` (8px) on buttons and `{rounded.md}` (12px) on cards — keeping the feel utilitarian rather than playful. The overall mood is workshop-ready: matte textures, generous padding, and a restrained use of color that lets product photography and craftsmanship take center stage. Tilit's design system feels like a well-worn apron — functional, honest, and built to last.
+name: "Tilit"
+source_url: "https://www.tilitnyc.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Tilit is a kitchen uniform brand built for the working chef — tough, tactile, and unpretentious. The palette leans heavily on industrial neutrals: deep charcoals like `#3a3a3a` and `#494949` form the backbone, while soft off-whites (`#f8f8f8`, `#eeeeee`, `#f2f2f2`) keep the canvas light and breathable. A single shot of red (`#ca1818`) appears as the brand's accent voltage — used sparingly on sale badges, cart counts, and critical CTAs. The typography is a two-type system: Montserrat for clean, modern headings and Barlow for body and button copy, both sans-serif and highly legible at small sizes. Rounded corners are minimal — `{rounded.sm}` (8px) on buttons and `{rounded.md}` (12px) on cards — keeping the feel utilitarian rather than playful. The overall mood is workshop-ready: matte textures, generous padding, and a restrained use of color that lets product photography and craftsmanship take center stage. Tilit's design system feels like a well-worn apron — functional, honest, and built to last.
 
 colors:
   primary: "#ca1818"
@@ -419,6 +423,8 @@ components:
 - Hero section reduces font sizes and centers text alignment on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for product cards (exact shadow values, transition timing) could not be reliably extracted
 - Error styling for form validation (error messages, icon placement) was not visible in the extracted data

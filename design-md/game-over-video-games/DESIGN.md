@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Game Over Video Games
-description: A retro game retailer that wears its nostalgia on its sleeve through a warm, amber-toned palette anchored on #f8bb86 — a soft, aged gold that reads like the glow of a CRT monitor in a dimly lit basement. The brand pairs this with #0da19a, a teal accent that feels lifted from a 90s soda can, creating a complementary tension that keeps the interface from drifting into sepia monotony. Buttons and badges lean into #f27474 (a coral error-red) and #a5dc86 (a mint success-green), suggesting a system built for transactional clarity — add-to-cart, sold-out, in-stock — rather than atmospheric storytelling. The canvas is #f9f9f9, a warm off-white that avoids the sterile hospital feel of pure white, while #222222 and #3a3a3a handle body and ink duties with enough contrast to keep product listings legible. The typography stack is utilitarian — Open Sans, Arial, Helvetica — no custom retro pixel font, no arcade revival; the brand lets the product photography (cartridges, consoles, boxes) carry the period flavor. Cards use soft {rounded.sm} corners, search is a pill-shaped bar at {rounded.full}, and the nav sits at a compact 64px height, prioritizing shelf space over brand theater. The overall effect is a clean, commerce-forward system that trusts its inventory — not its chrome — to evoke the era.
+name: "Game Over Video Games"
+source_url: "https://gameovervideogames.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A retro game retailer that wears its nostalgia on its sleeve through a warm, amber-toned palette anchored on #f8bb86 — a soft, aged gold that reads like the glow of a CRT monitor in a dimly lit basement. The brand pairs this with #0da19a, a teal accent that feels lifted from a 90s soda can, creating a complementary tension that keeps the interface from drifting into sepia monotony. Buttons and badges lean into #f27474 (a coral error-red) and #a5dc86 (a mint success-green), suggesting a system built for transactional clarity — add-to-cart, sold-out, in-stock — rather than atmospheric storytelling. The canvas is #f9f9f9, a warm off-white that avoids the sterile hospital feel of pure white, while #222222 and #3a3a3a handle body and ink duties with enough contrast to keep product listings legible. The typography stack is utilitarian — Open Sans, Arial, Helvetica — no custom retro pixel font, no arcade revival; the brand lets the product photography (cartridges, consoles, boxes) carry the period flavor. Cards use soft {rounded.sm} corners, search is a pill-shaped bar at {rounded.full}, and the nav sits at a compact 64px height, prioritizing shelf space over brand theater. The overall effect is a clean, commerce-forward system that trusts its inventory — not its chrome — to evoke the era.
 
 colors:
   primary: "#f8bb86"
@@ -393,6 +397,8 @@ components:
 - Hero banner text reduces from {typography.display-xl} to {typography.display-md} on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for badges (condition, sold-out, new-arrival, sale) could not be extracted — assumed no hover change based on static nature of badges
 - Error styling for form validation (error messages, helper text) not observed — only error border color inferred from {colors.error-coral}

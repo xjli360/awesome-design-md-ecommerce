@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Ninja Tune
-description: A black-and-white foundation (#222222 ink on #f5f5f5 surface) that lets the music do the coloring — the extracted palette is dominated by system grays and Bootstrap alert hues (#3c763d green, #8a6d3b gold, #a94442 red), suggesting the site leans heavily on a neutral canvas with occasional utility accents rather than a proprietary brand color. The typography stack is a hybrid of classic web sans-serifs (Helvetica Neue, Arial) and two proprietary faces — franklingothicbold and franklingothicregular — that carry the label's identity in headers and navigation, giving the interface a mid-century editorial weight that contrasts with the lightweight system fonts used for body copy. Buttons and interactive elements default to #337ab7 (a Bootstrap blue), indicating the site may not have fully customized its component library, but the overall impression is one of deliberate restraint: a dark header bar (#222222) with white text, generous whitespace in release grids, and small, tightly-kerned captions that defer to album artwork and track listings. The label's visual identity is carried more by its artists' imagery and the franklingothic typeface than by any single color — the design system is a quiet frame around loud music.
+name: "Ninja Tune"
+source_url: "https://www.ninjatune.net"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A black-and-white foundation (#222222 ink on #f5f5f5 surface) that lets the music do the coloring — the extracted palette is dominated by system grays and Bootstrap alert hues (#3c763d green, #8a6d3b gold, #a94442 red), suggesting the site leans heavily on a neutral canvas with occasional utility accents rather than a proprietary brand color. The typography stack is a hybrid of classic web sans-serifs (Helvetica Neue, Arial) and two proprietary faces — franklingothicbold and franklingothicregular — that carry the label's identity in headers and navigation, giving the interface a mid-century editorial weight that contrasts with the lightweight system fonts used for body copy. Buttons and interactive elements default to #337ab7 (a Bootstrap blue), indicating the site may not have fully customized its component library, but the overall impression is one of deliberate restraint: a dark header bar (#222222) with white text, generous whitespace in release grids, and small, tightly-kerned captions that defer to album artwork and track listings. The label's visual identity is carried more by its artists' imagery and the franklingothic typeface than by any single color — the design system is a quiet frame around loud music.
 
 colors:
   primary: "#222222"
@@ -301,6 +305,8 @@ components:
 - Product card meta (artist, format, price) collapses to single line on mobile, hiding format label
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted color palette is heavily dominated by Bootstrap default colors (#337ab7, #5cb85c, #d9534f, etc.) and system grays — the brand's true primary color may be more distinctive (e.g., a specific red or yellow from the Ninja Tune logo) but was not reliably extracted from the live site's CSS/HTML. The current `primary: "#222222"` is an educated guess based on the dark header bar.
 - Font sizes and line heights are inferred from common editorial patterns and the extracted font families — actual values may differ on the live site.

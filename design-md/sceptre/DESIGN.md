@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Sceptre
-description: |
+name: "Sceptre"
+source_url: "https://www.sceptre.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Every pixel of Sceptre's storefront confesses that engineering specs outrank visual pageantry — the entire interface ships on an unmodified Bootstrap 3 scaffold, its primary action blue (#337ab7) borrowed whole-cloth from the framework default rather than tuned to a brand-specific hue. This is deliberate utility: a monitor company whose customers sort by panel size, refresh rate, and VESA compatibility has no reason to interpose a decorative layer between the shopper and the comparison table. Type is set in a system stack headed by Helvetica Neue and Arial at comfortable reading weights; display headings rarely exceed 600 weight, letting product photography — edge-to-edge panels floating on matte bezels — carry the visual authority. The surface architecture is binary: a pure white canvas (#ffffff) overlaid with #f5f5f5 panel wells that section product grids from spec tables, separated by #e5e5e5 hairlines. Body copy lives at #555555, a half-step lighter than true black, while secondary annotations drop to #777777 muted gray. Rounded corners are almost absent — cards and buttons sit at `{rounded.xs}` (4px) or `{rounded.none}`, reinforcing the rectilinear geometry of the monitors themselves. A full Bootstrap contextual palette (#5cb85c success, #f0ad4e warning, #d9534f danger, #5bc0de info) drives stock badges, alert banners, and validation states, giving the catalog a dashboard-like information density more familiar from B2B tooling than consumer retail. Navigation is flat and wide, black-on-white with hover underlines, collapsing into a hamburger on mobile with no animated transitions — page weight matters when the audience comparison-shops across fifteen tabs.
 
 colors:
@@ -428,6 +431,8 @@ components:
 - Hero carousel navigation arrows hide on mobile; swipe gesture replaces them
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - All extracted colors correspond to Bootstrap 3 framework defaults — no custom brand palette could be isolated from the extraction. Sceptre may load brand-specific overrides via JavaScript or deeper CSS that the crawler did not capture.
 - No custom web font detected; the site appears to rely entirely on system font stacks (Helvetica Neue / Arial). A brand wordmark font may exist only as an image/SVG logo.

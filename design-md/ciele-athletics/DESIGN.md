@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Ciele Athletics
-description: A brand built for runners who treat their gear as equipment, not fashion — and yet the electric #00bbff (Ciele Blue) hits like a shock of cold water on a hot pavement, the single color that owns every cap brim, every zipper pull, every "C" logo mark. That blue, paired with safety-cone orange-red #ff3442 and a near-black #111111, forms a three-color system that reads as urgent, athletic, and completely indifferent to trends. The site runs on a white #ffffff canvas with a soft gray #f5f5f5 surface for product cards, and uses #e8e8e8 hairline strokes to separate sections without visual weight. Typography leans on Montserrat at 400–600 weight — no heavy 700+ anywhere — giving headlines a clean, slightly compressed readability that matches the technical-fit language of the product copy. Buttons are full-bleed rectangles with {rounded.sm} corners, not pills; the brand avoids the friendly-orb aesthetic of lifestyle apps in favor of a more utilitarian, kit-like feel. Product photography is high-contrast, often shot against white or near-white backgrounds, with the Ciele Blue appearing as a deliberate accent — a cap worn backward, a reflective stripe, a logo hit. The footer collapses into a dense, single-column stack of legal and support links, and the nav bar uses a sticky white header with the logo centered and cart icon right-aligned. There is no hero slider, no lifestyle video autoplay — just a grid of product tiles, a search bar, and the implicit promise that the gear will outlast the run.
+name: "Ciele Athletics"
+source_url: "https://cieleathletics.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A brand built for runners who treat their gear as equipment, not fashion — and yet the electric #00bbff (Ciele Blue) hits like a shock of cold water on a hot pavement, the single color that owns every cap brim, every zipper pull, every "C" logo mark. That blue, paired with safety-cone orange-red #ff3442 and a near-black #111111, forms a three-color system that reads as urgent, athletic, and completely indifferent to trends. The site runs on a white #ffffff canvas with a soft gray #f5f5f5 surface for product cards, and uses #e8e8e8 hairline strokes to separate sections without visual weight. Typography leans on Montserrat at 400–600 weight — no heavy 700+ anywhere — giving headlines a clean, slightly compressed readability that matches the technical-fit language of the product copy. Buttons are full-bleed rectangles with {rounded.sm} corners, not pills; the brand avoids the friendly-orb aesthetic of lifestyle apps in favor of a more utilitarian, kit-like feel. Product photography is high-contrast, often shot against white or near-white backgrounds, with the Ciele Blue appearing as a deliberate accent — a cap worn backward, a reflective stripe, a logo hit. The footer collapses into a dense, single-column stack of legal and support links, and the nav bar uses a sticky white header with the logo centered and cart icon right-aligned. There is no hero slider, no lifestyle video autoplay — just a grid of product tiles, a search bar, and the implicit promise that the gear will outlast the run.
 
 colors:
   primary: "#00bbff"
@@ -292,6 +296,8 @@ components:
 - Product badges remain visible but may overlap differently on smaller cards
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for product cards (image zoom percentage, shadow depth) could not be reliably extracted
 - Error styling for form inputs (validation colors, error message typography) not found in extraction

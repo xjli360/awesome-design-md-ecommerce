@@ -1,0 +1,824 @@
+{
+  "source_url": "https://allbirds.com",
+  "final_url": "https://www.allbirds.com/",
+  "captured_at": "2026-09-28T04:10:59.776112+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://allbirds.com",
+      "final_url": "https://www.allbirds.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "a6766ba7b4d1559529529637beea12e50944c1e1d147ea98bb65d1b7d2d971c4",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+      "final_url": "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "eb506d66da06048487b1509173533758aef8c2bf7cc5d0b36b06a1c81ed3269d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.allbirds.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.allbirds.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.allbirds.com/cdn/shop/t/4159/assets/cart-drawer-section.css",
+      "final_url": "https://www.allbirds.com/cdn/shop/t/4159/assets/cart-drawer-section.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "54ca86eb32a48e6a797f9050f6bf91bea82396abb5c2c4266e4065c6b181e94a",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 192,
+      "sources": [
+        "https://www.allbirds.com/",
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/cart-drawer-section.css"
+      ]
+    },
+    "#00000000": {
+      "count": 54,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+        "https://www.allbirds.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/cart-drawer-section.css"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 33,
+      "sources": [
+        "https://www.allbirds.com/"
+      ]
+    },
+    "#e3e3e3": {
+      "count": 30,
+      "sources": [
+        "https://www.allbirds.com/"
+      ]
+    },
+    "#0000001a": {
+      "count": 23,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 19,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+        "https://www.allbirds.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/cart-drawer-section.css"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 12,
+      "sources": [
+        "https://www.allbirds.com/"
+      ]
+    },
+    "#00000080": {
+      "count": 12,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/cart-drawer-section.css"
+      ]
+    },
+    "#212121": {
+      "count": 4,
+      "sources": [
+        "https://www.allbirds.com/",
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "#6b6b6b": {
+      "count": 3,
+      "sources": [
+        "https://www.allbirds.com/"
+      ]
+    },
+    "#21212180": {
+      "count": 3,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "#ffffff80": {
+      "count": 3,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "#00000040": {
+      "count": 3,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "#00000026": {
+      "count": 3,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/cart-drawer-section.css"
+      ]
+    },
+    "#a69b8c": {
+      "count": 2,
+      "sources": [
+        "https://www.allbirds.com/"
+      ]
+    },
+    "#5c5658": {
+      "count": 2,
+      "sources": [
+        "https://www.allbirds.com/"
+      ]
+    },
+    "#090c43": {
+      "count": 2,
+      "sources": [
+        "https://www.allbirds.com/"
+      ]
+    },
+    "#8b8a8f": {
+      "count": 2,
+      "sources": [
+        "https://www.allbirds.com/"
+      ]
+    },
+    "#2b2b2b": {
+      "count": 2,
+      "sources": [
+        "https://www.allbirds.com/"
+      ]
+    },
+    "#d4d4d4": {
+      "count": 2,
+      "sources": [
+        "https://www.allbirds.com/"
+      ]
+    },
+    "#ece9e2": {
+      "count": 2,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "#575757b3": {
+      "count": 2,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "#ffffff1a": {
+      "count": 2,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "#21212133": {
+      "count": 2,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "#007aff": {
+      "count": 2,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/cart-drawer-section.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.allbirds.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#e1d9c7": {
+      "count": 1,
+      "sources": [
+        "https://www.allbirds.com/"
+      ]
+    },
+    "#e0e2dc": {
+      "count": 1,
+      "sources": [
+        "https://www.allbirds.com/"
+      ]
+    },
+    "#879aab": {
+      "count": 1,
+      "sources": [
+        "https://www.allbirds.com/"
+      ]
+    },
+    "#5f3c44": {
+      "count": 1,
+      "sources": [
+        "https://www.allbirds.com/"
+      ]
+    },
+    "#e0dacf": {
+      "count": 1,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "#f5f4f1": {
+      "count": 1,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "#ece9e250": {
+      "count": 1,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "#03143b": {
+      "count": 1,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "#52525b": {
+      "count": 1,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "#575757": {
+      "count": 1,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "#57575730": {
+      "count": 1,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "#9c0f0f": {
+      "count": 1,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "#cdcdcd": {
+      "count": 1,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "#443828": {
+      "count": 1,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "#10714e": {
+      "count": 1,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "#21212126": {
+      "count": 1,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "#2121214d": {
+      "count": 1,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "#212121e6": {
+      "count": 1,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "#ffffffcc": {
+      "count": 1,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "#ffffffe6": {
+      "count": 1,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "#fffffff2": {
+      "count": 1,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "#21212199": {
+      "count": 1,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "#2121211a": {
+      "count": 1,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "#2121210d": {
+      "count": 1,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "#ece9e200": {
+      "count": 1,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "#ffffff33": {
+      "count": 1,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.allbirds.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.allbirds.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.allbirds.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Akkurat Mono": [
+      "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+    ],
+    "Geograph": [
+      "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+    ],
+    "Self Modern": [
+      "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+      "selector": "button,input,select,optgroup,textarea",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0"
+    },
+    {
+      "source": "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+      "selector": "::file-selector-button",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0"
+    },
+    {
+      "source": "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+      "selector": ".btn",
+      "declarations": "cursor:pointer;padding-inline:calc(var(--spacing)*4);padding-block:calc(var(--spacing)*2);text-align:center;font-family:var(--font-sans);font-size:var(--text-xs);line-height:var(--tw-leading,var(--text-xs--line-height));--tw-leading:var(--leading-tight);line-height:var(--leading-tight);--tw-font-weight:var(--font-weight-medium);font-weight:var(--font-weight-medium);--tw-tracking:var(--tracking-wide);letter-spacing:var(--tracking-wide);white-space:nowrap;color:var(--color-black);text-transform:uppercase;transition:background-color .2s var(--ease-sine-in-out),color .2s var(--ease-sine-in-out),border-color .2s var(--ease-sine-in-out),opacity .2s var(--ease-sine-out);border-radius:3.40282e38px;j"
+    },
+    {
+      "source": "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+      "selector": ".btn:focus",
+      "declarations": "outline-color:var(--color-blue-600)"
+    },
+    {
+      "source": "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+      "selector": ".btn.btn-primary",
+      "declarations": "border-style:var(--tw-border-style);border-width:1px;border-color:var(--color-white);background-color:var(--color-white)"
+    },
+    {
+      "source": "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+      "selector": ".btn.btn-primary:hover",
+      "declarations": "border-color:var(--color-black);background-color:var(--color-black);color:var(--color-white)"
+    },
+    {
+      "source": "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+      "selector": ".btn.btn-secondary",
+      "declarations": "border-style:var(--tw-border-style);border-width:1px;border-color:var(--color-black);background-color:var(--color-black);color:var(--color-white)"
+    },
+    {
+      "source": "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+      "selector": ".btn.btn-secondary:hover",
+      "declarations": "border-color:var(--color-light-charcoal);background-color:var(--color-light-charcoal);color:var(--color-white)"
+    },
+    {
+      "source": "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+      "selector": ".btn.btn-outline-black",
+      "declarations": "border-style:var(--tw-border-style);border-width:1px;border-color:var(--color-black);color:var(--color-black);background-color:#0000"
+    },
+    {
+      "source": "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+      "selector": ".btn.btn-outline-black:hover",
+      "declarations": "border-color:var(--color-black);background-color:var(--color-black);color:var(--color-white)"
+    },
+    {
+      "source": "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+      "selector": ".btn.btn-outline-white",
+      "declarations": "border-style:var(--tw-border-style);border-width:1px;border-color:var(--color-white);color:var(--color-white);background-color:#0000"
+    },
+    {
+      "source": "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+      "selector": ".btn.btn-outline-white:hover",
+      "declarations": "border-color:var(--color-white);background-color:var(--color-white);color:var(--color-black)"
+    },
+    {
+      "source": "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+      "selector": ".btn.btn-icon-black",
+      "declarations": "border-style:var(--tw-border-style);border-width:1px;border-color:var(--color-black);padding-inline:calc(var(--spacing)*0);padding-block:calc(var(--spacing)*0);color:var(--color-black);background-color:#0000;border-radius:3.40282e38px;justify-content:center;align-items:center;display:flex"
+    },
+    {
+      "source": "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+      "selector": ".btn.btn-icon-black:hover",
+      "declarations": "background-color:var(--color-black);color:var(--color-white)"
+    },
+    {
+      "source": "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+      "selector": ".btn.btn-icon-white",
+      "declarations": "border-style:var(--tw-border-style);border-width:1px;border-color:var(--color-white);padding-inline:calc(var(--spacing)*0);padding-block:calc(var(--spacing)*0);color:var(--color-white);background-color:#0000;border-radius:3.40282e38px;justify-content:center;align-items:center;display:flex"
+    },
+    {
+      "source": "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+      "selector": ".btn.btn-icon-white:hover",
+      "declarations": "background-color:var(--color-white);color:var(--color-black)"
+    },
+    {
+      "source": "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+      "selector": ".btn-size",
+      "declarations": "cursor:pointer;border-radius:var(--radius-xs);border-style:var(--tw-border-style);border-width:1px;border-color:var(--color-stroke);width:100%;padding-block:calc(var(--spacing)*3);font-size:var(--text-xs);line-height:var(--tw-leading,var(--text-xs--line-height));--tw-font-weight:var(--font-weight-medium);font-weight:var(--font-weight-medium);color:currentColor;transition-property:color,background-color,border-color,outline-color,text-decoration-color,fill,stroke,--tw-gradient-from,--tw-gradient-via,--tw-gradient-to;transition-timing-function:var(--tw-ease,var(--default-transition-timing-function));transition-duration:var(--tw-duration,var(--default-transition-duration));--tw-duration:.2s;--t"
+    },
+    {
+      "source": "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+      "selector": ".btn-size:hover:not(.disabled),.btn-size:hover:not(:disabled)",
+      "declarations": "background-color:var(--color-light-charcoal-0\\.3)"
+    },
+    {
+      "source": "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+      "selector": ".btn-size.btn-size--selected",
+      "declarations": "border-color:var(--color-black);background-color:var(--color-black);color:var(--color-white)"
+    },
+    {
+      "source": "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+      "selector": ".btn-size.btn-size--selected:hover",
+      "declarations": "background-color:var(--color-black)"
+    },
+    {
+      "source": "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+      "selector": ".btn-size.disabled,.btn-size:disabled",
+      "declarations": "color:var(--color-gray-400);opacity:.7"
+    },
+    {
+      "source": "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+      "selector": ".prose :where(h1):not(:where([class~=not-prose],[class~=not-prose] *))",
+      "declarations": "color:var(--tw-prose-headings);margin-top:0;margin-bottom:.888889em;font-size:2.25em;font-weight:800;line-height:1.11111"
+    },
+    {
+      "source": "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+      "selector": ".prose :where(h1 strong):not(:where([class~=not-prose],[class~=not-prose] *))",
+      "declarations": "color:inherit;font-weight:900"
+    },
+    {
+      "source": "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+      "selector": ".prose :where(a code):not(:where([class~=not-prose],[class~=not-prose] *)),.prose :where(h1 code):not(:where([class~=not-prose],[class~=not-prose] *))",
+      "declarations": "color:inherit"
+    },
+    {
+      "source": "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+      "selector": ".prose :where(tbody tr):not(:where([class~=not-prose],[class~=not-prose] *))",
+      "declarations": "border-bottom-width:1px;border-bottom-color:var(--tw-prose-td-borders)"
+    },
+    {
+      "source": "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+      "selector": ".prose-headings\\:font-medium :where(h1,h2,h3,h4,h5,h6,th):not(:where([class~=not-prose],[class~=not-prose] *))",
+      "declarations": "--tw-font-weight:var(--font-weight-medium);font-weight:var(--font-weight-medium)"
+    },
+    {
+      "source": "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+      "selector": ".prose-headings\\:font-normal :where(h1,h2,h3,h4,h5,h6,th):not(:where([class~=not-prose],[class~=not-prose] *))",
+      "declarations": "--tw-font-weight:var(--font-weight-normal);font-weight:var(--font-weight-normal)"
+    },
+    {
+      "source": "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+      "selector": ":root",
+      "declarations": "--swiper-theme-color:#007aff"
+    },
+    {
+      "source": "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+      "selector": ":root",
+      "declarations": "--swiper-navigation-size:44px"
+    },
+    {
+      "source": "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+      "selector": ".swiper-button-prev,.swiper-button-next",
+      "declarations": "width:var(--swiper-navigation-size);height:var(--swiper-navigation-size);z-index:10;cursor:pointer;color:var(--swiper-navigation-color,var(--swiper-theme-color));justify-content:center;align-items:center;display:flex;position:absolute"
+    }
+  ],
+  "confidence": "historical_partial_css_evidence",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Allbirds: Comfortable, Sustainable Shoes & Apparel",
+  "schema_version": 1,
+  "design_origin": "historical",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.allbirds.com/",
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "colors.primary-active": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.allbirds.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.primary-disabled": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.allbirds.com/",
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.allbirds.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.allbirds.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+        "https://www.allbirds.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/cart-drawer-section.css"
+      ]
+    },
+    "colors.surface-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.allbirds.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+        "https://www.allbirds.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/cart-drawer-section.css"
+      ]
+    },
+    "colors.on-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+        "https://www.allbirds.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/cart-drawer-section.css"
+      ]
+    },
+    "colors.scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.allbirds.com/",
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/theme.css",
+        "https://www.allbirds.com/cdn/shop/t/4159/assets/cart-drawer-section.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.display-lg": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.display-md": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.display-sm": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.title-md": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.title-sm": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.body-md": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.body-sm": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.caption": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.label-uppercase": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.material-tag": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.price": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.button-md": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.button-sm": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.nav-link": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "rounded.none": {
+      "status": "unverified"
+    },
+    "rounded.xs": {
+      "status": "unverified"
+    },
+    "rounded.sm": {
+      "status": "unverified"
+    },
+    "rounded.md": {
+      "status": "unverified"
+    },
+    "rounded.lg": {
+      "status": "unverified"
+    },
+    "rounded.xl": {
+      "status": "unverified"
+    },
+    "rounded.full": {
+      "status": "unverified"
+    },
+    "spacing.xxs": {
+      "status": "unverified"
+    },
+    "spacing.xs": {
+      "status": "unverified"
+    },
+    "spacing.sm": {
+      "status": "unverified"
+    },
+    "spacing.md": {
+      "status": "unverified"
+    },
+    "spacing.base": {
+      "status": "unverified"
+    },
+    "spacing.lg": {
+      "status": "unverified"
+    },
+    "spacing.xl": {
+      "status": "unverified"
+    },
+    "spacing.xxl": {
+      "status": "unverified"
+    },
+    "spacing.section": {
+      "status": "unverified"
+    },
+    "components.button-primary": {
+      "status": "unverified"
+    },
+    "components.button-primary-active": {
+      "status": "unverified"
+    },
+    "components.button-primary-disabled": {
+      "status": "unverified"
+    },
+    "components.button-secondary": {
+      "status": "unverified"
+    },
+    "components.button-secondary-active": {
+      "status": "unverified"
+    },
+    "components.button-text": {
+      "status": "unverified"
+    },
+    "components.nav-bar": {
+      "status": "unverified"
+    },
+    "components.nav-dropdown": {
+      "status": "unverified"
+    },
+    "components.product-card": {
+      "status": "unverified"
+    },
+    "components.color-swatch": {
+      "status": "unverified"
+    },
+    "components.material-badge": {
+      "status": "unverified"
+    },
+    "components.hero-section": {
+      "status": "unverified"
+    },
+    "components.sustainability-banner": {
+      "status": "unverified"
+    },
+    "components.text-input": {
+      "status": "unverified"
+    },
+    "components.search-bar": {
+      "status": "unverified"
+    },
+    "components.size-selector": {
+      "status": "unverified"
+    },
+    "components.product-image-viewer": {
+      "status": "unverified"
+    },
+    "components.footer": {
+      "status": "unverified"
+    }
+  },
+  "observed_color_tokens": 11,
+  "total_color_tokens": 14
+}

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: CalDigit
-description: A deep blue #003399 anchors CalDigit's digital presence with the confidence of a Thunderbolt dock that has nothing to prove — the color appears on primary buttons, navigation bars, and product badges, creating a consistent voltage across the shopping experience. The brand pairs this primary with a secondary #003388 for hover states and a warning red #ff0000 that signals sale badges and limited-time offers with unmistakable urgency. Typography runs Roboto at moderate weights — display headlines sit at 28px weight 500, body text at 16px weight 400, and captions at 14px weight 500 — prioritizing readability over typographic drama. Product cards use soft {rounded.sm} corners on images and {rounded.md} on card containers, while primary buttons adopt {rounded.sm} for a clean, professional finish that avoids the playfulness of pill shapes. The color palette extends to a warm accent set (#f78da7 pink, #fcb900 yellow, #00d084 green) used sparingly for category tags and feature highlights, while the neutral system (#222222 ink, #555555 body, #dcdcdc hairline) keeps the layout grounded. The brand's meta theme-color of #000 signals a dark-mode-aware approach, though the primary canvas remains #ffffff. CalDigit's design language communicates reliability through consistent blue dominance, restrained corner radii, and a typographic hierarchy that lets product specifications and pricing do the heavy lifting.
+name: "CalDigit"
+source_url: "https://www.caldigit.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep blue #003399 anchors CalDigit's digital presence with the confidence of a Thunderbolt dock that has nothing to prove — the color appears on primary buttons, navigation bars, and product badges, creating a consistent voltage across the shopping experience. The brand pairs this primary with a secondary #003388 for hover states and a warning red #ff0000 that signals sale badges and limited-time offers with unmistakable urgency. Typography runs Roboto at moderate weights — display headlines sit at 28px weight 500, body text at 16px weight 400, and captions at 14px weight 500 — prioritizing readability over typographic drama. Product cards use soft {rounded.sm} corners on images and {rounded.md} on card containers, while primary buttons adopt {rounded.sm} for a clean, professional finish that avoids the playfulness of pill shapes. The color palette extends to a warm accent set (#f78da7 pink, #fcb900 yellow, #00d084 green) used sparingly for category tags and feature highlights, while the neutral system (#222222 ink, #555555 body, #dcdcdc hairline) keeps the layout grounded. The brand's meta theme-color of #000 signals a dark-mode-aware approach, though the primary canvas remains #ffffff. CalDigit's design language communicates reliability through consistent blue dominance, restrained corner radii, and a typographic hierarchy that lets product specifications and pricing do the heavy lifting.
 
 colors:
   primary: "#003399"
@@ -384,6 +388,8 @@ components:
 - Search bar collapses to icon-only on mobile, expanding to full-width on tap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for product cards (shadow elevation, border color changes) could not be reliably extracted
 - Error message styling for form validation (color, iconography, placement) is inferred from general patterns

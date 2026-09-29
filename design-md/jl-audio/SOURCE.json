@@ -1,0 +1,938 @@
+{
+  "source_url": "https://jlaudio.com",
+  "final_url": "https://www.garmin.com/en-US/c/jlaudio/",
+  "captured_at": "2026-09-29T04:07:38.213567+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://jlaudio.com",
+      "final_url": "https://www.garmin.com/en-US/c/jlaudio/",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "cf6e1d7aefbab7474b5065622cf034d6f8abc972e059353f2d2c7b9cdefe78aa",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.garmin.com/c/assets/app.www-category-pages-v3.27.0.css",
+      "final_url": "https://www.garmin.com/c/assets/app.www-category-pages-v3.27.0.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "fdccae51435557231f9dd1bb17233e0e76a7f75d0ba26359629f7e6db3bbc79e",
+      "snapshot": "rendered-style-1.css"
+    },
+    {
+      "url": "https://fonts.garmin.com/fonts/superscripts-roboto/superscripts-insidesup-roboto.css",
+      "final_url": "https://fonts.garmin.com/fonts/superscripts-roboto/superscripts-insidesup-roboto.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3480d28fbf88aa9c639ef78c462722014e3195dbbdea126c6deee7ff20a3d001",
+      "snapshot": "rendered-style-2.css"
+    },
+    {
+      "url": "https://fonts.garmin.com/fonts/oswald/oswald.css",
+      "final_url": "https://fonts.garmin.com/fonts/oswald/oswald.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3fff16c55c076f64a03a65c260169e09f922dd624577693b149671c8a717fa20",
+      "snapshot": "rendered-style-3.css"
+    },
+    {
+      "url": "https://fonts.garmin.com/fonts/superscripts-oswald/superscripts-oswald.css",
+      "final_url": "https://fonts.garmin.com/fonts/superscripts-oswald/superscripts-oswald.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "34810cf6f384055e39fa5798946e1cae867da1b6802f63d9f12a01e147da8f90",
+      "snapshot": "rendered-style-4.css"
+    },
+    {
+      "url": "https://fonts.garmin.com/fonts/roboto-standard/roboto-standard.css",
+      "final_url": "https://fonts.garmin.com/fonts/roboto-standard/roboto-standard.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6834c9cf1b4007ce86e2375f4dd0c5fc9265dfe6bb3b50204e47b709c1cb852a",
+      "snapshot": "rendered-style-5.css"
+    },
+    {
+      "url": "https://fonts.garmin.com/fonts/superscripts-roboto/superscripts-roboto.css",
+      "final_url": "https://fonts.garmin.com/fonts/superscripts-roboto/superscripts-roboto.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "121e51205bc7b81ce4f81e81e648590ab2ae9d3fd5ff1e3dac24cb1ff1f04f69",
+      "snapshot": "rendered-style-6.css"
+    },
+    {
+      "url": "https://fonts.garmin.com/fonts/superscripts-oswald/superscripts-insidesup-oswald.css",
+      "final_url": "https://fonts.garmin.com/fonts/superscripts-oswald/superscripts-insidesup-oswald.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b30b631445ab068655cdb76ad00afc136a77a2c0a634991091ec97080f67d547",
+      "snapshot": "rendered-style-7.css"
+    },
+    {
+      "url": "https://www.garmin.com/c/assets/app23.www-category-pages-v3.27.0.css",
+      "final_url": "https://www.garmin.com/c/assets/app23.www-category-pages-v3.27.0.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "53a68d71f6408323212badd4ba3abe641b04d61b7fecada70428647d68ea5185",
+      "snapshot": "rendered-style-8.css"
+    },
+    {
+      "url": "https://www.garmin.com/c/assets/app7.www-category-pages-v3.27.0.css",
+      "final_url": "https://www.garmin.com/c/assets/app7.www-category-pages-v3.27.0.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "85ba23753348dd5d5cb5c1ee444b0784c6978752c42135085a345d611dff0461",
+      "snapshot": "rendered-style-9.css"
+    },
+    {
+      "url": "https://www.garmin.com/c/assets/app3.www-category-pages-v3.27.0.css",
+      "final_url": "https://www.garmin.com/c/assets/app3.www-category-pages-v3.27.0.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "eba64b70562cabc684d1a5f42606e5ea126255490c40eb28cd1e26f2ee7fbc2b",
+      "snapshot": "rendered-style-10.css"
+    },
+    {
+      "url": "https://www.garmin.com/c/assets/app25.www-category-pages-v3.27.0.css",
+      "final_url": "https://www.garmin.com/c/assets/app25.www-category-pages-v3.27.0.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6ea1fd4e6a7939e78131e77469ffa90ddf63116ea587d165906f481ea178092e",
+      "snapshot": "rendered-style-11.css"
+    },
+    {
+      "url": "https://www.garmin.com/c/assets/app13.www-category-pages-v3.27.0.css",
+      "final_url": "https://www.garmin.com/c/assets/app13.www-category-pages-v3.27.0.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d33c96a8ba6afd043a0d1aaa19d659a2909db5f1a4d6482887996e741c605577",
+      "snapshot": "rendered-style-12.css"
+    },
+    {
+      "url": "https://www.garmin.com/c/assets/app26.www-category-pages-v3.27.0.css",
+      "final_url": "https://www.garmin.com/c/assets/app26.www-category-pages-v3.27.0.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "092b9799fa3371e366fe6b323784f851f09511eaa947c136f04cf8a5037f542c",
+      "snapshot": "rendered-style-13.css"
+    },
+    {
+      "url": "https://www.garmin.com/c/assets/app28.www-category-pages-v3.27.0.css",
+      "final_url": "https://www.garmin.com/c/assets/app28.www-category-pages-v3.27.0.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b5717fa8524787015b17fc20910c1d9a43dd2fe60ae920c87824844dc4e0bbd0",
+      "snapshot": "rendered-style-14.css"
+    },
+    {
+      "url": "https://www.garmin.com/c/assets/app30.www-category-pages-v3.27.0.css",
+      "final_url": "https://www.garmin.com/c/assets/app30.www-category-pages-v3.27.0.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1f3f7b267e58f312bdd17fd166f011411e81b1bce4c18b963aa09ee85410fe37",
+      "snapshot": "rendered-style-15.css"
+    },
+    {
+      "url": "https://www.garmin.com/c/assets/app29.www-category-pages-v3.27.0.css",
+      "final_url": "https://www.garmin.com/c/assets/app29.www-category-pages-v3.27.0.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f619e019ba4e8955c4f45c85faffd0d7f5fb8d4159c88e10edc3e0be260281c2",
+      "snapshot": "rendered-style-16.css"
+    },
+    {
+      "url": "https://www.garmin.com/c/assets/app31.www-category-pages-v3.27.0.css",
+      "final_url": "https://www.garmin.com/c/assets/app31.www-category-pages-v3.27.0.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "685660d295f4c28497998a7c9a84781afec58c3cb9608fe01e77a7acf60843fa",
+      "snapshot": "rendered-style-17.css"
+    },
+    {
+      "url": "https://www.garmin.com/c/assets/app33.www-category-pages-v3.27.0.css",
+      "final_url": "https://www.garmin.com/c/assets/app33.www-category-pages-v3.27.0.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4a79a105167f5d8cf99a02e022a5740afe2c97753daf126b9f02db95adb0fb13",
+      "snapshot": "rendered-style-18.css"
+    },
+    {
+      "url": "https://www.garmin.com/c/assets/app32.www-category-pages-v3.27.0.css",
+      "final_url": "https://www.garmin.com/c/assets/app32.www-category-pages-v3.27.0.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d3aabe8bfc6948ce45b38f05b045aabcb334e60bd491696596599fbd0ad2594e",
+      "snapshot": "rendered-style-19.css"
+    },
+    {
+      "url": "https://www.garmin.com/c/assets/app34.www-category-pages-v3.27.0.css",
+      "final_url": "https://www.garmin.com/c/assets/app34.www-category-pages-v3.27.0.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "790df437a53930329f21deac2dd956b84ddc147c8ef2b26540e3a78ff8f7f71b",
+      "snapshot": "rendered-style-20.css"
+    },
+    {
+      "url": "https://www.garmin.com/c/assets/app14.www-category-pages-v3.27.0.css",
+      "final_url": "https://www.garmin.com/c/assets/app14.www-category-pages-v3.27.0.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "de3a03fb76ec9da9c3abf2909c1a20524eb0f947dfbb044bfbf1442221405c2b",
+      "snapshot": "rendered-style-21.css"
+    },
+    {
+      "url": "https://www.garmin.com/c/assets/app35.www-category-pages-v3.27.0.css",
+      "final_url": "https://www.garmin.com/c/assets/app35.www-category-pages-v3.27.0.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0f5931f79b67e663def6ea50ea1d97fb8917d4be6afd48deb3be9f890fc30861",
+      "snapshot": "rendered-style-22.css"
+    },
+    {
+      "url": "https://www.garmin.com/c/assets/app36.www-category-pages-v3.27.0.css",
+      "final_url": "https://www.garmin.com/c/assets/app36.www-category-pages-v3.27.0.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2add45f2fca0a32fe17ab1f3a89f584a49efe61fb0d6d1f79cc5cb469ee32819",
+      "snapshot": "rendered-style-23.css"
+    },
+    {
+      "url": "https://www.garmin.com/c/assets/app12.www-category-pages-v3.27.0.css",
+      "final_url": "https://www.garmin.com/c/assets/app12.www-category-pages-v3.27.0.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "706fe8d5bc8340d45c49ee9c46a04942aa73a48a96ac843721c129f80b4de817",
+      "snapshot": "rendered-style-24.css"
+    },
+    {
+      "url": "https://www.garmin.com/en-US/c/jlaudio/#computed-style-snapshot",
+      "final_url": "https://www.garmin.com/en-US/c/jlaudio/#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "a1a0ab8e5e6ec552008f4b3aa1327a2d760ca055fc71ba82eaa5f2a5c1758df6",
+      "snapshot": "rendered-style-25.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 393,
+      "sources": [
+        "https://www.garmin.com/en-US/c/jlaudio/",
+        "https://www.garmin.com/c/assets/app.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app7.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app3.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app13.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app28.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app30.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app29.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app32.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app12.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/en-US/c/jlaudio/#computed-style-snapshot"
+      ]
+    },
+    "#ffffff": {
+      "count": 317,
+      "sources": [
+        "https://www.garmin.com/en-US/c/jlaudio/",
+        "https://www.garmin.com/c/assets/app7.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app3.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app28.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app30.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app29.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app32.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/en-US/c/jlaudio/#computed-style-snapshot"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 36,
+      "sources": [
+        "https://www.garmin.com/c/assets/app32.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app35.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/en-US/c/jlaudio/#computed-style-snapshot"
+      ]
+    },
+    "#eeeeee": {
+      "count": 18,
+      "sources": [
+        "https://www.garmin.com/en-US/c/jlaudio/",
+        "https://www.garmin.com/c/assets/app7.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app3.www-category-pages-v3.27.0.css"
+      ]
+    },
+    "#d8d8d8": {
+      "count": 10,
+      "sources": [
+        "https://www.garmin.com/en-US/c/jlaudio/",
+        "https://www.garmin.com/en-US/c/jlaudio/#computed-style-snapshot"
+      ]
+    },
+    "#333333": {
+      "count": 7,
+      "sources": [
+        "https://www.garmin.com/en-US/c/jlaudio/"
+      ]
+    },
+    "#666666": {
+      "count": 6,
+      "sources": [
+        "https://www.garmin.com/en-US/c/jlaudio/",
+        "https://www.garmin.com/en-US/c/jlaudio/#computed-style-snapshot"
+      ]
+    },
+    "#727272": {
+      "count": 6,
+      "sources": [
+        "https://www.garmin.com/en-US/c/jlaudio/",
+        "https://www.garmin.com/en-US/c/jlaudio/#computed-style-snapshot"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 6,
+      "sources": [
+        "https://www.garmin.com/c/assets/app30.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/en-US/c/jlaudio/#computed-style-snapshot"
+      ]
+    },
+    "#106fad": {
+      "count": 5,
+      "sources": [
+        "https://www.garmin.com/en-US/c/jlaudio/"
+      ]
+    },
+    "#6dcff6": {
+      "count": 3,
+      "sources": [
+        "https://www.garmin.com/en-US/c/jlaudio/"
+      ]
+    },
+    "#cccccc": {
+      "count": 3,
+      "sources": [
+        "https://www.garmin.com/en-US/c/jlaudio/",
+        "https://www.garmin.com/c/assets/app3.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app32.www-category-pages-v3.27.0.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 3,
+      "sources": [
+        "https://www.garmin.com/en-US/c/jlaudio/",
+        "https://www.garmin.com/c/assets/app28.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app32.www-category-pages-v3.27.0.css"
+      ]
+    },
+    "#920000": {
+      "count": 2,
+      "sources": [
+        "https://www.garmin.com/en-US/c/jlaudio/"
+      ]
+    },
+    "#60cff6": {
+      "count": 2,
+      "sources": [
+        "https://www.garmin.com/en-US/c/jlaudio/"
+      ]
+    },
+    "#4d4d4d14": {
+      "count": 2,
+      "sources": [
+        "https://www.garmin.com/c/assets/app28.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app29.www-category-pages-v3.27.0.css"
+      ]
+    },
+    "#4d4d4d29": {
+      "count": 2,
+      "sources": [
+        "https://www.garmin.com/c/assets/app28.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app29.www-category-pages-v3.27.0.css"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 2,
+      "sources": [
+        "https://www.garmin.com/c/assets/app32.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app35.www-category-pages-v3.27.0.css"
+      ]
+    },
+    "#f9edbe": {
+      "count": 1,
+      "sources": [
+        "https://www.garmin.com/en-US/c/jlaudio/"
+      ]
+    },
+    "#f0c36d": {
+      "count": 1,
+      "sources": [
+        "https://www.garmin.com/en-US/c/jlaudio/"
+      ]
+    },
+    "#af7501": {
+      "count": 1,
+      "sources": [
+        "https://www.garmin.com/en-US/c/jlaudio/"
+      ]
+    },
+    "#ff9b00": {
+      "count": 1,
+      "sources": [
+        "https://www.garmin.com/en-US/c/jlaudio/"
+      ]
+    },
+    "#737373": {
+      "count": 1,
+      "sources": [
+        "https://www.garmin.com/c/assets/app13.www-category-pages-v3.27.0.css"
+      ]
+    },
+    "#ffffffe6": {
+      "count": 1,
+      "sources": [
+        "https://www.garmin.com/c/assets/app29.www-category-pages-v3.27.0.css"
+      ]
+    },
+    "#ffffffcc": {
+      "count": 1,
+      "sources": [
+        "https://www.garmin.com/c/assets/app29.www-category-pages-v3.27.0.css"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://www.garmin.com/c/assets/app29.www-category-pages-v3.27.0.css"
+      ]
+    },
+    "#b8d3e0": {
+      "count": 1,
+      "sources": [
+        "https://www.garmin.com/c/assets/app29.www-category-pages-v3.27.0.css"
+      ]
+    },
+    "#3d6d8f": {
+      "count": 1,
+      "sources": [
+        "https://www.garmin.com/c/assets/app29.www-category-pages-v3.27.0.css"
+      ]
+    },
+    "#eaff00": {
+      "count": 1,
+      "sources": [
+        "https://www.garmin.com/c/assets/app29.www-category-pages-v3.27.0.css"
+      ]
+    },
+    "#b5d100": {
+      "count": 1,
+      "sources": [
+        "https://www.garmin.com/c/assets/app29.www-category-pages-v3.27.0.css"
+      ]
+    },
+    "#3d6b00": {
+      "count": 1,
+      "sources": [
+        "https://www.garmin.com/c/assets/app29.www-category-pages-v3.27.0.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.garmin.com/en-US/c/jlaudio/",
+      "https://www.garmin.com/en-US/c/jlaudio/#computed-style-snapshot"
+    ],
+    "Knockout JuniorWelterwt Regular": [
+      "https://www.garmin.com/en-US/c/jlaudio/"
+    ],
+    "Knockout-JuniorWelterwt": [
+      "https://www.garmin.com/en-US/c/jlaudio/"
+    ],
+    "Noto Sans JP": [
+      "https://www.garmin.com/en-US/c/jlaudio/",
+      "https://www.garmin.com/c/assets/app.www-category-pages-v3.27.0.css",
+      "https://www.garmin.com/c/assets/app31.www-category-pages-v3.27.0.css",
+      "https://www.garmin.com/en-US/c/jlaudio/#computed-style-snapshot"
+    ],
+    "Noto Sans KR": [
+      "https://www.garmin.com/en-US/c/jlaudio/",
+      "https://www.garmin.com/c/assets/app.www-category-pages-v3.27.0.css",
+      "https://www.garmin.com/c/assets/app31.www-category-pages-v3.27.0.css",
+      "https://www.garmin.com/en-US/c/jlaudio/#computed-style-snapshot"
+    ],
+    "Noto Sans SC": [
+      "https://www.garmin.com/en-US/c/jlaudio/",
+      "https://www.garmin.com/c/assets/app.www-category-pages-v3.27.0.css",
+      "https://www.garmin.com/c/assets/app31.www-category-pages-v3.27.0.css",
+      "https://www.garmin.com/en-US/c/jlaudio/#computed-style-snapshot"
+    ],
+    "Noto Sans TC": [
+      "https://www.garmin.com/en-US/c/jlaudio/",
+      "https://www.garmin.com/c/assets/app.www-category-pages-v3.27.0.css",
+      "https://www.garmin.com/c/assets/app31.www-category-pages-v3.27.0.css",
+      "https://www.garmin.com/en-US/c/jlaudio/#computed-style-snapshot"
+    ],
+    "Oswald": [
+      "https://www.garmin.com/en-US/c/jlaudio/",
+      "https://fonts.garmin.com/fonts/oswald/oswald.css",
+      "https://www.garmin.com/c/assets/app31.www-category-pages-v3.27.0.css",
+      "https://www.garmin.com/en-US/c/jlaudio/#computed-style-snapshot"
+    ],
+    "Prompt": [
+      "https://www.garmin.com/en-US/c/jlaudio/",
+      "https://www.garmin.com/c/assets/app.www-category-pages-v3.27.0.css",
+      "https://www.garmin.com/c/assets/app31.www-category-pages-v3.27.0.css",
+      "https://www.garmin.com/en-US/c/jlaudio/#computed-style-snapshot"
+    ],
+    "Roboto": [
+      "https://www.garmin.com/en-US/c/jlaudio/",
+      "https://www.garmin.com/c/assets/app.www-category-pages-v3.27.0.css",
+      "https://fonts.garmin.com/fonts/roboto-standard/roboto-standard.css",
+      "https://www.garmin.com/c/assets/app31.www-category-pages-v3.27.0.css",
+      "https://www.garmin.com/en-US/c/jlaudio/#computed-style-snapshot"
+    ],
+    "Roboto Condensed": [
+      "https://www.garmin.com/en-US/c/jlaudio/",
+      "https://www.garmin.com/c/assets/app31.www-category-pages-v3.27.0.css",
+      "https://www.garmin.com/en-US/c/jlaudio/#computed-style-snapshot"
+    ],
+    "Superscripts-InsideSup-Oswald": [
+      "https://www.garmin.com/en-US/c/jlaudio/",
+      "https://fonts.garmin.com/fonts/superscripts-oswald/superscripts-insidesup-oswald.css"
+    ],
+    "Superscripts-InsideSup-Roboto": [
+      "https://www.garmin.com/en-US/c/jlaudio/",
+      "https://fonts.garmin.com/fonts/superscripts-roboto/superscripts-insidesup-roboto.css"
+    ],
+    "Superscripts-Oswald": [
+      "https://www.garmin.com/en-US/c/jlaudio/",
+      "https://fonts.garmin.com/fonts/superscripts-oswald/superscripts-oswald.css",
+      "https://www.garmin.com/c/assets/app31.www-category-pages-v3.27.0.css",
+      "https://www.garmin.com/en-US/c/jlaudio/#computed-style-snapshot"
+    ],
+    "Superscripts-Roboto": [
+      "https://www.garmin.com/en-US/c/jlaudio/",
+      "https://www.garmin.com/c/assets/app.www-category-pages-v3.27.0.css",
+      "https://fonts.garmin.com/fonts/superscripts-roboto/superscripts-roboto.css",
+      "https://www.garmin.com/en-US/c/jlaudio/#computed-style-snapshot"
+    ],
+    "monospace": [
+      "https://www.garmin.com/en-US/c/jlaudio/"
+    ],
+    "notosans-regular": [
+      "https://www.garmin.com/en-US/c/jlaudio/"
+    ],
+    "sans-serif": [
+      "https://www.garmin.com/en-US/c/jlaudio/",
+      "https://www.garmin.com/c/assets/app.www-category-pages-v3.27.0.css",
+      "https://www.garmin.com/c/assets/app31.www-category-pages-v3.27.0.css",
+      "https://www.garmin.com/en-US/c/jlaudio/#computed-style-snapshot"
+    ],
+    "serif": [
+      "https://www.garmin.com/en-US/c/jlaudio/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.garmin.com/en-US/c/jlaudio/",
+      "selector": ":root",
+      "declarations": "--g-breakpoint-xs:480px;--g-breakpoint-sm:768px;--g-breakpoint-md:1024px;--g-breakpoint-lg:1200px;--g-breakpoint-xl:1350px;--g-breakpoint-xxl:1440px;--g-breakpoint-xxxl:1824px;--g-breakpoint-standard:768px"
+    },
+    {
+      "source": "https://www.garmin.com/en-US/c/jlaudio/",
+      "selector": ":root",
+      "declarations": "--g-spacing-none:0;--g-spacing-xs:0.25rem;--g-spacing-sm:0.5rem;--g-spacing-md:1rem;--g-spacing-lg:1.5rem;--g-spacing-xl:2rem;--g-spacing-xxl:5rem"
+    },
+    {
+      "source": "https://www.garmin.com/en-US/c/jlaudio/",
+      "selector": ":root",
+      "declarations": "--g-breakpoint-xs:480px;--g-breakpoint-sm:768px;--g-breakpoint-md:1024px;--g-breakpoint-lg:1200px;--g-breakpoint-xl:1350px;--g-breakpoint-xxl:1440px;--g-breakpoint-xxxl:1824px;--g-breakpoint-standard:768px"
+    },
+    {
+      "source": "https://www.garmin.com/en-US/c/jlaudio/",
+      "selector": ":root",
+      "declarations": "--g-spacing-none:0;--g-spacing-xs:0.25rem;--g-spacing-sm:0.5rem;--g-spacing-md:1rem;--g-spacing-lg:1.5rem;--g-spacing-xl:2rem;--g-spacing-xxl:5rem"
+    },
+    {
+      "source": "https://www.garmin.com/en-US/c/jlaudio/",
+      "selector": ".g__pagination .g__button--contained--light[aria-current=true]:hover",
+      "declarations": "background:#fff;color:#000"
+    },
+    {
+      "source": "https://www.garmin.com/en-US/c/jlaudio/",
+      "selector": ".g__pagination .g__button--contained--dark[aria-current=true]:hover,.g__pagination .g__button--contained--dark[aria-current=true]:focus",
+      "declarations": "background:#000;color:#fff"
+    },
+    {
+      "source": "https://www.garmin.com/en-US/c/jlaudio/",
+      "selector": ":root",
+      "declarations": "--g-breakpoint-xs:480px;--g-breakpoint-sm:768px;--g-breakpoint-md:1024px;--g-breakpoint-lg:1200px;--g-breakpoint-xl:1350px;--g-breakpoint-xxl:1440px;--g-breakpoint-xxxl:1824px;--g-breakpoint-standard:768px"
+    },
+    {
+      "source": "https://www.garmin.com/en-US/c/jlaudio/",
+      "selector": ":root",
+      "declarations": "--g-spacing-none:0;--g-spacing-xs:0.25rem;--g-spacing-sm:0.5rem;--g-spacing-md:1rem;--g-spacing-lg:1.5rem;--g-spacing-xl:2rem;--g-spacing-xxl:5rem"
+    },
+    {
+      "source": "https://www.garmin.com/en-US/c/jlaudio/",
+      "selector": ":root",
+      "declarations": "--g-breakpoint-xs:480px;--g-breakpoint-sm:768px;--g-breakpoint-md:1024px;--g-breakpoint-lg:1200px;--g-breakpoint-xl:1350px;--g-breakpoint-xxl:1440px;--g-breakpoint-xxxl:1824px;--g-breakpoint-standard:768px"
+    },
+    {
+      "source": "https://www.garmin.com/en-US/c/jlaudio/",
+      "selector": ":root",
+      "declarations": "--g-spacing-none:0;--g-spacing-xs:0.25rem;--g-spacing-sm:0.5rem;--g-spacing-md:1rem;--g-spacing-lg:1.5rem;--g-spacing-xl:2rem;--g-spacing-xxl:5rem"
+    },
+    {
+      "source": "https://www.garmin.com/en-US/c/jlaudio/",
+      "selector": ":root",
+      "declarations": "--g-breakpoint-xs:480px;--g-breakpoint-sm:768px;--g-breakpoint-md:1024px;--g-breakpoint-lg:1200px;--g-breakpoint-xl:1350px;--g-breakpoint-xxl:1440px;--g-breakpoint-xxxl:1824px;--g-breakpoint-standard:768px"
+    },
+    {
+      "source": "https://www.garmin.com/en-US/c/jlaudio/",
+      "selector": ":root",
+      "declarations": "--g-spacing-none:0;--g-spacing-xs:0.25rem;--g-spacing-sm:0.5rem;--g-spacing-md:1rem;--g-spacing-lg:1.5rem;--g-spacing-xl:2rem;--g-spacing-xxl:5rem"
+    },
+    {
+      "source": "https://www.garmin.com/en-US/c/jlaudio/",
+      "selector": ":root",
+      "declarations": "--g-breakpoint-xs:480px;--g-breakpoint-sm:768px;--g-breakpoint-md:1024px;--g-breakpoint-lg:1200px;--g-breakpoint-xl:1350px;--g-breakpoint-xxl:1440px;--g-breakpoint-xxxl:1824px;--g-breakpoint-standard:768px"
+    },
+    {
+      "source": "https://www.garmin.com/en-US/c/jlaudio/",
+      "selector": ":root",
+      "declarations": "--g-spacing-none:0;--g-spacing-xs:0.25rem;--g-spacing-sm:0.5rem;--g-spacing-md:1rem;--g-spacing-lg:1.5rem;--g-spacing-xl:2rem;--g-spacing-xxl:5rem"
+    },
+    {
+      "source": "https://www.garmin.com/en-US/c/jlaudio/",
+      "selector": ":root",
+      "declarations": "--g-breakpoint-xs:480px;--g-breakpoint-sm:768px;--g-breakpoint-md:1024px;--g-breakpoint-lg:1200px;--g-breakpoint-xl:1350px;--g-breakpoint-xxl:1440px;--g-breakpoint-xxxl:1824px;--g-breakpoint-standard:768px"
+    },
+    {
+      "source": "https://www.garmin.com/en-US/c/jlaudio/",
+      "selector": ":root",
+      "declarations": "--g-spacing-none:0;--g-spacing-xs:0.25rem;--g-spacing-sm:0.5rem;--g-spacing-md:1rem;--g-spacing-lg:1.5rem;--g-spacing-xl:2rem;--g-spacing-xxl:5rem"
+    },
+    {
+      "source": "https://www.garmin.com/en-US/c/jlaudio/",
+      "selector": ":root",
+      "declarations": "--g-breakpoint-xs:480px;--g-breakpoint-sm:768px;--g-breakpoint-md:1024px;--g-breakpoint-lg:1200px;--g-breakpoint-xl:1350px;--g-breakpoint-xxl:1440px;--g-breakpoint-xxxl:1824px;--g-breakpoint-standard:768px"
+    },
+    {
+      "source": "https://www.garmin.com/en-US/c/jlaudio/",
+      "selector": ":root",
+      "declarations": "--g-spacing-none:0;--g-spacing-xs:0.25rem;--g-spacing-sm:0.5rem;--g-spacing-md:1rem;--g-spacing-lg:1.5rem;--g-spacing-xl:2rem;--g-spacing-xxl:5rem"
+    },
+    {
+      "source": "https://www.garmin.com/en-US/c/jlaudio/",
+      "selector": ".g__button",
+      "declarations": "font-family:\"Superscripts-Roboto\", \"Roboto\", \"Noto Sans TC\", \"Noto Sans SC\", \"Noto Sans JP\", \"Noto Sans KR\", \"Prompt\", sans-serif"
+    },
+    {
+      "source": "https://www.garmin.com/en-US/c/jlaudio/",
+      "selector": ".g__button",
+      "declarations": "border-radius:0;font-size:1rem;line-height:1.15;overflow:auto;transition:background 0.2s, border 0.2s, color 0.2s;vertical-align:middle;padding:1rem 2rem;text-transform:uppercase;text-decoration:none;text-align:center;display:inline-block;word-break:break-word;color:#000;cursor:pointer;width:auto"
+    },
+    {
+      "source": "https://www.garmin.com/en-US/c/jlaudio/",
+      "selector": ".g__button--contained--light:hover,.g__button--contained--light:focus",
+      "declarations": "color:#fff;background:#000;outline:none"
+    },
+    {
+      "source": "https://www.garmin.com/en-US/c/jlaudio/",
+      "selector": ".g__button--contained--light:active",
+      "declarations": "color:#000;background:#fff"
+    },
+    {
+      "source": "https://www.garmin.com/en-US/c/jlaudio/",
+      "selector": ".g__button--contained--dark",
+      "declarations": "color:#fff;background:#000;border:1px solid #fff"
+    },
+    {
+      "source": "https://www.garmin.com/en-US/c/jlaudio/",
+      "selector": ".g__button--contained--dark:visited",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://www.garmin.com/en-US/c/jlaudio/",
+      "selector": ".g__button--contained--dark:hover,.g__button--contained--dark:focus",
+      "declarations": "color:#000;background:#fff;border:1px solid #000;outline:none"
+    },
+    {
+      "source": "https://www.garmin.com/en-US/c/jlaudio/",
+      "selector": ".g__button--contained--dark:active",
+      "declarations": "color:#fff;background:#000"
+    },
+    {
+      "source": "https://www.garmin.com/en-US/c/jlaudio/",
+      "selector": ".g__button--contained--black",
+      "declarations": "color:#fff;background:#000"
+    },
+    {
+      "source": "https://www.garmin.com/en-US/c/jlaudio/",
+      "selector": ".g__button--contained--black:visited",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://www.garmin.com/en-US/c/jlaudio/",
+      "selector": ".g__button--contained--black:hover,.g__button--contained--black:focus",
+      "declarations": "color:#fff;background:#333333;border:1px solid #333333;outline:none"
+    },
+    {
+      "source": "https://www.garmin.com/en-US/c/jlaudio/",
+      "selector": ".g__button--contained--black:active",
+      "declarations": "color:#fff;background:#333333"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "JL Audio | Engineered for World Class Sound",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "ef8966b7928d0bc1241dddefcf84d0b9324e477d28596e7d459e900e23a2f85a"
+    }
+  ],
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.garmin.com/en-US/c/jlaudio/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.garmin.com/en-US/c/jlaudio/",
+        "https://www.garmin.com/c/assets/app.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app7.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app3.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app13.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app28.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app30.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app29.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app32.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app12.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/en-US/c/jlaudio/#computed-style-snapshot"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.garmin.com/en-US/c/jlaudio/",
+        "https://www.garmin.com/c/assets/app7.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app3.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app28.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app30.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app29.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app32.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/en-US/c/jlaudio/#computed-style-snapshot"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.garmin.com/en-US/c/jlaudio/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.garmin.com/en-US/c/jlaudio/",
+        "https://www.garmin.com/en-US/c/jlaudio/#computed-style-snapshot"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.garmin.com/en-US/c/jlaudio/",
+        "https://www.garmin.com/en-US/c/jlaudio/#computed-style-snapshot"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.garmin.com/en-US/c/jlaudio/",
+        "https://www.garmin.com/c/assets/app28.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app32.www-category-pages-v3.27.0.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.garmin.com/en-US/c/jlaudio/",
+        "https://www.garmin.com/c/assets/app7.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app3.www-category-pages-v3.27.0.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.garmin.com/en-US/c/jlaudio/",
+        "https://www.garmin.com/c/assets/app7.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app3.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app28.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app30.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app29.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/c/assets/app32.www-category-pages-v3.27.0.css",
+        "https://www.garmin.com/en-US/c/jlaudio/#computed-style-snapshot"
+      ]
+    },
+    "colors.accent-alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.garmin.com/en-US/c/jlaudio/"
+      ]
+    },
+    "colors.accent-highlight": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.garmin.com/en-US/c/jlaudio/"
+      ]
+    },
+    "colors.tooltip-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.garmin.com/en-US/c/jlaudio/"
+      ]
+    },
+    "colors.link-active": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.garmin.com/en-US/c/jlaudio/"
+      ]
+    },
+    "colors.focus-ring": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.garmin.com/en-US/c/jlaudio/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.compare-tray": {
+      "status": "inferred"
+    }
+  }
+}

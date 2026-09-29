@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Petzl
-description: A brand built for the vertical world, Petzl’s digital presence is a study in controlled tension — the same precision found in its carabiners and headlamps translated into a restrained, high-contrast interface. The canvas is a stark `#ffffff`, against which a single primary blue (`#003da5`) operates as the system’s sole voltage, used for every primary CTA, active navigation state, and key product badge. This is not a friendly blue; it’s an industrial, safety-certified blue — the color of a locking gate or a technical webbing loop. Body text runs in a dark `#1a1a1a` on white, with no secondary accent color to soften the experience; the brand trusts its product photography and the raw geometry of climbing equipment to provide all the warmth. Corners are sharp (`{rounded.none}`) on navigation and cards, with only the smallest `{rounded.xs}` (4px) on buttons and input fields — a deliberate refusal of the pill-shaped friendliness common in consumer tech. Typography is set in a neutral, highly legible sans-serif (likely a system stack or a workhorse like Helvetica Neue), with display sizes staying modest (20–28px) and body copy at 14–16px. The grid is generous: `{spacing.section}` (64px) between major content blocks, `{spacing.xxl}` (48px) between product rows, and `{spacing.base}` (16px) within cards. The overall effect is one of quiet competence — a brand that doesn’t need to shout because its products have already proven themselves on a cliff face.
+name: "Petzl"
+source_url: "https://www.petzl.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A brand built for the vertical world, Petzl’s digital presence is a study in controlled tension — the same precision found in its carabiners and headlamps translated into a restrained, high-contrast interface. The canvas is a stark `#ffffff`, against which a single primary blue (`#003da5`) operates as the system’s sole voltage, used for every primary CTA, active navigation state, and key product badge. This is not a friendly blue; it’s an industrial, safety-certified blue — the color of a locking gate or a technical webbing loop. Body text runs in a dark `#1a1a1a` on white, with no secondary accent color to soften the experience; the brand trusts its product photography and the raw geometry of climbing equipment to provide all the warmth. Corners are sharp (`{rounded.none}`) on navigation and cards, with only the smallest `{rounded.xs}` (4px) on buttons and input fields — a deliberate refusal of the pill-shaped friendliness common in consumer tech. Typography is set in a neutral, highly legible sans-serif (likely a system stack or a workhorse like Helvetica Neue), with display sizes staying modest (20–28px) and body copy at 14–16px. The grid is generous: `{spacing.section}` (64px) between major content blocks, `{spacing.xxl}` (48px) between product rows, and `{spacing.base}` (16px) within cards. The overall effect is one of quiet competence — a brand that doesn’t need to shout because its products have already proven themselves on a cliff face.
 
 colors:
   primary: "#003da5"
@@ -567,6 +571,8 @@ components:
 - Breadcrumbs collapse to show only the current page and a "Back" link on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No extracted font-family declarations were found from the live site; the typography stack uses a generic sans-serif fallback. The actual brand font (likely a custom or licensed typeface) could not be confirmed.
 - No extracted hex colors were returned from the live site analysis. The color palette above is based on general brand knowledge of Petzl's visual identity (their signature blue `#003da5` and neutral tones) rather than live extraction. This should be verified against the actual site.

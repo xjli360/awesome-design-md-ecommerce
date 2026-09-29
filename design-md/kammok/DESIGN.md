@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Kammok
-description: A single red thread — `#e43d30` — runs through every primary action on Kammok’s site, a signal of performance and urgency against a near-black `#121212` ink and a silver-gray `#dedede` that softens the edges of a gear brand built for the backcountry. The palette is deliberately sparse: no sage, no sky blue, no earth tones. Instead, Kammok treats its product photography — hammocks suspended between granite boulders, ultralight quilts glowing under a headlamp — as the only color it needs, letting `{colors.canvas}` white and `{colors.ink}` do the structural work. Buttons land in `{rounded.sm}` with a crisp 8px corner, not the pill shapes of lifestyle brands; the brand trusts that a clean rectangle and that red are enough to say “buy this, it works.” Typography runs a single sans-serif stack at modest weights — display headlines at 500, body at 400 — never competing with the texture of Dyneema or the grain of a tree trunk in the hero image. The nav bar is a thin white strip with a logo left, cart right, and a single “Shop” dropdown that collapses to a hamburger on mobile. Kammok’s design language is the opposite of “camping aesthetic” — it’s a gear brand that happens to sell hammocks, and the site reads like a tool catalog for people who sleep outside on purpose.
+name: "Kammok"
+source_url: "https://kammok.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A single red thread — `#e43d30` — runs through every primary action on Kammok’s site, a signal of performance and urgency against a near-black `#121212` ink and a silver-gray `#dedede` that softens the edges of a gear brand built for the backcountry. The palette is deliberately sparse: no sage, no sky blue, no earth tones. Instead, Kammok treats its product photography — hammocks suspended between granite boulders, ultralight quilts glowing under a headlamp — as the only color it needs, letting `{colors.canvas}` white and `{colors.ink}` do the structural work. Buttons land in `{rounded.sm}` with a crisp 8px corner, not the pill shapes of lifestyle brands; the brand trusts that a clean rectangle and that red are enough to say “buy this, it works.” Typography runs a single sans-serif stack at modest weights — display headlines at 500, body at 400 — never competing with the texture of Dyneema or the grain of a tree trunk in the hero image. The nav bar is a thin white strip with a logo left, cart right, and a single “Shop” dropdown that collapses to a hamburger on mobile. Kammok’s design language is the opposite of “camping aesthetic” — it’s a gear brand that happens to sell hammocks, and the site reads like a tool catalog for people who sleep outside on purpose.
 
 colors:
   primary: "#e43d30"
@@ -264,6 +268,8 @@ components:
 - Secondary navigation (breadcrumbs, filter bars) hides on mobile, replaced by a “Filter” button that opens a drawer
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No font-family declarations were extractable from the live site; the typography stack shown is a best-guess based on common Shopify sans-serif defaults (Helvetica Neue / Arial). The actual brand font may differ.
 - Only three hex colors were extracted from the live site: `#e43d30`, `#dedede`, and `#121212`. All other color tokens (muted-soft, surface-soft, primary-disabled, etc.) are inferred from these three values and standard design-system patterns. They may not match the live site exactly.

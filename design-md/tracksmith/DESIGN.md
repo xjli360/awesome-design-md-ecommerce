@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Tracksmith
-description: A navy-and-brass world where running is treated as a craft, not a sport — #0a1e32 (the deep midnight of a pre-dawn long run) anchors every page, while #9a825c (a burnished brass that could have been pulled from a vintage stopwatch face) provides the single accent voltage. The brand runs on SainteColombe and akzidenz-grotesk-extended, a pairing that feels more like a literary quarterly than an athletic apparel site — serif body text for storytelling, extended grotesk for uppercase section headers that recall old track club letterhead. Product photography is moody and editorial, often shot at golden hour or in rain, with runners who look like they belong to a real club rather than a stock-image agency. The checkout flow uses {rounded.full} buttons in brass on navy, while product cards sit on {colors.canvas} with {colors.hairline} borders and {rounded.sm} corners — the only hard edges are in the typographic grid. Badges appear in {colors.primary} with white text for "New" and "Limited Edition," while sale indicators use a restrained {colors.muted} treatment. The footer is a dense information architecture in {colors.body} on {colors.canvas}, with social links in {colors.muted} that turn {colors.primary} on hover. Every interaction feels deliberate, like a runner checking their split — nothing is rushed, nothing is accidental.
+name: "Tracksmith"
+source_url: "https://www.tracksmith.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A navy-and-brass world where running is treated as a craft, not a sport — #0a1e32 (the deep midnight of a pre-dawn long run) anchors every page, while #9a825c (a burnished brass that could have been pulled from a vintage stopwatch face) provides the single accent voltage. The brand runs on SainteColombe and akzidenz-grotesk-extended, a pairing that feels more like a literary quarterly than an athletic apparel site — serif body text for storytelling, extended grotesk for uppercase section headers that recall old track club letterhead. Product photography is moody and editorial, often shot at golden hour or in rain, with runners who look like they belong to a real club rather than a stock-image agency. The checkout flow uses {rounded.full} buttons in brass on navy, while product cards sit on {colors.canvas} with {colors.hairline} borders and {rounded.sm} corners — the only hard edges are in the typographic grid. Badges appear in {colors.primary} with white text for "New" and "Limited Edition," while sale indicators use a restrained {colors.muted} treatment. The footer is a dense information architecture in {colors.body} on {colors.canvas}, with social links in {colors.muted} that turn {colors.primary} on hover. Every interaction feels deliberate, like a runner checking their split — nothing is rushed, nothing is accidental.
 
 colors:
   primary: "#0a1e32"
@@ -354,6 +358,8 @@ components:
 - Newsletter input and submit button stack vertically on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for product cards (only image opacity shift was extractable; exact transition timing and easing unknown)
 - Error message styling for forms (color, typography, icon usage not reliably extracted)

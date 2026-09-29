@@ -1,0 +1,796 @@
+{
+  "source_url": "https://ammonyc.com",
+  "final_url": "https://ammonyc.com/",
+  "captured_at": "2026-09-29T03:59:03.446125+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://ammonyc.com",
+      "final_url": "https://ammonyc.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "99dbb329aef53bbb6a6b0022244cd2633931a8a2ec589177b01ecc275f5e8ece",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://ammonyc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://ammonyc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://ammonyc.com/cdn/shop/t/20/compiled_assets/styles.css?v=4517123062529768931776819799",
+      "final_url": "https://ammonyc.com/cdn/shop/t/20/compiled_assets/styles.css?v=4517123062529768931776819799",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c1a5b696ead58a4fcef14ba8c02296fb620e366819df554092ef1b1f286f2130",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277",
+      "final_url": "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9dacb8212ff374f4d2ee4f7247baa6ede6e75aaf5477c6f8bfe2fd6afaf5f624",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "be10bc4b16346e787891f1da5de658505019fcd30172651891a4bf550c948e36",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#eeeeee": {
+      "count": 32,
+      "sources": [
+        "https://ammonyc.com/",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 18,
+      "sources": [
+        "https://ammonyc.com/",
+        "https://ammonyc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#00000000": {
+      "count": 16,
+      "sources": [
+        "https://ammonyc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277"
+      ]
+    },
+    "#dddddd": {
+      "count": 9,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 7,
+      "sources": [
+        "https://ammonyc.com/",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#333333": {
+      "count": 7,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#555555": {
+      "count": 6,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#efefef": {
+      "count": 5,
+      "sources": [
+        "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277"
+      ]
+    },
+    "#666666": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#000000": {
+      "count": 4,
+      "sources": [
+        "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#ff0000": {
+      "count": 3,
+      "sources": [
+        "https://ammonyc.com/"
+      ]
+    },
+    "#9ca3af": {
+      "count": 3,
+      "sources": [
+        "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277"
+      ]
+    },
+    "#108474": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#ee2e24": {
+      "count": 2,
+      "sources": [
+        "https://ammonyc.com/"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://ammonyc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#fbcd0a": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#a89cc8": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#c1e6e6": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://ammonyc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://ammonyc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://ammonyc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#007aff": {
+      "count": 1,
+      "sources": [
+        "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277"
+      ]
+    },
+    "#1918181a": {
+      "count": 1,
+      "sources": [
+        "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277"
+      ]
+    },
+    "#e11e23": {
+      "count": 1,
+      "sources": [
+        "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 1,
+      "sources": [
+        "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277"
+      ]
+    },
+    "#0fc12a": {
+      "count": 1,
+      "sources": [
+        "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277"
+      ]
+    },
+    "#888888": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#ffff00": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#3b5998": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#1da1f2": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#dd4b39": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#e60023": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#0073b1": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#fffb00": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#eaeaea": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#e9eaeb": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#a36710": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#d2920f": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#488282": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#4c8eda": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277"
+    ],
+    "Apple Color Emoji": [
+      "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277"
+    ],
+    "Arial": [
+      "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277",
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "Baskerville": [
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "BlinkMacSystemFont": [
+      "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277"
+    ],
+    "Consolas": [
+      "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277"
+    ],
+    "Courier New": [
+      "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277"
+    ],
+    "Helvetica": [
+      "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277",
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "Helvetica Neue": [
+      "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277"
+    ],
+    "JudgemeIcons": [
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons\" !important": [
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons' !important": [
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "JudgemeStar": [
+      "https://ammonyc.com/"
+    ],
+    "JudgemeStar' !important": [
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "Liberation Mono": [
+      "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277"
+    ],
+    "Menlo": [
+      "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277"
+    ],
+    "Monaco": [
+      "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277"
+    ],
+    "Noto Color Emoji": [
+      "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277"
+    ],
+    "Noto Sans": [
+      "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277"
+    ],
+    "Nunito Sans": [
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "Roboto": [
+      "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277"
+    ],
+    "SFMono-Regular": [
+      "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277"
+    ],
+    "Segoe UI": [
+      "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277"
+    ],
+    "Segoe UI Emoji": [
+      "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277"
+    ],
+    "Segoe UI Symbol": [
+      "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277"
+    ],
+    "monospace": [
+      "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277",
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "sans-serif": [
+      "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277",
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "swiper-icons": [
+      "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277"
+    ],
+    "system-ui": [
+      "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277"
+    ],
+    "ui-monospace": [
+      "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277"
+    ],
+    "ui-sans-serif": [
+      "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://ammonyc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://ammonyc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://ammonyc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://ammonyc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://ammonyc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://ammonyc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://ammonyc.com/cdn/shop/t/20/compiled_assets/styles.css?v=4517123062529768931776819799",
+      "selector": ".block-body",
+      "declarations": "color:var(--text-color)"
+    },
+    {
+      "source": "https://ammonyc.com/cdn/shop/t/20/compiled_assets/styles.css?v=4517123062529768931776819799",
+      "selector": ".block-body",
+      "declarations": "color:var(--text-color-desktop)"
+    },
+    {
+      "source": "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277",
+      "selector": ":root",
+      "declarations": "--swiper-theme-color:#007aff"
+    },
+    {
+      "source": "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277",
+      "selector": ":root",
+      "declarations": "--swiper-navigation-size:2.75rem"
+    },
+    {
+      "source": "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277",
+      "selector": ".swiper-button-next,.swiper-button-prev",
+      "declarations": "align-items:center;color:var(--swiper-navigation-color,var(--swiper-theme-color));cursor:pointer;display:flex;height:var(--swiper-navigation-size);justify-content:center;margin-top:calc(0 - var(--swiper-navigation-size)/2);position:absolute;top:var(--swiper-navigation-top-offset,50%);width:calc(var(--swiper-navigation-size)/44*27);z-index:10"
+    },
+    {
+      "source": "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277",
+      "selector": ".swiper-button-next:after,.swiper-button-prev:after",
+      "declarations": "font-family:swiper-icons;font-size:var(--swiper-navigation-size);font-variant:normal;letter-spacing:0;line-height:1;text-transform:none!important"
+    },
+    {
+      "source": "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font-family:inherit;font-size:100%;font-weight:inherit;line-height:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277",
+      "selector": "[type=button],[type=reset],[type=submit],button",
+      "declarations": "-webkit-appearance:button;background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277",
+      "selector": "body",
+      "declarations": "--tw-text-opacity:1;color:rgb(25 24 24/var(--tw-text-opacity));font-family:Helvetica,sans-serif;font-size:1rem;font-weight:400;line-height:1.5"
+    },
+    {
+      "source": "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277",
+      "selector": ".btn",
+      "declarations": "--tw-border-opacity:1;--tw-bg-opacity:1;--tw-text-opacity:1;background-color:rgb(255 255 255/var(--tw-bg-opacity));border-color:rgb(255 255 255/var(--tw-border-opacity));border-width:.0625rem;color:rgb(25 24 24/var(--tw-text-opacity));cursor:pointer;font-size:.875rem;font-weight:700;letter-spacing:-.025rem;line-height:1.14;padding:.75rem 1.5rem;transition-duration:.15s;transition-property:color,background-color,border-color,fill,stroke,opacity,box-shadow,transform,filter,-webkit-text-decoration-color,-webkit-backdrop-filter;transition-property:color,background-color,border-color,text-decoration-color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter;transition-property:color,ba"
+    },
+    {
+      "source": "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277",
+      "selector": ".btn--inverse",
+      "declarations": "--tw-text-opacity:1;background-color:transparent;color:rgb(255 255 255/var(--tw-text-opacity))"
+    },
+    {
+      "source": "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277",
+      "selector": ".btn--secondary",
+      "declarations": "--tw-border-opacity:1;--tw-bg-opacity:1;--tw-text-opacity:1;background-color:rgb(25 24 24/var(--tw-bg-opacity));color:rgb(255 255 255/var(--tw-text-opacity))"
+    },
+    {
+      "source": "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277",
+      "selector": ".btn--secondary,.btn--secondary-inv",
+      "declarations": "border-color:rgb(25 24 24/var(--tw-border-opacity))"
+    },
+    {
+      "source": "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277",
+      "selector": ".btn--secondary-inv",
+      "declarations": "--tw-border-opacity:1;--tw-text-opacity:1;background-color:transparent;color:rgb(25 24 24/var(--tw-text-opacity))"
+    },
+    {
+      "source": "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277",
+      "selector": ".btn--tertiary",
+      "declarations": "--tw-border-opacity:1;--tw-bg-opacity:1;--tw-text-opacity:1;background-color:rgb(225 30 35/var(--tw-bg-opacity));color:rgb(255 255 255/var(--tw-text-opacity))"
+    },
+    {
+      "source": "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277",
+      "selector": ".btn--tertiary,.btn--tertiary-inv",
+      "declarations": "border-color:rgb(225 30 35/var(--tw-border-opacity))"
+    },
+    {
+      "source": "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277",
+      "selector": ".btn--tertiary-inv",
+      "declarations": "--tw-border-opacity:1;--tw-text-opacity:1;background-color:transparent;color:rgb(225 30 35/var(--tw-text-opacity))"
+    },
+    {
+      "source": "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277",
+      "selector": ".btn--full-hitbox:after",
+      "declarations": "--tw-content:\"\";content:var(--tw-content);height:100%;inset:0;position:absolute;width:100%"
+    },
+    {
+      "source": "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277",
+      "selector": ".btn--inverse:focus,.btn--inverse:focus-visible",
+      "declarations": "--tw-bg-opacity:1;--tw-text-opacity:1;background-color:rgb(255 255 255/var(--tw-bg-opacity));color:rgb(25 24 24/var(--tw-text-opacity));opacity:1"
+    },
+    {
+      "source": "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277",
+      "selector": ".btn--secondary-inv:focus,.btn--secondary-inv:focus-visible",
+      "declarations": "--tw-bg-opacity:1;--tw-text-opacity:1;background-color:rgb(25 24 24/var(--tw-bg-opacity));color:rgb(255 255 255/var(--tw-text-opacity));opacity:1"
+    },
+    {
+      "source": "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277",
+      "selector": ".btn--tertiary-inv:focus,.btn--tertiary-inv:focus-visible",
+      "declarations": "--tw-bg-opacity:1;--tw-text-opacity:1;background-color:rgb(225 30 35/var(--tw-bg-opacity));color:rgb(255 255 255/var(--tw-text-opacity));opacity:1"
+    },
+    {
+      "source": "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277",
+      "selector": ".btn--inverse:focus:not(:focus-visible)",
+      "declarations": "--tw-bg-opacity:1;--tw-text-opacity:1;background-color:rgb(255 255 255/var(--tw-bg-opacity));color:rgb(25 24 24/var(--tw-text-opacity));opacity:1"
+    },
+    {
+      "source": "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277",
+      "selector": ".btn--secondary-inv:focus:not(:focus-visible)",
+      "declarations": "--tw-bg-opacity:1;--tw-text-opacity:1;background-color:rgb(25 24 24/var(--tw-bg-opacity));color:rgb(255 255 255/var(--tw-text-opacity));opacity:1"
+    },
+    {
+      "source": "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277",
+      "selector": ".btn--tertiary-inv:focus:not(:focus-visible)",
+      "declarations": "--tw-bg-opacity:1;--tw-text-opacity:1;background-color:rgb(225 30 35/var(--tw-bg-opacity));color:rgb(255 255 255/var(--tw-text-opacity));opacity:1"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "AMMO NYC\n – AMMONYC",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ammonyc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ammonyc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ammonyc.com/",
+        "https://ammonyc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ammonyc.com/",
+        "https://ammonyc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ammonyc.com/",
+        "https://ammonyc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://ammonyc.com/cdn/shop/t/20/assets/theme.css?v=24241917861818341561778023277",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ammonyc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ammonyc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.sale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ammonyc.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ammonyc.com/",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "colors.skeleton": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ammonyc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.wallet-checkout-button": {
+      "status": "inferred"
+    }
+  }
+}

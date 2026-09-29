@@ -1,0 +1,939 @@
+{
+  "source_url": "https://shop.hodinkee.com",
+  "final_url": "https://shop.hodinkee.com/",
+  "captured_at": "2026-09-28T04:45:23.197772+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://shop.hodinkee.com",
+      "final_url": "https://shop.hodinkee.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "2b71c59180d5a6e895a857f86c92c8775f87193ebe23b9120e4bb26e364d308c",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "final_url": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "29f00267871787fae220e72e292b039fa79f6b0c60e8340e3beb495e47231bb6",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/fonts.css?v=128404014701103614041742923394",
+      "final_url": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/fonts.css?v=128404014701103614041742923394",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5f18e61dbda3ecfeba3a2fa5ac389c8d171f44ab472875995d98dfb5d75a0095",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://shop.hodinkee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://shop.hodinkee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/homepage.css?v=109994336268993546351742923395",
+      "final_url": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/homepage.css?v=109994336268993546351742923395",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "fbb3e5a245c4ca19e534dd23fc2c154fc5f115e8587110a3b390589588b4e9d4",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 67,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+        "https://shop.hodinkee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/homepage.css?v=109994336268993546351742923395"
+      ]
+    },
+    "#00000033": {
+      "count": 40,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#000000": {
+      "count": 25,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/homepage.css?v=109994336268993546351742923395"
+      ]
+    },
+    "#222222": {
+      "count": 20,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/homepage.css?v=109994336268993546351742923395"
+      ]
+    },
+    "#cccccc": {
+      "count": 12,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/homepage.css?v=109994336268993546351742923395"
+      ]
+    },
+    "#ffffff66": {
+      "count": 10,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#00000080": {
+      "count": 9,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#444444": {
+      "count": 9,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#eaecec": {
+      "count": 9,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/homepage.css?v=109994336268993546351742923395"
+      ]
+    },
+    "#d8dada": {
+      "count": 9,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#ffffff33": {
+      "count": 8,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#0000000d": {
+      "count": 8,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#efefef": {
+      "count": 7,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#0000001a": {
+      "count": 6,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#cbcbcb": {
+      "count": 6,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#d02e2e": {
+      "count": 6,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#a37d49": {
+      "count": 6,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#ffffff1a": {
+      "count": 5,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#f5f7f7": {
+      "count": 4,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#767a7a": {
+      "count": 4,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#333333": {
+      "count": 3,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#b2b2b2": {
+      "count": 3,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#56ad6a": {
+      "count": 3,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#00000012": {
+      "count": 2,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#00000014": {
+      "count": 2,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#00000017": {
+      "count": 2,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#666666": {
+      "count": 2,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#000000bf": {
+      "count": 2,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 2,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#cdcdcd": {
+      "count": 2,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#292a2a": {
+      "count": 2,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#b6b6b6": {
+      "count": 2,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 2,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#fff6f6": {
+      "count": 2,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#1a1b1b": {
+      "count": 2,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000099": {
+      "count": 1,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#00000066": {
+      "count": 1,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#464848": {
+      "count": 1,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#9b9b9b": {
+      "count": 1,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#d8d8d833": {
+      "count": 1,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#a6a6a6": {
+      "count": 1,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#bd4545": {
+      "count": 1,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#a33838": {
+      "count": 1,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#f7d7d6": {
+      "count": 1,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#c94a48": {
+      "count": 1,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#70100f": {
+      "count": 1,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#0000004d": {
+      "count": 1,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#eaeaeaf2": {
+      "count": 1,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#d8d8d8ab": {
+      "count": 1,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#6f6f6f": {
+      "count": 1,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#faf7f5": {
+      "count": 1,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#51ab62": {
+      "count": 1,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 1,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#a2a2a2": {
+      "count": 1,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#888888": {
+      "count": 1,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 1,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#7f7f7f": {
+      "count": 1,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 1,
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+    ],
+    "Brown": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/fonts.css?v=128404014701103614041742923394",
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/homepage.css?v=109994336268993546351742923395"
+    ],
+    "Brown Pro": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/fonts.css?v=128404014701103614041742923394"
+    ],
+    "Brown Pro Bold": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/fonts.css?v=128404014701103614041742923394"
+    ],
+    "Brown Pro Regular": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/fonts.css?v=128404014701103614041742923394"
+    ],
+    "BrownPro Web Bold": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/fonts.css?v=128404014701103614041742923394"
+    ],
+    "BrownPro Web Regular": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/fonts.css?v=128404014701103614041742923394"
+    ],
+    "Consolas": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+    ],
+    "Georgia": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+    ],
+    "Helvetica": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+    ],
+    "Helvetica Neue": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+    ],
+    "HelveticaNeue": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+    ],
+    "Hodinkee Social": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/fonts.css?v=128404014701103614041742923394"
+    ],
+    "Hodinkee Social Mono": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/fonts.css?v=128404014701103614041742923394"
+    ],
+    "Ivar Headline": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/fonts.css?v=128404014701103614041742923394"
+    ],
+    "Ivar Text": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/fonts.css?v=128404014701103614041742923394"
+    ],
+    "Portrait": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/fonts.css?v=128404014701103614041742923394",
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/homepage.css?v=109994336268993546351742923395"
+    ],
+    "Portrait Inline": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/fonts.css?v=128404014701103614041742923394"
+    ],
+    "Portrait Light": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/fonts.css?v=128404014701103614041742923394"
+    ],
+    "Portrait Medium": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/fonts.css?v=128404014701103614041742923394"
+    ],
+    "Portrait Regular": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/fonts.css?v=128404014701103614041742923394"
+    ],
+    "Portrait Regular Italic": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/fonts.css?v=128404014701103614041742923394"
+    ],
+    "Portrait Text": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/fonts.css?v=128404014701103614041742923394",
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/homepage.css?v=109994336268993546351742923395"
+    ],
+    "Portrait Text Bold": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/fonts.css?v=128404014701103614041742923394"
+    ],
+    "Portrait Text Medium": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/fonts.css?v=128404014701103614041742923394"
+    ],
+    "Portrait Text Regular": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/fonts.css?v=128404014701103614041742923394"
+    ],
+    "Portrait Text Regular Italic": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/fonts.css?v=128404014701103614041742923394"
+    ],
+    "Portrait Web Italic": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/fonts.css?v=128404014701103614041742923394"
+    ],
+    "Portrait Web Medium": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/fonts.css?v=128404014701103614041742923394"
+    ],
+    "Proxima Nova": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/fonts.css?v=128404014701103614041742923394",
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/homepage.css?v=109994336268993546351742923395"
+    ],
+    "Proxima Nova Light": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/fonts.css?v=128404014701103614041742923394"
+    ],
+    "Proxima Nova Semibold": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/fonts.css?v=128404014701103614041742923394"
+    ],
+    "icons": [
+      "https://shop.hodinkee.com/",
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+    ],
+    "icons!important": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+    ],
+    "monospace": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+    ],
+    "sans-serif": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/homepage.css?v=109994336268993546351742923395"
+    ],
+    "sans-serif!important": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+    ],
+    "serif": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/homepage.css?v=109994336268993546351742923395"
+    ],
+    "system-ui": [
+      "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://shop.hodinkee.com/",
+      "selector": ":root",
+      "declarations": "--why-buy-hero: url(\"//shop.hodinkee.com/cdn/shop/files/hero_2ec51281-97a3-437c-8608-79f3078cfcb2_2048x.jpg?v=1613674349\");\n\n  --insurance-bg: url(\"//shop.hodinkee.com/cdn/shop/t/1398/assets/insurance-bg.jpg?v=182197315643420640941742922479\");\n  --insurance-bg-2x: url(\"//shop.hodinkee.com/cdn/shop/t/1398/assets/insurance-bg-2x.jpg?v=155856906190996573371742922479\");"
+    },
+    {
+      "source": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "selector": ".btn",
+      "declarations": "display:inline-flex;align-items:center;justify-content:center;font-family:Brown,sans-serif;font-weight:700;outline:none;text-transform:uppercase;letter-spacing:1px;border-radius:2px;padding:.75rem 1rem;font-size:.6875rem;line-height:1rem;transition:all .1s ease-in-out;cursor:pointer"
+    },
+    {
+      "source": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "selector": ".btn-functional",
+      "declarations": "font-family:Hodinkee Social,sans-serif;line-height:1.12;font-weight:500;letter-spacing:.0125rem;text-transform:none;border:1px solid transparent;padding:1rem 1.5rem;font-size:.875rem"
+    },
+    {
+      "source": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "selector": ".btn-functional.btn-primary:focus-visible,.btn-functional.btn-primary[data-focus-visible-added]",
+      "declarations": "background-color:rgba(41,42,42,var(--tw-bg-opacity))"
+    },
+    {
+      "source": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "selector": ".btn-functional.disabled.btn-tertiary:hover,.btn-functional:disabled.btn-tertiary:hover",
+      "declarations": "background-color:transparent"
+    },
+    {
+      "source": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "selector": ".btn-primary",
+      "declarations": "background-color:rgba(41,42,42,var(--tw-bg-opacity));color:rgba(255,255,255,var(--tw-bg-opacity))"
+    },
+    {
+      "source": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "selector": ".btn-primary.dark-bg",
+      "declarations": "background-color:rgba(255,255,255,var(--tw-bg-opacity));color:rgba(26,27,27,var(--tw-bg-opacity))"
+    },
+    {
+      "source": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "selector": ".btn-primary.hover,.btn-primary:hover",
+      "declarations": "background-color:rgba(26,27,27,var(--tw-bg-opacity));box-shadow:0 15px 30px -10px #00000080"
+    },
+    {
+      "source": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "selector": ".btn-primary.hover.dark-bg,.btn-primary:hover.dark-bg",
+      "declarations": "background-color:rgba(234,236,236,var(--tw-bg-opacity));box-shadow:none"
+    },
+    {
+      "source": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "selector": ".btn-primary:focus-visible,.btn-primary[data-focus-visible-added]",
+      "declarations": "background-color:rgba(26,27,27,var(--tw-bg-opacity));box-shadow:0 0 0 4px #0003"
+    },
+    {
+      "source": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "selector": ".btn-primary:focus-visible.dark-bg,.btn-primary[data-focus-visible-added].dark-bg",
+      "declarations": "background-color:rgba(234,236,236,var(--tw-bg-opacity));box-shadow:0 0 0 4px #fff6"
+    },
+    {
+      "source": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "selector": ".btn-primary.active,.btn-primary:active",
+      "declarations": "background-color:rgba(0,0,0,var(--tw-bg-opacity));box-shadow:0 10px 15px -5px #00000080"
+    },
+    {
+      "source": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "selector": ".btn-primary.active.dark-bg,.btn-primary:active.dark-bg",
+      "declarations": "background-color:rgba(216,218,218,var(--tw-bg-opacity));box-shadow:none"
+    },
+    {
+      "source": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "selector": ".btn-primary.disabled,.btn-primary:disabled",
+      "declarations": "background-color:#0000001a;color:#0003;box-shadow:none"
+    },
+    {
+      "source": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "selector": ".btn-primary.disabled.dark-bg,.btn-primary:disabled.dark-bg",
+      "declarations": "color:#fff3;background-color:#ffffff1a"
+    },
+    {
+      "source": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "selector": ".btn-secondary",
+      "declarations": "background-color:transparent;border:1px solid rgba(216,218,218,var(--tw-bg-opacity));color:rgba(26,27,27,var(--tw-bg-opacity))"
+    },
+    {
+      "source": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "selector": ".btn-secondary.dark-bg",
+      "declarations": "color:rgba(255,255,255,var(--tw-bg-opacity));border-color:rgba(255,255,255,var(--tw-bg-opacity))"
+    },
+    {
+      "source": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "selector": ".btn-secondary.hover,.btn-secondary:hover",
+      "declarations": "border-color:rgba(118,122,122,var(--tw-bg-opacity))"
+    },
+    {
+      "source": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "selector": ".btn-secondary.hover.dark-bg,.btn-secondary:hover.dark-bg",
+      "declarations": "border-color:rgba(255,255,255,var(--tw-bg-opacity));background-color:#ffffff1a"
+    },
+    {
+      "source": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "selector": ".btn-secondary:focus-visible,.btn-secondary[data-focus-visible-added]",
+      "declarations": "border-color:rgba(118,122,122,var(--tw-bg-opacity));box-shadow:0 0 0 4px #0003"
+    },
+    {
+      "source": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "selector": ".btn-secondary:focus-visible.dark-bg,.btn-secondary[data-focus-visible-added].dark-bg",
+      "declarations": "background-color:#ffffff1a;border-color:rgba(255,255,255,var(--tw-bg-opacity));box-shadow:0 0 0 4px #fff6"
+    },
+    {
+      "source": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "selector": ".btn-secondary.active,.btn-secondary:active",
+      "declarations": "background-color:rgba(245,247,247,var(--tw-bg-opacity));border-color:rgba(26,27,27,var(--tw-bg-opacity))"
+    },
+    {
+      "source": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "selector": ".btn-secondary.active.dark-bg,.btn-secondary:active.dark-bg",
+      "declarations": "background-color:#fff6;border-color:rgba(255,255,255,var(--tw-bg-opacity))"
+    },
+    {
+      "source": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "selector": ".btn-secondary.disabled,.btn-secondary:disabled",
+      "declarations": "border-color:#0003;color:#0003"
+    },
+    {
+      "source": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "selector": ".btn-secondary.disabled.dark-bg,.btn-secondary:disabled.dark-bg",
+      "declarations": "border-color:#fff3;color:#fff3"
+    },
+    {
+      "source": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "selector": ".btn-tertiary",
+      "declarations": "background-color:transparent;color:rgba(26,27,27,var(--tw-bg-opacity))"
+    },
+    {
+      "source": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "selector": ".btn-tertiary.dark-bg",
+      "declarations": "color:rgba(255,255,255,var(--tw-bg-opacity))"
+    },
+    {
+      "source": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "selector": ".btn-tertiary.hover,.btn-tertiary:hover",
+      "declarations": "background-color:rgba(245,247,247,var(--tw-bg-opacity))"
+    },
+    {
+      "source": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "selector": ".btn-tertiary.hover.dark-bg,.btn-tertiary:hover.dark-bg",
+      "declarations": "background-color:#fff3"
+    },
+    {
+      "source": "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+      "selector": ".btn-tertiary:focus-visible,.btn-tertiary[data-focus-visible-added]",
+      "declarations": "background-color:rgba(245,247,247,var(--tw-bg-opacity));box-shadow:0 0 0 4px #0003"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Hodinkee Shop: New and Vintage Watches, Straps, and Accessories\n  \n   – HODINKEE Shop",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+        "https://shop.hodinkee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/homepage.css?v=109994336268993546351742923395"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/homepage.css?v=109994336268993546351742923395"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/homepage.css?v=109994336268993546351742923395"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+        "https://shop.hodinkee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/homepage.css?v=109994336268993546351742923395"
+      ]
+    },
+    "colors.border-subtle": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395",
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/homepage.css?v=109994336268993546351742923395"
+      ]
+    },
+    "colors.overlay-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "colors.accent-brass": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "colors.accent-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "colors.danger-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.hodinkee.com/cdn/shop/t/1398/assets/styles.css?v=21371136918830995961742923395"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.authenticity-panel": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Natalist
-description: A clinical warmth defines Natalist, where a sharp cerulean accent (#00b2ff) cuts through a palette of slate grays (#4a5464, #728197, #dcdfe5) and near-black (#121212, #23282f). The brand lives in the tension between medical credibility and emotional comfort — the primary blue reads as diagnostic precision, while the soft gray scale and generous whitespace soften the experience into something approachable. Typography layers a monospaced voice (DM Mono) for data-heavy moments — cycle tracking, symptom logs, test results — against the clean humanist readability of DM Sans for body copy, with PP Agrandir reserved for display moments that feel editorial rather than clinical. Phosphor icons, thin and geometric, replace the usual chunky illustrations, reinforcing the brand's preference for information clarity over decorative fluff. Button radii stay tight at {rounded.sm} (8px), never pill-shaped, preserving a subtle seriousness — this is not a wellness app with confetti, it's a fertility and pregnancy support system. The near-black ink (#121212) on white canvas creates high contrast for medical legibility, while the muted slate (#728197) handles secondary text and captions without competing for attention. Cards and surfaces use the lightest gray (#dcdfe5) for hairline borders, keeping the layout airy but structured. The brand's design language suggests a lab coat worn by someone who remembers your name — precise, trustworthy, and quietly human.
+name: "Natalist"
+source_url: "https://natalist.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A clinical warmth defines Natalist, where a sharp cerulean accent (#00b2ff) cuts through a palette of slate grays (#4a5464, #728197, #dcdfe5) and near-black (#121212, #23282f). The brand lives in the tension between medical credibility and emotional comfort — the primary blue reads as diagnostic precision, while the soft gray scale and generous whitespace soften the experience into something approachable. Typography layers a monospaced voice (DM Mono) for data-heavy moments — cycle tracking, symptom logs, test results — against the clean humanist readability of DM Sans for body copy, with PP Agrandir reserved for display moments that feel editorial rather than clinical. Phosphor icons, thin and geometric, replace the usual chunky illustrations, reinforcing the brand's preference for information clarity over decorative fluff. Button radii stay tight at {rounded.sm} (8px), never pill-shaped, preserving a subtle seriousness — this is not a wellness app with confetti, it's a fertility and pregnancy support system. The near-black ink (#121212) on white canvas creates high contrast for medical legibility, while the muted slate (#728197) handles secondary text and captions without competing for attention. Cards and surfaces use the lightest gray (#dcdfe5) for hairline borders, keeping the layout airy but structured. The brand's design language suggests a lab coat worn by someone who remembers your name — precise, trustworthy, and quietly human.
 
 colors:
   primary: "#00b2ff"
@@ -340,6 +344,8 @@ components:
 - Sidebars on product detail pages collapse to below-the-fold sections on tablet and mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted color palette is heavily weighted toward blues and grays, which may reflect the site's current state but could be missing a secondary accent color (e.g., a sage green or warm pink common in fertility/wellness brands). The extracted list did not return any distinctive non-blue accent — the cerulean (#00b2ff) was selected as primary based on its prominence and distinctiveness within the extracted set.
 - Hover and focus states for all components are inferred from common patterns and may not match the live site exactly.

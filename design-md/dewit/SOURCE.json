@@ -1,0 +1,587 @@
+{
+  "source_url": "https://www.dewit.eu/",
+  "final_url": "https://www.dewit.eu/",
+  "captured_at": "2026-09-29T03:59:00.184743+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://www.dewit.eu/",
+      "final_url": "https://www.dewit.eu/",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "b9145e236820d21c92d2627f0a1eb4f0692657e028868d2f5415aad3ce860037",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://use.typekit.net/zbx2hjl.css",
+      "final_url": "https://use.typekit.net/zbx2hjl.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d43044a990260e945c9c517da14b11c1fc298b32a0d30e855510cd0a912c8d00",
+      "snapshot": "rendered-style-1.css"
+    },
+    {
+      "url": "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+      "final_url": "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5ce7fb2778d59695d2c54120d46bd8d6f63712613bd38bed74caa35d378888b8",
+      "snapshot": "rendered-style-2.css"
+    },
+    {
+      "url": "https://p.typekit.net/p.css?s=1&k=zbx2hjl&ht=tk&f=37462.37463.37466.37467.37478.37479.37484.37485&a=4291943&app=typekit&e=css",
+      "final_url": "https://p.typekit.net/p.css?s=1&k=zbx2hjl&ht=tk&f=37462.37463.37466.37467.37478.37479.37484.37485&a=4291943&app=typekit&e=css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1c0ff118a4290c99f39c90abb38703a866e47251b23cca20266c69c812ccafeb",
+      "snapshot": "rendered-style-3.css"
+    },
+    {
+      "url": "https://www.dewit.eu/#computed-style-snapshot",
+      "final_url": "https://www.dewit.eu/#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "e9a92933032c624761a270f744c06a10edfe9e6eaa7d97d318073f5a27c42135",
+      "snapshot": "rendered-style-4.css"
+    },
+    {
+      "url": "https://p.typekit.net/p.css?s=1&k=zbx2hjl&ht=tk&f=37462.37463.37466.37467.37478.37479.37484.37485&a=4291943&app=typekit&e=css",
+      "final_url": "https://p.typekit.net/p.css?s=1&k=zbx2hjl&ht=tk&f=37462.37463.37466.37467.37478.37479.37484.37485&a=4291943&app=typekit&e=css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1c0ff118a4290c99f39c90abb38703a866e47251b23cca20266c69c812ccafeb",
+      "snapshot": "import-1.css"
+    }
+  ],
+  "colors": {
+    "#161f24": {
+      "count": 93,
+      "sources": [
+        "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+        "https://www.dewit.eu/#computed-style-snapshot"
+      ]
+    },
+    "#ffffff": {
+      "count": 64,
+      "sources": [
+        "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+        "https://www.dewit.eu/#computed-style-snapshot"
+      ]
+    },
+    "#b7a361": {
+      "count": 62,
+      "sources": [
+        "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+        "https://www.dewit.eu/#computed-style-snapshot"
+      ]
+    },
+    "#000000": {
+      "count": 11,
+      "sources": [
+        "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+        "https://www.dewit.eu/#computed-style-snapshot"
+      ]
+    },
+    "#fcbcc6": {
+      "count": 8,
+      "sources": [
+        "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+        "https://www.dewit.eu/#computed-style-snapshot"
+      ]
+    },
+    "#b8b9ba": {
+      "count": 7,
+      "sources": [
+        "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css"
+      ]
+    },
+    "#0d6efd": {
+      "count": 6,
+      "sources": [
+        "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 6,
+      "sources": [
+        "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css"
+      ]
+    },
+    "#db001b": {
+      "count": 5,
+      "sources": [
+        "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css"
+      ]
+    },
+    "#333333": {
+      "count": 4,
+      "sources": [
+        "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css"
+      ]
+    },
+    "#28a745": {
+      "count": 3,
+      "sources": [
+        "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 2,
+      "sources": [
+        "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+        "https://www.dewit.eu/#computed-style-snapshot"
+      ]
+    },
+    "#6c757d": {
+      "count": 1,
+      "sources": [
+        "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css"
+      ]
+    },
+    "#007aff": {
+      "count": 1,
+      "sources": [
+        "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css"
+      ]
+    },
+    "#dee2e6": {
+      "count": 1,
+      "sources": [
+        "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css"
+      ]
+    }
+  },
+  "font_families": {
+    "arial": [
+      "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css"
+    ],
+    "lightcase": [
+      "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css"
+    ],
+    "monospace": [
+      "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css"
+    ],
+    "montserrat": [
+      "https://use.typekit.net/zbx2hjl.css",
+      "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+      "https://www.dewit.eu/#computed-style-snapshot"
+    ],
+    "montserrat-alternates": [
+      "https://use.typekit.net/zbx2hjl.css"
+    ],
+    "sans-serif": [
+      "https://use.typekit.net/zbx2hjl.css",
+      "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+      "https://www.dewit.eu/#computed-style-snapshot"
+    ],
+    "swiper-icons": [
+      "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+      "selector": "body",
+      "declarations": "margin:0;font-family:var(--bs-body-font-family);font-size:var(--bs-body-font-size);font-weight:var(--bs-body-font-weight);line-height:var(--bs-body-line-height);color:var(--bs-body-color);text-align:var(--bs-body-text-align);background-color:var(--bs-body-bg);-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:rgba(0,0,0,0)"
+    },
+    {
+      "source": "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+      "selector": "h6,h5,h4,h3,h2,h1",
+      "declarations": "margin-top:0;margin-bottom:.5rem;font-weight:500;line-height:1.2;color:var(--bs-heading-color)"
+    },
+    {
+      "source": "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+      "selector": "thead,tbody,tfoot,tr,td,th",
+      "declarations": "border-color:inherit;border-style:solid;border-width:0"
+    },
+    {
+      "source": "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+      "selector": "input,button,select,optgroup,textarea",
+      "declarations": "margin:0;font-family:inherit;font-size:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+      "selector": ":root",
+      "declarations": "--bs-breakpoint-xs: 0;--bs-breakpoint-sm: 576px;--bs-breakpoint-md: 768px;--bs-breakpoint-lg: 992px;--bs-breakpoint-xl: 1200px;--bs-breakpoint-xxl: 1400px"
+    },
+    {
+      "source": "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+      "selector": ".form-control::file-selector-button",
+      "declarations": "padding:.375rem .75rem;margin:-0.375rem -0.75rem;margin-inline-end:.75rem;color:var(--bs-body-color);background-color:var(--bs-tertiary-bg);pointer-events:none;border-color:inherit;border-style:solid;border-width:0;border-inline-end-width:var(--bs-border-width);border-radius:0;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out"
+    },
+    {
+      "source": "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+      "selector": ".form-control:hover:not(:disabled):not([readonly])::file-selector-button",
+      "declarations": "background-color:var(--bs-secondary-bg)"
+    },
+    {
+      "source": "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+      "selector": "#lightcase-content h1,#lightcase-content h2,#lightcase-content h3,#lightcase-content h4,#lightcase-content h5,#lightcase-content h6,#lightcase-content p",
+      "declarations": "color:#aaa"
+    },
+    {
+      "source": "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+      "selector": "#lightcase-content h1,#lightcase-content h2,#lightcase-content h3,#lightcase-content h4,#lightcase-content h5,#lightcase-content h6,#lightcase-content p",
+      "declarations": "color:#333"
+    },
+    {
+      "source": "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+      "selector": "#lightcase-case h1,#lightcase-case h2,#lightcase-case h3,#lightcase-case h4,#lightcase-case h5,#lightcase-case h6",
+      "declarations": "color:#000"
+    },
+    {
+      "source": "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+      "selector": ":root",
+      "declarations": "--swiper-theme-color: #007aff"
+    },
+    {
+      "source": "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+      "selector": ":root",
+      "declarations": "font-family:montserrat,sans-serif;font-size:18px;line-height:2rem;font-weight:500;color:#161f24"
+    },
+    {
+      "source": "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+      "selector": ".iframe__popup-inner .btn--close",
+      "declarations": "background-image:url('data:image/svg+xml;charset=utf8,%3Csvg xmlns=\"http://www.w3.org/2000/svg\" width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\"%3E%3Cstyle%3E.st0 %7Bfill: %23b7a361;%7D%3C/style%3E%3Cpath class=\"st0\" d=\"M18,4.6L15.6,2L10,7.5l0,0l0,0L4.4,2L2,4.6L7.5,10L2,15.4L4.4,18l5.6-5.5l0,0l0,0l5.6,5.5l2.4-2.6L12.5,10L18,4.6z\"/%3E%3C/svg%3E');background-repeat:no-repeat;background-position:center center;position:absolute;top:5px;right:5px;display:block;width:40px;height:40px;font-size:0;padding:0;border:0;background-color:rgba(0,0,0,0)"
+    },
+    {
+      "source": "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+      "selector": ".iframe__popup-inner .btn--close:hover,.iframe__popup-inner .btn--close:focus",
+      "declarations": "background-color:rgba(0,0,0,0)"
+    },
+    {
+      "source": "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+      "selector": "h1,.is-h1",
+      "declarations": "color:#161f24;font-size:2.6666666667rem;line-height:3.2222222222rem;font-weight:700;font-family:montserrat,sans-serif"
+    },
+    {
+      "source": "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+      "selector": ".list--sites li a:not(.btn)",
+      "declarations": "position:relative;display:flex;align-items:center;color:#161f24;text-decoration:none;padding:7px 15px 7px 45px;overflow:hidden;white-space:nowrap;text-overflow:ellipsis;background-color:rgba(0,0,0,0);border-bottom:2px solid #161f24;font-weight:700"
+    },
+    {
+      "source": "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+      "selector": ".list--sites li a:not(.btn):hover,.list--sites li a:not(.btn):focus",
+      "declarations": "text-decoration:none;color:#b7a361;border-color:#b7a361"
+    },
+    {
+      "source": "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+      "selector": ".header__search",
+      "declarations": "position:relative;display:block;width:100%;padding:15px 20px;margin:0;padding-left:0;padding-right:0;background-color:rgba(0,0,0,0);transition:all .3s ease-in-out;z-index:2"
+    },
+    {
+      "source": "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+      "selector": ".header__search .form-search",
+      "declarations": "margin:0;position:relative;z-index:0;background-color:#fff;box-shadow:0 0 14px rgba(0,0,0,.13);border-radius:30px;margin-left:auto"
+    },
+    {
+      "source": "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+      "selector": ".header__search .form-search .form-control",
+      "declarations": "width:100%;padding:12px 55px 12px 15px;padding-left:20px;line-height:normal;font-size:18px;border:0;border-radius:0;background:rgba(0,0,0,0);height:60px;font-size:17px;font-weight:500;font-style:unset;font-family:unset !important"
+    },
+    {
+      "source": "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+      "selector": ".header__search .form-search .btn",
+      "declarations": "background-image:url('data:image/svg+xml;charset=utf8,%3Csvg xmlns=\"http://www.w3.org/2000/svg\" width=\"20px\" height=\"20px\" viewBox=\"0 0 20 20\"%3E%3Cpath fill=\"%23161f24\" d=\"M19.7,18.3l-5.5-5.5l0.2-0.3c1-1.3,1.5-2.9,1.5-4.6c0-4.4-3.6-7.9-7.9-7.9C3.6,0,0,3.5,0,7.9s3.6,7.9,7.9,7.9c0,0,0,0,0,0c1.6,0,3.2-0.5,4.6-1.5l0.3-0.2l5.5,5.5c0.2,0.2,0.4,0.3,0.7,0.3h0c0.6,0,1-0.5,1-1C20,18.7,19.9,18.5,19.7,18.3L19.7,18.3z M7.9,1.9V2c3.3,0,5.9,2.6,5.9,5.9c0,3.3-2.6,5.9-5.9,5.9C4.7,13.8,2,11.2,2,7.9C2,4.7,4.7,2,7.9,2V1.9z\"/%3E%3C/svg%3E');background-repeat:no-repeat;background-position:center center;position:absolute;right:0;bottom:0;display:block;width:40px;height:100%;padding:0;font-size:0;border-color:#161"
+    },
+    {
+      "source": "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+      "selector": ".header__search .form-search .search-suggestions li a:not(.search-form-more)",
+      "declarations": "display:block;padding:.25rem 1rem;transition:all .25s;color:#161f24;border-top:1px solid #b7a361"
+    },
+    {
+      "source": "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+      "selector": ".header__search .form-search .search-suggestions li:hover a:not(.search-form-more)",
+      "declarations": "background-color:rgba(184,185,186,.2);color:#161f24"
+    },
+    {
+      "source": "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+      "selector": ".header__search .search-form-more",
+      "declarations": "text-align:center;border-top:1px solid #b7a361;color:#b7a361;font-weight:700;display:flex;flex-wrap:wrap;align-items:center;justify-content:center;padding:.5rem 1rem"
+    },
+    {
+      "source": "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+      "selector": ".header__search .search-form-more:hover,.header__search .search-form-more:focus",
+      "declarations": "text-decoration:none;background-color:#b7a361;color:#fff"
+    },
+    {
+      "source": "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+      "selector": ".header .cta--3dgarden",
+      "declarations": "background-image:url('data:image/svg+xml;charset=utf8,%3Csvg xmlns=\"http://www.w3.org/2000/svg\" width=\"20px\" height=\"20px\" viewBox=\"0 0 37.331 33.286\"%3E%3Cpath id=\"np_3d_4339901_000000\" d=\"M39.984,37.839a2.875,2.875,0,0,0-1.708.569L33.891,35.98V25.921a.964.964,0,0,0-.036-.256c-.008-.028-.021-.052-.031-.079a1.105,1.105,0,0,0-.225-.353l-.166-.135c-.013-.008-.028-.011-.043-.02s-.021-.018-.034-.023l-8.168-4.075,0-4.989a2.9,2.9,0,1,0-1.934,0v4.987l-8.168,4.075a.262.262,0,0,0-.034.025.333.333,0,0,1-.043.018v0l-.166.135a.845.845,0,0,0-.225.353.655.655,0,0,0-.031.079.964.964,0,0,0-.036.256V35.98l-4.384,2.428h0a2.892,2.892,0,1,0,1.193,2.333,2.929,2.929,0,0,0-.1-.725l4.277-2.369,8.256,4.119a.962.962,"
+    },
+    {
+      "source": "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+      "selector": ".header .cta--3dgarden:hover,.header .cta--3dgarden:focus",
+      "declarations": "background-image:url('data:image/svg+xml;charset=utf8,%3Csvg xmlns=\"http://www.w3.org/2000/svg\" width=\"20px\" height=\"20px\" viewBox=\"0 0 37.331 33.286\"%3E%3Cpath id=\"np_3d_4339901_000000\" d=\"M39.984,37.839a2.875,2.875,0,0,0-1.708.569L33.891,35.98V25.921a.964.964,0,0,0-.036-.256c-.008-.028-.021-.052-.031-.079a1.105,1.105,0,0,0-.225-.353l-.166-.135c-.013-.008-.028-.011-.043-.02s-.021-.018-.034-.023l-8.168-4.075,0-4.989a2.9,2.9,0,1,0-1.934,0v4.987l-8.168,4.075a.262.262,0,0,0-.034.025.333.333,0,0,1-.043.018v0l-.166.135a.845.845,0,0,0-.225.353.655.655,0,0,0-.031.079.964.964,0,0,0-.036.256V35.98l-4.384,2.428h0a2.892,2.892,0,1,0,1.193,2.333,2.929,2.929,0,0,0-.1-.725l4.277-2.369,8.256,4.119a.962.962,"
+    },
+    {
+      "source": "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+      "selector": ".btn",
+      "declarations": "position:relative;display:inline-block;font-family:montserrat,sans-serif;color:#fff;font-size:1rem;line-height:1.5555555556rem;padding:10px 20px;font-weight:700;text-decoration:none;text-align:center;border:0;background-color:#b7a361;border-radius:6px"
+    },
+    {
+      "source": "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+      "selector": ".btn:hover,.btn:focus",
+      "declarations": "color:#fff;text-decoration:none;border-color:rgb(157.3130434783,137.4,71.6869565217);background-color:rgb(157.3130434783,137.4,71.6869565217)"
+    },
+    {
+      "source": "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+      "selector": ".btn--filter-toggle",
+      "declarations": "display:none;background-color:rgba(0,0,0,0);color:#161f24;border:0;position:relative"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "Dewit tuingereedschap - Kies het Beste. Kies DeWit. | DeWit",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "3bd585c392e1505d046f20295681566c88952412107c69e6b597a8adb7c03a10"
+    }
+  ],
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+        "https://www.dewit.eu/#computed-style-snapshot"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+        "https://www.dewit.eu/#computed-style-snapshot"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+        "https://www.dewit.eu/#computed-style-snapshot"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+        "https://www.dewit.eu/#computed-style-snapshot"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+        "https://www.dewit.eu/#computed-style-snapshot"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+        "https://www.dewit.eu/#computed-style-snapshot"
+      ]
+    },
+    "colors.accent-info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css"
+      ]
+    },
+    "colors.accent-interactive": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css"
+      ]
+    },
+    "colors.gray-mid": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css"
+      ]
+    },
+    "colors.gray-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css"
+      ]
+    },
+    "colors.blush": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+        "https://www.dewit.eu/#computed-style-snapshot"
+      ]
+    },
+    "colors.black": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dewit.eu/assets/css/general/style-06fc04f4d6f269cdde14.min.dist.css",
+        "https://www.dewit.eu/#computed-style-snapshot"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.tool-spec-panel": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Haba
-description: A teal anchor of #156165 — the meta theme-color and the brand’s primary — sits against a clean white canvas (#ffffff) and a secondary gray scale of #bcbcbc, #444444, #dedede, #323232, and #121212. This is a wooden toy brand that trusts its product photography and physical material over digital decoration. Playfair Display, a serif with sharp contrast and vertical stress, runs in display sizes (28–32px, weight 600) for category headers and product names, while Work Sans (400/500, 14–16px) handles body copy, navigation, and buttons. The system uses generous whitespace and soft rounding — cards at {rounded.md} (12px), buttons at {rounded.sm} (8px), and a full-pill search bar at {rounded.full} — to keep the interface approachable for children and parents alike. The primary color appears in the top nav bar, primary buttons, and hover states on product cards, while the muted gray (#bcbcbc) handles borders, dividers, and disabled states. There is no hard edge anywhere except the body grid; every interactive element has a gentle corner radius. The brand’s voice is warm, educational, and tactile — but the interface itself stays minimal, letting the wood grain and bright toy colors (reds, yellows, greens in product photos) carry the emotional weight. The footer uses a dark canvas (#323232) with white text, creating a clear visual boundary between content and legal/utility links.
+name: "Haba"
+source_url: "https://www.habausa.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A teal anchor of #156165 — the meta theme-color and the brand’s primary — sits against a clean white canvas (#ffffff) and a secondary gray scale of #bcbcbc, #444444, #dedede, #323232, and #121212. This is a wooden toy brand that trusts its product photography and physical material over digital decoration. Playfair Display, a serif with sharp contrast and vertical stress, runs in display sizes (28–32px, weight 600) for category headers and product names, while Work Sans (400/500, 14–16px) handles body copy, navigation, and buttons. The system uses generous whitespace and soft rounding — cards at {rounded.md} (12px), buttons at {rounded.sm} (8px), and a full-pill search bar at {rounded.full} — to keep the interface approachable for children and parents alike. The primary color appears in the top nav bar, primary buttons, and hover states on product cards, while the muted gray (#bcbcbc) handles borders, dividers, and disabled states. There is no hard edge anywhere except the body grid; every interactive element has a gentle corner radius. The brand’s voice is warm, educational, and tactile — but the interface itself stays minimal, letting the wood grain and bright toy colors (reds, yellows, greens in product photos) carry the emotional weight. The footer uses a dark canvas (#323232) with white text, creating a clear visual boundary between content and legal/utility links.
 
 colors:
   primary: "#156165"
@@ -410,6 +414,8 @@ components:
 - **Search**: On mobile, the search bar in the nav becomes an icon that expands to a full-width overlay when tapped.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted hex colors (#bcbcbc, #444444, #dedede, #156165, #323232, #121212) are a limited palette that appears to be primarily grays with a single teal accent. The brand's true primary is #156165 (teal), which is also the meta theme-color. However, the extracted list may be missing secondary brand colors (e.g., warm wood tones, accent colors for children's toys) that exist in imagery but not in the CSS/HTML. The accent colors (#c0392b, #f39c12, #27ae60, #f1c40f) are inferred from common toy-brand patterns and should be verified against the live site.
 - Font sizes and weights are inferred from common patterns for Playfair Display and Work Sans pairings. Exact values (especially for display-xl, display-lg, etc.) should be verified against the live site's CSS.

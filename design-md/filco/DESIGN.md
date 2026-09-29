@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Filco
-description: A Japanese keyboard manufacturer that has been producing mechanical keyboards since 1992, Filco's design language is one of deliberate restraint — a near-total absence of branding on the product itself, with the logo appearing only on the packaging and the included keycap puller. The site lives on a #f5f5f5 canvas, a warm off-white that reads as paper stock rather than screen white, and the product photography is shot on the same tone so the keyboards appear to float in their own atmosphere. Every keyboard is shown from a straight-on top-down angle, the keycaps rendered in crisp focus against that soft ground, with no lifestyle shots, no hands typing, no desk setups — just the object itself, presented with the seriousness of a tool. The navigation is a single horizontal strip of Japanese text (the site's primary language) with no dropdowns, no mega-menus, no search bar visible on load, and the product pages are built as long scrolls of technical specifications rather than marketing copy. The color palette is monochromatic — the keyboards themselves come in black, white, and occasionally navy or red — and the only accent color on the site is the deep navy of the footer background, which creates a hard visual stop at the bottom of every page. There are no animations, no hover effects beyond a simple underline on text links, and no JavaScript-driven interactivity on the product pages; the site functions as a catalog, not a storefront. The typography is system sans-serif at modest sizes, with product names set at 18px and body text at 12px, creating a dense information hierarchy that prioritizes specification density over readability. The overall effect is that of a PDF catalog rendered as a website — utilitarian, information-rich, and utterly indifferent to the conventions of modern DTC design.
+name: "Filco"
+source_url: "https://www.diatec.co.jp"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A Japanese keyboard manufacturer that has been producing mechanical keyboards since 1992, Filco's design language is one of deliberate restraint — a near-total absence of branding on the product itself, with the logo appearing only on the packaging and the included keycap puller. The site lives on a #f5f5f5 canvas, a warm off-white that reads as paper stock rather than screen white, and the product photography is shot on the same tone so the keyboards appear to float in their own atmosphere. Every keyboard is shown from a straight-on top-down angle, the keycaps rendered in crisp focus against that soft ground, with no lifestyle shots, no hands typing, no desk setups — just the object itself, presented with the seriousness of a tool. The navigation is a single horizontal strip of Japanese text (the site's primary language) with no dropdowns, no mega-menus, no search bar visible on load, and the product pages are built as long scrolls of technical specifications rather than marketing copy. The color palette is monochromatic — the keyboards themselves come in black, white, and occasionally navy or red — and the only accent color on the site is the deep navy of the footer background, which creates a hard visual stop at the bottom of every page. There are no animations, no hover effects beyond a simple underline on text links, and no JavaScript-driven interactivity on the product pages; the site functions as a catalog, not a storefront. The typography is system sans-serif at modest sizes, with product names set at 18px and body text at 12px, creating a dense information hierarchy that prioritizes specification density over readability. The overall effect is that of a PDF catalog rendered as a website — utilitarian, information-rich, and utterly indifferent to the conventions of modern DTC design.
 
 colors:
   primary: "#f5f5f5"
@@ -257,6 +261,8 @@ components:
 - Footer links do not collapse; they stack vertically on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one hex color (#f5f5f5) was extractable from the live site; all other colors in this document are inferred from screenshots and general observation of the brand's visual language
 - The site uses system sans-serif with no specific font-family declaration beyond "sans-serif"; no custom typeface could be identified

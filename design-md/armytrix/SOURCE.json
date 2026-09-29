@@ -1,0 +1,909 @@
+{
+  "source_url": "https://armytrix.com",
+  "final_url": "https://www.armytrix.com/",
+  "captured_at": "2026-09-28T10:18:33.986230+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://armytrix.com",
+      "final_url": "https://www.armytrix.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "5e46063645a4a1188695313d44beb1fd8559322fa904c8996e5d73246b6fda7c",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://unpkg.com/slim-select@latest/dist/slimselect.css",
+      "final_url": "https://unpkg.com/slim-select@4.5.0/dist/slimselect.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "1b86b78331bc409b50372cd65e8e758c7267f61ac3e46764771d9823e8bcfa33",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.armytrix.com/webs/home.css",
+      "final_url": "https://www.armytrix.com/webs/home.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "dde267a34e3545e1c0a5f767e3d8f453c0f08eabcb402770aa6f09aa21c49dc9",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.armytrix.com/webs/animate.min.css",
+      "final_url": "https://www.armytrix.com/webs/animate.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "89d2d02a2e81deceb109b2499d62ea380ab15e099a3efdae1acbcacb0770964f",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 364,
+      "sources": [
+        "https://www.armytrix.com/",
+        "https://unpkg.com/slim-select@latest/dist/slimselect.css",
+        "https://www.armytrix.com/webs/home.css"
+      ]
+    },
+    "#000000": {
+      "count": 125,
+      "sources": [
+        "https://www.armytrix.com/",
+        "https://www.armytrix.com/webs/home.css"
+      ]
+    },
+    "#999999": {
+      "count": 37,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 36,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#444444": {
+      "count": 36,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 27,
+      "sources": [
+        "https://www.armytrix.com/",
+        "https://www.armytrix.com/webs/home.css"
+      ]
+    },
+    "#11b79c": {
+      "count": 26,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#333333": {
+      "count": 24,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 24,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 23,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#ff7105": {
+      "count": 23,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 21,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#222222": {
+      "count": 19,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#428bca": {
+      "count": 18,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#a94442": {
+      "count": 14,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#777777": {
+      "count": 13,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#3c763d": {
+      "count": 13,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#8a6d3b": {
+      "count": 13,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#555555": {
+      "count": 13,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#4c4a4a": {
+      "count": 11,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#2e2e2e": {
+      "count": 11,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#b4b4b4": {
+      "count": 10,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 10,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#07953c": {
+      "count": 10,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#01913a": {
+      "count": 10,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#40b7b8": {
+      "count": 9,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#38d430": {
+      "count": 9,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#31708f": {
+      "count": 7,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#f2dede": {
+      "count": 7,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 7,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#5cb85c": {
+      "count": 7,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#009933": {
+      "count": 7,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#20272a": {
+      "count": 7,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#dff0d8": {
+      "count": 6,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#fcf8e3": {
+      "count": 6,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#565656": {
+      "count": 6,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#080808": {
+      "count": 6,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#ebccd1": {
+      "count": 6,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#dbdfd8": {
+      "count": 6,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#e1e1e1": {
+      "count": 6,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#4d4d4d": {
+      "count": 5,
+      "sources": [
+        "https://www.armytrix.com/",
+        "https://unpkg.com/slim-select@latest/dist/slimselect.css"
+      ]
+    },
+    "#f0ad4e": {
+      "count": 5,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#d9534f": {
+      "count": 5,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#e7e7e7": {
+      "count": 5,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#faebcc": {
+      "count": 5,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#d6e9c6": {
+      "count": 5,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#cfd1d1": {
+      "count": 5,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#f52626": {
+      "count": 5,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#666666": {
+      "count": 5,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#eaeaea": {
+      "count": 5,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#4aff0c": {
+      "count": 5,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#34d025": {
+      "count": 5,
+      "sources": [
+        "https://www.armytrix.com/",
+        "https://www.armytrix.com/webs/home.css"
+      ]
+    },
+    "#00b295": {
+      "count": 4,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#d9edf7": {
+      "count": 4,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 4,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 4,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#d5d5d5": {
+      "count": 4,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 4,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#bce8f1": {
+      "count": 4,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "#ececec": {
+      "count": 4,
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.armytrix.com/"
+    ],
+    "Consolas": [
+      "https://www.armytrix.com/"
+    ],
+    "Courier New": [
+      "https://www.armytrix.com/"
+    ],
+    "FontAwesome": [
+      "https://www.armytrix.com/"
+    ],
+    "Fontawesome": [
+      "https://www.armytrix.com/"
+    ],
+    "Glyphicons Halflings": [
+      "https://www.armytrix.com/"
+    ],
+    "Helvetica": [
+      "https://www.armytrix.com/"
+    ],
+    "Helvetica Neue": [
+      "https://www.armytrix.com/"
+    ],
+    "Kusanagi": [
+      "https://www.armytrix.com/",
+      "https://www.armytrix.com/webs/home.css"
+    ],
+    "Menlo": [
+      "https://www.armytrix.com/"
+    ],
+    "Monaco": [
+      "https://www.armytrix.com/"
+    ],
+    "Open Sans": [
+      "https://www.armytrix.com/"
+    ],
+    "Roboto-Bold": [
+      "https://www.armytrix.com/"
+    ],
+    "Roboto-BoldItalic": [
+      "https://www.armytrix.com/"
+    ],
+    "Roboto-Italic": [
+      "https://www.armytrix.com/"
+    ],
+    "Roboto-Light": [
+      "https://www.armytrix.com/",
+      "https://www.armytrix.com/webs/home.css"
+    ],
+    "Roboto-Regular": [
+      "https://www.armytrix.com/",
+      "https://www.armytrix.com/webs/home.css"
+    ],
+    "Roboto-Thin": [
+      "https://www.armytrix.com/"
+    ],
+    "Roboto-bold": [
+      "https://www.armytrix.com/",
+      "https://www.armytrix.com/webs/home.css"
+    ],
+    "RobotoCondensed-Regular": [
+      "https://www.armytrix.com/"
+    ],
+    "arial": [
+      "https://www.armytrix.com/"
+    ],
+    "gill-sans-mt-bold": [
+      "https://www.armytrix.com/"
+    ],
+    "monospace": [
+      "https://www.armytrix.com/"
+    ],
+    "sans-serif": [
+      "https://www.armytrix.com/",
+      "https://www.armytrix.com/webs/home.css"
+    ],
+    "serif": [
+      "https://www.armytrix.com/"
+    ],
+    "slick": [
+      "https://www.armytrix.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.armytrix.com/",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0"
+    },
+    {
+      "source": "https://www.armytrix.com/",
+      "selector": ".btn>.caret,.dropup>.btn>.caret",
+      "declarations": "border-top-color:#000!important"
+    },
+    {
+      "source": "https://www.armytrix.com/",
+      "selector": "input,button,select,textarea",
+      "declarations": "font-family:inherit;font-size:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://www.armytrix.com/",
+      "selector": "h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6",
+      "declarations": "font-family:inherit;font-weight:500;line-height:1.1;color:inherit"
+    },
+    {
+      "source": "https://www.armytrix.com/",
+      "selector": "small,h6 small,.h1 small,.h2 small,.h3 small,.h4 small,.h5 small,.h6 small,h1 .small,h2 .small,h3 .small,h4 .small,h5 .small,h6 .small,.h1 .small,.h2 .small,.h3",
+      "declarations": "font-weight:400;line-height:1;color:#999"
+    },
+    {
+      "source": "https://www.armytrix.com/",
+      "selector": "tbody>tr>th.active,.table>tfoot>tr>th.active,.table>thead>tr.active>td,.table>tbody>tr.active>td,.table>tfoot>tr.active>td,.table>thead>tr.active>th,.table>tbod",
+      "declarations": "background-color:#f5f5f5"
+    },
+    {
+      "source": "https://www.armytrix.com/",
+      "selector": ".table-hover>tbody>tr>td.active:hover,.table-hover>tbody>tr>th.active:hover,.table-hover>tbody>tr.active:hover>td,.table-hover>tbody>tr.active:hover>th",
+      "declarations": "background-color:#e8e8e8"
+    },
+    {
+      "source": "https://www.armytrix.com/",
+      "selector": ">th.success,.table>tfoot>tr>th.success,.table>thead>tr.success>td,.table>tbody>tr.success>td,.table>tfoot>tr.success>td,.table>thead>tr.success>th,.table>tbody>",
+      "declarations": "background-color:#dff0d8"
+    },
+    {
+      "source": "https://www.armytrix.com/",
+      "selector": ".table-hover>tbody>tr>td.success:hover,.table-hover>tbody>tr>th.success:hover,.table-hover>tbody>tr.success:hover>td,.table-hover>tbody>tr.success:hover>th",
+      "declarations": "background-color:#d0e9c6"
+    },
+    {
+      "source": "https://www.armytrix.com/",
+      "selector": ">th.info,.table>tbody>tr>th.info,.table>tfoot>tr>th.info,.table>thead>tr.info>td,.table>tbody>tr.info>td,.table>tfoot>tr.info>td,.table>thead>tr.info>th,.table>",
+      "declarations": "background-color:#d9edf7"
+    },
+    {
+      "source": "https://www.armytrix.com/",
+      "selector": ".table-hover>tbody>tr>td.info:hover,.table-hover>tbody>tr>th.info:hover,.table-hover>tbody>tr.info:hover>td,.table-hover>tbody>tr.info:hover>th",
+      "declarations": "background-color:#c4e3f3"
+    },
+    {
+      "source": "https://www.armytrix.com/",
+      "selector": ">th.warning,.table>tfoot>tr>th.warning,.table>thead>tr.warning>td,.table>tbody>tr.warning>td,.table>tfoot>tr.warning>td,.table>thead>tr.warning>th,.table>tbody>",
+      "declarations": "background-color:#fcf8e3"
+    },
+    {
+      "source": "https://www.armytrix.com/",
+      "selector": ".table-hover>tbody>tr>td.warning:hover,.table-hover>tbody>tr>th.warning:hover,.table-hover>tbody>tr.warning:hover>td,.table-hover>tbody>tr.warning:hover>th",
+      "declarations": "background-color:#faf2cc"
+    },
+    {
+      "source": "https://www.armytrix.com/",
+      "selector": "tbody>tr>th.danger,.table>tfoot>tr>th.danger,.table>thead>tr.danger>td,.table>tbody>tr.danger>td,.table>tfoot>tr.danger>td,.table>thead>tr.danger>th,.table>tbod",
+      "declarations": "background-color:#f2dede"
+    },
+    {
+      "source": "https://www.armytrix.com/",
+      "selector": ".table-hover>tbody>tr>td.danger:hover,.table-hover>tbody>tr>th.danger:hover,.table-hover>tbody>tr.danger:hover>td,.table-hover>tbody>tr.danger:hover>th",
+      "declarations": "background-color:#ebcccc"
+    },
+    {
+      "source": "https://www.armytrix.com/",
+      "selector": ".btn:hover,.btn:focus",
+      "declarations": "color:#333;text-decoration:none"
+    },
+    {
+      "source": "https://www.armytrix.com/",
+      "selector": ".btn.disabled,.btn[disabled],fieldset[disabled] .btn",
+      "declarations": "background-color: #c1c1c1 !important;cursor:not-allowed;pointer-events:none;opacity:.65;filter:alpha(opacity=65);-webkit-box-shadow:none;box-shadow:none"
+    },
+    {
+      "source": "https://www.armytrix.com/",
+      "selector": ".btn-default",
+      "declarations": "color:#fff;background:#11b79c"
+    },
+    {
+      "source": "https://www.armytrix.com/",
+      "selector": ".btn-default:hover,.open .dropdown-toggle.btn-default",
+      "declarations": "color:#fff;background:#ff7105"
+    },
+    {
+      "source": "https://www.armytrix.com/",
+      "selector": ".btn-default .badge",
+      "declarations": "color:#fff;background-color:#333"
+    },
+    {
+      "source": "https://www.armytrix.com/",
+      "selector": ".btn-primary",
+      "declarations": "color:#fff;background:#11b79c;text-transform:uppercase;height:30px"
+    },
+    {
+      "source": "https://www.armytrix.com/",
+      "selector": ".btn-primary:hover,.btn-primary:focus,.btn-primary:active,.btn-primary.active,.open .dropdown-toggle.btn-primary",
+      "declarations": "color:#fff;background-color:#ff7105"
+    },
+    {
+      "source": "https://www.armytrix.com/",
+      "selector": ".btn-primary .badge",
+      "declarations": "color:#428bca;background:#fff"
+    },
+    {
+      "source": "https://www.armytrix.com/",
+      "selector": ".btn-success",
+      "declarations": "color:#fff;background-color:#5cb85c;border-color:#4cae4c"
+    },
+    {
+      "source": "https://www.armytrix.com/",
+      "selector": ".btn-success:hover,.btn-success:focus,.btn-success:active,.btn-success.active,.open .dropdown-toggle.btn-success",
+      "declarations": "color:#fff;background-color:#47a447;border-color:#398439"
+    },
+    {
+      "source": "https://www.armytrix.com/",
+      "selector": "ocus,.btn-success.disabled:active,.btn-success[disabled]:active,fieldset[disabled] .btn-success:active,.btn-success.disabled.active,.btn-success[disabled].activ",
+      "declarations": "background-color:#5cb85c;border-color:#4cae4c"
+    },
+    {
+      "source": "https://www.armytrix.com/",
+      "selector": ".btn-success .badge",
+      "declarations": "color:#5cb85c;background-color:#fff"
+    },
+    {
+      "source": "https://www.armytrix.com/",
+      "selector": ".btn-info",
+      "declarations": "color:#fff;background:#11b79c"
+    },
+    {
+      "source": "https://www.armytrix.com/",
+      "selector": ".btn-info:hover,.btn-info:focus,.btn-info:active,.btn-info.active,.open .dropdown-toggle.btn-info",
+      "declarations": "color:#fff;background-color:#ff7105"
+    },
+    {
+      "source": "https://www.armytrix.com/",
+      "selector": "abled] .btn-info:focus,.btn-info.disabled:active,.btn-info[disabled]:active,fieldset[disabled] .btn-info:active,.btn-info.disabled.active,.btn-info[disabled].ac",
+      "declarations": "background-color:#11b79c"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "ARMYTRIX - Automotive Weaponized",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.armytrix.com/",
+        "https://www.armytrix.com/webs/home.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.armytrix.com/",
+        "https://unpkg.com/slim-select@latest/dist/slimselect.css",
+        "https://www.armytrix.com/webs/home.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "colors.hairline-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "colors.surface-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.armytrix.com/",
+        "https://unpkg.com/slim-select@latest/dist/slimselect.css",
+        "https://www.armytrix.com/webs/home.css"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "colors.danger-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "colors.success-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "colors.info-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "colors.warning-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.armytrix.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.button-accent": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.fitment-selector": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    }
+  }
+}

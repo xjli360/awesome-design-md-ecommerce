@@ -1,0 +1,927 @@
+{
+  "source_url": "https://ekster.com",
+  "final_url": "https://www.ekster.com/",
+  "captured_at": "2026-09-28T05:04:56.370566+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://ekster.com",
+      "final_url": "https://www.ekster.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "6dacb748234db9b4b8c706e4aff83228cbdd9dd7b3f4e038567c4022807d1f59",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955",
+      "final_url": "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "bce96b87359f2bbe97d2802f587cfa8834242e00816760aa469859bda816bc6b",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.ekster.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.ekster.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "be10bc4b16346e787891f1da5de658505019fcd30172651891a4bf550c948e36",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0d910-705e-793a-92d8-1ac2989952ea/kaching-bundles-2003/assets/kaching-bundles.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0d910-705e-793a-92d8-1ac2989952ea/kaching-bundles-2003/assets/kaching-bundles.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6a79afefedc10f3c42a269445dacbc3c9037892d16b8f6bb03388048a0262a57",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0cff8-2c69-745f-8772-fd89b29d2d4b/keepcart-2-253/assets/app.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0cff8-2c69-745f-8772-fd89b29d2d4b/keepcart-2-253/assets/app.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9645d1c7ed126f4eb0f36e7547241c95a7290b0b563bc886cb5110a3c068b437",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 48,
+      "sources": [
+        "https://www.ekster.com/",
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955",
+        "https://www.ekster.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0d910-705e-793a-92d8-1ac2989952ea/kaching-bundles-2003/assets/kaching-bundles.css",
+        "https://cdn.shopify.com/extensions/01a0cff8-2c69-745f-8772-fd89b29d2d4b/keepcart-2-253/assets/app.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 32,
+      "sources": [
+        "https://www.ekster.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#000000": {
+      "count": 31,
+      "sources": [
+        "https://www.ekster.com/",
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#00000000": {
+      "count": 31,
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955",
+        "https://www.ekster.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#252525": {
+      "count": 12,
+      "sources": [
+        "https://www.ekster.com/",
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "#dddddd": {
+      "count": 9,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#333333": {
+      "count": 8,
+      "sources": [
+        "https://www.ekster.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 7,
+      "sources": [
+        "https://www.ekster.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#555555": {
+      "count": 6,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#e7e7e7": {
+      "count": 5,
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "#474be4": {
+      "count": 5,
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "#00000014": {
+      "count": 5,
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "#666666": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#999999": {
+      "count": 4,
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "#812833": {
+      "count": 4,
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "#00000080": {
+      "count": 4,
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "#444444": {
+      "count": 3,
+      "sources": [
+        "https://www.ekster.com/"
+      ]
+    },
+    "#cdcbcb": {
+      "count": 3,
+      "sources": [
+        "https://www.ekster.com/"
+      ]
+    },
+    "#c39164": {
+      "count": 3,
+      "sources": [
+        "https://www.ekster.com/"
+      ]
+    },
+    "#f61f1f": {
+      "count": 3,
+      "sources": [
+        "https://www.ekster.com/"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 3,
+      "sources": [
+        "https://www.ekster.com/"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 3,
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#108474": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/"
+      ]
+    },
+    "#7b7b7b": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/",
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "#87040c": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/"
+      ]
+    },
+    "#38425e": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/"
+      ]
+    },
+    "#5d2c25": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/"
+      ]
+    },
+    "#0f6722": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/"
+      ]
+    },
+    "#cbadda": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/"
+      ]
+    },
+    "#787878": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/"
+      ]
+    },
+    "#b0b0b0": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/",
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "#efefef": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/",
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "#7ab9ff": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "#4f4f4f": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "#d1d1d1": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "#888888": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#b5b5b5": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "#abfbbb": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "#dafee1": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "#7e7fbb": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "#1b1c4a": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "#e17237": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "#e5ffc9": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "#f4ffe6": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "#c4b090": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "#50a4ff": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "#56b17c": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "#e76100": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "#df2630": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "#e2b43f": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "#959595": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "#374151": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "#ffffff1a": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "#ffffff0d": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "#00000026": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "#00000040": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.ekster.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#fbcd0a": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+    ],
+    "Apple Color Emoji": [
+      "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+    ],
+    "Arial": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Baskerville": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "BlinkMacSystemFont": [
+      "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+    ],
+    "Consolas": [
+      "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+    ],
+    "Courier New": [
+      "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+    ],
+    "Helvetica": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons\" !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons' !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeStar": [
+      "https://www.ekster.com/"
+    ],
+    "JudgemeStar' !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Liberation Mono": [
+      "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+    ],
+    "Liberation Sans": [
+      "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+    ],
+    "Menlo": [
+      "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+    ],
+    "Monaco": [
+      "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+    ],
+    "Noto Color Emoji": [
+      "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+    ],
+    "Nunito Sans": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Replica": [
+      "https://www.ekster.com/"
+    ],
+    "Replica\" !important": [
+      "https://www.ekster.com/"
+    ],
+    "SFMono-Regular": [
+      "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+    ],
+    "Segoe UI": [
+      "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+    ],
+    "Segoe UI Adjusted": [
+      "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+    ],
+    "Segoe UI Emoji": [
+      "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+    ],
+    "Segoe UI Symbol": [
+      "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+    ],
+    "monospace": [
+      "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "sans-serif": [
+      "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "swiper-icons": [
+      "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+    ],
+    "system-ui": [
+      "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+    ],
+    "ui-monospace": [
+      "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+    ],
+    "ui-sans-serif": [
+      "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.ekster.com/",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #252525;--jdgm-secondary-color: rgba(37,37,37,0.1);--jdgm-star-color: #FFC107;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #252525;--jdgm-paginate-color: #444444;--jdgm-border-radius: 0;--jdgm-reviewer-name-color: #252525"
+    },
+    {
+      "source": "https://www.ekster.com/",
+      "selector": ":root",
+      "declarations": "--header-offset: 3rem;\n      --announcement-height: 2rem;"
+    },
+    {
+      "source": "https://www.ekster.com/",
+      "selector": "ground); background: var(--color-black)\naspect-ratio: 1.0;\naspect-ratio: 1.0;\naspect-ratio: 1.0;\naspect-ratio: 1.0;\n #shopify-section-sections--19653578195007__",
+      "declarations": "background-color: transparent !important; border: 1px solid black !important; color: black !important;"
+    },
+    {
+      "source": "https://www.ekster.com/",
+      "selector": "#shopify-section-sections--19653578195007__header .highlighter",
+      "declarations": "color: #87040c !important;"
+    },
+    {
+      "source": "https://www.ekster.com/",
+      "selector": "body .jdgm-carousel-item",
+      "declarations": "min-width: calc(80% - 24px);\n    margin: 0 12px;\n    background: #fff;\n    padding: 16px;\n    color: var(--color-black);\n    border-radius: 12px;\n    height: auto;\n    display: flex;\n    flex-direction: column;\n    gap: 16px;"
+    },
+    {
+      "source": "https://www.ekster.com/",
+      "selector": "body .jdgm-star",
+      "declarations": "color: var(--color-review);"
+    },
+    {
+      "source": "https://www.ekster.com/",
+      "selector": ":root",
+      "declarations": "--rivo-aw-background-color: #ffffff;\n      --rivo-aw-desktop-sidebar-left: 0px;\n      --rivo-aw-desktop-sidebar-right: auto;\n      --rivo-aw-desktop-slidein-translate-x: -100%;\n      --rivo-aw-desktop-slideout-translate-x: -100%;\n      --rivo-aw-heading-font-color: #000000;\n      --rivo-aw-body-primary-font-color: #000000;\n      --rivo-aw-body-secondary-font-color: #000000;\n      --rivo-aw-border-color: #000000;\n      --rivo-aw-subdued-color: #000000;\n      --rivo-aw-icon-color: #000000;\n      --rivo-aw-primary-color: #000000;\n      --rivo-aw-favorite-button-active-color: #ff5e5e;\n      --rivo-aw-toast-offset-left: 15px;\n      --rivo-aw-toast-offset-right: auto;\n      --rivo-aw-default-font-"
+    },
+    {
+      "source": "https://www.ekster.com/",
+      "selector": "n-container,\n.rivo-aw-mini-modal__content button.rivo-positive-action,\n.rivo-aw-mini-modal__content button span:first-child,\n.rivo-aw-button-points-balance-cont",
+      "declarations": "justify-content: center;\nfont-size: 16px;\ndisplay: flex;\nalign-items: center;\nbackground: #000;\ncolor: #fff;\nmin-height: 45px;\nmax-height: 45px;\npadding: 10px 20px;\nborder-radius: 12px;"
+    },
+    {
+      "source": "https://www.ekster.com/",
+      "selector": ".rivo-aw-mini-modal__content button span:first-child",
+      "declarations": "background: transparent;\nborder: 1px solid #000;\ncolor: #000;"
+    },
+    {
+      "source": "https://www.ekster.com/",
+      "selector": "display: none;\n\n    :root",
+      "declarations": "--wk-color-solid-button-label: 255, 255, 255;\n      --wk-color-accent-1: 0, 0, 0;\n      --wk-color-accent-2: 0, 0, 0;\n      --wk-color-outline-button-label: 0, 0, 0;\n      --wk-color-background-1: 255, 255, 255;\n      --wk-color-background-2: 255, 255, 255;\n      --wk-color-text: 0, 0, 0;\n      --wk-button-min-height: 45px;\n      --wk-button-border-width: 1px;\n      --wk-button-border-radius: 0px;\n      --wk-input-min-height: 45px;\n      --wk-input-border-width: 1px;\n      --wk-input-border-radius: 0px;\n      --wk-shadow-opacity: 15%;\n      --wk-shadow-horizontal-offset: 0px;\n      --wk-shadow-vertical-offset: 2px;\n      --wk-shadow-blur: 4px;\n      --wk-font-text-scale: 1.0;"
+    },
+    {
+      "source": "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955",
+      "selector": ".kaching-bundles .kaching-bundles__bundle-products__price",
+      "declarations": "font-size:15px!important;font-weight:var(--bar-title-font-weight, 500)!important;font-style:var(--bar-title-font-style)!important;color:var(--bar-price-color, #000)!important;line-height:1!important"
+    },
+    {
+      "source": "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955",
+      "selector": ".kaching-bundles .kaching-bundles__bundle-products__divider-line",
+      "declarations": "background-color:#e7e7e7!important"
+    },
+    {
+      "source": "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955",
+      "selector": ".kaching-bundles .kaching-bundles__bundle-products__divider-icon svg",
+      "declarations": "color:#252525!important"
+    },
+    {
+      "source": "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955",
+      "selector": ".kaching-bundles .kaching-bundles__free-gift__add-button,.kaching-bundles .kaching-bundles__bar--selected .kaching-bundles__free-gift__add-button",
+      "declarations": "flex:none;color:inherit!important"
+    },
+    {
+      "source": "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955",
+      "selector": ".kaching-bundles .kaching-bundles__choose-multiple-gifts__product-price",
+      "declarations": "color:var(--color-yellow-foreground)!important;background:var(--color-yellow)!important;--tw-tracking: var(--tracking-wide)!important;letter-spacing:var(--tracking-wide)!important;--tw-font-weight: var(--font-weight-bold)!important;font-weight:var(--font-weight-bold)!important;--tw-leading: calc(var(--spacing) * 4)!important;line-height:calc(var(--spacing) * 4)!important;font-size:var(--text-2xs)!important;padding-block:calc(var(--spacing) * 1)!important;padding-inline:calc(var(--spacing) * 2)!important;border-radius:var(--radius-sm)!important"
+    },
+    {
+      "source": "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955",
+      "selector": "button,input,select,optgroup,textarea,::file-selector-button",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;border-radius:0;background-color:transparent;opacity:1"
+    },
+    {
+      "source": "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955",
+      "selector": ".rte :where(h1):not(:where([class~=not-rte],[class~=not-rte] *))",
+      "declarations": "color:var(--tw-prose-headings);font-weight:800;font-size:2.25em;margin-top:0;margin-bottom:.8888889em;line-height:1.1111111"
+    },
+    {
+      "source": "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955",
+      "selector": ".rte :where(h1 strong):not(:where([class~=not-rte],[class~=not-rte] *))",
+      "declarations": "font-weight:900;color:inherit"
+    },
+    {
+      "source": "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955",
+      "selector": ".rte :where(h1 code):not(:where([class~=not-rte],[class~=not-rte] *))",
+      "declarations": "color:inherit"
+    },
+    {
+      "source": "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955",
+      "selector": ".rte :where(tbody tr):not(:where([class~=not-rte],[class~=not-rte] *))",
+      "declarations": "border-bottom-width:1px;border-bottom-color:var(--tw-prose-td-borders)"
+    },
+    {
+      "source": "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955",
+      "selector": ".h1",
+      "declarations": "font-family:var(--font-heading);--tw-font-weight: var(--font-weight-bold);font-weight:var(--font-weight-bold);--tw-tracking: -.02em ;letter-spacing:-.02em;font-size:var(--text-7xl);--tw-leading: 1;line-height:1"
+    },
+    {
+      "source": "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955",
+      "selector": ".h1",
+      "declarations": "--tw-leading: calc(var(--spacing) * 11);line-height:calc(var(--spacing) * 11)"
+    },
+    {
+      "source": "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955",
+      "selector": ".text-body-lg",
+      "declarations": "font-size:var(--text-lg);--tw-leading: calc(var(--spacing) * 5);line-height:calc(var(--spacing) * 5)"
+    },
+    {
+      "source": "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955",
+      "selector": ".text-body-lg",
+      "declarations": "--tw-leading: calc(var(--spacing) * 7);line-height:calc(var(--spacing) * 7)"
+    },
+    {
+      "source": "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955",
+      "selector": ".text-body-md",
+      "declarations": "font-size:var(--text-base);--tw-leading: calc(var(--spacing) * 5);line-height:calc(var(--spacing) * 5)"
+    },
+    {
+      "source": "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955",
+      "selector": ".text-body-md",
+      "declarations": "--tw-leading: 1.625rem;line-height:1.625rem"
+    },
+    {
+      "source": "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955",
+      "selector": ".text-body-xl",
+      "declarations": "font-size:1.25rem;--tw-leading: 1;line-height:1"
+    },
+    {
+      "source": "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955",
+      "selector": ".text-body-sm",
+      "declarations": "font-size:var(--text-sm);--tw-leading: calc(var(--spacing) * 5);line-height:calc(var(--spacing) * 5)"
+    },
+    {
+      "source": "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955",
+      "selector": ".text-body-xs",
+      "declarations": "font-size:var(--text-xs);--tw-leading: calc(var(--spacing) * 5);line-height:calc(var(--spacing) * 5)"
+    },
+    {
+      "source": "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955",
+      "selector": ".text-body-xxs",
+      "declarations": "font-size:var(--text-2xs);--tw-leading: calc(var(--spacing) * 4);line-height:calc(var(--spacing) * 4)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Ekster® | Smart Trackable Wallets,Travel Bags and EDC Gear",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ekster.com/",
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ekster.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ekster.com/",
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955",
+        "https://www.ekster.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0d910-705e-793a-92d8-1ac2989952ea/kaching-bundles-2003/assets/kaching-bundles.css",
+        "https://cdn.shopify.com/extensions/01a0cff8-2c69-745f-8772-fd89b29d2d4b/keepcart-2-253/assets/app.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ekster.com/",
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ekster.com/",
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ekster.com/",
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955",
+        "https://www.ekster.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0d910-705e-793a-92d8-1ac2989952ea/kaching-bundles-2003/assets/kaching-bundles.css",
+        "https://cdn.shopify.com/extensions/01a0cff8-2c69-745f-8772-fd89b29d2d4b/keepcart-2-253/assets/app.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ekster.com/",
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955",
+        "https://www.ekster.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0d910-705e-793a-92d8-1ac2989952ea/kaching-bundles-2003/assets/kaching-bundles.css",
+        "https://cdn.shopify.com/extensions/01a0cff8-2c69-745f-8772-fd89b29d2d4b/keepcart-2-253/assets/app.css"
+      ]
+    },
+    "colors.border-subtle": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "colors.accent-highlight": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ekster.com/"
+      ]
+    },
+    "colors.accent-sale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ekster.com/"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.accent-success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ekster.com/"
+      ]
+    },
+    "colors.accent-info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ekster.com/cdn/shop/t/1232/assets/main.css?v=5011708311179973721788965955"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.color-swatch-selector": {
+      "status": "inferred"
+    }
+  }
+}

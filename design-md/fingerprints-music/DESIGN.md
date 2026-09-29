@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Fingerprints Music
-description: A Long Beach independent record store that wears its two-tone identity on its sleeve: a deep, assertive crimson (#dd3333) for the primary brand mark and a complementary navy (#3a5795) that surfaces in navigation and footer blocks, creating a collegiate-clubhouse tension rather than a single-brand monolith. The site reads as a digital storefront built by people who love records more than they love design trends — the crimson appears in the header background, primary buttons, and sale badges, while the navy anchors the footer and secondary navigation panels. A third accent, a warm safety-orange (#fe4600), cuts through for urgency elements like limited-stock indicators and newsletter signup triggers. The typography stack pairs Raleway (headings, navigation) with Source Sans Pro (body copy), both geometric sans-serifs that keep the interface legible and unpretentious — this is a store that wants you to browse, not to admire the chrome. Product cards use soft corners ({rounded.sm}) and generous whitespace ({spacing.base} padding), while the search bar sits as a full-width field with a crimson submit button, echoing the in-store experience of asking a clerk for recommendations. The overall mood is warm, slightly retro, and deeply functional — a digital crate-digging experience that prioritizes inventory discovery over visual polish.
+name: "Fingerprints Music"
+source_url: "https://www.fingerprintsmusic.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A Long Beach independent record store that wears its two-tone identity on its sleeve: a deep, assertive crimson (#dd3333) for the primary brand mark and a complementary navy (#3a5795) that surfaces in navigation and footer blocks, creating a collegiate-clubhouse tension rather than a single-brand monolith. The site reads as a digital storefront built by people who love records more than they love design trends — the crimson appears in the header background, primary buttons, and sale badges, while the navy anchors the footer and secondary navigation panels. A third accent, a warm safety-orange (#fe4600), cuts through for urgency elements like limited-stock indicators and newsletter signup triggers. The typography stack pairs Raleway (headings, navigation) with Source Sans Pro (body copy), both geometric sans-serifs that keep the interface legible and unpretentious — this is a store that wants you to browse, not to admire the chrome. Product cards use soft corners ({rounded.sm}) and generous whitespace ({spacing.base} padding), while the search bar sits as a full-width field with a crimson submit button, echoing the in-store experience of asking a clerk for recommendations. The overall mood is warm, slightly retro, and deeply functional — a digital crate-digging experience that prioritizes inventory discovery over visual polish.
 
 colors:
   primary: "#dd3333"
@@ -466,6 +470,8 @@ components:
 - Breadcrumbs may truncate on mobile, showing only the current and parent page
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for most components were inferred from common patterns; actual extracted hover colors were not available from the static HTML analysis
 - Error state styling for form inputs (validation errors, required field indicators) could not be extracted

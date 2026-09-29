@@ -1,0 +1,879 @@
+{
+  "source_url": "https://dagnedover.com",
+  "final_url": "https://www.dagnedover.com/",
+  "captured_at": "2026-09-28T05:03:57.713978+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://dagnedover.com",
+      "final_url": "https://www.dagnedover.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "6a491da6ebfbcbd65411dad57ead333773f09ba94f4bff5f0000c42b92b66437",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+      "final_url": "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c6be921bb162da13c49910d4475fe86fc9b83d70bffcb29378eb1c1ce3e1008c",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.dagnedover.com/cdn/shop/t/1816/assets/flickity.css?v=173514736779572415821776795508",
+      "final_url": "https://www.dagnedover.com/cdn/shop/t/1816/assets/flickity.css?v=173514736779572415821776795508",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0a99686d983af8eaa1fc9e4a0d6d57fd1972c159dac5e08e927ca7f3c3b2e688",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.dagnedover.com/cdn/shop/t/1816/assets/index.css?v=133659038470520371891790187771",
+      "final_url": "https://www.dagnedover.com/cdn/shop/t/1816/assets/index.css?v=133659038470520371891790187771",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5414445338e982ee592b0150a6152febd3b0d70ed7dca34848d3ef2f1d5fc7d1",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.dagnedover.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.dagnedover.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.dagnedover.com/cdn/shop/t/1816/assets/app-D8hpCEjB.css",
+      "final_url": "https://www.dagnedover.com/cdn/shop/t/1816/assets/app-D8hpCEjB.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "04d71930743dbe4cbef7751c43ab465725bf0deb5a85c3d186ba512d55b12578",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 102,
+      "sources": [
+        "https://www.dagnedover.com/",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/flickity.css?v=173514736779572415821776795508",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/index.css?v=133659038470520371891790187771",
+        "https://www.dagnedover.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/app-D8hpCEjB.css"
+      ]
+    },
+    "#333333": {
+      "count": 94,
+      "sources": [
+        "https://www.dagnedover.com/",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/flickity.css?v=173514736779572415821776795508",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/index.css?v=133659038470520371891790187771"
+      ]
+    },
+    "#000000": {
+      "count": 14,
+      "sources": [
+        "https://www.dagnedover.com/",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/index.css?v=133659038470520371891790187771",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/app-D8hpCEjB.css"
+      ]
+    },
+    "#999999": {
+      "count": 12,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#ba7361": {
+      "count": 11,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#d0cfcf": {
+      "count": 7,
+      "sources": [
+        "https://www.dagnedover.com/",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/index.css?v=133659038470520371891790187771"
+      ]
+    },
+    "#cccccc": {
+      "count": 7,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#faffe2": {
+      "count": 7,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/index.css?v=133659038470520371891790187771"
+      ]
+    },
+    "#666666": {
+      "count": 6,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#8f8f8f": {
+      "count": 6,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#5c5c5c": {
+      "count": 6,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#979797": {
+      "count": 6,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/index.css?v=133659038470520371891790187771"
+      ]
+    },
+    "#00000000": {
+      "count": 6,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/app-D8hpCEjB.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 5,
+      "sources": [
+        "https://www.dagnedover.com/",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 5,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#5c5d5c": {
+      "count": 5,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/index.css?v=133659038470520371891790187771"
+      ]
+    },
+    "#2d1563": {
+      "count": 4,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#eeeeee": {
+      "count": 4,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#00000080": {
+      "count": 4,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/app-D8hpCEjB.css"
+      ]
+    },
+    "#d4d4d4": {
+      "count": 3,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#919191": {
+      "count": 3,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#f9f2ec": {
+      "count": 3,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/index.css?v=133659038470520371891790187771"
+      ]
+    },
+    "#ffffff80": {
+      "count": 3,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/index.css?v=133659038470520371891790187771"
+      ]
+    },
+    "#0051c1": {
+      "count": 2,
+      "sources": [
+        "https://www.dagnedover.com/"
+      ]
+    },
+    "#edeae8": {
+      "count": 2,
+      "sources": [
+        "https://www.dagnedover.com/",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#f9f5f2": {
+      "count": 2,
+      "sources": [
+        "https://www.dagnedover.com/",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/index.css?v=133659038470520371891790187771"
+      ]
+    },
+    "#555555": {
+      "count": 2,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#8a8a8a": {
+      "count": 2,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#cbc7c4": {
+      "count": 2,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#4a4a49": {
+      "count": 2,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#3f3f3f": {
+      "count": 2,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#d6c7b8": {
+      "count": 2,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/index.css?v=133659038470520371891790187771"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 2,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#1199ff": {
+      "count": 2,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/flickity.css?v=173514736779572415821776795508"
+      ]
+    },
+    "#575757": {
+      "count": 2,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/index.css?v=133659038470520371891790187771"
+      ]
+    },
+    "#bead9e": {
+      "count": 2,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/index.css?v=133659038470520371891790187771"
+      ]
+    },
+    "#33333340": {
+      "count": 2,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/index.css?v=133659038470520371891790187771"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#ffffffff": {
+      "count": 1,
+      "sources": [
+        "https://www.dagnedover.com/"
+      ]
+    },
+    "#ddcfcc": {
+      "count": 1,
+      "sources": [
+        "https://www.dagnedover.com/"
+      ]
+    },
+    "#d99a7f": {
+      "count": 1,
+      "sources": [
+        "https://www.dagnedover.com/"
+      ]
+    },
+    "#f4ff9c": {
+      "count": 1,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#222222": {
+      "count": 1,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#180b38": {
+      "count": 1,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#e5e2e2": {
+      "count": 1,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#454545": {
+      "count": 1,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#b97361": {
+      "count": 1,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#fafafa": {
+      "count": 1,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 1,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#40954a": {
+      "count": 1,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#c1c1c1": {
+      "count": 1,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#d8d8d8": {
+      "count": 1,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#bababa": {
+      "count": 1,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 1,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#4b4b4b": {
+      "count": 1,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#0b0b0b": {
+      "count": 1,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#444444": {
+      "count": 1,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 1,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#bdbdbd": {
+      "count": 1,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "#e3e3e3": {
+      "count": 1,
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+    ],
+    "Baskerville": [
+      "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+    ],
+    "Helvetica": [
+      "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+    ],
+    "Manrope": [
+      "https://www.dagnedover.com/"
+    ],
+    "Material Symbols Outlined": [
+      "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+    ],
+    "Trebuchet MS": [
+      "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+    ],
+    "monospace": [
+      "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+    ],
+    "nimbus-sans": [
+      "https://www.dagnedover.com/",
+      "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+      "https://www.dagnedover.com/cdn/shop/t/1816/assets/index.css?v=133659038470520371891790187771"
+    ],
+    "nimbus-sans-condensed": [
+      "https://www.dagnedover.com/",
+      "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+      "https://www.dagnedover.com/cdn/shop/t/1816/assets/index.css?v=133659038470520371891790187771"
+    ],
+    "nimbus-sans-condensed !important": [
+      "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+    ],
+    "nimbus-sans-extended": [
+      "https://www.dagnedover.com/"
+    ],
+    "sans-serif": [
+      "https://www.dagnedover.com/",
+      "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+      "https://www.dagnedover.com/cdn/shop/t/1816/assets/index.css?v=133659038470520371891790187771"
+    ],
+    "sans-serif !important": [
+      "https://www.dagnedover.com/",
+      "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+    ],
+    "sans-serif!important": [
+      "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+    ],
+    "swiper-icons": [
+      "https://www.dagnedover.com/cdn/shop/t/1816/assets/app-D8hpCEjB.css"
+    ],
+    "swym-font": [
+      "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.dagnedover.com/",
+      "selector": "#html-hero .flickity-prev-next-button",
+      "declarations": "background-color: transparent;"
+    },
+    {
+      "source": "https://www.dagnedover.com/",
+      "selector": "#html-hero a .btn",
+      "declarations": "background: transparent;\n           border: 1px solid #ffff !important;\n           color: #fff;"
+    },
+    {
+      "source": "https://www.dagnedover.com/",
+      "selector": "#html-hero .html-hero-block:nth-of-type(1) .html-hero-block-content .btn",
+      "declarations": "background-color: rgba(0,0,0,0);\n           color: #ffffff;\n           border: 1px solid #ffffff;\n\n           \n             box-shadow: none;"
+    },
+    {
+      "source": "https://www.dagnedover.com/",
+      "selector": "#html-hero .html-hero-block:nth-of-type(1) .html-hero-block-content .btn:hover",
+      "declarations": "background-color: #ffffff !important;\n           color: #333 !important;"
+    },
+    {
+      "source": "https://www.dagnedover.com/",
+      "selector": "#html-hero .html-hero-block:nth-of-type(1) .html-hero-block-content .btn",
+      "declarations": "background-color: rgba(0,0,0,0);\n             color: #ffffff;"
+    },
+    {
+      "source": "https://www.dagnedover.com/",
+      "selector": "#html-hero #comingsoon-1-form #signmeup_text.btn,\n       #html-hero .html-hero-block-content #signmeup_text.btn",
+      "declarations": "display: flex;\n         align-items: center;\n         justify-content: center;\n         flex-shrink: 0;\n         width: 134px;\n         min-width: 134px;\n         height: 42px;\n         margin-top: 0;\n         padding: 0;\n         background-color: #fff !important;\n         border: 1px solid rgba(255, 255, 255, 0.2) !important;\n         border-radius: 50px;\n         box-shadow: none !important;\n         color: #333 !important;\n         font-family: nimbus-sans, sans-serif !important;\n         font-size: 14px;\n         font-weight: 700;\n         letter-spacing: 2px;\n         line-height: 14px;\n         text-transform: uppercase;"
+    },
+    {
+      "source": "https://www.dagnedover.com/",
+      "selector": "#html-hero #comingsoon-1-form #signmeup_text.btn:hover,\n       #html-hero .html-hero-block-content #signmeup_text.btn:hover",
+      "declarations": "background-color: #333 !important;\n         color: #fff !important;"
+    },
+    {
+      "source": "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+      "selector": "html,body",
+      "declarations": "margin: 0;\n\tpadding: 0;\n\tborder: 0;\n\tbackground-color: #ffffff;"
+    },
+    {
+      "source": "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+      "selector": "body",
+      "declarations": "line-height: 18px;\n\tfont-size: 12px;\n\tcolor: #666666;\n\tfont-family: nimbus-sans, 'Trebuchet MS', sans-serif;\n\tfont-weight: 400;\n\tbackground-color: #fff;"
+    },
+    {
+      "source": "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+      "selector": ".btn",
+      "declarations": "display:inline-block;\n  font-family: nimbus-sans,'Trebuchet MS',sans-serif!important;\n  font-size: 14px;\n  line-height: 14px;\n  text-decoration: none;\n  margin-top: 20px;\n  letter-spacing: 2px;\n  text-align:center;\n  text-transform: uppercase;  \n  padding: 14px 50px 14px;\n  font-weight:700;\n  width:auto;\n  color: #333333;\n  background-color: white;\n  border: 1px solid #333333;\n  -webkit-appearance: none;\n  border-radius: 25px;\n\ttransition: all 300ms ease-out;"
+    },
+    {
+      "source": "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+      "selector": ".btn:hover",
+      "declarations": "background-color: #333 !important;\n\tcolor: white !important;"
+    },
+    {
+      "source": "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+      "selector": ".btn-light:hover",
+      "declarations": "background-color: #edeae8 !important;\n\tcolor: #333 !important;"
+    },
+    {
+      "source": "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+      "selector": ".btn-dark",
+      "declarations": "background-color: #333;\n\tcolor: #fff;"
+    },
+    {
+      "source": "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+      "selector": ".btn-dark:hover",
+      "declarations": "background-color: black !important;"
+    },
+    {
+      "source": "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+      "selector": ".btn-secondary",
+      "declarations": "background-color:#ffffff;\n  color:#333333;"
+    },
+    {
+      "source": "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+      "selector": ".btn-secondary:hover",
+      "declarations": "color:#333333;"
+    },
+    {
+      "source": "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+      "selector": ".btn-accent",
+      "declarations": "background-color: #F4FF9C;"
+    },
+    {
+      "source": "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+      "selector": ".btn-clear",
+      "declarations": "background-color: transparent;\n  color: #ffffff;\n  border-color: #ffffff;\n  box-shadow: 5px 7px 0px #ffffff !important;"
+    },
+    {
+      "source": "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+      "selector": ".btn-clear:hover",
+      "declarations": "color: #ffffff;"
+    },
+    {
+      "source": "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+      "selector": ".btn.disabled:hover",
+      "declarations": "background-color:#2d1563;\n\tcolor:#ffffff;"
+    },
+    {
+      "source": "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "font-weight:400;\n\tcolor:#333333;\n\tmargin:0 0 13px 0;\n\tfont-family: nimbus-sans, sans-serif;"
+    },
+    {
+      "source": "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+      "selector": "h1 .note, h2 .note, h3 .note, h4 .note, h5 .note, h6 .note",
+      "declarations": "margin-left: 8px;\n\tfont-weight: 400;\n\tfont-size: 14px;\n\tcolor: #555555;"
+    },
+    {
+      "source": "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+      "selector": "h1 .note a, h2 .note a, h3 .note a, h4 .note a, h5 .note a, h6 .note a",
+      "declarations": "color: #2d1563;"
+    },
+    {
+      "source": "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+      "selector": "h1 a, h2 a, h3 a, h4 a, h5 a, h6 a",
+      "declarations": "color:#333333;"
+    },
+    {
+      "source": "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+      "selector": ".button-clear",
+      "declarations": "display: inline-block;\n\ttext-align: left;\n\tfont-size: 15px;\n\tpadding: 10px 13px;\n\tborder: 1px solid #666666;\n\twidth: auto;\n\tcolor: #666666;\n\ttext-transform: uppercase;\n    border-radius: 27px !important;"
+    },
+    {
+      "source": "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+      "selector": "#footer_container #footer .klaviyo-form button",
+      "declarations": "background-color: #fff !important;"
+    },
+    {
+      "source": "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+      "selector": ".product-read-more-button",
+      "declarations": "padding-top: 0px;\n\ttext-align: left;\n\tdisplay: block;\n\tclear: both;\n\tcursor: pointer;\n\tletter-spacing: 0.6px;\n\tfont-family: 'nimbus-sans', sans-serif;\n\tfont-weight: 600;\n\tcolor: #999999 !important;\n\tfont-size: 13px;\n\tmargin-top: -5px;"
+    },
+    {
+      "source": "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+      "selector": ".product_loop_headline",
+      "declarations": "font-weight: 700;\n\tcolor: #999;\n\tclear: both;\n\tletter-spacing: 1px;\n\tfont-size: 10px;\n\tmin-height: 17px;"
+    },
+    {
+      "source": "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+      "selector": ".product_loop_sale",
+      "declarations": "position: absolute;\n\tline-height: 14px;\n\tfont-family: nimbus-sans, sans-serif;\n\tfont-weight: 400;\n\tcolor:#B97361;\n\tletter-spacing: 0.5px;\n\tline-height: 20px;\n\tfont-size: 13px;\n\tz-index: 2;\n\ttop: 10px;\n\tleft: 20px;"
+    },
+    {
+      "source": "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+      "selector": ".product_loop_sticker",
+      "declarations": "position: absolute;\n  font-family: nimbus-sans, sans-serif;\n  font-weight: 700;\n  color:#FAFFE2;\n  letter-spacing: .453px;\n  line-height: 1.4px;\n  font-size: 14.3;\n  z-index: 2;\n  left: 29px;\n  top: 17px;\n  background-color: #D0CFCF;\n  border-radius: 59px;\n  padding: 14px 15px;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Bags That Get It - Work Bags & Travel Bags",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dagnedover.com/",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/flickity.css?v=173514736779572415821776795508",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/index.css?v=133659038470520371891790187771"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dagnedover.com/",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/index.css?v=133659038470520371891790187771",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/app-D8hpCEjB.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dagnedover.com/",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/flickity.css?v=173514736779572415821776795508",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/index.css?v=133659038470520371891790187771",
+        "https://www.dagnedover.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/app-D8hpCEjB.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dagnedover.com/",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dagnedover.com/",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/flickity.css?v=173514736779572415821776795508",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/index.css?v=133659038470520371891790187771",
+        "https://www.dagnedover.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/app-D8hpCEjB.css"
+      ]
+    },
+    "colors.accent-lime": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "colors.accent-terracotta": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "colors.link": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dagnedover.com/"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/styles.css?v=12521323802280638561790187771"
+      ]
+    },
+    "colors.overlay": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dagnedover.com/cdn/shop/t/1816/assets/app-D8hpCEjB.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.size-selector": {
+      "status": "inferred"
+    }
+  }
+}

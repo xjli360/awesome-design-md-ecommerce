@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Grindhouse Video
-description: A video store that wears its blood-red heart on its sleeve — #f70f0f is the meta-theme color and the brand's primary voltage, a stop-sign red that bleeds into every primary CTA, badge, and category label. The canvas is near-black (#0a0909), not white, making the experience feel like walking into a dimly lit theater lobby where only the neon exit signs and poster frames glow. Type runs DM Sans at clean weights — body copy at 14–16px in weight 400, titles at 18–22px in weight 700 — with generous tracking that keeps readability high against the dark backdrop. Category pills use {rounded.full} and sit in a horizontal strip, each one a saturated accent: horror in #ff0000, cult in #1e2d7d, exploitation in #008a00, anime in #00badb. The search bar is a dark pill with white text and a red icon, floating above a grid of product cards that use {rounded.sm} corners and white (#f3f5f6) backgrounds to pop against the dark page. The footer collapses into a dense stack of links in #677279, with social icons in their brand colors (#3b5998, #1da1f2, #bd081c) — a rare moment of external color bleeding into the system. The overall effect is a digital grindhouse: loud, proud, unapologetically genre-specific, with a red that doesn't whisper.
+name: "Grindhouse Video"
+source_url: "https://grindhousevideo.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A video store that wears its blood-red heart on its sleeve — #f70f0f is the meta-theme color and the brand's primary voltage, a stop-sign red that bleeds into every primary CTA, badge, and category label. The canvas is near-black (#0a0909), not white, making the experience feel like walking into a dimly lit theater lobby where only the neon exit signs and poster frames glow. Type runs DM Sans at clean weights — body copy at 14–16px in weight 400, titles at 18–22px in weight 700 — with generous tracking that keeps readability high against the dark backdrop. Category pills use {rounded.full} and sit in a horizontal strip, each one a saturated accent: horror in #ff0000, cult in #1e2d7d, exploitation in #008a00, anime in #00badb. The search bar is a dark pill with white text and a red icon, floating above a grid of product cards that use {rounded.sm} corners and white (#f3f5f6) backgrounds to pop against the dark page. The footer collapses into a dense stack of links in #677279, with social icons in their brand colors (#3b5998, #1da1f2, #bd081c) — a rare moment of external color bleeding into the system. The overall effect is a digital grindhouse: loud, proud, unapologetically genre-specific, with a red that doesn't whisper.
 
 colors:
   primary: "#f70f0f"
@@ -445,6 +449,8 @@ components:
 - Newsletter form stacks input and button vertically on mobile, side-by-side on tablet and above
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components were not fully extractable from the live site; only primary button and text-input focus states were observed
 - Error styling for forms (validation messages, error icons) was not visible in the extracted data

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Pixio
-description: A performance-first gaming monitor brand that communicates through a language of dark, almost-black backgrounds (#222428) and a single, urgent accent: a neon-lime #c8ff00 that appears nowhere else in the extracted palette — not as a primary CTA, but as a voltage spike used sparingly on spec badges, sale flags, and the occasional underline. The brand's true primary is #108474, a deep teal that reads as cool and technical, anchoring the checkout flow and secondary actions while the lime green and a safety-orange #ff4200 handle the high-energy moments. The canvas is a near-black #121212, not pure #000, giving the UI a slight atmospheric depth that prevents eye strain during long sessions. Type is split between a geometric sans (Instrument Sans) for body and UI, and Playfair Display for hero headings — an unusual choice for gaming hardware that signals a tilt toward premium, editorial presentation rather than gamer-argot. Rounded corners are minimal: buttons use {rounded.sm} (8px), cards use {rounded.md} (12px), and only the search bar and avatar hit {rounded.full}. The extracted palette is unusually large (25+ colors), suggesting heavy use of Shopify checkout widgets, social icons, and stock-image dominant tones — the brand's true identity is a tighter set: #121212 canvas, #222428 surface, #108474 primary, #c8ff00 and #ff4200 as dual accents, and a warm #ee9441 for sale badges. The overall feel is that of a dark cockpit: controlled, high-contrast, with every color chosen for legibility under low-light conditions.
+name: "Pixio"
+source_url: "https://www.pixiogaming.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A performance-first gaming monitor brand that communicates through a language of dark, almost-black backgrounds (#222428) and a single, urgent accent: a neon-lime #c8ff00 that appears nowhere else in the extracted palette — not as a primary CTA, but as a voltage spike used sparingly on spec badges, sale flags, and the occasional underline. The brand's true primary is #108474, a deep teal that reads as cool and technical, anchoring the checkout flow and secondary actions while the lime green and a safety-orange #ff4200 handle the high-energy moments. The canvas is a near-black #121212, not pure #000, giving the UI a slight atmospheric depth that prevents eye strain during long sessions. Type is split between a geometric sans (Instrument Sans) for body and UI, and Playfair Display for hero headings — an unusual choice for gaming hardware that signals a tilt toward premium, editorial presentation rather than gamer-argot. Rounded corners are minimal: buttons use {rounded.sm} (8px), cards use {rounded.md} (12px), and only the search bar and avatar hit {rounded.full}. The extracted palette is unusually large (25+ colors), suggesting heavy use of Shopify checkout widgets, social icons, and stock-image dominant tones — the brand's true identity is a tighter set: #121212 canvas, #222428 surface, #108474 primary, #c8ff00 and #ff4200 as dual accents, and a warm #ee9441 for sale badges. The overall feel is that of a dark cockpit: controlled, high-contrast, with every color chosen for legibility under low-light conditions.
 
 colors:
   primary: "#108474"
@@ -590,6 +594,8 @@ components:
 - Tab labels may truncate or show only icons on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Font-family declarations extracted as obfuscated identifiers (Font-1767735084823, etc.). Actual font names inferred from "Instrument Sans" and "Playfair Display" found in the list — these may be the brand's true fonts, but the obfuscated names suggest a font-loading system (possibly Shopify Fonts or a custom loader). The exact font stack for each weight is uncertain.
 - Hover and active states for most components are inferred from common patterns, not extracted from the live site. The extracted palette includes many colors that may be hover states (e.g., #006400, #8b0000) but their exact usage is unknown.

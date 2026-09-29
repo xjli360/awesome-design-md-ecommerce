@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Meri Meri
-description: A children's party and nursery brand that builds its visual world on a pale, warm canvas of #fcf7f4 — a blush-tinged off-white that feels like the light in a nursery at golden hour — and then introduces voltage through a single, unexpected accent: #d96544, a dried-terracotta orange that appears on buttons, badges, and hover states, never as a background flood. The palette is restrained but not minimal: #b59677 (a dusty, almost-sage brown) and #ecced1 (a faded rose) sit alongside #222222 for body text and #54545e for captions, creating a system that reads as hand-picked rather than algorithmic. Typography is the brand's true signature: Clearface Bold, a serif with pronounced ball terminals and a warm, slightly condensed posture, is used for all display and title text — it gives every product name and heading the weight of a vintage children's book title. Halant, a softer serif with generous proportions, handles body copy, while New Atten — a rounded, friendly sans-serif — appears on buttons and navigation, creating a deliberate tension between old-world display and modern utility. Corners are soft but not pill-shaped: product cards use {rounded.md} (12px), buttons use {rounded.sm} (8px), and the search bar uses {rounded.full} only as a visual anchor. The brand avoids heavy shadows, preferring thin {colors.hairline} borders (#dedede) and subtle surface separations. The overall effect is one of curated whimsy — a party supply store that feels more like a paper-goods atelier, where every interaction is wrapped in the warmth of #f5eee6 and the quiet confidence of a brand that knows its audience values beauty over urgency.
+name: "Meri Meri"
+source_url: "https://merimeri.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A children's party and nursery brand that builds its visual world on a pale, warm canvas of #fcf7f4 — a blush-tinged off-white that feels like the light in a nursery at golden hour — and then introduces voltage through a single, unexpected accent: #d96544, a dried-terracotta orange that appears on buttons, badges, and hover states, never as a background flood. The palette is restrained but not minimal: #b59677 (a dusty, almost-sage brown) and #ecced1 (a faded rose) sit alongside #222222 for body text and #54545e for captions, creating a system that reads as hand-picked rather than algorithmic. Typography is the brand's true signature: Clearface Bold, a serif with pronounced ball terminals and a warm, slightly condensed posture, is used for all display and title text — it gives every product name and heading the weight of a vintage children's book title. Halant, a softer serif with generous proportions, handles body copy, while New Atten — a rounded, friendly sans-serif — appears on buttons and navigation, creating a deliberate tension between old-world display and modern utility. Corners are soft but not pill-shaped: product cards use {rounded.md} (12px), buttons use {rounded.sm} (8px), and the search bar uses {rounded.full} only as a visual anchor. The brand avoids heavy shadows, preferring thin {colors.hairline} borders (#dedede) and subtle surface separations. The overall effect is one of curated whimsy — a party supply store that feels more like a paper-goods atelier, where every interaction is wrapped in the warmth of #f5eee6 and the quiet confidence of a brand that knows its audience values beauty over urgency.
 
 colors:
   primary: "#d96544"
@@ -458,6 +462,8 @@ components:
 - Sidebar filters collapse to a modal overlay on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for secondary and ghost buttons could not be fully extracted; inferred from common patterns
 - Error message styling (color, typography, iconography) not observed on live site

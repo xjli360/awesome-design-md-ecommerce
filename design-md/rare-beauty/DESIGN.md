@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Rare Beauty
-description: Rare Beauty by Selena Gomez is a vegan and cruelty-free makeup brand that radiates warmth, inclusivity, and a soft, approachable confidence. The brand's visual identity is anchored in a rich, berry-burgundy primary palette, with `#7f2549` and `#6f0f38` serving as the deep, romantic core for primary buttons, badges, and key accents. This intensity is balanced by a delicate, sun-kissed secondary palette of peach and terracotta tones (`#ffdcc6`, `#ebb288`, `#e5955b`, `c86128`), which appear in product photography overlays, gradient backgrounds, and soft surface tints. A clean, off-white canvas (`#fdfbf8`) provides a breathable, editorial backdrop, while a deep navy ink (`#000914`) grounds body text and high-contrast UI elements. The brand makes deliberate use of `{rounded.full}` pill shapes for CTAs and `{rounded.lg}` for product cards, creating a tactile, friendly feel that mirrors the brand's "makeup made to feel good" philosophy. Typography relies on a clean, humanist sans-serif stack, featuring Neue Hass Unica Bold and Regular as the primary voice, with `-apple-system` and `San Francisco` as fallbacks for a crisp, native reading experience on all devices. Signature design moves include the use of a soft, blush-toned surface (`#fdf6f0`) for cards and modals, a muted gray (`#dedede`) for hairline borders, and a vibrant, optimistic sky blue (`#5bbad5`, `#1990c6`) for secondary accents and limited-edition packaging highlights. The overall feeling is one of gentle luxury — not austere or cold, but inviting, human, and emotionally resonant.
+name: "Rare Beauty"
+source_url: "https://www.rarebeauty.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Rare Beauty by Selena Gomez is a vegan and cruelty-free makeup brand that radiates warmth, inclusivity, and a soft, approachable confidence. The brand's visual identity is anchored in a rich, berry-burgundy primary palette, with `#7f2549` and `#6f0f38` serving as the deep, romantic core for primary buttons, badges, and key accents. This intensity is balanced by a delicate, sun-kissed secondary palette of peach and terracotta tones (`#ffdcc6`, `#ebb288`, `#e5955b`, `c86128`), which appear in product photography overlays, gradient backgrounds, and soft surface tints. A clean, off-white canvas (`#fdfbf8`) provides a breathable, editorial backdrop, while a deep navy ink (`#000914`) grounds body text and high-contrast UI elements. The brand makes deliberate use of `{rounded.full}` pill shapes for CTAs and `{rounded.lg}` for product cards, creating a tactile, friendly feel that mirrors the brand's "makeup made to feel good" philosophy. Typography relies on a clean, humanist sans-serif stack, featuring Neue Hass Unica Bold and Regular as the primary voice, with `-apple-system` and `San Francisco` as fallbacks for a crisp, native reading experience on all devices. Signature design moves include the use of a soft, blush-toned surface (`#fdf6f0`) for cards and modals, a muted gray (`#dedede`) for hairline borders, and a vibrant, optimistic sky blue (`#5bbad5`, `#1990c6`) for secondary accents and limited-edition packaging highlights. The overall feeling is one of gentle luxury — not austere or cold, but inviting, human, and emotionally resonant.
 
 colors:
   primary: "#7f2549"
@@ -339,6 +343,8 @@ components:
 - Hero sections may reduce the number of visible elements, hiding secondary CTAs or decorative imagery.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components (e.g., button-secondary hover, input focus ring) were not reliably extracted and should be defined based on brand guidelines.
 - Error states for form inputs (e.g., invalid email, missing required field) are not documented.

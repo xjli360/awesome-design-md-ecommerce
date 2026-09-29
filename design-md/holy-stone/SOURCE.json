@@ -1,0 +1,994 @@
+{
+  "source_url": "https://holystone.com",
+  "final_url": "https://www.holystone.com/",
+  "captured_at": "2026-09-28T09:23:23.046061+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://holystone.com",
+      "final_url": "https://www.holystone.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "e16c7b1f8fa1fe78975a5f3a656f6429a4340e537247277173b7767f0da8699b",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://static.holystone.com/Public/Home/css/bootstrap.min.css",
+      "final_url": "https://static.holystone.com/Public/Home/css/bootstrap.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "59f32924fed452c78ddd2d3bf9931a390f4a4a268effac3516c19e541460d620",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://static.holystone.com/Public/Home/css/font-awesome.min.css",
+      "final_url": "https://static.holystone.com/Public/Home/css/font-awesome.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "d2d09c4a39acf0339c9697b5837fec5bb2bfb9f92677ac2133640b900f91925c",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://static.holystone.com/Public/Home/css/swiper.min.css",
+      "final_url": "https://static.holystone.com/Public/Home/css/swiper.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "b69ba31e745f52ce02f543f9d3aa4202372acc488104bb2db6ab79e73b55c6e7",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://static.holystone.com/Public/Home/css/reset.css?12134346",
+      "final_url": "https://static.holystone.com/Public/Home/css/reset.css?12134346",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5e84796b3770eba95524828e339787a751dd0b97fc1625f0c780ac43c49b04a9",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.holystone.com/Public/Home/css/mobile-header-unified.css?20260413-1",
+      "final_url": "https://www.holystone.com/Public/Home/css/mobile-header-unified.css?20260413-1",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d37590aa4b26f39ca49e59abf75e24aa30cb9f13962b1939eac238446acf89cf",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 311,
+      "sources": [
+        "https://www.holystone.com/",
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css",
+        "https://static.holystone.com/Public/Home/css/font-awesome.min.css",
+        "https://static.holystone.com/Public/Home/css/swiper.min.css",
+        "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+      ]
+    },
+    "#111111": {
+      "count": 93,
+      "sources": [
+        "https://www.holystone.com/"
+      ]
+    },
+    "#000000": {
+      "count": 82,
+      "sources": [
+        "https://www.holystone.com/",
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css",
+        "https://static.holystone.com/Public/Home/css/swiper.min.css",
+        "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+      ]
+    },
+    "#ff902d": {
+      "count": 48,
+      "sources": [
+        "https://www.holystone.com/",
+        "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+      ]
+    },
+    "#dddddd": {
+      "count": 38,
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css",
+        "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+      ]
+    },
+    "#666666": {
+      "count": 37,
+      "sources": [
+        "https://www.holystone.com/",
+        "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+      ]
+    },
+    "#333333": {
+      "count": 35,
+      "sources": [
+        "https://www.holystone.com/",
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css",
+        "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+      ]
+    },
+    "#577054": {
+      "count": 33,
+      "sources": [
+        "https://www.holystone.com/"
+      ]
+    },
+    "#6e8f73": {
+      "count": 33,
+      "sources": [
+        "https://www.holystone.com/"
+      ]
+    },
+    "#262626": {
+      "count": 33,
+      "sources": [
+        "https://www.holystone.com/",
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css",
+        "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+      ]
+    },
+    "#fce30d": {
+      "count": 31,
+      "sources": [
+        "https://www.holystone.com/"
+      ]
+    },
+    "#337ab7": {
+      "count": 25,
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 25,
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css",
+        "https://static.holystone.com/Public/Home/css/font-awesome.min.css",
+        "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+      ]
+    },
+    "#999999": {
+      "count": 23,
+      "sources": [
+        "https://www.holystone.com/",
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css",
+        "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+      ]
+    },
+    "#777777": {
+      "count": 23,
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "#e4e4dc": {
+      "count": 22,
+      "sources": [
+        "https://www.holystone.com/"
+      ]
+    },
+    "#ffdc40": {
+      "count": 22,
+      "sources": [
+        "https://www.holystone.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 16,
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css",
+        "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+      ]
+    },
+    "#555555": {
+      "count": 14,
+      "sources": [
+        "https://www.holystone.com/",
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css",
+        "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 14,
+      "sources": [
+        "https://www.holystone.com/",
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css",
+        "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+      ]
+    },
+    "#3c763d": {
+      "count": 14,
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "#8a6d3b": {
+      "count": 14,
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "#a94442": {
+      "count": 14,
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "#31708f": {
+      "count": 9,
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "#fcf8e3": {
+      "count": 8,
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 7,
+      "sources": [
+        "https://www.holystone.com/",
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "#9aa09c": {
+      "count": 7,
+      "sources": [
+        "https://www.holystone.com/"
+      ]
+    },
+    "#dff0d8": {
+      "count": 7,
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "#f2dede": {
+      "count": 7,
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "#edf0f5": {
+      "count": 6,
+      "sources": [
+        "https://www.holystone.com/"
+      ]
+    },
+    "#bfccb5": {
+      "count": 6,
+      "sources": [
+        "https://www.holystone.com/"
+      ]
+    },
+    "#286090": {
+      "count": 6,
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "#d9edf7": {
+      "count": 6,
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "#080808": {
+      "count": 6,
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "#9d9d9d": {
+      "count": 6,
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "#e3e3db": {
+      "count": 5,
+      "sources": [
+        "https://www.holystone.com/"
+      ]
+    },
+    "#546152": {
+      "count": 5,
+      "sources": [
+        "https://www.holystone.com/"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 5,
+      "sources": [
+        "https://www.holystone.com/",
+        "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+      ]
+    },
+    "#5cb85c": {
+      "count": 5,
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "#5bc0de": {
+      "count": 5,
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "#f0ad4e": {
+      "count": 5,
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "#d9534f": {
+      "count": 5,
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "#e7e7e7": {
+      "count": 5,
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "#d6e9c6": {
+      "count": 5,
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "#bce8f1": {
+      "count": 5,
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "#faebcc": {
+      "count": 5,
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "#ebccd1": {
+      "count": 5,
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "#f6f7f5": {
+      "count": 4,
+      "sources": [
+        "https://www.holystone.com/"
+      ]
+    },
+    "#449d44": {
+      "count": 4,
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "#31b0d5": {
+      "count": 4,
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "#ec971f": {
+      "count": 4,
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "#c9302c": {
+      "count": 4,
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "#808080": {
+      "count": 4,
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+      ]
+    },
+    "#27aae2": {
+      "count": 4,
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+      ]
+    },
+    "#222222": {
+      "count": 3,
+      "sources": [
+        "https://www.holystone.com/",
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "#6b7280": {
+      "count": 3,
+      "sources": [
+        "https://www.holystone.com/"
+      ]
+    },
+    "#e9ece7": {
+      "count": 3,
+      "sources": [
+        "https://www.holystone.com/"
+      ]
+    },
+    "#f4f5f2": {
+      "count": 3,
+      "sources": [
+        "https://www.holystone.com/"
+      ]
+    },
+    "#f3f4f6": {
+      "count": 3,
+      "sources": [
+        "https://www.holystone.com/"
+      ]
+    },
+    "#4f6b54": {
+      "count": 3,
+      "sources": [
+        "https://www.holystone.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.holystone.com/",
+      "https://static.holystone.com/Public/Home/css/bootstrap.min.css",
+      "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+    ],
+    "Consolas": [
+      "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+    ],
+    "Courier New": [
+      "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+    ],
+    "FontAwesome": [
+      "https://static.holystone.com/Public/Home/css/font-awesome.min.css",
+      "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+    ],
+    "Glyphicons Halflings": [
+      "https://static.holystone.com/Public/Home/css/bootstrap.min.css",
+      "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+    ],
+    "Helvetica": [
+      "https://static.holystone.com/Public/Home/css/bootstrap.min.css",
+      "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+    ],
+    "Helvetica Neue": [
+      "https://www.holystone.com/",
+      "https://static.holystone.com/Public/Home/css/bootstrap.min.css",
+      "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+    ],
+    "Holystone": [
+      "https://www.holystone.com/",
+      "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+    ],
+    "Menlo": [
+      "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+    ],
+    "Microsoft YaHei": [
+      "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+    ],
+    "Monaco": [
+      "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+    ],
+    "Poppins": [
+      "https://www.holystone.com/",
+      "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+    ],
+    "VideoJS": [
+      "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+    ],
+    "arial": [
+      "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+    ],
+    "cursive": [
+      "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+    ],
+    "monospace": [
+      "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+    ],
+    "sans-serif": [
+      "https://www.holystone.com/",
+      "https://static.holystone.com/Public/Home/css/bootstrap.min.css",
+      "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+    ],
+    "sans-serif !important": [
+      "https://www.holystone.com/"
+    ],
+    "serif": [
+      "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+    ],
+    "宋体": [
+      "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+    ],
+    "微软雅黑": [
+      "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.holystone.com/",
+      "selector": "header.navbar-fixed-top .icon-wrap .user-box .user-menu a",
+      "declarations": "display: block;\n        padding: 6px 12px;\n        color: #555;\n        font-weight: 500;\n        text-shadow: none;"
+    },
+    {
+      "source": "https://www.holystone.com/",
+      "selector": "header.navbar-fixed-top .icon-wrap .user-box .user-menu a:hover",
+      "declarations": "background: #f5f5f5;\n        color: #222;\n        text-shadow: none;"
+    },
+    {
+      "source": "https://www.holystone.com/",
+      "selector": ":root",
+      "declarations": "--header-h: 74px;"
+    },
+    {
+      "source": "https://www.holystone.com/",
+      "selector": ":root",
+      "declarations": "--header-h: 74px;"
+    },
+    {
+      "source": "https://www.holystone.com/",
+      "selector": "body.is-shop-open .hs-shop-toggle",
+      "declarations": "background: #fce30d;\n    color: #000;\n    border: 0;\n    box-shadow: none;\n    outline: none;"
+    },
+    {
+      "source": "https://www.holystone.com/",
+      "selector": ":root",
+      "declarations": "--hs-mint: #bfccb5;"
+    },
+    {
+      "source": "https://www.holystone.com/",
+      "selector": ":root",
+      "declarations": "--hs-panel: #eef3ee;\n  --hs-text: #111;"
+    },
+    {
+      "source": "https://www.holystone.com/",
+      "selector": ".header-contant .nav-ul2.cat13 .cat13-title",
+      "declarations": "margin: 0 0 4px;\n  font-size: 16px;\n  font-weight: 800;\n  color: rgba(0,0,0,.88);"
+    },
+    {
+      "source": "https://www.holystone.com/",
+      "selector": ".header-contant .nav-ul2.cat13 .cat13-sub-title",
+      "declarations": "margin: 0 0 14px;\n  font-size: 12px;\n  font-weight: 600;\n  color: rgba(0,0,0,.52);"
+    },
+    {
+      "source": "https://www.holystone.com/",
+      "selector": ".header-contant .nav-ul2.cat13 .cat13-list a",
+      "declarations": "display: inline-flex;\n  align-items: center;\n\n  padding: 6px 8px;\n  border-radius: 10px;\n\n  font-size: 13px;\n  font-weight: 700;\n  color: rgba(0,0,0,.84);\n  text-decoration: none;\n\n  transition: background .18s ease, transform .18s ease, color .18s ease;"
+    },
+    {
+      "source": "https://www.holystone.com/",
+      "selector": ".header-contant .nav-ul2.cat13 .cat13-list a:hover",
+      "declarations": "background: rgba(255,255,255,.80);\n  transform: translateX(2px);\n  color: #000;"
+    },
+    {
+      "source": "https://www.holystone.com/",
+      "selector": ".header-contant .nav-ul2.cat13 .cat13-actions-list a",
+      "declarations": "display: flex;\n  align-items: center;\n  justify-content: center;\n\n  height: 46px;\n  padding: 0 14px;\n  border-radius: 12px;\n\n  background: #1f1f1f;\n  color: #fff;\n  font-size: 14px;\n  font-weight: 800;\n  text-decoration: none;\n\n  box-shadow: 0 10px 24px rgba(0,0,0,.18);\n  transition: transform .18s ease, box-shadow .18s ease, background .18s ease;"
+    },
+    {
+      "source": "https://www.holystone.com/",
+      "selector": ".header-contant .nav-ul2-wrap > ul.nav-ul2.cat13 .cat13-title",
+      "declarations": "background: transparent !important;\n  border: 0 !important;\n  padding: 0 !important;\n  margin: 0 0 4px !important;\n\n  font-size: 16px !important;\n  font-weight: 900 !important;\n  color: rgba(0,0,0,.90) !important;"
+    },
+    {
+      "source": "https://www.holystone.com/",
+      "selector": ":root",
+      "declarations": "--hs-yellow: #fce30d;\n  --hs-green:  #577054;\n\n  --hs-ink:    rgba(0,0,0,.86);\n  --hs-muted:  rgba(0,0,0,.52);\n  --hs-line:   rgba(0,0,0,.08);\n\n  --hs-bg-1:   #edf0f5; \n  --hs-bg-2:   #e3e3db;"
+    },
+    {
+      "source": "https://www.holystone.com/",
+      "selector": ".header-contant .nav-ul2-wrap > ul.nav-ul2.cat13 .cat13-sub-title",
+      "declarations": "margin: 0 0 14px !important;\n  font-size: 12px !important;\n  font-weight: 700 !important;\n  color: rgba(0,0,0,.50) !important;\n\n  background: transparent !important;\n  border: 0 !important;\n  padding: 0 !important;"
+    },
+    {
+      "source": "https://www.holystone.com/",
+      "selector": ".header-contant .nav-ul2-wrap > ul.nav-ul2.cat13 .cat13-list a",
+      "declarations": "font-weight: 800 !important;\n  color: rgba(0,0,0,.82) !important;\n  padding: 7px 8px !important;\n  border-radius: 12px !important;"
+    },
+    {
+      "source": "https://www.holystone.com/",
+      "selector": ".header-contant .nav-ul2-wrap > ul.nav-ul2.cat13 .cat13-more a",
+      "declarations": "background: rgba(238,243,238,.90) !important;\n  border-color: rgba(87,112,84,.28) !important;\n  color: var(--hs-green) !important;\n  font-weight: 700 !important;"
+    },
+    {
+      "source": "https://www.holystone.com/",
+      "selector": ".header-contant .nav-ul2.cat-about .hs-about-menu-item,\n.header-contant .nav-ul2.cat-blog .hs-blog-menu-item",
+      "declarations": "display: block;\n    padding: 14px 22px;\n    font-size: 17px;\n    line-height: 1.35;\n    background: transparent;\n    color: #546152 !important;\n    text-decoration: none;\n    border-radius: 16px;\n    transition: all .2s ease;"
+    },
+    {
+      "source": "https://www.holystone.com/",
+      "selector": "item:hover,\n.header-contant .nav-ul2.cat-about .hs-about-menu-item.is-active,\n.header-contant .nav-ul2.cat-blog .hs-blog-menu-item:hover,\n.header-contant .nav-u",
+      "declarations": "color: #3f5342 !important;\n    font-weight: 600;"
+    },
+    {
+      "source": "https://www.holystone.com/",
+      "selector": ".header-contant .nav-ul2.cat-about .hs-about-menu-item:hover,\n.header-contant .nav-ul2.cat-blog .hs-blog-menu-item:hover",
+      "declarations": "background: rgba(87,112,84,0.08) !important;\n    color: #577054 !important;\n    font-weight: 400;\n    transform: translateX(2px);"
+    },
+    {
+      "source": "https://www.holystone.com/",
+      "selector": ".header-contant .nav-ul2.cat-about .hs-about-menu-item.is-active,\n.header-contant .nav-ul2.cat-blog .hs-blog-menu-item.is-active",
+      "declarations": "background: #bfccb5 !important;\n    color: #3f5342 !important;\n    font-weight: 600;"
+    },
+    {
+      "source": "https://www.holystone.com/",
+      "selector": ".header-contant .nav-ul2.cat-about .hs-about-preview-tag,\n.header-contant .nav-ul2.cat-blog .hs-blog-preview-tag",
+      "declarations": "margin: 0 0 12px;\n    font-size: 12px;\n    font-weight: 700;\n    letter-spacing: 0.08em;\n    color: #8a9488;\n    text-transform: uppercase;"
+    },
+    {
+      "source": "https://www.holystone.com/",
+      "selector": ".header-contant .nav-ul2.cat-about .hs-about-preview-copy h3,\n.header-contant .nav-ul2.cat-blog .hs-blog-preview-copy h3",
+      "declarations": "margin: 0 0 14px;\n    font-size: 26px;\n    line-height: 1.16;\n    font-weight: 700;\n    color: #1c221d;"
+    },
+    {
+      "source": "https://www.holystone.com/",
+      "selector": ".header-contant .nav-ul2.cat-about .hs-about-preview-copy p,\n.header-contant .nav-ul2.cat-blog .hs-blog-preview-copy p",
+      "declarations": "margin: 0;\n    font-size: 15px;\n    line-height: 1.5;\n    color: #6d766d;\n    max-width: 430px;"
+    },
+    {
+      "source": "https://www.holystone.com/",
+      "selector": ".header-contant .nav-ul2.cat-about .hs-about-preview-btn,\n.header-contant .nav-ul2.cat-blog .hs-blog-preview-btn",
+      "declarations": "display: inline-flex;\n    align-items: center;\n    justify-content: center;\n    min-width: 98px;\n    height: 38px;\n    padding: 0 18px;\n    border-radius: 999px;\n    background: #edf2eb;\n    border: 1px solid #cfd8cf;\n    color: #5d675c !important;\n    font-size: 14px;\n    font-weight: 500;\n    text-decoration: none;\n    transition: all .2s ease;"
+    },
+    {
+      "source": "https://www.holystone.com/",
+      "selector": ".header-contant .nav-ul2.cat-about .hs-about-preview-btn:hover,\n.header-contant .nav-ul2.cat-blog .hs-blog-preview-btn:hover",
+      "declarations": "background: #577054;\n    border-color: #577054;\n    color: #fff !important;"
+    },
+    {
+      "source": "https://www.holystone.com/",
+      "selector": ".hs-mobile-menu__item i,\n.hs-mobile-menu__item--button i",
+      "declarations": "color: rgba(0,0,0,.35) !important;\n    font-size: 18px !important;"
+    },
+    {
+      "source": "https://www.holystone.com/",
+      "selector": ".hs-mobile-menu__item:active i,\n.hs-mobile-menu__item:hover i,\n.hs-mobile-menu__item--button:active i,\n.hs-mobile-menu__item--button:hover i",
+      "declarations": "color: #577054 !important;"
+    },
+    {
+      "source": "https://www.holystone.com/",
+      "selector": ".hs-mobile-menu__main .hs-mobile-menu__item,\n.hs-mobile-menu__main .hs-mobile-menu__item--button",
+      "declarations": "display: flex;\n    align-items: center;\n    justify-content: space-between;\n    min-height: 58px;\n    color: #262626 !important;\n    text-decoration: none !important;\n    font-size: 17px;\n    font-weight: 600;\n    letter-spacing: -.01em;\n    background: transparent !important;\n    transition: color .18s ease, transform .18s ease;"
+    },
+    {
+      "source": "https://www.holystone.com/",
+      "selector": ".hs-mobile-menu__item i,\n.hs-mobile-menu__item--button i",
+      "declarations": "font-style: normal;\n    color: #9aa09c;\n    font-size: 18px;\n    transition: transform .18s ease, color .18s ease;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Holy Stone - Dare to Fly. Soar to Live",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.holystone.com/"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.holystone.com/"
+      ]
+    },
+    "colors.accent-yellow": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.holystone.com/"
+      ]
+    },
+    "colors.accent-orange": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.holystone.com/",
+        "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.holystone.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.holystone.com/",
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css",
+        "https://static.holystone.com/Public/Home/css/font-awesome.min.css",
+        "https://static.holystone.com/Public/Home/css/swiper.min.css",
+        "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.holystone.com/",
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css",
+        "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.holystone.com/",
+        "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+      ]
+    },
+    "colors.muted-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.holystone.com/",
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css",
+        "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css",
+        "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+      ]
+    },
+    "colors.hairline-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.holystone.com/",
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.holystone.com/"
+      ]
+    },
+    "colors.surface-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.holystone.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.holystone.com/",
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css",
+        "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+      ]
+    },
+    "colors.mint": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.holystone.com/"
+      ]
+    },
+    "colors.dark-surface": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.holystone.com/",
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css",
+        "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.holystone.com/",
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css",
+        "https://static.holystone.com/Public/Home/css/font-awesome.min.css",
+        "https://static.holystone.com/Public/Home/css/swiper.min.css",
+        "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+      ]
+    },
+    "colors.on-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.holystone.com/",
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css",
+        "https://static.holystone.com/Public/Home/css/font-awesome.min.css",
+        "https://static.holystone.com/Public/Home/css/swiper.min.css",
+        "https://static.holystone.com/Public/Home/css/reset.css?12134346"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "colors.success-ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "colors.warning-ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "colors.danger-ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "colors.info-ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static.holystone.com/Public/Home/css/bootstrap.min.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-chip": {
+      "status": "inferred"
+    }
+  }
+}

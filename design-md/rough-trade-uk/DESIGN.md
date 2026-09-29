@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Rough Trade UK
-description: A record shop that never stopped being a record shop — #404040 ink on #ffffff canvas, with #bd2426 as the sole voltage that says "buy this record" or "this is the price." That red, a dried-blood brick tone, appears on price tags, add-to-cart buttons, and the sale badge, and it never appears anywhere else: no decorative flourishes, no gradient hero sections, no brand-pattern backgrounds. The site reads like a shelf. Type is system sans-serif at modest sizes — body sits at 14–16px in weight 400, titles at 18–22px in weight 600 — because the content is the cover art and the tracklist, not the typography. Product cards use `{rounded.none}` corners and `{spacing.sm}` padding; there is no pill-shaped anything except the search input, which gets `{rounded.full}` as a quiet functional gesture. The nav bar is a single dark strip at `{colors.ink}` with white links, no mega-menu, no illustrations, no "NEW" badges. This is a site that trusts you know what you want. The secondary palette — #62a1d8 for pre-order badges, #9bca3e for in-stock indicators, #f68b1f for limited-edition flags — reads like warehouse bin tags, not a brand system. The footer is dense with shipping policies, store addresses, and label directories, all at `{typography.caption}` size in `{colors.muted}`. The design is not quiet luxury; it is loud utility, a digital version of flipping through bins in a basement on Talbot Road.
+name: "Rough Trade UK"
+source_url: "https://www.roughtrade.com/en-gb"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A record shop that never stopped being a record shop — #404040 ink on #ffffff canvas, with #bd2426 as the sole voltage that says "buy this record" or "this is the price." That red, a dried-blood brick tone, appears on price tags, add-to-cart buttons, and the sale badge, and it never appears anywhere else: no decorative flourishes, no gradient hero sections, no brand-pattern backgrounds. The site reads like a shelf. Type is system sans-serif at modest sizes — body sits at 14–16px in weight 400, titles at 18–22px in weight 600 — because the content is the cover art and the tracklist, not the typography. Product cards use `{rounded.none}` corners and `{spacing.sm}` padding; there is no pill-shaped anything except the search input, which gets `{rounded.full}` as a quiet functional gesture. The nav bar is a single dark strip at `{colors.ink}` with white links, no mega-menu, no illustrations, no "NEW" badges. This is a site that trusts you know what you want. The secondary palette — #62a1d8 for pre-order badges, #9bca3e for in-stock indicators, #f68b1f for limited-edition flags — reads like warehouse bin tags, not a brand system. The footer is dense with shipping policies, store addresses, and label directories, all at `{typography.caption}` size in `{colors.muted}`. The design is not quiet luxury; it is loud utility, a digital version of flipping through bins in a basement on Talbot Road.
 
 colors:
   primary: "#bd2426"
@@ -441,6 +445,8 @@ components:
 - Sidebar (if present on category pages) collapses to a top section on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Extracted hex colors are heavily weighted toward grays (#404040, #ebebeb, #dedede, #595959, #737373, #272727, #bfbfbf) and blues (#62a1d8, #2f7bbf, #163959, #0051c3), which may include Shopify checkout widget colors and social media icon colors. The brand's true primary (#bd2426) was identified as the most distinctive non-gray, non-blue color in the list.
 - Font-family declarations were system-only (-apple-system, Arial, BlinkMacSystemFont, Helvetica Neue, Oxygen, Roboto, Segoe UI, Ubuntu, courier, monaco, monospace, sans-serif). No custom brand font was detected. The site may use a web font that wasn't captured in the extraction.

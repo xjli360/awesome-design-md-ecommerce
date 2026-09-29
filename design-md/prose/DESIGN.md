@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Prose
-description: Prose is a direct-to-consumer haircare and skincare brand that feels like a quiet, bespoke apothecary translated into digital form. The brand's visual identity is rooted in a warm, earthy palette drawn from natural ingredients and botanical extracts, anchored by a soft, almost dusty beige (#b1a49c) and a muted sage green (#b9c2a6) that evoke raw herbs and unrefined clay. These sit against a canvas of off-white (#f9f7f2) and cream (#f1ece0), creating a gentle, unbleached backdrop that feels tactile and handmade. The primary action color is a deep, forest-like olive (#4d523c), used sparingly on buttons and key interactive elements, with a darker, almost charcoal variant (#323429) for active states. Accents of pale blush (#fcded3), dried coral (#f69371), and a whisper of lavender (#ead7f3) appear in ingredient photography overlays and badge treatments, while a vibrant chartreuse (#ecff92) and fresh green (#3ab549) signal clean, plant-based formulations. Typography leans on a refined serif, Saol, for display headings — lending a literary, editorial gravity — paired with Simplon Norm for body text and Simplon Mono for technical details like ingredient percentages. The overall spacing is generous, with large section padding ({spacing.section}) and soft, pill-shaped corners ({rounded.full}) on CTAs that feel more like a gentle invitation than a hard sell. Every design decision — from the low-contrast hairline (#e2d9c2) to the use of natural fiber textures in background imagery — reinforces the core promise: truly custom, made for you, not for the shelf.
+name: "Prose"
+source_url: "https://prose.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Prose is a direct-to-consumer haircare and skincare brand that feels like a quiet, bespoke apothecary translated into digital form. The brand's visual identity is rooted in a warm, earthy palette drawn from natural ingredients and botanical extracts, anchored by a soft, almost dusty beige (#b1a49c) and a muted sage green (#b9c2a6) that evoke raw herbs and unrefined clay. These sit against a canvas of off-white (#f9f7f2) and cream (#f1ece0), creating a gentle, unbleached backdrop that feels tactile and handmade. The primary action color is a deep, forest-like olive (#4d523c), used sparingly on buttons and key interactive elements, with a darker, almost charcoal variant (#323429) for active states. Accents of pale blush (#fcded3), dried coral (#f69371), and a whisper of lavender (#ead7f3) appear in ingredient photography overlays and badge treatments, while a vibrant chartreuse (#ecff92) and fresh green (#3ab549) signal clean, plant-based formulations. Typography leans on a refined serif, Saol, for display headings — lending a literary, editorial gravity — paired with Simplon Norm for body text and Simplon Mono for technical details like ingredient percentages. The overall spacing is generous, with large section padding ({spacing.section}) and soft, pill-shaped corners ({rounded.full}) on CTAs that feel more like a gentle invitation than a hard sell. Every design decision — from the low-contrast hairline (#e2d9c2) to the use of natural fiber textures in background imagery — reinforces the core promise: truly custom, made for you, not for the shelf.
 
 colors:
   primary: "#4d523c"
@@ -366,6 +370,8 @@ components:
 - Search bar transforms from inline to full-width below 744px, appearing below the navigation
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for secondary and tertiary buttons beyond the basic color shift (no extracted data for shadow, scale, or transition timing)
 - Error state styling for forms beyond border color (no extracted data for error message typography, icon placement, or animation)

@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Eden Brothers
-description: |
+name: "Eden Brothers"
+source_url: "https://www.edenbrothers.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The pairing of Playlist Script's looping calligraphic strokes against Raleway's art-deco geometry announces the tension at the center of Eden Brothers — one letterform drawn from wild handwriting, the other built on precise geometric construction, meeting in a seed catalog that treats growing things as both science and poetry. Near-black #121212 handles all body copy and deep UI surfaces; #dedede — the only other confirmed extraction — marks the hairline grid separating product cards and filter rails. A deeper botanical green carries the primary CTA system, inferred from the brand's persistent garden identity and flagged as unconfirmed in Known Gaps below. Playlist Script appears at large display scales only: seasonal hero headlines, collection introductions, editorial callouts — lending the warmth a seed catalog earns through accumulated specificity (heirloom variety names, days-to-maturity figures, hardiness zones). Raleway handles everything operational: navigation labels at weight 600, body copy at 400, price points and category titles at 700, with its subtle Art Nouveau terminals giving even utilitarian rows a faint elegance. Fontello wires the icon layer — cart glyphs, search icons, social links — keeping UI chrome sharp at any density. The spacing system runs generous, with {spacing.section} breaks between catalog rows letting botanical photography breathe. Rounded values stay conservative: product cards and inputs at {rounded.sm}, the search bar at {rounded.full}, no pill shapes elsewhere. The product card is dense-informative rather than editorial-minimal — variety name, package size, and price stack tightly in a compact footprint designed for high-volume browsing. A persistent top bar carries search, cart, and account through scroll. The overall sensibility is a heritage mail-order seed catalog that moved to digital without losing faith in the pleasure of the dense, well-organized browse.
 
 colors:
@@ -347,6 +350,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Primary brand color unconfirmed**: Only #121212 and #dedede were extracted from the live site; the botanical green primary (#3b6b35) is inferred from brand context and must be verified against the actual site stylesheet or brand guide before production use.
 - **Full accent palette missing**: Rust accent (#b85c38), warm script-text brown (#4a3728), and surface-soft warm white (#f7f5f0) are inferred; no additional colors were extractable from the Shopify theme's CSS layer.

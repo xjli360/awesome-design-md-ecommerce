@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Bannor Toys
-description: A wooden-block warmth radiates from #f3ae5f, the marigold-orange that appears as meta-theme-color and pulses through the brand's primary buttons, sale badges, and footer accents — a color that reads like beeswax and late afternoon sun, not the synthetic neon of mass-market toy brands. The palette is anchored in natural tones: #108474 (a deep pine-green) and #93c8be (a sage-mist) form the secondary system, while #ab8c52 (warm ochre) and #e8d4ae (cream-wood) round out an earth-grounded spectrum. Typography leans on Petrona for display — a serif with gentle contrast that suggests hand-carved letter blocks — paired with Poppins and Nunito Sans for body and UI, giving the site a Montessori-classroom clarity. Product cards float on #fcfbf9 canvas with soft {rounded.sm} corners, while the primary CTA button uses {rounded.full} pill shapes in {colors.primary} with white text, echoing the smooth, sanded edges of the toys themselves. The navigation bar stays minimal: a centered logo, a hamburger on mobile, and a cart icon — no clutter, no carousel noise. The brand's Shopify platform is visible in the checkout-widget colors (#55baa7, #fb8b0b) that appear in the extracted palette, but the core design system remains resolutely analog-feeling: a digital storefront that wants you to touch the wood.
+name: "Bannor Toys"
+source_url: "https://bannortoys.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A wooden-block warmth radiates from #f3ae5f, the marigold-orange that appears as meta-theme-color and pulses through the brand's primary buttons, sale badges, and footer accents — a color that reads like beeswax and late afternoon sun, not the synthetic neon of mass-market toy brands. The palette is anchored in natural tones: #108474 (a deep pine-green) and #93c8be (a sage-mist) form the secondary system, while #ab8c52 (warm ochre) and #e8d4ae (cream-wood) round out an earth-grounded spectrum. Typography leans on Petrona for display — a serif with gentle contrast that suggests hand-carved letter blocks — paired with Poppins and Nunito Sans for body and UI, giving the site a Montessori-classroom clarity. Product cards float on #fcfbf9 canvas with soft {rounded.sm} corners, while the primary CTA button uses {rounded.full} pill shapes in {colors.primary} with white text, echoing the smooth, sanded edges of the toys themselves. The navigation bar stays minimal: a centered logo, a hamburger on mobile, and a cart icon — no clutter, no carousel noise. The brand's Shopify platform is visible in the checkout-widget colors (#55baa7, #fb8b0b) that appear in the extracted palette, but the core design system remains resolutely analog-feeling: a digital storefront that wants you to touch the wood.
 
 colors:
   primary: "#f3ae5f"
@@ -364,6 +368,8 @@ components:
 - Cart icon badge always visible regardless of breakpoint
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for product-card images (zoom, overlay, or color-swap) could not be extracted from static CSS
 - Error styling for form validation (beyond the text-input border) is inferred; actual error message typography and iconography not confirmed

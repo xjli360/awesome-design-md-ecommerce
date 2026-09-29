@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Reference Recordings
-description: A deep navy #3c65a6 anchors a catalog that has been promising "The Best Seat in the House" since 1976, a phrase that is not marketing fluff but a literal contract with the listener. The brand's visual system operates like a high-end recording session: a clean white canvas (#f5f5f5) for the body, near-white surface cards (#ebebeb) for product thumbnails, and a near-black ink (#171a21) for editorial copy that carries the weight of liner notes. The primary blue (#3c65a6) appears on the top nav bar, the primary CTA buttons, and the site's header — a cool, authoritative signal that this is a label, not a streaming service. Secondary accents surface as muted grays (#777777, #545b62) for secondary text and borders, while a suite of utility colors (#d39e00 for warnings, #1e7e34 for success, #bd2130 for errors) suggests a checkout and account system that prioritizes clarity over charm. Typography runs system-native — Arial, Helvetica Neue, and their fallbacks — in a pragmatic, no-nonsense stack that prioritizes legibility over personality. Buttons use a modest {rounded.sm} radius, product cards a slightly softer {rounded.md}, and the overall spacing rhythm is generous ({spacing.base} gutters, {spacing.lg} between sections) to let the album art breathe. The brand does not chase trends; it builds a quiet, trustworthy container for the music.
+name: "Reference Recordings"
+source_url: "https://www.referencerecordings.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep navy #3c65a6 anchors a catalog that has been promising "The Best Seat in the House" since 1976, a phrase that is not marketing fluff but a literal contract with the listener. The brand's visual system operates like a high-end recording session: a clean white canvas (#f5f5f5) for the body, near-white surface cards (#ebebeb) for product thumbnails, and a near-black ink (#171a21) for editorial copy that carries the weight of liner notes. The primary blue (#3c65a6) appears on the top nav bar, the primary CTA buttons, and the site's header — a cool, authoritative signal that this is a label, not a streaming service. Secondary accents surface as muted grays (#777777, #545b62) for secondary text and borders, while a suite of utility colors (#d39e00 for warnings, #1e7e34 for success, #bd2130 for errors) suggests a checkout and account system that prioritizes clarity over charm. Typography runs system-native — Arial, Helvetica Neue, and their fallbacks — in a pragmatic, no-nonsense stack that prioritizes legibility over personality. Buttons use a modest {rounded.sm} radius, product cards a slightly softer {rounded.md}, and the overall spacing rhythm is generous ({spacing.base} gutters, {spacing.lg} between sections) to let the album art breathe. The brand does not chase trends; it builds a quiet, trustworthy container for the music.
 
 colors:
   primary: "#3c65a6"
@@ -403,6 +407,8 @@ components:
 - Breadcrumbs may truncate on mobile, showing only the current page and a "Back" link.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and active states for most components were inferred from common patterns; the live site's actual hover colors (e.g., for nav links, product cards, secondary buttons) could not be reliably extracted.
 - Error, warning, success, and info colors were derived from Bootstrap-like utility classes present in the extracted hex list; the brand may use custom variants for these states.

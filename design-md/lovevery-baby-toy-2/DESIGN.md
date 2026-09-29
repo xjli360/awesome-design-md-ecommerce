@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Lovevery
-description: A deep navy #131c66 anchors Lovevery's entire system — not as a background but as the brand's primary voltage, appearing on buttons, headlines, and the top navigation bar. This is a brand built for parents who research developmental milestones the way others research vacation destinations; the palette is deliberately restrained (navy, white, and warm gray #514f4e) with precise accent injections of lime #bbdc00, coral #ff9955, and teal #60cbc2 that map to play-kit age ranges and developmental categories. The typography runs BrownPro at moderate weights — display sits at 24–32px in weight 500/600 rather than heavy 700+, letting the product photography of wooden toys and baby faces carry emotional weight. Cards use soft 12px radii (`{rounded.md}`), buttons use 8px (`{rounded.sm}`), and the search bar uses 32px (`{rounded.xl}`) — a graduated rounding system that reads as intentional without being saccharine. The brand's signature move is the "stage" badge: a small navy pill with white text and a lime or coral dot that signals which developmental stage a toy serves, turning a logistical detail into a visual system. White space is generous — section padding runs 64px (`{spacing.section}`) — and the footer is a dense, organized grid of links in muted gray #9ca3af on a soft canvas #f5f7fc, reflecting a brand that respects its customer's need for information without visual noise.
+name: "Lovevery"
+source_url: "https://lovevery.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep navy #131c66 anchors Lovevery's entire system — not as a background but as the brand's primary voltage, appearing on buttons, headlines, and the top navigation bar. This is a brand built for parents who research developmental milestones the way others research vacation destinations; the palette is deliberately restrained (navy, white, and warm gray #514f4e) with precise accent injections of lime #bbdc00, coral #ff9955, and teal #60cbc2 that map to play-kit age ranges and developmental categories. The typography runs BrownPro at moderate weights — display sits at 24–32px in weight 500/600 rather than heavy 700+, letting the product photography of wooden toys and baby faces carry emotional weight. Cards use soft 12px radii (`{rounded.md}`), buttons use 8px (`{rounded.sm}`), and the search bar uses 32px (`{rounded.xl}`) — a graduated rounding system that reads as intentional without being saccharine. The brand's signature move is the "stage" badge: a small navy pill with white text and a lime or coral dot that signals which developmental stage a toy serves, turning a logistical detail into a visual system. White space is generous — section padding runs 64px (`{spacing.section}`) — and the footer is a dense, organized grid of links in muted gray #9ca3af on a soft canvas #f5f7fc, reflecting a brand that respects its customer's need for information without visual noise.
 
 colors:
   primary: "#131c66"
@@ -412,6 +416,8 @@ components:
 - Stage badges stack vertically on mobile to accommodate longer age-range labels
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for many components were inferred from common patterns rather than extracted from the live site
 - Error states for forms (validation messages, error icons) were not observed

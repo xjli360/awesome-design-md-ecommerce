@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Well Go USA
-description: A deep blue #003399 anchors Well Go USA’s digital storefront — not a friendly sky blue but a serious, cinematic navy that carries the full weight of the brand’s action and martial-arts catalog. Against a black #090808 canvas, this primary blue reads as the voltage of a movie poster’s title treatment, commanding attention without shouting. Two accents cut through the darkness: a marigold #ffc60b that appears on hover states and secondary badges, and a burnt orange #da532c (the theme-color) that flares on CTAs and promotional banners like a stunt explosion. The typography system is absent from extraction — no font-family declarations were found — suggesting a system-ui fallback stack that lets the film stills, poster art, and trailer thumbnails do the expressive work. Cards and navigation panels sit on #5d5d65 muted surfaces, creating a layered hierarchy where the hero image or video player dominates the viewport. The brand trusts its visual assets over typographic ornament: a film’s one-sheet poster is the real headline, and the UI gets out of the way with compact spacing, thin hairlines, and a restrained use of `{rounded.sm}` on buttons and `{rounded.md}` on media cards. The result is a utilitarian, high-contrast interface that feels like browsing a festival catalog — functional, genre-aware, and built to let the movies sell themselves.
+name: "Well Go USA"
+source_url: "https://www.wellgousa.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep blue #003399 anchors Well Go USA’s digital storefront — not a friendly sky blue but a serious, cinematic navy that carries the full weight of the brand’s action and martial-arts catalog. Against a black #090808 canvas, this primary blue reads as the voltage of a movie poster’s title treatment, commanding attention without shouting. Two accents cut through the darkness: a marigold #ffc60b that appears on hover states and secondary badges, and a burnt orange #da532c (the theme-color) that flares on CTAs and promotional banners like a stunt explosion. The typography system is absent from extraction — no font-family declarations were found — suggesting a system-ui fallback stack that lets the film stills, poster art, and trailer thumbnails do the expressive work. Cards and navigation panels sit on #5d5d65 muted surfaces, creating a layered hierarchy where the hero image or video player dominates the viewport. The brand trusts its visual assets over typographic ornament: a film’s one-sheet poster is the real headline, and the UI gets out of the way with compact spacing, thin hairlines, and a restrained use of `{rounded.sm}` on buttons and `{rounded.md}` on media cards. The result is a utilitarian, high-contrast interface that feels like browsing a festival catalog — functional, genre-aware, and built to let the movies sell themselves.
 
 colors:
   primary: "#003399"
@@ -367,6 +371,8 @@ components:
 - Footer links stack vertically on mobile, arranged in a single column.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No font-family declarations were found on the live site; the typography block uses a system-ui fallback stack. The brand may use a custom font (e.g., a licensed typeface for posters) that is not applied via CSS on the HTML pages.
 - Hover and focus states for text inputs, buttons, and links are inferred from common patterns; exact color values for `button-secondary` hover (semi-transparent overlay) and `text-input-focus` border are not confirmed from extraction.

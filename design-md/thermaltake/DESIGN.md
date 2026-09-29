@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: ThermalTake
-description: A high-contrast gaming ecosystem built on a foundation of deep grays (#222222, #303030, #343434) and a single electric accent — #006bb4, a cool, saturated blue that appears on every primary CTA, navigation highlight, and product badge. The palette is deliberately restrained: the brand trusts its hardware's RGB lighting and liquid-cooling loops to provide the color, not the interface itself. Surfaces stack from #f8f8f8 canvas through #e5e5e5 hairline to #c6c6c6 muted, creating a clean, almost industrial hierarchy that reads as serious and performance-oriented. The one exception is #e02b27, a warning red used sparingly for sale tags and error states, and #ff5501, an orange accent that occasionally surfaces on limited-edition or "Toughpower" branded components. Typography runs Open Sans and Roboto at moderate weights — display heads sit at 500–600 weight rather than the aggressive 700+ common in gaming, signaling that ThermalTake positions itself as premium hardware rather than esports spectacle. Buttons carry {rounded.sm} corners (8px) — enough to feel intentional, not soft. Product cards use {rounded.md} (12px) with subtle #e5e5e5 borders, and the nav bar is a full-width #222222 strip with white text, a classic dark-header gaming layout. The overall impression is of a toolmaker's interface: functional, high-contrast, and designed to recede behind the glowing hardware it sells.
+name: "ThermalTake"
+source_url: "https://www.thermaltake.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A high-contrast gaming ecosystem built on a foundation of deep grays (#222222, #303030, #343434) and a single electric accent — #006bb4, a cool, saturated blue that appears on every primary CTA, navigation highlight, and product badge. The palette is deliberately restrained: the brand trusts its hardware's RGB lighting and liquid-cooling loops to provide the color, not the interface itself. Surfaces stack from #f8f8f8 canvas through #e5e5e5 hairline to #c6c6c6 muted, creating a clean, almost industrial hierarchy that reads as serious and performance-oriented. The one exception is #e02b27, a warning red used sparingly for sale tags and error states, and #ff5501, an orange accent that occasionally surfaces on limited-edition or "Toughpower" branded components. Typography runs Open Sans and Roboto at moderate weights — display heads sit at 500–600 weight rather than the aggressive 700+ common in gaming, signaling that ThermalTake positions itself as premium hardware rather than esports spectacle. Buttons carry {rounded.sm} corners (8px) — enough to feel intentional, not soft. Product cards use {rounded.md} (12px) with subtle #e5e5e5 borders, and the nav bar is a full-width #222222 strip with white text, a classic dark-header gaming layout. The overall impression is of a toolmaker's interface: functional, high-contrast, and designed to recede behind the glowing hardware it sells.
 
 colors:
   primary: "#006bb4"
@@ -423,6 +427,8 @@ components:
 - Search bar collapses to icon-only on mobile, expanding on tap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact hover/focus/active state colors for all interactive elements could not be reliably extracted from the live site; some states are inferred from common patterns
 - Dark mode variant is not present on the live site; all extracted colors are from light mode

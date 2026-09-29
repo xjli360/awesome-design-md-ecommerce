@@ -1,0 +1,816 @@
+{
+  "source_url": "https://skil.com",
+  "final_url": "https://www.skil.com/",
+  "captured_at": "2026-09-28T09:18:33.736673+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://skil.com",
+      "final_url": "https://www.skil.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "1382022f06559cf45c6fc3c065c5e65acb3745ef06d96fd5c2cef3013735fb42",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.skil.com/cdn/shop/t/3/assets/theme.css?v=106190766008217881441753823962",
+      "final_url": "https://www.skil.com/cdn/shop/t/3/assets/theme.css?v=106190766008217881441753823962",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "76699a5d501caa082db037375a80ad4a580322fe902046b8c623a1b7c331fc61",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.skil.com/cdn/shop/t/3/assets/base.css?v=111251223312986764771751326690",
+      "final_url": "https://www.skil.com/cdn/shop/t/3/assets/base.css?v=111251223312986764771751326690",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "de19e42b602ebd15181fee7b8440427daf43b78dcdb7057b892b3d2375c0de84",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.skil.com/cdn/shop/t/3/assets/grid.css?v=28924291292930933171788963042",
+      "final_url": "https://www.skil.com/cdn/shop/t/3/assets/grid.css?v=28924291292930933171788963042",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ac523ba478d8be7213da7c9dbc1328f8980016d6fe07318834cb1a76846fd080",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.skil.com/cdn/shop/t/3/assets/components.css?v=42495237851213796731754428838",
+      "final_url": "https://www.skil.com/cdn/shop/t/3/assets/components.css?v=42495237851213796731754428838",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "8812677d7c40ded5bd6a302f2981ebc63422975f6462f3499c5bc56f746d3418",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.skil.com/cdn/shop/t/3/assets/plugins.min.css?v=136786493855653801981771884259",
+      "final_url": "https://www.skil.com/cdn/shop/t/3/assets/plugins.min.css?v=136786493855653801981771884259",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "45103fe7808e1e23aadf2725159d6dd6c55c33872601ede9cdb585336cbf0603",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 288,
+      "sources": [
+        "https://www.skil.com/",
+        "https://www.skil.com/cdn/shop/t/3/assets/theme.css?v=106190766008217881441753823962",
+        "https://www.skil.com/cdn/shop/t/3/assets/base.css?v=111251223312986764771751326690",
+        "https://www.skil.com/cdn/shop/t/3/assets/components.css?v=42495237851213796731754428838",
+        "https://www.skil.com/cdn/shop/t/3/assets/plugins.min.css?v=136786493855653801981771884259"
+      ]
+    },
+    "#222222": {
+      "count": 260,
+      "sources": [
+        "https://www.skil.com/"
+      ]
+    },
+    "#444444": {
+      "count": 111,
+      "sources": [
+        "https://www.skil.com/"
+      ]
+    },
+    "#ededed": {
+      "count": 84,
+      "sources": [
+        "https://www.skil.com/"
+      ]
+    },
+    "#000000": {
+      "count": 56,
+      "sources": [
+        "https://www.skil.com/",
+        "https://www.skil.com/cdn/shop/t/3/assets/theme.css?v=106190766008217881441753823962",
+        "https://www.skil.com/cdn/shop/t/3/assets/base.css?v=111251223312986764771751326690",
+        "https://www.skil.com/cdn/shop/t/3/assets/components.css?v=42495237851213796731754428838",
+        "https://www.skil.com/cdn/shop/t/3/assets/plugins.min.css?v=136786493855653801981771884259"
+      ]
+    },
+    "#e97750": {
+      "count": 30,
+      "sources": [
+        "https://www.skil.com/"
+      ]
+    },
+    "#333333": {
+      "count": 24,
+      "sources": [
+        "https://www.skil.com/",
+        "https://www.skil.com/cdn/shop/t/3/assets/components.css?v=42495237851213796731754428838"
+      ]
+    },
+    "#f6ff94": {
+      "count": 15,
+      "sources": [
+        "https://www.skil.com/"
+      ]
+    },
+    "#212322": {
+      "count": 14,
+      "sources": [
+        "https://www.skil.com/",
+        "https://www.skil.com/cdn/shop/t/3/assets/base.css?v=111251223312986764771751326690",
+        "https://www.skil.com/cdn/shop/t/3/assets/components.css?v=42495237851213796731754428838"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 13,
+      "sources": [
+        "https://www.skil.com/",
+        "https://www.skil.com/cdn/shop/t/3/assets/components.css?v=42495237851213796731754428838"
+      ]
+    },
+    "#f3f2f2": {
+      "count": 12,
+      "sources": [
+        "https://www.skil.com/"
+      ]
+    },
+    "#555555": {
+      "count": 12,
+      "sources": [
+        "https://www.skil.com/"
+      ]
+    },
+    "#f6f3ee": {
+      "count": 12,
+      "sources": [
+        "https://www.skil.com/"
+      ]
+    },
+    "#fcfaf7": {
+      "count": 12,
+      "sources": [
+        "https://www.skil.com/"
+      ]
+    },
+    "#d4e4eb": {
+      "count": 9,
+      "sources": [
+        "https://www.skil.com/"
+      ]
+    },
+    "#ede1da": {
+      "count": 9,
+      "sources": [
+        "https://www.skil.com/"
+      ]
+    },
+    "#0f3429": {
+      "count": 9,
+      "sources": [
+        "https://www.skil.com/"
+      ]
+    },
+    "#5e2309": {
+      "count": 9,
+      "sources": [
+        "https://www.skil.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 6,
+      "sources": [
+        "https://www.skil.com/"
+      ]
+    },
+    "#e17855": {
+      "count": 6,
+      "sources": [
+        "https://www.skil.com/"
+      ]
+    },
+    "#00000080": {
+      "count": 5,
+      "sources": [
+        "https://www.skil.com/cdn/shop/t/3/assets/plugins.min.css?v=136786493855653801981771884259"
+      ]
+    },
+    "#00000000": {
+      "count": 5,
+      "sources": [
+        "https://www.skil.com/cdn/shop/t/3/assets/plugins.min.css?v=136786493855653801981771884259"
+      ]
+    },
+    "#dc2626": {
+      "count": 4,
+      "sources": [
+        "https://www.skil.com/cdn/shop/t/3/assets/theme.css?v=106190766008217881441753823962",
+        "https://www.skil.com/cdn/shop/t/3/assets/components.css?v=42495237851213796731754428838"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 3,
+      "sources": [
+        "https://www.skil.com/"
+      ]
+    },
+    "#5f9585": {
+      "count": 3,
+      "sources": [
+        "https://www.skil.com/"
+      ]
+    },
+    "#e6e4e2": {
+      "count": 3,
+      "sources": [
+        "https://www.skil.com/"
+      ]
+    },
+    "#ded7cc": {
+      "count": 3,
+      "sources": [
+        "https://www.skil.com/"
+      ]
+    },
+    "#0000004d": {
+      "count": 2,
+      "sources": [
+        "https://www.skil.com/cdn/shop/t/3/assets/theme.css?v=106190766008217881441753823962"
+      ]
+    },
+    "#b0573b": {
+      "count": 1,
+      "sources": [
+        "https://www.skil.com/"
+      ]
+    },
+    "#b7b7b7": {
+      "count": 1,
+      "sources": [
+        "https://www.skil.com/"
+      ]
+    },
+    "#24725b": {
+      "count": 1,
+      "sources": [
+        "https://www.skil.com/"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 1,
+      "sources": [
+        "https://www.skil.com/cdn/shop/t/3/assets/theme.css?v=106190766008217881441753823962"
+      ]
+    },
+    "#16a34a": {
+      "count": 1,
+      "sources": [
+        "https://www.skil.com/cdn/shop/t/3/assets/theme.css?v=106190766008217881441753823962"
+      ]
+    },
+    "#e52416": {
+      "count": 1,
+      "sources": [
+        "https://www.skil.com/cdn/shop/t/3/assets/base.css?v=111251223312986764771751326690"
+      ]
+    },
+    "#ffefef": {
+      "count": 1,
+      "sources": [
+        "https://www.skil.com/cdn/shop/t/3/assets/base.css?v=111251223312986764771751326690"
+      ]
+    },
+    "#ff706b": {
+      "count": 1,
+      "sources": [
+        "https://www.skil.com/cdn/shop/t/3/assets/base.css?v=111251223312986764771751326690"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 1,
+      "sources": [
+        "https://www.skil.com/cdn/shop/t/3/assets/base.css?v=111251223312986764771751326690"
+      ]
+    },
+    "#a61a10": {
+      "count": 1,
+      "sources": [
+        "https://www.skil.com/cdn/shop/t/3/assets/components.css?v=42495237851213796731754428838"
+      ]
+    },
+    "#bc1818": {
+      "count": 1,
+      "sources": [
+        "https://www.skil.com/cdn/shop/t/3/assets/components.css?v=42495237851213796731754428838"
+      ]
+    },
+    "#dc26261f": {
+      "count": 1,
+      "sources": [
+        "https://www.skil.com/cdn/shop/t/3/assets/components.css?v=42495237851213796731754428838"
+      ]
+    },
+    "#ffea8a": {
+      "count": 1,
+      "sources": [
+        "https://www.skil.com/cdn/shop/t/3/assets/components.css?v=42495237851213796731754428838"
+      ]
+    },
+    "#ffea8a33": {
+      "count": 1,
+      "sources": [
+        "https://www.skil.com/cdn/shop/t/3/assets/components.css?v=42495237851213796731754428838"
+      ]
+    },
+    "#8a6116": {
+      "count": 1,
+      "sources": [
+        "https://www.skil.com/cdn/shop/t/3/assets/components.css?v=42495237851213796731754428838"
+      ]
+    },
+    "#006400": {
+      "count": 1,
+      "sources": [
+        "https://www.skil.com/cdn/shop/t/3/assets/components.css?v=42495237851213796731754428838"
+      ]
+    },
+    "#c32b2b": {
+      "count": 1,
+      "sources": [
+        "https://www.skil.com/cdn/shop/t/3/assets/components.css?v=42495237851213796731754428838"
+      ]
+    },
+    "#008c62": {
+      "count": 1,
+      "sources": [
+        "https://www.skil.com/cdn/shop/t/3/assets/components.css?v=42495237851213796731754428838"
+      ]
+    },
+    "#111111": {
+      "count": 1,
+      "sources": [
+        "https://www.skil.com/cdn/shop/t/3/assets/plugins.min.css?v=136786493855653801981771884259"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 1,
+      "sources": [
+        "https://www.skil.com/cdn/shop/t/3/assets/plugins.min.css?v=136786493855653801981771884259"
+      ]
+    },
+    "#add8e6": {
+      "count": 1,
+      "sources": [
+        "https://www.skil.com/cdn/shop/t/3/assets/plugins.min.css?v=136786493855653801981771884259"
+      ]
+    },
+    "#d4ebf2": {
+      "count": 1,
+      "sources": [
+        "https://www.skil.com/cdn/shop/t/3/assets/plugins.min.css?v=136786493855653801981771884259"
+      ]
+    },
+    "#0077ff": {
+      "count": 1,
+      "sources": [
+        "https://www.skil.com/cdn/shop/t/3/assets/plugins.min.css?v=136786493855653801981771884259"
+      ]
+    },
+    "#007aff": {
+      "count": 1,
+      "sources": [
+        "https://www.skil.com/cdn/shop/t/3/assets/plugins.min.css?v=136786493855653801981771884259"
+      ]
+    },
+    "#00000026": {
+      "count": 1,
+      "sources": [
+        "https://www.skil.com/cdn/shop/t/3/assets/plugins.min.css?v=136786493855653801981771884259"
+      ]
+    },
+    "#00000040": {
+      "count": 1,
+      "sources": [
+        "https://www.skil.com/cdn/shop/t/3/assets/plugins.min.css?v=136786493855653801981771884259"
+      ]
+    },
+    "#0000001a": {
+      "count": 1,
+      "sources": [
+        "https://www.skil.com/cdn/shop/t/3/assets/plugins.min.css?v=136786493855653801981771884259"
+      ]
+    }
+  },
+  "font_families": {
+    "Arapey": [
+      "https://www.skil.com/"
+    ],
+    "Archivo": [
+      "https://www.skil.com/"
+    ],
+    "Bebas Neue": [
+      "https://www.skil.com/cdn/shop/t/3/assets/theme.css?v=106190766008217881441753823962",
+      "https://www.skil.com/cdn/shop/t/3/assets/base.css?v=111251223312986764771751326690"
+    ],
+    "Inter": [
+      "https://www.skil.com/cdn/shop/t/3/assets/base.css?v=111251223312986764771751326690",
+      "https://www.skil.com/cdn/shop/t/3/assets/components.css?v=42495237851213796731754428838"
+    ],
+    "monospace": [
+      "https://www.skil.com/cdn/shop/t/3/assets/base.css?v=111251223312986764771751326690"
+    ],
+    "sans-serif": [
+      "https://www.skil.com/cdn/shop/t/3/assets/plugins.min.css?v=136786493855653801981771884259"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.skil.com/",
+      "selector": ":root",
+      "declarations": "--color-base-text: 34, 34, 34;\n        --color-base-heading: 34, 34, 34;\n        --color-base-primary: 34, 34, 34;\n        --color-base-background-1: 255, 255, 255;\n        --color-base-background-2: 243, 242, 242;"
+    },
+    {
+      "source": "https://www.skil.com/",
+      "selector": ":root,.color-background-1, .tippy-box[data-theme~='color-background-1']",
+      "declarations": "--color-primary: #222222;\n      --color-border: #ededed;\n      --color-background: #ffffff;\n      --color-text-body: #222222;\n      --color-text-heading: #222222;\n      --color-highlight: #e97750;\n      --color-link: #222222;\n      --color-link-hover: #222222;\n      --color-bg-1: #ffffff;\n      --color-bg-2: #f3f2f2;\n      --color-btn-bg: #222222;\n      --color-btn-text: #ffffff;\n      --color-btn-secondary-bg: #ededed;\n      --color-btn-secondary-border: #ededed;\n      --color-btn-secondary-text: #222222;\n      --color-btn-bg-hover: #000000;\n      --color-btn-text-hover: #ffffff;\n      --color-field-bg: #ffffff;\n      --color-field-text: #222222;\n      --color-field-text-rgb: 34, 34, 34;\n  "
+    },
+    {
+      "source": "https://www.skil.com/",
+      "selector": "body .lg-down\\:color-background-1",
+      "declarations": "--color-primary: #222222;\n      --color-border: #ededed;\n      --color-background: #ffffff;\n      --color-text-body: #222222;\n      --color-text-heading: #222222;\n      --color-highlight: #e97750;\n      --color-link: #222222;\n      --color-link-hover: #222222;\n      --color-bg-1: #ffffff;\n      --color-bg-2: #f3f2f2;\n      --color-btn-bg: #222222;\n      --color-btn-text: #ffffff;\n      --color-btn-secondary-bg: #ededed;\n      --color-btn-secondary-border: #ededed;\n      --color-btn-secondary-text: #222222;\n      --color-btn-bg-hover: #000000;\n      --color-btn-text-hover: #ffffff;\n      --color-field-bg: #ffffff;\n      --color-field-text: #222222;\n      --color-field-text-rgb: 34, 34, 34;\n  "
+    },
+    {
+      "source": "https://www.skil.com/",
+      "selector": "body .lg-down\\:color-background-2",
+      "declarations": "--color-primary: #222222;\n      --color-border: #eeeeee;\n      --color-background: #f3f2f2;\n      --color-text-body: #222222;\n      --color-text-heading: #222222;\n      --color-highlight: #e97750;\n      --color-link: #222222;\n      --color-link-hover: #222222;\n      --color-bg-1: #f3f2f2;\n      --color-bg-2: #f6f6f6;\n      --color-btn-bg: #222222;\n      --color-btn-text: #ffffff;\n      --color-btn-secondary-bg: #ededed;\n      --color-btn-secondary-border: #ededed;\n      --color-btn-secondary-text: #222222;\n      --color-btn-bg-hover: #222222;\n      --color-btn-text-hover: #ffffff;\n      --color-field-bg: #ffffff;\n      --color-field-text: #222222;\n      --color-field-text-rgb: 34, 34, 34;\n  "
+    },
+    {
+      "source": "https://www.skil.com/",
+      "selector": "body .lg-down\\:color-inverse",
+      "declarations": "--color-primary: #222222;\n      --color-border: #eeeeee;\n      --color-background: #f6ff94;\n      --color-text-body: #222222;\n      --color-text-heading: #222222;\n      --color-highlight: #e97750;\n      --color-link: #222222;\n      --color-link-hover: #222222;\n      --color-bg-1: #f6ff94;\n      --color-bg-2: #5f9585;\n      --color-btn-bg: #222222;\n      --color-btn-text: #ffffff;\n      --color-btn-secondary-bg: #ededed;\n      --color-btn-secondary-border: #ededed;\n      --color-btn-secondary-text: #222222;\n      --color-btn-bg-hover: #000000;\n      --color-btn-text-hover: #ffffff;\n      --color-field-bg: #ffffff;\n      --color-field-text: #222222;\n      --color-field-text-rgb: 34, 34, 34;\n  "
+    },
+    {
+      "source": "https://www.skil.com/",
+      "selector": "body .lg-down\\:color-accent",
+      "declarations": "--color-primary: #222222;\n      --color-border: #ededed;\n      --color-background: #f0f0f0;\n      --color-text-body: #222222;\n      --color-text-heading: #222222;\n      --color-highlight: #e97750;\n      --color-link: #222222;\n      --color-link-hover: #222222;\n      --color-bg-1: #f0f0f0;\n      --color-bg-2: #f0f0f0;\n      --color-btn-bg: #222222;\n      --color-btn-text: #ffffff;\n      --color-btn-secondary-bg: #ededed;\n      --color-btn-secondary-border: #ededed;\n      --color-btn-secondary-text: #222222;\n      --color-btn-bg-hover: #000000;\n      --color-btn-text-hover: #ffffff;\n      --color-field-bg: #ffffff;\n      --color-field-text: #222222;\n      --color-field-text-rgb: 34, 34, 34;\n  "
+    },
+    {
+      "source": "https://www.skil.com/",
+      "selector": "body .lg-down\\:color-scheme-5",
+      "declarations": "--color-primary: #ffffff;\n      --color-border: #ededed;\n      --color-background: #444444;\n      --color-text-body: #ffffff;\n      --color-text-heading: #ffffff;\n      --color-highlight: #e97750;\n      --color-link: #ffffff;\n      --color-link-hover: #ffffff;\n      --color-bg-1: #444444;\n      --color-bg-2: #f6f3ee;\n      --color-btn-bg: #ffffff;\n      --color-btn-text: #444444;\n      --color-btn-secondary-bg: #ededed;\n      --color-btn-secondary-border: #ededed;\n      --color-btn-secondary-text: #444444;\n      --color-btn-bg-hover: #000000;\n      --color-btn-text-hover: #ffffff;\n      --color-field-bg: #ffffff;\n      --color-field-text: #444444;\n      --color-field-text-rgb: 68, 68, 68;\n  "
+    },
+    {
+      "source": "https://www.skil.com/",
+      "selector": "body .lg-down\\:color-scheme-6",
+      "declarations": "--color-primary: #444444;\n      --color-border: #ededed;\n      --color-background: #d4e4eb;\n      --color-text-body: #444444;\n      --color-text-heading: #444444;\n      --color-highlight: #e97750;\n      --color-link: #444444;\n      --color-link-hover: #444444;\n      --color-bg-1: #d4e4eb;\n      --color-bg-2: #f6f3ee;\n      --color-btn-bg: #444444;\n      --color-btn-text: #ffffff;\n      --color-btn-secondary-bg: #ededed;\n      --color-btn-secondary-border: #ededed;\n      --color-btn-secondary-text: #444444;\n      --color-btn-bg-hover: #000000;\n      --color-btn-text-hover: #ffffff;\n      --color-field-bg: #ffffff;\n      --color-field-text: #444444;\n      --color-field-text-rgb: 68, 68, 68;\n  "
+    },
+    {
+      "source": "https://www.skil.com/",
+      "selector": "body .lg-down\\:color-scheme-7",
+      "declarations": "--color-primary: #444444;\n      --color-border: #ededed;\n      --color-background: #ede1da;\n      --color-text-body: #444444;\n      --color-text-heading: #444444;\n      --color-highlight: #e97750;\n      --color-link: #444444;\n      --color-link-hover: #444444;\n      --color-bg-1: #ede1da;\n      --color-bg-2: #ffffff;\n      --color-btn-bg: #444444;\n      --color-btn-text: #ffffff;\n      --color-btn-secondary-bg: #ededed;\n      --color-btn-secondary-border: #ededed;\n      --color-btn-secondary-text: #444444;\n      --color-btn-bg-hover: #000000;\n      --color-btn-text-hover: #ffffff;\n      --color-field-bg: #ffffff;\n      --color-field-text: #444444;\n      --color-field-text-rgb: 68, 68, 68;\n  "
+    },
+    {
+      "source": "https://www.skil.com/",
+      "selector": "body .lg-down\\:color-scheme-8",
+      "declarations": "--color-primary: #444444;\n      --color-border: #ededed;\n      --color-background: #0f3429;\n      --color-text-body: #ffffff;\n      --color-text-heading: #ffffff;\n      --color-highlight: #e97750;\n      --color-link: #ffffff;\n      --color-link-hover: #ffffff;\n      --color-bg-1: #0f3429;\n      --color-bg-2: #f6f3ee;\n      --color-btn-bg: #ffffff;\n      --color-btn-text: #222222;\n      --color-btn-secondary-bg: #ededed;\n      --color-btn-secondary-border: #ededed;\n      --color-btn-secondary-text: #222222;\n      --color-btn-bg-hover: #222222;\n      --color-btn-text-hover: #ffffff;\n      --color-field-bg: #ffffff;\n      --color-field-text: #222222;\n      --color-field-text-rgb: 34, 34, 34;\n  "
+    },
+    {
+      "source": "https://www.skil.com/",
+      "selector": "body .lg-down\\:color-scheme-9",
+      "declarations": "--color-primary: #ffffff;\n      --color-border: #ffffff;\n      --color-background: #5e2309;\n      --color-text-body: #ffffff;\n      --color-text-heading: #ffffff;\n      --color-highlight: #f6ff94;\n      --color-link: #ffffff;\n      --color-link-hover: #ffffff;\n      --color-bg-1: #5e2309;\n      --color-bg-2: #f6f3ee;\n      --color-btn-bg: #ffffff;\n      --color-btn-text: #222222;\n      --color-btn-secondary-bg: #ededed;\n      --color-btn-secondary-border: #ededed;\n      --color-btn-secondary-text: #222222;\n      --color-btn-bg-hover: #222222;\n      --color-btn-text-hover: #ffffff;\n      --color-field-bg: #ffffff;\n      --color-field-text: #222222;\n      --color-field-text-rgb: 34, 34, 34;\n  "
+    },
+    {
+      "source": "https://www.skil.com/",
+      "selector": "body .lg-down\\:color-scheme-10",
+      "declarations": "--color-primary: #e17855;\n      --color-border: #e6e4e2;\n      --color-background: #fcfaf7;\n      --color-text-body: #222222;\n      --color-text-heading: #222222;\n      --color-highlight: #e97750;\n      --color-link: #222222;\n      --color-link-hover: #222222;\n      --color-bg-1: #fcfaf7;\n      --color-bg-2: #ded7cc;\n      --color-btn-bg: #222222;\n      --color-btn-text: #ffffff;\n      --color-btn-secondary-bg: #ffffff;\n      --color-btn-secondary-border: #ededed;\n      --color-btn-secondary-text: #222222;\n      --color-btn-bg-hover: #222222;\n      --color-btn-text-hover: #ffffff;\n      --color-field-bg: #fcfaf7;\n      --color-field-text: #222222;\n      --color-field-text-rgb: 34, 34, 34;\n  "
+    },
+    {
+      "source": "https://www.skil.com/",
+      "selector": "body .lg-down\\:color-scheme-66d2c1ec-d04c-4ede-89f1-f1dfbedb9265",
+      "declarations": "--color-primary: #222222;\n      --color-border: #ededed;\n      --color-background: #212322;\n      --color-text-body: #ffffff;\n      --color-text-heading: #ffffff;\n      --color-highlight: #e97750;\n      --color-link: #ffffff;\n      --color-link-hover: #ffffff;\n      --color-bg-1: #212322;\n      --color-bg-2: #212322;\n      --color-btn-bg: #222222;\n      --color-btn-text: #ffffff;\n      --color-btn-secondary-bg: #ededed;\n      --color-btn-secondary-border: #ededed;\n      --color-btn-secondary-text: #222222;\n      --color-btn-bg-hover: #000000;\n      --color-btn-text-hover: #ffffff;\n      --color-field-bg: #ffffff;\n      --color-field-text: #222222;\n      --color-field-text-rgb: 34, 34, 34;\n  "
+    },
+    {
+      "source": "https://www.skil.com/",
+      "selector": "body .md-down\\:color-background-1",
+      "declarations": "--color-primary: #222222;\n      --color-border: #ededed;\n      --color-background: #ffffff;\n      --color-text-body: #222222;\n      --color-text-heading: #222222;\n      --color-highlight: #e97750;\n      --color-link: #222222;\n      --color-link-hover: #222222;\n      --color-bg-1: #ffffff;\n      --color-bg-2: #f3f2f2;\n      --color-btn-bg: #222222;\n      --color-btn-text: #ffffff;\n      --color-btn-secondary-bg: #ededed;\n      --color-btn-secondary-border: #ededed;\n      --color-btn-secondary-text: #222222;\n      --color-btn-bg-hover: #000000;\n      --color-btn-text-hover: #ffffff;\n      --color-field-bg: #ffffff;\n      --color-field-text: #222222;\n      --color-field-text-rgb: 34, 34, 34;\n  "
+    },
+    {
+      "source": "https://www.skil.com/",
+      "selector": "body .md-down\\:color-background-2",
+      "declarations": "--color-primary: #222222;\n      --color-border: #eeeeee;\n      --color-background: #f3f2f2;\n      --color-text-body: #222222;\n      --color-text-heading: #222222;\n      --color-highlight: #e97750;\n      --color-link: #222222;\n      --color-link-hover: #222222;\n      --color-bg-1: #f3f2f2;\n      --color-bg-2: #f6f6f6;\n      --color-btn-bg: #222222;\n      --color-btn-text: #ffffff;\n      --color-btn-secondary-bg: #ededed;\n      --color-btn-secondary-border: #ededed;\n      --color-btn-secondary-text: #222222;\n      --color-btn-bg-hover: #222222;\n      --color-btn-text-hover: #ffffff;\n      --color-field-bg: #ffffff;\n      --color-field-text: #222222;\n      --color-field-text-rgb: 34, 34, 34;\n  "
+    },
+    {
+      "source": "https://www.skil.com/",
+      "selector": "body .md-down\\:color-inverse",
+      "declarations": "--color-primary: #222222;\n      --color-border: #eeeeee;\n      --color-background: #f6ff94;\n      --color-text-body: #222222;\n      --color-text-heading: #222222;\n      --color-highlight: #e97750;\n      --color-link: #222222;\n      --color-link-hover: #222222;\n      --color-bg-1: #f6ff94;\n      --color-bg-2: #5f9585;\n      --color-btn-bg: #222222;\n      --color-btn-text: #ffffff;\n      --color-btn-secondary-bg: #ededed;\n      --color-btn-secondary-border: #ededed;\n      --color-btn-secondary-text: #222222;\n      --color-btn-bg-hover: #000000;\n      --color-btn-text-hover: #ffffff;\n      --color-field-bg: #ffffff;\n      --color-field-text: #222222;\n      --color-field-text-rgb: 34, 34, 34;\n  "
+    },
+    {
+      "source": "https://www.skil.com/",
+      "selector": "body .md-down\\:color-accent",
+      "declarations": "--color-primary: #222222;\n      --color-border: #ededed;\n      --color-background: #f0f0f0;\n      --color-text-body: #222222;\n      --color-text-heading: #222222;\n      --color-highlight: #e97750;\n      --color-link: #222222;\n      --color-link-hover: #222222;\n      --color-bg-1: #f0f0f0;\n      --color-bg-2: #f0f0f0;\n      --color-btn-bg: #222222;\n      --color-btn-text: #ffffff;\n      --color-btn-secondary-bg: #ededed;\n      --color-btn-secondary-border: #ededed;\n      --color-btn-secondary-text: #222222;\n      --color-btn-bg-hover: #000000;\n      --color-btn-text-hover: #ffffff;\n      --color-field-bg: #ffffff;\n      --color-field-text: #222222;\n      --color-field-text-rgb: 34, 34, 34;\n  "
+    },
+    {
+      "source": "https://www.skil.com/",
+      "selector": "body .md-down\\:color-scheme-5",
+      "declarations": "--color-primary: #ffffff;\n      --color-border: #ededed;\n      --color-background: #444444;\n      --color-text-body: #ffffff;\n      --color-text-heading: #ffffff;\n      --color-highlight: #e97750;\n      --color-link: #ffffff;\n      --color-link-hover: #ffffff;\n      --color-bg-1: #444444;\n      --color-bg-2: #f6f3ee;\n      --color-btn-bg: #ffffff;\n      --color-btn-text: #444444;\n      --color-btn-secondary-bg: #ededed;\n      --color-btn-secondary-border: #ededed;\n      --color-btn-secondary-text: #444444;\n      --color-btn-bg-hover: #000000;\n      --color-btn-text-hover: #ffffff;\n      --color-field-bg: #ffffff;\n      --color-field-text: #444444;\n      --color-field-text-rgb: 68, 68, 68;\n  "
+    },
+    {
+      "source": "https://www.skil.com/",
+      "selector": "body .md-down\\:color-scheme-6",
+      "declarations": "--color-primary: #444444;\n      --color-border: #ededed;\n      --color-background: #d4e4eb;\n      --color-text-body: #444444;\n      --color-text-heading: #444444;\n      --color-highlight: #e97750;\n      --color-link: #444444;\n      --color-link-hover: #444444;\n      --color-bg-1: #d4e4eb;\n      --color-bg-2: #f6f3ee;\n      --color-btn-bg: #444444;\n      --color-btn-text: #ffffff;\n      --color-btn-secondary-bg: #ededed;\n      --color-btn-secondary-border: #ededed;\n      --color-btn-secondary-text: #444444;\n      --color-btn-bg-hover: #000000;\n      --color-btn-text-hover: #ffffff;\n      --color-field-bg: #ffffff;\n      --color-field-text: #444444;\n      --color-field-text-rgb: 68, 68, 68;\n  "
+    },
+    {
+      "source": "https://www.skil.com/",
+      "selector": "body .md-down\\:color-scheme-7",
+      "declarations": "--color-primary: #444444;\n      --color-border: #ededed;\n      --color-background: #ede1da;\n      --color-text-body: #444444;\n      --color-text-heading: #444444;\n      --color-highlight: #e97750;\n      --color-link: #444444;\n      --color-link-hover: #444444;\n      --color-bg-1: #ede1da;\n      --color-bg-2: #ffffff;\n      --color-btn-bg: #444444;\n      --color-btn-text: #ffffff;\n      --color-btn-secondary-bg: #ededed;\n      --color-btn-secondary-border: #ededed;\n      --color-btn-secondary-text: #444444;\n      --color-btn-bg-hover: #000000;\n      --color-btn-text-hover: #ffffff;\n      --color-field-bg: #ffffff;\n      --color-field-text: #444444;\n      --color-field-text-rgb: 68, 68, 68;\n  "
+    },
+    {
+      "source": "https://www.skil.com/",
+      "selector": "body .md-down\\:color-scheme-8",
+      "declarations": "--color-primary: #444444;\n      --color-border: #ededed;\n      --color-background: #0f3429;\n      --color-text-body: #ffffff;\n      --color-text-heading: #ffffff;\n      --color-highlight: #e97750;\n      --color-link: #ffffff;\n      --color-link-hover: #ffffff;\n      --color-bg-1: #0f3429;\n      --color-bg-2: #f6f3ee;\n      --color-btn-bg: #ffffff;\n      --color-btn-text: #222222;\n      --color-btn-secondary-bg: #ededed;\n      --color-btn-secondary-border: #ededed;\n      --color-btn-secondary-text: #222222;\n      --color-btn-bg-hover: #222222;\n      --color-btn-text-hover: #ffffff;\n      --color-field-bg: #ffffff;\n      --color-field-text: #222222;\n      --color-field-text-rgb: 34, 34, 34;\n  "
+    },
+    {
+      "source": "https://www.skil.com/",
+      "selector": "body .md-down\\:color-scheme-9",
+      "declarations": "--color-primary: #ffffff;\n      --color-border: #ffffff;\n      --color-background: #5e2309;\n      --color-text-body: #ffffff;\n      --color-text-heading: #ffffff;\n      --color-highlight: #f6ff94;\n      --color-link: #ffffff;\n      --color-link-hover: #ffffff;\n      --color-bg-1: #5e2309;\n      --color-bg-2: #f6f3ee;\n      --color-btn-bg: #ffffff;\n      --color-btn-text: #222222;\n      --color-btn-secondary-bg: #ededed;\n      --color-btn-secondary-border: #ededed;\n      --color-btn-secondary-text: #222222;\n      --color-btn-bg-hover: #222222;\n      --color-btn-text-hover: #ffffff;\n      --color-field-bg: #ffffff;\n      --color-field-text: #222222;\n      --color-field-text-rgb: 34, 34, 34;\n  "
+    },
+    {
+      "source": "https://www.skil.com/",
+      "selector": "body .md-down\\:color-scheme-10",
+      "declarations": "--color-primary: #e17855;\n      --color-border: #e6e4e2;\n      --color-background: #fcfaf7;\n      --color-text-body: #222222;\n      --color-text-heading: #222222;\n      --color-highlight: #e97750;\n      --color-link: #222222;\n      --color-link-hover: #222222;\n      --color-bg-1: #fcfaf7;\n      --color-bg-2: #ded7cc;\n      --color-btn-bg: #222222;\n      --color-btn-text: #ffffff;\n      --color-btn-secondary-bg: #ffffff;\n      --color-btn-secondary-border: #ededed;\n      --color-btn-secondary-text: #222222;\n      --color-btn-bg-hover: #222222;\n      --color-btn-text-hover: #ffffff;\n      --color-field-bg: #fcfaf7;\n      --color-field-text: #222222;\n      --color-field-text-rgb: 34, 34, 34;\n  "
+    },
+    {
+      "source": "https://www.skil.com/",
+      "selector": "body .md-down\\:color-scheme-66d2c1ec-d04c-4ede-89f1-f1dfbedb9265",
+      "declarations": "--color-primary: #222222;\n      --color-border: #ededed;\n      --color-background: #212322;\n      --color-text-body: #ffffff;\n      --color-text-heading: #ffffff;\n      --color-highlight: #e97750;\n      --color-link: #ffffff;\n      --color-link-hover: #ffffff;\n      --color-bg-1: #212322;\n      --color-bg-2: #212322;\n      --color-btn-bg: #222222;\n      --color-btn-text: #ffffff;\n      --color-btn-secondary-bg: #ededed;\n      --color-btn-secondary-border: #ededed;\n      --color-btn-secondary-text: #222222;\n      --color-btn-bg-hover: #000000;\n      --color-btn-text-hover: #ffffff;\n      --color-field-bg: #ffffff;\n      --color-field-text: #222222;\n      --color-field-text-rgb: 34, 34, 34;\n  "
+    },
+    {
+      "source": "https://www.skil.com/",
+      "selector": "body",
+      "declarations": "min-height: 100%;\n    font-size: 1.5rem;\n    margin: 0;\n    font-family: var(--font-body-family);\n    font-style: var(--font-body-style);\n    font-weight: var(--font-body-weight);\n    -webkit-font-smoothing: antialiased;\n    -moz-osx-font-smoothing: grayscale;\n    line-height: calc(1 + 0.6 / var(--font-body-scale));\n    --font-body-size: 1.5rem;"
+    },
+    {
+      "source": "https://www.skil.com/",
+      "selector": "h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6, .h0, .h-xl",
+      "declarations": "font-family: var(--font-heading-family);\n    font-style: var(--font-heading-style);\n    font-weight: var(--font-heading-weight);\n    text-transform: var(--font-heading-transform);\n    color: var(--color-text-heading);\n    line-height: calc(1 + 0.2 / max(1, var(--font-heading-scale)));\n    letter-spacing: var(--font-heading-spacing, 0px);\n    word-break: break-word;\n    margin: 0 0 1.2rem;"
+    },
+    {
+      "source": "https://www.skil.com/",
+      "selector": ":root",
+      "declarations": "--color-swatch-size: 4.4rem;"
+    },
+    {
+      "source": "https://www.skil.com/cdn/shop/t/3/assets/theme.css?v=106190766008217881441753823962",
+      "selector": ".section__header",
+      "declarations": "--header-padding-bottom: 6rem;padding-bottom:var(--header-padding-bottom)"
+    },
+    {
+      "source": "https://www.skil.com/cdn/shop/t/3/assets/theme.css?v=106190766008217881441753823962",
+      "selector": ".section__header.spacing--small",
+      "declarations": "--header-padding-bottom: var(--header-padding-bottom-small)"
+    },
+    {
+      "source": "https://www.skil.com/cdn/shop/t/3/assets/theme.css?v=106190766008217881441753823962",
+      "selector": ".section__header.spacing--large",
+      "declarations": "--header-padding-bottom: var(--header-padding-bottom-large)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Innovative Tools with Tech You Can Use | SKIL",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skil.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skil.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skil.com/",
+        "https://www.skil.com/cdn/shop/t/3/assets/theme.css?v=106190766008217881441753823962",
+        "https://www.skil.com/cdn/shop/t/3/assets/base.css?v=111251223312986764771751326690",
+        "https://www.skil.com/cdn/shop/t/3/assets/components.css?v=42495237851213796731754428838",
+        "https://www.skil.com/cdn/shop/t/3/assets/plugins.min.css?v=136786493855653801981771884259"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skil.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skil.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skil.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skil.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skil.com/",
+        "https://www.skil.com/cdn/shop/t/3/assets/theme.css?v=106190766008217881441753823962",
+        "https://www.skil.com/cdn/shop/t/3/assets/base.css?v=111251223312986764771751326690",
+        "https://www.skil.com/cdn/shop/t/3/assets/components.css?v=42495237851213796731754428838",
+        "https://www.skil.com/cdn/shop/t/3/assets/plugins.min.css?v=136786493855653801981771884259"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skil.com/",
+        "https://www.skil.com/cdn/shop/t/3/assets/theme.css?v=106190766008217881441753823962",
+        "https://www.skil.com/cdn/shop/t/3/assets/base.css?v=111251223312986764771751326690",
+        "https://www.skil.com/cdn/shop/t/3/assets/components.css?v=42495237851213796731754428838",
+        "https://www.skil.com/cdn/shop/t/3/assets/plugins.min.css?v=136786493855653801981771884259"
+      ]
+    },
+    "colors.highlight": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skil.com/"
+      ]
+    },
+    "colors.accent-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skil.com/"
+      ]
+    },
+    "colors.accent-forest": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skil.com/"
+      ]
+    },
+    "colors.accent-brown": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skil.com/"
+      ]
+    },
+    "colors.surface-cream": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skil.com/"
+      ]
+    },
+    "colors.accent-lime": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skil.com/"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skil.com/cdn/shop/t/3/assets/theme.css?v=106190766008217881441753823962",
+        "https://www.skil.com/cdn/shop/t/3/assets/components.css?v=42495237851213796731754428838"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.battery-system-tag": {
+      "status": "inferred"
+    }
+  }
+}

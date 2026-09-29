@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Permanent Records
-description: A black-and-gray concrete bunker for vinyl obsession, where #222222 ink on #f4f4f4 canvas reads like a photocopied zine pinned to a corkboard — no gradient, no hero image, just raw typographic hierarchy and the occasional #e74c3c alert badge to signal a sold-out pre-order. The brand uses Proxima Nova at 14–16px for nearly everything, trusting weight contrast (400 vs 600) over size jumps to separate body from title; there is no display face, no serif warmth, no decorative flourish. Buttons are hard-cornered rectangles (`{rounded.none}`) with #444444 borders on white canvas, and the only pill shape (`{rounded.full}`) appears on the search input — a lone concession to usability in an otherwise orthogonal grid. The #e74c3c accent (a desaturated stop-sign red) appears on price drops, sold-out badges, and the cart count dot, while #ff9b00 amber signals the "Add to Cart" CTA on product detail pages — a rare splash of heat in a monochrome system. The site feels like the store itself: fluorescent-lit, shelf-dense, built for people who already know what they want.
+name: "Permanent Records"
+source_url: "https://www.permanentrecordsla.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A black-and-gray concrete bunker for vinyl obsession, where #222222 ink on #f4f4f4 canvas reads like a photocopied zine pinned to a corkboard — no gradient, no hero image, just raw typographic hierarchy and the occasional #e74c3c alert badge to signal a sold-out pre-order. The brand uses Proxima Nova at 14–16px for nearly everything, trusting weight contrast (400 vs 600) over size jumps to separate body from title; there is no display face, no serif warmth, no decorative flourish. Buttons are hard-cornered rectangles (`{rounded.none}`) with #444444 borders on white canvas, and the only pill shape (`{rounded.full}`) appears on the search input — a lone concession to usability in an otherwise orthogonal grid. The #e74c3c accent (a desaturated stop-sign red) appears on price drops, sold-out badges, and the cart count dot, while #ff9b00 amber signals the "Add to Cart" CTA on product detail pages — a rare splash of heat in a monochrome system. The site feels like the store itself: fluorescent-lit, shelf-dense, built for people who already know what they want.
 
 colors:
   primary: "#e74c3c"
@@ -356,6 +360,8 @@ components:
 - Section padding reduces from `{spacing.section}` (64px) to `{spacing.xxl}` (48px) on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for product cards and buttons are inferred from common patterns; exact CSS transitions and box-shadow values were not extractable from the live site.
 - Error styling for form inputs (validation messages, error borders) was not visible in the extracted data.

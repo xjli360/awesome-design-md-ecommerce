@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Megababe
-description: Megababe Beauty is a body-care brand that feels like a confident, witty friend who knows exactly what you need. The palette is anchored by a deep, almost-black ink (`#303030`) and a warm off-white canvas (`#f3f3f3`), creating a clean, editorial backdrop that lets product photography and playful accents pop. The brand's signature voltage comes from a vibrant primary blue (`#2332d5`), a bold, energetic hue that appears on primary CTAs, badges, and key interactive elements, paired with a softer, more approachable blue (`#dee6ff`) for secondary surfaces and hover states. A supporting cast of accent colors—a fresh green (`#29845a`), a warm amber (`#ffaa00`), a soft coral (`#ea5455`), and a playful purple (`#7367f0`)—adds personality without overwhelming the system. Typography is a study in contrast: the elegant, serifed `Fraunces` is used for display and title treatments, lending a touch of editorial sophistication, while the rounded, all-caps `Titan One` injects a dose of playful, retro energy into badges, buttons, and small headers. The overall mood is confident, clean, and slightly irreverent—a brand that takes body care seriously but doesn't take itself too seriously. Corners are generally soft (`{rounded.sm}` for buttons, `{rounded.md}` for cards), and the generous use of `{spacing.lg}` and `{spacing.xl}` between sections creates a breathable, premium feel. The system is built for a Shopify-powered e-commerce experience, with clear hierarchy, strong CTAs, and a focus on product discovery.
+name: "Megababe"
+source_url: "https://megababebeauty.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Megababe Beauty is a body-care brand that feels like a confident, witty friend who knows exactly what you need. The palette is anchored by a deep, almost-black ink (`#303030`) and a warm off-white canvas (`#f3f3f3`), creating a clean, editorial backdrop that lets product photography and playful accents pop. The brand's signature voltage comes from a vibrant primary blue (`#2332d5`), a bold, energetic hue that appears on primary CTAs, badges, and key interactive elements, paired with a softer, more approachable blue (`#dee6ff`) for secondary surfaces and hover states. A supporting cast of accent colors—a fresh green (`#29845a`), a warm amber (`#ffaa00`), a soft coral (`#ea5455`), and a playful purple (`#7367f0`)—adds personality without overwhelming the system. Typography is a study in contrast: the elegant, serifed `Fraunces` is used for display and title treatments, lending a touch of editorial sophistication, while the rounded, all-caps `Titan One` injects a dose of playful, retro energy into badges, buttons, and small headers. The overall mood is confident, clean, and slightly irreverent—a brand that takes body care seriously but doesn't take itself too seriously. Corners are generally soft (`{rounded.sm}` for buttons, `{rounded.md}` for cards), and the generous use of `{spacing.lg}` and `{spacing.xl}` between sections creates a breathable, premium feel. The system is built for a Shopify-powered e-commerce experience, with clear hierarchy, strong CTAs, and a focus on product discovery.
 
 colors:
   primary: "#2332d5"
@@ -361,6 +365,8 @@ components:
 - Hero sections may reduce to a single image with text overlay instead of a split layout.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for all components (only primary/secondary button and link hover states were reliably extracted).
 - Focus and active states for text inputs and search bars (only border color changes were observed).

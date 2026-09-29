@@ -1,0 +1,779 @@
+{
+  "source_url": "https://gnistaspirits.com",
+  "final_url": "https://gnistaspirits.com/",
+  "captured_at": "2026-09-28T10:21:31.851146+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://gnistaspirits.com",
+      "final_url": "https://gnistaspirits.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "0384bfb659cae4d1a3f25a7826f4a20c70bcd705f79d1e1dc0f199c42194831d",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+      "final_url": "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "be475c786ef55f25900b4801ba2654b2226d82e995ef79e69501caa94b8bd404",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://gnistaspirits.com/cdn/shop/t/2/assets/animate-on-scroll.css?v=135962721104954213331763407284",
+      "final_url": "https://gnistaspirits.com/cdn/shop/t/2/assets/animate-on-scroll.css?v=135962721104954213331763407284",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d1af2fb182cd018f72f0729b20d4f1d53e1a93172351ea3eea1890205a35881c",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://gnistaspirits.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://gnistaspirits.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "bb771d6d34b26f9c6ac8ddb7bbb0d27cdf61e28fb1aaf211d6839bfde60b814a",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://gnistaspirits.com/cdn/shop/t/2/assets/video.css?v=52927323488706550131763407284",
+      "final_url": "https://gnistaspirits.com/cdn/shop/t/2/assets/video.css?v=52927323488706550131763407284",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "18be4e719d032666b9769896b8a69955d7213bc40a831c98370dcd2fe8f6bdb6",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 24,
+      "sources": [
+        "https://gnistaspirits.com/",
+        "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+        "https://gnistaspirits.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css"
+      ]
+    },
+    "#111827": {
+      "count": 22,
+      "sources": [
+        "https://gnistaspirits.com/",
+        "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css"
+      ]
+    },
+    "#232323": {
+      "count": 15,
+      "sources": [
+        "https://gnistaspirits.com/"
+      ]
+    },
+    "#6b7280": {
+      "count": 11,
+      "sources": [
+        "https://gnistaspirits.com/",
+        "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css"
+      ]
+    },
+    "#000000": {
+      "count": 10,
+      "sources": [
+        "https://gnistaspirits.com/",
+        "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153"
+      ]
+    },
+    "#bf570a": {
+      "count": 5,
+      "sources": [
+        "https://gnistaspirits.com/"
+      ]
+    },
+    "#efefef": {
+      "count": 5,
+      "sources": [
+        "https://gnistaspirits.com/"
+      ]
+    },
+    "#c8c8c8": {
+      "count": 4,
+      "sources": [
+        "https://gnistaspirits.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 4,
+      "sources": [
+        "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+        "https://gnistaspirits.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0f172a": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css"
+      ]
+    },
+    "#ececec": {
+      "count": 3,
+      "sources": [
+        "https://gnistaspirits.com/"
+      ]
+    },
+    "#5c5c5c": {
+      "count": 3,
+      "sources": [
+        "https://gnistaspirits.com/"
+      ]
+    },
+    "#868686": {
+      "count": 3,
+      "sources": [
+        "https://gnistaspirits.com/"
+      ]
+    },
+    "#0000001f": {
+      "count": 3,
+      "sources": [
+        "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153"
+      ]
+    },
+    "#0000000d": {
+      "count": 3,
+      "sources": [
+        "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153"
+      ]
+    },
+    "#92400e": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css"
+      ]
+    },
+    "#00000026": {
+      "count": 2,
+      "sources": [
+        "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153"
+      ]
+    },
+    "#9f9f9f": {
+      "count": 2,
+      "sources": [
+        "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153"
+      ]
+    },
+    "#0000004d": {
+      "count": 2,
+      "sources": [
+        "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153"
+      ]
+    },
+    "#00000040": {
+      "count": 2,
+      "sources": [
+        "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://gnistaspirits.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 1,
+      "sources": [
+        "https://gnistaspirits.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://gnistaspirits.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://gnistaspirits.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://gnistaspirits.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://gnistaspirits.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://gnistaspirits.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://gnistaspirits.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://gnistaspirits.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153"
+      ]
+    },
+    "#c6c7c8": {
+      "count": 1,
+      "sources": [
+        "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153"
+      ]
+    },
+    "#d90000": {
+      "count": 1,
+      "sources": [
+        "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153"
+      ]
+    },
+    "#ffffffb3": {
+      "count": 1,
+      "sources": [
+        "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153"
+      ]
+    },
+    "#fdfdfa": {
+      "count": 1,
+      "sources": [
+        "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153"
+      ]
+    },
+    "#26262c": {
+      "count": 1,
+      "sources": [
+        "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://gnistaspirits.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://gnistaspirits.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://gnistaspirits.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#b91c1c": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css"
+      ]
+    },
+    "#f3f4f6": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css"
+      ]
+    },
+    "#374151": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css"
+      ]
+    },
+    "#047857": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css"
+      ]
+    },
+    "#4b5563": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css"
+      ]
+    },
+    "#fef2f2": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css"
+      ]
+    },
+    "#fecaca": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css"
+      ]
+    },
+    "#991b1b": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css"
+      ]
+    },
+    "#ecfdf3": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css"
+      ]
+    },
+    "#166534": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css"
+      ]
+    },
+    "#2563eb": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css"
+      ]
+    }
+  },
+  "font_families": {
+    "AdelonSerial": [
+      "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153"
+    ],
+    "Arya": [
+      "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153"
+    ],
+    "Playfair Display": [
+      "https://gnistaspirits.com/"
+    ],
+    "RomieTrial": [
+      "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153"
+    ],
+    "sans-serif!important": [
+      "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153"
+    ],
+    "serif": [
+      "https://gnistaspirits.com/"
+    ],
+    "serif !important": [
+      "https://gnistaspirits.com/"
+    ],
+    "serif!important": [
+      "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://gnistaspirits.com/",
+      "selector": ".section-header",
+      "declarations": "margin-bottom: calc(var(--theme-header-height) * -1);\n      --transparent-header-text-color: #ffffff;\n      --transparent-header-bg-gradient:\nlinear-gradient(\n    to bottom,\n    rgb(0 0 0 / 0.25) 0%,\n    rgb(0 0 0 / 0.1845) 19%,\n    rgb(0 0 0 / 0.13525) 34%,\n    rgb(0 0 0 / 0.0955) 47%,\n    rgb(0 0 0 / 0.0695) 56.5%,\n    rgb(0 0 0 / 0.0485) 65%,\n    rgb(0 0 0 / 0.0315) 73%,\n    rgb(0 0 0 / 0.01875) 80.2%,\n    rgb(0 0 0 / 0.0105) 86.1%,\n    rgb(0 0 0 / 0.00525) 91%,\n    rgb(0 0 0 / 0.002) 95.2%,\n    rgb(0 0 0 / 0.0005) 98.2%,\n    transparent 100%\n  );;"
+    },
+    {
+      "source": "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+      "selector": ":root",
+      "declarations": "--gutter: var(--gutter-mobile);--container-pad-x: 16px;--carousel-edge: 40px;--theme-sticky-header-height: 0px;--space-unit: 4px"
+    },
+    {
+      "source": "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+      "selector": ":root",
+      "declarations": "--gutter: var(--gutter-desktop);--container-pad-x: 30px"
+    },
+    {
+      "source": "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+      "selector": ":root",
+      "declarations": "--container-pad-x: 50px"
+    },
+    {
+      "source": "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+      "selector": ":root",
+      "declarations": "--gutter: var(--gutter-large)"
+    },
+    {
+      "source": "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+      "selector": ":root",
+      "declarations": "--container-pad-x: 60px"
+    },
+    {
+      "source": "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+      "selector": "button",
+      "declarations": "margin:0;padding:0;border:0;background:transparent;color:inherit;font-family:inherit;font-size:inherit;font-weight:inherit;line-height:inherit;cursor:pointer"
+    },
+    {
+      "source": "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+      "selector": ".btn",
+      "declarations": "display:inline-block;height:auto;margin:0;padding:var(--input-btn-padding-top) 25px var(--input-btn-padding-bottom);transition:background-color .1s,color .1s,border-color .1s,opacity .1s;border:1.5px solid rgb(var(--btn-border-color));border-radius:var(--btn-border-radius);background:rgb(var(--btn-bg-color));color:rgb(var(--btn-text-color));font-family:var(--base-font-family);font-size:var(--button-text-size);font-style:var(--base-font-style);font-weight:var(--base-font-weight);letter-spacing:var(--btn-letter-spacing);line-height:1em;text-align:center;text-decoration:none!important;text-transform:var(--btn-text-transform);vertical-align:middle;cursor:pointer;-webkit-tap-highlight-color:trans"
+    },
+    {
+      "source": "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+      "selector": ".btn:active",
+      "declarations": "border-color:rgb(var(--btn-border-hover-color));background:rgb(var(--btn-bg-hover-color));color:rgb(var(--btn-text-hover-color))"
+    },
+    {
+      "source": "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+      "selector": ".btn:hover",
+      "declarations": "border-color:rgb(var(--btn-border-hover-color));background:rgb(var(--btn-bg-hover-color));color:rgb(var(--btn-text-hover-color))"
+    },
+    {
+      "source": "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+      "selector": ".btn--secondary",
+      "declarations": "--btn-text-color: var(--btn-alt-text-color);--btn-text-hover-color: var(--btn-alt-bg-color);--btn-bg-color: var(--btn-alt-bg-color);--btn-bg-hover-color: var(--btn-alt-text-color);--btn-border-color: var(--btn-alt-border-color);--btn-border-hover-color: var(--btn-alt-border-hover-color)"
+    },
+    {
+      "source": "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+      "selector": ".btn--tertiary",
+      "declarations": "--btn-text-color: var(--btn-ter-text-color);--btn-text-hover-color: var(--btn-ter-text-hover-color);--btn-bg-color: var(--btn-ter-bg-color);--btn-bg-hover-color: var(--btn-ter-bg-hover-color);--btn-border-color: var(--btn-ter-bg-color);--btn-border-hover-color: var(--btn-ter-bg-hover-color);padding:.9em 20px"
+    },
+    {
+      "source": "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+      "selector": ".btn--inherit",
+      "declarations": "--btn-text-color: var(--bg-color);--btn-text-hover-color: var(--bg-color);--btn-bg-color: var(--text-color);--btn-bg-hover-color: var(--text-color) / .85;--btn-border-color: var(--text-color);--btn-border-hover-color: var(--text-color) / .85"
+    },
+    {
+      "source": "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+      "selector": "shop-login-button",
+      "declarations": "--buttons-radius: var(--btn-border-radius)"
+    },
+    {
+      "source": "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+      "selector": ":root",
+      "declarations": "--icon-size: 24px"
+    },
+    {
+      "source": "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+      "selector": ".height--full-ignore-header-height",
+      "declarations": "--image-height: 100vh"
+    },
+    {
+      "source": "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+      "selector": ".buttoned-input",
+      "declarations": "--buttoned-input-size: 44px;display:inline-flex;align-items:center;border:1px solid var(--input-border-color);border-radius:var(--btn-border-radius);background:var(--input-background-color);color:rgb(var(--input-text-color))"
+    },
+    {
+      "source": "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+      "selector": ".buttoned-input a",
+      "declarations": "display:flex;align-items:center;height:var(--buttoned-input-size);padding-inline-start:calc(var(--buttoned-input-size) / 3);padding-inline-end:calc(var(--buttoned-input-size) / 10);color:inherit;font-size:var(--input-text-size)"
+    },
+    {
+      "source": "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+      "selector": ".buttoned-input--small",
+      "declarations": "--buttoned-input-size: 33px"
+    },
+    {
+      "source": "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+      "selector": "body",
+      "declarations": "font-family:var(--base-font-family);font-style:var(--base-font-style);font-weight:var(--base-font-weight)"
+    },
+    {
+      "source": "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+      "selector": "h1,.h1,h2,h3,h4,h5,h6,.heading-font",
+      "declarations": "font-family:var(--heading-font-family);font-style:var(--heading-font-style);font-weight:var(--heading-font-weight);letter-spacing:var(--heading-font-letter-spacing)"
+    },
+    {
+      "source": "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+      "selector": ".pageheader .logotext,#shoplogo .logotext",
+      "declarations": "font-family:var(--logo-font-family);font-style:var(--logo-font-style);font-weight:var(--logo-font-weight)"
+    },
+    {
+      "source": "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+      "selector": "h1,.h1,h2,h3,h4,h5,h6,.heading-font",
+      "declarations": "margin-bottom:10px;color:rgb(var(--heading-color));line-height:1.2"
+    },
+    {
+      "source": "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+      "selector": "h1 a,h2 a,h3 a,h4 a,h5 a,h6 a",
+      "declarations": "color:inherit;text-decoration:none"
+    },
+    {
+      "source": "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+      "selector": ":root",
+      "declarations": "--font-scale: calc((var(--larger-text-size) - var(--base-text-size)) * .16)"
+    },
+    {
+      "source": "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+      "selector": ":root",
+      "declarations": "--font-scale: calc((var(--larger-mobile-text-size) - var(--base-text-size)) * .16)"
+    },
+    {
+      "source": "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+      "selector": ".underline,.product-policies a,.underline-child a",
+      "declarations": "text-decoration:underline;text-underline-offset:2px;text-decoration-color:rgb(var(--link-color)/.4);text-decoration-thickness:1px"
+    },
+    {
+      "source": "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+      "selector": ".underline:hover,.product-policies a:hover,.underline-child a:hover",
+      "declarations": "text-decoration-color:currentColor"
+    },
+    {
+      "source": "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+      "selector": ".announcement-bar__announcement-controller .announcement-button",
+      "declarations": "background:var(--bg-color);color:inherit"
+    },
+    {
+      "source": "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+      "selector": ".pageheader",
+      "declarations": "--link-color: var(--header-text-col);position:relative;z-index:4000;transition:background-color 175ms ease-in;background:var(--header-bg-col);color:var(--header-text-col)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Gnista - non-alcoholic spirits & alt wines from Sweden",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gnistaspirits.com/"
+      ]
+    },
+    "colors.primary-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gnistaspirits.com/",
+        "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gnistaspirits.com/",
+        "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gnistaspirits.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gnistaspirits.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gnistaspirits.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gnistaspirits.com/",
+        "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+        "https://gnistaspirits.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gnistaspirits.com/",
+        "https://gnistaspirits.com/cdn/shop/t/2/assets/main.css?v=145542733529894371861770302153",
+        "https://gnistaspirits.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css"
+      ]
+    },
+    "colors.danger-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css"
+      ]
+    },
+    "colors.danger-border": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css"
+      ]
+    },
+    "colors.success-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.testimonial-marquee": {
+      "status": "inferred"
+    }
+  }
+}

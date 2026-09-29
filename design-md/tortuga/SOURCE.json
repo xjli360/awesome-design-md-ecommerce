@@ -1,0 +1,870 @@
+{
+  "source_url": "https://tortugabackpacks.com",
+  "final_url": "https://www.tortugabackpacks.com/",
+  "captured_at": "2026-09-28T10:07:51.398112+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://tortugabackpacks.com",
+      "final_url": "https://www.tortugabackpacks.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "1b71af3e7d72b967051212cb71c84a3058c79f05514fc98190d2c4246b0a8a72",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+      "final_url": "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6f3e5e94371fdbacc1901d04cb77e1b0ce28c6ff4d9a6b5b97a69510eefeda78",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/swatches.css?v=157844926215047500451783269432",
+      "final_url": "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/swatches.css?v=157844926215047500451783269432",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a209f5606dd352d6d788727c1461a3b4c03da8fcac0c378d1cb204ca77a5c235",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.tortugabackpacks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.tortugabackpacks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/custom-styles.css?v=173848209024454905641783269504",
+      "final_url": "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/custom-styles.css?v=173848209024454905641783269504",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e46270e9fc592e814022b256b2d645396847a28c1ab42ecc3ef724e24501432d",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "be10bc4b16346e787891f1da5de658505019fcd30172651891a4bf550c948e36",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 105,
+      "sources": [
+        "https://www.tortugabackpacks.com/",
+        "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+        "https://www.tortugabackpacks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#000000": {
+      "count": 88,
+      "sources": [
+        "https://www.tortugabackpacks.com/",
+        "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+        "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/swatches.css?v=157844926215047500451783269432",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 32,
+      "sources": [
+        "https://www.tortugabackpacks.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#01462b": {
+      "count": 25,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#1d2226": {
+      "count": 20,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 15,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#fcfcfc": {
+      "count": 12,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#79341b": {
+      "count": 12,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 12,
+      "sources": [
+        "https://www.tortugabackpacks.com/",
+        "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 10,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#b32428": {
+      "count": 9,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#e1c16e": {
+      "count": 9,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 9,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#333333": {
+      "count": 7,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#f8f7f6": {
+      "count": 6,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#666666": {
+      "count": 6,
+      "sources": [
+        "https://www.tortugabackpacks.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#bdbdbd": {
+      "count": 6,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#282f34": {
+      "count": 6,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#555555": {
+      "count": 6,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 5,
+      "sources": [
+        "https://www.tortugabackpacks.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#4c4c4c": {
+      "count": 5,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 5,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#efefef": {
+      "count": 5,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 4,
+      "sources": [
+        "https://www.tortugabackpacks.com/",
+        "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+        "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/swatches.css?v=157844926215047500451783269432"
+      ]
+    },
+    "#7a1013": {
+      "count": 4,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#f67a7e": {
+      "count": 4,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#015f3a": {
+      "count": 4,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#a54545": {
+      "count": 4,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#3e180a": {
+      "count": 4,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#ee6e3f": {
+      "count": 4,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#642b16": {
+      "count": 4,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#fafafa": {
+      "count": 4,
+      "sources": [
+        "https://www.tortugabackpacks.com/",
+        "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+        "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/swatches.css?v=157844926215047500451783269432"
+      ]
+    },
+    "#0000000d": {
+      "count": 4,
+      "sources": [
+        "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433"
+      ]
+    },
+    "#00000000": {
+      "count": 4,
+      "sources": [
+        "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+        "https://www.tortugabackpacks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 3,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#444444": {
+      "count": 3,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 3,
+      "sources": [
+        "https://www.tortugabackpacks.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#00000005": {
+      "count": 3,
+      "sources": [
+        "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433"
+      ]
+    },
+    "#0000008c": {
+      "count": 3,
+      "sources": [
+        "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 3,
+      "sources": [
+        "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#108474": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#4d4d4d": {
+      "count": 2,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#f1efed": {
+      "count": 2,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#edeae8": {
+      "count": 2,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#ddb859": {
+      "count": 2,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#0d0d0d": {
+      "count": 2,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 2,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#080808": {
+      "count": 2,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#cec4c4": {
+      "count": 2,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#933d3d": {
+      "count": 2,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#cdff00": {
+      "count": 2,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 2,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 2,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#dcdcdc": {
+      "count": 2,
+      "sources": [
+        "https://www.tortugabackpacks.com/",
+        "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/swatches.css?v=157844926215047500451783269432"
+      ]
+    },
+    "#767676": {
+      "count": 2,
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "#0000000a": {
+      "count": 2,
+      "sources": [
+        "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 2,
+      "sources": [
+        "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#00000033": {
+      "count": 2,
+      "sources": [
+        "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433"
+      ]
+    },
+    "#0000001a": {
+      "count": 2,
+      "sources": [
+        "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433"
+      ]
+    },
+    "#00ffff": {
+      "count": 2,
+      "sources": [
+        "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/swatches.css?v=157844926215047500451783269432"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Baskerville": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Geist": [
+      "https://www.tortugabackpacks.com/"
+    ],
+    "Helvetica": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons\" !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons' !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeStar": [
+      "https://www.tortugabackpacks.com/"
+    ],
+    "JudgemeStar' !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Nunito Sans": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Owners": [
+      "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/custom-styles.css?v=173848209024454905641783269504"
+    ],
+    "OwnersNarrow": [
+      "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/custom-styles.css?v=173848209024454905641783269504"
+    ],
+    "OwnersWide": [
+      "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/custom-styles.css?v=173848209024454905641783269504"
+    ],
+    "monospace": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "sans-serif": [
+      "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/custom-styles.css?v=173848209024454905641783269504",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.tortugabackpacks.com/",
+      "selector": "body, .color-scheme-1, .color-scheme-2, .color-scheme-3, .color-scheme-4, .color-scheme-5, .color-scheme-6, .color-scheme-7, .color-scheme-8, .color-scheme-9, .",
+      "declarations": "color: var(--text);\n    background: var(--bg);"
+    },
+    {
+      "source": "https://www.tortugabackpacks.com/",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #01462B;--jdgm-secondary-color: rgba(1,70,43,0.1);--jdgm-star-color: #01462B;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #01462B;--jdgm-paginate-color: #01462B;--jdgm-border-radius: 0;--jdgm-reviewer-name-color: #01462B"
+    },
+    {
+      "source": "https://www.tortugabackpacks.com/",
+      "selector": ":root",
+      "declarations": "--ANNOUNCEMENT-HEIGHT-DESKTOP: max(calc(var(--font-body-small) * var(--line-height-normal)), 36px);\n    --ANNOUNCEMENT-HEIGHT-MOBILE: max(calc(var(--font-body-small) * var(--line-height-normal)), 36px);"
+    },
+    {
+      "source": "https://www.tortugabackpacks.com/",
+      "selector": "--PT: 2px;\n  --PB: 2px;\n\n  --ticker-direction: ticker-rtl;--text-size: var(--font-body-small);\n  --text-align: center;\n  --justify-content: center;\n--padding-sc",
+      "declarations": "--HEADER-HEIGHT: 80px;\n    --HEADER-HEIGHT-MEDIUM: 76.0px;\n    --HEADER-HEIGHT-MOBILE: 54.0px;\n\n    \n--icon-add-cart: var(--ICON-ADD-BAG);"
+    },
+    {
+      "source": "https://www.tortugabackpacks.com/",
+      "selector": ".theme__header",
+      "declarations": "--PT: 15px;\n    --PB: 5px;"
+    },
+    {
+      "source": "https://www.tortugabackpacks.com/",
+      "selector": ".header__logo__link",
+      "declarations": "--logo-padding: 30.0%;\n      --logo-width-desktop: 200px;\n      --logo-width-mobile: 120px;"
+    },
+    {
+      "source": "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+      "selector": ".flickity-button",
+      "declarations": "position:absolute;border:none;background:none;color:inherit"
+    },
+    {
+      "source": "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+      "selector": ".flickity-prev-next-button",
+      "declarations": "--bg: var(--COLOR-BG);--bg-brighter: var(--COLOR-BG-BRIGHTER);--icon-size: 28px;--btn-size: 40px;top:50%;width:var(--btn-size);height:var(--btn-size);padding:0;background-color:var(--bg);border-radius:var(--RADIUS);box-shadow:0 2px 6px #0000000a,0 2px 2px #00000005;margin-top:calc(var(--btn-size) / -2)"
+    },
+    {
+      "source": "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+      "selector": ".flickity-prev-next-button:after",
+      "declarations": "content:\"\";position:absolute;top:0;left:0;z-index:-1;width:100%;height:100%;background-color:var(--bg-brighter);opacity:1;transform:translate3d(0,100%,0);transition:transform .5s cubic-bezier(.33,0,0,1);will-change:transform;-webkit-backface-visibility:hidden;backface-visibility:hidden"
+    },
+    {
+      "source": "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button",
+      "declarations": "color:#3a3a3a;border-radius:0;border:none;margin:0;cursor:pointer"
+    },
+    {
+      "source": "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button--control:hover",
+      "declarations": "color:#0000008c"
+    },
+    {
+      "source": "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button--control:active,.shopify-model-viewer-ui .shopify-model-viewer-ui__button--control.focus-visible:focus",
+      "declarations": "color:#0000008c;background:#0000000d"
+    },
+    {
+      "source": "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button--poster:hover,.shopify-model-viewer-ui .shopify-model-viewer-ui__button--poster:focus",
+      "declarations": "color:#0000008c"
+    },
+    {
+      "source": "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+      "selector": "button",
+      "declarations": "border:none;background:none;font-family:inherit;font-size:100%;margin:0;text-transform:none;line-height:1;color:currentcolor"
+    },
+    {
+      "source": "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+      "selector": "age-link:focus img,body.is-focused .article__image-link:focus .image-wrapper,body.is-focused .product__slides:focus,body.is-focused a.frame__item:focus img,body",
+      "declarations": "outline-color:var(--accent)!important;outline-offset:-2px!important;outline-style:auto!important;outline-width:5px!important"
+    },
+    {
+      "source": "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+      "selector": "body.is-focused *:focus",
+      "declarations": "outline-color:var(--accent)"
+    },
+    {
+      "source": "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+      "selector": "body.is-focused .deferred-media__poster:focus .deferred-media__poster-button,body.is-focused .deferred-media__poster.focus-visible .deferred-media__poster-butto",
+      "declarations": "outline-color:var(--accent);outline-offset:2px;outline-style:auto;outline-width:5px"
+    },
+    {
+      "source": "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+      "selector": "#challenge .shopify-challenge__button",
+      "declarations": "--btn-border: var(--BTN-PRIMARY-BG);--btn-bg: var(--BTN-PRIMARY-BG);--btn-text: var(--BTN-PRIMARY-TEXT);--btn-border-hover: var(--BTN-PRIMARY-BG-BRIGHTER);--btn-bg-hover: var(--BTN-PRIMARY-BG-BRIGHTER);--btn-text-hover: var(--BTN-PRIMARY-TEXT)"
+    },
+    {
+      "source": "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+      "selector": "body.grid-compact .grid-outer",
+      "declarations": "--outer: 0px;--outer-offset: 0px;--gutter: 0px;--gap: 0px"
+    },
+    {
+      "source": "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+      "selector": ".slider__button",
+      "declarations": "--bg: var(--COLOR-BG);--bg-brighter: var(--COLOR-BG-BRIGHTER);--icon-size: 28px;--btn-size: 40px;position:absolute;top:var(--button-position, 50%);width:var(--btn-size);height:var(--btn-size);padding:0;border:0;border-radius:var(--RADIUS);color:inherit;background:var(--bg);box-shadow:0 2px 6px #0000000a,0 2px 2px #00000005;margin-top:calc(var(--btn-size) / -2);overflow:hidden;font-size:0;text-indent:-100%;cursor:pointer;pointer-events:auto"
+    },
+    {
+      "source": "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+      "selector": ".slider__button:after",
+      "declarations": "content:\"\";position:absolute;top:0;left:0;z-index:-1;width:100%;height:100%;background-color:var(--bg-brighter)"
+    },
+    {
+      "source": "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+      "selector": ":root",
+      "declarations": "--full-height: 100vh;--full-screen: var(--full-height);--three-quarters: 75vh;--two-thirds: 66vh;--one-half: 50vh;--one-third: 33vh;--header-height: 80px;--header-sticky-height: 0px;--footer-height: 500px;--announcement-height: 0px;--content-full: 90vh;--content-min: calc(100vh - var(--header-height) - var(--announcement-height))"
+    },
+    {
+      "source": "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+      "selector": ":root",
+      "declarations": "--header-height: var(--HEADER-HEIGHT, 0px)"
+    },
+    {
+      "source": "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+      "selector": ":root",
+      "declarations": "--announcement-height: var(--ANNOUNCEMENT-HEIGHT-DESKTOP, 0px)"
+    },
+    {
+      "source": "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+      "selector": ":root",
+      "declarations": "--header-height: var(--HEADER-HEIGHT-MEDIUM, 0px)"
+    },
+    {
+      "source": "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+      "selector": ":root",
+      "declarations": "--header-height: var(--HEADER-HEIGHT-MOBILE, 0px);--announcement-height: var(--ANNOUNCEMENT-HEIGHT-MOBILE, 0px)"
+    },
+    {
+      "source": "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+      "selector": "body:has([data-header-sticky]) .main-content>.shopify-section",
+      "declarations": "--full-screen: calc(var(--full-height) - var(--header-height))"
+    },
+    {
+      "source": "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+      "selector": "body:has([data-header-sticky]) .main-content>.shopify-section:first-of-type",
+      "declarations": "--full-screen: calc(var(--full-height) - var(--header-height) - var(--announcement-height))"
+    },
+    {
+      "source": "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+      "selector": "body:has([data-header-transparent]) .main-content>.shopify-section.section-overlay-header:first-of-type",
+      "declarations": "--full-screen: calc(var(--full-height) - var(--announcement-height))"
+    },
+    {
+      "source": "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+      "selector": ".has-header-sticky",
+      "declarations": "--header-sticky-height: var(--header-height)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Tortuga Travel Backpacks | Award-Winning Carry Ons and Personal Items",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tortugabackpacks.com/",
+        "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+        "https://www.tortugabackpacks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tortugabackpacks.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tortugabackpacks.com/",
+        "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+        "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/swatches.css?v=157844926215047500451783269432"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tortugabackpacks.com/",
+        "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+        "https://www.tortugabackpacks.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "colors.accent-brown": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "colors.accent-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.accent-lime": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "colors.sale-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tortugabackpacks.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tortugabackpacks.com/",
+        "https://www.tortugabackpacks.com/cdn/shop/t/391/assets/theme.css?v=2696927897961675441783269433",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.fit-quiz-card": {
+      "status": "inferred"
+    }
+  }
+}

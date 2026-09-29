@@ -1,0 +1,872 @@
+{
+  "source_url": "https://ring.com",
+  "final_url": "https://ring.com/",
+  "captured_at": "2026-09-28T04:21:18.125792+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://ring.com",
+      "final_url": "https://ring.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "55de54721c87ed2bc58d49cacc4d193cabaf68972d82d1a29151b5624d273874",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+      "final_url": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "14f859be9e0d90b3ea2ce989bedc3c4f43e091b3e395be596b6a86b3101b6411",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ct_productdetail-808498fd719f1c67889668da1ae25c19.css",
+      "final_url": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ct_productdetail-808498fd719f1c67889668da1ae25c19.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2af6fe3f4f0e23184c408ca88159d19d85f969f780042d678623381b16896d7a",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ct_50-50-2edc89bc0f94a63aa368c0890b0252d8.css",
+      "final_url": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ct_50-50-2edc89bc0f94a63aa368c0890b0252d8.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "88df5b5e6b37d0fb2ebcf6f13a2630c603b873ac49c4643727ea49cef74f1c61",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ct_50-50_image_gallery_block-037a2f792bad18809269601ffe9e5902.css",
+      "final_url": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ct_50-50_image_gallery_block-037a2f792bad18809269601ffe9e5902.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1908ec72005675741d3a39b8c9bf41dde1507ade4c7b131476457b30c6ea1165",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ct_accordion-71d670b4168a6dbef35fd879e7f6c56f.css",
+      "final_url": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ct_accordion-71d670b4168a6dbef35fd879e7f6c56f.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "29f44c7f785a223dc2989eb8c1209f3751873226779e3d8cce9af21588f819d0",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 98,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ct_50-50_image_gallery_block-037a2f792bad18809269601ffe9e5902.css"
+      ]
+    },
+    "#dee5ec": {
+      "count": 72,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ct_productdetail-808498fd719f1c67889668da1ae25c19.css",
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ct_50-50-2edc89bc0f94a63aa368c0890b0252d8.css",
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ct_50-50_image_gallery_block-037a2f792bad18809269601ffe9e5902.css",
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ct_accordion-71d670b4168a6dbef35fd879e7f6c56f.css"
+      ]
+    },
+    "#f1670d": {
+      "count": 42,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#0074c2": {
+      "count": 38,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ct_productdetail-808498fd719f1c67889668da1ae25c19.css"
+      ]
+    },
+    "#0063a5": {
+      "count": 27,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#c74e00": {
+      "count": 24,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#424242": {
+      "count": 20,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#d4231a": {
+      "count": 20,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#6e6e6e": {
+      "count": 19,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#facaab": {
+      "count": 19,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#bdbdbd": {
+      "count": 17,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#005188": {
+      "count": 16,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#a4deff": {
+      "count": 15,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#9c4308": {
+      "count": 15,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#121212": {
+      "count": 14,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#fafbfc": {
+      "count": 12,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#b8251d": {
+      "count": 12,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#f7b9b6": {
+      "count": 12,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#000000": {
+      "count": 12,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#eff8fc": {
+      "count": 11,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#81919f": {
+      "count": 11,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#fdefe6": {
+      "count": 10,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#f6f8fa": {
+      "count": 10,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#ececec": {
+      "count": 8,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#fcefef": {
+      "count": 8,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#282b2f": {
+      "count": 7,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#f0f8f0": {
+      "count": 6,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#4e5761": {
+      "count": 6,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#003d61": {
+      "count": 5,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#178019": {
+      "count": 5,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#96231d": {
+      "count": 5,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#ff9900": {
+      "count": 5,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#37b6f3": {
+      "count": 4,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#65baeb": {
+      "count": 4,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#602500": {
+      "count": 4,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#ff852b": {
+      "count": 4,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#f69c61": {
+      "count": 4,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#0b4a0c": {
+      "count": 4,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#22580e": {
+      "count": 4,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#157217": {
+      "count": 4,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#5ebf60": {
+      "count": 4,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#83c284": {
+      "count": 4,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#bcdebd": {
+      "count": 4,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#780500": {
+      "count": 4,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#ff554b": {
+      "count": 4,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#ef7d76": {
+      "count": 4,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#866e04": {
+      "count": 4,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#a48c22": {
+      "count": 4,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#cbac20": {
+      "count": 4,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#fdd835": {
+      "count": 4,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#fff653": {
+      "count": 4,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#fde57b": {
+      "count": 4,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#fff2b9": {
+      "count": 4,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#fefbea": {
+      "count": 4,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#a66300": {
+      "count": 4,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#ffdba6": {
+      "count": 4,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#363e47": {
+      "count": 4,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#0080cc": {
+      "count": 4,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#119e96": {
+      "count": 4,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "#d23313": {
+      "count": 4,
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+    ],
+    "Arial": [
+      "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+    ],
+    "BlinkMacSystemFont": [
+      "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+    ],
+    "Helvetica": [
+      "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+    ],
+    "RingSans": [
+      "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+    ],
+    "Segoe UI": [
+      "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+    ],
+    "monospace": [
+      "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+    ],
+    "sans-serif": [
+      "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+      "selector": "header.sample_header>div a",
+      "declarations": "color:var(--color-neutral-300);text-decoration:none"
+    },
+    {
+      "source": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+      "selector": "header.sample_header>div a.active,header.sample_header>div a:hover",
+      "declarations": "color:var(--color-neutral-500)"
+    },
+    {
+      "source": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+      "selector": ".btn:not(.btn--video-play),.btn:not(.btn--white),button:not(.btn--video-play),button:not(.btn--white)",
+      "declarations": "background:#121212;color:#fff"
+    },
+    {
+      "source": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+      "selector": ".btn:not(.btn--video-play):disabled,.btn:not(.btn--white):disabled,button:not(.btn--video-play):disabled,button:not(.btn--white):disabled",
+      "declarations": "color:#bdbdbd;background:#6e6e6e;pointer-events:not-allowed"
+    },
+    {
+      "source": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+      "selector": ".btn:not(.btn--video-play).btn--outlined,.btn:not(.btn--white).btn--outlined,button:not(.btn--video-play).btn--outlined,button:not(.btn--white).btn--outlined",
+      "declarations": "background:0 0;color:#f1670d;border:1px solid #f1670d"
+    },
+    {
+      "source": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+      "selector": ".btn:not(.btn--video-play).btn--outlined:hover,.btn:not(.btn--white).btn--outlined:hover,button:not(.btn--video-play).btn--outlined:hover,button:not(.btn--white",
+      "declarations": "color:#c74e00;border:1px solid #c74e00"
+    },
+    {
+      "source": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+      "selector": ".btn:not(.btn--video-play).btn--outlined:focus,.btn:not(.btn--white).btn--outlined:focus,button:not(.btn--video-play).btn--outlined:focus,button:not(.btn--white",
+      "declarations": "color:#f1670d;border:1px solid #f1670d;background:#fdefe6"
+    },
+    {
+      "source": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+      "selector": ".btn:not(.btn--video-play).btn--outlined:disabled,.btn:not(.btn--white).btn--outlined:disabled,button:not(.btn--video-play).btn--outlined:disabled,button:not(.b",
+      "declarations": "color:#facaab;border:1px solid #facaab"
+    },
+    {
+      "source": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+      "selector": ".btn:not(.btn--video-play).btn--darker,.btn:not(.btn--white).btn--darker,button:not(.btn--video-play).btn--darker,button:not(.btn--white).btn--darker",
+      "declarations": "color:#9c4308;border-color:#9c4308"
+    },
+    {
+      "source": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+      "selector": ".btn:not(.btn--video-play).btn--ghost,.btn:not(.btn--white).btn--ghost,button:not(.btn--video-play).btn--ghost,button:not(.btn--white).btn--ghost",
+      "declarations": "background:#fff;color:#f1670d"
+    },
+    {
+      "source": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+      "selector": ".btn:not(.btn--video-play).btn--ghost:hover,.btn:not(.btn--white).btn--ghost:hover,button:not(.btn--video-play).btn--ghost:hover,button:not(.btn--white).btn--gh",
+      "declarations": "color:#c74e00"
+    },
+    {
+      "source": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+      "selector": ".btn:not(.btn--video-play).btn--ghost:focus,.btn:not(.btn--white).btn--ghost:focus,button:not(.btn--video-play).btn--ghost:focus,button:not(.btn--white).btn--gh",
+      "declarations": "color:#f1670d;background:#fdefe6"
+    },
+    {
+      "source": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+      "selector": ".btn:not(.btn--video-play).btn--ghost:disabled,.btn:not(.btn--white).btn--ghost:disabled,button:not(.btn--video-play).btn--ghost:disabled,button:not(.btn--white",
+      "declarations": "color:#facaab"
+    },
+    {
+      "source": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+      "selector": "tn--blue,button:not(.btn--video-play).btn--negative,button:not(.btn--video-play).btn--orange,button:not(.btn--white).btn--blue,button:not(.btn--white).btn--nega",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+      "selector": ".btn.btn--orange.btn--outlined,button.btn--orange.btn--outlined",
+      "declarations": "background:0 0;color:#f1670d;border:1px solid #f1670d"
+    },
+    {
+      "source": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+      "selector": ".btn.btn--orange.btn--outlined:hover,button.btn--orange.btn--outlined:hover",
+      "declarations": "color:#c74e00;border:1px solid #c74e00"
+    },
+    {
+      "source": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+      "selector": ".btn.btn--orange.btn--outlined:focus,button.btn--orange.btn--outlined:focus",
+      "declarations": "color:#f1670d;border:1px solid #f1670d;background:#fdefe6"
+    },
+    {
+      "source": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+      "selector": ".btn.btn--orange.btn--outlined:disabled,button.btn--orange.btn--outlined:disabled",
+      "declarations": "color:#facaab;border:1px solid #facaab"
+    },
+    {
+      "source": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+      "selector": ".btn.btn--orange.btn--darker,button.btn--orange.btn--darker",
+      "declarations": "color:#9c4308;border-color:#9c4308"
+    },
+    {
+      "source": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+      "selector": ".btn.btn--orange.btn--ghost,button.btn--orange.btn--ghost",
+      "declarations": "background:#fff;color:#f1670d"
+    },
+    {
+      "source": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+      "selector": ".btn.btn--orange.btn--ghost:hover,button.btn--orange.btn--ghost:hover",
+      "declarations": "color:#c74e00"
+    },
+    {
+      "source": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+      "selector": ".btn.btn--orange.btn--ghost:focus,button.btn--orange.btn--ghost:focus",
+      "declarations": "color:#f1670d;background:#fdefe6"
+    },
+    {
+      "source": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+      "selector": ".btn.btn--orange.btn--ghost:disabled,button.btn--orange.btn--ghost:disabled",
+      "declarations": "color:#facaab"
+    },
+    {
+      "source": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+      "selector": ".btn.btn--blue,button.btn--blue",
+      "declarations": "background:#0074c2;color:#fff"
+    },
+    {
+      "source": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+      "selector": ".btn.btn--blue.btn--outlined,button.btn--blue.btn--outlined",
+      "declarations": "background:0 0;color:#0074c2;border:1px solid #0074c2"
+    },
+    {
+      "source": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+      "selector": ".btn.btn--blue.btn--outlined:hover,button.btn--blue.btn--outlined:hover",
+      "declarations": "color:#0063a5;border:1px solid #0063a5"
+    },
+    {
+      "source": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+      "selector": ".btn.btn--blue.btn--outlined:focus,button.btn--blue.btn--outlined:focus",
+      "declarations": "color:#0074c2;border:1px solid #0074c2;background:#eff8fc"
+    },
+    {
+      "source": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+      "selector": ".btn.btn--blue.btn--outlined:disabled,button.btn--blue.btn--outlined:disabled",
+      "declarations": "color:#a4deff;border:1px solid #a4deff"
+    },
+    {
+      "source": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+      "selector": ".btn.btn--blue.btn--darker,button.btn--blue.btn--darker",
+      "declarations": "color:#9c4308;border-color:#9c4308"
+    },
+    {
+      "source": "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+      "selector": ".btn.btn--blue.btn--ghost,button.btn--blue.btn--ghost",
+      "declarations": "background:#fff;color:#0074c2"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Home Security Systems - Cameras, Alarms, Doorbells | Ring",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "colors.primary-active": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ct_50-50_image_gallery_block-037a2f792bad18809269601ffe9e5902.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ct_productdetail-808498fd719f1c67889668da1ae25c19.css",
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ct_50-50-2edc89bc0f94a63aa368c0890b0252d8.css",
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ct_50-50_image_gallery_block-037a2f792bad18809269601ffe9e5902.css",
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ct_accordion-71d670b4168a6dbef35fd879e7f6c56f.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ct_50-50_image_gallery_block-037a2f792bad18809269601ffe9e5902.css"
+      ]
+    },
+    "colors.disabled-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "colors.disabled-text": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "colors.disabled-border": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "colors.focus-surface": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "colors.danger-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "colors.success-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ring.min-4c24a6a84d1ebf4ee150b12903df188b.css",
+        "https://d39xvdj9d5ntm1.cloudfront.net/common/css/ct_productdetail-808498fd719f1c67889668da1ae25c19.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.security-status-badge": {
+      "status": "inferred"
+    }
+  }
+}

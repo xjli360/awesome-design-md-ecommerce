@@ -1,0 +1,1279 @@
+{
+  "source_url": "https://foxracing.com",
+  "final_url": "https://www.foxracing.com/",
+  "captured_at": "2026-09-29T04:06:35.148373+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://foxracing.com",
+      "final_url": "https://www.foxracing.com/",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "70123ff6b93cfb697f00eb5cdb7eb6e320a9610371724f61effda6fc759d82cf",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css",
+      "final_url": "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b27bfee36998b5426c2f99485578feb112a3896029679220af45e67f89714846",
+      "snapshot": "rendered-style-1.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Roboto:400,500,700,900&display=swap",
+      "final_url": "https://fonts.googleapis.com/css?family=Roboto:400,500,700,900&display=swap",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "81de95793625ba8436936a2d9ce79b9479222f75fc295fcb4ac5b26715f7b3ee",
+      "snapshot": "rendered-style-2.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400&family=IBM+Plex+Mono:ital,wght@0,400&family=Mulish:ital,wght@0,400&family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&family=Roboto:ital,wght@0,400;0,500;0,600;0,700&family=Space+Grotesk:ital,wght@0,400&family=Space+Mono:ital,wght@0,400&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400&family=IBM+Plex+Mono:ital,wght@0,400&family=Mulish:ital,wght@0,400&family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&family=Roboto:ital,wght@0,400;0,500;0,600;0,700&family=Space+Grotesk:ital,wght@0,400&family=Space+Mono:ital,wght@0,400&display=swap",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "aec2591a63792ab5f10fca13601106e183216ff1313c599e2bde12d3d655bff2",
+      "snapshot": "rendered-style-3.css"
+    },
+    {
+      "url": "https://www.foxracing.com/#computed-style-snapshot",
+      "final_url": "https://www.foxracing.com/#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "9ed2f5e09cc554b667b04ad09469f3f27d4f1c53f006c4da856518cc278cf392",
+      "snapshot": "rendered-style-4.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400&family=IBM+Plex+Mono:ital,wght@0,400&family=Mulish:ital,wght@0,400&family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&family=Roboto:ital,wght@0,400;0,500;0,600;0,700&family=Space+Grotesk:ital,wght@0,400&family=Space+Mono:ital,wght@0,400&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400&family=IBM+Plex+Mono:ital,wght@0,400&family=Mulish:ital,wght@0,400&family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&family=Roboto:ital,wght@0,400;0,500;0,600;0,700&family=Space+Grotesk:ital,wght@0,400&family=Space+Mono:ital,wght@0,400&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "aec2591a63792ab5f10fca13601106e183216ff1313c599e2bde12d3d655bff2",
+      "snapshot": "import-1.css"
+    },
+    {
+      "url": "https://use.typekit.net/mon1cpf.css",
+      "final_url": "https://use.typekit.net/mon1cpf.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "b9700c673792a4d0f2be94d8610ff5b3c115d9f4f6f61dc5d324a5a66273b17a",
+      "snapshot": "import-2.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 489,
+      "sources": [
+        "https://www.foxracing.com/",
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css",
+        "https://www.foxracing.com/#computed-style-snapshot"
+      ]
+    },
+    "#000000": {
+      "count": 434,
+      "sources": [
+        "https://www.foxracing.com/",
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css",
+        "https://www.foxracing.com/#computed-style-snapshot"
+      ]
+    },
+    "#d6d6d6": {
+      "count": 151,
+      "sources": [
+        "https://www.foxracing.com/",
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css",
+        "https://www.foxracing.com/#computed-style-snapshot"
+      ]
+    },
+    "#0c0a08": {
+      "count": 118,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css",
+        "https://www.foxracing.com/#computed-style-snapshot"
+      ]
+    },
+    "#595959": {
+      "count": 90,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css",
+        "https://www.foxracing.com/#computed-style-snapshot"
+      ]
+    },
+    "#bf242b": {
+      "count": 70,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#00865a": {
+      "count": 51,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#2b2b2a": {
+      "count": 42,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css",
+        "https://www.foxracing.com/#computed-style-snapshot"
+      ]
+    },
+    "#3091e7": {
+      "count": 34,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 33,
+      "sources": [
+        "https://www.foxracing.com/",
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 25,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#ffff00": {
+      "count": 25,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#59ba00": {
+      "count": 24,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#111111": {
+      "count": 24,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#821e91": {
+      "count": 24,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#edd134": {
+      "count": 24,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#0e5cd1": {
+      "count": 24,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#e20b0b": {
+      "count": 24,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#6c757d": {
+      "count": 23,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#40403f": {
+      "count": 22,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#99ff00": {
+      "count": 22,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css",
+        "https://www.foxracing.com/#computed-style-snapshot"
+      ]
+    },
+    "#d8d8d8": {
+      "count": 21,
+      "sources": [
+        "https://www.foxracing.com/",
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#ffcc00": {
+      "count": 20,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#00a1e0": {
+      "count": 19,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#eceee4": {
+      "count": 16,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#212529": {
+      "count": 16,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#e9ecef": {
+      "count": 16,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#3860be": {
+      "count": 15,
+      "sources": [
+        "https://www.foxracing.com/",
+        "https://www.foxracing.com/#computed-style-snapshot"
+      ]
+    },
+    "#495057": {
+      "count": 15,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#73859f": {
+      "count": 13,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#dee2e6": {
+      "count": 13,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#f5f5dc": {
+      "count": 13,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#a52a2a": {
+      "count": 13,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#8f979d": {
+      "count": 13,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#000080": {
+      "count": 13,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#ffa500": {
+      "count": 13,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#fe249a": {
+      "count": 13,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#800080": {
+      "count": 13,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#ff0000": {
+      "count": 13,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#343a40": {
+      "count": 12,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#d8ddc9": {
+      "count": 12,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#b9bfa7": {
+      "count": 12,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#696969": {
+      "count": 11,
+      "sources": [
+        "https://www.foxracing.com/",
+        "https://www.foxracing.com/#computed-style-snapshot"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 11,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 10,
+      "sources": [
+        "https://www.foxracing.com/",
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#999999": {
+      "count": 9,
+      "sources": [
+        "https://www.foxracing.com/",
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#222222": {
+      "count": 9,
+      "sources": [
+        "https://www.foxracing.com/",
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css",
+        "https://www.foxracing.com/#computed-style-snapshot"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 8,
+      "sources": [
+        "https://www.foxracing.com/"
+      ]
+    },
+    "#2b333f": {
+      "count": 7,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#adb5bd": {
+      "count": 7,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#dfdfdf": {
+      "count": 7,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#c7c5c7": {
+      "count": 6,
+      "sources": [
+        "https://www.foxracing.com/"
+      ]
+    },
+    "#e83e8c": {
+      "count": 6,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#f8f9fa": {
+      "count": 6,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#444444": {
+      "count": 6,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#c1c1c1": {
+      "count": 5,
+      "sources": [
+        "https://www.foxracing.com/"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 5,
+      "sources": [
+        "https://www.foxracing.com/"
+      ]
+    },
+    "#d7d7d7": {
+      "count": 5,
+      "sources": [
+        "https://www.foxracing.com/"
+      ]
+    },
+    "#6610f2": {
+      "count": 5,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#6f42c1": {
+      "count": 5,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#fd7e14": {
+      "count": 5,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#20c997": {
+      "count": 5,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#17a2b8": {
+      "count": 5,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#333333": {
+      "count": 4,
+      "sources": [
+        "https://www.foxracing.com/",
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#6cc04a": {
+      "count": 4,
+      "sources": [
+        "https://www.foxracing.com/"
+      ]
+    },
+    "#2e3644": {
+      "count": 4,
+      "sources": [
+        "https://www.foxracing.com/"
+      ]
+    },
+    "#e6ff00": {
+      "count": 4,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#565656": {
+      "count": 3,
+      "sources": [
+        "https://www.foxracing.com/"
+      ]
+    },
+    "#4d4d4d": {
+      "count": 3,
+      "sources": [
+        "https://www.foxracing.com/"
+      ]
+    },
+    "#656565": {
+      "count": 3,
+      "sources": [
+        "https://www.foxracing.com/"
+      ]
+    },
+    "#f6f6f4": {
+      "count": 3,
+      "sources": [
+        "https://www.foxracing.com/"
+      ]
+    },
+    "#545454": {
+      "count": 3,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#818c82": {
+      "count": 3,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#25497c": {
+      "count": 3,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#b1873d": {
+      "count": 3,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#1f96db": {
+      "count": 2,
+      "sources": [
+        "https://www.foxracing.com/"
+      ]
+    },
+    "#468254": {
+      "count": 2,
+      "sources": [
+        "https://www.foxracing.com/"
+      ]
+    },
+    "#2c6415": {
+      "count": 2,
+      "sources": [
+        "https://www.foxracing.com/"
+      ]
+    },
+    "#32ae88": {
+      "count": 2,
+      "sources": [
+        "https://www.foxracing.com/"
+      ]
+    },
+    "#d1d1d1": {
+      "count": 2,
+      "sources": [
+        "https://www.foxracing.com/"
+      ]
+    },
+    "#68b631": {
+      "count": 2,
+      "sources": [
+        "https://www.foxracing.com/"
+      ]
+    },
+    "#888888": {
+      "count": 2,
+      "sources": [
+        "https://www.foxracing.com/",
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#33c3f0": {
+      "count": 2,
+      "sources": [
+        "https://www.foxracing.com/"
+      ]
+    },
+    "#1eaedb": {
+      "count": 2,
+      "sources": [
+        "https://www.foxracing.com/"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 2,
+      "sources": [
+        "https://www.foxracing.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 2,
+      "sources": [
+        "https://www.foxracing.com/"
+      ]
+    },
+    "#f9f9fc": {
+      "count": 2,
+      "sources": [
+        "https://www.foxracing.com/"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://www.foxracing.com/",
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#17191b": {
+      "count": 2,
+      "sources": [
+        "https://www.foxracing.com/",
+        "https://www.foxracing.com/#computed-style-snapshot"
+      ]
+    },
+    "#cecece": {
+      "count": 2,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#1879cd": {
+      "count": 2,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#f9fffa": {
+      "count": 1,
+      "sources": [
+        "https://www.foxracing.com/"
+      ]
+    },
+    "#555555": {
+      "count": 1,
+      "sources": [
+        "https://www.foxracing.com/"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 1,
+      "sources": [
+        "https://www.foxracing.com/"
+      ]
+    },
+    "#e1e1e1": {
+      "count": 1,
+      "sources": [
+        "https://www.foxracing.com/"
+      ]
+    },
+    "#767676": {
+      "count": 1,
+      "sources": [
+        "https://www.foxracing.com/"
+      ]
+    },
+    "#707070": {
+      "count": 1,
+      "sources": [
+        "https://www.foxracing.com/"
+      ]
+    },
+    "#2285f7": {
+      "count": 1,
+      "sources": [
+        "https://www.foxracing.com/"
+      ]
+    },
+    "#27455c": {
+      "count": 1,
+      "sources": [
+        "https://www.foxracing.com/"
+      ]
+    },
+    "#77808e": {
+      "count": 1,
+      "sources": [
+        "https://www.foxracing.com/"
+      ]
+    },
+    "#e4e4e4": {
+      "count": 1,
+      "sources": [
+        "https://www.foxracing.com/"
+      ]
+    },
+    "#e7e7e7": {
+      "count": 1,
+      "sources": [
+        "https://www.foxracing.com/"
+      ]
+    },
+    "#66a8cc": {
+      "count": 1,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#ffcc66": {
+      "count": 1,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#fcf8e3": {
+      "count": 1,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#c5c5c5": {
+      "count": 1,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#cdcdcd": {
+      "count": 1,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#d2d2d2": {
+      "count": 1,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#ebebeb": {
+      "count": 1,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#6a6a6a": {
+      "count": 1,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "#8f8f8f": {
+      "count": 1,
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://www.foxracing.com/",
+      "https://www.foxracing.com/#computed-style-snapshot"
+    ],
+    "Arial": [
+      "https://www.foxracing.com/",
+      "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css",
+      "https://www.foxracing.com/#computed-style-snapshot"
+    ],
+    "BlinkMacSystemFont": [
+      "https://www.foxracing.com/"
+    ],
+    "Cantarell": [
+      "https://www.foxracing.com/",
+      "https://www.foxracing.com/#computed-style-snapshot"
+    ],
+    "Consolas": [
+      "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+    ],
+    "Courier New": [
+      "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+    ],
+    "DM Sans": [
+      "https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400&family=IBM+Plex+Mono:ital,wght@0,400&family=Mulish:ital,wght@0,400&family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&family=Roboto:ital,wght@0,400;0,500;0,600;0,700&family=Space+Grotesk:ital,wght@0,400&family=Space+Mono:ital,wght@0,400&display=swap"
+    ],
+    "Dosis": [
+      "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+    ],
+    "FontAwesome": [
+      "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+    ],
+    "Helvetica": [
+      "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+    ],
+    "Helvetica Neue": [
+      "https://www.foxracing.com/",
+      "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css",
+      "https://www.foxracing.com/#computed-style-snapshot"
+    ],
+    "IBM Plex Mono": [
+      "https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400&family=IBM+Plex+Mono:ital,wght@0,400&family=Mulish:ital,wght@0,400&family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&family=Roboto:ital,wght@0,400;0,500;0,600;0,700&family=Space+Grotesk:ital,wght@0,400&family=Space+Mono:ital,wght@0,400&display=swap"
+    ],
+    "Liberation Mono": [
+      "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+    ],
+    "Menlo": [
+      "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+    ],
+    "Monaco": [
+      "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+    ],
+    "Mulish": [
+      "https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400&family=IBM+Plex+Mono:ital,wght@0,400&family=Mulish:ital,wght@0,400&family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&family=Roboto:ital,wght@0,400;0,500;0,600;0,700&family=Space+Grotesk:ital,wght@0,400&family=Space+Mono:ital,wght@0,400&display=swap"
+    ],
+    "Nunito Sans": [
+      "https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400&family=IBM+Plex+Mono:ital,wght@0,400&family=Mulish:ital,wght@0,400&family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&family=Roboto:ital,wght@0,400;0,500;0,600;0,700&family=Space+Grotesk:ital,wght@0,400&family=Space+Mono:ital,wght@0,400&display=swap"
+    ],
+    "Oxygen-Sans": [
+      "https://www.foxracing.com/",
+      "https://www.foxracing.com/#computed-style-snapshot"
+    ],
+    "Poppins": [
+      "https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400&family=IBM+Plex+Mono:ital,wght@0,400&family=Mulish:ital,wght@0,400&family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&family=Roboto:ital,wght@0,400;0,500;0,600;0,700&family=Space+Grotesk:ital,wght@0,400&family=Space+Mono:ital,wght@0,400&display=swap"
+    ],
+    "Poppins-Klaviyo-Hosted": [
+      "https://www.foxracing.com/"
+    ],
+    "Roboto": [
+      "https://www.foxracing.com/",
+      "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css",
+      "https://fonts.googleapis.com/css?family=Roboto:400,500,700,900&display=swap",
+      "https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400&family=IBM+Plex+Mono:ital,wght@0,400&family=Mulish:ital,wght@0,400&family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&family=Roboto:ital,wght@0,400;0,500;0,600;0,700&family=Space+Grotesk:ital,wght@0,400&family=Space+Mono:ital,wght@0,400&display=swap",
+      "https://www.foxracing.com/#computed-style-snapshot"
+    ],
+    "Roboto Condensed": [
+      "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+    ],
+    "SFMono-Regular": [
+      "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+    ],
+    "Segoe UI": [
+      "https://www.foxracing.com/",
+      "https://www.foxracing.com/#computed-style-snapshot"
+    ],
+    "Space Grotesk": [
+      "https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400&family=IBM+Plex+Mono:ital,wght@0,400&family=Mulish:ital,wght@0,400&family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&family=Roboto:ital,wght@0,400;0,500;0,600;0,700&family=Space+Grotesk:ital,wght@0,400&family=Space+Mono:ital,wght@0,400&display=swap"
+    ],
+    "Space Mono": [
+      "https://fonts.googleapis.com/css2?family=DM+Sans:ital,wght@0,400&family=IBM+Plex+Mono:ital,wght@0,400&family=Mulish:ital,wght@0,400&family=Nunito+Sans:ital,wght@0,200;0,300;0,400;0,600;0,700;0,800;0,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&family=Roboto:ital,wght@0,400;0,500;0,600;0,700&family=Space+Grotesk:ital,wght@0,400&family=Space+Mono:ital,wght@0,400&display=swap"
+    ],
+    "Ubuntu": [
+      "https://www.foxracing.com/",
+      "https://www.foxracing.com/#computed-style-snapshot"
+    ],
+    "VideoJS": [
+      "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+    ],
+    "aktiv-grotesk": [
+      "https://use.typekit.net/mon1cpf.css"
+    ],
+    "archia-bold": [
+      "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+    ],
+    "archia-medium": [
+      "https://www.foxracing.com/",
+      "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css",
+      "https://www.foxracing.com/#computed-style-snapshot"
+    ],
+    "archia-regular": [
+      "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+    ],
+    "icomoon": [
+      "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css",
+      "https://www.foxracing.com/#computed-style-snapshot"
+    ],
+    "monospace": [
+      "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css",
+      "https://use.typekit.net/mon1cpf.css"
+    ],
+    "rift": [
+      "https://use.typekit.net/mon1cpf.css"
+    ],
+    "roboto": [
+      "https://use.typekit.net/mon1cpf.css"
+    ],
+    "roboto-condensed": [
+      "https://use.typekit.net/mon1cpf.css"
+    ],
+    "roboto-mono": [
+      "https://use.typekit.net/mon1cpf.css"
+    ],
+    "sans-serif": [
+      "https://www.foxracing.com/",
+      "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css",
+      "https://www.foxracing.com/#computed-style-snapshot",
+      "https://use.typekit.net/mon1cpf.css"
+    ],
+    "system-ui": [
+      "https://www.foxracing.com/",
+      "https://www.foxracing.com/#computed-style-snapshot"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.foxracing.com/",
+      "selector": "*,#onetrust-pc-sdk h6 *,#onetrust-pc-sdk button *,#onetrust-pc-sdk a[data-parent-id] *,#ot-sync-ntfy h3 *,#ot-sync-ntfy h4 *,#ot-sync-ntfy h6 *,#ot-sync-ntfy bu",
+      "declarations": "font-size:inherit;font-weight:inherit;color:inherit"
+    },
+    {
+      "source": "https://www.foxracing.com/",
+      "selector": "#onetrust-consent-sdk .ot-signature-health .ot-signature-button,#onetrust-consent-sdk .ot-signature-health-group .ot-signature-button",
+      "declarations": "flex:1;height:auto;color:#fff;cursor:pointer;line-height:1.2;min-width:125px;font-weight:600;font-size:.813em;border-radius:2px;padding:12px 10px;white-space:normal;word-wrap:break-word;word-break:break-word;background-color:#68b631;border:2px solid #68b631"
+    },
+    {
+      "source": "https://www.foxracing.com/",
+      "selector": "#onetrust-consent-sdk .ot-signature-health .ot-signature-button.reject,#onetrust-consent-sdk .ot-signature-health-group .ot-signature-button.reject",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://www.foxracing.com/",
+      "selector": "-ntfy thead,#ot-sync-ntfy tr,#ot-sync-ntfy td,#ot-sync-ntfy tbody,#ot-sync-ntfy .ot-main-content,#ot-sync-ntfy .ot-toggle,#ot-sync-ntfy #ot-content,#ot-sync-ntf",
+      "declarations": "font-family:inherit;font-weight:normal;-webkit-font-smoothing:auto;letter-spacing:normal;line-height:normal;padding:0;margin:0;height:auto;min-height:0;max-height:none;width:auto;min-width:0;max-width:none;border-radius:0;border:none;clear:none;float:none;position:static;bottom:auto;left:auto;right:auto;top:auto;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;white-space:normal;background:none;overflow:visible;vertical-align:baseline;visibility:visible;z-index:auto;box-shadow:none"
+    },
+    {
+      "source": "https://www.foxracing.com/",
+      "selector": "-pc-sdk h4,#onetrust-pc-sdk h5,#onetrust-pc-sdk h6,#ot-sdk-cookie-policy h1,#ot-sdk-cookie-policy h2,#ot-sdk-cookie-policy h3,#ot-sdk-cookie-policy h4,#ot-sdk-c",
+      "declarations": "margin-top:0;font-weight:600;font-family:inherit"
+    },
+    {
+      "source": "https://www.foxracing.com/",
+      "selector": "#onetrust-banner-sdk .ot-sdk-button,#onetrust-banner-sdk button,#onetrust-pc-sdk .ot-sdk-button,#onetrust-pc-sdk button,#ot-sdk-cookie-policy .ot-sdk-button,#ot",
+      "declarations": "margin-bottom:1rem;font-family:inherit"
+    },
+    {
+      "source": "https://www.foxracing.com/",
+      "selector": "#onetrust-banner-sdk .ot-sdk-button,#onetrust-banner-sdk button,#onetrust-pc-sdk .ot-sdk-button,#onetrust-pc-sdk button,#ot-sdk-cookie-policy .ot-sdk-button,#ot",
+      "declarations": "display:inline-block;height:38px;padding:0 30px;color:#555;text-align:center;font-size:.9em;font-weight:400;line-height:38px;letter-spacing:.01em;text-decoration:none;white-space:nowrap;background-color:rgba(0,0,0,0);border-radius:2px;border:1px solid #bbb;cursor:pointer;box-sizing:border-box"
+    },
+    {
+      "source": "https://www.foxracing.com/",
+      "selector": "sdk-cookie-policy .ot-sdk-button:hover,#ot-sdk-cookie-policy :not(.ot-leg-btn-container)>button:not(.ot-link-btn):hover,#ot-sdk-cookie-policy :not(.ot-leg-btn-c",
+      "declarations": "color:#333;border-color:#888;opacity:.9"
+    },
+    {
+      "source": "https://www.foxracing.com/",
+      "selector": "tton-primary,#ot-sdk-cookie-policy input[type=submit].ot-sdk-button-primary,#ot-sdk-cookie-policy input[type=reset].ot-sdk-button-primary,#ot-sdk-cookie-policy ",
+      "declarations": "color:#fff;background-color:#33c3f0;border-color:#33c3f0"
+    },
+    {
+      "source": "https://www.foxracing.com/",
+      "selector": "dk-cookie-policy input[type=submit].ot-sdk-button-primary:focus,#ot-sdk-cookie-policy input[type=reset].ot-sdk-button-primary:focus,#ot-sdk-cookie-policy input[",
+      "declarations": "color:#fff;background-color:#1eaedb;border-color:#1eaedb"
+    },
+    {
+      "source": "https://www.foxracing.com/",
+      "selector": "#onetrust-banner-sdk button,#onetrust-pc-sdk button,#ot-sdk-cookie-policy button",
+      "declarations": "margin-bottom:1rem;font-family:inherit"
+    },
+    {
+      "source": "https://www.foxracing.com/",
+      "selector": "#onetrust-banner-sdk .banner-option-header :first-child",
+      "declarations": "color:dimgray;font-weight:bold;float:left"
+    },
+    {
+      "source": "https://www.foxracing.com/",
+      "selector": "#onetrust-consent-sdk #onetrust-banner-sdk #banner-options *,\n                    #onetrust-banner-sdk .ot-cat-header,\n                    #onetrust-banner-sdk ",
+      "declarations": "color: #696969;"
+    },
+    {
+      "source": "https://www.foxracing.com/",
+      "selector": "#onetrust-banner-sdk.ot-close-btn-link .banner-close-button",
+      "declarations": "color: #696969"
+    },
+    {
+      "source": "https://www.foxracing.com/",
+      "selector": "rust-pc-sdk #ot-pc-title,#onetrust-pc-sdk #ot-category-title,#onetrust-pc-sdk .ot-cat-header,#onetrust-pc-sdk #ot-lst-title,#onetrust-pc-sdk .ot-ven-hdr .ot-ven",
+      "declarations": "font-weight:bold;color:dimgray"
+    },
+    {
+      "source": "https://www.foxracing.com/",
+      "selector": "#onetrust-pc-sdk .ot-accordion-layout .ot-cat-header+.ot-arw-cntr .ot-arw",
+      "declarations": "width:15px;height:20px;margin-left:5px;color:dimgray"
+    },
+    {
+      "source": "https://www.foxracing.com/",
+      "selector": "#onetrust-pc-sdk .ot-accordion-layout .ot-cat-header",
+      "declarations": "float:none;color:#2e3644;margin:0;display:inline-block;height:auto;word-wrap:break-word;min-height:inherit"
+    },
+    {
+      "source": "https://www.foxracing.com/",
+      "selector": ".dark-theme a.btn-secondary",
+      "declarations": "color: #000;"
+    },
+    {
+      "source": "https://www.foxracing.com/",
+      "selector": ".bl-25--s .image-block .image-block-text .image-text-block-button .btn-secondary",
+      "declarations": "background-color: #000;"
+    },
+    {
+      "source": "https://www.foxracing.com/",
+      "selector": ".podium-prefooter .btn",
+      "declarations": "background-color: #fff; \n        border-color: #fff;\n        color: black;\nflex-shrink: 0;"
+    },
+    {
+      "source": "https://www.foxracing.com/",
+      "selector": ".header-new#top-header .custom-dropdown:not(.featured-item)>.dropdown-link",
+      "declarations": "margin-bottom: 24px;\n    font-family: \"archia-medium\", sans-serif;\n    font-size: 17px;\n    line-height: 1em;"
+    },
+    {
+      "source": "https://www.foxracing.com/",
+      "selector": ".header-new#top-header .dropdown-menu .featured-item .dropdown-toggle+.dropdown-menu .dropdown-item:last-of-type .dropdown-link",
+      "declarations": "text-decoration: underline;\n    color: black;\n    font-weight: 500;"
+    },
+    {
+      "source": "https://www.foxracing.com/",
+      "selector": ".header-nav#header-nav .custom-dropdown:not(.featured-item)>.dropdown-link",
+      "declarations": "margin-bottom: 24px;\n    font-family: \"archia-medium\", sans-serif;\n    font-size: 17px;\n    line-height: 1em;"
+    },
+    {
+      "source": "https://www.foxracing.com/",
+      "selector": ".header-nav#header-nav .dropdown-menu .featured-item .dropdown-toggle+.dropdown-menu .dropdown-item:last-of-type .dropdown-link",
+      "declarations": "text-decoration: underline;\n    color: black;\n    font-weight: 500;"
+    },
+    {
+      "source": "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css",
+      "selector": ".video-js .vjs-big-play-button .vjs-icon-placeholder:before,.video-js .vjs-play-control .vjs-icon-placeholder,.vjs-icon-play",
+      "declarations": "font-family:VideoJS;font-weight:400;font-style:normal"
+    },
+    {
+      "source": "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css",
+      "selector": "s-button .vjs-icon-placeholder,.video-js.video-js:lang(en-IE) .vjs-subs-caps-button .vjs-icon-placeholder,.video-js.video-js:lang(en-NZ) .vjs-subs-caps-button .",
+      "declarations": "font-family:VideoJS;font-weight:400;font-style:normal"
+    },
+    {
+      "source": "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css",
+      "selector": ".video-js .vjs-captions-button .vjs-icon-placeholder,.video-js:lang(en) .vjs-subs-caps-button .vjs-icon-placeholder,.video-js:lang(fr-CA) .vjs-subs-caps-button ",
+      "declarations": "font-family:VideoJS;font-weight:400;font-style:normal"
+    },
+    {
+      "source": "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css",
+      "selector": ".video-js .vjs-chapters-button .vjs-icon-placeholder,.vjs-icon-chapters",
+      "declarations": "font-family:VideoJS;font-weight:400;font-style:normal"
+    },
+    {
+      "source": "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css",
+      "selector": ".video-js .vjs-control.vjs-close-button .vjs-icon-placeholder,.vjs-icon-cancel",
+      "declarations": "font-family:VideoJS;font-weight:400;font-style:normal"
+    },
+    {
+      "source": "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css",
+      "selector": ".video-js .vjs-descriptions-button .vjs-icon-placeholder,.vjs-icon-audio-description",
+      "declarations": "font-family:VideoJS;font-weight:400;font-style:normal"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "Fox Racing® USA - Official Site - MX, MTB & Clothing",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "bf1b59d466ef6315efbe57c537fd4ad035a84bb46f4428c9a31eeba3b9c6bebf"
+    }
+  ],
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css",
+        "https://www.foxracing.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.ink-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.foxracing.com/",
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css",
+        "https://www.foxracing.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.foxracing.com/",
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css",
+        "https://www.foxracing.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css",
+        "https://www.foxracing.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css",
+        "https://www.foxracing.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.foxracing.com/",
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css",
+        "https://www.foxracing.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.foxracing.com/",
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.foxracing.com/",
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css",
+        "https://www.foxracing.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.accent-yellow": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css"
+      ]
+    },
+    "colors.accent-lime": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.foxracing.com/on/demandware.static/Sites-FoxUS-Site/-/en_US/v1790603793592/css/global.css",
+        "https://www.foxracing.com/#computed-style-snapshot"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.category-filter-panel": {
+      "status": "inferred"
+    }
+  }
+}

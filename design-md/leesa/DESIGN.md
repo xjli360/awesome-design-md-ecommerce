@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Leesa
-description: Leesa is a sleep-first brand that wraps itself in deep teal and warm rust, a palette that feels like dusk settling over a forest canopy. The primary brand voltage is `#0e3739` — a dark, almost-black teal that anchors headlines, buttons, and the top navigation with quiet authority. Against this, `#cc4d0f` and `#ff8347` pulse as accent oranges, used sparingly on sale badges, hover states, and secondary CTAs to create a warm counterpoint that reads as energetic but not aggressive. The canvas is a soft `#f7f5f4` rather than pure white, giving the entire experience a tactile, bedroom-warm quality, while `#e3e2e1` and `#c7c5c3` provide hairline and surface-soft boundaries that never feel harsh. Typography leans on a serif-display pairing: Lustria for headlines (a slab with humanist warmth) and Lato for body and UI — a clean, approachable sans that keeps long product copy legible. Buttons are generously padded and softly rounded at `{rounded.sm}` (8px), while product cards and the search bar use `{rounded.lg}` (20px) to echo the plushness of the product itself. The brand's signature move is the "Leesa Purple" `#2453ce` — a surprise cobalt used sparingly in the footer and legal links, a small jolt of cool that keeps the warm palette from feeling too heavy. Every surface, from the `{colors.surface-card}` to the `{colors.surface-soft}`, is designed to feel like a well-made bed: structured, inviting, and just soft enough to want to stay in.
+name: "Leesa"
+source_url: "https://www.leesa.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Leesa is a sleep-first brand that wraps itself in deep teal and warm rust, a palette that feels like dusk settling over a forest canopy. The primary brand voltage is `#0e3739` — a dark, almost-black teal that anchors headlines, buttons, and the top navigation with quiet authority. Against this, `#cc4d0f` and `#ff8347` pulse as accent oranges, used sparingly on sale badges, hover states, and secondary CTAs to create a warm counterpoint that reads as energetic but not aggressive. The canvas is a soft `#f7f5f4` rather than pure white, giving the entire experience a tactile, bedroom-warm quality, while `#e3e2e1` and `#c7c5c3` provide hairline and surface-soft boundaries that never feel harsh. Typography leans on a serif-display pairing: Lustria for headlines (a slab with humanist warmth) and Lato for body and UI — a clean, approachable sans that keeps long product copy legible. Buttons are generously padded and softly rounded at `{rounded.sm}` (8px), while product cards and the search bar use `{rounded.lg}` (20px) to echo the plushness of the product itself. The brand's signature move is the "Leesa Purple" `#2453ce` — a surprise cobalt used sparingly in the footer and legal links, a small jolt of cool that keeps the warm palette from feeling too heavy. Every surface, from the `{colors.surface-card}` to the `{colors.surface-soft}`, is designed to feel like a well-made bed: structured, inviting, and just soft enough to want to stay in.
 
 colors:
   primary: "#0e3739"
@@ -350,6 +354,8 @@ components:
 - Accordion panels are always collapsed by default on mobile to save vertical space
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components could not be fully extracted; only primary button and text-input focus states were reliably observed
 - Error state styling for forms (validation messages, error icons) was not captured from the live site

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Mockingbird
-description: A deep navy (#223746) frames Mockingbird's entire experience — not as a background, but as the primary brand voltage that colors every button, badge, and interactive element, creating a sense of quiet confidence that's rare in the stroller category. Against this dark anchor, a warm marigold (#f6d381) appears sparingly as the accent that signals action: sale markers, star ratings, and highlight badges glow in this honeyed yellow, while a soft coral (#ea817f) and its paler sibling (#f1afa9) handle secondary accents like limited-edition labels and playful micro-interactions. The canvas stays clean at #ffffff with subtle surfaces at #f2f4f7 and #f7f7f7, letting product photography — strollers in lifestyle settings, detail shots of harness clips and fold mechanisms — carry the emotional weight. Typography runs on Jost for display and Freight Sans Pro for body, a pairing that mixes geometric modernity with warm humanist readability. Buttons use `{rounded.sm}` corners rather than pills, and cards use `{rounded.md}`, a slightly more structured feel that matches the product category's need for safety and precision. The nav bar sits at 80px with a sticky white background, and product cards stack three across on desktop with generous `{spacing.lg}` gutters. A distinctive purple (#805ad5) appears in the extracted palette — likely used for the "Single-to-Double" expandability feature badge and the brand's "Compare" tool — adding a surprising third accent that signals innovation and modularity. The overall mood is trustworthy and warm, a nursery-lit storefront rather than a sterile gear shop.
+name: "Mockingbird"
+source_url: "https://hellomockingbird.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep navy (#223746) frames Mockingbird's entire experience — not as a background, but as the primary brand voltage that colors every button, badge, and interactive element, creating a sense of quiet confidence that's rare in the stroller category. Against this dark anchor, a warm marigold (#f6d381) appears sparingly as the accent that signals action: sale markers, star ratings, and highlight badges glow in this honeyed yellow, while a soft coral (#ea817f) and its paler sibling (#f1afa9) handle secondary accents like limited-edition labels and playful micro-interactions. The canvas stays clean at #ffffff with subtle surfaces at #f2f4f7 and #f7f7f7, letting product photography — strollers in lifestyle settings, detail shots of harness clips and fold mechanisms — carry the emotional weight. Typography runs on Jost for display and Freight Sans Pro for body, a pairing that mixes geometric modernity with warm humanist readability. Buttons use `{rounded.sm}` corners rather than pills, and cards use `{rounded.md}`, a slightly more structured feel that matches the product category's need for safety and precision. The nav bar sits at 80px with a sticky white background, and product cards stack three across on desktop with generous `{spacing.lg}` gutters. A distinctive purple (#805ad5) appears in the extracted palette — likely used for the "Single-to-Double" expandability feature badge and the brand's "Compare" tool — adding a surprising third accent that signals innovation and modularity. The overall mood is trustworthy and warm, a nursery-lit storefront rather than a sterile gear shop.
 
 colors:
   primary: "#223746"
@@ -404,6 +408,8 @@ components:
 - Search bar: On mobile, the inline search bar collapses into a search icon that opens a full-screen search overlay
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for many components (badges, accordions, footer links) could not be reliably extracted from the live site
 - Error state styling for forms (validation messages, error icons) is inferred from common patterns rather than observed

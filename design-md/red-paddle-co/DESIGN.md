@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Red Paddle Co
-description: |
+name: "Red Paddle Co"
+source_url: "https://redpaddleco.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Red names itself twice — the company and the color are the same declaration. Every primary CTA, nav hover-state, and hero overlay runs on #aa0000, a deep crimson that sits closer to a safety flag snapped taut in offshore wind than fire-engine scarlet, and the palette never drifts warm enough to soften it. Against a near-black canvas of #121212 and #222222, this red fires like a warning signal rather than a brand choice, which is precisely the point for a company selling equipment designed to perform in conditions that punish the underbuilt. The secondary steel-blue register — #3c4862 anchoring body copy, #6887a0 softening supporting captions — draws from the tonal family of open water at depth, grounding the palette in the environment the boards actually inhabit without resorting to literal wave illustrations. A warm amber-orange (#f48037) surfaces on promotional chips and urgency badges, providing thermal contrast against the cool water tones and breaking the red-dark-grey monotony in editorial sections; the tan-wood note (#b6855a) appears in paddle-grain imagery zones and warm rule lines, adding material texture to what would otherwise read as purely digital-industrial.
 
   Typography was loaded via JavaScript inheritance at extraction time and no custom font stack resolved — all tokens fall back to a bold system sans-serif until the display face is confirmed. Structurally, the brand communicates through high-contrast editorial blocks: full-bleed water photography cut through with oversized crimson CTAs, tight spec-table grids for board-to-board comparisons, and certification badge clusters. Buttons carry {rounded.none} in hero and buy-box zones — no softening where urgency is required — and graduate to {rounded.sm} only in product-card and filter-chip contexts. Motion is fast and declarative: overlays cut rather than dissolve, spec drawers slide rather than pop, award clusters stack without choreography. Nothing on this canvas exists to feel cozy.
@@ -352,6 +355,8 @@ components:
 - Footer: four-column link grid collapses to two columns on tablet, single-column accordion on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Custom typeface unresolved**: the site loads fonts via JavaScript and the font-family stack returned only "inherit" at extraction time. All typography tokens fall back to system sans-serif. Confirm the brand's display and body typefaces before production use — likely a bold condensed grotesque for display and a neutral sans for body.
 - **Exact hero overlay treatment**: the scrim may use a directional gradient (dark-bottom to transparent-top or left-to-right) rather than a flat rgba value; the exact gradient stop positions were not extractable.

@@ -1,0 +1,811 @@
+{
+  "source_url": "https://ricksteves.com",
+  "final_url": "https://www.ricksteves.com/",
+  "captured_at": "2026-09-28T09:49:11.108859+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://ricksteves.com",
+      "final_url": "https://www.ricksteves.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "8405891d7d30febd39ad854dcbc19361ee7ff5342e0b8bb15d67f2927f3c08a8",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "final_url": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://d2zwvgyp7l6t28.cloudfront.net/assets/print-17585e3a783163f12d9fa41a1cf1166406ad55b3d1694efde60e1481cfa4a7f9.css",
+      "final_url": "https://d2zwvgyp7l6t28.cloudfront.net/assets/print-17585e3a783163f12d9fa41a1cf1166406ad55b3d1694efde60e1481cfa4a7f9.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "17585e3a783163f12d9fa41a1cf1166406ad55b3d1694efde60e1481cfa4a7f9",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://hello.myfonts.net/count/27ccf8",
+      "final_url": "https://hello.myfonts.net/count/27ccf8",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 77,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 61,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/print-17585e3a783163f12d9fa41a1cf1166406ad55b3d1694efde60e1481cfa4a7f9.css"
+      ]
+    },
+    "#005a84": {
+      "count": 48,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#007aa3": {
+      "count": 36,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#252525": {
+      "count": 27,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 17,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 16,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#d0d0d0": {
+      "count": 12,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 10,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/print-17585e3a783163f12d9fa41a1cf1166406ad55b3d1694efde60e1481cfa4a7f9.css"
+      ]
+    },
+    "#d1d1d1": {
+      "count": 9,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#febe11": {
+      "count": 9,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#999999": {
+      "count": 9,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#444444": {
+      "count": 8,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#f39c12": {
+      "count": 8,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#004f74": {
+      "count": 8,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#333333": {
+      "count": 8,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#000000": {
+      "count": 7,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/print-17585e3a783163f12d9fa41a1cf1166406ad55b3d1694efde60e1481cfa4a7f9.css"
+      ]
+    },
+    "#b9b9b9": {
+      "count": 7,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#eef8fc": {
+      "count": 7,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#888888": {
+      "count": 7,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#5897fb": {
+      "count": 6,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#dadada": {
+      "count": 5,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#007ba5": {
+      "count": 4,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#4d4d4d": {
+      "count": 4,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#ffeeeeee": {
+      "count": 4,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 3,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#222222": {
+      "count": 3,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#165f2b": {
+      "count": 3,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#717171": {
+      "count": 3,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#e6f5fb": {
+      "count": 3,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#e1f3e7": {
+      "count": 3,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#0095c8": {
+      "count": 3,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#ffffffff": {
+      "count": 3,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#eaeaea": {
+      "count": 2,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#4e7e8c": {
+      "count": 2,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#20883e": {
+      "count": 2,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#cc0000": {
+      "count": 2,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#003d59": {
+      "count": 2,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#cd8217": {
+      "count": 2,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#3f3f3f": {
+      "count": 2,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#e4e4e4": {
+      "count": 2,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 1,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#d6d6d6": {
+      "count": 1,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#efefef": {
+      "count": 1,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#e5f4f9": {
+      "count": 1,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#323232": {
+      "count": 1,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#5a5a5a": {
+      "count": 1,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#0c4a1e": {
+      "count": 1,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#c8eaf5": {
+      "count": 1,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#a5dcef": {
+      "count": 1,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#e08e0b": {
+      "count": 1,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#dedede": {
+      "count": 1,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#0097cf": {
+      "count": 1,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#c20000": {
+      "count": 1,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#1e8038": {
+      "count": 1,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#fff9ed": {
+      "count": 1,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#0b0b0b": {
+      "count": 1,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#bdbdbd": {
+      "count": 1,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 1,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "#ffcccccc": {
+      "count": 1,
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+    ],
+    "Baskerville": [
+      "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+    ],
+    "ProximaNova-Bold": [
+      "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+    ],
+    "ProximaNova-Light": [
+      "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+    ],
+    "ProximaNova-Regular": [
+      "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+    ],
+    "arial": [
+      "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+    ],
+    "helvetica": [
+      "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+    ],
+    "monospace": [
+      "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+    ],
+    "sans-serif": [
+      "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+    ],
+    "slick": [
+      "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": ".ui-widget-header",
+      "declarations": "border:1px solid #d1d1d1;background-color:#ddd;color:#444;font-weight:bold"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": ".ui-widget-header a",
+      "declarations": "color:#444"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": ".ui-state-default,.ui-widget-content .ui-state-default,.ui-widget-header .ui-state-default",
+      "declarations": "border:1px solid #d1d1d1;background:#f6f6f6;font-weight:bold;color:#005a84"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": ".ui-state-active,.ui-widget-content .ui-state-active,.ui-widget-header .ui-state-active",
+      "declarations": "border:1px solid #d1d1d1;background-color:#fff;font-weight:bold;color:#f39c12"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": ".ui-state-highlight,.ui-widget-content .ui-state-highlight,.ui-widget-header .ui-state-highlight",
+      "declarations": "border:1px solid #ccc;background-color:#fff;color:#444"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": ".ui-state-highlight a,.ui-widget-content .ui-state-highlight a,.ui-widget-header .ui-state-highlight a",
+      "declarations": "color:#444"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": ".ui-state-error,.ui-widget-content .ui-state-error,.ui-widget-header .ui-state-error",
+      "declarations": "border:1px solid #f39c12;background-color:#fff;color:#222"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": ".ui-state-error a,.ui-widget-content .ui-state-error a,.ui-widget-header .ui-state-error a",
+      "declarations": "color:#222"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": ".ui-state-error-text,.ui-widget-content .ui-state-error-text,.ui-widget-header .ui-state-error-text",
+      "declarations": "color:#222"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": "body,html",
+      "declarations": "height:100%;min-width:320px;background-color:#ffffff;color:#252525;font-size:1em;line-height:1.5em;font-family:ProximaNova-Regular, helvetica, arial, sans-serif"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": "h1",
+      "declarations": "font-size:2em;border-bottom:3px solid #FEBE11;margin-bottom:0.25em;padding:0.25em 0 0.125em 0;color:#005A84"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": "#body",
+      "declarations": "position:relative;width:100%;min-width:300px;-webkit-tap-highlight-color:transparent"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": "#mobile-header",
+      "declarations": "position:relative;height:50px;width:100%;border-bottom:3px solid #FEBE11;background-color:#005A84"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": ".regular-tile .tile-info,.map-tile .tile-info,.video-tile .tile-info,.product-tile .tile-info",
+      "declarations": "position:absolute;bottom:0;width:100%;padding:0;background-color:#007AA3;opacity:0.9"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": ".regular-tile h3,.map-tile h3,.video-tile h3,.product-tile h3",
+      "declarations": "line-height:1.3em;font-size:0.9375em;color:#ffffff;padding:0.5em 3.125%"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": "cus .tile-info,.map-tile a:hover .tile-info,.map-tile a:focus .tile-info,.video-tile a:hover .tile-info,.video-tile a:focus .tile-info,.product-tile a:hover .ti",
+      "declarations": "-moz-transition:background-color 0.2s ease 0;-o-transition:background-color 0.2s ease 0;-webkit-transition:background-color 0.2s ease 0;transition:background-color 0.2s ease 0;background-color:#005A84"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": ".regular-tile a:active .tile-info,.map-tile a:active .tile-info,.video-tile a:active .tile-info,.product-tile a:active .tile-info",
+      "declarations": "background-color:#005A84"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": ".tabs .ui-state-default,.tabs .ui-widget-content .ui-state-default,.tabs .ui-widget-header .ui-state-default",
+      "declarations": "border:none !important;background-color:#007AA3"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": "div.button a",
+      "declarations": "width:100%;margin:0 0 1.25em;font-size:1.125em;font-family:ProximaNova-Light, helvetica, arial, sans-serif;display:inline-block;text-align:center;padding:8px;background-color:#007AA3;color:#ffffff;border:none;box-shadow:none"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": "div.button a:hover,div.button a:focus",
+      "declarations": "background-color:#005A84;color:#f7f7f7"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": "div.button a:active",
+      "declarations": "background-color:#005A84;color:#f7f7f7"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": "p.button a",
+      "declarations": "margin:0.75em 0;display:inline-block;text-align:center;padding:8px;background-color:#007AA3;color:#ffffff;border:none;box-shadow:none"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": "p.button a:hover,p.button a:focus",
+      "declarations": "background-color:#005A84;color:#f7f7f7"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": "p.button a:active",
+      "declarations": "background-color:#005A84;color:#f7f7f7"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": ".tour-result header",
+      "declarations": "width:100%;background-color:#007AA3;color:#f7f7f7;margin-bottom:0.625em;display:table"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": "#search-section h1 span",
+      "declarations": "display:block;color:#252525;font-size:0.7142857142857143em"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": "#footer h1,#footer h2,#footer h3,#footer h4,#footer h5,#footer h6,#footer a,#footer p",
+      "declarations": "color:#f7f7f7"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": "#search-submit-button",
+      "declarations": "cursor:pointer;text-align:center;padding:8px;background-color:#007AA3;color:#f7f7f7;border:none;box-shadow:none;width:100%;height:47px;top:47px;font-size:0.9375em;display:inline-block;text-align:center;padding:8px;background-color:#007AA3;color:#ffffff;border:none;box-shadow:none;border:none"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": "#search-submit-button:hover,#search-submit-button:focus",
+      "declarations": "background-color:#005A84;color:#f7f7f7"
+    },
+    {
+      "source": "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+      "selector": "#search-submit-button:active",
+      "declarations": "background-color:#005A84;color:#f7f7f7"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Rick Steves Europe: Tours, Travel, TV & Vacations",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "colors.secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css",
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/print-17585e3a783163f12d9fa41a1cf1166406ad55b3d1694efde60e1481cfa4a7f9.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "colors.surface-info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "colors.alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d2zwvgyp7l6t28.cloudfront.net/assets/application-a147858bbeb66ec25978310d8b742f3ec5b87dce5122d886f644948ae65afe84.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.content-tile": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    }
+  }
+}

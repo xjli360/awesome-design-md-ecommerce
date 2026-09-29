@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Watch Collectors
-description: |
+name: "Watch Collectors"
+source_url: "https://watchcollectorsllc.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Where most luxury e-commerce fights for brightness, Watch Collectors builds its visual language in the dark — near-black canvas layers (#121212, #242424) absorb ambient light and make every dial photograph read like a piece sitting under gallery track lighting. Against that darkness, the champagne-gold signature (#ccb17b) operates precisely as a private dealer's price tag or vitrined boutique signage would: warm, unhurried, unmistakably valuable. The cool silver-gray tones (#dedede, #d4d9db) handle secondary surfaces and form fields, echoing brushed steel and white-gold finishing without attempting to simulate them.
 
   Assistant — a geometric humanist sans-serif with unusually clean metrics and open counters — carries all text, from hero callouts down to spec-sheet captions. Its even stroke weight and natural tracking hold legibility at small sizes, which matters here: a watch listing card must simultaneously surface movement type, case diameter, reference number, and provenance status in a vertically compressed space. Luxury watch listings require a different information hierarchy than fashion or consumer goods; authentication details and condition grades carry equal or greater weight than the headline price, so the typographic system dedicates distinct caption and spec-label scales alongside larger display sizes.
@@ -299,6 +302,8 @@ components:
 - `product-card` image aspect ratio held at 4:3 across all breakpoints
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only five hex values extracted; hover states for `text-input`, focus rings, link underline colors, and scrollbar styles inferred from brand character rather than measured
 - Icon set unidentifiable from extraction — brand may use a third-party library (Feather, custom SVG sprite) for nav, badge, and UI icons

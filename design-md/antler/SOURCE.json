@@ -1,0 +1,1078 @@
+{
+  "source_url": "https://antler.co.uk",
+  "final_url": "https://www.antler.co.uk/",
+  "captured_at": "2026-09-29T04:13:34.051377+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://antler.co.uk",
+      "final_url": "https://www.antler.co.uk/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "42a4d9cff6cb312b086684158a30fe084d3635a5c266d9854c64ca73cb2d3be1",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.antler.co.uk/cdn/shop/t/544/assets/quick-add.css?v=146179418919549646991787740792",
+      "final_url": "https://www.antler.co.uk/cdn/shop/t/544/assets/quick-add.css?v=146179418919549646991787740792",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "dd17bf68d3e855e6e1196bc8fc11c8faa8d3df3c5f3e1ea619c62aa31a7470d2",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.antler.co.uk/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.antler.co.uk/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.antler.co.uk/cdn/shop/t/544/compiled_assets/styles.css?v=27171424228866759501789554267",
+      "final_url": "https://www.antler.co.uk/cdn/shop/t/544/compiled_assets/styles.css?v=27171424228866759501789554267",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a8dc462c434b30440b4aec75fd5e345d602650d57166bcbc6c36052952000c6b",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.antler.co.uk/cdn/shop/t/544/assets/ua_mobilemenu.css?v=184338499144311373161785922926",
+      "final_url": "https://www.antler.co.uk/cdn/shop/t/544/assets/ua_mobilemenu.css?v=184338499144311373161785922926",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3ac1e453231cf0efbb46f3fd82fc387f5e3b9b22ad9f3ab209973815bc566547",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.antler.co.uk/cdn/shop/t/544/assets/component-localization-form.css?v=42855786401069207921785922931",
+      "final_url": "https://www.antler.co.uk/cdn/shop/t/544/assets/component-localization-form.css?v=42855786401069207921785922931",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ae988433a73a1e8b440dc45893e96a95dda4792d4820d4387a04cce28d9c1bc0",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#222222": {
+      "count": 30,
+      "sources": [
+        "https://www.antler.co.uk/",
+        "https://www.antler.co.uk/cdn/shop/t/544/compiled_assets/styles.css?v=27171424228866759501789554267"
+      ]
+    },
+    "#ff4713": {
+      "count": 23,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#e8e4da": {
+      "count": 20,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#294634": {
+      "count": 11,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#ded7c8": {
+      "count": 10,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#e3e3e3": {
+      "count": 9,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#284734": {
+      "count": 8,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#727563": {
+      "count": 7,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#ffffff": {
+      "count": 6,
+      "sources": [
+        "https://www.antler.co.uk/",
+        "https://www.antler.co.uk/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.antler.co.uk/cdn/shop/t/544/compiled_assets/styles.css?v=27171424228866759501789554267"
+      ]
+    },
+    "#eae3db": {
+      "count": 6,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#000000": {
+      "count": 3,
+      "sources": [
+        "https://www.antler.co.uk/",
+        "https://www.antler.co.uk/cdn/shop/t/544/assets/component-localization-form.css?v=42855786401069207921785922931"
+      ]
+    },
+    "#864b2b": {
+      "count": 3,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#e8562d": {
+      "count": 2,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#d0d3d4": {
+      "count": 2,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#003b4a": {
+      "count": 2,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#551c25": {
+      "count": 2,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#623412": {
+      "count": 2,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#24312d": {
+      "count": 2,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#753042": {
+      "count": 2,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#8a391b": {
+      "count": 2,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#919d9d": {
+      "count": 2,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#e2ccc5": {
+      "count": 2,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#998d76": {
+      "count": 2,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#37494b": {
+      "count": 2,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#d1c1a8": {
+      "count": 2,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.antler.co.uk/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.antler.co.uk/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000052": {
+      "count": 2,
+      "sources": [
+        "https://www.antler.co.uk/cdn/shop/t/544/compiled_assets/styles.css?v=27171424228866759501789554267"
+      ]
+    },
+    "#1b9500": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#d3efcd": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#ffcbc2": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#e8e9ea": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#9ab9ad": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#507db9": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#37353c": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#64353d": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#1f201b": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#f4e1e2": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#47555d": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#00305c": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#632b2e": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#b06f76": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#c3c6a8": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#a2aaad": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#a9a9a9": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#7fa0ac": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#512a44": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#171c1a": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#1d252d": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#2a514d": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#005151": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#baac88": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#313c50": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#c3adb3": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#de512a": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#7b7e68": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#747136": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#ab9b1f": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#4b4f54": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#898e7d": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#57728b": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#ada4ae": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#253746": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#14222b": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#83a69f": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#b28330": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#2f485e": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#e6a958": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#99826b": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#dedebf": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#eddbaf": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#284533": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#b84d59": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#dcc8c1": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#a4493d": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#b2b4af": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#5c7f71": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#53575a": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#174a58": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#893c47": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#dbd2cd": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#726477": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#716135": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#36ce81": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#1f1a29": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#9c3624": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#83a09f": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#c4cdce": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#60474d": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#cf7b69": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#35514f": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#0a3aa7": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#aaa169": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#551921": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#8d7f7c": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#33292a": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#4f5b7a": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#4c5a72": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#6c737d": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#fcfcf8": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#909090": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/cdn/shop/t/544/compiled_assets/styles.css?v=27171424228866759501789554267"
+      ]
+    },
+    "#0000001a": {
+      "count": 1,
+      "sources": [
+        "https://www.antler.co.uk/cdn/shop/t/544/assets/ua_mobilemenu.css?v=184338499144311373161785922926"
+      ]
+    }
+  },
+  "font_families": {
+    "CircularStd": [
+      "https://www.antler.co.uk/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.antler.co.uk/",
+      "selector": "body",
+      "declarations": "display: flex;\n        flex-direction: column;\n        \n        min-height: 100%;\n        margin: 0;\n        font-size: var(--text-size-base);\n        letter-spacing: var(--tracking-normal);\n        line-height: var(--leading-looser);\n        font-family: var(--font-body-family);\n        font-style: var(--font-body-style);\n        font-weight: var(--font-body-weight);"
+    },
+    {
+      "source": "https://www.antler.co.uk/",
+      "selector": ":root",
+      "declarations": "--product-card-background-color: 242, 242, 242;"
+    },
+    {
+      "source": "https://www.antler.co.uk/",
+      "selector": ":root,\n  .color-background-1",
+      "declarations": "--color-foreground: var(--color-base-text);\n    --color-background: var(--color-base-background);\n    --color-link: var(--color-base-text);\n    --alpha-link: 1;\n    --color-button: var(--color-base-text);\n    --color-button-text: var(--color-base-solid-button-labels);\n    --alpha-button-background: 1;\n    --alpha-button-border: 1;\n    --color-badge-background: var(--color-background);\n    --color-badge-border: var(--color-foreground);\n    --alpha-badge-border: 0.1;\n    --color-card-hover: var(--color-base-text);"
+    },
+    {
+      "source": "https://www.antler.co.uk/",
+      "selector": ".color-foreground-outline-button",
+      "declarations": "--color-foreground: var(--color-base-outline-button-labels);"
+    },
+    {
+      "source": "https://www.antler.co.uk/",
+      "selector": ".button--secondary",
+      "declarations": "--color-button: var(--color-base-outline-button-labels);\n    --color-button-text: var(--color-base-outline-button-labels);\n    --color-button: var(--color-background);\n    --alpha-button-background: 1;"
+    },
+    {
+      "source": "https://www.antler.co.uk/",
+      "selector": ".button.button--primary:not(.quick-add__submit):hover",
+      "declarations": "--color-button: var(--color-base-white);\n    --color-foreground: var(--color-base-text);\n    --color-button-text:var(--color-base-text);\n    --border-opacity: 1;"
+    },
+    {
+      "source": "https://www.antler.co.uk/",
+      "selector": "cart-drawer-items .button.button--secondary:hover",
+      "declarations": "transition: all 0.15s ease-in-out;\n    background: rgb(var(--color-base-text));\n    --color-button: var(--color-base-white);\n    --color-button-text:var(--color-base-white);\n    --color-link: var(--color-base-white);"
+    },
+    {
+      "source": "https://www.antler.co.uk/",
+      "selector": ".button.button--secondary:not(.quick-add__submit):hover",
+      "declarations": "transition: all 0.15s ease-in-out;\n    background: rgb(var(--color-base-text));\n    --color-button: var(--color-base-white);\n    --color-button-text:var(--color-base-white);\n    --color-link: var(--color-base-white);"
+    },
+    {
+      "source": "https://www.antler.co.uk/",
+      "selector": ".customer .button.button--secondary:hover",
+      "declarations": "transition: all 0.15s ease-in-out;\n    background: rgb(var(--color-base-text));\n    --color-button: var(--color-base-white);\n    --color-button-text:var(--color-base-white);\n    --color-link: var(--color-base-white);"
+    },
+    {
+      "source": "https://www.antler.co.uk/",
+      "selector": ".color-accent-1 .button--secondary,\n  .color-accent-2 .button--secondary,\n  .color-inverse .button--secondary",
+      "declarations": "--color-button: var(--color-background);\n    --color-button-text: var(--color-foreground);"
+    },
+    {
+      "source": "https://www.antler.co.uk/",
+      "selector": ".button--tertiary",
+      "declarations": "--color-button: var(--color-antler-coral);\n    --color-button-text: var(--color-base-outline-button-labels);\n    --alpha-button-background: 1;\n    --alpha-button-border: 0.2;"
+    },
+    {
+      "source": "https://www.antler.co.uk/",
+      "selector": ".color-inverse .button--tertiary,\n  .color-accent-1 .button--tertiary",
+      "declarations": "--color-button: var(--color-antler-coral);\n    --color-button-text: var(--color-foreground);"
+    },
+    {
+      "source": "https://www.antler.co.uk/",
+      "selector": ":root,\n  .color-icon-text",
+      "declarations": "--color-icon: rgb(var(--color-base-text));"
+    },
+    {
+      "source": "https://www.antler.co.uk/",
+      "selector": ".color-icon-outline-button",
+      "declarations": "--color-icon: rgb(var(--color-base-outline-button-labels));"
+    },
+    {
+      "source": "https://www.antler.co.uk/",
+      "selector": ".product-card-wrapper .card,\n  .contains-card--product",
+      "declarations": "--border-radius: var(--product-card-corner-radius);\n    --border-width: var(--product-card-border-width);\n    --border-opacity: var(--product-card-border-opacity);\n    --shadow-horizontal-offset: var(--product-card-shadow-horizontal-offset);\n    --shadow-vertical-offset: var(--product-card-shadow-vertical-offset);\n    --shadow-blur-radius: var(--product-card-shadow-blur-radius);\n    --shadow-opacity: var(--product-card-shadow-opacity);\n    --shadow-visible: var(--product-card-shadow-visible);\n    --image-padding: var(--product-card-image-padding);\n    --text-alignment: var(--product-card-text-alignment);"
+    },
+    {
+      "source": "https://www.antler.co.uk/",
+      "selector": "body,\n  .color-background-1,\n  .color-inverse,\n  .color-accent-1",
+      "declarations": "color: rgba(var(--color-foreground), 1);\n    background-color: rgb(var(--color-background));"
+    },
+    {
+      "source": "https://www.antler.co.uk/",
+      "selector": ".text-body",
+      "declarations": "font-size: var(--text-size-xs);\n    letter-spacing: var(--tracking-wide);\n    line-height: var(--leading-looser);\n    font-family: var(--font-body-family);\n    font-style: var(--font-body-style);\n    font-weight: var(--font-body-weight);"
+    },
+    {
+      "source": "https://www.antler.co.uk/",
+      "selector": "h1,\n  h2,\n  h3,\n  h4,\n  h5,\n  h6,\n  .h0,\n  .h1,\n  .h2,\n  .h3,\n  .h4,\n  .h5,\n  .h6",
+      "declarations": "font-family: var(--font-heading-family);\n    font-style: var(--font-heading-style);\n    font-weight: var(--font-heading-weight);\n    letter-spacing: var(--tracking-wide);\n    color: rgb(var(--color-foreground));\n    line-height: var(--leading-looser);\n    word-break: break-word;"
+    },
+    {
+      "source": "https://www.antler.co.uk/",
+      "selector": "omer button,\n  button.shopify-payment-button__button--unbranded,\n  .shopify-payment-button [role=\"button\"],\n  .cart__dynamic-checkout-buttons [role='button'],\n ",
+      "declarations": "--shadow-horizontal-offset: var(--buttons-shadow-horizontal-offset);\n    --shadow-vertical-offset: var(--buttons-shadow-vertical-offset);\n    --shadow-blur-radius: var(--buttons-shadow-blur-radius);\n    --shadow-opacity: var(--buttons-shadow-opacity);\n    --shadow-visible: var(--buttons-shadow-visible);\n    --border-offset: var(--buttons-border-offset); \n    --border-opacity: calc(1 - var(--buttons-border-opacity));\n    border-radius: var(--buttons-radius-outset);\n    position: relative;"
+    },
+    {
+      "source": "https://www.antler.co.uk/",
+      "selector": ".button,\n  .shopify-challenge__button,\n  .customer button",
+      "declarations": "display: inline-flex;\n    justify-content: center;\n    align-items: center;\n    border: 0;\n    padding: var(--layout-space-7) var(--layout-space-16);\n    cursor: pointer;\n    font: inherit;\n    font-size: var(--text-size-s);\n    text-decoration: none;\n    color: rgb(var(--color-button-text));\n    -webkit-appearance: none;\n    appearance: none;\n    background-color: rgba(var(--color-button), var(--alpha-button-background));"
+    },
+    {
+      "source": "https://www.antler.co.uk/",
+      "selector": ".button--secondary:after",
+      "declarations": "--border-opacity: var(--buttons-border-opacity);"
+    },
+    {
+      "source": "https://www.antler.co.uk/",
+      "selector": ".button::selection,\n  .shopify-challenge__button::selection,\n  .customer button::selection",
+      "declarations": "background-color: rgba(var(--color-button-text), 0.3);"
+    },
+    {
+      "source": "https://www.antler.co.uk/",
+      "selector": ".button.loading",
+      "declarations": "color: transparent;\n    position: relative;"
+    },
+    {
+      "source": "https://www.antler.co.uk/",
+      "selector": ".button.loading",
+      "declarations": "color: rgb(var(--color-foreground));"
+    },
+    {
+      "source": "https://www.antler.co.uk/",
+      "selector": ".button.button--link:not([disabled]):hover",
+      "declarations": "color: rgb(var(--color-base-brand));\n    border-bottom: 0.1rem solid rgb(var(--color-base-brand));;"
+    },
+    {
+      "source": "https://www.antler.co.uk/",
+      "selector": ".share-button__button",
+      "declarations": "font-size: var(--text-size-xs);\n    display: flex;\n    align-items: center;\n    color: rgb(var(--color-link));\n    margin-left: 0;\n    padding-left: 0;\n    min-height: var(--layout-space-9);"
+    },
+    {
+      "source": "https://www.antler.co.uk/",
+      "selector": ".share-button__button,\n  .share-button__fallback button",
+      "declarations": "cursor: pointer;\n    background-color: transparent;\n    border: none;"
+    },
+    {
+      "source": "https://www.antler.co.uk/",
+      "selector": ".share-button__fallback button:hover",
+      "declarations": "color: rgba(var(--color-foreground), 0.75);"
+    },
+    {
+      "source": "https://www.antler.co.uk/",
+      "selector": ".share-button__close,\n  .share-button__copy",
+      "declarations": "background-color: transparent;\n    color: rgb(var(--color-foreground));"
+    },
+    {
+      "source": "https://www.antler.co.uk/",
+      "selector": ".share-button__copy:focus-visible,\n  .share-button__close:focus-visible",
+      "declarations": "background-color: rgb(var(--color-background));\n    z-index: 2;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Antler | Luxury British Luggage\n – Antler UK",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.antler.co.uk/",
+        "https://www.antler.co.uk/cdn/shop/t/544/compiled_assets/styles.css?v=27171424228866759501789554267"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.antler.co.uk/",
+        "https://www.antler.co.uk/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.antler.co.uk/cdn/shop/t/544/compiled_assets/styles.css?v=27171424228866759501789554267"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.antler.co.uk/",
+        "https://www.antler.co.uk/cdn/shop/t/544/compiled_assets/styles.css?v=27171424228866759501789554267"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.antler.co.uk/",
+        "https://www.antler.co.uk/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.antler.co.uk/cdn/shop/t/544/compiled_assets/styles.css?v=27171424228866759501789554267"
+      ]
+    },
+    "colors.accent-forest": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "colors.accent-navy": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "colors.accent-burgundy": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "colors.accent-tan": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.antler.co.uk/"
+      ]
+    },
+    "colors.overlay-scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.antler.co.uk/cdn/shop/t/544/compiled_assets/styles.css?v=27171424228866759501789554267"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.button-tertiary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.color-swatch": {
+      "status": "inferred"
+    }
+  }
+}

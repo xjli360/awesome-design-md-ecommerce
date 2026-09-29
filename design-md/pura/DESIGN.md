@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Pura
-description: Pura is a warm, sensory-first brand that lives in the intersection of home fragrance and modern technology. The brand's visual identity is built on a foundation of earthy, muted tones anchored by a deep almost-black ink (`#1d1b1b`) and a soft cream canvas (`#fbf8f5`). This palette creates a calm, sophisticated backdrop that lets the product — scent diffusers and their vibrant fragrance oils — take center stage. The primary accent is a burnished gold (`#cfa363`) that reads as both premium and natural, like honeyed light catching on a ceramic vessel. Supporting accents include a sage green (`#708265`), a dusty rose (`#f1dac8`), and a warm terracotta (`#724d39`), all of which echo the botanical and artisanal qualities of the brand's fragrance notes. The typography system pairs a clean, geometric sans-serif (Apercu) for UI and body text with a classic serif (ITC Garamond) for editorial moments, creating a tension between modern utility and timeless elegance. Buttons and interactive elements use soft rounded corners (`{rounded.sm}`), while cards and containers employ a more generous rounding (`{rounded.md}`) that feels tactile and inviting, like a smooth pebble. The overall mood is one of quiet luxury — the interface never shouts, instead relying on generous whitespace, a restrained color story, and the subtle glow of the product photography to communicate value. The brand's Shopify roots are visible in the clean, card-based product grid and the prominent, pill-shaped search and filter controls.
+name: "Pura"
+source_url: "https://www.trypura.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Pura is a warm, sensory-first brand that lives in the intersection of home fragrance and modern technology. The brand's visual identity is built on a foundation of earthy, muted tones anchored by a deep almost-black ink (`#1d1b1b`) and a soft cream canvas (`#fbf8f5`). This palette creates a calm, sophisticated backdrop that lets the product — scent diffusers and their vibrant fragrance oils — take center stage. The primary accent is a burnished gold (`#cfa363`) that reads as both premium and natural, like honeyed light catching on a ceramic vessel. Supporting accents include a sage green (`#708265`), a dusty rose (`#f1dac8`), and a warm terracotta (`#724d39`), all of which echo the botanical and artisanal qualities of the brand's fragrance notes. The typography system pairs a clean, geometric sans-serif (Apercu) for UI and body text with a classic serif (ITC Garamond) for editorial moments, creating a tension between modern utility and timeless elegance. Buttons and interactive elements use soft rounded corners (`{rounded.sm}`), while cards and containers employ a more generous rounding (`{rounded.md}`) that feels tactile and inviting, like a smooth pebble. The overall mood is one of quiet luxury — the interface never shouts, instead relying on generous whitespace, a restrained color story, and the subtle glow of the product photography to communicate value. The brand's Shopify roots are visible in the clean, card-based product grid and the prominent, pill-shaped search and filter controls.
 
 colors:
   primary: "#cfa363"
@@ -454,6 +458,8 @@ components:
 - The product grid collapses from four columns to one column at < 744px.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover States**: While active and disabled states are defined for primary and secondary buttons, hover states for tertiary text buttons, filter chips, and navigation links could not be fully extracted from the live site CSS.
 - **Error & Validation Styling**: Error styling for text inputs is defined, but the exact error message typography, iconography, and animation (e.g., shake) are not confirmed.

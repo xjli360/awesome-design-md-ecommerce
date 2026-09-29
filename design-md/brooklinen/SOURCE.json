@@ -1,0 +1,1051 @@
+{
+  "source_url": "https://www.brooklinen.com",
+  "final_url": "https://www.brooklinen.com/",
+  "captured_at": "2026-09-28T04:10:31.359678+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.brooklinen.com",
+      "final_url": "https://www.brooklinen.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "ce8585e42445cf31d4d791dc8871d03de7bb191a8473f73c040fad2cb285af92",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.brooklinen.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.brooklinen.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+      "final_url": "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "fb2d16d81449c4369141a47b0443432ba78f8db5221397621fd5f55614b68910",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-index.css?v=131231739494733276201790280902",
+      "final_url": "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-index.css?v=131231739494733276201790280902",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "120d2e4b654edf38d642f1cc0bd5061009ed2a2166301e00c67f98dad3ede5ae",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a014b1-6566-7c61-aedf-79a2912282a5/watchlist-145/assets/app-embed-block.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a014b1-6566-7c61-aedf-79a2912282a5/watchlist-145/assets/app-embed-block.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9e5351e8c2e1478fbe644998bd89267797fb0845079100a02c79a32afbf7e7f9",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "076a201857fce558d0f3396425b817cdc042c4ecfae2a68122d5476e92e7dc3c",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#283455": {
+      "count": 353,
+      "sources": [
+        "https://www.brooklinen.com/",
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-index.css?v=131231739494733276201790280902"
+      ]
+    },
+    "#ffffff": {
+      "count": 182,
+      "sources": [
+        "https://www.brooklinen.com/",
+        "https://www.brooklinen.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-index.css?v=131231739494733276201790280902",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 80,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-index.css?v=131231739494733276201790280902"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 57,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-index.css?v=131231739494733276201790280902"
+      ]
+    },
+    "#fdfaf8": {
+      "count": 36,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-index.css?v=131231739494733276201790280902"
+      ]
+    },
+    "#272727": {
+      "count": 34,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#6e6e6e": {
+      "count": 33,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-index.css?v=131231739494733276201790280902"
+      ]
+    },
+    "#0f1528": {
+      "count": 31,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-index.css?v=131231739494733276201790280902"
+      ]
+    },
+    "#aa3f00": {
+      "count": 29,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-index.css?v=131231739494733276201790280902"
+      ]
+    },
+    "#dde3ec": {
+      "count": 28,
+      "sources": [
+        "https://www.brooklinen.com/",
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-index.css?v=131231739494733276201790280902"
+      ]
+    },
+    "#000000": {
+      "count": 24,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a014b1-6566-7c61-aedf-79a2912282a5/watchlist-145/assets/app-embed-block.css",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#04247d": {
+      "count": 22,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-index.css?v=131231739494733276201790280902"
+      ]
+    },
+    "#005fcc": {
+      "count": 22,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902"
+      ]
+    },
+    "#293c70": {
+      "count": 19,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-index.css?v=131231739494733276201790280902"
+      ]
+    },
+    "#eff0ed": {
+      "count": 17,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-index.css?v=131231739494733276201790280902"
+      ]
+    },
+    "#417823": {
+      "count": 17,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-index.css?v=131231739494733276201790280902"
+      ]
+    },
+    "#f2f5f8": {
+      "count": 13,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-index.css?v=131231739494733276201790280902"
+      ]
+    },
+    "#c87f3b": {
+      "count": 13,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-index.css?v=131231739494733276201790280902"
+      ]
+    },
+    "#f0d7bf": {
+      "count": 13,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-index.css?v=131231739494733276201790280902"
+      ]
+    },
+    "#f9f3ed": {
+      "count": 12,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-index.css?v=131231739494733276201790280902"
+      ]
+    },
+    "#e3ad7c": {
+      "count": 11,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-index.css?v=131231739494733276201790280902"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 11,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-index.css?v=131231739494733276201790280902"
+      ]
+    },
+    "#b1b7c3": {
+      "count": 10,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#aeb6a7": {
+      "count": 9,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-index.css?v=131231739494733276201790280902"
+      ]
+    },
+    "#00000000": {
+      "count": 8,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902"
+      ]
+    },
+    "#999ea8": {
+      "count": 8,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#e6f7f4": {
+      "count": 8,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#54638d": {
+      "count": 7,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-index.css?v=131231739494733276201790280902"
+      ]
+    },
+    "#5d6e50": {
+      "count": 7,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-index.css?v=131231739494733276201790280902"
+      ]
+    },
+    "#f2f2f280": {
+      "count": 7,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-index.css?v=131231739494733276201790280902"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 7,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#ea0202": {
+      "count": 7,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#121f36": {
+      "count": 7,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#344329": {
+      "count": 6,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-index.css?v=131231739494733276201790280902"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 5,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#f4f8fe": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#eaeaea": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#00000040": {
+      "count": 4,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902"
+      ]
+    },
+    "#4e8033": {
+      "count": 4,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902"
+      ]
+    },
+    "#28345533": {
+      "count": 4,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902"
+      ]
+    },
+    "#171722": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#333333": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#9b9b9b": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#383d41": {
+      "count": 3,
+      "sources": [
+        "https://www.brooklinen.com/",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#00000080": {
+      "count": 3,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#000000a6": {
+      "count": 3,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902"
+      ]
+    },
+    "#0000000d": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#fef3e2": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#6b6b6b": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#888888": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#d6d8db": {
+      "count": 2,
+      "sources": [
+        "https://www.brooklinen.com/",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#ffffff66": {
+      "count": 2,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902"
+      ]
+    },
+    "#0f152833": {
+      "count": 2,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902"
+      ]
+    },
+    "#00000033": {
+      "count": 2,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902"
+      ]
+    },
+    "#00000029": {
+      "count": 2,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902"
+      ]
+    },
+    "#00000099": {
+      "count": 2,
+      "sources": [
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902"
+      ]
+    },
+    "#d4edda": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902"
+    ],
+    "BrandonTextWeb-Bold": [
+      "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+      "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-index.css?v=131231739494733276201790280902"
+    ],
+    "BrandonTextWeb-Italic": [
+      "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+      "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-index.css?v=131231739494733276201790280902"
+    ],
+    "BrandonTextWeb-Medium": [
+      "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+      "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-index.css?v=131231739494733276201790280902"
+    ],
+    "BrandonTextWeb-Regular": [
+      "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+      "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-index.css?v=131231739494733276201790280902"
+    ],
+    "Helvetica": [
+      "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902"
+    ],
+    "ToledoTS-Bold": [
+      "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+      "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-index.css?v=131231739494733276201790280902"
+    ],
+    "object-fit: contain": [
+      "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902"
+    ],
+    "sans-serif": [
+      "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.brooklinen.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.brooklinen.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.brooklinen.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.brooklinen.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.brooklinen.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.brooklinen.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+      "selector": ":root",
+      "declarations": "--navOffset: 0px;--stlOffset: 0px"
+    },
+    {
+      "source": "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+      "selector": ".article-template .share-button__fallback button:hover",
+      "declarations": "color:#eff0ed"
+    },
+    {
+      "source": "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+      "selector": ".article-template .share-button__button",
+      "declarations": "display:flex;align-items:center;color:#283455;margin-left:0;padding-left:0;min-height:4.4rem"
+    },
+    {
+      "source": "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+      "selector": ".article-template .share-button__button,.article-template .share-button__fallback button",
+      "declarations": "cursor:pointer;background-color:transparent;border:none"
+    },
+    {
+      "source": "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+      "selector": ".article-template .share-button__close,.article-template .share-button__copy",
+      "declarations": "background-color:transparent;color:#283455"
+    },
+    {
+      "source": "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+      "selector": ".article-template .share-button__copy:focus-visible,.article-template .share-button__close:focus-visible",
+      "declarations": "background-color:#eff0ed;z-index:2"
+    },
+    {
+      "source": "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+      "selector": ".article-template .share-button__copy:focus,.article-template .share-button__close:focus",
+      "declarations": "background-color:#eff0ed;z-index:2"
+    },
+    {
+      "source": "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+      "selector": "ot(:focus-visible):not(.focused)+.share-button__copy:not(:focus-visible):not(.focused),.article-template .field:not(:focus-visible):not(.focused)+.share-button_",
+      "declarations": "background-color:inherit"
+    },
+    {
+      "source": "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+      "selector": ".h1",
+      "declarations": "font-family:ToledoTS-Bold;font-size:2.8125rem;letter-spacing:normal;margin:0;font-weight:400;line-height:115%"
+    },
+    {
+      "source": "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+      "selector": ".h1-sml",
+      "declarations": "font-family:ToledoTS-Bold;font-size:2.8125rem;letter-spacing:normal;margin:0;font-weight:400;line-height:115%"
+    },
+    {
+      "source": "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+      "selector": ".h1-med",
+      "declarations": "font-family:ToledoTS-Bold;font-size:2.8125rem;letter-spacing:normal;margin:0;font-weight:400;line-height:115%"
+    },
+    {
+      "source": "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+      "selector": ".h1-lrg",
+      "declarations": "font-family:ToledoTS-Bold;font-size:2.8125rem;letter-spacing:normal;margin:0;font-weight:400;line-height:115%"
+    },
+    {
+      "source": "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+      "selector": ".h1-xlg",
+      "declarations": "font-family:ToledoTS-Bold;font-size:2.8125rem;letter-spacing:normal;margin:0;font-weight:400;line-height:115%"
+    },
+    {
+      "source": "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+      "selector": ".h1-xxl",
+      "declarations": "font-family:ToledoTS-Bold;font-size:2.8125rem;letter-spacing:normal;margin:0;font-weight:400;line-height:115%"
+    },
+    {
+      "source": "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+      "selector": ".input-header--title",
+      "declarations": "color:#283455"
+    },
+    {
+      "source": "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+      "selector": ".input-header--detail,.input-header--required",
+      "declarations": "color:#6e6e6e;margin-left:.75rem"
+    },
+    {
+      "source": "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+      "selector": ".input-header--detail.invalid,.input-header--required.invalid",
+      "declarations": "color:#aa3f00"
+    },
+    {
+      "source": "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+      "selector": ".input-header--detail a,.input-header--required a,.input-header--detail",
+      "declarations": "color:#293c70"
+    },
+    {
+      "source": "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+      "selector": "#demoTypography .table-header",
+      "declarations": "background-color:#dde3ec"
+    },
+    {
+      "source": "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+      "selector": "ection.inverse,#demoCtaHeader .link-demo-section.inverse,#demoCta .cta-demo-section.inverse,#demoCta .link-demo-section.inverse,.demo-cta .cta-demo-section.inve",
+      "declarations": "background-color:#ddd"
+    },
+    {
+      "source": "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+      "selector": "CtaHeader .link-demo-section .col-header,#demoCta .cta-demo-section .col-header,#demoCta .link-demo-section .col-header,.demo-cta .cta-demo-section .col-header,",
+      "declarations": "margin-bottom:1rem;color:#283455"
+    },
+    {
+      "source": "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+      "selector": ".header__icon--account .header__account-dropdown ul li[data-ht-element=consolidated-nudge-account-icon] a:hover",
+      "declarations": "text-decoration-color:#aa3f00"
+    },
+    {
+      "source": "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+      "selector": ".header__search--ab span",
+      "declarations": "margin-left:.5rem;flex-grow:1;text-align:left;color:#6e6e6e"
+    },
+    {
+      "source": "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+      "selector": ".section-header .header__inline-menu li .link:hover,.section-header .header__inline-menu li .link.current--page",
+      "declarations": "font-family:BrandonTextWeb-Bold;color:#283455;text-decoration:none;margin-top:.375rem;padding-bottom:.25rem;border-bottom:2px solid #283455"
+    }
+  ],
+  "confidence": "historical_partial_css_evidence",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Luxury Bedding, Sheets & Comforters Online | Brooklinen",
+  "schema_version": 1,
+  "design_origin": "historical",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.primary-active": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.primary-disabled": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.muted-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.hairline-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.brooklinen.com/",
+        "https://www.brooklinen.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-index.css?v=131231739494733276201790280902",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.brooklinen.com/",
+        "https://www.brooklinen.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-theme.css?v=178145745627775384571790280902",
+        "https://www.brooklinen.com/cdn/shop/t/4806/assets/brooklinen-index.css?v=131231739494733276201790280902",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.accent-sale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.accent-sale-soft": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.accent-success": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.accent-success-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.accent-warning": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.accent-warning-soft": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.accent-info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.brooklinen.com/",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.accent-info-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.badge-new": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.badge-new-text": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.swatch-border": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.swatch-active": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.star-rating": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a014b1-6566-7c61-aedf-79a2912282a5/watchlist-145/assets/app-embed-block.css",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-lg": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.title-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.title-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.body-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.body-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.caption": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.caption-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.badge": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.button-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.button-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.link": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.nav-link": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "rounded.none": {
+      "status": "unverified"
+    },
+    "rounded.xs": {
+      "status": "unverified"
+    },
+    "rounded.sm": {
+      "status": "unverified"
+    },
+    "rounded.md": {
+      "status": "unverified"
+    },
+    "rounded.lg": {
+      "status": "unverified"
+    },
+    "rounded.xl": {
+      "status": "unverified"
+    },
+    "rounded.full": {
+      "status": "unverified"
+    },
+    "spacing.xxs": {
+      "status": "unverified"
+    },
+    "spacing.xs": {
+      "status": "unverified"
+    },
+    "spacing.sm": {
+      "status": "unverified"
+    },
+    "spacing.md": {
+      "status": "unverified"
+    },
+    "spacing.base": {
+      "status": "unverified"
+    },
+    "spacing.lg": {
+      "status": "unverified"
+    },
+    "spacing.xl": {
+      "status": "unverified"
+    },
+    "spacing.xxl": {
+      "status": "unverified"
+    },
+    "spacing.section": {
+      "status": "unverified"
+    },
+    "components.button-primary": {
+      "status": "unverified"
+    },
+    "components.button-primary-active": {
+      "status": "unverified"
+    },
+    "components.button-primary-disabled": {
+      "status": "unverified"
+    },
+    "components.button-secondary": {
+      "status": "unverified"
+    },
+    "components.button-secondary-active": {
+      "status": "unverified"
+    },
+    "components.button-tertiary": {
+      "status": "unverified"
+    },
+    "components.button-sale": {
+      "status": "unverified"
+    },
+    "components.icon-button": {
+      "status": "unverified"
+    },
+    "components.top-nav": {
+      "status": "unverified"
+    },
+    "components.nav-link-active": {
+      "status": "unverified"
+    },
+    "components.nav-link-inactive": {
+      "status": "unverified"
+    },
+    "components.search-bar": {
+      "status": "unverified"
+    },
+    "components.search-bar-focused": {
+      "status": "unverified"
+    },
+    "components.text-input": {
+      "status": "unverified"
+    },
+    "components.text-input-focused": {
+      "status": "unverified"
+    },
+    "components.text-input-error": {
+      "status": "unverified"
+    },
+    "components.product-card": {
+      "status": "unverified"
+    },
+    "components.product-card-hover": {
+      "status": "unverified"
+    },
+    "components.product-card-image": {
+      "status": "unverified"
+    },
+    "components.product-card-title": {
+      "status": "unverified"
+    },
+    "components.product-card-price": {
+      "status": "unverified"
+    },
+    "components.product-card-sale-price": {
+      "status": "unverified"
+    },
+    "components.product-card-rating": {
+      "status": "unverified"
+    },
+    "components.product-swatch": {
+      "status": "unverified"
+    },
+    "components.product-swatch-active": {
+      "status": "unverified"
+    },
+    "components.hero-banner": {
+      "status": "unverified"
+    },
+    "components.hero-banner-image": {
+      "status": "unverified"
+    },
+    "components.hero-banner-cta": {
+      "status": "unverified"
+    },
+    "components.badge-new": {
+      "status": "unverified"
+    },
+    "components.badge-sale": {
+      "status": "unverified"
+    },
+    "components.badge-success": {
+      "status": "unverified"
+    },
+    "components.badge-error": {
+      "status": "unverified"
+    },
+    "components.footer": {
+      "status": "unverified"
+    },
+    "components.footer-link": {
+      "status": "unverified"
+    },
+    "components.footer-heading": {
+      "status": "unverified"
+    },
+    "components.accordion": {
+      "status": "unverified"
+    },
+    "components.accordion-header": {
+      "status": "unverified"
+    },
+    "components.accordion-content": {
+      "status": "unverified"
+    }
+  },
+  "observed_color_tokens": 21,
+  "total_color_tokens": 27
+}

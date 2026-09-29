@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: PsPrint
-description: Offset-press cyan owns PsPrint's interface the way it owns a four-color print run: #005875, the brand's primary, is unmistakably process-cyan shifted toward deep sea — it reads less like a tech-blue and more like a Pantone swatch mounted under warehouse fluorescents, the color of ink drums and proofing tables. Beside it, an amber-to-burnt-orange arc handles every conversion moment — #fabf01 ignites the sunniest highlight badges, #ee911a fills the main CTA buttons, and #b14f1e marks the hover-press, the gradient tracing the same warm arc a print job takes from proof to final pull. A surprise magenta accent (#cb2a88) surfaces in category chips and promotional callouts — a nod to CMYK's M channel, completing an implicit four-color brand palette. Type runs entirely on system stacks: Trebuchet MS at weight 700 for display headings, Arial for body copy and labels. This is a zero-flash, production-tool decision — the site serves working print buyers who want upload confirmations and quantity price breaks, not editorial delight. Surface hierarchy is handled through six shades of near-white: #ffffff canvas, #f5f5f5 and #ecf2f6 for sectional wells, #eeeeee for card backgrounds, #e1e2e3 and #e5e5e5 as structural hairlines. The only editorial color not derived from print process is the near-black ink (#2c2a29), a warm charcoal that avoids pure black's harshness on screen. Error states reach for #db2404 with a deeper #ad0000 for active. Corner radii stay deliberately small — {rounded.xs} on form fields, {rounded.sm} on cards — confirming a B2B-adjacent tool built for repeat buyers who return knowing exactly what they need.
+name: "PsPrint"
+source_url: "https://www.psprint.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Offset-press cyan owns PsPrint's interface the way it owns a four-color print run: #005875, the brand's primary, is unmistakably process-cyan shifted toward deep sea — it reads less like a tech-blue and more like a Pantone swatch mounted under warehouse fluorescents, the color of ink drums and proofing tables. Beside it, an amber-to-burnt-orange arc handles every conversion moment — #fabf01 ignites the sunniest highlight badges, #ee911a fills the main CTA buttons, and #b14f1e marks the hover-press, the gradient tracing the same warm arc a print job takes from proof to final pull. A surprise magenta accent (#cb2a88) surfaces in category chips and promotional callouts — a nod to CMYK's M channel, completing an implicit four-color brand palette. Type runs entirely on system stacks: Trebuchet MS at weight 700 for display headings, Arial for body copy and labels. This is a zero-flash, production-tool decision — the site serves working print buyers who want upload confirmations and quantity price breaks, not editorial delight. Surface hierarchy is handled through six shades of near-white: #ffffff canvas, #f5f5f5 and #ecf2f6 for sectional wells, #eeeeee for card backgrounds, #e1e2e3 and #e5e5e5 as structural hairlines. The only editorial color not derived from print process is the near-black ink (#2c2a29), a warm charcoal that avoids pure black's harshness on screen. Error states reach for #db2404 with a deeper #ad0000 for active. Corner radii stay deliberately small — {rounded.xs} on form fields, {rounded.sm} on cards — confirming a B2B-adjacent tool built for repeat buyers who return knowing exactly what they need.
 
 colors:
   primary: "#005875"
@@ -434,6 +438,8 @@ components:
 - Hero CTA button goes full-width on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom web font detected; Trebuchet MS and Arial are system-font fallbacks — PsPrint may load a web font via JavaScript that was not captured in static extraction; verify at runtime
 - `primary-disabled` color (#7ab3c5) is an extrapolation from the primary teal, not a directly extracted value

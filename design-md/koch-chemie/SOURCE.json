@@ -1,0 +1,834 @@
+{
+  "source_url": "https://koch-chemie.com",
+  "final_url": "https://www.koch-chemie.com/en/",
+  "captured_at": "2026-09-28T10:01:27.307933+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://koch-chemie.com",
+      "final_url": "https://www.koch-chemie.com/en/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "fc5dca6fc44420dc7f5b8506adc2aa715b686f431918b60d9d73b6cda28a2e7f",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css",
+      "final_url": "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "e8acfba88647bf0e97d129fcc72a67e6b6407f585ec824f171fd759bb4c216e2",
+      "snapshot": "stylesheet-1.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 151,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#1e1e1e": {
+      "count": 93,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#919396": {
+      "count": 70,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#ffffff00": {
+      "count": 65,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#009fda": {
+      "count": 51,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#dc3545": {
+      "count": 29,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#28a745": {
+      "count": 29,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#6c757d": {
+      "count": 29,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#000000": {
+      "count": 20,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#ffc107": {
+      "count": 17,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#17a2b8": {
+      "count": 17,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#77797d": {
+      "count": 10,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#007aa7": {
+      "count": 5,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#545b62": {
+      "count": 5,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#1e7e34": {
+      "count": 5,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#117a8b": {
+      "count": 5,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#d39e00": {
+      "count": 5,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#bd2130": {
+      "count": 5,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#050505": {
+      "count": 5,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 5,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#8ee0ff": {
+      "count": 5,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#f4f5f5": {
+      "count": 5,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#e3e4e4": {
+      "count": 5,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#00678e": {
+      "count": 4,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#7d8083": {
+      "count": 4,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 4,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#d0d1d2": {
+      "count": 4,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#c4e4e1": {
+      "count": 4,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#bbcad3": {
+      "count": 4,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#c6c7c8": {
+      "count": 3,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 3,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#34ce57": {
+      "count": 2,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#e4606d": {
+      "count": 2,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#0083b4": {
+      "count": 2,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#5a6268": {
+      "count": 2,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#218838": {
+      "count": 2,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#138496": {
+      "count": 2,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#e0a800": {
+      "count": 2,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#c82333": {
+      "count": 2,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#717376": {
+      "count": 2,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#0b0b0b": {
+      "count": 2,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#ececec": {
+      "count": 2,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#e3e4e5": {
+      "count": 2,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#6b6d70": {
+      "count": 2,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#3f3f3f": {
+      "count": 2,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#ffcb00": {
+      "count": 2,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#1d1d1b": {
+      "count": 2,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#008abd": {
+      "count": 2,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#efcaab": {
+      "count": 2,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#007bff": {
+      "count": 1,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#6610f2": {
+      "count": 1,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#6f42c1": {
+      "count": 1,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#e83e8c": {
+      "count": 1,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#fd7e14": {
+      "count": 1,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#20c997": {
+      "count": 1,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#343a40": {
+      "count": 1,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#fcf8e3": {
+      "count": 1,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#00719a": {
+      "count": 1,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#4e555b": {
+      "count": 1,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "#1c7430": {
+      "count": 1,
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+    ],
+    "Baskerville": [
+      "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+    ],
+    "Consolas": [
+      "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+    ],
+    "Courier New": [
+      "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+    ],
+    "HelveticaNowDisplay": [
+      "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+    ],
+    "Liberation Mono": [
+      "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+    ],
+    "Menlo": [
+      "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+    ],
+    "Monaco": [
+      "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+    ],
+    "SFMono-Regular": [
+      "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+    ],
+    "icomoon": [
+      "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+    ],
+    "icomoon\"!important": [
+      "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+    ],
+    "monospace": [
+      "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+    ],
+    "monospace!important": [
+      "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+    ],
+    "sans-serif": [
+      "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+    ],
+    "sans-serif!important": [
+      "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css",
+      "selector": ":root",
+      "declarations": "--blue:#007bff;--indigo:#6610f2;--purple:#6f42c1;--pink:#e83e8c;--red:#dc3545;--orange:#fd7e14;--yellow:#ffc107;--green:#28a745;--teal:#20c997;--cyan:#17a2b8;--white:#fff;--gray:#6c757d;--gray-dark:#343a40;--primary:#009FDA;--secondary:#6c757d;--success:#28a745;--info:#17a2b8;--warning:#ffc107;--danger:#dc3545;--light:#919396;--dark:#1E1E1E;--white:#fff;--grey:#919396;--breakpoint-xs:0;--breakpoint-sm:576px;--breakpoint-md:768px;--breakpoint-lg:992px;--breakpoint-xl:1200px;--font-family-sans-serif:-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", \"Liberation Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emo"
+    },
+    {
+      "source": "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css",
+      "selector": "body",
+      "declarations": "margin:0;font-family:\"HelveticaNowDisplay\",\"Arial\",sans-serif;font-size:1.4375rem;font-weight:400;line-height:1.4;color:#1E1E1E;text-align:left;background-color:#fff"
+    },
+    {
+      "source": "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css",
+      "selector": "input,button,select,optgroup,textarea",
+      "declarations": "margin:0;font-family:inherit;font-size:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css",
+      "selector": ".btn",
+      "declarations": "display:inline-block;font-weight:700;color:#1E1E1E;text-align:center;vertical-align:middle;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;background-color:#fff0;border:1px solid #fff0;padding:.8rem .75rem;font-size:1rem;line-height:1.4;border-radius:.25rem;transition:color 0.15s ease-in-out,background-color 0.15s ease-in-out,border-color 0.15s ease-in-out,box-shadow 0.15s ease-in-out"
+    },
+    {
+      "source": "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css",
+      "selector": ".btn:hover",
+      "declarations": "color:#1E1E1E;text-decoration:none"
+    },
+    {
+      "source": "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css",
+      "selector": ".btn-primary",
+      "declarations": "color:#fff;background-color:#009FDA;border-color:#009FDA"
+    },
+    {
+      "source": "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css",
+      "selector": ".btn-primary:hover",
+      "declarations": "color:#fff;background-color:#0083b4;border-color:#007aa7"
+    },
+    {
+      "source": "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css",
+      "selector": ".btn-primary:focus,.btn-primary.focus",
+      "declarations": "color:#fff;background-color:#0083b4;border-color:#007aa7;box-shadow:0 0 0 .2rem rgb(38 173 224 / .5)"
+    },
+    {
+      "source": "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css",
+      "selector": ".btn-primary.disabled,.btn-primary:disabled",
+      "declarations": "color:#fff;background-color:#009FDA;border-color:#009FDA"
+    },
+    {
+      "source": "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css",
+      "selector": ".btn-primary:not(:disabled):not(.disabled):active,.btn-primary:not(:disabled):not(.disabled).active,.show>.btn-primary.dropdown-toggle",
+      "declarations": "color:#fff;background-color:#007aa7;border-color:#00719a"
+    },
+    {
+      "source": "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css",
+      "selector": ".btn-secondary",
+      "declarations": "color:#fff;background-color:#6c757d;border-color:#6c757d"
+    },
+    {
+      "source": "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css",
+      "selector": ".btn-secondary:hover",
+      "declarations": "color:#fff;background-color:#5a6268;border-color:#545b62"
+    },
+    {
+      "source": "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css",
+      "selector": ".btn-secondary:focus,.btn-secondary.focus",
+      "declarations": "color:#fff;background-color:#5a6268;border-color:#545b62;box-shadow:0 0 0 .2rem rgb(130 138 145 / .5)"
+    },
+    {
+      "source": "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css",
+      "selector": ".btn-secondary.disabled,.btn-secondary:disabled",
+      "declarations": "color:#fff;background-color:#6c757d;border-color:#6c757d"
+    },
+    {
+      "source": "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css",
+      "selector": ".btn-secondary:not(:disabled):not(.disabled):active,.btn-secondary:not(:disabled):not(.disabled).active,.show>.btn-secondary.dropdown-toggle",
+      "declarations": "color:#fff;background-color:#545b62;border-color:#4e555b"
+    },
+    {
+      "source": "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css",
+      "selector": ".btn-success",
+      "declarations": "color:#fff;background-color:#28a745;border-color:#28a745"
+    },
+    {
+      "source": "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css",
+      "selector": ".btn-success:hover",
+      "declarations": "color:#fff;background-color:#218838;border-color:#1e7e34"
+    },
+    {
+      "source": "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css",
+      "selector": ".btn-success:focus,.btn-success.focus",
+      "declarations": "color:#fff;background-color:#218838;border-color:#1e7e34;box-shadow:0 0 0 .2rem rgb(72 180 97 / .5)"
+    },
+    {
+      "source": "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css",
+      "selector": ".btn-success.disabled,.btn-success:disabled",
+      "declarations": "color:#fff;background-color:#28a745;border-color:#28a745"
+    },
+    {
+      "source": "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css",
+      "selector": ".btn-success:not(:disabled):not(.disabled):active,.btn-success:not(:disabled):not(.disabled).active,.show>.btn-success.dropdown-toggle",
+      "declarations": "color:#fff;background-color:#1e7e34;border-color:#1c7430"
+    },
+    {
+      "source": "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css",
+      "selector": ".btn-info",
+      "declarations": "color:#fff;background-color:#17a2b8;border-color:#17a2b8"
+    },
+    {
+      "source": "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css",
+      "selector": ".btn-info:hover",
+      "declarations": "color:#fff;background-color:#138496;border-color:#117a8b"
+    },
+    {
+      "source": "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css",
+      "selector": ".btn-info:focus,.btn-info.focus",
+      "declarations": "color:#fff;background-color:#138496;border-color:#117a8b;box-shadow:0 0 0 .2rem rgb(58 176 195 / .5)"
+    },
+    {
+      "source": "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css",
+      "selector": ".btn-info.disabled,.btn-info:disabled",
+      "declarations": "color:#fff;background-color:#17a2b8;border-color:#17a2b8"
+    },
+    {
+      "source": "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css",
+      "selector": ".btn-info:not(:disabled):not(.disabled):active,.btn-info:not(:disabled):not(.disabled).active,.show>.btn-info.dropdown-toggle",
+      "declarations": "color:#fff;background-color:#117a8b;border-color:#10707f"
+    },
+    {
+      "source": "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css",
+      "selector": ".btn-warning",
+      "declarations": "color:#1E1E1E;background-color:#ffc107;border-color:#ffc107"
+    },
+    {
+      "source": "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css",
+      "selector": ".btn-warning:hover",
+      "declarations": "color:#1E1E1E;background-color:#e0a800;border-color:#d39e00"
+    },
+    {
+      "source": "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css",
+      "selector": ".btn-warning:focus,.btn-warning.focus",
+      "declarations": "color:#1E1E1E;background-color:#e0a800;border-color:#d39e00;box-shadow:0 0 0 .2rem rgb(221 169 10 / .5)"
+    },
+    {
+      "source": "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css",
+      "selector": ".btn-warning.disabled,.btn-warning:disabled",
+      "declarations": "color:#1E1E1E;background-color:#ffc107;border-color:#ffc107"
+    },
+    {
+      "source": "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css",
+      "selector": ".btn-warning:not(:disabled):not(.disabled):active,.btn-warning:not(:disabled):not(.disabled).active,.show>.btn-warning.dropdown-toggle",
+      "declarations": "color:#1E1E1E;background-color:#d39e00;border-color:#c69500"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Excellence For Experts | Koch-Chemie",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "colors.secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "colors.primary-active": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "colors.primary-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "colors.primary-tint": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "colors.hairline-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.koch-chemie.com/typo3temp/assets/compressed/merged-998280eee3b3702d529732a989ab6fb2-min.1790546421.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-sheet-card": {
+      "status": "inferred"
+    }
+  }
+}

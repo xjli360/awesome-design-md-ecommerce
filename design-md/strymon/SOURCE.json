@@ -1,0 +1,861 @@
+{
+  "source_url": "https://www.strymon.net",
+  "final_url": "https://www.strymon.net/",
+  "captured_at": "2026-09-28T09:14:26.637901+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.strymon.net",
+      "final_url": "https://www.strymon.net/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "48f1780e25cd7726c80e45cca8d9d9a63b01630dee1682cdbd1c5b7199ad2e4f",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.strymon.net/wp-content/plugins/woocommerce-gateway-amazon-payments-advanced/build/js/blocks/log-out-banner/style-index.css?ver=7b7a8388c5cd363f116c",
+      "final_url": "https://www.strymon.net/wp-content/plugins/woocommerce-gateway-amazon-payments-advanced/build/js/blocks/log-out-banner/style-index.css?ver=7b7a8388c5cd363f116c",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3696d0ff7475b9f1549c59e2c6bda21ba680a0de07c725ebc35998b61b130bc6",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.strymon.net/wp-content/plugins/woocommerce-gift-cards/assets/dist/frontend/blocks.css?ver=2.7.7",
+      "final_url": "https://www.strymon.net/wp-content/plugins/woocommerce-gift-cards/assets/dist/frontend/blocks.css?ver=2.7.7",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2f84129c47a4fd98f20b930a547d765561aed155e456c38cac054a709caaa0e9",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+      "final_url": "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c52dc19e1f84684beb82391dacc133a11400f1c351dc2c456fb38a1e22ec8ddd",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+      "final_url": "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "262c2912a618e3aa1af029cba7dde16245c35dd550bb10fa72c74b435456097a",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2",
+      "final_url": "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "80f45f78239104690319043ad10ddaa7c9dbc8a868b05fc1c80dfe596f9ff56d",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 29,
+      "sources": [
+        "https://www.strymon.net/",
+        "https://www.strymon.net/wp-content/plugins/woocommerce-gift-cards/assets/dist/frontend/blocks.css?ver=2.7.7",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#767676": {
+      "count": 16,
+      "sources": [
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#e9e6ed": {
+      "count": 13,
+      "sources": [
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#515151": {
+      "count": 10,
+      "sources": [
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#720eec": {
+      "count": 8,
+      "sources": [
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#958e09": {
+      "count": 8,
+      "sources": [
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#cfc8d8": {
+      "count": 8,
+      "sources": [
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#000000": {
+      "count": 7,
+      "sources": [
+        "https://www.strymon.net/",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#cc1818": {
+      "count": 7,
+      "sources": [
+        "https://www.strymon.net/wp-content/plugins/woocommerce-gift-cards/assets/dist/frontend/blocks.css?ver=2.7.7",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#fcfbfe": {
+      "count": 5,
+      "sources": [
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#1e85be": {
+      "count": 4,
+      "sources": [
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#7f54b3": {
+      "count": 4,
+      "sources": [
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#b5abc2": {
+      "count": 4,
+      "sources": [
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#ff6900": {
+      "count": 3,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#007518": {
+      "count": 3,
+      "sources": [
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#aa0000": {
+      "count": 3,
+      "sources": [
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#ffba00": {
+      "count": 3,
+      "sources": [
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#2ea2cc": {
+      "count": 3,
+      "sources": [
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#e1dde7": {
+      "count": 3,
+      "sources": [
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#dcd7e2": {
+      "count": 3,
+      "sources": [
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#cf2e2e": {
+      "count": 2,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#fcb900": {
+      "count": 2,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#0693e3": {
+      "count": 2,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#9b51e0": {
+      "count": 2,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 2,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#cccccc": {
+      "count": 2,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#2b2d2f": {
+      "count": 2,
+      "sources": [
+        "https://www.strymon.net/wp-content/plugins/woocommerce-gift-cards/assets/dist/frontend/blocks.css?ver=2.7.7"
+      ]
+    },
+    "#444444": {
+      "count": 2,
+      "sources": [
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#8fae1b": {
+      "count": 2,
+      "sources": [
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#b81c23": {
+      "count": 2,
+      "sources": [
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#abb8c3": {
+      "count": 1,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#f78da7": {
+      "count": 1,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#7bdcb5": {
+      "count": 1,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#00d084": {
+      "count": 1,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#8ed1fc": {
+      "count": 1,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#32373c": {
+      "count": 1,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#7adcb4": {
+      "count": 1,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#00d082": {
+      "count": 1,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#a9b8c3": {
+      "count": 1,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#4aeadc": {
+      "count": 1,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#9778d1": {
+      "count": 1,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#cf2aba": {
+      "count": 1,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#ee2c82": {
+      "count": 1,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#fb6962": {
+      "count": 1,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#fef84c": {
+      "count": 1,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#ffceec": {
+      "count": 1,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#9896f0": {
+      "count": 1,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#fecda5": {
+      "count": 1,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#fe2d2d": {
+      "count": 1,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#6b003e": {
+      "count": 1,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#ffcb70": {
+      "count": 1,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#c751c0": {
+      "count": 1,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#4158d0": {
+      "count": 1,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#fff5cb": {
+      "count": 1,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#b6e3d4": {
+      "count": 1,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#33a7b5": {
+      "count": 1,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#caf880": {
+      "count": 1,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "#71ce7e": {
+      "count": 1,
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    }
+  },
+  "font_families": {
+    "DIN OT": [
+      "https://www.strymon.net/"
+    ],
+    "WooCommerce": [
+      "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+    ],
+    "museo-sans": [
+      "https://www.strymon.net/"
+    ],
+    "star": [
+      "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.strymon.net/",
+      "selector": ".wp-block-button",
+      "declarations": "--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;"
+    },
+    {
+      "source": "https://www.strymon.net/",
+      "selector": ":root",
+      "declarations": "--wp--style--global--content-size: 800px;--wp--style--global--wide-size: 1200px;"
+    },
+    {
+      "source": "https://www.strymon.net/",
+      "selector": ":root",
+      "declarations": "--wp--style--block-gap: 24px;"
+    },
+    {
+      "source": "https://www.strymon.net/",
+      "selector": ":root :where(.wp-element-button, .wp-block-button__link)",
+      "declarations": "background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;"
+    },
+    {
+      "source": "https://www.strymon.net/",
+      "selector": ".wp-block-button__link",
+      "declarations": "background-color: var( --e-global-color-accent );\n\tcolor: #ffffff !important;\n\tfont-weight: bold;\n\ttext-decoration: none !important;\n\tborder-radius: 5px;"
+    },
+    {
+      "source": "https://www.strymon.net/",
+      "selector": "table tbody > tr:nth-child(2n+1) > td, table tbody > tr:nth-child(2n+1) > th",
+      "declarations": "background-color: transparent;"
+    },
+    {
+      "source": "https://www.strymon.net/",
+      "selector": "a.woocommerce-loop-product__link",
+      "declarations": "color: var( --e-global-color-primary );"
+    },
+    {
+      "source": "https://www.strymon.net/",
+      "selector": ".woocommerce div.product p.price",
+      "declarations": "color: initial;"
+    },
+    {
+      "source": "https://www.strymon.net/",
+      "selector": "it.alt, .woocommerce a.button.alt, .woocommerce a.button.alt:hover, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce button.button.al",
+      "declarations": "background-color: var( --e-global-color-accent );"
+    },
+    {
+      "source": "https://www.strymon.net/",
+      "selector": ".woocommerce button.button.alt.disabled",
+      "declarations": "background-color: var( --e-global-color-accent );"
+    },
+    {
+      "source": "https://www.strymon.net/",
+      "selector": "div.woocommerce div.product p.stock",
+      "declarations": "color: initial;"
+    },
+    {
+      "source": "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+      "selector": ":root",
+      "declarations": "--woocommerce:#720eec;--wc-green:#007518;--wc-red:#a00;--wc-orange:#ffba00;--wc-blue:#2ea2cc;--wc-primary:#720eec;--wc-primary-text:#fcfbfe;--wc-secondary:#e9e6ed;--wc-secondary-text:#515151;--wc-highlight:#958e09;--wc-highligh-text:white;--wc-content-bg:#fff;--wc-subtext:#767676;--wc-form-border-color:rgba(32, 7, 7, 0.8);--wc-form-border-radius:4px;--wc-form-border-width:1px;--wc-destructive:#cc1818;--wc-card-border-radius:8px"
+    },
+    {
+      "source": "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+      "selector": ":root",
+      "declarations": "--woocommerce:#720eec;--wc-green:#007518;--wc-red:#a00;--wc-orange:#ffba00;--wc-blue:#2ea2cc;--wc-primary:#720eec;--wc-primary-text:#fcfbfe;--wc-secondary:#e9e6ed;--wc-secondary-text:#515151;--wc-highlight:#958e09;--wc-highligh-text:white;--wc-content-bg:#fff;--wc-subtext:#767676;--wc-form-border-color:rgba(32, 7, 7, 0.8);--wc-form-border-radius:4px;--wc-form-border-width:1px;--wc-destructive:#cc1818;--wc-card-border-radius:8px"
+    },
+    {
+      "source": "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2",
+      "selector": "@charset \"UTF-8\";:root",
+      "declarations": "--woocommerce:#720eec;--wc-green:#007518;--wc-red:#a00;--wc-orange:#ffba00;--wc-blue:#2ea2cc;--wc-primary:#720eec;--wc-primary-text:#fcfbfe;--wc-secondary:#e9e6ed;--wc-secondary-text:#515151;--wc-highlight:#958e09;--wc-highligh-text:white;--wc-content-bg:#fff;--wc-subtext:#767676;--wc-form-border-color:rgba(32, 7, 7, 0.8);--wc-form-border-radius:4px;--wc-form-border-width:1px;--wc-destructive:#cc1818;--wc-card-border-radius:8px"
+    },
+    {
+      "source": "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2",
+      "selector": ".woocommerce div.product div.images .woocommerce-product-gallery__wrapper .zoomImg",
+      "declarations": "background-color:#fff;opacity:0"
+    },
+    {
+      "source": "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2",
+      "selector": ".woocommerce div.product div.images .flex-control-thumbs li.woocommerce-product-gallery__video-thumbnail::before",
+      "declarations": "content:\"▶\";position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);z-index:1;color:#fff;font-size:1.4em;text-shadow:0 0 .25em rgba(0,0,0,.8);pointer-events:none"
+    },
+    {
+      "source": "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2",
+      "selector": ".woocommerce div.product .woocommerce-tabs ul.tabs li",
+      "declarations": "border:1px solid #cfc8d8;background-color:#e9e6ed;color:#515151;display:inline-block;position:relative;z-index:0;border-radius:4px 4px 0 0;margin:0 -5px;padding:0 1em"
+    },
+    {
+      "source": "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2",
+      "selector": ".woocommerce div.product .woocommerce-tabs ul.tabs li a",
+      "declarations": "display:inline-block;padding:.5em 0;font-weight:700;color:#515151;text-decoration:none"
+    },
+    {
+      "source": "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2",
+      "selector": ".woocommerce div.product .woocommerce-tabs ul.tabs li a:hover",
+      "declarations": "text-decoration:none;color:#6b6b6b"
+    },
+    {
+      "source": "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2",
+      "selector": ".woocommerce div.product .woocommerce-tabs ul.tabs li.active",
+      "declarations": "background:#fff;color:#515151;z-index:2;border-bottom-color:#fff"
+    },
+    {
+      "source": "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2",
+      "selector": ".woocommerce div.product .woocommerce-tabs ul.tabs li.active a",
+      "declarations": "color:inherit;text-shadow:inherit"
+    },
+    {
+      "source": "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2",
+      "selector": ".woocommerce ul.products li.product .price del",
+      "declarations": "color:inherit;opacity:.7;display:inline-block"
+    },
+    {
+      "source": "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2",
+      "selector": ".woocommerce ul.products li.product .price .from",
+      "declarations": "font-size:.67em;margin:-2px 0 0 0;text-transform:uppercase;color:rgba(90,89,68,.5)"
+    },
+    {
+      "source": "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2",
+      "selector": "n-styles)):where(:not(.edit-post-visual-editor)) .woocommerce button.button,:where(body:not(.woocommerce-block-theme-has-button-styles)):where(:not(.edit-post-v",
+      "declarations": "font-size:100%;margin:0;line-height:1;cursor:pointer;position:relative;text-decoration:none;overflow:visible;padding:.618em 1em;font-weight:700;border-radius:3px;left:auto;color:#515151;background-color:#e9e6ed;border:0;display:inline-block;background-image:none;box-shadow:none;text-shadow:none"
+    },
+    {
+      "source": "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2",
+      "selector": "st-visual-editor)) .woocommerce button.button.loading::after,:where(body:not(.woocommerce-block-theme-has-button-styles)):where(:not(.edit-post-visual-editor)) ",
+      "declarations": "font-family:WooCommerce;content:\"\\e01c\";vertical-align:top;font-weight:400;position:absolute;top:.618em;right:1em;animation:spin 2s linear infinite"
+    },
+    {
+      "source": "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2",
+      "selector": "t-post-visual-editor)) .woocommerce button.button.added::after,:where(body:not(.woocommerce-block-theme-has-button-styles)):where(:not(.edit-post-visual-editor)",
+      "declarations": "font-family:WooCommerce;content:\"\\e017\";margin-left:.53em;vertical-align:bottom"
+    },
+    {
+      "source": "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2",
+      "selector": "here(:not(.edit-post-visual-editor)) .woocommerce button.button:hover,:where(body:not(.woocommerce-block-theme-has-button-styles)):where(:not(.edit-post-visual-",
+      "declarations": "background-color:#dcd7e2;text-decoration:none;background-image:none;color:#515151"
+    },
+    {
+      "source": "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2",
+      "selector": ")):where(:not(.edit-post-visual-editor)) .woocommerce button.button.alt,:where(body:not(.woocommerce-block-theme-has-button-styles)):where(:not(.edit-post-visua",
+      "declarations": "background-color:#7f54b3;color:#fff;-webkit-font-smoothing:antialiased"
+    },
+    {
+      "source": "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2",
+      "selector": "t(.edit-post-visual-editor)) .woocommerce button.button.alt:hover,:where(body:not(.woocommerce-block-theme-has-button-styles)):where(:not(.edit-post-visual-edit",
+      "declarations": "background-color:#7249a4;color:#fff"
+    },
+    {
+      "source": "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2",
+      "selector": "oocommerce input.button.alt:disabled[disabled],:where(body:not(.woocommerce-block-theme-has-button-styles)):where(:not(.edit-post-visual-editor)) .woocommerce i",
+      "declarations": "background-color:#7f54b3;color:#fff"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Strymon Effects Pedals",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.strymon.net/wp-content/plugins/woocommerce-gift-cards/assets/dist/frontend/blocks.css?ver=2.7.7"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.strymon.net/",
+        "https://www.strymon.net/wp-content/plugins/woocommerce-gift-cards/assets/dist/frontend/blocks.css?ver=2.7.7",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.strymon.net/",
+        "https://www.strymon.net/wp-content/plugins/woocommerce-gift-cards/assets/dist/frontend/blocks.css?ver=2.7.7",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "colors.dark-surface": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.strymon.net/"
+      ]
+    },
+    "colors.destructive": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.strymon.net/wp-content/plugins/woocommerce-gift-cards/assets/dist/frontend/blocks.css?ver=2.7.7",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://www.strymon.net/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-table": {
+      "status": "inferred"
+    }
+  }
+}

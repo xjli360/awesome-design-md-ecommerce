@@ -1,0 +1,870 @@
+{
+  "source_url": "https://snugglemeorganic.com",
+  "final_url": "https://snugglemeorganic.com/",
+  "captured_at": "2026-09-28T04:24:30.704028+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://snugglemeorganic.com",
+      "final_url": "https://snugglemeorganic.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "1f2bca969e265879702e56fa3bf274c8ad0e90936b919b4490bd44d30c8af92e",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+      "final_url": "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "74ca6aae5468dbc924790c3b4d219a089b90a34bad53a0f7ca3a73e73b6f5ab8",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://snugglemeorganic.com/cdn/shop/t/127/assets/font-settings.css?v=153263859795412113651782817752",
+      "final_url": "https://snugglemeorganic.com/cdn/shop/t/127/assets/font-settings.css?v=153263859795412113651782817752",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "fc7df5fb2e78da9f052027a8913326d3c059364e7e5b4633caffeafcd13eb68b",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050",
+      "final_url": "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2c940be6ef4f3618745a4fc6a8dc865c41c387eb189b6536254452e3c29b81f5",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://snugglemeorganic.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://snugglemeorganic.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 84,
+      "sources": [
+        "https://snugglemeorganic.com/",
+        "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050",
+        "https://snugglemeorganic.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#000000": {
+      "count": 37,
+      "sources": [
+        "https://snugglemeorganic.com/",
+        "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "#2b4970": {
+      "count": 15,
+      "sources": [
+        "https://snugglemeorganic.com/",
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "#3a3a3a": {
+      "count": 14,
+      "sources": [
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "#ffffff40": {
+      "count": 12,
+      "sources": [
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "#e7e7d6": {
+      "count": 10,
+      "sources": [
+        "https://snugglemeorganic.com/"
+      ]
+    },
+    "#ffffff00": {
+      "count": 9,
+      "sources": [
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "#d02e2e": {
+      "count": 9,
+      "sources": [
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "#666666": {
+      "count": 6,
+      "sources": [
+        "https://snugglemeorganic.com/",
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "#cccccc": {
+      "count": 6,
+      "sources": [
+        "https://snugglemeorganic.com/",
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "#3a3a3a40": {
+      "count": 6,
+      "sources": [
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "#333333": {
+      "count": 5,
+      "sources": [
+        "https://snugglemeorganic.com/",
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "#545454": {
+      "count": 5,
+      "sources": [
+        "https://snugglemeorganic.com/"
+      ]
+    },
+    "#0000001a": {
+      "count": 5,
+      "sources": [
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "#f4f2ec": {
+      "count": 4,
+      "sources": [
+        "https://snugglemeorganic.com/",
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "#a7b6bb": {
+      "count": 4,
+      "sources": [
+        "https://snugglemeorganic.com/"
+      ]
+    },
+    "#56ad6a": {
+      "count": 4,
+      "sources": [
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "#0000000f": {
+      "count": 4,
+      "sources": [
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "#00000005": {
+      "count": 4,
+      "sources": [
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "#c01e25": {
+      "count": 4,
+      "sources": [
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "#999999": {
+      "count": 3,
+      "sources": [
+        "https://snugglemeorganic.com/",
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 3,
+      "sources": [
+        "https://snugglemeorganic.com/",
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "#efe5bd": {
+      "count": 3,
+      "sources": [
+        "https://snugglemeorganic.com/"
+      ]
+    },
+    "#ffffff99": {
+      "count": 3,
+      "sources": [
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 3,
+      "sources": [
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "#fff6f6": {
+      "count": 3,
+      "sources": [
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "#aa0000": {
+      "count": 3,
+      "sources": [
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "#a6c1cd": {
+      "count": 2,
+      "sources": [
+        "https://snugglemeorganic.com/",
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "#9b8e6f": {
+      "count": 2,
+      "sources": [
+        "https://snugglemeorganic.com/",
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "#555555": {
+      "count": 2,
+      "sources": [
+        "https://snugglemeorganic.com/",
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "#6a9bac": {
+      "count": 2,
+      "sources": [
+        "https://snugglemeorganic.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 2,
+      "sources": [
+        "https://snugglemeorganic.com/",
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "#000000cc": {
+      "count": 2,
+      "sources": [
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "#c1c9d1": {
+      "count": 2,
+      "sources": [
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "#c1c9d1a8": {
+      "count": 2,
+      "sources": [
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "#ffd200": {
+      "count": 2,
+      "sources": [
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "#a6b8bd": {
+      "count": 2,
+      "sources": [
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "#95a7ad": {
+      "count": 2,
+      "sources": [
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://snugglemeorganic.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://snugglemeorganic.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 1,
+      "sources": [
+        "https://snugglemeorganic.com/"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 1,
+      "sources": [
+        "https://snugglemeorganic.com/"
+      ]
+    },
+    "#4d4d4d": {
+      "count": 1,
+      "sources": [
+        "https://snugglemeorganic.com/"
+      ]
+    },
+    "#808080": {
+      "count": 1,
+      "sources": [
+        "https://snugglemeorganic.com/"
+      ]
+    },
+    "#253b45": {
+      "count": 1,
+      "sources": [
+        "https://snugglemeorganic.com/"
+      ]
+    },
+    "#455d67": {
+      "count": 1,
+      "sources": [
+        "https://snugglemeorganic.com/"
+      ]
+    },
+    "#667e89": {
+      "count": 1,
+      "sources": [
+        "https://snugglemeorganic.com/"
+      ]
+    },
+    "#86a0ab": {
+      "count": 1,
+      "sources": [
+        "https://snugglemeorganic.com/"
+      ]
+    },
+    "#edf3f5": {
+      "count": 1,
+      "sources": [
+        "https://snugglemeorganic.com/"
+      ]
+    },
+    "#484136": {
+      "count": 1,
+      "sources": [
+        "https://snugglemeorganic.com/"
+      ]
+    },
+    "#b2a37f": {
+      "count": 1,
+      "sources": [
+        "https://snugglemeorganic.com/"
+      ]
+    },
+    "#c8b78e": {
+      "count": 1,
+      "sources": [
+        "https://snugglemeorganic.com/"
+      ]
+    },
+    "#e2dac7": {
+      "count": 1,
+      "sources": [
+        "https://snugglemeorganic.com/"
+      ]
+    },
+    "#ebe6da": {
+      "count": 1,
+      "sources": [
+        "https://snugglemeorganic.com/"
+      ]
+    },
+    "#faf9f6": {
+      "count": 1,
+      "sources": [
+        "https://snugglemeorganic.com/"
+      ]
+    },
+    "#342a2a": {
+      "count": 1,
+      "sources": [
+        "https://snugglemeorganic.com/"
+      ]
+    },
+    "#888888": {
+      "count": 1,
+      "sources": [
+        "https://snugglemeorganic.com/"
+      ]
+    },
+    "#223a56": {
+      "count": 1,
+      "sources": [
+        "https://snugglemeorganic.com/"
+      ]
+    },
+    "#091522": {
+      "count": 1,
+      "sources": [
+        "https://snugglemeorganic.com/"
+      ]
+    },
+    "#dfdace": {
+      "count": 1,
+      "sources": [
+        "https://snugglemeorganic.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+    ],
+    "Arial Unicode MS\\": [
+      "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+    ],
+    "Avenir": [
+      "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+    ],
+    "Avenir Next": [
+      "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+    ],
+    "Consolas": [
+      "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+    ],
+    "Helvetica": [
+      "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+    ],
+    "Helvetica Neue": [
+      "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+    ],
+    "Lucida Sans Unicode": [
+      "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+    ],
+    "Poppins": [
+      "https://snugglemeorganic.com/cdn/shop/t/127/assets/font-settings.css?v=153263859795412113651782817752"
+    ],
+    "Sabon Next": [
+      "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+    ],
+    "Segoe UI": [
+      "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+    ],
+    "monospace": [
+      "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+    ],
+    "sans-serif": [
+      "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+    ],
+    "serif": [
+      "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+    ],
+    "swiper-icons": [
+      "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://snugglemeorganic.com/",
+      "selector": "--bar-opacity: 0; --bar-width: 0; --bar-left: 0;\n\n  :root",
+      "declarations": "---color-nav-text-transparent: #ffffff;\n    --menu-height: calc(70px);"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+      "selector": ":root",
+      "declarations": "--swiper-theme-color:#007aff"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+      "selector": ":root",
+      "declarations": "--swiper-navigation-size:44px"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+      "selector": ".swiper-button-next,.swiper-button-prev",
+      "declarations": "position:absolute;top:var(--swiper-navigation-top-offset,50%);width:calc(var(--swiper-navigation-size)/ 44 * 27);height:var(--swiper-navigation-size);margin-top:calc(0px - (var(--swiper-navigation-size)/ 2));z-index:10;cursor:pointer;display:flex;align-items:center;justify-content:center;color:var(--swiper-navigation-color,var(--swiper-theme-color))"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+      "selector": ".swiper-button-next:after,.swiper-button-prev:after",
+      "declarations": "font-family:swiper-icons;font-size:var(--swiper-navigation-size);text-transform:none!important;letter-spacing:0;font-variant:initial;line-height:1"
+    },
+    {
+      "source": "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050",
+      "selector": ".slick-dots li button",
+      "declarations": "border:0;background:transparent;display:block;height:20px;width:20px;outline:none;line-height:0;font-size:0;color:transparent;padding:5px;cursor:pointer"
+    },
+    {
+      "source": "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050",
+      "selector": ".slick-dots li button:before",
+      "declarations": "position:absolute;content:\"\";width:10px;height:10px;line-height:10px;border-radius:10px;text-align:center;background-color:initial;border:2px solid var(---color-primary);opacity:.9;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;top:50%;left:50%;transform:translate(-50%,-50%)"
+    },
+    {
+      "source": "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050",
+      "selector": ".slick-dots li.slick-active button:before",
+      "declarations": "background-color:var(---color-primary);opacity:1"
+    },
+    {
+      "source": "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050",
+      "selector": ".product__thumbs .slick-dots .icon",
+      "declarations": "position:absolute;top:2px;right:2px;margin:0;height:20px;width:20px;color:transparent;fill:var(---color-bg);vertical-align:initial"
+    },
+    {
+      "source": "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button",
+      "declarations": "color:var(---color-text-dark);border-radius:0;border:none;margin:0;cursor:pointer"
+    },
+    {
+      "source": "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button--control:hover",
+      "declarations": "color:var(---color-a50)"
+    },
+    {
+      "source": "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button--control.focus-enabled:focus,.shopify-model-viewer-ui .shopify-model-viewer-ui__button--control:active",
+      "declarations": "color:var(---color-a50);background:var(---color-a5)"
+    },
+    {
+      "source": "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button--poster:focus,.shopify-model-viewer-ui .shopify-model-viewer-ui__button--poster:hover",
+      "declarations": "color:var(---color-a50)"
+    },
+    {
+      "source": "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050",
+      "selector": ".pswp__button,.pswp__button--arrow--left:before,.pswp__button--arrow--right:before,.pswp__button svg.icon",
+      "declarations": "width:2rem;height:2rem;-webkit-tap-highlight-color:rgba(0,0,0,0);-webkit-tap-highlight-color:transparent;-webkit-user-select:none;user-select:none"
+    },
+    {
+      "source": "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050",
+      "selector": ":root",
+      "declarations": "--font-3:12px"
+    },
+    {
+      "source": "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050",
+      "selector": ":root",
+      "declarations": "--font-3:13px"
+    },
+    {
+      "source": "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050",
+      "selector": ".popout__toggle,body,button,input,select,textarea",
+      "declarations": "font-size:calc(17.04px*var(---font-adjust-body));line-height:1.6;font-family:var(---font-stack-body);font-weight:var(---font-weight-body);color:var(--text);-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:100%;letter-spacing:.03em"
+    },
+    {
+      "source": "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050",
+      "selector": ".body",
+      "declarations": "font-family:var(---font-stack-body);font-weight:var(---font-weight-body);font-style:var(---font-style-body)"
+    },
+    {
+      "source": "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "font-family:var(---font-stack-heading);font-weight:var(---font-weight-heading);font-style:var(---font-style-heading);letter-spacing:var(---font-heading-space);text-transform:var(---font-heading-caps)"
+    },
+    {
+      "source": "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050",
+      "selector": ".h1--body,.h2--body,.h3--body,.h4--body,.h5--body,.h6--body",
+      "declarations": "font-family:var(---font-stack-body);font-weight:var(---font-weight-body);font-style:var(---font-style-body)"
+    },
+    {
+      "source": "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050",
+      "selector": ":root",
+      "declarations": "--gutter:32px;--inner:20px;--outer:32px;--wide:50px;--gutter-offset:-32px;--radius-sm:3px;--line:1rem"
+    },
+    {
+      "source": "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050",
+      "selector": ":root",
+      "declarations": "--inner:18px;--outer:21px;--gutter:22px;--wide:40px;--gutter-offset:-22px"
+    },
+    {
+      "source": "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050",
+      "selector": ":root",
+      "declarations": "--inner:16px;--gutter:16px;--outer:16px;--wide:30px;--gutter-offset:-16px;--line:.66rem"
+    },
+    {
+      "source": "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050",
+      "selector": "body:not(.template-index)",
+      "declarations": "background-color:var(---color-bg)"
+    },
+    {
+      "source": "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050",
+      "selector": ".btn,.btn--soft",
+      "declarations": "display:inline-block;padding:.8rem 1.6rem;margin:0;line-height:1;text-decoration:none;text-align:center;vertical-align:middle;border:none;cursor:pointer;-webkit-user-select:none;user-select:none;-webkit-appearance:none;-moz-appearance:none;border-radius:var(---button-radius);font-size:calc(17.04px*var(---font-adjust-body));background-color:var(--btn-bg);color:var(--btn-text);transition:background-color .5s cubic-bezier(.215,.61,.355,1)"
+    },
+    {
+      "source": "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050",
+      "selector": ".btn--soft:active,.btn--soft:focus,.btn--soft:hover,.btn:active,.btn:focus,.btn:hover",
+      "declarations": "color:var(--btn-text-hover);background-color:var(--btn-bg-hover)"
+    },
+    {
+      "source": "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050",
+      "selector": ".btn,.btn--neutral.btn",
+      "declarations": "--btn-bg:var(---color-text);--btn-text:var(---color-bg);--btn-bg-hover:var(---color-a95);--btn-text-hover:var(---color-bg)"
+    },
+    {
+      "source": "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050",
+      "selector": ".btn--invert.btn",
+      "declarations": "--btn-bg:var(---inverse-text);--btn-text:var(---inverse-bg);--btn-bg-hover:var(---inverse-a95);--btn-text-hover:var(---inverse-bg)"
+    },
+    {
+      "source": "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050",
+      "selector": ".btn--black.btn",
+      "declarations": "--btn-bg:#000;--btn-text:#fff;--btn-bg-hover:#000;--btn-text-hover:#f7f7f7"
+    },
+    {
+      "source": "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050",
+      "selector": ".btn--primary.btn,.btn.shopify-challenge__button",
+      "declarations": "--btn-bg:var(---color-primary);--btn-text:var(---color-primary-opposite);--btn-bg-hover:var(---color-primary-hover);--btn-text-hover:var(---color-primary-opposite);--btn-text:#000;--btn-text-hover:#000"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Snuggle Me Organic Baby Loungers",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://snugglemeorganic.com/",
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://snugglemeorganic.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://snugglemeorganic.com/"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://snugglemeorganic.com/",
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://snugglemeorganic.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://snugglemeorganic.com/",
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://snugglemeorganic.com/",
+        "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050",
+        "https://snugglemeorganic.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://snugglemeorganic.com/",
+        "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050",
+        "https://snugglemeorganic.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "colors.accent-sale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "colors.accent-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "colors.accent-earth": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://snugglemeorganic.com/",
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "colors.accent-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://snugglemeorganic.com/"
+      ]
+    },
+    "colors.deep-navy": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://snugglemeorganic.com/"
+      ]
+    },
+    "colors.error-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://snugglemeorganic.com/cdn/shop/t/127/assets/theme.css?v=42452234754208975531786713050"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.playmat-spec-panel": {
+      "status": "inferred"
+    }
+  }
+}

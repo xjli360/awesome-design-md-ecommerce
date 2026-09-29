@@ -1,0 +1,942 @@
+{
+  "source_url": "https://vitalchoice.com",
+  "final_url": "https://www.vitalchoice.com/",
+  "captured_at": "2026-09-28T05:02:52.735956+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://vitalchoice.com",
+      "final_url": "https://www.vitalchoice.com/",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "40f7b27f4ba514fa312096d006c152c940acbf3f496b6601149ebb1b24bbc297",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.vitalchoice.com/static/css/base.css",
+      "final_url": "https://www.vitalchoice.com/static/css/base.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "32aec9915a8670a35a8b4b79f38028afbd8c5b05fa58a96c1f568c328389ef1c",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.vitalchoice.com/static/css/powerreviews-overrides-style.css",
+      "final_url": "https://www.vitalchoice.com/static/css/powerreviews-overrides-style.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "25b0174d17cb3cc9dfc90cc5b733058b358ce47edb64a3886d8c48161282c289",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn1.vitalchoice.com/wcsstore/VitalChoice/css/production/components/base/base.vars.css",
+      "final_url": "https://cdn1.vitalchoice.com/wcsstore/VitalChoice/css/production/components/base/base.vars.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5b33add58e2a0042232357bc507532f2f76b5618ae4e2ff8b9a399c32e7193b7",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn1.vitalchoice.com/wcsstore/VitalChoice/css/production/components/lander/lander.vars.css",
+      "final_url": "https://cdn1.vitalchoice.com/wcsstore/VitalChoice/css/production/components/lander/lander.vars.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5e4324db69aa433390553234c749c9dfb202809203395040264e89c0a61dab37",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Open+Sans:ital,wdth,wght@0,75,300..800;1,75,300..800&family=Yantramanav:wght@400;700&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Open+Sans:ital,wdth,wght@0,75,300..800;1,75,300..800&family=Yantramanav:wght@400;700&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "f21f131f66ef65a29f63c1fca401eeb50481bc3f1ed63d16985b9df436fe220b",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 41,
+      "sources": [
+        "https://www.vitalchoice.com/",
+        "https://www.vitalchoice.com/static/css/powerreviews-overrides-style.css",
+        "https://cdn1.vitalchoice.com/wcsstore/VitalChoice/css/production/components/base/base.vars.css"
+      ]
+    },
+    "#e7edf1": {
+      "count": 40,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 37,
+      "sources": [
+        "https://www.vitalchoice.com/",
+        "https://www.vitalchoice.com/static/css/powerreviews-overrides-style.css",
+        "https://cdn1.vitalchoice.com/wcsstore/VitalChoice/css/production/components/base/base.vars.css"
+      ]
+    },
+    "#cf3d02": {
+      "count": 25,
+      "sources": [
+        "https://www.vitalchoice.com/",
+        "https://cdn1.vitalchoice.com/wcsstore/VitalChoice/css/production/components/base/base.vars.css"
+      ]
+    },
+    "#2f2f2f": {
+      "count": 24,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#5d8c78": {
+      "count": 24,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#f2f8fc": {
+      "count": 20,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#e3e3e3": {
+      "count": 16,
+      "sources": [
+        "https://www.vitalchoice.com/",
+        "https://www.vitalchoice.com/static/css/powerreviews-overrides-style.css"
+      ]
+    },
+    "#1f1f1b": {
+      "count": 8,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 8,
+      "sources": [
+        "https://www.vitalchoice.com/",
+        "https://cdn1.vitalchoice.com/wcsstore/VitalChoice/css/production/components/base/base.vars.css"
+      ]
+    },
+    "#f4f2f7": {
+      "count": 8,
+      "sources": [
+        "https://www.vitalchoice.com/",
+        "https://cdn1.vitalchoice.com/wcsstore/VitalChoice/css/production/components/base/base.vars.css"
+      ]
+    },
+    "#a1001a": {
+      "count": 5,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#555555": {
+      "count": 5,
+      "sources": [
+        "https://www.vitalchoice.com/",
+        "https://cdn1.vitalchoice.com/wcsstore/VitalChoice/css/production/components/base/base.vars.css"
+      ]
+    },
+    "#ebebeb": {
+      "count": 5,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#6b6d76": {
+      "count": 5,
+      "sources": [
+        "https://www.vitalchoice.com/static/css/powerreviews-overrides-style.css"
+      ]
+    },
+    "#65388b": {
+      "count": 5,
+      "sources": [
+        "https://www.vitalchoice.com/static/css/powerreviews-overrides-style.css"
+      ]
+    },
+    "#595959": {
+      "count": 4,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#333333": {
+      "count": 4,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 3,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#4e9f82": {
+      "count": 3,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#434343": {
+      "count": 3,
+      "sources": [
+        "https://www.vitalchoice.com/",
+        "https://cdn1.vitalchoice.com/wcsstore/VitalChoice/css/production/components/base/base.vars.css"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 3,
+      "sources": [
+        "https://www.vitalchoice.com/",
+        "https://cdn1.vitalchoice.com/wcsstore/VitalChoice/css/production/components/base/base.vars.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 3,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#c0b685": {
+      "count": 3,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#6a6c77": {
+      "count": 3,
+      "sources": [
+        "https://www.vitalchoice.com/static/css/powerreviews-overrides-style.css"
+      ]
+    },
+    "#003040": {
+      "count": 3,
+      "sources": [
+        "https://cdn1.vitalchoice.com/wcsstore/VitalChoice/css/production/components/base/base.vars.css"
+      ]
+    },
+    "#ff0000": {
+      "count": 2,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#185357": {
+      "count": 2,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#2b6c82": {
+      "count": 2,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#c4c4c4": {
+      "count": 2,
+      "sources": [
+        "https://www.vitalchoice.com/",
+        "https://cdn1.vitalchoice.com/wcsstore/VitalChoice/css/production/components/base/base.vars.css"
+      ]
+    },
+    "#3b5998": {
+      "count": 2,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#9e9e9e": {
+      "count": 2,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#262626": {
+      "count": 2,
+      "sources": [
+        "https://cdn1.vitalchoice.com/wcsstore/VitalChoice/css/production/components/base/base.vars.css"
+      ]
+    },
+    "#1c586c": {
+      "count": 2,
+      "sources": [
+        "https://cdn1.vitalchoice.com/wcsstore/VitalChoice/css/production/components/base/base.vars.css"
+      ]
+    },
+    "#757575": {
+      "count": 1,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#d5d5d5": {
+      "count": 1,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#ad3100": {
+      "count": 1,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#24588a": {
+      "count": 1,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#b7b7b7": {
+      "count": 1,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#404040": {
+      "count": 1,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#666666": {
+      "count": 1,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#969696": {
+      "count": 1,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#b30200": {
+      "count": 1,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 1,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#373737": {
+      "count": 1,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#dedede": {
+      "count": 1,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#999999": {
+      "count": 1,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#b01116": {
+      "count": 1,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#dd3337": {
+      "count": 1,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#22222275": {
+      "count": 1,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#222222": {
+      "count": 1,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#173945ff": {
+      "count": 1,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#afafaf": {
+      "count": 1,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#173945": {
+      "count": 1,
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "#607767": {
+      "count": 1,
+      "sources": [
+        "https://www.vitalchoice.com/static/css/powerreviews-overrides-style.css"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 1,
+      "sources": [
+        "https://cdn1.vitalchoice.com/wcsstore/VitalChoice/css/production/components/base/base.vars.css"
+      ]
+    },
+    "#086ee0": {
+      "count": 1,
+      "sources": [
+        "https://cdn1.vitalchoice.com/wcsstore/VitalChoice/css/production/components/base/base.vars.css"
+      ]
+    },
+    "#df3030": {
+      "count": 1,
+      "sources": [
+        "https://cdn1.vitalchoice.com/wcsstore/VitalChoice/css/production/components/base/base.vars.css"
+      ]
+    },
+    "#058942": {
+      "count": 1,
+      "sources": [
+        "https://cdn1.vitalchoice.com/wcsstore/VitalChoice/css/production/components/base/base.vars.css"
+      ]
+    },
+    "#b62f00": {
+      "count": 1,
+      "sources": [
+        "https://cdn1.vitalchoice.com/wcsstore/VitalChoice/css/production/components/base/base.vars.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Area Variable": [
+      "https://www.vitalchoice.com/"
+    ],
+    "Area Variable\"CenterFocusStrong": [
+      "https://www.vitalchoice.com/"
+    ],
+    "Arial": [
+      "https://www.vitalchoice.com/"
+    ],
+    "Canela": [
+      "https://www.vitalchoice.com/"
+    ],
+    "Crimson": [
+      "https://www.vitalchoice.com/"
+    ],
+    "Crimson Text": [
+      "https://www.vitalchoice.com/"
+    ],
+    "Garamond": [
+      "https://www.vitalchoice.com/"
+    ],
+    "Georgia": [
+      "https://www.vitalchoice.com/"
+    ],
+    "Helvetica": [
+      "https://www.vitalchoice.com/"
+    ],
+    "Lato": [
+      "https://www.vitalchoice.com/",
+      "https://www.vitalchoice.com/static/css/powerreviews-overrides-style.css"
+    ],
+    "LatoBold": [
+      "https://www.vitalchoice.com/"
+    ],
+    "LatoMedium": [
+      "https://www.vitalchoice.com/"
+    ],
+    "LatoRegular": [
+      "https://www.vitalchoice.com/"
+    ],
+    "Loretta VF": [
+      "https://www.vitalchoice.com/"
+    ],
+    "Noto": [
+      "https://www.vitalchoice.com/"
+    ],
+    "Open Sans": [
+      "https://fonts.googleapis.com/css2?family=Open+Sans:ital,wdth,wght@0,75,300..800;1,75,300..800&family=Yantramanav:wght@400;700&display=swap"
+    ],
+    "Open Sans Condensed": [
+      "https://www.vitalchoice.com/"
+    ],
+    "OpenSans": [
+      "https://www.vitalchoice.com/"
+    ],
+    "OpenSans (deprecated - use Yantra)": [
+      "https://www.vitalchoice.com/"
+    ],
+    "OpenSans SemiBold": [
+      "https://www.vitalchoice.com/"
+    ],
+    "OpenSansBold": [
+      "https://www.vitalchoice.com/"
+    ],
+    "OpenSansItalic": [
+      "https://www.vitalchoice.com/"
+    ],
+    "Playfair Display": [
+      "https://www.vitalchoice.com/"
+    ],
+    "PlayfairDisplay": [
+      "https://www.vitalchoice.com/"
+    ],
+    "PlayfairDisplayRegular": [
+      "https://www.vitalchoice.com/"
+    ],
+    "Roboto": [
+      "https://www.vitalchoice.com/"
+    ],
+    "Roboto Slab": [
+      "https://www.vitalchoice.com/"
+    ],
+    "Times": [
+      "https://www.vitalchoice.com/"
+    ],
+    "Verdana": [
+      "https://www.vitalchoice.com/"
+    ],
+    "Yantra": [
+      "https://www.vitalchoice.com/"
+    ],
+    "YantraBold": [
+      "https://www.vitalchoice.com/"
+    ],
+    "YantraBold!important": [
+      "https://www.vitalchoice.com/"
+    ],
+    "YantraLight": [
+      "https://www.vitalchoice.com/"
+    ],
+    "Yantramanav": [
+      "https://fonts.googleapis.com/css2?family=Open+Sans:ital,wdth,wght@0,75,300..800;1,75,300..800&family=Yantramanav:wght@400;700&display=swap"
+    ],
+    "ivypresto-text": [
+      "https://www.vitalchoice.com/"
+    ],
+    "lato": [
+      "https://www.vitalchoice.com/static/css/powerreviews-overrides-style.css"
+    ],
+    "museo-sans": [
+      "https://www.vitalchoice.com/"
+    ],
+    "sans-serif": [
+      "https://www.vitalchoice.com/",
+      "https://www.vitalchoice.com/static/css/powerreviews-overrides-style.css"
+    ],
+    "sans-serif\nheight:100%\nbackground-color:#f4f2f7": [
+      "https://www.vitalchoice.com/"
+    ],
+    "sans-serif\nmin-height:calc(110vh - 236px)\nwidth:400px": [
+      "https://www.vitalchoice.com/"
+    ],
+    "sans-serif !important": [
+      "https://www.vitalchoice.com/"
+    ],
+    "serif": [
+      "https://www.vitalchoice.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.vitalchoice.com/",
+      "selector": "body",
+      "declarations": "margin:0;padding:0;font-family:sans-serif"
+    },
+    {
+      "source": "https://www.vitalchoice.com/",
+      "selector": ".MuiButtonBase-root",
+      "declarations": "color: inherit;\n  border: 0;\n  cursor: pointer;\n  margin: 0;\n  display: inline-flex;\n  outline: 0;\n  padding: 0;\n  position: relative;\n  align-items: center;\n  user-select: none;\n  border-radius: 0;\n  vertical-align: middle;\n  -moz-appearance: none;\n  justify-content: center;\n  text-decoration: none;\n  background-color: transparent;\n  -webkit-appearance: none;\n  -webkit-tap-highlight-color: transparent;"
+    },
+    {
+      "source": "https://www.vitalchoice.com/",
+      "selector": ".MuiTypography-body2",
+      "declarations": "font-size: 1rem;\n    font-family: Helvetica,sans-serif;\n    font-weight: 400;\n    line-height: 1.43;"
+    },
+    {
+      "source": "https://www.vitalchoice.com/",
+      "selector": ".MuiTypography-body1",
+      "declarations": "font-size: 1.1428571428571428rem;\n    font-family: Helvetica,sans-serif;\n    font-weight: 400;\n    line-height: 1.5;"
+    },
+    {
+      "source": "https://www.vitalchoice.com/",
+      "selector": ".MuiTypography-button",
+      "declarations": "font-size: 1rem;\n    font-family: Helvetica,sans-serif;\n    font-weight: 500;\n    line-height: 1.75;\n    text-transform: uppercase;"
+    },
+    {
+      "source": "https://www.vitalchoice.com/",
+      "selector": ".MuiTypography-h1",
+      "declarations": "font-size: 6.857142857142857rem;\n    font-family: Helvetica,sans-serif;\n    font-weight: 300;\n    line-height: 1.167;"
+    },
+    {
+      "source": "https://www.vitalchoice.com/",
+      "selector": ".MuiButton-root",
+      "declarations": "color: #000000;\n    padding: 6px 16px;\n    font-size: 1rem;\n    min-width: 64px;\n    box-sizing: border-box;\n    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;\n    font-family: Helvetica,sans-serif;\n    font-weight: 500;\n    line-height: 1.75;\n    border-radius: 4px;\n    text-transform: uppercase;"
+    },
+    {
+      "source": "https://www.vitalchoice.com/",
+      "selector": ".MuiButton-root:hover",
+      "declarations": "text-decoration: none;\n    background-color: rgba(0, 0, 0, 0.04);"
+    },
+    {
+      "source": "https://www.vitalchoice.com/",
+      "selector": ".MuiButton-root.Mui-disabled",
+      "declarations": "color: rgba(0, 0, 0, 0.26);"
+    },
+    {
+      "source": "https://www.vitalchoice.com/",
+      "selector": ".MuiButton-root:hover",
+      "declarations": "background-color: transparent;"
+    },
+    {
+      "source": "https://www.vitalchoice.com/",
+      "selector": ".MuiButton-root:hover.Mui-disabled",
+      "declarations": "background-color: transparent;"
+    },
+    {
+      "source": "https://www.vitalchoice.com/",
+      "selector": ".MuiButton-textPrimary",
+      "declarations": "color: #2f2f2f;"
+    },
+    {
+      "source": "https://www.vitalchoice.com/",
+      "selector": ".MuiButton-textPrimary:hover",
+      "declarations": "background-color: rgba(47, 47, 47, 0.04);"
+    },
+    {
+      "source": "https://www.vitalchoice.com/",
+      "selector": ".MuiButton-textPrimary:hover",
+      "declarations": "background-color: transparent;"
+    },
+    {
+      "source": "https://www.vitalchoice.com/",
+      "selector": ".MuiButton-textSecondary",
+      "declarations": "color: #cf3d02;"
+    },
+    {
+      "source": "https://www.vitalchoice.com/",
+      "selector": ".MuiButton-textSecondary:hover",
+      "declarations": "text-decoration: underline;\n    background-color: transparent;"
+    },
+    {
+      "source": "https://www.vitalchoice.com/",
+      "selector": ".MuiButton-textSecondary:hover",
+      "declarations": "background-color: transparent;"
+    },
+    {
+      "source": "https://www.vitalchoice.com/",
+      "selector": ".MuiButton-outlinedPrimary",
+      "declarations": "color: #2f2f2f;\n    border: 1px solid rgba(47, 47, 47, 0.5);"
+    },
+    {
+      "source": "https://www.vitalchoice.com/",
+      "selector": ".MuiButton-outlinedPrimary:hover",
+      "declarations": "border: 1px solid #2f2f2f;\n    background-color: rgba(47, 47, 47, 0.04);"
+    },
+    {
+      "source": "https://www.vitalchoice.com/",
+      "selector": ".MuiButton-outlinedPrimary:hover",
+      "declarations": "background-color: transparent;"
+    },
+    {
+      "source": "https://www.vitalchoice.com/",
+      "selector": ".MuiButton-outlinedSecondary",
+      "declarations": "color: #cf3d02;\n    border: 1px solid rgba(207, 61, 2, 0.5);"
+    },
+    {
+      "source": "https://www.vitalchoice.com/",
+      "selector": ".MuiButton-outlinedSecondary:hover",
+      "declarations": "border: 1px solid #cf3d02;\n    background-color: rgba(207, 61, 2, 0.04);"
+    },
+    {
+      "source": "https://www.vitalchoice.com/",
+      "selector": ".MuiButton-outlinedSecondary:hover",
+      "declarations": "background-color: transparent;"
+    },
+    {
+      "source": "https://www.vitalchoice.com/",
+      "selector": ".MuiButton-contained",
+      "declarations": "color: rgba(0, 0, 0, 0.87);\n    box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);\n    background-color: #e0e0e0;"
+    },
+    {
+      "source": "https://www.vitalchoice.com/",
+      "selector": ".MuiButton-contained:hover",
+      "declarations": "box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);\n    background-color: #d5d5d5;"
+    },
+    {
+      "source": "https://www.vitalchoice.com/",
+      "selector": ".MuiButton-contained.Mui-disabled",
+      "declarations": "color: rgba(0, 0, 0, 0.26);\n    box-shadow: none;\n    background-color: rgba(0, 0, 0, 0.12);"
+    },
+    {
+      "source": "https://www.vitalchoice.com/",
+      "selector": ".MuiButton-contained:hover",
+      "declarations": "box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);\n    background-color: #e0e0e0;"
+    },
+    {
+      "source": "https://www.vitalchoice.com/",
+      "selector": ".MuiButton-contained:hover.Mui-disabled",
+      "declarations": "background-color: rgba(0, 0, 0, 0.12);"
+    },
+    {
+      "source": "https://www.vitalchoice.com/",
+      "selector": ".MuiButton-containedPrimary",
+      "declarations": "color: #ffffff;\n    background-color: #2f2f2f;"
+    },
+    {
+      "source": "https://www.vitalchoice.com/",
+      "selector": ".MuiButton-containedPrimary:hover",
+      "declarations": "background-color: #ad3100;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Wild-Caught Seafood, Fish, & Salmon Delivery | Vital Choice",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vitalchoice.com/",
+        "https://cdn1.vitalchoice.com/wcsstore/VitalChoice/css/production/components/base/base.vars.css"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vitalchoice.com/static/css/powerreviews-overrides-style.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vitalchoice.com/",
+        "https://www.vitalchoice.com/static/css/powerreviews-overrides-style.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vitalchoice.com/",
+        "https://cdn1.vitalchoice.com/wcsstore/VitalChoice/css/production/components/base/base.vars.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vitalchoice.com/",
+        "https://www.vitalchoice.com/static/css/powerreviews-overrides-style.css",
+        "https://cdn1.vitalchoice.com/wcsstore/VitalChoice/css/production/components/base/base.vars.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vitalchoice.com/",
+        "https://www.vitalchoice.com/static/css/powerreviews-overrides-style.css",
+        "https://cdn1.vitalchoice.com/wcsstore/VitalChoice/css/production/components/base/base.vars.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vitalchoice.com/",
+        "https://www.vitalchoice.com/static/css/powerreviews-overrides-style.css",
+        "https://cdn1.vitalchoice.com/wcsstore/VitalChoice/css/production/components/base/base.vars.css"
+      ]
+    },
+    "colors.teal-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "colors.teal-mid": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn1.vitalchoice.com/wcsstore/VitalChoice/css/production/components/base/base.vars.css"
+      ]
+    },
+    "colors.green-organic": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "colors.badge-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vitalchoice.com/"
+      ]
+    },
+    "colors.link-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn1.vitalchoice.com/wcsstore/VitalChoice/css/production/components/base/base.vars.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.certification-badge": {
+      "status": "inferred"
+    }
+  }
+}

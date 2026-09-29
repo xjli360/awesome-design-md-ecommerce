@@ -1,0 +1,589 @@
+{
+  "source_url": "https://minirodini.com",
+  "final_url": "https://www.minirodini.com/us",
+  "captured_at": "2026-09-28T04:23:19.724210+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://minirodini.com",
+      "final_url": "https://www.minirodini.com/us",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "8dbe82fe7efacf5f2df746952f12734d07179d057f4038ef40eccf47d1e84ff1",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css",
+      "final_url": "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "dab44e5b49af957a991ad173f0926205e5698f55ca0a92e9cf64a86b043a6cf7",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/index-XGQG6DNA.css",
+      "final_url": "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/index-XGQG6DNA.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2cfd6b12875fa13ab05c2096f1fb1b80e2e7ddb78d8af1a0243328e5cc2f025c",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 15,
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 6,
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "#000000": {
+      "count": 6,
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "#6b7280": {
+      "count": 5,
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "#222222": {
+      "count": 4,
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/index-XGQG6DNA.css"
+      ]
+    },
+    "#000000e6": {
+      "count": 2,
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "#666666": {
+      "count": 2,
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/index-XGQG6DNA.css"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 1,
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 1,
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "#007a41": {
+      "count": 1,
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "#253b84": {
+      "count": 1,
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "#368dcc": {
+      "count": 1,
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "#5da64c": {
+      "count": 1,
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "#af5238": {
+      "count": 1,
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "#dab4d8": {
+      "count": 1,
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "#de3d16": {
+      "count": 1,
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "#f5572e": {
+      "count": 1,
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 1,
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "#f7a840": {
+      "count": 1,
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "#fc728e": {
+      "count": 1,
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "#00000066": {
+      "count": 1,
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "#0000000d": {
+      "count": 1,
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "#00000080": {
+      "count": 1,
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "#00000099": {
+      "count": 1,
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "#ffffffb3": {
+      "count": 1,
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "#161316": {
+      "count": 1,
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "#000000cc": {
+      "count": 1,
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "#b0b0b0": {
+      "count": 1,
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "#0000004d": {
+      "count": 1,
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "#777777": {
+      "count": 1,
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/index-XGQG6DNA.css"
+      ]
+    },
+    "#999999": {
+      "count": 1,
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/index-XGQG6DNA.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Apple Color Emoji": [
+      "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+    ],
+    "Circular": [
+      "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+    ],
+    "Consolas": [
+      "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+    ],
+    "Courier New": [
+      "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+    ],
+    "Liberation Mono": [
+      "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+    ],
+    "Menlo": [
+      "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+    ],
+    "Monaco": [
+      "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+    ],
+    "Noto Color Emoji": [
+      "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+    ],
+    "SFMono-Regular": [
+      "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+    ],
+    "Segoe UI Emoji": [
+      "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+    ],
+    "Segoe UI Symbol": [
+      "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+    ],
+    "monospace": [
+      "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+    ],
+    "sans-serif": [
+      "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+    ],
+    "system-ui": [
+      "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+    ],
+    "ui-monospace": [
+      "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+    ],
+    "ui-sans-serif": [
+      "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-feature-settings:inherit;font-variation-settings:inherit;font-size:100%;font-weight:inherit;line-height:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css",
+      "selector": "button,[type=button],[type=reset],[type=submit]",
+      "declarations": "-webkit-appearance:button;background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css",
+      "selector": ".focus-visible\\:\\[\\&\\>button\\]\\:outline-white>button:focus-visible",
+      "declarations": "outline-color:#fff"
+    },
+    {
+      "source": "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css",
+      "selector": ".\\[\\&\\>div\\>button\\]\\:\\!border-grayDarker>div>button",
+      "declarations": "--tw-border-opacity: 1 !important;border-color:rgb(128 124 124 / var(--tw-border-opacity))!important"
+    },
+    {
+      "source": "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/index-XGQG6DNA.css",
+      "selector": ".react-international-phone-country-selector-button",
+      "declarations": "display:flex;height:var(--react-international-phone-height, 36px);box-sizing:border-box;align-items:center;justify-content:center;padding:0;border:1px solid var(--react-international-phone-country-selector-border-color, var(--react-international-phone-border-color, gainsboro));margin:0;appearance:button;-webkit-appearance:button;background-color:var(--react-international-phone-country-selector-background-color, var(--react-international-phone-background-color, white));cursor:pointer;text-transform:none;user-select:none"
+    },
+    {
+      "source": "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/index-XGQG6DNA.css",
+      "selector": ".react-international-phone-country-selector-button:hover",
+      "declarations": "background-color:var(--react-international-phone-country-selector-background-color-hover, whitesmoke)"
+    },
+    {
+      "source": "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/index-XGQG6DNA.css",
+      "selector": ".react-international-phone-country-selector-button--hide-dropdown:hover",
+      "declarations": "background-color:transparent"
+    },
+    {
+      "source": "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/index-XGQG6DNA.css",
+      "selector": ".react-international-phone-country-selector-button__dropdown-arrow--disabled",
+      "declarations": "border-top-color:var(--react-international-phone-disabled-country-selector-arrow-color, #999)"
+    },
+    {
+      "source": "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/index-XGQG6DNA.css",
+      "selector": ".react-international-phone-country-selector-button--disabled",
+      "declarations": "background-color:var(--react-international-phone-disabled-country-selector-background-color, var(--react-international-phone-disabled-background-color, whitesmoke));cursor:auto"
+    },
+    {
+      "source": "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/index-XGQG6DNA.css",
+      "selector": ".react-international-phone-country-selector-button--disabled:hover",
+      "declarations": "background-color:var(--react-international-phone-disabled-country-selector-background-color, var(--react-international-phone-disabled-background-color, whitesmoke))"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Organic kids & baby clothes | Mini Rodini",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/index-XGQG6DNA.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "colors.scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "colors.accent-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "colors.accent-navy": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "colors.accent-sage": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "colors.accent-brown": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "colors.accent-lilac": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "colors.accent-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "colors.accent-orange": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "colors.accent-amber": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "colors.accent-pink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.minirodini.com/b1c0a7d729dcfa95d5f3ed3e93b67c113283f3ca/build/_assets/tailwind-JIQPKJ75.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.mono-input": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.color-swatch": {
+      "status": "inferred"
+    }
+  }
+}

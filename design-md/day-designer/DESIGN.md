@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Day Designer
-description: Brass-gold embossing on a physical planner cover is the origin story for this brand's entire digital palette — #aa8b5f, a warm antique gold that reads as neither jewelry nor earth tone, carries every primary CTA, active state, and brand accent on a canvas of warm off-white (#f8f7f5). The pairing of Surveyor Display (a high-contrast editorial serif with ball terminals and ink-trap details) against Gotham's clean geometric sans creates a productive tension: the serif announces the brand's devotion to intentional living; the sans handles every date, price, and UI label with clock-precision legibility. A secondary mint wash (#bce8de) appears in feature callouts and seasonal campaign headers — not a product color so much as a breath of space that keeps the warm neutrals from reading as heavy. Deep navy (#272d45) provides a formal alternative to pure black in editorial headlines, while the standard ink (#212121) anchors body text across the shop. The rounded value of 10px (surfaced directly in the extracted stylesheet) establishes a soft but not bubbly feel for cards and inputs — the same geometry as a spiral-bound corner, just enough curve to signal warmth without infantilizing the format. Red (#c00000) is reserved strictly for sale badges and price-cut labels, never for UI chrome, which keeps the promotional signal from diluting the gold primary. A cool gray (#c4cdd5), surfaced as the meta theme-color, bleeds into the mobile browser chrome and subtly tells iPhone users: this is a structured, organized world before the page even loads. The overall register is a planner-lover's version of quiet editorial — confident structure, unhurried whitespace, and a color system that could transfer directly onto printed paper stock without looking out of place.
+name: "Day Designer"
+source_url: "https://daydesigner.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Brass-gold embossing on a physical planner cover is the origin story for this brand's entire digital palette — #aa8b5f, a warm antique gold that reads as neither jewelry nor earth tone, carries every primary CTA, active state, and brand accent on a canvas of warm off-white (#f8f7f5). The pairing of Surveyor Display (a high-contrast editorial serif with ball terminals and ink-trap details) against Gotham's clean geometric sans creates a productive tension: the serif announces the brand's devotion to intentional living; the sans handles every date, price, and UI label with clock-precision legibility. A secondary mint wash (#bce8de) appears in feature callouts and seasonal campaign headers — not a product color so much as a breath of space that keeps the warm neutrals from reading as heavy. Deep navy (#272d45) provides a formal alternative to pure black in editorial headlines, while the standard ink (#212121) anchors body text across the shop. The rounded value of 10px (surfaced directly in the extracted stylesheet) establishes a soft but not bubbly feel for cards and inputs — the same geometry as a spiral-bound corner, just enough curve to signal warmth without infantilizing the format. Red (#c00000) is reserved strictly for sale badges and price-cut labels, never for UI chrome, which keeps the promotional signal from diluting the gold primary. A cool gray (#c4cdd5), surfaced as the meta theme-color, bleeds into the mobile browser chrome and subtly tells iPhone users: this is a structured, organized world before the page even loads. The overall register is a planner-lover's version of quiet editorial — confident structure, unhurried whitespace, and a color system that could transfer directly onto printed paper stock without looking out of place.
 
 colors:
   primary: "#aa8b5f"
@@ -397,6 +401,8 @@ components:
 - Announcement bar: long text switches to marquee scroll below 480px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No font-weight numeric values confirmed for Surveyor Display; weights inferred as 300/400 based on editorial serif conventions for this brand tier
 - Gotham Medium was present as an `!important` override in the font stack — suggests aggressive weight-locking in a few components, but specific selectors are unknown

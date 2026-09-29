@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: ROA
-description: A muted earth-and-stone palette anchored on #d2cfc4 — a warm, dusty limestone — that sets the entire brand atmosphere before a single product loads. ROA builds its visual system on a narrow tonal range of greiges, taupes, and deep umbers (#4d413b, #b0a59f, #0a0a0a) with two deliberate accent intrusions: a mineral sage (#a0a776) and a bruised violet (#7c6783) that read as geological rather than decorative. The typography splits between two proprietary faces — ROA-Extended for display moments and ROA-Regular for body — plus Riccione-Xlight for ultra-light weight applications, all set against a canvas (#eee9e7) that is itself a tint of the primary. Corners are almost universally sharp ({rounded.none} or {rounded.xs} at 4px); the brand avoids the pill-shaped friendliness of outdoor competitors, preferring a squared, technical silhouette that echoes mountaineering hardware. Product imagery uses object-fit: cover at full-bleed, often with a single garment isolated against the limestone ground, and the navigation bar sits at a compact 64px with a centered logo lockup and minimal text links. The overall effect is monastic and precise — a hiking brand that communicates through material weight and color temperature rather than hero shots of summits.
+name: "ROA"
+source_url: "https://www.roa-hiking.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A muted earth-and-stone palette anchored on #d2cfc4 — a warm, dusty limestone — that sets the entire brand atmosphere before a single product loads. ROA builds its visual system on a narrow tonal range of greiges, taupes, and deep umbers (#4d413b, #b0a59f, #0a0a0a) with two deliberate accent intrusions: a mineral sage (#a0a776) and a bruised violet (#7c6783) that read as geological rather than decorative. The typography splits between two proprietary faces — ROA-Extended for display moments and ROA-Regular for body — plus Riccione-Xlight for ultra-light weight applications, all set against a canvas (#eee9e7) that is itself a tint of the primary. Corners are almost universally sharp ({rounded.none} or {rounded.xs} at 4px); the brand avoids the pill-shaped friendliness of outdoor competitors, preferring a squared, technical silhouette that echoes mountaineering hardware. Product imagery uses object-fit: cover at full-bleed, often with a single garment isolated against the limestone ground, and the navigation bar sits at a compact 64px with a centered logo lockup and minimal text links. The overall effect is monastic and precise — a hiking brand that communicates through material weight and color temperature rather than hero shots of summits.
 
 colors:
   primary: "#d2cfc4"
@@ -429,6 +433,8 @@ components:
 - Search bar expands to full width on mobile (hidden behind icon on desktop)
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for tertiary buttons and text links could not be reliably extracted — assumed opacity or underline but not confirmed
 - Error message styling (background color, border radius, iconography) not present in extracted data

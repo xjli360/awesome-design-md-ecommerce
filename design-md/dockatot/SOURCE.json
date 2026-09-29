@@ -1,0 +1,1020 @@
+{
+  "source_url": "https://eu.dockatot.com/",
+  "final_url": "https://eu.dockatot.com/",
+  "captured_at": "2026-09-29T03:59:17.635624+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://eu.dockatot.com/",
+      "final_url": "https://eu.dockatot.com/",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "1beb6376f445c3f0e8a48b69371b2147fd8568a3ec0cd74ba82361841e651383",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://eu.dockatot.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://eu.dockatot.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "rendered-style-1.css"
+    },
+    {
+      "url": "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620",
+      "final_url": "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a7067f3fdf8ed1f6ee16f187927044124476f8db34b9e5d53cb4c2540092b711",
+      "snapshot": "rendered-style-2.css"
+    },
+    {
+      "url": "https://eu.dockatot.com/cdn/shop/t/7/assets/font-settings.css?v=176649671382004873551762445543",
+      "final_url": "https://eu.dockatot.com/cdn/shop/t/7/assets/font-settings.css?v=176649671382004873551762445543",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ba9226bd0e33a483a470fa0f6ffff99139f02fd110de48810d2da81e3952b70b",
+      "snapshot": "rendered-style-3.css"
+    },
+    {
+      "url": "https://eu.dockatot.com/#computed-style-snapshot",
+      "final_url": "https://eu.dockatot.com/#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "cda7a258d82af5bc345a6db8e36a03a56b830169deb2867d156c9c7a74d36702",
+      "snapshot": "rendered-style-4.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 186,
+      "sources": [
+        "https://eu.dockatot.com/",
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620",
+        "https://eu.dockatot.com/#computed-style-snapshot"
+      ]
+    },
+    "#ffffff": {
+      "count": 141,
+      "sources": [
+        "https://eu.dockatot.com/",
+        "https://eu.dockatot.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620",
+        "https://eu.dockatot.com/#computed-style-snapshot"
+      ]
+    },
+    "#00000000": {
+      "count": 31,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#393738": {
+      "count": 25,
+      "sources": [
+        "https://eu.dockatot.com/",
+        "https://eu.dockatot.com/#computed-style-snapshot"
+      ]
+    },
+    "#3a3a3a": {
+      "count": 14,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#ffffff40": {
+      "count": 12,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#d02e2e": {
+      "count": 11,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#ffffff00": {
+      "count": 9,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#fffaf6": {
+      "count": 8,
+      "sources": [
+        "https://eu.dockatot.com/",
+        "https://eu.dockatot.com/#computed-style-snapshot"
+      ]
+    },
+    "#4d4d4d": {
+      "count": 7,
+      "sources": [
+        "https://eu.dockatot.com/",
+        "https://eu.dockatot.com/#computed-style-snapshot"
+      ]
+    },
+    "#3a3a3a40": {
+      "count": 6,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#56ad6a": {
+      "count": 6,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#0000000f": {
+      "count": 5,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#00000005": {
+      "count": 5,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#113049": {
+      "count": 4,
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "#968d79": {
+      "count": 4,
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "#0000001a": {
+      "count": 4,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 3,
+      "sources": [
+        "https://eu.dockatot.com/",
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#ffffff99": {
+      "count": 3,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#fff6f6": {
+      "count": 3,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#cccccc": {
+      "count": 3,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#7c6b47": {
+      "count": 2,
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#333333": {
+      "count": 2,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#000000cc": {
+      "count": 2,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#c1c9d1": {
+      "count": 2,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#c1c9d1a8": {
+      "count": 2,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#9ca3af": {
+      "count": 2,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#999999": {
+      "count": 2,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#eeeeee": {
+      "count": 2,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#000000a6": {
+      "count": 2,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#00000033": {
+      "count": 2,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "#545454": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "#352727": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "#150f12": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "#669b94": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "#d1e1df": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "#0d0d0d": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "#86c8bc": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "#3fc3aa": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "#f7f6f5": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "#cecac0": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "#b3ad9e": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "#b5aa9b": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "#141012": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "#747374": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "#e9e9eb": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "#dd7975": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "#656565": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "#453939": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "#8b8b8b": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "#a6a6a6": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "#75a59f": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "#9cbeb9": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#ffffffbf": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#4a5764": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#3a3a3a8c": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#00000026": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#3a3a3a99": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#ffffff1a": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#00000099": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#ecfef0": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#b4b6b9": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#cfcfcf": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#777777": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#333333e6": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#555555": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#58686f": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#ffffff80": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "#0000004d": {
+      "count": 1,
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    }
+  },
+  "font_families": {
+    "Apple Color Emoji": [
+      "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+    ],
+    "Arial": [
+      "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+    ],
+    "Arial Unicode MS": [
+      "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+    ],
+    "Avenir": [
+      "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+    ],
+    "Avenir Next": [
+      "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+    ],
+    "Consolas": [
+      "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+    ],
+    "Courier New": [
+      "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+    ],
+    "Helvetica": [
+      "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+    ],
+    "Helvetica Neue": [
+      "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+    ],
+    "Liberation Mono": [
+      "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+    ],
+    "Lucida Sans Unicode": [
+      "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+    ],
+    "Menlo": [
+      "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+    ],
+    "Monaco": [
+      "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+    ],
+    "Montserrat": [
+      "https://eu.dockatot.com/cdn/shop/t/7/assets/font-settings.css?v=176649671382004873551762445543",
+      "https://eu.dockatot.com/#computed-style-snapshot"
+    ],
+    "Noto Color Emoji": [
+      "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+    ],
+    "Open Sans": [
+      "https://eu.dockatot.com/cdn/shop/t/7/assets/font-settings.css?v=176649671382004873551762445543",
+      "https://eu.dockatot.com/#computed-style-snapshot"
+    ],
+    "SFMono-Regular": [
+      "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+    ],
+    "Segoe UI": [
+      "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+    ],
+    "Segoe UI Emoji": [
+      "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+    ],
+    "Segoe UI Symbol": [
+      "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+    ],
+    "Shippori Mincho": [
+      "https://eu.dockatot.com/cdn/shop/t/7/assets/font-settings.css?v=176649671382004873551762445543",
+      "https://eu.dockatot.com/#computed-style-snapshot"
+    ],
+    "monospace": [
+      "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+    ],
+    "sans-serif": [
+      "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620",
+      "https://eu.dockatot.com/#computed-style-snapshot"
+    ],
+    "serif": [
+      "https://eu.dockatot.com/#computed-style-snapshot"
+    ],
+    "system-ui": [
+      "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+    ],
+    "ui-monospace": [
+      "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+    ],
+    "ui-sans-serif": [
+      "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://eu.dockatot.com/",
+      "selector": ":root",
+      "declarations": "--font-1: 10px;\n  --font-2: 11px;\n  --font-3: 13px;\n  --font-4: 15px;\n  --font-5: 17px;\n  --font-6: 20px;\n  --font-7: 24px;\n  --font-8: 27px;\n  --font-9: 32px;\n  --font-10:37px;\n  --font-11:43px;\n  --font-12:49px;\n  --font-13:57px;\n  --font-14:67px;\n  --font-15:77px;"
+    },
+    {
+      "source": "https://eu.dockatot.com/",
+      "selector": ":root",
+      "declarations": "--font-1: 10px;\n  --font-2: 11.5px;\n  --font-3: 13.5px;\n  --font-4: 16px;\n  --font-5: 19px;\n  --font-6: 22px;\n  --font-7: 26px;\n  --font-8: 30px;\n  --font-9: 36px;\n  --font-10:42px;\n  --font-11:49px;\n  --font-12:58px;\n  --font-13:68px;\n  --font-14:80px;\n  --font-15:94px;"
+    },
+    {
+      "source": "https://eu.dockatot.com/",
+      "selector": ":root",
+      "declarations": "--font-1: 10px;\n  --font-2: 11.5px;\n  --font-3: 14px;\n  --font-4: 17px;\n  --font-5: 21px;\n  --font-6: 25px;\n  --font-7: 31px;\n  --font-8: 38px;\n  --font-9: 46px;\n  --font-10:56px;\n  --font-11:68px;\n  --font-12:83px;\n  --font-13:102px;\n  --font-14:124px;\n  --font-15:151px;"
+    },
+    {
+      "source": "https://eu.dockatot.com/",
+      "selector": "--PT: 4px;\n      --PB: 4px;\n      --bg: var(--COLOR-ANNOUNCEMENT-BG);\n      --text: var(--COLOR-ANNOUNCEMENT-TEXT);\n      --underline: calc(var(--font-3) * var(",
+      "declarations": "--COLOR-NAV-TEXT-TRANSPARENT: #ffffff;\n    --COLOR-HEADER-TRANSPARENT-GRADIENT: rgba(0, 0, 0, 0.2);\n    --LOGO-PADDING: 15px;\n    --menu-backfill-height: auto;"
+    },
+    {
+      "source": "https://eu.dockatot.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://eu.dockatot.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://eu.dockatot.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://eu.dockatot.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://eu.dockatot.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://eu.dockatot.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620",
+      "selector": ".flickity-button",
+      "declarations": "position:absolute;background:#ffffffbf;border:none;color:var(--text)"
+    },
+    {
+      "source": "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620",
+      "selector": "[data-carousel] .flickity-button",
+      "declarations": "position:absolute;top:var(--buttons-top);width:36px;height:36px;border-radius:50%;border:none;background:var(--hairline);color:var(--text);transform:translateY(-50%);transition:all .3s"
+    },
+    {
+      "source": "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button",
+      "declarations": "color:var(--COLOR-TEXT-DARK);border-radius:0;border:none;margin:0;cursor:pointer"
+    },
+    {
+      "source": "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button--control:hover",
+      "declarations": "color:var(--COLOR-A50)"
+    },
+    {
+      "source": "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button--control:active,.shopify-model-viewer-ui .shopify-model-viewer-ui__button--control.focus-enabled:focus",
+      "declarations": "color:var(--COLOR-A50);background:var(--COLOR-A5)"
+    },
+    {
+      "source": "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button--poster:hover,.shopify-model-viewer-ui .shopify-model-viewer-ui__button--poster:focus",
+      "declarations": "color:var(--COLOR-A50)"
+    },
+    {
+      "source": "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620",
+      "selector": ".pswp__button,.pswp__button svg.icon,.pswp__button--arrow--left:before,.pswp__button--arrow--right:before",
+      "declarations": "width:var(--space-9);height:var(--space-9);-webkit-tap-highlight-color:rgba(0,0,0,0);-webkit-tap-highlight-color:transparent;-webkit-user-select:none;-moz-user-select:none;user-select:none"
+    },
+    {
+      "source": "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-feature-settings:inherit;font-variation-settings:inherit;font-size:100%;font-weight:inherit;line-height:inherit;letter-spacing:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620",
+      "selector": "button,input:where([type=button]),input:where([type=reset]),input:where([type=submit])",
+      "declarations": "-webkit-appearance:button;background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620",
+      "selector": ":root",
+      "declarations": "--space-1: 2px;--space-2: 4px;--space-3: 6px;--space-4: 8px;--space-5: 12px;--space-6: 14px;--space-7: 16px;--space-8: 20px;--space-9: 25px;--space-10: 32px;--space-11: 40px;--space-12: 50px;--space-13: 60px;--space-14: 80px;--space-15: 120px"
+    },
+    {
+      "source": "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620",
+      "selector": ":root",
+      "declarations": "--space-1: 2px;--space-2: 4px;--space-3: 6px;--space-4: 8px;--space-5: 12px;--space-6: 15px;--space-7: 18px;--space-8: 22px;--space-9: 27px;--space-10: 35px;--space-11: 45px;--space-12: 56px;--space-13: 75px;--space-14: 105px;--space-15: 150px"
+    },
+    {
+      "source": "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620",
+      "selector": ":root",
+      "declarations": "--space-1: 2px;--space-2: 4px;--space-3: 6px;--space-4: 8px;--space-5: 12px;--space-6: 16px;--space-7: 20px;--space-8: 24px;--space-9: 32px;--space-10: 38px;--space-11: 50px;--space-12: 68px;--space-13: 96px;--space-14: 128px;--space-15: 192px"
+    },
+    {
+      "source": "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620",
+      "selector": ":root",
+      "declarations": "--leading-none: 1;--leading-hairline: 1.25;--leading-tight: 1.25;--leading-snug: 1.375;--leading-normal: 1.5;--leading-relaxed: 1.625;--leading-loose: 2;--highlight-initial-position-x: 50%;--highlight-position-y: 50%;--highlight-height: 100%"
+    },
+    {
+      "source": "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620",
+      "selector": ".type-body",
+      "declarations": "--font-adjust: var(--FONT-ADJUST-BODY);--font-family: var(--FONT-STACK-BODY);--font-style: var(--FONT-STYLE-BODY);--font-weight: var(--FONT-WEIGHT-BODY);--font-weight-bold: var(--FONT-WEIGHT-BODY-BOLD);--font-transform: var(--FONT-BODY-TRANSFORM);--font-letter-spacing: var(--FONT-BODY-LETTER-SPACING);font-family:var(--font-family);font-style:var(--font-style);font-weight:var(--font-weight, var(--font-weight-normal));text-transform:var(--font-transform);letter-spacing:var(--font-letter-spacing)"
+    },
+    {
+      "source": "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620",
+      "selector": ".bg-button",
+      "declarations": "--tw-bg-opacity: 1;background-color:rgb(var(--rgb-button-main) / var(--tw-bg-opacity))"
+    },
+    {
+      "source": "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620",
+      "selector": ".text-button",
+      "declarations": "--tw-text-opacity: 1;color:rgb(var(--rgb-button-main) / var(--tw-text-opacity))"
+    },
+    {
+      "source": "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620",
+      "selector": ".text-button-contrast",
+      "declarations": "--tw-text-opacity: 1;color:rgb(var(--rgb-button-contrast) / var(--tw-text-opacity))"
+    },
+    {
+      "source": "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620",
+      "selector": ":root",
+      "declarations": "--leading-none: 1;--leading-hairline: 1.25;--leading-tight: 1.25;--leading-snug: 1.375;--leading-normal: 1.5;--leading-relaxed: 1.625;--leading-loose: 2"
+    },
+    {
+      "source": "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620",
+      "selector": ".body-size-1,.body-size-2,.body-size-3,.body-size-4,.body-size-5,.body-size-6,.body-size-7,.body-size-8,.body-size-9,.body-size-10,.body-size-11,.body-size-12,.",
+      "declarations": "font-family:var(--FONT-STACK-BODY);font-style:var(--FONT-STYLE-BODY);font-weight:var(--FONT-WEIGHT-BODY);letter-spacing:var(--FONT-BODY-LETTER-SPACING);text-transform:var(--FONT-BODY-TRANSFORM)"
+    },
+    {
+      "source": "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620",
+      "selector": "body",
+      "declarations": "font-family:var(--FONT-STACK-BODY);font-style:var(--FONT-STYLE-BODY);font-weight:var(--FONT-WEIGHT-BODY);letter-spacing:var(--FONT-BODY-LETTER-SPACING);text-transform:var(--FONT-BODY-TRANSFORM);-webkit-text-size-adjust:100%;-moz-text-size-adjust:100%;text-size-adjust:100%;-webkit-font-smoothing:antialiased;color:var(--text)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "DockATot® - Award-winning products designed for babies 0-8 months old\n– DockATot EU",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "849114b02b8b5f5c4ff340336a94b2a64607328b440cee695d790dd361ec07fa"
+    }
+  ],
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eu.dockatot.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eu.dockatot.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eu.dockatot.com/",
+        "https://eu.dockatot.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eu.dockatot.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eu.dockatot.com/",
+        "https://eu.dockatot.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620",
+        "https://eu.dockatot.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eu.dockatot.com/",
+        "https://eu.dockatot.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620",
+        "https://eu.dockatot.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.accent-sand": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "colors.accent-clay": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "colors.accent-navy": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "colors.accent-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "colors.accent-error": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "colors.accent-success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eu.dockatot.com/cdn/shop/t/7/assets/theme.css?v=111940106638163354671760720620"
+      ]
+    },
+    "colors.accent-blush": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eu.dockatot.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.color-swatch-selector": {
+      "status": "inferred"
+    }
+  }
+}

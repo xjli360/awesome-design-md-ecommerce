@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Samsung
-description: Samsung's refrigerator pages strip the product to center-frame isolation — each unit photographed on a near-white gradient, lit to expose the door-panel seam and handle geometry before a single specification appears. The single extracted brand voltage, #0c4da2, is a deep-navy sapphire that anchors every primary CTA, site-header link, and filter-chip highlight without competing with the stainless and matte-black appliance finishes that define the premium lineup. SamsungSharpSans carries all display-scale headings — a proprietary grotesque with compressed horizontal rhythm that reads as architectural at 48px while remaining composed at 18px; SamsungSSBody handles running copy and specification tables, and SamsungOne covers navigation micro-labels and badge text. Corner radii are deliberate but minimal: product cards use a near-square {rounded.sm} that reads as technical precision, while CTA buttons sit at {rounded.xs} — barely softened, enough to distinguish the interface from a CAD diagram without signaling friendliness. The refrigerator lineup includes the Bespoke modular-panel system (24 color combinations) and the Family Hub touchscreen line, requiring a color-picker component with circular swatch grids and a feature-comparison module spanning 4–6 columns. Spacing is generous at section breaks — the page breathes between hero, features, and spec rows — but compact inside specification tables to pack 12–18 attributes without scroll fatigue. The canvas holds pure white; {colors.surface-soft} (#f5f5f5) surfaces alternating table rows and filter-panel backgrounds; product photography carries all the color saturation the page requires.
+name: "Samsung"
+source_url: "https://www.samsung.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Samsung's refrigerator pages strip the product to center-frame isolation — each unit photographed on a near-white gradient, lit to expose the door-panel seam and handle geometry before a single specification appears. The single extracted brand voltage, #0c4da2, is a deep-navy sapphire that anchors every primary CTA, site-header link, and filter-chip highlight without competing with the stainless and matte-black appliance finishes that define the premium lineup. SamsungSharpSans carries all display-scale headings — a proprietary grotesque with compressed horizontal rhythm that reads as architectural at 48px while remaining composed at 18px; SamsungSSBody handles running copy and specification tables, and SamsungOne covers navigation micro-labels and badge text. Corner radii are deliberate but minimal: product cards use a near-square {rounded.sm} that reads as technical precision, while CTA buttons sit at {rounded.xs} — barely softened, enough to distinguish the interface from a CAD diagram without signaling friendliness. The refrigerator lineup includes the Bespoke modular-panel system (24 color combinations) and the Family Hub touchscreen line, requiring a color-picker component with circular swatch grids and a feature-comparison module spanning 4–6 columns. Spacing is generous at section breaks — the page breathes between hero, features, and spec rows — but compact inside specification tables to pack 12–18 attributes without scroll fatigue. The canvas holds pure white; {colors.surface-soft} (#f5f5f5) surfaces alternating table rows and filter-panel backgrounds; product photography carries all the color saturation the page requires.
 
 colors:
   primary: "#0c4da2"
@@ -408,6 +412,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one hex color (#0c4da2) was extractable from the live site; the full Samsung design-token palette including dark-mode surfaces, gradient stop values, and interactive state shades could not be confirmed
 - All neutral color values (body, muted, hairline, surface-soft, surface-dark) are inferred from Samsung's general brand language rather than extracted values

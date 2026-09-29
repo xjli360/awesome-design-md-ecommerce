@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Delta Kayaks
-description: A deep-navy hull (#143a57) meets a single electric-green accent (#83e20c) — the brand voltage of a company that builds lightweight thermoform kayaks in North America and trusts the product photography to do the selling. The extracted palette is dominated by a cool navy primary, a near-black ink (#222222), and a family of warm grays (#ededed, #ebebeb, #eeeeee) that form a soft, almost tactile canvas — the kind of surface that suggests a boat hull under your fingers. The accent green (#83e20c) appears sparingly: a CTA button, a badge, a link hover — never more than one per viewport. The typography stack runs Roboto and Bebas Neue, the latter used for display-weight headlines that read as condensed, athletic, and purposeful — a font choice that echoes the streamlined shape of a touring kayak. Buttons are pill-shaped (`{rounded.full}`) in the primary navy, with the green reserved for the single strongest action. Product cards use generous whitespace, a soft shadow, and a `{rounded.lg}` corner that mirrors the rounded bow of the boats themselves. The footer is dense and dark (`{colors.ink}`), anchoring the page like a keel. There is no hero video, no parallax — the brand trusts a single hero image of a kayak on flat water, the horizon line clean, the color temperature cool. The extracted hex list is heavy on grays and blues, but the green (#83e20c) is the tell: it is not a social-icon color, not a checkout widget — it is the brand's deliberate accent, used with restraint.
+name: "Delta Kayaks"
+source_url: "https://www.deltakayaks.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep-navy hull (#143a57) meets a single electric-green accent (#83e20c) — the brand voltage of a company that builds lightweight thermoform kayaks in North America and trusts the product photography to do the selling. The extracted palette is dominated by a cool navy primary, a near-black ink (#222222), and a family of warm grays (#ededed, #ebebeb, #eeeeee) that form a soft, almost tactile canvas — the kind of surface that suggests a boat hull under your fingers. The accent green (#83e20c) appears sparingly: a CTA button, a badge, a link hover — never more than one per viewport. The typography stack runs Roboto and Bebas Neue, the latter used for display-weight headlines that read as condensed, athletic, and purposeful — a font choice that echoes the streamlined shape of a touring kayak. Buttons are pill-shaped (`{rounded.full}`) in the primary navy, with the green reserved for the single strongest action. Product cards use generous whitespace, a soft shadow, and a `{rounded.lg}` corner that mirrors the rounded bow of the boats themselves. The footer is dense and dark (`{colors.ink}`), anchoring the page like a keel. There is no hero video, no parallax — the brand trusts a single hero image of a kayak on flat water, the horizon line clean, the color temperature cool. The extracted hex list is heavy on grays and blues, but the green (#83e20c) is the tell: it is not a social-icon color, not a checkout widget — it is the brand's deliberate accent, used with restraint.
 
 colors:
   primary: "#143a57"
@@ -364,6 +368,8 @@ components:
 - Breadcrumbs truncate to "Home > ... > Current Page" on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Extracted hex list is heavily weighted toward grays, blues, and one bright green (#83e20c). The green is the most distinctive accent, but its exact usage (hover states, disabled variants, text-on-green contrast) is inferred, not extracted. The brand may use additional accent colors not captured.
 - Font-family extraction returned a mix of system fonts (Arial, Helvetica, Georgia) and two named fonts (Roboto, Bebas Neue). Bebas Neue is assumed to be the display/headline font based on common usage in the watersports industry, but its exact weight and spacing are inferred. Roboto is the most likely body font.

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Flylow Gear
-description: A backcountry workbench, not a fashion runway — Flylow Gear builds for the skier who wakes up at 4am for a hut traverse and doesn't want to think about their jacket until they're peeling it off by the woodstove. The brand's visual system is anchored on #b59258, a dry-brush gold that reads as aged brass or sun-bleached alpine grass rather than any kind of retail shine; it appears on primary CTAs, badge accents, and the occasional product-detail highlight, always against a canvas of #0c0c0d (near-black) or #ffffff depending on context. Secondary tones come from the extracted palette with a clear outdoor patina: #9d805a (weathered leather), #2d3f43 (deep pine), #597689 (slate sky), #5e9ca7 (ice melt), and #5f5b57 (trail dust). The typography stack pairs ChollaSlab — a sturdy, American-made slab serif with ranch-hand proportions — for display headings, with Open Sans and Source Sans 3 for body copy, creating a tension between frontier permanence and modern readability. Buttons use {rounded.sm} (8px) corners, not pills; the brand avoids softness in favor of a squared-off, tool-like honesty. Product cards sit on {surface-card} white with {hairline} borders at #dddddd, and the primary action — "Shop Men" or "Shop Women" — is always that #b59258 gold on black, a combination that feels like striking a match in the dark. The nav bar is fixed, full-width, black (#0c0c0d), with white nav links in Open Sans semibold, and the logo sits left in what appears to be a custom wordmark or ChollaSlab display. There is no gradient, no glassmorphism, no decorative illustration; every pixel earns its keep through utility and material reference.
+name: "Flylow Gear"
+source_url: "https://flylowgear.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A backcountry workbench, not a fashion runway — Flylow Gear builds for the skier who wakes up at 4am for a hut traverse and doesn't want to think about their jacket until they're peeling it off by the woodstove. The brand's visual system is anchored on #b59258, a dry-brush gold that reads as aged brass or sun-bleached alpine grass rather than any kind of retail shine; it appears on primary CTAs, badge accents, and the occasional product-detail highlight, always against a canvas of #0c0c0d (near-black) or #ffffff depending on context. Secondary tones come from the extracted palette with a clear outdoor patina: #9d805a (weathered leather), #2d3f43 (deep pine), #597689 (slate sky), #5e9ca7 (ice melt), and #5f5b57 (trail dust). The typography stack pairs ChollaSlab — a sturdy, American-made slab serif with ranch-hand proportions — for display headings, with Open Sans and Source Sans 3 for body copy, creating a tension between frontier permanence and modern readability. Buttons use {rounded.sm} (8px) corners, not pills; the brand avoids softness in favor of a squared-off, tool-like honesty. Product cards sit on {surface-card} white with {hairline} borders at #dddddd, and the primary action — "Shop Men" or "Shop Women" — is always that #b59258 gold on black, a combination that feels like striking a match in the dark. The nav bar is fixed, full-width, black (#0c0c0d), with white nav links in Open Sans semibold, and the logo sits left in what appears to be a custom wordmark or ChollaSlab display. There is no gradient, no glassmorphism, no decorative illustration; every pixel earns its keep through utility and material reference.
 
 colors:
   primary: "#b59258"
@@ -408,6 +412,8 @@ components:
 - Hero image may crop or reposition on mobile to maintain focal point
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states**: Only button-primary and nav-link hover states were extractable. Button-secondary, footer links, and product-card hover states are inferred from common patterns.
 - **Error states**: No form validation styling (error borders, error messages) could be extracted. Likely uses a red accent (#d9534f from extracted list) but unconfirmed.

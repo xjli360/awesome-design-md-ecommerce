@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Agendio
-description: |
+name: "Agendio"
+source_url: "https://agendio.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Agendio opens with a row of chooseable cover colors — teal (#92d9e1), sage (#cadcb0), lavender (#e4c0e9), coral (#ff5f57) — and the premise that configuring a planner should feel like browsing a stationery boutique rather than completing a checkout form. The active CTA color is a warm amber (#ffc20c), crisp against a gray-toned structural shell built from two layered steel grays (#b3bcc0, #a4afb4) and a stack of near-white surfaces (#f7f7f7, #fafafa, #fcfcfc). That layered neutrality ensures the cover swatches carry visual interest rather than the interface chrome — each planner cover acts as its own product photograph. The deep forest green (#088043) operates as a secondary brand accent and success-state color, never competing with the amber primary because they occupy different semantic roles: amber means act, green means confirmed. An electric magenta (#e605ff) sits in the extraction as a catalog cover option, suggesting the range runs from minimal to vivid without apologizing for either end.
 
   Typography layers three distinct voices: Isidora anchors display headlines with geometric warmth appropriate to a boutique product that also ships in bulk; Montserrat handles navigation labels, UI copy, and body paragraphs with clean geometric efficiency; Rufina introduces a serif register in editorial pull-quotes and section intros, referencing letterpress craft that the customer base appreciates. Chivo Mono appears on order numbers and date strings, adding a precision note inside an otherwise warm system. Corner radii sit consistently in the {rounded.sm}–{rounded.md} range throughout — the same soft-rectangle language applies to product cards, format-selector chips, and text inputs; no element goes full-pill except isolated promotional badges, and nothing collapses to a hard corner. The customizer flow — date range, format, cover color, quantity — is Agendio's primary product surface, and the palette, spacing, and step-indicator components are calibrated to make that flow feel unhurried and boutique-grade rather than transactional.
@@ -403,6 +406,8 @@ components:
 - **Nav drawer** slides in from the right over a `{colors.scrim}` overlay at 40% opacity
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No explicit dark/ink color extracted from the site — `{colors.ink}` (#1a1a1a) is a conventional near-black default, not confirmed from extraction
 - `{colors.primary-active}` (#e6a800) and `{colors.primary-disabled}` (#fff0a0) are derived tints of the extracted #ffc20c, not independently confirmed from computed styles

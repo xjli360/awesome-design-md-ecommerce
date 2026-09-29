@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Mizu
-description: A stainless-steel water-bottle brand that wraps its cold-touch metal in a warm, approachable palette — #2332d5 (a vivid, almost-electric blue) is the primary voltage, appearing on CTAs, add-to-cart buttons, and the brand's signature straw-lid accents, while #303030 and #616161 anchor body text and product names in a grounded, industrial gray scale. The canvas is #f3f3f3, a soft off-white that reads as more tactile than pure white, and product cards float on #ffffff with hairline borders at #b5b5b5 — the effect is clean but not sterile, like a well-organized gear closet. Montserrat runs across the site at moderate weights (400–600), with display headlines sitting at 24–32px in weight 600, never shouting; the brand trusts its product photography — glossy steel, condensation beads, outdoor backdrops — to carry the sensory load. Signature moves include a persistent sticky cart indicator with a {rounded.full} badge showing item count, a search bar with a {rounded.sm} field and a blue magnifying-glass icon, and product cards that use a two-line title truncation with a subtle ellipsis. The checkout flow leans on Shopify's native components but the brand's blue (#2332d5) reappears on the "Add to Cart" and "Buy It Now" buttons, creating a consistent thread from browse to purchase. There is no dark mode; the entire experience lives in light gray and white, with the blue acting as a cold-weather accent — like a flash of sky through a forest canopy.
+name: "Mizu"
+source_url: "https://mizulife.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A stainless-steel water-bottle brand that wraps its cold-touch metal in a warm, approachable palette — #2332d5 (a vivid, almost-electric blue) is the primary voltage, appearing on CTAs, add-to-cart buttons, and the brand's signature straw-lid accents, while #303030 and #616161 anchor body text and product names in a grounded, industrial gray scale. The canvas is #f3f3f3, a soft off-white that reads as more tactile than pure white, and product cards float on #ffffff with hairline borders at #b5b5b5 — the effect is clean but not sterile, like a well-organized gear closet. Montserrat runs across the site at moderate weights (400–600), with display headlines sitting at 24–32px in weight 600, never shouting; the brand trusts its product photography — glossy steel, condensation beads, outdoor backdrops — to carry the sensory load. Signature moves include a persistent sticky cart indicator with a {rounded.full} badge showing item count, a search bar with a {rounded.sm} field and a blue magnifying-glass icon, and product cards that use a two-line title truncation with a subtle ellipsis. The checkout flow leans on Shopify's native components but the brand's blue (#2332d5) reappears on the "Add to Cart" and "Buy It Now" buttons, creating a consistent thread from browse to purchase. There is no dark mode; the entire experience lives in light gray and white, with the blue acting as a cold-weather accent — like a flash of sky through a forest canopy.
 
 colors:
   primary: "#2332d5"
@@ -386,6 +390,8 @@ components:
 - **Search**: On mobile, the search bar collapses to a magnifying glass icon that expands to a full-width input on tap.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states**: Only primary button and product card hover states were reliably extracted. Secondary button, link, and footer link hover states are inferred from common patterns.
 - **Error styling**: Text input error state (red border) is inferred from the presence of #ea5455 in the palette. No error message typography or iconography was extracted.

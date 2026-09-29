@@ -1,0 +1,653 @@
+{
+  "source_url": "https://blushingdrops.com",
+  "final_url": "https://blushingdrops.com/",
+  "captured_at": "2026-09-28T09:59:23.807026+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://blushingdrops.com",
+      "final_url": "https://blushingdrops.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "d78b0fca2a1a1576b02da4aad8ed5aa9473c7b159abc40e70748420599e9b229",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://blushingdrops.com/cdn/shop/t/39/assets/base.css?v=144885557796126618841776043283",
+      "final_url": "https://blushingdrops.com/cdn/shop/t/39/assets/base.css?v=144885557796126618841776043283",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "96ab50ad162082799023c760ca360092c208926bc94526bd0fef9c55c4aee8c8",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://blushingdrops.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://blushingdrops.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://blushingdrops.com/cdn/shop/t/39/compiled_assets/styles.css?v=126940499724467170361776046910&subset=AD4AAQABAAAwAAAAAKABAARBPBSQAwxBpmpcE0A",
+      "final_url": "https://blushingdrops.com/cdn/shop/t/39/compiled_assets/styles.css?v=126940499724467170361776046910&subset=AD4AAQABAAAwAAAAAKABAARBPBSQAwxBpmpcE0A",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "14333425d9c3a8d34c760c5d32fc74c79ad94bfdbe23f7300fec2951d956a977",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://blushingdrops.com/cdn/shop/t/39/assets/overflow-list.css?v=16727044177065489451775943923",
+      "final_url": "https://blushingdrops.com/cdn/shop/t/39/assets/overflow-list.css?v=16727044177065489451775943923",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a0459347c45b5f20fe84678b5f47f3e7e4328ec173725ad6def9485dd46b8167",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 96,
+      "sources": [
+        "https://blushingdrops.com/",
+        "https://blushingdrops.com/cdn/shop/t/39/assets/base.css?v=144885557796126618841776043283",
+        "https://blushingdrops.com/cdn/shop/t/39/compiled_assets/styles.css?v=126940499724467170361776046910&subset=AD4AAQABAAAwAAAAAKABAARBPBSQAwxBpmpcE0A"
+      ]
+    },
+    "#ffffff": {
+      "count": 63,
+      "sources": [
+        "https://blushingdrops.com/",
+        "https://blushingdrops.com/cdn/shop/t/39/assets/base.css?v=144885557796126618841776043283",
+        "https://blushingdrops.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://blushingdrops.com/cdn/shop/t/39/compiled_assets/styles.css?v=126940499724467170361776046910&subset=AD4AAQABAAAwAAAAAKABAARBPBSQAwxBpmpcE0A"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 15,
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 12,
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "#333333": {
+      "count": 11,
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "#f5d1d1": {
+      "count": 8,
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 7,
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "#e4aeae4d": {
+      "count": 6,
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 5,
+      "sources": [
+        "https://blushingdrops.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://blushingdrops.com/cdn/shop/t/39/compiled_assets/styles.css?v=126940499724467170361776046910&subset=AD4AAQABAAAwAAAAAKABAARBPBSQAwxBpmpcE0A"
+      ]
+    },
+    "#fdfbf8": {
+      "count": 4,
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "#fafafa": {
+      "count": 4,
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "#00000003": {
+      "count": 3,
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "#393939cf": {
+      "count": 3,
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "#e4aeaec7": {
+      "count": 3,
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "#f6c6c6": {
+      "count": 2,
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "#dfdfdf": {
+      "count": 2,
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "#f9e5e5": {
+      "count": 2,
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "#f5d2d1": {
+      "count": 2,
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "#555555": {
+      "count": 2,
+      "sources": [
+        "https://blushingdrops.com/cdn/shop/t/39/assets/base.css?v=144885557796126618841776043283"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://blushingdrops.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#8b0000": {
+      "count": 1,
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "#006400": {
+      "count": 1,
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "#3ed660": {
+      "count": 1,
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "#ee9441": {
+      "count": 1,
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "#c8c8c8": {
+      "count": 1,
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "#f9e5e4": {
+      "count": 1,
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "#e4aeae": {
+      "count": 1,
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "#666666": {
+      "count": 1,
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "#ea6952": {
+      "count": 1,
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "#eef1ea": {
+      "count": 1,
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "#e1edf5": {
+      "count": 1,
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "#1d3686": {
+      "count": 1,
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "#393939b8": {
+      "count": 1,
+      "sources": [
+        "https://blushingdrops.com/cdn/shop/t/39/assets/base.css?v=144885557796126618841776043283"
+      ]
+    },
+    "#2f2f2f": {
+      "count": 1,
+      "sources": [
+        "https://blushingdrops.com/cdn/shop/t/39/assets/base.css?v=144885557796126618841776043283"
+      ]
+    },
+    "#3939397a": {
+      "count": 1,
+      "sources": [
+        "https://blushingdrops.com/cdn/shop/t/39/assets/base.css?v=144885557796126618841776043283"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://blushingdrops.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://blushingdrops.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://blushingdrops.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0a142f": {
+      "count": 1,
+      "sources": [
+        "https://blushingdrops.com/cdn/shop/t/39/compiled_assets/styles.css?v=126940499724467170361776046910&subset=AD4AAQABAAAwAAAAAKABAARBPBSQAwxBpmpcE0A"
+      ]
+    }
+  },
+  "font_families": {
+    "Crimson Pro": [
+      "https://blushingdrops.com/"
+    ],
+    "DM Sans": [
+      "https://blushingdrops.com/"
+    ],
+    "Pinyon Script": [
+      "https://blushingdrops.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://blushingdrops.com/",
+      "selector": "body, .color-scheme-1, .color-scheme-2, .color-scheme-3, .color-scheme-4, .color-scheme-5, .color-scheme-6, .color-scheme-58084d4c-a86e-4d0a-855e-a0966e5043f7",
+      "declarations": "color: var(--color-foreground);\n    background-color: var(--color-background);"
+    },
+    {
+      "source": "https://blushingdrops.com/",
+      "selector": "(--letter-spacing--body-loose);\n      --width: 100%;\n      --text-align: center;\n      --line-height: 1;\n    \n #shopify-section-sections--16184634114094__header",
+      "declarations": "background-color: #f9e5e4;"
+    },
+    {
+      "source": "https://blushingdrops.com/",
+      "selector": "r(--color-foreground-rgb) / var(--opacity-10-25));\n--menu-localization-font: var(--font-heading--family); --color-shadow: rgb(var(--color-foreground-rgb) / var(",
+      "declarations": "--color-submenu: rgb(255 255 255 / 1.0);"
+    },
+    {
+      "source": "https://blushingdrops.com/",
+      "selector": "--menu-content-columns-desktop: 0; --menu-content-columns-tablet: 0; --resource-card-corner-radius: 0px;\n\n  .header__underlay",
+      "declarations": "--color-submenu: rgb(255 255 255 / 1.0);"
+    },
+    {
+      "source": "https://blushingdrops.com/",
+      "selector": ".header__underlay",
+      "declarations": "--color-submenu: rgb(255 255 255 / 1.0);"
+    },
+    {
+      "source": "https://blushingdrops.com/",
+      "selector": ".ai-email-signup__button-ab1fjwgjoogt4s2pweaigenblock41c850b6mcuxe",
+      "declarations": "padding: 12px 24px;\n    background-color: #f5d1d1;\n    color: #393939cf;\n    border: none;\n    border-radius: 4px;\n    cursor: pointer;\n    font-size: 14px;\n    font-weight: 500;\n    transition: background-color 0.3s ease;"
+    },
+    {
+      "source": "https://blushingdrops.com/",
+      "selector": ".ai-email-signup__button-ab1fjwgjoogt4s2pweaigenblock41c850b6mcuxe:hover",
+      "declarations": "background-color: #fdfbf8;"
+    },
+    {
+      "source": "https://blushingdrops.com/",
+      "selector": ":root",
+      "declarations": "--lxs-rating-icon-color: #F6C6C6;"
+    },
+    {
+      "source": "https://blushingdrops.com/cdn/shop/t/39/assets/base.css?v=144885557796126618841776043283",
+      "selector": "body",
+      "declarations": "color:var(--color-foreground);background:var(--color-background);display:flex;flex-direction:column;margin:0;min-height:100svh;font-variation-settings:\"slnt\" 0"
+    },
+    {
+      "source": "https://blushingdrops.com/cdn/shop/t/39/assets/base.css?v=144885557796126618841776043283",
+      "selector": ":root",
+      "declarations": "--hover-lift-amount: 4px;--hover-scale-amount: 1.03;--hover-subtle-zoom-amount: 1.015;--hover-shadow-color: var(--color-shadow);--hover-transition-duration: .25s;--hover-transition-timing: ease-out;--surface-transition-duration: .3s;--surface-transition-timing: var(--ease-out-quad);--submenu-animation-speed: .36s;--submenu-animation-easing: cubic-bezier(.25, .1, .25, 1)"
+    },
+    {
+      "source": "https://blushingdrops.com/cdn/shop/t/39/assets/base.css?v=144885557796126618841776043283",
+      "selector": "body,.paragraph:not(.button),.paragraph>*,.text-block.paragraph :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-paragraph--family);font-style:var(--font-paragraph--style);font-weight:var(--font-paragraph--weight);font-size:var(--font-paragraph--size);line-height:var(--font-paragraph--line-height);text-transform:var(--font-paragraph--case);-webkit-font-smoothing:antialiased;color:var(--color, var(--color-foreground))"
+    },
+    {
+      "source": "https://blushingdrops.com/cdn/shop/t/39/assets/base.css?v=144885557796126618841776043283",
+      "selector": "h1,.h1.h1,.text-block.h1>*,.text-block.h1 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h1--family);font-style:var(--font-h1--style);font-weight:var(--font-h1--weight);font-size:var(--font-h1--size);line-height:var(--font-h1--line-height);letter-spacing:var(--font-h1--letter-spacing);text-transform:var(--font-h1--case);color:var(--color, var(--font-h1-color))"
+    },
+    {
+      "source": "https://blushingdrops.com/cdn/shop/t/39/assets/base.css?v=144885557796126618841776043283",
+      "selector": "h2,.h2.h2,.text-block.h2>*,.text-block.h2 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h2--family);font-style:var(--font-h2--style);font-weight:var(--font-h2--weight);font-size:var(--font-h2--size);line-height:var(--font-h2--line-height);letter-spacing:var(--font-h2--letter-spacing);text-transform:var(--font-h2--case);color:var(--color, var(--font-h2-color))"
+    },
+    {
+      "source": "https://blushingdrops.com/cdn/shop/t/39/assets/base.css?v=144885557796126618841776043283",
+      "selector": "h3,.h3,.h3.h3,.text-block.h3>*,.text-block.h3 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h3--family);font-style:var(--font-h3--style);font-weight:var(--font-h3--weight);font-size:var(--font-h3--size);line-height:var(--font-h3--line-height);letter-spacing:var(--font-h3--letter-spacing);text-transform:var(--font-h3--case);color:var(--color, var(--font-h3-color))"
+    },
+    {
+      "source": "https://blushingdrops.com/cdn/shop/t/39/assets/base.css?v=144885557796126618841776043283",
+      "selector": "h4,.h4.h4,.text-block.h4>*,.text-block.h4 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h4--family);font-style:var(--font-h4--style);font-weight:var(--font-h4--weight);font-size:var(--font-h4--size);line-height:var(--font-h4--line-height);letter-spacing:var(--font-h4--letter-spacing);text-transform:var(--font-h4--case);color:var(--color, var(--font-h4-color))"
+    },
+    {
+      "source": "https://blushingdrops.com/cdn/shop/t/39/assets/base.css?v=144885557796126618841776043283",
+      "selector": "h5,.h5.h5,.text-block.h5>*,.text-block.h5 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h5--family);font-style:var(--font-h5--style);font-weight:var(--font-h5--weight);font-size:var(--font-h5--size);line-height:var(--font-h5--line-height);letter-spacing:var(--font-h5--letter-spacing);text-transform:var(--font-h5--case);color:var(--color, var(--font-h5-color))"
+    },
+    {
+      "source": "https://blushingdrops.com/cdn/shop/t/39/assets/base.css?v=144885557796126618841776043283",
+      "selector": "h6,.h6.h6,.text-block.h6>*,.text-block.h6 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h6--family);font-style:var(--font-h6--style);font-weight:var(--font-h6--weight);font-size:var(--font-h6--size);line-height:var(--font-h6--line-height);letter-spacing:var(--font-h6--letter-spacing);text-transform:var(--font-h6--case);color:var(--color, var(--font-h6-color))"
+    },
+    {
+      "source": "https://blushingdrops.com/cdn/shop/t/39/assets/base.css?v=144885557796126618841776043283",
+      "selector": ":is(h1,h2,h3,h4,h5,h6,p)>a:hover",
+      "declarations": "--button-color: var(--color, var(--color-primary-hover))"
+    },
+    {
+      "source": "https://blushingdrops.com/cdn/shop/t/39/assets/base.css?v=144885557796126618841776043283",
+      "selector": "p:not(.h1,.h2,.h3,.h4,.h5,.h6) a:where(:not(.button,.button-secondary)),.rte :is(p,ul,ol,table):not(.h1,.h2,.h3,.h4,.h5,.h6) a:where(:not(.button,.button-second",
+      "declarations": "text-decoration-color:currentcolor"
+    },
+    {
+      "source": "https://blushingdrops.com/cdn/shop/t/39/assets/base.css?v=144885557796126618841776043283",
+      "selector": ":is(p:not(.h1,.h2,.h3,.h4,.h5,.h6) a:where(:not(.button,.button-secondary)),.rte :is(p,ul,ol,table):not(.h1,.h2,.h3,.h4,.h5,.h6) a:where(:not(.button,.button-se",
+      "declarations": "text-decoration-color:transparent;color:var(--color-primary-hover)"
+    },
+    {
+      "source": "https://blushingdrops.com/cdn/shop/t/39/assets/base.css?v=144885557796126618841776043283",
+      "selector": ".product-grid__card.product-grid__card",
+      "declarations": "display:flex;flex-flow:column nowrap;gap:var(--product-card-gap);align-items:var(--product-card-alignment);text-decoration:none;color:var(--color, var(--color-foreground));padding-block:var(--padding-block-start) var(--padding-block-end);padding-inline:var(--padding-inline-start) var(--padding-inline-end);overflow:hidden"
+    },
+    {
+      "source": "https://blushingdrops.com/cdn/shop/t/39/assets/base.css?v=144885557796126618841776043283",
+      "selector": "[product-grid-view=default]",
+      "declarations": "--product-grid-gap: 16px;--padding-block-start: 24px;--padding-block-end: 24px;--padding-inline-start: 0px;--padding-inline-end: 0px"
+    },
+    {
+      "source": "https://blushingdrops.com/cdn/shop/t/39/assets/base.css?v=144885557796126618841776043283",
+      "selector": "[product-grid-view=zoom-out]",
+      "declarations": "--product-grid-columns-desktop: repeat( 10, minmax(clamp(50px, calc(100% - 9 * var(--product-grid-gap)) / 10, 80px), 1fr) )"
+    },
+    {
+      "source": "https://blushingdrops.com/cdn/shop/t/39/assets/base.css?v=144885557796126618841776043283",
+      "selector": ".product-grid-view-zoom-out--details .h4,.product-grid-view-zoom-out--details span,.product-grid-view-zoom-out--details s",
+      "declarations": "font-size:var(--font-size--xs);font-family:var(--font-paragraph--family)"
+    },
+    {
+      "source": "https://blushingdrops.com/cdn/shop/t/39/assets/base.css?v=144885557796126618841776043283",
+      "selector": ".button,.button-secondary,button.shopify-payment-button__button--unbranded",
+      "declarations": "--text-align: center;display:grid;align-content:center;text-decoration:none;text-align:var(--text-align);color:var(--button-color);-webkit-appearance:none;appearance:none;background-color:var(--button-background-color);border:none;font-family:var(--font-paragraph--family);font-style:var(--font-paragraph--style);font-weight:var(--font-paragraph--weight);font-size:var(--font-paragraph--size);line-height:var(--font-paragraph--line-height);margin-block:0;transition:color var(--animation-speed) var(--animation-easing),box-shadow var(--animation-speed) var(--animation-easing),background-color var(--animation-speed) var(--animation-easing);cursor:pointer;width:fit-content;box-shadow:inset 0 0 0 var"
+    },
+    {
+      "source": "https://blushingdrops.com/cdn/shop/t/39/assets/base.css?v=144885557796126618841776043283",
+      "selector": ".button",
+      "declarations": "font-family:var(--button-font-family-primary);text-transform:var(--button-text-case-primary);border-radius:var(--style-border-radius-buttons-primary)"
+    },
+    {
+      "source": "https://blushingdrops.com/cdn/shop/t/39/assets/base.css?v=144885557796126618841776043283",
+      "selector": ".button:not(.button-secondary,.button-unstyled)",
+      "declarations": "outline-color:var(--button-background-color)"
+    },
+    {
+      "source": "https://blushingdrops.com/cdn/shop/t/39/assets/base.css?v=144885557796126618841776043283",
+      "selector": ".button-secondary",
+      "declarations": "font-family:var(--button-font-family-secondary);text-transform:var(--button-text-case-secondary);border-radius:var(--style-border-radius-buttons-secondary)"
+    },
+    {
+      "source": "https://blushingdrops.com/cdn/shop/t/39/assets/base.css?v=144885557796126618841776043283",
+      "selector": "button.shopify-payment-button__button--unbranded",
+      "declarations": "font-family:var(--button-font-family-primary);text-transform:var(--button-text-case-primary)"
+    },
+    {
+      "source": "https://blushingdrops.com/cdn/shop/t/39/assets/base.css?v=144885557796126618841776043283",
+      "selector": ".button,button.shopify-payment-button__button--unbranded",
+      "declarations": "--button-color: var(--color-primary-button-text);--button-background-color: var(--color-primary-button-background);--button-border-color: var(--color-primary-button-border);--button-border-width: var(--style-border-width-primary)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Custom Backdrop for Weddings & Celebrations | Blushing Drop\n – Blushing Drops",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://blushingdrops.com/",
+        "https://blushingdrops.com/cdn/shop/t/39/assets/base.css?v=144885557796126618841776043283",
+        "https://blushingdrops.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://blushingdrops.com/cdn/shop/t/39/compiled_assets/styles.css?v=126940499724467170361776046910&subset=AD4AAQABAAAwAAAAAKABAARBPBSQAwxBpmpcE0A"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://blushingdrops.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "colors.accent-blush": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "colors.border": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://blushingdrops.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-script": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.occasion-nav": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Inkwell Press
-description: |
+name: "Inkwell Press"
+source_url: "https://inkwellpress.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The brand name is typeset with WELL in capitals — inkWELL — embedding a wellness claim directly into the wordmark, and the rest of the visual system honors that signal faithfully. Warm caramel gold (#ce9a60) reads against parchment cream (#f7eedd) the way a leatherbound cover reads against ivory page stock: deliberate, analog-first, and premium without being austere. The pair anchors a disc-planner brand that positions daily scheduling as a self-care practice rather than a productivity system, and the entire color architecture reinforces that positioning — there is no cold blue, no clinical white, no neutral gray promoted to primary.
 
   Both typefaces — Poppins for display and Cabin for body text — are humanist geometric sans-serifs: geometric in structure but warm in execution. Neither has the corporate regularity of Helvetica or the technical formality of Futura; together they signal contemporary design literacy without alienating the journaling and planner community that gravitates toward softer, more personal aesthetics. Display lockups in Poppins 700 lend structure at large sizes; Cabin at 400 handles editorial copy with legibility and approachability at reading sizes.
@@ -326,6 +329,8 @@ components:
 - Hero CTA button pair stacks vertically on mobile at full width
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No explicit border-radius values extracted from computed CSS; `{rounded.sm}` (8px) and `{rounded.md}` (12px) are inferred from the humanist sans-serif aesthetic and planner category conventions
 - Font size values for display-xl and display-md are estimated from category norms — no computed CSS font-size values were available in extracted hints

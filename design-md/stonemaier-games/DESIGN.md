@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Stonemaier Games
-description: A board-game publisher whose visual system is built around a deep, confident blue (#003388) that reads as both premium and approachable — the same blue that anchors the header, the footer, and the primary call-to-action buttons, with a secondary voltage of #cf4e28 (a warm, slightly desaturated orange) used for sale badges, price highlights, and accent elements that signal urgency without aggression. The site runs on a light gray canvas (#eeeeee) rather than pure white, giving it a softer, more tactile feel that distinguishes it from the stark-white ecommerce norm, while product cards float on white (#ffffff) with subtle shadows to create depth. Typography leans on PT Sans and PT Serif — a serif/sans-serif pairing that nods to the brand's literary, narrative-driven game design (each game has a story) while keeping body text clean and readable at 16px. The orange #cf4e28 appears in the "Add to Cart" button and sale badges, creating a consistent accent language that says "this is actionable" without the shrillness of pure red. Navigation is a fixed top bar with the brand's logo left-aligned and a compact utility row (search, cart, account) on the right, all on the deep blue field (#003388) with white text — a high-contrast, authoritative header that gives way to a light, airy content area. The overall mood is that of a well-curated game library: organized, colorful but controlled, with enough white space to let the game box art (which varies wildly in palette) be the hero of each product page.
+name: "Stonemaier Games"
+source_url: "https://stonemaiergames.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A board-game publisher whose visual system is built around a deep, confident blue (#003388) that reads as both premium and approachable — the same blue that anchors the header, the footer, and the primary call-to-action buttons, with a secondary voltage of #cf4e28 (a warm, slightly desaturated orange) used for sale badges, price highlights, and accent elements that signal urgency without aggression. The site runs on a light gray canvas (#eeeeee) rather than pure white, giving it a softer, more tactile feel that distinguishes it from the stark-white ecommerce norm, while product cards float on white (#ffffff) with subtle shadows to create depth. Typography leans on PT Sans and PT Serif — a serif/sans-serif pairing that nods to the brand's literary, narrative-driven game design (each game has a story) while keeping body text clean and readable at 16px. The orange #cf4e28 appears in the "Add to Cart" button and sale badges, creating a consistent accent language that says "this is actionable" without the shrillness of pure red. Navigation is a fixed top bar with the brand's logo left-aligned and a compact utility row (search, cart, account) on the right, all on the deep blue field (#003388) with white text — a high-contrast, authoritative header that gives way to a light, airy content area. The overall mood is that of a well-curated game library: organized, colorful but controlled, with enough white space to let the game box art (which varies wildly in palette) be the hero of each product page.
 
 colors:
   primary: "#003388"
@@ -450,6 +454,8 @@ components:
 - Product card badges may hide or reduce font size on very small screens
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for most components were inferred from common patterns rather than extracted from the live site — the extracted CSS did not include pseudo-class styles
 - Error state styling for forms (red border, error message placement) is based on standard ecommerce patterns, not site-specific extraction

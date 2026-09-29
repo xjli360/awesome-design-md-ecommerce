@@ -1,0 +1,639 @@
+{
+  "source_url": "https://teenage.engineering",
+  "final_url": "https://teenage.engineering/",
+  "captured_at": "2026-09-28T04:28:06.736596+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://teenage.engineering",
+      "final_url": "https://teenage.engineering/",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "7526f86fe02030ce579c7f62c8549dbedeebc507131d2c5560a3b0256b1be142",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://teenage.engineering/assets/root.NRW9iUxr.css",
+      "final_url": "https://teenage.engineering/assets/root.NRW9iUxr.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "df59be67fc4f68f38cd9965bdb09e59565a78e899d05d523018b317a108d610e",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://teenage.engineering/assets/app-context.Dq8eP25W.css",
+      "final_url": "https://teenage.engineering/assets/app-context.Dq8eP25W.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1951b683914feba8a01aed261c3afd6e77a9850d3d89b30a350c8284468b12eb",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://teenage.engineering/assets/form.DWmR17wv.css",
+      "final_url": "https://teenage.engineering/assets/form.DWmR17wv.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "dbadae4ea124862649a10b724645305d80672979cd78a2e4d515f2e6542229db",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://teenage.engineering/assets/block.2tPiDhcW.css",
+      "final_url": "https://teenage.engineering/assets/block.2tPiDhcW.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "8482cf02aa8e002b6922beced9fd1f635e1bdfaca08257ff78a2bdc218e8a96a",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://teenage.engineering/assets/flex.C4wW179p.css",
+      "final_url": "https://teenage.engineering/assets/flex.C4wW179p.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9341229bcbe43daa1eb4caa2190b35c385118fec6d22b5f9850b4af5e29bcf73",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#f6f8f7": {
+      "count": 34,
+      "sources": [
+        "https://teenage.engineering/"
+      ]
+    },
+    "#b2b2b2": {
+      "count": 30,
+      "sources": [
+        "https://teenage.engineering/",
+        "https://teenage.engineering/assets/root.NRW9iUxr.css"
+      ]
+    },
+    "#0071bb": {
+      "count": 24,
+      "sources": [
+        "https://teenage.engineering/",
+        "https://teenage.engineering/assets/root.NRW9iUxr.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 12,
+      "sources": [
+        "https://teenage.engineering/",
+        "https://teenage.engineering/assets/root.NRW9iUxr.css",
+        "https://teenage.engineering/assets/app-context.Dq8eP25W.css",
+        "https://teenage.engineering/assets/form.DWmR17wv.css"
+      ]
+    },
+    "#0f0e12": {
+      "count": 12,
+      "sources": [
+        "https://teenage.engineering/",
+        "https://teenage.engineering/assets/root.NRW9iUxr.css"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 12,
+      "sources": [
+        "https://teenage.engineering/",
+        "https://teenage.engineering/assets/root.NRW9iUxr.css"
+      ]
+    },
+    "#000000": {
+      "count": 5,
+      "sources": [
+        "https://teenage.engineering/",
+        "https://teenage.engineering/assets/form.DWmR17wv.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 3,
+      "sources": [
+        "https://teenage.engineering/",
+        "https://teenage.engineering/assets/root.NRW9iUxr.css"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://teenage.engineering/assets/root.NRW9iUxr.css",
+        "https://teenage.engineering/assets/form.DWmR17wv.css"
+      ]
+    },
+    "#121114": {
+      "count": 1,
+      "sources": [
+        "https://teenage.engineering/"
+      ]
+    },
+    "#231f20": {
+      "count": 1,
+      "sources": [
+        "https://teenage.engineering/"
+      ]
+    },
+    "#ed2024": {
+      "count": 1,
+      "sources": [
+        "https://teenage.engineering/"
+      ]
+    },
+    "#c5c6cd": {
+      "count": 1,
+      "sources": [
+        "https://teenage.engineering/"
+      ]
+    },
+    "#f1f2f2": {
+      "count": 1,
+      "sources": [
+        "https://teenage.engineering/"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
+      "sources": [
+        "https://teenage.engineering/assets/root.NRW9iUxr.css"
+      ]
+    },
+    "#a1a7af": {
+      "count": 1,
+      "sources": [
+        "https://teenage.engineering/assets/root.NRW9iUxr.css"
+      ]
+    },
+    "#767676": {
+      "count": 1,
+      "sources": [
+        "https://teenage.engineering/assets/root.NRW9iUxr.css"
+      ]
+    },
+    "#7f7f7f": {
+      "count": 1,
+      "sources": [
+        "https://teenage.engineering/assets/root.NRW9iUxr.css"
+      ]
+    },
+    "#4d4d4d": {
+      "count": 1,
+      "sources": [
+        "https://teenage.engineering/assets/root.NRW9iUxr.css"
+      ]
+    },
+    "#272727": {
+      "count": 1,
+      "sources": [
+        "https://teenage.engineering/assets/root.NRW9iUxr.css"
+      ]
+    },
+    "#006837": {
+      "count": 1,
+      "sources": [
+        "https://teenage.engineering/assets/root.NRW9iUxr.css"
+      ]
+    },
+    "#f05a24": {
+      "count": 1,
+      "sources": [
+        "https://teenage.engineering/assets/root.NRW9iUxr.css"
+      ]
+    },
+    "#b81d13": {
+      "count": 1,
+      "sources": [
+        "https://teenage.engineering/assets/root.NRW9iUxr.css"
+      ]
+    },
+    "#fab413": {
+      "count": 1,
+      "sources": [
+        "https://teenage.engineering/assets/root.NRW9iUxr.css"
+      ]
+    },
+    "#c0262c": {
+      "count": 1,
+      "sources": [
+        "https://teenage.engineering/assets/root.NRW9iUxr.css"
+      ]
+    },
+    "#00000080": {
+      "count": 1,
+      "sources": [
+        "https://teenage.engineering/assets/app-context.Dq8eP25W.css"
+      ]
+    },
+    "#000000b3": {
+      "count": 1,
+      "sources": [
+        "https://teenage.engineering/assets/app-context.Dq8eP25W.css"
+      ]
+    },
+    "#9a01a6": {
+      "count": 1,
+      "sources": [
+        "https://teenage.engineering/assets/app-context.Dq8eP25W.css"
+      ]
+    }
+  },
+  "font_families": {
+    "TechnoType": [
+      "https://teenage.engineering/assets/root.NRW9iUxr.css"
+    ],
+    "Unicode": [
+      "https://teenage.engineering/assets/root.NRW9iUxr.css"
+    ],
+    "UniversNextPro Thin": [
+      "https://teenage.engineering/"
+    ],
+    "UniversNextPro-Thin": [
+      "https://teenage.engineering/"
+    ],
+    "UniversTE20T": [
+      "https://teenage.engineering/assets/root.NRW9iUxr.css"
+    ],
+    "UniversTE40L": [
+      "https://teenage.engineering/assets/root.NRW9iUxr.css"
+    ],
+    "franxurter": [
+      "https://teenage.engineering/assets/root.NRW9iUxr.css"
+    ],
+    "riddim": [
+      "https://teenage.engineering/assets/root.NRW9iUxr.css"
+    ],
+    "riddimscript": [
+      "https://teenage.engineering/assets/root.NRW9iUxr.css"
+    ],
+    "swingus": [
+      "https://teenage.engineering/assets/root.NRW9iUxr.css"
+    ],
+    "te-20": [
+      "https://teenage.engineering/assets/root.NRW9iUxr.css"
+    ],
+    "te-40": [
+      "https://teenage.engineering/assets/root.NRW9iUxr.css"
+    ],
+    "te-vjs": [
+      "https://teenage.engineering/assets/root.NRW9iUxr.css"
+    ],
+    "ttregular": [
+      "https://teenage.engineering/assets/root.NRW9iUxr.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://teenage.engineering/",
+      "selector": ":root",
+      "declarations": "--theme-dt: 0;--theme-fc: rgba(15,14,18,1);--theme-mc: rgba(15,14,18,1);--theme-fct: var(--te-grey-100);--theme-body-bc: rgba(255,255,255,1);--theme-mobile-cart: rgba(15,14,18,1);--theme-mobile-cart-text: rgba(229,229,229,1);--theme-mobile-search: rgba(15,14,18,1)"
+    },
+    {
+      "source": "https://teenage.engineering/assets/root.NRW9iUxr.css",
+      "selector": "button",
+      "declarations": "font:inherit;color:inherit;cursor:pointer;background:0 0;border:none;outline:none;margin:0;padding:0"
+    },
+    {
+      "source": "https://teenage.engineering/assets/root.NRW9iUxr.css",
+      "selector": ":root",
+      "declarations": "--white:#fff;--te-white:#f5f5f5;--te-black:#0f0e12;--te-grey-100:#e5e5e5;--te-grey-200:#ccc;--te-grey-300:#b2b2b2;--te-grey-500:#a1a7af;--te-grey-600:#767676;--te-grey-700:#7f7f7f;--te-grey-900:#4d4d4d;--te-grey-1000:#272727;--te-blue:#0071bb;--te-green:#006837;--te-orange:#f05a24;--te-red:#b81d13;--te-yellow:#fab413;--success:var(--te-green);--error:#c0262c;--z-over:100;--z-navigation:1000;--z-modal-backdrop:2000;--z-dialog:2001;--viewport-height:100vh;--base-design-width:980;--header-height:calc(.183673 * var(--client-width));--footer-height:calc(.0663265 * var(--client-width));--page-height:calc(100vh - var(--header-height));--footer-column:calc(.219388 * var(--client-width))"
+    },
+    {
+      "source": "https://teenage.engineering/assets/root.NRW9iUxr.css",
+      "selector": ":root",
+      "declarations": "--header-height:calc(.0816327 * var(--client-width))"
+    },
+    {
+      "source": "https://teenage.engineering/assets/root.NRW9iUxr.css",
+      "selector": ":root",
+      "declarations": "--product-background-color:#f5f5f5;--theme-body-bc:#fff;--theme-bc:transparent;--theme-fc:transparent;--theme-fct:var(--te-grey-100);--theme-mc:var(--te-grey-100);--theme-c1:inherit;--theme-c10:inherit;--theme-c11:inherit;--theme-c3:inherit;--theme-c4:inherit;--theme-c5:inherit;--theme-c6:inherit;--theme-c7:inherit;--theme-c8:inherit;--theme-c8b:inherit;--theme-c9:inherit;--theme-mobile-cart:var(--te-grey-100);--theme-mobile-cart-text:var(--te-black);--theme-mobile-search:var(--te-grey-100);--theme-op:1;--theme-dt:0s;--header-adjustment-primary:calc(.00306122 * var(--client-width));--header-adjustment-secondary:calc(-.00204082 * var(--client-width));--space-xs:calc(.0102041 * var(--client-wi"
+    },
+    {
+      "source": "https://teenage.engineering/assets/root.NRW9iUxr.css",
+      "selector": ":root",
+      "declarations": "--space-xs:calc(.00510204 * var(--client-width));--space-sm:calc(.0102041 * var(--client-width));--space-md:calc(.0153061 * var(--client-width));--space-lg:calc(.0229592 * var(--client-width));--space-xl:calc(.0459184 * var(--client-width))"
+    },
+    {
+      "source": "https://teenage.engineering/assets/root.NRW9iUxr.css",
+      "selector": ":root",
+      "declarations": "--tile-border-radius:calc(.0255102 * var(--client-width));--tile-padding:2vw"
+    },
+    {
+      "source": "https://teenage.engineering/assets/root.NRW9iUxr.css",
+      "selector": ":root",
+      "declarations": "--tile-border-radius:0;--tile-padding:1vw"
+    },
+    {
+      "source": "https://teenage.engineering/assets/root.NRW9iUxr.css",
+      "selector": ":root",
+      "declarations": "--btn-min-click-area:48px;--te-20:\"te-20\", \"Unicode\", sans-serif;--te-40:\"te-40\", \"Unicode\", sans-serif;--fw-thin:100;--fw-light:300;--fs-10:calc(.0183673 * var(--client-width));--fs-15:calc(.0265306 * var(--client-width));--fs-20:calc(.0367347 * var(--client-width));--fs-25:calc(.0469388 * var(--client-width));--fs-30:calc(.055102 * var(--client-width));--fs-40:calc(.0734694 * var(--client-width))"
+    },
+    {
+      "source": "https://teenage.engineering/assets/root.NRW9iUxr.css",
+      "selector": ":root",
+      "declarations": "--fs-10:calc(.00918367 * var(--client-width));--fs-15:calc(.0132653 * var(--client-width));--fs-20:calc(.0183673 * var(--client-width));--fs-25:calc(.0234694 * var(--client-width));--fs-30:calc(.027551 * var(--client-width));--fs-40:calc(.0367347 * var(--client-width))"
+    },
+    {
+      "source": "https://teenage.engineering/assets/root.NRW9iUxr.css",
+      "selector": ":root",
+      "declarations": "--lh-10:calc(.0204082 * var(--client-width));--lh-15:calc(.0306122 * var(--client-width));--lh-20:calc(.0408163 * var(--client-width));--lh-25:calc(.0612245 * var(--client-width));--lh-30:calc(.0612245 * var(--client-width));--lh-40:calc(.0816327 * var(--client-width))"
+    },
+    {
+      "source": "https://teenage.engineering/assets/root.NRW9iUxr.css",
+      "selector": ":root",
+      "declarations": "--lh-10:calc(.0102041 * var(--client-width));--lh-15:calc(.0153061 * var(--client-width));--lh-20:calc(.0204082 * var(--client-width));--lh-25:calc(.0306122 * var(--client-width));--lh-30:calc(.0306122 * var(--client-width));--lh-40:calc(.0408163 * var(--client-width))"
+    },
+    {
+      "source": "https://teenage.engineering/assets/root.NRW9iUxr.css",
+      "selector": ":root",
+      "declarations": "--round:9999px;--client-width:100vw"
+    },
+    {
+      "source": "https://teenage.engineering/assets/root.NRW9iUxr.css",
+      "selector": "body,html",
+      "declarations": "padding:0;padding-top:env(safe-area-inset-top);overscroll-behavior-y:none;font-family:var(--te-20);font-weight:var(--fw-light);-webkit-tap-highlight-color:transparent;background-color:var(--theme-body-bc);text-rendering:optimizelegibility;-webkit-font-smoothing:antialiased;margin:0"
+    },
+    {
+      "source": "https://teenage.engineering/assets/form.DWmR17wv.css",
+      "selector": ":root",
+      "declarations": "--icon-size:calc(.0489796 * var(--client-width))"
+    },
+    {
+      "source": "https://teenage.engineering/assets/form.DWmR17wv.css",
+      "selector": ":root",
+      "declarations": "--icon-size:calc(.0244898 * var(--client-width))"
+    },
+    {
+      "source": "https://teenage.engineering/assets/form.DWmR17wv.css",
+      "selector": ":root",
+      "declarations": "--field-padding:calc(.0357143 * var(--client-width));--field-color:#000;--field-color-disabled:var(--te-grey-300);--field-background:var(--te-white);--field-background-disabled:var(--te-grey-100);--field-placeholder:var(--te-grey-700);--field-font-size:var(--fs-20);--field-line-height:1.5em;--field-border-color:var(--te-grey-100);--field-border:calc(.00102041 * var(--client-width)) solid var(--field-border-color);--field-border-radius:calc(.0204082 * var(--client-width));--field-label-padding-top:calc(.0459184 * var(--client-width));--field-label-padding-bottom:calc(.0255102 * var(--client-width));--field-size:calc(var(--field-line-height) + (var(--field-padding) * 2))"
+    },
+    {
+      "source": "https://teenage.engineering/assets/form.DWmR17wv.css",
+      "selector": ":root",
+      "declarations": "--field-padding:calc(.0102041 * var(--client-width));--field-border:calc(.00102041 * var(--client-width)) solid var(--field-border-color);--field-font-size:var(--fs-15);--field-border-radius:0;--field-background:#fff;--field-label-padding-top:calc(.0153061 * var(--client-width));--field-label-padding-bottom:calc(.00510204 * var(--client-width))"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "teenage engineering",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teenage.engineering/",
+        "https://teenage.engineering/assets/root.NRW9iUxr.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teenage.engineering/",
+        "https://teenage.engineering/assets/root.NRW9iUxr.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teenage.engineering/",
+        "https://teenage.engineering/assets/root.NRW9iUxr.css",
+        "https://teenage.engineering/assets/app-context.Dq8eP25W.css",
+        "https://teenage.engineering/assets/form.DWmR17wv.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teenage.engineering/",
+        "https://teenage.engineering/assets/root.NRW9iUxr.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teenage.engineering/assets/root.NRW9iUxr.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teenage.engineering/",
+        "https://teenage.engineering/assets/root.NRW9iUxr.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teenage.engineering/",
+        "https://teenage.engineering/assets/root.NRW9iUxr.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teenage.engineering/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teenage.engineering/",
+        "https://teenage.engineering/assets/root.NRW9iUxr.css"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teenage.engineering/",
+        "https://teenage.engineering/assets/root.NRW9iUxr.css"
+      ]
+    },
+    "colors.accent-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teenage.engineering/assets/root.NRW9iUxr.css"
+      ]
+    },
+    "colors.accent-orange": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teenage.engineering/assets/root.NRW9iUxr.css"
+      ]
+    },
+    "colors.accent-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teenage.engineering/assets/root.NRW9iUxr.css"
+      ]
+    },
+    "colors.accent-yellow": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teenage.engineering/assets/root.NRW9iUxr.css"
+      ]
+    },
+    "colors.accent-purple": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teenage.engineering/assets/app-context.Dq8eP25W.css"
+      ]
+    },
+    "colors.error": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teenage.engineering/assets/root.NRW9iUxr.css"
+      ]
+    },
+    "colors.grey-200": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teenage.engineering/assets/root.NRW9iUxr.css"
+      ]
+    },
+    "colors.grey-300": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teenage.engineering/",
+        "https://teenage.engineering/assets/root.NRW9iUxr.css"
+      ]
+    },
+    "colors.grey-900": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teenage.engineering/assets/root.NRW9iUxr.css"
+      ]
+    },
+    "colors.grey-1000": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teenage.engineering/assets/root.NRW9iUxr.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.swatch-selector": {
+      "status": "inferred"
+    }
+  }
+}

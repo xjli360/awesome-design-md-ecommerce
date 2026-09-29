@@ -1,0 +1,889 @@
+{
+  "source_url": "https://www.focusrite.com",
+  "final_url": "https://focusrite.com/",
+  "captured_at": "2026-09-28T05:08:29.917546+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.focusrite.com",
+      "final_url": "https://focusrite.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "8daf4830f563df6e3fcd543b39741230ef363d118aa3e5c45c717ddd6f2b330e",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css",
+      "final_url": "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "e716b0681d2e5dc7bd840297fb65c1806d77a97c7755f06c078e275344b84974",
+      "snapshot": "stylesheet-1.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 407,
+      "sources": [
+        "https://focusrite.com/",
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#000000": {
+      "count": 291,
+      "sources": [
+        "https://focusrite.com/",
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#e1e1e6": {
+      "count": 193,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#0b0b0e": {
+      "count": 167,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#1d1d20": {
+      "count": 140,
+      "sources": [
+        "https://focusrite.com/",
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 139,
+      "sources": [
+        "https://focusrite.com/",
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#cecece": {
+      "count": 124,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#727272": {
+      "count": 110,
+      "sources": [
+        "https://focusrite.com/",
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#999999": {
+      "count": 95,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#19191c": {
+      "count": 59,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#333333": {
+      "count": 56,
+      "sources": [
+        "https://focusrite.com/",
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#111111": {
+      "count": 48,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#3461ec": {
+      "count": 47,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#d0d0d5": {
+      "count": 46,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#c89e0e": {
+      "count": 40,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#3286e9": {
+      "count": 40,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 36,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#3d3d41": {
+      "count": 31,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#92000d": {
+      "count": 28,
+      "sources": [
+        "https://focusrite.com/",
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#f5f5f7": {
+      "count": 28,
+      "sources": [
+        "https://focusrite.com/",
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#e1e6eb": {
+      "count": 24,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#1062eb": {
+      "count": 23,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#86868b": {
+      "count": 21,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#404040": {
+      "count": 21,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#c2c4c3": {
+      "count": 20,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#2c4cd9": {
+      "count": 19,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#adadad": {
+      "count": 18,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#2fb6a4": {
+      "count": 16,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#262629": {
+      "count": 15,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#00ac7d": {
+      "count": 14,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#848488": {
+      "count": 13,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#ef4444": {
+      "count": 13,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#01e2a3": {
+      "count": 13,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#acacb0": {
+      "count": 11,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#313440": {
+      "count": 10,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 10,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#636367": {
+      "count": 10,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#9a9a9a": {
+      "count": 10,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#98989c": {
+      "count": 10,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#04629d": {
+      "count": 10,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#f7f8f9": {
+      "count": 9,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#757575": {
+      "count": 9,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#2754ab": {
+      "count": 9,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 8,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#db2b21": {
+      "count": 8,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#798289": {
+      "count": 7,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#acb3be": {
+      "count": 7,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#f1a500": {
+      "count": 7,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#bbf7d0": {
+      "count": 7,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#556273": {
+      "count": 6,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#f27474": {
+      "count": 6,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#282c30": {
+      "count": 6,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#007dc6": {
+      "count": 6,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#eab308": {
+      "count": 6,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#99b0f5": {
+      "count": 6,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 6,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#232831": {
+      "count": 5,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#e7f4f9": {
+      "count": 5,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#beebff": {
+      "count": 5,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "#666666": {
+      "count": 5,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    }
+  },
+  "font_families": {
+    "/5.5.3/": [
+      "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+    ],
+    "/only screen and (max-width: 551px)/": [
+      "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+    ],
+    "/only screen and (min-width:1261px) and (max-width:1681px)/": [
+      "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+    ],
+    "/only screen and (min-width:1261px)/": [
+      "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+    ],
+    "/only screen and (min-width:1681px)/": [
+      "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+    ],
+    "/only screen and (min-width:551px) and (max-width:801px)/": [
+      "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+    ],
+    "/only screen and (min-width:551px)/": [
+      "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+    ],
+    "/only screen and (min-width:801px) and (max-width:1261px)/": [
+      "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+    ],
+    "/only screen and (min-width:801px)/": [
+      "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+    ],
+    "/only screen/": [
+      "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+    ],
+    "Arial": [
+      "https://focusrite.com/",
+      "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+    ],
+    "Brockmann": [
+      "https://focusrite.com/",
+      "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+    ],
+    "Brockmann Bold": [
+      "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+    ],
+    "Brockmann Regular": [
+      "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+    ],
+    "Brockmann Semibold": [
+      "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+    ],
+    "DINEngschriftStd": [
+      "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+    ],
+    "DINPro": [
+      "https://focusrite.com/",
+      "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+    ],
+    "DINProBold": [
+      "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+    ],
+    "Helvetica": [
+      "https://focusrite.com/",
+      "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+    ],
+    "Helvetica Arial": [
+      "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+    ],
+    "Karla": [
+      "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+    ],
+    "Montserrat": [
+      "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+    ],
+    "Noto Sans JP": [
+      "https://focusrite.com/",
+      "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+    ],
+    "Noto Sans KR": [
+      "https://focusrite.com/",
+      "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+    ],
+    "Noto Sans SC": [
+      "https://focusrite.com/",
+      "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+    ],
+    "Plus Jakarta Sans": [
+      "https://focusrite.com/",
+      "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+    ],
+    "TT Norms Pro Bold": [
+      "https://focusrite.com/",
+      "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+    ],
+    "TT Norms Pro Demi-Bold": [
+      "https://focusrite.com/",
+      "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+    ],
+    "TT Norms Pro Medium": [
+      "https://focusrite.com/",
+      "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+    ],
+    "TT Norms Pro Regular": [
+      "https://focusrite.com/",
+      "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+    ],
+    "false": [
+      "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+    ],
+    "monospace": [
+      "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+    ],
+    "object-fit: contain": [
+      "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+    ],
+    "sans-serif": [
+      "https://focusrite.com/",
+      "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://focusrite.com/",
+      "selector": "[data-id=\"81e05647-4714-4da2-a179-01fcb2c15ab1\"] .fc-sitewide-header__list",
+      "declarations": "list-style-type: none;\n    padding: 0;\n    margin: 0;\n    height: 30px;\n    overflow: hidden;\n    background-color: rgba(255,255,255,1);"
+    },
+    {
+      "source": "https://focusrite.com/",
+      "selector": "[data-id=\"81e05647-4714-4da2-a179-01fcb2c15ab1\"] .fc-sitewide-header__list__item",
+      "declarations": "text-align: center;\n      padding: 5px;\n      height: 30px;\n      width: 100%;\n      font-family: \"TT Norms Pro Demi-Bold\",sans-serif;\n    color: rgba(29,29,32,1);"
+    },
+    {
+      "source": "https://focusrite.com/",
+      "selector": "dio']  [data-id=\"81e05647-4714-4da2-a179-01fcb2c15ab1\"] .fc-sitewide-header__list__item,\n   [data-store='adam audio']  [data-id=\"81e05647-4714-4da2-a179-01fcb2c",
+      "declarations": "font-family: 'DINPro', sans-serif;"
+    },
+    {
+      "source": "https://focusrite.com/",
+      "selector": "sonnox']  [data-id=\"81e05647-4714-4da2-a179-01fcb2c15ab1\"] .fc-sitewide-header__list__item,\n   [data-store='sonnox']  [data-id=\"81e05647-4714-4da2-a179-01fcb2c1",
+      "declarations": "font-family: 'Plus Jakarta Sans', sans-serif;"
+    },
+    {
+      "source": "https://focusrite.com/",
+      "selector": "ation']  [data-id=\"81e05647-4714-4da2-a179-01fcb2c15ab1\"] .fc-sitewide-header__list__item,\n   [data-store='novation']  [data-id=\"81e05647-4714-4da2-a179-01fcb2c",
+      "declarations": "font-family: 'Brockmann', 'Plus Jakarta Sans', 'Helvetica', 'Arial', 'Noto Sans SC', 'Noto Sans JP',\n  'Noto Sans KR', sans-serif;"
+    },
+    {
+      "source": "https://focusrite.com/",
+      "selector": "[data-id=\"81e05647-4714-4da2-a179-01fcb2c15ab1\"] .fc-sitewide-header__list__item a",
+      "declarations": "text-decoration: none;\n    display: inline-block;\n     color: rgba(29,29,32,1);"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css",
+      "selector": "tion] button:focus-visible,[data-store=novation] details:focus-visible,[data-store=novation] input:focus-visible,[data-store=novation] select:focus-visible,[dat",
+      "declarations": "outline-color:#4ccaff!important"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css",
+      "selector": "body",
+      "declarations": "background:#fff;color:#1d1d20;cursor:auto;margin:0;padding:0;position:relative"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css",
+      "selector": "body",
+      "declarations": "font-family:Karla,Arial,Helvetica,sans-serif;font-weight:400;line-height:1.5"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "color:#1d1d20;font-family:Montserrat,Arial,Helvetica,sans-serif;font-weight:400;letter-spacing:.25px;margin-bottom:.78571rem"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css",
+      "selector": "h1 small,h2 small,h3 small,h4 small,h5 small,h6 small",
+      "declarations": "color:#727272;font-size:60%;line-height:0"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css",
+      "selector": ".button",
+      "declarations": "-webkit-appearance:none;-moz-appearance:none;border-radius:0;border-style:solid;border-width:1px;cursor:pointer;font-family:Helvetica Arial,sans-serif;font-weight:400;line-height:normal;margin:0 0 1rem;position:relative;text-align:center;text-decoration:none;display:inline-block;background-color:transparent;border-color:#000;color:#fff;font-size:1rem;padding:.85714rem 2.28571rem;border-radius:4px;outline:0;vertical-align:middle"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css",
+      "selector": ".button.active,.button.is-active,.button:focus,.button:hover",
+      "declarations": "background-color:transparent;border-color:#333;color:#fff"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css",
+      "selector": ".button:active",
+      "declarations": "background-color:transparent;border:1px solid #000;color:#fff"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css",
+      "selector": ".button--primary",
+      "declarations": "background-color:#000;border-color:#000;color:#fff"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css",
+      "selector": ".button--primary.active,.button--primary.is-active,.button--primary:focus,.button--primary:hover",
+      "declarations": "background-color:#333;border-color:#333;color:#fff"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css",
+      "selector": ".button--primary:active",
+      "declarations": "background-color:#000;border:1px solid #000;color:#fff"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css",
+      "selector": ".button[disabled]",
+      "declarations": "background-color:#cecece;border-color:rgba(0,0,255,0);color:#fff;cursor:default"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css",
+      "selector": ".form-body",
+      "declarations": "background-color:#fff;border:1px solid #798289;-webkit-box-shadow:0 1px 2px rgba(0,0,0,.13);box-shadow:0 1px 2px rgba(0,0,0,.13);margin-bottom:1.5rem;max-width:none;padding:1.5rem"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css",
+      "selector": ".panel-header",
+      "declarations": "background-color:#cecece;margin:0;padding:1.5rem 2rem 0"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css",
+      "selector": ".pagination-list li a,.pagination-list li button",
+      "declarations": "border-radius:4px;-webkit-transition:background-color .3s ease-out;transition:background-color .3s ease-out;background:0 0;color:#727272;display:block;font-size:1em;font-weight:400;line-height:inherit;padding:.28571rem .5rem"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css",
+      "selector": "li.pagination-item--current a,li.pagination-item--current button",
+      "declarations": "color:#1d1d20;cursor:default"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css",
+      "selector": ".card-figcaption-body .card-text",
+      "declarations": "color:#727272"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css",
+      "selector": ".card-figcaption-button",
+      "declarations": "background-color:rgba(255,255,255,.9);color:#1d1d20"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css",
+      "selector": ".card-figcaption-button:hover",
+      "declarations": "background-color:#fff;color:#1d1d20"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css",
+      "selector": ".card-body .card-text",
+      "declarations": "color:#727272"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css",
+      "selector": ".slick-dots li button",
+      "declarations": "border:0;background:0 0;display:block;height:20px;width:20px;outline:0;line-height:0;font-size:0px;color:transparent;padding:5px;cursor:pointer"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css",
+      "selector": ".slick-dots li button:before",
+      "declarations": "position:absolute;top:0;left:0;content:\"\";width:20px;height:20px;font-family:inherit;font-size:60px;line-height:20px;text-align:center;color:#1d1d20;opacity:.6;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css",
+      "selector": ".slick-dots li.slick-active button:before",
+      "declarations": "color:#727272;opacity:1"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Focusrite | Audio Interfaces and Pro Audio Equipment",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://focusrite.com/",
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://focusrite.com/",
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://focusrite.com/",
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://focusrite.com/",
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://focusrite.com/",
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://focusrite.com/",
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://focusrite.com/",
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "colors.accent-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "colors.alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "colors.hover-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://focusrite.com/",
+        "https://cdn11.bigcommerce.com/s-7exlzlf13h/stencil/50bf3540-9a4f-013f-fa26-4201d46ef01e/e/e77962d0-5829-013f-7ef5-2229126145f1/css/theme-5bb698c0-9a4f-013f-29c9-76e9cd1d3b80.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.nav-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-highlight": {
+      "status": "inferred"
+    }
+  }
+}

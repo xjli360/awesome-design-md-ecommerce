@@ -1,0 +1,1463 @@
+{
+  "source_url": "https://bessieandbarnie.com",
+  "final_url": "https://bessieandbarnie.com/",
+  "captured_at": "2026-09-28T10:32:59.079809+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://bessieandbarnie.com",
+      "final_url": "https://bessieandbarnie.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "ae53a2bb894455bec8b4bc9aee1092afdc15e2074b0bcdb1dba9cca3f6895667",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://bessieandbarnie.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://bessieandbarnie.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://bessieandbarnie.com/cdn/shop/t/47/assets/base.css?v=99965754739946283121782429848",
+      "final_url": "https://bessieandbarnie.com/cdn/shop/t/47/assets/base.css?v=99965754739946283121782429848",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0ca2df7442761ce35019588006c71a53b58673d09fd728b6416cf3213e57827d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://bessieandbarnie.com/cdn/shop/t/47/assets/owl.carousel.min.css?v=70516089817612781961729253198",
+      "final_url": "https://bessieandbarnie.com/cdn/shop/t/47/assets/owl.carousel.min.css?v=70516089817612781961729253198",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "521410e1fc44780061e09adc980275fb5ea277fd5d9e538454214ec4379ff4bc",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198",
+      "final_url": "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7633b7c0c97d19e682feee8afa2738523fcb2a14544a550572caeecd2eefe66b",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198",
+      "final_url": "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ee5800b6c1cff9e883f23a2eb54147b3d6730368a817060ca6efbd9d2db665a4",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 136,
+      "sources": [
+        "https://bessieandbarnie.com/",
+        "https://bessieandbarnie.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/base.css?v=99965754739946283121782429848",
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198",
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "#000000": {
+      "count": 96,
+      "sources": [
+        "https://bessieandbarnie.com/",
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/base.css?v=99965754739946283121782429848",
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/owl.carousel.min.css?v=70516089817612781961729253198",
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198",
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "#212529": {
+      "count": 41,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#0d6efd": {
+      "count": 35,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#6c757d": {
+      "count": 33,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#30291c": {
+      "count": 31,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "#dc3545": {
+      "count": 25,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#198754": {
+      "count": 25,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#1e4455": {
+      "count": 23,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "#dee2e6": {
+      "count": 21,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#f8f9fa": {
+      "count": 18,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#ffc107": {
+      "count": 17,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#0dcaf0": {
+      "count": 17,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#f9df53": {
+      "count": 13,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "#e9ecef": {
+      "count": 12,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#0a58ca": {
+      "count": 9,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#ffc500": {
+      "count": 8,
+      "sources": [
+        "https://bessieandbarnie.com/"
+      ]
+    },
+    "#f9fafb": {
+      "count": 7,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#adb5bd": {
+      "count": 5,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#084298": {
+      "count": 5,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#41464b": {
+      "count": 5,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#0f5132": {
+      "count": 5,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#055160": {
+      "count": 5,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#664d03": {
+      "count": 5,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#842029": {
+      "count": 5,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#636464": {
+      "count": 5,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#141619": {
+      "count": 5,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#e4e4e4": {
+      "count": 5,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "#86b7fe": {
+      "count": 4,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#565e64": {
+      "count": 4,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#146c43": {
+      "count": 4,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#b02a37": {
+      "count": 4,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#1a1e21": {
+      "count": 4,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 3,
+      "sources": [
+        "https://bessieandbarnie.com/",
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "#eeeeee": {
+      "count": 3,
+      "sources": [
+        "https://bessieandbarnie.com/"
+      ]
+    },
+    "#ffffff00": {
+      "count": 3,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/base.css?v=99965754739946283121782429848"
+      ]
+    },
+    "#cfe2ff": {
+      "count": 3,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#bacbe6": {
+      "count": 3,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#e2e3e5": {
+      "count": 3,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#cbccce": {
+      "count": 3,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#d1e7dd": {
+      "count": 3,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#bcd0c7": {
+      "count": 3,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#cff4fc": {
+      "count": 3,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#badce3": {
+      "count": 3,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#fff3cd": {
+      "count": 3,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#e6dbb9": {
+      "count": 3,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#f8d7da": {
+      "count": 3,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#dfc2c4": {
+      "count": 3,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#ced4da": {
+      "count": 3,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#b6d4fe": {
+      "count": 3,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#25cff2": {
+      "count": 3,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#ffc720": {
+      "count": 3,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#495057": {
+      "count": 3,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#242833": {
+      "count": 2,
+      "sources": [
+        "https://bessieandbarnie.com/"
+      ]
+    },
+    "#334fb4": {
+      "count": 2,
+      "sources": [
+        "https://bessieandbarnie.com/"
+      ]
+    },
+    "#555555": {
+      "count": 2,
+      "sources": [
+        "https://bessieandbarnie.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/base.css?v=99965754739946283121782429848"
+      ]
+    },
+    "#d63384": {
+      "count": 2,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#343a40": {
+      "count": 2,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#dfe0e1": {
+      "count": 2,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#373b3e": {
+      "count": 2,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#dde0e3": {
+      "count": 2,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#0b5ed7": {
+      "count": 2,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#5c636a": {
+      "count": 2,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#157347": {
+      "count": 2,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#31d2f2": {
+      "count": 2,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#3dd5f3": {
+      "count": 2,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#ffca2c": {
+      "count": 2,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#ffcd39": {
+      "count": 2,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#bb2d3b": {
+      "count": 2,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#1c1f23": {
+      "count": 2,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#fefefe": {
+      "count": 2,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#d3d3d4": {
+      "count": 2,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 2,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#1d4355": {
+      "count": 2,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "#6c757d30": {
+      "count": 2,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "#1d1d1d": {
+      "count": 2,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "#010101": {
+      "count": 2,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "#fff1e3": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/"
+      ]
+    },
+    "#412d00": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/"
+      ]
+    },
+    "#108474": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000080": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/base.css?v=99965754739946283121782429848"
+      ]
+    },
+    "#e53935": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/base.css?v=99965754739946283121782429848"
+      ]
+    },
+    "#6610f2": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#6f42c1": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#fd7e14": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#20c997": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#fcf8e3": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#c5d7f2": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#bfd1ec": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#d7d8da": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#d1d2d4": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#c7dbd2": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#c1d6cc": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#c5e8ef": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#bfe2e9": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#f2e7c3": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#ece1be": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#eccccf": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#e5c7ca": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#ecedee": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#e5e6e7": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#2c3034": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#323539": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#0a53be": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#51585e": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#13653f": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#a52834": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#191c1f": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#1e2125": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#0c63e4": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#e7f1ff": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#06357a": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#d3d6d8": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#34383c": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#badbcc": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#0c4128": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#b6effb": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#04414d": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#ffecb5": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#523e02": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#f5c2c7": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#6a1a21": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#fdfdfe": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#4f5050": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#bcbebf": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#101214": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#bebebf": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "#25616c": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "#f9e053": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "#eaf1f4": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "#f5eeea": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "#6c757d7a": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "#3a3a3a": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "#cecece": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "#dadada": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "#9c9c9c": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "#5fa1be": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "#d8d8d8": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "#ec9e18": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "#3d4246": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "#66a7c4": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "#1a6080": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "#00000052": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "#d6d6d6": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "#fcfcfc": {
+      "count": 1,
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    }
+  },
+  "font_families": {
+    "Aeonik_Pro_Light": [
+      "https://bessieandbarnie.com/",
+      "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+    ],
+    "Aeonik_Pro_Regular": [
+      "https://bessieandbarnie.com/",
+      "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+    ],
+    "Aeonik_Pro_Regular!important": [
+      "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+    ],
+    "Assistant": [
+      "https://bessieandbarnie.com/"
+    ],
+    "JudgemeStar": [
+      "https://bessieandbarnie.com/"
+    ],
+    "Open Sans": [
+      "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+    ],
+    "OpenSans-Regular": [
+      "https://bessieandbarnie.com/",
+      "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+    ],
+    "Platypi-ExtraBold": [
+      "https://bessieandbarnie.com/",
+      "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+    ],
+    "Platypi-Regular": [
+      "https://bessieandbarnie.com/",
+      "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+    ],
+    "Platypi-SemiBold": [
+      "https://bessieandbarnie.com/",
+      "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+    ],
+    "Poppins-Bold": [
+      "https://bessieandbarnie.com/",
+      "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+    ],
+    "Poppins-Light": [
+      "https://bessieandbarnie.com/",
+      "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+    ],
+    "Poppins-Light!important": [
+      "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+    ],
+    "Poppins-Medium": [
+      "https://bessieandbarnie.com/",
+      "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+    ],
+    "Poppins-Regular": [
+      "https://bessieandbarnie.com/",
+      "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+    ],
+    "Poppins-Regular!important": [
+      "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+    ],
+    "Poppins-SemiBold": [
+      "https://bessieandbarnie.com/",
+      "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+    ],
+    "Poppins-SemiBold!important": [
+      "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+    ],
+    "sans-serif": [
+      "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://bessieandbarnie.com/",
+      "selector": ":root,\n        .color-scheme-1",
+      "declarations": "--color-background: 255,255,255;\n        \n          --gradient-background: #ffffff;\n        \n\n        \n\n        --color-foreground: 18,18,18;\n        --color-background-contrast: 191,191,191;\n        --color-shadow: 18,18,18;\n        --color-button: 18,18,18;\n        --color-button-text: 255,255,255;\n        --color-secondary-button: 255,255,255;\n        --color-secondary-button-text: 18,18,18;\n        --color-link: 18,18,18;\n        --color-badge-foreground: 18,18,18;\n        --color-badge-background: 255,255,255;\n        --color-badge-border: 18,18,18;\n        --payment-terms-background-color: rgb(255 255 255);"
+    },
+    {
+      "source": "https://bessieandbarnie.com/",
+      "selector": "body, .color-scheme-1, .color-scheme-2, .color-scheme-3, .color-scheme-4, .color-scheme-5, .color-scheme-850214df-424d-4ede-a8dc-268e0664f762, .color-scheme-842",
+      "declarations": "color: rgba(var(--color-foreground), 0.75);\n        background-color: rgb(var(--color-background));"
+    },
+    {
+      "source": "https://bessieandbarnie.com/",
+      "selector": "body",
+      "declarations": "display: grid;\n        grid-template-rows: auto auto 1fr auto;\n        grid-template-columns: 100%;\n        min-height: 100%;\n        margin: 0;\n        font-size: 1.5rem;\n        letter-spacing: 0.06rem;\n        line-height: calc(1 + 0.8 / var(--font-body-scale));\n        font-family: var(--font-body-family);\n        font-style: var(--font-body-style);\n        font-weight: var(--font-body-weight);"
+    },
+    {
+      "source": "https://bessieandbarnie.com/",
+      "selector": ":root",
+      "declarations": "--shopify-chat-bg-color: #FFFFFF;\n    --shopify-chat-text-color: #000000;\n    --shopify-chat-accent-bg-color: #000000;\n    --shopify-chat-accent-text-color: #FFFFFF;\n    --shopify-chat-activator-offset: 20px;\n\n    \n\n    --shopify-chat-activator-font-size: 16px;\n    --shopify-chat-border-radius: 16px;"
+    },
+    {
+      "source": "https://bessieandbarnie.com/",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #FFC500;--jdgm-secondary-color: rgba(255,197,0,0.1);--jdgm-star-color: #FFC500;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #FFC500;--jdgm-paginate-color: #FFC500;--jdgm-border-radius: 0;--jdgm-reviewer-name-color: #FFC500"
+    },
+    {
+      "source": "https://bessieandbarnie.com/",
+      "selector": "#shopify-section-template--18555809300735__slideshow_k9cPiC .banner__buttons",
+      "declarations": "background-color: black;"
+    },
+    {
+      "source": "https://bessieandbarnie.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://bessieandbarnie.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://bessieandbarnie.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://bessieandbarnie.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://bessieandbarnie.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://bessieandbarnie.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://bessieandbarnie.com/cdn/shop/t/47/assets/base.css?v=99965754739946283121782429848",
+      "selector": ":root",
+      "declarations": "--alpha-button-background: 1;--alpha-button-border: 1;--alpha-link: .85;--alpha-badge-border: .1"
+    },
+    {
+      "source": "https://bessieandbarnie.com/cdn/shop/t/47/assets/base.css?v=99965754739946283121782429848",
+      "selector": ".product-card-wrapper .card,.contains-card--product",
+      "declarations": "--border-radius: var(--product-card-corner-radius);--border-width: var(--product-card-border-width);--border-opacity: var(--product-card-border-opacity);--shadow-horizontal-offset: var(--product-card-shadow-horizontal-offset);--shadow-vertical-offset: var(--product-card-shadow-vertical-offset);--shadow-blur-radius: var(--product-card-shadow-blur-radius);--shadow-opacity: var(--product-card-shadow-opacity);--shadow-visible: var(--product-card-shadow-visible);--image-padding: var(--product-card-image-padding);--text-alignment: var(--product-card-text-alignment)"
+    },
+    {
+      "source": "https://bessieandbarnie.com/cdn/shop/t/47/assets/base.css?v=99965754739946283121782429848",
+      "selector": ".text-body",
+      "declarations": "font-size:1.5rem;letter-spacing:.06rem;line-height:calc(1 + .8 / var(--font-body-scale));font-family:var(--font-body-family);font-style:var(--font-body-style);font-weight:var(--font-body-weight)"
+    },
+    {
+      "source": "https://bessieandbarnie.com/cdn/shop/t/47/assets/base.css?v=99965754739946283121782429848",
+      "selector": "h1,h2,h3,h4,h5,.h0,.h1,.h2,.h3,.h4,.h5",
+      "declarations": "font-family:var(--font-heading-family);font-style:var(--font-heading-style);font-weight:var(--font-heading-weight);letter-spacing:calc(var(--font-heading-scale) * .06rem);color:rgb(var(--color-foreground));line-height:calc(1 + .3/max(1,var(--font-heading-scale)));word-break:break-word"
+    },
+    {
+      "source": "https://bessieandbarnie.com/cdn/shop/t/47/assets/base.css?v=99965754739946283121782429848",
+      "selector": ":root",
+      "declarations": "--duration-short: .1s;--duration-default: .2s;--duration-announcement-bar: .25s;--duration-medium: .3s;--duration-long: .5s;--duration-extra-long: .6s;--duration-extra-longer: .75s;--duration-extended: 3s;--ease-out-slow: cubic-bezier(0, 0, .3, 1);--animation-slide-in: slideIn var(--duration-extra-long) var(--ease-out-slow) forwards;--animation-fade-in: fadeIn var(--duration-extra-long) var(--ease-out-slow)"
+    },
+    {
+      "source": "https://bessieandbarnie.com/cdn/shop/t/47/assets/base.css?v=99965754739946283121782429848",
+      "selector": ".button--secondary,.button--tertiary",
+      "declarations": "--color-button: var(--color-secondary-button);--color-button-text: var(--color-secondary-button-text)"
+    },
+    {
+      "source": "https://bessieandbarnie.com/cdn/shop/t/47/assets/base.css?v=99965754739946283121782429848",
+      "selector": ".button--tertiary",
+      "declarations": "--alpha-button-background: 0;--alpha-button-border: .2"
+    },
+    {
+      "source": "https://bessieandbarnie.com/cdn/shop/t/47/assets/base.css?v=99965754739946283121782429848",
+      "selector": "nge__button,.customer button,button.shopify-payment-button__button--unbranded,.shopify-payment-button [role=button],.cart__dynamic-checkout-buttons [role=button",
+      "declarations": "--shadow-horizontal-offset: var(--buttons-shadow-horizontal-offset);--shadow-vertical-offset: var(--buttons-shadow-vertical-offset);--shadow-blur-radius: var(--buttons-shadow-blur-radius);--shadow-opacity: var(--buttons-shadow-opacity);--shadow-visible: var(--buttons-shadow-visible);--border-offset: var(--buttons-border-offset);--border-opacity: calc(1 - var(--buttons-border-opacity));border-radius:var(--buttons-radius-outset);position:relative"
+    },
+    {
+      "source": "https://bessieandbarnie.com/cdn/shop/t/47/assets/base.css?v=99965754739946283121782429848",
+      "selector": ".button,.shopify-challenge__button,.customer button",
+      "declarations": "display:inline-flex;justify-content:center;align-items:center;border:0;padding:0 3rem;cursor:pointer;font:inherit;font-size:1.5rem;text-decoration:none;color:rgb(var(--color-button-text));transition:box-shadow var(--duration-short) ease;-webkit-appearance:none;appearance:none;background-color:rgba(var(--color-button),var(--alpha-button-background))"
+    },
+    {
+      "source": "https://bessieandbarnie.com/cdn/shop/t/47/assets/base.css?v=99965754739946283121782429848",
+      "selector": ".button:not([disabled]):hover:after,.shopify-challenge__button:hover:after,.customer button:hover:after,.shopify-payment-button__button--unbranded:hover:after",
+      "declarations": "--border-offset: 1.3px;box-shadow:0 0 0 calc(var(--buttons-border-width) + var(--border-offset)) rgba(var(--color-button-text),var(--border-opacity)),0 0 0 calc(var(--buttons-border-width) + 1px) rgba(var(--color-button),var(--alpha-button-background))"
+    },
+    {
+      "source": "https://bessieandbarnie.com/cdn/shop/t/47/assets/base.css?v=99965754739946283121782429848",
+      "selector": ".button--secondary:after",
+      "declarations": "--border-opacity: var(--buttons-border-opacity)"
+    },
+    {
+      "source": "https://bessieandbarnie.com/cdn/shop/t/47/assets/base.css?v=99965754739946283121782429848",
+      "selector": ".button::selection,.shopify-challenge__button::selection,.customer button::selection",
+      "declarations": "background-color:rgba(var(--color-button-text),.3)"
+    },
+    {
+      "source": "https://bessieandbarnie.com/cdn/shop/t/47/assets/base.css?v=99965754739946283121782429848",
+      "selector": ".button.loading",
+      "declarations": "color:transparent;position:relative"
+    },
+    {
+      "source": "https://bessieandbarnie.com/cdn/shop/t/47/assets/base.css?v=99965754739946283121782429848",
+      "selector": ".button.loading",
+      "declarations": "color:rgb(var(--color-foreground))"
+    },
+    {
+      "source": "https://bessieandbarnie.com/cdn/shop/t/47/assets/base.css?v=99965754739946283121782429848",
+      "selector": ".share-button__button",
+      "declarations": "font-size:1.4rem;display:flex;align-items:center;color:rgb(var(--color-link));margin-left:0;padding-left:0;min-height:4.4rem"
+    },
+    {
+      "source": "https://bessieandbarnie.com/cdn/shop/t/47/assets/base.css?v=99965754739946283121782429848",
+      "selector": ".share-button__button,.share-button__fallback button",
+      "declarations": "cursor:pointer;background-color:transparent;border:none"
+    },
+    {
+      "source": "https://bessieandbarnie.com/cdn/shop/t/47/assets/base.css?v=99965754739946283121782429848",
+      "selector": ".share-button__fallback button:hover",
+      "declarations": "color:rgba(var(--color-foreground),.75)"
+    },
+    {
+      "source": "https://bessieandbarnie.com/cdn/shop/t/47/assets/base.css?v=99965754739946283121782429848",
+      "selector": ".share-button__close,.share-button__copy",
+      "declarations": "background-color:transparent;color:rgb(var(--color-foreground))"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Luxurious Custom-Made Dog Products | Bessie + Barnie\n – Bessie and Barnie",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bessieandbarnie.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bessieandbarnie.com/",
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/base.css?v=99965754739946283121782429848",
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/owl.carousel.min.css?v=70516089817612781961729253198",
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198",
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bessieandbarnie.com/",
+        "https://bessieandbarnie.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/base.css?v=99965754739946283121782429848",
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198",
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bessieandbarnie.com/",
+        "https://bessieandbarnie.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/base.css?v=99965754739946283121782429848",
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198",
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bessieandbarnie.com/",
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/base.css?v=99965754739946283121782429848",
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/owl.carousel.min.css?v=70516089817612781961729253198",
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198",
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "colors.accent-navy": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "colors.accent-clay": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/custom.css?v=88264458128768643861729253198"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "colors.focus-ring": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bessieandbarnie.com/cdn/shop/t/47/assets/bootstrap.min.css?v=29195500391666890861729253198"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.fabric-swatch-selector": {
+      "status": "inferred"
+    }
+  }
+}

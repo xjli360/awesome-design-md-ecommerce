@@ -1,0 +1,885 @@
+{
+  "source_url": "https://deltachildren.com",
+  "final_url": "https://www.deltachildren.com/",
+  "captured_at": "2026-09-28T04:52:38.540511+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://deltachildren.com",
+      "final_url": "https://www.deltachildren.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "5132ed08fffed104be3676a82ed114f7490cc2e3668a8595d70988371a0f01d6",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "final_url": "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5dea578a0b614179ebb3fdd447babe0ee089e12db0cf1d4384a2c090d79065aa",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832",
+      "final_url": "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a0ce7a5ce607e920d6674c2d1eeb670dbcf3175bb07a32d78da145ca5642db08",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700&display=swap",
+      "final_url": "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "bd00c789617c97db9a89b87c0275c6937283dce8c531cb8eae62499dc7f8077a",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Inter:300,400,500,600,700&display=swap",
+      "final_url": "https://fonts.googleapis.com/css?family=Inter:300,400,500,600,700&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "f32c4a47e91d69963b14071620db2a259d6751bd2dd56feaadadae83eff10727",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.deltachildren.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.deltachildren.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#3575ca": {
+      "count": 155,
+      "sources": [
+        "https://www.deltachildren.com/",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+      ]
+    },
+    "#ffffff": {
+      "count": 151,
+      "sources": [
+        "https://www.deltachildren.com/",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832",
+        "https://www.deltachildren.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000000": {
+      "count": 79,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832",
+        "https://www.deltachildren.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#c6c6c6": {
+      "count": 79,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+      ]
+    },
+    "#666666": {
+      "count": 75,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+      ]
+    },
+    "#424242": {
+      "count": 54,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+      ]
+    },
+    "#fafafa": {
+      "count": 32,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+      ]
+    },
+    "#2f68b1": {
+      "count": 28,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+      ]
+    },
+    "#00000033": {
+      "count": 25,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    },
+    "#0000001a": {
+      "count": 25,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+      ]
+    },
+    "#00000005": {
+      "count": 23,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+      ]
+    },
+    "#00000009": {
+      "count": 20,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    },
+    "#00000007": {
+      "count": 20,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    },
+    "#000000": {
+      "count": 19,
+      "sources": [
+        "https://www.deltachildren.com/",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+      ]
+    },
+    "#efefef": {
+      "count": 19,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    },
+    "#00bbff": {
+      "count": 18,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+      ]
+    },
+    "#2b5ea1": {
+      "count": 18,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+      ]
+    },
+    "#dfe9f6": {
+      "count": 18,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    },
+    "#2a5ea2": {
+      "count": 16,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+      ]
+    },
+    "#0000000b": {
+      "count": 16,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    },
+    "#357d05": {
+      "count": 10,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    },
+    "#cccccc": {
+      "count": 9,
+      "sources": [
+        "https://www.deltachildren.com/",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+      ]
+    },
+    "#aec8ea": {
+      "count": 9,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    },
+    "#cfdef2": {
+      "count": 8,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    },
+    "#eff4fb": {
+      "count": 8,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    },
+    "#1e1e1e": {
+      "count": 8,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+      ]
+    },
+    "#3caee5": {
+      "count": 6,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+      ]
+    },
+    "#8eb2e1": {
+      "count": 5,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    },
+    "#adadad": {
+      "count": 5,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+      ]
+    },
+    "#e5eac1": {
+      "count": 5,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+      ]
+    },
+    "#0000000a": {
+      "count": 4,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    },
+    "#3575ca1a": {
+      "count": 4,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    },
+    "#333333": {
+      "count": 4,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+      ]
+    },
+    "#1e549a": {
+      "count": 4,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    },
+    "#959595": {
+      "count": 4,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    },
+    "#9ae2f2": {
+      "count": 4,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+      ]
+    },
+    "#eeeeee": {
+      "count": 3,
+      "sources": [
+        "https://www.deltachildren.com/"
+      ]
+    },
+    "#fceeee": {
+      "count": 3,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    },
+    "#2d63ac": {
+      "count": 3,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 3,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+      ]
+    },
+    "#0000006b": {
+      "count": 3,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    },
+    "#f7deee": {
+      "count": 3,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 3,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+      ]
+    },
+    "#6b3a2a": {
+      "count": 2,
+      "sources": [
+        "https://www.deltachildren.com/"
+      ]
+    },
+    "#999999": {
+      "count": 2,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+      ]
+    },
+    "#ececec": {
+      "count": 2,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    },
+    "#407cca33": {
+      "count": 2,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    },
+    "#00000030": {
+      "count": 2,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    },
+    "#409606": {
+      "count": 2,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    },
+    "#c3201e": {
+      "count": 2,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    },
+    "#c1c6c8": {
+      "count": 2,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    },
+    "#285898": {
+      "count": 2,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+      ]
+    },
+    "#a6a6a6": {
+      "count": 2,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+      ]
+    },
+    "#161d25": {
+      "count": 2,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    },
+    "#6666660d": {
+      "count": 2,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    },
+    "#66666640": {
+      "count": 2,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    },
+    "#407cca66": {
+      "count": 2,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    },
+    "#00000003": {
+      "count": 2,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    },
+    "#00000014": {
+      "count": 2,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    },
+    "#eef3fb": {
+      "count": 2,
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+    ],
+    "Avenir Black": [
+      "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+    ],
+    "Gotham": [
+      "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+    ],
+    "Helvetica": [
+      "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+    ],
+    "Inter": [
+      "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "https://fonts.googleapis.com/css?family=Inter:300,400,500,600,700&display=swap"
+    ],
+    "JudgemeStar": [
+      "https://www.deltachildren.com/"
+    ],
+    "Poppins": [
+      "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832",
+      "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700&display=swap"
+    ],
+    "RIFFIC": [
+      "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+    ],
+    "Sweety Tea": [
+      "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+    ],
+    "Typewriter": [
+      "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+    ],
+    "font-awesome-stars": [
+      "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+    ],
+    "monospace": [
+      "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+    ],
+    "sans-serif": [
+      "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.deltachildren.com/",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #3575CA;--jdgm-secondary-color: rgba(53,117,202,0.1);--jdgm-star-color: #3575CA;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #3575CA;--jdgm-paginate-color: #3575CA;--jdgm-border-radius: 0;--jdgm-reviewer-name-color: #3575CA"
+    },
+    {
+      "source": "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:sans-serif;font-size:100%;line-height:1.15;margin:0"
+    },
+    {
+      "source": "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "selector": ".slick-dots li button",
+      "declarations": "background:#0000;background:#fff;border:0;border-radius:50%;color:#0000;cursor:pointer;display:block;font-size:0;height:5px;line-height:0px;opacity:.5;outline:none;padding:3px;transition:all .15s ease;width:5px"
+    },
+    {
+      "source": "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "selector": ".carousel-nav-circle .slick-next,.carousel-nav-circle .slick-prev,.product__reviews .shopify-product-reviews .slick-next,.product__reviews .shopify-product-revi",
+      "declarations": "background-color:#fff;border:2px solid #c6c6c6;border-radius:100%;top:0;transform:translateY(-120%);transition:background-color .15s,opacity .15s,box-shadow .15s"
+    },
+    {
+      "source": "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "selector": ".carousel-nav-circle .slick-next:hover,.carousel-nav-circle .slick-prev:hover,.product__reviews .shopify-product-reviews .slick-next:hover,.product__reviews .sh",
+      "declarations": "background-color:#fafafa"
+    },
+    {
+      "source": "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "selector": ".numbered-dots .slick-dots li.slick-active button",
+      "declarations": "background-color:#ececec;transform:scale(1)"
+    },
+    {
+      "source": "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "selector": ".numbered-dots .slick-dots li button",
+      "declarations": "border:1px solid #0003;color:#666;display:block;font-size:12px;height:40px;opacity:1;width:40px"
+    },
+    {
+      "source": "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "selector": "body",
+      "declarations": "color:#666;font-size:14px;font-weight:400"
+    },
+    {
+      "source": "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "selector": "body,h1,h2,h3,h4,h5,h6",
+      "declarations": "font-family:Poppins,Helvetica,Arial,sans-serif"
+    },
+    {
+      "source": "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "selector": ".accessories-item-pre-order .text--error,.accessory-content .text--error,.product__form-extra-hint .text--error",
+      "declarations": "color:#666!important"
+    },
+    {
+      "source": "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "selector": ".accordion__item__header",
+      "declarations": "align-items:center;background-color:#fafafa;border:0;border-radius:4px;color:#424242;display:flex;font-family:Poppins,Helvetica,Arial,sans-serif;font-size:16px;font-weight:400;justify-content:space-between;line-height:1.5;outline:none;padding:12px 16px 12px 24px;position:relative;text-align:left;transition:box-shadow .15s;white-space:normal;width:100%;z-index:10"
+    },
+    {
+      "source": "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "selector": ".accordion__item__header.collapsed",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "selector": ".accordion__item__header.collapsed:hover",
+      "declarations": "background-color:#fafafa"
+    },
+    {
+      "source": "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "selector": ".accordion__item__header-icon",
+      "declarations": "color:#3575ca;margin-right:12px"
+    },
+    {
+      "source": "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "selector": ".accordion__item__body",
+      "declarations": "background-color:#fafafa;border-bottom-left-radius:4px;border-bottom-right-radius:4px;border-top:1px dashed #0000001a;font-size:14px;letter-spacing:.15px;line-height:1.5;padding:12px 24px 20px;position:relative;z-index:5"
+    },
+    {
+      "source": "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "selector": ".button,.tabs__list-item:not(.tabs__list-item--underlined) a",
+      "declarations": "-webkit-appearance:none;appearance:none;background-color:#0000;border:0;border-radius:8px;border-style:solid;border-width:1px;display:inline-block;font-family:Poppins,Helvetica,Arial,sans-serif;font-size:15px;font-weight:700;line-height:1;outline:none;padding:15px 30px;text-align:center;text-decoration:none;transition:all .15s ease-in-out;-webkit-user-select:none;user-select:none;vertical-align:middle;white-space:nowrap;width:auto"
+    },
+    {
+      "source": "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "selector": ".button--primary",
+      "declarations": "background-color:#3575ca;border-color:#3575ca;color:#fff"
+    },
+    {
+      "source": "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "selector": ".button--primary:hover",
+      "declarations": "background-color:#2d63ac;border-color:#2a5ea2;color:#fff"
+    },
+    {
+      "source": "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "selector": ".button--primary.disabled,.button--primary:disabled",
+      "declarations": "background-color:#3575ca;background-image:none;border-color:#3575ca;color:#fff"
+    },
+    {
+      "source": "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "selector": ".button--primary:not(:disabled):not(.disabled).active,.button--primary:not(:disabled):not(.disabled):active,.show>.button--primary.dropdown-toggle",
+      "declarations": "background-color:#2a5ea2;background-image:none;border-color:#285898;color:#fff"
+    },
+    {
+      "source": "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "selector": ".button--outline-gray,.tabs__list-item:not(.tabs__list-item--underlined) a",
+      "declarations": "border-color:#c6c6c6;color:#c6c6c6"
+    },
+    {
+      "source": "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "selector": ".button--outline-gray:hover,.tabs__list-item:not(.tabs__list-item--underlined) a:hover",
+      "declarations": "background-color:#c6c6c6;border-color:#c6c6c6;color:#000"
+    },
+    {
+      "source": "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "selector": ".button--outline-gray.disabled,.button--outline-gray:disabled,.tabs__list-item:not(.tabs__list-item--underlined) a.disabled,.tabs__list-item:not(.tabs__list-ite",
+      "declarations": "background-color:#0000;color:#c6c6c6"
+    },
+    {
+      "source": "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "selector": ".button--outline-gray,.tabs__list-item:not(.tabs__list-item--underlined) a",
+      "declarations": "background:#fff;color:#666"
+    },
+    {
+      "source": "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "selector": ".button--outline-gray:hover,.tabs__list-item:not(.tabs__list-item--underlined) a:hover",
+      "declarations": "background-color:#3575ca;border-color:#3575ca;color:#fff"
+    },
+    {
+      "source": "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "selector": ".button--outline-gray:active,.button--outline-gray:not(:disabled):not(.disabled):active,.tabs__list-item:not(.tabs__list-item--underlined) a:active",
+      "declarations": "background-color:#2a5ea2;border-color:#2a5ea2;color:#fff"
+    },
+    {
+      "source": "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "selector": ".button--outline-gray:focus,.tabs__list-item:not(.tabs__list-item--underlined) a:focus",
+      "declarations": "border-color:#3575ca"
+    },
+    {
+      "source": "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "selector": ".show>.button--outline-gray.dropdown-toggle,.tabs__list-item:not(.tabs__list-item--underlined) .show>a.dropdown-toggle",
+      "declarations": "background-color:#2a5ea2;border-color:#2a5ea2;color:#fff"
+    },
+    {
+      "source": "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "selector": ".button--dissabled,.button:disabled,.button[disabled],.tabs__list-item:not(.tabs__list-item--underlined) a:disabled,.tabs__list-item:not(.tabs__list-item--under",
+      "declarations": "background-color:#c6c6c6;border-color:#c6c6c6;color:#000;color:#fff!important;pointer-events:none"
+    },
+    {
+      "source": "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+      "selector": "-dissabled:hover,.button:disabled:hover,.button[disabled]:hover,.tabs__list-item:not(.tabs__list-item--underlined) a:disabled:hover,.tabs__list-item:not(.tabs__",
+      "declarations": "background-color:#b3b3b3;border-color:#adadad;color:#000"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Delta Children",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.deltachildren.com/",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+      ]
+    },
+    "colors.primary-border-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.deltachildren.com/",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832",
+        "https://www.deltachildren.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.deltachildren.com/",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832",
+        "https://www.deltachildren.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.deltachildren.com/",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394",
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/template.index.dist.css?v=162377971697632254801787687832",
+        "https://www.deltachildren.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-tint": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    },
+    "colors.accent-line": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    },
+    "colors.error": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.deltachildren.com/cdn/shop/t/1039/assets/layout.theme.dist.css?v=73265922686384887361790088394"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.cart-drawer": {
+      "status": "inferred"
+    }
+  }
+}

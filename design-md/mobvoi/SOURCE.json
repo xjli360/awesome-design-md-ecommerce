@@ -1,0 +1,389 @@
+{
+  "source_url": "https://www.mobvoi.com",
+  "final_url": "https://www.mobvoi.com/us",
+  "captured_at": "2026-09-29T04:18:12.764269+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://www.mobvoi.com",
+      "final_url": "https://www.mobvoi.com/us",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "3879999637fb91caf78112c654dfac638327f041b61909d5edd9214637f65203",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.mobvoi.com/us#computed-style-snapshot",
+      "final_url": "https://www.mobvoi.com/us#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "d9b1288056b5bc090e181f41cb008b11b64efcbf166127addb3c805ad5282aa5",
+      "snapshot": "rendered-style-1.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 55,
+      "sources": [
+        "https://www.mobvoi.com/us",
+        "https://www.mobvoi.com/us#computed-style-snapshot"
+      ]
+    },
+    "#333333": {
+      "count": 44,
+      "sources": [
+        "https://www.mobvoi.com/us",
+        "https://www.mobvoi.com/us#computed-style-snapshot"
+      ]
+    },
+    "#232427": {
+      "count": 36,
+      "sources": [
+        "https://www.mobvoi.com/us#computed-style-snapshot"
+      ]
+    },
+    "#3e3a39": {
+      "count": 28,
+      "sources": [
+        "https://www.mobvoi.com/us#computed-style-snapshot"
+      ]
+    },
+    "#0000ee": {
+      "count": 26,
+      "sources": [
+        "https://www.mobvoi.com/us#computed-style-snapshot"
+      ]
+    },
+    "#000000": {
+      "count": 13,
+      "sources": [
+        "https://www.mobvoi.com/us",
+        "https://www.mobvoi.com/us#computed-style-snapshot"
+      ]
+    },
+    "#0091ff": {
+      "count": 3,
+      "sources": [
+        "https://www.mobvoi.com/us"
+      ]
+    },
+    "#999999": {
+      "count": 2,
+      "sources": [
+        "https://www.mobvoi.com/us#computed-style-snapshot"
+      ]
+    },
+    "#3487dc": {
+      "count": 1,
+      "sources": [
+        "https://www.mobvoi.com/us"
+      ]
+    },
+    "#ff5c5c": {
+      "count": 1,
+      "sources": [
+        "https://www.mobvoi.com/us"
+      ]
+    },
+    "#f23434": {
+      "count": 1,
+      "sources": [
+        "https://www.mobvoi.com/us"
+      ]
+    },
+    "#767676": {
+      "count": 1,
+      "sources": [
+        "https://www.mobvoi.com/us#computed-style-snapshot"
+      ]
+    }
+  },
+  "font_families": {
+    "Microsoft JhengHei": [
+      "https://www.mobvoi.com/us#computed-style-snapshot"
+    ],
+    "Microsoft YaHei": [
+      "https://www.mobvoi.com/us#computed-style-snapshot"
+    ],
+    "SFProText": [
+      "https://www.mobvoi.com/us"
+    ],
+    "SFProText-Bold": [
+      "https://www.mobvoi.com/us"
+    ],
+    "SimHei": [
+      "https://www.mobvoi.com/us#computed-style-snapshot"
+    ],
+    "WenQuanYi Micro Hei": [
+      "https://www.mobvoi.com/us#computed-style-snapshot"
+    ],
+    "sans-serif": [
+      "https://www.mobvoi.com/us#computed-style-snapshot"
+    ],
+    "sfTextBold": [
+      "https://www.mobvoi.com/us#computed-style-snapshot"
+    ],
+    "sfTextRegular": [
+      "https://www.mobvoi.com/us#computed-style-snapshot"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.mobvoi.com/us",
+      "selector": ".header-buy-btn",
+      "declarations": "background: #3487dc;\n    font-size: 15px;\n    height: 26px;\n    line-height: 26px;\n    text-align: center;\n    position: relative;\n    float: left;\n    width: 60px;\n    color: #fff;\n    border-radius: 20px;\n    display: block;\n    margin-right: 0;"
+    },
+    {
+      "source": "https://www.mobvoi.com/us",
+      "selector": ".header-buy-btn .buy-btn",
+      "declarations": "color: #fff;"
+    },
+    {
+      "source": "https://www.mobvoi.com/us",
+      "selector": ".header .site-map .site-select-icon",
+      "declarations": "display: inline-block;\n    font-size: 14px;\n    color: #000;"
+    },
+    {
+      "source": "https://www.mobvoi.com/us",
+      "selector": ".index-banner-img .btn-more",
+      "declarations": "display: block;\n        width: 2.4rem;\n        height: .64rem;\n        line-height: .64rem;\n        font-size: .21rem;\n        color: inherit;\n        box-sizing: border-box;\n        text-align: center;\n        margin-top: .7rem;\n        border: 1px solid #fff;\n        text-transform: capitalize;"
+    },
+    {
+      "source": "https://www.mobvoi.com/us",
+      "selector": ".banner-word-mode-topCenter .btn-more",
+      "declarations": "border-color:#fff;\n        margin: 22px auto 0 auto;"
+    },
+    {
+      "source": "https://www.mobvoi.com/us",
+      "selector": ".subscribe button[data-v-8a7b8212]",
+      "declarations": "width:3.74rem;height:0.48rem;background:#0091FF;font-weight:bold;color:#FFFFFF;font-size:0.18rem;border:none;display:block;margin:auto;margin-top:0.2rem;cursor:pointer"
+    },
+    {
+      "source": "https://www.mobvoi.com/us#computed-style-snapshot",
+      "selector": ".sample-0-body",
+      "declarations": "color:rgb(0, 0, 0);background-color:rgb(255, 255, 255);border-top-color:rgb(0, 0, 0);font-family:sfTextRegular, \"Microsoft JhengHei\", \"Microsoft YaHei\", SimHei, \"WenQuanYi Micro Hei\", sans-serif"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "Mobvoi.com – TicNote AI Notetaker, TicWatch, Treadmills | Official Site",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "d0d830da4fbed6a6551ad67fb36677d886420fd1d8e5422545531f49b5c4499f"
+    }
+  ],
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mobvoi.com/us"
+      ]
+    },
+    "colors.primary-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mobvoi.com/us"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mobvoi.com/us",
+        "https://www.mobvoi.com/us#computed-style-snapshot"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mobvoi.com/us",
+        "https://www.mobvoi.com/us#computed-style-snapshot"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mobvoi.com/us",
+        "https://www.mobvoi.com/us#computed-style-snapshot"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mobvoi.com/us#computed-style-snapshot"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mobvoi.com/us#computed-style-snapshot"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mobvoi.com/us#computed-style-snapshot"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mobvoi.com/us#computed-style-snapshot"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mobvoi.com/us",
+        "https://www.mobvoi.com/us#computed-style-snapshot"
+      ]
+    },
+    "colors.accent-sale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mobvoi.com/us"
+      ]
+    },
+    "colors.accent-sale-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mobvoi.com/us"
+      ]
+    },
+    "colors.link": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mobvoi.com/us#computed-style-snapshot"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-highlight": {
+      "status": "inferred"
+    }
+  }
+}

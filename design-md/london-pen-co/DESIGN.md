@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: London Pen Co.
-description: |
+name: "London Pen Co."
+source_url: "https://www.londonpenco.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Ink-pool navy (#112233) forms the brand's gravitational center — a blue so dark it reads as black until placed beside the slightly warmer near-blacks (#272727, #111111) that carry body type, revealing the cool depth underneath. London Pen Co. mounts Rubik as its primary typeface: a geometric sans-serif with subtly softened terminals that keeps the all-dark palette from reading as corporate severity. The red-family secondaries (#cc3b3b, #bd0000) function as punctuation rather than identity — CTA buttons, sale badges, price highlights — evoking the lacquered barrel of a classic British pen without literal illustration or heritage cliché. A dusty rose tone (#e99292) softens error and discount states, giving the alert palette warmth rather than alarm. The near-white canvas (#fafafa) and soft surfaces (#fbfbfb, #eeeeee) create just enough lift beneath dark typographic elements without the clinical brightness of pure white.
 
   Buttons carry virtually no rounding ({rounded.xs}), their squared silhouette echoing ruled lines and nib geometry rather than the pill shapes that signal app-era softness. Navigation stays lean — dark text on light canvas, no mega-menu excess — communicating a focused SKU range where pen type, nib grade, and ink color are the meaningful filters. Product cards sit on {colors.surface-card} with a {rounded.sm} edge, a thin {colors.hairline} border, and price rendered in {colors.accent} on sale, signaling markdown without shouting. The spacing system stays compressed at the component level ({spacing.sm}, {spacing.md}) and opens only at section breaks ({spacing.section}, {spacing.xxl}), giving the catalog a grid-book density appropriate to a product line measured in millimeters. The overall result is a storefront built for precision craft: spare, direct, weighted by color rather than ornament — the palette of a well-stocked writing desk, rendered in pixels.
@@ -343,6 +346,8 @@ components:
 - Collection header headline: {typography.display-md} → {typography.title-md} on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No `meta theme-color` was detected; mobile browser chrome color is unknown — assume {colors.primary} (#112233) for consistency with the `nav-bar-dark` variant
 - Font weight range in use is unconfirmed; Rubik supports 300–900 but only weights 400, 500, and 600–700 are specified here based on visual inference from category conventions

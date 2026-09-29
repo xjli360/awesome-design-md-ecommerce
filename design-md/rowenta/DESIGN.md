@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Rowenta
-description: |
+name: "Rowenta"
+source_url: "https://www.rowentausa.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Oxanium in the hero masthead — a geometric display face more at home on esports scoreboards and aerospace instrument panels than small-appliance retail — signals Rowenta's design intent before the first product photograph loads: precision expressed as a visual register, not a marketing claim. That typeface choice anchors a palette built on a specific saturated azure (#2768b1) that reads neither corporate-generic nor tech-startup; it sits in the middle register of confidence, recalling the blue of German precision-engineering brands without the heaviness of navy. The primary azure carries CTAs, category tabs, active states, and link-hover cues; a darker cousin (#34679f) deepens on press; a mid-tone sibling (#4480c2) handles disabled states without disappearing into the canvas.
 
   Red (#eb322f) enters as a narrowly deployed interrupt. Sale badges, urgency labels, and promotional announcement strips use it — never a primary navigation or CTA color. The pairing creates a legible two-channel signal: blue means confirm and navigate, red means act now on value. Soft pink (#f48e8c) surfaces only in tinted promotional backgrounds where the accent needs to breathe rather than alarm.
@@ -413,6 +416,8 @@ components:
 - Footer column grid collapses from 4 columns to 2 (tablet) to 1 (mobile) with accordion disclosure for link lists on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No `meta theme-color` tag detected; PWA/install accent color unconfirmed
 - Oxanium usage scope uncertain — may be limited to logo/wordmark or select headline instances rather than a full display type system; verify by inspecting hero heading computed styles

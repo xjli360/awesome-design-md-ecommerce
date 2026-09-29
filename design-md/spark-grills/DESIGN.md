@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Spark Grills
-description: |
+name: "Spark Grills"
+source_url: "https://www.sparkgrills.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Charcoal inside a sealed, steel-shelled chamber with a brushless fan wired to a Bluetooth stack — Spark Grills converts the oldest cooking method into something you dial by degree from a phone. The site matches the product's logic: a dark carbon ground (`#111111`) holds the hero, while a single combustion orange (`#E8500A`) marks every interactive state, live temperature readout, and primary CTA. Nothing competes with it. Product photography shoots the grill from low angles under dramatic side-light, letting the lid geometry read as precision hardware rather than patio furniture.
 
   Type leans on a geometric sans weighted for drama in display positions (56px, 700) and dropped to clean 16px/400 for body copy — a range wide enough that a feature headline like "±5°F accuracy" reads as a spec claim rather than marketing padding. Letter-spacing tightens at large sizes (`-0.5px`) to close the visual gaps that open in dark-on-dark compositions. The color system avoids midtone warmth: no amber, no tan, no wood-brown despite the BBQ category. That restraint signals engineering confidence rather than barbecue kitsch.
@@ -357,6 +360,8 @@ components:
 - Sticky cart bar is present on Mobile and Tablet only; hidden at Desktop where the hero CTA anchor is always visible.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **No hex colors extracted**: The extraction returned zero color values. All palette entries in this file are estimated from brand name, product category, and aesthetic conventions. Every hex value must be verified against the live site at https://www.sparkgrills.com before production use.
 - **No font families extracted**: The typeface stack shown (`Inter, -apple-system, ...`) is a plausible geometric-sans placeholder. The actual brand font — possibly a custom or licensed face — must be confirmed from the live site's CSS or design assets.

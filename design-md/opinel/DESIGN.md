@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Opinel
-description: A rugged, heritage-driven French cutlery brand that has been crafting knives since 1890, Opinel’s design system is a study in restrained utility and alpine warmth. The palette is anchored by a deep, confident navy (`#003767`) that appears on primary buttons, the top navigation bar, and the brand’s signature logo lockup — a color that evokes the Savoyard mountains and the brand’s storied past. This is balanced by a warm, golden yellow (`#ffb217`) used for accent badges, sale indicators, and hover states, injecting a sense of craftsmanship and approachability. The canvas is a clean, off-white (`#f5f0ec`), reminiscent of aged beechwood handles, while surfaces and cards use a soft, cool gray (`#dbe4eb` or `#f7f7f7`) to keep the focus on the product photography. Typography is a mix of industrial strength and editorial elegance: the primary display and button text uses ConduitITC in Bold and Medium weights — a condensed, geometric sans-serif that feels like a stamp on a wooden crate — while body copy and captions rely on Poster Bodoni, a high-contrast serif that adds a touch of Parisian atelier. The system avoids hard corners in interactive elements; buttons and search bars use `{rounded.sm}` (8px) radii, while product cards and badges soften to `{rounded.md}` (12px). A muted gray (`#6c757d`) handles secondary text and disabled states, and a vivid red (`#c70000`) is reserved for error states, sale badges, and the brand’s iconic “Opinel” logo dot. The overall mood is one of honest, functional beauty — a design system that doesn’t shout, but lets the steel and wood speak.
+name: "Opinel"
+source_url: "https://www.opinel-usa.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A rugged, heritage-driven French cutlery brand that has been crafting knives since 1890, Opinel’s design system is a study in restrained utility and alpine warmth. The palette is anchored by a deep, confident navy (`#003767`) that appears on primary buttons, the top navigation bar, and the brand’s signature logo lockup — a color that evokes the Savoyard mountains and the brand’s storied past. This is balanced by a warm, golden yellow (`#ffb217`) used for accent badges, sale indicators, and hover states, injecting a sense of craftsmanship and approachability. The canvas is a clean, off-white (`#f5f0ec`), reminiscent of aged beechwood handles, while surfaces and cards use a soft, cool gray (`#dbe4eb` or `#f7f7f7`) to keep the focus on the product photography. Typography is a mix of industrial strength and editorial elegance: the primary display and button text uses ConduitITC in Bold and Medium weights — a condensed, geometric sans-serif that feels like a stamp on a wooden crate — while body copy and captions rely on Poster Bodoni, a high-contrast serif that adds a touch of Parisian atelier. The system avoids hard corners in interactive elements; buttons and search bars use `{rounded.sm}` (8px) radii, while product cards and badges soften to `{rounded.md}` (12px). A muted gray (`#6c757d`) handles secondary text and disabled states, and a vivid red (`#c70000`) is reserved for error states, sale badges, and the brand’s iconic “Opinel” logo dot. The overall mood is one of honest, functional beauty — a design system that doesn’t shout, but lets the steel and wood speak.
 
 colors:
   primary: "#003767"
@@ -326,6 +330,8 @@ components:
 - Product card grids reduce from 4 columns to 2 columns on tablet, and 1 column on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for `button-secondary` and `button-accent-gold` are inferred from common patterns; exact color values may vary.
 - Error styling for form inputs (e.g., error messages, iconography) is not fully extracted; only the border color change is documented.

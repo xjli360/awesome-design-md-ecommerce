@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Barefaced
-description: Barefaced is a skincare brand that communicates calm, clinical confidence through a restrained palette anchored on a deep forest green (`#0e3c31`) and a warm off-white canvas (`#fdf7f0`). The brand's voice is one of expert minimalism — it promises "simplified skincare" and delivers that promise through generous whitespace, soft edges (`{rounded.md}` for cards, `{rounded.sm}` for buttons), and a typographic hierarchy that pairs the clean, modern sans-serif of Inter with the editorial warmth of Newsreader. The primary green (`{colors.primary}`) appears on every CTA button and key accent, while a muted sage (`#e5edeb`) and a soft neutral (`#dedede`) provide background depth without competing for attention. A vibrant lime (`#ecfbb0`) and a coral accent (`#ef8367`) are used sparingly for badges, sale markers, and secondary highlights, injecting just enough energy to keep the palette from feeling somber. The overall mood is spa-meets-science: trustworthy, unhurried, and utterly free of the frantic, high-saturation tropes common in mass skincare. Every design decision — from the pill-shaped search bar to the generous `{spacing.section}` between product rows — reinforces the idea that skincare should be simple, effective, and beautiful.
+name: "Barefaced"
+source_url: "https://www.barefaced.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Barefaced is a skincare brand that communicates calm, clinical confidence through a restrained palette anchored on a deep forest green (`#0e3c31`) and a warm off-white canvas (`#fdf7f0`). The brand's voice is one of expert minimalism — it promises "simplified skincare" and delivers that promise through generous whitespace, soft edges (`{rounded.md}` for cards, `{rounded.sm}` for buttons), and a typographic hierarchy that pairs the clean, modern sans-serif of Inter with the editorial warmth of Newsreader. The primary green (`{colors.primary}`) appears on every CTA button and key accent, while a muted sage (`#e5edeb`) and a soft neutral (`#dedede`) provide background depth without competing for attention. A vibrant lime (`#ecfbb0`) and a coral accent (`#ef8367`) are used sparingly for badges, sale markers, and secondary highlights, injecting just enough energy to keep the palette from feeling somber. The overall mood is spa-meets-science: trustworthy, unhurried, and utterly free of the frantic, high-saturation tropes common in mass skincare. Every design decision — from the pill-shaped search bar to the generous `{spacing.section}` between product rows — reinforces the idea that skincare should be simple, effective, and beautiful.
 
 colors:
   primary: "#0e3c31"
@@ -337,6 +341,8 @@ components:
 - The hero section's side-by-side layout collapses to a stacked layout on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components could not be fully extracted; only primary and secondary buttons have confirmed hover/active colors.
 - Error styling for forms (validation messages, error icons) is inferred from common patterns; exact error text color and iconography are not confirmed.

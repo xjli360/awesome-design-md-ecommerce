@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Hero Cosmetics
-description: A brand built for the acne-prone, Hero Cosmetics speaks in a warm, honest vernacular anchored on a creamy off-white canvas of {colors.canvas} (#fcfaf7) and a deep, almost-charcoal ink of {colors.ink} (#231f20). The palette is intentionally restrained—earthy neutrals like {colors.muted} (#42403a) and {colors.muted-soft} (#a29f9a) provide structure, while a soft gold {colors.primary} (#fadca9) serves as the brand's primary voltage, appearing in CTAs, badges, and product highlights. This is not a clinical, sterile skincare brand; it feels lived-in and approachable, with gentle accents of blush (#ffeaea), sage (#f4fbf7), and sky blue (#d0eaf7) that surface in ingredient callouts and educational modules. Typography leans on a dual system: the display faces are the elegant, hand-drawn BerettaSans (in Regular, Bold, and Light weights) and the quirky Etna-LightItalic, while body copy and buttons use the sturdy, geometric FuturaPT family (Book, Demi, Bold, Heavy). The result is a brand that feels both artisanal and trustworthy—like a friend who happens to be a dermatologist. Signature design moves include pill-shaped buttons ({rounded.full}), soft card corners ({rounded.md} ~12px), and generous whitespace that gives the skin-care routines room to breathe. The Shopify platform underpins a clean, conversion-focused layout where product cards use a subtle {colors.hairline} (#dedede) border and the primary CTA glows in {colors.primary} (#fadca9) against the warm canvas.
+name: "Hero Cosmetics"
+source_url: "https://www.herocosmetics.us"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A brand built for the acne-prone, Hero Cosmetics speaks in a warm, honest vernacular anchored on a creamy off-white canvas of {colors.canvas} (#fcfaf7) and a deep, almost-charcoal ink of {colors.ink} (#231f20). The palette is intentionally restrained—earthy neutrals like {colors.muted} (#42403a) and {colors.muted-soft} (#a29f9a) provide structure, while a soft gold {colors.primary} (#fadca9) serves as the brand's primary voltage, appearing in CTAs, badges, and product highlights. This is not a clinical, sterile skincare brand; it feels lived-in and approachable, with gentle accents of blush (#ffeaea), sage (#f4fbf7), and sky blue (#d0eaf7) that surface in ingredient callouts and educational modules. Typography leans on a dual system: the display faces are the elegant, hand-drawn BerettaSans (in Regular, Bold, and Light weights) and the quirky Etna-LightItalic, while body copy and buttons use the sturdy, geometric FuturaPT family (Book, Demi, Bold, Heavy). The result is a brand that feels both artisanal and trustworthy—like a friend who happens to be a dermatologist. Signature design moves include pill-shaped buttons ({rounded.full}), soft card corners ({rounded.md} ~12px), and generous whitespace that gives the skin-care routines room to breathe. The Shopify platform underpins a clean, conversion-focused layout where product cards use a subtle {colors.hairline} (#dedede) border and the primary CTA glows in {colors.primary} (#fadca9) against the warm canvas.
 
 colors:
   primary: "#fadca9"
@@ -443,6 +447,8 @@ components:
 - Product detail accordions default to collapsed on mobile, expanded on desktop
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for secondary and tertiary buttons (color shifts, underlines) could not be reliably extracted
 - Error state styling for form inputs (border colors, error message typography) not observed

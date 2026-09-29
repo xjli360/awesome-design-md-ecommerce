@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Ugreen
-description: A matte-black-and-green electronics ecosystem built for the charging-drawer crowd — the brand that makes the cables, hubs, and power banks you never think about until you need one, and then you reach for the one with the #007934 leaf. That green, a deep chlorophyll, is the single brand voltage: it appears on the primary CTA, the logo mark, the LED ring on a GaN charger, and the silicone tie on a braided USB-C cable. The canvas is a cool #f8f8f8, not pure white — a deliberate off-white that reads as technical rather than retail, closer to a tool manufacturer than a phone-case brand. Typography runs Metropolis at moderate weights (500–600 for display, 400 for body), never heavy; the brand trusts product photography — glossy black plastic, brushed aluminum, glowing green ports — over typographic muscle. Cards and buttons use soft {rounded.sm} corners, while the hero search bar and category pills go {rounded.full}, creating a friendly, approachable feel for what is fundamentally industrial hardware. The nav bar is a dark band at #121212 with white text, a rare inversion that signals "pro" or "premium" without shouting. Badges for "New," "Sale," and "Best Seller" appear in #8b0000 and #ee9441 — a red and an orange that break the green/gray scheme intentionally, like warning lights on a control panel. The footer collapses into a dense, link-heavy grid on mobile, but the product grid stays generous, with 16px gutters and 12px card padding that keep the browsing experience airy despite the technical subject matter.
+name: "Ugreen"
+source_url: "https://www.ugreen.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A matte-black-and-green electronics ecosystem built for the charging-drawer crowd — the brand that makes the cables, hubs, and power banks you never think about until you need one, and then you reach for the one with the #007934 leaf. That green, a deep chlorophyll, is the single brand voltage: it appears on the primary CTA, the logo mark, the LED ring on a GaN charger, and the silicone tie on a braided USB-C cable. The canvas is a cool #f8f8f8, not pure white — a deliberate off-white that reads as technical rather than retail, closer to a tool manufacturer than a phone-case brand. Typography runs Metropolis at moderate weights (500–600 for display, 400 for body), never heavy; the brand trusts product photography — glossy black plastic, brushed aluminum, glowing green ports — over typographic muscle. Cards and buttons use soft {rounded.sm} corners, while the hero search bar and category pills go {rounded.full}, creating a friendly, approachable feel for what is fundamentally industrial hardware. The nav bar is a dark band at #121212 with white text, a rare inversion that signals "pro" or "premium" without shouting. Badges for "New," "Sale," and "Best Seller" appear in #8b0000 and #ee9441 — a red and an orange that break the green/gray scheme intentionally, like warning lights on a control panel. The footer collapses into a dense, link-heavy grid on mobile, but the product grid stays generous, with 16px gutters and 12px card padding that keep the browsing experience airy despite the technical subject matter.
 
 colors:
   primary: "#007934"
@@ -352,6 +356,8 @@ components:
 - Product detail page: On mobile, the image gallery becomes a single-column swipeable carousel, and the "Add to Cart" bar sticks to the bottom of the viewport.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components could not be fully extracted from the static site; only primary button and product card hover states were observed.
 - Error states for forms (validation messages, error icons) were not visible in the extracted data.

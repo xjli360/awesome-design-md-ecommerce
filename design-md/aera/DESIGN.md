@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Aera
-description: Aera is a home fragrance system that marries precision engineering with quiet luxury, communicating its value through a palette of calm, collected tones. The brand's primary identity is built on a deep, confident navy (`#002360`) that appears across CTAs, navigation elements, and key product details, anchoring the experience with a sense of reliability and sophistication. This is balanced by a warm, off-white canvas (`#fcfaf8`) that feels softer and more inviting than a pure white, creating a gentle backdrop for product photography and text. A secondary, lighter blue (`#eef4fa`) is used for subtle surface fills and hover states, while a muted stone (`#dedede`) and a soft clay (`#f6ece2`) provide gentle contrast for borders and secondary elements. The accent palette introduces a vibrant cerulean (`#1990c6`) and a deeper teal (`#136f99`) for interactive elements like links, badges, and secondary buttons, adding a layer of freshness and modernity. The typographic system, while not explicitly declared in the extracted data, is assumed to follow a clean, highly legible sans-serif family, likely a geometric or neo-grotesque, to maintain the brand's uncluttered and precise aesthetic. The overall feel is one of curated calm—every element, from the `{rounded.sm}` button corners to the generous `{spacing.section}` padding, is designed to feel intentional and unobtrusive, letting the product and its scent stories take center stage. The brand avoids visual noise, relying on a restrained color system and ample whitespace to evoke a sense of premium, effortless luxury.
+name: "Aera"
+source_url: "https://www.aeraforhome.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Aera is a home fragrance system that marries precision engineering with quiet luxury, communicating its value through a palette of calm, collected tones. The brand's primary identity is built on a deep, confident navy (`#002360`) that appears across CTAs, navigation elements, and key product details, anchoring the experience with a sense of reliability and sophistication. This is balanced by a warm, off-white canvas (`#fcfaf8`) that feels softer and more inviting than a pure white, creating a gentle backdrop for product photography and text. A secondary, lighter blue (`#eef4fa`) is used for subtle surface fills and hover states, while a muted stone (`#dedede`) and a soft clay (`#f6ece2`) provide gentle contrast for borders and secondary elements. The accent palette introduces a vibrant cerulean (`#1990c6`) and a deeper teal (`#136f99`) for interactive elements like links, badges, and secondary buttons, adding a layer of freshness and modernity. The typographic system, while not explicitly declared in the extracted data, is assumed to follow a clean, highly legible sans-serif family, likely a geometric or neo-grotesque, to maintain the brand's uncluttered and precise aesthetic. The overall feel is one of curated calm—every element, from the `{rounded.sm}` button corners to the generous `{spacing.section}` padding, is designed to feel intentional and unobtrusive, letting the product and its scent stories take center stage. The brand avoids visual noise, relying on a restrained color system and ample whitespace to evoke a sense of premium, effortless luxury.
 
 colors:
   primary: "#002360"
@@ -352,6 +356,8 @@ components:
 - Search bars may be hidden behind an icon on mobile, expanding to full width on tap.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The exact font family used by Aera could not be reliably extracted. The typography tokens assume a standard system sans-serif stack (`'Helvetica Neue', Helvetica, Arial, sans-serif`). A custom brand font (e.g., a proprietary geometric sans-serif) may be in use.
 - Hover and focus states for many components (e.g., product cards, footer links, accordion items) are inferred from common patterns and may not match the live site exactly.

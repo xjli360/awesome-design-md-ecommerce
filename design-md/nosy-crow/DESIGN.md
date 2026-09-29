@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Nosy Crow
-description: A children's book publisher whose visual identity is built on a deep, confident blue — #003388 — that appears across the site as the primary brand color, used for the logo, navigation, and key interactive elements. This blue is paired with a clean white canvas (#ffffff) and a secondary accent of #ff9900, a warm orange that appears in badges, promotional elements, and hover states, creating a friendly, energetic contrast. The typography relies on Arial and Helvetica, a pragmatic choice that ensures readability across devices, with a restrained approach to weight variation — most body text sits at 400 weight, while headings and buttons use 600-700 for clear hierarchy. The design language is straightforward and accessible, with rounded corners on buttons and cards using {rounded.sm} (8px) and {rounded.md} (12px), avoiding the harshness of sharp edges while maintaining a clean, uncluttered layout. The overall feel is that of a well-organized library — calm, inviting, and focused on content discovery rather than visual spectacle. The extracted color palette includes a wide range of blues (#003399, #0693e3, #0a7aff) and grays (#eeeeee, #cdcdcd, #949494), but the distinctive #003388 stands out as the brand's true primary, while #ff9900 provides the necessary warmth for calls-to-action and children-oriented elements. The site uses generous whitespace and a grid-based layout that prioritizes book covers and illustrations, with the brand blue serving as a consistent anchor throughout the browsing experience.
+name: "Nosy Crow"
+source_url: "https://nosycrow.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A children's book publisher whose visual identity is built on a deep, confident blue — #003388 — that appears across the site as the primary brand color, used for the logo, navigation, and key interactive elements. This blue is paired with a clean white canvas (#ffffff) and a secondary accent of #ff9900, a warm orange that appears in badges, promotional elements, and hover states, creating a friendly, energetic contrast. The typography relies on Arial and Helvetica, a pragmatic choice that ensures readability across devices, with a restrained approach to weight variation — most body text sits at 400 weight, while headings and buttons use 600-700 for clear hierarchy. The design language is straightforward and accessible, with rounded corners on buttons and cards using {rounded.sm} (8px) and {rounded.md} (12px), avoiding the harshness of sharp edges while maintaining a clean, uncluttered layout. The overall feel is that of a well-organized library — calm, inviting, and focused on content discovery rather than visual spectacle. The extracted color palette includes a wide range of blues (#003399, #0693e3, #0a7aff) and grays (#eeeeee, #cdcdcd, #949494), but the distinctive #003388 stands out as the brand's true primary, while #ff9900 provides the necessary warmth for calls-to-action and children-oriented elements. The site uses generous whitespace and a grid-based layout that prioritizes book covers and illustrations, with the brand blue serving as a consistent anchor throughout the browsing experience.
 
 colors:
   primary: "#003388"
@@ -409,6 +413,8 @@ components:
 - Breadcrumbs truncate to show only the last two levels on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Extracted font declarations were limited to Arial, Helvetica, and serif — the brand may use a custom web font (e.g., for headings) that wasn't captured in the extraction
 - The extracted color palette is unusually large (30+ colors), suggesting many are from third-party widgets (social icons, payment buttons, stock images) rather than the brand's true design system

@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Gnome
-description: |
+name: "Gnome"
+source_url: "https://trygnome.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Charcoal dominates the viewport before any green appears — Gnome's digital presence opens on near-black (#161616) hero panels where a compact robotic mower floats against darkness like a product render in a pitch deck, not a garden catalog. The palette extracted from the live site skews entirely monochrome (#222222 ink, #161616 deep background, #c2c2c2/#d9d9d9 for secondary surfaces), suggesting the brand treats green not as an ambient wash but as a surgical accent — a single-color voltage reserved for CTAs, status indicators, and the lawn itself in lifestyle photography. Typography defaults to the system stack (system-ui, -apple-system, Segoe UI, Helvetica, sans-serif) at clean weights, giving the interface a native-app crispness that reinforces the "smart device" positioning over "outdoor power equipment." Corners stay tight — `{rounded.sm}` on buttons, `{rounded.xs}` on input fields — projecting engineering precision rather than consumer friendliness. Spacing runs generous at section boundaries (`{spacing.section}` 64px+) to let product imagery breathe, while interior card padding stays compact (`{spacing.md}` to `{spacing.base}`), creating a rhythm that alternates between cinematic pause and dense specification tables. The overall system reads as a hardware-tech brand that happens to live outdoors: dark, controlled, data-rich, with moments of vivid green breaking through like a freshly cut stripe on a dark lawn.
 
 colors:
@@ -381,6 +384,8 @@ components:
 - Hero CTA buttons: horizontal row on desktop, vertical full-width stack on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Site blocked by anti-bot verification** — page title returned "Bot Verification," meaning all extracted colors (#222222, #161616, #c2c2c2, #d9d9d9) likely represent the challenge page, not the actual brand design. The monochrome palette used here is inferred from those values but may not match the live product pages.
 - **Primary green (#3db549) is an informed estimate** — Gnome is a lawn-care robotics brand where green is the expected accent, but the exact hex could not be verified from extraction. The true primary may differ in hue or saturation.

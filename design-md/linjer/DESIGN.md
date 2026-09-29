@@ -1,27 +1,11 @@
 ---
 version: alpha
-name: Linjer
-description: >-
-  The product image carries the entire persuasion load on a Linjer page — a solid-gold ring
-  photographed flat against near-white, no props, no model hand, no soft-focus lifestyle blur.
-  Everything else in the UI steps deliberately back: body copy at 15px in the system sans stack,
-  a near-black #313131 deployed simultaneously as link text, input borders, and the fill of the
-  single primary CTA, and a warm-cream ground (#f9f7f4) that signals luxury through restraint
-  rather than ornamentation. There is no brand voltage color competing for the eye; the metals on
-  sale are the palette. Navigation holds a wordmark-first layout with links at weight 400 rather
-  than 600 — no fills, no pills on hover, just an underline — and the top bar sits short enough
-  to feel editorial rather than retail-storefront. Product cards are containerless: no box-shadow,
-  no border stroke, just image-above-text in a tight grid where negative space does the
-  separating. Material selectors — Yellow Gold, White Gold, Sterling Silver — use text chips with
-  {rounded.full} geometry, the only soft curve that appears regularly in the brand's chrome;
-  every button and input field uses {rounded.none}, keeping softness in the product rather than
-  the interface chrome. Spacing is the primary luxury signal — sections breathe at 80px vertical,
-  product detail pages give each specification its own line rather than cramming metadata into a
-  dense paragraph, and the checkout flow strips sidebars entirely on mobile for an unhurried
-  single-column experience. Badge overlays on product images are absent; urgency mechanics like
-  countdown timers and low-stock banners do not appear. Button labels run in small uppercase with
-  0.08em tracking — deliberate and calm. A dark footer in the same #313131 that anchors body text
-  closes each page with the same ink that opened it, a quiet full-circle close.
+name: "Linjer"
+source_url: "https://www.linjer.co"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The product image carries the entire persuasion load on a Linjer page — a solid-gold ring photographed flat against near-white, no props, no model hand, no soft-focus lifestyle blur. Everything else in the UI steps deliberately back: body copy at 15px in the system sans stack, a near-black #313131 deployed simultaneously as link text, input borders, and the fill of the single primary CTA, and a warm-cream ground (#f9f7f4) that signals luxury through restraint rather than ornamentation. There is no brand voltage color competing for the eye; the metals on sale are the palette. Navigation holds a wordmark-first layout with links at weight 400 rather than 600 — no fills, no pills on hover, just an underline — and the top bar sits short enough to feel editorial rather than retail-storefront. Product cards are containerless: no box-shadow, no border stroke, just image-above-text in a tight grid where negative space does the separating. Material selectors — Yellow Gold, White Gold, Sterling Silver — use text chips with {rounded.full} geometry, the only soft curve that appears regularly in the brand's chrome; every button and input field uses {rounded.none}, keeping softness in the product rather than the interface chrome. Spacing is the primary luxury signal — sections breathe at 80px vertical, product detail pages give each specification its own line rather than cramming metadata into a dense paragraph, and the checkout flow strips sidebars entirely on mobile for an unhurried single-column experience. Badge overlays on product images are absent; urgency mechanics like countdown timers and low-stock banners do not appear. Button labels run in small uppercase with 0.08em tracking — deliberate and calm. A dark footer in the same #313131 that anchors body text closes each page with the same ink that opened it, a quiet full-circle close.
 
 colors:
   primary: "#313131"
@@ -385,6 +369,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Full color palette unextracted**: site returned an anti-bot challenge page ("Just a moment...") — only one hex value (#313131) was captured. Warm cream surface (#f9f7f4), gold accent (#c4a46a), and hairline tones are inferred from fine-jewelry brand conventions, not confirmed extraction.
 - **Custom typeface unknown**: no custom font-family detected; extraction returned only OS/system font stacks. Linjer may load a proprietary or licensed typeface (possibly a geometric sans or editorial serif) via JS or a font host not captured. All typography tokens use the system stack as fallback — replace with confirmed family when available.

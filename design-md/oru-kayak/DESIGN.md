@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Oru Kayak
-description: A folding kayak brand that uses a deep, confident blue (#1743b8) as its primary voltage — the same blue that anchors the brand's CTAs, header backgrounds, and product highlights, evoking open water and reliable gear. The palette is unexpectedly broad: alongside that core blue sit a warm orange (#f47721) used for sale badges and promotional accents, a coral-pink (#f04860) for limited-edition or special markers, and a muted sage (#7f89b4) that appears in secondary navigation and footer areas. The site runs on a clean white canvas (#f8f8f8) with soft gray surfaces (#ededed, #e3e3e3) for cards and sections, creating a layered, approachable feel that balances adventure-readiness with e-commerce clarity. Typography mixes DM Serif Display for hero headings — a choice that signals craftsmanship and heritage — with Open Sans and Arial for body and UI text, keeping readability high across product detail pages and comparison tables. Buttons use {rounded.sm} corners, product cards use {rounded.md}, and the overall spacing rhythm (base 16px, section 64px) gives each product photo room to breathe. The brand's folding-kayak innovation is communicated through generous whitespace, clear hierarchy, and a color system that never overwhelms the product imagery.
+name: "Oru Kayak"
+source_url: "https://www.orukayak.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A folding kayak brand that uses a deep, confident blue (#1743b8) as its primary voltage — the same blue that anchors the brand's CTAs, header backgrounds, and product highlights, evoking open water and reliable gear. The palette is unexpectedly broad: alongside that core blue sit a warm orange (#f47721) used for sale badges and promotional accents, a coral-pink (#f04860) for limited-edition or special markers, and a muted sage (#7f89b4) that appears in secondary navigation and footer areas. The site runs on a clean white canvas (#f8f8f8) with soft gray surfaces (#ededed, #e3e3e3) for cards and sections, creating a layered, approachable feel that balances adventure-readiness with e-commerce clarity. Typography mixes DM Serif Display for hero headings — a choice that signals craftsmanship and heritage — with Open Sans and Arial for body and UI text, keeping readability high across product detail pages and comparison tables. Buttons use {rounded.sm} corners, product cards use {rounded.md}, and the overall spacing rhythm (base 16px, section 64px) gives each product photo room to breathe. The brand's folding-kayak innovation is communicated through generous whitespace, clear hierarchy, and a color system that never overwhelms the product imagery.
 
 colors:
   primary: "#1743b8"
@@ -460,6 +464,8 @@ components:
 - Accordion content is always collapsed by default on mobile to reduce vertical scroll
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted color palette is unusually large (30+ colors), suggesting the site may pull in colors from Shopify checkout widgets, social media icons, and product imagery. The true brand palette likely centers on the blue (#1743b8), orange (#f47721), and white (#f8f8f8), with the remaining colors being secondary or contextual.
 - Font-family declarations included "din-2014" and "yotpo-widget-font" which are likely from third-party integrations (reviews, widgets) rather than core brand typography. The primary brand fonts appear to be DM Serif Display (headings) and Open Sans (body/UI).

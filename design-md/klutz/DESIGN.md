@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Klutz
-description: A brand that treats craft instruction like a playground manual — bright, direct, and unafraid of mess. Klutz’s visual system is built on a white canvas (#ffffff) that lets the saturated product photography do the heavy lifting, with a primary accent of #e3000f — a stop-sign red that appears on the logo, instructional arrows, and key call-to-action buttons, giving every page a sense of confident, no-nonsense guidance. The typography runs a clean sans-serif stack (Arial, Helvetica, system-ui) at moderate weights, never competing with the step-by-step photography that is the real content hero. Cards and buttons use a soft 8px radius (`{rounded.sm}`), friendly without being childish, while the product grid relies on generous 24px gaps (`{spacing.lg}`) and a consistent 16px padding inside every tile. The brand’s signature move is the “Klutz Certified” badge — a small, red-accented label that appears on product cards and detail pages, signaling that the item has been kid-tested and approved. Navigation is minimal: a simple top bar with the logo, a search icon, and a cart icon, all in `{colors.ink}` (#222222) against the white canvas. The footer is dense but structured, with links organized under bold category headers and a prominent “Klutz Guarantee” callout in `{colors.muted}` (#666666). There is no gradient, no shadow-heavy card, no decorative flourish — every design decision serves clarity and action, mirroring the brand’s promise that “the book comes with everything you need.”
+name: "Klutz"
+source_url: "https://www.scholastic.com/klutz"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A brand that treats craft instruction like a playground manual — bright, direct, and unafraid of mess. Klutz’s visual system is built on a white canvas (#ffffff) that lets the saturated product photography do the heavy lifting, with a primary accent of #e3000f — a stop-sign red that appears on the logo, instructional arrows, and key call-to-action buttons, giving every page a sense of confident, no-nonsense guidance. The typography runs a clean sans-serif stack (Arial, Helvetica, system-ui) at moderate weights, never competing with the step-by-step photography that is the real content hero. Cards and buttons use a soft 8px radius (`{rounded.sm}`), friendly without being childish, while the product grid relies on generous 24px gaps (`{spacing.lg}`) and a consistent 16px padding inside every tile. The brand’s signature move is the “Klutz Certified” badge — a small, red-accented label that appears on product cards and detail pages, signaling that the item has been kid-tested and approved. Navigation is minimal: a simple top bar with the logo, a search icon, and a cart icon, all in `{colors.ink}` (#222222) against the white canvas. The footer is dense but structured, with links organized under bold category headers and a prominent “Klutz Guarantee” callout in `{colors.muted}` (#666666). There is no gradient, no shadow-heavy card, no decorative flourish — every design decision serves clarity and action, mirroring the brand’s promise that “the book comes with everything you need.”
 
 colors:
   primary: "#e3000f"
@@ -378,6 +382,8 @@ components:
 - Accordion sections are collapsed by default on mobile and tablet, with only the first section expanded on desktop.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No extracted font-family declarations were found on the live site. The typography stack uses a generic sans-serif fallback (Arial, Helvetica, system-ui) based on common web defaults. The brand may use a custom typeface (e.g., Klutz-branded font) that was not detectable from the error page crawl.
 - No extracted hex colors were returned from the live site crawl (the page title was “Error Page”). The primary color (#e3000f) and all other color tokens are inferred from the Klutz brand identity as documented in public materials (logo, packaging, and product photography). This is a best-effort reconstruction, not a live extraction.

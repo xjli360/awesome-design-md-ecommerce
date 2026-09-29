@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Blu Atlas
-description: A men's grooming brand that wraps its natural-ingredient promise in a high-contrast monochrome shell, where #141414 ink sits against #f6f6f6 canvas and the only color permission comes from product photography and the occasional green (#006400) or orange (#ee9441) accent in ingredient callouts. The site runs Instrument Sans and Instrument Serif — a contemporary sans/serif pair that gives editorial weight to product descriptions without feeling like a luxury fashion house. Buttons are flat, full-width rectangles with {rounded.sm} corners, no gradient, no shadow — the brand trusts its product shots and ingredient lists to do the selling. The top nav is a simple left-aligned logo with right-aligned utility links (Search, Account, Cart) in {colors.muted} text, and the product grid uses generous {spacing.xxl} gutters that let each bottle breathe. What stands out is the absence of typical men's-brand signifiers: no dark leather textures, no brushed metal, no "rugged" typography. Instead, Blu Atlas uses clean white space, serif body text at 16px, and a restrained palette where #c8c8c8 hairline lines separate sections. The brand's voice is clinical but warm — like a dermatologist who happens to write poetry about vitamin C serums.
+name: "Blu Atlas"
+source_url: "https://bluatlas.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A men's grooming brand that wraps its natural-ingredient promise in a high-contrast monochrome shell, where #141414 ink sits against #f6f6f6 canvas and the only color permission comes from product photography and the occasional green (#006400) or orange (#ee9441) accent in ingredient callouts. The site runs Instrument Sans and Instrument Serif — a contemporary sans/serif pair that gives editorial weight to product descriptions without feeling like a luxury fashion house. Buttons are flat, full-width rectangles with {rounded.sm} corners, no gradient, no shadow — the brand trusts its product shots and ingredient lists to do the selling. The top nav is a simple left-aligned logo with right-aligned utility links (Search, Account, Cart) in {colors.muted} text, and the product grid uses generous {spacing.xxl} gutters that let each bottle breathe. What stands out is the absence of typical men's-brand signifiers: no dark leather textures, no brushed metal, no "rugged" typography. Instead, Blu Atlas uses clean white space, serif body text at 16px, and a restrained palette where #c8c8c8 hairline lines separate sections. The brand's voice is clinical but warm — like a dermatologist who happens to write poetry about vitamin C serums.
 
 colors:
   primary: "#141414"
@@ -325,6 +329,8 @@ components:
 - Accordion sections remain collapsed by default on mobile to reduce vertical scroll
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for buttons were inferred from common patterns; the live site may use different transitions or color shifts
 - Error states for form inputs (validation, error messages) were not observed on the live site

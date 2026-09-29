@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Apostrophe Puzzles
-description: A puzzle brand that wears its primary red (#cc3b3b) like a signature stamp — not a loud shout, but a confident mark that appears on the Add to Cart button, the logo wordmark, and the small heart icon that lets you save a puzzle for later. The site runs on a near-white canvas (#fafafa) with text in near-black (#111111), creating a high-contrast reading environment that lets the puzzle artwork — often intricate illustrations of botanical gardens, Parisian streetscapes, or celestial maps — do the emotional work. Typography splits between Archivo Black (used for the brand name and major headings, a chunky geometric sans that feels like a wooden puzzle piece) and Josefin Sans (a slender, elegant sans-serif with subtle contrast, used for product titles and body copy). The red appears again in a lighter, almost blush variant (#e99292) used for sale badges and secondary accents, while a muted silver-gray (#aaaaaa) handles borders, dividers, and inactive UI. Rounded corners are restrained — buttons get a gentle {rounded.sm} (8px), product cards a slightly softer {rounded.md} (12px) — but the site avoids pill shapes entirely, preserving a crisp, geometric feel that mirrors the precision of a well-cut jigsaw piece. The footer stacks links in a single column on mobile, with a subtle hairline (#e1e1e1) separating sections, and the navigation bar uses a fixed position with a white background and the red logo centered on desktop, left-aligned on mobile.
+name: "Apostrophe Puzzles"
+source_url: "https://www.apostrophepuzzles.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A puzzle brand that wears its primary red (#cc3b3b) like a signature stamp — not a loud shout, but a confident mark that appears on the Add to Cart button, the logo wordmark, and the small heart icon that lets you save a puzzle for later. The site runs on a near-white canvas (#fafafa) with text in near-black (#111111), creating a high-contrast reading environment that lets the puzzle artwork — often intricate illustrations of botanical gardens, Parisian streetscapes, or celestial maps — do the emotional work. Typography splits between Archivo Black (used for the brand name and major headings, a chunky geometric sans that feels like a wooden puzzle piece) and Josefin Sans (a slender, elegant sans-serif with subtle contrast, used for product titles and body copy). The red appears again in a lighter, almost blush variant (#e99292) used for sale badges and secondary accents, while a muted silver-gray (#aaaaaa) handles borders, dividers, and inactive UI. Rounded corners are restrained — buttons get a gentle {rounded.sm} (8px), product cards a slightly softer {rounded.md} (12px) — but the site avoids pill shapes entirely, preserving a crisp, geometric feel that mirrors the precision of a well-cut jigsaw piece. The footer stacks links in a single column on mobile, with a subtle hairline (#e1e1e1) separating sections, and the navigation bar uses a fixed position with a white background and the red logo centered on desktop, left-aligned on mobile.
 
 colors:
   primary: "#cc3b3b"
@@ -297,6 +301,8 @@ components:
 - Secondary navigation (filters, sort) collapses into a dropdown or expandable panel on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components were inferred from common patterns; actual extracted hover colors are not available
 - Error styling for form inputs (red border, error message typography) was not extractable from the live site

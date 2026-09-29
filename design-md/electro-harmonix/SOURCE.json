@@ -1,0 +1,828 @@
+{
+  "source_url": "https://www.ehx.com",
+  "final_url": "https://www.ehx.com/",
+  "captured_at": "2026-09-28T05:07:31.200858+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.ehx.com",
+      "final_url": "https://www.ehx.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "09c6ca192755a65a67cb4138c36eccbb1a3414fcf7f92985d7302ec91e0d19ee",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.ehx.com/wp-content/plugins/compact-wp-audio-player/css/flashblock.css?ver=7.0.6",
+      "final_url": "https://www.ehx.com/wp-content/plugins/compact-wp-audio-player/css/flashblock.css?ver=7.0.6",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "25091b162ee2b14bd391b9a4859befc19217d031178cb0d70c23c37a198537a4",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.ehx.com/wp-content/plugins/compact-wp-audio-player/css/player.css?ver=7.0.6",
+      "final_url": "https://www.ehx.com/wp-content/plugins/compact-wp-audio-player/css/player.css?ver=7.0.6",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2f5820372f57efa4c8e03770baca675ee59ba259fa417e5d9d033cde673c8252",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,700&ver=7.0.6",
+      "final_url": "https://fonts.googleapis.com/css?family=Open+Sans:400,700&ver=7.0.6",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "114eb4786c45b03f64a109d2846c56080ed43c9345ef5630f6de1f69cace61aa",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.ehx.com/wp-content/plugins/rdv-youtube-playlist-video-player/packages/icons/css/icons.min.css?ver=7.0.6",
+      "final_url": "https://www.ehx.com/wp-content/plugins/rdv-youtube-playlist-video-player/packages/icons/css/icons.min.css?ver=7.0.6",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "89cadb7ec27905cd1b2619f8334059ebae710e2c6c89e9bd452f74789fa6dc2d",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.ehx.com/wp-content/plugins/rdv-youtube-playlist-video-player/packages/youtube-video-player/css/youtube-video-player.min.css?ver=7.0.6",
+      "final_url": "https://www.ehx.com/wp-content/plugins/rdv-youtube-playlist-video-player/packages/youtube-video-player/css/youtube-video-player.min.css?ver=7.0.6",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b65186431e4401d295f0a93a6d5facf95f635f7202db2ee4bf0e7ea20a520fd4",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 177,
+      "sources": [
+        "https://www.ehx.com/",
+        "https://www.ehx.com/wp-content/plugins/rdv-youtube-playlist-video-player/packages/youtube-video-player/css/youtube-video-player.min.css?ver=7.0.6"
+      ]
+    },
+    "#999999": {
+      "count": 77,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 58,
+      "sources": [
+        "https://www.ehx.com/",
+        "https://www.ehx.com/wp-content/plugins/rdv-youtube-playlist-video-player/packages/icons/css/icons.min.css?ver=7.0.6",
+        "https://www.ehx.com/wp-content/plugins/rdv-youtube-playlist-video-player/packages/youtube-video-player/css/youtube-video-player.min.css?ver=7.0.6"
+      ]
+    },
+    "#88e89e": {
+      "count": 26,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 14,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#222222": {
+      "count": 6,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#111111": {
+      "count": 6,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 5,
+      "sources": [
+        "https://www.ehx.com/",
+        "https://www.ehx.com/wp-content/plugins/rdv-youtube-playlist-video-player/packages/icons/css/icons.min.css?ver=7.0.6"
+      ]
+    },
+    "#7c7c7c": {
+      "count": 5,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#333333": {
+      "count": 4,
+      "sources": [
+        "https://www.ehx.com/",
+        "https://www.ehx.com/wp-content/plugins/rdv-youtube-playlist-video-player/packages/youtube-video-player/css/youtube-video-player.min.css?ver=7.0.6"
+      ]
+    },
+    "#777777": {
+      "count": 4,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#0693e3": {
+      "count": 3,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#ff6900": {
+      "count": 3,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#80000000": {
+      "count": 3,
+      "sources": [
+        "https://www.ehx.com/wp-content/plugins/rdv-youtube-playlist-video-player/packages/youtube-video-player/css/youtube-video-player.min.css?ver=7.0.6"
+      ]
+    },
+    "#00000000": {
+      "count": 3,
+      "sources": [
+        "https://www.ehx.com/wp-content/plugins/rdv-youtube-playlist-video-player/packages/youtube-video-player/css/youtube-video-player.min.css?ver=7.0.6"
+      ]
+    },
+    "#dff76d": {
+      "count": 3,
+      "sources": [
+        "https://www.ehx.com/wp-content/plugins/rdv-youtube-playlist-video-player/packages/youtube-video-player/css/youtube-video-player.min.css?ver=7.0.6"
+      ]
+    },
+    "#dddddd": {
+      "count": 2,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#313131": {
+      "count": 2,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#00d084": {
+      "count": 2,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#020381": {
+      "count": 2,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#2874fc": {
+      "count": 2,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#cf2e2e": {
+      "count": 2,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#fcb900": {
+      "count": 2,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#9b51e0": {
+      "count": 2,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#d9f8e1": {
+      "count": 2,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#e23939": {
+      "count": 2,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#b4b4b4": {
+      "count": 2,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#4ca763": {
+      "count": 2,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#7a00df": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#007cba": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#006ba1": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#005a87": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#34e2e4": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#4721fb": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#ab1dfe": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#faaca8": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#dad0ec": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#fafae1": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#67a671": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#fdd79a": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#004a59": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#330968": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#31cdcf": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#444444": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#abb8c3": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#f78da7": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#7bdcb5": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#8ed1fc": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#32373c": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#43754f": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#666666": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#7adcb4": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#00d082": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#a9b8c3": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#4aeadc": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#9778d1": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "#cf2aba": {
+      "count": 1,
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "FontAwesomeYESP": [
+      "https://www.ehx.com/wp-content/plugins/rdv-youtube-playlist-video-player/packages/icons/css/icons.min.css?ver=7.0.6"
+    ],
+    "FontAwesomeYESP !important": [
+      "https://www.ehx.com/wp-content/plugins/rdv-youtube-playlist-video-player/packages/icons/css/icons.min.css?ver=7.0.6"
+    ],
+    "Open Sans": [
+      "https://fonts.googleapis.com/css?family=Open+Sans:400,700&ver=7.0.6",
+      "https://www.ehx.com/wp-content/plugins/rdv-youtube-playlist-video-player/packages/youtube-video-player/css/youtube-video-player.min.css?ver=7.0.6"
+    ],
+    "Rubik": [
+      "https://www.ehx.com/"
+    ],
+    "Rubik'!important": [
+      "https://www.ehx.com/"
+    ],
+    "rubik": [
+      "https://www.ehx.com/"
+    ],
+    "rubik!important": [
+      "https://www.ehx.com/"
+    ],
+    "sans-serif": [
+      "https://www.ehx.com/",
+      "https://www.ehx.com/wp-content/plugins/rdv-youtube-playlist-video-player/packages/youtube-video-player/css/youtube-video-player.min.css?ver=7.0.6"
+    ],
+    "sans-serif !important": [
+      "https://www.ehx.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.ehx.com/",
+      "selector": ":root",
+      "declarations": "--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": ":root",
+      "declarations": "--wp-admin-border-width-focus:1.5px"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": ":root .has-very-light-gray-background-color",
+      "declarations": "background-color:#eee"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": ":root .has-very-dark-gray-background-color",
+      "declarations": "background-color:#313131"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": ":root .has-very-light-gray-color",
+      "declarations": "color:#eee"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": ":root .has-very-dark-gray-color",
+      "declarations": "color:#313131"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": ":root",
+      "declarations": "--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": ":root",
+      "declarations": "--wp--style--global--content-size: 1300px;--wp--style--global--wide-size: 1300px;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": ":root :where(.wp-element-button, .wp-block-button__link)",
+      "declarations": "background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": "st-type-archive-product.woocommerce .container-wrap,.tax-product_cat.woocommerce .container-wrap,.post-type-archive-product.woocommerce #page-header-wrap,.tax-p",
+      "declarations": "background-color:#f8f8f8;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": ".woocommerce ul.products li.product.material,.woocommerce-page ul.products li.product.material",
+      "declarations": "background-color:#ffffff;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": "ommerce ul.products li.product.minimal .background-color-expand,.woocommerce-page ul.products li.product.minimal .product-wrap,.woocommerce-page ul.products li.",
+      "declarations": "background-color:#ffffff;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": "er:not(#gform_wrapper_0):not(#gform_wrapper_1):not(#gform_wrapper_4):not(#gform_wrapper_9):not(#gform_wrapper_2):not(#gform_wrapper_6):not(#gform_wrapper_10):no",
+      "declarations": "margin: 0!important; background-color: #f5f5f5; height: 50px;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": ".woocommerce ul.products li.product .price del .woocommerce-Price-amount",
+      "declarations": "color: red!important;text-decoration: line-through;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": ".woocommerce ul.products li.product .price del .woocommerce-Price-amount bdi",
+      "declarations": "color:#000!important;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": "#page-header-bg h1, #page-header-bg .result-num",
+      "declarations": "color:#fff!important;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": "body[data-ext-responsive=\"true\"].single-post .container-wrap .post-area a:not([class])",
+      "declarations": "color:#000!important;text-decoration:underline;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": ".single-post .page-header-bg-image-wrap",
+      "declarations": "background-color:#000!important;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": ".single-post .product-meta p",
+      "declarations": "color:#999!important;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": "body.material .nectar-button.has-icon.large",
+      "declarations": "color:#000!important;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": "body[data-fancy-form-rcs=\"1\"] .woocommerce-ordering .select2-container--default .select2-selection--single",
+      "declarations": "background-color: white;border: solid 1px #e0e0e0!important;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": ":hover .select2-selection--single .select2-selection__rendered,body[data-fancy-form-rcs=\"1\"] .select2-container--default.select2-container--open .select2-select",
+      "declarations": "color:#000!important;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": ".archive .page-header-bg-image:after",
+      "declarations": "background-color: rgba(0,0,0,0.5);"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": ".button,.woocommerce-message,.woocommerce-page button.single_add_to_cart_button,.nectar_image_with_hotspots .nectar_hotspot",
+      "declarations": "color:#000!important;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": "-box a.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, ",
+      "declarations": "background-color: #333333; box-shadow: none; -webkit-box-shadow: none; background-image: none; text-shadow: none; -webkit-text-shadow: none; border: none; background-repeat: no-repeat; color: #FFFFFF; cursor: pointer; display: inline-block; font-size: 12px; line-height: 12px; padding: 10px 10px; font-family:Rubik;text-transform:uppercase!important;position: relative; text-align: center; text-transform: uppercase; font-weight: bold; transition: all 0.25s ease 0s;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": "body .nectar-button.see-through-2:hover, body .col.dark .nectar-button.see-through-2:hover, body .nectar-button.see-through-3:hover, body .col.dark .nectar-butt",
+      "declarations": "color:#000!important;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": "#top .span_9 > .slide-out-widget-area-toggle .lines:before, body #header-outer[data-permanent-transparent=\"1\"].transparent:not(.dark-slide) > #top .span_9 > .sl",
+      "declarations": "background-color:#000!important;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": "body.material #header-outer a.cart-contents .cart-wrap span,#header-outer .first-load a.cart-contents .cart-wrap span, #header-outer #mobile-cart-link.first-loa",
+      "declarations": "color:#000!important;font-weight:bold;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": "#header-outer .widget_shopping_cart a.button:hover, .nectar-slide-in-cart .widget_shopping_cart a.button:hover",
+      "declarations": "background-color:#000!important;color:#fff!important;"
+    },
+    {
+      "source": "https://www.ehx.com/",
+      "selector": "#header-outer[data-lhe=\"animated_underline\"].transparent #top nav > ul > li > a:after, #header-outer.transparent #top nav>ul>li[class*=\"button_bordered\"]>a:befo",
+      "declarations": "border-color: #88e89e!important;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Electro-Harmonix",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ehx.com/",
+        "https://www.ehx.com/wp-content/plugins/rdv-youtube-playlist-video-player/packages/youtube-video-player/css/youtube-video-player.min.css?ver=7.0.6"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ehx.com/",
+        "https://www.ehx.com/wp-content/plugins/rdv-youtube-playlist-video-player/packages/icons/css/icons.min.css?ver=7.0.6",
+        "https://www.ehx.com/wp-content/plugins/rdv-youtube-playlist-video-player/packages/youtube-video-player/css/youtube-video-player.min.css?ver=7.0.6"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ehx.com/",
+        "https://www.ehx.com/wp-content/plugins/rdv-youtube-playlist-video-player/packages/icons/css/icons.min.css?ver=7.0.6",
+        "https://www.ehx.com/wp-content/plugins/rdv-youtube-playlist-video-player/packages/youtube-video-player/css/youtube-video-player.min.css?ver=7.0.6"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ehx.com/",
+        "https://www.ehx.com/wp-content/plugins/rdv-youtube-playlist-video-player/packages/icons/css/icons.min.css?ver=7.0.6",
+        "https://www.ehx.com/wp-content/plugins/rdv-youtube-playlist-video-player/packages/youtube-video-player/css/youtube-video-player.min.css?ver=7.0.6"
+      ]
+    },
+    "colors.surface-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "colors.panel-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "colors.panel-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ehx.com/",
+        "https://www.ehx.com/wp-content/plugins/rdv-youtube-playlist-video-player/packages/icons/css/icons.min.css?ver=7.0.6"
+      ]
+    },
+    "colors.accent-sale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ehx.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.media-demo-card": {
+      "status": "inferred"
+    }
+  }
+}

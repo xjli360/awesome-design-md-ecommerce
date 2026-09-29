@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Beekeeper's Naturals
-description: A deep navy (#334499) anchors Beekeeper's Naturals like a midnight apiary — it appears on every primary button, every header background, and every product-badge ribbon, giving the brand a serious, trusted-medicine weight that the honey-toned wellness category usually avoids. Against that blue, a marigold accent (#f8da52) and a forest green (#22522f) create a triad that reads as both apothecary and meadow: the gold appears on sale tags, star ratings, and secondary CTAs; the green on ingredient callouts and subscription badges. The canvas is a warm off-white (#f2f0f0) rather than pure white — a deliberate softening that makes the brand feel less clinical and more like a handwritten label on a tincture bottle. Typography splits between Ivy Presto (a serif with calligraphic swashes used for display headlines and product names) and Josefin Sans (a geometric sans-serif for body copy and buttons), creating a herbalist-meets-modern tension. Product cards use generous {rounded.lg} corners and a soft shadow, while the nav bar stays compact at 64px with a sticky white background and the marigold accent reserved for the cart icon. The checkout flow swaps the navy for a lighter blue (#013c31) on progress indicators, and the footer collapses into a dense, three-column grid of small links in {colors.muted} (#595959) — the only place the brand lets itself feel crowded.
+name: "Beekeeper's Naturals"
+source_url: "https://beekeepersnaturals.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep navy (#334499) anchors Beekeeper's Naturals like a midnight apiary — it appears on every primary button, every header background, and every product-badge ribbon, giving the brand a serious, trusted-medicine weight that the honey-toned wellness category usually avoids. Against that blue, a marigold accent (#f8da52) and a forest green (#22522f) create a triad that reads as both apothecary and meadow: the gold appears on sale tags, star ratings, and secondary CTAs; the green on ingredient callouts and subscription badges. The canvas is a warm off-white (#f2f0f0) rather than pure white — a deliberate softening that makes the brand feel less clinical and more like a handwritten label on a tincture bottle. Typography splits between Ivy Presto (a serif with calligraphic swashes used for display headlines and product names) and Josefin Sans (a geometric sans-serif for body copy and buttons), creating a herbalist-meets-modern tension. Product cards use generous {rounded.lg} corners and a soft shadow, while the nav bar stays compact at 64px with a sticky white background and the marigold accent reserved for the cart icon. The checkout flow swaps the navy for a lighter blue (#013c31) on progress indicators, and the footer collapses into a dense, three-column grid of small links in {colors.muted} (#595959) — the only place the brand lets itself feel crowded.
 
 colors:
   primary: "#334499"
@@ -424,6 +428,8 @@ components:
 - Accordion content on FAQ pages collapses by default on all breakpoints — only the active section is expanded
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for buttons and links are inferred from active states — exact hover hex values (e.g., a lighter navy for button-primary hover) were not extracted from the live site
 - Error state hex for text inputs (red border) was not found in the extracted color list — a standard red (#d32f2f or similar) is assumed but not confirmed

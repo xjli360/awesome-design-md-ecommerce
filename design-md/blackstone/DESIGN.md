@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Blackstone
-description: |
+name: "Blackstone"
+source_url: "https://www.blackstoneproducts.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The first thing that hits you on Blackstone's site is that #f26322 orange — not a caution label, not a sunset gradient, but the exact color of a griddle surface at 400°F when seasoning oil flashes into polymerized carbon. That single hue saturates every primary CTA, every announcement ribbon, every "Add to Cart" moment, punching through a system that otherwise runs almost entirely in industrial grayscale: deep #1c1c1c ink fields, #58595b body copy, and #f5f5f5 surface planes that read like brushed stainless panels on commercial kitchen equipment. Dark-mode hero sections — full-bleed #212121 backgrounds carrying CheddarGothicSans headlines in uppercase white — frame the product as serious cooking hardware that happens to live on a patio, never the other way around.
 
   Typography is where Blackstone breaks from the outdoor-brand template. CheddarGothicSans, a wide gothic sans with heavy horizontal stress and visible ink traps, handles all display text (`{typography.display-xl}` at 56px, all-caps, 1.05 leading) and gives headlines the same stamped-fascia presence you see laser-etched on the griddle's own front panel. Below that, Acumin Pro — Adobe's neo-grotesque workhorse — picks up titles, body, and UI labels in regular through semibold weights, with the condensed cut (`acumin-pro-condensed`) reserved for footer headings and dense comparison-table labels. DIN 2014 surfaces exclusively in price stacks, lending dollar figures the monolinear clarity of engineering spec sheets. Corners stay minimal throughout: `{rounded.xs}` (4px) on buttons, cards, and inputs; `{rounded.full}` only appears on the search bar. No soft 12px or 20px lifestyle radii exist in the main product flow — the geometry is square enough to feel machined from flat stock.
@@ -420,6 +423,8 @@ components:
 - Feature-icon-cards: 3-across → 2-across → single-column stack
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact CheddarGothicSans font-weight values could not be confirmed (only one weight appears available; 700 is assumed based on rendering)
 - Transition/animation timing functions and durations are not extractable from static analysis — hover states likely use 150–200ms ease but this is inferred

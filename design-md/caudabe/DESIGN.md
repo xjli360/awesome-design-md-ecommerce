@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Caudabe
-description: A precision-focused phone-accessory brand that builds its identity on the tension between #866a41, a warm, weathered leather tone, and #108474, a cool, deep teal that reads as industrial rather than aquatic. The palette is overwhelmingly neutral — #f0f0f0, #dcdcdc, #eeeeee, #f9f9f9, #f7f7f7, #fafafa, #f3f3f3, #dadada form a layered gray scale that lets the two accent colors carry all the brand voltage. Typography runs Futura PT across every weight from Book to Black, a geometric sans-serif that brings mid-century modernist rigor to product descriptions and navigation. The brand uses hard corners ({rounded.none}) on product cards and buttons, a deliberate choice that signals durability and precision tooling — there are no pill shapes or soft radii to soften the industrial proposition. The meta theme-color of #000000 sets a black chrome expectation before the page loads, and the extracted palette's density of mid-grays (#777777, #656565, #525252, #515151, #757575, #5e5e5e, #7b7b7b, #848484, #858585, #787878, #969696, #aaaaaa, #afafaf) suggests a system that grades from #1c1c1c near-black through to #f0f0f0 near-white with surgical precision. The distinctive #4d384b (a muted plum) and #126bbf (a technical blue) appear as secondary accents, likely for limited-edition product drops or category badges. This is a brand that trusts material photography and geometric type over decorative flourish — every design decision reads as engineered rather than styled.
+name: "Caudabe"
+source_url: "https://www.caudabe.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A precision-focused phone-accessory brand that builds its identity on the tension between #866a41, a warm, weathered leather tone, and #108474, a cool, deep teal that reads as industrial rather than aquatic. The palette is overwhelmingly neutral — #f0f0f0, #dcdcdc, #eeeeee, #f9f9f9, #f7f7f7, #fafafa, #f3f3f3, #dadada form a layered gray scale that lets the two accent colors carry all the brand voltage. Typography runs Futura PT across every weight from Book to Black, a geometric sans-serif that brings mid-century modernist rigor to product descriptions and navigation. The brand uses hard corners ({rounded.none}) on product cards and buttons, a deliberate choice that signals durability and precision tooling — there are no pill shapes or soft radii to soften the industrial proposition. The meta theme-color of #000000 sets a black chrome expectation before the page loads, and the extracted palette's density of mid-grays (#777777, #656565, #525252, #515151, #757575, #5e5e5e, #7b7b7b, #848484, #858585, #787878, #969696, #aaaaaa, #afafaf) suggests a system that grades from #1c1c1c near-black through to #f0f0f0 near-white with surgical precision. The distinctive #4d384b (a muted plum) and #126bbf (a technical blue) appear as secondary accents, likely for limited-edition product drops or category badges. This is a brand that trusts material photography and geometric type over decorative flourish — every design decision reads as engineered rather than styled.
 
 colors:
   primary: "#866a41"
@@ -381,6 +385,8 @@ components:
 - Feature grid collapses from 3 columns to single column at mobile, with icons remaining left-aligned
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for most components are inferred from brand patterns rather than extracted from live CSS — actual transitions, shadows, and border colors may vary
 - Error, success, and warning states for form validation were not observed — the {colors.accent-plum} error border is an assumption based on the extracted palette

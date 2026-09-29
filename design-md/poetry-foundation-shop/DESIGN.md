@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Poetry Foundation Shop
-description: A red that reads as blood, not marketing — #ed1c24, the primary voltage, appears on the Poetry Foundation’s live site as a raw, unapologetic accent that cuts through a palette of muted grays (#e5e5e5, #d3d3d3, #aeaeae) and slate blues (#4a5464, #3a4570, #495588). This is not a bookstore that whispers; it announces itself with the same crimson that printers use for corrections, for emphasis, for the heart. The typographic voice is Baskerville and Garamond — serif faces that carry the weight of literary tradition — set against a canvas of near-white (#f1f1f1, #f1efea) and punctuated by a secondary blue (#00b2ff) that feels like a hyperlink waiting to be clicked. The shop’s design language is deliberately restrained: soft hairlines (#c4c8d8, #d5d6d2) separate content zones, while a warm yellow (#ffee58) appears sparingly, like a bookmark left in a forgotten poem. Cards and buttons use gentle rounding ({rounded.sm} ~8px), never pill-shaped — this is a place of pages and margins, not apps and swipes. The deep ink (#2b2b2b) for body text sits on surfaces that are never pure white but slightly warmed (#f1efea), as if the screen itself has been aged by lamplight. The overall effect is scholarly but not cold, institutional but not sterile — a digital reading room where the red is the only thing that raises its voice.
+name: "Poetry Foundation Shop"
+source_url: "https://www.poetryfoundation.org"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A red that reads as blood, not marketing — #ed1c24, the primary voltage, appears on the Poetry Foundation’s live site as a raw, unapologetic accent that cuts through a palette of muted grays (#e5e5e5, #d3d3d3, #aeaeae) and slate blues (#4a5464, #3a4570, #495588). This is not a bookstore that whispers; it announces itself with the same crimson that printers use for corrections, for emphasis, for the heart. The typographic voice is Baskerville and Garamond — serif faces that carry the weight of literary tradition — set against a canvas of near-white (#f1f1f1, #f1efea) and punctuated by a secondary blue (#00b2ff) that feels like a hyperlink waiting to be clicked. The shop’s design language is deliberately restrained: soft hairlines (#c4c8d8, #d5d6d2) separate content zones, while a warm yellow (#ffee58) appears sparingly, like a bookmark left in a forgotten poem. Cards and buttons use gentle rounding ({rounded.sm} ~8px), never pill-shaped — this is a place of pages and margins, not apps and swipes. The deep ink (#2b2b2b) for body text sits on surfaces that are never pure white but slightly warmed (#f1efea), as if the screen itself has been aged by lamplight. The overall effect is scholarly but not cold, institutional but not sterile — a digital reading room where the red is the only thing that raises its voice.
 
 colors:
   primary: "#ed1c24"
@@ -450,6 +454,8 @@ components:
 - Badge text may truncate or stack on very narrow screens (< 400px)
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components were inferred from common patterns; actual extracted hover colors were not available from the static HTML/CSS analysis
 - Error states for forms (validation messages, error icons) were not observed on the live site; colors and typography are best-guess based on the brand's red palette

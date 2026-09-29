@@ -1,0 +1,1022 @@
+{
+  "source_url": "https://microjig.com",
+  "final_url": "https://www.microjig.com/",
+  "captured_at": "2026-09-29T04:11:38.851671+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://microjig.com",
+      "final_url": "https://www.microjig.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "4d0c5aaffe138e1cc66c94696d35fa6ddf3e9e09d2a424711a77ca8845ecf142",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "final_url": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d9e129a8fd5b27e30c02acee6e13cde352caaf452d83f8c1e707916f4ddb7324",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css",
+      "final_url": "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "61ebfbebc1eb0afd2deeceea5951222b802538fbeb604e1eebd5d02c5f431832",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css",
+      "final_url": "https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "cd0d0b6e50ff01ff2f3a9a70d7cfb66a7c6cb9acf7a566325568be6d3bd31fc4",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 120,
+      "sources": [
+        "https://www.microjig.com/",
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 38,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+      ]
+    },
+    "#00000000": {
+      "count": 32,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#00635b": {
+      "count": 31,
+      "sources": [
+        "https://www.microjig.com/",
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+      ]
+    },
+    "#111111": {
+      "count": 25,
+      "sources": [
+        "https://www.microjig.com/",
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+      ]
+    },
+    "#fafafa": {
+      "count": 22,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#999999": {
+      "count": 21,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+      ]
+    },
+    "#3898ec": {
+      "count": 20,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#debc8b": {
+      "count": 11,
+      "sources": [
+        "https://www.microjig.com/",
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+      ]
+    },
+    "#009677": {
+      "count": 11,
+      "sources": [
+        "https://www.microjig.com/",
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 11,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#e4e4e4": {
+      "count": 10,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#cc0033": {
+      "count": 9,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 8,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#333333": {
+      "count": 7,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#00000080": {
+      "count": 7,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 6,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#222222": {
+      "count": 6,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#000000": {
+      "count": 5,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+      ]
+    },
+    "#75869600": {
+      "count": 5,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#ffffff00": {
+      "count": 5,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#00000066": {
+      "count": 4,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 4,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 4,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+      ]
+    },
+    "#676767": {
+      "count": 4,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+      ]
+    },
+    "#767676": {
+      "count": 4,
+      "sources": [
+        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 3,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#c8c8c8": {
+      "count": 3,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#0066cc": {
+      "count": 3,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+      ]
+    },
+    "#32343a": {
+      "count": 3,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#43464d": {
+      "count": 3,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#555555": {
+      "count": 3,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+      ]
+    },
+    "#777777": {
+      "count": 3,
+      "sources": [
+        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 2,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#ffdede": {
+      "count": 2,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#5d6c7b": {
+      "count": 2,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#0082f3": {
+      "count": 2,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#dddddd66": {
+      "count": 2,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#003e39": {
+      "count": 2,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#f8cd49": {
+      "count": 2,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 2,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#1a1b1f": {
+      "count": 2,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#0000004d": {
+      "count": 2,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#ffffff80": {
+      "count": 2,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#4c4c4c": {
+      "count": 2,
+      "sources": [
+        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+      ]
+    },
+    "#00625b": {
+      "count": 1,
+      "sources": [
+        "https://www.microjig.com/"
+      ]
+    },
+    "#e3c38f": {
+      "count": 1,
+      "sources": [
+        "https://www.microjig.com/"
+      ]
+    },
+    "#ffff00": {
+      "count": 1,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#aaadb0": {
+      "count": 1,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 1,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#ea384c": {
+      "count": 1,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#758696": {
+      "count": 1,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#33333366": {
+      "count": 1,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#22222266": {
+      "count": 1,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#ffffff66": {
+      "count": 1,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#000000e6": {
+      "count": 1,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#2895f7": {
+      "count": 1,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#004183": {
+      "count": 1,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#444444": {
+      "count": 1,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#ffc72c": {
+      "count": 1,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#1188ee": {
+      "count": 1,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#e3e6eb": {
+      "count": 1,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#32343a66": {
+      "count": 1,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#ffffffb3": {
+      "count": 1,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 1,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#11111166": {
+      "count": 1,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#00635c80": {
+      "count": 1,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#004a4400": {
+      "count": 1,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#586f8080": {
+      "count": 1,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#586f80cc": {
+      "count": 1,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#0066cc00": {
+      "count": 1,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#11111199": {
+      "count": 1,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#11111100": {
+      "count": 1,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#ffffff33": {
+      "count": 1,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#00000099": {
+      "count": 1,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#000000ab": {
+      "count": 1,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#eeeeee00": {
+      "count": 1,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#f5f7fa": {
+      "count": 1,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#e4ebf3": {
+      "count": 1,
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "#696969": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+      ]
+    },
+    "#df6a26": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css",
+      "https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css"
+    ],
+    "Avenir LT Std": [
+      "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+    ],
+    "Calibri": [
+      "https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css"
+    ],
+    "Helvetica": [
+      "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css",
+      "https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css"
+    ],
+    "Helvetica Neue": [
+      "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+    ],
+    "Neue Haas Grotesk Display Pro 65 Md": [
+      "https://www.microjig.com/",
+      "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+    ],
+    "Neue Haas Grotesk Text Pro 55 Rg": [
+      "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+    ],
+    "Rubik": [
+      "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+    ],
+    "Segoe UI": [
+      "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+    ],
+    "Ubuntu": [
+      "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+    ],
+    "Verdana": [
+      "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+    ],
+    "monospace": [
+      "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+    ],
+    "sans-serif": [
+      "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css",
+      "https://cdn.jsdelivr.net/npm/cookieconsent@3/build/cookieconsent.min.css"
+    ],
+    "sans-serif !important": [
+      "https://www.microjig.com/"
+    ],
+    "serif": [
+      "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+    ],
+    "webflow-icons": [
+      "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+    ],
+    "webflow-icons!important": [
+      "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.microjig.com/",
+      "selector": "div#dd-restock-notification-container .da-restock-notification form button:hover",
+      "declarations": "background-color:#009677;"
+    },
+    {
+      "source": "https://www.microjig.com/",
+      "selector": "div#dd-restock-notification-container .da-restock-notification form button, div#dd-restock-notification-container .da-restock-notification-button",
+      "declarations": "background-color:#00625b;"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "selector": "body",
+      "declarations": "color:#333;background-color:#fff;min-height:100%;margin:0;font-family:Arial,sans-serif;font-size:14px;line-height:20px"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "selector": ".w-button",
+      "declarations": "color:#fff;line-height:inherit;cursor:pointer;background-color:#3898ec;border:0;border-radius:0;padding:9px 15px;text-decoration:none;display:inline-block"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "selector": ":where(button.w-popover-trigger)",
+      "declarations": "color:inherit;cursor:pointer;font:inherit;line-height:inherit;text-align:inherit;-webkit-text-decoration:inherit;text-decoration:inherit;background-color:#0000;border:0;margin:0;padding:0"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "selector": ".w-nav-button",
+      "declarations": "float:right;cursor:pointer;-webkit-tap-highlight-color:#0000;tap-highlight-color:#0000;-webkit-user-select:none;user-select:none;padding:18px;font-size:24px;display:none;position:relative"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "selector": ".w-nav-button.w--open",
+      "declarations": "color:#fff;background-color:#c8c8c8"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "selector": ":root",
+      "declarations": "--slate-green:#00635b;--dark-slate-blue:#004183;--black:#111;--gainsboro:#ddd;--grey:#444;--white:white;--burlywood:#debc8b;--crimson:#c03;--sea-green:#009677;--royal-blue:#06c;--white-smoke:#f7f7f7;--dark-grey:#aaa;--gainsboro-o:#ddd6;--dark-slate-green:#003e39;--yellow-gold:#ffc72c;--dodger-blue:#18e;--gold:#f8cd49"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "selector": ".w-commerce-commercecheckoutblockheader",
+      "declarations": "background-color:#fff;border:1px solid #e6e6e6;justify-content:space-between;align-items:baseline;padding:4px 20px;display:flex"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "selector": ".w-commerce-commercecheckoutsummaryblockheader",
+      "declarations": "background-color:#fff;border:1px solid #e6e6e6;justify-content:space-between;align-items:baseline;padding:4px 20px;display:flex"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "selector": ".w-commerce-commercecheckoutplaceorderbutton",
+      "declarations": "color:#fff;cursor:pointer;appearance:none;text-align:center;background-color:#3898ec;border-width:0;border-radius:3px;align-items:center;margin-bottom:20px;padding:9px 15px;text-decoration:none;display:block"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "selector": "body",
+      "declarations": "color:#111;align-self:auto;font-family:\"Neue Haas Grotesk Display Pro 65 Md\",sans-serif;font-size:16px;font-weight:500;line-height:24px"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "selector": "h1",
+      "declarations": "margin-top:20px;margin-bottom:15px;font-family:\"Neue Haas Grotesk Display Pro 65 Md\",sans-serif;font-size:44px;line-height:62px"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "selector": ".button",
+      "declarations": "z-index:1;background-color:var(--slate-green);height:3rem;color:var(--white);letter-spacing:1px;text-transform:uppercase;border-radius:2rem;font-size:.875rem;line-height:1.5rem;text-decoration:none;transition-property:none;display:inline-block;position:relative;overflow:hidden"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "selector": ".button:hover",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "selector": ".button.ghost",
+      "declarations": "border:2px solid var(--slate-green);background-color:#0000;font-size:14px"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "selector": ".button.ghost.gold",
+      "declarations": "background-color:var(--burlywood);border-style:none"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "selector": ".button.red",
+      "declarations": "background-color:var(--crimson);color:#fff"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "selector": ".button.btn",
+      "declarations": "background-color:var(--slate-green);color:var(--white);letter-spacing:1.5px;padding:.6875rem 2rem;font-family:\"Neue Haas Grotesk Display Pro 65 Md\",sans-serif;font-weight:500;transition:color .2s,background-color .2s cubic-bezier(.165,.84,.44,1)"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "selector": ".button.btn:hover",
+      "declarations": "background-color:var(--sea-green)"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "selector": ".button.btn.ghost:hover",
+      "declarations": "border-color:var(--sea-green);background-color:var(--sea-green);color:#fff"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "selector": ".button.btn.ghost.is-checked",
+      "declarations": "background-color:var(--royal-blue);color:#fff"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "selector": ".button.btn.ghost.rect:hover",
+      "declarations": "border-color:var(--sea-green);background-color:var(--sea-green)"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "selector": ".button.btn.inline.plain",
+      "declarations": "border-bottom:2px solid var(--slate-green);background-color:#0000;height:auto;margin:.75rem 2rem;padding:2px 0 0;transition-property:opacity"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "selector": ".button.btn.inline.plain.blue",
+      "declarations": "border-bottom-color:var(--royal-blue);color:var(--royal-blue)"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "selector": ".button.btn.inline.plain.black",
+      "declarations": "border-bottom-color:var(--black)"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "selector": ".button.btn.inline.plain.green",
+      "declarations": "color:var(--slate-green)"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "selector": ".button.btn.rect.gold.flex-container.align--center:hover",
+      "declarations": "background-color:var(--white-smoke)"
+    },
+    {
+      "source": "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+      "selector": ".button.btn.rect.white",
+      "declarations": "background-color:var(--white);color:var(--black)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "MICROJIG – Smarter Woodworking Tools",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.microjig.com/",
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.microjig.com/",
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.microjig.com/",
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.microjig.com/",
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "colors.accent-burlywood": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.microjig.com/",
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+      ]
+    },
+    "colors.success-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.microjig.com/",
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+      ]
+    },
+    "colors.alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+      ]
+    },
+    "colors.link-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css",
+        "https://cdn.jsdelivr.net/gh/microjig-web/css@master/mj-custom.min.css"
+      ]
+    },
+    "colors.legacy-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "colors.deep-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "colors.navy": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.prod.website-files.com/5cfd83cf1c26abefa3063e12/css/microjig.webflow.shared.9a81a7d1c.min.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.button-tertiary-gold": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-compatibility-table": {
+      "status": "inferred"
+    }
+  }
+}

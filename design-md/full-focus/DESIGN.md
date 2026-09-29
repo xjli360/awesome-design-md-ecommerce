@@ -1,13 +1,17 @@
 ---
 version: alpha
-name: Full Focus
-description: Verdana on a bright white canvas with pure magenta (#ff00ff) on every action trigger is an unusual pairing for a planner brand — the typeface was engineered for early CRT screen readability, the color is too saturated for lifestyle aesthetics, yet together they produce something that reads as deliberate utility rather than accident. Full Focus sells a paper planning system built on a "Big 3" daily priorities framework, and the design mirrors that system's core claim: the path to achievement should be visible, unambiguous, and slightly uncomfortable to ignore.
+name: "Full Focus"
+source_url: "https://fullfocus.co"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Verdana on a bright white canvas with pure magenta (#ff00ff) on every action trigger is an unusual pairing for a planner brand — the typeface was engineered for early CRT screen readability, the color is too saturated for lifestyle aesthetics, yet together they produce something that reads as deliberate utility rather than accident. Full Focus sells a paper planning system built on a "Big 3" daily priorities framework, and the design mirrors that system's core claim: the path to achievement should be visible, unambiguous, and slightly uncomfortable to ignore.
 
-The palette organizes itself in layers of commitment. Deep navy (#003388), dark teal (#004a59), and brooding indigo-purple (#330968) provide structural tones — the category colors a planner user assigns week by week, role by role, horizon by horizon. Magenta fires at the points of decision: buy buttons, featured CTAs, progress-ring fills. Accent violet (#4721fb) appears at secondary interactive moments; warm cream (#fafae1) surfaces the "how it works" editorial sections where the reading mood should slow from transactional to reflective. Charcoal (#313131) carries body text without the harshness of pure black.
+  The palette organizes itself in layers of commitment. Deep navy (#003388), dark teal (#004a59), and brooding indigo-purple (#330968) provide structural tones — the category colors a planner user assigns week by week, role by role, horizon by horizon. Magenta fires at the points of decision: buy buttons, featured CTAs, progress-ring fills. Accent violet (#4721fb) appears at secondary interactive moments; warm cream (#fafae1) surfaces the "how it works" editorial sections where the reading mood should slow from transactional to reflective. Charcoal (#313131) carries body text without the harshness of pure black.
 
-Verdana's typographic range is narrow by design — the stack runs 400 for reading weight and 700 for display, with no intermediate steps. Full Focus leans into this constraint rather than fighting it: hierarchy comes from size steps and spatial breathing, not from a multi-weight superfamily. The monoline quality of Verdana at 40px echoes the ruled lines and grid columns of the physical planner itself. Everything on the page feels written rather than composed, which suits a brand whose core product is a structured blank page.
+  Verdana's typographic range is narrow by design — the stack runs 400 for reading weight and 700 for display, with no intermediate steps. Full Focus leans into this constraint rather than fighting it: hierarchy comes from size steps and spatial breathing, not from a multi-weight superfamily. The monoline quality of Verdana at 40px echoes the ruled lines and grid columns of the physical planner itself. Everything on the page feels written rather than composed, which suits a brand whose core product is a structured blank page.
 
-Buttons hold at {rounded.sm} — purposeful, slightly formal rectangles that resist the pill-softness of wellness brands and signal transactional commitment. Cards at {rounded.md} sit on white canvas, letting planner flat-lay photography carry the surface texture. Section breaks at {spacing.section} create chapter-level rhythm on long product pages, mirroring the planner's own section philosophy. On mobile, the magenta primary persists as a sticky bottom bar through the entire product-detail scroll.
+  Buttons hold at {rounded.sm} — purposeful, slightly formal rectangles that resist the pill-softness of wellness brands and signal transactional commitment. Cards at {rounded.md} sit on white canvas, letting planner flat-lay photography carry the surface texture. Section breaks at {spacing.section} create chapter-level rhythm on long product pages, mirroring the planner's own section philosophy. On mobile, the magenta primary persists as a sticky bottom bar through the entire product-detail scroll.
 
 colors:
   primary: "#ff00ff"
@@ -324,6 +328,8 @@ components:
 - Footer: 4-column link groups → stacked accordion with tap-to-expand per section
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted palette contains many Gutenberg/WordPress block-editor default colors (#00d084, #0693e3, #0d6efd, #cf2e2e, #ff6900, #007cba, #006ba1) that are almost certainly CMS editor artifacts, not brand tokens — the true brand palette is difficult to isolate from the editor palette
 - Pure magenta (#ff00ff) as primary is distinctive enough to warrant verification against the live site's actual CTA buttons; it may be a content-editor highlight or selection color rather than a confirmed brand primary

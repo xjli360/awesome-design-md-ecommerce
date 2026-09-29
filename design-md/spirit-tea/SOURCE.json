@@ -1,0 +1,890 @@
+{
+  "source_url": "https://spirittea.co",
+  "final_url": "https://spirittea.co/",
+  "captured_at": "2026-09-28T10:20:45.446007+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://spirittea.co",
+      "final_url": "https://spirittea.co/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "3adb79bc43fe3fe57257eee951e565e4d1f58c6976f94e62ec67cdd5976369c2",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://spirittea.co/cdn/shop/t/23/assets/fonts.static.css?v=176462976626705306281690969473",
+      "final_url": "https://spirittea.co/cdn/shop/t/23/assets/fonts.static.css?v=176462976626705306281690969473",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f7d512f6b0998fdc2da00828a11e1d29d7ed65faff4de45ce87d2bc66db7f5af",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601",
+      "final_url": "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c41974d4a76c6d5065241f6901fc0ddd17bedc2d94a149d1e67999dad866c913",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://spirittea.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://spirittea.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.judge.me/shopify_v2.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "be10bc4b16346e787891f1da5de658505019fcd30172651891a4bf550c948e36",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#eeeeee": {
+      "count": 32,
+      "sources": [
+        "https://spirittea.co/",
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#f6efe9": {
+      "count": 25,
+      "sources": [
+        "https://spirittea.co/"
+      ]
+    },
+    "#00000000": {
+      "count": 16,
+      "sources": [
+        "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601",
+        "https://spirittea.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#000000": {
+      "count": 10,
+      "sources": [
+        "https://spirittea.co/",
+        "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601",
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 9,
+      "sources": [
+        "https://spirittea.co/",
+        "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601",
+        "https://spirittea.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 9,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 7,
+      "sources": [
+        "https://spirittea.co/",
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#333333": {
+      "count": 7,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#555555": {
+      "count": 6,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#339999": {
+      "count": 5,
+      "sources": [
+        "https://spirittea.co/"
+      ]
+    },
+    "#f6efe980": {
+      "count": 5,
+      "sources": [
+        "https://spirittea.co/"
+      ]
+    },
+    "#666666": {
+      "count": 5,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#00000080": {
+      "count": 4,
+      "sources": [
+        "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601"
+      ]
+    },
+    "#2b4163": {
+      "count": 3,
+      "sources": [
+        "https://spirittea.co/"
+      ]
+    },
+    "#108474": {
+      "count": 3,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://spirittea.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#fbcd0a": {
+      "count": 2,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 2,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 2,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#a89cc8": {
+      "count": 2,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#c1e6e6": {
+      "count": 2,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#fcfaf8": {
+      "count": 1,
+      "sources": [
+        "https://spirittea.co/"
+      ]
+    },
+    "#1e304e": {
+      "count": 1,
+      "sources": [
+        "https://spirittea.co/"
+      ]
+    },
+    "#c99cc9": {
+      "count": 1,
+      "sources": [
+        "https://spirittea.co/"
+      ]
+    },
+    "#dfc5d9": {
+      "count": 1,
+      "sources": [
+        "https://spirittea.co/"
+      ]
+    },
+    "#8d997f": {
+      "count": 1,
+      "sources": [
+        "https://spirittea.co/"
+      ]
+    },
+    "#6283c2": {
+      "count": 1,
+      "sources": [
+        "https://spirittea.co/"
+      ]
+    },
+    "#efa54b": {
+      "count": 1,
+      "sources": [
+        "https://spirittea.co/"
+      ]
+    },
+    "#df8e7f": {
+      "count": 1,
+      "sources": [
+        "https://spirittea.co/"
+      ]
+    },
+    "#b95e2f": {
+      "count": 1,
+      "sources": [
+        "https://spirittea.co/"
+      ]
+    },
+    "#751e41": {
+      "count": 1,
+      "sources": [
+        "https://spirittea.co/"
+      ]
+    },
+    "#9ca3af": {
+      "count": 1,
+      "sources": [
+        "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601"
+      ]
+    },
+    "#c2c2c242": {
+      "count": 1,
+      "sources": [
+        "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601"
+      ]
+    },
+    "#007aff": {
+      "count": 1,
+      "sources": [
+        "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601"
+      ]
+    },
+    "#00000026": {
+      "count": 1,
+      "sources": [
+        "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601"
+      ]
+    },
+    "#00000040": {
+      "count": 1,
+      "sources": [
+        "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://spirittea.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://spirittea.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://spirittea.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#888888": {
+      "count": 1,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#ffff00": {
+      "count": 1,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 1,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#3b5998": {
+      "count": 1,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#1da1f2": {
+      "count": 1,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#dd4b39": {
+      "count": 1,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#e60023": {
+      "count": 1,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#0073b1": {
+      "count": 1,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#fffb00": {
+      "count": 1,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#eaeaea": {
+      "count": 1,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#e9eaeb": {
+      "count": 1,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#a36710": {
+      "count": 1,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#d2920f": {
+      "count": 1,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#488282": {
+      "count": 1,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "#4c8eda": {
+      "count": 1,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601"
+    ],
+    "Apple Color Emoji": [
+      "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601"
+    ],
+    "Arial": [
+      "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601",
+      "https://cdn.judge.me/shopify_v2.css"
+    ],
+    "Baskerville": [
+      "https://cdn.judge.me/shopify_v2.css"
+    ],
+    "BlinkMacSystemFont": [
+      "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601"
+    ],
+    "Consolas": [
+      "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601"
+    ],
+    "Courier New": [
+      "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601"
+    ],
+    "Dala Moa": [
+      "https://spirittea.co/cdn/shop/t/23/assets/fonts.static.css?v=176462976626705306281690969473"
+    ],
+    "Fern": [
+      "https://spirittea.co/cdn/shop/t/23/assets/fonts.static.css?v=176462976626705306281690969473"
+    ],
+    "Helvetica": [
+      "https://cdn.judge.me/shopify_v2.css"
+    ],
+    "Helvetica Neue": [
+      "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601"
+    ],
+    "Inter": [
+      "https://spirittea.co/"
+    ],
+    "JudgemeIcons": [
+      "https://cdn.judge.me/shopify_v2.css"
+    ],
+    "JudgemeIcons\" !important": [
+      "https://cdn.judge.me/shopify_v2.css"
+    ],
+    "JudgemeIcons' !important": [
+      "https://cdn.judge.me/shopify_v2.css"
+    ],
+    "JudgemeStar": [
+      "https://spirittea.co/"
+    ],
+    "JudgemeStar' !important": [
+      "https://cdn.judge.me/shopify_v2.css"
+    ],
+    "Liberation Mono": [
+      "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601"
+    ],
+    "Menlo": [
+      "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601"
+    ],
+    "Monaco": [
+      "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601"
+    ],
+    "Noto Color Emoji": [
+      "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601"
+    ],
+    "Noto Sans": [
+      "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601"
+    ],
+    "Nunito Sans": [
+      "https://cdn.judge.me/shopify_v2.css"
+    ],
+    "Roboto": [
+      "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601"
+    ],
+    "SFMono-Regular": [
+      "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601"
+    ],
+    "Segoe UI": [
+      "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601"
+    ],
+    "Segoe UI Emoji": [
+      "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601"
+    ],
+    "Segoe UI Symbol": [
+      "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601"
+    ],
+    "monospace": [
+      "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601",
+      "https://cdn.judge.me/shopify_v2.css"
+    ],
+    "sans-serif": [
+      "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601",
+      "https://cdn.judge.me/shopify_v2.css"
+    ],
+    "swiper-icons": [
+      "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601"
+    ],
+    "system-ui": [
+      "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601"
+    ],
+    "ui-monospace": [
+      "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601"
+    ],
+    "ui-sans-serif": [
+      "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://spirittea.co/",
+      "selector": ":root",
+      "declarations": "--height-header-bar: 80px;\n    --height-promo: 40px;\n    --height-header: 120px;\n    --height-hero: calc(100vw - var(--height-header) - 140px);\n\n    --gutter: 20px;\n\n    --margin-main: calc(-100vh + var(--height-header-bar));\n\n    --size-h1: 48px;\n    --size-h2: 48px;\n    --size-h3: 32px;\n    --size-h4: 13px;\n    --size-h5: 13px;\n    --size-h6: 13px;\n    --size-large: 21px;\n    --size-body: 17px;\n    --size-small: 11px;\n\n    --font-heading: \"Dala Moa\", \"serif\";\n    --font-body:  \"Fern\", \"serif\";\n\n    --leading-lg: 1.5;\n    --leading-sm: 1;\n\n    --letter-lg: 0.1em;\n    --letter-md: 0.01em;\n    --letter-sm: 0.005em;\n\n    --color-black: #000;\n    --color-white: #fff;\n    --color-white-hover: #F"
+    },
+    {
+      "source": "https://spirittea.co/",
+      "selector": ":root",
+      "declarations": "--gutter: 60px;\n\n      --size-h1: 64px;\n      --size-h2: 48px;\n      --size-h3: 32px;\n      --size-h4: 17px;\n      --size-h5: 13px;\n      --size-h6: 15px;\n      --size-large: 21px;\n      --size-body: 17px;\n      --size-small: 13px;"
+    },
+    {
+      "source": "https://spirittea.co/",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color:#399;--jdgm-secondary-color:rgba(51,153,153,0.1);--jdgm-star-color:#399;--jdgm-paginate-color:#399;--jdgm-border-radius:0"
+    },
+    {
+      "source": "https://spirittea.co/",
+      "selector": "background: linear-gradient(0deg, rgba(0, 0, 0, 0) 50%, rgba(0, 0, 0, 0.5) 100%);\n\n  :root",
+      "declarations": "--height-hero:calc(var(--100-vh-static) - 140px);--margin-main: calc(-100vh - var(--height-promo));"
+    },
+    {
+      "source": "https://spirittea.co/",
+      "selector": "#shopify-section-template--16771713499359__1661502961d32a668f .btn--outline--white:hover",
+      "declarations": "border-color: #f6efe9 !important;  color: #f6efe9 !important;  background-color: #f6efe980;"
+    },
+    {
+      "source": "https://spirittea.co/",
+      "selector": "#shopify-section-template--16771713499359__image_text_card_PWPrGr .btn--outline--black",
+      "declarations": "color: #f6efe9; border: 1px solid #f6efe9;"
+    },
+    {
+      "source": "https://spirittea.co/",
+      "selector": "#shopify-section-template--16771713499359__image_text_card_PWPrGr .btn--outline--black:hover",
+      "declarations": "border-color: #f6efe9 !important;  color: #f6efe9 !important;  background-color: #f6efe980;"
+    },
+    {
+      "source": "https://spirittea.co/",
+      "selector": "#shopify-section-template--16771713499359__c2c23d92-4be4-4d3b-b4ac-197bd2c35e60 .btn--outline--black",
+      "declarations": "color: #f6efe9; border: 1px solid #f6efe9;"
+    },
+    {
+      "source": "https://spirittea.co/",
+      "selector": "#shopify-section-template--16771713499359__c2c23d92-4be4-4d3b-b4ac-197bd2c35e60 .btn--outline--black:hover",
+      "declarations": "border-color: #f6efe9 !important;  color: #f6efe9 !important;  background-color: #f6efe980;"
+    },
+    {
+      "source": "https://spirittea.co/",
+      "selector": "#shopify-section-template--16771713499359__image_text_card_NLbYGA .btn--outline--black",
+      "declarations": "color: #f6efe9; border: 1px solid #f6efe9;"
+    },
+    {
+      "source": "https://spirittea.co/",
+      "selector": "#shopify-section-template--16771713499359__image_text_card_NLbYGA .btn--outline--black:hover",
+      "declarations": "border-color: #f6efe9 !important;  color: #f6efe9 !important;  background-color: #f6efe980;"
+    },
+    {
+      "source": "https://spirittea.co/",
+      "selector": "#shopify-section-template--16771713499359__1662380730e8a2b2f7 .btn--outline--black",
+      "declarations": "color: #f6efe9; border: 1px solid #f6efe9;"
+    },
+    {
+      "source": "https://spirittea.co/",
+      "selector": "#shopify-section-template--16771713499359__1662380730e8a2b2f7 .btn--outline--black:hover",
+      "declarations": "border-color: #f6efe9 !important;  color: #f6efe9 !important;  background-color: #f6efe980;"
+    },
+    {
+      "source": "https://spirittea.co/",
+      "selector": "#shopify-section-template--16771713499359__1662383057055479fc .btn--lilac",
+      "declarations": "color: #f6efe9;"
+    },
+    {
+      "source": "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;font-weight:inherit;line-height:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601",
+      "selector": "button,[type=button],[type=reset],[type=submit]",
+      "declarations": "-webkit-appearance:button;background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601",
+      "selector": ".btn--std",
+      "declarations": "border-color:var(--color-blue);background-color:var(--color-blue);color:var(--color-white)"
+    },
+    {
+      "source": "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601",
+      "selector": ".btn--std:hover",
+      "declarations": "border-color:var(--color-blue-hover);background:var(--color-blue-hover)"
+    },
+    {
+      "source": "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601",
+      "selector": ".btn--lilac",
+      "declarations": "border-color:var(--color-lilac);background-color:var(--color-lilac)"
+    },
+    {
+      "source": "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601",
+      "selector": ".btn--lilac:hover",
+      "declarations": "border-color:var(--color-lilac-hover);background:var(--color-lilac-hover)"
+    },
+    {
+      "source": "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601",
+      "selector": ".btn--white",
+      "declarations": "border-color:var(--color-white);background-color:var(--color-white)"
+    },
+    {
+      "source": "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601",
+      "selector": ".btn--white:hover",
+      "declarations": "border-color:var(--color-white-hover);background:var(--color-white-hover)"
+    },
+    {
+      "source": "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601",
+      "selector": ".btn--outline--blue",
+      "declarations": "border-color:var(--color-blue);color:var(--color-blue);background-color:transparent"
+    },
+    {
+      "source": "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601",
+      "selector": ".btn--outline--blue.active",
+      "declarations": "background-color:var(--color-blue);color:var(--color-white)"
+    },
+    {
+      "source": "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601",
+      "selector": ".btn--outline--blue:hover",
+      "declarations": "background-color:var(--color-blue);color:var(--color-white)"
+    },
+    {
+      "source": "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601",
+      "selector": ".btn--outline--white",
+      "declarations": "border-color:var(--color-white);color:var(--color-white)"
+    },
+    {
+      "source": "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601",
+      "selector": ".btn--outline--white:hover",
+      "declarations": "background-color:var(--color-white);color:var(--color-black)"
+    },
+    {
+      "source": "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601",
+      "selector": ".btn--outline--black",
+      "declarations": "border-color:var(--color-black);color:var(--color-black)"
+    },
+    {
+      "source": "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601",
+      "selector": ".btn--outline--black:hover",
+      "declarations": "background-color:var(--color-black);color:var(--color-white)"
+    },
+    {
+      "source": "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601",
+      "selector": ".btn--small.lilac",
+      "declarations": "background-color:var(--color-lilac)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Spirit Tea | Farm-direct loose leaf tea",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://spirittea.co/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://spirittea.co/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://spirittea.co/"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://spirittea.co/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://spirittea.co/",
+        "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601",
+        "https://spirittea.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "colors.accent-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://spirittea.co/"
+      ]
+    },
+    "colors.accent-lilac": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://spirittea.co/"
+      ]
+    },
+    "colors.accent-lilac-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://spirittea.co/"
+      ]
+    },
+    "colors.accent-sage": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://spirittea.co/"
+      ]
+    },
+    "colors.accent-amber": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://spirittea.co/"
+      ]
+    },
+    "colors.accent-terracotta": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://spirittea.co/"
+      ]
+    },
+    "colors.accent-wine": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://spirittea.co/"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://spirittea.co/",
+        "https://spirittea.co/cdn/shop/t/23/assets/bundle.css?v=27495395923337169161790019601",
+        "https://cdn.judge.me/shopify_v2.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.button-lilac": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.category-badge": {
+      "status": "inferred"
+    },
+    "components.subscription-card": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    }
+  }
+}

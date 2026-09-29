@@ -1,0 +1,868 @@
+{
+  "source_url": "https://www.tek.com",
+  "final_url": "https://www.tek.com/en",
+  "captured_at": "2026-09-28T04:04:24.972772+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.tek.com",
+      "final_url": "https://www.tek.com/en",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "42829778a3a940da16add388c7aa3d5d3e11f81b8408dc4599331c436263bfa2",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1",
+      "final_url": "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "929ba9c31eede3fd937c48987dd909a41c9af5b16305f44d040e474a967d7253",
+      "snapshot": "stylesheet-1.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 405,
+      "sources": [
+        "https://www.tek.com/en",
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#1cb5d8": {
+      "count": 162,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#035e7c": {
+      "count": 140,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 85,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#000000": {
+      "count": 79,
+      "sources": [
+        "https://www.tek.com/en",
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#73bf44": {
+      "count": 73,
+      "sources": [
+        "https://www.tek.com/en",
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#17222c": {
+      "count": 71,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#dddddd": {
+      "count": 66,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#333333": {
+      "count": 61,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#cccccc": {
+      "count": 61,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#3e434a": {
+      "count": 46,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#666666": {
+      "count": 40,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#006281": {
+      "count": 38,
+      "sources": [
+        "https://www.tek.com/en",
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#d7d7d7": {
+      "count": 38,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 32,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#999999": {
+      "count": 31,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#eeeeee": {
+      "count": 25,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#ababab": {
+      "count": 21,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#b30000": {
+      "count": 19,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#5e6975": {
+      "count": 18,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#182752": {
+      "count": 16,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#a5ce39": {
+      "count": 14,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#e6eaea": {
+      "count": 13,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 12,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#777777": {
+      "count": 12,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#0f1b24": {
+      "count": 11,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#f05a22": {
+      "count": 10,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#758491": {
+      "count": 10,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#23527c": {
+      "count": 9,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#555555": {
+      "count": 9,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#4399bc": {
+      "count": 8,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#e3e3e3": {
+      "count": 8,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#1b2935": {
+      "count": 7,
+      "sources": [
+        "https://www.tek.com/en",
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#8899a8": {
+      "count": 7,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 7,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#5482ab": {
+      "count": 7,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#efefef": {
+      "count": 7,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#353b43": {
+      "count": 6,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#edf6fb": {
+      "count": 6,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 6,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#5e6a71": {
+      "count": 6,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#00b5e5": {
+      "count": 6,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 5,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 5,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#ffffffff": {
+      "count": 5,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#006381": {
+      "count": 5,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#b6b6b6": {
+      "count": 5,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 4,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#444444": {
+      "count": 4,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#ebebeb": {
+      "count": 4,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#ffe6eaea": {
+      "count": 4,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#7f7f7f": {
+      "count": 4,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#0088cc": {
+      "count": 3,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#ff1cb5d8": {
+      "count": 3,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#cc9933": {
+      "count": 3,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#506e2b": {
+      "count": 3,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#ff035e7c": {
+      "count": 3,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#fafafa": {
+      "count": 3,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#8a8a8a": {
+      "count": 3,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "#08526c": {
+      "count": 3,
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+    ],
+    "Consolas": [
+      "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+    ],
+    "Courier": [
+      "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+    ],
+    "Courier New": [
+      "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+    ],
+    "Fira Code": [
+      "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+    ],
+    "Helvetica": [
+      "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+    ],
+    "Helvetica Neue": [
+      "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+    ],
+    "Hiragino Sans GB": [
+      "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+    ],
+    "Microsoft Yahei": [
+      "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+    ],
+    "Source Code Pro": [
+      "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+    ],
+    "arial": [
+      "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+    ],
+    "monospace": [
+      "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+    ],
+    "sans-serif": [
+      "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+    ],
+    "tek": [
+      "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+    ],
+    "tek!important": [
+      "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.tek.com/en",
+      "selector": ".redesign-card-2021 .text-container .btn--no-bgd",
+      "declarations": "color: #006281;"
+    },
+    {
+      "source": "https://www.tek.com/en",
+      "selector": ".btn-buy-now-exp",
+      "declarations": "padding: 2px 0;\r\n    color: #000;\r\n    border: 1px solid #73bf44;\r\n    border-radius: 30px;\r\n    margin-top: 15px !important;\r\n    text-decoration: none;"
+    },
+    {
+      "source": "https://www.tek.com/en",
+      "selector": ".btn-buy-now-exp:hover",
+      "declarations": "background: #73bf44;\r\n    text-decoration: none;\r\n    color: #000;"
+    },
+    {
+      "source": "https://www.tek.com/en",
+      "selector": ":lang(en) .new-nav-item::before, :lang(en) header.header--redesign .nav--main ul li ul li a.category[href=\"https://my.tek.com/tektalk/\"]:before",
+      "declarations": "content: \"NEW! \";\r\n   color: #73bf44;\r\n    display: initial;"
+    },
+    {
+      "source": "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0"
+    },
+    {
+      "source": "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1",
+      "selector": "h-split-component ul:not(.slick-dots) li:before,.fifty-fifty-split-component .item .text-wrap ul li:before,.list--blue-points li:before,.product-series-redesign",
+      "declarations": "font-size:.8125rem;content:\"\\2022\";display:block;position:absolute;left:0;color:#1cb5d8"
+    },
+    {
+      "source": "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1",
+      "selector": "header.header--redesign .sub-menu.buy-quote .thumbnails-wrap a:before",
+      "declarations": "color:#8899a8;position:absolute;left:.625rem;top:50%;margin-top:-.9375rem;font-size:1.875rem"
+    },
+    {
+      "source": "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1",
+      "selector": "header.header--redesign .sub-menu.buy-quote .thumbnails-wrap a:hover",
+      "declarations": "background-color:#035e7c"
+    },
+    {
+      "source": "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1",
+      "selector": "header.header--redesign .sub-menu.buy-quote .thumbnails-wrap a:hover:before",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1",
+      "selector": "header.header--redesign .sub-menu.buy-quote .thumbnails-wrap a:before",
+      "declarations": "color:#fff;display:block;font-size:3.125rem;margin:0 0 1.25rem;position:static"
+    },
+    {
+      "source": "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1",
+      "selector": ".about-us-menu li:after,.action-links li:after,.blog-teaser header .date:after,.featured .date:after,.search-view__filter li:after,.search-view__sort ul li:afte",
+      "declarations": "content:\"|\";color:#ddd;display:inline-block;margin:0 .625rem"
+    },
+    {
+      "source": "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1",
+      "selector": "re,header.header--redesign .nav--account .nav--account__profile span:after,header.header--redesign .nav--account .nav--account__profile span:before,input[type=c",
+      "declarations": "font-family:tek!important;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale"
+    },
+    {
+      "source": "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1",
+      "selector": "pdown .form-submit,.dropdown .btn--green,.dropdown .configure-product__request-quote .form-submit,.price-band__dropdown .btn--green,.price-band__dropdown .confi",
+      "declarations": "font-family:Helvetica Neue,Helvetica,Arial,sans-serif;font-style:normal;font-weight:500;letter-spacing:.0375rem;padding:.5rem 2.5rem .5rem .9375rem"
+    },
+    {
+      "source": "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1",
+      "selector": "down .btn--green,.price-band__dropdown .btn--green:hover,.price-band__dropdown .configure-product__request-quote .form-submit,.price-band__dropdown .configure-p",
+      "declarations": "background-color:#73bf44"
+    },
+    {
+      "source": "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1",
+      "selector": ".btn,.button,.button-courseware a,.ps-button-label,input[type=button],input[type=reset],input[type=submit]",
+      "declarations": "font-family:Helvetica Neue,Helvetica,Arial,sans-serif;font-style:normal;font-weight:400;appearance:none;background-color:#035e7c;border:1px solid transparent;border-radius:1.25rem;color:#fff;cursor:pointer;display:inline-block;font-size:.75rem;-webkit-font-smoothing:antialiased;line-height:1.2;padding:.5rem 1.25rem;text-align:center;text-decoration:none;text-transform:uppercase;transition:background-color .15s ease;user-select:none;vertical-align:middle;white-space:normal;outline:none;word-spacing:.125rem"
+    },
+    {
+      "source": "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1",
+      "selector": ":hover,.ps-button-label:focus,.ps-button-label:hover,input:focus[type=button],input:focus[type=reset],input:focus[type=submit],input:hover[type=button],input:ho",
+      "declarations": "background-color:#1cb5d8;color:#0f1b24;text-decoration:none"
+    },
+    {
+      "source": "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1",
+      "selector": ".btn:active,.button-courseware a:active,.button:active,.ps-button-label:active,input:active[type=button],input:active[type=reset],input:active[type=submit]",
+      "declarations": "background-color:#353b43!important;color:#a5ce39!important"
+    },
+    {
+      "source": "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1",
+      "selector": "tton-label:disabled,input.btn--disabled[type=button],input.btn--disabled[type=reset],input.btn--disabled[type=submit],input:disabled[type=button],input:disabled",
+      "declarations": "cursor:not-allowed;opacity:.5;background:#ccc;color:#000;opacity:1"
+    },
+    {
+      "source": "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1",
+      "selector": "led:hover[type=button],input.btn--disabled:hover[type=reset],input.btn--disabled:hover[type=submit],input:disabled:hover[type=button],input:disabled:hover[type=",
+      "declarations": "background-color:#ccc;color:#000"
+    },
+    {
+      "source": "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1",
+      "selector": ".btn--green,.configure-product__request-quote .form-submit,.configure-product__request-quote input.form-submit[type=submit],.ps-button-label,input[type=submit].",
+      "declarations": "color:#17222c;background-color:#73bf44"
+    },
+    {
+      "source": "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1",
+      "selector": "re-product__request-quote input.form-submit[type=submit].btn:hover,.ps-button-label.btn:focus,.ps-button-label.btn:hover,input[type=submit].btn--green.btn:focus",
+      "declarations": "color:#17222c;background-color:#a5ce39"
+    },
+    {
+      "source": "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1",
+      "selector": ".btn--orange,.btn--orange:hover",
+      "declarations": "background-color:#f05a22"
+    },
+    {
+      "source": "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1",
+      "selector": ".btn--grey",
+      "declarations": "background-color:transparent;border:1px solid #ddd;color:#17222c;line-height:1;padding:.6rem 1.25rem .5rem"
+    },
+    {
+      "source": "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1",
+      "selector": ".btn--grey:focus,.btn--grey:hover",
+      "declarations": "background-color:#edf6fb;color:#17222c;border-color:#035e7c"
+    },
+    {
+      "source": "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1",
+      "selector": ".btn--label",
+      "declarations": "background-color:transparent;border:.0625rem solid #ccc;color:#17222c;font-size:.6875rem;font-weight:500;letter-spacing:.5px;margin-right:.625rem;padding:.3125rem .9375rem"
+    },
+    {
+      "source": "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1",
+      "selector": ".btn--label:focus,.btn--label:hover",
+      "declarations": "background-color:#ccc;color:#182752"
+    },
+    {
+      "source": "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1",
+      "selector": ".tags .btn--label",
+      "declarations": "margin-top:.625rem;border:.0625rem solid #ababab;text-transform:none;font-size:.8125rem!important;padding:.375rem .9375rem!important;color:#ababab"
+    },
+    {
+      "source": "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1",
+      "selector": ".tags .btn--label:focus,.tags .btn--label:hover",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1",
+      "selector": ".btn--outline",
+      "declarations": "color:#1cb5d8"
+    },
+    {
+      "source": "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1",
+      "selector": ".btn--outline,.btn--transp",
+      "declarations": "background-color:transparent;border-color:#035e7c"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Test and Measurement Equipment | Tektronix",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "colors.accent-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tek.com/en",
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "colors.accent-green-active": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "colors.ink-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "colors.muted-cool": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "colors.slate": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "colors.hairline-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tek.com/en",
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "colors.surface-tint": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tek.com/en",
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "colors.disabled-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "colors.disabled-text": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tek.com/en",
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "colors.alert-orange": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "colors.active-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tek.com/patternlab/css/tek.css?v-2026.09.21.1"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.code-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-readout": {
+      "status": "inferred"
+    }
+  }
+}

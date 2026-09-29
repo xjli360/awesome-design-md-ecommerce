@@ -1,0 +1,833 @@
+{
+  "source_url": "https://davekny.com",
+  "final_url": "https://davekny.com/",
+  "captured_at": "2026-09-28T05:06:15.243886+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://davekny.com",
+      "final_url": "https://davekny.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "504747874ad89c5c28d55ddff567e7604d91614bab83425f4c335fa88ecff440",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+      "final_url": "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7270ec34e59346da2dc8b485ba0315dbabf7babd318c2023890ca8f0584e1241",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://davekny.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://davekny.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "be10bc4b16346e787891f1da5de658505019fcd30172651891a4bf550c948e36",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 56,
+      "sources": [
+        "https://davekny.com/",
+        "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+        "https://davekny.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 32,
+      "sources": [
+        "https://davekny.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 27,
+      "sources": [
+        "https://davekny.com/",
+        "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#dedede": {
+      "count": 16,
+      "sources": [
+        "https://davekny.com/",
+        "https://davekny.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#000000": {
+      "count": 12,
+      "sources": [
+        "https://davekny.com/",
+        "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#1b1b1b": {
+      "count": 11,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#1a2431": {
+      "count": 10,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#555555": {
+      "count": 10,
+      "sources": [
+        "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 9,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#333333": {
+      "count": 7,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#00730b": {
+      "count": 6,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#787575": {
+      "count": 6,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 5,
+      "sources": [
+        "https://davekny.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#666666": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#8b8b8b": {
+      "count": 4,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#050505": {
+      "count": 4,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 3,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#b1b1b1": {
+      "count": 3,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#e80c0c": {
+      "count": 3,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#1199ff": {
+      "count": 3,
+      "sources": [
+        "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956"
+      ]
+    },
+    "#ffffff66": {
+      "count": 3,
+      "sources": [
+        "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956"
+      ]
+    },
+    "#108474": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#717171": {
+      "count": 2,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#dd2200": {
+      "count": 2,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#919191": {
+      "count": 2,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#00000033": {
+      "count": 2,
+      "sources": [
+        "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 2,
+      "sources": [
+        "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://davekny.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#fbcd0a": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#a89cc8": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#c1e6e6": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#0e0e0e": {
+      "count": 1,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#010101": {
+      "count": 1,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 1,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#989898": {
+      "count": 1,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#005a09": {
+      "count": 1,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#4e4e4e": {
+      "count": 1,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#212e3e": {
+      "count": 1,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 1,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#bcbcbc": {
+      "count": 1,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#a2a2a2": {
+      "count": 1,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#cfddde": {
+      "count": 1,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 1,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#465552": {
+      "count": 1,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#324340": {
+      "count": 1,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#3d524e": {
+      "count": 1,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#dadada": {
+      "count": 1,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#b4b4b4": {
+      "count": 1,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#9a9a9a": {
+      "count": 1,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#cdcdcd": {
+      "count": 1,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#7b7b7b": {
+      "count": 1,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#ebebeb": {
+      "count": 1,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#000d01": {
+      "count": 1,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://davekny.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Baskerville": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Helvetica": [
+      "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Instrument Sans": [
+      "https://davekny.com/"
+    ],
+    "JudgemeIcons": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons\" !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons' !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeStar": [
+      "https://davekny.com/"
+    ],
+    "JudgemeStar' !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Karla": [
+      "https://davekny.com/"
+    ],
+    "Montserrat": [
+      "https://davekny.com/"
+    ],
+    "Nunito Sans": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Times": [
+      "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956"
+    ],
+    "inherit!important": [
+      "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956"
+    ],
+    "monospace": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "neuzeits": [
+      "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956"
+    ],
+    "sans-serif": [
+      "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "sans-serif!important": [
+      "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://davekny.com/",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #1A2431;--jdgm-secondary-color: rgba(26,36,49,0.1);--jdgm-star-color: #1A2431;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #1A2431;--jdgm-paginate-color: #1A2431;--jdgm-border-radius: 0;--jdgm-reviewer-name-color: #1A2431"
+    },
+    {
+      "source": "https://davekny.com/",
+      "selector": ".header.header--transparent",
+      "declarations": "border-color: rgba(177, 177, 177, 0.2);\n    color: #ffffff;"
+    },
+    {
+      "source": "https://davekny.com/",
+      "selector": ".header.header--transparent .header__menu-icon .icon,\n  .header.header--transparent .disclosure__toggle",
+      "declarations": "color: #ffffff;"
+    },
+    {
+      "source": "https://davekny.com/",
+      "selector": ".header.header--transparent .icon-header-button",
+      "declarations": "--color: #ffffff;"
+    },
+    {
+      "source": "https://davekny.com/",
+      "selector": ".header.header--transparent .quick-cart__icon-indicator",
+      "declarations": "background-color: #ffffff;\n    color: #1b1b1b;"
+    },
+    {
+      "source": "https://davekny.com/",
+      "selector": ".header.header--transparent .quick-cart__indicator",
+      "declarations": "border-color: rgba(177, 177, 177, 0.2);"
+    },
+    {
+      "source": "https://davekny.com/",
+      "selector": ".header.header--transparent .header__icon-wrapper,\n  .header.header--transparent #mobile-nav",
+      "declarations": "color: #ffffff;"
+    },
+    {
+      "source": "https://davekny.com/",
+      "selector": ".8078);fill-opacity:1;\nstroke:black;stroke-opacity:0.07;\nfill:white;fill-opacity:1;\ntext-decoration: underline;\ntext-decoration: underline;\ntext-decoration: und",
+      "declarations": "position: absolute !important;\n     top: 10px !important;\n     left: 10px !important;\n     background-color: #000 !important;\n     color: #fff !important;\n     text-decoration: none !important;\n     overflow: hidden;\n     width: 1px !important;\n     height: 1px !important;\n     margin: -1px !important;\n     padding: 0 !important;\n     border: 0 !important;\n     clip: rect(0 0 0 0) !important;\n     word-wrap: normal !important;"
+    },
+    {
+      "source": "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "font-family:neuzeits,sans-serif!important;font-weight:100!important;font-weight:var(--your-font-weight-variable, 100)!important"
+    },
+    {
+      "source": "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+      "selector": ":root",
+      "declarations": "--line-height-body:1.71em;--line-height-heading-display:1.25em;--line-height-heading-small:1.35em;--line-height-heading:1.3em;--line-height-heading-2:1.3em;--line-height-overline:1.8em;--line-height-quote:1.42em;--line-height-quote-small:1.3em;--spacing-unit:4px;--spacing-none:0px;--spacing-extra-small:var(--spacing-unit);--spacing-small:calc(var(--spacing-unit) * 3);--spacing-medium:calc(var(--spacing-unit) * 5);--spacing-large:calc(var(--spacing-unit) * 7);--spacing-extra-large:calc(var(--spacing-unit) * 10);--spacing-extra-extra-large:calc(var(--spacing-unit) * 20);--ease:ease-in-out;--cubic:cubic-bezier(.32, .24, .15, 1);--cubic-quad:cubic-bezier(.25, 1, .5, 1);--size-close-icon:14px;--h"
+    },
+    {
+      "source": "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+      "selector": "body",
+      "declarations": "margin:0;font-family:var(--font-body);font-weight:var(--font-body-weight);font-style:var(--font-body-style);color:var(--color-text-body);background-color:var(--color-bg);-webkit-font-smoothing:antialiased"
+    },
+    {
+      "source": "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+      "selector": "body,input,textarea,button",
+      "declarations": "font-family:var(--font-body)"
+    },
+    {
+      "source": "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+      "selector": ".section.section--contrast .newsletter__submit-button",
+      "declarations": "color:var(--color-contrast-text)"
+    },
+    {
+      "source": "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+      "selector": ".secondary_button-style-solid .section.section--contrast .bttn--secondary",
+      "declarations": "color:var(--color-contrast-bg);background-color:var(--color-contrast-secondary-button-bg)"
+    },
+    {
+      "source": "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+      "selector": ".secondary_button-style-solid .section.section--contrast .bttn--secondary:hover,.secondary_button-style-solid .section.section--contrast .bttn--secondary:focus",
+      "declarations": "background-color:var(--color-contrast-secondary-button-meta)"
+    },
+    {
+      "source": "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+      "selector": ".secondary_button-style-solid .section.section--contrast .bttn--secondary:disabled:hover",
+      "declarations": "background-color:var(--color-contrast-secondary-button-bg)"
+    },
+    {
+      "source": "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+      "selector": ".secondary_button-style-bordered .section.section--contrast .bttn--secondary",
+      "declarations": "color:var(--color-contrast-secondary-button-bg);border-color:var(--color-contrast-secondary-button-border)"
+    },
+    {
+      "source": "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+      "selector": ".secondary_button-style-bordered .section.section--contrast .bttn--secondary:before",
+      "declarations": "background-color:var(--color-contrast-secondary-button-bg)"
+    },
+    {
+      "source": "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+      "selector": ".secondary_button-style-bordered .section.section--contrast .bttn--secondary:hover",
+      "declarations": "color:var(--color-contrast-bg)"
+    },
+    {
+      "source": "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+      "selector": ".secondary_button-style-bordered .section.section--contrast .bttn--secondary:disabled:hover",
+      "declarations": "color:var(--color-contrast-secondary-button-meta)"
+    },
+    {
+      "source": "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+      "selector": "body",
+      "declarations": "color:var(--color-text);font-family:var(--font-body);line-height:var(--line-height-body);font-weight:var(--font-body-weight);font-size:var(--font-size-body-base);font-style:var(--font-body-style);-webkit-font-smoothing:antialiased"
+    },
+    {
+      "source": "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "font-family:inherit;font-size:var(--font-size-body-base);font-weight:var(--font-body-weight);font-style:var(--font-body-style)"
+    },
+    {
+      "source": "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+      "selector": ".shopify-policy__container h1,.type-heading-1",
+      "declarations": "font-size:var(--font-size-heading-1);line-height:var(--line-height-heading);font-family:var(--font-heading),sans-serif;font-weight:var(--font-heading-weight);font-style:var(--font-heading-style)"
+    },
+    {
+      "source": "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+      "selector": ".type-body-small",
+      "declarations": "font-size:var(--font-size-body-small);line-height:var(--line-height-body);font-family:var(--font-body),georgia"
+    },
+    {
+      "source": "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+      "selector": ".type-body-regular",
+      "declarations": "font-size:var(--font-size-body-base);line-height:var(--line-height-body);font-family:var(--font-body),georgia"
+    },
+    {
+      "source": "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+      "selector": ".type-body-large",
+      "declarations": "font-size:var(--font-size-body-large);line-height:var(--line-height-body);font-family:var(--font-body),georgia"
+    },
+    {
+      "source": "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+      "selector": ".type-body-extra-large",
+      "declarations": "font-size:var(--font-size-body-extra-large);line-height:var(--line-height-body);font-family:var(--font-body),georgia"
+    },
+    {
+      "source": "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+      "selector": ".rte h1",
+      "declarations": "font-size:2.2em;font-family:var(--font-heading);font-weight:var(--font-heading-weight);font-style:var(--font-heading-style);line-height:var(--line-height-heading)"
+    },
+    {
+      "source": "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+      "selector": ".footer__newsletter-button",
+      "declarations": "position:absolute;right:var(--spacing-small);top:0;background:transparent;display:flex;align-items:center;border:0;color:var(--color-footer-text);height:var(--height-button)"
+    },
+    {
+      "source": "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+      "selector": ":root",
+      "declarations": "--header-height:40px;--submenu-width:200px"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "The Best Umbrella | Wind Resistant Umbrellas | Best Travel Umbrellas The Best Umbrella | Wind Resistant Umbrellas | Best Travel Umbrellas\n– Davek Umbrellas",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://davekny.com/",
+        "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://davekny.com/",
+        "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+        "https://davekny.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://davekny.com/",
+        "https://davekny.com/cdn/shop/t/55/assets/theme.css?v=32254159610856899001786454956",
+        "https://davekny.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.accent-sale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "colors.accent-success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://davekny.com/"
+      ]
+    },
+    "colors.accent-highlight": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.wind-rating-indicator": {
+      "status": "inferred"
+    }
+  }
+}

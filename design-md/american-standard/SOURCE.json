@@ -1,0 +1,958 @@
+{
+  "source_url": "https://americanstandard-us.com",
+  "final_url": "https://www.americanstandard-us.com/",
+  "captured_at": "2026-09-29T04:11:42.265340+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://americanstandard-us.com",
+      "final_url": "https://www.americanstandard-us.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "cb5798848844194034486fc23e13d2951c664e4b7225ce1962912798d3bf0e9f",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+      "final_url": "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e5a4060550b7426b197ca498fe3957d5b677ef1874b1443aba25c3830a0b2f3c",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme-sass.css?v=166602369257674745261785414631",
+      "final_url": "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme-sass.css?v=166602369257674745261785414631",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a70e9730cd29b38c88fe8dcdff78f60ca375153af69b88cae0b496dbf45dd5d6",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254",
+      "final_url": "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ba2ecf9bdeb1aba1d9c95ab2dfaefbcd2cc71652e5d40e06aaeb4bba31449762",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.americanstandard-us.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.americanstandard-us.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/wishlistcollections.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/wishlistcollections.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b7a3886c32031fc7681315ac88a93864532686d5efc19a13a35f8a339125df64",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 82,
+      "sources": [
+        "https://www.americanstandard-us.com/",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme-sass.css?v=166602369257674745261785414631",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254",
+        "https://www.americanstandard-us.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#1c1c1e": {
+      "count": 43,
+      "sources": [
+        "https://www.americanstandard-us.com/",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254"
+      ]
+    },
+    "#000000": {
+      "count": 39,
+      "sources": [
+        "https://www.americanstandard-us.com/",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme-sass.css?v=166602369257674745261785414631",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254"
+      ]
+    },
+    "#00000000": {
+      "count": 37,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+        "https://www.americanstandard-us.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0f2b4b": {
+      "count": 19,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme-sass.css?v=166602369257674745261785414631"
+      ]
+    },
+    "#e70025": {
+      "count": 18,
+      "sources": [
+        "https://www.americanstandard-us.com/",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254"
+      ]
+    },
+    "#e70026": {
+      "count": 18,
+      "sources": [
+        "https://www.americanstandard-us.com/",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme-sass.css?v=166602369257674745261785414631"
+      ]
+    },
+    "#3984be": {
+      "count": 12,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme-sass.css?v=166602369257674745261785414631"
+      ]
+    },
+    "#a9a9ae": {
+      "count": 8,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254"
+      ]
+    },
+    "#22973f": {
+      "count": 6,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+      ]
+    },
+    "#0f2b4c": {
+      "count": 6,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme-sass.css?v=166602369257674745261785414631"
+      ]
+    },
+    "#111827": {
+      "count": 6,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254"
+      ]
+    },
+    "#6b7280": {
+      "count": 5,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254"
+      ]
+    },
+    "#ff9500": {
+      "count": 5,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+      ]
+    },
+    "#4f4f4f": {
+      "count": 4,
+      "sources": [
+        "https://www.americanstandard-us.com/",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254"
+      ]
+    },
+    "#2563eb": {
+      "count": 4,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+      ]
+    },
+    "#f2f4f6": {
+      "count": 4,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme-sass.css?v=166602369257674745261785414631"
+      ]
+    },
+    "#c8102e": {
+      "count": 4,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254"
+      ]
+    },
+    "#b0b0b0": {
+      "count": 3,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+      ]
+    },
+    "#edeff1": {
+      "count": 3,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme-sass.css?v=166602369257674745261785414631"
+      ]
+    },
+    "#e7f0f7": {
+      "count": 3,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme-sass.css?v=166602369257674745261785414631"
+      ]
+    },
+    "#fafafa": {
+      "count": 2,
+      "sources": [
+        "https://www.americanstandard-us.com/",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254"
+      ]
+    },
+    "#9ca3af": {
+      "count": 2,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+      ]
+    },
+    "#6b6b72": {
+      "count": 2,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 2,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254"
+      ]
+    },
+    "#ff3b30": {
+      "count": 2,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+      ]
+    },
+    "#f1f4f6": {
+      "count": 2,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme-sass.css?v=166602369257674745261785414631"
+      ]
+    },
+    "#999999": {
+      "count": 2,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme-sass.css?v=166602369257674745261785414631",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+      ]
+    },
+    "#720216": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+      ]
+    },
+    "#32325d40": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+      ]
+    },
+    "#0000004d": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+      ]
+    },
+    "#2c3134": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+      ]
+    },
+    "#d70025": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+      ]
+    },
+    "#acabae": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+      ]
+    },
+    "#fbfbfb": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+      ]
+    },
+    "#d8d8db": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+      ]
+    },
+    "#888888": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+      ]
+    },
+    "#5d5d5d": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+      ]
+    },
+    "#ff1310": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+      ]
+    },
+    "#222222": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+      ]
+    },
+    "#757575": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+      ]
+    },
+    "#ff0b00": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme-sass.css?v=166602369257674745261785414631"
+      ]
+    },
+    "#080707": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme-sass.css?v=166602369257674745261785414631"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme-sass.css?v=166602369257674745261785414631"
+      ]
+    },
+    "#141414": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254"
+      ]
+    },
+    "#1f2937": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254"
+      ]
+    },
+    "#0000000d": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254"
+      ]
+    },
+    "#0000001a": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254"
+      ]
+    },
+    "#6a6a6a": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254"
+      ]
+    },
+    "#6e6e6e": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254"
+      ]
+    },
+    "#4a4a4a": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254"
+      ]
+    },
+    "#80808059": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254"
+      ]
+    },
+    "#ff3d00": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254"
+      ]
+    },
+    "#f9fafb": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254"
+      ]
+    },
+    "#3b82f6": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://www.americanstandard-us.com/",
+      "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+    ],
+    "Apple Color Emoji": [
+      "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+    ],
+    "Arial": [
+      "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+      "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme-sass.css?v=166602369257674745261785414631"
+    ],
+    "BlinkMacSystemFont": [
+      "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+    ],
+    "Consolas": [
+      "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+    ],
+    "Courier New": [
+      "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+    ],
+    "Helvetica": [
+      "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme-sass.css?v=166602369257674745261785414631"
+    ],
+    "Helvetica Neue": [
+      "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+    ],
+    "Liberation Mono": [
+      "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+    ],
+    "Menlo": [
+      "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+    ],
+    "Monaco": [
+      "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+    ],
+    "Montserrat": [
+      "https://www.americanstandard-us.com/",
+      "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+      "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme-sass.css?v=166602369257674745261785414631"
+    ],
+    "Montserrat!important": [
+      "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+    ],
+    "Noto Color Emoji": [
+      "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+    ],
+    "Noto Sans": [
+      "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+    ],
+    "Roboto": [
+      "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+    ],
+    "SFMono-Regular": [
+      "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+    ],
+    "Segoe UI": [
+      "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+    ],
+    "Segoe UI Emoji": [
+      "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+    ],
+    "Segoe UI Symbol": [
+      "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+    ],
+    "monospace": [
+      "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+    ],
+    "sans-serif": [
+      "https://www.americanstandard-us.com/",
+      "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+      "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme-sass.css?v=166602369257674745261785414631"
+    ],
+    "sans-serif!important": [
+      "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme-sass.css?v=166602369257674745261785414631"
+    ],
+    "system-ui": [
+      "https://www.americanstandard-us.com/",
+      "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+    ],
+    "ui-monospace": [
+      "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+    ],
+    "ui-sans-serif": [
+      "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.americanstandard-us.com/",
+      "selector": "body",
+      "declarations": "margin: 0;\n    font-family: Montserrat, system-ui, -apple-system, sans-serif;\n    color: #1c1c1e;\n    line-height: 1.5;"
+    },
+    {
+      "source": "https://www.americanstandard-us.com/",
+      "selector": ":root",
+      "declarations": "--swatch--background-no-image: url(//www.americanstandard-us.com/cdn/shop/files/no-image-swatch.png?v=9561460259801808305);"
+    },
+    {
+      "source": "https://www.americanstandard-us.com/",
+      "selector": "#abg-redirect-modal-abg-redirect-modal .abg-redirect-modal__body",
+      "declarations": "font-family: Montserrat, sans-serif;\n      font-size: 1rem;\n      line-height: 1.5;\n      margin: 0;\n      color: rgb(79, 79, 79);"
+    },
+    {
+      "source": "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+      "selector": ".ps-container .ps-product-name,.ps-widget,.ps-widget small",
+      "declarations": "font-family:Montserrat!important"
+    },
+    {
+      "source": "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-feature-settings:inherit;color:inherit;font-family:inherit;font-size:100%;font-variation-settings:inherit;font-weight:inherit;line-height:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+      "selector": "[type=button],[type=reset],[type=submit],button",
+      "declarations": "-webkit-appearance:button;background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+      "selector": "body",
+      "declarations": "--tw-text-opacity:1;color:rgb(28 28 30/var(--tw-text-opacity));font-family:Montserrat;letter-spacing:-.01em;line-height:1.5"
+    },
+    {
+      "source": "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+      "selector": "[target=_blank] input:focus-visible,product-single a[target=_blank] select:focus-visible,product-single a[target=_blank] textarea:focus-visible,product-single a",
+      "declarations": "border-radius:.25rem;outline-color:#1c1c1e;outline-offset:-1px;outline-style:solid;outline-width:2px"
+    },
+    {
+      "source": "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+      "selector": "ror:focus-visible,product-single a[target=_blank] select.error:focus-visible,product-single a[target=_blank] textarea.error:focus-visible,product-single a[targe",
+      "declarations": "border-radius:.25rem;outline-color:#1c1c1e;outline-offset:-1px;outline-style:solid;outline-width:2px"
+    },
+    {
+      "source": "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+      "selector": "product-info a[target=_blank][type=checkbox]:checked:focus-visible,product-single a[target=_blank][type=checkbox]:checked:focus-visible",
+      "declarations": "border-radius:.25rem;outline-color:#1c1c1e;outline-offset:-1px;outline-style:solid;outline-width:2px"
+    },
+    {
+      "source": "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+      "selector": "product-info a[target=_blank].btn:focus-visible,product-single a[target=_blank].btn:focus-visible",
+      "declarations": "border-radius:.25rem;outline-color:#1c1c1e;outline-offset:-1px;outline-style:solid;outline-width:2px"
+    },
+    {
+      "source": "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+      "selector": ".btn",
+      "declarations": "--tw-bg-opacity:1;--tw-text-opacity:1;background-color:rgb(231 0 37/var(--tw-bg-opacity));border-color:transparent;border-width:1px;color:rgb(255 255 255/var(--tw-text-opacity));display:inline-block;font-size:1rem;font-weight:600;line-height:1.5rem;line-height:1!important;padding:1rem 2rem"
+    },
+    {
+      "source": "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+      "selector": ".btn:hover",
+      "declarations": "--tw-bg-opacity:1;background-color:rgb(190 3 36/var(--tw-bg-opacity))"
+    },
+    {
+      "source": "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+      "selector": ".btn:active",
+      "declarations": "--tw-bg-opacity:1;background-color:rgb(114 2 22/var(--tw-bg-opacity))"
+    },
+    {
+      "source": "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+      "selector": ".btn:disabled",
+      "declarations": "--tw-bg-opacity:1;--tw-text-opacity:1;background-color:rgb(209 209 209/var(--tw-bg-opacity));color:rgb(107 107 114/var(--tw-text-opacity));cursor:default"
+    },
+    {
+      "source": "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+      "selector": ".btn:focus-visible",
+      "declarations": "--tw-border-opacity:1;--tw-bg-opacity:1;background-color:rgb(231 0 37/var(--tw-bg-opacity));border-color:rgb(114 2 22/var(--tw-border-opacity));border-width:2px;outline-color:#1c1c1e;outline-offset:1px;outline-style:solid;outline-width:2px"
+    },
+    {
+      "source": "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+      "selector": "product-info a[target=_blank].btn-secondary:focus-visible,product-single a[target=_blank].btn-secondary:focus-visible",
+      "declarations": "border-radius:.25rem;outline-color:#1c1c1e;outline-offset:-1px;outline-style:solid;outline-width:2px"
+    },
+    {
+      "source": "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+      "selector": ".btn-secondary",
+      "declarations": "--tw-text-opacity:1;background-color:transparent;border-width:1px;color:rgb(28 28 30/var(--tw-text-opacity));display:inline-block;font-size:1rem;font-weight:600;line-height:1.5rem;line-height:1!important;padding:1rem 2rem"
+    },
+    {
+      "source": "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+      "selector": ".btn-secondary,.btn-secondary:hover",
+      "declarations": "--tw-border-opacity:1;border-color:rgb(28 28 30/var(--tw-border-opacity))"
+    },
+    {
+      "source": "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+      "selector": ".btn-secondary:hover",
+      "declarations": "--tw-bg-opacity:1;--tw-text-opacity:1;background-color:rgb(28 28 30/var(--tw-bg-opacity));color:rgb(255 255 255/var(--tw-text-opacity))"
+    },
+    {
+      "source": "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+      "selector": ".btn-secondary:active",
+      "declarations": "--tw-border-opacity:1;--tw-bg-opacity:1;background-color:rgb(67 67 72/var(--tw-bg-opacity));border-color:rgb(67 67 72/var(--tw-border-opacity))"
+    },
+    {
+      "source": "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+      "selector": ".btn-secondary:focus-visible",
+      "declarations": "--tw-border-opacity:1;--tw-bg-opacity:1;--tw-text-opacity:1;background-color:rgb(255 255 255/var(--tw-bg-opacity));border-color:rgb(190 3 36/var(--tw-border-opacity));border-width:2px;color:rgb(28 28 30/var(--tw-text-opacity));outline-color:#1c1c1e;outline-offset:1px;outline-style:solid;outline-width:2px"
+    },
+    {
+      "source": "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+      "selector": "product-info a[target=_blank].btn-ghost:focus-visible,product-single a[target=_blank].btn-ghost:focus-visible",
+      "declarations": "border-radius:.25rem;outline-color:#1c1c1e;outline-offset:-1px;outline-style:solid;outline-width:2px"
+    },
+    {
+      "source": "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+      "selector": ".btn-ghost",
+      "declarations": "--tw-border-opacity:1;--tw-bg-opacity:1;--tw-text-opacity:1;background-color:rgb(255 255 255/var(--tw-bg-opacity));border-color:rgb(216 216 219/var(--tw-border-opacity));border-width:1px;color:rgb(28 28 30/var(--tw-text-opacity));display:inline-block;font-size:1rem;font-weight:600;line-height:1.5rem;line-height:1!important;padding:1rem 2rem"
+    },
+    {
+      "source": "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+      "selector": ".btn-ghost:hover",
+      "declarations": "--tw-bg-opacity:1;--tw-text-opacity:1!important;background-color:rgb(248 248 248/var(--tw-bg-opacity));color:rgb(0 0 0/var(--tw-text-opacity))!important"
+    },
+    {
+      "source": "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+      "selector": ".btn-ghost:active",
+      "declarations": "--tw-bg-opacity:1;background-color:rgb(216 216 219/var(--tw-bg-opacity))"
+    },
+    {
+      "source": "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+      "selector": ".btn-ghost:focus-visible",
+      "declarations": "--tw-border-opacity:1;--tw-bg-opacity:1;background-color:rgb(255 255 255/var(--tw-bg-opacity));border-color:rgb(190 3 36/var(--tw-border-opacity));border-width:2px;outline-color:#1c1c1e;outline-offset:1px;outline-style:solid;outline-width:2px"
+    },
+    {
+      "source": "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+      "selector": "product-info a[target=_blank].btn-save:focus-visible,product-single a[target=_blank].btn-save:focus-visible",
+      "declarations": "border-radius:.25rem;outline-color:#1c1c1e;outline-offset:-1px;outline-style:solid;outline-width:2px"
+    },
+    {
+      "source": "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+      "selector": ".btn-save",
+      "declarations": "--tw-border-opacity:1;--tw-bg-opacity:1;--tw-text-opacity:1;background-color:rgb(34 151 63/var(--tw-bg-opacity));border-color:rgb(34 151 63/var(--tw-border-opacity));border-width:1px;color:rgb(255 255 255/var(--tw-text-opacity));display:inline-block;font-size:1rem;font-weight:600;line-height:1.5rem;line-height:1!important;padding:1rem 2rem"
+    },
+    {
+      "source": "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+      "selector": ".btn-save:hover",
+      "declarations": "background-color:rgb(28 94 46/var(--tw-bg-opacity));border-color:rgb(28 94 46/var(--tw-border-opacity))"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Bathroom and Kitchen Fixtures, Faucets, Sinks, Toilets and Accessories",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.americanstandard-us.com/",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+      ]
+    },
+    "colors.primary-active": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.americanstandard-us.com/",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.americanstandard-us.com/",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme-sass.css?v=166602369257674745261785414631",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254",
+        "https://www.americanstandard-us.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.americanstandard-us.com/",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.americanstandard-us.com/",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme-sass.css?v=166602369257674745261785414631",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254",
+        "https://www.americanstandard-us.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.americanstandard-us.com/",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme-sass.css?v=166602369257674745261785414631",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254",
+        "https://www.americanstandard-us.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.disabled-surface": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.navy": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme-sass.css?v=166602369257674745261785414631"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+      ]
+    },
+    "colors.accent-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+      ]
+    },
+    "colors.accent-orange": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.americanstandard-us.com/",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/theme.css?v=32893919593089956921790252761",
+        "https://www.americanstandard-us.com/cdn/shop/t/165/assets/nimstrata.css?v=27791058210641778371769692254"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.finish-swatch": {
+      "status": "inferred"
+    }
+  }
+}

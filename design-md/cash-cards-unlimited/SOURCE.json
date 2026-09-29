@@ -1,0 +1,860 @@
+{
+  "source_url": "https://cashcardsunlimited.com",
+  "final_url": "https://cashcardsunlimited.com/",
+  "captured_at": "2026-09-28T04:44:47.610816+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://cashcardsunlimited.com",
+      "final_url": "https://cashcardsunlimited.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "05bccbd18f464e8ddb27acb3a34c5ae279f93ec7e13725a027842536de623637",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+      "final_url": "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5c2efee5c17ffa3d278424955f534463414d50258cda0e51b4f3b464ed7f5697",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://cashcardsunlimited.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://cashcardsunlimited.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cashcardsunlimited.com/cdn/shop/t/43/assets/country-flags.aio.min.css",
+      "final_url": "https://cashcardsunlimited.com/cdn/shop/t/43/assets/country-flags.aio.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "172ebd2bf76a775a858c72d9f5660fc9714a7721ef8bbe143915b250cb3c4913",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "be10bc4b16346e787891f1da5de658505019fcd30172651891a4bf550c948e36",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/019d8d58-a866-7cc0-a56d-034e841fddc0/mahina-event-calendar-app-60/assets/cheel.css",
+      "final_url": "https://cdn.shopify.com/extensions/019d8d58-a866-7cc0-a56d-034e841fddc0/mahina-event-calendar-app-60/assets/cheel.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "effb0437c83f2fe6b54653256c7b72b13791878f759d142a8888c67e5236ed83",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 65,
+      "sources": [
+        "https://cashcardsunlimited.com/",
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+        "https://cashcardsunlimited.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/019d8d58-a866-7cc0-a56d-034e841fddc0/mahina-event-calendar-app-60/assets/cheel.css"
+      ]
+    },
+    "#000000": {
+      "count": 37,
+      "sources": [
+        "https://cashcardsunlimited.com/",
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 32,
+      "sources": [
+        "https://cashcardsunlimited.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 12,
+      "sources": [
+        "https://cashcardsunlimited.com/",
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#333333": {
+      "count": 10,
+      "sources": [
+        "https://cashcardsunlimited.com/",
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 10,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#d02e2e": {
+      "count": 10,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "#b6b6b6": {
+      "count": 9,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "#0db300": {
+      "count": 8,
+      "sources": [
+        "https://cashcardsunlimited.com/",
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "#555555": {
+      "count": 7,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#2c4acc": {
+      "count": 6,
+      "sources": [
+        "https://cashcardsunlimited.com/"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 5,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 5,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "#666666": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#56ad6a": {
+      "count": 4,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 3,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "#999999": {
+      "count": 3,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 3,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#fff6f6": {
+      "count": 3,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "#108474": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#20da22": {
+      "count": 2,
+      "sources": [
+        "https://cashcardsunlimited.com/"
+      ]
+    },
+    "#0428ff": {
+      "count": 2,
+      "sources": [
+        "https://cashcardsunlimited.com/"
+      ]
+    },
+    "#122582": {
+      "count": 2,
+      "sources": [
+        "https://cashcardsunlimited.com/"
+      ]
+    },
+    "#fafafa": {
+      "count": 2,
+      "sources": [
+        "https://cashcardsunlimited.com/",
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "#003aff": {
+      "count": 2,
+      "sources": [
+        "https://cashcardsunlimited.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#fbcd0a": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#a89cc8": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#c1e6e6": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#2cca27": {
+      "count": 1,
+      "sources": [
+        "https://cashcardsunlimited.com/"
+      ]
+    },
+    "#30ce19": {
+      "count": 1,
+      "sources": [
+        "https://cashcardsunlimited.com/"
+      ]
+    },
+    "#7b7b7b": {
+      "count": 1,
+      "sources": [
+        "https://cashcardsunlimited.com/"
+      ]
+    },
+    "#56ba48": {
+      "count": 1,
+      "sources": [
+        "https://cashcardsunlimited.com/"
+      ]
+    },
+    "#e5e5e5b3": {
+      "count": 1,
+      "sources": [
+        "https://cashcardsunlimited.com/"
+      ]
+    },
+    "#111111": {
+      "count": 1,
+      "sources": [
+        "https://cashcardsunlimited.com/"
+      ]
+    },
+    "#11e600": {
+      "count": 1,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "#0b9a00": {
+      "count": 1,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "#2b2a27": {
+      "count": 1,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 1,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 1,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "#3fb8af": {
+      "count": 1,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "#ebebeb": {
+      "count": 1,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "#e8e7e6": {
+      "count": 1,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "#b8b8b8": {
+      "count": 1,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 1,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "#00000017": {
+      "count": 1,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "#222222": {
+      "count": 1,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "#faf7f5": {
+      "count": 1,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "#51ab62": {
+      "count": 1,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "#e1e1e1": {
+      "count": 1,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "#ecfef0": {
+      "count": 1,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "#444444": {
+      "count": 1,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 1,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "#54c63a": {
+      "count": 1,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "#f4af29": {
+      "count": 1,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 1,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "#58686f": {
+      "count": 1,
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    }
+  },
+  "font_families": {
+    "Anton": [
+      "https://cashcardsunlimited.com/"
+    ],
+    "Arial": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Baskerville": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Consolas": [
+      "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+    ],
+    "Helvetica": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons\" !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons' !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeStar": [
+      "https://cashcardsunlimited.com/"
+    ],
+    "JudgemeStar' !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Nunito Sans": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Poppins": [
+      "https://cashcardsunlimited.com/"
+    ],
+    "monospace": [
+      "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "object-fit: cover": [
+      "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+    ],
+    "sans-serif": [
+      "https://cashcardsunlimited.com/",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://cashcardsunlimited.com/",
+      "selector": ":root",
+      "declarations": "--typeHeaderPrimary: Anton;\n    --typeHeaderFallback: sans-serif;\n    --typeHeaderSize: 42px;\n    --typeHeaderWeight: 400;\n    --typeHeaderLineHeight: 1.2;\n    --typeHeaderSpacing: 0.05em;\n\n    --typeBasePrimary:Anton;\n    --typeBaseFallback:sans-serif;\n    --typeBaseSize: 18px;\n    --typeBaseWeight: 400;\n    --typeBaseSpacing: 0.025em;\n    --typeBaseLineHeight: 1.4;\n    --typeBaselineHeightMinus01: 1.3;\n\n    --typeCollectionTitle: 23px;\n\n    --iconWeight: 5px;\n    --iconLinecaps: round;\n\n    \n        --buttonRadius: 50px;\n    \n\n    --colorGridOverlayOpacity: 0.1;"
+    },
+    {
+      "source": "https://cashcardsunlimited.com/",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #2C4ACC;--jdgm-secondary-color: rgba(44,74,204,0.1);--jdgm-star-color: #2CCA27;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #2C4ACC;--jdgm-paginate-color: #2C4ACC;--jdgm-border-radius: 0;--jdgm-reviewer-name-color: #2C4ACC"
+    },
+    {
+      "source": "https://cashcardsunlimited.com/",
+      "selector": ".ecom-builder button, a.ecom__element--button",
+      "declarations": "font-family: 'Poppins', sans-serif;font-weight: 600;padding: 10px 20px 10px 20px;color: #fff;background-color: #122582;border-radius: 0%;"
+    },
+    {
+      "source": "https://cashcardsunlimited.com/",
+      "selector": ":root",
+      "declarations": "--ecom-global-colors-primary:#ffffff;--ecom-global-colors-secondary:#ffffff;--ecom-global-colors-text:#ffffff;--ecom-global-colors-accent:#ffffff;--ecom-global-colors-BBUDPw2G:#122582;--ecom-global-colors-Mtio7HW6:#56BA48;--ecom-global-colors-W1Mg7zBk:#fafafa;--ecom-global-typography-h1-font-weight:600;--ecom-global-typography-h1-font-size:72px;--ecom-global-typography-h1-line-height:90px;--ecom-global-typography-h1-letter-spacing:-0.02em;--ecom-global-typography-h2-font-weight:600;--ecom-global-typography-h2-font-size:60px;--ecom-global-typography-h2-line-height:72px;--ecom-global-typography-h2-letter-spacing:-0.02em;--ecom-global-typography-h3-font-weight:600;--ecom-global-typography-h3-fo"
+    },
+    {
+      "source": "https://cashcardsunlimited.com/",
+      "selector": "display:none;visibility:hidden\n #shopify-section-sections--20587293114595__header .megamenu .h5, #shopify-section-sections--20587293114595__header .megamenu h5",
+      "declarations": "margin-bottom: 5px; font-style: bolder; font-family: sans-serif;"
+    },
+    {
+      "source": "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+      "selector": "@charset \"UTF-8\";:root",
+      "declarations": "--colorAnnouncement:#0db300;--colorAnnouncementText:#ffffff;--colorBody:#000000;--colorBodyAlpha05:rgba(0, 0, 0, 0.05);--colorBodyDim:#000000;--colorBodyLightDim:#000000;--colorBodyMediumDim:#000000;--colorBorder:#0db300;--colorBtnPrimary:#0db300;--colorBtnPrimaryLight:#11e600;--colorBtnPrimaryDim:#0b9a00;--colorBtnPrimaryText:#000000;--colorCartDot:#0db300;--colorDrawers:#000000;--colorDrawersDim:#000000;--colorDrawerBorder:#2b2a27;--colorDrawerText:#ffffff;--colorDrawerTextDark:#d9d9d9;--colorDrawerButton:#0db300;--colorDrawerButtonText:#000000;--colorFooter:#000000;--colorFooterText:#ffffff;--colorFooterTextAlpha01:#ffffff;--colorGridOverlay:#000000;--colorGridOverlayOpacity:0.1;--colorHe"
+    },
+    {
+      "source": "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+      "selector": ":root",
+      "declarations": "--grid-gutter:22px;--drawer-gutter:30px"
+    },
+    {
+      "source": "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+      "selector": ".flickity-button",
+      "declarations": "background:var(--colorBtnPrimary);border:none;border-radius:50%;color:var(--colorBtnPrimaryText);position:absolute"
+    },
+    {
+      "source": "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+      "selector": ".hero .flickity-button",
+      "declarations": "background-color:var(--colorBody);box-shadow:0 5px 5px rgba(0,0,0,.1);color:var(--colorTextBody)"
+    },
+    {
+      "source": "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+      "selector": ".hotspots__buttons",
+      "declarations": "background-color:transparent;border:0;height:100%;left:0;position:absolute;top:0;width:100%"
+    },
+    {
+      "source": "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+      "selector": ".hotspot__button-content",
+      "declarations": "background-color:var(--colorBody);border-radius:5px;box-shadow:3px 3px 10px 3px rgba(0,0,0,.2);color:var(--colorTextBody);left:50%;min-width:5rem;opacity:0;padding:1rem;pointer-events:none;position:absolute;top:calc(100% + 1rem);transform:translateX(-50%);transition:opacity .3s ease-in-out;visibility:hidden"
+    },
+    {
+      "source": "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+      "selector": ".hotspot__button-content:before",
+      "declarations": "border-color:transparent transparent var(--colorBody) transparent;border-style:solid;border-width:0 5px 10px 5px;content:\"\";height:0;left:50%;position:absolute;top:-10px;transform:translateX(-50%);width:0"
+    },
+    {
+      "source": "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+      "selector": ".comparison__button:before",
+      "declarations": "background-color:#fff!important"
+    },
+    {
+      "source": "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+      "selector": ".comparison__button:after",
+      "declarations": "background-color:#fff!important"
+    },
+    {
+      "source": "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+      "selector": "product-recommendations[data-intent=complementary] .grid__image-ratio",
+      "declarations": "background-color:transparent"
+    },
+    {
+      "source": "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+      "selector": "body,html",
+      "declarations": "background-color:var(--colorBody);color:var(--colorTextBody)"
+    },
+    {
+      "source": "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+      "selector": ".faux-select,body,button,input,select,textarea",
+      "declarations": "-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:100%;font-family:var(--typeBasePrimary),var(--typeBaseFallback);font-size:calc(var(--typeBaseSize)*.92);letter-spacing:var(--typeBaseSpacing);line-height:var(--typeBaseLineHeight);text-rendering:optimizeSpeed"
+    },
+    {
+      "source": "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+      "selector": ".h1,.h2,.h3,h1,h2,h3",
+      "declarations": "font-family:var(--typeHeaderPrimary),var(--typeHeaderFallback);font-weight:var(--typeHeaderWeight);letter-spacing:var(--typeHeaderSpacing);line-height:var(--typeHeaderLineHeight)"
+    },
+    {
+      "source": "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+      "selector": "button",
+      "declarations": "color:currentColor;overflow:visible"
+    },
+    {
+      "source": "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+      "selector": ".btn,.rte .btn,.shopify-payment-button .shopify-payment-button__button--unbranded",
+      "declarations": "-webkit-appearance:none;-moz-appearance:none;background:var(--colorBtnPrimary);border:1px solid transparent;border-radius:var(--buttonRadius);color:var(--colorBtnPrimaryText);cursor:pointer;display:inline-block;font-size:calc(var(--typeBaseSize) - 4px);font-size:max(calc(var(--typeBaseSize) - 4px), 13px);font-weight:700;letter-spacing:.3em;line-height:1.42;margin:0;min-width:90px;padding:11px 20px;text-align:center;-webkit-text-decoration:none;text-decoration:none;text-transform:uppercase;-webkit-user-select:none;-moz-user-select:none;user-select:none;vertical-align:middle;white-space:normal;width:auto"
+    },
+    {
+      "source": "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+      "selector": ".btn:hover,.rte .btn:hover,.shopify-payment-button .shopify-payment-button__button--unbranded:hover",
+      "declarations": "background-color:var(--colorBtnPrimary);color:var(--colorBtnPrimaryText)"
+    },
+    {
+      "source": "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+      "selector": "isabled],.rte .btn.disabled,.rte .btn[disabled],.shopify-payment-button .shopify-payment-button__button--unbranded.disabled,.shopify-payment-button .shopify-pay",
+      "declarations": "background-color:#f6f6f6;color:#b6b6b6;cursor:default"
+    },
+    {
+      "source": "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+      "selector": "led:hover,.rte .btn[disabled]:hover,.shopify-payment-button .shopify-payment-button__button--unbranded.disabled:hover,.shopify-payment-button .shopify-payment-b",
+      "declarations": "background-color:#f6f6f6;color:#b6b6b6"
+    },
+    {
+      "source": "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+      "selector": "ngled] .shopify-payment-button .shopify-payment-button__button--unbranded[disabled]:after,[data-button_style=angled] .shopify-payment-button .shopify-payment-bu",
+      "declarations": "background-color:#f6f6f6;border-bottom:1px solid;border-bottom-color:#b6b6b6;border-top:1px solid;border-top-color:#b6b6b6"
+    },
+    {
+      "source": "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+      "selector": "[data-button_style=angled] .shopify-payment-button .shopify-payment-button__button--unbranded:after,[data-button_style=angled] .shopify-payment-button .shopify-",
+      "declarations": "background-color:inherit;bottom:0;content:\"\";display:block;position:absolute;top:0;transform:skewX(-12deg);width:20px"
+    },
+    {
+      "source": "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+      "selector": ".shopify-payment-button .shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:var(--colorBtnPrimary);color:var(--colorBtnPrimaryText)"
+    },
+    {
+      "source": "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+      "selector": ".shopify-payment-button__more-options",
+      "declarations": "color:inherit"
+    },
+    {
+      "source": "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+      "selector": ".btn--secondary,.rte .btn--secondary",
+      "declarations": "background-color:transparent;border:1px solid;border-color:var(--colorBorder);color:var(--colorTextBody)"
+    },
+    {
+      "source": "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+      "selector": "[data-button_style=angled] .btn--secondary,[data-button_style=angled] .rte .btn--secondary",
+      "declarations": "border-bottom:1px solid;border-bottom-color:var(--colorBorder);border-left:0;border-right:0;border-top:1px solid;border-top-color:var(--colorBorder)"
+    },
+    {
+      "source": "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+      "selector": "utton_style=angled] .btn--secondary:after,[data-button_style=angled] .btn--secondary:before,[data-button_style=angled] .rte .btn--secondary:after,[data-button_s",
+      "declarations": "background-color:transparent;bottom:-1px;top:-1px"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Cash Cards Unlimited Trading Card Store",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cashcardsunlimited.com/",
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cashcardsunlimited.com/",
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+        "https://cashcardsunlimited.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/019d8d58-a866-7cc0-a56d-034e841fddc0/mahina-event-calendar-app-60/assets/cheel.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cashcardsunlimited.com/",
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cashcardsunlimited.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cashcardsunlimited.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cashcardsunlimited.com/",
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cashcardsunlimited.com/"
+      ]
+    },
+    "colors.secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cashcardsunlimited.com/"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cashcardsunlimited.com/cdn/shop/t/43/assets/theme.aio.min.css?v=124211096503338227581768507457"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cashcardsunlimited.com/"
+      ]
+    },
+    "colors.highlight": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.sale-price-display": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Teton Gravity Research
-description: A high-altitude media and apparel brand where a neon teal (#2aded0) and a sharp chartreuse (#e1e83a) collide against a near-black canvas (#171717), creating the visual voltage of a summit sunrise hitting ice. The brand lives in extremes — the extracted palette runs from deep forest shadows (#082c2a, #0f504b, #16736c) through electric cyan (#5de6db, #90eee7, #b2f3ee) to acidic yellows (#e8ee69, #eff399, #f4f7b8, #fdfdef), with a full grayscale from charcoal (#2c2b2b, #6d6d6d) to silver (#b0b0b0, #d1d1d1, #e7e7e7) and a crisp off-white canvas (#f5f5f5). Denton, a serif with alpine authority, drives display headlines while Inter handles the body — a pairing that says "we take the mountains seriously but we're not a gear catalog." Buttons wear the teal as primary voltage, with chartreuse as an accent jolt for badges and highlights. Cards and containers use soft radii ({rounded.md}) to keep the interface approachable against the hard edges of the subject matter. The brand's signature move is the high-contrast color block — a teal header bar on a white page, or a black hero section with yellow-accented typography — that mimics the abrupt transitions of mountain terrain: treeline to alpine, shadow to sun, snow to rock.
+name: "Teton Gravity Research"
+source_url: "https://www.tetongravity.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A high-altitude media and apparel brand where a neon teal (#2aded0) and a sharp chartreuse (#e1e83a) collide against a near-black canvas (#171717), creating the visual voltage of a summit sunrise hitting ice. The brand lives in extremes — the extracted palette runs from deep forest shadows (#082c2a, #0f504b, #16736c) through electric cyan (#5de6db, #90eee7, #b2f3ee) to acidic yellows (#e8ee69, #eff399, #f4f7b8, #fdfdef), with a full grayscale from charcoal (#2c2b2b, #6d6d6d) to silver (#b0b0b0, #d1d1d1, #e7e7e7) and a crisp off-white canvas (#f5f5f5). Denton, a serif with alpine authority, drives display headlines while Inter handles the body — a pairing that says "we take the mountains seriously but we're not a gear catalog." Buttons wear the teal as primary voltage, with chartreuse as an accent jolt for badges and highlights. Cards and containers use soft radii ({rounded.md}) to keep the interface approachable against the hard edges of the subject matter. The brand's signature move is the high-contrast color block — a teal header bar on a white page, or a black hero section with yellow-accented typography — that mimics the abrupt transitions of mountain terrain: treeline to alpine, shadow to sun, snow to rock.
 
 colors:
   primary: "#2aded0"
@@ -625,6 +629,8 @@ components:
 - Modal content uses full-screen on mobile, centered dialog on tablet and above
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and active states for many components are inferred from standard patterns rather than extracted from the live site
 - Error state colors (form validation, error messages) were not extracted — likely a red variant not present in the palette

@@ -1,0 +1,703 @@
+{
+  "source_url": "https://herschel.com",
+  "final_url": "https://herschel.com/",
+  "captured_at": "2026-09-28T05:04:14.205270+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://herschel.com",
+      "final_url": "https://herschel.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "f29367f1899fadae983ae2aa9fe6215d736e610ef5093e501416bc7f08d97ba2",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+      "final_url": "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "8641ec8f305a03340d50d86d00059e823b89a380d5c573c5ce97a1c936c476f8",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://herschel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://herschel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 11,
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "#dddddd": {
+      "count": 9,
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "#ffffff": {
+      "count": 5,
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+        "https://herschel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 5,
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "#2d2926": {
+      "count": 4,
+      "sources": [
+        "https://herschel.com/"
+      ]
+    },
+    "#767676": {
+      "count": 4,
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 4,
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "#e9e6e6": {
+      "count": 4,
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "#413e3d": {
+      "count": 3,
+      "sources": [
+        "https://herschel.com/"
+      ]
+    },
+    "#b5817d": {
+      "count": 3,
+      "sources": [
+        "https://herschel.com/"
+      ]
+    },
+    "#585442": {
+      "count": 3,
+      "sources": [
+        "https://herschel.com/"
+      ]
+    },
+    "#575757": {
+      "count": 3,
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "#cdc6bd": {
+      "count": 2,
+      "sources": [
+        "https://herschel.com/"
+      ]
+    },
+    "#282d3c": {
+      "count": 2,
+      "sources": [
+        "https://herschel.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://herschel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://herschel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f18aad": {
+      "count": 1,
+      "sources": [
+        "https://herschel.com/"
+      ]
+    },
+    "#007aff": {
+      "count": 1,
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "#dadada": {
+      "count": 1,
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 1,
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 1,
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "#707070": {
+      "count": 1,
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "#477bff": {
+      "count": 1,
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "#143a33": {
+      "count": 1,
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "#162b3a": {
+      "count": 1,
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "#1b7f9d": {
+      "count": 1,
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "#f3f5f5": {
+      "count": 1,
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "#2d2d2d": {
+      "count": 1,
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "#efefef": {
+      "count": 1,
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "#bdbdbd": {
+      "count": 1,
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "#051c2c": {
+      "count": 1,
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "#000000e8": {
+      "count": 1,
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "#0000004d": {
+      "count": 1,
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "#00000066": {
+      "count": 1,
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "#d60a0a": {
+      "count": 1,
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "#f8d7da": {
+      "count": 1,
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "#448a10": {
+      "count": 1,
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "#d1e7dd": {
+      "count": 1,
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "#ffcc44": {
+      "count": 1,
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "#fff3cd": {
+      "count": 1,
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://herschel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://herschel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://herschel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "CheltenhamBdCnBT": [
+      "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+    ],
+    "Graphik": [
+      "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+    ],
+    "QuadrantTextMono": [
+      "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+    ],
+    "monospace": [
+      "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+    ],
+    "swiper-icons": [
+      "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+      "selector": ":root",
+      "declarations": "--modal-text-color:var(--text-color)"
+    },
+    {
+      "source": "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+      "selector": ".modal__close-button",
+      "declarations": "background:transparent;border:0;color:var(--modal-text-color);cursor:pointer;margin:var(--iam-spacing-md);padding:0!important;position:absolute;right:0;top:0"
+    },
+    {
+      "source": "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+      "selector": ".modal__close-button:focus-visible",
+      "declarations": "color:var(--modal-text-color)"
+    },
+    {
+      "source": "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+      "selector": ".modal--cart-confirmation .modal__close-button:focus-visible",
+      "declarations": "color:var(--modal-text-color)"
+    },
+    {
+      "source": "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+      "selector": ".modal--video-modal .modal__close-button",
+      "declarations": "background-color:transparent;border:0;margin:0;right:0;top:calc(var(--iam-spacing-lg)*-1)"
+    },
+    {
+      "source": "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+      "selector": ".modal--video-modal .modal__close-button:hover",
+      "declarations": "background-color:transparent;color:var(--modal-text-color)"
+    },
+    {
+      "source": "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;line-height:1.15;margin:0"
+    },
+    {
+      "source": "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+      "selector": "body",
+      "declarations": "font-family:var(--font-body);font-size:1.6rem;font-style:normal;font-weight:var(--font-weight-regular);line-height:1.4"
+    },
+    {
+      "source": "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+      "selector": "h1,h2,h3",
+      "declarations": "font-family:var(--font-heading);font-style:normal;font-weight:var(--font-weight-regular);font-weight:var(--font-weight-bold);line-height:1.1;margin:0"
+    },
+    {
+      "source": "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+      "selector": ".h1,h1",
+      "declarations": "font-family:var(--font-heading);font-size:clamp(3.2rem,-.2351145038rem + .0916030534*100vw,6.8rem);line-height:1.1"
+    },
+    {
+      "source": "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+      "selector": ".text--body-large",
+      "declarations": "color:var(--text-color);font-family:var(--font-body);font-size:18px;font-size:1.8rem;font-style:normal;font-weight:var(--font-weight-regular);line-height:1.4;line-height:28px;line-height:2.8rem"
+    },
+    {
+      "source": "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+      "selector": ".text--body-medium,.text--body-small",
+      "declarations": "font-family:var(--font-body);font-style:normal;font-weight:var(--font-weight-regular);line-height:1.4"
+    },
+    {
+      "source": "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+      "selector": ".text--body-small",
+      "declarations": "color:var(--text-color);font-size:18px;font-size:1.8rem;font-size:14px;font-size:1.4rem;line-height:28px;line-height:2.8rem;line-height:20px;line-height:2rem"
+    },
+    {
+      "source": "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+      "selector": "body",
+      "declarations": "background-color:var(--bg-color-base);display:flex;flex-direction:column;margin:0;min-height:100vh;overflow-x:hidden"
+    },
+    {
+      "source": "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+      "selector": "[data-rebuy-component=cart-items] .rebuy-cart__flyout-item-product-title",
+      "declarations": "color:var(--text-color);font-weight:var(--font-weight-medium);line-height:22px;line-height:2.2rem;text-decoration:none"
+    },
+    {
+      "source": "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+      "selector": "[data-rebuy-component=cart-items] .rebuy-cart__flyout-item-quantity-widget-button,[data-rebuy-component=cart-items] .rebuy-cart__flyout-item-remove",
+      "declarations": "background:var(--bg-color-base);border:var(--border);color:var(--text-color);min-height:36px;min-width:36px;padding:var(--iam-spacing-2xs);transition:var(--transition-default)"
+    },
+    {
+      "source": "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+      "selector": "y-cart__flyout-item-quantity-widget-button:hover,[data-rebuy-component=cart-items] .rebuy-cart__flyout-item-remove:focus-visible,[data-rebuy-component=cart-item",
+      "declarations": "background:var(--bg-color-light);border-color:var(--border-color-dark);outline:none"
+    },
+    {
+      "source": "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+      "selector": "art--enabled .rebuy-cart__flyout .rebuy-cart__checkout-button,.smart-cart--enabled .rebuy-cart__flyout .rebuy-cart__shop-pay-button,.smart-cart--enabled .rebuy-",
+      "declarations": "appearance:none;border:0;cursor:pointer;display:inline-block;font-family:var(--font-body);font-size:14px;font-size:1.4rem;font-style:normal;font-weight:var(--font-weight-medium);line-height:1;padding:var(--button-spacing);text-decoration:none;user-select:none;white-space:nowrap"
+    },
+    {
+      "source": "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+      "selector": "art--enabled .rebuy-cart__flyout .rebuy-cart__checkout-button,.smart-cart--enabled .rebuy-cart__flyout .rebuy-cart__shop-pay-button,.smart-cart--enabled .rebuy-",
+      "declarations": "background-color:var(--button-bg-color);border:1px solid var(--button-border-color);border-radius:var(--button-border-radius);color:var(--button-text-color);text-align:center;transition:var(--transition-default)"
+    },
+    {
+      "source": "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+      "selector": "buy-cart__flyout .rebuy-cart__checkout-button,a:hover .smart-cart--enabled .rebuy-cart__flyout .rebuy-cart__shop-pay-button,a:hover .smart-cart--enabled .rebuy-",
+      "declarations": "background-color:var(--button-hover-bg-color);border:1px solid var(--button-hover-border-color);color:var(--button-hover-text-color);text-decoration:none"
+    },
+    {
+      "source": "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+      "selector": "art--enabled .rebuy-cart__flyout .rebuy-cart__checkout-button,.smart-cart--enabled .rebuy-cart__flyout .rebuy-cart__shop-pay-button,.smart-cart--enabled .rebuy-",
+      "declarations": "background-color:var(--button-bg-color)!important;border:1px solid var(--button-border-color)!important;border-radius:var(--button-border-radius)!important;color:var(--button-text-color)!important;font-weight:var(--font-weight-medium)!important;line-height:1!important;padding:var(--button-spacing)!important"
+    },
+    {
+      "source": "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+      "selector": "_flyout .rebuy-cart__shop-pay-button:hover,.smart-cart--enabled .rebuy-cart__flyout .rebuy-widget .rebuy-button:focus-visible,.smart-cart--enabled .rebuy-cart__",
+      "declarations": "background-color:var(--button-hover-bg-color)!important;border-color:var(--button-hover-border-color)!important;color:var(--button-hover-text-color)!important"
+    },
+    {
+      "source": "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+      "selector": "rebuy-cart__checkout-button:disabled,.smart-cart--enabled .rebuy-cart__flyout .rebuy-widget .rebuy-button.button--disabled,.smart-cart--enabled .rebuy-cart__fly",
+      "declarations": "background-color:var(--button-disabled-bg-color);border:1px solid var(--button-disabled-border-color);color:var(--button-disabled-text-color);cursor:default"
+    },
+    {
+      "source": "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+      "selector": "kout-button:disabled,a:hover .smart-cart--enabled .rebuy-cart__flyout .rebuy-widget .rebuy-button.button--disabled,a:hover .smart-cart--enabled .rebuy-cart__fly",
+      "declarations": "background-color:var(--button-disabled-bg-color);border-color:var(--button-disabled-border-color);color:var(--button-disabled-text-color)"
+    },
+    {
+      "source": "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+      "selector": "rebuy-cart__checkout-button:disabled,.smart-cart--enabled .rebuy-cart__flyout .rebuy-widget .rebuy-button.button--disabled,.smart-cart--enabled .rebuy-cart__fly",
+      "declarations": "background-color:var(--button-disabled-bg-color)!important;border-color:var(--button-disabled-border-color)!important;color:var(--button-disabled-text-color)!important"
+    },
+    {
+      "source": "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+      "selector": "ut-button:disabled:hover,.smart-cart--enabled .rebuy-cart__flyout .rebuy-widget .rebuy-button.button--disabled:hover,.smart-cart--enabled .rebuy-cart__flyout .r",
+      "declarations": "background-color:var(--button-disabled-bg-color);border-color:var(--button-disabled-border-color);color:var(--button-disabled-text-color)"
+    },
+    {
+      "source": "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+      "selector": ".smart-cart--enabled .rebuy-cart__flyout .rebuy-cart__shop-pay-button",
+      "declarations": "--button-bg-color:transparent;--button-text-color:var(--black);--button-border-color:var(--midnight-howl);--button-hover-bg-color:var(--black);--button-hover-text-color:var(--white);--button-hover-border-color:var(--black);align-items:center;display:flex;height:50px!important;justify-content:center;padding-bottom:0!important;padding-top:0!important"
+    },
+    {
+      "source": "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+      "selector": "[data-rebuy-component=cross-sell-widget] .rebuy-product-title-link",
+      "declarations": "color:var(--text-color);text-decoration:none"
+    },
+    {
+      "source": "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+      "selector": ".button,[type=button],button",
+      "declarations": "appearance:none;border:0;cursor:pointer;display:inline-block;font-family:var(--font-body);font-size:14px;font-size:1.4rem;font-style:normal;font-weight:var(--font-weight-medium);line-height:1;padding:var(--button-spacing);text-decoration:none;user-select:none;white-space:nowrap"
+    },
+    {
+      "source": "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+      "selector": ".button.button--disabled,.button:disabled,[type=button].button--disabled,[type=button]:disabled,button.button--disabled,button:disabled",
+      "declarations": "background-color:var(--button-disabled-bg-color);border:1px solid var(--button-disabled-border-color);color:var(--button-disabled-text-color);cursor:default"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Herschel Supply Co. USA",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://herschel.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+        "https://herschel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://herschel.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546",
+        "https://herschel.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.backdrop": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "colors.error": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "colors.error-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "colors.success-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "colors.warning-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "colors.link": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://herschel.com/cdn/shop/t/16/assets/app.css?v=14336786234586541541785445546"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.mono-label": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.announcement-bar": {
+      "status": "inferred"
+    }
+  }
+}

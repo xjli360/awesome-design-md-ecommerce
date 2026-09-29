@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Little City Books
-description: A deep navy #003399 and a teal #006b6d form the two-pole voltage of this independent bookstore — the blue carries the primary CTAs and the teal surfaces as a secondary accent on badges and hover states, while a warm off-white #eeeeee canvas keeps the reading experience clean. The typography stack relies on Font Awesome for iconography but the brand’s voice is carried by a restrained body set in #383333, a soft charcoal that reads warmer than pure black, against #232323 for headings. The site uses a generous 48px section spacing and 32px xl padding between content blocks, giving each book cover room to breathe. A distinctive design move: the search bar sits as a full-width pill (#006b6d background, white text) rather than a collapsed icon, signaling that discovery is the primary action — not browsing categories. The footer repeats the navy #003399 as a full-bleed band, with #555555 muted links and #eeeeee text, creating a bookish, grounded feel that prioritizes legibility over decoration. There are no hard corners on interactive elements — buttons and inputs use {rounded.sm} 8px, while the search pill uses {rounded.full} — but the product cards and content panels stay at {rounded.none} to preserve a clean, editorial grid.
+name: "Little City Books"
+source_url: "https://www.littlecitybooks.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep navy #003399 and a teal #006b6d form the two-pole voltage of this independent bookstore — the blue carries the primary CTAs and the teal surfaces as a secondary accent on badges and hover states, while a warm off-white #eeeeee canvas keeps the reading experience clean. The typography stack relies on Font Awesome for iconography but the brand’s voice is carried by a restrained body set in #383333, a soft charcoal that reads warmer than pure black, against #232323 for headings. The site uses a generous 48px section spacing and 32px xl padding between content blocks, giving each book cover room to breathe. A distinctive design move: the search bar sits as a full-width pill (#006b6d background, white text) rather than a collapsed icon, signaling that discovery is the primary action — not browsing categories. The footer repeats the navy #003399 as a full-bleed band, with #555555 muted links and #eeeeee text, creating a bookish, grounded feel that prioritizes legibility over decoration. There are no hard corners on interactive elements — buttons and inputs use {rounded.sm} 8px, while the search pill uses {rounded.full} — but the product cards and content panels stay at {rounded.none} to preserve a clean, editorial grid.
 
 colors:
   primary: "#003399"
@@ -320,6 +324,8 @@ components:
 - Hero section reduces vertical padding by 50% on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and active states for all components were inferred from common patterns; the live site may use different transitions or color shifts
 - Error styling for text inputs (border color #cc0000) is an assumption — the actual error color could not be extracted

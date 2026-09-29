@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Easy Street Records
-description: A record store that treats the physical artifact with reverence, Easy Street Online wraps its inventory in a clean, uncluttered white canvas (#ffffff) where album art does the heavy lifting. The site trusts Arial at its most utilitarian — no display typeface competes with the record sleeves, no decorative font pretends to be cool. Buttons carry a subtle 8px rounding (`{rounded.sm}`) that feels intentional without being cute, and the primary action color — whatever distinctive accent the store chooses — would anchor every "Add to Cart" and checkout trigger. The mood is that of a well-organized crate: everything has its place, the lighting is even, and the only drama comes from the music itself. Product cards use generous whitespace and soft dividers (`{colors.hairline}`) to let vinyl jackets breathe, while the navigation stays out of the way — a simple top bar with search, cart, and category links. This is a system built for the person who knows what they want and wants to find it fast, not for the browser who needs to be seduced by animations.
+name: "Easy Street Records"
+source_url: "https://easystreetonline.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A record store that treats the physical artifact with reverence, Easy Street Online wraps its inventory in a clean, uncluttered white canvas (#ffffff) where album art does the heavy lifting. The site trusts Arial at its most utilitarian — no display typeface competes with the record sleeves, no decorative font pretends to be cool. Buttons carry a subtle 8px rounding (`{rounded.sm}`) that feels intentional without being cute, and the primary action color — whatever distinctive accent the store chooses — would anchor every "Add to Cart" and checkout trigger. The mood is that of a well-organized crate: everything has its place, the lighting is even, and the only drama comes from the music itself. Product cards use generous whitespace and soft dividers (`{colors.hairline}`) to let vinyl jackets breathe, while the navigation stays out of the way — a simple top bar with search, cart, and category links. This is a system built for the person who knows what they want and wants to find it fast, not for the browser who needs to be seduced by animations.
 
 colors:
   primary: "#000000"
@@ -369,6 +373,8 @@ components:
 - Genre tag strip becomes horizontally scrollable with a fade indicator on the right edge
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No extracted hex colors were available from the live site — the palette above is a reasonable default for a black-and-white record store aesthetic, but the actual brand accent color (if any) could not be determined
 - Font-family declarations returned only "Arial" — the site may use additional typefaces for display headings or brand elements that weren't captured

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: VanMoof
-description: A monochrome machine punctuated by a single electric signal: #4945ff, a saturated indigo that appears nowhere in the brand's own product photography but everywhere in its interface — the unlock button on the app, the active state on the bike's matrix display, the accent line on the S5 frame render. The palette is almost entirely grayscale: #222222 ink, #313131 body, #f7f7f7 canvas, #e0e0e0 hairline. This is a brand that treats color as a rare resource, not a decorative one. The typography stack confirms the editorial ambition: PPEditorialNew (a sharp, serifled display face with high contrast) sits alongside Unica77LLWeb (a Swiss neo-grotesk) and Unica77Mono for code-like data readouts. The brand speaks through mechanical precision — thin hairlines, tight letter-spacing on display text, and a near-total absence of decorative rounding. Buttons use {rounded.sm} (8px), not pills. Cards use {rounded.md} (12px). The only {rounded.full} token appears on the search bar and the primary CTA, making those moments genuinely special. The extracted hex #f1ff3b — a neon chartreuse — appears in the bike's own LED matrix (the "kick-lock" indicator and e-shifter feedback) and is used sparingly in UI as a status badge. The brand's voice is confident, minimal, and slightly Dutch: direct, unadorned, and built for riders who care about engineering as much as aesthetics.
+name: "VanMoof"
+source_url: "https://www.vanmoof.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A monochrome machine punctuated by a single electric signal: #4945ff, a saturated indigo that appears nowhere in the brand's own product photography but everywhere in its interface — the unlock button on the app, the active state on the bike's matrix display, the accent line on the S5 frame render. The palette is almost entirely grayscale: #222222 ink, #313131 body, #f7f7f7 canvas, #e0e0e0 hairline. This is a brand that treats color as a rare resource, not a decorative one. The typography stack confirms the editorial ambition: PPEditorialNew (a sharp, serifled display face with high contrast) sits alongside Unica77LLWeb (a Swiss neo-grotesk) and Unica77Mono for code-like data readouts. The brand speaks through mechanical precision — thin hairlines, tight letter-spacing on display text, and a near-total absence of decorative rounding. Buttons use {rounded.sm} (8px), not pills. Cards use {rounded.md} (12px). The only {rounded.full} token appears on the search bar and the primary CTA, making those moments genuinely special. The extracted hex #f1ff3b — a neon chartreuse — appears in the bike's own LED matrix (the "kick-lock" indicator and e-shifter feedback) and is used sparingly in UI as a status badge. The brand's voice is confident, minimal, and slightly Dutch: direct, unadorned, and built for riders who care about engineering as much as aesthetics.
 
 colors:
   primary: "#4945ff"
@@ -423,6 +427,8 @@ components:
 - Product card badges overlay on desktop, become inline below the image on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for most components are inferred from the primary-active color and standard interaction patterns; exact hover transitions (duration, easing) were not extractable
 - Error styling for forms uses #a70000 from the extracted palette, but the exact error message typography and iconography are inferred

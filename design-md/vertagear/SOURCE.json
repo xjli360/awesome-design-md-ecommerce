@@ -1,0 +1,864 @@
+{
+  "source_url": "https://www.vertagear.com",
+  "final_url": "https://www.vertagear.com/",
+  "captured_at": "2026-09-28T04:10:39.984222+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.vertagear.com",
+      "final_url": "https://www.vertagear.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "cc1affdd89003c250494903aa27559d64385cad8be8795fe31be984cee4519e7",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://unpkg.com/aos@2.3.1/dist/aos.css",
+      "final_url": "https://unpkg.com/aos@2.3.1/dist/aos.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "1aa8845fd06e475aefe733d4e55b36a92fcd487975049c8172341827ac9cc03e",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+      "final_url": "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "02fcdf33be318238a069c4d3278460903827d0d4dbffc0beda8b9027090bbb00",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.vertagear.com/cdn/shop/t/103/assets/swiper-bundle.min.css?v=35948195366572132911787214178",
+      "final_url": "https://www.vertagear.com/cdn/shop/t/103/assets/swiper-bundle.min.css?v=35948195366572132911787214178",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "fd13dd207512911209bc30f87e05bf3603a6c5b499ae617eeaa539b5bb839bec",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174",
+      "final_url": "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1a4601c956c7087daed50491c7656b0fd70e52b05e8d23425f28827353e80576",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.vertagear.com/cdn/shop/t/103/assets/main-assets.css?v=132125460264199603371787543176",
+      "final_url": "https://www.vertagear.com/cdn/shop/t/103/assets/main-assets.css?v=132125460264199603371787543176",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "25758fcd3eece810ffb0b93ee7c7ab30a1df25919c46849f6877c0954e10be60",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 191,
+      "sources": [
+        "https://www.vertagear.com/",
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+        "https://www.vertagear.com/cdn/shop/t/103/assets/swiper-bundle.min.css?v=35948195366572132911787214178",
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#4e4cf7": {
+      "count": 152,
+      "sources": [
+        "https://www.vertagear.com/",
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#000000": {
+      "count": 99,
+      "sources": [
+        "https://www.vertagear.com/",
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+        "https://www.vertagear.com/cdn/shop/t/103/assets/swiper-bundle.min.css?v=35948195366572132911787214178",
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#8e8e8e": {
+      "count": 25,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#00000000": {
+      "count": 18,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#636363": {
+      "count": 12,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214"
+      ]
+    },
+    "#222222": {
+      "count": 12,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#333333": {
+      "count": 11,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#3a4c55": {
+      "count": 11,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 10,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214"
+      ]
+    },
+    "#35495e": {
+      "count": 10,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 8,
+      "sources": [
+        "https://www.vertagear.com/",
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 8,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 7,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 7,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214"
+      ]
+    },
+    "#d02e2e": {
+      "count": 6,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214"
+      ]
+    },
+    "#ebebeb": {
+      "count": 6,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214"
+      ]
+    },
+    "#232323": {
+      "count": 6,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#00000029": {
+      "count": 6,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 6,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#3e3e3e": {
+      "count": 5,
+      "sources": [
+        "https://www.vertagear.com/",
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 5,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#17171a": {
+      "count": 5,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#eeeeee": {
+      "count": 4,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#41b883": {
+      "count": 4,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#ededed": {
+      "count": 4,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 4,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#ff6a6a": {
+      "count": 4,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#cccccc66": {
+      "count": 4,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#707070": {
+      "count": 4,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#7b7b7b": {
+      "count": 4,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#5a5a5a": {
+      "count": 4,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#999999": {
+      "count": 3,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#56ad6a": {
+      "count": 3,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214"
+      ]
+    },
+    "#a1a1b3": {
+      "count": 3,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#9f9f9f": {
+      "count": 3,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214"
+      ]
+    },
+    "#4f4df7": {
+      "count": 3,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#0000004d": {
+      "count": 3,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 3,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#cbcbcb": {
+      "count": 3,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#100c1fa6": {
+      "count": 3,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#eaeaea": {
+      "count": 3,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#888888": {
+      "count": 3,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#edf1ff": {
+      "count": 2,
+      "sources": [
+        "https://www.vertagear.com/",
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#50208f": {
+      "count": 2,
+      "sources": [
+        "https://www.vertagear.com/",
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#e3e3e3": {
+      "count": 2,
+      "sources": [
+        "https://www.vertagear.com/"
+      ]
+    },
+    "#b6b6b6": {
+      "count": 2,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214"
+      ]
+    },
+    "#85af4b": {
+      "count": 2,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214"
+      ]
+    },
+    "#f2f3f3": {
+      "count": 2,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214"
+      ]
+    },
+    "#353943": {
+      "count": 2,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214"
+      ]
+    },
+    "#fff6f6": {
+      "count": 2,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214"
+      ]
+    },
+    "#0d0d0d": {
+      "count": 2,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214"
+      ]
+    },
+    "#f26c4f": {
+      "count": 2,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214"
+      ]
+    },
+    "#bcbcbc": {
+      "count": 2,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#737373": {
+      "count": 2,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 2,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#a6a6a6": {
+      "count": 2,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#00000080": {
+      "count": 2,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#555555": {
+      "count": 2,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "#838383": {
+      "count": 2,
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.vertagear.com/",
+      "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214"
+    ],
+    "Consolas": [
+      "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214"
+    ],
+    "Helvetica": [
+      "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214"
+    ],
+    "Helvetica Neue": [
+      "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214"
+    ],
+    "MyIcons": [
+      "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+    ],
+    "MyIcons!important": [
+      "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+    ],
+    "Oxanium": [
+      "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+    ],
+    "Poppins": [
+      "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+      "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174",
+      "https://www.vertagear.com/cdn/shop/t/103/assets/main-assets.css?v=132125460264199603371787543176"
+    ],
+    "Poppins!important": [
+      "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+    ],
+    "ProximaNovaLight": [
+      "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214"
+    ],
+    "TeXGyreAdventor": [
+      "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174",
+      "https://www.vertagear.com/cdn/shop/t/103/assets/main-assets.css?v=132125460264199603371787543176"
+    ],
+    "helvetica": [
+      "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214"
+    ],
+    "icons": [
+      "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+      "https://www.vertagear.com/cdn/shop/t/103/assets/main-assets.css?v=132125460264199603371787543176"
+    ],
+    "monospace": [
+      "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214"
+    ],
+    "sans-serif": [
+      "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+      "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+    ],
+    "sans-serif!important": [
+      "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+    ],
+    "serif ! important": [
+      "https://www.vertagear.com/"
+    ],
+    "swiper-icons": [
+      "https://www.vertagear.com/cdn/shop/t/103/assets/swiper-bundle.min.css?v=35948195366572132911787214178",
+      "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.vertagear.com/",
+      "selector": "display: flex; align-items: center;\ndisplay: flex;align-items: center;\ndisplay: flex; align-items: center;\ndisplay: flex;align-items: center;\n\r\n  .product-learn",
+      "declarations": "font-size: 18px;\r\n    color: #000;"
+    },
+    {
+      "source": "https://www.vertagear.com/",
+      "selector": ".padding-template--27975678624043__featured_products_kV78r7 .product-recommened",
+      "declarations": "background-color: #e3e3e3;"
+    },
+    {
+      "source": "https://www.vertagear.com/",
+      "selector": ".padding-template--27975678624043__featured_products_kV78r7 .product-recommened",
+      "declarations": "background-color: #e3e3e3;"
+    },
+    {
+      "source": "https://www.vertagear.com/",
+      "selector": "duct-recommened__weight-info .infomation, \r\n    .padding-template--27975678624043__featured_products_kV78r7 .product-recommened .product-recommened__height .pro",
+      "declarations": "color:  #3e3e3e;"
+    },
+    {
+      "source": "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+      "selector": "body,html",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+      "selector": "body,button,input,select,textarea",
+      "declarations": "font-size:15px;font-family:Poppins,sans-serif;font-weight:400;color:#333;line-height:1.6;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:100%"
+    },
+    {
+      "source": "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+      "selector": ".custom-font,.h1,.h2,.h3,.h4,.h5,.h6,.header-font,h1,h2,h3,h4,h5,h6",
+      "declarations": "display:block;margin:0 0 .5em;font-family:Poppins,sans-serif;font-weight:400;line-height:1.4"
+    },
+    {
+      "source": "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+      "selector": ".btn,.btn--secondary,.rte .btn,.rte .btn--secondary",
+      "declarations": "display:inline-block;margin:0;padding:8px 10px;width:auto;font-weight:700;text-align:center;text-decoration:none;white-space:nowrap;color:#fff;background-color:#000;border:1px solid transparent;border-radius:0;line-height:1.42;vertical-align:middle;cursor:pointer;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-appearance:none;-moz-appearance:none"
+    },
+    {
+      "source": "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+      "selector": "condary:focus,.btn--secondary:hover,.btn:active,.btn:focus,.btn:hover,.rte .btn--secondary:active,.rte .btn--secondary:focus,.rte .btn--secondary:hover,.rte .bt",
+      "declarations": "color:#fff;background-color:#000"
+    },
+    {
+      "source": "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+      "selector": ".btn.disabled,.btn[disabled],.disabled.btn--secondary,.rte .btn.disabled,.rte .btn[disabled],.rte .disabled.btn--secondary,.rte [disabled].btn--secondary,[disab",
+      "declarations": "cursor:default;color:#b6b6b6;background-color:#f6f6f6"
+    },
+    {
+      "source": "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+      "selector": ".btn--secondary,.rte .btn--secondary",
+      "declarations": "background-color:#000"
+    },
+    {
+      "source": "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+      "selector": ".btn--secondary:active,.btn--secondary:focus,.btn--secondary:hover,.rte .btn--secondary:active,.rte .btn--secondary:focus,.rte .btn--secondary:hover",
+      "declarations": "color:#fff;background-color:#000"
+    },
+    {
+      "source": "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+      "selector": ".site-header__cart-indicator",
+      "declarations": "position:absolute;top:2px;right:-3px;width:8px;height:8px;background-color:#f68e56;border-radius:10px"
+    },
+    {
+      "source": "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+      "selector": ".mobile-nav__item a,.mobile-nav__toggle button",
+      "declarations": "padding:15px 30px;text-decoration:none;color:#333"
+    },
+    {
+      "source": "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+      "selector": ".mobile-nav__item a:active,.mobile-nav__item a:focus,.mobile-nav__item a:hover,.mobile-nav__toggle button:active,.mobile-nav__toggle button:focus,.mobile-nav__t",
+      "declarations": "color:#0d0d0d"
+    },
+    {
+      "source": "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+      "selector": ".mobile-nav__item a:active,.mobile-nav__item a:focus,.mobile-nav__toggle button:active,.mobile-nav__toggle button:focus",
+      "declarations": "background-color:#f2f2f2"
+    },
+    {
+      "source": "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+      "selector": ".drawer__close button",
+      "declarations": "position:absolute;right:15px;color:inherit"
+    },
+    {
+      "source": "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+      "selector": ".drawer__close button:active,.drawer__close button:focus",
+      "declarations": "background-color:#f2f2f2"
+    },
+    {
+      "source": "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+      "selector": ".product-grid--compare-price,.product-grid--from-wrapper",
+      "declarations": "margin-right:2px;font-size:90%;font-weight:500;color:sitewide--title-wrapper(#333,30%);text-transform:lowercase"
+    },
+    {
+      "source": "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+      "selector": ".product-description,.product-description a",
+      "declarations": "color:#737373"
+    },
+    {
+      "source": "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+      "selector": "#AddToCartForm .selector-wrapper label,.product-sub-label",
+      "declarations": "display:inline-block;margin:20px 0 10px;font-size:11px;color:#737373;text-transform:uppercase"
+    },
+    {
+      "source": "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+      "selector": "#AddToCart,.homepage-hero-content-image-text-block .btn,.homepage-hero-content-image-text-block .btn--secondary",
+      "declarations": "padding:15px 35px;color:#fff;background:#3e3e3e;-webkit-transition:all .15s ease-in-out 0s;transition:all .15s ease-in-out 0s;text-transform:uppercase"
+    },
+    {
+      "source": "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+      "selector": ".product-page--sale-badge",
+      "declarations": "padding:10px 20px;width:100%;font-size:11px;font-weight:700;text-align:center;color:#fff;background-color:#f26c4f;line-height:14px;text-transform:uppercase"
+    },
+    {
+      "source": "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+      "selector": "#popup .popup--body input#mce-EMAIL",
+      "declarations": "color:#000;background:#fff;border-color:#000"
+    },
+    {
+      "source": "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+      "selector": "#popup .popup--body input#mc-embedded-subscribe",
+      "declarations": "color:#fff;background:#000"
+    },
+    {
+      "source": "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+      "selector": ".newsletter-footer input.footer-email-submit,form#contact_form .btn,form#contact_form .btn--secondary",
+      "declarations": "display:inline-block;margin-top:15px;padding:10px 20px;font-size:12px;font-weight:400;color:#fff;background:#636363;text-transform:uppercase"
+    },
+    {
+      "source": "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+      "selector": ".cart--button-checkout,.cart--button-update",
+      "declarations": "padding:15px 35px;color:#fff;background:#3e3e3e;-webkit-transition:all .15s ease-in-out 0s;transition:all .15s ease-in-out 0s;text-transform:uppercase"
+    },
+    {
+      "source": "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+      "selector": ".cart--button-checkout:hover,.cart--button-update:hover",
+      "declarations": "color:#eee;background:#9f9f9f"
+    },
+    {
+      "source": "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+      "selector": ".footer-header",
+      "declarations": "font-size:15px;font-family:Poppins,sans-serif;font-weight:700;color:#636363;margin-bottom:15px"
+    },
+    {
+      "source": "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+      "selector": ".newsletter-footer input.footer-email-input,.popup--body input#mce-EMAIL",
+      "declarations": "padding-left:0;color:#636363;background:#fff;border:none;border-bottom:1px solid #636363"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Vertagear: Innovating health and comfort with ergonomic chairs.",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vertagear.com/",
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vertagear.com/",
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+        "https://www.vertagear.com/cdn/shop/t/103/assets/swiper-bundle.min.css?v=35948195366572132911787214178",
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vertagear.com/",
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+        "https://www.vertagear.com/cdn/shop/t/103/assets/swiper-bundle.min.css?v=35948195366572132911787214178",
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vertagear.com/",
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214"
+      ]
+    },
+    "colors.surface-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vertagear.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vertagear.com/",
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214",
+        "https://www.vertagear.com/cdn/shop/t/103/assets/swiper-bundle.min.css?v=35948195366572132911787214178",
+        "https://www.vertagear.com/cdn/shop/t/103/assets/main.css?v=66686851816191527211787543174"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214"
+      ]
+    },
+    "colors.accent-warm": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.vertagear.com/cdn/shop/t/103/assets/timber.css?v=135274468796900983491787214214"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.product-recommended-panel": {
+      "status": "inferred"
+    }
+  }
+}

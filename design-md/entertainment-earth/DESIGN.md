@@ -1,11 +1,15 @@
 ---
 version: alpha
-name: Entertainment Earth
-description: The #313131 near-black anchoring Entertainment Earth's navigation sets the visual temperature for a collector marketplace where badge density — EXCLUSIVE, PRE-ORDER, NEW, SALE — carries more communicative weight than lifestyle photography ever could. Every product card is a micro-billboard: licensed character art, a product name in tight 13px body type, a price block, a badge strip, and an Add to Cart or Pre-Order CTA crammed into roughly 220×320px. The system font stack (system-ui, -apple-system, Arial) is a deliberate non-statement: the Marvel, Star Wars, DC, and Transformers IP on display is the typographic event, not the retailer's typeface.
+name: "Entertainment Earth"
+source_url: "https://www.entertainmentearth.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The #313131 near-black anchoring Entertainment Earth's navigation sets the visual temperature for a collector marketplace where badge density — EXCLUSIVE, PRE-ORDER, NEW, SALE — carries more communicative weight than lifestyle photography ever could. Every product card is a micro-billboard: licensed character art, a product name in tight 13px body type, a price block, a badge strip, and an Add to Cart or Pre-Order CTA crammed into roughly 220×320px. The system font stack (system-ui, -apple-system, Arial) is a deliberate non-statement: the Marvel, Star Wars, DC, and Transformers IP on display is the typographic event, not the retailer's typeface.
 
-The primary red fires on every add-to-cart action and promotional flag, punching hard against both the dark nav and the white product-card canvas. A secondary promo-accent yellow marks markdown pricing and clearance runs — the collector's signal for a bargain hunt. Pre-order badges carry a distinct blue treatment, separating months-ahead reservation inventory from in-stock product at a glance, a UX affordance born from the reality that a large share of collector purchases are pre-decided franchise commitments rather than impulse browses.
+  The primary red fires on every add-to-cart action and promotional flag, punching hard against both the dark nav and the white product-card canvas. A secondary promo-accent yellow marks markdown pricing and clearance runs — the collector's signal for a bargain hunt. Pre-order badges carry a distinct blue treatment, separating months-ahead reservation inventory from in-stock product at a glance, a UX affordance born from the reality that a large share of collector purchases are pre-decided franchise commitments rather than impulse browses.
 
-Spacing is tight by consumer-retail standards: {spacing.xs}–{spacing.sm} gutters between cards, dense category sidebars on desktop collapsing to horizontal scroll chips on mobile. Buttons use {rounded.xs} corners — the near-rectangular stance reads as direct and transactional, a deliberate contrast to the soft pill shapes popular on lifestyle DTC sites. The footer is encyclopedic: franchise sub-navigation, license-partner logos, and help links coexist at caption-scale type, serving as infrastructure for obsessive product discovery. A 3px primary-red top border on the footer is the only decorative flourish in an otherwise utility-first design system.
+  Spacing is tight by consumer-retail standards: {spacing.xs}–{spacing.sm} gutters between cards, dense category sidebars on desktop collapsing to horizontal scroll chips on mobile. Buttons use {rounded.xs} corners — the near-rectangular stance reads as direct and transactional, a deliberate contrast to the soft pill shapes popular on lifestyle DTC sites. The footer is encyclopedic: franchise sub-navigation, license-partner logos, and help links coexist at caption-scale type, serving as infrastructure for obsessive product discovery. A 3px primary-red top border on the footer is the only decorative flourish in an otherwise utility-first design system.
 
 colors:
   primary: "#cc0000"
@@ -385,6 +389,8 @@ components:
 - Promo bar dismisses after first downscroll on mobile to recover vertical space; re-appears on upscroll to page top
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Site was behind Cloudflare anti-bot protection at extraction time (page title: "Just a moment...") — only one hex value (#313131) was reliably captured
 - Primary red, preorder blue, promo yellow, and badge greens are inferred from brand knowledge rather than confirmed DOM extraction — actual production hex values may differ

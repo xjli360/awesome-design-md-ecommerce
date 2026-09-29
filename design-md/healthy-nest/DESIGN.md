@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Healthy Nest
-description: The extracted palette from the live site is dominated by Amazon's own system colors (#0f1111 ink, #ff9900 accent, #2162a1 link blue, #d5d9d9 hairline) and checkout-widget tints (#ffb14a Klarna, #0b7b3c green, #c10015 error). This suggests the brand's storefront is hosted entirely within Amazon's marketplace infrastructure, inheriting its chrome and button styles rather than expressing a distinct visual identity. The most distinctive non-Amazon color in the extraction is #edf8ff, a pale ice-blue that appears as a surface tint on product detail sections, and #1c89e3, a clean primary blue used for informational badges. The typography stack is Amazon Ember across all weights — a utilitarian, highly readable sans-serif designed for dense retail interfaces. Without a standalone site, Healthy Nest's design system is effectively Amazon's: pill-shaped add-to-cart buttons in #ff9900, star ratings in #0f1111, and a white canvas (#ffffff) with soft gray dividers (#d5d9d9). The brand's own product photography and packaging must carry the emotional weight — pastel nest motifs, soft greens, and organic shapes — but these are not reflected in the extracted CSS. The system described below reconstructs what a purpose-built Healthy Nest site might look like, using the extracted Amazon-adjacent colors as a foundation and inferring brand-specific tokens from the baby-care category context.
+name: "Healthy Nest"
+source_url: "https://healthynest.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The extracted palette from the live site is dominated by Amazon's own system colors (#0f1111 ink, #ff9900 accent, #2162a1 link blue, #d5d9d9 hairline) and checkout-widget tints (#ffb14a Klarna, #0b7b3c green, #c10015 error). This suggests the brand's storefront is hosted entirely within Amazon's marketplace infrastructure, inheriting its chrome and button styles rather than expressing a distinct visual identity. The most distinctive non-Amazon color in the extraction is #edf8ff, a pale ice-blue that appears as a surface tint on product detail sections, and #1c89e3, a clean primary blue used for informational badges. The typography stack is Amazon Ember across all weights — a utilitarian, highly readable sans-serif designed for dense retail interfaces. Without a standalone site, Healthy Nest's design system is effectively Amazon's: pill-shaped add-to-cart buttons in #ff9900, star ratings in #0f1111, and a white canvas (#ffffff) with soft gray dividers (#d5d9d9). The brand's own product photography and packaging must carry the emotional weight — pastel nest motifs, soft greens, and organic shapes — but these are not reflected in the extracted CSS. The system described below reconstructs what a purpose-built Healthy Nest site might look like, using the extracted Amazon-adjacent colors as a foundation and inferring brand-specific tokens from the baby-care category context.
 
 colors:
   primary: "#1c89e3"
@@ -476,6 +480,8 @@ components:
 - **Pagination:** On mobile, only "Previous" and "Next" buttons are shown. Page numbers appear on tablet and above.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted colors are overwhelmingly Amazon's system palette, not Healthy Nest's own brand colors. The brand's true identity (likely soft pastels, organic greens, or warm neutrals for baby care) is not represented in the CSS extraction.
 - No standalone brand site exists — the storefront is hosted on Amazon. This DESIGN.md reconstructs a hypothetical purpose-built site using Amazon-adjacent colors as a foundation.

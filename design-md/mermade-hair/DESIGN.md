@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Mermade Hair
-description: A dreamy, mermaid-core haircare brand that lives in a soft-focus world of blush pinks and muted mauves. The palette is anchored by {colors.primary} (#fdd4eb), a whisper-light bubblegum that appears on CTAs, badges, and hover states, and {colors.primary-active} (#ffbae0), a slightly warmer rose that signals interaction. Against a {colors.canvas} (#f7f7f8) background, the brand uses {colors.ink} (#1c1b1b) for body copy and {colors.body} (#363636) for headings, creating a gentle but legible contrast. Accent colors like {colors.accent-sage} (#b2f9e9) and {colors.accent-lavender} (#676986) appear in product badges and ingredient callouts, while {colors.hairline} (#dddddd) and {colors.hairline-soft} (#e5e5e5) define card borders and dividers. The typography pairs Playfair Display for editorial headlines with Work Sans for body text, giving the brand a modern-yet-romantic feel. Buttons use {rounded.full} pill shapes, product cards have {rounded.lg} corners, and the overall spacing is generous — {spacing.section} (64px) between major blocks — creating a spa-like, unhurried browsing experience. The brand's signature move is the "mermaid wave" motif: soft, undulating lines in illustrations and the liberal use of {colors.primary} (#fdd4eb) as a wash behind product imagery.
+name: "Mermade Hair"
+source_url: "https://www.mermadehair.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A dreamy, mermaid-core haircare brand that lives in a soft-focus world of blush pinks and muted mauves. The palette is anchored by {colors.primary} (#fdd4eb), a whisper-light bubblegum that appears on CTAs, badges, and hover states, and {colors.primary-active} (#ffbae0), a slightly warmer rose that signals interaction. Against a {colors.canvas} (#f7f7f8) background, the brand uses {colors.ink} (#1c1b1b) for body copy and {colors.body} (#363636) for headings, creating a gentle but legible contrast. Accent colors like {colors.accent-sage} (#b2f9e9) and {colors.accent-lavender} (#676986) appear in product badges and ingredient callouts, while {colors.hairline} (#dddddd) and {colors.hairline-soft} (#e5e5e5) define card borders and dividers. The typography pairs Playfair Display for editorial headlines with Work Sans for body text, giving the brand a modern-yet-romantic feel. Buttons use {rounded.full} pill shapes, product cards have {rounded.lg} corners, and the overall spacing is generous — {spacing.section} (64px) between major blocks — creating a spa-like, unhurried browsing experience. The brand's signature move is the "mermaid wave" motif: soft, undulating lines in illustrations and the liberal use of {colors.primary} (#fdd4eb) as a wash behind product imagery.
 
 colors:
   primary: "#fdd4eb"
@@ -328,6 +332,8 @@ components:
 - Multi-column product descriptions collapse to accordion sections
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for product card images (zoom effect, secondary image reveal) — not reliably extracted from CSS
 - Error state styling for form validation (specific border colors, error message typography)

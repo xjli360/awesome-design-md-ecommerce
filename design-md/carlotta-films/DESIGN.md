@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Carlotta Films
-description: A Parisian film boutique where a deep, ink-black canvas (#1c1d1d) meets a warm, aged-gold accent (#a26b25) — the kind of gold you find on a vintage movie-poster frame, not a luxury brand. The site breathes cinema history through a restrained palette: the primary action color is a confident, archival blue (#006fcf) that recalls old Criterion menus, while body text sits in a soft charcoal (#3d4246) on a pale, almost mint-tinged off-white (#eff5f5) that reads as aged paper rather than sterile white. Typography leans into serif authority — Big Caslon and Bodoni MT for display headings, Georgia for body, Helvetica and Myriad for utilitarian navigation — creating a deliberate tension between scholarly film-text and functional e-commerce. Cards use generous {rounded.sm} corners, buttons are pill-shaped at {rounded.full}, and the entire layout is built on a generous {spacing.section} rhythm that gives each film product room to breathe like a gallery wall. The checkout flow introduces a secondary palette of payment-brand colors (Klarna pink, PayPal blue, CB silver) that clash intentionally with the editorial tone — a reminder that this is a shop, not a museum. The overall effect is a quiet, serious, cinephile space where the gold accent never overwhelms and the blue button is the only thing that asks you to buy.
+name: "Carlotta Films"
+source_url: "https://laboutique.carlottafilms.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A Parisian film boutique where a deep, ink-black canvas (#1c1d1d) meets a warm, aged-gold accent (#a26b25) — the kind of gold you find on a vintage movie-poster frame, not a luxury brand. The site breathes cinema history through a restrained palette: the primary action color is a confident, archival blue (#006fcf) that recalls old Criterion menus, while body text sits in a soft charcoal (#3d4246) on a pale, almost mint-tinged off-white (#eff5f5) that reads as aged paper rather than sterile white. Typography leans into serif authority — Big Caslon and Bodoni MT for display headings, Georgia for body, Helvetica and Myriad for utilitarian navigation — creating a deliberate tension between scholarly film-text and functional e-commerce. Cards use generous {rounded.sm} corners, buttons are pill-shaped at {rounded.full}, and the entire layout is built on a generous {spacing.section} rhythm that gives each film product room to breathe like a gallery wall. The checkout flow introduces a secondary palette of payment-brand colors (Klarna pink, PayPal blue, CB silver) that clash intentionally with the editorial tone — a reminder that this is a shop, not a museum. The overall effect is a quiet, serious, cinephile space where the gold accent never overwhelms and the blue button is the only thing that asks you to buy.
 
 colors:
   primary: "#006fcf"
@@ -404,6 +408,8 @@ components:
 - The hero banner reduces its minimum height and may hide secondary text to prioritize the headline and primary CTA.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states for all components** were not reliably extracted from the live site. Hover colors for buttons, links, and cards are inferred from common patterns (darkening primary, lightening gold, underlining links) but may not match the exact implementation.
 - **Error and validation styling** for forms (beyond the red border) was not observed. Error messages, icons, and inline validation patterns are assumed based on e-commerce conventions.

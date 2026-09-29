@@ -1,0 +1,862 @@
+{
+  "source_url": "https://ruvati.com",
+  "final_url": "https://www.ruvati.com/",
+  "captured_at": "2026-09-28T09:19:41.140171+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://ruvati.com",
+      "final_url": "https://www.ruvati.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "4391be7a7c730ff4249d3443030a86a5d70fd68f683451b0c6162cc7558c6cd2",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/selectize/selectize.min.css?ver=7.3.0",
+      "final_url": "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/selectize/selectize.min.css?ver=7.3.0",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0907caa77d48760fd7721396bc4cc53147662f15c80cc87c901b351d0579f5c3",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/price-slider.min.css?ver=7.3.0",
+      "final_url": "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/price-slider.min.css?ver=7.3.0",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5359b6929c5abe9f19665ea20c6c6021b7cb1b9d435379b8fc6afda4d19b9868",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/product-search.min.css?ver=7.3.0",
+      "final_url": "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/product-search.min.css?ver=7.3.0",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "bcf20c3c7352e61ee2f60da961d02f7c4c3cc17b4580988c8e25396780c8ddbe",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.ruvati.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1",
+      "final_url": "https://www.ruvati.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "45173f1550e57be245f3ed3b0f6fde7962e27901d5a04adf9342e546500bed49",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.ruvati.com/wp-content/plugins/revslider/public/css/sr7.css?ver=6.7.55",
+      "final_url": "https://www.ruvati.com/wp-content/plugins/revslider/public/css/sr7.css?ver=6.7.55",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5bca839f5ee90c2a77e95d73bbae019bdf1ca08cbb71f7b2edff227d4f6ee0b9",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 39,
+      "sources": [
+        "https://www.ruvati.com/",
+        "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/selectize/selectize.min.css?ver=7.3.0",
+        "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/price-slider.min.css?ver=7.3.0",
+        "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/product-search.min.css?ver=7.3.0",
+        "https://www.ruvati.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1",
+        "https://www.ruvati.com/wp-content/plugins/revslider/public/css/sr7.css?ver=6.7.55"
+      ]
+    },
+    "#3e8aaa": {
+      "count": 24,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 14,
+      "sources": [
+        "https://www.ruvati.com/",
+        "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/price-slider.min.css?ver=7.3.0",
+        "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/product-search.min.css?ver=7.3.0"
+      ]
+    },
+    "#333333": {
+      "count": 12,
+      "sources": [
+        "https://www.ruvati.com/",
+        "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/price-slider.min.css?ver=7.3.0",
+        "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/product-search.min.css?ver=7.3.0"
+      ]
+    },
+    "#d0d0d0": {
+      "count": 12,
+      "sources": [
+        "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/selectize/selectize.min.css?ver=7.3.0"
+      ]
+    },
+    "#000000": {
+      "count": 10,
+      "sources": [
+        "https://www.ruvati.com/",
+        "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/selectize/selectize.min.css?ver=7.3.0",
+        "https://www.ruvati.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1",
+        "https://www.ruvati.com/wp-content/plugins/revslider/public/css/sr7.css?ver=6.7.55"
+      ]
+    },
+    "#0099df": {
+      "count": 9,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#303030": {
+      "count": 8,
+      "sources": [
+        "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/selectize/selectize.min.css?ver=7.3.0"
+      ]
+    },
+    "#555555": {
+      "count": 6,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 6,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 6,
+      "sources": [
+        "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/selectize/selectize.min.css?ver=7.3.0",
+        "https://www.ruvati.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+      ]
+    },
+    "#007cba": {
+      "count": 5,
+      "sources": [
+        "https://www.ruvati.com/",
+        "https://www.ruvati.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+      ]
+    },
+    "#2f2f2f": {
+      "count": 5,
+      "sources": [
+        "https://www.ruvati.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+      ]
+    },
+    "#dddddd": {
+      "count": 4,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#ff6900": {
+      "count": 3,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#0693e3": {
+      "count": 3,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#32373c": {
+      "count": 3,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 3,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 3,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#cacaca": {
+      "count": 3,
+      "sources": [
+        "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/selectize/selectize.min.css?ver=7.3.0"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 3,
+      "sources": [
+        "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/selectize/selectize.min.css?ver=7.3.0"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 3,
+      "sources": [
+        "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/selectize/selectize.min.css?ver=7.3.0",
+        "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/product-search.min.css?ver=7.3.0"
+      ]
+    },
+    "#5f3f3f": {
+      "count": 3,
+      "sources": [
+        "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/price-slider.min.css?ver=7.3.0"
+      ]
+    },
+    "#cf2e2e": {
+      "count": 2,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#fcb900": {
+      "count": 2,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#00d084": {
+      "count": 2,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#9b51e0": {
+      "count": 2,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#e0dede": {
+      "count": 2,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#313131": {
+      "count": 2,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#020381": {
+      "count": 2,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#2874fc": {
+      "count": 2,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 2,
+      "sources": [
+        "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/selectize/selectize.min.css?ver=7.3.0"
+      ]
+    },
+    "#495c68": {
+      "count": 2,
+      "sources": [
+        "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/selectize/selectize.min.css?ver=7.3.0"
+      ]
+    },
+    "#808080": {
+      "count": 2,
+      "sources": [
+        "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/selectize/selectize.min.css?ver=7.3.0"
+      ]
+    },
+    "#777620": {
+      "count": 2,
+      "sources": [
+        "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/price-slider.min.css?ver=7.3.0"
+      ]
+    },
+    "#43454b": {
+      "count": 2,
+      "sources": [
+        "https://www.ruvati.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+      ]
+    },
+    "#cd2653": {
+      "count": 2,
+      "sources": [
+        "https://www.ruvati.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+      ]
+    },
+    "#cc1818": {
+      "count": 2,
+      "sources": [
+        "https://www.ruvati.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+      ]
+    },
+    "#f0b849": {
+      "count": 2,
+      "sources": [
+        "https://www.ruvati.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+      ]
+    },
+    "#4ab866": {
+      "count": 2,
+      "sources": [
+        "https://www.ruvati.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+      ]
+    },
+    "#abb8c3": {
+      "count": 1,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#f78da7": {
+      "count": 1,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#7bdcb5": {
+      "count": 1,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#8ed1fc": {
+      "count": 1,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#efefef": {
+      "count": 1,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 1,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#7a00df": {
+      "count": 1,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#006ba1": {
+      "count": 1,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#005a87": {
+      "count": 1,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#34e2e4": {
+      "count": 1,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#4721fb": {
+      "count": 1,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#ab1dfe": {
+      "count": 1,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#faaca8": {
+      "count": 1,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#dad0ec": {
+      "count": 1,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#fafae1": {
+      "count": 1,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#67a671": {
+      "count": 1,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#fdd79a": {
+      "count": 1,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#004a59": {
+      "count": 1,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#330968": {
+      "count": 1,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "#31cdcf": {
+      "count": 1,
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://www.ruvati.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+    ],
+    "Arial": [
+      "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/price-slider.min.css?ver=7.3.0"
+    ],
+    "BlinkMacSystemFont": [
+      "https://www.ruvati.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+    ],
+    "Cantarell": [
+      "https://www.ruvati.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+    ],
+    "Consolas": [
+      "https://www.ruvati.com/"
+    ],
+    "Droid Sans": [
+      "https://www.ruvati.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+    ],
+    "Fira Sans": [
+      "https://www.ruvati.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+    ],
+    "Font Awesome 5 Free Regular": [
+      "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/product-search.min.css?ver=7.3.0"
+    ],
+    "Font Awesome 5 Free Solid": [
+      "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/product-search.min.css?ver=7.3.0"
+    ],
+    "Helvetica": [
+      "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/price-slider.min.css?ver=7.3.0"
+    ],
+    "Helvetica Neue": [
+      "https://www.ruvati.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+    ],
+    "Menlo": [
+      "https://www.ruvati.com/"
+    ],
+    "Open Sans": [
+      "https://www.ruvati.com/"
+    ],
+    "Oxygen": [
+      "https://www.ruvati.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+    ],
+    "PT Sans": [
+      "https://www.ruvati.com/"
+    ],
+    "PT Sans\" !IMPORTANT": [
+      "https://www.ruvati.com/"
+    ],
+    "Roboto": [
+      "https://www.ruvati.com/",
+      "https://www.ruvati.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+    ],
+    "Segoe UI": [
+      "https://www.ruvati.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+    ],
+    "Ubuntu": [
+      "https://www.ruvati.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+    ],
+    "WooCommerce": [
+      "https://www.ruvati.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+    ],
+    "blinkmacsystemfont": [
+      "https://www.ruvati.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+    ],
+    "helvetica": [
+      "https://www.ruvati.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+    ],
+    "monaco": [
+      "https://www.ruvati.com/"
+    ],
+    "monospace": [
+      "https://www.ruvati.com/"
+    ],
+    "sans-serif": [
+      "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/price-slider.min.css?ver=7.3.0",
+      "https://www.ruvati.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.ruvati.com/",
+      "selector": ".wp-block-button",
+      "declarations": "--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;"
+    },
+    {
+      "source": "https://www.ruvati.com/",
+      "selector": ":root :where(.wp-element-button, .wp-block-button__link)",
+      "declarations": "background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;"
+    },
+    {
+      "source": "https://www.ruvati.com/",
+      "selector": ".woocommerce-product-documents  .ui-accordion-content",
+      "declarations": "border-width:0px!important;\r\n\tpadding:10px!important;\t\r\n    background-color: transparent;"
+    },
+    {
+      "source": "https://www.ruvati.com/",
+      "selector": ".custom-woo-title-bar .woocommerce-products-header__title.page-title",
+      "declarations": "font-family: \"PT Sans\";\r\n\tfont-size:26px;line-height: 1.5;    font-weight: bold;"
+    },
+    {
+      "source": "https://www.ruvati.com/",
+      "selector": "display:none\n\n:root",
+      "declarations": "--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px"
+    },
+    {
+      "source": "https://www.ruvati.com/",
+      "selector": ":root",
+      "declarations": "--wp-admin-border-width-focus:1.5px"
+    },
+    {
+      "source": "https://www.ruvati.com/",
+      "selector": ":root .has-very-light-gray-background-color",
+      "declarations": "background-color:#eee"
+    },
+    {
+      "source": "https://www.ruvati.com/",
+      "selector": ":root .has-very-dark-gray-background-color",
+      "declarations": "background-color:#313131"
+    },
+    {
+      "source": "https://www.ruvati.com/",
+      "selector": ":root .has-very-light-gray-color",
+      "declarations": "color:#eee"
+    },
+    {
+      "source": "https://www.ruvati.com/",
+      "selector": ":root .has-very-dark-gray-color",
+      "declarations": "color:#313131"
+    },
+    {
+      "source": "https://www.ruvati.com/",
+      "selector": ":root",
+      "declarations": "--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px"
+    },
+    {
+      "source": "https://www.ruvati.com/",
+      "selector": ":root :where(.wp-block-image figcaption)",
+      "declarations": "color:#555;font-size:13px;text-align:center"
+    },
+    {
+      "source": "https://www.ruvati.com/",
+      "selector": ".is-dark-theme :root :where(.wp-block-image figcaption)",
+      "declarations": "color:hsla(0,0%,100%,.65)"
+    },
+    {
+      "source": "https://www.ruvati.com/",
+      "selector": ".wp-block-button__link",
+      "declarations": "color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em"
+    },
+    {
+      "source": "https://www.ruvati.com/",
+      "selector": ".wp-block-file__button",
+      "declarations": "background:#32373c;color:#fff;text-decoration:none"
+    },
+    {
+      "source": "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/selectize/selectize.min.css?ver=7.3.0",
+      "selector": ".selectize-dropdown.plugin-dropdown_header .selectize-dropdown-header-close",
+      "declarations": "position:absolute;right:8px;top:50%;color:#303030;opacity:.4;margin-top:-12px;line-height:20px;font-size:20px !important;text-decoration:none"
+    },
+    {
+      "source": "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/selectize/selectize.min.css?ver=7.3.0",
+      "selector": ".selectize-dropdown.plugin-dropdown_header .selectize-dropdown-header-close:hover",
+      "declarations": "color:black"
+    },
+    {
+      "source": "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/selectize/selectize.min.css?ver=7.3.0",
+      "selector": ".selectize-control.plugin-remove_button .item .remove",
+      "declarations": "color:inherit;text-decoration:none;vertical-align:middle;display:inline-block;padding:2px 6px;border-left:1px solid #d0d0d0;border-radius:0 2px 2px 0;box-sizing:border-box;margin-left:6px"
+    },
+    {
+      "source": "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/selectize/selectize.min.css?ver=7.3.0",
+      "selector": ".selectize-control.plugin-remove_button .item.active .remove",
+      "declarations": "border-left-color:#cacaca"
+    },
+    {
+      "source": "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/selectize/selectize.min.css?ver=7.3.0",
+      "selector": ".selectize-control.plugin-remove_button .disabled .item .remove",
+      "declarations": "border-left-color:white"
+    },
+    {
+      "source": "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/selectize/selectize.min.css?ver=7.3.0",
+      "selector": ".selectize-control.plugin-clear_button .clear",
+      "declarations": "text-decoration:none;display:flex;position:absolute;height:100%;width:25px;top:0;right:calc(8px - 6px);color:#000;opacity:.4;font-weight:bold;border:0;cursor:pointer;z-index:1;font-size:21px;justify-content:center;align-items:center"
+    },
+    {
+      "source": "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/selectize/selectize.min.css?ver=7.3.0",
+      "selector": ".selectize-dropdown .optgroup-header",
+      "declarations": "color:#303030;background:#fff;cursor:default"
+    },
+    {
+      "source": "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/selectize/selectize.min.css?ver=7.3.0",
+      "selector": ".selectize-control.plugin-clear_button .clear",
+      "declarations": "text-decoration:none;display:flex;position:absolute;height:100%;width:25px;top:0;right:calc(8px - 6px);color:#000;opacity:.4;font-weight:bold;border:0;cursor:pointer;z-index:1;font-size:21px;justify-content:center;align-items:center"
+    },
+    {
+      "source": "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/selectize/selectize.min.css?ver=7.3.0",
+      "selector": ".selectize-dropdown.plugin-dropdown_header .selectize-dropdown-header-close",
+      "declarations": "position:absolute;right:8px;top:50%;color:#303030;opacity:.4;margin-top:-12px;line-height:20px;font-size:20px !important;text-decoration:none"
+    },
+    {
+      "source": "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/selectize/selectize.min.css?ver=7.3.0",
+      "selector": ".selectize-dropdown.plugin-dropdown_header .selectize-dropdown-header-close:hover",
+      "declarations": "color:black"
+    },
+    {
+      "source": "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/selectize/selectize.min.css?ver=7.3.0",
+      "selector": ".selectize-control.plugin-remove_button .item .remove",
+      "declarations": "color:inherit;text-decoration:none;vertical-align:middle;display:inline-block;padding:2px 6px;border-left:1px solid #d0d0d0;border-radius:0 2px 2px 0;box-sizing:border-box;margin-left:6px"
+    },
+    {
+      "source": "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/selectize/selectize.min.css?ver=7.3.0",
+      "selector": ".selectize-control.plugin-remove_button .item.active .remove",
+      "declarations": "border-left-color:#cacaca"
+    },
+    {
+      "source": "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/selectize/selectize.min.css?ver=7.3.0",
+      "selector": ".selectize-control.plugin-remove_button .disabled .item .remove",
+      "declarations": "border-left-color:white"
+    },
+    {
+      "source": "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/price-slider.min.css?ver=7.3.0",
+      "selector": ".product-search-filter-price .ui-widget",
+      "declarations": "font-family:Arial,Helvetica,sans-serif;font-size:1em"
+    },
+    {
+      "source": "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/price-slider.min.css?ver=7.3.0",
+      "selector": ".product-search-filter-price .ui-widget input,.product-search-filter-price .ui-widget select,.product-search-filter-price .ui-widget textarea,.product-search-fi",
+      "declarations": "font-family:Arial,Helvetica,sans-serif;font-size:1em"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Ruvati USA - Kitchen and Bath | Sinks and Accessories",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ruvati.com/",
+        "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/price-slider.min.css?ver=7.3.0",
+        "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/product-search.min.css?ver=7.3.0"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ruvati.com/",
+        "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/selectize/selectize.min.css?ver=7.3.0",
+        "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/price-slider.min.css?ver=7.3.0",
+        "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/product-search.min.css?ver=7.3.0",
+        "https://www.ruvati.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1",
+        "https://www.ruvati.com/wp-content/plugins/revslider/public/css/sr7.css?ver=6.7.55"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/selectize/selectize.min.css?ver=7.3.0"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ruvati.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/selectize/selectize.min.css?ver=7.3.0"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ruvati.com/",
+        "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/selectize/selectize.min.css?ver=7.3.0",
+        "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/price-slider.min.css?ver=7.3.0",
+        "https://www.ruvati.com/wp-content/plugins/woocommerce-product-search/css/product-search.min.css?ver=7.3.0",
+        "https://www.ruvati.com/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css?ver=wc-10.8.1",
+        "https://www.ruvati.com/wp-content/plugins/revslider/public/css/sr7.css?ver=6.7.55"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.room-selector-tile": {
+      "status": "inferred"
+    }
+  }
+}

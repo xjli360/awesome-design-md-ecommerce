@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Sugarlift
-description: |
+name: "Sugarlift"
+source_url: "https://www.sugarlift.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Sugarlift's entire interface runs on a single axis of light — from #141414 at the darkest to #fafafa at the palest — with no chromatic accent anywhere in the extracted palette. This is not minimalism by default but a deliberate act of curation: a gallery that withholds color from its own chrome so that every painting, photograph, and mixed-media piece can carry its own luminance without competition. The nav, cards, and footers dissolve into a continuous near-white canvas ({colors.canvas}), and the only thing holding visual weight is the art itself.
 
   Geist Sans — Vercel's geometric neutral — serves as the sole text typeface, chosen for its optically even width at display sizes and sturdy x-height in body copy. The monospace stack (Menlo, Consolas, Courier New) surfaces in catalog numbers, edition details, and provenance fields, creating a document-register contrast against editorial prose that makes metadata feel archival rather than commercial. Headings run at light or regular weight with generous tracking; nothing fights for attention at the typographic level either.
@@ -304,6 +307,8 @@ components:
 - Filter chips: horizontal scroll strip on mobile; wrapping grid on desktop
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No chromatic accent or brand hue detected; the entire extracted palette is a Tailwind gray scale — a hover highlight or link color may exist on the live site and was not captured by extraction
 - geistSans custom weight axis not confirmed; light (300) and medium (500) weights assigned from the public Geist font axis range

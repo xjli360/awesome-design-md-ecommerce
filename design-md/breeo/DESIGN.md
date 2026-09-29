@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Breeo
-description: |
+name: "Breeo"
+source_url: "https://breeo.co"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Charred steel and open flame reduced to a near-monochromatic digital surface — Breeo's interface is built almost entirely from black registers (#0c0c0c through #1e201f) that layer like soot cooling on cast iron. The single warm exhale in the palette is a limestone cream (#e2e0d7) that functions as the brand's primary action color: it appears on CTA buttons, hover states, and promotional badges sitting against those deep charcoal grounds, reading like firelight caught on sandstone. Typography runs Chivo — a geometric grotesque with wide apertures and mechanical terminals — set heavy at display scale (fontWeight 700–800) to match the mass of the physical product, then thinned to 400 for body copy where legibility matters more than presence. Nimbus Bold appears in lockup-style moments (wordmarks, feature callouts) where condensed width is needed. Card corners stay sharp at `{rounded.none}` or barely softened at `{rounded.xs}`, reinforcing an industrial vocabulary; only pill-shaped add-to-cart badges and filter chips reach `{rounded.full}`. Vertical rhythm is generous — `{spacing.section}` or larger between hero folds — because the photography (flames licking over X Series grates, overhead shots of glowing ember beds) needs room to breathe. The nav bar is a flat black slab (#0c0c0c) with cream wordmark and minimal link set; it collapses to a hamburger immediately below tablet. Product cards are dark surface tiles (#282828) with cream price text and a subtle 1px hairline (#dedede at 12% opacity), stacking in a 2-up mobile / 3-up desktop grid. The overall rhythm is slow, vertical, image-dominant — each scroll fold is essentially one atmospheric photograph plus one short Chivo headline plus one cream CTA, trusting the fire itself to do the selling.
 
 colors:
@@ -396,6 +399,8 @@ components:
 - Footer columns collapse from 4-across to 2×2 grid on tablet, single-stack on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No distinct accent/CTA color beyond the warm cream was detected — if the brand uses a separate highlight (e.g., orange or red for sale pricing), it was not present in the extracted palette
 - Chivo weight variants (300, 400, 500, 700, 800, 900) could not be confirmed from extraction; weights above are inferred from typical Chivo usage on Shopify

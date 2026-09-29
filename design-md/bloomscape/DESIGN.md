@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Bloomscape
-description: Deep forest green (#224229) saturates Bloomscape's header, footer, and primary CTAs like chlorophyll pooling at the edges of a leaf — the entire interface frames a warm parchment canvas (#fcf9f3) the way a glazed ceramic pot frames soil. Typography pairs Nib Pro, a high-contrast serif with calligraphic stroke terminals, against Circular's geometric neutrality; display headlines land in Nib Pro at weight 500–600 to convey botanical-catalog authority without heaviness, while body copy runs Circular at 16px/1.6 for long-form plant-care guides that read like magazine editorial. The bright accent green (#018342) fires on "Add to Cart" and quick-shop overlays — it sits mid-spectrum between the near-black primary and the warm peach tones (#f6cfb2, #f4c4a0) that tint promotional banners, seasonal gift badges, and hover states on lifestyle photography. Card radii stay at `{rounded.sm}` (8px), keeping product tiles orderly in a dense grid; buttons run `{rounded.xs}` (4px) for a squared-off nursery-label feel rather than the pill shapes common in beauty and wellness DTC. Spacing is generous — `{spacing.section}` (64px) separates collection rows, letting large square plant photographs breathe against the cream ground. A muted sage (#607765) handles secondary text and icon strokes, bridging the gap between the dark ink and bright whites without introducing a cold gray. The surface hierarchy layers three warm tones: pure canvas (#fcf9f3), a slightly cooler card white (#fdfcfa), and a deeper linen (#f8f1e3) for feature callouts and care-tip modules. Navigation is minimal — a sticky top bar in forest green with white wordmark and sparse utility icons — reflecting a curated catalog philosophy where the plant imagery, not the chrome, sells.
+name: "Bloomscape"
+source_url: "https://bloomscape.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Deep forest green (#224229) saturates Bloomscape's header, footer, and primary CTAs like chlorophyll pooling at the edges of a leaf — the entire interface frames a warm parchment canvas (#fcf9f3) the way a glazed ceramic pot frames soil. Typography pairs Nib Pro, a high-contrast serif with calligraphic stroke terminals, against Circular's geometric neutrality; display headlines land in Nib Pro at weight 500–600 to convey botanical-catalog authority without heaviness, while body copy runs Circular at 16px/1.6 for long-form plant-care guides that read like magazine editorial. The bright accent green (#018342) fires on "Add to Cart" and quick-shop overlays — it sits mid-spectrum between the near-black primary and the warm peach tones (#f6cfb2, #f4c4a0) that tint promotional banners, seasonal gift badges, and hover states on lifestyle photography. Card radii stay at `{rounded.sm}` (8px), keeping product tiles orderly in a dense grid; buttons run `{rounded.xs}` (4px) for a squared-off nursery-label feel rather than the pill shapes common in beauty and wellness DTC. Spacing is generous — `{spacing.section}` (64px) separates collection rows, letting large square plant photographs breathe against the cream ground. A muted sage (#607765) handles secondary text and icon strokes, bridging the gap between the dark ink and bright whites without introducing a cold gray. The surface hierarchy layers three warm tones: pure canvas (#fcf9f3), a slightly cooler card white (#fdfcfa), and a deeper linen (#f8f1e3) for feature callouts and care-tip modules. Navigation is minimal — a sticky top bar in forest green with white wordmark and sparse utility icons — reflecting a curated catalog philosophy where the plant imagery, not the chrome, sells.
 
 colors:
   primary: "#224229"
@@ -380,6 +384,8 @@ components:
 - Testimonial carousel maintains swipe behavior but hides arrow controls
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Nib Pro webfont weights and exact optical sizes could not be confirmed from extraction alone — the font loads via JS/CSS bundle and only the family name was captured
 - Exact box-shadow values on product card hover states are estimated from visual inspection

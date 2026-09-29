@@ -1,0 +1,789 @@
+{
+  "source_url": "https://bronwenjewelry.com",
+  "final_url": "https://bronwenjewelry.com/",
+  "captured_at": "2026-09-28T04:37:34.249583+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://bronwenjewelry.com",
+      "final_url": "https://bronwenjewelry.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "1ab515f21dc407ac75f9b6c4b1692c5b845d3f9a4ba7eb6d18dfc90655b3fa3f",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003",
+      "final_url": "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0585a85569763adc2cb8e1dfdb66feab82016d309a3775135b9dd91baefab3b7",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://bronwenjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://bronwenjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+      "final_url": "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "74ca6aae5468dbc924790c3b4d219a089b90a34bad53a0f7ca3a73e73b6f5ab8",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css",
+      "final_url": "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "09379884b3dcc1b51c1adf20ce2d6ecf46ea86beea66088e13c0df72590e92e0",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://dov7r31oq5dkj.cloudfront.net/00cbe6ba-1e3d-4456-b5f6-05428c69b56f/widget-style-customisations.css?v=dfb9ec15-3ad9-410c-9085-7c8dbb84898a",
+      "final_url": "https://dov7r31oq5dkj.cloudfront.net/00cbe6ba-1e3d-4456-b5f6-05428c69b56f/widget-style-customisations.css?v=dfb9ec15-3ad9-410c-9085-7c8dbb84898a",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "8a0250356b30d57f212db03334d0d92d8fa8ca04f47d9ddff39700e4c6802718",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 46,
+      "sources": [
+        "https://bronwenjewelry.com/",
+        "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003",
+        "https://bronwenjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css",
+        "https://dov7r31oq5dkj.cloudfront.net/00cbe6ba-1e3d-4456-b5f6-05428c69b56f/widget-style-customisations.css?v=dfb9ec15-3ad9-410c-9085-7c8dbb84898a"
+      ]
+    },
+    "#000000": {
+      "count": 27,
+      "sources": [
+        "https://bronwenjewelry.com/",
+        "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003",
+        "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css",
+        "https://dov7r31oq5dkj.cloudfront.net/00cbe6ba-1e3d-4456-b5f6-05428c69b56f/widget-style-customisations.css?v=dfb9ec15-3ad9-410c-9085-7c8dbb84898a"
+      ]
+    },
+    "#cccccc": {
+      "count": 26,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#707070": {
+      "count": 25,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#525252": {
+      "count": 22,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 14,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css",
+        "https://dov7r31oq5dkj.cloudfront.net/00cbe6ba-1e3d-4456-b5f6-05428c69b56f/widget-style-customisations.css?v=dfb9ec15-3ad9-410c-9085-7c8dbb84898a"
+      ]
+    },
+    "#4b3a20": {
+      "count": 12,
+      "sources": [
+        "https://bronwenjewelry.com/",
+        "https://dov7r31oq5dkj.cloudfront.net/00cbe6ba-1e3d-4456-b5f6-05428c69b56f/widget-style-customisations.css?v=dfb9ec15-3ad9-410c-9085-7c8dbb84898a"
+      ]
+    },
+    "#d3d4dd": {
+      "count": 6,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#e1ac64": {
+      "count": 5,
+      "sources": [
+        "https://bronwenjewelry.com/",
+        "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003"
+      ]
+    },
+    "#00000000": {
+      "count": 4,
+      "sources": [
+        "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003",
+        "https://bronwenjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#1d2135": {
+      "count": 4,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#333333": {
+      "count": 3,
+      "sources": [
+        "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#83cc1c": {
+      "count": 3,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 3,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#43a1fa": {
+      "count": 3,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#9a9db1": {
+      "count": 3,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 2,
+      "sources": [
+        "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003"
+      ]
+    },
+    "#62bd19": {
+      "count": 2,
+      "sources": [
+        "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003"
+      ]
+    },
+    "#555555": {
+      "count": 2,
+      "sources": [
+        "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://bronwenjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 2,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#fcfcfd": {
+      "count": 2,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#ec4048": {
+      "count": 2,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#535565": {
+      "count": 2,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#2e828c": {
+      "count": 2,
+      "sources": [
+        "https://dov7r31oq5dkj.cloudfront.net/00cbe6ba-1e3d-4456-b5f6-05428c69b56f/widget-style-customisations.css?v=dfb9ec15-3ad9-410c-9085-7c8dbb84898a"
+      ]
+    },
+    "#94b8df": {
+      "count": 2,
+      "sources": [
+        "https://dov7r31oq5dkj.cloudfront.net/00cbe6ba-1e3d-4456-b5f6-05428c69b56f/widget-style-customisations.css?v=dfb9ec15-3ad9-410c-9085-7c8dbb84898a"
+      ]
+    },
+    "#b09a7d": {
+      "count": 1,
+      "sources": [
+        "https://bronwenjewelry.com/"
+      ]
+    },
+    "#dfaf36": {
+      "count": 1,
+      "sources": [
+        "https://bronwenjewelry.com/"
+      ]
+    },
+    "#fbf9f2": {
+      "count": 1,
+      "sources": [
+        "https://bronwenjewelry.com/"
+      ]
+    },
+    "#fefcf5": {
+      "count": 1,
+      "sources": [
+        "https://bronwenjewelry.com/"
+      ]
+    },
+    "#4c484810": {
+      "count": 1,
+      "sources": [
+        "https://bronwenjewelry.com/"
+      ]
+    },
+    "#4c4848": {
+      "count": 1,
+      "sources": [
+        "https://bronwenjewelry.com/"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003"
+      ]
+    },
+    "#00000012": {
+      "count": 1,
+      "sources": [
+        "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003"
+      ]
+    },
+    "#00000026": {
+      "count": 1,
+      "sources": [
+        "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003"
+      ]
+    },
+    "#000000dc": {
+      "count": 1,
+      "sources": [
+        "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 1,
+      "sources": [
+        "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 1,
+      "sources": [
+        "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://bronwenjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://bronwenjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://bronwenjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#007aff": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+      ]
+    },
+    "#1199ff": {
+      "count": 1,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#ffb829": {
+      "count": 1,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#8f9097": {
+      "count": 1,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#f4f4f6": {
+      "count": 1,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#e1e2ea": {
+      "count": 1,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#272d45": {
+      "count": 1,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 1,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#dbdde4": {
+      "count": 1,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#c2c2c2": {
+      "count": 1,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#3a3a3a": {
+      "count": 1,
+      "sources": [
+        "https://dov7r31oq5dkj.cloudfront.net/00cbe6ba-1e3d-4456-b5f6-05428c69b56f/widget-style-customisations.css?v=dfb9ec15-3ad9-410c-9085-7c8dbb84898a"
+      ]
+    },
+    "#ee2407": {
+      "count": 1,
+      "sources": [
+        "https://dov7r31oq5dkj.cloudfront.net/00cbe6ba-1e3d-4456-b5f6-05428c69b56f/widget-style-customisations.css?v=dfb9ec15-3ad9-410c-9085-7c8dbb84898a"
+      ]
+    }
+  },
+  "font_families": {
+    "Dosis": [
+      "https://bronwenjewelry.com/",
+      "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003"
+    ],
+    "Helvetica Neue": [
+      "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+    ],
+    "Open sans": [
+      "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+    ],
+    "Tenor Sans": [
+      "https://bronwenjewelry.com/"
+    ],
+    "Tenor sans": [
+      "https://bronwenjewelry.com/"
+    ],
+    "oke-reviews-icons": [
+      "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+    ],
+    "sans-serif": [
+      "https://bronwenjewelry.com/",
+      "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003",
+      "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+    ],
+    "sans-serif !important": [
+      "https://bronwenjewelry.com/"
+    ],
+    "sans-serif!important": [
+      "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003"
+    ],
+    "swiper-icons": [
+      "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://bronwenjewelry.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: 40px;\n      --grid-column-count: 20;\n      --vertical-breather: 40px;\n      --vertical-breather-tight: 40px;\n\n      \n      --heading-xsmall-font-size: 12px;\n      --heading-small-font-size: 13px;\n      --heading-large-font-size: 52px;\n      --heading-h1-font-size: 48px;\n      --heading-h2-font-size: 38px;\n      --heading-h3-font-size: 32px;\n      --heading-h4-font-size: 24px;\n      --heading-h5-font-size: 20px;\n      --heading-h6-font-size: 18px;\n\n      \n      --form-input-field-height: 52px;\n      --form-submit-margin: 32px;\n\n      \n      --button-height: 52px;\n      --button-small-height: 44px;"
+    },
+    {
+      "source": "https://bronwenjewelry.com/",
+      "selector": ":root",
+      "declarations": "--vertical-breather: 48px;\n      --vertical-breather-tight: 48px;\n      --product-list-block-spacing: 48px;\n\n      \n      --heading-large-font-size: 64px;\n      --heading-h1-font-size: 56px;\n      --heading-h2-font-size: 48px;\n      --heading-h3-font-size: 36px;\n      --heading-h4-font-size: 30px;\n      --heading-h5-font-size: 24px;\n      --heading-h6-font-size: 18px;"
+    },
+    {
+      "source": "https://bronwenjewelry.com/",
+      "selector": ":root",
+      "declarations": "--vertical-breather: 48px;\n      --vertical-breather-tight: 48px;"
+    },
+    {
+      "source": "https://bronwenjewelry.com/",
+      "selector": "display:none;visibility:hidden\n\n  :root",
+      "declarations": "--enable-sticky-announcement-bar: 1;"
+    },
+    {
+      "source": "https://bronwenjewelry.com/",
+      "selector": ":root",
+      "declarations": "--enable-sticky-announcement-bar: 1;"
+    },
+    {
+      "source": "https://bronwenjewelry.com/",
+      "selector": ":root",
+      "declarations": "--enable-sticky-header: 1;\n    --enable-transparent-header: 0;\n    --loading-bar-background: 40, 40, 40;"
+    },
+    {
+      "source": "https://bronwenjewelry.com/",
+      "selector": "#shopify-section-sections--27809201586451__header",
+      "declarations": "--header-background: 255, 255, 255;\n    --header-text-color: 40, 40, 40;\n    --header-border-color: 223, 223, 223;\n    --reduce-header-padding: 2;position: -webkit-sticky;\n      position: sticky;\n      top: 0;z-index: 4;"
+    },
+    {
+      "source": "https://bronwenjewelry.com/",
+      "selector": ".footer .accordion .accordion-item .accordion-item-header .accordion-item-header-title",
+      "declarations": "text-transform: uppercase;\n    width: 100%;\n    text-align: center;\n    letter-spacing: 4px;\n    color: #4c4848;"
+    },
+    {
+      "source": "https://bronwenjewelry.com/",
+      "selector": "link--animated[href=\"/collections/women-led-wednesday-sale\"],a.header__linklist-link.link--animated[href=\"/collections/small-business-sale\"],a.header__linklist-",
+      "declarations": "color: #e1ac64 !important;  font-weight: bold !important;"
+    },
+    {
+      "source": "https://bronwenjewelry.com/",
+      "selector": "a.header__linklist-link.link--animated[href$=\"/12DaysSale\"]",
+      "declarations": "color: #e1ac64 !important; font-weight: bold !important;"
+    },
+    {
+      "source": "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003",
+      "selector": "button,input,select,textarea",
+      "declarations": "color:inherit;font:inherit;text-align:inherit;margin:0"
+    },
+    {
+      "source": "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003",
+      "selector": ".heading,.blockquote,.rte h1,.rte h2,.rte h3,.rte h4,.rte h5,.rte h6,.rte blockquote",
+      "declarations": "font-family:var(--heading-font-family);font-weight:var(--heading-font-weight);font-style:var(--heading-font-style);color:rgb(var(--heading-color));text-transform:var(--heading-text-transform);display:block"
+    },
+    {
+      "source": "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003",
+      "selector": "p a:not(.button),.rte a:not(.button),.link",
+      "declarations": "text-underline-offset:2px;text-decoration:underline;-webkit-text-decoration-color:rgba(var(--text-color),.35);text-decoration-color:rgba(var(--text-color),.35);transition:text-decoration-color .2s ease-in-out,color .2s ease-in-out"
+    },
+    {
+      "source": "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003",
+      "selector": "p a:not(.button):hover,.rte a:not(.button):hover,.link:hover",
+      "declarations": "color:rgb(var(--text-color));-webkit-text-decoration-color:rgb(var(--text-color));text-decoration-color:rgb(var(--text-color))"
+    },
+    {
+      "source": "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003",
+      "selector": ".prev-next-button",
+      "declarations": "background:rgb(var(--prev-next-button-background, var(--root-background)));color:rgb(var(--prev-next-button-color, var(--root-text-color)));border:1px solid rgba(var(--prev-next-button-color, var(--root-text-color)),.15);border-radius:var(--button-border-radius);pointer-events:auto;justify-content:center;align-items:center;width:40px;height:40px;transition:color .2s ease-in-out;display:flex;overflow:hidden"
+    },
+    {
+      "source": "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003",
+      "selector": ".prev-next-button[disabled]",
+      "declarations": "color:rgba(var(--prev-next-button-color),.3)"
+    },
+    {
+      "source": "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003",
+      "selector": ".input__field,#shopify-product-reviews .spr-form-input-text,#shopify-product-reviews .spr-form-input-email,#shopify-product-reviews .spr-form-input-textarea",
+      "declarations": "-webkit-appearance:none;appearance:none;height:var(--form-input-field-height);line-height:var(--form-input-field-height);border-radius:var(--button-border-radius);border:1px solid rgba(var(--text-color),.15);box-shadow:none;color:var(--form-input-color);text-align:start;background:none;width:100%;padding:0 18px;transition:border .2s ease-in-out,box-shadow .2s ease-in-out"
+    },
+    {
+      "source": "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003",
+      "selector": ".input__field:focus,select:focus,#shopify-product-reviews .spr-form-input-text:focus,#shopify-product-reviews .spr-form-input-email:focus,#shopify-product-revie",
+      "declarations": "border-color:rgb(var(--text-color));box-shadow:0 0 0 1px rgb(var(--text-color)) inset;outline:none"
+    },
+    {
+      "source": "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003",
+      "selector": ".button,.shopify-challenge__button,#shopify-product-reviews .spr-summary-actions-newreview,#shopify-product-reviews .spr-button",
+      "declarations": "-webkit-appearance:none;appearance:none;line-height:var(--button-height);text-align:center;border-radius:var(--button-border-radius);background:rgb(var(--button-background));color:rgb(var(--button-text-color));padding:0 30px;text-decoration:none;display:inline-block;position:relative"
+    },
+    {
+      "source": "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003",
+      "selector": ".button:not(.button--text),.shopify-challenge__button,#shopify-product-reviews .spr-summary-actions-newreview,#shopify-product-reviews .spr-button",
+      "declarations": "font-size:calc(var(--base-font-size) - 3px);font-family:var(--text-font-family);font-weight:var(--text-font-bold-weight);text-transform:uppercase;letter-spacing:1.5px"
+    },
+    {
+      "source": "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003",
+      "selector": ".button--primary,.shopify-challenge__button,#shopify-product-reviews .spr-summary-actions-newreview,#shopify-product-reviews .spr-button",
+      "declarations": "--button-background: var(--primary-button-background);--button-text-color: var(--primary-button-text-color)"
+    },
+    {
+      "source": "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003",
+      "selector": ".button--secondary",
+      "declarations": "--button-background: var(--secondary-button-background);--button-text-color: var(--secondary-button-text-color)"
+    },
+    {
+      "source": "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003",
+      "selector": ".button--ternary",
+      "declarations": "--button-background: var(--secondary-background);--button-text-color: var(--root-text-color)"
+    },
+    {
+      "source": "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003",
+      "selector": ".button--outline",
+      "declarations": "--button-background: var(--background);--button-text-color: var(--root-text-color);border:1px solid rgb(var(--border-color))"
+    },
+    {
+      "source": "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "--button-background: var(--primary-button-background);--button-text-color: var(--primary-button-text-color);-webkit-appearance:none!important;appearance:none!important;line-height:var(--button-height)!important;text-align:center!important;border-radius:var(--button-border-radius)!important;font-size:calc(var(--base-font-size) - 3px)!important;font-family:var(--text-font-family)!important;font-weight:var(--text-font-bold-weight)!important;text-transform:uppercase!important;letter-spacing:1.5px!important;background-color:rgb(var(--button-background))!important;color:rgb(var(--button-text-color))!important;padding:0 30px!important;text-decoration:none!important;display:inline-block!important;po"
+    },
+    {
+      "source": "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003",
+      "selector": ".button,.shopify-challenge__button,#shopify-product-reviews .spr-summary-actions-newreview,#shopify-product-reviews .spr-button,.shopify-payment-button__button",
+      "declarations": "--button-overlay-color: rgb(from color-contrast(rgb(var(--button-background)) vs white, black) r g b / 7%);background-image:linear-gradient(178deg,rgb(var(--button-background)),rgb(var(--button-background)) 10%,var(--button-overlay-color) 10%,var(--button-overlay-color) 100%),linear-gradient(rgb(var(--button-background)),rgb(var(--button-background)))"
+    },
+    {
+      "source": "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003",
+      "selector": ".shopify-model-viewer-ui.shopify-model-viewer-ui .shopify-model-viewer-ui__button",
+      "declarations": "color:rgb(var(--text-color))"
+    },
+    {
+      "source": "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003",
+      "selector": ".shopify-model-viewer-ui.shopify-model-viewer-ui .shopify-model-viewer-ui__button--control:hover",
+      "declarations": "color:rgba(var(--text-color),.55)"
+    },
+    {
+      "source": "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003",
+      "selector": "-model-viewer-ui.shopify-model-viewer-ui .shopify-model-viewer-ui__button--control:active,.shopify-model-viewer-ui.shopify-model-viewer-ui .shopify-model-viewer",
+      "declarations": "color:rgba(var(--text-color),.55);background:rgba(var(--text-color),.25)"
+    },
+    {
+      "source": "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003",
+      "selector": ".shopify-model-viewer-ui.shopify-model-viewer-ui .shopify-model-viewer-ui__button--control:not(:last-child):after",
+      "declarations": "border-color:rgba(var(--text-color),.25)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Active Jewelry - Handmade Jewelry - Wrap Bracelets - Bronwen Jewelry",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bronwenjewelry.com/",
+        "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bronwenjewelry.com/",
+        "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003",
+        "https://bronwenjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css",
+        "https://dov7r31oq5dkj.cloudfront.net/00cbe6ba-1e3d-4456-b5f6-05428c69b56f/widget-style-customisations.css?v=dfb9ec15-3ad9-410c-9085-7c8dbb84898a"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bronwenjewelry.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bronwenjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bronwenjewelry.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bronwenjewelry.com/",
+        "https://bronwenjewelry.com/cdn/shop/t/120/assets/theme.css?v=59667460403183866721789076003",
+        "https://bronwenjewelry.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css",
+        "https://dov7r31oq5dkj.cloudfront.net/00cbe6ba-1e3d-4456-b5f6-05428c69b56f/widget-style-customisations.css?v=dfb9ec15-3ad9-410c-9085-7c8dbb84898a"
+      ]
+    },
+    "colors.surface-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "colors.alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.material-tag": {
+      "status": "inferred"
+    }
+  }
+}

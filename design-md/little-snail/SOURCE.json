@@ -1,0 +1,853 @@
+{
+  "source_url": "https://littlesnail.com.au",
+  "final_url": "https://littlesnail.com.au/",
+  "captured_at": "2026-09-28T09:39:19.873547+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://littlesnail.com.au",
+      "final_url": "https://littlesnail.com.au/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "87b9cc664eb17cfcce77f4485b455447260f9ca24e011eddfbc3d9d4246abb80",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1",
+      "final_url": "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "07ec60bab49d69927d930db98595c56cb658e11a1b9b937e59f02d4541f36968",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://littlesnail.com.au/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-forms/src/../dist/contact-form/css/jetpack-forms-layout.css?ver=16.2",
+      "final_url": "https://littlesnail.com.au/wp-content/plugins/jetpack/jetpack_vendor/automattic/jetpack-forms/dist/contact-form/css/jetpack-forms-layout.css?ver=16.2",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "8361441d694f7190026c8dcb66ce833137ff31b0dd43b4ac266267f9f668a1d6",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://c0.wp.com/c/7.1.2/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css",
+      "final_url": "https://c0.wp.com/c/7.1.2/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b7908a015a567ec2363011df2475368dbff34360e9da3fdff50604d6395fb646",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://c0.wp.com/c/7.1.2/wp-includes/js/mediaelement/wp-mediaelement.min.css",
+      "final_url": "https://c0.wp.com/c/7.1.2/wp-includes/js/mediaelement/wp-mediaelement.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2e10d353ff038c2cad3492fc17801af3e6ef2669c9e9713bdb78b1dcb104c4fe",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://littlesnail.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css?ver=1.2.0",
+      "final_url": "https://littlesnail.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css?ver=1.2.0",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "dfe79b877365d4f12dab6d7f5bb6244dc9687e3ec4240e56df9f6490a07c28b2",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 78,
+      "sources": [
+        "https://littlesnail.com.au/",
+        "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1",
+        "https://c0.wp.com/c/7.1.2/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css",
+        "https://c0.wp.com/c/7.1.2/wp-includes/js/mediaelement/wp-mediaelement.min.css",
+        "https://littlesnail.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css?ver=1.2.0"
+      ]
+    },
+    "#000000": {
+      "count": 22,
+      "sources": [
+        "https://littlesnail.com.au/",
+        "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1",
+        "https://c0.wp.com/c/7.1.2/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css",
+        "https://c0.wp.com/c/7.1.2/wp-includes/js/mediaelement/wp-mediaelement.min.css",
+        "https://littlesnail.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css?ver=1.2.0"
+      ]
+    },
+    "#333333": {
+      "count": 15,
+      "sources": [
+        "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1",
+        "https://c0.wp.com/c/7.1.2/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css",
+        "https://c0.wp.com/c/7.1.2/wp-includes/js/mediaelement/wp-mediaelement.min.css"
+      ]
+    },
+    "#361461": {
+      "count": 13,
+      "sources": [
+        "https://littlesnail.com.au/"
+      ]
+    },
+    "#434960": {
+      "count": 12,
+      "sources": [
+        "https://littlesnail.com.au/",
+        "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1"
+      ]
+    },
+    "#663366": {
+      "count": 11,
+      "sources": [
+        "https://littlesnail.com.au/"
+      ]
+    },
+    "#dc9814": {
+      "count": 11,
+      "sources": [
+        "https://littlesnail.com.au/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 11,
+      "sources": [
+        "https://littlesnail.com.au/",
+        "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1",
+        "https://c0.wp.com/c/7.1.2/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css",
+        "https://littlesnail.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css?ver=1.2.0"
+      ]
+    },
+    "#cccccc": {
+      "count": 9,
+      "sources": [
+        "https://littlesnail.com.au/",
+        "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1",
+        "https://c0.wp.com/c/7.1.2/wp-includes/js/mediaelement/wp-mediaelement.min.css"
+      ]
+    },
+    "#bd1313": {
+      "count": 8,
+      "sources": [
+        "https://littlesnail.com.au/"
+      ]
+    },
+    "#666666": {
+      "count": 8,
+      "sources": [
+        "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1",
+        "https://littlesnail.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css?ver=1.2.0"
+      ]
+    },
+    "#999999": {
+      "count": 7,
+      "sources": [
+        "https://littlesnail.com.au/",
+        "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1",
+        "https://c0.wp.com/c/7.1.2/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css"
+      ]
+    },
+    "#0068a0": {
+      "count": 7,
+      "sources": [
+        "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1"
+      ]
+    },
+    "#141b38": {
+      "count": 7,
+      "sources": [
+        "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1"
+      ]
+    },
+    "#888888": {
+      "count": 5,
+      "sources": [
+        "https://littlesnail.com.au/",
+        "https://littlesnail.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css?ver=1.2.0"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 4,
+      "sources": [
+        "https://littlesnail.com.au/",
+        "https://littlesnail.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css?ver=1.2.0"
+      ]
+    },
+    "#2c324c": {
+      "count": 4,
+      "sources": [
+        "https://littlesnail.com.au/",
+        "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1"
+      ]
+    },
+    "#dddddd": {
+      "count": 4,
+      "sources": [
+        "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1",
+        "https://c0.wp.com/c/7.1.2/wp-includes/js/mediaelement/wp-mediaelement.min.css"
+      ]
+    },
+    "#fa9b57": {
+      "count": 4,
+      "sources": [
+        "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1"
+      ]
+    },
+    "#dcdde1": {
+      "count": 4,
+      "sources": [
+        "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 4,
+      "sources": [
+        "https://littlesnail.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css?ver=1.2.0"
+      ]
+    },
+    "#ff6900": {
+      "count": 3,
+      "sources": [
+        "https://littlesnail.com.au/"
+      ]
+    },
+    "#ff6600": {
+      "count": 3,
+      "sources": [
+        "https://littlesnail.com.au/"
+      ]
+    },
+    "#222222": {
+      "count": 3,
+      "sources": [
+        "https://littlesnail.com.au/",
+        "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1",
+        "https://c0.wp.com/c/7.1.2/wp-includes/js/mediaelement/wp-mediaelement.min.css"
+      ]
+    },
+    "#e8e8eb": {
+      "count": 3,
+      "sources": [
+        "https://littlesnail.com.au/",
+        "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1"
+      ]
+    },
+    "#e1e1e1": {
+      "count": 3,
+      "sources": [
+        "https://littlesnail.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css?ver=1.2.0"
+      ]
+    },
+    "#cf2e2e": {
+      "count": 2,
+      "sources": [
+        "https://littlesnail.com.au/"
+      ]
+    },
+    "#fcb900": {
+      "count": 2,
+      "sources": [
+        "https://littlesnail.com.au/"
+      ]
+    },
+    "#0693e3": {
+      "count": 2,
+      "sources": [
+        "https://littlesnail.com.au/"
+      ]
+    },
+    "#9b51e0": {
+      "count": 2,
+      "sources": [
+        "https://littlesnail.com.au/"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 2,
+      "sources": [
+        "https://littlesnail.com.au/",
+        "https://c0.wp.com/c/7.1.2/wp-includes/js/mediaelement/wp-mediaelement.min.css"
+      ]
+    },
+    "#e27e26": {
+      "count": 2,
+      "sources": [
+        "https://littlesnail.com.au/"
+      ]
+    },
+    "#ee9e13": {
+      "count": 2,
+      "sources": [
+        "https://littlesnail.com.au/"
+      ]
+    },
+    "#404040": {
+      "count": 2,
+      "sources": [
+        "https://littlesnail.com.au/"
+      ]
+    },
+    "#111111": {
+      "count": 2,
+      "sources": [
+        "https://littlesnail.com.au/",
+        "https://c0.wp.com/c/7.1.2/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css"
+      ]
+    },
+    "#f7763f": {
+      "count": 2,
+      "sources": [
+        "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1"
+      ]
+    },
+    "#e34876": {
+      "count": 2,
+      "sources": [
+        "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1"
+      ]
+    },
+    "#dc327c": {
+      "count": 2,
+      "sources": [
+        "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1"
+      ]
+    },
+    "#c73390": {
+      "count": 2,
+      "sources": [
+        "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1"
+      ]
+    },
+    "#0096cc": {
+      "count": 2,
+      "sources": [
+        "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1"
+      ]
+    },
+    "#004d77": {
+      "count": 2,
+      "sources": [
+        "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1"
+      ]
+    },
+    "#f9f9fa": {
+      "count": 2,
+      "sources": [
+        "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1"
+      ]
+    },
+    "#841919": {
+      "count": 2,
+      "sources": [
+        "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1"
+      ]
+    },
+    "#af2121": {
+      "count": 2,
+      "sources": [
+        "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1"
+      ]
+    },
+    "#8c8f9a": {
+      "count": 2,
+      "sources": [
+        "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1"
+      ]
+    },
+    "#fe544f": {
+      "count": 2,
+      "sources": [
+        "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1"
+      ]
+    },
+    "#abb8c3": {
+      "count": 1,
+      "sources": [
+        "https://littlesnail.com.au/"
+      ]
+    },
+    "#f78da7": {
+      "count": 1,
+      "sources": [
+        "https://littlesnail.com.au/"
+      ]
+    },
+    "#7bdcb5": {
+      "count": 1,
+      "sources": [
+        "https://littlesnail.com.au/"
+      ]
+    },
+    "#00d084": {
+      "count": 1,
+      "sources": [
+        "https://littlesnail.com.au/"
+      ]
+    },
+    "#8ed1fc": {
+      "count": 1,
+      "sources": [
+        "https://littlesnail.com.au/"
+      ]
+    },
+    "#32373c": {
+      "count": 1,
+      "sources": [
+        "https://littlesnail.com.au/"
+      ]
+    },
+    "#d8d8d8": {
+      "count": 1,
+      "sources": [
+        "https://littlesnail.com.au/"
+      ]
+    },
+    "#dd3333": {
+      "count": 1,
+      "sources": [
+        "https://littlesnail.com.au/"
+      ]
+    },
+    "#a2c164": {
+      "count": 1,
+      "sources": [
+        "https://littlesnail.com.au/"
+      ]
+    },
+    "#efeee3": {
+      "count": 1,
+      "sources": [
+        "https://littlesnail.com.au/"
+      ]
+    },
+    "#ff9900": {
+      "count": 1,
+      "sources": [
+        "https://littlesnail.com.au/"
+      ]
+    },
+    "#323232": {
+      "count": 1,
+      "sources": [
+        "https://littlesnail.com.au/"
+      ]
+    },
+    "#7adcb4": {
+      "count": 1,
+      "sources": [
+        "https://littlesnail.com.au/"
+      ]
+    },
+    "#00d082": {
+      "count": 1,
+      "sources": [
+        "https://littlesnail.com.au/"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1",
+      "https://c0.wp.com/c/7.1.2/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css",
+      "https://c0.wp.com/c/7.1.2/wp-includes/js/mediaelement/wp-mediaelement.min.css"
+    ],
+    "FontAwesome' !important": [
+      "https://littlesnail.com.au/"
+    ],
+    "Helvetica": [
+      "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1",
+      "https://c0.wp.com/c/7.1.2/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css",
+      "https://c0.wp.com/c/7.1.2/wp-includes/js/mediaelement/wp-mediaelement.min.css"
+    ],
+    "IBM Plex Sans": [
+      "https://littlesnail.com.au/"
+    ],
+    "Open Sans": [
+      "https://littlesnail.com.au/",
+      "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1"
+    ],
+    "Schoolbell": [
+      "https://littlesnail.com.au/"
+    ],
+    "Source Sans Pro": [
+      "https://littlesnail.com.au/"
+    ],
+    "sans-serif": [
+      "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1"
+    ],
+    "serif": [
+      "https://c0.wp.com/c/7.1.2/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://littlesnail.com.au/",
+      "selector": ":root",
+      "declarations": "--rounded-corners-radius: 16px; --add-to-cart-rounded-corners-radius: 16px; --feedback-duration: 3s"
+    },
+    {
+      "source": "https://littlesnail.com.au/",
+      "selector": ":root",
+      "declarations": "--rounded-corners-radius: 16px; --add-to-cart-rounded-corners-radius: 16px; --feedback-duration: 3s"
+    },
+    {
+      "source": "https://littlesnail.com.au/",
+      "selector": ".wp-block-button",
+      "declarations": "--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;"
+    },
+    {
+      "source": "https://littlesnail.com.au/",
+      "selector": ":root",
+      "declarations": "--wp--style--global--content-size: 900px;--wp--style--global--wide-size: 1190px;"
+    },
+    {
+      "source": "https://littlesnail.com.au/",
+      "selector": ":root",
+      "declarations": "--wp--style--block-gap: var(--wp--preset--spacing--medium);"
+    },
+    {
+      "source": "https://littlesnail.com.au/",
+      "selector": "body",
+      "declarations": "font-family: var(--wp--preset--font-family--primary);--wp--style--root--padding-top: 0;--wp--style--root--padding-right: var(--wp--preset--spacing--medium);--wp--style--root--padding-bottom: 0;--wp--style--root--padding-left: var(--wp--preset--spacing--medium);"
+    },
+    {
+      "source": "https://littlesnail.com.au/",
+      "selector": ":root :where(.wp-element-button, .wp-block-button__link)",
+      "declarations": "background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;"
+    },
+    {
+      "source": "https://littlesnail.com.au/",
+      "selector": ".wc-giftwrap .giftwrap_header_wrapper",
+      "declarations": "font-size: 160%;\n\tfont-weight: 700;\n\tfont-family: 'Schoolbell'"
+    },
+    {
+      "source": "https://littlesnail.com.au/",
+      "selector": ".wc-prl-location-after_tabs .wc-prl-page-product_details",
+      "declarations": "background-color: #fff !important;"
+    },
+    {
+      "source": "https://littlesnail.com.au/",
+      "selector": "product-details-wrapper",
+      "declarations": "background-color: #fff;"
+    },
+    {
+      "source": "https://littlesnail.com.au/",
+      "selector": ".archive-header",
+      "declarations": "background-color: #fff;"
+    },
+    {
+      "source": "https://littlesnail.com.au/",
+      "selector": "body",
+      "declarations": "background-color:#fff;"
+    },
+    {
+      "source": "https://littlesnail.com.au/",
+      "selector": "body:not(.header-4) .site-header, .header-4-container",
+      "declarations": "background-color:#fff;"
+    },
+    {
+      "source": "https://littlesnail.com.au/",
+      "selector": ".header-widget-region",
+      "declarations": "background-color:#a2c164;font-size:14px;"
+    },
+    {
+      "source": "https://littlesnail.com.au/",
+      "selector": ".header-widget-region, .header-widget-region a",
+      "declarations": "color:#fff;"
+    },
+    {
+      "source": "https://littlesnail.com.au/",
+      "selector": "ementor-row .feature p a, .image-feature figcaption span, .wp-element-button.wc-block-cart__submit-button, .wp-element-button.wc-block-components-button.wc-bloc",
+      "declarations": "color:#fff;"
+    },
+    {
+      "source": "https://littlesnail.com.au/",
+      "selector": ".single-product div.product form.cart .button.added::before, #payment .place-order .button:before, .cart-collaterals .checkout-button:before, .widget_shopping_c",
+      "declarations": "background-color:#fff;"
+    },
+    {
+      "source": "https://littlesnail.com.au/",
+      "selector": "elementor-row .feature a, .image-feature figcaption span, .wp-element-button.wc-block-cart__submit-button, .wp-element-button.wc-block-components-button.wc-bloc",
+      "declarations": "background-color:#e27e26;"
+    },
+    {
+      "source": "https://littlesnail.com.au/",
+      "selector": ".widget_shopping_cart a.button.checkout",
+      "declarations": "border-color:#e27e26;"
+    },
+    {
+      "source": "https://littlesnail.com.au/",
+      "selector": ", .woocommerce-cart p.return-to-shop a:hover, .wp-element-button.wc-block-cart__submit-button:hover, .wp-element-button.wc-block-components-button.wc-block-comp",
+      "declarations": "background-color:#663366;"
+    },
+    {
+      "source": "https://littlesnail.com.au/",
+      "selector": ".widget_shopping_cart a.button.checkout:hover",
+      "declarations": "border-color:#663366;"
+    },
+    {
+      "source": "https://littlesnail.com.au/",
+      "selector": ".onsale, .product-label, .wc-block-grid__product-onsale",
+      "declarations": "background-color:#bd1313;color:#fff;"
+    },
+    {
+      "source": "https://littlesnail.com.au/",
+      "selector": ".summary .product-label:before, .product-details-wrapper .product-label:before",
+      "declarations": "border-right-color:#bd1313;"
+    },
+    {
+      "source": "https://littlesnail.com.au/",
+      "selector": ".rtl .product-details-wrapper .product-label:before",
+      "declarations": "border-left-color:#bd1313;"
+    },
+    {
+      "source": "https://littlesnail.com.au/",
+      "selector": "header.woocommerce-products-header, .shoptimizer-category-banner",
+      "declarations": "background-color:#efeee3;"
+    },
+    {
+      "source": "https://littlesnail.com.au/",
+      "selector": ".term-description p, .term-description a, .term-description a:hover, .shoptimizer-category-banner h1, .shoptimizer-category-banner .taxonomy-description p",
+      "declarations": "color:#222;"
+    },
+    {
+      "source": "https://littlesnail.com.au/",
+      "selector": ".single-product .site-content .col-full",
+      "declarations": "background-color:#f8f8f8;"
+    },
+    {
+      "source": "https://littlesnail.com.au/",
+      "selector": ".call-back-feature button",
+      "declarations": "background-color:#dc9814;"
+    },
+    {
+      "source": "https://littlesnail.com.au/",
+      "selector": ".call-back-feature button, .site-content div.call-back-feature button:hover",
+      "declarations": "color:#fff;"
+    },
+    {
+      "source": "https://littlesnail.com.au/",
+      "selector": "footer.site-footer a:not(.button), footer.copyright a",
+      "declarations": "color:#ffffff;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Little Snail Toy Boutique | Soft toys | Baby Toys | Wooden Educational Toys",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littlesnail.com.au/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littlesnail.com.au/",
+        "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1",
+        "https://c0.wp.com/c/7.1.2/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css",
+        "https://c0.wp.com/c/7.1.2/wp-includes/js/mediaelement/wp-mediaelement.min.css",
+        "https://littlesnail.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css?ver=1.2.0"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1",
+        "https://c0.wp.com/c/7.1.2/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css",
+        "https://c0.wp.com/c/7.1.2/wp-includes/js/mediaelement/wp-mediaelement.min.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1",
+        "https://littlesnail.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css?ver=1.2.0"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1",
+        "https://c0.wp.com/c/7.1.2/wp-includes/js/mediaelement/wp-mediaelement.min.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littlesnail.com.au/",
+        "https://littlesnail.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css?ver=1.2.0"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littlesnail.com.au/",
+        "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1",
+        "https://c0.wp.com/c/7.1.2/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css",
+        "https://c0.wp.com/c/7.1.2/wp-includes/js/mediaelement/wp-mediaelement.min.css",
+        "https://littlesnail.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css?ver=1.2.0"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littlesnail.com.au/",
+        "https://littlesnail.com.au/wp-content/plugins/instagram-feed-pro/css/sbi-styles.min.css?ver=6.8.1",
+        "https://c0.wp.com/c/7.1.2/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css",
+        "https://c0.wp.com/c/7.1.2/wp-includes/js/mediaelement/wp-mediaelement.min.css",
+        "https://littlesnail.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css?ver=1.2.0"
+      ]
+    },
+    "colors.accent-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littlesnail.com.au/"
+      ]
+    },
+    "colors.accent-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littlesnail.com.au/"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littlesnail.com.au/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.accent-script": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.shipping-banner": {
+      "status": "inferred"
+    }
+  }
+}

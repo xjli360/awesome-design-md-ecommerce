@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Cowboy
-description: A Belgian e-bike brand that paints its digital world in near-black (#1d1d1d) and warm stone (#f1eee9), with a single green accent (#569d5f) that appears only where the bike’s battery, range, or ride metrics live — never on decorative elements. The brand treats its product photography as the primary design system: full-bleed hero images of the bike in motion against foggy European landscapes, with type set in SuisseIntl at modest weights (400–600) and generous line heights (1.4–1.6) that never compete with the visual. Buttons are pill-shaped (`{rounded.full}`) and use the near-black as background, while secondary actions float as underlined text links in a muted #737373. The checkout and configurator flows lean into a lighter canvas (#f5f5f5) with card-based layouts (`{rounded.md}` at 12px) that feel like selecting a bike in a showroom rather than filling out a form. The color story is deliberately restrained: no bright blues, no red CTAs, no gradient overlays — just the bike’s own aluminum frame and the green pulse of its battery indicator. The footer collapses into a dense, single-column stack on mobile, with legal links in #6b7280 and social icons in the same near-black as the header. The overall effect is less "tech startup" and more "industrial design portfolio" — the bike is the hero, and the interface is its quiet, well-mannered docent.
+name: "Cowboy"
+source_url: "https://cowboy.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A Belgian e-bike brand that paints its digital world in near-black (#1d1d1d) and warm stone (#f1eee9), with a single green accent (#569d5f) that appears only where the bike’s battery, range, or ride metrics live — never on decorative elements. The brand treats its product photography as the primary design system: full-bleed hero images of the bike in motion against foggy European landscapes, with type set in SuisseIntl at modest weights (400–600) and generous line heights (1.4–1.6) that never compete with the visual. Buttons are pill-shaped (`{rounded.full}`) and use the near-black as background, while secondary actions float as underlined text links in a muted #737373. The checkout and configurator flows lean into a lighter canvas (#f5f5f5) with card-based layouts (`{rounded.md}` at 12px) that feel like selecting a bike in a showroom rather than filling out a form. The color story is deliberately restrained: no bright blues, no red CTAs, no gradient overlays — just the bike’s own aluminum frame and the green pulse of its battery indicator. The footer collapses into a dense, single-column stack on mobile, with legal links in #6b7280 and social icons in the same near-black as the header. The overall effect is less "tech startup" and more "industrial design portfolio" — the bike is the hero, and the interface is its quiet, well-mannered docent.
 
 colors:
   primary: "#1d1d1d"
@@ -406,6 +410,8 @@ components:
 - Hero section reduces padding and font size on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for buttons and links were inferred from common patterns; exact hover colors (e.g., button-primary hover) were not extractable from the live site
 - Error styling for form inputs (e.g., invalid email, missing fields) was not observed; a red accent (#c13515) is assumed but not confirmed

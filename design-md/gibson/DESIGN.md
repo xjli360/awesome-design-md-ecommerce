@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Gibson
-description: Every color extracted from Gibson.com collapses into a spectrum of near-black and cool gray — #121212 underlaying the full canvas, #1c1c1c lifting card surfaces by a single stop, and #e7e7e7 carrying all readable type against that dark field. The absence of an accent hue is not an omission; it is the point: on a page built to showcase flame maple tops and carved mahogany bodies, no interface chrome should compete with the instrument. Inter Tight — the condensed, high-density variant of Inter — handles all typesetting, set at −1.5px tracking for large display heads and −0.2px for titles, keeping letterforms taut and vertical in the way a guitar neck is taut. Buttons carry no border radius ({rounded.none}): the CTA is a cold, sharp-cornered rectangle in {colors.primary} (#e7e7e7) with {colors.on-primary} (#121212) text, a photographic inversion that reads as authority on a dark field rather than friendliness on a white one. Navigation labels run in 13px uppercase Inter Tight at 1px letter-spacing — deliberately subordinate in visual weight to the photography beneath them — with a {colors.hairline} border as the only structural line separating chrome from content. Product pages operate on a grid of deep-black cards where every color input comes from the instrument photography itself: sunburst gradients, figured wood grain, chrome hardware. Spacing is pulled wide — {spacing.section} between content modules — giving the layout a gallery pacing that trusts the viewer to linger rather than herding them with dense UI scaffolding. The overall effect is less a product catalog and more a lit display case after closing: instruments visible, environment receding, interface making itself invisible.
+name: "Gibson"
+source_url: "https://www.gibson.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Every color extracted from Gibson.com collapses into a spectrum of near-black and cool gray — #121212 underlaying the full canvas, #1c1c1c lifting card surfaces by a single stop, and #e7e7e7 carrying all readable type against that dark field. The absence of an accent hue is not an omission; it is the point: on a page built to showcase flame maple tops and carved mahogany bodies, no interface chrome should compete with the instrument. Inter Tight — the condensed, high-density variant of Inter — handles all typesetting, set at −1.5px tracking for large display heads and −0.2px for titles, keeping letterforms taut and vertical in the way a guitar neck is taut. Buttons carry no border radius ({rounded.none}): the CTA is a cold, sharp-cornered rectangle in {colors.primary} (#e7e7e7) with {colors.on-primary} (#121212) text, a photographic inversion that reads as authority on a dark field rather than friendliness on a white one. Navigation labels run in 13px uppercase Inter Tight at 1px letter-spacing — deliberately subordinate in visual weight to the photography beneath them — with a {colors.hairline} border as the only structural line separating chrome from content. Product pages operate on a grid of deep-black cards where every color input comes from the instrument photography itself: sunburst gradients, figured wood grain, chrome hardware. Spacing is pulled wide — {spacing.section} between content modules — giving the layout a gallery pacing that trusts the viewer to linger rather than herding them with dense UI scaffolding. The overall effect is less a product catalog and more a lit display case after closing: instruments visible, environment receding, interface making itself invisible.
 
 colors:
   primary: "#e7e7e7"
@@ -299,6 +303,8 @@ components:
 - Footer link columns stack vertically below 744px; newsletter section moves above the link grid on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No brand accent color (gold, amber, red) was extracted — Gibson likely loads its signature warm tone via JavaScript or is protected behind anti-bot measures; all five extracted colors are grayscale (#121212 through #e7e7e7)
 - Meta theme-color was absent, which would normally reveal the primary brand hue without JS execution

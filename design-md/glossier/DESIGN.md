@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Glossier
-description: A brand that lives in the gap between #dedede and #121212 — a pale, almost-warm gray and a near-black that together create a system of extreme restraint. Glossier’s canvas is not white but a soft, foggy gray that reads as a studio backdrop, making every product the hero. The near-black ink (#121212) appears sparingly: in body copy, in the single bold headline on a product page, in the thin stroke of a line drawing. There are no gradients, no drop shadows, no decorative flourishes — the visual language is flat, clean, and deliberately unpolished in a way that suggests a friend’s bathroom shelf rather than a department store counter. Buttons are pill-shaped (`{rounded.full}`), product cards are softly rounded (`{rounded.md}`), and the entire experience breathes through generous whitespace (`{spacing.section}`). The brand’s voice is direct, personal, and slightly irreverent — copy often runs in sentence case with a lowercase brand name, and the typography favors a single, clean sans-serif that never competes with the product photography. The result is a digital storefront that feels more like a personal recommendation than a retail transaction.
+name: "Glossier"
+source_url: "https://www.glossier.com"
+captured_at: "2026-09-28T04:09:52.674350+00:00"
+evidence_status: "historical_partial_css_evidence"
+description: |-
+  A brand that lives in the gap between #dedede and #121212 — a pale, almost-warm gray and a near-black that together create a system of extreme restraint. Glossier’s canvas is not white but a soft, foggy gray that reads as a studio backdrop, making every product the hero. The near-black ink (#121212) appears sparingly: in body copy, in the single bold headline on a product page, in the thin stroke of a line drawing. There are no gradients, no drop shadows, no decorative flourishes — the visual language is flat, clean, and deliberately unpolished in a way that suggests a friend’s bathroom shelf rather than a department store counter. Buttons are pill-shaped (`{rounded.full}`), product cards are softly rounded (`{rounded.md}`), and the entire experience breathes through generous whitespace (`{spacing.section}`). The brand’s voice is direct, personal, and slightly irreverent — copy often runs in sentence case with a lowercase brand name, and the typography favors a single, clean sans-serif that never competes with the product photography. The result is a digital storefront that feels more like a personal recommendation than a retail transaction.
 
 colors:
   primary: "#dedede"
@@ -357,6 +361,8 @@ components:
 - Product description sections collapse from visible to accordion on mobile
 
 ## Known Gaps
+
+- **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 
 - Font family could not be extracted from the live site; "GT America" is used as a best-guess based on the brand's known typography. The actual font may differ.
 - Hover and active states for most components could not be verified from the extracted data; they are inferred from common design patterns.

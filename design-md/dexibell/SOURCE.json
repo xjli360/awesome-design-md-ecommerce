@@ -1,0 +1,855 @@
+{
+  "source_url": "https://www.dexibell.com",
+  "final_url": "https://www.dexibell.com/",
+  "captured_at": "2026-09-28T09:34:11.726956+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.dexibell.com",
+      "final_url": "https://www.dexibell.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "4e8dddcde4281ff10568f35bc29c99c1d8f431943e79ffe62c4d2ae9b9a9e630",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css",
+      "final_url": "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "b0efe42850873cbe2b8581c3c870b67701a568806db627ce7d0d196862c085ea",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.dexibell.com/content/plugins/page-loading-effects/assets/css/style.css?ver=1.0.0",
+      "final_url": "https://www.dexibell.com/content/plugins/page-loading-effects/assets/css/style.css?ver=1.0.0",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7c1c3304a7f3a0be6df095f8c47a9c39d868c0ee2981c8100370d74892e6e860",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.dexibell.com/content/plugins/wp-store-locator/css/styles.min.css?ver=2.3.23",
+      "final_url": "https://www.dexibell.com/content/plugins/wp-store-locator/css/styles.min.css?ver=2.3.23",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "55a869bd24777d056167221d5b330dd4c2a6991dedd85249d3ab914a12f52776",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.dexibell.com/content/plugins/complianz-gdpr-premium/assets/css/cookieblocker.min.css?ver=1790278619",
+      "final_url": "https://www.dexibell.com/content/plugins/complianz-gdpr-premium/assets/css/cookieblocker.min.css?ver=1790278619",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "afe6634c4de97ea6dd0824fa7ad34f551b6faede0ca95db78516165ab1610f47",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.dexibell.com/content/themes/white-timber/style.css?v=1.22&ver=7.1.2",
+      "final_url": "https://www.dexibell.com/content/themes/white-timber/style.css?v=1.22&ver=7.1.2",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "fbb0e68f316788b98947569f29da41ec74b61e5eb7ad63a404edcb708dab7b5b",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 100,
+      "sources": [
+        "https://www.dexibell.com/",
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css",
+        "https://www.dexibell.com/content/plugins/page-loading-effects/assets/css/style.css?ver=1.0.0",
+        "https://www.dexibell.com/content/plugins/wp-store-locator/css/styles.min.css?ver=2.3.23",
+        "https://www.dexibell.com/content/plugins/complianz-gdpr-premium/assets/css/cookieblocker.min.css?ver=1790278619"
+      ]
+    },
+    "#666666": {
+      "count": 60,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "#999999": {
+      "count": 50,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 43,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "#333333": {
+      "count": 30,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css",
+        "https://www.dexibell.com/content/plugins/page-loading-effects/assets/css/style.css?ver=1.0.0"
+      ]
+    },
+    "#1e87f0": {
+      "count": 24,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 18,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 11,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css",
+        "https://www.dexibell.com/content/plugins/wp-store-locator/css/styles.min.css?ver=2.3.23"
+      ]
+    },
+    "#000000": {
+      "count": 10,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css",
+        "https://www.dexibell.com/content/plugins/wp-store-locator/css/styles.min.css?ver=2.3.23"
+      ]
+    },
+    "#f0506e": {
+      "count": 9,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "#222222": {
+      "count": 9,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 9,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css",
+        "https://www.dexibell.com/content/plugins/wp-store-locator/css/styles.min.css?ver=2.3.23"
+      ]
+    },
+    "#32d296": {
+      "count": 6,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 5,
+      "sources": [
+        "https://www.dexibell.com/content/plugins/wp-store-locator/css/styles.min.css?ver=2.3.23"
+      ]
+    },
+    "#eeeeee": {
+      "count": 4,
+      "sources": [
+        "https://www.dexibell.com/",
+        "https://www.dexibell.com/content/plugins/wp-store-locator/css/styles.min.css?ver=2.3.23"
+      ]
+    },
+    "#ffffdd": {
+      "count": 4,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "#ebebeb": {
+      "count": 4,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "#d2d2d2": {
+      "count": 4,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css",
+        "https://www.dexibell.com/content/plugins/wp-store-locator/css/styles.min.css?ver=2.3.23"
+      ]
+    },
+    "#faa05a": {
+      "count": 4,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "#444444": {
+      "count": 3,
+      "sources": [
+        "https://www.dexibell.com/",
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 2,
+      "sources": [
+        "https://www.dexibell.com/"
+      ]
+    },
+    "#313131": {
+      "count": 2,
+      "sources": [
+        "https://www.dexibell.com/"
+      ]
+    },
+    "#32373c": {
+      "count": 2,
+      "sources": [
+        "https://www.dexibell.com/"
+      ]
+    },
+    "#0f6ecd": {
+      "count": 2,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "#0e6dcd": {
+      "count": 2,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "#7a00df": {
+      "count": 1,
+      "sources": [
+        "https://www.dexibell.com/"
+      ]
+    },
+    "#007cba": {
+      "count": 1,
+      "sources": [
+        "https://www.dexibell.com/"
+      ]
+    },
+    "#006ba1": {
+      "count": 1,
+      "sources": [
+        "https://www.dexibell.com/"
+      ]
+    },
+    "#005a87": {
+      "count": 1,
+      "sources": [
+        "https://www.dexibell.com/"
+      ]
+    },
+    "#00d084": {
+      "count": 1,
+      "sources": [
+        "https://www.dexibell.com/"
+      ]
+    },
+    "#0693e3": {
+      "count": 1,
+      "sources": [
+        "https://www.dexibell.com/"
+      ]
+    },
+    "#34e2e4": {
+      "count": 1,
+      "sources": [
+        "https://www.dexibell.com/"
+      ]
+    },
+    "#4721fb": {
+      "count": 1,
+      "sources": [
+        "https://www.dexibell.com/"
+      ]
+    },
+    "#ab1dfe": {
+      "count": 1,
+      "sources": [
+        "https://www.dexibell.com/"
+      ]
+    },
+    "#faaca8": {
+      "count": 1,
+      "sources": [
+        "https://www.dexibell.com/"
+      ]
+    },
+    "#dad0ec": {
+      "count": 1,
+      "sources": [
+        "https://www.dexibell.com/"
+      ]
+    },
+    "#fafae1": {
+      "count": 1,
+      "sources": [
+        "https://www.dexibell.com/"
+      ]
+    },
+    "#67a671": {
+      "count": 1,
+      "sources": [
+        "https://www.dexibell.com/"
+      ]
+    },
+    "#fdd79a": {
+      "count": 1,
+      "sources": [
+        "https://www.dexibell.com/"
+      ]
+    },
+    "#004a59": {
+      "count": 1,
+      "sources": [
+        "https://www.dexibell.com/"
+      ]
+    },
+    "#330968": {
+      "count": 1,
+      "sources": [
+        "https://www.dexibell.com/"
+      ]
+    },
+    "#31cdcf": {
+      "count": 1,
+      "sources": [
+        "https://www.dexibell.com/"
+      ]
+    },
+    "#020381": {
+      "count": 1,
+      "sources": [
+        "https://www.dexibell.com/"
+      ]
+    },
+    "#2874fc": {
+      "count": 1,
+      "sources": [
+        "https://www.dexibell.com/"
+      ]
+    },
+    "#004360": {
+      "count": 1,
+      "sources": [
+        "https://www.dexibell.com/"
+      ]
+    },
+    "#3399ff": {
+      "count": 1,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "#595959": {
+      "count": 1,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "#dfdfdf": {
+      "count": 1,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "#b2b2b2": {
+      "count": 1,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "#0f7ae5": {
+      "count": 1,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "#151515": {
+      "count": 1,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "#080808": {
+      "count": 1,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "#ee395b": {
+      "count": 1,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "#ec2147": {
+      "count": 1,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "#d8eafc": {
+      "count": 1,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "#edfbf6": {
+      "count": 1,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "#fff6ee": {
+      "count": 1,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "#fef4f6": {
+      "count": 1,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "#737373": {
+      "count": 1,
+      "sources": [
+        "https://www.dexibell.com/content/plugins/wp-store-locator/css/styles.min.css?ver=2.3.23"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+    ],
+    "Apple Color Emoji": [
+      "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+    ],
+    "Arial": [
+      "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+    ],
+    "BlinkMacSystemFont": [
+      "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+    ],
+    "Consolas": [
+      "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+    ],
+    "Helvetica Neue": [
+      "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+    ],
+    "Noto Color Emoji": [
+      "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+    ],
+    "Noto Sans": [
+      "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+    ],
+    "Roboto": [
+      "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+    ],
+    "Segoe UI": [
+      "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+    ],
+    "Segoe UI Emoji": [
+      "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+    ],
+    "Segoe UI Symbol": [
+      "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+    ],
+    "monaco": [
+      "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+    ],
+    "monospace": [
+      "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+    ],
+    "sans-serif": [
+      "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+    ],
+    "wpsl-fontello": [
+      "https://www.dexibell.com/content/plugins/wp-store-locator/css/styles.min.css?ver=2.3.23"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.dexibell.com/",
+      "selector": ":root",
+      "declarations": "--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px"
+    },
+    {
+      "source": "https://www.dexibell.com/",
+      "selector": ":root",
+      "declarations": "--wp-admin-border-width-focus:1.5px"
+    },
+    {
+      "source": "https://www.dexibell.com/",
+      "selector": ":root .has-very-light-gray-background-color",
+      "declarations": "background-color:#eee"
+    },
+    {
+      "source": "https://www.dexibell.com/",
+      "selector": ":root .has-very-dark-gray-background-color",
+      "declarations": "background-color:#313131"
+    },
+    {
+      "source": "https://www.dexibell.com/",
+      "selector": ":root .has-very-light-gray-color",
+      "declarations": "color:#eee"
+    },
+    {
+      "source": "https://www.dexibell.com/",
+      "selector": ":root .has-very-dark-gray-color",
+      "declarations": "color:#313131"
+    },
+    {
+      "source": "https://www.dexibell.com/",
+      "selector": ":root",
+      "declarations": "--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px"
+    },
+    {
+      "source": "https://www.dexibell.com/",
+      "selector": ".wp-block-button__link",
+      "declarations": "color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em"
+    },
+    {
+      "source": "https://www.dexibell.com/",
+      "selector": ".wp-block-file__button",
+      "declarations": "background:#32373c;color:#fff;text-decoration:none"
+    },
+    {
+      "source": "https://www.dexibell.com/",
+      "selector": ":root",
+      "declarations": "--wp-internal-comment: \"Placeholder for wp_hoist_late_printed_styles() to replace with the block styles printed at wp_footer.\""
+    },
+    {
+      "source": "https://www.dexibell.com/",
+      "selector": ":root",
+      "declarations": "--wp-internal-comment: \"Placeholder for wp_hoist_late_printed_styles() to replace with the global-styles printed at wp_footer.\""
+    },
+    {
+      "source": "https://www.dexibell.com/",
+      "selector": ".nf-fu-button-cancel",
+      "declarations": "background: transparent!important;\n\tcolor: black!important;"
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css",
+      "selector": ".uk-h1,.uk-h2,.uk-h3,.uk-h4,.uk-h5,.uk-h6,.uk-heading-2xlarge,.uk-heading-large,.uk-heading-medium,.uk-heading-small,.uk-heading-xlarge,h1,h2,h3,h4,h5,h6",
+      "declarations": "margin:0 0 20px 0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";font-weight:400;color:#333;text-transform:none"
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css",
+      "selector": ":root",
+      "declarations": "--uk-breakpoint-s:640px;--uk-breakpoint-m:960px;--uk-breakpoint-l:1200px;--uk-breakpoint-xl:1600px"
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css",
+      "selector": ".uk-icon-button",
+      "declarations": "box-sizing:border-box;width:36px;height:36px;border-radius:500px;background:#f8f8f8;color:#999;vertical-align:middle;display:inline-flex;justify-content:center;align-items:center;transition:.1s ease-in-out;transition-property:color,background-color"
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css",
+      "selector": ".uk-icon-button:focus,.uk-icon-button:hover",
+      "declarations": "background-color:#ebebeb;color:#666;outline:0"
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css",
+      "selector": ".uk-active>.uk-icon-button,.uk-icon-button:active",
+      "declarations": "background-color:#dfdfdf;color:#666"
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css",
+      "selector": ".uk-button",
+      "declarations": "margin:0;border:none;overflow:visible;font:inherit;color:inherit;text-transform:none;display:inline-block;box-sizing:border-box;padding:0 30px;vertical-align:middle;font-size:.875rem;line-height:38px;text-align:center;text-decoration:none;text-transform:uppercase;transition:.1s ease-in-out;transition-property:color,background-color,border-color"
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css",
+      "selector": ".uk-button-default",
+      "declarations": "background-color:transparent;color:#333;border:1px solid #e5e5e5"
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css",
+      "selector": ".uk-button-default:focus,.uk-button-default:hover",
+      "declarations": "background-color:transparent;color:#333;border-color:#b2b2b2"
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css",
+      "selector": ".uk-button-default.uk-active,.uk-button-default:active",
+      "declarations": "background-color:transparent;color:#333;border-color:#999"
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css",
+      "selector": ".uk-button-primary",
+      "declarations": "background-color:#1e87f0;color:#fff;border:1px solid transparent"
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css",
+      "selector": ".uk-button-primary:focus,.uk-button-primary:hover",
+      "declarations": "background-color:#0f7ae5;color:#fff"
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css",
+      "selector": ".uk-button-primary.uk-active,.uk-button-primary:active",
+      "declarations": "background-color:#0e6dcd;color:#fff"
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css",
+      "selector": ".uk-button-secondary",
+      "declarations": "background-color:#222;color:#fff;border:1px solid transparent"
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css",
+      "selector": ".uk-button-secondary:focus,.uk-button-secondary:hover",
+      "declarations": "background-color:#151515;color:#fff"
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css",
+      "selector": ".uk-button-secondary.uk-active,.uk-button-secondary:active",
+      "declarations": "background-color:#080808;color:#fff"
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css",
+      "selector": ".uk-button-danger",
+      "declarations": "background-color:#f0506e;color:#fff;border:1px solid transparent"
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css",
+      "selector": ".uk-button-danger:focus,.uk-button-danger:hover",
+      "declarations": "background-color:#ee395b;color:#fff"
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css",
+      "selector": ".uk-button-danger.uk-active,.uk-button-danger:active",
+      "declarations": "background-color:#ec2147;color:#fff"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Dexibell",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dexibell.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css",
+        "https://www.dexibell.com/content/plugins/page-loading-effects/assets/css/style.css?ver=1.0.0"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dexibell.com/",
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css",
+        "https://www.dexibell.com/content/plugins/page-loading-effects/assets/css/style.css?ver=1.0.0",
+        "https://www.dexibell.com/content/plugins/wp-store-locator/css/styles.min.css?ver=2.3.23",
+        "https://www.dexibell.com/content/plugins/complianz-gdpr-premium/assets/css/cookieblocker.min.css?ver=1790278619"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dexibell.com/content/plugins/wp-store-locator/css/styles.min.css?ver=2.3.23"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dexibell.com/",
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css",
+        "https://www.dexibell.com/content/plugins/page-loading-effects/assets/css/style.css?ver=1.0.0",
+        "https://www.dexibell.com/content/plugins/wp-store-locator/css/styles.min.css?ver=2.3.23",
+        "https://www.dexibell.com/content/plugins/complianz-gdpr-premium/assets/css/cookieblocker.min.css?ver=1790278619"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css"
+      ]
+    },
+    "colors.border": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/uikit/3.1.5/css/uikit.min.css",
+        "https://www.dexibell.com/content/plugins/wp-store-locator/css/styles.min.css?ver=2.3.23"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.product-spec-table": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    }
+  }
+}

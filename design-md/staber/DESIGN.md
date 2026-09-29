@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Staber
-description: |
+name: "Staber"
+source_url: "https://www.staber.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Horizontal-axis drum geometry — the engineering detail Staber built an entire company around — echoes through the digital presence as circular motifs, wide product photography shot at drum-level, and a visual language that favors function over ornamentation. The palette anchors on a deep industrial navy (#1b3a5c) pulled from decades of catalog covers and trade-show signage, supported by a warm safety orange (#e85c2a) reserved for CTAs and spec callouts — the same high-visibility tone found on factory floor markings. Typography leans on system-level sans-serifs at sturdy weights; there is no custom webfont indulgence here, just -apple-system and Arial doing honest work at readable sizes. Cards holding product models use sharp `{rounded.xs}` corners and `{colors.hairline}` borders that recall technical diagrams more than lifestyle catalogs. Spacing is generous vertically (`{spacing.section}` between feature blocks) but tight horizontally within spec tables, mimicking the dense-information density of an engineering datasheet. The canvas stays pure white (`{colors.canvas}`) with occasional `{colors.surface-soft}` bands breaking long scroll depths on product pages. Navigation is minimal — four or five top-level links at most — reflecting a catalog small enough that every SKU has a name the owner knows. The overall impression is a manufacturer's website that refuses decorative trends: no parallax, no animated counters, no lifestyle video heroes. Instead, cutaway diagrams, numbered spec lists, and the quiet confidence of a brand that has shipped the same proven design from Groveport, Ohio for three decades without chasing aesthetic fashion.
 
 colors:
@@ -24,7 +27,7 @@ colors:
   on-primary: "#ffffff"
   on-accent: "#ffffff"
   success: "#2e7d32"
-  warning: "#e8a c2a"
+  warning: "#e8ac2a"
   spec-highlight: "#fff8e1"
 
 typography:
@@ -320,6 +323,8 @@ components:
 - Footer columns: 4-column → 2-column → single stack
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **No hex colors extracted**: The site returned zero color tokens via static extraction. Colors above are inferred from publicly available Staber marketing materials and general industrial-brand conventions — they have NOT been validated against the live CSS and may be inaccurate.
 - **No font stacks extracted**: Zero font-family declarations were captured. The site likely loads styles dynamically or uses server-rendered pages that resist static scraping. System sans-serif is assumed but the actual webfont (if any) is unknown.

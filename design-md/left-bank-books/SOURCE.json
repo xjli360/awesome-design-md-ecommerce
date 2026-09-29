@@ -1,0 +1,374 @@
+{
+  "source_url": "https://www.leftbankbooks.com",
+  "final_url": "https://www.leftbankbooks.com/",
+  "captured_at": "2026-09-28T09:34:27.067819+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.leftbankbooks.com",
+      "final_url": "https://www.leftbankbooks.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "718546966ddd21452d913dbabc3fbedc08260e8c563cea7d2c135d580103da3e",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.leftbankbooks.com/css/normalize.css",
+      "final_url": "https://www.leftbankbooks.com/css/normalize.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f4d7e8250f8f124f8b7d087e5e260766a34b079fddc43e7b20d8c18ca1e92e51",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.leftbankbooks.com/css/styles.css?v=8",
+      "final_url": "https://www.leftbankbooks.com/css/styles.css?v=8",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b358417694f707a16b6a3da22a9c4602d051dbe7c14bc60b9dae2f5146cb07ae",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 30,
+      "sources": [
+        "https://www.leftbankbooks.com/css/normalize.css",
+        "https://www.leftbankbooks.com/css/styles.css?v=8"
+      ]
+    },
+    "#ffffff": {
+      "count": 30,
+      "sources": [
+        "https://www.leftbankbooks.com/css/styles.css?v=8"
+      ]
+    },
+    "#3f0000": {
+      "count": 22,
+      "sources": [
+        "https://www.leftbankbooks.com/css/styles.css?v=8"
+      ]
+    },
+    "#aa0200": {
+      "count": 4,
+      "sources": [
+        "https://www.leftbankbooks.com/css/styles.css?v=8"
+      ]
+    },
+    "#cc33cc": {
+      "count": 2,
+      "sources": [
+        "https://www.leftbankbooks.com/css/styles.css?v=8"
+      ]
+    },
+    "#ffff00": {
+      "count": 1,
+      "sources": [
+        "https://www.leftbankbooks.com/css/normalize.css"
+      ]
+    },
+    "#c0c0c0": {
+      "count": 1,
+      "sources": [
+        "https://www.leftbankbooks.com/css/normalize.css"
+      ]
+    },
+    "#9999ee": {
+      "count": 1,
+      "sources": [
+        "https://www.leftbankbooks.com/css/styles.css?v=8"
+      ]
+    },
+    "#cc99cc": {
+      "count": 1,
+      "sources": [
+        "https://www.leftbankbooks.com/css/styles.css?v=8"
+      ]
+    },
+    "#880000": {
+      "count": 1,
+      "sources": [
+        "https://www.leftbankbooks.com/css/styles.css?v=8"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
+      "sources": [
+        "https://www.leftbankbooks.com/css/styles.css?v=8"
+      ]
+    }
+  },
+  "font_families": {
+    "Avenir Next": [
+      "https://www.leftbankbooks.com/css/styles.css?v=8"
+    ],
+    "monospace": [
+      "https://www.leftbankbooks.com/css/normalize.css"
+    ],
+    "sans-serif": [
+      "https://www.leftbankbooks.com/css/normalize.css",
+      "https://www.leftbankbooks.com/css/styles.css?v=8"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.leftbankbooks.com/css/normalize.css",
+      "selector": "button,\ninput,\noptgroup,\nselect,\ntextarea",
+      "declarations": "color: inherit; \n  font: inherit; \n  margin: 0;"
+    },
+    {
+      "source": "https://www.leftbankbooks.com/css/styles.css?v=8",
+      "selector": "body",
+      "declarations": "color: #fff;\n    font-family: \"Avenir Next\", sans-serif;"
+    },
+    {
+      "source": "https://www.leftbankbooks.com/css/styles.css?v=8",
+      "selector": ".btnStore form input[type=submit], .browse form button, .browse form input",
+      "declarations": "color:                 #fff;\n    background-color:      #000;\n    border:                none;\n    margin-top:            1rem;\n    padding:               .5rem;\n    text-transform:        uppercase;\n    font-weight:           bold;\n    -webkit-border-radius: 1rem;\n    -moz-border-radius:    1rem;\n    border-radius:         1rem;"
+    },
+    {
+      "source": "https://www.leftbankbooks.com/css/styles.css?v=8",
+      "selector": ".btnStore form input[type=submit]:hover, .browse form button:hover, .browse form input:hover",
+      "declarations": "color:            #000;\n    background-color: #fff;"
+    },
+    {
+      "source": "https://www.leftbankbooks.com/css/styles.css?v=8",
+      "selector": ".categoriesMobile button",
+      "declarations": "display:               block;\n        margin:                1rem auto;\n        width:                 100%;\n        text-align:            center;\n        text-transform:        uppercase;\n        letter-spacing:        .2rem;\n        font-weight:           bold;\n        font-size:             .8rem;\n        background-color:      #fff;\n        color:                 #000;\n        padding:               .5rem;\n        -webkit-border-radius: 1rem;\n        -moz-border-radius:    1rem;\n        border-radius:         1rem;"
+    },
+    {
+      "source": "https://www.leftbankbooks.com/css/styles.css?v=8",
+      "selector": ".btnStore form input[type=submit]",
+      "declarations": "color:            #000;\n        background-color: #fff;"
+    },
+    {
+      "source": "https://www.leftbankbooks.com/css/styles.css?v=8",
+      "selector": ".categoriesMobile button",
+      "declarations": "display:               block;\n        margin:                1rem auto;\n        width:                 100%;\n        text-align:            center;\n        text-transform:        uppercase;\n        letter-spacing:        .2rem;\n        font-weight:           bold;\n        font-size:             .8rem;\n        background-color:      #fff;\n        color:                 #000;\n        padding:               .5rem;\n        -webkit-border-radius: 1rem;\n        -moz-border-radius:    1rem;\n        border-radius:         1rem;"
+    },
+    {
+      "source": "https://www.leftbankbooks.com/css/styles.css?v=8",
+      "selector": ".btnStore form input[type=submit]",
+      "declarations": "color:            #000;\n        background-color: #fff;"
+    },
+    {
+      "source": "https://www.leftbankbooks.com/css/styles.css?v=8",
+      "selector": ".categoriesMobile button",
+      "declarations": "display:               block;\n        margin:                1rem auto;\n        width:                 100%;\n        text-align:            center;\n        text-transform:        uppercase;\n        letter-spacing:        .2rem;\n        font-weight:           bold;\n        font-size:             .8rem;\n        background-color:      #fff;\n        color:                 #000;\n        padding:               .5rem;\n        -webkit-border-radius: 1rem;\n        -moz-border-radius:    1rem;\n        border-radius:         1rem;"
+    },
+    {
+      "source": "https://www.leftbankbooks.com/css/styles.css?v=8",
+      "selector": ".btnStore form input[type=submit]",
+      "declarations": "color: #000;\n        background-color: #fff;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Left Bank Books - Pike Place Market, Seattle",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.leftbankbooks.com/css/styles.css?v=8"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.leftbankbooks.com/css/normalize.css",
+        "https://www.leftbankbooks.com/css/styles.css?v=8"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.leftbankbooks.com/css/normalize.css",
+        "https://www.leftbankbooks.com/css/styles.css?v=8"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.leftbankbooks.com/css/styles.css?v=8"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.leftbankbooks.com/css/styles.css?v=8"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.leftbankbooks.com/css/normalize.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.leftbankbooks.com/css/styles.css?v=8"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.leftbankbooks.com/css/styles.css?v=8"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.leftbankbooks.com/css/styles.css?v=8"
+      ]
+    },
+    "colors.accent-purple": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.leftbankbooks.com/css/styles.css?v=8"
+      ]
+    },
+    "colors.accent-yellow": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.leftbankbooks.com/css/normalize.css"
+      ]
+    },
+    "colors.accent-lavender": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.leftbankbooks.com/css/styles.css?v=8"
+      ]
+    },
+    "colors.accent-mauve": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.leftbankbooks.com/css/styles.css?v=8"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.category-list-button": {
+      "status": "inferred"
+    }
+  }
+}

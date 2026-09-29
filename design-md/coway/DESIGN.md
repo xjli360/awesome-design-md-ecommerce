@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Coway
-description: |
+name: "Coway"
+source_url: "https://cowaymega.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The palette stacks from petroleum-navy (#17384c) at the structural base through a graduated column of sky tones — #377ca4, #007eb0, #6bc4e8, #d8e7ee — before dissolving into near-transparent ice (#eaf7fc, #f0f5f7) at the canvas layer; it is a chromatic argument that the product literally cleans what it contacts. Neutral slates (#303030, #5e5e5e, #919191) carry all editorial text, keeping the blue-spectrum range free to carry atmosphere rather than utility. Montserrat governs structure — display headlines run 600–700 weight from 28px to 48px — while DM Sans occupies the humane register: body copy, navigation labels, and specification tables where geometric softness matters more than authority. The pairing positions Coway exactly between a medical-grade certification brand and a considered home-goods label.
 
   Cards rest on a near-white canvas (#fafafa) with ice-tinted section washes (#f0f5f7, #eaf7fc) producing depth through value alone — no box shadows compete with product photography. The hero format favors a single purifier centered on a pale mist gradient with a CADR or PM2.5 figure set at 56px Montserrat 700 as the sole typographic drama; the statistic becomes the proof claim rather than a decorative element. Rounded corners sit at {rounded.md} (12px) for cards and inputs, {rounded.sm} (8px) for buttons, and {rounded.full} for pill-form certification badges and AQI indicator dots — firmly in calibrated-tech territory, neither sharp-cornered nor aggressively pillowed.
@@ -358,6 +361,8 @@ components:
 - Promo strip persists at all breakpoints; truncates to single line with ellipsis on Mobile before close icon
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - `surface-card` (#ffffff) not directly in the extraction; inferred as standard Shopify product card background — actual site may use #fafafa or #f1f1f1 instead
 - No custom icon or glyph library identified from static extraction; SVG icon system likely loaded via JS bundle

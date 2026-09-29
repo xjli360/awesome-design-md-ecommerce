@@ -1,0 +1,800 @@
+{
+  "source_url": "https://espaciohandmade.com",
+  "final_url": "https://www.espaciohandmade.com/",
+  "captured_at": "2026-09-29T03:56:47.900039+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://espaciohandmade.com",
+      "final_url": "https://www.espaciohandmade.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "4c7f9b9940310b98eba6c30b33435959d49830f94dd870b2bed54ce94c27f5e2",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+      "final_url": "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2321e1e8f2ad85933733dacae98af1b6fa1c88fc24ea282d8e557bf1b5b3b525",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.espaciohandmade.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.espaciohandmade.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "be10bc4b16346e787891f1da5de658505019fcd30172651891a4bf550c948e36",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 46,
+      "sources": [
+        "https://www.espaciohandmade.com/",
+        "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+        "https://www.espaciohandmade.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 32,
+      "sources": [
+        "https://www.espaciohandmade.com/",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#000000": {
+      "count": 28,
+      "sources": [
+        "https://www.espaciohandmade.com/",
+        "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#108474": {
+      "count": 12,
+      "sources": [
+        "https://www.espaciohandmade.com/",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#333333": {
+      "count": 11,
+      "sources": [
+        "https://www.espaciohandmade.com/",
+        "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 11,
+      "sources": [
+        "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 10,
+      "sources": [
+        "https://www.espaciohandmade.com/",
+        "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#555555": {
+      "count": 6,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#666666": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#223c22": {
+      "count": 3,
+      "sources": [
+        "https://www.espaciohandmade.com/"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 3,
+      "sources": [
+        "https://www.espaciohandmade.com/",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#f1a802": {
+      "count": 2,
+      "sources": [
+        "https://www.espaciohandmade.com/"
+      ]
+    },
+    "#954818": {
+      "count": 2,
+      "sources": [
+        "https://www.espaciohandmade.com/"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 2,
+      "sources": [
+        "https://www.espaciohandmade.com/"
+      ]
+    },
+    "#1199ff": {
+      "count": 2,
+      "sources": [
+        "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661"
+      ]
+    },
+    "#3f3f3f": {
+      "count": 2,
+      "sources": [
+        "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.espaciohandmade.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.espaciohandmade.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#fbcd0a": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#a89cc8": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#c1e6e6": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#477d47": {
+      "count": 1,
+      "sources": [
+        "https://www.espaciohandmade.com/"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 1,
+      "sources": [
+        "https://www.espaciohandmade.com/"
+      ]
+    },
+    "#71844e": {
+      "count": 1,
+      "sources": [
+        "https://www.espaciohandmade.com/"
+      ]
+    },
+    "#593e01": {
+      "count": 1,
+      "sources": [
+        "https://www.espaciohandmade.com/"
+      ]
+    },
+    "#d02e2e": {
+      "count": 1,
+      "sources": [
+        "https://www.espaciohandmade.com/"
+      ]
+    },
+    "#56ad6a": {
+      "count": 1,
+      "sources": [
+        "https://www.espaciohandmade.com/"
+      ]
+    },
+    "#ecfef0": {
+      "count": 1,
+      "sources": [
+        "https://www.espaciohandmade.com/"
+      ]
+    },
+    "#7b7b7b": {
+      "count": 1,
+      "sources": [
+        "https://www.espaciohandmade.com/"
+      ]
+    },
+    "#fafafa": {
+      "count": 1,
+      "sources": [
+        "https://www.espaciohandmade.com/"
+      ]
+    },
+    "#faf7f5": {
+      "count": 1,
+      "sources": [
+        "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661"
+      ]
+    },
+    "#51ab62": {
+      "count": 1,
+      "sources": [
+        "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 1,
+      "sources": [
+        "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.espaciohandmade.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.espaciohandmade.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.espaciohandmade.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#888888": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#ffff00": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#3b5998": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#1da1f2": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#dd4b39": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#e60023": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#0073b1": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#fffb00": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#eaeaea": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#e9eaeb": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#a36710": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#d2920f": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#488282": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#4c8eda": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "Baskerville": [
+      "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "Consolas": [
+      "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661"
+    ],
+    "Helvetica": [
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons": [
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons\" !important": [
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons' !important": [
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "JudgemeStar": [
+      "https://www.espaciohandmade.com/"
+    ],
+    "JudgemeStar' !important": [
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "Montserrat": [
+      "https://www.espaciohandmade.com/"
+    ],
+    "Nunito Sans": [
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "Questrial": [
+      "https://www.espaciohandmade.com/"
+    ],
+    "monospace": [
+      "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "sans-serif": [
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.espaciohandmade.com/",
+      "selector": ":root",
+      "declarations": "--shopify-chat-bg-color: #FFFFFF;\n    --shopify-chat-text-color: #000000;\n    --shopify-chat-accent-bg-color: #000000;\n    --shopify-chat-accent-text-color: #FFFFFF;\n    --shopify-chat-activator-offset: 20px;\n\n    \n\n    --shopify-chat-activator-font-size: 16px;\n    --shopify-chat-border-radius: 16px;"
+    },
+    {
+      "source": "https://www.espaciohandmade.com/",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #108474;--jdgm-secondary-color: rgba(16,132,116,0.1);--jdgm-star-color: #108474;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #108474;--jdgm-paginate-color: #108474;--jdgm-border-radius: 0;--jdgm-reviewer-name-color: #108474"
+    },
+    {
+      "source": "https://www.espaciohandmade.com/",
+      "selector": "padding-top: 106.6%\nbackground-image: url(//www.espaciohandmade.com/cdn/shop/files/Espacio-Product-Range-sm_2048x.jpg?v=1712682993);\n#ListCollections--template-",
+      "declarations": "--overlay-opacity: 0.2;"
+    },
+    {
+      "source": "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+      "selector": "@charset \"UTF-8\";:root",
+      "declarations": "--bg:var(---color-bg);--bg-alpha-25:var(---color-bg-alpha-25);--bg-alpha-35:var(---color-bg-alpha-35);--bg-alpha-60:var(---color-bg-alpha-60);--bg-darken:var(---color-bg-darken);--bg-lighten-darken:var(---color-bg-lighten-darken);--bg-lighten-darken-contrast:var(---color-bg-lighten-darken-contrast);--bg-overlay:var(---color-bg-overlay);--text:var(---color-text);--text-darken:var(---color-text-darken);--text-lighten:var(---color-text-lighten);--text-alpha-5:var(---color-text-alpha-5);--text-alpha-8:var(---color-text-alpha-8);--text-alpha-10:var(---color-text-alpha-10);--text-alpha-15:var(---color-text-alpha-15);--text-alpha-25:var(---color-text-alpha-25);--text-alpha-55:var(---color-text-alph"
+    },
+    {
+      "source": "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+      "selector": "button,input,select,textarea",
+      "declarations": "color:var(--text);padding:0;margin:0;-webkit-user-select:text;-moz-user-select:text;-ms-user-select:text;user-select:text"
+    },
+    {
+      "source": "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+      "selector": "button",
+      "declarations": "background:0 0;border:none;display:inline-block;cursor:pointer;font-family:var(---font-stack-body);font-weight:var(---font-weight-body);font-style:var(---font-style-body)"
+    },
+    {
+      "source": "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+      "selector": "body:not(.no-outline) .skip-link:focus",
+      "declarations": "clip:auto;width:auto;height:auto;margin:0;color:var(--text);background-color:var(--bg);padding:10px;opacity:1;z-index:10000;transition:none"
+    },
+    {
+      "source": "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+      "selector": ".btn,.shopify-payment-button__button--unbranded",
+      "declarations": "position:relative;display:inline-block;overflow:hidden;color:var(--button-primary-text);background:var(--button-primary-bg);border:1px solid var(--button-primary-bg);padding:15px 22px;line-height:22px;border-radius:var(---radius);text-transform:var(---transform-button-text);text-decoration:none;box-shadow:none;font-family:var(---font-stack-button);font-weight:var(---font-weight-button);font-style:var(---font-style-button);font-size:calc(.875rem*var(---font-adjust-button));text-align:center;letter-spacing:.05em;will-change:color,border;transition:color .3s ease,border .3s ease,background 0s linear 0s;z-index:1;-webkit-tap-highlight-color:initial"
+    },
+    {
+      "source": "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+      "selector": ".show-buttons-animation .btn:hover,.show-buttons-animation .shopify-payment-button__button--unbranded:hover",
+      "declarations": "color:var(--button-primary-bg);background-color:var(--button-primary-bg);border-color:var(--button-primary-bg);transition:color .3s ease,border .3s ease,background 0s linear .3s"
+    },
+    {
+      "source": "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+      "selector": ".btn.disabled,.btn:disabled,.btn[disabled],.disabled.shopify-payment-button__button--unbranded,.shopify-payment-button__button--unbranded:disabled,[disabled].sh",
+      "declarations": "cursor:default;background:var(--button-primary-bg);color:var(--button-primary-text-alpha-50)"
+    },
+    {
+      "source": "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+      "selector": "over,.btn[disabled]:hover,.disabled.shopify-payment-button__button--unbranded:hover,.shopify-payment-button__button--unbranded:disabled:hover,[disabled].shopify",
+      "declarations": "color:var(--button-primary-text-alpha-50)"
+    },
+    {
+      "source": "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+      "selector": ".btn--secondary",
+      "declarations": "color:var(--button-secondary-text);background:var(--button-secondary-bg);border-color:var(--button-secondary-text)"
+    },
+    {
+      "source": "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+      "selector": ".show-buttons-animation .btn--secondary:hover",
+      "declarations": "color:var(--button-secondary-bg);border-color:var(--button-secondary-text);background-color:var(--button-secondary-text)"
+    },
+    {
+      "source": "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+      "selector": ".btn--secondary.disabled,.btn--secondary:disabled,.btn--secondary[disabled]",
+      "declarations": "border:1px solid var(--button-secondary-text-alpha-50);color:var(--button-secondary-text-alpha-50);background:var(--button-secondary-bg)"
+    },
+    {
+      "source": "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+      "selector": ".show-buttons-animation input.btn:hover,.show-buttons-animation input.shopify-payment-button__button--unbranded:hover",
+      "declarations": "color:var(--button-primary-bg);background:var(--button-primary-text);transition:background .3s ease,color .3s ease"
+    },
+    {
+      "source": "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "transition:color .3s ease,border .3s ease,background 0s linear 0s!important;color:var(--button-primary-bg)!important;background:var(--button-primary-text)!important;border:1px solid var(--button-primary-bg)!important;border-radius:var(---radius)!important;font-family:var(---font-stack-button)!important;font-style:var(---font-style-button)!important;font-weight:var(---font-weight-button)!important;font-size:calc(.875rem*var(---font-adjust-button))!important;padding:15px 22px!important;line-height:22px!important"
+    },
+    {
+      "source": "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+      "selector": ".show-buttons-animation .shopify-payment-button__button--unbranded:hover",
+      "declarations": "color:var(--button-primary-text)!important;background:var(--button-primary-bg)!important;border-color:var(--button-primary-bg)!important;transition:color .3s ease,border .3s ease,background 0s linear .3s!important"
+    },
+    {
+      "source": "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+      "selector": ".shopify-payment-button__button--unbranded.disabled,.shopify-payment-button__button--unbranded:disabled,.shopify-payment-button__button--unbranded[disabled]",
+      "declarations": "color:var(--button-primary-bg-alpha-50)!important;border-color:var(--button-primary-bg-alpha-50)!important"
+    },
+    {
+      "source": "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+      "selector": ".shopify-payment-button__button--unbranded.disabled:hover,.shopify-payment-button__button--unbranded:disabled:hover,.shopify-payment-button__button--unbranded[d",
+      "declarations": "color:var(--button-primary-bg-alpha-50)!important"
+    },
+    {
+      "source": "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+      "selector": ".block-body",
+      "declarations": "position:fixed;top:0;left:0;width:100%;height:100%;z-index:9999;background-color:var(--bg);background-image:var(---loading-svg);background-size:64px auto;background-repeat:no-repeat;background-position:50%;transition:opacity .3s ease,visibility 0s linear .3s,z-index 0s linear .3s"
+    },
+    {
+      "source": "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+      "selector": "body",
+      "declarations": "line-height:1.5625;color:var(--text);-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:100%"
+    },
+    {
+      "source": "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+      "selector": "body,button,input,select,textarea",
+      "declarations": "font-family:var(---font-stack-body);font-weight:var(---font-weight-body);font-style:var(---font-style-body)"
+    },
+    {
+      "source": "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+      "selector": ".h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6",
+      "declarations": "display:block;color:var(--heading);font-family:var(---font-stack-heading);font-weight:var(---font-weight-heading);font-style:var(---font-style-heading);margin:0 0 .5em;line-height:1.25"
+    },
+    {
+      "source": "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+      "selector": ".h1 a,.h2 a,.h3 a,.h4 a,.h5 a,.h6 a,h1 a,h2 a,h3 a,h4 a,h5 a,h6 a",
+      "declarations": "text-decoration:none;font-weight:inherit;color:inherit"
+    },
+    {
+      "source": "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+      "selector": ".section-header__subheading,.subheading-text",
+      "declarations": "font-family:var(---font-stack-body);font-weight:var(---font-weight-body);font-style:var(---font-style-body);font-size:calc(.875rem*var(---font-adjust-body));font-weight:var(---font-weight-body-medium);text-transform:uppercase;letter-spacing:.075em;margin:15px 0 0;color:inherit"
+    },
+    {
+      "source": "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+      "selector": ".no-js .site-header",
+      "declarations": "color:var(--text)!important;background:var(--bg)"
+    },
+    {
+      "source": "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+      "selector": "html body",
+      "declarations": "color:var(--text);background-color:var(--bg)"
+    },
+    {
+      "source": "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+      "selector": "body,html",
+      "declarations": "background-color:var(--bg);min-height:100%;min-width:320px"
+    },
+    {
+      "source": "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+      "selector": ".flickity-button",
+      "declarations": "position:absolute;background:hsla(0,0%,100%,.75);border:none;color:#333"
+    },
+    {
+      "source": "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+      "selector": ".flickity-button",
+      "declarations": "background-color:transparent"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Espacio Handmade | Leather Goods made in Austin Texas",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.espaciohandmade.com/",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.espaciohandmade.com/",
+        "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.espaciohandmade.com/",
+        "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+        "https://www.espaciohandmade.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.espaciohandmade.com/",
+        "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.espaciohandmade.com/",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.espaciohandmade.com/"
+      ]
+    },
+    "colors.surface-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.espaciohandmade.com/",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.espaciohandmade.com/",
+        "https://www.espaciohandmade.com/cdn/shop/t/18/assets/theme.aio.min.css?v=62510312668436847981765204661",
+        "https://www.espaciohandmade.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "colors.leather": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.espaciohandmade.com/"
+      ]
+    },
+    "colors.forest": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.espaciohandmade.com/"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.espaciohandmade.com/"
+      ]
+    },
+    "colors.error": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.espaciohandmade.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.personalization-panel": {
+      "status": "inferred"
+    }
+  }
+}

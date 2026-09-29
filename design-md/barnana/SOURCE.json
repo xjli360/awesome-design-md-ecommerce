@@ -1,0 +1,2089 @@
+{
+  "source_url": "https://barnana.com",
+  "final_url": "https://barnana.com/",
+  "captured_at": "2026-09-29T04:00:16.989323+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://barnana.com",
+      "final_url": "https://barnana.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "5b7e1041b446c02b743a3c650b2da9c8e0622953801a377b5df00cafda7bbd86",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955",
+      "final_url": "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "dd6baa511c7ffce9663a2ed04ea644e5d6a503e8e1a2934b7217ebb38ca44c13",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955",
+      "final_url": "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "97bb2823a57ed962e51bd0a4cb9d57b1b3e4cbe8944892fc5c8fad3a30a56e29",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://barnana.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://barnana.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://barnana.com/cdn/shop/t/38/assets/barnana-accessibility.css?v=139783298695478105591790090687",
+      "final_url": "https://barnana.com/cdn/shop/t/38/assets/barnana-accessibility.css?v=139783298695478105591790090687",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1956948317f1dc66601e5306524889107eb8ceaa9edede402e431ff12205163f",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "be10bc4b16346e787891f1da5de658505019fcd30172651891a4bf550c948e36",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 99,
+      "sources": [
+        "https://barnana.com/",
+        "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955",
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 98,
+      "sources": [
+        "https://barnana.com/",
+        "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955",
+        "https://barnana.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://barnana.com/cdn/shop/t/38/assets/barnana-accessibility.css?v=139783298695478105591790090687",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 32,
+      "sources": [
+        "https://barnana.com/",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#dc954d": {
+      "count": 29,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#faf3e8": {
+      "count": 17,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 14,
+      "sources": [
+        "https://barnana.com/",
+        "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#12543f": {
+      "count": 13,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#108474": {
+      "count": 12,
+      "sources": [
+        "https://barnana.com/",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#d88838": {
+      "count": 10,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#212121": {
+      "count": 9,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 9,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#f7ecdb": {
+      "count": 8,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#333333": {
+      "count": 7,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#1b7e5f": {
+      "count": 6,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#eed9c2": {
+      "count": 6,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#f7ddba": {
+      "count": 6,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#666666": {
+      "count": 6,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/barnana-accessibility.css?v=139783298695478105591790090687",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#555555": {
+      "count": 6,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#4b4946": {
+      "count": 5,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#c46f19": {
+      "count": 5,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#fbe1c7": {
+      "count": 5,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 5,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#f4f2e2": {
+      "count": 4,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#f5e8d3": {
+      "count": 4,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#ecb935": {
+      "count": 4,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#be979f": {
+      "count": 4,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#4b2e11": {
+      "count": 4,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#ab8660": {
+      "count": 4,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#d1def9": {
+      "count": 4,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 4,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#fafafa": {
+      "count": 4,
+      "sources": [
+        "https://barnana.com/",
+        "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955",
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#0000000d": {
+      "count": 4,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955"
+      ]
+    },
+    "#00000000": {
+      "count": 4,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955",
+        "https://barnana.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#c0c0c0": {
+      "count": 3,
+      "sources": [
+        "https://barnana.com/",
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#a36220": {
+      "count": 3,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#474747": {
+      "count": 3,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 3,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#999999": {
+      "count": 3,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#080808": {
+      "count": 3,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 3,
+      "sources": [
+        "https://barnana.com/",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#d02e2e": {
+      "count": 3,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#00000005": {
+      "count": 3,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955"
+      ]
+    },
+    "#0000008c": {
+      "count": 3,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955"
+      ]
+    },
+    "#e8e8e1": {
+      "count": 3,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 3,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#faeedb": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#f0be77": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#d98d40": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#e8cdae": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#ebd2b6": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#e8bb8b": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#f7bd6d": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#b48791": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#f4d2a3": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#bacef6": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#a57e57": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#de8d9b": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#f5d6ac": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#c64113": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#625e59": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#faeddb": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#faead3": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#0000000a": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955",
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#00000033": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955"
+      ]
+    },
+    "#00ffff": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#808080": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#ffff00": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#ff00ff": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#a9a9a9": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#708090": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#111111": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/barnana-accessibility.css?v=139783298695478105591790090687"
+      ]
+    },
+    "#314515": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/barnana-accessibility.css?v=139783298695478105591790090687"
+      ]
+    },
+    "#595459": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/barnana-accessibility.css?v=139783298695478105591790090687"
+      ]
+    },
+    "#173800": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/barnana-accessibility.css?v=139783298695478105591790090687"
+      ]
+    },
+    "#000000a6": {
+      "count": 2,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/barnana-accessibility.css?v=139783298695478105591790090687"
+      ]
+    },
+    "#fbcd0a": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#a89cc8": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#c1e6e6": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#f5dfca": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#eacdb1": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#eab11e": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#47413a": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#e3b07c": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#cd9608": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#ffecbb": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#fffefe": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#c5ac92": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#c6b8a7": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#f0d2a5": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#b4a492": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#e8c794": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#3f260e": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#603b16": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#573614": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#282c2e": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#4a3f34": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#d6c7b8": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#ab8c52": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#806430": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#e8d4ae": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#9e7953": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#d8798a": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#e9bb8d": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#4a4238": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#c9a984": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#6c5339": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#e5b47e": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#75481a": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#faed10": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#beb300": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#fffaa4": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#721c24": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#f8d7da": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#f5c6cb": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#56ad6a": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#a07636": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#cecbc7": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#7b7b7b": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "#3a3a3a": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955"
+      ]
+    },
+    "#222222": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955"
+      ]
+    },
+    "#0000004d": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955"
+      ]
+    },
+    "#0000000f": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955"
+      ]
+    },
+    "#0000001a": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955"
+      ]
+    },
+    "#bb0000": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955"
+      ]
+    },
+    "#00000026": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955"
+      ]
+    },
+    "#00000066": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955"
+      ]
+    },
+    "#696969": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#a3a3a3": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#9bbaed": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#e43e23": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#d13b38": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#eb5799": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#ff0073": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#4a342c": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#f4e4ff": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#d2b48c": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#006699": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#e32040": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#0e986b": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#1b5c1d": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#489c4a": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#dedbbf": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#1d5caa": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#a54400": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#d4af37": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#00ff00": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#273854": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#e3bc9a": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#e37fa0": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#b6e4d0": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#f6f2e8": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#533230": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#060d11": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#234d90": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#40592f": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#ffd322": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#e0c389": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#323737": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#d1c4bb": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#cd853f": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#e79fab": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#8a3340": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#b7410e": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#008080": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#b9b6a1": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#d9efd9": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#f0ffff": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#f5f5dc": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#804020": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#ddd7cb": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#b7a282": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#4f4f4f": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#40483f": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#e1e5f6": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#a98d74": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#f6f4ea": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#ff7f50": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#008000": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#f5ecda": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#f0e68c": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#faf0e6": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#e0b0ff": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#f5deb3": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#9f6a51": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#2d2114": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#ffe4c4": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#4b0082": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#800000": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#e5990e": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#da70d6": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#800080": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#21a0ad": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#fa8072": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#5c534f": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#ff6347": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#ee82ee": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#b7ac9a": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#ffe4df": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#dc143c": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#c6bda6": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#d8bfd8": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#ff69b4": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#87ceeb": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#8b0000": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#fff8dc": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#f0fff0": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#b2b0ab": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#e6e6fa": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#ffe4b5": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#383863": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#fff5ee": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#2e8b57": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#cf9fa6": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#00008b": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#008b8b": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#b9c1c9": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#ff1493": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#d2691e": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#dcdcdc": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#4682b4": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#40e0d0": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#e8e7df": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#006400": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#bdb76b": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#add8e6": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#e0ffff": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#ffb6c1": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#32cd32": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#f5fffa": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#4169e1": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#6a5acd": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#7fffd4": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#7fff00": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#ff8c00": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#e9967a": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#9400d3": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#f08080": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#90ee90": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/swatches.css?v=157844926215047500451790089955"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#feffed": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/barnana-accessibility.css?v=139783298695478105591790090687"
+      ]
+    },
+    "#253d12": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/barnana-accessibility.css?v=139783298695478105591790090687"
+      ]
+    },
+    "#3c7205": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/barnana-accessibility.css?v=139783298695478105591790090687"
+      ]
+    },
+    "#281808d6": {
+      "count": 1,
+      "sources": [
+        "https://barnana.com/cdn/shop/t/38/assets/barnana-accessibility.css?v=139783298695478105591790090687"
+      ]
+    },
+    "#888888": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#3b5998": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#1da1f2": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#dd4b39": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#e60023": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#0073b1": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#fffb00": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#eaeaea": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#e9eaeb": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#a36710": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#d2920f": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#488282": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#4c8eda": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "Baskerville": [
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "Figtree": [
+      "https://barnana.com/"
+    ],
+    "Helvetica": [
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons": [
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons\" !important": [
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons' !important": [
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "JudgemeStar": [
+      "https://barnana.com/"
+    ],
+    "JudgemeStar' !important": [
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "Nunito Sans": [
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "monospace": [
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "sans-serif": [
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://barnana.com/",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #108474;--jdgm-secondary-color: rgba(16,132,116,0.1);--jdgm-star-color: #108474;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #108474;--jdgm-paginate-color: #108474;--jdgm-border-radius: 0;--jdgm-reviewer-name-color: #108474"
+    },
+    {
+      "source": "https://barnana.com/",
+      "selector": ":root",
+      "declarations": "--ANNOUNCEMENT-HEIGHT-DESKTOP: max(calc(var(--font-body-small) * var(--line-height-normal)), 36px);\n    --ANNOUNCEMENT-HEIGHT-MOBILE: max(calc(var(--font-body-small) * var(--line-height-normal)), 36px);"
+    },
+    {
+      "source": "https://barnana.com/",
+      "selector": "--PT: 0px;\n  --PB: 0px;\n\n  --ticker-direction: ticker-rtl;--text-size: var(--font-body-small);\n  --text-align: center;\n  --justify-content: center;\n--padding-sc",
+      "declarations": "--HEADER-HEIGHT: 77px;\n    --HEADER-HEIGHT-MEDIUM: 66.0px;\n    --HEADER-HEIGHT-MOBILE: 63.0px;\n\n    \n--icon-add-cart: var(--ICON-ADD-BAG);"
+    },
+    {
+      "source": "https://barnana.com/",
+      "selector": ".theme__header",
+      "declarations": "--PT: 15px;\n    --PB: 15px;"
+    },
+    {
+      "source": "https://barnana.com/",
+      "selector": ".header__logo__link",
+      "declarations": "--logo-padding: 23.959172710179967%;\n      --logo-width-desktop: 170px;\n      --logo-width-mobile: 190px;"
+    },
+    {
+      "source": "https://barnana.com/",
+      "selector": "dth: 150px; height: 150.0px;\n--aspect-ratio: 1.0;\nwidth: 150px; height: 150.0px;\n--aspect-ratio: 1.0;\nwidth: 150px; height: 150.0px;\n--aspect-ratio: 1.0;\n#Hero-",
+      "declarations": "--PT: 0px;\n    --PB: 0px;"
+    },
+    {
+      "source": "https://barnana.com/",
+      "selector": "#Hero--template--16768984612922__hero-product .product-upsell",
+      "declarations": "--text: #212121;\n        --text-light: #625e59;\n      \n\n      \n        --bg: #faeddb;"
+    },
+    {
+      "source": "https://barnana.com/",
+      "selector": "object-position: var(--focal-point, center)\n--aspect-ratio: 0.8633714655730628;\n--swatch-size: var(--swatch-size-product)\n#SectionColumns--template--16768984612",
+      "declarations": "--PT: 50px;\n    --PB: 50px;--COLUMNS: 3;\n      --COLUMNS-MEDIUM: 3;\n      --COLUMNS-SMALL: 2;--COLUMNS-MOBILE: 0;"
+    },
+    {
+      "source": "https://barnana.com/",
+      "selector": "dius: 8px;\n    --text-size: 14px; --stars-color: #ecb935; --arrows-color: #000000; --clamp: 2; --image-ratio: 1; --jm-arrows-mobile: none;\n#Hero--template--1676",
+      "declarations": "--PT: 0px;\n    --PB: 0px;"
+    },
+    {
+      "source": "https://barnana.com/",
+      "selector": "#Hero--template--16768984612922__section_hero_product_AehPFj .product-upsell",
+      "declarations": "--text: #212121;\n        --text-light: #625e59;\n      \n\n      \n        --bg: #faeddb;"
+    },
+    {
+      "source": "https://barnana.com/",
+      "selector": "object-position: var(--focal-point, center)\n--aspect-ratio: 0.9025270758122743;\n--swatch-size: var(--swatch-size-product)\n#RteColumns--template--16768984612922_",
+      "declarations": "--PT: 30px;\n    --PB: 72px;\n\n    --rte-column-width-left: 70%;\n    --rte-column-width-right: 30%;"
+    },
+    {
+      "source": "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955",
+      "selector": ".flickity-button",
+      "declarations": "position:absolute;border:none;background:none;color:inherit"
+    },
+    {
+      "source": "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955",
+      "selector": ".flickity-prev-next-button",
+      "declarations": "--bg: var(--COLOR-BG);--bg-brighter: var(--COLOR-BG-BRIGHTER);--icon-size: 28px;--btn-size: 40px;top:50%;width:var(--btn-size);height:var(--btn-size);padding:0;background-color:var(--bg);border-radius:var(--RADIUS);box-shadow:0 2px 6px #0000000a,0 2px 2px #00000005;margin-top:calc(var(--btn-size) / -2)"
+    },
+    {
+      "source": "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955",
+      "selector": ".flickity-prev-next-button:after",
+      "declarations": "content:\"\";position:absolute;top:0;left:-60px;z-index:-1;width:calc(100% + 120px);height:100%;background-color:var(--bg-brighter);opacity:1;transform:translate3d(-100%,0,0) skew(30deg);transition:transform .5s cubic-bezier(.33,0,0,1);will-change:transform;-webkit-backface-visibility:hidden;backface-visibility:hidden"
+    },
+    {
+      "source": "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button",
+      "declarations": "color:#3a3a3a;border-radius:0;border:none;margin:0;cursor:pointer"
+    },
+    {
+      "source": "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button--control:hover",
+      "declarations": "color:#0000008c"
+    },
+    {
+      "source": "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button--control:active,.shopify-model-viewer-ui .shopify-model-viewer-ui__button--control.focus-visible:focus",
+      "declarations": "color:#0000008c;background:#0000000d"
+    },
+    {
+      "source": "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button--poster:hover,.shopify-model-viewer-ui .shopify-model-viewer-ui__button--poster:focus",
+      "declarations": "color:#0000008c"
+    },
+    {
+      "source": "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955",
+      "selector": "button",
+      "declarations": "border:none;background:none;font-family:inherit;font-size:100%;margin:0;text-transform:none;line-height:1;color:currentcolor"
+    },
+    {
+      "source": "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955",
+      "selector": "age-link:focus img,body.is-focused .article__image-link:focus .image-wrapper,body.is-focused .product__slides:focus,body.is-focused a.frame__item:focus img,body",
+      "declarations": "outline-color:var(--accent)!important;outline-offset:-2px!important;outline-style:auto!important;outline-width:5px!important"
+    },
+    {
+      "source": "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955",
+      "selector": "body.is-focused *:focus",
+      "declarations": "outline-color:var(--accent)"
+    },
+    {
+      "source": "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955",
+      "selector": "body.is-focused .deferred-media__poster:focus .deferred-media__poster-button,body.is-focused .deferred-media__poster.focus-visible .deferred-media__poster-butto",
+      "declarations": "outline-color:var(--accent);outline-offset:2px;outline-style:auto;outline-width:5px"
+    },
+    {
+      "source": "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955",
+      "selector": "#challenge .shopify-challenge__button",
+      "declarations": "--btn-border: var(--BTN-PRIMARY-BG);--btn-bg: var(--BTN-PRIMARY-BG);--btn-text: var(--BTN-PRIMARY-TEXT);--btn-border-hover: var(--BTN-PRIMARY-BG-BRIGHTER);--btn-bg-hover: var(--BTN-PRIMARY-BG-BRIGHTER);--btn-text-hover: var(--BTN-PRIMARY-TEXT)"
+    },
+    {
+      "source": "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955",
+      "selector": "body.grid-compact .grid-outer",
+      "declarations": "--outer: 0px;--outer-offset: 0px;--gutter: 0px;--gap: 0px"
+    },
+    {
+      "source": "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955",
+      "selector": ".slider__button",
+      "declarations": "--bg: var(--COLOR-BG);--bg-brighter: var(--COLOR-BG-BRIGHTER);--icon-size: 28px;--btn-size: 40px;position:absolute;top:var(--button-position, 50%);width:var(--btn-size);height:var(--btn-size);padding:0;border:0;border-radius:var(--RADIUS);color:inherit;background:var(--bg);box-shadow:0 2px 6px #0000000a,0 2px 2px #00000005;margin-top:calc(var(--btn-size) / -2);overflow:hidden;font-size:0;text-indent:-100%;cursor:pointer;pointer-events:auto"
+    },
+    {
+      "source": "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955",
+      "selector": ".slider__button:after",
+      "declarations": "content:\"\";position:absolute;top:0;left:-60px;z-index:-1;width:calc(100% + 120px);height:100%;background-color:var(--bg-brighter)"
+    },
+    {
+      "source": "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955",
+      "selector": ":root",
+      "declarations": "--full-height: 100vh;--full-screen: var(--full-height);--three-quarters: 75vh;--two-thirds: 66vh;--one-half: 50vh;--one-third: 33vh;--header-height: 80px;--header-sticky-height: 0px;--footer-height: 500px;--announcement-height: 0px;--content-full: 90vh;--content-min: calc(100vh - var(--header-height) - var(--announcement-height))"
+    },
+    {
+      "source": "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955",
+      "selector": ":root",
+      "declarations": "--header-height: var(--HEADER-HEIGHT, 0px)"
+    },
+    {
+      "source": "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955",
+      "selector": ":root",
+      "declarations": "--announcement-height: var(--ANNOUNCEMENT-HEIGHT-DESKTOP, 0px)"
+    },
+    {
+      "source": "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955",
+      "selector": ":root",
+      "declarations": "--header-height: var(--HEADER-HEIGHT-MEDIUM, 0px)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Barnana - Plantain Chips, Cassava Chips, Banana Bites",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://barnana.com/",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "colors.primary-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "colors.accent-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://barnana.com/",
+        "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955",
+        "https://barnana.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://barnana.com/cdn/shop/t/38/assets/barnana-accessibility.css?v=139783298695478105591790090687",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "colors.surface-warm": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://barnana.com/",
+        "https://barnana.com/cdn/shop/t/38/assets/theme.css?v=138186175845397070571790089955",
+        "https://barnana.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://barnana.com/cdn/shop/t/38/assets/barnana-accessibility.css?v=139783298695478105591790090687",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "colors.star": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "colors.error": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://barnana.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.subscription-card": {
+      "status": "inferred"
+    }
+  }
+}

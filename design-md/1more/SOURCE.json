@@ -1,0 +1,823 @@
+{
+  "source_url": "https://usa.1more.com",
+  "final_url": "https://usa.1more.com/",
+  "captured_at": "2026-09-28T10:17:27.077165+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://usa.1more.com",
+      "final_url": "https://usa.1more.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "edc0e500d2b71cf8b4ad2a453210be65a629f4bc3513458494febcee33fd972c",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://usa.1more.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://usa.1more.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://usa.1more.com/cdn/shop/t/120/assets/base.css?v=98973372866500453401725548203",
+      "final_url": "https://usa.1more.com/cdn/shop/t/120/assets/base.css?v=98973372866500453401725548203",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "bc3a217d659e002b0622e58b2a320dff83d0e2d9ad704040606a2acb9947cc99",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://usa.1more.com/cdn/shop/t/120/assets/swiper.min.css?v=147790663014771324901725548203",
+      "final_url": "https://usa.1more.com/cdn/shop/t/120/assets/swiper.min.css?v=147790663014771324901725548203",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "57e25c040d2122ac8fb8bda1019b2cd0ee56ca51cbbed84a524d0beaaffb1fc6",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://usa.1more.com/cdn/shop/t/120/assets/animate.css?v=140068135244854943571725548203",
+      "final_url": "https://usa.1more.com/cdn/shop/t/120/assets/animate.css?v=140068135244854943571725548203",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5d161b5d0048131f19ea49b1ef2c04962ecf1c73fb0479aa512938d6ec9e287d",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848",
+      "final_url": "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a9732823a5e3e408aa39d28a2846b0000944045d6f8895b139fd752d7bf34766",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 167,
+      "sources": [
+        "https://usa.1more.com/",
+        "https://usa.1more.com/cdn/shop/t/120/assets/base.css?v=98973372866500453401725548203",
+        "https://usa.1more.com/cdn/shop/t/120/assets/swiper.min.css?v=147790663014771324901725548203",
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "#f93822": {
+      "count": 161,
+      "sources": [
+        "https://usa.1more.com/",
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "#ffffff": {
+      "count": 151,
+      "sources": [
+        "https://usa.1more.com/",
+        "https://usa.1more.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://usa.1more.com/cdn/shop/t/120/assets/base.css?v=98973372866500453401725548203",
+        "https://usa.1more.com/cdn/shop/t/120/assets/swiper.min.css?v=147790663014771324901725548203",
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "#c0c0c0": {
+      "count": 44,
+      "sources": [
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "#cccccc": {
+      "count": 30,
+      "sources": [
+        "https://usa.1more.com/",
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "#505050": {
+      "count": 27,
+      "sources": [
+        "https://usa.1more.com/",
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "#7e7e7e": {
+      "count": 22,
+      "sources": [
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 15,
+      "sources": [
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "#f0f3f6": {
+      "count": 13,
+      "sources": [
+        "https://usa.1more.com/"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 13,
+      "sources": [
+        "https://usa.1more.com/"
+      ]
+    },
+    "#ff3c1f": {
+      "count": 7,
+      "sources": [
+        "https://usa.1more.com/",
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "#9c9c9c": {
+      "count": 7,
+      "sources": [
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "#5494e3": {
+      "count": 7,
+      "sources": [
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "#333333": {
+      "count": 6,
+      "sources": [
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "#eb0e0e": {
+      "count": 5,
+      "sources": [
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "#c1c7c7": {
+      "count": 4,
+      "sources": [
+        "https://usa.1more.com/"
+      ]
+    },
+    "#29383d": {
+      "count": 4,
+      "sources": [
+        "https://usa.1more.com/"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 4,
+      "sources": [
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 4,
+      "sources": [
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "#dee2e6": {
+      "count": 4,
+      "sources": [
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "#ffc439": {
+      "count": 4,
+      "sources": [
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "#121212": {
+      "count": 3,
+      "sources": [
+        "https://usa.1more.com/",
+        "https://usa.1more.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#232323": {
+      "count": 3,
+      "sources": [
+        "https://usa.1more.com/",
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "#ffffff00": {
+      "count": 3,
+      "sources": [
+        "https://usa.1more.com/cdn/shop/t/120/assets/base.css?v=98973372866500453401725548203"
+      ]
+    },
+    "#fdb819": {
+      "count": 3,
+      "sources": [
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "#f59a23": {
+      "count": 3,
+      "sources": [
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "#45b245": {
+      "count": 2,
+      "sources": [
+        "https://usa.1more.com/"
+      ]
+    },
+    "#334fb4": {
+      "count": 2,
+      "sources": [
+        "https://usa.1more.com/"
+      ]
+    },
+    "#52585b": {
+      "count": 2,
+      "sources": [
+        "https://usa.1more.com/"
+      ]
+    },
+    "#ce3129": {
+      "count": 2,
+      "sources": [
+        "https://usa.1more.com/"
+      ]
+    },
+    "#e8ba9f": {
+      "count": 2,
+      "sources": [
+        "https://usa.1more.com/"
+      ]
+    },
+    "#34638f": {
+      "count": 2,
+      "sources": [
+        "https://usa.1more.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 2,
+      "sources": [
+        "https://usa.1more.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 2,
+      "sources": [
+        "https://usa.1more.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 2,
+      "sources": [
+        "https://usa.1more.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 2,
+      "sources": [
+        "https://usa.1more.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 2,
+      "sources": [
+        "https://usa.1more.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 2,
+      "sources": [
+        "https://usa.1more.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 2,
+      "sources": [
+        "https://usa.1more.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://usa.1more.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://usa.1more.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#fd3b1e": {
+      "count": 2,
+      "sources": [
+        "https://usa.1more.com/cdn/shop/t/120/assets/base.css?v=98973372866500453401725548203"
+      ]
+    },
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://usa.1more.com/cdn/shop/t/120/assets/base.css?v=98973372866500453401725548203"
+      ]
+    },
+    "#007aff": {
+      "count": 2,
+      "sources": [
+        "https://usa.1more.com/cdn/shop/t/120/assets/swiper.min.css?v=147790663014771324901725548203"
+      ]
+    },
+    "#dd3a3f": {
+      "count": 2,
+      "sources": [
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "#f12929": {
+      "count": 2,
+      "sources": [
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "#010101": {
+      "count": 2,
+      "sources": [
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "#ededed": {
+      "count": 2,
+      "sources": [
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 2,
+      "sources": [
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "#e60012": {
+      "count": 2,
+      "sources": [
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "#eeeeee": {
+      "count": 2,
+      "sources": [
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "#888888": {
+      "count": 2,
+      "sources": [
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "#ff5268": {
+      "count": 2,
+      "sources": [
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "#319335": {
+      "count": 1,
+      "sources": [
+        "https://usa.1more.com/"
+      ]
+    },
+    "#818181": {
+      "count": 1,
+      "sources": [
+        "https://usa.1more.com/"
+      ]
+    },
+    "#f83a1f": {
+      "count": 1,
+      "sources": [
+        "https://usa.1more.com/"
+      ]
+    },
+    "#edccae": {
+      "count": 1,
+      "sources": [
+        "https://usa.1more.com/"
+      ]
+    },
+    "#ffc0cb": {
+      "count": 1,
+      "sources": [
+        "https://usa.1more.com/"
+      ]
+    },
+    "#bcc4cd": {
+      "count": 1,
+      "sources": [
+        "https://usa.1more.com/"
+      ]
+    },
+    "#00000066": {
+      "count": 1,
+      "sources": [
+        "https://usa.1more.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "gotham-bold": [
+      "https://usa.1more.com/",
+      "https://usa.1more.com/cdn/shop/t/120/assets/base.css?v=98973372866500453401725548203",
+      "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+    ],
+    "gotham-bold !important": [
+      "https://usa.1more.com/"
+    ],
+    "gotham-book": [
+      "https://usa.1more.com/",
+      "https://usa.1more.com/cdn/shop/t/120/assets/base.css?v=98973372866500453401725548203",
+      "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+    ],
+    "gotham-book !important": [
+      "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+    ],
+    "gotham-light": [
+      "https://usa.1more.com/cdn/shop/t/120/assets/base.css?v=98973372866500453401725548203"
+    ],
+    "gotham-medium": [
+      "https://usa.1more.com/",
+      "https://usa.1more.com/cdn/shop/t/120/assets/base.css?v=98973372866500453401725548203",
+      "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+    ],
+    "sans-serif": [
+      "https://usa.1more.com/",
+      "https://usa.1more.com/cdn/shop/t/120/assets/base.css?v=98973372866500453401725548203",
+      "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+    ],
+    "sans-serif !important": [
+      "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://usa.1more.com/",
+      "selector": ":root,\n         .color-background-2",
+      "declarations": "--color-background: 240,243,246;\n         \n           --gradient-background: #f0f3f6;\n         \n         --color-foreground: 18,18,18;\n         --color-shadow: 18,18,18;\n         --color-button: 18,18,18;\n         --color-button-text: 243,243,243;\n         --color-secondary-button: 240,243,246;\n         --color-secondary-button-text: 18,18,18;\n         --color-link: 18,18,18;\n         --color-badge-foreground: 18,18,18;\n         --color-badge-background: 240,243,246;\n         --color-badge-border: 18,18,18;\n         --payment-terms-background-color: rgb(240 243 246);"
+    },
+    {
+      "source": "https://usa.1more.com/",
+      "selector": "body",
+      "declarations": "display: grid;\n         grid-template-rows: auto auto 1fr auto;\n         grid-template-columns: 100%;\n         min-height: 100%;\n         margin: 0;\n         font-size: var(--text-base);\n         letter-spacing: -1px;\n         line-height: calc(1 + 0.8 / var(--font-body-scale));\n         font-family: var(--font-body-family);\n         font-style: var(--font-body-style);\n         font-weight: var(--font-body-weight);"
+    },
+    {
+      "source": "https://usa.1more.com/",
+      "selector": ":root",
+      "declarations": "--shopify-chat-bg-color: #FFFFFF;\n    --shopify-chat-text-color: #000000;\n    --shopify-chat-accent-bg-color: #000000;\n    --shopify-chat-accent-text-color: #FFFFFF;\n    --shopify-chat-activator-offset: 20px;\n\n    \n\n    --shopify-chat-activator-font-size: 16px;\n    --shopify-chat-border-radius: 16px;"
+    },
+    {
+      "source": "https://usa.1more.com/",
+      "selector": ".cart-product-recommend",
+      "declarations": "margin-bottom: 15px;\n        min-height: 47px;\n        padding: 10px 30px;\n        color: #fff;\n        background-color: #319335;\n        cursor: pointer;\n        text-align: center;"
+    },
+    {
+      "source": "https://usa.1more.com/",
+      "selector": ".announcement_countdown_timer_button",
+      "declarations": "padding: 4px 12px;\n      border-radius: 10px;\n      white-space: nowrap;\n      font-family: gotham-medium;"
+    },
+    {
+      "source": "https://usa.1more.com/",
+      "selector": ".custom-product-image-content-item_cwcq4d .custom-heading-3",
+      "declarations": "color: #000000;"
+    },
+    {
+      "source": "https://usa.1more.com/",
+      "selector": ".custom-product-image-content-item_cwcq4d .custom-heading-4",
+      "declarations": "color: #000000;"
+    },
+    {
+      "source": "https://usa.1more.com/",
+      "selector": ".custom-product-image-content-item_cwcq4d .custom-decs",
+      "declarations": "color: #000000;"
+    },
+    {
+      "source": "https://usa.1more.com/",
+      "selector": ".custom-product-image-content-item_cwcq4d  .button1",
+      "declarations": "background-color: #ffffff;\n                        color: #000000;"
+    },
+    {
+      "source": "https://usa.1more.com/",
+      "selector": ".custom-product-image-content-item_LhDNg8 .custom-heading-3",
+      "declarations": "color: #000000;"
+    },
+    {
+      "source": "https://usa.1more.com/",
+      "selector": ".custom-product-image-content-item_LhDNg8 .custom-heading-4",
+      "declarations": "color: #000000;"
+    },
+    {
+      "source": "https://usa.1more.com/",
+      "selector": ".custom-product-image-content-item_LhDNg8 .custom-decs",
+      "declarations": "color: #000000;"
+    },
+    {
+      "source": "https://usa.1more.com/",
+      "selector": ".custom-product-image-content-item_LhDNg8  .button1",
+      "declarations": "background-color: #000000;\n                        color: #ffffff;"
+    },
+    {
+      "source": "https://usa.1more.com/",
+      "selector": ".custom-product-image-content-b0d6e7b1-954e-4235-a947-5c3df2252c86 .custom-heading-3",
+      "declarations": "color: #ffffff;"
+    },
+    {
+      "source": "https://usa.1more.com/",
+      "selector": ".custom-product-image-content-b0d6e7b1-954e-4235-a947-5c3df2252c86 .custom-heading-4",
+      "declarations": "color: #ffffff;"
+    },
+    {
+      "source": "https://usa.1more.com/",
+      "selector": ".custom-product-image-content-b0d6e7b1-954e-4235-a947-5c3df2252c86 .custom-decs",
+      "declarations": "color: #ffffff;"
+    },
+    {
+      "source": "https://usa.1more.com/",
+      "selector": ".custom-product-image-content-b0d6e7b1-954e-4235-a947-5c3df2252c86  .button1",
+      "declarations": "background-color: #f83a1f;\n                        color: #ffffff;"
+    },
+    {
+      "source": "https://usa.1more.com/",
+      "selector": ".custom-product-image-content-item_jDWird .custom-heading-3",
+      "declarations": "color: #ffffff;"
+    },
+    {
+      "source": "https://usa.1more.com/",
+      "selector": ".custom-product-image-content-item_jDWird .custom-heading-4",
+      "declarations": "color: #ce3129;"
+    },
+    {
+      "source": "https://usa.1more.com/",
+      "selector": ".custom-product-image-content-item_jDWird .custom-decs",
+      "declarations": "color: #ffffff;"
+    },
+    {
+      "source": "https://usa.1more.com/",
+      "selector": ".custom-product-image-content-item_jDWird  .button1",
+      "declarations": "background-color: #ce3129;\n                        color: #ffffff;"
+    },
+    {
+      "source": "https://usa.1more.com/",
+      "selector": ".section-template--17133914751136__86a7185d-211d-4ab6-b9de-a3b167c5a9c5-padding  .circle-button",
+      "declarations": "width: var(--spacing-14);\n      height: var(--spacing-14);\n      border-radius: var(--rounded-full);\n      place-items: center;\n      transition: opacity .15s ease-in;\n      display: grid;\n      background-color: rgb(240,240,240);\n      box-shadow: 0 0 0 1px rgb(26, 26, 26, .12);"
+    },
+    {
+      "source": "https://usa.1more.com/",
+      "selector": "#section-media-grid-template--17133914751136__9b0e7581-a5aa-42f3-8af5-83b3d0cebb1b  .features-puzzles-container .features-puzzles-grid .content .button1",
+      "declarations": "display: inline-block;\n          padding: 0.8rem 3rem;\n          border: 0;\n          background-color: #000000;\n          color: #ffffff;\n          margin-top: 1rem;"
+    },
+    {
+      "source": "https://usa.1more.com/",
+      "selector": "#section-media-grid-template--17133914751136__9b0e7581-a5aa-42f3-8af5-83b3d0cebb1b  .caption-body .caption-text",
+      "declarations": "color: #fff;\n      line-height: 1.4;"
+    },
+    {
+      "source": "https://usa.1more.com/",
+      "selector": "#section-template--17133914751136__custom_hot_spots_4LGzGT__hot-spots .button",
+      "declarations": "display: inline-block;\n         cursor: pointer;\n         margin-top: 3.2rem;\n         padding: 1.4rem 3.2rem;\n         background-color: #000000;\n         color: #ffffff;\n         border-radius: 6rem;\n         text-decoration: none;"
+    },
+    {
+      "source": "https://usa.1more.com/",
+      "selector": "#section-media-grid-template--17133914751136__4d3fc477-8b27-4896-b636-239da9ab8eb1  .features-puzzles-container .features-puzzles-grid .content .button1",
+      "declarations": "display: inline-block;\n          padding: 0.8rem 3rem;\n          border: 0;\n          background-color: #000000;\n          color: #ffffff;\n          margin-top: 1rem;"
+    },
+    {
+      "source": "https://usa.1more.com/",
+      "selector": "#section-media-grid-template--17133914751136__4d3fc477-8b27-4896-b636-239da9ab8eb1  .caption-body .caption-text",
+      "declarations": "color: #fff;\n      line-height: 1.4;"
+    },
+    {
+      "source": "https://usa.1more.com/",
+      "selector": "span 1\nmax-width:100%;width:100%\ngrid-column:span 1 / span 1;grid-row: span 1 / span 1\nmax-width:100%;width:100%\n\n     #productBanner-box-template--171339147511",
+      "declarations": "background-color: #f0f3f6;"
+    },
+    {
+      "source": "https://usa.1more.com/",
+      "selector": "#productBanner-box-template--17133914751136__06be2246-50b5-44d2-a8c5-d6dde044c3a5 .productTitle>h3,#productBanner-box-template--17133914751136__06be2246-50b5-44",
+      "declarations": "color: #000000;"
+    },
+    {
+      "source": "https://usa.1more.com/",
+      "selector": "#productBanner-box-template--17133914751136__06be2246-50b5-44d2-a8c5-d6dde044c3a5 .slide-container",
+      "declarations": "background-color: #ffffff;\n      border-radius: 20px;\n      padding: 2vw 1.3vw 1vw 1.3vw;\n      min-height: 27rem;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "1MORE® - Wired & Wireless Earbuds, Earphones, and Headphones",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://usa.1more.com/",
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://usa.1more.com/",
+        "https://usa.1more.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://usa.1more.com/"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://usa.1more.com/",
+        "https://usa.1more.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://usa.1more.com/cdn/shop/t/120/assets/base.css?v=98973372866500453401725548203",
+        "https://usa.1more.com/cdn/shop/t/120/assets/swiper.min.css?v=147790663014771324901725548203",
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://usa.1more.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://usa.1more.com/cdn/shop/t/120/assets/style.css?v=102518343382971610261790130848"
+      ]
+    },
+    "colors.accent-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://usa.1more.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.feature-callout": {
+      "status": "inferred"
+    }
+  }
+}

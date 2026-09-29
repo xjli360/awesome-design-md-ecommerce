@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: WatchesToBuy
-description: |
+name: "WatchesToBuy"
+source_url: "https://watchestobuy.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The near-black ground (#0B0B0B) functions the way a watchmaker's velvet tray does — it suppresses ambient distraction so the merchandise reads as the only light source in the room. WatchesToBuy navigates the collector space with a two-temperature palette: institutional deep navy (#003399) anchors every call-to-action and primary link, while brick terracotta (#914941) marks the human edge — the "Sell Your Watch" prompts, the Fair condition badge, the warm counterpoint to an otherwise cold authority. Amber-gold (#ffba00) appears exactly once per page zone as a decorative divider, keeping the watch-dial reference from becoming noise. Raleway carries the display register; its geometric cuts at modest weights (600–700) suit decade-browsing headlines like "1960s Swiss Dress Watches" without competing with the photography. Open Sans handles body and interface copy at 400 weight, legible at small sizes where listing specifications live. Poppins at 600 uppercase with +0.5px tracking handles buttons and badges — compact and readable on dark and light surfaces alike.
 
   Corners are deliberately squared across the system: `{rounded.xs}` (4px) on inputs and buttons, `{rounded.sm}` (8px) on cards. The result is a platform posture rather than an app one — analogous to the clinical precision of a philatelic catalogue or auction house, where exactness signals expertise. The only softness lives in brand-filter tags, which use `{rounded.full}` pill shapes to signal dismissibility. Product cards carry a faint drop shadow at low opacity to lift them from the light canvas (#fcfbfe) without depth that competes with dial photography. Steel blue-gray (#abb8c3) serves as the midpoint of the dark surfaces: placeholder text in the search bar, sub-copy in the hero band, footer links in their resting state — the functional non-color that keeps dark zones navigable. Antique olive-gold (#958e09) is reserved for special interest tags and patina-era callouts, a nod to aged brass cases. Condition badges run a strict three-tier system — green for Excellent, navy for Good, terracotta for Fair — color-coding that collectors read at a glance across a dense grid without hovering.
@@ -384,6 +387,8 @@ components:
 - Hero CTAs: stacked column on mobile; inline row at tablet+
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - A large portion of extracted hex values (#f78da7, #ff6900, #fcb900, #7bdcb5, #00d084, #8ed1fc, #0693e3, #9b51e0, #cf2e2e) match the WordPress Gutenberg block editor default color palette exactly and likely originate from content blocks, not the brand design system; they are excluded from all component tokens
 - Hover and focus ring colors could not be reliably extracted; active-state tokens are derived by darkening the extracted primaries

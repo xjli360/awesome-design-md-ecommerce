@@ -1,0 +1,690 @@
+{
+  "source_url": "https://www.warwick.de/en/Warwick.html",
+  "final_url": "https://www.warwick.de/en/Warwick.html",
+  "captured_at": "2026-09-29T04:11:45.141343+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://www.warwick.de/en/Warwick.html",
+      "final_url": "https://www.warwick.de/en/Warwick.html",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "c72a97a1d08e76456c62d5aed9e4a9f94c2ca9cd75d4123c48afe4c7c3da4455",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.warwick.de/file_site_css.css",
+      "final_url": "https://www.warwick.de/file_site_css.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "14fb174a3045950980b47b4304d1b49f03b287405af2caba81372aecc1001cae",
+      "snapshot": "rendered-style-1.css"
+    },
+    {
+      "url": "https://www.warwick.de/en/Warwick.html#computed-style-snapshot",
+      "final_url": "https://www.warwick.de/en/Warwick.html#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "55218d91ca1db135ccc06f5b54f7db86fa5563d8cff9e4e240a8b58ca5eadffe",
+      "snapshot": "rendered-style-2.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 144,
+      "sources": [
+        "https://www.warwick.de/en/Warwick.html",
+        "https://www.warwick.de/file_site_css.css",
+        "https://www.warwick.de/en/Warwick.html#computed-style-snapshot"
+      ]
+    },
+    "#000000": {
+      "count": 84,
+      "sources": [
+        "https://www.warwick.de/en/Warwick.html",
+        "https://www.warwick.de/file_site_css.css",
+        "https://www.warwick.de/en/Warwick.html#computed-style-snapshot"
+      ]
+    },
+    "#ffcc00": {
+      "count": 44,
+      "sources": [
+        "https://www.warwick.de/file_site_css.css"
+      ]
+    },
+    "#0000ee": {
+      "count": 32,
+      "sources": [
+        "https://www.warwick.de/en/Warwick.html#computed-style-snapshot"
+      ]
+    },
+    "#cccccc": {
+      "count": 31,
+      "sources": [
+        "https://www.warwick.de/en/Warwick.html",
+        "https://www.warwick.de/file_site_css.css"
+      ]
+    },
+    "#333333": {
+      "count": 28,
+      "sources": [
+        "https://www.warwick.de/file_site_css.css"
+      ]
+    },
+    "#666666": {
+      "count": 17,
+      "sources": [
+        "https://www.warwick.de/file_site_css.css",
+        "https://www.warwick.de/en/Warwick.html#computed-style-snapshot"
+      ]
+    },
+    "#999999": {
+      "count": 11,
+      "sources": [
+        "https://www.warwick.de/file_site_css.css"
+      ]
+    },
+    "#222222": {
+      "count": 10,
+      "sources": [
+        "https://www.warwick.de/file_site_css.css"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 10,
+      "sources": [
+        "https://www.warwick.de/file_site_css.css"
+      ]
+    },
+    "#ffdd88": {
+      "count": 4,
+      "sources": [
+        "https://www.warwick.de/file_site_css.css"
+      ]
+    },
+    "#212121": {
+      "count": 4,
+      "sources": [
+        "https://www.warwick.de/file_site_css.css"
+      ]
+    },
+    "#cd0a0a": {
+      "count": 4,
+      "sources": [
+        "https://www.warwick.de/file_site_css.css"
+      ]
+    },
+    "#4a4a4a": {
+      "count": 2,
+      "sources": [
+        "https://www.warwick.de/en/Warwick.html"
+      ]
+    },
+    "#ffc611": {
+      "count": 2,
+      "sources": [
+        "https://www.warwick.de/en/Warwick.html",
+        "https://www.warwick.de/en/Warwick.html#computed-style-snapshot"
+      ]
+    },
+    "#fffacf": {
+      "count": 2,
+      "sources": [
+        "https://www.warwick.de/file_site_css.css"
+      ]
+    },
+    "#555555": {
+      "count": 2,
+      "sources": [
+        "https://www.warwick.de/file_site_css.css"
+      ]
+    },
+    "#363636": {
+      "count": 2,
+      "sources": [
+        "https://www.warwick.de/file_site_css.css"
+      ]
+    },
+    "#525252b3": {
+      "count": 1,
+      "sources": [
+        "https://www.warwick.de/en/Warwick.html"
+      ]
+    },
+    "#373737": {
+      "count": 1,
+      "sources": [
+        "https://www.warwick.de/en/Warwick.html"
+      ]
+    },
+    "#6d84b4": {
+      "count": 1,
+      "sources": [
+        "https://www.warwick.de/en/Warwick.html"
+      ]
+    },
+    "#365899": {
+      "count": 1,
+      "sources": [
+        "https://www.warwick.de/en/Warwick.html"
+      ]
+    },
+    "#00000066": {
+      "count": 1,
+      "sources": [
+        "https://www.warwick.de/en/Warwick.html"
+      ]
+    },
+    "#738aba": {
+      "count": 1,
+      "sources": [
+        "https://www.warwick.de/en/Warwick.html"
+      ]
+    },
+    "#2c4987": {
+      "count": 1,
+      "sources": [
+        "https://www.warwick.de/en/Warwick.html"
+      ]
+    },
+    "#043b87": {
+      "count": 1,
+      "sources": [
+        "https://www.warwick.de/en/Warwick.html"
+      ]
+    },
+    "#4267b2": {
+      "count": 1,
+      "sources": [
+        "https://www.warwick.de/en/Warwick.html"
+      ]
+    },
+    "#2a4887": {
+      "count": 1,
+      "sources": [
+        "https://www.warwick.de/en/Warwick.html"
+      ]
+    },
+    "#29487d": {
+      "count": 1,
+      "sources": [
+        "https://www.warwick.de/en/Warwick.html"
+      ]
+    },
+    "#f5f6f7": {
+      "count": 1,
+      "sources": [
+        "https://www.warwick.de/en/Warwick.html"
+      ]
+    },
+    "#ff9900": {
+      "count": 1,
+      "sources": [
+        "https://www.warwick.de/file_site_css.css"
+      ]
+    },
+    "#ddccaa": {
+      "count": 1,
+      "sources": [
+        "https://www.warwick.de/file_site_css.css"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 1,
+      "sources": [
+        "https://www.warwick.de/file_site_css.css"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 1,
+      "sources": [
+        "https://www.warwick.de/file_site_css.css"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 1,
+      "sources": [
+        "https://www.warwick.de/file_site_css.css"
+      ]
+    },
+    "#dadada": {
+      "count": 1,
+      "sources": [
+        "https://www.warwick.de/file_site_css.css"
+      ]
+    },
+    "#fcefa1": {
+      "count": 1,
+      "sources": [
+        "https://www.warwick.de/file_site_css.css"
+      ]
+    },
+    "#fbf9ee": {
+      "count": 1,
+      "sources": [
+        "https://www.warwick.de/file_site_css.css"
+      ]
+    },
+    "#fef1ec": {
+      "count": 1,
+      "sources": [
+        "https://www.warwick.de/file_site_css.css"
+      ]
+    },
+    "#9b9b9b": {
+      "count": 1,
+      "sources": [
+        "https://www.warwick.de/file_site_css.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.warwick.de/file_site_css.css",
+      "https://www.warwick.de/en/Warwick.html#computed-style-snapshot"
+    ],
+    "Helvetica": [
+      "https://www.warwick.de/file_site_css.css",
+      "https://www.warwick.de/en/Warwick.html#computed-style-snapshot"
+    ],
+    "Open Sans": [
+      "https://www.warwick.de/file_site_css.css",
+      "https://www.warwick.de/en/Warwick.html#computed-style-snapshot"
+    ],
+    "San Serif": [
+      "https://www.warwick.de/file_site_css.css",
+      "https://www.warwick.de/en/Warwick.html#computed-style-snapshot"
+    ],
+    "Sans": [
+      "https://www.warwick.de/file_site_css.css",
+      "https://www.warwick.de/en/Warwick.html#computed-style-snapshot"
+    ],
+    "Verdana": [
+      "https://www.warwick.de/file_site_css.css",
+      "https://www.warwick.de/en/Warwick.html#computed-style-snapshot"
+    ],
+    "arial": [
+      "https://www.warwick.de/en/Warwick.html"
+    ],
+    "lucida grande": [
+      "https://www.warwick.de/en/Warwick.html"
+    ],
+    "sans-serif": [
+      "https://www.warwick.de/en/Warwick.html",
+      "https://www.warwick.de/file_site_css.css",
+      "https://www.warwick.de/en/Warwick.html#computed-style-snapshot"
+    ],
+    "tahoma": [
+      "https://www.warwick.de/en/Warwick.html"
+    ],
+    "verdana": [
+      "https://www.warwick.de/en/Warwick.html"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.warwick.de/en/Warwick.html",
+      "selector": ".fb_dialog_content .dialog_header",
+      "declarations": "background:linear-gradient(from(#738aba),to(#2c4987));border-bottom:1px solid;border-color:#043b87;box-shadow:#fff 0 1px 1px -1px inset;color:#fff;font:700 14px Helvetica,sans-serif;text-overflow:ellipsis;text-shadow:rgba(0,30,84,.296875) 0px -1px 0px;vertical-align:middle;white-space:nowrap"
+    },
+    {
+      "source": "https://www.warwick.de/en/Warwick.html",
+      "selector": ".fb_dialog_content .dialog_header .touchable_button input",
+      "declarations": "background:none;border:none;color:#fff;font:700 12px Helvetica,sans-serif;margin:2px -12px;padding:2px 6px 3px;text-shadow:rgba(0,30,84,.296875) 0px -1px 0px"
+    },
+    {
+      "source": "https://www.warwick.de/en/Warwick.html",
+      "selector": ".fb_dialog_content .dialog_header .header_center",
+      "declarations": "color:#fff;font-size:16px;font-weight:700;line-height:18px;text-align:center;vertical-align:middle"
+    },
+    {
+      "source": "https://www.warwick.de/en/Warwick.html",
+      "selector": ".cookie-notice button",
+      "declarations": "background-color: #ffc611;color: #000000;padding: 0.5em !important;border-radius: 3px;margin: 0.25em auto !important;border: 0 none;font-size: 130%;text-transform: uppercase;font-weight: bold;"
+    },
+    {
+      "source": "https://www.warwick.de/file_site_css.css",
+      "selector": "html, body",
+      "declarations": "margin:0px;\n\tpadding:0px;\n\twidth:100%;\n\theight:100%;\n\tbackground:#000;\n\tfont-family:Verdana,'Open Sans', sans-serif;\n\tfont-size:11px;\n\tcolor:#fff;"
+    },
+    {
+      "source": "https://www.warwick.de/file_site_css.css",
+      "selector": ".custom_galerie_product_title, a .custom_galerie_product_title, .custom_galerie_product_title a",
+      "declarations": "position:absolute;\n\tbottom:0px;\n\tleft:0px;\n\twidth:100%;\n\tcolor:#fff;\n\ttext-align: center;\n\theight:28px;\n\toverflow:hidden;"
+    },
+    {
+      "source": "https://www.warwick.de/file_site_css.css",
+      "selector": ".four_col_design__button_link",
+      "declarations": "text-decoration:none;\n    color:#fff;\n    font-size:12px;\n    font-weight:bold;"
+    },
+    {
+      "source": "https://www.warwick.de/file_site_css.css",
+      "selector": ".five_col_design__button_link",
+      "declarations": "text-decoration:none;\n    color:#fff;\n    font-size:12px;\n    font-weight:bold;"
+    },
+    {
+      "source": "https://www.warwick.de/file_site_css.css",
+      "selector": ".multiCSSCol_design__button_link",
+      "declarations": "text-decoration:none;\n    color:#fff;\n    font-size:12px;\n    font-weight:bold;"
+    },
+    {
+      "source": "https://www.warwick.de/file_site_css.css",
+      "selector": ".warwick_search_button",
+      "declarations": "position:absolute;\n\tfloat:left;\n\tmargin-left:554px;\n\theight:16px;\n\tborder:1px solid #ccc;\t\n\tcolor:#fff;\n\tbackground-color:#000;\n\tmargin-top:-7px;"
+    },
+    {
+      "source": "https://www.warwick.de/file_site_css.css",
+      "selector": ".warwick_search_button a",
+      "declarations": "color:#fff;\n\ttext-decoration:none;\n\tpadding-right:7px;\n\tpadding-left:7px;\n\tfont-size:10px;\n\tfont-weight:bold;"
+    },
+    {
+      "source": "https://www.warwick.de/file_site_css.css",
+      "selector": ".product_series_overview_menue_head_name",
+      "declarations": "margin-top:25px;\n\tfont-size:15px;\n\tcolor:#FFF;"
+    },
+    {
+      "source": "https://www.warwick.de/file_site_css.css",
+      "selector": ".product_series_overview_menue_link a",
+      "declarations": "text-decoration:none;\n\tmargin-left:15px;\n\tpadding-top:7px;\n\tcolor:#fff;\n\tdisplay:block;\n\tfont-size:13px;"
+    },
+    {
+      "source": "https://www.warwick.de/file_site_css.css",
+      "selector": ".product_series_overview_menue_link a:hover",
+      "declarations": "text-decoration:none;\n\tmargin-left:15px;\n\tpadding-top:7px;\n\tcolor:#fc0;\n\tdisplay:block;"
+    },
+    {
+      "source": "https://www.warwick.de/file_site_css.css",
+      "selector": ".product_series_overview_menue_head_name",
+      "declarations": "margin-top:25px;\n\tfont-size:15px;\n\tcolor:#FFF;"
+    },
+    {
+      "source": "https://www.warwick.de/file_site_css.css",
+      "selector": ".product_video_box_text",
+      "declarations": "color:#fff;"
+    },
+    {
+      "source": "https://www.warwick.de/file_site_css.css",
+      "selector": ".pre_faq .product_video_box_url",
+      "declarations": "color:#FC0;\n\tfont-size:12px;\n\tfont-weight:bold;\n\tpadding-bottom: 14px;\n\tpadding-top: 10px;\n\ttext-align:justify;"
+    },
+    {
+      "source": "https://www.warwick.de/file_site_css.css",
+      "selector": ".pre_faq .product_video_box_url a",
+      "declarations": "color:#FC0;\n\ttext-decoration:none;"
+    },
+    {
+      "source": "https://www.warwick.de/file_site_css.css",
+      "selector": ".pre_faq .product_video_box_url a:hover",
+      "declarations": "color:#FFF;\n\ttext-decoration:none;"
+    },
+    {
+      "source": "https://www.warwick.de/file_site_css.css",
+      "selector": ".pre_faq .artist_searchresult_box_playbutton, .pre_faq .artist_searchresult_box_playbutton a",
+      "declarations": "text-decoration:none;\n\tcolor:#FC0;"
+    },
+    {
+      "source": "https://www.warwick.de/file_site_css.css",
+      "selector": ".pre_faq .artist_searchresult_box_playbutton:hover, .pre_faq .artist_searchresult_box_playbutton a:hover",
+      "declarations": "color:#FFF;"
+    },
+    {
+      "source": "https://www.warwick.de/file_site_css.css",
+      "selector": "#product_ltd_menue .menu_block__for_menu .menue_activ_level_1",
+      "declarations": "color:#fC0;\n\tbackground:#666;"
+    },
+    {
+      "source": "https://www.warwick.de/file_site_css.css",
+      "selector": "#product_ltd_menue .menu_block__for_menu .menu_level_1:hover,\n#product_ltd_menue .menu_block__for_menu .menu_level_2:hover,\n#product_ltd_menue .menu_block__for_",
+      "declarations": "background:#bbb;\n\t\n\tcolor:#333;"
+    },
+    {
+      "source": "https://www.warwick.de/file_site_css.css",
+      "selector": "#product_slidermenu_oben__container .picto_text",
+      "declarations": "text-align:center;\n\twidth:100%;\n\theight:11px;\n\toverflow:hidden;\n\twhite-space:nowrap;\n\tcolor:#fff;\n\ttext-decoration:none;\n\tfont-size:9px;"
+    },
+    {
+      "source": "https://www.warwick.de/file_site_css.css",
+      "selector": "#product_slidermenu_oben__container a .picto_text",
+      "declarations": "color:#fff;\n\ttext-decoration:none;"
+    },
+    {
+      "source": "https://www.warwick.de/file_site_css.css",
+      "selector": "#product_slidermenu_oben__container a .picto_text_activ",
+      "declarations": "text-align:center;\n\twidth:100%;\n\theight:11px;\n\toverflow:hidden;\n\twhite-space:nowrap;\n\tcolor:#fc0;\n\ttext-decoration:none;\n\tfont-size:9px;\n\tdisplay: block;"
+    },
+    {
+      "source": "https://www.warwick.de/file_site_css.css",
+      "selector": "a.product_slidermenu_oben__link",
+      "declarations": "color:#fff;\n\ttext-decoration:none;"
+    },
+    {
+      "source": "https://www.warwick.de/file_site_css.css",
+      "selector": ".specs_product_title_right",
+      "declarations": "font-size:16px;\n\tcolor:#fc0;\n\theight:60px;\n\tvertical-align: bottom;\n\tpadding-left:10px;\n\tpadding-bottom:5px;\n\tdisplay: table-cell;"
+    },
+    {
+      "source": "https://www.warwick.de/file_site_css.css",
+      "selector": ".seriennummer_searchbutton__text",
+      "declarations": "width:100%;\n\ttext-align:center;\n\tposition:absolute;\n\ttop:5px;\n\tleft:0px;\n\tcolor:#000;"
+    },
+    {
+      "source": "https://www.warwick.de/file_site_css.css",
+      "selector": ".shareBox_sendbutton",
+      "declarations": "padding:5px;\n\tposition:relative;\n\tbackground:#999;\n\tborder:1px solid #000;\n\ttext-decoration:none;\n\tcolor:#000;\n\tcursor:pointer;\n\tbox-shadow:2px 2px #ccc;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "en/Warwick.html",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "60e0c374b5f79bd6910b09ab341e9989a266f97cba6dbc8be6f1f09f3fbf0936"
+    }
+  ],
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warwick.de/en/Warwick.html",
+        "https://www.warwick.de/en/Warwick.html#computed-style-snapshot"
+      ]
+    },
+    "colors.accent-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warwick.de/file_site_css.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warwick.de/en/Warwick.html",
+        "https://www.warwick.de/file_site_css.css",
+        "https://www.warwick.de/en/Warwick.html#computed-style-snapshot"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warwick.de/en/Warwick.html",
+        "https://www.warwick.de/file_site_css.css",
+        "https://www.warwick.de/en/Warwick.html#computed-style-snapshot"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warwick.de/en/Warwick.html",
+        "https://www.warwick.de/file_site_css.css",
+        "https://www.warwick.de/en/Warwick.html#computed-style-snapshot"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warwick.de/file_site_css.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warwick.de/file_site_css.css"
+      ]
+    },
+    "colors.border": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warwick.de/en/Warwick.html",
+        "https://www.warwick.de/file_site_css.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warwick.de/file_site_css.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warwick.de/en/Warwick.html"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warwick.de/en/Warwick.html",
+        "https://www.warwick.de/file_site_css.css",
+        "https://www.warwick.de/en/Warwick.html#computed-style-snapshot"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.spec-table": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Century Media
-description: A record label storefront that uses a deep violet #412a78 as its primary brand voltage — a color more often found on a 90s metal album cover than a Shopify checkout — against a near-black #111111 ink and a #121212 canvas that makes the violet glow like a stage light in a dark room. The palette is deliberately stark: #efeef1 and #ebebeb surfaces provide the only relief, while #10b484 teal and #ff0000 red appear as accent badges and sale markers, giving the store a fanzine-meets-ticket-booth energy. Montserrat runs the typography at moderate weights — display sits at 20–24px in weight 500/600, letting album art and band photography carry the emotional weight rather than heavy type. Product cards use soft {rounded.sm} corners on a near-black field, with the violet primary surfacing on add-to-cart buttons and genre tags. The nav bar is a thin strip of #111111 with white text, and the footer collapses into a dense block of links and social icons. The overall effect is a store that feels like a venue lobby: dark, focused, with the primary color hitting like a guitar riff.
+name: "Century Media"
+source_url: "https://www.centurymedia.store"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A record label storefront that uses a deep violet #412a78 as its primary brand voltage — a color more often found on a 90s metal album cover than a Shopify checkout — against a near-black #111111 ink and a #121212 canvas that makes the violet glow like a stage light in a dark room. The palette is deliberately stark: #efeef1 and #ebebeb surfaces provide the only relief, while #10b484 teal and #ff0000 red appear as accent badges and sale markers, giving the store a fanzine-meets-ticket-booth energy. Montserrat runs the typography at moderate weights — display sits at 20–24px in weight 500/600, letting album art and band photography carry the emotional weight rather than heavy type. Product cards use soft {rounded.sm} corners on a near-black field, with the violet primary surfacing on add-to-cart buttons and genre tags. The nav bar is a thin strip of #111111 with white text, and the footer collapses into a dense block of links and social icons. The overall effect is a store that feels like a venue lobby: dark, focused, with the primary color hitting like a guitar riff.
 
 colors:
   primary: "#412a78"
@@ -305,6 +309,8 @@ components:
 - Hero image may crop or reposition on mobile to maintain focal point
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for buttons and links were inferred from common patterns; exact extracted hover colors are not available
 - Error styling (form validation, error messages, empty states) could not be extracted from the live site

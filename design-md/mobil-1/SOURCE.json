@@ -1,0 +1,447 @@
+{
+  "source_url": "https://mobil.com",
+  "final_url": "https://www.mobil.com/en",
+  "captured_at": "2026-09-29T04:29:43.522880+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://mobil.com",
+      "final_url": "https://www.mobil.com/en",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "a5a544452d88cf6ad338e2e089f755990e87fb9683bbc593f757172d07dce537",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.mobil.com/assets/css/fonts/dist/english.min.css",
+      "final_url": "https://www.mobil.com/assets/css/fonts/dist/english.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b13932480556d300a09fb7af8295e71fe3dcb2dd01a290fa458dd2f63248fd33",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.mobil.com/assets/minified/css/nav-social.min.css?v=639227696419728602",
+      "final_url": "https://www.mobil.com/assets/minified/css/nav-social.min.css?v=639227696419728602",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "519ae1fdc17805b0d36da294ff1b623d8e211320898ff62ff7a86a7d4f0e080b",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.mobil.com/Assets/vendor/slick/slick.css?v=639227696710336043",
+      "final_url": "https://www.mobil.com/Assets/vendor/slick/slick.css?v=639227696710336043",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9c91ae3c8dbc2e4f509b30ea2a11c58404c601d57470f7b0adaf0e1fe778ee22",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#333333": {
+      "count": 8,
+      "sources": [
+        "https://www.mobil.com/assets/minified/css/nav-social.min.css?v=639227696419728602"
+      ]
+    },
+    "#848484": {
+      "count": 2,
+      "sources": [
+        "https://www.mobil.com/en"
+      ]
+    },
+    "#454545": {
+      "count": 2,
+      "sources": [
+        "https://www.mobil.com/assets/minified/css/nav-social.min.css?v=639227696419728602"
+      ]
+    },
+    "#0e469b": {
+      "count": 1,
+      "sources": [
+        "https://www.mobil.com/en"
+      ]
+    },
+    "#ffffff": {
+      "count": 1,
+      "sources": [
+        "https://www.mobil.com/assets/minified/css/nav-social.min.css?v=639227696419728602"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.mobil.com/assets/css/fonts/dist/english.min.css"
+    ],
+    "EMprint": [
+      "https://www.mobil.com/assets/css/fonts/dist/english.min.css"
+    ],
+    "EMprintBold": [
+      "https://www.mobil.com/assets/css/fonts/dist/english.min.css"
+    ],
+    "EMprintBoldItalic": [
+      "https://www.mobil.com/assets/css/fonts/dist/english.min.css"
+    ],
+    "EMprintItalic": [
+      "https://www.mobil.com/assets/css/fonts/dist/english.min.css"
+    ],
+    "EMprintLight": [
+      "https://www.mobil.com/assets/css/fonts/dist/english.min.css"
+    ],
+    "EMprintSemibold": [
+      "https://www.mobil.com/assets/css/fonts/dist/english.min.css"
+    ],
+    "Helvetica": [
+      "https://www.mobil.com/assets/css/fonts/dist/english.min.css"
+    ],
+    "Helvetica Neue": [
+      "https://www.mobil.com/assets/css/fonts/dist/english.min.css"
+    ],
+    "Lato": [
+      "https://www.mobil.com/assets/css/fonts/dist/english.min.css"
+    ],
+    "Lucida Grande": [
+      "https://www.mobil.com/assets/css/fonts/dist/english.min.css"
+    ],
+    "em": [
+      "https://www.mobil.com/assets/css/fonts/dist/english.min.css"
+    ],
+    "sans-serif": [
+      "https://www.mobil.com/assets/css/fonts/dist/english.min.css"
+    ],
+    "sans-serif!important": [
+      "https://www.mobil.com/assets/css/fonts/dist/english.min.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.mobil.com/assets/css/fonts/dist/english.min.css",
+      "selector": ".icon-nav-header .navbar .nav-item .dropdown-submenu .dropdown-menu .nav-meganav-subitem .dropdown-item span.normal-font-level3",
+      "declarations": "font-family:EMprint,\"Helvetica Neue\",Helvetica,Arial,\"Lucida Grande\",sans-serif!important;font-weight:400!important"
+    },
+    {
+      "source": "https://www.mobil.com/assets/css/fonts/dist/english.min.css",
+      "selector": "screen-title-cta,.screen-title-full-overlay .screen-title-subtitle,.sitecore-form .form-group .form-control[data-sc-field-name=txtSubject],.ymaps-2-1-74-balloon",
+      "declarations": "font-family:EMprint,\"Helvetica Neue\",Helvetica,Arial,\"Lucida Grande\",sans-serif;font-weight:400"
+    },
+    {
+      "source": "https://www.mobil.com/assets/css/fonts/dist/english.min.css",
+      "selector": "-name,.vjs-playlist-now-playing-text,.vjs-playlist-show-hide>button,.vjs-playlist-thumbnail,.vjs-playlist-thumbnail .vjs-playlist-now-playing,.vjs-plugins-ready",
+      "declarations": "font-family:EMprint,\"Helvetica Neue\",Helvetica,Arial,\"Lucida Grande\",sans-serif"
+    },
+    {
+      "source": "https://www.mobil.com/assets/css/fonts/dist/english.min.css",
+      "selector": "VButton:hover,h2.productSubtitle,main .coveo-globalsearchbox .CoveoSearchInterface .CoveoOmnibox.magic-box .magic-box-input>input,main .coveo-globalsearchbox .C",
+      "declarations": "font-family:EMprint,\"Helvetica Neue\",Helvetica,Arial,\"Lucida Grande\",sans-serif!important;font-weight:400!important"
+    },
+    {
+      "source": "https://www.mobil.com/assets/css/fonts/dist/english.min.css",
+      "selector": "#gs-search .icon-search,.footer-nav-items>li.footer-nav-global-selector>a:before,.footer-top .nav-country li::before,.nav-header .global-icon:before,.nav-main-s",
+      "declarations": "font-family:em"
+    },
+    {
+      "source": "https://www.mobil.com/assets/css/fonts/dist/english.min.css",
+      "selector": "iption .rate div p,.product-detail .product-detail-description .product-detail-text .benefits>p:first-child,.search-header .mobile-header,.selected_filter span,",
+      "declarations": "font-family:EMprintBold,\"Helvetica Neue\",Helvetica,Arial,\"Lucida Grande\",sans-serif!important;font-weight:700!important"
+    },
+    {
+      "source": "https://www.mobil.com/assets/css/fonts/dist/english.min.css",
+      "selector": ".search-header h1 .benefit-field",
+      "declarations": "font-family:EMprintBold,\"Helvetica Neue\",Helvetica,Arial,\"Lucida Grande\",sans-serif!important;font-weight:700!important"
+    },
+    {
+      "source": "https://www.mobil.com/assets/css/fonts/dist/english.min.css",
+      "selector": "cus,a.BVLinkWriteReview:hover,a.BVLinkWriteReview:visited,body[data-row-styles] .radio-buttons label,h3.strong,h4.strong,h5,li.nav-meganav-subitem.contains-nav-",
+      "declarations": "font-family:EMprintSemibold,\"Helvetica Neue\",Helvetica,Arial,\"Lucida Grande\",sans-serif!important;font-weight:700!important"
+    },
+    {
+      "source": "https://www.mobil.com/assets/css/fonts/dist/english.min.css",
+      "selector": "eading .widget-btn,.b05-button.btn.find-service-button,.b05-button.btn.find-service-oem,.sp05-button-bar .button-bar .widget-btn,:not(.coveo-card-layout) .widge",
+      "declarations": "font-family:EMprintSemibold,\"Helvetica Neue\",Helvetica,Arial,\"Lucida Grande\",sans-serif!important;font-weight:400!important"
+    },
+    {
+      "source": "https://www.mobil.com/assets/css/fonts/dist/english.min.css",
+      "selector": "rch-header .mobile-header,.section-title,.show-hide-container a.btn-show-hide,.sort-by-filter,.tab-filter-items>.nav-tabs,.world-map-wrapper .world-map-label,bo",
+      "declarations": "font-family:EMprintSemibold,\"Helvetica Neue\",Helvetica,Arial,\"Lucida Grande\",sans-serif!important;font-weight:700!important"
+    },
+    {
+      "source": "https://www.mobil.com/assets/css/fonts/dist/english.min.css",
+      "selector": "n,.promotion .promotion-details h3,main .coveo-globalsearchbox .CoveoSearchInterface .CoveoOmnibox.magic-box .magic-box-input>input,main .coveo-globalsearchbox ",
+      "declarations": "font-family:EMprintSemibold,\"Helvetica Neue\",Helvetica,Arial,\"Lucida Grande\",sans-serif;font-weight:700"
+    },
+    {
+      "source": "https://www.mobil.com/assets/css/fonts/dist/english.min.css",
+      "selector": ".icon-nav-header .nav-email>span,.locator-detail .location-image-wrapper .location-image-title,.locator-detail .location-info div.location-info-hours h4",
+      "declarations": "font-family:EMprintSemibold,\"Helvetica Neue\",Helvetica,Arial,\"Lucida Grande\",sans-serif;font-weight:700"
+    },
+    {
+      "source": "https://www.mobil.com/assets/css/fonts/dist/english.min.css",
+      "selector": "holder.form-control,.search-box-placeholder.placeholder,.search-box-small .placeholder.form-control,.social .social-data>.social-message>.social-talk>p,.t01-scr",
+      "declarations": "font-family:EMprintLight,\"Helvetica Neue\",Helvetica,Arial,\"Lucida Grande\",sans-serif;font-weight:400"
+    },
+    {
+      "source": "https://www.mobil.com/assets/css/fonts/dist/english.min.css",
+      "selector": "der) .nav-language+div::after,.nav-header:not(.icon-nav-header) .nav-language+ul::after,.nav-header:not(.icon-nav-header) .nav-social+div::after,.nav-header:not",
+      "declarations": "font-family:EMprintLight,\"Helvetica Neue\",Helvetica,Arial,\"Lucida Grande\",sans-serif;font-weight:400"
+    },
+    {
+      "source": "https://www.mobil.com/assets/css/fonts/dist/english.min.css",
+      "selector": ".CoveoSearchInterface .col-lg-3 .b01-paragraph.paragraph span,.CoveoSearchInterface .col-lg-3 .coveo-facet .CoveoFacet .coveo-facet-header .coveo-facet-header-t",
+      "declarations": "font-family:EMprintBold,\"Helvetica Neue\",Helvetica,Arial,\"Lucida Grande\",sans-serif!important;font-weight:700!important"
+    },
+    {
+      "source": "https://www.mobil.com/assets/css/fonts/dist/english.min.css",
+      "selector": ".CoveoSearchInterface .col-lg-3 .b01-paragraph.paragraph span,.CoveoSearchInterface .col-lg-3 .coveo-facet .CoveoFacet .coveo-facet-header .coveo-facet-header-t",
+      "declarations": "font-family:EMprintBold,\"Helvetica Neue\",Helvetica,Arial,\"Lucida Grande\",sans-serif!important;font-weight:700!important"
+    },
+    {
+      "source": "https://www.mobil.com/assets/css/fonts/dist/english.min.css",
+      "selector": ".CoveoSearchInterface .col-lg-3 .coveo-facet .CoveoFacet .coveo-facet-header .coveo-facet-header-title",
+      "declarations": "font-family:EMprintLight,\"Helvetica Neue\",Helvetica,Arial,\"Lucida Grande\",sans-serif;font-weight:400"
+    },
+    {
+      "source": "https://www.mobil.com/assets/css/fonts/dist/english.min.css",
+      "selector": "-form h2,.dr1vrs_club .modal-content .modal-body .sitecore-form h3,.dr1vrs_club .modal-content .modal-body .sitecore-form p.form_largeHeading,.dr1vrs_club .moda",
+      "declarations": "font-family:EMprintSemibold,\"Helvetica Neue\",Helvetica,Arial,\"Lucida Grande\",sans-serif;font-weight:500!important"
+    },
+    {
+      "source": "https://www.mobil.com/assets/css/fonts/dist/english.min.css",
+      "selector": ".form-group input[type=text]::placeholder,.dr1vrs_club .modal-content .modal-body .sitecore-form .success_message p,.footer-two-align .footer-copyright .plain-h",
+      "declarations": "font-family:EMprint,\"Helvetica Neue\",Helvetica,Arial,\"Lucida Grande\",sans-serif;font-weight:400!important"
+    },
+    {
+      "source": "https://www.mobil.com/assets/css/fonts/dist/english.min.css",
+      "selector": ".icon-nav-header .navbar .nav-item .dropdown-menu .meganav-subtitle",
+      "declarations": "font-family:EMprintLight,\"Helvetica Neue\",Helvetica,Arial,\"Lucida Grande\",sans-serif;font-weight:400"
+    },
+    {
+      "source": "https://www.mobil.com/assets/css/fonts/dist/english.min.css",
+      "selector": "btn-primary,.sp-modal_popup h5,.theme_card__buttons .btn,.theme_card__content h1,.theme_card__content h2,.theme_card__content h3,.theme_card__content h4,.theme_",
+      "declarations": "font-family:EMprint,\"Helvetica Neue\",Helvetica,Arial,\"Lucida Grande\",sans-serif!important"
+    },
+    {
+      "source": "https://www.mobil.com/assets/css/fonts/dist/english.min.css",
+      "selector": ".form-group .form-control:not(:placeholder-shown),.tab_component #dropdownTabComponent .text,.tab_component .btn-secondary,.vertical-card-wrapper .vertical-card",
+      "declarations": "font-family:EMprint,\"Helvetica Neue\",Helvetica,Arial,\"Lucida Grande\",sans-serif!important;font-weight:400!important"
+    },
+    {
+      "source": "https://www.mobil.com/assets/css/fonts/dist/english.min.css",
+      "selector": ".CoveoSearchInterface.enhanced-dynamic-table .productTable_resultContainer .nameNew+span",
+      "declarations": "font-family:EMprint,\"Helvetica Neue\",Helvetica,Arial,\"Lucida Grande\",sans-serif!important;font-weight:700!important"
+    },
+    {
+      "source": "https://www.mobil.com/assets/css/fonts/dist/english.min.css",
+      "selector": ".button-primary,.imageCard--surface-item .heading-section .button-secondary,.imageCard--surface-item .heading-section .button-secondary-white,.imageCard--surfac",
+      "declarations": "font-family:EMprint,\"Helvetica Neue\",Helvetica,Arial,\"Lucida Grande\",sans-serif!important"
+    },
+    {
+      "source": "https://www.mobil.com/assets/css/fonts/dist/english.min.css",
+      "selector": "resources-section h1,.homeHero h1,.imageCard--surface-item .imageCard--copy h1,.imageCard--surface-item h1,.product-cards-section h1,.secnav-banner-section__tit",
+      "declarations": "font-family:EMprintLight,\"Helvetica Neue\",Helvetica,Arial,\"Lucida Grande\",sans-serif!important"
+    },
+    {
+      "source": "https://www.mobil.com/assets/css/fonts/dist/english.min.css",
+      "selector": "l,.E-main-nav-list>li>.\\--for-category,.E-main-nav-list>li>a,.E-utilities-item__label,.accordion-item.active .accordion-header .accordion-button,.region-wrapper",
+      "declarations": "font-family:EMprintSemibold,\"Helvetica Neue\",Helvetica,Arial,\"Lucida Grande\",sans-serif!important"
+    },
+    {
+      "source": "https://www.mobil.com/assets/css/fonts/dist/english.min.css",
+      "selector": "#section-3-header .global-link-navTitle,.site-wrapper a",
+      "declarations": "font-family:EMprintBold,\"Helvetica Neue\",Helvetica,Arial,\"Lucida Grande\",sans-serif"
+    },
+    {
+      "source": "https://www.mobil.com/assets/css/fonts/dist/english.min.css",
+      "selector": ".disclosureAccordion .accordion-item.accordion-active .accordion-header .accordion-button,.ff-details .ff-details__station-details .ff-details__direction-contai",
+      "declarations": "font-family:EMprint,\"Helvetica Neue\",Helvetica,Arial,\"Lucida Grande\",sans-serif!important"
+    },
+    {
+      "source": "https://www.mobil.com/assets/css/fonts/dist/english.min.css",
+      "selector": ".button-tertiary-small,.sitecore-form.enhanced-form.form-red .button-tertiary-white,.sitecore-form.enhanced-form.form-red .button-tertiary-white-small,.sitecore",
+      "declarations": "font-family:EMprint,\"Helvetica Neue\",Helvetica,Arial,\"Lucida Grande\",sans-serif!important;font-weight:700!important"
+    },
+    {
+      "source": "https://www.mobil.com/assets/css/fonts/dist/english.min.css",
+      "selector": ".otp-button a,.otp_validation_hk .otp-button input,.summary-btn .btn-primary,.summary-btn a,.summary-btn input,.summary-detail-button .btn-primary,.summary-deta",
+      "declarations": "font-weight:400!important;font-family:EMprint,\"Helvetica Neue\",Helvetica,Arial,\"Lucida Grande\",sans-serif!important"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Welcome to Mobil™",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mobil.com/en"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mobil.com/assets/minified/css/nav-social.min.css?v=639227696419728602"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mobil.com/assets/minified/css/nav-social.min.css?v=639227696419728602"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mobil.com/assets/minified/css/nav-social.min.css?v=639227696419728602"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mobil.com/en"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mobil.com/en"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mobil.com/assets/minified/css/nav-social.min.css?v=639227696419728602"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mobil.com/assets/minified/css/nav-social.min.css?v=639227696419728602"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mobil.com/assets/minified/css/nav-social.min.css?v=639227696419728602"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.oil-finder-tool": {
+      "status": "inferred"
+    }
+  }
+}

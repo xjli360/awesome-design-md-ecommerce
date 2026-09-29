@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: SmartGames
-description: A playground of primary-color logic puzzles where teal (#16a7bb) and royal blue (#0072b9) act as the twin anchors of a system that feels more like a toy box than a storefront. The brand’s signature move is a warm, almost nostalgic palette — canary yellow (#eedd55), lime green (#bbee77), and a deep forest ink (#234600) — that signals "brain game" without a hint of clinical gray. Product cards sit on a soft cream canvas (#ffffea) with rounded corners ({rounded.md}) that invite touch, while the accent orange (#ed541d) and its darker sibling (#8c2e0b) appear on sale badges and age-range tags, creating a gentle urgency. Bowlby One, a chunky display face with a hand-drawn quality, runs across headers and hero text, lending a playful, almost comic-book energy that contrasts with the clean Montserrat body copy — a deliberate tension between "fun" and "serious thinking." The navigation bar uses a white background with the teal as a hover state on links, and the search bar is a pill-shaped field ({rounded.full}) with a soft gray border (#c4c4c4) that feels approachable rather than sterile. Error states and sale flags lean into the red (#ff0000) and deep brown (#8c2e0b), while success or "in stock" indicators use a fresh green (#47c965). The overall impression is of a brand that trusts color as its primary communication layer — each hex carries a job title, not just a decorative role.
+name: "SmartGames"
+source_url: "https://www.smartgames.eu"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A playground of primary-color logic puzzles where teal (#16a7bb) and royal blue (#0072b9) act as the twin anchors of a system that feels more like a toy box than a storefront. The brand’s signature move is a warm, almost nostalgic palette — canary yellow (#eedd55), lime green (#bbee77), and a deep forest ink (#234600) — that signals "brain game" without a hint of clinical gray. Product cards sit on a soft cream canvas (#ffffea) with rounded corners ({rounded.md}) that invite touch, while the accent orange (#ed541d) and its darker sibling (#8c2e0b) appear on sale badges and age-range tags, creating a gentle urgency. Bowlby One, a chunky display face with a hand-drawn quality, runs across headers and hero text, lending a playful, almost comic-book energy that contrasts with the clean Montserrat body copy — a deliberate tension between "fun" and "serious thinking." The navigation bar uses a white background with the teal as a hover state on links, and the search bar is a pill-shaped field ({rounded.full}) with a soft gray border (#c4c4c4) that feels approachable rather than sterile. Error states and sale flags lean into the red (#ff0000) and deep brown (#8c2e0b), while success or "in stock" indicators use a fresh green (#47c965). The overall impression is of a brand that trusts color as its primary communication layer — each hex carries a job title, not just a decorative role.
 
 colors:
   primary: "#16a7bb"
@@ -315,6 +319,8 @@ components:
 - Footer columns stack vertically with accordion-style expandable sections.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for secondary buttons, text inputs, and links were not fully extractable from the live site's static CSS. The active states for `button-secondary` and `text-input-focus` are inferred from common patterns.
 - Error styling (form validation, 404 pages) was not observed; the red (#ff0000) is assumed for error text but not confirmed.

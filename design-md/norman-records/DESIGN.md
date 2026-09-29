@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Norman Records
-description: A deep, dusty crate-digger's interface where #313131 — a near-black charcoal — sets the tone for a site that prioritises inventory density over visual polish, and where the music itself is the only colour that matters. The palette is deliberately restrained: a single grey anchor, white canvas, and the occasional accent from album artwork or the bright orange "Add to Basket" button that cuts through the monochrome like a hi-vis vest in a record shop basement. Typography runs a flat system stack — Arial, Helvetica Neue, sans-serif — at modest sizes, with no custom typeface to distract from the thousands of product rows. The layout is a relentless vertical scroll of compact rows: artist, title, format, price, condition, and a tiny basket icon, all packed at 12–16px spacing. There is no hero image, no lifestyle photography, no editorial whitespace — just a search bar, a genre nav, and an infinite grid of second-hand vinyl. The site feels like the warehouse it ships from: utilitarian, honest, and built for people who already know what they're looking for.
+name: "Norman Records"
+source_url: "https://www.normanrecords.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep, dusty crate-digger's interface where #313131 — a near-black charcoal — sets the tone for a site that prioritises inventory density over visual polish, and where the music itself is the only colour that matters. The palette is deliberately restrained: a single grey anchor, white canvas, and the occasional accent from album artwork or the bright orange "Add to Basket" button that cuts through the monochrome like a hi-vis vest in a record shop basement. Typography runs a flat system stack — Arial, Helvetica Neue, sans-serif — at modest sizes, with no custom typeface to distract from the thousands of product rows. The layout is a relentless vertical scroll of compact rows: artist, title, format, price, condition, and a tiny basket icon, all packed at 12–16px spacing. There is no hero image, no lifestyle photography, no editorial whitespace — just a search bar, a genre nav, and an infinite grid of second-hand vinyl. The site feels like the warehouse it ships from: utilitarian, honest, and built for people who already know what they're looking for.
 
 colors:
   primary: "#313131"
@@ -316,6 +320,8 @@ components:
 - Album art thumbnails: on mobile, display at 120px width; on tablet, 80px; on desktop, 60px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one hex colour (#313131) was reliably extracted from the live site; the remaining palette (accent orange, stock status colours, badge colours) is inferred from common patterns in independent record store UIs and may not match the exact live site values
 - No font-family declarations beyond the system stack were found; the site likely uses a system font stack with no custom typeface

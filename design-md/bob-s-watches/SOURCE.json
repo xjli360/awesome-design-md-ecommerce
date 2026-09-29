@@ -1,0 +1,885 @@
+{
+  "source_url": "https://www.bobswatches.com",
+  "final_url": "https://www.bobswatches.com/",
+  "captured_at": "2026-09-28T04:14:15.320588+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.bobswatches.com",
+      "final_url": "https://www.bobswatches.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "279e40bb92882a47a85a60f6364e28d4162b044351fab41d9614772a8dcde31d",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.bobswatches.com/css/normalize.css",
+      "final_url": "https://www.bobswatches.com/css/normalize.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "06ed72d61e5736db9bcb3559946a3906d87f6e4daf01e30e0c675d3a5e6c76cf",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.bobswatches.com/css/bootstrap.css",
+      "final_url": "https://www.bobswatches.com/css/bootstrap.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "bd44e66961c23dddcea2ce0d0852e1f8744bc03925746d55340720eea37c8236",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.bobswatches.com/css/style.css?v=20260925-124453",
+      "final_url": "https://www.bobswatches.com/css/style.css?v=20260925-124453",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9b6103ed3ba0262b81909c24884b066a8e799f7f555ed225642a4f52dd157a2e",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.bobswatches.com/cirkuit/tms/css/frontend.css?t=1&mobile=0&mobileUA=0&_v=1790168832",
+      "final_url": "https://www.bobswatches.com/cirkuit/tms/css/frontend.css?t=1&mobile=0&mobileUA=0&_v=1790168832",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "12fbdbd179161c21a5da1bc3e2f407a781168982470f58858bbe48a73c6645b2",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.bobswatches.com/cirkuit/cms/css/frontend.php/.css?mobile=0&mobileUA=0&_v=1789662862",
+      "final_url": "https://www.bobswatches.com/cirkuit/cms/css/frontend.php/.css?mobile=0&mobileUA=0&_v=1789662862",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "8812c2652b4cb1d7619d32c8bcec09a23d34fd67b040fd1aa7bbe9d8fbfff41f",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 131,
+      "sources": [
+        "https://www.bobswatches.com/",
+        "https://www.bobswatches.com/css/bootstrap.css",
+        "https://www.bobswatches.com/css/style.css?v=20260925-124453",
+        "https://www.bobswatches.com/cirkuit/tms/css/frontend.css?t=1&mobile=0&mobileUA=0&_v=1790168832"
+      ]
+    },
+    "#000000": {
+      "count": 115,
+      "sources": [
+        "https://www.bobswatches.com/",
+        "https://www.bobswatches.com/css/bootstrap.css",
+        "https://www.bobswatches.com/css/style.css?v=20260925-124453",
+        "https://www.bobswatches.com/cirkuit/cms/css/frontend.php/.css?mobile=0&mobileUA=0&_v=1789662862"
+      ]
+    },
+    "#0d6efd": {
+      "count": 29,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 22,
+      "sources": [
+        "https://www.bobswatches.com/",
+        "https://www.bobswatches.com/css/style.css?v=20260925-124453",
+        "https://www.bobswatches.com/cirkuit/tms/css/frontend.css?t=1&mobile=0&mobileUA=0&_v=1790168832"
+      ]
+    },
+    "#212529": {
+      "count": 21,
+      "sources": [
+        "https://www.bobswatches.com/",
+        "https://www.bobswatches.com/css/bootstrap.css",
+        "https://www.bobswatches.com/css/style.css?v=20260925-124453"
+      ]
+    },
+    "#eeeeee": {
+      "count": 20,
+      "sources": [
+        "https://www.bobswatches.com/cirkuit/tms/css/frontend.css?t=1&mobile=0&mobileUA=0&_v=1790168832"
+      ]
+    },
+    "#6c757d": {
+      "count": 19,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#f8f9fa": {
+      "count": 17,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#dc3545": {
+      "count": 16,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#198754": {
+      "count": 16,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 14,
+      "sources": [
+        "https://www.bobswatches.com/",
+        "https://www.bobswatches.com/css/style.css?v=20260925-124453"
+      ]
+    },
+    "#ffc107": {
+      "count": 14,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#0dcaf0": {
+      "count": 14,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#333333": {
+      "count": 12,
+      "sources": [
+        "https://www.bobswatches.com/",
+        "https://www.bobswatches.com/css/style.css?v=20260925-124453",
+        "https://www.bobswatches.com/cirkuit/tms/css/frontend.css?t=1&mobile=0&mobileUA=0&_v=1790168832"
+      ]
+    },
+    "#757575": {
+      "count": 9,
+      "sources": [
+        "https://www.bobswatches.com/",
+        "https://www.bobswatches.com/css/style.css?v=20260925-124453"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 8,
+      "sources": [
+        "https://www.bobswatches.com/css/style.css?v=20260925-124453"
+      ]
+    },
+    "#dee2e6": {
+      "count": 7,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#4f4f4f": {
+      "count": 7,
+      "sources": [
+        "https://www.bobswatches.com/css/style.css?v=20260925-124453"
+      ]
+    },
+    "#343a40": {
+      "count": 6,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 5,
+      "sources": [
+        "https://www.bobswatches.com/",
+        "https://www.bobswatches.com/css/style.css?v=20260925-124453"
+      ]
+    },
+    "#c4c4c4": {
+      "count": 5,
+      "sources": [
+        "https://www.bobswatches.com/",
+        "https://www.bobswatches.com/css/style.css?v=20260925-124453"
+      ]
+    },
+    "#495057": {
+      "count": 5,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#adb5bd": {
+      "count": 4,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#86b7fe": {
+      "count": 4,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#b1f347": {
+      "count": 4,
+      "sources": [
+        "https://www.bobswatches.com/css/style.css?v=20260925-124453"
+      ]
+    },
+    "#e9ecef": {
+      "count": 3,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#fff3cd": {
+      "count": 3,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#0a58ca": {
+      "count": 3,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#75b798": {
+      "count": 3,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#ea868f": {
+      "count": 3,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#c6c7c8": {
+      "count": 3,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#373b3e": {
+      "count": 3,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 3,
+      "sources": [
+        "https://www.bobswatches.com/css/style.css?v=20260925-124453",
+        "https://www.bobswatches.com/cirkuit/tms/css/frontend.css?t=1&mobile=0&mobileUA=0&_v=1790168832"
+      ]
+    },
+    "#828282": {
+      "count": 3,
+      "sources": [
+        "https://www.bobswatches.com/css/style.css?v=20260925-124453"
+      ]
+    },
+    "#0058ab": {
+      "count": 2,
+      "sources": [
+        "https://www.bobswatches.com/"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 2,
+      "sources": [
+        "https://www.bobswatches.com/"
+      ]
+    },
+    "#d42b2a": {
+      "count": 2,
+      "sources": [
+        "https://www.bobswatches.com/",
+        "https://www.bobswatches.com/css/style.css?v=20260925-124453"
+      ]
+    },
+    "#d63384": {
+      "count": 2,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#ced4da": {
+      "count": 2,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#664d03": {
+      "count": 2,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#cfe2ff": {
+      "count": 2,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#e2e3e5": {
+      "count": 2,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#d1e7dd": {
+      "count": 2,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#cff4fc": {
+      "count": 2,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#f8d7da": {
+      "count": 2,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#6ea8fe": {
+      "count": 2,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#4d5154": {
+      "count": 2,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#b6d4fe": {
+      "count": 2,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#565e64": {
+      "count": 2,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#146c43": {
+      "count": 2,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#25cff2": {
+      "count": 2,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#ffc720": {
+      "count": 2,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#b02a37": {
+      "count": 2,
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "#222222": {
+      "count": 2,
+      "sources": [
+        "https://www.bobswatches.com/css/style.css?v=20260925-124453"
+      ]
+    },
+    "#3e5c9a": {
+      "count": 2,
+      "sources": [
+        "https://www.bobswatches.com/css/style.css?v=20260925-124453"
+      ]
+    },
+    "#dad7d8": {
+      "count": 2,
+      "sources": [
+        "https://www.bobswatches.com/css/style.css?v=20260925-124453"
+      ]
+    },
+    "#d7d4d6": {
+      "count": 2,
+      "sources": [
+        "https://www.bobswatches.com/css/style.css?v=20260925-124453"
+      ]
+    },
+    "#dad6d6": {
+      "count": 2,
+      "sources": [
+        "https://www.bobswatches.com/css/style.css?v=20260925-124453"
+      ]
+    },
+    "#d9d5d8": {
+      "count": 2,
+      "sources": [
+        "https://www.bobswatches.com/css/style.css?v=20260925-124453"
+      ]
+    },
+    "#dadbdf": {
+      "count": 2,
+      "sources": [
+        "https://www.bobswatches.com/css/style.css?v=20260925-124453"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://www.bobswatches.com/css/style.css?v=20260925-124453"
+    ],
+    "Arial": [
+      "https://www.bobswatches.com/",
+      "https://www.bobswatches.com/css/style.css?v=20260925-124453"
+    ],
+    "BlinkMacSystemFont": [
+      "https://www.bobswatches.com/css/style.css?v=20260925-124453"
+    ],
+    "Calibri": [
+      "https://www.bobswatches.com/css/style.css?v=20260925-124453"
+    ],
+    "Frank Ruhl Libre": [
+      "https://www.bobswatches.com/"
+    ],
+    "Georgia": [
+      "https://www.bobswatches.com/"
+    ],
+    "Helvetica": [
+      "https://www.bobswatches.com/",
+      "https://www.bobswatches.com/css/style.css?v=20260925-124453"
+    ],
+    "Inter": [
+      "https://www.bobswatches.com/",
+      "https://www.bobswatches.com/css/style.css?v=20260925-124453",
+      "https://www.bobswatches.com/cirkuit/cms/css/frontend.php/.css?mobile=0&mobileUA=0&_v=1789662862"
+    ],
+    "Roboto": [
+      "https://www.bobswatches.com/css/style.css?v=20260925-124453"
+    ],
+    "Segoe UI": [
+      "https://www.bobswatches.com/css/style.css?v=20260925-124453"
+    ],
+    "Utopia Std": [
+      "https://www.bobswatches.com/",
+      "https://www.bobswatches.com/css/style.css?v=20260925-124453"
+    ],
+    "monospace": [
+      "https://www.bobswatches.com/css/normalize.css"
+    ],
+    "proxima_nova_bold": [
+      "https://www.bobswatches.com/"
+    ],
+    "proxima_nova_semibold": [
+      "https://www.bobswatches.com/css/style.css?v=20260925-124453"
+    ],
+    "sans-serif": [
+      "https://www.bobswatches.com/",
+      "https://www.bobswatches.com/css/style.css?v=20260925-124453"
+    ],
+    "serif": [
+      "https://www.bobswatches.com/"
+    ],
+    "slick": [
+      "https://www.bobswatches.com/css/style.css?v=20260925-124453"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.bobswatches.com/",
+      "selector": ":host(.dg-consent-banner) .dg-button:hover",
+      "declarations": "background: #333;\n                border-color: #333;\n                color: #fff;"
+    },
+    {
+      "source": "https://www.bobswatches.com/",
+      "selector": ":host(.dg-consent-banner) .dg-button.reject_all,\n            :host(.dg-consent-banner) .dg-button.open_layer",
+      "declarations": "background: #fff;\n                color: #000;"
+    },
+    {
+      "source": "https://www.bobswatches.com/",
+      "selector": ":host(.dg-consent-banner) .dg-button.reject_all:hover,\n            :host(.dg-consent-banner) .dg-button.open_layer:hover",
+      "declarations": "background: #f3f3f3;\n                border-color: #000;\n                color: #000;"
+    },
+    {
+      "source": "https://www.bobswatches.com/",
+      "selector": "header form .topsearchinput",
+      "declarations": "width: 100% !important;\n\t\t\t\t\n\t\t\t\theight: 40px !important;\n\t\t\t\tbackground-color: white !important;\n\t\t\t\tborder-radius: 40px !important;\n\t\t\t\tborder: 1px solid #c4c4c4 !important;\n\t\t\t\tmargin-bottom: 16px !important;"
+    },
+    {
+      "source": "https://www.bobswatches.com/",
+      "selector": "header form .topsearchinput",
+      "declarations": "color: var(--color-black);\n\t\t\tbackground-color: transparent;\n\t\t\tborder: none;\n\t\t\tborder-bottom: 1px solid rgba(196, 196, 196, 1);\n\t\t\tfont-size: 16px;\n\t\t\tline-height: 2em;\n\t\t\twidth: 100%;"
+    },
+    {
+      "source": "https://www.bobswatches.com/",
+      "selector": "header .searchWrapHeader form .topsearchinput",
+      "declarations": "background-color: var(--color-white);\n\t\t\tborder: 1px solid rgba(51, 51, 51, 1);\n\t\t\tborder-radius: 16px;\n\t\t\tline-height: 25px;\n\t\t\tpadding-top: 0;\n\t\t\tpadding-bottom: 0;\n\t\t\tmin-width: 216px;"
+    },
+    {
+      "source": "https://www.bobswatches.com/",
+      "selector": ".searchButton,\n\t\t\t.closeButton,\n\t\t\t.clearButton",
+      "declarations": "background-color: transparent;\n\t\t\tborder: none;\n\t\t\tdisplay: flex;\n\t\t\talign-items: center;"
+    },
+    {
+      "source": "https://www.bobswatches.com/",
+      "selector": "body .search-autocomplete-products .allSearchResultsLink",
+      "declarations": "font-weight: 600;\n\t\t\tcolor: #0058ab;"
+    },
+    {
+      "source": "https://www.bobswatches.com/",
+      "selector": ".link-button",
+      "declarations": "background: none;\n\t\t\tborder: none;\n\t\t\tcolor: rgba(0, 0, 0, 0.7);\n\t\t\tfont-size: 14px;\n\t\t\tline-height: 20px;\n\t\t\ttext-decoration: underline;\n\t\t\tcursor: pointer;\n\t\t\tpadding: 0;\n\t\t\ttext-align: left;"
+    },
+    {
+      "source": "https://www.bobswatches.com/",
+      "selector": "header form .topsearchinput",
+      "declarations": "border: none !important;\n\t\t\t\tdisplay: flex;\n\t\t\t\twidth: 100%;\n\t\t\t\tcursor: text;\n\t\t\t\toutline: none;\n\t\t\t\tresize: none;\n\t\t\t\tposition: relative;\n\t\t\t\tmargin: 0px;\n\t\t\t\tappearance: none;\n\t\t\t\tborder-radius: 0px;\n\t\t\t\tborder: 0px;\n\t\t\t\tbackground-color: transparent !important;\n\t\t\t\tfont-size: 16px;\n\t\t\t\tbox-sizing: border-box !important;\n\t\t\t\theight: 20px;\n\t\t\t\tpadding-left: 12px !important;"
+    },
+    {
+      "source": "https://www.bobswatches.com/",
+      "selector": ".closeSearchButton",
+      "declarations": "border: none;\n\t\t\t\tcursor: pointer;\n\t\t\t\tjustify-content: center;\n\t\t\t\talign-items: center;\n\t\t\t\tflex-shrink: 0;\n\t\t\t\tpadding: 4px;\n\t\t\t\twidth: 44px;\n\t\t\t\theight: 44px;\n\t\t\t\tmargin-right: 8px;\n\t\t\t\tbackground-color: #f7f7f7;\n\t\t\t\tborder-radius: 100%;\n\t\t\t\tcolor: #333;\n\t\t\t\tcursor: pointer;"
+    },
+    {
+      "source": "https://www.bobswatches.com/",
+      "selector": "header form .topsearchinput",
+      "declarations": "border: none !important;\n\t\t\t\tdisplay: flex;\n\t\t\t\twidth: 100%;\n\t\t\t\tcursor: text;\n\t\t\t\toutline: none;\n\t\t\t\tresize: none;\n\t\t\t\tposition: relative;\n\t\t\t\tmargin: 15px 0px;\n\t\t\t\tappearance: none;\n\t\t\t\tmin-width: 200px;\n\t\t\t\tborder-radius: 0px;\n\t\t\t\tborder: 0px;\n\t\t\t\tbackground-color: transparent !important;\n\t\t\t\tfont-size: 16px;\n\t\t\t\tbox-sizing: border-box !important;\n\t\t\t\theight: 44px;\n\t\t\t\tpadding-left: 16px !important;"
+    },
+    {
+      "source": "https://www.bobswatches.com/",
+      "selector": "body .search-autocomplete-products .allSearchResultsLink",
+      "declarations": "color: #0058ab;"
+    },
+    {
+      "source": "https://www.bobswatches.com/css/normalize.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;line-height:1.15;margin:0"
+    },
+    {
+      "source": "https://www.bobswatches.com/css/bootstrap.css",
+      "selector": "body",
+      "declarations": "margin:0;font-family:var(--bs-body-font-family);font-size:var(--bs-body-font-size);font-weight:var(--bs-body-font-weight);line-height:var(--bs-body-line-height);color:var(--bs-body-color);text-align:var(--bs-body-text-align);background-color:var(--bs-body-bg);-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:transparent"
+    },
+    {
+      "source": "https://www.bobswatches.com/css/bootstrap.css",
+      "selector": ".h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6",
+      "declarations": "margin-top:0;margin-bottom:.5rem;font-weight:500;line-height:1.2;color:var(--bs-heading-color)"
+    },
+    {
+      "source": "https://www.bobswatches.com/css/bootstrap.css",
+      "selector": "tbody,td,tfoot,th,thead,tr",
+      "declarations": "border-color:inherit;border-style:solid;border-width:0"
+    },
+    {
+      "source": "https://www.bobswatches.com/css/bootstrap.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "margin:0;font-family:inherit;font-size:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://www.bobswatches.com/css/bootstrap.css",
+      "selector": ":root",
+      "declarations": "--bs-breakpoint-xs:0;--bs-breakpoint-sm:576px;--bs-breakpoint-md:768px;--bs-breakpoint-lg:992px;--bs-breakpoint-xl:1200px;--bs-breakpoint-xxl:1400px"
+    },
+    {
+      "source": "https://www.bobswatches.com/css/bootstrap.css",
+      "selector": ".table-striped>tbody>tr:nth-of-type(odd)>*",
+      "declarations": "--bs-table-color-type:var(--bs-table-striped-color);--bs-table-bg-type:var(--bs-table-striped-bg)"
+    },
+    {
+      "source": "https://www.bobswatches.com/css/bootstrap.css",
+      "selector": ".table-hover>tbody>tr:hover>*",
+      "declarations": "--bs-table-color-state:var(--bs-table-hover-color);--bs-table-bg-state:var(--bs-table-hover-bg)"
+    },
+    {
+      "source": "https://www.bobswatches.com/css/bootstrap.css",
+      "selector": ".form-control::-webkit-file-upload-button",
+      "declarations": "padding:.375rem .75rem;margin:-.375rem -.75rem;-webkit-margin-end:.75rem;margin-inline-end:.75rem;color:var(--bs-body-color);background-color:var(--bs-tertiary-bg);pointer-events:none;border-color:inherit;border-style:solid;border-width:0;border-inline-end-width:var(--bs-border-width);border-radius:0;-webkit-transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out"
+    },
+    {
+      "source": "https://www.bobswatches.com/css/bootstrap.css",
+      "selector": ".form-control::file-selector-button",
+      "declarations": "padding:.375rem .75rem;margin:-.375rem -.75rem;-webkit-margin-end:.75rem;margin-inline-end:.75rem;color:var(--bs-body-color);background-color:var(--bs-tertiary-bg);pointer-events:none;border-color:inherit;border-style:solid;border-width:0;border-inline-end-width:var(--bs-border-width);border-radius:0;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out"
+    },
+    {
+      "source": "https://www.bobswatches.com/css/bootstrap.css",
+      "selector": ".form-control:hover:not(:disabled):not([readonly])::-webkit-file-upload-button",
+      "declarations": "background-color:var(--bs-secondary-bg)"
+    },
+    {
+      "source": "https://www.bobswatches.com/css/bootstrap.css",
+      "selector": ".form-control:hover:not(:disabled):not([readonly])::file-selector-button",
+      "declarations": "background-color:var(--bs-secondary-bg)"
+    },
+    {
+      "source": "https://www.bobswatches.com/css/bootstrap.css",
+      "selector": ".btn",
+      "declarations": "--bs-btn-padding-x:0.75rem;--bs-btn-padding-y:0.375rem;--bs-btn-font-family: ;--bs-btn-font-size:1rem;--bs-btn-font-weight:400;--bs-btn-line-height:1.5;--bs-btn-color:var(--bs-body-color);--bs-btn-bg:transparent;--bs-btn-border-width:var(--bs-border-width);--bs-btn-border-color:transparent;--bs-btn-border-radius:var(--bs-border-radius);--bs-btn-hover-border-color:transparent;--bs-btn-box-shadow:inset 0 1px 0 rgba(255, 255, 255, 0.15),0 1px 1px rgba(0, 0, 0, 0.075);--bs-btn-disabled-opacity:0.65;--bs-btn-focus-box-shadow:0 0 0 0.25rem rgba(var(--bs-btn-focus-shadow-rgb), .5);display:inline-block;padding:var(--bs-btn-padding-y) var(--bs-btn-padding-x);font-family:var(--bs-btn-font-family);font"
+    },
+    {
+      "source": "https://www.bobswatches.com/css/bootstrap.css",
+      "selector": ".btn:hover",
+      "declarations": "color:var(--bs-btn-hover-color);background-color:var(--bs-btn-hover-bg);border-color:var(--bs-btn-hover-border-color)"
+    },
+    {
+      "source": "https://www.bobswatches.com/css/bootstrap.css",
+      "selector": ".btn-check+.btn:hover",
+      "declarations": "color:var(--bs-btn-color);background-color:var(--bs-btn-bg);border-color:var(--bs-btn-border-color)"
+    },
+    {
+      "source": "https://www.bobswatches.com/css/bootstrap.css",
+      "selector": ".btn:focus-visible",
+      "declarations": "color:var(--bs-btn-hover-color);background-color:var(--bs-btn-hover-bg);border-color:var(--bs-btn-hover-border-color);outline:0;box-shadow:var(--bs-btn-focus-box-shadow)"
+    },
+    {
+      "source": "https://www.bobswatches.com/css/bootstrap.css",
+      "selector": ".btn-check:focus-visible+.btn",
+      "declarations": "border-color:var(--bs-btn-hover-border-color);outline:0;box-shadow:var(--bs-btn-focus-box-shadow)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Buy and Sell Pre Owned Luxury Watches | Bob's Watches",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bobswatches.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bobswatches.com/",
+        "https://www.bobswatches.com/css/bootstrap.css",
+        "https://www.bobswatches.com/css/style.css?v=20260925-124453",
+        "https://www.bobswatches.com/cirkuit/cms/css/frontend.php/.css?mobile=0&mobileUA=0&_v=1789662862"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bobswatches.com/",
+        "https://www.bobswatches.com/css/bootstrap.css",
+        "https://www.bobswatches.com/css/style.css?v=20260925-124453",
+        "https://www.bobswatches.com/cirkuit/tms/css/frontend.css?t=1&mobile=0&mobileUA=0&_v=1790168832"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bobswatches.com/",
+        "https://www.bobswatches.com/css/style.css?v=20260925-124453",
+        "https://www.bobswatches.com/cirkuit/tms/css/frontend.css?t=1&mobile=0&mobileUA=0&_v=1790168832"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bobswatches.com/",
+        "https://www.bobswatches.com/css/style.css?v=20260925-124453"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bobswatches.com/",
+        "https://www.bobswatches.com/css/style.css?v=20260925-124453"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bobswatches.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bobswatches.com/",
+        "https://www.bobswatches.com/css/style.css?v=20260925-124453"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bobswatches.com/",
+        "https://www.bobswatches.com/css/bootstrap.css",
+        "https://www.bobswatches.com/css/style.css?v=20260925-124453",
+        "https://www.bobswatches.com/cirkuit/tms/css/frontend.css?t=1&mobile=0&mobileUA=0&_v=1790168832"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bobswatches.com/",
+        "https://www.bobswatches.com/css/style.css?v=20260925-124453"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "colors.border-subtle": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bobswatches.com/css/bootstrap.css"
+      ]
+    },
+    "colors.dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bobswatches.com/",
+        "https://www.bobswatches.com/css/bootstrap.css",
+        "https://www.bobswatches.com/css/style.css?v=20260925-124453"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.authentication-badge": {
+      "status": "inferred"
+    }
+  }
+}

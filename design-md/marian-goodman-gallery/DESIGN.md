@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Marian Goodman Gallery
-description: |
+name: "Marian Goodman Gallery"
+source_url: "https://www.mariangoodman.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Acid yellow (#ffff80) appears with the abruptness of a Post-it note on a museum wall — a single high-voltage accent in a system that otherwise runs entirely on near-black (#111111), white (#ffffff), and gallery gray. The signal red (#da291c, deepening to #c52f24 on press) is the gallery's primary interactive color, marking current exhibition status, active navigation states, and the handful of CTAs that move users from browsing to inquiry. Typography is where the real design argument lives: Apercu — a geometric grotesque with the cleanliness of constructed letterforms — handles all navigational, institutional, and administrative text, while EB Garamond carries the curatorial register; this is not a decorative pairing but a structural one that maps the distinction between logistics and argument defining how a serious gallery communicates — exhibition dates, city slugs, and press archive labels in Apercu, wall-text prose and artist biography excerpts in EB Garamond. The two fonts rarely share a line. Corner radii are absent — {rounded.none} prevails everywhere except a minimal 2px softening on input fields. Depth arrives not from elevation or shadow but from hairline rules at {colors.hairline} (#eaeaea) separating sections of the grid. Exhibition cards carry a full-bleed image, an artist name in Apercu medium, a title in EB Garamond italic, and a date range — no price, no rating star, no review count. The institutional blue (#175ea9) surfaces only in legacy link contexts; the yellow (#ffff80) reserves itself for three specific hover states across the site — search suggestion rows, footer links, and pagination arrows — each a flash of the unexpected in an otherwise monochrome interaction model. Mid-grays (#5d5d5d for secondary labels, #777777 for tertiary metadata) carry gallery locations and past exhibition bylines without competing with the artwork images that define every hero moment. The spatial system is generous: section breaks at {spacing.section} (64px), side margins wider than any comparable site of comparable traffic, and image-to-text ratios weighted heavily toward the image.
 
 colors:
@@ -338,6 +341,8 @@ components:
 - Hero image always covers full width; text block anchors to bottom-left on desktop, bottom-full-width on mobile with reduced padding
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Apercu weight range not confirmed from extraction; Regular (400) and Medium (500) assumed; Bold (700) may exist but was not observed in extracted font stacks
 - Exact letter-spacing and line-height values for EB Garamond at display sizes are editorial estimates; extraction did not yield computed CSS values

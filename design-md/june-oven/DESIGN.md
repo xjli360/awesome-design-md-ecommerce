@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: June Oven
-description: June Oven’s design system is a study in deliberate warmth and precision, a digital reflection of a countertop appliance that promises to replace a dozen gadgets with one intelligent machine. The brand’s visual identity is anchored on a deep, almost ink-black canvas (`#121212`) that feels both premium and approachable, a backdrop against which its signature voltage — a vibrant, almost electric coral (`#ff5a3c`) — pulses with energy. This primary red-orange, used for primary CTAs, active states, and key product highlights, is not aggressive but confident, a warm invitation to cook. It sits alongside a cooler, more technical accent (`#1990c6`), a nod to the oven’s smart, app-connected nature. The typographic palette is a thoughtful blend: the clean, geometric sans-serif of Euclid Circular and Jost for headlines and navigation, conveying modernity and clarity, paired with the more editorial, serifed Publico Headline for body copy, adding a layer of warmth and culinary sophistication. Surfaces are rendered in soft, layered grays (`#f8f8f8`, `#dddee0`, `#dedede`) that build depth without harshness, while hairline borders (`#c3c5ce`) define cards and sections with a light touch. The overall feel is that of a high-end kitchen appliance brand that has fully embraced the digital age — minimal but not cold, technical but not sterile, with every `{rounded.sm}` corner and `{spacing.lg}` padding feeling intentional, designed to make the complex act of cooking feel simple and delightful.
+name: "June Oven"
+source_url: "https://juneoven.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  June Oven’s design system is a study in deliberate warmth and precision, a digital reflection of a countertop appliance that promises to replace a dozen gadgets with one intelligent machine. The brand’s visual identity is anchored on a deep, almost ink-black canvas (`#121212`) that feels both premium and approachable, a backdrop against which its signature voltage — a vibrant, almost electric coral (`#ff5a3c`) — pulses with energy. This primary red-orange, used for primary CTAs, active states, and key product highlights, is not aggressive but confident, a warm invitation to cook. It sits alongside a cooler, more technical accent (`#1990c6`), a nod to the oven’s smart, app-connected nature. The typographic palette is a thoughtful blend: the clean, geometric sans-serif of Euclid Circular and Jost for headlines and navigation, conveying modernity and clarity, paired with the more editorial, serifed Publico Headline for body copy, adding a layer of warmth and culinary sophistication. Surfaces are rendered in soft, layered grays (`#f8f8f8`, `#dddee0`, `#dedede`) that build depth without harshness, while hairline borders (`#c3c5ce`) define cards and sections with a light touch. The overall feel is that of a high-end kitchen appliance brand that has fully embraced the digital age — minimal but not cold, technical but not sterile, with every `{rounded.sm}` corner and `{spacing.lg}` padding feeling intentional, designed to make the complex act of cooking feel simple and delightful.
 
 colors:
   primary: "#ff5a3c"
@@ -325,6 +329,8 @@ components:
 - Search bar becomes full-width on mobile, losing its fixed-width constraint.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for many components (e.g., text-input, icon-button) are inferred from primary color usage but not explicitly documented.
 - Error styling for forms (e.g., validation messages, error icons) is not fully extracted.

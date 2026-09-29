@@ -1,0 +1,855 @@
+{
+  "source_url": "https://www.line6.com",
+  "final_url": "https://line6.com/",
+  "captured_at": "2026-09-28T04:41:29.381220+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.line6.com",
+      "final_url": "https://line6.com/",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "1cafb1a6f9d611a1c2f3ea83e1fab96126492c404c28c7413e185ee20bd79ef1",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://l6c-acdn2.line6.net/css/fonts.a77a7523.css",
+      "final_url": "https://l6c-acdn2.line6.net/css/fonts.a77a7523.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c1ae221b75201ae87d12fbee4c0b17ebde2af977461de6f8c8e8b4601f101656",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+      "final_url": "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d660bd980e18bfc21e0d1b8d212f461ef12eab8397b4dfe979666cf786048636",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://l6c-acdn2.line6.net/css/line6/2016/algolia.f0fca12b.css",
+      "final_url": "https://l6c-acdn2.line6.net/css/line6/2016/algolia.f0fca12b.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "71da8f8f7bada5a8057f3eb8e37e38cf6e677f2d588e2c6482d0f58d9af4fa65",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://l6c-acdn2.line6.net/css/line6/2016/font-awesome/4.6.1/font-awesome.css",
+      "final_url": "https://l6c-acdn2.line6.net/css/line6/2016/font-awesome/4.6.1/font-awesome.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d1933a71a9a0393ea31ec423bc258968fa2e47e2edc622efa028bea04f1f2cdf",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://l6c-acdn2.line6.net/css/line6/2016/hamburger.362e166a.css",
+      "final_url": "https://l6c-acdn2.line6.net/css/line6/2016/hamburger.362e166a.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c9e45e2c1c5cd489677424dfbf5fed27c826eb5069c65eb3fc2c42a324a38696",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 44,
+      "sources": [
+        "https://line6.com/",
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+        "https://l6c-acdn2.line6.net/css/line6/2016/algolia.f0fca12b.css",
+        "https://l6c-acdn2.line6.net/css/line6/2016/font-awesome/4.6.1/font-awesome.css"
+      ]
+    },
+    "#c10000": {
+      "count": 40,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+        "https://l6c-acdn2.line6.net/css/line6/2016/algolia.f0fca12b.css"
+      ]
+    },
+    "#00a5e1": {
+      "count": 37,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "#000000": {
+      "count": 36,
+      "sources": [
+        "https://line6.com/",
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+        "https://l6c-acdn2.line6.net/css/line6/2016/algolia.f0fca12b.css",
+        "https://l6c-acdn2.line6.net/css/line6/2016/hamburger.362e166a.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 24,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+        "https://l6c-acdn2.line6.net/css/line6/2016/algolia.f0fca12b.css"
+      ]
+    },
+    "#333333": {
+      "count": 24,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+        "https://l6c-acdn2.line6.net/css/line6/2016/algolia.f0fca12b.css"
+      ]
+    },
+    "#007099": {
+      "count": 19,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "#999999": {
+      "count": 11,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+        "https://l6c-acdn2.line6.net/css/line6/2016/algolia.f0fca12b.css"
+      ]
+    },
+    "#a15dff": {
+      "count": 7,
+      "sources": [
+        "https://line6.com/"
+      ]
+    },
+    "#bcbcbc": {
+      "count": 7,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 7,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+        "https://l6c-acdn2.line6.net/css/line6/2016/font-awesome/4.6.1/font-awesome.css"
+      ]
+    },
+    "#4d4d4d": {
+      "count": 7,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/algolia.f0fca12b.css"
+      ]
+    },
+    "#780000": {
+      "count": 6,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "#ca0000": {
+      "count": 6,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "#666666": {
+      "count": 5,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "#fefefe": {
+      "count": 5,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "#ff3c3c": {
+      "count": 4,
+      "sources": [
+        "https://line6.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 4,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "#ebebeb": {
+      "count": 4,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "#00a6e1": {
+      "count": 4,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "#cbcbcb": {
+      "count": 4,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "#555555": {
+      "count": 3,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 3,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "#1b1b1b": {
+      "count": 3,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "#e1e1e1": {
+      "count": 3,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 3,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+        "https://l6c-acdn2.line6.net/css/line6/2016/algolia.f0fca12b.css"
+      ]
+    },
+    "#737373": {
+      "count": 3,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/algolia.f0fca12b.css"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 3,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/algolia.f0fca12b.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 2,
+      "sources": [
+        "https://line6.com/"
+      ]
+    },
+    "#00a4ff": {
+      "count": 2,
+      "sources": [
+        "https://line6.com/"
+      ]
+    },
+    "#bebebe": {
+      "count": 2,
+      "sources": [
+        "https://line6.com/"
+      ]
+    },
+    "#595959": {
+      "count": 2,
+      "sources": [
+        "https://line6.com/",
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "#d918b947": {
+      "count": 2,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/fonts.a77a7523.css"
+      ]
+    },
+    "#70ac6679": {
+      "count": 2,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/fonts.a77a7523.css"
+      ]
+    },
+    "#50b0ff": {
+      "count": 2,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "#242424": {
+      "count": 2,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "#efefef": {
+      "count": 2,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "#111111": {
+      "count": 2,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "#777777": {
+      "count": 2,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "#fafafa": {
+      "count": 2,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "#888888": {
+      "count": 2,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "#9d9d9d": {
+      "count": 2,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 2,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "#ffe0e0": {
+      "count": 2,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/algolia.f0fca12b.css"
+      ]
+    },
+    "#a0a0a0": {
+      "count": 2,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/algolia.f0fca12b.css"
+      ]
+    },
+    "#01a4ff": {
+      "count": 1,
+      "sources": [
+        "https://line6.com/"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 1,
+      "sources": [
+        "https://line6.com/"
+      ]
+    },
+    "#59338b": {
+      "count": 1,
+      "sources": [
+        "https://line6.com/"
+      ]
+    },
+    "#8b2121": {
+      "count": 1,
+      "sources": [
+        "https://line6.com/"
+      ]
+    },
+    "#008000": {
+      "count": 1,
+      "sources": [
+        "https://line6.com/"
+      ]
+    },
+    "#969cd675": {
+      "count": 1,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/fonts.a77a7523.css"
+      ]
+    },
+    "#c573d9d0": {
+      "count": 1,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/fonts.a77a7523.css"
+      ]
+    },
+    "#bdbdbd": {
+      "count": 1,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "#d6d6d6": {
+      "count": 1,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "#c10001": {
+      "count": 1,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "#636363": {
+      "count": 1,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "#fcfcfc": {
+      "count": 1,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "#d7d7d7": {
+      "count": 1,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "#b0b0b0": {
+      "count": 1,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "#dadada": {
+      "count": 1,
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    }
+  },
+  "font_families": {
+    "FontAwesome": [
+      "https://l6c-acdn2.line6.net/css/line6/2016/font-awesome/4.6.1/font-awesome.css"
+    ],
+    "Glyphicons Halflings": [
+      "https://l6c-acdn2.line6.net/css/fonts.a77a7523.css"
+    ],
+    "Lucida Grande": [
+      "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+    ],
+    "TG-Bold": [
+      "https://l6c-acdn2.line6.net/css/fonts.a77a7523.css"
+    ],
+    "TG-Bold-Oblique": [
+      "https://l6c-acdn2.line6.net/css/fonts.a77a7523.css"
+    ],
+    "TG-Cond": [
+      "https://l6c-acdn2.line6.net/css/fonts.a77a7523.css"
+    ],
+    "TG-Light": [
+      "https://l6c-acdn2.line6.net/css/fonts.a77a7523.css"
+    ],
+    "TradeGothic": [
+      "https://l6c-acdn2.line6.net/css/fonts.a77a7523.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://line6.com/",
+      "selector": "max-height:600px;\nbackground-color:#000000;padding:45px 0;border-top:solid 8px #ff3c3c;\n#product-feedback",
+      "declarations": "background-color: black;\n  background-image: url(/images/home/idea-scale.jpg);\n  background-size: contain;\n  background-repeat: no-repeat;\n  color: white;\n  width: 100%;\n  height: 100%;\n  margin: 0;\n  padding: 30px;\n  display: inline-block;\n  vertical-align: top;"
+    },
+    {
+      "source": "https://line6.com/",
+      "selector": "#product-feedback .cta.primary",
+      "declarations": "border: 1px solid #fff;\n  background: transparent;\n  border-radius: 0;\n  color: #fff;"
+    },
+    {
+      "source": "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+      "selector": ".newproducts_box",
+      "declarations": "display: inline-block;\n  position: absolute;\n  margin-top: 10px;\n  left: 0;\n  background-color: #EBEBEB;\n  border-radius: 9px;\n  padding-top: 5px;\n  padding-bottom: 10px;\n  padding-left: 10px;\n  padding-right: 10px;\n  margin-bottom: 10px;\n  margin-right: 0px;\n  margin-left: 0px;"
+    },
+    {
+      "source": "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+      "selector": "a.clean_button,\ninput.clean_button",
+      "declarations": "padding: 5px 10px;\n  background-color: #DDD;\n  border: 1px solid #555;\n  color: #C10000;\n  font-family: \"Lucida Grande\";\n  font-size: 0.7em;"
+    },
+    {
+      "source": "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+      "selector": ".blue_button",
+      "declarations": "border-radius: 15px;\n  padding: 4px 18px;\n  font-size: 16px;\n  background-color: rgb(0, 112, 153);\n  color: white !important;\n  background-image: linear-gradient(bottom, rgb(0, 112, 153) 27%, rgb(0, 165, 225) 74%, rgb(0, 165, 225) 87%);\n  background-image: -o-linear-gradient(bottom, rgb(0, 112, 153) 27%, rgb(0, 165, 225) 74%, rgb(0, 165, 225) 87%);\n  background-image: -moz-linear-gradient(bottom, rgb(0, 112, 153) 27%, rgb(0, 165, 225) 74%, rgb(0, 165, 225) 87%);\n  background-image: -webkit-linear-gradient(bottom, rgb(0, 112, 153) 27%, rgb(0, 165, 225) 74%, rgb(0, 165, 225) 87%);\n  background-image: -ms-linear-gradient(bottom, rgb(0, 112, 153) 27%, rgb(0, 165, 225) 74%, rgb(0, 165, 225) 87%);"
+    },
+    {
+      "source": "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+      "selector": ".red_button",
+      "declarations": "border-radius: 15px;\n  padding: 4px 18px;\n  font-size: 16px;\n  background-color: #C10000;\n  color: white;\n  background-image: linear-gradient(bottom, rgb(120, 0, 0) 27%, rgb(193, 0, 0) 74%, rgb(202, 0, 0) 87%);\n  background-image: -o-linear-gradient(bottom, rgb(120, 0, 0) 27%, rgb(193, 0, 0) 74%, rgb(202, 0, 0) 87%);\n  background-image: -moz-linear-gradient(bottom, rgb(120, 0, 0) 27%, rgb(193, 0, 0) 74%, rgb(202, 0, 0) 87%);\n  background-image: -webkit-linear-gradient(bottom, rgb(120, 0, 0) 27%, rgb(193, 0, 0) 74%, rgb(202, 0, 0) 87%);\n  background-image: -ms-linear-gradient(bottom, rgb(120, 0, 0) 27%, rgb(193, 0, 0) 74%, rgb(202, 0, 0) 87%);\n  background-image: -webkit-gradient(linear, left"
+    },
+    {
+      "source": "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+      "selector": ".red_button.disabled",
+      "declarations": "background-color: #CCC;\n  background-image: none;\n  color: #AAA;"
+    },
+    {
+      "source": "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+      "selector": ".store_button,\n.section_nav a.blue_button,\n.blue_button a",
+      "declarations": "border-radius: 15px;\n  font-size: 18px;\n  padding: 4px 18px;\n  background-color: #C10000;\n  color: #FFF;"
+    },
+    {
+      "source": "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+      "selector": ".section_nav a.blue_button,\n.blue_button a",
+      "declarations": "background-color: #00a6e1;\n  background-image: linear-gradient(bottom, rgb(0, 112, 153) 27%, rgb(0, 165, 225) 74%, rgb(0, 165, 225) 87%);\n  background-image: -o-linear-gradient(bottom, rgb(0, 112, 153) 27%, rgb(0, 165, 225) 74%, rgb(0, 165, 225) 87%);\n  background-image: -moz-linear-gradient(bottom, rgb(0, 112, 153) 27%, rgb(0, 165, 225) 74%, rgb(0, 165, 225) 87%);\n  background-image: -webkit-linear-gradient(bottom, rgb(0, 112, 153) 27%, rgb(0, 165, 225) 74%, rgb(0, 165, 225) 87%);\n  background-image: -ms-linear-gradient(bottom, rgb(0, 112, 153) 27%, rgb(0, 165, 225) 74%, rgb(0, 165, 225) 87%);\n  background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0.27, rgb(0, 112, 1"
+    },
+    {
+      "source": "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+      "selector": ".generic-button-2021, a.cta[class^=\"cta reveal_open_\"]",
+      "declarations": "background-color: transparent !important;\n  border: 2px solid #000 !important;\n  padding: 10px 30px !important;\n  transition-duration: 0.2s;\n  color: #595959 !important;\n  line-height: 1.75 !important;\n  font-size: 16px !important;\n  height: auto !important;"
+    },
+    {
+      "source": "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+      "selector": ".generic-button-2021:hover, a.cta[class^=\"cta reveal_open_\"]:hover",
+      "declarations": "background-color: #333 !important;\n  color: #ccc !important;"
+    },
+    {
+      "source": "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+      "selector": ".generic-buy-button-2021",
+      "declarations": "background-color: #50b0ff !important;\n  border: 2px solid #50b0ff !important;\n  padding: 10px 30px !important;\n  transition-duration: 0.2s;\n  color: #ffffff !important;\n  line-height: 1.75 !important;\n  font-size: 16px !important;"
+    },
+    {
+      "source": "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+      "selector": ".generic-buy-button-2021:hover",
+      "declarations": "background-color: #333 !important;\n  border: 2px solid #333 !important;\n  color: #ccc !important;"
+    },
+    {
+      "source": "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+      "selector": ".find-a-dealer-button",
+      "declarations": "background-color: #333 !important;\n  border: 2px solid #333 !important;\n  padding: 10px 30px !important;\n  transition-duration: 0.2s;\n  color: #ccc !important;\n  line-height: 1.75 !important;\n  font-size: 16px !important;"
+    },
+    {
+      "source": "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+      "selector": ".find-a-dealer-button:hover",
+      "declarations": "background-color: #242424 !important;\n  border: 2px solid #242424 !important;\n  color: #bdbdbd !important;"
+    },
+    {
+      "source": "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+      "selector": ".store_button",
+      "declarations": "display: inline-block;\n  border-radius: 8px;\n  background-image: url(/images/store/btn_stretch.png);\n  background: linear-gradient(to bottom, rgba(155, 155, 155, 0.47) 0%, rgba(151, 151, 151, 0.43) 4%, rgba(87, 87, 87, 0.31) 8%, rgba(112, 112, 112, 0.32) 13%, rgba(105, 105, 105, 0.32) 17%, rgba(103, 103, 103, 0.31) 21%, rgba(76, 76, 76, 0.33) 50%, rgba(31, 31, 31, 0.25) 54%, rgba(0, 0, 0, 0.24) 58%, rgba(8, 8, 8, 0.25) 63%, rgba(0, 0, 0, 0.26) 67%, rgba(0, 0, 0, 0.28) 83%, rgba(3, 3, 3, 0.3) 88%, rgba(0, 0, 0, 0.31) 92%, rgba(20, 20, 20, 0.35) 96%, rgba(21, 21, 21, 0.39) 100%); \n  color: #FFFFFF;\n  font-size: 1em;\n  padding: 5px 10px;\n  text-decoration: none;\n  cursor: pointer;"
+    },
+    {
+      "source": "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+      "selector": ".store_buttonsm",
+      "declarations": "display: inline-block;\n  border-radius: 5px;\n  background-image: url(/images/store/btn_stretchsm.png);\n  color: #FFFFFF;\n  font-size: 10px;\n  padding: 1px 6px;\n  text-decoration: none;\n  cursor: pointer;"
+    },
+    {
+      "source": "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+      "selector": ".btn_gray",
+      "declarations": "background-color: #ccc;\n  text-shadow: 0px 0px 2px #000;"
+    },
+    {
+      "source": "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+      "selector": ".btn_gray:hover",
+      "declarations": "background-color: #aaa;"
+    },
+    {
+      "source": "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+      "selector": ".btn_red",
+      "declarations": "border-radius: 8px;\n  border: none;\n  background-image: url(/images/store/btn_stretch.png);\n  color: white;\n  font-size: 1em;\n  padding: 5px 10px;\n  text-decoration: none;\n  background-color: #C10000;\n  white-space: nowrap;"
+    },
+    {
+      "source": "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+      "selector": ".page_header",
+      "declarations": "background-color: black;"
+    },
+    {
+      "source": "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+      "selector": ".page_headline h1",
+      "declarations": "display: inline-block;\n  margin: 0;\n  margin-top: 30px;\n  font-size: 44px;\n  color: white;"
+    },
+    {
+      "source": "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+      "selector": ".section_links .blue_button",
+      "declarations": "border-radius: 15px;\n  padding-top: 4px;\n  padding-bottom: 4px;\n  padding-right: 12px;\n  padding-left: 12px;\n  background-color: #00a6e1;\n  color: white;"
+    },
+    {
+      "source": "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+      "selector": ".node_footer .section_links li.blue_button",
+      "declarations": "font-size: 0.8em;\n  border-radius: initial;\n  background-color: rgb(211, 211, 211);\n  background-image: initial;"
+    },
+    {
+      "source": "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+      "selector": ".section_html .htmlbody a.learn_more",
+      "declarations": "color: #C10000;"
+    },
+    {
+      "source": "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+      "selector": ".section_html .htmlbody .quote,\n.section_html .htmlbody .quote-source",
+      "declarations": "font-size: 1.4em;\n  line-height: 1.4em;\n  color: #888;"
+    },
+    {
+      "source": "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+      "selector": ".products h2",
+      "declarations": "border-bottom: 1px solid #333;\n  border-top: 1px solid #333;\n  padding: 10px 0;\n  margin-top: 10px;\n  font-size: 18px;\n  color: #333;"
+    },
+    {
+      "source": "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+      "selector": "ul.frontpage_news_buttons li",
+      "declarations": "border-bottom: none;\n  width: 8px;\n  min-height: 0;\n  height: 8px;\n  background-color: black;\n  border-radius: 8px;\n  padding: 0;"
+    },
+    {
+      "source": "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+      "selector": "ul.frontpage_news_buttons li.active",
+      "declarations": "background-color: red;"
+    },
+    {
+      "source": "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+      "selector": "#next_artist_button,\n#prev_artist_button",
+      "declarations": "padding: 7px 17px 7px 12px;\n  background-color: #333;\n  border-radius: 40px;\n  font-size: 26px;\n  margin: 10px;\n  color: #E1E1E1;\n  position: absolute;\n  top: 20px;\n  cursor: pointer;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Line 6 | Amp and Effects Processors, Effects Pedals, Guitar Amps, and more",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+        "https://l6c-acdn2.line6.net/css/line6/2016/algolia.f0fca12b.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://line6.com/",
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+        "https://l6c-acdn2.line6.net/css/line6/2016/algolia.f0fca12b.css",
+        "https://l6c-acdn2.line6.net/css/line6/2016/hamburger.362e166a.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://line6.com/",
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+        "https://l6c-acdn2.line6.net/css/line6/2016/algolia.f0fca12b.css",
+        "https://l6c-acdn2.line6.net/css/line6/2016/font-awesome/4.6.1/font-awesome.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+        "https://l6c-acdn2.line6.net/css/line6/2016/algolia.f0fca12b.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+        "https://l6c-acdn2.line6.net/css/line6/2016/algolia.f0fca12b.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+        "https://l6c-acdn2.line6.net/css/line6/2016/algolia.f0fca12b.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://line6.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://line6.com/",
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+        "https://l6c-acdn2.line6.net/css/line6/2016/algolia.f0fca12b.css",
+        "https://l6c-acdn2.line6.net/css/line6/2016/font-awesome/4.6.1/font-awesome.css"
+      ]
+    },
+    "colors.secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "colors.secondary-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://line6.com/"
+      ]
+    },
+    "colors.dark-surface": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+        "https://l6c-acdn2.line6.net/css/line6/2016/algolia.f0fca12b.css"
+      ]
+    },
+    "colors.dark-surface-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "colors.disabled-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css",
+        "https://l6c-acdn2.line6.net/css/line6/2016/algolia.f0fca12b.css"
+      ]
+    },
+    "colors.disabled-text": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://l6c-acdn2.line6.net/css/line6/2016/general.b65a9992.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.button-tertiary-dark": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.pedal-preset-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    }
+  }
+}

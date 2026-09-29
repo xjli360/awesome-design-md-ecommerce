@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Darrington Press
-description: A deep indigo #003388 anchors Darrington Press as the primary brand voltage — a color that reads as midnight library cloth, not corporate blue — and it carries every primary CTA, navigation link, and footer block across the site. The palette is deliberately restrained: a near-black #2f2f2f for body text, a softer #242429 for secondary copy, and a warm off-white #e6e7e0 for the canvas that gives the whole experience a paper-stock feel rather than a sterile digital white. Accents arrive sparingly: a bright amethyst #6c1cff for hover states and secondary buttons, a marigold #f0b849 for badge highlights and sale markers, and a muted lavender #c4b7c8 that surfaces in dividers and subtle backgrounds. Typography runs system-native — the site trusts the user's OS stack (San Francisco, Roboto, Open Sans) at modest weights, with body text at 16px and a generous 1.6 line height that mimics the comfortable leading of a printed rulebook. Cards use soft {rounded.sm} corners, while CTAs and badges take {rounded.md} — nothing is pill-shaped, preserving a slightly formal, bookish character. The layout is a single-column spine on mobile, expanding to a two-column grid on desktop with a persistent left-hand navigation that echoes a table of contents. There is no hero carousel, no full-bleed photography; instead, product imagery sits inside bordered cards with {rounded.sm} corners, and every link carries an underline on hover rather than a color shift. The overall effect is that of a publishing house's digital reading room — quiet, legible, and built for long sessions of browsing game titles and lore.
+name: "Darrington Press"
+source_url: "https://darringtonpress.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep indigo #003388 anchors Darrington Press as the primary brand voltage — a color that reads as midnight library cloth, not corporate blue — and it carries every primary CTA, navigation link, and footer block across the site. The palette is deliberately restrained: a near-black #2f2f2f for body text, a softer #242429 for secondary copy, and a warm off-white #e6e7e0 for the canvas that gives the whole experience a paper-stock feel rather than a sterile digital white. Accents arrive sparingly: a bright amethyst #6c1cff for hover states and secondary buttons, a marigold #f0b849 for badge highlights and sale markers, and a muted lavender #c4b7c8 that surfaces in dividers and subtle backgrounds. Typography runs system-native — the site trusts the user's OS stack (San Francisco, Roboto, Open Sans) at modest weights, with body text at 16px and a generous 1.6 line height that mimics the comfortable leading of a printed rulebook. Cards use soft {rounded.sm} corners, while CTAs and badges take {rounded.md} — nothing is pill-shaped, preserving a slightly formal, bookish character. The layout is a single-column spine on mobile, expanding to a two-column grid on desktop with a persistent left-hand navigation that echoes a table of contents. There is no hero carousel, no full-bleed photography; instead, product imagery sits inside bordered cards with {rounded.sm} corners, and every link carries an underline on hover rather than a color shift. The overall effect is that of a publishing house's digital reading room — quiet, legible, and built for long sessions of browsing game titles and lore.
 
 colors:
   primary: "#003388"
@@ -305,6 +309,8 @@ components:
 - Search bar collapses from inline to full-width below 744px, appearing below the nav
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted color list is unusually large (30+ hex values) and likely includes checkout-widget colors (Klarna, Afterpay), social-icon colors, and stock-image dominant tones. The true brand palette was inferred from the most frequently occurring and distinctive colors (#003388, #2f2f2f, #e6e7e0, #6c1cff, #f0b849, #c4b7c8). Several colors (#ff0000, #360309, #1d0210, #3b003b) appear to be image-dominant or edge-case colors and were excluded.
 - No custom font family was detected — the site relies entirely on system font stacks. The brand may use a custom typeface that is loaded via JavaScript or a CDN not captured in the CSS extraction.

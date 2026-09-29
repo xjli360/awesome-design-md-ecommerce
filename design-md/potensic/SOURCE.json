@@ -1,0 +1,943 @@
+{
+  "source_url": "https://potensic.com",
+  "final_url": "https://cn.potensic.com/",
+  "captured_at": "2026-09-28T04:25:50.506824+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://potensic.com",
+      "final_url": "https://cn.potensic.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "aaee152a886975497f834699d1f65bec11685293f14d1abfaebafff5e6941501",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "final_url": "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4614c9948f33d5b901cfc6ff3dfd2b2629a4213dcc2546057686a693a1489062",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "final_url": "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "de2f0c70827a9707f761a8a1a02d65b7eee80e330c6551b48074008bbb98b66c",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cn.potensic.com/css/Home_b666d0377e6275344d1a4a4b82fc1805.min.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "final_url": "https://cn.potensic.com/css/Home_b666d0377e6275344d1a4a4b82fc1805.min.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d311278169eea3e2d631dd650d1a321d0464124f9cd99fd217fa27645e623423",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cn.potensic.com/upload/css/42f9ac84a4884994802d24b2c47d04fd.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "final_url": "https://cn.potensic.com/upload/css/42f9ac84a4884994802d24b2c47d04fd.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "78d899fbbb5e0aea6889ff794157bfe9e76ddde30c77ef409f00d264312253d9",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cn.potensic.com/upload/css/333c1df3173048609ec37a83aa5df359.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "final_url": "https://cn.potensic.com/upload/css/333c1df3173048609ec37a83aa5df359.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5f07d43571a20235b2506061c9729d91179d32b8b3c75123aa8fcd45e60d7541",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 159,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+        "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+        "https://cn.potensic.com/css/Home_b666d0377e6275344d1a4a4b82fc1805.min.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+        "https://cn.potensic.com/upload/css/333c1df3173048609ec37a83aa5df359.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#999999": {
+      "count": 89,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+        "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#666666": {
+      "count": 80,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+        "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#000000": {
+      "count": 58,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+        "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+        "https://cn.potensic.com/css/Home_b666d0377e6275344d1a4a4b82fc1805.min.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+        "https://cn.potensic.com/upload/css/333c1df3173048609ec37a83aa5df359.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#409eff": {
+      "count": 39,
+      "sources": [
+        "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+        "https://cn.potensic.com/css/Home_b666d0377e6275344d1a4a4b82fc1805.min.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#333333": {
+      "count": 33,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+        "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#8b0c09": {
+      "count": 21,
+      "sources": [
+        "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#6c757d": {
+      "count": 20,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#28a745": {
+      "count": 17,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#dc3545": {
+      "count": 17,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#e1e1e1": {
+      "count": 16,
+      "sources": [
+        "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#f56c6c": {
+      "count": 16,
+      "sources": [
+        "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+        "https://cn.potensic.com/css/Home_b666d0377e6275344d1a4a4b82fc1805.min.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#212529": {
+      "count": 13,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#66b1ff": {
+      "count": 12,
+      "sources": [
+        "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#007bff": {
+      "count": 11,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#dddddd": {
+      "count": 11,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+        "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+        "https://cn.potensic.com/css/Home_b666d0377e6275344d1a4a4b82fc1805.min.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 11,
+      "sources": [
+        "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#9fceff": {
+      "count": 10,
+      "sources": [
+        "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#f8f9fa": {
+      "count": 9,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#ededed": {
+      "count": 9,
+      "sources": [
+        "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#495057": {
+      "count": 8,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+        "https://cn.potensic.com/css/Home_b666d0377e6275344d1a4a4b82fc1805.min.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#17a2b8": {
+      "count": 8,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#ffc107": {
+      "count": 8,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#343a40": {
+      "count": 8,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#dee2e6": {
+      "count": 8,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#cccccc": {
+      "count": 8,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+        "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+        "https://cn.potensic.com/css/Home_b666d0377e6275344d1a4a4b82fc1805.min.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#555555": {
+      "count": 7,
+      "sources": [
+        "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#ced4da": {
+      "count": 5,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+        "https://cn.potensic.com/css/Home_b666d0377e6275344d1a4a4b82fc1805.min.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#f5f5f7": {
+      "count": 5,
+      "sources": [
+        "https://cn.potensic.com/css/Home_b666d0377e6275344d1a4a4b82fc1805.min.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#f4f4f5": {
+      "count": 4,
+      "sources": [
+        "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#e9ecef": {
+      "count": 3,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#007aff": {
+      "count": 3,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+        "https://cn.potensic.com/upload/css/333c1df3173048609ec37a83aa5df359.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#1991fa": {
+      "count": 3,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#52ccba": {
+      "count": 3,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#f57a7a": {
+      "count": 3,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 3,
+      "sources": [
+        "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 3,
+      "sources": [
+        "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#313131": {
+      "count": 3,
+      "sources": [
+        "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#f1f5f8": {
+      "count": 3,
+      "sources": [
+        "https://cn.potensic.com/css/Home_b666d0377e6275344d1a4a4b82fc1805.min.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#34ce57": {
+      "count": 2,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#e4606d": {
+      "count": 2,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#0062cc": {
+      "count": 2,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#545b62": {
+      "count": 2,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#1e7e34": {
+      "count": 2,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#117a8b": {
+      "count": 2,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#d39e00": {
+      "count": 2,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#bd2130": {
+      "count": 2,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#dae0e5": {
+      "count": 2,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#1d2124": {
+      "count": 2,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#ffff00": {
+      "count": 2,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 2,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#30a7fd": {
+      "count": 2,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#1f98fc": {
+      "count": 2,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#d5d5d5": {
+      "count": 2,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#e6e8eb": {
+      "count": 2,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#f7f9fa": {
+      "count": 2,
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#efefef": {
+      "count": 2,
+      "sources": [
+        "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#338fee": {
+      "count": 2,
+      "sources": [
+        "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#ebebeb": {
+      "count": 2,
+      "sources": [
+        "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "#222a35": {
+      "count": 2,
+      "sources": [
+        "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+    ],
+    "Apple Color Emoji": [
+      "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+    ],
+    "Arial": [
+      "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "https://cn.potensic.com/css/Home_b666d0377e6275344d1a4a4b82fc1805.min.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+    ],
+    "BlinkMacSystemFont": [
+      "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+    ],
+    "Consolas": [
+      "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+    ],
+    "Courier New": [
+      "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+    ],
+    "Helvetica": [
+      "https://cn.potensic.com/css/Home_b666d0377e6275344d1a4a4b82fc1805.min.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+    ],
+    "Helvetica Neue": [
+      "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "https://cn.potensic.com/css/Home_b666d0377e6275344d1a4a4b82fc1805.min.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+    ],
+    "Liberation Mono": [
+      "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+    ],
+    "MS Trebuchet": [
+      "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+    ],
+    "Menlo": [
+      "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+    ],
+    "Monaco": [
+      "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+    ],
+    "Noto Color Emoji": [
+      "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+    ],
+    "Noto Sans": [
+      "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+    ],
+    "OpenSansBold": [
+      "https://cn.potensic.com/css/Home_b666d0377e6275344d1a4a4b82fc1805.min.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+    ],
+    "OpenSansLight": [
+      "https://cn.potensic.com/css/Home_b666d0377e6275344d1a4a4b82fc1805.min.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+    ],
+    "OpenSansRegular": [
+      "https://cn.potensic.com/css/Home_b666d0377e6275344d1a4a4b82fc1805.min.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+    ],
+    "OpenSansSemiBold": [
+      "https://cn.potensic.com/css/Home_b666d0377e6275344d1a4a4b82fc1805.min.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+    ],
+    "PingFang SC": [
+      "https://cn.potensic.com/css/Home_b666d0377e6275344d1a4a4b82fc1805.min.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+    ],
+    "Roboto": [
+      "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+    ],
+    "SF Pro Display": [
+      "https://cn.potensic.com/css/Home_b666d0377e6275344d1a4a4b82fc1805.min.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+    ],
+    "SF Pro Icons": [
+      "https://cn.potensic.com/css/Home_b666d0377e6275344d1a4a4b82fc1805.min.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+    ],
+    "SF Pro SC": [
+      "https://cn.potensic.com/css/Home_b666d0377e6275344d1a4a4b82fc1805.min.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+    ],
+    "SFMono-Regular": [
+      "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+    ],
+    "Segoe UI": [
+      "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+    ],
+    "Segoe UI Emoji": [
+      "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+    ],
+    "Segoe UI Symbol": [
+      "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+    ],
+    "arial": [
+      "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+    ],
+    "iconfont": [
+      "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+    ],
+    "monospace": [
+      "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+    ],
+    "monospace!important": [
+      "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+    ],
+    "sans-serif": [
+      "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "https://cn.potensic.com/css/Home_b666d0377e6275344d1a4a4b82fc1805.min.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+    ],
+    "swiper-icons": [
+      "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "selector": "body",
+      "declarations": "margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";font-size:1rem;font-weight:400;line-height:1.5;color:#212529;background-color:#fff"
+    },
+    {
+      "source": "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "margin:0;font-family:inherit;font-size:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "selector": ".btn",
+      "declarations": "color:#212529;text-align:center;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;background-color:transparent;border:0 solid transparent;padding:.375rem .75rem;font-size:1rem;line-height:1.5;border-radius:.25rem;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out"
+    },
+    {
+      "source": "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "selector": ".btn-primary",
+      "declarations": "color:#fff;background-color:#007bff;border-color:#007bff"
+    },
+    {
+      "source": "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "selector": ".btn-secondary",
+      "declarations": "color:#fff;background-color:#6c757d;border-color:#6c757d"
+    },
+    {
+      "source": "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "selector": ".btn-success",
+      "declarations": "color:#fff;background-color:#28a745;border-color:#28a745"
+    },
+    {
+      "source": "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "selector": ".btn-info",
+      "declarations": "color:#fff;background-color:#17a2b8;border-color:#17a2b8"
+    },
+    {
+      "source": "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "selector": ".btn-warning",
+      "declarations": "color:#212529;background-color:#ffc107;border-color:#ffc107"
+    },
+    {
+      "source": "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "selector": ".btn-danger",
+      "declarations": "color:#fff;background-color:#dc3545;border-color:#dc3545"
+    },
+    {
+      "source": "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "selector": ".btn-light",
+      "declarations": "color:#212529;background-color:#f8f9fa;border-color:#f8f9fa"
+    },
+    {
+      "source": "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "selector": ".btn-dark",
+      "declarations": "color:#fff;background-color:#343a40;border-color:#343a40"
+    },
+    {
+      "source": "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "selector": ".btn-outline-primary",
+      "declarations": "color:#007bff;border-color:#007bff"
+    },
+    {
+      "source": "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "selector": ".btn-outline-secondary",
+      "declarations": "color:#6c757d;border-color:#6c757d"
+    },
+    {
+      "source": "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "selector": ".btn-outline-success",
+      "declarations": "color:#28a745;border-color:#28a745"
+    },
+    {
+      "source": "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "selector": ".btn-outline-info",
+      "declarations": "color:#17a2b8;border-color:#17a2b8"
+    },
+    {
+      "source": "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "selector": ".btn-outline-warning",
+      "declarations": "color:#ffc107;border-color:#ffc107"
+    },
+    {
+      "source": "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "selector": ".btn-outline-danger",
+      "declarations": "color:#dc3545;border-color:#dc3545"
+    },
+    {
+      "source": "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "selector": ".btn-outline-light",
+      "declarations": "color:#f8f9fa;border-color:#f8f9fa"
+    },
+    {
+      "source": "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "selector": ".btn-outline-dark",
+      "declarations": "color:#343a40;border-color:#343a40"
+    },
+    {
+      "source": "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "selector": ".btn-link",
+      "declarations": "color:#007bff"
+    },
+    {
+      "source": "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "selector": ".btn-link.disabled,.btn-link:disabled",
+      "declarations": "color:#6c757d;pointer-events:none"
+    },
+    {
+      "source": "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "selector": ".dropdown-header",
+      "declarations": "display:block;padding:.5rem 1.5rem;margin-bottom:0;font-size:.875rem;color:#6c757d;white-space:nowrap"
+    },
+    {
+      "source": "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "selector": "button.close",
+      "declarations": "padding:0;background-color:transparent;border:0"
+    },
+    {
+      "source": "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "selector": "a.bg-primary:focus,a.bg-primary:hover,button.bg-primary:focus,button.bg-primary:hover",
+      "declarations": "background-color:#0062cc"
+    },
+    {
+      "source": "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "selector": "a.bg-secondary:focus,a.bg-secondary:hover,button.bg-secondary:focus,button.bg-secondary:hover",
+      "declarations": "background-color:#545b62"
+    },
+    {
+      "source": "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "selector": "a.bg-success:focus,a.bg-success:hover,button.bg-success:focus,button.bg-success:hover",
+      "declarations": "background-color:#1e7e34"
+    },
+    {
+      "source": "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "selector": "a.bg-info:focus,a.bg-info:hover,button.bg-info:focus,button.bg-info:hover",
+      "declarations": "background-color:#117a8b"
+    },
+    {
+      "source": "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "selector": "a.bg-warning:focus,a.bg-warning:hover,button.bg-warning:focus,button.bg-warning:hover",
+      "declarations": "background-color:#d39e00"
+    },
+    {
+      "source": "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "selector": "a.bg-danger:focus,a.bg-danger:hover,button.bg-danger:focus,button.bg-danger:hover",
+      "declarations": "background-color:#bd2130"
+    },
+    {
+      "source": "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+      "selector": "a.bg-light:focus,a.bg-light:hover,button.bg-light:focus,button.bg-light:hover",
+      "declarations": "background-color:#dae0e5"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "博坦无人机官方网站 - 年轻人的第一台无人机",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+        "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+        "https://cn.potensic.com/css/Home_b666d0377e6275344d1a4a4b82fc1805.min.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+        "https://cn.potensic.com/upload/css/333c1df3173048609ec37a83aa5df359.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+        "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+        "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "colors.divider-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "colors.surface-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+        "https://cn.potensic.com/css/site.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+        "https://cn.potensic.com/css/Home_b666d0377e6275344d1a4a4b82fc1805.min.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper",
+        "https://cn.potensic.com/upload/css/333c1df3173048609ec37a83aa5df359.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "colors.secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "colors.dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cn.potensic.com/npublic/libs/css/ceccbootstrap.min.css,global.css?instance=new2024050909140581543&viewType=p&v=1784886230000&siteType=oper"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-table": {
+      "status": "inferred"
+    }
+  }
+}

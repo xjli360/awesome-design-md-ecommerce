@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Hers
-description: A clinical-calm women's health brand that uses a single dark gray anchor — #313131 — as its primary color, an unusual choice for a category that typically leans pink, lavender, or pastel. That gray appears on primary buttons, navigation text, and key headings, lending a serious, pharmaceutical-grade authority to a brand that sells prescription treatments for hair loss, dermatology, and sexual wellness. The typography stack is the Apple system default — -apple-system, Helvetica Neue, and sans-serif — which means Hers deliberately avoids custom type in favor of maximum legibility and zero friction on iOS devices where most of its audience browses. White canvas (#ffffff) dominates the page, with soft gray dividers and hairline borders creating clean sectional breaks. The brand's visual language is closer to a modern telehealth dashboard than a beauty retailer: high-contrast text on white, generous vertical spacing, and a complete absence of decorative flourishes. Primary CTAs use the #313131 fill with white text at {rounded.sm} radius — not pill-shaped, not oversized, just a straightforward rectangle that says "this is a medical transaction, not a shopping spree." Product cards use {rounded.md} corners and thin 1px borders, with product imagery doing all the emotional work while the UI stays out of the way. The overall effect is trustworthy, unpretentious, and distinctly un-pink — a women's health brand that presents itself as medicine first, lifestyle second.
+name: "Hers"
+source_url: "https://forhers.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A clinical-calm women's health brand that uses a single dark gray anchor — #313131 — as its primary color, an unusual choice for a category that typically leans pink, lavender, or pastel. That gray appears on primary buttons, navigation text, and key headings, lending a serious, pharmaceutical-grade authority to a brand that sells prescription treatments for hair loss, dermatology, and sexual wellness. The typography stack is the Apple system default — -apple-system, Helvetica Neue, and sans-serif — which means Hers deliberately avoids custom type in favor of maximum legibility and zero friction on iOS devices where most of its audience browses. White canvas (#ffffff) dominates the page, with soft gray dividers and hairline borders creating clean sectional breaks. The brand's visual language is closer to a modern telehealth dashboard than a beauty retailer: high-contrast text on white, generous vertical spacing, and a complete absence of decorative flourishes. Primary CTAs use the #313131 fill with white text at {rounded.sm} radius — not pill-shaped, not oversized, just a straightforward rectangle that says "this is a medical transaction, not a shopping spree." Product cards use {rounded.md} corners and thin 1px borders, with product imagery doing all the emotional work while the UI stays out of the way. The overall effect is trustworthy, unpretentious, and distinctly un-pink — a women's health brand that presents itself as medicine first, lifestyle second.
 
 colors:
   primary: "#313131"
@@ -559,6 +563,8 @@ components:
 - Tab bars may scroll horizontally on mobile if tabs exceed viewport width
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one hex color (#313131) was extracted from the live site; the full color palette (secondary accents, hover states, error/success colors, link colors) has been inferred from common healthcare e-commerce patterns and may not match the actual brand implementation
 - No custom font family was detected; the site uses the Apple system font stack. If Hers has a custom typeface (e.g., for logo or display headings), it was not extracted

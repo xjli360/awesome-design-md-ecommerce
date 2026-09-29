@@ -1,0 +1,867 @@
+{
+  "source_url": "https://kwikset.com",
+  "final_url": "https://www.kwikset.com/",
+  "captured_at": "2026-09-28T09:37:48.704258+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://kwikset.com",
+      "final_url": "https://www.kwikset.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "538f67bc4d81a3be8f04addc56797219f5fd094ac48d69c5b471a17f071779a6",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.kwikset.com/dist/css/vendor.css?version=20260701201421",
+      "final_url": "https://www.kwikset.com/dist/css/vendor.css?version=20260701201421",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "686b4c5513c9542775986f080383fbda5084c57014feed7b167c7652fe79b8dc",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.kwikset.com/dist/css/global.css?version=20260701201421",
+      "final_url": "https://www.kwikset.com/dist/css/global.css?version=20260701201421",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e9fe6851532521e2df6c78a30747f21ab36cb40d71a767a5a6adbaecc0a3b23d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css",
+      "final_url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "8d321d88cb97fdedc3189506c25de9292c6e73a60ebaab496243346c6404480e",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+      "final_url": "https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "799aeb25cc0373fdee0e1b1db7ad6c2f6a0e058dfadaa3379689f583213190bd",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 219,
+      "sources": [
+        "https://www.kwikset.com/dist/css/vendor.css?version=20260701201421",
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421",
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css",
+        "https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+      ]
+    },
+    "#000000": {
+      "count": 178,
+      "sources": [
+        "https://www.kwikset.com/dist/css/vendor.css?version=20260701201421",
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#d90114": {
+      "count": 94,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 67,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#d2d2d2": {
+      "count": 25,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#f00016": {
+      "count": 22,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#181818": {
+      "count": 19,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 18,
+      "sources": [
+        "https://www.kwikset.com/",
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#e82337": {
+      "count": 17,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#626262": {
+      "count": 15,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#b1b1b1": {
+      "count": 13,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#dedede": {
+      "count": 11,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#cccccc": {
+      "count": 10,
+      "sources": [
+        "https://www.kwikset.com/dist/css/vendor.css?version=20260701201421",
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#d01b32": {
+      "count": 9,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#d11b32": {
+      "count": 9,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#1ca563": {
+      "count": 7,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#dddddd": {
+      "count": 7,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#e24747": {
+      "count": 6,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 6,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#474747": {
+      "count": 5,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#e4e1df": {
+      "count": 5,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 4,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#d90014": {
+      "count": 4,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#dfdfdf": {
+      "count": 4,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#eeeeee": {
+      "count": 4,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421",
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css",
+        "https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+      ]
+    },
+    "#3a3a3a": {
+      "count": 4,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#888888": {
+      "count": 3,
+      "sources": [
+        "https://www.kwikset.com/dist/css/vendor.css?version=20260701201421",
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#e9ebec": {
+      "count": 3,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 3,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#525252": {
+      "count": 3,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#2d2e32": {
+      "count": 3,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#333333": {
+      "count": 2,
+      "sources": [
+        "https://www.kwikset.com/dist/css/vendor.css?version=20260701201421",
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#3f3f3f": {
+      "count": 2,
+      "sources": [
+        "https://www.kwikset.com/dist/css/vendor.css?version=20260701201421"
+      ]
+    },
+    "#bdbdbd": {
+      "count": 2,
+      "sources": [
+        "https://www.kwikset.com/dist/css/vendor.css?version=20260701201421",
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 2,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 2,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#848484": {
+      "count": 2,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#999999": {
+      "count": 2,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 2,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#2c2c2c": {
+      "count": 2,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#3b99fc": {
+      "count": 2,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#7f7f7f": {
+      "count": 2,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#46474c": {
+      "count": 2,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#eff0f4": {
+      "count": 2,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#00aeef": {
+      "count": 2,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#007aff": {
+      "count": 2,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#cdcdcd": {
+      "count": 2,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#be1e1e": {
+      "count": 2,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#0b0b0b": {
+      "count": 1,
+      "sources": [
+        "https://www.kwikset.com/dist/css/vendor.css?version=20260701201421"
+      ]
+    },
+    "#444444": {
+      "count": 1,
+      "sources": [
+        "https://www.kwikset.com/dist/css/vendor.css?version=20260701201421"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 1,
+      "sources": [
+        "https://www.kwikset.com/dist/css/vendor.css?version=20260701201421"
+      ]
+    },
+    "#ffff00": {
+      "count": 1,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#c0c0c0": {
+      "count": 1,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#c5c5c5": {
+      "count": 1,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#94989c": {
+      "count": 1,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#3288cb": {
+      "count": 1,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#545353": {
+      "count": 1,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#242424": {
+      "count": 1,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#231f20": {
+      "count": 1,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 1,
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.kwikset.com/dist/css/vendor.css?version=20260701201421",
+      "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+    ],
+    "Baskerville": [
+      "https://www.kwikset.com/dist/css/vendor.css?version=20260701201421"
+    ],
+    "Font Awesome 5 Brands": [
+      "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    ],
+    "Font Awesome 5 Free": [
+      "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    ],
+    "Font Awesome 6 Brands": [
+      "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    ],
+    "Font Awesome 6 Free": [
+      "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css"
+    ],
+    "FontAwesome": [
+      "https://www.kwikset.com/dist/css/global.css?version=20260701201421",
+      "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css",
+      "https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+    ],
+    "Gotham": [
+      "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+    ],
+    "Gotham SSm A": [
+      "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+    ],
+    "Gotham SSm B": [
+      "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+    ],
+    "Pfont": [
+      "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+    ],
+    "Sans-Serif": [
+      "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+    ],
+    "Tahoma": [
+      "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+    ],
+    "icomoon": [
+      "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+    ],
+    "icomoon' !important": [
+      "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+    ],
+    "monospace": [
+      "https://www.kwikset.com/dist/css/vendor.css?version=20260701201421",
+      "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+    ],
+    "proxima-nova": [
+      "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+    ],
+    "sans-serif": [
+      "https://www.kwikset.com/dist/css/vendor.css?version=20260701201421",
+      "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+    ],
+    "slick": [
+      "https://www.kwikset.com/dist/css/vendor.css?version=20260701201421"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.kwikset.com/dist/css/vendor.css?version=20260701201421",
+      "selector": ".slick-dots li button",
+      "declarations": "font-size:0;line-height:0;display:block;width:20px;height:20px;padding:5px;cursor:pointer;color:transparent;border:0;outline:none;background:transparent"
+    },
+    {
+      "source": "https://www.kwikset.com/dist/css/vendor.css?version=20260701201421",
+      "selector": ".slick-dots li button:before",
+      "declarations": "font-family:'slick';font-size:6px;line-height:20px;position:absolute;top:0;left:0;width:20px;height:20px;content:'•';text-align:center;opacity:.25;color:black;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale"
+    },
+    {
+      "source": "https://www.kwikset.com/dist/css/vendor.css?version=20260701201421",
+      "selector": ".slick-dots li.slick-active button:before",
+      "declarations": "opacity:.75;color:black"
+    },
+    {
+      "source": "https://www.kwikset.com/dist/css/global.css?version=20260701201421",
+      "selector": ":root",
+      "declarations": "--scrollbar-width: 0px"
+    },
+    {
+      "source": "https://www.kwikset.com/dist/css/global.css?version=20260701201421",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0"
+    },
+    {
+      "source": "https://www.kwikset.com/dist/css/global.css?version=20260701201421",
+      "selector": "html,body,h1,h2,h3,h4,h5,h6,p,a,form,select,option,label",
+      "declarations": "font-family:'Gotham SSm A', 'Gotham SSm B', Tahoma, Sans-Serif;letter-spacing:-0.04em"
+    },
+    {
+      "source": "https://www.kwikset.com/dist/css/global.css?version=20260701201421",
+      "selector": ".weiserheader,.weiserfooter",
+      "declarations": "text-align:center;padding:10px 0;width:100%;background-color:#242424"
+    },
+    {
+      "source": "https://www.kwikset.com/dist/css/global.css?version=20260701201421",
+      "selector": "ink .stack__link--primary,.stack__ctas--link .stack__link--secondary,.stack__ctas--button .stack__link--primary,.stack__ctas--button .stack__link--secondary,.co",
+      "declarations": "font-size:1rem;display:inline-block;text-align:center;text-transform:uppercase;color:currentColor;font-weight:500;text-decoration:none;-webkit-transition:all 0.25s;transition:all 0.25s;letter-spacing:0.1em;line-height:1.2;-webkit-box-sizing:border-box;box-sizing:border-box;white-space:normal;cursor:pointer"
+    },
+    {
+      "source": "https://www.kwikset.com/dist/css/global.css?version=20260701201421",
+      "selector": ".btn--solid,.stack__ctas--link .stack__link--primary,.stack__ctas--button .stack__link--primary",
+      "declarations": "background:#d90114;color:#fff;border:1px solid #d90114;padding:14px 32px"
+    },
+    {
+      "source": "https://www.kwikset.com/dist/css/global.css?version=20260701201421",
+      "selector": ".btn--solid:hover,.stack__ctas--link .stack__link--primary:hover,.stack__ctas--button .stack__link--primary:hover",
+      "declarations": "background-color:#f00016;border-color:#f00016"
+    },
+    {
+      "source": "https://www.kwikset.com/dist/css/global.css?version=20260701201421",
+      "selector": ".btn--solid-darker",
+      "declarations": "background:#d01b32;border:1px solid #d01b32;padding:14px 32px;color:#ffffff"
+    },
+    {
+      "source": "https://www.kwikset.com/dist/css/global.css?version=20260701201421",
+      "selector": ".btn--solid-darker:hover",
+      "declarations": "background-color:#d90114;border-color:#d90114"
+    },
+    {
+      "source": "https://www.kwikset.com/dist/css/global.css?version=20260701201421",
+      "selector": ".btn--black",
+      "declarations": "background:#000;color:#fff;border:1px solid #000;padding:14px 32px"
+    },
+    {
+      "source": "https://www.kwikset.com/dist/css/global.css?version=20260701201421",
+      "selector": ".btn--black:hover",
+      "declarations": "background-color:#fff;border-color:#000;color:#000"
+    },
+    {
+      "source": "https://www.kwikset.com/dist/css/global.css?version=20260701201421",
+      "selector": ".btn--transparent:hover",
+      "declarations": "background-color:#f00016;border-color:#f00016;color:#fff"
+    },
+    {
+      "source": "https://www.kwikset.com/dist/css/global.css?version=20260701201421",
+      "selector": ".btn--jump-link",
+      "declarations": "font-family:\"Gotham SSm A\", \"Gotham SSm B\", Tahoma, sans-serif;font-weight:800;font-size:14px;line-height:16px;letter-spacing:2.4px;color:#000;position:relative"
+    },
+    {
+      "source": "https://www.kwikset.com/dist/css/global.css?version=20260701201421",
+      "selector": ".btn--jump-link:before",
+      "declarations": "font-size:1.375rem;line-height:1.18;letter-spacing:-0.4px;content:'\\f0ab';font-family:FontAwesome;display:inline-block;position:relative;color:#d90114;top:-4px;z-index:2;margin-right:0.3rem;vertical-align:top"
+    },
+    {
+      "source": "https://www.kwikset.com/dist/css/global.css?version=20260701201421",
+      "selector": ".btn--jump-link-white",
+      "declarations": "font-family:\"Gotham SSm A\", \"Gotham SSm B\", Tahoma, sans-serif;font-weight:800;font-size:14px;color:#fff;line-height:16px;letter-spacing:2.4px;position:relative"
+    },
+    {
+      "source": "https://www.kwikset.com/dist/css/global.css?version=20260701201421",
+      "selector": ".btn--jump-link-white:before",
+      "declarations": "font-size:1.375rem;line-height:1.18;letter-spacing:-0.4px;content:'\\f0ab';font-family:FontAwesome;display:inline-block;position:relative;color:#d90114;top:-4px;z-index:2;margin-right:0.3rem;vertical-align:top"
+    },
+    {
+      "source": "https://www.kwikset.com/dist/css/global.css?version=20260701201421",
+      "selector": ".btn--outline-white,.stack--dark .stack__ctas--button .stack__link,.content-and-media--inverted [class^=\"btn\"]",
+      "declarations": "border:1px solid #fff;padding:14px 32px;background:transparent;color:#fff"
+    },
+    {
+      "source": "https://www.kwikset.com/dist/css/global.css?version=20260701201421",
+      "selector": ".btn--outline-white:hover,.stack--dark .stack__ctas--button .stack__link:hover,.content-and-media--inverted :hover[class^=\"btn\"]",
+      "declarations": "background-color:#f00016;border-color:#f00016;color:#fff"
+    },
+    {
+      "source": "https://www.kwikset.com/dist/css/global.css?version=20260701201421",
+      "selector": ".btn--outline-red",
+      "declarations": "border:1px solid #d90114;padding:14px 32px;background:transparent;color:#d90114"
+    },
+    {
+      "source": "https://www.kwikset.com/dist/css/global.css?version=20260701201421",
+      "selector": ".btn--outline-red:hover",
+      "declarations": "background-color:#f00016;border-color:#f00016;color:#fff"
+    },
+    {
+      "source": "https://www.kwikset.com/dist/css/global.css?version=20260701201421",
+      "selector": ".btn--outline-black,.stack__ctas--link .stack__link--secondary,.stack__ctas--button .stack__link--secondary",
+      "declarations": "border:1px solid #000;padding:14px 32px;background:transparent;color:#000"
+    },
+    {
+      "source": "https://www.kwikset.com/dist/css/global.css?version=20260701201421",
+      "selector": ".btn--outline-black:hover,.stack__ctas--link .stack__link--secondary:hover,.stack__ctas--button .stack__link--secondary:hover",
+      "declarations": "background-color:#f00016;border-color:#f00016;color:#fff"
+    },
+    {
+      "source": "https://www.kwikset.com/dist/css/global.css?version=20260701201421",
+      "selector": ".btn--dark:hover",
+      "declarations": "background-color:#000;border-color:none;color:#fff"
+    },
+    {
+      "source": "https://www.kwikset.com/dist/css/global.css?version=20260701201421",
+      "selector": ".btn--text",
+      "declarations": "text-align:left;text-transform:none;background:transparent;border:none;color:currentColor;font-weight:400;text-decoration:none;border-bottom:1px solid rgba(0,0,0,0.25);letter-spacing:-0.04em"
+    },
+    {
+      "source": "https://www.kwikset.com/dist/css/global.css?version=20260701201421",
+      "selector": ".btn--text .fa",
+      "declarations": "color:#d90114"
+    },
+    {
+      "source": "https://www.kwikset.com/dist/css/global.css?version=20260701201421",
+      "selector": ".btn--text:hover",
+      "declarations": "border-bottom-color:#626262;color:#d90114"
+    },
+    {
+      "source": "https://www.kwikset.com/dist/css/global.css?version=20260701201421",
+      "selector": ".btn--view:after",
+      "declarations": "font-family:FontAwesome;content:'\\f138';color:#d90114;margin-left:0.5em"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Door Locks, Door Hardware, Smart Locks & Smartkey Technology | Kwikset",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "colors.primary-darker": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kwikset.com/dist/css/vendor.css?version=20260701201421",
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "colors.ink-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kwikset.com/dist/css/vendor.css?version=20260701201421",
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421",
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css",
+        "https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kwikset.com/dist/css/vendor.css?version=20260701201421",
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kwikset.com/",
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kwikset.com/dist/css/vendor.css?version=20260701201421",
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421",
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css",
+        "https://netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kwikset.com/dist/css/global.css?version=20260701201421"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.compatibility-badge": {
+      "status": "inferred"
+    }
+  }
+}

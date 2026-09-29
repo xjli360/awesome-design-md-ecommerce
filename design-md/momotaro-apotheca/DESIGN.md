@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Momotaro Apotheca
-description: A dusky rosewood palette anchored on #78555a — a muted, almost dusty mauve that reads as grown-up intimacy rather than clinical pink — and #e8ae9e, a warm salmon blush that surfaces in hover states, decorative borders, and the brand's signature "Shop by Concern" cards. The canvas is #ffede2, a soft cream that wraps the entire experience in a feeling of morning light through linen curtains, while #453f3f provides a near-black ink that keeps body copy legible without the harshness of pure #121212. Typography pairs Playfair Display for editorial headings — its bracketed serifs and high contrast lending a 19th-century apothecary gravity — with Archivo for UI labels and body copy, a geometric sans that stays neutral and trustworthy. Buttons use {rounded.full} pill shapes in the primary rosewood, while secondary CTAs invert to a transparent outline on the cream canvas. Product cards float on {rounded.lg} corners with soft shadows, and the persistent "Free Shipping over $50" banner sits in #e38c76 — a deeper coral that signals urgency without alarm. The brand avoids hard edges: every input, badge, and toggle uses at least {rounded.sm}, and the sticky nav collapses to a compact 56px on mobile with the cart icon and hamburger menu flanking the wordmark.
+name: "Momotaro Apotheca"
+source_url: "https://momotaroapotheca.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A dusky rosewood palette anchored on #78555a — a muted, almost dusty mauve that reads as grown-up intimacy rather than clinical pink — and #e8ae9e, a warm salmon blush that surfaces in hover states, decorative borders, and the brand's signature "Shop by Concern" cards. The canvas is #ffede2, a soft cream that wraps the entire experience in a feeling of morning light through linen curtains, while #453f3f provides a near-black ink that keeps body copy legible without the harshness of pure #121212. Typography pairs Playfair Display for editorial headings — its bracketed serifs and high contrast lending a 19th-century apothecary gravity — with Archivo for UI labels and body copy, a geometric sans that stays neutral and trustworthy. Buttons use {rounded.full} pill shapes in the primary rosewood, while secondary CTAs invert to a transparent outline on the cream canvas. Product cards float on {rounded.lg} corners with soft shadows, and the persistent "Free Shipping over $50" banner sits in #e38c76 — a deeper coral that signals urgency without alarm. The brand avoids hard edges: every input, badge, and toggle uses at least {rounded.sm}, and the sticky nav collapses to a compact 56px on mobile with the cart icon and hamburger menu flanking the wordmark.
 
 colors:
   primary: "#78555a"
@@ -316,6 +320,8 @@ components:
 - Announcement bar text truncates or scrolls on very narrow screens (< 400px)
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components could not be fully extracted; only primary and secondary buttons have confirmed hover colors
 - Error state styling for forms (validation messages, iconography) is inferred from the coral accent but not verified

@@ -1,0 +1,899 @@
+{
+  "source_url": "https://atlascoffeeclub.com",
+  "final_url": "https://atlascoffeeclub.com/",
+  "captured_at": "2026-09-28T09:26:55.538409+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://atlascoffeeclub.com",
+      "final_url": "https://atlascoffeeclub.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "211046c59d6917d8fc596c482c28cd4437505d36903a0d8573356e6fad6787b6",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://atlascoffeeclub.com/fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600;700&display=swap",
+      "final_url": "https://atlascoffeeclub.com/fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600;700&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "91add330444cb42203fc1fa65761a5b19023b36166dfe5e5d54d25fdcac63c88",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://atlascoffeeclub.com/fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap",
+      "final_url": "https://atlascoffeeclub.com/fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "ae18e20aeb52198ac4d614ac4eeaff1161b3724c351c3e528b5e26de1d776591",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://atlascoffeeclub.com/fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap",
+      "final_url": "https://atlascoffeeclub.com/fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "10f5f22c601c737292ddff2a232ccf1cd977b34e7cf80cb8bb214bae0ba548e9",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://atlascoffeeclub.com/fonts.googleapis.com/css2?family=Arsenal:ital,wght@0,400;0,700;1,400;1,700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap",
+      "final_url": "https://atlascoffeeclub.com/fonts.googleapis.com/css2?family=Arsenal:ital,wght@0,400;0,700;1,400;1,700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "5981c63b1322c97d79fc27fb8b91814e5ff4dc4d3e1fe5f488cebf82fc6eea02",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css",
+      "final_url": "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "321a17026fee4bcdf765db73c616127052a023f9c1b8d4f8f524f07a9c1777ad",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 58,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 35,
+      "sources": [
+        "https://atlascoffeeclub.com/",
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#252323": {
+      "count": 12,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#000000": {
+      "count": 11,
+      "sources": [
+        "https://atlascoffeeclub.com/",
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#f9e124": {
+      "count": 9,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#49865a": {
+      "count": 9,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#e88974": {
+      "count": 8,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#7d7d7d": {
+      "count": 7,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#333333": {
+      "count": 6,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 6,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#2c1f14": {
+      "count": 6,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#535252": {
+      "count": 4,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#ffea4e": {
+      "count": 4,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#fbf7ef": {
+      "count": 3,
+      "sources": [
+        "https://atlascoffeeclub.com/",
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#898989": {
+      "count": 3,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#212121": {
+      "count": 3,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#959595": {
+      "count": 3,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#285444": {
+      "count": 3,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#6f6f6f": {
+      "count": 3,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#c2410c": {
+      "count": 3,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#e0d8cc": {
+      "count": 3,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#2523230f": {
+      "count": 3,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#f15043": {
+      "count": 3,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#d4ebf0": {
+      "count": 3,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#f3ead7": {
+      "count": 3,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#4b5563": {
+      "count": 3,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#f9f2e7": {
+      "count": 3,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#f9f8f4": {
+      "count": 2,
+      "sources": [
+        "https://atlascoffeeclub.com/"
+      ]
+    },
+    "#467c99": {
+      "count": 2,
+      "sources": [
+        "https://atlascoffeeclub.com/"
+      ]
+    },
+    "#38637a": {
+      "count": 2,
+      "sources": [
+        "https://atlascoffeeclub.com/"
+      ]
+    },
+    "#90b0c2": {
+      "count": 2,
+      "sources": [
+        "https://atlascoffeeclub.com/"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 2,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 2,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#1199ff": {
+      "count": 2,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#444444": {
+      "count": 2,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 2,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#ff6f60": {
+      "count": 2,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#696767": {
+      "count": 2,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#c7c0bc": {
+      "count": 2,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#e2dfdf": {
+      "count": 2,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#fbfbfb": {
+      "count": 2,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#c4c4c4": {
+      "count": 2,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#00000080": {
+      "count": 2,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#161616": {
+      "count": 2,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#262323": {
+      "count": 2,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#485cc7": {
+      "count": 2,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#496c61": {
+      "count": 2,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#c14311": {
+      "count": 2,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#c24311": {
+      "count": 2,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#c4180d": {
+      "count": 2,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#d94035": {
+      "count": 2,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#ffffffcc": {
+      "count": 2,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#f1f2f7": {
+      "count": 2,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#fcfdfc": {
+      "count": 2,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#3291a6": {
+      "count": 2,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#c5180d": {
+      "count": 2,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#496c61dd": {
+      "count": 2,
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "#6b96ad": {
+      "count": 1,
+      "sources": [
+        "https://atlascoffeeclub.com/"
+      ]
+    },
+    "#b5cbd6": {
+      "count": 1,
+      "sources": [
+        "https://atlascoffeeclub.com/"
+      ]
+    },
+    "#d1dee6": {
+      "count": 1,
+      "sources": [
+        "https://atlascoffeeclub.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+    ],
+    "Apple Color Emoji": [
+      "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+    ],
+    "Arial": [
+      "https://atlascoffeeclub.com/",
+      "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+    ],
+    "Arsenal": [
+      "https://atlascoffeeclub.com/fonts.googleapis.com/css2?family=Arsenal:ital,wght@0,400;0,700;1,400;1,700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap",
+      "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+    ],
+    "Barlow": [
+      "https://atlascoffeeclub.com/fonts.googleapis.com/css2?family=Barlow:wght@400;500;600;700&display=swap",
+      "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+    ],
+    "BlinkMacSystemFont": [
+      "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+    ],
+    "Consolas": [
+      "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+    ],
+    "Courier New": [
+      "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+    ],
+    "Dancing Script": [
+      "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+    ],
+    "FreeSans": [
+      "https://atlascoffeeclub.com/"
+    ],
+    "Helvetica": [
+      "https://atlascoffeeclub.com/",
+      "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+    ],
+    "Helvetica Neue": [
+      "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+    ],
+    "Inter": [
+      "https://atlascoffeeclub.com/fonts.googleapis.com/css2?family=Arsenal:ital,wght@0,400;0,700;1,400;1,700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+    ],
+    "Jost": [
+      "https://atlascoffeeclub.com/fonts.googleapis.com/css2?family=Jost:wght@300;400;500;600;700&display=swap",
+      "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+    ],
+    "Liberation Mono": [
+      "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+    ],
+    "Menlo": [
+      "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+    ],
+    "Monaco": [
+      "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+    ],
+    "Noto Color Emoji": [
+      "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+    ],
+    "Noto Sans": [
+      "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+    ],
+    "Open Sans": [
+      "https://atlascoffeeclub.com/fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap",
+      "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+    ],
+    "Roboto": [
+      "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+    ],
+    "SFMono-Regular": [
+      "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+    ],
+    "Segoe UI": [
+      "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+    ],
+    "Segoe UI Emoji": [
+      "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+    ],
+    "Segoe UI Symbol": [
+      "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+    ],
+    "blinkmacsystemfont": [
+      "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+    ],
+    "cantarell": [
+      "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+    ],
+    "monospace": [
+      "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+    ],
+    "oxygen": [
+      "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+    ],
+    "roboto": [
+      "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+    ],
+    "sans-serif": [
+      "https://atlascoffeeclub.com/",
+      "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+    ],
+    "sans-serif!important": [
+      "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+    ],
+    "system-ui": [
+      "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+    ],
+    "ubuntu": [
+      "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+    ],
+    "ui-monospace": [
+      "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+    ],
+    "ui-sans-serif": [
+      "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-feature-settings:inherit;font-variation-settings:inherit;font-size:100%;font-weight:inherit;line-height:inherit;letter-spacing:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css",
+      "selector": "button,input:where([type=button]),input:where([type=reset]),input:where([type=submit])",
+      "declarations": "-webkit-appearance:button;background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css",
+      "selector": ".flickity-button",
+      "declarations": "position:absolute;background:#ffffffbf;border:none;color:#333"
+    },
+    {
+      "source": "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css",
+      "selector": ".btn-facebook-messenger",
+      "declarations": "background-color:#0084ff;color:#fff;border-radius:4px;text-align:center;vertical-align:middle;padding:7px 21px;font-size:14px;width:100%;transition:color .6s"
+    },
+    {
+      "source": "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css",
+      "selector": ".btn-facebook",
+      "declarations": "background-color:#3b5998;color:#fff;border-radius:4px;text-align:center;vertical-align:middle;padding:7px 21px;font-size:14px;width:100%;transition:color .6s"
+    },
+    {
+      "source": "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css",
+      "selector": ".btn:hover",
+      "declarations": "color:#000;fill:#000"
+    },
+    {
+      "source": "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css",
+      "selector": ".button-yellow",
+      "declarations": "background-color:#e6ca24;color:#fff!important;letter-spacing:.1em;padding:0 20px;font-size:16px;line-height:50px;font-weight:700;border-radius:4px"
+    },
+    {
+      "source": "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css",
+      "selector": ".button-yellow:hover",
+      "declarations": "background-color:#c5ac13;transition:all .2s"
+    },
+    {
+      "source": "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css",
+      "selector": "dy-lg-reg,.text-body-md-bold,.text-body-md-reg,.text-body-sm-bold,.text-body-sm-medium,.text-body-sm-reg,.text-body-xs-bold,.text-body-xs,.text-legal-xs,.text-q",
+      "declarations": "font-family:Open Sans,Helvetica,Arial,sans-serif"
+    },
+    {
+      "source": "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css",
+      "selector": ".button.button--primary",
+      "declarations": "width:100%;border-width:1px;--tw-border-opacity: 1;border-color:rgb(249 225 36 / var(--tw-border-opacity, 1));--tw-bg-opacity: 1;background-color:rgb(249 225 36 / var(--tw-bg-opacity, 1));--tw-text-opacity: 1;color:rgb(37 35 35 / var(--tw-text-opacity, 1))"
+    },
+    {
+      "source": "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css",
+      "selector": ".button.button--primary:hover",
+      "declarations": "--tw-border-opacity: 1;border-color:rgb(255 227 126 / var(--tw-border-opacity, 1));--tw-bg-opacity: 1;background-color:rgb(255 227 126 / var(--tw-bg-opacity, 1))"
+    },
+    {
+      "source": "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css",
+      "selector": ".button.button--primary:disabled",
+      "declarations": "--tw-bg-opacity: 1;background-color:rgb(125 125 125 / var(--tw-bg-opacity, 1));--tw-text-opacity: 1;color:rgb(214 214 214 / var(--tw-text-opacity, 1))"
+    },
+    {
+      "source": "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css",
+      "selector": ".button.button--primary.success",
+      "declarations": "--tw-bg-opacity: 1;background-color:rgb(73 134 90 / var(--tw-bg-opacity, 1));--tw-text-opacity: 1;color:rgb(255 255 255 / var(--tw-text-opacity, 1))"
+    },
+    {
+      "source": "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css",
+      "selector": ".button.button--primary.success:hover",
+      "declarations": "--tw-bg-opacity: 1;background-color:rgb(186 217 186 / var(--tw-bg-opacity, 1));--tw-text-opacity: 1;color:rgb(37 35 35 / var(--tw-text-opacity, 1))"
+    },
+    {
+      "source": "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css",
+      "selector": ".button.button--primary.error",
+      "declarations": "--tw-bg-opacity: 1;background-color:rgb(232 137 116 / var(--tw-bg-opacity, 1));--tw-text-opacity: 1;color:rgb(255 255 255 / var(--tw-text-opacity, 1))"
+    },
+    {
+      "source": "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css",
+      "selector": ".button.button--primary.error:hover",
+      "declarations": "--tw-bg-opacity: 1;background-color:rgb(255 178 140 / var(--tw-bg-opacity, 1));--tw-text-opacity: 1;color:rgb(37 35 35 / var(--tw-text-opacity, 1))"
+    },
+    {
+      "source": "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css",
+      "selector": ".button.button--secondary",
+      "declarations": "width:100%;border-width:1px;border-color:transparent;--tw-bg-opacity: 1;background-color:rgb(37 35 35 / var(--tw-bg-opacity, 1));--tw-text-opacity: 1;color:rgb(255 255 255 / var(--tw-text-opacity, 1))"
+    },
+    {
+      "source": "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css",
+      "selector": ".button.button--secondary:hover",
+      "declarations": "--tw-border-opacity: 1;border-color:rgb(37 35 35 / var(--tw-border-opacity, 1));background-color:transparent;--tw-text-opacity: 1;color:rgb(37 35 35 / var(--tw-text-opacity, 1))"
+    },
+    {
+      "source": "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css",
+      "selector": ".button.button--secondary:disabled",
+      "declarations": "--tw-border-opacity: 1;border-color:rgb(214 214 214 / var(--tw-border-opacity, 1));background-color:transparent;--tw-text-opacity: 1;color:rgb(214 214 214 / var(--tw-text-opacity, 1))"
+    },
+    {
+      "source": "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css",
+      "selector": ".button.button--secondary--alt:hover",
+      "declarations": "background-color:#f9e124"
+    },
+    {
+      "source": "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css",
+      "selector": ".button.button--success",
+      "declarations": "pointer-events:none;width:100%;border-width:1px;border-color:transparent;--tw-bg-opacity: 1;background-color:rgb(73 134 90 / var(--tw-bg-opacity, 1));--tw-text-opacity: 1;color:rgb(255 255 255 / var(--tw-text-opacity, 1))"
+    },
+    {
+      "source": "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css",
+      "selector": ".button.button--success:disabled",
+      "declarations": "--tw-border-opacity: 1;border-color:rgb(214 214 214 / var(--tw-border-opacity, 1));--tw-bg-opacity: 1;background-color:rgb(186 217 186 / var(--tw-bg-opacity, 1));--tw-text-opacity: 1;color:rgb(214 214 214 / var(--tw-text-opacity, 1))"
+    },
+    {
+      "source": "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css",
+      "selector": ".button.button--ghost",
+      "declarations": "border-width:2px;--tw-border-opacity: 1;border-color:rgb(37 35 35 / var(--tw-border-opacity, 1));background-color:transparent;--tw-text-opacity: 1;color:rgb(37 35 35 / var(--tw-text-opacity, 1))"
+    },
+    {
+      "source": "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css",
+      "selector": ".button.button--link",
+      "declarations": "border-radius:0;padding:0;--tw-text-opacity: 1;color:rgb(37 35 35 / var(--tw-text-opacity, 1));text-decoration-line:underline;text-underline-offset:4px"
+    },
+    {
+      "source": "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css",
+      "selector": ".button.disabled,.button[disabled]",
+      "declarations": "pointer-events:none;cursor:none;--tw-bg-opacity: 1;background-color:rgb(125 125 125 / var(--tw-bg-opacity, 1));--tw-text-opacity: 1;color:rgb(214 214 214 / var(--tw-text-opacity, 1))"
+    },
+    {
+      "source": "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css",
+      "selector": ".button-sm",
+      "declarations": "border-radius:1rem;border-width:1.5px;--tw-border-opacity: 1;border-color:rgb(37 35 35 / var(--tw-border-opacity, 1));padding:1rem 1.5rem;font-size:14px;line-height:110%;letter-spacing:.085em;font-weight:700;text-transform:uppercase"
+    },
+    {
+      "source": "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css",
+      "selector": ".button-sm:hover",
+      "declarations": "--tw-bg-opacity: 1;background-color:rgb(37 35 35 / var(--tw-bg-opacity, 1));--tw-text-opacity: 1;color:rgb(255 255 255 / var(--tw-text-opacity, 1))"
+    },
+    {
+      "source": "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css",
+      "selector": ".button-xs",
+      "declarations": "border-radius:1rem;border-width:1.5px;--tw-border-opacity: 1;border-color:rgb(37 35 35 / var(--tw-border-opacity, 1));padding:.25rem .5rem;font-size:11px;line-height:100%;letter-spacing:.085em;font-weight:700;text-transform:uppercase"
+    },
+    {
+      "source": "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css",
+      "selector": ".button-xs[disabled]",
+      "declarations": "cursor:not-allowed;--tw-border-opacity: 1;border-color:rgb(214 214 214 / var(--tw-border-opacity, 1));--tw-text-opacity: 1;color:rgb(214 214 214 / var(--tw-text-opacity, 1))"
+    },
+    {
+      "source": "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css",
+      "selector": ".button-xs[disabled]:hover",
+      "declarations": "background-color:transparent;--tw-text-opacity: 1;color:rgb(214 214 214 / var(--tw-text-opacity, 1))"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Atlas Coffee Club® | The Best Coffee Subscription, Rated #1",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://atlascoffeeclub.com/",
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://atlascoffeeclub.com/",
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "colors.error": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "colors.accent-terracotta": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://atlascoffeeclub.com/cdn/shop/t/243/assets/global-CWRyW5Wm.min.css"
+      ]
+    },
+    "colors.accent-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://atlascoffeeclub.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.subscription-plan-card": {
+      "status": "inferred"
+    }
+  }
+}

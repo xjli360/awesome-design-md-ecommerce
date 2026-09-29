@@ -1,0 +1,539 @@
+{
+  "source_url": "https://littlespoon.com",
+  "final_url": "https://www.littlespoon.com/",
+  "captured_at": "2026-09-28T04:24:16.544986+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://littlespoon.com",
+      "final_url": "https://www.littlespoon.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "e5c4f618485b74076c8979ef5cc1bce827580b3d1a50a94342f68c0077bcbd41",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.littlespoon.com/_next/static/chunks/0i_xd-i0_-xph.css",
+      "final_url": "https://www.littlespoon.com/_next/static/chunks/0i_xd-i0_-xph.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "f6448fb6927002a04b1f75fb021476f0fa3f1a9a6a4a547422703b81d6babf10",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.littlespoon.com/_next/static/chunks/12i99dbf90wg7.css",
+      "final_url": "https://www.littlespoon.com/_next/static/chunks/12i99dbf90wg7.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "c2c551e2571b36b39d4600ef52c5bc9089b68197fb120fc55843faa477712213",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 35,
+      "sources": [
+        "https://www.littlespoon.com/",
+        "https://www.littlespoon.com/_next/static/chunks/12i99dbf90wg7.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 34,
+      "sources": [
+        "https://www.littlespoon.com/",
+        "https://www.littlespoon.com/_next/static/chunks/12i99dbf90wg7.css"
+      ]
+    },
+    "#757575": {
+      "count": 12,
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "#424242": {
+      "count": 7,
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 6,
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "#141414": {
+      "count": 5,
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "#00e3cd": {
+      "count": 5,
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "#fbf7e8": {
+      "count": 4,
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 4,
+      "sources": [
+        "https://www.littlespoon.com/_next/static/chunks/12i99dbf90wg7.css"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 3,
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "#2763c4": {
+      "count": 3,
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "#b8f7f1": {
+      "count": 3,
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "#004039": {
+      "count": 3,
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "#2ecab1": {
+      "count": 2,
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "#d8d8d833": {
+      "count": 2,
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "#2a313f": {
+      "count": 2,
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "#686868": {
+      "count": 2,
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "#ff8ff5": {
+      "count": 2,
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "#fffef8": {
+      "count": 2,
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "#2e2e2e": {
+      "count": 2,
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "#4e5562": {
+      "count": 1,
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "#cdcdcd": {
+      "count": 1,
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "#fbfbfb": {
+      "count": 1,
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "#adadad": {
+      "count": 1,
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "#18a7ff": {
+      "count": 1,
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "#7b7b7b": {
+      "count": 1,
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "#dc7bff": {
+      "count": 1,
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "#c2ff7f": {
+      "count": 1,
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "#00f9b8": {
+      "count": 1,
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "#78f3e7": {
+      "count": 1,
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "#e8fffd": {
+      "count": 1,
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "#bef291": {
+      "count": 1,
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "#fdd68b": {
+      "count": 1,
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "#d4b0f0": {
+      "count": 1,
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "#96efc3": {
+      "count": 1,
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "#ff9779": {
+      "count": 1,
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "Lato": [
+      "https://www.littlespoon.com/",
+      "https://www.littlespoon.com/_next/static/chunks/0i_xd-i0_-xph.css"
+    ],
+    "Mulish": [
+      "https://www.littlespoon.com/",
+      "https://www.littlespoon.com/_next/static/chunks/0i_xd-i0_-xph.css"
+    ],
+    "sans-serif": [
+      "https://www.littlespoon.com/"
+    ],
+    "slick": [
+      "https://www.littlespoon.com/_next/static/chunks/12i99dbf90wg7.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.littlespoon.com/",
+      "selector": "button,input",
+      "declarations": "font-family:Lato,sans-serif;letter-spacing:0.4px;"
+    },
+    {
+      "source": "https://www.littlespoon.com/",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "font-weight:900;font-family:Mulish,sans-serif;font-style:normal;"
+    },
+    {
+      "source": "https://www.littlespoon.com/",
+      "selector": ".hDrAWn:hover >a,.hDrAWn:hover button",
+      "declarations": "color:#000000;"
+    },
+    {
+      "source": "https://www.littlespoon.com/",
+      "selector": ".dQJjUp .slick-dots li button",
+      "declarations": "width:1rem;height:1rem;padding:0;border:none;border-radius:50%;background-color:#E0E0E0;cursor:pointer;-webkit-transition:background-color 0.3s ease;transition:background-color 0.3s ease;"
+    },
+    {
+      "source": "https://www.littlespoon.com/",
+      "selector": ".dQJjUp .slick-dots li.slick-active button",
+      "declarations": "background-color:#7B7B7B;"
+    },
+    {
+      "source": "https://www.littlespoon.com/_next/static/chunks/12i99dbf90wg7.css",
+      "selector": ".slick-dots li button",
+      "declarations": "cursor:pointer;color:#0000;background:0 0;border:0;outline:none;width:20px;height:20px;padding:5px;font-size:0;line-height:0;display:block"
+    },
+    {
+      "source": "https://www.littlespoon.com/_next/static/chunks/12i99dbf90wg7.css",
+      "selector": ".slick-dots li button:before",
+      "declarations": "content:\"•\";text-align:center;opacity:.25;color:#000;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;width:20px;height:20px;font-family:slick;font-size:6px;line-height:20px;position:absolute;top:0;left:0"
+    },
+    {
+      "source": "https://www.littlespoon.com/_next/static/chunks/12i99dbf90wg7.css",
+      "selector": ".slick-dots li.slick-active button:before",
+      "declarations": "opacity:.75;color:#000"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Organic Baby Food | Healthy Toddler & Kids Meals + Snacks Delivery | Little Spoon",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.littlespoon.com/",
+        "https://www.littlespoon.com/_next/static/chunks/12i99dbf90wg7.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "colors.accent-coral": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "colors.accent-purple": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "colors.accent-lime": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "colors.accent-mint": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "colors.deep-navy": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.littlespoon.com/"
+      ]
+    },
+    "colors.overlay-transparent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.littlespoon.com/_next/static/chunks/12i99dbf90wg7.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.plan-selector": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Maison Louis Marie
-description: Maison Louis Marie is a luxury clean fragrance house that speaks in whispers rather than shouts, using a restrained palette of deep charcoals and warm neutrals to let the product — and the story behind each scent — command attention. The brand's visual language is anchored on a near-black ink (`#191919`) and a soft, almost-white canvas (`#fafafa`), with accents of a vivid, slightly orange-leaning red (`#d72c0d`) that appears sparingly on primary actions and select product details, lending a subtle warmth against the otherwise cool, monochromatic backdrop. Secondary reds (`#e8144b`, `#ea0202`) and a muted slate (`#b1b7c3`) add depth to badges and dividers, while the occasional whisper of pale mint (`#e6f7f4`) or blush (`#fff4fa`) surfaces in promotional banners, suggesting a brand unafraid of quiet color when the story calls for it. Typography relies on a single, clean sans-serif family (likely a refined geometric or neo-grotesk) set in modest weights — body copy at 14–16px in regular (`{typography.body-md}`), headlines at 24–32px in medium (`{typography.display-md}`), and buttons in a compact 14px medium (`{typography.button-md}`) — creating a calm, editorial rhythm that prioritizes readability over typographic spectacle. Corners are gently softened: cards and inputs use a 4px radius (`{rounded.xs}`), while CTAs and badges round to 8px (`{rounded.sm}`), a subtle cue that this is a tactile, considered brand rather than a purely digital one. The overall effect is one of understated luxury — a clean, almost monastic white space punctuated by rich, dark typography and the occasional red accent, mirroring the brand's philosophy of clean ingredients and timeless, unisex fragrances.
+name: "Maison Louis Marie"
+source_url: "https://maisonlouismarie.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Maison Louis Marie is a luxury clean fragrance house that speaks in whispers rather than shouts, using a restrained palette of deep charcoals and warm neutrals to let the product — and the story behind each scent — command attention. The brand's visual language is anchored on a near-black ink (`#191919`) and a soft, almost-white canvas (`#fafafa`), with accents of a vivid, slightly orange-leaning red (`#d72c0d`) that appears sparingly on primary actions and select product details, lending a subtle warmth against the otherwise cool, monochromatic backdrop. Secondary reds (`#e8144b`, `#ea0202`) and a muted slate (`#b1b7c3`) add depth to badges and dividers, while the occasional whisper of pale mint (`#e6f7f4`) or blush (`#fff4fa`) surfaces in promotional banners, suggesting a brand unafraid of quiet color when the story calls for it. Typography relies on a single, clean sans-serif family (likely a refined geometric or neo-grotesk) set in modest weights — body copy at 14–16px in regular (`{typography.body-md}`), headlines at 24–32px in medium (`{typography.display-md}`), and buttons in a compact 14px medium (`{typography.button-md}`) — creating a calm, editorial rhythm that prioritizes readability over typographic spectacle. Corners are gently softened: cards and inputs use a 4px radius (`{rounded.xs}`), while CTAs and badges round to 8px (`{rounded.sm}`), a subtle cue that this is a tactile, considered brand rather than a purely digital one. The overall effect is one of understated luxury — a clean, almost monastic white space punctuated by rich, dark typography and the occasional red accent, mirroring the brand's philosophy of clean ingredients and timeless, unisex fragrances.
 
 colors:
   primary: "#d72c0d"
@@ -629,6 +633,8 @@ components:
 - **Cart Drawer**: On mobile, the cart drawer expands to full screen width, using the entire viewport for a more immersive shopping experience.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states**: While primary and secondary button hover states are defined, hover states for many other components (product card links, footer links, accordion headers) are inferred from general brand behavior and may not match the exact live implementation.
 - **Error styling**: Form error states (error messages, input border colors, iconography) are partially defined but the exact error message typography, icon set, and animation behavior could not be extracted.

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: James Allen
-description: Every diamond on James Allen's product pages rotates in 360° high-definition under a deep-navy stage (#0c1636) — an interface decision that solved the primary anxiety of online jewelry buying before streaming product video became ubiquitous. The brand operates two visual registers: an immersive dark mode (near-black navy #100e31, #0c1636) built for diamond theater and ring configuration, and a clean warm-cream ground (#fffbf7) reserved for editorial and lifestyle content. Brown LL carries the primary typographic voice — a humanist sans with slightly squared apertures that reads as modern premium without geometric coldness; Lora surfaces in editorial display moments as a contrast serif, and Pinyon Script appears in wedding-facing contexts as the sole calligraphic gesture toward tradition. The CTA system is architecturally split: a bright #0066ff handles all commerce actions — add to cart, filter selection, ring builder progression — while the deep navy family (#0c1636, #100e31, #151542) functions as brand environment rather than traditional primary color. Buttons use measured corner radii rather than sharp edges or full pills, a posture that reads as precise and assured, fitting for a brand that asks customers to examine facet symmetry at 40× zoom. Neutral surface fills (#f3f5f7, #e9ebec) keep chrome recessive so the diamond occupies visual center stage. The sage #77ab94 appears on certification and ethical-sourcing callouts — a provenance signal delivered with quietude rather than marketing volume. The overall system reads as a digital jeweler's loupe: clinical precision in the product environment, warmth in the editorial wrapping.
+name: "James Allen"
+source_url: "https://www.jamesallen.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Every diamond on James Allen's product pages rotates in 360° high-definition under a deep-navy stage (#0c1636) — an interface decision that solved the primary anxiety of online jewelry buying before streaming product video became ubiquitous. The brand operates two visual registers: an immersive dark mode (near-black navy #100e31, #0c1636) built for diamond theater and ring configuration, and a clean warm-cream ground (#fffbf7) reserved for editorial and lifestyle content. Brown LL carries the primary typographic voice — a humanist sans with slightly squared apertures that reads as modern premium without geometric coldness; Lora surfaces in editorial display moments as a contrast serif, and Pinyon Script appears in wedding-facing contexts as the sole calligraphic gesture toward tradition. The CTA system is architecturally split: a bright #0066ff handles all commerce actions — add to cart, filter selection, ring builder progression — while the deep navy family (#0c1636, #100e31, #151542) functions as brand environment rather than traditional primary color. Buttons use measured corner radii rather than sharp edges or full pills, a posture that reads as precise and assured, fitting for a brand that asks customers to examine facet symmetry at 40× zoom. Neutral surface fills (#f3f5f7, #e9ebec) keep chrome recessive so the diamond occupies visual center stage. The sage #77ab94 appears on certification and ethical-sourcing callouts — a provenance signal delivered with quietude rather than marketing volume. The overall system reads as a digital jeweler's loupe: clinical precision in the product environment, warmth in the editorial wrapping.
 
 colors:
   primary: "#0066ff"
@@ -415,6 +419,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Page title extracted as "Blue Nile: Diamond Jewelers" — likely a scraper routing error or A/B test artifact; hex colors and font stacks appear consistent with James Allen's documented visual system, but the primary palette should be verified against live jamesallen.com production markup
 - No gold/champagne accent token extracted — James Allen historically uses warm gold tones in ring detail photography and some editorial UI; a value near #c9a96e or #d4af6a would be expected but was not captured in the extraction

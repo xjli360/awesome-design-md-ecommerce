@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Ugreen
-description: |
+name: "Ugreen"
+source_url: "https://www.ugreen.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Ugreen plants its brand name directly in its primary color: #007934 saturates every call-to-action button, active nav indicator, compatibility tag border, and trust icon — the hex is the brand statement, legible before any logo loads. Against a near-white canvas of #f8f8f8 sectioned by #e9eaeb hairlines, that green reads with the precision of a signal light, never competing with the product photography it frames. Metropolis drives all type — a geometric sans whose near-equal stroke widths match the clean-line engineering language that cables, adapters, and charging hubs demand. Display headers hold at 700 weight and 40px; body copy breathes at 400/16px between spec tables and feature callouts.
 
   The color system builds outward from the green anchor in two directions: a warm promotional tier and a cool information tier. #ee9441 orange fires on limited-time deal badges while #ee901d saturates deep discount labels; the pairing feels urgent without reading as alarm. On the cooler side, #7b1ec7 purple marks premium product tiers and #1975b7 occupies anchor links — neither enters hero compositions, reserving them as information-layer signals rather than brand statements. Error states use a dark-field red doublet (#c30000 foreground, #8b0000 for deep backgrounds) with enough visual mass to interrupt scanning without competing with the brand green. The bright accent #3ed660 surfaces only in compatibility confirmation states, a lighter cousin of the primary that signals "yes" at a glance.
@@ -382,6 +385,8 @@ components:
 - Product card spec-chip strip truncates to three chips on mobile with a "show more" text expander
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No meta theme-color extracted; mobile browser chrome color and PWA/home-screen tile color are unknown
 - Canvas white (#ffffff) was likely filtered as a framework default and is assumed; not directly confirmed from extraction

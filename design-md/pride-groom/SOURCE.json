@@ -1,0 +1,634 @@
+{
+  "source_url": "https://prideandgroom.com",
+  "final_url": "https://prideandgroom.com/",
+  "captured_at": "2026-09-28T04:47:17.734867+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://prideandgroom.com",
+      "final_url": "https://prideandgroom.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "12a34ccfaf45121ff605665fbaf3ab587319442a80cd6b859232397ec52a4650",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://prideandgroom.com/cdn/shop/t/131/assets/patrol-styles.css?v=57832071882683438551789061759",
+      "final_url": "https://prideandgroom.com/cdn/shop/t/131/assets/patrol-styles.css?v=57832071882683438551789061759",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "aea2489603810289d3fa981db6204e5dab23335b89a55625488204d1580fd36e",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://prideandgroom.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://prideandgroom.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://prideandgroom.com/cdn/shop/t/131/assets/base.css?v=99348730406681542801789061752",
+      "final_url": "https://prideandgroom.com/cdn/shop/t/131/assets/base.css?v=99348730406681542801789061752",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "370029412161ca85b02ecca1fce4ecd6e6e6ce130905364badf79703808ca304",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://prideandgroom.com/cdn/shop/t/131/assets/apps.css?v=58555770612562691921789061752",
+      "final_url": "https://prideandgroom.com/cdn/shop/t/131/assets/apps.css?v=58555770612562691921789061752",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a5ffdf404bb5aadb0a5cfd25e6e887d094a5143d4d0c8270803d7fab857f8e00",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://prideandgroom.com/cdn/shop/t/131/assets/component-predictive-search.css?v=94320327991181004901789061752",
+      "final_url": "https://prideandgroom.com/cdn/shop/t/131/assets/component-predictive-search.css?v=94320327991181004901789061752",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "870f55b417ce9de3471c35ea811a3f6a816b588a717cb7d9925313e4c1ad251d",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 19,
+      "sources": [
+        "https://prideandgroom.com/",
+        "https://prideandgroom.com/cdn/shop/t/131/assets/patrol-styles.css?v=57832071882683438551789061759",
+        "https://prideandgroom.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://prideandgroom.com/cdn/shop/t/131/assets/apps.css?v=58555770612562691921789061752"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 13,
+      "sources": [
+        "https://prideandgroom.com/"
+      ]
+    },
+    "#972525": {
+      "count": 8,
+      "sources": [
+        "https://prideandgroom.com/"
+      ]
+    },
+    "#333333": {
+      "count": 7,
+      "sources": [
+        "https://prideandgroom.com/"
+      ]
+    },
+    "#000000": {
+      "count": 5,
+      "sources": [
+        "https://prideandgroom.com/",
+        "https://prideandgroom.com/cdn/shop/t/131/assets/apps.css?v=58555770612562691921789061752"
+      ]
+    },
+    "#e5e0d8": {
+      "count": 4,
+      "sources": [
+        "https://prideandgroom.com/"
+      ]
+    },
+    "#1a1b18": {
+      "count": 3,
+      "sources": [
+        "https://prideandgroom.com/"
+      ]
+    },
+    "#020408": {
+      "count": 3,
+      "sources": [
+        "https://prideandgroom.com/"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 2,
+      "sources": [
+        "https://prideandgroom.com/"
+      ]
+    },
+    "#1773b0": {
+      "count": 2,
+      "sources": [
+        "https://prideandgroom.com/"
+      ]
+    },
+    "#125988": {
+      "count": 2,
+      "sources": [
+        "https://prideandgroom.com/"
+      ]
+    },
+    "#74abd0": {
+      "count": 2,
+      "sources": [
+        "https://prideandgroom.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://prideandgroom.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://prideandgroom.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#c9cac9": {
+      "count": 1,
+      "sources": [
+        "https://prideandgroom.com/"
+      ]
+    },
+    "#d72c0d": {
+      "count": 1,
+      "sources": [
+        "https://prideandgroom.com/"
+      ]
+    },
+    "#008060": {
+      "count": 1,
+      "sources": [
+        "https://prideandgroom.com/"
+      ]
+    },
+    "#f9423a": {
+      "count": 1,
+      "sources": [
+        "https://prideandgroom.com/"
+      ]
+    },
+    "#f1e04d": {
+      "count": 1,
+      "sources": [
+        "https://prideandgroom.com/"
+      ]
+    },
+    "#049cff": {
+      "count": 1,
+      "sources": [
+        "https://prideandgroom.com/"
+      ]
+    },
+    "#35ee7a": {
+      "count": 1,
+      "sources": [
+        "https://prideandgroom.com/"
+      ]
+    },
+    "#d1d5db": {
+      "count": 1,
+      "sources": [
+        "https://prideandgroom.com/"
+      ]
+    },
+    "#f4f6f8": {
+      "count": 1,
+      "sources": [
+        "https://prideandgroom.com/"
+      ]
+    },
+    "#3d3d3d": {
+      "count": 1,
+      "sources": [
+        "https://prideandgroom.com/"
+      ]
+    },
+    "#ffffffff": {
+      "count": 1,
+      "sources": [
+        "https://prideandgroom.com/"
+      ]
+    },
+    "#458fc0": {
+      "count": 1,
+      "sources": [
+        "https://prideandgroom.com/"
+      ]
+    },
+    "#a2c7df": {
+      "count": 1,
+      "sources": [
+        "https://prideandgroom.com/"
+      ]
+    },
+    "#c5dceb": {
+      "count": 1,
+      "sources": [
+        "https://prideandgroom.com/"
+      ]
+    },
+    "#dceaf3": {
+      "count": 1,
+      "sources": [
+        "https://prideandgroom.com/"
+      ]
+    },
+    "#111111": {
+      "count": 1,
+      "sources": [
+        "https://prideandgroom.com/cdn/shop/t/131/assets/patrol-styles.css?v=57832071882683438551789061759"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://prideandgroom.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://prideandgroom.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://prideandgroom.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://prideandgroom.com/"
+    ],
+    "Figtree": [
+      "https://prideandgroom.com/"
+    ],
+    "Helvetica": [
+      "https://prideandgroom.com/"
+    ],
+    "Helvetica Neue": [
+      "https://prideandgroom.com/"
+    ],
+    "HelveticaNeueBlack": [
+      "https://prideandgroom.com/"
+    ],
+    "inherit!important": [
+      "https://prideandgroom.com/cdn/shop/t/131/assets/apps.css?v=58555770612562691921789061752"
+    ],
+    "sans-serif": [
+      "https://prideandgroom.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://prideandgroom.com/",
+      "selector": "body",
+      "declarations": "min-height: 100%;\r\n    margin: 0;\r\n    font-size: 1.5rem;\r\n    letter-spacing: 0.06rem;\r\n    line-height: calc(1 + 0.8 / var(--font-body-scale));\r\n    font-family: var(--font-body-family);\r\n    font-style: var(--font-body-style);\r\n    font-weight: var(--font-body-weight);"
+    },
+    {
+      "source": "https://prideandgroom.com/",
+      "selector": ":root",
+      "declarations": "--announcement-height: calc(36px + (8px * 0.75));"
+    },
+    {
+      "source": "https://prideandgroom.com/",
+      "selector": ":root",
+      "declarations": "--announcement-height: 44px;"
+    },
+    {
+      "source": "https://prideandgroom.com/",
+      "selector": "--font-size: 14px;\n--font-size: 13px;\n#shopify-section-sections--23494258360563__header",
+      "declarations": "--section-padding-top: 0px;\r\n    --section-padding-bottom: 0px;\r\n    --image-logo-height: 30px;\r\n    --gradient-header-background: #ffffff;\r\n    --color-header-background: 255, 255, 255;\r\n    --color-header-foreground: 33, 35, 38;\r\n    --color-header-border: 210, 213, 217;\r\n    --color-highlight: 151, 37, 37;\r\n    --icon-weight: 1.7px;\r\n    --color-cta-bg: #972525;\r\n    --color-cta-text: #ffffff;"
+    },
+    {
+      "source": "https://prideandgroom.com/",
+      "selector": ".header__cta",
+      "declarations": "display: inline-flex;\r\n    align-items: center;\r\n    gap: 0.4rem;\r\n    padding: 1.2px 8px;\r\n    margin-right: 0.5em;\r\n    border: 1px solid var(--color-cta-bg);\r\n    border-radius: 4px;\r\n    background-color: var(--color-cta-bg);\r\n    color: var(--color-cta-text);\r\n    font-size: 1.1rem;\r\n    font-weight: 600;\r\n    letter-spacing: 0.07em;\r\n    text-transform: uppercase;\r\n    text-decoration: none;\r\n    white-space: nowrap;\r\n    cursor: pointer;\r\n    transition: background-color var(--duration-default) ease, color var(--duration-default) ease, border-color var(--duration-default) ease;"
+    },
+    {
+      "source": "https://prideandgroom.com/",
+      "selector": ".header__cta:hover",
+      "declarations": "background-color: var(--color-cta-text);\r\n      border-color: var(--color-cta-text);\r\n      color: var(--color-cta-bg);"
+    },
+    {
+      "source": "https://prideandgroom.com/",
+      "selector": "#shopify-section-sections--23494258360563__header",
+      "declarations": "--image-logo-height: 30px;"
+    },
+    {
+      "source": "https://prideandgroom.com/",
+      "selector": "#shopify-section-sections--23494259704051__cookie-banner .button--tertiary",
+      "declarations": "--color-button-text: var(--color-foreground);\n    --color-button-border: var(--color-border);\n    --color-button-background: var(--color-background);"
+    },
+    {
+      "source": "https://prideandgroom.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://prideandgroom.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://prideandgroom.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://prideandgroom.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://prideandgroom.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://prideandgroom.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://prideandgroom.com/cdn/shop/t/131/assets/base.css?v=99348730406681542801789061752",
+      "selector": ":root",
+      "declarations": "--color-foreground: var(--color-base-text);\r\n  --color-background: var(--color-base-background);\r\n  --color-heading: var(--color-base-heading);\r\n  --color-border: var(--color-base-border);"
+    },
+    {
+      "source": "https://prideandgroom.com/cdn/shop/t/131/assets/base.css?v=99348730406681542801789061752",
+      "selector": ":root",
+      "declarations": "--color-button-background: var(--color-base-accent);\r\n  --color-button-border: var(--color-base-accent);\r\n  --color-button-text: var(--color-base-solid-button-labels);"
+    },
+    {
+      "source": "https://prideandgroom.com/cdn/shop/t/131/assets/base.css?v=99348730406681542801789061752",
+      "selector": ".button--secondary",
+      "declarations": "--color-button-background: var(--color-background);\r\n  --color-button-border: var(--color-base-outline-button-labels);\r\n  --color-button-text: var(--color-base-outline-button-labels);"
+    },
+    {
+      "source": "https://prideandgroom.com/cdn/shop/t/131/assets/base.css?v=99348730406681542801789061752",
+      "selector": ".button--tertiary",
+      "declarations": "--color-button-background: var(--color-background);\r\n  --color-button-border: var(--color-border);\r\n  --color-button-text: var(--color-base-outline-button-labels);"
+    },
+    {
+      "source": "https://prideandgroom.com/cdn/shop/t/131/assets/base.css?v=99348730406681542801789061752",
+      "selector": ":root",
+      "declarations": "--color-link: var(--color-base-outline-button-labels);"
+    },
+    {
+      "source": "https://prideandgroom.com/cdn/shop/t/131/assets/base.css?v=99348730406681542801789061752",
+      "selector": ":root",
+      "declarations": "--color-badge-background: rgba(var(--color-background), 0.95);\r\n  --color-badge-foreground: rgb(var(--color-foreground));\r\n  --color-badge-border: rgb(var(--color-border));"
+    },
+    {
+      "source": "https://prideandgroom.com/cdn/shop/t/131/assets/base.css?v=99348730406681542801789061752",
+      "selector": ":root",
+      "declarations": "--duration-short: 100ms;\r\n  --duration-default: 250ms;\r\n  --duration-long: 500ms;\r\n  --duration-animate: 1000ms;\r\n  --image-position: center center;"
+    },
+    {
+      "source": "https://prideandgroom.com/cdn/shop/t/131/assets/base.css?v=99348730406681542801789061752",
+      "selector": "body",
+      "declarations": "color: rgb(var(--color-foreground));\r\n  background-color: rgb(var(--color-background));\r\n  overflow-x: hidden;"
+    },
+    {
+      "source": "https://prideandgroom.com/cdn/shop/t/131/assets/base.css?v=99348730406681542801789061752",
+      "selector": ".heading,\r\nh1,\r\nh2,\r\nh3,\r\nh4,\r\nh5,\r\n.h0,\r\n.h1,\r\n.h2,\r\n.h3,\r\n.h4,\r\n.h5",
+      "declarations": "font-family: var(--font-heading-family);\r\n  font-style: var(--font-heading-style);\r\n  font-weight: var(--font-heading-weight);\r\n  letter-spacing: calc(var(--font-heading-scale) * 0.06rem);\r\n  color: rgb(var(--color-heading));\r\n  line-height: calc(1 + 0.3 / max(1, var(--font-heading-scale)));"
+    },
+    {
+      "source": "https://prideandgroom.com/cdn/shop/t/131/assets/base.css?v=99348730406681542801789061752",
+      "selector": ".button,\r\n.shopify-challenge__button",
+      "declarations": "position: relative;\r\n  z-index: 1;\r\n  cursor: pointer;\r\n  display: inline-flex;\r\n  justify-content: center;\r\n  align-items: center;\r\n  box-sizing: border-box;\r\n  font-family: inherit;\r\n  padding: 1rem 3rem;\r\n  padding-top: calc(1rem + var(--font-button-baseline));\r\n  text-decoration: none;\r\n  border-radius: var(--button-radius);\r\n  border: var(--button-border-width) solid rgb(var(--color-button-border));\r\n  color: rgb(var(--color-button-text));\r\n  background-color: rgb(var(--color-button-background));\r\n  font-family: var(--font-button-family);\r\n  min-width: 24rem;\r\n  max-width: 100%;\r\n  min-height: 4.6rem;\r\n  text-transform: uppercase;\r\n  font-weight: 600;\r\n  transition-property: color, back"
+    },
+    {
+      "source": "https://prideandgroom.com/cdn/shop/t/131/assets/base.css?v=99348730406681542801789061752",
+      "selector": ".button--secondary::after",
+      "declarations": "content: '';\r\n    z-index: -1;\r\n    position: absolute;\r\n    top: 0;\r\n    right: 0;\r\n    bottom: 0;\r\n    left: 0;\r\n    width: 120%;\r\n    height: 100%;\r\n    background-image: none;\r\n    background-color: rgb(var(--color-button-text));\r\n    backface-visibility: hidden;\r\n    will-change: transform;\r\n    transform: rotate3d(0, 0, 1, 10deg) translate3d(-1.2em, 110%, 0);\r\n    transform-origin: 0% 100%;\r\n    transition: transform var(--duration-long) ease;"
+    },
+    {
+      "source": "https://prideandgroom.com/cdn/shop/t/131/assets/base.css?v=99348730406681542801789061752",
+      "selector": ".button:hover",
+      "declarations": "box-shadow: none;\r\n    background-color: rgba(var(--color-button-background), 0.85);\r\n    transition-delay: var(--duration-default);"
+    },
+    {
+      "source": "https://prideandgroom.com/cdn/shop/t/131/assets/base.css?v=99348730406681542801789061752",
+      "selector": ".button--secondary:hover",
+      "declarations": "color: rgb(var(--color-button-background));\r\n    transition-delay: 0s;"
+    },
+    {
+      "source": "https://prideandgroom.com/cdn/shop/t/131/assets/base.css?v=99348730406681542801789061752",
+      "selector": ".button--tertiary:hover",
+      "declarations": "color: rgb(var(--color-button-text));\r\n    box-shadow: inset 0 0 0 0.2rem rgb(var(--color-button-border));\r\n    transition-delay: 0s;"
+    },
+    {
+      "source": "https://prideandgroom.com/cdn/shop/t/131/assets/base.css?v=99348730406681542801789061752",
+      "selector": ".button.loading",
+      "declarations": "color: transparent;"
+    },
+    {
+      "source": "https://prideandgroom.com/cdn/shop/t/131/assets/base.css?v=99348730406681542801789061752",
+      "selector": ".button--cta",
+      "declarations": "min-height: 4.5rem;\r\n  background: none;\r\n  box-shadow: none;\r\n  min-width: auto;\r\n  max-width: 100%;\r\n  padding: 0;\r\n  border: none;\r\n  justify-content: space-between;\r\n  text-transform: none;\r\n  color: rgb(var(--color-link));"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Coat-Specific Dog Grooming Products | Pride+Groom\n – PRIDE+GROOM",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://prideandgroom.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://prideandgroom.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://prideandgroom.com/",
+        "https://prideandgroom.com/cdn/shop/t/131/assets/patrol-styles.css?v=57832071882683438551789061759",
+        "https://prideandgroom.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://prideandgroom.com/cdn/shop/t/131/assets/apps.css?v=58555770612562691921789061752"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://prideandgroom.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://prideandgroom.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://prideandgroom.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://prideandgroom.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://prideandgroom.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://prideandgroom.com/",
+        "https://prideandgroom.com/cdn/shop/t/131/assets/patrol-styles.css?v=57832071882683438551789061759",
+        "https://prideandgroom.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://prideandgroom.com/cdn/shop/t/131/assets/apps.css?v=58555770612562691921789061752"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://prideandgroom.com/"
+      ]
+    },
+    "colors.accent-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://prideandgroom.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.coat-finder-tile": {
+      "status": "inferred"
+    }
+  }
+}

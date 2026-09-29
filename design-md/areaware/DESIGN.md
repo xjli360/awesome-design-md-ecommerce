@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Areaware
-description: A puzzle and design-object brand that uses a warm, almost domestic palette anchored on a butter-yellow #fff299 — a color that reads like afternoon light on a kitchen table, not like a brand primary. The extracted palette is unusually broad for a DTC site: alongside the yellow sit a dusty rose #fcd6d7, a sage green #d3efcd, a deep navy #3a5792, and a cherry red #c72e2f, suggesting Areaware treats color as a product language rather than a system constraint. Buttons and interactive elements take a soft pill shape (`{rounded.full}`), and the canvas is a warm off-white #f5f5f5 rather than pure white, giving the whole experience the feel of a well-loved apartment rather than a sterile gallery. The typography stack is system-native — Helvetica Neue, Arial, sans-serif — which is a deliberate choice: the brand lets the objects and their saturated colors do the talking, not a custom typeface. Product cards use generous whitespace and `{rounded.md}` corners, and the overall mood is one of gentle, curated playfulness — puzzles and home goods presented not as commodities but as objects with personality. The gray #9ca3af appears as a muted secondary text and hairline color, keeping the interface quiet so the product photography and those distinctive accent colors can sing. There is no heavy hero section; instead, the brand leads with a grid of product cards, each one a small invitation.
+name: "Areaware"
+source_url: "https://www.areaware.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A puzzle and design-object brand that uses a warm, almost domestic palette anchored on a butter-yellow #fff299 — a color that reads like afternoon light on a kitchen table, not like a brand primary. The extracted palette is unusually broad for a DTC site: alongside the yellow sit a dusty rose #fcd6d7, a sage green #d3efcd, a deep navy #3a5792, and a cherry red #c72e2f, suggesting Areaware treats color as a product language rather than a system constraint. Buttons and interactive elements take a soft pill shape (`{rounded.full}`), and the canvas is a warm off-white #f5f5f5 rather than pure white, giving the whole experience the feel of a well-loved apartment rather than a sterile gallery. The typography stack is system-native — Helvetica Neue, Arial, sans-serif — which is a deliberate choice: the brand lets the objects and their saturated colors do the talking, not a custom typeface. Product cards use generous whitespace and `{rounded.md}` corners, and the overall mood is one of gentle, curated playfulness — puzzles and home goods presented not as commodities but as objects with personality. The gray #9ca3af appears as a muted secondary text and hairline color, keeping the interface quiet so the product photography and those distinctive accent colors can sing. There is no heavy hero section; instead, the brand leads with a grid of product cards, each one a small invitation.
 
 colors:
   primary: "#fff299"
@@ -341,6 +345,8 @@ components:
 - Hero section padding reduces from `{spacing.section}` on desktop to `{spacing.xl}` on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states:** Extracted only from static CSS; interactive hover/focus/active states for all components may differ from what's documented here. Button hover colors are inferred from the primary-active token.
 - **Error styling:** Form error messages, validation states, and error page designs were not extractable from the live site. The `text-input-error` border color is an educated guess based on the red accent.

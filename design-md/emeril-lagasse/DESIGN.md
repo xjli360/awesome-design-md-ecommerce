@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Emeril Lagasse
-description: |
+name: "Emeril Lagasse"
+source_url: "https://www.emerileveryday.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   That unmistakable red — #c02826 — hits the page like a cast-iron sear mark, the same intensity Emeril brings to a stovetop. The Emeril Everyday digital storefront runs on a near-black scaffold (#171717 ink, #121212 for deep surfaces) that lets product photography of air fryers, pressure cookers, and blenders float against clean white canvas. Montserrat carries headlines at bold 700 weights with tight tracking, delivering punch without pretension — this is a kitchen brand that sells confidence, not aspiration. Inter handles body copy and UI labels at 400/500 weights, keeping readability high across spec-dense product comparison grids and recipe cards.
 
   Buttons land with full-bleed red backgrounds and white text, squared off at `{rounded.xs}` corners — just enough softening to feel approachable without drifting into lifestyle-brand pill shapes. Product cards use `{rounded.sm}` and a 1px `{colors.hairline}` border, stacking vertically on mobile with generous `{spacing.lg}` gutters. The navigation bar sits at 64px height on desktop with Montserrat 600-weight links against a `{colors.surface-dark}` background, creating a restaurant-menu authority that separates it from the typical Shopify lightweight header.
@@ -392,6 +395,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only four hex colors extracted (#171717, #dedede, #c02826, #121212); secondary accent colors (success green, warning states) are inferred rather than observed
 - Star rating color (#f5a623) is a common convention assumption — actual implementation may differ

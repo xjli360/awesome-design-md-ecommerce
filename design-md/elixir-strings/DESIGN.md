@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Elixir Strings
-description: A deep, resonant blue (#003f56) anchors Elixir Strings — not the bright cyan of a tech brand, but the color of a midnight stage, the ink of a well-worn setlist. This primary sits alongside a crisp white canvas (#f8f0f0, a warm off-white that reads as aged paper or vintage guitar pickguard) and a sharp accent of electric blue (#00aeef) that pulses through CTA buttons and product highlights like a single bright LED on a pedalboard. The typography runs on Work Sans for display — a geometric sans-serif with a slight humanist warmth — and Inconsolata for technical specs, a monospace that whispers "engineer, luthier, player." Buttons carry a generous {rounded.sm} radius, product cards soften to {rounded.md}, and the overall spacing breathes at {spacing.lg} between elements, giving each string set room to be considered. The brand voice is less "loud rockstar" and more "master luthier explaining why phosphor bronze matters" — technical precision wrapped in quiet confidence. Signature moves include a navy-to-black gradient on hero sections, a green badge (#67c116) for "NEW" or "BEST SELLER" that feels like a vintage amp jewel light, and a persistent top nav that stays at 72px with a subtle bottom hairline (#cecdcd). The extracted palette includes several blues and grays that likely belong to checkout widgets or social icons, but the true brand identity resolves to three poles: midnight navy (#003f56), warm ivory (#f8f0f0), and electric accent (#00aeef).
+name: "Elixir Strings"
+source_url: "https://www.elixirstrings.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep, resonant blue (#003f56) anchors Elixir Strings — not the bright cyan of a tech brand, but the color of a midnight stage, the ink of a well-worn setlist. This primary sits alongside a crisp white canvas (#f8f0f0, a warm off-white that reads as aged paper or vintage guitar pickguard) and a sharp accent of electric blue (#00aeef) that pulses through CTA buttons and product highlights like a single bright LED on a pedalboard. The typography runs on Work Sans for display — a geometric sans-serif with a slight humanist warmth — and Inconsolata for technical specs, a monospace that whispers "engineer, luthier, player." Buttons carry a generous {rounded.sm} radius, product cards soften to {rounded.md}, and the overall spacing breathes at {spacing.lg} between elements, giving each string set room to be considered. The brand voice is less "loud rockstar" and more "master luthier explaining why phosphor bronze matters" — technical precision wrapped in quiet confidence. Signature moves include a navy-to-black gradient on hero sections, a green badge (#67c116) for "NEW" or "BEST SELLER" that feels like a vintage amp jewel light, and a persistent top nav that stays at 72px with a subtle bottom hairline (#cecdcd). The extracted palette includes several blues and grays that likely belong to checkout widgets or social icons, but the true brand identity resolves to three poles: midnight navy (#003f56), warm ivory (#f8f0f0), and electric accent (#00aeef).
 
 colors:
   primary: "#003f56"
@@ -350,6 +354,8 @@ components:
 - Badge overlays: remain top-left but scale down slightly on mobile (8px font)
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for buttons (scale transform, shadow depth) are inferred from common patterns — exact values not extracted
 - Error styling for form inputs (red border hex, error message typography) not present in extracted data

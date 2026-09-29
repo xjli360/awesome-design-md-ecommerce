@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Ducky
-description: |
+name: "Ducky"
+source_url: "https://www.duckychannel.com.tw"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The golden #ecb320 operates as the sole voltage signal across a near-black envelope — every primary CTA, active navigation state, and price callout channels through one amber frequency against chassis backgrounds of #101010 and #111111 that cover roughly 80% of the visible canvas. What makes the palette structurally unusual is that the remaining accent spectrum — #c72d00 crimson, #31862d forest green, #07ccd7 cyan-teal — maps directly onto mechanical switch taxonomy: crimson for linear switches, green for clicky switches, cyan for bump-feedback variants. The brand's most decisive design move is using its own product's specification language as a color-coding system; switch-type indicator badges inherit their hue from the physical switch rather than from an arbitrary brand library.
 
   Type runs Montserrat for display and navigation at weights 600–800, giving product names the compressed visual density appropriate to a hardware catalog. Inter handles body copy and UI chrome at 400–500 weight, with Ubuntu appearing in secondary utility and monospace-adjacent roles. The hierarchy is deliberately binary: display titles hit 40–48px on hero sections with tracking around −0.5px, then step directly to 16–18px for card product names — almost no editorial mid-range exists between headline-scale and utility-scale copy. This compressed typographic range keeps attention on photography rather than hierarchy navigation.
@@ -364,6 +367,8 @@ components:
 - Footer columns collapse to a single stacked list with disclosure chevrons on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom brand font detected — Montserrat, Inter, and Ubuntu are all Google Fonts; any licensed custom cuts or weight-specific hinting are unknown
 - Dark-mode vs. light-mode split unverified — near-black canvas is inferred from the extracted color distribution; whether the site switches to a light canvas for specific page zones (e.g., editorial or blog sections) is unknown

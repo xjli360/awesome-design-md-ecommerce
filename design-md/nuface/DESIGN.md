@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: NuFace
-description: A clinical-gadget brand that wraps medical-grade microcurrent technology in a palette of near-black (#010101) and a singular electric blue (#84abfc) — the only color that appears on primary CTAs, device-glow accents, and the brand's signature "NuFace" wordmark against a white (#ffffff) canvas. The extracted hex list is dominated by grays (#151515, #8a8a8a, #cacaca, #acacac, #e2e2e2, #e6e6e6, #dedede, #f7f7f7, #f8f8f8) and a few accent tones (#ee3a45 red, #279a4b green, #fb9e5b orange, #54cdcd teal, #b86c7b mauve, #647581 slate, #515f69 charcoal, #213884 navy, #5e7fce, #7ca7fd, #639cff, #3877f1 blues) that likely belong to checkout widgets (Shopify Pay, Klarna, Afterpay) and social icons rather than the brand itself. The true brand voice emerges from the contrast: glossy black product photography on white cards with `{rounded.sm}` corners, a typography system that mixes Poppins (for display headers) with Mabry Pro (for body copy), and a navigation bar that stays transparent until scroll, then snaps to white with a `{colors.hairline}` bottom border. Buttons are sharp-cornered rectangles (`{rounded.xs}`) filled with `{colors.primary}` blue, carrying `{colors.on-primary}` white text in Poppins Medium 14px — a deliberate departure from the pill-shaped CTAs of beauty competitors, signaling precision over softness. The checkout flow introduces a secondary accent (`#ee3a45`) for sale badges and error states, while the device product cards use a subtle `{colors.surface-soft}` (#f7f7f7) background to separate the hero device image from the white page. This is a brand that trusts its product's metallic sheen over decorative imagery — the design is a clean, slightly cool container for a device that promises visible results.
+name: "NuFace"
+source_url: "https://www.mynuface.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A clinical-gadget brand that wraps medical-grade microcurrent technology in a palette of near-black (#010101) and a singular electric blue (#84abfc) — the only color that appears on primary CTAs, device-glow accents, and the brand's signature "NuFace" wordmark against a white (#ffffff) canvas. The extracted hex list is dominated by grays (#151515, #8a8a8a, #cacaca, #acacac, #e2e2e2, #e6e6e6, #dedede, #f7f7f7, #f8f8f8) and a few accent tones (#ee3a45 red, #279a4b green, #fb9e5b orange, #54cdcd teal, #b86c7b mauve, #647581 slate, #515f69 charcoal, #213884 navy, #5e7fce, #7ca7fd, #639cff, #3877f1 blues) that likely belong to checkout widgets (Shopify Pay, Klarna, Afterpay) and social icons rather than the brand itself. The true brand voice emerges from the contrast: glossy black product photography on white cards with `{rounded.sm}` corners, a typography system that mixes Poppins (for display headers) with Mabry Pro (for body copy), and a navigation bar that stays transparent until scroll, then snaps to white with a `{colors.hairline}` bottom border. Buttons are sharp-cornered rectangles (`{rounded.xs}`) filled with `{colors.primary}` blue, carrying `{colors.on-primary}` white text in Poppins Medium 14px — a deliberate departure from the pill-shaped CTAs of beauty competitors, signaling precision over softness. The checkout flow introduces a secondary accent (`#ee3a45`) for sale badges and error states, while the device product cards use a subtle `{colors.surface-soft}` (#f7f7f7) background to separate the hero device image from the white page. This is a brand that trusts its product's metallic sheen over decorative imagery — the design is a clean, slightly cool container for a device that promises visible results.
 
 colors:
   primary: "#84abfc"
@@ -537,6 +541,8 @@ components:
 - Filter/sort options collapse to modal drawer at mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for most components (button-primary hover is inferred from primary-active, but exact transition timing and easing are unknown)
 - Focus-visible styles for keyboard navigation (outline color, width, offset)

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Tylko
-description: Tylko is a Polish furniture brand that has redefined the modular shelving and storage category through a lens of quiet, architectural precision. The brand's visual identity is anchored on a single, deep charcoal tone — `#313131` — which serves as both the primary ink for all typography and the dominant accent color across buttons, icons, and structural UI elements. This near-black hue, paired with a generous white canvas (`{colors.canvas}`), creates a high-contrast, editorial atmosphere that feels more like a design studio than a furniture retailer. The typographic system relies on system-native sans-serif stacks (`-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, system-ui`), avoiding custom fonts to keep the interface fast, clean, and universally legible. Rounded corners are used sparingly — `{rounded.sm}` (8px) for buttons and `{rounded.md}` (12px) for cards — lending a subtle softness to an otherwise sharp, grid-based layout. The brand's signature design move is the configurator interface: a full-screen, step-by-step builder that lets customers customize shelf dimensions, colors, and configurations in real time. This tool is the beating heart of the experience, and the design system supports it with minimal chrome, high-density information display, and a restrained palette that never competes with the product photography. The overall mood is calm, confident, and utilitarian in the best sense — every pixel feels intentional, every interaction purposeful. Tylko does not shout; it invites scrutiny.
+name: "Tylko"
+source_url: "https://tylko.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Tylko is a Polish furniture brand that has redefined the modular shelving and storage category through a lens of quiet, architectural precision. The brand's visual identity is anchored on a single, deep charcoal tone — `#313131` — which serves as both the primary ink for all typography and the dominant accent color across buttons, icons, and structural UI elements. This near-black hue, paired with a generous white canvas (`{colors.canvas}`), creates a high-contrast, editorial atmosphere that feels more like a design studio than a furniture retailer. The typographic system relies on system-native sans-serif stacks (`-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, system-ui`), avoiding custom fonts to keep the interface fast, clean, and universally legible. Rounded corners are used sparingly — `{rounded.sm}` (8px) for buttons and `{rounded.md}` (12px) for cards — lending a subtle softness to an otherwise sharp, grid-based layout. The brand's signature design move is the configurator interface: a full-screen, step-by-step builder that lets customers customize shelf dimensions, colors, and configurations in real time. This tool is the beating heart of the experience, and the design system supports it with minimal chrome, high-density information display, and a restrained palette that never competes with the product photography. The overall mood is calm, confident, and utilitarian in the best sense — every pixel feels intentional, every interaction purposeful. Tylko does not shout; it invites scrutiny.
 
 colors:
   primary: "#313131"
@@ -426,6 +430,8 @@ components:
 - Accordion components (used in FAQs and product details) are always collapsed by default on mobile and expand on tap.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for tertiary text buttons (underline vs. color shift) could not be reliably extracted.
 - Error styling for form validation messages (color, typography, iconography) is inferred from common patterns but not confirmed from the live site.

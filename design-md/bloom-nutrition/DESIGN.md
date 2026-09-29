@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Bloom Nutrition
-description: A verdant, energetic wellness brand built on a deep forest-green primary (#215b32) that reads as chlorophyll-rich and grounded, not corporate or clinical. The brand's visual system is a study in contrast: a crisp white canvas (#ffffff) against that dense green, punctuated by a warm marigold accent (#ffcf2a) that appears in star ratings, sale badges, and micro-interactions — a citrus-bright jolt against the botanical base. A secondary sage-green family (#d4ead4, #bbe1ba, #bfdeb5) softens the palette, appearing in ingredient callouts, background sections, and product photography overlays, while a whisper-pink (#f2c3d2) and lavender (#ead4f8) surface in limited-edition packaging and social proof badges, suggesting a brand that knows its audience craves both efficacy and delight. Typography is a layered affair: the display voice is Gazpacho-Black, a heavy, slightly condensed sans-serif with a custom italic variant (Santi-Rey-Gazpacho-Italic-Black) that adds a hand-drawn, editorial flair to hero headlines and product names. Supporting body copy runs in Poppins and TTravels (Medium, DemiBold, Bold), creating a system that feels simultaneously playful and authoritative. Buttons are generously padded (`{spacing.lg}` horizontal, `{spacing.base}` vertical) with `{rounded.sm}` corners, while product cards use `{rounded.md}` and feature a subtle shadow that lifts the pack shot off the page. The navigation bar is fixed, full-width, and transparent-to-white on scroll, with the brand's green logo mark centered and a cart icon that pulses with `{colors.primary}`. The overall mood is one of approachable vitality — a supplement brand that doesn't look like a pharmacy aisle but like a farmer's market stall designed by a modern editorial studio.
+name: "Bloom Nutrition"
+source_url: "https://bloomnu.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A verdant, energetic wellness brand built on a deep forest-green primary (#215b32) that reads as chlorophyll-rich and grounded, not corporate or clinical. The brand's visual system is a study in contrast: a crisp white canvas (#ffffff) against that dense green, punctuated by a warm marigold accent (#ffcf2a) that appears in star ratings, sale badges, and micro-interactions — a citrus-bright jolt against the botanical base. A secondary sage-green family (#d4ead4, #bbe1ba, #bfdeb5) softens the palette, appearing in ingredient callouts, background sections, and product photography overlays, while a whisper-pink (#f2c3d2) and lavender (#ead4f8) surface in limited-edition packaging and social proof badges, suggesting a brand that knows its audience craves both efficacy and delight. Typography is a layered affair: the display voice is Gazpacho-Black, a heavy, slightly condensed sans-serif with a custom italic variant (Santi-Rey-Gazpacho-Italic-Black) that adds a hand-drawn, editorial flair to hero headlines and product names. Supporting body copy runs in Poppins and TTravels (Medium, DemiBold, Bold), creating a system that feels simultaneously playful and authoritative. Buttons are generously padded (`{spacing.lg}` horizontal, `{spacing.base}` vertical) with `{rounded.sm}` corners, while product cards use `{rounded.md}` and feature a subtle shadow that lifts the pack shot off the page. The navigation bar is fixed, full-width, and transparent-to-white on scroll, with the brand's green logo mark centered and a cart icon that pulses with `{colors.primary}`. The overall mood is one of approachable vitality — a supplement brand that doesn't look like a pharmacy aisle but like a farmer's market stall designed by a modern editorial studio.
 
 colors:
   primary: "#215b32"
@@ -472,6 +476,8 @@ components:
 - The search bar collapses to an icon that expands to a full-width overlay on tap.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components are inferred from the extracted palette and common patterns; actual `:hover`, `:focus`, and `:active` CSS could not be extracted from the live site.
 - Error, success, and warning toast/notification styling is not present in the extracted data.

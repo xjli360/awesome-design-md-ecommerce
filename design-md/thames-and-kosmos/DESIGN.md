@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Thames & Kosmos
-description: A blue-and-white laboratory of curiosity, where #0044cc acts as the primary voltage — a deep, authoritative blue that appears on every product badge, CTA button, and category header, signaling trust in a space where children build real circuits and chemistry sets. The palette is surprisingly restrained for a toy brand: #e6e6e6 and #fbfbfb form a clean, almost clinical canvas, while #2bbaf4 and #0088cc provide bright accent notes that feel like the glow of a working LED. The brand uses #bd362f sparingly — a single red accent that appears only on "sale" badges and error states, never competing with the blue hierarchy. Type is set in Arial and Helvetica — utilitarian system fonts that prioritize legibility over personality, a deliberate choice that says "this is serious learning, not cartoon entertainment." Product cards use soft rounded corners ({rounded.sm} ~8px), while buttons and badges use tighter radii ({rounded.xs} ~4px), creating a subtle distinction between interactive elements and informational ones. The overall effect is that of a well-organized science textbook come to life — generous whitespace, clear information hierarchy, and a color system that guides the eye from primary action (#0044cc) to secondary information (#444444) to tertiary details (#a2a2a2). The extracted palette includes several generic web blues (#003399, #002a80) that likely represent hover states and link colors, forming a coherent blue family from deep navy to bright cyan.
+name: "Thames & Kosmos"
+source_url: "https://www.thamesandkosmos.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A blue-and-white laboratory of curiosity, where #0044cc acts as the primary voltage — a deep, authoritative blue that appears on every product badge, CTA button, and category header, signaling trust in a space where children build real circuits and chemistry sets. The palette is surprisingly restrained for a toy brand: #e6e6e6 and #fbfbfb form a clean, almost clinical canvas, while #2bbaf4 and #0088cc provide bright accent notes that feel like the glow of a working LED. The brand uses #bd362f sparingly — a single red accent that appears only on "sale" badges and error states, never competing with the blue hierarchy. Type is set in Arial and Helvetica — utilitarian system fonts that prioritize legibility over personality, a deliberate choice that says "this is serious learning, not cartoon entertainment." Product cards use soft rounded corners ({rounded.sm} ~8px), while buttons and badges use tighter radii ({rounded.xs} ~4px), creating a subtle distinction between interactive elements and informational ones. The overall effect is that of a well-organized science textbook come to life — generous whitespace, clear information hierarchy, and a color system that guides the eye from primary action (#0044cc) to secondary information (#444444) to tertiary details (#a2a2a2). The extracted palette includes several generic web blues (#003399, #002a80) that likely represent hover states and link colors, forming a coherent blue family from deep navy to bright cyan.
 
 colors:
   primary: "#0044cc"
@@ -522,6 +526,8 @@ components:
 - Breadcrumb navigation truncates to show only current and parent page on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for most components were inferred from common patterns rather than extracted from the live site; the extracted palette includes several blue variants (#003399, #002a80) that likely represent hover and active states, but exact mappings are unconfirmed
 - Error state styling for forms (red borders, error message typography) is assumed based on the presence of #bd362f in the palette; actual error message placement and animation are unknown

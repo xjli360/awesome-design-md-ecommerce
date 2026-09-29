@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Lemi Shine
-description: A cleaning brand that builds its visual language around a citrus-yellow voltage (#ffc52e) and a deep, almost-black ink (#121212), creating a system that feels both energetic and trustworthy. The yellow appears not as a timid accent but as the dominant force — it fills primary buttons, badge backgrounds, and promotional banners, while the dark ink anchors body text and navigation for readability. A secondary green (#3ed660) and orange (#ee9441) suggest the brand's citrus-derived formulations without needing literal fruit photography. The palette is rounded out by a warm gray family (#d1d1d1, #dedede, #c8c8c8, #d9d9d9) that keeps surfaces soft and approachable — product cards, input fields, and footer backgrounds use these muted tones rather than stark white or harsh black. Typography runs Inter at moderate weights (400 for body, 600 for buttons, 700 for display), with generous line heights (1.5 for body) that make ingredient lists and usage instructions feel scannable. Buttons are softly rounded at {rounded.sm}, while badges and promotional tags use {rounded.full} pill shapes that echo the brand's citrus-sphere identity. The overall mood is bright, clean, and confident — a household cleaner that doesn't whisper about its efficacy but announces it through saturated color blocks and clear, direct typography.
+name: "Lemi Shine"
+source_url: "https://lemishine.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A cleaning brand that builds its visual language around a citrus-yellow voltage (#ffc52e) and a deep, almost-black ink (#121212), creating a system that feels both energetic and trustworthy. The yellow appears not as a timid accent but as the dominant force — it fills primary buttons, badge backgrounds, and promotional banners, while the dark ink anchors body text and navigation for readability. A secondary green (#3ed660) and orange (#ee9441) suggest the brand's citrus-derived formulations without needing literal fruit photography. The palette is rounded out by a warm gray family (#d1d1d1, #dedede, #c8c8c8, #d9d9d9) that keeps surfaces soft and approachable — product cards, input fields, and footer backgrounds use these muted tones rather than stark white or harsh black. Typography runs Inter at moderate weights (400 for body, 600 for buttons, 700 for display), with generous line heights (1.5 for body) that make ingredient lists and usage instructions feel scannable. Buttons are softly rounded at {rounded.sm}, while badges and promotional tags use {rounded.full} pill shapes that echo the brand's citrus-sphere identity. The overall mood is bright, clean, and confident — a household cleaner that doesn't whisper about its efficacy but announces it through saturated color blocks and clear, direct typography.
 
 colors:
   primary: "#ffc52e"
@@ -344,6 +348,8 @@ components:
 - Category filter strip collapses to horizontal scroll on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for buttons and links beyond primary button (secondary, tertiary, pill variants) could not be reliably extracted
 - Focus and error states for form inputs (red border, error message styling) are not confirmed

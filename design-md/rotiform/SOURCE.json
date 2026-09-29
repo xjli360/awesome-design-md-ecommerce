@@ -1,0 +1,539 @@
+{
+  "source_url": "https://rotiform.com",
+  "final_url": "https://www.rotiform.com/",
+  "captured_at": "2026-09-28T10:18:33.112697+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://rotiform.com",
+      "final_url": "https://www.rotiform.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "4d842d23da97b551fac6a48b63d41f7427c4d9b8943d00a60459eca47747a1ce",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/mage/calendar.min.css",
+      "final_url": "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/mage/calendar.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7348aa5d12baa382054d93b9633d86be2a2c6a2ef800bf145f6c67d7c991ed3a",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_Base/vendor/slick/amslick.min.css",
+      "final_url": "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_Base/vendor/slick/amslick.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e183c6eeb9a3d2e36bfec17059b9cb7293e607ef25b23b34de5c6acd188167f8",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_HidePrice/js/fancyambox/jquery.fancyambox.min.css",
+      "final_url": "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_HidePrice/js/fancyambox/jquery.fancyambox.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2f031e29230ff416438da198e79851110e5498d2bf1778d389b97dada4bb8f05",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_HidePrice/css/amhideprice.min.css",
+      "final_url": "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_HidePrice/css/amhideprice.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f949155feb486e4c1d14d31c97d3ff3c0ae0fbf79cb8a289ae7596e161480241",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_InstagramFeed/vendor/fancybox/jquery.fancyambox.min.css",
+      "final_url": "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_InstagramFeed/vendor/fancybox/jquery.fancyambox.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2f031e29230ff416438da198e79851110e5498d2bf1778d389b97dada4bb8f05",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 20,
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/mage/calendar.min.css",
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_HidePrice/js/fancyambox/jquery.fancyambox.min.css",
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_InstagramFeed/vendor/fancybox/jquery.fancyambox.min.css"
+      ]
+    },
+    "#000000": {
+      "count": 5,
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/mage/calendar.min.css",
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_Base/vendor/slick/amslick.min.css",
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_HidePrice/js/fancyambox/jquery.fancyambox.min.css",
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_InstagramFeed/vendor/fancybox/jquery.fancyambox.min.css"
+      ]
+    },
+    "#cfcfcf": {
+      "count": 5,
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/mage/calendar.min.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 4,
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_HidePrice/js/fancyambox/jquery.fancyambox.min.css",
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_InstagramFeed/vendor/fancybox/jquery.fancyambox.min.css"
+      ]
+    },
+    "#ff9635": {
+      "count": 2,
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/mage/calendar.min.css"
+      ]
+    },
+    "#efefef": {
+      "count": 2,
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/mage/calendar.min.css"
+      ]
+    },
+    "#1e1e1e": {
+      "count": 2,
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_HidePrice/js/fancyambox/jquery.fancyambox.min.css",
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_InstagramFeed/vendor/fancybox/jquery.fancyambox.min.css"
+      ]
+    },
+    "#e5e3df": {
+      "count": 2,
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_HidePrice/js/fancyambox/jquery.fancyambox.min.css",
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_InstagramFeed/vendor/fancybox/jquery.fancyambox.min.css"
+      ]
+    },
+    "#444444": {
+      "count": 2,
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_HidePrice/js/fancyambox/jquery.fancyambox.min.css",
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_InstagramFeed/vendor/fancybox/jquery.fancyambox.min.css"
+      ]
+    },
+    "#888888": {
+      "count": 2,
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_HidePrice/js/fancyambox/jquery.fancyambox.min.css",
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_InstagramFeed/vendor/fancybox/jquery.fancyambox.min.css"
+      ]
+    },
+    "#555555": {
+      "count": 2,
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_HidePrice/js/fancyambox/jquery.fancyambox.min.css",
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_InstagramFeed/vendor/fancybox/jquery.fancyambox.min.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 2,
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_HidePrice/js/fancyambox/jquery.fancyambox.min.css",
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_InstagramFeed/vendor/fancybox/jquery.fancyambox.min.css"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 2,
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_HidePrice/js/fancyambox/jquery.fancyambox.min.css",
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_InstagramFeed/vendor/fancybox/jquery.fancyambox.min.css"
+      ]
+    },
+    "#4ea7f9": {
+      "count": 2,
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_HidePrice/js/fancyambox/jquery.fancyambox.min.css",
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_InstagramFeed/vendor/fancybox/jquery.fancyambox.min.css"
+      ]
+    },
+    "#d6d6d6": {
+      "count": 1,
+      "sources": [
+        "https://www.rotiform.com/"
+      ]
+    },
+    "#ff8400": {
+      "count": 1,
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/mage/calendar.min.css"
+      ]
+    },
+    "#f9eae7": {
+      "count": 1,
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/mage/calendar.min.css"
+      ]
+    },
+    "#f3d7d2": {
+      "count": 1,
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/mage/calendar.min.css"
+      ]
+    },
+    "#ffdf66": {
+      "count": 1,
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/mage/calendar.min.css"
+      ]
+    },
+    "#dadada": {
+      "count": 1,
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/mage/calendar.min.css"
+      ]
+    },
+    "#f98b25": {
+      "count": 1,
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/mage/calendar.min.css"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 1,
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/mage/calendar.min.css"
+      ]
+    },
+    "#959595": {
+      "count": 1,
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/mage/calendar.min.css"
+      ]
+    },
+    "#5c5c5c": {
+      "count": 1,
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_Base/vendor/slick/amslick.min.css"
+      ]
+    },
+    "#fafafa": {
+      "count": 1,
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_HidePrice/css/amhideprice.min.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_HidePrice/js/fancyambox/jquery.fancyambox.min.css",
+      "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_InstagramFeed/vendor/fancybox/jquery.fancyambox.min.css"
+    ],
+    "Helvetica": [
+      "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_HidePrice/js/fancyambox/jquery.fancyambox.min.css",
+      "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_InstagramFeed/vendor/fancybox/jquery.fancyambox.min.css"
+    ],
+    "Helvetica Neue": [
+      "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_HidePrice/js/fancyambox/jquery.fancyambox.min.css",
+      "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_InstagramFeed/vendor/fancybox/jquery.fancyambox.min.css"
+    ],
+    "sans-serif": [
+      "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_HidePrice/js/fancyambox/jquery.fancyambox.min.css",
+      "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_InstagramFeed/vendor/fancybox/jquery.fancyambox.min.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.rotiform.com/",
+      "selector": "#html-body [data-pb-style=D7WF6FW]",
+      "declarations": "background-color:transparent"
+    },
+    {
+      "source": "https://www.rotiform.com/",
+      "selector": "#html-body [data-pb-style=KPKVAD5]",
+      "declarations": "background-color:transparent"
+    },
+    {
+      "source": "https://www.rotiform.com/",
+      "selector": "#html-body [data-pb-style=VCTQRUY]",
+      "declarations": "background-color:transparent"
+    },
+    {
+      "source": "https://www.rotiform.com/",
+      "selector": "#html-body [data-pb-style=L7Y66I1]",
+      "declarations": "background-color:transparent"
+    },
+    {
+      "source": "https://www.rotiform.com/",
+      "selector": "#html-body [data-pb-style=PEKSRHA]",
+      "declarations": "background-color:transparent"
+    },
+    {
+      "source": "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_Base/vendor/slick/amslick.min.css",
+      "selector": ".slick-dots li button",
+      "declarations": "font-size:0;line-height:0;width:20px;height:20px;padding:5px;color:transparent;border:0;background:0 0"
+    },
+    {
+      "source": "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_Base/vendor/slick/amslick.min.css",
+      "selector": ".slick-dots li button:before",
+      "declarations": "font-size:16px;line-height:20px;position:absolute;top:0;left:0;width:20px;height:20px;content:'•';text-align:center;opacity:.25;color:#000;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale"
+    },
+    {
+      "source": "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_Base/vendor/slick/amslick.min.css",
+      "selector": ".slick-dots li.slick-active button:before",
+      "declarations": "opacity:.75;color:#000"
+    },
+    {
+      "source": "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_HidePrice/js/fancyambox/jquery.fancyambox.min.css",
+      "selector": ".fancyambox-infobar__body",
+      "declarations": "display:inline-block;width:70px;line-height:44px;font-size:13px;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;text-align:center;color:#ddd;background-color:rgba(30,30,30,.7);pointer-events:none;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-touch-callout:none;-webkit-tap-highlight-color:transparent;-webkit-font-smoothing:subpixel-antialiased"
+    },
+    {
+      "source": "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_HidePrice/js/fancyambox/jquery.fancyambox.min.css",
+      "selector": ".fancyambox-button",
+      "declarations": "display:inline-block;position:relative;margin:0;padding:0;border:0;width:44px;height:44px;line-height:44px;text-align:center;background:transparent;color:#ddd;border-radius:0;cursor:pointer;vertical-align:top;outline:none"
+    },
+    {
+      "source": "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_HidePrice/js/fancyambox/jquery.fancyambox.min.css",
+      "selector": ".fancyambox-button:hover:not([disabled])",
+      "declarations": "color:#fff;background:rgba(0,0,0,.8)"
+    },
+    {
+      "source": "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_HidePrice/js/fancyambox/jquery.fancyambox.min.css",
+      "selector": ".fancyambox-button:after,.fancyambox-button:before",
+      "declarations": "content:\"\";pointer-events:none;position:absolute;background-color:currentColor;color:currentColor;opacity:.9;box-sizing:border-box;display:inline-block"
+    },
+    {
+      "source": "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_InstagramFeed/vendor/fancybox/jquery.fancyambox.min.css",
+      "selector": ".fancyambox-infobar__body",
+      "declarations": "display:inline-block;width:70px;line-height:44px;font-size:13px;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;text-align:center;color:#ddd;background-color:rgba(30,30,30,.7);pointer-events:none;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-touch-callout:none;-webkit-tap-highlight-color:transparent;-webkit-font-smoothing:subpixel-antialiased"
+    },
+    {
+      "source": "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_InstagramFeed/vendor/fancybox/jquery.fancyambox.min.css",
+      "selector": ".fancyambox-button",
+      "declarations": "display:inline-block;position:relative;margin:0;padding:0;border:0;width:44px;height:44px;line-height:44px;text-align:center;background:transparent;color:#ddd;border-radius:0;cursor:pointer;vertical-align:top;outline:none"
+    },
+    {
+      "source": "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_InstagramFeed/vendor/fancybox/jquery.fancyambox.min.css",
+      "selector": ".fancyambox-button:hover:not([disabled])",
+      "declarations": "color:#fff;background:rgba(0,0,0,.8)"
+    },
+    {
+      "source": "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_InstagramFeed/vendor/fancybox/jquery.fancyambox.min.css",
+      "selector": ".fancyambox-button:after,.fancyambox-button:before",
+      "declarations": "content:\"\";pointer-events:none;position:absolute;background-color:currentColor;color:currentColor;opacity:.9;box-sizing:border-box;display:inline-block"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Making Cool $#*% Since 09  | Rotiform",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/mage/calendar.min.css"
+      ]
+    },
+    "colors.primary-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/mage/calendar.min.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_HidePrice/js/fancyambox/jquery.fancyambox.min.css",
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_InstagramFeed/vendor/fancybox/jquery.fancyambox.min.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/mage/calendar.min.css",
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_HidePrice/js/fancyambox/jquery.fancyambox.min.css",
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_InstagramFeed/vendor/fancybox/jquery.fancyambox.min.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_HidePrice/js/fancyambox/jquery.fancyambox.min.css",
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_InstagramFeed/vendor/fancybox/jquery.fancyambox.min.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_HidePrice/js/fancyambox/jquery.fancyambox.min.css",
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_InstagramFeed/vendor/fancybox/jquery.fancyambox.min.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_HidePrice/js/fancyambox/jquery.fancyambox.min.css",
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_InstagramFeed/vendor/fancybox/jquery.fancyambox.min.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/mage/calendar.min.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_HidePrice/css/amhideprice.min.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/mage/calendar.min.css",
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_HidePrice/js/fancyambox/jquery.fancyambox.min.css",
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_InstagramFeed/vendor/fancybox/jquery.fancyambox.min.css"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_HidePrice/js/fancyambox/jquery.fancyambox.min.css",
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_InstagramFeed/vendor/fancybox/jquery.fancyambox.min.css"
+      ]
+    },
+    "colors.accent-yellow": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/mage/calendar.min.css"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_HidePrice/js/fancyambox/jquery.fancyambox.min.css",
+        "https://www.rotiform.com/static/version1790065637/frontend/WheelProsNew/rotiform/en_US/Amasty_InstagramFeed/vendor/fancybox/jquery.fancyambox.min.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.size-selector": {
+      "status": "inferred"
+    }
+  }
+}

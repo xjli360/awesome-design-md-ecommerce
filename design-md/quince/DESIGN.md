@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Quince
-description: Quince is a direct-to-consumer essentials brand that delivers luxury-quality goods at radically low prices by cutting out middlemen. The brand's visual language is anchored on a clean, off-white canvas (`#f7f7f5`) that feels tactile and warm, not sterile. Signature moves include a restrained palette where a deep, almost-black ink (`#21201f`) provides high contrast against soft neutrals like `#eeeeec` and `#dfdace`, while a single accent red (`#af3535`) and a muted sage green (`#d0d3bb`) add subtle, earthy notes. Typography leans heavily on serif display faces like Grosa and IvyPresto Headline for editorial headings, paired with a clean sans-serif for body text, creating a sophisticated, magazine-like feel. The design trusts generous whitespace, soft rounded corners (`{rounded.sm}` on cards, `{rounded.full}` on buttons), and high-quality product photography over heavy ornamentation. A secondary warm accent (`#ffa273`) and a deep brown (`#85351b`) appear in lifestyle imagery and badges, reinforcing the brand's natural, understated luxury. The overall mood is calm, trustworthy, and quietly premium — a direct counterpoint to the loud, discount-driven aesthetic of fast fashion.
+name: "Quince"
+source_url: "https://www.quince.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Quince is a direct-to-consumer essentials brand that delivers luxury-quality goods at radically low prices by cutting out middlemen. The brand's visual language is anchored on a clean, off-white canvas (`#f7f7f5`) that feels tactile and warm, not sterile. Signature moves include a restrained palette where a deep, almost-black ink (`#21201f`) provides high contrast against soft neutrals like `#eeeeec` and `#dfdace`, while a single accent red (`#af3535`) and a muted sage green (`#d0d3bb`) add subtle, earthy notes. Typography leans heavily on serif display faces like Grosa and IvyPresto Headline for editorial headings, paired with a clean sans-serif for body text, creating a sophisticated, magazine-like feel. The design trusts generous whitespace, soft rounded corners (`{rounded.sm}` on cards, `{rounded.full}` on buttons), and high-quality product photography over heavy ornamentation. A secondary warm accent (`#ffa273`) and a deep brown (`#85351b`) appear in lifestyle imagery and badges, reinforcing the brand's natural, understated luxury. The overall mood is calm, trustworthy, and quietly premium — a direct counterpoint to the loud, discount-driven aesthetic of fast fashion.
 
 colors:
   primary: "#21201f"
@@ -358,6 +362,8 @@ components:
 - Search bar becomes a full-screen overlay on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components beyond primary/secondary buttons could not be reliably extracted.
 - Error state styling for forms (validation messages, error icons) is inferred but not confirmed.

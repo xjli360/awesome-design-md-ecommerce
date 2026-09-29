@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: The Citizenry
-description: The Citizenry is a globally inspired home decor brand that feels like a curated journey through artisan workshops and sun-drenched markets. The palette is anchored by a warm, earthy olive (#7d7a56) that appears in everything from throw pillows to ceramic vases, evoking the patina of natural materials rather than synthetic dyes. This primary green-brown is tempered by a soft clay tone (#996c49) that reads like unfired terracotta, and a muted canvas (#f8f8f8) that keeps the overall feeling airy and approachable. The brand avoids harsh contrasts — even the ink (#121212) is a softened near-black, while body text rests at a comfortable {colors.body} gray. Signature design moves include generous use of {rounded.full} pill-shaped buttons and search bars, softly rounded product cards at {rounded.lg}, and a reliance on layered textures (linen, wood grain, hand-thrown ceramics) over heavy typography. The type system uses SF Pro Text at modest weights — display heads sit at 22–28px in weight 500 rather than the heavy 700+ that luxury brands often employ — letting the product photography and whitespace carry the emotional weight. Accent blues (#899df1, #1990c6, #136f99) appear sparingly in navigation elements and badges, adding a quiet confidence without competing with the earth tones. The overall feeling is one of intentional calm: a space where every object has a story, and the interface steps back to let the goods speak.
+name: "The Citizenry"
+source_url: "https://www.the-citizenry.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The Citizenry is a globally inspired home decor brand that feels like a curated journey through artisan workshops and sun-drenched markets. The palette is anchored by a warm, earthy olive (#7d7a56) that appears in everything from throw pillows to ceramic vases, evoking the patina of natural materials rather than synthetic dyes. This primary green-brown is tempered by a soft clay tone (#996c49) that reads like unfired terracotta, and a muted canvas (#f8f8f8) that keeps the overall feeling airy and approachable. The brand avoids harsh contrasts — even the ink (#121212) is a softened near-black, while body text rests at a comfortable {colors.body} gray. Signature design moves include generous use of {rounded.full} pill-shaped buttons and search bars, softly rounded product cards at {rounded.lg}, and a reliance on layered textures (linen, wood grain, hand-thrown ceramics) over heavy typography. The type system uses SF Pro Text at modest weights — display heads sit at 22–28px in weight 500 rather than the heavy 700+ that luxury brands often employ — letting the product photography and whitespace carry the emotional weight. Accent blues (#899df1, #1990c6, #136f99) appear sparingly in navigation elements and badges, adding a quiet confidence without competing with the earth tones. The overall feeling is one of intentional calm: a space where every object has a story, and the interface steps back to let the goods speak.
 
 colors:
   primary: "#7d7a56"
@@ -335,6 +339,8 @@ components:
 - Search bar collapses to an icon on mobile, expanding to full-width on tap.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for secondary buttons and links were not fully extracted; assumed darkening of border/text.
 - Error styling for forms (border color, error message color) was inferred from brand palette; exact values not confirmed.

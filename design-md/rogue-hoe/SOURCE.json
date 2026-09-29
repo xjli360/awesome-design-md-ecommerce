@@ -1,0 +1,862 @@
+{
+  "source_url": "https://roguehoe.com",
+  "final_url": "https://roguehoe.com/",
+  "captured_at": "2026-09-28T10:14:07.722089+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://roguehoe.com",
+      "final_url": "https://roguehoe.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "a7352061c1abfe265515f078aae476e8f0bf6e7ceda1a71cd69d7da395ab40b4",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://roguehoe.com/wp-content/plugins/advanced-woo-search/includes/modules/divi/divi.css?ver=3.71",
+      "final_url": "https://roguehoe.com/wp-content/plugins/advanced-woo-search/includes/modules/divi/divi.css?ver=3.71",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4858c7f29efacf7d315ed06a0c962490f140fb53e4c53f22a3775d497dca5393",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+      "final_url": "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c52dc19e1f84684beb82391dacc133a11400f1c351dc2c456fb38a1e22ec8ddd",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+      "final_url": "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "262c2912a618e3aa1af029cba7dde16245c35dd550bb10fa72c74b435456097a",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2",
+      "final_url": "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "80f45f78239104690319043ad10ddaa7c9dbc8a868b05fc1c80dfe596f9ff56d",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://roguehoe.com/wp-content/plugins/advanced-woo-search/assets/css/common.min.css?ver=3.71",
+      "final_url": "https://roguehoe.com/wp-content/plugins/advanced-woo-search/assets/css/common.min.css?ver=3.71",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "bf025cf195b3d989df437a424caf2559625162ee96a809ade891985af24a69b9",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 66,
+      "sources": [
+        "https://roguehoe.com/",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/advanced-woo-search/assets/css/common.min.css?ver=3.71"
+      ]
+    },
+    "#2ea3f2": {
+      "count": 22,
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "#767676": {
+      "count": 16,
+      "sources": [
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#666666": {
+      "count": 14,
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "#006799": {
+      "count": 14,
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "#e9e6ed": {
+      "count": 13,
+      "sources": [
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#999999": {
+      "count": 12,
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "#ededed": {
+      "count": 12,
+      "sources": [
+        "https://roguehoe.com/wp-content/plugins/advanced-woo-search/assets/css/common.min.css?ver=3.71"
+      ]
+    },
+    "#eeeeee": {
+      "count": 11,
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "#515151": {
+      "count": 10,
+      "sources": [
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#000000": {
+      "count": 9,
+      "sources": [
+        "https://roguehoe.com/",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/advanced-woo-search/assets/css/common.min.css?ver=3.71"
+      ]
+    },
+    "#333333": {
+      "count": 8,
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "#720eec": {
+      "count": 8,
+      "sources": [
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#958e09": {
+      "count": 8,
+      "sources": [
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#cfc8d8": {
+      "count": 8,
+      "sources": [
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#cccccc": {
+      "count": 7,
+      "sources": [
+        "https://roguehoe.com/",
+        "https://roguehoe.com/wp-content/plugins/advanced-woo-search/assets/css/common.min.css?ver=3.71"
+      ]
+    },
+    "#d8d8d8": {
+      "count": 6,
+      "sources": [
+        "https://roguehoe.com/wp-content/plugins/advanced-woo-search/assets/css/common.min.css?ver=3.71"
+      ]
+    },
+    "#555555": {
+      "count": 5,
+      "sources": [
+        "https://roguehoe.com/",
+        "https://roguehoe.com/wp-content/plugins/advanced-woo-search/assets/css/common.min.css?ver=3.71"
+      ]
+    },
+    "#313131": {
+      "count": 5,
+      "sources": [
+        "https://roguehoe.com/",
+        "https://roguehoe.com/wp-content/plugins/advanced-woo-search/assets/css/common.min.css?ver=3.71"
+      ]
+    },
+    "#493a1f": {
+      "count": 5,
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "#fcfbfe": {
+      "count": 5,
+      "sources": [
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#0073aa": {
+      "count": 4,
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "#1e85be": {
+      "count": 4,
+      "sources": [
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 4,
+      "sources": [
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/advanced-woo-search/assets/css/common.min.css?ver=3.71"
+      ]
+    },
+    "#7f54b3": {
+      "count": 4,
+      "sources": [
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#b5abc2": {
+      "count": 4,
+      "sources": [
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#ff6900": {
+      "count": 3,
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "#0693e3": {
+      "count": 3,
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 3,
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 3,
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "#444444": {
+      "count": 3,
+      "sources": [
+        "https://roguehoe.com/",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 3,
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "#a4bccb": {
+      "count": 3,
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "#007518": {
+      "count": 3,
+      "sources": [
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#aa0000": {
+      "count": 3,
+      "sources": [
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#ffba00": {
+      "count": 3,
+      "sources": [
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#2ea2cc": {
+      "count": 3,
+      "sources": [
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#cc1818": {
+      "count": 3,
+      "sources": [
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#e1dde7": {
+      "count": 3,
+      "sources": [
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#dcd7e2": {
+      "count": 3,
+      "sources": [
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#222222": {
+      "count": 3,
+      "sources": [
+        "https://roguehoe.com/wp-content/plugins/advanced-woo-search/assets/css/common.min.css?ver=3.71"
+      ]
+    },
+    "#cf2e2e": {
+      "count": 2,
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "#fcb900": {
+      "count": 2,
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "#00d084": {
+      "count": 2,
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "#9b51e0": {
+      "count": 2,
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "#3e3e3e": {
+      "count": 2,
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "#dadada": {
+      "count": 2,
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "#bcc8c9": {
+      "count": 2,
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 2,
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "#020381": {
+      "count": 2,
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "#2874fc": {
+      "count": 2,
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#8fae1b": {
+      "count": 2,
+      "sources": [
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#b81c23": {
+      "count": 2,
+      "sources": [
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "#abb8c3": {
+      "count": 1,
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "#f78da7": {
+      "count": 1,
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "#7bdcb5": {
+      "count": 1,
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "#8ed1fc": {
+      "count": 1,
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "#32373c": {
+      "count": 1,
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 1,
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://roguehoe.com/"
+    ],
+    "Courier New": [
+      "https://roguehoe.com/"
+    ],
+    "ETmodules": [
+      "https://roguehoe.com/"
+    ],
+    "ETmodules!important": [
+      "https://roguehoe.com/"
+    ],
+    "Helvetica": [
+      "https://roguehoe.com/"
+    ],
+    "Lucida": [
+      "https://roguehoe.com/"
+    ],
+    "Montserrat": [
+      "https://roguehoe.com/"
+    ],
+    "Open Sans": [
+      "https://roguehoe.com/"
+    ],
+    "WPMenuCart": [
+      "https://roguehoe.com/"
+    ],
+    "WooCommerce": [
+      "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+    ],
+    "Work Sans": [
+      "https://roguehoe.com/"
+    ],
+    "monospace": [
+      "https://roguehoe.com/"
+    ],
+    "sans-serif": [
+      "https://roguehoe.com/"
+    ],
+    "sans-serif!important": [
+      "https://roguehoe.com/"
+    ],
+    "star": [
+      "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://roguehoe.com/",
+      "selector": ".wp-block-button",
+      "declarations": "--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;"
+    },
+    {
+      "source": "https://roguehoe.com/",
+      "selector": ":root",
+      "declarations": "--wp--style--global--content-size: 823px;--wp--style--global--wide-size: 1080px;"
+    },
+    {
+      "source": "https://roguehoe.com/",
+      "selector": ":root :where(.wp-element-button, .wp-block-button__link)",
+      "declarations": "background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;"
+    },
+    {
+      "source": "https://roguehoe.com/",
+      "selector": "body",
+      "declarations": "font-family:Open Sans,Arial,sans-serif;font-size:14px;color:#666;background-color:#fff;line-height:1.7em;font-weight:500;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale"
+    },
+    {
+      "source": "https://roguehoe.com/",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "color:#333;padding-bottom:10px;line-height:1em;font-weight:500"
+    },
+    {
+      "source": "https://roguehoe.com/",
+      "selector": "h1 a,h2 a,h3 a,h4 a,h5 a,h6 a",
+      "declarations": "color:inherit"
+    },
+    {
+      "source": "https://roguehoe.com/",
+      "selector": "button,input,select,textarea",
+      "declarations": "font-family:inherit"
+    },
+    {
+      "source": "https://roguehoe.com/",
+      "selector": "#et_search_icon:hover,.et-social-icon a:hover,.et_password_protected_form .et_submit_button,.form-submit .et_pb_buttontton.alt.disabled,.nav-single a,.posted_in",
+      "declarations": "color:#2ea3f2"
+    },
+    {
+      "source": "https://roguehoe.com/",
+      "selector": ".et_password_protected_form .et_submit_button",
+      "declarations": "font-family:inherit;display:block;float:right;margin:8px auto 0;cursor:pointer"
+    },
+    {
+      "source": "https://roguehoe.com/",
+      "selector": "fter,.et_pb_pricing_table_button:after,.et_pb_promo_button:after,.et_pb_testimonial:before,.et_pb_toggle_title:before,.form-submit .et_pb_button:after,.mobile_m",
+      "declarations": "font-family:ETmodules!important;speak:none;font-style:normal;font-weight:400;-webkit-font-feature-settings:normal;font-feature-settings:normal;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-shadow:0 0;direction:ltr"
+    },
+    {
+      "source": "https://roguehoe.com/",
+      "selector": ".et_pb_button",
+      "declarations": "font-size:20px;font-weight:500;padding:.3em 1em;line-height:1.7em!important;background-color:transparent;background-size:cover;background-position:50%;background-repeat:no-repeat;border:2px solid;border-radius:3px;-webkit-transition-duration:.2s;transition-duration:.2s;-webkit-transition-property:all!important;transition-property:all!important"
+    },
+    {
+      "source": "https://roguehoe.com/",
+      "selector": ".et_pb_button:hover",
+      "declarations": "background-color:hsla(0,0%,100%,.2)"
+    },
+    {
+      "source": "https://roguehoe.com/",
+      "selector": ".et_pb_bg_layout_light.et_pb_button:hover,.et_pb_bg_layout_light .et_pb_button:hover",
+      "declarations": "background-color:rgba(0,0,0,.05)"
+    },
+    {
+      "source": "https://roguehoe.com/",
+      "selector": ".et_pb_bg_layout_dark,.et_pb_bg_layout_dark h1,.et_pb_bg_layout_dark h2,.et_pb_bg_layout_dark h3,.et_pb_bg_layout_dark h4,.et_pb_bg_layout_dark h5,.et_pb_bg_lay",
+      "declarations": "color:#fff!important"
+    },
+    {
+      "source": "https://roguehoe.com/",
+      "selector": ".et_pb_bg_layout_light .et_pb_more_button",
+      "declarations": "color:#2ea3f2"
+    },
+    {
+      "source": "https://roguehoe.com/",
+      "selector": ".et_pb_more_button",
+      "declarations": "color:inherit;text-shadow:none;text-decoration:none;display:inline-block;margin-top:20px"
+    },
+    {
+      "source": "https://roguehoe.com/",
+      "selector": ".et_pb_bg_layout_light_tablet.et_pb_button,.et_pb_bg_layout_light_tablet.et_pb_module.et_pb_button,.et_pb_bg_layout_light_tablet .et_pb_more_button",
+      "declarations": "color:#2ea3f2"
+    },
+    {
+      "source": "https://roguehoe.com/",
+      "selector": ".et_pb_bg_layout_light_tablet h1,.et_pb_bg_layout_light_tablet h2,.et_pb_bg_layout_light_tablet h3,.et_pb_bg_layout_light_tablet h4,.et_pb_bg_layout_light_table",
+      "declarations": "color:#333!important"
+    },
+    {
+      "source": "https://roguehoe.com/",
+      "selector": ".et_pb_module .et_pb_bg_layout_light_tablet.et_pb_button",
+      "declarations": "color:#2ea3f2!important"
+    },
+    {
+      "source": "https://roguehoe.com/",
+      "selector": "k_tablet,.et_pb_bg_layout_dark_tablet h1,.et_pb_bg_layout_dark_tablet h2,.et_pb_bg_layout_dark_tablet h3,.et_pb_bg_layout_dark_tablet h4,.et_pb_bg_layout_dark_t",
+      "declarations": "color:#fff!important"
+    },
+    {
+      "source": "https://roguehoe.com/",
+      "selector": ".et_pb_bg_layout_dark_tablet.et_pb_button,.et_pb_bg_layout_dark_tablet.et_pb_module.et_pb_button,.et_pb_bg_layout_dark_tablet .et_pb_more_button",
+      "declarations": "color:inherit"
+    },
+    {
+      "source": "https://roguehoe.com/",
+      "selector": ".et_pb_bg_layout_light_phone.et_pb_button,.et_pb_bg_layout_light_phone.et_pb_module.et_pb_button,.et_pb_bg_layout_light_phone .et_pb_more_button",
+      "declarations": "color:#2ea3f2"
+    },
+    {
+      "source": "https://roguehoe.com/",
+      "selector": ".et_pb_bg_layout_light_phone h1,.et_pb_bg_layout_light_phone h2,.et_pb_bg_layout_light_phone h3,.et_pb_bg_layout_light_phone h4,.et_pb_bg_layout_light_phone h5,",
+      "declarations": "color:#333!important"
+    },
+    {
+      "source": "https://roguehoe.com/",
+      "selector": ".et_pb_module .et_pb_bg_layout_light_phone.et_pb_button",
+      "declarations": "color:#2ea3f2!important"
+    },
+    {
+      "source": "https://roguehoe.com/",
+      "selector": "out_dark_phone,.et_pb_bg_layout_dark_phone h1,.et_pb_bg_layout_dark_phone h2,.et_pb_bg_layout_dark_phone h3,.et_pb_bg_layout_dark_phone h4,.et_pb_bg_layout_dark",
+      "declarations": "color:#fff!important"
+    },
+    {
+      "source": "https://roguehoe.com/",
+      "selector": ".et_pb_bg_layout_dark_phone.et_pb_button,.et_pb_bg_layout_dark_phone.et_pb_module.et_pb_button,.et_pb_bg_layout_dark_phone .et_pb_more_button",
+      "declarations": "color:inherit"
+    },
+    {
+      "source": "https://roguehoe.com/",
+      "selector": ".et_pb_module .et_pb_bg_layout_dark_phone.et_pb_button",
+      "declarations": "color:#fff!important"
+    },
+    {
+      "source": "https://roguehoe.com/",
+      "selector": ".woocommerce-page #content input.button:hover .et_pb_widget li a:hover",
+      "declarations": "color:#2ea3f2"
+    },
+    {
+      "source": "https://roguehoe.com/",
+      "selector": "ter,.woocommerce button.button.alt:after,.woocommerce button.button:after,.woocommerce button.single_add_to_cart_button.button:after,.woocommerce input.button.a",
+      "declarations": "font-family:ETmodules!important;speak:none;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-shadow:0 0;direction:ltr"
+    },
+    {
+      "source": "https://roguehoe.com/",
+      "selector": "merce-page .media-frame button.read-more-buttons,.woocommerce .media-frame button.button,.woocommerce .media-frame button.post-nav .nav-links .button,.woocommer",
+      "declarations": "margin-left:10px;margin-top:15px;padding:0 12px 2px!important;font-weight:400!important;font-size:13px!important;border-width:1px!important;border-color:#ccc!important;text-decoration:none!important;color:#555!important;background:#f7f7f7!important;-webkit-box-shadow:0 1px 0 #ccc!important;box-shadow:0 1px 0 #ccc!important;vertical-align:top!important"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Rogue Hoe Distributing, LLC | \"When only the toughest hoe will do!\"",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://roguehoe.com/",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/advanced-woo-search/assets/css/common.min.css?ver=3.71"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://roguehoe.com/",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=11.1.2",
+        "https://roguehoe.com/wp-content/plugins/advanced-woo-search/assets/css/common.min.css?ver=3.71"
+      ]
+    },
+    "colors.button-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "colors.border-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://roguehoe.com/",
+        "https://roguehoe.com/wp-content/plugins/advanced-woo-search/assets/css/common.min.css?ver=3.71"
+      ]
+    },
+    "colors.accent-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://roguehoe.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.tool-category-menu": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    }
+  }
+}

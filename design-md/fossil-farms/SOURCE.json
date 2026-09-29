@@ -1,0 +1,870 @@
+{
+  "source_url": "https://fossilfarms.com",
+  "final_url": "https://www.fossilfarms.com/",
+  "captured_at": "2026-09-28T10:06:19.646664+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://fossilfarms.com",
+      "final_url": "https://www.fossilfarms.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "dcf0cbfd2c9fcd34bdcf91476470406f96749cb6f9a7697033a7da76d8a18ef4",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.fossilfarms.com/cdn/shop/t/41/assets/bss-hide-variant.css?v=147202477121481691891787845593",
+      "final_url": "https://www.fossilfarms.com/cdn/shop/t/41/assets/bss-hide-variant.css?v=147202477121481691891787845593",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "444bc195ae29a4c498e29b8af0ed213890d5923b27e884c36c9c0adf3881f089",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537",
+      "final_url": "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "cde086590a30d7b9a9e1d78f08cb345f98b7eda51eafd10bb5803de1867010d3",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.fossilfarms.com/cdn/shop/t/41/assets/apps.css?v=181677850728302373271753299636",
+      "final_url": "https://www.fossilfarms.com/cdn/shop/t/41/assets/apps.css?v=181677850728302373271753299636",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "05dc97bbe25108e122a66057539ac74fdf7a980bfbff453c29a47cf11c103738",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.fossilfarms.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.fossilfarms.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "be10bc4b16346e787891f1da5de658505019fcd30172651891a4bf550c948e36",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#eeeeee": {
+      "count": 35,
+      "sources": [
+        "https://www.fossilfarms.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 22,
+      "sources": [
+        "https://www.fossilfarms.com/",
+        "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537",
+        "https://www.fossilfarms.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#000000": {
+      "count": 18,
+      "sources": [
+        "https://www.fossilfarms.com/",
+        "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#00000000": {
+      "count": 12,
+      "sources": [
+        "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537",
+        "https://www.fossilfarms.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#aa1f23": {
+      "count": 11,
+      "sources": [
+        "https://www.fossilfarms.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 9,
+      "sources": [
+        "https://www.fossilfarms.com/",
+        "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 9,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#333333": {
+      "count": 8,
+      "sources": [
+        "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#fbcd0a": {
+      "count": 6,
+      "sources": [
+        "https://www.fossilfarms.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#555555": {
+      "count": 6,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#d1d1d1": {
+      "count": 5,
+      "sources": [
+        "https://www.fossilfarms.com/"
+      ]
+    },
+    "#666666": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#171717": {
+      "count": 3,
+      "sources": [
+        "https://www.fossilfarms.com/"
+      ]
+    },
+    "#108474": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#0f0f0f": {
+      "count": 2,
+      "sources": [
+        "https://www.fossilfarms.com/"
+      ]
+    },
+    "#1d1d1d": {
+      "count": 2,
+      "sources": [
+        "https://www.fossilfarms.com/"
+      ]
+    },
+    "#ae2828": {
+      "count": 2,
+      "sources": [
+        "https://www.fossilfarms.com/"
+      ]
+    },
+    "#969696": {
+      "count": 2,
+      "sources": [
+        "https://www.fossilfarms.com/"
+      ]
+    },
+    "#1f1f1f": {
+      "count": 2,
+      "sources": [
+        "https://www.fossilfarms.com/"
+      ]
+    },
+    "#3b5998": {
+      "count": 2,
+      "sources": [
+        "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#e60023": {
+      "count": 2,
+      "sources": [
+        "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.fossilfarms.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#a89cc8": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#c1e6e6": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 1,
+      "sources": [
+        "https://www.fossilfarms.com/"
+      ]
+    },
+    "#202020": {
+      "count": 1,
+      "sources": [
+        "https://www.fossilfarms.com/"
+      ]
+    },
+    "#4d5bcd": {
+      "count": 1,
+      "sources": [
+        "https://www.fossilfarms.com/"
+      ]
+    },
+    "#ec523e": {
+      "count": 1,
+      "sources": [
+        "https://www.fossilfarms.com/"
+      ]
+    },
+    "#757575": {
+      "count": 1,
+      "sources": [
+        "https://www.fossilfarms.com/"
+      ]
+    },
+    "#d5d5d5": {
+      "count": 1,
+      "sources": [
+        "https://www.fossilfarms.com/"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 1,
+      "sources": [
+        "https://www.fossilfarms.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://www.fossilfarms.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://www.fossilfarms.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://www.fossilfarms.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://www.fossilfarms.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://www.fossilfarms.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://www.fossilfarms.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://www.fossilfarms.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://www.fossilfarms.com/"
+      ]
+    },
+    "#de0707": {
+      "count": 1,
+      "sources": [
+        "https://www.fossilfarms.com/"
+      ]
+    },
+    "#b08c37": {
+      "count": 1,
+      "sources": [
+        "https://www.fossilfarms.com/"
+      ]
+    },
+    "#00000080": {
+      "count": 1,
+      "sources": [
+        "https://www.fossilfarms.com/"
+      ]
+    },
+    "#ffffffbf": {
+      "count": 1,
+      "sources": [
+        "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537"
+      ]
+    },
+    "#1199ff": {
+      "count": 1,
+      "sources": [
+        "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 1,
+      "sources": [
+        "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537"
+      ]
+    },
+    "#00acee": {
+      "count": 1,
+      "sources": [
+        "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537"
+      ]
+    },
+    "#3390f7": {
+      "count": 1,
+      "sources": [
+        "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537"
+      ]
+    },
+    "#25d366": {
+      "count": 1,
+      "sources": [
+        "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537"
+      ]
+    },
+    "#0064ff": {
+      "count": 1,
+      "sources": [
+        "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537"
+      ]
+    },
+    "#61f0f3": {
+      "count": 1,
+      "sources": [
+        "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537"
+      ]
+    },
+    "#ff3484": {
+      "count": 1,
+      "sources": [
+        "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537"
+      ]
+    },
+    "#f1e04d": {
+      "count": 1,
+      "sources": [
+        "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537"
+      ]
+    },
+    "#309fff": {
+      "count": 1,
+      "sources": [
+        "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537"
+      ]
+    },
+    "#b635ff": {
+      "count": 1,
+      "sources": [
+        "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537"
+      ]
+    },
+    "#049cff": {
+      "count": 1,
+      "sources": [
+        "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537"
+      ]
+    },
+    "#35ee7a": {
+      "count": 1,
+      "sources": [
+        "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537"
+      ]
+    },
+    "#00e166": {
+      "count": 1,
+      "sources": [
+        "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Baskerville": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Consolas": [
+      "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537"
+    ],
+    "Courier New": [
+      "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537"
+    ],
+    "Helvetica": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Inter": [
+      "https://www.fossilfarms.com/"
+    ],
+    "JudgemeIcons": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons\" !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons' !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeStar": [
+      "https://www.fossilfarms.com/"
+    ],
+    "JudgemeStar' !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Liberation Mono": [
+      "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537"
+    ],
+    "Menlo": [
+      "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537"
+    ],
+    "Monaco": [
+      "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537"
+    ],
+    "Nunito Sans": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "SFMono-Regular": [
+      "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537"
+    ],
+    "Work Sans": [
+      "https://www.fossilfarms.com/"
+    ],
+    "inherit!important": [
+      "https://www.fossilfarms.com/cdn/shop/t/41/assets/apps.css?v=181677850728302373271753299636"
+    ],
+    "monospace": [
+      "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "sans-serif": [
+      "https://www.fossilfarms.com/",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "sans-serif !important": [
+      "https://www.fossilfarms.com/"
+    ],
+    "ui-monospace": [
+      "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.fossilfarms.com/",
+      "selector": ":root",
+      "declarations": "--page-padding: var(--sp-9);"
+    },
+    {
+      "source": "https://www.fossilfarms.com/",
+      "selector": ":root",
+      "declarations": "--gap-padding: var(--sp-12);\n      --page-padding: var(--sp-12);\n      --page-container: min(calc(100vw - var(--scrollbar-width, 0px) - var(--page-padding) * 2), max(var(--page-width), 1280px));"
+    },
+    {
+      "source": "https://www.fossilfarms.com/",
+      "selector": ":root",
+      "declarations": "--page-padding: max(var(--sp-12), 50vw - var(--scrollbar-width, 0px)/2 - var(--page-width)/2);"
+    },
+    {
+      "source": "https://www.fossilfarms.com/",
+      "selector": "el .gm-header > button > .gm-target > .gm-text,\n.gm-menu-installed .gm-menu.gm-menu-mobile.gm-submenu-open-style-slide.gm-menu-221525 .gm-tabs .gm-tab-panel > .",
+      "declarations": "color: #202020 !important;"
+    },
+    {
+      "source": "https://www.fossilfarms.com/",
+      "selector": ".gm-menu.gm-menu-221525 .gm-product-atc input.gm-btn-atc",
+      "declarations": "color: #FFFFFF !important;\n  background-color: #1F1F1F !important;\n  font-family: \"Work Sans\", sans-serif !important;"
+    },
+    {
+      "source": "https://www.fossilfarms.com/",
+      "selector": ".gm-menu.gm-menu-221525 .gm-product-atc input.gm-btn-atc:hover",
+      "declarations": "color: #FFFFFF !important;\n  background-color: #000000 !important;"
+    },
+    {
+      "source": "https://www.fossilfarms.com/",
+      "selector": ":root",
+      "declarations": "--topbar-height: var(--sp-12);"
+    },
+    {
+      "source": "https://www.fossilfarms.com/",
+      "selector": ":root",
+      "declarations": "--topbar-height: var(--sp-14);"
+    },
+    {
+      "source": "https://www.fossilfarms.com/",
+      "selector": "#shopify-section-sections--18414973943999__header",
+      "declarations": "--section-padding-top: 32px;\n    --section-padding-bottom: 32px;\n    --color-background: 255 255 255;\n    --color-foreground: 23 23 23;\n    --color-transparent: 255 255 255;"
+    },
+    {
+      "source": "https://www.fossilfarms.com/",
+      "selector": ".gw-btn.gw-button.--outlined",
+      "declarations": "color: #FFFFFF !important;"
+    },
+    {
+      "source": "https://www.fossilfarms.com/",
+      "selector": ".gw-rd-popup-widget-collapsible-header.svelte-l82bmt.svelte-l82bmt",
+      "declarations": "background: white !important;\n    color: black !important;"
+    },
+    {
+      "source": "https://www.fossilfarms.com/",
+      "selector": ".gw-rd-popup-widget-collapsible-header__inner.svelte-l82bmt .gw-layout-text.gw-layout-text--variant-primary, \n  .gw-rd-popup-widget-container__close-button .gw-",
+      "declarations": "color: black !important;"
+    },
+    {
+      "source": "https://www.fossilfarms.com/",
+      "selector": ".gw-rd-popup-widget-collapsible-header__customer-balance",
+      "declarations": "color: #aa1f23 !important;"
+    },
+    {
+      "source": "https://www.fossilfarms.com/",
+      "selector": ".gw-rd-referral-share div button .gw-rd-icon-branding-color.svelte-4wr0zw",
+      "declarations": "color: #aa1f23 !important;"
+    },
+    {
+      "source": "https://www.fossilfarms.com/",
+      "selector": ".gw-rd-popup-widget-fixed-header__back-btn .gw-rd-icon",
+      "declarations": "color: black !important;"
+    },
+    {
+      "source": "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537",
+      "selector": ":root",
+      "declarations": "--text-h1: var(--sp-12);--text-h2: var(--sp-7d5);--text-h3: var(--sp-6);--text-h4: var(--sp-5d5);--text-h5: var(--sp-4d5);--text-h6: var(--sp-4)"
+    },
+    {
+      "source": "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537",
+      "selector": ":root",
+      "declarations": "--title-lg: clamp(var(--sp-12), 4.73vw, var(--sp-23));--title-xl: clamp(var(--sp-20), 6.737vw, var(--sp-32));--text-h1: var(--sp-14);--text-h2: var(--sp-9);--text-h3: var(--sp-7d5);--text-h4: var(--sp-6);--text-h5: var(--sp-5)"
+    },
+    {
+      "source": "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537",
+      "selector": ".pswp__button",
+      "declarations": "--tw-shadow: 0 0 #0000;--tw-shadow-colored: 0 0 #0000;-webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px);background-color:rgb(var(--color-background)/ .6);border:1px solid rgb(var(--color-border));border-radius:var(--rounded-full);box-shadow:var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow);cursor:pointer;display:block;height:var(--sp-12);margin:0;opacity:1;overflow:hidden;padding:0;position:relative;width:var(--sp-12)"
+    },
+    {
+      "source": "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537",
+      "selector": "button.pswp__button",
+      "declarations": "-webkit-touch-callout:none;-webkit-appearance:none;appearance:none;background-color:rgb(var(--color-background)/ .6)"
+    },
+    {
+      "source": "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537",
+      "selector": ".pswp__button .pswp__icn",
+      "declarations": "--tw-translate-x: -50%;--tw-translate-y: -50%;fill:var(--pswp-icon-color);color:var(--pswp-icon-color-secondary);width:var(--sp-6);height:var(--sp-6);overflow:hidden;pointer-events:none;position:absolute;inset-block-start:50%;inset-inline-start:50%;transform:translate(calc(var(--tw-translate-x) * var(--transform-logical)),var(--tw-translate-y)) scaleX(calc(var(--tw-scale-x) * var(--transform-logical))) scaleY(var(--tw-scale-y))"
+    },
+    {
+      "source": "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537",
+      "selector": ".pswp__button--arrow",
+      "declarations": "color:rgb(var(--color-foreground));width:var(--sp-12);height:var(--sp-12);position:absolute;inset-block-start:auto;inset-block-end:var(--sp-5)"
+    },
+    {
+      "source": "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537",
+      "selector": ".pswp__button--arrow",
+      "declarations": "--tw-translate-y: -50%;width:var(--sp-15);height:var(--sp-15);inset-block-start:50%;transform:translate(var(--tw-translate-x),var(--tw-translate-y))"
+    },
+    {
+      "source": "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537",
+      "selector": ".pswp__button--arrow--next .pswp__icn",
+      "declarations": "--tw-scale-x: -1"
+    },
+    {
+      "source": "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537",
+      "selector": ".pswp__video-container .play-button",
+      "declarations": "width:var(--sp-10);height:var(--sp-10);inset-inline-end:var(--sp-4);inset-block-start:var(--sp-4);background-color:rgb(var(--color-background))"
+    },
+    {
+      "source": "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537",
+      "selector": ".flickity-button",
+      "declarations": "background:#ffffffbf;border:none;color:#333;position:absolute"
+    },
+    {
+      "source": "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537",
+      "selector": "body",
+      "declarations": "background-color:rgb(var(--color-background));color:rgb(var(--color-foreground));font-family:var(--font-body-family);font-style:var(--font-body-style);font-weight:var(--font-body-weight);font-size:var(--text-base);line-height:var(--font-body-line-height);letter-spacing:var(--font-body-letter-spacing);overflow-x:hidden;line-height:inherit;margin:0"
+    },
+    {
+      "source": "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537",
+      "selector": "blockquote,.heading,h1,h2,h3,h4,h5,h6,.h0,.h1,.h2,.h3,.h4,.h5,.h6",
+      "declarations": "font-family:var(--font-heading-family);font-style:var(--font-heading-style);font-weight:var(--font-heading-weight);letter-spacing:var(--font-heading-letter-spacing);line-height:var(--font-heading-line-height);text-transform:var(--font-heading-text-transform);color:rgb(var(--color-foreground));word-break:break-word"
+    },
+    {
+      "source": "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font-family:inherit;font-size:100%;font-weight:inherit;line-height:inherit;border:none;margin:0;padding:0"
+    },
+    {
+      "source": "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537",
+      "selector": "[type=button],[type=reset],[type=submit],button",
+      "declarations": "-webkit-appearance:button;appearance:button;background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537",
+      "selector": ",.additional-checkout-buttons [role=button],.additional-checkout-buttons iframe,#shopify-product-reviews .spr-summary-actions-newreview,#shopify-pc__banner__btn",
+      "declarations": "--shadow-horizontal-offset: var(--buttons-shadow-horizontal-offset);--shadow-vertical-offset: var(--buttons-shadow-vertical-offset);--shadow-opacity: var(--buttons-shadow-opacity);--border-opacity: var(--buttons-border-opacity)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "All Natural Meat, Farm Raised Game, Wild Game Meats - Fossil Farms",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fossilfarms.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fossilfarms.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fossilfarms.com/",
+        "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537",
+        "https://www.fossilfarms.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fossilfarms.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fossilfarms.com/",
+        "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537",
+        "https://www.fossilfarms.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fossilfarms.com/",
+        "https://www.fossilfarms.com/cdn/shop/t/41/assets/theme.css?v=90512163543532275651790273537",
+        "https://www.fossilfarms.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fossilfarms.com/"
+      ]
+    },
+    "colors.accent-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fossilfarms.com/"
+      ]
+    },
+    "colors.overlay-scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fossilfarms.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.freshness-tag": {
+      "status": "inferred"
+    }
+  }
+}

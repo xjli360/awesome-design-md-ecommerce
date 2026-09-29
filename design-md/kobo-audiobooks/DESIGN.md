@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Kobo Audiobooks
-description: A deep red anchor (#bf0000) cuts across a predominantly white and serif-heavy reading experience, marking every primary action — the “Buy Now” button on a book detail page, the progress bar in the reading interface, the active tab in the navigation. This is a brand built for long-form reading, not quick scanning: body copy runs Georgia at 16px with generous leading (1.6), and display headings use Trebuchet MS at 24–32px in weight 600, a choice that reads as earnest and slightly academic rather than trendy. The top navigation is a clean horizontal bar with dropdown menus for “Books”, “eReaders”, “Audiobooks”, and “Blog”, each link set in Trebuchet MS at 14px weight 400 with 12px padding — no pill shapes, no rounded search bars, no decorative icons. Product cards in the grid use a simple white background with a soft shadow, a cover image, and title/author in Georgia body-sm (14px), with the price and a “Add to Cart” button in the brand red. The overall mood is that of a serious bookstore — the red is the only color that breaks the monochrome, and it does so with the confidence of a university press logo. Buttons are rectangular with 4px rounding (`{rounded.xs}`), not pill-shaped; the search bar is a simple input field with a magnifying-glass icon, not a floating orb. The system trusts typography and whitespace over illustration or photography — there are no hero images, no lifestyle shots, only book covers and text.
+name: "Kobo Audiobooks"
+source_url: "https://www.kobo.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep red anchor (#bf0000) cuts across a predominantly white and serif-heavy reading experience, marking every primary action — the “Buy Now” button on a book detail page, the progress bar in the reading interface, the active tab in the navigation. This is a brand built for long-form reading, not quick scanning: body copy runs Georgia at 16px with generous leading (1.6), and display headings use Trebuchet MS at 24–32px in weight 600, a choice that reads as earnest and slightly academic rather than trendy. The top navigation is a clean horizontal bar with dropdown menus for “Books”, “eReaders”, “Audiobooks”, and “Blog”, each link set in Trebuchet MS at 14px weight 400 with 12px padding — no pill shapes, no rounded search bars, no decorative icons. Product cards in the grid use a simple white background with a soft shadow, a cover image, and title/author in Georgia body-sm (14px), with the price and a “Add to Cart” button in the brand red. The overall mood is that of a serious bookstore — the red is the only color that breaks the monochrome, and it does so with the confidence of a university press logo. Buttons are rectangular with 4px rounding (`{rounded.xs}`), not pill-shaped; the search bar is a simple input field with a magnifying-glass icon, not a floating orb. The system trusts typography and whitespace over illustration or photography — there are no hero images, no lifestyle shots, only book covers and text.
 
 colors:
   primary: "#bf0000"
@@ -300,6 +304,8 @@ components:
 - Category filter strip (if present) collapses to a horizontal scrollable row on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one hex color (#bf0000) was extracted from the live site — the rest of the palette (ink, body, muted, hairline, canvas, etc.) is inferred from common web patterns and may not match the exact brand values. A full design audit is needed to confirm grays, whites, and secondary accents.
 - No font-family declarations beyond the system fallbacks (Arial, Georgia, Helvetica, Trebuchet MS, Verdana, serif, sans-serif) were found. Kobo likely uses a custom font (possibly a web font like “Kobo” or a licensed serif), but it was not extractable from the HTML. The typography block uses Trebuchet MS and Georgia as the closest available matches.

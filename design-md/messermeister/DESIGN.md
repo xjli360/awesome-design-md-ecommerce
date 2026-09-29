@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Messermeister
-description: Messermeister speaks in the language of professional-grade precision, a brand that equips both serious home cooks and career chefs with tools built to last a lifetime. The palette is anchored by a deep, almost-black ink (`#090a0f`) and a warm off-white canvas (`#f7f6f2`), creating a high-contrast stage for product photography. The signature voltage comes from a crisp, technical blue (`#00a4e4`) that appears in primary actions, hover states, and select accents, supported by a secondary steel-blue (`#338fb1`) and a cooler accent (`#00b3ff`). The system relies on a restrained neutral scale: body text sits at a dark charcoal (`#231f20`), muted elements at a mid-gray (`#4a5764`), and hairlines at a soft silver (`#c1c9d1`). Typography is a blend of the geometric, modern Founders Grotesk for display and headings, paired with the highly legible, humanist Inter for body text and UI — a combination that feels both editorial and utilitarian. The brand's design moves are deliberate and tactile: generous whitespace, sharp but not harsh corners (`{rounded.sm}` for buttons, `{rounded.md}` for cards), and a heavy reliance on high-resolution product imagery over decorative flourishes. The overall mood is one of quiet authority — the interface gets out of the way, letting the forged steel, wood grain, and craftsmanship of the knives speak.
+name: "Messermeister"
+source_url: "https://www.messermeister.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Messermeister speaks in the language of professional-grade precision, a brand that equips both serious home cooks and career chefs with tools built to last a lifetime. The palette is anchored by a deep, almost-black ink (`#090a0f`) and a warm off-white canvas (`#f7f6f2`), creating a high-contrast stage for product photography. The signature voltage comes from a crisp, technical blue (`#00a4e4`) that appears in primary actions, hover states, and select accents, supported by a secondary steel-blue (`#338fb1`) and a cooler accent (`#00b3ff`). The system relies on a restrained neutral scale: body text sits at a dark charcoal (`#231f20`), muted elements at a mid-gray (`#4a5764`), and hairlines at a soft silver (`#c1c9d1`). Typography is a blend of the geometric, modern Founders Grotesk for display and headings, paired with the highly legible, humanist Inter for body text and UI — a combination that feels both editorial and utilitarian. The brand's design moves are deliberate and tactile: generous whitespace, sharp but not harsh corners (`{rounded.sm}` for buttons, `{rounded.md}` for cards), and a heavy reliance on high-resolution product imagery over decorative flourishes. The overall mood is one of quiet authority — the interface gets out of the way, letting the forged steel, wood grain, and craftsmanship of the knives speak.
 
 colors:
   primary: "#00a4e4"
@@ -344,6 +348,8 @@ components:
 - Secondary content (e.g., "You Might Also Like" sections) may be hidden behind a "Show More" toggle on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for tertiary buttons and text links were not fully extracted; assumed standard color transitions.
 - Error styling for form inputs (e.g., red border, error message typography) was not observed on the live site.

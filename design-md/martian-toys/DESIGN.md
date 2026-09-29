@@ -1,6 +1,9 @@
 ---
 version: alpha
-name: Martian Toys
+name: "Martian Toys"
+source_url: "https://martiantoys.com"
+captured_at: null
+evidence_status: "historical_unverified"
 description: |-
   Muted teal (#94d5d4) against a near-black field (#121212) is the visual proposition — not the luminescent cyber-neon of streetwear, but a cooler, almost spectral accent that suggests display cases lit from inside collector shelving. The earthy olive (#716a56) and two registers of forest green (#3f5147, #2c332f) ground the palette in something physical: Pelican foam, cabinet stain, the faded label on a well-travelled auction lot. Together they build a chromatic atmosphere that flatters the subject matter — art toys, designer vinyl, and limited-edition figures sit naturally in a space this color-restrained rather than amid the primary-color noise of mass-market retail.
 
@@ -405,6 +408,8 @@ components:
 - Announcement bar hides at < 375px if nav is already compressed
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No meta theme-color was set; dark nav chrome on mobile (`#121212`) is inferred from palette, not extracted
 - Font weight range for Jost not confirmed from live extraction — weights 400/500/600/700 assumed from Google Fonts variable axis availability

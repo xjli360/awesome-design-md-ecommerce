@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Troll and Toad
-description: A deep purple #664283 anchors the brand — not as a background flood but as a deliberate accent voltage on category headers, sale badges, and the top nav bar, signaling authority in the trading-card marketplace without overwhelming the product photography. The canvas is a cool off-white #f3f3f3, giving the site a slightly aged, collector-friendly feel rather than sterile white. Orange #f68b1f acts as the primary CTA color — a high-contrast, urgent accent used on "Add to Cart" buttons and price-drop alerts, while gold #b28500 appears on rare-find badges and premium-tier indicators. The type system runs Poppins at modest weights (400–600), with display headlines at 24px weight 600 and body copy at 14px weight 400, creating a clean, readable hierarchy that steps back to let card images and set symbols do the talking. Product cards use a soft `{rounded.sm}` corner and a subtle `{colors.hairline}` border, while the search bar is a full-width `{rounded.full}` pill on `{colors.canvas}`. The overall mood is that of a well-organized binder — structured, categorized by set and rarity, with enough visual energy from the purple/orange/gold triad to keep browsing feel like a hunt.
+name: "Troll and Toad"
+source_url: "https://www.trollandtoad.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep purple #664283 anchors the brand — not as a background flood but as a deliberate accent voltage on category headers, sale badges, and the top nav bar, signaling authority in the trading-card marketplace without overwhelming the product photography. The canvas is a cool off-white #f3f3f3, giving the site a slightly aged, collector-friendly feel rather than sterile white. Orange #f68b1f acts as the primary CTA color — a high-contrast, urgent accent used on "Add to Cart" buttons and price-drop alerts, while gold #b28500 appears on rare-find badges and premium-tier indicators. The type system runs Poppins at modest weights (400–600), with display headlines at 24px weight 600 and body copy at 14px weight 400, creating a clean, readable hierarchy that steps back to let card images and set symbols do the talking. Product cards use a soft `{rounded.sm}` corner and a subtle `{colors.hairline}` border, while the search bar is a full-width `{rounded.full}` pill on `{colors.canvas}`. The overall mood is that of a well-organized binder — structured, categorized by set and rarity, with enough visual energy from the purple/orange/gold triad to keep browsing feel like a hunt.
 
 colors:
   primary: "#664283"
@@ -418,6 +422,8 @@ components:
 - Search bar collapses to an icon that expands to full input on tap.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for most components are inferred from common patterns; exact box-shadow values, transition durations, and easing functions not extracted.
 - Error styling for forms (error messages, validation icons) not observed; `{colors.error}` used for borders but full pattern unknown.

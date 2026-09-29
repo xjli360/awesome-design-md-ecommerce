@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Columbia University Press
-description: A deep navy #0c4da2 anchors the Columbia University Press website like the spine of a clothbound academic volume — it appears in the primary nav bar, hover states on linked text, and the bold header band that introduces each section. The site runs on a two-typeface system: Adobe Caslon W01 for display and body text, lending a serifed gravity that signals peer-reviewed authority, and Museo Sans W01 for UI labels, buttons, and metadata, introducing a clean sans-serif counterpoint that prevents the reading experience from feeling antiquarian. The canvas is a warm off-white #eeeeee rather than pure white, softening the reading surface for long-form catalog copy and author interviews. Accent colors arrive sparingly but with purpose: #dc3232 appears on sale badges and error states, #00d084 on in-stock indicators, and #fdf497 on highlighted callout boxes — each a small jolt against the predominantly blue-gray palette. The search bar uses a pill shape ({rounded.full}) with a subtle border, while buttons are softly rectangular ({rounded.sm}), never aggressive. The overall mood is that of a serious but accessible library reading room: hushed, orderly, and confident in its typographic hierarchy.
+name: "Columbia University Press"
+source_url: "https://cup.columbia.edu"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep navy #0c4da2 anchors the Columbia University Press website like the spine of a clothbound academic volume — it appears in the primary nav bar, hover states on linked text, and the bold header band that introduces each section. The site runs on a two-typeface system: Adobe Caslon W01 for display and body text, lending a serifed gravity that signals peer-reviewed authority, and Museo Sans W01 for UI labels, buttons, and metadata, introducing a clean sans-serif counterpoint that prevents the reading experience from feeling antiquarian. The canvas is a warm off-white #eeeeee rather than pure white, softening the reading surface for long-form catalog copy and author interviews. Accent colors arrive sparingly but with purpose: #dc3232 appears on sale badges and error states, #00d084 on in-stock indicators, and #fdf497 on highlighted callout boxes — each a small jolt against the predominantly blue-gray palette. The search bar uses a pill shape ({rounded.full}) with a subtle border, while buttons are softly rectangular ({rounded.sm}), never aggressive. The overall mood is that of a serious but accessible library reading room: hushed, orderly, and confident in its typographic hierarchy.
 
 colors:
   primary: "#0c4da2"
@@ -375,6 +379,8 @@ components:
 - Tab interfaces on product pages collapse into a select dropdown on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted color list is heavily weighted toward blues and grays, with a few bright accents (#dc3232, #00d084, #fdf497, #0693e3) that appear to be functional (sale, stock, highlight, link) rather than brand-defining. The true brand primary (#0c4da2) was selected as the most distinctive blue in the list, but without access to the actual design tokens, the exact hierarchy of accent colors is inferred.
 - Font-family declarations were extracted from CSS but exact weights and sizes for each typography tier are estimated based on common academic press patterns. The actual site may use different sizes for display, body, and UI text.

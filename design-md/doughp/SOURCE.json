@@ -1,0 +1,953 @@
+{
+  "source_url": "https://doughp.com",
+  "final_url": "https://www.doughp.com/",
+  "captured_at": "2026-09-28T04:31:12.450007+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://doughp.com",
+      "final_url": "https://www.doughp.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "c4462fdf3bba8736bda97929d2e478643c0fb8e309bb4b9d1f1b4afef588cc02",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.doughp.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.doughp.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393",
+      "final_url": "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "233c58a412c8ad58eedfa6d8632617a745bc886b88d66993aadd0513dfcca0d3",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.doughp.com/cdn/shop/t/298/assets/custom.css?v=60561210187546597171787071393",
+      "final_url": "https://www.doughp.com/cdn/shop/t/298/assets/custom.css?v=60561210187546597171787071393",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "58b1237565d21e5bed07f6ac492ffdb2e6239f5beda0df2675f6dc65248724ec",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "be10bc4b16346e787891f1da5de658505019fcd30172651891a4bf550c948e36",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/019b9d20-37e5-7ca5-9de5-643c0cc3ca3c/platter-plus-438/assets/platter.css",
+      "final_url": "https://cdn.shopify.com/extensions/019b9d20-37e5-7ca5-9de5-643c0cc3ca3c/platter-plus-438/assets/platter.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e4d2a8e9f5a5c8a7692302fc861e2bfa324e6f70e6a5ff744c84f7a516e7eb65",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 71,
+      "sources": [
+        "https://www.doughp.com/",
+        "https://www.doughp.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/019b9d20-37e5-7ca5-9de5-643c0cc3ca3c/platter-plus-438/assets/platter.css"
+      ]
+    },
+    "#00000000": {
+      "count": 64,
+      "sources": [
+        "https://www.doughp.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393",
+        "https://cdn.shopify.com/extensions/019b9d20-37e5-7ca5-9de5-643c0cc3ca3c/platter-plus-438/assets/platter.css"
+      ]
+    },
+    "#000000": {
+      "count": 46,
+      "sources": [
+        "https://www.doughp.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 33,
+      "sources": [
+        "https://www.doughp.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#0066ff": {
+      "count": 26,
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "#0047b3": {
+      "count": 18,
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "#fafafa": {
+      "count": 18,
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "#dcdcdc": {
+      "count": 12,
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 12,
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 12,
+      "sources": [
+        "https://www.doughp.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#111827": {
+      "count": 12,
+      "sources": [
+        "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 11,
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "#c3c3c3": {
+      "count": 10,
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "#9ca3af": {
+      "count": 10,
+      "sources": [
+        "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393",
+        "https://cdn.shopify.com/extensions/019b9d20-37e5-7ca5-9de5-643c0cc3ca3c/platter-plus-438/assets/platter.css"
+      ]
+    },
+    "#ffcc33": {
+      "count": 9,
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 9,
+      "sources": [
+        "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393",
+        "https://cdn.shopify.com/extensions/019b9d20-37e5-7ca5-9de5-643c0cc3ca3c/platter-plus-438/assets/platter.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 9,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#262626": {
+      "count": 8,
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "#374151": {
+      "count": 8,
+      "sources": [
+        "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393"
+      ]
+    },
+    "#d1d5db": {
+      "count": 8,
+      "sources": [
+        "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393"
+      ]
+    },
+    "#555555": {
+      "count": 7,
+      "sources": [
+        "https://www.doughp.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#333333": {
+      "count": 7,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#666666": {
+      "count": 6,
+      "sources": [
+        "https://www.doughp.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#4b5563": {
+      "count": 6,
+      "sources": [
+        "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393"
+      ]
+    },
+    "#ce9440": {
+      "count": 4,
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "#ae792d": {
+      "count": 4,
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "#6b7280": {
+      "count": 4,
+      "sources": [
+        "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393"
+      ]
+    },
+    "#dedede": {
+      "count": 3,
+      "sources": [
+        "https://www.doughp.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393"
+      ]
+    },
+    "#108474": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 2,
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 2,
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "#e20f28": {
+      "count": 2,
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "#00c064": {
+      "count": 2,
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "#0082fb": {
+      "count": 2,
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "#7396a2": {
+      "count": 2,
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 2,
+      "sources": [
+        "https://www.doughp.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393"
+      ]
+    },
+    "#1f2937": {
+      "count": 2,
+      "sources": [
+        "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393"
+      ]
+    },
+    "#f3f4f6": {
+      "count": 2,
+      "sources": [
+        "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 2,
+      "sources": [
+        "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393"
+      ]
+    },
+    "#fbcd0a": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#a89cc8": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#c1e6e6": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#7b7b7b": {
+      "count": 1,
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "#230d0d": {
+      "count": 1,
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "#5487a0": {
+      "count": 1,
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "#fff1e3": {
+      "count": 1,
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "#412d00": {
+      "count": 1,
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 1,
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "#23222a": {
+      "count": 1,
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "#4e917a": {
+      "count": 1,
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393",
+      "https://cdn.shopify.com/extensions/019b9d20-37e5-7ca5-9de5-643c0cc3ca3c/platter-plus-438/assets/platter.css"
+    ],
+    "Apple Color Emoji": [
+      "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393",
+      "https://cdn.shopify.com/extensions/019b9d20-37e5-7ca5-9de5-643c0cc3ca3c/platter-plus-438/assets/platter.css"
+    ],
+    "Arial": [
+      "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "https://cdn.shopify.com/extensions/019b9d20-37e5-7ca5-9de5-643c0cc3ca3c/platter-plus-438/assets/platter.css"
+    ],
+    "Baskerville": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "BlinkMacSystemFont": [
+      "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393",
+      "https://cdn.shopify.com/extensions/019b9d20-37e5-7ca5-9de5-643c0cc3ca3c/platter-plus-438/assets/platter.css"
+    ],
+    "Consolas": [
+      "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393",
+      "https://cdn.shopify.com/extensions/019b9d20-37e5-7ca5-9de5-643c0cc3ca3c/platter-plus-438/assets/platter.css"
+    ],
+    "Courier New": [
+      "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393",
+      "https://cdn.shopify.com/extensions/019b9d20-37e5-7ca5-9de5-643c0cc3ca3c/platter-plus-438/assets/platter.css"
+    ],
+    "Helvetica": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Helvetica Neue": [
+      "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393",
+      "https://cdn.shopify.com/extensions/019b9d20-37e5-7ca5-9de5-643c0cc3ca3c/platter-plus-438/assets/platter.css"
+    ],
+    "JudgemeIcons": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons\" !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons' !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeStar": [
+      "https://www.doughp.com/"
+    ],
+    "JudgemeStar' !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Liberation Mono": [
+      "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393",
+      "https://cdn.shopify.com/extensions/019b9d20-37e5-7ca5-9de5-643c0cc3ca3c/platter-plus-438/assets/platter.css"
+    ],
+    "Menlo": [
+      "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393",
+      "https://cdn.shopify.com/extensions/019b9d20-37e5-7ca5-9de5-643c0cc3ca3c/platter-plus-438/assets/platter.css"
+    ],
+    "Monaco": [
+      "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393",
+      "https://cdn.shopify.com/extensions/019b9d20-37e5-7ca5-9de5-643c0cc3ca3c/platter-plus-438/assets/platter.css"
+    ],
+    "Noto Color Emoji": [
+      "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393",
+      "https://cdn.shopify.com/extensions/019b9d20-37e5-7ca5-9de5-643c0cc3ca3c/platter-plus-438/assets/platter.css"
+    ],
+    "Noto Sans": [
+      "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393",
+      "https://cdn.shopify.com/extensions/019b9d20-37e5-7ca5-9de5-643c0cc3ca3c/platter-plus-438/assets/platter.css"
+    ],
+    "Nunito Sans": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Open Sans": [
+      "https://www.doughp.com/"
+    ],
+    "Poppins": [
+      "https://www.doughp.com/"
+    ],
+    "Roboto": [
+      "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393",
+      "https://cdn.shopify.com/extensions/019b9d20-37e5-7ca5-9de5-643c0cc3ca3c/platter-plus-438/assets/platter.css"
+    ],
+    "SFMono-Regular": [
+      "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393",
+      "https://cdn.shopify.com/extensions/019b9d20-37e5-7ca5-9de5-643c0cc3ca3c/platter-plus-438/assets/platter.css"
+    ],
+    "Segoe UI": [
+      "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393",
+      "https://cdn.shopify.com/extensions/019b9d20-37e5-7ca5-9de5-643c0cc3ca3c/platter-plus-438/assets/platter.css"
+    ],
+    "Segoe UI Emoji": [
+      "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393",
+      "https://cdn.shopify.com/extensions/019b9d20-37e5-7ca5-9de5-643c0cc3ca3c/platter-plus-438/assets/platter.css"
+    ],
+    "Segoe UI Symbol": [
+      "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393",
+      "https://cdn.shopify.com/extensions/019b9d20-37e5-7ca5-9de5-643c0cc3ca3c/platter-plus-438/assets/platter.css"
+    ],
+    "Times": [
+      "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393"
+    ],
+    "monospace": [
+      "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "https://cdn.shopify.com/extensions/019b9d20-37e5-7ca5-9de5-643c0cc3ca3c/platter-plus-438/assets/platter.css"
+    ],
+    "sans-serif": [
+      "https://www.doughp.com/",
+      "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "https://cdn.shopify.com/extensions/019b9d20-37e5-7ca5-9de5-643c0cc3ca3c/platter-plus-438/assets/platter.css"
+    ],
+    "system-ui": [
+      "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393",
+      "https://cdn.shopify.com/extensions/019b9d20-37e5-7ca5-9de5-643c0cc3ca3c/platter-plus-438/assets/platter.css"
+    ],
+    "ui-monospace": [
+      "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393",
+      "https://cdn.shopify.com/extensions/019b9d20-37e5-7ca5-9de5-643c0cc3ca3c/platter-plus-438/assets/platter.css"
+    ],
+    "ui-sans-serif": [
+      "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393",
+      "https://cdn.shopify.com/extensions/019b9d20-37e5-7ca5-9de5-643c0cc3ca3c/platter-plus-438/assets/platter.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.doughp.com/",
+      "selector": "body",
+      "declarations": "font-family: 'Poppins', sans-serif;"
+    },
+    {
+      "source": "https://www.doughp.com/",
+      "selector": ":root",
+      "declarations": "--color-error--rgb:226 15 40;  --color-error--hex: #e20f28;  --color-error: var(--color-error--rgb, #e20f28);  --color-warning--rgb:255 204 51;  --color-warning--hex: #ffcc33;  --color-warning: var(--color-warning--rgb, #ffcc33);  --color-success--rgb:0 192 100;  --color-success--hex: #00c064;  --color-success: var(--color-success--rgb, #00c064);  --color-info--rgb:0 130 251;  --color-info--hex: #0082fb;  --color-info: var(--color-info--rgb, #0082fb);  --color-review-stars--rgb:255 204 51;  --color-review-stars--hex: #ffcc33;  --color-review-stars: var(--color-review-stars--rgb, #ffcc33);"
+    },
+    {
+      "source": "https://www.doughp.com/",
+      "selector": ":root",
+      "declarations": "--color-gray-50: 248 250 252;        --color-gray-100: 241 245 249;        --color-gray-200: 226 232 240;        --color-gray-300: 203 213 225;        --color-gray-400: 148 163 184;        --color-gray-500: 100 116 139;        --color-gray-600: 71 85 105;        --color-gray-700: 51 65 85;        --color-gray-800: 30 41 59;        --color-gray-900: 15 23 42;"
+    },
+    {
+      "source": "https://www.doughp.com/",
+      "selector": ":root",
+      "declarations": "--layout-page-width: 1440px;  --section-padding-sm: 24px;  --section-padding-md: 72px;  --section-padding-lg: 150px;"
+    },
+    {
+      "source": "https://www.doughp.com/",
+      "selector": ":root",
+      "declarations": "--section-padding-sm: 32px;  --section-padding-md: 96px;  --section-padding-lg: 240px;"
+    },
+    {
+      "source": "https://www.doughp.com/",
+      "selector": ":root",
+      "declarations": "--rounded-theme-sm: .125rem;      --rounded-theme: .25rem;      --rounded-theme-md: .375rem;      --rounded-theme-lg: .5rem;      --rounded-theme-xl: .75rem;      --rounded-theme-2xl: 1rem;      --rounded-theme-3xl: 1.5rem;"
+    },
+    {
+      "source": "https://www.doughp.com/",
+      "selector": ".product-card-title",
+      "declarations": "font-family: var(--font-product-card-title-family, inherit);    font-size: var(--font-product-card-title-size-sm);    font-weight: var(--font-product-card-title-weight-sm);    line-height: var(--font-product-card-title-height-sm);    letter-spacing: var(--font-product-card-title-spacing-sm);    text-transform: var(--font-product-card-title-transform-sm);    font-style: var(--font-product-card-title-style-sm);    opacity: var(--font-product-card-title-opacity-sm);"
+    },
+    {
+      "source": "https://www.doughp.com/",
+      "selector": ":root",
+      "declarations": "--font-product-card-title-family:Poppins,sans-serif;--font-product-card-title-size:16px;    --font-product-card-title-size-sm:14px;    --font-product-card-title-weight:600;    --font-product-card-title-weight-sm:600;    --font-product-card-title-height:1;    --font-product-card-title-height-sm:1.35;    --font-product-card-title-spacing:0;    --font-product-card-title-spacing-sm:0;    --font-product-card-title-transform:none;    --font-product-card-title-transform-sm:none;    --font-product-card-title-style:normal;    --font-product-card-title-style-sm:normal;    --font-product-card-title-opacity:1;    --font-product-card-title-opacity-sm:1;"
+    },
+    {
+      "source": "https://www.doughp.com/",
+      "selector": ".product-price",
+      "declarations": "font-family: var(--font-product-price-family, inherit);    font-size: var(--font-product-price-size-sm);    font-weight: var(--font-product-price-weight-sm);    line-height: var(--font-product-price-height-sm);    letter-spacing: var(--font-product-price-spacing-sm);    text-transform: var(--font-product-price-transform-sm);    font-style: var(--font-product-price-style-sm);    opacity: var(--font-product-price-opacity-sm);"
+    },
+    {
+      "source": "https://www.doughp.com/",
+      "selector": ":root",
+      "declarations": "--font-product-price-family:Poppins,sans-serif;--font-product-price-size:15px;    --font-product-price-size-sm:15px;    --font-product-price-weight:700;    --font-product-price-weight-sm:700;    --font-product-price-height:1.5;    --font-product-price-height-sm:1.5;    --font-product-price-spacing:0;    --font-product-price-spacing-sm:0;    --font-product-price-transform:none;    --font-product-price-transform-sm:none;    --font-product-price-style:normal;    --font-product-price-style-sm:normal;    --font-product-price-opacity:1;    --font-product-price-opacity-sm:1;"
+    },
+    {
+      "source": "https://www.doughp.com/",
+      "selector": ".product-card-title--small",
+      "declarations": "font-family: var(--font-product-card-title--small-family, inherit);    font-size: var(--font-product-card-title--small-size-sm);    font-weight: var(--font-product-card-title--small-weight-sm);    line-height: var(--font-product-card-title--small-height-sm);    letter-spacing: var(--font-product-card-title--small-spacing-sm);    text-transform: var(--font-product-card-title--small-transform-sm);    font-style: var(--font-product-card-title--small-style-sm);    opacity: var(--font-product-card-title--small-opacity-sm);"
+    },
+    {
+      "source": "https://www.doughp.com/",
+      "selector": ":root",
+      "declarations": "--font-product-card-title--small-family:Poppins,sans-serif;--font-product-card-title--small-size:15px;    --font-product-card-title--small-size-sm:15px;    --font-product-card-title--small-weight:600;    --font-product-card-title--small-weight-sm:600;    --font-product-card-title--small-height:1.5;    --font-product-card-title--small-height-sm:1.5;    --font-product-card-title--small-spacing:0;    --font-product-card-title--small-spacing-sm:0;    --font-product-card-title--small-transform:none;    --font-product-card-title--small-transform-sm:none;    --font-product-card-title--small-style:normal;    --font-product-card-title--small-style-sm:normal;    --font-product-card-title--small-opacit"
+    },
+    {
+      "source": "https://www.doughp.com/",
+      "selector": ":root",
+      "declarations": "--font-article-card-title-family:Poppins,sans-serif;--font-article-card-title-size:20px;    --font-article-card-title-size-sm:20px;    --font-article-card-title-weight:700;    --font-article-card-title-weight-sm:700;    --font-article-card-title-height:1.5;    --font-article-card-title-height-sm:1.5;    --font-article-card-title-spacing:0;    --font-article-card-title-spacing-sm:0;    --font-article-card-title-transform:none;    --font-article-card-title-transform-sm:none;    --font-article-card-title-style:normal;    --font-article-card-title-style-sm:normal;    --font-article-card-title-opacity:1;    --font-article-card-title-opacity-sm:1;"
+    },
+    {
+      "source": "https://www.doughp.com/",
+      "selector": ":root",
+      "declarations": "--font-article-card-specs-family:Poppins,sans-serif;--font-article-card-specs-size:12px;    --font-article-card-specs-size-sm:12px;    --font-article-card-specs-weight:400;    --font-article-card-specs-weight-sm:400;    --font-article-card-specs-height:1.4;    --font-article-card-specs-height-sm:1.4;    --font-article-card-specs-spacing:0;    --font-article-card-specs-spacing-sm:0;    --font-article-card-specs-transform:none;    --font-article-card-specs-transform-sm:none;    --font-article-card-specs-style:normal;    --font-article-card-specs-style-sm:normal;    --font-article-card-specs-opacity:1;    --font-article-card-specs-opacity-sm:1;"
+    },
+    {
+      "source": "https://www.doughp.com/",
+      "selector": ":root",
+      "declarations": "--font-article-card-description-family:Poppins,sans-serif;--font-article-card-description-size:16px;    --font-article-card-description-size-sm:16px;    --font-article-card-description-weight:400;    --font-article-card-description-weight-sm:400;    --font-article-card-description-height:1.7;    --font-article-card-description-height-sm:1.7;    --font-article-card-description-spacing:0;    --font-article-card-description-spacing-sm:0;    --font-article-card-description-transform:none;    --font-article-card-description-transform-sm:none;    --font-article-card-description-style:normal;    --font-article-card-description-style-sm:normal;    --font-article-card-description-opacity:1;    --font"
+    },
+    {
+      "source": "https://www.doughp.com/",
+      "selector": ":root",
+      "declarations": "--font-article-card-link-family:Poppins,sans-serif;--font-article-card-link-size:16px;    --font-article-card-link-size-sm:16px;    --font-article-card-link-weight:700;    --font-article-card-link-weight-sm:700;    --font-article-card-link-height:1.5;    --font-article-card-link-height-sm:1.5;    --font-article-card-link-spacing:0;    --font-article-card-link-spacing-sm:0;    --font-article-card-link-transform:none;    --font-article-card-link-transform-sm:none;    --font-article-card-link-style:normal;    --font-article-card-link-style-sm:normal;    --font-article-card-link-opacity:1;    --font-article-card-link-opacity-sm:1;"
+    },
+    {
+      "source": "https://www.doughp.com/",
+      "selector": ":root",
+      "declarations": "--font-cart-title-family:Poppins,sans-serif;--font-cart-title-size:18px;    --font-cart-title-size-sm:18px;    --font-cart-title-weight:600;    --font-cart-title-weight-sm:600;    --font-cart-title-height:1.1;    --font-cart-title-height-sm:1.2;    --font-cart-title-spacing:0em;    --font-cart-title-spacing-sm:0em;    --font-cart-title-transform:none;    --font-cart-title-transform-sm:none;    --font-cart-title-style:normal;    --font-cart-title-style-sm:normal;    --font-cart-title-opacity:1;    --font-cart-title-opacity-sm:1;"
+    },
+    {
+      "source": "https://www.doughp.com/",
+      "selector": ":root",
+      "declarations": "--font-breadcrumbs-family:Poppins,sans-serif;--font-breadcrumbs-size:12px;    --font-breadcrumbs-size-sm:12px;    --font-breadcrumbs-weight:400;    --font-breadcrumbs-weight-sm:400;    --font-breadcrumbs-height:1.5;    --font-breadcrumbs-height-sm:1.5;    --font-breadcrumbs-spacing:0;    --font-breadcrumbs-spacing-sm:0;    --font-breadcrumbs-transform:none;    --font-breadcrumbs-transform-sm:none;    --font-breadcrumbs-style:normal;    --font-breadcrumbs-style-sm:normal;    --font-breadcrumbs-opacity:1;    --font-breadcrumbs-opacity-sm:1;"
+    },
+    {
+      "source": "https://www.doughp.com/",
+      "selector": ":root",
+      "declarations": "--font-nav-link-family:Poppins,sans-serif;--font-nav-link-size:16px;    --font-nav-link-size-sm:16px;    --font-nav-link-weight:500;    --font-nav-link-weight-sm:500;    --font-nav-link-height:1.4;    --font-nav-link-height-sm:1.4;    --font-nav-link-spacing:0;    --font-nav-link-spacing-sm:0;    --font-nav-link-transform:uppercase;    --font-nav-link-transform-sm:uppercase;    --font-nav-link-style:normal;    --font-nav-link-style-sm:normal;    --font-nav-link-opacity:1;    --font-nav-link-opacity-sm:1;"
+    },
+    {
+      "source": "https://www.doughp.com/",
+      "selector": ":root",
+      "declarations": "--font-megamenu-title-family:Poppins,sans-serif;--font-megamenu-title-size:12px;    --font-megamenu-title-size-sm:12px;    --font-megamenu-title-weight:700;    --font-megamenu-title-weight-sm:700;    --font-megamenu-title-height:1.4;    --font-megamenu-title-height-sm:1.4;    --font-megamenu-title-spacing:0;    --font-megamenu-title-spacing-sm:0;    --font-megamenu-title-transform:uppercase;    --font-megamenu-title-transform-sm:uppercase;    --font-megamenu-title-style:normal;    --font-megamenu-title-style-sm:normal;    --font-megamenu-title-opacity:1;    --font-megamenu-title-opacity-sm:1;"
+    },
+    {
+      "source": "https://www.doughp.com/",
+      "selector": ":root",
+      "declarations": "--font-megamenu-link-family:Poppins,sans-serif;--font-megamenu-link-size:16px;    --font-megamenu-link-size-sm:16px;    --font-megamenu-link-weight:200;    --font-megamenu-link-weight-sm:200;    --font-megamenu-link-height:1.6;    --font-megamenu-link-height-sm:1.6;    --font-megamenu-link-spacing:0;    --font-megamenu-link-spacing-sm:0;    --font-megamenu-link-transform:none;    --font-megamenu-link-transform-sm:none;    --font-megamenu-link-style:normal;    --font-megamenu-link-style-sm:normal;    --font-megamenu-link-opacity:1;    --font-megamenu-link-opacity-sm:1;"
+    },
+    {
+      "source": "https://www.doughp.com/",
+      "selector": ":root",
+      "declarations": "--font-megamenu-link--large-family:Poppins,sans-serif;--font-megamenu-link--large-size:20px;    --font-megamenu-link--large-size-sm:20px;    --font-megamenu-link--large-weight:600;    --font-megamenu-link--large-weight-sm:600;    --font-megamenu-link--large-height:1.4;    --font-megamenu-link--large-height-sm:1.4;    --font-megamenu-link--large-spacing:0;    --font-megamenu-link--large-spacing-sm:0;    --font-megamenu-link--large-transform:none;    --font-megamenu-link--large-transform-sm:none;    --font-megamenu-link--large-style:normal;    --font-megamenu-link--large-style-sm:normal;    --font-megamenu-link--large-opacity:1;    --font-megamenu-link--large-opacity-sm:1;"
+    },
+    {
+      "source": "https://www.doughp.com/",
+      "selector": ":root",
+      "declarations": "--font-megamenu-image-caption-family:Poppins,sans-serif;--font-megamenu-image-caption-size:18px;    --font-megamenu-image-caption-size-sm:18px;    --font-megamenu-image-caption-weight:600;    --font-megamenu-image-caption-weight-sm:600;    --font-megamenu-image-caption-height:1.3;    --font-megamenu-image-caption-height-sm:1.3;    --font-megamenu-image-caption-spacing:0;    --font-megamenu-image-caption-spacing-sm:0;    --font-megamenu-image-caption-transform:none;    --font-megamenu-image-caption-transform-sm:none;    --font-megamenu-image-caption-style:normal;    --font-megamenu-image-caption-style-sm:normal;    --font-megamenu-image-caption-opacity:1;    --font-megamenu-image-caption-opac"
+    },
+    {
+      "source": "https://www.doughp.com/",
+      "selector": ":root",
+      "declarations": "--font-drawer-menu-level-0-family:Poppins,sans-serif;--font-drawer-menu-level-0-size:24px;    --font-drawer-menu-level-0-size-sm:24px;    --font-drawer-menu-level-0-weight:400;    --font-drawer-menu-level-0-weight-sm:400;    --font-drawer-menu-level-0-height:1.4;    --font-drawer-menu-level-0-height-sm:1.4;    --font-drawer-menu-level-0-spacing:0;    --font-drawer-menu-level-0-spacing-sm:0;    --font-drawer-menu-level-0-transform:none;    --font-drawer-menu-level-0-transform-sm:none;    --font-drawer-menu-level-0-style:normal;    --font-drawer-menu-level-0-style-sm:normal;    --font-drawer-menu-level-0-opacity:1;    --font-drawer-menu-level-0-opacity-sm:1;"
+    },
+    {
+      "source": "https://www.doughp.com/",
+      "selector": ":root",
+      "declarations": "--font-drawer-menu-level-1-family:Poppins,sans-serif;--font-drawer-menu-level-1-size:12px;    --font-drawer-menu-level-1-size-sm:12px;    --font-drawer-menu-level-1-weight:600;    --font-drawer-menu-level-1-weight-sm:600;    --font-drawer-menu-level-1-height:1.4;    --font-drawer-menu-level-1-height-sm:1.4;    --font-drawer-menu-level-1-spacing:0;    --font-drawer-menu-level-1-spacing-sm:0;    --font-drawer-menu-level-1-transform:uppercase;    --font-drawer-menu-level-1-transform-sm:uppercase;    --font-drawer-menu-level-1-style:normal;    --font-drawer-menu-level-1-style-sm:normal;    --font-drawer-menu-level-1-opacity:0.65;    --font-drawer-menu-level-1-opacity-sm:0.65;"
+    },
+    {
+      "source": "https://www.doughp.com/",
+      "selector": ":root",
+      "declarations": "--font-drawer-menu-level-2-family:Poppins,sans-serif;--font-drawer-menu-level-2-size:16px;    --font-drawer-menu-level-2-size-sm:16px;    --font-drawer-menu-level-2-weight:400;    --font-drawer-menu-level-2-weight-sm:400;    --font-drawer-menu-level-2-height:1.4;    --font-drawer-menu-level-2-height-sm:1.4;    --font-drawer-menu-level-2-spacing:0;    --font-drawer-menu-level-2-spacing-sm:0;    --font-drawer-menu-level-2-transform:none;    --font-drawer-menu-level-2-transform-sm:none;    --font-drawer-menu-level-2-style:normal;    --font-drawer-menu-level-2-style-sm:normal;    --font-drawer-menu-level-2-opacity:1;    --font-drawer-menu-level-2-opacity-sm:1;"
+    },
+    {
+      "source": "https://www.doughp.com/",
+      "selector": ":root",
+      "declarations": "--font-footer-title-family:Poppins,sans-serif;--font-footer-title-size:21px;    --font-footer-title-size-sm:21px;    --font-footer-title-weight:700;    --font-footer-title-weight-sm:700;    --font-footer-title-height:1.3;    --font-footer-title-height-sm:1.3;    --font-footer-title-spacing:0;    --font-footer-title-spacing-sm:0;    --font-footer-title-transform:none;    --font-footer-title-transform-sm:none;    --font-footer-title-style:normal;    --font-footer-title-style-sm:normal;    --font-footer-title-opacity:1;    --font-footer-title-opacity-sm:1;"
+    },
+    {
+      "source": "https://www.doughp.com/",
+      "selector": ":root",
+      "declarations": "--font-footer-link-family:Poppins,sans-serif;--font-footer-link-size:15px;    --font-footer-link-size-sm:15px;    --font-footer-link-weight:400;    --font-footer-link-weight-sm:400;    --font-footer-link-height:1.7;    --font-footer-link-height-sm:1.7;    --font-footer-link-spacing:0;    --font-footer-link-spacing-sm:0;    --font-footer-link-transform:none;    --font-footer-link-transform-sm:none;    --font-footer-link-style:normal;    --font-footer-link-style-sm:normal;    --font-footer-link-opacity:0.8;    --font-footer-link-opacity-sm:0.8;"
+    },
+    {
+      "source": "https://www.doughp.com/",
+      "selector": ".button--lg",
+      "declarations": "transition: all 150ms;    transform: translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));    display: inline-flex;    height: min-content;    align-self: center;    justify-self: center;    align-items: center;    justify-content: center;    gap: var(--font-button--lg-icon-gap-sm);    font-family: var(--font-button--lg-family, inherit);    font-size: var(--font-button--lg-size-sm);    font-weight: var(--font-button--lg-weight-sm);    line-height: var(--font-button--lg-height-sm);    letter-spacing: var(--font-button--lg-spacing-sm);    text-transform: var(--font-butt"
+    },
+    {
+      "source": "https://www.doughp.com/",
+      "selector": ".button--lg:where(:hover,:focus,:active,.active)",
+      "declarations": "border-radius: var(--font-button--lg-hover-border-radius-sm);    box-shadow: var(--font-button--lg-hover-shadow-sm);    --tw-scale-x: var(--font-button--lg-hover-scale-sm);    --tw-scale-y: var(--font-button--lg-hover-scale-sm);"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Doughp: Legit Cookie Dough | Edible Delicious Cookie Dough\n – Doughp Cookie Dough",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.doughp.com/",
+        "https://www.doughp.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/019b9d20-37e5-7ca5-9de5-643c0cc3ca3c/platter-plus-438/assets/platter.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393",
+        "https://cdn.shopify.com/extensions/019b9d20-37e5-7ca5-9de5-643c0cc3ca3c/platter-plus-438/assets/platter.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.doughp.com/",
+        "https://www.doughp.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/019b9d20-37e5-7ca5-9de5-643c0cc3ca3c/platter-plus-438/assets/platter.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.doughp.com/",
+        "https://www.doughp.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.doughp.com/cdn/shop/t/298/assets/tailwind.css?v=58515334818762516801787071393",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/019b9d20-37e5-7ca5-9de5-643c0cc3ca3c/platter-plus-438/assets/platter.css"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "colors.cream": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "colors.caramel-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "colors.error": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "colors.dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.doughp.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.cart-drawer": {
+      "status": "inferred"
+    }
+  }
+}

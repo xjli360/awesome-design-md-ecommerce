@@ -1,0 +1,747 @@
+{
+  "source_url": "https://rabbit.tech",
+  "final_url": "https://www.rabbit.tech/",
+  "captured_at": "2026-09-28T09:24:51.132281+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://rabbit.tech",
+      "final_url": "https://www.rabbit.tech/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "36bbb0aef2b864c06c0b3483211bd7038a20e21d0afb6bccd1a91706780f4cf7",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.rabbit.tech/_next/static/css/9df6f286ecf31da3.css",
+      "final_url": "https://www.rabbit.tech/_next/static/css/9df6f286ecf31da3.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e9bb8434d2fc6e34b55124967fa0d8788ad1dba155873eaca6ba55c9e39b21f0",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.rabbit.tech/_next/static/css/5081f81e2edb2c7b.css",
+      "final_url": "https://www.rabbit.tech/_next/static/css/5081f81e2edb2c7b.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "46cd38336b15117d673a93803c19144c488f23430b894ced47870c136a26b9f9",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.rabbit.tech/_next/static/css/028245207ea302df.css",
+      "final_url": "https://www.rabbit.tech/_next/static/css/028245207ea302df.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "71f71cde6b2c7cac010d7b70fd830df0ceecaa015bd21262ef572a8d537184c8",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.rabbit.tech/_next/static/css/14600fce1c8d1a3a.css",
+      "final_url": "https://www.rabbit.tech/_next/static/css/14600fce1c8d1a3a.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "867dc775749168cf8dc6f33d28b77a3e0f81549a62d6355da81b4b0b165ed6b8",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.rabbit.tech/_next/static/css/3ecb08d69760c4d8.css",
+      "final_url": "https://www.rabbit.tech/_next/static/css/3ecb08d69760c4d8.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a62d96cfc736a83e0d4e6c1c5ad933454b3b603c4df5975e97ce7004bc1f28d3",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 22,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#000000": {
+      "count": 13,
+      "sources": [
+        "https://www.rabbit.tech/",
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#ff4d06": {
+      "count": 12,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 10,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#ff5c00": {
+      "count": 8,
+      "sources": [
+        "https://www.rabbit.tech/",
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#ebe8e2": {
+      "count": 8,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#ff4612": {
+      "count": 7,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 7,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#7c7c7c": {
+      "count": 6,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#e2dcd1": {
+      "count": 6,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#ffb000": {
+      "count": 6,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#ff6b2e": {
+      "count": 6,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#585858": {
+      "count": 5,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#393939": {
+      "count": 4,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 4,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#6a6a6a": {
+      "count": 3,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#ede8e0": {
+      "count": 3,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 3,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#868686": {
+      "count": 3,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#2d2d2d": {
+      "count": 2,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#414141": {
+      "count": 2,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#0d0d0d": {
+      "count": 2,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#131516": {
+      "count": 2,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#00000066": {
+      "count": 2,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#8d8d8d": {
+      "count": 2,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#ff5c0026": {
+      "count": 2,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#00000073": {
+      "count": 2,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#ff5c0073": {
+      "count": 2,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#ff5c0052": {
+      "count": 2,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#22222280": {
+      "count": 2,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#ebe8e3": {
+      "count": 2,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#eae8e3": {
+      "count": 1,
+      "sources": [
+        "https://www.rabbit.tech/"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 1,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 1,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#3b82f680": {
+      "count": 1,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#2e2e2e": {
+      "count": 1,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#3a3a3a": {
+      "count": 1,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#444444": {
+      "count": 1,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#4a4a4a": {
+      "count": 1,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#646464": {
+      "count": 1,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#737373": {
+      "count": 1,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#e40606": {
+      "count": 1,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#a9a9ab": {
+      "count": 1,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#1b1b1b": {
+      "count": 1,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#1d1d1d": {
+      "count": 1,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 1,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#222222": {
+      "count": 1,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#262626": {
+      "count": 1,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#464646": {
+      "count": 1,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#ba0000": {
+      "count": 1,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#c6cbc6": {
+      "count": 1,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#ececec": {
+      "count": 1,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#00000080": {
+      "count": 1,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#000000b3": {
+      "count": 1,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#000000cc": {
+      "count": 1,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#ffffff33": {
+      "count": 1,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#6b7280": {
+      "count": 1,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#8a8a8a": {
+      "count": 1,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#a0a0a0": {
+      "count": 1,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "#a4a4a4": {
+      "count": 1,
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Apple Color Emoji": [
+      "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+    ],
+    "Consolas": [
+      "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+    ],
+    "Courier New": [
+      "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+    ],
+    "Liberation Mono": [
+      "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+    ],
+    "Menlo": [
+      "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+    ],
+    "Monaco": [
+      "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+    ],
+    "Noto Color Emoji": [
+      "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+    ],
+    "SFMono-Regular": [
+      "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+    ],
+    "Segoe UI Emoji": [
+      "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+    ],
+    "Segoe UI Symbol": [
+      "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+    ],
+    "__archivoFont_931059": [
+      "https://www.rabbit.tech/_next/static/css/9df6f286ecf31da3.css"
+    ],
+    "__archivoFont_Fallback_931059": [
+      "https://www.rabbit.tech/_next/static/css/9df6f286ecf31da3.css"
+    ],
+    "__powerGroteskFont_859336": [
+      "https://www.rabbit.tech/_next/static/css/5081f81e2edb2c7b.css"
+    ],
+    "__powerGroteskFont_Fallback_859336": [
+      "https://www.rabbit.tech/_next/static/css/5081f81e2edb2c7b.css"
+    ],
+    "monospace": [
+      "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+    ],
+    "sans-serif": [
+      "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+    ],
+    "system-ui": [
+      "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+    ],
+    "ui-monospace": [
+      "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+    ],
+    "ui-sans-serif": [
+      "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.rabbit.tech/_next/static/css/028245207ea302df.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-feature-settings:inherit;font-variation-settings:inherit;font-size:100%;font-weight:inherit;line-height:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://www.rabbit.tech/_next/static/css/028245207ea302df.css",
+      "selector": "[type=button],[type=reset],[type=submit],button",
+      "declarations": "-webkit-appearance:button;background-color:initial;background-image:none"
+    },
+    {
+      "source": "https://www.rabbit.tech/_next/static/css/028245207ea302df.css",
+      "selector": "body",
+      "declarations": "--mobile-margin:50px;--mobile-gutter:20px;--mobile-columns:4"
+    },
+    {
+      "source": "https://www.rabbit.tech/_next/static/css/028245207ea302df.css",
+      "selector": "body",
+      "declarations": "display:flex;min-height:100vh;width:100%;min-width:20rem;flex-direction:column;--tw-bg-opacity:1;background-color:rgb(0 0 0/var(--tw-bg-opacity));min-height:100dvh;overscroll-behavior-y:none"
+    },
+    {
+      "source": "https://www.rabbit.tech/_next/static/css/028245207ea302df.css",
+      "selector": ".waitlist-klaviyo-form button",
+      "declarations": "color:#000!important;background-color:#ff4d06!important;border-radius:17px!important"
+    },
+    {
+      "source": "https://www.rabbit.tech/_next/static/css/028245207ea302df.css",
+      "selector": ".text-global-body",
+      "declarations": "font-size:16px;font-weight:400;line-height:25px;--tw-text-opacity:1;color:rgb(226 220 209/var(--tw-text-opacity))"
+    },
+    {
+      "source": "https://www.rabbit.tech/_next/static/css/028245207ea302df.css",
+      "selector": ".\\[\\&_button\\]\\:after\\:bg-\\[\\#FF4D06\\] button:after",
+      "declarations": "content:var(--tw-content);--tw-bg-opacity:1;background-color:rgb(255 77 6/var(--tw-bg-opacity))"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "rabbit OS3 | rabbit",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "colors.primary-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.rabbit.tech/",
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.rabbit.tech/",
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "colors.surface-card-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "colors.border-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.rabbit.tech/",
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "colors.alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "colors.overlay-scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.rabbit.tech/_next/static/css/028245207ea302df.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.model-picker": {
+      "status": "inferred"
+    }
+  }
+}

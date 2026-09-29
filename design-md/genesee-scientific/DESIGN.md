@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Genesee Scientific
-description: The lime jolt of #78be20 sits where most lab-supply brands would reach for a cautious navy or a clinical white — Genesee Scientific deploys it on primary CTAs, stock-available badges, and callout highlights as a signal that science can move with urgency and still look sharp doing it. Against a deep aqua-teal (#016e9f) and a near-black carrying barely perceptible violet undertones (#110011), the palette reads less like a hospital anteroom and more like a researcher who color-codes every tube rack in the cabinet. The canvas is white, but the brand never settles into the default sterility of competitor catalogs; the lime accent creates hard visual hierarchy wherever it lands, routing attention to transactional moments without needing large type or aggressive layout.
+name: "Genesee Scientific"
+source_url: "https://www.geneseesci.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The lime jolt of #78be20 sits where most lab-supply brands would reach for a cautious navy or a clinical white — Genesee Scientific deploys it on primary CTAs, stock-available badges, and callout highlights as a signal that science can move with urgency and still look sharp doing it. Against a deep aqua-teal (#016e9f) and a near-black carrying barely perceptible violet undertones (#110011), the palette reads less like a hospital anteroom and more like a researcher who color-codes every tube rack in the cabinet. The canvas is white, but the brand never settles into the default sterility of competitor catalogs; the lime accent creates hard visual hierarchy wherever it lands, routing attention to transactional moments without needing large type or aggressive layout.
 
   Typography was not extractable from the live site — likely loaded via JavaScript — so the spec falls back to a neutral system sans-serif appropriate for a B2B supplier whose audience is procurement managers, lab coordinators, and researchers who want to find a SKU and check pack size quickly rather than linger on art direction. Display sizes stay proportional to catalog density: large enough to separate category headers from product names, compact enough to accommodate long scientific nomenclature without wrapping awkwardly.
 
@@ -413,6 +417,8 @@ components:
 - Nav-top-bar is hidden on mobile; account and cart icons are promoted into the main nav bar at the same 64px height
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **No font families extracted**: The live site likely loads fonts via JavaScript (Adobe Fonts, Google Fonts, or a licensed custom face). All `fontFamily` values fall back to system sans-serif. Inspect the rendered page's computed styles to identify the actual typeface and update every `fontFamily` key in the typography block.
 - **Sparse color extraction (3 colors only)**: Only #016e9f, #78be20, and #110011 were extracted. All neutral shades — `body`, `muted`, `hairline`, `surface-soft`, `surface-teal`, `surface-card` — are inferred from B2B catalog conventions, not measured values. Validate against rendered pages before implementing.

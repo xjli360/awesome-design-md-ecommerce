@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Duck Camp
-description: A hunting and fishing brand that wraps its outdoor ethos in a marsh-green (#108474) and duck-boat orange (#ef5023) palette, with a secondary sage (#aaccaa) and a warm tan (#9c8d5f) that read like a well-worn canvas jacket. The brand uses P22 Mackinac Pro for display — a serif with a slight traditionalist tilt — and Baton Turbo for body, creating a tension between old-world hunting-lodge typography and modern e-commerce utility. The site's canvas is a soft off-white (#f9fafb) rather than pure white, and the hairline (#e5e6e9) is barely there, letting product photography and the orange CTAs do the heavy lifting. Duck Camp's primary button is a full-bleed orange (#ef5023) pill with white text, and the secondary button inverts to a white pill with a green (#108474) outline — a two-button system that feels like a choice between "go hunting" and "stay at camp." The navigation bar sits at 80px with a transparent background that picks up the page's canvas color, and the logo is a wordmark in P22 Mackinac Pro, often accompanied by a small duck silhouette. The brand's voice is direct, masculine, and unpretentious — it's the kind of site where the "Shop by Species" dropdown sits next to "New Arrivals," and the footer is a dense grid of links in {colors.muted} (#7b7b7b) with a thick green (#108474) top border. The product cards use a soft {rounded.sm} (8px) and a clean white surface, with the price in {typography.title-md} and the product name in {typography.body-sm}. The brand also uses a mustard yellow (#fbcd0a) sparingly — likely for sale badges or limited-edition callouts — and a slate gray (#3a3a3a) for body text that's softer than pure black. The overall feel is a campfire-lit e-commerce experience: warm, grounded, and built for the person who owns more than one pair of waders.
+name: "Duck Camp"
+source_url: "https://duckcamp.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A hunting and fishing brand that wraps its outdoor ethos in a marsh-green (#108474) and duck-boat orange (#ef5023) palette, with a secondary sage (#aaccaa) and a warm tan (#9c8d5f) that read like a well-worn canvas jacket. The brand uses P22 Mackinac Pro for display — a serif with a slight traditionalist tilt — and Baton Turbo for body, creating a tension between old-world hunting-lodge typography and modern e-commerce utility. The site's canvas is a soft off-white (#f9fafb) rather than pure white, and the hairline (#e5e6e9) is barely there, letting product photography and the orange CTAs do the heavy lifting. Duck Camp's primary button is a full-bleed orange (#ef5023) pill with white text, and the secondary button inverts to a white pill with a green (#108474) outline — a two-button system that feels like a choice between "go hunting" and "stay at camp." The navigation bar sits at 80px with a transparent background that picks up the page's canvas color, and the logo is a wordmark in P22 Mackinac Pro, often accompanied by a small duck silhouette. The brand's voice is direct, masculine, and unpretentious — it's the kind of site where the "Shop by Species" dropdown sits next to "New Arrivals," and the footer is a dense grid of links in {colors.muted} (#7b7b7b) with a thick green (#108474) top border. The product cards use a soft {rounded.sm} (8px) and a clean white surface, with the price in {typography.title-md} and the product name in {typography.body-sm}. The brand also uses a mustard yellow (#fbcd0a) sparingly — likely for sale badges or limited-edition callouts — and a slate gray (#3a3a3a) for body text that's softer than pure black. The overall feel is a campfire-lit e-commerce experience: warm, grounded, and built for the person who owns more than one pair of waders.
 
 colors:
   primary: "#ef5023"
@@ -468,6 +472,8 @@ components:
 - Search bar collapses to an icon that opens a full-screen overlay on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for tertiary text buttons (underline vs. color change) not confirmed from extraction
 - Error state styling for forms (error messages, icon placement) not extracted

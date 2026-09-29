@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Thinx
-description: A neon-lime #e6ff55 voltage cuts across a warm peach #fceee3 canvas — Thinx uses this improbable acid-green as its primary signal, a color more common to energy drinks or rave flyers than underwear, and it works because the brand is selling permission to bleed, leak, and sweat without shame. The palette is deliberately small: the lime for CTAs and badges, the peach for backgrounds and hover states, a near-black #121212 for body text, and a soft #dedede for borders and dividers. There are no pastel pinks or blush tones — the brand rejects the euphemistic femininity that dominates the category. Typography runs a clean sans-serif at moderate weights; display headlines sit at 24–32px in weight 600, body copy at 16px weight 400. Buttons are squat rectangles with {rounded.sm} corners — no pills, no softness — and the lime fills them completely, with white text that reads "SHOP NOW" or "TAKE THE QUIZ" in all-caps. Product cards float on white with a thin {colors.hairline} border and a single lime accent on the "NEW" badge or the "ADD TO CART" button. The nav bar is a thin strip of {colors.canvas} with the brand wordmark in {colors.ink} and a lime-highlighted "SALE" link. The overall feel is utilitarian, direct, and slightly confrontational — the opposite of the whispery, floral language of legacy period-care brands.
+name: "Thinx"
+source_url: "https://thinx.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A neon-lime #e6ff55 voltage cuts across a warm peach #fceee3 canvas — Thinx uses this improbable acid-green as its primary signal, a color more common to energy drinks or rave flyers than underwear, and it works because the brand is selling permission to bleed, leak, and sweat without shame. The palette is deliberately small: the lime for CTAs and badges, the peach for backgrounds and hover states, a near-black #121212 for body text, and a soft #dedede for borders and dividers. There are no pastel pinks or blush tones — the brand rejects the euphemistic femininity that dominates the category. Typography runs a clean sans-serif at moderate weights; display headlines sit at 24–32px in weight 600, body copy at 16px weight 400. Buttons are squat rectangles with {rounded.sm} corners — no pills, no softness — and the lime fills them completely, with white text that reads "SHOP NOW" or "TAKE THE QUIZ" in all-caps. Product cards float on white with a thin {colors.hairline} border and a single lime accent on the "NEW" badge or the "ADD TO CART" button. The nav bar is a thin strip of {colors.canvas} with the brand wordmark in {colors.ink} and a lime-highlighted "SALE" link. The overall feel is utilitarian, direct, and slightly confrontational — the opposite of the whispery, floral language of legacy period-care brands.
 
 colors:
   primary: "#e6ff55"
@@ -423,6 +427,8 @@ components:
 - Cart drawer replaces full cart page on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No font-family declarations were extracted from the live site; the typography block uses Inter as a reasonable sans-serif default for a modern DTC brand, but the actual brand font (possibly a custom or licensed typeface) is unknown
 - Hover states for most components were inferred from common DTC patterns; actual Thinx hover transitions (duration, easing) could not be extracted

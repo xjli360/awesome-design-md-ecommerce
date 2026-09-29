@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Quartet
-description: |
+name: "Quartet"
+source_url: "https://www.quartet.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The steel frame of a Quartet glass board sits close to #313131 — a warm near-black that recedes when the white writing surface fills with marker strokes and color-coded sticky notes. That single confirmed extraction, all the site's anti-bot wall permitted through, encodes a coherent brand posture: a workspace brand whose own visual identity steps back to let the working surface be the hero. The complete system-font stack (system-ui, -apple-system, Segoe UI, Roboto, Helvetica Neue) reinforces that disposition — no proprietary typeface, no brand-font signature, just assured legibility at product specification tables and dimension callouts.
 
   Quartet's catalog stratifies by board material — glass at the premium end, porcelain in the mid-range, melamine at value — and that three-tier logic likely maps directly into the digital layer as distinct tier badges, filtered rail tabs, and price-range visual anchors. The palette built here is a cautious inference from #313131 plus B2B office product conventions. A professional blue (#0057A8) carries primary CTAs, consistent with a brand that distributes through enterprise dealers and educational procurement channels. The confirmed charcoal anchors nav strokes, headlines, and body text; canvas stays white; two surface-gray steps create depth behind product imagery without competing with the boards' clean white faces.
@@ -294,6 +297,8 @@ components:
 - Footer four-column link grid steps to two columns at tablet and single-column accordion sections at mobile, each expandable by tap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Color palette nearly unextractable**: only `#313131` (ink/charcoal) was confirmed from the live site — the page returned an anti-bot challenge before full rendering. All other colors (primary blue, surface grays, tier accents) are inferred from B2B workspace conventions and are unverified against actual brand assets.
 - **No custom brand font detected**: extraction returned only system font stacks. Quartet may load a licensed typeface via `@font-face` or a third-party CDN blocked by the anti-bot wall. All typography here uses the confirmed system-ui stack as a fallback.

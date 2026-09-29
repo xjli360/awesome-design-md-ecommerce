@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Asmodee
-description: A deep, saturated board-game universe where every surface is a playing field — the site runs on a black (#000000) canvas that flips the typical white-ecommerce expectation, making each product image and game box glow like a tabletop under a lamp. The primary voltage is a vivid orange (#f15a22), a color borrowed from the brand's iconic "A" mark, used sparingly on CTAs, price tags, and category accents so it reads as a game token rather than a corporate badge. Product cards float on dark charcoal (#1a1a1a) surfaces with crisp white (#ffffff) type, creating a cinema-like contrast that treats each game as a poster. The navigation is a persistent black bar with white links and a bold orange search icon — the only color in the header — signaling that discovery is the primary action. Category badges use the orange on black, while secondary badges (new, sale) shift to a bright yellow (#ffd100) for urgency. The footer collapses into a dense, single-column stack of links on black with muted gray (#666666) secondary text, reinforcing the brand's no-nonsense, game-first attitude. There are no gradients, no soft shadows, no rounded corners above 8px — the design is flat, direct, and unapologetically graphic, like a rulebook.
+name: "Asmodee"
+source_url: "https://www.asmodee.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep, saturated board-game universe where every surface is a playing field — the site runs on a black (#000000) canvas that flips the typical white-ecommerce expectation, making each product image and game box glow like a tabletop under a lamp. The primary voltage is a vivid orange (#f15a22), a color borrowed from the brand's iconic "A" mark, used sparingly on CTAs, price tags, and category accents so it reads as a game token rather than a corporate badge. Product cards float on dark charcoal (#1a1a1a) surfaces with crisp white (#ffffff) type, creating a cinema-like contrast that treats each game as a poster. The navigation is a persistent black bar with white links and a bold orange search icon — the only color in the header — signaling that discovery is the primary action. Category badges use the orange on black, while secondary badges (new, sale) shift to a bright yellow (#ffd100) for urgency. The footer collapses into a dense, single-column stack of links on black with muted gray (#666666) secondary text, reinforcing the brand's no-nonsense, game-first attitude. There are no gradients, no soft shadows, no rounded corners above 8px — the design is flat, direct, and unapologetically graphic, like a rulebook.
 
 colors:
   primary: "#f15a22"
@@ -440,6 +444,8 @@ components:
 - Pagination collapses to "Previous / Next" buttons on mobile, hiding page numbers
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No font-family declarations were extractable from the live site; the typography stack uses common web-safe fallbacks (Montserrat and Open Sans) based on industry convention for board-game brands. Actual fonts may differ.
 - No hex colors were extractable from the live site due to access restrictions (the page returned "Access Denied"). The color palette is reconstructed from the brand's known visual identity (black canvas, orange primary, white type) and may not reflect the current live site.

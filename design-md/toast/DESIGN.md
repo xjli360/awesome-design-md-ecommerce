@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Toast
-description: A brand built on the warmth of natural wood grain, where the primary identity is anchored by a vivid orange #ff9900 — the same color as the meta theme-color and the most distinctive accent in a palette that otherwise leans toward cool blues (#85dcf8, #1dbbdf, #00ccff) and warm neutrals (#4d4d4d, #717171, #808080). This orange appears on primary CTAs, navigation highlights, and product badges, creating a consistent voltage that reads as handcrafted and approachable rather than industrial. The typography runs Exo and Exo 2 — geometric sans-serifs with subtle futuristic details in the terminals and apertures — giving the brand a precise, modern edge that contrasts beautifully with the organic material story of wood. Product cards use soft rounded corners (`{rounded.md}`) and generous whitespace (`{spacing.base}` to `{spacing.lg}`) to let the wood textures breathe, while the canvas stays clean white (`#ffffff`) with hairline borders (`#dddddd`) that feel like fine joinery. The extracted palette reveals a secondary story of playful accents — a cyan (#00ddbe), a magenta (#e73394), a lime (#3ae733), and a deep indigo (#221155) — suggesting a brand unafraid of color blocking or limited-edition drops. But the orange remains the anchor: it's the heat of a wood-fired kiln, the glow of a hand-oiled finish, the single color that says "this is Toast" before you read a single word.
+name: "Toast"
+source_url: "https://www.toastmade.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A brand built on the warmth of natural wood grain, where the primary identity is anchored by a vivid orange #ff9900 — the same color as the meta theme-color and the most distinctive accent in a palette that otherwise leans toward cool blues (#85dcf8, #1dbbdf, #00ccff) and warm neutrals (#4d4d4d, #717171, #808080). This orange appears on primary CTAs, navigation highlights, and product badges, creating a consistent voltage that reads as handcrafted and approachable rather than industrial. The typography runs Exo and Exo 2 — geometric sans-serifs with subtle futuristic details in the terminals and apertures — giving the brand a precise, modern edge that contrasts beautifully with the organic material story of wood. Product cards use soft rounded corners (`{rounded.md}`) and generous whitespace (`{spacing.base}` to `{spacing.lg}`) to let the wood textures breathe, while the canvas stays clean white (`#ffffff`) with hairline borders (`#dddddd`) that feel like fine joinery. The extracted palette reveals a secondary story of playful accents — a cyan (#00ddbe), a magenta (#e73394), a lime (#3ae733), and a deep indigo (#221155) — suggesting a brand unafraid of color blocking or limited-edition drops. But the orange remains the anchor: it's the heat of a wood-fired kiln, the glow of a hand-oiled finish, the single color that says "this is Toast" before you read a single word.
 
 colors:
   primary: "#ff9900"
@@ -356,6 +360,8 @@ components:
 - Color swatch selectors collapse from inline display to a horizontal scrollable row on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted font list includes `Exo` and `Exo 2` but exact font weights and sizes used in production could not be determined from the extracted data alone; the typography scale above is an informed estimate based on common usage patterns for geometric sans-serif brands
 - Hover states for buttons and cards are inferred from common patterns; actual production hover animations (ease, duration, shadow depth) were not extractable

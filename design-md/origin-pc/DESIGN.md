@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Origin PC
-description: |
+name: "Origin PC"
+source_url: "https://www.originpc.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Red cuts through black like a heat sink glowing under load — #cc181e is the single voltage that powers every call-to-action, configurator "Add" button, and promotional banner across Origin PC's dark-canvas interface. The site defaults to a near-black (#0d0d0d) ground, positioning itself closer to a cockpit HUD than a retail storefront; product photography floats on void, and spec tables read like telemetry. Heading type runs in Avalanche, a condensed geometric sans that compresses wide characters into narrow columns — ideal for system names like "CHRONOS" and "MILLENNIUM" where syllable count outpaces available horizontal space. Body copy shifts to Azo Sans Web at weight 400, offering clean legibility against dark surfaces at 15–16px without the personality overhead of the display face. A third voice, FF Basic Gothic Pro, appears in navigation links and micro-labels at weight 500/600, providing a utilitarian middle register between the cinematic Avalanche headlines and the workmanlike Azo body. Corners stay aggressive: buttons carry only `{rounded.xs}` (4px) or `{rounded.none}`, rejecting the pill-shaped friendliness of consumer marketplaces in favor of precision rectangles that echo chassis bezels and heat-vent geometry. Spacing is dense — product cards pack tightly in 12–16px gutters, while section padding remains generous (`{spacing.section}`) to let hero photography breathe. The near-white #fafafa serves double duty as primary text and surface highlight, its slight warmth preventing the harshness of pure white on OLED-targeted imagery. Interactive states lean on opacity shifts and red underlines rather than background swaps, maintaining the dark atmosphere even during hover and focus. The configurator — the brand's revenue engine — uses red step-indicators and highlighted selection borders to guide users through CPU, GPU, cooling, and aesthetic choices without breaking the immersive, spec-forward tone.
 
 colors:
@@ -445,6 +448,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only two hex colors extracted (#cc181e, #fafafa); the full dark palette (canvas black, surface grays, hairline values) is inferred from brand convention rather than directly extracted — actual values may differ by 5–15% lightness
 - Avalanche font metrics (exact weight range, available styles) could not be confirmed from extraction; the font may be a custom subset with limited weights

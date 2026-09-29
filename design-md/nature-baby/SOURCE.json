@@ -1,0 +1,1803 @@
+{
+  "source_url": "https://naturebaby.com",
+  "final_url": "https://naturebaby.com/",
+  "captured_at": "2026-09-29T04:21:13.373955+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://naturebaby.com",
+      "final_url": "https://naturebaby.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "f24c175cc6a256d736e64bf599f6e05a589a7e539c4b353a3fd74ece0a2e11b4",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+      "final_url": "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0326257067716028c745d36f8faf0eaa9dd9afd71e113e1ddf4b697f8b54754b",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://naturebaby.com/cdn/shop/t/55/assets/swatches.css?v=15779253378300402291788130805",
+      "final_url": "https://naturebaby.com/cdn/shop/t/55/assets/swatches.css?v=15779253378300402291788130805",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "183603cc120e5b965cad81acabaeb0763d30896f6d0ecbed9af7c9d3ca19cf08",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://naturebaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://naturebaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9b0c7ae6bdf5ac70391c153c58da81209a0eeadc615c53c4ea3cd627c360b678",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "076a201857fce558d0f3396425b817cdc042c4ecfae2a68122d5476e92e7dc3c",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 185,
+      "sources": [
+        "https://naturebaby.com/",
+        "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+        "https://naturebaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#000000": {
+      "count": 101,
+      "sources": [
+        "https://naturebaby.com/",
+        "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#8ca89a": {
+      "count": 35,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#272727": {
+      "count": 34,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#111111": {
+      "count": 28,
+      "sources": [
+        "https://naturebaby.com/",
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#f5f2ec": {
+      "count": 16,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#fbf7ef": {
+      "count": 15,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 15,
+      "sources": [
+        "https://naturebaby.com/",
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#ab8c52": {
+      "count": 14,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#fdf8e2": {
+      "count": 14,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#d1d1d1": {
+      "count": 14,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#212121": {
+      "count": 12,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#b1b7c3": {
+      "count": 10,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#588f74": {
+      "count": 9,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 9,
+      "sources": [
+        "https://naturebaby.com/",
+        "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#333333": {
+      "count": 9,
+      "sources": [
+        "https://naturebaby.com/",
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#425c58": {
+      "count": 8,
+      "sources": [
+        "https://naturebaby.com/",
+        "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807"
+      ]
+    },
+    "#7d9d8d": {
+      "count": 8,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 8,
+      "sources": [
+        "https://naturebaby.com/",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#999ea8": {
+      "count": 8,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#e6f7f4": {
+      "count": 8,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#deefe7": {
+      "count": 7,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#282c2e": {
+      "count": 7,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#999999": {
+      "count": 7,
+      "sources": [
+        "https://naturebaby.com/",
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#888888": {
+      "count": 7,
+      "sources": [
+        "https://naturebaby.com/",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#0000000d": {
+      "count": 7,
+      "sources": [
+        "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#ea0202": {
+      "count": 7,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#121f36": {
+      "count": 7,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#f8f1e3": {
+      "count": 6,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#292929": {
+      "count": 6,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#806430": {
+      "count": 5,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#e8d4ae": {
+      "count": 5,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#2e2e2e": {
+      "count": 5,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#555555": {
+      "count": 5,
+      "sources": [
+        "https://naturebaby.com/",
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#d1d5db": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#f4f8fe": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#eaeaea": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 4,
+      "sources": [
+        "https://naturebaby.com/",
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#f5f2ea": {
+      "count": 4,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#f0ece0": {
+      "count": 4,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#a49c8b": {
+      "count": 4,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#9a7e4a": {
+      "count": 4,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#f3eee2": {
+      "count": 4,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#2e5a57": {
+      "count": 4,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#d1cdc4": {
+      "count": 4,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#0000008c": {
+      "count": 4,
+      "sources": [
+        "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#00000000": {
+      "count": 4,
+      "sources": [
+        "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+        "https://naturebaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#ffa476": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#ff8080": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#ffed80": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#a4ff80": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#80ffc8": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#80c8ff": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#a480ff": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#ff80ed": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#171722": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#9b9b9b": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#7a8b85": {
+      "count": 3,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#1e3430": {
+      "count": 3,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#363636": {
+      "count": 3,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#f6eddb": {
+      "count": 3,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#d5dfda": {
+      "count": 3,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#fcfbf9": {
+      "count": 3,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 3,
+      "sources": [
+        "https://naturebaby.com/",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#721c24": {
+      "count": 3,
+      "sources": [
+        "https://naturebaby.com/",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#f8d7da": {
+      "count": 3,
+      "sources": [
+        "https://naturebaby.com/",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#383d41": {
+      "count": 3,
+      "sources": [
+        "https://naturebaby.com/",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 3,
+      "sources": [
+        "https://naturebaby.com/",
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#00000005": {
+      "count": 3,
+      "sources": [
+        "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807"
+      ]
+    },
+    "#fafafa": {
+      "count": 3,
+      "sources": [
+        "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#e8e8e1": {
+      "count": 3,
+      "sources": [
+        "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807"
+      ]
+    },
+    "#525252": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#fef3e2": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#6b6b6b": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#dfe3da": {
+      "count": 2,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#93a993": {
+      "count": 2,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#a09e99": {
+      "count": 2,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#83a192": {
+      "count": 2,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#e6eae8": {
+      "count": 2,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#8f8f92": {
+      "count": 2,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#597567": {
+      "count": 2,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#dee3e0": {
+      "count": 2,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#444444": {
+      "count": 2,
+      "sources": [
+        "https://naturebaby.com/",
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#ccd8d2": {
+      "count": 2,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#ede7d9": {
+      "count": 2,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#f0ebe2": {
+      "count": 2,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#ece7db": {
+      "count": 2,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#eae6dd": {
+      "count": 2,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#e4dfd4": {
+      "count": 2,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#efe8d7": {
+      "count": 2,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#b74e29": {
+      "count": 2,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#f5c6cb": {
+      "count": 2,
+      "sources": [
+        "https://naturebaby.com/",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#d6d8db": {
+      "count": 2,
+      "sources": [
+        "https://naturebaby.com/",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#666666": {
+      "count": 2,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#ccd6cc": {
+      "count": 2,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#d1d0ce": {
+      "count": 2,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#0000000a": {
+      "count": 2,
+      "sources": [
+        "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807"
+      ]
+    },
+    "#222222": {
+      "count": 2,
+      "sources": [
+        "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 2,
+      "sources": [
+        "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#00000033": {
+      "count": 2,
+      "sources": [
+        "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807"
+      ]
+    },
+    "#0000001a": {
+      "count": 2,
+      "sources": [
+        "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://naturebaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#425bdc": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#ffedef": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#626262": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#bebebe": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#cc8ef5": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#f3f4f6": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#374151": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#d4edda": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#155724": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#fff3cd": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#856404": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#4c4c4c": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#d0d0d0": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#f9fafb": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#fef2f2": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#00000080": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#374d4a": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#d6dcd3": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#ded0b6": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#b5c0b9": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#644d3e": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#a7bcb1": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#b0c2b9": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#3e6157": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#345149": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#d8dedb": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#5d605e": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#030202": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#e7ebe9": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#c0c0c0": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#c7d4cd": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#aeadac": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#5e5e76": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#b6c6ba": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#75897f": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#9ba99f": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#496959": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#dfded9": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#685a3f": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#928873": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#3d321e": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#dfdcd4": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#5d5c59": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#dbd7ce": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#e0dacd": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#9eada3": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#90a196": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#abbdb0": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#dfdad0": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#ece3d0": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#254947": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#56ad6a": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#778881": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#0d0d0d": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#d02e2e": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#e53e3e": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "#3a3a3a": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807"
+      ]
+    },
+    "#0000004d": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807"
+      ]
+    },
+    "#0000000f": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807"
+      ]
+    },
+    "#bb0000": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807"
+      ]
+    },
+    "#00000026": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807"
+      ]
+    },
+    "#00000066": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://naturebaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0074cc": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#0a95ff": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#707070": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#ff4446": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#afafaf": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#a1a1a1": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#ebebeb": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#e2264d": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#252525": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#212529": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#ff3333": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#949494": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#3d4246": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#202e78": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "#17172205": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#c3e6cb": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#ffeeba": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#bee5eb": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#434343": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#00000038": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#92400e": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#c9a96e": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#c8c8c8": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#6b7280": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#111827": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#fca5a5": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#023f76": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#e8f5ee": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "#fee8e8": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    }
+  },
+  "font_families": {
+    "American Typewriter": [
+      "https://naturebaby.com/"
+    ],
+    "Arial": [
+      "https://naturebaby.com/"
+    ],
+    "Gotham": [
+      "https://naturebaby.com/"
+    ],
+    "Helvetica": [
+      "https://naturebaby.com/"
+    ],
+    "Little Days": [
+      "https://naturebaby.com/"
+    ],
+    "Raleway": [
+      "https://naturebaby.com/"
+    ],
+    "Roboto Slab": [
+      "https://naturebaby.com/"
+    ],
+    "avenir": [
+      "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+    ],
+    "sans-serif": [
+      "https://naturebaby.com/"
+    ],
+    "wishlist__icon": [
+      "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+    ],
+    "wishlist__icon!important": [
+      "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://naturebaby.com/",
+      "selector": ":root",
+      "declarations": "--ANNOUNCEMENT-HEIGHT-DESKTOP: max(calc(var(--font-body-small) * var(--line-height-normal)), 36px);\n    --ANNOUNCEMENT-HEIGHT-MOBILE: max(calc(var(--font-body-small) * var(--line-height-normal)), 36px);"
+    },
+    {
+      "source": "https://naturebaby.com/",
+      "selector": "--PT: 0px;\n  --PB: 0px;\n\n  --ticker-direction: ticker-rtl;--text-size: var(--font-body-small);\n  --text-align: center;\n  --justify-content: center;\n--padding-sc",
+      "declarations": "--HEADER-HEIGHT: 107px;\n    --HEADER-HEIGHT-MEDIUM: 99.0px;\n    --HEADER-HEIGHT-MOBILE: 73.0px;\n\n    \n--icon-add-cart: var(--ICON-ADD-BAG);"
+    },
+    {
+      "source": "https://naturebaby.com/",
+      "selector": ".theme__header",
+      "declarations": "--PT: 15px;\n    --PB: 25px;"
+    },
+    {
+      "source": "https://naturebaby.com/",
+      "selector": ".header__logo__link",
+      "declarations": "--logo-padding: 61.26126126126126%;\n      --logo-width-desktop: 110px;\n      --logo-width-mobile: 80px;"
+    },
+    {
+      "source": "https://naturebaby.com/",
+      "selector": "div.fs-text-container .fs-entry-date,\n  div.fs-detail-container .fs-post-info,\n  div.fs-wrapper div.fs-has-links::after,\n  .fs-text-product,\n  .fs-overlink-text",
+      "declarations": "font-family: Helvetica, Arial, sans-serif;\n    font-style: normal;\n    font-weight: 400;\n    font-size: 14px;"
+    },
+    {
+      "source": "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+      "selector": ".flickity-button",
+      "declarations": "position:absolute;border:none;background:none;color:inherit"
+    },
+    {
+      "source": "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+      "selector": ".flickity-prev-next-button",
+      "declarations": "--bg: var(--COLOR-BG);--bg-brighter: var(--COLOR-BG-BRIGHTER);--icon-size: 28px;--btn-size: 40px;top:50%;width:var(--btn-size);height:var(--btn-size);padding:0;background-color:var(--bg);border-radius:var(--RADIUS);box-shadow:0 2px 6px #0000000a,0 2px 2px #00000005;margin-top:calc(var(--btn-size) / -2)"
+    },
+    {
+      "source": "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+      "selector": ".flickity-prev-next-button:after",
+      "declarations": "content:\"\";position:absolute;top:0;left:0;z-index:-1;width:100%;height:100%;background-color:var(--bg-brighter);opacity:1;transform:translate3d(0,100%,0);transition:transform .5s cubic-bezier(.33,0,0,1);will-change:transform;-webkit-backface-visibility:hidden;backface-visibility:hidden"
+    },
+    {
+      "source": "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button",
+      "declarations": "color:#3a3a3a;border-radius:0;border:none;margin:0;cursor:pointer"
+    },
+    {
+      "source": "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button--control:hover",
+      "declarations": "color:#0000008c"
+    },
+    {
+      "source": "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button--control:active,.shopify-model-viewer-ui .shopify-model-viewer-ui__button--control.focus-visible:focus",
+      "declarations": "color:#0000008c;background:#0000000d"
+    },
+    {
+      "source": "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button--poster:hover,.shopify-model-viewer-ui .shopify-model-viewer-ui__button--poster:focus",
+      "declarations": "color:#0000008c"
+    },
+    {
+      "source": "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+      "selector": "button",
+      "declarations": "border:none;background:none;font-family:inherit;font-size:100%;margin:0;text-transform:none;line-height:1;color:currentcolor"
+    },
+    {
+      "source": "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+      "selector": "age-link:focus img,body.is-focused .article__image-link:focus .image-wrapper,body.is-focused .product__slides:focus,body.is-focused a.frame__item:focus img,body",
+      "declarations": "outline-color:var(--accent)!important;outline-offset:-2px!important;outline-style:auto!important;outline-width:5px!important"
+    },
+    {
+      "source": "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+      "selector": "body.is-focused *:focus",
+      "declarations": "outline-color:var(--accent)"
+    },
+    {
+      "source": "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+      "selector": "body.is-focused .deferred-media__poster:focus .deferred-media__poster-button,body.is-focused .deferred-media__poster.focus-visible .deferred-media__poster-butto",
+      "declarations": "outline-color:var(--accent);outline-offset:2px;outline-style:auto;outline-width:5px"
+    },
+    {
+      "source": "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+      "selector": "#challenge .shopify-challenge__button",
+      "declarations": "--btn-border: var(--BTN-PRIMARY-BG);--btn-bg: var(--BTN-PRIMARY-BG);--btn-text: var(--BTN-PRIMARY-TEXT);--btn-border-hover: var(--BTN-PRIMARY-BG-BRIGHTER);--btn-bg-hover: var(--BTN-PRIMARY-BG-BRIGHTER);--btn-text-hover: var(--BTN-PRIMARY-TEXT)"
+    },
+    {
+      "source": "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+      "selector": "body.grid-compact .grid-outer",
+      "declarations": "--outer: 0px;--outer-offset: 0px;--gutter: 0px;--gap: 0px"
+    },
+    {
+      "source": "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+      "selector": ".slider__button",
+      "declarations": "--bg: var(--COLOR-BG);--bg-brighter: var(--COLOR-BG-BRIGHTER);--icon-size: 28px;--btn-size: 40px;position:absolute;top:var(--button-position, 50%);width:var(--btn-size);height:var(--btn-size);padding:0;border:0;border-radius:var(--RADIUS);color:inherit;background:var(--bg);box-shadow:0 2px 6px #0000000a,0 2px 2px #00000005;margin-top:calc(var(--btn-size) / -2);overflow:hidden;font-size:0;text-indent:-100%;cursor:pointer;pointer-events:auto"
+    },
+    {
+      "source": "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+      "selector": ".slider__button:after",
+      "declarations": "content:\"\";position:absolute;top:0;left:0;z-index:-1;width:100%;height:100%;background-color:var(--bg-brighter)"
+    },
+    {
+      "source": "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+      "selector": ":root",
+      "declarations": "--full-height: 100vh;--full-screen: var(--full-height);--three-quarters: 75vh;--two-thirds: 66vh;--one-half: 50vh;--one-third: 33vh;--header-height: 80px;--header-sticky-height: 0px;--footer-height: 500px;--announcement-height: 0px;--content-full: 90vh;--content-min: calc(100vh - var(--header-height) - var(--announcement-height))"
+    },
+    {
+      "source": "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+      "selector": ":root",
+      "declarations": "--header-height: var(--HEADER-HEIGHT, 0px)"
+    },
+    {
+      "source": "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+      "selector": ":root",
+      "declarations": "--announcement-height: var(--ANNOUNCEMENT-HEIGHT-DESKTOP, 0px)"
+    },
+    {
+      "source": "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+      "selector": ":root",
+      "declarations": "--header-height: var(--HEADER-HEIGHT-MEDIUM, 0px)"
+    },
+    {
+      "source": "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+      "selector": ":root",
+      "declarations": "--header-height: var(--HEADER-HEIGHT-MOBILE, 0px);--announcement-height: var(--ANNOUNCEMENT-HEIGHT-MOBILE, 0px)"
+    },
+    {
+      "source": "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+      "selector": "body:has([data-header-sticky]) .main-content>.shopify-section",
+      "declarations": "--full-screen: calc(var(--full-height) - var(--header-height))"
+    },
+    {
+      "source": "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+      "selector": "body:has([data-header-sticky]) .main-content>.shopify-section:first-of-type",
+      "declarations": "--full-screen: calc(var(--full-height) - var(--header-height) - var(--announcement-height))"
+    },
+    {
+      "source": "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+      "selector": "body:has([data-header-transparent]) .main-content>.shopify-section:first-of-type",
+      "declarations": "--full-screen: calc(var(--full-height) - var(--announcement-height))"
+    },
+    {
+      "source": "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+      "selector": "body.has-header-sticky .main-content>.shopify-section",
+      "declarations": "--full-screen: calc(var(--full-height) - var(--header-height))"
+    },
+    {
+      "source": "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+      "selector": "body.has-header-sticky .main-content>.shopify-section:first-of-type",
+      "declarations": "--full-screen: calc(var(--full-height) - var(--header-height) - var(--announcement-height))"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Nature Baby: Organic Baby Clothes & Natural Baby Products",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://naturebaby.com/",
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://naturebaby.com/",
+        "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+        "https://naturebaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://naturebaby.com/",
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://naturebaby.com/",
+        "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+        "https://naturebaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css",
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://naturebaby.com/"
+      ]
+    },
+    "colors.accent-forest": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://naturebaby.com/",
+        "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807"
+      ]
+    },
+    "colors.surface-mint": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/storefront-layout.css"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://naturebaby.com/",
+        "https://naturebaby.com/cdn/shop/t/55/assets/theme.css?v=150310717418801697371788130807",
+        "https://cdn.shopify.com/extensions/01a0e6d8-55ac-7532-811a-4502935d7ece/my-wishlist-share-remind-327/assets/hulkapps-wishlist-styles.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.size-fabric-filter-chip": {
+      "status": "inferred"
+    }
+  }
+}

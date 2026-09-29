@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Kinokuniya USA
-description: A deep, ink-black #222222 reading room that trusts its own density — the primary hex #112233 is a near-black midnight blue that reads as a physical bookshelf shadow rather than a digital brand color, and it anchors every header, footer stripe, and primary button without apology. Against this dark backdrop, the accent palette is a scattered constellation of social-platform badges and service-provider logos: #3b5998 (Facebook), #55acee (Twitter), #e4405f (Instagram), #cc2127 (YouTube), #ff6600 (RSS), #7dbb00 (WhatsApp), #1ab7ea (Telegram), #e52d27 (Pinterest), #00b4b3 (Line), #1769ff (BlueSky), #dc5d54 (Tumblr), #ea4c89 (Dribbble), #007ee5 (LinkedIn), #382110 (Goodreads), #5adfcb (WeChat), #dc4e41 (Reddit), #7ac143 (KakaoTalk), #e6b91e (Snapchat), #ec4652 (Flickr), #00ab6c (WhatsApp Business) — a full social-media color wheel that reveals the brand as a distribution hub, not just a store. The single font is Montserrat, set at modest weights (400–600) with generous line-height, giving the dense page layouts room to breathe. Product cards use `{rounded.sm}` corners, while the search bar and newsletter signup use `{rounded.full}` pills, creating a quiet tension between the sharp geometry of book spines and the softness of a reading nook. The footer is a dense information grid in `{colors.ink}` on `{colors.canvas}`, with `{colors.muted}` links and `{colors.hairline}` dividers — the whole site feels like a well-organized independent bookstore that happens to live on a screen, with no hero carousel, no full-bleed photography, just typography and product grids doing all the work.
+name: "Kinokuniya USA"
+source_url: "https://usa.kinokuniya.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep, ink-black #222222 reading room that trusts its own density — the primary hex #112233 is a near-black midnight blue that reads as a physical bookshelf shadow rather than a digital brand color, and it anchors every header, footer stripe, and primary button without apology. Against this dark backdrop, the accent palette is a scattered constellation of social-platform badges and service-provider logos: #3b5998 (Facebook), #55acee (Twitter), #e4405f (Instagram), #cc2127 (YouTube), #ff6600 (RSS), #7dbb00 (WhatsApp), #1ab7ea (Telegram), #e52d27 (Pinterest), #00b4b3 (Line), #1769ff (BlueSky), #dc5d54 (Tumblr), #ea4c89 (Dribbble), #007ee5 (LinkedIn), #382110 (Goodreads), #5adfcb (WeChat), #dc4e41 (Reddit), #7ac143 (KakaoTalk), #e6b91e (Snapchat), #ec4652 (Flickr), #00ab6c (WhatsApp Business) — a full social-media color wheel that reveals the brand as a distribution hub, not just a store. The single font is Montserrat, set at modest weights (400–600) with generous line-height, giving the dense page layouts room to breathe. Product cards use `{rounded.sm}` corners, while the search bar and newsletter signup use `{rounded.full}` pills, creating a quiet tension between the sharp geometry of book spines and the softness of a reading nook. The footer is a dense information grid in `{colors.ink}` on `{colors.canvas}`, with `{colors.muted}` links and `{colors.hairline}` dividers — the whole site feels like a well-organized independent bookstore that happens to live on a screen, with no hero carousel, no full-bleed photography, just typography and product grids doing all the work.
 
 colors:
   primary: "#112233"
@@ -400,6 +404,8 @@ components:
 - Social icon strip wraps to multiple rows on mobile if needed
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted color palette is dominated by social-media brand colors (20+ distinct hex values) and service-provider logos, making it difficult to isolate the brand's true secondary palette. The primary #112233 is distinctive, but the accent colors (orange #ff6600, green #84bd00, pink #f94877, teal #00b4b3) are inferred from their frequency in the extraction — they may be social icons rather than intentional brand accents.
 - No hover states could be reliably extracted for buttons, links, or cards beyond the primary button's active state.

@@ -1,0 +1,893 @@
+{
+  "source_url": "https://silvercrossbaby.com",
+  "final_url": "https://www.silvercrossbaby.com/",
+  "captured_at": "2026-09-28T10:15:16.320433+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://silvercrossbaby.com",
+      "final_url": "https://www.silvercrossbaby.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "d23552ca3aba6636eac0b0f3b7a7df1f9f6c0ebf022c2786f685614d6b671e5a",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://cdn.curator.io/5.0/css/curator.css",
+      "final_url": "https://cdn.curator.io/5.0/css/curator.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "2569796074bda63adadd91d1736512768625951104d4be033d5e2a5ec6cd14c2",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.silvercrossbaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.silvercrossbaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311",
+      "final_url": "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "883fd86260eb098522e890706db6a891f8e2ae799abacacf246cb3e334ee4df4",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/quick-add.css?v=86575768160241112981790000269",
+      "final_url": "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/quick-add.css?v=86575768160241112981790000269",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "bbf3e21eaf7d1f4e450f84ba57deff72219848855cc336f115966398be84c52a",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/product-form.css?v=26794201059319305641790000269",
+      "final_url": "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/product-form.css?v=26794201059319305641790000269",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "07534de6ee49d6ee1f7a170bb377bad7ab279f45cf14947e2b1d8a5e677ed5ed",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 107,
+      "sources": [
+        "https://www.silvercrossbaby.com/",
+        "https://cdn.curator.io/5.0/css/curator.css",
+        "https://www.silvercrossbaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311",
+        "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/product-form.css?v=26794201059319305641790000269"
+      ]
+    },
+    "#000000": {
+      "count": 39,
+      "sources": [
+        "https://www.silvercrossbaby.com/",
+        "https://cdn.curator.io/5.0/css/curator.css",
+        "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311",
+        "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/product-form.css?v=26794201059319305641790000269"
+      ]
+    },
+    "#efefef": {
+      "count": 26,
+      "sources": [
+        "https://cdn.curator.io/5.0/css/curator.css"
+      ]
+    },
+    "#2f2f2f": {
+      "count": 25,
+      "sources": [
+        "https://www.silvercrossbaby.com/",
+        "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+      ]
+    },
+    "#00000000": {
+      "count": 23,
+      "sources": [
+        "https://www.silvercrossbaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311",
+        "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/product-form.css?v=26794201059319305641790000269"
+      ]
+    },
+    "#2b2b2b": {
+      "count": 21,
+      "sources": [
+        "https://cdn.curator.io/5.0/css/curator.css"
+      ]
+    },
+    "#633aa2": {
+      "count": 17,
+      "sources": [
+        "https://www.silvercrossbaby.com/"
+      ]
+    },
+    "#707070": {
+      "count": 16,
+      "sources": [
+        "https://cdn.curator.io/5.0/css/curator.css"
+      ]
+    },
+    "#e9ebf0": {
+      "count": 10,
+      "sources": [
+        "https://cdn.curator.io/5.0/css/curator.css"
+      ]
+    },
+    "#1e1e23": {
+      "count": 10,
+      "sources": [
+        "https://cdn.curator.io/5.0/css/curator.css"
+      ]
+    },
+    "#5d4e4b": {
+      "count": 8,
+      "sources": [
+        "https://www.silvercrossbaby.com/"
+      ]
+    },
+    "#bbb4ab": {
+      "count": 8,
+      "sources": [
+        "https://www.silvercrossbaby.com/"
+      ]
+    },
+    "#897563": {
+      "count": 8,
+      "sources": [
+        "https://www.silvercrossbaby.com/"
+      ]
+    },
+    "#3c4a53": {
+      "count": 6,
+      "sources": [
+        "https://www.silvercrossbaby.com/",
+        "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+      ]
+    },
+    "#666b66": {
+      "count": 6,
+      "sources": [
+        "https://www.silvercrossbaby.com/"
+      ]
+    },
+    "#666666": {
+      "count": 5,
+      "sources": [
+        "https://cdn.curator.io/5.0/css/curator.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 5,
+      "sources": [
+        "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+      ]
+    },
+    "#f3f3f6": {
+      "count": 4,
+      "sources": [
+        "https://www.silvercrossbaby.com/",
+        "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+      ]
+    },
+    "#272727": {
+      "count": 4,
+      "sources": [
+        "https://www.silvercrossbaby.com/",
+        "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+      ]
+    },
+    "#faf1f1": {
+      "count": 4,
+      "sources": [
+        "https://www.silvercrossbaby.com/"
+      ]
+    },
+    "#ea6d6b": {
+      "count": 4,
+      "sources": [
+        "https://www.silvercrossbaby.com/"
+      ]
+    },
+    "#857669": {
+      "count": 4,
+      "sources": [
+        "https://www.silvercrossbaby.com/"
+      ]
+    },
+    "#445252": {
+      "count": 4,
+      "sources": [
+        "https://www.silvercrossbaby.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 4,
+      "sources": [
+        "https://cdn.curator.io/5.0/css/curator.css"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 4,
+      "sources": [
+        "https://cdn.curator.io/5.0/css/curator.css"
+      ]
+    },
+    "#20201e": {
+      "count": 4,
+      "sources": [
+        "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+      ]
+    },
+    "#00000080": {
+      "count": 4,
+      "sources": [
+        "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+      ]
+    },
+    "#d4d3cf": {
+      "count": 3,
+      "sources": [
+        "https://www.silvercrossbaby.com/"
+      ]
+    },
+    "#0b0b0b": {
+      "count": 3,
+      "sources": [
+        "https://cdn.curator.io/5.0/css/curator.css"
+      ]
+    },
+    "#d8d8d8": {
+      "count": 3,
+      "sources": [
+        "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+      ]
+    },
+    "#393939": {
+      "count": 3,
+      "sources": [
+        "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+      ]
+    },
+    "#252525": {
+      "count": 2,
+      "sources": [
+        "https://www.silvercrossbaby.com/",
+        "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+      ]
+    },
+    "#fed136": {
+      "count": 2,
+      "sources": [
+        "https://www.silvercrossbaby.com/"
+      ]
+    },
+    "#f37920": {
+      "count": 2,
+      "sources": [
+        "https://www.silvercrossbaby.com/"
+      ]
+    },
+    "#73767b": {
+      "count": 2,
+      "sources": [
+        "https://www.silvercrossbaby.com/"
+      ]
+    },
+    "#f2f1f1": {
+      "count": 2,
+      "sources": [
+        "https://www.silvercrossbaby.com/"
+      ]
+    },
+    "#8b796b": {
+      "count": 2,
+      "sources": [
+        "https://www.silvercrossbaby.com/"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 2,
+      "sources": [
+        "https://cdn.curator.io/5.0/css/curator.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 2,
+      "sources": [
+        "https://cdn.curator.io/5.0/css/curator.css"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 2,
+      "sources": [
+        "https://cdn.curator.io/5.0/css/curator.css"
+      ]
+    },
+    "#58585b": {
+      "count": 2,
+      "sources": [
+        "https://cdn.curator.io/5.0/css/curator.css"
+      ]
+    },
+    "#1b76f2": {
+      "count": 2,
+      "sources": [
+        "https://cdn.curator.io/5.0/css/curator.css"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 2,
+      "sources": [
+        "https://cdn.curator.io/5.0/css/curator.css"
+      ]
+    },
+    "#8b8e9f": {
+      "count": 2,
+      "sources": [
+        "https://cdn.curator.io/5.0/css/curator.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.silvercrossbaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#3d3d3d": {
+      "count": 2,
+      "sources": [
+        "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+      ]
+    },
+    "#529e46": {
+      "count": 2,
+      "sources": [
+        "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+      ]
+    },
+    "#adadad": {
+      "count": 2,
+      "sources": [
+        "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+      ]
+    },
+    "#7755ad": {
+      "count": 2,
+      "sources": [
+        "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+      ]
+    },
+    "#f6f5f2": {
+      "count": 2,
+      "sources": [
+        "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+      ]
+    },
+    "#1e1e1e00": {
+      "count": 2,
+      "sources": [
+        "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+      ]
+    },
+    "#333333": {
+      "count": 2,
+      "sources": [
+        "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+      ]
+    },
+    "#122231": {
+      "count": 2,
+      "sources": [
+        "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+      ]
+    },
+    "#f5f3ee": {
+      "count": 1,
+      "sources": [
+        "https://www.silvercrossbaby.com/"
+      ]
+    },
+    "#555944": {
+      "count": 1,
+      "sources": [
+        "https://www.silvercrossbaby.com/"
+      ]
+    },
+    "#f5f2ff": {
+      "count": 1,
+      "sources": [
+        "https://www.silvercrossbaby.com/"
+      ]
+    },
+    "#fbfbfb": {
+      "count": 1,
+      "sources": [
+        "https://www.silvercrossbaby.com/"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 1,
+      "sources": [
+        "https://www.silvercrossbaby.com/"
+      ]
+    },
+    "#b9b9b9": {
+      "count": 1,
+      "sources": [
+        "https://www.silvercrossbaby.com/"
+      ]
+    },
+    "#ca2003": {
+      "count": 1,
+      "sources": [
+        "https://www.silvercrossbaby.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+    ],
+    "Apple Color Emoji": [
+      "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+    ],
+    "Arial": [
+      "https://cdn.curator.io/5.0/css/curator.css"
+    ],
+    "Cantarell": [
+      "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+    ],
+    "Consolas": [
+      "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+    ],
+    "Courier New": [
+      "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+    ],
+    "Liberation Mono": [
+      "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+    ],
+    "Menlo": [
+      "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+    ],
+    "Monaco": [
+      "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+    ],
+    "Noto Color Emoji": [
+      "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+    ],
+    "Noto Sans": [
+      "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+    ],
+    "NotoSerifDisplay": [
+      "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+    ],
+    "Poppins": [
+      "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+    ],
+    "Roboto": [
+      "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+    ],
+    "Roboto-Medium": [
+      "https://cdn.curator.io/5.0/css/curator.css"
+    ],
+    "SFMono-Regular": [
+      "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+    ],
+    "Segoe UI": [
+      "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+    ],
+    "Segoe UI Emoji": [
+      "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+    ],
+    "Segoe UI Symbol": [
+      "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+    ],
+    "Ubuntu": [
+      "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+    ],
+    "monospace": [
+      "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+    ],
+    "san-serif": [
+      "https://cdn.curator.io/5.0/css/curator.css"
+    ],
+    "sans-serif": [
+      "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+    ],
+    "swiper-icons": [
+      "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+    ],
+    "system-ui": [
+      "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+    ],
+    "ui-monospace": [
+      "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+    ],
+    "ui-sans-serif": [
+      "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.silvercrossbaby.com/",
+      "selector": ":root",
+      "declarations": "--colour-primary: #633aa2;\n                --colour-secondary: #f5f3ee;\n                --colour-accent-1: #555944;\n                --colour-accent-2: #f3f3f6;\n                --colour-text-1: #3c4a53;\n                --colour-text-2: #ffffff;\n                --colour-background-1: #272727;\n                --colour-background-2: #f5f2ff;\n                --colour-uiWhite: #FFFFFF;\n                --colour-uiLightGrey: #FBFBFB;\n                --colour-uiMidGrey: #E8E8E8;\n                --colour-uiDarkGrey: #B9B9B9;\n                --colour-uiBlack: #252525;\n                --colour-validationError: #CA2003;"
+    },
+    {
+      "source": "https://cdn.curator.io/5.0/css/curator.css",
+      "selector": ".crt-post .crt-post-header",
+      "declarations": "padding-top:28px;margin:0 17px;color:#2b2b2b;position:relative;text-align:center;border:1px dotted rgba(0,0,0,0)"
+    },
+    {
+      "source": "https://cdn.curator.io/5.0/css/curator.css",
+      "selector": ".crt-post .crt-post-read-more-button",
+      "declarations": "display:inline-block;background-color:#ddd;text-decoration:none;height:2.5em;line-height:2.5em;padding:0 1em;color:#666;border:0;border-radius:3px;box-shadow:0px 2px 30px rgba(0,0,0,0)"
+    },
+    {
+      "source": "https://cdn.curator.io/5.0/css/curator.css",
+      "selector": ".crt-grid-post .crt-post-header",
+      "declarations": "padding-top:28px;color:#2b2b2b;position:relative;text-align:center"
+    },
+    {
+      "source": "https://cdn.curator.io/5.0/css/curator.css",
+      "selector": "post-header .crt-social-icon .crt-share-button svg,.crt-grid-post-tokyo .crt-post-header .crt-post-share .crt-share-button i,.crt-grid-post-tokyo .crt-post-head",
+      "declarations": "color:#0b0b0b"
+    },
+    {
+      "source": "https://cdn.curator.io/5.0/css/curator.css",
+      "selector": ".crt-list-post .crt-post-header",
+      "declarations": "padding-top:28px;color:#2b2b2b;position:relative;text-align:center"
+    },
+    {
+      "source": "https://cdn.curator.io/5.0/css/curator.css",
+      "selector": ".crt-list-post .crt-post-read-more-button",
+      "declarations": "display:inline-block;background-color:#ddd;text-decoration:none;height:2.5em;line-height:2.5em;padding:0 1em;border-radius:.1em;color:#666"
+    },
+    {
+      "source": "https://cdn.curator.io/5.0/css/curator.css",
+      "selector": ".crt-mosaic-post .crt-post-header",
+      "declarations": "padding-top:28px;color:#2b2b2b;position:relative;text-align:center"
+    },
+    {
+      "source": "https://cdn.curator.io/5.0/css/curator.css",
+      "selector": ".crt-tetris-post .crt-post-header",
+      "declarations": "padding-top:28px;color:#2b2b2b;position:relative;text-align:center"
+    },
+    {
+      "source": "https://cdn.curator.io/5.0/css/curator.css",
+      "selector": ".crt-wall-post .crt-post-header",
+      "declarations": "padding-top:28px;color:#2b2b2b;position:relative;text-align:center"
+    },
+    {
+      "source": "https://cdn.curator.io/5.0/css/curator.css",
+      "selector": ".crt-popup-wrapper .crt-popup .crt-popup-header",
+      "declarations": "border-bottom:1px solid #fff;color:#2b2b2b;padding-bottom:5px;position:relative;margin-bottom:15px"
+    },
+    {
+      "source": "https://cdn.curator.io/5.0/css/curator.css",
+      "selector": ".crt-popup-wrapper .crt-popup .crt-popup-header .crt-social-icon i",
+      "declarations": "margin-top:0;font-size:35px;color:#2b2b2b"
+    },
+    {
+      "source": "https://cdn.curator.io/5.0/css/curator.css",
+      "selector": ".crt-popup-wrapper .crt-popup .crt-popup-read-more a.crt-button",
+      "declarations": "border-radius:6px;background-color:#efefef;display:inline-block;padding:10px 15px;font-size:1em;color:#2e2e2e"
+    },
+    {
+      "source": "https://cdn.curator.io/5.0/css/curator.css",
+      "selector": "button.crt-load-more",
+      "declarations": "background-color:#fff;color:#2b2b2b;display:inline-block;text-align:center;padding:20px 30px;text-decoration:none;border:1px solid rgba(0,0,0,.1);box-shadow:0px 2px 30px rgba(0,0,0,0)"
+    },
+    {
+      "source": "https://cdn.curator.io/5.0/css/curator.css",
+      "selector": ".crt-widget-grid .crt-post .crt-post-hover .crt-post-header .crt-social-icon,.crt-widget-grid .crt-post .crt-post-hover .crt-post-header",
+      "declarations": "background-color:rgba(0,0,0,0)"
+    },
+    {
+      "source": "https://cdn.curator.io/5.0/css/curator.css",
+      "selector": ".crt-select .crt-feed .crt-selected-post .crt-select-post-content .crt-select-post-body-container .crt-select-post-body .crt-post-date a",
+      "declarations": "color:#1e1e23;font-weight:500;font-family:\"Roboto-Medium\";opacity:1"
+    },
+    {
+      "source": "https://cdn.curator.io/5.0/css/curator.css",
+      "selector": ".crt-select .crt-feed .crt-selected-post .crt-select-post-content .crt-select-post-body-container .crt-select-post-body .crt-select-post-text-footer .crt-social",
+      "declarations": "width:18px;max-height:24px;color:#1e1e23"
+    },
+    {
+      "source": "https://cdn.curator.io/5.0/css/curator.css",
+      "selector": ".crt-select .crt-feed .crt-selected-post .crt-select-post-content .crt-select-post-body-container .crt-select-post-body .crt-select-post-text-footer .crt-post-u",
+      "declarations": "color:#1e1e23;opacity:1;font-family:\"Roboto-Medium\";text-transform:uppercase;font-weight:500;font-size:11px"
+    },
+    {
+      "source": "https://cdn.curator.io/5.0/css/curator.css",
+      "selector": ".crt-stack.crt-widget .crt-stack-post-content .crt-stack-post-body .crt-stack-post-text-footer .crt-post-username a",
+      "declarations": "color:#1e1e23;opacity:1;font-family:\"Roboto-Medium\";text-transform:uppercase;font-weight:500;font-size:11px"
+    },
+    {
+      "source": "https://cdn.curator.io/5.0/css/curator.css",
+      "selector": ".crt-stagger .crt-feed .crt-stagger-post .crt-stagger-post-content .crt-stagger-post-body-container .crt-stagger-post-body .post-footer-2",
+      "declarations": "background-color:rgba(0,0,0,0)"
+    },
+    {
+      "source": "https://cdn.curator.io/5.0/css/curator.css",
+      "selector": ".crt-stagger .crt-feed .crt-stagger-post .crt-stagger-post-content .crt-stagger-post-body-container .crt-post-date a",
+      "declarations": "color:#1e1e23;font-weight:500;font-family:\"Roboto-Medium\";opacity:1"
+    },
+    {
+      "source": "https://cdn.curator.io/5.0/css/curator.css",
+      "selector": ".crt-stagger .crt-feed .crt-stagger-post .crt-stagger-post-content .crt-stagger-post-body-container .crt-stagger-post-text-footer .crt-social-icon svg",
+      "declarations": "width:18px;max-height:24px;color:#1e1e23"
+    },
+    {
+      "source": "https://cdn.curator.io/5.0/css/curator.css",
+      "selector": ".crt-stagger .crt-feed .crt-stagger-post .crt-stagger-post-content .crt-stagger-post-body-container .crt-stagger-post-text-footer .crt-post-username a",
+      "declarations": "color:#1e1e23;opacity:1;font-family:\"Roboto-Medium\";text-transform:uppercase;font-weight:500;font-size:11px"
+    },
+    {
+      "source": "https://www.silvercrossbaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.silvercrossbaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.silvercrossbaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.silvercrossbaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.silvercrossbaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.silvercrossbaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;-webkit-font-feature-settings:inherit;font-feature-settings:inherit;font-variation-settings:inherit;font-size:100%;font-weight:inherit;line-height:inherit;color:inherit;margin:0;padding:0"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Silver Cross UK | Prams, Pushchairs, Car Seats &amp; Furniture",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.silvercrossbaby.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.silvercrossbaby.com/",
+        "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.silvercrossbaby.com/",
+        "https://cdn.curator.io/5.0/css/curator.css",
+        "https://www.silvercrossbaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311",
+        "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/product-form.css?v=26794201059319305641790000269"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.silvercrossbaby.com/",
+        "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.silvercrossbaby.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.silvercrossbaby.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.silvercrossbaby.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.silvercrossbaby.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.silvercrossbaby.com/",
+        "https://cdn.curator.io/5.0/css/curator.css",
+        "https://www.silvercrossbaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311",
+        "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/product-form.css?v=26794201059319305641790000269"
+      ]
+    },
+    "colors.accent-olive": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.silvercrossbaby.com/"
+      ]
+    },
+    "colors.surface-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.silvercrossbaby.com/",
+        "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+      ]
+    },
+    "colors.ui-black": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.silvercrossbaby.com/",
+        "https://www.silvercrossbaby.com/cdn/shop/t/217/assets/global.css?v=31891060775038133801790000311"
+      ]
+    },
+    "colors.ui-light-grey": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.silvercrossbaby.com/"
+      ]
+    },
+    "colors.error": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.silvercrossbaby.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.bundle-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    }
+  }
+}

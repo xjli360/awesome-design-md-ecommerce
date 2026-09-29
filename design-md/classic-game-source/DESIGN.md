@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Classic Game Source
-description: A retro game marketplace that wears its eBay heritage like a well-loved cartridge — the primary voltage is #3665f3, eBay's signature blue, which appears on every CTA, search button, and listing link, while a secondary accent of #e0103a (a punchy red) signals price drops, sold-out items, and urgency badges. The canvas is #f7f7f7, a warm off-white that softens the utilitarian grid of product cards and listing rows, with #ffffff reserved for card surfaces and modals. Typography runs Market Sans for headings and body text — a clean, neutral sans-serif that prioritizes readability over personality — with Arial and Helvetica as fallbacks. The brand's design language is fundamentally transactional: dense information density, tight spacing at {spacing.sm} between listing elements, and a heavy reliance on colored badges (#92c821 for "Buy It Now", #ffbd14 for "Best Offer", #e0103a for "Sold") to create visual hierarchy without decorative flourishes. Search is the primary navigation gesture, rendered as a full-width bar with {rounded.full} ends and a #3665f3 submit button. Product cards use {rounded.sm} corners and a 1px #e5e5e5 hairline, with price tags in bold #111820 and shipping info in #8f8f8f muted text. The overall feel is that of a well-organized flea market catalog — functional, color-coded, and built for scanning.
+name: "Classic Game Source"
+source_url: "https://classicgamesource.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A retro game marketplace that wears its eBay heritage like a well-loved cartridge — the primary voltage is #3665f3, eBay's signature blue, which appears on every CTA, search button, and listing link, while a secondary accent of #e0103a (a punchy red) signals price drops, sold-out items, and urgency badges. The canvas is #f7f7f7, a warm off-white that softens the utilitarian grid of product cards and listing rows, with #ffffff reserved for card surfaces and modals. Typography runs Market Sans for headings and body text — a clean, neutral sans-serif that prioritizes readability over personality — with Arial and Helvetica as fallbacks. The brand's design language is fundamentally transactional: dense information density, tight spacing at {spacing.sm} between listing elements, and a heavy reliance on colored badges (#92c821 for "Buy It Now", #ffbd14 for "Best Offer", #e0103a for "Sold") to create visual hierarchy without decorative flourishes. Search is the primary navigation gesture, rendered as a full-width bar with {rounded.full} ends and a #3665f3 submit button. Product cards use {rounded.sm} corners and a 1px #e5e5e5 hairline, with price tags in bold #111820 and shipping info in #8f8f8f muted text. The overall feel is that of a well-organized flea market catalog — functional, color-coded, and built for scanning.
 
 colors:
   primary: "#3665f3"
@@ -574,6 +578,8 @@ components:
 - Seller info section collapses to expandable accordion on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for product cards (shadow depth, border color) not extracted — assumed standard elevation
 - Focus states for text inputs and search bar not extracted — assumed blue border

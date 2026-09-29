@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Joylux
-description: |
+name: "Joylux"
+source_url: "https://joylux.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Coral (#ec523e) pulled against a near-black base (#121212) is Joylux's central design argument: that a medical-grade pelvic floor light therapy device can be sold with the same warmth and directness as premium skincare. The brand runs Work Sans at 600–700 weight for all display copy, giving headlines a confident upward lean that avoids both the sterility of a clinical typeface and the softness of a lifestyle script. Body copy shifts to Assistant — slightly rounder, more conversational — bridging efficacy language and empathetic storytelling. The pairing can hold "FDA-cleared" and "feel like yourself again" in the same scroll without tonal whiplash.
 
   The color story unfolds across three registers. Warm darks (#121212, #202020) anchor the hero and navigation, establishing a premium tone that prevents the brand from drifting into pastel-bland wellness territory. The coral primary (#ec523e) activates every CTA and product highlight, deepening to rose (#b43145) on hover. A blush surface (#ffefee) appears behind testimonials and feature callouts, diffusing the dark/coral contrast into something closer to a living room than a laboratory. Slate gray (#5f6772) handles secondary labels and descriptive copy — specific enough to feel designed, neutral enough to never fight the coral.
@@ -347,6 +350,8 @@ components:
 - Footer: 4-column link grid → 2-column (tablet) → accordion-collapsed sections (mobile)
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No confirmed border-radius values extracted from live site; all `rounded` values are estimated from wellness DTC category norms and inferred visual character
 - Canvas white (#ffffff) not extracted (universal default); included as necessary baseline

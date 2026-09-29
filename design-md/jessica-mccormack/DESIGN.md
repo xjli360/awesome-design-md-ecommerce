@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Jessica McCormack
-description: Monospaced type on diamond rings — ABC Diatype Mono carries every product label, navigation link, and price point in letterforms borrowed from technical instruments and typewriter ribbons rather than the hand-engraved cartouches of a traditional Mayfair jeweller. The tension between that utilitarian grid typeface and the extraordinary one-of-a-kind Georgian and Victorian pieces being sold is the entire brand proposition compressed to one font choice. Bellefair Regular — an old-style serif with humanist warmth in its terminal strokes — takes the editorial headline role, offering the collector-register counterpart to Diatype Mono's ledger tone.
+name: "Jessica McCormack"
+source_url: "https://www.jessicamccormack.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Monospaced type on diamond rings — ABC Diatype Mono carries every product label, navigation link, and price point in letterforms borrowed from technical instruments and typewriter ribbons rather than the hand-engraved cartouches of a traditional Mayfair jeweller. The tension between that utilitarian grid typeface and the extraordinary one-of-a-kind Georgian and Victorian pieces being sold is the entire brand proposition compressed to one font choice. Bellefair Regular — an old-style serif with humanist warmth in its terminal strokes — takes the editorial headline role, offering the collector-register counterpart to Diatype Mono's ledger tone.
 
   The palette is almost entirely suppressed. A near-black (#121212) provides ink and the main CTA body; five grays from #9ca3af through #dedede build the hairline, muted, and surface layers without ever introducing warmth or saturation. A single pure red (#ff0000) breaks the chromatic restraint — appearing on sale flags, error states, and active navigation markers with the sudden clarity of a red wax seal pressed onto an otherwise bleached auction catalogue. The canvas holds at #ffffff, but editorial photography is typically set against dark stone or black velvet, so the digital negative space reads as deliberate emptiness before the object takes over.
 
@@ -314,6 +318,8 @@ components:
 - Collection header editorial paragraph is hidden on mobile to reduce scroll depth before the product grid
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No confirmed primary brand colour from brand guidelines; #ff0000 is the most distinctive extracted colour but may be reserved for error/sale states rather than serving as a true primary CTA colour — production implementation should verify
 - ABC Diatype Mono is a licensed custom typeface; fallback stack relies on generic monospace — the exact weight variants (Regular only, or also Medium/Bold?) could not be confirmed from extraction

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Rolling Square
-description: A black-and-neon utility brand for lifehackers, where #000000 is the canvas and #17e260 is the voltage — a lime-green that appears on primary CTAs, badge dots, and product highlights like a soldering iron tip. The site runs on Shopify but rejects the typical soft-commerce look: hard black backgrounds, monospace type in `Basier Square Mono` for technical specs, and a palette that borrows from electronics — #ff7f7f for error states, #ffc100 for warning accents, #004d8b for deep informational links. Product cards sit on #f9fafb with {rounded.sm} corners, but the hero section uses full-bleed black with green glowing buttons at {rounded.full}, suggesting a brand that sells cables and chargers as if they were tactical gear. The nav bar is fixed, black (#1a1a1a), with white text and a search icon that triggers a full-screen overlay — no hamburger, no dropdowns. Badges appear in #17e260 for "in stock" and #ff7f7f for "low stock", both set in Montserrat uppercase at 10px. The checkout flow uses Shopify defaults (Klarna, Afterpay badges visible), but the brand's own cart drawer is black with green accent buttons. Typography splits personality: Montserrat for headings (bold, condensed, all-caps on section titles) and Inter for body copy (light weight, generous line-height). The overall feel is less "lifestyle gadget" and more "electronics lab manual" — every pixel feels engineered, not curated.
+name: "Rolling Square"
+source_url: "https://www.rollingsquare.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A black-and-neon utility brand for lifehackers, where #000000 is the canvas and #17e260 is the voltage — a lime-green that appears on primary CTAs, badge dots, and product highlights like a soldering iron tip. The site runs on Shopify but rejects the typical soft-commerce look: hard black backgrounds, monospace type in `Basier Square Mono` for technical specs, and a palette that borrows from electronics — #ff7f7f for error states, #ffc100 for warning accents, #004d8b for deep informational links. Product cards sit on #f9fafb with {rounded.sm} corners, but the hero section uses full-bleed black with green glowing buttons at {rounded.full}, suggesting a brand that sells cables and chargers as if they were tactical gear. The nav bar is fixed, black (#1a1a1a), with white text and a search icon that triggers a full-screen overlay — no hamburger, no dropdowns. Badges appear in #17e260 for "in stock" and #ff7f7f for "low stock", both set in Montserrat uppercase at 10px. The checkout flow uses Shopify defaults (Klarna, Afterpay badges visible), but the brand's own cart drawer is black with green accent buttons. Typography splits personality: Montserrat for headings (bold, condensed, all-caps on section titles) and Inter for body copy (light weight, generous line-height). The overall feel is less "lifestyle gadget" and more "electronics lab manual" — every pixel feels engineered, not curated.
 
 colors:
   primary: "#17e260"
@@ -372,6 +376,8 @@ components:
 - Product card images maintain 1:1 aspect ratio on mobile, 4:3 on desktop
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for most components could not be reliably extracted from static HTML/CSS — only primary button hover was confirmed
 - Error state styling for form inputs (validation messages, error borders) not observed

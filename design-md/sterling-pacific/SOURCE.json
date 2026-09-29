@@ -1,0 +1,792 @@
+{
+  "source_url": "https://sterlingpacific.com",
+  "final_url": "https://sterlingpacific.com/",
+  "captured_at": "2026-09-29T04:18:15.450627+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://sterlingpacific.com",
+      "final_url": "https://sterlingpacific.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "b912515870c17af4c4312eec2d96536d99781baea8100b9cdd4d3782c8e3255d",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://sterlingpacific.com/cdn/shop/t/30/assets/theme.css?v=116701590077092017811778840739",
+      "final_url": "https://sterlingpacific.com/cdn/shop/t/30/assets/theme.css?v=116701590077092017811778840739",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "789db320e0141ce9fa9c9762053db5d3804db9214a207b991136198acbb08d18",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://sterlingpacific.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://sterlingpacific.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://sterlingpacific.com/cdn/shop/t/30/assets/theme-noscript.css?v=143651147855901250301777832254",
+      "final_url": "https://sterlingpacific.com/cdn/shop/t/30/assets/theme-noscript.css?v=143651147855901250301777832254",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ad59edec1371c5ece02050ef744da997108ab37730074b6844e18d930a87118d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://sterlingpacific.com/cdn/shop/t/30/assets/section-announcement-bar.css?v=123943433366657079031782304923",
+      "final_url": "https://sterlingpacific.com/cdn/shop/t/30/assets/section-announcement-bar.css?v=123943433366657079031782304923",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2d83931b9cd050913ce7c841d5bfa68d1a171eefbcc27228d888f4e2c41c0193",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://sterlingpacific.com/cdn/shop/t/30/assets/section-header.css?v=69224982691354918251777832254",
+      "final_url": "https://sterlingpacific.com/cdn/shop/t/30/assets/section-header.css?v=69224982691354918251777832254",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "792a41b597a3f25e070ab72b4890ee1e99f6c91a9abfced448bceca915e747c1",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#303030": {
+      "count": 75,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 46,
+      "sources": [
+        "https://sterlingpacific.com/",
+        "https://sterlingpacific.com/cdn/shop/t/30/assets/theme.css?v=116701590077092017811778840739",
+        "https://sterlingpacific.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://sterlingpacific.com/cdn/shop/t/30/assets/section-announcement-bar.css?v=123943433366657079031782304923"
+      ]
+    },
+    "#212121": {
+      "count": 22,
+      "sources": [
+        "https://sterlingpacific.com/",
+        "https://sterlingpacific.com/cdn/shop/t/30/assets/theme.css?v=116701590077092017811778840739",
+        "https://sterlingpacific.com/cdn/shop/t/30/assets/section-announcement-bar.css?v=123943433366657079031782304923",
+        "https://sterlingpacific.com/cdn/shop/t/30/assets/section-header.css?v=69224982691354918251777832254"
+      ]
+    },
+    "#000000": {
+      "count": 22,
+      "sources": [
+        "https://sterlingpacific.com/",
+        "https://sterlingpacific.com/cdn/shop/t/30/assets/theme.css?v=116701590077092017811778840739"
+      ]
+    },
+    "#616161": {
+      "count": 13,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 7,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#2332d5": {
+      "count": 7,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 6,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#24b263": {
+      "count": 5,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 4,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 4,
+      "sources": [
+        "https://sterlingpacific.com/",
+        "https://sterlingpacific.com/cdn/shop/t/30/assets/theme.css?v=116701590077092017811778840739"
+      ]
+    },
+    "#005bd3": {
+      "count": 4,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#dee6ff": {
+      "count": 4,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#b5b5b5": {
+      "count": 4,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#8051ff": {
+      "count": 4,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#cccccccf": {
+      "count": 3,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#121212": {
+      "count": 3,
+      "sources": [
+        "https://sterlingpacific.com/",
+        "https://sterlingpacific.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#cdfee1": {
+      "count": 3,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#808080": {
+      "count": 3,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#111111": {
+      "count": 2,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#fff8db": {
+      "count": 2,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#4f4700": {
+      "count": 2,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#29845a": {
+      "count": 2,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 2,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#ffffffe6": {
+      "count": 2,
+      "sources": [
+        "https://sterlingpacific.com/cdn/shop/t/30/assets/theme.css?v=116701590077092017811778840739"
+      ]
+    },
+    "#efeee1": {
+      "count": 2,
+      "sources": [
+        "https://sterlingpacific.com/cdn/shop/t/30/assets/theme.css?v=116701590077092017811778840739"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://sterlingpacific.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://sterlingpacific.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#767474": {
+      "count": 1,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#08025a": {
+      "count": 1,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#efefef": {
+      "count": 1,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#ebebed": {
+      "count": 1,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#ea5455": {
+      "count": 1,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#7367f0": {
+      "count": 1,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#ffef9d": {
+      "count": 1,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#8a8a8a": {
+      "count": 1,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#f72119": {
+      "count": 1,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 1,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#24b26325": {
+      "count": 1,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 1,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#ffaa00": {
+      "count": 1,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#d1d1d1": {
+      "count": 1,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#888888": {
+      "count": 1,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#4a4a4a": {
+      "count": 1,
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "#000000cc": {
+      "count": 1,
+      "sources": [
+        "https://sterlingpacific.com/cdn/shop/t/30/assets/theme.css?v=116701590077092017811778840739"
+      ]
+    },
+    "#ffffff66": {
+      "count": 1,
+      "sources": [
+        "https://sterlingpacific.com/cdn/shop/t/30/assets/theme.css?v=116701590077092017811778840739"
+      ]
+    },
+    "#ffffffb3": {
+      "count": 1,
+      "sources": [
+        "https://sterlingpacific.com/cdn/shop/t/30/assets/theme.css?v=116701590077092017811778840739"
+      ]
+    },
+    "#ebebeb66": {
+      "count": 1,
+      "sources": [
+        "https://sterlingpacific.com/cdn/shop/t/30/assets/theme.css?v=116701590077092017811778840739"
+      ]
+    },
+    "#ebebebe6": {
+      "count": 1,
+      "sources": [
+        "https://sterlingpacific.com/cdn/shop/t/30/assets/theme.css?v=116701590077092017811778840739"
+      ]
+    },
+    "#155724": {
+      "count": 1,
+      "sources": [
+        "https://sterlingpacific.com/cdn/shop/t/30/assets/theme.css?v=116701590077092017811778840739"
+      ]
+    },
+    "#d4edda": {
+      "count": 1,
+      "sources": [
+        "https://sterlingpacific.com/cdn/shop/t/30/assets/theme.css?v=116701590077092017811778840739"
+      ]
+    },
+    "#856404": {
+      "count": 1,
+      "sources": [
+        "https://sterlingpacific.com/cdn/shop/t/30/assets/theme.css?v=116701590077092017811778840739"
+      ]
+    },
+    "#fff3cd": {
+      "count": 1,
+      "sources": [
+        "https://sterlingpacific.com/cdn/shop/t/30/assets/theme.css?v=116701590077092017811778840739"
+      ]
+    },
+    "#ffd200": {
+      "count": 1,
+      "sources": [
+        "https://sterlingpacific.com/cdn/shop/t/30/assets/theme.css?v=116701590077092017811778840739"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://sterlingpacific.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://sterlingpacific.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "BioSans-Bold": [
+      "https://sterlingpacific.com/",
+      "https://sterlingpacific.com/cdn/shop/t/30/assets/theme.css?v=116701590077092017811778840739"
+    ],
+    "BioSans-ExtraBold": [
+      "https://sterlingpacific.com/",
+      "https://sterlingpacific.com/cdn/shop/t/30/assets/theme.css?v=116701590077092017811778840739"
+    ],
+    "BioSans-Regular": [
+      "https://sterlingpacific.com/"
+    ],
+    "Montserrat": [
+      "https://sterlingpacific.com/"
+    ],
+    "sans-serif!important": [
+      "https://sterlingpacific.com/cdn/shop/t/30/assets/theme.css?v=116701590077092017811778840739"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://sterlingpacific.com/",
+      "selector": ":root",
+      "declarations": "--main-text: #212121;\n    --main-text-hover: rgba(33, 33, 33, 0.82);\n    --main-text-foreground: #fff;\n    \n    --main-background: #ffffff;\n    --main-background-secondary: rgba(33, 33, 33, 0.18);\n    --main-background-third: rgba(33, 33, 33, 0.03);\n    --main-borders: rgba(33, 33, 33, 0.08);\n    --grid-borders: rgba(33, 33, 33, 0.05);\n\n    \n    \n    --header-text: #ffffff;\n    --header-text-foreground: #000;\n    \n    --header-background: #212121;\n    --header-background-secondary: rgba(255, 255, 255, 0.18);\n    --header-borders: rgba(255, 255, 255, 0.08);\n    --header-grid-borders: rgba(255, 255, 255, 0.1);--cart-image-border: 1px solid #f1f1f1;\n\n    --footer-text: ;\n    --footer-text-foreg"
+    },
+    {
+      "source": "https://sterlingpacific.com/",
+      "selector": "height:var(--header-logo);display:flex;align-items:center\nmax-height:20px\n\n  :root",
+      "declarations": "--header-logo: 40px;"
+    },
+    {
+      "source": "https://sterlingpacific.com/",
+      "selector": ":root",
+      "declarations": "--header-logo: 30px;"
+    },
+    {
+      "source": "https://sterlingpacific.com/",
+      "selector": "#shopify-section-sections--21087162794172__header .site-nav.style--classic .menu-link",
+      "declarations": "color: #ffffff !important;"
+    },
+    {
+      "source": "https://sterlingpacific.com/",
+      "selector": "#shopify-section-sections--21087162794172__header .cart-menu .count-holder",
+      "declarations": "color: #ffffff !important;"
+    },
+    {
+      "source": "https://sterlingpacific.com/",
+      "selector": "#shopify-section-template--21087165907132__16372498804121dda9 a.button",
+      "declarations": "background: #212121; color: #fff;"
+    },
+    {
+      "source": "https://sterlingpacific.com/",
+      "selector": ".freegifts-main-container .product-title, .freegifts-main-container .bogos-gift-product-title",
+      "declarations": "color: #000000;"
+    },
+    {
+      "source": "https://sterlingpacific.com/",
+      "selector": ".freegifts-main-container .btn-add-to-cart",
+      "declarations": "color: #FFFFFF; background-color: #7367f0;"
+    },
+    {
+      "source": "https://sterlingpacific.com/",
+      "selector": "#sca-fg-today-offer-iframe .sca-fg-header",
+      "declarations": "background-color: #FFFFFF;"
+    },
+    {
+      "source": "https://sterlingpacific.com/",
+      "selector": "#sca-fg-today-offer-iframe .sca-fg-body",
+      "declarations": "background-color: #FFFFFF;"
+    },
+    {
+      "source": "https://sterlingpacific.com/",
+      "selector": "#sca-fg-today-offer-iframe .sca-fg-offer .sca-offer-header-container",
+      "declarations": "background-color: #F7F7F7"
+    },
+    {
+      "source": "https://sterlingpacific.com/",
+      "selector": "#sca-fg-today-offer-iframe .sca-fg-offer.sca-offer-archived .sca-offer-header-container",
+      "declarations": "background-color: #24B26325"
+    },
+    {
+      "source": "https://sterlingpacific.com/",
+      "selector": "#sca-fg-today-offer-iframe .sca-gift-product-title",
+      "declarations": "color:  #303030"
+    },
+    {
+      "source": "https://sterlingpacific.com/",
+      "selector": "#sca-fg-today-offer-iframe .sca-gift-product-discount-price",
+      "declarations": "color: #24B263"
+    },
+    {
+      "source": "https://sterlingpacific.com/",
+      "selector": "#sca-fg-today-offer-iframe .sca-gift-product-original-price",
+      "declarations": "color: #616161"
+    },
+    {
+      "source": "https://sterlingpacific.com/",
+      "selector": ".bogos-bundles-widget-body .bogos-bundle-item",
+      "declarations": "background-color: #FFFFFF;"
+    },
+    {
+      "source": "https://sterlingpacific.com/",
+      "selector": ".bogos-bundles-widget-footer .bogos-bundles-button-add",
+      "declarations": "color: #FFFFFF; background-color: #303030;"
+    },
+    {
+      "source": "https://sterlingpacific.com/",
+      "selector": ".bogos-bundles-quantity-break-button-add",
+      "declarations": "background: #303030; color: #FFFFFF;"
+    },
+    {
+      "source": "https://sterlingpacific.com/",
+      "selector": ".bogos-volume-discount-widget.default-layout .bogos-volume-discount-button-add",
+      "declarations": "background: #303030; color: #FFFFFF;"
+    },
+    {
+      "source": "https://sterlingpacific.com/",
+      "selector": ".bogos-volume-discount-widget.table-layout .bogos-volume-discount-widget-header",
+      "declarations": "background-color: #F3F3F3;"
+    },
+    {
+      "source": "https://sterlingpacific.com/",
+      "selector": "t-widget.table-layout .bogos-volume-discount-item, .bogos-volume-discount-widget-body .bogos-volume-discount-tier-info, .bogos-volume-discount-widget.table-layo",
+      "declarations": "border-color: #E0E0E0;"
+    },
+    {
+      "source": "https://sterlingpacific.com/",
+      "selector": ".bogos-mix-match-widget .bogos-mix-match-button-add",
+      "declarations": "color: #FFFFFF; background-color: #303030;"
+    },
+    {
+      "source": "https://sterlingpacific.com/",
+      "selector": ".bogos-bundle-page-container .bogos-bp-header-title",
+      "declarations": "color: #303030;"
+    },
+    {
+      "source": "https://sterlingpacific.com/",
+      "selector": ".bogos-bundle-page-container .bogos-bp-header-subtitle",
+      "declarations": "color: #303030;"
+    },
+    {
+      "source": "https://sterlingpacific.com/",
+      "selector": ".bogos-bundle-page-container .bogos-bp-step-header-title",
+      "declarations": "color: #303030;"
+    },
+    {
+      "source": "https://sterlingpacific.com/",
+      "selector": ".bogos-bundle-page-container .bogos-bp-step-header-subtitle",
+      "declarations": "color: #616161;"
+    },
+    {
+      "source": "https://sterlingpacific.com/",
+      "selector": ".bogos-bundle-page-container .bogos-bp-product-title, .bogos-step-item .bogos-step-item-title, .bogos-product-detail-modal .bogos-product-title",
+      "declarations": "color:  #303030;"
+    },
+    {
+      "source": "https://sterlingpacific.com/",
+      "selector": ".bogos-bundle-page-container .bogos-bp-product-price, .bogos-step-item .bogos-step-item-discount-price, .bogos-bp-widget-footer .bogos-bp-total-discount-price",
+      "declarations": "color:  #303030;"
+    },
+    {
+      "source": "https://sterlingpacific.com/",
+      "selector": ".bogos-bundle-page-container .bogos-bp-btn-add-product, .bogos-product-detail-modal .bogos-product-add-btn",
+      "declarations": "background-color: #303030; color: #FFFFFF"
+    },
+    {
+      "source": "https://sterlingpacific.com/",
+      "selector": ".bogos-step-items-product-require.success .bogos-step-items-product-require-title",
+      "declarations": "color: #2332D5;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Sterling Pacific – full aluminum travel cases & luggage",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sterlingpacific.com/",
+        "https://sterlingpacific.com/cdn/shop/t/30/assets/theme.css?v=116701590077092017811778840739",
+        "https://sterlingpacific.com/cdn/shop/t/30/assets/section-announcement-bar.css?v=123943433366657079031782304923",
+        "https://sterlingpacific.com/cdn/shop/t/30/assets/section-header.css?v=69224982691354918251777832254"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sterlingpacific.com/",
+        "https://sterlingpacific.com/cdn/shop/t/30/assets/theme.css?v=116701590077092017811778840739",
+        "https://sterlingpacific.com/cdn/shop/t/30/assets/section-announcement-bar.css?v=123943433366657079031782304923",
+        "https://sterlingpacific.com/cdn/shop/t/30/assets/section-header.css?v=69224982691354918251777832254"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sterlingpacific.com/",
+        "https://sterlingpacific.com/cdn/shop/t/30/assets/theme.css?v=116701590077092017811778840739",
+        "https://sterlingpacific.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://sterlingpacific.com/cdn/shop/t/30/assets/section-announcement-bar.css?v=123943433366657079031782304923"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sterlingpacific.com/",
+        "https://sterlingpacific.com/cdn/shop/t/30/assets/theme.css?v=116701590077092017811778840739",
+        "https://sterlingpacific.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://sterlingpacific.com/cdn/shop/t/30/assets/section-announcement-bar.css?v=123943433366657079031782304923"
+      ]
+    },
+    "colors.border-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "colors.accent-success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "colors.accent-purple": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sterlingpacific.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.material-spec-block": {
+      "status": "inferred"
+    }
+  }
+}

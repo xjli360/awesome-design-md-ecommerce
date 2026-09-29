@@ -1,0 +1,957 @@
+{
+  "source_url": "https://knackbags.com/",
+  "final_url": "https://knackbags.com/",
+  "captured_at": "2026-09-29T04:15:44.369194+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://knackbags.com/",
+      "final_url": "https://knackbags.com/",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "a55c1205fbc860758e319350d88bf1d1f8846383671733bf218193d942ff2424",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://knackbags.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://knackbags.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "rendered-style-1.css"
+    },
+    {
+      "url": "https://knackbags.com/cdn/shop/t/185/assets/base.css?v=142817251096000342611764062016",
+      "final_url": "https://knackbags.com/cdn/shop/t/185/assets/base.css?v=142817251096000342611764062016",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "18074c6e4ea4faea55a9bf00a43de955e97d64e8e1f04ebd8a9490a0bcdc1a38",
+      "snapshot": "rendered-style-2.css"
+    },
+    {
+      "url": "https://knackbags.com/cdn/shop/t/185/assets/custom.css?v=123187777693264024751782771755",
+      "final_url": "https://knackbags.com/cdn/shop/t/185/assets/custom.css?v=123187777693264024751782771755",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5313639159324d9bd178ba30a65521b51674d1fce1eeaa4ce83aaf68287554ad",
+      "snapshot": "rendered-style-3.css"
+    },
+    {
+      "url": "https://knackbags.com/cdn/shop/t/185/assets/section-announcement-bar.css?v=8088110493505440911764062060",
+      "final_url": "https://knackbags.com/cdn/shop/t/185/assets/section-announcement-bar.css?v=8088110493505440911764062060",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c6711c50a55e53e3134a52aa34c8023efa2277729276fff6df33dd6f66c652f3",
+      "snapshot": "rendered-style-4.css"
+    },
+    {
+      "url": "https://knackbags.com/cdn/shop/t/185/assets/section-image-banner.css?v=72717742178570359731775563309",
+      "final_url": "https://knackbags.com/cdn/shop/t/185/assets/section-image-banner.css?v=72717742178570359731775563309",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a288666ca02a1ce4685f401dd18db3bf4820dac7cf8dc60a4b7b15e3163375bf",
+      "snapshot": "rendered-style-5.css"
+    },
+    {
+      "url": "https://knackbags.com/cdn/shop/t/185/assets/section-video-hero.css?v=128925557251688866411764062083",
+      "final_url": "https://knackbags.com/cdn/shop/t/185/assets/section-video-hero.css?v=128925557251688866411764062083",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ac86b1ff03975c64ef4286b2e7fead868530243e492b841e4a0061a23aa4f2b5",
+      "snapshot": "rendered-style-6.css"
+    },
+    {
+      "url": "https://knackbags.com/cdn/shop/t/185/assets/section-rich-text.css?v=81632387910009194971764062079",
+      "final_url": "https://knackbags.com/cdn/shop/t/185/assets/section-rich-text.css?v=81632387910009194971764062079",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "581fefda278f7d7d753b79a9544b11918b87ebcb832aa7270e6f4090a57511ef",
+      "snapshot": "rendered-style-7.css"
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.3.1/css/all.css",
+      "final_url": "https://use.fontawesome.com/releases/v5.3.1/css/all.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "604dcf1f11698655f75046bb92f98aaa9477e1c16b01c5fc415e78794393ffb9",
+      "snapshot": "rendered-style-8.css"
+    },
+    {
+      "url": "https://knackbags.com/cdn/shop/t/185/assets/component-product-grid.css?v=10757344605323473501764062036",
+      "final_url": "https://knackbags.com/cdn/shop/t/185/assets/component-product-grid.css?v=10757344605323473501764062036",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4c62e9ca47e7d8562d672797a20b71e0e7a3d88f97a1022456493aa4ebb0967e",
+      "snapshot": "rendered-style-9.css"
+    },
+    {
+      "url": "https://knackbags.com/cdn/shop/t/185/assets/component-card.css?v=12389209614544506651764062021",
+      "final_url": "https://knackbags.com/cdn/shop/t/185/assets/component-card.css?v=12389209614544506651764062021",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f8ac8701166cf09dcf94232549bb9acb4dc20caab098eecbed7d6f56386594d4",
+      "snapshot": "rendered-style-10.css"
+    },
+    {
+      "url": "https://knackbags.com/cdn/shop/t/185/assets/component-rating.css?v=173409050425969898561764062039",
+      "final_url": "https://knackbags.com/cdn/shop/t/185/assets/component-rating.css?v=173409050425969898561764062039",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "316555eeaa77f9023a4c3820dbdbd53de8595af9d7dfdc0a2ef294c2a5ebe738",
+      "snapshot": "rendered-style-11.css"
+    },
+    {
+      "url": "https://knackbags.com/cdn/shop/t/185/assets/section-testimonials.css?v=179608118931762381031764062082",
+      "final_url": "https://knackbags.com/cdn/shop/t/185/assets/section-testimonials.css?v=179608118931762381031764062082",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5c729ee26a22589a8a78e6c57c9cb0a5b0f86d1745642a335984bad177aa6c8b",
+      "snapshot": "rendered-style-12.css"
+    },
+    {
+      "url": "https://knackbags.com/cdn/shop/t/185/assets/section-image-with-text.css?v=175625032529157237631764062069",
+      "final_url": "https://knackbags.com/cdn/shop/t/185/assets/section-image-with-text.css?v=175625032529157237631764062069",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2b21b1491fd87b7e6ce5ce2089f65197e165ee09e609f5c3fce09a62d65e34ca",
+      "snapshot": "rendered-style-13.css"
+    },
+    {
+      "url": "https://knackbags.com/cdn/shop/t/185/assets/section-multicolumn.css?v=157866459188019207921764062074",
+      "final_url": "https://knackbags.com/cdn/shop/t/185/assets/section-multicolumn.css?v=157866459188019207921764062074",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "538b1922d1a6f847abb74536235ecde3e12070d23cc9b39876b689bc68b3917c",
+      "snapshot": "rendered-style-14.css"
+    },
+    {
+      "url": "https://knackbags.com/cdn/shop/t/185/assets/section-footer.css?v=17387681073379394691764062066",
+      "final_url": "https://knackbags.com/cdn/shop/t/185/assets/section-footer.css?v=17387681073379394691764062066",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3c3170c937529945d411d5f1a3094410768cc798254e4becefa2afde60a2b8ef",
+      "snapshot": "rendered-style-15.css"
+    },
+    {
+      "url": "https://knackbags.com/cdn/shop/t/185/assets/section-image-comparison.css?v=52366233469584515531764062068",
+      "final_url": "https://knackbags.com/cdn/shop/t/185/assets/section-image-comparison.css?v=52366233469584515531764062068",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a765d8013dec9e899776fc2bb3ae734cb73d14e5f15d86f36b13690963c89e91",
+      "snapshot": "rendered-style-16.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0e788-26d7-754a-a498-297bb49b8b18/gdpr-backpack-897/assets/index.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0e788-26d7-754a-a498-297bb49b8b18/gdpr-backpack-897/assets/index.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6afe722ce3a06e79f90824116df4f6019d4a5d43d28452fa8fa528353b88afc5",
+      "snapshot": "rendered-style-17.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0e788-26d7-754a-a498-297bb49b8b18/gdpr-backpack-897/assets/csm_global.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0e788-26d7-754a-a498-297bb49b8b18/gdpr-backpack-897/assets/csm_global.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b36dbcb1a0e4c7fa5d19cce4097e23cce8800e607637785006afff3f31b1a6e2",
+      "snapshot": "rendered-style-18.css"
+    },
+    {
+      "url": "https://knackbags.com/#computed-style-snapshot",
+      "final_url": "https://knackbags.com/#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "aafa69ab649e9c77fe8a683a692399a6b959de78a19c2832dbe41fa493dece4d",
+      "snapshot": "rendered-style-19.css"
+    }
+  ],
+  "colors": {
+    "#231f20": {
+      "count": 157,
+      "sources": [
+        "https://knackbags.com/",
+        "https://knackbags.com/cdn/shop/t/185/assets/custom.css?v=123187777693264024751782771755",
+        "https://knackbags.com/#computed-style-snapshot"
+      ]
+    },
+    "#ffffff": {
+      "count": 118,
+      "sources": [
+        "https://knackbags.com/",
+        "https://knackbags.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://knackbags.com/cdn/shop/t/185/assets/custom.css?v=123187777693264024751782771755",
+        "https://use.fontawesome.com/releases/v5.3.1/css/all.css",
+        "https://cdn.shopify.com/extensions/01a0e788-26d7-754a-a498-297bb49b8b18/gdpr-backpack-897/assets/index.css",
+        "https://knackbags.com/#computed-style-snapshot"
+      ]
+    },
+    "#0000ee": {
+      "count": 36,
+      "sources": [
+        "https://knackbags.com/#computed-style-snapshot"
+      ]
+    },
+    "#f0ab00": {
+      "count": 26,
+      "sources": [
+        "https://knackbags.com/",
+        "https://knackbags.com/cdn/shop/t/185/assets/custom.css?v=123187777693264024751782771755",
+        "https://knackbags.com/#computed-style-snapshot"
+      ]
+    },
+    "#000000": {
+      "count": 13,
+      "sources": [
+        "https://knackbags.com/cdn/shop/t/185/assets/custom.css?v=123187777693264024751782771755",
+        "https://knackbags.com/cdn/shop/t/185/assets/section-footer.css?v=17387681073379394691764062066",
+        "https://cdn.shopify.com/extensions/01a0e788-26d7-754a-a498-297bb49b8b18/gdpr-backpack-897/assets/index.css",
+        "https://knackbags.com/#computed-style-snapshot"
+      ]
+    },
+    "#282828": {
+      "count": 10,
+      "sources": [
+        "https://knackbags.com/#computed-style-snapshot"
+      ]
+    },
+    "#3c3535": {
+      "count": 6,
+      "sources": [
+        "https://knackbags.com/"
+      ]
+    },
+    "#f5f3f1": {
+      "count": 5,
+      "sources": [
+        "https://knackbags.com/cdn/shop/t/185/assets/custom.css?v=123187777693264024751782771755",
+        "https://knackbags.com/#computed-style-snapshot"
+      ]
+    },
+    "#159ce4": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e788-26d7-754a-a498-297bb49b8b18/gdpr-backpack-897/assets/index.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 4,
+      "sources": [
+        "https://knackbags.com/",
+        "https://use.fontawesome.com/releases/v5.3.1/css/all.css"
+      ]
+    },
+    "#8e8d92": {
+      "count": 4,
+      "sources": [
+        "https://knackbags.com/"
+      ]
+    },
+    "#d78f15": {
+      "count": 4,
+      "sources": [
+        "https://knackbags.com/cdn/shop/t/185/assets/custom.css?v=123187777693264024751782771755"
+      ]
+    },
+    "#f7f7f8": {
+      "count": 4,
+      "sources": [
+        "https://knackbags.com/cdn/shop/t/185/assets/custom.css?v=123187777693264024751782771755"
+      ]
+    },
+    "#dddddd": {
+      "count": 3,
+      "sources": [
+        "https://knackbags.com/cdn/shop/t/185/assets/custom.css?v=123187777693264024751782771755"
+      ]
+    },
+    "#958a82": {
+      "count": 3,
+      "sources": [
+        "https://knackbags.com/cdn/shop/t/185/assets/custom.css?v=123187777693264024751782771755"
+      ]
+    },
+    "#efefef": {
+      "count": 3,
+      "sources": [
+        "https://knackbags.com/#computed-style-snapshot"
+      ]
+    },
+    "#2e344a": {
+      "count": 2,
+      "sources": [
+        "https://knackbags.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://knackbags.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://knackbags.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#ffe9b3": {
+      "count": 2,
+      "sources": [
+        "https://knackbags.com/cdn/shop/t/185/assets/custom.css?v=123187777693264024751782771755"
+      ]
+    },
+    "#00000080": {
+      "count": 2,
+      "sources": [
+        "https://knackbags.com/cdn/shop/t/185/assets/section-image-banner.css?v=72717742178570359731775563309",
+        "https://knackbags.com/cdn/shop/t/185/assets/section-image-comparison.css?v=52366233469584515531764062068"
+      ]
+    },
+    "#d72c0d": {
+      "count": 1,
+      "sources": [
+        "https://knackbags.com/"
+      ]
+    },
+    "#008060": {
+      "count": 1,
+      "sources": [
+        "https://knackbags.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
+      "sources": [
+        "https://knackbags.com/"
+      ]
+    },
+    "#dad5c5": {
+      "count": 1,
+      "sources": [
+        "https://knackbags.com/"
+      ]
+    },
+    "#637089": {
+      "count": 1,
+      "sources": [
+        "https://knackbags.com/"
+      ]
+    },
+    "#717075": {
+      "count": 1,
+      "sources": [
+        "https://knackbags.com/"
+      ]
+    },
+    "#212025": {
+      "count": 1,
+      "sources": [
+        "https://knackbags.com/"
+      ]
+    },
+    "#4a6087": {
+      "count": 1,
+      "sources": [
+        "https://knackbags.com/"
+      ]
+    },
+    "#d29380": {
+      "count": 1,
+      "sources": [
+        "https://knackbags.com/"
+      ]
+    },
+    "#d3c9be": {
+      "count": 1,
+      "sources": [
+        "https://knackbags.com/"
+      ]
+    },
+    "#a49ca0": {
+      "count": 1,
+      "sources": [
+        "https://knackbags.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://knackbags.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://knackbags.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://knackbags.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://knackbags.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://knackbags.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://knackbags.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://knackbags.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://knackbags.com/"
+      ]
+    },
+    "#ff9a62": {
+      "count": 1,
+      "sources": [
+        "https://knackbags.com/"
+      ]
+    },
+    "#ffcc4b": {
+      "count": 1,
+      "sources": [
+        "https://knackbags.com/"
+      ]
+    },
+    "#ffe431": {
+      "count": 1,
+      "sources": [
+        "https://knackbags.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://knackbags.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://knackbags.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://knackbags.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#eef0f2": {
+      "count": 1,
+      "sources": [
+        "https://knackbags.com/cdn/shop/t/185/assets/custom.css?v=123187777693264024751782771755"
+      ]
+    },
+    "#231f2099": {
+      "count": 1,
+      "sources": [
+        "https://knackbags.com/cdn/shop/t/185/assets/custom.css?v=123187777693264024751782771755"
+      ]
+    },
+    "#7e756f": {
+      "count": 1,
+      "sources": [
+        "https://knackbags.com/cdn/shop/t/185/assets/custom.css?v=123187777693264024751782771755"
+      ]
+    },
+    "#d5d6d7": {
+      "count": 1,
+      "sources": [
+        "https://knackbags.com/cdn/shop/t/185/assets/custom.css?v=123187777693264024751782771755"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 1,
+      "sources": [
+        "https://knackbags.com/cdn/shop/t/185/assets/custom.css?v=123187777693264024751782771755"
+      ]
+    },
+    "#555555": {
+      "count": 1,
+      "sources": [
+        "https://knackbags.com/cdn/shop/t/185/assets/custom.css?v=123187777693264024751782771755"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://knackbags.com/#computed-style-snapshot"
+    ],
+    "Font Awesome 5 Brands": [
+      "https://use.fontawesome.com/releases/v5.3.1/css/all.css"
+    ],
+    "Font Awesome 5 Free": [
+      "https://use.fontawesome.com/releases/v5.3.1/css/all.css"
+    ],
+    "Helvetica Neue": [
+      "https://knackbags.com/cdn/shop/t/185/assets/custom.css?v=123187777693264024751782771755"
+    ],
+    "HelveticaNeue": [
+      "https://knackbags.com/cdn/shop/t/185/assets/custom.css?v=123187777693264024751782771755"
+    ],
+    "JudgemeStar": [
+      "https://knackbags.com/"
+    ],
+    "Lora": [
+      "https://knackbags.com/",
+      "https://knackbags.com/cdn/shop/t/185/assets/custom.css?v=123187777693264024751782771755",
+      "https://knackbags.com/#computed-style-snapshot"
+    ],
+    "Times": [
+      "https://knackbags.com/cdn/shop/t/185/assets/component-rating.css?v=173409050425969898561764062039"
+    ],
+    "Work Sans": [
+      "https://knackbags.com/",
+      "https://knackbags.com/cdn/shop/t/185/assets/custom.css?v=123187777693264024751782771755",
+      "https://knackbags.com/#computed-style-snapshot"
+    ],
+    "arial": [
+      "https://knackbags.com/cdn/shop/t/185/assets/custom.css?v=123187777693264024751782771755"
+    ],
+    "sans-serif": [
+      "https://knackbags.com/cdn/shop/t/185/assets/custom.css?v=123187777693264024751782771755",
+      "https://knackbags.com/#computed-style-snapshot"
+    ],
+    "serif": [
+      "https://knackbags.com/cdn/shop/t/185/assets/custom.css?v=123187777693264024751782771755",
+      "https://knackbags.com/#computed-style-snapshot"
+    ],
+    "work sans": [
+      "https://knackbags.com/cdn/shop/t/185/assets/custom.css?v=123187777693264024751782771755"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://knackbags.com/",
+      "selector": "body",
+      "declarations": "min-height: 100%;\n    margin: 0;\n    font-size: 1.5rem;\n    letter-spacing: 0.06rem;\n    line-height: calc(1 + 0.8 / var(--font-body-scale));\n    font-family: var(--font-body-family);\n    font-style: var(--font-body-style);\n    font-weight: var(--font-body-weight);"
+    },
+    {
+      "source": "https://knackbags.com/",
+      "selector": ":root",
+      "declarations": "--announcement-height: calc(36px + (4px * 0.75));"
+    },
+    {
+      "source": "https://knackbags.com/",
+      "selector": ":root",
+      "declarations": "--announcement-height: 40px;"
+    },
+    {
+      "source": "https://knackbags.com/",
+      "selector": "--font-size: 12px;\n#shopify-section-sections--17520713105469__header",
+      "declarations": "--section-padding-top: 36px;\n    --section-padding-bottom: 36px;\n    --image-logo-height: 36px;\n    --gradient-header-background: #ffffff;\n    --color-header-background: 255, 255, 255;\n    --color-header-foreground: 40, 40, 40;\n    --color-header-border: 240, 171, 0;\n    --color-highlight: 240, 171, 0;\n    --icon-weight: 1.1px;"
+    },
+    {
+      "source": "https://knackbags.com/",
+      "selector": "#shopify-section-sections--17520713105469__header",
+      "declarations": "--image-logo-height: 54px;"
+    },
+    {
+      "source": "https://knackbags.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://knackbags.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://knackbags.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://knackbags.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://knackbags.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://knackbags.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://knackbags.com/cdn/shop/t/185/assets/base.css?v=142817251096000342611764062016",
+      "selector": ":root",
+      "declarations": "--color-foreground: var(--color-base-text);--color-background: var(--color-base-background);--color-heading: var(--color-base-heading);--color-border: var(--color-base-border)"
+    },
+    {
+      "source": "https://knackbags.com/cdn/shop/t/185/assets/base.css?v=142817251096000342611764062016",
+      "selector": ":root",
+      "declarations": "--color-button-background: var(--color-base-accent);--color-button-border: var(--color-base-accent);--color-button-text: var(--color-base-solid-button-labels)"
+    },
+    {
+      "source": "https://knackbags.com/cdn/shop/t/185/assets/base.css?v=142817251096000342611764062016",
+      "selector": ".button--secondary",
+      "declarations": "--color-button-background: var(--color-background);--color-button-border: var(--color-base-outline-button-labels);--color-button-text: var(--color-base-outline-button-labels)"
+    },
+    {
+      "source": "https://knackbags.com/cdn/shop/t/185/assets/base.css?v=142817251096000342611764062016",
+      "selector": ".button--tertiary",
+      "declarations": "--color-button-background: var(--color-background);--color-button-border: var(--color-border);--color-button-text: var(--color-base-outline-button-labels)"
+    },
+    {
+      "source": "https://knackbags.com/cdn/shop/t/185/assets/base.css?v=142817251096000342611764062016",
+      "selector": ":root",
+      "declarations": "--color-link: var(--color-base-outline-button-labels)"
+    },
+    {
+      "source": "https://knackbags.com/cdn/shop/t/185/assets/base.css?v=142817251096000342611764062016",
+      "selector": ":root",
+      "declarations": "--color-badge-background: rgba(var(--color-background), .95);--color-badge-foreground: rgb(var(--color-foreground));--color-badge-border: rgb(var(--color-border))"
+    },
+    {
+      "source": "https://knackbags.com/cdn/shop/t/185/assets/base.css?v=142817251096000342611764062016",
+      "selector": ":root",
+      "declarations": "--duration-short: .1s;--duration-default: .25s;--duration-long: .5s;--duration-animate: 1s;--image-position: center center"
+    },
+    {
+      "source": "https://knackbags.com/cdn/shop/t/185/assets/base.css?v=142817251096000342611764062016",
+      "selector": "body",
+      "declarations": "color:rgb(var(--color-foreground));background-color:rgb(var(--color-background));overflow-x:hidden"
+    },
+    {
+      "source": "https://knackbags.com/cdn/shop/t/185/assets/base.css?v=142817251096000342611764062016",
+      "selector": ".heading,h1,h2,h3,h4,h5,.h0,.h1,.h2,.h3,.h4,.h5",
+      "declarations": "font-family:var(--font-heading-family);font-style:var(--font-heading-style);font-weight:var(--font-heading-weight);letter-spacing:calc(var(--font-heading-scale) * .06rem);color:rgb(var(--color-heading));line-height:calc(1 + .3/max(1,var(--font-heading-scale)))"
+    },
+    {
+      "source": "https://knackbags.com/cdn/shop/t/185/assets/base.css?v=142817251096000342611764062016",
+      "selector": ".button,.shopify-challenge__button,#product-builder .cpb-theme-provider.aloha .cpb-layout:not(.cpb-is-admin) .cpb-product-actions-container button",
+      "declarations": "position:relative;z-index:1;cursor:pointer;display:inline-flex;justify-content:center;align-items:center;box-sizing:border-box;font-family:inherit;padding:1rem 3rem;padding-top:calc(1rem + var(--font-button-baseline));text-decoration:none;border-radius:var(--button-radius);border:var(--button-border-width) solid rgb(var(--color-button-border));color:rgb(var(--color-button-text));background-color:rgb(var(--color-button-background));font-family:var(--font-button-family);min-width:24rem;max-width:100%;min-height:4.6rem;text-transform:uppercase;font-weight:600;transition-property:color,background-color,box-shadow;transition-duration:var(--duration-long);transition-timing-function:ease;-webkit-ap"
+    },
+    {
+      "source": "https://knackbags.com/cdn/shop/t/185/assets/base.css?v=142817251096000342611764062016",
+      "selector": ".button--secondary:after",
+      "declarations": "content:\"\";z-index:-1;position:absolute;top:0;right:0;bottom:0;left:0;width:120%;height:100%;background-image:none;background-color:rgb(var(--color-button-text));backface-visibility:hidden;will-change:transform;transform:rotate3d(0,0,1,10deg) translate3d(-1.2em,110%,0);transform-origin:0% 100%;transition:transform var(--duration-long) ease"
+    },
+    {
+      "source": "https://knackbags.com/cdn/shop/t/185/assets/base.css?v=142817251096000342611764062016",
+      "selector": ".button:hover",
+      "declarations": "box-shadow:none;background-color:rgba(var(--color-button-background),.85);transition-delay:var(--duration-default)"
+    },
+    {
+      "source": "https://knackbags.com/cdn/shop/t/185/assets/base.css?v=142817251096000342611764062016",
+      "selector": ".button--secondary:hover",
+      "declarations": "color:rgb(var(--color-button-background));transition-delay:0s"
+    },
+    {
+      "source": "https://knackbags.com/cdn/shop/t/185/assets/base.css?v=142817251096000342611764062016",
+      "selector": ".button--tertiary:hover",
+      "declarations": "color:rgb(var(--color-button-text));box-shadow:inset 0 0 0 .2rem rgb(var(--color-button-border));transition-delay:0s"
+    },
+    {
+      "source": "https://knackbags.com/cdn/shop/t/185/assets/base.css?v=142817251096000342611764062016",
+      "selector": ".button.loading",
+      "declarations": "color:transparent"
+    },
+    {
+      "source": "https://knackbags.com/cdn/shop/t/185/assets/base.css?v=142817251096000342611764062016",
+      "selector": ".button--cta",
+      "declarations": "min-height:4.5rem;background:none;box-shadow:none;min-width:auto;max-width:100%;padding:0;border:none;justify-content:space-between;text-transform:none;color:rgb(var(--color-link))"
+    },
+    {
+      "source": "https://knackbags.com/cdn/shop/t/185/assets/base.css?v=142817251096000342611764062016",
+      "selector": ".button--cta:hover",
+      "declarations": "color:rgb(var(--color-link));background-color:transparent"
+    },
+    {
+      "source": "https://knackbags.com/cdn/shop/t/185/assets/base.css?v=142817251096000342611764062016",
+      "selector": ".button--cta:before,.button--cta:after",
+      "declarations": "content:\"\";position:absolute;width:100%;height:.1rem;bottom:0;right:0;top:auto;left:auto;transform:none;border:none;background-image:none;background-color:rgb(var(--color-border));transition:transform var(--duration-default) ease"
+    },
+    {
+      "source": "https://knackbags.com/cdn/shop/t/185/assets/base.css?v=142817251096000342611764062016",
+      "selector": ".button--cta.loading",
+      "declarations": "color:rgb(var(--color-link))"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "Knack Bags: Expandable Backpacks & Accessories",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "d75752bf94626decdc354573e4cc8acdc8e304861fbef570edc839e65dc6f4c0"
+    }
+  ],
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://knackbags.com/",
+        "https://knackbags.com/cdn/shop/t/185/assets/custom.css?v=123187777693264024751782771755",
+        "https://knackbags.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://knackbags.com/",
+        "https://knackbags.com/cdn/shop/t/185/assets/custom.css?v=123187777693264024751782771755",
+        "https://knackbags.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://knackbags.com/",
+        "https://knackbags.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://knackbags.com/cdn/shop/t/185/assets/custom.css?v=123187777693264024751782771755",
+        "https://use.fontawesome.com/releases/v5.3.1/css/all.css",
+        "https://cdn.shopify.com/extensions/01a0e788-26d7-754a-a498-297bb49b8b18/gdpr-backpack-897/assets/index.css",
+        "https://knackbags.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://knackbags.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://knackbags.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://knackbags.com/cdn/shop/t/185/assets/custom.css?v=123187777693264024751782771755"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://knackbags.com/cdn/shop/t/185/assets/custom.css?v=123187777693264024751782771755",
+        "https://knackbags.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://knackbags.com/cdn/shop/t/185/assets/custom.css?v=123187777693264024751782771755"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://knackbags.com/",
+        "https://knackbags.com/cdn/shop/t/185/assets/custom.css?v=123187777693264024751782771755",
+        "https://knackbags.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://knackbags.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-blue-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://knackbags.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-warm": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://knackbags.com/"
+      ]
+    },
+    "colors.surface-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://knackbags.com/"
+      ]
+    },
+    "colors.sale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://knackbags.com/"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://knackbags.com/"
+      ]
+    },
+    "colors.link": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://knackbags.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.skeleton": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://knackbags.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.color-swatch-selector": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.review-card": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    }
+  }
+}

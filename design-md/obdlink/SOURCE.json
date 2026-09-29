@@ -1,0 +1,946 @@
+{
+  "source_url": "https://obdlink.com",
+  "final_url": "https://www.obdlink.com/",
+  "captured_at": "2026-09-29T04:04:26.006516+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://obdlink.com",
+      "final_url": "https://www.obdlink.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "8b63915e951f31b9b5e90f496ddbc7a2e85db55bacc3985ebb7fda691ee3afe2",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.obdlink.com/wp-content/plugins/madnify/extensions/base/frontend/css/extension-frontend.css?ver=3.2.0_base_v1.0.0",
+      "final_url": "https://www.obdlink.com/wp-content/plugins/madnify/extensions/base/frontend/css/extension-frontend.css?ver=3.2.0_base_v1.0.0",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5f75f24dc0907a237a13bd8f471bc3186ba691fa480a5704fb7f4a97b0b12fcd",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.obdlink.com/wp-content/uploads/font-awesome/v5.15.1/css/svg-with-js.css",
+      "final_url": "https://www.obdlink.com/wp-content/uploads/font-awesome/v5.15.1/css/svg-with-js.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9bcdf3904d4d3893ac69b9511a13c3525a3bb56662137c916316f89d2858603e",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.15.1/css/all.css",
+      "final_url": "https://use.fontawesome.com/releases/v5.15.1/css/all.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "af1e6edc875a382b338bb25bd7c5c3f474a7f1b36212002a5896dd06f2186325",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v5.15.1/css/v4-shims.css",
+      "final_url": "https://use.fontawesome.com/releases/v5.15.1/css/v4-shims.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "fda3035030d3843c2751dc0da65fb802230ec00a4008aeed83ddddc7b97cbc93",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.obdlink.com/wp-content/uploads/bb-plugin/cache/14813-layout.css?ver=651bc6b4fc609f2eb3e53e0dbe24c155",
+      "final_url": "https://www.obdlink.com/wp-content/uploads/bb-plugin/cache/14813-layout.css?ver=651bc6b4fc609f2eb3e53e0dbe24c155",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9397c897a4a23604df519f7c3dd7d5663db43138d8ad93b992a0dad762e3a5d6",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 37,
+      "sources": [
+        "https://www.obdlink.com/",
+        "https://www.obdlink.com/wp-content/uploads/font-awesome/v5.15.1/css/svg-with-js.css",
+        "https://use.fontawesome.com/releases/v5.15.1/css/all.css",
+        "https://www.obdlink.com/wp-content/uploads/bb-plugin/cache/14813-layout.css?ver=651bc6b4fc609f2eb3e53e0dbe24c155"
+      ]
+    },
+    "#000000": {
+      "count": 30,
+      "sources": [
+        "https://www.obdlink.com/",
+        "https://www.obdlink.com/wp-content/uploads/font-awesome/v5.15.1/css/svg-with-js.css",
+        "https://www.obdlink.com/wp-content/uploads/bb-plugin/cache/14813-layout.css?ver=651bc6b4fc609f2eb3e53e0dbe24c155"
+      ]
+    },
+    "#428bca": {
+      "count": 10,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#202020": {
+      "count": 10,
+      "sources": [
+        "https://www.obdlink.com/wp-content/uploads/bb-plugin/cache/14813-layout.css?ver=651bc6b4fc609f2eb3e53e0dbe24c155"
+      ]
+    },
+    "#ffca08": {
+      "count": 8,
+      "sources": [
+        "https://www.obdlink.com/",
+        "https://www.obdlink.com/wp-content/uploads/bb-plugin/cache/14813-layout.css?ver=651bc6b4fc609f2eb3e53e0dbe24c155"
+      ]
+    },
+    "#eeeeee": {
+      "count": 7,
+      "sources": [
+        "https://www.obdlink.com/",
+        "https://www.obdlink.com/wp-content/uploads/font-awesome/v5.15.1/css/svg-with-js.css",
+        "https://use.fontawesome.com/releases/v5.15.1/css/all.css"
+      ]
+    },
+    "#0693e3": {
+      "count": 3,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#32373c": {
+      "count": 3,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#ff6900": {
+      "count": 3,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 2,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#313131": {
+      "count": 2,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#00d084": {
+      "count": 2,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#020381": {
+      "count": 2,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#2874fc": {
+      "count": 2,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#cf2e2e": {
+      "count": 2,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#fcb900": {
+      "count": 2,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#9b51e0": {
+      "count": 2,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#ffa608": {
+      "count": 2,
+      "sources": [
+        "https://www.obdlink.com/",
+        "https://www.obdlink.com/wp-content/uploads/bb-plugin/cache/14813-layout.css?ver=651bc6b4fc609f2eb3e53e0dbe24c155"
+      ]
+    },
+    "#0000001a": {
+      "count": 2,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#c9c9c9": {
+      "count": 2,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#ff0000": {
+      "count": 2,
+      "sources": [
+        "https://www.obdlink.com/",
+        "https://www.obdlink.com/wp-content/uploads/bb-plugin/cache/14813-layout.css?ver=651bc6b4fc609f2eb3e53e0dbe24c155"
+      ]
+    },
+    "#dd6420": {
+      "count": 2,
+      "sources": [
+        "https://www.obdlink.com/wp-content/uploads/bb-plugin/cache/14813-layout.css?ver=651bc6b4fc609f2eb3e53e0dbe24c155"
+      ]
+    },
+    "#7a00df": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#007cba": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#006ba1": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#005a87": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#34e2e4": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#4721fb": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#ab1dfe": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#faaca8": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#dad0ec": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#fafae1": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#67a671": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#fdd79a": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#004a59": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#330968": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#31cdcf": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#444444": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#abb8c3": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#f78da7": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#7bdcb5": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#8ed1fc": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#ffce21": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#1041a3": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#00a8ff": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#7bb835": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#fb6947": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#4393f1": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#7adcb4": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#00d082": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#a9b8c3": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#4aeadc": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#9778d1": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#cf2aba": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#ee2c82": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#fb6962": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#fef84c": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#ffceec": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#9896f0": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#fecda5": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#fe2d2d": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#6b003e": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#ffcb70": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#c751c0": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#4158d0": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#fff5cb": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#b6e3d4": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#33a7b5": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#caf880": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#71ce7e": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "#ff253a": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/wp-content/uploads/font-awesome/v5.15.1/css/svg-with-js.css"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/wp-content/uploads/bb-plugin/cache/14813-layout.css?ver=651bc6b4fc609f2eb3e53e0dbe24c155"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/wp-content/uploads/bb-plugin/cache/14813-layout.css?ver=651bc6b4fc609f2eb3e53e0dbe24c155"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/wp-content/uploads/bb-plugin/cache/14813-layout.css?ver=651bc6b4fc609f2eb3e53e0dbe24c155"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/wp-content/uploads/bb-plugin/cache/14813-layout.css?ver=651bc6b4fc609f2eb3e53e0dbe24c155"
+      ]
+    },
+    "#606060": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/wp-content/uploads/bb-plugin/cache/14813-layout.css?ver=651bc6b4fc609f2eb3e53e0dbe24c155"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/wp-content/uploads/bb-plugin/cache/14813-layout.css?ver=651bc6b4fc609f2eb3e53e0dbe24c155"
+      ]
+    },
+    "#3e3e3e": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/wp-content/uploads/bb-plugin/cache/14813-layout.css?ver=651bc6b4fc609f2eb3e53e0dbe24c155"
+      ]
+    },
+    "#ca9e00": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/wp-content/uploads/bb-plugin/cache/14813-layout.css?ver=651bc6b4fc609f2eb3e53e0dbe24c155"
+      ]
+    },
+    "#cdcdcd": {
+      "count": 1,
+      "sources": [
+        "https://www.obdlink.com/wp-content/uploads/bb-plugin/cache/14813-layout.css?ver=651bc6b4fc609f2eb3e53e0dbe24c155"
+      ]
+    }
+  },
+  "font_families": {
+    "Default": [
+      "https://www.obdlink.com/wp-content/uploads/bb-plugin/cache/14813-layout.css?ver=651bc6b4fc609f2eb3e53e0dbe24c155"
+    ],
+    "Font Awesome 5 Brands": [
+      "https://use.fontawesome.com/releases/v5.15.1/css/all.css",
+      "https://use.fontawesome.com/releases/v5.15.1/css/v4-shims.css"
+    ],
+    "Font Awesome 5 Free": [
+      "https://use.fontawesome.com/releases/v5.15.1/css/all.css",
+      "https://use.fontawesome.com/releases/v5.15.1/css/v4-shims.css"
+    ],
+    "FontAwesome": [
+      "https://www.obdlink.com/"
+    ],
+    "Poppins": [
+      "https://www.obdlink.com/wp-content/uploads/bb-plugin/cache/14813-layout.css?ver=651bc6b4fc609f2eb3e53e0dbe24c155"
+    ],
+    "WPMenuCart": [
+      "https://www.obdlink.com/"
+    ],
+    "sans-serif": [
+      "https://www.obdlink.com/wp-content/uploads/bb-plugin/cache/14813-layout.css?ver=651bc6b4fc609f2eb3e53e0dbe24c155"
+    ],
+    "sans-serif !important": [
+      "https://www.obdlink.com/wp-content/uploads/bb-plugin/cache/14813-layout.css?ver=651bc6b4fc609f2eb3e53e0dbe24c155"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.obdlink.com/",
+      "selector": ":root",
+      "declarations": "--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px"
+    },
+    {
+      "source": "https://www.obdlink.com/",
+      "selector": ":root",
+      "declarations": "--wp-admin-border-width-focus:1.5px"
+    },
+    {
+      "source": "https://www.obdlink.com/",
+      "selector": ":root .has-very-light-gray-background-color",
+      "declarations": "background-color:#eee"
+    },
+    {
+      "source": "https://www.obdlink.com/",
+      "selector": ":root .has-very-dark-gray-background-color",
+      "declarations": "background-color:#313131"
+    },
+    {
+      "source": "https://www.obdlink.com/",
+      "selector": ":root .has-very-light-gray-color",
+      "declarations": "color:#eee"
+    },
+    {
+      "source": "https://www.obdlink.com/",
+      "selector": ":root .has-very-dark-gray-color",
+      "declarations": "color:#313131"
+    },
+    {
+      "source": "https://www.obdlink.com/",
+      "selector": ":root",
+      "declarations": "--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px"
+    },
+    {
+      "source": "https://www.obdlink.com/",
+      "selector": ".wp-block-button__link",
+      "declarations": "color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em"
+    },
+    {
+      "source": "https://www.obdlink.com/",
+      "selector": ".wp-block-file__button",
+      "declarations": "background:#32373c;color:#fff;text-decoration:none"
+    },
+    {
+      "source": "https://www.obdlink.com/",
+      "selector": ".wp-block-button",
+      "declarations": "--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;"
+    },
+    {
+      "source": "https://www.obdlink.com/",
+      "selector": ":root :where(.wp-element-button, .wp-block-button__link)",
+      "declarations": "background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;"
+    },
+    {
+      "source": "https://www.obdlink.com/",
+      "selector": ".has-fl-body-bg-color",
+      "declarations": "color: var(--wp--preset--color--fl-body-bg) !important;"
+    },
+    {
+      "source": "https://www.obdlink.com/",
+      "selector": ".has-fl-body-text-color",
+      "declarations": "color: var(--wp--preset--color--fl-body-text) !important;"
+    },
+    {
+      "source": "https://www.obdlink.com/",
+      "selector": ".has-fl-header-bg-color",
+      "declarations": "color: var(--wp--preset--color--fl-header-bg) !important;"
+    },
+    {
+      "source": "https://www.obdlink.com/",
+      "selector": ".has-fl-header-text-color",
+      "declarations": "color: var(--wp--preset--color--fl-header-text) !important;"
+    },
+    {
+      "source": "https://www.obdlink.com/",
+      "selector": ".has-fl-header-link-color",
+      "declarations": "color: var(--wp--preset--color--fl-header-link) !important;"
+    },
+    {
+      "source": "https://www.obdlink.com/",
+      "selector": ".has-fl-header-hover-color",
+      "declarations": "color: var(--wp--preset--color--fl-header-hover) !important;"
+    },
+    {
+      "source": "https://www.obdlink.com/",
+      "selector": ".has-fl-body-bg-background-color",
+      "declarations": "background-color: var(--wp--preset--color--fl-body-bg) !important;"
+    },
+    {
+      "source": "https://www.obdlink.com/",
+      "selector": ".has-fl-body-text-background-color",
+      "declarations": "background-color: var(--wp--preset--color--fl-body-text) !important;"
+    },
+    {
+      "source": "https://www.obdlink.com/",
+      "selector": ".has-fl-header-bg-background-color",
+      "declarations": "background-color: var(--wp--preset--color--fl-header-bg) !important;"
+    },
+    {
+      "source": "https://www.obdlink.com/",
+      "selector": ".has-fl-header-text-background-color",
+      "declarations": "background-color: var(--wp--preset--color--fl-header-text) !important;"
+    },
+    {
+      "source": "https://www.obdlink.com/",
+      "selector": ".has-fl-header-link-background-color",
+      "declarations": "background-color: var(--wp--preset--color--fl-header-link) !important;"
+    },
+    {
+      "source": "https://www.obdlink.com/",
+      "selector": ".has-fl-header-hover-background-color",
+      "declarations": "background-color: var(--wp--preset--color--fl-header-hover) !important;"
+    },
+    {
+      "source": "https://www.obdlink.com/",
+      "selector": ".has-fl-body-bg-border-color",
+      "declarations": "border-color: var(--wp--preset--color--fl-body-bg) !important;"
+    },
+    {
+      "source": "https://www.obdlink.com/",
+      "selector": ".has-fl-body-text-border-color",
+      "declarations": "border-color: var(--wp--preset--color--fl-body-text) !important;"
+    },
+    {
+      "source": "https://www.obdlink.com/",
+      "selector": ".has-fl-header-bg-border-color",
+      "declarations": "border-color: var(--wp--preset--color--fl-header-bg) !important;"
+    },
+    {
+      "source": "https://www.obdlink.com/",
+      "selector": ".has-fl-header-text-border-color",
+      "declarations": "border-color: var(--wp--preset--color--fl-header-text) !important;"
+    },
+    {
+      "source": "https://www.obdlink.com/",
+      "selector": ".has-fl-header-link-border-color",
+      "declarations": "border-color: var(--wp--preset--color--fl-header-link) !important;"
+    },
+    {
+      "source": "https://www.obdlink.com/",
+      "selector": ".has-fl-header-hover-border-color",
+      "declarations": "border-color: var(--wp--preset--color--fl-header-hover) !important;"
+    },
+    {
+      "source": "https://www.obdlink.com/",
+      "selector": ".xoo-wsc-ft-buttons-cont a.xoo-wsc-ft-btn, .xoo-wsc-container .xoo-wsc-btn",
+      "declarations": "background-color: #000000;\r\n\t\t\tcolor: #ffffff;\r\n\t\t\tborder: 2px solid #ffffff;\r\n\t\t\tpadding: 10px 20px;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "OBDLink® - Powerful Scan Tools For Android, iOS, & Windows",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.obdlink.com/wp-content/uploads/bb-plugin/cache/14813-layout.css?ver=651bc6b4fc609f2eb3e53e0dbe24c155"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.obdlink.com/",
+        "https://www.obdlink.com/wp-content/uploads/font-awesome/v5.15.1/css/svg-with-js.css",
+        "https://use.fontawesome.com/releases/v5.15.1/css/all.css",
+        "https://www.obdlink.com/wp-content/uploads/bb-plugin/cache/14813-layout.css?ver=651bc6b4fc609f2eb3e53e0dbe24c155"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.obdlink.com/",
+        "https://www.obdlink.com/wp-content/uploads/font-awesome/v5.15.1/css/svg-with-js.css",
+        "https://use.fontawesome.com/releases/v5.15.1/css/all.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.obdlink.com/",
+        "https://www.obdlink.com/wp-content/uploads/font-awesome/v5.15.1/css/svg-with-js.css",
+        "https://use.fontawesome.com/releases/v5.15.1/css/all.css",
+        "https://www.obdlink.com/wp-content/uploads/bb-plugin/cache/14813-layout.css?ver=651bc6b4fc609f2eb3e53e0dbe24c155"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.obdlink.com/",
+        "https://www.obdlink.com/wp-content/uploads/font-awesome/v5.15.1/css/svg-with-js.css",
+        "https://use.fontawesome.com/releases/v5.15.1/css/all.css",
+        "https://www.obdlink.com/wp-content/uploads/bb-plugin/cache/14813-layout.css?ver=651bc6b4fc609f2eb3e53e0dbe24c155"
+      ]
+    },
+    "colors.surface-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "colors.accent-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "colors.accent-active": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.obdlink.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.diagnostic-feature-list": {
+      "status": "inferred"
+    }
+  }
+}

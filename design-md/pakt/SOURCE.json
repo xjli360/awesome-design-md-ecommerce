@@ -1,0 +1,756 @@
+{
+  "source_url": "https://paktbags.com",
+  "final_url": "https://paktbags.com/",
+  "captured_at": "2026-09-29T04:05:13.516184+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://paktbags.com",
+      "final_url": "https://paktbags.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "ad3df836276326ce70a1df69f707ea6ab88d97df637a3618f619767d042a0523",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://paktbags.com/cdn/shop/t/191/assets/patrol-styles.css?v=121524721835165520761788877572",
+      "final_url": "https://paktbags.com/cdn/shop/t/191/assets/patrol-styles.css?v=121524721835165520761788877572",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9ff80ce76d102662dd7e831621fc96cacc06cf0163b5859cff6c6e3bb7264c08",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://paktbags.com/cdn/shop/t/191/assets/theme.min.css?v=137287321296197353221788877593",
+      "final_url": "https://paktbags.com/cdn/shop/t/191/assets/theme.min.css?v=137287321296197353221788877593",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a5883acaf251f78fb35b7d1448f8d7b4f0c03825294e65bbd4c294f107f6e934",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://paktbags.com/cdn/shop/t/191/assets/custom.css?v=64092531221755112431788877565",
+      "final_url": "https://paktbags.com/cdn/shop/t/191/assets/custom.css?v=64092531221755112431788877565",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "04d4fc50f6344d04a4ba323f58f0dcb2727d7f5e89344fafe136785aecf25a3a",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://paktbags.com/cdn/shop/t/191/assets/td-base.css?v=46747584426276732671788877576",
+      "final_url": "https://paktbags.com/cdn/shop/t/191/assets/td-base.css?v=46747584426276732671788877576",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "77dc31f370fcdb8ac8362b911b7f950b6eed405055cb18124344632ed6d21b53",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://paktbags.com/cdn/shop/t/191/assets/td-visible-discount.css?v=26343462322664554471788877591",
+      "final_url": "https://paktbags.com/cdn/shop/t/191/assets/td-visible-discount.css?v=26343462322664554471788877591",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "26b930acb824d9bc6ea505e8e0e2efa01d3a4035b7dc2f0a11c21b00588b4e2c",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 84,
+      "sources": [
+        "https://paktbags.com/",
+        "https://paktbags.com/cdn/shop/t/191/assets/patrol-styles.css?v=121524721835165520761788877572",
+        "https://paktbags.com/cdn/shop/t/191/assets/theme.min.css?v=137287321296197353221788877593",
+        "https://paktbags.com/cdn/shop/t/191/assets/custom.css?v=64092531221755112431788877565"
+      ]
+    },
+    "#000000": {
+      "count": 43,
+      "sources": [
+        "https://paktbags.com/",
+        "https://paktbags.com/cdn/shop/t/191/assets/theme.min.css?v=137287321296197353221788877593",
+        "https://paktbags.com/cdn/shop/t/191/assets/custom.css?v=64092531221755112431788877565"
+      ]
+    },
+    "#111111": {
+      "count": 40,
+      "sources": [
+        "https://paktbags.com/"
+      ]
+    },
+    "#ff5740": {
+      "count": 25,
+      "sources": [
+        "https://paktbags.com/",
+        "https://paktbags.com/cdn/shop/t/191/assets/theme.min.css?v=137287321296197353221788877593",
+        "https://paktbags.com/cdn/shop/t/191/assets/custom.css?v=64092531221755112431788877565"
+      ]
+    },
+    "#666666": {
+      "count": 9,
+      "sources": [
+        "https://paktbags.com/"
+      ]
+    },
+    "#999999": {
+      "count": 9,
+      "sources": [
+        "https://paktbags.com/",
+        "https://paktbags.com/cdn/shop/t/191/assets/td-visible-discount.css?v=26343462322664554471788877591"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 7,
+      "sources": [
+        "https://paktbags.com/"
+      ]
+    },
+    "#e1e4e6": {
+      "count": 5,
+      "sources": [
+        "https://paktbags.com/"
+      ]
+    },
+    "#e1e1e1": {
+      "count": 4,
+      "sources": [
+        "https://paktbags.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 4,
+      "sources": [
+        "https://paktbags.com/",
+        "https://paktbags.com/cdn/shop/t/191/assets/theme.min.css?v=137287321296197353221788877593"
+      ]
+    },
+    "#ffffff33": {
+      "count": 3,
+      "sources": [
+        "https://paktbags.com/"
+      ]
+    },
+    "#d0d0d2": {
+      "count": 3,
+      "sources": [
+        "https://paktbags.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 3,
+      "sources": [
+        "https://paktbags.com/"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 2,
+      "sources": [
+        "https://paktbags.com/"
+      ]
+    },
+    "#d5d5d5": {
+      "count": 2,
+      "sources": [
+        "https://paktbags.com/"
+      ]
+    },
+    "#555555": {
+      "count": 2,
+      "sources": [
+        "https://paktbags.com/"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://paktbags.com/"
+      ]
+    },
+    "#6d6d6dff": {
+      "count": 1,
+      "sources": [
+        "https://paktbags.com/"
+      ]
+    },
+    "#918f8f": {
+      "count": 1,
+      "sources": [
+        "https://paktbags.com/"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 1,
+      "sources": [
+        "https://paktbags.com/"
+      ]
+    },
+    "#696969": {
+      "count": 1,
+      "sources": [
+        "https://paktbags.com/"
+      ]
+    },
+    "#d0d0d233": {
+      "count": 1,
+      "sources": [
+        "https://paktbags.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
+      "sources": [
+        "https://paktbags.com/"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://paktbags.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 1,
+      "sources": [
+        "https://paktbags.com/"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 1,
+      "sources": [
+        "https://paktbags.com/"
+      ]
+    },
+    "#1e1e1e": {
+      "count": 1,
+      "sources": [
+        "https://paktbags.com/"
+      ]
+    },
+    "#2a2a2a": {
+      "count": 1,
+      "sources": [
+        "https://paktbags.com/"
+      ]
+    },
+    "#f7f6f4": {
+      "count": 1,
+      "sources": [
+        "https://paktbags.com/"
+      ]
+    },
+    "#f4f4f6": {
+      "count": 1,
+      "sources": [
+        "https://paktbags.com/cdn/shop/t/191/assets/theme.min.css?v=137287321296197353221788877593"
+      ]
+    },
+    "#42c0ae": {
+      "count": 1,
+      "sources": [
+        "https://paktbags.com/cdn/shop/t/191/assets/theme.min.css?v=137287321296197353221788877593"
+      ]
+    },
+    "#9c9c9c": {
+      "count": 1,
+      "sources": [
+        "https://paktbags.com/cdn/shop/t/191/assets/theme.min.css?v=137287321296197353221788877593"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 1,
+      "sources": [
+        "https://paktbags.com/cdn/shop/t/191/assets/theme.min.css?v=137287321296197353221788877593"
+      ]
+    },
+    "#e20dbb": {
+      "count": 1,
+      "sources": [
+        "https://paktbags.com/cdn/shop/t/191/assets/custom.css?v=64092531221755112431788877565"
+      ]
+    },
+    "#ffffffb5": {
+      "count": 1,
+      "sources": [
+        "https://paktbags.com/cdn/shop/t/191/assets/custom.css?v=64092531221755112431788877565"
+      ]
+    },
+    "#ffffffcc": {
+      "count": 1,
+      "sources": [
+        "https://paktbags.com/cdn/shop/t/191/assets/custom.css?v=64092531221755112431788877565"
+      ]
+    },
+    "#000000db": {
+      "count": 1,
+      "sources": [
+        "https://paktbags.com/cdn/shop/t/191/assets/custom.css?v=64092531221755112431788877565"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://paktbags.com/"
+    ],
+    "Apple Color Emoji": [
+      "https://paktbags.com/",
+      "https://paktbags.com/cdn/shop/t/191/assets/custom.css?v=64092531221755112431788877565"
+    ],
+    "Arial": [
+      "https://paktbags.com/"
+    ],
+    "Calibre-Bold": [
+      "https://paktbags.com/cdn/shop/t/191/assets/theme.min.css?v=137287321296197353221788877593"
+    ],
+    "Calibre-Regular": [
+      "https://paktbags.com/",
+      "https://paktbags.com/cdn/shop/t/191/assets/theme.min.css?v=137287321296197353221788877593",
+      "https://paktbags.com/cdn/shop/t/191/assets/custom.css?v=64092531221755112431788877565"
+    ],
+    "Helvetica": [
+      "https://paktbags.com/",
+      "https://paktbags.com/cdn/shop/t/191/assets/custom.css?v=64092531221755112431788877565"
+    ],
+    "Helvetica Neue": [
+      "https://paktbags.com/",
+      "https://paktbags.com/cdn/shop/t/191/assets/custom.css?v=64092531221755112431788877565"
+    ],
+    "HelveticaLTStd-Bold": [
+      "https://paktbags.com/",
+      "https://paktbags.com/cdn/shop/t/191/assets/theme.min.css?v=137287321296197353221788877593"
+    ],
+    "JudgemeStar": [
+      "https://paktbags.com/"
+    ],
+    "Liberation Sans": [
+      "https://paktbags.com/"
+    ],
+    "Noto Color Emoji": [
+      "https://paktbags.com/"
+    ],
+    "Noto Sans": [
+      "https://paktbags.com/"
+    ],
+    "Roboto": [
+      "https://paktbags.com/"
+    ],
+    "Segoe UI": [
+      "https://paktbags.com/"
+    ],
+    "Segoe UI Emoji": [
+      "https://paktbags.com/",
+      "https://paktbags.com/cdn/shop/t/191/assets/custom.css?v=64092531221755112431788877565"
+    ],
+    "Segoe UI Symbol": [
+      "https://paktbags.com/",
+      "https://paktbags.com/cdn/shop/t/191/assets/custom.css?v=64092531221755112431788877565"
+    ],
+    "Segoe UI Symbol\" !important": [
+      "https://paktbags.com/"
+    ],
+    "Ubuntu": [
+      "https://paktbags.com/"
+    ],
+    "sans-serif": [
+      "https://paktbags.com/",
+      "https://paktbags.com/cdn/shop/t/191/assets/theme.min.css?v=137287321296197353221788877593",
+      "https://paktbags.com/cdn/shop/t/191/assets/custom.css?v=64092531221755112431788877565"
+    ],
+    "system-ui": [
+      "https://paktbags.com/"
+    ],
+    "system_ui": [
+      "https://paktbags.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://paktbags.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: 40px;\n      --grid-column-count: 20;\n      --vertical-breather: 64px;\n      --vertical-breather-tight: 64px;\n\n      \n      --heading-xsmall-font-size: 12px;\n      --heading-small-font-size: 13px;\n      --heading-large-font-size: 52px;\n      --heading-h1-font-size: 48px;\n      --heading-h2-font-size: 38px;\n      --heading-h3-font-size: 32px;\n      --heading-h4-font-size: 24px;\n      --heading-h5-font-size: 20px;\n      --heading-h6-font-size: 18px;\n\n      \n      --form-input-field-height: 52px;\n      --form-submit-margin: 32px;\n\n      \n      --button-height: 52px;\n      --button-small-height: 44px;"
+    },
+    {
+      "source": "https://paktbags.com/",
+      "selector": ":root",
+      "declarations": "--vertical-breather: 80px;\n      --vertical-breather-tight: 64px;\n      --product-list-block-spacing: 48px;\n\n      \n      --heading-large-font-size: 64px;\n      --heading-h1-font-size: 46px;\n      --heading-h2-font-size: 48px;\n      --heading-h3-font-size: 36px;\n      --heading-h4-font-size: 30px;\n      --heading-h5-font-size: 24px;\n      --heading-h6-font-size: 18px;"
+    },
+    {
+      "source": "https://paktbags.com/",
+      "selector": ":root",
+      "declarations": "--vertical-breather: 90px;\n      --vertical-breather-tight: 64px;"
+    },
+    {
+      "source": "https://paktbags.com/",
+      "selector": ".unicorn .unicorn_body_font",
+      "declarations": "font-family: var(--font-body-family, var(--body-font-family, var(--text-font-family, inherit)))"
+    },
+    {
+      "source": "https://paktbags.com/",
+      "selector": ".unicorn .unicorn_button_base",
+      "declarations": "font-family: var(--font-body-family, var(--body-font-family, var(--text-font-family, inherit)));font-weight: normal;\n    font-size: 14px;\n    text-transform:none;\n    letter-spacing: 1px;\n    border-width: 2px;\n    border-radius: 0px;\n    padding-top: 8px;\n    padding-bottom: 8px;\n    padding-left: 30px;\n    padding-right: 30px;\n    line-height: 14px;"
+    },
+    {
+      "source": "https://paktbags.com/",
+      "selector": ".unicorn .unicorn_button_small",
+      "declarations": "font-family: var(--font-body-family, var(--body-font-family, var(--text-font-family, inherit)));font-weight: bold;\n    font-size: 11px;\n    text-transform:none;\n    letter-spacing: 0.1px;\n    border-width: 2px;\n    border-radius: 3px;\n    padding-top: 6px;\n    padding-bottom: 6px;\n    padding-left: 12px;\n    padding-right: 12px;\n    line-height: 11px;"
+    },
+    {
+      "source": "https://paktbags.com/",
+      "selector": ".unicorn .unicorn_button_primary",
+      "declarations": "color: #ffffff;\n    background-color: #ff5740;\n    border-color: #ff5740;"
+    },
+    {
+      "source": "https://paktbags.com/",
+      "selector": ".unicorn .unicorn_button_primary .unicorn_loader_spinner",
+      "declarations": "border-color: #ffffff33;\n    border-left-color: #ffffff;"
+    },
+    {
+      "source": "https://paktbags.com/",
+      "selector": ".unicorn .unicorn_button_primary:hover",
+      "declarations": "color: #ffffff;\n    background-color: #ff5740;\n    border-color: #ff5740;"
+    },
+    {
+      "source": "https://paktbags.com/",
+      "selector": ".unicorn .unicorn_button_primary:hover .unicorn_loader_spinner",
+      "declarations": "border-color: #ffffff33;\n    border-left-color: #ffffff;"
+    },
+    {
+      "source": "https://paktbags.com/",
+      "selector": ".unicorn .unicorn_button_secondary",
+      "declarations": "color: #000000;\n    background-color: #ffffff;\n    border-color: #000000;"
+    },
+    {
+      "source": "https://paktbags.com/",
+      "selector": ".unicorn .unicorn_button_secondary .unicorn_loader_spinner",
+      "declarations": "border-color: #00000033;\n    border-left-color: #000000;"
+    },
+    {
+      "source": "https://paktbags.com/",
+      "selector": ".unicorn .unicorn_button_secondary:hover",
+      "declarations": "color: #ffffff;\n    background-color: #000000;\n    border-color: #000000;"
+    },
+    {
+      "source": "https://paktbags.com/",
+      "selector": ".unicorn .unicorn_button_secondary:hover .unicorn_loader_spinner",
+      "declarations": "border-color: #ffffff33;\n    border-left-color: #ffffff;"
+    },
+    {
+      "source": "https://paktbags.com/",
+      "selector": ".unicorn .unicorn_button_disabled",
+      "declarations": "color: #6d6d6dff;\n    background-color: #e1e1e1;\n    border-color: #e1e1e1;"
+    },
+    {
+      "source": "https://paktbags.com/",
+      "selector": ".unicorn .unicorn_product_image",
+      "declarations": "border-radius: 0px;\n    padding-bottom: 100% !important;\n    background-color: #F5F5F5;"
+    },
+    {
+      "source": "https://paktbags.com/",
+      "selector": ".unicorn .unicorn_product_price",
+      "declarations": "font-weight: bold;\n    color: #000000;"
+    },
+    {
+      "source": "https://paktbags.com/",
+      "selector": ".unicorn .unicorn_product_price_compare",
+      "declarations": "font-weight: normal;\n    color: #696969;text-decoration: line-through;"
+    },
+    {
+      "source": "https://paktbags.com/",
+      "selector": ":root",
+      "declarations": "--enable-sticky-announcement-bar: 1;"
+    },
+    {
+      "source": "https://paktbags.com/",
+      "selector": ":root",
+      "declarations": "--enable-sticky-announcement-bar: 1;"
+    },
+    {
+      "source": "https://paktbags.com/",
+      "selector": ":root",
+      "declarations": "--enable-sticky-header: 1;\n    --enable-transparent-header: 1;\n    --loading-bar-background: 0, 0, 0;"
+    },
+    {
+      "source": "https://paktbags.com/",
+      "selector": "#shopify-section-header",
+      "declarations": "--header-background: 255, 255, 255;\n    --header-text-color: 0, 0, 0;\n    --header-border-color: 217, 217, 217;\n    --reduce-header-padding: 1;position: -webkit-sticky;\n      position: sticky;top: calc(var(--enable-sticky-announcement-bar) * var(--announcement-bar-height, 0px));\n    z-index: 4;"
+    },
+    {
+      "source": "https://paktbags.com/",
+      "selector": ".js #shopify-section-header .header--transparent",
+      "declarations": "--header-background: transparent;\n      --header-text-color: 255, 255, 255;\n      --header-border-color: 255, 255, 255, 0.15;\n      --header-transparent-bubble-text-color: 0, 0, 0;"
+    },
+    {
+      "source": "https://paktbags.com/",
+      "selector": ".pg__card-body .pg__card-link",
+      "declarations": "display: inline-block;\n    font-size: 20px;\n    font-weight: 700;\n    color: #111111;\n    text-decoration: underline;\n    text-underline-offset: 4px;\n    text-decoration-thickness: 1.5px;\n    transition: opacity 0.2s ease;"
+    },
+    {
+      "source": "https://paktbags.com/",
+      "selector": ".hpd-brand__body",
+      "declarations": "font-size: 20px;\n    line-height: 26px;\n    color: rgba(255,255,255,0.75);\n    max-width: 560px;\n    margin: 0 auto 36px;"
+    },
+    {
+      "source": "https://paktbags.com/",
+      "selector": ".hpd-product__placeholder",
+      "declarations": "width: 100%;\n    height: 100%;\n    background: #e5e5e5;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    color: #999;\n    font-size: 12px;\n    text-transform: uppercase;\n    letter-spacing: 0.05em;"
+    },
+    {
+      "source": "https://paktbags.com/",
+      "selector": ".hpd-product__eyebrow",
+      "declarations": "display: block; font-size: 18px; font-weight: 600; letter-spacing: 0.15em; text-transform: uppercase; color: #666666; margin-bottom: 16px;"
+    },
+    {
+      "source": "https://paktbags.com/",
+      "selector": ".hpd-product__headline",
+      "declarations": "font-family: var(--font-heading-family, sans-serif); font-size: clamp(26px, 3vw, 40px); font-weight: 700; color: #111111; line-height: 1.15; margin: 0 0 20px;"
+    },
+    {
+      "source": "https://paktbags.com/",
+      "selector": ".hpd-product__body",
+      "declarations": "font-size: 20px; line-height: 26px; color: #666666; margin: 0 0 36px;"
+    },
+    {
+      "source": "https://paktbags.com/",
+      "selector": ".hpd-product__btn",
+      "declarations": "display: inline-block; padding: 14px 28px; font-size: 13px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; border: 2px solid #111111; background: #111111; color: #ffffff; cursor: pointer; transition: background 0.2s, color 0.2s;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Pakt | Professional-Grade Travel Gear.",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://paktbags.com/",
+        "https://paktbags.com/cdn/shop/t/191/assets/theme.min.css?v=137287321296197353221788877593",
+        "https://paktbags.com/cdn/shop/t/191/assets/custom.css?v=64092531221755112431788877565"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://paktbags.com/",
+        "https://paktbags.com/cdn/shop/t/191/assets/theme.min.css?v=137287321296197353221788877593",
+        "https://paktbags.com/cdn/shop/t/191/assets/custom.css?v=64092531221755112431788877565"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://paktbags.com/",
+        "https://paktbags.com/cdn/shop/t/191/assets/patrol-styles.css?v=121524721835165520761788877572",
+        "https://paktbags.com/cdn/shop/t/191/assets/theme.min.css?v=137287321296197353221788877593",
+        "https://paktbags.com/cdn/shop/t/191/assets/custom.css?v=64092531221755112431788877565"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://paktbags.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://paktbags.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://paktbags.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://paktbags.com/",
+        "https://paktbags.com/cdn/shop/t/191/assets/theme.min.css?v=137287321296197353221788877593"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://paktbags.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://paktbags.com/",
+        "https://paktbags.com/cdn/shop/t/191/assets/patrol-styles.css?v=121524721835165520761788877572",
+        "https://paktbags.com/cdn/shop/t/191/assets/theme.min.css?v=137287321296197353221788877593",
+        "https://paktbags.com/cdn/shop/t/191/assets/custom.css?v=64092531221755112431788877565"
+      ]
+    },
+    "colors.text-secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://paktbags.com/"
+      ]
+    },
+    "colors.text-tertiary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://paktbags.com/",
+        "https://paktbags.com/cdn/shop/t/191/assets/td-visible-discount.css?v=26343462322664554471788877591"
+      ]
+    },
+    "colors.border-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://paktbags.com/"
+      ]
+    },
+    "colors.disabled-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://paktbags.com/"
+      ]
+    },
+    "colors.disabled-text": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://paktbags.com/"
+      ]
+    },
+    "colors.accent-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://paktbags.com/cdn/shop/t/191/assets/theme.min.css?v=137287321296197353221788877593"
+      ]
+    },
+    "colors.accent-magenta": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://paktbags.com/cdn/shop/t/191/assets/custom.css?v=64092531221755112431788877565"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.capacity-toggle": {
+      "status": "inferred"
+    }
+  }
+}

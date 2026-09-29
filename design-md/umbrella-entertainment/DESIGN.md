@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Umbrella Entertainment
-description: A deep, cinephile-friendly storefront where the brand voltage comes from a distinctive teal (#108474) — not a generic retail blue but an earthy, almost medicinal green that signals curation over commodity. That teal anchors the primary CTA, the header background, and the checkout flow, while a sharp marigold accent (#fff302) and a warmer butter (#fbcd0a) provide the only two bright notes in an otherwise restrained palette of warm grays (#eeeeee, #dedede, #e9e9e9) and near-blacks (#1e1e1e, #121212). The typography runs Nunito Sans across headings and body, a rounded humanist sans-serif that keeps the site approachable despite the serious film-collector inventory. Product cards use soft corners (`{rounded.sm}`) and generous whitespace (`{spacing.lg}` between rows), while the search bar and primary buttons take a slightly tighter radius (`{rounded.xs}`) that reads as intentional rather than sharp. The footer collapses into a dense, link-heavy grid of columns — a deliberate choice for a catalog business where discoverability matters more than visual air. A faint lavender (#a89cc8) appears in badge and sale-flag contexts, an unexpected tertiary that nods to the brand's willingness to break its own rules for emphasis. The overall feel is that of a well-stocked independent video store translated into a single-page app: warm grays, teal shelving, yellow price tags, and the quiet confidence of a collection that doesn't need to shout.
+name: "Umbrella Entertainment"
+source_url: "https://shop.umbrellaent.com.au"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep, cinephile-friendly storefront where the brand voltage comes from a distinctive teal (#108474) — not a generic retail blue but an earthy, almost medicinal green that signals curation over commodity. That teal anchors the primary CTA, the header background, and the checkout flow, while a sharp marigold accent (#fff302) and a warmer butter (#fbcd0a) provide the only two bright notes in an otherwise restrained palette of warm grays (#eeeeee, #dedede, #e9e9e9) and near-blacks (#1e1e1e, #121212). The typography runs Nunito Sans across headings and body, a rounded humanist sans-serif that keeps the site approachable despite the serious film-collector inventory. Product cards use soft corners (`{rounded.sm}`) and generous whitespace (`{spacing.lg}` between rows), while the search bar and primary buttons take a slightly tighter radius (`{rounded.xs}`) that reads as intentional rather than sharp. The footer collapses into a dense, link-heavy grid of columns — a deliberate choice for a catalog business where discoverability matters more than visual air. A faint lavender (#a89cc8) appears in badge and sale-flag contexts, an unexpected tertiary that nods to the brand's willingness to break its own rules for emphasis. The overall feel is that of a well-stocked independent video store translated into a single-page app: warm grays, teal shelving, yellow price tags, and the quiet confidence of a collection that doesn't need to shout.
 
 colors:
   primary: "#108474"
@@ -428,6 +432,8 @@ components:
 - **Hero banner**: Full-width with large text on desktop → reduced text size and optional image removal on mobile to save vertical space.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states**: Only `button-primary`, `button-secondary`, `button-accent-yellow`, `product-card`, `footer-link`, `breadcrumb-link`, and `social-icon` have documented hover states. Other interactive elements (filter chips, pagination, nav links) may have hover behaviors that couldn't be reliably extracted from the live site.
 - **Error styling**: Only `text-input-error` is documented. Form-level error messages, validation summaries, and toast notifications were not observed.

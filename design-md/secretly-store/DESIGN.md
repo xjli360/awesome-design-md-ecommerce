@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Secretly Store
-description: A record label’s storefront that treats its catalog like a library of artifacts, not a discount bin. The palette is anchored on a near-black ink (#1e1e1e) and a warm off-white canvas (#f5f5f5), with a single high-voltage accent in signal red (#ea3927) that appears only on the primary CTA, sale badges, and the cart count — never decorative. A secondary accent in marigold (#f39b1e) surfaces on pre-order badges and limited-edition flags, giving the shop a collector’s-market feel rather than a clearance-aisle one. Type runs Jost at display sizes and Karla for body text, both geometric sans-serifs with humanist warmth; the contrast between Jost’s tight letter-spacing at 26px display and Karla’s open 16px body creates a reading rhythm that feels editorial, not transactional. Product cards use a soft 8px radius ({rounded.sm}) and a 1px hairline (#dedede) that lets the album art — often vivid, textured, or photographic — carry the visual weight. The top nav is a full-width bar at 48px height, with a search icon that expands into a text field, preserving the clean grid until the user needs it. There is no hero carousel, no auto-playing video; the brand trusts its inventory photography and a single marquee row of featured releases. The footer collapses into a dense, monochrome block of links and social icons, signaling that the store is a utility, not a destination. Every interaction — hover states on buttons, underline on nav links, badge color shifts — is subtle, never animated for its own sake. The design system reads as a quiet, confident container for music discovery, where the product is the star and the interface steps back.
+name: "Secretly Store"
+source_url: "https://www.secretlystore.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A record label’s storefront that treats its catalog like a library of artifacts, not a discount bin. The palette is anchored on a near-black ink (#1e1e1e) and a warm off-white canvas (#f5f5f5), with a single high-voltage accent in signal red (#ea3927) that appears only on the primary CTA, sale badges, and the cart count — never decorative. A secondary accent in marigold (#f39b1e) surfaces on pre-order badges and limited-edition flags, giving the shop a collector’s-market feel rather than a clearance-aisle one. Type runs Jost at display sizes and Karla for body text, both geometric sans-serifs with humanist warmth; the contrast between Jost’s tight letter-spacing at 26px display and Karla’s open 16px body creates a reading rhythm that feels editorial, not transactional. Product cards use a soft 8px radius ({rounded.sm}) and a 1px hairline (#dedede) that lets the album art — often vivid, textured, or photographic — carry the visual weight. The top nav is a full-width bar at 48px height, with a search icon that expands into a text field, preserving the clean grid until the user needs it. There is no hero carousel, no auto-playing video; the brand trusts its inventory photography and a single marquee row of featured releases. The footer collapses into a dense, monochrome block of links and social icons, signaling that the store is a utility, not a destination. Every interaction — hover states on buttons, underline on nav links, badge color shifts — is subtle, never animated for its own sake. The design system reads as a quiet, confident container for music discovery, where the product is the star and the interface steps back.
 
 colors:
   primary: "#ea3927"
@@ -505,6 +509,8 @@ components:
 - Breadcrumbs truncate to show only the current page and a "Back" link at mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for product card images (e.g., zoom, color shift) could not be reliably extracted from the live site.
 - Error styling for form validation (error messages, error icon placement) was not visible in the extracted data.

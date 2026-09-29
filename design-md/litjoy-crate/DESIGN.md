@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: LitJoy Crate
-description: A bookish world built on parchment warmth — #e2d2b3, the brand's foundational canvas tone, reads like aged paper stock rather than sterile white, immediately signaling this is a subscription service for readers who treat books as objects of beauty. Deep navy ink (#233746) carries body copy and headlines, while a forest-green accent (#2f4d47) appears on badges, borders, and secondary CTAs as a quiet counterpoint to the expected book-club burgundy or gold. The extracted palette is unusually rich — over thirty distinct hex values — suggesting a brand that layers decorative swatches, limited-edition box colors, and seasonal accents rather than enforcing a tight system. Typography splits between Poppins (likely for display and buttons — clean, geometric, slightly playful) and Nunito (rounder, warmer, used for body and captions), with BrandonGro appearing in headlines and JustCosmic reserved for whimsical decorative moments. Buttons carry {rounded.sm} corners and a generous 48px height, while product cards use {rounded.md} and a soft drop shadow that lifts the box art off the page. The overall feel is that of a cozy, curated library — not minimalist, not maximalist, but deliberately layered: gold foil (#c69214) on limited-edition stamps, sage (#7c918d) on subscription tier cards, and a warm off-white (#f3ede1) for secondary surfaces. Every element seems designed to make the subscriber feel they've received something hand-assembled, not mass-produced.
+name: "LitJoy Crate"
+source_url: "https://litjoycrate.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A bookish world built on parchment warmth — #e2d2b3, the brand's foundational canvas tone, reads like aged paper stock rather than sterile white, immediately signaling this is a subscription service for readers who treat books as objects of beauty. Deep navy ink (#233746) carries body copy and headlines, while a forest-green accent (#2f4d47) appears on badges, borders, and secondary CTAs as a quiet counterpoint to the expected book-club burgundy or gold. The extracted palette is unusually rich — over thirty distinct hex values — suggesting a brand that layers decorative swatches, limited-edition box colors, and seasonal accents rather than enforcing a tight system. Typography splits between Poppins (likely for display and buttons — clean, geometric, slightly playful) and Nunito (rounder, warmer, used for body and captions), with BrandonGro appearing in headlines and JustCosmic reserved for whimsical decorative moments. Buttons carry {rounded.sm} corners and a generous 48px height, while product cards use {rounded.md} and a soft drop shadow that lifts the box art off the page. The overall feel is that of a cozy, curated library — not minimalist, not maximalist, but deliberately layered: gold foil (#c69214) on limited-edition stamps, sage (#7c918d) on subscription tier cards, and a warm off-white (#f3ede1) for secondary surfaces. Every element seems designed to make the subscriber feel they've received something hand-assembled, not mass-produced.
 
 colors:
   primary: "#2f4d47"
@@ -382,6 +386,8 @@ components:
 - Hero section reduces from two-column (text + image) to stacked single-column on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for many components could not be reliably extracted from the live site; the tokens above represent best guesses based on common patterns
 - Error states for forms (validation messages, error icons) were not observed on the homepage

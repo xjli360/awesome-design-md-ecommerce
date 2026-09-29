@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Edge of Ember
-description: |
+name: "Edge of Ember"
+source_url: "https://www.edgeofember.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Ember glow belongs to the gold accents — the muted #c9c26b of aged vermeil and the searing #fbcd0a of polished gold-fill campaign ribbons — but the brand's commanding voltage is a deep teal (#108474) that runs every primary CTA, active filter state, and sustainability icon. For a fine jewelry label living on delicate 14k pieces and recycled silver, that choice is a declaration: Edge of Ember leads with ethics before it leads with luxury. The canvas holds near-white (#f9f9f9, #fafafa) with editorial economy; dark charcoal (#252525) handles body copy while warm near-black #282622 — a brown-tinged shadow rather than pure ink — grounds the footer and dark hero overlays. Deep forest greens (#0b331f, #163120) surface in collection banners and section fills, giving the brand a verdant botanical register beneath its clean Shopify scaffold.
 
   Typography divides along a precise axis. Albra, a contemporary serif with humanist terminals and generous thick-to-thin contrast, carries the editorial display register — campaign headlines, collection category titles, hero sublines — at sizes from 28 to 48px with slightly tight tracking that suits its narrow shoulders. Lausanne, a Swiss grotesque with even color and wide language support, handles every UI surface: navigation, product metadata, filter labels, body copy — at weights 300 to 500. The pairing enacts the brand name's duality: Albra is the ember warmth, Lausanne the edge precision. Nunito Sans appears within Judge.me review blocks and as a system fallback, its roundness reading as deliberately customer-facing against the stiffer brand stack.
@@ -420,6 +423,8 @@ components:
 - Collection banners: side-by-side → stacked at mobile with reduced min-height (240px)
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact Albra font weight options not confirmed from CSS extraction — weight 400 assumed as primary display weight; italic or medium variants unknown
 - Script-Single font usage context not identified — likely the logo wordmark or a handwritten signature element on packaging pages; no component mapped

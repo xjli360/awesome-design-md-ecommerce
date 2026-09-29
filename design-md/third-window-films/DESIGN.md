@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Third Window Films
-description: A deep blue #003388 anchors Third Window Films like a cinema screen before the projector starts — that same cobalt runs through the header, primary buttons, and footer, while a sharp green #22b339 cuts in as the accent for add-to-cart actions and sale badges, a pairing that feels more like a repertory cinema poster than a standard ecommerce palette. The site reads like a physical shelf of Japanese and Asian film releases: Georgia serves the body text with a bookish, slightly serifed warmth, while Open Sans handles navigation and buttons with clean utility. Product listings stack in a dense, text-forward grid — no hero carousels, no lifestyle photography — just covers, titles, and prices, trusting the film art to do the selling. The canvas is a soft off-white #f8f8f8, with cards lifted on #ffffff and hairline separators in #c4c4c4, creating a quiet, library-like hierarchy. Buttons use a modest {rounded.sm} radius — nothing pill-shaped, nothing playful — and the search bar sits as a simple text input with a blue border, not an orb. The overall effect is that of a specialist label's storefront: serious, browsable, built for people who already know what they're looking for.
+name: "Third Window Films"
+source_url: "https://thirdwindowfilms.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep blue #003388 anchors Third Window Films like a cinema screen before the projector starts — that same cobalt runs through the header, primary buttons, and footer, while a sharp green #22b339 cuts in as the accent for add-to-cart actions and sale badges, a pairing that feels more like a repertory cinema poster than a standard ecommerce palette. The site reads like a physical shelf of Japanese and Asian film releases: Georgia serves the body text with a bookish, slightly serifed warmth, while Open Sans handles navigation and buttons with clean utility. Product listings stack in a dense, text-forward grid — no hero carousels, no lifestyle photography — just covers, titles, and prices, trusting the film art to do the selling. The canvas is a soft off-white #f8f8f8, with cards lifted on #ffffff and hairline separators in #c4c4c4, creating a quiet, library-like hierarchy. Buttons use a modest {rounded.sm} radius — nothing pill-shaped, nothing playful — and the search bar sits as a simple text input with a blue border, not an orb. The overall effect is that of a specialist label's storefront: serious, browsable, built for people who already know what they're looking for.
 
 colors:
   primary: "#003388"
@@ -272,6 +276,8 @@ components:
 - Breadcrumbs: hidden on mobile, shown on tablet and above
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Extracted hex colors are dominated by blues and grays — the list may include Shopify defaults and social icon colors. The true brand primary (#003388) and accent (#22b339) were selected as the most distinctive colors from the extracted set, but the palette may be incomplete.
 - Only two font families were extracted (Georgia, Open Sans) — heading weights and sizes are inferred from common patterns, not verified against the live site's CSS.

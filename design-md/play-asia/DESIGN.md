@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Play-Asia
-description: A dense, high-signal import marketplace that packs a global toy, game, and collectibles catalog into a single #313131 monochrome spine — the only extracted hex from the live site, and it tells the whole story. Play-Asia does not rely on a signature brand color; instead it leans on a vast grid of product thumbnails, each a tiny saturated rectangle of Japanese packaging, limited-edition steelbooks, and anime figures, to provide all the visual energy. The interface is a functional container: white canvas, gray hairline borders, and a system-font stack that loads instantly without a single custom typeface request. Navigation is a horizontal strip of category links (PS5, Nintendo Switch, Anime, Figures, Pre-orders) that scrolls left-right on mobile, each link a simple text label with no icon or badge — the brand trusts its taxonomy over decoration. Product cards are compact: a 200x200 thumbnail, a two-line title in 14px system bold, a price in 16px, and a small "Add to Cart" button in the primary gray. The search bar is a full-width rectangle with a magnifying-glass icon and placeholder text, not a pill — Play-Asia is about speed and specificity, not hospitality. The footer is a dense wall of links organized into columns (Help, Company, Payment, Community), each link in 12px gray, with payment icons (Visa, Mastercard, PayPal, Alipay) and a "We ship worldwide" confidence line. The overall mood is utilitarian but trustworthy — a no-nonsense storefront for a passionate niche audience that already knows what it wants.
+name: "Play-Asia"
+source_url: "https://www.play-asia.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A dense, high-signal import marketplace that packs a global toy, game, and collectibles catalog into a single #313131 monochrome spine — the only extracted hex from the live site, and it tells the whole story. Play-Asia does not rely on a signature brand color; instead it leans on a vast grid of product thumbnails, each a tiny saturated rectangle of Japanese packaging, limited-edition steelbooks, and anime figures, to provide all the visual energy. The interface is a functional container: white canvas, gray hairline borders, and a system-font stack that loads instantly without a single custom typeface request. Navigation is a horizontal strip of category links (PS5, Nintendo Switch, Anime, Figures, Pre-orders) that scrolls left-right on mobile, each link a simple text label with no icon or badge — the brand trusts its taxonomy over decoration. Product cards are compact: a 200x200 thumbnail, a two-line title in 14px system bold, a price in 16px, and a small "Add to Cart" button in the primary gray. The search bar is a full-width rectangle with a magnifying-glass icon and placeholder text, not a pill — Play-Asia is about speed and specificity, not hospitality. The footer is a dense wall of links organized into columns (Help, Company, Payment, Community), each link in 12px gray, with payment icons (Visa, Mastercard, PayPal, Alipay) and a "We ship worldwide" confidence line. The overall mood is utilitarian but trustworthy — a no-nonsense storefront for a passionate niche audience that already knows what it wants.
 
 colors:
   primary: "#313131"
@@ -265,6 +269,8 @@ components:
 - The nav-bar does not collapse into a hamburger menu; instead, it scrolls horizontally on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one hex color (`#313131`) was extracted from the live site. This is likely the primary text/button color, but the full palette (including any brand accent colors, hover states, error/success colors, and link colors) could not be reliably extracted. The colors above are best guesses based on common e-commerce patterns and the extracted gray.
 - No custom font-family was found; the site uses the system font stack. Typography sizes and weights are inferred from common e-commerce patterns and may not match the exact live site.

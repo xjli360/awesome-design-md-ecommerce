@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: ScreenShield
-description: A protective-tech brand that wraps its products in a stark red-and-charcoal language — #ff0000 is the single voltage that marks every "Add to Cart" button, sale badge, and category highlight, set against a field of near-blacks (#1a1a1a, #222222, #252525, #2e2e2e, #303030) and cool grays (#e1e3e4, #d4d6d8, #8a8a8a, #677279). The palette reads like a tool kit: the red is urgent and precise, not warm; the grays are industrial, not soft. Montserrat runs at medium weights across headings and body, with Open Sans as a secondary for dense product specs and legal copy — both sans-serifs that lean technical rather than friendly. Cards and buttons use tight radii (`{rounded.sm}` at 8px, `{rounded.md}` at 12px) that feel machined, not pillowy — there is no `{rounded.full}` anywhere in the primary UI. The checkout flow introduces a secondary green (#11ae66, #00aa00, #008a00) for success states and "In Stock" badges, and a lighter red (#ee0000) for hover states on the primary action. Shopify's platform DNA shows in the `{rounded.sm}` text inputs and the `{spacing.base}`–`{spacing.lg}` grid gutters, but the brand overrides the default blue with its own red, green, and a slate-blue (#3d8cf4) that appears only in footer links and legal text. The overall impression is of a precision-instrument storefront — every edge accounted for, every color carrying a job.
+name: "ScreenShield"
+source_url: "https://www.screenshield.us"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A protective-tech brand that wraps its products in a stark red-and-charcoal language — #ff0000 is the single voltage that marks every "Add to Cart" button, sale badge, and category highlight, set against a field of near-blacks (#1a1a1a, #222222, #252525, #2e2e2e, #303030) and cool grays (#e1e3e4, #d4d6d8, #8a8a8a, #677279). The palette reads like a tool kit: the red is urgent and precise, not warm; the grays are industrial, not soft. Montserrat runs at medium weights across headings and body, with Open Sans as a secondary for dense product specs and legal copy — both sans-serifs that lean technical rather than friendly. Cards and buttons use tight radii (`{rounded.sm}` at 8px, `{rounded.md}` at 12px) that feel machined, not pillowy — there is no `{rounded.full}` anywhere in the primary UI. The checkout flow introduces a secondary green (#11ae66, #00aa00, #008a00) for success states and "In Stock" badges, and a lighter red (#ee0000) for hover states on the primary action. Shopify's platform DNA shows in the `{rounded.sm}` text inputs and the `{spacing.base}`–`{spacing.lg}` grid gutters, but the brand overrides the default blue with its own red, green, and a slate-blue (#3d8cf4) that appears only in footer links and legal text. The overall impression is of a precision-instrument storefront — every edge accounted for, every color carrying a job.
 
 colors:
   primary: "#ff0000"
@@ -573,6 +577,8 @@ components:
 - Search bar transforms from inline input to full-screen overlay on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components are inferred from the extracted color palette and common patterns; actual hover transitions (duration, easing) were not extractable
 - Error and validation styling (error messages, success messages, inline validation) is based on the extracted error/success colors but exact implementations (iconography, positioning) are unknown

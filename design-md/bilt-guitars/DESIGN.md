@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Bilt Guitars
-description: Every instrument at Bilt begins as a blank configuration — the site is structured around a spec-builder, not a fixed catalog, which means the UI must simultaneously hold the intimacy of a lutherie conversation and the precision of a parts manifest. The canvas is near-black, running from #110c1d at the deepest hero moments to #1a1230 in panel backgrounds, a darkness that evokes the velvet interior of a hard-shell case rather than a generic dark-mode treatment. Against this field, the brand's primary action color is a deep navy #003388 — a restrained choice that carries every call-to-action ("Start Building," "Add to Cart," spec confirmation) while resisting the excitability of the brighter colors elsewhere in the extracted palette.
+name: "Bilt Guitars"
+source_url: "https://www.biltguitars.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Every instrument at Bilt begins as a blank configuration — the site is structured around a spec-builder, not a fixed catalog, which means the UI must simultaneously hold the intimacy of a lutherie conversation and the precision of a parts manifest. The canvas is near-black, running from #110c1d at the deepest hero moments to #1a1230 in panel backgrounds, a darkness that evokes the velvet interior of a hard-shell case rather than a generic dark-mode treatment. Against this field, the brand's primary action color is a deep navy #003388 — a restrained choice that carries every call-to-action ("Start Building," "Add to Cart," spec confirmation) while resisting the excitability of the brighter colors elsewhere in the extracted palette.
 
   The accent system runs two deliberate temperatures. Warm amber (#a88548) marks wood-selection callouts and material labels, mapping visually to the maple tops and mahogany backs photographed in product previews — a color that smells like a workshop. Electric green (#00d084) is reserved exclusively for selection-confirmed state inside the configurator: option swatches glow with a faint rgba wash and a 2px border in that color at `{rounded.xs}`, making the "you chose this" signal unmissable even on near-black surfaces where standard focus rings disappear. The pairing of these two accent temperatures against the dark canvas creates a visual language closer to workshop instrumentation than to a retail storefront.
 
@@ -350,6 +354,8 @@ components:
 - Nav bar height stays fixed at 64px across all breakpoints; the CTA button collapses to an icon-only state at mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Violet (#7a00df, #ab1dfe) and cyan (#34e2e4, #31cdcf) in the extracted palette are likely WordPress Gutenberg block-editor color presets, not brand-owned UI tokens; their actual role in brand UI could not be confirmed
 - The canvas background color was not extracted from the live site; #ffffff is assumed for light-mode page sections based on typical WordPress/Gutenberg templates

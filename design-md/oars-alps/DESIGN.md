@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Oars + Alps
-description: A rugged-yet-refined men's grooming brand that speaks in the elemental language of the outdoors — deep navy-blues like `#025776` and `#012b3a` anchor the system, while a single high-voltage coral `#d02e2e` (our `{colors.primary}`) ignites every call-to-action, badge, and accent. The palette is unapologetically masculine and grounded: a near-black `#1f2021` serves as the `{colors.ink}` for body copy, set against a warm off-white canvas `#f6f6f6` that softens the digital experience into something tactile, like well-worn canvas. A secondary teal `#69ced7` and a fresh green `#56ad6a` appear in product badges and sustainability cues, hinting at the brand's active, outdoor ethos. Typography leans on the proprietary Fabriga family — a geometric sans-serif with subtle humanist warmth — set at moderate weights (400–600) that never shout; the brand trusts its product photography and generous whitespace over typographic muscle. Signature design moves include pill-shaped buttons (`{rounded.full}`) that feel ready for the trail, softly rounded product cards (`{rounded.md}` at 12px), and a persistent top nav with a transparent-to-solid scroll transition that mirrors the brand's own adaptability — from trailhead to town. The entire system reads as honest, durable, and unpretentious: a grooming brand that doesn't smell like a nightclub, but like cedar, sea salt, and clean air.
+name: "Oars + Alps"
+source_url: "https://www.oarsandalps.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A rugged-yet-refined men's grooming brand that speaks in the elemental language of the outdoors — deep navy-blues like `#025776` and `#012b3a` anchor the system, while a single high-voltage coral `#d02e2e` (our `{colors.primary}`) ignites every call-to-action, badge, and accent. The palette is unapologetically masculine and grounded: a near-black `#1f2021` serves as the `{colors.ink}` for body copy, set against a warm off-white canvas `#f6f6f6` that softens the digital experience into something tactile, like well-worn canvas. A secondary teal `#69ced7` and a fresh green `#56ad6a` appear in product badges and sustainability cues, hinting at the brand's active, outdoor ethos. Typography leans on the proprietary Fabriga family — a geometric sans-serif with subtle humanist warmth — set at moderate weights (400–600) that never shout; the brand trusts its product photography and generous whitespace over typographic muscle. Signature design moves include pill-shaped buttons (`{rounded.full}`) that feel ready for the trail, softly rounded product cards (`{rounded.md}` at 12px), and a persistent top nav with a transparent-to-solid scroll transition that mirrors the brand's own adaptability — from trailhead to town. The entire system reads as honest, durable, and unpretentious: a grooming brand that doesn't smell like a nightclub, but like cedar, sea salt, and clean air.
 
 colors:
   primary: "#d02e2e"
@@ -412,6 +416,8 @@ components:
 - Multi-step checkout collapses to single-page scroll on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for most components (button-secondary, nav-links, product-card) are inferred from common patterns but not verified from live site inspection
 - Error states for form inputs (validation styling, error message placement) not extracted

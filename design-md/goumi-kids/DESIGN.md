@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Goumi Kids
-description: A baby-clothing brand that turns the nursery-warmth of #eae0d2 into a full digital ecosystem — the color reads like unbleached muslin, like the inside of a well-loved swaddle, and it appears everywhere from the site background to product-card fills to the footer canvas. Against this soft, sandy base, #c4936f (a warm caramel) and #d43747 (a restrained berry-red) provide the only real color voltage: the red appears on sale badges, add-to-cart buttons, and the tiny hearts that mark wishlist items, while the caramel surfaces in secondary CTAs, size-selector borders, and the horizontal rules that separate product details. Montserrat runs across the entire site at moderate weights — display headlines sit at 500/600 rather than heavy 700+, trusting the generous spacing and the product photography (babies in convertible gowns, mitts that actually stay on) to carry emotional weight rather than typographic muscle. The navigation is unusually sparse for a Shopify store: a single row with logo-left, a compact cart icon, and a hamburger that reveals a full-width overlay menu — no mega-nav, no category dropdowns. Product cards use soft, even radii ({rounded.md}) and the add-to-cart button is a full-width pill ({rounded.full}) in the berry-red, creating a single clear action per product page. The checkout flow inherits Shopify's default button styling, but the brand's own interface maintains a consistent warmth through the #eae6df surface and #dac8af hairline — the whole site feels like a nursery that happens to sell things, not a store that happens to be soft.
+name: "Goumi Kids"
+source_url: "https://goumikids.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A baby-clothing brand that turns the nursery-warmth of #eae0d2 into a full digital ecosystem — the color reads like unbleached muslin, like the inside of a well-loved swaddle, and it appears everywhere from the site background to product-card fills to the footer canvas. Against this soft, sandy base, #c4936f (a warm caramel) and #d43747 (a restrained berry-red) provide the only real color voltage: the red appears on sale badges, add-to-cart buttons, and the tiny hearts that mark wishlist items, while the caramel surfaces in secondary CTAs, size-selector borders, and the horizontal rules that separate product details. Montserrat runs across the entire site at moderate weights — display headlines sit at 500/600 rather than heavy 700+, trusting the generous spacing and the product photography (babies in convertible gowns, mitts that actually stay on) to carry emotional weight rather than typographic muscle. The navigation is unusually sparse for a Shopify store: a single row with logo-left, a compact cart icon, and a hamburger that reveals a full-width overlay menu — no mega-nav, no category dropdowns. Product cards use soft, even radii ({rounded.md}) and the add-to-cart button is a full-width pill ({rounded.full}) in the berry-red, creating a single clear action per product page. The checkout flow inherits Shopify's default button styling, but the brand's own interface maintains a consistent warmth through the #eae6df surface and #dac8af hairline — the whole site feels like a nursery that happens to sell things, not a store that happens to be soft.
 
 colors:
   primary: "#d43747"
@@ -416,6 +420,8 @@ components:
 - Cart summary collapses from side-by-side (items + totals) to stacked on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted hex list is long (27 colors) but heavily weighted toward grays and neutrals — the brand's true primary (#d43747, berry-red) and secondary (#c4936f, caramel) were identified as the most distinctive non-gray colors. The remaining grays (#e6e6e6, #b3b3b3, #dedede, #cdcdcd, #9a9a9a, #808080, #d3d3d3, #f2f2f2, #1a1a1a, #121212) were mapped to utility tokens (hairline-soft, muted-soft, etc.) but their exact roles on the live site couldn't be verified.
 - Hover states for buttons and links were inferred from common patterns — the extracted data didn't include :hover CSS.

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Kumi Contemporary
-description: EB Garamond at display sizes runs against expectations here — a sixteenth-century European serif deployed as the primary editorial voice for Japanese pop art and contemporary screenprint, producing a productive friction that the site wears without apology. The interactive layer belongs to a blue family that feels calibrated rather than chosen: #4885cd anchors links and primary CTAs, deepening to #1e4cbb under active pressure and stepping up toward #5996ca and #5a91d2 for softer hover states. This blue is not an accent sitting atop a neutral canvas — it is the site's primary visual temperature, cooling the warm near-white ground (#f7f7f6, #fdfdfd) that reads closer to aged vellum than clinical exhibition white. Red enters with clear intent: #ce0a0a marks pricing and sale conditions, escalating through #d74242 to #ff5858 when urgency calls, a convention borrowed from auction-house culture and applied to a measured gallery context. Lato carries navigation and body copy at unhurried weights, functioning as a neutral infrastructure that refuses to compete with photography. Warm earth tones — #d1b38d (tea-stained paper) and #de6d1a (iron-red ink) — appear as supplementary accents alongside a quiet olive at #888929, material echoes rather than decorative choices. Cards breathe inside a surface-card of #eeeeee; hairlines hold at #e0e0e0. Corners are minimally rounded, inputs and small buttons taking {rounded.xs}, the design deliberately avoiding the pill shapes that read as SaaS rather than gallery. The dark foundation — #111111 for type, #121212 for footer field — grounds without going full void.
+name: "Kumi Contemporary"
+source_url: "https://www.kumicontemporary.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  EB Garamond at display sizes runs against expectations here — a sixteenth-century European serif deployed as the primary editorial voice for Japanese pop art and contemporary screenprint, producing a productive friction that the site wears without apology. The interactive layer belongs to a blue family that feels calibrated rather than chosen: #4885cd anchors links and primary CTAs, deepening to #1e4cbb under active pressure and stepping up toward #5996ca and #5a91d2 for softer hover states. This blue is not an accent sitting atop a neutral canvas — it is the site's primary visual temperature, cooling the warm near-white ground (#f7f7f6, #fdfdfd) that reads closer to aged vellum than clinical exhibition white. Red enters with clear intent: #ce0a0a marks pricing and sale conditions, escalating through #d74242 to #ff5858 when urgency calls, a convention borrowed from auction-house culture and applied to a measured gallery context. Lato carries navigation and body copy at unhurried weights, functioning as a neutral infrastructure that refuses to compete with photography. Warm earth tones — #d1b38d (tea-stained paper) and #de6d1a (iron-red ink) — appear as supplementary accents alongside a quiet olive at #888929, material echoes rather than decorative choices. Cards breathe inside a surface-card of #eeeeee; hairlines hold at #e0e0e0. Corners are minimally rounded, inputs and small buttons taking {rounded.xs}, the design deliberately avoiding the pill shapes that read as SaaS rather than gallery. The dark foundation — #111111 for type, #121212 for footer field — grounds without going full void.
 
 colors:
   primary: "#4885cd"
@@ -356,6 +360,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - `Conv_AvenirLTStd-Book` is a converted private font file; additional weight and italic cuts not confirmed — Lato used as functional fallback throughout
 - Exact button height for primary CTA on artwork detail pages not confirmed from extraction; 40px assumed from observed gallery UI conventions

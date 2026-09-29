@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Autonomous
-description: A black-and-blue industrial precision that frames itself as "The AI Hardware Company" — #111111 ink against #f2f2f2 canvas, with #1965e0 as the single electric accent that pulls every CTA, badge, and interactive edge into focus. The palette is deliberately restrained: #555555 muted for secondary text, #171717 for near-black surfaces, and a sharp #c10015 red that appears only in sale badges or error states, never competing with the primary blue. No rounded corners above {rounded.sm} — buttons, cards, and inputs sit at 8px or 4px, giving the interface a machined, tool-like feel that matches the motorized standing desks and ergonomic chairs the brand sells. The typography runs a clean sans-serif stack at moderate weights (500–600 for display, 400 for body), with no decorative flourishes; the brand trusts its product photography and spec tables to carry the story. Navigation is a fixed top bar with a bold logo lockup, dropdown menus for product categories, and a cart icon that stays pinned to the right — utility over discovery. The checkout flow, powered by Shopify, inherits the same blue primary but introduces Klarna and Afterpay badge colors that sit outside the brand palette. Every interaction — hover underlines on nav links, blue border on focused inputs, subtle shadow on product cards — reinforces the message: this is hardware, engineered, and ready to ship.
+name: "Autonomous"
+source_url: "https://www.autonomous.ai"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A black-and-blue industrial precision that frames itself as "The AI Hardware Company" — #111111 ink against #f2f2f2 canvas, with #1965e0 as the single electric accent that pulls every CTA, badge, and interactive edge into focus. The palette is deliberately restrained: #555555 muted for secondary text, #171717 for near-black surfaces, and a sharp #c10015 red that appears only in sale badges or error states, never competing with the primary blue. No rounded corners above {rounded.sm} — buttons, cards, and inputs sit at 8px or 4px, giving the interface a machined, tool-like feel that matches the motorized standing desks and ergonomic chairs the brand sells. The typography runs a clean sans-serif stack at moderate weights (500–600 for display, 400 for body), with no decorative flourishes; the brand trusts its product photography and spec tables to carry the story. Navigation is a fixed top bar with a bold logo lockup, dropdown menus for product categories, and a cart icon that stays pinned to the right — utility over discovery. The checkout flow, powered by Shopify, inherits the same blue primary but introduces Klarna and Afterpay badge colors that sit outside the brand palette. Every interaction — hover underlines on nav links, blue border on focused inputs, subtle shadow on product cards — reinforces the message: this is hardware, engineered, and ready to ship.
 
 colors:
   primary: "#1965e0"
@@ -333,6 +337,8 @@ components:
 - Search bar collapses to icon-only on mobile, expanding to full input on tap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No font-family declarations were extractable from the live site; the typography block uses a common sans-serif stack (Inter, system fonts) as a reasonable default — actual brand font may differ
 - Hover and focus states for most components were inferred from common patterns, not extracted from live CSS

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Bala
-description: A fitness brand that looks like it belongs in a design studio rather than a gym, Bala wraps its weight system in a palette anchored on near-black (#262626) and a soft, almost dusty pink (#feb7bb) that reads as blush rather than neon. The brand's signature move is the Bangle — a wearable ankle/wrist weight cast in a continuous oval form, available in finishes that include the muted rose of #feb7bb, a pale sage (#abaf8f), and a warm terracotta (#dfb8a7), all set against a canvas of #f4f4f6 and #f7f7f8. The extracted hex list reveals a brand that lives in the neutral zone — #878787, #e5e5e5, #dedede, #b0b0b0 — with the occasional jolt of marigold (#ffcf2a) or deeper slate (#272d45, #676986) used for accent and contrast. Typography runs on Chalet, a geometric sans-serif with a distinct 1970s Swiss-modern feel, and Diatype, a contemporary grotesk, giving the system a dual personality: one part retro-fitness nostalgia, one part clean editorial. Buttons and cards carry soft corners ({rounded.sm} at 8px, {rounded.md} at 12px), never fully pill-shaped, preserving a subtle angularity that echoes the cast-metal heft of the products themselves. The site's Shopify backbone means checkout widgets introduce Afterpay and Klarna colors (#2c3e50, #43494a) that don't belong to the brand but appear in the extracted palette — the true Bala signature is the interplay of #262626, #feb7bb, and the warm greys of #dbdde4 and #e5e5eb.
+name: "Bala"
+source_url: "https://shopbala.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A fitness brand that looks like it belongs in a design studio rather than a gym, Bala wraps its weight system in a palette anchored on near-black (#262626) and a soft, almost dusty pink (#feb7bb) that reads as blush rather than neon. The brand's signature move is the Bangle — a wearable ankle/wrist weight cast in a continuous oval form, available in finishes that include the muted rose of #feb7bb, a pale sage (#abaf8f), and a warm terracotta (#dfb8a7), all set against a canvas of #f4f4f6 and #f7f7f8. The extracted hex list reveals a brand that lives in the neutral zone — #878787, #e5e5e5, #dedede, #b0b0b0 — with the occasional jolt of marigold (#ffcf2a) or deeper slate (#272d45, #676986) used for accent and contrast. Typography runs on Chalet, a geometric sans-serif with a distinct 1970s Swiss-modern feel, and Diatype, a contemporary grotesk, giving the system a dual personality: one part retro-fitness nostalgia, one part clean editorial. Buttons and cards carry soft corners ({rounded.sm} at 8px, {rounded.md} at 12px), never fully pill-shaped, preserving a subtle angularity that echoes the cast-metal heft of the products themselves. The site's Shopify backbone means checkout widgets introduce Afterpay and Klarna colors (#2c3e50, #43494a) that don't belong to the brand but appear in the extracted palette — the true Bala signature is the interplay of #262626, #feb7bb, and the warm greys of #dbdde4 and #e5e5eb.
 
 colors:
   primary: "#262626"
@@ -412,6 +416,8 @@ components:
 - Accordion sections are collapsed by default on all breakpoints, expanding on click.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states** for buttons and links are inferred from the brand's color system but not extracted from live CSS. The active states for `button-primary` and `button-secondary` are best guesses based on darkening the primary color.
 - **Error styling** for forms (error text color, error border, error message typography) is not extracted. The `text-input-error` component uses {colors.accent-terracotta} as a reasonable assumption, but the brand may use a different error color.

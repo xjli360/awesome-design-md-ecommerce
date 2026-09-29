@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Renoun Skis
-description: A brand built on the tension between deep alpine blue (#272d45) and a single, unapologetic accent of marigold (#ffc032) — the kind of high-voltage yellow that reads as both caution tape and sunrise on a powder day. The palette is otherwise restrained: slate (#676986) for body text, a near-white canvas (#f4f4f6) that feels colder and more technical than a pure white, and a teal (#0e7a82) that surfaces in product details and secondary badges, suggesting the cool of snowmelt. DM Sans runs the typography, a geometric sans-serif with enough warmth to keep the brand from feeling like a ski-patrol manual. Buttons are pill-shaped (`{rounded.full}`), a deliberate choice that softens the angularity of ski equipment and mountain geometry. The nav bar sits at a compact 64px, and product cards use a generous `{rounded.lg}` (20px) — the brand trusts photography of skis in motion over decorative flourishes. The marigold accent is never used as a background fill; it appears only as a highlight on dark surfaces — a CTA text color, a badge dot, a loading indicator — always a signal, never a wash. The overall mood is confident, alpine, and slightly muted: a brand that knows its product is the hero and the interface is just the lift line.
+name: "Renoun Skis"
+source_url: "https://renoun.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A brand built on the tension between deep alpine blue (#272d45) and a single, unapologetic accent of marigold (#ffc032) — the kind of high-voltage yellow that reads as both caution tape and sunrise on a powder day. The palette is otherwise restrained: slate (#676986) for body text, a near-white canvas (#f4f4f6) that feels colder and more technical than a pure white, and a teal (#0e7a82) that surfaces in product details and secondary badges, suggesting the cool of snowmelt. DM Sans runs the typography, a geometric sans-serif with enough warmth to keep the brand from feeling like a ski-patrol manual. Buttons are pill-shaped (`{rounded.full}`), a deliberate choice that softens the angularity of ski equipment and mountain geometry. The nav bar sits at a compact 64px, and product cards use a generous `{rounded.lg}` (20px) — the brand trusts photography of skis in motion over decorative flourishes. The marigold accent is never used as a background fill; it appears only as a highlight on dark surfaces — a CTA text color, a badge dot, a loading indicator — always a signal, never a wash. The overall mood is confident, alpine, and slightly muted: a brand that knows its product is the hero and the interface is just the lift line.
 
 colors:
   primary: "#272d45"
@@ -366,6 +370,8 @@ components:
 - Size and quantity selectors stack vertically on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted color palette includes several generic web colors (#2c3e50, #dedede, #121212) that may be framework defaults or checkout widget colors rather than intentional brand choices. The primary (#272d45) and accent (#ffc032) are the most distinctive and likely authentic.
 - Font-family declarations only returned "DM Sans" and generic fallbacks. No specific weights or sizes could be extracted — the typography tokens above are inferred from common DTC ski brand patterns and may not match the live site exactly.

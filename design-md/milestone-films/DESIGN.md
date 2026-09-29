@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Milestone Films
-description: A deep, cinephile-grey canvas (#1c1b1b) that feels like a 35mm frame before the projector starts — the site is a digital archive of independent and restored cinema, and its palette reads like a film-stock contact sheet: warm blacks, silver-grey mids (#cfcfcf, #6a6a6a), and a single urgent orange-red (#fc4c03) that punches through for CTAs and price badges like a "NOW SHOWING" marquee. The typography runs Montserrat at clean, readable weights — display titles sit in bold 600, body text in 400 with generous line-height — and Nunito Sans appears for secondary copy, giving the interface a slightly European, art-house feel. Buttons are sharp-cornered rectangles (`{rounded.none}`) with the orange-red fill, a deliberate choice that says "buy a ticket, no fuss," while product cards for Blu-rays and DVDs use soft grey borders (`{rounded.sm}`) and white canvases (`{colors.canvas}`) to let cover art breathe. The nav bar is a fixed dark strip (`{colors.ink}`) with white links, and the footer collapses into a dense, information-rich block of links and social icons — blue Twitter (#00aced), blue Facebook (#4469af), red YouTube (#c8232c) — each a raw platform color, unmediated. There is no hero animation, no parallax; the site trusts the magnetism of film posters and the authority of a well-organized grid. The overall mood is that of a repertory cinema lobby: serious, welcoming, and lit by the glow of a marquee.
+name: "Milestone Films"
+source_url: "https://www.milestonefilms.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep, cinephile-grey canvas (#1c1b1b) that feels like a 35mm frame before the projector starts — the site is a digital archive of independent and restored cinema, and its palette reads like a film-stock contact sheet: warm blacks, silver-grey mids (#cfcfcf, #6a6a6a), and a single urgent orange-red (#fc4c03) that punches through for CTAs and price badges like a "NOW SHOWING" marquee. The typography runs Montserrat at clean, readable weights — display titles sit in bold 600, body text in 400 with generous line-height — and Nunito Sans appears for secondary copy, giving the interface a slightly European, art-house feel. Buttons are sharp-cornered rectangles (`{rounded.none}`) with the orange-red fill, a deliberate choice that says "buy a ticket, no fuss," while product cards for Blu-rays and DVDs use soft grey borders (`{rounded.sm}`) and white canvases (`{colors.canvas}`) to let cover art breathe. The nav bar is a fixed dark strip (`{colors.ink}`) with white links, and the footer collapses into a dense, information-rich block of links and social icons — blue Twitter (#00aced), blue Facebook (#4469af), red YouTube (#c8232c) — each a raw platform color, unmediated. There is no hero animation, no parallax; the site trusts the magnetism of film posters and the authority of a well-organized grid. The overall mood is that of a repertory cinema lobby: serious, welcoming, and lit by the glow of a marquee.
 
 colors:
   primary: "#fc4c03"
@@ -362,6 +366,8 @@ components:
 - **Hero banner**: On mobile, the hero banner's padding reduces from `{spacing.section}` to `{spacing.xl}`, and any side-by-side content stacks vertically.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for many components (e.g., product-card image zoom, text-input focus ring) could not be reliably extracted from the static HTML/CSS.
 - Error styling for form validation (error messages, input border colors on invalid state) is inferred from the `{colors.error}` value but not confirmed.

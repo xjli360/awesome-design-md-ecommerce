@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Lian Li
-description: The #17bbef cyan that indexes every hover underline, active nav indicator, and product-badge accent reads less like a brand color and more like a strip of addressable RGB caught mid-animation — precision-lit, technically deliberate. Lian Li's web presence mirrors its hardware philosophy: a neutral shell of surface-soft (#ecf0f5) panels and body-gray (#444444) copy gives product imagery — brushed aluminum extrusions, tempered glass side panels, dense cable-management ecosystems — the visual real estate to do the work. Montserrat carries every headline at weight 700, the same geometric confidence you find in a machined I/O shield; Roboto handles body copy at 400 weight, never competing. Outside that primary cyan, the palette is restrained: deep navy #003388 anchors secondary CTAs and structural nav links, while a graduated gray stack (#bfc3c8, #98a2b3, #667085) manages borders, metadata text, and dividers — the digital analogue of an anodized aluminum grille. Error states pull from #b94a48; utility badge states borrow orange (#ff6900) and amber (#f0ad4e) signals drawn from the PC-enthusiast vocabulary where every indicator color codes a function. The site is a light-mode system rather than a dark gaming theme, positioning Lian Li above the RGB-maximalist tier and into the architectural, premium-builder segment — a signal reinforced by `{rounded.xs}` (4px) button corners and `{rounded.sm}` (8px) card radii that echo the right-angle chassis geometry of the O11 Dynamic series. Specification tables, checkbox-tree filter sidebars, and dense multi-level category navigation are first-class UI patterns here because Lian Li's buyers cross-reference TDP clearances and PSU shroud dimensions before committing — the design system must support that homework, not fight it.
+name: "Lian Li"
+source_url: "https://lian-li.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The #17bbef cyan that indexes every hover underline, active nav indicator, and product-badge accent reads less like a brand color and more like a strip of addressable RGB caught mid-animation — precision-lit, technically deliberate. Lian Li's web presence mirrors its hardware philosophy: a neutral shell of surface-soft (#ecf0f5) panels and body-gray (#444444) copy gives product imagery — brushed aluminum extrusions, tempered glass side panels, dense cable-management ecosystems — the visual real estate to do the work. Montserrat carries every headline at weight 700, the same geometric confidence you find in a machined I/O shield; Roboto handles body copy at 400 weight, never competing. Outside that primary cyan, the palette is restrained: deep navy #003388 anchors secondary CTAs and structural nav links, while a graduated gray stack (#bfc3c8, #98a2b3, #667085) manages borders, metadata text, and dividers — the digital analogue of an anodized aluminum grille. Error states pull from #b94a48; utility badge states borrow orange (#ff6900) and amber (#f0ad4e) signals drawn from the PC-enthusiast vocabulary where every indicator color codes a function. The site is a light-mode system rather than a dark gaming theme, positioning Lian Li above the RGB-maximalist tier and into the architectural, premium-builder segment — a signal reinforced by `{rounded.xs}` (4px) button corners and `{rounded.sm}` (8px) card radii that echo the right-angle chassis geometry of the O11 Dynamic series. Specification tables, checkbox-tree filter sidebars, and dense multi-level category navigation are first-class UI patterns here because Lian Li's buyers cross-reference TDP clearances and PSU shroud dimensions before committing — the design system must support that homework, not fight it.
 
 colors:
   primary: "#17bbef"
@@ -400,6 +404,8 @@ components:
 - Footer four columns collapse to two on tablet, to single accordion-expandable columns on mobile with headings as toggle triggers
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Canvas white (#ffffff) inferred from convention; no explicit white extracted from the site's color list — likely a CSS reset default or framework base
 - No dark-mode token variants confirmed; site appears light-mode system-wide, but dark panels (#353535, #3f4b5b) appear in the footer and hero — a full dark-mode surface palette may exist for campaign landing pages

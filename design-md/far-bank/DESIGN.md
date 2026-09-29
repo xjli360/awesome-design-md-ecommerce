@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Far Bank
-description: A deep-navy (#001d40) and near-black (#1a1919) palette that feels less like outdoor gear and more like a fly-fishing library at dusk — the brand trusts darkness as its canvas, not white. The primary voltage comes from a cool steel-blue (#789fbb), used sparingly on CTAs and accent lines, while a brighter cobalt (#334fb4) appears as a secondary jolt on select links and badges. Typography is a layered system of display faces — ff-good-headline-web-pro-con for condensed hero headlines, bagatela for serif elegance on editorial spreads, and Assistant for clean body copy — creating a hybrid of sporting-club heritage and modern utility. Corners are mostly soft but never pill-shaped; cards use {rounded.md} (12px) and buttons use {rounded.sm} (8px), with the occasional full-radius on small badge elements. The nav bar sits at 80px tall, transparent on hero imagery, then snaps to a solid {colors.ink} scrim on scroll. Product photography is moody and low-contrast, with fly rods and reels shot against dark surfaces, making the silver hardware and bright fly line the only highlights. The search bar is a dark field with a subtle {colors.hairline} border, not a glowing orb. This is a brand that says "we are serious about the craft" through restraint — no bright oranges, no hero gradients, no playful illustrations. Every component feels engineered for a customer who values precision over flash.
+name: "Far Bank"
+source_url: "https://farbank.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep-navy (#001d40) and near-black (#1a1919) palette that feels less like outdoor gear and more like a fly-fishing library at dusk — the brand trusts darkness as its canvas, not white. The primary voltage comes from a cool steel-blue (#789fbb), used sparingly on CTAs and accent lines, while a brighter cobalt (#334fb4) appears as a secondary jolt on select links and badges. Typography is a layered system of display faces — ff-good-headline-web-pro-con for condensed hero headlines, bagatela for serif elegance on editorial spreads, and Assistant for clean body copy — creating a hybrid of sporting-club heritage and modern utility. Corners are mostly soft but never pill-shaped; cards use {rounded.md} (12px) and buttons use {rounded.sm} (8px), with the occasional full-radius on small badge elements. The nav bar sits at 80px tall, transparent on hero imagery, then snaps to a solid {colors.ink} scrim on scroll. Product photography is moody and low-contrast, with fly rods and reels shot against dark surfaces, making the silver hardware and bright fly line the only highlights. The search bar is a dark field with a subtle {colors.hairline} border, not a glowing orb. This is a brand that says "we are serious about the craft" through restraint — no bright oranges, no hero gradients, no playful illustrations. Every component feels engineered for a customer who values precision over flash.
 
 colors:
   primary: "#789fbb"
@@ -331,6 +335,8 @@ components:
 - Search bar becomes a full-width overlay on mobile, triggered by icon tap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Extracted hex colors are dominated by dark neutrals (#1a1919, #001d40, #121212) and muted blues (#789fbb, #7a99ac, #c7c7c7) — the palette appears intentionally restrained, but the extracted list may miss secondary accent colors used sparingly (e.g., a warm leather-brown or olive-green that appears in product photography). The bright #334fb4 is the only non-neutral accent and is used as a secondary brand color here, but its actual usage frequency on the live site is unconfirmed.
 - Font-family declarations include many faces (bagatela, ff-good-headline-web-pro-con, bebas-neue-pro-expanded, program-narrow) that may be used for specific editorial or marketing sections rather than system-wide. The primary body and UI faces (Assistant, Open Sans) are more reliably extracted.

@@ -1,11 +1,15 @@
 ---
 version: alpha
-name: Midori
-description: The brand name is the Japanese word for green, and the design system takes that etymology literally: #036248 — a dense, resinous forest-floor green — claims every primary button fill, every nav-link hover state, and every active indicator, leaving no interpretive gap between the word and the color. BrandonGrotesque and BrandonText handle Latin headings in geometric sans forms at controlled weights (600 for display headers, 400–500 for body), while Hiragino Kaku Gothic ProN, Noto Sans Japanese, Yu Gothic, and YuGothic carry Japanese copy — not as fallbacks but as co-equal first-class stacks loaded via YakuHanJP and YakuHanMP for proper Japanese punctuation spacing. Both writing systems share identical size and weight scales; there is no Japanese-mode override, only one unified scale that works in either script.
+name: "Midori"
+source_url: "https://www.midori-japan.co.jp"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The brand name is the Japanese word for green, and the design system takes that etymology literally: #036248 — a dense, resinous forest-floor green — claims every primary button fill, every nav-link hover state, and every active indicator, leaving no interpretive gap between the word and the color. BrandonGrotesque and BrandonText handle Latin headings in geometric sans forms at controlled weights (600 for display headers, 400–500 for body), while Hiragino Kaku Gothic ProN, Noto Sans Japanese, Yu Gothic, and YuGothic carry Japanese copy — not as fallbacks but as co-equal first-class stacks loaded via YakuHanJP and YakuHanMP for proper Japanese punctuation spacing. Both writing systems share identical size and weight scales; there is no Japanese-mode override, only one unified scale that works in either script.
 
-The canvas is #fafafa rather than full white, which softens contrast against the dark #036248 primary and prevents harshness when dense kanji runs at caption size. Surface hierarchy moves through a stepped gray band — #f2f2f2 for background panels, #e5e5e5 for dividers, #dadada for stronger rule lines — with no colored surfaces except green treatments. A red (#ee0a15, darkened to #bc1d21 on hover) operates strictly as a high-urgency signal: sale pricing, stock warnings, and required-field errors. A mid-range sage (#4f917f) appears in secondary badges and hover fills, keeping the palette within a coherent green family that reinforces the brand name without adding unrelated hues.
+  The canvas is #fafafa rather than full white, which softens contrast against the dark #036248 primary and prevents harshness when dense kanji runs at caption size. Surface hierarchy moves through a stepped gray band — #f2f2f2 for background panels, #e5e5e5 for dividers, #dadada for stronger rule lines — with no colored surfaces except green treatments. A red (#ee0a15, darkened to #bc1d21 on hover) operates strictly as a high-urgency signal: sale pricing, stock warnings, and required-field errors. A mid-range sage (#4f917f) appears in secondary badges and hover fills, keeping the palette within a coherent green family that reinforces the brand name without adding unrelated hues.
 
-Corner radii run deliberately small. Cards and inputs sit at 4px (`{rounded.xs}`), buttons at 8px (`{rounded.sm}`), and modals at 12px (`{rounded.md}`) — a precision-over-friendliness stance that reads as Japanese stationery logic: neat, edited, purposeful. Vertical rhythm is generous (48px section padding at minimum), horizontal grid density is high — product thumbnails share screen space efficiently. Type weights avoid heavy extremes; 700 appears only in hero display, reinforcing the sense that the photography and the green carry the brand voltage, not typographic muscle.
+  Corner radii run deliberately small. Cards and inputs sit at 4px (`{rounded.xs}`), buttons at 8px (`{rounded.sm}`), and modals at 12px (`{rounded.md}`) — a precision-over-friendliness stance that reads as Japanese stationery logic: neat, edited, purposeful. Vertical rhythm is generous (48px section padding at minimum), horizontal grid density is high — product thumbnails share screen space efficiently. Type weights avoid heavy extremes; 700 appears only in hero display, reinforcing the sense that the photography and the green carry the brand voltage, not typographic muscle.
 
 colors:
   primary: "#036248"
@@ -355,6 +359,8 @@ components:
 - Footer columns: 4-column grid at desktop; 2-column at tablet; single column stacked at mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No `meta theme-color` tag detected — the mobile browser chrome color (status bar) is unknown; recommend #036248 as the logical candidate given primary brand usage
 - Many extracted hex values (#00d084, #0693e3, #7a00df, #4721fb, #ab1dfe, #faaca8, #dad0ec, #fafae1, #fdd79a, #330968, #34e2e4) are WordPress Gutenberg block editor palette defaults, not brand colors; they were excluded from the token set

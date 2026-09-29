@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Olde Good Things
-description: |
+name: "Olde Good Things"
+source_url: "https://ogtstore.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Salvaged architectural elements don't photograph like new inventory — a run of pressed-tin ceiling or a cast-iron newel post carries the argument once the camera is close enough. Olde Good Things builds its interface around that reality: the canvas is warm plaster white (#f3f2f1), structural type sits in charcoal mortar (#4d4749), and the single voltage color is a struck-brick rust (#904b3c) found in oxidized iron and fired clay. It lands on every call-to-action and active state with the authority of a material fact rather than a brand decision.
 
   Bookmania — a revival of mid-century phototypesetting aesthetics, with bracketed serifs, ink traps, and old-style figures — anchors all display headings and product titles. Bio Sans carries navigation, labels, and UI prose. The pairing reads like a specialist's trade catalogue printed on cream stock: readable, unhurried, certain of its inventory. A muted sage (#91b08e) and a deep slate (#3e5871) surface in filter tags, secondary badges, and accent flourishes — they read as verdigris and aged iron rather than injected accent colors, which fits a store whose inventory spans Victorian mantels, industrial factory windows, and Arts and Crafts hardware.
@@ -371,6 +374,8 @@ components:
 - Footer column grid: 4 columns → 2 columns at 744px → 1 column at < 480px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Actual logomark treatment (wordmark vs. standalone glyph) is unconfirmed; Bookmania wordmark assumed from font stack evidence
 - `surface-card` white (#ffffff) is not in the extracted palette; derived as contrast surface over the warm canvas — may be #ebe9e8 in practice

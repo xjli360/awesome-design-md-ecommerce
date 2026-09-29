@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Denon DJ
-description: A black-and-neon stage presence where #0088cc — a cold, electronic cyan — acts as the primary voltage against a deep gray scale of #555555, #777777, and #858585, with #ff5216 and #ff5501 as hot orange accents that signal power states, warning badges, and performance-critical controls. The palette reads like a DJ mixer’s interface: cool blues for connectivity and core functions, warm oranges for cue points and active channels, and a full range of grays from #c1c1c1 to #e8e8e8 that build layered surfaces without competing with the gear photography. The brand’s typography stack defaults to Open Sans and Monserrat — clean, geometric sans-serifs that stay legible under stage lighting — with monospace (Consolas, Courier New) reserved for BPM displays, timecode readouts, and firmware-style data panels. Buttons carry sharp {rounded.sm} corners rather than pills, echoing the angular hardware of DJ controllers and CDJs. The hero section on denondj.com uses full-bleed product imagery against a #f6f6f6 canvas, with cyan CTAs that float above the image rather than sitting inside cards — a deliberate move that makes the software feel as responsive as the hardware. The nav bar is a thin, dark strip (#494949) with white links, mimicking the top panel of a mixer. Product cards use soft borders (#e3e4e4) and generous padding, letting the gear’s own design language — brushed metal, backlit buttons, jog wheels — do the selling. The overall mood is professional, slightly industrial, and unapologetically electronic: this is a brand that trusts its products to be the visual hero and uses color only to guide the performer’s eye under pressure.
+name: "Denon DJ"
+source_url: "https://www.denondj.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A black-and-neon stage presence where #0088cc — a cold, electronic cyan — acts as the primary voltage against a deep gray scale of #555555, #777777, and #858585, with #ff5216 and #ff5501 as hot orange accents that signal power states, warning badges, and performance-critical controls. The palette reads like a DJ mixer’s interface: cool blues for connectivity and core functions, warm oranges for cue points and active channels, and a full range of grays from #c1c1c1 to #e8e8e8 that build layered surfaces without competing with the gear photography. The brand’s typography stack defaults to Open Sans and Monserrat — clean, geometric sans-serifs that stay legible under stage lighting — with monospace (Consolas, Courier New) reserved for BPM displays, timecode readouts, and firmware-style data panels. Buttons carry sharp {rounded.sm} corners rather than pills, echoing the angular hardware of DJ controllers and CDJs. The hero section on denondj.com uses full-bleed product imagery against a #f6f6f6 canvas, with cyan CTAs that float above the image rather than sitting inside cards — a deliberate move that makes the software feel as responsive as the hardware. The nav bar is a thin, dark strip (#494949) with white links, mimicking the top panel of a mixer. Product cards use soft borders (#e3e4e4) and generous padding, letting the gear’s own design language — brushed metal, backlit buttons, jog wheels — do the selling. The overall mood is professional, slightly industrial, and unapologetically electronic: this is a brand that trusts its products to be the visual hero and uses color only to guide the performer’s eye under pressure.
 
 colors:
   primary: "#0088cc"
@@ -487,6 +491,8 @@ components:
 - Monospace data panels reduce font-size from 24px to 18px on mobile to prevent overflow
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for product cards and buttons were inferred from common patterns; exact box-shadow values and transition durations could not be extracted from the live site
 - Error message styling (text color, background, iconography) was not visible in the extracted data; the error input border color was chosen to match the brand's orange accent

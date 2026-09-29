@@ -1,0 +1,681 @@
+{
+  "source_url": "https://masterdynamic.com",
+  "final_url": "https://www.masterdynamic.com/",
+  "captured_at": "2026-09-28T09:40:37.086832+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://masterdynamic.com",
+      "final_url": "https://www.masterdynamic.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "7ef508b493dd134f4006ddfc43d7e9b9911a52166ecd536bca7ff0f05458f63f",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.masterdynamic.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.masterdynamic.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582",
+      "final_url": "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c157c57d21a0becdb4cef4e27f19a12b99a11917ce2b04136a6c2b4103e33b55",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://pieeyegpc.pii.ai/1/dsrp/dc23832f-2b1f-4d19-9f59-3428214491c3/gpc.css",
+      "final_url": "https://pieeyegpc.pii.ai/1/dsrp/dc23832f-2b1f-4d19-9f59-3428214491c3/gpc.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d01946978f75c6eecd31942688097e6b8cc5ebf52a698dff24baec6da0681c90",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 11,
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+      ]
+    },
+    "#ffffff": {
+      "count": 8,
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+      ]
+    },
+    "#000000": {
+      "count": 7,
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582",
+        "https://pieeyegpc.pii.ai/1/dsrp/dc23832f-2b1f-4d19-9f59-3428214491c3/gpc.css"
+      ]
+    },
+    "#3c4144": {
+      "count": 5,
+      "sources": [
+        "https://www.masterdynamic.com/"
+      ]
+    },
+    "#171d21": {
+      "count": 5,
+      "sources": [
+        "https://www.masterdynamic.com/"
+      ]
+    },
+    "#00000066": {
+      "count": 3,
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+      ]
+    },
+    "#4a4a4a": {
+      "count": 3,
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://www.masterdynamic.com/"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 2,
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+      ]
+    },
+    "#00000033": {
+      "count": 2,
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+      ]
+    },
+    "#e1e1e1": {
+      "count": 1,
+      "sources": [
+        "https://www.masterdynamic.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 1,
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+      ]
+    },
+    "#fbfbfb": {
+      "count": 1,
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+      ]
+    },
+    "#0000000d": {
+      "count": 1,
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 1,
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+      ]
+    },
+    "#0000000f": {
+      "count": 1,
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 1,
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+      ]
+    },
+    "#595959": {
+      "count": 1,
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+      ]
+    },
+    "#626262": {
+      "count": 1,
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+      ]
+    },
+    "#9e9e9e": {
+      "count": 1,
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+      ]
+    },
+    "#0018ff": {
+      "count": 1,
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+      ]
+    },
+    "#c7c7c7": {
+      "count": 1,
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+      ]
+    },
+    "#f1c418": {
+      "count": 1,
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+      ]
+    },
+    "#a45cec": {
+      "count": 1,
+      "sources": [
+        "https://pieeyegpc.pii.ai/1/dsrp/dc23832f-2b1f-4d19-9f59-3428214491c3/gpc.css"
+      ]
+    },
+    "#fefefe": {
+      "count": 1,
+      "sources": [
+        "https://pieeyegpc.pii.ai/1/dsrp/dc23832f-2b1f-4d19-9f59-3428214491c3/gpc.css"
+      ]
+    },
+    "#888888": {
+      "count": 1,
+      "sources": [
+        "https://pieeyegpc.pii.ai/1/dsrp/dc23832f-2b1f-4d19-9f59-3428214491c3/gpc.css"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 1,
+      "sources": [
+        "https://pieeyegpc.pii.ai/1/dsrp/dc23832f-2b1f-4d19-9f59-3428214491c3/gpc.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Consolas": [
+      "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+    ],
+    "Courier New": [
+      "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+    ],
+    "Liberation Mono": [
+      "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+    ],
+    "Menlo": [
+      "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+    ],
+    "Monaco": [
+      "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+    ],
+    "SFMono-Regular": [
+      "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+    ],
+    "blenderbold": [
+      "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+    ],
+    "blenderbook": [
+      "https://www.masterdynamic.com/",
+      "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+    ],
+    "blenderheavy": [
+      "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+    ],
+    "blendermedium": [
+      "https://www.masterdynamic.com/",
+      "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+    ],
+    "blenderthin": [
+      "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+    ],
+    "monospace": [
+      "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+    ],
+    "sans-serif": [
+      "https://www.masterdynamic.com/"
+    ],
+    "ui-monospace": [
+      "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.masterdynamic.com/",
+      "selector": "[dir=\"rtl\"]:root",
+      "declarations": "--transform-logical-flip: -1;\n\t  --transform-origin-start: right;\n\t  --transform-origin-end: left;"
+    },
+    {
+      "source": "https://www.masterdynamic.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: 2rem;\n      --section-outer-spacing-block: var(--spacing-6);\n      --section-inner-max-spacing-block: var(--spacing-10);\n      --section-inner-spacing-inline: var(--spacing-10);\n      --section-stack-spacing-block: var(--spacing-6);\n\n\t    \n\t    --grid-gutter: var(--spacing-6);\n\n\t    \n\t    --product-list-row-gap: var(--spacing-12);\n\n\t    \n\t    --input-gap: 1rem;\n\t    --input-height: 3.125rem;\n\t    --input-padding-inline: var(--spacing-5);"
+    },
+    {
+      "source": "https://www.masterdynamic.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: var(--spacing-12);\n      --section-outer-spacing-block: var(--spacing-6);\n      --section-inner-max-spacing-block: var(--spacing-12);\n      --section-inner-spacing-inline: var(--spacing-14);\n      --section-stack-spacing-block: var(--spacing-6);\n\n      \n      --text-xxl: 2.5rem; ;\n\n      --text-h0: 4rem;  \n      --text-h1: 3.25rem;  \n      --text-h2: 2.563rem; \n      --text-h3: 2rem; ;\n      --text-h4: 1.625rem; ;\n      --text-h5: 1.25rem; ;\n      --text-h6: 1.125rem; ;"
+    },
+    {
+      "source": "https://www.masterdynamic.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: var(--spacing-12);\n       --section-outer-spacing-block: var(--spacing-6);\n       --section-inner-max-spacing-block: var(--spacing-12);\n       --section-inner-spacing-inline: var(--spacing-14);\n       --section-stack-spacing-block: var(--spacing-6);"
+    },
+    {
+      "source": "https://www.masterdynamic.com/",
+      "selector": ":root",
+      "declarations": "--section-outer-spacing-block: var(--spacing-6);\n      --section-inner-max-spacing-block: var(--spacing-14);\n      --section-inner-spacing-inline: var(--spacing-16);"
+    },
+    {
+      "source": "https://www.masterdynamic.com/",
+      "selector": ":root",
+      "declarations": "--section-outer-spacing-block: var(--spacing-6);\n      --section-inner-max-spacing-block: var(--spacing-16);\n      --section-inner-spacing-inline: var(--spacing-18);"
+    },
+    {
+      "source": "https://www.masterdynamic.com/",
+      "selector": ".button.button--outline:not([disabled]):hover, .btn.btn--outline:not([disabled]):hover,\n        .button.button--outline-dark:not([disabled]):hover, .btn.btn--ou",
+      "declarations": "--button-background-opacity: 0.85;\n          border: 2px solid;"
+    },
+    {
+      "source": "https://www.masterdynamic.com/",
+      "selector": ".button:not([disabled]):hover, .btn:not([disabled]):hover, .shopify-payment-button__button--unbranded:not([disabled]):hover",
+      "declarations": "--button-background-opacity: 0.85;\n          border: 2px solid transparent;"
+    },
+    {
+      "source": "https://www.masterdynamic.com/",
+      "selector": ".button--subdued:not([disabled]):hover",
+      "declarations": "--button-background: var(--text-color) / .05 !important;"
+    },
+    {
+      "source": "https://www.masterdynamic.com/",
+      "selector": ":root",
+      "declarations": "--sticky-announcement-bar-enabled:0;"
+    },
+    {
+      "source": "https://www.masterdynamic.com/",
+      "selector": "--background: 26 26 26; --text-color: 255 255 255;\n\n  :root",
+      "declarations": "--sticky-header-enabled:1;"
+    },
+    {
+      "source": "https://www.masterdynamic.com/",
+      "selector": "#shopify-section-sections--21352030896320__header",
+      "declarations": "--header-grid-template: \"main-nav logo secondary-nav\" / minmax(0, 1fr) auto minmax(0, 1fr);\n    --header-padding-block: var(--spacing-2-5);\n    --header-background-opacity: 1.0;\n    --header-background-blur-radius: 0px;\n    --header-transparent-text-color: 255 255 255;--header-logo-width: 170px;\n      --header-logo-height: 8px;position: sticky;\n    top: 0;\n    z-index: 10;"
+    },
+    {
+      "source": "https://www.masterdynamic.com/",
+      "selector": "#shopify-section-sections--21352030896320__header",
+      "declarations": "--header-logo-width: 220px;\n        --header-logo-height: 10px;"
+    },
+    {
+      "source": "https://www.masterdynamic.com/",
+      "selector": "#shopify-section-sections--21352030896320__header",
+      "declarations": "--header-grid-template: \"logo main-nav secondary-nav\" / minmax(0, 1fr) fit-content(55%) minmax(0, 1fr);"
+    },
+    {
+      "source": "https://www.masterdynamic.com/",
+      "selector": "ckground: 255 255 255 / var(--button-background-opacity, 1);--button-outline-color: 255 255 255;--button-text-color: 74 74 74;\n\n  #shopify-section-template--213",
+      "declarations": "--section-background-hash: 0;"
+    },
+    {
+      "source": "https://www.masterdynamic.com/",
+      "selector": "#shopify-section-template--21352028602560__featured_collection_VGMWzB .product-list",
+      "declarations": "--product-list-gap: var(--product-list-row-gap) var(--product-list-column-gap);\r\n    --product-list-items-per-row: 2;\r\n    --product-list-carousel-item-width: 60vw;\r\n    --product-list-grid: auto / auto-flow var(--product-list-carousel-item-width);"
+    },
+    {
+      "source": "https://www.masterdynamic.com/",
+      "selector": "#shopify-section-template--21352028602560__featured_collection_VGMWzB .product-list",
+      "declarations": "--product-list-gap: var(--product-list-row-gap) var(--product-list-column-gap);\r\n      --product-list-items-per-row: 2;\r\n      --product-list-carousel-item-width: 36vw;"
+    },
+    {
+      "source": "https://www.masterdynamic.com/",
+      "selector": "#shopify-section-template--21352028602560__featured_collection_VGMWzB .product-list",
+      "declarations": "--product-list-items-per-row: 3;\r\n      --product-list-carousel-item-width: calc(var(--container-inner-width) / 3 - (var(--product-list-column-gap) / 3 * 4));"
+    },
+    {
+      "source": "https://www.masterdynamic.com/",
+      "selector": "#shopify-section-template--21352028602560__featured_collection_VGMWzB .product-list",
+      "declarations": "--product-list-items-per-row: 4;\r\n      --product-list-carousel-item-width: calc(var(--container-inner-width) / 4 - (var(--product-list-column-gap) / 4 * 3));"
+    },
+    {
+      "source": "https://www.masterdynamic.com/",
+      "selector": "d: 26 26 26 / var(--button-background-opacity, 1);--button-outline-color: 26 26 26;--button-text-color: 255 255 255;\n\n  #shopify-section-template--2135202860256",
+      "declarations": "--section-background-hash: 008280140026006000838128061165039;"
+    },
+    {
+      "source": "https://www.masterdynamic.com/",
+      "selector": "255 255 255 / var(--button-background-opacity, 1);--button-outline-color: 255 255 255;--button-text-color: 74 74 74;\n\n  #shopify-section-template--2135202860256",
+      "declarations": "--section-background-hash: 0;"
+    },
+    {
+      "source": "https://www.masterdynamic.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.masterdynamic.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.masterdynamic.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.masterdynamic.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.masterdynamic.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.masterdynamic.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582",
+      "selector": "body",
+      "declarations": "--background: var(--background-primary);--text-color: var(--text-primary);background:rgb(var(--background));color:rgb(var(--text-color));font-family:var(--text-font-family);font-style:var(--text-font-style);font-weight:var(--text-font-weight);font-size:var(--text-base);letter-spacing:var(--text-letter-spacing);margin:0;position:relative;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;text-rendering:optimizeLegibility"
+    },
+    {
+      "source": "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;font-weight:inherit;line-height:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582",
+      "selector": "button,[type=button],[type=reset],[type=submit]",
+      "declarations": "-webkit-appearance:button;text-align:inherit;background-color:#0000;background-image:none"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Professional Headphones & Luxury Earphones | Master & Dynamic Official",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582",
+        "https://pieeyegpc.pii.ai/1/dsrp/dc23832f-2b1f-4d19-9f59-3428214491c3/gpc.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.masterdynamic.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.masterdynamic.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pieeyegpc.pii.ai/1/dsrp/dc23832f-2b1f-4d19-9f59-3428214491c3/gpc.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.masterdynamic.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+      ]
+    },
+    "colors.border-subtle": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.neutral-mid": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+      ]
+    },
+    "colors.neutral-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-blue-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.link": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+      ]
+    },
+    "colors.alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+      ]
+    },
+    "colors.accent-purple": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pieeyegpc.pii.ai/1/dsrp/dc23832f-2b1f-4d19-9f59-3428214491c3/gpc.css"
+      ]
+    },
+    "colors.overlay-scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+      ]
+    },
+    "colors.overlay-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.masterdynamic.com/cdn/shop/t/235/assets/theme.css?v=29606846951514024191784145582"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.color-swatch-selector": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Haworth
-description: The warm unbleached ground — #f2efde sitting beneath product photography and content blocks — is Haworth's quiet declaration that contract furniture doesn't have to feel like a procurement portal. Against this cream, deep navy (#001d34) and a forest-floor teal (#108474) operate as the two load-bearing poles of the palette: navy for structure, authority, and the footer mass; teal for every primary CTA, active state, and interactive anchor. The rust tertiary (#963928) surfaces sparingly on sale badges and promotional callouts — warm enough to signal urgency without tipping into clearance-rack aggression. The teal family itself is precise and internally coherent: #108474 primary, #0e4840 as the dark active press state, #aadddd as the washed-out disabled tone, and a cooled blue-green #65717b appearing in body borders — the brand keeps teal reserved for action signals and never dilutes it into decoration.
+name: "Haworth"
+source_url: "https://store.haworth.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The warm unbleached ground — #f2efde sitting beneath product photography and content blocks — is Haworth's quiet declaration that contract furniture doesn't have to feel like a procurement portal. Against this cream, deep navy (#001d34) and a forest-floor teal (#108474) operate as the two load-bearing poles of the palette: navy for structure, authority, and the footer mass; teal for every primary CTA, active state, and interactive anchor. The rust tertiary (#963928) surfaces sparingly on sale badges and promotional callouts — warm enough to signal urgency without tipping into clearance-rack aggression. The teal family itself is precise and internally coherent: #108474 primary, #0e4840 as the dark active press state, #aadddd as the washed-out disabled tone, and a cooled blue-green #65717b appearing in body borders — the brand keeps teal reserved for action signals and never dilutes it into decoration.
 
   Typography is where the tension lives. DM Serif Display at weight 400 is a strange choice for a B2B office furniture store — it reads closer to an architecture practice or high-end real estate developer than a task-chair specification sheet. Founders Grotesk carries the functional load: Medium at 14px for navigation labels and UI controls, Regular at 16px for prose, both shifting to all-caps at 0.5px tracking for button text. The serif/grotesque split generates a pairing that feels authored rather than defaulted — editorial authority in the headline register, specification-sheet clarity everywhere below it.
 
@@ -345,6 +349,8 @@ components:
 - Footer columns collapse to accordion-gated sections on mobile, with the Haworth logo and legal row pinned at the bottom
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No confirmed border-radius value extracted from live site — `{rounded.none}` assumed throughout based on the angular visual language; a small xs or sm radius on cards is possible
 - Distinction between `{colors.rust}` (#963928) and `{colors.rust-dark}` (#9f2828) functional roles unconfirmed — likely sale badge vs. error/warning states respectively

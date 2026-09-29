@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Clairefontaine
-description: |
+name: "Clairefontaine"
+source_url: "https://www.clairefontaine.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Fountain-pen ink is the calibration instrument — if it bleeds, the paper failed — and Clairefontaine's digital storefront applies that same pass/fail rigor to color: the entire UI runs on a near-white #f6f6f6 field against #232323 text, and only one deliberate chromatic injection is permitted. That accent is #24b9d7, a mid-teal cyan that functions as a single pen stroke across an otherwise monochrome layout, activating primary CTAs, navigation hover underlines, and top-strip announcements without bleeding into the merchandise field. Secondary category accents — #4cbb6c for school supplies, #ff9a52 for art materials, #ff4c4c for promotional pricing — appear at badge scale only, operating as shelf-edge markers rather than brand statements.
 
   Manrope carries the full typographic hierarchy, a geometric sans whose even optical spacing suits dense product naming without competing with the catalog's SKU depth. Display sizes top out near 36px at weight 700 for hero headlines; body copy runs 16px at 400 weight with a 1.6 line-height that mirrors the reading experience of the physical notebooks. Navigation is a flat 72px white bar with category links that underline in {colors.primary} on hover — no megamenu overlays, no filled dropdown backgrounds. Product cards sit on a #ffffff surface behind a 1px #eeeeee border at {rounded.sm}, presenting each item as a discrete stationery sheet rather than an elevated tile.
@@ -355,6 +358,8 @@ components:
 - Hero image drops below copy on mobile; image height clamps to 280px to avoid excessive scroll commitment before the CTA
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No brand-specified typeface weight confirmed — Manrope is present in the extracted font stack but no custom variable-font axis ranges or licensed subset boundaries could be verified
 - The exact primary color role of #24b9d7 vs. #5bc0de vs. #1d93ab is ambiguous from extraction alone; multiple cyan variants appear and may represent different component states or a Bootstrap info-color layer rather than distinct brand tokens

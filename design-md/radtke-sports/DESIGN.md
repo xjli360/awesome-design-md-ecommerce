@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Radtke Sports
-description: Deep navy-purple (#221155) anchors Radtke Sports' palette — an unusual choice for an autographs dealer that might default to team reds and stadium blues, but one that reads as vault-serious: collectible-grade, slightly ceremonial, the color of velvet display cases. Against that foundation, electric blue (#3858e9) fires across every primary action — buy buttons, cart CTAs, active navigation states — with an urgency that mirrors a live auction countdown rather than a passive browse. A sports red (#cc1818) punctuates sale flags and alert states, while amber (#f0b849) signals trophy-tier items and premium highlights, the closest this palette comes to a trophy gleam. Forest green (#4ab866) carries authentication confirmation marks — the verified-signature visual that is the brand's core trust signal. Type runs entirely on the system stack (Arial, Helvetica, -apple-system) at standard weights, because the product photography does the heavy lifting: signed helmets, framed jerseys, and authenticated lithographs need clear hierarchy, not typographic showmanship. Spacing is compact by collector-site convention — product grids run dense so shoppers can scan inventory efficiently, the way a collector flips through a binder. Rounded corners are minimal: cards sit at {rounded.xs} to {rounded.sm}, keeping the UI squared off in a way that echoes the rigid frames, protective cases, and slabs that physical collectibles arrive in. The overall register is sports-shop utility with a vault-grade presentation layer — no decorative flourishes, just tight hierarchy, authentication trust signals in green and amber, and enough visual gravity in that navy-purple foundation to make every signed item feel genuinely significant and provenance-worthy.
+name: "Radtke Sports"
+source_url: "https://radtkesports.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Deep navy-purple (#221155) anchors Radtke Sports' palette — an unusual choice for an autographs dealer that might default to team reds and stadium blues, but one that reads as vault-serious: collectible-grade, slightly ceremonial, the color of velvet display cases. Against that foundation, electric blue (#3858e9) fires across every primary action — buy buttons, cart CTAs, active navigation states — with an urgency that mirrors a live auction countdown rather than a passive browse. A sports red (#cc1818) punctuates sale flags and alert states, while amber (#f0b849) signals trophy-tier items and premium highlights, the closest this palette comes to a trophy gleam. Forest green (#4ab866) carries authentication confirmation marks — the verified-signature visual that is the brand's core trust signal. Type runs entirely on the system stack (Arial, Helvetica, -apple-system) at standard weights, because the product photography does the heavy lifting: signed helmets, framed jerseys, and authenticated lithographs need clear hierarchy, not typographic showmanship. Spacing is compact by collector-site convention — product grids run dense so shoppers can scan inventory efficiently, the way a collector flips through a binder. Rounded corners are minimal: cards sit at {rounded.xs} to {rounded.sm}, keeping the UI squared off in a way that echoes the rigid frames, protective cases, and slabs that physical collectibles arrive in. The overall register is sports-shop utility with a vault-grade presentation layer — no decorative flourishes, just tight hierarchy, authentication trust signals in green and amber, and enough visual gravity in that navy-purple foundation to make every signed item feel genuinely significant and provenance-worthy.
 
 colors:
   primary: "#221155"
@@ -401,6 +405,8 @@ components:
 - Authentication seal → collapses from horizontal layout to stacked vertical layout at mobile breakpoint
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No brand-custom typeface detected; all typography inferred from system font stacks (Arial, Helvetica, -apple-system). If Radtke Sports uses a licensed display font, it is loaded via JavaScript or third-party CDN not captured in extraction.
 - No meta theme-color was set, so mobile browser chrome color is undefined — likely defaults to white or system.

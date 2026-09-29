@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Magazine Heaven
-description: A deep-teal spine (#226d7a) runs through Magazine Heaven like a library shelf label — it is the brand's quiet, bookish anchor, appearing on the header, footer, and primary action buttons, while a pale cyan wash (#e4f5fa) backs the page canvas like the endpapers of a vintage hardcover. The extracted palette is narrow but intentional: the teal (#226d7a) and its slightly lighter sibling (#1e6d7a) form the structural color system, while #b0e0e9 and #22b8d1 serve as accent highlights for sale badges, category tags, and link underlines. The site reads as a specialist's shop — a place where magazine back-issues and niche periodicals are cataloged with the seriousness of a university library. Typography runs Arial and Open Sans at moderate sizes, with body text at 15–16px and display headings at 24–28px, never shouting. Corners are softly squared at {rounded.sm} for buttons and {rounded.md} for product cards, avoiding the pill-shaped friendliness of consumer marketplaces in favor of a more editorial, almost academic restraint. The search bar sits prominently in the header, a teal-outlined rectangle with a magnifying-glass icon, signaling that discovery here is query-driven rather than browse-driven. There is no hero carousel, no lifestyle photography — the page is a dense grid of magazine covers, each a small thumbnail with title, issue number, and price, arranged in a 4–6 column layout that prioritizes inventory over atmosphere. The footer is a full-width teal band (#226d7a) with white links, a closing gesture that feels like a bookplate.
+name: "Magazine Heaven"
+source_url: "https://www.magazineheaven.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep-teal spine (#226d7a) runs through Magazine Heaven like a library shelf label — it is the brand's quiet, bookish anchor, appearing on the header, footer, and primary action buttons, while a pale cyan wash (#e4f5fa) backs the page canvas like the endpapers of a vintage hardcover. The extracted palette is narrow but intentional: the teal (#226d7a) and its slightly lighter sibling (#1e6d7a) form the structural color system, while #b0e0e9 and #22b8d1 serve as accent highlights for sale badges, category tags, and link underlines. The site reads as a specialist's shop — a place where magazine back-issues and niche periodicals are cataloged with the seriousness of a university library. Typography runs Arial and Open Sans at moderate sizes, with body text at 15–16px and display headings at 24–28px, never shouting. Corners are softly squared at {rounded.sm} for buttons and {rounded.md} for product cards, avoiding the pill-shaped friendliness of consumer marketplaces in favor of a more editorial, almost academic restraint. The search bar sits prominently in the header, a teal-outlined rectangle with a magnifying-glass icon, signaling that discovery here is query-driven rather than browse-driven. There is no hero carousel, no lifestyle photography — the page is a dense grid of magazine covers, each a small thumbnail with title, issue number, and price, arranged in a 4–6 column layout that prioritizes inventory over atmosphere. The footer is a full-width teal band (#226d7a) with white links, a closing gesture that feels like a bookplate.
 
 colors:
   primary: "#226d7a"
@@ -326,6 +330,8 @@ components:
 - Category filter strip collapses to a horizontal scrollable row on mobile, with the first tag pinned as "All"
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted color palette is narrow (5 hex values) and may not represent the full brand system — missing secondary accents, error states, and hover colors beyond the primary-active derivation
 - No meta theme-color was detected, so the browser chrome color is unknown

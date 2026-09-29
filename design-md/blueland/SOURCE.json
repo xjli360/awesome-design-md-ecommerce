@@ -1,0 +1,1007 @@
+{
+  "source_url": "https://www.blueland.com",
+  "final_url": "https://www.blueland.com/",
+  "captured_at": "2026-09-28T04:10:46.349163+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.blueland.com",
+      "final_url": "https://www.blueland.com/",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "cebed714308769a1e9345a41d8a1593695738f60b0dd91458941508a01718024",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/root-CJ-KzOvo.css",
+      "final_url": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/root-CJ-KzOvo.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "04d71930743dbe4cbef7751c43ab465725bf0deb5a85c3d186ba512d55b12578",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css",
+      "final_url": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "57f5f148ef94c519bf0675a127eb77fe6a4a4c8bf29822613f20c7ea8d920d38",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/marquee-B6FBzj08.css",
+      "final_url": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/marquee-B6FBzj08.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "8337dcb42127b0d7d44817a84cb62b496add80b21eb76385b63c684901659673",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+      "final_url": "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "74ca6aae5468dbc924790c3b4d219a089b90a34bad53a0f7ca3a73e73b6f5ab8",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "3f50f79fe1cb5e5e5c734d9721fe17f6bdcc69ffa013a3c0fd08d75733a1de88",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 57,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/root-CJ-KzOvo.css",
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 12,
+      "sources": [
+        "https://www.blueland.com/",
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/root-CJ-KzOvo.css",
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css",
+        "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+      ]
+    },
+    "#000000": {
+      "count": 7,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/root-CJ-KzOvo.css",
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css",
+        "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+      ]
+    },
+    "#133cd1": {
+      "count": 5,
+      "sources": [
+        "https://www.blueland.com/",
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#00000080": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/root-CJ-KzOvo.css",
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#f0f7ff": {
+      "count": 4,
+      "sources": [
+        "https://www.blueland.com/",
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#dfb7ff": {
+      "count": 4,
+      "sources": [
+        "https://www.blueland.com/"
+      ]
+    },
+    "#ffd8b4": {
+      "count": 4,
+      "sources": [
+        "https://www.blueland.com/"
+      ]
+    },
+    "#ffffff00": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#e1f2ff": {
+      "count": 2,
+      "sources": [
+        "https://www.blueland.com/",
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#0066ff": {
+      "count": 2,
+      "sources": [
+        "https://www.blueland.com/"
+      ]
+    },
+    "#007aff": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/root-CJ-KzOvo.css",
+        "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#ce4947": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#ced4da": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#0000000f": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#eff5ff": {
+      "count": 1,
+      "sources": [
+        "https://www.blueland.com/"
+      ]
+    },
+    "#00000026": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/root-CJ-KzOvo.css"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#f3fff8": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#fff6f1": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#f7ebeb": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#fffcbb": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#000175": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#001589": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#0033a7": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#2c53c9": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#2d56d2": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#587bda": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#7d9ce8": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#b8caef": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#cbd9f7": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#e3eafd": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#f1f5fd": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#f4f8fe": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#b8caef4d": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#001e2b": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#003548": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#004d67": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#216582": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#3f7e9d": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#5b98b8": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#76b3d3": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#92cef0": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#a0ddff": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#c2e8ff": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#d5efff": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#a0ddff4d": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#0b1057": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#2d3265": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#444a7b": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#5e6493": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#7e84a9": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#9da3bd": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#c4ccdf": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#d6dbeb": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#e6ebf4": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#e9ecf6": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "#f3f5fb": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Cambria": [
+      "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+    ],
+    "Consolas": [
+      "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+    ],
+    "Courier New": [
+      "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+    ],
+    "GT-Pressura": [
+      "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+    ],
+    "GT-Pressura Fallback": [
+      "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+    ],
+    "Georgia": [
+      "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+    ],
+    "Hermann": [
+      "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+    ],
+    "Liberation Mono": [
+      "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+    ],
+    "Menlo": [
+      "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+    ],
+    "Monaco": [
+      "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+    ],
+    "Poppins": [
+      "https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap"
+    ],
+    "SFMono-Regular": [
+      "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+    ],
+    "Sailec": [
+      "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+    ],
+    "Sailec Fallback": [
+      "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+    ],
+    "Sailec-Hermann": [
+      "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+    ],
+    "Self-Modern": [
+      "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+    ],
+    "Times": [
+      "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+    ],
+    "Times New Roman": [
+      "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+    ],
+    "monospace": [
+      "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+    ],
+    "monospace!important": [
+      "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+    ],
+    "sans-serif": [
+      "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+    ],
+    "serif!important": [
+      "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+    ],
+    "swiper-icons": [
+      "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/root-CJ-KzOvo.css",
+      "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+    ],
+    "system-ui": [
+      "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+    ],
+    "ui-monospace": [
+      "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+    ],
+    "ui-serif": [
+      "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.blueland.com/",
+      "selector": ":root",
+      "declarations": "--header-mobile: 94px;\n      --header-tablet: 94px;\n      --header-desktop: 105px;\n\n      --visible-header-height-mobile: var(--header-mobile);\n      --visible-header-height-tablet: var(--header-tablet);\n      --visible-header-height-desktop: var(--header-desktop);\n\n      --header-with-subnavigation-mobile: 134px;\n      --header-with-subnavigation-tablet: 144px;\n      --header-with-subnavigation-desktop: 155px;\n\n      --header-with-subnavigation-blog-mobile: 154px;\n      --header-with-subnavigation-blog-tablet: 184px;\n      --header-with-subnavigation-blog-desktop: 195px;\n\n      --navigation-mobile: 40px;\n      --navigation-tablet: 56px;\n      --navigation-desktop: 65px;\n\n      --promobar-mo"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/root-CJ-KzOvo.css",
+      "selector": ":root",
+      "declarations": "--swiper-theme-color: #007aff"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/root-CJ-KzOvo.css",
+      "selector": ":root",
+      "declarations": "--swiper-navigation-size: 44px"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/root-CJ-KzOvo.css",
+      "selector": ".swiper-button-prev,.swiper-button-next",
+      "declarations": "position:absolute;top:var(--swiper-navigation-top-offset, 50%);width:calc(var(--swiper-navigation-size) / 44 * 27);height:var(--swiper-navigation-size);margin-top:calc(0px - (var(--swiper-navigation-size) / 2));z-index:10;cursor:pointer;display:flex;align-items:center;justify-content:center;color:var(--swiper-navigation-color, var(--swiper-theme-color))"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/root-CJ-KzOvo.css",
+      "selector": ".swiper-button-prev:after,.swiper-button-next:after",
+      "declarations": "font-family:swiper-icons;font-size:var(--swiper-navigation-size);text-transform:none!important;letter-spacing:0;font-variant:initial;line-height:1"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-feature-settings:inherit;font-variation-settings:inherit;font-size:100%;font-weight:inherit;line-height:inherit;letter-spacing:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css",
+      "selector": "button,input:where([type=button]),input:where([type=reset]),input:where([type=submit])",
+      "declarations": "-webkit-appearance:button;background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css",
+      "selector": ":root",
+      "declarations": "--spacing-700: 6.5rem;--spacing-750: 7rem;--spacing-900: 8rem;--spacing-1100: 10rem"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css",
+      "selector": ":root",
+      "declarations": "--spacing-125: 1.25rem;--spacing-150: 1.5rem;--spacing-200: 2rem;--spacing-250: 2.5rem;--spacing-300: 3rem;--spacing-350: 3.5rem;--spacing-400: 4rem;--spacing-450: 4.5rem;--spacing-500: 5rem;--spacing-600: 6rem;--spacing-700: 7rem;--spacing-750: 7.75rem;--spacing-900: 9rem;--spacing-1100: 11rem"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css",
+      "selector": ":root",
+      "declarations": "--corner-xxl: 1.5rem"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css",
+      "selector": ":root",
+      "declarations": "--button-large: 2.75rem;--button-medium: 2.375rem;--button-small: 2.25rem"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css",
+      "selector": ":root",
+      "declarations": "--button-large: 3rem;--button-medium: 2.5rem;--button-small: 2.25rem"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css",
+      "selector": ":root",
+      "declarations": "--icon-micro: .75rem;--icon-s: 1.125rem;--icon-regular: 1.5rem;--icon-l: 2rem;--image-icon-l: 4.5rem;--image-icon-xl: 6rem"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css",
+      "selector": ":root",
+      "declarations": "--icon-xs: 1rem;--icon-s: 1.25rem;--image-icon-l: 5rem;--image-icon-xl: 7rem"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css",
+      "selector": ":root",
+      "declarations": "--semantic-half-round-button-width: clamp( 12.5rem, -2.559rem + 31.373vw, 17.5rem );--semantic-order-line-item-thumbnail: 4.5rem;--semantic-pack-block-mw-4col: 17.3125rem;--semantic-pack-block-mw-5col: 22.3125rem;--semantic-pack-block-mw-6col: 27.25rem;--semantic-pack-block-mw-7col: 32.1875rem;--semantic-pack-block-mw-8col: 37.1875rem;--semantic-pack-block-mw-10col: 40.0625rem;--semantic-pack-block-mw-hp-200: 53rem;--semantic-pack-block-mw-11col: 55.8125rem;--semantic-pack-block-mw-12col: 57rem;--semantic-pack-block-mw-margin: 61rem;--semantic-page-block-mw-full-bleed: 63.9375rem;--semantic-page-block-mw-over-max: 63.9375rem;--semantic-page-block-mw-hero-margin: 57rem;--max-width-content-sta"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css",
+      "selector": ":root",
+      "declarations": "--semantic-half-round-button-width: clamp( 14rem, -.769rem + 23.077vw, 20rem );--semantic-pack-block-mw-4col: 28rem;--semantic-pack-block-mw-5col: 35.75rem;--semantic-pack-block-mw-6col: 43.5rem;--semantic-pack-block-mw-7col: 51.25rem;--semantic-pack-block-mw-8col: 59rem;--semantic-pack-block-mw-10col: 74.5rem;--semantic-pack-block-mw-hp-200: 80rem;--semantic-pack-block-mw-11col: 82.25rem;--semantic-pack-block-mw-12col: 90rem;--semantic-pack-block-mw-margin: 96rem;--semantic-page-block-mw-full-bleed: 102rem;--semantic-page-block-mw-over-max: 120rem;--semantic-page-block-mw-hero-margin: 98rem;--max-width-content-standard: 90rem"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css",
+      "selector": ":root",
+      "declarations": "--padding-vp-025: var(--spacing-150);--padding-vp-050: var(--spacing-250);--padding-vp-075: var(--spacing-300);--padding-vp-100: var(--spacing-400);--padding-vp-hero: var(--padding-vp-200);--padding-hp-025: var(--spacing-100);--padding-hp-050: var(--spacing-200);--padding-hp-075: var(--spacing-300);--padding-hp-100: var(--spacing-400);--padding-hp-200: var(--spacing-600)"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css",
+      "selector": ":root",
+      "declarations": "--padding-vp-025: var(--spacing-200);--padding-vp-050: var(--spacing-300);--padding-vp-075: var(--spacing-350);--padding-vp-100: var(--spacing-450);--padding-vp-200: var(--spacing-700);--padding-vp-medium: var(--spacing-075);--padding-vp-large: var(--spacing-100);--padding-vp-xl: var(--spacing-125);--padding-vp-hero: var(--padding-vp-050);--padding-hp-025: var(--spacing-200);--padding-hp-050: var(--spacing-300);--padding-hp-075: var(--spacing-450);--padding-hp-100: var(--spacing-600);--padding-hp-200: var(--spacing-1100);--padding-button-hp-mini: var(--spacing-100);--padding-button-hp-s: var(--spacing-150);--padding-button-hp-ml: var(--spacing-200);--padding-button-hp-l: var(--spacing-350);-"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css",
+      "selector": ":root",
+      "declarations": "--text-display-xl: 3.25rem;--text-title-1: 2.75rem;--text-title-2: 2rem;--text-title-3: 1.75rem;--text-title-4: 1.375rem;--text-title-5: 1.25rem;--text-title-6: 1.125rem;--text-title-7: 1rem;--text-title-8: .875rem;--text-body-editorial: 1.25rem;--text-body-xl: 1.25rem;--text-body-1: 1.125rem;--text-body-2: .9375rem;--text-button-ui-1: 1.0625rem;--text-button-ui-2: .9375rem;--text-button-body-2: .9375rem"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css",
+      "selector": ":root",
+      "declarations": "--text-display-xl: 3.5rem;--text-title-1: 3rem;--text-title-2: 2.5rem;--text-title-3: 2rem;--text-title-4: 1.625rem;--text-title-5: 1.375rem;--text-title-6: 1.25rem;--text-title-7: 1.0625rem;--text-title-8: .9375rem;--text-ui-1: 1.375rem;--text-ui-2: 1.25rem;--text-ui-3: 1.0625rem;--text-ui-4: .875rem;--text-ui-5: .8125rem;--text-body-editorial: 1.375rem;--text-body-xl: 1.375rem;--text-body-1: 1.25rem;--text-body-2: 1.0625rem;--text-body-3: .9375rem;--text-support-1: .875rem;--text-support-2: .8125rem;--text-button-ui-1: 1.25rem;--text-button-ui-2: 1.125rem;--text-button-ui-3: .9375rem;--text-button-body-2: 1.125rem;--text-button-body-3: .9375rem;--body-xl: var(--text-body-xl);--body-1: var("
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css",
+      "selector": ":root",
+      "declarations": "--cart-image-thumbnail-size: 5.625rem"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css",
+      "selector": "body",
+      "declarations": "margin:0;display:flex;min-height:var(--viewport-height);width:100%;flex-direction:column;background-color:var(--neutral-100);font-family:var(--font-primary);font-size:var(--text-body-2);font-weight:400;line-height:1.42;color:var(--dark-navy-10)"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css",
+      "selector": ".btn-nav:after",
+      "declarations": "position:absolute;bottom:0;left:0;height:3px;width:100%;transform-origin:bottom;--tw-scale-x:0;--tw-scale-y:0;transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));background-color:var(--dark-navy-10);content:var(--tw-content);transition-property:color,background-color,border-color,text-decoration-color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter;transition-timing-function:cubic-bezier(.4,0,.2,1);transition-duration:.15s"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css",
+      "selector": ".btn-nav:hover:after",
+      "declarations": "content:var(--tw-content);--tw-scale-x:1;--tw-scale-y:1;transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css",
+      "selector": ".text-button-with-arrow:before",
+      "declarations": "content:\"\";-webkit-mask:url(https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/svgs/arrow-right.svg) no-repeat center center;mask:url(https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/svgs/arrow-right.svg) no-repeat center center;-webkit-mask-size:16px 16px;mask-size:16px 16px;background-color:currentColor;position:absolute;right:0;top:50%;transform:translateY(-50%);transition:transform .3s,color .3s;width:16px;height:16px"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css",
+      "selector": ".btn-select",
+      "declarations": "position:relative;display:flex;height:3rem;align-items:center;justify-content:center;overflow:hidden;border-radius:.25rem;border-width:1px;border-color:var(--dark-navy-80);background-color:var(--neutral-100);padding:.75rem 1.25rem;font-size:var(--text-body-3);line-height:1.5;color:var(--dark-navy-10);transition-property:color,background-color,border-color,text-decoration-color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter;transition-timing-function:cubic-bezier(.4,0,.2,1);transition-duration:.15s"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css",
+      "selector": ".btn-select:hover",
+      "declarations": "background-color:var(--blue-98)"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css",
+      "selector": ":root",
+      "declarations": "--upsell-banner-bg-color: #BCD6FF;--drawer-width: 37.5rem;--drawer-new-width: 40.9375rem;--content-max-width: 96rem;--product-image-aspect-ratio: 1 / 1"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css",
+      "selector": ".product-media-thumb-nav-prev,.product-media-thumb-nav-next",
+      "declarations": "position:absolute;top:var(--swiper-navigation-top-offset, 50%);width:calc(var(--swiper-navigation-size) / 44 * 27);height:var(--swiper-navigation-size);margin-top:calc(0px - (var(--swiper-navigation-size) / 2));z-index:10;cursor:pointer;display:flex;align-items:center;justify-content:center;color:var(--swiper-navigation-color, var(--swiper-theme-color))"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css",
+      "selector": ".fairing__action--submit.btn[type=submit]",
+      "declarations": "display:inline-flex;min-height:var(--button-medium);align-items:center;justify-content:center;border-radius:9999px;border-width:1px;border-color:var(--brand-35);background-color:var(--brand-35);padding-left:var(--spacing-200);padding-right:var(--spacing-200);padding-bottom:11px;padding-top:11px;font-family:var(--font-secondary);font-size:var(--text-button-ui-2);line-height:1;font-weight:700;text-transform:uppercase;letter-spacing:var(--tracking-md);color:var(--neutral-100);transition-property:color,background-color,border-color,text-decoration-color,fill,stroke;transition-timing-function:cubic-bezier(.4,0,.2,1);transition-duration:.2s;display:block;text-box:trim-both cap alphabetic"
+    }
+  ],
+  "confidence": "historical_partial_css_evidence",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Eco-Friendly Cleaning Products for Home | Blueland",
+  "schema_version": 1,
+  "design_origin": "historical",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.blueland.com/",
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "colors.primary-active": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "colors.primary-disabled": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "colors.primary-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "colors.primary-mid": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "colors.primary-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "colors.hairline-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.blueland.com/",
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/root-CJ-KzOvo.css",
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css",
+        "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.blueland.com/",
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "colors.surface-blue-pale": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.blueland.com/",
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/root-CJ-KzOvo.css",
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css",
+        "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+      ]
+    },
+    "colors.accent-yellow": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "colors.accent-green": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.accent-lavender": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.accent-peach": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.accent-mint": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "colors.accent-blush": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "colors.accent-rose": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "colors.accent-sky": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "colors.error": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/31390/27279/56847/4531808/assets/app-IMqYUXmN.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-lg": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.title-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.title-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.body-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.body-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.caption": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.label-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.button-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.button-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.nav-link": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.price-display": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.impact-counter": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "rounded.none": {
+      "status": "unverified"
+    },
+    "rounded.xs": {
+      "status": "unverified"
+    },
+    "rounded.sm": {
+      "status": "unverified"
+    },
+    "rounded.md": {
+      "status": "unverified"
+    },
+    "rounded.lg": {
+      "status": "unverified"
+    },
+    "rounded.xl": {
+      "status": "unverified"
+    },
+    "rounded.full": {
+      "status": "unverified"
+    },
+    "spacing.xxs": {
+      "status": "unverified"
+    },
+    "spacing.xs": {
+      "status": "unverified"
+    },
+    "spacing.sm": {
+      "status": "unverified"
+    },
+    "spacing.md": {
+      "status": "unverified"
+    },
+    "spacing.base": {
+      "status": "unverified"
+    },
+    "spacing.lg": {
+      "status": "unverified"
+    },
+    "spacing.xl": {
+      "status": "unverified"
+    },
+    "spacing.xxl": {
+      "status": "unverified"
+    },
+    "spacing.section": {
+      "status": "unverified"
+    },
+    "components.button-primary": {
+      "status": "unverified"
+    },
+    "components.button-primary-active": {
+      "status": "unverified"
+    },
+    "components.button-primary-disabled": {
+      "status": "unverified"
+    },
+    "components.button-secondary": {
+      "status": "unverified"
+    },
+    "components.button-ghost": {
+      "status": "unverified"
+    },
+    "components.text-input": {
+      "status": "unverified"
+    },
+    "components.nav-bar": {
+      "status": "unverified"
+    },
+    "components.product-card": {
+      "status": "unverified"
+    },
+    "components.scent-chip": {
+      "status": "unverified"
+    },
+    "components.color-swatch": {
+      "status": "unverified"
+    },
+    "components.eco-badge": {
+      "status": "unverified"
+    },
+    "components.refill-badge": {
+      "status": "unverified"
+    },
+    "components.impact-stat-band": {
+      "status": "unverified"
+    },
+    "components.hero-banner": {
+      "status": "unverified"
+    },
+    "components.subscription-toggle": {
+      "status": "unverified"
+    },
+    "components.starter-kit-card": {
+      "status": "unverified"
+    },
+    "components.scent-variant-card": {
+      "status": "unverified"
+    },
+    "components.footer": {
+      "status": "unverified"
+    }
+  },
+  "observed_color_tokens": 21,
+  "total_color_tokens": 25
+}

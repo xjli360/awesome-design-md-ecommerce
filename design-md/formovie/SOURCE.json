@@ -1,0 +1,865 @@
+{
+  "source_url": "https://formovie.com",
+  "final_url": "https://www.formovie.com/",
+  "captured_at": "2026-09-28T09:22:40.434171+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://formovie.com",
+      "final_url": "https://www.formovie.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "6786461f31ecf1c983e1432a40c7413f6160b556100b30a425d826fe6a38f4b7",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.formovie.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.formovie.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076",
+      "final_url": "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a440d8abdc0699d36757a550f155a335b8427f2e6422733a2436eaef9005832b",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/widget_v3_theme_leex.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/widget_v3_theme_leex.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "250b2ccaf0a39d063101e669fd2b545bb8ff375252455738bd9dd313775baace",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "be10bc4b16346e787891f1da5de658505019fcd30172651891a4bf550c948e36",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 254,
+      "sources": [
+        "https://www.formovie.com/",
+        "https://www.formovie.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#2741d6": {
+      "count": 175,
+      "sources": [
+        "https://www.formovie.com/",
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#000000": {
+      "count": 110,
+      "sources": [
+        "https://www.formovie.com/",
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#979797": {
+      "count": 47,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 37,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#3c3c3c": {
+      "count": 37,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#1f34ab": {
+      "count": 37,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 36,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#eeeeee": {
+      "count": 32,
+      "sources": [
+        "https://www.formovie.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#009a00": {
+      "count": 30,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#e22839": {
+      "count": 29,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#2137b6": {
+      "count": 26,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#c2c2c2": {
+      "count": 23,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#feaf07": {
+      "count": 21,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#324062": {
+      "count": 20,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#2a3094": {
+      "count": 20,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#dedede": {
+      "count": 19,
+      "sources": [
+        "https://www.formovie.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#818181": {
+      "count": 13,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#1d31a1": {
+      "count": 12,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#333333": {
+      "count": 11,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/widget_v3_theme_leex.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#666666": {
+      "count": 10,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 9,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#fafafa": {
+      "count": 8,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#cccccc": {
+      "count": 7,
+      "sources": [
+        "https://www.formovie.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#606060": {
+      "count": 7,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 6,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#555555": {
+      "count": 6,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#93a0eb": {
+      "count": 5,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#172780": {
+      "count": 5,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#1e263b": {
+      "count": 5,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#626262": {
+      "count": 5,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#191d59": {
+      "count": 5,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#005c00": {
+      "count": 5,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#986904": {
+      "count": 5,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#881822": {
+      "count": 5,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#242424": {
+      "count": 5,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#282828": {
+      "count": 5,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#108474": {
+      "count": 4,
+      "sources": [
+        "https://www.formovie.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 4,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#28334e": {
+      "count": 4,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 4,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#222676": {
+      "count": 4,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#007b00": {
+      "count": 4,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#b5202e": {
+      "count": 4,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#303030": {
+      "count": 4,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#fbcd0a": {
+      "count": 3,
+      "sources": [
+        "https://www.formovie.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#d4d9f7": {
+      "count": 3,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#bfc3de": {
+      "count": 3,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#d4d6ea": {
+      "count": 3,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#bfc1d3": {
+      "count": 3,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#ccebcc": {
+      "count": 3,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#b8d4b8": {
+      "count": 3,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#ffefcd": {
+      "count": 3,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#e6d7b9": {
+      "count": 3,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#f9d4d7": {
+      "count": 3,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#e0bfc2": {
+      "count": 3,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 3,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#bec6f3": {
+      "count": 3,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 3,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "#feb720": {
+      "count": 3,
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Baskerville": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Condensed Bold": [
+      "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+    ],
+    "Helvetica": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Inter": [
+      "https://www.formovie.com/"
+    ],
+    "JudgemeIcons": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons\" !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons' !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeStar": [
+      "https://www.formovie.com/"
+    ],
+    "JudgemeStar' !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Nunito Sans": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "iconfont": [
+      "https://www.formovie.com/",
+      "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+    ],
+    "monospace": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "sans-serif": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "swiper-icons": [
+      "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.formovie.com/",
+      "selector": ":root",
+      "declarations": "--color-base-text: #1A1B18;\n    --color-base-text-rgb: 26, 27, 24;\n    --color-base-background-1: #FFFFFF;\n    --color-base-background-1-rgb: 255, 255, 255;\n    --color-base-background-2: #FAF1E9;\n    --color-base-background-2-rgb: 250, 241, 233;\n    --color-base-solid-button-labels: #FFFFFF;\n    --color-base-solid-button-labels-rgb: 255, 255, 255;\n    --color-base-outline-button-labels: #445958;\n    --color-base-outline-button-labels-rgb: 68, 89, 88;\n    --color-base-accent-1: #445958;\n    --color-base-accent-1-rgb: 68, 89, 88;\n    --color-base-accent-2: #9D572C;\n    --color-base-accent-2-rgb: 157, 87, 44;\n\n    --color-base-text-opacity-10-percent: #e8e8e8;\n    --color-base-text-opacity-20-"
+    },
+    {
+      "source": "https://www.formovie.com/",
+      "selector": "body",
+      "declarations": "font-family: var(--se-font-sans-serif);"
+    },
+    {
+      "source": "https://www.formovie.com/",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #2741D6;--jdgm-secondary-color: rgba(39,65,214,0.1);--jdgm-star-color: #FBCD0A;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #2741D6;--jdgm-paginate-color: #000000;--jdgm-border-radius: 10;--jdgm-reviewer-name-color: #000000"
+    },
+    {
+      "source": "https://www.formovie.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.formovie.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.formovie.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.formovie.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.formovie.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.formovie.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076",
+      "selector": ":root",
+      "declarations": "--se-blue: #2A7DE1;--se-indigo: #6610f2;--se-purple: #6f42c1;--se-pink: #d63384;--se-red: #E22839;--se-orange: #fd7e14;--se-yellow: #FEAF07;--se-green: #009A00;--se-teal: #20c997;--se-cyan: #0dcaf0;--se-white: #fff;--se-gray: #979797;--se-gray-dark: #606060;--se-gray-100: #FAFAFA;--se-gray-200: #F5F5F5;--se-gray-300: #F0F0F0;--se-gray-400: #DEDEDE;--se-gray-500: #C2C2C2;--se-gray-600: #979797;--se-gray-700: #818181;--se-gray-800: #606060;--se-gray-900: #3C3C3C;--se-primary: #2741D6;--se-accent: #324062;--se-jasmine: #F5F5F5;--se-secondary: #2A3094;--se-success: #009A00;--se-warning: #FEAF07;--se-danger: #E22839;--se-light: #fff;--se-dark: #3C3C3C;--se-primary-rgb: 39, 65, 214;--se-accent-rgb"
+    },
+    {
+      "source": "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076",
+      "selector": "body",
+      "declarations": "margin:0;font-family:var(--se-body-font-family);font-size:var(--se-body-font-size);font-weight:var(--se-body-font-weight);line-height:var(--se-body-line-height);color:var(--se-body-color);text-align:var(--se-body-text-align);background-color:var(--se-body-bg);-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:rgba(0,0,0,0)"
+    },
+    {
+      "source": "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076",
+      "selector": "thead,tbody,tfoot,tr,td,th",
+      "declarations": "border-color:inherit;border-style:solid;border-width:0"
+    },
+    {
+      "source": "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076",
+      "selector": "input,button,select,optgroup,textarea",
+      "declarations": "margin:0;font-family:inherit;font-size:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076",
+      "selector": ".table-striped>tbody>tr:nth-of-type(odd)>*",
+      "declarations": "--se-table-accent-bg: var(--se-table-striped-bg);color:var(--se-table-striped-color)"
+    },
+    {
+      "source": "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076",
+      "selector": ".table-hover>tbody>tr:hover>*",
+      "declarations": "--se-table-accent-bg: var(--se-table-hover-bg);color:var(--se-table-hover-color)"
+    },
+    {
+      "source": "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076",
+      "selector": ".form-control::-webkit-file-upload-button",
+      "declarations": "padding:.59375rem 1rem;margin:-0.59375rem -1rem;-webkit-margin-end:1rem;margin-inline-end:1rem;color:#000;background-color:#f5f5f5;pointer-events:none;border-color:inherit;border-style:solid;border-width:0;border-inline-end-width:1px;border-radius:0;-webkit-transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out"
+    },
+    {
+      "source": "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076",
+      "selector": ".form-control::file-selector-button",
+      "declarations": "padding:.59375rem 1rem;margin:-0.59375rem -1rem;-webkit-margin-end:1rem;margin-inline-end:1rem;color:#000;background-color:#f5f5f5;pointer-events:none;border-color:inherit;border-style:solid;border-width:0;border-inline-end-width:1px;border-radius:0;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out"
+    },
+    {
+      "source": "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076",
+      "selector": ".form-control:hover:not(:disabled):not([readonly])::-webkit-file-upload-button",
+      "declarations": "background-color:#e9e9e9"
+    },
+    {
+      "source": "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076",
+      "selector": ".form-control:hover:not(:disabled):not([readonly])::file-selector-button",
+      "declarations": "background-color:#e9e9e9"
+    },
+    {
+      "source": "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076",
+      "selector": ".form-control::-webkit-file-upload-button",
+      "declarations": "padding:.59375rem 1rem;margin:-0.59375rem -1rem;-webkit-margin-end:1rem;margin-inline-end:1rem;color:#000;background-color:#f5f5f5;pointer-events:none;border-color:inherit;border-style:solid;border-width:0;border-inline-end-width:1px;border-radius:0;-webkit-transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out"
+    },
+    {
+      "source": "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076",
+      "selector": ".form-control:hover:not(:disabled):not([readonly])::-webkit-file-upload-button",
+      "declarations": "background-color:#e9e9e9"
+    },
+    {
+      "source": "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076",
+      "selector": "#shopify-privacy-banner-div #shopify-privacy-banner-inner-div #shopify-privacy-banner-accept-button,#shopify-privacy-banner-div #shopify-privacy-banner-inner-di",
+      "declarations": "display:inline-block;font-weight:600;line-height:1.5;color:#000;text-align:center;text-decoration:none;vertical-align:middle;cursor:pointer;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;background-color:transparent;border:1.5px solid transparent;padding:.65625rem 2.90625rem;font-size:0.875em;border-radius:50rem;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out"
+    },
+    {
+      "source": "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076",
+      "selector": "vacy-banner-div #shopify-privacy-banner-inner-div #shopify-privacy-banner-accept-button:hover,#shopify-privacy-banner-div #shopify-privacy-banner-inner-div #sho",
+      "declarations": "color:#000"
+    },
+    {
+      "source": "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076",
+      "selector": ".btn-primary,.shopify-challenge__container form .shopify-challenge__button,#shopify-privacy-banner-div #shopify-privacy-banner-inner-div #shopify-privacy-banner",
+      "declarations": "color:#fff;background-color:#2741d6;border-color:#2741d6"
+    },
+    {
+      "source": "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076",
+      "selector": ".btn-primary:hover,.shopify-challenge__container form .shopify-challenge__button:hover,#shopify-privacy-banner-div #shopify-privacy-banner-inner-div #shopify-pr",
+      "declarations": "color:#fff;background-color:#2137b6;border-color:#1f34ab"
+    },
+    {
+      "source": "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076",
+      "selector": "-button,.btn-primary:focus,.shopify-challenge__container form .shopify-challenge__button:focus,#shopify-privacy-banner-div #shopify-privacy-banner-inner-div #sh",
+      "declarations": "color:#fff;background-color:#2137b6;border-color:#1f34ab;box-shadow:0 0 0 0 rgba(71,94,220,.5)"
+    },
+    {
+      "source": "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076",
+      "selector": "ify-challenge__container form .show>.dropdown-toggle.shopify-challenge__button,#shopify-privacy-banner-div #shopify-privacy-banner-inner-div .show>.dropdown-tog",
+      "declarations": "color:#fff;background-color:#1f34ab;border-color:#1d31a1"
+    },
+    {
+      "source": "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076",
+      "selector": "btn-primary.disabled,.shopify-challenge__container form .disabled.shopify-challenge__button,#shopify-privacy-banner-div #shopify-privacy-banner-inner-div .disab",
+      "declarations": "color:#fff;background-color:#2741d6;border-color:#2741d6"
+    },
+    {
+      "source": "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076",
+      "selector": ".btn-accent",
+      "declarations": "color:#fff;background-color:#324062;border-color:#324062"
+    },
+    {
+      "source": "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076",
+      "selector": ".btn-accent:hover",
+      "declarations": "color:#fff;background-color:#2b3653;border-color:#28334e"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Formovie Global | Cinema in You Home - Formovie Global",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.formovie.com/",
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.formovie.com/",
+        "https://www.formovie.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/widget_v3_theme_leex.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.formovie.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.formovie.com/",
+        "https://www.formovie.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.accent-slate": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "colors.secondary-indigo": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "colors.star": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.formovie.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.formovie.com/cdn/shop/t/75/assets/base.min.css?v=79267621034279131001739429076"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-comparison-table": {
+      "status": "inferred"
+    }
+  }
+}

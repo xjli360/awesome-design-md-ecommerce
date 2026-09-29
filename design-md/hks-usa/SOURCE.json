@@ -1,0 +1,541 @@
+{
+  "source_url": "https://hksusa.com",
+  "final_url": "https://hksusa.com/",
+  "captured_at": "2026-09-29T04:19:16.096843+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://hksusa.com",
+      "final_url": "https://hksusa.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "f197b70350a7c7c2a117886543036274ef1743f508b4d418ccf9189298d05c26",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://hksusa.com/_next/static/css/512297dbbe15fed1.css",
+      "final_url": "https://hksusa.com/_next/static/css/512297dbbe15fed1.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "863294509b134aa903eb9115a10f34748078e1c46ac2c0842b5cdbf6273f15c7",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://hksusa.com/_next/static/css/294dd07620d1a861.css",
+      "final_url": "https://hksusa.com/_next/static/css/294dd07620d1a861.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "3952c22eb9dfef2639040ccfd035264f5c903585e5ec5d2246fd31a05ffeae5f",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://hksusa.com/_next/static/css/4ab4d7ac198f9c8d.css",
+      "final_url": "https://hksusa.com/_next/static/css/4ab4d7ac198f9c8d.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "457c6336f0fad7ba74172f442c0f81cb4af5a83757015c15710293f384c84d41",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://hksusa.com/_next/static/css/ec380224287ca153.css",
+      "final_url": "https://hksusa.com/_next/static/css/ec380224287ca153.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "036befe7bc74346ca7a04384554d61e5d5afb329feadabac59ef5f89540bb9d7",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://hksusa.com/_next/static/css/bbc7ed2a0fb03b83.css",
+      "final_url": "https://hksusa.com/_next/static/css/bbc7ed2a0fb03b83.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "9b4d9d16e8f964ab0bb59b2e1fe027157be671d958c79ef690f28571b3960d42",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 25,
+      "sources": [
+        "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 7,
+      "sources": [
+        "https://hksusa.com/_next/static/css/512297dbbe15fed1.css",
+        "https://hksusa.com/_next/static/css/294dd07620d1a861.css",
+        "https://hksusa.com/_next/static/css/bbc7ed2a0fb03b83.css"
+      ]
+    },
+    "#00cea8": {
+      "count": 6,
+      "sources": [
+        "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+      ]
+    },
+    "#1b1c1b": {
+      "count": 3,
+      "sources": [
+        "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+      ]
+    },
+    "#656140": {
+      "count": 3,
+      "sources": [
+        "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+      ]
+    },
+    "#614545": {
+      "count": 3,
+      "sources": [
+        "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+      ]
+    },
+    "#645a5c": {
+      "count": 3,
+      "sources": [
+        "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+      ]
+    },
+    "#121e22": {
+      "count": 3,
+      "sources": [
+        "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+      ]
+    },
+    "#dfdfdf": {
+      "count": 3,
+      "sources": [
+        "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+      ]
+    },
+    "#000000": {
+      "count": 3,
+      "sources": [
+        "https://hksusa.com/_next/static/css/512297dbbe15fed1.css",
+        "https://hksusa.com/_next/static/css/294dd07620d1a861.css",
+        "https://hksusa.com/_next/static/css/bbc7ed2a0fb03b83.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 2,
+      "sources": [
+        "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+      ]
+    },
+    "#101010": {
+      "count": 2,
+      "sources": [
+        "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+      ]
+    },
+    "#430f77": {
+      "count": 2,
+      "sources": [
+        "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+      ]
+    },
+    "#00b194": {
+      "count": 2,
+      "sources": [
+        "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 1,
+      "sources": [
+        "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+      ]
+    },
+    "#1d1d1d": {
+      "count": 1,
+      "sources": [
+        "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+      ]
+    },
+    "#7f1d1d": {
+      "count": 1,
+      "sources": [
+        "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+      ]
+    },
+    "#555555": {
+      "count": 1,
+      "sources": [
+        "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+      ]
+    },
+    "#202020": {
+      "count": 1,
+      "sources": [
+        "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+      ]
+    },
+    "#ff253a": {
+      "count": 1,
+      "sources": [
+        "https://hksusa.com/_next/static/css/294dd07620d1a861.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 1,
+      "sources": [
+        "https://hksusa.com/_next/static/css/294dd07620d1a861.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Apple Color Emoji": [
+      "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+    ],
+    "Consolas": [
+      "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+    ],
+    "Courier New": [
+      "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+    ],
+    "Liberation Mono": [
+      "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+    ],
+    "Menlo": [
+      "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+    ],
+    "Monaco": [
+      "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+    ],
+    "Noto Color Emoji": [
+      "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+    ],
+    "SFMono-Regular": [
+      "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+    ],
+    "Segoe UI Emoji": [
+      "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+    ],
+    "Segoe UI Symbol": [
+      "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+    ],
+    "__Open_Sans_908882": [
+      "https://hksusa.com/_next/static/css/4ab4d7ac198f9c8d.css"
+    ],
+    "__Open_Sans_Fallback_908882": [
+      "https://hksusa.com/_next/static/css/4ab4d7ac198f9c8d.css"
+    ],
+    "__Roboto_Condensed_Fallback_a1f95a": [
+      "https://hksusa.com/_next/static/css/ec380224287ca153.css"
+    ],
+    "__Roboto_Condensed_a1f95a": [
+      "https://hksusa.com/_next/static/css/ec380224287ca153.css"
+    ],
+    "monospace": [
+      "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+    ],
+    "sans-serif": [
+      "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+    ],
+    "system-ui": [
+      "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+    ],
+    "ui-monospace": [
+      "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+    ],
+    "ui-sans-serif": [
+      "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://hksusa.com/_next/static/css/512297dbbe15fed1.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-feature-settings:inherit;font-variation-settings:inherit;font-size:100%;font-weight:inherit;line-height:inherit;letter-spacing:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://hksusa.com/_next/static/css/512297dbbe15fed1.css",
+      "selector": "button,input:where([type=button]),input:where([type=reset]),input:where([type=submit])",
+      "declarations": "-webkit-appearance:button;background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://hksusa.com/_next/static/css/512297dbbe15fed1.css",
+      "selector": ":root",
+      "declarations": "--theme-primary-color:#00cea8;--theme-primary-border-color:linear-gradient(90.13deg,#430f77 20%,#00cea8 55%);--theme-primary-webkit-border-color:-webkit-linear-gradient(-90.13deg,#430f77 20%,#00cea8 55%);--dropdown-hover-color:#00cea8;--scroll-bar-color:#555;--scroll-bar-bg-color:#202020"
+    },
+    {
+      "source": "https://hksusa.com/_next/static/css/512297dbbe15fed1.css",
+      "selector": "#mega_ProductsContent *,#mega_SearchByVehi *",
+      "declarations": "scrollbar-width:thin;scrollbar-color:var(--scroll-bar-color) var(--scroll-bar-bg-color)"
+    },
+    {
+      "source": "https://hksusa.com/_next/static/css/512297dbbe15fed1.css",
+      "selector": "#distDealer ::-webkit-scrollbar-thumb,#mega_ProductsContent ::-webkit-scrollbar-thumb,#mega_SearchByVehi ::-webkit-scrollbar-thumb",
+      "declarations": "background-color:var(--scroll-bar-color);border-radius:20px;border:3px solid var(--scroll-bar-bg-color)"
+    },
+    {
+      "source": "https://hksusa.com/_next/static/css/512297dbbe15fed1.css",
+      "selector": "#floatNav .btnLink",
+      "declarations": "position:relative;writing-mode:vertical-rl;text-orientation:sideways;background:#101010;color:#dfdfdf;display:inline-flex;align-items:center;justify-content:center;border-top-right-radius:.75rem;border-bottom-right-radius:.75rem;border-width:.125rem .125rem .125rem 0;border-color:#dfdfdf;width:3rem;line-height:1;transition:all .2s ease-in-out;padding:.5rem 0;font-weight:600;font-size:1.2rem"
+    },
+    {
+      "source": "https://hksusa.com/_next/static/css/512297dbbe15fed1.css",
+      "selector": "#floatNav .btnLink:hover",
+      "declarations": "left:0;color:#00cea8;border-color:#00cea8"
+    },
+    {
+      "source": "https://hksusa.com/_next/static/css/512297dbbe15fed1.css",
+      "selector": "#floatNav .btnLink:hover",
+      "declarations": "border-color:#dfdfdf"
+    },
+    {
+      "source": "https://hksusa.com/_next/static/css/512297dbbe15fed1.css",
+      "selector": "#floatNav .btnLink",
+      "declarations": "writing-mode:initial;text-orientation:mixed;display:inline-flex;align-items:center;justify-content:center;background:#00b194;color:#fff;border-width:0;border-top-right-radius:0;border-bottom-left-radius:.7rem;border-bottom-right-radius:.7rem;width:auto;line-height:1;padding:.6rem 1.5rem;font-weight:600;font-size:1.1rem"
+    },
+    {
+      "source": "https://hksusa.com/_next/static/css/512297dbbe15fed1.css",
+      "selector": "#floatNav .btnLink:hover",
+      "declarations": "background:#00b194;color:inherit;border-color:initial"
+    },
+    {
+      "source": "https://hksusa.com/_next/static/css/294dd07620d1a861.css",
+      "selector": ":host,:root",
+      "declarations": "--fa-font-solid:normal 900 1em/1 \"Font Awesome 6 Free\";--fa-font-regular:normal 400 1em/1 \"Font Awesome 6 Free\";--fa-font-light:normal 300 1em/1 \"Font Awesome 6 Pro\";--fa-font-thin:normal 100 1em/1 \"Font Awesome 6 Pro\";--fa-font-duotone:normal 900 1em/1 \"Font Awesome 6 Duotone\";--fa-font-brands:normal 400 1em/1 \"Font Awesome 6 Brands\";--fa-font-sharp-solid:normal 900 1em/1 \"Font Awesome 6 Sharp\";--fa-font-sharp-regular:normal 400 1em/1 \"Font Awesome 6 Sharp\";--fa-font-sharp-light:normal 300 1em/1 \"Font Awesome 6 Sharp\";--fa-font-sharp-thin:normal 100 1em/1 \"Font Awesome 6 Sharp\";--fa-font-sharp-duotone-solid:normal 900 1em/1 \"Font Awesome 6 Sharp Duotone\""
+    },
+    {
+      "source": "https://hksusa.com/_next/static/css/bbc7ed2a0fb03b83.css",
+      "selector": ".Slider_exploreButton__N_JBZ",
+      "declarations": "background:#fff;font-weight:500;color:#000;padding:10px 20px;border-radius:9999px;display:flex;align-items:center;gap:.5ch;transition:transform .3s ease-in-out"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "HKS High Performance Auto Parts | HKS High Performance Auto Parts",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+      ]
+    },
+    "colors.accent-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+      ]
+    },
+    "colors.accent-purple": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://hksusa.com/_next/static/css/294dd07620d1a861.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://hksusa.com/_next/static/css/512297dbbe15fed1.css",
+        "https://hksusa.com/_next/static/css/294dd07620d1a861.css",
+        "https://hksusa.com/_next/static/css/bbc7ed2a0fb03b83.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://hksusa.com/_next/static/css/294dd07620d1a861.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+      ]
+    },
+    "colors.surface-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+      ]
+    },
+    "colors.surface-dark-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+      ]
+    },
+    "colors.scroll-track": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+      ]
+    },
+    "colors.scroll-thumb": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://hksusa.com/_next/static/css/512297dbbe15fed1.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://hksusa.com/_next/static/css/512297dbbe15fed1.css",
+        "https://hksusa.com/_next/static/css/294dd07620d1a861.css",
+        "https://hksusa.com/_next/static/css/bbc7ed2a0fb03b83.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.vehicle-fitment-selector": {
+      "status": "inferred"
+    }
+  }
+}

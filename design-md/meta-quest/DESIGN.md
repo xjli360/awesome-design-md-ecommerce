@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Meta Quest
-description: A portal into immersive worlds built on a deep blue-black ink (#1c1e21) and a single electric accent — #0064e0 — that pulses through every primary CTA, navigation highlight, and interactive glow. The palette reads like a dark-mode-first system even on light canvases: #f0f2f5 surfaces sit under #1c2b33 text blocks, while #e7f3ff provides a cool, airy highlight for selected states and active navigation. The brand's true signature, however, is the hot pink #ff006a — a disruptive accent that appears in limited, high-impact moments: promotional badges, limited-edition hardware callouts, and the occasional "NEW" tag. Type runs Optimistic Display at display sizes and Montserrat for body, with Arial and Helvetica Neue as fallbacks — a pragmatic, performance-conscious stack that prioritizes readability across VR headsets, companion apps, and web storefronts. Rounded corners are minimal: buttons take {rounded.sm} (8px), cards take {rounded.md} (12px), and only the search bar and profile avatars reach {rounded.full} (9999px). The system avoids decorative flourishes; every pixel serves clarity, hierarchy, or action. The result is a design language that feels like a control room for virtual reality — precise, dark-anchored, and built for wayfinding across hardware specs, game libraries, and accessory ecosystems.
+name: "Meta Quest"
+source_url: "https://www.meta.com/quest"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A portal into immersive worlds built on a deep blue-black ink (#1c1e21) and a single electric accent — #0064e0 — that pulses through every primary CTA, navigation highlight, and interactive glow. The palette reads like a dark-mode-first system even on light canvases: #f0f2f5 surfaces sit under #1c2b33 text blocks, while #e7f3ff provides a cool, airy highlight for selected states and active navigation. The brand's true signature, however, is the hot pink #ff006a — a disruptive accent that appears in limited, high-impact moments: promotional badges, limited-edition hardware callouts, and the occasional "NEW" tag. Type runs Optimistic Display at display sizes and Montserrat for body, with Arial and Helvetica Neue as fallbacks — a pragmatic, performance-conscious stack that prioritizes readability across VR headsets, companion apps, and web storefronts. Rounded corners are minimal: buttons take {rounded.sm} (8px), cards take {rounded.md} (12px), and only the search bar and profile avatars reach {rounded.full} (9999px). The system avoids decorative flourishes; every pixel serves clarity, hierarchy, or action. The result is a design language that feels like a control room for virtual reality — precise, dark-anchored, and built for wayfinding across hardware specs, game libraries, and accessory ecosystems.
 
 colors:
   primary: "#0064e0"
@@ -458,6 +462,8 @@ components:
 - Side filters on category pages become a bottom sheet on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for most components were not reliably extracted from the live site; assumed standard web patterns (e.g., primary button darkens on hover, input gains border on focus)
 - Error states for text inputs (red border, error message) were not observed; assumed standard pattern using #fb724b

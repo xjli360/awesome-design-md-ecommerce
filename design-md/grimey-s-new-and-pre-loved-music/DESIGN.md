@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Grimey's New & Pre-Loved Music
-description: A deep, ink-black (#112233) canvas sets the stage for a record store that feels more like a late-night listening session than a retail transaction. The brand's primary voltage is a weathered crimson (#bd0000) that appears on the "New Arrivals" badge, the shopping-cart icon, and the footer's newsletter call-to-action — a single accent that reads like a vintage record-label logo rather than a generic ecommerce button. The site's typography runs Alice, a serif face with the warmth of a handwritten setlist, at 16–20px for body copy, while navigation links sit in Arial at 14px with a muted gray (#aaaaaa) that recedes into the dark background. Product cards float on a near-white surface (#fafafa) with a soft shadow, their corners gently rounded ({rounded.md}), mimicking the feel of flipping through a crate of LPs. The footer is a dense block of deep navy (#112244) with links in a faded rose (#e99292), a quiet nod to the store's East Nashville location and its reputation for curated, pre-loved vinyl. The overall mood is intimate and unpolished — no hero sliders, no auto-playing video, just a grid of album covers, a search bar with a subtle red border, and the promise of "New & Pre-Loved" in every interaction.
+name: "Grimey's New & Pre-Loved Music"
+source_url: "https://www.grimeys.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep, ink-black (#112233) canvas sets the stage for a record store that feels more like a late-night listening session than a retail transaction. The brand's primary voltage is a weathered crimson (#bd0000) that appears on the "New Arrivals" badge, the shopping-cart icon, and the footer's newsletter call-to-action — a single accent that reads like a vintage record-label logo rather than a generic ecommerce button. The site's typography runs Alice, a serif face with the warmth of a handwritten setlist, at 16–20px for body copy, while navigation links sit in Arial at 14px with a muted gray (#aaaaaa) that recedes into the dark background. Product cards float on a near-white surface (#fafafa) with a soft shadow, their corners gently rounded ({rounded.md}), mimicking the feel of flipping through a crate of LPs. The footer is a dense block of deep navy (#112244) with links in a faded rose (#e99292), a quiet nod to the store's East Nashville location and its reputation for curated, pre-loved vinyl. The overall mood is intimate and unpolished — no hero sliders, no auto-playing video, just a grid of album covers, a search bar with a subtle red border, and the promise of "New & Pre-Loved" in every interaction.
 
 colors:
   primary: "#bd0000"
@@ -249,6 +253,8 @@ components:
 - Category tags wrap to multiple rows on smaller screens
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for buttons, links, and cards are not fully confirmed from extracted data; `button-primary-active` is an inference based on common darkening patterns
 - Error styling for form inputs (e.g., invalid email, missing required fields) is not available

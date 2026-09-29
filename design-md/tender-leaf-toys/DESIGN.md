@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Tender Leaf Toys
-description: A wooden-toy brand that paints with a meadow palette — #108474 as the deep forest-green anchor, #b3c636 as the bright leaf-green accent, and #ffd600 as the dandelion-yellow that pops on add-to-cart buttons and sale badges. The site runs on Shopify with a light, airy canvas of #f9fafb and #ffffff, using soft gray borders (#dedede) and muted text (#555555) to keep the focus on product photography. Typography leans on Nunito Sans for headings and body text, with Red Hat Text as a secondary face — both rounded, friendly sans-serifs that match the soft, safe feel of the toys themselves. Product cards use generous whitespace and subtle shadows, with rounded corners at {rounded.md} for the card and {rounded.sm} for the thumbnail, creating a grid that feels like blocks on a nursery floor. The brand avoids hard edges: buttons are pill-shaped at {rounded.full}, category tags are soft rectangles at {rounded.sm}, and the footer stacks information in a warm, uncluttered layout. A secondary palette of pastels (#b5e0fa, #c1e6e6, #a89cc8) appears in seasonal banners and collection highlights, suggesting a brand that rotates its visual energy without losing its earthy core. The overall impression is of a clean, Scandinavian-leaning toy store where the wood grain and the white space do the selling.
+name: "Tender Leaf Toys"
+source_url: "https://tenderleaftoys.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A wooden-toy brand that paints with a meadow palette — #108474 as the deep forest-green anchor, #b3c636 as the bright leaf-green accent, and #ffd600 as the dandelion-yellow that pops on add-to-cart buttons and sale badges. The site runs on Shopify with a light, airy canvas of #f9fafb and #ffffff, using soft gray borders (#dedede) and muted text (#555555) to keep the focus on product photography. Typography leans on Nunito Sans for headings and body text, with Red Hat Text as a secondary face — both rounded, friendly sans-serifs that match the soft, safe feel of the toys themselves. Product cards use generous whitespace and subtle shadows, with rounded corners at {rounded.md} for the card and {rounded.sm} for the thumbnail, creating a grid that feels like blocks on a nursery floor. The brand avoids hard edges: buttons are pill-shaped at {rounded.full}, category tags are soft rectangles at {rounded.sm}, and the footer stacks information in a warm, uncluttered layout. A secondary palette of pastels (#b5e0fa, #c1e6e6, #a89cc8) appears in seasonal banners and collection highlights, suggesting a brand that rotates its visual energy without losing its earthy core. The overall impression is of a clean, Scandinavian-leaning toy store where the wood grain and the white space do the selling.
 
 colors:
   primary: "#108474"
@@ -357,6 +361,8 @@ components:
 - Product page layout (image + details side by side) stacks vertically below 744px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for most components (buttons, cards, links) are inferred from common patterns, not extracted from live CSS
 - Error state styling for forms (validation messages, error borders) not observed

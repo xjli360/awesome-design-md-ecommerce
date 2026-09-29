@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Flamingo Estate
-description: Flamingo Estate is a California-born bath, body, and home brand that feels like stepping into a sun-drenched garden studio where the soil is still on the tomatoes. The palette is rooted in a deep, earthy olive {colors.primary} (#45523e) that appears on primary buttons and key accents, balanced by a soft, almost chalky cream {colors.canvas} (#fcfbf6) that serves as the background for most pages. Secondary surfaces use a muted sage {colors.surface-soft} (#eff2e9), while product cards and content blocks sit on a clean white {colors.surface-card} (#ffffff). The brand’s signature red — a warm, slightly brickish tone {colors.badge-red} (#a32121) — appears on sale badges, limited-edition flags, and small accent dots, providing a pop of heat against the otherwise cool, botanical palette. Typography leans heavily on the Exposure family — a variable, expressive serif that can shift from a delicate, almost calligraphic thin weight in headlines to a sturdy, grounded medium in body text — paired with the friendly, rounded sans-serif Maison Neue for UI labels and buttons. The overall mood is one of cultivated wildness: nothing feels overly polished, yet every detail — from the generous 32px corner radius on cards to the 64px section spacing — suggests a deliberate, tactile luxury. The brand trusts its product photography to carry emotion, using generous whitespace and a restrained color system that lets the deep greens and earthy reds of the actual ingredients (rosemary, tomato, honey) do the talking. The result is a design system that feels less like a retail interface and more like a beautifully printed seed catalog — warm, honest, and just a little bit unruly.
+name: "Flamingo Estate"
+source_url: "https://flamingoestate.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Flamingo Estate is a California-born bath, body, and home brand that feels like stepping into a sun-drenched garden studio where the soil is still on the tomatoes. The palette is rooted in a deep, earthy olive {colors.primary} (#45523e) that appears on primary buttons and key accents, balanced by a soft, almost chalky cream {colors.canvas} (#fcfbf6) that serves as the background for most pages. Secondary surfaces use a muted sage {colors.surface-soft} (#eff2e9), while product cards and content blocks sit on a clean white {colors.surface-card} (#ffffff). The brand’s signature red — a warm, slightly brickish tone {colors.badge-red} (#a32121) — appears on sale badges, limited-edition flags, and small accent dots, providing a pop of heat against the otherwise cool, botanical palette. Typography leans heavily on the Exposure family — a variable, expressive serif that can shift from a delicate, almost calligraphic thin weight in headlines to a sturdy, grounded medium in body text — paired with the friendly, rounded sans-serif Maison Neue for UI labels and buttons. The overall mood is one of cultivated wildness: nothing feels overly polished, yet every detail — from the generous 32px corner radius on cards to the 64px section spacing — suggests a deliberate, tactile luxury. The brand trusts its product photography to carry emotion, using generous whitespace and a restrained color system that lets the deep greens and earthy reds of the actual ingredients (rosemary, tomato, honey) do the talking. The result is a design system that feels less like a retail interface and more like a beautifully printed seed catalog — warm, honest, and just a little bit unruly.
 
 colors:
   primary: "#45523e"
@@ -382,6 +386,8 @@ components:
 - Secondary navigation (category filters) collapses to a horizontal scroll strip on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for many components (especially secondary buttons, text inputs, and footer links) were inferred from common patterns rather than extracted from live CSS — actual opacity shifts or color transitions may differ
 - Error state styling for forms (text-input-error) uses the brand's red (#c8232c) but the exact border width, icon placement, and error message typography could not be verified

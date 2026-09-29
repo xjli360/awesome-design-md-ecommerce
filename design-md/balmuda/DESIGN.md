@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Balmuda
-description: Balmuda’s digital presence is a study in quiet precision — a brand that sells kitchen appliances and home goods with the same hushed confidence as a perfectly boiled egg. The canvas is a near-white `#f9fafb` that feels airy and clean, punctuated by a deep, almost-black ink `#1c1d1d` that matches the meta theme-color and anchors every headline and body block. The primary voltage is a verdant teal `#108474`, a color that reads as both natural and engineered — think moss on a ceramic kettle — and it appears on primary CTAs, active navigation states, and the brand’s signature product highlights. A warm gold accent `#b19356` surfaces in badges, secondary details, and the occasional decorative line, lending a subtle artisanal warmth that keeps the brand from feeling cold. Typography relies on `Open Sans` for body and display, set at modest weights (400 for body, 600 for titles) with generous line-height (1.5–1.6) to preserve readability across product detail pages and recipe cards. Rounded corners are present but restrained: `{rounded.sm}` (8px) on buttons and `{rounded.md}` (12px) on product cards, with `{rounded.full}` reserved for the search bar and circular icon badges. The system uses a soft hairline `#dadada` for borders and dividers, and a muted `#7b7b7b` for secondary text, ensuring the interface never competes with the product photography. A bright yellow `#fbcd0a` appears sparingly — perhaps for sale badges or limited-edition callouts — while `#114499` (a deep blue) is used for legal links and footer text, a small but deliberate departure from the teal-green ecosystem. The overall mood is one of considered minimalism: every spacing token, from `{spacing.sm}` (8px) to `{spacing.section}` (64px), feels measured, as if each pixel were weighed on a kitchen scale.
+name: "Balmuda"
+source_url: "https://us.balmuda.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Balmuda’s digital presence is a study in quiet precision — a brand that sells kitchen appliances and home goods with the same hushed confidence as a perfectly boiled egg. The canvas is a near-white `#f9fafb` that feels airy and clean, punctuated by a deep, almost-black ink `#1c1d1d` that matches the meta theme-color and anchors every headline and body block. The primary voltage is a verdant teal `#108474`, a color that reads as both natural and engineered — think moss on a ceramic kettle — and it appears on primary CTAs, active navigation states, and the brand’s signature product highlights. A warm gold accent `#b19356` surfaces in badges, secondary details, and the occasional decorative line, lending a subtle artisanal warmth that keeps the brand from feeling cold. Typography relies on `Open Sans` for body and display, set at modest weights (400 for body, 600 for titles) with generous line-height (1.5–1.6) to preserve readability across product detail pages and recipe cards. Rounded corners are present but restrained: `{rounded.sm}` (8px) on buttons and `{rounded.md}` (12px) on product cards, with `{rounded.full}` reserved for the search bar and circular icon badges. The system uses a soft hairline `#dadada` for borders and dividers, and a muted `#7b7b7b` for secondary text, ensuring the interface never competes with the product photography. A bright yellow `#fbcd0a` appears sparingly — perhaps for sale badges or limited-edition callouts — while `#114499` (a deep blue) is used for legal links and footer text, a small but deliberate departure from the teal-green ecosystem. The overall mood is one of considered minimalism: every spacing token, from `{spacing.sm}` (8px) to `{spacing.section}` (64px), feels measured, as if each pixel were weighed on a kitchen scale.
 
 colors:
   primary: "#108474"
@@ -299,6 +303,8 @@ components:
 - Search bar becomes a full-width input on mobile, replacing the pill shape with a standard rectangle.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components could not be fully extracted; only primary and secondary buttons have confirmed hover colors.
 - Error styling for form inputs (red borders, error messages) was not observed on the live site; assumed to follow standard patterns (e.g., red `#c13515` for error text).

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Princeton University Press
-description: A scholarly publisher that signals authority through a deep navy anchor (#111432) and a restrained palette of lavender-tinged grays (#b6b7d5, #d6d6e7, #f5f5fa) that feel like academic stone rather than commercial white. The brand's primary voltage comes from #3c4fe0, a vivid periwinkle blue that appears in navigation, links, and key interactive elements — unexpected for a university press, more reminiscent of a modern SaaS platform than a traditional academic house. This blue sits alongside a warm amber accent (#ff9326) used sparingly for special offers and callouts, and a soft cream (#fdf8ed) that surfaces in featured content areas. The system uses generous whitespace and subtle surface distinctions (#efeff5, #fcfcfd) to create hierarchy without heavy borders, with hairlines at #d6d6e7 and softer separators at #ededed. Typography runs clean and legible across the catalog-heavy interface, where book covers provide the primary visual interest against a predominantly neutral backdrop. The overall feel is serious but approachable — a library reading room lit by a single warm lamp.
+name: "Princeton University Press"
+source_url: "https://press.princeton.edu"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A scholarly publisher that signals authority through a deep navy anchor (#111432) and a restrained palette of lavender-tinged grays (#b6b7d5, #d6d6e7, #f5f5fa) that feel like academic stone rather than commercial white. The brand's primary voltage comes from #3c4fe0, a vivid periwinkle blue that appears in navigation, links, and key interactive elements — unexpected for a university press, more reminiscent of a modern SaaS platform than a traditional academic house. This blue sits alongside a warm amber accent (#ff9326) used sparingly for special offers and callouts, and a soft cream (#fdf8ed) that surfaces in featured content areas. The system uses generous whitespace and subtle surface distinctions (#efeff5, #fcfcfd) to create hierarchy without heavy borders, with hairlines at #d6d6e7 and softer separators at #ededed. Typography runs clean and legible across the catalog-heavy interface, where book covers provide the primary visual interest against a predominantly neutral backdrop. The overall feel is serious but approachable — a library reading room lit by a single warm lamp.
 
 colors:
   primary: "#3c4fe0"
@@ -391,6 +395,8 @@ components:
 - Sidebar filters become a collapsible accordion below 1128px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Font family declarations could not be reliably extracted from the live site; the serif (Source Serif Pro) and sans-serif (Inter) choices are inferred from common academic publishing patterns and should be verified against the brand's actual typeface selection
 - Hover and active states for most components are inferred from common patterns; actual brand-specific transitions and animations are unknown

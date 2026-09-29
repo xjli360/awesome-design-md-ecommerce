@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Newbury Comics
-description: A black-and-white punk energy runs through Newbury Comics, where `#121212` ink and `#eeeeee` canvas create a high-contrast grid that refuses to be quiet. The brand lives in the gap between a record store's chaotic wall of vinyl and a clean e‑commerce shelf — product thumbnails sit on `#dedede` soft surfaces with `{rounded.sm}` corners, while the top nav and footer clamp down in solid black. There is no gradient, no pastel, no decorative illustration; the only color comes from the album art, movie posters, and Funko Pop boxes that fill every card. The meta theme-color is `#000000`, a browser‑chrome commitment to darkness that signals "this is not a toy store." Buttons are flat black rectangles with white type — no pill shapes, no rounded warmth — and the search bar is a simple outlined field, not a friendly orb. The typography stack is conspicuously absent from extracted CSS beyond Font Awesome icons, suggesting a lean system‑font fallback or a Shopify‑theme default that hasn't been customized. The result is a storefront that feels like a basement show: raw, loud, and built for the hunt, not the browse.
+name: "Newbury Comics"
+source_url: "https://www.newburycomics.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A black-and-white punk energy runs through Newbury Comics, where `#121212` ink and `#eeeeee` canvas create a high-contrast grid that refuses to be quiet. The brand lives in the gap between a record store's chaotic wall of vinyl and a clean e‑commerce shelf — product thumbnails sit on `#dedede` soft surfaces with `{rounded.sm}` corners, while the top nav and footer clamp down in solid black. There is no gradient, no pastel, no decorative illustration; the only color comes from the album art, movie posters, and Funko Pop boxes that fill every card. The meta theme-color is `#000000`, a browser‑chrome commitment to darkness that signals "this is not a toy store." Buttons are flat black rectangles with white type — no pill shapes, no rounded warmth — and the search bar is a simple outlined field, not a friendly orb. The typography stack is conspicuously absent from extracted CSS beyond Font Awesome icons, suggesting a lean system‑font fallback or a Shopify‑theme default that hasn't been customized. The result is a storefront that feels like a basement show: raw, loud, and built for the hunt, not the browse.
 
 colors:
   primary: "#121212"
@@ -326,6 +330,8 @@ components:
 - The search bar collapses from a visible input on desktop to a search icon that expands on tap on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom font family was extractable from the live site. The typography block uses system font fallbacks. The brand may use a custom typeface that is loaded via JavaScript or a Shopify theme setting not visible in extracted CSS.
 - Hover and focus states for most components are inferred from common patterns — actual extracted hover colors were not available.

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Heretic Parfum
-description: A darkly romantic, naturally-derived fragrance house that speaks in whispers of ink-black rebellion and botanical purity. The palette is anchored in near-black charcoals — `#030303` for the deepest shadows, `#222222` for body text, `#333333` for secondary elements — against a canvas of warm off-whites (`#f5f5f5`, `#f3f3f3`, `#eeeeee`) that feel like aged parchment rather than sterile white. The brand's signature voltage comes from unexpected accents: a teal `#0d6160` that reads as forest shadow, a muted gold `#ffc863` like amber catching light, and a restrained coral `#d02e2e` used sparingly for editorial emphasis. Typography runs lean on Work Sans and PT Sans at modest weights — there is no heavy display face, no bold declaration; the brand trusts its botanical photography, its apothecary-vessel product shots, and generous whitespace (`{spacing.section}`) to carry mood. Every corner is softly radiused (`{rounded.sm}` for cards, `{rounded.md}` for modals, `{rounded.full}` for badges and ingredient pills), evoking hand-blown glass and worn stone rather than industrial precision. The result is a system that feels both ancient and contemporary — a digital storefront for a perfumer who works with rare essences and refuses to use synthetics.
+name: "Heretic Parfum"
+source_url: "https://hereticparfum.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A darkly romantic, naturally-derived fragrance house that speaks in whispers of ink-black rebellion and botanical purity. The palette is anchored in near-black charcoals — `#030303` for the deepest shadows, `#222222` for body text, `#333333` for secondary elements — against a canvas of warm off-whites (`#f5f5f5`, `#f3f3f3`, `#eeeeee`) that feel like aged parchment rather than sterile white. The brand's signature voltage comes from unexpected accents: a teal `#0d6160` that reads as forest shadow, a muted gold `#ffc863` like amber catching light, and a restrained coral `#d02e2e` used sparingly for editorial emphasis. Typography runs lean on Work Sans and PT Sans at modest weights — there is no heavy display face, no bold declaration; the brand trusts its botanical photography, its apothecary-vessel product shots, and generous whitespace (`{spacing.section}`) to carry mood. Every corner is softly radiused (`{rounded.sm}` for cards, `{rounded.md}` for modals, `{rounded.full}` for badges and ingredient pills), evoking hand-blown glass and worn stone rather than industrial precision. The result is a system that feels both ancient and contemporary — a digital storefront for a perfumer who works with rare essences and refuses to use synthetics.
 
 colors:
   primary: "#0d6160"
@@ -454,6 +458,8 @@ components:
 - Hero sections reduce padding from 64px to 32px on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for product card images (zoom effect, alternate image reveal) could not be reliably extracted
 - Error state styling for forms beyond border color (error message typography, icon placement) is inferred

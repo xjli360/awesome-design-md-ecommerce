@@ -1,0 +1,750 @@
+{
+  "source_url": "https://babytula.com",
+  "final_url": "https://babytula.com/",
+  "captured_at": "2026-09-28T04:54:22.224510+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://babytula.com",
+      "final_url": "https://babytula.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "096c40587f1f4d9af3236e3e1564e1bc7400d2769907f357a48f38745aee5ad2",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://babytula.com/cdn/shop/t/5/assets/base.css?v=9427081002257081161783358784",
+      "final_url": "https://babytula.com/cdn/shop/t/5/assets/base.css?v=9427081002257081161783358784",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a242b82b573eacdfebdefef26a6bcfd788f31c61b7462cf421c625ae78ef7783",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586",
+      "final_url": "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "cf8701c3f8894e80c57c5bae86c15d1cd188827359a4c37e2cf1e85f49fd53bb",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://babytula.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://babytula.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://babytula.com/cdn/shop/t/5/compiled_assets/styles.css?v=29267459631978817291790103424",
+      "final_url": "https://babytula.com/cdn/shop/t/5/compiled_assets/styles.css?v=29267459631978817291790103424",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "dd5b09d3f6ebd19d40e799ff0c6b5f5c47897cb4ff31612ac3f2267eea35139a",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0e2ea-fb5d-7773-a1d6-5d5ee049db96/tolstoy-ads-image-video-2097/assets/tolstoy-builder.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0e2ea-fb5d-7773-a1d6-5d5ee049db96/tolstoy-ads-image-video-2097/assets/tolstoy-builder.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e10b9d0a80000cdde672c59788eef56260dab6801129d0a05b9119f3d2fdd72b",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 142,
+      "sources": [
+        "https://babytula.com/",
+        "https://babytula.com/cdn/shop/t/5/assets/base.css?v=9427081002257081161783358784",
+        "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586",
+        "https://babytula.com/cdn/shop/t/5/compiled_assets/styles.css?v=29267459631978817291790103424"
+      ]
+    },
+    "#ffffff": {
+      "count": 99,
+      "sources": [
+        "https://babytula.com/",
+        "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586",
+        "https://babytula.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://babytula.com/cdn/shop/t/5/compiled_assets/styles.css?v=29267459631978817291790103424"
+      ]
+    },
+    "#dbdbdb": {
+      "count": 42,
+      "sources": [
+        "https://babytula.com/",
+        "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 15,
+      "sources": [
+        "https://babytula.com/",
+        "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586"
+      ]
+    },
+    "#00bbff": {
+      "count": 11,
+      "sources": [
+        "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586"
+      ]
+    },
+    "#fffdf4": {
+      "count": 6,
+      "sources": [
+        "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586"
+      ]
+    },
+    "#a8a8a8": {
+      "count": 5,
+      "sources": [
+        "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586"
+      ]
+    },
+    "#00000000": {
+      "count": 5,
+      "sources": [
+        "https://babytula.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://babytula.com/cdn/shop/t/5/compiled_assets/styles.css?v=29267459631978817291790103424"
+      ]
+    },
+    "#262626": {
+      "count": 4,
+      "sources": [
+        "https://babytula.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 4,
+      "sources": [
+        "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586"
+      ]
+    },
+    "#c2c2c2": {
+      "count": 4,
+      "sources": [
+        "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586"
+      ]
+    },
+    "#0000001a": {
+      "count": 4,
+      "sources": [
+        "https://babytula.com/cdn/shop/t/5/compiled_assets/styles.css?v=29267459631978817291790103424"
+      ]
+    },
+    "#00000099": {
+      "count": 3,
+      "sources": [
+        "https://babytula.com/"
+      ]
+    },
+    "#8a8a8a": {
+      "count": 3,
+      "sources": [
+        "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586"
+      ]
+    },
+    "#f2ede5": {
+      "count": 3,
+      "sources": [
+        "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586"
+      ]
+    },
+    "#eaeaea": {
+      "count": 2,
+      "sources": [
+        "https://babytula.com/"
+      ]
+    },
+    "#f8f1e5": {
+      "count": 2,
+      "sources": [
+        "https://babytula.com/"
+      ]
+    },
+    "#fffbf4": {
+      "count": 2,
+      "sources": [
+        "https://babytula.com/"
+      ]
+    },
+    "#6b6b6b": {
+      "count": 2,
+      "sources": [
+        "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586"
+      ]
+    },
+    "#4d4d4d": {
+      "count": 2,
+      "sources": [
+        "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://babytula.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000026": {
+      "count": 2,
+      "sources": [
+        "https://babytula.com/cdn/shop/t/5/compiled_assets/styles.css?v=29267459631978817291790103424"
+      ]
+    },
+    "#00000066": {
+      "count": 2,
+      "sources": [
+        "https://babytula.com/cdn/shop/t/5/compiled_assets/styles.css?v=29267459631978817291790103424"
+      ]
+    },
+    "#8b0000": {
+      "count": 1,
+      "sources": [
+        "https://babytula.com/"
+      ]
+    },
+    "#006400": {
+      "count": 1,
+      "sources": [
+        "https://babytula.com/"
+      ]
+    },
+    "#3ed660": {
+      "count": 1,
+      "sources": [
+        "https://babytula.com/"
+      ]
+    },
+    "#ee9441": {
+      "count": 1,
+      "sources": [
+        "https://babytula.com/"
+      ]
+    },
+    "#c8c8c8": {
+      "count": 1,
+      "sources": [
+        "https://babytula.com/"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 1,
+      "sources": [
+        "https://babytula.com/"
+      ]
+    },
+    "#fff2db": {
+      "count": 1,
+      "sources": [
+        "https://babytula.com/"
+      ]
+    },
+    "#00000075": {
+      "count": 1,
+      "sources": [
+        "https://babytula.com/"
+      ]
+    },
+    "#999999": {
+      "count": 1,
+      "sources": [
+        "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586"
+      ]
+    },
+    "#dd4056": {
+      "count": 1,
+      "sources": [
+        "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586"
+      ]
+    },
+    "#ffe98a": {
+      "count": 1,
+      "sources": [
+        "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586"
+      ]
+    },
+    "#07202c": {
+      "count": 1,
+      "sources": [
+        "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586"
+      ]
+    },
+    "#f7f7ff": {
+      "count": 1,
+      "sources": [
+        "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://babytula.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://babytula.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://babytula.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0a142f": {
+      "count": 1,
+      "sources": [
+        "https://babytula.com/cdn/shop/t/5/compiled_assets/styles.css?v=29267459631978817291790103424"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://babytula.com/"
+    ],
+    "Apple Color Emoji": [
+      "https://babytula.com/"
+    ],
+    "Arial": [
+      "https://babytula.com/",
+      "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586"
+    ],
+    "Helvetica": [
+      "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586"
+    ],
+    "Helvetica Neue": [
+      "https://babytula.com/"
+    ],
+    "Liberation Sans": [
+      "https://babytula.com/"
+    ],
+    "Noto Color Emoji": [
+      "https://babytula.com/"
+    ],
+    "Noto Sans": [
+      "https://babytula.com/"
+    ],
+    "Roboto": [
+      "https://babytula.com/"
+    ],
+    "Segoe UI": [
+      "https://babytula.com/"
+    ],
+    "Segoe UI Emoji": [
+      "https://babytula.com/"
+    ],
+    "Segoe UI Symbol": [
+      "https://babytula.com/"
+    ],
+    "Tula Body Bold": [
+      "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586"
+    ],
+    "Tula Body Regular": [
+      "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586"
+    ],
+    "Tula Header": [
+      "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586"
+    ],
+    "Tula Serif": [
+      "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586"
+    ],
+    "sans-serif": [
+      "https://babytula.com/",
+      "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586"
+    ],
+    "sans-serif!important": [
+      "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586"
+    ],
+    "serif": [
+      "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586"
+    ],
+    "system_ui": [
+      "https://babytula.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://babytula.com/",
+      "selector": "body",
+      "declarations": "color: var(--color-foreground);\n    background-color: var(--color-background);"
+    },
+    {
+      "source": "https://babytula.com/",
+      "selector": "le: 0px; --border-bottom-color-mobile: var(--color-border);\n\n    .color-custom-top-sections--26011889402171__header_section,\n    .color-custom-top-sections--260",
+      "declarations": "--color-background: #ffffff;\n      --color-background-rgb: 255 255 255;\n\n      \n      \n--opacity-5-15: 0.05; --opacity-10-25: 0.1; --opacity-35-55: 0.35; --opacity-40-60:\n0.4; --opacity-30-60: 0.3; --opacity-60: 0.6;\n\n\n      \n        \n        --color: #000000;\n        --color-rgb: 0 0 0;\n        --color-foreground: #000000;\n        --color-foreground-rgb: 0 0 0;\n        --color-foreground-muted: rgb(0 0 0 / var(--opacity-muted-text));\n        --color-foreground-subdued: rgb(0 0 0 / var(--opacity-subdued-text));\n        --color-border: var(--palette-darkest);\n        --color-border-rgb: var(--palette-darkest-rgb);"
+    },
+    {
+      "source": "https://babytula.com/",
+      "selector": ".color-custom-top-sections--26011889402171__header_section",
+      "declarations": "--input-disabled-background-color: rgb(0 0 0 / var(--opacity-10));\n        --input-disabled-border-color: rgb(0 0 0 / var(--opacity-5));\n        --input-disabled-text-color: rgb(0 0 0 / var(--opacity-50));\n        --checkbox-border: 1px solid rgb(0 0 0 / var(--opacity-35-55));"
+    },
+    {
+      "source": "https://babytula.com/",
+      "selector": ".color-custom-top-sections--26011889402171__header_section",
+      "declarations": "color: var(--color, var(--color-foreground));\n      background-color: var(--color-background);"
+    },
+    {
+      "source": "https://babytula.com/",
+      "selector": ".color-custom-ASnVlcjBPQk1ybVJKb__header-menu-1,\n    .color-custom-ASnVlcjBPQk1ybVJKb__header-menu-1 .text-block",
+      "declarations": "--color-background: #ffffff;\n      --color-background-rgb: 255 255 255;\n\n      \n      \n--opacity-5-15: 0.05; --opacity-10-25: 0.1; --opacity-35-55: 0.35; --opacity-40-60:\n0.4; --opacity-30-60: 0.3; --opacity-60: 0.6;\n\n\n      \n        \n        --color: #000000;\n        --color-rgb: 0 0 0;\n        --color-foreground: #000000;\n        --color-foreground-rgb: 0 0 0;\n        --color-foreground-muted: rgb(0 0 0 / var(--opacity-muted-text));\n        --color-foreground-subdued: rgb(0 0 0 / var(--opacity-subdued-text));\n        --color-border: var(--palette-darkest);\n        --color-border-rgb: var(--palette-darkest-rgb);"
+    },
+    {
+      "source": "https://babytula.com/",
+      "selector": ".color-custom-ASnVlcjBPQk1ybVJKb__header-menu-1",
+      "declarations": "--input-disabled-background-color: rgb(0 0 0 / var(--opacity-10));\n        --input-disabled-border-color: rgb(0 0 0 / var(--opacity-5));\n        --input-disabled-text-color: rgb(0 0 0 / var(--opacity-50));\n        --checkbox-border: 1px solid rgb(0 0 0 / var(--opacity-35-55));"
+    },
+    {
+      "source": "https://babytula.com/",
+      "selector": ".color-custom-ASnVlcjBPQk1ybVJKb__header-menu-1",
+      "declarations": "color: var(--color, var(--color-foreground));\n      background-color: var(--color-background);"
+    },
+    {
+      "source": "https://babytula.com/",
+      "selector": "/ var(--opacity-30-60));\n                            \n--menu-localization-font: var(--font-body--family); --color-shadow: rgb(var(--color-foreground-rgb) / var(",
+      "declarations": "--color-submenu: rgb(255 255 255);"
+    },
+    {
+      "source": "https://babytula.com/",
+      "selector": ".color-custom-ASnVlcjBPQk1ybVJKb__header-menu,\n    .color-custom-ASnVlcjBPQk1ybVJKb__header-menu .text-block",
+      "declarations": "--color-background: #ffffff;\n      --color-background-rgb: 255 255 255;\n\n      \n      \n--opacity-5-15: 0.05; --opacity-10-25: 0.1; --opacity-35-55: 0.35; --opacity-40-60:\n0.4; --opacity-30-60: 0.3; --opacity-60: 0.6;\n\n\n      \n        \n        --color: #000000;\n        --color-rgb: 0 0 0;\n        --color-foreground: #000000;\n        --color-foreground-rgb: 0 0 0;\n        --color-foreground-muted: rgb(0 0 0 / var(--opacity-muted-text));\n        --color-foreground-subdued: rgb(0 0 0 / var(--opacity-subdued-text));\n        --color-border: var(--palette-darkest);\n        --color-border-rgb: var(--palette-darkest-rgb);"
+    },
+    {
+      "source": "https://babytula.com/",
+      "selector": ".color-custom-ASnVlcjBPQk1ybVJKb__header-menu",
+      "declarations": "--input-disabled-background-color: rgb(0 0 0 / var(--opacity-10));\n        --input-disabled-border-color: rgb(0 0 0 / var(--opacity-5));\n        --input-disabled-text-color: rgb(0 0 0 / var(--opacity-50));\n        --checkbox-border: 1px solid rgb(0 0 0 / var(--opacity-35-55));"
+    },
+    {
+      "source": "https://babytula.com/",
+      "selector": ".color-custom-ASnVlcjBPQk1ybVJKb__header-menu",
+      "declarations": "color: var(--color, var(--color-foreground));\n      background-color: var(--color-background);"
+    },
+    {
+      "source": "https://babytula.com/",
+      "selector": "--menu-content-columns-desktop: 0; --menu-content-columns-tablet: 0; --resource-card-corner-radius: 0px;\n\n  .header__underlay",
+      "declarations": "--color-submenu: rgb(255 255 255);"
+    },
+    {
+      "source": "https://babytula.com/",
+      "selector": "ji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji'; --header-actions-font-weight: 400;\n--cart-bubble-background-fallback: #000000; --cart-bubble-text-",
+      "declarations": "--color-submenu: rgb(255 255 255);"
+    },
+    {
+      "source": "https://babytula.com/",
+      "selector": "fit-content; --size-style-width-mobile-min: fit-content;\n\n    .color-custom-template--26070174564667__product_list_UwRqN4,\n    .color-custom-template--260701745",
+      "declarations": "--color-background: #ffffff;\n      --color-background-rgb: 255 255 255;\n\n      \n      \n--opacity-5-15: 0.05; --opacity-10-25: 0.1; --opacity-35-55: 0.35; --opacity-40-60:\n0.4; --opacity-30-60: 0.3; --opacity-60: 0.6;\n\n\n      \n        \n        --color: #000000;\n        --color-rgb: 0 0 0;\n        --color-foreground: #000000;\n        --color-foreground-rgb: 0 0 0;\n        --color-foreground-muted: rgb(0 0 0 / var(--opacity-muted-text));\n        --color-foreground-subdued: rgb(0 0 0 / var(--opacity-subdued-text));\n        --color-border: var(--palette-darkest);\n        --color-border-rgb: var(--palette-darkest-rgb);"
+    },
+    {
+      "source": "https://babytula.com/",
+      "selector": ".color-custom-template--26070174564667__product_list_UwRqN4",
+      "declarations": "--input-disabled-background-color: rgb(0 0 0 / var(--opacity-10));\n        --input-disabled-border-color: rgb(0 0 0 / var(--opacity-5));\n        --input-disabled-text-color: rgb(0 0 0 / var(--opacity-50));\n        --checkbox-border: 1px solid rgb(0 0 0 / var(--opacity-35-55));"
+    },
+    {
+      "source": "https://babytula.com/",
+      "selector": ".color-custom-template--26070174564667__product_list_UwRqN4",
+      "declarations": "color: var(--color, var(--color-foreground));\n      background-color: var(--color-background);"
+    },
+    {
+      "source": "https://babytula.com/",
+      "selector": "-width: var(--max-width--body-none);          --text-align: center;          \ntext-decoration:underline\n\n\n  #shopify-section-sections--26011889369403__section_s",
+      "declarations": "background-color: #000000;\n    padding-top: 24px;\n    padding-bottom: 24px;\n    padding-left: 24px;\n    padding-right: 24px;"
+    },
+    {
+      "source": "https://babytula.com/cdn/shop/t/5/assets/base.css?v=9427081002257081161783358784",
+      "selector": "body",
+      "declarations": "color:var(--color-foreground);background:var(--color-background);display:flex;flex-direction:column;margin:0;min-height:100svh;font-variation-settings:\"slnt\" 0"
+    },
+    {
+      "source": "https://babytula.com/cdn/shop/t/5/assets/base.css?v=9427081002257081161783358784",
+      "selector": ":root",
+      "declarations": "--hover-lift-amount: 4px;--hover-scale-amount: 1.03;--hover-subtle-zoom-amount: 1.015;--hover-shadow-color: var(--color-shadow);--hover-transition-duration: .25s;--hover-transition-timing: ease-out;--surface-transition-duration: .3s;--surface-transition-timing: var(--ease-out-quad);--submenu-animation-speed: .36s;--submenu-animation-easing: cubic-bezier(.25, .1, .25, 1)"
+    },
+    {
+      "source": "https://babytula.com/cdn/shop/t/5/assets/base.css?v=9427081002257081161783358784",
+      "selector": ".shopify-section:not(.header-section) .section-background",
+      "declarations": "content:\"\";position:absolute;top:0;right:0;bottom:0;left:0;z-index:var(--layer-section-background);background-color:var(--color-background)"
+    },
+    {
+      "source": "https://babytula.com/cdn/shop/t/5/assets/base.css?v=9427081002257081161783358784",
+      "selector": "body,.paragraph:not(.button),.paragraph>*,.text-block.paragraph :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-paragraph--family);font-style:var(--font-paragraph--style);font-weight:var(--font-paragraph--weight);font-size:var(--font-paragraph--size);line-height:var(--font-paragraph--line-height);text-transform:var(--font-paragraph--case);-webkit-font-smoothing:antialiased;color:var(--color, var(--color-foreground))"
+    },
+    {
+      "source": "https://babytula.com/cdn/shop/t/5/assets/base.css?v=9427081002257081161783358784",
+      "selector": "h1,.h1.h1,.text-block.h1>*,.text-block.h1 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h1--family);font-style:var(--font-h1--style);font-weight:var(--font-h1--weight);font-size:var(--font-h1--size);line-height:var(--font-h1--line-height);letter-spacing:var(--font-h1--letter-spacing);text-transform:var(--font-h1--case);color:var(--color)"
+    },
+    {
+      "source": "https://babytula.com/cdn/shop/t/5/assets/base.css?v=9427081002257081161783358784",
+      "selector": "h2,.h2.h2,.text-block.h2>*,.text-block.h2 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h2--family);font-style:var(--font-h2--style);font-weight:var(--font-h2--weight);font-size:var(--font-h2--size);line-height:var(--font-h2--line-height);letter-spacing:var(--font-h2--letter-spacing);text-transform:var(--font-h2--case);color:var(--color)"
+    },
+    {
+      "source": "https://babytula.com/cdn/shop/t/5/assets/base.css?v=9427081002257081161783358784",
+      "selector": "h3,.h3,.h3.h3,.text-block.h3>*,.text-block.h3 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h3--family);font-style:var(--font-h3--style);font-weight:var(--font-h3--weight);font-size:var(--font-h3--size);line-height:var(--font-h3--line-height);letter-spacing:var(--font-h3--letter-spacing);text-transform:var(--font-h3--case);color:var(--color)"
+    },
+    {
+      "source": "https://babytula.com/cdn/shop/t/5/assets/base.css?v=9427081002257081161783358784",
+      "selector": "h4,.h4.h4,.text-block.h4>*,.text-block.h4 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h4--family);font-style:var(--font-h4--style);font-weight:var(--font-h4--weight);font-size:var(--font-h4--size);line-height:var(--font-h4--line-height);letter-spacing:var(--font-h4--letter-spacing);text-transform:var(--font-h4--case);color:var(--color)"
+    },
+    {
+      "source": "https://babytula.com/cdn/shop/t/5/assets/base.css?v=9427081002257081161783358784",
+      "selector": "h5,.h5.h5,.text-block.h5>*,.text-block.h5 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h5--family);font-style:var(--font-h5--style);font-weight:var(--font-h5--weight);font-size:var(--font-h5--size);line-height:var(--font-h5--line-height);letter-spacing:var(--font-h5--letter-spacing);text-transform:var(--font-h5--case);color:var(--color)"
+    },
+    {
+      "source": "https://babytula.com/cdn/shop/t/5/assets/base.css?v=9427081002257081161783358784",
+      "selector": "h6,.h6.h6,.text-block.h6>*,.text-block.h6 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h6--family);font-style:var(--font-h6--style);font-weight:var(--font-h6--weight);font-size:var(--font-h6--size);line-height:var(--font-h6--line-height);letter-spacing:var(--font-h6--letter-spacing);text-transform:var(--font-h6--case);color:var(--color)"
+    },
+    {
+      "source": "https://babytula.com/cdn/shop/t/5/assets/base.css?v=9427081002257081161783358784",
+      "selector": ":is(h1,h2,h3,h4,h5,h6,p)>a:hover",
+      "declarations": "color:rgb(var(--color-rgb, var(--color-foreground-rgb)) / .7)"
+    },
+    {
+      "source": "https://babytula.com/cdn/shop/t/5/assets/base.css?v=9427081002257081161783358784",
+      "selector": "p:not(.h1,.h2,.h3,.h4,.h5,.h6) a:where(:not(.button,.button-secondary)),.rte :is(p,ul,ol,table):not(.h1,.h2,.h3,.h4,.h5,.h6) a:where(:not(.button,.button-second",
+      "declarations": "text-decoration-color:currentcolor"
+    },
+    {
+      "source": "https://babytula.com/cdn/shop/t/5/assets/base.css?v=9427081002257081161783358784",
+      "selector": ":is(p:not(.h1,.h2,.h3,.h4,.h5,.h6) a:where(:not(.button,.button-secondary)),.rte :is(p,ul,ol,table):not(.h1,.h2,.h3,.h4,.h5,.h6) a:where(:not(.button,.button-se",
+      "declarations": "text-decoration-color:currentcolor;color:rgb(var(--color-rgb, var(--color-foreground-rgb)) / .7)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Fashionable baby and kid carriers | Baby Tula United States",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://babytula.com/",
+        "https://babytula.com/cdn/shop/t/5/assets/base.css?v=9427081002257081161783358784",
+        "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586",
+        "https://babytula.com/cdn/shop/t/5/compiled_assets/styles.css?v=29267459631978817291790103424"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://babytula.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://babytula.com/",
+        "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586",
+        "https://babytula.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://babytula.com/cdn/shop/t/5/compiled_assets/styles.css?v=29267459631978817291790103424"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://babytula.com/",
+        "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://babytula.com/",
+        "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586",
+        "https://babytula.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://babytula.com/cdn/shop/t/5/compiled_assets/styles.css?v=29267459631978817291790103424"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://babytula.com/",
+        "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586",
+        "https://babytula.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://babytula.com/cdn/shop/t/5/compiled_assets/styles.css?v=29267459631978817291790103424"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://babytula.com/"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://babytula.com/"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586"
+      ]
+    },
+    "colors.deep-navy": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://babytula.com/cdn/shop/t/5/assets/theme.min.css?v=69413350193083402971789769586"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.fabric-swatch-selector": {
+      "status": "inferred"
+    }
+  }
+}

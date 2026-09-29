@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Counter-Print
-description: A London-based publisher of graphic design books and zines that uses a single red stroke — #c00000 — as its only color accent, applied sparingly against a near-black ink (#111111) and a spectrum of warm grays (#989898, #dedede, #c6c4c4). The site reads like a printed catalog: a white canvas (#ffffff) holds a grid of book covers at equal weight, each thumbnail a miniature poster. There is no hero image, no carousel, no full-bleed photography — the covers are the content, arranged in a disciplined three-column layout that trusts the reader to browse. The primary navigation is a thin horizontal bar with dropdowns that appear on hover, using the same red as the only highlight. Search is a simple text input with a red border on focus, not a pill or an orb. The checkout flow, powered by Shopify, introduces a secondary gray palette (#e6e6e6 for surfaces, #121212 for text) that feels slightly detached from the editorial front end — a known tension between the brand's print-shop identity and the ecommerce platform it runs on. Buttons are rectangular with {rounded.xs} corners, filled in red for primary actions and outlined in gray for secondary. The overall mood is that of a small press: confident in its restraint, letting the work — the books themselves — do the selling.
+name: "Counter-Print"
+source_url: "https://www.counter-print.co.uk"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A London-based publisher of graphic design books and zines that uses a single red stroke — #c00000 — as its only color accent, applied sparingly against a near-black ink (#111111) and a spectrum of warm grays (#989898, #dedede, #c6c4c4). The site reads like a printed catalog: a white canvas (#ffffff) holds a grid of book covers at equal weight, each thumbnail a miniature poster. There is no hero image, no carousel, no full-bleed photography — the covers are the content, arranged in a disciplined three-column layout that trusts the reader to browse. The primary navigation is a thin horizontal bar with dropdowns that appear on hover, using the same red as the only highlight. Search is a simple text input with a red border on focus, not a pill or an orb. The checkout flow, powered by Shopify, introduces a secondary gray palette (#e6e6e6 for surfaces, #121212 for text) that feels slightly detached from the editorial front end — a known tension between the brand's print-shop identity and the ecommerce platform it runs on. Buttons are rectangular with {rounded.xs} corners, filled in red for primary actions and outlined in gray for secondary. The overall mood is that of a small press: confident in its restraint, letting the work — the books themselves — do the selling.
 
 colors:
   primary: "#c00000"
@@ -322,6 +326,8 @@ components:
 - Dropdown menus in the nav are replaced by expandable accordion sections on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No font-family declarations were extracted from the live site. The system uses a Helvetica Neue / Arial fallback stack as a reasonable default for a print-focused publisher, but the actual brand typeface (if any) is unknown.
 - Hover states for buttons and links were inferred from common patterns; exact extracted values are unavailable.

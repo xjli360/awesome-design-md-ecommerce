@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Season of Mist
-description: A black canvas (#222222) and a single sharp orange accent (#f89406) define this online metal shop — a storefront that trusts high-contrast product photography and brutalist simplicity over decorative chrome. The palette is almost entirely monochrome: near-black ink on near-white canvas (#f5f5f5), with the orange reserved exclusively for primary actions, price highlights, and the rare badge that needs to cut through the noise. Red (#ee5f5b) appears as a secondary accent for sale indicators or limited-stock warnings, while a cool blue (#0088cc) surfaces in informational links and secondary navigation — a triadic system that feels more like a gig poster than a retail interface. Type runs Arial and Helvetica Neue at modest weights; there is no custom display face, no variable font, no decorative lettering — the brand lets album art and band logos do the typographic heavy lifting. Buttons are sharp-cornered (`{rounded.sm}` ~8px), product cards use a slightly softer radius (`{rounded.md}` ~12px), and the search bar sits as a full-width input rather than a pill, reinforcing the utilitarian, no-frills browsing experience. The footer collapses into a dense stack of monochrome links, and the nav bar stays fixed at 60px with a simple logo-left, links-right layout. This is a store designed for speed and clarity — find the record, add to cart, get out.
+name: "Season of Mist"
+source_url: "https://shop.season-of-mist.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A black canvas (#222222) and a single sharp orange accent (#f89406) define this online metal shop — a storefront that trusts high-contrast product photography and brutalist simplicity over decorative chrome. The palette is almost entirely monochrome: near-black ink on near-white canvas (#f5f5f5), with the orange reserved exclusively for primary actions, price highlights, and the rare badge that needs to cut through the noise. Red (#ee5f5b) appears as a secondary accent for sale indicators or limited-stock warnings, while a cool blue (#0088cc) surfaces in informational links and secondary navigation — a triadic system that feels more like a gig poster than a retail interface. Type runs Arial and Helvetica Neue at modest weights; there is no custom display face, no variable font, no decorative lettering — the brand lets album art and band logos do the typographic heavy lifting. Buttons are sharp-cornered (`{rounded.sm}` ~8px), product cards use a slightly softer radius (`{rounded.md}` ~12px), and the search bar sits as a full-width input rather than a pill, reinforcing the utilitarian, no-frills browsing experience. The footer collapses into a dense stack of monochrome links, and the nav bar stays fixed at 60px with a simple logo-left, links-right layout. This is a store designed for speed and clarity — find the record, add to cart, get out.
 
 colors:
   primary: "#f89406"
@@ -441,6 +445,8 @@ components:
 - The hero banner reduces vertical padding from 64px to 32px on mobile, and the CTA button becomes full-width.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states**: Extracted only from CSS pseudo-classes found in the live site. Some hover transitions (e.g., product card image zoom, link underlines) may exist but were not captured.
 - **Error and validation styling**: Error states for forms (red border) are inferred from common patterns. Specific error message typography, iconography, and animation timing are unknown.

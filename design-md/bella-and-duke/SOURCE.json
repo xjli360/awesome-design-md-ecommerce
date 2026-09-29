@@ -1,0 +1,890 @@
+{
+  "source_url": "https://bellaandduke.com",
+  "final_url": "https://www.bellaandduke.com/",
+  "captured_at": "2026-09-28T09:52:59.082708+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://bellaandduke.com",
+      "final_url": "https://www.bellaandduke.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "102a97a183f663de2db2e385ebd7eb153ffafcf8c73c43f07c9b26dd4f656515",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.bellaandduke.com/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.8.2.1",
+      "final_url": "https://www.bellaandduke.com/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.8.2.1",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "431541f6037305463a2cc5b8041e691c880ec600598dbb703b2f0052cf72e60e",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033",
+      "final_url": "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "474f6865d1352fda44a998493c91763be688e605734ff571b6da64eb54d3f238",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-animation.css?ver=1790577033",
+      "final_url": "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-animation.css?ver=1790577033",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "17bd14f39188d8448ffbf497de5eef617472edd90616741fd69e932650e999d3",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-modal.css?ver=1790577033",
+      "final_url": "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-modal.css?ver=1790577033",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ba0009acb35cc2f15c18ff473864493502a6064a8803d3f14787bded30ad2f07",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-forms.css?ver=1790577033",
+      "final_url": "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-forms.css?ver=1790577033",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "926915c319e7ccde0a009991162c2b0634a5c27c201e8fe88227027cf5dd6eea",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 29,
+      "sources": [
+        "https://www.bellaandduke.com/",
+        "https://www.bellaandduke.com/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.8.2.1",
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033",
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-forms.css?ver=1790577033"
+      ]
+    },
+    "#003a3a": {
+      "count": 12,
+      "sources": [
+        "https://www.bellaandduke.com/",
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033",
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-forms.css?ver=1790577033"
+      ]
+    },
+    "#007d48": {
+      "count": 9,
+      "sources": [
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-forms.css?ver=1790577033"
+      ]
+    },
+    "#000000": {
+      "count": 8,
+      "sources": [
+        "https://www.bellaandduke.com/",
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-forms.css?ver=1790577033"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 7,
+      "sources": [
+        "https://www.bellaandduke.com/",
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033",
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-forms.css?ver=1790577033"
+      ]
+    },
+    "#fff964": {
+      "count": 6,
+      "sources": [
+        "https://www.bellaandduke.com/",
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033"
+      ]
+    },
+    "#f0ece4": {
+      "count": 6,
+      "sources": [
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033",
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-forms.css?ver=1790577033"
+      ]
+    },
+    "#fdd187": {
+      "count": 5,
+      "sources": [
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033"
+      ]
+    },
+    "#003b3b": {
+      "count": 5,
+      "sources": [
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-forms.css?ver=1790577033"
+      ]
+    },
+    "#fffdf5": {
+      "count": 4,
+      "sources": [
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033",
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-forms.css?ver=1790577033"
+      ]
+    },
+    "#2c3e50": {
+      "count": 4,
+      "sources": [
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-forms.css?ver=1790577033"
+      ]
+    },
+    "#6c757d": {
+      "count": 4,
+      "sources": [
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-forms.css?ver=1790577033"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 3,
+      "sources": [
+        "https://www.bellaandduke.com/",
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-forms.css?ver=1790577033"
+      ]
+    },
+    "#ff6900": {
+      "count": 3,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#111111": {
+      "count": 3,
+      "sources": [
+        "https://www.bellaandduke.com/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.8.2.1"
+      ]
+    },
+    "#e3ddd8": {
+      "count": 3,
+      "sources": [
+        "https://www.bellaandduke.com/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.8.2.1"
+      ]
+    },
+    "#cccccc": {
+      "count": 3,
+      "sources": [
+        "https://www.bellaandduke.com/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.8.2.1"
+      ]
+    },
+    "#666666": {
+      "count": 3,
+      "sources": [
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033",
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-forms.css?ver=1790577033"
+      ]
+    },
+    "#c2d1a7": {
+      "count": 3,
+      "sources": [
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033"
+      ]
+    },
+    "#3a5f5f": {
+      "count": 3,
+      "sources": [
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-forms.css?ver=1790577033"
+      ]
+    },
+    "#446161": {
+      "count": 2,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#cf2e2e": {
+      "count": 2,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#fcb900": {
+      "count": 2,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#0693e3": {
+      "count": 2,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#9b51e0": {
+      "count": 2,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 2,
+      "sources": [
+        "https://www.bellaandduke.com/",
+        "https://www.bellaandduke.com/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.8.2.1"
+      ]
+    },
+    "#fafafa": {
+      "count": 2,
+      "sources": [
+        "https://www.bellaandduke.com/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.8.2.1",
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033"
+      ]
+    },
+    "#333333": {
+      "count": 2,
+      "sources": [
+        "https://www.bellaandduke.com/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.8.2.1",
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033"
+      ]
+    },
+    "#f9f7f3": {
+      "count": 2,
+      "sources": [
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033"
+      ]
+    },
+    "#00b67a": {
+      "count": 1,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#abb8c3": {
+      "count": 1,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#f78da7": {
+      "count": 1,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#7bdcb5": {
+      "count": 1,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#00d084": {
+      "count": 1,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#8ed1fc": {
+      "count": 1,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#32373c": {
+      "count": 1,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#7adcb4": {
+      "count": 1,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#00d082": {
+      "count": 1,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#a9b8c3": {
+      "count": 1,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#4aeadc": {
+      "count": 1,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#9778d1": {
+      "count": 1,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#cf2aba": {
+      "count": 1,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#ee2c82": {
+      "count": 1,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#fb6962": {
+      "count": 1,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#fef84c": {
+      "count": 1,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#ffceec": {
+      "count": 1,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#9896f0": {
+      "count": 1,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#fecda5": {
+      "count": 1,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#fe2d2d": {
+      "count": 1,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#6b003e": {
+      "count": 1,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#ffcb70": {
+      "count": 1,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#c751c0": {
+      "count": 1,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#4158d0": {
+      "count": 1,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#fff5cb": {
+      "count": 1,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#b6e3d4": {
+      "count": 1,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#33a7b5": {
+      "count": 1,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#caf880": {
+      "count": 1,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#71ce7e": {
+      "count": 1,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#020381": {
+      "count": 1,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "#2874fc": {
+      "count": 1,
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.bellaandduke.com/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.8.2.1"
+    ],
+    "Cascadia Code": [
+      "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033"
+    ],
+    "Consolas": [
+      "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033"
+    ],
+    "Courier New": [
+      "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033"
+    ],
+    "DM Mono": [
+      "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033",
+      "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-forms.css?ver=1790577033"
+    ],
+    "DM Sans": [
+      "https://www.bellaandduke.com/",
+      "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033",
+      "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-modal.css?ver=1790577033",
+      "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-forms.css?ver=1790577033"
+    ],
+    "DMMono-Light": [
+      "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033",
+      "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-forms.css?ver=1790577033"
+    ],
+    "DMMono-Medium": [
+      "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033"
+    ],
+    "DMMono-Regular": [
+      "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033",
+      "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-forms.css?ver=1790577033"
+    ],
+    "FontAwesome": [
+      "https://www.bellaandduke.com/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.8.2.1"
+    ],
+    "Monaco": [
+      "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033"
+    ],
+    "Roboto Mono": [
+      "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033"
+    ],
+    "SF Mono": [
+      "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033"
+    ],
+    "Sans-serif": [
+      "https://www.bellaandduke.com/",
+      "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-forms.css?ver=1790577033"
+    ],
+    "Sans-serif !important": [
+      "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-forms.css?ver=1790577033"
+    ],
+    "Sans-serif!important": [
+      "https://www.bellaandduke.com/"
+    ],
+    "Youth": [
+      "https://www.bellaandduke.com/",
+      "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033",
+      "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-forms.css?ver=1790577033"
+    ],
+    "monospace": [
+      "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-forms.css?ver=1790577033"
+    ],
+    "monospace !important": [
+      "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033",
+      "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-forms.css?ver=1790577033"
+    ],
+    "sans-serif": [
+      "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-forms.css?ver=1790577033"
+    ],
+    "sans-serif !important": [
+      "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-modal.css?ver=1790577033",
+      "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-forms.css?ver=1790577033"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.bellaandduke.com/",
+      "selector": ":root",
+      "declarations": "--wp-internal-comment: \"Placeholder for wp_hoist_late_printed_styles() to replace with the block styles printed at wp_footer.\""
+    },
+    {
+      "source": "https://www.bellaandduke.com/",
+      "selector": ":root",
+      "declarations": "--wp-internal-comment: \"Placeholder for wp_hoist_late_printed_styles() to replace with the global-styles printed at wp_footer.\""
+    },
+    {
+      "source": "https://www.bellaandduke.com/",
+      "selector": ":root",
+      "declarations": "--wpext-admin-bar__bg: #003a3a;--wpext-sidebar__bg: #003a3a;--wpext-sidebar__text-hover: #fff964;--wpext-sidebar__width: 185px;--wpext-sidebar__icon: #fff964;--wpext-sidebar__icon-display: inline-block;"
+    },
+    {
+      "source": "https://www.bellaandduke.com/",
+      "selector": "button.bd-cta-tumeric",
+      "declarations": "background-color: var(--e-global-color-56bae88);\r\n\tcolor: var(--e-global-color-64c9eb4);\r\n\tborder: 2px solid var(--e-global-color-56bae88);\r\n\tborder-radius: 8px;\r\n\theight: 50px;\r\n\tpadding: 0 16px;\r\n\tfont-family: \"DM Sans\", Sans-serif;\r\n    font-weight: normal;\r\n    font-size: 18px;\r\n    line-height: 36px;\t\r\n\tcursor: pointer;"
+    },
+    {
+      "source": "https://www.bellaandduke.com/",
+      "selector": "button.bd-cta-tumeric:hover",
+      "declarations": "background-color: var(--e-global-color-56bae88);\r\n    border-color: var(--e-global-color-56bae88);"
+    },
+    {
+      "source": "https://www.bellaandduke.com/",
+      "selector": "button.bd-cta-spirulina-outline",
+      "declarations": "background-color: var(--e-global-color-2f0ae56);\r\n\tcolor: var(--e-global-color-64c9eb4);\r\n\tborder: 2px solid var(--e-global-color-64c9eb4);\r\n\tborder-radius: 8px;\r\n\theight: 50px;\r\n\tpadding: 0 16px;\r\n\tfont-family: \"DM Sans\", Sans-serif;\r\n    font-weight: normal;\r\n    font-size: 18px;\r\n    line-height: 36px;\t\r\n\tcursor: pointer;"
+    },
+    {
+      "source": "https://www.bellaandduke.com/",
+      "selector": "button.bd-cta-spirulina-outline:hover",
+      "declarations": "background-color: var(--e-global-color-2f0ae56);\r\n    border-color: var(--e-global-color-64c9eb4);"
+    },
+    {
+      "source": "https://www.bellaandduke.com/",
+      "selector": "button.bd-cta-spirulina",
+      "declarations": "background-color: var(--e-global-color-64c9eb4);\r\n\tcolor: white;\r\n\tborder: 2px solid var(--e-global-color-64c9eb4);\r\n\tborder-radius: 8px;\r\n\theight: 50px;\r\n\tpadding: 0 16px;\r\n\tfont-family: \"DM Sans\", Sans-serif;\r\n    font-weight: normal;\r\n    font-size: 18px;\r\n    line-height: 36px;\t\r\n\tcursor: pointer;"
+    },
+    {
+      "source": "https://www.bellaandduke.com/",
+      "selector": "button.bd-cta-spirulina:hover",
+      "declarations": "background-color: #446161;\r\n    border-color: #446161;"
+    },
+    {
+      "source": "https://www.bellaandduke.com/",
+      "selector": ".wp-block-button",
+      "declarations": "--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;"
+    },
+    {
+      "source": "https://www.bellaandduke.com/",
+      "selector": ":root",
+      "declarations": "--wp--style--global--content-size: 800px;--wp--style--global--wide-size: 1200px;"
+    },
+    {
+      "source": "https://www.bellaandduke.com/",
+      "selector": ":root",
+      "declarations": "--wp--style--block-gap: 24px;"
+    },
+    {
+      "source": "https://www.bellaandduke.com/",
+      "selector": ":root :where(.wp-element-button, .wp-block-button__link)",
+      "declarations": "background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;"
+    },
+    {
+      "source": "https://www.bellaandduke.com/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.8.2.1",
+      "selector": "body[data-elementor-device-mode=tablet] .jet-engine-gallery-grid.grid-col-tablet-1",
+      "declarations": "--columns:1"
+    },
+    {
+      "source": "https://www.bellaandduke.com/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.8.2.1",
+      "selector": "body[data-elementor-device-mode=mobile] .jet-engine-gallery-grid.grid-col-mobile-1",
+      "declarations": "--columns:1"
+    },
+    {
+      "source": "https://www.bellaandduke.com/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.8.2.1",
+      "selector": "body[data-elementor-device-mode=tablet] .jet-engine-gallery-grid.grid-col-tablet-2",
+      "declarations": "--columns:2"
+    },
+    {
+      "source": "https://www.bellaandduke.com/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.8.2.1",
+      "selector": "body[data-elementor-device-mode=mobile] .jet-engine-gallery-grid.grid-col-mobile-2",
+      "declarations": "--columns:2"
+    },
+    {
+      "source": "https://www.bellaandduke.com/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.8.2.1",
+      "selector": "body[data-elementor-device-mode=tablet] .jet-engine-gallery-grid.grid-col-tablet-3",
+      "declarations": "--columns:3"
+    },
+    {
+      "source": "https://www.bellaandduke.com/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.8.2.1",
+      "selector": "body[data-elementor-device-mode=mobile] .jet-engine-gallery-grid.grid-col-mobile-3",
+      "declarations": "--columns:3"
+    },
+    {
+      "source": "https://www.bellaandduke.com/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.8.2.1",
+      "selector": "body[data-elementor-device-mode=tablet] .jet-engine-gallery-grid.grid-col-tablet-4",
+      "declarations": "--columns:4"
+    },
+    {
+      "source": "https://www.bellaandduke.com/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.8.2.1",
+      "selector": "body[data-elementor-device-mode=mobile] .jet-engine-gallery-grid.grid-col-mobile-4",
+      "declarations": "--columns:4"
+    },
+    {
+      "source": "https://www.bellaandduke.com/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.8.2.1",
+      "selector": "body[data-elementor-device-mode=tablet] .jet-engine-gallery-grid.grid-col-tablet-5",
+      "declarations": "--columns:5"
+    },
+    {
+      "source": "https://www.bellaandduke.com/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.8.2.1",
+      "selector": "body[data-elementor-device-mode=mobile] .jet-engine-gallery-grid.grid-col-mobile-5",
+      "declarations": "--columns:5"
+    },
+    {
+      "source": "https://www.bellaandduke.com/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.8.2.1",
+      "selector": "body[data-elementor-device-mode=tablet] .jet-engine-gallery-grid.grid-col-tablet-6",
+      "declarations": "--columns:6"
+    },
+    {
+      "source": "https://www.bellaandduke.com/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.8.2.1",
+      "selector": "body[data-elementor-device-mode=mobile] .jet-engine-gallery-grid.grid-col-mobile-6",
+      "declarations": "--columns:6"
+    },
+    {
+      "source": "https://www.bellaandduke.com/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.8.2.1",
+      "selector": ".jet-map-box button.mapboxgl-popup-close-button",
+      "declarations": "padding:5px;font-size:16px;line-height:12px;font-weight:400;color:#333"
+    },
+    {
+      "source": "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033",
+      "selector": ":root",
+      "declarations": "--pfc-primary: #003a3a;\n  --pfc-text-dark: #1a1a1a;\n  --pfc-text-medium: #333333;\n  --pfc-text-light: #666666;\n  --pfc-border: #e5e5e5;\n  --pfc-white: #ffffff;\n  --pfc-bg-light: #fafafa;\n  --pfc-turmeric: #fff964;\n  --pfc-spirulina: #003a3a;\n  --pfc-spirulina-light-1: #ccd8d8;\n  --pfc-cabbage: #13c36e;\n  --pfc-border: #E5E5E5;\n  --pfc-kelp-200: #F0ECE4; \n\n  \n  --pfc-success: #108360;\n  --pfc-success-light: #ecfdf5;\n\n  \n  --pfc-warning: #d97706;\n  --pfc-warning-light: #fffbeb;\n\n  \n  --pfc-error: #aa0f02;\n  --pfc-error-light: #fef2f2;\n\n  \n  --pfc-info: #2563eb;\n  --pfc-info-light: #eff6ff;\n\n  \n  --pfc-disable-bg: #e5e5e5;\n  --pfc-disable-color: #7f7f7f;\n\n  \n  --pfc-font-primary: 'DM Sans', san"
+    },
+    {
+      "source": "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033",
+      "selector": ":root",
+      "declarations": "--pfc-font-size-xs: 11px;\n    --pfc-font-size-sm: 13px;\n    --pfc-font-size-base: 14px;\n    --pfc-font-size-lg: 16px;\n    --pfc-font-size-xl: 18px;\n    --pfc-font-size-2xl: 20px;\n    --pfc-font-size-3xl: 24px;"
+    },
+    {
+      "source": "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033",
+      "selector": "body",
+      "declarations": "font-family: var(--pfc-font-primary);\n  color: var(--pfc-text-dark);\n  line-height: 1.5;\n  padding-bottom: 60px !important;\n  margin: 0;\n  background-color: #F9F7F3;\n  background-image: linear-gradient(180deg, #F0ECE4 0%, #F9F7F3 100%);\n  min-height: 90vh;\n  background-repeat: no-repeat;"
+    },
+    {
+      "source": "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-modal.css?ver=1790577033",
+      "selector": ".pfc-modal-header",
+      "declarations": "background-color: var(--pfc-primary);\n  color: var(--pfc-white);\n  padding: 1rem;\n  border-top-left-radius: var(--pfc-radius-lg);\n  border-top-right-radius: var(--pfc-radius-lg);\n  text-align: center;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Bella+Duke - Healthy Raw Pet Food Subscription + Delivery",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bellaandduke.com/",
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033",
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-forms.css?ver=1790577033"
+      ]
+    },
+    "colors.secondary-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "colors.accent-yellow": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bellaandduke.com/",
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033"
+      ]
+    },
+    "colors.accent-orange": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "colors.success-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bellaandduke.com/"
+      ]
+    },
+    "colors.warm-peach": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bellaandduke.com/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.8.2.1"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bellaandduke.com/",
+        "https://www.bellaandduke.com/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.8.2.1",
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033",
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-forms.css?ver=1790577033"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bellaandduke.com/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.8.2.1",
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033",
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-forms.css?ver=1790577033"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bellaandduke.com/",
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-forms.css?ver=1790577033"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033",
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-forms.css?ver=1790577033"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033",
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-forms.css?ver=1790577033"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bellaandduke.com/",
+        "https://www.bellaandduke.com/wp-content/plugins/jet-engine/assets/css/frontend.css?ver=3.8.2.1",
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-global.css?ver=1790577033",
+        "https://www.bellaandduke.com/wp-content/plugins/pet-food-calculator/assets/css/style-forms.css?ver=1790577033"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.nutrition-calculator": {
+      "status": "inferred"
+    }
+  }
+}

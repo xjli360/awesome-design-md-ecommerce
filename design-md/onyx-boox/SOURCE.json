@@ -1,0 +1,925 @@
+{
+  "source_url": "https://shop.boox.com",
+  "final_url": "https://shop.boox.com/",
+  "captured_at": "2026-09-28T04:56:59.651398+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://shop.boox.com",
+      "final_url": "https://shop.boox.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "9abea3d78b8f05cf80d12c02b492e4a335000064c01ac6cab60e611222745848",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://shop.boox.com/cdn/shop/t/153/assets/vendor.min.css?v=72559489221033970801790219904",
+      "final_url": "https://shop.boox.com/cdn/shop/t/153/assets/vendor.min.css?v=72559489221033970801790219904",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b278eb8959e4a68a0e51343771a8519759020e95bf321b6ba80fece9f9ab9b97",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904",
+      "final_url": "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5595cf0f0b9fa5b19d51ef1b69d0ea0ba2314f966d2e95fcec83f62c29737662",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles-responsive.css?v=73416500754599178511790219904",
+      "final_url": "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles-responsive.css?v=73416500754599178511790219904",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ee5f8a3ba6afe932a241f97602bf03ab2c80e6219cbb14b0e09bb51bacb3c92b",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://shop.boox.com/cdn/shop/t/153/assets/theme-settings.css?v=10335857369087029091790219904",
+      "final_url": "https://shop.boox.com/cdn/shop/t/153/assets/theme-settings.css?v=10335857369087029091790219904",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "bb8fc60620e55c5b4beeebb0c855e8a0460d6d64551f1b3a46c4be658b288d41",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://shop.boox.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://shop.boox.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 168,
+      "sources": [
+        "https://shop.boox.com/",
+        "https://shop.boox.com/cdn/shop/t/153/assets/vendor.min.css?v=72559489221033970801790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles-responsive.css?v=73416500754599178511790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-settings.css?v=10335857369087029091790219904",
+        "https://shop.boox.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#000000": {
+      "count": 57,
+      "sources": [
+        "https://shop.boox.com/",
+        "https://shop.boox.com/cdn/shop/t/153/assets/vendor.min.css?v=72559489221033970801790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles-responsive.css?v=73416500754599178511790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-settings.css?v=10335857369087029091790219904"
+      ]
+    },
+    "#232323": {
+      "count": 43,
+      "sources": [
+        "https://shop.boox.com/",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles-responsive.css?v=73416500754599178511790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-settings.css?v=10335857369087029091790219904"
+      ]
+    },
+    "#ff674b": {
+      "count": 27,
+      "sources": [
+        "https://shop.boox.com/",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-settings.css?v=10335857369087029091790219904"
+      ]
+    },
+    "#323232": {
+      "count": 24,
+      "sources": [
+        "https://shop.boox.com/",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles-responsive.css?v=73416500754599178511790219904"
+      ]
+    },
+    "#3c3c3c": {
+      "count": 22,
+      "sources": [
+        "https://shop.boox.com/",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-settings.css?v=10335857369087029091790219904"
+      ]
+    },
+    "#fafafa": {
+      "count": 20,
+      "sources": [
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles-responsive.css?v=73416500754599178511790219904"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 18,
+      "sources": [
+        "https://shop.boox.com/",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles-responsive.css?v=73416500754599178511790219904"
+      ]
+    },
+    "#6c757d": {
+      "count": 18,
+      "sources": [
+        "https://shop.boox.com/cdn/shop/t/153/assets/vendor.min.css?v=72559489221033970801790219904"
+      ]
+    },
+    "#ebebeb": {
+      "count": 17,
+      "sources": [
+        "https://shop.boox.com/",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles-responsive.css?v=73416500754599178511790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-settings.css?v=10335857369087029091790219904"
+      ]
+    },
+    "#dcdcdc": {
+      "count": 17,
+      "sources": [
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 16,
+      "sources": [
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles-responsive.css?v=73416500754599178511790219904"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 14,
+      "sources": [
+        "https://shop.boox.com/",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904"
+      ]
+    },
+    "#808080": {
+      "count": 14,
+      "sources": [
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904"
+      ]
+    },
+    "#0000001a": {
+      "count": 14,
+      "sources": [
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles-responsive.css?v=73416500754599178511790219904"
+      ]
+    },
+    "#262627": {
+      "count": 12,
+      "sources": [
+        "https://shop.boox.com/"
+      ]
+    },
+    "#2d2d2d": {
+      "count": 12,
+      "sources": [
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles-responsive.css?v=73416500754599178511790219904"
+      ]
+    },
+    "#007bff": {
+      "count": 11,
+      "sources": [
+        "https://shop.boox.com/cdn/shop/t/153/assets/vendor.min.css?v=72559489221033970801790219904"
+      ]
+    },
+    "#5a5a5a": {
+      "count": 11,
+      "sources": [
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 10,
+      "sources": [
+        "https://shop.boox.com/",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles-responsive.css?v=73416500754599178511790219904"
+      ]
+    },
+    "#969696": {
+      "count": 10,
+      "sources": [
+        "https://shop.boox.com/",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles-responsive.css?v=73416500754599178511790219904"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 10,
+      "sources": [
+        "https://shop.boox.com/",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles-responsive.css?v=73416500754599178511790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-settings.css?v=10335857369087029091790219904"
+      ]
+    },
+    "#787878": {
+      "count": 10,
+      "sources": [
+        "https://shop.boox.com/",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles-responsive.css?v=73416500754599178511790219904"
+      ]
+    },
+    "#999999": {
+      "count": 9,
+      "sources": [
+        "https://shop.boox.com/",
+        "https://shop.boox.com/cdn/shop/t/153/assets/vendor.min.css?v=72559489221033970801790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904"
+      ]
+    },
+    "#cccccc": {
+      "count": 9,
+      "sources": [
+        "https://shop.boox.com/",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles-responsive.css?v=73416500754599178511790219904"
+      ]
+    },
+    "#ce643d": {
+      "count": 9,
+      "sources": [
+        "https://shop.boox.com/"
+      ]
+    },
+    "#646464": {
+      "count": 9,
+      "sources": [
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 8,
+      "sources": [
+        "https://shop.boox.com/",
+        "https://shop.boox.com/cdn/shop/t/153/assets/vendor.min.css?v=72559489221033970801790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 7,
+      "sources": [
+        "https://shop.boox.com/",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904"
+      ]
+    },
+    "#191918": {
+      "count": 7,
+      "sources": [
+        "https://shop.boox.com/"
+      ]
+    },
+    "#202020": {
+      "count": 7,
+      "sources": [
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-settings.css?v=10335857369087029091790219904"
+      ]
+    },
+    "#eaeaea": {
+      "count": 6,
+      "sources": [
+        "https://shop.boox.com/",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904"
+      ]
+    },
+    "#d7d7d7": {
+      "count": 6,
+      "sources": [
+        "https://shop.boox.com/",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904"
+      ]
+    },
+    "#a3a3a3": {
+      "count": 6,
+      "sources": [
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904"
+      ]
+    },
+    "#faa900": {
+      "count": 6,
+      "sources": [
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904"
+      ]
+    },
+    "#cbcbcb": {
+      "count": 5,
+      "sources": [
+        "https://shop.boox.com/",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles-responsive.css?v=73416500754599178511790219904"
+      ]
+    },
+    "#8c8c8c": {
+      "count": 5,
+      "sources": [
+        "https://shop.boox.com/",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904"
+      ]
+    },
+    "#212529": {
+      "count": 5,
+      "sources": [
+        "https://shop.boox.com/cdn/shop/t/153/assets/vendor.min.css?v=72559489221033970801790219904"
+      ]
+    },
+    "#e9ecef": {
+      "count": 5,
+      "sources": [
+        "https://shop.boox.com/cdn/shop/t/153/assets/vendor.min.css?v=72559489221033970801790219904"
+      ]
+    },
+    "#dddddd": {
+      "count": 5,
+      "sources": [
+        "https://shop.boox.com/cdn/shop/t/153/assets/vendor.min.css?v=72559489221033970801790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904"
+      ]
+    },
+    "#3b5998": {
+      "count": 5,
+      "sources": [
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904"
+      ]
+    },
+    "#aad450": {
+      "count": 5,
+      "sources": [
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904"
+      ]
+    },
+    "#efefef": {
+      "count": 5,
+      "sources": [
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles-responsive.css?v=73416500754599178511790219904"
+      ]
+    },
+    "#a0a0a0": {
+      "count": 5,
+      "sources": [
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904"
+      ]
+    },
+    "#8b714a": {
+      "count": 5,
+      "sources": [
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904"
+      ]
+    },
+    "#ffffff00": {
+      "count": 5,
+      "sources": [
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles-responsive.css?v=73416500754599178511790219904"
+      ]
+    },
+    "#e7e7e7": {
+      "count": 4,
+      "sources": [
+        "https://shop.boox.com/",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 4,
+      "sources": [
+        "https://shop.boox.com/"
+      ]
+    },
+    "#55acee": {
+      "count": 4,
+      "sources": [
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904"
+      ]
+    },
+    "#dd4b39": {
+      "count": 4,
+      "sources": [
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904"
+      ]
+    },
+    "#ff6600": {
+      "count": 4,
+      "sources": [
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904"
+      ]
+    },
+    "#cb2027": {
+      "count": 4,
+      "sources": [
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904"
+      ]
+    },
+    "#32506d": {
+      "count": 4,
+      "sources": [
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904"
+      ]
+    },
+    "#ff0000": {
+      "count": 4,
+      "sources": [
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904"
+      ]
+    },
+    "#828282": {
+      "count": 4,
+      "sources": [
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles-responsive.css?v=73416500754599178511790219904"
+      ]
+    },
+    "#d2d2d2": {
+      "count": 4,
+      "sources": [
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 4,
+      "sources": [
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles-responsive.css?v=73416500754599178511790219904"
+      ]
+    },
+    "#e95144": {
+      "count": 4,
+      "sources": [
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904"
+      ]
+    },
+    "#0000001f": {
+      "count": 4,
+      "sources": [
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles-responsive.css?v=73416500754599178511790219904"
+      ]
+    },
+    "#333333": {
+      "count": 3,
+      "sources": [
+        "https://shop.boox.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://shop.boox.com/cdn/shop/t/153/assets/vendor.min.css?v=72559489221033970801790219904"
+    ],
+    "Apple Color Emoji": [
+      "https://shop.boox.com/cdn/shop/t/153/assets/vendor.min.css?v=72559489221033970801790219904"
+    ],
+    "Arial": [
+      "https://shop.boox.com/cdn/shop/t/153/assets/vendor.min.css?v=72559489221033970801790219904"
+    ],
+    "BlinkMacSystemFont": [
+      "https://shop.boox.com/cdn/shop/t/153/assets/vendor.min.css?v=72559489221033970801790219904"
+    ],
+    "Consolas": [
+      "https://shop.boox.com/cdn/shop/t/153/assets/vendor.min.css?v=72559489221033970801790219904"
+    ],
+    "Courier New": [
+      "https://shop.boox.com/cdn/shop/t/153/assets/vendor.min.css?v=72559489221033970801790219904"
+    ],
+    "FontAwesome": [
+      "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904",
+      "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles-responsive.css?v=73416500754599178511790219904"
+    ],
+    "Helvetica": [
+      "https://shop.boox.com/cdn/shop/t/153/assets/vendor.min.css?v=72559489221033970801790219904"
+    ],
+    "Helvetica Neue": [
+      "https://shop.boox.com/cdn/shop/t/153/assets/vendor.min.css?v=72559489221033970801790219904"
+    ],
+    "Liberation Mono": [
+      "https://shop.boox.com/cdn/shop/t/153/assets/vendor.min.css?v=72559489221033970801790219904"
+    ],
+    "Menlo": [
+      "https://shop.boox.com/cdn/shop/t/153/assets/vendor.min.css?v=72559489221033970801790219904"
+    ],
+    "Monaco": [
+      "https://shop.boox.com/cdn/shop/t/153/assets/vendor.min.css?v=72559489221033970801790219904"
+    ],
+    "Roboto": [
+      "https://shop.boox.com/cdn/shop/t/153/assets/vendor.min.css?v=72559489221033970801790219904"
+    ],
+    "SFMono-Regular": [
+      "https://shop.boox.com/cdn/shop/t/153/assets/vendor.min.css?v=72559489221033970801790219904"
+    ],
+    "Segoe UI": [
+      "https://shop.boox.com/cdn/shop/t/153/assets/vendor.min.css?v=72559489221033970801790219904"
+    ],
+    "Segoe UI Emoji": [
+      "https://shop.boox.com/cdn/shop/t/153/assets/vendor.min.css?v=72559489221033970801790219904"
+    ],
+    "Segoe UI Symbol": [
+      "https://shop.boox.com/cdn/shop/t/153/assets/vendor.min.css?v=72559489221033970801790219904"
+    ],
+    "fontawesome": [
+      "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904",
+      "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles-responsive.css?v=73416500754599178511790219904"
+    ],
+    "monospace": [
+      "https://shop.boox.com/cdn/shop/t/153/assets/vendor.min.css?v=72559489221033970801790219904"
+    ],
+    "sans-serif": [
+      "https://shop.boox.com/cdn/shop/t/153/assets/vendor.min.css?v=72559489221033970801790219904"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://shop.boox.com/",
+      "selector": ".wrapper_header_parallax .wrapper-header-bt",
+      "declarations": "background-color: #f9f9f9 ;"
+    },
+    {
+      "source": "https://shop.boox.com/",
+      "selector": ".wrapper_header_parallax .sticky-wrapper",
+      "declarations": "background-color: #f9f9f9 ;"
+    },
+    {
+      "source": "https://shop.boox.com/",
+      "selector": ".sticky-wrapper.is-sticky .wrapper-header-bt",
+      "declarations": "background-color:#fff;"
+    },
+    {
+      "source": "https://shop.boox.com/",
+      "selector": "padding:0;\ndisplay: none\n\n    \n\n    \n    \n    \n\n    \n    \n    \n    \n    \n    \n    \n    \n\n    \n    \n    \n  \n  \t\n\n    .header-logo a.logo-title",
+      "declarations": "color: #000000;"
+    },
+    {
+      "source": "https://shop.boox.com/",
+      "selector": ".header-top",
+      "declarations": "background-color: #3c3c3c;\n        color: #ffffff;"
+    },
+    {
+      "source": "https://shop.boox.com/",
+      "selector": ".header-top a",
+      "declarations": "color: #ffffff;"
+    },
+    {
+      "source": "https://shop.boox.com/",
+      "selector": ".header-top .top-message p a:hover",
+      "declarations": "border-bottom-color: #ffffff;"
+    },
+    {
+      "source": "https://shop.boox.com/",
+      "selector": ".header-parallax .search-form .search-bar",
+      "declarations": "background-color: #f8f8f8;"
+    },
+    {
+      "source": "https://shop.boox.com/",
+      "selector": ".header-parallax .search-form .input-group-field",
+      "declarations": "color: #787878;"
+    },
+    {
+      "source": "https://shop.boox.com/",
+      "selector": ".header-parallax .search-form .icon-search",
+      "declarations": "color: #333333;"
+    },
+    {
+      "source": "https://shop.boox.com/",
+      "selector": ".header-parallax .search-form .search-bar ::-webkit-input-placeholder",
+      "declarations": "color: #787878;"
+    },
+    {
+      "source": "https://shop.boox.com/",
+      "selector": ".header-parallax .search-form .search-bar ::-moz-placeholder",
+      "declarations": "color: #787878;"
+    },
+    {
+      "source": "https://shop.boox.com/",
+      "selector": ".header-parallax .search-form .search-bar :-ms-input-placeholder",
+      "declarations": "color: #787878;"
+    },
+    {
+      "source": "https://shop.boox.com/",
+      "selector": ".header-parallax .search-form .search-bar :-moz-placeholder",
+      "declarations": "color: #787878;"
+    },
+    {
+      "source": "https://shop.boox.com/",
+      "selector": ".header-parallax.style_header_2 .lang-currency-groups .dropdown-label .text,.header-parallax.style_header_2 .lang-currency-groups .dropdown-toggle:after",
+      "declarations": "color: #000000;"
+    },
+    {
+      "source": "https://shop.boox.com/",
+      "selector": ".header-parallax.style_header_2 .lang-currency-groups .currency-block+.lang-block:before",
+      "declarations": "background-color: #cccccc;"
+    },
+    {
+      "source": "https://shop.boox.com/",
+      "selector": ".header-parallax.style_header_2 .acc-mb .user-text a",
+      "declarations": "color: #000000;"
+    },
+    {
+      "source": "https://shop.boox.com/",
+      "selector": ".header-parallax.style_header_2 .right-header .nav-search .icon-search svg",
+      "declarations": "color: #000000;\n        fill: #000000;"
+    },
+    {
+      "source": "https://shop.boox.com/",
+      "selector": ".header-parallax.style_header_2 .right-header .wishlist-icon svg",
+      "declarations": "color: #000000;\n        fill: #000000;"
+    },
+    {
+      "source": "https://shop.boox.com/",
+      "selector": ".header-parallax.style_header_2 .right-header .cart-icon svg",
+      "declarations": "color: #000000;\n        fill: #000000;"
+    },
+    {
+      "source": "https://shop.boox.com/",
+      "selector": ".wrapper_header_parallax .header-parallax.style_header_2 .right-header .nav-search .search-form",
+      "declarations": "background-color: #f8f8f8;"
+    },
+    {
+      "source": "https://shop.boox.com/",
+      "selector": ".site-nav .icon_product",
+      "declarations": "background-color: #ff674b;\n        color: #ffffff;"
+    },
+    {
+      "source": "https://shop.boox.com/",
+      "selector": ".header-parallax .search-form",
+      "declarations": "background-color: #f8f8f8;"
+    },
+    {
+      "source": "https://shop.boox.com/",
+      "selector": ".header-parallax .right-header .search-form .close-search",
+      "declarations": "color: #333333 !important;"
+    },
+    {
+      "source": "https://shop.boox.com/",
+      "selector": "r-header-bt .right-header a[class|='icon'],\n        .wrapper_header_parallax .wrapper-header-bt .right-header .wishlist,\n        .wrapper_header_parallax .wrapp",
+      "declarations": "color: #232323;"
+    },
+    {
+      "source": "https://shop.boox.com/",
+      "selector": "ader_parallax .right-header .icon-nav .icon-line,\n        .wrapper_header_parallax .right-header .icon-nav .icon-line:before,\n        .wrapper_header_parallax .",
+      "declarations": "background-color: #232323;"
+    },
+    {
+      "source": "https://shop.boox.com/",
+      "selector": ".site-nav .mega-menu .product-item .btn",
+      "declarations": "border-bottom-color: rgba(35, 35, 35, 0.7);"
+    },
+    {
+      "source": "https://shop.boox.com/",
+      "selector": ".site-nav .menu-lv-3 > a span:before, .header-parallax.style_header_2 .site-nav .no-mega-menu li>a span:before",
+      "declarations": "background-color: #ff674b;"
+    },
+    {
+      "source": "https://shop.boox.com/",
+      "selector": "ax.style_header_2 .site-nav .mega-menu .style_5 .skin-2 .azbrandstable .vendor-letter-menu a, .header-parallax.style_header_2 .site-nav .mega-menu .style_5 .meg",
+      "declarations": "color: #232323;"
+    },
+    {
+      "source": "https://shop.boox.com/",
+      "selector": ".mega-menu .style_5 .mega-banner.skin-3.skin-3-product, .site-nav .mega-menu .style_5 .mega-banner.skin-3.skin-3-product:before, .site-nav .mega-menu .style_5 .",
+      "declarations": "background-color: #ffffff !important;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "BOOX Shop\n        \n        \n\n        \n          –\n          The Official BOOX Store",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.boox.com/",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-settings.css?v=10335857369087029091790219904"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.boox.com/",
+        "https://shop.boox.com/cdn/shop/t/153/assets/vendor.min.css?v=72559489221033970801790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles-responsive.css?v=73416500754599178511790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-settings.css?v=10335857369087029091790219904"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.boox.com/",
+        "https://shop.boox.com/cdn/shop/t/153/assets/vendor.min.css?v=72559489221033970801790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles-responsive.css?v=73416500754599178511790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-settings.css?v=10335857369087029091790219904",
+        "https://shop.boox.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.boox.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.boox.com/",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles-responsive.css?v=73416500754599178511790219904"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.boox.com/",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles-responsive.css?v=73416500754599178511790219904"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.boox.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.boox.com/",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles-responsive.css?v=73416500754599178511790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-settings.css?v=10335857369087029091790219904"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.boox.com/",
+        "https://shop.boox.com/cdn/shop/t/153/assets/vendor.min.css?v=72559489221033970801790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles-responsive.css?v=73416500754599178511790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-settings.css?v=10335857369087029091790219904",
+        "https://shop.boox.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.dark-surface": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.boox.com/",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-settings.css?v=10335857369087029091790219904"
+      ]
+    },
+    "colors.on-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.boox.com/",
+        "https://shop.boox.com/cdn/shop/t/153/assets/vendor.min.css?v=72559489221033970801790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles-responsive.css?v=73416500754599178511790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-settings.css?v=10335857369087029091790219904",
+        "https://shop.boox.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.boox.com/",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904",
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles-responsive.css?v=73416500754599178511790219904"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.boox.com/cdn/shop/t/153/assets/theme-styles.css?v=11953356783630169111790219904"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.product-spec-table": {
+      "status": "inferred"
+    }
+  }
+}

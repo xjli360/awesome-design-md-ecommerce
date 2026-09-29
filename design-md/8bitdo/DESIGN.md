@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: 8BitDo
-description: A retro-gaming hardware brand that treats its products as miniature sculptures — each controller a distinct object with its own silhouette, colorway, and mechanical personality. The site runs on a stark black-and-white grid with no gradient, no shadow, and no decorative flourish; every pixel earns its place through product photography that isolates each controller against pure white canvas (#ffffff). The brand's signature move is the exploded-view product shot — a controller disassembled into its component layers (shell, buttons, D-pad, circuit board) floating in space, revealing the engineering inside the nostalgia. Typography is monospaced and utilitarian, evoking 8-bit terminal screens and early-game UI, set in a single weight across all headings and body copy. Buttons are hard-cornered rectangles (`{rounded.none}`) with no border-radius anywhere except the subtle pill shape of the search bar (`{rounded.full}`). The color palette is deliberately constrained: black (#000000) for ink, white (#ffffff) for canvas, and a single accent — the deep red (#e60012) that appears on the iconic 8BitDo logo and the "A" button of every controller — used sparingly for CTAs, price highlights, and active states. Product cards use a two-column grid on desktop, each card a simple image-plus-label with no hover effects, trusting the product's own visual presence over interaction gimmicks. The footer is a dense text wall of support links and region selectors, monochrome except for the red logo. This is a brand that says: we make objects, not interfaces — the site is just the catalog.
+name: "8BitDo"
+source_url: "https://www.8bitdo.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A retro-gaming hardware brand that treats its products as miniature sculptures — each controller a distinct object with its own silhouette, colorway, and mechanical personality. The site runs on a stark black-and-white grid with no gradient, no shadow, and no decorative flourish; every pixel earns its place through product photography that isolates each controller against pure white canvas (#ffffff). The brand's signature move is the exploded-view product shot — a controller disassembled into its component layers (shell, buttons, D-pad, circuit board) floating in space, revealing the engineering inside the nostalgia. Typography is monospaced and utilitarian, evoking 8-bit terminal screens and early-game UI, set in a single weight across all headings and body copy. Buttons are hard-cornered rectangles (`{rounded.none}`) with no border-radius anywhere except the subtle pill shape of the search bar (`{rounded.full}`). The color palette is deliberately constrained: black (#000000) for ink, white (#ffffff) for canvas, and a single accent — the deep red (#e60012) that appears on the iconic 8BitDo logo and the "A" button of every controller — used sparingly for CTAs, price highlights, and active states. Product cards use a two-column grid on desktop, each card a simple image-plus-label with no hover effects, trusting the product's own visual presence over interaction gimmicks. The footer is a dense text wall of support links and region selectors, monochrome except for the red logo. This is a brand that says: we make objects, not interfaces — the site is just the catalog.
 
 colors:
   primary: "#e60012"
@@ -348,6 +352,8 @@ components:
 - Search bar moves from the nav bar to a full-width overlay on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No font-family declarations could be extracted from the live site; the monospaced system font stack used here is inferred from the brand's retro-gaming aesthetic and common 8BitDo design patterns. The actual site may use a custom web font.
 - No extracted hex colors were available from the live site analysis; the color palette is reconstructed from the brand's known visual identity (logo red, black/white scheme, button colors from the SN30/Pro 2 controllers). A live extraction would confirm exact hex values.

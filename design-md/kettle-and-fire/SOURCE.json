@@ -1,0 +1,888 @@
+{
+  "source_url": "https://kettleandfire.com",
+  "final_url": "https://www.kettleandfire.com/",
+  "captured_at": "2026-09-28T09:27:21.485426+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://kettleandfire.com",
+      "final_url": "https://www.kettleandfire.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "077eef8bcf4525d4966c6af994538fd9a8321bf3559ca864c729b22a01227e7c",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981",
+      "final_url": "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "dffbc8bfa44ce41368310389198091f5c93f774ca4417146a29118502acad16a",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.kettleandfire.com/cdn/shop/t/451/assets/custom.css?v=147381718634169836461782783705",
+      "final_url": "https://www.kettleandfire.com/cdn/shop/t/451/assets/custom.css?v=147381718634169836461782783705",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e3fb365fa71672592458eb7597e6450cd98fc50e73bb23b982ccb04ffd3491f5",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Lato:400,700&display=swap",
+      "final_url": "https://fonts.googleapis.com/css?family=Lato:400,700&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "0f95a3227364ab2fe743dccfc765ef4e030725fcca7b52bca55e812a5fccd08c",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://use.typekit.net/saq7fzt.css",
+      "final_url": "https://use.typekit.net/saq7fzt.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "6e1f1622bd728d2a15f6f185b4646c62e98b5c45f455f9b47a6657a5c0f4ccbd",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "b8c734d35263e60241336f1018f9cd4db8d2c3962c5e9f70cae407a73a7da196",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 227,
+      "sources": [
+        "https://www.kettleandfire.com/",
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981",
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/custom.css?v=147381718634169836461782783705"
+      ]
+    },
+    "#000000": {
+      "count": 168,
+      "sources": [
+        "https://www.kettleandfire.com/",
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#2d2d2d": {
+      "count": 55,
+      "sources": [
+        "https://www.kettleandfire.com/",
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#2c2211": {
+      "count": 40,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#00000000": {
+      "count": 33,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#939393": {
+      "count": 30,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#a5a438": {
+      "count": 23,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#5d5d5d": {
+      "count": 19,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#aa141d": {
+      "count": 16,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#660e09": {
+      "count": 15,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#fff5db": {
+      "count": 14,
+      "sources": [
+        "https://www.kettleandfire.com/",
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#db1e14": {
+      "count": 12,
+      "sources": [
+        "https://www.kettleandfire.com/",
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#ebe3d4": {
+      "count": 12,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#3a3a11": {
+      "count": 12,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 11,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#221e1e": {
+      "count": 10,
+      "sources": [
+        "https://www.kettleandfire.com/"
+      ]
+    },
+    "#525252": {
+      "count": 10,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#eeeeee": {
+      "count": 10,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#4c4c4c": {
+      "count": 10,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#cccccc": {
+      "count": 9,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#999999": {
+      "count": 9,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 8,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#fff5f5": {
+      "count": 8,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#f6f7f8": {
+      "count": 7,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#0000001a": {
+      "count": 7,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#1e1e1e": {
+      "count": 7,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#e2e2e282": {
+      "count": 7,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#edeca6": {
+      "count": 7,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#6b6a6a": {
+      "count": 7,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#888888": {
+      "count": 6,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#d9d7d1": {
+      "count": 6,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#d02e2e": {
+      "count": 6,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#1f2933": {
+      "count": 6,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#5897fb": {
+      "count": 6,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#272224": {
+      "count": 6,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#686868": {
+      "count": 6,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#c2bfb5": {
+      "count": 6,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#2f2e0d": {
+      "count": 6,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#e7da9e": {
+      "count": 6,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#202324": {
+      "count": 5,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#2b1a1a": {
+      "count": 5,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#333333": {
+      "count": 5,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#0000004d": {
+      "count": 5,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#00000005": {
+      "count": 5,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#0000000a": {
+      "count": 5,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#a5a336": {
+      "count": 5,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#00000008": {
+      "count": 4,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#e4e7eb": {
+      "count": 4,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#ffeeeeee": {
+      "count": 4,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#8f8f8f": {
+      "count": 4,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#3a2c0a": {
+      "count": 4,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#262626": {
+      "count": 4,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#e0e2ea": {
+      "count": 4,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 3,
+      "sources": [
+        "https://www.kettleandfire.com/",
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#949494": {
+      "count": 3,
+      "sources": [
+        "https://www.kettleandfire.com/",
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#efefef": {
+      "count": 3,
+      "sources": [
+        "https://www.kettleandfire.com/",
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#684a0b": {
+      "count": 3,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#c9c9c9": {
+      "count": 3,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#34393a": {
+      "count": 3,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 3,
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    }
+  },
+  "font_families": {
+    "ASPalmer": [
+      "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+    ],
+    "Coastal": [
+      "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+    ],
+    "Consolas": [
+      "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+    ],
+    "Excelsior": [
+      "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+    ],
+    "Lato": [
+      "https://fonts.googleapis.com/css?family=Lato:400,700&display=swap"
+    ],
+    "Montserrat": [
+      "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981",
+      "https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap"
+    ],
+    "Sanremo": [
+      "https://www.kettleandfire.com/",
+      "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+    ],
+    "Swear": [
+      "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+    ],
+    "icons": [
+      "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+    ],
+    "monospace": [
+      "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+    ],
+    "sans-serif": [
+      "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+    ],
+    "sans-serif !important": [
+      "https://www.kettleandfire.com/"
+    ],
+    "serif": [
+      "https://use.typekit.net/saq7fzt.css"
+    ],
+    "swear-display": [
+      "https://use.typekit.net/saq7fzt.css"
+    ],
+    "wayfx": [
+      "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+    ],
+    "wayfx!important": [
+      "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+    ],
+    "wfx-portal": [
+      "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+    ],
+    "wfx-portal!important": [
+      "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.kettleandfire.com/",
+      "selector": ":root",
+      "declarations": "--f-book: 'swear-display';\n        --f-medium: 'swear-display';\n        --f-small: 'Montserrat', sans-serif;\n        --f-semi: 'Coastal';\n        --f-body: 'Excelsior', sans-serif;\n        --f-subheader: 'Sanremo', sans-serif;\n        --f-special: 'ASPalmer', sans-serif;\n\n        --c-primary: #db1e14;\n        --c-secondary: #221e1e;\n        --c-body-text: #221e1e;\n        --c-body-bg: #fff5db;\n        --c-border-color: #e5e5e5;\n        --c-footer-bg: #FFF5DB;\n        --c-footer-text: #000000;\n        --c-footer-social-link: #bbbbbb;\n        --c-brand-dark: #221E1E;\n        --c-brand-cream: #FFF5DB;\n        --c-dark-cream: #f5e3bc;\n\n        --logo-width: 450px;"
+    },
+    {
+      "source": "https://www.kettleandfire.com/",
+      "selector": ".wfx-header__search-results .wfx-icon",
+      "declarations": "color: #949494;\n    font-size: 16px;\n    left: 0;\n    margin-right: 5px;\n    position: relative;\n    top: 2px;"
+    },
+    {
+      "source": "https://www.kettleandfire.com/",
+      "selector": ".wfx-header__search-results ul li a",
+      "declarations": "color: #2d2d2d;\n    display: block;\n    font-size: 15px !important;\n    font-weight: 400;\n    letter-spacing: 0;\n    margin: 0;\n    padding: 8px 16px;\n    transition: all .3s;\n    width: 100%;"
+    },
+    {
+      "source": "https://www.kettleandfire.com/",
+      "selector": ".wfx-header__search-results-empty a",
+      "declarations": "color: var(--c-primary) !important;\n    font-size: 14px !important;\n    text-decoration: underline;"
+    },
+    {
+      "source": "https://www.kettleandfire.com/",
+      "selector": ".wayfx-hero__slider .slick-dots li button:before",
+      "declarations": "color: white;\n    opacity: 0.5;"
+    },
+    {
+      "source": "https://www.kettleandfire.com/",
+      "selector": ".wayfx-hero__slider .slick-dots li.slick-active button:before",
+      "declarations": "color: black;\n    opacity: 1;"
+    },
+    {
+      "source": "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981",
+      "selector": "html,body",
+      "declarations": "background-color:var(--c-body-bg)"
+    },
+    {
+      "source": "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981",
+      "selector": "body,input,textarea,button,select",
+      "declarations": "font-size:14px;line-height:1.6;font-family:var(--f-body);color:var(--c-body-text);font-weight:400;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:100%"
+    },
+    {
+      "source": "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981",
+      "selector": "button",
+      "declarations": "font-family:var(--f-subheader)"
+    },
+    {
+      "source": "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981",
+      "selector": "h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6",
+      "declarations": "display:block;font-family:var(--f-semi);font-weight:400;margin:0 0 .5em;line-height:1.4;color:inherit"
+    },
+    {
+      "source": "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981",
+      "selector": "h1 a,.h1 a,h2 a,.h2 a,h3 a,.h3 a,h4 a,.h4 a,h5 a,.h5 a,h6 a,.h6 a",
+      "declarations": "text-decoration:none;font-weight:inherit;color:inherit"
+    },
+    {
+      "source": "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981",
+      "selector": "h1 em,.h1 em,h2 em,.h2 em,h3 em,.h3 em,h4 em,.h4 em,h5 em,.h5 em,h6 em,.h6 em",
+      "declarations": "color:var(--c-primary);font-style:normal"
+    },
+    {
+      "source": "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981",
+      "selector": ".btn,.btn--secondary,.rte .btn--secondary,.rte .btn",
+      "declarations": "display:inline-block;padding:8px 10px;width:auto;margin:0;line-height:1.42;font-weight:700;text-decoration:none;text-align:center;vertical-align:middle;white-space:nowrap;cursor:pointer;border:1px solid rgba(0,0,0,0);-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-appearance:none;-moz-appearance:none;border-radius:50px;transition:all .3s ease-in-out;background-color:var(--c-primary);color:#fff"
+    },
+    {
+      "source": "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981",
+      "selector": ".btn:hover,.btn--secondary:hover,.rte .btn:hover",
+      "declarations": "background-color:#660e09;color:#fff!important"
+    },
+    {
+      "source": "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981",
+      "selector": ".btn:active,.btn--secondary:active,.btn:focus,.btn--secondary:focus,.rte .btn:active,.rte .btn:focus",
+      "declarations": "background-color:#370805;color:#fff!important"
+    },
+    {
+      "source": "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981",
+      "selector": ".btn[disabled],[disabled].btn--secondary,.btn.disabled,.disabled.btn--secondary,.rte .btn[disabled],.rte .btn.disabled",
+      "declarations": "cursor:default;color:#b6b6b6;background-color:#f6f6f6"
+    },
+    {
+      "source": "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981",
+      "selector": ".btn--secondary,.rte .btn--secondary",
+      "declarations": "background-color:var(--c-secondary)"
+    },
+    {
+      "source": "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981",
+      "selector": ".btn--secondary:hover,.rte .btn--secondary:hover",
+      "declarations": "background-color:#a2a2a2;color:#fff"
+    },
+    {
+      "source": "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981",
+      "selector": ".btn--secondary:active,.btn--secondary:focus,.rte .btn--secondary:active,.rte .btn--secondary:focus",
+      "declarations": "background-color:#888;color:#fff"
+    },
+    {
+      "source": "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981",
+      "selector": ".wfx-header .wfx-nav__link",
+      "declarations": "font-family:var(--f-subheader);font-weight:400;text-transform:uppercase"
+    },
+    {
+      "source": "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981",
+      "selector": ".wfx-header__cart-toggle",
+      "declarations": "display:inline-block;color:#000;font-family:var(--f-body);font-weight:600;font-size:16px;letter-spacing:.3px;outline:0"
+    },
+    {
+      "source": "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981",
+      "selector": ".wfx-header__cart-toggle:hover .wfx-icon,.wfx-header__cart-toggle:focus .wfx-icon",
+      "declarations": "color:var(--c-primary)"
+    },
+    {
+      "source": "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981",
+      "selector": ".wfx-header__search--wrapper>.wfx-icon",
+      "declarations": "color:#c9c9c9;font-size:16px;position:absolute"
+    },
+    {
+      "source": "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981",
+      "selector": ".wfx-header__search--wrapper .wfx-header__search--close .wfx-icon",
+      "declarations": "color:#c9c9c9;font-size:16px"
+    },
+    {
+      "source": "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981",
+      "selector": ".wfx-header--mobile__search--wrapper>.wfx-icon",
+      "declarations": "color:#949494;font-size:16px;position:absolute"
+    },
+    {
+      "source": "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981",
+      "selector": ".wfx-header--mobile__search--wrapper .wfx-header--mobile__search--close .wfx-icon",
+      "declarations": "color:#c9c9c9;font-size:16px"
+    },
+    {
+      "source": "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981",
+      "selector": ".algolia-autocomplete .aa-products-empty p",
+      "declarations": "color:#2d2d2d;font-size:14px"
+    },
+    {
+      "source": "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981",
+      "selector": ".algolia-autocomplete .aa-products-empty p.aa-no-result",
+      "declarations": "color:#2d2d2d"
+    },
+    {
+      "source": "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981",
+      "selector": ".algolia-autocomplete .aa-products-empty p a",
+      "declarations": "color:var(--c-primary);font-size:14px"
+    },
+    {
+      "source": "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981",
+      "selector": ".algolia-autocomplete .aa-dropdown-menu .aa-products-header",
+      "declarations": "color:#34393a;font-weight:700;font-size:.8em;letter-spacing:1px;margin-top:10px;margin-bottom:8px;padding-left:20px;text-transform:uppercase"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Kettle & Fire - Premium & 100% Grass-Fed Bone Broth",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kettleandfire.com/",
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kettleandfire.com/",
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981",
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/custom.css?v=147381718634169836461782783705"
+      ]
+    },
+    "colors.secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kettleandfire.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kettleandfire.com/"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kettleandfire.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kettleandfire.com/",
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kettleandfire.com/",
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981",
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/custom.css?v=147381718634169836461782783705"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kettleandfire.com/",
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "colors.accent-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "colors.disabled-text": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "colors.disabled-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "colors.badge-alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "colors.badge-highlight": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "colors.focus-ring": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "colors.footer-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kettleandfire.com/",
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "colors.footer-text": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kettleandfire.com/",
+        "https://www.kettleandfire.com/cdn/shop/t/451/assets/theme.css?v=68801197856668044111782783981"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.subscription-card": {
+      "status": "inferred"
+    }
+  }
+}

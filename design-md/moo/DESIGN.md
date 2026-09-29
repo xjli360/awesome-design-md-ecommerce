@@ -1,13 +1,17 @@
 ---
 version: alpha
-name: MOO
-description: The country-selector landing page immediately reveals something peculiar about MOO's design philosophy — even a purely functional routing screen gets the full brand treatment: rounded type, open whitespace, and a single `#00ac73` teal-green that pulses against a near-paper-white `#ecefed` canvas. That green, warmer than clinical mint and more saturated than sage, is MOO's chromatic signature: it appears wherever the interface needs to invite action, from primary CTAs to hover states, carrying the brand's argument that print-on-demand can feel joyful rather than transactional.
+name: "MOO"
+source_url: "https://www.moo.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The country-selector landing page immediately reveals something peculiar about MOO's design philosophy — even a purely functional routing screen gets the full brand treatment: rounded type, open whitespace, and a single `#00ac73` teal-green that pulses against a near-paper-white `#ecefed` canvas. That green, warmer than clinical mint and more saturated than sage, is MOO's chromatic signature: it appears wherever the interface needs to invite action, from primary CTAs to hover states, carrying the brand's argument that print-on-demand can feel joyful rather than transactional.
 
-MOO commissions two proprietary typefaces that define the brand's entire tonal register. Bryant MOO Pro — a rounded grotesque with soft terminals and generous ink traps — anchors display and headline work, resisting the stiffness of geometric sans-serifs without tipping into the casualness of a handwritten face. Avenir Next Rounded Pro picks up at UI scale, continuing the rounded-terminal logic through labels, navigation, and body copy. The result is a type system where nothing has a hard corner; even at the smallest caption size, the letterforms suggest that something crafted and physical is nearby.
+  MOO commissions two proprietary typefaces that define the brand's entire tonal register. Bryant MOO Pro — a rounded grotesque with soft terminals and generous ink traps — anchors display and headline work, resisting the stiffness of geometric sans-serifs without tipping into the casualness of a handwritten face. Avenir Next Rounded Pro picks up at UI scale, continuing the rounded-terminal logic through labels, navigation, and body copy. The result is a type system where nothing has a hard corner; even at the smallest caption size, the letterforms suggest that something crafted and physical is nearby.
 
-The ink color carries a barely perceptible forest-green undertone at `#07120c`, distinct from pure carbon black and harmonically related to the primary green. Body text resolves at `#1d1d1b`, which reads as black but warms the reading experience by a fraction. The mid-range neutral is `#97a39c`, a sage-meets-grey that holds hierarchy together in muted text, dividers, and secondary labels without competing with the green. Dark-section backgrounds anchor in `#122e1d`, a deep forest that grounds the palette in something earthlike rather than technological.
+  The ink color carries a barely perceptible forest-green undertone at `#07120c`, distinct from pure carbon black and harmonically related to the primary green. Body text resolves at `#1d1d1b`, which reads as black but warms the reading experience by a fraction. The mid-range neutral is `#97a39c`, a sage-meets-grey that holds hierarchy together in muted text, dividers, and secondary labels without competing with the green. Dark-section backgrounds anchor in `#122e1d`, a deep forest that grounds the palette in something earthlike rather than technological.
 
-Interactive geometry leans round: primary buttons sit at `{rounded.full}`, product cards at `{rounded.lg}`. MOO treats its UI components the way it treats its print products — edges finished, surfaces smooth. The spatial system is generous; whitespace is a structural element, echoing the card stock the brand manufactures. Photography of actual printed products does the heavy selling, so the UI steps back, keeps the grid clean, and lets a single spot of brand green tell users exactly where to go next.
+  Interactive geometry leans round: primary buttons sit at `{rounded.full}`, product cards at `{rounded.lg}`. MOO treats its UI components the way it treats its print products — edges finished, surfaces smooth. The spatial system is generous; whitespace is a structural element, echoing the card stock the brand manufactures. Photography of actual printed products does the heavy selling, so the UI steps back, keeps the grid clean, and lets a single spot of brand green tell users exactly where to go next.
 
 colors:
   primary: "#00ac73"
@@ -320,6 +324,8 @@ components:
 - Print preview panel: full-width at mobile, constrained to 50% of content column at desktop
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Palette extracted from a country-selector page; a large subset of hex values (`#e52420`, `#cc2229`, `#b32335`, `#3c3b6e`, `#33348e`, `#203c89`, `#ffcc0c`, `#009246`, etc.) are almost certainly national flag colors, not MOO brand tokens
 - No meta theme-color set on the page; `#00ac73` as primary is inferred from MOO's well-documented brand identity and corroborated as the most distinctive non-flag green in the extraction

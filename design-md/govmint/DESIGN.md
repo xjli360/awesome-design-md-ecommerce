@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: GovMint
-description: Coin photography drives every spatial decision at GovMint — obverse and reverse shots rendered at near-macro scale against near-black velvet force the layout to recede into deep navy scaffolding so the metal itself holds the light. The "Gov" prefix does deliberate work: it borrows the iconographic vocabulary of official mints — seals, eagles, engraved serif letterforms, the gravity of federal institutions — while operating as a fully commercial marketplace. That tension between sovereign authority and e-commerce pragmatics runs through the entire system. Primary actions fire in a muted coin-gold (#c8962e), not the electric blues common to fintech; the brand would rather suggest precious metal than urgency. Dark hero sections in near-midnight navy (#0d1f3c) give way to white product-listing surfaces, creating a strong light/dark alternation that mimics a display case — objects on felt, price tags under glass. Headlines lean on a condensed serif or slab face to invoke engraved legend text on actual coin dies; body copy drops to a neutral sans to keep long product descriptions legible. Trust signals — NGC/PCGS grade badges, mintage-limit callouts, certified-dealer banners — are treated as first-class UI components, not footnotes, because the purchase decision in numismatics is entirely dependent on provenance data. Rounded corners are conservative ({rounded.sm} at most on cards, {rounded.xs} on badges), reflecting the rectilinear precision of packaging rather than the soft consumer-app aesthetic. The overall register is authoritative and collection-minded: a site built for buyers who already know what MS-70 means and want to confirm it before they commit.
+name: "GovMint"
+source_url: "https://www.govmint.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Coin photography drives every spatial decision at GovMint — obverse and reverse shots rendered at near-macro scale against near-black velvet force the layout to recede into deep navy scaffolding so the metal itself holds the light. The "Gov" prefix does deliberate work: it borrows the iconographic vocabulary of official mints — seals, eagles, engraved serif letterforms, the gravity of federal institutions — while operating as a fully commercial marketplace. That tension between sovereign authority and e-commerce pragmatics runs through the entire system. Primary actions fire in a muted coin-gold (#c8962e), not the electric blues common to fintech; the brand would rather suggest precious metal than urgency. Dark hero sections in near-midnight navy (#0d1f3c) give way to white product-listing surfaces, creating a strong light/dark alternation that mimics a display case — objects on felt, price tags under glass. Headlines lean on a condensed serif or slab face to invoke engraved legend text on actual coin dies; body copy drops to a neutral sans to keep long product descriptions legible. Trust signals — NGC/PCGS grade badges, mintage-limit callouts, certified-dealer banners — are treated as first-class UI components, not footnotes, because the purchase decision in numismatics is entirely dependent on provenance data. Rounded corners are conservative ({rounded.sm} at most on cards, {rounded.xs} on badges), reflecting the rectilinear precision of packaging rather than the soft consumer-app aesthetic. The overall register is authoritative and collection-minded: a site built for buyers who already know what MS-70 means and want to confirm it before they commit.
 
 colors:
   primary: "#c8962e"
@@ -403,6 +407,8 @@ components:
 - Category tile grid collapses from 4-col → 2-col → 1-col with aspect ratio shifting from 3:2 to 16:9 on mobile for better thumb browsing
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **All hex colors are brand-knowledge estimates, not extracted values.** The site returned HTTP 405 (Not Allowed) during crawl; zero colors were captured. Actual brand primaries (navy, gold, red values) should be verified against live CSS or design files before production use.
 - **All font families are estimates.** No font stacks were detected from the live site. GovMint may use a licensed custom or commercial font (e.g., a slab serif for headlines); the Georgia/Arial fallback chain used here is a safe approximation only.

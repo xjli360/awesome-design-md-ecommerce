@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Nestig
-description: A nursery brand that builds its visual language around a deep, confident navy (#173482) and a warm, blush-adjacent clay (#e6c9c1), a pairing that reads as both heirloom-solid and tender. The palette is unusually generous — a full spectrum of muted earth tones (#965f44, #bf7f4c, #c1996c), soft pinks (#e2c4c9, #e7bacc), and airy blues (#8fbed4, #c2e6fa, #aac4e7) that suggest a brand unafraid of color in a category that often defaults to all-white or all-gray. The primary navy (#173482) carries CTAs and key structural elements, while the clay (#e6c9c1) appears in secondary surfaces and accent blocks, creating a warm counterpoint. The type system leans on Matter and Gooper for display moments — Matter brings a geometric, almost architectural precision to headings, while True North Script introduces a hand-lettered, personal note in hero titles and badges. Assistant serves as the workhorse body face, keeping product descriptions and navigation legible at small sizes. Rounded corners are restrained: cards and inputs use a soft 8px (`{rounded.sm}`), while badges and small decorative elements may go fully pill-shaped (`{rounded.full}`). The canvas is a warm off-white (#f9f5f2) rather than pure white, giving every page a lived-in, nursery-at-dusk quality. Nestig trusts its color blocks and generous product photography over heavy typographic hierarchy — the brand feels like a room you want to sit in, not a catalog you scan.
+name: "Nestig"
+source_url: "https://nestig.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A nursery brand that builds its visual language around a deep, confident navy (#173482) and a warm, blush-adjacent clay (#e6c9c1), a pairing that reads as both heirloom-solid and tender. The palette is unusually generous — a full spectrum of muted earth tones (#965f44, #bf7f4c, #c1996c), soft pinks (#e2c4c9, #e7bacc), and airy blues (#8fbed4, #c2e6fa, #aac4e7) that suggest a brand unafraid of color in a category that often defaults to all-white or all-gray. The primary navy (#173482) carries CTAs and key structural elements, while the clay (#e6c9c1) appears in secondary surfaces and accent blocks, creating a warm counterpoint. The type system leans on Matter and Gooper for display moments — Matter brings a geometric, almost architectural precision to headings, while True North Script introduces a hand-lettered, personal note in hero titles and badges. Assistant serves as the workhorse body face, keeping product descriptions and navigation legible at small sizes. Rounded corners are restrained: cards and inputs use a soft 8px (`{rounded.sm}`), while badges and small decorative elements may go fully pill-shaped (`{rounded.full}`). The canvas is a warm off-white (#f9f5f2) rather than pure white, giving every page a lived-in, nursery-at-dusk quality. Nestig trusts its color blocks and generous product photography over heavy typographic hierarchy — the brand feels like a room you want to sit in, not a catalog you scan.
 
 colors:
   primary: "#173482"
@@ -437,6 +441,8 @@ components:
 - Product image galleries switch from horizontal thumbnails to dot indicators
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted font list includes "inherit" and "oke-widget-icons" (Okendo review widget), which are not brand fonts — these were excluded from the typography system
 - True North Script appears in the extracted fonts but its exact usage context (hero headlines, badges, or decorative elements) could not be confirmed from the extraction alone

@@ -1,0 +1,629 @@
+{
+  "source_url": "https://floyd.one",
+  "final_url": "https://floyd.one/",
+  "captured_at": "2026-09-29T04:16:17.250008+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://floyd.one",
+      "final_url": "https://floyd.one/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "98aedb63e8eb602810881666b9cdadc7c328d208fd311639bd4d0e6b8bb6f44f",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://floyd.one/cdn/shop/t/36/assets/floyd-navigation.css?v=105030899460858219021788782162",
+      "final_url": "https://floyd.one/cdn/shop/t/36/assets/floyd-navigation.css?v=105030899460858219021788782162",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "41aab1be46c1bbc0cc38ce78b36373548d7654974807448538520a48a22097ea",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://floyd.one/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://floyd.one/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187",
+      "final_url": "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e0cb73b1a7813a89a5d6115cd4fe2529082205cf7be2445505b88bbfe6f9b2fc",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-overrides.css?v=129643583080641644211788682238",
+      "final_url": "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-overrides.css?v=129643583080641644211788682238",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f228fc29bc9f2f68fc07e587fa74be026466e2fb9be321a55ebed440a79d976b",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-generated.css?v=27780986439615158721788720613",
+      "final_url": "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-generated.css?v=27780986439615158721788720613",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "366e658b4025d3d35bee7b3994f913e4094e7f154929cc119888fa541266885d",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 17,
+      "sources": [
+        "https://floyd.one/",
+        "https://floyd.one/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187",
+        "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-generated.css?v=27780986439615158721788720613"
+      ]
+    },
+    "#00000000": {
+      "count": 13,
+      "sources": [
+        "https://floyd.one/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
+      ]
+    },
+    "#522e3e": {
+      "count": 7,
+      "sources": [
+        "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-generated.css?v=27780986439615158721788720613"
+      ]
+    },
+    "#0000000d": {
+      "count": 4,
+      "sources": [
+        "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
+      ]
+    },
+    "#c8c8c833": {
+      "count": 4,
+      "sources": [
+        "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
+      ]
+    },
+    "#372229": {
+      "count": 3,
+      "sources": [
+        "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-generated.css?v=27780986439615158721788720613"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://floyd.one/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#000000": {
+      "count": 2,
+      "sources": [
+        "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://floyd.one/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://floyd.one/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://floyd.one/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
+      ]
+    },
+    "#3636364d": {
+      "count": 1,
+      "sources": [
+        "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
+      ]
+    },
+    "#00000066": {
+      "count": 1,
+      "sources": [
+        "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
+      ]
+    },
+    "#ffffffe6": {
+      "count": 1,
+      "sources": [
+        "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-overrides.css?v=129643583080641644211788682238"
+      ]
+    },
+    "#43273a": {
+      "count": 1,
+      "sources": [
+        "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-generated.css?v=27780986439615158721788720613"
+      ]
+    },
+    "#373737": {
+      "count": 1,
+      "sources": [
+        "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-generated.css?v=27780986439615158721788720613"
+      ]
+    },
+    "#8f8d8d": {
+      "count": 1,
+      "sources": [
+        "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-generated.css?v=27780986439615158721788720613"
+      ]
+    },
+    "#307a07": {
+      "count": 1,
+      "sources": [
+        "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-generated.css?v=27780986439615158721788720613"
+      ]
+    }
+  },
+  "font_families": {
+    "Consolas": [
+      "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
+    ],
+    "Courier New": [
+      "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
+    ],
+    "Instrument Sans": [
+      "https://floyd.one/"
+    ],
+    "Liberation Mono": [
+      "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
+    ],
+    "Menlo": [
+      "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
+    ],
+    "Monaco": [
+      "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
+    ],
+    "Nunito": [
+      "https://floyd.one/"
+    ],
+    "SFMono-Regular": [
+      "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
+    ],
+    "Trade Gothic Pro Light!important": [
+      "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-generated.css?v=27780986439615158721788720613"
+    ],
+    "monospace": [
+      "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
+    ],
+    "sans-serif": [
+      "https://floyd.one/"
+    ],
+    "ui-monospace": [
+      "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://floyd.one/",
+      "selector": "[dir=\"rtl\"]:root",
+      "declarations": "--transform-logical-flip: -1;\n    --transform-origin-start: right;\n    --transform-origin-end: left;"
+    },
+    {
+      "source": "https://floyd.one/",
+      "selector": ":root",
+      "declarations": "--text-xs: 1.0rem;\n      --text-sm: 1.0625rem;\n      --text-base: 1.125rem;\n      --text-lg: 1.25rem;\n      --text-xl: 1.375rem;\n\n      \n      --container-gutter: 2rem;"
+    },
+    {
+      "source": "https://floyd.one/",
+      "selector": ":root",
+      "declarations": "--container-gutter: 3rem;\n\n      --section-vertical-spacing: 4rem;\n      --section-vertical-spacing-tight: 4rem;\n\n      --section-stack-gap:3rem;\n      --section-stack-gap-tight:3rem;"
+    },
+    {
+      "source": "https://floyd.one/",
+      "selector": ":root",
+      "declarations": "--page-overlay: 0 0 0 / 0.4;\n\n    \n    --page-background: ;\n\n    \n    --on-sale-text: 227 44 43;\n    --on-sale-badge-background: 227 44 43;\n    --on-sale-badge-text: 255 255 255;\n    --sold-out-badge-background: 239 239 239;\n    --sold-out-badge-text: 0 0 0 / 0.65;\n    --custom-badge-background: 28 28 28;\n    --custom-badge-text: 255 255 255;\n    --star-color: 28 28 28;\n\n    \n    --success-background: 212 227 203;\n    --success-text: 48 122 7;\n    --warning-background: 253 241 224;\n    --warning-text: 237 138 0;\n    --error-background: 243 204 204;\n    --error-text: 203 43 43;\n\n    \n    --modal-scheme-background: 255 255 255;\n    --modal-scheme-background-gradient: ;\n    --modal-scheme-text-"
+    },
+    {
+      "source": "https://floyd.one/",
+      "selector": "display:none;visibility:hidden\ndisplay: contents\ndisplay: contents\ndisplay: contents\nposition: absolute; width: 1px; height: 1px; top: var(--header-scroll-track",
+      "declarations": "--header-is-sticky: 1;"
+    },
+    {
+      "source": "https://floyd.one/",
+      "selector": "#shopify-section-sections--25319250231682__header",
+      "declarations": "--header-grid: \"primary-nav logo secondary-nav\" / minmax(0, 1fr) auto minmax(0, 1fr);\n    --header-padding-block: 1rem;\n    --header-transparent-header-text-color: 255 255 255;\n    --floyd-navigation-background: 255 255 255 / 1.0;\n    --floyd-navigation-gradient: none;\n    --floyd-navigation-text: 55 34 41;\n    --floyd-navigation-border: 55 34 41 / 0.15;\n    --header-separation-border-color: 55 34 41 / 0.15;\n\n    position: relative;\n    z-index: 4;"
+    },
+    {
+      "source": "https://floyd.one/",
+      "selector": "#shopify-section-sections--25319250231682__header",
+      "declarations": "--header-padding-block: 1.6rem;"
+    },
+    {
+      "source": "https://floyd.one/",
+      "selector": "#shopify-section-sections--25319250231682__header",
+      "declarations": "--header-grid: \"logo primary-nav secondary-nav\" / minmax(max-content, 1fr) auto minmax(max-content, 1fr);"
+    },
+    {
+      "source": "https://floyd.one/",
+      "selector": "#shopify-section-sections--25319250231682__header",
+      "declarations": "--header-logo-width: 80px;"
+    },
+    {
+      "source": "https://floyd.one/",
+      "selector": "#shopify-section-sections--25319250231682__header",
+      "declarations": "--header-logo-width: 140px;"
+    },
+    {
+      "source": "https://floyd.one/cdn/shop/t/36/assets/floyd-navigation.css?v=105030899460858219021788782162",
+      "selector": "group)) .floyd-navigation:not(.is-solid):not(:has(.header__primary-nav [aria-expanded=true],.header__primary-nav details[open]:not([aria-expanded]),.header__sec",
+      "declarations": "--background: 0 0 0 / 0 !important;--background-gradient: none !important;--text-color: var(--header-transparent-header-text-color) !important;--header-show-transparent-logo: 1 !important;--header-separation-border-color: 0 0 0 / 0 !important"
+    },
+    {
+      "source": "https://floyd.one/cdn/shop/t/36/assets/floyd-navigation.css?v=105030899460858219021788782162",
+      "selector": ".floyd-navigation .header__primary-nav-item [data-title]:before",
+      "declarations": "color:inherit;-webkit-text-fill-color:transparent;background:currentColor"
+    },
+    {
+      "source": "https://floyd.one/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://floyd.one/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://floyd.one/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://floyd.one/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://floyd.one/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://floyd.one/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;font-weight:inherit;font-style:inherit;line-height:inherit;text-transform:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187",
+      "selector": "button,[type=button],[type=reset],[type=submit]",
+      "declarations": "-webkit-appearance:button;background-color:#0000;background-image:none"
+    },
+    {
+      "source": "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187",
+      "selector": "button,label,summary,[role=button],[type=checkbox],[type=radio]",
+      "declarations": "-webkit-tap-highlight-color:transparent;touch-action:manipulation;cursor:pointer"
+    },
+    {
+      "source": "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187",
+      "selector": ".color-scheme--with-image-overlay .button--outline",
+      "declarations": "--border-color: var(--text-color)"
+    },
+    {
+      "source": "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187",
+      "selector": ".button,.shopify-challenge__button,.shopify-payment-button__button--unbranded",
+      "declarations": "--initial-gradient: linear-gradient(rgb(var(--button-background)), rgb(var(--button-background)));--hover-gradient: linear-gradient(transparent, transparent);--initial-background-position: var(--transform-origin-end);--hover-background-position: var(--transform-origin-start);-webkit-appearance:none;appearance:none;text-transform:var(--button-text-transform);font:var(--button-font);letter-spacing:var(--button-letter-spacing);text-shadow:none;text-align:center;cursor:pointer;color:rgb(var(--button-text-color));border:1px solid rgb(var(--button-outline-color, var(--button-background)));border-radius:var(--button-border-radius);background-color:#0000;background-image:var(--initial-gradient),var("
+    },
+    {
+      "source": "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "border:1px solid rgb(var(--button-outline-color, var(--button-background)))!important;border-radius:var(--button-border-radius)!important;background-color:#0000!important;transition:background-size .45s cubic-bezier(.785,.135,.15,.86),background-position .45s step-end,color .45s cubic-bezier(.785,.135,.15,.86),border .45s cubic-bezier(.785,.135,.15,.86)!important"
+    },
+    {
+      "source": "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187",
+      "selector": ".shopify-payment-button__button--unbranded:not(:hover)",
+      "declarations": "color:rgb(var(--button-text-color))!important"
+    },
+    {
+      "source": "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187",
+      "selector": ".button--outline",
+      "declarations": "--initial-gradient: linear-gradient(transparent, transparent);--hover-gradient: linear-gradient(rgb(var(--button-background)), rgb(var(--button-background)));--initial-background-position: var(--transform-origin-start);--hover-background-position: var(--transform-origin-end);color:rgb(var(--button-background, var(--text-color)));border-color:rgb(var(--button-outline-color, var(--border-color)))"
+    },
+    {
+      "source": "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187",
+      "selector": ".button--subdued.button--outline",
+      "declarations": "color:rgb(var(--button-background) / .65);border-color:rgb(var(--border-color))"
+    },
+    {
+      "source": "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187",
+      "selector": ".features--button-transition :is(.button,.shopify-challenge__button,.shopify-payment-button__button--unbranded):not([disabled]):hover",
+      "declarations": "color:rgb(var(--button-background));background-position:var(--hover-background-position);border-color:rgb(var(--button-background));background-size:0 101%,101% 101%"
+    },
+    {
+      "source": "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187",
+      "selector": ".features--button-transition .shopify-payment-button__button--unbranded:not([disabled]):hover",
+      "declarations": "background-color:#0000"
+    },
+    {
+      "source": "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187",
+      "selector": ".features--button-transition .button--outline:not([disabled]):hover",
+      "declarations": "color:rgb(var(--button-text-color))"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Floyd – Giving modern travel its mojo back",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://floyd.one/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://floyd.one/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://floyd.one/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://floyd.one/",
+        "https://floyd.one/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187",
+        "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-generated.css?v=27780986439615158721788720613"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-generated.css?v=27780986439615158721788720613"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-generated.css?v=27780986439615158721788720613"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://floyd.one/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-overrides.css?v=129643583080641644211788682238"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://floyd.one/",
+        "https://floyd.one/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187",
+        "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-generated.css?v=27780986439615158721788720613"
+      ]
+    },
+    "colors.wine": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-generated.css?v=27780986439615158721788720613"
+      ]
+    },
+    "colors.wine-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-generated.css?v=27780986439615158721788720613"
+      ]
+    },
+    "colors.wine-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-generated.css?v=27780986439615158721788720613"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://floyd.one/cdn/shop/t/36/assets/floyd-legacy-generated.css?v=27780986439615158721788720613"
+      ]
+    },
+    "colors.overlay-faint": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
+      ]
+    },
+    "colors.overlay-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
+      ]
+    },
+    "colors.overlay-medium": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
+      ]
+    },
+    "colors.overlay-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
+      ]
+    },
+    "colors.ink-pure": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
+      ]
+    },
+    "colors.transparent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://floyd.one/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://floyd.one/cdn/shop/t/36/assets/theme.css?v=159064326163571637561783508187"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.case-spec-panel": {
+      "status": "inferred"
+    }
+  }
+}

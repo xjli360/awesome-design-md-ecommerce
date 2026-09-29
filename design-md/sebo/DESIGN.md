@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Sebo
-description: Sage green (#c7dfc2) runs through a predominantly white site at a moment when most appliance brands default to anthracite or corporate blue — it is the first and most telling choice, a garden-soft hue pressed against stainless-steel engineering language. The palette has almost no warmth after the sage: a series of barely-differentiated near-whites (#f7f7f7, #f3f3f3, #f0f0f0, #ececf3) flatten into a single luminous background field, then deep navy (#102745) anchors all heavy type and primary action elements, with a link-toned medium blue (#116699) as the only secondary accent. This is a cool, northern-European palette applied deliberately to a product sold on longevity rather than novelty. Baskerville appears at the display scale — a serif that reads as old-world and trustworthy rather than modern and disposable — while Arial handles every interface label, button, and body paragraph. The typographic split is architecturally honest: Baskerville argues for the brand's permanence, Arial executes the catalog. Corner radii are conservative; the interface uses {rounded.xs} and {rounded.sm} at most, and product imagery sits in flat or barely-cornered containers that reinforce the industrial precision of the machines themselves. Navigation is restrained — horizontal links in plain Arial with no mega-menu theatrics, letting the product hierarchy stay quiet. Section spacing is generous, giving each vacuum enough page volume to read as an engineered object rather than a catalog entry. The sage-on-navy pairing in primary actions ({colors.primary} background, {colors.on-primary} text) subverts the conventional white-on-dark CTA expectation and signals that Sebo is not designing to appliance-industry default.
+name: "Sebo"
+source_url: "https://www.sebo.us"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Sage green (#c7dfc2) runs through a predominantly white site at a moment when most appliance brands default to anthracite or corporate blue — it is the first and most telling choice, a garden-soft hue pressed against stainless-steel engineering language. The palette has almost no warmth after the sage: a series of barely-differentiated near-whites (#f7f7f7, #f3f3f3, #f0f0f0, #ececf3) flatten into a single luminous background field, then deep navy (#102745) anchors all heavy type and primary action elements, with a link-toned medium blue (#116699) as the only secondary accent. This is a cool, northern-European palette applied deliberately to a product sold on longevity rather than novelty. Baskerville appears at the display scale — a serif that reads as old-world and trustworthy rather than modern and disposable — while Arial handles every interface label, button, and body paragraph. The typographic split is architecturally honest: Baskerville argues for the brand's permanence, Arial executes the catalog. Corner radii are conservative; the interface uses {rounded.xs} and {rounded.sm} at most, and product imagery sits in flat or barely-cornered containers that reinforce the industrial precision of the machines themselves. Navigation is restrained — horizontal links in plain Arial with no mega-menu theatrics, letting the product hierarchy stay quiet. Section spacing is generous, giving each vacuum enough page volume to read as an engineered object rather than a catalog entry. The sage-on-navy pairing in primary actions ({colors.primary} background, {colors.on-primary} text) subverts the conventional white-on-dark CTA expectation and signals that Sebo is not designing to appliance-industry default.
 
 colors:
   primary: "#c7dfc2"
@@ -314,6 +318,8 @@ components:
 - Footer link columns stack vertically on mobile, each section headed by a disclosure toggle
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom brand font detected beyond system stacks; it is unclear whether Sebo loads a proprietary typeface via JavaScript or relies entirely on Baskerville and Arial — all typography tokens use system fallbacks
 - Exact primary color role unconfirmed: #c7dfc2 is the most distinctive extracted color but its specific usage as button fill, hero tint, or background accent could not be verified without live DOM inspection

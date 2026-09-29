@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Troma Direct
-description: A defiantly unpolished, blood-splattered retail outlet where the brand's true primary is not a generic blue but the lurid #cc1818 — a red that reads as dried B-movie gore against a backdrop of #eeeeee and #2f2f2f. The site wears its WordPress DNA openly: WooCommerce blue (#007cba) for add-to-cart buttons, #003388 for deep link states, and a sprawling palette of 30+ extracted hexes that includes #f0b849 (marigold), #4ab866 (slime green), and #34e2e4 (toxic cyan) — evidence of a design system built by duct-taping stock WordPress blocks together rather than commissioning a bespoke storefront. Typography is the system default stack (San Francisco, Roboto, Segoe UI) at modest sizes, with no custom brand typeface. The visual language is aggressively flat: zero rounded corners (`{rounded.none}`), no shadows, no gradients — the only texture comes from the product photography itself, which is proudly lo-fi. Navigation is a horizontal bar of category links in #2f2f2f on #eeeeee, punctuated by a search form that looks like it was styled in 2012. The footer is a dense wall of text links in #003388 on #eeeeee, with a "Newsletter" signup that uses the same #007cba button as everything else. This is a store that doesn't pretend to be polished — it sells Troma movies, and the design says "we spent our budget on the films, not the website."
+name: "Troma Direct"
+source_url: "https://www.tromadirect.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A defiantly unpolished, blood-splattered retail outlet where the brand's true primary is not a generic blue but the lurid #cc1818 — a red that reads as dried B-movie gore against a backdrop of #eeeeee and #2f2f2f. The site wears its WordPress DNA openly: WooCommerce blue (#007cba) for add-to-cart buttons, #003388 for deep link states, and a sprawling palette of 30+ extracted hexes that includes #f0b849 (marigold), #4ab866 (slime green), and #34e2e4 (toxic cyan) — evidence of a design system built by duct-taping stock WordPress blocks together rather than commissioning a bespoke storefront. Typography is the system default stack (San Francisco, Roboto, Segoe UI) at modest sizes, with no custom brand typeface. The visual language is aggressively flat: zero rounded corners (`{rounded.none}`), no shadows, no gradients — the only texture comes from the product photography itself, which is proudly lo-fi. Navigation is a horizontal bar of category links in #2f2f2f on #eeeeee, punctuated by a search form that looks like it was styled in 2012. The footer is a dense wall of text links in #003388 on #eeeeee, with a "Newsletter" signup that uses the same #007cba button as everything else. This is a store that doesn't pretend to be polished — it sells Troma movies, and the design says "we spent our budget on the films, not the website."
 
 colors:
   primary: "#cc1818"
@@ -456,6 +460,8 @@ components:
 - Search form moves from inline in the header to a full-width bar below the navigation on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states**: Only button hover states were reliably extracted (color darkening). Link hover states, card hover effects, and navigation hover states are unknown.
 - **Focus states**: Only text input focus state was extracted (blue box-shadow). Button focus, link focus, and navigation focus states are unknown.

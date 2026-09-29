@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Janji
-description: A running brand that paints its gear in the colors of the places it comes from — #108474 (a deep teal pulled from Costa Rican jungle canopy) and #c8c6c5 (a weathered stone gray) set the tone, while accents like #ea3d26 (volcanic red) and #f6f1a0 (high-altitude yellow) flash across product details and CTAs. The palette reads like a field notebook: #90a7a3 (mossy sage), #899379 (dry earth), #485354 (basalt), and #b45457 (clay brick) appear in patterns and linings, not just trim. Typography splits between PierSans-Bold for headlines — a sturdy, slightly condensed sans that stands up to trail grit — and Nunito Sans for body, a rounder, more approachable face that keeps the brand from feeling too severe. Buttons use {rounded.full} pills in that teal or red, while product cards sit in {rounded.sm} on a #f7f7f7 canvas, letting the photography — always of runners in real landscapes, not studios — carry the emotional weight. The nav bar is a thin strip of {colors.ink} (#29292d) with white text, a deliberate inversion that says "we're serious about performance." There's no hero carousel; instead, the homepage leads with a single full-bleed image and a bold PierSans statement, trusting the place and the runner to sell the gear.
+name: "Janji"
+source_url: "https://janji.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A running brand that paints its gear in the colors of the places it comes from — #108474 (a deep teal pulled from Costa Rican jungle canopy) and #c8c6c5 (a weathered stone gray) set the tone, while accents like #ea3d26 (volcanic red) and #f6f1a0 (high-altitude yellow) flash across product details and CTAs. The palette reads like a field notebook: #90a7a3 (mossy sage), #899379 (dry earth), #485354 (basalt), and #b45457 (clay brick) appear in patterns and linings, not just trim. Typography splits between PierSans-Bold for headlines — a sturdy, slightly condensed sans that stands up to trail grit — and Nunito Sans for body, a rounder, more approachable face that keeps the brand from feeling too severe. Buttons use {rounded.full} pills in that teal or red, while product cards sit in {rounded.sm} on a #f7f7f7 canvas, letting the photography — always of runners in real landscapes, not studios — carry the emotional weight. The nav bar is a thin strip of {colors.ink} (#29292d) with white text, a deliberate inversion that says "we're serious about performance." There's no hero carousel; instead, the homepage leads with a single full-bleed image and a bold PierSans statement, trusting the place and the runner to sell the gear.
 
 colors:
   primary: "#108474"
@@ -343,6 +347,8 @@ components:
 - Hero text overlay reduces font size and may stack vertically
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for secondary buttons, text inputs, and nav links could not be reliably extracted from the static CSS; the above uses reasonable defaults (subtle shadow, border color change)
 - Error styling for form inputs (red border, error message typography) is not present in the extracted data

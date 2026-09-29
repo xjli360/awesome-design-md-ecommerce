@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Jackpot Records
-description: A record store that wears its red like a neon sign over a damp Portland sidewalk — #dc0000 is the primary voltage, pulled from the meta theme-color and splashed across the top nav bar, sale badges, and the site's single persistent CTA. The canvas is a cool off-white #f3f5f6, not pure white, giving the page a slightly aged paper stock feel that suits a shop selling used vinyl and new releases side by side. The ink is a near-black #1e1e1b, dense and warm, with body text in #677279 — a muted slate that keeps reading comfortable across long browsing sessions. Product cards sit on white `{colors.surface-card}` with `{rounded.sm}` corners and a thin `{colors.hairline}` border, letting album art do all the emotional work. The typeface is Instrument Sans, a clean geometric sans with a touch of warmth, set at modest weights — display headlines at 500, body at 400 — never competing with the record covers. A secondary green accent #008a00 appears in stock indicators and "Add to Cart" states, while #ffbd00 marks sale prices and limited-edition drops. The overall feeling is that of a well-organized bin at your favorite shop: nothing precious, everything findable, and the red keeps pulling your eye to what matters.
+name: "Jackpot Records"
+source_url: "https://www.jackpotrecords.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A record store that wears its red like a neon sign over a damp Portland sidewalk — #dc0000 is the primary voltage, pulled from the meta theme-color and splashed across the top nav bar, sale badges, and the site's single persistent CTA. The canvas is a cool off-white #f3f5f6, not pure white, giving the page a slightly aged paper stock feel that suits a shop selling used vinyl and new releases side by side. The ink is a near-black #1e1e1b, dense and warm, with body text in #677279 — a muted slate that keeps reading comfortable across long browsing sessions. Product cards sit on white `{colors.surface-card}` with `{rounded.sm}` corners and a thin `{colors.hairline}` border, letting album art do all the emotional work. The typeface is Instrument Sans, a clean geometric sans with a touch of warmth, set at modest weights — display headlines at 500, body at 400 — never competing with the record covers. A secondary green accent #008a00 appears in stock indicators and "Add to Cart" states, while #ffbd00 marks sale prices and limited-edition drops. The overall feeling is that of a well-organized bin at your favorite shop: nothing precious, everything findable, and the red keeps pulling your eye to what matters.
 
 colors:
   primary: "#dc0000"
@@ -524,6 +528,8 @@ components:
 - Cart drawer remains a slide-in panel on all breakpoints but shifts to full-width on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for many components are inferred from common patterns; actual extracted hover colors are not available
 - Error styling for form inputs (validation, error messages) is not present in the extracted data

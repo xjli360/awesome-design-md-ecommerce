@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Ernie Ball
-description: A high-voltage pink — #ff10a4 — is the first thing you see on Ernie Ball’s site, and it’s a deliberate jolt. This is not a pastel or a blush; it’s a neon magenta that reads as electric, youthful, and unapologetically loud, sitting atop a near-black ink (#121212) and a deep royal blue (#003399) that recalls the brand’s California heritage and the cobalt of a perfect sky. The palette is lean and confrontational: the pink owns every primary CTA, every “Shop Now” button, every sale badge, while the grays (#d0d0d0, #c2c2c2, #aaaaaa) and warm browns (#403629, #241912) ground the system in the material world of guitar wood, leather straps, and road-worn cases. Type runs Gotham SSm, a geometric sans-serif that feels both muscular and precise — the same font that brands like Spotify and Airbnb use for its clean, no-nonsense readability. Display headlines sit at moderate weights (500–600) rather than heavy 700+, letting the pink and the product photography do the heavy lifting. Buttons are softly rounded (`{rounded.sm}` ~8px), never pill-shaped — the brand prefers a slight shoulder over a full radius, keeping things purposeful without feeling overly friendly. Product cards use a crisp white canvas (`{colors.canvas}`) with a thin hairline (`{colors.hairline}`) and generous padding, letting the strings, picks, and straps breathe. The overall mood is a backstage pass: loud where it needs to be, serious where it counts, and always, always in tune.
+name: "Ernie Ball"
+source_url: "https://www.ernieball.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A high-voltage pink — #ff10a4 — is the first thing you see on Ernie Ball’s site, and it’s a deliberate jolt. This is not a pastel or a blush; it’s a neon magenta that reads as electric, youthful, and unapologetically loud, sitting atop a near-black ink (#121212) and a deep royal blue (#003399) that recalls the brand’s California heritage and the cobalt of a perfect sky. The palette is lean and confrontational: the pink owns every primary CTA, every “Shop Now” button, every sale badge, while the grays (#d0d0d0, #c2c2c2, #aaaaaa) and warm browns (#403629, #241912) ground the system in the material world of guitar wood, leather straps, and road-worn cases. Type runs Gotham SSm, a geometric sans-serif that feels both muscular and precise — the same font that brands like Spotify and Airbnb use for its clean, no-nonsense readability. Display headlines sit at moderate weights (500–600) rather than heavy 700+, letting the pink and the product photography do the heavy lifting. Buttons are softly rounded (`{rounded.sm}` ~8px), never pill-shaped — the brand prefers a slight shoulder over a full radius, keeping things purposeful without feeling overly friendly. Product cards use a crisp white canvas (`{colors.canvas}`) with a thin hairline (`{colors.hairline}`) and generous padding, letting the strings, picks, and straps breathe. The overall mood is a backstage pass: loud where it needs to be, serious where it counts, and always, always in tune.
 
 colors:
   primary: "#ff10a4"
@@ -325,6 +329,8 @@ components:
 - Product cards switch from a grid to a single-column list on mobile, with full-width images.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for text inputs, links, and secondary buttons could not be reliably extracted from the static HTML/CSS. The active states defined above are inferred from common patterns.
 - Error and validation styling (e.g., red borders, error messages) is not present in the extracted data. A standard red (`#e91e63` from the extracted list) is used for star ratings but may not be the official error color.

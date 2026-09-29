@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Verso Books
-description: A radical leftist publisher that uses a near-black ink (#121212) on a warm off-white canvas (#dedede) as its primary visual argument — not as a minimalist affectation but as a political and economic one, signaling that the book is the object, not the interface. The site runs Aktiv Grotesk in three weights (thin, regular, arabic) at modest sizes, with no hero carousel, no full-bleed photography, and no decorative illustration; the cover image of each book carries all the emotional weight. Navigation is a single horizontal strip of categories (Theory, History, Fiction, etc.) in 14px regular weight, with no dropdowns, no mega-menus, and no search bar visible until you click the magnifying-glass icon. The product grid uses a tight 2-column layout on desktop with 12px gaps (`{spacing.md}`) and no rounded corners on cards (`{rounded.none}`) — the only radius in the system is the 4px (`{rounded.xs}`) on the newsletter signup button and the 8px (`{rounded.sm}`) on the search input. This is a bookstore built for people who already know what they want: the interface gets out of the way, the typography is utilitarian, and the only color outside the black/white/gray spectrum is the occasional red sale badge or the yellow "New" flag on recently published titles. The footer is a dense column of links in 12px caption weight, with no social-media icons — just text links to Twitter, Instagram, and the Verso blog. The entire experience reads as a warehouse with good lighting: functional, serious, and indifferent to persuasion.
+name: "Verso Books"
+source_url: "https://www.versobooks.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A radical leftist publisher that uses a near-black ink (#121212) on a warm off-white canvas (#dedede) as its primary visual argument — not as a minimalist affectation but as a political and economic one, signaling that the book is the object, not the interface. The site runs Aktiv Grotesk in three weights (thin, regular, arabic) at modest sizes, with no hero carousel, no full-bleed photography, and no decorative illustration; the cover image of each book carries all the emotional weight. Navigation is a single horizontal strip of categories (Theory, History, Fiction, etc.) in 14px regular weight, with no dropdowns, no mega-menus, and no search bar visible until you click the magnifying-glass icon. The product grid uses a tight 2-column layout on desktop with 12px gaps (`{spacing.md}`) and no rounded corners on cards (`{rounded.none}`) — the only radius in the system is the 4px (`{rounded.xs}`) on the newsletter signup button and the 8px (`{rounded.sm}`) on the search input. This is a bookstore built for people who already know what they want: the interface gets out of the way, the typography is utilitarian, and the only color outside the black/white/gray spectrum is the occasional red sale badge or the yellow "New" flag on recently published titles. The footer is a dense column of links in 12px caption weight, with no social-media icons — just text links to Twitter, Instagram, and the Verso blog. The entire experience reads as a warehouse with good lighting: functional, serious, and indifferent to persuasion.
 
 colors:
   primary: "#121212"
@@ -290,6 +294,8 @@ components:
 - The "Quick Add" button on product cards is hidden on mobile; users must tap through to the product page
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for product cards (the site may use a subtle shadow or border change, but this could not be reliably extracted from the static CSS)
 - Error message styling for form validation (text color, background, icon usage)

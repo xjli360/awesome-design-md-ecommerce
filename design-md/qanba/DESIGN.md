@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Qanba
-description: A fighting-game hardware brand that announces itself in high-contrast red and black — #dd1111 as the primary voltage, a saturated, almost aggressive crimson that appears on every product badge, add-to-cart button, and sale flag, set against a deep #222222 ink background that gives the storefront the weight of a tournament-grade arcade stick. The palette is deliberately limited: #dd1111 for action, #222222 for structure, #f5f5f5 and #f7f7f7 for the canvas, and a single accent of #ff6600 that surfaces on limited-edition or high-margin items. Typography runs GothamBook-Regular at display sizes and OpenSans-Regular for body copy, both sans-serif faces that read clean and utilitarian — no serif flourishes, no decorative weight, just the functional legibility of a control panel label. Product cards use a soft {rounded.sm} corner on thumbnails and a {rounded.md} on the card container itself, while the primary CTA button takes a {rounded.sm} that feels purposeful without being soft. The nav bar is a solid band of #222222 with white text, and the footer repeats the same dark mass with muted #888888 links. There is no hero imagery, no lifestyle photography — the site leads with product grids, spec tables, and compatibility badges, treating the hardware as its own best visual. The overall mood is that of a pro-gear catalog: direct, high-contrast, and built for people who already know what they want.
+name: "Qanba"
+source_url: "https://www.qanba.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A fighting-game hardware brand that announces itself in high-contrast red and black — #dd1111 as the primary voltage, a saturated, almost aggressive crimson that appears on every product badge, add-to-cart button, and sale flag, set against a deep #222222 ink background that gives the storefront the weight of a tournament-grade arcade stick. The palette is deliberately limited: #dd1111 for action, #222222 for structure, #f5f5f5 and #f7f7f7 for the canvas, and a single accent of #ff6600 that surfaces on limited-edition or high-margin items. Typography runs GothamBook-Regular at display sizes and OpenSans-Regular for body copy, both sans-serif faces that read clean and utilitarian — no serif flourishes, no decorative weight, just the functional legibility of a control panel label. Product cards use a soft {rounded.sm} corner on thumbnails and a {rounded.md} on the card container itself, while the primary CTA button takes a {rounded.sm} that feels purposeful without being soft. The nav bar is a solid band of #222222 with white text, and the footer repeats the same dark mass with muted #888888 links. There is no hero imagery, no lifestyle photography — the site leads with product grids, spec tables, and compatibility badges, treating the hardware as its own best visual. The overall mood is that of a pro-gear catalog: direct, high-contrast, and built for people who already know what they want.
 
 colors:
   primary: "#dd1111"
@@ -313,6 +317,8 @@ components:
 - Hero banner reduces vertical padding by 50% on mobile; CTA button remains full-width below headline
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for most components could not be reliably extracted from the live site; the values above (e.g., `button-primary-active`) are inferred from the extracted palette and common patterns
 - Error state styling (form validation, out-of-stock messaging) was not observed; `error` and `error-soft` colors are extracted but their usage is speculative

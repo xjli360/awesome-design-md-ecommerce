@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Grove Collaborative
-description: A muted, grounded palette anchored on #303030 ink against a #f7f3e4 canvas — the color of unbleached parchment — gives Grove Collaborative the feel of a well-edited pantry rather than a sterile ecommerce storefront. The brand’s primary voltage is #1f3521, a deep forest green that appears on add-to-cart buttons, sustainability badges, and the “Made in USA” seal, while #bf339d (a confident magenta) cuts across the system as a limited-use accent for sale tags and promotional banners. Typography runs ValueSans and ValueSerif Bold — the sans at Regular weight for body copy and Medium for navigation, the serif reserved for editorial headlines that read like a natural-products magazine. Corners are soft but not pillowy: buttons use {rounded.sm} (8px), product cards use {rounded.md} (12px), and the search bar uses {rounded.lg} (20px) — a gentle rounding that avoids the hyper-friendly full-pill of consumer apps. The checkout flow leans on #e0e0e0 and #eeeeee for dividers and disabled states, while #cdec85 (a pale chartreuse) and #aaf2f3 (a minty cyan) appear in ingredient callouts and eco-score graphics, suggesting a brand that trusts color-coded information over dense copy. The overall mood is restrained, credible, and slightly editorial — a cleaning-supply brand that wants you to read the label, not just scan the price.
+name: "Grove Collaborative"
+source_url: "https://grove.co"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A muted, grounded palette anchored on #303030 ink against a #f7f3e4 canvas — the color of unbleached parchment — gives Grove Collaborative the feel of a well-edited pantry rather than a sterile ecommerce storefront. The brand’s primary voltage is #1f3521, a deep forest green that appears on add-to-cart buttons, sustainability badges, and the “Made in USA” seal, while #bf339d (a confident magenta) cuts across the system as a limited-use accent for sale tags and promotional banners. Typography runs ValueSans and ValueSerif Bold — the sans at Regular weight for body copy and Medium for navigation, the serif reserved for editorial headlines that read like a natural-products magazine. Corners are soft but not pillowy: buttons use {rounded.sm} (8px), product cards use {rounded.md} (12px), and the search bar uses {rounded.lg} (20px) — a gentle rounding that avoids the hyper-friendly full-pill of consumer apps. The checkout flow leans on #e0e0e0 and #eeeeee for dividers and disabled states, while #cdec85 (a pale chartreuse) and #aaf2f3 (a minty cyan) appear in ingredient callouts and eco-score graphics, suggesting a brand that trusts color-coded information over dense copy. The overall mood is restrained, credible, and slightly editorial — a cleaning-supply brand that wants you to read the label, not just scan the price.
 
 colors:
   primary: "#1f3521"
@@ -381,6 +385,8 @@ components:
 - Promo banner collapses from multi-line to single-line at < 744px, with "Learn More" link hidden
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for buttons and links are inferred from common patterns; exact opacity values and transition durations were not extractable from the live site
 - Error styling for forms (helper text color, icon placement) is estimated based on the extracted red palette; exact error state tokens are not confirmed

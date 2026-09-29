@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Burst
-description: A deep violet #370078 anchors Burst's entire visual system — not as a subtle accent but as the dominant field behind product shots, the full-bleed hero background, and the primary button fill, creating a sense of clinical authority that feels more like a premium electronics brand than an oral-care company. Against this violet field, a high-voltage marigold #ffdd00 becomes the single accent color for CTAs, price highlights, and promotional badges, generating the kind of contrast that makes the "SHOP NOW" button feel like an urgent invitation rather than a passive link. The canvas is a cool off-white #f4f4f6, slightly softer than pure white, with a secondary surface tone #e5e5eb that gives cards and input fields a subtle dimensionality. Typography runs a neutral sans-serif stack at moderate weights — display headlines sit at 600 weight rather than the heavy 700+ common in DTC, letting the violet backdrop and product imagery carry the emotional weight rather than typographic muscle. Product cards use softly rounded corners ({rounded.md}) and generous whitespace, while the search bar and newsletter signup adopt pill shapes ({rounded.full}) that echo the ergonomic curves of the brand's sonic toothbrush handles. The overall mood is confident, clean, and slightly clinical — a brand that trusts its deep violet authority and yellow voltage more than decorative flourishes.
+name: "Burst"
+source_url: "https://burstoralcare.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep violet #370078 anchors Burst's entire visual system — not as a subtle accent but as the dominant field behind product shots, the full-bleed hero background, and the primary button fill, creating a sense of clinical authority that feels more like a premium electronics brand than an oral-care company. Against this violet field, a high-voltage marigold #ffdd00 becomes the single accent color for CTAs, price highlights, and promotional badges, generating the kind of contrast that makes the "SHOP NOW" button feel like an urgent invitation rather than a passive link. The canvas is a cool off-white #f4f4f6, slightly softer than pure white, with a secondary surface tone #e5e5eb that gives cards and input fields a subtle dimensionality. Typography runs a neutral sans-serif stack at moderate weights — display headlines sit at 600 weight rather than the heavy 700+ common in DTC, letting the violet backdrop and product imagery carry the emotional weight rather than typographic muscle. Product cards use softly rounded corners ({rounded.md}) and generous whitespace, while the search bar and newsletter signup adopt pill shapes ({rounded.full}) that echo the ergonomic curves of the brand's sonic toothbrush handles. The overall mood is confident, clean, and slightly clinical — a brand that trusts its deep violet authority and yellow voltage more than decorative flourishes.
 
 colors:
   primary: "#370078"
@@ -331,6 +335,8 @@ components:
 - Secondary navigation (category filters, sort options) collapses to a dropdown selector on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted font-family declarations only returned "inherit" and widget-specific fonts (oke-widget-icons). The actual brand font family could not be reliably extracted from the live site CSS. The typography block uses a system font stack as a fallback. If the brand uses a custom typeface (e.g., a licensed font), that should replace the `inherit` value.
 - Hover and active states for most components are inferred from common patterns rather than extracted from the live site. Specific hover transitions, shadows, and color shifts should be verified against the actual implementation.

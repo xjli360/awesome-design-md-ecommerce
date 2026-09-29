@@ -1,0 +1,889 @@
+{
+  "source_url": "https://apupabove.com",
+  "final_url": "https://apupabove.com/",
+  "captured_at": "2026-09-28T04:45:49.675989+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://apupabove.com",
+      "final_url": "https://apupabove.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "200e7f7321c1e277d851e3e00cf8a685324b59adfcb6bb9fff76cbe9fb1f4f5a",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://apupabove.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://apupabove.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721",
+      "final_url": "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "26f005a928c19ca197ae0d6784752f5918c9ffc4febd80aaf02c7e8f5e8c4256",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-custom.scss.css?v=25736433518008304201790279946",
+      "final_url": "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-custom.scss.css?v=25736433518008304201790279946",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f196e1fdbb852dbdb4486a4fa928647001bdf61c9b230a64af9fa9803e77e1fe",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-style.scss.css?v=67691803640260913951789670720",
+      "final_url": "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-style.scss.css?v=67691803640260913951789670720",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f9a519332c358fad674ae4e66525fb7379976e2a8149643d3a3249564ed92b25",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://apupabove.com/cdn/shop/t/425/assets/base.css?v=177946997503462741151789670615",
+      "final_url": "https://apupabove.com/cdn/shop/t/425/assets/base.css?v=177946997503462741151789670615",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "046ac1e916d2e43d4ee55802d125df5e9e51cee672c5254e2cb7af69cc3ac432",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 261,
+      "sources": [
+        "https://apupabove.com/",
+        "https://apupabove.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721",
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-custom.scss.css?v=25736433518008304201790279946",
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-style.scss.css?v=67691803640260913951789670720",
+        "https://apupabove.com/cdn/shop/t/425/assets/base.css?v=177946997503462741151789670615"
+      ]
+    },
+    "#0c3d37": {
+      "count": 203,
+      "sources": [
+        "https://apupabove.com/",
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721",
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-custom.scss.css?v=25736433518008304201790279946",
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-style.scss.css?v=67691803640260913951789670720"
+      ]
+    },
+    "#178468": {
+      "count": 27,
+      "sources": [
+        "https://apupabove.com/",
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721",
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-custom.scss.css?v=25736433518008304201790279946"
+      ]
+    },
+    "#d8f1ea": {
+      "count": 16,
+      "sources": [
+        "https://apupabove.com/"
+      ]
+    },
+    "#000000": {
+      "count": 16,
+      "sources": [
+        "https://apupabove.com/",
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721",
+        "https://apupabove.com/cdn/shop/t/425/assets/base.css?v=177946997503462741151789670615"
+      ]
+    },
+    "#ebebeb": {
+      "count": 16,
+      "sources": [
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721"
+      ]
+    },
+    "#d20000": {
+      "count": 14,
+      "sources": [
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721",
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-custom.scss.css?v=25736433518008304201790279946"
+      ]
+    },
+    "#197d71": {
+      "count": 14,
+      "sources": [
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721"
+      ]
+    },
+    "#fdba12": {
+      "count": 9,
+      "sources": [
+        "https://apupabove.com/"
+      ]
+    },
+    "#0c3d370d": {
+      "count": 9,
+      "sources": [
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721"
+      ]
+    },
+    "#57cc9c": {
+      "count": 8,
+      "sources": [
+        "https://apupabove.com/",
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-custom.scss.css?v=25736433518008304201790279946"
+      ]
+    },
+    "#c2cecd": {
+      "count": 8,
+      "sources": [
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-custom.scss.css?v=25736433518008304201790279946"
+      ]
+    },
+    "#ff6600": {
+      "count": 7,
+      "sources": [
+        "https://apupabove.com/",
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-custom.scss.css?v=25736433518008304201790279946"
+      ]
+    },
+    "#76d4b2": {
+      "count": 6,
+      "sources": [
+        "https://apupabove.com/"
+      ]
+    },
+    "#4acfde": {
+      "count": 6,
+      "sources": [
+        "https://apupabove.com/"
+      ]
+    },
+    "#faba0a": {
+      "count": 6,
+      "sources": [
+        "https://apupabove.com/"
+      ]
+    },
+    "#7c44ba": {
+      "count": 6,
+      "sources": [
+        "https://apupabove.com/"
+      ]
+    },
+    "#1c6bd3": {
+      "count": 6,
+      "sources": [
+        "https://apupabove.com/"
+      ]
+    },
+    "#c71b8b": {
+      "count": 6,
+      "sources": [
+        "https://apupabove.com/"
+      ]
+    },
+    "#0c3d3740": {
+      "count": 6,
+      "sources": [
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721"
+      ]
+    },
+    "#ffffff40": {
+      "count": 6,
+      "sources": [
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721"
+      ]
+    },
+    "#c0ded2": {
+      "count": 6,
+      "sources": [
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-custom.scss.css?v=25736433518008304201790279946"
+      ]
+    },
+    "#685858": {
+      "count": 5,
+      "sources": [
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721"
+      ]
+    },
+    "#ffffff80": {
+      "count": 5,
+      "sources": [
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721"
+      ]
+    },
+    "#5ecf9d": {
+      "count": 5,
+      "sources": [
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-custom.scss.css?v=25736433518008304201790279946"
+      ]
+    },
+    "#849e9b": {
+      "count": 5,
+      "sources": [
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-custom.scss.css?v=25736433518008304201790279946"
+      ]
+    },
+    "#178469": {
+      "count": 4,
+      "sources": [
+        "https://apupabove.com/",
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-custom.scss.css?v=25736433518008304201790279946"
+      ]
+    },
+    "#178569": {
+      "count": 4,
+      "sources": [
+        "https://apupabove.com/",
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-custom.scss.css?v=25736433518008304201790279946"
+      ]
+    },
+    "#119d52": {
+      "count": 4,
+      "sources": [
+        "https://apupabove.com/"
+      ]
+    },
+    "#0c3d378c": {
+      "count": 4,
+      "sources": [
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721"
+      ]
+    },
+    "#ff6700": {
+      "count": 4,
+      "sources": [
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-custom.scss.css?v=25736433518008304201790279946",
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-style.scss.css?v=67691803640260913951789670720"
+      ]
+    },
+    "#121212": {
+      "count": 3,
+      "sources": [
+        "https://apupabove.com/",
+        "https://apupabove.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f87c1f": {
+      "count": 3,
+      "sources": [
+        "https://apupabove.com/",
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-custom.scss.css?v=25736433518008304201790279946"
+      ]
+    },
+    "#0c3c37": {
+      "count": 3,
+      "sources": [
+        "https://apupabove.com/"
+      ]
+    },
+    "#2999ba": {
+      "count": 3,
+      "sources": [
+        "https://apupabove.com/"
+      ]
+    },
+    "#eb4200": {
+      "count": 3,
+      "sources": [
+        "https://apupabove.com/"
+      ]
+    },
+    "#e59e0d": {
+      "count": 3,
+      "sources": [
+        "https://apupabove.com/"
+      ]
+    },
+    "#c8c6e3": {
+      "count": 3,
+      "sources": [
+        "https://apupabove.com/"
+      ]
+    },
+    "#add0ff": {
+      "count": 3,
+      "sources": [
+        "https://apupabove.com/"
+      ]
+    },
+    "#dfa5cf": {
+      "count": 3,
+      "sources": [
+        "https://apupabove.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 3,
+      "sources": [
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721"
+      ]
+    },
+    "#fff8f8": {
+      "count": 3,
+      "sources": [
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721",
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-custom.scss.css?v=25736433518008304201790279946"
+      ]
+    },
+    "#651818": {
+      "count": 3,
+      "sources": [
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721"
+      ]
+    },
+    "#00000066": {
+      "count": 3,
+      "sources": [
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721"
+      ]
+    },
+    "#000000bf": {
+      "count": 3,
+      "sources": [
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721"
+      ]
+    },
+    "#ea0606": {
+      "count": 3,
+      "sources": [
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721"
+      ]
+    },
+    "#0000001a": {
+      "count": 3,
+      "sources": [
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-custom.scss.css?v=25736433518008304201790279946"
+      ]
+    },
+    "#bde7d4": {
+      "count": 3,
+      "sources": [
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-custom.scss.css?v=25736433518008304201790279946"
+      ]
+    },
+    "#ffffff00": {
+      "count": 3,
+      "sources": [
+        "https://apupabove.com/cdn/shop/t/425/assets/base.css?v=177946997503462741151789670615"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 2,
+      "sources": [
+        "https://apupabove.com/"
+      ]
+    },
+    "#242833": {
+      "count": 2,
+      "sources": [
+        "https://apupabove.com/"
+      ]
+    },
+    "#334fb4": {
+      "count": 2,
+      "sources": [
+        "https://apupabove.com/"
+      ]
+    },
+    "#56cc9c": {
+      "count": 2,
+      "sources": [
+        "https://apupabove.com/",
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-custom.scss.css?v=25736433518008304201790279946"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://apupabove.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://apupabove.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 2,
+      "sources": [
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721"
+      ]
+    },
+    "#1f873d": {
+      "count": 2,
+      "sources": [
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721"
+      ]
+    },
+    "#0c3d3799": {
+      "count": 2,
+      "sources": [
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721"
+      ]
+    },
+    "#0c3d37b3": {
+      "count": 2,
+      "sources": [
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721"
+      ]
+    },
+    "#00000038": {
+      "count": 2,
+      "sources": [
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-custom.scss.css?v=25736433518008304201790279946"
+      ]
+    }
+  },
+  "font_families": {
+    "Assistant": [
+      "https://apupabove.com/",
+      "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721"
+    ],
+    "Consolas": [
+      "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721"
+    ],
+    "Crete Round": [
+      "https://apupabove.com/",
+      "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721",
+      "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-custom.scss.css?v=25736433518008304201790279946",
+      "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-style.scss.css?v=67691803640260913951789670720"
+    ],
+    "DD Paytone One": [
+      "https://apupabove.com/"
+    ],
+    "DD Zilla Slab": [
+      "https://apupabove.com/"
+    ],
+    "Knockout 27": [
+      "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721"
+    ],
+    "Knockout 46": [
+      "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721"
+    ],
+    "Knockout 47": [
+      "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721"
+    ],
+    "Knockout 48": [
+      "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721"
+    ],
+    "Knockout 68": [
+      "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721",
+      "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-custom.scss.css?v=25736433518008304201790279946",
+      "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-style.scss.css?v=67691803640260913951789670720"
+    ],
+    "Marquee": [
+      "https://apupabove.com/",
+      "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721",
+      "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-custom.scss.css?v=25736433518008304201790279946",
+      "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-style.scss.css?v=67691803640260913951789670720"
+    ],
+    "Marquee-ExtraLight": [
+      "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721"
+    ],
+    "Raw Selvage": [
+      "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721",
+      "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-custom.scss.css?v=25736433518008304201790279946",
+      "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-style.scss.css?v=67691803640260913951789670720"
+    ],
+    "monospace": [
+      "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721"
+    ],
+    "sans-serif": [
+      "https://apupabove.com/",
+      "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721",
+      "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-custom.scss.css?v=25736433518008304201790279946"
+    ],
+    "serif": [
+      "https://apupabove.com/"
+    ],
+    "slick-icons": [
+      "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://apupabove.com/",
+      "selector": ":root,\n        .color-scheme-1",
+      "declarations": "--color-background: 255,255,255;\n        \n          --gradient-background: #ffffff;\n        \n\n        \n\n        --color-foreground: 18,18,18;\n        --color-background-contrast: 191,191,191;\n        --color-shadow: 18,18,18;\n        --color-button: 18,18,18;\n        --color-button-text: 255,255,255;\n        --color-secondary-button: 255,255,255;\n        --color-secondary-button-text: 18,18,18;\n        --color-link: 18,18,18;\n        --color-badge-foreground: 18,18,18;\n        --color-badge-background: 255,255,255;\n        --color-badge-border: 18,18,18;\n        --payment-terms-background-color: rgb(255 255 255);"
+    },
+    {
+      "source": "https://apupabove.com/",
+      "selector": "body, .color-scheme-1, .color-scheme-2, .color-scheme-3, .color-scheme-4, .color-scheme-5",
+      "declarations": "color: rgba(var(--color-foreground), 0.75);\n        background-color: rgb(var(--color-background));"
+    },
+    {
+      "source": "https://apupabove.com/",
+      "selector": "body",
+      "declarations": "display: flex;\n        flex-direction: column;\n        min-height: 100%;\n        margin: 0;\n        font-size: 1.5rem;\n        letter-spacing: 0.06rem;\n        line-height: calc(1 + 0.8 / var(--font-body-scale));\n        font-family: var(--font-body-family);\n        font-style: var(--font-body-style);\n        font-weight: var(--font-body-weight);"
+    },
+    {
+      "source": "https://apupabove.com/",
+      "selector": ".apa-header--sections--22525866803352__header",
+      "declarations": "position: relative;\n    z-index: 20;\n    background: #0C3D37;\n    font-family: 'Marquee', sans-serif;"
+    },
+    {
+      "source": "https://apupabove.com/",
+      "selector": ".apa-header--sections--22525866803352__header .apa-header__logo-text",
+      "declarations": "color: #fff;\n    font-size: 18px;\n    text-transform: uppercase;"
+    },
+    {
+      "source": "https://apupabove.com/",
+      "selector": ".apa-header--sections--22525866803352__header .apa-header__icon-btn,\n  .apa-header--sections--22525866803352__header .apa-header__icon-link",
+      "declarations": "display: inline-flex;\n    align-items: center;\n    justify-content: center;\n    background: none;\n    border: 0;\n    padding: 0;\n    color: #fff;\n    cursor: pointer;"
+    },
+    {
+      "source": "https://apupabove.com/",
+      "selector": ".apa-header--sections--22525866803352__header .apa-header__cart-count-num",
+      "declarations": "font-size: 16px;\n    line-height: 1;\n    color: #0C3D37;"
+    },
+    {
+      "source": "https://apupabove.com/",
+      "selector": ".apa-header--sections--22525866803352__header .apa-header__nav-link",
+      "declarations": "color: #fff;\n    font-size: 16px;\n    text-transform: uppercase;\n    background: none;\n    border: 0;\n    padding: 0;\n    cursor: pointer;"
+    },
+    {
+      "source": "https://apupabove.com/",
+      "selector": ".apa-header--sections--22525866803352__header .apa-header__mega-active",
+      "declarations": "display: flex;\n    align-items: center;\n    justify-content: space-between;\n    gap: 10px;\n    background: #76D4B2;\n    border-radius: 6px;\n    padding: 12px 24px;\n    color: #0C3D37;\n    font-size: 16px;\n    text-transform: uppercase;"
+    },
+    {
+      "source": "https://apupabove.com/",
+      "selector": ".apa-header--sections--22525866803352__header .apa-header__mega-links a",
+      "declarations": "color: #0C3D37;\n    font-size: 16px;\n    text-transform: uppercase;"
+    },
+    {
+      "source": "https://apupabove.com/",
+      "selector": ".apa-header--sections--22525866803352__header .apa-header__mega-links--grid",
+      "declarations": "display: grid;\n    grid-template-columns: repeat(3, 1fr);\n    gap: 10px;\n    font-family: 'Crete Round', serif;"
+    },
+    {
+      "source": "https://apupabove.com/",
+      "selector": ".apa-header--sections--22525866803352__header .apa-header__mega-banner-text",
+      "declarations": "position: relative;\n    flex: 1;\n    margin: 0;\n    padding-left: 90px;\n    color: #fff;\n    font-family: 'Crete Round', serif;\n    font-size: 15px;\n    line-height: 1.5;"
+    },
+    {
+      "source": "https://apupabove.com/",
+      "selector": ".apa-header--sections--22525866803352__header .apa-header__mega-banner-link",
+      "declarations": "position: relative;\n    flex-shrink: 0;\n    padding-bottom: 8px;\n    border-bottom: 3px solid #fff;\n    color: #fff;\n    font-size: 12px;\n    text-transform: uppercase;\n    white-space: nowrap;"
+    },
+    {
+      "source": "https://apupabove.com/",
+      "selector": ".apa-header--sections--22525866803352__header .apa-header__mega-product",
+      "declarations": "display: flex;\n    align-items: center;\n    gap: 15px;\n    background: #fff;\n    border-radius: 6px;\n    padding: 12px 12px 12px 0;\n    color: #0C3D37;"
+    },
+    {
+      "source": "https://apupabove.com/",
+      "selector": ".apa-header--sections--22525866803352__header .apa-header__mega-product-desc",
+      "declarations": "font-family: 'Crete Round', serif;\n    font-size: 15px;\n    line-height: 1.3;"
+    },
+    {
+      "source": "https://apupabove.com/",
+      "selector": ".apa-header--sections--22525866803352__header .apa-header__drawer-announcement p",
+      "declarations": "margin: 0;\n    color: #0C3D37;\n    font-family: 'Crete Round', serif;\n    font-size: 16px;\n    font-weight: 400;\n    line-height: 1.1;\n    text-align: center;\n    white-space: nowrap;\n    overflow: hidden;\n    text-overflow: ellipsis;"
+    },
+    {
+      "source": "https://apupabove.com/",
+      "selector": ".apa-header--sections--22525866803352__header .apa-header__shortcut-label",
+      "declarations": "flex: 1;\n    color: #0C3D37;\n    font-size: 16px;\n    text-transform: uppercase;"
+    },
+    {
+      "source": "https://apupabove.com/",
+      "selector": ".apa-header--sections--22525866803352__header .apa-header__drawer-column-heading",
+      "declarations": "display: flex;\n    align-items: center;\n    justify-content: space-between;\n    padding-bottom: 20px;\n    border-bottom: 2px solid #0C3D37;\n    color: #0C3D37;\n    font-family: 'Marquee', sans-serif;\n    font-weight: 300;\n    font-size: 18px;\n    text-transform: uppercase;"
+    },
+    {
+      "source": "https://apupabove.com/",
+      "selector": ".apa-header--sections--22525866803352__header .apa-header__drawer-column ul",
+      "declarations": "display: flex;\n    flex-direction: column;\n    gap: 8px;\n    margin: 0;\n    padding: 0;\n    list-style: none;\n    font-family: 'Crete Round', serif;"
+    },
+    {
+      "source": "https://apupabove.com/",
+      "selector": ".apa-header--sections--22525866803352__header .apa-header__drawer-column a",
+      "declarations": "color: #0C3D37;\n    font-size: 15px;\n    line-height: 1.5;"
+    },
+    {
+      "source": "https://apupabove.com/",
+      "selector": ".apa-header--sections--22525866803352__header .apa-header__nav-link:hover",
+      "declarations": "color: #fff;"
+    },
+    {
+      "source": "https://apupabove.com/",
+      "selector": ".apa-header--sections--22525866803352__header .apa-header__cart-count-num",
+      "declarations": "font-size: 16px;\n      color: #333;"
+    },
+    {
+      "source": "https://apupabove.com/",
+      "selector": ".dd-hfrf-template--22525867229336__dd_hero_fresh_food_DyKnyF .dd-hfrf__body",
+      "declarations": "order: 3;\n    display: flex;\n    flex-direction: column;\n    align-items: flex-start;\n    gap: clamp(20px, 10.462px + 2.544vw, 30px);\n    width: 100%;\n    background: #ffffff;\n    padding: 24px 20px;\n    color: var(--dd-accent);"
+    },
+    {
+      "source": "https://apupabove.com/",
+      "selector": ".dd-hfrf-template--22525867229336__dd_hero_fresh_food_DyKnyF .dd-hfrf__button",
+      "declarations": "display: flex;\n    align-items: center;\n    justify-content: center;\n    width: 100%;\n    padding: 16px;\n    border-radius: 6px;\n    background: var(--dd-button-bg);\n    color: var(--dd-accent);\n    font-family: 'Marquee', sans-serif;\n    font-weight: 400;\n    font-size: 16px;\n    line-height: 1;\n    letter-spacing: 0;\n    text-transform: uppercase;\n    text-align: center;\n    text-decoration: none;\n    transition: filter 0.15s ease, box-shadow 0.15s ease;"
+    },
+    {
+      "source": "https://apupabove.com/",
+      "selector": ".dd-hfrf-template--22525867229336__dd_hero_fresh_food_DyKnyF .dd-hfrf__body",
+      "declarations": "order: initial;\n      background: transparent;\n      padding: 0;\n      color: #ffffff;\n      width: 100%;\n      gap: 30px;"
+    },
+    {
+      "source": "https://apupabove.com/",
+      "selector": ".dd-vp-template--22525867229336__dd_value_prop_sous_vide_9Cwe34 .dd-vp__button",
+      "declarations": "display: flex;\n    align-items: center;\n    justify-content: center;\n    width: 100%;\n    padding: 16px;\n    border-radius: 6px;\n    background: var(--dd-vp-accent);\n    color: #ffffff;\n    font-family: 'Marquee', sans-serif;\n    font-weight: 400;\n    font-size: 16px;\n    line-height: 1;\n    letter-spacing: 0;\n    text-transform: uppercase;\n    text-align: center;\n    text-decoration: none;\n    transition: filter 0.15s ease;"
+    },
+    {
+      "source": "https://apupabove.com/",
+      "selector": ".dd-vp-template--22525867229336__dd_value_prop_sous_vide_9Cwe34 .dd-vp__button:hover,\n  .dd-vp-template--22525867229336__dd_value_prop_sous_vide_9Cwe34 .dd-vp__",
+      "declarations": "color: #FFF;\n    filter: brightness(0.92);"
+    },
+    {
+      "source": "https://apupabove.com/",
+      "selector": ".dd-frft-template--22525867229336__dd_fresh_finish_line_7i4wQR .dd-frft__button",
+      "declarations": "display: flex;\n    align-items: center;\n    justify-content: center;\n    width: 100%;\n    padding: 16px;\n    border-radius: 6px;\n    background: #fdba12;\n    color: #0c3d37;\n    font-family: 'Marquee', sans-serif;\n    font-weight: 400;\n    font-size: 16px;\n    line-height: 1.1;\n    letter-spacing: 0;\n    text-transform: uppercase;\n    text-align: center;\n    text-decoration: none;\n    transition: filter 0.15s ease;"
+    },
+    {
+      "source": "https://apupabove.com/",
+      "selector": ".dd-frft-template--22525867229336__dd_fresh_finish_line_7i4wQR .dd-frft__button:hover,\n  .dd-frft-template--22525867229336__dd_fresh_finish_line_7i4wQR .dd-frft",
+      "declarations": "color: #0c3d37;\n    filter: brightness(0.92);"
+    },
+    {
+      "source": "https://apupabove.com/",
+      "selector": ".dd-pr-template--22525867229336__dd_proven_results_9wPVQH .dd-pr__body",
+      "declarations": "margin: 0;\n    width: 100%;\n    color: #0c3d37;\n    font-family: 'Crete Round', serif;\n    font-weight: 400;\n    line-height: 1.5;\n    font-size: 17px;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "A Pup Above – Sous-Vide & Bone Broth Infused Fresh Dog Food",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://apupabove.com/",
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721",
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-custom.scss.css?v=25736433518008304201790279946",
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-style.scss.css?v=67691803640260913951789670720"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://apupabove.com/",
+        "https://apupabove.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://apupabove.com/",
+        "https://apupabove.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721",
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-custom.scss.css?v=25736433518008304201790279946",
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-style.scss.css?v=67691803640260913951789670720",
+        "https://apupabove.com/cdn/shop/t/425/assets/base.css?v=177946997503462741151789670615"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-custom.scss.css?v=25736433518008304201790279946"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://apupabove.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://apupabove.com/",
+        "https://apupabove.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721",
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-custom.scss.css?v=25736433518008304201790279946",
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-style.scss.css?v=67691803640260913951789670720",
+        "https://apupabove.com/cdn/shop/t/425/assets/base.css?v=177946997503462741151789670615"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://apupabove.com/"
+      ]
+    },
+    "colors.accent-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://apupabove.com/",
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721",
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-custom.scss.css?v=25736433518008304201790279946"
+      ]
+    },
+    "colors.cta-warm": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://apupabove.com/"
+      ]
+    },
+    "colors.alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-theme.scss.css?v=179625604212715156601789670721",
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-custom.scss.css?v=25736433518008304201790279946"
+      ]
+    },
+    "colors.overlay-scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://apupabove.com/cdn/shop/t/425/assets/apa-legacy-custom.scss.css?v=25736433518008304201790279946"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.recipe-selector": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    }
+  }
+}

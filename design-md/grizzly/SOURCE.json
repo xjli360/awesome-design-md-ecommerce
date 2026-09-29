@@ -1,0 +1,1576 @@
+{
+  "source_url": "https://grizzly.com",
+  "final_url": "https://www.grizzly.com:443/",
+  "captured_at": "2026-09-29T04:06:39.541508+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://grizzly.com",
+      "final_url": "https://www.grizzly.com:443/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "765c13462f2df69fa5d628f92f59ba8c15e25c4fc2e2e37bd25deaf4874ae3ef",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://use.typekit.net/mtf8egi.css",
+      "final_url": "https://use.typekit.net/mtf8egi.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "7dafa9de3c0638c9c1ddf8029ce8079384ca85f4e6c19abf0d3019bcbc1346e8",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+      "final_url": "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5db5b3ce93837885362cc81a091938a52c69d3a3cf73fa5622abaa9686821ded",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.grizzly.com:443/css/home/index.min.css?v=1.0.9767.38399",
+      "final_url": "https://www.grizzly.com:443/css/home/index.min.css?v=1.0.9767.38399",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "58c073a8d3eaf6098af93b1362a9a324596a3d9f8d19d1d738ccf8acdb431206",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.grizzly.com:443/css/home/masthead-carousel.min.css?v=1.0.9767.38399",
+      "final_url": "https://www.grizzly.com:443/css/home/masthead-carousel.min.css?v=1.0.9767.38399",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a142f1d4840a1166214527d7aaa70d4deb67f8c9d52291b14bef939bb8d7d28e",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 186,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+        "https://www.grizzly.com:443/css/home/index.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#000000": {
+      "count": 70,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+        "https://www.grizzly.com:443/css/home/index.min.css?v=1.0.9767.38399",
+        "https://www.grizzly.com:443/css/home/masthead-carousel.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#6c757d": {
+      "count": 39,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#007bff": {
+      "count": 35,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+        "https://www.grizzly.com:443/css/home/index.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#149547": {
+      "count": 35,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+        "https://www.grizzly.com:443/css/home/index.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#212529": {
+      "count": 30,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#dc3545": {
+      "count": 28,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#28a745": {
+      "count": 28,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#dee2e6": {
+      "count": 28,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#209462": {
+      "count": 23,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+        "https://www.grizzly.com:443/css/home/index.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#343a40": {
+      "count": 19,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#f8f9fa": {
+      "count": 18,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#ffc107": {
+      "count": 17,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#17a2b8": {
+      "count": 17,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#e9ecef": {
+      "count": 15,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#cccccc": {
+      "count": 14,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#495057": {
+      "count": 12,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#1e94b6": {
+      "count": 11,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+        "https://www.grizzly.com:443/css/home/index.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#ec1f27": {
+      "count": 8,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+        "https://www.grizzly.com:443/css/home/index.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#ae0101": {
+      "count": 7,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+        "https://www.grizzly.com:443/css/home/index.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#adb5bd": {
+      "count": 6,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#e88500": {
+      "count": 6,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#e8ecef": {
+      "count": 6,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#b3d7ff": {
+      "count": 5,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#004085": {
+      "count": 5,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#383d41": {
+      "count": 5,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#155724": {
+      "count": 5,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#0c5460": {
+      "count": 5,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#856404": {
+      "count": 5,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#721c24": {
+      "count": 5,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#818182": {
+      "count": 5,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#1b1e21": {
+      "count": 5,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#666666": {
+      "count": 5,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#f5f6fb": {
+      "count": 5,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#0056b3": {
+      "count": 4,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#9fcdff": {
+      "count": 4,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#c8cbcf": {
+      "count": 4,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#b1dfbb": {
+      "count": 4,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#abdde5": {
+      "count": 4,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#ffe8a1": {
+      "count": 4,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#f1b0b7": {
+      "count": 4,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#ececf6": {
+      "count": 4,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#b9bbbe": {
+      "count": 4,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#ced4da": {
+      "count": 4,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#80bdff": {
+      "count": 4,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#0062cc": {
+      "count": 4,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#545b62": {
+      "count": 4,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#1e7e34": {
+      "count": 4,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#117a8b": {
+      "count": 4,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#d39e00": {
+      "count": 4,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#bd2130": {
+      "count": 4,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#dae0e5": {
+      "count": 4,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#1d2124": {
+      "count": 4,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#e1e1e1": {
+      "count": 4,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#6a6a6a": {
+      "count": 4,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+        "https://www.grizzly.com:443/css/home/index.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#7f7f7f": {
+      "count": 4,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#ffd032": {
+      "count": 4,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#b8daff": {
+      "count": 3,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#d6d8db": {
+      "count": 3,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#c3e6cb": {
+      "count": 3,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#bee5eb": {
+      "count": 3,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#ffeeba": {
+      "count": 3,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#f5c6cb": {
+      "count": 3,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#fdfdfe": {
+      "count": 3,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#c6c8ca": {
+      "count": 3,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 3,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#999999": {
+      "count": 3,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#ff0000": {
+      "count": 3,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#efefef": {
+      "count": 3,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#424940": {
+      "count": 3,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#101010": {
+      "count": 3,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+        "https://www.grizzly.com:443/css/home/index.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#4c4c4c": {
+      "count": 3,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#f28b29": {
+      "count": 3,
+      "sources": [
+        "https://www.grizzly.com:443/css/home/index.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#a6a6a6": {
+      "count": 3,
+      "sources": [
+        "https://www.grizzly.com:443/css/home/index.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#04574a": {
+      "count": 3,
+      "sources": [
+        "https://www.grizzly.com:443/css/home/index.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#e83e8c": {
+      "count": 2,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#454d55": {
+      "count": 2,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#34ce57": {
+      "count": 2,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#e4606d": {
+      "count": 2,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 2,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#ffdead": {
+      "count": 2,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+        "https://www.grizzly.com:443/css/home/index.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#c5c5c5": {
+      "count": 2,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#dcdcdc": {
+      "count": 2,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#232323": {
+      "count": 2,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#ddefe7": {
+      "count": 2,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#1b6ec2": {
+      "count": 2,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#1861ac": {
+      "count": 2,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#f7f8fa": {
+      "count": 2,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#e7e9ec": {
+      "count": 2,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#e7eaf0": {
+      "count": 2,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#d9dce1": {
+      "count": 2,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#fbcc30": {
+      "count": 2,
+      "sources": [
+        "https://www.grizzly.com:443/css/home/index.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#6610f2": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#6f42c1": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#fd7e14": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#20c997": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#fcf8e3": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#7abaff": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#b3b7bb": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#8fd19e": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#86cfda": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#ffdf7e": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#ed969e": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#fbfcfc": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#95999c": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#0069d9": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#005cbf": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#5a6268": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#4e555b": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#218838": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#1c7430": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#138496": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#10707f": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#e0a800": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#c69500": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#c82333": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#b21f2d": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#e2e6ea": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#d3d9df": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#23272b": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#171a1d": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#16181b": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#cce5ff": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#002752": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#e2e3e5": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#202326": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#d4edda": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#0b2e13": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#d1ecf1": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#062c33": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#fff3cd": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#533f03": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#f8d7da": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#491217": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#fefefe": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#686868": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#d6d8d9": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#040505": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#ebebeb": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#494f54": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#19692c": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#0f6674": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#ba8b00": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#a71d2a": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#cbd3da": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#121416": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#6b7280": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#eaf0f6": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#fff1e4": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#ed1c24": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#2878f0": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#bcbcbc": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#04574b": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#4f4f4f": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#c6c6c6": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#cdcdcd": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#f8c50e": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#777777": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#2f2f2f": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#202020": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#cc0000": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#006a5a": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#f0a849": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#e7ebf1": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#de0008": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#d6d6d6": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/home/index.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#c0c0c0": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/home/index.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://www.grizzly.com:443/css/home/masthead-carousel.min.css?v=1.0.9767.38399"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+    ],
+    "Apple Color Emoji": [
+      "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+    ],
+    "Arial": [
+      "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+    ],
+    "Arial Black": [
+      "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+    ],
+    "BlinkMacSystemFont": [
+      "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+    ],
+    "Consolas": [
+      "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+    ],
+    "Courier New": [
+      "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+    ],
+    "Helvetica": [
+      "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+    ],
+    "Helvetica Neue": [
+      "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+    ],
+    "Liberation Mono": [
+      "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+    ],
+    "Menlo": [
+      "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+    ],
+    "Monaco": [
+      "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+    ],
+    "Noto Color Emoji": [
+      "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+    ],
+    "Noto Sans": [
+      "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+    ],
+    "Roboto": [
+      "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+    ],
+    "SFMono-Regular": [
+      "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+    ],
+    "Segoe UI": [
+      "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+    ],
+    "Segoe UI Emoji": [
+      "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+    ],
+    "Segoe UI Symbol": [
+      "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+    ],
+    "monospace": [
+      "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+    ],
+    "monospace!important": [
+      "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+    ],
+    "proxima-nova": [
+      "https://use.typekit.net/mtf8egi.css",
+      "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+    ],
+    "sans-serif": [
+      "https://use.typekit.net/mtf8egi.css",
+      "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+    ],
+    "sans-serif!important": [
+      "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+      "selector": "@charset \"UTF-8\";\r\n\r\n:root",
+      "declarations": "--blue:#007bff;--indigo:#6610f2;--purple:#6f42c1;--pink:#e83e8c;--red:#dc3545;--orange:#fd7e14;--yellow:#ffc107;--green:#28a745;--teal:#20c997;--cyan:#17a2b8;--white:#fff;--gray:#6c757d;--gray-dark:#343a40;--primary:#007bff;--secondary:#6c757d;--success:#28a745;--info:#17a2b8;--warning:#ffc107;--danger:#dc3545;--light:#f8f9fa;--dark:#343a40;--breakpoint-xs:0;--breakpoint-sm:576px;--breakpoint-md:768px;--breakpoint-lg:992px;--breakpoint-xl:1200px;--font-family-sans-serif:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";--font-family-monospace:SFMono-Regular,Menlo,Monaco,Co"
+    },
+    {
+      "source": "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+      "selector": "body",
+      "declarations": "margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";font-size:1rem;font-weight:400;line-height:1.5;color:#212529;text-align:left;background-color:#fff"
+    },
+    {
+      "source": "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+      "selector": "input,button,select,optgroup,textarea",
+      "declarations": "margin:0;font-family:inherit;font-size:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+      "selector": ".table-striped tbody tr:nth-of-type(odd)",
+      "declarations": "background-color:rgba(0,0,0,.05)"
+    },
+    {
+      "source": "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+      "selector": ".table-hover tbody tr:hover",
+      "declarations": "color:#212529;background-color:rgba(0,0,0,.075)"
+    },
+    {
+      "source": "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+      "selector": ".table-primary th,.table-primary td,.table-primary thead th,.table-primary tbody+tbody",
+      "declarations": "border-color:#7abaff"
+    },
+    {
+      "source": "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+      "selector": ".table-secondary th,.table-secondary td,.table-secondary thead th,.table-secondary tbody+tbody",
+      "declarations": "border-color:#b3b7bb"
+    },
+    {
+      "source": "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+      "selector": ".table-success th,.table-success td,.table-success thead th,.table-success tbody+tbody",
+      "declarations": "border-color:#8fd19e"
+    },
+    {
+      "source": "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+      "selector": ".table-info th,.table-info td,.table-info thead th,.table-info tbody+tbody",
+      "declarations": "border-color:#86cfda"
+    },
+    {
+      "source": "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+      "selector": ".table-warning th,.table-warning td,.table-warning thead th,.table-warning tbody+tbody",
+      "declarations": "border-color:#ffdf7e"
+    },
+    {
+      "source": "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+      "selector": ".table-danger th,.table-danger td,.table-danger thead th,.table-danger tbody+tbody",
+      "declarations": "border-color:#ed969e"
+    },
+    {
+      "source": "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+      "selector": ".table-light th,.table-light td,.table-light thead th,.table-light tbody+tbody",
+      "declarations": "border-color:#fbfcfc"
+    },
+    {
+      "source": "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+      "selector": ".table-dark th,.table-dark td,.table-dark thead th,.table-dark tbody+tbody",
+      "declarations": "border-color:#95999c"
+    },
+    {
+      "source": "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+      "selector": ".table-dark.table-striped tbody tr:nth-of-type(odd)",
+      "declarations": "background-color:rgba(255,255,255,.05)"
+    },
+    {
+      "source": "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+      "selector": ".table-dark.table-hover tbody tr:hover",
+      "declarations": "color:#fff;background-color:rgba(255,255,255,.075)"
+    },
+    {
+      "source": "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+      "selector": ".btn",
+      "declarations": "display:inline-block;font-weight:400;color:#212529;text-align:center;vertical-align:middle;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;background-color:transparent;border:1px solid transparent;padding:.375rem .75rem;font-size:1rem;line-height:1.5;border-radius:.25rem;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out"
+    },
+    {
+      "source": "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+      "selector": ".btn:hover",
+      "declarations": "color:#212529;text-decoration:none"
+    },
+    {
+      "source": "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+      "selector": ".btn-primary",
+      "declarations": "color:#fff;background-color:#007bff;border-color:#007bff"
+    },
+    {
+      "source": "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+      "selector": ".btn-primary:hover",
+      "declarations": "color:#fff;background-color:#0069d9;border-color:#0062cc"
+    },
+    {
+      "source": "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+      "selector": ".btn-primary.disabled,.btn-primary:disabled",
+      "declarations": "color:#fff;background-color:#007bff;border-color:#007bff"
+    },
+    {
+      "source": "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+      "selector": ".btn-primary:not(:disabled):not(.disabled):active,.btn-primary:not(:disabled):not(.disabled).active,.show>.btn-primary.dropdown-toggle",
+      "declarations": "color:#fff;background-color:#0062cc;border-color:#005cbf"
+    },
+    {
+      "source": "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+      "selector": ".btn-secondary",
+      "declarations": "color:#fff;background-color:#6c757d;border-color:#6c757d"
+    },
+    {
+      "source": "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+      "selector": ".btn-secondary:hover",
+      "declarations": "color:#fff;background-color:#5a6268;border-color:#545b62"
+    },
+    {
+      "source": "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+      "selector": ".btn-secondary.disabled,.btn-secondary:disabled",
+      "declarations": "color:#fff;background-color:#6c757d;border-color:#6c757d"
+    },
+    {
+      "source": "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+      "selector": ".btn-secondary:not(:disabled):not(.disabled):active,.btn-secondary:not(:disabled):not(.disabled).active,.show>.btn-secondary.dropdown-toggle",
+      "declarations": "color:#fff;background-color:#545b62;border-color:#4e555b"
+    },
+    {
+      "source": "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+      "selector": ".btn-success",
+      "declarations": "color:#fff;background-color:#28a745;border-color:#28a745"
+    },
+    {
+      "source": "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+      "selector": ".btn-success:hover",
+      "declarations": "color:#fff;background-color:#218838;border-color:#1e7e34"
+    },
+    {
+      "source": "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+      "selector": ".btn-success.disabled,.btn-success:disabled",
+      "declarations": "color:#fff;background-color:#28a745;border-color:#28a745"
+    },
+    {
+      "source": "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+      "selector": ".btn-success:not(:disabled):not(.disabled):active,.btn-success:not(:disabled):not(.disabled).active,.show>.btn-success.dropdown-toggle",
+      "declarations": "color:#fff;background-color:#1e7e34;border-color:#1c7430"
+    },
+    {
+      "source": "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+      "selector": ".btn-info",
+      "declarations": "color:#fff;background-color:#17a2b8;border-color:#17a2b8"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Shop Tools and Machinery at Grizzly.com - Grizzly Industrial, Inc.",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+        "https://www.grizzly.com:443/css/home/index.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+        "https://www.grizzly.com:443/css/home/index.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+        "https://www.grizzly.com:443/css/home/index.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+        "https://www.grizzly.com:443/css/home/index.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "colors.accent-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+        "https://www.grizzly.com:443/css/home/index.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "colors.accent-red-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+        "https://www.grizzly.com:443/css/home/index.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "colors.accent-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+        "https://www.grizzly.com:443/css/home/index.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "colors.accent-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399",
+        "https://www.grizzly.com:443/css/home/index.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "colors.dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "colors.border-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.grizzly.com:443/css/bundles/layouts/layout-bundle.min.css?v=1.0.9767.38399"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.category-mega-menu": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge-stock": {
+      "status": "inferred"
+    },
+    "components.badge-alert": {
+      "status": "inferred"
+    },
+    "components.search-bar": {
+      "status": "inferred"
+    }
+  }
+}

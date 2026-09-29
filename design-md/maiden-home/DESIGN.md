@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Maiden Home
-description: Maiden Home is a direct-to-consumer furniture brand that speaks in a quiet, confident voice — one that trusts the weight of a well-chosen neutral over the shout of a trend. The palette is anchored by a deep, almost-black ink (`#1c1c1c`) and a warm off-white canvas (`#f5f5f1`), with a secondary slate (`#6c757d`) that appears in product descriptions, secondary buttons, and footer links. The brand's primary voltage comes from a restrained navy (`#334fb4`) and a cooler cerulean (`#1990c6`) used sparingly — on the "Shop the Look" CTA, on the checkout button, and on the single accent line in the top nav. These blues never dominate; they punctuate. The typography runs on ABC Whyte and Maison Neue, both geometric sans-serifs with a slightly condensed, architectural feel that echoes the clean lines of the furniture itself. Body copy sits at 16px on a 1.5 line height, with display headlines at 28px in a weight 500 that feels deliberate, not loud. Corners are soft but not pillowy — cards and buttons use `{rounded.sm}` (8px) and `{rounded.md}` (12px), while the search bar and primary CTA use `{rounded.full}` for a friendly, approachable finish. The overall mood is one of curated calm: generous whitespace, a muted hairline (`#dedede`) that defines sections without drawing attention, and a single hero image that carries the emotional weight of the page. Maiden Home does not need to shout; it invites you to sit down.
+name: "Maiden Home"
+source_url: "https://maidenhome.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Maiden Home is a direct-to-consumer furniture brand that speaks in a quiet, confident voice — one that trusts the weight of a well-chosen neutral over the shout of a trend. The palette is anchored by a deep, almost-black ink (`#1c1c1c`) and a warm off-white canvas (`#f5f5f1`), with a secondary slate (`#6c757d`) that appears in product descriptions, secondary buttons, and footer links. The brand's primary voltage comes from a restrained navy (`#334fb4`) and a cooler cerulean (`#1990c6`) used sparingly — on the "Shop the Look" CTA, on the checkout button, and on the single accent line in the top nav. These blues never dominate; they punctuate. The typography runs on ABC Whyte and Maison Neue, both geometric sans-serifs with a slightly condensed, architectural feel that echoes the clean lines of the furniture itself. Body copy sits at 16px on a 1.5 line height, with display headlines at 28px in a weight 500 that feels deliberate, not loud. Corners are soft but not pillowy — cards and buttons use `{rounded.sm}` (8px) and `{rounded.md}` (12px), while the search bar and primary CTA use `{rounded.full}` for a friendly, approachable finish. The overall mood is one of curated calm: generous whitespace, a muted hairline (`#dedede`) that defines sections without drawing attention, and a single hero image that carries the emotional weight of the page. Maiden Home does not need to shout; it invites you to sit down.
 
 colors:
   primary: "#334fb4"
@@ -332,6 +336,8 @@ components:
 - The hero section's text and image stack vertically on mobile, with the image above the text.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for secondary buttons and text inputs could not be fully verified; the active states above are inferred from common patterns.
 - Error styling for forms (validation messages, error icons) was not observed on the live site.

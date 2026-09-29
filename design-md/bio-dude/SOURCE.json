@@ -1,0 +1,897 @@
+{
+  "source_url": "https://thebiodude.com",
+  "final_url": "https://www.thebiodude.com/",
+  "captured_at": "2026-09-28T10:13:20.724829+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://thebiodude.com",
+      "final_url": "https://www.thebiodude.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "fa1d3bce44fe3b579b2e1390b30c2f0e630828d89991b989470ffb97c41c20ad",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "final_url": "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3cbb01d2eb021184a44f88a11bc34b2bc5b5788c83f3644b9354adf3031d453c",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553",
+      "final_url": "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4390bf09fe5930087807932c0267373f0b6033a4579a3e50c365c8314d476263",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.thebiodude.com/cdn/shop/t/15/assets/nav.scss.css?v=176129041368651327251746730468",
+      "final_url": "https://www.thebiodude.com/cdn/shop/t/15/assets/nav.scss.css?v=176129041368651327251746730468",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "81086b25ad6ac96268ae99d41960a8ef076762c3406102410fa43bd9162ed848",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,900",
+      "final_url": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,900",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "7584cfa02f2e34b20a3c8fb2ab9f50dd6fe4eda08489508d40865721360595d9",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.thebiodude.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.thebiodude.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 288,
+      "sources": [
+        "https://www.thebiodude.com/",
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553",
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/nav.scss.css?v=176129041368651327251746730468",
+        "https://www.thebiodude.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#4bd20f": {
+      "count": 65,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+      ]
+    },
+    "#898989": {
+      "count": 59,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+      ]
+    },
+    "#017749": {
+      "count": 37,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+      ]
+    },
+    "#d7dbdb": {
+      "count": 37,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+      ]
+    },
+    "#cccccc": {
+      "count": 36,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+      ]
+    },
+    "#000000": {
+      "count": 33,
+      "sources": [
+        "https://www.thebiodude.com/",
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+      ]
+    },
+    "#dddddd": {
+      "count": 33,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+      ]
+    },
+    "#282727": {
+      "count": 32,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+      ]
+    },
+    "#333333": {
+      "count": 27,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+      ]
+    },
+    "#efefef": {
+      "count": 27,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+      ]
+    },
+    "#337ab7": {
+      "count": 25,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#777777": {
+      "count": 23,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#eeeeee": {
+      "count": 19,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#c9cbcb": {
+      "count": 17,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+      ]
+    },
+    "#262626": {
+      "count": 16,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#3c763d": {
+      "count": 14,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#8a6d3b": {
+      "count": 14,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#a94442": {
+      "count": 14,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#00000000": {
+      "count": 13,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+        "https://www.thebiodude.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#ff1c32": {
+      "count": 13,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 12,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+      ]
+    },
+    "#555555": {
+      "count": 10,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+      ]
+    },
+    "#e7e7e7": {
+      "count": 10,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#00000099": {
+      "count": 10,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#ecefef": {
+      "count": 10,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553",
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/nav.scss.css?v=176129041368651327251746730468"
+      ]
+    },
+    "#f17a06": {
+      "count": 10,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+      ]
+    },
+    "#999999": {
+      "count": 9,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#31708f": {
+      "count": 9,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#fcf8e3": {
+      "count": 8,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#00000013": {
+      "count": 8,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 8,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#dff0d8": {
+      "count": 7,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#f2dede": {
+      "count": 7,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#286090": {
+      "count": 6,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#d9edf7": {
+      "count": 6,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#080808": {
+      "count": 6,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#9d9d9d": {
+      "count": 6,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 6,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#dcdcdc": {
+      "count": 6,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+      ]
+    },
+    "#f3f6f6": {
+      "count": 6,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+      ]
+    },
+    "#282827": {
+      "count": 6,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+      ]
+    },
+    "#00000040": {
+      "count": 5,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 5,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#5cb85c": {
+      "count": 5,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#5bc0de": {
+      "count": 5,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#f0ad4e": {
+      "count": 5,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#d9534f": {
+      "count": 5,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#d6e9c6": {
+      "count": 5,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#bce8f1": {
+      "count": 5,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#faebcc": {
+      "count": 5,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#ebccd1": {
+      "count": 5,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#00000080": {
+      "count": 5,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#00000066": {
+      "count": 5,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#9a9a9a": {
+      "count": 5,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+      ]
+    },
+    "#fafafa": {
+      "count": 5,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+      ]
+    },
+    "#449d44": {
+      "count": 4,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#31b0d5": {
+      "count": 4,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#ec971f": {
+      "count": 4,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "#c9302c": {
+      "count": 4,
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+    ],
+    "Baskerville": [
+      "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+    ],
+    "Consolas": [
+      "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+    ],
+    "Courier New": [
+      "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+    ],
+    "FontAwesome": [
+      "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+    ],
+    "Georgia": [
+      "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+    ],
+    "Glyphicons Halflings": [
+      "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+    ],
+    "Helvetica": [
+      "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+    ],
+    "Helvetica Neue": [
+      "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+    ],
+    "HelveticaNeue": [
+      "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+    ],
+    "Menlo": [
+      "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+    ],
+    "Monaco": [
+      "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+    ],
+    "Source Sans Pro": [
+      "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553",
+      "https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,700,900"
+    ],
+    "Times": [
+      "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+    ],
+    "Times New Roman": [
+      "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+    ],
+    "feathericons": [
+      "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+    ],
+    "icons": [
+      "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+    ],
+    "monospace": [
+      "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+    ],
+    "sans-serif": [
+      "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+    ],
+    "serif": [
+      "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.thebiodude.com/",
+      "selector": ":root",
+      "declarations": "--shopify-chat-bg-color: #FFFFFF;\n    --shopify-chat-text-color: #000000;\n    --shopify-chat-accent-bg-color: #000000;\n    --shopify-chat-accent-text-color: #FFFFFF;\n    --shopify-chat-activator-offset: 20px;\n\n    \n\n    --shopify-chat-activator-font-size: 16px;\n    --shopify-chat-border-radius: 16px;"
+    },
+    {
+      "source": "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "margin:0;font:inherit;color:inherit"
+    },
+    {
+      "source": "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "selector": ".btn>.caret,.dropup>.btn>.caret",
+      "declarations": "border-top-color:#000!important"
+    },
+    {
+      "source": "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "selector": "body",
+      "declarations": "font-family:Helvetica Neue,Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333;background-color:#fff"
+    },
+    {
+      "source": "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "selector": "button,input,select,textarea",
+      "declarations": "font-family:inherit;font-size:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "selector": ".h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6",
+      "declarations": "font-family:inherit;font-weight:500;line-height:1.1;color:inherit"
+    },
+    {
+      "source": "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "selector": "ll,.h3 .small,.h3 small,.h4 .small,.h4 small,.h5 .small,.h5 small,.h6 .small,.h6 small,h1 .small,h1 small,h2 .small,h2 small,h3 .small,h3 small,h4 .small,h4 sma",
+      "declarations": "font-weight:400;line-height:1;color:#777"
+    },
+    {
+      "source": "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "selector": ".table-striped>tbody>tr:nth-of-type(odd)",
+      "declarations": "background-color:#f9f9f9"
+    },
+    {
+      "source": "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "selector": ".table-hover>tbody>tr:hover",
+      "declarations": "background-color:#f5f5f5"
+    },
+    {
+      "source": "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "selector": ".table-hover>tbody>tr.active:hover>td,.table-hover>tbody>tr.active:hover>th,.table-hover>tbody>tr:hover>.active,.table-hover>tbody>tr>td.active:hover,.table-hov",
+      "declarations": "background-color:#e8e8e8"
+    },
+    {
+      "source": "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "selector": ".table-hover>tbody>tr.success:hover>td,.table-hover>tbody>tr.success:hover>th,.table-hover>tbody>tr:hover>.success,.table-hover>tbody>tr>td.success:hover,.table",
+      "declarations": "background-color:#d0e9c6"
+    },
+    {
+      "source": "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "selector": ".table-hover>tbody>tr.info:hover>td,.table-hover>tbody>tr.info:hover>th,.table-hover>tbody>tr:hover>.info,.table-hover>tbody>tr>td.info:hover,.table-hover>tbody",
+      "declarations": "background-color:#c4e3f3"
+    },
+    {
+      "source": "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "selector": ".table-hover>tbody>tr.warning:hover>td,.table-hover>tbody>tr.warning:hover>th,.table-hover>tbody>tr:hover>.warning,.table-hover>tbody>tr>td.warning:hover,.table",
+      "declarations": "background-color:#faf2cc"
+    },
+    {
+      "source": "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "selector": ".table-hover>tbody>tr.danger:hover>td,.table-hover>tbody>tr.danger:hover>th,.table-hover>tbody>tr:hover>.danger,.table-hover>tbody>tr>td.danger:hover,.table-hov",
+      "declarations": "background-color:#ebcccc"
+    },
+    {
+      "source": "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "selector": ".btn.focus,.btn:focus,.btn:hover",
+      "declarations": "color:#333;text-decoration:none"
+    },
+    {
+      "source": "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "selector": ".btn-default",
+      "declarations": "color:#333;background-color:#fff;border-color:#ccc"
+    },
+    {
+      "source": "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "selector": ".btn-default.focus,.btn-default:focus",
+      "declarations": "color:#333;background-color:#e6e6e6;border-color:#8c8c8c"
+    },
+    {
+      "source": "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "selector": ".btn-default:hover",
+      "declarations": "color:#333;background-color:#e6e6e6;border-color:#adadad"
+    },
+    {
+      "source": "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "selector": ".btn-default.active,.btn-default:active,.open>.dropdown-toggle.btn-default",
+      "declarations": "color:#333;background-color:#e6e6e6;border-color:#adadad"
+    },
+    {
+      "source": "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "selector": ".btn-default:active.focus,.btn-default:active:focus,.btn-default:active:hover,.open>.dropdown-toggle.btn-default.focus,.open>.dropdown-toggle.btn-default:focus,",
+      "declarations": "color:#333;background-color:#d4d4d4;border-color:#8c8c8c"
+    },
+    {
+      "source": "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "selector": ".btn-default[disabled].focus,.btn-default[disabled]:focus,.btn-default[disabled]:hover,fieldset[disabled] .btn-default.focus,fieldset[disabled] .btn-default:foc",
+      "declarations": "background-color:#fff;border-color:#ccc"
+    },
+    {
+      "source": "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "selector": ".btn-default .badge",
+      "declarations": "color:#fff;background-color:#333"
+    },
+    {
+      "source": "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "selector": ".btn-primary",
+      "declarations": "color:#fff;background-color:#337ab7;border-color:#2e6da4"
+    },
+    {
+      "source": "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "selector": ".btn-primary.focus,.btn-primary:focus",
+      "declarations": "color:#fff;background-color:#286090;border-color:#122b40"
+    },
+    {
+      "source": "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "selector": ".btn-primary:hover",
+      "declarations": "color:#fff;background-color:#286090;border-color:#204d74"
+    },
+    {
+      "source": "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "selector": ".btn-primary.active,.btn-primary:active,.open>.dropdown-toggle.btn-primary",
+      "declarations": "color:#fff;background-color:#286090;border-color:#204d74"
+    },
+    {
+      "source": "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "selector": ".btn-primary:active.focus,.btn-primary:active:focus,.btn-primary:active:hover,.open>.dropdown-toggle.btn-primary.focus,.open>.dropdown-toggle.btn-primary:focus,",
+      "declarations": "color:#fff;background-color:#204d74;border-color:#122b40"
+    },
+    {
+      "source": "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "selector": ".btn-primary[disabled].focus,.btn-primary[disabled]:focus,.btn-primary[disabled]:hover,fieldset[disabled] .btn-primary.focus,fieldset[disabled] .btn-primary:foc",
+      "declarations": "background-color:#337ab7;border-color:#2e6da4"
+    },
+    {
+      "source": "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "selector": ".btn-primary .badge",
+      "declarations": "color:#337ab7;background-color:#fff"
+    },
+    {
+      "source": "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+      "selector": ".btn-success",
+      "declarations": "color:#fff;background-color:#5cb85c;border-color:#4cae4c"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "The Bio Dude | Reptile and Amphibian Supplies",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thebiodude.com/",
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553",
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/nav.scss.css?v=176129041368651327251746730468",
+        "https://www.thebiodude.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thebiodude.com/",
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468",
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553",
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/nav.scss.css?v=176129041368651327251746730468",
+        "https://www.thebiodude.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-leaf": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+      ]
+    },
+    "colors.accent-orange": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/style.css?v=13424537679808921511746730553"
+      ]
+    },
+    "colors.alert-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "colors.link-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "colors.state-success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "colors.state-danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "colors.state-info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "colors.state-warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thebiodude.com/cdn/shop/t/15/assets/apps.css?v=153786007497407400321746730468"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.care-sheet-callout": {
+      "status": "inferred"
+    }
+  }
+}

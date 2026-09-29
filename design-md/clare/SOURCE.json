@@ -1,0 +1,927 @@
+{
+  "source_url": "https://clare.com",
+  "final_url": "https://www.clare.com/",
+  "captured_at": "2026-09-28T04:20:58.011139+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://clare.com",
+      "final_url": "https://www.clare.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "2a943709c3143b3d78b782566950c34ac5ff51ff348134c1e41410f2f4aa6293",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+      "final_url": "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4fdfe7ad2552b9d51becdcd62169e6effa03526ecff17571e56027404893b035",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.clare.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.clare.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css",
+      "final_url": "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "09379884b3dcc1b51c1adf20ce2d6ecf46ea86beea66088e13c0df72590e92e0",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://dov7r31oq5dkj.cloudfront.net/ab5437e3-2fd0-4dc2-beaa-d5813f698792/widget-style-customisations.css?v=0ff3fbd5-cef0-4ea3-89cf-a0501a81fd4e",
+      "final_url": "https://dov7r31oq5dkj.cloudfront.net/ab5437e3-2fd0-4dc2-beaa-d5813f698792/widget-style-customisations.css?v=0ff3fbd5-cef0-4ea3-89cf-a0501a81fd4e",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "fb84f3645c00e8f6462f9efa354e78ddaa4d9ed80bddb547fcf4a47891516327",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.clare.com/cdn/shop/t/344/assets/fonts.scss.css?v=139487820544037929211789995317",
+      "final_url": "https://www.clare.com/cdn/shop/t/344/assets/fonts.scss.css?v=139487820544037929211789995317",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1d196d7f182b132c84a9895206b5f46a5efdfae4d15be584da760fac78d069f1",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 195,
+      "sources": [
+        "https://www.clare.com/",
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+        "https://www.clare.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#1b1d1e": {
+      "count": 113,
+      "sources": [
+        "https://www.clare.com/",
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "#cccccc": {
+      "count": 73,
+      "sources": [
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#003149": {
+      "count": 63,
+      "sources": [
+        "https://www.clare.com/",
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+        "https://dov7r31oq5dkj.cloudfront.net/ab5437e3-2fd0-4dc2-beaa-d5813f698792/widget-style-customisations.css?v=0ff3fbd5-cef0-4ea3-89cf-a0501a81fd4e"
+      ]
+    },
+    "#000000": {
+      "count": 39,
+      "sources": [
+        "https://www.clare.com/",
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#f5be18": {
+      "count": 34,
+      "sources": [
+        "https://www.clare.com/",
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+        "https://dov7r31oq5dkj.cloudfront.net/ab5437e3-2fd0-4dc2-beaa-d5813f698792/widget-style-customisations.css?v=0ff3fbd5-cef0-4ea3-89cf-a0501a81fd4e"
+      ]
+    },
+    "#f5f9fa": {
+      "count": 26,
+      "sources": [
+        "https://www.clare.com/",
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "#707070": {
+      "count": 25,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#525252": {
+      "count": 22,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#4e5457": {
+      "count": 19,
+      "sources": [
+        "https://www.clare.com/",
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "#066e87": {
+      "count": 17,
+      "sources": [
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+        "https://dov7r31oq5dkj.cloudfront.net/ab5437e3-2fd0-4dc2-beaa-d5813f698792/widget-style-customisations.css?v=0ff3fbd5-cef0-4ea3-89cf-a0501a81fd4e"
+      ]
+    },
+    "#939597": {
+      "count": 14,
+      "sources": [
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "#8ac7cb": {
+      "count": 13,
+      "sources": [
+        "https://www.clare.com/",
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 12,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#b6b6b6": {
+      "count": 9,
+      "sources": [
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "#f7fafb": {
+      "count": 8,
+      "sources": [
+        "https://www.clare.com/",
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "#d02e2e": {
+      "count": 7,
+      "sources": [
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "#e9b20a": {
+      "count": 6,
+      "sources": [
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "#e7e7e7": {
+      "count": 6,
+      "sources": [
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "#d3d4dd": {
+      "count": 6,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 5,
+      "sources": [
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 5,
+      "sources": [
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "#f7cc49": {
+      "count": 4,
+      "sources": [
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "#c20000": {
+      "count": 4,
+      "sources": [
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "#56ad6a": {
+      "count": 4,
+      "sources": [
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "#333333": {
+      "count": 4,
+      "sources": [
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#1d2135": {
+      "count": 4,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#efefef": {
+      "count": 3,
+      "sources": [
+        "https://www.clare.com/",
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "#3a7e82": {
+      "count": 3,
+      "sources": [
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 3,
+      "sources": [
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#83cc1c": {
+      "count": 3,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 3,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#43a1fa": {
+      "count": 3,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#9a9db1": {
+      "count": 3,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#f3f3f0": {
+      "count": 2,
+      "sources": [
+        "https://www.clare.com/"
+      ]
+    },
+    "#844242": {
+      "count": 2,
+      "sources": [
+        "https://www.clare.com/"
+      ]
+    },
+    "#a9a39b": {
+      "count": 2,
+      "sources": [
+        "https://www.clare.com/"
+      ]
+    },
+    "#d1c3b9": {
+      "count": 2,
+      "sources": [
+        "https://www.clare.com/"
+      ]
+    },
+    "#aaaa97": {
+      "count": 2,
+      "sources": [
+        "https://www.clare.com/"
+      ]
+    },
+    "#c4c4c2": {
+      "count": 2,
+      "sources": [
+        "https://www.clare.com/"
+      ]
+    },
+    "#abc1c4": {
+      "count": 2,
+      "sources": [
+        "https://www.clare.com/"
+      ]
+    },
+    "#f1cd83": {
+      "count": 2,
+      "sources": [
+        "https://www.clare.com/"
+      ]
+    },
+    "#71635a": {
+      "count": 2,
+      "sources": [
+        "https://www.clare.com/"
+      ]
+    },
+    "#e3aba2": {
+      "count": 2,
+      "sources": [
+        "https://www.clare.com/"
+      ]
+    },
+    "#a6adbf": {
+      "count": 2,
+      "sources": [
+        "https://www.clare.com/"
+      ]
+    },
+    "#353535": {
+      "count": 2,
+      "sources": [
+        "https://www.clare.com/"
+      ]
+    },
+    "#023149": {
+      "count": 2,
+      "sources": [
+        "https://www.clare.com/",
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "#fef8f0": {
+      "count": 2,
+      "sources": [
+        "https://www.clare.com/",
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "#1c1d1d": {
+      "count": 2,
+      "sources": [
+        "https://www.clare.com/"
+      ]
+    },
+    "#7f97a2": {
+      "count": 2,
+      "sources": [
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "#fff6f6": {
+      "count": 2,
+      "sources": [
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "#999999": {
+      "count": 2,
+      "sources": [
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 2,
+      "sources": [
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#468ea2": {
+      "count": 2,
+      "sources": [
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "#989595": {
+      "count": 2,
+      "sources": [
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "#172b3d": {
+      "count": 2,
+      "sources": [
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.clare.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.clare.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#fcfcfd": {
+      "count": 2,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#ec4048": {
+      "count": 2,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.clare.com/cdn/shop/t/344/assets/fonts.scss.css?v=139487820544037929211789995317"
+    ],
+    "Consolas": [
+      "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+    ],
+    "Freight": [
+      "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+      "https://www.clare.com/cdn/shop/t/344/assets/fonts.scss.css?v=139487820544037929211789995317"
+    ],
+    "Freight 22": [
+      "https://www.clare.com/"
+    ],
+    "Freight' !important": [
+      "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+    ],
+    "FreightText": [
+      "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+    ],
+    "Helvetica": [
+      "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+      "https://www.clare.com/cdn/shop/t/344/assets/fonts.scss.css?v=139487820544037929211789995317"
+    ],
+    "Helvetica Neue": [
+      "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+      "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css",
+      "https://www.clare.com/cdn/shop/t/344/assets/fonts.scss.css?v=139487820544037929211789995317"
+    ],
+    "Montserrat": [
+      "https://dov7r31oq5dkj.cloudfront.net/ab5437e3-2fd0-4dc2-beaa-d5813f698792/widget-style-customisations.css?v=0ff3fbd5-cef0-4ea3-89cf-a0501a81fd4e"
+    ],
+    "Open sans": [
+      "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+    ],
+    "Reader": [
+      "https://www.clare.com/",
+      "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+      "https://dov7r31oq5dkj.cloudfront.net/ab5437e3-2fd0-4dc2-beaa-d5813f698792/widget-style-customisations.css?v=0ff3fbd5-cef0-4ea3-89cf-a0501a81fd4e",
+      "https://www.clare.com/cdn/shop/t/344/assets/fonts.scss.css?v=139487820544037929211789995317"
+    ],
+    "Reader !important": [
+      "https://www.clare.com/",
+      "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+    ],
+    "Reader!important": [
+      "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+    ],
+    "Reader' !important": [
+      "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+    ],
+    "monospace": [
+      "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+    ],
+    "object-fit: cover": [
+      "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+    ],
+    "oke-reviews-icons": [
+      "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+    ],
+    "sans-serif": [
+      "https://www.clare.com/",
+      "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+      "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css",
+      "https://www.clare.com/cdn/shop/t/344/assets/fonts.scss.css?v=139487820544037929211789995317"
+    ],
+    "swym-font": [
+      "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.clare.com/",
+      "selector": ":root",
+      "declarations": "--typeHeaderPrimary: 'Reader';--typeHeaderFallback: Montserrat;\n    --typeHeaderSize: 72px;\n    --typeHeaderWeight: 500;\n    --typeHeaderLineHeight: 1.2;\n    --typeHeaderSpacing: 0.0em;\n\n    --typeBasePrimary:'Freight';--typeBaseFallback:Jost;\n    --typeBaseSize: 16px;\n    --typeBaseWeight: 400;\n    --typeBaseSpacing: 0.0em;\n    --typeBaseLineHeight: 1.6;\n\n    --typeCollectionTitle: 16px;\n\n    --iconWeight: 5px;\n    --iconLinecaps: miter;\n\n    \n      --buttonRadius: 50px;\n    \n\n    --colorGridOverlayOpacity: 0.1;"
+    },
+    {
+      "source": "https://www.clare.com/",
+      "selector": "#hello-bar .flickity-button",
+      "declarations": "position: absolute;\n    background: none;\n    color: #ffffff;\n    top: 50%;\n    padding: 0;\n    opacity: 1;"
+    },
+    {
+      "source": "https://www.clare.com/",
+      "selector": "#F1CD83;\nbackground-color: #71635A;\nbackground-color: #E3ABA2;\nbackground-color: #A6ADBF;\nbackground-color: #353535;\ndisplay: none;\ndisplay: none;\ndisplay: none",
+      "declarations": "font-size: 12px;\nfont-style: normal;\nfont-weight: 500;\nline-height: 26px; \nletter-spacing: 1.75px;\ntext-transform: uppercase;\n  text-align: center;\n  color:#4E5457;\n  margin-top:25px;"
+    },
+    {
+      "source": "https://www.clare.com/",
+      "selector": ".cart__upsell-product-heading",
+      "declarations": "margin:0;\n  padding:0;\n  font-family: Reader;\n    font-size: 12px;\n    font-style: normal;\n    font-weight: 500;\n    line-height: 16px;\n    letter-spacing: 0.2px;\n    color: #1B1D1E;\n    margin-bottom:10px;"
+    },
+    {
+      "source": "https://www.clare.com/",
+      "selector": ".cart__upsell-product-action button",
+      "declarations": "background-color: var(--colorBtnPrimaryText) !important;\n      border-color: var(--colorBtnPrimaryText);\n      color: var(--colorBody) !important;"
+    },
+    {
+      "source": "https://www.clare.com/",
+      "selector": ".testimonials-ec1a31b5-e778-42c4-82c2-d60a0649eb96 a.text-link.section-header__link",
+      "declarations": "color: #1b1d1e;"
+    },
+    {
+      "source": "https://www.clare.com/",
+      "selector": ".founders-6032e2f4-401e-4bec-aefc-7c4cbbc86d20 a.text-link.section-header__link",
+      "declarations": "color: #1b1d1e;"
+    },
+    {
+      "source": "https://www.clare.com/",
+      "selector": ".community-403e7f55-1e34-4501-90c7-036b1297a685 a.text-link.section-header__link",
+      "declarations": "color: #1b1d1e;"
+    },
+    {
+      "source": "https://www.clare.com/",
+      "selector": ".ocu-modal__hero-content, .ocu-modal__header, .ocu-upsell__quantity button, h1.ocu-modal__title p span",
+      "declarations": "font-family: Reader !important;"
+    },
+    {
+      "source": "https://www.clare.com/",
+      "selector": ".ocu-popup button.ocu-cta__buy",
+      "declarations": "background-color: #f5be18 !important;"
+    },
+    {
+      "source": "https://www.clare.com/",
+      "selector": ".ocu-popup button.ocu-cta__buy span",
+      "declarations": "color: #000 !important;"
+    },
+    {
+      "source": "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+      "selector": "@charset \"UTF-8\";\n\n\n\n:root",
+      "declarations": "--colorBtnPrimary:#f5be18;\n  --colorBtnPrimaryLight:#f7cc49;\n  --colorBtnPrimaryDim:#e9b20a;\n  --colorBtnPrimaryText:#003149;\n\n  --colorBtnSecondary:#8AC7CB;\n  --colorBtnSecondaryLight:#add8db;\n  --colorBtnSecondaryDim:#3a7e82;\n  --colorBtnSecondaryText:#003149;\n\n  --colorCartDot:#f5be18;\n\n  --colorLink:#1b1d1e;\n\n  --colorTextBody:#1b1d1e;\n  --colorPrice:#4e5457;\n  --colorTextSavings:#C20000;\n  --colorSaleTag:#003149;\n  --colorSaleTagText:#f5f9fa;\n\n  --colorBody:#ffffff;\n  --colorBodyDim:#f2f2f2;\n\n  --colorFooter:#003149;\n  --colorFooterText:#ffffff;\n\n  --colorBorder:#cccccc;\n\n  --colorNav:#ffffff;\n  --colorNavText:#1b1d1e;\n  --colorAnnouncement:#003149;\n  --colorAnnouncementText:#ffffff;\n\n "
+    },
+    {
+      "source": "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+      "selector": ":root",
+      "declarations": "--grid-gutter:22px;"
+    },
+    {
+      "source": "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+      "selector": ".flickity-button",
+      "declarations": "position:absolute;\n  border:none;\n  color:#003149;\n  color:var(--colorBtnSecondaryText);\n  background-color:#8AC7CB;\n  background-color:var(--colorBtnSecondary);\n  border-radius:50%"
+    },
+    {
+      "source": "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+      "selector": ".hero .flickity-button",
+      "declarations": "color:#1b1d1e;\n    color:var(--colorTextBody);\n    background-color:#ffffff;\n    background-color:var(--colorBody);\n    box-shadow:0 5px 5px rgba(0, 0, 0, 0.1)"
+    },
+    {
+      "source": "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+      "selector": ".flickity-button:hover",
+      "declarations": "cursor:pointer;\n  color:#003149;\n  color:var(--colorBtnSecondaryText);\n  border-color: transparent;\n  \n  \n  background-color:#3a7e82;\n  background-color:var(--colorBtnSecondaryDim);\n  opacity:1;"
+    },
+    {
+      "source": "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+      "selector": "body,html",
+      "declarations": "background-color:#ffffff;\n  background-color:var(--colorBody);\n  color:#1b1d1e;\n  color:var(--colorTextBody);"
+    },
+    {
+      "source": "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+      "selector": ".faux-select,body,button,input,select,textarea",
+      "declarations": "font-family: var(--typeBasePrimary),var(--typeBaseFallback);\n  font-size: 16px;\n  letter-spacing: 0;\n  line-height: 28px;"
+    },
+    {
+      "source": "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+      "selector": ".h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6",
+      "declarations": "font-family: Reader;\n  font-weight: 500;\n  display: block;\n  margin: 0 0 15px;\n  letter-spacing: 0.2px;"
+    },
+    {
+      "source": "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+      "selector": ".btn,.product-reviews .spr-button,.product-reviews .spr-summary-actions a,.rte .btn,.shopify-payment-button .shopify-payment-button__button--unbranded",
+      "declarations": "line-height: 19px;\n  text-decoration:none;\n  text-align:center;\n  white-space:normal;\n\n  font-family:var(--typeHeaderPrimary),var(--typeHeaderFallback);\n  font-size:calc(var(--typeBaseSize) - 2px);\n  font-size:max(calc(var(--typeBaseSize) - 2px), 13px);\n  font-weight:500;\n\n  display:inline-block;\n  padding:11px 20px;\n  margin:0;\n  width:auto;\n  min-width:90px;\n  vertical-align:middle;\n  cursor:pointer;\n  border:1px solid transparent;\n  -webkit-user-select:none;\n          user-select:none;\n  -webkit-appearance:none;\n  -moz-appearance:none;\n  border-radius:var(--buttonRadius);\n  color:#003149;\n  color:var(--colorBtnPrimaryText);\n  background:#f5be18;\n  background:var(--colorBtnPrimary);\n  lett"
+    },
+    {
+      "source": "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+      "selector": ".btn:hover,.product-reviews .spr-button:hover,.product-reviews .spr-summary-actions a:hover,.rte .btn:hover,.shopify-payment-button .shopify-payment-button__but",
+      "declarations": "color:#003149;\n    color:var(--colorBtnPrimaryText);\n    background-color:#f5be18;\n    background-color:var(--colorBtnPrimary);"
+    },
+    {
+      "source": "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+      "selector": "isabled],.rte .btn.disabled,.rte .btn[disabled],.shopify-payment-button .shopify-payment-button__button--unbranded.disabled,.shopify-payment-button .shopify-pay",
+      "declarations": "cursor:default;\n    color:#b6b6b6;\n    background-color:#f6f6f6"
+    },
+    {
+      "source": "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+      "selector": "led:hover,.rte .btn[disabled]:hover,.shopify-payment-button .shopify-payment-button__button--unbranded.disabled:hover,.shopify-payment-button .shopify-payment-b",
+      "declarations": "color:#b6b6b6;\n      background-color:#f6f6f6;"
+    },
+    {
+      "source": "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+      "selector": "ngled] .shopify-payment-button .shopify-payment-button__button--unbranded[disabled]:after,[data-button_style=angled] .shopify-payment-button .shopify-payment-bu",
+      "declarations": "background-color:#f6f6f6;\n        border-top:1px solid;\n        border-top-color:#b6b6b6;\n        border-bottom:1px solid;\n        border-bottom-color:#b6b6b6;"
+    },
+    {
+      "source": "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+      "selector": "[data-button_style=angled] .shopify-payment-button .shopify-payment-button__button--unbranded:after,[data-button_style=angled] .shopify-payment-button .shopify-",
+      "declarations": "content:\"\";\n      position:absolute;\n      display:block;\n      top:0;\n      bottom:0;\n      width:20px;\n      transform:skewX(-12deg);\n      background-color:inherit;"
+    },
+    {
+      "source": "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+      "selector": ".shopify-payment-button .shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "color:#003149;\n  color:var(--colorBtnPrimaryText);\n  background-color:#f5be18;\n  background-color:var(--colorBtnPrimary);"
+    },
+    {
+      "source": "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+      "selector": ".shopify-payment-button__more-options",
+      "declarations": "color:inherit;"
+    },
+    {
+      "source": "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+      "selector": ".btn--secondary,\n.rte .btn--secondary",
+      "declarations": "color:#003149;\n  color:var(--colorBtnSecondaryText);\n  background-color:#8AC7CB;\n  background-color:var(--colorBtnSecondary);"
+    },
+    {
+      "source": "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+      "selector": "[data-button_style=angled] .btn--secondary,[data-button_style=angled] .rte .btn--secondary",
+      "declarations": "border-left:0;\n    border-right:0;\n    border-top:1px solid;\n    border-bottom:1px solid;\n    border-top-color:#cccccc;\n    border-top-color:var(--colorBorder);\n    border-bottom-color:#cccccc;\n    border-bottom-color:var(--colorBorder)"
+    },
+    {
+      "source": "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+      "selector": "utton_style=angled] .btn--secondary:after,[data-button_style=angled] .btn--secondary:before,[data-button_style=angled] .rte .btn--secondary:after,[data-button_s",
+      "declarations": "background-color:transparent;\n      top:-1px;\n      bottom:-1px;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Clare: Premium Designer Wall Paint & Supplies",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.clare.com/",
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+        "https://dov7r31oq5dkj.cloudfront.net/ab5437e3-2fd0-4dc2-beaa-d5813f698792/widget-style-customisations.css?v=0ff3fbd5-cef0-4ea3-89cf-a0501a81fd4e"
+      ]
+    },
+    "colors.primary-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "colors.primary-dim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.clare.com/",
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+        "https://dov7r31oq5dkj.cloudfront.net/ab5437e3-2fd0-4dc2-beaa-d5813f698792/widget-style-customisations.css?v=0ff3fbd5-cef0-4ea3-89cf-a0501a81fd4e"
+      ]
+    },
+    "colors.secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.clare.com/",
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "colors.secondary-dim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.clare.com/",
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.clare.com/",
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.clare.com/",
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "colors.savings": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.clare.com/",
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+        "https://www.clare.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.clare.com/",
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317"
+      ]
+    },
+    "colors.footer": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.clare.com/",
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+        "https://dov7r31oq5dkj.cloudfront.net/ab5437e3-2fd0-4dc2-beaa-d5813f698792/widget-style-customisations.css?v=0ff3fbd5-cef0-4ea3-89cf-a0501a81fd4e"
+      ]
+    },
+    "colors.footer-text": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.clare.com/",
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+        "https://www.clare.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "colors.announcement": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.clare.com/",
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+        "https://dov7r31oq5dkj.cloudfront.net/ab5437e3-2fd0-4dc2-beaa-d5813f698792/widget-style-customisations.css?v=0ff3fbd5-cef0-4ea3-89cf-a0501a81fd4e"
+      ]
+    },
+    "colors.announcement-text": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.clare.com/",
+        "https://www.clare.com/cdn/shop/t/344/assets/theme.css?v=21995312247693646861789995317",
+        "https://www.clare.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.announcement-bar": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.swatch-picker": {
+      "status": "inferred"
+    }
+  }
+}

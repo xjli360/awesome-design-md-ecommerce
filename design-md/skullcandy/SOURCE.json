@@ -1,0 +1,639 @@
+{
+  "source_url": "https://skullcandy.com",
+  "final_url": "https://www.skullcandy.com/",
+  "captured_at": "2026-09-29T03:53:30.965249+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://skullcandy.com",
+      "final_url": "https://www.skullcandy.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "8dadc0bd8ed700efd040d6d2e22bc0a9c28dd216a5eb0d4f65592757e6063914",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.skullcandy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.skullcandy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.skullcandy.com/cdn/shop/t/3/assets/bootstrap-grid.css?v=72608714674656446491705514000",
+      "final_url": "https://www.skullcandy.com/cdn/shop/t/3/assets/bootstrap-grid.css?v=72608714674656446491705514000",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6177a90eed572d67bb6b815c1f2e8ae21dcd2d1c30ec8390fb11afb0c2eba463",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.skullcandy.com/cdn/shop/t/3/assets/base.css?v=183692999035474957481790278507",
+      "final_url": "https://www.skullcandy.com/cdn/shop/t/3/assets/base.css?v=183692999035474957481790278507",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c3730ab76d70256bd1d9d05529c65f7250598fe96acff4a0c87f9a66f95c5d28",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.skullcandy.com/cdn/shop/t/3/assets/wick.css?v=176062194799298369021789557262",
+      "final_url": "https://www.skullcandy.com/cdn/shop/t/3/assets/wick.css?v=176062194799298369021789557262",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "553c47814ce9e6a8dea3528b4cf605207820953debbd109b3b7410795e301865",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.skullcandy.com/cdn/shop/t/3/assets/flickity.min.css?v=19235284515522304131709568509",
+      "final_url": "https://www.skullcandy.com/cdn/shop/t/3/assets/flickity.min.css?v=19235284515522304131709568509",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "823bbd459efeafa0bda5918a93ba82266a19a87b5a84dd3cadb028eac1f30af8",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 60,
+      "sources": [
+        "https://www.skullcandy.com/",
+        "https://www.skullcandy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.skullcandy.com/cdn/shop/t/3/assets/bootstrap-grid.css?v=72608714674656446491705514000",
+        "https://www.skullcandy.com/cdn/shop/t/3/assets/wick.css?v=176062194799298369021789557262"
+      ]
+    },
+    "#000000": {
+      "count": 32,
+      "sources": [
+        "https://www.skullcandy.com/",
+        "https://www.skullcandy.com/cdn/shop/t/3/assets/bootstrap-grid.css?v=72608714674656446491705514000",
+        "https://www.skullcandy.com/cdn/shop/t/3/assets/base.css?v=183692999035474957481790278507",
+        "https://www.skullcandy.com/cdn/shop/t/3/assets/wick.css?v=176062194799298369021789557262"
+      ]
+    },
+    "#0081ff": {
+      "count": 13,
+      "sources": [
+        "https://www.skullcandy.com/"
+      ]
+    },
+    "#006dd9": {
+      "count": 9,
+      "sources": [
+        "https://www.skullcandy.com/"
+      ]
+    },
+    "#c6c6c6": {
+      "count": 9,
+      "sources": [
+        "https://www.skullcandy.com/"
+      ]
+    },
+    "#f6d309": {
+      "count": 7,
+      "sources": [
+        "https://www.skullcandy.com/",
+        "https://www.skullcandy.com/cdn/shop/t/3/assets/base.css?v=183692999035474957481790278507"
+      ]
+    },
+    "#00000000": {
+      "count": 7,
+      "sources": [
+        "https://www.skullcandy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.skullcandy.com/cdn/shop/t/3/assets/bootstrap-grid.css?v=72608714674656446491705514000",
+        "https://www.skullcandy.com/cdn/shop/t/3/assets/base.css?v=183692999035474957481790278507",
+        "https://www.skullcandy.com/cdn/shop/t/3/assets/wick.css?v=176062194799298369021789557262"
+      ]
+    },
+    "#8acdea": {
+      "count": 4,
+      "sources": [
+        "https://www.skullcandy.com/"
+      ]
+    },
+    "#f44336": {
+      "count": 4,
+      "sources": [
+        "https://www.skullcandy.com/cdn/shop/t/3/assets/wick.css?v=176062194799298369021789557262"
+      ]
+    },
+    "#ffffff00": {
+      "count": 3,
+      "sources": [
+        "https://www.skullcandy.com/cdn/shop/t/3/assets/wick.css?v=176062194799298369021789557262"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 2,
+      "sources": [
+        "https://www.skullcandy.com/"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 2,
+      "sources": [
+        "https://www.skullcandy.com/"
+      ]
+    },
+    "#121212": {
+      "count": 2,
+      "sources": [
+        "https://www.skullcandy.com/",
+        "https://www.skullcandy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.skullcandy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#3b3b3b": {
+      "count": 2,
+      "sources": [
+        "https://www.skullcandy.com/cdn/shop/t/3/assets/wick.css?v=176062194799298369021789557262"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 1,
+      "sources": [
+        "https://www.skullcandy.com/"
+      ]
+    },
+    "#334fb4": {
+      "count": 1,
+      "sources": [
+        "https://www.skullcandy.com/"
+      ]
+    },
+    "#f0d400": {
+      "count": 1,
+      "sources": [
+        "https://www.skullcandy.com/"
+      ]
+    },
+    "#f6f4f5": {
+      "count": 1,
+      "sources": [
+        "https://www.skullcandy.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://www.skullcandy.com/"
+      ]
+    },
+    "#e3f7ff": {
+      "count": 1,
+      "sources": [
+        "https://www.skullcandy.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.skullcandy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.skullcandy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#262626": {
+      "count": 1,
+      "sources": [
+        "https://www.skullcandy.com/cdn/shop/t/3/assets/base.css?v=183692999035474957481790278507"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 1,
+      "sources": [
+        "https://www.skullcandy.com/cdn/shop/t/3/assets/base.css?v=183692999035474957481790278507"
+      ]
+    },
+    "#ffffffb3": {
+      "count": 1,
+      "sources": [
+        "https://www.skullcandy.com/cdn/shop/t/3/assets/wick.css?v=176062194799298369021789557262"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 1,
+      "sources": [
+        "https://www.skullcandy.com/cdn/shop/t/3/assets/wick.css?v=176062194799298369021789557262"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://www.skullcandy.com/cdn/shop/t/3/assets/flickity.min.css?v=19235284515522304131709568509"
+      ]
+    },
+    "#666565f7": {
+      "count": 1,
+      "sources": [
+        "https://www.skullcandy.com/cdn/shop/t/3/assets/flickity.min.css?v=19235284515522304131709568509"
+      ]
+    }
+  },
+  "font_families": {
+    "Archivo": [
+      "https://www.skullcandy.com/"
+    ],
+    "Archivo !important": [
+      "https://www.skullcandy.com/"
+    ],
+    "Archivo Black": [
+      "https://www.skullcandy.com/"
+    ],
+    "Archivo' !important": [
+      "https://www.skullcandy.com/"
+    ],
+    "Digital-7 V5": [
+      "https://www.skullcandy.com/"
+    ],
+    "archivo black": [
+      "https://www.skullcandy.com/"
+    ],
+    "sans-serif": [
+      "https://www.skullcandy.com/"
+    ],
+    "sans-serif !important": [
+      "https://www.skullcandy.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.skullcandy.com/",
+      "selector": "h1, h2, h3, h4, h5, .h0, .h1, .h2, .h3, .h4, .h5",
+      "declarations": "font-family: \"Archivo Black\", sans-serif !important;\n        font-weight: 400;\n        font-style: normal;\n        font-display: swap;"
+    },
+    {
+      "source": "https://www.skullcandy.com/",
+      "selector": "#CartDrawer-Checkout, .cart-drawer__empty-content .button",
+      "declarations": "background-color: #0081ff;\n              color: #ffffff;"
+    },
+    {
+      "source": "https://www.skullcandy.com/",
+      "selector": "#CartDrawer-Checkout:hover, .cart-drawer__empty-content .button:hover",
+      "declarations": "background-color: #006dd9;\n              color: #ffffff;"
+    },
+    {
+      "source": "https://www.skullcandy.com/",
+      "selector": "#CartDrawer-Checkout, .cart-drawer__empty-content .button",
+      "declarations": "display: inline-block;\n              margin: 7px 0px;\n              font-family: 'Archivo';\n              letter-spacing: normal;\n              font-weight: bold;\n              text-transform:uppercase;\n              border-radius: 30px !important;"
+    },
+    {
+      "source": "https://www.skullcandy.com/",
+      "selector": ".product-guide-intro-step",
+      "declarations": "font-family: Archivo !important; font-weight:bold !important; letter-spacing:normal !important;"
+    },
+    {
+      "source": "https://www.skullcandy.com/",
+      "selector": ".yotpo-widget-clear, .yotpo-widget-clear button, .yotpo-widget-clear form input, .yotpo-widget-clear span",
+      "declarations": "font-family: 'Archivo' !important;\n                font-size: 1.3rem !important;\n                padding-top: 2px !important;"
+    },
+    {
+      "source": "https://www.skullcandy.com/",
+      "selector": ".rich-text__buttons",
+      "declarations": "background-color: #0081ff;\n                    color:white;\n                display: inline-flex;\n                align-items: center;\n                justify-content: center;\n                font-family: Archivo;\n                letter-spacing: normal;\n                font-weight: 700;\n                    border-radius:8px;\n                    width:auto !important;"
+    },
+    {
+      "source": "https://www.skullcandy.com/",
+      "selector": ".rich-text__buttons .button",
+      "declarations": "background-color: #0081ff;    padding: 10px 34px;"
+    },
+    {
+      "source": "https://www.skullcandy.com/",
+      "selector": ".rich-text__buttons .button:hover",
+      "declarations": "background-color: #006dd9; color:white;"
+    },
+    {
+      "source": "https://www.skullcandy.com/",
+      "selector": ".rich-text__buttons:hover",
+      "declarations": "background-color: #006dd9;color:white;"
+    },
+    {
+      "source": "https://www.skullcandy.com/",
+      "selector": "body",
+      "declarations": "display: grid;\n                    grid-template-rows: auto auto 1fr auto;\n                    grid-template-columns: 100%;\n                    margin: 0;\n                    font-size: 1.5rem;\n                    letter-spacing: 0;\n                    line-height: calc(1 + 0.8 / var(--font-body-scale));\n                    font-family: var(--font-body-family);\n                    font-style: var(--font-body-style);\n                    font-weight: var(--font-body-weight);"
+    },
+    {
+      "source": "https://www.skullcandy.com/",
+      "selector": ".section-template--16446116724793__image_video_banner_Aef7Mp .video-banner-heading h1",
+      "declarations": "margin:0;\n        color:#ffffff;"
+    },
+    {
+      "source": "https://www.skullcandy.com/",
+      "selector": ".section-template--16446116724793__image_video_banner_Aef7Mp .video-banner-heading h1",
+      "declarations": "color:#ffffff;"
+    },
+    {
+      "source": "https://www.skullcandy.com/",
+      "selector": ".video-banner-heading h1",
+      "declarations": "letter-spacing: -.03em;\n        font-family: 'Archivo Black';"
+    },
+    {
+      "source": "https://www.skullcandy.com/",
+      "selector": "#section-template--16446116724793__image_video_banner_Aef7Mp .video-first-btn.btn-button_qbKwAB:hover",
+      "declarations": "background-color:#006dd9 !important;"
+    },
+    {
+      "source": "https://www.skullcandy.com/",
+      "selector": "#section-template--16446116724793__image_video_banner_Aef7Mp .video-second-btn.btn-button_qbKwAB:hover",
+      "declarations": "background-color:#f4f4f4 !important;"
+    },
+    {
+      "source": "https://www.skullcandy.com/",
+      "selector": ".countdown-header",
+      "declarations": "color: white;\n  font-family: 'Digital-7 V5';\n  font-size: clamp(2.5rem, 3.6vw, 5.5rem);"
+    },
+    {
+      "source": "https://www.skullcandy.com/",
+      "selector": ".countdown-header",
+      "declarations": "color: white;\n  font-family: 'Digital-7 V5';\n  font-size: clamp(2.5rem, 3.6vw, 5.5rem);"
+    },
+    {
+      "source": "https://www.skullcandy.com/",
+      "selector": ".section-template--16446116724793__image_video_banner_9nbGfC .video-banner-heading h1",
+      "declarations": "margin:0;\n        color:#ffffff;"
+    },
+    {
+      "source": "https://www.skullcandy.com/",
+      "selector": ".section-template--16446116724793__image_video_banner_9nbGfC .video-banner-heading h1",
+      "declarations": "color:#ffffff;"
+    },
+    {
+      "source": "https://www.skullcandy.com/",
+      "selector": ".video-banner-heading h1",
+      "declarations": "letter-spacing: -.03em;\n        font-family: 'Archivo Black';"
+    },
+    {
+      "source": "https://www.skullcandy.com/",
+      "selector": "#section-template--16446116724793__image_video_banner_9nbGfC .video-first-btn.btn-button_jj3EBj:hover",
+      "declarations": "background-color:#006dd9 !important;"
+    },
+    {
+      "source": "https://www.skullcandy.com/",
+      "selector": "#section-template--16446116724793__image_video_banner_9nbGfC .video-second-btn.btn-button_jj3EBj:hover",
+      "declarations": "background-color:#f4f4f4 !important;"
+    },
+    {
+      "source": "https://www.skullcandy.com/",
+      "selector": ".wambutton",
+      "declarations": "display: block;\n              position: absolute;\n              background-color: white;\n              color: black;\n              top: 0;\n              left: 0;\n              padding: 3px 20px 2px 46px;\n              font-size: 1em;\n              z-index: 999 !important;"
+    },
+    {
+      "source": "https://www.skullcandy.com/",
+      "selector": "#md-app-embed__modal .md-modal__header__title span, #md-app-embed__modal .md-modal__header__title h2",
+      "declarations": "color: #000000 !important;\n        line-height: 1.75em;"
+    },
+    {
+      "source": "https://www.skullcandy.com/",
+      "selector": "#md-app-embed__modal .md-modal__bodyContent p",
+      "declarations": "color: #000000 !important;"
+    },
+    {
+      "source": "https://www.skullcandy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.skullcandy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.skullcandy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.skullcandy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Skullcandy | Headphones, Earbuds, Gaming, and Speakers",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skullcandy.com/"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skullcandy.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skullcandy.com/",
+        "https://www.skullcandy.com/cdn/shop/t/3/assets/bootstrap-grid.css?v=72608714674656446491705514000",
+        "https://www.skullcandy.com/cdn/shop/t/3/assets/base.css?v=183692999035474957481790278507",
+        "https://www.skullcandy.com/cdn/shop/t/3/assets/wick.css?v=176062194799298369021789557262"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skullcandy.com/",
+        "https://www.skullcandy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.skullcandy.com/cdn/shop/t/3/assets/bootstrap-grid.css?v=72608714674656446491705514000",
+        "https://www.skullcandy.com/cdn/shop/t/3/assets/wick.css?v=176062194799298369021789557262"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skullcandy.com/cdn/shop/t/3/assets/flickity.min.css?v=19235284515522304131709568509"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skullcandy.com/cdn/shop/t/3/assets/flickity.min.css?v=19235284515522304131709568509"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skullcandy.com/cdn/shop/t/3/assets/wick.css?v=176062194799298369021789557262"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skullcandy.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skullcandy.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skullcandy.com/",
+        "https://www.skullcandy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.skullcandy.com/cdn/shop/t/3/assets/bootstrap-grid.css?v=72608714674656446491705514000",
+        "https://www.skullcandy.com/cdn/shop/t/3/assets/wick.css?v=176062194799298369021789557262"
+      ]
+    },
+    "colors.accent-yellow": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skullcandy.com/",
+        "https://www.skullcandy.com/cdn/shop/t/3/assets/base.css?v=183692999035474957481790278507"
+      ]
+    },
+    "colors.sale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skullcandy.com/cdn/shop/t/3/assets/wick.css?v=176062194799298369021789557262"
+      ]
+    },
+    "colors.dark-surface": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.skullcandy.com/",
+        "https://www.skullcandy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.color-swatch-selector": {
+      "status": "inferred"
+    }
+  }
+}

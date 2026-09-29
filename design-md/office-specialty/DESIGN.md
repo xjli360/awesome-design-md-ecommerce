@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Office Specialty
-description: |
+name: "Office Specialty"
+source_url: "https://www.officespecialty.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The GSA contract number embedded in the page title — "GSA Small Business" — announces Office Specialty's primary customer before a single product loads: this is specification-grade furniture for federal workspace buildouts and modular filing systems, sold through government procurement channels, and #116dff, an institutional cornflower blue, carries that procurement authority into every CTA, link, and active navigation state. It is the blue of government form headers and agency contracting portals, chosen for compliance and recognition rather than brand distinction. The type stack never ventures beyond Arial and Helvetica — system fonts selected for compatibility with locked-down IT environments in federal agencies and corporate facilities departments rather than for aesthetic ambition; near-black #080808 grounds all spec copy and data tables with maximum density, the visual weight of a technical product catalog built to be read, not admired.
 
   Steel gray #5f6360 runs beneath everything as the workhorse neutral: secondary labels, muted metadata, dimension callouts, the quiet infrastructure of a product that sells on specification rather than sensation. It reads as the color of filing cabinet drawer pulls and powder-coated bracket hardware — chosen for accuracy, not warmth. Buttons land at {rounded.sm} 4px and inputs at {rounded.xs} 2px, a sharp, nearly right-angled register that signals industrial function over consumer comfort. The layout is dense by design: product cards carry part numbers, finish codes, lead times, and ADA compliance flags alongside pricing, because the buyer is a facilities manager running a GSA quote, not a first-time browser looking for inspiration.
@@ -335,6 +338,8 @@ components:
 - Two-badge header cluster (GSA + USA MADE) compresses to icon-only at narrowest mobile widths with full text restored at ≥ 375px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only three hex values were extracted (#116dff, #5f6360, #080808); all surface, hairline, error, warning, and visited-link colors are derived from the extracted palette by lightening and darkening — none confirmed from live site inspection
 - No meta theme-color was set; true mobile browser chrome tint is unconfirmable

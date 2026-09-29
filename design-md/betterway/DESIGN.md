@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Betterway
-description: >-
+name: "Betterway"
+source_url: "https://betterwaypaper.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Betterway ships bamboo toilet paper in kraft-brown wrapping without a single strip of plastic — the outer material is already the brand argument, leaving the digital presence to carry that same restraint into pixels. Rather than investing in hero illustration or high-production lifestyle shoots, the site relies on a muted green primary (inferred ~#4a7c59) acting as the one voltage color against warm-cream surfaces that echo unbleached pulp. Product photography sits on {colors.surface-soft}, a near-paper off-white that reads like the inside of a cardboard box left in good light. Buttons carry gentle {rounded.sm} corners rather than the pill shapes that playful eco brands favor, placing Betterway closer to the earnest-utility end of the DTC spectrum than the gift-able novelty end. Body copy is compact and factual — claim density is high, marketing rhetoric low — suggesting a design brief that said "let the numbers do it." The primary green holds WCAG AA on both white and cream surfaces without a border stroke, letting subscription-plan comparison cards and add-to-cart actions feel legible rather than loud. A tight spacing scale keeps section padding from sprawling: the gap between a product image and its price tag reads the same as the gap between a sustainability stat and its label, creating visual rhythm through consistency rather than drama. Certifications and third-party badges — FSC, carbon-neutral marks — cluster near the footer and PDP trust zone in small-cap type at roughly 11–12px, a convention shared by every impact-first paper brand. Navigation is spare: wordmark left, utility icons right, category dropdowns only when SKU count demands them. The overall palette — kraft, leaf, and white — maps directly to the three materials in the supply chain, making the design system feel less like a brand choice and more like a consequence of what the product actually is.
 
 colors:
@@ -260,6 +263,8 @@ components:
 - Certification strip: horizontal scroll on mobile rather than wrapping logos to preserve brand mark aspect ratios
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Zero hex colors extracted** — betterwaypaper.com returned no extractable color tokens; all palette values are inferred from the sustainable bamboo paper goods category and general DTC brand conventions, not measured from the live site
 - **No fonts extracted** — font-family stacks could not be scraped; all typography uses `system-ui` fallback; the actual brand may use a licensed geometric sans (Graphik, Söhne, GT America, or similar)

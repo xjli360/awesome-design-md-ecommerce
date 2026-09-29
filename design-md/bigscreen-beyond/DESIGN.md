@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Bigscreen Beyond
-description: A VR headset that sheds the usual black-plastic gamer aesthetic for a machined-aluminum chassis and a single, unbroken black canvas — `#000000` meta theme-color that bleeds edge-to-edge across the browser chrome, making the site feel like a darkroom where the product is the only light source. The lone extracted font — SFProDisplay-Bold — runs at generous sizes with tight tracking, delivering headlines that feel stamped rather than typeset, a deliberate counterpoint to the soft, rounded UI containers (`{rounded.md}` for cards, `{rounded.full}` for CTA pills). There are no gradients, no decorative flourishes, no secondary brand colors; the palette is a strict monochrome of black, white, and near-black grays, punctuated only by the product’s own OLED glow in hero imagery. Navigation is a minimal top bar with a logo lockup and a single CTA — "Buy Now" — rendered as a white-on-black pill (`{colors.on-primary}` on `{colors.ink}`), a conversion path that feels inevitable rather than pushed. The site trusts its product photography to do the heavy lifting: headsets are shown floating in negative space, cables rendered as fine silver lines against the dark, and every interaction — hover, click, scroll — is met with subtle opacity shifts and micro-animations that reinforce the hardware’s precision-engineering story.
+name: "Bigscreen Beyond"
+source_url: "https://www.bigscreenvr.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A VR headset that sheds the usual black-plastic gamer aesthetic for a machined-aluminum chassis and a single, unbroken black canvas — `#000000` meta theme-color that bleeds edge-to-edge across the browser chrome, making the site feel like a darkroom where the product is the only light source. The lone extracted font — SFProDisplay-Bold — runs at generous sizes with tight tracking, delivering headlines that feel stamped rather than typeset, a deliberate counterpoint to the soft, rounded UI containers (`{rounded.md}` for cards, `{rounded.full}` for CTA pills). There are no gradients, no decorative flourishes, no secondary brand colors; the palette is a strict monochrome of black, white, and near-black grays, punctuated only by the product’s own OLED glow in hero imagery. Navigation is a minimal top bar with a logo lockup and a single CTA — "Buy Now" — rendered as a white-on-black pill (`{colors.on-primary}` on `{colors.ink}`), a conversion path that feels inevitable rather than pushed. The site trusts its product photography to do the heavy lifting: headsets are shown floating in negative space, cables rendered as fine silver lines against the dark, and every interaction — hover, click, scroll — is met with subtle opacity shifts and micro-animations that reinforce the hardware’s precision-engineering story.
 
 colors:
   primary: "#000000"
@@ -179,7 +183,7 @@ components:
   hero-section:
     backgroundColor: "{colors.primary}"
     textColor: "{colors.on-primary}"
-    padding: "{spacing.section}" 0
+    padding: "{spacing.section} 0"
   hero-headline:
     typography: "{typography.display-xl}"
     textColor: "{colors.on-primary}"
@@ -209,11 +213,11 @@ components:
   feature-list-item:
     typography: "{typography.body-md}"
     textColor: "{colors.body}"
-    padding: "{spacing.sm}" 0
+    padding: "{spacing.sm} 0"
   footer-section:
     backgroundColor: "{colors.primary}"
     textColor: "{colors.on-primary}"
-    padding: "{spacing.xxl}" 0
+    padding: "{spacing.xxl} 0"
   footer-link:
     typography: "{typography.link}"
     textColor: "{colors.muted-soft}"
@@ -277,6 +281,8 @@ components:
 - Spec comparison tables convert to stacked lists below 744px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No extracted hex colors were available from the live site (the extraction returned empty after framework filtering); the palette above is inferred from the `#000000` theme-color meta tag and the brand's known visual identity
 - Font-family extraction returned only `SFProDisplay-Bold`; the body font is assumed to be the system font stack based on common VR hardware site patterns

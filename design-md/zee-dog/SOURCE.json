@@ -1,0 +1,715 @@
+{
+  "source_url": "https://zeedog.com",
+  "final_url": "https://www.zeedog.com/",
+  "captured_at": "2026-09-28T04:46:27.983258+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://zeedog.com",
+      "final_url": "https://www.zeedog.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "cc511b75dbcc8f8ea37dfe5ea62ae163a0773e02eb2f90eeb78f73e256f87145",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.zeedog.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.zeedog.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681",
+      "final_url": "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "849a74c652a68b67d65428f5723e2b0b4c69494f466af1b9f35cf1f56da5870c",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0b920-6b1d-796e-8cb1-48d2f7a30b41/linked-options-407/assets/product.min.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0b920-6b1d-796e-8cb1-48d2f7a30b41/linked-options-407/assets/product.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "29596b9776afbb9ac0f230940e381084bc572a46e2e60b0469afc3251e3d37a0",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 53,
+      "sources": [
+        "https://www.zeedog.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+      ]
+    },
+    "#ffffff": {
+      "count": 14,
+      "sources": [
+        "https://www.zeedog.com/",
+        "https://www.zeedog.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681",
+        "https://cdn.shopify.com/extensions/01a0b920-6b1d-796e-8cb1-48d2f7a30b41/linked-options-407/assets/product.min.css"
+      ]
+    },
+    "#000000": {
+      "count": 10,
+      "sources": [
+        "https://www.zeedog.com/",
+        "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681",
+        "https://cdn.shopify.com/extensions/01a0b920-6b1d-796e-8cb1-48d2f7a30b41/linked-options-407/assets/product.min.css"
+      ]
+    },
+    "#005fcc": {
+      "count": 7,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0b920-6b1d-796e-8cb1-48d2f7a30b41/linked-options-407/assets/product.min.css"
+      ]
+    },
+    "#333333": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0b920-6b1d-796e-8cb1-48d2f7a30b41/linked-options-407/assets/product.min.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 3,
+      "sources": [
+        "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+      ]
+    },
+    "#374151": {
+      "count": 3,
+      "sources": [
+        "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+      ]
+    },
+    "#9ca3a8": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0b920-6b1d-796e-8cb1-48d2f7a30b41/linked-options-407/assets/product.min.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.zeedog.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+      ]
+    },
+    "#d1d5db": {
+      "count": 2,
+      "sources": [
+        "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+      ]
+    },
+    "#4b5563": {
+      "count": 2,
+      "sources": [
+        "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0b920-6b1d-796e-8cb1-48d2f7a30b41/linked-options-407/assets/product.min.css"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0b920-6b1d-796e-8cb1-48d2f7a30b41/linked-options-407/assets/product.min.css"
+      ]
+    },
+    "#595959": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0b920-6b1d-796e-8cb1-48d2f7a30b41/linked-options-407/assets/product.min.css"
+      ]
+    },
+    "#2c2c2c": {
+      "count": 1,
+      "sources": [
+        "https://www.zeedog.com/"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 1,
+      "sources": [
+        "https://www.zeedog.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://www.zeedog.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.zeedog.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.zeedog.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.zeedog.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 1,
+      "sources": [
+        "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+      ]
+    },
+    "#a3a3a3": {
+      "count": 1,
+      "sources": [
+        "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+      ]
+    },
+    "#737373": {
+      "count": 1,
+      "sources": [
+        "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+      ]
+    },
+    "#525252": {
+      "count": 1,
+      "sources": [
+        "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+      ]
+    },
+    "#ffffff66": {
+      "count": 1,
+      "sources": [
+        "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+      ]
+    },
+    "#ffffffe5": {
+      "count": 1,
+      "sources": [
+        "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+      ]
+    },
+    "#00000026": {
+      "count": 1,
+      "sources": [
+        "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+      ]
+    },
+    "#00000013": {
+      "count": 1,
+      "sources": [
+        "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+      ]
+    },
+    "#0000001a": {
+      "count": 1,
+      "sources": [
+        "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+      ]
+    },
+    "#111827": {
+      "count": 1,
+      "sources": [
+        "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+      ]
+    },
+    "#f3f4f6": {
+      "count": 1,
+      "sources": [
+        "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0b920-6b1d-796e-8cb1-48d2f7a30b41/linked-options-407/assets/product.min.css"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0b920-6b1d-796e-8cb1-48d2f7a30b41/linked-options-407/assets/product.min.css"
+      ]
+    },
+    "#777777": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0b920-6b1d-796e-8cb1-48d2f7a30b41/linked-options-407/assets/product.min.css"
+      ]
+    },
+    "#606060": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0b920-6b1d-796e-8cb1-48d2f7a30b41/linked-options-407/assets/product.min.css"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0b920-6b1d-796e-8cb1-48d2f7a30b41/linked-options-407/assets/product.min.css"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0b920-6b1d-796e-8cb1-48d2f7a30b41/linked-options-407/assets/product.min.css"
+      ]
+    },
+    "#f1f2f3": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0b920-6b1d-796e-8cb1-48d2f7a30b41/linked-options-407/assets/product.min.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Apple Color Emoji": [
+      "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+    ],
+    "Consolas": [
+      "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+    ],
+    "Courier New": [
+      "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+    ],
+    "Jost": [
+      "https://www.zeedog.com/"
+    ],
+    "Liberation Mono": [
+      "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+    ],
+    "Menlo": [
+      "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+    ],
+    "Monaco": [
+      "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+    ],
+    "Noto Color Emoji": [
+      "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+    ],
+    "Roboto": [
+      "https://www.zeedog.com/"
+    ],
+    "SFMono-Regular": [
+      "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+    ],
+    "Segoe UI Emoji": [
+      "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+    ],
+    "Segoe UI Symbol": [
+      "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+    ],
+    "monospace": [
+      "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+    ],
+    "sans-serif": [
+      "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+    ],
+    "system-ui": [
+      "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+    ],
+    "ui-monospace": [
+      "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+    ],
+    "ui-sans-serif": [
+      "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.zeedog.com/",
+      "selector": ":root",
+      "declarations": "--container-max-inner-width-const: 1800px;"
+    },
+    {
+      "source": "https://www.zeedog.com/",
+      "selector": ":root",
+      "declarations": "--block-corner-radius: 4px;\n    --block-sm-corner-radius: calc(min(var(--block-corner-radius), .5rem));\n    --block-xs-corner-radius: calc(min(var(--block-corner-radius), .25rem));\n\n    --button-corner-radius: 4px;\n    --input-corner-radius: 4px;\n    --dropdown-corner-radius: 4px;\n\n    --image-background-shade: 0.97;\n\n    \n        --color-swatch-border-radius: 9999px;\n        --color-swatch-aspect-ratio: 1.0;"
+    },
+    {
+      "source": "https://www.zeedog.com/",
+      "selector": ".header-title",
+      "declarations": "font-size: var(--size-text-base);\n      font-weight: var(--weight-bold);\n      font-family: var(--font-heading-family);"
+    },
+    {
+      "source": "https://www.zeedog.com/",
+      "selector": ".back-button,\n    .close-button",
+      "declarations": "display: flex;\n      width: 1rem;\n      height: 1rem;\n      background: none;\n      color: rgb(var(--color-foreground));\n      margin-left: auto;\n      border: 0;\n      padding: 0;\n      margin: 0;\n      -webkit-appearance: none;\n      appearance: none;"
+    },
+    {
+      "source": "https://www.zeedog.com/",
+      "selector": "display: none;\n\n      --color-background: 237 237 237;\n      --color-foreground: 0 0 0;\n    \n\n  #shopify-section-sections--19800661164083__header",
+      "declarations": "--header-logo-width: 44px;\n    --header-logo-width-mobile: 32px;\n    --header-transparent-text-color: 255 255 255;"
+    },
+    {
+      "source": "https://www.zeedog.com/",
+      "selector": ".js main > .shopify-section:first-child [enable-transparent-header]",
+      "declarations": "margin-top: calc(var(--header-height) * -1);\n    --allow-transparent-header-padding: calc(var(--header-height) + 1rem);"
+    },
+    {
+      "source": "https://www.zeedog.com/",
+      "selector": ".js .section-site-header:not(.section-site-header--sticky) .header--transparent",
+      "declarations": "--header-background-opacity: 0%;\n        --color-header-foreground: var(--header-transparent-text-color);"
+    },
+    {
+      "source": "https://www.zeedog.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.zeedog.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.zeedog.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.zeedog.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.zeedog.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.zeedog.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-feature-settings:inherit;font-variation-settings:inherit;font-size:100%;font-weight:inherit;line-height:inherit;letter-spacing:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681",
+      "selector": "button,input:where([type=button]),input:where([type=reset]),input:where([type=submit])",
+      "declarations": "-webkit-appearance:button;background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681",
+      "selector": "newsletter-modal::part(panel),.carousel-prev,.carousel-next,.image-comparison,.image-comparison__handle,.button-prev,.button-next,.button-zoom-in,.shadow-block,",
+      "declarations": "--tw-ring-offset-shadow: 0 0 #0000;--tw-ring-shadow: 0 0 #0000;--tw-shadow: 0 0 #0000;--tw-shadow-colored: 0 0 #0000"
+    },
+    {
+      "source": "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681",
+      "selector": "tive),.button-secondary:not(:hover):not(:active),:where(.input,.spr-form-input-text,.spr-form-input-textarea,.spr-form-input-email),[type=checkbox],[type=radio]",
+      "declarations": "--tw-ring-inset:;--tw-ring-offset-width: 0px;--tw-ring-offset-color: rgb(var(--color-background));--tw-ring-color: rgb(59 130 246 / .5);--tw-ring-offset-shadow: 0 0 #0000;--tw-ring-shadow: 0 0 #0000;--tw-shadow: 0 0 #0000;--tw-shadow-colored: 0 0 #0000"
+    },
+    {
+      "source": "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681",
+      "selector": ":root",
+      "declarations": "--breakpoint-hd: 1400px;--breakpoint-xl: 1200px;--scrollbar-width: 0px;--gray-50: 250 250 250;--gray-100: 245 245 245;--gray-200: 229 229 229;--gray-300: 212 212 212;--gray-400: 163 163 163;--gray-500: 115 115 115;--gray-600: 82 82 82;--gray-700: 64 64 64;--gray-800: 38 38 38;--gray-900: 23 23 23;--white: 255 255 255;--black: 0 0 0;--color-separator: 229 231 235;--color-outline: 209 213 219;--color-border: 212 212 212;--color-background: var(--color-base-background);--color-foreground: var(--color-base-foreground);--color-headings: var(--color-base-headings);--color-modal-active: rgb(var(--color-base-foreground) / 3%);--color-icon: var(--color-foreground);--color-rating-star-empty: var(--col"
+    },
+    {
+      "source": "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681",
+      "selector": ":root",
+      "declarations": "--media-badge-offset: .5rem"
+    },
+    {
+      "source": "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681",
+      "selector": ":root",
+      "declarations": "--container-padding-const: 4rem"
+    },
+    {
+      "source": "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681",
+      "selector": ":root",
+      "declarations": "--container-padding-const: 2rem"
+    },
+    {
+      "source": "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681",
+      "selector": ":root",
+      "declarations": "--container-padding-const: 1.25rem"
+    },
+    {
+      "source": "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681",
+      "selector": ":root",
+      "declarations": "--container-padding: var(--container-padding-const);--container-max-inner-width: var(--container-max-inner-width-const);--container-max-width: calc( var(--container-max-inner-width) + var(--container-padding) * 2 );--container-inner-width: min( 100vw - var(--container-padding) * 2 - var(--scrollbar-width), var(--container-max-inner-width) ) ;--container-outer-width: calc( 50vw - var(--container-inner-width) / 2 - var(--scrollbar-width) / 2 );--announcement-bar-font-size: var(--size-text-sm);--announcement-bar-height: 0px;--header-min-height: 6rem;--header-height-actual: var(--header-height);--header-height-sticky: 0px;--header-group-height: calc( var(--announcement-bar-height, 0px) + var(--h"
+    },
+    {
+      "source": "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681",
+      "selector": ":root",
+      "declarations": "--header-min-height: 5rem"
+    },
+    {
+      "source": "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681",
+      "selector": ":root",
+      "declarations": "--header-min-height: 4rem"
+    },
+    {
+      "source": "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681",
+      "selector": ":root",
+      "declarations": "--size-h5: 1.125rem;--size-h6: 1rem"
+    },
+    {
+      "source": "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681",
+      "selector": ":root",
+      "declarations": "--range-track-color: rgb(var(--gray-100));--range-track-height: .375rem;--range-thumb-color: rgb(var(--color-range-slider));--range-thumb-size: 1rem;--button-background: var(--button-primary-background);--button-background-hover: var(--button-primary-background-hover);--button-background-active: var(--button-primary-background-active);--button-foreground: var(--button-primary-foreground);--viewport-height: 100vh;--header-height: 6rem;--announcement-bar-height: 0px;--promotion-bar-height: 0px"
+    },
+    {
+      "source": "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681",
+      "selector": ":root",
+      "declarations": "--header-height: 4rem"
+    },
+    {
+      "source": "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681",
+      "selector": ":root",
+      "declarations": "--viewport-height: 100svh"
+    },
+    {
+      "source": "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681",
+      "selector": "body",
+      "declarations": "margin:0;overflow-y:scroll;min-height:100vh;min-height:-webkit-fill-available;min-height:-moz-available;min-height:stretch;min-height:100svh;background-color:rgb(var(--color-background));color:rgb(var(--color-foreground));display:flex;flex-direction:column"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Zee.Dog | Connecting Dogs and People",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.zeedog.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.zeedog.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.zeedog.com/",
+        "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681",
+        "https://cdn.shopify.com/extensions/01a0b920-6b1d-796e-8cb1-48d2f7a30b41/linked-options-407/assets/product.min.css"
+      ]
+    },
+    "colors.ink-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0b920-6b1d-796e-8cb1-48d2f7a30b41/linked-options-407/assets/product.min.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.zeedog.com/",
+        "https://www.zeedog.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681",
+        "https://cdn.shopify.com/extensions/01a0b920-6b1d-796e-8cb1-48d2f7a30b41/linked-options-407/assets/product.min.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0b920-6b1d-796e-8cb1-48d2f7a30b41/linked-options-407/assets/product.min.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.zeedog.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.zeedog.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0b920-6b1d-796e-8cb1-48d2f7a30b41/linked-options-407/assets/product.min.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.zeedog.com/",
+        "https://www.zeedog.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681",
+        "https://cdn.shopify.com/extensions/01a0b920-6b1d-796e-8cb1-48d2f7a30b41/linked-options-407/assets/product.min.css"
+      ]
+    },
+    "colors.border": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+      ]
+    },
+    "colors.disabled-surface": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.zeedog.com/cdn/shop/t/1176/assets/main.css?v=55126875611731852901789598681"
+      ]
+    },
+    "colors.focus-ring": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0b920-6b1d-796e-8cb1-48d2f7a30b41/linked-options-407/assets/product.min.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.product-variant-swatch": {
+      "status": "inferred"
+    }
+  }
+}

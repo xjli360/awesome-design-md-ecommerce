@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Garden Light LED
-description: |
+name: "Garden Light LED"
+source_url: "https://gardenlightled.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The spec-grade navy (#06386b) that anchors Garden Light LED's header reads like a municipal infrastructure catalog before it reads like a shopping site — a deliberate posture for a brand whose primary audience is landscape architects, electrical contractors, and commercial installers who need photometric data first and buy buttons second. DM Serif Display carries all headlines with architectural weight: unhurried, low-contrast strokes that evoke the editorial language of lighting specification journals rather than the urgent CTAs of consumer retail. Lato handles everything operational — navigation, filter labels, spec metadata — in a clean sans that transmits technical precision without becoming cold.
 
   Color hierarchy is spare and credibility-forward. The deep navy (#06386b) owns headers, primary buttons, and section anchors; a steel teal (#247390) handles secondary interactive elements, hover states, and expandable filter panels. A hard red (#b80e02) appears as a promotional callout or stock-alert signal, used with restraint — it reads closer to an engineering warning flag than a sales badge. The canvas alternates between a warm cream (#f9f5f2) and a near-white (#f7f7f7), giving product photography room to breathe without the clinical flatness of a pure white grid. Supporting grays from near-black (#232325) through mid-tone (#93919b) to soft blue-gray (#abb8c3) carry the full range of text hierarchy, borders, and disabled states. Amber tones (#e09004, #b97600) surface in warm-CCT callouts and photometric spec annotations but are not structural UI color.
@@ -399,6 +402,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom web font files confirmed; DM Serif Display and Lato are inferred from font-family stacks but may be loaded via Google Fonts — specific weights and FOUT behavior are unverified
 - Exact nav height for mobile drawer and animation behavior (slide vs. fade) could not be extracted from static hints

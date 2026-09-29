@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Sharpie
-description: |
+name: "Sharpie"
+source_url: "https://www.sharpie.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The permanent marker leaves no room for revision — Sharpie's entire visual identity is built on that indelible, high-contrast logic. The extracted site palette anchors on #313131, a near-black that directly references the iconic black barrel and cap of the Classic Permanent Marker, while the brand's widely-documented red cuts through as the single high-voltage primary across every CTA, badge, and promotional accent. Type runs on system sans-serif stacks — clean, functional, built for a product site that moves through marker families quickly rather than lingering on typographic ornament. The nav deploys bold-weight links at modest sizes, prioritizing category scanability over editorial weight. Product cards are flat and square-cornered, reflecting the rectangular marker body; color swatches rendered as true circles (`{rounded.full}`) become the primary navigation instrument, letting shoppers browse by ink color rather than product name. A 3px red underline rule (`{colors.primary}`) beneath section headers performs the brand's core gesture — the marker stroke — without resorting to illustration. The highlighter yellow applied to "NEW" badges directly echoes Sharpie Accent product ink, creating a product-to-UI color echo that functions as both decoration and brand recall. The footer reverses to full `{colors.ink}` black with white-out text, mirroring the white-cap-on-black-barrel product aesthetic that has defined Sharpie packaging for decades. Spacing is utilitarian — `{spacing.lg}` gutters, `{spacing.section}` breaks — ensuring the color grid reads as a dense, browsable catalog without sprawling. No border-radius softens the buttons or section edges; the hard corner is a deliberate product-language decision, not an oversight.
 
 colors:
@@ -464,6 +467,8 @@ Hover adds a `4px/16px/0.10` box-shadow without scale or lift transform — the 
 - Hero text: headline remains at `{typography.display-lg}` (36px) on mobile; subhead hidden below 744px to reduce vertical footprint
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one hex color extracted (#313131): the site was blocked by Cloudflare anti-bot protection ("Just a moment..." page title), preventing full palette extraction
 - Sharpie brand red (#E31837) sourced from widely-documented product packaging and brand guidelines, not extracted from the live site — verify against the actual site stylesheet before finalizing

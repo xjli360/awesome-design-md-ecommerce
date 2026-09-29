@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Chicago Brick Oven
-description: |
+name: "Chicago Brick Oven"
+source_url: "https://chicagobrickoven.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Burnt copper (#933c06) radiates from every call-to-action like the glow inside a 900°F dome — it is the single chromatic commitment that separates this site from the sea of slate-gray appliance catalogues. The canvas itself runs warm: not a clinical white but a faintly creamy #fcf9f8 that reads like kiln-dried parchment, letting product photography of charred crusts and flame-licked interiors do the atmospheric work. Typography leans industrial-utilitarian — a geometric sans in medium weights for headlines, stepping down to regular 400 for body copy at 16px, never calling attention to itself because the hardware imagery carries the authority. Navigation and product grids sit on a dark charcoal bar (#121212) that frames the warm canvas like cast-iron framing a hearthstone. Corners stay mostly squared or barely softened (`{rounded.xs}` to `{rounded.sm}`), reinforcing the masonry metaphor — these are objects built from refractory cement and steel, not lifestyle accessories that need pillow-soft radii. A secondary forest green (#2d7a2f) marks availability badges and success states, while a frank alarm red (#d20000) handles out-of-stock and error messaging without ambiguity. Spacing is generous vertically (`{spacing.section}` between feature blocks) but tighter horizontally in product grids, mimicking the dense, purposeful layout of a workshop catalog. Button heights land at 48–52px with firm padding, inviting confident clicks from users who are about to spend $2,000–$8,000 on a single cooking appliance. The overall impression is a well-lit showroom floor — clean sightlines, warm ambient light, heavy objects displayed with breathing room.
 
 colors:
@@ -434,6 +437,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Font family unresolved**: extraction returned only icon-font references (`lffonticon`) and no body/display font stacks. The site likely loads fonts via JavaScript or a deferred stylesheet. Typography tokens use Inter as a reasonable geometric-sans placeholder — verify against the live site's computed styles.
 - **Exact border-radius values**: the site may use 0px (fully squared) corners on buttons rather than 4px; extracted data did not include computed border-radius. Inspect live CTAs to confirm.

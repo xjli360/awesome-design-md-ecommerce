@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Thames & Kosmos
-description: Four accent colors — orange (#f89406), red (#bd362f), grass-green (#51a351), and teal (#2f96b4) — organize the Thames & Kosmos catalog the way a periodic table indexes elements: each hue maps to a subject family or age band, working as a functional taxonomy rather than emotional decoration. The sky-blue primary (#2bbaf4) that runs headers and CTAs sits conspicuously lighter than the deep institutional navy most STEM education brands default to, reading closer to a lit indicator lamp than a corporate identity color — energetic without tipping into toy-store primary. Deep navy (#0044cc, #002a80) is not the hero here; it anchors the navigation bar and footer as a dark frame that makes the bright accent spectrum read cleanly against the near-white canvas (#fbfbfb).
+name: "Thames & Kosmos"
+source_url: "https://www.thamesandkosmos.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Four accent colors — orange (#f89406), red (#bd362f), grass-green (#51a351), and teal (#2f96b4) — organize the Thames & Kosmos catalog the way a periodic table indexes elements: each hue maps to a subject family or age band, working as a functional taxonomy rather than emotional decoration. The sky-blue primary (#2bbaf4) that runs headers and CTAs sits conspicuously lighter than the deep institutional navy most STEM education brands default to, reading closer to a lit indicator lamp than a corporate identity color — energetic without tipping into toy-store primary. Deep navy (#0044cc, #002a80) is not the hero here; it anchors the navigation bar and footer as a dark frame that makes the bright accent spectrum read cleanly against the near-white canvas (#fbfbfb).
 
   Thames & Kosmos makes no investment in custom typefaces — the entire interface runs on Arial, Helvetica, sans-serif, an unusually utilitarian commitment for a brand whose kit packaging overflows with illustrated characters and colorful diagrams. The restraint is purposeful: box photography and illustrated catalog art carry visual personality, while the type layer stays flat and scannable for a parent comparing reading-level suitability across a dozen products. Display headlines step through 700-weight Arial at 28–36px; titles hold at 600-weight at 16–20px; body copy reads at 16px weight 400. Nothing in the type system asks for attention — it organizes.
 
@@ -321,6 +325,8 @@ components:
 - Footer four-column grid stacks to single column on mobile; newsletter form anchors at the bottom of the stacked layout
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom typeface detected — the full site runs on Arial, Helvetica, sans-serif; brand kit packaging likely uses a licensed or proprietary display face not surfaced via stylesheet
 - Meta theme-color is absent; mobile status-bar color cannot be confirmed (navy-deep #002a80 is inferred from nav background observation)

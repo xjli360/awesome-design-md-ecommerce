@@ -1,0 +1,846 @@
+{
+  "source_url": "https://kickeepants.com",
+  "final_url": "https://www.kickeepants.com/",
+  "captured_at": "2026-09-29T04:12:33.786094+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://kickeepants.com",
+      "final_url": "https://www.kickeepants.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "28324991e47d91189a0b31c87eff3e3cebd7c10aabab72f99d04491e0b88e479",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.kickeepants.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.kickeepants.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.kickeepants.com/cdn/shop/t/81/assets/global-icon.css?v=84739407017625084311745506176",
+      "final_url": "https://www.kickeepants.com/cdn/shop/t/81/assets/global-icon.css?v=84739407017625084311745506176",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9af1e4b8101749d5967df17054718bf816e7ed73865a7bb09d7a9a7450291ed3",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564",
+      "final_url": "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "26a5b97a7e86ac789af03864c0d2c98ef4bbae4b4002ad9de2c7e12409d07fba",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.kickeepants.com/cdn/shop/t/81/assets/swiper-bundle.min.css?v=149300622719532886471745506177",
+      "final_url": "https://www.kickeepants.com/cdn/shop/t/81/assets/swiper-bundle.min.css?v=149300622719532886471745506177",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "acfa32ea2c9df044821bf9f995ddd12b4731a74cb5e72ef2b9e2ec856dd63b1c",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.kickeepants.com/cdn/shop/t/81/assets/component-modal.css?v=42891326581367853861745506175",
+      "final_url": "https://www.kickeepants.com/cdn/shop/t/81/assets/component-modal.css?v=42891326581367853861745506175",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5b31fe03c02df8d32f485d6c6a8f74e6c6b64d8ba8a33e334986fe37282c6dc8",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#686868": {
+      "count": 53,
+      "sources": [
+        "https://www.kickeepants.com/",
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "#ffffff": {
+      "count": 48,
+      "sources": [
+        "https://www.kickeepants.com/",
+        "https://www.kickeepants.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564",
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/swiper-bundle.min.css?v=149300622719532886471745506177",
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/component-modal.css?v=42891326581367853861745506175"
+      ]
+    },
+    "#333333": {
+      "count": 27,
+      "sources": [
+        "https://www.kickeepants.com/",
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "#000000": {
+      "count": 17,
+      "sources": [
+        "https://www.kickeepants.com/",
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564",
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/swiper-bundle.min.css?v=149300622719532886471745506177",
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/component-modal.css?v=42891326581367853861745506175"
+      ]
+    },
+    "#58595b": {
+      "count": 10,
+      "sources": [
+        "https://www.kickeepants.com/"
+      ]
+    },
+    "#005eac": {
+      "count": 9,
+      "sources": [
+        "https://www.kickeepants.com/",
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "#cccccc": {
+      "count": 6,
+      "sources": [
+        "https://www.kickeepants.com/"
+      ]
+    },
+    "#d5e041": {
+      "count": 5,
+      "sources": [
+        "https://www.kickeepants.com/",
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 5,
+      "sources": [
+        "https://www.kickeepants.com/",
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564",
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/component-modal.css?v=42891326581367853861745506175"
+      ]
+    },
+    "#74cee2": {
+      "count": 4,
+      "sources": [
+        "https://www.kickeepants.com/"
+      ]
+    },
+    "#bcbcbc": {
+      "count": 4,
+      "sources": [
+        "https://www.kickeepants.com/"
+      ]
+    },
+    "#ebebeb": {
+      "count": 4,
+      "sources": [
+        "https://www.kickeepants.com/",
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "#222222": {
+      "count": 3,
+      "sources": [
+        "https://www.kickeepants.com/"
+      ]
+    },
+    "#00000008": {
+      "count": 3,
+      "sources": [
+        "https://www.kickeepants.com/",
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "#dedede": {
+      "count": 3,
+      "sources": [
+        "https://www.kickeepants.com/",
+        "https://www.kickeepants.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#005daa": {
+      "count": 3,
+      "sources": [
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global-icon.css?v=84739407017625084311745506176",
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "#198754": {
+      "count": 2,
+      "sources": [
+        "https://www.kickeepants.com/"
+      ]
+    },
+    "#dc3545": {
+      "count": 2,
+      "sources": [
+        "https://www.kickeepants.com/"
+      ]
+    },
+    "#0000007f": {
+      "count": 2,
+      "sources": [
+        "https://www.kickeepants.com/",
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 2,
+      "sources": [
+        "https://www.kickeepants.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 2,
+      "sources": [
+        "https://www.kickeepants.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.kickeepants.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#adadad": {
+      "count": 2,
+      "sources": [
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "#dcf4f8": {
+      "count": 2,
+      "sources": [
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "#bce8f1": {
+      "count": 2,
+      "sources": [
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "#defbde": {
+      "count": 2,
+      "sources": [
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "#8de28d": {
+      "count": 2,
+      "sources": [
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "#3c763d": {
+      "count": 2,
+      "sources": [
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "#ffe4e1": {
+      "count": 2,
+      "sources": [
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "#ffa89f": {
+      "count": 2,
+      "sources": [
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "#a94442": {
+      "count": 2,
+      "sources": [
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "#2a6496": {
+      "count": 2,
+      "sources": [
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 2,
+      "sources": [
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "#fffffff0": {
+      "count": 1,
+      "sources": [
+        "https://www.kickeepants.com/"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 1,
+      "sources": [
+        "https://www.kickeepants.com/"
+      ]
+    },
+    "#bcc8b8": {
+      "count": 1,
+      "sources": [
+        "https://www.kickeepants.com/"
+      ]
+    },
+    "#e0bfbe": {
+      "count": 1,
+      "sources": [
+        "https://www.kickeepants.com/"
+      ]
+    },
+    "#111111": {
+      "count": 1,
+      "sources": [
+        "https://www.kickeepants.com/"
+      ]
+    },
+    "#d6e7e5": {
+      "count": 1,
+      "sources": [
+        "https://www.kickeepants.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.kickeepants.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.kickeepants.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.kickeepants.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#e9ecef": {
+      "count": 1,
+      "sources": [
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "#212529": {
+      "count": 1,
+      "sources": [
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "#1a1a1a26": {
+      "count": 1,
+      "sources": [
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "#c7c7c7": {
+      "count": 1,
+      "sources": [
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "#252525": {
+      "count": 1,
+      "sources": [
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 1,
+      "sources": [
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "#fff6e1": {
+      "count": 1,
+      "sources": [
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "#ffe19f": {
+      "count": 1,
+      "sources": [
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "#8a6d3b": {
+      "count": 1,
+      "sources": [
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "#333333e8": {
+      "count": 1,
+      "sources": [
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "#dddddd": {
+      "count": 1,
+      "sources": [
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "#6c757d": {
+      "count": 1,
+      "sources": [
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "#7f7f7f": {
+      "count": 1,
+      "sources": [
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/swiper-bundle.min.css?v=149300622719532886471745506177"
+      ]
+    },
+    "#dee2e6": {
+      "count": 1,
+      "sources": [
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/component-modal.css?v=42891326581367853861745506175"
+      ]
+    }
+  },
+  "font_families": {
+    "Nunito Sans": [
+      "https://www.kickeepants.com/"
+    ],
+    "Open Sans": [
+      "https://www.kickeepants.com/"
+    ],
+    "icon-fluid": [
+      "https://www.kickeepants.com/"
+    ],
+    "icon-fluid!important": [
+      "https://www.kickeepants.com/",
+      "https://www.kickeepants.com/cdn/shop/t/81/assets/global-icon.css?v=84739407017625084311745506176"
+    ],
+    "kickee": [
+      "https://www.kickeepants.com/"
+    ],
+    "kickee!important": [
+      "https://www.kickeepants.com/",
+      "https://www.kickeepants.com/cdn/shop/t/81/assets/global-icon.css?v=84739407017625084311745506176"
+    ],
+    "sans-serif": [
+      "https://www.kickeepants.com/"
+    ],
+    "swiper-icons": [
+      "https://www.kickeepants.com/",
+      "https://www.kickeepants.com/cdn/shop/t/81/assets/swiper-bundle.min.css?v=149300622719532886471745506177"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.kickeepants.com/",
+      "selector": "body",
+      "declarations": "margin: 0;\n        font-family: var(--bs-font-family-base);\n        font-size: var(--bs-font-size-base);\n        font-weight: var(--bs-font-weight-base);\n        line-height: var(--bs-line-height-base);\n        font-style: var(--bs-base-font-style);\n        color: var(--bs-body-color);\n        background-color: var(--bs-body-bg);\n        letter-spacing:var(--bs-letter-spacing-base);"
+    },
+    {
+      "source": "https://www.kickeepants.com/",
+      "selector": ".h1,.h3,h1,h2,h3,h4",
+      "declarations": "margin-top:0;margin-bottom:.5rem;font-family:var(--bs-font-family-heading);font-style:var(--bs-heading-style)"
+    },
+    {
+      "source": "https://www.kickeepants.com/",
+      "selector": "body",
+      "declarations": "margin:0;font-family:var(--bs-font-family-base);font-size:var(--bs-font-size-base);font-weight:var(--bs-font-weight-base);line-height:var(--bs-line-height-base);font-style:var(--bs-base-font-style);color:var(--bs-body-color);background-color:var(--bs-body-bg);letter-spacing:var(--bs-letter-spacing-base)"
+    },
+    {
+      "source": "https://www.kickeepants.com/",
+      "selector": ":root",
+      "declarations": "--duration-short:.1s;--duration-default:.2s;--duration-long:.5s"
+    },
+    {
+      "source": "https://www.kickeepants.com/",
+      "selector": ".h1,.h3,h1,h2,h4",
+      "declarations": "margin-top:0;margin-bottom:.5rem;font-family:var(--bs-font-family-heading);font-style:var(--bs-heading-style)"
+    },
+    {
+      "source": "https://www.kickeepants.com/",
+      "selector": ".h1,h1",
+      "declarations": "font-size:var(--bs-h1-font-size-sm);line-height:var(--bs-h1-line-height);color:var(--bs-color-black);font-weight:600"
+    },
+    {
+      "source": "https://www.kickeepants.com/",
+      "selector": "button,input",
+      "declarations": "margin:0;font-family:inherit;font-size:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://www.kickeepants.com/",
+      "selector": ".btn",
+      "declarations": "display:inline-block;text-transform:uppercase;font-family:var(--bs-font-family-button);font-weight:var(--bs-font-weight-button);font-size:var(--bs-font-size-button);line-height:var(--bs-line-height-button);border:var(--bs-border-width-button) solid transparent;padding:var(--bs-y-padding-button) var(--bs-x-padding-button);border-radius:var(--bs-border-radius-button);letter-spacing:var(--bs-letter-spacing);color:var(--bs-body-color);text-align:center;text-decoration:none;vertical-align:middle;background-color:transparent"
+    },
+    {
+      "source": "https://www.kickeepants.com/",
+      "selector": ".btn-link",
+      "declarations": "text-transform:uppercase;font-size:var(--bs-font-size-lg);color:var(--bs-body-color);border-bottom:1px solid;border-color:var(--bs-body-color);display:inline-block"
+    },
+    {
+      "source": "https://www.kickeepants.com/",
+      "selector": ".modal-addToCart .modal-dialog .modal-head button",
+      "declarations": "line-height:10.5714px;font-size:21px;color:#000;text-shadow:0 1px 0 #fff;opacity:.3;float:right;padding:4px!important;background:0 0;border:0;-webkit-appearance:none;margin-top:-2px"
+    },
+    {
+      "source": "https://www.kickeepants.com/",
+      "selector": ":root",
+      "declarations": "--swiper-navigation-size:44px"
+    },
+    {
+      "source": "https://www.kickeepants.com/",
+      "selector": ".swiper-button-next,.swiper-button-prev",
+      "declarations": "position:absolute;top:50%;width:35px;height:35px;transform:translateY(-50%);z-index:10;display:flex!important;align-items:center;justify-content:center;color:var(--bs-body-color)"
+    },
+    {
+      "source": "https://www.kickeepants.com/",
+      "selector": ".swiper-button-next:after,.swiper-button-prev:after",
+      "declarations": "font-family:swiper-icons;font-size:var(--swiper-navigation-size);text-transform:none!important;letter-spacing:0;text-transform:none;font-variant:initial;line-height:1"
+    },
+    {
+      "source": "https://www.kickeepants.com/",
+      "selector": ":root",
+      "declarations": "--bs-border-radius-button: 6px;\n    --bs-border-radius-input: 6px;"
+    },
+    {
+      "source": "https://www.kickeepants.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.kickeepants.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.kickeepants.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.kickeepants.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.kickeepants.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.kickeepants.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564",
+      "selector": ":root",
+      "declarations": "--duration-short: .1s;--duration-default: .2s;--duration-long: .5s"
+    },
+    {
+      "source": "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564",
+      "selector": "h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6,.giftreggie-header h3,.giftreggie-registry-password h2",
+      "declarations": "margin-top:0;margin-bottom:.5rem;font-family:var(--bs-font-family-heading);font-style:var(--bs-heading-style)"
+    },
+    {
+      "source": "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564",
+      "selector": "h1,.h1,.giftreggie-header h3,.giftreggie-registry-password h2",
+      "declarations": "font-size:var(--bs-h1-font-size-sm);line-height:var(--bs-h1-line-height);color:var(--bs-color-black);font-weight:600"
+    },
+    {
+      "source": "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564",
+      "selector": "input,button,select,optgroup,textarea",
+      "declarations": "margin:0;font-family:inherit;font-size:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564",
+      "selector": "ie-body input[type=submit],.giftreggie-create-buttons input[type=button],.giftreggie-create-buttons input[type=submit],.giftreggie-registry button,.giftreggie-f",
+      "declarations": "display:inline-block;text-transform:uppercase;font-family:var(--bs-font-family-button);font-weight:var(--bs-font-weight-button);font-size:var(--bs-font-size-button);line-height:var(--bs-line-height-button);border:var(--bs-border-width-button) solid transparent;padding:var(--bs-y-padding-button) var(--bs-x-padding-button);border-radius:var(--bs-border-radius-button);letter-spacing:var(--bs-letter-spacing);color:var(--bs-body-color);text-align:center;text-decoration:none;vertical-align:middle;cursor:pointer;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;background-color:transparent;-webkit-transition:color .15s ease-in-out,background-color .15s ease-in-out"
+    },
+    {
+      "source": "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564",
+      "selector": "ry-password button,.giftreggie-create-buttons input[type=button],.giftreggie-body input[type=submit],.giftreggie-create-buttons input[type=submit],.giftreggie-f",
+      "declarations": "color:var(--bs-txt-color-btn-primary)!important;background-color:var(--bs-bg-color-btn-primary);border-color:var(--bs-bg-color-btn-primary)"
+    },
+    {
+      "source": "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564",
+      "selector": "reggie-create-buttons input[type=button]:hover,.giftreggie-body input[type=submit]:hover,.giftreggie-create-buttons input[type=submit]:hover,.giftreggie-front.g",
+      "declarations": "color:#fff!important;background-color:var(--bs-bg-hover-color-btn-primary);border-color:var(--bs-bg-hover-color-btn-primary)"
+    },
+    {
+      "source": "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564",
+      "selector": ".btn-outline-primary,.btn-outline-primary:hover",
+      "declarations": "color:var(--bs-bg-color-btn-primary);background-color:transparent;border-color:var(--bs-bg-color-btn-primary)"
+    },
+    {
+      "source": "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564",
+      "selector": ".btn-secondary",
+      "declarations": "color:var(--bs-txt-color-btn-secondary);background-color:var(--bs-bg-color-btn-secondary);border-color:var(--bs-bg-color-btn-secondary)"
+    },
+    {
+      "source": "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564",
+      "selector": ".btn-secondary:hover",
+      "declarations": "color:var(--bs-txt-color-btn-secondary-hover);background-color:var(--bs-bg-hover-color-btn-secondary);border-color:var(--bs-bg-hover-color-btn-secondary)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "KicKee | Buttery soft clothing for the whole family",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kickeepants.com/",
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kickeepants.com/",
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564",
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/swiper-bundle.min.css?v=149300622719532886471745506177",
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/component-modal.css?v=42891326581367853861745506175"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kickeepants.com/",
+        "https://www.kickeepants.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564",
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/swiper-bundle.min.css?v=149300622719532886471745506177",
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/component-modal.css?v=42891326581367853861745506175"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kickeepants.com/",
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kickeepants.com/",
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kickeepants.com/",
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564",
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/component-modal.css?v=42891326581367853861745506175"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kickeepants.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kickeepants.com/",
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kickeepants.com/",
+        "https://www.kickeepants.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564",
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/swiper-bundle.min.css?v=149300622719532886471745506177",
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/component-modal.css?v=42891326581367853861745506175"
+      ]
+    },
+    "colors.accent-sky": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kickeepants.com/"
+      ]
+    },
+    "colors.accent-lime": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kickeepants.com/",
+        "https://www.kickeepants.com/cdn/shop/t/81/assets/global.css?v=141912418527972616861790364564"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kickeepants.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.info-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kickeepants.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kickeepants.com/"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kickeepants.com/"
+      ]
+    },
+    "colors.border-input": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kickeepants.com/"
+      ]
+    },
+    "colors.disabled": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kickeepants.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.size-selector": {
+      "status": "inferred"
+    }
+  }
+}

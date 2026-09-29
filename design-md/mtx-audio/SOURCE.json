@@ -1,0 +1,886 @@
+{
+  "source_url": "https://mtx.com",
+  "final_url": "https://www.mtx.com/",
+  "captured_at": "2026-09-28T10:02:30.043330+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://mtx.com",
+      "final_url": "https://www.mtx.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "05d59dd3e5f4efe2d45ebae7d9bbb7dda6a10e2ad6955c405d43ab83e8ae5a83",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css",
+      "final_url": "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a7ac54f58ba507b13621ceb6fcf5fe879f5ac9bdcf049d16153110c6ad048c7c",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.min.css",
+      "final_url": "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0e8133144389b9b0b420a514a64c8f4e75163923d09d19928d738f3e61bd6199",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/fonts/font-awesome/css/font-awesome.min.css",
+      "final_url": "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/fonts/font-awesome/css/font-awesome.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "19ab056df61bdfc80d7e9c0d62db5186861f0b1417b6f6a2707fb387d044f65c",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Raleway:500,800",
+      "final_url": "https://fonts.googleapis.com/css?family=Raleway:500,800",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "5abb720cf1ecbb4e3a71e53ff9ba547b14deebd2d47ab79e00a9b0b46626005d",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css",
+      "final_url": "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "dd4e7fbdbb0d2be34a7eefb3ed1ece71876f77098f95ac2c2d1412576de5bd68",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 384,
+      "sources": [
+        "https://www.mtx.com/",
+        "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css",
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/fonts/font-awesome/css/font-awesome.min.css",
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#000000": {
+      "count": 152,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#333333": {
+      "count": 61,
+      "sources": [
+        "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css",
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#777777": {
+      "count": 38,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#999999": {
+      "count": 22,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#ffd658": {
+      "count": 20,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#222222": {
+      "count": 20,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#292e31": {
+      "count": 19,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#0084b4": {
+      "count": 17,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 15,
+      "sources": [
+        "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css",
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#555555": {
+      "count": 15,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#666666": {
+      "count": 14,
+      "sources": [
+        "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css",
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#e1e1e1": {
+      "count": 14,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#0096ff": {
+      "count": 14,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 13,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#888888": {
+      "count": 10,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#6f7c82": {
+      "count": 6,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 5,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/fonts/font-awesome/css/font-awesome.min.css",
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#009aee": {
+      "count": 5,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#cdb083": {
+      "count": 5,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#8bc027": {
+      "count": 5,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#a8d8ee": {
+      "count": 4,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#00a8ff": {
+      "count": 4,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#00ffffff": {
+      "count": 4,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#fecf72": {
+      "count": 4,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#f3a847": {
+      "count": 4,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#454545": {
+      "count": 3,
+      "sources": [
+        "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css",
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#5f3f3f": {
+      "count": 3,
+      "sources": [
+        "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css"
+      ]
+    },
+    "#34495e": {
+      "count": 3,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#e33a0c": {
+      "count": 3,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#f39c12": {
+      "count": 3,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 3,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#111111": {
+      "count": 3,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#d50000": {
+      "count": 3,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 2,
+      "sources": [
+        "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css"
+      ]
+    },
+    "#c5c5c5": {
+      "count": 2,
+      "sources": [
+        "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 2,
+      "sources": [
+        "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css"
+      ]
+    },
+    "#2b2b2b": {
+      "count": 2,
+      "sources": [
+        "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css"
+      ]
+    },
+    "#003eff": {
+      "count": 2,
+      "sources": [
+        "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css"
+      ]
+    },
+    "#dad55e": {
+      "count": 2,
+      "sources": [
+        "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css"
+      ]
+    },
+    "#fffa90": {
+      "count": 2,
+      "sources": [
+        "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css"
+      ]
+    },
+    "#777620": {
+      "count": 2,
+      "sources": [
+        "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css"
+      ]
+    },
+    "#7f8c8d": {
+      "count": 2,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#89124e": {
+      "count": 2,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#f87c09": {
+      "count": 2,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#6db19b": {
+      "count": 2,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#363636": {
+      "count": 2,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#e74c3c": {
+      "count": 2,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#c0392b": {
+      "count": 2,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#e6cfa3": {
+      "count": 2,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 2,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#72a800": {
+      "count": 2,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#8899a6": {
+      "count": 2,
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "#ed1b2e": {
+      "count": 1,
+      "sources": [
+        "https://www.mtx.com/"
+      ]
+    },
+    "#ec1b2d": {
+      "count": 1,
+      "sources": [
+        "https://www.mtx.com/"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 1,
+      "sources": [
+        "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 1,
+      "sources": [
+        "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css"
+      ]
+    },
+    "#ededed": {
+      "count": 1,
+      "sources": [
+        "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css"
+      ]
+    },
+    "#007fff": {
+      "count": 1,
+      "sources": [
+        "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css"
+      ]
+    },
+    "#f1a899": {
+      "count": 1,
+      "sources": [
+        "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css",
+      "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+    ],
+    "BenchNine": [
+      "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+    ],
+    "FontAwesome": [
+      "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/fonts/font-awesome/css/font-awesome.min.css"
+    ],
+    "Georgia": [
+      "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+    ],
+    "Helvetica": [
+      "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css",
+      "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+    ],
+    "Helvetica Neue": [
+      "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+    ],
+    "Lato": [
+      "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+    ],
+    "Nothing you could do": [
+      "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+    ],
+    "Open Sans": [
+      "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+    ],
+    "Oswald": [
+      "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+    ],
+    "Pe-icon-7-stroke": [
+      "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.min.css"
+    ],
+    "Permanent Marker": [
+      "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+    ],
+    "Playfair Display": [
+      "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+    ],
+    "Raleway": [
+      "https://fonts.googleapis.com/css?family=Raleway:500,800",
+      "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+    ],
+    "Roboto": [
+      "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+    ],
+    "Roboto Condensed": [
+      "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+    ],
+    "Roboto Slab": [
+      "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+    ],
+    "Source Sans Pro": [
+      "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+    ],
+    "arial": [
+      "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+    ],
+    "lato": [
+      "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+    ],
+    "proxima-nova": [
+      "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+    ],
+    "raleway": [
+      "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+    ],
+    "revicons": [
+      "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+    ],
+    "roboto": [
+      "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+    ],
+    "sans-serif": [
+      "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css",
+      "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+    ],
+    "serif": [
+      "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+    ],
+    "star": [
+      "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css",
+      "selector": ".ui-widget input,\n.ui-widget select,\n.ui-widget textarea,\n.ui-widget button",
+      "declarations": "font-family: Arial,Helvetica,sans-serif;\n\tfont-size: 1em;"
+    },
+    {
+      "source": "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css",
+      "selector": ".ui-widget-header",
+      "declarations": "border: 1px solid #dddddd;\n\tbackground: #e9e9e9;\n\tcolor: #333333;\n\tfont-weight: bold;"
+    },
+    {
+      "source": "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css",
+      "selector": ".ui-widget-header a",
+      "declarations": "color: #333333;"
+    },
+    {
+      "source": "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css",
+      "selector": ".ui-state-default,\n.ui-widget-content .ui-state-default,\n.ui-widget-header .ui-state-default,\n.ui-button,\n\n\nhtml .ui-button.ui-state-disabled:hover,\nhtml .ui-bu",
+      "declarations": "border: 1px solid #c5c5c5;\n\tbackground: #f6f6f6;\n\tfont-weight: normal;\n\tcolor: #454545;"
+    },
+    {
+      "source": "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css",
+      "selector": ".ui-state-default a,\n.ui-state-default a:link,\n.ui-state-default a:visited,\na.ui-button,\na:link.ui-button,\na:visited.ui-button,\n.ui-button",
+      "declarations": "color: #454545;\n\ttext-decoration: none;"
+    },
+    {
+      "source": "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css",
+      "selector": "over,\n.ui-widget-content .ui-state-hover,\n.ui-widget-header .ui-state-hover,\n.ui-state-focus,\n.ui-widget-content .ui-state-focus,\n.ui-widget-header .ui-state-fo",
+      "declarations": "border: 1px solid #cccccc;\n\tbackground: #ededed;\n\tfont-weight: normal;\n\tcolor: #2b2b2b;"
+    },
+    {
+      "source": "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css",
+      "selector": "e-hover a:hover,\n.ui-state-hover a:link,\n.ui-state-hover a:visited,\n.ui-state-focus a,\n.ui-state-focus a:hover,\n.ui-state-focus a:link,\n.ui-state-focus a:visite",
+      "declarations": "color: #2b2b2b;\n\ttext-decoration: none;"
+    },
+    {
+      "source": "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css",
+      "selector": ".ui-state-active,\n.ui-widget-content .ui-state-active,\n.ui-widget-header .ui-state-active,\na.ui-button:active,\n.ui-button:active,\n.ui-button.ui-state-active:hov",
+      "declarations": "border: 1px solid #003eff;\n\tbackground: #007fff;\n\tfont-weight: normal;\n\tcolor: #ffffff;"
+    },
+    {
+      "source": "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css",
+      "selector": ".ui-state-highlight,\n.ui-widget-content .ui-state-highlight,\n.ui-widget-header .ui-state-highlight",
+      "declarations": "border: 1px solid #dad55e;\n\tbackground: #fffa90;\n\tcolor: #777620;"
+    },
+    {
+      "source": "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css",
+      "selector": ".ui-state-highlight a,\n.ui-widget-content .ui-state-highlight a,\n.ui-widget-header .ui-state-highlight a",
+      "declarations": "color: #777620;"
+    },
+    {
+      "source": "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css",
+      "selector": ".ui-state-error,\n.ui-widget-content .ui-state-error,\n.ui-widget-header .ui-state-error",
+      "declarations": "border: 1px solid #f1a899;\n\tbackground: #fddfdf;\n\tcolor: #5f3f3f;"
+    },
+    {
+      "source": "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css",
+      "selector": ".ui-state-error a,\n.ui-widget-content .ui-state-error a,\n.ui-widget-header .ui-state-error a",
+      "declarations": "color: #5f3f3f;"
+    },
+    {
+      "source": "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css",
+      "selector": ".ui-state-error-text,\n.ui-widget-content .ui-state-error-text,\n.ui-widget-header .ui-state-error-text",
+      "declarations": "color: #5f3f3f;"
+    },
+    {
+      "source": "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css",
+      "selector": ".tp-caption.WebProduct-Title,.WebProduct-Title",
+      "declarations": "background-color:transparent;border-color:transparent;border-radius:0 0 0 0;border-style:none;border-width:0;color:rgba(51,51,51,1);font-family:Raleway;font-size:90px;font-style:normal;font-weight:100;line-height:90px;padding:0;text-decoration:none"
+    },
+    {
+      "source": "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css",
+      "selector": ".tp-caption.WebProduct-SubTitle,.WebProduct-SubTitle",
+      "declarations": "background-color:transparent;border-color:transparent;border-radius:0 0 0 0;border-style:none;border-width:0;color:rgba(153,153,153,1);font-family:Raleway;font-size:15px;font-style:normal;font-weight:400;line-height:20px;padding:0;text-decoration:none"
+    },
+    {
+      "source": "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css",
+      "selector": ".tp-caption.WebProduct-Content,.WebProduct-Content",
+      "declarations": "background-color:transparent;border-color:transparent;border-radius:0 0 0 0;border-style:none;border-width:0;color:rgba(153,153,153,1);font-family:Raleway;font-size:16px;font-style:normal;font-weight:600;line-height:24px;padding:0;text-decoration:none"
+    },
+    {
+      "source": "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css",
+      "selector": ".tp-caption.WebProduct-Menuitem,.WebProduct-Menuitem",
+      "declarations": "background-color:rgba(51,51,51,1);border-color:transparent;border-radius:0 0 0 0;border-style:none;border-width:0;color:rgba(255,255,255,1);font-family:Raleway;font-size:15px;font-style:normal;font-weight:500;letter-spacing:2px;line-height:20px;padding:3px 5px 3px 8px;text-align:left;text-decoration:none"
+    },
+    {
+      "source": "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css",
+      "selector": ".tp-caption.WebProduct-Menuitem:hover,.WebProduct-Menuitem:hover",
+      "declarations": "background-color:rgba(255,255,255,1);border-color:transparent;border-radius:0 0 0 0;border-style:none;border-width:0;color:rgba(153,153,153,1);text-decoration:none"
+    },
+    {
+      "source": "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css",
+      "selector": ".tp-caption.WebProduct-Title-Light,.WebProduct-Title-Light",
+      "declarations": "background-color:transparent;border-color:transparent;border-radius:0 0 0 0;border-style:none;border-width:0;color:rgba(255,255,255,1);font-family:Raleway;font-size:90px;font-style:normal;font-weight:100;line-height:90px;padding:0;text-align:left;text-decoration:none"
+    },
+    {
+      "source": "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css",
+      "selector": ".tp-caption.WebProduct-SubTitle-Light,.WebProduct-SubTitle-Light",
+      "declarations": "background-color:transparent;border-color:transparent;border-radius:0 0 0 0;border-style:none;border-width:0;color:rgba(255,255,255,.35);font-family:Raleway;font-size:15px;font-style:normal;font-weight:400;line-height:20px;padding:0;text-align:left;text-decoration:none"
+    },
+    {
+      "source": "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css",
+      "selector": ".tp-caption.WebProduct-Content-Light,.WebProduct-Content-Light",
+      "declarations": "background-color:transparent;border-color:transparent;border-radius:0 0 0 0;border-style:none;border-width:0;color:rgba(255,255,255,.65);font-family:Raleway;font-size:16px;font-style:normal;font-weight:600;line-height:24px;padding:0;text-align:left;text-decoration:none"
+    },
+    {
+      "source": "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css",
+      "selector": ".tp-caption.Newspaper-Button,.Newspaper-Button",
+      "declarations": "background-color:rgba(255,255,255,0);border-color:rgba(255,255,255,.25);border-radius:0 0 0 0;border-style:solid;border-width:1px;color:rgba(255,255,255,1);font-family:Roboto;font-size:13px;font-style:normal;font-weight:700;letter-spacing:2px;line-height:17px;padding:12px 35px;text-align:left;text-decoration:none"
+    },
+    {
+      "source": "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css",
+      "selector": ".tp-caption.Newspaper-Button:hover,.Newspaper-Button:hover",
+      "declarations": "background-color:rgba(255,255,255,1);border-color:rgba(255,255,255,1);border-radius:0 0 0 0;border-style:solid;border-width:1px;color:rgba(0,0,0,1);text-decoration:none"
+    },
+    {
+      "source": "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css",
+      "selector": ".tp-caption.Hero-Button,.Hero-Button",
+      "declarations": "background-color:rgba(0,0,0,0);border-color:rgba(255,255,255,.5);border-radius:0 0 0 0;border-style:solid;border-width:1px;color:rgba(255,255,255,1);font-family:Raleway;font-size:14px;font-style:normal;font-weight:500;letter-spacing:3px;line-height:14px;padding:10px 30px;text-align:left;text-decoration:none"
+    },
+    {
+      "source": "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css",
+      "selector": ".tp-caption.Hero-Button:hover,.Hero-Button:hover",
+      "declarations": "background-color:rgba(255,255,255,1);border-color:rgba(255,255,255,1);border-radius:0 0 0 0;border-style:solid;border-width:1px;color:rgba(0,0,0,1);text-decoration:none"
+    },
+    {
+      "source": "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css",
+      "selector": ".tp-caption.NotGeneric-Button,.NotGeneric-Button",
+      "declarations": "background-color:rgba(0,0,0,0);border-color:rgba(255,255,255,.5);border-radius:0 0 0 0;border-style:solid;border-width:1px;color:rgba(255,255,255,1);font-family:Raleway;font-size:14px;font-style:normal;font-weight:500;letter-spacing:3px;line-height:14px;padding:10px 30px;text-align:left;text-decoration:none"
+    },
+    {
+      "source": "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css",
+      "selector": ".tp-caption.NotGeneric-Button:hover,.NotGeneric-Button:hover",
+      "declarations": "background-color:transparent;border-color:rgba(255,255,255,1);border-radius:0 0 0 0;border-style:solid;border-width:1px;color:rgba(255,255,255,1);text-decoration:none"
+    },
+    {
+      "source": "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css",
+      "selector": ".tp-caption.NotGeneric-BigButton,.NotGeneric-BigButton",
+      "declarations": "background-color:rgba(0,0,0,0);border-color:rgba(255,255,255,.15);border-radius:0 0 0 0;border-style:solid;border-width:1px;color:rgba(255,255,255,1);font-family:Raleway;font-size:14px;font-style:normal;font-weight:500;letter-spacing:3px;line-height:14px;padding:27px 30px;text-align:left;text-decoration:none"
+    },
+    {
+      "source": "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css",
+      "selector": ".tp-caption.NotGeneric-BigButton:hover,.NotGeneric-BigButton:hover",
+      "declarations": "background-color:rgba(0,0,0,0);border-color:rgba(255,255,255,1);border-radius:0 0 0 0;border-style:solid;border-width:1px;color:rgba(255,255,255,1);text-decoration:none"
+    },
+    {
+      "source": "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css",
+      "selector": ".tp-caption.WebProduct-Button,.WebProduct-Button",
+      "declarations": "background-color:rgba(51,51,51,1);border-color:rgba(0,0,0,1);border-radius:0 0 0 0;border-style:none;border-width:2px;color:rgba(255,255,255,1);font-family:Raleway;font-size:16px;font-style:normal;font-weight:600;letter-spacing:1px;line-height:48px;padding:0 40px;text-align:left;text-decoration:none"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "MTX - Serious About Sound®",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mtx.com/"
+      ]
+    },
+    "colors.primary-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mtx.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mtx.com/",
+        "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css",
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/fonts/font-awesome/css/font-awesome.min.css",
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css",
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mtx.com/",
+        "https://www.mtx.com/content/jquery-ui-themes-1.12.1/jquery-ui.css",
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/fonts/font-awesome/css/font-awesome.min.css",
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "colors.link": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.mtx.com/Plugins/Mitek.Widgets.SliderRevolution/Content/css/SliderRevolution.min.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.power-rating-badge": {
+      "status": "inferred"
+    }
+  }
+}

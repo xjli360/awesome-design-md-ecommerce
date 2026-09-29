@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Mute Bank
-description: A record label and shop that feels like a dimly lit listening room — the palette is anchored on #cd0a0a, a blood-drop red that appears sparingly as the sole chromatic voltage against a field of near-blacks (#222222, #212121, #121212) and warm grays (#aaaaaa, #555555, #363636). The red never screams; it sits in small doses — a cart badge, a sale tag, a hover underline — while the rest of the interface recedes into the dark. The canvas is #fbf9ee, a parchment off-white that softens the contrast and keeps the storefront from feeling cold. Type runs proxima-nova at modest sizes with generous line-height, letting album titles and tracklists breathe in the negative space. The search bar, a pill-shaped dark field with white text, sits flush against the top edge like a club door. Product cards use soft corners ({rounded.md}) and thin hairlines (#dedede) that barely separate items, trusting the rhythm of square album art to do the layout work. The overall effect is restrained, almost archival — a shop that wants you to browse slowly, with the red acting as a quiet pulse rather than a call to action.
+name: "Mute Bank"
+source_url: "https://www.mutebank.co.uk"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A record label and shop that feels like a dimly lit listening room — the palette is anchored on #cd0a0a, a blood-drop red that appears sparingly as the sole chromatic voltage against a field of near-blacks (#222222, #212121, #121212) and warm grays (#aaaaaa, #555555, #363636). The red never screams; it sits in small doses — a cart badge, a sale tag, a hover underline — while the rest of the interface recedes into the dark. The canvas is #fbf9ee, a parchment off-white that softens the contrast and keeps the storefront from feeling cold. Type runs proxima-nova at modest sizes with generous line-height, letting album titles and tracklists breathe in the negative space. The search bar, a pill-shaped dark field with white text, sits flush against the top edge like a club door. Product cards use soft corners ({rounded.md}) and thin hairlines (#dedede) that barely separate items, trusting the rhythm of square album art to do the layout work. The overall effect is restrained, almost archival — a shop that wants you to browse slowly, with the red acting as a quiet pulse rather than a call to action.
 
 colors:
   primary: "#cd0a0a"
@@ -279,6 +283,8 @@ components:
 - Category filters (if present) collapse into a horizontal scrollable strip on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for secondary and tertiary buttons could not be reliably extracted from the live site
 - Error styling for form inputs (validation messages, error borders) is not present in the extracted data

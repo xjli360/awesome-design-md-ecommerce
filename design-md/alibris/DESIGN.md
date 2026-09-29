@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Alibris
-description: A near-monochrome book marketplace where #313131 ink does all the heavy lifting — the single extracted color from the live site, a deep charcoal that reads as library-stack seriousness rather than e-commerce cheer. The brand trusts its inventory photography (dust jackets, rare-edition spines, reader hands) to supply all the warmth, keeping its own interface to a disciplined gray scale. Type runs the system font stack — -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif — at modest weights, never competing with the book covers. The search bar, the primary action on every page, sits in a generous {spacing.lg} padded container with {rounded.sm} corners, a soft invitation to browse rather than a hard sell. Category navigation runs as a horizontal strip of text links in {colors.muted}, each book cover thumbnail framed at {rounded.xs} — just enough corner to feel intentional without softening the academic tone. The footer, dense with links to seller resources, genre lists, and company information, reads like a library card catalog translated to web: utilitarian, information-dense, and quietly authoritative. There is no brand color voltage — no pink, no marigold, no teal — just the confidence that the books themselves are the only decoration needed.
+name: "Alibris"
+source_url: "https://www.alibris.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A near-monochrome book marketplace where #313131 ink does all the heavy lifting — the single extracted color from the live site, a deep charcoal that reads as library-stack seriousness rather than e-commerce cheer. The brand trusts its inventory photography (dust jackets, rare-edition spines, reader hands) to supply all the warmth, keeping its own interface to a disciplined gray scale. Type runs the system font stack — -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif — at modest weights, never competing with the book covers. The search bar, the primary action on every page, sits in a generous {spacing.lg} padded container with {rounded.sm} corners, a soft invitation to browse rather than a hard sell. Category navigation runs as a horizontal strip of text links in {colors.muted}, each book cover thumbnail framed at {rounded.xs} — just enough corner to feel intentional without softening the academic tone. The footer, dense with links to seller resources, genre lists, and company information, reads like a library card catalog translated to web: utilitarian, information-dense, and quietly authoritative. There is no brand color voltage — no pink, no marigold, no teal — just the confidence that the books themselves are the only decoration needed.
 
 colors:
   primary: "#313131"
@@ -363,6 +367,8 @@ components:
 - Search bar collapses to a search icon with expandable input below 744px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one brand color (#313131) was extractable from the live site — the palette above is an inferred grayscale system. The true brand may have a secondary accent color (e.g., a muted gold, burgundy, or navy) that could not be extracted due to the site's reliance on book cover imagery for color.
 - Font-family declarations resolved to the system font stack — no custom typeface was detected. The brand may license a bookish serif or display face that only appears in imagery or PDF assets.

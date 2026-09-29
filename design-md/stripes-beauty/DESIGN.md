@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Stripes Beauty
-description: |
+name: "Stripes Beauty"
+source_url: "https://www.stripesbeauty.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The warmest detail on a Stripes Beauty page is the canvas itself — #fffff3, a cream that sits one step shy of warm paper, placing every element in what reads as ambient domestic light rather than a screen's cold glow. Against this ground, the primary blue (#356687) reads not clinical but intentional: a mid-depth teal-leaning pigment borrowed from botanical illustration rather than pharmaceutical packaging, saturated enough to carry every primary CTA without suggesting an infirmary. Secondary warmth arrives in terracotta (#e08a73) and dusty peach (#eaae9d) — skin-tone adjacents that humanize a wellness category that has historically either been so clinical it chills, or so soft it patronizes.
 
   Rhymes Display handles all headline work: an editorial serif with enough antiquarian confidence to treat menopause as a subject worth publishing about, not just packaging around. It runs unhurried — large, at low weights, with loose-to-neutral tracking — creating a pace that feels more like a magazine feature than an e-commerce conversion funnel. Inter takes over for body copy and navigation at modest weights, keeping long explanatory passages about hormonal health readable without ornament. Franklin Gothic Cond ITC appears in eyebrow labels and ingredient tags, its compressed letterforms adding a decisive functional note beneath Rhymes Display's openness.
@@ -363,6 +366,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact button border-radius values not confirmed from computed styles — `{rounded.sm}` (8px) is inferred from visual inspection of comparable Shopify wellness brands using this palette
 - Franklin Gothic Cond ITC weight variants (regular vs. bold) not differentiated in extracted font stack; assumed bold (700) for eyebrow and label uses based on condensed display convention

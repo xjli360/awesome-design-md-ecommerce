@@ -1,0 +1,868 @@
+{
+  "source_url": "https://crowdcow.com",
+  "final_url": "https://www.crowdcow.com/",
+  "captured_at": "2026-09-28T05:01:58.839740+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://crowdcow.com",
+      "final_url": "https://www.crowdcow.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "e6e3f5f2b51eff45d8e58ca5e0c6ad3281d423625a6b0572159b82137894b62e",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+      "final_url": "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "85589c8cd4bffecdf7e59b52e07ba3e2d2185555db34be37075fd586fb3a5068",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css",
+      "final_url": "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#131313": {
+      "count": 178,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 125,
+      "sources": [
+        "https://www.crowdcow.com/",
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "#424242": {
+      "count": 65,
+      "sources": [
+        "https://www.crowdcow.com/",
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "#00000000": {
+      "count": 42,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "#f4f3ef": {
+      "count": 39,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "#e9e6e0": {
+      "count": 27,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "#efece8": {
+      "count": 22,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "#450002": {
+      "count": 22,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "#717171": {
+      "count": 21,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "#303b1e": {
+      "count": 21,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "#a1a1a1": {
+      "count": 18,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "#e4e0d8": {
+      "count": 18,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "#ef7857": {
+      "count": 17,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "#6a3335": {
+      "count": 15,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "#bbcb9f": {
+      "count": 11,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "#8f6667": {
+      "count": 8,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "#4e341f": {
+      "count": 8,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "#715d4c": {
+      "count": 8,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "#bbc9db": {
+      "count": 8,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "#581a1b": {
+      "count": 7,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+      ]
+    },
+    "#59624b": {
+      "count": 7,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+      ]
+    },
+    "#acb1a5": {
+      "count": 6,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "#958579": {
+      "count": 6,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "#b8aea5": {
+      "count": 6,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+      ]
+    },
+    "#d4c6a6": {
+      "count": 6,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+      ]
+    },
+    "#838978": {
+      "count": 5,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+      ]
+    },
+    "#363636": {
+      "count": 5,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 5,
+      "sources": [
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 4,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+      ]
+    },
+    "#f14668": {
+      "count": 4,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+      ]
+    },
+    "#4a4a4a": {
+      "count": 4,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+      ]
+    },
+    "#b5b5b5": {
+      "count": 4,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+      ]
+    },
+    "#c0c0c0": {
+      "count": 4,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+      ]
+    },
+    "#0d9488": {
+      "count": 4,
+      "sources": [
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "#16a34a": {
+      "count": 4,
+      "sources": [
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "#a855f7": {
+      "count": 4,
+      "sources": [
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "#abc123": {
+      "count": 4,
+      "sources": [
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "#0a0a0a": {
+      "count": 3,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 3,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+      ]
+    },
+    "#000000": {
+      "count": 3,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "#2d2d2d": {
+      "count": 2,
+      "sources": [
+        "https://www.crowdcow.com/"
+      ]
+    },
+    "#333333": {
+      "count": 2,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+      ]
+    },
+    "#444444": {
+      "count": 2,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+      ]
+    },
+    "#2a2a2a": {
+      "count": 2,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+      ]
+    },
+    "#1a0dab": {
+      "count": 2,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+      ]
+    },
+    "#888888": {
+      "count": 2,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+      ]
+    },
+    "#006621": {
+      "count": 2,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 2,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 2,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+      ]
+    },
+    "#eff5fb": {
+      "count": 2,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+      ]
+    },
+    "#feecf0": {
+      "count": 2,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+      ]
+    },
+    "#dbdbdb": {
+      "count": 2,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+      ]
+    },
+    "#808080": {
+      "count": 2,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+      ]
+    },
+    "#f6e4e3": {
+      "count": 2,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+      ]
+    },
+    "#fbf0dc": {
+      "count": 2,
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+      ]
+    },
+    "#22d3ee": {
+      "count": 2,
+      "sources": [
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "#0e7490": {
+      "count": 2,
+      "sources": [
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "#0f766e": {
+      "count": 2,
+      "sources": [
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "#1e40af": {
+      "count": 2,
+      "sources": [
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "#1e293b": {
+      "count": 2,
+      "sources": [
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Archivo Narrow": [
+      "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+    ],
+    "Arial": [
+      "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+    ],
+    "Body": [
+      "https://www.crowdcow.com/"
+    ],
+    "Consolas": [
+      "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+    ],
+    "Header": [
+      "https://www.crowdcow.com/",
+      "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+    ],
+    "Helvetica Neue": [
+      "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+    ],
+    "Menlo": [
+      "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+    ],
+    "Noto Sans": [
+      "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+    ],
+    "Oswald": [
+      "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+    ],
+    "Roboto Condensed": [
+      "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+    ],
+    "SFMono-Regular": [
+      "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+    ],
+    "monospace": [
+      "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+    ],
+    "sans-serif": [
+      "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+    ],
+    "ui-monospace": [
+      "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.crowdcow.com/",
+      "selector": ":root",
+      "declarations": "--z-navbar: 30; --z-sticky-footer: 50; --z-slideout-backdrop: 100; --z-slideout-panel: 110; --z-modal: 120; --z-flash: 130; --z-cookie-banner: 140;"
+    },
+    {
+      "source": "https://www.crowdcow.com/",
+      "selector": ":root",
+      "declarations": "--container-inline-padding-mobile: 20px; --container-inline-padding-desktop: 40px;"
+    },
+    {
+      "source": "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+      "selector": "button, input, select, optgroup, textarea, ::file-selector-button",
+      "declarations": "font: inherit;\n    font-feature-settings: inherit;\n    font-variation-settings: inherit;\n    letter-spacing: inherit;\n    color: inherit;\n    border-radius: 0;\n    background-color: transparent;\n    opacity: 1;"
+    },
+    {
+      "source": "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+      "selector": ".btn-secondary",
+      "declarations": "display: inline-flex;\n    min-height: calc(var(--spacing) * 9);\n    cursor: pointer;\n    align-items: center;\n    justify-content: center;\n    border-style: var(--tw-border-style);\n    border-width: 1px;\n    --tw-border-style: solid;\n    border-style: solid;\n    border-color: transparent;\n    text-align: center;\n    font-size: 16px;\n    --tw-leading: 1.1;\n    line-height: 1.1;\n    --tw-font-weight: 700;\n    font-weight: 700;\n    --tw-tracking: 0.02em;\n    letter-spacing: 0.02em;\n    font-family: var(--font-family-display);\n    white-space: nowrap;\n    transition-property: background-color,color,border-color,box-shadow,opacity;\n    transition-timing-function: var(--tw-ease, var(--default-tran"
+    },
+    {
+      "source": "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+      "selector": ".btn-primary",
+      "declarations": "display: inline-flex;\n    min-height: calc(var(--spacing) * 9);\n    cursor: pointer;\n    align-items: center;\n    justify-content: center;\n    border-style: var(--tw-border-style);\n    border-width: 1px;\n    --tw-border-style: solid;\n    border-style: solid;\n    border-color: transparent;\n    text-align: center;\n    font-size: 16px;\n    --tw-leading: 1.1;\n    line-height: 1.1;\n    --tw-font-weight: 700;\n    font-weight: 700;\n    --tw-tracking: 0.02em;\n    letter-spacing: 0.02em;\n    font-family: var(--font-family-display);\n    white-space: nowrap;\n    transition-property: background-color,color,border-color,box-shadow,opacity;\n    transition-timing-function: var(--tw-ease, var(--default-tran"
+    },
+    {
+      "source": "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+      "selector": ".btn-base",
+      "declarations": "display: inline-flex;\n    min-height: calc(var(--spacing) * 9);\n    cursor: pointer;\n    align-items: center;\n    justify-content: center;\n    border-style: var(--tw-border-style);\n    border-width: 1px;\n    --tw-border-style: solid;\n    border-style: solid;\n    border-color: transparent;\n    text-align: center;\n    font-size: 16px;\n    --tw-leading: 1.1;\n    line-height: 1.1;\n    --tw-font-weight: 700;\n    font-weight: 700;\n    --tw-tracking: 0.02em;\n    letter-spacing: 0.02em;\n    font-family: var(--font-family-display);\n    white-space: nowrap;\n    transition-property: background-color,color,border-color,box-shadow,opacity;\n    transition-timing-function: var(--tw-ease, var(--default-tran"
+    },
+    {
+      "source": "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+      "selector": ".btn-small",
+      "declarations": "min-height: calc(var(--spacing) * 7);\n    padding-inline: calc(var(--spacing) * 3);\n    padding-block: calc(var(--spacing) * 1.5);\n    font-size: 14px;\n    --tw-leading: 1.4;\n    line-height: 1.4;\n    --tw-font-weight: var(--font-weight-normal);\n    font-weight: var(--font-weight-normal);\n    --tw-tracking: 0.0075em;\n    letter-spacing: 0.0075em;\n    font-family: var(--font-family-body);"
+    },
+    {
+      "source": "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+      "selector": ".\\!text-body-s",
+      "declarations": "font-size: 12px !important;\n    --tw-leading: 1.4 !important;\n    line-height: 1.4 !important;\n    --tw-font-weight: var(--font-weight-normal) !important;\n    font-weight: var(--font-weight-normal) !important;\n    --tw-tracking: 0.0075em !important;\n    letter-spacing: 0.0075em !important;\n    font-family: var(--font-family-body) !important;"
+    },
+    {
+      "source": "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+      "selector": ".btn-large",
+      "declarations": "font-size: 24px;\n    --tw-leading: 1.1;\n    line-height: 1.1;\n    --tw-font-weight: 700;\n    font-weight: 700;\n    --tw-tracking: 0.0075em;\n    letter-spacing: 0.0075em;\n    font-family: var(--font-family-display);"
+    },
+    {
+      "source": "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+      "selector": ".text-body-l",
+      "declarations": "font-size: 16px;\n    --tw-leading: 1.4;\n    line-height: 1.4;\n    --tw-font-weight: var(--font-weight-normal);\n    font-weight: var(--font-weight-normal);\n    --tw-tracking: 0.01em;\n    letter-spacing: 0.01em;\n    font-family: var(--font-family-body);"
+    },
+    {
+      "source": "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+      "selector": ".text-body-m",
+      "declarations": "font-size: 14px;\n    --tw-leading: 1.4;\n    line-height: 1.4;\n    --tw-font-weight: var(--font-weight-normal);\n    font-weight: var(--font-weight-normal);\n    --tw-tracking: 0.0075em;\n    letter-spacing: 0.0075em;\n    font-family: var(--font-family-body);"
+    },
+    {
+      "source": "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+      "selector": ".text-body-s",
+      "declarations": "font-size: 12px;\n    --tw-leading: 1.4;\n    line-height: 1.4;\n    --tw-font-weight: var(--font-weight-normal);\n    font-weight: var(--font-weight-normal);\n    --tw-tracking: 0.0075em;\n    letter-spacing: 0.0075em;\n    font-family: var(--font-family-body);"
+    },
+    {
+      "source": "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+      "selector": ".text-body-xl",
+      "declarations": "font-size: 18px;\n    --tw-leading: 1.6;\n    line-height: 1.6;\n    --tw-font-weight: var(--font-weight-normal);\n    font-weight: var(--font-weight-normal);\n    --tw-tracking: 0.01em;\n    letter-spacing: 0.01em;\n    font-family: var(--font-family-body);"
+    },
+    {
+      "source": "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+      "selector": ".text-header-l",
+      "declarations": "font-size: 32px;\n    --tw-leading: 1.1;\n    line-height: 1.1;\n    --tw-font-weight: 700;\n    font-weight: 700;\n    --tw-tracking: 0.0075em;\n    letter-spacing: 0.0075em;\n    font-family: var(--font-family-display);"
+    },
+    {
+      "source": "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+      "selector": ".text-header-m",
+      "declarations": "font-size: 24px;\n    --tw-leading: 1.1;\n    line-height: 1.1;\n    --tw-font-weight: 700;\n    font-weight: 700;\n    --tw-tracking: 0.0075em;\n    letter-spacing: 0.0075em;\n    font-family: var(--font-family-display);"
+    },
+    {
+      "source": "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+      "selector": ".text-header-s",
+      "declarations": "font-size: 18px;\n    --tw-leading: 1.1;\n    line-height: 1.1;\n    --tw-font-weight: 700;\n    font-weight: 700;\n    --tw-tracking: 0.02em;\n    letter-spacing: 0.02em;\n    font-family: var(--font-family-display);"
+    },
+    {
+      "source": "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+      "selector": ".text-header-s-medium",
+      "declarations": "font-size: 18px;\n    --tw-leading: 1.1;\n    line-height: 1.1;\n    --tw-font-weight: 500;\n    font-weight: 500;\n    --tw-tracking: 0.02em;\n    letter-spacing: 0.02em;\n    font-family: var(--font-family-display);"
+    },
+    {
+      "source": "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+      "selector": ".text-header-xl",
+      "declarations": "font-size: 48px;\n    --tw-leading: 0.9;\n    line-height: 0.9;\n    --tw-font-weight: 700;\n    font-weight: 700;\n    --tw-tracking: 0em;\n    letter-spacing: 0em;\n    font-family: var(--font-family-display);"
+    },
+    {
+      "source": "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+      "selector": ".text-header-xs",
+      "declarations": "font-size: 16px;\n    --tw-leading: 1.1;\n    line-height: 1.1;\n    --tw-font-weight: 700;\n    font-weight: 700;\n    --tw-tracking: 0.02em;\n    letter-spacing: 0.02em;\n    font-family: var(--font-family-display);"
+    },
+    {
+      "source": "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+      "selector": ".text-header-xs-regular",
+      "declarations": "font-size: 16px;\n    --tw-leading: 1.1;\n    line-height: 1.1;\n    --tw-font-weight: var(--font-weight-normal);\n    font-weight: var(--font-weight-normal);\n    --tw-tracking: 0.02em;\n    letter-spacing: 0.02em;\n    font-family: var(--font-family-display);"
+    },
+    {
+      "source": "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+      "selector": ".text-header-xxl",
+      "declarations": "font-size: 90px;\n    --tw-leading: 0.92;\n    line-height: 0.92;\n    --tw-font-weight: 700;\n    font-weight: 700;\n    --tw-tracking: 0em;\n    letter-spacing: 0em;\n    font-family: var(--font-family-display);"
+    },
+    {
+      "source": "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+      "selector": ".text-header-xxs",
+      "declarations": "font-size: 14px;\n    --tw-leading: 1.1;\n    line-height: 1.1;\n    --tw-font-weight: 700;\n    font-weight: 700;\n    --tw-tracking: 0.02em;\n    letter-spacing: 0.02em;\n    font-family: var(--font-family-display);"
+    },
+    {
+      "source": "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+      "selector": ".sm\\:text-body-l",
+      "declarations": "font-size: 16px;\n      --tw-leading: 1.4;\n      line-height: 1.4;\n      --tw-font-weight: var(--font-weight-normal);\n      font-weight: var(--font-weight-normal);\n      --tw-tracking: 0.01em;\n      letter-spacing: 0.01em;\n      font-family: var(--font-family-body);"
+    },
+    {
+      "source": "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+      "selector": ".sm\\:text-header-l",
+      "declarations": "font-size: 32px;\n      --tw-leading: 1.1;\n      line-height: 1.1;\n      --tw-font-weight: 700;\n      font-weight: 700;\n      --tw-tracking: 0.0075em;\n      letter-spacing: 0.0075em;\n      font-family: var(--font-family-display);"
+    },
+    {
+      "source": "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+      "selector": ".sm\\:text-header-m",
+      "declarations": "font-size: 24px;\n      --tw-leading: 1.1;\n      line-height: 1.1;\n      --tw-font-weight: 700;\n      font-weight: 700;\n      --tw-tracking: 0.0075em;\n      letter-spacing: 0.0075em;\n      font-family: var(--font-family-display);"
+    },
+    {
+      "source": "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+      "selector": ".sm\\:text-header-s",
+      "declarations": "font-size: 18px;\n      --tw-leading: 1.1;\n      line-height: 1.1;\n      --tw-font-weight: 700;\n      font-weight: 700;\n      --tw-tracking: 0.02em;\n      letter-spacing: 0.02em;\n      font-family: var(--font-family-display);"
+    },
+    {
+      "source": "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+      "selector": ".sm\\:text-header-xl",
+      "declarations": "font-size: 48px;\n      --tw-leading: 0.9;\n      line-height: 0.9;\n      --tw-font-weight: 700;\n      font-weight: 700;\n      --tw-tracking: 0em;\n      letter-spacing: 0em;\n      font-family: var(--font-family-display);"
+    },
+    {
+      "source": "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+      "selector": ".sm\\:text-header-xxl",
+      "declarations": "font-size: 90px;\n      --tw-leading: 0.92;\n      line-height: 0.92;\n      --tw-font-weight: 700;\n      font-weight: 700;\n      --tw-tracking: 0em;\n      letter-spacing: 0em;\n      font-family: var(--font-family-display);"
+    },
+    {
+      "source": "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+      "selector": ".md\\:text-body-m",
+      "declarations": "font-size: 14px;\n      --tw-leading: 1.4;\n      line-height: 1.4;\n      --tw-font-weight: var(--font-weight-normal);\n      font-weight: var(--font-weight-normal);\n      --tw-tracking: 0.0075em;\n      letter-spacing: 0.0075em;\n      font-family: var(--font-family-body);"
+    },
+    {
+      "source": "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+      "selector": ".md\\:text-body-xl",
+      "declarations": "font-size: 18px;\n      --tw-leading: 1.6;\n      line-height: 1.6;\n      --tw-font-weight: var(--font-weight-normal);\n      font-weight: var(--font-weight-normal);\n      --tw-tracking: 0.01em;\n      letter-spacing: 0.01em;\n      font-family: var(--font-family-body);"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Crowd Cow: Premium Meat, Wagyu & Seafood Delivery",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "colors.primary-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+      ]
+    },
+    "colors.primary-muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "colors.category-sage": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css"
+      ]
+    },
+    "colors.category-sage-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.crowdcow.com/",
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.crowdcow.com/",
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "colors.muted-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "colors.surface-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.crowdcow.com/",
+        "https://assets.crowdcow.com/assets/tailwind_island-6a0e3272ca14ccb6a648c4c161fdc84f36c866501df4eb8681ed059bc3213d6c.css",
+        "https://www.crowdcow.com/cms/tailwind/9ccb89e9f05d5ab760d70b3c425740b160d101eac9dfaba138e0684271478c1f.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-lg": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.farm-provenance-card": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Pottery Pots
-description: |
+name: "Pottery Pots"
+source_url: "https://www.potterypots.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Bare concrete floors, a single oversized vessel catching afternoon light — Pottery Pots builds its digital presence the way an architecture gallery curates a show: one object at a time against an almost-white field (#f7fafd). The canvas breathes at that pale blue-grey temperature rather than pure white, lending the faintest atmospheric depth that keeps product photography from floating in a void. Surfaces step down through a warm grey (#eeeeee) for collection grids and filter panels, creating just enough figure-ground separation without introducing hard dividers. The primary interaction color is a confident black — buttons, navigation links, and CTAs all arrive in near-pure ink, treating every click-target as a deliberate mark on paper rather than a colored lozenge demanding attention. Typography leans on a geometric sans-serif stack at restrained weights; display headings sit large but light (weight 300–400), giving headlines the quality of etched stone rather than shouted signage. Body copy holds at 16px with generous `{spacing.lg}` line-height, respecting the same negative space philosophy that defines the physical product line. Product cards use `{rounded.none}` — no softened corners, no playful pills — reinforcing the architectural register. The sole curve lives in circular material-swatch selectors (`{rounded.full}`), a functional flourish that echoes the planters' own silhouettes. Navigation is minimal: a sticky top bar collapses to a slide-out drawer on mobile, with category labels in uppercase micro-tracking that reads like gallery-wall didactics. Image aspect ratios run tall (3:4 and 4:5), framing each planter as a portrait subject. Hover states are subtle — a 120ms opacity fade to 0.7 rather than color shifts — keeping the gallery-quiet tone intact across interactions.
 
 colors:
@@ -373,6 +376,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Fonts unverified**: Only Font Awesome icon fonts were detected in extraction. The actual body/display typeface could not be confirmed — Inter is used as a reasonable geometric sans-serif placeholder based on the site's visual style, but the real font may differ (possibly a custom or commercially licensed face loaded via JS)
 - **Color palette extremely sparse**: Only two colors (#f7fafd, #eeeeee) were extracted — both near-white/light-grey background tones. The dark primary (#1a1a1a) and accent tones (warm, sage) are inferred from widely-observable brand materials but could not be confirmed from extraction

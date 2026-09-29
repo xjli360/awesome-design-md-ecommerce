@@ -1,11 +1,15 @@
 ---
 version: alpha
-name: Wonder Workshop
-description: Dash and Dot — the round, expressive robots at the center of this brand — are both the product and the visual grammar. The five colors children use to program their robot's LED lights recur as systematic UI tokens throughout the site: coral `#fa5252` drives every primary action, electric green `#4bce61` signals completion and go-states, warm orange `#f26a21` marks creative prompts, cyan `#00acd7` carries informational surfaces, and purple `#8c5aca` flags advanced curriculum pathways. This five-color vocabulary means the retail experience and the play experience share the same perceptual language — a child who has learned to read green as "go" on the robot encounters the same green on the site's success states. Deep navy `#122246` anchors the palette as ink and hero background, giving weight to what could otherwise read as purely juvenile. Against it, the coral `#fa5252` primary CTA achieves maximum contrast, a deliberate accessibility choice for primary-grade visual acuity ranges.
+name: "Wonder Workshop"
+source_url: "https://www.makewonder.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Dash and Dot — the round, expressive robots at the center of this brand — are both the product and the visual grammar. The five colors children use to program their robot's LED lights recur as systematic UI tokens throughout the site: coral `#fa5252` drives every primary action, electric green `#4bce61` signals completion and go-states, warm orange `#f26a21` marks creative prompts, cyan `#00acd7` carries informational surfaces, and purple `#8c5aca` flags advanced curriculum pathways. This five-color vocabulary means the retail experience and the play experience share the same perceptual language — a child who has learned to read green as "go" on the robot encounters the same green on the site's success states. Deep navy `#122246` anchors the palette as ink and hero background, giving weight to what could otherwise read as purely juvenile. Against it, the coral `#fa5252` primary CTA achieves maximum contrast, a deliberate accessibility choice for primary-grade visual acuity ranges.
 
-Bariol — a rounded humanist sans-serif with circular letter apertures — handles every headline; its geometry mirrors the robots' injection-molded bodies without collapsing into cartoon exaggeration. Museo Sans at weights 300 and 500 takes over for body copy, specifications, and grade-level notation, its geometric precision communicating the engineering credibility that parents purchasing classroom kits require. The contrast between the two families creates a readable hierarchy: Bariol announces, Museo Sans explains.
+  Bariol — a rounded humanist sans-serif with circular letter apertures — handles every headline; its geometry mirrors the robots' injection-molded bodies without collapsing into cartoon exaggeration. Museo Sans at weights 300 and 500 takes over for body copy, specifications, and grade-level notation, its geometric precision communicating the engineering credibility that parents purchasing classroom kits require. The contrast between the two families creates a readable hierarchy: Bariol announces, Museo Sans explains.
 
-The canvas sits at near-white `#f6f7f9` rather than pure white, softening prolonged sessions. Product cards lift to `#fdfdfd` against it, creating depth without drop shadows. Hairlines at `#d5d9e2` provide structure without aggression. Corners scale with hierarchy: cards and inputs use `{rounded.md}` at 12px, hero panels use `{rounded.lg}` at 20px, and command-color badges with pill CTAs use `{rounded.full}` — the rounding progression from data to action to identity reads spatially rather than arbitrarily. Age-range and "New" flags use the same colored-fill badge pattern as the robots' status LEDs, collapsing the gap between physical product feedback and digital retail signal.
+  The canvas sits at near-white `#f6f7f9` rather than pure white, softening prolonged sessions. Product cards lift to `#fdfdfd` against it, creating depth without drop shadows. Hairlines at `#d5d9e2` provide structure without aggression. Corners scale with hierarchy: cards and inputs use `{rounded.md}` at 12px, hero panels use `{rounded.lg}` at 20px, and command-color badges with pill CTAs use `{rounded.full}` — the rounding progression from data to action to identity reads spatially rather than arbitrarily. Age-range and "New" flags use the same colored-fill badge pattern as the robots' status LEDs, collapsing the gap between physical product feedback and digital retail signal.
 
 colors:
   primary: "#fa5252"
@@ -377,6 +381,8 @@ components:
 - Curriculum cards remain single-column across all breakpoints (content density is intentional)
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Box-shadow values for elevated states (modals, cart drawer, dropdowns) not captured — site likely uses subtle `rgba(0,0,0,0.08)` shadows not recoverable from color extraction
 - Hover and focus transition timing curves (duration, easing) not observable from static extraction

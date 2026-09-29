@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Jet Set Records
-description: A midnight-blue digital storefront for an independent record shop that ships globally from Japan, built on a stark white canvas and a single accent — #1a237e — a deep indigo that reads as ink-black on screen but holds a trace of cobalt in its edges, used sparingly for headings, dividers, and the occasional badge. The site trusts its product photography entirely: album covers provide all the color, and the interface steps back to let them breathe. Body text runs Arial at 16px in #333333, a pragmatic choice that prioritizes legibility over personality — this is a store, not a gallery. Navigation is a thin horizontal strip of links in uppercase, 12px, spaced generously, with a persistent search bar that sits in the top-right corner like a utility rather than a discovery tool. Product cards are simple: a square cover image, the artist name in bold 14px, the album title in regular 13px, and a price in the same indigo. There are no badges, no ratings, no "add to cart" buttons visible until you enter a product page — the browsing experience is deliberately quiet, almost archival. The footer repeats the nav links in a single column, adds social icons (Instagram, Twitter, Bandcamp), and prints a small "Worldwide Shipping" tagline in #666666. The overall feel is that of a well-organized crate-digger's spreadsheet rendered as HTML — functional, fast, and deferential to the music.
+name: "Jet Set Records"
+source_url: "https://www.jetsetrecords.net"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A midnight-blue digital storefront for an independent record shop that ships globally from Japan, built on a stark white canvas and a single accent — #1a237e — a deep indigo that reads as ink-black on screen but holds a trace of cobalt in its edges, used sparingly for headings, dividers, and the occasional badge. The site trusts its product photography entirely: album covers provide all the color, and the interface steps back to let them breathe. Body text runs Arial at 16px in #333333, a pragmatic choice that prioritizes legibility over personality — this is a store, not a gallery. Navigation is a thin horizontal strip of links in uppercase, 12px, spaced generously, with a persistent search bar that sits in the top-right corner like a utility rather than a discovery tool. Product cards are simple: a square cover image, the artist name in bold 14px, the album title in regular 13px, and a price in the same indigo. There are no badges, no ratings, no "add to cart" buttons visible until you enter a product page — the browsing experience is deliberately quiet, almost archival. The footer repeats the nav links in a single column, adds social icons (Instagram, Twitter, Bandcamp), and prints a small "Worldwide Shipping" tagline in #666666. The overall feel is that of a well-organized crate-digger's spreadsheet rendered as HTML — functional, fast, and deferential to the music.
 
 colors:
   primary: "#1a237e"
@@ -303,6 +307,8 @@ components:
 - Footer links collapse from a single row to a vertical stack.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted color list returned no hex values (framework defaults were filtered out, and no distinctive brand colors were detected). The primary `#1a237e` is an educated guess based on the brand's association with Japan and independent record stores — it should be verified against the live site's CSS.
 - Font-family declarations returned only "Arial". No custom or web fonts were detected. The site may use a system font stack that wasn't captured.

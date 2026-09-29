@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Books Are Magic
-description: A Brooklyn independent bookstore that uses a restrained palette of #0078a8 as its sole accent voltage — a deep, confident teal that appears on the primary navigation bar, the shopping-cart icon, and the footer background, while everything else stays in a grayscale of #222222, #777777, and #f4f4f4. The site runs Radikal, a Swiss-style sans-serif with seven weights from Light to Black Italic, giving the typography a sharp editorial clarity that feels more like a literary magazine than a retail storefront. Headlines sit in Radikal Black at generous sizes with tight tracking, while body copy uses Radikal Light for a surprising airiness — the brand trusts its book covers and event photography to carry emotional weight rather than relying on decorative type or illustration. The navigation is a single horizontal bar with dropdown menus for events and books, using {rounded.none} corners throughout except for the search bar which takes {rounded.full} pill shape and a subtle {colors.hairline} border. Product cards for books show cover art, title, author, and price in a clean three-column grid with {rounded.sm} corners on images and no box shadows — the covers themselves provide all the visual texture. The footer uses the teal #0078a8 as a full background with white text, creating a clear terminal signal that the page has ended. There are no badges, no sale flags, no star ratings — the design assumes visitors already know what they want or are willing to browse without persuasion.
+name: "Books Are Magic"
+source_url: "https://www.booksaremagic.net"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A Brooklyn independent bookstore that uses a restrained palette of #0078a8 as its sole accent voltage — a deep, confident teal that appears on the primary navigation bar, the shopping-cart icon, and the footer background, while everything else stays in a grayscale of #222222, #777777, and #f4f4f4. The site runs Radikal, a Swiss-style sans-serif with seven weights from Light to Black Italic, giving the typography a sharp editorial clarity that feels more like a literary magazine than a retail storefront. Headlines sit in Radikal Black at generous sizes with tight tracking, while body copy uses Radikal Light for a surprising airiness — the brand trusts its book covers and event photography to carry emotional weight rather than relying on decorative type or illustration. The navigation is a single horizontal bar with dropdown menus for events and books, using {rounded.none} corners throughout except for the search bar which takes {rounded.full} pill shape and a subtle {colors.hairline} border. Product cards for books show cover art, title, author, and price in a clean three-column grid with {rounded.sm} corners on images and no box shadows — the covers themselves provide all the visual texture. The footer uses the teal #0078a8 as a full background with white text, creating a clear terminal signal that the page has ended. There are no badges, no sale flags, no star ratings — the design assumes visitors already know what they want or are willing to browse without persuasion.
 
 colors:
   primary: "#0078a8"
@@ -326,6 +330,8 @@ components:
 - Event cards remain single column at all breakpoints but reduce padding on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for text inputs could not be reliably extracted — assumed teal border on focus based on brand color usage
 - Error states for forms (validation, required fields) not observed on live site

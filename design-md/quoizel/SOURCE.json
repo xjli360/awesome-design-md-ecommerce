@@ -1,0 +1,861 @@
+{
+  "source_url": "https://quoizel.com",
+  "final_url": "https://www.quoizel.com/",
+  "captured_at": "2026-09-28T09:37:16.634235+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://quoizel.com",
+      "final_url": "https://www.quoizel.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "617bc751e875ffb106ff9f9e74b34d695eef7ea9df761c781698c97908651436",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "final_url": "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "028479047ac70fe2bef1863a4d6d9e870184e0967fc47ab2332542a7a65225bb",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.quoizel.com/cdn/shop/t/53/assets/variant-reactive.css?v=100637793981391224611787861073",
+      "final_url": "https://www.quoizel.com/cdn/shop/t/53/assets/variant-reactive.css?v=100637793981391224611787861073",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "23250393476fc1dbaa035aaca3d600e9600560f25972b37937f5d6a4af7ded7b",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073",
+      "final_url": "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d5f064da2725c690ac8d024d19e566f60667e36d08513eeea5c6378791542d01",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://use.typekit.net/lnn5fwi.css",
+      "final_url": "https://use.typekit.net/lnn5fwi.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "69abf13a2e2c423421968163c618a581692efb75ceb5a00bc87e0558dfb3c6d8",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css",
+      "final_url": "https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "de1e399b07289f3b0a8d35142e363e128124a1185770e214e25e58030dad48e5",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 139,
+      "sources": [
+        "https://www.quoizel.com/",
+        "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+        "https://www.quoizel.com/cdn/shop/t/53/assets/variant-reactive.css?v=100637793981391224611787861073",
+        "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073"
+      ]
+    },
+    "#000000": {
+      "count": 122,
+      "sources": [
+        "https://www.quoizel.com/",
+        "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+        "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073"
+      ]
+    },
+    "#2c7590": {
+      "count": 60,
+      "sources": [
+        "https://www.quoizel.com/",
+        "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+        "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073"
+      ]
+    },
+    "#b2aca7": {
+      "count": 41,
+      "sources": [
+        "https://www.quoizel.com/",
+        "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+        "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073"
+      ]
+    },
+    "#f5f4f2": {
+      "count": 40,
+      "sources": [
+        "https://www.quoizel.com/",
+        "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+        "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073"
+      ]
+    },
+    "#151f24": {
+      "count": 39,
+      "sources": [
+        "https://www.quoizel.com/",
+        "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+        "https://www.quoizel.com/cdn/shop/t/53/assets/variant-reactive.css?v=100637793981391224611787861073",
+        "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 24,
+      "sources": [
+        "https://www.quoizel.com/"
+      ]
+    },
+    "#333333": {
+      "count": 22,
+      "sources": [
+        "https://www.quoizel.com/"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 20,
+      "sources": [
+        "https://www.quoizel.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 17,
+      "sources": [
+        "https://www.quoizel.com/"
+      ]
+    },
+    "#bfbdb9": {
+      "count": 13,
+      "sources": [
+        "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+        "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073"
+      ]
+    },
+    "#111111": {
+      "count": 12,
+      "sources": [
+        "https://www.quoizel.com/"
+      ]
+    },
+    "#1d3540": {
+      "count": 12,
+      "sources": [
+        "https://www.quoizel.com/"
+      ]
+    },
+    "#424242": {
+      "count": 12,
+      "sources": [
+        "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073"
+      ]
+    },
+    "#2e2e2e": {
+      "count": 9,
+      "sources": [
+        "https://www.quoizel.com/",
+        "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+        "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073"
+      ]
+    },
+    "#dedbd4": {
+      "count": 8,
+      "sources": [
+        "https://www.quoizel.com/",
+        "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+        "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073"
+      ]
+    },
+    "#e9e4de": {
+      "count": 8,
+      "sources": [
+        "https://www.quoizel.com/",
+        "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073"
+      ]
+    },
+    "#999999": {
+      "count": 6,
+      "sources": [
+        "https://www.quoizel.com/"
+      ]
+    },
+    "#dfdfdf": {
+      "count": 6,
+      "sources": [
+        "https://www.quoizel.com/"
+      ]
+    },
+    "#888888": {
+      "count": 5,
+      "sources": [
+        "https://www.quoizel.com/",
+        "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080"
+      ]
+    },
+    "#72a8bc": {
+      "count": 5,
+      "sources": [
+        "https://www.quoizel.com/",
+        "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 5,
+      "sources": [
+        "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080"
+      ]
+    },
+    "#eeeeee": {
+      "count": 4,
+      "sources": [
+        "https://www.quoizel.com/",
+        "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073"
+      ]
+    },
+    "#00000000": {
+      "count": 4,
+      "sources": [
+        "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073"
+      ]
+    },
+    "#252525": {
+      "count": 3,
+      "sources": [
+        "https://www.quoizel.com/",
+        "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073"
+      ]
+    },
+    "#555555": {
+      "count": 3,
+      "sources": [
+        "https://www.quoizel.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 3,
+      "sources": [
+        "https://www.quoizel.com/"
+      ]
+    },
+    "#fafafa": {
+      "count": 3,
+      "sources": [
+        "https://www.quoizel.com/"
+      ]
+    },
+    "#3d3d3d": {
+      "count": 3,
+      "sources": [
+        "https://www.quoizel.com/",
+        "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080"
+      ]
+    },
+    "#151f24e6": {
+      "count": 3,
+      "sources": [
+        "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080"
+      ]
+    },
+    "#eceae6": {
+      "count": 3,
+      "sources": [
+        "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073"
+      ]
+    },
+    "#666666": {
+      "count": 2,
+      "sources": [
+        "https://www.quoizel.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 2,
+      "sources": [
+        "https://www.quoizel.com/",
+        "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073"
+      ]
+    },
+    "#e7e5e0": {
+      "count": 2,
+      "sources": [
+        "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080"
+      ]
+    },
+    "#384348": {
+      "count": 2,
+      "sources": [
+        "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080"
+      ]
+    },
+    "#c8c6c4": {
+      "count": 2,
+      "sources": [
+        "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073"
+      ]
+    },
+    "#acacac": {
+      "count": 2,
+      "sources": [
+        "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073"
+      ]
+    },
+    "#8b0000": {
+      "count": 1,
+      "sources": [
+        "https://www.quoizel.com/"
+      ]
+    },
+    "#006400": {
+      "count": 1,
+      "sources": [
+        "https://www.quoizel.com/"
+      ]
+    },
+    "#3ed660": {
+      "count": 1,
+      "sources": [
+        "https://www.quoizel.com/"
+      ]
+    },
+    "#ee9441": {
+      "count": 1,
+      "sources": [
+        "https://www.quoizel.com/"
+      ]
+    },
+    "#c8c8c8": {
+      "count": 1,
+      "sources": [
+        "https://www.quoizel.com/"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 1,
+      "sources": [
+        "https://www.quoizel.com/"
+      ]
+    },
+    "#e53e3e": {
+      "count": 1,
+      "sources": [
+        "https://www.quoizel.com/"
+      ]
+    },
+    "#383d41": {
+      "count": 1,
+      "sources": [
+        "https://www.quoizel.com/"
+      ]
+    },
+    "#d6d8db": {
+      "count": 1,
+      "sources": [
+        "https://www.quoizel.com/"
+      ]
+    },
+    "#eef1ea": {
+      "count": 1,
+      "sources": [
+        "https://www.quoizel.com/"
+      ]
+    },
+    "#e1edf5": {
+      "count": 1,
+      "sources": [
+        "https://www.quoizel.com/"
+      ]
+    },
+    "#1d3686": {
+      "count": 1,
+      "sources": [
+        "https://www.quoizel.com/"
+      ]
+    },
+    "#0000001a": {
+      "count": 1,
+      "sources": [
+        "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080"
+      ]
+    },
+    "#151f24a6": {
+      "count": 1,
+      "sources": [
+        "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080"
+      ]
+    },
+    "#151f2400": {
+      "count": 1,
+      "sources": [
+        "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080"
+      ]
+    },
+    "#dedbd466": {
+      "count": 1,
+      "sources": [
+        "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080"
+      ]
+    },
+    "#bebbb6": {
+      "count": 1,
+      "sources": [
+        "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080"
+      ]
+    },
+    "#0a142f": {
+      "count": 1,
+      "sources": [
+        "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073"
+      ]
+    },
+    "#bababa": {
+      "count": 1,
+      "sources": [
+        "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073"
+      ]
+    }
+  },
+  "font_families": {
+    "Inter": [
+      "https://www.quoizel.com/"
+    ],
+    "area-extended": [
+      "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "https://use.typekit.net/lnn5fwi.css"
+    ],
+    "area-extended-light": [
+      "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "https://use.typekit.net/lnn5fwi.css"
+    ],
+    "area-normal": [
+      "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "https://www.quoizel.com/cdn/shop/t/53/assets/variant-reactive.css?v=100637793981391224611787861073",
+      "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073",
+      "https://use.typekit.net/lnn5fwi.css"
+    ],
+    "area-normal-light": [
+      "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "https://use.typekit.net/lnn5fwi.css"
+    ],
+    "inherit!important": [
+      "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080"
+    ],
+    "ivyora-display": [
+      "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "https://use.typekit.net/lnn5fwi.css"
+    ],
+    "ivyora-text": [
+      "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073",
+      "https://use.typekit.net/lnn5fwi.css"
+    ],
+    "sans-serif": [
+      "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "https://www.quoizel.com/cdn/shop/t/53/assets/variant-reactive.css?v=100637793981391224611787861073",
+      "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073",
+      "https://use.typekit.net/lnn5fwi.css"
+    ],
+    "sans-serif!important": [
+      "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080"
+    ],
+    "serif": [
+      "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073",
+      "https://use.typekit.net/lnn5fwi.css"
+    ],
+    "serif!important": [
+      "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080"
+    ],
+    "swym-icons' !important": [
+      "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.quoizel.com/",
+      "selector": "ndex: 3;\n--menu-drawer-animation-index: 4;\n--menu-drawer-animation-index: 4;\n--menu-drawer-animation-index: 5;\n--menu-drawer-animation-index: 5;\n--menu-drawer-a",
+      "declarations": "--color-submenu: rgb(245 244 242 / 1.0);"
+    },
+    {
+      "source": "https://www.quoizel.com/",
+      "selector": ".header__underlay",
+      "declarations": "--color-submenu: rgb(245 244 242 / 1.0);"
+    },
+    {
+      "source": "https://www.quoizel.com/",
+      "selector": ".header__underlay",
+      "declarations": "--color-submenu: rgb(245 244 242 / 1.0);"
+    },
+    {
+      "source": "https://www.quoizel.com/",
+      "selector": "display: none;\n\n\n\n.swym-advanced-header-icon",
+      "declarations": "position: relative;\n  display: inline-flex;\n  align-items: center;\n  justify-content: center;\n  text-decoration: none;\n  color: inherit;\n  cursor: pointer;\n  transition: opacity 0.2s ease;"
+    },
+    {
+      "source": "https://www.quoizel.com/",
+      "selector": ".swym-header-icon-count",
+      "declarations": "min-width: 18px;\n  height: 18px;\n  padding: 0 5px;\n  font-size: 11px;\n  font-weight: 600;\n  line-height: 18px;\n  text-align: center;\n  color: #fff;\n  background-color: #000;\n  border-radius: 50%;"
+    },
+    {
+      "source": "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "selector": "body",
+      "declarations": "color:var(--color-foreground);background:var(--color-background);display:flex;flex-direction:column;margin:0;min-height:100svh;font-variation-settings:\"slnt\" 0"
+    },
+    {
+      "source": "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "selector": ":root",
+      "declarations": "--hover-lift-amount: 4px;--hover-scale-amount: 1.03;--hover-subtle-zoom-amount: 1.015;--hover-shadow-color: var(--color-shadow);--hover-transition-duration: .25s;--hover-transition-timing: ease-out;--surface-transition-duration: .3s;--surface-transition-timing: var(--ease-out-quad);--submenu-animation-speed: .36s;--submenu-animation-easing: cubic-bezier(.25, .1, .25, 1);--custom-heading-family: \"ivyora-text\",serif"
+    },
+    {
+      "source": "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "selector": ".product-card__content",
+      "declarations": "position:relative;background-color:#fff"
+    },
+    {
+      "source": "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "selector": ".product-card__content slideshow-component",
+      "declarations": "--cursor: pointer"
+    },
+    {
+      "source": "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "selector": "body,.paragraph:not(.button),.paragraph>*,.text-block.paragraph :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-paragraph--family);font-style:var(--font-paragraph--style);font-weight:var(--font-paragraph--weight);font-size:var(--font-paragraph--size);line-height:var(--font-paragraph--line-height);text-transform:var(--font-paragraph--case);-webkit-font-smoothing:antialiased;color:var(--color, var(--color-foreground));font-family:area-normal,sans-serif;font-size:16px;line-height:1.5"
+    },
+    {
+      "source": "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "selector": "h1,.h1.h1,.text-block.h1>*,.text-block.h1 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h1--family);font-style:var(--font-h1--style);font-weight:var(--font-h1--weight);line-height:var(--font-h1--line-height);letter-spacing:var(--font-h1--letter-spacing);text-transform:var(--font-h1--case);color:var(--color, var(--font-h1-color));font-family:ivyora-text,serif;font-weight:400"
+    },
+    {
+      "source": "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "selector": "h2,.h2.h2,.text-block.h2>*,.text-block.h2 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h2--family);font-style:var(--font-h2--style);font-weight:var(--font-h2--weight);font-size:var(--font-h2--size);line-height:var(--font-h2--line-height);letter-spacing:var(--font-h2--letter-spacing);text-transform:var(--font-h2--case);color:var(--color, var(--font-h2-color));font-family:ivyora-text,serif;font-weight:400"
+    },
+    {
+      "source": "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "selector": "h3,.h3,.h3.h3,.text-block.h3>*,.text-block.h3 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h3--family);font-style:var(--font-h3--style);font-weight:var(--font-h3--weight);font-size:var(--font-h3--size);line-height:var(--font-h3--line-height);letter-spacing:var(--font-h3--letter-spacing);text-transform:var(--font-h3--case);color:var(--color, var(--font-h3-color));font-family:ivyora-text,serif;font-weight:400"
+    },
+    {
+      "source": "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "selector": "h4,.h4.h4,.text-block.h4>*,.text-block.h4 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h4--family);font-style:var(--font-h4--style);font-weight:var(--font-h4--weight);font-size:var(--font-h4--size);line-height:var(--font-h4--line-height);letter-spacing:var(--font-h4--letter-spacing);text-transform:var(--font-h4--case);color:var(--color, var(--font-h4-color));font-family:ivyora-text,serif;font-weight:400"
+    },
+    {
+      "source": "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "selector": "h5,.h5.h5,.text-block.h5>*,.text-block.h5 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h5--family);font-style:var(--font-h5--style);font-weight:var(--font-h5--weight);font-size:var(--font-h5--size);line-height:var(--font-h5--line-height);letter-spacing:var(--font-h5--letter-spacing);text-transform:var(--font-h5--case);color:var(--color, var(--font-h5-color));font-family:ivyora-text,serif;font-weight:400;font-size:22px"
+    },
+    {
+      "source": "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "selector": "h6,.h6.h6,.text-block.h6>*,.text-block.h6 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h6--family);font-style:var(--font-h6--style);font-weight:var(--font-h6--weight);font-size:var(--font-h6--size);line-height:var(--font-h6--line-height);letter-spacing:var(--font-h6--letter-spacing);text-transform:var(--font-h6--case);color:var(--color, var(--font-h6-color))"
+    },
+    {
+      "source": "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "selector": ":is(h1,h2,h3,h4,h5,h6,p)>a:hover",
+      "declarations": "--button-color: var(--color, var(--color-primary-hover))"
+    },
+    {
+      "source": "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "selector": "p:not(.h1,.h2,.h3,.h4,.h5,.h6) a:where(:not(.button,.button-secondary)),.rte :is(p,ul,ol,table):not(.h1,.h2,.h3,.h4,.h5,.h6) a:where(:not(.button,.button-second",
+      "declarations": "text-decoration-color:currentcolor"
+    },
+    {
+      "source": "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "selector": ":is(p:not(.h1,.h2,.h3,.h4,.h5,.h6) a:where(:not(.button,.button-secondary)),.rte :is(p,ul,ol,table):not(.h1,.h2,.h3,.h4,.h5,.h6) a:where(:not(.button,.button-se",
+      "declarations": "text-decoration-color:transparent;color:var(--color-primary-hover)"
+    },
+    {
+      "source": "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "selector": ".product-grid__card.product-grid__card",
+      "declarations": "display:flex;flex-flow:column nowrap;gap:var(--product-card-gap);align-items:var(--product-card-alignment);text-decoration:none;color:var(--color, var(--color-foreground));padding-block:var(--padding-block-start) var(--padding-block-end);padding-inline:var(--padding-inline-start) var(--padding-inline-end);overflow:hidden"
+    },
+    {
+      "source": "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "selector": "[product-grid-view=default]",
+      "declarations": "--product-grid-gap: 16px;--padding-block-start: 24px;--padding-block-end: 24px;--padding-inline-start: 0px;--padding-inline-end: 0px"
+    },
+    {
+      "source": "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "selector": "[product-grid-view=zoom-out]",
+      "declarations": "--product-grid-columns-desktop: repeat( 10, minmax(clamp(50px, calc(100% - 9 * var(--product-grid-gap)) / 10, 80px), 1fr) )"
+    },
+    {
+      "source": "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "selector": ".product-grid-view-zoom-out--details .h4,.product-grid-view-zoom-out--details span,.product-grid-view-zoom-out--details s",
+      "declarations": "font-size:var(--font-size--xs);font-family:var(--font-paragraph--family);font-family:area-normal,sans-serif"
+    },
+    {
+      "source": "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "selector": ".button,.button-secondary,button.shopify-payment-button__button--unbranded",
+      "declarations": "--text-align: center;display:grid;align-content:center;text-decoration:none;text-align:var(--text-align);color:var(--button-color);-webkit-appearance:none;appearance:none;background-color:var(--button-background-color);border:none;font-family:var(--font-paragraph--family);font-style:var(--font-paragraph--style);font-weight:var(--font-paragraph--weight);font-size:var(--font-paragraph--size);line-height:var(--font-paragraph--line-height);margin-block:0;cursor:pointer;width:fit-content;box-shadow:inset 0 0 0 var(--button-border-width) var(--button-border-color);padding-block:var(--button-padding-block);padding-inline:var(--button-padding-inline);font-family:area-extended,sans-serif;-webkit-tran"
+    },
+    {
+      "source": "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "selector": ".button",
+      "declarations": "font-family:var(--button-font-family-primary);text-transform:var(--button-text-case-primary);border-radius:var(--style-border-radius-buttons-primary);font-family:area-normal,sans-serif;font-weight:800;letter-spacing:20%;text-transform:uppercase;font-size:10px;padding:15px 50px;-webkit-transform:perspective(1px) translateZ(0);transform:perspective(1px) translateZ(0);overflow:hidden;-webkit-transition-duration:.3s;transition-duration:.3s;-webkit-transition-property:color,background-color;transition-property:color,background-color"
+    },
+    {
+      "source": "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "selector": ".button:not(.button-secondary,.button-unstyled)",
+      "declarations": "outline-color:var(--button-background-color)"
+    },
+    {
+      "source": "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "selector": ".button-secondary",
+      "declarations": "font-family:var(--button-font-family-secondary);text-transform:var(--button-text-case-secondary);border-radius:var(--style-border-radius-buttons-secondary);font-family:var(--button-font-family-primary);text-transform:var(--button-text-case-primary);border-radius:var(--style-border-radius-buttons-primary);font-family:area-normal,sans-serif;font-weight:800;letter-spacing:20%;text-transform:uppercase;font-size:10px;padding:15px 50px;-webkit-transform:perspective(1px) translateZ(0);transform:perspective(1px) translateZ(0);-webkit-transition-duration:.3s;transition-duration:.3s;-webkit-transition-property:color,background-color;transition-property:color,background-color"
+    },
+    {
+      "source": "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "selector": "button.shopify-payment-button__button--unbranded",
+      "declarations": "font-family:var(--button-font-family-primary);text-transform:var(--button-text-case-primary)"
+    },
+    {
+      "source": "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "selector": ".button,button.shopify-payment-button__button--unbranded",
+      "declarations": "--button-color: var(--color-primary-button-text);--button-background-color: var(--color-primary-button-background);--button-border-color: var(--color-primary-button-border);--button-border-width: var(--style-border-width-primary)"
+    },
+    {
+      "source": "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+      "selector": ".button:hover,button.shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "--button-color: var(--color-primary-button-hover-text);--button-background-color: var(--color-primary-button-hover-background);--button-border-color: var(--color-primary-button-hover-border)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Thoughtfully Designed Indoor & Outdoor Lighting | Quoizel",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.quoizel.com/",
+        "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+        "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.quoizel.com/",
+        "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+        "https://www.quoizel.com/cdn/shop/t/53/assets/variant-reactive.css?v=100637793981391224611787861073",
+        "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.quoizel.com/",
+        "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+        "https://www.quoizel.com/cdn/shop/t/53/assets/variant-reactive.css?v=100637793981391224611787861073",
+        "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.quoizel.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.quoizel.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.quoizel.com/",
+        "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+        "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.quoizel.com/",
+        "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+        "https://www.quoizel.com/cdn/shop/t/53/assets/variant-reactive.css?v=100637793981391224611787861073",
+        "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.quoizel.com/",
+        "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+        "https://www.quoizel.com/cdn/shop/t/53/assets/variant-reactive.css?v=100637793981391224611787861073",
+        "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073"
+      ]
+    },
+    "colors.accent-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.quoizel.com/",
+        "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073"
+      ]
+    },
+    "colors.neutral-warm": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.quoizel.com/",
+        "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+        "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073"
+      ]
+    },
+    "colors.navy-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.quoizel.com/"
+      ]
+    },
+    "colors.black": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.quoizel.com/",
+        "https://www.quoizel.com/cdn/shop/t/53/assets/base.css?v=49651272586995195991788110080",
+        "https://www.quoizel.com/cdn/shop/t/53/compiled_assets/styles.css?v=147840905613625035021787861073"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.collection-tile": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    }
+  }
+}

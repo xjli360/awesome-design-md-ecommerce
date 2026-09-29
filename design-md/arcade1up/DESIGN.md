@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Arcade1Up
-description: A neon-lit arcade revival brand that uses deep navy-black (#0d0c1a) as its canvas and a punchy cobalt (#2c56ee) as its primary voltage — the same blue that fires every "Add to Cart" button, PDP accent bar, and category strip. The palette reads like a CRT glow: #006fcf and #3982b6 provide secondary digital depth, while #fb5b75 (a hot pink) cuts through as a limited-edition accent for special-edition cabinets and sale badges. Typography runs Poppins at medium weights (500–600) rather than heavy 700+, letting the product photography — full-bleed cabinet hero shots with neon bezels — carry the visual weight. Buttons are sharp-cornered rectangles (`{rounded.sm}`) with 48px height, a deliberate contrast to the pill-shaped search bars and rounded product cards (`{rounded.md}}`) that soften the experience. The top nav is a fixed 64px bar with a bold logo lockup and category links (Arcade, Pinball, Accessories) in white on the dark canvas, creating a storefront that feels like walking into a Dave & Buster's lobby — bright, loud, and unapologetically nostalgic.
+name: "Arcade1Up"
+source_url: "https://www.arcade1up.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A neon-lit arcade revival brand that uses deep navy-black (#0d0c1a) as its canvas and a punchy cobalt (#2c56ee) as its primary voltage — the same blue that fires every "Add to Cart" button, PDP accent bar, and category strip. The palette reads like a CRT glow: #006fcf and #3982b6 provide secondary digital depth, while #fb5b75 (a hot pink) cuts through as a limited-edition accent for special-edition cabinets and sale badges. Typography runs Poppins at medium weights (500–600) rather than heavy 700+, letting the product photography — full-bleed cabinet hero shots with neon bezels — carry the visual weight. Buttons are sharp-cornered rectangles (`{rounded.sm}`) with 48px height, a deliberate contrast to the pill-shaped search bars and rounded product cards (`{rounded.md}}`) that soften the experience. The top nav is a fixed 64px bar with a bold logo lockup and category links (Arcade, Pinball, Accessories) in white on the dark canvas, creating a storefront that feels like walking into a Dave & Buster's lobby — bright, loud, and unapologetically nostalgic.
 
 colors:
   primary: "#2c56ee"
@@ -389,6 +393,8 @@ components:
 - Accordion sections are collapsed by default on all breakpoints
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for product card badges and footer links were inferred from common patterns; actual hover colors not extracted
 - Error styling for form inputs (validation colors, error messages) not observed on live site

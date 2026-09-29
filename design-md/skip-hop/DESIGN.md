@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Skip Hop
-description: A baby brand that leads with a crisp red #ce0e2d — not a pastel pink or muted sage — as its primary voltage, applied to CTAs, badges, and sale flags against a near-white canvas of #fafbfc. The palette is unusually restrained for the category: three grays (#f0f1f2, #f0eeee, #b1b5b8) handle all structural hierarchy, with a single warm accent #fcf0f2 reserved for hover states and soft backgrounds. Roboto at 400 weight carries body copy, while buttons and navigation use 500 weight for a clean, utilitarian clarity — no hand-drawn type or rounded display faces. Cards use {rounded.sm} (8px) corners, not the pill shapes of consumer marketplaces, and the search bar sits as a simple outlined rectangle rather than a full-radius orb. The brand trusts product photography and clear information hierarchy over decorative flourishes: category navigation is a horizontal strip of text labels, badges are flat rectangles with {rounded.xs} (4px), and the footer collapses into a single-column accordion on mobile. This is a system built for quick scanning by tired parents — high contrast, generous tap targets, and a single red thread that says "click here" without ambiguity.
+name: "Skip Hop"
+source_url: "https://www.skiphop.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A baby brand that leads with a crisp red #ce0e2d — not a pastel pink or muted sage — as its primary voltage, applied to CTAs, badges, and sale flags against a near-white canvas of #fafbfc. The palette is unusually restrained for the category: three grays (#f0f1f2, #f0eeee, #b1b5b8) handle all structural hierarchy, with a single warm accent #fcf0f2 reserved for hover states and soft backgrounds. Roboto at 400 weight carries body copy, while buttons and navigation use 500 weight for a clean, utilitarian clarity — no hand-drawn type or rounded display faces. Cards use {rounded.sm} (8px) corners, not the pill shapes of consumer marketplaces, and the search bar sits as a simple outlined rectangle rather than a full-radius orb. The brand trusts product photography and clear information hierarchy over decorative flourishes: category navigation is a horizontal strip of text labels, badges are flat rectangles with {rounded.xs} (4px), and the footer collapses into a single-column accordion on mobile. This is a system built for quick scanning by tired parents — high contrast, generous tap targets, and a single red thread that says "click here" without ambiguity.
 
 colors:
   primary: "#ce0e2d"
@@ -339,6 +343,8 @@ components:
 - Hero banner reduces vertical padding by 50% on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted hex list is dominated by grays (#f0f1f2, #fafbfc, #f0eeee, #b1b5b8) with only one distinctive accent (#ce0e2d red) and one warm tint (#fcf0f2). The brand's true secondary palette (if any) could not be determined — no greens, blues, or yellows were found beyond the red.
 - Font-family declarations returned only "Roboto, sans-serif". The brand may use a second typeface for display headings or logo, but no evidence was found in the extracted CSS.

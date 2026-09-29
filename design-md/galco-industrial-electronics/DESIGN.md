@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Galco Industrial Electronics
-description: |
+name: "Galco Industrial Electronics"
+source_url: "https://www.galco.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Galco's search bar does the work that a hero image claims on a consumer site — the entire homepage vocabulary pivots on a part-number lookup field, because the buyer arriving at galco.com already knows the Allen-Bradley drive or Siemens PLC they need to source, and they need it confirmed fast. The extracted palette surfaces #313131, a near-charcoal that runs through navigation and structural chrome, asserting industrial authority before the first product thumbnail loads. Typography falls entirely on system stacks — Arial, Roboto, Helvetica Neue — with no proprietary typeface, consistent with a supplier whose credibility derives from 165,000+ SKUs and same-day ship rates rather than brand aesthetics. Information density is high by deliberate choice: part numbers, manufacturer cross-references, datasheet PDFs, and real-time stock counts share a compressed viewport in multi-column tables that would overwhelm a consumer shopper but reads as fluency to a maintenance engineer sourcing a replacement servo drive under production-downtime pressure.
 
   The component grammar trades ornament for utility — minimal {rounded.xs} corners throughout, tight table rows, high-contrast three-state stock badges, and faceted filters tuned for someone who already knows their specification. Navigation runs several layers deep into product family trees — drives, motors, sensors, PLCs, power supplies — with category breadth favored over hero imagery. Calls to action are declarative: "Add to Cart," "Request a Quote," "Check Availability." An accent orange distinct from the primary blue preserves CTA hierarchy between commercial actions and navigation actions, so quote requests never compete visually with browse links.
@@ -406,6 +409,8 @@ components:
 - Product card images scale to 80×80px in mobile list-view; grid-view maintains square aspect at ~47% viewport width
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Palette severely under-extracted**: Cloudflare challenge page blocked live extraction; only #313131 (charcoal ink/nav) was confirmed. All other colors — primary blue, accent orange, surface tones, border values — are inferred from broadly visible Galco brand assets and industrial B2B conventions. Verify every non-ink color against live galco.com DevTools before production use.
 - **No custom typeface detected**: all stacks are system fonts (Arial, Roboto, Helvetica Neue). Galco may serve a licensed typeface via CDN that was not accessible during blocked extraction. Check whether a custom font loads in an authenticated or unblocked session.

@@ -1,0 +1,933 @@
+{
+  "source_url": "https://rhinorack.com",
+  "final_url": "https://www.rhinorack.com/en-us/",
+  "captured_at": "2026-09-28T04:58:42.238530+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://rhinorack.com",
+      "final_url": "https://www.rhinorack.com/en-us/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "b1d1be33659dff4356e81489f795e5bb14b594ba9b759cef24a720a3d5b27702",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "final_url": "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "23c439230e7fce6ba659369843402d7807c16e9419688c86bfbd6b5bf14d3317",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://use.typekit.net/tnp6fmn.css",
+      "final_url": "https://use.typekit.net/tnp6fmn.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "26884757cef36fbdbd6ea33747bb9db8b148392eab63bd9f4a707cac6dc72898",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.rhinorack.com/css/app.css?v=638-1",
+      "final_url": "https://cdn.rhinorack.com/css/app.css?v=638-1",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ea27b26f6f597c70cc57afa37b5dbf4c9b653e35e1e7a853a6cd209e7ee031ba",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 375,
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#005cb9": {
+      "count": 144,
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#000000": {
+      "count": 66,
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#b65b00": {
+      "count": 49,
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#ebebeb": {
+      "count": 47,
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#10181f": {
+      "count": 41,
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#cccccc": {
+      "count": 34,
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 29,
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#212529": {
+      "count": 20,
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#f4c44c": {
+      "count": 18,
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 14,
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#eaeaea": {
+      "count": 14,
+      "sources": [
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#834200": {
+      "count": 12,
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#818181": {
+      "count": 11,
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#1f721f": {
+      "count": 11,
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#4c1a0f": {
+      "count": 10,
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#004386": {
+      "count": 9,
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#007bff": {
+      "count": 8,
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#d8d8d8": {
+      "count": 8,
+      "sources": [
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#025cb9": {
+      "count": 8,
+      "sources": [
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#6c757d": {
+      "count": 6,
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#222222": {
+      "count": 6,
+      "sources": [
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#e74c3c": {
+      "count": 6,
+      "sources": [
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 6,
+      "sources": [
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 6,
+      "sources": [
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#333333": {
+      "count": 5,
+      "sources": [
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#232323": {
+      "count": 5,
+      "sources": [
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#353535": {
+      "count": 5,
+      "sources": [
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 4,
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 4,
+      "sources": [
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#dee2e6": {
+      "count": 4,
+      "sources": [
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 4,
+      "sources": [
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#323232": {
+      "count": 4,
+      "sources": [
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#045bb9": {
+      "count": 4,
+      "sources": [
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#939393": {
+      "count": 4,
+      "sources": [
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#585858": {
+      "count": 4,
+      "sources": [
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#0f1720": {
+      "count": 4,
+      "sources": [
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#888888": {
+      "count": 4,
+      "sources": [
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#28a745": {
+      "count": 3,
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#343a40": {
+      "count": 3,
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 3,
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 3,
+      "sources": [
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#e64e15": {
+      "count": 3,
+      "sources": [
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#898989": {
+      "count": 3,
+      "sources": [
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#f4c44b": {
+      "count": 3,
+      "sources": [
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#e83e8c": {
+      "count": 2,
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#dc3545": {
+      "count": 2,
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1"
+      ]
+    },
+    "#ffc107": {
+      "count": 2,
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1"
+      ]
+    },
+    "#17a2b8": {
+      "count": 2,
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1"
+      ]
+    },
+    "#0056b3": {
+      "count": 2,
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#210b07": {
+      "count": 2,
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1"
+      ]
+    },
+    "#f1b41c": {
+      "count": 2,
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1"
+      ]
+    },
+    "#144a14": {
+      "count": 2,
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1"
+      ]
+    },
+    "#eeeeee": {
+      "count": 2,
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#1660ba": {
+      "count": 2,
+      "sources": [
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#4172b8": {
+      "count": 2,
+      "sources": [
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#1da1f2": {
+      "count": 2,
+      "sources": [
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#bd081c": {
+      "count": 2,
+      "sources": [
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#777777": {
+      "count": 2,
+      "sources": [
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "#4c4c4c": {
+      "count": 2,
+      "sources": [
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://cdn.rhinorack.com/css/top.css?v=638-1"
+    ],
+    "Apple Color Emoji": [
+      "https://cdn.rhinorack.com/css/top.css?v=638-1"
+    ],
+    "Arial": [
+      "https://cdn.rhinorack.com/css/top.css?v=638-1"
+    ],
+    "BlinkMacSystemFont": [
+      "https://cdn.rhinorack.com/css/top.css?v=638-1"
+    ],
+    "Consolas": [
+      "https://cdn.rhinorack.com/css/top.css?v=638-1"
+    ],
+    "Courier New": [
+      "https://cdn.rhinorack.com/css/top.css?v=638-1"
+    ],
+    "Helvetica Neue": [
+      "https://cdn.rhinorack.com/css/top.css?v=638-1"
+    ],
+    "Liberation Mono": [
+      "https://cdn.rhinorack.com/css/top.css?v=638-1"
+    ],
+    "Liberation Sans": [
+      "https://cdn.rhinorack.com/css/top.css?v=638-1"
+    ],
+    "Menlo": [
+      "https://cdn.rhinorack.com/css/top.css?v=638-1"
+    ],
+    "Monaco": [
+      "https://cdn.rhinorack.com/css/top.css?v=638-1"
+    ],
+    "Noto Color Emoji": [
+      "https://cdn.rhinorack.com/css/top.css?v=638-1"
+    ],
+    "Noto Sans": [
+      "https://cdn.rhinorack.com/css/top.css?v=638-1"
+    ],
+    "Roboto": [
+      "https://cdn.rhinorack.com/css/top.css?v=638-1"
+    ],
+    "SFMono-Regular": [
+      "https://cdn.rhinorack.com/css/top.css?v=638-1"
+    ],
+    "Segoe UI": [
+      "https://cdn.rhinorack.com/css/top.css?v=638-1"
+    ],
+    "Segoe UI Emoji": [
+      "https://cdn.rhinorack.com/css/top.css?v=638-1"
+    ],
+    "Segoe UI Symbol": [
+      "https://cdn.rhinorack.com/css/top.css?v=638-1"
+    ],
+    "din-2014": [
+      "https://use.typekit.net/tnp6fmn.css"
+    ],
+    "icons": [
+      "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "https://cdn.rhinorack.com/css/app.css?v=638-1"
+    ],
+    "monospace": [
+      "https://cdn.rhinorack.com/css/top.css?v=638-1"
+    ],
+    "sans-serif": [
+      "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "https://use.typekit.net/tnp6fmn.css"
+    ],
+    "trim-bold": [
+      "https://cdn.rhinorack.com/css/top.css?v=638-1"
+    ],
+    "trim-extrabold": [
+      "https://cdn.rhinorack.com/css/top.css?v=638-1"
+    ],
+    "trim-light": [
+      "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "https://cdn.rhinorack.com/css/app.css?v=638-1"
+    ],
+    "trim-medium": [
+      "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "https://cdn.rhinorack.com/css/app.css?v=638-1"
+    ],
+    "trim-medium!important": [
+      "https://cdn.rhinorack.com/css/app.css?v=638-1"
+    ],
+    "trim-regular": [
+      "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "https://cdn.rhinorack.com/css/app.css?v=638-1"
+    ],
+    "trim-semibold": [
+      "https://cdn.rhinorack.com/css/top.css?v=638-1"
+    ],
+    "trim-thin": [
+      "https://cdn.rhinorack.com/css/top.css?v=638-1"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "selector": ":root",
+      "declarations": "--blue:#007bff;--indigo:#6610f2;--purple:#6f42c1;--pink:#e83e8c;--red:#dc3545;--orange:#fd7e14;--yellow:#ffc107;--green:#28a745;--teal:#20c997;--cyan:#17a2b8;--white:#fff;--gray:#6c757d;--gray-dark:#343a40;--primary:#007bff;--secondary:#6c757d;--success:#28a745;--info:#17a2b8;--warning:#ffc107;--danger:#dc3545;--light:#f8f9fa;--dark:#343a40;--breakpoint-xs:0;--breakpoint-sm:576px;--breakpoint-md:768px;--breakpoint-lg:992px;--breakpoint-xl:1200px;--font-family-sans-serif:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",\"Liberation Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";--font-family-monospace:SFMono-Regul"
+    },
+    {
+      "source": "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "selector": "body",
+      "declarations": "background-color:#fff;color:#212529;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,Liberation Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;font-size:1rem;font-weight:400;line-height:1.5;margin:0;text-align:left"
+    },
+    {
+      "source": "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:inherit;line-height:inherit;margin:0"
+    },
+    {
+      "source": "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "selector": ":root",
+      "declarations": "--earth-v2:#b65b00;--blue-v2:#005cb9;--cream-v2:#818181;--white-v2:#fff;--black-v2:#10181f;--grey-v2:#f6f6f6;--orange-v2:#b65b00;--rock-v2:#4c1a0f;--sand-v2:#f4c44c;--forest-v2:#1f721f"
+    },
+    {
+      "source": "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "selector": ".btn",
+      "declarations": "display:inline-block;font-family:trim-regular;font-size:1rem;padding:12px 30px 10px;text-transform:uppercase"
+    },
+    {
+      "source": "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "selector": ".btn-hover:after",
+      "declarations": "background-color:#303030;transform:scaleX(0);transform-origin:0 50%;transition:transform .15s ease-out"
+    },
+    {
+      "source": "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "selector": ".btn-primary",
+      "declarations": "border:1px solid #b65b00;color:#fff;margin:0 0 10px"
+    },
+    {
+      "source": "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "selector": ".btn-primary:hover",
+      "declarations": "border:1px solid #834200;color:#fff"
+    },
+    {
+      "source": "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "selector": ".btn-primary:before",
+      "declarations": "background-color:#b65b00"
+    },
+    {
+      "source": "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "selector": ".btn-primary:after",
+      "declarations": "background-color:#834200"
+    },
+    {
+      "source": "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "selector": ".btn-primary.btn-blue:hover",
+      "declarations": "border:1px solid #004386;color:#fff"
+    },
+    {
+      "source": "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "selector": ".btn-primary.btn-blue:before",
+      "declarations": "background-color:#005cb9"
+    },
+    {
+      "source": "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "selector": ".btn-primary.btn-blue:after",
+      "declarations": "background-color:#004386"
+    },
+    {
+      "source": "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "selector": ".btn-primary.btn-wishlist",
+      "declarations": "background:#fff;border:1px solid #b65b00;color:#b65b00;text-align:center;width:100%"
+    },
+    {
+      "source": "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "selector": ".btn-primary.btn-wishlist:hover",
+      "declarations": "border:1px solid #834200;color:#fff"
+    },
+    {
+      "source": "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "selector": ".btn-primary.btn-wishlist:before",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "selector": ".btn-primary.btn-wishlist:after",
+      "declarations": "background-color:#834200"
+    },
+    {
+      "source": "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "selector": ".btn-primary.btn-cart,.btn-primary.btn-wishlist-only",
+      "declarations": "border:1px solid #b65b00;color:#fff"
+    },
+    {
+      "source": "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "selector": ".btn-primary.btn-cart:hover,.btn-primary.btn-wishlist-only:hover",
+      "declarations": "border:1px solid #834200;color:#fff"
+    },
+    {
+      "source": "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "selector": ".btn-primary.btn-cart:before,.btn-primary.btn-wishlist-only:before",
+      "declarations": "background-color:#b65b00"
+    },
+    {
+      "source": "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "selector": ".btn-primary.btn-cart:after,.btn-primary.btn-wishlist-only:after",
+      "declarations": "background-color:#834200"
+    },
+    {
+      "source": "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "selector": ".btn-primary.btn-earth:hover",
+      "declarations": "border:1px solid #834200;color:#fff"
+    },
+    {
+      "source": "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "selector": ".btn-primary.btn-earth:before",
+      "declarations": "background-color:#b65b00"
+    },
+    {
+      "source": "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "selector": ".btn-primary.btn-earth:after",
+      "declarations": "background-color:#834200"
+    },
+    {
+      "source": "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "selector": ".btn-primary.btn-rock:hover",
+      "declarations": "border:1px solid #210b07;color:#fff"
+    },
+    {
+      "source": "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "selector": ".btn-primary.btn-rock:before",
+      "declarations": "background-color:#4c1a0f"
+    },
+    {
+      "source": "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "selector": ".btn-primary.btn-rock:after",
+      "declarations": "background-color:#210b07"
+    },
+    {
+      "source": "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "selector": ".btn-primary.btn-sand",
+      "declarations": "border:1px solid #f4c44c;color:#10181f"
+    },
+    {
+      "source": "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "selector": ".btn-primary.btn-sand:hover",
+      "declarations": "border:1px solid #f1b41c;color:#10181f"
+    },
+    {
+      "source": "https://cdn.rhinorack.com/css/top.css?v=638-1",
+      "selector": ".btn-primary.btn-sand:before",
+      "declarations": "background-color:#f4c44c"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Make Space For Adventure | Rhino-Rack US",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "colors.secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "colors.secondary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "colors.accent-sand": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "colors.accent-forest": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "colors.accent-rock": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "colors.focus-ring": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.rhinorack.com/css/top.css?v=638-1",
+        "https://cdn.rhinorack.com/css/app.css?v=638-1"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.fit-finder-widget": {
+      "status": "inferred"
+    }
+  }
+}

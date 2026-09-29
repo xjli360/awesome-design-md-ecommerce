@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Act + Acre
-description: Act + Acre is a haircare brand that redefines scalp wellness through a sophisticated, nature-rooted aesthetic. The brand’s palette is anchored by a serene primary of `#557b97` — a muted slate-blue that evokes calm and clinical precision — paired with a soft, almost dusty secondary of `#aadddd` and warm neutrals like `#ccc3ba` and `#ebe0d5`. This is not a loud, trend-driven beauty brand; it’s a quiet authority. The ink (`#222222`) and body (`#414041`) typography sits on a canvas of `#f6f6f6` or `#fffefb`, with surfaces softened by `#f5f5f5` and `#f3f0ed`. Accents of `#3a79a9` and `#094a6e` add depth, while `#7a9e55` introduces a subtle botanical note. The typography relies on UntitledSans — a clean, modern sans-serif — in medium and regular weights, with ArialBold as a fallback for emphasis. Rounded corners are generous but not pill-like: `{rounded.sm}` (8px) for buttons, `{rounded.md}` (12px) for cards, and `{rounded.full}` (9999px) for badges and avatars. The overall feel is editorial, spa-like, and intentional — every element breathes, with generous spacing (`{spacing.lg}` 24px, `{spacing.xxl}` 48px) and a restrained use of color that lets product photography and clean typography lead. The brand’s signature move is the use of `{colors.primary}` as a subtle but consistent anchor across CTAs, borders, and hover states, creating a cohesive, trustworthy experience.
+name: "Act + Acre"
+source_url: "https://actandacre.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Act + Acre is a haircare brand that redefines scalp wellness through a sophisticated, nature-rooted aesthetic. The brand’s palette is anchored by a serene primary of `#557b97` — a muted slate-blue that evokes calm and clinical precision — paired with a soft, almost dusty secondary of `#aadddd` and warm neutrals like `#ccc3ba` and `#ebe0d5`. This is not a loud, trend-driven beauty brand; it’s a quiet authority. The ink (`#222222`) and body (`#414041`) typography sits on a canvas of `#f6f6f6` or `#fffefb`, with surfaces softened by `#f5f5f5` and `#f3f0ed`. Accents of `#3a79a9` and `#094a6e` add depth, while `#7a9e55` introduces a subtle botanical note. The typography relies on UntitledSans — a clean, modern sans-serif — in medium and regular weights, with ArialBold as a fallback for emphasis. Rounded corners are generous but not pill-like: `{rounded.sm}` (8px) for buttons, `{rounded.md}` (12px) for cards, and `{rounded.full}` (9999px) for badges and avatars. The overall feel is editorial, spa-like, and intentional — every element breathes, with generous spacing (`{spacing.lg}` 24px, `{spacing.xxl}` 48px) and a restrained use of color that lets product photography and clean typography lead. The brand’s signature move is the use of `{colors.primary}` as a subtle but consistent anchor across CTAs, borders, and hover states, creating a cohesive, trustworthy experience.
 
 colors:
   primary: "#557b97"
@@ -322,6 +326,8 @@ components:
 - Search bars may collapse to an icon-only button on mobile, expanding on tap.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for buttons and links beyond primary/active/disabled are not fully extracted (e.g., subtle background tint for secondary buttons, underline for tertiary links).
 - Error styling for form inputs (e.g., red border, error message typography) is not captured.

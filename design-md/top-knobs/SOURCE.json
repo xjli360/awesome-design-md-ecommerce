@@ -1,0 +1,896 @@
+{
+  "source_url": "https://topknobs.com",
+  "final_url": "https://www.topknobs.com/",
+  "captured_at": "2026-09-28T10:14:44.177925+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://topknobs.com",
+      "final_url": "https://www.topknobs.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "b5119f5d0ccc944db6c951ae088a40f183d5b199121be5af1ba9e49810a1e4dc",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/mage/calendar.min.css",
+      "final_url": "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/mage/calendar.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7348aa5d12baa382054d93b9633d86be2a2c6a2ef800bf145f6c67d7c991ed3a",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/customwidget.min.css",
+      "final_url": "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/customwidget.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1a18ae8cd68ee8e43d2df5303669064097a6e880d271312e7a2f5a615861c4c0",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/lightbox.min.css",
+      "final_url": "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/lightbox.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "005c8f41740c813c6e80d2bc45ff510cfe7a9409fe160dc370c095cf394cd53d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/font-awesome.min.css",
+      "final_url": "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/font-awesome.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a5c3038faa75bfefc44a90b9d11f485930f70afb60d0406fbe12b3536f15b27d",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css",
+      "final_url": "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1c4b5113da51bdabc255bc3cc84e91117389d42442c2ddc9c9fa48f02278d14b",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 331,
+      "sources": [
+        "https://www.topknobs.com/",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/mage/calendar.min.css",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/customwidget.min.css",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/lightbox.min.css",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/font-awesome.min.css",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#000000": {
+      "count": 275,
+      "sources": [
+        "https://www.topknobs.com/",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/mage/calendar.min.css",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/customwidget.min.css",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/lightbox.min.css",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#231f20": {
+      "count": 98,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#8f8f8f": {
+      "count": 88,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#6d6e71": {
+      "count": 84,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 78,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/customwidget.min.css",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/lightbox.min.css",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#8b0000": {
+      "count": 52,
+      "sources": [
+        "https://www.topknobs.com/",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#333333": {
+      "count": 49,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/customwidget.min.css",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 30,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#e02b27": {
+      "count": 28,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 27,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/lightbox.min.css",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/font-awesome.min.css",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#e4e4e4": {
+      "count": 26,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#ff5216": {
+      "count": 26,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#999999": {
+      "count": 24,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#4a4a4a": {
+      "count": 24,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 22,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#666666": {
+      "count": 22,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 20,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 18,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/customwidget.min.css",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#c1c1c1": {
+      "count": 17,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/customwidget.min.css",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#757575": {
+      "count": 17,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 16,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#c2c2c2": {
+      "count": 16,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 15,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/customwidget.min.css",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#adadad": {
+      "count": 15,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 14,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#e3e3e3": {
+      "count": 13,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/customwidget.min.css",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#111111": {
+      "count": 13,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/lightbox.min.css",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#737373": {
+      "count": 13,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 12,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/mage/calendar.min.css",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#1979c3": {
+      "count": 12,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#006bb4": {
+      "count": 12,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#575757": {
+      "count": 12,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#d1d1d1": {
+      "count": 12,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#ff5501": {
+      "count": 12,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#777777": {
+      "count": 11,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#ab232b": {
+      "count": 11,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#555555": {
+      "count": 10,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/customwidget.min.css",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/lightbox.min.css",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#1ba1fc": {
+      "count": 10,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#494949": {
+      "count": 8,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#a79d95": {
+      "count": 8,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#949494": {
+      "count": 8,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#858585": {
+      "count": 7,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#efefef": {
+      "count": 6,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/mage/calendar.min.css",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#dadada": {
+      "count": 6,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/mage/calendar.min.css",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 6,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/customwidget.min.css",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#cacaca": {
+      "count": 6,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#d7d7d7": {
+      "count": 6,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#b6272d": {
+      "count": 6,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#cecece": {
+      "count": 5,
+      "sources": [
+        "https://www.topknobs.com/",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#cfcfcf": {
+      "count": 5,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/mage/calendar.min.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 5,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/customwidget.min.css",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#ed8380": {
+      "count": 5,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#fdf0d5": {
+      "count": 5,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#006400": {
+      "count": 5,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#707070": {
+      "count": 5,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#7d7d7d": {
+      "count": 5,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#262626": {
+      "count": 5,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#fea441": {
+      "count": 5,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "#ececec": {
+      "count": 5,
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+    ],
+    "Consolas": [
+      "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+    ],
+    "Courier New": [
+      "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+    ],
+    "Font Awesome 5 Free": [
+      "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+    ],
+    "FontAwesome": [
+      "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/font-awesome.min.css"
+    ],
+    "Helvetica": [
+      "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+    ],
+    "Helvetica Neue": [
+      "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+    ],
+    "Lato": [
+      "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+    ],
+    "Menlo": [
+      "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+    ],
+    "Monaco": [
+      "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+    ],
+    "Mulish": [
+      "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+    ],
+    "Open Sans": [
+      "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+    ],
+    "Perpetua Titling MT": [
+      "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+    ],
+    "font-icons": [
+      "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+    ],
+    "font-icons-sl": [
+      "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+    ],
+    "icons": [
+      "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+    ],
+    "luma-icons": [
+      "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+    ],
+    "magento-icons": [
+      "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+    ],
+    "monospace": [
+      "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+    ],
+    "object-fit: cover": [
+      "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+    ],
+    "pagebuilder-font": [
+      "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+    ],
+    "sans-serif": [
+      "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+    ],
+    "serif": [
+      "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.topknobs.com/",
+      "selector": "#html-body [data-pb-style=L8HKOY1]",
+      "declarations": "width:100%;border-width:2px;border-color:#cecece;display:inline-block"
+    },
+    {
+      "source": "https://www.topknobs.com/",
+      "selector": "#html-body [data-pb-style=W17M6I5]",
+      "declarations": "width:100%;border-width:2px;border-color:#cecece;display:inline-block"
+    },
+    {
+      "source": "https://www.topknobs.com/",
+      "selector": "#html-body [data-pb-style=\"640BE35FF040B\"]",
+      "declarations": "min-height: 600px; padding: 40px; background-color: transparent;"
+    },
+    {
+      "source": "https://www.topknobs.com/",
+      "selector": "#html-body [data-pb-style=\"640BE35FF042F\"]",
+      "declarations": "min-height: 600px; padding: 40px; background-color: transparent;"
+    },
+    {
+      "source": "https://www.topknobs.com/",
+      "selector": "#html-body [data-pb-style=\"640BE35FF0455\"]",
+      "declarations": "min-height: 600px; padding: 40px; background-color: transparent;"
+    },
+    {
+      "source": "https://www.topknobs.com/",
+      "selector": "#html-body [data-pb-style=\"640BE35FF0479\"]",
+      "declarations": "min-height: 600px; padding: 40px; background-color: transparent;"
+    },
+    {
+      "source": "https://www.topknobs.com/",
+      "selector": "#html-body [data-pb-style=\"640BE35FF049D\"]",
+      "declarations": "min-height: 600px; padding: 40px; background-color: transparent;"
+    },
+    {
+      "source": "https://www.topknobs.com/",
+      "selector": "#html-body [data-pb-style=\"640BE35FF04C1\"]",
+      "declarations": "min-height: 600px; padding: 40px; background-color: transparent;"
+    },
+    {
+      "source": "https://www.topknobs.com/",
+      "selector": "#html-body [data-pb-style=\"640BE35FF04E5\"]",
+      "declarations": "min-height: 600px; padding: 40px; background-color: transparent;"
+    },
+    {
+      "source": "https://www.topknobs.com/",
+      "selector": "#html-body [data-pb-style=\"640BE35FF0509\"]",
+      "declarations": "min-height: 600px; padding: 40px; background-color: transparent;"
+    },
+    {
+      "source": "https://www.topknobs.com/",
+      "selector": "#html-body [data-pb-style=\"640BE35FF052D\"]",
+      "declarations": "min-height: 600px; padding: 40px; background-color: transparent;"
+    },
+    {
+      "source": "https://www.topknobs.com/",
+      "selector": "#html-body [data-pb-style=\"640BE35FF0551\"]",
+      "declarations": "min-height: 600px; padding: 40px; background-color: transparent;"
+    },
+    {
+      "source": "https://www.topknobs.com/",
+      "selector": "#html-body [data-pb-style=\"640BE35FF0576\"]",
+      "declarations": "min-height: 600px; padding: 40px; background-color: transparent;"
+    },
+    {
+      "source": "https://www.topknobs.com/",
+      "selector": "#html-body [data-pb-style=\"640BE35FF059A\"]",
+      "declarations": "min-height: 600px; padding: 40px; background-color: transparent;"
+    },
+    {
+      "source": "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/customwidget.min.css",
+      "selector": ".bookcontainer .btn-container button",
+      "declarations": "background:#333;color:#fff;cursor:pointer;display:inline-block;border-radius:2px;font-weight:600;font-size:13px;line-height:1;margin:15px 0 0;padding:10px 15px;box-sizing:border-box;vertical-align:middle;border:none;box-shadow:none;transition:all .5s ease"
+    },
+    {
+      "source": "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/customwidget.min.css",
+      "selector": ".bookcontainer .btn-container button:hover",
+      "declarations": "background:#000;color:#fff"
+    },
+    {
+      "source": "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/customwidget.min.css",
+      "selector": ".modal-popup .bookcontainer .book-inner,.product.info.detailed .bookcontainer .book-inner",
+      "declarations": "padding:0;border:0;background-color:transparent"
+    },
+    {
+      "source": "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/customwidget.min.css",
+      "selector": ".modal-popup .bookcontainer a,.product.info.detailed .bookcontainer a",
+      "declarations": "text-decoration:none;color:#333"
+    },
+    {
+      "source": "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/customwidget.min.css",
+      "selector": ".order-products-toolbar.toolbar.bottom",
+      "declarations": "position:relative;background-color:transparent;border-bottom:1px solid #e9e9e9;border-top:1px solid #e9e9e9;padding:10px 0;margin:40px 0 30px"
+    },
+    {
+      "source": "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/customwidget.min.css",
+      "selector": ".order-products-toolbar.toolbar.bottom .limiter select",
+      "declarations": "background-color:#fff;border:1px solid #ccc;border-radius:0;height:35px;line-height:35px;font-size:14px;padding:0 25px 0 8px;margin:0 5px 0 7px;width:auto;cursor:pointer;text-align:left;box-shadow:none"
+    },
+    {
+      "source": "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/customwidget.min.css",
+      "selector": ".order-products-toolbar.toolbar.bottom .page,.order-products-toolbar.toolbar.bottom .action",
+      "declarations": "text-decoration:none;background:#e5e5e5;font-size:16px;font-weight:400;letter-spacing:normal;color:#333;display:inline-block;padding:0;width:35px;height:35px;line-height:35px;border-radius:0;border:none"
+    },
+    {
+      "source": "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/customwidget.min.css",
+      "selector": ".order-products-toolbar.toolbar.bottom strong.page",
+      "declarations": "background:#333;color:#fff"
+    },
+    {
+      "source": "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/customwidget.min.css",
+      "selector": ".order-products-toolbar.toolbar.bottom .page:hover:not(strong),.order-products-toolbar.toolbar.bottom .action:hover",
+      "declarations": "background:#d9d9d9;color:#333"
+    },
+    {
+      "source": "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/customwidget.min.css",
+      "selector": ".socialBody:before",
+      "declarations": "content:'';width:100%;height:100%;position:absolute;top:0;background-color:rgba(0,0,0,.0.5)"
+    },
+    {
+      "source": "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/customwidget.min.css",
+      "selector": ".socialBody .socialContainer",
+      "declarations": "background-color:#8a8a8a;box-shadow:4px 4px 0px rgba(0,0,0,.7);display:block;width:100%;max-width:630px;position:relative;border-radius:0;padding:20px;margin:0 auto"
+    },
+    {
+      "source": "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/customwidget.min.css",
+      "selector": ".popupCloseButton",
+      "declarations": "color:#fff;cursor:pointer;display:inline-block;font-weight:700;position:absolute;top:10px;right:10px;font-size:25px;line-height:30px;width:30px;height:30px;text-align:center"
+    },
+    {
+      "source": "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/customwidget.min.css",
+      "selector": ".socialBody .sharehead",
+      "declarations": "color:#fff;text-align:left;padding-bottom:20px"
+    },
+    {
+      "source": "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/lightbox.min.css",
+      "selector": "body:before",
+      "declarations": "position:fixed;content:' ';top:0;left:0;width:100%;height:100%;background-color:#000;z-index:-10;opacity:0;transition:opacity .5s,z-index .5s step-end"
+    },
+    {
+      "source": "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css",
+      "selector": "body",
+      "declarations": "color:#000;font-family:'Lato','Helvetica Neue',Helvetica,Arial,sans-serif;font-style:normal;font-weight:400;line-height:1.42857143;font-size:1.4rem"
+    },
+    {
+      "source": "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css",
+      "selector": "h1 small,h2 small,h3 small,h4 small,h5 small,h6 small,h1 .small,h2 .small,h3 .small,h4 .small,h5 .small,h6 .small",
+      "declarations": "color:#000;font-family:'Lato','Helvetica Neue',Helvetica,Arial,sans-serif;font-style:normal;font-weight:400;line-height:1"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "TOP KNOBS | Top Knobs | Home",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.topknobs.com/",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/mage/calendar.min.css",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/customwidget.min.css",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/lightbox.min.css",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/font-awesome.min.css",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/customwidget.min.css",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.topknobs.com/",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/mage/calendar.min.css",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.topknobs.com/",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/mage/calendar.min.css",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/customwidget.min.css",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/lightbox.min.css",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/Magebees_Flipbook/css/font-awesome.min.css",
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "colors.link": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "colors.border-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "colors.disabled": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.topknobs.com/static/version1790318209/frontend/Alpine/topknobs/en_US/css/styles-m.min.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.finish-swatch": {
+      "status": "inferred"
+    }
+  }
+}

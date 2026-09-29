@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Kindra
-description: A deep, confident wineberry (#6e1d46) anchors Kindra's visual identity — a shade that reads as both botanical and clinical, neither pastel-pink nor sterile-white, signaling a brand that treats vaginal health as a serious, beautiful category rather than a whispered embarrassment. The extracted palette is dominated by framework defaults (Bootstrap blues, grays, greens), but that singular wineberry — appearing as the most distinctive non-generic hex — becomes the brand's primary voltage, used across CTAs, section headers, and product badges. The site runs on a clean white canvas with generous vertical spacing, letting product photography and ingredient storytelling breathe. Typography defaults to system fonts (Helvetica Neue, Arial, -apple-system) with no custom brand typeface detected, suggesting a pragmatic, accessible approach that prioritizes legibility over typographic personality. Buttons carry {rounded.sm} corners — soft but not pill-shaped — and the primary CTA in wineberry against white text creates a crisp, authoritative contrast. The overall mood is warm clinical: trustworthy enough for medical claims, warm enough for intimacy. Product cards use {rounded.md} with subtle shadow, while the nav bar stays transparent until scroll, then gains a white background with {colors.hairline} bottom border. The brand's voice in copy is direct, educational, and destigmatizing — the design follows suit, with no gimmicks, no excessive ornament, just clear hierarchy and that one unforgettable wineberry pulse.
+name: "Kindra"
+source_url: "https://ourkindra.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep, confident wineberry (#6e1d46) anchors Kindra's visual identity — a shade that reads as both botanical and clinical, neither pastel-pink nor sterile-white, signaling a brand that treats vaginal health as a serious, beautiful category rather than a whispered embarrassment. The extracted palette is dominated by framework defaults (Bootstrap blues, grays, greens), but that singular wineberry — appearing as the most distinctive non-generic hex — becomes the brand's primary voltage, used across CTAs, section headers, and product badges. The site runs on a clean white canvas with generous vertical spacing, letting product photography and ingredient storytelling breathe. Typography defaults to system fonts (Helvetica Neue, Arial, -apple-system) with no custom brand typeface detected, suggesting a pragmatic, accessible approach that prioritizes legibility over typographic personality. Buttons carry {rounded.sm} corners — soft but not pill-shaped — and the primary CTA in wineberry against white text creates a crisp, authoritative contrast. The overall mood is warm clinical: trustworthy enough for medical claims, warm enough for intimacy. Product cards use {rounded.md} with subtle shadow, while the nav bar stays transparent until scroll, then gains a white background with {colors.hairline} bottom border. The brand's voice in copy is direct, educational, and destigmatizing — the design follows suit, with no gimmicks, no excessive ornament, just clear hierarchy and that one unforgettable wineberry pulse.
 
 colors:
   primary: "#6e1d46"
@@ -329,6 +333,8 @@ components:
 - Multi-step checkout collapses to single-page accordion on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom brand typeface detected; system fonts only (Helvetica Neue, Arial, -apple-system). The brand may use a custom font loaded via JavaScript or a service not captured in the extraction.
 - Extracted hex colors are heavily dominated by Bootstrap framework defaults (blues, grays, greens, reds, yellows). The true brand palette likely includes additional accent colors not captured. The wineberry (#6e1d46) is the most distinctive non-framework color and is used as primary, but secondary brand colors (if any) could not be reliably extracted.

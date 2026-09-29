@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Boomkat
-description: A single hex — #313131 — governs Boomkat’s entire visual identity, a near-black ink that reads as deliberate, archival, and anti-sensational in a category where album covers and artist pages often scream for attention. The site is a dense, text-forward grid built for deep browsing: track titles, label names, and format codes stack in compact rows with minimal imagery, trusting the listener’s knowledge over the visual hook. There are no pill-shaped search bars or soft cards here — corners are sharp ({rounded.none}), spacing is tight ({spacing.sm} between rows), and the primary action is the simple text link that opens a player or adds to cart. The type stack is the system default cascade (-apple-system, Helvetica Neue, Arial, sans-serif), a deliberate refusal of branded typography that keeps the focus on content, not container. White canvas (#ffffff) and a single hairline (#dddddd) provide the only relief from the ink density; the result is a record store that feels like a library — quiet, authoritative, and built for people who already know what they’re looking for. The brand’s signature move is the absence of move: no hero carousel, no gradient, no accent color. Every pixel is subordinate to the catalog.
+name: "Boomkat"
+source_url: "https://www.boomkat.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A single hex — #313131 — governs Boomkat’s entire visual identity, a near-black ink that reads as deliberate, archival, and anti-sensational in a category where album covers and artist pages often scream for attention. The site is a dense, text-forward grid built for deep browsing: track titles, label names, and format codes stack in compact rows with minimal imagery, trusting the listener’s knowledge over the visual hook. There are no pill-shaped search bars or soft cards here — corners are sharp ({rounded.none}), spacing is tight ({spacing.sm} between rows), and the primary action is the simple text link that opens a player or adds to cart. The type stack is the system default cascade (-apple-system, Helvetica Neue, Arial, sans-serif), a deliberate refusal of branded typography that keeps the focus on content, not container. White canvas (#ffffff) and a single hairline (#dddddd) provide the only relief from the ink density; the result is a record store that feels like a library — quiet, authoritative, and built for people who already know what they’re looking for. The brand’s signature move is the absence of move: no hero carousel, no gradient, no accent color. Every pixel is subordinate to the catalog.
 
 colors:
   primary: "#313131"
@@ -345,6 +349,8 @@ components:
 - Filter dropdowns collapse from a horizontal row to a vertical stack on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one hex color (#313131) was extracted from the live site. The remaining colors (white, grays, red for sale badge) are inferred from common web patterns and may not match the exact brand values. The red for sale badges (#d32f2f) is a guess based on standard e-commerce convention.
 - No font-family declarations beyond the system default stack were found. Boomkat may use a custom typeface (e.g., a monospaced or serif font for the logo) that wasn't captured in the extraction.

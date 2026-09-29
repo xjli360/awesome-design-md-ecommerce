@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: The Artling
-description: >-
+name: "The Artling"
+source_url: "https://theartling.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Gold where most contemporary gallery platforms choose institutional black or clinical white, The Artling's #b79b54 brass primary anchors every purchase CTA, filter accent, and navigational emphasis — a warm metallic register that signals accessible connoisseurship rather than auction-house austerity. The double-serif type stack deepens this editorial identity: Addington CF carries display headings and hero callouts at weights 500–700, while Lora handles body copy and artwork descriptions, a pairing borrowed from art-book and catalogue publishing rather than e-commerce convention. Rounded corners are near-absent across the system — artwork cards run `{rounded.none}`, buttons sit at `{rounded.sm}` (4px), and only filter pills use `{rounded.full}` — the geometry stays flat and measured so that photography commands the frame without interference. The canvas is #fdfcfa, a warm off-white that preserves a print-on-paper naturalness without clinical gallery brightness; hairlines draw from #d9d9d9, light enough to divide an artwork grid without competing with the work itself. What most distinguishes The Artling's visual language is a pastel medium-tagging system: each artwork category carries its own hue — #b5dced for photography, #c6e5b8 for sculpture, #ddcee2 for prints, #efe7a5 for works on paper, #f3d6b9 for ceramics, #f6d8d8 for textiles — rendered at `{rounded.full}` as compact pill badges that communicate medium at a glance. Status signals are high-chroma: #890000 marks sold works and #005f16 flags available inventory, both appearing as small flat badges overlaid on the artwork image. Text hierarchy steps through #2b2b2b (ink), #444444 (body), and #747474 (metadata), a restrained three-stop ladder legible across both dense grid views and full-bleed editorial layouts.
 
 colors:
@@ -325,6 +328,8 @@ components:
 - Price filter range inputs collapse into a single trigger chip on narrow viewports
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Meta theme-color not set; primary #b79b54 inferred from dominant extracted hex palette, not confirmed from `<meta>` tag
 - Addington CF is a commercial typeface (Yellow Design Studio); weight variants available (Light 300, Regular 400, Bold 700, ExtraBold 800) not confirmed from extraction — weights assumed from visual hierarchy patterns

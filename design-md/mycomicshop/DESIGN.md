@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: MyComicShop
-description: A dense, inventory-first marketplace built for collectors who know exactly what they want — a tabular grid of back-issue listings, variant covers, and graded slabs that prioritizes information density over editorial whitespace. The palette is utilitarian: a cool off-white canvas (#f5f5f5) that reads like newsprint under fluorescent light, with primary action surfaces in a flat, uninflected blue (#0066c0) that carries the brand’s search, add-to-cart, and checkout buttons. There is no hero imagery, no lifestyle photography — the product is the page, and every square pixel is loaded with a cover thumbnail, price, condition grade, and stock status badge. Typography runs system-native (Arial, Helvetica, sans-serif) at modest sizes — body copy at 13px, captions at 11px — because the interface must fit 20+ line items above the fold on a 1366px screen. Corners are almost entirely square (`{rounded.none}`), with only the rare badge or filter pill taking a 4px radius (`{rounded.xs}`). The search bar is the single most prominent interactive element: a full-width text input with a magnifying-glass icon, sitting below a horizontal category strip (New Arrivals, Back Issues, Variants, etc.) that collapses into a hamburger on mobile. Status badges — "In Stock," "Low Stock," "Sold Out" — use a three-color system: green (#008000) for available, orange (#ff8c00) for warning, red (#d9534f) for sold. The overall feeling is that of a well-organized warehouse catalog rendered in HTML: no friction, no flourish, just the fastest path from query to checkout.
+name: "MyComicShop"
+source_url: "https://www.mycomicshop.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A dense, inventory-first marketplace built for collectors who know exactly what they want — a tabular grid of back-issue listings, variant covers, and graded slabs that prioritizes information density over editorial whitespace. The palette is utilitarian: a cool off-white canvas (#f5f5f5) that reads like newsprint under fluorescent light, with primary action surfaces in a flat, uninflected blue (#0066c0) that carries the brand’s search, add-to-cart, and checkout buttons. There is no hero imagery, no lifestyle photography — the product is the page, and every square pixel is loaded with a cover thumbnail, price, condition grade, and stock status badge. Typography runs system-native (Arial, Helvetica, sans-serif) at modest sizes — body copy at 13px, captions at 11px — because the interface must fit 20+ line items above the fold on a 1366px screen. Corners are almost entirely square (`{rounded.none}`), with only the rare badge or filter pill taking a 4px radius (`{rounded.xs}`). The search bar is the single most prominent interactive element: a full-width text input with a magnifying-glass icon, sitting below a horizontal category strip (New Arrivals, Back Issues, Variants, etc.) that collapses into a hamburger on mobile. Status badges — "In Stock," "Low Stock," "Sold Out" — use a three-color system: green (#008000) for available, orange (#ff8c00) for warning, red (#d9534f) for sold. The overall feeling is that of a well-organized warehouse catalog rendered in HTML: no friction, no flourish, just the fastest path from query to checkout.
 
 colors:
   primary: "#0066c0"
@@ -466,6 +470,8 @@ components:
 - Search bar remains full-width at all breakpoints but loses the filter dropdown on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No extracted hex colors or font families were available from the live site — the palette and typography above are inferred from the brand's category (comic book e-commerce) and common patterns in the space. The primary blue (#0066c0) is a reasonable guess for a comic shop's CTA color but may differ from the actual site.
 - Hover and focus states for all components are estimated — actual site may use different transitions, shadows, or color shifts.

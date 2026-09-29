@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Bond Manufacturing
-description: |
+name: "Bond Manufacturing"
+source_url: "https://www.bondmfg.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Steel geometry frames open flame — Bond Manufacturing's fire pits and patio heaters sit at the precise junction of fabricated metal and outdoor ritual, and the brand's digital identity holds that tension in a high-contrast industrial palette where near-black backgrounds let warm ember tones carry the visual heat. A combustion orange at approximately #e85d04 — the brand's single emotional accent — pulls primary CTAs out of the dark canvas the way a lit fire pit reads against a night yard: one point of warmth surrounded by structural dark. Product edges throughout the UI square off at {rounded.xs} to echo the machined-corner construction of the cast-iron and rolled-steel pieces in the catalog. Filter pills break the pattern by rounding to {rounded.full}, providing a softer visual counterpoint against an otherwise angular category grid.
 
   The buying journey is spec-forward, not lifestyle-aspirational. Homeowners arrive researching BTU output, fuel compatibility, and CSA certification status; the product page surfaces this data early in a tight specification table with uppercase labels in {colors.muted} and generous numerical values in {colors.ink}. Photography exists to show the product operating — fire lit, night setting, outdoor context — rather than to project a fantasy lifestyle. Navigation is catalog-flat across Fire Pits, Patio Heaters, Accessories, and Parts & Support, with no editorial content layer between the landing page and product grids. The Parts & Support section functions as a post-purchase retention surface, with a model-number lookup widget returning replacement burner rings, igniters, and grates — reinforcing the durability promise the hardware specs make upfront.
@@ -372,6 +375,8 @@ components:
 - Parts Finder widget stacks vertically on mobile with full-width input and full-width submit button
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No hex colors were extractable from the live site — all palette values are estimated from outdoor/industrial brand category conventions and fire-product photography norms; the actual primary, accent, and surface values may differ significantly
 - No font stacks were detected — typography falls back to Inter/Helvetica Neue; Bond Manufacturing may use a licensed display or industrial typeface not visible in static extraction

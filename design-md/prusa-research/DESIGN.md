@@ -1,11 +1,15 @@
 ---
 version: alpha
-name: Prusa Research
-description: Orange #fa6831 operates at full saturation across an otherwise controlled dark-and-neutral spectrum — it lands on every primary CTA, every printer-status LED illustration, and every heat-gradient diagram explaining nozzle temperatures on exploded assembly views. The palette runs two distinct registers simultaneously. A light engineering canvas (#f5f6f7 with #e0e0e0 hairlines and #2a2a2a ink) handles product catalog, spec tables, and filament libraries. A near-black production zone (#121212, #2a2a3a) carries immersive hero sections where filament reels and print heads photograph against studio void — the darkness is not decorative; it mimics the enclosed build chamber environment Prusa's printers actually occupy. A second accent voltage, functional green #5ccc3d, operates exclusively in status and availability contexts: live build progress indicators, "In Stock" badges, and online printer health rings. #00c48d provides a teal variant for softer success states, and #00b67a arrives with the Trustpilot review widget — a third-party green that rhymes close enough with Prusa's own success state that no one notices the seam.
+name: "Prusa Research"
+source_url: "https://www.prusa3d.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Orange #fa6831 operates at full saturation across an otherwise controlled dark-and-neutral spectrum — it lands on every primary CTA, every printer-status LED illustration, and every heat-gradient diagram explaining nozzle temperatures on exploded assembly views. The palette runs two distinct registers simultaneously. A light engineering canvas (#f5f6f7 with #e0e0e0 hairlines and #2a2a2a ink) handles product catalog, spec tables, and filament libraries. A near-black production zone (#121212, #2a2a3a) carries immersive hero sections where filament reels and print heads photograph against studio void — the darkness is not decorative; it mimics the enclosed build chamber environment Prusa's printers actually occupy. A second accent voltage, functional green #5ccc3d, operates exclusively in status and availability contexts: live build progress indicators, "In Stock" badges, and online printer health rings. #00c48d provides a teal variant for softer success states, and #00b67a arrives with the Trustpilot review widget — a third-party green that rhymes close enough with Prusa's own success state that no one notices the seam.
 
-Atlas Grotesk carries all type at weights 400–700, a grounded geometric grotesque that reads clearly at 12px spec callouts inside assembly diagrams and scales to 48px section heroes without requiring a separate display face. Line heights run tight — 1.1 to 1.25 for headings — matching the brand's precision-instrument sensibility. Letter-spacing compresses at large sizes, reinforcing technical density rather than airy consumer polish.
+  Atlas Grotesk carries all type at weights 400–700, a grounded geometric grotesque that reads clearly at 12px spec callouts inside assembly diagrams and scales to 48px section heroes without requiring a separate display face. Line heights run tight — 1.1 to 1.25 for headings — matching the brand's precision-instrument sensibility. Letter-spacing compresses at large sizes, reinforcing technical density rather than airy consumer polish.
 
-Corners are nearly flat: {rounded.xs} on inputs and product cards, {rounded.sm} on buttons and badges. There are no pill shapes; the geometry echoes aluminum extrusion profiles. Focus rings collapse to a 2px #fa6831 outline — the only place primary orange appears outside a button. Navigation sits in a 72px utility bar at #2a2a3a with mega-menus for Printers, Filaments, Accessories, and Software, condensed Atlas Grotesk at 14px weight 500. The footer mirrors that dark register with a full ecosystem directory map — information density that Prusa's deeply technical customer base depends on. Error red #ff253a handles destructive states and critical print-failure alerts, completing a three-voltage system: orange for action, green for success, red for failure — the same three states any 3D printer display would show.
+  Corners are nearly flat: {rounded.xs} on inputs and product cards, {rounded.sm} on buttons and badges. There are no pill shapes; the geometry echoes aluminum extrusion profiles. Focus rings collapse to a 2px #fa6831 outline — the only place primary orange appears outside a button. Navigation sits in a 72px utility bar at #2a2a3a with mega-menus for Printers, Filaments, Accessories, and Software, condensed Atlas Grotesk at 14px weight 500. The footer mirrors that dark register with a full ecosystem directory map — information density that Prusa's deeply technical customer base depends on. Error red #ff253a handles destructive states and critical print-failure alerts, completing a three-voltage system: orange for action, green for success, red for failure — the same three states any 3D printer display would show.
 
 colors:
   primary: "#fa6831"
@@ -399,6 +403,8 @@ components:
 - Product card grid: 4-up (wide) → 3-up (desktop) → 2-up (tablet) → 1-up (mobile)
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No explicit disabled-state orange extracted; `primary-disabled` (#f5c4ad) is a derived approximation — confirm against Prusa3D's actual component library
 - `surface-card` (#ffffff) inferred from common e-commerce pattern; extraction returned no explicit pure-white token

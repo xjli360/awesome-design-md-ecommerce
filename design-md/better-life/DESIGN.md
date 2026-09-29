@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Better Life
-description: A marigold-yellow #ffc617 voltage cuts across a near-black #101010 and charcoal #252627 field — a cleaning brand that treats its packaging and site as a kitchen-counter product display rather than a chemical-utility catalog. The yellow appears on primary CTAs, badge accents, and the hero's central graphic element, reading as citrus-clean optimism against the deep ink of the body text and nav. Type runs Jost, a geometric sans-serif with open apertures and a friendly, approachable weight distribution — display sizes sit at moderate 500–600 weights rather than heavy 700+ punches, letting product photography and the brand's signature "Better Ingredient" messaging carry the hierarchy. Cards and buttons use soft 8px radii ({rounded.sm}) that feel sanitary without being clinical; there are no pill-shaped extremes or hard 90-degree corners on interactive elements. The palette includes a muted silver #a7a7a7 for secondary text and hairline borders, a warm gray #606f7b for body copy, and a clean white canvas that makes the yellow and charcoal pop like a well-staged pantry. The Shopify platform underpins a straightforward product-grid layout with category filters, a persistent top nav, and a footer dense with ingredient philosophy and social proof — the design trusts its color contrast and typographic clarity over decorative flourishes.
+name: "Better Life"
+source_url: "https://cleanhappens.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A marigold-yellow #ffc617 voltage cuts across a near-black #101010 and charcoal #252627 field — a cleaning brand that treats its packaging and site as a kitchen-counter product display rather than a chemical-utility catalog. The yellow appears on primary CTAs, badge accents, and the hero's central graphic element, reading as citrus-clean optimism against the deep ink of the body text and nav. Type runs Jost, a geometric sans-serif with open apertures and a friendly, approachable weight distribution — display sizes sit at moderate 500–600 weights rather than heavy 700+ punches, letting product photography and the brand's signature "Better Ingredient" messaging carry the hierarchy. Cards and buttons use soft 8px radii ({rounded.sm}) that feel sanitary without being clinical; there are no pill-shaped extremes or hard 90-degree corners on interactive elements. The palette includes a muted silver #a7a7a7 for secondary text and hairline borders, a warm gray #606f7b for body copy, and a clean white canvas that makes the yellow and charcoal pop like a well-staged pantry. The Shopify platform underpins a straightforward product-grid layout with category filters, a persistent top nav, and a footer dense with ingredient philosophy and social proof — the design trusts its color contrast and typographic clarity over decorative flourishes.
 
 colors:
   primary: "#ffc617"
@@ -294,6 +298,8 @@ components:
 - Category filter tabs collapse into a horizontal scrollable strip on mobile, with no wrapping.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted font list includes `opw-*` font-family declarations (likely from a Shopify app or widget) — these are not part of the brand's core typography and have been excluded. The primary brand font is Jost.
 - Hover and focus states for all components were inferred from common patterns; actual extracted hover colors are not available.

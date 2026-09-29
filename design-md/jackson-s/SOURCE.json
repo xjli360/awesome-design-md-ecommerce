@@ -1,0 +1,651 @@
+{
+  "source_url": "https://jacksonschips.com",
+  "final_url": "https://snackjacksons.com/",
+  "captured_at": "2026-09-29T03:55:22.714548+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://jacksonschips.com",
+      "final_url": "https://snackjacksons.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "2ae8831d75bb332af5cd05120eb4abf54f99295fff5457804c9934e017d8f885",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://snackjacksons.com/cdn/shop/t/186/assets/base.css?v=63250606474197094941784702737",
+      "final_url": "https://snackjacksons.com/cdn/shop/t/186/assets/base.css?v=63250606474197094941784702737",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a9d3db7da36753d299831ee6fcb2caf00a521da54a43eb7175c67689f7af4035",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Liter&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Liter&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "7d2d3975964ace2802e417897868779b11c86d03f132d0b21e7610704cbbc086",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://snackjacksons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://snackjacksons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://snackjacksons.com/cdn/shop/t/186/compiled_assets/styles.css?v=107797726792444441101789646248",
+      "final_url": "https://snackjacksons.com/cdn/shop/t/186/compiled_assets/styles.css?v=107797726792444441101789646248",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "93b073ed4e090358aa0703600312f2cf466f3f842e939f75dc6f3b6ab9381d26",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://snackjacksons.com/cdn/shop/t/186/assets/overflow-list.css?v=168694168152117541881778052896",
+      "final_url": "https://snackjacksons.com/cdn/shop/t/186/assets/overflow-list.css?v=168694168152117541881778052896",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "12e683f565ce3944a27c799af531b05a93cc8e71bc6fa5c52775d758b3f0a73c",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 56,
+      "sources": [
+        "https://snackjacksons.com/",
+        "https://snackjacksons.com/cdn/shop/t/186/assets/base.css?v=63250606474197094941784702737",
+        "https://snackjacksons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://snackjacksons.com/cdn/shop/t/186/compiled_assets/styles.css?v=107797726792444441101789646248"
+      ]
+    },
+    "#b1202b": {
+      "count": 44,
+      "sources": [
+        "https://snackjacksons.com/",
+        "https://snackjacksons.com/cdn/shop/t/186/compiled_assets/styles.css?v=107797726792444441101789646248"
+      ]
+    },
+    "#592e2c": {
+      "count": 35,
+      "sources": [
+        "https://snackjacksons.com/",
+        "https://snackjacksons.com/cdn/shop/t/186/compiled_assets/styles.css?v=107797726792444441101789646248"
+      ]
+    },
+    "#000000": {
+      "count": 28,
+      "sources": [
+        "https://snackjacksons.com/",
+        "https://snackjacksons.com/cdn/shop/t/186/assets/base.css?v=63250606474197094941784702737",
+        "https://snackjacksons.com/cdn/shop/t/186/compiled_assets/styles.css?v=107797726792444441101789646248"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 6,
+      "sources": [
+        "https://snackjacksons.com/"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 6,
+      "sources": [
+        "https://snackjacksons.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 5,
+      "sources": [
+        "https://snackjacksons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://snackjacksons.com/cdn/shop/t/186/compiled_assets/styles.css?v=107797726792444441101789646248"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 4,
+      "sources": [
+        "https://snackjacksons.com/",
+        "https://snackjacksons.com/cdn/shop/t/186/compiled_assets/styles.css?v=107797726792444441101789646248"
+      ]
+    },
+    "#cde53e": {
+      "count": 3,
+      "sources": [
+        "https://snackjacksons.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 3,
+      "sources": [
+        "https://snackjacksons.com/"
+      ]
+    },
+    "#dbdbdb": {
+      "count": 2,
+      "sources": [
+        "https://snackjacksons.com/"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://snackjacksons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#8b0000": {
+      "count": 1,
+      "sources": [
+        "https://snackjacksons.com/"
+      ]
+    },
+    "#006400": {
+      "count": 1,
+      "sources": [
+        "https://snackjacksons.com/"
+      ]
+    },
+    "#3ed660": {
+      "count": 1,
+      "sources": [
+        "https://snackjacksons.com/"
+      ]
+    },
+    "#ee9441": {
+      "count": 1,
+      "sources": [
+        "https://snackjacksons.com/"
+      ]
+    },
+    "#c8c8c8": {
+      "count": 1,
+      "sources": [
+        "https://snackjacksons.com/"
+      ]
+    },
+    "#bababa": {
+      "count": 1,
+      "sources": [
+        "https://snackjacksons.com/"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://snackjacksons.com/cdn/shop/t/186/assets/base.css?v=63250606474197094941784702737"
+      ]
+    },
+    "#00000066": {
+      "count": 1,
+      "sources": [
+        "https://snackjacksons.com/cdn/shop/t/186/assets/base.css?v=63250606474197094941784702737"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://snackjacksons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://snackjacksons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://snackjacksons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000014": {
+      "count": 1,
+      "sources": [
+        "https://snackjacksons.com/cdn/shop/t/186/compiled_assets/styles.css?v=107797726792444441101789646248"
+      ]
+    },
+    "#53302c": {
+      "count": 1,
+      "sources": [
+        "https://snackjacksons.com/cdn/shop/t/186/compiled_assets/styles.css?v=107797726792444441101789646248"
+      ]
+    },
+    "#00000040": {
+      "count": 1,
+      "sources": [
+        "https://snackjacksons.com/cdn/shop/t/186/compiled_assets/styles.css?v=107797726792444441101789646248"
+      ]
+    },
+    "#00000080": {
+      "count": 1,
+      "sources": [
+        "https://snackjacksons.com/cdn/shop/t/186/compiled_assets/styles.css?v=107797726792444441101789646248"
+      ]
+    },
+    "#fafafa": {
+      "count": 1,
+      "sources": [
+        "https://snackjacksons.com/cdn/shop/t/186/compiled_assets/styles.css?v=107797726792444441101789646248"
+      ]
+    }
+  },
+  "font_families": {
+    "Caveat": [
+      "https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Liter&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+    ],
+    "Liter": [
+      "https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Liter&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+    ],
+    "Montserrat": [
+      "https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Liter&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+    ],
+    "Poppins": [
+      "https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Liter&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+    ],
+    "Sink": [
+      "https://snackjacksons.com/"
+    ],
+    "inherit!important": [
+      "https://snackjacksons.com/cdn/shop/t/186/compiled_assets/styles.css?v=107797726792444441101789646248"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://snackjacksons.com/",
+      "selector": "30px;\n    --button-size-md: 36px;\n    --button-size: var(--minimum-touch-target);\n    --button-padding-inline: 0.875rem;\n    --button-padding-block: 0.875rem;\n ",
+      "declarations": "--button-padding-inline: 2.5rem;"
+    },
+    {
+      "source": "https://snackjacksons.com/",
+      "selector": ":root",
+      "declarations": "--color-scheme-1-background: rgb(255 255 255 / 1.0);\n        --color-scheme-1-background-rgb: 255 255 255;\n        --color-scheme-1-foreground-heading-rgb: 177 32 43;\n        --color-scheme-1-input-background: rgb(255 255 255 / 0.78);\n        --color-scheme-1-input-border: rgb(177 32 43 / 1.0);\n        --color-scheme-1-input-hover-background: rgb(0 0 0 / 0.01);"
+    },
+    {
+      "source": "https://snackjacksons.com/",
+      "selector": ":root",
+      "declarations": "--color-scheme-3-background: rgb(205 229 62 / 1.0);\n        --color-scheme-3-background-rgb: 205 229 62;"
+    },
+    {
+      "source": "https://snackjacksons.com/",
+      "selector": ":root",
+      "declarations": "--color-scheme-4-background: rgb(242 242 242 / 1.0);"
+    },
+    {
+      "source": "https://snackjacksons.com/",
+      "selector": "body, .color-scheme-1, .color-scheme-2, .color-scheme-3, .color-scheme-4",
+      "declarations": "color: var(--color-foreground);\n    background-color: var(--color-background);"
+    },
+    {
+      "source": "https://snackjacksons.com/",
+      "selector": "olor: rgb(var(--color-foreground-rgb) /\n    var(--opacity-subdued-text));\n  \n\n--menu-image-border-radius: 0px;\ncolumn-count: 1;\n\n  [data-menu-grid-id=\"MegaMenuL",
+      "declarations": "--menu-columns-desktop: 6;\n    --menu-columns-tablet: 4;"
+    },
+    {
+      "source": "https://snackjacksons.com/",
+      "selector": "[data-menu-list-id=\"MegaMenuList-ATmxiSXFwS3JrSWRhN__header-menu-1\"]",
+      "declarations": "--menu-columns-desktop: 6;\n    --menu-columns-tablet: 4;"
+    },
+    {
+      "source": "https://snackjacksons.com/",
+      "selector": "ild-active-font-color: rgb(var(--color-foreground-rgb) /\n    var(--opacity-subdued-text));\n  \n\n--menu-image-border-radius: 0px;\n\n  [data-menu-grid-id=\"MegaMenuL",
+      "declarations": "--menu-columns-desktop: 6;\n    --menu-columns-tablet: 4;"
+    },
+    {
+      "source": "https://snackjacksons.com/",
+      "selector": "[data-menu-list-id=\"MegaMenuList-ATmxiSXFwS3JrSWRhN__header-menu-2\"]",
+      "declarations": "--menu-columns-desktop: 6;\n    --menu-columns-tablet: 4;"
+    },
+    {
+      "source": "https://snackjacksons.com/",
+      "selector": "-font-color: rgb(var(--color-foreground-rgb) /\n    var(--opacity-subdued-text));\n  \n\n--menu-image-border-radius: 0px;\n\n  [data-menu-grid-id=\"MegaMenuList-AM3VwT",
+      "declarations": "--menu-columns-desktop: 6;\n    --menu-columns-tablet: 4;"
+    },
+    {
+      "source": "https://snackjacksons.com/",
+      "selector": "[data-menu-list-id=\"MegaMenuList-AM3VwTDFqam0wYmZjb__header-menu-secondary-2\"]",
+      "declarations": "--menu-columns-desktop: 6;\n    --menu-columns-tablet: 4;"
+    },
+    {
+      "source": "https://snackjacksons.com/",
+      "selector": "t:0px; --padding-inline-end:0px; \n\n    \n--color: var(--color-foreground-heading);\n    --width: fit-content;\n    --max-width: var(--max-width--body-normal);\n    ",
+      "declarations": "--text-block-decoration-1-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-1.png?v=68967555643510999491778052895');\n    --text-block-decoration-2-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-2.png?v=165474113480254726591778052895');"
+    },
+    {
+      "source": "https://snackjacksons.com/",
+      "selector": "ing-block-end:0px; \n--padding-inline-start:0px; --padding-inline-end:0px; \n\n    \n\n    --width: fit-content;\n    --max-width: var(--max-width--body-normal);\n    ",
+      "declarations": "--text-block-decoration-1-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-1.png?v=68967555643510999491778052895');\n    --text-block-decoration-2-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-2.png?v=165474113480254726591778052895');"
+    },
+    {
+      "source": "https://snackjacksons.com/",
+      "selector": "x; --padding-inline-end:0px; \n\n    \n--weight: 600;\n    --width: 100%;\n    --max-width: var(--max-width--body-normal);\n    \n    \n      --text-align: left;\n      ",
+      "declarations": "--text-block-decoration-1-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-1.png?v=68967555643510999491778052895');\n    --text-block-decoration-2-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-2.png?v=165474113480254726591778052895');"
+    },
+    {
+      "source": "https://snackjacksons.com/",
+      "selector": "x; --padding-inline-end:0px; \n\n    \n--weight: 600;\n    --width: 100%;\n    --max-width: var(--max-width--body-normal);\n    \n    \n      --text-align: left;\n      ",
+      "declarations": "--text-block-decoration-1-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-1.png?v=68967555643510999491778052895');\n    --text-block-decoration-2-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-2.png?v=165474113480254726591778052895');"
+    },
+    {
+      "source": "https://snackjacksons.com/",
+      "selector": "x; --padding-inline-end:0px; \n\n    \n--weight: 600;\n    --width: 100%;\n    --max-width: var(--max-width--body-normal);\n    \n    \n      --text-align: left;\n      ",
+      "declarations": "--text-block-decoration-1-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-1.png?v=68967555643510999491778052895');\n    --text-block-decoration-2-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-2.png?v=165474113480254726591778052895');"
+    },
+    {
+      "source": "https://snackjacksons.com/",
+      "selector": "x; --padding-inline-end:0px; \n\n    \n--weight: 600;\n    --width: 100%;\n    --max-width: var(--max-width--body-normal);\n    \n    \n      --text-align: left;\n      ",
+      "declarations": "--text-block-decoration-1-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-1.png?v=68967555643510999491778052895');\n    --text-block-decoration-2-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-2.png?v=165474113480254726591778052895');"
+    },
+    {
+      "source": "https://snackjacksons.com/",
+      "selector": "--color: var(--color-foreground-heading);\n    --width: 100%;\n    --max-width: var(--max-width--body-normal);\n    \n    \n      --text-align: center;\n      \n    \n ",
+      "declarations": "--text-block-decoration-1-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-1.png?v=68967555643510999491778052895');\n    --text-block-decoration-2-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-2.png?v=165474113480254726591778052895');"
+    },
+    {
+      "source": "https://snackjacksons.com/",
+      "selector": "ine-start:0px; --padding-inline-end:0px; \n\n    \n--color: var(--color-foreground);\n    --width: fit-content;\n    --max-width: var(--max-width--body-normal);\n    ",
+      "declarations": "--text-block-decoration-1-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-1.png?v=68967555643510999491778052895');\n    --text-block-decoration-2-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-2.png?v=165474113480254726591778052895');"
+    },
+    {
+      "source": "https://snackjacksons.com/",
+      "selector": "ine-start:0px; --padding-inline-end:0px; \n\n    \n--color: var(--color-foreground);\n    --width: fit-content;\n    --max-width: var(--max-width--body-normal);\n    ",
+      "declarations": "--text-block-decoration-1-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-1.png?v=68967555643510999491778052895');\n    --text-block-decoration-2-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-2.png?v=165474113480254726591778052895');"
+    },
+    {
+      "source": "https://snackjacksons.com/",
+      "selector": "ine-start:0px; --padding-inline-end:0px; \n\n    \n--color: var(--color-foreground);\n    --width: fit-content;\n    --max-width: var(--max-width--body-normal);\n    ",
+      "declarations": "--text-block-decoration-1-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-1.png?v=68967555643510999491778052895');\n    --text-block-decoration-2-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-2.png?v=165474113480254726591778052895');"
+    },
+    {
+      "source": "https://snackjacksons.com/",
+      "selector": "ine-start:0px; --padding-inline-end:0px; \n\n    \n--color: var(--color-foreground);\n    --width: fit-content;\n    --max-width: var(--max-width--body-normal);\n    ",
+      "declarations": "--text-block-decoration-1-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-1.png?v=68967555643510999491778052895');\n    --text-block-decoration-2-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-2.png?v=165474113480254726591778052895');"
+    },
+    {
+      "source": "https://snackjacksons.com/",
+      "selector": "ine-start:0px; --padding-inline-end:0px; \n\n    \n--color: var(--color-foreground);\n    --width: fit-content;\n    --max-width: var(--max-width--body-normal);\n    ",
+      "declarations": "--text-block-decoration-1-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-1.png?v=68967555643510999491778052895');\n    --text-block-decoration-2-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-2.png?v=165474113480254726591778052895');"
+    },
+    {
+      "source": "https://snackjacksons.com/",
+      "selector": "r: var(--color-foreground);--weight: 600;--font-family: var(--font-body--family);\n    --width: fit-content;\n    --max-width: var(--max-width--body-normal);\n    ",
+      "declarations": "--text-block-decoration-1-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-1.png?v=68967555643510999491778052895');\n    --text-block-decoration-2-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-2.png?v=165474113480254726591778052895');"
+    },
+    {
+      "source": "https://snackjacksons.com/",
+      "selector": "ine-start:0px; --padding-inline-end:0px; \n\n    \n--color: var(--color-foreground);\n    --width: fit-content;\n    --max-width: var(--max-width--body-normal);\n    ",
+      "declarations": "--text-block-decoration-1-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-1.png?v=68967555643510999491778052895');\n    --text-block-decoration-2-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-2.png?v=165474113480254726591778052895');"
+    },
+    {
+      "source": "https://snackjacksons.com/",
+      "selector": "--padding-inline-end:0px; \n\n    \n--color: var(--color-foreground);--weight: 600;\n    --width: fit-content;\n    --max-width: var(--max-width--body-normal);\n    \n",
+      "declarations": "--text-block-decoration-1-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-1.png?v=68967555643510999491778052895');\n    --text-block-decoration-2-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-2.png?v=165474113480254726591778052895');"
+    },
+    {
+      "source": "https://snackjacksons.com/",
+      "selector": "-inline-start:0px; --padding-inline-end:0px; \n\n    \n\n    --width: 100%;\n    --max-width: var(--max-width--body-none);\n    \n    \n      --text-align: left;\n      ",
+      "declarations": "--text-block-decoration-1-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-1.png?v=68967555643510999491778052895');\n    --text-block-decoration-2-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-2.png?v=165474113480254726591778052895');"
+    },
+    {
+      "source": "https://snackjacksons.com/",
+      "selector": "t:0px; --padding-inline-end:0px; \n\n    \n--color: var(--color-foreground-heading);\n    --width: fit-content;\n    --max-width: var(--max-width--body-normal);\n    ",
+      "declarations": "--text-block-decoration-1-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-1.png?v=68967555643510999491778052895');\n    --text-block-decoration-2-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-2.png?v=165474113480254726591778052895');"
+    },
+    {
+      "source": "https://snackjacksons.com/",
+      "selector": "--padding-inline-end:0px; \n\n    \n--weight: 600;\n    --width: 100%;\n    --max-width: var(--max-width--body-normal);\n    \n    \n      --text-align: center;\n      \n",
+      "declarations": "--text-block-decoration-1-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-1.png?v=68967555643510999491778052895');\n    --text-block-decoration-2-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-2.png?v=165474113480254726591778052895');"
+    },
+    {
+      "source": "https://snackjacksons.com/",
+      "selector": "--padding-inline-end:0px; \n\n    \n--weight: 600;\n    --width: 100%;\n    --max-width: var(--max-width--body-normal);\n    \n    \n      --text-align: center;\n      \n",
+      "declarations": "--text-block-decoration-1-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-1.png?v=68967555643510999491778052895');\n    --text-block-decoration-2-mask-image: url('//snackjacksons.com/cdn/shop/t/186/assets/text-dec-2.png?v=165474113480254726591778052895');"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Jackson's | Avocado Oil Kettle Chips, Sweet Potato Chips, Super Veggie",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://snackjacksons.com/",
+        "https://snackjacksons.com/cdn/shop/t/186/compiled_assets/styles.css?v=107797726792444441101789646248"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://snackjacksons.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://snackjacksons.com/",
+        "https://snackjacksons.com/cdn/shop/t/186/assets/base.css?v=63250606474197094941784702737",
+        "https://snackjacksons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://snackjacksons.com/cdn/shop/t/186/compiled_assets/styles.css?v=107797726792444441101789646248"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://snackjacksons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://snackjacksons.com/cdn/shop/t/186/assets/base.css?v=63250606474197094941784702737"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://snackjacksons.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://snackjacksons.com/",
+        "https://snackjacksons.com/cdn/shop/t/186/compiled_assets/styles.css?v=107797726792444441101789646248"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://snackjacksons.com/cdn/shop/t/186/compiled_assets/styles.css?v=107797726792444441101789646248"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://snackjacksons.com/",
+        "https://snackjacksons.com/cdn/shop/t/186/assets/base.css?v=63250606474197094941784702737",
+        "https://snackjacksons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://snackjacksons.com/cdn/shop/t/186/compiled_assets/styles.css?v=107797726792444441101789646248"
+      ]
+    },
+    "colors.accent-lime": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://snackjacksons.com/"
+      ]
+    },
+    "colors.accent-brown": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://snackjacksons.com/",
+        "https://snackjacksons.com/cdn/shop/t/186/compiled_assets/styles.css?v=107797726792444441101789646248"
+      ]
+    },
+    "colors.accent-orange": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://snackjacksons.com/"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://snackjacksons.com/"
+      ]
+    },
+    "colors.success-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://snackjacksons.com/"
+      ]
+    },
+    "colors.error": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://snackjacksons.com/"
+      ]
+    },
+    "colors.link": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://snackjacksons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.link-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://snackjacksons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.subscription-card": {
+      "status": "inferred"
+    }
+  }
+}

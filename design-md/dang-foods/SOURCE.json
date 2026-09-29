@@ -1,0 +1,497 @@
+{
+  "source_url": "https://dangfoods.com",
+  "final_url": "https://dangfoods.com/",
+  "captured_at": "2026-09-28T10:03:53.124320+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://dangfoods.com",
+      "final_url": "https://dangfoods.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "8c3d1a1367d23962da57a99800445af3b016d7436cdff6c0b223d721bc086647",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://dangfoods.com/cdn/shop/t/34/assets/reset.css?v=9734485059468950101583429868",
+      "final_url": "https://dangfoods.com/cdn/shop/t/34/assets/reset.css?v=9734485059468950101583429868",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a9bb43873ffe2b507cdcc66f53fb4e4b7613ef7717a2a6c9c267bbd1ebfa2812",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://dangfoods.com/cdn/shop/t/34/assets/normalize.css?v=156817322557505942751583429868",
+      "final_url": "https://dangfoods.com/cdn/shop/t/34/assets/normalize.css?v=156817322557505942751583429868",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9f97834955f60eec08e1b8c648cbddbdc0ea854eb5e2e713a81ee36fb1760cd8",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://dangfoods.com/cdn/shop/t/34/assets/fonts.css?v=138696621066757127501583429841",
+      "final_url": "https://dangfoods.com/cdn/shop/t/34/assets/fonts.css?v=138696621066757127501583429841",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "44016ae0e42e9f0bae289bb84bf34a51b975d1ef9dfd56b7ecc0906dd2c2ad58",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/ionicons/4.1.2//css/ionicons.min.css",
+      "final_url": "https://cdnjs.cloudflare.com/ajax/libs/ionicons/4.1.2//css/ionicons.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "2b31c1b9cb92f1b0c6b8085c8561074beb1272afcc2f2cf70bf517e90994050a",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0//css/font-awesome.css",
+      "final_url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0//css/font-awesome.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "36e0a7e08bee65774168528938072c536437669c1b7458ac77976ec788e4439c",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffb500": {
+      "count": 22,
+      "sources": [
+        "https://dangfoods.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 8,
+      "sources": [
+        "https://dangfoods.com/",
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0//css/font-awesome.css"
+      ]
+    },
+    "#289848": {
+      "count": 6,
+      "sources": [
+        "https://dangfoods.com/"
+      ]
+    },
+    "#f51374": {
+      "count": 6,
+      "sources": [
+        "https://dangfoods.com/"
+      ]
+    },
+    "#e35205": {
+      "count": 4,
+      "sources": [
+        "https://dangfoods.com/"
+      ]
+    },
+    "#aadddd": {
+      "count": 2,
+      "sources": [
+        "https://dangfoods.com/"
+      ]
+    },
+    "#c4cdd5": {
+      "count": 1,
+      "sources": [
+        "https://dangfoods.com/"
+      ]
+    },
+    "#161d25": {
+      "count": 1,
+      "sources": [
+        "https://dangfoods.com/"
+      ]
+    },
+    "#849bb6": {
+      "count": 1,
+      "sources": [
+        "https://dangfoods.com/"
+      ]
+    },
+    "#b5d05d": {
+      "count": 1,
+      "sources": [
+        "https://dangfoods.com/"
+      ]
+    },
+    "#e793b7": {
+      "count": 1,
+      "sources": [
+        "https://dangfoods.com/"
+      ]
+    },
+    "#dd4504": {
+      "count": 1,
+      "sources": [
+        "https://dangfoods.com/"
+      ]
+    },
+    "#ffff00": {
+      "count": 1,
+      "sources": [
+        "https://dangfoods.com/cdn/shop/t/34/assets/normalize.css?v=156817322557505942751583429868"
+      ]
+    },
+    "#000000": {
+      "count": 1,
+      "sources": [
+        "https://dangfoods.com/cdn/shop/t/34/assets/normalize.css?v=156817322557505942751583429868"
+      ]
+    },
+    "#c0c0c0": {
+      "count": 1,
+      "sources": [
+        "https://dangfoods.com/cdn/shop/t/34/assets/normalize.css?v=156817322557505942751583429868"
+      ]
+    },
+    "#eeeeee": {
+      "count": 1,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0//css/font-awesome.css"
+      ]
+    }
+  },
+  "font_families": {
+    "FontAwesome": [
+      "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0//css/font-awesome.css"
+    ],
+    "Hvd fonts brandon printed one": [
+      "https://dangfoods.com/cdn/shop/t/34/assets/fonts.css?v=138696621066757127501583429841"
+    ],
+    "Hvd fonts brandongrotesque": [
+      "https://dangfoods.com/cdn/shop/t/34/assets/fonts.css?v=138696621066757127501583429841"
+    ],
+    "Ionicons": [
+      "https://cdnjs.cloudflare.com/ajax/libs/ionicons/4.1.2//css/ionicons.min.css"
+    ],
+    "Knockout 26": [
+      "https://dangfoods.com/cdn/shop/t/34/assets/fonts.css?v=138696621066757127501583429841"
+    ],
+    "Knockout 27": [
+      "https://dangfoods.com/cdn/shop/t/34/assets/fonts.css?v=138696621066757127501583429841"
+    ],
+    "Knockout 28": [
+      "https://dangfoods.com/cdn/shop/t/34/assets/fonts.css?v=138696621066757127501583429841"
+    ],
+    "Knockout 29": [
+      "https://dangfoods.com/cdn/shop/t/34/assets/fonts.css?v=138696621066757127501583429841"
+    ],
+    "Knockout 30": [
+      "https://dangfoods.com/cdn/shop/t/34/assets/fonts.css?v=138696621066757127501583429841"
+    ],
+    "Monotype sst thai": [
+      "https://dangfoods.com/cdn/shop/t/34/assets/fonts.css?v=138696621066757127501583429841"
+    ],
+    "brandonGrotesque-black": [
+      "https://dangfoods.com/"
+    ],
+    "brandonGrotesque-bold": [
+      "https://dangfoods.com/"
+    ],
+    "brandonGrotesque-light": [
+      "https://dangfoods.com/"
+    ],
+    "brandonGrotesque-medium": [
+      "https://dangfoods.com/"
+    ],
+    "brandonGrotesque-mediumitalic": [
+      "https://dangfoods.com/"
+    ],
+    "brandonGrotesque-regular": [
+      "https://dangfoods.com/"
+    ],
+    "monospace": [
+      "https://dangfoods.com/cdn/shop/t/34/assets/normalize.css?v=156817322557505942751583429868"
+    ],
+    "sans-serif": [
+      "https://dangfoods.com/cdn/shop/t/34/assets/normalize.css?v=156817322557505942751583429868"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://dangfoods.com/",
+      "selector": ":root",
+      "declarations": "--color-accent: #c4cdd5;\r\n    --color-body-text: #161d25;\r\n    --color-main-background: #fff;\r\n    --color-border: #849bb6;\r\n\r\n    --font-heading: Helvetica, Arial, sans-serif;\r\n    --font-body: Helvetica, Arial, sans-serif;\r\n    --font-body-weight: 400;\r\n    --font-body-style: normal;\r\n    --font-body-bold-weight: 700;"
+    },
+    {
+      "source": "https://dangfoods.com/",
+      "selector": ".wrapper-menu-story .menu-item-desc .btn-outline-primary,\n        .wrapper-menu-story .menu-item-desc h3",
+      "declarations": "color: #289848;\n          border-color: #289848;"
+    },
+    {
+      "source": "https://dangfoods.com/",
+      "selector": ".wrapper-menu-story .menu-item-desc .btn-outline-primary:hover,\n        .wrapper-menu-story .menu-item-desc .btn-outline-primary:focus",
+      "declarations": "color:#fff;\n          background-color: #289848;"
+    },
+    {
+      "source": "https://dangfoods.com/",
+      "selector": ".wrapper-menu-why-keto .menu-item-desc .btn-outline-primary,\n        .wrapper-menu-why-keto .menu-item-desc h3",
+      "declarations": "color: #f51374;\n          border-color: #f51374;"
+    },
+    {
+      "source": "https://dangfoods.com/",
+      "selector": ".wrapper-menu-why-keto .menu-item-desc .btn-outline-primary:hover,\n        .wrapper-menu-why-keto .menu-item-desc .btn-outline-primary:focus",
+      "declarations": "color:#fff;\n          background-color: #f51374;"
+    },
+    {
+      "source": "https://dangfoods.com/",
+      "selector": ".wrapper-menu-dangfinder .menu-item-desc .btn-outline-primary,\n        .wrapper-menu-dangfinder .menu-item-desc h3",
+      "declarations": "color: #ffb500;\n          border-color: #ffb500;"
+    },
+    {
+      "source": "https://dangfoods.com/",
+      "selector": ".wrapper-menu-dangfinder .menu-item-desc .btn-outline-primary:hover,\n        .wrapper-menu-dangfinder .menu-item-desc .btn-outline-primary:focus",
+      "declarations": "color:#fff;\n          background-color: #ffb500;"
+    },
+    {
+      "source": "https://dangfoods.com/cdn/shop/t/34/assets/normalize.css?v=156817322557505942751583429868",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Dang Foods - Dang Bar Keto Snack, Coconut Chips, Sticky-Rice Chips",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dangfoods.com/"
+      ]
+    },
+    "colors.secondary-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dangfoods.com/"
+      ]
+    },
+    "colors.secondary-pink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dangfoods.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dangfoods.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dangfoods.com/",
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0//css/font-awesome.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dangfoods.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dangfoods.com/cdn/shop/t/34/assets/normalize.css?v=156817322557505942751583429868"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dangfoods.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0//css/font-awesome.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dangfoods.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dangfoods.com/",
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0//css/font-awesome.css"
+      ]
+    },
+    "colors.accent-orange": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dangfoods.com/"
+      ]
+    },
+    "colors.accent-orange-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dangfoods.com/"
+      ]
+    },
+    "colors.accent-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dangfoods.com/"
+      ]
+    },
+    "colors.accent-lime": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dangfoods.com/"
+      ]
+    },
+    "colors.accent-pink-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dangfoods.com/"
+      ]
+    },
+    "colors.accent-yellow": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dangfoods.com/cdn/shop/t/34/assets/normalize.css?v=156817322557505942751583429868"
+      ]
+    },
+    "colors.ink-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dangfoods.com/cdn/shop/t/34/assets/normalize.css?v=156817322557505942751583429868"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.flavor-selector": {
+      "status": "inferred"
+    }
+  }
+}

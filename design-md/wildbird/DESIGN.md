@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Wildbird
-description: A baby carrier brand built on a palette of muted earth and stone — #676986 (a quiet slate), #d6aa62 (a warm, desaturated gold), and #272d45 (a deep ink) — that feels more like a ceramic studio than a baby-gear store. The brand’s signature move is the absence of primary-color baby tropes: no bright blues, pinks, or yellows dominate. Instead, a soft canvas of #f4f4f6 and #f7f7f8 carries product photography, while #d6aa62 acts as the single accent voltage — used sparingly on buttons, badges, and the occasional underline. Typography runs on Quarto A/B for display (a refined serif that suggests heirloom quality) and Inter for body (clean, legible, modern). Carriers are photographed on real parents in real homes, not studio sets, and the UI mirrors that: generous whitespace, soft rounded corners at {rounded.lg} on product cards, and a persistent top nav with a thin hairline of #dbdde4. The checkout flow introduces a secondary accent of #00caaa (a minty teal) that feels like a surprise — it appears on the cart icon and progress indicators, hinting at a sustainability or organic-cotton subtext. The overall effect is restrained, warm, and materially honest: a brand that trusts its product photography and its customers’ desire for simplicity over decoration.
+name: "Wildbird"
+source_url: "https://wildbird.co"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A baby carrier brand built on a palette of muted earth and stone — #676986 (a quiet slate), #d6aa62 (a warm, desaturated gold), and #272d45 (a deep ink) — that feels more like a ceramic studio than a baby-gear store. The brand’s signature move is the absence of primary-color baby tropes: no bright blues, pinks, or yellows dominate. Instead, a soft canvas of #f4f4f6 and #f7f7f8 carries product photography, while #d6aa62 acts as the single accent voltage — used sparingly on buttons, badges, and the occasional underline. Typography runs on Quarto A/B for display (a refined serif that suggests heirloom quality) and Inter for body (clean, legible, modern). Carriers are photographed on real parents in real homes, not studio sets, and the UI mirrors that: generous whitespace, soft rounded corners at {rounded.lg} on product cards, and a persistent top nav with a thin hairline of #dbdde4. The checkout flow introduces a secondary accent of #00caaa (a minty teal) that feels like a surprise — it appears on the cart icon and progress indicators, hinting at a sustainability or organic-cotton subtext. The overall effect is restrained, warm, and materially honest: a brand that trusts its product photography and its customers’ desire for simplicity over decoration.
 
 colors:
   primary: "#d6aa62"
@@ -329,6 +333,8 @@ components:
 - Accordion content may default to closed on mobile to save vertical space
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for secondary buttons, text inputs, and nav links are inferred but not extracted from live CSS
 - Error states (red border, error message styling) not observed — likely use {colors.accent-red} but unconfirmed

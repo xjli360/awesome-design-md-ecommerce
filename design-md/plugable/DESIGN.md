@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Plugable
-description: A performance-first electronics brand that communicates reliability through a deep green anchor (#006341) and a secondary green (#267e47) that together form a consistent, trustworthy ecosystem across docking stations, USB hubs, and charging accessories. The palette is notably industrial — a slate gray (#5c677a) handles secondary text and muted UI elements, while a crisp red (#ce3525) appears sparingly as an alert or sale accent, never competing with the primary green. The canvas (#f4f4f4) is a soft off-white that reduces eye strain during long browsing sessions, with cards and surfaces lifted by white (#ffffff) and a hairline (#e2e2e2) that defines boundaries without visual weight. Typography runs proxima-nova as the brand face, a geometric sans-serif with moderate contrast that reads clearly at small sizes on product spec tables. Buttons and CTAs use the primary green with white text, corners at {rounded.sm} — a deliberate choice that avoids the overly friendly pill shape of consumer social apps and signals professional-grade hardware. The brand's Shopify platform means checkout flows inherit a separate visual system (Shopify Pay buttons, Klarna badges), but the Plugable storefront maintains its own identity: product cards with clean photography, spec-heavy descriptions set in {typography.body-sm}, and a navigation bar that prioritizes category hierarchy over promotional noise. The overall impression is of a company that sells tools, not toys — the green says "certified, tested, works with everything," and the layout gives you the specifications before the marketing copy.
+name: "Plugable"
+source_url: "https://www.plugable.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A performance-first electronics brand that communicates reliability through a deep green anchor (#006341) and a secondary green (#267e47) that together form a consistent, trustworthy ecosystem across docking stations, USB hubs, and charging accessories. The palette is notably industrial — a slate gray (#5c677a) handles secondary text and muted UI elements, while a crisp red (#ce3525) appears sparingly as an alert or sale accent, never competing with the primary green. The canvas (#f4f4f4) is a soft off-white that reduces eye strain during long browsing sessions, with cards and surfaces lifted by white (#ffffff) and a hairline (#e2e2e2) that defines boundaries without visual weight. Typography runs proxima-nova as the brand face, a geometric sans-serif with moderate contrast that reads clearly at small sizes on product spec tables. Buttons and CTAs use the primary green with white text, corners at {rounded.sm} — a deliberate choice that avoids the overly friendly pill shape of consumer social apps and signals professional-grade hardware. The brand's Shopify platform means checkout flows inherit a separate visual system (Shopify Pay buttons, Klarna badges), but the Plugable storefront maintains its own identity: product cards with clean photography, spec-heavy descriptions set in {typography.body-sm}, and a navigation bar that prioritizes category hierarchy over promotional noise. The overall impression is of a company that sells tools, not toys — the green says "certified, tested, works with everything," and the layout gives you the specifications before the marketing copy.
 
 colors:
   primary: "#006341"
@@ -483,6 +487,8 @@ components:
 - Product image galleries collapse from thumbnail strip to swipeable carousel on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for secondary buttons, text links, and category nav items were inferred from common patterns; actual extracted hover colors were not available
 - Error states for form inputs (validation colors, error messages) were not extracted — the red accent (#ce3525) is a candidate for error borders but this is unconfirmed

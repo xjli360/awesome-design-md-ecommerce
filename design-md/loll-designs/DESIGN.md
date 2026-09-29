@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Loll Designs
-description: |
+name: "Loll Designs"
+source_url: "https://lolldesigns.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Milk jugs melted into Adirondack chairs — that material story shows up in every pixel of Loll's digital system. The primary brand teal (#108474) lands somewhere between a recycling bin icon and a shaded tree canopy, appearing on CTAs, active nav states, and the chunky "Shop" button that anchors the header. Surrounding it, a roster of playful product-swatch colors — sunny gold (#ffce07), soft coral (#fb8077), and a dusty lavender (#a89cc8) — rotate through hero banners and collection badges, reinforcing that this is furniture you configure in dozens of bold hues rather than safe beige. Typography pairs Nunito Sans for UI and body text with Baskerville pull-quotes on editorial pages; Nunito's generous x-height and rounded terminals echo the brand's physical forms — no sharp miter joints, just soft radii (`{rounded.md}` on cards, `{rounded.sm}` on inputs, `{rounded.full}` on color-swatch dots). The canvas stays light: a near-white #f9fafb base layered with #f2f2f2 section bands and #eeeeee card surfaces, keeping saturated product photography the loudest element on any viewport. Spacing runs wide — `{spacing.section}` or larger between content blocks on desktop — because Loll's pieces are meant to breathe in open air, and the layout mimics that openness. Navigation is flat and utilitarian: a sticky header with a teal wordmark, category links in `{typography.nav-link}`, and a persistent cart icon; no mega-menus, no hover animations, just direct paths to collections. Product cards carry a slight elevation via a 1px #dedede border rather than a drop-shadow, keeping the page feeling eco-printed rather than glossy-tech. The overall effect is a porch on a Saturday morning — bright color, clean surfaces, unhurried hierarchy.
 
 colors:
@@ -378,6 +381,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Custom icon font "loll" glyphs could not be mapped — glyph names and unicode points unknown
 - Exact animation/transition durations not extractable from static hints (likely 200–300ms ease for hover states)

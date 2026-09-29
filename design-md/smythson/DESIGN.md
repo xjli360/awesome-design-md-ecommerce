@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Smythson
-description: |
+name: "Smythson"
+source_url: "https://www.smythson.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Every Smythson notebook arrives lined in Nile Blue — a proprietary dusty-periwinkle that has remained unchanged since Frank Smythson registered it on Bond Street in 1887. This interior reveal structures the entire visual grammar: maximum restraint on the exterior, a single chromatic signature within. The outer surfaces run in a near-black charcoal (#313131) that functions as ink rather than shadow — warm enough to sit beside vegetable-tanned calfskin, precise enough to carry embossed gilding. The palette radiates outward from that anchoring darkness through paper creams and hairline grays before Nile Blue appears as hover state or focus ring, always a disclosure rather than a headline.
 
   Type scales are deliberately compressed: display headings sit below 40px because the brand's luxury register lives in material weight — the press of a Featherweight page, the resistance of an Italian calf cover — rather than screen-scale drama. Positive letter-spacing on uppercase labels echoes the deliberate spacing between ruled lines in Smythson's own writing paper. Button labels are tracked uppercase, signalling precision rather than urgency; no aggressive color appears on any CTA because the customer arrives with intention.
@@ -409,6 +412,8 @@ components:
 - Nile blue band: horizontal headline+CTA layout → stacked centered layout with full-width CTA button
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Only one hex extracted** (#313131): the live site was behind Cloudflare anti-bot protection ("Just a moment…"), returning no meaningful DOM. The full Smythson color system — including confirmed hex values for Nile Blue, cream surfaces, and any promotional accent colors — could not be extracted and must be verified against the live stylesheet or design files.
 - **Nile Blue hex is approximate**: #7eb5c4 is derived from brand-knowledge of Smythson's widely documented signature lining color, not from site extraction. The actual brand value may differ; treat as a placeholder pending extraction.

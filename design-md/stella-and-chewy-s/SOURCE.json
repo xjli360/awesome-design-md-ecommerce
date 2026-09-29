@@ -1,0 +1,840 @@
+{
+  "source_url": "https://stellaandchewys.com",
+  "final_url": "https://www.stellaandchewys.com/",
+  "captured_at": "2026-09-29T03:54:31.056909+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://stellaandchewys.com",
+      "final_url": "https://www.stellaandchewys.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "889156612f38bc1846e9fed6c4cd4485c7c42fa73ce7deb58108fc2d72f8fb8b",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.stellaandchewys.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.stellaandchewys.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Shippori+Mincho&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Shippori+Mincho&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "8cfc046fee6e47707adfe3678306483c01d61ccb4dfdd5213e22aaaccd69e2b9",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511",
+      "final_url": "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a832476e2fc3087b5bde4196346de0c3cc89f49ac05b722079a663c1273ab2a1",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.stellaandchewys.com/cdn/shop/t/323/assets/keen_slider.css?v=69915088587288317271778795272",
+      "final_url": "https://www.stellaandchewys.com/cdn/shop/t/323/assets/keen_slider.css?v=69915088587288317271778795272",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e1a0c26e06ff6e29108c218b57f587f5299448d119a2e5f921adea88dda4048c",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.stellaandchewys.com/cdn/shop/t/323/assets/homepage_redesign.css?v=743829192104415601790286225",
+      "final_url": "https://www.stellaandchewys.com/cdn/shop/t/323/assets/homepage_redesign.css?v=743829192104415601790286225",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "475152dee785e8aea0c3b83f0bcb4b6e1de92e88653262902f51b57a7d715a19",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 289,
+      "sources": [
+        "https://www.stellaandchewys.com/",
+        "https://www.stellaandchewys.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#a60800": {
+      "count": 265,
+      "sources": [
+        "https://www.stellaandchewys.com/",
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#000000": {
+      "count": 146,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#722a80": {
+      "count": 54,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#b88986": {
+      "count": 42,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#f5f2f0": {
+      "count": 27,
+      "sources": [
+        "https://www.stellaandchewys.com/",
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#009b1a": {
+      "count": 21,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#594841": {
+      "count": 21,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#dfd8d8": {
+      "count": 18,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#ac1c14": {
+      "count": 18,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#ede9e6": {
+      "count": 6,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#210e05": {
+      "count": 6,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#b7afaf": {
+      "count": 6,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#ef8080": {
+      "count": 6,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#d6c7a8": {
+      "count": 6,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#4c2411": {
+      "count": 6,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#f2e8da": {
+      "count": 6,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#00000000": {
+      "count": 5,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#0000001a": {
+      "count": 4,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511",
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/keen_slider.css?v=69915088587288317271778795272"
+      ]
+    },
+    "#d9d4d1": {
+      "count": 3,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#ffb1b1": {
+      "count": 3,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#b8edc1": {
+      "count": 3,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#291b3e": {
+      "count": 3,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#62001a": {
+      "count": 2,
+      "sources": [
+        "https://www.stellaandchewys.com/",
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/homepage_redesign.css?v=743829192104415601790286225"
+      ]
+    },
+    "#d4af37": {
+      "count": 2,
+      "sources": [
+        "https://www.stellaandchewys.com/"
+      ]
+    },
+    "#2f80ed": {
+      "count": 2,
+      "sources": [
+        "https://www.stellaandchewys.com/"
+      ]
+    },
+    "#ee5f46": {
+      "count": 2,
+      "sources": [
+        "https://www.stellaandchewys.com/"
+      ]
+    },
+    "#884594": {
+      "count": 2,
+      "sources": [
+        "https://www.stellaandchewys.com/"
+      ]
+    },
+    "#1f8a70": {
+      "count": 2,
+      "sources": [
+        "https://www.stellaandchewys.com/"
+      ]
+    },
+    "#790600": {
+      "count": 2,
+      "sources": [
+        "https://www.stellaandchewys.com/"
+      ]
+    },
+    "#ca6b66": {
+      "count": 2,
+      "sources": [
+        "https://www.stellaandchewys.com/"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#000000b3": {
+      "count": 2,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#00792e": {
+      "count": 2,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#9b250d": {
+      "count": 1,
+      "sources": [
+        "https://www.stellaandchewys.com/"
+      ]
+    },
+    "#e3e3e3": {
+      "count": 1,
+      "sources": [
+        "https://www.stellaandchewys.com/"
+      ]
+    },
+    "#1773b0": {
+      "count": 1,
+      "sources": [
+        "https://www.stellaandchewys.com/"
+      ]
+    },
+    "#b83933": {
+      "count": 1,
+      "sources": [
+        "https://www.stellaandchewys.com/"
+      ]
+    },
+    "#db9c99": {
+      "count": 1,
+      "sources": [
+        "https://www.stellaandchewys.com/"
+      ]
+    },
+    "#e9c1bf": {
+      "count": 1,
+      "sources": [
+        "https://www.stellaandchewys.com/"
+      ]
+    },
+    "#f2dad9": {
+      "count": 1,
+      "sources": [
+        "https://www.stellaandchewys.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0000000d": {
+      "count": 1,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#00000003": {
+      "count": 1,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#ffffffcc": {
+      "count": 1,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#000000cc": {
+      "count": 1,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#00000066": {
+      "count": 1,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#292929": {
+      "count": 1,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#649ee1": {
+      "count": 1,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#d4b465": {
+      "count": 1,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#5ac6a9": {
+      "count": 1,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#f28346": {
+      "count": 1,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#ea81cc": {
+      "count": 1,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#e13131": {
+      "count": 1,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#e9c2a7": {
+      "count": 1,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#cecece": {
+      "count": 1,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#a60900": {
+      "count": 1,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/keen_slider.css?v=69915088587288317271778795272"
+      ]
+    }
+  },
+  "font_families": {
+    "CCThisManThisMonster": [
+      "https://www.stellaandchewys.com/cdn/shop/t/323/assets/homepage_redesign.css?v=743829192104415601790286225"
+    ],
+    "DM Sans": [
+      "https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Shippori+Mincho&display=swap",
+      "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+    ],
+    "SancySlab": [
+      "https://www.stellaandchewys.com/cdn/shop/t/323/assets/homepage_redesign.css?v=743829192104415601790286225"
+    ],
+    "Shippori Mincho": [
+      "https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Shippori+Mincho&display=swap"
+    ],
+    "sans-serif": [
+      "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.stellaandchewys.com/",
+      "selector": ".header-outer",
+      "declarations": "--header-logo-width: 26rem;\n    --header-logo-margin-vertical: 2.5rem;\n    --header-logo-margin-horizontal: 4%;\n    --header-links-margin-horizontal: 0rem;\n    --header-links-margin-vertical: 1.5rem;\n    --header-links-size: 100%;\n    --header-links-weight: 400;\n    --header-links-transform: none;\n    --header-links-letter-spacing: 0.0em;\n    --header-top-utils-icons-size: 110%;"
+    },
+    {
+      "source": "https://www.stellaandchewys.com/",
+      "selector": ".header-outer",
+      "declarations": "--header-logo-width: 16rem;\n    --header-logo-margin-vertical: 2rem;\n    --header-top-utils-icons-size: 110%;"
+    },
+    {
+      "source": "https://www.stellaandchewys.com/",
+      "selector": "#shopify-section-template--22077481320705__hero_banner_VbJP96 .block-template--22077481320705__hero_banner_VbJP96 .captions > :not(.btn-wrap)",
+      "declarations": "color: #62001A;"
+    },
+    {
+      "source": "https://www.stellaandchewys.com/",
+      "selector": "sition: 50.0% 50.0%;\nbackground-position: 50.0% 50.0%;\nbackground-position: 50.0% 50.0%;\nbackground-position: 50.0% 50.0%;\n\n  #shopify-section-template--2207748",
+      "declarations": "--border-radius: 0em;--section-padding-top: calc(var(--global-sections-padding) * 0.7);\n    --section-padding-bottom: calc(var(--global-sections-padding) * 0.7);\n    --text-padding: calc(var(--global-sections-padding) * 0.0);\n    --text-width: 40em;"
+    },
+    {
+      "source": "https://www.stellaandchewys.com/",
+      "selector": "#shopify-section-template--22077481320705__featured_products_multi_cKFX6k",
+      "declarations": "--text-padding: calc(var(--global-sections-padding) * 0.0);"
+    },
+    {
+      "source": "https://www.stellaandchewys.com/",
+      "selector": "#shopify-section-template--22077481320705__featured_products_KzYGfx",
+      "declarations": "--border-radius: 0.4em;--head-width: 35%;--section-padding-top: calc(var(--global-sections-padding) * 0.3);\n    --section-padding-bottom: calc(var(--global-sections-padding) * 0.2);\n    --text-padding: calc(var(--global-sections-padding) * 0.7);\n    --text-width: 40em;"
+    },
+    {
+      "source": "https://www.stellaandchewys.com/",
+      "selector": "#shopify-section-template--22077481320705__featured_products_KzYGfx",
+      "declarations": "--text-padding: calc(var(--global-sections-padding) * 0.7);"
+    },
+    {
+      "source": "https://www.stellaandchewys.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.stellaandchewys.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.stellaandchewys.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.stellaandchewys.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.stellaandchewys.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.stellaandchewys.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511",
+      "selector": ":root,.color-scheme-1",
+      "declarations": "--scheme-background-color: #ffffff;--scheme-background-gradient: #ffffff;--scheme-headings-color: #000000;--scheme-text-color: #000000;--scheme-borders-color: rgba(0, 0, 0, .13);--scheme-highlights: #a60800;--scheme-buttons-background: #a60800;--scheme-buttons-label: #ffffff;--scheme-buttons-border: #a60800;--scheme-buttons-background-hover: #a60800;--scheme-buttons-label-hover: #ffffff;--scheme-buttons-border-hover: #a60800;--scheme-buttons-background2: rgba(0,0,0,0);--scheme-buttons-label2: #a60800;--scheme-buttons-border2: #a60800;--scheme-buttons-background-hover2: #ffffff;--scheme-buttons-label-hover2: #a60800;--scheme-buttons-border-hover2: #a60800;--scheme-fields-background-color: rgb"
+    },
+    {
+      "source": "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511",
+      "selector": ":root",
+      "declarations": "--global-light-color: #f5f2f0;--animation-speed-fast: .2s;--animation-speed-medium: .35s;--animation-speed-slow: .5s;--header-change-animation-speed: var(--animation-speed-fast);--container-width: 130rem;--slide-in-modal-width: 50rem;--slide-in-modal-padding: 2.2rem;--font-body-scale: 1;--fields-padding-vertical: 1.6rem;--fields-padding-horizontal: 1.6rem;--floating-box-shadow: 0 0 5px rgba(0,0,0,.2);--keen-arrows-size: 2.7rem;--keen-arrows-width: 1.5em;--product-card-info-height: 8.2rem;--icons-thickness: 8%;--icons-round: round;--tabs-margin: .8em;--vh: 1vh;--100vh: 100vh;--visible-height: calc(var(--100vh) - var(--header-offset, 0px))"
+    },
+    {
+      "source": "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511",
+      "selector": ":root",
+      "declarations": "--container-width: calc(1300 * 100 / 1500 * 1vw)"
+    },
+    {
+      "source": "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511",
+      "selector": ":root",
+      "declarations": "--container-padding: 2.5rem;--grid-gap: 2rem;--global-sections-padding: 8rem;--font-heading-scale: 1;--subheading-size: 100%;--small-label-size: 82%;--links-size: 100%"
+    },
+    {
+      "source": "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511",
+      "selector": ":root",
+      "declarations": "--container-padding: 2rem;--grid-gap: 2rem;--global-sections-padding: 6rem;--font-heading-scale: .85;--subheading-size: 90%;--small-label-size: 75%;--links-size: 90%"
+    },
+    {
+      "source": "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511",
+      "selector": ":root",
+      "declarations": "--font-body-scale: 1;--font-heading-scale: 1;--container-padding: 1.5rem;--grid-gap: 1.5rem;--slide-in-modal-width: 100%"
+    },
+    {
+      "source": "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511",
+      "selector": "select,textarea,input[type=button],input[type=text],input[type=email],input[type=number],input[type=search],input[type=date],input[type=tel],input[type=phone],i",
+      "declarations": "font:inherit;color:inherit;appearance:none;-moz-appearance:none;-webkit-appearance:none;border:0;padding:0;border-radius:0;background:transparent;line-height:normal"
+    },
+    {
+      "source": "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511",
+      "selector": ".type_Page_Main .hbspt-form input:not(.hs-button),.type_Page_Main .hbspt-form select",
+      "declarations": "border:1px solid var(--scheme-fields-border-color);background-color:var(--scheme-fields-background-color);border-radius:.4em;color:var(--scheme-fields-label-color);font-size:100%;padding:.5em 1em!important"
+    },
+    {
+      "source": "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511",
+      "selector": ":root",
+      "declarations": "--body-font-family: \"DM Sans\", sans-serif;--heading-font-family: \"DM Sans\", sans-serif"
+    },
+    {
+      "source": "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511",
+      "selector": ".body-font,body",
+      "declarations": "font-family:var(--body-font-family);font-weight:400;font-style:normal;letter-spacing:0em;line-height:1.5"
+    },
+    {
+      "source": "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511",
+      "selector": ".heading-font,h1,h2,h3,h4,h5,h6,.h1-xxl,.h1-xl,.h1,.h2,.h3,.h4,.h5,.h6",
+      "declarations": "font-family:var(--heading-font-family);font-weight:600;font-style:normal;letter-spacing:0em;line-height:1;text-transform:none;color:var(--scheme-headings-color);fill:var(--scheme-headings-color);stroke:var(--scheme-headings-color)"
+    },
+    {
+      "source": "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511",
+      "selector": ".highlight,.shopify-payment-button__more-options,p a,li a",
+      "declarations": "color:var(--scheme-highlights);fill:var(--scheme-highlights);stroke:var(--scheme-highlights)"
+    },
+    {
+      "source": "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511",
+      "selector": "ot(.keen-arrow):not(.keen-dots-dot):not(.shopify-payment-button__button):not(.spr-button):hover,.not-mobile .link:not(.no-highlight-hover):hover,.not-mobile .sh",
+      "declarations": "color:var(--scheme-highlights);fill:var(--scheme-highlights);stroke:var(--scheme-highlights)"
+    },
+    {
+      "source": "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511",
+      "selector": "body",
+      "declarations": "font-size:calc(1.6rem * var(--font-body-scale));-webkit-text-size-adjust:100%;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;-webkit-tap-highlight-color:transparent;-moz-font-feature-settings:\"lnum\";-webkit-font-feature-settings:\"lnum\";font-feature-settings:\"lnum\""
+    },
+    {
+      "source": "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511",
+      "selector": "html body #main-content .rebuy-widget *,html body #main-content .shopify-section [data-bv-show] *,html body [data-bv-modal] *",
+      "declarations": "font-family:var(--body-font-family)!important;font-style:normal;letter-spacing:0em;line-height:1.5"
+    },
+    {
+      "source": "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511",
+      "selector": "#main-content .rebuy-widget .rebuy-button,#main-content .rebuy-widget .rebuy-cart__flyout-empty-cart a",
+      "declarations": "display:block!important;visibility:visible!important;background-color:var(--scheme-buttons-background2)!important;color:var(--scheme-buttons-label2)!important;fill:var(--scheme-buttons-label2)!important;stroke:var(--scheme-buttons-label2)!important;border:1px solid var(--scheme-buttons-border2)!important;width:100%!important;font-size:90%!important;font-family:var(--body-font-family)!important;border-radius:5em!important;padding:.8em 2em;text-transform:uppercase!important;letter-spacing:0em!important;font-weight:800!important;display:inline-block!important;line-height:1!important;text-align:center!important;text-decoration:none!important;cursor:pointer;-webkit-transition:all var(--animation-"
+    },
+    {
+      "source": "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511",
+      "selector": ".not-mobile #main-content .rebuy-widget .rebuy-button:hover,.not-mobile #main-content .rebuy-widget .rebuy-cart__flyout-empty-cart a:hover",
+      "declarations": "background-color:var(--scheme-buttons-background-hover2)!important;color:var(--scheme-buttons-label-hover2)!important;fill:var(--scheme-buttons-label-hover2)!important;stroke:var(--scheme-buttons-label-hover2)!important;border-color:var(--scheme-buttons-border-hover2)!important;-webkit-transform:scale(1.05);transform:scale(1.05);-webkit-filter:brightness(1.2);filter:brightness(1.2)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Stella & Chewy's",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stellaandchewys.com/",
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stellaandchewys.com/",
+        "https://www.stellaandchewys.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stellaandchewys.com/",
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "colors.surface-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stellaandchewys.com/",
+        "https://www.stellaandchewys.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "colors.accent-plum": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stellaandchewys.com/",
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/homepage_redesign.css?v=743829192104415601790286225"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stellaandchewys.com/"
+      ]
+    },
+    "colors.link": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.link-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "colors.border-subtle": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stellaandchewys.com/cdn/shop/t/323/assets/base.css?v=143244114240110395301782499511"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-lg": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.subscription-selector": {
+      "status": "inferred"
+    }
+  }
+}

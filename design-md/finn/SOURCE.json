@@ -1,0 +1,1111 @@
+{
+  "source_url": "https://petfinn.com/",
+  "final_url": "https://petfinn.com/",
+  "captured_at": "2026-09-29T04:15:20.251180+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://petfinn.com/",
+      "final_url": "https://petfinn.com/",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "1ce2f911effffa290a3d283548d33a02b4088640f37e3871877fe0077c112c09",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742",
+      "final_url": "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4fd4db2bb44663ab8df7197a853078e63328994ffc5c8aa975f991618717a3ac",
+      "snapshot": "rendered-style-1.css"
+    },
+    {
+      "url": "https://petfinn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://petfinn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "rendered-style-2.css"
+    },
+    {
+      "url": "https://petfinn.com/cdn/shop/t/10/assets/custom-cart-drawer.css?v=112345662724067183751776765702",
+      "final_url": "https://petfinn.com/cdn/shop/t/10/assets/custom-cart-drawer.css?v=112345662724067183751776765702",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "dd36254d0c38f593ee55740caaf4b8da1f9986638a6ca5c22f3bea51fea41eec",
+      "snapshot": "rendered-style-3.css"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+      "final_url": "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "74ca6aae5468dbc924790c3b4d219a089b90a34bad53a0f7ca3a73e73b6f5ab8",
+      "snapshot": "rendered-style-4.css"
+    },
+    {
+      "url": "https://petfinn.com/#computed-style-snapshot",
+      "final_url": "https://petfinn.com/#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "e286b728b253b2aa71eddcb9ce4f2978c0890773747787a9fbca3c5df761f245",
+      "snapshot": "rendered-style-5.css"
+    }
+  ],
+  "colors": {
+    "#161345": {
+      "count": 152,
+      "sources": [
+        "https://petfinn.com/",
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742",
+        "https://petfinn.com/cdn/shop/t/10/assets/custom-cart-drawer.css?v=112345662724067183751776765702",
+        "https://petfinn.com/#computed-style-snapshot"
+      ]
+    },
+    "#ebebeb": {
+      "count": 104,
+      "sources": [
+        "https://petfinn.com/",
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742",
+        "https://petfinn.com/cdn/shop/t/10/assets/custom-cart-drawer.css?v=112345662724067183751776765702",
+        "https://petfinn.com/#computed-style-snapshot"
+      ]
+    },
+    "#ffffff": {
+      "count": 102,
+      "sources": [
+        "https://petfinn.com/",
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742",
+        "https://petfinn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://petfinn.com/cdn/shop/t/10/assets/custom-cart-drawer.css?v=112345662724067183751776765702",
+        "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+        "https://petfinn.com/#computed-style-snapshot"
+      ]
+    },
+    "#321004": {
+      "count": 99,
+      "sources": [
+        "https://petfinn.com/",
+        "https://petfinn.com/#computed-style-snapshot"
+      ]
+    },
+    "#ff7f00": {
+      "count": 85,
+      "sources": [
+        "https://petfinn.com/",
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742",
+        "https://petfinn.com/cdn/shop/t/10/assets/custom-cart-drawer.css?v=112345662724067183751776765702",
+        "https://petfinn.com/#computed-style-snapshot"
+      ]
+    },
+    "#999999": {
+      "count": 66,
+      "sources": [
+        "https://petfinn.com/",
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742",
+        "https://petfinn.com/cdn/shop/t/10/assets/custom-cart-drawer.css?v=112345662724067183751776765702",
+        "https://petfinn.com/#computed-style-snapshot"
+      ]
+    },
+    "#000000": {
+      "count": 16,
+      "sources": [
+        "https://petfinn.com/",
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742",
+        "https://petfinn.com/cdn/shop/t/10/assets/custom-cart-drawer.css?v=112345662724067183751776765702",
+        "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+      ]
+    },
+    "#1a202c": {
+      "count": 12,
+      "sources": [
+        "https://petfinn.com/",
+        "https://petfinn.com/#computed-style-snapshot"
+      ]
+    },
+    "#5e6350": {
+      "count": 10,
+      "sources": [
+        "https://petfinn.com/"
+      ]
+    },
+    "#d02e2e": {
+      "count": 10,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#b6b6b6": {
+      "count": 9,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#0000001a": {
+      "count": 7,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#cccccc": {
+      "count": 6,
+      "sources": [
+        "https://petfinn.com/",
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#00000017": {
+      "count": 5,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 5,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#d74a5d": {
+      "count": 4,
+      "sources": [
+        "https://petfinn.com/"
+      ]
+    },
+    "#56ad6a": {
+      "count": 4,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 3,
+      "sources": [
+        "https://petfinn.com/"
+      ]
+    },
+    "#666666": {
+      "count": 3,
+      "sources": [
+        "https://petfinn.com/"
+      ]
+    },
+    "#0b0742": {
+      "count": 3,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 3,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#fff6f6": {
+      "count": 3,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://petfinn.com/"
+      ]
+    },
+    "#fafafa": {
+      "count": 2,
+      "sources": [
+        "https://petfinn.com/",
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#e8e8e1": {
+      "count": 2,
+      "sources": [
+        "https://petfinn.com/"
+      ]
+    },
+    "#637381": {
+      "count": 2,
+      "sources": [
+        "https://petfinn.com/"
+      ]
+    },
+    "#e2e8f0": {
+      "count": 2,
+      "sources": [
+        "https://petfinn.com/",
+        "https://petfinn.com/cdn/shop/t/10/assets/custom-cart-drawer.css?v=112345662724067183751776765702"
+      ]
+    },
+    "#161444": {
+      "count": 2,
+      "sources": [
+        "https://petfinn.com/"
+      ]
+    },
+    "#1a1d3d": {
+      "count": 2,
+      "sources": [
+        "https://petfinn.com/",
+        "https://petfinn.com/#computed-style-snapshot"
+      ]
+    },
+    "#1773b0": {
+      "count": 2,
+      "sources": [
+        "https://petfinn.com/"
+      ]
+    },
+    "#125988": {
+      "count": 2,
+      "sources": [
+        "https://petfinn.com/"
+      ]
+    },
+    "#74abd0": {
+      "count": 2,
+      "sources": [
+        "https://petfinn.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 2,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 2,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#333333": {
+      "count": 2,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://petfinn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://petfinn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/"
+      ]
+    },
+    "#797f67": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/"
+      ]
+    },
+    "#515545": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/"
+      ]
+    },
+    "#0f0f0f": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/"
+      ]
+    },
+    "#1c1d1d": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/"
+      ]
+    },
+    "#528ec1": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/"
+      ]
+    },
+    "#16134580": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/"
+      ]
+    },
+    "#ffa500": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/"
+      ]
+    },
+    "#000080": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/"
+      ]
+    },
+    "#1e293b": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/"
+      ]
+    },
+    "#ffcfdb": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/"
+      ]
+    },
+    "#d7ecff": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/"
+      ]
+    },
+    "#60c4bf": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/"
+      ]
+    },
+    "#f8d7da": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/"
+      ]
+    },
+    "#721c24": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/"
+      ]
+    },
+    "#458fc0": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/"
+      ]
+    },
+    "#a2c7df": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/"
+      ]
+    },
+    "#c5dceb": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/"
+      ]
+    },
+    "#dceaf3": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/"
+      ]
+    },
+    "#1f1646": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#3fb8af": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#e8e7e6": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#b8b8b8": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#00000026": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#222222": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#faf7f5": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#51ab62": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#e1e1e1": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#ecfef0": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#444444": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#54c63a": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#f4af29": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#0000004d": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#333333e6": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#555555": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#58686f": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0a0a0a73": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/custom-cart-drawer.css?v=112345662724067183751776765702"
+      ]
+    },
+    "#ffffff33": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/custom-cart-drawer.css?v=112345662724067183751776765702"
+      ]
+    },
+    "#ffffff66": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/custom-cart-drawer.css?v=112345662724067183751776765702"
+      ]
+    },
+    "#262364": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/custom-cart-drawer.css?v=112345662724067183751776765702"
+      ]
+    },
+    "#ebebebfc": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/custom-cart-drawer.css?v=112345662724067183751776765702"
+      ]
+    },
+    "#504caa": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/custom-cart-drawer.css?v=112345662724067183751776765702"
+      ]
+    },
+    "#00230b33": {
+      "count": 1,
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/custom-cart-drawer.css?v=112345662724067183751776765702"
+      ]
+    },
+    "#007aff": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://petfinn.com/",
+      "https://petfinn.com/cdn/shop/t/10/assets/custom-cart-drawer.css?v=112345662724067183751776765702"
+    ],
+    "Athletics-Medium": [
+      "https://petfinn.com/",
+      "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742",
+      "https://petfinn.com/cdn/shop/t/10/assets/custom-cart-drawer.css?v=112345662724067183751776765702",
+      "https://petfinn.com/#computed-style-snapshot"
+    ],
+    "Baskerville": [
+      "https://petfinn.com/"
+    ],
+    "Consolas": [
+      "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+    ],
+    "Fahkwang": [
+      "https://petfinn.com/"
+    ],
+    "Helvetica Neue": [
+      "https://petfinn.com/",
+      "https://petfinn.com/cdn/shop/t/10/assets/custom-cart-drawer.css?v=112345662724067183751776765702"
+    ],
+    "HelveticaNeue": [
+      "https://petfinn.com/"
+    ],
+    "Larsseit": [
+      "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+    ],
+    "Larsseit-Medium": [
+      "https://petfinn.com/",
+      "https://petfinn.com/cdn/shop/t/10/assets/custom-cart-drawer.css?v=112345662724067183751776765702"
+    ],
+    "Larsseit-Regular": [
+      "https://petfinn.com/",
+      "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742",
+      "https://petfinn.com/cdn/shop/t/10/assets/custom-cart-drawer.css?v=112345662724067183751776765702",
+      "https://petfinn.com/#computed-style-snapshot"
+    ],
+    "Monosten": [
+      "https://petfinn.com/",
+      "https://petfinn.com/cdn/shop/t/10/assets/custom-cart-drawer.css?v=112345662724067183751776765702",
+      "https://petfinn.com/#computed-style-snapshot"
+    ],
+    "Montserrat": [
+      "https://petfinn.com/"
+    ],
+    "Roboto": [
+      "https://petfinn.com/cdn/shop/t/10/assets/custom-cart-drawer.css?v=112345662724067183751776765702"
+    ],
+    "monospace": [
+      "https://petfinn.com/",
+      "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+    ],
+    "object-fit: cover": [
+      "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+    ],
+    "sans-serif": [
+      "https://petfinn.com/",
+      "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742",
+      "https://petfinn.com/cdn/shop/t/10/assets/custom-cart-drawer.css?v=112345662724067183751776765702"
+    ],
+    "swiper-icons": [
+      "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://petfinn.com/",
+      "selector": ":root",
+      "declarations": "--element-button-font-size: max(calc(var(--typeBaseSize) - 5px), 11px);"
+    },
+    {
+      "source": "https://petfinn.com/",
+      "selector": ".element-button[type=\"submit\"],\n      .element-button[type=\"submit\"] .element-text,\n      .element-button--shopify-payment-wrapper button",
+      "declarations": "--element-button-padding-block: 13px;\n        --element-button-padding-inline: 20px;\n        --element-button-line-height: 1.42;\n        --_font-size--body-md: var(--element-button-font-size);\n\n        line-height: 1.42 !important;"
+    },
+    {
+      "source": "https://petfinn.com/",
+      "selector": ".element-button[type=\"submit\"]:before,\n          .element-button[type=\"submit\"]:after",
+      "declarations": "background-color: color-mix(in srgb,var(--_color-text) var(--_shade-background),var(--_color-background));\n            border-top: 1px solid #5e6350;\n            border-bottom: 1px solid #5e6350;"
+    },
+    {
+      "source": "https://petfinn.com/",
+      "selector": "--_color-background: #5e6350;\n\n          button:hover,\n          button:before,\n          button:after",
+      "declarations": "background-color: color-mix(in srgb,var(--_color-text) var(--_shade-background),var(--_color-background)) !important;"
+    },
+    {
+      "source": "https://petfinn.com/",
+      "selector": ":root",
+      "declarations": "--junipOutlineColor:#637381"
+    },
+    {
+      "source": "https://petfinn.com/",
+      "selector": ".junip-product-summary-review-count",
+      "declarations": "color:inherit;margin-left:3px"
+    },
+    {
+      "source": "https://petfinn.com/",
+      "selector": ":root",
+      "declarations": "--junipPrimaryColor: #161345; --junipButtonColor: #161345; --junipButtonOutlineColor: #16134580; --junipStarColor: #FF7F00; --junipButtonTextColor: #fff; --junipBorderColor: rgba(0, 0, 0, 0.08);"
+    },
+    {
+      "source": "https://petfinn.com/",
+      "selector": ".transparent-button",
+      "declarations": "font-size: 26px;\n    line-height: 1;\n    letter-spacing: 0;\n    color: #161345;\n    margin: 0;\n    font-family: \"Larsseit-Regular\";\n    font-weight: normal;"
+    },
+    {
+      "source": "https://petfinn.com/",
+      "selector": ".transparent-button",
+      "declarations": "font-size: 26px;\n    line-height: 1;\n    letter-spacing: 0;\n    color: #161345;\n    margin: 0;\n    font-family: \"Larsseit-Regular\";\n    font-weight: normal;"
+    },
+    {
+      "source": "https://petfinn.com/",
+      "selector": ".transparent-button",
+      "declarations": "font-size: 26px;\n    line-height: 1;\n    letter-spacing: 0;\n    color: #161345;\n    margin: 0;\n    font-family: \"Larsseit-Regular\";\n    font-weight: normal;"
+    },
+    {
+      "source": "https://petfinn.com/",
+      "selector": ".get-started-content-header-title",
+      "declarations": "max-width: 1440px;\n    padding: 70px 20px 0px;\n    text-align: center;\n    margin: 0;\n    font-size: 133px;\n    line-height: 1;\n    font-family: 'Athletics-Medium';\n    font-weight: normal;\n    color: #161345;\n    text-transform: unset !important;\n    letter-spacing: 0;"
+    },
+    {
+      "source": "https://petfinn.com/",
+      "selector": ".solid-button",
+      "declarations": "font-size: 24px;\n    line-height: 1;\n    color: #fff;\n    font-family: 'Larsseit-Regular';\n    font-weight: normal;\n    text-transform: capitalize;"
+    },
+    {
+      "source": "https://petfinn.com/",
+      "selector": ".transparent-button",
+      "declarations": "font-size: 26px;\n    line-height: 1;\n    letter-spacing: 0;\n    color: #161345;\n    margin: 0;\n    font-family: \"Larsseit-Regular\";\n    font-weight: normal;"
+    },
+    {
+      "source": "https://petfinn.com/",
+      "selector": ".finn-way-module-header-title",
+      "declarations": "color: #161345;\n    font-size: 133px;\n    text-align: center;\n    letter-spacing: 0;\n    text-transform: unset !important;\n    font-family: 'Athletics-Medium';\n    font-weight: normal;\n    margin: 0 0 -50px;\n    z-index: 1;\n    position: relative;"
+    },
+    {
+      "source": "https://petfinn.com/",
+      "selector": ".vet-endorsement-header-title",
+      "declarations": "font-size: 133px;\n    font-weight: normal;\n    font-family: 'Athletics-Medium';\n    text-transform: unset !important;\n    letter-spacing: 0;\n    line-height: 1;\n    color: #ebebeb;\n    margin: 0;"
+    },
+    {
+      "source": "https://petfinn.com/",
+      "selector": ".review-module-header-title",
+      "declarations": "font-size: 133px;\n    font-weight: normal;\n    line-height: 1;\n    letter-spacing: 0;\n    text-transform: unset !important;\n    font-family: 'Athletics-Medium';\n    color: #161345;\n    margin: 0;"
+    },
+    {
+      "source": "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742",
+      "selector": ".product-card-image",
+      "declarations": "width:300px;padding:40px;min-height:300px;border-radius:20px;cursor:pointer;height:auto;position:relative;background-color:#f9f9f9;display:flex;-webkit-box-pack:center;justify-content:center;-webkit-box-align:center;align-items:center;overflow:hidden"
+    },
+    {
+      "source": "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742",
+      "selector": ".product-card-image img",
+      "declarations": "max-width:220px;object-fit:contain;transition:opacity .5s linear;background-color:transparent;position:absolute;right:0;bottom:0;left:50%;top:50%;transform:translate(-50%,-50%)"
+    },
+    {
+      "source": "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742",
+      "selector": ".product-card-title",
+      "declarations": "font-size:30px;font-weight:400;line-height:1;color:#161345;margin:15px 0;font-family:Athletics-Medium;transition:.3s ease-in-out;letter-spacing:0px;text-transform:capitalize!important"
+    },
+    {
+      "source": "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742",
+      "selector": ".product-card-price",
+      "declarations": "line-height:1;color:#ff7f00;font-size:30px;font-family:Larsseit-Regular;font-weight:400;margin-top:auto"
+    },
+    {
+      "source": "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742",
+      "selector": ".product-desk",
+      "declarations": "text-align:center;font-family:Larsseit-Regular;font-size:15px;color:#999;font-weight:400;line-height:21px;letter-spacing:0px;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden;height:63px"
+    },
+    {
+      "source": "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742",
+      "selector": ".product-card-btn",
+      "declarations": "background-color:#161345;border:1px solid rgb(22,19,69);color:#ebebeb;font-size:24px;font-weight:400;border-radius:60px;outline:none;margin:0;cursor:pointer;display:flex;gap:9px;align-items:center;transition:.1s ease-in-out;font-family:Larsseit-Regular;width:fit-content;padding:15px 36px 17px;line-height:1;letter-spacing:0"
+    },
+    {
+      "source": "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742",
+      "selector": ".product-card:hover .product-card-title",
+      "declarations": "color:#ff7f00"
+    },
+    {
+      "source": "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742",
+      "selector": ":root",
+      "declarations": "--grid-gutter: 22px;--drawer-gutter: 30px"
+    },
+    {
+      "source": "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742",
+      "selector": ".flickity-button",
+      "declarations": "background:var(--colorBtnPrimary);border:none;border-radius:50%;color:var(--colorBtnPrimaryText);position:absolute"
+    },
+    {
+      "source": "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742",
+      "selector": ".hero .flickity-button",
+      "declarations": "background-color:var(--colorBody);box-shadow:0 5px 5px #0000001a;color:var(--colorTextBody)"
+    },
+    {
+      "source": "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742",
+      "selector": ".hotspots__buttons",
+      "declarations": "background-color:transparent;border:0;height:100%;left:0;position:absolute;top:0;width:100%"
+    },
+    {
+      "source": "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742",
+      "selector": ".hotspot__button-content",
+      "declarations": "background-color:var(--colorBody);border-radius:5px;box-shadow:3px 3px 10px 3px #0003;color:var(--colorTextBody);left:50%;min-width:5rem;opacity:0;padding:1rem;pointer-events:none;position:absolute;top:calc(100% + 1rem);transform:translate(-50%);transition:opacity .3s ease-in-out;visibility:hidden"
+    },
+    {
+      "source": "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742",
+      "selector": ".hotspot__button-content:before",
+      "declarations": "border-color:transparent transparent var(--colorBody) transparent;border-style:solid;border-width:0 5px 10px 5px;content:\"\";height:0;left:50%;position:absolute;top:-10px;transform:translate(-50%);width:0"
+    },
+    {
+      "source": "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742",
+      "selector": ".comparison__button:before",
+      "declarations": "background-color:#fff!important"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "Finn - Vet-Formulated Dog Supplements & Wellness | NASC Certified",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "06881a75a32ccf9a688c7ef62239836355f969f8c0d67a11b4630d15096222ff"
+    }
+  ],
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petfinn.com/",
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742",
+        "https://petfinn.com/cdn/shop/t/10/assets/custom-cart-drawer.css?v=112345662724067183751776765702",
+        "https://petfinn.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petfinn.com/",
+        "https://petfinn.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petfinn.com/",
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742",
+        "https://petfinn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://petfinn.com/cdn/shop/t/10/assets/custom-cart-drawer.css?v=112345662724067183751776765702",
+        "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+        "https://petfinn.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petfinn.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petfinn.com/",
+        "https://petfinn.com/cdn/shop/t/10/assets/custom-cart-drawer.css?v=112345662724067183751776765702"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petfinn.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petfinn.com/",
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742",
+        "https://petfinn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://petfinn.com/cdn/shop/t/10/assets/custom-cart-drawer.css?v=112345662724067183751776765702",
+        "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+        "https://petfinn.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petfinn.com/",
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742",
+        "https://petfinn.com/cdn/shop/t/10/assets/custom-cart-drawer.css?v=112345662724067183751776765702",
+        "https://petfinn.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "colors.danger-surface": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petfinn.com/cdn/shop/t/10/assets/theme.css?v=174851979373613248111777380742"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petfinn.com/"
+      ]
+    },
+    "colors.border": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petfinn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.quiz-cta-panel": {
+      "status": "inferred"
+    }
+  }
+}

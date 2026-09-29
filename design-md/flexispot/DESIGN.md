@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: FlexiSpot
-description: A brand built on the proposition that a desk should move as much as you do, FlexiSpot’s digital presence is a study in high-contrast urgency — #df3409, a sharp orange-red, punches as the primary CTA voltage against a cool #f5f5f5 canvas, while #017acb and #004df2 provide a secondary technical authority that feels engineered rather than playful. The extracted palette is unusually wide, with a cluster of blues (#34adfe, #2396d9, #1890ff, #1677ff) that suggest a deep product-configuration UI and a multi-tier pricing system, alongside warning-grade accents like #eb5b2f and #b81f00 that flag sale badges and inventory alerts. The typography stack leans on Moderat-Bold and Moderat-Medium — a geometric sans-serif with a slight industrial cut — for headlines and navigation, while Inter handles body copy with its characteristic legibility at small sizes. The design language is fundamentally rectangular: product cards use {rounded.sm} corners, buttons are {rounded.xs} pills or sharp rectangles, and the hero section stacks a full-bleed image behind a left-aligned headline with a single {colors.df3409} CTA. There is no decorative flourish — every visual element serves conversion: the sticky top bar, the persistent cart badge, the “Shop Now” button that repeats at three scroll depths. The brand’s voice is direct, slightly urgent, and framed around ergonomic benefit statements (“Sit less, move more”) rather than lifestyle aspiration. The extracted hex #34b37e appears in sustainability badges and eco-certification callouts, a secondary green that signals trust without competing with the primary orange-red conversion engine.
+name: "FlexiSpot"
+source_url: "https://www.flexispot.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A brand built on the proposition that a desk should move as much as you do, FlexiSpot’s digital presence is a study in high-contrast urgency — #df3409, a sharp orange-red, punches as the primary CTA voltage against a cool #f5f5f5 canvas, while #017acb and #004df2 provide a secondary technical authority that feels engineered rather than playful. The extracted palette is unusually wide, with a cluster of blues (#34adfe, #2396d9, #1890ff, #1677ff) that suggest a deep product-configuration UI and a multi-tier pricing system, alongside warning-grade accents like #eb5b2f and #b81f00 that flag sale badges and inventory alerts. The typography stack leans on Moderat-Bold and Moderat-Medium — a geometric sans-serif with a slight industrial cut — for headlines and navigation, while Inter handles body copy with its characteristic legibility at small sizes. The design language is fundamentally rectangular: product cards use {rounded.sm} corners, buttons are {rounded.xs} pills or sharp rectangles, and the hero section stacks a full-bleed image behind a left-aligned headline with a single {colors.df3409} CTA. There is no decorative flourish — every visual element serves conversion: the sticky top bar, the persistent cart badge, the “Shop Now” button that repeats at three scroll depths. The brand’s voice is direct, slightly urgent, and framed around ergonomic benefit statements (“Sit less, move more”) rather than lifestyle aspiration. The extracted hex #34b37e appears in sustainability badges and eco-certification callouts, a secondary green that signals trust without competing with the primary orange-red conversion engine.
 
 colors:
   primary: "#df3409"
@@ -470,6 +474,8 @@ components:
 - Hero image collapses to 50% viewport height on mobile, with text overlay instead of side-by-side
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Extracted hex list is unusually large (30+ colors) and includes several blues that may be framework defaults (#1890ff, #1677ff are Ant Design primaries; #34adfe may be a social icon color). The true brand palette likely centers on #df3409 (orange-red), #017acb (blue), and #232324 (ink), but the exact secondary palette is uncertain without access to the design token file.
 - No extracted meta-theme-color, so dark mode support is unknown.

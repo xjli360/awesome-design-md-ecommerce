@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: CannonKeys
-description: |
+name: "CannonKeys"
+source_url: "https://cannonkeys.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Fifty flag-palette swatches in the extracted color set are keyboard legend graphics — every group buy ships with home-nation key labels, so the brand's true voltage only surfaces when those country colors are stripped away. What remains: #d80027 crimson on every decisive CTA, #108474 deep teal pulling focus on selected states and hover surfaces, and #ddc7ab warm parchment keeping product grids from reading as purely technical. The site runs Nunito Sans as its workhorse — a rounded sans-serif that softens the hobby's spec-heavy vocabulary without feeling casual — with Baskerville held in reserve for the rare editorial headline, lending an almost cataloguey gravitas to limited-run board announcements.
 
   Layout geometry stays deliberately flat: {rounded.sm} on cards and inputs, {rounded.xs} on status badges, no pill shapes anywhere in the interface. Navigation rides a dark-to-darker bar (#3d4246 descending toward #202223) with #d80027 hover underlines. The group-buy lifecycle label is the brand's most distinctive UI pattern — a fixed-width uppercase chip locked to the product-card top-left corner, rotating through amber (#d87b00, INTEREST CHECK), crimson (#d80027, LIVE), teal (#108474, SHIPPING), and slate (#555555, FULFILLED) to communicate a product's place in the months-long production cycle.
@@ -406,6 +409,8 @@ Full-width dark ({colors.surface-dark}) block with column layout for nav links, 
 - GB status badge remains pinned to card corner at all breakpoints — never hidden
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Font weights for Nunito Sans not confirmed against loaded CSS — Bold/ExtraBold assignments are inferred from visual hierarchy; actual weights may differ
 - No meta theme-color extracted; mobile browser chrome color unknown (likely #202223 or #d80027 based on dark nav pattern)

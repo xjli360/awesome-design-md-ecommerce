@@ -1,0 +1,941 @@
+{
+  "source_url": "https://www.arka.com",
+  "final_url": "https://www.arka.com/",
+  "captured_at": "2026-09-28T04:05:47.873423+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.arka.com",
+      "final_url": "https://www.arka.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "a6df728bdfab5da8a9371bd0735552fb16715ccfd9f81d61cc34bffc360ddbff",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.arka.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.arka.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/icon?family=Material+Icons",
+      "final_url": "https://fonts.googleapis.com/icon?family=Material+Icons",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "c4bdf2a6a654e899448a6f14503492c8d971b4c875042215280269a1d27ca889",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490",
+      "final_url": "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "34e2a5177fc752f643c424f9ca3c503e2375edacbe158a3281bbfe2eed073cd1",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.arka.com/cdn/shop/t/286/assets/swiper-bundle.min.css?v=8307759972561531291769019489",
+      "final_url": "https://www.arka.com/cdn/shop/t/286/assets/swiper-bundle.min.css?v=8307759972561531291769019489",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b20ce309a3af40f5d669171bb60355af23db3e2cb508d6ab61ee3958310e2a87",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "5f7fe2a35dcc901b10895cdb83da89f1c0e54cc530f7a928502d9d76e0b07994",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 94,
+      "sources": [
+        "https://www.arka.com/",
+        "https://www.arka.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490",
+        "https://www.arka.com/cdn/shop/t/286/assets/swiper-bundle.min.css?v=8307759972561531291769019489"
+      ]
+    },
+    "#000000": {
+      "count": 28,
+      "sources": [
+        "https://www.arka.com/",
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490",
+        "https://www.arka.com/cdn/shop/t/286/assets/swiper-bundle.min.css?v=8307759972561531291769019489"
+      ]
+    },
+    "#dddddd": {
+      "count": 25,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#337ab7": {
+      "count": 21,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#333333": {
+      "count": 19,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#777777": {
+      "count": 18,
+      "sources": [
+        "https://www.arka.com/",
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#eeeeee": {
+      "count": 14,
+      "sources": [
+        "https://www.arka.com/",
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#a94442": {
+      "count": 11,
+      "sources": [
+        "https://www.arka.com/",
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#3c763d": {
+      "count": 10,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#8a6d3b": {
+      "count": 10,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 9,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#cccccc": {
+      "count": 9,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#31708f": {
+      "count": 7,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#555555": {
+      "count": 7,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#f2f3f4": {
+      "count": 6,
+      "sources": [
+        "https://www.arka.com/",
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#fff9f7": {
+      "count": 6,
+      "sources": [
+        "https://www.arka.com/"
+      ]
+    },
+    "#fcf8e3": {
+      "count": 6,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#00000040": {
+      "count": 6,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#00000013": {
+      "count": 6,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#3d5675": {
+      "count": 5,
+      "sources": [
+        "https://www.arka.com/",
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#011f3a": {
+      "count": 5,
+      "sources": [
+        "https://www.arka.com/",
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 5,
+      "sources": [
+        "https://www.arka.com/",
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#286090": {
+      "count": 5,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#dff0d8": {
+      "count": 5,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#f2dede": {
+      "count": 5,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#090909": {
+      "count": 5,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#999999": {
+      "count": 4,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#d9edf7": {
+      "count": 4,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#5cb85c": {
+      "count": 4,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#449d44": {
+      "count": 4,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#5bc0de": {
+      "count": 4,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#31b0d5": {
+      "count": 4,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#f0ad4e": {
+      "count": 4,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#ec971f": {
+      "count": 4,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#d9534f": {
+      "count": 4,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#c9302c": {
+      "count": 4,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#e7e7e7": {
+      "count": 4,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#d6e9c6": {
+      "count": 4,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#bce8f1": {
+      "count": 4,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#faebcc": {
+      "count": 4,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#ebccd1": {
+      "count": 4,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#00000033": {
+      "count": 4,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#344a64": {
+      "count": 4,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#23527c": {
+      "count": 3,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 3,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#204d74": {
+      "count": 3,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#398439": {
+      "count": 3,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#269abc": {
+      "count": 3,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#d58512": {
+      "count": 3,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#ac2925": {
+      "count": 3,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#ffffff1a": {
+      "count": 3,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#444444": {
+      "count": 3,
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#e14744": {
+      "count": 2,
+      "sources": [
+        "https://www.arka.com/"
+      ]
+    },
+    "#222222": {
+      "count": 2,
+      "sources": [
+        "https://www.arka.com/",
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#a1a1a1": {
+      "count": 2,
+      "sources": [
+        "https://www.arka.com/"
+      ]
+    },
+    "#c4c4c4": {
+      "count": 2,
+      "sources": [
+        "https://www.arka.com/",
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#72bda3": {
+      "count": 2,
+      "sources": [
+        "https://www.arka.com/",
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "#f112b7": {
+      "count": 2,
+      "sources": [
+        "https://www.arka.com/"
+      ]
+    },
+    "#fec7f6": {
+      "count": 2,
+      "sources": [
+        "https://www.arka.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.arka.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+    ],
+    "Athelas": [
+      "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+    ],
+    "Consolas": [
+      "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+    ],
+    "Courier New": [
+      "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+    ],
+    "Euclid Flex": [
+      "https://www.arka.com/"
+    ],
+    "Futura": [
+      "https://www.arka.com/"
+    ],
+    "Futura PT": [
+      "https://www.arka.com/"
+    ],
+    "Glyphicons Halflings": [
+      "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+    ],
+    "Helvetica": [
+      "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+    ],
+    "Helvetica Neue": [
+      "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+    ],
+    "Lato": [
+      "https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap"
+    ],
+    "Material Icons": [
+      "https://fonts.googleapis.com/icon?family=Material+Icons"
+    ],
+    "Menlo": [
+      "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+    ],
+    "Monaco": [
+      "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+    ],
+    "monospace": [
+      "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+    ],
+    "sans-serif": [
+      "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+    ],
+    "serif": [
+      "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+    ],
+    "swiper-icons": [
+      "https://www.arka.com/cdn/shop/t/286/assets/swiper-bundle.min.css?v=8307759972561531291769019489"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.arka.com/",
+      "selector": ":root",
+      "declarations": "--font-lato: 'Lato', sans-serif;\n        --font-euclid-flex: 'Euclid Flex', sans-serif;\n        --font-futura: 'Futura', sans-serif;\n        --font-futura-pt: 'Futura PT', sans-serif;\n        --arka-primary-cta: #3d5675;\n        --arka-secondary-background: #F2F3F4;\n        --arka-danger: #E14744;\n        --arka-success-bg: #b7ded0;\n        --arka-danger-border: darken(#F0C9C8, 10%);\n        --arka-transparent: transparent;\n        --arka-white: #ffffff;\n        --arka-white-milk: #f2f2f2;\n        --arka-black: #000000;\n        --arka-black-text: #222222;\n        --arka-blue-text: #011f3a;\n        --arka-blue-background: #3d5675;\n        --arka-grey-title: #a1a1a1;\n        --arka-grey-text: "
+    },
+    {
+      "source": "https://www.arka.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.arka.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.arka.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.arka.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.arka.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.arka.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0"
+    },
+    {
+      "source": "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490",
+      "selector": ".btn>.caret,.dropup>.btn>.caret",
+      "declarations": "border-top-color:#000!important"
+    },
+    {
+      "source": "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490",
+      "selector": ".img-thumbnail,body",
+      "declarations": "background-color:#fff;line-height:1.428571429"
+    },
+    {
+      "source": "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490",
+      "selector": "body",
+      "declarations": "color:#333;font-family:Helvetica Neue,Helvetica,Arial,sans-serif;font-size:14px"
+    },
+    {
+      "source": "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490",
+      "selector": "button,input,select,textarea",
+      "declarations": "font-family:inherit;font-size:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490",
+      "selector": ".arka-panel .title,.h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6",
+      "declarations": "color:inherit;font-family:inherit;font-weight:500;line-height:1.1"
+    },
+    {
+      "source": "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490",
+      "selector": "ll,.h3 .small,.h3 small,.h4 .small,.h4 small,.h5 .small,.h5 small,.h6 .small,.h6 small,h1 .small,h1 small,h2 .small,h2 small,h3 .small,h3 small,h4 .small,h4 sma",
+      "declarations": "color:#777;font-weight:400;line-height:1"
+    },
+    {
+      "source": "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490",
+      "selector": ".list-group-item-text,.nav>li.disabled>a,.navbar-default .btn-link,.navbar-default .navbar-brand,.navbar-default .navbar-link,.navbar-default .navbar-nav>li>a,.",
+      "declarations": "color:#777"
+    },
+    {
+      "source": "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490",
+      "selector": "io-inline,.has-success.checkbox label,.has-success.checkbox-inline label,.has-success.radio label,.has-success.radio-inline label,.text-success,a.list-group-ite",
+      "declarations": "color:#3c763d"
+    },
+    {
+      "source": "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490",
+      "selector": ".text-info,a.list-group-item-info,button.list-group-item-info",
+      "declarations": "color:#31708f"
+    },
+    {
+      "source": "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490",
+      "selector": "io-inline,.has-warning.checkbox label,.has-warning.checkbox-inline label,.has-warning.radio label,.has-warning.radio-inline label,.text-warning,a.list-group-ite",
+      "declarations": "color:#8a6d3b"
+    },
+    {
+      "source": "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490",
+      "selector": "-error .radio-inline,.has-error.checkbox label,.has-error.checkbox-inline label,.has-error.radio label,.has-error.radio-inline label,.text-danger,a.list-group-i",
+      "declarations": "color:#a94442"
+    },
+    {
+      "source": "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490",
+      "selector": ".btn-default,.form-control,.navbar-inverse .navbar-toggle .icon-bar,.table .table",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490",
+      "selector": ".table-striped>tbody>tr:nth-of-type(odd)",
+      "declarations": "background-color:#f9f9f9"
+    },
+    {
+      "source": "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490",
+      "selector": ".table-hover>tbody>tr.active:hover>td,.table-hover>tbody>tr.active:hover>th,.table-hover>tbody>tr:hover>.active,.table-hover>tbody>tr>td.active:hover,.table-hov",
+      "declarations": "background-color:#e8e8e8"
+    },
+    {
+      "source": "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490",
+      "selector": ".table-hover>tbody>tr.success:hover>td,.table-hover>tbody>tr.success:hover>th,.table-hover>tbody>tr:hover>.success,.table-hover>tbody>tr>td.success:hover,.table",
+      "declarations": "background-color:#d0e9c6"
+    },
+    {
+      "source": "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490",
+      "selector": ".table-hover>tbody>tr.info:hover>td,.table-hover>tbody>tr.info:hover>th,.table-hover>tbody>tr:hover>.info,.table-hover>tbody>tr>td.info:hover,.table-hover>tbody",
+      "declarations": "background-color:#c4e3f3"
+    },
+    {
+      "source": "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490",
+      "selector": ".table-hover>tbody>tr.warning:hover>td,.table-hover>tbody>tr.warning:hover>th,.table-hover>tbody>tr:hover>.warning,.table-hover>tbody>tr>td.warning:hover,.table",
+      "declarations": "background-color:#faf2cc"
+    },
+    {
+      "source": "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490",
+      "selector": ".table-hover>tbody>tr.danger:hover>td,.table-hover>tbody>tr.danger:hover>th,.table-hover>tbody>tr:hover>.danger,.table-hover>tbody>tr>td.danger:hover,.table-hov",
+      "declarations": "background-color:#ebcccc"
+    },
+    {
+      "source": "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490",
+      "selector": ".btn.focus,.btn:focus,.btn:hover",
+      "declarations": "color:#333;text-decoration:none"
+    },
+    {
+      "source": "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490",
+      "selector": ".btn-default",
+      "declarations": "border-color:#ccc;color:#333"
+    },
+    {
+      "source": "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490",
+      "selector": ".btn-default.focus,.btn-default:focus",
+      "declarations": "background-color:#e6e6e6;border-color:#8c8c8c;color:#333"
+    },
+    {
+      "source": "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490",
+      "selector": ".btn-default:hover",
+      "declarations": "background-color:#e6e6e6;border-color:#adadad;color:#333"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Design Eco-Friendly Custom Packaging & Sustainable Boxes Online\n\n        –\n        Arka",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.arka.com/",
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.arka.com/",
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "colors.navy": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.arka.com/",
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.arka.com/",
+        "https://www.arka.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490",
+        "https://www.arka.com/cdn/shop/t/286/assets/swiper-bundle.min.css?v=8307759972561531291769019489"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.arka.com/",
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "colors.eyebrow": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.arka.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "colors.border-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.arka.com/",
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.arka.com/",
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.arka.com/",
+        "https://www.arka.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490",
+        "https://www.arka.com/cdn/shop/t/286/assets/swiper-bundle.min.css?v=8307759972561531291769019489"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.arka.com/",
+        "https://www.arka.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490",
+        "https://www.arka.com/cdn/shop/t/286/assets/swiper-bundle.min.css?v=8307759972561531291769019489"
+      ]
+    },
+    "colors.link": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "colors.link-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "colors.disabled": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.arka.com/"
+      ]
+    },
+    "colors.danger-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "colors.success-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "colors.warning-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "colors.info-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "colors.accent-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.arka.com/",
+        "https://www.arka.com/cdn/shop/t/286/assets/base.css?v=52475695636798537011769019490"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.quote-calculator": {
+      "status": "inferred"
+    }
+  }
+}

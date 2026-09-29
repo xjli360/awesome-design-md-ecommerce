@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Colored Organics
-description: A muted, earthy palette anchored by a deep navy blue (#006fcf) that serves as the primary brand voltage across CTAs, navigation accents, and footer backgrounds — a deliberate departure from the pastel pinks and mint greens typical of baby clothing. The supporting palette draws from natural fibers and organic dyes: sage greens (#8f9685, #89907e), warm clay (#9e8575), and a single burst of tangerine (#f48120) used sparingly for sale badges and promotional flags. The brand's typography layers two distinct voices — the clean, modern sans-serif of Averta for product titles and navigation, and the refined serif of Mrs Eaves for editorial body copy, with Baginda Script reserved for logo marks and decorative headings. Rounded corners are generous but not pill-shaped: product cards use {rounded.md} (12px), buttons use {rounded.sm} (8px), and the search bar uses {rounded.lg} (20px), creating a soft, approachable feel that mirrors the organic cotton textures the brand sells. The canvas is a warm off-white (#fcfcfc) rather than pure white, and the surface-soft (#f0f0f0) provides subtle depth without harsh contrast. The overall effect is a brand that feels grounded in nature — not through literal leaf motifs or earth tones, but through a restrained palette that lets the product photography of babies in organic onesies carry the emotional weight. The checkout flow introduces a secondary accent (#128522, a forest green) for success states and confirmation messaging, reinforcing the "organic" promise without shouting.
+name: "Colored Organics"
+source_url: "https://coloredorganics.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A muted, earthy palette anchored by a deep navy blue (#006fcf) that serves as the primary brand voltage across CTAs, navigation accents, and footer backgrounds — a deliberate departure from the pastel pinks and mint greens typical of baby clothing. The supporting palette draws from natural fibers and organic dyes: sage greens (#8f9685, #89907e), warm clay (#9e8575), and a single burst of tangerine (#f48120) used sparingly for sale badges and promotional flags. The brand's typography layers two distinct voices — the clean, modern sans-serif of Averta for product titles and navigation, and the refined serif of Mrs Eaves for editorial body copy, with Baginda Script reserved for logo marks and decorative headings. Rounded corners are generous but not pill-shaped: product cards use {rounded.md} (12px), buttons use {rounded.sm} (8px), and the search bar uses {rounded.lg} (20px), creating a soft, approachable feel that mirrors the organic cotton textures the brand sells. The canvas is a warm off-white (#fcfcfc) rather than pure white, and the surface-soft (#f0f0f0) provides subtle depth without harsh contrast. The overall effect is a brand that feels grounded in nature — not through literal leaf motifs or earth tones, but through a restrained palette that lets the product photography of babies in organic onesies carry the emotional weight. The checkout flow introduces a secondary accent (#128522, a forest green) for success states and confirmation messaging, reinforcing the "organic" promise without shouting.
 
 colors:
   primary: "#006fcf"
@@ -696,6 +700,8 @@ components:
 - Accordion sections (product details, shipping info) remain collapsed by default on all breakpoints
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for all components are inferred from common patterns; exact transition durations and easing curves are unknown (likely 200-300ms ease-in-out)
 - Focus ring styles for keyboard navigation are not specified; likely uses a 2px primary blue outline offset by 2px

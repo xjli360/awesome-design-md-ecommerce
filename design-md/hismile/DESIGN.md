@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Hismile
-description: Hismile is a vibrant, unapologetically playful oral-care brand that rejects clinical sterility in favor of candy-bright energy and Gen Z-friendly confidence. The palette is anchored by a shocking pink `#ff9cdc` and electric yellow `#ffd801` that feel more like a dessert brand than a toothpaste company — a deliberate signal that whitening and hygiene can be fun. Supporting accents of mint green `#7ae28d`, teal `#59cdc9`, and lavender `#d298f9` appear in product badges, gradient backgrounds, and limited-edition packaging, creating a rainbow ecosystem that makes each SKU feel collectible. The canvas is a warm off-white `#fffee9` rather than pure white, softening the overall feel, while ink text sits at `#222222` for strong readability against bright backgrounds. Typography leans on two distinct voices: PP Right Grotesk for bold, oversized headlines that shout confidence, and Pulp for clean, approachable body copy. Rounded corners are generous — buttons use `{rounded.sm}` (8px) while product cards and modals take `{rounded.md}` (12px) or `{rounded.lg}` (20px) — reinforcing a tactile, squishy, "friendly" feel. The brand makes heavy use of pill-shaped elements (`{rounded.full}`) for CTAs, search bars, and swatch badges, mirroring the shape of a toothpaste tube or a smile. Every design decision — from the `#ff3b30` error red to the `#4caf50` success green — feels lifted from a mobile game or a direct-to-consumer snack brand, not a dental aisle. The result is a system that prioritizes joy, shelf standout, and shareability over traditional "clean white" healthcare tropes.
+name: "Hismile"
+source_url: "https://www.hismileteeth.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Hismile is a vibrant, unapologetically playful oral-care brand that rejects clinical sterility in favor of candy-bright energy and Gen Z-friendly confidence. The palette is anchored by a shocking pink `#ff9cdc` and electric yellow `#ffd801` that feel more like a dessert brand than a toothpaste company — a deliberate signal that whitening and hygiene can be fun. Supporting accents of mint green `#7ae28d`, teal `#59cdc9`, and lavender `#d298f9` appear in product badges, gradient backgrounds, and limited-edition packaging, creating a rainbow ecosystem that makes each SKU feel collectible. The canvas is a warm off-white `#fffee9` rather than pure white, softening the overall feel, while ink text sits at `#222222` for strong readability against bright backgrounds. Typography leans on two distinct voices: PP Right Grotesk for bold, oversized headlines that shout confidence, and Pulp for clean, approachable body copy. Rounded corners are generous — buttons use `{rounded.sm}` (8px) while product cards and modals take `{rounded.md}` (12px) or `{rounded.lg}` (20px) — reinforcing a tactile, squishy, "friendly" feel. The brand makes heavy use of pill-shaped elements (`{rounded.full}`) for CTAs, search bars, and swatch badges, mirroring the shape of a toothpaste tube or a smile. Every design decision — from the `#ff3b30` error red to the `#4caf50` success green — feels lifted from a mobile game or a direct-to-consumer snack brand, not a dental aisle. The result is a system that prioritizes joy, shelf standout, and shareability over traditional "clean white" healthcare tropes.
 
 colors:
   primary: "#ff9cdc"
@@ -302,6 +306,8 @@ components:
 - Multi-step checkout collapses to a single-page form with accordion sections.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact hover and active states for all components (shadows, scale transforms) could not be reliably extracted from static CSS.
 - Error state styling for text inputs (icon, helper text color, border animation) is inferred from the `#ff3b30` error token but not verified.

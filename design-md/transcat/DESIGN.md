@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Transcat
-description: |
+name: "Transcat"
+source_url: "https://www.transcat.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Calibration is the science of knowing exactly where you stand — Transcat's interface extends that principle to its own visual ground truth, with the sole confirmed extraction being #313131, a warm near-black that reads like an instrument panel rather than a design affectation. The company straddles two distinct business lines: direct equipment sales across 130,000+ SKUs from Fluke, Keysight, and Tektronix, plus an ISO/IEC 17025-accredited calibration services division that makes Transcat one of the few metrology vendors that sells the tool and then certifies it afterward. That dual mandate shapes the interface's load — a product catalog must carry dense technical specifications, model comparators, and manufacturer facets simultaneously, while a services portal must communicate compliance authority to quality engineers and procurement managers who read certification marks the way consumers read star ratings.
 
   The system font stack — -apple-system, Roboto, Segoe UI, and generic sans-serif fallbacks — confirms no custom typeface loads through detectable channels, likely blocked behind the Cloudflare anti-bot layer that prevented full extraction. A system-native type strategy suits the B2B catalog context: legibility and information density over brand voice. Product cards carry exceptional payload in this category — a single SKU entry needs manufacturer logo, model number, short description, availability state, price, calibration-service flag, and rental indicator simultaneously. The badge system does critical semantic work here, distinguishing calibrated from non-calibrated stock with color-coded pills that procurement teams scan faster than label text. Corner radii stay modest — `{rounded.sm}` on cards, `{rounded.xs}` on badges, `{rounded.md}` on CTAs — enough softness to signal commercial approachability without erasing the clinical authority that metrology customers require. The top utility strip, almost certainly rendered in #313131, anchors the page hierarchy with account and phone links before the main nav takes over.
@@ -381,6 +384,8 @@ components:
 - Footer 4-column grid collapses to single-column accordion at mobile, 2-column at tablet; accreditation badges remain visible at all breakpoints
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Cloudflare anti-bot blocked full extraction.** The site returned a "Just a moment..." challenge page; only one hex value (#313131) and system font stacks were extractable. All other color tokens are inferred from B2B industrial brand conventions, not live site data.
 - **Primary accent color unconfirmed.** `{colors.primary}` (#004EA8) is an inferred professional blue consistent with industrial instrumentation brands. The actual brand blue may differ — verify against Transcat's brand guide or browser DevTools computed styles once the live site is accessible.

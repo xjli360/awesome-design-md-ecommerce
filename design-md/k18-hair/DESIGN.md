@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: K18 Hair
-description: K18 Hair is a biomimetic haircare brand that speaks in the quiet authority of science, not the shout of beauty marketing. The brand’s canvas is a warm, almost parchment-like off-white (`#f1e8d9`), a color that appears as the meta theme-color and surfaces across the site as a grounding background tone — it feels like the inside of a vintage science journal, not a glossy beauty magazine. Against this, the brand deploys a restrained palette of near-blacks (`#141414`, `#111111`, `#121212`) for body copy and structural elements, creating a high-contrast, editorial reading experience. The primary brand voltage is a muted violet (`#655dc6`) that appears in CTAs, hover states, and key accents — it’s a color that suggests innovation and depth, not frivolity. Supporting accents include a sharp lime green (`#cfde3e`), a hot pink (`#f6418e`), and a deep blue (`#0457ce`), used sparingly for badges, ingredient callouts, and secondary actions. Typography is set in Inter, a clean, highly legible sans-serif that reinforces the brand’s scientific credibility. Headlines are set in bold weights with tight line heights, while body text runs at moderate sizes with generous leading. The interface is defined by soft, pill-shaped buttons (`{rounded.full}`) and cards with gentle rounding (`{rounded.lg}`), creating a tactile, approachable feel that contrasts with the clinical precision of the copy. The overall mood is one of quiet confidence — the brand trusts its science and lets the product speak, using whitespace, muted tones, and deliberate color pops to guide the eye without visual noise.
+name: "K18 Hair"
+source_url: "https://www.k18hair.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  K18 Hair is a biomimetic haircare brand that speaks in the quiet authority of science, not the shout of beauty marketing. The brand’s canvas is a warm, almost parchment-like off-white (`#f1e8d9`), a color that appears as the meta theme-color and surfaces across the site as a grounding background tone — it feels like the inside of a vintage science journal, not a glossy beauty magazine. Against this, the brand deploys a restrained palette of near-blacks (`#141414`, `#111111`, `#121212`) for body copy and structural elements, creating a high-contrast, editorial reading experience. The primary brand voltage is a muted violet (`#655dc6`) that appears in CTAs, hover states, and key accents — it’s a color that suggests innovation and depth, not frivolity. Supporting accents include a sharp lime green (`#cfde3e`), a hot pink (`#f6418e`), and a deep blue (`#0457ce`), used sparingly for badges, ingredient callouts, and secondary actions. Typography is set in Inter, a clean, highly legible sans-serif that reinforces the brand’s scientific credibility. Headlines are set in bold weights with tight line heights, while body text runs at moderate sizes with generous leading. The interface is defined by soft, pill-shaped buttons (`{rounded.full}`) and cards with gentle rounding (`{rounded.lg}`), creating a tactile, approachable feel that contrasts with the clinical precision of the copy. The overall mood is one of quiet confidence — the brand trusts its science and lets the product speak, using whitespace, muted tones, and deliberate color pops to guide the eye without visual noise.
 
 colors:
   primary: "#655dc6"
@@ -439,6 +443,8 @@ components:
 - Side-by-side product details (image + description) stack vertically below 744px.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for all components could not be fully extracted; only primary and secondary buttons have confirmed hover colors.
 - Error styling for forms (e.g., error messages, error icons) is inferred from common patterns but not confirmed from the live site.

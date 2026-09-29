@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Roborock
-description: Robot vacuum silhouettes float in LiDAR-cold studio light above near-black fields (#161616, #313131) — the product is the hero, and Roborock's digital canvas is engineered to serve it. Primary interactive voltage runs through a medium cobalt blue (#4b71d9): it carries every add-to-cart button, active filter chip, and account link, sitting with authority against both the dark product stages and the light #f6f6f6 specification panels. A cluster of promotional reds (#ea0029, #d93840, #f92c50) marks sale pricing and countdown timers, functioning as a second signal layer rather than brand identity — the blue owns identity, the reds own urgency. A single status green (#68d44f) appears in product UI mockups and cleaning-map illustrations, calibrated to the same chromatic weight as the error red, suggesting the design team derived both from a shared HCI palette rather than brand spontaneity. Type runs proxima-nova throughout — geometric but not precious, legible at the small sizes that product specification grids demand — with Noto Sans KR as a first-class alternative for the Korean market where Roborock has significant share. Surface architecture is binary: sections either go white-adjacent (#f6f6f6, #f8f8f8) for spec comparisons and editorial content, or drop to near-black (#161616) for cinematic product reveals. Rounded corners stay moderate ({rounded.sm} 8px on inputs and cards, {rounded.md} 12px on larger containers), consistent with an engineering-forward identity — precise, not clinical. Promotional modules break the grid with full-bleed imagery and overlaid CTA pills ({rounded.full}), anchoring campaign content in a marketplace-familiar grammar that still reads premium against the product photography. No hard-cornered brutalism, no exaggerated softness — Roborock lands deliberately between the two.
+name: "Roborock"
+source_url: "https://www.roborock.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Robot vacuum silhouettes float in LiDAR-cold studio light above near-black fields (#161616, #313131) — the product is the hero, and Roborock's digital canvas is engineered to serve it. Primary interactive voltage runs through a medium cobalt blue (#4b71d9): it carries every add-to-cart button, active filter chip, and account link, sitting with authority against both the dark product stages and the light #f6f6f6 specification panels. A cluster of promotional reds (#ea0029, #d93840, #f92c50) marks sale pricing and countdown timers, functioning as a second signal layer rather than brand identity — the blue owns identity, the reds own urgency. A single status green (#68d44f) appears in product UI mockups and cleaning-map illustrations, calibrated to the same chromatic weight as the error red, suggesting the design team derived both from a shared HCI palette rather than brand spontaneity. Type runs proxima-nova throughout — geometric but not precious, legible at the small sizes that product specification grids demand — with Noto Sans KR as a first-class alternative for the Korean market where Roborock has significant share. Surface architecture is binary: sections either go white-adjacent (#f6f6f6, #f8f8f8) for spec comparisons and editorial content, or drop to near-black (#161616) for cinematic product reveals. Rounded corners stay moderate ({rounded.sm} 8px on inputs and cards, {rounded.md} 12px on larger containers), consistent with an engineering-forward identity — precise, not clinical. Promotional modules break the grid with full-bleed imagery and overlaid CTA pills ({rounded.full}), anchoring campaign content in a marketplace-familiar grammar that still reads premium against the product photography. No hard-cornered brutalism, no exaggerated softness — Roborock lands deliberately between the two.
 
 colors:
   primary: "#4b71d9"
@@ -408,6 +412,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No proprietary icon library identified; Roborock likely ships a custom glyph set not surfaced in CSS extraction — icon style (filled vs. outline, stroke weight, corner treatment) is inferred from engineering-brand context and cannot be confirmed
 - Exact mega-menu dropdown background treatment (white canvas vs. surface-soft) could not be confirmed from static extraction

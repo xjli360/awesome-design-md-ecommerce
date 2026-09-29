@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Womaness
-description: A matte, deliberate canvas of #f6f6f6 and #eeeeee — near-white surfaces that feel more like uncoated paper than a sterile screen — grounds a brand that treats aging as an art, not a problem to solve. The extracted palette is restrained: near-black ink (#141414) for body copy, a softer #545454 for secondary text, and a single accent of #1199ff that appears sparingly, likely in interactive elements or editorial links, never overwhelming the quiet authority of the greyscale. The site runs on Inter, a clean, slightly condensed sans-serif that reads as modern but not trendy — it has the legibility of a medical journal and the warmth of a well-designed newsletter. Product photography and editorial imagery do the heavy lifting of emotion; the UI stays out of the way. Cards and buttons use soft corners ({rounded.sm} ~8px) that feel approachable without being childish, and the generous use of hairline borders (#dedede, #e2e2e2) creates a subtle grid that organizes content without shouting. This is a brand that trusts its audience to appreciate nuance — there are no aggressive CTAs, no bright sale banners, no visual noise. The checkout experience, likely powered by Shopify, introduces third-party widgets (Klarna, Afterpay) that sit in their own visual system, a pragmatic concession to commerce that doesn't dilute the brand's editorial calm. Womaness speaks in the language of a trusted friend who happens to be a doctor: informed, warm, and utterly unflappable.
+name: "Womaness"
+source_url: "https://womaness.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A matte, deliberate canvas of #f6f6f6 and #eeeeee — near-white surfaces that feel more like uncoated paper than a sterile screen — grounds a brand that treats aging as an art, not a problem to solve. The extracted palette is restrained: near-black ink (#141414) for body copy, a softer #545454 for secondary text, and a single accent of #1199ff that appears sparingly, likely in interactive elements or editorial links, never overwhelming the quiet authority of the greyscale. The site runs on Inter, a clean, slightly condensed sans-serif that reads as modern but not trendy — it has the legibility of a medical journal and the warmth of a well-designed newsletter. Product photography and editorial imagery do the heavy lifting of emotion; the UI stays out of the way. Cards and buttons use soft corners ({rounded.sm} ~8px) that feel approachable without being childish, and the generous use of hairline borders (#dedede, #e2e2e2) creates a subtle grid that organizes content without shouting. This is a brand that trusts its audience to appreciate nuance — there are no aggressive CTAs, no bright sale banners, no visual noise. The checkout experience, likely powered by Shopify, introduces third-party widgets (Klarna, Afterpay) that sit in their own visual system, a pragmatic concession to commerce that doesn't dilute the brand's editorial calm. Womaness speaks in the language of a trusted friend who happens to be a doctor: informed, warm, and utterly unflappable.
 
 colors:
   primary: "#1199ff"
@@ -542,6 +546,8 @@ components:
 - **Product Image Gallery**: On mobile, the gallery collapses to a single image with swipeable thumbnails below. On tablet and above, a thumbnail strip on the side is visible.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states**: Extracted only from inferred behavior (button-primary-active, link colors). Actual hover transitions (duration, easing) not captured.
 - **Focus states**: Keyboard focus indicators (outline styles, ring colors) not extracted. Assumed to use `{colors.primary}` with 2px outline offset.

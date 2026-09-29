@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Mezco Toyz
-description: |
+name: "Mezco Toyz"
+source_url: "https://www.mezcotoyz.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Near-black (#272727) photography fields and ink-dark panel surfaces establish a collector's showcase register — not a toy shop but a precision archive where figures with hand-stitched fabric coats and die-cast metal hardware demand uninterrupted real estate. A single primary red (#bd2426) fires as the lone high-voltage signal across that dark canvas: every add-to-cart, every pre-order CTA, every featured-release callout is the same hot ember against near-black, producing unambiguous action hierarchy without size inflation. The rest of the palette fractures into product-state signals — steel blue (#62a1d8, #2f7bbf) for the One:12 Collective lineup blocks, acid green (#9bca3e) for in-stock badges, harvest orange (#f68b1f) for pre-order and limited-edition tags, deep navy (#163959) anchoring the sticky navigation bar — each color keyed to a collector purchase-state rather than deployed as decoration. Soft green (#bada7a) and dark green (#516b1d) encode back-order and re-stock states, completing a five-color availability traffic system legible at thumbnail scale.
 
   Typography falls entirely back to the system stack — Arial, Helvetica Neue, Roboto — with weight and scale doing all the work: 700-weight uppercase at 32–36px for hero product names that must punch through dense franchise grids, and fine 12px captions for edition counts, SKU details, and series codes that require legibility without competing with product photography. `{rounded.xs}` corners (4px) discipline every card, badge, input, and button — precision over softness, echoing the world of machined plastic tolerances and tight collector-box engineering. No pill shapes, no generous whitespace. The grid runs dense and four-column on desktop so collectors can scan horror, comics, DC, and Marvel breadth at a glance.
@@ -404,6 +407,8 @@ components:
 - Announcement and pre-order strips collapse to icon + short label on mobile below 480px to preserve nav visibility
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Site was behind a Cloudflare challenge at extraction time — no page HTML was parsed; all colors were derived from external CSS assets and may include product-photography palette colors rather than pure UI tokens
 - Custom or web font not detected — system stack (Arial, Helvetica Neue, Roboto) is inferred; a live render may reveal a custom logotype or display face loaded via JS

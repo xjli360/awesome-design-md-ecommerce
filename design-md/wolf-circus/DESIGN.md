@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Wolf Circus
-description: |
+name: "Wolf Circus"
+source_url: "https://www.wolfcircus.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Gellix — a geometric grotesque with warmth in its terminals — runs the entire Wolf Circus type system at weights that never climb above Bold, leaving the recycled gold vermeil and sterling silver in product photography to deliver all the color the page requires. The ink tone (#121212) reads softer than pure black, giving typography a matte, almost-printed quality; #dedede mirrors polished sterling silver in dividers and placeholder strokes, turning a structural element into a quiet material reference. Buttons hold a near-square profile with letter-spacing nudged open to 0.10em, signaling that the brand operates at an editorial cadence rather than a conversion-anxious one. The entire canvas is white (#ffffff), uninterrupted by brand-color washes or gradient overlays — the site's color arrives exclusively through product: warm yellow golds, cool silver, the occasional oxidized black finish.
 
   On the grid, product cards carry no visible border at rest; hover states surface a 1px hairline in #dedede rather than a color shift, keeping the neutral palette intact. Collection headers alternate between Gellix-Bold display at generous tracking and smaller Gellix-Regular body runs, establishing a rhythm borrowed more from print lookbooks than from Shopify's default templates. Navigation collapses to a hamburger on mobile without visible indicator count badges — the expectation is that the catalog is browsed, not searched.
@@ -320,6 +323,8 @@ components:
 - Footer columns stack vertically on mobile with each heading acting as a disclosure toggle for its link list
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only two hex colors were extracted (#121212, #dedede); all surface-soft, body, muted, and error tones are inferred from category convention — not confirmed from live site inspection
 - Gold vermeil, rose gold, and recycled silver swatch fill colors are approximated from product photography norms; actual rendered values for interactive chips are unconfirmed

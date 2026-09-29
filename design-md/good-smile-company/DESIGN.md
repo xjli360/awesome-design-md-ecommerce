@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Good Smile Company
-description: A collector's marketplace where the #ff860d voltage of an unboxing moment — that first flash of orange against a near-black stage — becomes the brand's entire emotional signature. Good Smile Company wraps its anime and pop-culture figures in a palette that reads like a convention hall at dusk: deep charcoals (#36363b, #444349, #202025) and a true black (#121212) form the display case, while two oranges — a bright #ff860d and a slightly warmer #f47920 — act as the accent lights that pick out price tags, add-to-cart buttons, and pre-order badges. The canvas is a warm off-white (#fffaf4) that avoids the sterile hospital feel of pure white, and the secondary gray (#939598) and light gray (#dedede) handle borders, dividers, and secondary text. The site runs on Shopify, so the checkout flow inherits that platform's conventions, but the storefront itself is a dark, dramatic gallery: product images float on black backgrounds, typography is clean and unobtrusive, and every interactive element — from the pill-shaped search bar to the orange CTA buttons — is designed to get out of the way of the merchandise. The brand trusts its IP above all else; the design system is a neutral, high-contrast frame for Nendoroids, Figmas, and scale figures.
+name: "Good Smile Company"
+source_url: "https://www.goodsmileus.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A collector's marketplace where the #ff860d voltage of an unboxing moment — that first flash of orange against a near-black stage — becomes the brand's entire emotional signature. Good Smile Company wraps its anime and pop-culture figures in a palette that reads like a convention hall at dusk: deep charcoals (#36363b, #444349, #202025) and a true black (#121212) form the display case, while two oranges — a bright #ff860d and a slightly warmer #f47920 — act as the accent lights that pick out price tags, add-to-cart buttons, and pre-order badges. The canvas is a warm off-white (#fffaf4) that avoids the sterile hospital feel of pure white, and the secondary gray (#939598) and light gray (#dedede) handle borders, dividers, and secondary text. The site runs on Shopify, so the checkout flow inherits that platform's conventions, but the storefront itself is a dark, dramatic gallery: product images float on black backgrounds, typography is clean and unobtrusive, and every interactive element — from the pill-shaped search bar to the orange CTA buttons — is designed to get out of the way of the merchandise. The brand trusts its IP above all else; the design system is a neutral, high-contrast frame for Nendoroids, Figmas, and scale figures.
 
 colors:
   primary: "#ff860d"
@@ -282,6 +286,8 @@ components:
 - Product card grids reduce columns: 4 → 3 → 2 → 1 as viewport narrows.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No font-family declarations were extracted from the live site. The typography block uses Inter as a reasonable system-adjacent sans-serif, but the actual brand font may differ. A review of the site's CSS or design assets is needed.
 - Hover and focus states for most components are inferred from common patterns (darkening primary, adding borders) but were not extracted from the live site.

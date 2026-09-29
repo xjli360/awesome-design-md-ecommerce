@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: HTC Vive
-description: A deep blue-violet anchor at #3a4570 grounds a VR ecosystem that lives in the tension between deep tech and human wonder — the extracted palette reads like a control room at dusk, with #c4c8d8 and #e3e5ec as cool silver-grey walls, #0096db and #00b3e3 as live data streams, and #ff9900 as the single alert-status accent that punches through the blues. Roboto runs the interface in clean, unadorned weights — no display-serif flourish, no decorative gesture — because the hardware is the spectacle and the UI must disappear. Buttons carry {rounded.sm} corners that feel precise rather than pill-soft, and the primary action sits in #0096db, a cyan that reads as "connected" against the navy of #3a4570. The secondary palette introduces #f17b4f and #d43430 as purchase or urgency signals, while #ffc168 and #aaaaaa handle badges and secondary metadata. This is not a friendly consumer brand — it is an instrument panel for immersive computing, where every hex serves legibility and system status at a glance.
+name: "HTC Vive"
+source_url: "https://www.vive.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep blue-violet anchor at #3a4570 grounds a VR ecosystem that lives in the tension between deep tech and human wonder — the extracted palette reads like a control room at dusk, with #c4c8d8 and #e3e5ec as cool silver-grey walls, #0096db and #00b3e3 as live data streams, and #ff9900 as the single alert-status accent that punches through the blues. Roboto runs the interface in clean, unadorned weights — no display-serif flourish, no decorative gesture — because the hardware is the spectacle and the UI must disappear. Buttons carry {rounded.sm} corners that feel precise rather than pill-soft, and the primary action sits in #0096db, a cyan that reads as "connected" against the navy of #3a4570. The secondary palette introduces #f17b4f and #d43430 as purchase or urgency signals, while #ffc168 and #aaaaaa handle badges and secondary metadata. This is not a friendly consumer brand — it is an instrument panel for immersive computing, where every hex serves legibility and system status at a glance.
 
 colors:
   primary: "#0096db"
@@ -336,6 +340,8 @@ components:
 - Hero section reduces vertical padding from 64px to 32px on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for buttons and links are inferred from common patterns; exact extracted hover hexes were not available from the static extraction
 - Error states for text inputs (border color, error message styling) not extracted

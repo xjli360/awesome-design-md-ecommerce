@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Foria
-description: A deep, intimate palette rooted in #222633 — a near-black ink that feels like the inside of a velvet box — sets Foria apart from the pastel-and-white conventions of sexual wellness. Against this darkness, #f388a1 (a warm, desaturated rose) and #9d4c1d (a burnt terracotta) emerge as the brand's emotional voltage: the rose for pleasure, the terracotta for grounding. The canvas is #fefefe, not pure white, giving body to a system where every surface card sits on {colors.surface-soft} (#dedede) and every hairline is {colors.hairline} (#aaaaaa). Typography runs on three weights of Basis Grotesque — bold for headlines, medium for navigation, regular for body — set at generous leading that mirrors the brand's unhurried, permission-giving voice. Buttons are pill-shaped ({rounded.full}), CTAs carry the rose voltage, and the entire experience feels like a private consultation rendered in type and space. The brand trusts negative space as much as it trusts its accent colors; product pages breathe with {spacing.section}-scale padding, and the checkout flow strips away every decorative element until only the essential remains: the product, the price, the path to purchase.
+name: "Foria"
+source_url: "https://foriawellness.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep, intimate palette rooted in #222633 — a near-black ink that feels like the inside of a velvet box — sets Foria apart from the pastel-and-white conventions of sexual wellness. Against this darkness, #f388a1 (a warm, desaturated rose) and #9d4c1d (a burnt terracotta) emerge as the brand's emotional voltage: the rose for pleasure, the terracotta for grounding. The canvas is #fefefe, not pure white, giving body to a system where every surface card sits on {colors.surface-soft} (#dedede) and every hairline is {colors.hairline} (#aaaaaa). Typography runs on three weights of Basis Grotesque — bold for headlines, medium for navigation, regular for body — set at generous leading that mirrors the brand's unhurried, permission-giving voice. Buttons are pill-shaped ({rounded.full}), CTAs carry the rose voltage, and the entire experience feels like a private consultation rendered in type and space. The brand trusts negative space as much as it trusts its accent colors; product pages breathe with {spacing.section}-scale padding, and the checkout flow strips away every decorative element until only the essential remains: the product, the price, the path to purchase.
 
 colors:
   primary: "#f388a1"
@@ -356,6 +360,8 @@ components:
 - Accordion sections remain single-column on mobile; on tablet and above, they can display side-by-side in a two-column layout.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components were inferred from common patterns; exact transition durations and easing curves were not extracted.
 - Error styling (input validation, form submission errors) beyond the `text-input-error` border color was not observed.

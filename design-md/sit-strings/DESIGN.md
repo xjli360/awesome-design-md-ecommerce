@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: SIT Strings
-description: A guitar-string brand that wears its midnight-blue #1b254f like a roadie’s jacket — deep, serious, and utterly unafraid of the dark. That navy anchors the entire experience, from the top nav bar to the footer, while a single electric-orange #ff9900 fires across every primary CTA and add-to-cart button like a hot pickup winding. The extracted palette is a mess of checkout-widget blues and social-icon reds, but the brand’s true voice lives in that contrast: a near-black #0e0e0e body text on a white canvas, with #7f7f7f and #555555 handling secondary labels and captions. Typography runs Montserrat at display sizes — a geometric sans with enough weight to hold its own against the dense navy — and system fallbacks for body copy. The site reads like a backstage pass: utilitarian, no-nonsense, but with a single moment of showmanship in that orange glow. Cards use {rounded.sm} corners, buttons are {rounded.sm} rectangles, and the search bar sits as a full-width {rounded.full} pill against the navy header. There is no softness here — only the hard corners of a road case and the bright signal of a live cable.
+name: "SIT Strings"
+source_url: "https://www.sitstrings.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A guitar-string brand that wears its midnight-blue #1b254f like a roadie’s jacket — deep, serious, and utterly unafraid of the dark. That navy anchors the entire experience, from the top nav bar to the footer, while a single electric-orange #ff9900 fires across every primary CTA and add-to-cart button like a hot pickup winding. The extracted palette is a mess of checkout-widget blues and social-icon reds, but the brand’s true voice lives in that contrast: a near-black #0e0e0e body text on a white canvas, with #7f7f7f and #555555 handling secondary labels and captions. Typography runs Montserrat at display sizes — a geometric sans with enough weight to hold its own against the dense navy — and system fallbacks for body copy. The site reads like a backstage pass: utilitarian, no-nonsense, but with a single moment of showmanship in that orange glow. Cards use {rounded.sm} corners, buttons are {rounded.sm} rectangles, and the search bar sits as a full-width {rounded.full} pill against the navy header. There is no softness here — only the hard corners of a road case and the bright signal of a live cable.
 
 colors:
   primary: "#ff9900"
@@ -337,6 +341,8 @@ components:
 - Search bar moves from inline nav to full-width below nav on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for buttons and links were inferred from common patterns; actual extracted hover colors may differ
 - Error styling (form validation, error messages) could not be reliably extracted from the live site

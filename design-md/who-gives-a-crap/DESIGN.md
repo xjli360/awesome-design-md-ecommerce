@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Who Gives a Crap
-description: A toilet paper brand that uses its own packaging as a billboard — the signature seafoam green #2dcb98 appears on every box, roll wrapper, and CTA button, a color so distinctive it reads as a category violation against the pastel-and-white DTC bathroom aisle. The palette is deliberately limited: near-black #121212 for headlines, warm gray #dedede for backgrounds and cards, and that single green voltage that carries the brand's mission (50% of profits fund toilets in developing countries) without ever feeling preachy. Typography runs system-native (no custom font detected, likely a deliberate cost-conscious choice that mirrors the brand's no-frills, direct-to-consumer ethos), with generous leading and modest weights that let the green do the work. Every corner is softly rounded — buttons at {rounded.full}, cards at {rounded.md}, even the subscription toggle — creating a friendly, approachable feel that undercuts the seriousness of the sanitation mission. The brand trusts its product photography (bright, clean, often featuring the green boxes in real bathrooms) and its cheeky copy (roll names like "Enormous" and "Luxury") over decorative flourishes. There is no hero image carousel, no parallax, no animation for animation's sake — the site loads fast, reads clean, and lets the green and the mission sell.
+name: "Who Gives a Crap"
+source_url: "https://whogivesacrap.org"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A toilet paper brand that uses its own packaging as a billboard — the signature seafoam green #2dcb98 appears on every box, roll wrapper, and CTA button, a color so distinctive it reads as a category violation against the pastel-and-white DTC bathroom aisle. The palette is deliberately limited: near-black #121212 for headlines, warm gray #dedede for backgrounds and cards, and that single green voltage that carries the brand's mission (50% of profits fund toilets in developing countries) without ever feeling preachy. Typography runs system-native (no custom font detected, likely a deliberate cost-conscious choice that mirrors the brand's no-frills, direct-to-consumer ethos), with generous leading and modest weights that let the green do the work. Every corner is softly rounded — buttons at {rounded.full}, cards at {rounded.md}, even the subscription toggle — creating a friendly, approachable feel that undercuts the seriousness of the sanitation mission. The brand trusts its product photography (bright, clean, often featuring the green boxes in real bathrooms) and its cheeky copy (roll names like "Enormous" and "Luxury") over decorative flourishes. There is no hero image carousel, no parallax, no animation for animation's sake — the site loads fast, reads clean, and lets the green and the mission sell.
 
 colors:
   primary: "#2dcb98"
@@ -471,6 +475,8 @@ components:
 - Search bar may collapse into icon-only on mobile, expanding on tap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only three hex colors were extracted from the live site (#dedede, #2dcb98, #121212). The remaining colors (body text, muted, error, success, etc.) are inferred from common DTC ecommerce patterns and may not match the brand's exact palette. A full design audit would be needed to confirm.
 - No custom font-family was detected — the site appears to use system fonts. This is unusual for a DTC brand and may indicate the extraction missed a loaded web font. The typography block uses a standard system font stack as a placeholder.

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Music Direct
-description: A deep-blue #003399 voltage runs through Music Direct like a master tape through a reel-to-reel — it is the primary color for every add-to-cart button, category header, and top-nav link, and it reads as both authoritative (audiophile-grade) and cool (midnight vinyl). The site operates on a bright white canvas with generous {spacing.section} breathing room between product rows, letting the album art and turntable photography carry the emotional weight. Typography leans on icomoon for iconography and a system sans-serif stack for body copy, with display headlines set at 24–32px in medium weight — enough presence to announce a 180g pressing without shouting. Product cards use a clean white surface with a subtle {rounded.sm} corner and a thin {colors.hairline} border, mimicking the sleeve of a record jacket. The search bar is a full-width pill at {rounded.full} with a magnifying-glass icomoon glyph, and the footer stacks three columns of links under a dark {colors.ink} background, grounding the page after all that white. The overall mood is one of precision and warmth — a listening room, not a warehouse.
+name: "Music Direct"
+source_url: "https://www.musicdirect.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep-blue #003399 voltage runs through Music Direct like a master tape through a reel-to-reel — it is the primary color for every add-to-cart button, category header, and top-nav link, and it reads as both authoritative (audiophile-grade) and cool (midnight vinyl). The site operates on a bright white canvas with generous {spacing.section} breathing room between product rows, letting the album art and turntable photography carry the emotional weight. Typography leans on icomoon for iconography and a system sans-serif stack for body copy, with display headlines set at 24–32px in medium weight — enough presence to announce a 180g pressing without shouting. Product cards use a clean white surface with a subtle {rounded.sm} corner and a thin {colors.hairline} border, mimicking the sleeve of a record jacket. The search bar is a full-width pill at {rounded.full} with a magnifying-glass icomoon glyph, and the footer stacks three columns of links under a dark {colors.ink} background, grounding the page after all that white. The overall mood is one of precision and warmth — a listening room, not a warehouse.
 
 colors:
   primary: "#003399"
@@ -294,6 +298,8 @@ components:
 - Product grid reduces from 4 columns to 1 column as viewport shrinks.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one hex color (#003399) was reliably extracted from the live site. All other colors in the palette are inferred from common e-commerce patterns and may not match the exact brand implementation.
 - No secondary or accent colors were extracted. The badge and star-rating colors are generic defaults.

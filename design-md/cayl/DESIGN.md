@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Cayl
-description: |
+name: "Cayl"
+source_url: "https://www.cayl.co.kr"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   #54473f — the color of dried clay after rain, of mountain sediment compacted by elevation — is Cayl's primary surface, and the refusal of spectacle it represents is the brand's clearest design statement. Where performance-gear competitors reach for high-vis orange or branded safety yellow, Cayl builds its primary CTA and active states from a muted ash-brown, the same neutral that technical garments take on after a season of genuine use. The full palette doubles down on this restraint: body text runs in #555555 rather than a high-contrast near-black, hairlines hold at #d9d9d9 and #e8e8e8, and the accent — #008bcc, a functional cerulean — exists not as brand voltage but as a navigation signal, appearing where precision pointing matters and disappearing everywhere it doesn't. The deeper #226699 steps in for link hierarchy, creating a two-tier link system that is operational rather than expressive.
 
   Typography is entirely Pretendard, the contemporary Korean sans-serif whose engineering spans Hangul and Latin with equal optical precision. The weight range is intentionally compressed: 400 for prose, 600 for labels and buttons, 700 for display sizes only. No condensed face for urgency, no slab serif for editorial register, no italic for emphasis. Hierarchy is established through scale — 40px display down to 11px uppercase label — and color value rather than typeface switching, reflecting a design culture that trusts material evidence over ornament.
@@ -328,6 +331,8 @@ components:
 - Hero subhead and CTA stack vertically with reduced padding on mobile; headline scales to display-md
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Darkest ink/heading color not directly extracted — #333333 used as logical derivation; actual value may be #222222 or #555555
 - primary-active (#3a3028) and primary-disabled (#a8998f) are derived from extracted primary #54473f; not confirmed from live site

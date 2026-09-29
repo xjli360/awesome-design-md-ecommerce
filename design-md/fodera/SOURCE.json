@@ -1,0 +1,852 @@
+{
+  "source_url": "https://www.fodera.com",
+  "final_url": "https://fodera.com/",
+  "captured_at": "2026-09-28T09:51:30.423261+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.fodera.com",
+      "final_url": "https://fodera.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "e9b2eeca26304a264d7e026e48acd662e8a9f94bf233e4b9e6cd788fb746f164",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://fodera.com/cdn/shop/t/8/assets/theme.css?v=129879238941193562171736442539",
+      "final_url": "https://fodera.com/cdn/shop/t/8/assets/theme.css?v=129879238941193562171736442539",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4262e74f8bbfca85cac7c0c5ccf36ae32843fd7c930eeaf673b3ae173b7f7252",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://fodera.com/cdn/shop/t/8/assets/swatches.css?v=157844926215047500451736442539",
+      "final_url": "https://fodera.com/cdn/shop/t/8/assets/swatches.css?v=157844926215047500451736442539",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "fb32facf335d98c98def4c2a8c5aaac5517a59340a1275e3d00cd52e85619ba7",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://fodera.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://fodera.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0d2a9-2506-7d72-ae0d-dfc9346292d9/apo-product-options-293/assets/mws_apo_bundle.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0d2a9-2506-7d72-ae0d-dfc9346292d9/apo-product-options-293/assets/mws_apo_bundle.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0b5c7452fc0b2db81da04678045649cfa9cdfbe5ae9ac3a229a664be74d29f3f",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "60140bd03b6272c33abaaf9a0f6e3c3c72c23e66b7c98e86d9dc1b37aed65c72",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 145,
+      "sources": [
+        "https://fodera.com/",
+        "https://fodera.com/cdn/shop/t/8/assets/theme.css?v=129879238941193562171736442539",
+        "https://fodera.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0d2a9-2506-7d72-ae0d-dfc9346292d9/apo-product-options-293/assets/mws_apo_bundle.css",
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "#000000": {
+      "count": 74,
+      "sources": [
+        "https://fodera.com/",
+        "https://fodera.com/cdn/shop/t/8/assets/theme.css?v=129879238941193562171736442539",
+        "https://fodera.com/cdn/shop/t/8/assets/swatches.css?v=157844926215047500451736442539",
+        "https://cdn.shopify.com/extensions/01a0d2a9-2506-7d72-ae0d-dfc9346292d9/apo-product-options-293/assets/mws_apo_bundle.css",
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "#212121": {
+      "count": 35,
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "#ab8c52": {
+      "count": 30,
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "#f5f2ec": {
+      "count": 16,
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "#c9cccf": {
+      "count": 15,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a9-2506-7d72-ae0d-dfc9346292d9/apo-product-options-293/assets/mws_apo_bundle.css",
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 14,
+      "sources": [
+        "https://fodera.com/cdn/shop/t/8/assets/theme.css?v=129879238941193562171736442539",
+        "https://cdn.shopify.com/extensions/01a0d2a9-2506-7d72-ae0d-dfc9346292d9/apo-product-options-293/assets/mws_apo_bundle.css",
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "#121212": {
+      "count": 13,
+      "sources": [
+        "https://fodera.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0d2a9-2506-7d72-ae0d-dfc9346292d9/apo-product-options-293/assets/mws_apo_bundle.css"
+      ]
+    },
+    "#282c2e": {
+      "count": 11,
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "#806430": {
+      "count": 11,
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "#e8d4ae": {
+      "count": 11,
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "#303030": {
+      "count": 11,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a9-2506-7d72-ae0d-dfc9346292d9/apo-product-options-293/assets/mws_apo_bundle.css"
+      ]
+    },
+    "#3b3b3b": {
+      "count": 10,
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "#9a7e4a": {
+      "count": 9,
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 8,
+      "sources": [
+        "https://fodera.com/cdn/shop/t/8/assets/swatches.css?v=157844926215047500451736442539",
+        "https://cdn.shopify.com/extensions/01a0d2a9-2506-7d72-ae0d-dfc9346292d9/apo-product-options-293/assets/mws_apo_bundle.css"
+      ]
+    },
+    "#0070c9": {
+      "count": 8,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a9-2506-7d72-ae0d-dfc9346292d9/apo-product-options-293/assets/mws_apo_bundle.css"
+      ]
+    },
+    "#fcfbf9": {
+      "count": 7,
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "#d6d6d6": {
+      "count": 7,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a9-2506-7d72-ae0d-dfc9346292d9/apo-product-options-293/assets/mws_apo_bundle.css"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 7,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a9-2506-7d72-ae0d-dfc9346292d9/apo-product-options-293/assets/mws_apo_bundle.css"
+      ]
+    },
+    "#a49c8b": {
+      "count": 6,
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "#f7f4ef": {
+      "count": 6,
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "#d1cdc4": {
+      "count": 6,
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 4,
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "#f0ebe2": {
+      "count": 4,
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "#fafafa": {
+      "count": 4,
+      "sources": [
+        "https://fodera.com/",
+        "https://fodera.com/cdn/shop/t/8/assets/theme.css?v=129879238941193562171736442539",
+        "https://fodera.com/cdn/shop/t/8/assets/swatches.css?v=157844926215047500451736442539"
+      ]
+    },
+    "#0000000d": {
+      "count": 4,
+      "sources": [
+        "https://fodera.com/cdn/shop/t/8/assets/theme.css?v=129879238941193562171736442539"
+      ]
+    },
+    "#00000033": {
+      "count": 4,
+      "sources": [
+        "https://fodera.com/cdn/shop/t/8/assets/theme.css?v=129879238941193562171736442539",
+        "https://cdn.shopify.com/extensions/01a0d2a9-2506-7d72-ae0d-dfc9346292d9/apo-product-options-293/assets/mws_apo_bundle.css",
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "#00000000": {
+      "count": 4,
+      "sources": [
+        "https://fodera.com/cdn/shop/t/8/assets/theme.css?v=129879238941193562171736442539",
+        "https://fodera.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#636262": {
+      "count": 3,
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "#f4f0e8": {
+      "count": 3,
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 3,
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "#ece7db": {
+      "count": 3,
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "#c0c0c0": {
+      "count": 3,
+      "sources": [
+        "https://fodera.com/",
+        "https://fodera.com/cdn/shop/t/8/assets/swatches.css?v=157844926215047500451736442539"
+      ]
+    },
+    "#00000005": {
+      "count": 3,
+      "sources": [
+        "https://fodera.com/cdn/shop/t/8/assets/theme.css?v=129879238941193562171736442539"
+      ]
+    },
+    "#0000008c": {
+      "count": 3,
+      "sources": [
+        "https://fodera.com/cdn/shop/t/8/assets/theme.css?v=129879238941193562171736442539"
+      ]
+    },
+    "#0000004d": {
+      "count": 3,
+      "sources": [
+        "https://fodera.com/cdn/shop/t/8/assets/theme.css?v=129879238941193562171736442539",
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "#e8e8e1": {
+      "count": 3,
+      "sources": [
+        "https://fodera.com/cdn/shop/t/8/assets/theme.css?v=129879238941193562171736442539"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 3,
+      "sources": [
+        "https://fodera.com/cdn/shop/t/8/assets/theme.css?v=129879238941193562171736442539",
+        "https://cdn.shopify.com/extensions/01a0d2a9-2506-7d72-ae0d-dfc9346292d9/apo-product-options-293/assets/mws_apo_bundle.css",
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "#de3618": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a9-2506-7d72-ae0d-dfc9346292d9/apo-product-options-293/assets/mws_apo_bundle.css"
+      ]
+    },
+    "#dfe3e8": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a9-2506-7d72-ae0d-dfc9346292d9/apo-product-options-293/assets/mws_apo_bundle.css"
+      ]
+    },
+    "#c9e7ff": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a9-2506-7d72-ae0d-dfc9346292d9/apo-product-options-293/assets/mws_apo_bundle.css"
+      ]
+    },
+    "#d0d0d0": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a9-2506-7d72-ae0d-dfc9346292d9/apo-product-options-293/assets/mws_apo_bundle.css"
+      ]
+    },
+    "#e3e3e3": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a9-2506-7d72-ae0d-dfc9346292d9/apo-product-options-293/assets/mws_apo_bundle.css"
+      ]
+    },
+    "#121212bf": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a9-2506-7d72-ae0d-dfc9346292d9/apo-product-options-293/assets/mws_apo_bundle.css"
+      ]
+    },
+    "#a09e99": {
+      "count": 2,
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "#dfdcd4": {
+      "count": 2,
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "#b0a38b": {
+      "count": 2,
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "#aa9c82": {
+      "count": 2,
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "#868154": {
+      "count": 2,
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "#7d784e": {
+      "count": 2,
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "#eae6dd": {
+      "count": 2,
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "#e4dfd4": {
+      "count": 2,
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "#d1d0ce": {
+      "count": 2,
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 2,
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "#0000000a": {
+      "count": 2,
+      "sources": [
+        "https://fodera.com/cdn/shop/t/8/assets/theme.css?v=129879238941193562171736442539"
+      ]
+    },
+    "#222222": {
+      "count": 2,
+      "sources": [
+        "https://fodera.com/cdn/shop/t/8/assets/theme.css?v=129879238941193562171736442539",
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 2,
+      "sources": [
+        "https://fodera.com/cdn/shop/t/8/assets/theme.css?v=129879238941193562171736442539",
+        "https://fodera.com/cdn/shop/t/8/assets/swatches.css?v=157844926215047500451736442539"
+      ]
+    },
+    "#0000001a": {
+      "count": 2,
+      "sources": [
+        "https://fodera.com/cdn/shop/t/8/assets/theme.css?v=129879238941193562171736442539",
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "#00ffff": {
+      "count": 2,
+      "sources": [
+        "https://fodera.com/cdn/shop/t/8/assets/swatches.css?v=157844926215047500451736442539"
+      ]
+    },
+    "#808080": {
+      "count": 2,
+      "sources": [
+        "https://fodera.com/cdn/shop/t/8/assets/swatches.css?v=157844926215047500451736442539"
+      ]
+    }
+  },
+  "font_families": {
+    "IBM Plex Sans": [
+      "https://fodera.com/"
+    ],
+    "Inter": [
+      "https://cdn.shopify.com/extensions/01a0d2a9-2506-7d72-ae0d-dfc9346292d9/apo-product-options-293/assets/mws_apo_bundle.css"
+    ],
+    "Poppins": [
+      "https://fodera.com/"
+    ],
+    "sans-serif": [
+      "https://cdn.shopify.com/extensions/01a0d2a9-2506-7d72-ae0d-dfc9346292d9/apo-product-options-293/assets/mws_apo_bundle.css"
+    ],
+    "xoswiper-icons": [
+      "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://fodera.com/",
+      "selector": "body, .color-scheme-1, .color-scheme-2, .color-scheme-3, .color-scheme-4, .color-scheme-5, .color-scheme-6, .color-scheme-7, .color-scheme-8, .color-scheme-9, .",
+      "declarations": "color: var(--text);\n    background: var(--bg);"
+    },
+    {
+      "source": "https://fodera.com/",
+      "selector": ":root",
+      "declarations": "--HEADER-HEIGHT: 200.4816247582205px;\n    --HEADER-HEIGHT-MEDIUM: 147.4816247582205px;\n    --HEADER-HEIGHT-MOBILE: 67.3926499032882px;\n\n    \n--icon-add-cart: var(--ICON-ADD-BAG);"
+    },
+    {
+      "source": "https://fodera.com/",
+      "selector": ".theme__header",
+      "declarations": "--PT: 15px;\n    --PB: 15px;"
+    },
+    {
+      "source": "https://fodera.com/",
+      "selector": ".header__logo__link",
+      "declarations": "--logo-padding: 41.1605415860735%;\n      --logo-width-desktop: 300px;\n      --logo-width-mobile: 120px;"
+    },
+    {
+      "source": "https://fodera.com/",
+      "selector": "2857142857143;\n--swatch-size: var(--swatch-size-product)\n--swatch-size: var(--swatch-size-filters);\n--aspect-ratio: 0.7142857142857143;\n--swatch-size: var(--swa",
+      "declarations": "--PT: 75px;\n    --PB: 30px;\n    --item-count: 3;"
+    },
+    {
+      "source": "https://fodera.com/",
+      "selector": ":root",
+      "declarations": "--aa-search-input-height:44px;--aa-input-icon-size:20px;--aa-base-unit:16;--aa-spacing-factor:1;--aa-spacing:calc(var(--aa-base-unit)*var(--aa-spacing-factor)*1px);--aa-spacing-half:calc(var(--aa-spacing)/2);--aa-panel-max-height-max:650px;--aa-panel-max-height:var(--aa-panel-max-height-max);--aa-base-z-index:9999;--aa-font-size:calc(var(--aa-base-unit)*1px);--aa-font-family:inherit;--aa-font-weight-medium:500;--aa-font-weight-semibold:600;--aa-font-weight-bold:700;--aa-icon-size:20px;--aa-icon-stroke-width:1.6;--aa-icon-color-rgb:119,119,163;--aa-icon-color-alpha:1;--aa-action-icon-size:20px;--aa-text-color-rgb:38,38,39;--aa-text-color-alpha:1;--aa-primary-color-rgb:62,52,211;--aa-primary-c"
+    },
+    {
+      "source": "https://fodera.com/",
+      "selector": ":root",
+      "declarations": "--aa-spacing-factor:1.2;--aa-action-icon-size:22px"
+    },
+    {
+      "source": "https://fodera.com/",
+      "selector": "body.dark,body[data-theme=dark]",
+      "declarations": "--aa-text-color-rgb:183,192,199;--aa-primary-color-rgb:146,138,255;--aa-muted-color-rgb:146,138,255;--aa-input-background-color-rgb:0,3,9;--aa-background-color-rgb:21,24,42;--aa-selected-color-rgb:146,138,255;--aa-selected-color-alpha:0.25;--aa-description-highlight-background-color-rgb:0 255 255;--aa-description-highlight-background-color-alpha:0.25;--aa-icon-color-rgb:119,119,163;--aa-panel-shadow:inset 1px 1px 0 0 #2c2e40,0 3px 8px 0 #000309;--aa-scrollbar-track-background-color-rgb:44,46,64;--aa-scrollbar-thumb-background-color-rgb:var(--aa-background-color-rgb)"
+    },
+    {
+      "source": "https://fodera.com/",
+      "selector": ".aa-ClearButton",
+      "declarations": "align-items:center;background:none;border:0;color:rgba(var(--aa-muted-color-rgb),var(--aa-muted-color-alpha));cursor:pointer;display:flex;height:100%;margin:0;padding:0 calc(var(--aa-spacing)*.83333 - .5px)"
+    },
+    {
+      "source": "https://fodera.com/",
+      "selector": ".aa-ClearButton:focus,.aa-ClearButton:hover",
+      "declarations": "color:rgba(var(--aa-text-color-rgb),var(--aa-text-color-alpha))"
+    },
+    {
+      "source": "https://fodera.com/",
+      "selector": ".aa-SourceHeaderTitle",
+      "declarations": "background:rgba(var(--aa-background-color-rgb),var(--aa-background-color-alpha));color:rgba(var(--aa-primary-color-rgb),1);display:inline-block;font-size:.9em;font-weight:var(--aa-font-weight-semibold);margin:0;padding:0 var(--aa-spacing-half) 0 0;position:relative;z-index:var(--aa-base-z-index)"
+    },
+    {
+      "source": "https://fodera.com/",
+      "selector": ".aa-ItemActionButton",
+      "declarations": "align-items:center;background:none;border:0;color:rgba(var(--aa-muted-color-rgb),var(--aa-muted-color-alpha));cursor:pointer;display:flex;flex-shrink:0;padding:0"
+    },
+    {
+      "source": "https://fodera.com/",
+      "selector": ".aa-ItemActionButton:focus svg,.aa-ItemActionButton:hover svg",
+      "declarations": "color:rgba(var(--aa-text-color-rgb),var(--aa-text-color-alpha))"
+    },
+    {
+      "source": "https://fodera.com/",
+      "selector": ".aa-ItemActionButton:focus svg,.aa-ItemActionButton:hover svg",
+      "declarations": "color:inherit"
+    },
+    {
+      "source": "https://fodera.com/",
+      "selector": ".aa-ItemActionButton svg",
+      "declarations": "color:rgba(var(--aa-muted-color-rgb),var(--aa-muted-color-alpha));margin:0;margin:calc(var(--aa-spacing)/3);stroke-width:var(--aa-icon-stroke-width);width:var(--aa-action-icon-size)"
+    },
+    {
+      "source": "https://fodera.com/",
+      "selector": ".aa-PanelHeader",
+      "declarations": "align-items:center;background:rgba(var(--aa-primary-color-rgb),1);color:#fff;display:grid;height:var(--aa-modal-header-height);margin:0;padding:var(--aa-spacing-half) var(--aa-spacing);position:relative"
+    },
+    {
+      "source": "https://fodera.com/",
+      "selector": ".aa-DetachedCancelButton",
+      "declarations": "background:none;border:0;border-radius:3px;color:inherit;color:rgba(var(--aa-text-color-rgb),var(--aa-text-color-alpha));cursor:pointer;font:inherit;margin:0 0 0 var(--aa-spacing-half);padding:0 var(--aa-spacing-half)"
+    },
+    {
+      "source": "https://fodera.com/",
+      "selector": ".aa-DetachedSearchButton",
+      "declarations": "align-items:center;background-color:rgba(var(--aa-input-background-color-rgb),var(--aa-input-background-color-alpha));border:1px solid rgba(var(--aa-input-border-color-rgb),var(--aa-input-border-color-alpha));border-radius:3px;color:rgba(var(--aa-muted-color-rgb),var(--aa-muted-color-alpha));cursor:pointer;display:flex;font:inherit;font-family:var(--aa-font-family);font-size:var(--aa-font-size);height:var(--aa-search-input-height);margin:0;padding:0 calc(var(--aa-search-input-height)/8);position:relative;text-align:left;width:100%"
+    },
+    {
+      "source": "https://fodera.com/",
+      "selector": ".aa-DetachedSearchButton:focus",
+      "declarations": "border-color:rgba(var(--aa-primary-color-rgb),1);box-shadow:rgba(var(--aa-primary-color-rgb),var(--aa-primary-color-alpha)) 0 0 0 3px,inset rgba(var(--aa-primary-color-rgb),var(--aa-primary-color-alpha)) 0 0 0 2px;outline:medium none currentColor"
+    },
+    {
+      "source": "https://fodera.com/",
+      "selector": ".aa-DetachedSearchButtonIcon",
+      "declarations": "align-items:center;color:rgba(var(--aa-primary-color-rgb),1);cursor:auto;display:flex;height:100%;justify-content:center;width:calc(var(--aa-icon-size) + var(--aa-spacing))"
+    },
+    {
+      "source": "https://fodera.com/",
+      "selector": ".aa-Source[data-autocomplete-source-id=products] .aa-ItemContent mark",
+      "declarations": "color:rgb(var(--aa-highlight-color-rgb))"
+    },
+    {
+      "source": "https://fodera.com/",
+      "selector": ".aa-Source[data-autocomplete-source-id=products] .aa-ItemContentBrand",
+      "declarations": "color:rgb(var(--aa-muted-color-rgb));font-size:.7em;overflow:hidden;text-overflow:ellipsis;text-transform:uppercase;white-space:nowrap"
+    },
+    {
+      "source": "https://fodera.com/",
+      "selector": ".aa-Source[data-autocomplete-source-id=products] .aa-ItemContentPriceDiscounted",
+      "declarations": "color:rgb(var(--aa-muted-color-rgb));font-size:.9em;text-decoration:line-through"
+    },
+    {
+      "source": "https://fodera.com/",
+      "selector": ".algolia-horizon-theme .aa-ClearButton,.algolia-horizon-theme .aa-ClearButton:focus,.algolia-horizon-theme .aa-ClearButton:hover",
+      "declarations": "color:rgba(var(--algolia-horizon-accent-rgb),1);font:inherit;font-weight:var(--aa-font-weight-medium)"
+    },
+    {
+      "source": "https://fodera.com/",
+      "selector": ".algolia-horizon-theme .aa-HorizonModalCloseButton",
+      "declarations": "align-items:center;background:none;border:0;color:rgba(var(--aa-text-color-rgb),var(--aa-text-color-alpha));cursor:pointer;display:flex;grid-area:1/2;height:calc(var(--aa-spacing)*1.5);justify-content:center;margin:0;padding:0;width:calc(var(--aa-spacing)*1.5)"
+    },
+    {
+      "source": "https://fodera.com/cdn/shop/t/8/assets/theme.css?v=129879238941193562171736442539",
+      "selector": ".flickity-button",
+      "declarations": "position:absolute;border:none;background:none;color:inherit"
+    },
+    {
+      "source": "https://fodera.com/cdn/shop/t/8/assets/theme.css?v=129879238941193562171736442539",
+      "selector": ".flickity-prev-next-button",
+      "declarations": "--bg: var(--COLOR-BG);--bg-brighter: var(--COLOR-BG-BRIGHTER);--icon-size: 28px;--btn-size: 40px;top:50%;width:var(--btn-size);height:var(--btn-size);padding:0;background-color:var(--bg);border-radius:var(--RADIUS);box-shadow:0 2px 6px #0000000a,0 2px 2px #00000005;margin-top:calc(var(--btn-size) / -2)"
+    },
+    {
+      "source": "https://fodera.com/cdn/shop/t/8/assets/theme.css?v=129879238941193562171736442539",
+      "selector": ".flickity-prev-next-button:after",
+      "declarations": "content:\"\";position:absolute;top:0;left:-60px;z-index:-1;width:calc(100% + 120px);height:100%;background-color:var(--bg-brighter);opacity:1;transform:translate3d(-100%,0,0) skew(30deg);transition:transform .5s cubic-bezier(.33,0,0,1);will-change:transform;-webkit-backface-visibility:hidden;backface-visibility:hidden"
+    },
+    {
+      "source": "https://fodera.com/cdn/shop/t/8/assets/theme.css?v=129879238941193562171736442539",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button",
+      "declarations": "color:#3a3a3a;border-radius:0;border:none;margin:0;cursor:pointer"
+    },
+    {
+      "source": "https://fodera.com/cdn/shop/t/8/assets/theme.css?v=129879238941193562171736442539",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button--control:hover",
+      "declarations": "color:#0000008c"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Fodera Guitars - Handmade in Brooklyn",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fodera.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0d2a9-2506-7d72-ae0d-dfc9346292d9/apo-product-options-293/assets/mws_apo_bundle.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fodera.com/",
+        "https://fodera.com/cdn/shop/t/8/assets/theme.css?v=129879238941193562171736442539",
+        "https://fodera.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0d2a9-2506-7d72-ae0d-dfc9346292d9/apo-product-options-293/assets/mws_apo_bundle.css",
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fodera.com/cdn/shop/t/8/assets/swatches.css?v=157844926215047500451736442539",
+        "https://cdn.shopify.com/extensions/01a0d2a9-2506-7d72-ae0d-dfc9346292d9/apo-product-options-293/assets/mws_apo_bundle.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fodera.com/",
+        "https://fodera.com/cdn/shop/t/8/assets/theme.css?v=129879238941193562171736442539",
+        "https://fodera.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0d2a9-2506-7d72-ae0d-dfc9346292d9/apo-product-options-293/assets/mws_apo_bundle.css",
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "colors.accent-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "colors.accent-olive": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "colors.cream": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "colors.taupe": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fodera.com/"
+      ]
+    },
+    "colors.border-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a9-2506-7d72-ae0d-dfc9346292d9/apo-product-options-293/assets/mws_apo_bundle.css"
+      ]
+    },
+    "colors.alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d2a9-2506-7d72-ae0d-dfc9346292d9/apo-product-options-293/assets/mws_apo_bundle.css"
+      ]
+    },
+    "colors.overlay-scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fodera.com/cdn/shop/t/8/assets/theme.css?v=129879238941193562171736442539",
+        "https://cdn.shopify.com/extensions/01a0d2a9-2506-7d72-ae0d-dfc9346292d9/apo-product-options-293/assets/mws_apo_bundle.css",
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.swatch-selector": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Harber London
-description: The tan that defines Harber London — `#af9363`, a shade indistinguishable from fresh vegetable-tanned hide — appears not as decoration but as structural identity: it governs every primary CTA, every leather-hue callout, and the small stitching-detail icons that punctuate the product grid. The canvas underneath runs warm, cycling between `#f5f1ee` and `#f5f2eb` rather than clinical white, so full-grain leather photography reads as continuity rather than contrast. Against that warmth, the type system runs two registers: Libre Baskerville at large display sizes carries the Old World craft authority that a brand selling £200 cardholders requires, while Neue Haas Unica handles all UI chrome — quantity selectors, nav labels, shipping banners — with the disciplined neutrality of Swiss print. An unexpected deep teal, `#108474`, cuts through the earth-tone palette on selected accent moments: free-delivery banners, availability indicators, and the active underline in tabbed navigation. It is cool, mineralic, and deliberate — the only hue on the page with no leather analogue. Product cards carry almost no chrome: a soft `{colors.surface-soft}` tray, a hairline border at `#e9e9e9`, and a Libre Baskerville product name set at 16px regular weight, trusting the object image to do the persuasion. Buttons are pressed flush — border-radius sits at 2px, a near-hard corner that signals craft over consumer-tech friendliness, echoing the squared-off edges of press-stamped leather hardware. The checkout corridor tightens to a single column with generous `{spacing.xxl}` vertical rhythm, reducing distraction at the highest-intent moment on the site. Mobile collapses the top nav to a minimal hamburger while the Harber London wordmark stays centred and visible at all breakpoints, functioning as the single fixed visual anchor across device widths.
+name: "Harber London"
+source_url: "https://www.harberlondon.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The tan that defines Harber London — `#af9363`, a shade indistinguishable from fresh vegetable-tanned hide — appears not as decoration but as structural identity: it governs every primary CTA, every leather-hue callout, and the small stitching-detail icons that punctuate the product grid. The canvas underneath runs warm, cycling between `#f5f1ee` and `#f5f2eb` rather than clinical white, so full-grain leather photography reads as continuity rather than contrast. Against that warmth, the type system runs two registers: Libre Baskerville at large display sizes carries the Old World craft authority that a brand selling £200 cardholders requires, while Neue Haas Unica handles all UI chrome — quantity selectors, nav labels, shipping banners — with the disciplined neutrality of Swiss print. An unexpected deep teal, `#108474`, cuts through the earth-tone palette on selected accent moments: free-delivery banners, availability indicators, and the active underline in tabbed navigation. It is cool, mineralic, and deliberate — the only hue on the page with no leather analogue. Product cards carry almost no chrome: a soft `{colors.surface-soft}` tray, a hairline border at `#e9e9e9`, and a Libre Baskerville product name set at 16px regular weight, trusting the object image to do the persuasion. Buttons are pressed flush — border-radius sits at 2px, a near-hard corner that signals craft over consumer-tech friendliness, echoing the squared-off edges of press-stamped leather hardware. The checkout corridor tightens to a single column with generous `{spacing.xxl}` vertical rhythm, reducing distraction at the highest-intent moment on the site. Mobile collapses the top nav to a minimal hamburger while the Harber London wordmark stays centred and visible at all breakpoints, functioning as the single fixed visual anchor across device widths.
 
 colors:
   primary: "#af9363"
@@ -351,6 +355,8 @@ components:
 - Cart drawer becomes a full-screen overlay on mobile rather than a 400px side panel
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Animation timing and easing curves not extractable from static extraction — hover transitions, drawer open/close, and image-swap durations are estimated
 - Exact mega-menu column structure (number of columns, featured image dimensions) not confirmed

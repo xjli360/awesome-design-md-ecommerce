@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: CableMatters
-description: A technical-accessories marketplace that signals reliability through a persistent orange voltage — #f17506 appears on every primary CTA, category badge, and price-highlight, while a secondary #0263c1 blue anchors informational links and secondary actions. The palette is unusually wide for a DTC brand: extracted hexes include #a72d2c (deep burgundy for sale badges), #d20000 (alert red for error states), and #004b91 (dark navy for footer backgrounds), suggesting a system built for information density rather than minimalism. Typography defaults to system sans-serif (Arial/Helvetica stack) at modest sizes — the brand trusts clarity over personality, letting orange and blue do the emotional work. Cards use soft 12px rounding (`{rounded.md}`) while buttons go fully pill-shaped (`{rounded.full}`), creating a hybrid language: rectangular product grids with friendly CTA endpoints. The canvas is off-white #f5f4ef rather than pure white, giving the page a warm paper-like substrate that makes the orange pop harder. Hairlines at #dedede and #d4d4d4 create layered depth in category navigation and product tables, while muted text at #595959 keeps body copy readable without competing with the orange callouts. This is a brand that sells cables and adapters — it doesn't need to be beautiful, it needs to be findable, and the color system prioritizes wayfinding over atmosphere.
+name: "CableMatters"
+source_url: "https://www.cablematters.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A technical-accessories marketplace that signals reliability through a persistent orange voltage — #f17506 appears on every primary CTA, category badge, and price-highlight, while a secondary #0263c1 blue anchors informational links and secondary actions. The palette is unusually wide for a DTC brand: extracted hexes include #a72d2c (deep burgundy for sale badges), #d20000 (alert red for error states), and #004b91 (dark navy for footer backgrounds), suggesting a system built for information density rather than minimalism. Typography defaults to system sans-serif (Arial/Helvetica stack) at modest sizes — the brand trusts clarity over personality, letting orange and blue do the emotional work. Cards use soft 12px rounding (`{rounded.md}`) while buttons go fully pill-shaped (`{rounded.full}`), creating a hybrid language: rectangular product grids with friendly CTA endpoints. The canvas is off-white #f5f4ef rather than pure white, giving the page a warm paper-like substrate that makes the orange pop harder. Hairlines at #dedede and #d4d4d4 create layered depth in category navigation and product tables, while muted text at #595959 keeps body copy readable without competing with the orange callouts. This is a brand that sells cables and adapters — it doesn't need to be beautiful, it needs to be findable, and the color system prioritizes wayfinding over atmosphere.
 
 colors:
   primary: "#f17506"
@@ -461,6 +465,8 @@ components:
 - Breadcrumbs truncate to show only current page and "Home" on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Extracted colors are heavily weighted toward grays and blues, with #f17506 orange as the only distinctive brand accent — the true brand palette may include additional secondary colors not captured in the extraction
 - Font-family extraction returned only system fonts (Arial/Helvetica) — the brand may use a custom web font that wasn't detected in the scan

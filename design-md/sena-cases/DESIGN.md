@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Sena Cases
-description: A case for a phone is a case for a life — Sena Cases wraps devices in leather that starts at #3a3a3a, a near-black that reads as charcoal rather than void, and accents every primary action in #00b5e2, a cyan that feels more like a signal flare than a brand color. The extracted palette is a scatter of e-commerce defaults — #e5e5e5, #f1f1f1, #dfdfdf, #dedede, #eeeeee, #fafafa — but the brand's true voltage lives in that cyan and a secondary purple #4e008e that appears on sale badges and category highlights. Proxima Nova runs the typography at modest weights; buttons sit at 14–16px with 600 weight, never shouting. Product cards use soft corners ({rounded.sm}) and a white canvas (#ffffff) that lets the leather texture do the selling. The site is a Shopify storefront, so checkout widgets introduce #1abc9c (teal) and #1976d2 (blue) that aren't brand — they're platform. What distinguishes Sena is the material promise: leather cases photographed against neutral backgrounds, with color swatches in #571eae, #33c4e8, and #ff1493 that signal a product range wider than the nav suggests. The search bar is a pill ({rounded.full}) in #f1f1f1, the footer stacks #3a3a3a links on #2b2b2b, and the whole thing reads as a leather goods store that happens to sell phone accessories — not an accessory brand trying to be fashion.
+name: "Sena Cases"
+source_url: "https://www.senacases.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A case for a phone is a case for a life — Sena Cases wraps devices in leather that starts at #3a3a3a, a near-black that reads as charcoal rather than void, and accents every primary action in #00b5e2, a cyan that feels more like a signal flare than a brand color. The extracted palette is a scatter of e-commerce defaults — #e5e5e5, #f1f1f1, #dfdfdf, #dedede, #eeeeee, #fafafa — but the brand's true voltage lives in that cyan and a secondary purple #4e008e that appears on sale badges and category highlights. Proxima Nova runs the typography at modest weights; buttons sit at 14–16px with 600 weight, never shouting. Product cards use soft corners ({rounded.sm}) and a white canvas (#ffffff) that lets the leather texture do the selling. The site is a Shopify storefront, so checkout widgets introduce #1abc9c (teal) and #1976d2 (blue) that aren't brand — they're platform. What distinguishes Sena is the material promise: leather cases photographed against neutral backgrounds, with color swatches in #571eae, #33c4e8, and #ff1493 that signal a product range wider than the nav suggests. The search bar is a pill ({rounded.full}) in #f1f1f1, the footer stacks #3a3a3a links on #2b2b2b, and the whole thing reads as a leather goods store that happens to sell phone accessories — not an accessory brand trying to be fashion.
 
 colors:
   primary: "#00b5e2"
@@ -392,6 +396,8 @@ components:
 - Accordion sections collapse by default on mobile, expand on tap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted color list is dominated by e-commerce framework defaults (#e5e5e5, #f1f1f1, #dfdfdf, #dedede, #eeeeee, #fafafa) and checkout-widget colors (#1abc9c, #1976d2). The brand's true primary (#00b5e2) and secondary (#4e008e) are distinctive but the palette may be incomplete.
 - Font stack extracted as "proxima-nova, Helvetica, sans-serif" — exact font weights and sizes are inferred from typical Shopify implementations; actual values may vary.

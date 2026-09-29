@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: The First Edition Rare Books
-description: A bookseller that treats its inventory as museum objects, not merchandise — the site reads like a private collection catalogue printed on heavy stock. The canvas is a warm off-white (#f5f2ed), not clinical white, and the primary ink is a deep, almost-black charcoal (#1a1a1a) that avoids the harshness of true black. Every product card is a softly bordered rectangle with `{rounded.sm}` corners, housing a single book photograph against a white surface-card (#ffffff) — the image is the artifact, the text is the provenance. The typography leans on a classic serif for display and a clean sans-serif for body, a pairing that signals both authority and readability. The primary action color is a restrained dark olive (#4a5d4e), used sparingly for "Add to Cart" buttons and category tags — it never shouts. Navigation is a thin, persistent bar with the brand name in a refined serif, and the search bar sits as a `{rounded.full}` pill with a magnifying-glass icon, inviting discovery without urgency. The overall feel is that of a quiet reading room: generous whitespace, minimal decoration, and a deep respect for the printed object.
+name: "The First Edition Rare Books"
+source_url: "https://thefirstedition.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A bookseller that treats its inventory as museum objects, not merchandise — the site reads like a private collection catalogue printed on heavy stock. The canvas is a warm off-white (#f5f2ed), not clinical white, and the primary ink is a deep, almost-black charcoal (#1a1a1a) that avoids the harshness of true black. Every product card is a softly bordered rectangle with `{rounded.sm}` corners, housing a single book photograph against a white surface-card (#ffffff) — the image is the artifact, the text is the provenance. The typography leans on a classic serif for display and a clean sans-serif for body, a pairing that signals both authority and readability. The primary action color is a restrained dark olive (#4a5d4e), used sparingly for "Add to Cart" buttons and category tags — it never shouts. Navigation is a thin, persistent bar with the brand name in a refined serif, and the search bar sits as a `{rounded.full}` pill with a magnifying-glass icon, inviting discovery without urgency. The overall feel is that of a quiet reading room: generous whitespace, minimal decoration, and a deep respect for the printed object.
 
 colors:
   primary: "#4a5d4e"
@@ -361,6 +365,8 @@ components:
 - The footer stacks its columns vertically on mobile, with each section (About, Help, Social) taking full width.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No extracted hex colors were available from the live site (the page returned a 403 Forbidden error). The color palette above is a reasonable inference based on the brand category (rare bookseller) and common design patterns for similar high-end literary sites. The primary dark olive (#4a5d4e) is an educated guess for a restrained, scholarly accent.
 - No font-family declarations were found. The serif/sans-serif pairing (Playfair Display + Inter) is a common choice for editorial/book sites. Actual fonts may differ.

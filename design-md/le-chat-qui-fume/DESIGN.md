@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Le Chat qui Fume
-description: A Parisian movie-merchandise storefront that feels like a late-night cinema lobby — deep charcoal walls (#121212) absorbing the glow of a single blue neon sign (#334fb4). The brand operates in two registers: a nocturnal, almost monochrome base (ink-black backgrounds, silver-gray body text at #dedede, soft dove-gray surfaces at #f3f3f3) and a single electric-blue accent that appears on the primary CTA, the shopping-bag icon, and the category badges. That blue (#334fb4) is the only color that escapes the dark; it reads less like a brand color and more like the light from a projector spilling onto a black curtain. Typography runs Assistant at moderate weights (300–500) for body and Lato for display headings — a pairing that splits the difference between French film-poster serifs and modern e-commerce legibility. Product cards sit on the dark canvas with a subtle #242833 surface, using {rounded.sm} corners that feel precise rather than friendly. The overall mood is cult-cinema serious: no gradients, no playful illustrations, no soft shadows. Every element earns its place by being either purely functional (the search bar, the cart count) or purely atmospheric (the film-strip divider, the monochrome hero image).
+name: "Le Chat qui Fume"
+source_url: "https://www.lechatquifume.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A Parisian movie-merchandise storefront that feels like a late-night cinema lobby — deep charcoal walls (#121212) absorbing the glow of a single blue neon sign (#334fb4). The brand operates in two registers: a nocturnal, almost monochrome base (ink-black backgrounds, silver-gray body text at #dedede, soft dove-gray surfaces at #f3f3f3) and a single electric-blue accent that appears on the primary CTA, the shopping-bag icon, and the category badges. That blue (#334fb4) is the only color that escapes the dark; it reads less like a brand color and more like the light from a projector spilling onto a black curtain. Typography runs Assistant at moderate weights (300–500) for body and Lato for display headings — a pairing that splits the difference between French film-poster serifs and modern e-commerce legibility. Product cards sit on the dark canvas with a subtle #242833 surface, using {rounded.sm} corners that feel precise rather than friendly. The overall mood is cult-cinema serious: no gradients, no playful illustrations, no soft shadows. Every element earns its place by being either purely functional (the search bar, the cart count) or purely atmospheric (the film-strip divider, the monochrome hero image).
 
 colors:
   primary: "#334fb4"
@@ -338,6 +342,8 @@ components:
 - Product image galleries collapse from a 4-thumbnail row to a single swipeable carousel.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for most components were inferred from the extracted colors and common patterns; actual live-site hover animations (e.g., scale, shadow) were not extractable.
 - Error and success states (form validation, toast notifications) were not present in the extracted data; colors are placeholders based on convention.

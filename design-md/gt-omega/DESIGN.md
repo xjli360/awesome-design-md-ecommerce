@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: GT Omega
-description: A racing-red #c62a32 pulse drives GT Omega's entire interface — the same voltage that fires through every "Add to Cart" button, category badge, and checkout CTA, set against a near-black #222222 ink and a cool silver #dadce0 hairline that reads like automotive trim. The brand lives in the gap between sim-racing hardware and gaming furniture, and the design mirrors that: Rubik at 400/500 weight keeps the interface legible at 14px body copy while 20px display headings carry the weight of product names and category headers. Product photography — carbon-fiber textures, stitched PU leather, aluminum wheel-rim details — does the heavy lifting, with the UI stepping back into a clean #f7f7f7 surface-soft canvas. Badges and price tags sit in #d92017 or #ffaa47 for sale flags, while the secondary #279a4b green signals "In Stock" with the same confidence as a pit-lane light. Every corner is softly radiused at 8px for buttons and 12px for cards — no sharp edges, but no pill-shaped excess either; the system reads as precision-engineered rather than playful. The top nav carries a full-width #222222 bar with white text and a sticky search, while the footer collapses into a dense #2c2d2e grid of legal links, payment icons, and newsletter forms. The overall impression is a storefront that trusts its product imagery and uses color as a binary signal — red for action, green for confirmation, orange for attention, gray for structure.
+name: "GT Omega"
+source_url: "https://www.gtomega.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A racing-red #c62a32 pulse drives GT Omega's entire interface — the same voltage that fires through every "Add to Cart" button, category badge, and checkout CTA, set against a near-black #222222 ink and a cool silver #dadce0 hairline that reads like automotive trim. The brand lives in the gap between sim-racing hardware and gaming furniture, and the design mirrors that: Rubik at 400/500 weight keeps the interface legible at 14px body copy while 20px display headings carry the weight of product names and category headers. Product photography — carbon-fiber textures, stitched PU leather, aluminum wheel-rim details — does the heavy lifting, with the UI stepping back into a clean #f7f7f7 surface-soft canvas. Badges and price tags sit in #d92017 or #ffaa47 for sale flags, while the secondary #279a4b green signals "In Stock" with the same confidence as a pit-lane light. Every corner is softly radiused at 8px for buttons and 12px for cards — no sharp edges, but no pill-shaped excess either; the system reads as precision-engineered rather than playful. The top nav carries a full-width #222222 bar with white text and a sticky search, while the footer collapses into a dense #2c2d2e grid of legal links, payment icons, and newsletter forms. The overall impression is a storefront that trusts its product imagery and uses color as a binary signal — red for action, green for confirmation, orange for attention, gray for structure.
 
 colors:
   primary: "#c62a32"
@@ -422,6 +426,8 @@ components:
 - The category strip becomes a horizontal scrollable row on mobile, with arrow indicators for overflow.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for all components were not fully extractable from the live site; only primary and secondary button hover states are confirmed.
 - Error styling for form inputs (red border, error message typography) was not observed and is inferred from common patterns.

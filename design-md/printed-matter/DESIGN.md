@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Printed Matter
-description: A riot of saturated color against a white page — #e90c8c, #5187ed, #ef882d, #fdd028, #38f4a5, #28bafd, #e7a3a0 — the brand's palette reads like a zine library exploded across the screen, each hue a different cover screaming for attention. The primary pink (#e90c8c) is the loudest voice in the room, used sparingly but unmistakably for key actions and headers, while a secondary chorus of electric blue, marigold, mint, and coral fills badges, tags, and category markers. BellGothicStd-Black, a heavy, slightly condensed gothic typeface, provides the typographic muscle — it appears in all-caps display settings at 28–36px with tight tracking, evoking punk flyers and photocopied manifestos. Body copy defaults to Arial/Helvetica at 14–16px, clean and utilitarian, letting the display type do all the emotional work. Corners are mostly sharp ({rounded.none} to {rounded.sm}) — there are no pill buttons or soft cards here; the brand treats the browser as a printed page, with rectangular blocks, hard edges, and generous white gutters. The nav bar is a simple horizontal strip of BellGothicStd-Black links in all caps, with a search bar that sits flush to the grid rather than floating. Product cards are minimal: a cover image, a title in the gothic face, a price in body weight. The overall feel is not "ecommerce" but "catalog" — a direct, unadorned, slightly anarchic presentation that trusts the content (artists' books, zines, ephemera) to provide the visual interest.
+name: "Printed Matter"
+source_url: "https://www.printedmatter.org"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A riot of saturated color against a white page — #e90c8c, #5187ed, #ef882d, #fdd028, #38f4a5, #28bafd, #e7a3a0 — the brand's palette reads like a zine library exploded across the screen, each hue a different cover screaming for attention. The primary pink (#e90c8c) is the loudest voice in the room, used sparingly but unmistakably for key actions and headers, while a secondary chorus of electric blue, marigold, mint, and coral fills badges, tags, and category markers. BellGothicStd-Black, a heavy, slightly condensed gothic typeface, provides the typographic muscle — it appears in all-caps display settings at 28–36px with tight tracking, evoking punk flyers and photocopied manifestos. Body copy defaults to Arial/Helvetica at 14–16px, clean and utilitarian, letting the display type do all the emotional work. Corners are mostly sharp ({rounded.none} to {rounded.sm}) — there are no pill buttons or soft cards here; the brand treats the browser as a printed page, with rectangular blocks, hard edges, and generous white gutters. The nav bar is a simple horizontal strip of BellGothicStd-Black links in all caps, with a search bar that sits flush to the grid rather than floating. Product cards are minimal: a cover image, a title in the gothic face, a price in body weight. The overall feel is not "ecommerce" but "catalog" — a direct, unadorned, slightly anarchic presentation that trusts the content (artists' books, zines, ephemera) to provide the visual interest.
 
 colors:
   primary: "#e90c8c"
@@ -383,6 +387,8 @@ components:
 - Category tags collapse from a horizontal scrollable strip to a dropdown select on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for product cards (image zoom, color shift, shadow) could not be reliably extracted from the static HTML/CSS.
 - Error states for forms beyond the hot-pink border are unknown (error message styling, icon placement).

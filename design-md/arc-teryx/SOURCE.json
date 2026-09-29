@@ -1,0 +1,659 @@
+{
+  "source_url": "https://arcteryx.com",
+  "final_url": "https://arcteryx.com/us/en",
+  "captured_at": "2026-09-29T04:20:02.915736+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://arcteryx.com",
+      "final_url": "https://arcteryx.com/us/en",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "77a3dba22c48bb92552428225617a8aaca7c806d1eb82b3a1d7c27e92679ccff",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://use.typekit.net/amb0fbb.css",
+      "final_url": "https://use.typekit.net/amb0fbb.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "4e12eb7296806e61133834cddb282ef110cc42c058df77b99e52ceb5afe364c4",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css",
+      "final_url": "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "b7f14a932f44ac7dec588579b63fded8e359865bb455b0c63bdaff973c5bdfcc",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://arcteryx.com/content-pages-app/_next/static/css/df7fb8b2db82e89f.css",
+      "final_url": "https://arcteryx.com/content-pages-app/_next/static/css/df7fb8b2db82e89f.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "7e9d1f6180cbca582ee586044ee602449e4c79d048266db9748cfc7a0e3a11a8",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://arcteryx.com/content-pages-app/_next/static/css/396455c1a687f783.css",
+      "final_url": "https://arcteryx.com/content-pages-app/_next/static/css/396455c1a687f783.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "2b6306e8f7876a65788f3379a547dc89acfc8600e0005e1530d6f3b51dc43e55",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://arcteryx.com/content-pages-app/_next/static/css/61bba6dbf96e11b9.css",
+      "final_url": "https://arcteryx.com/content-pages-app/_next/static/css/61bba6dbf96e11b9.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "6a656304ac121f33ad0b3bf45f1a8710b6c7c85a24942438ea8dfc0d33bedd38",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 19,
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css",
+        "https://arcteryx.com/content-pages-app/_next/static/css/396455c1a687f783.css"
+      ]
+    },
+    "#000000": {
+      "count": 13,
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css",
+        "https://arcteryx.com/content-pages-app/_next/static/css/396455c1a687f783.css",
+        "https://arcteryx.com/content-pages-app/_next/static/css/61bba6dbf96e11b9.css"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 8,
+      "sources": [
+        "https://arcteryx.com/us/en",
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 5,
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "#00000000": {
+      "count": 4,
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "#000000cc": {
+      "count": 4,
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "#c86464": {
+      "count": 3,
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "#5b9dd9": {
+      "count": 2,
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "#227733": {
+      "count": 2,
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "#666666": {
+      "count": 1,
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "#767676": {
+      "count": 1,
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "#b2b2b2": {
+      "count": 1,
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "#fafafa": {
+      "count": 1,
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "#646464": {
+      "count": 1,
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "#990000": {
+      "count": 1,
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "#fbebeb": {
+      "count": 1,
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "#785e1c": {
+      "count": 1,
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "#ab934f": {
+      "count": 1,
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "#f8f2d5": {
+      "count": 1,
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "#31668f": {
+      "count": 1,
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "#e3edf2": {
+      "count": 1,
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "#5aab6a": {
+      "count": 1,
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "#dff0d8": {
+      "count": 1,
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "#000000b3": {
+      "count": 1,
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "#595959": {
+      "count": 1,
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "#00000080": {
+      "count": 1,
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "#007aff": {
+      "count": 1,
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/396455c1a687f783.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+    ],
+    "Elan ITC Pro Updated": [
+      "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+    ],
+    "Helvetica": [
+      "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+    ],
+    "Helvetica Now Display": [
+      "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+    ],
+    "elan-itc-pro": [
+      "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+    ],
+    "helvetica-now-display": [
+      "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+    ],
+    "sans-serif": [
+      "https://use.typekit.net/amb0fbb.css",
+      "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+    ],
+    "sans-serif!important": [
+      "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+    ],
+    "urw-din": [
+      "https://use.typekit.net/amb0fbb.css",
+      "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+    ],
+    "urw-din-condensed": [
+      "https://use.typekit.net/amb0fbb.css",
+      "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+    ],
+    "urw-din-semi-condensed": [
+      "https://use.typekit.net/amb0fbb.css",
+      "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css",
+      "selector": "body",
+      "declarations": "min-height:100vh;text-rendering:optimizeSpeed;font-size:1rem;line-height:1.5;font-family:var(--font-helvetica);color:var(--colour-black)"
+    },
+    {
+      "source": "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css",
+      "selector": "h1,h4",
+      "declarations": "font-family:var(--font-elan)"
+    },
+    {
+      "source": "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css",
+      "selector": ":root",
+      "declarations": "--space-purple:3rem;--space-pink:6rem;--space-red:10rem;--desk3-mobile2:3rem;--desk6-mobile4:6rem;--desk10-mobile6:10rem"
+    },
+    {
+      "source": "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css",
+      "selector": "._1rm92j2h li a,._1rm92j2h li button",
+      "declarations": "text-decoration:none;font-size:.75rem;color:#000;word-break:break-word;display:inline-flex;align-items:center;min-height:44px;padding:0 4px;box-sizing:border-box"
+    },
+    {
+      "source": "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css",
+      "selector": "._1rm92j2h li button",
+      "declarations": "background-color:transparent;border:none;cursor:pointer;font-family:inherit"
+    },
+    {
+      "source": "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css",
+      "selector": "._1rm92j2h li button#ot-sdk-btn",
+      "declarations": "background-color:transparent;border:none;outline:none;box-shadow:none;min-height:44px;padding:0 4px;margin:0;font-size:.75rem;line-height:var(--body1-line-height);color:#000;display:inline-flex;align-items:center;box-sizing:border-box;transition:background-size .3s"
+    },
+    {
+      "source": "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css",
+      "selector": "._1rm92j2h li button#ot-sdk-btn:focus",
+      "declarations": "background-color:transparent;background-size:0 1px"
+    },
+    {
+      "source": "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css",
+      "selector": "._1rm92j2h li button#ot-sdk-btn:focus-visible,._1rm92j2h li button#ot-sdk-btn:hover",
+      "declarations": "background-color:transparent;background-size:100% 1px"
+    },
+    {
+      "source": "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css",
+      "selector": "._1rm92j21 ._1rm92j2h li a,._1rm92j21 ._1rm92j2h li button,._1rm92j21 ._1rm92j2h li button#ot-sdk-btn,._1rm92j21 ._1rm92j2h li:not(:last-child):after",
+      "declarations": "color:var(--colour-white)"
+    },
+    {
+      "source": "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css",
+      "selector": "._1rm92j21 ._1rm92j2q [data-component=body1]",
+      "declarations": "color:var(--colour-white)"
+    },
+    {
+      "source": "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css",
+      "selector": "._1rgsptyy :is(h1,h2,h3,h4,h5,h6,p,span),._1rgsptyz :is(h1,h2,h3,h4,h5,h6,p,span)",
+      "declarations": "color:var(--white)"
+    },
+    {
+      "source": "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css",
+      "selector": "._1rgspty10 :is(h1,h2,h3,h4,h5,h6,p,span)",
+      "declarations": "color:var(--black)"
+    },
+    {
+      "source": "https://arcteryx.com/content-pages-app/_next/static/css/df7fb8b2db82e89f.css",
+      "selector": ".body_body1__eufrn41",
+      "declarations": "max-width:none;font-family:var(--font-helvetica);text-transform:none;color:var(--colour-black);margin:0;position:relative;font-size:var(--body1-font-size);font-weight:var(--body1-font-weight);line-height:var(--body1-line-height);letter-spacing:var(--body1-letter-spacing)"
+    },
+    {
+      "source": "https://arcteryx.com/content-pages-app/_next/static/css/df7fb8b2db82e89f.css",
+      "selector": ".body_body2__eufrn47",
+      "declarations": "max-width:none;font-family:var(--font-helvetica);text-transform:none;color:var(--colour-black);margin:0;position:relative;font-size:var(--body2-font-size);font-weight:var(--body2-font-weight);line-height:var(--body2-line-height);letter-spacing:var(--body2-letter-spacing);font-style:var(--body2-font-style)"
+    },
+    {
+      "source": "https://arcteryx.com/content-pages-app/_next/static/css/df7fb8b2db82e89f.css",
+      "selector": ".body_body3__eufrn4d",
+      "declarations": "max-width:none;font-family:var(--font-helvetica);text-transform:none;color:var(--colour-black);margin:0;position:relative;font-size:var(--body3-font-size);font-weight:var(--body3-font-weight);line-height:var(--body3-line-height);letter-spacing:var(--body3-letter-spacing)"
+    },
+    {
+      "source": "https://arcteryx.com/content-pages-app/_next/static/css/df7fb8b2db82e89f.css",
+      "selector": ".body_body4__eufrn4j",
+      "declarations": "max-width:none;font-family:var(--font-helvetica);text-transform:none;color:var(--colour-black);margin:0;position:relative;font-size:var(--body4-font-size);font-weight:var(--body4-font-weight);line-height:var(--body4-line-height);letter-spacing:var(--body4-letter-spacing)"
+    },
+    {
+      "source": "https://arcteryx.com/content-pages-app/_next/static/css/df7fb8b2db82e89f.css",
+      "selector": ".body_body5__eufrn4p",
+      "declarations": "max-width:none;font-family:var(--font-helvetica);text-transform:none;color:var(--colour-black);margin:0;position:relative;font-size:var(--body5-font-size);font-weight:var(--body5-font-weight);line-height:var(--body5-line-height);letter-spacing:var(--body5-letter-spacing);font-style:var(--body5-font-style)"
+    },
+    {
+      "source": "https://arcteryx.com/content-pages-app/_next/static/css/df7fb8b2db82e89f.css",
+      "selector": ".body_body6__eufrn4v",
+      "declarations": "max-width:none;font-family:var(--font-helvetica);text-transform:none;color:var(--colour-black);margin:0;position:relative;font-size:var(--body6-font-size);font-weight:var(--body6-font-weight);line-height:var(--body6-line-height);letter-spacing:var(--body6-letter-spacing)"
+    },
+    {
+      "source": "https://arcteryx.com/content-pages-app/_next/static/css/df7fb8b2db82e89f.css",
+      "selector": ".button_buttonText1__syiqaw0,.button_buttonText2__syiqaw1",
+      "declarations": "font-family:var(--font-helvetica);font-weight:700;line-height:1.2;text-transform:none;text-align:center;margin:0;position:relative"
+    },
+    {
+      "source": "https://arcteryx.com/content-pages-app/_next/static/css/df7fb8b2db82e89f.css",
+      "selector": ".headings_h1__sasjg70",
+      "declarations": "font-family:var(--font-elan);font-weight:400;line-height:1;text-transform:uppercase;color:var(--colour-black);margin-bottom:0"
+    },
+    {
+      "source": "https://arcteryx.com/content-pages-app/_next/static/css/df7fb8b2db82e89f.css",
+      "selector": ".ButtonBase_buttonRecipe_variant_secondary__26mhlj4",
+      "declarations": "height:44px;background-color:transparent;padding:4px;min-width:130px"
+    },
+    {
+      "source": "https://arcteryx.com/content-pages-app/_next/static/css/df7fb8b2db82e89f.css",
+      "selector": ".ButtonBase_buttonRecipe_variant_ghost__26mhlj5",
+      "declarations": "height:44px;background-color:transparent;border:1px solid transparent;padding:4px 24px"
+    },
+    {
+      "source": "https://arcteryx.com/content-pages-app/_next/static/css/df7fb8b2db82e89f.css",
+      "selector": ".ButtonBase_buttonRecipe_compound_0__26mhljc",
+      "declarations": "background-color:var(--colour-black);color:var(--colour-white)"
+    },
+    {
+      "source": "https://arcteryx.com/content-pages-app/_next/static/css/df7fb8b2db82e89f.css",
+      "selector": ".ButtonBase_buttonRecipe_compound_1__26mhljd",
+      "declarations": "background-color:var(--colour-white);color:var(--colour-black)"
+    },
+    {
+      "source": "https://arcteryx.com/content-pages-app/_next/static/css/df7fb8b2db82e89f.css",
+      "selector": ".ButtonBase_buttonRecipe_compound_2__26mhlje",
+      "declarations": "background-color:var(--inactive-state-grey);color:var(--background-grey)"
+    },
+    {
+      "source": "https://arcteryx.com/content-pages-app/_next/static/css/df7fb8b2db82e89f.css",
+      "selector": ".ButtonBase_buttonRecipe_compound_3__26mhljf",
+      "declarations": "background-color:var(--inactive-state-grey);color:var(--medium-grey)"
+    },
+    {
+      "source": "https://arcteryx.com/content-pages-app/_next/static/css/df7fb8b2db82e89f.css",
+      "selector": ".ButtonBase_buttonRecipe_compound_4__26mhljg",
+      "declarations": "border-color:var(--inactive-state-grey)"
+    },
+    {
+      "source": "https://arcteryx.com/content-pages-app/_next/static/css/df7fb8b2db82e89f.css",
+      "selector": ".ButtonBase_buttonRecipe_compound_5__26mhljh",
+      "declarations": "border-color:var(--colour-grey-medium-accessible)"
+    },
+    {
+      "source": "https://arcteryx.com/content-pages-app/_next/static/css/df7fb8b2db82e89f.css",
+      "selector": ".ButtonBase_buttonRecipe_compound_6__26mhlji",
+      "declarations": "border-color:var(--inactive-state-grey)"
+    },
+    {
+      "source": "https://arcteryx.com/content-pages-app/_next/static/css/df7fb8b2db82e89f.css",
+      "selector": ".ButtonBase_buttonRecipe_compound_7__26mhljj",
+      "declarations": "border-color:var(--colour-grey-medium-accessible)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Outdoor Clothing, Technical Outerwear, & Accessories | Arc'teryx United States",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css",
+        "https://arcteryx.com/content-pages-app/_next/static/css/396455c1a687f783.css",
+        "https://arcteryx.com/content-pages-app/_next/static/css/61bba6dbf96e11b9.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://arcteryx.com/us/en",
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css",
+        "https://arcteryx.com/content-pages-app/_next/static/css/396455c1a687f783.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css",
+        "https://arcteryx.com/content-pages-app/_next/static/css/396455c1a687f783.css"
+      ]
+    },
+    "colors.border-subtle": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "colors.disabled": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "colors.overlay": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "colors.accent-alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "colors.accent-success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "colors.accent-info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://arcteryx.com/content-pages-app/_next/static/css/b0e99031d1d4a087.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.category-nav-flyout": {
+      "status": "inferred"
+    }
+  }
+}

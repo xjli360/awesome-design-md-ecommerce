@@ -1,0 +1,990 @@
+{
+  "source_url": "https://sheldonceramics.com",
+  "final_url": "https://www.sheldonceramics.com/",
+  "captured_at": "2026-09-29T04:18:44.270913+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://sheldonceramics.com",
+      "final_url": "https://www.sheldonceramics.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "c478334dfe023db8be09cac1f2738274a84e55b917f8ba64bb2b4381f57832f2",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://use.typekit.net/paw7gsi.css",
+      "final_url": "https://use.typekit.net/paw7gsi.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "bc1de636ef6c33e2ef5d2c7ca49da8f7d49bec5c04b0876e8f2f0edb63360fa2",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.sheldonceramics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.sheldonceramics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188",
+      "final_url": "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6bd116001afdbe0dee75825abee22e1f59a3a8a24ebdc01fc95253fed7d4f588",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme--customizations.scss.css?v=20513876081043697281628031188",
+      "final_url": "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme--customizations.scss.css?v=20513876081043697281628031188",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b998ab85c5fc032debdd28e7dee4534a9df5625cd9cf399822e8b59204089962",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#eaeaea": {
+      "count": 37,
+      "sources": [
+        "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+      ]
+    },
+    "#ffffff": {
+      "count": 30,
+      "sources": [
+        "https://www.sheldonceramics.com/",
+        "https://www.sheldonceramics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+      ]
+    },
+    "#000000": {
+      "count": 17,
+      "sources": [
+        "https://www.sheldonceramics.com/",
+        "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+      ]
+    },
+    "#4a4a4a": {
+      "count": 13,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#666666": {
+      "count": 13,
+      "sources": [
+        "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+      ]
+    },
+    "#333333": {
+      "count": 10,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#232323": {
+      "count": 8,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#3a79b8": {
+      "count": 8,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#717171": {
+      "count": 7,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#2e629d": {
+      "count": 7,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#0f0f0f": {
+      "count": 4,
+      "sources": [
+        "https://www.sheldonceramics.com/",
+        "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+      ]
+    },
+    "#34322f": {
+      "count": 4,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#303030": {
+      "count": 4,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#888888": {
+      "count": 4,
+      "sources": [
+        "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+      ]
+    },
+    "#f6f5f4": {
+      "count": 3,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#555555": {
+      "count": 3,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 3,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#d95252": {
+      "count": 3,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 3,
+      "sources": [
+        "https://www.sheldonceramics.com/",
+        "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+      ]
+    },
+    "#00000000": {
+      "count": 3,
+      "sources": [
+        "https://www.sheldonceramics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+      ]
+    },
+    "#09aeec": {
+      "count": 3,
+      "sources": [
+        "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+      ]
+    },
+    "#49659d": {
+      "count": 3,
+      "sources": [
+        "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+      ]
+    },
+    "#cb1f2b": {
+      "count": 3,
+      "sources": [
+        "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+      ]
+    },
+    "#2c4762": {
+      "count": 3,
+      "sources": [
+        "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+      ]
+    },
+    "#cc3a2b": {
+      "count": 3,
+      "sources": [
+        "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+      ]
+    },
+    "#0000004d": {
+      "count": 3,
+      "sources": [
+        "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+      ]
+    },
+    "#313131": {
+      "count": 2,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 2,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#51a7ca": {
+      "count": 2,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 2,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#111111": {
+      "count": 2,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#454545": {
+      "count": 2,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#222222": {
+      "count": 2,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#696952": {
+      "count": 2,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#285589": {
+      "count": 2,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.sheldonceramics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#cbcbcb": {
+      "count": 2,
+      "sources": [
+        "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+      ]
+    },
+    "#869791": {
+      "count": 2,
+      "sources": [
+        "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+      ]
+    },
+    "#01c753": {
+      "count": 2,
+      "sources": [
+        "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+      ]
+    },
+    "#4d4d4d": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#9e6863": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#1e1b1b": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#2c2c2c": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#b57ab4": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#56b8d6": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#f1d031": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#ffffa3": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#ffef93": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#777777": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#505050": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#404040": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#444444": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#fbf7aa": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#f9e98e": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#a27d35": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#f0de7d": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#f78b83": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#912323": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#f06d65": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#caed9e": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#90d93f": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#3f6219": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#b0de78": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#e5f6fe": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#add9ed": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#5e99bd": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#d0e9f5": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#d9d9c2": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#87876a": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#808064": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#959fa9": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#fbfbfb": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#ebebeb": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#123456": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#ffff00": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+      ]
+    },
+    "#c0c0c0": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+      ]
+    },
+    "#3c5a99": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+      ]
+    },
+    "#1da1f2": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+      ]
+    },
+    "#bd081c": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+      ]
+    },
+    "#e6f9ee": {
+      "count": 1,
+      "sources": [
+        "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+    ],
+    "Crimson Text": [
+      "https://www.sheldonceramics.com/"
+    ],
+    "Helvetica": [
+      "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+    ],
+    "Lucida Grande": [
+      "https://www.sheldonceramics.com/"
+    ],
+    "Montserrat": [
+      "https://www.sheldonceramics.com/"
+    ],
+    "blockshop-icons": [
+      "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+    ],
+    "minion-pro-display": [
+      "https://use.typekit.net/paw7gsi.css",
+      "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+    ],
+    "monospace": [
+      "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+    ],
+    "object-fit: cover": [
+      "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+    ],
+    "proxima-nova": [
+      "https://use.typekit.net/paw7gsi.css",
+      "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+    ],
+    "sans-serif": [
+      "https://www.sheldonceramics.com/",
+      "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+    ],
+    "serif": [
+      "https://www.sheldonceramics.com/",
+      "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.sheldonceramics.com/",
+      "selector": ":root",
+      "declarations": "--font--section-heading--size: 24px;\n  --font--block-heading--size: 18px;\n  --font--heading--uppercase: normal;\n  --font--paragraph--size: 14px;\n\n  --font--heading--family: \"Crimson Text\", serif;\n  --font--heading--weight: 400;\n  --font--heading--normal-weight: 400;\n  --font--heading--style: normal;\n\n  --font--accent--family: Montserrat, sans-serif;\n  --font--accent--weight: 400;\n  --font--accent--style: normal;\n\n  --font--paragraph--family: \"Crimson Text\", serif;\n  --font--paragraph--weight: 400;\n  --font--paragraph--style: normal;\n  --font--bolder-paragraph--weight: 700;\n\n  --image--loading-animation: url('//www.sheldonceramics.com/cdn/shop/t/18/assets/AjaxLoader.gif?v=66431031005733996371"
+    },
+    {
+      "source": "https://www.sheldonceramics.com/",
+      "selector": ".wishlistbutton a:hover",
+      "declarations": "color: #51a7ca;"
+    },
+    {
+      "source": "https://www.sheldonceramics.com/",
+      "selector": ".registrybutton a:hover",
+      "declarations": "color: #51a7ca;"
+    },
+    {
+      "source": "https://www.sheldonceramics.com/",
+      "selector": ".wishlistbuttonimage",
+      "declarations": "float: left;\n\t\twidth: 30px;\n\t\theight: 26px;\n\t\tbackground-color: black;\n\t\tbackground-size: contain;\n\t\tbackground-repeat: no-repeat;\n\t\tbackground-image: url('');\n\t\tmargin-top: 20px;\n\t\tmargin-left: 10px;"
+    },
+    {
+      "source": "https://www.sheldonceramics.com/",
+      "selector": ".wishlistbuttonimage:hover",
+      "declarations": "background-color: #b57ab4;\n\t\tcursor: pointer;"
+    },
+    {
+      "source": "https://www.sheldonceramics.com/",
+      "selector": ".registrybuttonimage",
+      "declarations": "float: left;\n\t\twidth: 21px;\n\t\theight: 30px;\n\t\tbackground-color: black;\n\t\tbackground-size: contain;\n\t\tbackground-repeat: no-repeat;\n\t\tbackground-image: url('');\n\t\tmargin-top: 15px;\n\t\tmargin-left: 15px;"
+    },
+    {
+      "source": "https://www.sheldonceramics.com/",
+      "selector": ".registrybuttonimage:hover",
+      "declarations": "background-color: #56b8d6;\n\t\tcursor: pointer;"
+    },
+    {
+      "source": "https://www.sheldonceramics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.sheldonceramics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.sheldonceramics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.sheldonceramics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.sheldonceramics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.sheldonceramics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188",
+      "selector": "button,input,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;margin:0"
+    },
+    {
+      "source": "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188",
+      "selector": "visited,.font--button--inverted:visited,.font--secondary-button:visited,.font--secondary-button--inverted:visited,button input[type=button]:visited,input[type=r",
+      "declarations": "color:var(--color--button)"
+    },
+    {
+      "source": "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188",
+      "selector": ".font--button:hover,.font--button--inverted:hover,.font--secondary-button:hover,.font--secondary-button--inverted:hover,button input[type=button]:hover,input[ty",
+      "declarations": "color:var(--color--button);background:var(--bg-color--button)"
+    },
+    {
+      "source": "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188",
+      "selector": ".font--section-heading,h1,h2",
+      "declarations": "font-family:var(--font--heading--family);font-weight:var(--font--heading--weight);font-style:var(--font--heading--style);text-transform:var(--font--heading--uppercase);font-size:var(--font--section-heading--size);line-height:1.25em;margin:-.25em 0;letter-spacing:.025em"
+    },
+    {
+      "source": "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188",
+      "selector": ".font--paragraph,body",
+      "declarations": "font-family:var(--font--paragraph--family);font-weight:var(--font--paragraph--weight);font-style:var(--font--paragraph--style);font-size:var(--font--paragraph--size);line-height:1.5em;margin:-.25em 0"
+    },
+    {
+      "source": "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188",
+      "selector": ".font--button,a.font--button,input[type=submit]",
+      "declarations": "background:var(--bg-color--button);color:var(--color--button);font-family:var(--font--accent--family);font-weight:var(--font--accent--weight);font-style:var(--font--accent--style);text-transform:uppercase;font-size:14px;letter-spacing:1px"
+    },
+    {
+      "source": "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188",
+      "selector": "--button:focus,a.font--button:link,a.font--button:visited,a.font--button:hover,a.font--button:focus,input[type=submit]:link,input[type=submit]:visited,input[typ",
+      "declarations": "color:var(--color--button);background:var(--bg-color--button)"
+    },
+    {
+      "source": "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188",
+      "selector": ".font--button--inverted,a.font--button--inverted,input[type=submit].font--button--inverted",
+      "declarations": "background:var(--bg-color--button);color:var(--color--button);font-family:var(--font--accent--family);font-weight:var(--font--accent--weight);font-style:var(--font--accent--style);text-transform:uppercase;font-size:14px;letter-spacing:1px;background:var(--color--button);color:var(--bg-color--button)"
+    },
+    {
+      "source": "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188",
+      "selector": "d:focus,input[type=submit].font--button--inverted:link,input[type=submit].font--button--inverted:visited,input[type=submit].font--button--inverted:hover,input[t",
+      "declarations": "color:var(--color--button);background:var(--bg-color--button)"
+    },
+    {
+      "source": "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188",
+      "selector": "d:focus,input[type=submit].font--button--inverted:link,input[type=submit].font--button--inverted:visited,input[type=submit].font--button--inverted:hover,input[t",
+      "declarations": "background:var(--color--button);color:var(--bg-color--button)"
+    },
+    {
+      "source": "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188",
+      "selector": ".font--secondary-button,a.font--secondary-button,input[type=submit].font--secondary-button",
+      "declarations": "background:var(--bg-color--button);color:var(--color--button);font-family:var(--font--accent--family);font-weight:var(--font--accent--weight);font-style:var(--font--accent--style);text-transform:uppercase;font-size:14px;letter-spacing:1px;background:transparent;border:2px solid var(--bg-color--button);color:var(--bg-color--button);line-height:41px"
+    },
+    {
+      "source": "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188",
+      "selector": "n:focus,input[type=submit].font--secondary-button:link,input[type=submit].font--secondary-button:visited,input[type=submit].font--secondary-button:hover,input[t",
+      "declarations": "color:var(--color--button);background:var(--bg-color--button)"
+    },
+    {
+      "source": "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188",
+      "selector": "n:focus,input[type=submit].font--secondary-button:link,input[type=submit].font--secondary-button:visited,input[type=submit].font--secondary-button:hover,input[t",
+      "declarations": "color:var(--bg-color--button);background:transparent"
+    },
+    {
+      "source": "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188",
+      "selector": ".font--secondary-button--inverted,a.font--secondary-button--inverted,input[type=submit].font--secondary-button--inverted",
+      "declarations": "background:var(--bg-color--button);color:var(--color--button);font-family:var(--font--accent--family);font-weight:var(--font--accent--weight);font-style:var(--font--accent--style);text-transform:uppercase;font-size:14px;letter-spacing:1px;border:2px solid var(--bg-color--button);color:var(--bg-color--button);line-height:41px;background:transparent;border:2px solid var(--bg-color--body);color:var(--bg-color--body)"
+    },
+    {
+      "source": "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188",
+      "selector": "ry-button--inverted:link,input[type=submit].font--secondary-button--inverted:visited,input[type=submit].font--secondary-button--inverted:hover,input[type=submit",
+      "declarations": "color:var(--color--button);background:var(--bg-color--button)"
+    },
+    {
+      "source": "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188",
+      "selector": "ry-button--inverted:link,input[type=submit].font--secondary-button--inverted:visited,input[type=submit].font--secondary-button--inverted:hover,input[type=submit",
+      "declarations": "color:var(--bg-color--button);background:transparent"
+    },
+    {
+      "source": "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188",
+      "selector": "ry-button--inverted:link,input[type=submit].font--secondary-button--inverted:visited,input[type=submit].font--secondary-button--inverted:hover,input[type=submit",
+      "declarations": "color:var(--bg-color--body);background:transparent"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Sheldon Ceramics Handmade Pottery & Ceramics, Stoneware, Tabletop",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sheldonceramics.com/",
+        "https://www.sheldonceramics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sheldonceramics.com/",
+        "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sheldonceramics.com/",
+        "https://www.sheldonceramics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+      ]
+    },
+    "colors.accent-terracotta": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "colors.accent-indigo": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+      ]
+    },
+    "colors.error": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sheldonceramics.com/cdn/shop/t/18/assets/theme.scss.css?v=92606489720185416621628031188"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sheldonceramics.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.collection-tile": {
+      "status": "inferred"
+    }
+  }
+}

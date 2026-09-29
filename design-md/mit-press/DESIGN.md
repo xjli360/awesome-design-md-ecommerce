@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: MIT Press
-description: A scholarly publishing house that wears its institutional heritage lightly, MIT Press builds its digital presence on a restrained palette where a deep, authoritative navy (#1a1a2e) serves as the primary voltage — not for decoration but for wayfinding, appearing in the top nav bar, primary buttons, and the bold horizontal rules that segment dense academic content. The canvas is a warm off-white (#fafafa) rather than pure white, a deliberate softening that reduces eye strain during long reading sessions and signals approachability over sterile precision. Typography runs a single geometric sans-serif — typically Montserrat or a similar workhorse — at moderate weights (400–600), never exceeding 24px for body text, trusting the clarity of the written argument over typographic spectacle. Signature design moves include a persistent sticky header with a search bar that expands on focus, chapter-length scroll containers with sticky section headers, and a footer grid of 20+ imprint logos arranged in a tight, badge-like matrix. The brand avoids rounded corners almost entirely — `{rounded.none}` on cards, `{rounded.xs}` (4px) on buttons — a formal choice that echoes the hardback spine and the no-nonsense layout of a monograph. What feels like austerity is actually precision: every hairline (`{colors.hairline}` #d4d4d4) and 48px section gap (`{spacing.section}`) is tuned for the skimming academic reader who needs to locate a citation, a figure, or a series editor in under three seconds. The overall mood is that of a well-organized library reading room — quiet, hierarchical, and utterly confident in the primacy of the text.
+name: "MIT Press"
+source_url: "https://mitpress.mit.edu"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A scholarly publishing house that wears its institutional heritage lightly, MIT Press builds its digital presence on a restrained palette where a deep, authoritative navy (#1a1a2e) serves as the primary voltage — not for decoration but for wayfinding, appearing in the top nav bar, primary buttons, and the bold horizontal rules that segment dense academic content. The canvas is a warm off-white (#fafafa) rather than pure white, a deliberate softening that reduces eye strain during long reading sessions and signals approachability over sterile precision. Typography runs a single geometric sans-serif — typically Montserrat or a similar workhorse — at moderate weights (400–600), never exceeding 24px for body text, trusting the clarity of the written argument over typographic spectacle. Signature design moves include a persistent sticky header with a search bar that expands on focus, chapter-length scroll containers with sticky section headers, and a footer grid of 20+ imprint logos arranged in a tight, badge-like matrix. The brand avoids rounded corners almost entirely — `{rounded.none}` on cards, `{rounded.xs}` (4px) on buttons — a formal choice that echoes the hardback spine and the no-nonsense layout of a monograph. What feels like austerity is actually precision: every hairline (`{colors.hairline}` #d4d4d4) and 48px section gap (`{spacing.section}`) is tuned for the skimming academic reader who needs to locate a citation, a figure, or a series editor in under three seconds. The overall mood is that of a well-organized library reading room — quiet, hierarchical, and utterly confident in the primacy of the text.
 
 colors:
   primary: "#1a1a2e"
@@ -418,6 +422,8 @@ components:
 - The product card's author and description are truncated to one line on mobile, with a "..." overflow.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No extracted hex colors were available from the live site (the page returned "Access Denied" and no CSS colors could be parsed). The palette above is inferred from the MIT Press brand guidelines and common academic publishing conventions, but should be verified against the actual live site.
 - No font-family declarations were extracted. The typography stack uses Montserrat (a common MIT Press choice) and Merriweather for body text, but the actual site may use a different serif or a custom typeface.

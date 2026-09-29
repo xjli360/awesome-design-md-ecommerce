@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Belkin
-description: A brand that sells the physical infrastructure of digital life — cables, docks, screen protectors, chargers — and its design system reads as engineered reliability first, with a single neon accent of #6ffb38 (lime green) that appears only in moments of active connection: a cable plugged in, a device charging, a firmware update succeeding. The canvas is #ffffff, the ink is #222222, and the body text sits at #444444 — a clean, legible hierarchy that never competes with the product photography. But the real story is in the greys: #777777 for muted labels, #e6e6e6 for hairline borders, #f2f2f2 for soft surfaces, and #b9bbbe for disabled states — a full spectrum of neutral tones that create depth without color. The extracted palette includes #ab2117 (a deep crimson) and #ffcc58 (a warm amber), which appear as stock-photo accents and badge backgrounds respectively, not brand primaries. The typography stack is system-native — -apple-system, Helvetica Neue, Arial — suggesting a pragmatic, cross-platform approach where legibility and performance trump typographic personality. Buttons use {rounded.sm} (8px) — a subtle softening of what could be purely rectangular — and the primary CTA (#222222 on white) is an inverted button that reads as "confirm your selection" rather than "buy now." The brand's design voice is: the hardware is the hero, the UI is just the manual.
+name: "Belkin"
+source_url: "https://www.belkin.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A brand that sells the physical infrastructure of digital life — cables, docks, screen protectors, chargers — and its design system reads as engineered reliability first, with a single neon accent of #6ffb38 (lime green) that appears only in moments of active connection: a cable plugged in, a device charging, a firmware update succeeding. The canvas is #ffffff, the ink is #222222, and the body text sits at #444444 — a clean, legible hierarchy that never competes with the product photography. But the real story is in the greys: #777777 for muted labels, #e6e6e6 for hairline borders, #f2f2f2 for soft surfaces, and #b9bbbe for disabled states — a full spectrum of neutral tones that create depth without color. The extracted palette includes #ab2117 (a deep crimson) and #ffcc58 (a warm amber), which appear as stock-photo accents and badge backgrounds respectively, not brand primaries. The typography stack is system-native — -apple-system, Helvetica Neue, Arial — suggesting a pragmatic, cross-platform approach where legibility and performance trump typographic personality. Buttons use {rounded.sm} (8px) — a subtle softening of what could be purely rectangular — and the primary CTA (#222222 on white) is an inverted button that reads as "confirm your selection" rather than "buy now." The brand's design voice is: the hardware is the hero, the UI is just the manual.
 
 colors:
   primary: "#222222"
@@ -383,6 +387,8 @@ components:
 - The hero banner's secondary text and CTA may stack vertically on mobile, with the image moving below the text.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The brand's true primary color is ambiguous from extraction. The extracted list is dominated by greys (#222222, #444444, #777777, #e6e6e6, #f2f2f2) and a few accent colors (#6ffb38, #ab2117, #ffcc58). I've assigned #222222 as primary (most frequent dark color, used in nav and buttons), but the brand may use a different primary on its marketing pages (e.g., a blue or green not captured in the extraction). The neon green (#6ffb38) is distinctive but appears too infrequently to be primary — it's likely an accent for active/connected states.
 - Hover states for buttons, cards, and links are inferred from common e-commerce patterns, not extracted from the live site. The specific hover colors (primary-active: #000000, accent-green-active: #4bfa06) are reasonable guesses.

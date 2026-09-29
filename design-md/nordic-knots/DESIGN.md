@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Nordic Knots
-description: Nordic Knots speaks in a quiet, deliberate visual language — one that trusts texture, material honesty, and the weight of negative space over loud typography or saturated color. The brand's canvas is a near-white `#fafafa` that leans warmer than hospital white, grounded by a deep ink `#212121` that appears in body copy, product titles, and the primary navigation bar. Accents arrive sparingly: a muted amber `#ff9800` for sale badges and limited-edition markers, a restrained blue `#2196f3` for informational links, and a soft green `#4caf50` for in-stock indicators. The palette's middle range — `#616161`, `#757575`, `#9e9e9e`, and `#bdbdbd` — does the heavy lifting for secondary text, placeholder copy, and hairline borders, creating a calm hierarchy that never competes with the product photography. Typography centers on NordicSans, a proprietary geometric sans-serif that carries the brand's Scandinavian ethos: clean, unornamented, and quietly confident. Display sizes run at moderate weights (500–600) rather than heavy 700+; the brand trusts generous whitespace and the tactile quality of wool, linen, and cotton swatches to carry emotional weight. Rounded corners are minimal — `{rounded.xs}` for buttons and `{rounded.sm}` for cards — preserving a crisp, architectural feel that mirrors the straight lines of a flat-weave rug. The overall effect is one of curated restraint: a digital space that feels like a Stockholm showroom, where every element earns its place and nothing shouts.
+name: "Nordic Knots"
+source_url: "https://nordicknots.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Nordic Knots speaks in a quiet, deliberate visual language — one that trusts texture, material honesty, and the weight of negative space over loud typography or saturated color. The brand's canvas is a near-white `#fafafa` that leans warmer than hospital white, grounded by a deep ink `#212121` that appears in body copy, product titles, and the primary navigation bar. Accents arrive sparingly: a muted amber `#ff9800` for sale badges and limited-edition markers, a restrained blue `#2196f3` for informational links, and a soft green `#4caf50` for in-stock indicators. The palette's middle range — `#616161`, `#757575`, `#9e9e9e`, and `#bdbdbd` — does the heavy lifting for secondary text, placeholder copy, and hairline borders, creating a calm hierarchy that never competes with the product photography. Typography centers on NordicSans, a proprietary geometric sans-serif that carries the brand's Scandinavian ethos: clean, unornamented, and quietly confident. Display sizes run at moderate weights (500–600) rather than heavy 700+; the brand trusts generous whitespace and the tactile quality of wool, linen, and cotton swatches to carry emotional weight. Rounded corners are minimal — `{rounded.xs}` for buttons and `{rounded.sm}` for cards — preserving a crisp, architectural feel that mirrors the straight lines of a flat-weave rug. The overall effect is one of curated restraint: a digital space that feels like a Stockholm showroom, where every element earns its place and nothing shouts.
 
 colors:
   primary: "#212121"
@@ -399,6 +403,8 @@ components:
 - Hero banner text overlays collapse to a single column on mobile, with the CTA button full-width.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components beyond primary/secondary buttons and text inputs could not be reliably extracted.
 - Error state styling for forms (error messages, iconography) is inferred from the error color palette but not confirmed from live site inspection.

@@ -1,0 +1,1229 @@
+{
+  "source_url": "https://kansascitysteaks.com",
+  "final_url": "https://www.kansascitysteaks.com/",
+  "captured_at": "2026-09-29T03:56:34.881392+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://kansascitysteaks.com",
+      "final_url": "https://www.kansascitysteaks.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "0a55e795982ffd9105b273b1a107180fe3a25af416832dde04f281a4ca2b58ab",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Roboto+Slab:wght@300;400;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Montserrat:wght@400;700&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Roboto+Slab:wght@300;400;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Montserrat:wght@400;700&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "f247e0089fc16b7f8d6c79e2985793972ce2999a4c3af59dbe0b7764ae1366a7",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://assets2.kansascitysteaks.com/lib/font-awesome/css/font-awesome.min.css?d=1771863966&v=05",
+      "final_url": "https://assets2.kansascitysteaks.com/lib/font-awesome/css/font-awesome.min.css?d=1771863966&v=05",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3af8b98e3dc012cb6e439b4b302dc1d0cf0f77be8b8ad166ed256fe14f02fb28",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05",
+      "final_url": "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "49d01879082ecb608559988a2143fff93354deccdd4adcd871e344cd8907b689",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05",
+      "final_url": "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "05433d2482eb68d1e00e4ffd4d4ca70bfa10b612d408ce2912aa87c0358e47fd",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://assets2.kansascitysteaks.com/dist/client/css/splide.44d8ce81bdb412794ea8.css?d=1789657380&v=05",
+      "final_url": "https://assets2.kansascitysteaks.com/dist/client/css/splide.44d8ce81bdb412794ea8.css?d=1789657380&v=05",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e6e2a25c4c1b69087d720776ff9569e9698c9ec52bdd5659c346bcaca9ce28d5",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 200,
+      "sources": [
+        "https://www.kansascitysteaks.com/",
+        "https://assets2.kansascitysteaks.com/lib/font-awesome/css/font-awesome.min.css?d=1771863966&v=05",
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05",
+        "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05",
+        "https://assets2.kansascitysteaks.com/dist/client/css/splide.44d8ce81bdb412794ea8.css?d=1789657380&v=05"
+      ]
+    },
+    "#000000": {
+      "count": 86,
+      "sources": [
+        "https://www.kansascitysteaks.com/",
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05",
+        "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05",
+        "https://assets2.kansascitysteaks.com/dist/client/css/splide.44d8ce81bdb412794ea8.css?d=1789657380&v=05"
+      ]
+    },
+    "#231f20": {
+      "count": 38,
+      "sources": [
+        "https://www.kansascitysteaks.com/",
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05",
+        "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05"
+      ]
+    },
+    "#605255": {
+      "count": 22,
+      "sources": [
+        "https://www.kansascitysteaks.com/",
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05",
+        "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05"
+      ]
+    },
+    "#ad0b21": {
+      "count": 21,
+      "sources": [
+        "https://www.kansascitysteaks.com/",
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05",
+        "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05"
+      ]
+    },
+    "#cb2a0d": {
+      "count": 19,
+      "sources": [
+        "https://www.kansascitysteaks.com/",
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "#bfa465": {
+      "count": 15,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#fef9ed": {
+      "count": 14,
+      "sources": [
+        "https://www.kansascitysteaks.com/",
+        "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05"
+      ]
+    },
+    "#bba46e": {
+      "count": 14,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#ede2c8": {
+      "count": 13,
+      "sources": [
+        "https://www.kansascitysteaks.com/",
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "#00bbff": {
+      "count": 11,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/dist/client/css/splide.44d8ce81bdb412794ea8.css?d=1789657380&v=05"
+      ]
+    },
+    "#6c97b6": {
+      "count": 10,
+      "sources": [
+        "https://www.kansascitysteaks.com/",
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "#67ae1a": {
+      "count": 9,
+      "sources": [
+        "https://www.kansascitysteaks.com/",
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "#c7a47f": {
+      "count": 8,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#bbb2a4": {
+      "count": 8,
+      "sources": [
+        "https://www.kansascitysteaks.com/",
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05",
+        "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05"
+      ]
+    },
+    "#999999": {
+      "count": 7,
+      "sources": [
+        "https://www.kansascitysteaks.com/",
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05",
+        "https://assets2.kansascitysteaks.com/dist/client/css/splide.44d8ce81bdb412794ea8.css?d=1789657380&v=05"
+      ]
+    },
+    "#b6986c": {
+      "count": 7,
+      "sources": [
+        "https://www.kansascitysteaks.com/",
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "#295280": {
+      "count": 6,
+      "sources": [
+        "https://www.kansascitysteaks.com/",
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "#faf9f7": {
+      "count": 6,
+      "sources": [
+        "https://www.kansascitysteaks.com/",
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "#212529": {
+      "count": 5,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#d61515": {
+      "count": 5,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#e10000": {
+      "count": 5,
+      "sources": [
+        "https://www.kansascitysteaks.com/",
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "#00610b": {
+      "count": 5,
+      "sources": [
+        "https://www.kansascitysteaks.com/",
+        "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05"
+      ]
+    },
+    "#2f5169": {
+      "count": 5,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 5,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05",
+        "https://assets2.kansascitysteaks.com/dist/client/css/splide.44d8ce81bdb412794ea8.css?d=1789657380&v=05"
+      ]
+    },
+    "#dddddd": {
+      "count": 5,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "#0d6efd": {
+      "count": 4,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#dc3545": {
+      "count": 4,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#198754": {
+      "count": 4,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#6c757d": {
+      "count": 4,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#f8f9fa": {
+      "count": 4,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#aa0303": {
+      "count": 4,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#131006": {
+      "count": 4,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#af041b": {
+      "count": 4,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#9a001a": {
+      "count": 4,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#6a5039": {
+      "count": 4,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 4,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/lib/font-awesome/css/font-awesome.min.css?d=1771863966&v=05",
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05",
+        "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05"
+      ]
+    },
+    "#e9ecef": {
+      "count": 3,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#495057": {
+      "count": 3,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#cc4932": {
+      "count": 3,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#f5a623": {
+      "count": 3,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#413e37": {
+      "count": 3,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#fef9ec": {
+      "count": 3,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 3,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05"
+      ]
+    },
+    "#d63384": {
+      "count": 2,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#ffc107": {
+      "count": 2,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#0dcaf0": {
+      "count": 2,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#343a40": {
+      "count": 2,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#dee2e6": {
+      "count": 2,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#ced4da": {
+      "count": 2,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#adb5bd": {
+      "count": 2,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#b21a2f": {
+      "count": 2,
+      "sources": [
+        "https://www.kansascitysteaks.com/",
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "#757575": {
+      "count": 2,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#755f3f": {
+      "count": 2,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#0066ff": {
+      "count": 2,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#efefef": {
+      "count": 2,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "#666666": {
+      "count": 2,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "#fef5e9": {
+      "count": 2,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "#cb2a0e": {
+      "count": 2,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "#9b8065": {
+      "count": 2,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "#937a61": {
+      "count": 2,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "#4f9400": {
+      "count": 2,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05",
+        "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05"
+      ]
+    },
+    "#843534": {
+      "count": 2,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05"
+      ]
+    },
+    "#ce8483": {
+      "count": 2,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05"
+      ]
+    },
+    "#f2dede": {
+      "count": 2,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05"
+      ]
+    },
+    "#dbe1e5": {
+      "count": 2,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05"
+      ]
+    },
+    "#d8d7d7": {
+      "count": 2,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05"
+      ]
+    },
+    "#6610f2": {
+      "count": 1,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#6f42c1": {
+      "count": 1,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#fd7e14": {
+      "count": 1,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#20c997": {
+      "count": 1,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#ffff00": {
+      "count": 1,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#f8e71c": {
+      "count": 1,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#dae0e4": {
+      "count": 1,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#4267b2": {
+      "count": 1,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#b08c5f": {
+      "count": 1,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#324d73": {
+      "count": 1,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#8a7147": {
+      "count": 1,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#b01427": {
+      "count": 1,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#567992": {
+      "count": 1,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#353132": {
+      "count": 1,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#ad8b61": {
+      "count": 1,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 1,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#016004": {
+      "count": 1,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#7bb6f3": {
+      "count": 1,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#5a5657": {
+      "count": 1,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#e1e1e1": {
+      "count": 1,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#d79c00": {
+      "count": 1,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#d79b00": {
+      "count": 1,
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "#bab1a2": {
+      "count": 1,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "#bab1a3": {
+      "count": 1,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "#417396": {
+      "count": 1,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "#ecebeb": {
+      "count": 1,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "#d2d2d2": {
+      "count": 1,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 1,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "#d1b7b3": {
+      "count": 1,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "#bbd0f0": {
+      "count": 1,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "#dbc399": {
+      "count": 1,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "#6c88b7": {
+      "count": 1,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "#444444": {
+      "count": 1,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "#cb2a12": {
+      "count": 1,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "#a9aaa5": {
+      "count": 1,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "#9e8466": {
+      "count": 1,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "#eeefee": {
+      "count": 1,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "#0e0e0e": {
+      "count": 1,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "#210f2080": {
+      "count": 1,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05"
+      ]
+    },
+    "#a0c1da": {
+      "count": 1,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05"
+      ]
+    },
+    "#498722": {
+      "count": 1,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05"
+      ]
+    },
+    "#fefefe": {
+      "count": 1,
+      "sources": [
+        "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05"
+      ]
+    }
+  },
+  "font_families": {
+    "ArcherPro-Bold": [
+      "https://www.kansascitysteaks.com/"
+    ],
+    "Arial": [
+      "https://www.kansascitysteaks.com/"
+    ],
+    "EngraversMT": [
+      "https://www.kansascitysteaks.com/",
+      "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+    ],
+    "EngraversMT-Bold": [
+      "https://www.kansascitysteaks.com/"
+    ],
+    "FontAwesome": [
+      "https://www.kansascitysteaks.com/",
+      "https://assets2.kansascitysteaks.com/lib/font-awesome/css/font-awesome.min.css?d=1771863966&v=05",
+      "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05",
+      "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05"
+    ],
+    "Helvetica": [
+      "https://www.kansascitysteaks.com/"
+    ],
+    "Helvetica Neue": [
+      "https://www.kansascitysteaks.com/"
+    ],
+    "Montserrat": [
+      "https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Roboto+Slab:wght@300;400;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Montserrat:wght@400;700&display=swap"
+    ],
+    "Noto Sans": [
+      "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+    ],
+    "OstrichSansInline-Regular": [
+      "https://www.kansascitysteaks.com/"
+    ],
+    "Roboto": [
+      "https://www.kansascitysteaks.com/",
+      "https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Roboto+Slab:wght@300;400;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Montserrat:wght@400;700&display=swap",
+      "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05",
+      "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05"
+    ],
+    "Roboto Condensed": [
+      "https://www.kansascitysteaks.com/",
+      "https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Roboto+Slab:wght@300;400;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Montserrat:wght@400;700&display=swap",
+      "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05",
+      "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05"
+    ],
+    "Roboto Slab": [
+      "https://www.kansascitysteaks.com/",
+      "https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Roboto+Slab:wght@300;400;700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Montserrat:wght@400;700&display=swap",
+      "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05",
+      "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05"
+    ],
+    "Trebuchet MS": [
+      "https://www.kansascitysteaks.com/"
+    ],
+    "arial": [
+      "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05"
+    ],
+    "gotham-light": [
+      "https://www.kansascitysteaks.com/"
+    ],
+    "gotham-medium": [
+      "https://www.kansascitysteaks.com/"
+    ],
+    "helvetica": [
+      "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05"
+    ],
+    "sans-serif": [
+      "https://www.kansascitysteaks.com/",
+      "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05",
+      "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05"
+    ],
+    "tablet-gothic": [
+      "https://www.kansascitysteaks.com/"
+    ],
+    "tablet-gothic-narrow": [
+      "https://www.kansascitysteaks.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.kansascitysteaks.com/",
+      "selector": "body",
+      "declarations": "margin:0;font-family:var(--bs-body-font-family);font-size:var(--bs-body-font-size);font-weight:var(--bs-body-font-weight);line-height:var(--bs-body-line-height);color:var(--bs-body-color);text-align:var(--bs-body-text-align);background-color:var(--bs-body-bg);-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:rgba(0,0,0,0)"
+    },
+    {
+      "source": "https://www.kansascitysteaks.com/",
+      "selector": "h6,.h6,h5,.h5,h4,.h4,h3,.h3,h2,.h2,h1,.h1",
+      "declarations": "margin-top:0;margin-bottom:.5rem;font-weight:500;line-height:1.2;color:var(--bs-heading-color)"
+    },
+    {
+      "source": "https://www.kansascitysteaks.com/",
+      "selector": "thead,tbody,tfoot,tr,td,th",
+      "declarations": "border-color:inherit;border-style:solid;border-width:0"
+    },
+    {
+      "source": "https://www.kansascitysteaks.com/",
+      "selector": "input,button,select,optgroup,textarea",
+      "declarations": "margin:0;font-family:inherit;font-size:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://www.kansascitysteaks.com/",
+      "selector": ".table-striped>tbody>tr:nth-of-type(odd)>*",
+      "declarations": "--bs-table-color-type: var(--bs-table-striped-color);--bs-table-bg-type: var(--bs-table-striped-bg)"
+    },
+    {
+      "source": "https://www.kansascitysteaks.com/",
+      "selector": ".table-hover>tbody>tr:hover>*",
+      "declarations": "--bs-table-color-state: var(--bs-table-hover-color);--bs-table-bg-state: var(--bs-table-hover-bg)"
+    },
+    {
+      "source": "https://www.kansascitysteaks.com/",
+      "selector": ":root",
+      "declarations": "--bs-breakpoint-xs: 0;--bs-breakpoint-sm: 768px;--bs-breakpoint-md: 992px;--bs-breakpoint-lg: 1200px;--bs-breakpoint-xl: 1400px;--bs-breakpoint-xxl: 1600px"
+    },
+    {
+      "source": "https://www.kansascitysteaks.com/",
+      "selector": ".link-body-emphasis",
+      "declarations": "color:RGBA(var(--bs-emphasis-color-rgb), var(--bs-link-opacity, 1)) !important;text-decoration-color:RGBA(var(--bs-emphasis-color-rgb), var(--bs-link-underline-opacity, 1)) !important"
+    },
+    {
+      "source": "https://www.kansascitysteaks.com/",
+      "selector": ".link-body-emphasis:hover,.link-body-emphasis:focus",
+      "declarations": "color:RGBA(var(--bs-emphasis-color-rgb), var(--bs-link-opacity, 0.75)) !important;text-decoration-color:RGBA(var(--bs-emphasis-color-rgb), var(--bs-link-underline-opacity, 0.75)) !important"
+    },
+    {
+      "source": "https://www.kansascitysteaks.com/",
+      "selector": ".text-body",
+      "declarations": "--bs-text-opacity: 1;color:rgba(var(--bs-body-color-rgb), var(--bs-text-opacity)) !important"
+    },
+    {
+      "source": "https://www.kansascitysteaks.com/",
+      "selector": ".text-body-secondary",
+      "declarations": "--bs-text-opacity: 1;color:var(--bs-secondary-color) !important"
+    },
+    {
+      "source": "https://www.kansascitysteaks.com/",
+      "selector": ".text-body-tertiary",
+      "declarations": "--bs-text-opacity: 1;color:var(--bs-tertiary-color) !important"
+    },
+    {
+      "source": "https://www.kansascitysteaks.com/",
+      "selector": ".text-body-emphasis",
+      "declarations": "--bs-text-opacity: 1;color:var(--bs-emphasis-color) !important"
+    },
+    {
+      "source": "https://www.kansascitysteaks.com/",
+      "selector": ".bg-body",
+      "declarations": "--bs-bg-opacity: 1;background-color:rgba(var(--bs-body-bg-rgb), var(--bs-bg-opacity)) !important"
+    },
+    {
+      "source": "https://www.kansascitysteaks.com/",
+      "selector": ".bg-body-secondary",
+      "declarations": "--bs-bg-opacity: 1;background-color:rgba(var(--bs-secondary-bg-rgb), var(--bs-bg-opacity)) !important"
+    },
+    {
+      "source": "https://www.kansascitysteaks.com/",
+      "selector": ".bg-body-tertiary",
+      "declarations": "--bs-bg-opacity: 1;background-color:rgba(var(--bs-tertiary-bg-rgb), var(--bs-bg-opacity)) !important"
+    },
+    {
+      "source": "https://www.kansascitysteaks.com/",
+      "selector": ":root",
+      "declarations": "--font-normal: \"Roboto\", sans-serif;--font-alt1: \"Roboto Condensed\", sans-serif;--font-alt2: \"Roboto Slab\", sans-serif;--font-condensed: var(--font-alt1);--font-slab: var(--font-alt2)"
+    },
+    {
+      "source": "https://www.kansascitysteaks.com/",
+      "selector": "body,h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6,p",
+      "declarations": "font-family:\"Roboto\",sans-serif;color:var(--color-text-default)"
+    },
+    {
+      "source": "https://www.kansascitysteaks.com/",
+      "selector": ".promo-card-body",
+      "declarations": "color:var(--color-text-default);font-size:1.4rem"
+    },
+    {
+      "source": "https://www.kansascitysteaks.com/",
+      "selector": ".promo-card-body b",
+      "declarations": "color:var(--kcs-black)"
+    },
+    {
+      "source": "https://www.kansascitysteaks.com/",
+      "selector": ":root",
+      "declarations": "--brand-charcoal: #231f20;--kcs-black: #231F20;--greyblue: #6c97b6;--sandy-brown: #bfa465;--rusty-red: #cb2a0d;--avocado-green: #67ae1a;--white: #ffffff;--light-brown: #ede2c8"
+    },
+    {
+      "source": "https://www.kansascitysteaks.com/",
+      "selector": "body",
+      "declarations": "color:var(--brand-charcoal);overflow-x:hidden"
+    },
+    {
+      "source": "https://www.kansascitysteaks.com/",
+      "selector": "h1.alt,.alt.h1,h2.alt,.alt.h2,h3.alt,.alt.h3,h4.alt,.alt.h4",
+      "declarations": "font-family:OstrichSansInline-Regular;font-weight:400"
+    },
+    {
+      "source": "https://www.kansascitysteaks.com/",
+      "selector": ".c-three-up.beige .product-cards__container",
+      "declarations": "border-color:var(--color-secondary-alt)"
+    },
+    {
+      "source": "https://www.kansascitysteaks.com/",
+      "selector": ".c-three-up__button.button::after",
+      "declarations": "content:\"\";font-family:FontAwesome;margin-left:5px;font-size:12px"
+    },
+    {
+      "source": "https://www.kansascitysteaks.com/",
+      "selector": ".product-card__details li",
+      "declarations": "line-height:24px;margin-bottom:0;color:#231f20"
+    },
+    {
+      "source": "https://www.kansascitysteaks.com/",
+      "selector": "a.product-card__view-more-link",
+      "declarations": "color:#b21a2f !important;margin-top:5px !important;margin-bottom:20px !important"
+    },
+    {
+      "source": "https://www.kansascitysteaks.com/",
+      "selector": ".ship_to_modal .promo-bar.auto-delivery-info-modal .modal-body ul li",
+      "declarations": "color:#000"
+    },
+    {
+      "source": "https://www.kansascitysteaks.com/",
+      "selector": ".msd-product-card-title",
+      "declarations": "font-size:1.6rem;line-height:125%;font-weight:500;color:var(--kcs-black);margin:0"
+    },
+    {
+      "source": "https://www.kansascitysteaks.com/",
+      "selector": ".g-header",
+      "declarations": "background-color:#fff;color:var(--kcs-black);min-height:100px"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Kansas City Steaks Company™ | Steaks - Online Steak Delivery",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kansascitysteaks.com/",
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05",
+        "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kansascitysteaks.com/",
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05",
+        "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kansascitysteaks.com/",
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kansascitysteaks.com/",
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05",
+        "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kansascitysteaks.com/",
+        "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kansascitysteaks.com/",
+        "https://assets2.kansascitysteaks.com/lib/font-awesome/css/font-awesome.min.css?d=1771863966&v=05",
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05",
+        "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05",
+        "https://assets2.kansascitysteaks.com/dist/client/css/splide.44d8ce81bdb412794ea8.css?d=1789657380&v=05"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kansascitysteaks.com/",
+        "https://assets2.kansascitysteaks.com/lib/font-awesome/css/font-awesome.min.css?d=1771863966&v=05",
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05",
+        "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05",
+        "https://assets2.kansascitysteaks.com/dist/client/css/splide.44d8ce81bdb412794ea8.css?d=1789657380&v=05"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "colors.accent-tan": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kansascitysteaks.com/",
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kansascitysteaks.com/",
+        "https://assets2.kansascitysteaks.com/dist/client/css/styles.85f284acab2e447ac978.css?d=1789664621&v=05"
+      ]
+    },
+    "colors.error": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kansascitysteaks.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets2.kansascitysteaks.com/css/bundle.css?d=1790610293&v=05",
+        "https://assets2.kansascitysteaks.com/dist/client/css/splide.44d8ce81bdb412794ea8.css?d=1789657380&v=05"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.savings-badge": {
+      "status": "inferred"
+    }
+  }
+}

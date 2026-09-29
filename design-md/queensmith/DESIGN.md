@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Queensmith
-description: |
+name: "Queensmith"
+source_url: "https://www.queensmith.co.uk"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Walking into Queensmith begins with the question, not the object — the site positions the jeweler not as a catalog to browse but as a collaborator, opening on an invitation to design your own engagement ring rather than on a product grid. The near-black ink (#313131) on white canvas is the single confirmed chromatic fact the live site yields (behind its Cloudflare gate), and it reads with unusual precision: no blush-pink lifestyle gradients, no promotional red, no candy-colored hero. The palette operates in the register of a bespoke architect's practice — dark type on white, photography given room without interference.
 
   A warm champagne gold — presumed here as #c09a50, representative of the fine jewelry category — punctuates call-to-action surfaces and product details with the restraint of precious metal deployed only where it earns its place. Rings surface on a creamy canvas ({colors.surface-soft}), with a fine hairline ({colors.hairline}) separating content panels rather than heavy borders or drop shadows. Type is built from system fonts in this specification (no brand web font was extractable; see Known Gaps), leaning serif at display sizes for the solemnity of the occasion and clean sans-serif at body for consultation-document legibility. Tracking-widened uppercase labels on buttons enforce a formal register without requiring a custom typeface.
@@ -356,6 +359,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Palette is critically sparse** — only `#313131` was extracted; the live site was behind Cloudflare anti-bot protection ("Just a moment..."). All other color values — champagne gold primary, surface tones, hairline, muted grays, certification green — are category-inferred defaults, not live extraction. Verify the actual primary CTA color, surface palette, and any accent or hover states before production use.
 - **No brand web font detected** — font-family stacks returned entirely OS system fonts with no web font loaded server-side. Queensmith almost certainly uses a licensed or custom typeface (likely a serif for display headings given the category register). Inspect Network → Fonts in DevTools on the live site with anti-bot bypass or a residential IP.

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: The Electric Fetus
-description: A Minneapolis institution since 1968, The Electric Fetus wraps its counterculture roots in a clean, almost gallery-like white canvas (#ffffff) that lets the product — vinyl, CDs, posters, and oddities — do the shouting. The brand’s voice is quiet but knowing, trusting Arial at 16px for body copy and a restrained 14px for captions, with no display type to compete with the kaleidoscope of album art and T-shirt graphics that fill every shelf. Navigation is a simple horizontal strip of uppercase links in a soft gray (#666666) that turns black (#000000) on hover, a nod to the store’s no-fuss, no-markup ethos. Buttons are solid black rectangles with white text, using {rounded.sm} corners that feel deliberate without being precious — this is a store that sells music, not a brand that sells itself. The search bar is a full-width white field with a subtle {hairline} border and a magnifying-glass icon, sitting below the nav like a utility rather than a hero feature. Product cards are white rectangles with a 1px {hairline} border, a 4px {rounded.xs} corner, and generous 16px padding around the cover art, title, artist, and price. The footer is a dense block of links in 12px Arial, organized into columns, with a copyright line that reads “© 2025 The Electric Fetus” — no newsletter signup, no social icons, no brand story. The site feels like the store: a place where the inventory is the personality.
+name: "The Electric Fetus"
+source_url: "https://www.electricfetus.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A Minneapolis institution since 1968, The Electric Fetus wraps its counterculture roots in a clean, almost gallery-like white canvas (#ffffff) that lets the product — vinyl, CDs, posters, and oddities — do the shouting. The brand’s voice is quiet but knowing, trusting Arial at 16px for body copy and a restrained 14px for captions, with no display type to compete with the kaleidoscope of album art and T-shirt graphics that fill every shelf. Navigation is a simple horizontal strip of uppercase links in a soft gray (#666666) that turns black (#000000) on hover, a nod to the store’s no-fuss, no-markup ethos. Buttons are solid black rectangles with white text, using {rounded.sm} corners that feel deliberate without being precious — this is a store that sells music, not a brand that sells itself. The search bar is a full-width white field with a subtle {hairline} border and a magnifying-glass icon, sitting below the nav like a utility rather than a hero feature. Product cards are white rectangles with a 1px {hairline} border, a 4px {rounded.xs} corner, and generous 16px padding around the cover art, title, artist, and price. The footer is a dense block of links in 12px Arial, organized into columns, with a copyright line that reads “© 2025 The Electric Fetus” — no newsletter signup, no social icons, no brand story. The site feels like the store: a place where the inventory is the personality.
 
 colors:
   primary: "#000000"
@@ -348,6 +352,8 @@ components:
 - Breadcrumbs are hidden on mobile, replaced by a "Back" link
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No extracted hex colors were available from the live site — the palette above is inferred from the brand's known identity (black, white, gray) and common e-commerce patterns. The true primary color may differ.
 - Font-family declarations returned only "Arial" — no custom or web fonts were detected. The site may use a self-hosted font or a system font stack that wasn't captured.

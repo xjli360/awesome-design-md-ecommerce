@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Frame It All
-description: Two lime-greens so close in hue they're nearly twins — #8fc746 and #8dc744 — sit at the top of Frame It All's extracted palette, yet neither is the true brand anchor. That role belongs to #024520, a near-black forest green that covers the header, primary CTAs, and logo lockup. The arrangement reads like a canopy: deep shade at the structure, then a band of bright mid-leaf for interactive states, then warm cedar brown (#4f3b2a) grounding the whole system in the material of the actual product. The palette earns credibility by mirroring what customers are building with.
+name: "Frame It All"
+source_url: "https://frameitall.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Two lime-greens so close in hue they're nearly twins — #8fc746 and #8dc744 — sit at the top of Frame It All's extracted palette, yet neither is the true brand anchor. That role belongs to #024520, a near-black forest green that covers the header, primary CTAs, and logo lockup. The arrangement reads like a canopy: deep shade at the structure, then a band of bright mid-leaf for interactive states, then warm cedar brown (#4f3b2a) grounding the whole system in the material of the actual product. The palette earns credibility by mirroring what customers are building with.
 
   Typography pairs Bricolage Grotesque SemiBold — a geometric grotesque with slightly mechanical proportions — for all display and headline work, while Alegreya Sans gives body copy an almanac-like warmth that suits a brand writing long-form guides on soil depth and drainage layers. Poppins handles buttons, labels, and nav items; its uniformly circular letterforms keep UI chrome legible at small sizes without competing with the editorial stack. The 10px border radius extracted from the live site is why {rounded.md} sits at 10px throughout — product cards, inputs, and CTAs all share this number, creating structural consistency across a Shopify catalog that can run dozens of SKUs deep.
 
@@ -311,6 +315,8 @@ components:
 - Footer four-column layout collapses to stacked accordion sections with expand/collapse per group
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No logo file or SVG extracted; exact wordmark weight, spacing, and any icon lockup variant are unconfirmed
 - Button hover transition duration and easing curve not extractable; 150–200ms ease-in-out is a safe default

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Gloster
-description: Teak grain rendered as a digital palette — Gloster's interface draws its warmth from #e3ded8 cream surfaces and #b9b2a5 stone accents that echo weathered heartwood, while a single muted forest green (#457364) anchors every navigational CTA and interactive affordance. The restraint is absolute; where most luxury brands lean on serif contrasts or cinematic video loops, Gloster trusts Helvetica Neue at clean weights and enormous product photography against near-white canvas (#e0e0de) to communicate material confidence. Typography runs light and wide — display headings sit at weight 300–400 with generous letter-spacing, letting the furniture occupy the visual stage rather than competing with typographic gesture. Corners stay sharp throughout (`{rounded.none}` on cards, buttons, and containers), reinforcing the rectilinear precision of outdoor dining tables and modular lounge frames. A secondary dark green (#2b483f) surfaces in footer regions and overlay states, creating depth without introducing new hue families. The monochrome gray ramp — from #262625 ink through #706f6f body copy to #c8c8c6 hairlines — is remarkably even, stepping in near-uniform increments that avoid harsh contrast jumps. Spacing favors generous `{spacing.section}` vertical rhythm between content blocks, reflecting the brand's physical product philosophy: each piece commands its own breathing room in an outdoor setting. Hover states are subtle shifts within the gray-green spectrum rather than opacity changes, and the overall impression is of a showroom where every surface has been considered for how it ages under sunlight — digital materials behaving like physical ones.
+name: "Gloster"
+source_url: "https://www.gloster.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Teak grain rendered as a digital palette — Gloster's interface draws its warmth from #e3ded8 cream surfaces and #b9b2a5 stone accents that echo weathered heartwood, while a single muted forest green (#457364) anchors every navigational CTA and interactive affordance. The restraint is absolute; where most luxury brands lean on serif contrasts or cinematic video loops, Gloster trusts Helvetica Neue at clean weights and enormous product photography against near-white canvas (#e0e0de) to communicate material confidence. Typography runs light and wide — display headings sit at weight 300–400 with generous letter-spacing, letting the furniture occupy the visual stage rather than competing with typographic gesture. Corners stay sharp throughout (`{rounded.none}` on cards, buttons, and containers), reinforcing the rectilinear precision of outdoor dining tables and modular lounge frames. A secondary dark green (#2b483f) surfaces in footer regions and overlay states, creating depth without introducing new hue families. The monochrome gray ramp — from #262625 ink through #706f6f body copy to #c8c8c6 hairlines — is remarkably even, stepping in near-uniform increments that avoid harsh contrast jumps. Spacing favors generous `{spacing.section}` vertical rhythm between content blocks, reflecting the brand's physical product philosophy: each piece commands its own breathing room in an outdoor setting. Hover states are subtle shifts within the gray-green spectrum rather than opacity changes, and the overall impression is of a showroom where every surface has been considered for how it ages under sunlight — digital materials behaving like physical ones.
 
 colors:
   primary: "#457364"
@@ -369,6 +373,8 @@ components:
 - Designer quotes maintain their left-border treatment but reduce padding
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Font extraction returned only system stacks (Arial, Helvetica Neue, sans-serif); Gloster may load a custom or licensed typeface via JavaScript that was not captured — the brand could use a proprietary serif or geometric sans for display headings
 - No meta theme-color was detected; mobile browser chrome color is unknown

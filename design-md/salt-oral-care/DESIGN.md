@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Salt Oral Care
-description: A clean, clinical-yet-warm oral care brand that balances the crisp authority of a dentist’s office with the approachable softness of a modern DTC wellness label. The palette is anchored by a deep teal primary {colors.primary} (#108474) — a color that reads as both hygienic (think antiseptic mouthwash) and natural (sea salt, seaweed, mint). This teal appears on primary buttons, navigation accents, and key product badges, always paired with a bright white canvas {colors.canvas} (#ffffff) and soft gray surfaces like {colors.surface-soft} (#f9fafb) and {colors.surface-card} (#fafafa). The brand’s secondary voltage comes from a warm yellow accent {colors.accent-yellow} (#fed716) used sparingly for sale tags, star ratings, and promotional highlights — a surprising jolt of optimism against the cool teal. Typography relies on Nunito Sans, a rounded sans-serif that feels friendly and legible at small sizes (product descriptions, ingredient lists), while display headings occasionally use EB Garamond or Baskerville for a touch of editorial sophistication in hero sections. Buttons are softly rounded at {rounded.sm} (8px), product cards use {rounded.md} (12px), and the overall spacing system is generous — {spacing.section} (64px) between major blocks, with {spacing.lg} (24px) gutters inside cards. The brand avoids harsh lines: hairline borders use {colors.hairline} (#dddddd) and {colors.hairline-soft} (#e9e9e9), creating a subtle grid that never competes with product photography. Salt Oral Care’s design language says “trust us, we’re experts” without feeling cold — the teal warmth, the yellow spark, the soft corners, and the airy layout all conspire to make daily oral care feel less like a chore and more like a small act of self-care.
+name: "Salt Oral Care"
+source_url: "https://www.saltoralcare.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A clean, clinical-yet-warm oral care brand that balances the crisp authority of a dentist’s office with the approachable softness of a modern DTC wellness label. The palette is anchored by a deep teal primary {colors.primary} (#108474) — a color that reads as both hygienic (think antiseptic mouthwash) and natural (sea salt, seaweed, mint). This teal appears on primary buttons, navigation accents, and key product badges, always paired with a bright white canvas {colors.canvas} (#ffffff) and soft gray surfaces like {colors.surface-soft} (#f9fafb) and {colors.surface-card} (#fafafa). The brand’s secondary voltage comes from a warm yellow accent {colors.accent-yellow} (#fed716) used sparingly for sale tags, star ratings, and promotional highlights — a surprising jolt of optimism against the cool teal. Typography relies on Nunito Sans, a rounded sans-serif that feels friendly and legible at small sizes (product descriptions, ingredient lists), while display headings occasionally use EB Garamond or Baskerville for a touch of editorial sophistication in hero sections. Buttons are softly rounded at {rounded.sm} (8px), product cards use {rounded.md} (12px), and the overall spacing system is generous — {spacing.section} (64px) between major blocks, with {spacing.lg} (24px) gutters inside cards. The brand avoids harsh lines: hairline borders use {colors.hairline} (#dddddd) and {colors.hairline-soft} (#e9e9e9), creating a subtle grid that never competes with product photography. Salt Oral Care’s design language says “trust us, we’re experts” without feeling cold — the teal warmth, the yellow spark, the soft corners, and the airy layout all conspire to make daily oral care feel less like a chore and more like a small act of self-care.
 
 colors:
   primary: "#108474"
@@ -495,6 +499,8 @@ components:
 - Cart drawer becomes a full-screen overlay on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for secondary buttons, text inputs, and nav links were inferred from common DTC patterns but not verified against live site interactions
 - Error styling for forms (validation messages, error icons) was not fully extracted; error text color (#ff7744) is an assumption based on its presence as an accent

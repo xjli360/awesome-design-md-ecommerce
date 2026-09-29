@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Modern Fertility
-description: A clinical-yet-warm reproductive health brand that uses a single, saturated accent — a deep teal-cyan (#1990c6) — to signal trust and precision across an otherwise stark white-and-charcoal canvas. The site reads like a well-designed medical dashboard: Source Sans Pro at 400 weight for body copy, with headings rarely exceeding 600 weight, giving the interface a calm, evidence-based authority rather than a pushy direct-to-consumer energy. That teal accent appears on every primary CTA button, every active nav link, and every progress indicator in the quiz flow — it's the brand's only color voltage, and it's used sparingly enough that it never feels promotional. Cards and containers use soft 8px rounding (`{rounded.sm}`), while pill-shaped buttons (`{rounded.full}`) and the search bar create a friendly entry point. The fertility-test quiz — the brand's core conversion tool — uses a multi-step form with a thin progress bar, large radio-button cards, and generous 48px section spacing (`{spacing.section}`) that gives each question room to breathe. There is no pink, no pastel, no stereotypical "women's health" palette; the design deliberately avoids gendered visual cues in favor of a clean, unisex clinical interface. Footer links are small (13px), muted, and organized in dense columns, while the top nav stays minimal — logo left, thin nav links right, no mega-menu. The overall mood is that of a thoughtful health service that happens to sell directly to consumers: trustworthy, uncluttered, and built around a single teal thread that guides the eye from headline to CTA.
+name: "Modern Fertility"
+source_url: "https://modernfertility.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A clinical-yet-warm reproductive health brand that uses a single, saturated accent — a deep teal-cyan (#1990c6) — to signal trust and precision across an otherwise stark white-and-charcoal canvas. The site reads like a well-designed medical dashboard: Source Sans Pro at 400 weight for body copy, with headings rarely exceeding 600 weight, giving the interface a calm, evidence-based authority rather than a pushy direct-to-consumer energy. That teal accent appears on every primary CTA button, every active nav link, and every progress indicator in the quiz flow — it's the brand's only color voltage, and it's used sparingly enough that it never feels promotional. Cards and containers use soft 8px rounding (`{rounded.sm}`), while pill-shaped buttons (`{rounded.full}`) and the search bar create a friendly entry point. The fertility-test quiz — the brand's core conversion tool — uses a multi-step form with a thin progress bar, large radio-button cards, and generous 48px section spacing (`{spacing.section}`) that gives each question room to breathe. There is no pink, no pastel, no stereotypical "women's health" palette; the design deliberately avoids gendered visual cues in favor of a clean, unisex clinical interface. Footer links are small (13px), muted, and organized in dense columns, while the top nav stays minimal — logo left, thin nav links right, no mega-menu. The overall mood is that of a thoughtful health service that happens to sell directly to consumers: trustworthy, uncluttered, and built around a single teal thread that guides the eye from headline to CTA.
 
 colors:
   primary: "#1990c6"
@@ -396,6 +400,8 @@ components:
 - Hero section reduces vertical padding from 64px to 32px at mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Extracted colors were minimal (only a few hex values from the captcha page); the teal (#1990c6) was identified as the most distinctive accent but its exact usage (hover states, disabled states, secondary variants) is inferred from common DTC health brand patterns rather than extracted from the live site.
 - Font-family declarations only returned "Source Sans Pro, sans-serif" — no secondary or fallback fonts were detected. The `fontFamily` values in typography use common system fallbacks.

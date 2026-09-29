@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: La Marzocco Home
-description: |
+name: "La Marzocco Home"
+source_url: "https://lamarzoccohome.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The first thing you notice is the warmth: #d5ccb4, a color somewhere between aged linen and the pietra forte of a Florentine workshop, spreads across hero panels and product stages with the unhurried certainty of a material that has been handled for decades. This is not a tech-startup blue or a DTC pastel — it is the specific warm champagne of espresso crema caught in afternoon light, and it carries La Marzocco's entire visual identity. Against a clean white canvas, that sand tone fills full-bleed sections, product-detail backdrops, and configurator panels, creating the sense of walking into a showroom where machines sit on warm stone plinths rather than clinical white shelves.
 
   Deep blue #003399 appears sparingly — in text links, secondary CTAs, and the occasional navigational accent — grounding the warmth with gravitas borrowed from traditional Italian ceramics and enamelwork. A single forest green #236b14 surfaces in availability indicators and sustainability messaging, a nod to the Tuscan hillside without becoming pastoral.
@@ -391,6 +394,8 @@ components:
 - Product card hover effects are disabled on touch devices; tap goes directly to PDP
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No font-family stacks were extracted from the live site — fonts are likely loaded via JavaScript or a deferred stylesheet. The system stack (`'Avenir Next', Avenir, Montserrat, -apple-system...`) is an educated approximation based on the brand's geometric sans-serif aesthetic; verify against the live site's computed styles before production use.
 - Only three hex colors (#d5ccb4, #003399, #236b14) were captured. Derived shades (primary-active, disabled, surface tones, hairlines) are interpolated and should be validated against actual rendered UI.

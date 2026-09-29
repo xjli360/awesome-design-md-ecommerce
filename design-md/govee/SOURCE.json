@@ -1,0 +1,870 @@
+{
+  "source_url": "https://govee.com",
+  "final_url": "https://us.govee.com:443/",
+  "captured_at": "2026-09-28T09:41:43.049798+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://govee.com",
+      "final_url": "https://us.govee.com:443/",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "bb37248131f489b95972c4697a91c4b331ec08d80de386114eaed6eb138e60c8",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/FastShippingIcon-DWf_m16f.css",
+      "final_url": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/FastShippingIcon-DWf_m16f.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "311730e94ae4ebf44bb8ce9dd043a0d8d21c896a7b1f9ac8209d50fff54d5a43",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/react-photo-view-q5poTtC1.css",
+      "final_url": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/react-photo-view-q5poTtC1.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d57af9ef8af6b6a98467d24da528e01757cab0ef918b19a02e16c6c1f32ff7c5",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+      "final_url": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "595d3831d110f7cc66cdd777c8146dd176aa835d18af001cd90b2ba924bd1274",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/carousel-BAThqVTb.css",
+      "final_url": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/carousel-BAThqVTb.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "94e33866ce01d2b1b3c0a51a00aee7f492838171f606bb0fa91d5945ef4dc913",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 188,
+      "sources": [
+        "https://us.govee.com:443/",
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/react-photo-view-q5poTtC1.css",
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/carousel-BAThqVTb.css"
+      ]
+    },
+    "#00a0df": {
+      "count": 185,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#00000000": {
+      "count": 136,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#cecece": {
+      "count": 96,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#5d5d60": {
+      "count": 92,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#252525": {
+      "count": 81,
+      "sources": [
+        "https://us.govee.com:443/",
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#18a2e3": {
+      "count": 58,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#cecece33": {
+      "count": 47,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#000000": {
+      "count": 44,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/react-photo-view-q5poTtC1.css",
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#18a2e4": {
+      "count": 39,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#29323c": {
+      "count": 37,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#fd9d02": {
+      "count": 35,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#373737": {
+      "count": 33,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#fc3a57": {
+      "count": 32,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#22cc95": {
+      "count": 28,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#161617": {
+      "count": 24,
+      "sources": [
+        "https://us.govee.com:443/",
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#00a2e4": {
+      "count": 24,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#ffddb0": {
+      "count": 24,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#888888": {
+      "count": 22,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#b931c9": {
+      "count": 21,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#f94ee1": {
+      "count": 21,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#86868c": {
+      "count": 21,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 19,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#cecece1a": {
+      "count": 16,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#ffffff99": {
+      "count": 16,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#2e2e30": {
+      "count": 15,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#ff9933": {
+      "count": 15,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#2563eb": {
+      "count": 14,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#ffffff33": {
+      "count": 13,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#20dbef": {
+      "count": 13,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 12,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#d262c4": {
+      "count": 12,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#a65dff": {
+      "count": 12,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#cca6ff": {
+      "count": 12,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#000912": {
+      "count": 11,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#160103": {
+      "count": 11,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#ff1c1c": {
+      "count": 11,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#600e14": {
+      "count": 11,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 10,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#160900": {
+      "count": 10,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#60ccff": {
+      "count": 10,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#252527": {
+      "count": 10,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#707070": {
+      "count": 10,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#991522": {
+      "count": 10,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#d61e30": {
+      "count": 10,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#ff6969": {
+      "count": 10,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#000f08": {
+      "count": 9,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#19a7f0": {
+      "count": 9,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#23d180": {
+      "count": 9,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#c2a684": {
+      "count": 9,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#d4d4d4": {
+      "count": 9,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 9,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#6b7280": {
+      "count": 8,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#374151": {
+      "count": 8,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#0000000d": {
+      "count": 8,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#cecece66": {
+      "count": 8,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#ffffff1a": {
+      "count": 8,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#00a7d4": {
+      "count": 8,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#424246": {
+      "count": 8,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 8,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+    ],
+    "Cantarell": [
+      "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+    ],
+    "Consolas": [
+      "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+    ],
+    "Courier New": [
+      "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+    ],
+    "Gotham": [
+      "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+    ],
+    "Liberation Mono": [
+      "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+    ],
+    "Menlo": [
+      "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+    ],
+    "Monaco": [
+      "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+    ],
+    "Noto Sans": [
+      "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+    ],
+    "Roboto": [
+      "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+    ],
+    "SFMono-Regular": [
+      "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+    ],
+    "Segoe UI": [
+      "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+    ],
+    "Ubuntu": [
+      "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+    ],
+    "monospace": [
+      "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+    ],
+    "sans-serif": [
+      "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+    ],
+    "serif": [
+      "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+    ],
+    "system-ui": [
+      "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+    ],
+    "ui-monospace": [
+      "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-feature-settings:inherit;font-variation-settings:inherit;font-size:100%;font-weight:inherit;line-height:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+      "selector": "button,[type=button],[type=reset],[type=submit]",
+      "declarations": "-webkit-appearance:button;background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+      "selector": ":root",
+      "declarations": "--p: 66.6921% .142671 235.599436;--bc: 85.2896% 0 0;--sc: 91.6457% .047452 323.261534;--ac: 14.2116% .051015 334.146399;--nc: 85.2896% 0 0;--inc: 13.3384% .028534 235.599436;--suc: 15.0299% .030548 164.497536;--wac: 15.527% .034215 67.142539;--erc: 13.0662% .045359 18.628276;--rounded-box: 1rem;--rounded-btn: .5rem;--rounded-badge: 1.9rem;--animation-btn: .25s;--animation-input: .2s;--btn-focus-scale: .95;--border-btn: .0625rem;--tab-border: .0625rem;--tab-radius: .5rem;--pc: 100% 0 0;--s: 58.2285% .237261 323.261534;--a: 71.0578% .255075 334.146399;--n: 26.448% 0 0;--in: 66.6921% .142671 235.599436;--su: 75.1497% .15274 164.497536;--wa: 77.6352% .171077 67.142539;--er: 65.3312% .226794 18.6"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+      "selector": ":root",
+      "declarations": "--p: 66.6921% .142671 235.599436;--sc: 14.0911% .050882 322.840154;--ac: 17.1418% .028159 195.978946;--nc: 16.551% .030098 81.051228;--suc: 15.198% .03531 156.086203;--wac: 15.0238% .035271 59.679432;--erc: 12.7092% .050018 28.341618;--rounded-box: 1rem;--rounded-btn: .5rem;--rounded-badge: 1.9rem;--animation-btn: .25s;--animation-input: .2s;--btn-focus-scale: .95;--border-btn: .0625rem;--tab-border: .0625rem;--tab-radius: .5rem;--s: 70.4555% .254411 322.840154;--n: 82.7549% .150488 81.051228;--pc: 100% 0 0;--a: 85.7089% .140796 195.978946;--in: 66.6921% .142671 235.599436;--inc: 100% 0 0;--su: 75.99% .176552 156.086203;--wa: 75.1189% .176356 59.679432;--er: 63.5461% .250089 28.341618;--b1: "
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+      "selector": "body",
+      "declarations": "font-family:Gotham,system-ui,-apple-system,Segoe UI,Roboto,Ubuntu,Cantarell,Noto Sans,sans-serif"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+      "selector": ".prose :where(h1):not(:where([class~=not-prose],[class~=not-prose] *))",
+      "declarations": "color:var(--tw-prose-headings);font-weight:800;font-size:2.25em;margin-top:0;margin-bottom:.8888889em;line-height:1.1111111"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+      "selector": ".prose :where(h1 strong):not(:where([class~=not-prose],[class~=not-prose] *))",
+      "declarations": "font-weight:900;color:inherit"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+      "selector": ".prose :where(h1 code):not(:where([class~=not-prose],[class~=not-prose] *))",
+      "declarations": "color:inherit"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+      "selector": ".prose :where(tbody tr):not(:where([class~=not-prose],[class~=not-prose] *))",
+      "declarations": "border-bottom-width:.0625rem;border-bottom-color:var(--tw-prose-td-borders)"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+      "selector": ".menu li>*:not(ul):not(.menu-title):not(details):not(.btn):active,.menu li>*:not(ul):not(.menu-title):not(details):not(.btn).active,.menu li>details>summary:act",
+      "declarations": "--tw-bg-opacity: 1;background-color:#252525;background-color:var(--fallback-n,oklch(var(--n)/var(--tw-bg-opacity)));--tw-text-opacity: 1;color:#cecece;color:var(--fallback-nc,oklch(var(--nc)/var(--tw-text-opacity)))"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+      "selector": ".menu li>*:not(ul):not(.menu-title):not(details):not(.btn).\\!active",
+      "declarations": "--tw-bg-opacity: 1 !important;background-color:#252525!important;background-color:var(--fallback-n,oklch(var(--n)/var(--tw-bg-opacity)))!important;--tw-text-opacity: 1 !important;color:#cecece!important;color:var(--fallback-nc,oklch(var(--nc)/var(--tw-text-opacity)))!important"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+      "selector": ".\\!menu li>*:not(ul):not(.menu-title):not(details):not(.btn):active,.\\!menu li>*:not(ul):not(.menu-title):not(details):not(.btn).active,.\\!menu li>details>summa",
+      "declarations": "--tw-bg-opacity: 1 !important;background-color:#252525!important;background-color:var(--fallback-n,oklch(var(--n)/var(--tw-bg-opacity)))!important;--tw-text-opacity: 1 !important;color:#cecece!important;color:var(--fallback-nc,oklch(var(--nc)/var(--tw-text-opacity)))!important"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+      "selector": ".btn",
+      "declarations": "display:inline-flex;height:3rem;min-height:3rem;flex-shrink:0;cursor:pointer;-webkit-user-select:none;-moz-user-select:none;user-select:none;flex-wrap:wrap;align-items:center;justify-content:center;border-radius:.5rem;border-radius:var(--rounded-btn, .5rem);border-color:transparent;border-color:#29323c;border-color:oklch(var(--btn-color, var(--b2)) / var(--tw-border-opacity));padding-left:1rem;padding-right:1rem;text-align:center;font-size:.875rem;line-height:1em;gap:.5rem;font-weight:600;text-decoration-line:none;transition-duration:.2s;transition-timing-function:cubic-bezier(0,0,.2,1);border-width:.0625rem;border-width:var(--border-btn, 1px);animation:button-pop .25s ease-out;animation:but"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+      "selector": "input.btn[type=checkbox]:after",
+      "declarations": "--tw-content: attr(aria-label);content:attr(aria-label);content:var(--tw-content)"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+      "selector": "input.btn[type=radio]:after",
+      "declarations": "--tw-content: attr(aria-label);content:attr(aria-label);content:var(--tw-content)"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+      "selector": ".card.image-full>.card-body",
+      "declarations": "position:relative;z-index:20;--tw-text-opacity: 1;color:#cecece;color:var(--fallback-nc,oklch(var(--nc)/var(--tw-text-opacity)))"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+      "selector": ".btn:hover",
+      "declarations": "--tw-border-opacity: 1;border-color:#373737;border-color:var(--fallback-b3,oklch(var(--b3)/var(--tw-border-opacity)));--tw-bg-opacity: 1;background-color:#373737;background-color:var(--fallback-b3,oklch(var(--b3)/var(--tw-bg-opacity)))"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+      "selector": ".btn:hover",
+      "declarations": "background-color:color-mix(in oklab,rgb(41,50,60) 90%,black);border-color:color-mix(in oklab,rgb(41,50,60) 90%,black)"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+      "selector": ".btn:hover",
+      "declarations": "background-color:color-mix(in oklab,oklch(var(--btn-color, var(--b2)) / var(--tw-bg-opacity, 1)) 90%,black);border-color:color-mix(in oklab,oklch(var(--btn-color, var(--b2)) / var(--tw-border-opacity, 1)) 90%,black)"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+      "selector": ".btn:hover",
+      "declarations": "background-color:var(--btn-color, var(--fallback-b2));border-color:var(--btn-color, var(--fallback-b2))"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+      "selector": ".btn.glass:hover",
+      "declarations": "--glass-opacity: 25%;--glass-border-opacity: 15%"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+      "selector": ".btn-ghost:hover",
+      "declarations": "border-color:transparent"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+      "selector": ".btn-ghost:hover",
+      "declarations": "background-color:#cecece33;background-color:var(--fallback-bc,oklch(var(--bc)/.2))"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+      "selector": ".btn-link:hover",
+      "declarations": "border-color:transparent;background-color:transparent;text-decoration-line:underline"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+      "selector": ".btn-outline:hover",
+      "declarations": "--tw-border-opacity: 1;border-color:#cecece;border-color:var(--fallback-bc,oklch(var(--bc)/var(--tw-border-opacity)));--tw-bg-opacity: 1;background-color:#cecece;background-color:var(--fallback-bc,oklch(var(--bc)/var(--tw-bg-opacity)));--tw-text-opacity: 1;color:#252525;color:var(--fallback-b1,oklch(var(--b1)/var(--tw-text-opacity)))"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+      "selector": ".btn-outline.btn-primary:hover",
+      "declarations": "--tw-text-opacity: 1;color:#fff;color:var(--fallback-pc,oklch(var(--pc)/var(--tw-text-opacity)))"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+      "selector": ".btn-outline.btn-primary:hover",
+      "declarations": "background-color:color-mix(in oklab,rgb(0,160,223) 90%,black);border-color:color-mix(in oklab,rgb(0,160,223) 90%,black)"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+      "selector": ".btn-outline.btn-primary:hover",
+      "declarations": "background-color:color-mix(in oklab,var(--fallback-p,oklch(var(--p)/1)) 90%,black);border-color:color-mix(in oklab,var(--fallback-p,oklch(var(--p)/1)) 90%,black)"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+      "selector": ".btn-outline.btn-secondary:hover",
+      "declarations": "--tw-text-opacity: 1;color:#f4d9f6;color:var(--fallback-sc,oklch(var(--sc)/var(--tw-text-opacity)))"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+      "selector": ".btn-outline.btn-secondary:hover",
+      "declarations": "background-color:color-mix(in oklab,rgb(185,49,201) 90%,black);border-color:color-mix(in oklab,rgb(185,49,201) 90%,black)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Govee - Making Life Smarter | Smart Home Lighting",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.govee.com:443/",
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.govee.com:443/",
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/react-photo-view-q5poTtC1.css",
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/carousel-BAThqVTb.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.govee.com:443/",
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.govee.com:443/",
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/react-photo-view-q5poTtC1.css",
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/carousel-BAThqVTb.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.govee.com:443/",
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/react-photo-view-q5poTtC1.css",
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css",
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/carousel-BAThqVTb.css"
+      ]
+    },
+    "colors.accent-cyan": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "colors.accent-amber": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "colors.accent-magenta": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "colors.error": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "colors.dark-surface": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "colors.border-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "colors.overlay-scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/29163/16464/33972/4569760/assets/app-CDXVD-EE.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.color-scene-selector": {
+      "status": "inferred"
+    }
+  }
+}

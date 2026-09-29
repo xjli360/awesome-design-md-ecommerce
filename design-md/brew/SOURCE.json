@@ -1,0 +1,852 @@
+{
+  "source_url": "https://www.brewwatches.com",
+  "final_url": "https://www.brew-watches.com/",
+  "captured_at": "2026-09-28T04:53:12.448075+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.brewwatches.com",
+      "final_url": "https://www.brew-watches.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "f299d8c3fb6b54f4dd8fdda4cc3436cdd74c75b327f5ffe621436ca50862c63f",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.brew-watches.com/cdn/shop/t/16/assets/theme.css?v=113171406684287748711782925133",
+      "final_url": "https://www.brew-watches.com/cdn/shop/t/16/assets/theme.css?v=113171406684287748711782925133",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ef943e688754eb393e2f3302e401b8e91c070d19a84ce2c09bac234ceb80395a",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.brew-watches.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.brew-watches.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0c3fc-9a5c-7c5f-b063-158ed04d9cfc/klaviyo-email-marketing-73/assets/app.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0c3fc-9a5c-7c5f-b063-158ed04d9cfc/klaviyo-email-marketing-73/assets/app.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.brew-watches.com/cdn/shop/t/16/assets/section-header-navigation.css?v=122675213833237791661782925110",
+      "final_url": "https://www.brew-watches.com/cdn/shop/t/16/assets/section-header-navigation.css?v=122675213833237791661782925110",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "550855601893269f7662ce18f80e4cb97898619353536bb8a8723486cbe3b50d",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.brew-watches.com/cdn/shop/t/16/assets/section-slideshow.css?v=31364174929012353201782925120",
+      "final_url": "https://www.brew-watches.com/cdn/shop/t/16/assets/section-slideshow.css?v=31364174929012353201782925120",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f32fd6fc0e3bfa82650fcee8eb53f4f48e697c8998648717913dcd9afbc171c8",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 39,
+      "sources": [
+        "https://www.brew-watches.com/",
+        "https://www.brew-watches.com/cdn/shop/t/16/assets/theme.css?v=113171406684287748711782925133",
+        "https://www.brew-watches.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#000000": {
+      "count": 25,
+      "sources": [
+        "https://www.brew-watches.com/",
+        "https://www.brew-watches.com/cdn/shop/t/16/assets/theme.css?v=113171406684287748711782925133"
+      ]
+    },
+    "#00052c": {
+      "count": 17,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#d02e2e": {
+      "count": 12,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 11,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 5,
+      "sources": [
+        "https://www.brew-watches.com/",
+        "https://www.brew-watches.com/cdn/shop/t/16/assets/theme.css?v=113171406684287748711782925133"
+      ]
+    },
+    "#00000033": {
+      "count": 5,
+      "sources": [
+        "https://www.brew-watches.com/cdn/shop/t/16/assets/theme.css?v=113171406684287748711782925133"
+      ]
+    },
+    "#00000000": {
+      "count": 5,
+      "sources": [
+        "https://www.brew-watches.com/cdn/shop/t/16/assets/theme.css?v=113171406684287748711782925133",
+        "https://www.brew-watches.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 3,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#0b0b0b": {
+      "count": 3,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#0000001a": {
+      "count": 3,
+      "sources": [
+        "https://www.brew-watches.com/cdn/shop/t/16/assets/theme.css?v=113171406684287748711782925133"
+      ]
+    },
+    "#00000066": {
+      "count": 3,
+      "sources": [
+        "https://www.brew-watches.com/cdn/shop/t/16/assets/theme.css?v=113171406684287748711782925133"
+      ]
+    },
+    "#5c5c5c1a": {
+      "count": 3,
+      "sources": [
+        "https://www.brew-watches.com/cdn/shop/t/16/assets/theme.css?v=113171406684287748711782925133"
+      ]
+    },
+    "#001192": {
+      "count": 2,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 2,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 2,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#a6a6a6": {
+      "count": 2,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#808080": {
+      "count": 2,
+      "sources": [
+        "https://www.brew-watches.com/",
+        "https://www.brew-watches.com/cdn/shop/t/16/assets/theme.css?v=113171406684287748711782925133"
+      ]
+    },
+    "#737373": {
+      "count": 2,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#d43747": {
+      "count": 2,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#e38181": {
+      "count": 2,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#333333": {
+      "count": 2,
+      "sources": [
+        "https://www.brew-watches.com/cdn/shop/t/16/assets/theme.css?v=113171406684287748711782925133"
+      ]
+    },
+    "#1199ff": {
+      "count": 2,
+      "sources": [
+        "https://www.brew-watches.com/cdn/shop/t/16/assets/theme.css?v=113171406684287748711782925133"
+      ]
+    },
+    "#0000000f": {
+      "count": 2,
+      "sources": [
+        "https://www.brew-watches.com/cdn/shop/t/16/assets/theme.css?v=113171406684287748711782925133"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.brew-watches.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#000b5f": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#fafafa": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#cdcdcd": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#c0c0c0": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#9a9a9a": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#999999": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#8c8c8c": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#0016c5": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#f3cbcb": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#56ad6a": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#ecfef0": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#ecbd5e": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#030527": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#000846": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#000950": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#e3e3e3": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#1773b0": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "#faf7f5": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/cdn/shop/t/16/assets/theme.css?v=113171406684287748711782925133"
+      ]
+    },
+    "#51ab62": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/cdn/shop/t/16/assets/theme.css?v=113171406684287748711782925133"
+      ]
+    },
+    "#00000012": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/cdn/shop/t/16/assets/theme.css?v=113171406684287748711782925133"
+      ]
+    },
+    "#ffffff26": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/cdn/shop/t/16/assets/theme.css?v=113171406684287748711782925133"
+      ]
+    },
+    "#ffffff00": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/cdn/shop/t/16/assets/theme.css?v=113171406684287748711782925133"
+      ]
+    },
+    "#00000026": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/cdn/shop/t/16/assets/theme.css?v=113171406684287748711782925133"
+      ]
+    },
+    "#ffffffbf": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/cdn/shop/t/16/assets/theme.css?v=113171406684287748711782925133"
+      ]
+    },
+    "#00000014": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/cdn/shop/t/16/assets/theme.css?v=113171406684287748711782925133"
+      ]
+    },
+    "#222222": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/cdn/shop/t/16/assets/theme.css?v=113171406684287748711782925133"
+      ]
+    },
+    "#0000000a": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/cdn/shop/t/16/assets/theme.css?v=113171406684287748711782925133"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.brew-watches.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Barlow Condensed": [
+      "https://www.brew-watches.com/"
+    ],
+    "Consolas": [
+      "https://www.brew-watches.com/cdn/shop/t/16/assets/theme.css?v=113171406684287748711782925133"
+    ],
+    "Instrument Sans": [
+      "https://www.brew-watches.com/"
+    ],
+    "monospace": [
+      "https://www.brew-watches.com/cdn/shop/t/16/assets/theme.css?v=113171406684287748711782925133"
+    ],
+    "sans-serif": [
+      "https://www.brew-watches.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.brew-watches.com/",
+      "selector": ":root",
+      "declarations": "--overlay-bg: #00052c;\n        --overlay-bg-svg: #fff;"
+    },
+    {
+      "source": "https://www.brew-watches.com/",
+      "selector": "--highlight: #d02e2e;\npadding-top: 50.0%; \npadding-top: 50.0%; \npadding-top: 50.0%; \n--highlight: #d02e2e;\n--logo-width: 130px\n--highlight: #d02e2e;\n--highlight",
+      "declarations": "--header-height: 79px;\n    --header-sticky-height: 60px;\n    --header-background-height: 79px;"
+    },
+    {
+      "source": "https://www.brew-watches.com/",
+      "selector": ":root",
+      "declarations": "--full-height: calc(100vh - var(--header-sticky-height));"
+    },
+    {
+      "source": "https://www.brew-watches.com/",
+      "selector": ".main-content > .shopify-section.supports-transparent-header:first-child [data-prevent-transparent-header]",
+      "declarations": "--full-height: var(--content-full);"
+    },
+    {
+      "source": "https://www.brew-watches.com/",
+      "selector": ".site-header--has-border",
+      "declarations": "--border-color: currentcolor;\n      \n\n      --border-opacity: 0.0;"
+    },
+    {
+      "source": "https://www.brew-watches.com/",
+      "selector": "padding-top: 37.5%\npadding-top: 37.5%\n--highlight: #d02e2e;\n#headerBlock--image-1 .hero__title",
+      "declarations": "--adjust-heading: calc(var(--FONT-ADJUST-HEADING) * 1.0);"
+    },
+    {
+      "source": "https://www.brew-watches.com/",
+      "selector": "#headerBlock--image-1 .hero__title",
+      "declarations": "--adjust-heading: calc(var(--FONT-ADJUST-HEADING) * 1.0);"
+    },
+    {
+      "source": "https://www.brew-watches.com/",
+      "selector": "padding-top: 140.0%; \n#headerBlock--image-0 .hero__title",
+      "declarations": "--adjust-heading: calc(var(--FONT-ADJUST-HEADING) * 1.2);"
+    },
+    {
+      "source": "https://www.brew-watches.com/",
+      "selector": "#headerBlock--image-0 .hero__title",
+      "declarations": "--adjust-heading: calc(var(--FONT-ADJUST-HEADING) * 1.2);"
+    },
+    {
+      "source": "https://www.brew-watches.com/",
+      "selector": "padding-top: 140.0%; \n#headerBlock--image-2 .hero__title",
+      "declarations": "--adjust-heading: calc(var(--FONT-ADJUST-HEADING) * 1.0);"
+    },
+    {
+      "source": "https://www.brew-watches.com/",
+      "selector": "#headerBlock--image-2 .hero__title",
+      "declarations": "--adjust-heading: calc(var(--FONT-ADJUST-HEADING) * 1.0);"
+    },
+    {
+      "source": "https://www.brew-watches.com/",
+      "selector": "padding-top: 140.0%; \n#headerBlock--image_zKwhFR .hero__title",
+      "declarations": "--adjust-heading: calc(var(--FONT-ADJUST-HEADING) * 1.0);"
+    },
+    {
+      "source": "https://www.brew-watches.com/",
+      "selector": "#headerBlock--image_zKwhFR .hero__title",
+      "declarations": "--adjust-heading: calc(var(--FONT-ADJUST-HEADING) * 1.0);"
+    },
+    {
+      "source": "https://www.brew-watches.com/",
+      "selector": "#FeaturedCollection--template--21040231907397__section_products_with_image_TMiQ7r",
+      "declarations": "--PT: 60px;\n    --PB: 60px;\n    --overlay-opacity: 0.1;\n    --adjust-heading: calc(var(--FONT-ADJUST-HEADING) * 1.0);"
+    },
+    {
+      "source": "https://www.brew-watches.com/",
+      "selector": "#FeaturedCollection--template--21040231907397__section_products_with_image_TMiQ7r .section__heading",
+      "declarations": "--highlight-color: var(--text);\n\n    --highlight-color: #000000;"
+    },
+    {
+      "source": "https://www.brew-watches.com/",
+      "selector": "#FeaturedCollection--template--21040231907397__section_products_with_image_TMiQ7r .section__text",
+      "declarations": "--adjust-body: calc(var(--FONT-ADJUST-BODY) * 1.0);"
+    },
+    {
+      "source": "https://www.brew-watches.com/",
+      "selector": "#FeaturedCollection--template--21040231907397__section_products_with_image_TMiQ7r",
+      "declarations": "--grid: repeat(2, minmax(0, 1fr));"
+    },
+    {
+      "source": "https://www.brew-watches.com/",
+      "selector": "#FeaturedCollection--template--21040231907397__section_products_with_image_TMiQ7r",
+      "declarations": "--grid-tablet: repeat(2, minmax(0, 1fr));"
+    },
+    {
+      "source": "https://www.brew-watches.com/",
+      "selector": "#FeaturedCollection--template--21040231907397__section_products_with_image_TMiQ7r",
+      "declarations": "--grid-mobile: repeat(2, minmax(0, 1fr));\n      --adjust-heading: calc(var(--FONT-ADJUST-HEADING) * 1.0);"
+    },
+    {
+      "source": "https://www.brew-watches.com/",
+      "selector": "#FeaturedCollection--template--21040231907397__section_products_with_image_TMiQ7r .carousel--mobile",
+      "declarations": "--item-width-mobile: calc(90% / 2 - var(--grid-gutter));"
+    },
+    {
+      "source": "https://www.brew-watches.com/",
+      "selector": "#Testimonials--template--21040231907397__section_testimonials_Vh89ct .section__header .testimonial__heading",
+      "declarations": "--adjust-heading: calc(var(--FONT-ADJUST-HEADING) * 1.0);"
+    },
+    {
+      "source": "https://www.brew-watches.com/",
+      "selector": "#Testimonials--template--21040231907397__section_testimonials_Vh89ct .section__header .testimonial__subheading",
+      "declarations": "--adjust-body: calc(var(--FONT-ADJUST-SUBHEADING) * 1.0);"
+    },
+    {
+      "source": "https://www.brew-watches.com/",
+      "selector": "#Testimonials--template--21040231907397__section_testimonials_Vh89ct .section__header .testimonial__heading",
+      "declarations": "--adjust-heading: calc(var(--FONT-ADJUST-HEADING) * 1.0);"
+    },
+    {
+      "source": "https://www.brew-watches.com/cdn/shop/t/16/assets/theme.css?v=113171406684287748711782925133",
+      "selector": ":root",
+      "declarations": "--adjust-body: var(--FONT-ADJUST-BODY);--adjust-heading: var(--FONT-ADJUST-HEADING);--adjust-button: var(--FONT-ADJUST-MEDIUM-BUTTON);--adjust-small-button: var(--FONT-ADJUST-SMALL-BUTTON);--adjust-medium-button: var(--FONT-ADJUST-MEDIUM-BUTTON);--adjust-large-button: var(--FONT-ADJUST-LARGE-BUTTON);--adjust-nav: var(--FONT-ADJUST-NAV);--adjust-nav-top-level: var(--FONT-ADJUST-NAV-TOP-LEVEL);--adjust-accent: var(--FONT-ADJUST-SUBHEADING);--adjust-label: var(--FONT-ADJUST-LABEL);--adjust-product-grid: var(--FONT-ADJUST-PRODUCT-GRID);--adjust-product-grid-heading: var(--FONT-ADJUST-PRODUCT-GRID-HEADING);--adjust-badges: calc( var(--FONT-ADJUST-BADGES) * var(--FONT-ADJUST-SUBHEADING) )"
+    },
+    {
+      "source": "https://www.brew-watches.com/cdn/shop/t/16/assets/theme.css?v=113171406684287748711782925133",
+      "selector": "body",
+      "declarations": "font-family:var(--FONT-STACK-BODY);font-weight:var(--FONT-WEIGHT-BODY);font-style:var(--FONT-STYLE-BODY);line-height:1.5625;color:var(--text);-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:100%"
+    },
+    {
+      "source": "https://www.brew-watches.com/cdn/shop/t/16/assets/theme.css?v=113171406684287748711782925133",
+      "selector": "input,textarea,select,button",
+      "declarations": "font-family:var(--FONT-STACK-BODY);font-weight:var(--FONT-WEIGHT-BODY);font-style:var(--FONT-STYLE-BODY);font-size:calc(1rem * var(--adjust-body));line-height:26px;border-radius:var(--RADIUS)"
+    },
+    {
+      "source": "https://www.brew-watches.com/cdn/shop/t/16/assets/theme.css?v=113171406684287748711782925133",
+      "selector": "h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6",
+      "declarations": "font-family:var(--FONT-STACK-HEADING);font-weight:var(--FONT-WEIGHT-HEADING);font-style:var(--FONT-STYLE-HEADING);text-transform:var(--HEADING-TEXT-CAPS);letter-spacing:var(--LETTER-SPACING-HEADING);display:block;color:var(--heading);margin:0 0 .5em;font-size:var(--heading-size, 3rem);line-height:1.25"
+    },
+    {
+      "source": "https://www.brew-watches.com/cdn/shop/t/16/assets/theme.css?v=113171406684287748711782925133",
+      "selector": "h1 a,h2 a,h3 a,h4 a,h5 a,h6 a,.h1 a,.h2 a,.h3 a,.h4 a,.h5 a,.h6 a",
+      "declarations": "text-decoration:none;font-weight:inherit;color:inherit"
+    },
+    {
+      "source": "https://www.brew-watches.com/cdn/shop/t/16/assets/theme.css?v=113171406684287748711782925133",
+      "selector": "h1,.h1",
+      "declarations": "--heading-size: calc(3rem * var(--adjust-heading));font-size:var(--heading-size)"
+    },
+    {
+      "source": "https://www.brew-watches.com/cdn/shop/t/16/assets/theme.css?v=113171406684287748711782925133",
+      "selector": "h1,.h1",
+      "declarations": "--heading-size: calc(2.5rem * var(--adjust-heading))"
+    }
+  ],
+  "confidence": "historical_partial_css_evidence",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Brew Watch Co.\n      \n      \n      \n        – Brew Watches",
+  "page_text_excerpt": "Designed and crafted in New York City by Jonathan Ferrer. Brew Watch Co. is the top USA microbrand that creates retro-inspired timepieces.\nSkip to content Close All Watches See More All Watches Super Metric Metric Metric Lite Retrograph Accessories See More Leather Straps Metal Bracelets Rubber Straps About Log in Create account Search Close All Watches See More All Watches Super Metric Metric Metric Lite Retrograph Accessories See More Leather Straps Metal Bracelets Rubber Straps About Log in Create account Search Bag 0 items Sorry, looks like we don't have enough of this product. Add order notes Special instructions for seller Is this a gift? Add a note. Add a note for recipient Your bag is currently empty. Items Free Checkout Free Shipping & taxes calculated at checkout Continue Shopping Open navigation menu Country United States (USD $) Australia (AUD $) Austria (EUR €) Belgium (EUR €) Canada (CAD $) Colombia (USD $) Croatia (EUR €) Denmark (DKK kr.) Finland (EUR €) France (EUR €) Germany (EUR €) Greece (EUR €) Hong Kong SAR (HKD $) Hungary (HUF Ft) India (INR ₹) Ireland (EUR €) Israel (ILS ₪) Italy (EUR €) Japan (JPY ¥) Malaysia (MYR RM) Monaco (EUR €) Netherlands (EUR €) New Zealand (NZD $) Norway (USD $) Philippines (PHP ₱) Portugal (EUR €) Qatar (QAR ر.ق) Saudi Arabia (SAR ر.س) Singapore (SGD $) South Korea (KRW ₩) Spain (EUR €) Sweden (SEK kr) Switzerland (CHF CHF) Taiwan (TWD $) Thailand (THB ฿) United Arab Emirates (AED د.إ) United Kingdom (GBP £) United States (USD $) Australia (AUD $) Austria (EUR €) Belgium (EUR €) Canada (CAD $) Colombia (USD $) Croatia (EUR €) Denmark (DKK kr.) Finland (EUR €) France (EUR €) Germany (EUR €) Greece (EUR €) Hong Kong SAR (HKD $) Hungary (HUF Ft) India (INR ₹) Ireland (EUR €) Israel (ILS ₪) Italy (EUR €) Japan (JPY ¥) Malaysia (MYR RM) Monaco (EUR €) Netherlands (EUR €) New Zealand (NZD $) Norway (USD $) Philippines (PHP ₱) Portugal (EUR €) Qatar (QAR ر.ق) Saudi Arabia (SAR ر.س) Singapore (SGD $) South Korea (KRW ₩) Spain (EUR €) Sweden (SEK kr) Switzerland (CHF CHF) Taiwan (TWD $) Thailand (THB ฿) United Arab Emirates (AED د.إ) United Kingdom (GBP £) United States (USD $) Update Open search bar Search for products on our site Suggested search terms Watch Sizing Guide Watch Comparison Guide Contact Returns & Warranty Privacy Policy Terms of Service Blog Open cart All Watches All Watches Super Metric Metric Metric Lite Retrograph Super Metric Metric Metric Lite Retrograph Accessories Leather Straps Metal Bracelets Rubber Straps About Country United States (USD $) Australia (AUD $) Austria (EUR €) Belgium (EUR €) Canada (CAD $) Colombia (USD $) Croatia (EUR €) Denmark (DKK kr.) Finland (EUR €) France (EUR €) Germany (EUR €) Greece (EUR €) Hong Kong SAR (HKD $) Hungary (HUF Ft) India (INR ₹) Ireland (EUR €) Israel (ILS ₪) Italy (EUR €) Japan (JPY ¥) Malaysia (MYR RM) Monaco (EUR €) Netherlands (EUR €) New Zealand (NZD $) Norway (USD $) Philippines (PHP ₱) Portugal (EUR €) Qatar (QAR ر.ق) Saudi Arabia (SAR ر.س) Singapore (SGD $) South Korea (KRW ₩) Spain (EUR €) Sweden (SEK kr) Switzerland (CHF CHF) Taiwan (TWD $) Thailand (THB ฿) United Arab Emirates (AED د.إ) United Kingdom (GBP £) United States (USD $) Australia (AUD $) Austria (EUR €) Belgium (EUR €) Canada (CAD $) Colombia (USD $) Croatia (EUR €) Denmark (DKK kr.) Finland (EUR €) France (EUR €) Germany (EUR €) Greece (EUR €) Hong Kong SAR (HKD $) Hungary (HUF Ft) India (INR ₹) Ireland (EUR €) Israel (ILS ₪) Italy (EUR €) Japan (JPY ¥) Malaysia (MYR RM) Monaco (EUR €) Netherlands (EUR €) New Zealand (NZD $) Norway (USD $) Philippines (PHP ₱) Portugal (EUR €) Qatar (QAR ر.ق) Saudi Arabia (SAR ر.س) Singapore (SGD $) South Korea (KRW ₩) Spain (EUR €) Sweden (SEK kr) Switzerland (CHF CHF) Taiwan (TWD $) Thailand (THB ฿) United Arab Emirates (AED د.إ) United Kingdom (GBP £) United States (USD $) Update Search Open search bar Search for products on our site Suggested search terms Watch Sizing Guide Watch Comparison Guide Contact Returns & Warranty Privacy Policy Terms of Service Blog My Account Account Open cart Cart Country United States (USD $) Australia (AUD $) Austria (EUR €) Belgium (EUR €) Canada (CAD $) Colombia (USD $) Croatia (EUR €) Denmark (DKK kr.) Finland (EUR €) France (EUR €) Germany (EUR €) Greece (EUR €) Hong Kong SAR (HKD $) Hungary (HUF Ft) India (INR ₹) Ireland (EUR €) Israel (ILS ₪) Italy (EUR €) Japan (JPY ¥) Malaysia (MYR RM) Monaco (EUR €) Netherlands (EUR €) New Zealand (NZD $) Norway (USD $) Philippines (PHP ₱) Portugal (EUR €) Qatar (QAR ر.ق) Saudi Arabia (SAR ر.س) Singapore (SGD $) South Korea (KRW ₩) Spain (EUR €) Sweden (SEK kr) Switzerland (CHF CHF) Taiwan (TWD $) Thailand (THB ฿) United Arab Emirates (AED د.إ) United Kingdom (GBP £) United States (USD $) Australia (AUD $) Austria (EUR €) Belgium (EUR €) Canada (CAD $) Colombia (USD $) Croatia (EUR €) Denmark (DKK kr.) Finland (EUR €) France (EUR €) Germany (EUR €) Greece (EUR €) Hong Kong SAR (HKD $) Hungary (HUF Ft) India (INR ₹) Irel",
+  "schema_version": 1,
+  "design_origin": "historical",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "colors.primary-active": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "colors.primary-disabled": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "colors.body": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.muted": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.muted-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.hairline-soft": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.canvas": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.surface-soft": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.brew-watches.com/",
+        "https://www.brew-watches.com/cdn/shop/t/16/assets/theme.css?v=113171406684287748711782925133",
+        "https://www.brew-watches.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "colors.accent-teal": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.accent-teal-light": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.accent-teal-dark": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.accent-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "colors.mid-navy": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.brew-watches.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.title-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.price-display": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.label-caps": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.nav-link": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.body-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.body-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.caption": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.button-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.button-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "rounded.none": {
+      "status": "unverified"
+    },
+    "rounded.xs": {
+      "status": "unverified"
+    },
+    "rounded.sm": {
+      "status": "unverified"
+    },
+    "rounded.md": {
+      "status": "unverified"
+    },
+    "rounded.lg": {
+      "status": "unverified"
+    },
+    "rounded.xl": {
+      "status": "unverified"
+    },
+    "rounded.full": {
+      "status": "unverified"
+    },
+    "spacing.xxs": {
+      "status": "unverified"
+    },
+    "spacing.xs": {
+      "status": "unverified"
+    },
+    "spacing.sm": {
+      "status": "unverified"
+    },
+    "spacing.md": {
+      "status": "unverified"
+    },
+    "spacing.base": {
+      "status": "unverified"
+    },
+    "spacing.lg": {
+      "status": "unverified"
+    },
+    "spacing.xl": {
+      "status": "unverified"
+    },
+    "spacing.xxl": {
+      "status": "unverified"
+    },
+    "spacing.section": {
+      "status": "unverified"
+    },
+    "components.button-primary": {
+      "status": "unverified"
+    },
+    "components.button-primary-active": {
+      "status": "unverified"
+    },
+    "components.button-primary-disabled": {
+      "status": "unverified"
+    },
+    "components.button-secondary": {
+      "status": "unverified"
+    },
+    "components.button-secondary-on-dark": {
+      "status": "unverified"
+    },
+    "components.text-input": {
+      "status": "unverified"
+    },
+    "components.nav-bar": {
+      "status": "unverified"
+    },
+    "components.product-card": {
+      "status": "unverified"
+    },
+    "components.hero": {
+      "status": "unverified"
+    },
+    "components.announcement-bar": {
+      "status": "unverified"
+    },
+    "components.collection-filter-tag": {
+      "status": "unverified"
+    },
+    "components.watch-spec-table": {
+      "status": "unverified"
+    },
+    "components.size-selector": {
+      "status": "unverified"
+    },
+    "components.teal-accent-badge": {
+      "status": "unverified"
+    },
+    "components.footer": {
+      "status": "unverified"
+    },
+    "components.search-overlay": {
+      "status": "unverified"
+    }
+  },
+  "observed_color_tokens": 8,
+  "total_color_tokens": 19
+}

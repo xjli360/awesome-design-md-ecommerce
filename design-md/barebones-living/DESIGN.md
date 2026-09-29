@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Barebones Living
-description: Barebones Living stakes its identity on restraint as a design principle, not a budget constraint — "Beautiful. Durable. Essential." functions less like a tagline and more like an editing filter that strips every element to its minimum load-bearing form. The palette opens on a field-worn amber (#9e703c) that reads like a seasoned ash tool handle or sun-cured linseed oil, then deepens through a chain of honest browns (#8c5f27, #71491d, #58370f) before closing in near-charcoal ink (#1c1c1c). A second chromatic axis runs cool and maritime: the site's declared meta theme-color is a measured slate blue (#748cab), and the primary navigation shell settles into a dense navy-charcoal (#272d45) that carries the weight of an overcast Pacific Northwest sky rather than the warmth of the tool palette. Warm cream (#ddcfbe) and bleached field neutrals (#f4f4f6, #f8f8f8) give product photography its breathing room. The only live voltage in the system is a pair of high-energy oranges — #ff763d and #f04600 — that surface on sale callouts and promotional states, appearing like a camp lantern lit against dark canvas, which is precisely the brand's signature product category. Typography layers Futura's geometric exactness at display scale against the custom mauritius and mauritius-cond cuts for editorial headlines; brandon-grotesque handles the running body. Three families that span from precision-machined to warmly utilitarian. Buttons carry minimal rounding ({rounded.sm}), product cards hold their corners nearly flat ({rounded.xs}), and there are no decorative gradients, no illustrative flourishes, no drop shadows — only grid structure and generous spacing that lets materials photography carry the argument. The digital surface mirrors the tools: remove everything that doesn't bear a load, then trust what's left.
+name: "Barebones Living"
+source_url: "https://barebonesliving.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Barebones Living stakes its identity on restraint as a design principle, not a budget constraint — "Beautiful. Durable. Essential." functions less like a tagline and more like an editing filter that strips every element to its minimum load-bearing form. The palette opens on a field-worn amber (#9e703c) that reads like a seasoned ash tool handle or sun-cured linseed oil, then deepens through a chain of honest browns (#8c5f27, #71491d, #58370f) before closing in near-charcoal ink (#1c1c1c). A second chromatic axis runs cool and maritime: the site's declared meta theme-color is a measured slate blue (#748cab), and the primary navigation shell settles into a dense navy-charcoal (#272d45) that carries the weight of an overcast Pacific Northwest sky rather than the warmth of the tool palette. Warm cream (#ddcfbe) and bleached field neutrals (#f4f4f6, #f8f8f8) give product photography its breathing room. The only live voltage in the system is a pair of high-energy oranges — #ff763d and #f04600 — that surface on sale callouts and promotional states, appearing like a camp lantern lit against dark canvas, which is precisely the brand's signature product category. Typography layers Futura's geometric exactness at display scale against the custom mauritius and mauritius-cond cuts for editorial headlines; brandon-grotesque handles the running body. Three families that span from precision-machined to warmly utilitarian. Buttons carry minimal rounding ({rounded.sm}), product cards hold their corners nearly flat ({rounded.xs}), and there are no decorative gradients, no illustrative flourishes, no drop shadows — only grid structure and generous spacing that lets materials photography carry the argument. The digital surface mirrors the tools: remove everything that doesn't bear a load, then trust what's left.
 
 colors:
   primary: "#9e703c"
@@ -416,6 +420,8 @@ components:
 - Footer columns: 4-col → 2-col → 1-col stacked
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No extracted button border-radius directly observed; 4px inferred from brand's anti-ornament posture and typical Shopify theme defaults
 - Font weight specifics for mauritius and mauritius-cond unavailable — weights estimated from general display-font conventions; confirm 700 availability in the mauritius font files

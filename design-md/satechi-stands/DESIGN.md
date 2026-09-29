@@ -1,13 +1,17 @@
 ---
 version: alpha
-name: Satechi (Stands)
-description: Blaze-orange at `#f55a19` does all the commercial lifting on a page that otherwise insists on restraint — every primary CTA, sale callout, and active-state indicator borrows this same high-Kelvin flame while the broad canvas stays in warm bone tones (`#f5f2ef`, `#ede6e0`, `#cfc6bf`) that echo the brushed aluminum and woven fabric of the physical stands themselves. That pairing — industrial warmth offset by a single hot accent — is the defining visual move. Satechi then layers two auxiliary voltages that never compete for the same real estate: a deep indigo-purple at `#4e34e0` appears in promo banners and price-comparison highlights, and a mint-teal at `#00eab6` surfaces on trust indicators and secondary badges. The three-accent system is unusually legible because each hue maps to a distinct message register — purchase urgency, promotional frame, credibility signal — preventing palette fatigue across long, spec-heavy product pages.
+name: "Satechi (Stands)"
+source_url: "https://satechi.net"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Blaze-orange at `#f55a19` does all the commercial lifting on a page that otherwise insists on restraint — every primary CTA, sale callout, and active-state indicator borrows this same high-Kelvin flame while the broad canvas stays in warm bone tones (`#f5f2ef`, `#ede6e0`, `#cfc6bf`) that echo the brushed aluminum and woven fabric of the physical stands themselves. That pairing — industrial warmth offset by a single hot accent — is the defining visual move. Satechi then layers two auxiliary voltages that never compete for the same real estate: a deep indigo-purple at `#4e34e0` appears in promo banners and price-comparison highlights, and a mint-teal at `#00eab6` surfaces on trust indicators and secondary badges. The three-accent system is unusually legible because each hue maps to a distinct message register — purchase urgency, promotional frame, credibility signal — preventing palette fatigue across long, spec-heavy product pages.
 
-Typography couldn't be directly extracted: the font stack resolves to `inherit` and a review-widget icon font (`oke-widget-icons`). Satechi's visual density suggests a geometric or neutral grotesque at modest size (15–16px body) with tightly tracked uppercase for category labels and spec headers. The near-black `#222021` carries primary text, softening to `#4c4c4c` for body copy and `#6d6d6d` for secondary descriptors — a three-level ink hierarchy that reads against warm grounds without pure-black harshness.
+  Typography couldn't be directly extracted: the font stack resolves to `inherit` and a review-widget icon font (`oke-widget-icons`). Satechi's visual density suggests a geometric or neutral grotesque at modest size (15–16px body) with tightly tracked uppercase for category labels and spec headers. The near-black `#222021` carries primary text, softening to `#4c4c4c` for body copy and `#6d6d6d` for secondary descriptors — a three-level ink hierarchy that reads against warm grounds without pure-black harshness.
 
-Product cards in the stands category carry high information density: thumbnail, model name, rating strip, current price with strikethrough MSRP, and an Add to Cart orange pill — all within a `{rounded.sm}`-cornered white surface (`{colors.surface-card}`) floating against the warm-off-white canvas. Spec comparison tables reach for the navy `#272d45` on row headers, establishing a data-register tone that sits cleanly apart from the product-marketing voice. The error red `#e22120` and info blue `#1878b9` stay strictly functional — form states and notification banners only, never decorative.
+  Product cards in the stands category carry high information density: thumbnail, model name, rating strip, current price with strikethrough MSRP, and an Add to Cart orange pill — all within a `{rounded.sm}`-cornered white surface (`{colors.surface-card}`) floating against the warm-off-white canvas. Spec comparison tables reach for the navy `#272d45` on row headers, establishing a data-register tone that sits cleanly apart from the product-marketing voice. The error red `#e22120` and info blue `#1878b9` stay strictly functional — form states and notification banners only, never decorative.
 
-The overall architecture is a Shopify storefront reading as more considered than the platform default: horizontal filter rails, sticky nav with cart count badge, and hero modules that bleed edge-to-edge with overlay text on a dark gradient scrim, all consistent with a mid-market tech accessories brand that wants adjacency to the Apple ecosystem without imitating its monochrome severity.
+  The overall architecture is a Shopify storefront reading as more considered than the platform default: horizontal filter rails, sticky nav with cart count badge, and hero modules that bleed edge-to-edge with overlay text on a dark gradient scrim, all consistent with a mid-market tech accessories brand that wants adjacency to the Apple ecosystem without imitating its monochrome severity.
 
 colors:
   primary: "#f55a19"
@@ -347,6 +351,8 @@ components:
 - Hero CTA stacks below body text on mobile; secondary text-link CTA is hidden below 744px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Brand typeface not extracted — font stacks resolved only to `inherit` on the live site; `oke-widget-icons` is a third-party review widget font, not a brand asset. All typography tokens above use system-ui fallback. Actual brand font (likely a geometric grotesque such as Inter, DM Sans, or a licensed equivalent) must be substituted once confirmed from Satechi's brand assets or a deeper CSS audit bypassing CDN font-loading.
 - Custom icon set not identified — product-category glyphs, port-diagram icons, and compatibility indicators are absent from the extraction and should be audited separately.

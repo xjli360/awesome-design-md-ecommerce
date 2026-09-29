@@ -1,0 +1,805 @@
+{
+  "source_url": "https://melissajoymanning.com",
+  "final_url": "https://melissajoymanning.com/",
+  "captured_at": "2026-09-28T09:50:25.765466+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://melissajoymanning.com",
+      "final_url": "https://melissajoymanning.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "2ce0ddc9e92d0be3e4285528e8c49331772bb6db9db8ca4d3c194e7473ce610d",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://melissajoymanning.com/cdn/shop/t/32/assets/font-settings.css?v=73571991831172264161759333772",
+      "final_url": "https://melissajoymanning.com/cdn/shop/t/32/assets/font-settings.css?v=73571991831172264161759333772",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2edab2f7fa740b8933c4c9cafad87aed43bbbd50767605cd5514198e6af4f42a",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+      "final_url": "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ea19e0990013e2f7d04fb0ba64214066ecdf906c0b528783b64638fe29af4a32",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://melissajoymanning.com/cdn/shop/t/32/assets/custom.css?v=39592696688373353071736983778",
+      "final_url": "https://melissajoymanning.com/cdn/shop/t/32/assets/custom.css?v=39592696688373353071736983778",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2dc79c49aae5447861a99587aa5ba820886eaf88af554cb7cf0334ad1536b064",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://melissajoymanning.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://melissajoymanning.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 56,
+      "sources": [
+        "https://melissajoymanning.com/",
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/custom.css?v=39592696688373353071736983778",
+        "https://melissajoymanning.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#000000": {
+      "count": 47,
+      "sources": [
+        "https://melissajoymanning.com/",
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/custom.css?v=39592696688373353071736983778"
+      ]
+    },
+    "#d0d0ce": {
+      "count": 7,
+      "sources": [
+        "https://melissajoymanning.com/"
+      ]
+    },
+    "#0000000d": {
+      "count": 4,
+      "sources": [
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778"
+      ]
+    },
+    "#00000000": {
+      "count": 4,
+      "sources": [
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+        "https://melissajoymanning.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 3,
+      "sources": [
+        "https://melissajoymanning.com/"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 3,
+      "sources": [
+        "https://melissajoymanning.com/",
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778"
+      ]
+    },
+    "#0000008c": {
+      "count": 3,
+      "sources": [
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778"
+      ]
+    },
+    "#cccccc": {
+      "count": 3,
+      "sources": [
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778"
+      ]
+    },
+    "#e8e8e1": {
+      "count": 3,
+      "sources": [
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778"
+      ]
+    },
+    "#fb8077": {
+      "count": 2,
+      "sources": [
+        "https://melissajoymanning.com/"
+      ]
+    },
+    "#777777": {
+      "count": 2,
+      "sources": [
+        "https://melissajoymanning.com/",
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778"
+      ]
+    },
+    "#4d4d4d": {
+      "count": 2,
+      "sources": [
+        "https://melissajoymanning.com/"
+      ]
+    },
+    "#948082": {
+      "count": 2,
+      "sources": [
+        "https://melissajoymanning.com/"
+      ]
+    },
+    "#f9dee5": {
+      "count": 2,
+      "sources": [
+        "https://melissajoymanning.com/"
+      ]
+    },
+    "#212121": {
+      "count": 2,
+      "sources": [
+        "https://melissajoymanning.com/"
+      ]
+    },
+    "#ab8c52": {
+      "count": 2,
+      "sources": [
+        "https://melissajoymanning.com/"
+      ]
+    },
+    "#00000005": {
+      "count": 2,
+      "sources": [
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778"
+      ]
+    },
+    "#00000033": {
+      "count": 2,
+      "sources": [
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778"
+      ]
+    },
+    "#0000004d": {
+      "count": 2,
+      "sources": [
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/custom.css?v=39592696688373353071736983778"
+      ]
+    },
+    "#0000001a": {
+      "count": 2,
+      "sources": [
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778"
+      ]
+    },
+    "#333333": {
+      "count": 2,
+      "sources": [
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778"
+      ]
+    },
+    "#fafafa": {
+      "count": 2,
+      "sources": [
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://melissajoymanning.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://melissajoymanning.com/"
+      ]
+    },
+    "#e3e3e2": {
+      "count": 1,
+      "sources": [
+        "https://melissajoymanning.com/"
+      ]
+    },
+    "#9e9e9a": {
+      "count": 1,
+      "sources": [
+        "https://melissajoymanning.com/"
+      ]
+    },
+    "#775155": {
+      "count": 1,
+      "sources": [
+        "https://melissajoymanning.com/"
+      ]
+    },
+    "#e2cbcd": {
+      "count": 1,
+      "sources": [
+        "https://melissajoymanning.com/"
+      ]
+    },
+    "#af7b88": {
+      "count": 1,
+      "sources": [
+        "https://melissajoymanning.com/"
+      ]
+    },
+    "#721c24": {
+      "count": 1,
+      "sources": [
+        "https://melissajoymanning.com/"
+      ]
+    },
+    "#f8d7da": {
+      "count": 1,
+      "sources": [
+        "https://melissajoymanning.com/"
+      ]
+    },
+    "#f5c6cb": {
+      "count": 1,
+      "sources": [
+        "https://melissajoymanning.com/"
+      ]
+    },
+    "#3b3b3b": {
+      "count": 1,
+      "sources": [
+        "https://melissajoymanning.com/"
+      ]
+    },
+    "#9a7e4a": {
+      "count": 1,
+      "sources": [
+        "https://melissajoymanning.com/"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 1,
+      "sources": [
+        "https://melissajoymanning.com/"
+      ]
+    },
+    "#d02e2e": {
+      "count": 1,
+      "sources": [
+        "https://melissajoymanning.com/"
+      ]
+    },
+    "#5a5b5b": {
+      "count": 1,
+      "sources": [
+        "https://melissajoymanning.com/"
+      ]
+    },
+    "#007bed": {
+      "count": 1,
+      "sources": [
+        "https://melissajoymanning.com/"
+      ]
+    },
+    "#56ad6a": {
+      "count": 1,
+      "sources": [
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778"
+      ]
+    },
+    "#0000000a": {
+      "count": 1,
+      "sources": [
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778"
+      ]
+    },
+    "#3a3a3a": {
+      "count": 1,
+      "sources": [
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778"
+      ]
+    },
+    "#222222": {
+      "count": 1,
+      "sources": [
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 1,
+      "sources": [
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778"
+      ]
+    },
+    "#0000000f": {
+      "count": 1,
+      "sources": [
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778"
+      ]
+    },
+    "#b1b1b1": {
+      "count": 1,
+      "sources": [
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778"
+      ]
+    },
+    "#d8d8d8": {
+      "count": 1,
+      "sources": [
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778"
+      ]
+    },
+    "#999999": {
+      "count": 1,
+      "sources": [
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778"
+      ]
+    },
+    "#333333e6": {
+      "count": 1,
+      "sources": [
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 1,
+      "sources": [
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778"
+      ]
+    },
+    "#555555": {
+      "count": 1,
+      "sources": [
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778"
+      ]
+    },
+    "#58686f": {
+      "count": 1,
+      "sources": [
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778"
+      ]
+    },
+    "#bb0000": {
+      "count": 1,
+      "sources": [
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778"
+      ]
+    },
+    "#00000026": {
+      "count": 1,
+      "sources": [
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778"
+      ]
+    },
+    "#00000066": {
+      "count": 1,
+      "sources": [
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://melissajoymanning.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://melissajoymanning.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://melissajoymanning.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Atkinson Bold": [
+      "https://melissajoymanning.com/cdn/shop/t/32/assets/font-settings.css?v=73571991831172264161759333772"
+    ],
+    "Atkinson Regular": [
+      "https://melissajoymanning.com/cdn/shop/t/32/assets/font-settings.css?v=73571991831172264161759333772"
+    ],
+    "Figtree": [
+      "https://melissajoymanning.com/cdn/shop/t/32/assets/font-settings.css?v=73571991831172264161759333772"
+    ],
+    "Montserrat": [
+      "https://melissajoymanning.com/cdn/shop/t/32/assets/font-settings.css?v=73571991831172264161759333772"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://melissajoymanning.com/",
+      "selector": "#easylockdown-password-form-button:not(.easylockdown-native-styles)",
+      "declarations": "vertical-align:top;display:inline-block!important;height:auto!important;padding:8px 15px;background:#777;border-radius:3px;color:#fff!important;line-height:1.2em;text-decoration:none!important"
+    },
+    {
+      "source": "https://melissajoymanning.com/",
+      "selector": "--PT: 0px;\n  --PB: 0px;--bg: #d0d0ce;--text: #000000;\n    --link: #000000;\n    --link-hover: #000000;--text-size: var(--font-3);\n:root",
+      "declarations": "--menu-height: calc(143px);\n\n    \n--icon-add-cart: var(--ICON-ADD-BAG);"
+    },
+    {
+      "source": "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+      "selector": "@charset \"UTF-8\";:root",
+      "declarations": "--bg: var(--COLOR-BG);--bg-accent: var(--COLOR-BG-SECONDARY);--bg-accent-lighten: var(--COLOR-BG-SECONDARY-LIGHTEN);--text-dark: var(--COLOR-TEXT-DARK);--text: var(--COLOR-TEXT);--text-light: var(--COLOR-TEXT-LIGHT);--text-a35: var(--COLOR-A35);--text-a70: var(--COLOR-A70);--text-a75: var(--COLOR-A75);--text-black: #000;--text-white: #FFF;--link: var(--COLOR-LINK);--link-hover: var(--COLOR-LINK-HOVER);--border: var(--COLOR-BORDER);--hairline: var(--COLOR-BORDER-HAIRLINE);--sale-bg: var(--COLOR-SALE-BG);--sale-text: var(--COLOR-SALE-TEXT);--sale-text-secondary: var(--COLOR-SALE-TEXT-SECONDARY);--contrast: #000;--primary: var(--COLOR-PRIMARY);--primary-hover: var(--COLOR-PRIMARY-HOVER);--prima"
+    },
+    {
+      "source": "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+      "selector": ".flickity-button",
+      "declarations": "position:absolute;border:none;background:none;color:inherit"
+    },
+    {
+      "source": "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+      "selector": ".flickity-prev-next-button",
+      "declarations": "--icon-size: 28px;--btn-size: 40px;top:50%;width:var(--btn-size);height:var(--btn-size);padding:0;background-color:var(--COLOR-BG);border-radius:var(--RADIUS);box-shadow:0 2px 6px #0000000a,0 2px 2px #00000005;margin-top:calc(var(--btn-size) / -2)"
+    },
+    {
+      "source": "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+      "selector": ".flickity-prev-next-button:after",
+      "declarations": "content:\"\";position:absolute;top:0;left:-60px;z-index:-1;width:calc(100% + 120px);height:100%;background-color:var(--COLOR-BG-BRIGHTER);opacity:1;transform:translate3d(-100%,0,0) skew(30deg);transition:transform .5s cubic-bezier(.33,0,0,1);will-change:transform;-webkit-backface-visibility:hidden;backface-visibility:hidden"
+    },
+    {
+      "source": "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button",
+      "declarations": "color:#3a3a3a;border-radius:0;border:none;margin:0;cursor:pointer"
+    },
+    {
+      "source": "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button--control:hover",
+      "declarations": "color:#0000008c"
+    },
+    {
+      "source": "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button--control:active,.shopify-model-viewer-ui .shopify-model-viewer-ui__button--control.focus-visible:focus",
+      "declarations": "color:#0000008c;background:#0000000d"
+    },
+    {
+      "source": "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button--poster:hover,.shopify-model-viewer-ui .shopify-model-viewer-ui__button--poster:focus",
+      "declarations": "color:#0000008c"
+    },
+    {
+      "source": "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+      "selector": "button",
+      "declarations": "border:none;background:none;font-family:inherit;font-size:100%;margin:0;text-transform:none;line-height:1;color:currentColor"
+    },
+    {
+      "source": "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+      "selector": ".is-focused .double__image.is-visible .product-link:focus .product-item__bg__inner.is-visible,body.is-focused a.product-link:focus>.product-item__bg,body.is-foc",
+      "declarations": "outline-color:var(--COLOR-PRIMARY)!important;outline-offset:-2px!important;outline-style:auto!important;outline-width:5px!important"
+    },
+    {
+      "source": "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+      "selector": "body.is-focused *:focus",
+      "declarations": "outline-color:var(--COLOR-PRIMARY)"
+    },
+    {
+      "source": "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+      "selector": "body.is-focused .deferred-media__poster:focus .deferred-media__poster-button,body.is-focused .deferred-media__poster.focus-visible .deferred-media__poster-butto",
+      "declarations": "outline-color:var(--COLOR-PRIMARY);outline-offset:2px;outline-style:auto;outline-width:5px"
+    },
+    {
+      "source": "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+      "selector": "#challenge .shopify-challenge__button",
+      "declarations": "--btn-border: var(--BTN-PRIMARY-BG-COLOR);--btn-bg: var(--BTN-PRIMARY-BG-COLOR);--btn-text: var(--BTN-PRIMARY-TEXT-COLOR);--btn-border-hover: var(--BTN-PRIMARY-BG-COLOR-BRIGHTER);--btn-bg-hover: var(--BTN-PRIMARY-BG-COLOR-BRIGHTER);--btn-text-hover: var(--BTN-PRIMARY-TEXT-COLOR)"
+    },
+    {
+      "source": "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+      "selector": "body.grid-compact .grid-outer",
+      "declarations": "--outer: 0px;--outer-offset: 0px;--gutter: 0px;--gap: 0px"
+    },
+    {
+      "source": "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+      "selector": ":root",
+      "declarations": "--full-screen: 100vh;--three-quarters: 75vh;--two-thirds: 66vh;--one-half: 50vh;--one-third: 33vh;--header-height: 100px;--header-sticky-height: 0px;--footer-height: 500px;--announcmenet-height: 33px;--content-full: 90vh;--content-min: 90vh;--header-padding: 0px"
+    },
+    {
+      "source": "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+      "selector": ".has-sticky-header",
+      "declarations": "--header-sticky-height: var(--menu-height)"
+    },
+    {
+      "source": "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+      "selector": ":root",
+      "declarations": "--outer: var(--LAYOUT-OUTER);--gutter: var(--LAYOUT-GUTTER);--gap: var(--gutter);--outer-offset: calc(var(--outer) * -1);--gutter-offset: calc(var(--gutter) * -1);--inner: 20px;--base: 16px;--line: 1rem;--line-offset: calc(var(--line) * -1);--content-max: 1100px;--sidebar-width: var(--SIDEBAR-WIDTH)"
+    },
+    {
+      "source": "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+      "selector": ":root",
+      "declarations": "--outer: calc(var(--LAYOUT-OUTER-MEDIUM));--gutter: calc(var(--LAYOUT-GUTTER-MEDIUM));--inner: 18px;--base: 15px;--sidebar-width: var(--SIDEBAR-WIDTH-MEDIUM)"
+    },
+    {
+      "source": "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+      "selector": ":root",
+      "declarations": "--outer: calc(var(--LAYOUT-OUTER-SMALL));--gutter: calc(var(--LAYOUT-GUTTER-SMALL));--inner: 16px;--base: 14px;--line: .66rem"
+    },
+    {
+      "source": "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+      "selector": ":root",
+      "declarations": "--content-max: 80vw"
+    },
+    {
+      "source": "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+      "selector": "body",
+      "declarations": "position:relative;min-width:320px;color:var(--COLOR-TEXT);background-color:var(--COLOR-BG);font-size:var(--FONT-SIZE-BASE);-webkit-text-size-adjust:100%"
+    },
+    {
+      "source": "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+      "selector": ":root",
+      "declarations": "--font-15: 55px;--font-14: 52px;--font-13: 50px;--font-12: 47px;--font-11: 43px;--font-10: 40px;--font-9: 37px;--font-8: 32px;--font-7: 27px;--font-6: 23px;--font-5: 19px;--font-4: 16px;--font-3: 14px;--font-2: 12px;--font-1: 10px"
+    },
+    {
+      "source": "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+      "selector": ":root",
+      "declarations": "--font-15: 60px;--font-14: 55px;--font-13: 50px;--font-12: 52px;--font-11: 48px;--font-10: 45px;--font-9: 41px;--font-8: 35px;--font-7: 29px;--font-6: 25px;--font-5: 21px;--font-4: 18px;--font-3: 15px;--font-2: 13px;--font-1: 11px"
+    },
+    {
+      "source": "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+      "selector": ":root",
+      "declarations": "--font-15: 82px;--font-14: 75px;--font-13: 69px;--font-12: 62px;--font-11: 56px;--font-10: 53px;--font-9: 45px;--font-8: 38px;--font-7: 32px;--font-6: 27px;--font-5: 23px;--font-4: 19px;--font-3: 16px;--font-2: 14px;--font-1: 12px"
+    },
+    {
+      "source": "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+      "selector": ".h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6,.article__author-bio h3,.blog-section .article__image .article__tags",
+      "declarations": "font-family:var(--FONT-STACK-HEADING);font-style:var(--FONT-STYLE-HEADING);font-weight:var(--FONT-WEIGHT-HEADING);line-height:1.2;margin:.5em 0"
+    },
+    {
+      "source": "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+      "selector": "body",
+      "declarations": "font-family:var(--FONT-STACK-BODY);font-weight:var(--FONT-WEIGHT-BODY);font-style:var(--FONT-STYLE-BODY)"
+    },
+    {
+      "source": "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+      "selector": ".h1--body,.h2--body,.h3--body,.h4--body,.h5--body,.h6--body",
+      "declarations": "font-family:var(--FONT-STACK-BODY);font-weight:var(--FONT-WEIGHT-BODY);font-style:var(--FONT-STYLE-BODY);text-transform:none;letter-spacing:0px;margin:.5em 0;line-height:1.2"
+    },
+    {
+      "source": "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+      "selector": ".font-body",
+      "declarations": "font-family:var(--FONT-STACK-BODY);font-weight:var(--FONT-WEIGHT-BODY);font-style:var(--FONT-STYLE-BODY)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Melissa Joy Manning",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://melissajoymanning.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://melissajoymanning.com/",
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/custom.css?v=39592696688373353071736983778"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://melissajoymanning.com/",
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/custom.css?v=39592696688373353071736983778",
+        "https://melissajoymanning.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://melissajoymanning.com/",
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://melissajoymanning.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://melissajoymanning.com/",
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://melissajoymanning.com/",
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/custom.css?v=39592696688373353071736983778",
+        "https://melissajoymanning.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-blush": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://melissajoymanning.com/"
+      ]
+    },
+    "colors.accent-mauve": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://melissajoymanning.com/"
+      ]
+    },
+    "colors.accent-clay": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://melissajoymanning.com/"
+      ]
+    },
+    "colors.link": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://melissajoymanning.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.border-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://melissajoymanning.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.overlay-scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/theme.css?v=125545871364644923631736983778",
+        "https://melissajoymanning.com/cdn/shop/t/32/assets/custom.css?v=39592696688373353071736983778"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.appointment-cta": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Branch Basics
-description: A cleaning brand that trusts a single red-orange voltage — #ff5742 — to cut through a landscape of muted grays, off-whites, and warm charcoal. That accent appears on the primary CTA, on the "Shop Now" button in the hero, and on the tiny dot that marks the active step in a product carousel; everywhere else, the palette stays deliberately quiet, with #f6f6f6 and #fafafa as the canvas and #141412 as the ink. The brand runs Brown as its display face — a rounded, slightly condensed sans-serif that feels domestic rather than clinical — paired with Inter for body copy, a move that splits the difference between friendly and legible. Product photography is bright, flat-lit, and compositionally simple: a bottle of concentrate against a white background, a spray nozzle isolated on a marble slab. The site uses generous vertical spacing (section-level gaps of 64px or more) and soft card radii ({rounded.md} ~12px) to keep the experience from feeling like a hardware store. The checkout flow, powered by Shopify, introduces a secondary accent — #4efac0, a minty teal — on the "Pay now" button and on progress indicators, a surprising shift that signals transaction completion with a different emotional register than the red-orange of browsing.
+name: "Branch Basics"
+source_url: "https://branchbasics.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A cleaning brand that trusts a single red-orange voltage — #ff5742 — to cut through a landscape of muted grays, off-whites, and warm charcoal. That accent appears on the primary CTA, on the "Shop Now" button in the hero, and on the tiny dot that marks the active step in a product carousel; everywhere else, the palette stays deliberately quiet, with #f6f6f6 and #fafafa as the canvas and #141412 as the ink. The brand runs Brown as its display face — a rounded, slightly condensed sans-serif that feels domestic rather than clinical — paired with Inter for body copy, a move that splits the difference between friendly and legible. Product photography is bright, flat-lit, and compositionally simple: a bottle of concentrate against a white background, a spray nozzle isolated on a marble slab. The site uses generous vertical spacing (section-level gaps of 64px or more) and soft card radii ({rounded.md} ~12px) to keep the experience from feeling like a hardware store. The checkout flow, powered by Shopify, introduces a secondary accent — #4efac0, a minty teal — on the "Pay now" button and on progress indicators, a surprising shift that signals transaction completion with a different emotional register than the red-orange of browsing.
 
 colors:
   primary: "#ff5742"
@@ -378,6 +382,8 @@ components:
 - Accordion panels are collapsed by default on all breakpoints
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for most components could not be reliably extracted from the live site; the above states are inferred from common patterns
 - Error styling for forms (validation messages, error icons) is not fully documented

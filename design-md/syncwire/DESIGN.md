@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Syncwire
-description: A utilitarian, high-trust electronics accessories brand built on a near-monochrome palette anchored by #2c2d2e — a deep, almost-black charcoal that reads as industrial and serious — and lifted by a single, unapologetic accent: #ffaa47, a warm marigold that appears on sale badges, promotional banners, and the occasional CTA, injecting urgency without breaking the technical mood. The canvas is #f5f5f5, a cool off-white that avoids the sterile glare of pure white, while #dadce0 and #dedede form the hairline and surface-soft layers that organize dense product grids. Syncwire’s typography runs Poppins at 400–600 weight, a geometric sans-serif with open apertures that keep spec tables and bullet-point feature lists legible at small sizes. The brand’s signature design move is the product card: a white rectangle (`{rounded.sm}`) with a centered hero image, a thin #dadce0 border, and a two-line title in `{typography.title-md}` — no badges, no overlays, just the product, its name, and a price. The top nav is a full-bleed #2c2d2e strip with white Poppins nav links and a search icon, suggesting a warehouse-like catalog where findability matters more than editorial curation. Buttons are flat and rectangular (`{rounded.xs}`), filled with #5f85c1 — a muted slate-blue that serves as the primary CTA across add-to-cart and checkout flows, a color that feels more like a functional affordance than a brand statement. The footer collapses into a dense #1a1c1d column of legal links and payment icons, reinforcing the brand’s no-frills, infrastructure-first posture. Syncwire does not decorate; it organizes.
+name: "Syncwire"
+source_url: "https://www.syncwire.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A utilitarian, high-trust electronics accessories brand built on a near-monochrome palette anchored by #2c2d2e — a deep, almost-black charcoal that reads as industrial and serious — and lifted by a single, unapologetic accent: #ffaa47, a warm marigold that appears on sale badges, promotional banners, and the occasional CTA, injecting urgency without breaking the technical mood. The canvas is #f5f5f5, a cool off-white that avoids the sterile glare of pure white, while #dadce0 and #dedede form the hairline and surface-soft layers that organize dense product grids. Syncwire’s typography runs Poppins at 400–600 weight, a geometric sans-serif with open apertures that keep spec tables and bullet-point feature lists legible at small sizes. The brand’s signature design move is the product card: a white rectangle (`{rounded.sm}`) with a centered hero image, a thin #dadce0 border, and a two-line title in `{typography.title-md}` — no badges, no overlays, just the product, its name, and a price. The top nav is a full-bleed #2c2d2e strip with white Poppins nav links and a search icon, suggesting a warehouse-like catalog where findability matters more than editorial curation. Buttons are flat and rectangular (`{rounded.xs}`), filled with #5f85c1 — a muted slate-blue that serves as the primary CTA across add-to-cart and checkout flows, a color that feels more like a functional affordance than a brand statement. The footer collapses into a dense #1a1c1d column of legal links and payment icons, reinforcing the brand’s no-frills, infrastructure-first posture. Syncwire does not decorate; it organizes.
 
 colors:
   primary: "#5f85c1"
@@ -407,6 +411,8 @@ components:
 - Hero banner reduces font size and padding on mobile, and may hide secondary text.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states** for buttons, links, and cards were not reliably extracted from the live site CSS. The `primary-active` color (#0047ba) is inferred from the extracted palette but may not be the exact hover target.
 - **Error and validation styling** for form inputs (red borders, error messages) was not observed. The `accent-red` (#c62a32) is a candidate but unconfirmed.

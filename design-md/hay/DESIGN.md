@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Hay
-description: Hay is a Danish design brand that speaks in a quiet, confident visual language — one built on soft contrasts, muted earth tones, and a deep respect for material honesty. The brand’s palette is anchored by a warm, dusty grey (`#d3d3d3`) that appears across surfaces, textiles, and product finishes, paired with a deep ink-like teal (`#223333`) that acts as the primary brand voltage — appearing on key CTAs, navigation accents, and editorial headers. A pale, airy blue-grey (`#d1dee7`) rounds out the trio, used sparingly as a secondary accent or background wash that evokes Scandinavian light. Typography is split between a clean, utilitarian sans-serif (Arial, used for body copy, captions, and interface labels) and a refined serif (ITC New Baskerville W01) reserved for editorial display and product storytelling — a deliberate tension between the rational and the romantic. Corners are soft but not pill-like: cards and buttons use `{rounded.sm}` (8px) and `{rounded.md}` (12px), while larger containers like hero sections and modals round at `{rounded.lg}` (20px). The overall feel is one of curated restraint — nothing shouts, but every detail has been considered. Hay’s design system mirrors its product philosophy: modular, tactile, and quietly expressive.
+name: "Hay"
+source_url: "https://www.hay.com"
+captured_at: "2026-09-28T04:10:42.006747+00:00"
+evidence_status: "historical_partial_css_evidence"
+description: |-
+  Hay is a Danish design brand that speaks in a quiet, confident visual language — one built on soft contrasts, muted earth tones, and a deep respect for material honesty. The brand’s palette is anchored by a warm, dusty grey (`#d3d3d3`) that appears across surfaces, textiles, and product finishes, paired with a deep ink-like teal (`#223333`) that acts as the primary brand voltage — appearing on key CTAs, navigation accents, and editorial headers. A pale, airy blue-grey (`#d1dee7`) rounds out the trio, used sparingly as a secondary accent or background wash that evokes Scandinavian light. Typography is split between a clean, utilitarian sans-serif (Arial, used for body copy, captions, and interface labels) and a refined serif (ITC New Baskerville W01) reserved for editorial display and product storytelling — a deliberate tension between the rational and the romantic. Corners are soft but not pill-like: cards and buttons use `{rounded.sm}` (8px) and `{rounded.md}` (12px), while larger containers like hero sections and modals round at `{rounded.lg}` (20px). The overall feel is one of curated restraint — nothing shouts, but every detail has been considered. Hay’s design system mirrors its product philosophy: modular, tactile, and quietly expressive.
 
 colors:
   primary: "#223333"
@@ -404,6 +408,8 @@ components:
 - Accordion sections are collapsed by default on mobile, with only the first section expanded
 
 ## Known Gaps
+
+- **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 
 - Hover states for all components (only primary and secondary buttons have defined hover colors)
 - Error styling for forms beyond the red border (error messages, iconography, focus ring styles)

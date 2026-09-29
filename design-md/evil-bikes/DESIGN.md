@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Evil Bikes
-description: |
+name: "Evil Bikes"
+source_url: "https://www.evil-bikes.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   DINWebPro-Black hammered at extreme weights against a ground of near-black (#121212, #1c1d1d) — this is the opening condition of Evil Bikes' digital identity, a Bellingham, WA mountain bike company that treats darkness and mass as primary design materials. Where most cycling brands cut toward white and clinical precision, Evil defaults to shadow: product photography floats against void, navigation sits in flat black, and the single rupture in that darkness is a charging teal (#108474) used exclusively for primary CTAs and interactive focus states. The yellow #fbcd0a arrives as emergency voltage — reserved for price badges, promotional callouts, and the occasional hover state, it reads as a warning color rather than a cheerful accent. A muted lavender (#a89cc8) surfaces in subtle UI elements, an unexpected softness inside an otherwise relentless palette that adds just enough personality to signal deliberate authorship over accidental restraint.
 
   Typography runs DINWebPro-Black for all display work — a grotesque industrial condensed face that compresses word-images into dense horizontal bars, making bike names feel like component specs stamped on aluminum. Barlow handles body and UI text: a geometric sans with slightly more warmth than a pure grotesque, chosen for readability in dense technical copy (geometry charts, spec tables, build kits). The two typefaces co-exist without collision because DIN occupies display-only space — never body copy — and the pairing avoids decorative serif use entirely.
@@ -373,6 +376,8 @@ components:
 - Bike category tile grid: 4-up row on desktop; 2-up grid on tablet; single full-width tiles stacked on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - DINWebPro-Black W01 Regular is a licensed Monotype webfont; fallback rendering on non-licensed environments and its exact weight-axis range are unconfirmed
 - No explicit font-size breakpoint scale extracted — mobile type scaling is inferred from brand category conventions

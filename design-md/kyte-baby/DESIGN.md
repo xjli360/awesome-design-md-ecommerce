@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Kyte Baby
-description: A baby brand built on a muted, earthy palette where #e3ded2 — a warm, dusty beige — serves as the foundational canvas, wrapping the site in a soft, tactile atmosphere that feels more like a nursery than a storefront. The signature bamboo sleep bag, a flagship product, is echoed in the brand's visual language: gentle curves, generous whitespace, and a restrained use of color that prioritizes comfort over stimulation. The primary accent, #2e9e7b, a deep, calming sage green, appears on key CTAs and interactive elements, providing a quiet but confident anchor against the neutral backdrop. Typography leans on Lexend, a modern, geometric sans-serif with a friendly, open character, set at moderate weights (400-600) to maintain readability and a sense of calm. Product imagery is given prominence, often isolated on white or the #fbf6f3 blush-toned background, allowing the texture of the bamboo fabric to be the hero. The overall effect is one of serene, considered simplicity — a digital space that feels safe, clean, and inherently soft, avoiding the bright, primary-colored chaos of many competitors in the category.
+name: "Kyte Baby"
+source_url: "https://kytebaby.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A baby brand built on a muted, earthy palette where #e3ded2 — a warm, dusty beige — serves as the foundational canvas, wrapping the site in a soft, tactile atmosphere that feels more like a nursery than a storefront. The signature bamboo sleep bag, a flagship product, is echoed in the brand's visual language: gentle curves, generous whitespace, and a restrained use of color that prioritizes comfort over stimulation. The primary accent, #2e9e7b, a deep, calming sage green, appears on key CTAs and interactive elements, providing a quiet but confident anchor against the neutral backdrop. Typography leans on Lexend, a modern, geometric sans-serif with a friendly, open character, set at moderate weights (400-600) to maintain readability and a sense of calm. Product imagery is given prominence, often isolated on white or the #fbf6f3 blush-toned background, allowing the texture of the bamboo fabric to be the hero. The overall effect is one of serene, considered simplicity — a digital space that feels safe, clean, and inherently soft, avoiding the bright, primary-colored chaos of many competitors in the category.
 
 colors:
   primary: "#2e9e7b"
@@ -325,6 +329,8 @@ components:
 - The secondary navigation (help, account, search) collapses into a single icon bar.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for many components (e.g., `text-input`, `select-input`, `product-card`) were not fully extractable from the live site CSS. The states defined above are best-guess based on common patterns.
 - Error styling for forms (validation messages, error icons) is not documented. The `text-input-error` border color is inferred from the presence of `#de2a2a` in the extracted palette.

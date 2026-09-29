@@ -1,0 +1,804 @@
+{
+  "source_url": "https://www.kanileaukulele.com",
+  "final_url": "https://kanileaukulele.com/",
+  "captured_at": "2026-09-28T04:09:32.666065+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.kanileaukulele.com",
+      "final_url": "https://kanileaukulele.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "382665827bd394b0b704912a035f3b267e3ef597f2d73a030f651bba3b30a3ea",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+      "final_url": "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b32971888cfa4e5fc569a09777c7a68a66c849f292796388bfd80a53b04e5535",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://kanileaukulele.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://kanileaukulele.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 139,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+        "https://kanileaukulele.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#423f3f": {
+      "count": 66,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#000000": {
+      "count": 47,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#232323": {
+      "count": 30,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#dd6666": {
+      "count": 13,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#d0cfcf": {
+      "count": 12,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#423f3f40": {
+      "count": 12,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#e3e2e2": {
+      "count": 11,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#423f3f0d": {
+      "count": 7,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#908e8e": {
+      "count": 7,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#00000000": {
+      "count": 6,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+        "https://kanileaukulele.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#222222": {
+      "count": 6,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#444444": {
+      "count": 5,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#0000001a": {
+      "count": 5,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#888888": {
+      "count": 5,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#1f61cc": {
+      "count": 5,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#423f3f8c": {
+      "count": 5,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#eeeeee": {
+      "count": 4,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#0000004d": {
+      "count": 4,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#464654": {
+      "count": 4,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 3,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#ff9fbc": {
+      "count": 3,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#dddddd": {
+      "count": 3,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#0000000d": {
+      "count": 3,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#383838": {
+      "count": 3,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#423f3f99": {
+      "count": 3,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#cccccc": {
+      "count": 2,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#999999": {
+      "count": 2,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#00ffffff": {
+      "count": 2,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#00000080": {
+      "count": 2,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#413f3f": {
+      "count": 2,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#108043": {
+      "count": 2,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#de3618": {
+      "count": 2,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#ffffff00": {
+      "count": 2,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#423f3f14": {
+      "count": 2,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#777777": {
+      "count": 2,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#d32d2d": {
+      "count": 2,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#333333": {
+      "count": 2,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#5a5a5a33": {
+      "count": 2,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#ffff00": {
+      "count": 1,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#c0c0c0": {
+      "count": 1,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#757575": {
+      "count": 1,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#00000040": {
+      "count": 1,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#ffffff80": {
+      "count": 1,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#ffffff66": {
+      "count": 1,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#c8c8c833": {
+      "count": 1,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#e32c2b": {
+      "count": 1,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#60a57e": {
+      "count": 1,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#b79987": {
+      "count": 1,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#ffffffb3": {
+      "count": 1,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#a12020": {
+      "count": 1,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#4f4f4f": {
+      "count": 1,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 1,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#f5b2c669": {
+      "count": 1,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#00000005": {
+      "count": 1,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#00000007": {
+      "count": 1,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "#00000009": {
+      "count": 1,
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    }
+  },
+  "font_families": {
+    "Cabin": [
+      "https://kanileaukulele.com/",
+      "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+    ],
+    "Jost": [
+      "https://kanileaukulele.com/",
+      "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+    ],
+    "Tahoma": [
+      "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+    ],
+    "monospace": [
+      "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+    ],
+    "sans-serif": [
+      "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://kanileaukulele.com/",
+      "selector": ":root",
+      "declarations": "--viewport-height: 100vh;\n      --viewport-height-first-section: 100vh;\n      --nav-height: 0;"
+    },
+    {
+      "source": "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+      "selector": "button,input,optgroup,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0"
+    },
+    {
+      "source": "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+      "selector": ".swiper-button-prev,.swiper-button-next",
+      "declarations": "position:absolute;top:50%;width:44px;height:44px;z-index:10;cursor:pointer;margin-top:-22px;-moz-background-size:44px 44px;-webkit-background-size:44px 44px;background-size:44px 44px;display:flex;align-items:center;background-color:#fff;transition:all 80ms ease-out;border-radius:50%;background-clip:content-box;color:#757575"
+    },
+    {
+      "source": "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+      "selector": ".swiper-button-prev:hover svg,.swiper-button-prev:focus svg,.swiper-button-next:hover svg,.swiper-button-next:focus svg",
+      "declarations": "color:#000"
+    },
+    {
+      "source": "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+      "selector": ".product-label.sale",
+      "declarations": "background-color:#0000;color:#e32c2b"
+    },
+    {
+      "source": "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+      "selector": ".product-label.preorder",
+      "declarations": "background-color:#0000;color:#60a57e"
+    },
+    {
+      "source": "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+      "selector": ".product-label.unavailable",
+      "declarations": "background-color:#0000;color:#000"
+    },
+    {
+      "source": "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+      "selector": ".product-label.product-label--new",
+      "declarations": "background-color:#0000;color:#b79987"
+    },
+    {
+      "source": "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+      "selector": ".footer-button-xs",
+      "declarations": "position:fixed;bottom:0;left:0;width:100%;z-index:2;background-color:#fff;transition:transform .3s cubic-bezier(0,.14,.19,1)"
+    },
+    {
+      "source": "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+      "selector": ".use-alt-bg .feature-header",
+      "declarations": "color:currentColor"
+    },
+    {
+      "source": "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+      "selector": ".use-alt-bg .feature-header:after",
+      "declarations": "border-top-color:currentColor"
+    },
+    {
+      "source": "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+      "selector": "body",
+      "declarations": "font-family:Cabin,sans-serif;font-weight:400;font-size:16px;font-style:normal;line-height:1.5em;color:#423f3f;overflow:auto;background-color:#fff;background-position:top center;-moz-font-feature-settings:\"liga\";-moz-osx-font-smoothing:grayscale;-webkit-font-feature-settings:\"liga\";-webkit-font-smoothing:antialiased"
+    },
+    {
+      "source": "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+      "selector": "h1:not(.logo-h1),h2,h3,h4,.under-cart .subtotal,blockquote,h5,h6",
+      "declarations": "font-family:Cabin,sans-serif;font-weight:700;font-style:normal;color:#413f3f;margin:0;text-align:center"
+    },
+    {
+      "source": "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+      "selector": "button,input[type=submit],.button",
+      "declarations": "-webkit-appearance:none;display:inline-block;background-color:#232323;color:#fff;border:1px solid #232323;height:auto;width:auto;padding:18px 30px;line-height:1.25em;vertical-align:top;font-weight:400;transition:opacity .3s,color .3s,background-color .3s,border-color .3s,transform .3s"
+    },
+    {
+      "source": "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+      "selector": "):not(button.textbutton):not([disabled]):not(.custom-dot):hover,.button:not(.hover-grow):not(.no-hover):not(input[type=submit].textbutton):not(button.textbutton",
+      "declarations": "background-color:#fff;color:#232323"
+    },
+    {
+      "source": "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+      "selector": "button.alt,input[type=submit].alt,.button.alt",
+      "declarations": "background-color:#fff;color:#232323;border-color:#232323"
+    },
+    {
+      "source": "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+      "selector": "(input[type=submit].textbutton):not(button.textbutton):not([disabled]):hover,.button.alt:not(.hover-grow):not(.no-hover):not(input[type=submit].textbutton):not(",
+      "declarations": "background-color:#232323;color:#fff"
+    },
+    {
+      "source": "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+      "selector": ":root",
+      "declarations": "--btn-border-radius: 4px"
+    },
+    {
+      "source": "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+      "selector": "button.not-a-button",
+      "declarations": "background:none;color:inherit;border:none;padding:0;font:inherit;cursor:pointer;outline:inherit;text-align:left"
+    },
+    {
+      "source": "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+      "selector": "button.not-a-button:hover",
+      "declarations": "background:transparent;background-color:transparent!important;box-shadow:0 0 0 transparent;border:0 solid transparent;text-shadow:0 0 0 transparent"
+    },
+    {
+      "source": "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+      "selector": "button[disabled],input[type=submit][disabled]",
+      "declarations": "background-color:#4f4f4f"
+    },
+    {
+      "source": "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+      "selector": "button[disabled].confirmation,input[type=submit][disabled].confirmation",
+      "declarations": "color:#232323;background-color:#fff"
+    },
+    {
+      "source": "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+      "selector": "button[disabled].confirmation.alt,input[type=submit][disabled].confirmation.alt",
+      "declarations": "color:#fff;background-color:#232323"
+    },
+    {
+      "source": "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+      "selector": "input[type=submit].textbutton,button.textbutton",
+      "declarations": "color:inherit;border:none;background:none;background-color:transparent;padding:2px;font-family:inherit;font-size:inherit;letter-spacing:0"
+    },
+    {
+      "source": "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+      "selector": "shop-login-button",
+      "declarations": "--buttons-radius: var(--btn-border-radius)"
+    },
+    {
+      "source": "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+      "selector": ".store-availabilities-modal .cc-popup-modal .cc-popup-content .cc-popup-text .store-availabilities-modal__product-title",
+      "declarations": "margin-bottom:0;text-align:start;color:#423f3f"
+    },
+    {
+      "source": "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+      "selector": ".cc-tabs.cc-tabs--accordion-mode .cc-tabs__tab .cc-tabs__accordion__header:after,.cc-tabs.cc-tabs--accordion-mode .cc-tabs__tab .cc-tabs__accordion__header:befo",
+      "declarations": "content:\"\";height:2px;width:10px;position:absolute;right:0;top:50%;transform:translateY(-50%);background-color:currentColor"
+    },
+    {
+      "source": "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+      "selector": ".cc-tabs.cc-tabs--tab-mode .cc-tabs__tab-headers .cc-tabs__tab-headers__header[aria-selected=true]:after",
+      "declarations": "content:\"\";position:absolute;bottom:-5px;left:0;width:100%;height:2px;background-color:currentColor"
+    },
+    {
+      "source": "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+      "selector": ".slick-dots li button",
+      "declarations": "color:#fff;background-clip:content-box;display:block;height:20px;width:20px;min-width:0;outline:none;line-height:0px;font-size:0px;padding:0;cursor:pointer;background-color:transparent;border-color:transparent"
+    },
+    {
+      "source": "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+      "selector": ".slick-slider-dots-light-xs .slick-dots li button",
+      "declarations": "color:#423f3f"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Kanileʻa ʻUkulele – Kanileʻa ʻUkulele & Guitar",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+        "https://kanileaukulele.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837",
+        "https://kanileaukulele.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-sale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "colors.accent-preorder": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "colors.accent-new": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "colors.focus-ring": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "colors.overlay": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "colors.shadow-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "colors.divider-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "colors.carousel-control-icon": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kanileaukulele.com/cdn/shop/t/26/assets/styles.css?v=62083838495121865961768858837"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.product-media-carousel": {
+      "status": "inferred"
+    }
+  }
+}

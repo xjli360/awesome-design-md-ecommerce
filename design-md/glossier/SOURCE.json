@@ -1,0 +1,890 @@
+{
+  "source_url": "https://www.glossier.com",
+  "final_url": "https://www.glossier.com/",
+  "captured_at": "2026-09-28T04:09:52.674350+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.glossier.com",
+      "final_url": "https://www.glossier.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "b996aaf9884df1a6b4461991031bd33b75135bdf1386202fae376b529d818521",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190",
+      "final_url": "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4f5c02c8deece2c7b671b861c0873e9d84d818307a0fc0e4a487404c983c9669",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.glossier.com/cdn/shop/t/1464/assets/index.css?v=45910844017583051001789763461",
+      "final_url": "https://www.glossier.com/cdn/shop/t/1464/assets/index.css?v=45910844017583051001789763461",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "822ac25f2f75a086116af675dcacec669d46dd1176d520e128e0fe7ff5659d34",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.glossier.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.glossier.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 721,
+      "sources": [
+        "https://www.glossier.com/",
+        "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190"
+      ]
+    },
+    "#ffffff": {
+      "count": 154,
+      "sources": [
+        "https://www.glossier.com/",
+        "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190",
+        "https://www.glossier.com/cdn/shop/t/1464/assets/index.css?v=45910844017583051001789763461",
+        "https://www.glossier.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#666666": {
+      "count": 50,
+      "sources": [
+        "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 28,
+      "sources": [
+        "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190"
+      ]
+    },
+    "#0600ff": {
+      "count": 23,
+      "sources": [
+        "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 18,
+      "sources": [
+        "https://www.glossier.com/",
+        "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190"
+      ]
+    },
+    "#d30000": {
+      "count": 12,
+      "sources": [
+        "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 10,
+      "sources": [
+        "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190"
+      ]
+    },
+    "#00ac5a": {
+      "count": 9,
+      "sources": [
+        "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190"
+      ]
+    },
+    "#464545": {
+      "count": 8,
+      "sources": [
+        "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 8,
+      "sources": [
+        "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 5,
+      "sources": [
+        "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190"
+      ]
+    },
+    "#0000000f": {
+      "count": 3,
+      "sources": [
+        "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190"
+      ]
+    },
+    "#c8102e": {
+      "count": 2,
+      "sources": [
+        "https://www.glossier.com/"
+      ]
+    },
+    "#ef3340": {
+      "count": 2,
+      "sources": [
+        "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190"
+      ]
+    },
+    "#5e5c5c": {
+      "count": 2,
+      "sources": [
+        "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190"
+      ]
+    },
+    "#f94200": {
+      "count": 2,
+      "sources": [
+        "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190"
+      ]
+    },
+    "#f6e3e6": {
+      "count": 2,
+      "sources": [
+        "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.glossier.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.glossier.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#3e2e20": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/"
+      ]
+    },
+    "#7b5a49": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/"
+      ]
+    },
+    "#a06a4f": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/"
+      ]
+    },
+    "#d8a683": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/"
+      ]
+    },
+    "#b2a8a2": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/"
+      ]
+    },
+    "#ebe8e2": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/"
+      ]
+    },
+    "#2d2b2a": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/"
+      ]
+    },
+    "#b04a5a": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/"
+      ]
+    },
+    "#8d3f2b": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/"
+      ]
+    },
+    "#f57eb6": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/"
+      ]
+    },
+    "#f09491": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/"
+      ]
+    },
+    "#e3785e": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/"
+      ]
+    },
+    "#ef426f": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/"
+      ]
+    },
+    "#dd9cdf": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/"
+      ]
+    },
+    "#b46a55": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/"
+      ]
+    },
+    "#8e2c48": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/"
+      ]
+    },
+    "#9d2235": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/"
+      ]
+    },
+    "#f1e4c5": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/"
+      ]
+    },
+    "#bde1d7": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/"
+      ]
+    },
+    "#f4c67b": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/"
+      ]
+    },
+    "#f8dde9": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/"
+      ]
+    },
+    "#d46e49": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/"
+      ]
+    },
+    "#bbd34a": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/"
+      ]
+    },
+    "#bf88b0": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/"
+      ]
+    },
+    "#5c3d31": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/"
+      ]
+    },
+    "#7b7b7b": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190"
+      ]
+    },
+    "#00000099": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190"
+      ]
+    },
+    "#0000000d": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190"
+      ]
+    },
+    "#faf2f4": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190"
+      ]
+    },
+    "#00000040": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190"
+      ]
+    },
+    "#eeeeee": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190"
+      ]
+    },
+    "#777777": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190"
+      ]
+    },
+    "#9f9f9f": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.glossier.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Apercu": [
+      "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190"
+    ],
+    "Apercu Mono": [
+      "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190"
+    ],
+    "Gill Sans": [
+      "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190"
+    ],
+    "monospace": [
+      "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190"
+    ],
+    "sans-serif": [
+      "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.glossier.com/",
+      "selector": "#shopify-section-template--22541857325301__0f8e847b-7af6-42bf-822c-6f808203daf3 .review-highlight__header-cta .btn",
+      "declarations": "background-color: #e8e8e8;"
+    },
+    {
+      "source": "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;line-height:1.15;margin:0"
+    },
+    {
+      "source": "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190",
+      "selector": ".btn",
+      "declarations": "background-color:#fff;border:none;border-radius:0;-webkit-appearance:none;-moz-appearance:none;appearance:none;cursor:pointer;display:-webkit-inline-box;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;font-family:Apercu,Gill Sans,sans-serif;font-size:.875rem;font-weight:400;letter-spacing:.001875em;color:#000;text-align:center;padding:.5rem 1rem;min-height:2.5rem;-webkit-transition:font-size .4s ease-in-out;transition:font-size .4s ease-in-out"
+    },
+    {
+      "source": "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190",
+      "selector": ".btn--add-to-bag,.btn--notify,.btn--tertiary",
+      "declarations": "background-color:#f7f7f7"
+    },
+    {
+      "source": "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190",
+      "selector": ".btn--primary-conversion",
+      "declarations": "background-color:#e8e8e8!important;background-size:0 0,100% 1px,0 0,1px 100%;background-position:0 0,0 100%,0 0,100% 0;background-repeat:repeat-x,repeat-x,repeat-y,repeat-y;background-image:none,-webkit-gradient(linear,left top,right top,color-stop(50%,#000),color-stop(50%,#000)),none,-webkit-gradient(linear,left top,left bottom,color-stop(50%,#000),color-stop(50%,#000));background-image:none,linear-gradient(to right,#000 50% 50%),none,linear-gradient(to bottom,#000 50% 50%)"
+    },
+    {
+      "source": "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190",
+      "selector": ".btn--primary-conversion:disabled",
+      "declarations": "background-color:#e8e8e8;color:#666;opacity:1"
+    },
+    {
+      "source": "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190",
+      "selector": ".btn--add-to-bag.added,.btn--notify.added",
+      "declarations": "color:#00ac5a"
+    },
+    {
+      "source": "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190",
+      "selector": ".btn--secondary",
+      "declarations": "background-color:#fff;background-image:none,-webkit-gradient(linear,left top,right top,color-stop(50%,#000),color-stop(50%,#000)),none,none;background-image:none,linear-gradient(to right,#000 50% 50%),none,none"
+    },
+    {
+      "source": "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190",
+      "selector": ".btn--quaternary",
+      "declarations": "background-color:transparent;background-image:none,-webkit-gradient(linear,left top,right top,color-stop(50%,#fff),color-stop(50%,#fff)),none,none;background-image:none,linear-gradient(to right,#fff 50% 50%),none,none;color:#fff"
+    },
+    {
+      "source": "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190",
+      "selector": ".btn--transparent",
+      "declarations": "background-color:transparent;color:#fff"
+    },
+    {
+      "source": "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190",
+      "selector": ".btn--gray-4",
+      "declarations": "background-color:#f7f7f7"
+    },
+    {
+      "source": "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190",
+      "selector": ".btn--conversion",
+      "declarations": "background-color:#000;color:#fff;background-size:0 0,100% 1px,0 0,1px 100%;background-position:0 0,0 100%,0 0,100% 0;background-repeat:repeat-x,repeat-x,repeat-y,repeat-y;background-image:none,-webkit-gradient(linear,left top,right top,color-stop(50%,#fff)),none,-webkit-gradient(linear,left top,left bottom,color-stop(50%,#fff));background-image:none,linear-gradient(to right,#fff 50% 50%),none,linear-gradient(to bottom,#fff 50% 50%)"
+    },
+    {
+      "source": "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190",
+      "selector": ".btn--conversion.disabled,.btn--conversion:disabled,.btn--conversion[disabled]",
+      "declarations": "opacity:1;color:#7b7b7b;pointer-events:none"
+    },
+    {
+      "source": "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190",
+      "selector": ".btn-link",
+      "declarations": "background-color:transparent;border:0;border-bottom:1px solid #464545;color:#464545;padding:0"
+    },
+    {
+      "source": "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190",
+      "selector": ".btn-link--black",
+      "declarations": "color:#000;border-bottom-color:#000"
+    },
+    {
+      "source": "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190",
+      "selector": ".btn-link--gray-5",
+      "declarations": "color:#666;border-bottom-color:#666"
+    },
+    {
+      "source": "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190",
+      "selector": ".btn-text",
+      "declarations": "background-color:transparent;border:0;color:#464545;padding:0"
+    },
+    {
+      "source": "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190",
+      "selector": ".btn-icon",
+      "declarations": "background-color:#fff;background-image:none;border:none;border-radius:0;-webkit-appearance:none;-moz-appearance:none;appearance:none;cursor:pointer;padding:0;width:2.5rem;height:2.5rem"
+    },
+    {
+      "source": "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190",
+      "selector": ".btn-icon.btn--transparent",
+      "declarations": "background-color:transparent"
+    },
+    {
+      "source": "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190",
+      "selector": ".btn-video",
+      "declarations": "display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;position:relative;background-color:#666;background-image:none;border:none;border-radius:0;-webkit-appearance:none;-moz-appearance:none;appearance:none;cursor:pointer;padding:0!important;width:1.5rem;height:1.5rem;min-height:1.5rem!important"
+    },
+    {
+      "source": "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190",
+      "selector": "body",
+      "declarations": "-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;background-color:#fff;color:#000;font-family:Apercu,Gill Sans,sans-serif;font-weight:400"
+    },
+    {
+      "source": "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190",
+      "selector": ".h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6",
+      "declarations": "font-family:Apercu,Gill Sans,sans-serif;font-weight:400;margin:0"
+    },
+    {
+      "source": "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190",
+      "selector": "button",
+      "declarations": "font-family:Apercu,Gill Sans,sans-serif;font-weight:400;font-size:.875rem;line-height:1.225rem;letter-spacing:.001875rem"
+    },
+    {
+      "source": "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190",
+      "selector": ".header",
+      "declarations": "font-family:Apercu,Gill Sans,sans-serif;font-weight:500;text-transform:uppercase;font-size:1.75rem;line-height:2.1875rem"
+    },
+    {
+      "source": "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190",
+      "selector": ".section__header",
+      "declarations": "font-family:Apercu,Gill Sans,sans-serif;font-weight:400;text-transform:uppercase;font-size:1.125rem;line-height:1.275rem;letter-spacing:.003125rem"
+    },
+    {
+      "source": "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190",
+      "selector": ".bag__header--logo",
+      "declarations": "height:auto;width:auto;min-height:initial;padding:0;background-color:transparent"
+    },
+    {
+      "source": "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190",
+      "selector": ".bag__free-samples .flickity-button",
+      "declarations": "display:-webkit-inline-box;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;position:absolute;top:50%;-webkit-transform:translateY(-50%);transform:translateY(-50%);background-color:#fff;background-size:0 0,100% 1px,0 0,1px 100%;background-position:0 0,0 100%,0 0,100% 0;border:none;border-radius:0;-webkit-appearance:none;-moz-appearance:none;appearance:none;cursor:pointer;font-family:Apercu,Gill Sans,sans-serif;font-size:.875rem;font-weight:400;letter-spacing:"
+    },
+    {
+      "source": "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190",
+      "selector": ".bag__free-samples-header--new-text",
+      "declarations": "color:#0600ff;text-transform:uppercase;margin-right:.375rem"
+    },
+    {
+      "source": "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190",
+      "selector": ".bag__free-samples-header--inner",
+      "declarations": "color:#000"
+    },
+    {
+      "source": "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190",
+      "selector": ".bag__gwp-header",
+      "declarations": "margin-bottom:.5rem;color:#000;font-size:.875rem;font-weight:400;line-height:1.4;-webkit-box-ordinal-group:0;-ms-flex-order:-1;order:-1;display:none;border:0;outline:0;background:0 0;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;-webkit-box-align:center;-ms-flex-align:center;align-items:center;padding:0;width:100%"
+    }
+  ],
+  "confidence": "historical_partial_css_evidence",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Glossier",
+  "schema_version": 1,
+  "design_origin": "historical",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.glossier.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.primary-active": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.primary-disabled": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.glossier.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.muted": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.muted-soft": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.glossier.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.hairline-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.glossier.com/",
+        "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.glossier.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.glossier.com/",
+        "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190",
+        "https://www.glossier.com/cdn/shop/t/1464/assets/index.css?v=45910844017583051001789763461",
+        "https://www.glossier.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.glossier.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.on-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.glossier.com/",
+        "https://www.glossier.com/cdn/shop/t/1464/assets/style.css?v=113091967125017357911790001190",
+        "https://www.glossier.com/cdn/shop/t/1464/assets/index.css?v=45910844017583051001789763461",
+        "https://www.glossier.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-pink": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.accent-sage": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.accent-terracotta": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.badge-new": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.glossier.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.badge-sold-out": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.glossier.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-lg": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.title-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.title-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.body-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.body-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.caption": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.caption-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.badge": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.button-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.button-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.link": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.nav-link": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "rounded.none": {
+      "status": "unverified"
+    },
+    "rounded.xs": {
+      "status": "unverified"
+    },
+    "rounded.sm": {
+      "status": "unverified"
+    },
+    "rounded.md": {
+      "status": "unverified"
+    },
+    "rounded.lg": {
+      "status": "unverified"
+    },
+    "rounded.xl": {
+      "status": "unverified"
+    },
+    "rounded.full": {
+      "status": "unverified"
+    },
+    "spacing.xxs": {
+      "status": "unverified"
+    },
+    "spacing.xs": {
+      "status": "unverified"
+    },
+    "spacing.sm": {
+      "status": "unverified"
+    },
+    "spacing.md": {
+      "status": "unverified"
+    },
+    "spacing.base": {
+      "status": "unverified"
+    },
+    "spacing.lg": {
+      "status": "unverified"
+    },
+    "spacing.xl": {
+      "status": "unverified"
+    },
+    "spacing.xxl": {
+      "status": "unverified"
+    },
+    "spacing.section": {
+      "status": "unverified"
+    },
+    "components.button-primary": {
+      "status": "unverified"
+    },
+    "components.button-primary-active": {
+      "status": "unverified"
+    },
+    "components.button-primary-disabled": {
+      "status": "unverified"
+    },
+    "components.button-secondary": {
+      "status": "unverified"
+    },
+    "components.button-tertiary-text": {
+      "status": "unverified"
+    },
+    "components.button-pill-ink": {
+      "status": "unverified"
+    },
+    "components.text-input": {
+      "status": "unverified"
+    },
+    "components.text-input-focus": {
+      "status": "unverified"
+    },
+    "components.text-input-error": {
+      "status": "unverified"
+    },
+    "components.nav-bar": {
+      "status": "unverified"
+    },
+    "components.nav-link-active": {
+      "status": "unverified"
+    },
+    "components.nav-link-inactive": {
+      "status": "unverified"
+    },
+    "components.product-card": {
+      "status": "unverified"
+    },
+    "components.product-card-image": {
+      "status": "unverified"
+    },
+    "components.product-card-title": {
+      "status": "unverified"
+    },
+    "components.product-card-price": {
+      "status": "unverified"
+    },
+    "components.badge-new": {
+      "status": "unverified"
+    },
+    "components.badge-sold-out": {
+      "status": "unverified"
+    },
+    "components.hero-section": {
+      "status": "unverified"
+    },
+    "components.hero-image": {
+      "status": "unverified"
+    },
+    "components.search-bar": {
+      "status": "unverified"
+    },
+    "components.search-bar-focus": {
+      "status": "unverified"
+    },
+    "components.footer-section": {
+      "status": "unverified"
+    },
+    "components.footer-link": {
+      "status": "unverified"
+    },
+    "components.footer-link-hover": {
+      "status": "unverified"
+    },
+    "components.accordion": {
+      "status": "unverified"
+    },
+    "components.accordion-content": {
+      "status": "unverified"
+    },
+    "components.color-swatch": {
+      "status": "unverified"
+    },
+    "components.color-swatch-selected": {
+      "status": "unverified"
+    },
+    "components.quantity-selector": {
+      "status": "unverified"
+    },
+    "components.quantity-selector-button": {
+      "status": "unverified"
+    }
+  },
+  "observed_color_tokens": 12,
+  "total_color_tokens": 19
+}

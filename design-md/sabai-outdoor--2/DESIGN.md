@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Sabai
-description: Sunbleached linen draped over a modular sofa frame — that's the first impression Sabai's digital storefront delivers. The palette draws almost entirely from the warm taupe-to-sand continuum (#9c8d85 through #c9bcac to the canvas at #f8f4ef), punctuated only by a deep indigo (#1d1b3e) on primary CTAs and a golden amber (#ffb600) that flashes across sale badges and urgency callouts. Typography pairs PPEditorialNew for editorial display moments — collection headers, lifestyle captions — with Mabry Pro carrying the everyday UI at 400-weight body and 500-weight buttons, creating a tone that reads as a design magazine married to a furniture showroom. Corners stay soft throughout: product cards at `{rounded.md}`, buttons at `{rounded.sm}`, and pill-shaped tags at `{rounded.full}` reinforce the brand's commitment to comfort as a visual language. Spacing is generous — `{spacing.section}` between lifestyle blocks, `{spacing.xl}` gutters on desktop grids — letting photography breathe rather than packing catalog density. The modular furniture concept extends into the UI: swappable fabric-swatch selectors, configuration builders with step indicators, and sustainability credential badges (#806e28 olive-gold on cream backgrounds) that appear on every product card without overwhelming the warm neutral foundation. Navigation is minimal — a sticky top bar in warm off-white with the wordmark left-aligned and a compact icon cluster (cart, account, search) right-aligned, collapsing to a hamburger on mobile with a full-screen takeover drawer tinted in the brand's lightest sand (#f1eeea).
+name: "Sabai"
+source_url: "https://sabai.design"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Sunbleached linen draped over a modular sofa frame — that's the first impression Sabai's digital storefront delivers. The palette draws almost entirely from the warm taupe-to-sand continuum (#9c8d85 through #c9bcac to the canvas at #f8f4ef), punctuated only by a deep indigo (#1d1b3e) on primary CTAs and a golden amber (#ffb600) that flashes across sale badges and urgency callouts. Typography pairs PPEditorialNew for editorial display moments — collection headers, lifestyle captions — with Mabry Pro carrying the everyday UI at 400-weight body and 500-weight buttons, creating a tone that reads as a design magazine married to a furniture showroom. Corners stay soft throughout: product cards at `{rounded.md}`, buttons at `{rounded.sm}`, and pill-shaped tags at `{rounded.full}` reinforce the brand's commitment to comfort as a visual language. Spacing is generous — `{spacing.section}` between lifestyle blocks, `{spacing.xl}` gutters on desktop grids — letting photography breathe rather than packing catalog density. The modular furniture concept extends into the UI: swappable fabric-swatch selectors, configuration builders with step indicators, and sustainability credential badges (#806e28 olive-gold on cream backgrounds) that appear on every product card without overwhelming the warm neutral foundation. Navigation is minimal — a sticky top bar in warm off-white with the wordmark left-aligned and a compact icon cluster (cart, account, search) right-aligned, collapsing to a hamburger on mobile with a full-screen takeover drawer tinted in the brand's lightest sand (#f1eeea).
 
 colors:
   primary: "#1d1b3e"
@@ -398,6 +402,8 @@ components:
 - Announcement bar text truncates to single line with carousel arrows on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact font weights for Topol and Min Sans typefaces could not be determined from extraction — they may be used in limited editorial contexts or marketing landing pages
 - Hover/focus transition durations and easing curves not captured in static extraction

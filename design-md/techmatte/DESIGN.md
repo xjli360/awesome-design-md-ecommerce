@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: TechMatte
-description: A blue-and-red voltage system built for utility-first mobile accessories, where #0e6eb8 acts as the primary anchor — a confident, mid-tone corporate blue that appears across primary buttons, category headers, and the site's top navigation bar. The brand's secondary heartbeat is #e94b35, a sharp safety-orange red used sparingly for sale badges, price-drop indicators, and limited-time callouts, creating a clear urgency hierarchy against the cooler blue backdrop. The palette relies heavily on a neutral spine of #808080 (muted text and secondary icons), #c4c4c4 (hairlines and dividers), and a clean white canvas, with #337ab7 serving as a lighter hover-state blue for interactive elements. Typography defaults to system sans-serif stacks (no custom font found), keeping the interface fast-loading and legible across the budget-electronics demographic. Product cards use soft {rounded.sm} corners, while primary CTAs and the search bar adopt {rounded.md} for a slightly friendlier feel without sacrificing the brand's no-nonsense, protective-film precision. The overall mood is functional and alert — a brand that sells screen protectors and car mounts with the same straightforward urgency as an auto-parts store, using color contrast (blue/orange) rather than typographic flourish to drive action.
+name: "TechMatte"
+source_url: "https://www.techmatte.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A blue-and-red voltage system built for utility-first mobile accessories, where #0e6eb8 acts as the primary anchor — a confident, mid-tone corporate blue that appears across primary buttons, category headers, and the site's top navigation bar. The brand's secondary heartbeat is #e94b35, a sharp safety-orange red used sparingly for sale badges, price-drop indicators, and limited-time callouts, creating a clear urgency hierarchy against the cooler blue backdrop. The palette relies heavily on a neutral spine of #808080 (muted text and secondary icons), #c4c4c4 (hairlines and dividers), and a clean white canvas, with #337ab7 serving as a lighter hover-state blue for interactive elements. Typography defaults to system sans-serif stacks (no custom font found), keeping the interface fast-loading and legible across the budget-electronics demographic. Product cards use soft {rounded.sm} corners, while primary CTAs and the search bar adopt {rounded.md} for a slightly friendlier feel without sacrificing the brand's no-nonsense, protective-film precision. The overall mood is functional and alert — a brand that sells screen protectors and car mounts with the same straightforward urgency as an auto-parts store, using color contrast (blue/orange) rather than typographic flourish to drive action.
 
 colors:
   primary: "#0e6eb8"
@@ -355,6 +359,8 @@ components:
 - Product card badges reposition to top-left on all breakpoints, but reduce font size on mobile (10px)
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom font-family declarations were extracted from the live site; the system sans-serif stack is an assumption based on common e-commerce patterns. The brand may use a custom typeface not detectable in the extracted CSS.
 - Hover states for `button-secondary`, `button-text-link`, and `product-card` are inferred from common interaction patterns, not extracted from live CSS.

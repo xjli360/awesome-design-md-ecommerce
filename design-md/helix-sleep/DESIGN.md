@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Helix Sleep
-description: Helix Sleep is a direct-to-consumer mattress brand that positions itself as the sleep solution for every body type and sleeping style, built on a foundation of clinical clarity and warm approachability. The brand's visual language is anchored in a clean, predominantly white canvas (`#ffffff`) that conveys purity and simplicity, allowing product photography and sleep-related imagery to take center stage. The primary brand voltage comes from a deep, restful navy blue (`#1a2a3a`) that appears across primary CTAs, navigation elements, and key accents, evoking the calm of a night sky. This is paired with a softer, more approachable teal (`#3a7b8a`) used for secondary actions and hover states, creating a subtle but distinct color story that feels both trustworthy and rejuvenating. The typography leans on a clean, highly legible sans-serif stack — likely a system font like Helvetica Neue or a similar geometric sans — with display sizes staying moderate (24–32px) and body text at 16px for comfortable reading. Generous whitespace and soft corner radii (`{rounded.sm}` at 8px for buttons, `{rounded.md}` at 12px for cards) create a friendly, non-intimidating interface that invites exploration. The brand's signature design move is the "sleep quiz" — a multi-step, personality-driven questionnaire that uses large, tappable cards with illustrations and minimal text, all set against the white canvas with the navy and teal palette providing wayfinding and progress indicators. This quiz is the heart of the Helix experience, embodying the brand's promise of personalized comfort through a guided, reassuring digital journey. The overall mood is one of calm confidence — a clinical precision softened by human-centered design, where every pixel serves the goal of better sleep.
+name: "Helix Sleep"
+source_url: "https://helixsleep.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Helix Sleep is a direct-to-consumer mattress brand that positions itself as the sleep solution for every body type and sleeping style, built on a foundation of clinical clarity and warm approachability. The brand's visual language is anchored in a clean, predominantly white canvas (`#ffffff`) that conveys purity and simplicity, allowing product photography and sleep-related imagery to take center stage. The primary brand voltage comes from a deep, restful navy blue (`#1a2a3a`) that appears across primary CTAs, navigation elements, and key accents, evoking the calm of a night sky. This is paired with a softer, more approachable teal (`#3a7b8a`) used for secondary actions and hover states, creating a subtle but distinct color story that feels both trustworthy and rejuvenating. The typography leans on a clean, highly legible sans-serif stack — likely a system font like Helvetica Neue or a similar geometric sans — with display sizes staying moderate (24–32px) and body text at 16px for comfortable reading. Generous whitespace and soft corner radii (`{rounded.sm}` at 8px for buttons, `{rounded.md}` at 12px for cards) create a friendly, non-intimidating interface that invites exploration. The brand's signature design move is the "sleep quiz" — a multi-step, personality-driven questionnaire that uses large, tappable cards with illustrations and minimal text, all set against the white canvas with the navy and teal palette providing wayfinding and progress indicators. This quiz is the heart of the Helix experience, embodying the brand's promise of personalized comfort through a guided, reassuring digital journey. The overall mood is one of calm confidence — a clinical precision softened by human-centered design, where every pixel serves the goal of better sleep.
 
 colors:
   primary: "#1a2a3a"
@@ -423,6 +427,8 @@ components:
 - Quiz progress indicators become compact dots instead of full bars on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact font-family declarations could not be extracted from the live site; the system font stack used here is an educated approximation based on common DTC bedding brand patterns
 - Hover and active states for many components (especially footer links, accordion headers, and comparison table rows) are inferred from common UX patterns rather than extracted from live CSS

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: BeginAgain
-description: A wooden toy brand that uses a sky-blue (#a9c7e7) as its primary — an unusual choice for a category that defaults to primary-color primaries or earth tones, and it signals a brand more interested in imagination than pedagogy. The palette is a study in soft contrast: a warm brown ink (#5f3f3f) sits against a near-white canvas (#f6f6f6), with a marigold accent (#dad55e) and a butter-yellow highlight (#fffa90) that appear on badges, swatches, and product details. The brand's typography runs Arial and Helvetica — system sans-serifs that feel unpretentious and child-friendly, with no custom typeface to distract from the wooden textures and saturated product photography. Buttons use a bright blue (#318cdd) for primary actions, while secondary actions and navigation links use the brown ink. Product cards are softly rounded ({rounded.md}), and the overall layout is generous with whitespace, letting each toy breathe against the light canvas. The footer and utility sections shift to a darker ground (#2b2b2b) with reversed type, creating a clear visual boundary between the playful product zone and the informational footer. The brand's voice is warm, direct, and slightly whimsical — the kind of design that trusts the product's physicality to do the heavy lifting.
+name: "BeginAgain"
+source_url: "https://beginagaintoys.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A wooden toy brand that uses a sky-blue (#a9c7e7) as its primary — an unusual choice for a category that defaults to primary-color primaries or earth tones, and it signals a brand more interested in imagination than pedagogy. The palette is a study in soft contrast: a warm brown ink (#5f3f3f) sits against a near-white canvas (#f6f6f6), with a marigold accent (#dad55e) and a butter-yellow highlight (#fffa90) that appear on badges, swatches, and product details. The brand's typography runs Arial and Helvetica — system sans-serifs that feel unpretentious and child-friendly, with no custom typeface to distract from the wooden textures and saturated product photography. Buttons use a bright blue (#318cdd) for primary actions, while secondary actions and navigation links use the brown ink. Product cards are softly rounded ({rounded.md}), and the overall layout is generous with whitespace, letting each toy breathe against the light canvas. The footer and utility sections shift to a darker ground (#2b2b2b) with reversed type, creating a clear visual boundary between the playful product zone and the informational footer. The brand's voice is warm, direct, and slightly whimsical — the kind of design that trusts the product's physicality to do the heavy lifting.
 
 colors:
   primary: "#a9c7e7"
@@ -281,6 +285,8 @@ components:
 - Secondary navigation (breadcrumbs, sub-category links) hides below 744px, replaced by a "Back" button
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components beyond primary/secondary buttons could not be reliably extracted from the live site; the above uses reasonable defaults (darken by 10% for hover, 2px primary outline for focus) but should be verified against the brand's actual CSS
 - Error states for form inputs (validation, required fields, error messages) were not visible in the extracted data; placeholder colors and error border colors are assumed

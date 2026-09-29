@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: MARA Beauty
-description: MARA Beauty is a clean, ocean-inspired skincare brand that marries clinical efficacy with an earthy, spa-like serenity. The brand's visual language is anchored by a deep, almost-black teal (`#041e29`) that reads as both luxurious and grounded — it's the color of deep sea water at midnight, used generously across headers, footers, and primary text. Against this dark canvas, a muted, warm taupe (`#979492`) and a soft, creamy off-white (`#f6f4f3`) create a gentle, organic contrast, while a restrained coral-red (`#a91f1f`) provides the only real voltage, used sparingly for sale badges, error states, or accent links. The palette is completed by a series of soft neutrals (`#dedede`, `#c8c8c8`, `#ece5dd`) that form the hairline borders and surface cards, and a single, surprising pop of bright green (`#3ed660`) reserved for "clean" or "vegan" certification badges. Typography leans on the elegant, serifed Cormorant for display headings — a choice that whispers editorial sophistication rather than shouting — paired with the clean, approachable Muli for body copy. The overall mood is one of quiet confidence: generous whitespace, soft pill-shaped buttons (`{rounded.full}`), and product cards with gentle rounding (`{rounded.md}`) that feel tactile and organic, like smooth sea stones. There are no hard edges, no aggressive gradients — just a calm, ingredient-first narrative that lets the algae-green (`#006400`) and ocean-blue (`#1990c6`) accents do the storytelling.
+name: "MARA Beauty"
+source_url: "https://themarabeauty.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  MARA Beauty is a clean, ocean-inspired skincare brand that marries clinical efficacy with an earthy, spa-like serenity. The brand's visual language is anchored by a deep, almost-black teal (`#041e29`) that reads as both luxurious and grounded — it's the color of deep sea water at midnight, used generously across headers, footers, and primary text. Against this dark canvas, a muted, warm taupe (`#979492`) and a soft, creamy off-white (`#f6f4f3`) create a gentle, organic contrast, while a restrained coral-red (`#a91f1f`) provides the only real voltage, used sparingly for sale badges, error states, or accent links. The palette is completed by a series of soft neutrals (`#dedede`, `#c8c8c8`, `#ece5dd`) that form the hairline borders and surface cards, and a single, surprising pop of bright green (`#3ed660`) reserved for "clean" or "vegan" certification badges. Typography leans on the elegant, serifed Cormorant for display headings — a choice that whispers editorial sophistication rather than shouting — paired with the clean, approachable Muli for body copy. The overall mood is one of quiet confidence: generous whitespace, soft pill-shaped buttons (`{rounded.full}`), and product cards with gentle rounding (`{rounded.md}`) that feel tactile and organic, like smooth sea stones. There are no hard edges, no aggressive gradients — just a calm, ingredient-first narrative that lets the algae-green (`#006400`) and ocean-blue (`#1990c6`) accents do the storytelling.
 
 colors:
   primary: "#041e29"
@@ -329,6 +333,8 @@ components:
 - Hero section reduces font size and padding on mobile to maintain readability.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact hover and focus states for all components (e.g., text-input focus ring color, button hover transitions).
 - Error and success styling for forms (e.g., input validation colors, error message typography).

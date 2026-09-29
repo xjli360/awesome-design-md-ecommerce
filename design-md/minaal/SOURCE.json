@@ -1,0 +1,896 @@
+{
+  "source_url": "https://minaal.com",
+  "final_url": "https://www.minaal.com/",
+  "captured_at": "2026-09-28T10:22:39.592933+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://minaal.com",
+      "final_url": "https://www.minaal.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "59b4043957acf5b5e3a6240350d04d0442c5bb78200147f2b9e5dd8436afadad",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+      "final_url": "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a48cc27e6923d9383ebced3f50ddb465c97f8bf8218b7203da49c27341428afd",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242",
+      "final_url": "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "319a96353f9a6ea5c0f5a53f9604c79c8b51e7fc5a7ef1ac7d089be7900c054b",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.minaal.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.minaal.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/widget_v3_theme_align.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/widget_v3_theme_align.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "98479c24ad70a4410f91e7ed2461ac44247194b4c08acb445770841186b446a6",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "be10bc4b16346e787891f1da5de658505019fcd30172651891a4bf550c948e36",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 80,
+      "sources": [
+        "https://www.minaal.com/",
+        "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+        "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242",
+        "https://www.minaal.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#212121": {
+      "count": 52,
+      "sources": [
+        "https://www.minaal.com/",
+        "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+        "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242"
+      ]
+    },
+    "#eeeeee": {
+      "count": 32,
+      "sources": [
+        "https://www.minaal.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 26,
+      "sources": [
+        "https://www.minaal.com/",
+        "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#323230": {
+      "count": 18,
+      "sources": [
+        "https://www.minaal.com/"
+      ]
+    },
+    "#000000": {
+      "count": 15,
+      "sources": [
+        "https://www.minaal.com/",
+        "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+        "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#b04228": {
+      "count": 11,
+      "sources": [
+        "https://www.minaal.com/"
+      ]
+    },
+    "#21212133": {
+      "count": 10,
+      "sources": [
+        "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242"
+      ]
+    },
+    "#ffffff33": {
+      "count": 9,
+      "sources": [
+        "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242"
+      ]
+    },
+    "#dddddd": {
+      "count": 9,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#1c1b1b": {
+      "count": 7,
+      "sources": [
+        "https://www.minaal.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 7,
+      "sources": [
+        "https://www.minaal.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#333333": {
+      "count": 7,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#666666": {
+      "count": 6,
+      "sources": [
+        "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#555555": {
+      "count": 6,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#e4e4e4": {
+      "count": 5,
+      "sources": [
+        "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242"
+      ]
+    },
+    "#2121218c": {
+      "count": 5,
+      "sources": [
+        "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242"
+      ]
+    },
+    "#2121210f": {
+      "count": 4,
+      "sources": [
+        "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242"
+      ]
+    },
+    "#ffffff8c": {
+      "count": 4,
+      "sources": [
+        "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242"
+      ]
+    },
+    "#d12328": {
+      "count": 3,
+      "sources": [
+        "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+        "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 3,
+      "sources": [
+        "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#212121b3": {
+      "count": 3,
+      "sources": [
+        "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242"
+      ]
+    },
+    "#ffffff1f": {
+      "count": 3,
+      "sources": [
+        "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242"
+      ]
+    },
+    "#108474": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#9b3a23": {
+      "count": 2,
+      "sources": [
+        "https://www.minaal.com/"
+      ]
+    },
+    "#f0efed": {
+      "count": 2,
+      "sources": [
+        "https://www.minaal.com/"
+      ]
+    },
+    "#d8d8d3": {
+      "count": 2,
+      "sources": [
+        "https://www.minaal.com/"
+      ]
+    },
+    "#f0ab00": {
+      "count": 2,
+      "sources": [
+        "https://www.minaal.com/"
+      ]
+    },
+    "#e9e0cf": {
+      "count": 2,
+      "sources": [
+        "https://www.minaal.com/"
+      ]
+    },
+    "#ffff00": {
+      "count": 2,
+      "sources": [
+        "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#00964d": {
+      "count": 2,
+      "sources": [
+        "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242"
+      ]
+    },
+    "#848484": {
+      "count": 2,
+      "sources": [
+        "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242"
+      ]
+    },
+    "#222222": {
+      "count": 2,
+      "sources": [
+        "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+        "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242"
+      ]
+    },
+    "#0b0b0b66": {
+      "count": 2,
+      "sources": [
+        "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242"
+      ]
+    },
+    "#ffffffcc": {
+      "count": 2,
+      "sources": [
+        "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242"
+      ]
+    },
+    "#ffffff40": {
+      "count": 2,
+      "sources": [
+        "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242"
+      ]
+    },
+    "#21212140": {
+      "count": 2,
+      "sources": [
+        "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242"
+      ]
+    },
+    "#028e48": {
+      "count": 2,
+      "sources": [
+        "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.minaal.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.minaal.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#fbcd0a": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#a89cc8": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#c1e6e6": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#c54a2d": {
+      "count": 1,
+      "sources": [
+        "https://www.minaal.com/"
+      ]
+    },
+    "#e59d8c": {
+      "count": 1,
+      "sources": [
+        "https://www.minaal.com/"
+      ]
+    },
+    "#33130c": {
+      "count": 1,
+      "sources": [
+        "https://www.minaal.com/"
+      ]
+    },
+    "#8b8b8b": {
+      "count": 1,
+      "sources": [
+        "https://www.minaal.com/"
+      ]
+    },
+    "#2a7832": {
+      "count": 1,
+      "sources": [
+        "https://www.minaal.com/"
+      ]
+    },
+    "#5b8fb8": {
+      "count": 1,
+      "sources": [
+        "https://www.minaal.com/"
+      ]
+    },
+    "#fcfbfb": {
+      "count": 1,
+      "sources": [
+        "https://www.minaal.com/"
+      ]
+    },
+    "#e4e3df": {
+      "count": 1,
+      "sources": [
+        "https://www.minaal.com/"
+      ]
+    },
+    "#fac209": {
+      "count": 1,
+      "sources": [
+        "https://www.minaal.com/"
+      ]
+    },
+    "#7b7b7b": {
+      "count": 1,
+      "sources": [
+        "https://www.minaal.com/"
+      ]
+    },
+    "#c4c4c4": {
+      "count": 1,
+      "sources": [
+        "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242"
+      ]
+    },
+    "#ff7f15": {
+      "count": 1,
+      "sources": [
+        "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242"
+      ]
+    },
+    "#0000001a": {
+      "count": 1,
+      "sources": [
+        "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242"
+      ]
+    },
+    "#3a3a3a": {
+      "count": 1,
+      "sources": [
+        "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242"
+      ]
+    },
+    "#212121cc": {
+      "count": 1,
+      "sources": [
+        "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242"
+      ]
+    },
+    "#ffffff80": {
+      "count": 1,
+      "sources": [
+        "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242"
+    ],
+    "Apple Color Emoji": [
+      "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242"
+    ],
+    "Arial": [
+      "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Baskerville": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Buenard": [
+      "https://www.minaal.com/"
+    ],
+    "GT America": [
+      "https://www.minaal.com/"
+    ],
+    "Helvetica": [
+      "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Inter": [
+      "https://www.minaal.com/"
+    ],
+    "Ivar": [
+      "https://www.minaal.com/"
+    ],
+    "Ivar' !important": [
+      "https://www.minaal.com/"
+    ],
+    "JudgemeIcons": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons\" !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons' !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeStar": [
+      "https://www.minaal.com/"
+    ],
+    "JudgemeStar' !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Nunito Sans": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Segoe UI Emoji": [
+      "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242"
+    ],
+    "Times": [
+      "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242"
+    ],
+    "blinkmacsystemfont": [
+      "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242"
+    ],
+    "monospace": [
+      "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "sans-serif": [
+      "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+      "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "segoe UI": [
+      "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.minaal.com/",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #1c1b1b;--jdgm-secondary-color: rgba(28,27,27,0.1);--jdgm-star-color: #f0ab00;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #1c1b1b;--jdgm-paginate-color: #1c1b1b;--jdgm-border-radius: 0;--jdgm-reviewer-name-color: #1c1b1b"
+    },
+    {
+      "source": "https://www.minaal.com/",
+      "selector": "--logo-size: 38px;\n    --logo-size-mobile: 35px;\n    --logo-spacing: 6;\n    --logo-spacing-mobile: 0;\n  \n\n    :root",
+      "declarations": "--header-is-sticky:1;\n      \n      --header-bg-color: #ffffff;\n      --header-bg-color-darker: #f2f2f2;\n      --header-text-color: #323230;\n      --header-text-color-light: rgba(50, 50, 48, 0.7);\n      --header-text-color-lighter: rgba(50, 50, 48, 0.5);\n      --header-text-color-lightest: rgba(50, 50, 48, 0.1);\n      --header-text-color-bg: rgba(50, 50, 48, 0.06);\n      --header-transparent-text-color: #ffffff;\n      --header-transparent-text-color-light: rgba(255, 255, 255, 0.3);\n      --header-text-contrast-color: #fff;\n      --header-transparent-text-contrast-color: #000;"
+    },
+    {
+      "source": "https://www.minaal.com/",
+      "selector": "tion-delay: 100ms\nanimation-delay: 100ms\n--background-color: #ffffff;\n        --per-row: 2;\n--item-span: 2\n        --per-row: 1;\n--item-span: 2\n        --per-ro",
+      "declarations": "font-family: 'Ivar' !important;\n    font-weight: 500 !important;"
+    },
+    {
+      "source": "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:sans-serif;font-size:100%;line-height:1.15;margin:0"
+    },
+    {
+      "source": "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+      "selector": ".f-family--body",
+      "declarations": "font-family:var(--font--body);font-weight:var(--font--body-weight);font-style:var(--font--body-style);letter-spacing:normal"
+    },
+    {
+      "source": "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+      "selector": ".o-ratio--bg-product",
+      "declarations": "background-color:var(--color--product-bg)"
+    },
+    {
+      "source": "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+      "selector": ".skeleton-button",
+      "declarations": "display:inline-block;vertical-align:middle;text-align:center;width:100%;margin:0;height:auto;line-height:30px;padding:9px 30px;background-color:var(--color--text-lightest);opacity:.5;animation:skeleton-bounce 2s ease-in-out infinite;border-radius:.5em"
+    },
+    {
+      "source": "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+      "selector": "html,body",
+      "declarations": "font-family:var(--font--body);font-weight:var(--font--body-weight);font-style:var(--font--body-style)"
+    },
+    {
+      "source": "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+      "selector": "body",
+      "declarations": "position:relative;background:var(--color--bg);color:var(--color--text)"
+    },
+    {
+      "source": "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+      "selector": "h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6",
+      "declarations": "color:var(--color--headings);font-family:var(--font--title);font-weight:var(--font--title-weight);font-style:var(--font--title-style);letter-spacing:var(--font--title-space);text-transform:var(--font--title-transform)"
+    },
+    {
+      "source": "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+      "selector": ".c-btn,.btn",
+      "declarations": "position:relative;display:inline-flex;align-items:center;justify-content:center;font:inherit;text-align:center;margin:0;cursor:pointer;font-family:var(--font--button);letter-spacing:var(--font--button-space);text-transform:var(--font--button-transform);transition:opacity .2s ease-in-out;color:var(--color--btn);font-size:calc(var(--font--button-size) / var(--font--size-base) * 1rem);font-weight:var(--font--button-weight);font-style:var(--font--button-style);height:auto;line-height:30px;padding:9px 30px;min-width:84px;border:0 none;-webkit-transition:all .2s ease-out;-moz-transition:all .2s ease-out;transition:all .2s ease-out"
+    },
+    {
+      "source": "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+      "selector": ".c-btn--grey,.c-btn--dark,.btn",
+      "declarations": "background-color:var(--button-background-color, #222);color:var(--button-color, rgb(255, 255, 255))"
+    },
+    {
+      "source": "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+      "selector": ".c-btn--grey:hover,.c-btn--grey:focus,.c-btn--dark:hover,.c-btn--dark:focus,.btn:hover,.btn:focus",
+      "declarations": "background-color:var(--button-hover-background-color, rgb(33, 33, 33))"
+    },
+    {
+      "source": "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+      "selector": "quantity-input input[type=number],quantity-input button",
+      "declarations": "text-align:center;border:0;margin:0;padding:0;color:var(--color--text);position:relative;display:inline-block;line-height:1;font-size:.9rem;height:2rem;width:2rem;touch-action:manipulation"
+    },
+    {
+      "source": "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+      "selector": ".rte h1,.rte h2,.rte h3,.rte h4,.rte h5,.rte h6",
+      "declarations": "color:inherit;margin-top:1rem"
+    },
+    {
+      "source": "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+      "selector": ".product-form__swatch",
+      "declarations": "--gap: 6px;display:flex;flex-wrap:wrap;row-gap:var(--gap);column-gap:var(--gap)"
+    },
+    {
+      "source": "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+      "selector": ".product-form__swatch--products,.product-form__swatch--variant-image",
+      "declarations": "--gap: 12px"
+    },
+    {
+      "source": "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+      "selector": ".product-form__swatch__sub-title",
+      "declarations": "margin-left:3px;color:var(--color--text-lighter)"
+    },
+    {
+      "source": "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+      "selector": ".product-form__swatch__item--button .product-form__swatch__label",
+      "declarations": "align-items:center;line-height:1;font-size:.9rem;padding:0px 1.4rem;height:2.5rem;color:var(--color--text);background-color:transparent;-webkit-transition:background-color .3s ease-out,color .3s ease-out;-moz-transition:background-color .3s ease-out,color .3s ease-out;transition:background-color .3s ease-out,color .3s ease-out"
+    },
+    {
+      "source": "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+      "selector": ".product-form__swatch__item--color",
+      "declarations": "font-family:sans-serif;font-size:0"
+    },
+    {
+      "source": "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+      "selector": ".product-form__swatch__item--color .product-form__swatch__label",
+      "declarations": "position:relative;padding:0;height:auto;width:auto;border-color:transparent;font-family:sans-serif;font-size:0;line-height:0;text-indent:-100%;margin:3px"
+    },
+    {
+      "source": "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+      "selector": ".product-form__swatch__item--color .product-form__swatch__label__graphic",
+      "declarations": "font-family:sans-serif;display:block;padding:0;margin:0;width:calc(var(--swatch-size) * 4 + 15px);height:calc(var(--swatch-size) * 4 + 15px);background:var(--background-graphic);background-size:cover;background-position:center;box-shadow:0 0 0 1px var(--color--text-lightest)"
+    },
+    {
+      "source": "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+      "selector": ".product-form__swatch__label.is-disabled",
+      "declarations": "color:var(--color--text-lightest);border-color:var(--color--text-lightest)"
+    },
+    {
+      "source": "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+      "selector": ".product-form__swatch__item--button input[type=radio]:checked+label.is-disabled,.product-form__swatch__item--button input[type=radio]:hover+label.is-disabled",
+      "declarations": "color:var(--color--text-lightest)"
+    },
+    {
+      "source": "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+      "selector": ".product-form__swatch__item--image .product-form__swatch__label",
+      "declarations": "background-color:var(--color--product-bg)"
+    },
+    {
+      "source": "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+      "selector": ".product-form__swatch__item--button input[type=radio]:checked+label",
+      "declarations": "color:var(--color--text);background:transparent;-webkit-transition:color ease-in-out .15s;transition:color ease-in-out .15s"
+    },
+    {
+      "source": "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+      "selector": ".product-form__swatch__item--button input[type=radio]:hover+label",
+      "declarations": "color:var(--color--text);-webkit-transition:color ease-in-out .15s;transition:color ease-in-out .15s"
+    },
+    {
+      "source": "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+      "selector": ".product-form__swatch__item--sold input[type=radio]:checked+label",
+      "declarations": "border-color:var(--color--text);color:var(--color--text-lighter);background:-webkit-gradient(linear,right bottom,left top,color-stop(49%,transparent),color-stop(49.5%,var(--color--text-lighter)),color-stop(50.5%,var(--color--text-lighter)),color-stop(51%,transparent));background:-webkit-linear-gradient(right bottom,transparent 49%,var(--color--text-lighter) 49.5%,var(--color--text-lighter) 50.5%,transparent 51%);background:-o-linear-gradient(right bottom,transparent 49%,var(--color--text-lighter) 49.5%,var(--color--text-lighter) 50.5%,transparent 51%);background:linear-gradient(to left top,transparent 49%,var(--color--text-lighter) 49.5%,var(--color--text-lighter) 50.5%,transparent 51%)"
+    },
+    {
+      "source": "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+      "selector": ".product-card__swatch__items",
+      "declarations": "display:flex;align-items:center;gap:9px;font-family:sans-serif;font-size:.85rem;margin:0;line-height:0;max-width:300px;height:auto;width:auto;border:0;padding:0"
+    },
+    {
+      "source": "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+      "selector": ".product-card__swatch__item",
+      "declarations": "position:relative;display:block;height:auto;width:auto;font-family:sans-serif;padding:0;box-shadow:0 0 0 1px transparent;cursor:pointer;-webkit-transition:all .2s ease-in-out;-moz-transition:all .2s ease-in-out;transition:all .2s ease-in-out"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Luggage You Can Trust, For Travel & Business | Minaal",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.minaal.com/",
+        "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+        "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.minaal.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.minaal.com/",
+        "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+        "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242",
+        "https://www.minaal.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.minaal.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.minaal.com/",
+        "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.minaal.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.minaal.com/",
+        "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+        "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242",
+        "https://www.minaal.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.minaal.com/"
+      ]
+    },
+    "colors.accent-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.minaal.com/"
+      ]
+    },
+    "colors.star": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.minaal.com/"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.minaal.com/cdn/shop/t/109/assets/base.css?v=154646981574952193851759994242",
+        "https://www.minaal.com/cdn/shop/t/109/assets/global.css?v=75978460088295779211759994242"
+      ]
+    },
+    "colors.sand": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.minaal.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.compatibility-badge": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Ink4Less
-description: Twenty-six years of ink-cartridge arbitrage have produced a visual shorthand that any bargain-hunter decodes instantly: #ff5501 orange commands every primary add-to-cart button, sale badge, and promotional banner — the color of a clearance sticker applied with institutional confidence across a catalog spanning hundreds of printer models. Against it sits #0088cc, a no-pretense cyan-blue that earns its keep on navigation links, account anchors, breadcrumb trails, and informational highlights without attempting brand differentiation. The canvas is #f6f6f6 gray-white — a practical staging ground for dense SKU listing pages where pricing numerals and compatibility notes matter more than art direction. Typography stays in the Open Sans / Arial / Helvetica stack: no custom type investment, no variable font, just legible geometric sans-serifs at utilitarian sizes with tight information hierarchy. A 12px caption layer carries yield specs and cartridge page-count data; a compact 14px body handles product descriptions; display sizes stay modest, rarely breaking 26px, because the hero territory belongs to savings percentages and "SAVE 80%" callouts rather than brand slogans.
+name: "Ink4Less"
+source_url: "https://ink4less.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Twenty-six years of ink-cartridge arbitrage have produced a visual shorthand that any bargain-hunter decodes instantly: #ff5501 orange commands every primary add-to-cart button, sale badge, and promotional banner — the color of a clearance sticker applied with institutional confidence across a catalog spanning hundreds of printer models. Against it sits #0088cc, a no-pretense cyan-blue that earns its keep on navigation links, account anchors, breadcrumb trails, and informational highlights without attempting brand differentiation. The canvas is #f6f6f6 gray-white — a practical staging ground for dense SKU listing pages where pricing numerals and compatibility notes matter more than art direction. Typography stays in the Open Sans / Arial / Helvetica stack: no custom type investment, no variable font, just legible geometric sans-serifs at utilitarian sizes with tight information hierarchy. A 12px caption layer carries yield specs and cartridge page-count data; a compact 14px body handles product descriptions; display sizes stay modest, rarely breaking 26px, because the hero territory belongs to savings percentages and "SAVE 80%" callouts rather than brand slogans.
 
   Rounding is conservative — {rounded.xs} and {rounded.sm} on buttons and cards, with pill shapes ({rounded.full}) reserved for small compatibility-match badges and promotional label chips. The grid follows a Porto/Magento catalog layout: a narrow left sidebar for layered navigation (category, brand, price, yield-range filters), a 3–4 column product grid in the content area, and a utility top bar carrying account, cart, and quick-search. Micro-accents in #0cc485 green signal in-stock status and success confirmations; #eb2771 pink marks flash-sale or clearance triggers; #e02b27 red handles error, out-of-stock, and critical alerts. A broad neutral ramp — #777777 through #e7e7e7 — governs dividers, secondary labels, disabled states, and the catalog's structural chrome. The overall register is dense, function-forward catalog retail: trust earned through SKU depth, compatibility tables, and visible price comparison rather than brand photography or editorial whitespace.
 
@@ -421,6 +425,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom brand typeface confirmed; Open Sans extracted from font stack but may be a Porto/Magento theme default — weight and size hierarchy inferred from catalog norms rather than direct observation
 - Exact pixel heights of the dual-tier nav bar not captured; 36px utility bar and 44px category nav estimated from Porto theme conventions

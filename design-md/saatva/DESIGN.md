@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Saatva
-description: Saatva's design language is a study in restrained luxury — the brand sells mattresses and bedding, but the interface reads more like a heritage textile house than a sleep startup. The palette is anchored by warm earth tones: `#6b6257` and `#463f38` form the primary ink and body, while `#fafafb` and `#f6f5f3` create a canvas that feels like soft linen rather than sterile white. Accents of `#b19780` and `#d5aa63` appear in badges and decorative elements, evoking the gilded edges of a well-bound book. The brand's signature green — `#597554` — surfaces in sustainability badges and eco-notes, while `#c80000` provides a restrained alert red. Typography leans on Georgia and Source Serif Pro for display roles, pairing with Open Sans for body — a classic editorial combination that signals trust and permanence. Buttons use `{rounded.sm}` (8px) — soft but not pillowy — and cards use `{rounded.md}` (12px), suggesting a brand that values comfort without sacrificing structure. The overall mood is hushed, substantial, and tactile: every `{hairline}` in `#d2d2d2` and `{muted-soft}` in `#909090` reinforces the sense of a space designed for quiet, not noise.
+name: "Saatva"
+source_url: "https://www.saatva.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Saatva's design language is a study in restrained luxury — the brand sells mattresses and bedding, but the interface reads more like a heritage textile house than a sleep startup. The palette is anchored by warm earth tones: `#6b6257` and `#463f38` form the primary ink and body, while `#fafafb` and `#f6f5f3` create a canvas that feels like soft linen rather than sterile white. Accents of `#b19780` and `#d5aa63` appear in badges and decorative elements, evoking the gilded edges of a well-bound book. The brand's signature green — `#597554` — surfaces in sustainability badges and eco-notes, while `#c80000` provides a restrained alert red. Typography leans on Georgia and Source Serif Pro for display roles, pairing with Open Sans for body — a classic editorial combination that signals trust and permanence. Buttons use `{rounded.sm}` (8px) — soft but not pillowy — and cards use `{rounded.md}` (12px), suggesting a brand that values comfort without sacrificing structure. The overall mood is hushed, substantial, and tactile: every `{hairline}` in `#d2d2d2` and `{muted-soft}` in `#909090` reinforces the sense of a space designed for quiet, not noise.
 
 colors:
   primary: "#6b6257"
@@ -393,6 +397,8 @@ components:
 - Search bar collapses to icon-only on mobile, expanding to full input on tap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for all components are inferred from common patterns but not verified against live site interactions
 - Error styling for forms (error messages, icon positions) is assumed based on industry standards

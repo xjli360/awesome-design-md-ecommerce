@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: The Honey Pot Company
-description: A plant-derived feminine care brand that wraps its wellness-first mission in a warm, earthy palette anchored by a deep, almost-black ink (`#252222`) and a soft, creamy canvas (`#fdfbf6`). The brand's signature voltage comes from a vibrant coral-orange (`#da532c`) that appears on primary CTAs, badges, and accent elements, while a secondary teal (`#7bc6b9`) and its lighter wash (`#d7f0e8`) bring a soothing, botanical counterpoint. Pink (`#f7a4d7`) and lavender (`#dccdf1`) accents appear in product-specific contexts, suggesting a playful, inclusive approach to category conventions. Typography leans on a rational display face for headlines and a monospaced Syke Mono for technical or ingredient-focused copy, with a suite of domaine_sans_text weights (italic, light, light italic, regular) providing editorial texture for body and product descriptions. The system uses generous whitespace, soft pill-shaped inputs (`{rounded.full}`), and product cards with gentle rounding (`{rounded.md}` ~12px) to feel approachable and clean — never clinical. The overall mood is confident but gentle, like a trusted friend who happens to be a botanist.
+name: "The Honey Pot Company"
+source_url: "https://thehoneypot.co"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A plant-derived feminine care brand that wraps its wellness-first mission in a warm, earthy palette anchored by a deep, almost-black ink (`#252222`) and a soft, creamy canvas (`#fdfbf6`). The brand's signature voltage comes from a vibrant coral-orange (`#da532c`) that appears on primary CTAs, badges, and accent elements, while a secondary teal (`#7bc6b9`) and its lighter wash (`#d7f0e8`) bring a soothing, botanical counterpoint. Pink (`#f7a4d7`) and lavender (`#dccdf1`) accents appear in product-specific contexts, suggesting a playful, inclusive approach to category conventions. Typography leans on a rational display face for headlines and a monospaced Syke Mono for technical or ingredient-focused copy, with a suite of domaine_sans_text weights (italic, light, light italic, regular) providing editorial texture for body and product descriptions. The system uses generous whitespace, soft pill-shaped inputs (`{rounded.full}`), and product cards with gentle rounding (`{rounded.md}` ~12px) to feel approachable and clean — never clinical. The overall mood is confident but gentle, like a trusted friend who happens to be a botanist.
 
 colors:
   primary: "#da532c"
@@ -345,6 +349,8 @@ components:
 - Product image galleries switch from horizontal thumbnails to a single swipeable carousel on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact hover and active states for secondary, tertiary, and outline buttons (color shifts, shadows).
 - Error styling for form inputs (border color, error message typography and placement).

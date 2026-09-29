@@ -1,0 +1,892 @@
+{
+  "source_url": "https://akasotech.com",
+  "final_url": "https://akasotech.com/",
+  "captured_at": "2026-09-28T04:25:46.408222+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://akasotech.com",
+      "final_url": "https://akasotech.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "3e0530faafce83e5b9322f61251477ff7b59d69e0a02e9f0ac7df13036efc845",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "dd1541d63bf10f1180ab440f9d1e927721d35cde62997da3e437e571595cb94b",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "final_url": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "3dbefbb153c2a7a5c9a0614f07f16f5cd59805d008188b1fbdad2a294fde6e09",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css",
+      "final_url": "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "9006c0d29176345781a77a5070275cda1c659c7e0f99b316e6db9dfde34040bb",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://akasotech.com/_nuxt/pages/index.1.0.0.f2cb56fa29c2ae70962b.css",
+      "final_url": "https://akasotech.com/_nuxt/pages/index.1.0.0.f2cb56fa29c2ae70962b.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "727c7cf03c756df53a21022ac3bc42abd8b23a6a7354faca1e9e3278e641af82",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 225,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css",
+        "https://akasotech.com/_nuxt/pages/index.1.0.0.f2cb56fa29c2ae70962b.css"
+      ]
+    },
+    "#409eff": {
+      "count": 110,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#c0c4cc": {
+      "count": 83,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#000000": {
+      "count": 55,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css",
+        "https://akasotech.com/_nuxt/pages/index.1.0.0.f2cb56fa29c2ae70962b.css"
+      ]
+    },
+    "#606266": {
+      "count": 52,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#294033": {
+      "count": 51,
+      "sources": [
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css",
+        "https://akasotech.com/_nuxt/pages/index.1.0.0.f2cb56fa29c2ae70962b.css"
+      ]
+    },
+    "#fff7e5": {
+      "count": 49,
+      "sources": [
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css",
+        "https://akasotech.com/_nuxt/pages/index.1.0.0.f2cb56fa29c2ae70962b.css"
+      ]
+    },
+    "#909399": {
+      "count": 46,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#303133": {
+      "count": 39,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#ebeef5": {
+      "count": 36,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#f56c6c": {
+      "count": 32,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#f5f7fa": {
+      "count": 25,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#67c23a": {
+      "count": 23,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#dcdfe6": {
+      "count": 23,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#e6a23c": {
+      "count": 22,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 22,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+      ]
+    },
+    "#e4e7ed": {
+      "count": 19,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#444444": {
+      "count": 14,
+      "sources": [
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+      ]
+    },
+    "#ecf5ff": {
+      "count": 11,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#3a8ee6": {
+      "count": 11,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 11,
+      "sources": [
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+      ]
+    },
+    "#f2f6fc": {
+      "count": 7,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#e4e4e4": {
+      "count": 6,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#66b1ff": {
+      "count": 6,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#0066cc": {
+      "count": 6,
+      "sources": [
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 6,
+      "sources": [
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+      ]
+    },
+    "#39ad7b": {
+      "count": 6,
+      "sources": [
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 5,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+      ]
+    },
+    "#ebeff2": {
+      "count": 5,
+      "sources": [
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+      ]
+    },
+    "#0f8cff": {
+      "count": 5,
+      "sources": [
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+      ]
+    },
+    "#f0f9eb": {
+      "count": 4,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#fdf6ec": {
+      "count": 4,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#fef0f0": {
+      "count": 4,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 4,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#f4f4f5": {
+      "count": 4,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#5daf34": {
+      "count": 4,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#cf9236": {
+      "count": 4,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#dd6161": {
+      "count": 4,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#82848a": {
+      "count": 4,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#777777": {
+      "count": 4,
+      "sources": [
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+      ]
+    },
+    "#616262": {
+      "count": 4,
+      "sources": [
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+      ]
+    },
+    "#e1f3d8": {
+      "count": 3,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#faecd8": {
+      "count": 3,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#fde2e2": {
+      "count": 3,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#666666": {
+      "count": 3,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+      ]
+    },
+    "#8cc5ff": {
+      "count": 3,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#c0ccda": {
+      "count": 3,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#13ce66": {
+      "count": 3,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#999999": {
+      "count": 3,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+      ]
+    },
+    "#a6a9ad": {
+      "count": 3,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#85ce61": {
+      "count": 3,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#ebb563": {
+      "count": 3,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#f78989": {
+      "count": 3,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 3,
+      "sources": [
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 3,
+      "sources": [
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+      ]
+    },
+    "#edf2fc": {
+      "count": 2,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#f0f2f5": {
+      "count": 2,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#d9ecff": {
+      "count": 2,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#e9e9eb": {
+      "count": 2,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "#b3d8ff": {
+      "count": 2,
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+    ],
+    "Courier New": [
+      "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+    ],
+    "Gabarito Black": [
+      "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+    ],
+    "Gabarito Bold": [
+      "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css",
+      "https://akasotech.com/_nuxt/pages/index.1.0.0.f2cb56fa29c2ae70962b.css"
+    ],
+    "Gabarito ExtraBold": [
+      "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+    ],
+    "Gabarito Medium": [
+      "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+    ],
+    "Gabarito Regular": [
+      "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css",
+      "https://akasotech.com/_nuxt/pages/index.1.0.0.f2cb56fa29c2ae70962b.css"
+    ],
+    "Gabarito SemiBold": [
+      "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css",
+      "https://akasotech.com/_nuxt/pages/index.1.0.0.f2cb56fa29c2ae70962b.css"
+    ],
+    "Georgia": [
+      "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+    ],
+    "Helvetica": [
+      "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+    ],
+    "Helvetica Neue": [
+      "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+    ],
+    "Monaco": [
+      "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+    ],
+    "Open Sans": [
+      "https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap",
+      "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+    ],
+    "Open Sans SemiBold": [
+      "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+    ],
+    "Open Sans Semibold": [
+      "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+    ],
+    "Open Sans bold": [
+      "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+    ],
+    "Open Sans-Bold": [
+      "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css",
+      "https://akasotech.com/_nuxt/pages/index.1.0.0.f2cb56fa29c2ae70962b.css"
+    ],
+    "Open Sans-Regular": [
+      "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+    ],
+    "Times New Roman": [
+      "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+    ],
+    "element-icons": [
+      "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+    ],
+    "element-icons!important": [
+      "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+    ],
+    "monospace": [
+      "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+    ],
+    "open sans Semibold": [
+      "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+    ],
+    "sans-serif": [
+      "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css",
+      "https://akasotech.com/_nuxt/pages/index.1.0.0.f2cb56fa29c2ae70962b.css"
+    ],
+    "serif": [
+      "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+    ],
+    "swiper-icons": [
+      "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-date-picker__header-label",
+      "declarations": "color:#606266;cursor:pointer;font-size:16px;font-weight:500;line-height:22px;padding:0 5px;text-align:center"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-date-picker__header-label.active,.el-date-picker__header-label:hover",
+      "declarations": "color:#409eff"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-date-range-picker__time-header>.el-icon-arrow-right",
+      "declarations": "color:#303133;display:table-cell;font-size:20px;vertical-align:middle"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-message-box__headerbtn .el-message-box__close",
+      "declarations": "color:#909399"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-message-box__headerbtn:focus .el-message-box__close,.el-message-box__headerbtn:hover .el-message-box__close",
+      "declarations": "color:#409eff"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-pagination button:hover",
+      "declarations": "color:#409eff"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-pagination button:disabled",
+      "declarations": "background-color:#fff;color:#c0c4cc;cursor:not-allowed"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-pagination .btn-next,.el-pagination .btn-prev",
+      "declarations": "background:50% no-repeat #fff;background-size:16px;color:#303133;cursor:pointer;margin:0"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": "tion--small .btn-prev,.el-pagination--small .el-pager li,.el-pagination--small .el-pager li.btn-quicknext,.el-pagination--small .el-pager li.btn-quickprev,.el-p",
+      "declarations": "border-color:transparent;font-size:12px;height:22px;line-height:22px;min-width:22px"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-pagination.is-background .btn-next,.el-pagination.is-background .btn-prev,.el-pagination.is-background .el-pager li",
+      "declarations": "background-color:#f4f4f5;border-radius:2px;color:#606266;margin:0 5px;min-width:30px"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": "abled,.el-pagination.is-background .btn-next:disabled,.el-pagination.is-background .btn-prev.disabled,.el-pagination.is-background .btn-prev:disabled,.el-pagina",
+      "declarations": "color:#c0c4cc"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-pager li.btn-quicknext,.el-pager li.btn-quickprev",
+      "declarations": "color:#303133;line-height:28px"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-pager li.btn-quicknext.disabled,.el-pager li.btn-quickprev.disabled",
+      "declarations": "color:#c0c4cc"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-dialog__headerbtn .el-dialog__close",
+      "declarations": "color:#909399"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-dialog__headerbtn:focus .el-dialog__close,.el-dialog__headerbtn:hover .el-dialog__close",
+      "declarations": "color:#409eff"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-dialog__body",
+      "declarations": "color:#606266;font-size:14px;padding:30px 20px;word-break:break-all"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-table-filter__bottom button",
+      "declarations": "background:0 0;border:none;color:#606266;cursor:pointer;font-size:13px;padding:0 3px"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-table-filter__bottom button:hover",
+      "declarations": "color:#409eff"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-table-filter__bottom button.is-disabled",
+      "declarations": "color:#c0c4cc;cursor:not-allowed"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-checkbox-button__inner",
+      "declarations": "color:#606266;cursor:pointer;font-size:14px;font-weight:500;outline:0;position:relative;vertical-align:middle"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-table__fixed-footer-wrapper tbody td.el-table__cell",
+      "declarations": "background-color:#f5f7fa;border-top:1px solid #ebeef5;color:#606266"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-table__footer-wrapper tbody td.el-table__cell,.el-table__header-wrapper tbody td.el-table__cell",
+      "declarations": "background-color:#f5f7fa;color:#606266"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-table--striped .el-table__body tr.el-table__row--striped.current-row td.el-table__cell,.el-table--striped .el-table__body tr.el-table__row--striped.selectio",
+      "declarations": "background-color:#ecf5ff"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": "-row>td.el-table__cell,.el-table__body tr.hover-row.el-table__row--striped>td.el-table__cell,.el-table__body tr.hover-row.selection-row>td.el-table__cell,.el-ta",
+      "declarations": "background-color:#f5f7fa"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-table__body tr.current-row>td.el-table__cell,.el-table__body tr.selection-row>td.el-table__cell",
+      "declarations": "background-color:#ecf5ff"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-table--enable-row-hover .el-table__body tr:hover>td.el-table__cell",
+      "declarations": "background-color:#f5f7fa"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-collapse-item.is-disabled .el-collapse-item__header",
+      "declarations": "color:#bbb;cursor:not-allowed"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-collapse-item__header",
+      "declarations": "-webkit-box-align:center;-ms-flex-align:center;align-items:center;background-color:#fff;border-bottom:1px solid #ebeef5;color:#303133;cursor:pointer;display:-webkit-box;display:-ms-flexbox;display:flex;font-size:13px;font-weight:500;height:48px;line-height:48px;outline:0;-webkit-transition:border-bottom-color .3s;transition:border-bottom-color .3s"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-collapse-item__header.focusing:focus:not(:hover)",
+      "declarations": "color:#409eff"
+    },
+    {
+      "source": "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+      "selector": ".el-collapse-item__header.is-active",
+      "declarations": "border-bottom-color:transparent"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "AKASO | Shape the world as you see it",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css",
+        "https://akasotech.com/_nuxt/pages/index.1.0.0.f2cb56fa29c2ae70962b.css"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+      ]
+    },
+    "colors.link": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css",
+        "https://akasotech.com/_nuxt/pages/index.1.0.0.f2cb56fa29c2ae70962b.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css"
+      ]
+    },
+    "colors.warm-surface": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css",
+        "https://akasotech.com/_nuxt/pages/index.1.0.0.f2cb56fa29c2ae70962b.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css",
+        "https://akasotech.com/_nuxt/app.1.0.0.338e520b4a3aa5a98f78.css",
+        "https://akasotech.com/_nuxt/pages/index.1.0.0.f2cb56fa29c2ae70962b.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://akasotech.com/_nuxt/vendor.1.0.0.f8c5c822a271e5f1e3a4.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-table": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Grindhouse Releasing
-description: The brand’s identity is forged from a single, unapologetic voltage: #ff4500, a scorching orange-red that screams from every primary button, badge, and accent element against a battlefield of near-black (#1e1f26) and concrete gray (#444444). This is not a clean white canvas — it’s a grimy, high-contrast arena where #ff4500 acts as the blood-spatter, the neon sign, the single splash of color in a monochrome grindhouse trailer. The typography, set in Source Serif Pro, carries a scholarly weight that feels deliberately out of place — a serious serif for a catalog of cult, horror, and exploitation films, as if Criterion Collection had a fever dream about a 42nd Street grindhouse. Cards and buttons use sharp, minimal rounding ({rounded.sm}), refusing the friendly pill shapes of mainstream commerce; the only softness comes from the occasional #eeeeee surface that breaks up the oppressive dark. The extracted palette is a chaotic mess of social-media blues, payment-widget greens, and stock-image pinks — a digital patina that obscures a simpler, more brutal truth: this site runs on black, white, and that one incendiary orange.
+name: "Grindhouse Releasing"
+source_url: "https://grindhousereleasing.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The brand’s identity is forged from a single, unapologetic voltage: #ff4500, a scorching orange-red that screams from every primary button, badge, and accent element against a battlefield of near-black (#1e1f26) and concrete gray (#444444). This is not a clean white canvas — it’s a grimy, high-contrast arena where #ff4500 acts as the blood-spatter, the neon sign, the single splash of color in a monochrome grindhouse trailer. The typography, set in Source Serif Pro, carries a scholarly weight that feels deliberately out of place — a serious serif for a catalog of cult, horror, and exploitation films, as if Criterion Collection had a fever dream about a 42nd Street grindhouse. Cards and buttons use sharp, minimal rounding ({rounded.sm}), refusing the friendly pill shapes of mainstream commerce; the only softness comes from the occasional #eeeeee surface that breaks up the oppressive dark. The extracted palette is a chaotic mess of social-media blues, payment-widget greens, and stock-image pinks — a digital patina that obscures a simpler, more brutal truth: this site runs on black, white, and that one incendiary orange.
 
 colors:
   primary: "#ff4500"
@@ -281,6 +285,8 @@ components:
 - Category tag strip becomes horizontally scrollable with hidden overflow
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted color palette is heavily polluted with third-party widget colors (Shopify Pay blue #4280ff, Klarna pink #f00075, Afterpay teal #02e49b, social media blues #0757fe, #0a7aff, #5865f2, etc.). The true brand palette is likely much smaller — black, white, orange, and one or two accent colors. The `primary` choice of #ff4500 is an educated guess based on its distinctiveness and frequency in the list.
 - No hover, focus, or active states could be reliably extracted beyond the primary button.

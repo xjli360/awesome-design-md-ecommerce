@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Aarke
-description: |
+name: "Aarke"
+source_url: "https://www.aarke.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Stainless-steel cylinders, precision-milled nozzles, and a website that feels like holding cold metal — Aarke's digital presence strips away everything that isn't the object itself. The palette is near-monochromatic: a deep charcoal ink (`#1a1a1a`) dominates headlines and navigation, while the canvas stays a pure white (`#ffffff`) so product photography — always shot on seamless white or soft gray — floats without distraction. The single accent, a warm brass-gold (`#b8964e`), appears only at inflection points: the "Add to Cart" button, limited-edition badges, and hover states on hero CTAs. Typography leans on a tight geometric sans-serif stack at moderate weights — display headings land around 44–56px in weight 500, never bold enough to compete with the product silhouettes. Body copy sits at a comfortable 16px/1.6, generous line-height reflecting the same air the industrial design demands. Corner radii are almost nonexistent: buttons carry a bare `{rounded.xs}` 4px, cards hold `{rounded.sm}` 8px, and nothing on the page reaches pill territory. Spacing is architectural — `{spacing.section}` (80px) separates content blocks, giving each product hero room to breathe like a gallery pedestal. Navigation is a single horizontal bar, text-only, no icons, collapsing to a minimal hamburger on mobile. Product cards are borderless rectangles relying on shadow and whitespace for separation. The entire system communicates through absence: no gradients, no patterns, no illustrated flourishes — just steel, glass, and the negative space between them.
 
 colors:
@@ -415,6 +418,8 @@ components:
 - Announcement bar text truncates with ellipsis on narrow screens, never wraps to two lines
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No hex colors were extractable from the live site — palette above is based on widely-documented Aarke brand materials and public photography; actual CSS custom properties may differ
 - No font-family stacks were extractable — the site likely loads fonts via JavaScript or uses a custom typeface behind anti-bot protection; Helvetica Neue is used as a documented fallback consistent with Scandinavian design brands

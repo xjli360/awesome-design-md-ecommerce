@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: PanzerGlass
-description: A protective-glass and accessory brand that operates in a world of high-contrast extremes — #121212 ink against #dedede silver-gray, with no color gradient to soften the statement. The brand’s visual language is industrial and precise: every product shot is a studio-lit object study, every CTA is a solid dark rectangle, and the only decorative flourish is the subtle sheen of the glass itself. The typography runs Acumin Pro and Acumin Pro Extra Condensed, a sans-serif family that feels equally at home on a military spec sheet and a tech unboxing video. Buttons are hard-cornered rectangles (`{rounded.none}`) with tight padding, echoing the cut edges of a screen protector. The navigation bar is a full-bleed dark strip (`{colors.ink}`) with white text — no hamburger, no transparency, no ambiguity. Product cards use a `{rounded.sm}` corner that suggests a chamfered edge rather than a friendly pill. The overall mood is one of engineered certainty: this is a brand that sells protection, not aspiration, and every pixel is calibrated to communicate durability, precision, and no-nonsense utility. The extracted palette is deliberately sparse — two colors, one type family, no pastels, no gradients — and that restraint is itself the brand signature.
+name: "PanzerGlass"
+source_url: "https://www.panzerglass.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A protective-glass and accessory brand that operates in a world of high-contrast extremes — #121212 ink against #dedede silver-gray, with no color gradient to soften the statement. The brand’s visual language is industrial and precise: every product shot is a studio-lit object study, every CTA is a solid dark rectangle, and the only decorative flourish is the subtle sheen of the glass itself. The typography runs Acumin Pro and Acumin Pro Extra Condensed, a sans-serif family that feels equally at home on a military spec sheet and a tech unboxing video. Buttons are hard-cornered rectangles (`{rounded.none}`) with tight padding, echoing the cut edges of a screen protector. The navigation bar is a full-bleed dark strip (`{colors.ink}`) with white text — no hamburger, no transparency, no ambiguity. Product cards use a `{rounded.sm}` corner that suggests a chamfered edge rather than a friendly pill. The overall mood is one of engineered certainty: this is a brand that sells protection, not aspiration, and every pixel is calibrated to communicate durability, precision, and no-nonsense utility. The extracted palette is deliberately sparse — two colors, one type family, no pastels, no gradients — and that restraint is itself the brand signature.
 
 colors:
   primary: "#121212"
@@ -340,6 +344,8 @@ components:
 - Product description and specs collapse into accordion sections on mobile and tablet.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted color palette is extremely sparse (#dedede and #121212 only), which may indicate the brand uses primarily product photography for visual interest rather than a broad color system. The `{colors.badge-sale}` red (#cc0000) is inferred from common e-commerce patterns and may not match the brand's actual sale indicator color.
 - No hover or focus state colors could be extracted beyond the primary button's active state. The `{colors.primary-active}` (#000000) is inferred as a logical darkening of `{colors.primary}` (#121212).

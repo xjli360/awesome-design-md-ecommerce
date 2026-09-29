@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Infantino
-description: ArcherPro Medium — a slab serif that normally lives in magazine mastheads and editorial contexts — shows up as Infantino's foundational typeface, an unusual choice for a baby product brand and the source of its warmest quality. The site's palette hinges on a vivid red-orange (#e94125) as the single high-voltage CTA color, paired with two closely tuned teals that serve separate semantic roles: #4dacaa handles category accents, badge fills, and hover surfaces, while #00afab — perceptibly deeper — takes interactive focus states and link emphasis. A warm brown-tan (#7c6a55) functions as the tertiary: earthier than a neutral gray, it anchors lifestyle photography, secondary labels, and the occasional price-adjacent supporting text without announcing itself. Pathout Italic appears at display scale only — hero banners and seasonal campaign headers — where its looping forms supply the playful contrast that ArcherPro's upright slab character cannot.
+name: "Infantino"
+source_url: "https://infantino.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  ArcherPro Medium — a slab serif that normally lives in magazine mastheads and editorial contexts — shows up as Infantino's foundational typeface, an unusual choice for a baby product brand and the source of its warmest quality. The site's palette hinges on a vivid red-orange (#e94125) as the single high-voltage CTA color, paired with two closely tuned teals that serve separate semantic roles: #4dacaa handles category accents, badge fills, and hover surfaces, while #00afab — perceptibly deeper — takes interactive focus states and link emphasis. A warm brown-tan (#7c6a55) functions as the tertiary: earthier than a neutral gray, it anchors lifestyle photography, secondary labels, and the occasional price-adjacent supporting text without announcing itself. Pathout Italic appears at display scale only — hero banners and seasonal campaign headers — where its looping forms supply the playful contrast that ArcherPro's upright slab character cannot.
 
   Rounded geometry signals the brand's approachable, child-safe posture throughout: primary CTAs run pill-shaped ({rounded.full}), product cards use {rounded.md} at their corners, and rectangular sale flags snap to {rounded.xs}. No hard 90-degree angles appear in marketing zones. The background leans toward a warm off-white — #f2f2f2 surfaces behind product grids, #e5e5e5 as hairlines — keeping photography luminous rather than clinical. At 16px with a 1.5 line-height, body text holds legibility for parents parsing ingredient lists and age-safety specs on phones during nighttime feeds; the type scale prioritizes reading conditions over aesthetic sparseness.
 
@@ -335,6 +339,8 @@ components:
 - Award badge and age-badge remain visible on product cards at all breakpoints; promo-banner is the first element hidden on print stylesheets
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only "ArcherPro Medium" was extracted; regular-weight (400) body copy may require a separately loaded ArcherPro Regular cut not confirmed in extraction — body-md fontWeight: 400 is an inference
 - Pathout Italic line-height, exact scale breakpoints, and letterspacing not extractable from live site; values estimated from visual cadence

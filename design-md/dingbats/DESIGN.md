@@ -1,11 +1,15 @@
 ---
 version: alpha
-name: Dingbats*
-description: The asterisk after "Dingbats" isn't typographic whimsy — it marks the brand as something that demands a footnote, a product that earns its environmental claims through granular material disclosure rather than aspirational copy. The design system builds outward from a forest-floor palette: a deep forest teal (#108474) anchors every primary CTA and interactive state, while the canvas itself runs parchment-warm (#f7f5ef), closer to the first blank page of a new notebook than to clinical digital white. Lime (#adcd62) and golden yellow (#fbcd0a) read as cover-colour echoes — the same naturalistic pigments found in the physical product lineup reappear as accent tokens for badges, promotional strips, and sale signals, grounding the interface in the objects it sells. Dark forest (#1c3930) steps in for high-contrast display text and full-bleed hero and footer backgrounds, where the mid-tone teal would lose structural weight. A muted lavender (#a89cc8) surfaces occasionally as a tertiary accent, likely corresponding to a cover colourway brought into the UI.
+name: "Dingbats*"
+source_url: "https://www.dingbats-notebooks.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The asterisk after "Dingbats" isn't typographic whimsy — it marks the brand as something that demands a footnote, a product that earns its environmental claims through granular material disclosure rather than aspirational copy. The design system builds outward from a forest-floor palette: a deep forest teal (#108474) anchors every primary CTA and interactive state, while the canvas itself runs parchment-warm (#f7f5ef), closer to the first blank page of a new notebook than to clinical digital white. Lime (#adcd62) and golden yellow (#fbcd0a) read as cover-colour echoes — the same naturalistic pigments found in the physical product lineup reappear as accent tokens for badges, promotional strips, and sale signals, grounding the interface in the objects it sells. Dark forest (#1c3930) steps in for high-contrast display text and full-bleed hero and footer backgrounds, where the mid-tone teal would lose structural weight. A muted lavender (#a89cc8) surfaces occasionally as a tertiary accent, likely corresponding to a cover colourway brought into the UI.
 
-Typography leans on Poppins for display and headline work — a geometric sans that reads sharp without being sterile — with Nunito Sans handling body copy at comfortable reading sizes and generous 1.65 line-height. Both families carry enough warmth to avoid the cold minimalism that would fight the cream canvas. Barlow contributes uppercase label treatments for eco badges and filter chips, where tight tracking at small sizes aids legibility.
+  Typography leans on Poppins for display and headline work — a geometric sans that reads sharp without being sterile — with Nunito Sans handling body copy at comfortable reading sizes and generous 1.65 line-height. Both families carry enough warmth to avoid the cold minimalism that would fight the cream canvas. Barlow contributes uppercase label treatments for eco badges and filter chips, where tight tracking at small sizes aids legibility.
 
-Corners are softly rounded: `{rounded.sm}` (8px) on inputs and buttons, `{rounded.md}` (12px) on product cards, keeping the interface approachable without the pillow-softness that would undercut the brand's precision claims. Spacing follows a 4px base grid with generous section padding (64px) letting photography and cover colour breathe. Elevation is handled by hairline borders and surface-tint layering — no drop-shadow theatrics. The overall register is calm, unhurried, and oriented toward the physical world; the UI is a shop window, not a destination.
+  Corners are softly rounded: `{rounded.sm}` (8px) on inputs and buttons, `{rounded.md}` (12px) on product cards, keeping the interface approachable without the pillow-softness that would undercut the brand's precision claims. Spacing follows a 4px base grid with generous section padding (64px) letting photography and cover colour breathe. Elevation is handled by hairline borders and surface-tint layering — no drop-shadow theatrics. The overall register is calm, unhurried, and oriented toward the physical world; the UI is a shop window, not a destination.
 
 colors:
   primary: "#108474"
@@ -354,6 +358,8 @@ components:
 - Cover swatch rows truncate beyond six swatches with a "+N more" text link in caption style
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Font weights not confirmed from CSS extraction — Poppins and Nunito Sans roles are identified but specific weight assignments (400/600/700) are inferred from common DTC stationery conventions, not extracted values
 - Barlow appears in the font stack but its exact scope (badge labels, filter chips, or legacy copy) could not be confirmed from available hints; label-upper role is inferred

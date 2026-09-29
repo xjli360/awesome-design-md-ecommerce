@@ -1,0 +1,875 @@
+{
+  "source_url": "https://louloulollipop.com",
+  "final_url": "https://louloulollipop.com/",
+  "captured_at": "2026-09-29T04:02:54.578412+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://louloulollipop.com",
+      "final_url": "https://louloulollipop.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "f8d65453f281384b65b00d76b27b517cc925ac3e8c007787f5805ac1009946bd",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://use.typekit.net/kdi1qif.css",
+      "final_url": "https://use.typekit.net/kdi1qif.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "9b5dc69a953f07c28c52c94d90f0610d7190b780ae09dc20967a49364a8b81e5",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+      "final_url": "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "bdc28a538cb82470b08e6cbc21b1f1ba81c5013ff774fc252a215d19b00ad006",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538",
+      "final_url": "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "86f9d1ed25410040350dc4932ae230d185969dd15aed54a871609d58adf2483c",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://louloulollipop.com/cdn/shop/t/127/assets/animate-on-scroll.css?v=116824741000487223811746558568",
+      "final_url": "https://louloulollipop.com/cdn/shop/t/127/assets/animate-on-scroll.css?v=116824741000487223811746558568",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "331f01fc10802b874051fbddd4c2eb2debc854243d876b23ba3550a234887994",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://louloulollipop.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://louloulollipop.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 16,
+      "sources": [
+        "https://louloulollipop.com/",
+        "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+        "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538",
+        "https://louloulollipop.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#1d1d1d": {
+      "count": 13,
+      "sources": [
+        "https://louloulollipop.com/",
+        "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+        "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538"
+      ]
+    },
+    "#faf9f6": {
+      "count": 6,
+      "sources": [
+        "https://louloulollipop.com/",
+        "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538"
+      ]
+    },
+    "#6a8b95": {
+      "count": 6,
+      "sources": [
+        "https://louloulollipop.com/",
+        "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538"
+      ]
+    },
+    "#d9e1e4": {
+      "count": 5,
+      "sources": [
+        "https://louloulollipop.com/",
+        "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538"
+      ]
+    },
+    "#59757d": {
+      "count": 5,
+      "sources": [
+        "https://louloulollipop.com/",
+        "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538"
+      ]
+    },
+    "#000000": {
+      "count": 5,
+      "sources": [
+        "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668"
+      ]
+    },
+    "#4f676e": {
+      "count": 4,
+      "sources": [
+        "https://louloulollipop.com/"
+      ]
+    },
+    "#db3f30": {
+      "count": 4,
+      "sources": [
+        "https://louloulollipop.com/"
+      ]
+    },
+    "#d1e3e6": {
+      "count": 4,
+      "sources": [
+        "https://louloulollipop.com/",
+        "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 4,
+      "sources": [
+        "https://louloulollipop.com/"
+      ]
+    },
+    "#c3c2c0": {
+      "count": 4,
+      "sources": [
+        "https://louloulollipop.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 4,
+      "sources": [
+        "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+        "https://louloulollipop.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000026": {
+      "count": 4,
+      "sources": [
+        "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+        "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538"
+      ]
+    },
+    "#fbf4f3": {
+      "count": 3,
+      "sources": [
+        "https://louloulollipop.com/",
+        "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538"
+      ]
+    },
+    "#7a8f78": {
+      "count": 3,
+      "sources": [
+        "https://louloulollipop.com/",
+        "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+        "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538"
+      ]
+    },
+    "#78b742": {
+      "count": 3,
+      "sources": [
+        "https://louloulollipop.com/",
+        "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538"
+      ]
+    },
+    "#8ea7af": {
+      "count": 3,
+      "sources": [
+        "https://louloulollipop.com/",
+        "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538"
+      ]
+    },
+    "#80807f": {
+      "count": 3,
+      "sources": [
+        "https://louloulollipop.com/"
+      ]
+    },
+    "#0000001f": {
+      "count": 3,
+      "sources": [
+        "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668"
+      ]
+    },
+    "#0000000d": {
+      "count": 3,
+      "sources": [
+        "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668"
+      ]
+    },
+    "#f0d4d1": {
+      "count": 2,
+      "sources": [
+        "https://louloulollipop.com/",
+        "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538"
+      ]
+    },
+    "#f2b321": {
+      "count": 2,
+      "sources": [
+        "https://louloulollipop.com/",
+        "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538"
+      ]
+    },
+    "#333333": {
+      "count": 2,
+      "sources": [
+        "https://louloulollipop.com/",
+        "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 2,
+      "sources": [
+        "https://louloulollipop.com/",
+        "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668"
+      ]
+    },
+    "#3d3d3d": {
+      "count": 2,
+      "sources": [
+        "https://louloulollipop.com/"
+      ]
+    },
+    "#9f9f9f": {
+      "count": 2,
+      "sources": [
+        "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668"
+      ]
+    },
+    "#0000004d": {
+      "count": 2,
+      "sources": [
+        "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668"
+      ]
+    },
+    "#00000040": {
+      "count": 2,
+      "sources": [
+        "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668"
+      ]
+    },
+    "#c45331": {
+      "count": 2,
+      "sources": [
+        "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+        "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538"
+      ]
+    },
+    "#bad5d9": {
+      "count": 2,
+      "sources": [
+        "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://louloulollipop.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#cf2f22": {
+      "count": 1,
+      "sources": [
+        "https://louloulollipop.com/"
+      ]
+    },
+    "#a85636": {
+      "count": 1,
+      "sources": [
+        "https://louloulollipop.com/"
+      ]
+    },
+    "#566b54": {
+      "count": 1,
+      "sources": [
+        "https://louloulollipop.com/"
+      ]
+    },
+    "#d68161": {
+      "count": 1,
+      "sources": [
+        "https://louloulollipop.com/"
+      ]
+    },
+    "#f2faf0": {
+      "count": 1,
+      "sources": [
+        "https://louloulollipop.com/"
+      ]
+    },
+    "#108043": {
+      "count": 1,
+      "sources": [
+        "https://louloulollipop.com/"
+      ]
+    },
+    "#fcf1cd": {
+      "count": 1,
+      "sources": [
+        "https://louloulollipop.com/"
+      ]
+    },
+    "#dd9a1a": {
+      "count": 1,
+      "sources": [
+        "https://louloulollipop.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 1,
+      "sources": [
+        "https://louloulollipop.com/"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 1,
+      "sources": [
+        "https://louloulollipop.com/"
+      ]
+    },
+    "#c6c7c8": {
+      "count": 1,
+      "sources": [
+        "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668"
+      ]
+    },
+    "#d90000": {
+      "count": 1,
+      "sources": [
+        "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668"
+      ]
+    },
+    "#ffffffb3": {
+      "count": 1,
+      "sources": [
+        "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668"
+      ]
+    },
+    "#fdfdfa": {
+      "count": 1,
+      "sources": [
+        "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668"
+      ]
+    },
+    "#26262c": {
+      "count": 1,
+      "sources": [
+        "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668"
+      ]
+    },
+    "#b3c3c9": {
+      "count": 1,
+      "sources": [
+        "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538"
+      ]
+    },
+    "#f4d8ca": {
+      "count": 1,
+      "sources": [
+        "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538"
+      ]
+    },
+    "#d03528": {
+      "count": 1,
+      "sources": [
+        "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538"
+      ]
+    },
+    "#6e6e6e": {
+      "count": 1,
+      "sources": [
+        "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538"
+      ]
+    },
+    "#3e5960": {
+      "count": 1,
+      "sources": [
+        "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538"
+      ]
+    },
+    "#1d1d1d1f": {
+      "count": 1,
+      "sources": [
+        "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538"
+      ]
+    },
+    "#1d1d1d33": {
+      "count": 1,
+      "sources": [
+        "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538"
+      ]
+    },
+    "#1d1d1d4d": {
+      "count": 1,
+      "sources": [
+        "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://louloulollipop.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://louloulollipop.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://louloulollipop.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://louloulollipop.com/"
+    ],
+    "Apple Color Emoji": [
+      "https://louloulollipop.com/"
+    ],
+    "Arial": [
+      "https://louloulollipop.com/"
+    ],
+    "Avenir Next": [
+      "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538"
+    ],
+    "Helvetica Neue": [
+      "https://louloulollipop.com/"
+    ],
+    "Liberation Sans": [
+      "https://louloulollipop.com/"
+    ],
+    "Noto Color Emoji": [
+      "https://louloulollipop.com/"
+    ],
+    "Noto Sans": [
+      "https://louloulollipop.com/"
+    ],
+    "Roboto": [
+      "https://louloulollipop.com/"
+    ],
+    "Segoe UI": [
+      "https://louloulollipop.com/"
+    ],
+    "Segoe UI Emoji": [
+      "https://louloulollipop.com/"
+    ],
+    "Segoe UI Symbol": [
+      "https://louloulollipop.com/"
+    ],
+    "avenir-next-lt-pro": [
+      "https://louloulollipop.com/",
+      "https://use.typekit.net/kdi1qif.css"
+    ],
+    "sans-serif": [
+      "https://louloulollipop.com/",
+      "https://use.typekit.net/kdi1qif.css"
+    ],
+    "sofia-pro": [
+      "https://louloulollipop.com/",
+      "https://use.typekit.net/kdi1qif.css"
+    ],
+    "system_ui": [
+      "https://louloulollipop.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://louloulollipop.com/",
+      "selector": ":root",
+      "declarations": "--product-label-overlay-reduction-bg: #cf2f22 !important;\n    --product-label-overlay-stock-text:   #1d1d1d !important;\n    --product-label-overlay-new-bg:       #a85636 !important;\n    --product-label-overlay-meta-bg:      #566b54 !important;"
+    },
+    {
+      "source": "https://louloulollipop.com/",
+      "selector": ":root",
+      "declarations": "--ethos-primary-button-bg: #59757D;\n    --ethos-primary-button-text: #FFFFFF;\n    --ethos-secondary-button-bg: #59757D;\n    --ethos-secondary-button-text: #FFFFFF;"
+    },
+    {
+      "source": "https://louloulollipop.com/",
+      "selector": "body #insta-feed",
+      "declarations": "margin-bottom: 0px!important;\n          \n\n          \n\n          \n\n          \n            color: #1d1d1d;"
+    },
+    {
+      "source": "https://louloulollipop.com/",
+      "selector": "body #insta-feed h2",
+      "declarations": "color: #1d1d1d;\n        \n        \n         text-align: center;"
+    },
+    {
+      "source": "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+      "selector": ":root",
+      "declarations": "--gutter: var(--gutter-mobile);--container-pad-x: 16px;--carousel-edge: 40px;--theme-sticky-header-height: 0px;--space-unit: 4px"
+    },
+    {
+      "source": "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+      "selector": ":root",
+      "declarations": "--gutter: var(--gutter-desktop);--container-pad-x: 30px"
+    },
+    {
+      "source": "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+      "selector": ":root",
+      "declarations": "--container-pad-x: 50px"
+    },
+    {
+      "source": "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+      "selector": ":root",
+      "declarations": "--gutter: var(--gutter-large)"
+    },
+    {
+      "source": "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+      "selector": ":root",
+      "declarations": "--container-pad-x: 60px"
+    },
+    {
+      "source": "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+      "selector": "button",
+      "declarations": "margin:0;padding:0;border:0;background:transparent;color:inherit;font-family:inherit;font-size:inherit;font-weight:inherit;line-height:inherit;cursor:pointer"
+    },
+    {
+      "source": "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+      "selector": ".btn,.custom-html .signup-button_lcButton__E2b7h",
+      "declarations": "display:inline-block;height:auto;margin:0;padding:var(--input-btn-padding-top) 1.5rem var(--input-btn-padding-bottom);transition:background-color .1s,color .1s,border-color .1s,opacity .1s;border:1.5px solid var(--btn-border-color);border-radius:var(--btn-border-radius);background:var(--btn-bg-color);color:rgb(var(--btn-text-color));font-family:var(--base-font-family);font-size:var(--button-text-size);font-style:var(--base-font-style);font-weight:var(--base-font-weight);letter-spacing:var(--btn-letter-spacing);line-height:1em;text-align:center;text-decoration:none!important;text-transform:var(--btn-text-transform);vertical-align:middle;cursor:pointer;-webkit-tap-highlight-color:transparent"
+    },
+    {
+      "source": "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+      "selector": ".btn:active",
+      "declarations": "border-color:rgb(var(--btn-border-hover-color));background:rgb(var(--btn-bg-hover-color));color:rgb(var(--btn-text-hover-color))"
+    },
+    {
+      "source": "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+      "selector": ".btn:hover",
+      "declarations": "border-color:rgb(var(--btn-border-hover-color));background:rgb(var(--btn-bg-hover-color));color:rgb(var(--btn-text-hover-color))"
+    },
+    {
+      "source": "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+      "selector": ".btn--secondary",
+      "declarations": "--btn-text-color: var(--btn-alt-text-color);--btn-text-hover-color: var(--btn-alt-text-color);--btn-bg-color: var(--btn-alt-bg-color);--btn-bg-hover-color: var(--btn_alt_text_hover);--btn-border-hover-color: var(--btn-alt-border-hover-color)"
+    },
+    {
+      "source": "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+      "selector": ".btn--tertiary",
+      "declarations": "--btn-text-color: var(--btn-ter-text-color);--btn-text-hover-color: var(--btn-ter-text-hover-color);--btn-bg-color: var(--btn-ter-bg-color);--btn-bg-hover-color: var(--btn-ter-bg-hover-color);--btn-border-color: var(--btn-ter-bg-color);--btn-border-hover-color: var(--btn-ter-bg-hover-color);padding:.9em 20px"
+    },
+    {
+      "source": "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+      "selector": "shop-login-button",
+      "declarations": "--buttons-radius: var(--btn-border-radius)"
+    },
+    {
+      "source": "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+      "selector": ":root",
+      "declarations": "--icon-size: 24px"
+    },
+    {
+      "source": "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+      "selector": ".height--full-ignore-header-height",
+      "declarations": "--image-height: 100vh"
+    },
+    {
+      "source": "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+      "selector": "body",
+      "declarations": "font-family:var(--base-font-family);font-style:var(--base-font-style);font-weight:var(--base-font-weight)"
+    },
+    {
+      "source": "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+      "selector": "h1,.h1,h2,h3,h4,h5,h6,.heading-font",
+      "declarations": "font-family:var(--heading-font-family);font-style:var(--heading-font-style);font-weight:var(--heading-font-weight);letter-spacing:var(--heading-font-letter-spacing)"
+    },
+    {
+      "source": "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+      "selector": ".pageheader .logotext,#shoplogo .logotext",
+      "declarations": "font-family:var(--logo-font-family);font-style:var(--logo-font-style);font-weight:var(--logo-font-weight)"
+    },
+    {
+      "source": "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+      "selector": "h1,.h1,h2,h3,h4,h5,h6,.heading-font",
+      "declarations": "margin-bottom:10px;color:rgb(var(--heading-color));line-height:1.2"
+    },
+    {
+      "source": "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+      "selector": "h1 a,h2 a,h3 a,h4 a,h5 a,h6 a",
+      "declarations": "color:inherit;text-decoration:none"
+    },
+    {
+      "source": "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+      "selector": ":root",
+      "declarations": "--font-scale: calc((var(--larger-text-size) - var(--base-text-size)) * .16)"
+    },
+    {
+      "source": "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+      "selector": ":root",
+      "declarations": "--font-scale: calc((var(--larger-mobile-text-size) - var(--base-text-size)) * .16)"
+    },
+    {
+      "source": "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+      "selector": ".underline,.product-policies a,.underline-child a",
+      "declarations": "text-decoration:underline;text-underline-offset:2px;text-decoration-color:rgb(var(--link-color)/.4);text-decoration-thickness:1px"
+    },
+    {
+      "source": "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+      "selector": ".underline:hover,.product-policies a:hover,.underline-child a:hover",
+      "declarations": "text-decoration-color:currentColor"
+    },
+    {
+      "source": "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+      "selector": ".announcement-bar__announcement-controller .announcement-button",
+      "declarations": "background:var(--bg-color);color:inherit"
+    },
+    {
+      "source": "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+      "selector": ".pageheader",
+      "declarations": "--link-color: var(--header-text-col);position:relative;z-index:4000;transition:background-color 175ms ease-in;background:var(--header-bg-col);color:var(--header-text-col)"
+    },
+    {
+      "source": "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+      "selector": ".js .section-header:not(.section-header--nav-hover):not(.section-header--nav-open) .pageheader--transparent .logo-area",
+      "declarations": "border-color:transparent;color:var(--transparent-header-text-color)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "LOULOU LOLLIPOP - US | Designed to Love, Made for Joy – LOULOU LOLLIPOP US",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://louloulollipop.com/",
+        "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://louloulollipop.com/",
+        "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+        "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://louloulollipop.com/",
+        "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+        "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538",
+        "https://louloulollipop.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://louloulollipop.com/",
+        "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://louloulollipop.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://louloulollipop.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://louloulollipop.com/",
+        "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://louloulollipop.com/",
+        "https://louloulollipop.com/cdn/shop/t/127/assets/main.css?v=18344224271461876011789673668",
+        "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538",
+        "https://louloulollipop.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-sale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://louloulollipop.com/"
+      ]
+    },
+    "colors.accent-new": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://louloulollipop.com/"
+      ]
+    },
+    "colors.accent-meta": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://louloulollipop.com/"
+      ]
+    },
+    "colors.sage-tint": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://louloulollipop.com/",
+        "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538"
+      ]
+    },
+    "colors.sage-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://louloulollipop.com/",
+        "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538"
+      ]
+    },
+    "colors.gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://louloulollipop.com/",
+        "https://louloulollipop.com/cdn/shop/t/127/assets/design-system.css?v=34814982529796002531790275538"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://louloulollipop.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.swatch-selector": {
+      "status": "inferred"
+    }
+  }
+}

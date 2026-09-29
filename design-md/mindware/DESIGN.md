@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: MindWare
-description: A vivid, curiosity-driven educational brand that uses a saturated orange (#c74c00) as its primary voltage — not as a playful accent but as the structural anchor for CTAs, navigation highlights, and category badges, giving the entire site the energy of a freshly sharpened pencil and a blank challenge. The palette is unusually broad for a toy retailer: alongside the core orange sit a cool teal (#1f9cd8), a zingy lime (#80b800), a warm pink (#ee5f9e), and a deep marigold (#fac300), creating a color system that feels less like a brand guideline and more like a box of 64 crayons where every color has a job. The canvas is near-white (#eef9fd), a barely-there ice blue that keeps the page from feeling sterile, while ink (#181818) and body (#221f1f) provide dense, readable contrast. Typography runs on Roboto and Roboto Condensed — the condensed weight used for tight category labels and price tags, the standard weight for body copy — giving the system a clean, slightly technical feel that signals "learning tool" rather than "flashy toy." Buttons use full-height fills with `{rounded.sm}` corners, and the search bar sits in a pill-shaped container (`{rounded.full}`) with a bold orange outline. The overall mood is one of cheerful precision: every color has a reason, every corner is deliberate, and the white space is generous enough to let the product photography — often showing children mid-discovery — do the emotional work.
+name: "MindWare"
+source_url: "https://www.mindware.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A vivid, curiosity-driven educational brand that uses a saturated orange (#c74c00) as its primary voltage — not as a playful accent but as the structural anchor for CTAs, navigation highlights, and category badges, giving the entire site the energy of a freshly sharpened pencil and a blank challenge. The palette is unusually broad for a toy retailer: alongside the core orange sit a cool teal (#1f9cd8), a zingy lime (#80b800), a warm pink (#ee5f9e), and a deep marigold (#fac300), creating a color system that feels less like a brand guideline and more like a box of 64 crayons where every color has a job. The canvas is near-white (#eef9fd), a barely-there ice blue that keeps the page from feeling sterile, while ink (#181818) and body (#221f1f) provide dense, readable contrast. Typography runs on Roboto and Roboto Condensed — the condensed weight used for tight category labels and price tags, the standard weight for body copy — giving the system a clean, slightly technical feel that signals "learning tool" rather than "flashy toy." Buttons use full-height fills with `{rounded.sm}` corners, and the search bar sits in a pill-shaped container (`{rounded.full}`) with a bold orange outline. The overall mood is one of cheerful precision: every color has a reason, every corner is deliberate, and the white space is generous enough to let the product photography — often showing children mid-discovery — do the emotional work.
 
 colors:
   primary: "#c74c00"
@@ -423,6 +427,8 @@ components:
 - Product cards switch from a grid to a single-column list on mobile, with larger images and full-width text.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted hex colors include several that may be checkout-widget colors (e.g., #0073b2, #fa6f22) or social-icon defaults. The brand's true primary (#c74c00) was identified as the most distinctive and frequently used accent, but secondary accent usage (teal, lime, pink) was inferred from the extracted palette and may not reflect the exact brand hierarchy.
 - Font-family declarations were limited to system fonts (Arial, Helvetica, Roboto) — no custom brand font was detected. The site may use a web font that wasn't captured in the extraction.

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: ezpz
-description: A sage-and-coral feeding universe where #aaccaa — a soft, botanical green — sets the emotional temperature, not as an accent but as the dominant atmospheric color across page backgrounds, product photography backdrops, and the brand's signature silicone placemats. The palette is deliberately muted and non-stimulating: #73bec4 (a dusty teal that doubles as the browser chrome's theme-color), #fb8077 (a warm coral used sparingly for CTAs and sale badges), and a full spectrum of warm grays from #f6f6f6 canvas through #494949 body text to #121212 for deep ink. The brand trusts DM Sans at modest weights (400–600) and generous leading (1.5–1.6) to keep the reading experience calm and accessible for exhausted parents. Every product image sits on a clean white or sage ground with no hard shadows — the silicone mats and bowls are photographed flat, head-on, as if laid out on a nursery table. Buttons use {rounded.full} pill shapes in either primary teal or coral, with 48px minimum height for easy tapping by sticky toddler fingers. The navigation is a single-row affair with a centered logo, a search icon, and a cart badge — no mega-menus, no category dropdowns, just the brand's four product families as text links in {colors.muted-soft} #777777. The checkout flow inherits Shopify's default widget chrome, which introduces a slight visual break from the brand's soft palette, but the product pages themselves maintain a consistent 12px grid with 24px gutters and generous 64px section spacing that gives each product room to breathe.
+name: "ezpz"
+source_url: "https://ezpzfun.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A sage-and-coral feeding universe where #aaccaa — a soft, botanical green — sets the emotional temperature, not as an accent but as the dominant atmospheric color across page backgrounds, product photography backdrops, and the brand's signature silicone placemats. The palette is deliberately muted and non-stimulating: #73bec4 (a dusty teal that doubles as the browser chrome's theme-color), #fb8077 (a warm coral used sparingly for CTAs and sale badges), and a full spectrum of warm grays from #f6f6f6 canvas through #494949 body text to #121212 for deep ink. The brand trusts DM Sans at modest weights (400–600) and generous leading (1.5–1.6) to keep the reading experience calm and accessible for exhausted parents. Every product image sits on a clean white or sage ground with no hard shadows — the silicone mats and bowls are photographed flat, head-on, as if laid out on a nursery table. Buttons use {rounded.full} pill shapes in either primary teal or coral, with 48px minimum height for easy tapping by sticky toddler fingers. The navigation is a single-row affair with a centered logo, a search icon, and a cart badge — no mega-menus, no category dropdowns, just the brand's four product families as text links in {colors.muted-soft} #777777. The checkout flow inherits Shopify's default widget chrome, which introduces a slight visual break from the brand's soft palette, but the product pages themselves maintain a consistent 12px grid with 24px gutters and generous 64px section spacing that gives each product room to breathe.
 
 colors:
   primary: "#73bec4"
@@ -296,6 +300,8 @@ components:
 - Search: expands to full-width overlay on mobile; remains a compact icon on desktop
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Extracted hex colors include Shopify checkout widget defaults (e.g., payment button blues) that could not be reliably separated from brand colors — the palette above represents best-effort filtering
 - Font-family declarations were extracted as raw CSS values including `!important` overrides; DM Sans appears to be the primary brand typeface but Arial and Helvetica are listed as fallbacks

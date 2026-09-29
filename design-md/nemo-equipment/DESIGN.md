@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Nemo Equipment
-description: An olive-drab #424336 anchors Nemo Equipment’s digital storefront — the same hue as a rainfly at dusk — and it appears as the browser chrome’s theme-color, the primary button fill, and the footer’s full-bleed band, creating a continuous outdoor-light boundary around the shopping experience. Against that military-olive ground, a sharp marigold #c4c117 acts as the brand’s voltage: it powers sale badges, star-ratings on product tiles, and the “Add to Cart” CTA’s hover state, a color borrowed from the high-visibility zipper pulls and stuff-sack drawcords on actual Nemo tents. The palette is deliberately earthen — #907458 (saddle leather), #94745c (bark), #d6a73e (dried grass), #68695d (lichen) — and the canvas is a warm off-white #f2f1ee rather than pure #ffffff, as if the whole interface were printed on recycled paper. Typography runs a mix of Oakes (a clean, modern sans with moderate contrast) for display headlines and Sofia Pro for body copy, both at modest weights (400–600) — the brand trusts its product photography (tents pitched against granite, sleeping bags in alpine meadows) over typographic drama. Buttons are softly rectangular at {rounded.sm} (8px), while product cards use {rounded.md} (12px) and the search bar takes a pill shape at {rounded.full}. The top nav is compact at 64px, with a sticky header that collapses on scroll, and the footer is a dense information hub in #424336 with white text. Every component feels built for the trailhead: durable, legible, and unpretentious.
+name: "Nemo Equipment"
+source_url: "https://www.nemoequipment.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  An olive-drab #424336 anchors Nemo Equipment’s digital storefront — the same hue as a rainfly at dusk — and it appears as the browser chrome’s theme-color, the primary button fill, and the footer’s full-bleed band, creating a continuous outdoor-light boundary around the shopping experience. Against that military-olive ground, a sharp marigold #c4c117 acts as the brand’s voltage: it powers sale badges, star-ratings on product tiles, and the “Add to Cart” CTA’s hover state, a color borrowed from the high-visibility zipper pulls and stuff-sack drawcords on actual Nemo tents. The palette is deliberately earthen — #907458 (saddle leather), #94745c (bark), #d6a73e (dried grass), #68695d (lichen) — and the canvas is a warm off-white #f2f1ee rather than pure #ffffff, as if the whole interface were printed on recycled paper. Typography runs a mix of Oakes (a clean, modern sans with moderate contrast) for display headlines and Sofia Pro for body copy, both at modest weights (400–600) — the brand trusts its product photography (tents pitched against granite, sleeping bags in alpine meadows) over typographic drama. Buttons are softly rectangular at {rounded.sm} (8px), while product cards use {rounded.md} (12px) and the search bar takes a pill shape at {rounded.full}. The top nav is compact at 64px, with a sticky header that collapses on scroll, and the footer is a dense information hub in #424336 with white text. Every component feels built for the trailhead: durable, legible, and unpretentious.
 
 colors:
   primary: "#424336"
@@ -399,6 +403,8 @@ components:
 - Hero banner text scales down proportionally: 28px on mobile, 32px on tablet, 36px on desktop.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for secondary buttons and filter chips are inferred from common patterns; actual transitions (ease, duration) not extracted.
 - Error styling for forms (red border, error message placement) is a best-guess based on the extracted error hex #c13515; actual validation patterns not observed.

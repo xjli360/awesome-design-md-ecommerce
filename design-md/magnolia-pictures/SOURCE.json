@@ -1,0 +1,917 @@
+{
+  "source_url": "https://www.magpictures.com",
+  "final_url": "https://www.magnoliapictures.com/",
+  "captured_at": "2026-09-29T04:21:44.659242+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://www.magpictures.com",
+      "final_url": "https://www.magnoliapictures.com/",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "8cd605b27383e4b0e5074c9c2fa3dbedc8598129281f32bd7e5ecffc04963f4a",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/slides-bd97de6bd5f5ff9b-min.en-US.css",
+      "final_url": "https://assets.squarespace.com/universal/styles-compressed/slides-bd97de6bd5f5ff9b-min.en-US.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ae3fa22aaa848ba74c2f856858724998437ce73d2814629ff9404a07aa04e7db",
+      "snapshot": "rendered-style-1.css"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/slide-normalize-f3e05d707a08546a77c65-min.en-US.css",
+      "final_url": "https://assets.squarespace.com/universal/styles-compressed/slide-normalize-f3e05d707a08546a77c65-min.en-US.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6c1873397af5694fd5d6be1a2ca30f869b1dd6ed51f7d9398a896e5a45b8b038",
+      "snapshot": "rendered-style-2.css"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/8308d1793f387442-min.en-US.css",
+      "final_url": "https://assets.squarespace.com/universal/styles-compressed/8308d1793f387442-min.en-US.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0ff709d81c238e4bd4205ce9957ffba981b4870ae9d1fa42da5b1b6b69380259",
+      "snapshot": "rendered-style-3.css"
+    },
+    {
+      "url": "https://www.magnoliapictures.com/#computed-style-snapshot",
+      "final_url": "https://www.magnoliapictures.com/#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "d533776523e7f5299befb5b86bfb0d7a811db4baf7ae76006d09cb9e4387ee41",
+      "snapshot": "rendered-style-4.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 236,
+      "sources": [
+        "https://www.magnoliapictures.com/",
+        "https://assets.squarespace.com/universal/styles-compressed/slides-bd97de6bd5f5ff9b-min.en-US.css",
+        "https://www.magnoliapictures.com/#computed-style-snapshot"
+      ]
+    },
+    "#222222": {
+      "count": 83,
+      "sources": [
+        "https://www.magnoliapictures.com/",
+        "https://www.magnoliapictures.com/#computed-style-snapshot"
+      ]
+    },
+    "#000000": {
+      "count": 29,
+      "sources": [
+        "https://www.magnoliapictures.com/",
+        "https://assets.squarespace.com/universal/styles-compressed/slides-bd97de6bd5f5ff9b-min.en-US.css",
+        "https://assets.squarespace.com/universal/styles-compressed/slide-normalize-f3e05d707a08546a77c65-min.en-US.css"
+      ]
+    },
+    "#00b4b3": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#1769ff": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#ea4c89": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#007ee5": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#3b5998": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#0099e5": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#0063dc": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#f94877": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#4183c4": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#382110": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#5adfcb": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#dc4e41": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#7ac143": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#e6b91e": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#e4405f": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#ec4652": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#0976b4": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#00ab6c": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#e0393e": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#cc2127": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#006ed2": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#ff4500": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#7dbb00": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#ff6600": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#84bd00": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#1ea9e1": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#eb4924": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#8c8070": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#35465d": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#6441a5": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#55acee": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#ff0031": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#1ab7ea": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#00b488": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#ae995a": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#c41200": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#e52d27": {
+      "count": 9,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#3e3e3e": {
+      "count": 6,
+      "sources": [
+        "https://www.magnoliapictures.com/",
+        "https://assets.squarespace.com/universal/styles-compressed/slides-bd97de6bd5f5ff9b-min.en-US.css"
+      ]
+    },
+    "#f0523d": {
+      "count": 6,
+      "sources": [
+        "https://www.magnoliapictures.com/",
+        "https://assets.squarespace.com/universal/styles-compressed/slides-bd97de6bd5f5ff9b-min.en-US.css"
+      ]
+    },
+    "#a2a2a2": {
+      "count": 5,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 5,
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/slides-bd97de6bd5f5ff9b-min.en-US.css"
+      ]
+    },
+    "#181818": {
+      "count": 4,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#a3a3a3": {
+      "count": 4,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#999999": {
+      "count": 4,
+      "sources": [
+        "https://www.magnoliapictures.com/",
+        "https://assets.squarespace.com/universal/styles-compressed/slides-bd97de6bd5f5ff9b-min.en-US.css"
+      ]
+    },
+    "#333333": {
+      "count": 3,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#f23d3d": {
+      "count": 3,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#fed9db": {
+      "count": 3,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 3,
+      "sources": [
+        "https://www.magnoliapictures.com/",
+        "https://assets.squarespace.com/universal/styles-compressed/slides-bd97de6bd5f5ff9b-min.en-US.css"
+      ]
+    },
+    "#ebebeb": {
+      "count": 2,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#efefef": {
+      "count": 2,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#444c4c": {
+      "count": 2,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 2,
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/slides-bd97de6bd5f5ff9b-min.en-US.css"
+      ]
+    },
+    "#e4e4e4": {
+      "count": 2,
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/slides-bd97de6bd5f5ff9b-min.en-US.css"
+      ]
+    },
+    "#7f7f7f": {
+      "count": 1,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 1,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#0f0f0f": {
+      "count": 1,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#ccdee9": {
+      "count": 1,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#484848": {
+      "count": 1,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#2a2a2a": {
+      "count": 1,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#ababab": {
+      "count": 1,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#564f4b": {
+      "count": 1,
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "#e4351e": {
+      "count": 1,
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/slides-bd97de6bd5f5ff9b-min.en-US.css"
+      ]
+    },
+    "#cc3b3b": {
+      "count": 1,
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/slides-bd97de6bd5f5ff9b-min.en-US.css"
+      ]
+    },
+    "#fafafa": {
+      "count": 1,
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/slides-bd97de6bd5f5ff9b-min.en-US.css"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 1,
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/slides-bd97de6bd5f5ff9b-min.en-US.css"
+      ]
+    },
+    "#bd0000": {
+      "count": 1,
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/slides-bd97de6bd5f5ff9b-min.en-US.css"
+      ]
+    },
+    "#e99292": {
+      "count": 1,
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/slides-bd97de6bd5f5ff9b-min.en-US.css"
+      ]
+    },
+    "#272727": {
+      "count": 1,
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/slides-bd97de6bd5f5ff9b-min.en-US.css"
+      ]
+    },
+    "#ffff00": {
+      "count": 1,
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/slide-normalize-f3e05d707a08546a77c65-min.en-US.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.magnoliapictures.com/",
+      "https://assets.squarespace.com/universal/styles-compressed/slides-bd97de6bd5f5ff9b-min.en-US.css"
+    ],
+    "Helvetica": [
+      "https://www.magnoliapictures.com/",
+      "https://assets.squarespace.com/universal/styles-compressed/slides-bd97de6bd5f5ff9b-min.en-US.css"
+    ],
+    "Helvetica Neue": [
+      "https://www.magnoliapictures.com/",
+      "https://assets.squarespace.com/universal/styles-compressed/slides-bd97de6bd5f5ff9b-min.en-US.css"
+    ],
+    "Oswald": [
+      "https://www.magnoliapictures.com/"
+    ],
+    "freight-sans-pro": [
+      "https://www.magnoliapictures.com/"
+    ],
+    "futura-pt": [
+      "https://www.magnoliapictures.com/"
+    ],
+    "helvetica": [
+      "https://www.magnoliapictures.com/"
+    ],
+    "monospace": [
+      "https://assets.squarespace.com/universal/styles-compressed/slide-normalize-f3e05d707a08546a77c65-min.en-US.css"
+    ],
+    "proxima-nova": [
+      "https://www.magnoliapictures.com/",
+      "https://www.magnoliapictures.com/#computed-style-snapshot"
+    ],
+    "sans-serif": [
+      "https://www.magnoliapictures.com/",
+      "https://assets.squarespace.com/universal/styles-compressed/slides-bd97de6bd5f5ff9b-min.en-US.css",
+      "https://assets.squarespace.com/universal/styles-compressed/slide-normalize-f3e05d707a08546a77c65-min.en-US.css"
+    ],
+    "squarespace-ui-font": [
+      "https://assets.squarespace.com/universal/styles-compressed/slides-bd97de6bd5f5ff9b-min.en-US.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.magnoliapictures.com/",
+      "selector": ".sqs-slide-wrapper[data-slide-type=\"cover-page\"] [data-compound-type=\"logo\"][data-slice-type=\"heading\"] h1",
+      "declarations": "font-family:\"Helvetica Neue\",Arial,sans-serif;font-weight:500;font-size:30px;letter-spacing:2px;text-transform:uppercase;font-weight:400;letter-spacing:.01em;font-size:128px;font-family:Oswald;line-height:1em;font-style:normal;color:#fff"
+    },
+    {
+      "source": "https://www.magnoliapictures.com/",
+      "selector": ".sqs-slide-wrapper[data-slide-type=\"cover-page\"] [data-slice-type=\"heading\"]:not([data-compound-type]) h1#sqs-slash-page-header",
+      "declarations": "font-family:\"Helvetica Neue\",Arial,sans-serif;font-size:130px;font-weight:500;text-transform:none;letter-spacing:-2px;text-transform:uppercase;font-weight:600;letter-spacing:.14em;font-size:22px;font-family:proxima-nova;line-height:1em;font-style:normal;color:#fff"
+    },
+    {
+      "source": "https://www.magnoliapictures.com/",
+      "selector": ".sqs-slide-wrapper[data-slide-type=\"cover-page\"] .body-font",
+      "declarations": "font-family:\"Helvetica Neue\",Arial,sans-serif;font-weight:400;font-style:normal;font-size:26px;line-height:1.3em;text-transform:none;letter-spacing:.5px"
+    },
+    {
+      "source": "https://www.magnoliapictures.com/",
+      "selector": ".sqs-slide-wrapper[data-slide-type=\"cover-page\"] [data-slice-type=\"body\"],.sqs-slide-wrapper[data-slide-type=\"cover-page\"] .sqs-modal-lightbox-content .lightbox",
+      "declarations": "font-family:\"Helvetica Neue\",Arial,sans-serif;font-size:26px;line-height:1.3em;letter-spacing:.5px;text-transform:none;font-weight:400;letter-spacing:.01em;font-size:15px;font-family:proxima-nova;line-height:1.4em;font-style:normal;color:#fff"
+    },
+    {
+      "source": "https://www.magnoliapictures.com/",
+      "selector": "qs-slide-wrapper[data-slide-type=\"cover-page\"] [data-slice-type=\"body\"] p,.sqs-slide-wrapper[data-slide-type=\"cover-page\"] .sqs-modal-lightbox-content .lightbox",
+      "declarations": "font-family:\"Helvetica Neue\",Arial,sans-serif;font-size:26px;line-height:1.3em;letter-spacing:.5px;text-transform:none;font-weight:400;letter-spacing:.01em;font-size:15px;font-family:proxima-nova;line-height:1.4em;font-style:normal;color:#fff"
+    },
+    {
+      "source": "https://www.magnoliapictures.com/",
+      "selector": "a-slide-type=\"cover-page\"] [data-slice-type=\"body\"] p a:visited,.sqs-slide-wrapper[data-slide-type=\"cover-page\"] .sqs-modal-lightbox-content .lightbox-inner .li",
+      "declarations": "color:#fff;text-decoration:none;border-bottom:solid 1px rgba(255,255,255,.2);transition:border-color 170ms ease-in-out"
+    },
+    {
+      "source": "https://www.magnoliapictures.com/",
+      "selector": "[data-slide-type=\"cover-page\"] [data-slice-type=\"body\"] p a:focus,.sqs-slide-wrapper[data-slide-type=\"cover-page\"] .sqs-modal-lightbox-content .lightbox-inner .",
+      "declarations": "color:#fff;border-bottom-color:#fff"
+    },
+    {
+      "source": "https://www.magnoliapictures.com/",
+      "selector": ".sqs-slide-wrapper[data-slide-type=\"cover-page\"] .button-font",
+      "declarations": "font-family:\"Helvetica Neue\",Arial,sans-serif;font-weight:500;font-style:normal;font-size:16px;text-transform:uppercase;letter-spacing:2px"
+    },
+    {
+      "source": "https://www.magnoliapictures.com/",
+      "selector": "-form,.sqs-slide-wrapper[data-slide-type=\"cover-page\"] .form-wrapper input[type=submit],.sqs-slide-wrapper[data-slide-type=\"cover-page\"] [data-compound-type=\"po",
+      "declarations": "font-family:\"Helvetica Neue\",Arial,sans-serif;font-weight:500;font-size:16px;letter-spacing:2px;text-transform:uppercase;font-weight:700;letter-spacing:0em;font-size:12px;font-family:proxima-nova;font-style:normal"
+    },
+    {
+      "source": "https://www.magnoliapictures.com/",
+      "selector": "on-style-solid~.sqs-modal-lightbox .form-wrapper input[type=submit],.sqs-slide-wrapper[data-slide-type=\"cover-page\"] .button-style-solid [data-compound-type=\"po",
+      "declarations": "background:#fff;color:#222;border-style:none"
+    },
+    {
+      "source": "https://www.magnoliapictures.com/",
+      "selector": "tyle-outline~.sqs-modal-lightbox .form-wrapper input[type=submit],.sqs-slide-wrapper[data-slide-type=\"cover-page\"] .button-style-outline [data-compound-type=\"po",
+      "declarations": "background-color:transparent;color:#fff;border:2px solid #fff;transition:color 170ms ease-in-out, border-color 170ms ease-in-out"
+    },
+    {
+      "source": "https://www.magnoliapictures.com/",
+      "selector": "~.sqs-modal-lightbox .form-wrapper input[type=submit]:hover,.sqs-slide-wrapper[data-slide-type=\"cover-page\"] .button-style-outline [data-compound-type=\"popup-ov",
+      "declarations": "color:#181818"
+    },
+    {
+      "source": "https://www.magnoliapictures.com/",
+      "selector": "tyle-outline~.sqs-modal-lightbox .form-wrapper input[type=submit],.sqs-slide-wrapper[data-slide-type=\"cover-page\"] .button-style-outline [data-compound-type=\"po",
+      "declarations": "background-color:transparent"
+    },
+    {
+      "source": "https://www.magnoliapictures.com/",
+      "selector": "~.sqs-modal-lightbox .form-wrapper input[type=submit]:hover,.sqs-slide-wrapper[data-slide-type=\"cover-page\"] .button-style-outline [data-compound-type=\"popup-ov",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://www.magnoliapictures.com/",
+      "selector": "s-modal-lightbox .form-wrapper input[type=submit]:hover a,.sqs-slide-wrapper[data-slide-type=\"cover-page\"] .button-style-outline [data-compound-type=\"popup-over",
+      "declarations": "border-color:transparent;color:#181818"
+    },
+    {
+      "source": "https://www.magnoliapictures.com/",
+      "selector": "-style-raised~.sqs-modal-lightbox .form-wrapper input[type=submit],.sqs-slide-wrapper[data-slide-type=\"cover-page\"] .button-style-raised [data-compound-type=\"po",
+      "declarations": "background-color:#fff;color:#222;border-style:none;box-shadow:0px .2em 0px 0px #ebebeb;transition:background-color 170ms ease-in-out"
+    },
+    {
+      "source": "https://www.magnoliapictures.com/",
+      "selector": "d~.sqs-modal-lightbox .form-wrapper input[type=submit]:hover,.sqs-slide-wrapper[data-slide-type=\"cover-page\"] .button-style-raised [data-compound-type=\"popup-ov",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://www.magnoliapictures.com/",
+      "selector": ".sqs-slide-wrapper[data-slide-type=\"cover-page\"] .video-icon-style-border .sqs-slice-play-button.icon-wrapper:hover",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://www.magnoliapictures.com/",
+      "selector": ".sqs-slide-wrapper[data-slide-type=\"cover-page\"] .tweet-body-font",
+      "declarations": "font-family:\"Helvetica Neue\",Arial,sans-serif;font-size:130px;font-weight:500;font-style:normal;text-transform:none;letter-spacing:-2px;line-height:1em"
+    },
+    {
+      "source": "https://www.magnoliapictures.com/",
+      "selector": ".sqs-slide-wrapper[data-slide-type=\"cover-page\"] [data-slice-type=\"twitter\"]:not([data-compound-type]) .tweet-body",
+      "declarations": "font-family:\"Helvetica Neue\",Arial,sans-serif;text-transform:none;font-weight:500;letter-spacing:-2px;font-size:130px;font-family:futura-pt;line-height:1em;font-style:normal;color:#fff"
+    },
+    {
+      "source": "https://www.magnoliapictures.com/",
+      "selector": "-page\"] [data-slice-type=\"twitter\"]:not([data-compound-type]) .tweet-body a,.sqs-slide-wrapper[data-slide-type=\"cover-page\"] [data-slice-type=\"twitter\"]:not([da",
+      "declarations": "color:#fff;text-decoration:none;border-bottom:solid 1px rgba(255,255,255,.2);transition:border-color 170ms ease-in-out"
+    },
+    {
+      "source": "https://www.magnoliapictures.com/",
+      "selector": "e\"] [data-slice-type=\"twitter\"]:not([data-compound-type]) .tweet-body a:hover,.sqs-slide-wrapper[data-slide-type=\"cover-page\"] [data-slice-type=\"twitter\"]:not([",
+      "declarations": "color:#fff;border-bottom-color:#fff"
+    },
+    {
+      "source": "https://www.magnoliapictures.com/",
+      "selector": "utline .sqs-slice-custom-form a:hover,.sqs-slide-wrapper[data-slide-type=\"cover-page\"] .sqs-slide-container[data-slide-type=\"popup-overlay\"].button-style-outlin",
+      "declarations": "color:#999"
+    },
+    {
+      "source": "https://www.magnoliapictures.com/",
+      "selector": "wrapper[data-slide-type=\"cover-page\"] .sqs-slide-container[data-slide-type=\"popup-overlay\"].overlay-mobile-styles-enabled [data-slice-type=\"heading\"]:not([data-",
+      "declarations": "font-weight:500;letter-spacing:0px;font-size:21px;line-height:1em;font-size:21px !important;color:#000"
+    },
+    {
+      "source": "https://www.magnoliapictures.com/",
+      "selector": ".sqs-slide-wrapper[data-slide-type=\"cover-page\"] .sqs-slide-container[data-slide-type=\"popup-overlay\"].overlay-mobile-styles-enabled [data-slice-type=\"body\"]",
+      "declarations": "font-weight:300;letter-spacing:.5px;font-size:12px;line-height:1.5em;color:#000"
+    },
+    {
+      "source": "https://www.magnoliapictures.com/",
+      "selector": ".sqs-slide-wrapper[data-slide-type=\"cover-page\"] .sqs-slide-container[data-slide-type=\"popup-overlay\"].overlay-mobile-styles-enabled [data-slice-type=\"body\"] p",
+      "declarations": "font-weight:300;letter-spacing:.5px;font-size:12px;line-height:1.5em;color:#000"
+    },
+    {
+      "source": "https://www.magnoliapictures.com/",
+      "selector": "d [data-slice-type=\"body\"] p a,.sqs-slide-wrapper[data-slide-type=\"cover-page\"] .sqs-slide-container[data-slide-type=\"popup-overlay\"].overlay-mobile-styles-enab",
+      "declarations": "color:#000;border-bottom:solid 1px rgba(0,0,0,.2)"
+    },
+    {
+      "source": "https://www.magnoliapictures.com/",
+      "selector": "ata-slice-type=\"body\"] p a:hover,.sqs-slide-wrapper[data-slide-type=\"cover-page\"] .sqs-slide-container[data-slide-type=\"popup-overlay\"].overlay-mobile-styles-en",
+      "declarations": "color:#000;border-bottom-color:#000"
+    },
+    {
+      "source": "https://www.magnoliapictures.com/",
+      "selector": "per[data-slide-type=\"cover-page\"] .sqs-slide-container[data-slide-type=\"popup-overlay\"].overlay-mobile-styles-enabled.button-style-solid [data-compound-type=\"po",
+      "declarations": "background:#222;color:#fff"
+    },
+    {
+      "source": "https://www.magnoliapictures.com/",
+      "selector": "r[data-slide-type=\"cover-page\"] .sqs-slide-container[data-slide-type=\"popup-overlay\"].overlay-mobile-styles-enabled.button-style-outline [data-compound-type=\"po",
+      "declarations": "color:#222;border:2px solid #222"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "Magnolia Pictures | Independent Films | Documentaries | Drama | Action | Horror | Comedy",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "10238b25beadfffe04ad206bc34f6f765587cde9bae0c2ae69dbfbc801e5ed63"
+    }
+  ],
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.magnoliapictures.com/",
+        "https://www.magnoliapictures.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.magnoliapictures.com/",
+        "https://assets.squarespace.com/universal/styles-compressed/slides-bd97de6bd5f5ff9b-min.en-US.css",
+        "https://assets.squarespace.com/universal/styles-compressed/slide-normalize-f3e05d707a08546a77c65-min.en-US.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.magnoliapictures.com/",
+        "https://assets.squarespace.com/universal/styles-compressed/slides-bd97de6bd5f5ff9b-min.en-US.css",
+        "https://www.magnoliapictures.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.magnoliapictures.com/",
+        "https://assets.squarespace.com/universal/styles-compressed/slides-bd97de6bd5f5ff9b-min.en-US.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.magnoliapictures.com/",
+        "https://assets.squarespace.com/universal/styles-compressed/slides-bd97de6bd5f5ff9b-min.en-US.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/slides-bd97de6bd5f5ff9b-min.en-US.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.magnoliapictures.com/",
+        "https://assets.squarespace.com/universal/styles-compressed/slides-bd97de6bd5f5ff9b-min.en-US.css",
+        "https://www.magnoliapictures.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.magnoliapictures.com/",
+        "https://assets.squarespace.com/universal/styles-compressed/slides-bd97de6bd5f5ff9b-min.en-US.css",
+        "https://www.magnoliapictures.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.overlay-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "colors.border-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "colors.shadow-tint": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.magnoliapictures.com/"
+      ]
+    },
+    "colors.disabled": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/slides-bd97de6bd5f5ff9b-min.en-US.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-lg": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.channel-subscribe-card": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,0 +1,815 @@
+{
+  "source_url": "https://elkwoodleather.com",
+  "final_url": "https://elkwoodleather.com/",
+  "captured_at": "2026-09-28T09:32:22.870400+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://elkwoodleather.com",
+      "final_url": "https://elkwoodleather.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "3a8884d3aaceab0c39cf9fb9a9b55c1536298edf1a9a4d6d40a1b4c54f3c0a6f",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://elkwoodleather.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://elkwoodleather.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://elkwoodleather.com/cdn/shop/t/32/assets/base.css?v=120845566834756728821734539640",
+      "final_url": "https://elkwoodleather.com/cdn/shop/t/32/assets/base.css?v=120845566834756728821734539640",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7d26834ac4e3b81798dc2bdf8acfdbb35c4ae7fb73b2fb4b674c4893e7074822",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://elkwoodleather.com/cdn/shop/t/32/assets/component-localization-form.css?v=143319823105703127341734539640",
+      "final_url": "https://elkwoodleather.com/cdn/shop/t/32/assets/component-localization-form.css?v=143319823105703127341734539640",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ac8081b5ed6b740e0643f4c16f9f591181961b09e699a858199be202c2b56017",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "be10bc4b16346e787891f1da5de658505019fcd30172651891a4bf550c948e36",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://elkwoodleather.com/cdn/shop/t/32/assets/component-slideshow.css?v=107725913939919748051734539640",
+      "final_url": "https://elkwoodleather.com/cdn/shop/t/32/assets/component-slideshow.css?v=107725913939919748051734539640",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f41ed876363568c69415aba6a798698c660015e9f51e3538a1ad1148c4e6281a",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#eeeeee": {
+      "count": 32,
+      "sources": [
+        "https://elkwoodleather.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#d0a06d": {
+      "count": 29,
+      "sources": [
+        "https://elkwoodleather.com/"
+      ]
+    },
+    "#ece6d9": {
+      "count": 28,
+      "sources": [
+        "https://elkwoodleather.com/"
+      ]
+    },
+    "#1d1c1a": {
+      "count": 16,
+      "sources": [
+        "https://elkwoodleather.com/"
+      ]
+    },
+    "#55645a": {
+      "count": 12,
+      "sources": [
+        "https://elkwoodleather.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 11,
+      "sources": [
+        "https://elkwoodleather.com/",
+        "https://elkwoodleather.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://elkwoodleather.com/cdn/shop/t/32/assets/base.css?v=120845566834756728821734539640",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#eeeee9": {
+      "count": 9,
+      "sources": [
+        "https://elkwoodleather.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 9,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#d2bb39": {
+      "count": 8,
+      "sources": [
+        "https://elkwoodleather.com/"
+      ]
+    },
+    "#89928a": {
+      "count": 8,
+      "sources": [
+        "https://elkwoodleather.com/"
+      ]
+    },
+    "#b6b7b6": {
+      "count": 8,
+      "sources": [
+        "https://elkwoodleather.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 7,
+      "sources": [
+        "https://elkwoodleather.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#333333": {
+      "count": 7,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#000000": {
+      "count": 6,
+      "sources": [
+        "https://elkwoodleather.com/",
+        "https://elkwoodleather.com/cdn/shop/t/32/assets/base.css?v=120845566834756728821734539640",
+        "https://elkwoodleather.com/cdn/shop/t/32/assets/component-localization-form.css?v=143319823105703127341734539640",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#555555": {
+      "count": 6,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#666666": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#ffffff00": {
+      "count": 3,
+      "sources": [
+        "https://elkwoodleather.com/cdn/shop/t/32/assets/base.css?v=120845566834756728821734539640"
+      ]
+    },
+    "#108474": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#efbf04": {
+      "count": 2,
+      "sources": [
+        "https://elkwoodleather.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://elkwoodleather.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://elkwoodleather.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://elkwoodleather.com/cdn/shop/t/32/assets/base.css?v=120845566834756728821734539640"
+      ]
+    },
+    "#fbcd0a": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#a89cc8": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#c1e6e6": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#7b7b7b": {
+      "count": 1,
+      "sources": [
+        "https://elkwoodleather.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://elkwoodleather.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://elkwoodleather.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://elkwoodleather.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://elkwoodleather.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://elkwoodleather.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://elkwoodleather.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://elkwoodleather.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://elkwoodleather.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://elkwoodleather.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://elkwoodleather.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://elkwoodleather.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000080": {
+      "count": 1,
+      "sources": [
+        "https://elkwoodleather.com/cdn/shop/t/32/assets/base.css?v=120845566834756728821734539640"
+      ]
+    },
+    "#888888": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#ffff00": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#3b5998": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#1da1f2": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#dd4b39": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#e60023": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#0073b1": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#fffb00": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#eaeaea": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#e9eaeb": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#a36710": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#d2920f": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#488282": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#4c8eda": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Baskerville": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Helvetica": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons\" !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons' !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeStar": [
+      "https://elkwoodleather.com/"
+    ],
+    "JudgemeStar' !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Montserrat": [
+      "https://elkwoodleather.com/"
+    ],
+    "Nunito Sans": [
+      "https://elkwoodleather.com/",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "monospace": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "sans-serif": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://elkwoodleather.com/",
+      "selector": ":root,\n        .color-background-1",
+      "declarations": "--color-background: 236,230,217;\n        \n          --gradient-background: #ece6d9;\n        \n\n        \n\n        --color-foreground: 0,0,0;\n        --color-background-contrast: 194,174,132;\n        --color-shadow: 29,28,26;\n        --color-button: 208,160,109;\n        --color-button-text: 29,28,26;\n        --color-secondary-button: 236,230,217;\n        --color-secondary-button-text: 208,160,109;\n        --color-link: 208,160,109;\n        --color-badge-foreground: 0,0,0;\n        --color-badge-background: 236,230,217;\n        --color-badge-border: 0,0,0;\n        --payment-terms-background-color: rgb(236 230 217);"
+    },
+    {
+      "source": "https://elkwoodleather.com/",
+      "selector": "body",
+      "declarations": "display: grid;\n        grid-template-rows: auto auto 1fr auto;\n        grid-template-columns: 100%;\n        min-height: 100%;\n        margin: 0;\n        font-size: 1.5rem;\n        letter-spacing: 0.06rem;\n        line-height: calc(1 + 0.8 / var(--font-body-scale));\n        font-family: var(--font-body-family);\n        font-style: var(--font-body-style);\n        font-weight: var(--font-body-weight);"
+    },
+    {
+      "source": "https://elkwoodleather.com/",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #D2BB39;--jdgm-secondary-color: #EEEEE9;--jdgm-star-color: #EFBF04;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #D2BB39;--jdgm-paginate-color: #D2BB39;--jdgm-border-radius: 0;--jdgm-reviewer-name-color: #D2BB39"
+    },
+    {
+      "source": "https://elkwoodleather.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://elkwoodleather.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://elkwoodleather.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://elkwoodleather.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://elkwoodleather.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://elkwoodleather.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://elkwoodleather.com/cdn/shop/t/32/assets/base.css?v=120845566834756728821734539640",
+      "selector": ":root",
+      "declarations": "--alpha-button-background: 1;--alpha-button-border: 1;--alpha-link: .85;--alpha-badge-border: .1"
+    },
+    {
+      "source": "https://elkwoodleather.com/cdn/shop/t/32/assets/base.css?v=120845566834756728821734539640",
+      "selector": ".product-card-wrapper .card,.contains-card--product",
+      "declarations": "--border-radius: var(--product-card-corner-radius);--border-width: var(--product-card-border-width);--border-opacity: var(--product-card-border-opacity);--shadow-horizontal-offset: var(--product-card-shadow-horizontal-offset);--shadow-vertical-offset: var(--product-card-shadow-vertical-offset);--shadow-blur-radius: var(--product-card-shadow-blur-radius);--shadow-opacity: var(--product-card-shadow-opacity);--shadow-visible: var(--product-card-shadow-visible);--image-padding: var(--product-card-image-padding);--text-alignment: var(--product-card-text-alignment)"
+    },
+    {
+      "source": "https://elkwoodleather.com/cdn/shop/t/32/assets/base.css?v=120845566834756728821734539640",
+      "selector": ".text-body",
+      "declarations": "font-size:1.5rem;letter-spacing:.06rem;line-height:calc(1 + .8 / var(--font-body-scale));font-family:var(--font-body-family);font-style:var(--font-body-style);font-weight:var(--font-body-weight)"
+    },
+    {
+      "source": "https://elkwoodleather.com/cdn/shop/t/32/assets/base.css?v=120845566834756728821734539640",
+      "selector": "h1,h2,h3,h4,h5,.h0,.h1,.h2,.h3,.h4,.h5",
+      "declarations": "font-family:var(--font-heading-family);font-style:var(--font-heading-style);font-weight:var(--font-heading-weight);letter-spacing:calc(var(--font-heading-scale) * .06rem);color:rgb(var(--color-foreground));line-height:calc(1 + .3/max(1,var(--font-heading-scale)));word-break:break-word"
+    },
+    {
+      "source": "https://elkwoodleather.com/cdn/shop/t/32/assets/base.css?v=120845566834756728821734539640",
+      "selector": ":root",
+      "declarations": "--duration-short: .1s;--duration-default: .2s;--duration-announcement-bar: .25s;--duration-medium: .3s;--duration-long: .5s;--duration-extra-long: .6s;--duration-extended: 3s;--ease-out-slow: cubic-bezier(0, 0, .3, 1);--animation-slide-in: slideIn var(--duration-extra-long) var(--ease-out-slow) forwards;--animation-fade-in: fadeIn var(--duration-extra-long) var(--ease-out-slow)"
+    },
+    {
+      "source": "https://elkwoodleather.com/cdn/shop/t/32/assets/base.css?v=120845566834756728821734539640",
+      "selector": ".button--secondary,.button--tertiary",
+      "declarations": "--color-button: var(--color-secondary-button);--color-button-text: var(--color-secondary-button-text)"
+    },
+    {
+      "source": "https://elkwoodleather.com/cdn/shop/t/32/assets/base.css?v=120845566834756728821734539640",
+      "selector": ".button--tertiary",
+      "declarations": "--alpha-button-background: 0;--alpha-button-border: .2"
+    },
+    {
+      "source": "https://elkwoodleather.com/cdn/shop/t/32/assets/base.css?v=120845566834756728821734539640",
+      "selector": "nge__button,.customer button,button.shopify-payment-button__button--unbranded,.shopify-payment-button [role=button],.cart__dynamic-checkout-buttons [role=button",
+      "declarations": "--shadow-horizontal-offset: var(--buttons-shadow-horizontal-offset);--shadow-vertical-offset: var(--buttons-shadow-vertical-offset);--shadow-blur-radius: var(--buttons-shadow-blur-radius);--shadow-opacity: var(--buttons-shadow-opacity);--shadow-visible: var(--buttons-shadow-visible);--border-offset: var(--buttons-border-offset);--border-opacity: calc(1 - var(--buttons-border-opacity));border-radius:var(--buttons-radius-outset);position:relative"
+    },
+    {
+      "source": "https://elkwoodleather.com/cdn/shop/t/32/assets/base.css?v=120845566834756728821734539640",
+      "selector": ".button,.shopify-challenge__button,.customer button",
+      "declarations": "display:inline-flex;justify-content:center;align-items:center;border:0;padding:0 3rem;cursor:pointer;font:inherit;font-size:1.5rem;text-decoration:none;color:rgb(var(--color-button-text));transition:box-shadow var(--duration-short) ease;-webkit-appearance:none;appearance:none;background-color:rgba(var(--color-button),var(--alpha-button-background))"
+    },
+    {
+      "source": "https://elkwoodleather.com/cdn/shop/t/32/assets/base.css?v=120845566834756728821734539640",
+      "selector": ".button:not([disabled]):hover:after,.shopify-challenge__button:hover:after,.customer button:hover:after,.shopify-payment-button__button--unbranded:hover:after",
+      "declarations": "--border-offset: 1.3px;box-shadow:0 0 0 calc(var(--buttons-border-width) + var(--border-offset)) rgba(var(--color-button-text),var(--border-opacity)),0 0 0 calc(var(--buttons-border-width) + 1px) rgba(var(--color-button),var(--alpha-button-background))"
+    },
+    {
+      "source": "https://elkwoodleather.com/cdn/shop/t/32/assets/base.css?v=120845566834756728821734539640",
+      "selector": ".button--secondary:after",
+      "declarations": "--border-opacity: var(--buttons-border-opacity)"
+    },
+    {
+      "source": "https://elkwoodleather.com/cdn/shop/t/32/assets/base.css?v=120845566834756728821734539640",
+      "selector": ".button::selection,.shopify-challenge__button::selection,.customer button::selection",
+      "declarations": "background-color:rgba(var(--color-button-text),.3)"
+    },
+    {
+      "source": "https://elkwoodleather.com/cdn/shop/t/32/assets/base.css?v=120845566834756728821734539640",
+      "selector": ".button.loading",
+      "declarations": "color:transparent;position:relative"
+    },
+    {
+      "source": "https://elkwoodleather.com/cdn/shop/t/32/assets/base.css?v=120845566834756728821734539640",
+      "selector": ".button.loading",
+      "declarations": "color:rgb(var(--color-foreground))"
+    },
+    {
+      "source": "https://elkwoodleather.com/cdn/shop/t/32/assets/base.css?v=120845566834756728821734539640",
+      "selector": ".share-button__button",
+      "declarations": "font-size:1.4rem;display:flex;align-items:center;color:rgb(var(--color-link));margin-left:0;padding-left:0;min-height:4.4rem"
+    },
+    {
+      "source": "https://elkwoodleather.com/cdn/shop/t/32/assets/base.css?v=120845566834756728821734539640",
+      "selector": ".share-button__button,.share-button__fallback button",
+      "declarations": "cursor:pointer;background-color:transparent;border:none"
+    },
+    {
+      "source": "https://elkwoodleather.com/cdn/shop/t/32/assets/base.css?v=120845566834756728821734539640",
+      "selector": ".share-button__fallback button:hover",
+      "declarations": "color:rgba(var(--color-foreground),.75)"
+    },
+    {
+      "source": "https://elkwoodleather.com/cdn/shop/t/32/assets/base.css?v=120845566834756728821734539640",
+      "selector": ".share-button__close,.share-button__copy",
+      "declarations": "background-color:transparent;color:rgb(var(--color-foreground))"
+    },
+    {
+      "source": "https://elkwoodleather.com/cdn/shop/t/32/assets/base.css?v=120845566834756728821734539640",
+      "selector": ".share-button__copy:focus-visible,.share-button__close:focus-visible",
+      "declarations": "background-color:rgb(var(--color-background));z-index:2"
+    },
+    {
+      "source": "https://elkwoodleather.com/cdn/shop/t/32/assets/base.css?v=120845566834756728821734539640",
+      "selector": ".share-button__copy:focus,.share-button__close:focus",
+      "declarations": "background-color:rgb(var(--color-background));z-index:2"
+    },
+    {
+      "source": "https://elkwoodleather.com/cdn/shop/t/32/assets/base.css?v=120845566834756728821734539640",
+      "selector": ".field:not(:focus-visible):not(.focused)+.share-button__copy:not(:focus-visible):not(.focused),.field:not(:focus-visible):not(.focused)+.share-button__close:not",
+      "declarations": "background-color:inherit"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Elkwood Leather - 100% Handcrafted Leather Goods",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://elkwoodleather.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://elkwoodleather.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://elkwoodleather.com/"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://elkwoodleather.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://elkwoodleather.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://elkwoodleather.com/",
+        "https://elkwoodleather.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://elkwoodleather.com/cdn/shop/t/32/assets/base.css?v=120845566834756728821734539640",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://elkwoodleather.com/"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://elkwoodleather.com/"
+      ]
+    },
+    "colors.rating-star": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://elkwoodleather.com/"
+      ]
+    },
+    "colors.surface-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.border-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://elkwoodleather.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.dark-contrast": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://elkwoodleather.com/",
+        "https://elkwoodleather.com/cdn/shop/t/32/assets/base.css?v=120845566834756728821734539640",
+        "https://elkwoodleather.com/cdn/shop/t/32/assets/component-localization-form.css?v=143319823105703127341734539640",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.material-tag": {
+      "status": "inferred"
+    }
+  }
+}

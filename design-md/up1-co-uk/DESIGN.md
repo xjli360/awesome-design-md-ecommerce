@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: UP1.co.uk
-description: A catalogue site that reads like a well-worn paper stock-list, anchored on a singular, unapologetic parchment wash: `#ffffd0` — a pale butter-cream that replaces the usual white canvas and sets every page in a warm, slightly nostalgic glow. There is no hero image, no brand mark, no decorative illustration; the visual load is carried entirely by dense tables of product listings, each row a compact block of title, format, price, and stock status. The typography is absent of declared font-family, suggesting a system fallback stack that renders in the user-agent default — a deliberate or inherited austerity that prioritizes information density over brand polish. Buttons are minimal rectangles with hard corners (`{rounded.none}`), likely using a muted gray or the canvas tone as background, and text links in a standard blue (`#0000ee` or similar) provide the primary navigation. The single extracted hex, `#ffffd0`, is so pervasive it functions as both background and brand identifier — a dusty, library-like warmth that distinguishes UP1.co.uk from every glossy, white-space-heavy competitor in the movies-and-TV category. The site feels like a database given a gentle patina, where the design gesture is not layout or color-blocking but the sheer weight of structured data presented without apology.
+name: "UP1.co.uk"
+source_url: "https://www.up1.co.uk"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A catalogue site that reads like a well-worn paper stock-list, anchored on a singular, unapologetic parchment wash: `#ffffd0` — a pale butter-cream that replaces the usual white canvas and sets every page in a warm, slightly nostalgic glow. There is no hero image, no brand mark, no decorative illustration; the visual load is carried entirely by dense tables of product listings, each row a compact block of title, format, price, and stock status. The typography is absent of declared font-family, suggesting a system fallback stack that renders in the user-agent default — a deliberate or inherited austerity that prioritizes information density over brand polish. Buttons are minimal rectangles with hard corners (`{rounded.none}`), likely using a muted gray or the canvas tone as background, and text links in a standard blue (`#0000ee` or similar) provide the primary navigation. The single extracted hex, `#ffffd0`, is so pervasive it functions as both background and brand identifier — a dusty, library-like warmth that distinguishes UP1.co.uk from every glossy, white-space-heavy competitor in the movies-and-TV category. The site feels like a database given a gentle patina, where the design gesture is not layout or color-blocking but the sheer weight of structured data presented without apology.
 
 colors:
   primary: "#ffffd0"
@@ -224,6 +228,8 @@ components:
 - Search-bar placeholder text truncates on narrow screens
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No font-family declarations were extracted from the live site; the typography block uses a generic system-ui fallback stack. The actual brand font (if any) could not be determined.
 - Only one hex color (`#ffffd0`) was reliably extracted. All other colors in the palette are inferred from common web defaults (link blue, visited purple, muted grays) and may not match the live site's actual choices.

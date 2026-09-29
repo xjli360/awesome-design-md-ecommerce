@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Mount-It!
-description: |
+name: "Mount-It!"
+source_url: "https://mount-it.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The surprise in Mount-It!'s extracted palette is not the commanding steel-blue navy (#154775) anchoring every primary CTA and navigation bar, but the warm amber-browns — raw sienna (#964b00), teak (#774d3b), cognac (#7a6c60) — that surface throughout product imagery and discount-tier callouts. This is a brand that sells precision-machined aluminum monitor arms, yet its color world reads like a craftsman's workshop: cool authority at the top, warm wood-tone depth wherever the human hand appears in product staging. That tension is resolved by a shared neutrality — charcoal (#282a2c) for near-black ink, chalky off-whites (#f5f5f7, #f3f3f3) for surface and canvas — keeping the palette cohesive without forcing either register to recede.
 
   Nunito Sans is an unusual choice for a B2B-adjacent hardware category. The rounded, humanist letterforms that make it comfortable in consumer wellness or education software here read as an accessibility signal: this is not industrial procurement software, it is a consumer who assembled their first standing desk and is ready to go further. Display headings sit at weight 800 and 28–40px, asserting product authority; body copy relaxes to weight 400 at a generous 1.6 line-height, inviting the spec-reading shopper to slow down and compare load ratings.
@@ -411,6 +414,8 @@ components:
 - Spec table remains visible on all breakpoints; scrolls horizontally if column content overflows on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Nunito Sans font weight availability not confirmed from CSS inspection; weight 800 assumed from Nunito Sans variable range but may render as 700 on older delivery stacks
 - Specific border-radius values for nav dropdown and modal overlays not extracted; `{rounded.sm}` assumed by analogy with card and button radii

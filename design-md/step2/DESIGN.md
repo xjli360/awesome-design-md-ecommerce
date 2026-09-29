@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Step2
-description: A primary-yellow (#fac241) voltage runs through every CTA, badge, and interactive element on a warm off-white canvas (#e8e8e1), creating a playground of color that signals fun before a single word is read. The brand lives in the tension between bold primary accents and a surprisingly restrained neutral system — deep charcoal (#121212) for headlines, softer grays (#898989, #3d4246) for body copy, and a near-white surface (#fffefd) for product cards that let the toys themselves pop. Red (#ff0000) appears as an urgent accent on sale badges and clearance markers, while a forest green (#2b6450) surfaces in outdoor-product callouts and eco-friendly messaging. The typography system leans on a single sans-serif stack (Swiper Icons for iconography, with system fonts for body), keeping the interface clean and child-friendly without feeling cartoonish. Buttons are generously padded with {rounded.sm} corners, product cards use {rounded.md} to frame playhouses and wagons, and the navigation bar sits at a sturdy 72px height — substantial enough to feel anchored, light enough to stay out of the way. The overall effect is a digital toy box: organized, colorful, and built for exploration.
+name: "Step2"
+source_url: "https://www.step2.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A primary-yellow (#fac241) voltage runs through every CTA, badge, and interactive element on a warm off-white canvas (#e8e8e1), creating a playground of color that signals fun before a single word is read. The brand lives in the tension between bold primary accents and a surprisingly restrained neutral system — deep charcoal (#121212) for headlines, softer grays (#898989, #3d4246) for body copy, and a near-white surface (#fffefd) for product cards that let the toys themselves pop. Red (#ff0000) appears as an urgent accent on sale badges and clearance markers, while a forest green (#2b6450) surfaces in outdoor-product callouts and eco-friendly messaging. The typography system leans on a single sans-serif stack (Swiper Icons for iconography, with system fonts for body), keeping the interface clean and child-friendly without feeling cartoonish. Buttons are generously padded with {rounded.sm} corners, product cards use {rounded.md} to frame playhouses and wagons, and the navigation bar sits at a sturdy 72px height — substantial enough to feel anchored, light enough to stay out of the way. The overall effect is a digital toy box: organized, colorful, and built for exploration.
 
 colors:
   primary: "#fac241"
@@ -454,6 +458,8 @@ components:
 - Mega-menu dropdowns collapse to simple link lists on tablet and below
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Font family declarations were limited to "swiper-icons" in the extracted data; the system font stack used above is inferred from common Shopify patterns — actual brand fonts may differ
 - Hover and active states for many components (accordion, breadcrumb, pagination) are inferred from common e-commerce patterns rather than extracted from the live site

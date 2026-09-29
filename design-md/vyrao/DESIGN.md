@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Vyrao
-description: A fragrance house that feels more like a botanical apothecary than a perfume brand, Vyrao wraps its energetic, wellness-first philosophy in a palette drawn from the earth and its healing plants. The canvas is a warm, almost papery off-white (`#e9e8e0`) that reads as raw linen or unbleached cotton, not sterile gallery white. Against this ground, the brand’s signature green — a deep, mossy `#43b02a` that leans into `#56ad6a` for secondary accents — suggests chlorophyll and vitality, while a secondary olive range (`#949069`, `#aaa686`, `#a9a687`) and darker sage (`#767254`, `#58553f`) create a quiet, layered herbarium. A single red note (`#d02e2e`) appears sparingly, like a rare bloom, and a soft blush (`#f3cbcb`) tempers the green intensity. Typography pairs the clean, geometric humanism of Jost (used for navigation, buttons, and small labels) with the more literary, serifed warmth of Source Serif 4 for body copy, and a third, distinctly elegant display face — sangbleu_versaillesregular — for hero headings and product names, lending a bespoke, almost hand-lettered quality. The overall mood is grounded, intentional, and slightly mystical: rounded corners are generous (`{rounded.lg}` at 20px for cards, `{rounded.full}` for pill-shaped CTAs), spacing is ample (`{spacing.xxl}` at 48px between sections), and the interface breathes like a slow, deliberate ritual. There are no hard edges, no aggressive contrasts — just a quiet confidence that the product (and the plant) is the hero.
+name: "Vyrao"
+source_url: "https://vyrao.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A fragrance house that feels more like a botanical apothecary than a perfume brand, Vyrao wraps its energetic, wellness-first philosophy in a palette drawn from the earth and its healing plants. The canvas is a warm, almost papery off-white (`#e9e8e0`) that reads as raw linen or unbleached cotton, not sterile gallery white. Against this ground, the brand’s signature green — a deep, mossy `#43b02a` that leans into `#56ad6a` for secondary accents — suggests chlorophyll and vitality, while a secondary olive range (`#949069`, `#aaa686`, `#a9a687`) and darker sage (`#767254`, `#58553f`) create a quiet, layered herbarium. A single red note (`#d02e2e`) appears sparingly, like a rare bloom, and a soft blush (`#f3cbcb`) tempers the green intensity. Typography pairs the clean, geometric humanism of Jost (used for navigation, buttons, and small labels) with the more literary, serifed warmth of Source Serif 4 for body copy, and a third, distinctly elegant display face — sangbleu_versaillesregular — for hero headings and product names, lending a bespoke, almost hand-lettered quality. The overall mood is grounded, intentional, and slightly mystical: rounded corners are generous (`{rounded.lg}` at 20px for cards, `{rounded.full}` for pill-shaped CTAs), spacing is ample (`{spacing.xxl}` at 48px between sections), and the interface breathes like a slow, deliberate ritual. There are no hard edges, no aggressive contrasts — just a quiet confidence that the product (and the plant) is the hero.
 
 colors:
   primary: "#43b02a"
@@ -329,6 +333,8 @@ components:
 - The search bar collapses from an inline element in the nav to a standalone, full-width component below the hero on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components could not be fully extracted; only primary and secondary button active states are inferred from the brand's color logic.
 - Error styling for form inputs (red borders, error messages) is not present in the extracted data; a red accent (`{colors.accent-red}`) is available but its usage pattern is unknown.

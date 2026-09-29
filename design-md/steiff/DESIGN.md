@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Steiff
-description: A soft, enduring world built on the warmth of #fafafa and the alert red of #d73246 — the exact shade of a Steiff button-in-ear, that tiny brass-rimmed disc that has marked every bear since 1904. The site reads like a collector’s cabinet: generous white canvas (#ffffff) carries product photography in crisp isolation, while the signature red appears sparingly — on the primary CTA, on sale badges, on the “Shop” nav link — so it lands like a found treasure, not a sales pitch. Typography pairs Bodoni Moda (a serif with sharp, elegant contrast) for display headings with Work Sans (a clean, warm sans-serif) for body and buttons, creating a dialogue between heirloom craft and modern usability. Cards use soft rounding ({rounded.sm} at 8px) and thin hairline borders (#ebebeb) that echo the delicate stitching on a bear’s paw. The footer is dense with links in #3c3c3c, anchored by a large Steiff logo and a newsletter signup field with a red button — the brand’s quiet insistence on community and continuity. There is no harsh geometry; even the search bar is pill-shaped ({rounded.full}), and the product grid breathes with generous padding ({spacing.lg} to {spacing.xl}). The overall mood is one of careful preservation — a digital space that feels as tactile and trustworthy as the plush it sells.
+name: "Steiff"
+source_url: "https://www.steiffusa.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A soft, enduring world built on the warmth of #fafafa and the alert red of #d73246 — the exact shade of a Steiff button-in-ear, that tiny brass-rimmed disc that has marked every bear since 1904. The site reads like a collector’s cabinet: generous white canvas (#ffffff) carries product photography in crisp isolation, while the signature red appears sparingly — on the primary CTA, on sale badges, on the “Shop” nav link — so it lands like a found treasure, not a sales pitch. Typography pairs Bodoni Moda (a serif with sharp, elegant contrast) for display headings with Work Sans (a clean, warm sans-serif) for body and buttons, creating a dialogue between heirloom craft and modern usability. Cards use soft rounding ({rounded.sm} at 8px) and thin hairline borders (#ebebeb) that echo the delicate stitching on a bear’s paw. The footer is dense with links in #3c3c3c, anchored by a large Steiff logo and a newsletter signup field with a red button — the brand’s quiet insistence on community and continuity. There is no harsh geometry; even the search bar is pill-shaped ({rounded.full}), and the product grid breathes with generous padding ({spacing.lg} to {spacing.xl}). The overall mood is one of careful preservation — a digital space that feels as tactile and trustworthy as the plush it sells.
 
 colors:
   primary: "#d73246"
@@ -308,6 +312,8 @@ components:
 - Product images switch from landscape to square crop on mobile to maintain visual consistency.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states** for buttons, links, and cards were inferred from common patterns; exact hover transitions (e.g., background color, shadow) were not extracted.
 - **Error styling** for form inputs (e.g., invalid email, required field) was not observed; a red border (`{colors.primary}`) with an error message in `{colors.body}` is assumed.

@@ -1,0 +1,857 @@
+{
+  "source_url": "https://goabode.com",
+  "final_url": "https://goabode.com/",
+  "captured_at": "2026-09-28T09:38:13.306745+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://goabode.com",
+      "final_url": "https://goabode.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "ec93f8770b7b2c2186e67bbe809d7d7de3daeed5f145cc3b269c8eb4611223f1",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Inter:400,500,600%7CRubik:400,500%7CMaterial+Symbols+Outlined:opsz,wght,FILL,GRAD@24,40italic0&display=swap",
+      "final_url": "https://fonts.googleapis.com/css?family=Inter:400,500,600%7CRubik:400,500%7CMaterial+Symbols+Outlined:opsz,wght,FILL,GRAD@24,40italic0&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "c6ce5ec0d95a4c6076409411a49be4889224f4e5bdc5e8bc892fbf4c9ee327c8",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+      "final_url": "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c62a33f595b9506fce048977c4227d6eb41f4afb888295c8576a9c56ed95e14f",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_single_cef989ef893315b919a6f63377e4d0ee.css?ver=1788897733",
+      "final_url": "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_single_cef989ef893315b919a6f63377e4d0ee.css?ver=1788897733",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "06f0bc10984f38222e4ba8d44b02ebe901a2a1d34f1a6555bd2a48f16d36dbae",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 168,
+      "sources": [
+        "https://goabode.com/",
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_single_cef989ef893315b919a6f63377e4d0ee.css?ver=1788897733"
+      ]
+    },
+    "#2d3037": {
+      "count": 153,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#44bed8": {
+      "count": 147,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#dfe4eb": {
+      "count": 75,
+      "sources": [
+        "https://goabode.com/",
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#a1a4b2": {
+      "count": 64,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#3652e7": {
+      "count": 40,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#62697a": {
+      "count": 33,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#fb5858": {
+      "count": 32,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#ebb238": {
+      "count": 28,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#3dabc2": {
+      "count": 17,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#f7f9fa": {
+      "count": 17,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#40454f": {
+      "count": 15,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#0041c4": {
+      "count": 14,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#225f6c": {
+      "count": 11,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#8fd8e8": {
+      "count": 9,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#333333": {
+      "count": 8,
+      "sources": [
+        "https://goabode.com/",
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_single_cef989ef893315b919a6f63377e4d0ee.css?ver=1788897733"
+      ]
+    },
+    "#d17b54": {
+      "count": 7,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#8fbf47": {
+      "count": 7,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#565d6e": {
+      "count": 7,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#000000": {
+      "count": 6,
+      "sources": [
+        "https://goabode.com/",
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#e57639": {
+      "count": 6,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#a373e0": {
+      "count": 6,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#39bd76": {
+      "count": 6,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#3698ad": {
+      "count": 4,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#3d4247": {
+      "count": 4,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#1e73be": {
+      "count": 4,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_single_cef989ef893315b919a6f63377e4d0ee.css?ver=1788897733"
+      ]
+    },
+    "#494e5c": {
+      "count": 3,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#a51f2b": {
+      "count": 3,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#5f3f3f": {
+      "count": 3,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 3,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_single_cef989ef893315b919a6f63377e4d0ee.css?ver=1788897733"
+      ]
+    },
+    "#1a1a2e": {
+      "count": 2,
+      "sources": [
+        "https://goabode.com/"
+      ]
+    },
+    "#121317": {
+      "count": 2,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#d85f1c": {
+      "count": 2,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#fa3030": {
+      "count": 2,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#8d51d8": {
+      "count": 2,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#2f9d62": {
+      "count": 2,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#e9474a": {
+      "count": 2,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#d7a125": {
+      "count": 2,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#c16c47": {
+      "count": 2,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#7fae37": {
+      "count": 2,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#7e8496": {
+      "count": 2,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#fc7a7a": {
+      "count": 2,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#d6d6d6": {
+      "count": 2,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#869791": {
+      "count": 2,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#374151": {
+      "count": 2,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 2,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#ededed": {
+      "count": 2,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#297282": {
+      "count": 2,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#c5c5c5": {
+      "count": 2,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 2,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#454545": {
+      "count": 2,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#2b2b2b": {
+      "count": 2,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#003eff": {
+      "count": 2,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#dad55e": {
+      "count": 2,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#fffa90": {
+      "count": 2,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#777620": {
+      "count": 2,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#666666": {
+      "count": 2,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#aaaaaa6e": {
+      "count": 2,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "#222222": {
+      "count": 2,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_single_cef989ef893315b919a6f63377e4d0ee.css?ver=1788897733"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 2,
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_single_cef989ef893315b919a6f63377e4d0ee.css?ver=1788897733"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+    ],
+    "Arial": [
+      "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+    ],
+    "BlinkMacSystemFont": [
+      "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+    ],
+    "FontAwesome": [
+      "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_single_cef989ef893315b919a6f63377e4d0ee.css?ver=1788897733"
+    ],
+    "Helvetica": [
+      "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+    ],
+    "Inter": [
+      "https://fonts.googleapis.com/css?family=Inter:400,500,600%7CRubik:400,500%7CMaterial+Symbols+Outlined:opsz,wght,FILL,GRAD@24,40italic0&display=swap",
+      "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+    ],
+    "Liberation Sans": [
+      "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+    ],
+    "Material Symbols Outlined": [
+      "https://fonts.googleapis.com/css?family=Inter:400,500,600%7CRubik:400,500%7CMaterial+Symbols+Outlined:opsz,wght,FILL,GRAD@24,40italic0&display=swap"
+    ],
+    "Rubik": [
+      "https://fonts.googleapis.com/css?family=Inter:400,500,600%7CRubik:400,500%7CMaterial+Symbols+Outlined:opsz,wght,FILL,GRAD@24,40italic0&display=swap",
+      "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+    ],
+    "Segoe UI": [
+      "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+    ],
+    "Segoe UI Adjusted": [
+      "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+    ],
+    "icomoon": [
+      "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+    ],
+    "icomoon\" !important": [
+      "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+    ],
+    "sans-serif": [
+      "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+      "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_single_cef989ef893315b919a6f63377e4d0ee.css?ver=1788897733"
+    ],
+    "sans-serif !important": [
+      "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://goabode.com/",
+      "selector": ".entry-content table tbody td,.post-content table tbody td,article table tbody td",
+      "declarations": "padding:11px 16px;border-bottom:1px solid #e8ecf1;color:#333;vertical-align:top"
+    },
+    {
+      "source": "https://goabode.com/",
+      "selector": ".entry-content table tbody td:first-child,.post-content table tbody td:first-child,article table tbody td:first-child",
+      "declarations": "font-weight:600;color:#1a1a2e"
+    },
+    {
+      "source": "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+      "selector": ".h1,h1",
+      "declarations": "font-size:48px;line-height:115%;font-weight:500;font-family:\"Rubik\",sans-serif;color:#2d3037;margin:32px 0 24px"
+    },
+    {
+      "source": "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+      "selector": ".button",
+      "declarations": "color:#fff;font-size:14px;line-height:150%;font-weight:400;font-weight:600;background-color:#44bed8;border:2px solid #44bed8;text-decoration:none;border-radius:360px;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box;padding:16px 42px;margin:16px 0;display:inline-block"
+    },
+    {
+      "source": "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+      "selector": ".button.disabled",
+      "declarations": "background-color:#8fd8e8;border-color:#8fd8e8;pointer-events:none"
+    },
+    {
+      "source": "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+      "selector": ".button.white",
+      "declarations": "padding:18px 44px;border:none;background-color:hsla(0,0%,100%,.45);backdrop-filter:blur(10px)"
+    },
+    {
+      "source": "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+      "selector": ".button.white:hover",
+      "declarations": "background-color:#fff;border-color:#fff;color:#2d3037"
+    },
+    {
+      "source": "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+      "selector": ".button:hover",
+      "declarations": "background-color:#3dabc2;border-color:#3dabc2;color:#fff"
+    },
+    {
+      "source": "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+      "selector": ".button.outline",
+      "declarations": "background-color:rgba(0,0,0,0);color:#44bed8"
+    },
+    {
+      "source": "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+      "selector": ".button.outline:hover",
+      "declarations": "background-color:#44bed8;border-color:#44bed8;color:#fff"
+    },
+    {
+      "source": "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+      "selector": ".button.dark-blue",
+      "declarations": "background-color:#3652e7;border-color:#3652e7"
+    },
+    {
+      "source": "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+      "selector": ".button.dark-blue:hover",
+      "declarations": "background-color:#0041c4;border-color:#0041c4;color:#fff"
+    },
+    {
+      "source": "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+      "selector": ".button.dark-blue.outline",
+      "declarations": "background-color:rgba(0,0,0,0);color:#3652e7"
+    },
+    {
+      "source": "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+      "selector": ".button.dark-blue.outline:hover",
+      "declarations": "background-color:#3652e7;border-color:#3652e7;color:#fff"
+    },
+    {
+      "source": "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+      "selector": "a:not(.button)",
+      "declarations": "text-decoration:none;color:#44bed8"
+    },
+    {
+      "source": "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+      "selector": "a:not(.button):hover",
+      "declarations": "color:#3dabc2"
+    },
+    {
+      "source": "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+      "selector": "body",
+      "declarations": "font-size:16px;line-height:150%;font-weight:400;font-family:\"Inter\",sans-serif;color:#2d3037;background-color:#fff"
+    },
+    {
+      "source": "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+      "selector": "#header",
+      "declarations": "position:sticky;top:0;z-index:6;background-color:#fff;box-shadow:0px 8px 16px 0px rgba(64,69,79,0)"
+    },
+    {
+      "source": "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+      "selector": "#mega-menus .mega-menu .mega-menu-tab .products-list.owl-carousel .owl-stage-outer .owl-stage .owl-item .product a:hover",
+      "declarations": "border-color:#44bed8"
+    },
+    {
+      "source": "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+      "selector": "#mega-menus .mega-menu .mega-menu-tab .products-list.owl-carousel .owl-stage-outer .owl-stage .owl-item .product a:hover .title",
+      "declarations": "color:#44bed8"
+    },
+    {
+      "source": "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+      "selector": "#mega-menus .mega-menu .mega-menu-tab .products-list.owl-carousel .owl-stage-outer .owl-stage .owl-item .product a span.title",
+      "declarations": "color:#2d3037;text-align:center;min-height:48px"
+    },
+    {
+      "source": "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+      "selector": "#mega-menus .mega-menu .mega-menu-tab .products-list.owl-carousel .owl-stage-outer .owl-stage .owl-item .product a span.note",
+      "declarations": "position:absolute;left:50%;top:7px;text-transform:uppercase;color:#44bed8;background-color:rgba(68,190,216,.2);font-size:13px;line-height:20px;font-weight:700;border-radius:24px;white-space:nowrap;transform:translate(-50%,0);padding:4px 16px;z-index:1;pointer-events:none"
+    },
+    {
+      "source": "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+      "selector": "#mega-menus .mega-menu .mega-menu-tab .products-list.owl-carousel .owl-stage-outer .owl-stage .owl-item .product a span.note.grey",
+      "declarations": "color:#62697a;background-color:rgba(98,105,122,.2)"
+    },
+    {
+      "source": "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+      "selector": "#mega-menus .mega-menu .mega-menu-tab .products-list.owl-carousel .owl-stage-outer .owl-stage .owl-item .product.see-all-button a",
+      "declarations": "border-color:rgba(0,0,0,0)"
+    },
+    {
+      "source": "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+      "selector": ".mobile-menu-button-wrap .js-open-mobile-menu",
+      "declarations": "width:24px;height:24px;position:relative;color:#2d3037;text-decoration:none;position:relative;top:-2px"
+    },
+    {
+      "source": "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+      "selector": ".mini-cart-popup .bottom .product .product-desc span",
+      "declarations": "display:block;color:#494e5c"
+    },
+    {
+      "source": "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+      "selector": ".hero-banner-container .hero-banner .buttons.color-tangerine .button",
+      "declarations": "background-color:#e57639;border-color:#e57639;color:#fff"
+    },
+    {
+      "source": "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+      "selector": ".hero-banner-container .hero-banner .buttons.color-tangerine .button:not(.outline):hover",
+      "declarations": "background-color:#d85f1c;border-color:#d85f1c"
+    },
+    {
+      "source": "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+      "selector": ".hero-banner-container .hero-banner .buttons.color-tangerine .button.outline",
+      "declarations": "background-color:rgba(0,0,0,0);color:#e57639"
+    },
+    {
+      "source": "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+      "selector": ".hero-banner-container .hero-banner .buttons.color-tangerine .button.outline:hover",
+      "declarations": "background-color:#e57639;border-color:#e57639;color:#fff"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Abode DIY Home Security - Works with HomeKit | No-contract",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "colors.secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "colors.secondary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://goabode.com/",
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://goabode.com/",
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_single_cef989ef893315b919a6f63377e4d0ee.css?ver=1788897733"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_single_cef989ef893315b919a6f63377e4d0ee.css?ver=1788897733"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://goabode.com/",
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css",
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_single_cef989ef893315b919a6f63377e4d0ee.css?ver=1788897733"
+      ]
+    },
+    "colors.disabled": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_b2b35438f05abd098d975b46788fe5bd.css"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://goabode.com/wp-content/cache/autoptimize/css/autoptimize_single_cef989ef893315b919a6f63377e4d0ee.css?ver=1788897733"
+      ]
+    },
+    "colors.dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://goabode.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.faq-accordion": {
+      "status": "inferred"
+    },
+    "components.device-status-indicator": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    }
+  }
+}

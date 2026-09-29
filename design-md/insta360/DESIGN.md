@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Insta360
-description: A single hex value — #313131 — governs the Insta360 interface, a deep near-black that reads as precision hardware rather than digital ink. This is the color of a camera body machined from aluminum, of a lens barrel, of the brand's own X-series action cameras rendered in product shots. It appears on buttons, navigation bars, footer backgrounds, and text, creating a monochrome stage where the only other color is the content itself: 360-degree video, camera previews, and interface overlays. The brand uses no primary accent color in the traditional sense — no red CTA, no blue link, no green success state that competes with the visual output of its products. Instead, the UI defers entirely to the media. Buttons are outlined or filled in {colors.ink} and {colors.canvas}. Typography runs the system font stack at modest weights (400–600), never heavy, never decorative; the brand trusts its product imagery to carry emotion. Rounded corners are minimal — {rounded.sm} on buttons, {rounded.md} on cards — suggesting industrial precision rather than consumer friendliness. The overall feel is that of a control panel for a serious tool: clean, dark, information-dense, with generous spacing ({spacing.lg} between sections) that prevents the darkness from feeling cramped. The footer is a solid {colors.ink} field with white links, a common pattern for hardware-adjacent brands that want to signal "pro" without shouting. There is no gradient, no pastel, no decorative illustration. The brand's visual system is subtractive: remove everything that isn't the product or the path to buying it.
+name: "Insta360"
+source_url: "https://www.insta360.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A single hex value — #313131 — governs the Insta360 interface, a deep near-black that reads as precision hardware rather than digital ink. This is the color of a camera body machined from aluminum, of a lens barrel, of the brand's own X-series action cameras rendered in product shots. It appears on buttons, navigation bars, footer backgrounds, and text, creating a monochrome stage where the only other color is the content itself: 360-degree video, camera previews, and interface overlays. The brand uses no primary accent color in the traditional sense — no red CTA, no blue link, no green success state that competes with the visual output of its products. Instead, the UI defers entirely to the media. Buttons are outlined or filled in {colors.ink} and {colors.canvas}. Typography runs the system font stack at modest weights (400–600), never heavy, never decorative; the brand trusts its product imagery to carry emotion. Rounded corners are minimal — {rounded.sm} on buttons, {rounded.md} on cards — suggesting industrial precision rather than consumer friendliness. The overall feel is that of a control panel for a serious tool: clean, dark, information-dense, with generous spacing ({spacing.lg} between sections) that prevents the darkness from feeling cramped. The footer is a solid {colors.ink} field with white links, a common pattern for hardware-adjacent brands that want to signal "pro" without shouting. There is no gradient, no pastel, no decorative illustration. The brand's visual system is subtractive: remove everything that isn't the product or the path to buying it.
 
 colors:
   primary: "#313131"
@@ -487,6 +491,8 @@ components:
 - Hero sections collapse to single-column layout with text below image on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one hex color (#313131) was successfully extracted from the live site. The full color palette above is inferred from common patterns in the brand's product pages and industry conventions for hardware/electronics brands. The true secondary palette (if any) could not be verified.
 - No brand-specific font family was found. The site uses the system font stack exclusively. The brand may use a custom font on certain pages or in marketing materials that was not detected.

@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Toshiba
-description: |
+name: "Toshiba"
+source_url: "https://www.toshiba-lifestyle.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Red as a heat element — that's how #e61e1e lands on Toshiba Lifestyle's pages, appearing not as a decorative accent but as a functional signal: the single action color for primary CTAs, navigation highlights, and category badges across a sprawling Japanese appliance catalog. The canvas is an almost-white #f9f9f9 layered with card surfaces at #ffffff and soft divider bands of #f6f6f6, creating depth without shadow abuse. Typography relies entirely on the Japanese system stack — Hiragino Kaku Gothic ProN falling back to Meiryo — set at modest weights (400 body, 700 display) that let product photography dominate. Four category accent colors partition the product universe: #f376b4 for living/beauty, #369ae9 for cooling/air, #03ad6b for kitchen/eco, #f49b00 for cooking/heat — each paired with a barely-there tinted surface (#fef7fb, #f3f9fe, #f0faf6, #fef9f0) that bleeds behind section cards. Corner radii stay conservative: `{rounded.sm}` on buttons and inputs, `{rounded.md}` on product cards, never reaching pill territory except for small badges. The grid breathes at `{spacing.section}` between major blocks, collapsing to `{spacing.lg}` on mobile where the single-column layout stacks category tiles vertically. Navigation is a sticky white bar with ink-black text, the logo left-aligned, and a hamburger menu on mobile replacing the horizontal category links. Product cards favor a tall aspect ratio — large square image, two-line title in `{typography.title-md}`, a muted model-number caption, then a red price callout when on sale. The overall impression is Japanese consumer-electronics restraint: nothing competes with the product image, color is rationed to one red and four category hues, and whitespace does the structural work that borders would do on a busier site.
 
 colors:
@@ -428,6 +431,8 @@ components:
 - Footer link columns collapse into expandable accordion sections with a "+" toggle icon
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom web font detected — the site relies on Japanese system fonts (Hiragino Kaku Gothic ProN / Meiryo), so actual rendered weights may vary between macOS and Windows
 - No CSS custom properties or design-token layer was extractable; colors were inferred from computed styles on rendered elements

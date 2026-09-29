@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Steelcase (Chairs)
-description: |
+name: "Steelcase (Chairs)"
+source_url: "https://store.steelcase.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Dark charcoal at #272725 — not true black but the particular gray-brown of cold-rolled steel — anchors every primary action surface in the Steelcase store, pulling the interface toward industrial restraint at a moment when most furniture brands are racing toward warm whites and editorial photography. The full extracted palette runs almost entirely through neutral registers: body text at #555555, secondary labels at #676767, hairlines at #e3e3e3, and page wash at #f5f5f5. The single chromatic outlier is a muted brick-red at #b85455, appearing in alert states and promotional callouts — not a chosen accent so much as a safety signal borrowed from Bootstrap's color vocabulary. Typography makes no custom font investment: the entire site runs on Arial, Helvetica Neue, and system sans-serif stacks, a decision that reads as engineering-department specification-first rather than brand-department lifestyle-first. This is consistent with Steelcase's buyer profile — facilities managers, corporate procurement leads, and workplace designers who arrive with dimension requirements before they consider finish options. The button and card geometry uses conservative radius values ({rounded.xs} to {rounded.sm}), keeping edges close to square; nothing pill-shaped exists in the UI. Navigation is organized hierarchically by product category — seating, desks, storage, accessories — with sub-categories accessible via dropdown rather than editorial collection pages. Product cards lead with model name and price, and material/fabric configurator entry points are visible without hover, reflecting a customer who needs to specify before they can purchase. The overall interface tone is that of a well-maintained enterprise catalog: high information density, modest whitespace at {spacing.base} rhythm, and a grid that trusts structure over visual drama. Steelcase's digital presence matches its physical products — functional, durable, and designed to be used rather than admired.
 
 colors:
@@ -408,6 +411,8 @@ components:
 - Search bar always visible inline in nav at desktop; collapses to icon-only toggle at tablet and below, expanding to a full-width overlay input on tap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom brand font detected — the entire store runs on system Arial/Helvetica stacks; a proprietary Steelcase typeface (if one exists in the offline design system) is either loaded via JavaScript or absent from the storefront entirely
 - Extracted palette is dominated by Bootstrap 3 framework defaults (#337ab7, #3c763d, #8a6d3b, #a94442, #d9edf7, #dff0d8, #f2dede, #fcf8e3); reliably brand-curated colors beyond #272725 are difficult to isolate

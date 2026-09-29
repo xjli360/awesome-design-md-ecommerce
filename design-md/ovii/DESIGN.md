@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Ovii
-description: A clinical warmth runs through Ovii — #df5641, a dried-terracotta red, appears as the primary accent on CTAs, ingredient callouts, and cart badges, while the rest of the palette stays almost entirely achromatic: #141414 for deep ink, #f6f6f6 for soft canvas, and #d1d1d1 for hairline borders. The brand lives in the tension between supplement-lab authority and bath-product softness; Inter at 400/500 weight handles all body and button copy at 14–16px, while meno-display (a serif with condensed variant) appears in hero headlines and product titles at 24–32px, lending a editorial, almost journal-like tone. Product cards use {rounded.sm} corners and generous {spacing.base} padding, with the primary red reserved for the "Add to Cart" button and the subscription toggle — a deliberate scarcity that makes the red feel urgent rather than decorative. The site uses a single-column product detail layout with a sticky bottom cart bar on mobile, and the checkout flow inherits Shopify's native button shapes but wraps them in the brand's red and off-white (#fbf7ee) surface. A sage-green (#60a57e) appears in ingredient badges and "vegan" flags, and a muted gold (#dd9a1a) shows up in star ratings and "best seller" tags — a three-accent system that reads as natural and unforced, like a botanist's field notes rather than a beauty brand's mood board.
+name: "Ovii"
+source_url: "https://ovii.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A clinical warmth runs through Ovii — #df5641, a dried-terracotta red, appears as the primary accent on CTAs, ingredient callouts, and cart badges, while the rest of the palette stays almost entirely achromatic: #141414 for deep ink, #f6f6f6 for soft canvas, and #d1d1d1 for hairline borders. The brand lives in the tension between supplement-lab authority and bath-product softness; Inter at 400/500 weight handles all body and button copy at 14–16px, while meno-display (a serif with condensed variant) appears in hero headlines and product titles at 24–32px, lending a editorial, almost journal-like tone. Product cards use {rounded.sm} corners and generous {spacing.base} padding, with the primary red reserved for the "Add to Cart" button and the subscription toggle — a deliberate scarcity that makes the red feel urgent rather than decorative. The site uses a single-column product detail layout with a sticky bottom cart bar on mobile, and the checkout flow inherits Shopify's native button shapes but wraps them in the brand's red and off-white (#fbf7ee) surface. A sage-green (#60a57e) appears in ingredient badges and "vegan" flags, and a muted gold (#dd9a1a) shows up in star ratings and "best seller" tags — a three-accent system that reads as natural and unforced, like a botanist's field notes rather than a beauty brand's mood board.
 
 colors:
   primary: "#df5641"
@@ -345,6 +349,8 @@ components:
 - Sticky bottom cart bar appears only on mobile (< 744px), containing "Add to Cart" button and price
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for most components could not be reliably extracted from static CSS; the active/disabled variants provided are best estimates based on common patterns
 - Error styling (form validation, input error states) not observed on live site

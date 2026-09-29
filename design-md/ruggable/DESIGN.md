@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Ruggable
-description: A brand built on the premise that rugs should be washable, Ruggable's design system is a study in earthy warmth and pragmatic clarity. The palette is anchored by deep, grounded tones like #282521 (a near-black brown that reads as ink) and #1a1817 (a softer, warmer charcoal), set against a canvas of #f6f4ef and #f7f7f7 that feels like natural linen. The brand's signature voltage comes from a single accent — #f5ce4e, a warm golden yellow that appears on badges, sale tags, and select CTAs, injecting a note of optimism into the otherwise neutral landscape. A secondary accent of #9fe3ba (a soft mint) and #ff816f (a coral) appear sparingly, often on product badges or promotional elements. Typography is a two-family system: the primary display face is `aprisRuggable`, a custom sans-serif with a slightly condensed, elegant character, while body copy relies on `Manrope`, a geometric sans-serif that provides clean readability. The system avoids hard corners — cards and buttons use `{rounded.sm}` (8px) and `{rounded.md}` (12px), while the primary search bar and hero CTAs lean into `{rounded.full}` pill shapes, creating a friendly, approachable interface. The overall mood is one of reliable comfort — the brand trusts its product photography and generous whitespace to convey quality, while the design system provides a quiet, consistent framework that never competes with the rugs themselves.
+name: "Ruggable"
+source_url: "https://ruggable.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A brand built on the premise that rugs should be washable, Ruggable's design system is a study in earthy warmth and pragmatic clarity. The palette is anchored by deep, grounded tones like #282521 (a near-black brown that reads as ink) and #1a1817 (a softer, warmer charcoal), set against a canvas of #f6f4ef and #f7f7f7 that feels like natural linen. The brand's signature voltage comes from a single accent — #f5ce4e, a warm golden yellow that appears on badges, sale tags, and select CTAs, injecting a note of optimism into the otherwise neutral landscape. A secondary accent of #9fe3ba (a soft mint) and #ff816f (a coral) appear sparingly, often on product badges or promotional elements. Typography is a two-family system: the primary display face is `aprisRuggable`, a custom sans-serif with a slightly condensed, elegant character, while body copy relies on `Manrope`, a geometric sans-serif that provides clean readability. The system avoids hard corners — cards and buttons use `{rounded.sm}` (8px) and `{rounded.md}` (12px), while the primary search bar and hero CTAs lean into `{rounded.full}` pill shapes, creating a friendly, approachable interface. The overall mood is one of reliable comfort — the brand trusts its product photography and generous whitespace to convey quality, while the design system provides a quiet, consistent framework that never competes with the rugs themselves.
 
 colors:
   primary: "#f5ce4e"
@@ -365,6 +369,8 @@ components:
 - Product image gallery collapses to single-image carousel with dots
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for secondary buttons and text inputs were not fully extracted — assumed patterns based on primary button behavior
 - Error and success states for form validation (colors, icons, messaging) were not observed on the live site

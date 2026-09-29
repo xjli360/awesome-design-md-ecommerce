@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Rizzoli Bookstore
-description: A deep blue anchor of #003cc5 — the color of a New York evening sky just after the streetlights come on — grounds a bookstore that calls itself "the most beautiful bookstore in New York" and means it. The palette is built on a crisp white canvas (#f9fafb) and warm neutrals (#eeeeee, #aaaaaa, #888888, #777777, #555555, #444444, #111111) that let the books themselves provide the color. A secondary blue (#003399) and a deeper navy (#002476) create hierarchy, while the extracted palette reveals unexpected accents — a sage green (#c9e1bd), a pale gold (#f4daa6), a blush pink (#f9c9bf), and a muted olive (#7c7f12) — that likely appear in seasonal displays, event signage, or the store's iconic green awning and marble interior. The typography defaults to system sans-serif (Arial, Helvetica) with Font Awesome icons for navigation and social links, suggesting a site that prioritizes legibility and load speed over typographic spectacle. Buttons use a generous {rounded.sm} corner radius, and the search bar — a critical entry point for a bookstore — takes a pill shape ({rounded.full}) that echoes the classic reading lamp or the curve of a bookshelf. The overall feeling is of a well-edited library: restrained, confident, and designed to get out of the way of the merchandise.
+name: "Rizzoli Bookstore"
+source_url: "https://www.rizzolibookstore.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep blue anchor of #003cc5 — the color of a New York evening sky just after the streetlights come on — grounds a bookstore that calls itself "the most beautiful bookstore in New York" and means it. The palette is built on a crisp white canvas (#f9fafb) and warm neutrals (#eeeeee, #aaaaaa, #888888, #777777, #555555, #444444, #111111) that let the books themselves provide the color. A secondary blue (#003399) and a deeper navy (#002476) create hierarchy, while the extracted palette reveals unexpected accents — a sage green (#c9e1bd), a pale gold (#f4daa6), a blush pink (#f9c9bf), and a muted olive (#7c7f12) — that likely appear in seasonal displays, event signage, or the store's iconic green awning and marble interior. The typography defaults to system sans-serif (Arial, Helvetica) with Font Awesome icons for navigation and social links, suggesting a site that prioritizes legibility and load speed over typographic spectacle. Buttons use a generous {rounded.sm} corner radius, and the search bar — a critical entry point for a bookstore — takes a pill shape ({rounded.full}) that echoes the classic reading lamp or the curve of a bookshelf. The overall feeling is of a well-edited library: restrained, confident, and designed to get out of the way of the merchandise.
 
 colors:
   primary: "#003cc5"
@@ -281,6 +285,8 @@ components:
 - Hero section reduces vertical padding from 64px to 32px on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states** for buttons and links are inferred from the primary-active color but not extracted from live CSS
 - **Error styling** for form validation (red borders, error messages) not observed; danger color (#842029) is a framework default

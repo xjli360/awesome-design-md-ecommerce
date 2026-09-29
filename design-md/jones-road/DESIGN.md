@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Jones Road
-description: A beauty brand that trusts the quiet authority of a single accent — #ff5742, a coral-red that appears only on the primary CTA and the occasional badge, never in the hero imagery or product photography. The rest of the palette is a study in near-neutral: #9da1a0, #868a89, #6c706f, #7e7e7e, #8f8f8f, #b6b9b8 — a dozen grays and greiges that read as "clean" without shouting "minimal." The canvas is #fafafa, a warm off-white that avoids the sterile glare of #ffffff, while #121212 and #1a1a1a provide ink-weight for headlines. Articulat CF and Ringside Wide carry the typographic load — condensed, architectural sans-serifs that feel editorial rather than cosmetic. The brand's signature move is restraint: product cards use {rounded.sm} corners, buttons use {rounded.sm}, and the only pill shape is the search bar at {rounded.full}. There is no hero carousel of models; instead, product shots float on {surface-soft} panels with generous whitespace. The checkout flow introduces #4efac0 (a minty accent) and #0018ff (a saturated blue) — likely Shopify Pay and Klarna widgets, not brand colors. The overall effect is a storefront that feels more like a gallery than a beauty counter: muted, deliberate, and letting the product be the color.
+name: "Jones Road"
+source_url: "https://jonesroadbeauty.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A beauty brand that trusts the quiet authority of a single accent — #ff5742, a coral-red that appears only on the primary CTA and the occasional badge, never in the hero imagery or product photography. The rest of the palette is a study in near-neutral: #9da1a0, #868a89, #6c706f, #7e7e7e, #8f8f8f, #b6b9b8 — a dozen grays and greiges that read as "clean" without shouting "minimal." The canvas is #fafafa, a warm off-white that avoids the sterile glare of #ffffff, while #121212 and #1a1a1a provide ink-weight for headlines. Articulat CF and Ringside Wide carry the typographic load — condensed, architectural sans-serifs that feel editorial rather than cosmetic. The brand's signature move is restraint: product cards use {rounded.sm} corners, buttons use {rounded.sm}, and the only pill shape is the search bar at {rounded.full}. There is no hero carousel of models; instead, product shots float on {surface-soft} panels with generous whitespace. The checkout flow introduces #4efac0 (a minty accent) and #0018ff (a saturated blue) — likely Shopify Pay and Klarna widgets, not brand colors. The overall effect is a storefront that feels more like a gallery than a beauty counter: muted, deliberate, and letting the product be the color.
 
 colors:
   primary: "#ff5742"
@@ -228,7 +232,7 @@ components:
     padding: 2px 8px
   hero-section:
     backgroundColor: "{colors.canvas}"
-    padding: "{spacing.section}" 0
+    padding: "{spacing.section} 0"
   hero-heading:
     typography: "{typography.display-xl}"
     color: "{colors.ink}"
@@ -251,7 +255,7 @@ components:
     backgroundColor: "{colors.surface-soft}"
     textColor: "{colors.muted}"
     typography: "{typography.body-sm}"
-    padding: "{spacing.section}" 0
+    padding: "{spacing.section} 0"
   footer-link:
     typography: "{typography.link}"
     color: "{colors.muted}"
@@ -284,13 +288,13 @@ components:
     backgroundColor: "{colors.canvas}"
     textColor: "{colors.ink}"
     typography: "{typography.title-sm}"
-    padding: "{spacing.base}" 0
+    padding: "{spacing.base} 0"
     borderBottom: 1px solid "{colors.hairline-soft}"
   accordion-content:
     backgroundColor: "{colors.canvas}"
     textColor: "{colors.body}"
     typography: "{typography.body-sm}"
-    padding: "{spacing.base}" 0
+    padding: "{spacing.base} 0"
 
 ## Components
 
@@ -341,6 +345,8 @@ components:
 - Badges remain visible but may shift to a smaller size on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for buttons and links are inferred from common patterns; exact color transitions (e.g., `primary-active`) are estimated from the extracted primary.
 - Error styling for forms (border color, error message typography) is assumed; no error-specific hexes were extracted.

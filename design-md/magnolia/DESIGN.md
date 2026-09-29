@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Magnolia
-description: A sage-and-cream retail world built on the tension between #5b2ea6 — a deep, almost ecclesiastical purple that appears in product badges, footer headings, and editorial accents — and a ground of #e9e5d5, a warm limestone beige that serves as the brand’s true canvas. The palette reads like a farmhouse pantry: #79765d (olive drab), #4c6063 (slate teal), #3d452e (forest shadow), and #85650b (aged brass) sit alongside #f9e8c5 (buttermilk) and #f3f1e9 (flax linen). White (#fefefe) is reserved for product cards and content blocks, while #222222 ink keeps body copy sharp against the soft grounds. Typography layers Merriweather’s serif gravity for display and body — its bracketed serifs and moderate contrast evoke printed recipe cards and heirloom books — against Montserrat for buttons and navigation, where clean geometric sans-serif signals action rather than atmosphere. Corners are predominantly soft: cards use {rounded.md} (12px), buttons use {rounded.sm} (8px), and the occasional pill-shaped search or badge uses {rounded.full}. The design system resists the hard digital edge; even the hairline (#e9e5d5, identical to the canvas) disappears into the background, making separations feel like paper folds rather than code borders. Product photography — often styled on wood surfaces or against neutral linen — carries the emotional weight; the UI steps back, framing rather than competing. The overall effect is a store that feels like a restored house: warm, slightly worn, and deliberate in every material choice.
+name: "Magnolia"
+source_url: "https://magnolia.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A sage-and-cream retail world built on the tension between #5b2ea6 — a deep, almost ecclesiastical purple that appears in product badges, footer headings, and editorial accents — and a ground of #e9e5d5, a warm limestone beige that serves as the brand’s true canvas. The palette reads like a farmhouse pantry: #79765d (olive drab), #4c6063 (slate teal), #3d452e (forest shadow), and #85650b (aged brass) sit alongside #f9e8c5 (buttermilk) and #f3f1e9 (flax linen). White (#fefefe) is reserved for product cards and content blocks, while #222222 ink keeps body copy sharp against the soft grounds. Typography layers Merriweather’s serif gravity for display and body — its bracketed serifs and moderate contrast evoke printed recipe cards and heirloom books — against Montserrat for buttons and navigation, where clean geometric sans-serif signals action rather than atmosphere. Corners are predominantly soft: cards use {rounded.md} (12px), buttons use {rounded.sm} (8px), and the occasional pill-shaped search or badge uses {rounded.full}. The design system resists the hard digital edge; even the hairline (#e9e5d5, identical to the canvas) disappears into the background, making separations feel like paper folds rather than code borders. Product photography — often styled on wood surfaces or against neutral linen — carries the emotional weight; the UI steps back, framing rather than competing. The overall effect is a store that feels like a restored house: warm, slightly worn, and deliberate in every material choice.
 
 colors:
   primary: "#5b2ea6"
@@ -461,6 +465,8 @@ components:
 - Breadcrumbs truncate to show only the current page and parent on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for all components are inferred from common patterns; exact transition durations and easing curves not extracted
 - Focus ring styles (outline color, width, offset) not captured from the live site

@@ -1,0 +1,952 @@
+{
+  "source_url": "https://www.kemper-amps.com",
+  "final_url": "https://www.kemper-amps.com/",
+  "captured_at": "2026-09-28T04:07:16.281581+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.kemper-amps.com",
+      "final_url": "https://www.kemper-amps.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "88ed7a3d5948c4b4952882cf933dacca925a4b1e16c7693d30b2c5651f085fcc",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "final_url": "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d7d9e3af16f967fdd7eeb7f4e340d94a0ef16a4c2a8446934226cda3cf75fc8f",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://assets.juicer.io/embed.css",
+      "final_url": "https://assets.juicer.io/embed.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "015d0904990b1cc81e1681983dce840417c21e84a81883bfcc7e2941e186288d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.kemper-amps.com/compiled/css/player.css?v5",
+      "final_url": "https://www.kemper-amps.com/compiled/css/player.css?v5",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b9cc8b7f23e081873e99b06c73962cf208c0e01d0581deacf7a11439514ce739",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 319,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+        "https://assets.juicer.io/embed.css"
+      ]
+    },
+    "#000000": {
+      "count": 164,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+        "https://assets.juicer.io/embed.css",
+        "https://www.kemper-amps.com/compiled/css/player.css?v5"
+      ]
+    },
+    "#33715b": {
+      "count": 70,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "#f17e6f": {
+      "count": 34,
+      "sources": [
+        "https://assets.juicer.io/embed.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 33,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+        "https://www.kemper-amps.com/compiled/css/player.css?v5"
+      ]
+    },
+    "#aec7bd": {
+      "count": 26,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "#8baea2": {
+      "count": 22,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "#3377ff": {
+      "count": 22,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "#475b57": {
+      "count": 21,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "#999999": {
+      "count": 19,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+        "https://assets.juicer.io/embed.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 18,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+        "https://assets.juicer.io/embed.css",
+        "https://www.kemper-amps.com/compiled/css/player.css?v5"
+      ]
+    },
+    "#232830": {
+      "count": 18,
+      "sources": [
+        "https://assets.juicer.io/embed.css"
+      ]
+    },
+    "#919191": {
+      "count": 17,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "#ff6600": {
+      "count": 17,
+      "sources": [
+        "https://assets.juicer.io/embed.css"
+      ]
+    },
+    "#1185fe": {
+      "count": 17,
+      "sources": [
+        "https://assets.juicer.io/embed.css"
+      ]
+    },
+    "#3b5998": {
+      "count": 17,
+      "sources": [
+        "https://assets.juicer.io/embed.css"
+      ]
+    },
+    "#ff0084": {
+      "count": 17,
+      "sources": [
+        "https://assets.juicer.io/embed.css"
+      ]
+    },
+    "#4285f4": {
+      "count": 17,
+      "sources": [
+        "https://assets.juicer.io/embed.css"
+      ]
+    },
+    "#3f729b": {
+      "count": 17,
+      "sources": [
+        "https://assets.juicer.io/embed.css"
+      ]
+    },
+    "#c13584": {
+      "count": 17,
+      "sources": [
+        "https://assets.juicer.io/embed.css"
+      ]
+    },
+    "#007bb6": {
+      "count": 17,
+      "sources": [
+        "https://assets.juicer.io/embed.css"
+      ]
+    },
+    "#cb2028": {
+      "count": 17,
+      "sources": [
+        "https://assets.juicer.io/embed.css"
+      ]
+    },
+    "#ff3300": {
+      "count": 17,
+      "sources": [
+        "https://assets.juicer.io/embed.css"
+      ]
+    },
+    "#1ed760": {
+      "count": 17,
+      "sources": [
+        "https://assets.juicer.io/embed.css"
+      ]
+    },
+    "#375471": {
+      "count": 17,
+      "sources": [
+        "https://assets.juicer.io/embed.css"
+      ]
+    },
+    "#1ab7ea": {
+      "count": 17,
+      "sources": [
+        "https://assets.juicer.io/embed.css"
+      ]
+    },
+    "#00bf8f": {
+      "count": 17,
+      "sources": [
+        "https://assets.juicer.io/embed.css"
+      ]
+    },
+    "#c41200": {
+      "count": 17,
+      "sources": [
+        "https://assets.juicer.io/embed.css"
+      ]
+    },
+    "#02193c": {
+      "count": 17,
+      "sources": [
+        "https://assets.juicer.io/embed.css"
+      ]
+    },
+    "#3a3a3a": {
+      "count": 16,
+      "sources": [
+        "https://assets.juicer.io/embed.css"
+      ]
+    },
+    "#333333": {
+      "count": 15,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+        "https://assets.juicer.io/embed.css",
+        "https://www.kemper-amps.com/compiled/css/player.css?v5"
+      ]
+    },
+    "#3c763d": {
+      "count": 14,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "#8a6d3b": {
+      "count": 14,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "#a94442": {
+      "count": 14,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 13,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 12,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "#d1472c": {
+      "count": 12,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "#0b6e27": {
+      "count": 12,
+      "sources": [
+        "https://assets.juicer.io/embed.css"
+      ]
+    },
+    "#6aa4b6": {
+      "count": 10,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "#7b3949": {
+      "count": 10,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "#004800": {
+      "count": 10,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "#93ad2b": {
+      "count": 10,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "#767676": {
+      "count": 10,
+      "sources": [
+        "https://assets.juicer.io/embed.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 9,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+        "https://assets.juicer.io/embed.css",
+        "https://www.kemper-amps.com/compiled/css/player.css?v5"
+      ]
+    },
+    "#31708f": {
+      "count": 9,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "#555555": {
+      "count": 9,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+        "https://assets.juicer.io/embed.css"
+      ]
+    },
+    "#fcf8e3": {
+      "count": 8,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "#010e12": {
+      "count": 8,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "#1a0004": {
+      "count": 8,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "#202308": {
+      "count": 8,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "#2563eb": {
+      "count": 8,
+      "sources": [
+        "https://assets.juicer.io/embed.css"
+      ]
+    },
+    "#dff0d8": {
+      "count": 7,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "#f2dede": {
+      "count": 7,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "#f05b4a": {
+      "count": 7,
+      "sources": [
+        "https://assets.juicer.io/embed.css"
+      ]
+    },
+    "#d9edf7": {
+      "count": 6,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "#777777": {
+      "count": 6,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "#222222": {
+      "count": 6,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+        "https://assets.juicer.io/embed.css"
+      ]
+    },
+    "#080808": {
+      "count": 6,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "#b7b7b7": {
+      "count": 6,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "#f1f4f6": {
+      "count": 6,
+      "sources": [
+        "https://assets.juicer.io/embed.css"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 1,
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://assets.juicer.io/embed.css"
+    ],
+    "Apple Color Emoji": [
+      "https://assets.juicer.io/embed.css"
+    ],
+    "Arial": [
+      "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "https://assets.juicer.io/embed.css",
+      "https://www.kemper-amps.com/compiled/css/player.css?v5"
+    ],
+    "BlinkMacSystemFont": [
+      "https://assets.juicer.io/embed.css"
+    ],
+    "Consolas": [
+      "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+    ],
+    "Courier": [
+      "https://assets.juicer.io/embed.css"
+    ],
+    "Courier New": [
+      "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+    ],
+    "FontAwesome": [
+      "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+    ],
+    "Georgia": [
+      "https://assets.juicer.io/embed.css"
+    ],
+    "Glyphicons Halflings": [
+      "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+    ],
+    "Helvetica": [
+      "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "https://assets.juicer.io/embed.css"
+    ],
+    "Helvetica Neue": [
+      "https://assets.juicer.io/embed.css"
+    ],
+    "Lato": [
+      "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+    ],
+    "Menlo": [
+      "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+    ],
+    "Merriweather": [
+      "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+    ],
+    "Monaco": [
+      "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+    ],
+    "Noto Color Emoji": [
+      "https://assets.juicer.io/embed.css"
+    ],
+    "Noto Sans": [
+      "https://assets.juicer.io/embed.css"
+    ],
+    "Roboto": [
+      "https://assets.juicer.io/embed.css"
+    ],
+    "Segoe UI": [
+      "https://assets.juicer.io/embed.css"
+    ],
+    "Segoe UI Emoji": [
+      "https://assets.juicer.io/embed.css"
+    ],
+    "Segoe UI Symbol": [
+      "https://assets.juicer.io/embed.css"
+    ],
+    "Verdana": [
+      "https://www.kemper-amps.com/compiled/css/player.css?v5"
+    ],
+    "fontawesome-5-juicer": [
+      "https://assets.juicer.io/embed.css"
+    ],
+    "monospace": [
+      "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "https://assets.juicer.io/embed.css"
+    ],
+    "proxima-nova": [
+      "https://assets.juicer.io/embed.css"
+    ],
+    "sans-serif": [
+      "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "https://assets.juicer.io/embed.css",
+      "https://www.kemper-amps.com/compiled/css/player.css?v5"
+    ],
+    "serif": [
+      "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "https://assets.juicer.io/embed.css"
+    ],
+    "system-ui": [
+      "https://assets.juicer.io/embed.css"
+    ],
+    "ui-sans-serif": [
+      "https://assets.juicer.io/embed.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "selector": "button,\ninput,\noptgroup,\nselect,\ntextarea",
+      "declarations": "color: inherit;\n  font: inherit;\n  margin: 0;"
+    },
+    {
+      "source": "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "selector": ".btn > .caret,\n  .dropup > .btn > .caret",
+      "declarations": "border-top-color: #000 !important;"
+    },
+    {
+      "source": "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "selector": "body",
+      "declarations": "font-family: 'Lato', sans-serif;\n  font-size: 14px;\n  line-height: 1.42857143;\n  color: #ffffff;\n  background-color: #1a1a1a;"
+    },
+    {
+      "source": "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "selector": "input,\nbutton,\nselect,\ntextarea",
+      "declarations": "font-family: inherit;\n  font-size: inherit;\n  line-height: inherit;"
+    },
+    {
+      "source": "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "selector": "h1,\nh2,\nh3,\nh4,\nh5,\nh6,\n.h1,\n.h2,\n.h3,\n.h4,\n.h5,\n.h6",
+      "declarations": "font-family: inherit;\n  font-weight: 500;\n  line-height: 1.1;\n  color: inherit;"
+    },
+    {
+      "source": "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "selector": "small,\n.h2 small,\n.h3 small,\n.h4 small,\n.h5 small,\n.h6 small,\nh1 .small,\nh2 .small,\nh3 .small,\nh4 .small,\nh5 .small,\nh6 .small,\n.h1 .small,\n.h2 .small,\n.h3 .sma",
+      "declarations": "font-weight: normal;\n  line-height: 1;\n  color: #919191;"
+    },
+    {
+      "source": "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "selector": ".table-striped > tbody > tr:nth-of-type(odd)",
+      "declarations": "background-color: #f9f9f9;"
+    },
+    {
+      "source": "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "selector": ".table-hover > tbody > tr:hover",
+      "declarations": "background-color: #f5f5f5;"
+    },
+    {
+      "source": "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "selector": "e,\n.table > thead > tr.active > td,\n.table > tbody > tr.active > td,\n.table > tfoot > tr.active > td,\n.table > thead > tr.active > th,\n.table > tbody > tr.activ",
+      "declarations": "background-color: #f5f5f5;"
+    },
+    {
+      "source": "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "selector": "tr > td.active:hover,\n.table-hover > tbody > tr > th.active:hover,\n.table-hover > tbody > tr.active:hover > td,\n.table-hover > tbody > tr:hover > .active,\n.tabl",
+      "declarations": "background-color: #e8e8e8;"
+    },
+    {
+      "source": "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "selector": "ble > thead > tr.success > td,\n.table > tbody > tr.success > td,\n.table > tfoot > tr.success > td,\n.table > thead > tr.success > th,\n.table > tbody > tr.success",
+      "declarations": "background-color: #dff0d8;"
+    },
+    {
+      "source": "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "selector": "td.success:hover,\n.table-hover > tbody > tr > th.success:hover,\n.table-hover > tbody > tr.success:hover > td,\n.table-hover > tbody > tr:hover > .success,\n.table",
+      "declarations": "background-color: #d0e9c6;"
+    },
+    {
+      "source": "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "selector": "tr > th.info,\n.table > thead > tr.info > td,\n.table > tbody > tr.info > td,\n.table > tfoot > tr.info > td,\n.table > thead > tr.info > th,\n.table > tbody > tr.in",
+      "declarations": "background-color: #d9edf7;"
+    },
+    {
+      "source": "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "selector": "> tbody > tr > td.info:hover,\n.table-hover > tbody > tr > th.info:hover,\n.table-hover > tbody > tr.info:hover > td,\n.table-hover > tbody > tr:hover > .info,\n.ta",
+      "declarations": "background-color: #c4e3f3;"
+    },
+    {
+      "source": "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "selector": "ble > thead > tr.warning > td,\n.table > tbody > tr.warning > td,\n.table > tfoot > tr.warning > td,\n.table > thead > tr.warning > th,\n.table > tbody > tr.warning",
+      "declarations": "background-color: #fcf8e3;"
+    },
+    {
+      "source": "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "selector": "td.warning:hover,\n.table-hover > tbody > tr > th.warning:hover,\n.table-hover > tbody > tr.warning:hover > td,\n.table-hover > tbody > tr:hover > .warning,\n.table",
+      "declarations": "background-color: #faf2cc;"
+    },
+    {
+      "source": "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "selector": "r,\n.table > thead > tr.danger > td,\n.table > tbody > tr.danger > td,\n.table > tfoot > tr.danger > td,\n.table > thead > tr.danger > th,\n.table > tbody > tr.dange",
+      "declarations": "background-color: #f2dede;"
+    },
+    {
+      "source": "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "selector": "tr > td.danger:hover,\n.table-hover > tbody > tr > th.danger:hover,\n.table-hover > tbody > tr.danger:hover > td,\n.table-hover > tbody > tr:hover > .danger,\n.tabl",
+      "declarations": "background-color: #ebcccc;"
+    },
+    {
+      "source": "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "selector": ".btn:hover,\n.btn:focus,\n.btn.focus",
+      "declarations": "color: #333333;\n  text-decoration: none;"
+    },
+    {
+      "source": "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "selector": ".btn-default",
+      "declarations": "color: #333333;\n  background-color: #ffffff;\n  border-color: #cccccc;"
+    },
+    {
+      "source": "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "selector": ".btn-default:hover,\n.btn-default:focus,\n.btn-default.focus,\n.btn-default:active,\n.btn-default.active,\n.open > .dropdown-toggle.btn-default",
+      "declarations": "color: #333333;\n  background-color: #e6e6e6;\n  border-color: #adadad;"
+    },
+    {
+      "source": "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "selector": "btn-default.disabled:active,\n.btn-default[disabled]:active,\nfieldset[disabled] .btn-default:active,\n.btn-default.disabled.active,\n.btn-default[disabled].active,",
+      "declarations": "background-color: #ffffff;\n  border-color: #cccccc;"
+    },
+    {
+      "source": "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "selector": ".btn-default .badge",
+      "declarations": "color: #ffffff;\n  background-color: #333333;"
+    },
+    {
+      "source": "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "selector": ".btn-primary",
+      "declarations": "color: #ffffff;\n  background-color: #33715b;\n  border-color: #2b5f4d;"
+    },
+    {
+      "source": "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "selector": ".btn-primary:hover,\n.btn-primary:focus,\n.btn-primary.focus,\n.btn-primary:active,\n.btn-primary.active,\n.open > .dropdown-toggle.btn-primary",
+      "declarations": "color: #ffffff;\n  background-color: #234e3f;\n  border-color: #18352b;"
+    },
+    {
+      "source": "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "selector": "btn-primary.disabled:active,\n.btn-primary[disabled]:active,\nfieldset[disabled] .btn-primary:active,\n.btn-primary.disabled.active,\n.btn-primary[disabled].active,",
+      "declarations": "background-color: #33715b;\n  border-color: #2b5f4d;"
+    },
+    {
+      "source": "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "selector": ".btn-primary .badge",
+      "declarations": "color: #33715b;\n  background-color: #ffffff;"
+    },
+    {
+      "source": "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "selector": ".btn-success",
+      "declarations": "color: #ffffff;\n  background-color: #5cb85c;\n  border-color: #4cae4c;"
+    },
+    {
+      "source": "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "selector": ".btn-success:hover,\n.btn-success:focus,\n.btn-success.focus,\n.btn-success:active,\n.btn-success.active,\n.open > .dropdown-toggle.btn-success",
+      "declarations": "color: #ffffff;\n  background-color: #449d44;\n  border-color: #398439;"
+    },
+    {
+      "source": "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+      "selector": "btn-success.disabled:active,\n.btn-success[disabled]:active,\nfieldset[disabled] .btn-success:active,\n.btn-success.disabled.active,\n.btn-success[disabled].active,",
+      "declarations": "background-color: #5cb85c;\n  border-color: #4cae4c;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Homepage | Kemper Amps",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+        "https://assets.juicer.io/embed.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+        "https://www.kemper-amps.com/compiled/css/player.css?v5"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+        "https://assets.juicer.io/embed.css",
+        "https://www.kemper-amps.com/compiled/css/player.css?v5"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.juicer.io/embed.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.juicer.io/embed.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+        "https://assets.juicer.io/embed.css"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.juicer.io/embed.css"
+      ]
+    },
+    "colors.sage": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "colors.sage-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "colors.forest": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "colors.border-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5",
+        "https://assets.juicer.io/embed.css",
+        "https://www.kemper-amps.com/compiled/css/player.css?v5"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "colors.success-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "colors.warning-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "colors.danger-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "colors.info-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kemper-amps.com/compiled/css/styles.css?v5"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-table": {
+      "status": "inferred"
+    }
+  },
+  "retained_css_palette_extension": [
+    "#f9f9f9"
+  ]
+}

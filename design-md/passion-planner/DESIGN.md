@@ -1,30 +1,11 @@
 ---
 version: alpha
-name: Passion Planner
-description: >-
-  The muted rose of #ba6a6a — not coral, not blush, but the tone of dried petals
-  still holding their original color — marks every primary CTA on passionplanner.com
-  and anchors a palette assembled like a physical flat-lay: dark walnut ink at #463a29,
-  amber spills at #f4ad3a, an olive-khaki accent at #959264, and a warm cream canvas
-  at #fbf9f3 that reads like natural cotton rather than bleached white. PPEditorial's
-  high-contrast serifs define the headline register — hairline horizontals against
-  muscular verticals give each section header deliberate editorial weight, distinguishing
-  Passion Planner from the lifestyle-generic scripts common in adjacent journaling
-  brands. AvenirCustom handles everything below 24px: navigation labels, button copy,
-  filter toggles, form fields, the geometric letters carrying the planning-oriented
-  clarity the audience expects. Cabin and Lato fill the fallback chain, sharing enough
-  proportion with Avenir that a stack swap goes unnoticed. Corner radii stay measured:
-  `{rounded.sm}` on inputs and buttons, `{rounded.md}` on product cards — personal
-  without veering juvenile. At 48px tall, buttons carry deliberate authority, the click
-  feeling like committing to a plan rather than a casual tap. Amber (#f4ad3a) functions
-  as the brand's urgency signal: announcement bars, limited-run tags, seasonal collection
-  callouts. Olive-khaki (#959264) settles into muted secondary labels and footer
-  navigation, bridging the brown-ink world and the cream canvas without landing on any
-  single seasonal hue. Product cards devote a horizontal swatch row to colorway selection
-  — a dozen covers at any given time — without crowding the tile, because choosing the
-  right cover is part of the purchase ritual for a Passion Planner customer. Hairlines
-  at #dedede read as connective tissue between sections rather than hard separators,
-  consistent with a brand whose thesis is that visible structure enables personal flow.
+name: "Passion Planner"
+source_url: "https://passionplanner.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The muted rose of #ba6a6a — not coral, not blush, but the tone of dried petals still holding their original color — marks every primary CTA on passionplanner.com and anchors a palette assembled like a physical flat-lay: dark walnut ink at #463a29, amber spills at #f4ad3a, an olive-khaki accent at #959264, and a warm cream canvas at #fbf9f3 that reads like natural cotton rather than bleached white. PPEditorial's high-contrast serifs define the headline register — hairline horizontals against muscular verticals give each section header deliberate editorial weight, distinguishing Passion Planner from the lifestyle-generic scripts common in adjacent journaling brands. AvenirCustom handles everything below 24px: navigation labels, button copy, filter toggles, form fields, the geometric letters carrying the planning-oriented clarity the audience expects. Cabin and Lato fill the fallback chain, sharing enough proportion with Avenir that a stack swap goes unnoticed. Corner radii stay measured: `{rounded.sm}` on inputs and buttons, `{rounded.md}` on product cards — personal without veering juvenile. At 48px tall, buttons carry deliberate authority, the click feeling like committing to a plan rather than a casual tap. Amber (#f4ad3a) functions as the brand's urgency signal: announcement bars, limited-run tags, seasonal collection callouts. Olive-khaki (#959264) settles into muted secondary labels and footer navigation, bridging the brown-ink world and the cream canvas without landing on any single seasonal hue. Product cards devote a horizontal swatch row to colorway selection — a dozen covers at any given time — without crowding the tile, because choosing the right cover is part of the purchase ritual for a Passion Planner customer. Hairlines at #dedede read as connective tissue between sections rather than hard separators, consistent with a brand whose thesis is that visible structure enables personal flow.
 
 colors:
   primary: "#ba6a6a"
@@ -346,6 +327,8 @@ components:
 - Collection filter pills move from a sticky left sidebar at desktop to a horizontal scroll strip pinned below the nav on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No `meta theme-color` was extracted; browser chrome color on mobile Safari is unconfirmed and will default to system chrome
 - Shopify admin interface colors (#008060, #35ee7a) appear in the extraction pool and are explicitly excluded from the brand palette

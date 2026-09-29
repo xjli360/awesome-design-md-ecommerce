@@ -1,0 +1,804 @@
+{
+  "source_url": "https://bugaboo.com",
+  "final_url": "https://www.bugaboo.com/us-en",
+  "captured_at": "2026-09-28T04:22:09.233612+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://bugaboo.com",
+      "final_url": "https://www.bugaboo.com/us-en",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "sha256": "bc2e5960a935b3b5ceb800e4488e743f5c502bd43ef735025e4830f6426dc79d",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css",
+      "final_url": "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a28ad7a657a4352430aa0bb89ac60bbf278e4683f827248694dc2c689158737d",
+      "snapshot": "stylesheet-1.css"
+    }
+  ],
+  "colors": {
+    "#0f0f02": {
+      "count": 400,
+      "sources": [
+        "https://www.bugaboo.com/us-en",
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 347,
+      "sources": [
+        "https://www.bugaboo.com/us-en",
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#f2f1ef": {
+      "count": 245,
+      "sources": [
+        "https://www.bugaboo.com/us-en",
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#d8d8d8": {
+      "count": 224,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#93938d": {
+      "count": 192,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#4a4a44": {
+      "count": 70,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#666666": {
+      "count": 46,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#fafaf7": {
+      "count": 39,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#deddd9": {
+      "count": 32,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#000000": {
+      "count": 27,
+      "sources": [
+        "https://www.bugaboo.com/us-en",
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#c0c0bb": {
+      "count": 18,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#0f956a": {
+      "count": 15,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#d25f5f": {
+      "count": 11,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 10,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#e87e6a": {
+      "count": 9,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#e35f47": {
+      "count": 8,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#cc0000": {
+      "count": 7,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#fef1dd": {
+      "count": 7,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#f64747": {
+      "count": 7,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 7,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 6,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#3c3f40": {
+      "count": 6,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#4f99ff": {
+      "count": 6,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 5,
+      "sources": [
+        "https://www.bugaboo.com/us-en"
+      ]
+    },
+    "#edb9d9": {
+      "count": 5,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#404848": {
+      "count": 5,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#aaa5a5": {
+      "count": 4,
+      "sources": [
+        "https://www.bugaboo.com/us-en"
+      ]
+    },
+    "#86cbe1": {
+      "count": 4,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#e3f1fc": {
+      "count": 4,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#d01137": {
+      "count": 4,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#fab855": {
+      "count": 3,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#d9f0d9": {
+      "count": 3,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#f4d7d7": {
+      "count": 3,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#25255a": {
+      "count": 3,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#fe7a00": {
+      "count": 3,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#959ea9": {
+      "count": 3,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#d2f3e8": {
+      "count": 3,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#b3d4fc": {
+      "count": 2,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#c44d00": {
+      "count": 2,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#f96705": {
+      "count": 2,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#bf3a30": {
+      "count": 2,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#2c2c28": {
+      "count": 2,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#76766f": {
+      "count": 2,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#e1e1e1": {
+      "count": 2,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#000227": {
+      "count": 2,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#ffc430": {
+      "count": 2,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#646c8c": {
+      "count": 2,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#569ff7": {
+      "count": 2,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#80cbc4": {
+      "count": 2,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#eceae8": {
+      "count": 2,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#f9f8f7": {
+      "count": 2,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#bab3f4": {
+      "count": 2,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#026c95": {
+      "count": 2,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#fec300": {
+      "count": 2,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#855d42": {
+      "count": 1,
+      "sources": [
+        "https://www.bugaboo.com/us-en"
+      ]
+    },
+    "#ffff00": {
+      "count": 1,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#f5f2f0": {
+      "count": 1,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#708090": {
+      "count": 1,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#999999": {
+      "count": 1,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "#990055": {
+      "count": 1,
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    }
+  },
+  "font_families": {
+    "AeonikPro": [
+      "https://www.bugaboo.com/us-en",
+      "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+    ],
+    "AeonikPro!important": [
+      "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+    ],
+    "Andale Mono": [
+      "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+    ],
+    "Arial": [
+      "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+    ],
+    "Consolas": [
+      "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+    ],
+    "Helvetica": [
+      "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+    ],
+    "Helvetica Neue": [
+      "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+    ],
+    "Monaco": [
+      "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+    ],
+    "Ubuntu Mono": [
+      "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+    ],
+    "monospace": [
+      "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+    ],
+    "sans-serif": [
+      "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.bugaboo.com/us-en",
+      "selector": ".dw-apple-pay-button,.dw-apple-pay-button:hover,.dw-apple-pay-button:active",
+      "declarations": "background-color:#000;background-image:-webkit-named-image(apple-pay-logo-white);background-position:50% 50%;background-repeat:no-repeat;background-size:75% 60%;border-radius:5px;border:1px solid black;box-sizing:border-box;margin:5px auto;min-height:30px;min-width:100px;padding:0"
+    },
+    {
+      "source": "https://www.bugaboo.com/us-en",
+      "selector": ".dw-apple-pay-button.dw-apple-pay-logo-white",
+      "declarations": "background-color:#fff;border-color:#fff;background-image:-webkit-named-image(apple-pay-logo-black);color:#000"
+    },
+    {
+      "source": "https://www.bugaboo.com/us-en",
+      "selector": ".dw-apple-pay-button.dw-apple-pay-logo-white.dw-apple-pay-border",
+      "declarations": "border-color:#000"
+    },
+    {
+      "source": "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css",
+      "selector": "a,body,button,html,input",
+      "declarations": "-webkit-tap-highlight-color:rgba(0,0,0,0)"
+    },
+    {
+      "source": "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0"
+    },
+    {
+      "source": "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css",
+      "selector": ":root",
+      "declarations": "--container-width:100vw;--page-width:100%;--theme-color:inherit;--theme-text-color:inherit;--vh:1vh;--header-offset-height:54px"
+    },
+    {
+      "source": "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css",
+      "selector": ":root",
+      "declarations": "--header-offset-height:128px"
+    },
+    {
+      "source": "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css",
+      "selector": ":root",
+      "declarations": "--header-offset-height:64px"
+    },
+    {
+      "source": "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css",
+      "selector": ":root",
+      "declarations": "--container-width:1440px"
+    },
+    {
+      "source": "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css",
+      "selector": ".dynamic-price-button__label",
+      "declarations": "color:#93938d;display:block;font-size:.875rem;font-weight:400;left:0;margin-bottom:4px;position:absolute;right:50%;text-align:left;top:-18px;white-space:nowrap;width:auto"
+    },
+    {
+      "source": "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css",
+      "selector": ".c-button",
+      "declarations": "align-items:center;background-color:#0f0f02;border-radius:100px;color:#fff;cursor:pointer;display:inline-flex;font-size:1rem;font-size:.875rem;font-weight:500;justify-content:center;letter-spacing:.01rem;line-height:1.35;margin:0;max-width:100%;overflow:hidden;padding:12px;position:relative;text-align:center;text-decoration:none;transition:.3s cubic-bezier(.455,.03,.515,.955);transition-property:color,background-color,border-color;-webkit-user-select:none;-moz-user-select:none;user-select:none;vertical-align:top"
+    },
+    {
+      "source": "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css",
+      "selector": ".c-button.disabled,.c-button[disabled]",
+      "declarations": "background-color:#d8d8d8;border:1px solid #d8d8d8;color:#93938d;cursor:default;pointer-events:none"
+    },
+    {
+      "source": "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css",
+      "selector": "html.is-touch--with-mouse .c-button.disabled:hover,html.is-touch--with-mouse .c-button[disabled]:hover,html:not(.is-touch) .c-button.disabled:hover,html:not(.is",
+      "declarations": "background-color:#d8d8d8;color:#93938d;cursor:default;pointer-events:none"
+    },
+    {
+      "source": "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css",
+      "selector": ".has--keyboard-focus .c-button.disabled:focus-visible,.has--keyboard-focus .c-button[disabled]:focus-visible",
+      "declarations": "background-color:#d8d8d8;color:#93938d;cursor:default;pointer-events:none"
+    },
+    {
+      "source": "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css",
+      "selector": ".c-button.is--loading:before",
+      "declarations": "animation:button-loading 1s linear infinite;animation-fill-mode:both;background-color:#0f0f02;content:\"\";display:block;height:4px;left:0;position:absolute;top:0;transform-origin:left top;width:100%;z-index:1"
+    },
+    {
+      "source": "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css",
+      "selector": ".c-button--primary-large.disabled,.c-button--primary-large[disabled]",
+      "declarations": "background-color:#d8d8d8;border:1px solid #d8d8d8"
+    },
+    {
+      "source": "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css",
+      "selector": "sabled:hover,html.is-touch--with-mouse .c-button--primary-large[disabled]:hover,html:not(.is-touch) .c-button--primary-large.disabled:hover,html:not(.is-touch) ",
+      "declarations": "background-color:#d8d8d8"
+    },
+    {
+      "source": "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css",
+      "selector": ".has--keyboard-focus .c-button--primary-large.disabled:focus-visible,.has--keyboard-focus .c-button--primary-large[disabled]:focus-visible",
+      "declarations": "background-color:#d8d8d8"
+    },
+    {
+      "source": "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css",
+      "selector": ".c-button--primary-large.is--loading:before",
+      "declarations": "animation:button-loading 1s linear infinite;animation-fill-mode:both;background-color:#0f0f02;content:\"\";display:block;height:4px;left:0;position:absolute;top:0;transform-origin:left top;width:100%;z-index:1"
+    },
+    {
+      "source": "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css",
+      "selector": ".c-button--primary-large",
+      "declarations": "align-items:center;background-color:#0f0f02;color:#fff;display:inline-flex;justify-content:center;position:relative;text-align:center;transition:transform .2s ease-in-out;z-index:0"
+    },
+    {
+      "source": "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css",
+      "selector": ".c-button--primary-large:after",
+      "declarations": "background-color:#4a4a44;border-radius:100px;content:\"\";display:block;height:100%;left:0;position:absolute;top:0;transform:translate(100%);transform-origin:top left;transition:transform .2s ease-out;width:100%;will-change:transform;z-index:-2"
+    },
+    {
+      "source": "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css",
+      "selector": ".c-button--primary-large.disabled,.c-button--primary-large[disabled]",
+      "declarations": "background-color:#f2f1ef;border:1px solid #f2f1ef;color:#93938d;cursor:default;pointer-events:none"
+    },
+    {
+      "source": "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css",
+      "selector": "sabled:hover,html.is-touch--with-mouse .c-button--primary-large[disabled]:hover,html:not(.is-touch) .c-button--primary-large.disabled:hover,html:not(.is-touch) ",
+      "declarations": "background-color:#f2f1ef;color:#93938d;cursor:default;pointer-events:none"
+    },
+    {
+      "source": "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css",
+      "selector": ".has--keyboard-focus .c-button--primary-large.disabled:focus-visible,.has--keyboard-focus .c-button--primary-large[disabled]:focus-visible",
+      "declarations": "background-color:#f2f1ef;color:#93938d;cursor:default;pointer-events:none"
+    },
+    {
+      "source": "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css",
+      "selector": "html.is-touch--with-mouse .c-button--primary-large:hover .button__icon:not(.button--transform-none),html:not(.is-touch) .c-button--primary-large:hover .button__",
+      "declarations": "color:currentColor;display:block"
+    },
+    {
+      "source": "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css",
+      "selector": "html.is-touch--with-mouse .c-button--primary-large:hover .dynamic-price-button__button-price:after,html:not(.is-touch) .c-button--primary-large:hover .dynamic-p",
+      "declarations": "background-color:#93938d"
+    },
+    {
+      "source": "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css",
+      "selector": ".has--keyboard-focus .c-button--primary-large:focus-visible",
+      "declarations": "background-color:#fff;color:#0f0f02"
+    },
+    {
+      "source": "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css",
+      "selector": ".c-button--primary-large .c-ripple",
+      "declarations": "--ripple-color:74,74,68;animation:ripple-effect-mobile-cta .6s ease-in;border-radius:50%;position:absolute;transform:scale(0)"
+    },
+    {
+      "source": "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css",
+      "selector": ".c-button--primary.disabled,.c-button--primary[disabled]",
+      "declarations": "background-color:#d8d8d8;border:1px solid #d8d8d8"
+    },
+    {
+      "source": "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css",
+      "selector": "button--primary.disabled:hover,html.is-touch--with-mouse .c-button--primary[disabled]:hover,html:not(.is-touch) .c-button--primary.disabled:hover,html:not(.is-t",
+      "declarations": "background-color:#d8d8d8"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Bugaboo strollers and more | Official website",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bugaboo.com/us-en",
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bugaboo.com/us-en",
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bugaboo.com/us-en",
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bugaboo.com/us-en",
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bugaboo.com/us-en",
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "colors.divider-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "colors.disabled-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "colors.accent-success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "colors.accent-error": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "colors.accent-warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "colors.accent-info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.bugaboo.com/on/demandware.static/Sites-bugaboo-us-Site/-/en_US/v1790567094217/css/homepage.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.stroller-configurator-card": {
+      "status": "inferred"
+    }
+  }
+}

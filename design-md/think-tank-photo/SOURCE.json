@@ -1,0 +1,750 @@
+{
+  "source_url": "https://thinktankphoto.com",
+  "final_url": "https://www.thinktankphoto.com/",
+  "captured_at": "2026-09-28T09:31:08.608546+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://thinktankphoto.com",
+      "final_url": "https://www.thinktankphoto.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "50364b252e9500fbb592a0c9c990171c3b6329c007a6e5d01354a0143def82c3",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.thinktankphoto.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.thinktankphoto.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.thinktankphoto.com/cdn/shop/t/163/assets/bold-upsell.css?v=51915886505602322711789401918",
+      "final_url": "https://www.thinktankphoto.com/cdn/shop/t/163/assets/bold-upsell.css?v=51915886505602322711789401918",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "69d2be0cbea3bdf18cef2ff37356a6236d6a8dd04f7ffb6850982785c46fbf6f",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.thinktankphoto.com/cdn/shop/t/163/assets/bold-upsell-custom.css?v=150135899998303055901789401918",
+      "final_url": "https://www.thinktankphoto.com/cdn/shop/t/163/assets/bold-upsell-custom.css?v=150135899998303055901789401918",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "50b0924279d314399be5301ecb6ba891d68d856a8e0ddc84e2c73062893340ab",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.css",
+      "final_url": "https://cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "de1e399b07289f3b0a8d35142e363e128124a1185770e214e25e58030dad48e5",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css",
+      "final_url": "https://cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "7adaf08052c6a6a0f8a0d0055b4f191fd07389fe41c972b69573472b2ecb406a",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 32,
+      "sources": [
+        "https://www.thinktankphoto.com/",
+        "https://www.thinktankphoto.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.thinktankphoto.com/cdn/shop/t/163/assets/bold-upsell.css?v=51915886505602322711789401918",
+        "https://cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css"
+      ]
+    },
+    "#2f2b2b": {
+      "count": 12,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#000000": {
+      "count": 11,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 5,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 4,
+      "sources": [
+        "https://www.thinktankphoto.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.thinktankphoto.com/cdn/shop/t/163/assets/bold-upsell.css?v=51915886505602322711789401918"
+      ]
+    },
+    "#00000033": {
+      "count": 4,
+      "sources": [
+        "https://www.thinktankphoto.com/cdn/shop/t/163/assets/bold-upsell.css?v=51915886505602322711789401918"
+      ]
+    },
+    "#00000066": {
+      "count": 4,
+      "sources": [
+        "https://www.thinktankphoto.com/cdn/shop/t/163/assets/bold-upsell.css?v=51915886505602322711789401918"
+      ]
+    },
+    "#2f5f88": {
+      "count": 3,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#23323f": {
+      "count": 3,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#121212": {
+      "count": 3,
+      "sources": [
+        "https://www.thinktankphoto.com/",
+        "https://www.thinktankphoto.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 3,
+      "sources": [
+        "https://www.thinktankphoto.com/",
+        "https://www.thinktankphoto.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#ffffff00": {
+      "count": 3,
+      "sources": [
+        "https://www.thinktankphoto.com/cdn/shop/t/163/assets/bold-upsell.css?v=51915886505602322711789401918"
+      ]
+    },
+    "#ab9f1d": {
+      "count": 2,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#875136": {
+      "count": 2,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#818181": {
+      "count": 2,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#fcfcfc": {
+      "count": 2,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#333333": {
+      "count": 2,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#000000cc": {
+      "count": 2,
+      "sources": [
+        "https://www.thinktankphoto.com/cdn/shop/t/163/assets/bold-upsell.css?v=51915886505602322711789401918"
+      ]
+    },
+    "#3498db": {
+      "count": 2,
+      "sources": [
+        "https://www.thinktankphoto.com/cdn/shop/t/163/assets/bold-upsell.css?v=51915886505602322711789401918"
+      ]
+    },
+    "#00000008": {
+      "count": 2,
+      "sources": [
+        "https://www.thinktankphoto.com/cdn/shop/t/163/assets/bold-upsell.css?v=51915886505602322711789401918"
+      ]
+    },
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://www.thinktankphoto.com/cdn/shop/t/163/assets/bold-upsell.css?v=51915886505602322711789401918"
+      ]
+    },
+    "#c9dced": {
+      "count": 1,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#b4b4b4": {
+      "count": 1,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#4e4e4e": {
+      "count": 1,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#0d0d0d": {
+      "count": 1,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 1,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#e3e3e3": {
+      "count": 1,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#ebebeb": {
+      "count": 1,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#919191": {
+      "count": 1,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#f4f6f9": {
+      "count": 1,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#c1b321": {
+      "count": 1,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#1a252f": {
+      "count": 1,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 1,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 1,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#9f9f9f": {
+      "count": 1,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#4d4d4d": {
+      "count": 1,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#242424": {
+      "count": 1,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#343333": {
+      "count": 1,
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.thinktankphoto.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.thinktankphoto.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 1,
+      "sources": [
+        "https://www.thinktankphoto.com/cdn/shop/t/163/assets/bold-upsell.css?v=51915886505602322711789401918"
+      ]
+    },
+    "#adadad": {
+      "count": 1,
+      "sources": [
+        "https://www.thinktankphoto.com/cdn/shop/t/163/assets/bold-upsell.css?v=51915886505602322711789401918"
+      ]
+    },
+    "#00000024": {
+      "count": 1,
+      "sources": [
+        "https://www.thinktankphoto.com/cdn/shop/t/163/assets/bold-upsell.css?v=51915886505602322711789401918"
+      ]
+    },
+    "#0000001a": {
+      "count": 1,
+      "sources": [
+        "https://www.thinktankphoto.com/cdn/shop/t/163/assets/bold-upsell.css?v=51915886505602322711789401918"
+      ]
+    },
+    "#00000005": {
+      "count": 1,
+      "sources": [
+        "https://www.thinktankphoto.com/cdn/shop/t/163/assets/bold-upsell.css?v=51915886505602322711789401918"
+      ]
+    },
+    "#ffffff80": {
+      "count": 1,
+      "sources": [
+        "https://www.thinktankphoto.com/cdn/shop/t/163/assets/bold-upsell.css?v=51915886505602322711789401918"
+      ]
+    }
+  },
+  "font_families": {
+    "Montserrat": [
+      "https://www.thinktankphoto.com/"
+    ],
+    "Nunito": [
+      "https://www.thinktankphoto.com/"
+    ],
+    "Roboto Mono": [
+      "https://www.thinktankphoto.com/"
+    ],
+    "slick": [
+      "https://cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.thinktankphoto.com/",
+      "selector": "body",
+      "declarations": "background-color: var(--body-color);\n        min-height: 100%;\n        margin: 0;\n        display: grid;\n        grid-template-rows: auto auto 1fr auto;\n        grid-template-columns: 100%;"
+    },
+    {
+      "source": "https://www.thinktankphoto.com/",
+      "selector": "max-height: 200px; width: 200px\nobject-position: 50.0% 50.0%;max-width: 600px; max-height: 200px; width: 200px\nobject-position: 50.0% 50.0%;max-width: 600px; ma",
+      "declarations": "--logo-max-width: 200px;"
+    },
+    {
+      "source": "https://www.thinktankphoto.com/",
+      "selector": ".template-index .overlay-header.force-hover, \n.template-list-collections .overlay-header.force-hover .contact-page .overlay-header.force-hover",
+      "declarations": "background-color: #fff;"
+    },
+    {
+      "source": "https://www.thinktankphoto.com/",
+      "selector": ".bold-product__title",
+      "declarations": "color: #121212;\n        font-size: 15px;\n        height: 100%;"
+    },
+    {
+      "source": "https://www.thinktankphoto.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.thinktankphoto.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.thinktankphoto.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.thinktankphoto.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.thinktankphoto.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.thinktankphoto.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.thinktankphoto.com/cdn/shop/t/163/assets/bold-upsell.css?v=51915886505602322711789401918",
+      "selector": ".bold-modal__header",
+      "declarations": "font-size:12px;color:#0006;text-transform:uppercase;border-bottom:1px solid rgba(0,0,0,.1)"
+    },
+    {
+      "source": "https://www.thinktankphoto.com/cdn/shop/t/163/assets/bold-upsell.css?v=51915886505602322711789401918",
+      "selector": ".bold-upsell__button--primary:link,.bold-upsell__button--primary:visited,.bold-upsell__button--primary:hover,.bold-upsell__button--primary:active,.bold-upsell__",
+      "declarations": "color:inherit;text-decoration:none"
+    },
+    {
+      "source": "https://www.thinktankphoto.com/cdn/shop/t/163/assets/bold-upsell.css?v=51915886505602322711789401918",
+      "selector": ".bold-upsell__button--primary",
+      "declarations": "display:inline-block;padding:15px 25px;border:1px solid rgba(0,0,0,.3);background-color:#00000008;border-radius:2px"
+    },
+    {
+      "source": "https://www.thinktankphoto.com/cdn/shop/t/163/assets/bold-upsell.css?v=51915886505602322711789401918",
+      "selector": ".bold-upsell__button--primary:hover",
+      "declarations": "background-color:#0000;border-color:#0003"
+    },
+    {
+      "source": "https://www.thinktankphoto.com/cdn/shop/t/163/assets/bold-upsell.css?v=51915886505602322711789401918",
+      "selector": ".bold-upsell__button--primary:active",
+      "declarations": "background-color:#0000000d;border-color:#0006"
+    },
+    {
+      "source": "https://www.thinktankphoto.com/cdn/shop/t/163/assets/bold-upsell.css?v=51915886505602322711789401918",
+      "selector": ".bold-product",
+      "declarations": "max-width:auto;font-size:13px;background-color:#ffffff80;border:1px solid rgba(0,0,0,.2);padding:10px"
+    },
+    {
+      "source": "https://www.thinktankphoto.com/cdn/shop/t/163/assets/bold-upsell.css?v=51915886505602322711789401918",
+      "selector": ".bold-product__control",
+      "declarations": "padding:15px;display:block;border-radius:2px;line-height:1;color:inherit;border:1px solid rgba(0,0,0,.3);background-color:#00000008;-webkit-appearance:none;-moz-appearance:none;appearance:none"
+    },
+    {
+      "source": "https://www.thinktankphoto.com/cdn/shop/t/163/assets/bold-upsell.css?v=51915886505602322711789401918",
+      "selector": ".bold-product__variant-selector",
+      "declarations": "padding-right:36px;background-image:url('data:image/svg+xml;utf-8,<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"26\" height=\"16\" viewBox=\"0 0 26 16\"><path fill=\"CurrentColor\" d=\"M8.02682426,8.99999532 L11.3523243,8.99999532 C11.7765243,8.99999532 12.0080243,9.49499532 11.7360243,9.82059532 L10.2242243,11.6301953 L8.41062426,13.8032953 C8.31564065,13.9171173 8.17504521,13.9829213 8.02679765,13.9829406 C7.87855009,13.9829599 7.73793751,13.9171926 7.64292426,13.8033953 L5.82942426,11.6315953 L4.31712426,9.82049532 C4.04532426,9.49489532 4.27682426,8.99999532 4.70102426,8.99999532 L8.02702426,8.99999532 L8.02682426,8.99999532 Z M8.02652426,6.98299532 L4.70102426,6.98299532 C4.27682426,6.98299532"
+    },
+    {
+      "source": "https://www.thinktankphoto.com/cdn/shop/t/163/assets/bold-upsell.css?v=51915886505602322711789401918",
+      "selector": ".bold-product__button,.bold-product__button:link,.bold-product__button:visited,.bold_product__button:hover,.bold_product__button:active,.bold_product__button:fo",
+      "declarations": "text-decoration:none;color:inherit"
+    },
+    {
+      "source": "https://www.thinktankphoto.com/cdn/shop/t/163/assets/bold-upsell.css?v=51915886505602322711789401918",
+      "selector": ".bold-product__button:hover",
+      "declarations": "background-color:#0000;border-color:#0003"
+    },
+    {
+      "source": "https://www.thinktankphoto.com/cdn/shop/t/163/assets/bold-upsell.css?v=51915886505602322711789401918",
+      "selector": ".bold-product__button:active",
+      "declarations": "background-color:#0000000d;border-color:#0006"
+    },
+    {
+      "source": "https://www.thinktankphoto.com/cdn/shop/t/163/assets/bold-upsell.css?v=51915886505602322711789401918",
+      "selector": ".bold-product__quantity-field",
+      "declarations": "width:100%;background-color:transparent;font-size:13px;line-height:14px"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css",
+      "selector": ".slick-dots li button",
+      "declarations": "font-size: 0;\n    line-height: 0;\n\n    display: block;\n\n    width: 20px;\n    height: 20px;\n    padding: 5px;\n\n    cursor: pointer;\n\n    color: transparent;\n    border: 0;\n    outline: none;\n    background: transparent;"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css",
+      "selector": ".slick-dots li button:before",
+      "declarations": "font-family: 'slick';\n    font-size: 6px;\n    line-height: 20px;\n\n    position: absolute;\n    top: 0;\n    left: 0;\n\n    width: 20px;\n    height: 20px;\n\n    content: '•';\n    text-align: center;\n\n    opacity: .25;\n    color: black;\n\n    -webkit-font-smoothing: antialiased;\n    -moz-osx-font-smoothing: grayscale;"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css",
+      "selector": ".slick-dots li.slick-active button:before",
+      "declarations": "opacity: .75;\n    color: black;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Think Tank - Best camera bags, shoulder bags, backpacks, and rollers\n      \n      \n        – Think Tank Photo",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thinktankphoto.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thinktankphoto.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thinktankphoto.com/",
+        "https://www.thinktankphoto.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.ink-secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thinktankphoto.com/",
+        "https://www.thinktankphoto.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.thinktankphoto.com/cdn/shop/t/163/assets/bold-upsell.css?v=51915886505602322711789401918",
+        "https://cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thinktankphoto.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thinktankphoto.com/",
+        "https://www.thinktankphoto.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.thinktankphoto.com/cdn/shop/t/163/assets/bold-upsell.css?v=51915886505602322711789401918",
+        "https://cdn.jsdelivr.net/gh/kenwheeler/slick@1.8.1/slick/slick-theme.css"
+      ]
+    },
+    "colors.border-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thinktankphoto.com/cdn/shop/t/163/assets/bold-upsell.css?v=51915886505602322711789401918"
+      ]
+    },
+    "colors.skeleton": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.thinktankphoto.com/",
+        "https://www.thinktankphoto.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.quick-view-overlay": {
+      "status": "inferred"
+    }
+  }
+}

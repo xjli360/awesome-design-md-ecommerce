@@ -1,0 +1,729 @@
+{
+  "source_url": "https://evenflo.com",
+  "final_url": "https://www.evenflo.com/",
+  "captured_at": "2026-09-29T04:08:04.731737+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://evenflo.com",
+      "final_url": "https://www.evenflo.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "a6a73f5269066028ea44fcc7f05a98dfd19df9fa28b2fa0e5d3e92217d426906",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.evenflo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.evenflo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://use.typekit.net/dyv3vej.css",
+      "final_url": "https://use.typekit.net/dyv3vej.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "da658bcaf0a3cdf80724324bf0031d6d65e4d6142393cbfdf35c45ec421834dd",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.evenflo.com/cdn/shop/t/208/assets/base.css?v=53248798131414406551787854935",
+      "final_url": "https://www.evenflo.com/cdn/shop/t/208/assets/base.css?v=53248798131414406551787854935",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "66a9d879d868ed62f9579db8b7a61e0038fef552422cb41197a547caf67fb4aa",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.evenflo.com/cdn/shop/t/208/assets/evenflo-base.css?v=115801069257106734241790627409",
+      "final_url": "https://www.evenflo.com/cdn/shop/t/208/assets/evenflo-base.css?v=115801069257106734241790627409",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1ee9a731e2c7a3c50175c66a310f8ee7cf41f9fb4e0cf67ac4b17daeaa568dcc",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.evenflo.com/cdn/shop/t/208/assets/component-cart-items.css?v=123238115697927560811786992558",
+      "final_url": "https://www.evenflo.com/cdn/shop/t/208/assets/component-cart-items.css?v=123238115697927560811786992558",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f21b09227215273f0a5c133e5e490923cf53c6107ec4495828e465c3162de296",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 26,
+      "sources": [
+        "https://www.evenflo.com/",
+        "https://www.evenflo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.evenflo.com/cdn/shop/t/208/assets/base.css?v=53248798131414406551787854935",
+        "https://www.evenflo.com/cdn/shop/t/208/assets/evenflo-base.css?v=115801069257106734241790627409"
+      ]
+    },
+    "#444444": {
+      "count": 9,
+      "sources": [
+        "https://www.evenflo.com/",
+        "https://www.evenflo.com/cdn/shop/t/208/assets/evenflo-base.css?v=115801069257106734241790627409"
+      ]
+    },
+    "#00aea9": {
+      "count": 8,
+      "sources": [
+        "https://www.evenflo.com/",
+        "https://www.evenflo.com/cdn/shop/t/208/assets/evenflo-base.css?v=115801069257106734241790627409"
+      ]
+    },
+    "#e3f2f3": {
+      "count": 7,
+      "sources": [
+        "https://www.evenflo.com/",
+        "https://www.evenflo.com/cdn/shop/t/208/assets/evenflo-base.css?v=115801069257106734241790627409"
+      ]
+    },
+    "#111111": {
+      "count": 7,
+      "sources": [
+        "https://www.evenflo.com/",
+        "https://www.evenflo.com/cdn/shop/t/208/assets/evenflo-base.css?v=115801069257106734241790627409"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 7,
+      "sources": [
+        "https://www.evenflo.com/",
+        "https://www.evenflo.com/cdn/shop/t/208/assets/evenflo-base.css?v=115801069257106734241790627409"
+      ]
+    },
+    "#2996c5": {
+      "count": 5,
+      "sources": [
+        "https://www.evenflo.com/",
+        "https://www.evenflo.com/cdn/shop/t/208/assets/evenflo-base.css?v=115801069257106734241790627409"
+      ]
+    },
+    "#1f6fa0": {
+      "count": 4,
+      "sources": [
+        "https://www.evenflo.com/",
+        "https://www.evenflo.com/cdn/shop/t/208/assets/evenflo-base.css?v=115801069257106734241790627409"
+      ]
+    },
+    "#0f3c5a": {
+      "count": 3,
+      "sources": [
+        "https://www.evenflo.com/",
+        "https://www.evenflo.com/cdn/shop/t/208/assets/evenflo-base.css?v=115801069257106734241790627409"
+      ]
+    },
+    "#007e79": {
+      "count": 3,
+      "sources": [
+        "https://www.evenflo.com/",
+        "https://www.evenflo.com/cdn/shop/t/208/assets/evenflo-base.css?v=115801069257106734241790627409"
+      ]
+    },
+    "#f2f4f7": {
+      "count": 3,
+      "sources": [
+        "https://www.evenflo.com/",
+        "https://www.evenflo.com/cdn/shop/t/208/assets/evenflo-base.css?v=115801069257106734241790627409"
+      ]
+    },
+    "#ecf6fb": {
+      "count": 3,
+      "sources": [
+        "https://www.evenflo.com/"
+      ]
+    },
+    "#666666": {
+      "count": 3,
+      "sources": [
+        "https://www.evenflo.com/",
+        "https://www.evenflo.com/cdn/shop/t/208/assets/evenflo-base.css?v=115801069257106734241790627409"
+      ]
+    },
+    "#ffffff00": {
+      "count": 3,
+      "sources": [
+        "https://www.evenflo.com/cdn/shop/t/208/assets/base.css?v=53248798131414406551787854935"
+      ]
+    },
+    "#999999": {
+      "count": 2,
+      "sources": [
+        "https://www.evenflo.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.evenflo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.evenflo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#000000": {
+      "count": 2,
+      "sources": [
+        "https://www.evenflo.com/cdn/shop/t/208/assets/base.css?v=53248798131414406551787854935",
+        "https://www.evenflo.com/cdn/shop/t/208/assets/evenflo-base.css?v=115801069257106734241790627409"
+      ]
+    },
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://www.evenflo.com/cdn/shop/t/208/assets/base.css?v=53248798131414406551787854935"
+      ]
+    },
+    "#222222": {
+      "count": 2,
+      "sources": [
+        "https://www.evenflo.com/cdn/shop/t/208/assets/evenflo-base.css?v=115801069257106734241790627409"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://www.evenflo.com/"
+      ]
+    },
+    "#00b1b0": {
+      "count": 1,
+      "sources": [
+        "https://www.evenflo.com/"
+      ]
+    },
+    "#cbdc82": {
+      "count": 1,
+      "sources": [
+        "https://www.evenflo.com/"
+      ]
+    },
+    "#242833": {
+      "count": 1,
+      "sources": [
+        "https://www.evenflo.com/"
+      ]
+    },
+    "#c93844": {
+      "count": 1,
+      "sources": [
+        "https://www.evenflo.com/"
+      ]
+    },
+    "#00908b": {
+      "count": 1,
+      "sources": [
+        "https://www.evenflo.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.evenflo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.evenflo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.evenflo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000080": {
+      "count": 1,
+      "sources": [
+        "https://www.evenflo.com/cdn/shop/t/208/assets/base.css?v=53248798131414406551787854935"
+      ]
+    },
+    "#175b89": {
+      "count": 1,
+      "sources": [
+        "https://www.evenflo.com/cdn/shop/t/208/assets/evenflo-base.css?v=115801069257106734241790627409"
+      ]
+    },
+    "#005957": {
+      "count": 1,
+      "sources": [
+        "https://www.evenflo.com/cdn/shop/t/208/assets/evenflo-base.css?v=115801069257106734241790627409"
+      ]
+    },
+    "#006f6b": {
+      "count": 1,
+      "sources": [
+        "https://www.evenflo.com/cdn/shop/t/208/assets/evenflo-base.css?v=115801069257106734241790627409"
+      ]
+    },
+    "#fcfcfd": {
+      "count": 1,
+      "sources": [
+        "https://www.evenflo.com/cdn/shop/t/208/assets/evenflo-base.css?v=115801069257106734241790627409"
+      ]
+    },
+    "#faf8f6": {
+      "count": 1,
+      "sources": [
+        "https://www.evenflo.com/cdn/shop/t/208/assets/evenflo-base.css?v=115801069257106734241790627409"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
+      "sources": [
+        "https://www.evenflo.com/cdn/shop/t/208/assets/evenflo-base.css?v=115801069257106734241790627409"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://www.evenflo.com/"
+    ],
+    "Apple Color Emoji": [
+      "https://www.evenflo.com/"
+    ],
+    "Arial": [
+      "https://www.evenflo.com/"
+    ],
+    "Assistant": [
+      "https://www.evenflo.com/"
+    ],
+    "Helvetica Neue": [
+      "https://www.evenflo.com/"
+    ],
+    "Liberation Sans": [
+      "https://www.evenflo.com/"
+    ],
+    "Noto Color Emoji": [
+      "https://www.evenflo.com/"
+    ],
+    "Noto Sans": [
+      "https://www.evenflo.com/"
+    ],
+    "Roboto": [
+      "https://www.evenflo.com/"
+    ],
+    "Segoe UI": [
+      "https://www.evenflo.com/"
+    ],
+    "Segoe UI Emoji": [
+      "https://www.evenflo.com/"
+    ],
+    "Segoe UI Symbol": [
+      "https://www.evenflo.com/"
+    ],
+    "mr-eaves-modern": [
+      "https://www.evenflo.com/",
+      "https://use.typekit.net/dyv3vej.css"
+    ],
+    "mr-eaves-sans": [
+      "https://use.typekit.net/dyv3vej.css"
+    ],
+    "sans-serif": [
+      "https://www.evenflo.com/",
+      "https://use.typekit.net/dyv3vej.css"
+    ],
+    "sans-serif !important": [
+      "https://www.evenflo.com/"
+    ],
+    "system_ui": [
+      "https://www.evenflo.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.evenflo.com/",
+      "selector": ":root,\n        .color-scheme-1",
+      "declarations": "--color-background: 255,255,255;\n        \n          --gradient-background: #ffffff;\n        \n\n        \n\n        --color-foreground: 18,18,18;\n        --color-background-contrast: 191,191,191;\n        --color-shadow: 18,18,18;\n        --color-button: 0,174,169;\n        --color-button-text: 255,255,255;\n        --color-secondary-button: 255,255,255;\n        --color-secondary-button-text: 18,18,18;\n        --color-link: 18,18,18;\n        --color-badge-foreground: 18,18,18;\n        --color-badge-background: 255,255,255;\n        --color-badge-border: 18,18,18;\n        --payment-terms-background-color: rgb(255 255 255);"
+    },
+    {
+      "source": "https://www.evenflo.com/",
+      "selector": "body",
+      "declarations": "display: grid;\n        grid-template-rows: auto auto 1fr auto;\n        grid-template-columns: 100%;\n        min-height: 100%;\n        margin: 0;\n        font-size: 1.5rem;\n        letter-spacing: 0.06rem;\n        line-height: calc(1 + 0.8 / var(--font-body-scale));\n        font-family: var(--font-body-family);\n        font-style: var(--font-body-style);\n        font-weight: var(--font-body-weight);"
+    },
+    {
+      "source": "https://www.evenflo.com/",
+      "selector": "el .gm-header > button > .gm-target > .gm-text,\n.gm-menu-installed .gm-menu.gm-menu-mobile.gm-submenu-open-style-slide.gm-menu-170326 .gm-tabs .gm-tab-panel > .",
+      "declarations": "color: rgba(68, 68, 68, 1) !important;"
+    },
+    {
+      "source": "https://www.evenflo.com/",
+      "selector": ".gm-menu.gm-menu-170326 .gm-product-atc input.gm-btn-atc",
+      "declarations": "color: rgba(255, 255, 255, 1) !important;\n  background-color: rgba(0, 144, 139, 1) !important;\n  font-family: \"mr-eaves-modern\", sans-serif !important;"
+    },
+    {
+      "source": "https://www.evenflo.com/",
+      "selector": ".gm-menu.gm-menu-170326 .gm-product-atc input.gm-btn-atc:hover",
+      "declarations": "color: rgba(255, 255, 255, 1) !important;\n  background-color: rgba(0, 126, 121, 1) !important;"
+    },
+    {
+      "source": "https://www.evenflo.com/",
+      "selector": "#shopify-section-sections--21573157781660__header color: or.header__menu-item a[href= \"/collections/halloween-costumes-for-babies-toddlers-and-kids\"]",
+      "declarations": "color: orange !important;"
+    },
+    {
+      "source": "https://www.evenflo.com/",
+      "selector": "#Button-button_4DhXnc",
+      "declarations": "background-color: #00aea9;\n                    \n                    \n                      color: #ffffff\n                       !important;"
+    },
+    {
+      "source": "https://www.evenflo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.evenflo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.evenflo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.evenflo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.evenflo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.evenflo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.evenflo.com/cdn/shop/t/208/assets/base.css?v=53248798131414406551787854935",
+      "selector": ":root",
+      "declarations": "--alpha-button-background: 1;--alpha-button-border: 1;--alpha-link: .85;--alpha-badge-border: .1;--focused-base-outline: .2rem solid rgba(var(--color-foreground), .5);--focused-base-outline-offset: .3rem;--focused-base-box-shadow: 0 0 0 .3rem rgb(var(--color-background)), 0 0 .5rem .4rem rgba(var(--color-foreground), .3)"
+    },
+    {
+      "source": "https://www.evenflo.com/cdn/shop/t/208/assets/base.css?v=53248798131414406551787854935",
+      "selector": ".product-card-wrapper .card,.contains-card--product",
+      "declarations": "--border-radius: var(--product-card-corner-radius);--border-width: var(--product-card-border-width);--border-opacity: var(--product-card-border-opacity);--shadow-horizontal-offset: var(--product-card-shadow-horizontal-offset);--shadow-vertical-offset: var(--product-card-shadow-vertical-offset);--shadow-blur-radius: var(--product-card-shadow-blur-radius);--shadow-opacity: var(--product-card-shadow-opacity);--shadow-visible: var(--product-card-shadow-visible);--image-padding: var(--product-card-image-padding);--text-alignment: var(--product-card-text-alignment)"
+    },
+    {
+      "source": "https://www.evenflo.com/cdn/shop/t/208/assets/base.css?v=53248798131414406551787854935",
+      "selector": ".text-body",
+      "declarations": "font-size:1.5rem;letter-spacing:.06rem;line-height:calc(1 + .8 / var(--font-body-scale));font-family:var(--font-body-family);font-style:var(--font-body-style);font-weight:var(--font-body-weight)"
+    },
+    {
+      "source": "https://www.evenflo.com/cdn/shop/t/208/assets/base.css?v=53248798131414406551787854935",
+      "selector": "h1,h2,h3,h4,h5,.h0,.h1,.h2,.h3,.h4,.h5",
+      "declarations": "font-family:var(--font-heading-family);font-style:var(--font-heading-style);font-weight:var(--font-heading-weight);letter-spacing:calc(var(--font-heading-scale) * .06rem);color:rgb(var(--color-foreground));line-height:calc(1 + .3/max(1,var(--font-heading-scale)));word-break:break-word"
+    },
+    {
+      "source": "https://www.evenflo.com/cdn/shop/t/208/assets/base.css?v=53248798131414406551787854935",
+      "selector": ":root",
+      "declarations": "--duration-short: .1s;--duration-default: .2s;--duration-announcement-bar: .25s;--duration-medium: .3s;--duration-long: .5s;--duration-extra-long: .6s;--duration-extra-longer: .75s;--duration-extended: 3s;--ease-out-slow: cubic-bezier(0, 0, .3, 1);--animation-slide-in: slideIn var(--duration-extra-long) var(--ease-out-slow) forwards;--animation-fade-in: fadeIn var(--duration-extra-long) var(--ease-out-slow)"
+    },
+    {
+      "source": "https://www.evenflo.com/cdn/shop/t/208/assets/base.css?v=53248798131414406551787854935",
+      "selector": ".button--secondary,.button--tertiary",
+      "declarations": "--color-button: var(--color-secondary-button);--color-button-text: var(--color-secondary-button-text)"
+    },
+    {
+      "source": "https://www.evenflo.com/cdn/shop/t/208/assets/base.css?v=53248798131414406551787854935",
+      "selector": ".button--tertiary",
+      "declarations": "--alpha-button-background: 0;--alpha-button-border: .2"
+    },
+    {
+      "source": "https://www.evenflo.com/cdn/shop/t/208/assets/base.css?v=53248798131414406551787854935",
+      "selector": ".button,.shopify-challenge__button,.customer button,button.shopify-payment-button__button--unbranded",
+      "declarations": "--shadow-horizontal-offset: var(--buttons-shadow-horizontal-offset);--shadow-vertical-offset: var(--buttons-shadow-vertical-offset);--shadow-blur-radius: var(--buttons-shadow-blur-radius);--shadow-opacity: var(--buttons-shadow-opacity);--shadow-visible: var(--buttons-shadow-visible);--border-offset: var( --buttons-border-offset );--border-opacity: calc(1 - var(--buttons-border-opacity));border-radius:var(--buttons-radius-outset);position:relative"
+    },
+    {
+      "source": "https://www.evenflo.com/cdn/shop/t/208/assets/base.css?v=53248798131414406551787854935",
+      "selector": ".button,.shopify-challenge__button,.customer button",
+      "declarations": "display:inline-flex;justify-content:center;align-items:center;border:0;padding:0 3rem;cursor:pointer;font:inherit;font-size:1.5rem;text-decoration:none;color:rgb(var(--color-button-text));transition:box-shadow var(--duration-short) ease;-webkit-appearance:none;appearance:none;background-color:rgba(var(--color-button),var(--alpha-button-background))"
+    },
+    {
+      "source": "https://www.evenflo.com/cdn/shop/t/208/assets/base.css?v=53248798131414406551787854935",
+      "selector": ".button:not([disabled]):hover:after,.shopify-challenge__button:hover:after,.customer button:hover:after,.shopify-payment-button__button--unbranded:hover:after",
+      "declarations": "--border-offset: 1.3px;box-shadow:0 0 0 calc(var(--buttons-border-width) + var(--border-offset)) rgba(var(--color-button-text),var(--border-opacity)),0 0 0 calc(var(--buttons-border-width) + 1px) rgba(var(--color-button),var(--alpha-button-background))"
+    },
+    {
+      "source": "https://www.evenflo.com/cdn/shop/t/208/assets/base.css?v=53248798131414406551787854935",
+      "selector": ".button--secondary:after",
+      "declarations": "--border-opacity: var(--buttons-border-opacity)"
+    },
+    {
+      "source": "https://www.evenflo.com/cdn/shop/t/208/assets/base.css?v=53248798131414406551787854935",
+      "selector": ".button::selection,.shopify-challenge__button::selection,.customer button::selection",
+      "declarations": "background-color:rgba(var(--color-button-text),.3)"
+    },
+    {
+      "source": "https://www.evenflo.com/cdn/shop/t/208/assets/base.css?v=53248798131414406551787854935",
+      "selector": ".button.loading",
+      "declarations": "color:transparent;position:relative"
+    },
+    {
+      "source": "https://www.evenflo.com/cdn/shop/t/208/assets/base.css?v=53248798131414406551787854935",
+      "selector": ".button.loading",
+      "declarations": "color:rgb(var(--color-foreground))"
+    },
+    {
+      "source": "https://www.evenflo.com/cdn/shop/t/208/assets/base.css?v=53248798131414406551787854935",
+      "selector": ".share-button__button",
+      "declarations": "font-size:1.4rem;display:flex;align-items:center;color:rgb(var(--color-link));margin-left:0;padding-left:0;min-height:4.4rem"
+    },
+    {
+      "source": "https://www.evenflo.com/cdn/shop/t/208/assets/base.css?v=53248798131414406551787854935",
+      "selector": ".share-button__button,.share-button__fallback button",
+      "declarations": "cursor:pointer;background-color:transparent;border:none"
+    },
+    {
+      "source": "https://www.evenflo.com/cdn/shop/t/208/assets/base.css?v=53248798131414406551787854935",
+      "selector": ".share-button__fallback button:hover",
+      "declarations": "color:rgba(var(--color-foreground),.75)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Car Seats, Strollers, & Baby Essentials | Evenflo® Official Site",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.evenflo.com/",
+        "https://www.evenflo.com/cdn/shop/t/208/assets/evenflo-base.css?v=115801069257106734241790627409"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.evenflo.com/",
+        "https://www.evenflo.com/cdn/shop/t/208/assets/evenflo-base.css?v=115801069257106734241790627409"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.evenflo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.evenflo.com/",
+        "https://www.evenflo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.evenflo.com/cdn/shop/t/208/assets/base.css?v=53248798131414406551787854935",
+        "https://www.evenflo.com/cdn/shop/t/208/assets/evenflo-base.css?v=115801069257106734241790627409"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.evenflo.com/",
+        "https://www.evenflo.com/cdn/shop/t/208/assets/evenflo-base.css?v=115801069257106734241790627409"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.evenflo.com/",
+        "https://www.evenflo.com/cdn/shop/t/208/assets/evenflo-base.css?v=115801069257106734241790627409"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.evenflo.com/",
+        "https://www.evenflo.com/cdn/shop/t/208/assets/evenflo-base.css?v=115801069257106734241790627409"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.evenflo.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.evenflo.com/cdn/shop/t/208/assets/evenflo-base.css?v=115801069257106734241790627409"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.evenflo.com/",
+        "https://www.evenflo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.evenflo.com/cdn/shop/t/208/assets/base.css?v=53248798131414406551787854935",
+        "https://www.evenflo.com/cdn/shop/t/208/assets/evenflo-base.css?v=115801069257106734241790627409"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.evenflo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-blue-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.evenflo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.evenflo.com/"
+      ]
+    },
+    "colors.accent-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.evenflo.com/"
+      ]
+    },
+    "colors.deep-navy": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.evenflo.com/",
+        "https://www.evenflo.com/cdn/shop/t/208/assets/evenflo-base.css?v=115801069257106734241790627409"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.fabric-swatch-selector": {
+      "status": "inferred"
+    }
+  }
+}

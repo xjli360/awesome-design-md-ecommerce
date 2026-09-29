@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Dossier
-description: Dossier is a direct-to-consumer fragrance brand that strips away the traditional luxury markup by offering high-quality, Made-in-France perfumes at fair prices. The brand's visual identity is a study in warm, earthy minimalism, anchored by a signature coral-terracotta primary, `#ef776a`, that appears on every primary button, badge, and accent element. This vibrant hue is set against a canvas of `#faf6f0` — a soft, creamy off-white that feels tactile and inviting, not sterile. The typographic voice is built on the Founders Grotesk family, used across weights from Light to Bold, giving the brand a modern, editorial feel that balances approachability with a touch of sophistication. Supporting neutrals like `#212121` for ink, `#43423c` for body text, and `#727272` for muted elements create a clean hierarchy, while a secondary palette of deeper reds (`#b83520`, `#da2a17`, `#e32c18`) and warm beiges (`#cdb087`, `#dcc8ab`, `#ebdfcf`) echo the natural ingredients and artisanal process behind the scents. The design system relies on generous whitespace, soft `{rounded.sm}` corners on cards and inputs, and `{rounded.full}` pill shapes for CTAs and badges, creating a gentle, human-friendly interface. The overall mood is one of quiet confidence — the brand doesn't shout, it invites discovery, much like the layering of notes in a fine fragrance.
+name: "Dossier"
+source_url: "https://dossier.co"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Dossier is a direct-to-consumer fragrance brand that strips away the traditional luxury markup by offering high-quality, Made-in-France perfumes at fair prices. The brand's visual identity is a study in warm, earthy minimalism, anchored by a signature coral-terracotta primary, `#ef776a`, that appears on every primary button, badge, and accent element. This vibrant hue is set against a canvas of `#faf6f0` — a soft, creamy off-white that feels tactile and inviting, not sterile. The typographic voice is built on the Founders Grotesk family, used across weights from Light to Bold, giving the brand a modern, editorial feel that balances approachability with a touch of sophistication. Supporting neutrals like `#212121` for ink, `#43423c` for body text, and `#727272` for muted elements create a clean hierarchy, while a secondary palette of deeper reds (`#b83520`, `#da2a17`, `#e32c18`) and warm beiges (`#cdb087`, `#dcc8ab`, `#ebdfcf`) echo the natural ingredients and artisanal process behind the scents. The design system relies on generous whitespace, soft `{rounded.sm}` corners on cards and inputs, and `{rounded.full}` pill shapes for CTAs and badges, creating a gentle, human-friendly interface. The overall mood is one of quiet confidence — the brand doesn't shout, it invites discovery, much like the layering of notes in a fine fragrance.
 
 colors:
   primary: "#ef776a"
@@ -456,6 +460,8 @@ components:
 - Product image galleries collapse from a row of thumbnails to a swipeable carousel on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for buttons and links are inferred from common patterns but not explicitly extracted from the live site.
 - Error and success states for forms (e.g., validation messages, input borders) are based on standard conventions rather than observed data.

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: BioLite
-description: A teal #008fa1 voltage runs through every primary action on BioLite's off-grid marketplace — that single distinctive hex, pulled from the brand's product-line accent and solar-charger LEDs, is the only saturated color in an otherwise muted system of warm grays (#c9c5be, #f0f0f0, #e3e3e3) and near-blacks (#050505, #1c1c1c). The palette reads like camping gear at dusk: the teal glows, the grays recede, and a single red #a70100 appears only for sale badges and error states, never for primary CTAs. Typography mixes Fraunces (a soft, slightly condensed serif with optical-size contrast) for display headlines with Arimo (a neutral, highly legible sans-serif) for body and UI — a pairing that signals both outdoor editorial warmth and technical reliability. EB Garamond appears in limited editorial contexts, likely pull-quotes or heritage copy. Buttons are generously pill-shaped (`{rounded.full}`) at 48px height, with the teal fill on primary and a transparent outline on secondary that uses the same teal stroke. Product cards use a soft `{rounded.md}` (12px) and sit on a `{colors.surface-soft}` (#fafafa) canvas, with the product image bleeding edge-to-edge and the title set in Fraunces at 16px. The nav bar is a fixed 80px band of `{colors.canvas}` (#ffffff) with a centered logo lockup and a right-aligned cart icon that inherits the teal badge dot. The overall effect is a design system that trusts one color and three typefaces to do the work of ten — it feels intentional, not sparse.
+name: "BioLite"
+source_url: "https://www.bioliteenergy.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A teal #008fa1 voltage runs through every primary action on BioLite's off-grid marketplace — that single distinctive hex, pulled from the brand's product-line accent and solar-charger LEDs, is the only saturated color in an otherwise muted system of warm grays (#c9c5be, #f0f0f0, #e3e3e3) and near-blacks (#050505, #1c1c1c). The palette reads like camping gear at dusk: the teal glows, the grays recede, and a single red #a70100 appears only for sale badges and error states, never for primary CTAs. Typography mixes Fraunces (a soft, slightly condensed serif with optical-size contrast) for display headlines with Arimo (a neutral, highly legible sans-serif) for body and UI — a pairing that signals both outdoor editorial warmth and technical reliability. EB Garamond appears in limited editorial contexts, likely pull-quotes or heritage copy. Buttons are generously pill-shaped (`{rounded.full}`) at 48px height, with the teal fill on primary and a transparent outline on secondary that uses the same teal stroke. Product cards use a soft `{rounded.md}` (12px) and sit on a `{colors.surface-soft}` (#fafafa) canvas, with the product image bleeding edge-to-edge and the title set in Fraunces at 16px. The nav bar is a fixed 80px band of `{colors.canvas}` (#ffffff) with a centered logo lockup and a right-aligned cart icon that inherits the teal badge dot. The overall effect is a design system that trusts one color and three typefaces to do the work of ten — it feels intentional, not sparse.
 
 colors:
   primary: "#008fa1"
@@ -372,6 +376,8 @@ components:
 - Category strip becomes a horizontal scrollable row on mobile, with no wrapping.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for most components could not be reliably extracted from the live site; the active states listed are inferred from common patterns and the brand's color logic.
 - Error, success, and warning form states beyond the error border are unknown; no error message typography or iconography was observed.

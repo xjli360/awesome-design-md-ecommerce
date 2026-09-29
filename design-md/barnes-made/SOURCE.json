@@ -1,0 +1,413 @@
+{
+  "source_url": "https://barnesmade.com",
+  "final_url": "https://www.barnesmade.com/",
+  "captured_at": "2026-09-28T10:24:14.166846+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://barnesmade.com",
+      "final_url": "https://www.barnesmade.com/",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "sha256": "99cbf690a80db29e026aa636b7e2b074ad43edcb88be6ff7845a4f24334a58d9",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/user-account-core-bf8b0e0129e2a7ba-min.en-US.css",
+      "final_url": "https://assets.squarespace.com/universal/styles-compressed/user-account-core-bf8b0e0129e2a7ba-min.en-US.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6b5fd9b8af2d32b19f4e31f5ea6db1496a6fa10f6bff4ef9f1c11d90e88f703c",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.embed/9a1b3fd9-a070-4e09-8cde-d81d323228a9_686/website.components.embed.styles.css",
+      "final_url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.embed/9a1b3fd9-a070-4e09-8cde-d81d323228a9_686/website.components.embed.styles.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "b0a7c7b76b1b3ef41fcb3db406a79dc3d4b8daafc3443b6ab436a3322a8a0af7",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css",
+      "final_url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "11a52ed56bc1987616b159190271e717553ac95d8e2ddd6ceb0342cb3dc98f4b",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/c23c8f20-aefd-4113-b7e7-3dfe12eea5a8_928/website.components.imageFluid.styles.css",
+      "final_url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/c23c8f20-aefd-4113-b7e7-3dfe12eea5a8_928/website.components.imageFluid.styles.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "09c0bfc44bf3a27d6b3a08c2b3ea09ded67a36860b9b095b6295a398aef87307",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#0e0e0e": {
+      "count": 5,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+      ]
+    },
+    "#222222": {
+      "count": 2,
+      "sources": [
+        "https://www.barnesmade.com/",
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 2,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 2,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+      ]
+    },
+    "#cc0000": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+      ]
+    },
+    "#000000": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+      ]
+    },
+    "#00000000": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+      ]
+    },
+    "#db3642": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+      ]
+    },
+    "#c32d38": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+    ],
+    "Clarkson": [
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+    ],
+    "Helvetica": [
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+    ],
+    "Helvetica Neue": [
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+    ],
+    "sans-serif": [
+      "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.barnesmade.com/",
+      "selector": "#block-d9dac47e38dd7646e836 .product-block-content",
+      "declarations": "--product-block-padding: initial;"
+    },
+    {
+      "source": "https://www.barnesmade.com/",
+      "selector": "#block-a5c03b0d2e16b14b8954 .product-block-content",
+      "declarations": "--product-block-padding: initial;"
+    },
+    {
+      "source": "https://www.barnesmade.com/",
+      "selector": "#block-90dba2eb5b4af9149048 .product-block-content",
+      "declarations": "--product-block-padding: initial;"
+    },
+    {
+      "source": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css",
+      "selector": ".sqs-block[data-definition-name=\"website.components.product\"] .product-block .productDetails .product-variants .variant-option .variant-out-of-stock",
+      "declarations": "color:#c00;margin-top:8px"
+    },
+    {
+      "source": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css",
+      "selector": ".sqs-block[data-definition-name=\"website.components.product\"] .product-block .productDetails .product-variants .variant-option .variant-dropdown select:focus op",
+      "declarations": "color:#000"
+    },
+    {
+      "source": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css",
+      "selector": ".sqs-block[data-definition-name=\"website.components.product\"] .product-block .productDetails :is(.product-scarcity,.product-scarcity-quantity-limits)",
+      "declarations": "color:var(--tweak-product-basic-item-scarcity-color);font-size:1.1em;margin-top:6px"
+    },
+    {
+      "source": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css",
+      "selector": ".sqs-block[data-definition-name=\"website.components.product\"] .product-block .productDetails .product-purchase-controls-wrapper .sqs-add-to-cart-button-wrapper ",
+      "declarations": "animation:spin 1s linear infinite;border:3px solid #0000;border-radius:50%;border-top-color:currentcolor;display:none;height:.8rem;opacity:1;width:.8rem"
+    },
+    {
+      "source": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css",
+      "selector": ".sqs-block[data-definition-name=\"website.components.product\"] .product-block .productDetails .product-purchase-controls-wrapper .product-quantity-input-wrapper ",
+      "declarations": "background-color:initial;border:none!important;color:inherit;display:block;flex-shrink:1;font-size:1rem;line-height:27px!important;max-width:3ch;padding:0;text-align:center;width:auto"
+    },
+    {
+      "source": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css",
+      "selector": ".sqs-block[data-definition-name=\"website.components.product\"] .product-block .productDetails .product-purchase-controls-wrapper .product-quantity-input-wrapper ",
+      "declarations": "background:none;border:none;color:inherit;display:flex;flex-shrink:1;margin:0;min-width:0;padding:0;position:relative;z-index:2"
+    },
+    {
+      "source": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css",
+      "selector": ".sqs-block[data-definition-name=\"website.components.product\"] .product-block .image-container .product-mark",
+      "declarations": "background:#222;color:#fff;display:block;line-height:1em;padding:6px 8px;position:absolute;right:0;text-transform:uppercase;top:15px;z-index:6;-webkit-font-smoothing:antialiased"
+    },
+    {
+      "source": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css",
+      "selector": ".sqs-block[data-definition-name=\"website.components.product\"] .product-block .image-placeholder-container:not([data-is-product-block-empty-state-contextual-menu",
+      "declarations": "text-rendering:optimizelegibility;-webkit-font-smoothing:antialiased;box-sizing:border-box;color:#0e0e0e;font-family:Clarkson,Helvetica Neue,Helvetica,Arial,sans-serif;font-size:14px;font-weight:400;line-height:22px"
+    },
+    {
+      "source": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css",
+      "selector": ".sqs-block[data-definition-name=\"website.components.product\"] .product-block .sqs-blockStatus--overlayMode[data-state=invalid] .sqs-blockStatus-box-title",
+      "declarations": "color:#0e0e0e;font-size:9.75px;font-weight:500;letter-spacing:.75px;line-height:1rem;margin-bottom:11px;text-transform:uppercase"
+    },
+    {
+      "source": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css",
+      "selector": ".sqs-block[data-definition-name=\"website.components.product\"] .product-block .sqs-blockStatus--overlayMode[data-state=invalid] .sqs-blockStatus-box-message",
+      "declarations": "color:#0e0e0e;font-size:12px;font-weight:400;line-height:1rem;margin-bottom:11px"
+    },
+    {
+      "source": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css",
+      "selector": ".sqs-block[data-definition-name=\"website.components.product\"] .product-block .sqs-blockStatus--overlayMode[data-state=invalid] .sqs-blockStatus-alert-badge",
+      "declarations": "bottom:11px;color:#c32d38;opacity:1!important;top:unset;visibility:visible!important"
+    },
+    {
+      "source": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css",
+      "selector": ".sqs-block[data-definition-name=\"website.components.product\"] .product-block .sqs-blockStatus--overlayMode[data-state=invalid] .sqs-blockStatus-box .viewProduct",
+      "declarations": "border-bottom:1px solid #0e0e0e!important;color:#0e0e0e!important;text-decoration:none!important"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Barnes Made",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.barnesmade.com/",
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+      ]
+    },
+    "colors.danger-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+      ]
+    },
+    "colors.overlay": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+      ]
+    },
+    "colors.transparent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.product/ff349d61-1d29-4ee3-8b22-bd110a35086e_1335/website.components.product.styles.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.quantity-stepper": {
+      "status": "inferred"
+    }
+  }
+}

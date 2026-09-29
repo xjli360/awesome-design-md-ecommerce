@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Bippy
-description: Bippy is a body-care brand that wraps itself in a warm, approachable palette anchored by a signature coral-salmon (#e5877c) that reads as both playful and nurturing — the kind of color that feels like a soft towel fresh from the dryer. This primary voltage carries through CTAs, badges, and accent elements, while a complementary deep navy (#404365) grounds the system with stability and a touch of sophistication. The brand avoids harshness entirely: text lives in a soft charcoal (#333333) rather than pure black, and the canvas is a clean white (#ffffff) that lets product photography and the coral pop. Secondary accents of muted blue-gray (#4a5764) and a friendly sky blue (#00b3ff) appear in navigation and links, while a family of warm grays (#d3d3d3, #eeeeee, #cccccc) handles borders, dividers, and surface treatments. Typography leans on a sans-serif stack of Avenir Next, Helvetica Neue, and Open Sans — clean, rounded, and highly legible at every size. Buttons are softly pill-shaped (`{rounded.sm}`), cards have gentle rounding (`{rounded.md}`), and the overall feel is one of calm confidence: this is a brand that wants you to feel good in your skin, not overwhelmed by flash. The Shopify platform underpins a straightforward ecommerce flow with a sticky nav bar, prominent search, and product cards that foreground the hero image and price.
+name: "Bippy"
+source_url: "https://heybippy.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Bippy is a body-care brand that wraps itself in a warm, approachable palette anchored by a signature coral-salmon (#e5877c) that reads as both playful and nurturing — the kind of color that feels like a soft towel fresh from the dryer. This primary voltage carries through CTAs, badges, and accent elements, while a complementary deep navy (#404365) grounds the system with stability and a touch of sophistication. The brand avoids harshness entirely: text lives in a soft charcoal (#333333) rather than pure black, and the canvas is a clean white (#ffffff) that lets product photography and the coral pop. Secondary accents of muted blue-gray (#4a5764) and a friendly sky blue (#00b3ff) appear in navigation and links, while a family of warm grays (#d3d3d3, #eeeeee, #cccccc) handles borders, dividers, and surface treatments. Typography leans on a sans-serif stack of Avenir Next, Helvetica Neue, and Open Sans — clean, rounded, and highly legible at every size. Buttons are softly pill-shaped (`{rounded.sm}`), cards have gentle rounding (`{rounded.md}`), and the overall feel is one of calm confidence: this is a brand that wants you to feel good in your skin, not overwhelmed by flash. The Shopify platform underpins a straightforward ecommerce flow with a sticky nav bar, prominent search, and product cards that foreground the hero image and price.
 
 colors:
   primary: "#e5877c"
@@ -379,6 +383,8 @@ components:
 - Product image galleries collapse from thumbnails to a single swipeable carousel on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for all components (only primary button and nav links have reliable hover data; others are inferred).
 - Focus ring styles and keyboard navigation patterns (no extracted data).

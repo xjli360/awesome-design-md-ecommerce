@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: The Humble Co.
-description: The Humble Co. presents a clean, conscientious oral-care brand built on a foundation of soft, warm neutrals and a single, grounded green — `#108474` — that acts as the brand's quiet, confident signature. The palette is deliberately restrained: a canvas of `#ffffff` and `#f7f5f4` supports a hierarchy of grays from the near-black `#1d1d1d` for primary text, through `#333333` and `#555555` for body copy, down to `#dddddd` and `#eeeeee` for hairlines and soft surfaces. This creates a calm, trustworthy atmosphere that never competes with the product photography. Typography leans on the geometric, humanist clarity of Nunito Sans, with display sizes set at modest weights — the brand trusts whitespace and generous padding over heavy boldface. Every corner is softened: buttons and cards use `{rounded.sm}` (8px) and `{rounded.md}` (12px), while the signature search bar and badge elements go to `{rounded.full}` for a friendly, approachable feel. The overall mood is one of gentle authority — a brand that is serious about sustainability but never preachy, using warm greys and a single accent green to signal both eco-responsibility and everyday comfort. The palette also includes a subtle secondary accent in `#d2815f` (a warm terracotta) and a muted blue `#9ccdfc` for informational elements, adding just enough warmth and personality to keep the system from feeling sterile.
+name: "The Humble Co."
+source_url: "https://thehumble.co"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The Humble Co. presents a clean, conscientious oral-care brand built on a foundation of soft, warm neutrals and a single, grounded green — `#108474` — that acts as the brand's quiet, confident signature. The palette is deliberately restrained: a canvas of `#ffffff` and `#f7f5f4` supports a hierarchy of grays from the near-black `#1d1d1d` for primary text, through `#333333` and `#555555` for body copy, down to `#dddddd` and `#eeeeee` for hairlines and soft surfaces. This creates a calm, trustworthy atmosphere that never competes with the product photography. Typography leans on the geometric, humanist clarity of Nunito Sans, with display sizes set at modest weights — the brand trusts whitespace and generous padding over heavy boldface. Every corner is softened: buttons and cards use `{rounded.sm}` (8px) and `{rounded.md}` (12px), while the signature search bar and badge elements go to `{rounded.full}` for a friendly, approachable feel. The overall mood is one of gentle authority — a brand that is serious about sustainability but never preachy, using warm greys and a single accent green to signal both eco-responsibility and everyday comfort. The palette also includes a subtle secondary accent in `#d2815f` (a warm terracotta) and a muted blue `#9ccdfc` for informational elements, adding just enough warmth and personality to keep the system from feeling sterile.
 
 colors:
   primary: "#108474"
@@ -321,6 +325,8 @@ components:
 - Accordion panels remain single-column at all breakpoints
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact hover state colors for secondary and tertiary buttons (only primary-active was reliably extracted)
 - Focus ring styles and colors for keyboard navigation

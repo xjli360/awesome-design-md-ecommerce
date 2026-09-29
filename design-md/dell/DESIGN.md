@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Dell
-description: A blue-and-gray precision system built for enterprise confidence, where #00468b (Dell Blue) anchors the primary action layer while #0076ce and #0672cb provide a cooler, more technical secondary blue spectrum — the palette reads as IT-procurement serious, not consumer playful. The extracted palette is dominated by a dozen gray values (#636363, #707070, #6e6e6e, #444444, #535657) and multiple blues (#00468b, #0672cb, #0063b8, #0076ce, #1d73c2, #006bbd, #0477cf, #007db8), with #f0f0f0 and #f5f6f7 as the primary canvas surfaces — there is no accent color outside the blue family except #6ea204 (a muted green likely for status indicators or sustainability badges) and two purple tones (#7f234f, #40155c) that may belong to sub-brand or checkout widgets. Typography runs a sans-serif stack of Arial, Helvetica, and Roboto with Japanese fallbacks (Hiragino Kaku Gothic, Meiryo UI, MS UI Gothic), suggesting a global B2B system that prioritizes legibility over personality. The site uses sharp corners ({rounded.none}) on navigation and cards, with subtle rounding ({rounded.sm}) only on buttons and input fields — this is a brand that communicates through dense product grids, spec tables, and configurator interfaces rather than editorial whitespace. The presence of #141d28 (a near-black) as a text color alongside #0e0e0e suggests a two-tier hierarchy for headings versus body copy, while #d9f5fd and #94dcf7 appear as informational blue backgrounds for alerts or feature callouts.
+name: "Dell"
+source_url: "https://www.dell.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A blue-and-gray precision system built for enterprise confidence, where #00468b (Dell Blue) anchors the primary action layer while #0076ce and #0672cb provide a cooler, more technical secondary blue spectrum — the palette reads as IT-procurement serious, not consumer playful. The extracted palette is dominated by a dozen gray values (#636363, #707070, #6e6e6e, #444444, #535657) and multiple blues (#00468b, #0672cb, #0063b8, #0076ce, #1d73c2, #006bbd, #0477cf, #007db8), with #f0f0f0 and #f5f6f7 as the primary canvas surfaces — there is no accent color outside the blue family except #6ea204 (a muted green likely for status indicators or sustainability badges) and two purple tones (#7f234f, #40155c) that may belong to sub-brand or checkout widgets. Typography runs a sans-serif stack of Arial, Helvetica, and Roboto with Japanese fallbacks (Hiragino Kaku Gothic, Meiryo UI, MS UI Gothic), suggesting a global B2B system that prioritizes legibility over personality. The site uses sharp corners ({rounded.none}) on navigation and cards, with subtle rounding ({rounded.sm}) only on buttons and input fields — this is a brand that communicates through dense product grids, spec tables, and configurator interfaces rather than editorial whitespace. The presence of #141d28 (a near-black) as a text color alongside #0e0e0e suggests a two-tier hierarchy for headings versus body copy, while #d9f5fd and #94dcf7 appear as informational blue backgrounds for alerts or feature callouts.
 
 colors:
   primary: "#00468b"
@@ -395,6 +399,8 @@ components:
 - Product card grids reduce from 4 columns to 3 to 2 to 1 as viewport shrinks
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components could not be fully extracted from the live site; the above hover states are inferred from common Dell patterns and should be verified against design specs
 - Error styling for forms (error messages, validation icons) was not observable; red border (#c13515) is assumed from industry convention

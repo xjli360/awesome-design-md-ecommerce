@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Boka
-description: Boka is mindful oral care that feels more like a morning ritual than a hygiene chore. The brand lives in a warm, tactile space anchored by a near-black ink (`#090909`) and a soft, creamy canvas (`#fafaf5`) that reads as natural and unbleached — like uncoated paper or a stoneware mug. A dusty rose accent (`#fae5db`) and a muted coral (`#f19a7e`) provide the brand's signature warmth, appearing in product highlights, badges, and hover states, while a deep teal (`#1990c6`) and a darker navy (`#136f99`) add a clean, clinical counterpoint for ingredient callouts and secondary CTAs. The typography is a deliberate mix of the sturdy, geometric Archivo for headlines and the refined Cera Pro family for body and buttons — CeraProMedium at 14–16px for navigation, CeraProRegular for product descriptions, and CeraProLight for captions. A single italic accent (`IvarDisplayItalic`) appears sparingly, likely for pull quotes or editorial moments. The system uses generous `{rounded.full}` pill shapes for buttons and search bars, `{rounded.lg}` (20px) for product cards, and `{rounded.sm}` (8px) for input fields — a mix that balances approachability with precision. The overall mood is calm, considered, and slightly elevated: a DTC brand that trusts soft color, clean type, and negative space over aggressive marketing.
+name: "Boka"
+source_url: "https://www.boka.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Boka is mindful oral care that feels more like a morning ritual than a hygiene chore. The brand lives in a warm, tactile space anchored by a near-black ink (`#090909`) and a soft, creamy canvas (`#fafaf5`) that reads as natural and unbleached — like uncoated paper or a stoneware mug. A dusty rose accent (`#fae5db`) and a muted coral (`#f19a7e`) provide the brand's signature warmth, appearing in product highlights, badges, and hover states, while a deep teal (`#1990c6`) and a darker navy (`#136f99`) add a clean, clinical counterpoint for ingredient callouts and secondary CTAs. The typography is a deliberate mix of the sturdy, geometric Archivo for headlines and the refined Cera Pro family for body and buttons — CeraProMedium at 14–16px for navigation, CeraProRegular for product descriptions, and CeraProLight for captions. A single italic accent (`IvarDisplayItalic`) appears sparingly, likely for pull quotes or editorial moments. The system uses generous `{rounded.full}` pill shapes for buttons and search bars, `{rounded.lg}` (20px) for product cards, and `{rounded.sm}` (8px) for input fields — a mix that balances approachability with precision. The overall mood is calm, considered, and slightly elevated: a DTC brand that trusts soft color, clean type, and negative space over aggressive marketing.
 
 colors:
   primary: "#090909"
@@ -359,6 +363,8 @@ components:
 - Accordion content is hidden by default on all breakpoints.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for many components (e.g., text-input, accordion, footer links) could not be fully extracted.
 - Error and success states for forms (e.g., validation messages, input borders) are inferred from common patterns but not confirmed.

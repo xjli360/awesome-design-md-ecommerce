@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Book of the Month
-description: A subscription service built on the anticipation of a fresh hardcover arriving each month, Book of the Month uses a restrained palette anchored on a single dark ink (#313131) that does the work of both headline and body text, creating a reading-room seriousness that lets the book covers — the real product photography — supply all the color. The site trusts a clean white canvas and generous whitespace over decorative backgrounds, with soft rounded corners on selection cards ({rounded.md}) that mimic the gentle curve of a paperback spine. Navigation is minimal and utilitarian: a persistent top bar with the brand wordmark, a search field, and account links, all set in the system font stack (San Francisco, Roboto, Noto Sans) at modest weights — the brand refuses to compete with the typography of the books it sells. The primary action, whether "Add to Box" or "Subscribe Now," appears as a solid dark rectangle with white text, a deliberate visual weight that says "this is the decision." Star ratings and review counts sit in compact badges, and the monthly selection grid uses a three-column layout that feels like browsing a bookstore table. There are no hard edges on interactive elements — buttons, input fields, and cards all share a consistent 8px rounding ({rounded.sm}) that softens the otherwise stark black-and-white scheme. The overall effect is that of a well-edited shelf: the brand steps back and lets the books speak.
+name: "Book of the Month"
+source_url: "https://www.bookofthemonth.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A subscription service built on the anticipation of a fresh hardcover arriving each month, Book of the Month uses a restrained palette anchored on a single dark ink (#313131) that does the work of both headline and body text, creating a reading-room seriousness that lets the book covers — the real product photography — supply all the color. The site trusts a clean white canvas and generous whitespace over decorative backgrounds, with soft rounded corners on selection cards ({rounded.md}) that mimic the gentle curve of a paperback spine. Navigation is minimal and utilitarian: a persistent top bar with the brand wordmark, a search field, and account links, all set in the system font stack (San Francisco, Roboto, Noto Sans) at modest weights — the brand refuses to compete with the typography of the books it sells. The primary action, whether "Add to Box" or "Subscribe Now," appears as a solid dark rectangle with white text, a deliberate visual weight that says "this is the decision." Star ratings and review counts sit in compact badges, and the monthly selection grid uses a three-column layout that feels like browsing a bookstore table. There are no hard edges on interactive elements — buttons, input fields, and cards all share a consistent 8px rounding ({rounded.sm}) that softens the otherwise stark black-and-white scheme. The overall effect is that of a well-edited shelf: the brand steps back and lets the books speak.
 
 colors:
   primary: "#313131"
@@ -286,6 +290,8 @@ components:
 - The footer link columns stack vertically on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one hex color (#313131) was extracted from the live site; the remaining colors in the palette (including the red badge-sale, muted grays, and surface tones) are inferred from common subscription-box patterns and may not match the exact live site values
 - No font-family declarations beyond the system font stack were found; the brand may use a custom typeface (e.g., a licensed serif for headings) that was not detected

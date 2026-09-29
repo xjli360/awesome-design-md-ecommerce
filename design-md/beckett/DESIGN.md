@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Beckett
-description: The teal-and-gold slab label on a BGS 9.5 Pristine — that physical artifact, pulled from the flip of a poly bag — is the exact visual grammar Beckett's digital platform inherits. A signature #069697 teal runs every primary CTA and active state, deepening to #057b7c on press, while #b6975b bronze-gold marks the premium tier: Pristine grade callouts, high-tier auction lots, and top-shelf subscription features. The canvas oscillates between near-black (#1c1b1e) hero sections and a cool light gray (#f4f4f4) data surface, creating a magazine-and-spreadsheet dual register appropriate for an audience that collects and prices simultaneously. Helvetica Neue carries all the typographic weight — no custom brand face in sight — which forces the color system to do the identity work alone; the teal family spans three steps from the dark anchor (#057b7c) through mid-brand (#069697) to an airy highlight (#54c4c8) and a near-white mint wash (#ddf3f4), providing depth without a second typeface. Navy (#14233c) backstops hero headlines and institutional trust-tier content, reading as authority rather than consumer cheerfulness. Status semantics are strict: #198754 green signals authentic and verified, while the full gray ramp — from #454547 body copy through #646467 muted labels to #a2a2a3 placeholder text — serves the dense population report tables and pricing grids that are Beckett's functional core. Corner radii are restrained: {rounded.sm} on buttons and cards, {rounded.xs} on grade badges, reflecting a data-first register that does not over-soften professional edges. The light blue family (#eaf6ff, #0dcaf0, #007ded) surfaces in informational alerts and subscription upsell banners, kept deliberately distinct from the teal brand system so promotional and editorial content never blend with navigation.
+name: "Beckett"
+source_url: "https://www.beckett.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The teal-and-gold slab label on a BGS 9.5 Pristine — that physical artifact, pulled from the flip of a poly bag — is the exact visual grammar Beckett's digital platform inherits. A signature #069697 teal runs every primary CTA and active state, deepening to #057b7c on press, while #b6975b bronze-gold marks the premium tier: Pristine grade callouts, high-tier auction lots, and top-shelf subscription features. The canvas oscillates between near-black (#1c1b1e) hero sections and a cool light gray (#f4f4f4) data surface, creating a magazine-and-spreadsheet dual register appropriate for an audience that collects and prices simultaneously. Helvetica Neue carries all the typographic weight — no custom brand face in sight — which forces the color system to do the identity work alone; the teal family spans three steps from the dark anchor (#057b7c) through mid-brand (#069697) to an airy highlight (#54c4c8) and a near-white mint wash (#ddf3f4), providing depth without a second typeface. Navy (#14233c) backstops hero headlines and institutional trust-tier content, reading as authority rather than consumer cheerfulness. Status semantics are strict: #198754 green signals authentic and verified, while the full gray ramp — from #454547 body copy through #646467 muted labels to #a2a2a3 placeholder text — serves the dense population report tables and pricing grids that are Beckett's functional core. Corner radii are restrained: {rounded.sm} on buttons and cards, {rounded.xs} on grade badges, reflecting a data-first register that does not over-soften professional edges. The light blue family (#eaf6ff, #0dcaf0, #007ded) surfaces in informational alerts and subscription upsell banners, kept deliberately distinct from the teal brand system so promotional and editorial content never blend with navigation.
 
 colors:
   primary: "#069697"
@@ -405,6 +409,8 @@ components:
 - Hero card imagery panel hidden on mobile; hero becomes headline-and-CTA on color fill only
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom brand typeface detected; Helvetica Neue and system stack are the only font families in extraction — brand may be licensing Helvetica Neue for web with no custom variable font loaded
 - Exact button border-radius values not confirmed from CSS extraction; {rounded.sm} 8px is inferred from visual density of the site's component grid

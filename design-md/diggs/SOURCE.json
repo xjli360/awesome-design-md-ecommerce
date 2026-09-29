@@ -1,0 +1,688 @@
+{
+  "source_url": "https://diggs.pet",
+  "final_url": "https://www.diggs.pet/",
+  "captured_at": "2026-09-28T05:17:19.123668+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://diggs.pet",
+      "final_url": "https://www.diggs.pet/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "a574b272ad7c059e7192cca98dd592418d93244cb87a54f468b42e2cdaa71dd4",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://pieeyegpc.pii.ai/1/dsrp/cb6c2cfe-d0f6-402a-8351-fff7022ec802/gpc.css",
+      "final_url": "https://pieeyegpc.pii.ai/1/dsrp/cb6c2cfe-d0f6-402a-8351-fff7022ec802/gpc.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d01946978f75c6eecd31942688097e6b8cc5ebf52a698dff24baec6da0681c90",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.diggs.pet/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.diggs.pet/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.diggs.pet/cdn/shop/t/68/assets/swiper-bundle.min.css?v=158873188915743418901754491138",
+      "final_url": "https://www.diggs.pet/cdn/shop/t/68/assets/swiper-bundle.min.css?v=158873188915743418901754491138",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e0cb42cae398bb50961c00947fb1d35d5d51830fb93357a3209f047cc31e7d0c",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.diggs.pet/cdn/shop/t/68/assets/base.css?v=94353657865325751951758214793",
+      "final_url": "https://www.diggs.pet/cdn/shop/t/68/assets/base.css?v=94353657865325751951758214793",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "347342fe9425f94961d4347e0974e4ca23ff6d169391a3d5fb4d45e0fe84de8e",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.diggs.pet/cdn/shop/t/68/assets/diggs.css?v=168180670027125077961758737804",
+      "final_url": "https://www.diggs.pet/cdn/shop/t/68/assets/diggs.css?v=168180670027125077961758737804",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9ea664b656ed1f89041b3e620f08515edb58d8b5c5f49021cb4bdcbc9b689c4a",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 18,
+      "sources": [
+        "https://www.diggs.pet/",
+        "https://www.diggs.pet/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.diggs.pet/cdn/shop/t/68/assets/swiper-bundle.min.css?v=158873188915743418901754491138",
+        "https://www.diggs.pet/cdn/shop/t/68/assets/base.css?v=94353657865325751951758214793",
+        "https://www.diggs.pet/cdn/shop/t/68/assets/diggs.css?v=168180670027125077961758737804"
+      ]
+    },
+    "#000000": {
+      "count": 7,
+      "sources": [
+        "https://pieeyegpc.pii.ai/1/dsrp/cb6c2cfe-d0f6-402a-8351-fff7022ec802/gpc.css",
+        "https://www.diggs.pet/cdn/shop/t/68/assets/swiper-bundle.min.css?v=158873188915743418901754491138",
+        "https://www.diggs.pet/cdn/shop/t/68/assets/base.css?v=94353657865325751951758214793"
+      ]
+    },
+    "#4a4a4c": {
+      "count": 6,
+      "sources": [
+        "https://www.diggs.pet/cdn/shop/t/68/assets/base.css?v=94353657865325751951758214793"
+      ]
+    },
+    "#343435": {
+      "count": 6,
+      "sources": [
+        "https://www.diggs.pet/cdn/shop/t/68/assets/base.css?v=94353657865325751951758214793"
+      ]
+    },
+    "#343633": {
+      "count": 4,
+      "sources": [
+        "https://www.diggs.pet/"
+      ]
+    },
+    "#fafafa": {
+      "count": 4,
+      "sources": [
+        "https://www.diggs.pet/",
+        "https://www.diggs.pet/cdn/shop/t/68/assets/diggs.css?v=168180670027125077961758737804"
+      ]
+    },
+    "#f4eee9": {
+      "count": 2,
+      "sources": [
+        "https://www.diggs.pet/"
+      ]
+    },
+    "#c5ceba": {
+      "count": 2,
+      "sources": [
+        "https://www.diggs.pet/"
+      ]
+    },
+    "#6d635b": {
+      "count": 2,
+      "sources": [
+        "https://www.diggs.pet/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.diggs.pet/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.diggs.pet/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#a5a5a5": {
+      "count": 2,
+      "sources": [
+        "https://www.diggs.pet/cdn/shop/t/68/assets/base.css?v=94353657865325751951758214793"
+      ]
+    },
+    "#212121": {
+      "count": 2,
+      "sources": [
+        "https://www.diggs.pet/cdn/shop/t/68/assets/base.css?v=94353657865325751951758214793"
+      ]
+    },
+    "#dfdfdf": {
+      "count": 2,
+      "sources": [
+        "https://www.diggs.pet/cdn/shop/t/68/assets/base.css?v=94353657865325751951758214793"
+      ]
+    },
+    "#00000059": {
+      "count": 2,
+      "sources": [
+        "https://www.diggs.pet/cdn/shop/t/68/assets/base.css?v=94353657865325751951758214793"
+      ]
+    },
+    "#222222": {
+      "count": 2,
+      "sources": [
+        "https://www.diggs.pet/cdn/shop/t/68/assets/base.css?v=94353657865325751951758214793"
+      ]
+    },
+    "#00000033": {
+      "count": 2,
+      "sources": [
+        "https://www.diggs.pet/cdn/shop/t/68/assets/base.css?v=94353657865325751951758214793"
+      ]
+    },
+    "#1f1f1f": {
+      "count": 2,
+      "sources": [
+        "https://www.diggs.pet/cdn/shop/t/68/assets/base.css?v=94353657865325751951758214793"
+      ]
+    },
+    "#353535": {
+      "count": 2,
+      "sources": [
+        "https://www.diggs.pet/cdn/shop/t/68/assets/base.css?v=94353657865325751951758214793"
+      ]
+    },
+    "#eeeeee": {
+      "count": 2,
+      "sources": [
+        "https://www.diggs.pet/cdn/shop/t/68/assets/diggs.css?v=168180670027125077961758737804"
+      ]
+    },
+    "#cbeafb": {
+      "count": 1,
+      "sources": [
+        "https://www.diggs.pet/"
+      ]
+    },
+    "#0066ff": {
+      "count": 1,
+      "sources": [
+        "https://www.diggs.pet/"
+      ]
+    },
+    "#4c4a4e": {
+      "count": 1,
+      "sources": [
+        "https://www.diggs.pet/"
+      ]
+    },
+    "#756bb6": {
+      "count": 1,
+      "sources": [
+        "https://www.diggs.pet/"
+      ]
+    },
+    "#3a628c": {
+      "count": 1,
+      "sources": [
+        "https://www.diggs.pet/"
+      ]
+    },
+    "#777777": {
+      "count": 1,
+      "sources": [
+        "https://www.diggs.pet/"
+      ]
+    },
+    "#a45cec": {
+      "count": 1,
+      "sources": [
+        "https://pieeyegpc.pii.ai/1/dsrp/cb6c2cfe-d0f6-402a-8351-fff7022ec802/gpc.css"
+      ]
+    },
+    "#fefefe": {
+      "count": 1,
+      "sources": [
+        "https://pieeyegpc.pii.ai/1/dsrp/cb6c2cfe-d0f6-402a-8351-fff7022ec802/gpc.css"
+      ]
+    },
+    "#888888": {
+      "count": 1,
+      "sources": [
+        "https://pieeyegpc.pii.ai/1/dsrp/cb6c2cfe-d0f6-402a-8351-fff7022ec802/gpc.css"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 1,
+      "sources": [
+        "https://pieeyegpc.pii.ai/1/dsrp/cb6c2cfe-d0f6-402a-8351-fff7022ec802/gpc.css"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.diggs.pet/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.diggs.pet/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.diggs.pet/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#007aff": {
+      "count": 1,
+      "sources": [
+        "https://www.diggs.pet/cdn/shop/t/68/assets/swiper-bundle.min.css?v=158873188915743418901754491138"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://www.diggs.pet/cdn/shop/t/68/assets/base.css?v=94353657865325751951758214793"
+      ]
+    },
+    "#ffffff66": {
+      "count": 1,
+      "sources": [
+        "https://www.diggs.pet/cdn/shop/t/68/assets/base.css?v=94353657865325751951758214793"
+      ]
+    },
+    "#ffffff80": {
+      "count": 1,
+      "sources": [
+        "https://www.diggs.pet/cdn/shop/t/68/assets/base.css?v=94353657865325751951758214793"
+      ]
+    },
+    "#3436330d": {
+      "count": 1,
+      "sources": [
+        "https://www.diggs.pet/cdn/shop/t/68/assets/base.css?v=94353657865325751951758214793"
+      ]
+    },
+    "#00000017": {
+      "count": 1,
+      "sources": [
+        "https://www.diggs.pet/cdn/shop/t/68/assets/base.css?v=94353657865325751951758214793"
+      ]
+    }
+  },
+  "font_families": {
+    "Duplet Open": [
+      "https://www.diggs.pet/cdn/shop/t/68/assets/base.css?v=94353657865325751951758214793"
+    ],
+    "Helvetica": [
+      "https://www.diggs.pet/"
+    ],
+    "Inter": [
+      "https://www.diggs.pet/"
+    ],
+    "Recta": [
+      "https://www.diggs.pet/",
+      "https://www.diggs.pet/cdn/shop/t/68/assets/base.css?v=94353657865325751951758214793"
+    ],
+    "sans-serif": [
+      "https://www.diggs.pet/"
+    ],
+    "swiper-icons": [
+      "https://www.diggs.pet/cdn/shop/t/68/assets/swiper-bundle.min.css?v=158873188915743418901754491138"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.diggs.pet/",
+      "selector": ":root,\n    [data-scheme=light] .color-background-1",
+      "declarations": "--color-background: 255,255,255;\n      --color-background-secondary: 244,238,233;\n      --color-foreground: 52, 54, 51;\n      \n        --overwrite-background: #ffffff;\n      \n      --color-foreground-secondary: 76, 74, 78;\n   \t\t--color-overlay: 255,255,255;\n      --color-button-text: 255, 255, 255;\n      --color-button-text-hover: 255, 255, 255;\n      --color-button: 52, 54, 51;\n      --color-button-hover: 76, 74, 78;\n      --color-button-secondary: 244, 238, 233;\n      --color-button-secondary-hover: 244, 238, 233;\n      --color-button-secondary-text: 52, 54, 51;\n      --color-button-secondary-text-hover: 52, 54, 51;\n      --color-button-tertiary-text: 52, 54, 51;\n\n      --color-border-inpu"
+    },
+    {
+      "source": "https://www.diggs.pet/",
+      "selector": ":root,\n      [data-scheme=auto] .color-background-1",
+      "declarations": "--color-background: 255,255,255;\n        --color-background-secondary: 244,238,233;\n        \n          --overwrite-background: #ffffff;\n        \n        --color-foreground: 52, 54, 51;\n        --color-foreground-secondary: 76, 74, 78;\n        --color-overlay: 255,255,255;\n        --color-button-text: 255, 255, 255;\n        --color-button-text-hover: 255, 255, 255;\n        --color-button: 52, 54, 51;\n        --color-button-hover: 76, 74, 78;\n        --color-button-secondary: 244, 238, 233;\n        --color-button-secondary-hover: 244, 238, 233;\n        --color-button-secondary-text: 52, 54, 51;\n        --color-button-secondary-text-hover: 52, 54, 51;\n\n        --color-button-tertiary-text: 52, "
+    },
+    {
+      "source": "https://www.diggs.pet/",
+      "selector": "body, .color-background-1, .color-background-2, .color-background-3, .color-background-4, .color-scheme-0c6dd63b-1c6a-4183-a3dc-204da11523b6",
+      "declarations": "color: rgba(var(--color-foreground));\n    background: rgb(var(--color-background));\n    background-attachment: fixed;"
+    },
+    {
+      "source": "https://www.diggs.pet/",
+      "selector": ":root",
+      "declarations": "--color-shadow: var(--color-foreground);\n    --payment-terms-background-color: ;\n    --color-modal-overlay: 52,54,51;;"
+    },
+    {
+      "source": "https://www.diggs.pet/",
+      "selector": ":root",
+      "declarations": "--column-count: 1;\n    --announcement-height: 0;\n    --ann-height: 0px;\n    --header-height: 64px;\n    --breadcrumbs-height: 0px;\n    --scrollbar-width: 0px;\n    --margin-header: 0px;\n    --spaced-section: 5rem;\n    --border-radius-product: 2px;\n    --border-radius-button: 2px;\n    --border-radius-block: 2px;\n    --border-radius-input: 2px;"
+    },
+    {
+      "source": "https://www.diggs.pet/",
+      "selector": ":root",
+      "declarations": "--spaced-section: 16rem;"
+    },
+    {
+      "source": "https://www.diggs.pet/",
+      "selector": "body",
+      "declarations": "position: relative;\n    display: flex;\n    flex-direction: column;\n    margin: 0;\n    overflow-x: hidden;\n    min-height: 100%;\n    margin: 0;\n    padding: 0;\n    scroll-behavior: smooth;\n    -webkit-font-smoothing: antialiased;\n    -moz-osx-font-smoothing: grayscale;\n    font-family: var(--font-body-family);\n    font-size: calc(var(--font-body-scale) * 1.2rem);\n    font-weight: var(--font-body-weight);\n    line-height: var(--font-body-line-height);\n    letter-spacing: calc(var(--font-body-letter-spacing) * 0.1);\n    font-style: var(--font-body-style);"
+    },
+    {
+      "source": "https://www.diggs.pet/",
+      "selector": "display:none;visibility:hidden\n\n    :root",
+      "declarations": "--announcement-height: 34px;"
+    },
+    {
+      "source": "https://www.diggs.pet/",
+      "selector": ":root",
+      "declarations": "--announcement-height: 34px;"
+    },
+    {
+      "source": "https://www.diggs.pet/",
+      "selector": ".announcement-bar__text.body-small",
+      "declarations": "font-size:14px; line-height:1.4; letter-spacing:.02em;\n      padding:0; text-transform:none; font-weight:400; color:inherit; text-align:center;"
+    },
+    {
+      "source": "https://www.diggs.pet/",
+      "selector": "on a,\n  .header__localization button,\n  .header__cart,\n  .header__account-body,\n  .menu-drawer__utility-account-body,\n  .menu-drawer__menu-item,\n  .mobile-mega-",
+      "declarations": "font-family: var(--font-header-menu-family);\n    font-style: var(--font-header-menu-style);\n    font-weight: var(--font-header-menu-weight);\n    font-size: calc(var(--font-header-menu-text-scale) * 1rem);\n    text-transform: var(--font-header-menu-text-transform);\n    letter-spacing: var(--font-header-menu-letter-spacing);"
+    },
+    {
+      "source": "https://www.diggs.pet/",
+      "selector": "#shopify-section-template--18966134227130__logo_list_Ag3wcb .logo-list__header__subtitle",
+      "declarations": "font-weight: 600; font-family: var(--font-heading-family); font-size: 1.1rem;"
+    },
+    {
+      "source": "https://www.diggs.pet/",
+      "selector": ".section-template--18966134227130__popular_products_Ly4hWr-padding .popular-products__grid",
+      "declarations": "--row_gap: 0.8rem;\n    --column_gap: 0.8rem;"
+    },
+    {
+      "source": "https://www.diggs.pet/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.diggs.pet/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.diggs.pet/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.diggs.pet/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.diggs.pet/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.diggs.pet/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.diggs.pet/cdn/shop/t/68/assets/swiper-bundle.min.css?v=158873188915743418901754491138",
+      "selector": ":root",
+      "declarations": "--swiper-theme-color:#007aff;"
+    },
+    {
+      "source": "https://www.diggs.pet/cdn/shop/t/68/assets/swiper-bundle.min.css?v=158873188915743418901754491138",
+      "selector": ":root",
+      "declarations": "--swiper-navigation-size:44px;"
+    },
+    {
+      "source": "https://www.diggs.pet/cdn/shop/t/68/assets/swiper-bundle.min.css?v=158873188915743418901754491138",
+      "selector": ".swiper-button-next, .swiper-button-prev",
+      "declarations": "position: absolute;\n  top: var(--swiper-navigation-top-offset, 50%);\n  width: calc(var(--swiper-navigation-size) / 44 * 27);\n  height: var(--swiper-navigation-size);\n  margin-top: calc(0px - var(--swiper-navigation-size) / 2);\n  z-index: 10;\n  cursor: pointer;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  color: var(--swiper-navigation-color, var(--swiper-theme-color));"
+    },
+    {
+      "source": "https://www.diggs.pet/cdn/shop/t/68/assets/swiper-bundle.min.css?v=158873188915743418901754491138",
+      "selector": ".swiper-button-next:after, .swiper-button-prev:after",
+      "declarations": "font-family: swiper-icons;\n  font-size: var(--swiper-navigation-size);\n  text-transform: none !important;\n  letter-spacing: 0;\n  font-variant: initial;\n  line-height: 1;"
+    },
+    {
+      "source": "https://www.diggs.pet/cdn/shop/t/68/assets/base.css?v=94353657865325751951758214793",
+      "selector": ":root",
+      "declarations": "--color-success: 46, 135, 13;--color-error: 183, 60, 36;--color-error-border: 238, 88, 79;--color-error-background: 255, 245, 245;--duration-short: .1s;--duration-default: .3s;--duration-long: .5s;--hover-opacity: .6;--color-diggs-white: 255, 255, 255;--color-diggs-bone: 244, 238, 233;--color-diggs-sage: 197, 206, 186;--color-diggs-darksage: 100, 105, 94;--color-diggs-clay: 109, 99, 91;--color-diggs-slate: 76, 74, 78;--color-diggs-nearblack: 52, 54, 51;--color-navbar-background: var(--color-diggs-white);--brand-font-body: \"Recta\", Arial, Helvetica, sans-serif"
+    },
+    {
+      "source": "https://www.diggs.pet/cdn/shop/t/68/assets/base.css?v=94353657865325751951758214793",
+      "selector": "[data-scheme=dark] .swiper-buttons.swiper-buttons--secondary .icon",
+      "declarations": "color:rgb(var(--color-background))"
+    },
+    {
+      "source": "https://www.diggs.pet/cdn/shop/t/68/assets/base.css?v=94353657865325751951758214793",
+      "selector": "d__link:after,[data-scheme=dark] .card-horizontal__link,[data-scheme=dark] .card-horizontal__link:after,[data-scheme=dark] .collection-product-list .collection-",
+      "declarations": "background-color:#212121"
+    },
+    {
+      "source": "https://www.diggs.pet/cdn/shop/t/68/assets/base.css?v=94353657865325751951758214793",
+      "selector": "[data-scheme=dark] .collection-results--products .card-wrapper,[data-scheme=dark] .product-recommendations__product .card-wrapper",
+      "declarations": "background-color:#1c1c1c"
+    },
+    {
+      "source": "https://www.diggs.pet/cdn/shop/t/68/assets/base.css?v=94353657865325751951758214793",
+      "selector": "list--horizontal.featured-products__products-list--placeholder .card-wrapper,[data-scheme=dark] .featured-products__products-list .featured-products__products-i",
+      "declarations": "border-color:#dfdfdf"
+    },
+    {
+      "source": "https://www.diggs.pet/cdn/shop/t/68/assets/base.css?v=94353657865325751951758214793",
+      "selector": "[data-scheme=dark] .shopify-payment-button__button.shopify-payment-button__button--unbranded",
+      "declarations": "background-color:rgb(var(--color-foreground));color:rgb(var(--color-background))"
+    },
+    {
+      "source": "https://www.diggs.pet/cdn/shop/t/68/assets/base.css?v=94353657865325751951758214793",
+      "selector": "[data-scheme=dark] .shopify-payment-button__button.shopify-payment-button__button--unbranded:not(:disabled):hover",
+      "declarations": "background-color:rgb(var(--color-foreground-secondary))"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Diggs® | Designed for dogs, made for homes like yours.",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.diggs.pet/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.diggs.pet/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.diggs.pet/",
+        "https://www.diggs.pet/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.diggs.pet/cdn/shop/t/68/assets/swiper-bundle.min.css?v=158873188915743418901754491138",
+        "https://www.diggs.pet/cdn/shop/t/68/assets/base.css?v=94353657865325751951758214793",
+        "https://www.diggs.pet/cdn/shop/t/68/assets/diggs.css?v=168180670027125077961758737804"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.diggs.pet/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.diggs.pet/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.diggs.pet/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.diggs.pet/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.diggs.pet/",
+        "https://www.diggs.pet/cdn/shop/t/68/assets/diggs.css?v=168180670027125077961758737804"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.diggs.pet/",
+        "https://www.diggs.pet/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.diggs.pet/cdn/shop/t/68/assets/swiper-bundle.min.css?v=158873188915743418901754491138",
+        "https://www.diggs.pet/cdn/shop/t/68/assets/base.css?v=94353657865325751951758214793",
+        "https://www.diggs.pet/cdn/shop/t/68/assets/diggs.css?v=168180670027125077961758737804"
+      ]
+    },
+    "colors.accent-checkout": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.diggs.pet/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-checkout-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.diggs.pet/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.sage": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.diggs.pet/"
+      ]
+    },
+    "colors.taupe": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.diggs.pet/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.crate-size-selector": {
+      "status": "inferred"
+    }
+  }
+}

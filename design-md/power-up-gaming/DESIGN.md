@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Power Up Gaming
-description: A retro game retailer that wears its primary red (#cc0000) like a neon sign above a brick-and-mortar arcade — the same red that fills the browser tab bar, powers every primary CTA, and marks sold-out badges on product cards. The palette is a deliberate clash of gaming-era accents: a deep teal (#108474) for secondary buttons and navigation bars, a royal blue (#000d8d) for footer backgrounds and informational banners, and a marigold (#ffbd00) that flashes on sale tags and limited-stock indicators. The canvas is a warm off-white (#f9fafb) rather than pure white, giving the storefront the patina of a well-loved game shop rather than a sterile e-commerce template. Figtree, a geometric sans-serif with a friendly, slightly condensed character, runs at 400 weight for body copy and jumps to 600 for headings and buttons — never heavy, never aggressive, matching the approachable tone of a store that wants to help you find that missing cartridge. Corners are soft but not pill-shaped: buttons use {rounded.sm} (8px), product cards use {rounded.md} (12px), and the search bar uses {rounded.lg} (20px), creating a consistent radius hierarchy that feels playful without tipping into toy-like. The layout is a dense grid of product thumbnails, each with a bold price tag and stock badge, mimicking the visual density of a physical display case. The overall effect is a digital storefront that feels like a physical destination — warm, cluttered in a curated way, and unmistakably red.
+name: "Power Up Gaming"
+source_url: "https://powerupgaming.ca"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A retro game retailer that wears its primary red (#cc0000) like a neon sign above a brick-and-mortar arcade — the same red that fills the browser tab bar, powers every primary CTA, and marks sold-out badges on product cards. The palette is a deliberate clash of gaming-era accents: a deep teal (#108474) for secondary buttons and navigation bars, a royal blue (#000d8d) for footer backgrounds and informational banners, and a marigold (#ffbd00) that flashes on sale tags and limited-stock indicators. The canvas is a warm off-white (#f9fafb) rather than pure white, giving the storefront the patina of a well-loved game shop rather than a sterile e-commerce template. Figtree, a geometric sans-serif with a friendly, slightly condensed character, runs at 400 weight for body copy and jumps to 600 for headings and buttons — never heavy, never aggressive, matching the approachable tone of a store that wants to help you find that missing cartridge. Corners are soft but not pill-shaped: buttons use {rounded.sm} (8px), product cards use {rounded.md} (12px), and the search bar uses {rounded.lg} (20px), creating a consistent radius hierarchy that feels playful without tipping into toy-like. The layout is a dense grid of product thumbnails, each with a bold price tag and stock badge, mimicking the visual density of a physical display case. The overall effect is a digital storefront that feels like a physical destination — warm, cluttered in a curated way, and unmistakably red.
 
 colors:
   primary: "#cc0000"
@@ -429,6 +433,8 @@ components:
 - Search bar collapses to icon-only on mobile, expanding to full-width on tap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for most components were inferred from common patterns rather than extracted from the live site — actual implementations may vary
 - Error state styling for form inputs (validation colors, error messages) was not extractable from the provided data

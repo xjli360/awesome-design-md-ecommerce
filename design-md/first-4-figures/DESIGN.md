@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: First 4 Figures
-description: A collector's stage where premium resin and polystone statues are presented against a deep, almost theatrical darkness — #0f0f0f and #1d1d1d dominate the canvas, pushing the product photography into high-contrast spotlight. The brand's single voltage of accent color is #0693e3, a cool cyan-blue that appears on primary CTAs, navigation highlights, and the signature "Pre-order" badge, cutting through the monochrome like a museum label in a dim gallery. Typography runs Montserrat at clean, moderate weights — display headlines sit at 500–600 weight rather than heavy bold, letting the sculptural detail of each collectible do the rhetorical work. Product cards use soft corners (`{rounded.md}` ~12px) and generous padding (`{spacing.lg}` 24px) to frame each statue as an art object, while the persistent top nav stays fixed in #191919 with white text, creating a reliable anchor. The checkout flow introduces a secondary accent in #4d5bcd (a subdued indigo) for progress indicators and secondary actions, and a restrained red #ae2828 for sold-out or low-stock warnings. The overall mood is one of hushed intensity — the site treats every figure as a limited-edition artifact, and the design system exists to step back and let the collectible command attention.
+name: "First 4 Figures"
+source_url: "https://www.first4figures.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A collector's stage where premium resin and polystone statues are presented against a deep, almost theatrical darkness — #0f0f0f and #1d1d1d dominate the canvas, pushing the product photography into high-contrast spotlight. The brand's single voltage of accent color is #0693e3, a cool cyan-blue that appears on primary CTAs, navigation highlights, and the signature "Pre-order" badge, cutting through the monochrome like a museum label in a dim gallery. Typography runs Montserrat at clean, moderate weights — display headlines sit at 500–600 weight rather than heavy bold, letting the sculptural detail of each collectible do the rhetorical work. Product cards use soft corners (`{rounded.md}` ~12px) and generous padding (`{spacing.lg}` 24px) to frame each statue as an art object, while the persistent top nav stays fixed in #191919 with white text, creating a reliable anchor. The checkout flow introduces a secondary accent in #4d5bcd (a subdued indigo) for progress indicators and secondary actions, and a restrained red #ae2828 for sold-out or low-stock warnings. The overall mood is one of hushed intensity — the site treats every figure as a limited-edition artifact, and the design system exists to step back and let the collectible command attention.
 
 colors:
   primary: "#0693e3"
@@ -291,6 +295,8 @@ components:
 - Search bar collapses to a search icon that expands to full-width input on tap (mobile)
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Extracted hex colors are heavily skewed toward dark grays and blacks (#0f0f0f, #1d1d1d, #191919, #202020, #313131) with a single distinctive cyan (#0693e3) — the palette appears intentionally monochrome with one accent, but hover/active/focus states for secondary elements are inferred
 - No extracted hover states for buttons, links, or cards — primary-active and primary-disabled are estimated based on common darkening/desaturation patterns

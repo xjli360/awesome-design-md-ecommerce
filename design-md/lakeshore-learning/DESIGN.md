@@ -1,11 +1,15 @@
 ---
 version: alpha
-name: Lakeshore Learning
-description: Every category landing page signals its subject before a word is read — a manipulative math tile in warm red (#e8392a), a language-arts badge in cobalt blue (#1a6fb8), a science kit ringed in leaf green (#3a9e4d). Lakeshore Learning operates five distinct accent hues as a semantic taxonomy: age-group, subject area, and grade-level are encoded in color rather than left to text labels alone. The primary red carries logo, primary CTA, and sale-badge simultaneously and never appears as decoration. Canvas is hard white with minimal surface tinting; product photography supplies all warmth and visual density, so the grid can run short padding stacks and still read as generous.
+name: "Lakeshore Learning"
+source_url: "https://www.lakeshorelearning.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Every category landing page signals its subject before a word is read — a manipulative math tile in warm red (#e8392a), a language-arts badge in cobalt blue (#1a6fb8), a science kit ringed in leaf green (#3a9e4d). Lakeshore Learning operates five distinct accent hues as a semantic taxonomy: age-group, subject area, and grade-level are encoded in color rather than left to text labels alone. The primary red carries logo, primary CTA, and sale-badge simultaneously and never appears as decoration. Canvas is hard white with minimal surface tinting; product photography supplies all warmth and visual density, so the grid can run short padding stacks and still read as generous.
 
-Type is set in a clean geometric sans — widely documented as Proxima Nova or a comparable humanist — at relatively modest weights. Display headings sit around 28–32px in weight 600; product-card titles run 15–16px weight 600 to hold legibility over busy photography thumbnails. Buttons are medium weight (500) at 15px to project authority without aggression. Letter-spacing runs near-zero throughout; the brand doesn't compress tracking to manufacture sophistication. Line-height in body copy is a roomy 1.55, deliberate for a reading audience of time-pressed classroom teachers scanning product specs.
+  Type is set in a clean geometric sans — widely documented as Proxima Nova or a comparable humanist — at relatively modest weights. Display headings sit around 28–32px in weight 600; product-card titles run 15–16px weight 600 to hold legibility over busy photography thumbnails. Buttons are medium weight (500) at 15px to project authority without aggression. Letter-spacing runs near-zero throughout; the brand doesn't compress tracking to manufacture sophistication. Line-height in body copy is a roomy 1.55, deliberate for a reading audience of time-pressed classroom teachers scanning product specs.
 
-Corners are gently rounded everywhere — 8px on input fields, 6px on buttons, 12px on product cards, `{rounded.full}` on age-range and grade-level badges. The softness signals child-appropriate goods without sacrificing the grid discipline a professional educator expects. The top navigation holds a mega-menu organized by subject area, each column headed in one of the brand accent colors, functioning as a color-coded curriculum map. Product cards layer a "New" badge in primary red, a subject-area badge in the relevant accent, and a star-rating line — three information layers that stack cleanly because the type scale keeps each element in its lane.
+  Corners are gently rounded everywhere — 8px on input fields, 6px on buttons, 12px on product cards, `{rounded.full}` on age-range and grade-level badges. The softness signals child-appropriate goods without sacrificing the grid discipline a professional educator expects. The top navigation holds a mega-menu organized by subject area, each column headed in one of the brand accent colors, functioning as a color-coded curriculum map. Product cards layer a "New" badge in primary red, a subject-area badge in the relevant accent, and a star-rating line — three information layers that stack cleanly because the type scale keeps each element in its lane.
 
 colors:
   primary: "#e8392a"
@@ -429,6 +433,8 @@ components:
 - Footer columns stack to 2-column layout on tablet and a single-column accordion (expand/collapse per subject group) on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No hex colors were extractable from the live site (likely JS-loaded design tokens or anti-bot protection); all `colors.*` values in this spec are approximations derived from widely observable brand assets including the logo, catalog imagery, and print materials — treat every hex as provisional and verify against a live DOM inspector or official brand guidelines PDF before shipping
 - Font family could not be confirmed via network extraction; Proxima Nova is cited as the most widely documented match for Lakeshore's web typography but has not been verified from an actual font request — could be a licensed equivalent or a clean sans-serif system stack

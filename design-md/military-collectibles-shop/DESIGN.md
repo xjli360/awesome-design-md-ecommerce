@@ -1,9 +1,13 @@
 ---
 version: alpha
-name: Military Collectibles Shop
-description: Special Elite — a typewriter face whose ink-bleed edges evoke field-stamped orders and wartime correspondence — sets the register before a single image loads: this is a shop where provenance matters more than polish. The meta theme color #537353, an olive drab pulled straight from military field manuals and equipment stencils, functions as both primary CTA surface and navigation ground, lending the site an immediate institutional weight that a generic retail palette never could. Yeseva One provides editorial contrast in secondary display roles, its high-contrast serifs reading like a museum acquisition placard rather than a storefront sign. Open Sans carries body copy at comfortable weights, bridging the historical display atmosphere with functional legibility for catalog descriptions, condition notes, and provenance text.
+name: "Military Collectibles Shop"
+source_url: "https://militarycollectorshq.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Special Elite — a typewriter face whose ink-bleed edges evoke field-stamped orders and wartime correspondence — sets the register before a single image loads: this is a shop where provenance matters more than polish. The meta theme color #537353, an olive drab pulled straight from military field manuals and equipment stencils, functions as both primary CTA surface and navigation ground, lending the site an immediate institutional weight that a generic retail palette never could. Yeseva One provides editorial contrast in secondary display roles, its high-contrast serifs reading like a museum acquisition placard rather than a storefront sign. Open Sans carries body copy at comfortable weights, bridging the historical display atmosphere with functional legibility for catalog descriptions, condition notes, and provenance text.
 
-The palette is deliberately narrow: #537353 olive anchors authority, #ff0000 marks urgency on featured or sale inventory, and #ffff00 surfaces in tight accent moments — a price callout, a rare-find indicator — rather than as ambient decoration. The canvas reads as aged parchment (#f7f3e9) rather than clinical white, reinforcing the collectible context without resorting to faux-sepia filters. Cards sit on a slightly warmer surface (#faf7f0) to lift inventory cleanly from the background. Corner radii stay conservative throughout — {rounded.xs} to {rounded.sm} — because hard-edged industrial geometry suits relics and regalia better than the friendly pill shapes of a lifestyle brand. Monospace type appears in catalog-code and serial-number contexts, lending archival specificity that signals authentication consciousness to serious collectors. Social platform colors (#1877f2 Facebook, #e1306c Instagram) appear only as footer icon tints — they are not brand vocabulary. Condition grades — Good, Very Good, Excellent, Mint — surface as muted capsule badges using {colors.surface-soft}, letting the olive primary carry selective weight rather than competing with condition signals across every product card.
+  The palette is deliberately narrow: #537353 olive anchors authority, #ff0000 marks urgency on featured or sale inventory, and #ffff00 surfaces in tight accent moments — a price callout, a rare-find indicator — rather than as ambient decoration. The canvas reads as aged parchment (#f7f3e9) rather than clinical white, reinforcing the collectible context without resorting to faux-sepia filters. Cards sit on a slightly warmer surface (#faf7f0) to lift inventory cleanly from the background. Corner radii stay conservative throughout — {rounded.xs} to {rounded.sm} — because hard-edged industrial geometry suits relics and regalia better than the friendly pill shapes of a lifestyle brand. Monospace type appears in catalog-code and serial-number contexts, lending archival specificity that signals authentication consciousness to serious collectors. Social platform colors (#1877f2 Facebook, #e1306c Instagram) appear only as footer icon tints — they are not brand vocabulary. Condition grades — Good, Very Good, Excellent, Mint — surface as muted capsule badges using {colors.surface-soft}, letting the olive primary carry selective weight rather than competing with condition signals across every product card.
 
 colors:
   primary: "#537353"
@@ -323,6 +327,8 @@ components:
 - Price and condition information stack vertically on mobile product cards; era badge and featured badge retain position over the image
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No checkout or cart page color tokens extracted; olive primary assumed for cart and checkout CTAs but a distinct accent color may exist
 - Exact nav dropdown structure and mega-menu column layout not confirmed; double-bar treatment inferred from the contrast between #537353 and #1c1c14 extractions

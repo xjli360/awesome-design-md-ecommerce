@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: KRK Systems
-description: A studio-monitor brand that uses its own product as the interface metaphor — the signature yellow cone of the Rokit series becomes the brand’s primary voltage (#f8c423), a high-visibility accent that appears on every CTA, badge, and interactive element against a near-black chassis (#202223) and deep ink (#111111). The brand lives in extremes of contrast: pure white canvas (#f8f8f8) against the dark body, with a muted mid-tone (#6d7175) and a soft structural gray (#c5c8d1) for borders and secondary text. Inter runs across the system at clean, modest weights — no display faces, no decorative typography — letting the product photography and the yellow cone do all the emotional work. Buttons are sharp-cornered rectangles with tight padding, echoing the physical shape of a monitor enclosure. The nav bar is a thin, dark strip with white text, and product cards sit on white with a yellow accent strip, mimicking the physical product’s front baffle. The system trusts high contrast and a single accent color over any secondary palette — there is no gradient, no illustration, no decorative flourish. The yellow is not warm or playful; it is functional, industrial, and precise, like a reference monitor’s calibration mark.
+name: "KRK Systems"
+source_url: "https://www.krkmusic.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A studio-monitor brand that uses its own product as the interface metaphor — the signature yellow cone of the Rokit series becomes the brand’s primary voltage (#f8c423), a high-visibility accent that appears on every CTA, badge, and interactive element against a near-black chassis (#202223) and deep ink (#111111). The brand lives in extremes of contrast: pure white canvas (#f8f8f8) against the dark body, with a muted mid-tone (#6d7175) and a soft structural gray (#c5c8d1) for borders and secondary text. Inter runs across the system at clean, modest weights — no display faces, no decorative typography — letting the product photography and the yellow cone do all the emotional work. Buttons are sharp-cornered rectangles with tight padding, echoing the physical shape of a monitor enclosure. The nav bar is a thin, dark strip with white text, and product cards sit on white with a yellow accent strip, mimicking the physical product’s front baffle. The system trusts high contrast and a single accent color over any secondary palette — there is no gradient, no illustration, no decorative flourish. The yellow is not warm or playful; it is functional, industrial, and precise, like a reference monitor’s calibration mark.
 
 colors:
   primary: "#f8c423"
@@ -323,6 +327,8 @@ components:
 - Footer link columns collapse into a single vertical list below 744px, with each section separated by a hairline divider.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted color palette is sparse and heavily weighted toward grayscale (#202223, #111111, #f8f8f8, #6d7175, #c5c8d1) with a single yellow accent (#f8c423). This is consistent with a minimal, industrial brand, but hover states for secondary elements (e.g., product-card-hover) were inferred from the general design language rather than extracted.
 - Font-family declarations returned only "Inter" and "object-fit: contain". No fallback stacks or additional weights were found. The typography block uses a standard system fallback chain.

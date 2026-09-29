@@ -1,0 +1,732 @@
+{
+  "source_url": "https://level.co",
+  "final_url": "https://level.co/",
+  "captured_at": "2026-09-28T04:26:32.128513+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://level.co",
+      "final_url": "https://level.co/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "344cf82bae26cca3514abf8666755b0f0d5b1b49fbe4ae00e88df98237d8ea7f",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css",
+      "final_url": "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b9fd50b038784dc46b0c0ee8951053e85cfd066102de6b6c51f22deecde15230",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://level.co/_next/static/chunks/0ux09cgkd4rwf.css",
+      "final_url": "https://level.co/_next/static/chunks/0ux09cgkd4rwf.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e7c8b6aa038daa4f36ae0460fbb69fb4c5bb8032eff3c204014cbe448c359029",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 28,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css",
+        "https://level.co/_next/static/chunks/0ux09cgkd4rwf.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 5,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#000000": {
+      "count": 4,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css",
+        "https://level.co/_next/static/chunks/0ux09cgkd4rwf.css"
+      ]
+    },
+    "#bbc2c4": {
+      "count": 3,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 3,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#e8e5de": {
+      "count": 2,
+      "sources": [
+        "https://level.co/"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 2,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#afa9a0": {
+      "count": 2,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css",
+        "https://level.co/_next/static/chunks/0ux09cgkd4rwf.css"
+      ]
+    },
+    "#00000080": {
+      "count": 2,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#ff0000": {
+      "count": 2,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#ffffff00": {
+      "count": 2,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#13131408": {
+      "count": 2,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#00000026": {
+      "count": 2,
+      "sources": [
+        "https://level.co/_next/static/chunks/0ux09cgkd4rwf.css"
+      ]
+    },
+    "#ffffffe6": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#f7f8f8": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#e9e5dd": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#3a3a3c": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#3a3a3cb3": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#d6b587": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#c94633": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#6596ab": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#242426": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#5b5b5b": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#151515": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#9e9b97": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#d0d0d0": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#eaeaeb": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#dcbc77": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#efe1b6": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#3c3838": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#504647": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#e0e7ec": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#3b82f680": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#101213": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#151517": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#151518": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#1e1e1e": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#292929": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#f0efed": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#000000cc": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#24242680": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#3a3a3c00": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#212121": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#141414": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#2b2b2b": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#6f96a9": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#757577": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#a6a6a6": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "#e9e9eb": {
+      "count": 1,
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Consolas": [
+      "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+    ],
+    "Courier New": [
+      "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+    ],
+    "Liberation Mono": [
+      "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+    ],
+    "Menlo": [
+      "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+    ],
+    "Monaco": [
+      "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+    ],
+    "SFMono-Regular": [
+      "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+    ],
+    "monospace": [
+      "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+    ],
+    "suisseIntl": [
+      "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+    ],
+    "suisseIntl Fallback": [
+      "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+    ],
+    "suisseWorks": [
+      "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+    ],
+    "suisseWorks Fallback": [
+      "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+    ],
+    "ui-monospace": [
+      "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css",
+      "selector": "body",
+      "declarations": "--global-header-top-bar-float-padding:0px;--global-header-top-bar-height:60px;--global-header-top-bar-float-height:calc(var(--global-header-top-bar-float-padding) + var(--global-header-top-bar-height));--global-header-pagemenu-height:60px;--global-header-promo-banner-height:0px;--global-header-top-nav-height:calc(var(--global-header-top-bar-float-height) + var(--global-header-promo-banner-height))"
+    },
+    {
+      "source": "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css",
+      "selector": "body.has-global-header-promo-banner",
+      "declarations": "--global-header-promo-banner-height:60px"
+    },
+    {
+      "source": "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css",
+      "selector": "body",
+      "declarations": "--global-header-top-bar-height:100px;--global-header-pagemenu-height:80px"
+    },
+    {
+      "source": "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css",
+      "selector": "body.has-floating-global-header",
+      "declarations": "--global-header-top-bar-float-padding:20px"
+    },
+    {
+      "source": "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css",
+      "selector": "body.has-global-header-promo-banner",
+      "declarations": "--global-header-promo-banner-height:50px"
+    },
+    {
+      "source": "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css",
+      "selector": "body",
+      "declarations": "--global-header-height:calc(var(--global-header-top-nav-height) + var(--global-header-pagemenu-height))"
+    },
+    {
+      "source": "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css",
+      "selector": ".level-global-header",
+      "declarations": "--global-header-submenu-height:calc(100vh - var(--global-header-top-nav-height))"
+    },
+    {
+      "source": "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css",
+      "selector": ".level-global-header",
+      "declarations": "--global-header-submenu-height:calc(100vh - var(--space-5) - var(--global-header-top-nav-height))"
+    },
+    {
+      "source": "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css",
+      "selector": ".level-global-header[data-active-group] [data-link-group]",
+      "declarations": "color:var(--color-slate-p)"
+    },
+    {
+      "source": "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css",
+      "selector": ",.level-global-header[data-active-group][data-active-group=door-sets] [data-link-group=door-sets],.level-global-header[data-active-group][data-active-group=all-",
+      "declarations": "color:var(--color-charcoal)"
+    },
+    {
+      "source": "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css",
+      "selector": ".level-global-header.is-hidden-complete .level-global-header-top-nav",
+      "declarations": "background-color:var(--color-cotton)"
+    },
+    {
+      "source": "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css",
+      "selector": ".level-global-header-top-nav",
+      "declarations": "background-color:var(--color-cotton);height:var(--global-header-top-bar-height);transition:all .3s"
+    },
+    {
+      "source": "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css",
+      "selector": ".level-global-header-pagemenu-links li:hover,.level-global-header-pagemenu-links li.is-active",
+      "declarations": "color:var(--color-slate)"
+    },
+    {
+      "source": "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css",
+      "selector": ".level-global-header-account-submenu li",
+      "declarations": "color:var(--color-slate-p);border-bottom:1px solid #e0e7ec;padding:15px 0"
+    },
+    {
+      "source": "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css",
+      "selector": ".level-global-header-account-submenu li:hover",
+      "declarations": "color:var(--color-slate)"
+    },
+    {
+      "source": "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css",
+      "selector": ":root",
+      "declarations": "--swiper-navigation-color:white;--swiper-pagination-color:white;--swiper-theme-color:white"
+    },
+    {
+      "source": "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css",
+      "selector": ".testimonialsCarousel .swiper-button-prev,.testimonialsCarousel .swiper-button-next",
+      "declarations": "width:40px;height:40px;color:var(--color-slate);background:0 0;border:none"
+    },
+    {
+      "source": "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-feature-settings:inherit;font-variation-settings:inherit;font-family:inherit;font-size:100%;font-weight:inherit;line-height:inherit;letter-spacing:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css",
+      "selector": "button,input:where([type=button]),input:where([type=reset]),input:where([type=submit])",
+      "declarations": "-webkit-appearance:button;background-color:#0000;background-image:none"
+    },
+    {
+      "source": "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css",
+      "selector": "body",
+      "declarations": "color:var(--color-slate)"
+    },
+    {
+      "source": "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css",
+      "selector": ".font-button",
+      "declarations": "font-size:var(--step-14-16);font-family:var(--font-suisseintl), ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";letter-spacing:.05em;text-transform:uppercase;font-weight:500;line-height:1.1"
+    },
+    {
+      "source": "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css",
+      "selector": ".type-h1",
+      "declarations": "font-family:var(--font-suisseworks), ui-serif, Georgia, Cambria, \"Times New Roman\", Times, serif;font-size:var(--step-44-64);font-weight:400;line-height:1.1"
+    },
+    {
+      "source": "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css",
+      "selector": ".type-button",
+      "declarations": "font-family:var(--font-suisseintl), ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";letter-spacing:3.75%;text-transform:uppercase;font-size:.75rem;font-weight:500;line-height:1.1"
+    },
+    {
+      "source": "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css",
+      "selector": ".s7\\:type-h1",
+      "declarations": "font-family:var(--font-suisseworks), ui-serif, Georgia, Cambria, \"Times New Roman\", Times, serif;font-size:var(--step-44-64);font-weight:400;line-height:1.1"
+    },
+    {
+      "source": "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css",
+      "selector": ".s7\\:type-button-lg",
+      "declarations": "font-family:var(--font-suisseintl), ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";letter-spacing:5%;text-transform:uppercase;font-size:1rem;font-weight:500;line-height:1.1"
+    },
+    {
+      "source": "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css",
+      "selector": ".s8\\:\\!type-h1",
+      "declarations": "font-family:var(--font-suisseworks), ui-serif, Georgia, Cambria, \"Times New Roman\", Times, serif;font-size:var(--step-44-64)!important;font-weight:400!important;line-height:1.1!important"
+    },
+    {
+      "source": "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css",
+      "selector": ".\\[\\&\\>\\*\\]\\:type-button>*",
+      "declarations": "font-family:var(--font-suisseintl), ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";letter-spacing:3.75%;text-transform:uppercase;font-size:.75rem;font-weight:500;line-height:1.1"
+    },
+    {
+      "source": "https://level.co/_next/static/chunks/0ux09cgkd4rwf.css",
+      "selector": ".ProductSwatches-module__q9QrFa__swatch-white.ProductSwatches-module__q9QrFa__swatchActive:after",
+      "declarations": "border-width:1px;border-color:var(--color-glass)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Invisible Smart Locks | Level",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "colors.accent-slate": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "colors.accent-terracotta": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "colors.border-subtle": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "colors.overlay-scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://level.co/_next/static/chunks/0_csvoj5hfi9t.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.lock-status-indicator": {
+      "status": "inferred"
+    }
+  }
+}

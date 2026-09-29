@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Attn: Grace
-description: |
+name: "Attn: Grace"
+source_url: "https://attngrace.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   #dedc00 is not a color that asks for permission — a hard-edged chartreuse that Attn: Grace deploys as its primary action signal, sitting against warm cream (#fbf5ef) the way a handwritten correction lands on good stationery: direct, personal, slightly irreverent. The choice refuses the muted-lavender register that wellness packaging habitually assigns to aging women, and it is the first design decision that announces this brand was built from the inside by the women it serves. Acre drives the headlines, a typeface carrying editorial authority rather than hospital-legible oversized type, while BentonMod handles body copy and UI labels with a quieter register — finishing sentences that Acre starts.
 
   The palette moves through three distinct emotional zones that never fully merge. The foreground layer is warm and lit: ivory canvases (#fbf5ef, #ebe2d8) grounding electric yellow (#dedc00) and golden amber (#ffcf2a), with peach and warm orange (#fac8a7, #fb9650) threading through illustration details and badge surfaces. A slate-navy depth layer (#272d45, #2c3e50, #384b57) appears in dark hero sections and footer surfaces, lending a seriousness that reads as engineering credibility rather than aspirational softness. The third zone is a teal family (#00caaa, #b2f9e9, #0e7a82) used for certifications, active form states, and clean-science signals — positioned far from botanical warmth, closer to lab verification.
@@ -442,6 +445,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact corner radius values could not be confirmed from extraction — {rounded.sm} (8px) on interactive elements and {rounded.md} (12px) on cards are inferred from the brand's moderate-curve aesthetic
 - Acre and BentonMod font details (specific weights available, optical sizing, VF axes) could not be confirmed — these are proprietary or licensed typefaces and the extraction returned only font-family stack names

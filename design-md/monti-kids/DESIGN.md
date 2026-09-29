@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Monti Kids
-description: A soft, airy ecosystem for early childhood development, Monti Kids uses a pastel-inflected palette anchored on #c1e9ff — a pale, milky cerulean that reads as nursery-light rather than brand-primary. The site wraps its Montessori-aligned product boxes in rounded corners ({rounded.lg}) and generous whitespace, with secondary washes of #e1fcff and #bde7ff creating a layered, aquatic atmosphere that never tips into baby-blue cliché. Typography runs Shopify Sans Medium and Shopify Sans Regular at modest weights — the brand trusts its product photography and clean layout over typographic drama, letting the wooden toys and play-kit materials carry the sensory load. The extracted palette (#5b5b5b, #f4f5f6, #eceafb, #f0edfe, #e9e8fb) suggests a muted, lavender-tinged gray scale alongside the primary blue, giving the interface a gentle, unforced femininity without leaning into pink. Buttons and CTAs use the cerulean primary against white text, while secondary surfaces in #f4f5f6 and #ecf7fc create soft card boundaries. The overall effect is one of deliberate calm — a digital environment designed to feel as safe and unhurried as the Montessori method itself.
+name: "Monti Kids"
+source_url: "https://montikids.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A soft, airy ecosystem for early childhood development, Monti Kids uses a pastel-inflected palette anchored on #c1e9ff — a pale, milky cerulean that reads as nursery-light rather than brand-primary. The site wraps its Montessori-aligned product boxes in rounded corners ({rounded.lg}) and generous whitespace, with secondary washes of #e1fcff and #bde7ff creating a layered, aquatic atmosphere that never tips into baby-blue cliché. Typography runs Shopify Sans Medium and Shopify Sans Regular at modest weights — the brand trusts its product photography and clean layout over typographic drama, letting the wooden toys and play-kit materials carry the sensory load. The extracted palette (#5b5b5b, #f4f5f6, #eceafb, #f0edfe, #e9e8fb) suggests a muted, lavender-tinged gray scale alongside the primary blue, giving the interface a gentle, unforced femininity without leaning into pink. Buttons and CTAs use the cerulean primary against white text, while secondary surfaces in #f4f5f6 and #ecf7fc create soft card boundaries. The overall effect is one of deliberate calm — a digital environment designed to feel as safe and unhurried as the Montessori method itself.
 
 colors:
   primary: "#c1e9ff"
@@ -377,6 +381,8 @@ components:
 - Accordion sections replace multi-column layouts below 744px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Extracted hex colors are predominantly light pastels and grays — the brand's true primary may be a more saturated color not captured in the extraction (e.g., a deeper blue or green used in logos or photography). The palette above represents the site's background/surface colors accurately but may miss accent or brand-mark colors.
 - Font-family extraction returned only "Shopify Sans Medium" and "Shopify Sans Regular" — the brand may use additional weights (Light, Bold) not present in the sampled pages.

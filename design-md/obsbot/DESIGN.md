@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: OBSBOT
-description: A high-voltage hardware brand that wraps its AI-powered webcams in a #e60033 primary — a confident, almost urgent red that appears on every product badge, add-to-cart button, and promotional banner, signaling motion and attention rather than the muted grays typical of pro AV gear. The site runs on a dense system of Element UI components (the extracted palette reveals #409eff blues, #67c23a greens, #e6a23c ambers, and #f56c6c reds from the framework), but OBSBOT’s own voice cuts through in that specific crimson, the #303133 ink for body text, and a heavy reliance on #c0c4cc and #dcdfe6 hairlines that give product spec tables and comparison grids a crisp, technical feel. Typography leans on Montserrat for headings and Open Sans for body, both served at modest weights (400–600) with generous line spacing — the brand trusts its product photography and spec callouts over decorative type. Product cards use {rounded.sm} corners and thin #e4e7ed borders, while the primary CTA button sits at 40px height with {rounded.sm} and #e60033 fill, turning to #dd6161 on hover. The overall mood is precision-tool meets consumer electronics: clean enough for B2B buyers comparing 4K sensors, but with enough red voltage to feel alive in a shopping feed.
+name: "OBSBOT"
+source_url: "https://www.obsbot.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A high-voltage hardware brand that wraps its AI-powered webcams in a #e60033 primary — a confident, almost urgent red that appears on every product badge, add-to-cart button, and promotional banner, signaling motion and attention rather than the muted grays typical of pro AV gear. The site runs on a dense system of Element UI components (the extracted palette reveals #409eff blues, #67c23a greens, #e6a23c ambers, and #f56c6c reds from the framework), but OBSBOT’s own voice cuts through in that specific crimson, the #303133 ink for body text, and a heavy reliance on #c0c4cc and #dcdfe6 hairlines that give product spec tables and comparison grids a crisp, technical feel. Typography leans on Montserrat for headings and Open Sans for body, both served at modest weights (400–600) with generous line spacing — the brand trusts its product photography and spec callouts over decorative type. Product cards use {rounded.sm} corners and thin #e4e7ed borders, while the primary CTA button sits at 40px height with {rounded.sm} and #e60033 fill, turning to #dd6161 on hover. The overall mood is precision-tool meets consumer electronics: clean enough for B2B buyers comparing 4K sensors, but with enough red voltage to feel alive in a shopping feed.
 
 colors:
   primary: "#e60033"
@@ -370,6 +374,8 @@ components:
 - Filter sidebar collapses to a horizontal scrollable tag strip on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Extracted colors are heavily dominated by Element UI framework defaults (#409eff, #67c23a, #e6a23c, #f56c6c, #909399, #c0c4cc, #dcdfe6, #e4e7ed, #f5f7fa, #f2f6fc, #ecf5ff, #f0f9eb, #fdf6ec, #fef0f0). The brand's true primary (#e60033) was identified as the most distinctive non-framework color, but its exact usage context (hover states, active states, disabled states) is inferred from common patterns rather than extracted.
 - No meta theme-color was found — the brand may not use a browser chrome color.

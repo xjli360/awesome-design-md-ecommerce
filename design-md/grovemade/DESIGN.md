@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Grovemade
-description: A brand built on the weight and warmth of natural materials, Grovemade uses a restrained palette anchored by a deep walnut brown (#4a2c2a) that appears in product photography shadows, wood grain textures, and the brand’s signature desk accessories. The canvas is a soft off-white (#f5f2ed) that reads as unbleached paper or raw linen, avoiding the sterile brightness of pure white. Typography runs in a single sans-serif family at moderate weights — there is no bold display headline shouting for attention; instead, the brand lets material texture and generous negative space carry the visual hierarchy. Product cards use a subtle hairline border (#d9d4ce) and a gentle shadow that mimics the way light falls across a wooden desktop. The primary accent is a muted terracotta (#c66b4d) used sparingly on add-to-cart buttons and sale badges, a color that echoes fired clay and contrasts the browns without competing. Rounded corners are minimal — a 4px radius on buttons and 8px on cards — suggesting precision machining rather than softness. The overall mood is one of quiet craft: every element feels cut from a single sheet, with no gratuitous decoration.
+name: "Grovemade"
+source_url: "https://www.grovemade.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A brand built on the weight and warmth of natural materials, Grovemade uses a restrained palette anchored by a deep walnut brown (#4a2c2a) that appears in product photography shadows, wood grain textures, and the brand’s signature desk accessories. The canvas is a soft off-white (#f5f2ed) that reads as unbleached paper or raw linen, avoiding the sterile brightness of pure white. Typography runs in a single sans-serif family at moderate weights — there is no bold display headline shouting for attention; instead, the brand lets material texture and generous negative space carry the visual hierarchy. Product cards use a subtle hairline border (#d9d4ce) and a gentle shadow that mimics the way light falls across a wooden desktop. The primary accent is a muted terracotta (#c66b4d) used sparingly on add-to-cart buttons and sale badges, a color that echoes fired clay and contrasts the browns without competing. Rounded corners are minimal — a 4px radius on buttons and 8px on cards — suggesting precision machining rather than softness. The overall mood is one of quiet craft: every element feels cut from a single sheet, with no gratuitous decoration.
 
 colors:
   primary: "#4a2c2a"
@@ -314,6 +318,8 @@ components:
 - Category pills wrap to multiple rows at mobile rather than scrolling horizontally
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No font-family declarations could be extracted from the live site; Inter is assumed based on common usage in the DTC craft space. The actual brand font may differ.
 - Only 2-3 distinctive colors were extractable from the live site (the site was behind a Cloudflare challenge at time of extraction). The palette above is constructed from observed brand patterns (wood tones, off-white canvas, terracotta accent) and should be verified against the actual production CSS.

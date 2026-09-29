@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Zebra Pen
-description: The pen barrel itself is the color system — Zebra's product lines span highlighters in seventeen shades, gel inks across forty, and marker tips from .3mm to brush, so the UI architecture on zebrapen.com is engineered to display color as inventory rather than decoration. A thin strip of product ink color runs flush across the top edge of every card, rendered with {rounded.none} at the top corners and {rounded.sm} at the bottom, isolating each hue against a neutral card field without competing with the product photo. The brand's primary voltage is #ed1846, a red pulled slightly toward magenta that stamps the header wordmark accent, sale badges, and mobile browser chrome via meta theme-color before any content loads. It reads more energetic than red-orange and less corporate than pure red — appropriate for writing instruments positioned between office commodity and creative tool.
+name: "Zebra Pen"
+source_url: "https://www.zebrapen.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The pen barrel itself is the color system — Zebra's product lines span highlighters in seventeen shades, gel inks across forty, and marker tips from .3mm to brush, so the UI architecture on zebrapen.com is engineered to display color as inventory rather than decoration. A thin strip of product ink color runs flush across the top edge of every card, rendered with {rounded.none} at the top corners and {rounded.sm} at the bottom, isolating each hue against a neutral card field without competing with the product photo. The brand's primary voltage is #ed1846, a red pulled slightly toward magenta that stamps the header wordmark accent, sale badges, and mobile browser chrome via meta theme-color before any content loads. It reads more energetic than red-orange and less corporate than pure red — appropriate for writing instruments positioned between office commodity and creative tool.
 
   Typography is more layered than a standard Shopify storefront: bely-display anchors editorial headlines with its high-contrast serif stroke; mr-eaves-modern carries body prose in a humanist sans; Jost handles buttons, badges, and UI labels in tracked all-caps; sofia-pro runs navigation links at weight 600. The four-family stack signals a brand with distinct product lines — fine-point technical pens, broad-tip markers, and specialty instruments — each needing a slightly different editorial register within the same grid. The neutral spine is decisive: #222222 ink against #f6f6f8 surface-soft, with mid-grays #878787 and #b1b1b1 holding borders and secondary labels. No warm greige, no softened cream — the palette reads as a professional desk, not a lifestyle shelf.
 
@@ -409,6 +413,8 @@ components:
 - Hero image moves below the text block on mobile rather than side-by-side
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact nav-bar height on mobile not confirmed — 64px desktop assumed, mobile may be 56px
 - Font loading hierarchy unclear: whether bely-display or sofia-pro is self-hosted vs Adobe Fonts CDN affects FOUT behavior; fallback serif/sans ordering is an assumption

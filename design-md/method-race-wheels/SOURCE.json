@@ -1,0 +1,960 @@
+{
+  "source_url": "https://methodracewheels.com",
+  "final_url": "https://www.methodracewheels.com/",
+  "captured_at": "2026-09-29T04:08:35.731421+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://methodracewheels.com",
+      "final_url": "https://www.methodracewheels.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "2700698684666c57299a872fd2262dfe76e326f4c55af0f07aa881ed132c688b",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://use.typekit.net/hrg6amx.css",
+      "final_url": "https://use.typekit.net/hrg6amx.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "cc8c0f384c1993187bf4dec07261b7884acefda85b67ba1ff453a95ca40c043b",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://unpkg.com/swiper/swiper-bundle.css",
+      "final_url": "https://unpkg.com/swiper@14.3.0/swiper-bundle.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "d4b77953077b1dd16ec3518fa615068cc29d3ecf5326c93c6056868158274b3e",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+      "final_url": "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c8bd30920b39ced2b26f6765f531ba775e9301c780ef72a24e9a54609d641ec7",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.methodracewheels.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.methodracewheels.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "60140bd03b6272c33abaaf9a0f6e3c3c72c23e66b7c98e86d9dc1b37aed65c72",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 193,
+      "sources": [
+        "https://www.methodracewheels.com/",
+        "https://unpkg.com/swiper/swiper-bundle.css",
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+        "https://www.methodracewheels.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "#1d1d1d": {
+      "count": 156,
+      "sources": [
+        "https://www.methodracewheels.com/",
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#fd672e": {
+      "count": 100,
+      "sources": [
+        "https://www.methodracewheels.com/",
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#000000": {
+      "count": 70,
+      "sources": [
+        "https://unpkg.com/swiper/swiper-bundle.css",
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 24,
+      "sources": [
+        "https://www.methodracewheels.com/",
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#eeeeee": {
+      "count": 23,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#555555": {
+      "count": 22,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#e7e7e7": {
+      "count": 14,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#ec1d24": {
+      "count": 14,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#197bbd": {
+      "count": 12,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 11,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#bebebe": {
+      "count": 10,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#cecece": {
+      "count": 9,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#cccccc": {
+      "count": 8,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "#ededed": {
+      "count": 8,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#a2a2a2": {
+      "count": 8,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#00000033": {
+      "count": 7,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "#656565": {
+      "count": 7,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#00000000": {
+      "count": 7,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+        "https://www.methodracewheels.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000080": {
+      "count": 6,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "#333333": {
+      "count": 6,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#000000cc": {
+      "count": 6,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#292929": {
+      "count": 6,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 5,
+      "sources": [
+        "https://www.methodracewheels.com/",
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#007aff": {
+      "count": 5,
+      "sources": [
+        "https://unpkg.com/swiper/swiper-bundle.css",
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "#3f3f3f": {
+      "count": 4,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 4,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#eaeaea": {
+      "count": 4,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#c9c9c9": {
+      "count": 4,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 4,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 4,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "#fff291": {
+      "count": 3,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#00000040": {
+      "count": 3,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "#00000099": {
+      "count": 3,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "#1816160d": {
+      "count": 3,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#d5d5d5": {
+      "count": 3,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#0000001a": {
+      "count": 2,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "#ffffffbf": {
+      "count": 2,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#1199ff": {
+      "count": 2,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#0099ff": {
+      "count": 2,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#00000029": {
+      "count": 2,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#efefef": {
+      "count": 2,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#222222": {
+      "count": 2,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "#b2b2b2": {
+      "count": 2,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 2,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#202223": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "#c9cccf": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "#9aa0a7": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "#0000004d": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "#3e5c9a": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "#5f5f5f": {
+      "count": 1,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 1,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#767676": {
+      "count": 1,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#ffffff40": {
+      "count": 1,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#0b0b0b": {
+      "count": 1,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#ffffff4d": {
+      "count": 1,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#676767": {
+      "count": 1,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#5c5c5c": {
+      "count": 1,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#d2d2d2": {
+      "count": 1,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#979797": {
+      "count": 1,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#111111": {
+      "count": 1,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#8e8e8e": {
+      "count": 1,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#919191": {
+      "count": 1,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#000000bf": {
+      "count": 1,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#666666": {
+      "count": 1,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#00000026": {
+      "count": 1,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#1d1d1d80": {
+      "count": 1,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#00000066": {
+      "count": 1,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 1,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#d8d8d8": {
+      "count": 1,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#7c7c7c": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "#55acee": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "#ce272d": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "#ffffff80": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+    ],
+    "Baskerville": [
+      "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+    ],
+    "Helvetica": [
+      "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+    ],
+    "Rubik": [
+      "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+    ],
+    "din-2014": [
+      "https://use.typekit.net/hrg6amx.css",
+      "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+    ],
+    "din-2014-narrow": [
+      "https://use.typekit.net/hrg6amx.css"
+    ],
+    "monospace": [
+      "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+    ],
+    "rubik": [
+      "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+    ],
+    "sans-serif": [
+      "https://use.typekit.net/hrg6amx.css",
+      "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+    ],
+    "xoswiper-icons": [
+      "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.methodracewheels.com/",
+      "selector": ":root",
+      "declarations": "--icon-checkmark: url(\"//www.methodracewheels.com/cdn/shop/t/68/assets/icon-checkmark.svg?v=91361610853390471771631231965\");\n    --icon-loader: url(\"//www.methodracewheels.com/cdn/shop/t/68/assets/icon-loader.svg?v=35402842951495673061632422692\");\n    --nav-height: 75px;\n    --promo-bar-height: 44px;\n    --vehicle-info-height: 79px;\n    --blog-detail-nav-height: 50px;\n    --vehicle-info-verified-offset: 0px;\n    --cursor-zoom: url(\"//www.methodracewheels.com/cdn/shop/t/68/assets/cursor-plus-orange.svg?v=113735940105060622141631231947\");\n    --play-icon: url(\"//www.methodracewheels.com/cdn/shop/t/68/assets/icon-play.svg?v=116812039339618003901631231965\");\n    --select-chevron: url(\"//www.meth"
+    },
+    {
+      "source": "https://www.methodracewheels.com/",
+      "selector": ":root",
+      "declarations": "--promo-bar-height: 0px;"
+    },
+    {
+      "source": "https://www.methodracewheels.com/",
+      "selector": ":root",
+      "declarations": "--nav-height: 79px;"
+    },
+    {
+      "source": "https://www.methodracewheels.com/",
+      "selector": ":root",
+      "declarations": "--promo-bar-height: 40px;\n      --vehicle-info-height: 62px;"
+    },
+    {
+      "source": "https://www.methodracewheels.com/",
+      "selector": ".vehicle-info__button",
+      "declarations": "background-color: #fd672e;color: #ffffff;"
+    },
+    {
+      "source": "https://www.methodracewheels.com/",
+      "selector": ".vehicle-info__button",
+      "declarations": "background-color: #fd672e;color: #ffffff;"
+    },
+    {
+      "source": "https://unpkg.com/swiper/swiper-bundle.css",
+      "selector": ":root",
+      "declarations": "--swiper-theme-color: #007aff;"
+    },
+    {
+      "source": "https://unpkg.com/swiper/swiper-bundle.css",
+      "selector": ":root",
+      "declarations": "--swiper-navigation-size: 44px;"
+    },
+    {
+      "source": "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+      "selector": "body",
+      "declarations": "color:#1d1d1d;font-family:rubik,sans-serif;font-size:16px;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;min-height:100%"
+    },
+    {
+      "source": "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+      "selector": "button",
+      "declarations": "color:inherit;font-family:inherit"
+    },
+    {
+      "source": "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+      "selector": ".button",
+      "declarations": "background:#fd672e;background:var(--background, #FD672E);border-radius:2px;border:none;color:#fff;color:var(--color, #ffffff);cursor:pointer;display:inline-block;font-family:rubik,sans-serif;font-size:14px;letter-spacing:.015em;line-height:17px;max-width:100%;min-width:120px;overflow:visible;padding:18px 43px;text-align:center;text-decoration:none;text-transform:uppercase;-webkit-transition:background-color .25s,border-color .25s,color .25s;transition:background-color .25s,border-color .25s,color .25s;white-space:nowrap;width:auto"
+    },
+    {
+      "source": "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+      "selector": ".button:hover",
+      "declarations": "background:#fff;border-color:#1d1d1d;color:#1d1d1d"
+    },
+    {
+      "source": "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+      "selector": ".button[disabled]",
+      "declarations": "background-color:#eee!important;color:#555;cursor:default;border:none!important"
+    },
+    {
+      "source": "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+      "selector": ".button-outline",
+      "declarations": "background:transparent;background:var(--background, transparent);border-radius:2px;border:2px solid;color:inherit;color:var(--color, inherit);cursor:pointer;display:inline-block;font-family:rubik,sans-serif;font-size:14px;letter-spacing:.015em;line-height:17px;max-width:100%;min-width:120px;overflow:visible;padding:18px 43px;text-align:center;text-decoration:none;text-transform:uppercase;-webkit-transition:background-color .25s,border-color .25s,color .25s;transition:background-color .25s,border-color .25s,color .25s;white-space:nowrap;width:auto"
+    },
+    {
+      "source": "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+      "selector": ".button-outline:hover",
+      "declarations": "background:#fff;border-color:#1d1d1d;color:#1d1d1d"
+    },
+    {
+      "source": "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+      "selector": ".button-outline[disabled]",
+      "declarations": "background-color:#eee!important;color:#555;cursor:default;border:none!important"
+    },
+    {
+      "source": "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+      "selector": ".button-small",
+      "declarations": "background:#fd672e;background:var(--background, #FD672E);border-radius:2px;border:none;color:#fff;color:var(--color, #ffffff);cursor:pointer;display:inline-block;font-family:rubik,sans-serif;font-size:10px;letter-spacing:.015em;line-height:12px;max-width:100%;min-width:120px;overflow:visible;padding:18px 43px;text-align:center;text-decoration:none;text-transform:uppercase;-webkit-transition:background-color .25s,border-color .25s,color .25s;transition:background-color .25s,border-color .25s,color .25s;white-space:nowrap;width:auto"
+    },
+    {
+      "source": "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+      "selector": ".button-small:hover",
+      "declarations": "background:#fff;border-color:#1d1d1d;color:#1d1d1d"
+    },
+    {
+      "source": "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+      "selector": ".button-small[disabled]",
+      "declarations": "background-color:#eee!important;color:#555;cursor:default;border:none!important"
+    },
+    {
+      "source": "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+      "selector": ".button-large",
+      "declarations": "background:#fd672e;background:var(--background, #FD672E);border-radius:2px;border:none;color:#fff;color:var(--color, #ffffff);cursor:pointer;display:inline-block;font-family:rubik,sans-serif;font-size:14px;letter-spacing:.015em;line-height:17px;max-width:100%;min-width:120px;overflow:visible;padding:18px 43px;text-align:center;text-decoration:none;text-transform:uppercase;-webkit-transition:background-color .25s,border-color .25s,color .25s;transition:background-color .25s,border-color .25s,color .25s;white-space:nowrap;width:auto"
+    },
+    {
+      "source": "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+      "selector": ".button-large:hover",
+      "declarations": "background:#fff;border-color:#1d1d1d;color:#1d1d1d"
+    },
+    {
+      "source": "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+      "selector": ".button-large[disabled]",
+      "declarations": "background-color:#eee!important;color:#555;cursor:default;border:none!important"
+    },
+    {
+      "source": "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+      "selector": ".modal-close-button",
+      "declarations": "position:fixed;top:13px;right:13px;width:45px;height:45px;z-index:50;border-radius:50%;background-color:#fff;border:none;margin:0;padding:0;line-height:1;cursor:pointer;background-image:var(--icon-close);background-repeat:no-repeat;background-position:center center;-webkit-box-shadow:0px 2px 12px rgba(0,0,0,.2);box-shadow:0 2px 12px #0003"
+    },
+    {
+      "source": "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+      "selector": ".fitment-warning button,.qualifier-warning button",
+      "declarations": "cursor:pointer;font-size:inherit;color:inherit;font-weight:inherit;font-family:inherit;padding:0;margin:0;background-color:transparent;line-height:0;text-decoration:underline;outline:none;border:none;margin-left:3px!important;color:#fd672e;font-weight:500"
+    },
+    {
+      "source": "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+      "selector": ".nav__vehicle-info-verified button",
+      "declarations": "padding:0;margin:0;background-color:transparent;border:none;text-decoration:underline"
+    },
+    {
+      "source": "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+      "selector": ".newsletter__button",
+      "declarations": "background-color:#fd672e;border-radius:2px;border-style:none;color:#fff;cursor:pointer;font-family:rubik,sans-serif;font-size:14px;font-weight:500;height:50px;letter-spacing:2.8px;padding:15px 30px;text-align:center;width:105px"
+    },
+    {
+      "source": "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+      "selector": ".flickity-button",
+      "declarations": "position:absolute;background:#ffffffbf;border:none;color:#333"
+    },
+    {
+      "source": "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+      "selector": ".flickity-prev-next-button.no-svg",
+      "declarations": "color:#333;font-size:26px"
+    },
+    {
+      "source": "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+      "selector": ".shopify-section--hero-carousel .swiper-button-next,.shopify-section--hero-carousel .swiper-button-prev",
+      "declarations": "--swiper-navigation-color: #ffffff;background-image:none!important"
+    },
+    {
+      "source": "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+      "selector": ".blog-landing__header",
+      "declarations": "background-color:#1d1d1d;padding:40px 20px 50px;text-align:center"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Method Race Wheels | Off-Road Wheels",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.methodracewheels.com/",
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.methodracewheels.com/",
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.methodracewheels.com/",
+        "https://unpkg.com/swiper/swiper-bundle.css",
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+        "https://www.methodracewheels.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.methodracewheels.com/",
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.methodracewheels.com/",
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.methodracewheels.com/",
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.methodracewheels.com/",
+        "https://unpkg.com/swiper/swiper-bundle.css",
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+        "https://www.methodracewheels.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "colors.disabled-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "colors.accent-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898"
+      ]
+    },
+    "colors.overlay-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.methodracewheels.com/cdn/shop/t/68/assets/bundle.styles.css?v=47943923119163097991788991898",
+        "https://cdn.shopify.com/extensions/01a0c3ae-3993-7a88-9211-d8ec13a14811/xo-gallery-149/assets/xo-gallery.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.vehicle-fitment-selector": {
+      "status": "inferred"
+    }
+  }
+}

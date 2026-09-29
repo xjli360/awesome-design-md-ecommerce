@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Stomping Grounds TCG
-description: A high-energy trading card marketplace that runs on a neon-laced palette anchored by #006fcf — a confident, almost electric blue that carries every primary CTA, cart badge, and search bar. The brand doesn't whisper; it shouts through a secondary voltage of #ffb74e (a warm amber) and #dbee10 (a lime-green jolt), creating a visual language that feels more like a gaming arcade than a card shop. Type runs Roboto at clean, readable weights — display sits at 22–28px in weight 500, letting the product photography and card art do the heavy lifting. The top nav uses a dark ink (#231f20) canvas with white text, a deliberate inversion of the standard white-header approach, signaling that this is a destination for collectors who know what they want. Product cards use {rounded.md} corners and generous {spacing.base} padding, while badges for condition, rarity, and sale status pop in #fb7000 and #f48120 — oranges that read as urgency and value. The checkout flow borrows Shopify's standard widget colors (#4285f4, #5f6368), but the brand's own identity is unmistakable in the lime-green "SOLD" badges and the amber "HOT" tags that pulse across the grid. There is no softness here — every corner is either sharp or gently rounded, every color choice optimized for contrast and speed. The search bar sits front and center, a full-width pill in #006fcf with white text, inviting immediate discovery. Footer links stack in #616161 on a #212121 canvas, a muted but legible hierarchy that keeps focus on the product. Stomping Grounds TCG is a store that knows its audience: competitive players and collectors who scan fast, buy faster, and want the dopamine hit of a lime-green discount badge before they click.
+name: "Stomping Grounds TCG"
+source_url: "https://www.stompinggroundstcg.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A high-energy trading card marketplace that runs on a neon-laced palette anchored by #006fcf — a confident, almost electric blue that carries every primary CTA, cart badge, and search bar. The brand doesn't whisper; it shouts through a secondary voltage of #ffb74e (a warm amber) and #dbee10 (a lime-green jolt), creating a visual language that feels more like a gaming arcade than a card shop. Type runs Roboto at clean, readable weights — display sits at 22–28px in weight 500, letting the product photography and card art do the heavy lifting. The top nav uses a dark ink (#231f20) canvas with white text, a deliberate inversion of the standard white-header approach, signaling that this is a destination for collectors who know what they want. Product cards use {rounded.md} corners and generous {spacing.base} padding, while badges for condition, rarity, and sale status pop in #fb7000 and #f48120 — oranges that read as urgency and value. The checkout flow borrows Shopify's standard widget colors (#4285f4, #5f6368), but the brand's own identity is unmistakable in the lime-green "SOLD" badges and the amber "HOT" tags that pulse across the grid. There is no softness here — every corner is either sharp or gently rounded, every color choice optimized for contrast and speed. The search bar sits front and center, a full-width pill in #006fcf with white text, inviting immediate discovery. Footer links stack in #616161 on a #212121 canvas, a muted but legible hierarchy that keeps focus on the product. Stomping Grounds TCG is a store that knows its audience: competitive players and collectors who scan fast, buy faster, and want the dopamine hit of a lime-green discount badge before they click.
 
 colors:
   primary: "#006fcf"
@@ -326,6 +330,8 @@ components:
 - Badge text truncates to "SOLD" → "S" on very narrow screens (< 400px) to prevent overflow
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted color list is dominated by blues, grays, and oranges — likely reflecting Shopify's default widget palette (#4285f4, #5f6368) and checkout-brand colors (Klarna, Afterpay) mixed with the brand's own. The true brand palette may include additional accent colors not captured in the top 30 hex values.
 - Font-family declarations only returned "Roboto" — the brand may use a secondary display font for headings or logos that wasn't captured in the extraction.

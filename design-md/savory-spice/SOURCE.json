@@ -1,0 +1,818 @@
+{
+  "source_url": "https://savoryspiceshop.com",
+  "final_url": "https://www.savoryspiceshop.com/",
+  "captured_at": "2026-09-28T10:21:10.247219+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://savoryspiceshop.com",
+      "final_url": "https://www.savoryspiceshop.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "446b8617187374e87c1f1b734a931a2eb8be7c90b0007786f90deb70b624deea",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css",
+      "final_url": "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f1e0e7654d2291731ca159ada274231e1773e6c0b7d1ca1e5f5e5b72c3c64a21",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.savoryspiceshop.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.savoryspiceshop.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 502,
+      "sources": [
+        "https://www.savoryspiceshop.com/",
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#7c7a75": {
+      "count": 165,
+      "sources": [
+        "https://www.savoryspiceshop.com/",
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#fefaf6": {
+      "count": 55,
+      "sources": [
+        "https://www.savoryspiceshop.com/",
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#515c3b": {
+      "count": 53,
+      "sources": [
+        "https://www.savoryspiceshop.com/",
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#00000000": {
+      "count": 37,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css",
+        "https://www.savoryspiceshop.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 35,
+      "sources": [
+        "https://www.savoryspiceshop.com/",
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css",
+        "https://www.savoryspiceshop.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#2c5234": {
+      "count": 34,
+      "sources": [
+        "https://www.savoryspiceshop.com/",
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#001b00": {
+      "count": 21,
+      "sources": [
+        "https://www.savoryspiceshop.com/",
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#1c3d30": {
+      "count": 19,
+      "sources": [
+        "https://www.savoryspiceshop.com/",
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#495e31": {
+      "count": 15,
+      "sources": [
+        "https://www.savoryspiceshop.com/",
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#d8df6d": {
+      "count": 12,
+      "sources": [
+        "https://www.savoryspiceshop.com/",
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#747674": {
+      "count": 9,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#3e403b33": {
+      "count": 9,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#eaf3e8": {
+      "count": 8,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#3c4137": {
+      "count": 6,
+      "sources": [
+        "https://www.savoryspiceshop.com/",
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#222222": {
+      "count": 6,
+      "sources": [
+        "https://www.savoryspiceshop.com/",
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#495e3180": {
+      "count": 6,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#faf6f2": {
+      "count": 5,
+      "sources": [
+        "https://www.savoryspiceshop.com/",
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#3e403b": {
+      "count": 5,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 5,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#fdbb64": {
+      "count": 5,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#ebecee": {
+      "count": 5,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#332d27": {
+      "count": 4,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#cccdcb": {
+      "count": 4,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#f5f1ed": {
+      "count": 4,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#104234": {
+      "count": 4,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#eeefeb": {
+      "count": 3,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#6a7282": {
+      "count": 3,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#6b7280": {
+      "count": 3,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#155dfc": {
+      "count": 2,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#cbd5e0": {
+      "count": 2,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#f7fafc": {
+      "count": 2,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#00000080": {
+      "count": 2,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#3e403b4d": {
+      "count": 2,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#332d2780": {
+      "count": 2,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#d8d5d1": {
+      "count": 2,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#e5e3e0": {
+      "count": 2,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#4d739a": {
+      "count": 2,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#e0e3d8": {
+      "count": 2,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#e1e6dc80": {
+      "count": 2,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#e1e6dc": {
+      "count": 2,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#e7e2df80": {
+      "count": 2,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#eaf3e880": {
+      "count": 2,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#edeae4": {
+      "count": 2,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#f5ef9d": {
+      "count": 2,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#f6f5f1": {
+      "count": 2,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#f8f7f4": {
+      "count": 2,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 2,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#577e1b": {
+      "count": 2,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#26221c": {
+      "count": 2,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#c9c7c5": {
+      "count": 2,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#d20004": {
+      "count": 2,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#e4544b": {
+      "count": 2,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#5a5a5a": {
+      "count": 2,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#fafafa": {
+      "count": 1,
+      "sources": [
+        "https://www.savoryspiceshop.com/"
+      ]
+    },
+    "#202124": {
+      "count": 1,
+      "sources": [
+        "https://www.savoryspiceshop.com/"
+      ]
+    },
+    "#eb5628": {
+      "count": 1,
+      "sources": [
+        "https://www.savoryspiceshop.com/"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 1,
+      "sources": [
+        "https://www.savoryspiceshop.com/"
+      ]
+    },
+    "#f5f07e": {
+      "count": 1,
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Franklin Gothic": [
+      "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+    ],
+    "Lato": [
+      "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+    ],
+    "Oraganatto": [
+      "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+    ],
+    "Oraganatto Semiext": [
+      "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+    ],
+    "Recoleta": [
+      "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+    ],
+    "sans-serif": [
+      "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+    ],
+    "serif": [
+      "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.savoryspiceshop.com/",
+      "selector": ":root",
+      "declarations": "--font-body-family: 'Franklin Gothic', sans-serif;\n        --font-body-weight: 400;\n        --font-body-weight-bold: 700;\n\n        --font-heading-family: 'Recoleta', serif;\n        --font-heading-weight: 700;\n\n        --color-primary: #FAFAFA;\n        --color-contrast: #202124;\n        --color-accent: #EB5628;"
+    },
+    {
+      "source": "https://www.savoryspiceshop.com/",
+      "selector": "#product-links-bar-template--18093049217211__product_links_bar_YtT6QC",
+      "declarations": "background-color: #515c3b;\n    color: #fefaf6;"
+    },
+    {
+      "source": "https://www.savoryspiceshop.com/",
+      "selector": "swiper-container::part(button-next),\n  swiper-container::part(button-prev)",
+      "declarations": "color: #fefaf6 !important;\n    fill: #fefaf6 !important;\n    stroke: #fefaf6 !important;\n    scale: 0.4 !important;"
+    },
+    {
+      "source": "https://www.savoryspiceshop.com/",
+      "selector": ".button-grid-trigger.active",
+      "declarations": "background-color: #d8df6d !important; \n    color: #001b00 !important; \n    border: 1px solid transparent !important;"
+    },
+    {
+      "source": "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css",
+      "selector": "button,input,select,optgroup,textarea",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0"
+    },
+    {
+      "source": "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css",
+      "selector": "::file-selector-button",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0"
+    },
+    {
+      "source": "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css",
+      "selector": ":root",
+      "declarations": "--font-size-fine:.75rem;--font-size-copy:1rem;--font-size-lead:1.125rem;--font-size-heading:2rem;--font-size-display:3rem;--height-nav:3rem;--screen-height:100vh"
+    },
+    {
+      "source": "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css",
+      "selector": ":root",
+      "declarations": "--height-nav:4rem"
+    },
+    {
+      "source": "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css",
+      "selector": ":root",
+      "declarations": "--height-nav:6rem;--font-size-heading:2.25rem;--font-size-display:3.75rem"
+    },
+    {
+      "source": "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css",
+      "selector": ":root",
+      "declarations": "--screen-height:100lvh"
+    },
+    {
+      "source": "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css",
+      "selector": "h1,h2,h3,h4,h5,h6,.font-heading,.heading",
+      "declarations": "font-family:Recoleta,serif"
+    },
+    {
+      "source": "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css",
+      "selector": "body,p,span,div,.font-body",
+      "declarations": "font-family:Franklin Gothic,sans-serif"
+    },
+    {
+      "source": "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css",
+      "selector": "button,.btn,.button,.cta,.font-button,nav,.nav,.header,.footer,.font-ui",
+      "declarations": "font-family:Franklin Gothic,sans-serif"
+    },
+    {
+      "source": "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css",
+      "selector": ".product-title,.card-title,.font-product",
+      "declarations": "font-family:Recoleta,serif"
+    },
+    {
+      "source": "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css",
+      "selector": ".product-description,.card-description,.font-product-desc",
+      "declarations": "letter-spacing:.3em;font-family:Oraganatto,serif"
+    },
+    {
+      "source": "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css",
+      "selector": ".button",
+      "declarations": "padding-inline:calc(var(--spacing)*6);padding-block:calc(var(--spacing)*3);text-align:center;--tw-font-weight:var(--font-weight-body-weight-bold);font-weight:var(--font-weight-body-weight-bold);border-radius:.25rem;display:inline-block"
+    },
+    {
+      "source": "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css",
+      "selector": ".btn",
+      "declarations": "cursor:pointer;border:1px solid #0000;border-radius:100px;justify-content:center;align-items:center;min-height:44px;padding:12px 24px;font-family:Franklin Gothic,sans-serif;font-size:16px;font-weight:400;text-decoration:none;transition:all .2s ease-in-out;display:inline-flex"
+    },
+    {
+      "source": "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css",
+      "selector": ".btn-primary",
+      "declarations": "color:#001b00;background-color:#d8df6d;border:1px solid #0000"
+    },
+    {
+      "source": "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css",
+      "selector": ".btn-primary:hover",
+      "declarations": "color:#001b00;background-color:#d8df6d;border:1px solid #001b00"
+    },
+    {
+      "source": "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css",
+      "selector": ".btn-primary:disabled",
+      "declarations": "color:#2c5234;background-color:#fff;border:1px solid #0000"
+    },
+    {
+      "source": "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css",
+      "selector": ".btn-primary:active",
+      "declarations": "color:#fff;background-color:#2c5234;border:1px solid #0000"
+    },
+    {
+      "source": "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css",
+      "selector": ".btn-secondary",
+      "declarations": "color:#001b00;border:1px solid #001b00;border-radius:72px"
+    },
+    {
+      "source": "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css",
+      "selector": ".btn-secondary:hover",
+      "declarations": "color:#001b00;background-color:#eaf3e8;border:1px solid #000"
+    },
+    {
+      "source": "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css",
+      "selector": ".btn-secondary:disabled",
+      "declarations": "color:#2c5234;opacity:.5;background-color:#fff;border:1px solid #2c5234"
+    },
+    {
+      "source": "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css",
+      "selector": ".btn-secondary:active",
+      "declarations": "color:#001b00;background-color:#d8df6d;border:1px solid #d8df6d"
+    },
+    {
+      "source": "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css",
+      "selector": ".btn-filter",
+      "declarations": "color:#1c3d30;background-color:#eaf3e8;border:1px solid #0000;border-radius:72px;min-height:36px;padding:8px 16px"
+    },
+    {
+      "source": "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css",
+      "selector": ".btn-filter:hover",
+      "declarations": "color:#fff;background-color:#2c5234;border:1px solid #0000"
+    },
+    {
+      "source": "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css",
+      "selector": ".btn-filter:disabled",
+      "declarations": "color:#2c5234;opacity:.5;background-color:#fff;border:1px solid #2c5234"
+    },
+    {
+      "source": "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css",
+      "selector": ".btn-filter:active",
+      "declarations": "color:#fff;background-color:#2c5234;border:1px solid #2c5234"
+    },
+    {
+      "source": "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css",
+      "selector": ".btn-tertiary",
+      "declarations": "color:#515c3b;background-color:#fff;border:1px solid #0000;gap:16px"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Online Spice Store: Shop 400+ Spices and Seasonings\n – Savory Spice",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.savoryspiceshop.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.savoryspiceshop.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.savoryspiceshop.com/"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.savoryspiceshop.com/",
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.savoryspiceshop.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.savoryspiceshop.com/",
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css",
+        "https://www.savoryspiceshop.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.savoryspiceshop.com/",
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css",
+        "https://www.savoryspiceshop.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.savoryspiceshop.com/",
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "colors.on-accent-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.savoryspiceshop.com/",
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "colors.lime": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.savoryspiceshop.com/",
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "colors.on-lime": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.savoryspiceshop.com/",
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "colors.sale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "colors.surface-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.savoryspiceshop.com/cdn/shop/t/354/assets/theme.sdZ0ztUW.min.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.eyebrow": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.size-selector": {
+      "status": "inferred"
+    }
+  }
+}

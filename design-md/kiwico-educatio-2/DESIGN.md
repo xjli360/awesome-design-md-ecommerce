@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: KiwiCo
-description: |
+name: "KiwiCo"
+source_url: "https://www.kiwico.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Fourteen extracted palette entries, ten of which are legitimate brand tokens — KiwiCo runs one of the widest hue spreads in DTC education, with orange-red (#d33600) functioning as the dominant CTA voltage while meta theme-color green (#07b261) claims browser-chrome territory before a single pixel of page loads. The subscription catalog is organized into named creature tiers — Panda Crate through Eureka and Doodle — each carrying its own accent, so the color system does wayfinding work that navigation labels alone could not. A second warm orange (#da532c) surfaces in promotional hero zones, warming the canvas without competing with the primary CTA button.
 
   Two typefaces divide the emotional load: Cherry (cursive display) runs at 36–48px on hero headlines and crate names, delivering the playfulness that an audience of 0–16-year-olds demands; Centra (a geometric sans) holds navigation, body copy, buttons, and labels, providing the structural clarity that builds parental confidence alongside the child appeal. Buttons are uniformly pill-shaped ({rounded.full}) — the shape appears on primary CTAs, ghost variants, and search inputs alike, leaving no hard corner anywhere a small hand might land.
@@ -312,6 +315,8 @@ components:
 - Gift-banner: horizontal padding steps from spacing.section (64px) to spacing.xl (32px) to spacing.lg (24px) across breakpoints
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Cherry typeface weight range and OpenType features not confirmed from extraction — only a single display weight observed at large sizes
 - Centra typeface full weight set not confirmed; Bold and Regular inferred from usage patterns; Light/Medium weights may exist

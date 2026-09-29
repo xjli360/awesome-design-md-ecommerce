@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Realforce
-description: A monochrome precision instrument for the keyboard obsessive, built around a single extracted hex — #313131, a deep charcoal that reads as machined aluminum rather than generic gray. Every surface on realforce.co.jp/en carries this same near-black weight: the product photography backgrounds, the spec-table borders, the footer band, the keycap legends on their flagship electrostatic capacitive boards. There is no brand color in the conventional sense — no accent hue, no gradient, no warm tone — only the cold, exacting neutrality of industrial design rendered in digital form. Typography runs the system stack at its most utilitarian: -apple-system and Helvetica Neue at 400 weight, never decorative, never expressive. Headlines sit at 22–28px with generous line height (1.6–1.8), letting the product images do the selling while the type recedes into documentation. Buttons are hard-cornered rectangles ({rounded.none}) with 1px hairline borders, not pills — this is a brand that sells to engineers and typists who value actuation force over visual charm. The nav bar is a thin 48px strip of {colors.ink} text on {colors.canvas}, no logo lockup, no dropdowns, just a sparse row of links that says: we assume you know what you're looking for. Product cards use {rounded.sm} (4px) — the only concession to softness — and stack spec data in a monochrome table that reads like a datasheet. The entire experience is an anti-Airbnb: where Airbnb uses {rounded.full} and {colors.primary} to say "come in, stay a while," Realforce uses {rounded.none} and {colors.ink} to say "this is a tool. Use it."
+name: "Realforce"
+source_url: "https://www.realforce.co.jp/en"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A monochrome precision instrument for the keyboard obsessive, built around a single extracted hex — #313131, a deep charcoal that reads as machined aluminum rather than generic gray. Every surface on realforce.co.jp/en carries this same near-black weight: the product photography backgrounds, the spec-table borders, the footer band, the keycap legends on their flagship electrostatic capacitive boards. There is no brand color in the conventional sense — no accent hue, no gradient, no warm tone — only the cold, exacting neutrality of industrial design rendered in digital form. Typography runs the system stack at its most utilitarian: -apple-system and Helvetica Neue at 400 weight, never decorative, never expressive. Headlines sit at 22–28px with generous line height (1.6–1.8), letting the product images do the selling while the type recedes into documentation. Buttons are hard-cornered rectangles ({rounded.none}) with 1px hairline borders, not pills — this is a brand that sells to engineers and typists who value actuation force over visual charm. The nav bar is a thin 48px strip of {colors.ink} text on {colors.canvas}, no logo lockup, no dropdowns, just a sparse row of links that says: we assume you know what you're looking for. Product cards use {rounded.sm} (4px) — the only concession to softness — and stack spec data in a monochrome table that reads like a datasheet. The entire experience is an anti-Airbnb: where Airbnb uses {rounded.full} and {colors.primary} to say "come in, stay a while," Realforce uses {rounded.none} and {colors.ink} to say "this is a tool. Use it."
 
 colors:
   primary: "#313131"
@@ -357,6 +361,8 @@ components:
 - Hero section collapses from side-by-side layout (desktop) to stacked layout (mobile) with the image above the text.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one hex color was extracted from the live site (#313131). All other colors in the palette are inferred from common web patterns (white canvas, gray borders, standard link blue) and may not match the actual brand implementation.
 - No font-family declarations beyond the system stack were found. The brand may use a custom typeface (e.g., Noto Sans JP for Japanese text) that was not captured in the extraction.

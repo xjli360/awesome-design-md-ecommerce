@@ -1,0 +1,441 @@
+{
+  "source_url": "https://simplemills.com",
+  "final_url": "https://simplemills.com/",
+  "captured_at": "2026-09-28T10:07:08.995783+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://simplemills.com",
+      "final_url": "https://simplemills.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "0fd52e7e1eac5504cc933f78a3ec0a8779d5cfa9192bf1d97a77365c26083486",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
+      "final_url": "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "9da67a190bbe5d094da62335c75d40e2941e6320fd4c22419510917a9f0008eb",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=SimpleMillsMaster&v=1-30-24",
+      "final_url": "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=SimpleMillsMaster&v=1-30-24",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "a3f6a2a6f6044568732c120a887413859d19429629f9ed6673a13903320520b5",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=global&v=1-30-24",
+      "final_url": "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=global&v=1-30-24",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "7b775be028577fa653ec36b63d6f7df10b9f0e52c574e05dd23bdf178a155416",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://simplemills.com/App_Themes/SimpleMillsMaster/Fonts/763040/AADEE983B3308D2E0.css",
+      "final_url": "https://simplemills.com/App_Themes/SimpleMillsMaster/Fonts/763040/AADEE983B3308D2E0.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9133bf87f3e9e6994e79bc82cec63c65ce8f03797f5f42b6a116835d59e092d8",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=MyFontsWebfontsKit.css",
+      "final_url": "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=MyFontsWebfontsKit.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "12ee83dc992e42599cb6dfe25c6147ca2ba63f84a990fad00f457a11022a690b",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#663333": {
+      "count": 7,
+      "sources": [
+        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
+        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=global&v=1-30-24"
+      ]
+    },
+    "#ffd14100": {
+      "count": 2,
+      "sources": [
+        "https://simplemills.com/"
+      ]
+    },
+    "#f2d058": {
+      "count": 2,
+      "sources": [
+        "https://simplemills.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 2,
+      "sources": [
+        "https://simplemills.com/",
+        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
+      ]
+    },
+    "#ffd141": {
+      "count": 2,
+      "sources": [
+        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
+      ]
+    },
+    "#000000": {
+      "count": 2,
+      "sources": [
+        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
+      ]
+    },
+    "#f6ce3c": {
+      "count": 2,
+      "sources": [
+        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
+      ]
+    },
+    "#333333": {
+      "count": 2,
+      "sources": [
+        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
+      ]
+    },
+    "#86412a": {
+      "count": 2,
+      "sources": [
+        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
+      ]
+    },
+    "#502c1e": {
+      "count": 1,
+      "sources": [
+        "https://simplemills.com/"
+      ]
+    },
+    "#f7ce3f": {
+      "count": 1,
+      "sources": [
+        "https://simplemills.com/"
+      ]
+    },
+    "#86412b": {
+      "count": 1,
+      "sources": [
+        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
+      ]
+    },
+    "#83412c": {
+      "count": 1,
+      "sources": [
+        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
+      ]
+    }
+  },
+  "font_families": {
+    "Archer A": [
+      "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
+      "https://simplemills.com/App_Themes/SimpleMillsMaster/Fonts/763040/AADEE983B3308D2E0.css"
+    ],
+    "Archer B": [
+      "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
+      "https://simplemills.com/App_Themes/SimpleMillsMaster/Fonts/763040/AADEE983B3308D2E0.css"
+    ],
+    "Braisetto-Bold": [
+      "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
+      "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=MyFontsWebfontsKit.css"
+    ],
+    "CooperMdBTWXX-Medium": [
+      "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
+      "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=global&v=1-30-24",
+      "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=MyFontsWebfontsKit.css"
+    ],
+    "Gotham A": [
+      "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
+      "https://simplemills.com/App_Themes/SimpleMillsMaster/Fonts/763040/AADEE983B3308D2E0.css"
+    ],
+    "Gotham B": [
+      "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
+      "https://simplemills.com/App_Themes/SimpleMillsMaster/Fonts/763040/AADEE983B3308D2E0.css"
+    ],
+    "TTNormsPro-Medium": [
+      "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=MyFontsWebfontsKit.css"
+    ],
+    "TTNormsPro-Regular": [
+      "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
+      "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=global&v=1-30-24",
+      "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=MyFontsWebfontsKit.css"
+    ],
+    "gotham a": [
+      "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
+    ],
+    "gotham b": [
+      "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
+      "selector": ".Slider_section h1",
+      "declarations": "position:relative;display:inline-block;font-size:75pt;color:#f6ce3c;font-family:Braisetto-Bold;text-transform:capitalize;margin-top:0;vertical-align:top;line-height:77px"
+    },
+    {
+      "source": "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
+      "selector": ".Slider_section h1 span.tredmark",
+      "declarations": "position:absolute;font-family:\"Gotham A\",\"Gotham B\";text-transform:uppercase;font-size:15px;top:4px;right:-41px;display:inline-block;width:23px;left:auto;height:23px;line-height:23px"
+    },
+    {
+      "source": "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
+      "selector": ".Slider_section h1 span",
+      "declarations": "font-size:86pt;font-family:Braisetto-Bold;text-transform:capitalize;color:#633;display:inline-block;position:relative;left:28px"
+    },
+    {
+      "source": "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
+      "selector": ".btn.callactoin",
+      "declarations": "background-color:#633;color:white;min-width:205px;border-radius:1px;font-size:13pt;font-family:\"Gotham A\",\"Gotham B\";font-weight:500;text-transform:uppercase;margin-top:25px;width:100%;max-width:240px;height:50px;line-height:34px"
+    },
+    {
+      "source": "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
+      "selector": ".btn.callactoin:hover,.leave_comment button.btn.btn-default:hover",
+      "declarations": "background-color:#83412c"
+    },
+    {
+      "source": "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
+      "selector": "#Home .btn.callactoin",
+      "declarations": "max-width:12vw;min-width:12vw;font-size:1.2vw;height:calc(15px + 2.5vw);margin-top:1px;font-family:gotham a,gotham b;display:inline-flex;align-items:center;justify-content:center"
+    },
+    {
+      "source": "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=global&v=1-30-24",
+      "selector": ".impact-tree-list-header,.impact-tree-list-item::marker",
+      "declarations": "font-family:\"CooperMdBTWXX-Medium\";font-size:28px;margin-bottom:12px;color:#633;margin-top:0;line-height:1.25"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Simple Mills - Home",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage",
+        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=global&v=1-30-24"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://simplemills.com/",
+        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://simplemills.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://simplemills.com/",
+        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://simplemills.com/",
+        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
+      ]
+    },
+    "colors.accent-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://simplemills.com/"
+      ]
+    },
+    "colors.accent-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
+      ]
+    },
+    "colors.highlight": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
+      ]
+    },
+    "colors.ink-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://simplemills.com/CMSPages/GetResource.ashx?stylesheetname=Homepage"
+      ]
+    },
+    "colors.overlay-transparent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://simplemills.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.recipe-card": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    }
+  }
+}

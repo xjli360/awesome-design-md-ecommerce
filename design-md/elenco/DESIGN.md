@@ -1,13 +1,17 @@
 ---
 version: alpha
-name: Elenco
-description: Snap Circuits' numbered grid panels and primary-colored components snap together with a satisfying click — that modular clarity is the organizing principle behind Elenco's digital presence. Where competitor STEM brands chase dark, garage-maker aesthetics, Elenco holds to a bright, classroom-optimized palette: bold red (`#c8202d`) against white canvas, with navy (`#1e3a6e`) anchoring navigation and institutional messaging, and safety-orange (`#f47920`) carrying age-range badges and promotional callouts. The effect is trusted educational catalog rather than startup — visual language shaped by decades of shipping kits to parents, teachers, and gift-buyers who need immediate legibility over atmosphere.
+name: "Elenco"
+source_url: "https://www.elenco.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Snap Circuits' numbered grid panels and primary-colored components snap together with a satisfying click — that modular clarity is the organizing principle behind Elenco's digital presence. Where competitor STEM brands chase dark, garage-maker aesthetics, Elenco holds to a bright, classroom-optimized palette: bold red (`#c8202d`) against white canvas, with navy (`#1e3a6e`) anchoring navigation and institutional messaging, and safety-orange (`#f47920`) carrying age-range badges and promotional callouts. The effect is trusted educational catalog rather than startup — visual language shaped by decades of shipping kits to parents, teachers, and gift-buyers who need immediate legibility over atmosphere.
 
-Typography runs clean and weight-forward: display headings at 700 weight help non-technical buyers scan product grids quickly, body copy holds at 16px with a relaxed 1.6 line-height to accommodate instruction-heavy product descriptions and multi-item kit contents lists. Button labels are uppercase bold with modest letter-spacing — they read as confident and directive without being aggressive. Radius choices sit in the middle register: `{rounded.sm}` on buttons and cards avoids both the hard corners of industrial supply catalogs and the full-pill softness of consumer apps, landing on a register that signals reliability.
+  Typography runs clean and weight-forward: display headings at 700 weight help non-technical buyers scan product grids quickly, body copy holds at 16px with a relaxed 1.6 line-height to accommodate instruction-heavy product descriptions and multi-item kit contents lists. Button labels are uppercase bold with modest letter-spacing — they read as confident and directive without being aggressive. Radius choices sit in the middle register: `{rounded.sm}` on buttons and cards avoids both the hard corners of industrial supply catalogs and the full-pill softness of consumer apps, landing on a register that signals reliability.
 
-Product cards are the workhorse of the layout: a white `{colors.surface-card}` surface with a 1px `{colors.hairline}` border, image-first hierarchy at a 4:3 aspect ratio, age badge in `{colors.accent}` orange as the highest-priority scan target, a skill-level chip in `{colors.surface-soft}` gray as secondary metadata, and a right-aligned price in bold before the primary CTA. Snap Circuits kits appear in flat-lay overhead photography — components spread across the numbered base panel — which communicates the assembly experience instantly even at card thumbnail scale.
+  Product cards are the workhorse of the layout: a white `{colors.surface-card}` surface with a 1px `{colors.hairline}` border, image-first hierarchy at a 4:3 aspect ratio, age badge in `{colors.accent}` orange as the highest-priority scan target, a skill-level chip in `{colors.surface-soft}` gray as secondary metadata, and a right-aligned price in bold before the primary CTA. Snap Circuits kits appear in flat-lay overhead photography — components spread across the numbered base panel — which communicates the assembly experience instantly even at card thumbnail scale.
 
-A persistent educator layer threads through the layout: a navy utility strip above the main nav signals institutional credibility (educator pricing, support line, dealer locator), and a full-width red `{colors.primary}` educator strip between the hero and product grid pitches directly to teachers and curriculum directors. This dual-audience structure — family gift-buyer and school buyer — is visible in the nav taxonomy, which carries product categories alongside an "Educator Resources" link at the same hierarchy level.
+  A persistent educator layer threads through the layout: a navy utility strip above the main nav signals institutional credibility (educator pricing, support line, dealer locator), and a full-width red `{colors.primary}` educator strip between the hero and product grid pitches directly to teachers and curriculum directors. This dual-audience structure — family gift-buyer and school buyer — is visible in the nav taxonomy, which carries product categories alongside an "Educator Resources" link at the same hierarchy level.
 
 colors:
   primary: "#c8202d"
@@ -346,6 +350,8 @@ components:
 - Educator strip: 2-column horizontal → single-column stacked on mobile with full-width outlined CTA
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **No hex colors extracted**: the site returned a redirect/anti-bot response at crawl time — zero color values were captured. All colors above are inferred from Elenco's publicly visible product photography, logo assets, and catalog imagery; the actual primary red may differ from `#c8202d` and should be verified against live CSS or brand guidelines.
 - **No font stacks extracted**: Open Sans is a plausible inference for an educational brand of this era and audience, but the production webfont may differ. Inspect `<link rel="preload">` or `@font-face` declarations in the live page source to confirm.

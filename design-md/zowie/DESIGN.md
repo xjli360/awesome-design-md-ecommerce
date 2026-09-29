@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Zowie
-description: |
+name: "Zowie"
+source_url: "https://zowie.benq.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Dark as the inside of a tournament booth at 2 a.m. — Zowie's digital surface opens on #0e071e, a near-black canvas carrying just enough violet undertone to separate it from generic charcoal gaming sites. The brand's voltage lives in a single crimson stroke (#cc0040) that marks every primary CTA, product-line selector, and spec highlight; it reads closer to arterial red than candy pink, a deliberate distance from the neon-magenta saturation most peripheral brands chase. Secondary energy arrives through #492582, a dense purple reserved for the Divina and limited-edition product lines — it never competes with crimson for CTA duty but anchors hero gradients and editorial callouts. Typography is industrial and upright: Montserrat at 700 for display headings, Poppins at 400–500 for body — both geometric sans-serifs that render crisply on high-refresh panels, which is on-brand for a company selling 240 Hz monitors to professionals. Corners stay hard: `{rounded.none}` on product cards, `{rounded.xs}` on buttons, `{rounded.sm}` only for tags and tooltips. The overall spacing grammar is tight — `{spacing.md}` gutters between spec rows, `{spacing.lg}` between sections — reflecting the density of a spec-sheet culture where competitive players want information, not atmosphere. Navigation is a single-level sticky bar at 64px height, matte black with #9b9b9b inactive links that flip to #ffffff on hover, never crimson — the red is rationed for purchase-intent surfaces only. Product cards are borderless dark rectangles floating on the canvas; imagery is always full-bleed with a subtle linear gradient from transparent to #0e071e at the bottom edge, letting white spec text sit directly on the photo. The overall impression is a controlled-environment aesthetic: low-light, high-contrast, zero decoration.
 
 colors:
@@ -411,6 +414,8 @@ components:
 - Hero CTA remains centered and full-width on mobile (padding: 0 24px)
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No CSS custom properties or design tokens were exposed in static HTML; color and typography values inferred from computed styles in the extracted hex/font lists
 - Exact border-radius values on interactive components could not be confirmed — the site appears to use near-zero radii universally, but specific px values are estimated

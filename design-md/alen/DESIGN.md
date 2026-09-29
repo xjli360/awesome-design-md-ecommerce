@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Alen
-description: |
+name: "Alen"
+source_url: "https://www.alen.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   ITC Avant Garde Gothic — the geometric typeface born for a 1970s counterculture magazine that never published — sets Alen's entire visual register before the first hero image loads: its perfectly circular letterforms and rhythmic negative space communicate engineered precision without a word. Against that structural typography, the brand's operative color is a medical teal centered on #00b2a9, a hue that reads simultaneously clinical and biological. It carries every primary CTA, every active filter pill, every progress ring in the air-quality module, and the airflow illustrations that distinguish Alen from generic white-box appliance brands. A deep navy-slate (#364151) grounds headings and structural text; near-black (#141414) and a dark charcoal shell (#121212) back hero sections so the teal glows with genuine contrast rather than relying on a white field. The page ground itself leans teal — surface-mint (#f4f9f9) appears behind product listings and spec cards, tinting the entire catalog with the faintest reminder of what the machine does to air. A coral-orange (#f3712a) and amber (#f59e0b) accent pair reserves itself for promotional urgency: countdown banners, clearance badges, and limited-stock callouts pop against the cool palette without disrupting it. Geometry is rounded but never bubbly — inputs and product cards sit at {rounded.sm} (8px), standard buttons at {rounded.md} (12px), filter pills at {rounded.full} — conveying approachability inside a precise, geometric frame. Montserrat handles interface copy at weight 600 for labels and 400 for prose, partnering with ITC Avant Garde Gothic on display headlines. Section rhythm is deliberate: {spacing.section} (64px) between content bands, {spacing.lg} (24px) inside cards, {spacing.xxl} (48px) above fold-break CTAs — spacing that positions Alen as a considered home system rather than a budget appliance. HEPA certification marks, room-coverage sq-ft callouts, and filter-life indicators appear inline with product titles as data-dense chips, treating performance statistics as primary brand expression rather than spec-sheet fine print.
 
 colors:
@@ -374,6 +377,8 @@ components:
 - Footer columns collapse from 4-up to 2-up at tablet and single-column at mobile, with accordion toggles revealing link groups on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - ITC Avant Garde Gothic is almost certainly served as a licensed web font via a third-party CDN not visible in top-level extraction; the fallback stack (Montserrat) is confirmed present via font-family extraction
 - Exact nav height on scroll and sticky/fixed behavior not confirmed; 64px scrolled value is inferred from common Shopify patterns

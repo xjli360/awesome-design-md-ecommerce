@@ -1,11 +1,15 @@
 ---
 version: alpha
-name: Master Spas
-description: The meta theme-color #000c29 — a midnight navy so dark it reads as water viewed from depth — announces the brand before a single image loads. Master Spas builds its entire visual system outward from that near-black ocean floor: a graduated ascent through #1d2e38, #2d4156, and #355973 creates a sense of immersion rather than contrast, as though the UI itself is submerged. Against this column of dark blues, the lighter accent tones #a6c4dd and #c2dff7 read as shafts of refracted light rather than mere highlights — a compositional choice that makes the products feel aquatic at a chromatic level, not just a categorical one.
+name: "Master Spas"
+source_url: "https://www.masterspas.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The meta theme-color #000c29 — a midnight navy so dark it reads as water viewed from depth — announces the brand before a single image loads. Master Spas builds its entire visual system outward from that near-black ocean floor: a graduated ascent through #1d2e38, #2d4156, and #355973 creates a sense of immersion rather than contrast, as though the UI itself is submerged. Against this column of dark blues, the lighter accent tones #a6c4dd and #c2dff7 read as shafts of refracted light rather than mere highlights — a compositional choice that makes the products feel aquatic at a chromatic level, not just a categorical one.
 
-Two fonts define the typographic character. Termina — a tight, geometric sans with near-equal stroke weights — carries all display and headline work; it reads as precision engineering rather than aspiration, a sensibility that suits a brand selling $10–$100K spa installations. Titillium Web descends for body copy, form labels, and nav links: slightly wider set, open apertures, and a faint technical quality inherited from its original design for broadcast subtitles. Neither font is warm; together they produce the register of premium outdoor equipment rather than lifestyle retail.
+  Two fonts define the typographic character. Termina — a tight, geometric sans with near-equal stroke weights — carries all display and headline work; it reads as precision engineering rather than aspiration, a sensibility that suits a brand selling $10–$100K spa installations. Titillium Web descends for body copy, form labels, and nav links: slightly wider set, open apertures, and a faint technical quality inherited from its original design for broadcast subtitles. Neither font is warm; together they produce the register of premium outdoor equipment rather than lifestyle retail.
 
-Cards and containers favor measured corners — `{rounded.sm}` at 8px for inputs and tight UI elements, `{rounded.md}` at 12px for product cards, `{rounded.lg}` at 20px for hero callout panels — avoiding both the hard corners of industrial brands and the full-pill softness of consumer wellness. The primary CTA color is #2d4156, the steel-slate blue that occupies the most distinct position in the palette relative to competitors' reds and oranges, paired with white text on dark backgrounds and dark ink on the light-gray canvas tones (#f1f3f5, #e9edf2). Section backgrounds alternate between the near-white surface grays and deep navy panels at #000c29, creating a rhythm of light-dark-light that mirrors the brand's outdoor/evening use context. Dealer-locator CTAs, configurator steps, and spec comparison modules carry most of the interactive weight; these are high-consideration purchase flows, not impulse commerce, so the design allocates generous spacing and structured information hierarchy over promotional urgency.
+  Cards and containers favor measured corners — `{rounded.sm}` at 8px for inputs and tight UI elements, `{rounded.md}` at 12px for product cards, `{rounded.lg}` at 20px for hero callout panels — avoiding both the hard corners of industrial brands and the full-pill softness of consumer wellness. The primary CTA color is #2d4156, the steel-slate blue that occupies the most distinct position in the palette relative to competitors' reds and oranges, paired with white text on dark backgrounds and dark ink on the light-gray canvas tones (#f1f3f5, #e9edf2). Section backgrounds alternate between the near-white surface grays and deep navy panels at #000c29, creating a rhythm of light-dark-light that mirrors the brand's outdoor/evening use context. Dealer-locator CTAs, configurator steps, and spec comparison modules carry most of the interactive weight; these are high-consideration purchase flows, not impulse commerce, so the design allocates generous spacing and structured information hierarchy over promotional urgency.
 
 colors:
   primary: "#2d4156"
@@ -392,6 +396,8 @@ components:
 - Footer columns collapse from 5-column to a 2-column grid on tablet, then single-column accordion on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No confirmed exact hex for the primary CTA button color from live DOM inspection — `#2d4156` is the most distinctive non-neutral in the extracted palette and is used as primary; verify against actual button elements
 - Termina font weight range unknown — only 600/700 assumed available; light/thin variants may exist for editorial layouts

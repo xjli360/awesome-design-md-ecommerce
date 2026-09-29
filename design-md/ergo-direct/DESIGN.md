@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Ergo Direct
-description: The deep-sea blue at #014d73 — closer to the ink on a clinical reference chart than to the sky-blue of consumer electronics — announces that this is a brand selling prevention, not decoration. ErgoDirect pairs that navy foundation against a vitality green (#009122) that confirms add-to-cart actions and in-stock status, borrowing a color vocabulary from medical-device dashboards rather than home-goods catalogues. The near-black #1a1a2e anchors headlines, while body copy descends through #1f2937 and settles into #6b7280 for metadata — a stepped gray ramp designed to make dense specification tables scannable by facilities managers comparing torque ratings and monitor weight capacities across dozens of SKUs.
+name: "Ergo Direct"
+source_url: "https://www.ergodirect.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The deep-sea blue at #014d73 — closer to the ink on a clinical reference chart than to the sky-blue of consumer electronics — announces that this is a brand selling prevention, not decoration. ErgoDirect pairs that navy foundation against a vitality green (#009122) that confirms add-to-cart actions and in-stock status, borrowing a color vocabulary from medical-device dashboards rather than home-goods catalogues. The near-black #1a1a2e anchors headlines, while body copy descends through #1f2937 and settles into #6b7280 for metadata — a stepped gray ramp designed to make dense specification tables scannable by facilities managers comparing torque ratings and monitor weight capacities across dozens of SKUs.
 
   Type runs in Lato — a geometric humanist with clinical precision at small sizes — set at moderate weights; heavy display type would signal bravado, and this brand signals reliability. The rounded system is deliberately conservative: `{rounded.xs}` at 4px for input fields and filter chips, `{rounded.sm}` at 8px for primary buttons, with nothing softer than `{rounded.md}` in the product grid. Hard corners on utility interfaces reinforce a procurement mindset rather than a lifestyle one. Canvas sits at #f8fafc, barely off-white, with card surfaces on pure white against hairline borders at #e0e3e8, organizing grids of arms, stands, and mounts without decorative flourish.
 
@@ -420,6 +424,8 @@ components:
 - Footer multi-column grid → single-column accordion on mobile, each column heading toggling its link list
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No meta theme-color present; mobile browser chrome tint is not determinable from extraction
 - No design tokens file or CSS custom properties extracted; spacing, radius, and shadow values are inferred from the ergonomics/B2B category norm and the extracted color palette rather than confirmed CSS variables

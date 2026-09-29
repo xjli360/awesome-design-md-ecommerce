@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Tokyo Otaku Mode
-description: A high-energy marketplace for anime figures and merchandise, Tokyo Otaku Mode (TOM) uses a crisp white canvas punctuated by a signature cerulean blue (#0094c8) that acts as the brand's primary voltage—appearing across primary CTAs, navigation highlights, and key product badges. The palette is surprisingly restrained for an anime shop: a warm off-white canvas (#fafafa) and a deep near-black ink (#202020) create a clean stage for colorful product photography, while a secondary accent of gold (#d1aa00) and a bright lime (#c3d825) inject the playful energy fans expect. The typography system leans heavily on Lato for English text, paired with system CJK fonts like Hiragino Kaku Gothic Pro and Meiryo for Japanese product names—a bilingual design move that signals authenticity without sacrificing readability. Product cards use soft rounded corners (`{rounded.md}`) and generous whitespace (`{spacing.lg}`) to let the intricate figure photography breathe, while a persistent top nav with a search bar and cart icon keeps the shopping flow frictionless. The overall mood is clean and trustworthy rather than chaotic—a deliberate counterpoint to the dense, maximalist aesthetic of many otaku retailers.
+name: "Tokyo Otaku Mode"
+source_url: "https://otakumode.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A high-energy marketplace for anime figures and merchandise, Tokyo Otaku Mode (TOM) uses a crisp white canvas punctuated by a signature cerulean blue (#0094c8) that acts as the brand's primary voltage—appearing across primary CTAs, navigation highlights, and key product badges. The palette is surprisingly restrained for an anime shop: a warm off-white canvas (#fafafa) and a deep near-black ink (#202020) create a clean stage for colorful product photography, while a secondary accent of gold (#d1aa00) and a bright lime (#c3d825) inject the playful energy fans expect. The typography system leans heavily on Lato for English text, paired with system CJK fonts like Hiragino Kaku Gothic Pro and Meiryo for Japanese product names—a bilingual design move that signals authenticity without sacrificing readability. Product cards use soft rounded corners (`{rounded.md}`) and generous whitespace (`{spacing.lg}`) to let the intricate figure photography breathe, while a persistent top nav with a search bar and cart icon keeps the shopping flow frictionless. The overall mood is clean and trustworthy rather than chaotic—a deliberate counterpoint to the dense, maximalist aesthetic of many otaku retailers.
 
 colors:
   primary: "#0094c8"
@@ -328,6 +332,8 @@ components:
 - Product filters (sort, category, price range) collapse into a single "Filter" button that opens a bottom sheet
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for secondary and tertiary buttons could not be reliably extracted from the live site; the active states provided are inferred from the primary button pattern
 - Error states for form inputs (validation, error messages) were not observed in the extracted data

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Primary
-description: A children's clothing brand that uses near-neutral gray (#dedede) and near-black (#121212) as its primary palette — a deliberately muted choice for a category that usually screams with primary-bright rainbows. The brand trusts its product photography and clean white canvas (#ffffff) to provide all the color, keeping the UI itself as a quiet, functional frame. Every button, card, and input uses the same soft gray (#dedede) as its resting state, creating a uniform, almost architectural feel across the interface. The near-black (#121212) appears only on text, icons, and the brand's wordmark — never as a background or decorative element. This restraint suggests a brand that wants parents to focus on the clothes, not the shopping experience. The Shopify platform gives it standard e-commerce patterns (cart drawer, product grid, size selector), but the color discipline makes Primary feel more like a design studio than a baby store. There are no hard corners anywhere — inputs and buttons use {rounded.sm}, cards use {rounded.md}, and the search field uses {rounded.full} — but the radii are subtle enough to avoid feeling playful. The brand's voice is direct and informational: size charts, fabric details, and care instructions take priority over marketing copy. The result is a shopping experience that feels calm, trustworthy, and surprisingly adult for a kids' clothing brand.
+name: "Primary"
+source_url: "https://primary.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A children's clothing brand that uses near-neutral gray (#dedede) and near-black (#121212) as its primary palette — a deliberately muted choice for a category that usually screams with primary-bright rainbows. The brand trusts its product photography and clean white canvas (#ffffff) to provide all the color, keeping the UI itself as a quiet, functional frame. Every button, card, and input uses the same soft gray (#dedede) as its resting state, creating a uniform, almost architectural feel across the interface. The near-black (#121212) appears only on text, icons, and the brand's wordmark — never as a background or decorative element. This restraint suggests a brand that wants parents to focus on the clothes, not the shopping experience. The Shopify platform gives it standard e-commerce patterns (cart drawer, product grid, size selector), but the color discipline makes Primary feel more like a design studio than a baby store. There are no hard corners anywhere — inputs and buttons use {rounded.sm}, cards use {rounded.md}, and the search field uses {rounded.full} — but the radii are subtle enough to avoid feeling playful. The brand's voice is direct and informational: size charts, fabric details, and care instructions take priority over marketing copy. The result is a shopping experience that feels calm, trustworthy, and surprisingly adult for a kids' clothing brand.
 
 colors:
   primary: "#dedede"
@@ -371,6 +375,8 @@ components:
 - Search bar collapses to icon-only on mobile, expands on tap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No font-family declarations were extracted from the live site; the Inter font family used in this document is an educated guess based on the brand's clean, geometric aesthetic. Actual font may differ.
 - Only two hex colors were extracted (#dedede, #121212) plus the meta theme-color (#ffffff). The remaining colors (muted, surface-soft, error, success, sale) are inferred from common e-commerce patterns and may not match the live site exactly.

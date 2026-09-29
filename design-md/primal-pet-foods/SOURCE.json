@@ -1,0 +1,821 @@
+{
+  "source_url": "https://primalpetfoods.com",
+  "final_url": "https://www.primalpetfoods.com/",
+  "captured_at": "2026-09-29T03:57:39.273374+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://primalpetfoods.com",
+      "final_url": "https://www.primalpetfoods.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "7720e267353d0a939498a1516d4709c5518fe89fbc6492b7766cf92cd7d38baf",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://use.typekit.net/bpn0hdi.css",
+      "final_url": "https://use.typekit.net/bpn0hdi.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "3db9b5b5d196a3754714a81b6d244ead036b5be3b7003c65f3e842e700a501a0",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.primalpetfoods.com/cdn/shop/t/259/assets/MyWebfontsKit.css?v=27655662809580901791780497728",
+      "final_url": "https://www.primalpetfoods.com/cdn/shop/t/259/assets/MyWebfontsKit.css?v=27655662809580901791780497728",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "077dfb5d2d65da79197d52a948b5bc9ec7c4765102649ebf13bd81fe035e522b",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.primalpetfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.primalpetfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659",
+      "final_url": "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d8cba5814ef4b141cfe496f7da6ce5fdb2a6dedb353269a7f64898dc0993a7c5",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.primalpetfoods.com/cdn/shop/t/259/assets/component-cart-items.css?v=75060540136793206451780497663",
+      "final_url": "https://www.primalpetfoods.com/cdn/shop/t/259/assets/component-cart-items.css?v=75060540136793206451780497663",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9980854611c4c94b1e89f2d398eb9c73aabed4034f7b2f8cd86ffdf4994da770",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 27,
+      "sources": [
+        "https://www.primalpetfoods.com/",
+        "https://www.primalpetfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "#653818": {
+      "count": 18,
+      "sources": [
+        "https://www.primalpetfoods.com/",
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "#d22730": {
+      "count": 18,
+      "sources": [
+        "https://www.primalpetfoods.com/",
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659",
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/component-cart-items.css?v=75060540136793206451780497663"
+      ]
+    },
+    "#5c332a": {
+      "count": 17,
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "#d72830": {
+      "count": 12,
+      "sources": [
+        "https://www.primalpetfoods.com/"
+      ]
+    },
+    "#653819": {
+      "count": 10,
+      "sources": [
+        "https://www.primalpetfoods.com/",
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "#70c497": {
+      "count": 7,
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "#f1f1de": {
+      "count": 6,
+      "sources": [
+        "https://www.primalpetfoods.com/"
+      ]
+    },
+    "#000000": {
+      "count": 6,
+      "sources": [
+        "https://www.primalpetfoods.com/",
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "#f9f9f3": {
+      "count": 5,
+      "sources": [
+        "https://www.primalpetfoods.com/",
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "#f9f9f2": {
+      "count": 5,
+      "sources": [
+        "https://www.primalpetfoods.com/"
+      ]
+    },
+    "#fff4dc": {
+      "count": 4,
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "#f9f9f4": {
+      "count": 4,
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "#272d45": {
+      "count": 3,
+      "sources": [
+        "https://www.primalpetfoods.com/"
+      ]
+    },
+    "#65381900": {
+      "count": 3,
+      "sources": [
+        "https://www.primalpetfoods.com/"
+      ]
+    },
+    "#ffffff00": {
+      "count": 3,
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "#70c49766": {
+      "count": 3,
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "#ce452c": {
+      "count": 3,
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "#3f3c39": {
+      "count": 3,
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "#d82731": {
+      "count": 3,
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "#f4f4ea": {
+      "count": 2,
+      "sources": [
+        "https://www.primalpetfoods.com/"
+      ]
+    },
+    "#3f2411": {
+      "count": 2,
+      "sources": [
+        "https://www.primalpetfoods.com/"
+      ]
+    },
+    "#676986": {
+      "count": 2,
+      "sources": [
+        "https://www.primalpetfoods.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "#89a84f": {
+      "count": 2,
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "#fede00": {
+      "count": 2,
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "#f4f4f6": {
+      "count": 1,
+      "sources": [
+        "https://www.primalpetfoods.com/"
+      ]
+    },
+    "#e5e5eb": {
+      "count": 1,
+      "sources": [
+        "https://www.primalpetfoods.com/"
+      ]
+    },
+    "#9a9db1": {
+      "count": 1,
+      "sources": [
+        "https://www.primalpetfoods.com/"
+      ]
+    },
+    "#d3d4dd": {
+      "count": 1,
+      "sources": [
+        "https://www.primalpetfoods.com/"
+      ]
+    },
+    "#00caaa": {
+      "count": 1,
+      "sources": [
+        "https://www.primalpetfoods.com/"
+      ]
+    },
+    "#b2f9e9": {
+      "count": 1,
+      "sources": [
+        "https://www.primalpetfoods.com/"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 1,
+      "sources": [
+        "https://www.primalpetfoods.com/"
+      ]
+    },
+    "#ededda": {
+      "count": 1,
+      "sources": [
+        "https://www.primalpetfoods.com/"
+      ]
+    },
+    "#fef7e1": {
+      "count": 1,
+      "sources": [
+        "https://www.primalpetfoods.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#e72216": {
+      "count": 1,
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "#00000080": {
+      "count": 1,
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "#6bbbae": {
+      "count": 1,
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "#70c49799": {
+      "count": 1,
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "#000000b3": {
+      "count": 1,
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "#c9e6d2": {
+      "count": 1,
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "#00000029": {
+      "count": 1,
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "#70c4971a": {
+      "count": 1,
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "#70c497b3": {
+      "count": 1,
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "#a1dddb": {
+      "count": 1,
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "#dad7d2": {
+      "count": 1,
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "#483528": {
+      "count": 1,
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "#cadb11": {
+      "count": 1,
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "#d62931": {
+      "count": 1,
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    }
+  },
+  "font_families": {
+    "ArtheloRegular": [
+      "https://www.primalpetfoods.com/",
+      "https://www.primalpetfoods.com/cdn/shop/t/259/assets/MyWebfontsKit.css?v=27655662809580901791780497728"
+    ],
+    "ArtheloRegular\" !important": [
+      "https://www.primalpetfoods.com/"
+    ],
+    "Assistant": [
+      "https://www.primalpetfoods.com/"
+    ],
+    "Barlow Condensed": [
+      "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+    ],
+    "Barlow Semi Condensed": [
+      "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+    ],
+    "Inter": [
+      "https://www.primalpetfoods.com/"
+    ],
+    "brother-1816": [
+      "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+    ],
+    "interstate": [
+      "https://www.primalpetfoods.com/",
+      "https://use.typekit.net/bpn0hdi.css",
+      "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+    ],
+    "interstate\" !important": [
+      "https://www.primalpetfoods.com/"
+    ],
+    "interstate-compressed": [
+      "https://use.typekit.net/bpn0hdi.css",
+      "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+    ],
+    "interstate-condensed": [
+      "https://use.typekit.net/bpn0hdi.css"
+    ],
+    "oke-widget-icons": [
+      "https://www.primalpetfoods.com/"
+    ],
+    "oke-widget-icons!important": [
+      "https://www.primalpetfoods.com/"
+    ],
+    "pf-fuel-grime": [
+      "https://use.typekit.net/bpn0hdi.css"
+    ],
+    "sans-serif": [
+      "https://www.primalpetfoods.com/",
+      "https://use.typekit.net/bpn0hdi.css",
+      "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+    ],
+    "serif": [
+      "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+    ],
+    "shift": [
+      "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.primalpetfoods.com/",
+      "selector": ":root,\n        .color-scheme-1",
+      "declarations": "--color-background: 255,255,255;\n        \n          --gradient-background: #ffffff;\n        \n\n        \n\n        --color-foreground: 101,56,24;\n        --color-background-contrast: 191,191,191;\n        --color-shadow: 18,18,18;\n        --color-button: 210,39,48;\n        --color-button-text: 241,241,222;\n        --color-secondary-button: 255,255,255;\n        --color-secondary-button-text: 101,56,24;\n        --color-link: 101,56,24;\n        --color-badge-foreground: 101,56,24;\n        --color-badge-background: 255,255,255;\n        --color-badge-border: 101,56,24;\n        --payment-terms-background-color: rgb(255 255 255);"
+    },
+    {
+      "source": "https://www.primalpetfoods.com/",
+      "selector": "body",
+      "declarations": "display: grid;\n        grid-template-rows: auto auto 1fr auto;\n        grid-template-columns: 100%;\n        min-height: 100%;\n        margin: 0;\n        font-size: 1.5rem;\n        letter-spacing: 0.06rem;\n        line-height: calc(1 + 0.8 / var(--font-body-scale));\n        font-family: var(--font-body-family);\n        font-style: var(--font-body-style);\n        font-weight: var(--font-body-weight);"
+    },
+    {
+      "source": "https://www.primalpetfoods.com/",
+      "selector": ".testimonial-header .testimonial-header__text h2",
+      "declarations": "font-family: var(--font-cursive-family);\n        text-transform: none;\n        font-weight:normal;\n        font-style: normal;\n        font-size: 5rem;\n        margin-bottom: 15px;"
+    },
+    {
+      "source": "https://www.primalpetfoods.com/",
+      "selector": ".case-study-header .case-study-header__text h2",
+      "declarations": "font-family: var(--font-grime-family);\n        text-transform: none;\n        font-weight:normal;\n        font-style: normal;\n        font-size: 6rem;\n        margin-bottom: 15px;"
+    },
+    {
+      "source": "https://www.primalpetfoods.com/",
+      "selector": ".okeReviews[data-oke-container] button,div.okeReviews button",
+      "declarations": "border-radius:0;border:0;box-shadow:none;margin:0;width:auto;min-width:auto;padding:0;background-color:transparent;min-height:auto"
+    },
+    {
+      "source": "https://www.primalpetfoods.com/",
+      "selector": "views[data-oke-container] input,.okeReviews[data-oke-container] select,.okeReviews[data-oke-container] textarea,div.okeReviews button,div.okeReviews input,div.o",
+      "declarations": "font-family:inherit;font-size:1em"
+    },
+    {
+      "source": "https://www.primalpetfoods.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button,div.okeReviews .oke-button",
+      "declarations": "display:inline-block;border-style:solid;border-color:var(--oke-button-borderColor);border-width:var(--oke-button-borderWidth);background-color:var(--oke-button-backgroundColor);line-height:1;padding:12px 24px;margin:0;border-radius:var(--oke-button-borderRadius);color:var(--oke-button-textColor);text-align:center;position:relative;font-weight:var(--oke-button-fontWeight);font-size:var(--oke-button-fontSize);font-family:var(--oke-button-fontFamily);outline:0"
+    },
+    {
+      "source": "https://www.primalpetfoods.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button.oke-is-loading:before,div.okeReviews .oke-button.oke-is-loading:before",
+      "declarations": "font-family:oke-widget-icons!important;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;content:\"\";color:undefined;font-size:12px;display:inline-block;animation:oke-spin 1s linear infinite;position:absolute;width:12px;height:12px;top:0;left:0;bottom:0;right:0;margin:auto"
+    },
+    {
+      "source": "https://www.primalpetfoods.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button.oke-is-active,div.okeReviews .oke-button.oke-is-active",
+      "declarations": "background-color:var(--oke-button-backgroundColorActive);color:var(--oke-button-textColorActive);border-color:var(--oke-button-borderColorActive)"
+    },
+    {
+      "source": "https://www.primalpetfoods.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button:not(.oke-is-loading):not(.oke-is-active):hover,div.okeReviews .oke-button:not(.oke-is-loading):not(.oke-is-active):h",
+      "declarations": "background-color:var(--oke-button-backgroundColorHover);color:var(--oke-button-textColorHover);border-color:var(--oke-button-borderColorHover);box-shadow:0 0 0 2px var(--oke-button-backgroundColorHover)"
+    },
+    {
+      "source": "https://www.primalpetfoods.com/",
+      "selector": "is-loading):not(.oke-is-active):hover:active,div.okeReviews .oke-button:not(.oke-is-loading):not(.oke-is-active):active,div.okeReviews .oke-button:not(.oke-is-l",
+      "declarations": "background-color:var(--oke-button-backgroundColorActive);color:var(--oke-button-textColorActive);border-color:var(--oke-button-borderColorActive)"
+    },
+    {
+      "source": "https://www.primalpetfoods.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-bodyText,div.okeReviews .oke-bodyText",
+      "declarations": "font-weight:var(--oke-bodyText-fontWeight);font-size:var(--oke-bodyText-fontSize);font-family:var(--oke-bodyText-fontFamily)"
+    },
+    {
+      "source": "https://www.primalpetfoods.com/",
+      "selector": "views[data-oke-container] .oke-modal .oke-reviewContent-date,div.okeReviews .oke-modal .oke-helpful,div.okeReviews .oke-modal .oke-helpful-vote-button,div.okeRe",
+      "declarations": "color:#676986"
+    },
+    {
+      "source": "https://www.primalpetfoods.com/",
+      "selector": ":root",
+      "declarations": "--oke-widget-spaceAbove:20px;--oke-widget-spaceBelow:20px;--oke-starRating-spaceAbove:0;--oke-starRating-spaceBelow:0;--oke-button-backgroundColor:#d72830;--oke-button-backgroundColorHover:#d72830;--oke-button-backgroundColorActive:#d72830;--oke-button-textColor:#fff;--oke-button-textColorHover:#fff;--oke-button-textColorActive:#fff;--oke-button-borderColor:#d72830;--oke-button-borderColorHover:#d72830;--oke-button-borderColorActive:#d72830;--oke-button-borderRadius:50px;--oke-button-borderWidth:1px;--oke-button-fontWeight:700;--oke-button-fontSize:var(--oke-text-regular,14px);--oke-button-fontFamily:inherit;--oke-border-color:#653818;--oke-border-width:1px;--oke-text-primaryColor:#653818;--"
+    },
+    {
+      "source": "https://www.primalpetfoods.com/",
+      "selector": ".okeLoyalty .c-embeddedHeaderBar-title",
+      "declarations": "font-family:interstate;text-transform:uppercase;font-weight:700 !important;color:#653818 !important"
+    },
+    {
+      "source": "https://www.primalpetfoods.com/",
+      "selector": ",div.okeReviews[data-oke-container] .oke-modal .oke-helpful,div.okeReviews[data-oke-container] .oke-modal .oke-helpful-vote-button,div.okeReviews[data-oke-conta",
+      "declarations": "color:var(--oke-text-primaryColor)"
+    },
+    {
+      "source": "https://www.primalpetfoods.com/",
+      "selector": ".buttons span",
+      "declarations": "color: #D22730;\n    font-size: 20px;\n    font-style: normal;\n    font-weight: 700;\n    line-height: normal;\n    text-transform: uppercase;"
+    },
+    {
+      "source": "https://www.primalpetfoods.com/",
+      "selector": ".buttons span",
+      "declarations": "color: #D22730;\n    font-size: 20px;\n    font-style: normal;\n    font-weight: 700;\n    line-height: normal;\n    text-transform: uppercase;"
+    },
+    {
+      "source": "https://www.primalpetfoods.com/",
+      "selector": ".buttons span",
+      "declarations": "color: #D22730;\n    font-size: 20px;\n    font-style: normal;\n    font-weight: 700;\n    line-height: normal;\n    text-transform: uppercase;"
+    },
+    {
+      "source": "https://www.primalpetfoods.com/",
+      "selector": "background: #d22730\n\n  .newsletter-hero-header__content",
+      "declarations": "color: #F1F1DE;\n    font-size: 28px;\n    font-style: normal;\n    font-weight: 400;\n    line-height: 120%;"
+    },
+    {
+      "source": "https://www.primalpetfoods.com/",
+      "selector": "#shopify-section-sections--21661100638435__newsletter_hero_header_jYhE44 h1",
+      "declarations": "color: white;"
+    },
+    {
+      "source": "https://www.primalpetfoods.com/",
+      "selector": "#shopify-section-pop-up button",
+      "declarations": "font-family: \"interstate\" !important;"
+    },
+    {
+      "source": "https://www.primalpetfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.primalpetfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.primalpetfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.primalpetfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.primalpetfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.primalpetfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659",
+      "selector": ":root",
+      "declarations": "--alpha-button-background: 1;--alpha-button-border: 1;--alpha-link: .85;--alpha-badge-border: .1;--focused-base-outline: .2rem solid rgba(var(--color-foreground), .5);--focused-base-outline-offset: .3rem;--focused-base-box-shadow: 0 0 0 .3rem rgb(var(--color-background)), 0 0 .5rem .4rem rgba(var(--color-foreground), .3)"
+    },
+    {
+      "source": "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659",
+      "selector": ".product-card-wrapper .card,.contains-card--product",
+      "declarations": "--border-radius: var(--product-card-corner-radius);--border-width: var(--product-card-border-width);--border-opacity: var(--product-card-border-opacity);--shadow-horizontal-offset: var(--product-card-shadow-horizontal-offset);--shadow-vertical-offset: var(--product-card-shadow-vertical-offset);--shadow-blur-radius: var(--product-card-shadow-blur-radius);--shadow-opacity: var(--product-card-shadow-opacity);--shadow-visible: var(--product-card-shadow-visible);--image-padding: var(--product-card-image-padding);--text-alignment: var(--product-card-text-alignment)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Primal Pet Foods",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.primalpetfoods.com/",
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659",
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/component-cart-items.css?v=75060540136793206451780497663"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.primalpetfoods.com/",
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.primalpetfoods.com/",
+        "https://www.primalpetfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.primalpetfoods.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.primalpetfoods.com/",
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.primalpetfoods.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.primalpetfoods.com/"
+      ]
+    },
+    "colors.accent-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "colors.accent-yellow": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "colors.surface-cream": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shop/t/259/assets/base.css?v=4719956745629686381780497659"
+      ]
+    },
+    "colors.shadow": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.primalpetfoods.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.focus": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.primalpetfoods.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.subscribe-save-banner": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Oakywood
-description: A restrained, material-first home office brand that uses a single electric violet accent (#4500ff) to punctuate an otherwise monochrome palette of near-blacks (#1a1a1a, #222222, #1d1d1d) and warm off-whites (#fafafa, #f9fafb, #f3f4f6). The violet appears only on primary CTAs, interactive elements, and the brand's signature desk-organizer badge — a deliberate scarcity that makes every click feel like a deliberate action. Surfaces are treated with soft rounding (`{rounded.sm}` ~8px) on cards and `{rounded.md}` ~12px on product images, while buttons use a tighter `{rounded.sm}` that reads as precise rather than playful. The typography stack relies on Muli (a geometric sans-serif with humanist warmth) at moderate weights — body copy at 400, headings at 600–700 — avoiding the extreme thinness or heaviness that would compete with the wood-grain textures that are the brand's true visual hero. A secondary teal (#108474) surfaces in sustainability badges and eco-claims, while a muted marigold (#fbcd0a) provides occasional star-rating or highlight punctuation. The checkout experience pulls in Shopify's default blues (#2463ec, #007aff), which clash slightly with the brand violet — a known tension between platform constraints and brand identity. The overall effect is of a workshop catalog rendered in clean digital: the wood stays warm, the interface stays cool, and the violet is the only voice that asks for your attention.
+name: "Oakywood"
+source_url: "https://www.oakywood.shop"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A restrained, material-first home office brand that uses a single electric violet accent (#4500ff) to punctuate an otherwise monochrome palette of near-blacks (#1a1a1a, #222222, #1d1d1d) and warm off-whites (#fafafa, #f9fafb, #f3f4f6). The violet appears only on primary CTAs, interactive elements, and the brand's signature desk-organizer badge — a deliberate scarcity that makes every click feel like a deliberate action. Surfaces are treated with soft rounding (`{rounded.sm}` ~8px) on cards and `{rounded.md}` ~12px on product images, while buttons use a tighter `{rounded.sm}` that reads as precise rather than playful. The typography stack relies on Muli (a geometric sans-serif with humanist warmth) at moderate weights — body copy at 400, headings at 600–700 — avoiding the extreme thinness or heaviness that would compete with the wood-grain textures that are the brand's true visual hero. A secondary teal (#108474) surfaces in sustainability badges and eco-claims, while a muted marigold (#fbcd0a) provides occasional star-rating or highlight punctuation. The checkout experience pulls in Shopify's default blues (#2463ec, #007aff), which clash slightly with the brand violet — a known tension between platform constraints and brand identity. The overall effect is of a workshop catalog rendered in clean digital: the wood stays warm, the interface stays cool, and the violet is the only voice that asks for your attention.
 
 colors:
   primary: "#4500ff"
@@ -252,7 +256,7 @@ components:
   hero-section:
     backgroundColor: "{colors.canvas}"
     textColor: "{colors.ink}"
-    padding: "{spacing.section}" "{spacing.xl}"
+    padding: "{spacing.section} {spacing.xl}"
   hero-heading:
     typography: "{typography.display-xl}"
     maxWidth: 600px
@@ -271,7 +275,7 @@ components:
     backgroundColor: "{colors.ink}"
     textColor: "{colors.canvas}"
     typography: "{typography.body-sm}"
-    padding: "{spacing.section}" "{spacing.xl}"
+    padding: "{spacing.section} {spacing.xl}"
   footer-link:
     textColor: "{colors.muted-soft}"
     typography: "{typography.link}"
@@ -354,6 +358,8 @@ components:
 - The hero section collapses its side-by-side image/text layout to a stacked layout on tablet and mobile, with the image above the text.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted font list includes "JudgemeStar" (a review-widget icon font), "graphie" (likely a misspelling or internal name), and "swiper-icons" (a carousel library) — the primary brand font is inferred as Muli based on frequency and context, but the exact font stack (including fallbacks) is an educated reconstruction.
 - Hover and focus states for secondary buttons, text inputs, and links are inferred from common patterns rather than extracted from the live site.

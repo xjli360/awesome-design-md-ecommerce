@@ -1,0 +1,673 @@
+{
+  "source_url": "https://mondo-mondo.com",
+  "final_url": "https://mondo-mondo.com/",
+  "captured_at": "2026-09-29T03:56:35.212519+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://mondo-mondo.com",
+      "final_url": "https://mondo-mondo.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "152f11e312e63ee110d1cec62e9008479e6b45f6fdf6910cd0b50fd86a5ecd41",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491",
+      "final_url": "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0429d311e735d2d3cfc6a6656a8bc278338692876d5256dd0ddc004541d77290",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://mondo-mondo.com/cdn/shop/t/86/assets/mondo.scss.css?v=143693829072156717701776726491",
+      "final_url": "https://mondo-mondo.com/cdn/shop/t/86/assets/mondo.scss.css?v=143693829072156717701776726491",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "90488341e4e7612350870f6235995396faf22530f57c01dcf1cd1e5245e33f7c",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://mondo-mondo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://mondo-mondo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css",
+      "final_url": "https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "de1e399b07289f3b0a8d35142e363e128124a1185770e214e25e58030dad48e5",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 33,
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491",
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/mondo.scss.css?v=143693829072156717701776726491"
+      ]
+    },
+    "#ffffff": {
+      "count": 25,
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491",
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/mondo.scss.css?v=143693829072156717701776726491",
+        "https://mondo-mondo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 10,
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491"
+      ]
+    },
+    "#333333": {
+      "count": 7,
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491",
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/mondo.scss.css?v=143693829072156717701776726491"
+      ]
+    },
+    "#d02e2e": {
+      "count": 6,
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491"
+      ]
+    },
+    "#f9f6f6": {
+      "count": 5,
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/mondo.scss.css?v=143693829072156717701776726491"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 4,
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491"
+      ]
+    },
+    "#56ad6a": {
+      "count": 3,
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491"
+      ]
+    },
+    "#b6b6b6": {
+      "count": 2,
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491"
+      ]
+    },
+    "#fff6f6": {
+      "count": 2,
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 2,
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491"
+      ]
+    },
+    "#0d0d0d": {
+      "count": 2,
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://mondo-mondo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://mondo-mondo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#faf7f5": {
+      "count": 1,
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491"
+      ]
+    },
+    "#51ab62": {
+      "count": 1,
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491"
+      ]
+    },
+    "#262626": {
+      "count": 1,
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 1,
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491"
+      ]
+    },
+    "#a2a2a2": {
+      "count": 1,
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 1,
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491"
+      ]
+    },
+    "#d8d8d8": {
+      "count": 1,
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491"
+      ]
+    },
+    "#ecfef0": {
+      "count": 1,
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491"
+      ]
+    },
+    "#00000047": {
+      "count": 1,
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/mondo.scss.css?v=143693829072156717701776726491"
+      ]
+    },
+    "#e8d2d2": {
+      "count": 1,
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/mondo.scss.css?v=143693829072156717701776726491"
+      ]
+    },
+    "#ffdcdc": {
+      "count": 1,
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/mondo.scss.css?v=143693829072156717701776726491"
+      ]
+    },
+    "#d0d0c8": {
+      "count": 1,
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/mondo.scss.css?v=143693829072156717701776726491"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 1,
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/mondo.scss.css?v=143693829072156717701776726491"
+      ]
+    },
+    "#effbe1": {
+      "count": 1,
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/mondo.scss.css?v=143693829072156717701776726491"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://mondo-mondo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://mondo-mondo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://mondo-mondo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "AGMed": [
+      "https://mondo-mondo.com/",
+      "https://mondo-mondo.com/cdn/shop/t/86/assets/mondo.scss.css?v=143693829072156717701776726491"
+    ],
+    "AGMed!important": [
+      "https://mondo-mondo.com/cdn/shop/t/86/assets/mondo.scss.css?v=143693829072156717701776726491"
+    ],
+    "Arial": [
+      "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491"
+    ],
+    "Consolas": [
+      "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491"
+    ],
+    "Cossette Titre": [
+      "https://mondo-mondo.com/"
+    ],
+    "EB Garamond": [
+      "https://mondo-mondo.com/"
+    ],
+    "Helvetica": [
+      "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491"
+    ],
+    "Helvetica Neue": [
+      "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491"
+    ],
+    "HelveticaNeue": [
+      "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491"
+    ],
+    "Kosugi": [
+      "https://mondo-mondo.com/"
+    ],
+    "PlantLig": [
+      "https://mondo-mondo.com/",
+      "https://mondo-mondo.com/cdn/shop/t/86/assets/mondo.scss.css?v=143693829072156717701776726491"
+    ],
+    "PlantLig!important": [
+      "https://mondo-mondo.com/cdn/shop/t/86/assets/mondo.scss.css?v=143693829072156717701776726491"
+    ],
+    "Plantlig": [
+      "https://mondo-mondo.com/cdn/shop/t/86/assets/mondo.scss.css?v=143693829072156717701776726491"
+    ],
+    "Xanh Mono": [
+      "https://mondo-mondo.com/"
+    ],
+    "icons": [
+      "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491"
+    ],
+    "monospace": [
+      "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491",
+      "https://mondo-mondo.com/cdn/shop/t/86/assets/mondo.scss.css?v=143693829072156717701776726491"
+    ],
+    "padding-bottom:5px": [
+      "https://mondo-mondo.com/"
+    ],
+    "plantlig": [
+      "https://mondo-mondo.com/cdn/shop/t/86/assets/mondo.scss.css?v=143693829072156717701776726491"
+    ],
+    "sans-serif": [
+      "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491"
+    ],
+    "sans-serif !important": [
+      "https://mondo-mondo.com/"
+    ],
+    "width:60%\npadding-bottom:5px": [
+      "https://mondo-mondo.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491",
+      "selector": "html,body",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491",
+      "selector": "body,input,textarea,button,select",
+      "declarations": "font-size:14px;line-height:1.6;font-family:HelveticaNeue,Helvetica Neue,Helvetica,Arial,sans-serif;color:#000;font-weight:300;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:100%"
+    },
+    {
+      "source": "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491",
+      "selector": "h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6",
+      "declarations": "display:block;font-family:HelveticaNeue,Helvetica Neue,Helvetica,Arial,sans-serif;font-weight:700;margin:0 0 .5em;line-height:1.4"
+    },
+    {
+      "source": "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491",
+      "selector": ".btn,.btn--secondary,.rte .btn--secondary,.rte .btn",
+      "declarations": "display:inline-block;padding:8px 10px;width:auto;margin:0;line-height:1.42;font-weight:700;text-decoration:none;text-align:center;vertical-align:middle;white-space:nowrap;cursor:pointer;border:1px solid transparent;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-appearance:none;-moz-appearance:none;border-radius:3px;background-color:#000;color:#fff"
+    },
+    {
+      "source": "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491",
+      "selector": ".btn:hover,.btn--secondary:hover,.rte .btn:hover,.rte .btn--secondary:hover",
+      "declarations": "background-color:#000;color:#fff"
+    },
+    {
+      "source": "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491",
+      "selector": ".btn:active,.btn--secondary:active,.btn:focus,.btn--secondary:focus,.rte .btn:active,.rte .btn--secondary:active,.rte .btn:focus,.rte .btn--secondary:focus",
+      "declarations": "background-color:#000;color:#fff"
+    },
+    {
+      "source": "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491",
+      "selector": ".btn[disabled],[disabled].btn--secondary,.btn.disabled,.disabled.btn--secondary,.rte .btn[disabled],.rte [disabled].btn--secondary,.rte .btn.disabled,.rte .disa",
+      "declarations": "cursor:default;color:#b6b6b6;background-color:#f6f6f6"
+    },
+    {
+      "source": "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491",
+      "selector": ".btn--secondary,.rte .btn--secondary",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491",
+      "selector": ".btn--secondary:hover,.rte .btn--secondary:hover",
+      "declarations": "background-color:#e6e6e6;color:#fff"
+    },
+    {
+      "source": "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491",
+      "selector": ".btn--secondary:active,.btn--secondary:focus,.rte .btn--secondary:active,.rte .btn--secondary:focus",
+      "declarations": "background-color:#ccc;color:#fff"
+    },
+    {
+      "source": "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491",
+      "selector": ".mobile-nav__item a,.mobile-nav__toggle button",
+      "declarations": "color:#333;padding:15px;text-decoration:none"
+    },
+    {
+      "source": "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491",
+      "selector": ".mobile-nav__item a:hover,.mobile-nav__item a:active,.mobile-nav__item a:focus,.mobile-nav__toggle button:hover,.mobile-nav__toggle button:active,.mobile-nav__t",
+      "declarations": "color:#0d0d0d"
+    },
+    {
+      "source": "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491",
+      "selector": ".mobile-nav__item a:active,.mobile-nav__item a:focus,.mobile-nav__toggle button:active,.mobile-nav__toggle button:focus",
+      "declarations": "background-color:#e9e9e9"
+    },
+    {
+      "source": "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491",
+      "selector": ".drawer__close button",
+      "declarations": "position:relative;right:-20px;height:100%;padding:0 20px;color:inherit"
+    },
+    {
+      "source": "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491",
+      "selector": ".drawer__close button:active,.drawer__close button:focus",
+      "declarations": "background-color:#e9e9e9"
+    },
+    {
+      "source": "https://mondo-mondo.com/cdn/shop/t/86/assets/mondo.scss.css?v=143693829072156717701776726491",
+      "selector": "h1,h2,h3,h4,h5,h6,.h6,.site-nav__link,.h3",
+      "declarations": "font-family:AGMed!important;text-transform:uppercase;font-weight:400!important;color:#000!important"
+    },
+    {
+      "source": "https://mondo-mondo.com/cdn/shop/t/86/assets/mondo.scss.css?v=143693829072156717701776726491",
+      "selector": ".swatch-container>.header",
+      "declarations": "margin:.5em 0;font-family:AGMed;font-size:12px;text-transform:uppercase"
+    },
+    {
+      "source": "https://mondo-mondo.com/cdn/shop/t/86/assets/mondo.scss.css?v=143693829072156717701776726491",
+      "selector": "age-nosto-3 .nosto-block .nosto-header,#productpage-nosto-2 .nosto-block .nosto-product-name,#productpage-nosto-1 .nosto-block .nosto-product-name,#productpage-",
+      "declarations": "font-family:AGMed!important"
+    },
+    {
+      "source": "https://mondo-mondo.com/cdn/shop/t/86/assets/mondo.scss.css?v=143693829072156717701776726491",
+      "selector": "#productpage-nosto-2 .nosto-block .nosto-product-price .money,#productpage-nosto-1 .nosto-block .nosto-product-price .money,#productpage-nosto-3 .nosto-block .n",
+      "declarations": "font-family:PlantLig!important"
+    },
+    {
+      "source": "https://mondo-mondo.com/cdn/shop/t/86/assets/mondo.scss.css?v=143693829072156717701776726491",
+      "selector": "label.size:hover,label.size:checked,.ProductSelect-option-size-5",
+      "declarations": "background:#000;color:#fff"
+    },
+    {
+      "source": "https://mondo-mondo.com/cdn/shop/t/86/assets/mondo.scss.css?v=143693829072156717701776726491",
+      "selector": ".template-collection,.template-page,.template-product",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://mondo-mondo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://mondo-mondo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://mondo-mondo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://mondo-mondo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://mondo-mondo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://mondo-mondo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Mondo Mondo",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491",
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/mondo.scss.css?v=143693829072156717701776726491"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491",
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/mondo.scss.css?v=143693829072156717701776726491"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491",
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/mondo.scss.css?v=143693829072156717701776726491",
+        "https://mondo-mondo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491",
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/mondo.scss.css?v=143693829072156717701776726491"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491",
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/mondo.scss.css?v=143693829072156717701776726491",
+        "https://mondo-mondo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491",
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/mondo.scss.css?v=143693829072156717701776726491"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491"
+      ]
+    },
+    "colors.accent-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/mondo.scss.css?v=143693829072156717701776726491"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491"
+      ]
+    },
+    "colors.success-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mondo-mondo.com/cdn/shop/t/86/assets/timber.scss.css?v=11529639400895007431776726491"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.swatch-selector": {
+      "status": "inferred"
+    }
+  }
+}

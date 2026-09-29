@@ -1,13 +1,17 @@
 ---
 version: alpha
-name: APMEX
-description: Stacked American Eagles, kilobars, and Morgan dollars define the product catalog, and APMEX's interface makes no effort to disguise that material context — the design system is built to look like the velvet tray beneath the coin, not the magazine ad above it. The deep charcoal baseline (#313131) anchors every surface, a near-black that reads as display-case lining rather than tech-brand dark mode, chosen to maximise contrast against high-gloss precious-metal photography. Gold-toned interactive elements follow as a direct documentary consequence: {colors.primary} names the category the platform trades in before a single headline is read. Where most e-commerce brands borrow a personality color, APMEX's gold is tautological.
+name: "APMEX"
+source_url: "https://www.apmex.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Stacked American Eagles, kilobars, and Morgan dollars define the product catalog, and APMEX's interface makes no effort to disguise that material context — the design system is built to look like the velvet tray beneath the coin, not the magazine ad above it. The deep charcoal baseline (#313131) anchors every surface, a near-black that reads as display-case lining rather than tech-brand dark mode, chosen to maximise contrast against high-gloss precious-metal photography. Gold-toned interactive elements follow as a direct documentary consequence: {colors.primary} names the category the platform trades in before a single headline is read. Where most e-commerce brands borrow a personality color, APMEX's gold is tautological.
 
-Secondary surfaces sit in warm off-whites and pale grays, leaving coin photography — minted reliefs, proof finishes, stackable bars — as the uncontested visual hero. Typography draws entirely from the native system stack (Arial, -apple-system), signaling institutional sobriety over editorial personality. Weights stay conservative; price data and live spot tickers carry the urgency that other brands push through typographic drama.
+  Secondary surfaces sit in warm off-whites and pale grays, leaving coin photography — minted reliefs, proof finishes, stackable bars — as the uncontested visual hero. Typography draws entirely from the native system stack (Arial, -apple-system), signaling institutional sobriety over editorial personality. Weights stay conservative; price data and live spot tickers carry the urgency that other brands push through typographic drama.
 
-The persistent spot-price bar locked to the very top of the viewport — live gold, silver, platinum, and palladium quotes updating in real time — is structurally the most distinctive UI element on the site, a data ribbon that no fashion or grocery retailer would place above the hero image. It frames the transaction context immediately: every product here has a live market price, and the interface never lets the visitor forget it. Product cards layer mint name, metal purity, troy weight, and real-time pricing in a dense informational pattern suited to buyers comparing fractional ounces rather than lifestyle aesthetics.
+  The persistent spot-price bar locked to the very top of the viewport — live gold, silver, platinum, and palladium quotes updating in real time — is structurally the most distinctive UI element on the site, a data ribbon that no fashion or grocery retailer would place above the hero image. It frames the transaction context immediately: every product here has a live market price, and the interface never lets the visitor forget it. Product cards layer mint name, metal purity, troy weight, and real-time pricing in a dense informational pattern suited to buyers comparing fractional ounces rather than lifestyle aesthetics.
 
-Trust infrastructure is unusually prominent: BBB ratings, secure-checkout seals, and IRA-eligible tags appear inline with product listings rather than relegated to a footer. Corner radii trend conservative — {rounded.xs} to {rounded.sm} on cards and inputs — matching the institutional register, with {rounded.full} reserved for small filter chips and badge tags rather than primary CTAs. The overall composition resembles a financial-exchange skin applied to an e-commerce chassis: legibility and security signaling at every decision point, with warm gold as the single chromatic signal against charcoal and white.
+  Trust infrastructure is unusually prominent: BBB ratings, secure-checkout seals, and IRA-eligible tags appear inline with product listings rather than relegated to a footer. Corner radii trend conservative — {rounded.xs} to {rounded.sm} on cards and inputs — matching the institutional register, with {rounded.full} reserved for small filter chips and badge tags rather than primary CTAs. The overall composition resembles a financial-exchange skin applied to an e-commerce chassis: legibility and security signaling at every decision point, with warm gold as the single chromatic signal against charcoal and white.
 
 colors:
   primary: "#C4923A"
@@ -343,6 +347,8 @@ components:
 - Footer columns collapse to accordion-style expandable sections on mobile, defaulting to closed
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Site returned a bot-challenge page ("Just a moment...") during extraction; only one hex value (#313131) was captured with confidence — all other colors derive from brand knowledge and published brand assets, not live extraction
 - No custom typeface detected; the entire type system uses system-stack fonts (Arial, -apple-system). If APMEX has licensed a custom display face for headings, it was not observable

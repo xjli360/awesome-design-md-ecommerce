@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Mile High Comics
-description: A comic-book emporium that wears its love of the medium on its sleeve, Mile High Comics uses a palette that reads like a spinner rack exploded onto a web page. The primary red `#ff0000` is pure, unmodulated, the same red as a Superman cape or a Marvel logo — it appears on every primary CTA, every price badge, every key navigational element, demanding attention with the confidence of a direct-market veteran. That red is backed by a supporting cast of high-saturation accents: `#66ff00` (a neon lime that could be Green Goblin's grin), `#ffff00` (a yellow as bright as a first-print Wolverine cover), and `#00ff00` (a digital green used for in-stock indicators). The body text sits on a deep navy `#000033` background in many sections — a bold choice for a retail site, making the white `#fffccc` and `#faebd7` (antique white) text areas feel like comic panels floating in space. The typography is utilitarian: Arial and Verdana at standard weights, no custom typefaces, no letter-spacing theatrics — the brand trusts its inventory photography and price tags to do the selling. The overall effect is a site that feels built by collectors for collectors: dense, information-rich, and unapologetically loud.
+name: "Mile High Comics"
+source_url: "https://www.milehighcomics.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A comic-book emporium that wears its love of the medium on its sleeve, Mile High Comics uses a palette that reads like a spinner rack exploded onto a web page. The primary red `#ff0000` is pure, unmodulated, the same red as a Superman cape or a Marvel logo — it appears on every primary CTA, every price badge, every key navigational element, demanding attention with the confidence of a direct-market veteran. That red is backed by a supporting cast of high-saturation accents: `#66ff00` (a neon lime that could be Green Goblin's grin), `#ffff00` (a yellow as bright as a first-print Wolverine cover), and `#00ff00` (a digital green used for in-stock indicators). The body text sits on a deep navy `#000033` background in many sections — a bold choice for a retail site, making the white `#fffccc` and `#faebd7` (antique white) text areas feel like comic panels floating in space. The typography is utilitarian: Arial and Verdana at standard weights, no custom typefaces, no letter-spacing theatrics — the brand trusts its inventory photography and price tags to do the selling. The overall effect is a site that feels built by collectors for collectors: dense, information-rich, and unapologetically loud.
 
 colors:
   primary: "#ff0000"
@@ -316,6 +320,8 @@ components:
 - Sidebar filters: On mobile, filters collapse to a "Filter" button that opens a modal overlay.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for most components beyond primary button (secondary, ghost, nav links) were not extractable from the live site.
 - Focus states and keyboard navigation styling are not documented.

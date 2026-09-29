@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Midea
-description: |
+name: "Midea"
+source_url: "https://www.midea.com/us"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Eight distinct blues — #1f94d2, #0083de, #0092d8, #00b0f0, #37a6f3, #077dce, #2b85c3, #498ff2 — layer across hero modules, CTA buttons, interactive badges, and link states to build visual depth from a single hue family rather than contrast from opposing colors. The primary is #1f94d2, a sky-toned technical blue that reads as mechanical precision without the coldness of navy. Against it, a differentiated surface hierarchy — #f7f7f7 base, #e9f4fb blue-wash panels, crisp white cards — creates the layering typical of appliance catalog retail without requiring color noise. Red (#ec1c24) appears exclusively for promotional badges and urgency callouts, keeping it semantically loaded rather than decorative; amber (#faad14) handles star ratings and warning states; green (#52c41a) confirms success states like cart additions and compatibility checks.
 
   Typography is set in BeausiteClassic, a geometric sans-serif with an unusually wide weight range — Light through Ultrablack — allowing Midea to run hero headlines at near-display weight without switching to a separate display typeface. The Ultrablack cut appears at the largest category-lockup sizes; Regular and Medium handle UI labels and navigation prose. HCo Gotham serves as a secondary system face for dense specification text. Buttons carry a mid-radius ({rounded.sm}) rather than pill shapes, reading as action-oriented and technical rather than soft. Product cards take a {rounded.md} with a shallow shadow, keeping the catalog register of an appliance configurator. The blue-wash surface ({colors.surface-blue-wash}) is the brand's most distinctive UI device — it backgrounds specification panels and feature comparison tables, marking them as authoritative content rather than promotional copy.
@@ -388,6 +391,8 @@ components:
 - Footer columns stack vertically with accordion expand/collapse per section on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact button border-radius values not confirmed from CSS inspection; `{rounded.sm}` (8px) is inferred from visual screenshots
 - BeausiteClassic is a licensed proprietary font — exact font-weight numeric values (e.g. 100/300/400/500/900) are inferred from weight-name suffixes (Light, Regular, Medium, Bold, Ultrablack); confirm against actual font files

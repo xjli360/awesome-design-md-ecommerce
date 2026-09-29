@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Wuque Studio
-description: Forty-five-degree chamfers on a backplate edge, anodized aluminum in colorways named for seasons — Wuque Studio maps keyboard-builder precision to a storefront that opens on near-black (#191919) canvas, the meta theme-color (#212121) confirming a dark-first commitment before a single pixel loads. The brand's primary voltage, teal #108474, carries the entire interactive burden: nav hover states, CTA fills, focus outlines, and link underlines all route through it, giving the UI a terminal-prompt clarity that engineers recognize immediately — purposeful rather than decorative. Against the near-black field, teal reads like a cursor: it marks exactly where action is possible and nowhere else.
+name: "Wuque Studio"
+source_url: "https://wuquestudio.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Forty-five-degree chamfers on a backplate edge, anodized aluminum in colorways named for seasons — Wuque Studio maps keyboard-builder precision to a storefront that opens on near-black (#191919) canvas, the meta theme-color (#212121) confirming a dark-first commitment before a single pixel loads. The brand's primary voltage, teal #108474, carries the entire interactive burden: nav hover states, CTA fills, focus outlines, and link underlines all route through it, giving the UI a terminal-prompt clarity that engineers recognize immediately — purposeful rather than decorative. Against the near-black field, teal reads like a cursor: it marks exactly where action is possible and nowhere else.
 
   Type splits along a deliberate axis. Asap handles display and headline work in geometric, lightly condensed strokes at 500–600 weight; Nunito Sans carries all body and UI copy with its characteristically open apertures and rounded terminals. The pairing mirrors the product — aluminum precision wrapped in a hobby with feelings. Neither face pushes past 600 weight in the UI; the boldest moments are 600-weight at 48px in the hero, not the 800-weight slabs that streetwear brands favor.
 
@@ -432,6 +436,8 @@ components:
 - Announcement bar hides on scroll-down on mobile (IntersectionObserver pattern), reappears on scroll-up
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact Asap and Nunito Sans font weights actively used on live pages not confirmed — weight 500/600 inferred from visual hierarchy; 700 inferred for buttons
 - No confirmed font-size scale from CSS extraction; all px values are reasonable estimates based on Shopify theme conventions and visual inspection

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Square Enix Store
-description: A deep-crimson storefront (#8b0000) that signals fandom rather than retail — the same blood-red that crowns Final Fantasy logos and marks the brand's most iconic collector's editions, now serving as the primary voltage for every "Pre-order" CTA, cart badge, and limited-quantity alert. Against a near-black canvas (#121212), this red reads as urgent and ceremonial, not promotional; it's the color of a summon materia, not a clearance tag. The secondary accent (#006400) — a dense forest green — appears on pre-order buttons and exclusive-edition badges, creating a Christmas-of-gaming tension that's unmistakably Square Enix. Type runs Inter at moderate weights (400–600), with display headlines rarely exceeding 24px; the brand trusts its key art — Amano illustrations, CG renders, and 4K screenshots — to carry emotional weight rather than oversized typography. Product cards use thin hairline borders (#dedede) on white surfaces (#ffffff), but the site's dominant mode is dark: black nav bars, black footers, black product-detail backgrounds that frame glowing screenshots like a theater curtain. The store's Shopify backbone surfaces in pill-shaped search bars ({rounded.full}) and generously padded buttons (14px vertical), but the overall feel is less marketplace and more museum gift shop — a place where a $300 statue of Sephiroth sits beside a $10 soundtrack, both rendered with the same solemn {rounded.sm} corner radius and the same dark reverence.
+name: "Square Enix Store"
+source_url: "https://www.squareenixstore.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep-crimson storefront (#8b0000) that signals fandom rather than retail — the same blood-red that crowns Final Fantasy logos and marks the brand's most iconic collector's editions, now serving as the primary voltage for every "Pre-order" CTA, cart badge, and limited-quantity alert. Against a near-black canvas (#121212), this red reads as urgent and ceremonial, not promotional; it's the color of a summon materia, not a clearance tag. The secondary accent (#006400) — a dense forest green — appears on pre-order buttons and exclusive-edition badges, creating a Christmas-of-gaming tension that's unmistakably Square Enix. Type runs Inter at moderate weights (400–600), with display headlines rarely exceeding 24px; the brand trusts its key art — Amano illustrations, CG renders, and 4K screenshots — to carry emotional weight rather than oversized typography. Product cards use thin hairline borders (#dedede) on white surfaces (#ffffff), but the site's dominant mode is dark: black nav bars, black footers, black product-detail backgrounds that frame glowing screenshots like a theater curtain. The store's Shopify backbone surfaces in pill-shaped search bars ({rounded.full}) and generously padded buttons (14px vertical), but the overall feel is less marketplace and more museum gift shop — a place where a $300 statue of Sephiroth sits beside a $10 soundtrack, both rendered with the same solemn {rounded.sm} corner radius and the same dark reverence.
 
 colors:
   primary: "#8b0000"
@@ -385,6 +389,8 @@ components:
 - Accordion sections (product details, reviews) are collapsed by default on all breakpoints
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for most components could not be reliably extracted from static CSS; the active/darkened state for `button-primary` is inferred from common patterns rather than observed
 - Error state styling for text inputs (red border, error message typography) was not present in extracted styles

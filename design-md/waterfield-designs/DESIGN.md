@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: WaterField Designs
-description: Near-black (#111111) serves as both the navigation canvas and the meta theme-color — a declaration that this shop photographs dark waxed canvas and bridle leather and refuses to soften that with a white header. The telling detail is sage green (#aaccaa): it surfaces in hover states, category chips, and selection indicators, a color sitting equidistant between military green and aged patina, indexing to WaterField's actual material vocabulary rather than a Pantone trend sheet. The primary CTA runs in deep teal (#108474), saturated and purposeful without aggression, while sharp gold (#f5cc15) punctuates badge callouts and promotional announcements. Between sage, teal, and gold, the brand has assembled a three-note palette specific enough to function as a signature. A desaturated mint (#c5f7f0, #edf5f5) provides the teal family's surface-weight version for feature bands, and a soft lavender (#a89cc8) marks a lighter product line — likely gift-oriented — with its own distinct register.
+name: "WaterField Designs"
+source_url: "https://www.sfbags.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Near-black (#111111) serves as both the navigation canvas and the meta theme-color — a declaration that this shop photographs dark waxed canvas and bridle leather and refuses to soften that with a white header. The telling detail is sage green (#aaccaa): it surfaces in hover states, category chips, and selection indicators, a color sitting equidistant between military green and aged patina, indexing to WaterField's actual material vocabulary rather than a Pantone trend sheet. The primary CTA runs in deep teal (#108474), saturated and purposeful without aggression, while sharp gold (#f5cc15) punctuates badge callouts and promotional announcements. Between sage, teal, and gold, the brand has assembled a three-note palette specific enough to function as a signature. A desaturated mint (#c5f7f0, #edf5f5) provides the teal family's surface-weight version for feature bands, and a soft lavender (#a89cc8) marks a lighter product line — likely gift-oriented — with its own distinct register.
 
   Type opens with Nunito Sans at display and navigation scales: a rounded humanist sans that gives the dark-canvas layout friendliness without loosening its precision. Lato carries body copy, labels, and interface text with high x-height legibility and neutral authority. Baskerville punctuates editorial moments — material callouts, provenance lines, the kind of sentence that ends "hand-cut in San Francisco" — a serif flag that the brand takes craft heritage seriously. Corner geometry is restrained: cards round to `{rounded.xs}`, preserving the sharp-folded aesthetic of the products themselves, while primary buttons step to `{rounded.sm}` to read as interactive rather than structural. There are no full pill buttons here. Generous section padding and wide photography gutters signal quality through absence rather than ornament — the layout's job is to step aside. The combined result is a Shopify storefront that reads less like a theme and more like an in-house build.
 
@@ -375,6 +379,8 @@ components:
 - Footer columns: collapse to accordion sections below 744px; headings become tappable expand/collapse triggers
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No confirmed custom or licensed brand font — Nunito Sans and Lato inferred from CSS font-stack extraction; WaterField may use a self-hosted variant with different weight ranges not visible in sampling
 - Baskerville usage scope uncertain — present in the font stack but could function as a serif fallback rather than an intentional editorial face; confirm in actual editorial section markup

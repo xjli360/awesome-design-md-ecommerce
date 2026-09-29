@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Medik8
-description: Medik8 is a clinical skincare brand that bridges the gap between professional-grade efficacy and daily ritualistic use. The brand's visual language is anchored on a stark black-and-white canvas — pure white (#ffffff) surfaces against deep charcoal and near-black inks (#191919, #232323, #262626) — creating a laboratory-like precision that signals science-backed formulations. The signature brand voltage comes through two accent colors: a clinical red (#e32c2b) used sparingly for critical CTAs and price highlights, and a deep forest green (#0a3526) that appears in product badges and sustainability messaging, evoking the brand's commitment to vitamin C and eco-conscious practices. Typography runs monospace exclusively (`{typography.display-xl}` through `{typography.caption}`), a deliberate choice that reinforces the scientific, data-driven ethos — every product feels like a prescription. The system relies on generous whitespace and hairline-thin borders (`{colors.hairline}` #dddddd, `{colors.hairline-soft}` #ededed) to create breathing room around product photography and ingredient lists. Rounded corners are minimal — only `{rounded.xs}` (4px) for buttons and `{rounded.sm}` (8px) for cards — maintaining a crisp, clinical edge that never feels soft or casual. The overall mood is one of controlled precision: a white lab coat aesthetic where every element, from the monospace type to the muted greys (#777777, #878787, #9fa0a5), exists to let the science of skincare speak without visual noise.
+name: "Medik8"
+source_url: "https://www.medik8.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Medik8 is a clinical skincare brand that bridges the gap between professional-grade efficacy and daily ritualistic use. The brand's visual language is anchored on a stark black-and-white canvas — pure white (#ffffff) surfaces against deep charcoal and near-black inks (#191919, #232323, #262626) — creating a laboratory-like precision that signals science-backed formulations. The signature brand voltage comes through two accent colors: a clinical red (#e32c2b) used sparingly for critical CTAs and price highlights, and a deep forest green (#0a3526) that appears in product badges and sustainability messaging, evoking the brand's commitment to vitamin C and eco-conscious practices. Typography runs monospace exclusively (`{typography.display-xl}` through `{typography.caption}`), a deliberate choice that reinforces the scientific, data-driven ethos — every product feels like a prescription. The system relies on generous whitespace and hairline-thin borders (`{colors.hairline}` #dddddd, `{colors.hairline-soft}` #ededed) to create breathing room around product photography and ingredient lists. Rounded corners are minimal — only `{rounded.xs}` (4px) for buttons and `{rounded.sm}` (8px) for cards — maintaining a crisp, clinical edge that never feels soft or casual. The overall mood is one of controlled precision: a white lab coat aesthetic where every element, from the monospace type to the muted greys (#777777, #878787, #9fa0a5), exists to let the science of skincare speak without visual noise.
 
 colors:
   primary: "#e32c2b"
@@ -476,6 +480,8 @@ components:
 - Search bar collapses to icon-only trigger on mobile, expanding to full-screen overlay on tap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for buttons, links, and cards are inferred from common patterns but not extracted from live CSS — actual hover transitions (duration, easing) may differ
 - Error styling for form validation (error messages, icon placement, color) is assumed based on the primary red but not confirmed from live data

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: KIWI design
-description: A VR-accessory brand that speaks through a palette anchored on #108474 — a deep, almost surgical teal that appears nowhere else in the extracted hex set — and a secondary accent of #fbcd0a (marigold yellow) that reads as a warning stripe or a price-tag highlight. The brand lives in a world of grays: #eeeeee canvas, #555555 body text, #bebebe and #dedede for hairline borders, #121212 for near-black ink. This is not a playful consumer-electronics brand; it's a utility-first, precision-engineering aesthetic where every component feels like it was designed for a headset strap or a charging dock. Buttons use {rounded.sm} — soft but not pill-shaped — and the primary CTA is a solid #108474 rectangle with white text, no gradient, no shadow. The typography stack is a mix of Poppins (likely for headings) and Nunito Sans (for body), both geometric sans-serifs that reinforce the clean, technical feel. The extracted font list includes JudgemeIcons and JudgemeStar, indicating heavy reliance on Judge.me review widgets — a signal that social proof is baked into the layout. The color set also includes social-login blues (#3b5998 Facebook, #1da1f2 Twitter, #dd4b39 Google, #e60023 Pinterest, #0073b1 LinkedIn) and a #ffff00 checkout accent, likely from Shopify Pay or a Klarna widget. The brand's true identity is the teal and the yellow, surrounded by a controlled gray system that never feels warm.
+name: "KIWI design"
+source_url: "https://www.kiwidesign.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A VR-accessory brand that speaks through a palette anchored on #108474 — a deep, almost surgical teal that appears nowhere else in the extracted hex set — and a secondary accent of #fbcd0a (marigold yellow) that reads as a warning stripe or a price-tag highlight. The brand lives in a world of grays: #eeeeee canvas, #555555 body text, #bebebe and #dedede for hairline borders, #121212 for near-black ink. This is not a playful consumer-electronics brand; it's a utility-first, precision-engineering aesthetic where every component feels like it was designed for a headset strap or a charging dock. Buttons use {rounded.sm} — soft but not pill-shaped — and the primary CTA is a solid #108474 rectangle with white text, no gradient, no shadow. The typography stack is a mix of Poppins (likely for headings) and Nunito Sans (for body), both geometric sans-serifs that reinforce the clean, technical feel. The extracted font list includes JudgemeIcons and JudgemeStar, indicating heavy reliance on Judge.me review widgets — a signal that social proof is baked into the layout. The color set also includes social-login blues (#3b5998 Facebook, #1da1f2 Twitter, #dd4b39 Google, #e60023 Pinterest, #0073b1 LinkedIn) and a #ffff00 checkout accent, likely from Shopify Pay or a Klarna widget. The brand's true identity is the teal and the yellow, surrounded by a controlled gray system that never feels warm.
 
 colors:
   primary: "#108474"
@@ -513,6 +517,8 @@ components:
 - Multi-column product descriptions collapse to single column at mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and active states for all components are inferred from common patterns; the live site may use different transitions or color shifts
 - Error, success, and warning toast/notification styling not extracted — assumed to use #108474 for success, #dd4b39 for error, #fbcd0a for warning

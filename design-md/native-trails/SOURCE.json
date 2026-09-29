@@ -1,0 +1,906 @@
+{
+  "source_url": "https://nativetrails.net",
+  "final_url": "https://nativetrailshome.com/",
+  "captured_at": "2026-09-28T09:57:08.058345+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://nativetrails.net",
+      "final_url": "https://nativetrailshome.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "65d4762fb955111954ed1c3b6550e0ab427fdd9e83932fa11967faf880956a94",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+      "final_url": "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0868ee6031c3707c57e9b63f6f498bf18a5def3973e5d4ae8a1e95cf16d5c2e9",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+      "final_url": "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "07290b2ff3d02e564d24458be9d7c05dbcf3fc9a21b0fd2a4b91d9efb1be5bb3",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://nativetrailshome.com/wp-includes/css/dist/preferences/style.css",
+      "final_url": "https://nativetrailshome.com/wp-includes/css/dist/preferences/style.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "cd90cedd446a15fe39fd720cc3228d8d5d278c69f9f086331c6008b32df7aa71",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css",
+      "final_url": "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "80dc64a2e865095a4fd137e556eebc27f429d35894077c4f847268799c6eb610",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://nativetrailshome.com/wp-content/plugins/popup-maker/dist/packages/block-library-style.css",
+      "final_url": "https://nativetrailshome.com/wp-content/plugins/popup-maker/dist/packages/block-library-style.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "689988a155295dd0a03c78ee8a7d31e27d12f39d3f71d2f4734e38c035186e9f",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 173,
+      "sources": [
+        "https://nativetrailshome.com/",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+      ]
+    },
+    "#00000000": {
+      "count": 109,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/preferences/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css",
+        "https://nativetrailshome.com/wp-content/plugins/popup-maker/dist/packages/block-library-style.css"
+      ]
+    },
+    "#1e1e1e": {
+      "count": 76,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+      ]
+    },
+    "#000000": {
+      "count": 62,
+      "sources": [
+        "https://nativetrailshome.com/",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/components/style.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 47,
+      "sources": [
+        "https://nativetrailshome.com/",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+      ]
+    },
+    "#3858e9": {
+      "count": 41,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 27,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+      ]
+    },
+    "#757575": {
+      "count": 27,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/preferences/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+      ]
+    },
+    "#1e1e1e9e": {
+      "count": 24,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+      ]
+    },
+    "#949494": {
+      "count": 21,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 20,
+      "sources": [
+        "https://nativetrailshome.com/",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/preferences/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 16,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 13,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+      ]
+    },
+    "#cc1818": {
+      "count": 8,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+      ]
+    },
+    "#00000033": {
+      "count": 8,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+      ]
+    },
+    "#0000004d": {
+      "count": 6,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+      ]
+    },
+    "#183ad6": {
+      "count": 6,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+      ]
+    },
+    "#2d2d2d": {
+      "count": 5,
+      "sources": [
+        "https://nativetrailshome.com/"
+      ]
+    },
+    "#00000026": {
+      "count": 5,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/components/style.css"
+      ]
+    },
+    "#2145e6": {
+      "count": 5,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+      ]
+    },
+    "#505050": {
+      "count": 4,
+      "sources": [
+        "https://nativetrailshome.com/"
+      ]
+    },
+    "#ff6900": {
+      "count": 3,
+      "sources": [
+        "https://nativetrailshome.com/"
+      ]
+    },
+    "#0693e3": {
+      "count": 3,
+      "sources": [
+        "https://nativetrailshome.com/",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 3,
+      "sources": [
+        "https://nativetrailshome.com/",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css"
+      ]
+    },
+    "#ffffffcc": {
+      "count": 3,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css"
+      ]
+    },
+    "#5a5a5a40": {
+      "count": 3,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css"
+      ]
+    },
+    "#4ab866": {
+      "count": 3,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/components/style.css"
+      ]
+    },
+    "#32373c": {
+      "count": 2,
+      "sources": [
+        "https://nativetrailshome.com/"
+      ]
+    },
+    "#cf2e2e": {
+      "count": 2,
+      "sources": [
+        "https://nativetrailshome.com/"
+      ]
+    },
+    "#fcb900": {
+      "count": 2,
+      "sources": [
+        "https://nativetrailshome.com/"
+      ]
+    },
+    "#00d084": {
+      "count": 2,
+      "sources": [
+        "https://nativetrailshome.com/",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css"
+      ]
+    },
+    "#9b51e0": {
+      "count": 2,
+      "sources": [
+        "https://nativetrailshome.com/"
+      ]
+    },
+    "#8c8c8c": {
+      "count": 2,
+      "sources": [
+        "https://nativetrailshome.com/"
+      ]
+    },
+    "#222222": {
+      "count": 2,
+      "sources": [
+        "https://nativetrailshome.com/"
+      ]
+    },
+    "#020381": {
+      "count": 2,
+      "sources": [
+        "https://nativetrailshome.com/",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css"
+      ]
+    },
+    "#2874fc": {
+      "count": 2,
+      "sources": [
+        "https://nativetrailshome.com/",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css"
+      ]
+    },
+    "#000000b3": {
+      "count": 2,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css"
+      ]
+    },
+    "#444444": {
+      "count": 2,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css"
+      ]
+    },
+    "#ff9900": {
+      "count": 2,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css"
+      ]
+    },
+    "#1ea0c3": {
+      "count": 2,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css"
+      ]
+    },
+    "#0757fe": {
+      "count": 2,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css"
+      ]
+    },
+    "#0a7aff": {
+      "count": 2,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css"
+      ]
+    },
+    "#1e1f26": {
+      "count": 2,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css"
+      ]
+    },
+    "#02e49b": {
+      "count": 2,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css"
+      ]
+    },
+    "#e94c89": {
+      "count": 2,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css"
+      ]
+    },
+    "#4280ff": {
+      "count": 2,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css"
+      ]
+    },
+    "#f45800": {
+      "count": 2,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css"
+      ]
+    },
+    "#1778f2": {
+      "count": 2,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css"
+      ]
+    },
+    "#0461dd": {
+      "count": 2,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css"
+      ]
+    },
+    "#e65678": {
+      "count": 2,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css"
+      ]
+    },
+    "#24292d": {
+      "count": 2,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css"
+      ]
+    },
+    "#382110": {
+      "count": 2,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css"
+      ]
+    },
+    "#ea4434": {
+      "count": 2,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css"
+      ]
+    },
+    "#1d4fc4": {
+      "count": 2,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css"
+      ]
+    },
+    "#f00075": {
+      "count": 2,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css"
+      ]
+    },
+    "#e21b24": {
+      "count": 2,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css"
+      ]
+    },
+    "#0d66c2": {
+      "count": 2,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css"
+      ]
+    },
+    "#3288d4": {
+      "count": 2,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css"
+      ]
+    },
+    "#f6405f": {
+      "count": 2,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css"
+      ]
+    },
+    "#e60122": {
+      "count": 2,
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+      "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+    ],
+    "Arial": [
+      "https://nativetrailshome.com/"
+    ],
+    "BlinkMacSystemFont": [
+      "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+      "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+    ],
+    "Cantarell": [
+      "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+      "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+    ],
+    "Consolas": [
+      "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+    ],
+    "Helvetica Neue": [
+      "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+      "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+    ],
+    "Lato": [
+      "https://nativetrailshome.com/"
+    ],
+    "Menlo": [
+      "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+    ],
+    "Montserrat": [
+      "https://nativetrailshome.com/"
+    ],
+    "Open Sans": [
+      "https://nativetrailshome.com/"
+    ],
+    "Oxygen-Sans": [
+      "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+      "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+    ],
+    "Roboto": [
+      "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+      "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+    ],
+    "Sans-Serif": [
+      "https://nativetrailshome.com/"
+    ],
+    "Segoe UI": [
+      "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+      "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+    ],
+    "Tahoma": [
+      "https://nativetrailshome.com/"
+    ],
+    "Times New Roman": [
+      "https://nativetrailshome.com/"
+    ],
+    "Ubuntu": [
+      "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+      "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+    ],
+    "inherit !important": [
+      "https://nativetrailshome.com/"
+    ],
+    "monaco": [
+      "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+    ],
+    "monospace": [
+      "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+    ],
+    "sans-serif": [
+      "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+      "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+    ],
+    "serif": [
+      "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://nativetrailshome.com/",
+      "selector": ".wp-block-button__link",
+      "declarations": "color: #ffffff;\n\tbackground-color: #32373c;\n\tborder-radius: 9999px; \n\n\t\n\tbox-shadow: none;\n\ttext-decoration: none;\n\n\t\n\tpadding: calc(0.667em + 2px) calc(1.333em + 2px);\n\n\tfont-size: 1.125em;"
+    },
+    {
+      "source": "https://nativetrailshome.com/",
+      "selector": ".wp-block-file__button",
+      "declarations": "background: #32373c;\n\tcolor: #ffffff;\n\ttext-decoration: none;"
+    },
+    {
+      "source": "https://nativetrailshome.com/",
+      "selector": ":root",
+      "declarations": "--wvs-tick:url(\"data:image/svg+xml;utf8,%3Csvg filter='drop-shadow(0px 0px 2px rgb(0 0 0 / .8))' xmlns='http://www.w3.org/2000/svg'  viewBox='0 0 30 30'%3E%3Cpath fill='none' stroke='%23ffffff' stroke-linecap='round' stroke-linejoin='round' stroke-width='4' d='M4 16L11 23 27 7'/%3E%3C/svg%3E\");\n\n--wvs-cross:url(\"data:image/svg+xml;utf8,%3Csvg filter='drop-shadow(0px 0px 5px rgb(255 255 255 / .6))' xmlns='http://www.w3.org/2000/svg' width='72px' height='72px' viewBox='0 0 24 24'%3E%3Cpath fill='none' stroke='%23ff0000' stroke-linecap='round' stroke-width='0.6' d='M5 5L19 19M19 5L5 19'/%3E%3C/svg%3E\");\n--wvs-single-product-item-width:85px;\n--wvs-single-product-item-height:85px;\n--wvs-single-pr"
+    },
+    {
+      "source": "https://nativetrailshome.com/",
+      "selector": ".cn-button.bootstrap",
+      "declarations": "background-color: white;\n    background-image: none;\n    color: black;"
+    },
+    {
+      "source": "https://nativetrailshome.com/",
+      "selector": "#footer .signup-info .btn",
+      "declarations": "font-size: 24px;\n\tcolor: #ffffff;\n\tborder: 1px solid;"
+    },
+    {
+      "source": "https://nativetrailshome.com/",
+      "selector": ".searchwp-result-product .swp-result-link:hover",
+      "declarations": "background-color: #f9f9f9;"
+    },
+    {
+      "source": "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+      "selector": ":root :where(.wp-block-button .wp-block-button__link.is-style-outline:not(.has-text-color)),:root :where(.wp-block-button.is-style-outline>.wp-block-button__lin",
+      "declarations": "color:currentColor;"
+    },
+    {
+      "source": "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+      "selector": ":root :where(.wp-block-button .wp-block-button__link.is-style-outline:not(.has-background)),:root :where(.wp-block-button.is-style-outline>.wp-block-button__lin",
+      "declarations": "background-color:initial;\n  background-image:none;"
+    },
+    {
+      "source": "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+      "selector": "wp-block-cover h4:not(.has-text-color)),:root :where(.wp-block-cover h5:not(.has-text-color)),:root :where(.wp-block-cover h6:not(.has-text-color)),:root :where",
+      "declarations": "color:inherit;"
+    },
+    {
+      "source": "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+      "selector": ":where(.wp-block-file__button):is(a):active,:where(.wp-block-file__button):is(a):focus,:where(.wp-block-file__button):is(a):hover,:where(.wp-block-file__button)",
+      "declarations": "box-shadow:none;\n  color:#fff;\n  opacity:.85;\n  text-decoration:none;"
+    },
+    {
+      "source": "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+      "selector": ".wp-lightbox-container button",
+      "declarations": "align-items:center;\n  -webkit-backdrop-filter:blur(16px) saturate(180%);\n          backdrop-filter:blur(16px) saturate(180%);\n  background-color:#5a5a5a40;\n  border:none;\n  border-radius:4px;\n  cursor:zoom-in;\n  display:flex;\n  height:20px;\n  justify-content:center;\n  opacity:0;\n  padding:0;\n  position:absolute;\n  right:16px;\n  text-align:center;\n  top:16px;\n  transition:opacity .2s ease;\n  width:20px;\n  z-index:100;"
+    },
+    {
+      "source": "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+      "selector": ".wp-lightbox-container button:focus,.wp-lightbox-container button:hover,.wp-lightbox-container button:not(:hover):not(:active):not(.has-background)",
+      "declarations": "background-color:#5a5a5a40;\n  border:none;"
+    },
+    {
+      "source": "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+      "selector": "button.wp-block-navigation-item__content",
+      "declarations": "background-color:initial;\n  border:none;\n  color:currentColor;\n  font-family:inherit;\n  font-size:inherit;\n  font-style:inherit;\n  font-weight:inherit;\n  letter-spacing:inherit;\n  line-height:inherit;\n  text-align:left;\n  text-transform:inherit;"
+    },
+    {
+      "source": "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+      "selector": ":root :where(.wp-block-separator.is-style-dots):before",
+      "declarations": "color:currentColor;\n  content:\"···\";\n  font-family:serif;\n  font-size:1.5em;\n  letter-spacing:2em;\n  padding-left:2em;"
+    },
+    {
+      "source": "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+      "selector": ":root :where(.wp-block-site-title a)",
+      "declarations": "color:inherit;"
+    },
+    {
+      "source": "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+      "selector": ".wp-block-table.is-style-stripes tbody tr:nth-child(odd)",
+      "declarations": "background-color:#f0f0f0;"
+    },
+    {
+      "source": "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+      "selector": ".wp-block-table.is-style-stripes.has-subtle-light-gray-background-color tbody tr:nth-child(odd)",
+      "declarations": "background-color:#f3f4f5;"
+    },
+    {
+      "source": "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+      "selector": ".wp-block-table.is-style-stripes.has-subtle-pale-green-background-color tbody tr:nth-child(odd)",
+      "declarations": "background-color:#e9fbe5;"
+    },
+    {
+      "source": "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+      "selector": ".wp-block-table.is-style-stripes.has-subtle-pale-blue-background-color tbody tr:nth-child(odd)",
+      "declarations": "background-color:#e7f5fe;"
+    },
+    {
+      "source": "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+      "selector": ".wp-block-table.is-style-stripes.has-subtle-pale-pink-background-color tbody tr:nth-child(odd)",
+      "declarations": "background-color:#fcf0ef;"
+    },
+    {
+      "source": "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+      "selector": ":root",
+      "declarations": "--wp--preset--font-size--normal:16px;\n  --wp--preset--font-size--huge:42px;"
+    },
+    {
+      "source": "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+      "selector": ":root .has-very-light-gray-background-color",
+      "declarations": "background-color:#eee;"
+    },
+    {
+      "source": "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+      "selector": ":root .has-very-dark-gray-background-color",
+      "declarations": "background-color:#313131;"
+    },
+    {
+      "source": "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+      "selector": ":root .has-very-light-gray-color",
+      "declarations": "color:#eee;"
+    },
+    {
+      "source": "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+      "selector": ":root .has-very-dark-gray-color",
+      "declarations": "color:#313131;"
+    },
+    {
+      "source": "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+      "selector": "@charset \"UTF-8\";\n:root",
+      "declarations": "--wp-admin-theme-color:#3858e9;\n  --wp-admin-theme-color--rgb:56, 88, 233;\n  --wp-admin-theme-color-darker-10:#2145e6;\n  --wp-admin-theme-color-darker-10--rgb:33, 69, 230;\n  --wp-admin-theme-color-darker-20:#183ad6;\n  --wp-admin-theme-color-darker-20--rgb:24, 58, 214;\n  --wp-admin-border-width-focus:2px;"
+    },
+    {
+      "source": "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+      "selector": ":root",
+      "declarations": "--wp-admin-border-width-focus:1.5px;"
+    },
+    {
+      "source": "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+      "selector": ".components-autocomplete__result.components-button.is-selected,.components-autocomplete__result.components-button:not(:disabled,[aria-disabled=true]):active",
+      "declarations": "background:var(--wp-components-color-accent, var(--wp-admin-theme-color, #3858e9));\n  color:#fff;"
+    },
+    {
+      "source": "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+      "selector": ".components-button-group .components-button",
+      "declarations": "border-radius:0;\n  box-shadow:inset 0 0 0 1px #1e1e1e;\n  color:#1e1e1e;\n  display:inline-flex;"
+    },
+    {
+      "source": "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+      "selector": ".components-button",
+      "declarations": "align-items:center;\n  -webkit-appearance:none;\n  background:none;\n  border:0;\n  border-radius:2px;\n  box-sizing:border-box;\n  color:var(--wp-components-color-foreground, #1e1e1e);\n  cursor:pointer;\n  display:inline-flex;\n  font-family:inherit;\n  font-size:13px;\n  font-weight:400;\n  height:36px;\n  margin:0;\n  padding:6px 12px;\n  text-decoration:none;\n  transition:box-shadow .1s linear;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Native Trails | Artisan Crafted Luxury for the Kitchen and Bath",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nativetrailshome.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nativetrailshome.com/",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/preferences/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nativetrailshome.com/",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nativetrailshome.com/",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/preferences/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nativetrailshome.com/",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nativetrailshome.com/",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+      ]
+    },
+    "colors.link": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nativetrailshome.com/wp-includes/css/dist/block-library/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/components/style.css",
+        "https://nativetrailshome.com/wp-includes/css/dist/block-editor/style.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.finish-swatch-selector": {
+      "status": "inferred"
+    }
+  }
+}

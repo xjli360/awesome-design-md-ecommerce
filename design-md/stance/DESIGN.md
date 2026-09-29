@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Stance
-description: A performance-and-culture brand where the sock becomes a canvas, Stance operates on a high-contrast palette anchored by the electric cyan of #7fddff — a color that reads as both a tech-company accent and a skate-park flash, not a team-sport primary. That cyan, alongside the deeper #1ba3d5 and the near-black #1c1c1c, creates a system that feels more like a streetwear label than a uniform supplier. The typography is the giveaway: GT Pressura Extended and GT Pressura Mono are industrial, European, and deliberately cold — a sans-serif with extended proportions that forces text to breathe, and a monospaced sibling that shows up in product specs and size charts like a factory stamp. The brand's secondary palette introduces a surprising olive (#5a6616) and lime (#b6cf2d) that appear in seasonal collections and performance graphics, while the red #c80003 is reserved for sale markers and urgency badges. Rounded corners are minimal — the product card uses `{rounded.sm}` (8px) but the hero and navigation stay at `{rounded.none}`; this is a brand that prefers straight edges and sharp transitions. The canvas is #ffffff, but the surface-soft is #dedede and the hairline is #cfcfcf, creating a slightly cooler, more industrial white environment than a warm consumer brand. Stance's design system trusts its product photography to carry the emotional weight — the UI steps back, uses thin hairlines, generous `{spacing.xl}` between sections, and lets the socks, underwear, and apparel do the talking. The "Feel good, do good" tagline is the only soft note in an otherwise rigid, engineered system.
+name: "Stance"
+source_url: "https://www.stance.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A performance-and-culture brand where the sock becomes a canvas, Stance operates on a high-contrast palette anchored by the electric cyan of #7fddff — a color that reads as both a tech-company accent and a skate-park flash, not a team-sport primary. That cyan, alongside the deeper #1ba3d5 and the near-black #1c1c1c, creates a system that feels more like a streetwear label than a uniform supplier. The typography is the giveaway: GT Pressura Extended and GT Pressura Mono are industrial, European, and deliberately cold — a sans-serif with extended proportions that forces text to breathe, and a monospaced sibling that shows up in product specs and size charts like a factory stamp. The brand's secondary palette introduces a surprising olive (#5a6616) and lime (#b6cf2d) that appear in seasonal collections and performance graphics, while the red #c80003 is reserved for sale markers and urgency badges. Rounded corners are minimal — the product card uses `{rounded.sm}` (8px) but the hero and navigation stay at `{rounded.none}`; this is a brand that prefers straight edges and sharp transitions. The canvas is #ffffff, but the surface-soft is #dedede and the hairline is #cfcfcf, creating a slightly cooler, more industrial white environment than a warm consumer brand. Stance's design system trusts its product photography to carry the emotional weight — the UI steps back, uses thin hairlines, generous `{spacing.xl}` between sections, and lets the socks, underwear, and apparel do the talking. The "Feel good, do good" tagline is the only soft note in an otherwise rigid, engineered system.
 
 colors:
   primary: "#7fddff"
@@ -397,6 +401,8 @@ components:
 - Hero images may crop or stack vertically on mobile rather than maintaining a full-bleed horizontal layout.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states**: Extracted only for button-primary (active color) and footer links (color change). Secondary button hover, ghost button hover, and card hover states (if any) were not reliably extracted from the live site.
 - **Error styling**: Only the text-input error border color (#c80003) was inferred. Error message typography, iconography, and form-level error patterns were not observed.

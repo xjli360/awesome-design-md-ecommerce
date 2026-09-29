@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Technogym
-description: A high-voltage fitness brand that runs on a jolt of #f4e116, a near-neon yellow that appears nowhere in nature but everywhere on the site — primary CTAs, navigation highlights, product badges, and the signature "Biocircuit" equipment rings. This is not a muted, aspirational wellness palette; it's a gym-floor attention system, pairing that electric yellow with a deep navy #192f5d for trust and a near-black #1a1918 for body text. The brand's visual language is unapologetically engineered: every component has a hard, precise edge — {rounded.none} on buttons, cards, and inputs — communicating industrial-grade performance rather than soft hospitality. Product imagery dominates, with equipment photographed against stark white or black backgrounds at extreme angles, emphasizing carbon-fiber textures and hydraulic lines. Typography runs a clean sans-serif at moderate weights, with display sizes at 24–32px and body copy at 14–16px, never competing with the photography. The footer is a dense grid of links in {colors.muted} #858580, while the header carries a sticky top nav with a yellow-accented "Shop" dropdown and a search icon that opens a full-screen overlay. Badges for "New," "Sale," and "Exclusive" appear in #f4e116 on dark backgrounds, creating a retail urgency that feels more like a premium automotive showroom than a fitness blog. The overall impression is of a brand that sells precision machinery — because it does.
+name: "Technogym"
+source_url: "https://www.technogym.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A high-voltage fitness brand that runs on a jolt of #f4e116, a near-neon yellow that appears nowhere in nature but everywhere on the site — primary CTAs, navigation highlights, product badges, and the signature "Biocircuit" equipment rings. This is not a muted, aspirational wellness palette; it's a gym-floor attention system, pairing that electric yellow with a deep navy #192f5d for trust and a near-black #1a1918 for body text. The brand's visual language is unapologetically engineered: every component has a hard, precise edge — {rounded.none} on buttons, cards, and inputs — communicating industrial-grade performance rather than soft hospitality. Product imagery dominates, with equipment photographed against stark white or black backgrounds at extreme angles, emphasizing carbon-fiber textures and hydraulic lines. Typography runs a clean sans-serif at moderate weights, with display sizes at 24–32px and body copy at 14–16px, never competing with the photography. The footer is a dense grid of links in {colors.muted} #858580, while the header carries a sticky top nav with a yellow-accented "Shop" dropdown and a search icon that opens a full-screen overlay. Badges for "New," "Sale," and "Exclusive" appear in #f4e116 on dark backgrounds, creating a retail urgency that feels more like a premium automotive showroom than a fitness blog. The overall impression is of a brand that sells precision machinery — because it does.
 
 colors:
   primary: "#f4e116"
@@ -584,6 +588,8 @@ components:
 - Breadcrumbs truncate on mobile, showing only the current page and a "Back" link
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No font-family declarations were extracted from the live site; the typography block uses a speculative "Technogym Sans" name. The actual brand font may be a custom typeface, "Technogym" branded font, or a standard sans-serif like Helvetica Neue or Arial. Font sizes and weights are estimated from visual analysis of the site.
 - Hover and active states for many components (dropdown items, footer links, social icons) are inferred from common patterns; actual implementations may differ.

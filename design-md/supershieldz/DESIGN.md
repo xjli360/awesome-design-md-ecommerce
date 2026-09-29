@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Supershieldz
-description: A deep violet #221155 — the color of a late-summer Concord grape — is the single brand voltage that runs through every button, badge, and product highlight on Supershieldz. It appears against a stark white canvas (#ffffff) with almost no intermediary grays, creating a high-contrast, no-nonsense visual system that mirrors the brand's value proposition: screen protectors that are cheap, effective, and ship fast. The typography is a single-weight system built on system sans-serif stacks, with no custom font investment — the brand trusts its product photography and price tags to do the selling. Buttons are pill-shaped ({rounded.full}) and generously padded, making the CTA to "Add to Cart" feel like the easiest tap on the page. Product cards use a soft {rounded.md} corner and a clean white surface-card background, letting the protector's own packaging and the phone model it fits dominate the visual field. There is no hero imagery, no lifestyle photography — just rows of SKUs, each with a "Compatible With" label, a price in bold, and a star rating. The navigation is a thin, utilitarian strip: logo left, search bar center, cart icon right. The brand's design language is one of radical simplicity, where the deep violet acts as a signature stamp rather than a decorative accent.
+name: "Supershieldz"
+source_url: "https://www.supershieldz.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep violet #221155 — the color of a late-summer Concord grape — is the single brand voltage that runs through every button, badge, and product highlight on Supershieldz. It appears against a stark white canvas (#ffffff) with almost no intermediary grays, creating a high-contrast, no-nonsense visual system that mirrors the brand's value proposition: screen protectors that are cheap, effective, and ship fast. The typography is a single-weight system built on system sans-serif stacks, with no custom font investment — the brand trusts its product photography and price tags to do the selling. Buttons are pill-shaped ({rounded.full}) and generously padded, making the CTA to "Add to Cart" feel like the easiest tap on the page. Product cards use a soft {rounded.md} corner and a clean white surface-card background, letting the protector's own packaging and the phone model it fits dominate the visual field. There is no hero imagery, no lifestyle photography — just rows of SKUs, each with a "Compatible With" label, a price in bold, and a star rating. The navigation is a thin, utilitarian strip: logo left, search bar center, cart icon right. The brand's design language is one of radical simplicity, where the deep violet acts as a signature stamp rather than a decorative accent.
 
 colors:
   primary: "#221155"
@@ -250,6 +254,8 @@ components:
 - Footer columns stack vertically below 744px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one hex color (#221155) was extracted from the live site — the full palette above is inferred from common e-commerce patterns and may not match the actual site. The brand's true secondary, accent, and surface colors could not be confirmed.
 - No font-family declarations were found on the live site — the typography stack uses system fonts as a safe default. The brand may use a custom web font that was not detected.

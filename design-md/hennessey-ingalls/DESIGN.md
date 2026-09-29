@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Hennessey + Ingalls
-description: A deep-blue (#003399) storefront that reads as a scholar’s library rendered for the web — the primary color is a confident, almost academic navy that anchors the header, primary buttons, and footer, while a warm maroon (#5f3f3f) and a muted teal (#2f4550) layer in as secondary accents that suggest leather bindings and aged paper. The palette is deliberately restrained: a clean white canvas (#ffffff) supports body text in a dark charcoal (#2b2b2b), with a soft gray (#c5c5c5) for hairline borders and a lighter gray (#e9e9e9) for subtle surface distinctions. A single bright accent — a golden yellow (#dad55e) — appears sparingly, perhaps on sale badges or callout elements, providing the only jolt of warmth against the otherwise cool, serious palette. Typography leans on Bitter (a slab serif with a literary feel) for display headings, paired with Figtree (a clean, modern sans-serif) for body text and navigation, creating a tension between tradition and readability. Buttons are rectangular with minimal rounding ({rounded.sm}), reinforcing the brand’s no-nonsense, intellectual character. The overall mood is one of quiet authority: this is a place for browsing rare and used books, not for flashy promotions. The site trusts its content — book covers, author names, and category headers — over decorative flourishes, using generous whitespace and a consistent grid to let the inventory speak.
+name: "Hennessey + Ingalls"
+source_url: "https://www.hennesseyingalls.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep-blue (#003399) storefront that reads as a scholar’s library rendered for the web — the primary color is a confident, almost academic navy that anchors the header, primary buttons, and footer, while a warm maroon (#5f3f3f) and a muted teal (#2f4550) layer in as secondary accents that suggest leather bindings and aged paper. The palette is deliberately restrained: a clean white canvas (#ffffff) supports body text in a dark charcoal (#2b2b2b), with a soft gray (#c5c5c5) for hairline borders and a lighter gray (#e9e9e9) for subtle surface distinctions. A single bright accent — a golden yellow (#dad55e) — appears sparingly, perhaps on sale badges or callout elements, providing the only jolt of warmth against the otherwise cool, serious palette. Typography leans on Bitter (a slab serif with a literary feel) for display headings, paired with Figtree (a clean, modern sans-serif) for body text and navigation, creating a tension between tradition and readability. Buttons are rectangular with minimal rounding ({rounded.sm}), reinforcing the brand’s no-nonsense, intellectual character. The overall mood is one of quiet authority: this is a place for browsing rare and used books, not for flashy promotions. The site trusts its content — book covers, author names, and category headers — over decorative flourishes, using generous whitespace and a consistent grid to let the inventory speak.
 
 colors:
   primary: "#003399"
@@ -365,6 +369,8 @@ components:
 - Hero sections reduce padding and may hide secondary imagery on mobile, keeping only the headline, subtitle, and search bar.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for buttons, cards, and links are inferred from common patterns; exact transition durations and easing curves were not extracted from the live site.
 - Error styling for form validation (error messages, iconography, border colors) is based on the extracted {colors.error} (#c84a41) but the specific implementation (inline vs. tooltip, icon usage) is unknown.

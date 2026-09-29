@@ -1,0 +1,825 @@
+{
+  "source_url": "https://mantasleep.com",
+  "final_url": "https://mantasleep.com/",
+  "captured_at": "2026-09-28T10:08:55.108525+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://mantasleep.com",
+      "final_url": "https://mantasleep.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "7f7828f4820cfbcce1bdd544c1a5a75e7de280155eadf697a57934ccdf7e099f",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css",
+      "final_url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "ff8510712984ac3ccf08c022b8e8963d556c34ddacdd963f36c99735c8f42057",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/solid.min.css",
+      "final_url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/solid.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "99130a05d6eaa1fc6478e285c6ed5c0fe6b10c9cce7aedfb1fb384acf4b3360c",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/brands.min.css",
+      "final_url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/brands.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "a662e2f4a7db933ef27ec815feb320d8448cfff96df6586baf1509702651e04c",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://mantasleep.com/cdn/shop/t/341/assets/theme.css?v=149007418582279685081790161050",
+      "final_url": "https://mantasleep.com/cdn/shop/t/341/assets/theme.css?v=149007418582279685081790161050",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d85c41367b69102fbe44de02a4740fae2cdbc93104a357490cdfa012a4e15dd2",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://mantasleep.com/cdn/shop/t/341/assets/typography.css?v=114827335572226694331790161051",
+      "final_url": "https://mantasleep.com/cdn/shop/t/341/assets/typography.css?v=114827335572226694331790161051",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "36f209b7fb34ebc8a5f127b9e5b3b00a26d3f3c0cd5eef00d4a1f8b2df4b3c13",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 97,
+      "sources": [
+        "https://mantasleep.com/",
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css",
+        "https://mantasleep.com/cdn/shop/t/341/assets/theme.css?v=149007418582279685081790161050"
+      ]
+    },
+    "#161616": {
+      "count": 52,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#000000": {
+      "count": 32,
+      "sources": [
+        "https://mantasleep.com/",
+        "https://mantasleep.com/cdn/shop/t/341/assets/theme.css?v=149007418582279685081790161050"
+      ]
+    },
+    "#ff4551": {
+      "count": 24,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#111111": {
+      "count": 12,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#f7f5f0": {
+      "count": 11,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#d02e2e": {
+      "count": 10,
+      "sources": [
+        "https://mantasleep.com/cdn/shop/t/341/assets/theme.css?v=149007418582279685081790161050"
+      ]
+    },
+    "#b6b6b6": {
+      "count": 9,
+      "sources": [
+        "https://mantasleep.com/cdn/shop/t/341/assets/theme.css?v=149007418582279685081790161050"
+      ]
+    },
+    "#949494": {
+      "count": 8,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#ff5859": {
+      "count": 8,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#bbdb62": {
+      "count": 6,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#ff4451": {
+      "count": 6,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#0000001a": {
+      "count": 6,
+      "sources": [
+        "https://mantasleep.com/cdn/shop/t/341/assets/theme.css?v=149007418582279685081790161050"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 5,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#282828": {
+      "count": 5,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#e1e1e1": {
+      "count": 5,
+      "sources": [
+        "https://mantasleep.com/",
+        "https://mantasleep.com/cdn/shop/t/341/assets/theme.css?v=149007418582279685081790161050"
+      ]
+    },
+    "#cccccc": {
+      "count": 5,
+      "sources": [
+        "https://mantasleep.com/cdn/shop/t/341/assets/theme.css?v=149007418582279685081790161050"
+      ]
+    },
+    "#00000017": {
+      "count": 5,
+      "sources": [
+        "https://mantasleep.com/cdn/shop/t/341/assets/theme.css?v=149007418582279685081790161050"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 5,
+      "sources": [
+        "https://mantasleep.com/cdn/shop/t/341/assets/theme.css?v=149007418582279685081790161050"
+      ]
+    },
+    "#4d8587": {
+      "count": 4,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#090909": {
+      "count": 4,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#dad8d2": {
+      "count": 4,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#eeeadf": {
+      "count": 4,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 4,
+      "sources": [
+        "https://mantasleep.com/",
+        "https://mantasleep.com/cdn/shop/t/341/assets/theme.css?v=149007418582279685081790161050"
+      ]
+    },
+    "#56ad6a": {
+      "count": 4,
+      "sources": [
+        "https://mantasleep.com/cdn/shop/t/341/assets/theme.css?v=149007418582279685081790161050"
+      ]
+    },
+    "#4d4d4d": {
+      "count": 3,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#fafafa": {
+      "count": 3,
+      "sources": [
+        "https://mantasleep.com/",
+        "https://mantasleep.com/cdn/shop/t/341/assets/theme.css?v=149007418582279685081790161050"
+      ]
+    },
+    "#272d45": {
+      "count": 3,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 3,
+      "sources": [
+        "https://mantasleep.com/cdn/shop/t/341/assets/theme.css?v=149007418582279685081790161050"
+      ]
+    },
+    "#999999": {
+      "count": 3,
+      "sources": [
+        "https://mantasleep.com/cdn/shop/t/341/assets/theme.css?v=149007418582279685081790161050"
+      ]
+    },
+    "#fff6f6": {
+      "count": 3,
+      "sources": [
+        "https://mantasleep.com/cdn/shop/t/341/assets/theme.css?v=149007418582279685081790161050"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 2,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#2f2f2f": {
+      "count": 2,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#6b6b6b": {
+      "count": 2,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#f0ece3": {
+      "count": 2,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#f3f1e9": {
+      "count": 2,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#b8b8b8": {
+      "count": 2,
+      "sources": [
+        "https://mantasleep.com/",
+        "https://mantasleep.com/cdn/shop/t/341/assets/theme.css?v=149007418582279685081790161050"
+      ]
+    },
+    "#0f0f0f": {
+      "count": 2,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#e8e8e1": {
+      "count": 2,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#1c1d1d": {
+      "count": 2,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#676986": {
+      "count": 2,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#f4f4f6": {
+      "count": 2,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://mantasleep.com/cdn/shop/t/341/assets/theme.css?v=149007418582279685081790161050"
+      ]
+    },
+    "#333333": {
+      "count": 2,
+      "sources": [
+        "https://mantasleep.com/cdn/shop/t/341/assets/theme.css?v=149007418582279685081790161050"
+      ]
+    },
+    "#ff8b8c": {
+      "count": 1,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#ff3f40": {
+      "count": 1,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#b5b1a5": {
+      "count": 1,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#ff0c0d": {
+      "count": 1,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#2d2d2d": {
+      "count": 1,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#0c0c0c": {
+      "count": 1,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#2b2b2b": {
+      "count": 1,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#040404": {
+      "count": 1,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#ff4f33": {
+      "count": 1,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#c20000": {
+      "count": 1,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 1,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#d0d0d0": {
+      "count": 1,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#9a9db1": {
+      "count": 1,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#d3d4dd": {
+      "count": 1,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "#dfdfdf": {
+      "count": 1,
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "Consolas": [
+      "https://mantasleep.com/cdn/shop/t/341/assets/theme.css?v=149007418582279685081790161050"
+    ],
+    "Font Awesome 5 Brands": [
+      "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"
+    ],
+    "Font Awesome 5 Free": [
+      "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css",
+      "https://mantasleep.com/cdn/shop/t/341/assets/typography.css?v=114827335572226694331790161051"
+    ],
+    "Font Awesome 6 Brands": [
+      "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css",
+      "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/brands.min.css"
+    ],
+    "Font Awesome 6 Free": [
+      "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css",
+      "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/solid.min.css"
+    ],
+    "FontAwesome": [
+      "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css"
+    ],
+    "Montserrat": [
+      "https://mantasleep.com/"
+    ],
+    "Poppins": [
+      "https://mantasleep.com/"
+    ],
+    "monospace": [
+      "https://mantasleep.com/cdn/shop/t/341/assets/theme.css?v=149007418582279685081790161050"
+    ],
+    "object-fit: cover": [
+      "https://mantasleep.com/cdn/shop/t/341/assets/theme.css?v=149007418582279685081790161050"
+    ],
+    "oke-widget-icons": [
+      "https://mantasleep.com/"
+    ],
+    "oke-widget-icons!important": [
+      "https://mantasleep.com/"
+    ],
+    "sans-serif": [
+      "https://mantasleep.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://mantasleep.com/",
+      "selector": ":root",
+      "declarations": "--color-overlay: rgba(22, 22, 22, 0.35);"
+    },
+    {
+      "source": "https://mantasleep.com/",
+      "selector": ":root[data-header-color-scheme=\"scheme-1\"]",
+      "declarations": "--header-color-background: #ffffff;\n      --header-color-text: #161616;\n      --header-color-text-alpha-01: rgba(22, 22, 22, 0.1);\n      --header-color-announcement: #ff4551;\n      --header-color-announcement-text: #ffffff;\n      --header-color-border: #949494;\n      --header-color-button: #161616;\n      --header-color-button-text: #ffffff;\n      --header-color-link: #161616;"
+    },
+    {
+      "source": "https://mantasleep.com/",
+      "selector": ":root[data-drawer-color-scheme=\"scheme-1\"]",
+      "declarations": "--drawer-color-background: #ffffff;\n      --drawer-color-border: #949494;\n      --drawer-color-text: #161616;\n      --drawer-color-text-dark: #000000;\n      --drawer-color-button: #161616;\n      --drawer-color-button-text: #ffffff;\n      --drawer-color-dim: #f2f2f2;"
+    },
+    {
+      "source": "https://mantasleep.com/",
+      "selector": ":root[data-header-color-scheme=\"scheme-2\"]",
+      "declarations": "--header-color-background: #f7f5f0;\n      --header-color-text: #161616;\n      --header-color-text-alpha-01: rgba(22, 22, 22, 0.1);\n      --header-color-announcement: #ff4551;\n      --header-color-announcement-text: #ffffff;\n      --header-color-border: #dad8d2;\n      --header-color-button: #ff5859;\n      --header-color-button-text: #ffffff;\n      --header-color-link: #ff5859;"
+    },
+    {
+      "source": "https://mantasleep.com/",
+      "selector": ":root[data-drawer-color-scheme=\"scheme-2\"]",
+      "declarations": "--drawer-color-background: #f7f5f0;\n      --drawer-color-border: #dad8d2;\n      --drawer-color-text: #161616;\n      --drawer-color-text-dark: #000000;\n      --drawer-color-button: #ff5859;\n      --drawer-color-button-text: #ffffff;\n      --drawer-color-dim: #eeeadf;"
+    },
+    {
+      "source": "https://mantasleep.com/",
+      "selector": ":root[data-header-color-scheme=\"scheme-3\"]",
+      "declarations": "--header-color-background: #161616;\n      --header-color-text: #ffffff;\n      --header-color-text-alpha-01: rgba(255, 255, 255, 0.1);\n      --header-color-announcement: #ff4551;\n      --header-color-announcement-text: #282828;\n      --header-color-border: #e1e1e1;\n      --header-color-button: #ffffff;\n      --header-color-button-text: #282828;\n      --header-color-link: #ffffff;"
+    },
+    {
+      "source": "https://mantasleep.com/",
+      "selector": ":root[data-drawer-color-scheme=\"scheme-3\"]",
+      "declarations": "--drawer-color-background: #161616;\n      --drawer-color-border: #e1e1e1;\n      --drawer-color-text: #ffffff;\n      --drawer-color-text-dark: #d9d9d9;\n      --drawer-color-button: #ffffff;\n      --drawer-color-button-text: #282828;\n      --drawer-color-dim: #090909;"
+    },
+    {
+      "source": "https://mantasleep.com/",
+      "selector": ":root[data-header-color-scheme=\"scheme-700cebba-4bb9-49df-8638-f4d94fef187c\"]",
+      "declarations": "--header-color-background: #f7f5f0;\n      --header-color-text: #161616;\n      --header-color-text-alpha-01: rgba(22, 22, 22, 0.1);\n      --header-color-announcement: #ff4551;\n      --header-color-announcement-text: #ffffff;\n      --header-color-border: #949494;\n      --header-color-button: #161616;\n      --header-color-button-text: #ffffff;\n      --header-color-link: #161616;"
+    },
+    {
+      "source": "https://mantasleep.com/",
+      "selector": ":root[data-drawer-color-scheme=\"scheme-700cebba-4bb9-49df-8638-f4d94fef187c\"]",
+      "declarations": "--drawer-color-background: #f7f5f0;\n      --drawer-color-border: #949494;\n      --drawer-color-text: #161616;\n      --drawer-color-text-dark: #000000;\n      --drawer-color-button: #161616;\n      --drawer-color-button-text: #ffffff;\n      --drawer-color-dim: #eeeadf;"
+    },
+    {
+      "source": "https://mantasleep.com/",
+      "selector": ":root",
+      "declarations": "--font-stack-heading: 'Poppins', 'Helvetica Neue', Arial, sans-serif;\n    --font-stack-body: 'Montserrat', 'Helvetica Neue', Arial, sans-serif;\n    --font-stack-alt: 'Poppins', 'Helvetica Neue', Arial, sans-serif;"
+    },
+    {
+      "source": "https://mantasleep.com/",
+      "selector": ":root",
+      "declarations": "--element-button-font-size: max(calc(var(--typeBaseSize) - 5px), 11px);"
+    },
+    {
+      "source": "https://mantasleep.com/",
+      "selector": ".element-button[type=\"submit\"],\n        .element-button[type=\"submit\"] .element-text,\n        .element-button--shopify-payment-wrapper button",
+      "declarations": "--element-button-padding-block: 13px;\n          --element-button-padding-inline: 20px;\n          --element-button-line-height: 1.42;\n          --_font-size--body-md: var(--element-button-font-size);\n\n          line-height: 1.42 !important;"
+    },
+    {
+      "source": "https://mantasleep.com/",
+      "selector": "tion: relative;\n      max-width: 94%;\n      border-top: 1px solid var(--color-button, #111111);\n      border-bottom: 1px solid var(--color-button, #111111);\n\n  ",
+      "declarations": "content: '';\n              position: absolute;\n              display: block;\n              top: -1px;\n              bottom: -1px;\n              width: 20px;\n              transform: skewX(-12deg);\n              background-color: var(--color-button, #111111);"
+    },
+    {
+      "source": "https://mantasleep.com/",
+      "selector": ".element-button[type=\"submit\"]:before,\n            .element-button[type=\"submit\"]:after",
+      "declarations": "background-color: color-mix(in srgb,var(--_color-text) var(--_shade-background),var(--_color-background));\n              border-top: 1px solid var(--color-button, #111111);\n              border-bottom: 1px solid var(--color-button, #111111);"
+    },
+    {
+      "source": "https://mantasleep.com/",
+      "selector": "--_color-background: var(--color-button, #111111);\n\n            button:hover,\n            button:before,\n            button:after",
+      "declarations": "background-color: color-mix(in srgb,var(--_color-text) var(--_shade-background),var(--_color-background)) !important;"
+    },
+    {
+      "source": "https://mantasleep.com/",
+      "selector": ".okeReviews[data-oke-container] button,div.okeReviews button",
+      "declarations": "border-radius:0;border:0;box-shadow:none;margin:0;width:auto;min-width:auto;padding:0;background-color:transparent;min-height:auto"
+    },
+    {
+      "source": "https://mantasleep.com/",
+      "selector": "views[data-oke-container] input,.okeReviews[data-oke-container] select,.okeReviews[data-oke-container] textarea,div.okeReviews button,div.okeReviews input,div.o",
+      "declarations": "font-family:inherit;font-size:1em"
+    },
+    {
+      "source": "https://mantasleep.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button,div.okeReviews .oke-button",
+      "declarations": "display:inline-block;border-style:solid;border-color:var(--oke-button-borderColor);border-width:var(--oke-button-borderWidth);background-color:var(--oke-button-backgroundColor);line-height:1;padding:12px 24px;margin:0;border-radius:var(--oke-button-borderRadius);color:var(--oke-button-textColor);text-align:center;position:relative;font-weight:var(--oke-button-fontWeight);font-size:var(--oke-button-fontSize);font-family:var(--oke-button-fontFamily);outline:0"
+    },
+    {
+      "source": "https://mantasleep.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button.oke-is-loading:before,div.okeReviews .oke-button.oke-is-loading:before",
+      "declarations": "font-family:oke-widget-icons!important;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;content:\"\";color:undefined;font-size:12px;display:inline-block;animation:oke-spin 1s linear infinite;position:absolute;width:12px;height:12px;top:0;left:0;bottom:0;right:0;margin:auto"
+    },
+    {
+      "source": "https://mantasleep.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button.oke-is-active,div.okeReviews .oke-button.oke-is-active",
+      "declarations": "background-color:var(--oke-button-backgroundColorActive);color:var(--oke-button-textColorActive);border-color:var(--oke-button-borderColorActive)"
+    },
+    {
+      "source": "https://mantasleep.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button:not(.oke-is-loading):not(.oke-is-active):hover,div.okeReviews .oke-button:not(.oke-is-loading):not(.oke-is-active):h",
+      "declarations": "background-color:var(--oke-button-backgroundColorHover);color:var(--oke-button-textColorHover);border-color:var(--oke-button-borderColorHover);box-shadow:0 0 0 2px var(--oke-button-backgroundColorHover)"
+    },
+    {
+      "source": "https://mantasleep.com/",
+      "selector": "is-loading):not(.oke-is-active):hover:active,div.okeReviews .oke-button:not(.oke-is-loading):not(.oke-is-active):active,div.okeReviews .oke-button:not(.oke-is-l",
+      "declarations": "background-color:var(--oke-button-backgroundColorActive);color:var(--oke-button-textColorActive);border-color:var(--oke-button-borderColorActive)"
+    },
+    {
+      "source": "https://mantasleep.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-bodyText,div.okeReviews .oke-bodyText",
+      "declarations": "font-weight:var(--oke-bodyText-fontWeight);font-size:var(--oke-bodyText-fontSize);font-family:var(--oke-bodyText-fontFamily)"
+    },
+    {
+      "source": "https://mantasleep.com/",
+      "selector": "views[data-oke-container] .oke-modal .oke-reviewContent-date,div.okeReviews .oke-modal .oke-helpful,div.okeReviews .oke-modal .oke-helpful-vote-button,div.okeRe",
+      "declarations": "color:#676986"
+    },
+    {
+      "source": "https://mantasleep.com/",
+      "selector": ":root",
+      "declarations": "--oke-widget-spaceAbove:24px;--oke-widget-spaceBelow:24px;--oke-starRating-spaceAbove:0;--oke-starRating-spaceBelow:0;--oke-button-backgroundColor:#161616;--oke-button-backgroundColorHover:#ff4451;--oke-button-backgroundColorActive:#000;--oke-button-textColor:#fff;--oke-button-textColorHover:#000;--oke-button-textColorActive:#fff;--oke-button-borderColor:#161616;--oke-button-borderColorHover:#ff4451;--oke-button-borderColorActive:#000;--oke-button-borderRadius:24px;--oke-button-borderWidth:1px;--oke-button-fontWeight:700;--oke-button-fontSize:var(--oke-text-regular,14px);--oke-button-fontFamily:inherit;--oke-border-color:#d0d0d0;--oke-border-width:0;--oke-text-primaryColor:#161616;--oke-text"
+    },
+    {
+      "source": "https://mantasleep.com/",
+      "selector": ",div.okeReviews[data-oke-container] .oke-modal .oke-helpful,div.okeReviews[data-oke-container] .oke-modal .oke-helpful-vote-button,div.okeReviews[data-oke-conta",
+      "declarations": "color:var(--oke-text-primaryColor)"
+    },
+    {
+      "source": "https://mantasleep.com/",
+      "selector": ".okeReviews[data-oke-container].oke-w .oke-button,div.okeReviews .oke-button",
+      "declarations": "position:relative;overflow:hidden;transition:all .3s;font-family:Poppins,sans-serif;font-weight:700;text-transform:uppercase;letter-spacing:1px;height:44px"
+    },
+    {
+      "source": "https://mantasleep.com/",
+      "selector": "#SectionHeader-sections--19554419343513__header",
+      "declarations": "--header-padding-block: 16px;\n    --header-logo-width: 90px;"
+    },
+    {
+      "source": "https://mantasleep.com/",
+      "selector": "#SectionHeader-sections--19554419343513__header",
+      "declarations": "--header-padding-block: 16px;\n      --header-logo-width: 110px;"
+    },
+    {
+      "source": "https://mantasleep.com/",
+      "selector": "0%;\nmax-width: 100%;\nmax-width: 100%;\nmax-width: 100%;\nmax-width: 100%;\nmax-width: 100%;\nmax-width: 100%;\nmax-width: 100%;\n#FeaturedProducts-template--179693920",
+      "declarations": "padding-top: 24px;\n    padding-bottom: 24px;\n    background-color: var(--color-background);\n    color: var(--color-text);"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Manta Sleep – The World's #1 Sleep Masks and Accessories",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mantasleep.com/",
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css",
+        "https://mantasleep.com/cdn/shop/t/341/assets/theme.css?v=149007418582279685081790161050"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mantasleep.com/",
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css",
+        "https://mantasleep.com/cdn/shop/t/341/assets/theme.css?v=149007418582279685081790161050"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mantasleep.com/cdn/shop/t/341/assets/theme.css?v=149007418582279685081790161050"
+      ]
+    },
+    "colors.dark-surface": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://mantasleep.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.quiz-callout": {
+      "status": "inferred"
+    }
+  }
+}

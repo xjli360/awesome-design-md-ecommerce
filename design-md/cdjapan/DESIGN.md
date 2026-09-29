@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: CDJapan
-description: A dense, information-rich import marketplace that uses #0099cc as its primary voltage — a crisp cyan that reads as both technical and playful, appearing on every primary CTA, category header, and active navigation tab. The site carries the visual weight of a catalog from the early 2000s Japanese web: tight grids of product thumbnails, extensive metadata in {typography.caption} and {typography.body-sm}, and a deliberate use of #e82020 for sale badges and #d84000 for urgent price drops. The header stacks a global utility bar (#282828 background, white text) above a deep search bar with category dropdowns, then a horizontal nav strip of 20+ genre links — anime, J-pop, game music, DVD — each clickable and bordered by {colors.hairline}. Product cards use a clean white surface ({colors.surface-card}) with a soft shadow, a thumbnail, and a dense block of Japanese/English text: artist, title, format, release date, price, and stock status. The brand trusts typographic hierarchy over hero imagery — there is no full-bleed hero, no carousel; instead, the homepage leads with a grid of "Recommended Items" and "New Releases" in a 4-column layout. The palette leans cool and utilitarian: #5f5f5f body text, #888888 muted labels, #eeeeee and #f7f7f7 for alternating row backgrounds, and #d8d8d8 for borders and disabled states. Accent colors like #4f8300 (green "in stock" badges) and #eb3588 (pink "pre-order" badges) add semantic color without breaking the system. The overall mood is that of a well-organized specialty store — not luxurious, but trustworthy, exhaustive, and built for the collector who knows exactly what they want.
+name: "CDJapan"
+source_url: "https://www.cdjapan.co.jp"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A dense, information-rich import marketplace that uses #0099cc as its primary voltage — a crisp cyan that reads as both technical and playful, appearing on every primary CTA, category header, and active navigation tab. The site carries the visual weight of a catalog from the early 2000s Japanese web: tight grids of product thumbnails, extensive metadata in {typography.caption} and {typography.body-sm}, and a deliberate use of #e82020 for sale badges and #d84000 for urgent price drops. The header stacks a global utility bar (#282828 background, white text) above a deep search bar with category dropdowns, then a horizontal nav strip of 20+ genre links — anime, J-pop, game music, DVD — each clickable and bordered by {colors.hairline}. Product cards use a clean white surface ({colors.surface-card}) with a soft shadow, a thumbnail, and a dense block of Japanese/English text: artist, title, format, release date, price, and stock status. The brand trusts typographic hierarchy over hero imagery — there is no full-bleed hero, no carousel; instead, the homepage leads with a grid of "Recommended Items" and "New Releases" in a 4-column layout. The palette leans cool and utilitarian: #5f5f5f body text, #888888 muted labels, #eeeeee and #f7f7f7 for alternating row backgrounds, and #d8d8d8 for borders and disabled states. Accent colors like #4f8300 (green "in stock" badges) and #eb3588 (pink "pre-order" badges) add semantic color without breaking the system. The overall mood is that of a well-organized specialty store — not luxurious, but trustworthy, exhaustive, and built for the collector who knows exactly what they want.
 
 colors:
   primary: "#0099cc"
@@ -324,6 +328,8 @@ components:
 - Product detail page moves from 2-column (image + details) to single-column stack on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for product cards (shadow depth, border color) could not be reliably extracted from the live site
 - Error state styling for form inputs (red border, error message typography) not observed

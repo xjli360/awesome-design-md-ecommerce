@@ -1,0 +1,886 @@
+{
+  "source_url": "https://liqui-moly.com",
+  "final_url": "https://www.liqui-moly.com/en/us/",
+  "captured_at": "2026-09-28T09:43:05.983865+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://liqui-moly.com",
+      "final_url": "https://www.liqui-moly.com/en/us/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "44334b5a7a8aa614f145869b521a101332ec91035febc7c7c3dbcd20b332ba5f",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css",
+      "final_url": "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "fa9d004c23f8be724dd42335c35956b520f9e8c4707fe126241d3533d594f7b7",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.liqui-moly.com/static/version1790003927/base/Magento/base/default/jquery/uppy/dist/uppy-custom.min.css",
+      "final_url": "https://www.liqui-moly.com/static/version1790003927/base/Magento/base/default/jquery/uppy/dist/uppy-custom.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9940443bb8a1c3b9cc1407513037028664aa58fc4ba7eaf898621869fcc71be2",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/Magento_Theme/css/jstree_style.min.css",
+      "final_url": "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/Magento_Theme/css/jstree_style.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0e8178eefe6f1222a03aad45353d1b327e3b8418fd89783584756298310dfd73",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/Magento_Theme/css/swiper-bundle.min.css",
+      "final_url": "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/Magento_Theme/css/swiper-bundle.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "74ca6aae5468dbc924790c3b4d219a089b90a34bad53a0f7ca3a73e73b6f5ab8",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.liqui-moly.com/static/version1790003927/frontend/Magento/base/default/StripeIntegration_Payments/css/wallets.min.css",
+      "final_url": "https://www.liqui-moly.com/static/version1790003927/frontend/Magento/base/default/StripeIntegration_Payments/css/wallets.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "258c9067e2597405e1f17cd8b8a27b65b022cb166d58fa193977d3a16c960d24",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 378,
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/Magento_Theme/css/jstree_style.min.css",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/Magento_Theme/css/swiper-bundle.min.css"
+      ]
+    },
+    "#b7b7b7": {
+      "count": 248,
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#000000": {
+      "count": 152,
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/Magento_Theme/css/jstree_style.min.css",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/Magento_Theme/css/swiper-bundle.min.css"
+      ]
+    },
+    "#303030": {
+      "count": 141,
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#00519e": {
+      "count": 113,
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#e2001a": {
+      "count": 58,
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#009f10": {
+      "count": 49,
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 46,
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#d4d4d4": {
+      "count": 43,
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#212529": {
+      "count": 33,
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#ffc107": {
+      "count": 26,
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#0dcaf0": {
+      "count": 26,
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#e5f5e7": {
+      "count": 24,
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#ffe5e5": {
+      "count": 24,
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 21,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#dee2e6": {
+      "count": 18,
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#6c757d": {
+      "count": 17,
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#e5112a": {
+      "count": 16,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#e9ecef": {
+      "count": 15,
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#333333": {
+      "count": 15,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 14,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/Magento_Theme/css/jstree_style.min.css"
+      ]
+    },
+    "#666666": {
+      "count": 12,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/Magento_Theme/css/jstree_style.min.css"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 12,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 11,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#337ab7": {
+      "count": 11,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#00417e": {
+      "count": 10,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#999999": {
+      "count": 9,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/Magento_Theme/css/jstree_style.min.css"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 9,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#595959": {
+      "count": 9,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#e1e1e1": {
+      "count": 8,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#777777": {
+      "count": 8,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#3c763d": {
+      "count": 8,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#8a6d3b": {
+      "count": 8,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#0b1215": {
+      "count": 8,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#ebebeb": {
+      "count": 7,
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/Magento_Theme/css/jstree_style.min.css"
+      ]
+    },
+    "#adadad": {
+      "count": 7,
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 7,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 7,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#efefef": {
+      "count": 7,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/Magento_Theme/css/jstree_style.min.css"
+      ]
+    },
+    "#495057": {
+      "count": 6,
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 6,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/Magento_Theme/css/jstree_style.min.css"
+      ]
+    },
+    "#e3001b": {
+      "count": 6,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#dc261a": {
+      "count": 6,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#007dbd": {
+      "count": 6,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#e7f4f9": {
+      "count": 6,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/Magento_Theme/css/jstree_style.min.css"
+      ]
+    },
+    "#fcf8e3": {
+      "count": 5,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#363636": {
+      "count": 5,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#8c8c8c": {
+      "count": 5,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 5,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#e3e3e3": {
+      "count": 5,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#beebff": {
+      "count": 5,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/Magento_Theme/css/jstree_style.min.css"
+      ]
+    },
+    "#1aa928": {
+      "count": 4,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#33b240": {
+      "count": 4,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#b50015": {
+      "count": 4,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#262626": {
+      "count": 4,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 4,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#dff0d8": {
+      "count": 4,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#f6dfe1": {
+      "count": 4,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#5cb85c": {
+      "count": 4,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "#449d44": {
+      "count": 4,
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+    ],
+    "DIN Pro": [
+      "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+    ],
+    "Font Awesome\\ 5 Free": [
+      "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+    ],
+    "Glyphicons Halflings": [
+      "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+    ],
+    "Helvetica": [
+      "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+    ],
+    "Helvetica Neue": [
+      "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+    ],
+    "Magezon-Icons": [
+      "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+    ],
+    "Magezon-Icons!important": [
+      "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+    ],
+    "arial": [
+      "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+    ],
+    "blur-up: auto": [
+      "https://www.liqui-moly.com/en/us/",
+      "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+    ],
+    "sans-serif": [
+      "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+    ],
+    "swiper-icons": [
+      "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/Magento_Theme/css/swiper-bundle.min.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.liqui-moly.com/en/us/",
+      "selector": "body",
+      "declarations": "--header-height:125px;background-color:var(--bs-body-bg);color:var(--bs-body-color);font-family:var(--bs-body-font-family);font-size:var(--bs-body-font-size);font-weight:var(--bs-body-font-weight);line-height:var(--bs-body-line-height);margin:0;text-align:var(--bs-body-text-align);-webkit-text-size-adjust:100%;--scroll-bar-size:0.1px;--body-gutter-x:clamp(1rem,0.6621621622rem + (1.3513513514vw),1.5rem);--bs-gutter-x:var(--body-gutter-x);overflow-x:hidden!important"
+    },
+    {
+      "source": "https://www.liqui-moly.com/en/us/",
+      "selector": ":root",
+      "declarations": "--bs-blue:#00519e;--bs-indigo:#6610f2;--bs-purple:#6f42c1;--bs-pink:#d63384;--bs-red:#e2001a;--bs-orange:#fd7e14;--bs-yellow:#ffc107;--bs-green:#009f10;--bs-teal:#20c997;--bs-cyan:#0dcaf0;--bs-gray:#6c757d;--bs-gray-dark:#303030;--bs-gray-100:#f8f9fa;--bs-gray-200:#e9ecef;--bs-gray-300:#dee2e6;--bs-gray-400:#d4d4d4;--bs-gray-500:#b7b7b7;--bs-gray-600:#6c757d;--bs-gray-700:#495057;--bs-gray-800:#303030;--bs-gray-900:#212529;--bs-primary:#00519e;--bs-secondary:#d4d4d4;--bs-success:#009f10;--bs-progress:#009f10;--bs-info:#0dcaf0;--bs-warning:#ffc107;--bs-danger:#e2001a;--bs-light:#f6f6f6;--bs-light-gray:#b7b7b7;--bs-gray:#303030;--bs-light-green:#e5f5e7;--bs-light-red:#ffe5e5;--bs-dark:#212529;"
+    },
+    {
+      "source": "https://www.liqui-moly.com/en/us/",
+      "selector": "button,input,select",
+      "declarations": "font-family:inherit;font-size:inherit;line-height:inherit;margin:0"
+    },
+    {
+      "source": "https://www.liqui-moly.com/en/us/",
+      "selector": ".form-control::-webkit-file-upload-button",
+      "declarations": "margin:-.5rem -.75rem;padding:.5rem .75rem;-webkit-margin-end:.75rem;background-color:#e9ecef;border:0 solid;border-color:inherit;border-inline-end-width:1px;border-radius:0;color:#303030;margin-inline-end:.75rem"
+    },
+    {
+      "source": "https://www.liqui-moly.com/en/us/",
+      "selector": ".form-select,.oww-dropdown .oww-dropdown--button",
+      "declarations": "display:block;width:100%;-moz-padding-start:calc(.75rem - 3px);-webkit-appearance:none;-moz-appearance:none;appearance:none;background-color:#fff;background-image:url(\"data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='15' fill='none'%3E%3Cpath stroke='%23303030' stroke-linecap='square' stroke-width='1.75' d='M1.25 4.5 8 11.25l6.75-6.75'/%3E%3C/svg%3E\");background-position:right .75rem top 55%;background-repeat:no-repeat;background-size:16px 15px;border:1px solid #b7b7b7;border-radius:.313rem;color:#303030;font-size:1rem;font-weight:400;line-height:1.5;padding:.5rem 2.25rem .5rem .75rem"
+    },
+    {
+      "source": "https://www.liqui-moly.com/en/us/",
+      "selector": ".form-select:-moz-focusring,.oww-dropdown .oww-dropdown--button:-moz-focusring",
+      "declarations": "color:transparent;text-shadow:0 0 0 #303030"
+    },
+    {
+      "source": "https://www.liqui-moly.com/en/us/",
+      "selector": ".btn",
+      "declarations": "background-color:transparent;border:1px solid transparent;border-radius:.313rem;color:#303030;display:inline-block;font-size:1rem;font-weight:400;line-height:1.5;padding:.5rem .75rem;text-align:center;text-decoration:none;vertical-align:middle"
+    },
+    {
+      "source": "https://www.liqui-moly.com/en/us/",
+      "selector": ".btn-danger",
+      "declarations": "background-color:#e2001a;border-color:#e2001a;color:#fff"
+    },
+    {
+      "source": "https://www.liqui-moly.com/en/us/",
+      "selector": ".btn-outline-light-gray",
+      "declarations": "border-color:#b7b7b7;color:#b7b7b7"
+    },
+    {
+      "source": "https://www.liqui-moly.com/en/us/",
+      "selector": ".btn-link",
+      "declarations": "color:#00519e;font-weight:400;text-decoration:underline"
+    },
+    {
+      "source": "https://www.liqui-moly.com/en/us/",
+      "selector": ".btn-close",
+      "declarations": "background:transparent url(\"data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 21 21'%3E%3Cpath stroke='%23303030' stroke-linecap='square' stroke-width='1.75' d='M19.478 1.521 2.087 18.913m0-17.392 17.391 17.392'/%3E%3C/svg%3E\") 50%/1.25em auto no-repeat;border:0;border-radius:.313rem;-webkit-box-sizing:content-box;box-sizing:content-box;color:#303030;height:1.25em;opacity:1;padding:.25em;width:1.25em"
+    },
+    {
+      "source": "https://www.liqui-moly.com/en/us/",
+      "selector": ".text-body",
+      "declarations": "--bs-text-opacity:1;color:rgba(var(--bs-body-color-rgb),var(--bs-text-opacity))!important"
+    },
+    {
+      "source": "https://www.liqui-moly.com/en/us/",
+      "selector": ".bg-body",
+      "declarations": "--bs-bg-opacity:1;background-color:rgba(var(--bs-body-bg-rgb),var(--bs-bg-opacity))!important"
+    },
+    {
+      "source": "https://www.liqui-moly.com/en/us/",
+      "selector": ".owl-carousel .owl-nav button.owl-next:before,.owl-carousel .owl-nav button.owl-prev:before",
+      "declarations": "border-color:#b7b7b7;border-style:solid;border-width:2px 2px 0 0;content:\"\";display:block;height:.8rem;position:relative;width:.8rem"
+    },
+    {
+      "source": "https://www.liqui-moly.com/en/us/",
+      "selector": ".btn.btn-outline-light-gray",
+      "declarations": "background-color:#fff;color:#303030"
+    },
+    {
+      "source": "https://www.liqui-moly.com/en/us/",
+      "selector": ".btn.btn-outline-light-gray.selected",
+      "declarations": "background-color:unset;border:2px solid #00519e!important;font-weight:700"
+    },
+    {
+      "source": "https://www.liqui-moly.com/en/us/",
+      "selector": "body",
+      "declarations": "--body-gutter-x:clamp(1rem,25.4166666667rem + (-33.3333333333vw),1.5rem)"
+    },
+    {
+      "source": "https://www.liqui-moly.com/en/us/",
+      "selector": "body .container>*",
+      "declarations": "--bs-gutter-x:1rem"
+    },
+    {
+      "source": "https://www.liqui-moly.com/en/us/",
+      "selector": ".page-header .authorization-link .badge,.page-header .minicart-link .badge",
+      "declarations": "border:2px solid #fff;border-radius:50%;color:#fff;display:none;font-size:.75rem;height:26px;line-height:1;max-height:26px;max-width:26px;position:absolute;right:-3px;top:50%;-webkit-transform:translateY(-3px);transform:translateY(-3px);width:26px"
+    },
+    {
+      "source": "https://www.liqui-moly.com/en/us/",
+      "selector": ".page-header .nav-link",
+      "declarations": "color:inherit"
+    },
+    {
+      "source": "https://www.liqui-moly.com/en/us/",
+      "selector": ":root",
+      "declarations": "--gap:0.9375rem"
+    },
+    {
+      "source": "https://www.liqui-moly.com/en/us/",
+      "selector": ".oww-dropdown .oww-dropdown--button",
+      "declarations": "background-color:transparent;color:inherit"
+    },
+    {
+      "source": "https://www.liqui-moly.com/en/us/",
+      "selector": ".cms .ce-stage-slider .stage-tab.text-body:after,.cms .ce-stage-slider .stage-tab.text-body:before",
+      "declarations": "background-color:#303030"
+    },
+    {
+      "source": "https://www.liqui-moly.com/en/us/",
+      "selector": ".btn,.link-button-primary,.link-button-secondary",
+      "declarations": "background-color:transparent;border:1px solid transparent;border-radius:.313rem;color:#303030;display:inline-block;font-size:1rem;font-weight:400;line-height:1.5;padding:.5rem .75rem;text-align:center;text-decoration:none;vertical-align:middle"
+    },
+    {
+      "source": "https://www.liqui-moly.com/en/us/",
+      "selector": ".link-button-secondary",
+      "declarations": "background-color:#00519e;border-color:#00519e;color:#fff"
+    },
+    {
+      "source": "https://www.liqui-moly.com/en/us/",
+      "selector": ".btn-danger,.link-button-primary",
+      "declarations": "background-color:#e2001a;border-color:#e2001a;color:#fff"
+    },
+    {
+      "source": "https://www.liqui-moly.com/en/us/",
+      "selector": "button,input,select,textarea",
+      "declarations": "font-family:inherit;font-size:inherit;line-height:inherit;margin:0"
+    },
+    {
+      "source": "https://www.liqui-moly.com/en/us/",
+      "selector": ".btn:disabled",
+      "declarations": "border-color:#b7b7b7;opacity:.65"
+    },
+    {
+      "source": "https://www.liqui-moly.com/en/us/",
+      "selector": ".btn-primary,.btn-primary:disabled",
+      "declarations": "background-color:#00519e;border-color:#00519e;color:#fff"
+    },
+    {
+      "source": "https://www.liqui-moly.com/en/us/",
+      "selector": ".page-header .offcanvas-body>.navbar>.navbar-nav>.nav-item>.nav-link.is-active",
+      "declarations": "color:#00519e!important;font-weight:700!important;text-decoration:underline!important;text-decoration:none"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Motor oils, additives and car care from LIQUI MOLY | LIQUI MOLY",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/Magento_Theme/css/jstree_style.min.css",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/Magento_Theme/css/swiper-bundle.min.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/Magento_Theme/css/jstree_style.min.css",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/Magento_Theme/css/swiper-bundle.min.css"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "colors.secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "colors.light-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "colors.light-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.liqui-moly.com/en/us/",
+        "https://www.liqui-moly.com/static/version1790003927/frontend/limo/base/default/css/dist/styles.min.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-approval-badge": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Puracy
-description: A cleaning brand that wraps its plant-based chemistry in a palette of deep teal (#035c68) and sage green (#6fac83), where the primary color reads less like a corporate blue and more like a tide pool at dusk. That teal anchors every primary CTA, the site header, and the product-badge system, while the sage surfaces as a secondary accent on hover states and illustrative backgrounds. The canvas is a soft off-white (#f1f6f6) rather than pure white, giving the entire experience a humid, botanical warmth — like a clean kitchen after steam has settled. Typography runs Figtree and Jazmin, the former doing heavy lifting for body and button copy at modest 400–500 weights, the latter appearing in display contexts with a slightly condensed, modern sans-serif feel. Product cards use generous padding and a subtle hairline (#eeeeee) that barely registers; the brand trusts ingredient photography and white space over decorative borders. Badges for "Plant-Based" and "Free & Clear" sit in small pill shapes with the teal as fill, and the footer collapses into a dense, link-heavy grid on a darker teal ground (#134048). The overall mood is earnest, scientific but not clinical — a brand that wants you to feel good about what you're spraying on your countertops.
+name: "Puracy"
+source_url: "https://puracy.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A cleaning brand that wraps its plant-based chemistry in a palette of deep teal (#035c68) and sage green (#6fac83), where the primary color reads less like a corporate blue and more like a tide pool at dusk. That teal anchors every primary CTA, the site header, and the product-badge system, while the sage surfaces as a secondary accent on hover states and illustrative backgrounds. The canvas is a soft off-white (#f1f6f6) rather than pure white, giving the entire experience a humid, botanical warmth — like a clean kitchen after steam has settled. Typography runs Figtree and Jazmin, the former doing heavy lifting for body and button copy at modest 400–500 weights, the latter appearing in display contexts with a slightly condensed, modern sans-serif feel. Product cards use generous padding and a subtle hairline (#eeeeee) that barely registers; the brand trusts ingredient photography and white space over decorative borders. Badges for "Plant-Based" and "Free & Clear" sit in small pill shapes with the teal as fill, and the footer collapses into a dense, link-heavy grid on a darker teal ground (#134048). The overall mood is earnest, scientific but not clinical — a brand that wants you to feel good about what you're spraying on your countertops.
 
 colors:
   primary: "#035c68"
@@ -283,6 +287,8 @@ components:
 - Accordion content collapses by default on all breakpoints
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Extracted hex colors are limited to 7 values; the brand may use additional accent colors (e.g., for seasonal promotions or specific product lines) that weren't captured
 - Font-family declarations include "Jazmin" and "Figtree" but exact weight assignments for display vs. body text are inferred from common usage patterns

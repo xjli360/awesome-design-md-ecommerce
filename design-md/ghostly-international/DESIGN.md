@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Ghostly International
-description: A record label and shop where a ghostly lavender #ccccff sits as the quiet, spectral backdrop across product pages and collection grids, while a neon violet #912eff and cyan #51feff serve as the brand's primary voltage — the violet driving add-to-cart buttons and the cyan illuminating sale badges and limited-run alerts. Type is set in Lars FS GI Light, a geometric sans-serif with unusually light optical weight that feels airy and slightly detached, as if the letters are floating above the page rather than pressing into it. The shop runs on Shopify, and the checkout experience defaults to a clean white canvas #ffffff with #f7f7f7 surface cards and #e4e4e4 hairline borders — but the brand's true personality lives in the accent palette: a lime green #00ff00 for sold-out indicators, a highlighter yellow #ffff00 for pre-order badges, and a deep purple #912eff that appears nowhere in nature but everywhere in Ghostly's visual identity. The result is a digital storefront that feels more like an experimental gallery than a merch shop — generous whitespace, thin type, and neon accents that pulse against the lavender haze.
+name: "Ghostly International"
+source_url: "https://www.ghostly.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A record label and shop where a ghostly lavender #ccccff sits as the quiet, spectral backdrop across product pages and collection grids, while a neon violet #912eff and cyan #51feff serve as the brand's primary voltage — the violet driving add-to-cart buttons and the cyan illuminating sale badges and limited-run alerts. Type is set in Lars FS GI Light, a geometric sans-serif with unusually light optical weight that feels airy and slightly detached, as if the letters are floating above the page rather than pressing into it. The shop runs on Shopify, and the checkout experience defaults to a clean white canvas #ffffff with #f7f7f7 surface cards and #e4e4e4 hairline borders — but the brand's true personality lives in the accent palette: a lime green #00ff00 for sold-out indicators, a highlighter yellow #ffff00 for pre-order badges, and a deep purple #912eff that appears nowhere in nature but everywhere in Ghostly's visual identity. The result is a digital storefront that feels more like an experimental gallery than a merch shop — generous whitespace, thin type, and neon accents that pulse against the lavender haze.
 
 colors:
   primary: "#912eff"
@@ -384,6 +388,8 @@ components:
 - Product card images switch from landscape to square aspect ratio on mobile to maintain visual consistency in single-column view
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted hex color list includes #b3d4fc (likely a Shopify or browser default focus ring) and #aaaaaa (a generic gray) — these have been excluded from the brand palette as they are not distinctive to Ghostly International
 - Hover states for product card images (zoom, overlay, or color shift) could not be reliably extracted from the static HTML/CSS analysis

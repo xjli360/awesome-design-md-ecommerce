@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Precision Record Pressing
-description: A vinyl pressing plant that wears its industrial confidence in a coral-red primary (#f16365) — a color that reads more like a hot-stamped label than a corporate brand mark, and that appears against a deep navy ink (#0d3042) that evokes the dark of a record sleeve. The palette is deliberately un-soft: alongside the coral come a burnt orange (#fe8335), a near-black (#04030c), and a muted clay (#a06755), suggesting a system built for a tactile, analog audience rather than a polished digital one. Buttons carry the coral fill with white text, while secondary actions drop into outline or ghost states against the dark canvas. Typography is absent from extracted hints, but the brand’s voice — “Vinyl Pressing Without Limits” — suggests a bold, condensed sans-serif for display work and a clean, readable sans for body copy. The site uses generous spacing (section-level padding at 64px) and soft but present rounded corners on cards and buttons ({rounded.sm} to {rounded.md}), balancing the heavy ink with breathing room. The overall effect is a factory floor translated into a digital storefront: honest, loud where it needs to be, and built around the physical object of the record.
+name: "Precision Record Pressing"
+source_url: "https://www.precisionpressing.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A vinyl pressing plant that wears its industrial confidence in a coral-red primary (#f16365) — a color that reads more like a hot-stamped label than a corporate brand mark, and that appears against a deep navy ink (#0d3042) that evokes the dark of a record sleeve. The palette is deliberately un-soft: alongside the coral come a burnt orange (#fe8335), a near-black (#04030c), and a muted clay (#a06755), suggesting a system built for a tactile, analog audience rather than a polished digital one. Buttons carry the coral fill with white text, while secondary actions drop into outline or ghost states against the dark canvas. Typography is absent from extracted hints, but the brand’s voice — “Vinyl Pressing Without Limits” — suggests a bold, condensed sans-serif for display work and a clean, readable sans for body copy. The site uses generous spacing (section-level padding at 64px) and soft but present rounded corners on cards and buttons ({rounded.sm} to {rounded.md}), balancing the heavy ink with breathing room. The overall effect is a factory floor translated into a digital storefront: honest, loud where it needs to be, and built around the physical object of the record.
 
 colors:
   primary: "#f16365"
@@ -406,6 +410,8 @@ components:
 - Multi-step indicators collapse to a simple progress bar on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Font family declarations could not be extracted from the live site; the typography block uses reasonable fallbacks based on brand category (industrial sans-serif for display, clean sans for body). Actual font choices may differ.
 - Hover and focus states for many components (e.g., footer links, tooltips, step indicators) are inferred from common patterns rather than extracted from the site.

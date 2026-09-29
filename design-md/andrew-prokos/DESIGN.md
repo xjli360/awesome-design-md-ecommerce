@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Andrew Prokos
-description: |
+name: "Andrew Prokos"
+source_url: "https://andrewprokos.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Charcoal at #313131 carries nearly the entire visual weight of the Andrew Prokos interface — it surfaces in navigation text, primary button fills, price labels, and footer links — leaving the photography itself as the sole source of hue and sensation on any given page. The print shop operates as a stripped gallery: white canvas, a single near-black tone, hairline borders at {colors.hairline}, and section spacing generous enough that each print thumbnail reads as a framed object rather than a catalog item in a feed. No decorative gradients or secondary brand colors compete with a long-exposure Manhattan skyline or a blue-hour shot of a European city center; the interface deliberately recedes so the image fills the room.
 
   Buttons take a flat rectangular form at {rounded.none} with {colors.primary} fill and {colors.on-primary} type — no rounded pill, no drop shadow, no hover glow — a choice that positions the brand closer to a Chelsea gallery price list than a consumer print marketplace. The nav bar holds minimal items: genre categories, an about page, and a cart icon, set in tracked uppercase letters at tight scale. Product cards rely on aspect-ratio-locked image crops with a thin-border hover state rather than card lift or background color shift; the photograph itself becomes the interaction affordance.
@@ -285,6 +288,8 @@ components:
 - Footer columns: stack vertically on mobile, two- or three-column horizontal layout on tablet and above
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one hex color (#313131) was extracted from the live site; the crawler was blocked by a Cloudflare challenge page ("Just a moment..."), preventing full palette extraction
 - No custom webfont was detected — the typography system is inferred as a system stack; Andrew Prokos may use a licensed serif or display typeface that could not be fingerprinted through the challenge wall

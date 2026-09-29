@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Baseus
-description: A utilitarian tech-essentials brand that uses #282828 as its anchor — a near-black ink that appears on every product page, nav bar, and spec sheet, giving the interface the same industrial precision as the docking stations it sells. The primary voltage is #fdbc00, a warm marigold that punches through the dark palette on CTAs, badge highlights, and sale tags, reading as functional optimism rather than playful whimsy. Type runs DM Sans across the system at modest weights — display sits at 24px weight 500, body at 14px weight 400, and buttons at 15px weight 600 — a restrained hierarchy that lets product photography and spec tables carry the information load. The brand uses #f5f5f5 as its default canvas, not pure white, which softens the high-contrast product shots and makes the #fdbc00 accents feel warmer by comparison. Cards and inputs use {rounded.sm} (8px) corners — a slight softening of the otherwise rectilinear grid — while badges and notification dots use {rounded.full} for quick visual scanning. The footer is a dense information grid with #282828 background and #888888 link text, signaling that Baseus treats technical specifications and support documentation as core content, not afterthoughts. The overall mood is that of a well-organized tool drawer: dark, clean, every element has a place, and the yellow accent is the one thing that says "press here."
+name: "Baseus"
+source_url: "https://www.baseus.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A utilitarian tech-essentials brand that uses #282828 as its anchor — a near-black ink that appears on every product page, nav bar, and spec sheet, giving the interface the same industrial precision as the docking stations it sells. The primary voltage is #fdbc00, a warm marigold that punches through the dark palette on CTAs, badge highlights, and sale tags, reading as functional optimism rather than playful whimsy. Type runs DM Sans across the system at modest weights — display sits at 24px weight 500, body at 14px weight 400, and buttons at 15px weight 600 — a restrained hierarchy that lets product photography and spec tables carry the information load. The brand uses #f5f5f5 as its default canvas, not pure white, which softens the high-contrast product shots and makes the #fdbc00 accents feel warmer by comparison. Cards and inputs use {rounded.sm} (8px) corners — a slight softening of the otherwise rectilinear grid — while badges and notification dots use {rounded.full} for quick visual scanning. The footer is a dense information grid with #282828 background and #888888 link text, signaling that Baseus treats technical specifications and support documentation as core content, not afterthoughts. The overall mood is that of a well-organized tool drawer: dark, clean, every element has a place, and the yellow accent is the one thing that says "press here."
 
 colors:
   primary: "#fdbc00"
@@ -412,6 +416,8 @@ components:
 - The spec table converts to a stacked label-value layout at mobile, with each row becoming a two-line block
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states**: While primary button hover was inferred from the active color, hover states for secondary buttons, ghost buttons, and text inputs could not be reliably extracted from the live site. The system assumes a simple color darkening pattern consistent with the primary button.
 - **Error states**: Error text styling, error iconography, and form validation patterns were not observed. The error border color (#dd2c00) was extracted from the color palette but its application context is inferred.

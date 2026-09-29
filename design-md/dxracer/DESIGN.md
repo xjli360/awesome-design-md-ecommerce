@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: DXRacer
-description: A high-voltage gaming ecosystem where #efbd16 (a sharp, metallic gold) and #5357d6 (a cool, electric violet) collide against a canvas of #f2f2f2 and #d2d2d2. The brand's visual language is built on aggressive angularity — not the soft pill shapes of consumer tech, but hard, faceted forms that echo the racing bucket seats and carbon-fiber panels of its product line. Typography runs on a dual-engine system: Montserrat in medium-to-bold weights for headlines and navigation, and system fonts (Arial, Helvetica Neue) for body copy, creating a hierarchy where display text punches hard while reading text stays clean and legible. The extracted palette reveals a brand that uses color as a signaling system — #fc337c (a hot pink) appears in accent badges and promotional ribbons, while #004085 and #155724 suggest a deep, serious tone for informational alerts and footer backgrounds. Buttons and interactive elements favor the gold (#efbd16) as primary action color, with the violet (#5357d6) as a secondary or hover state, creating a two-speed system: one for urgency (gold, the "buy now" voltage), one for depth (violet, the "learn more" anchor). The absence of rounded corners in the extracted CSS — no pill shapes, no soft radii — confirms a design philosophy that prioritizes speed and precision over friendliness. This is a brand that wants you to feel the grip of a racing seat, not the embrace of a living room couch.
+name: "DXRacer"
+source_url: "https://www.dxracer.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A high-voltage gaming ecosystem where #efbd16 (a sharp, metallic gold) and #5357d6 (a cool, electric violet) collide against a canvas of #f2f2f2 and #d2d2d2. The brand's visual language is built on aggressive angularity — not the soft pill shapes of consumer tech, but hard, faceted forms that echo the racing bucket seats and carbon-fiber panels of its product line. Typography runs on a dual-engine system: Montserrat in medium-to-bold weights for headlines and navigation, and system fonts (Arial, Helvetica Neue) for body copy, creating a hierarchy where display text punches hard while reading text stays clean and legible. The extracted palette reveals a brand that uses color as a signaling system — #fc337c (a hot pink) appears in accent badges and promotional ribbons, while #004085 and #155724 suggest a deep, serious tone for informational alerts and footer backgrounds. Buttons and interactive elements favor the gold (#efbd16) as primary action color, with the violet (#5357d6) as a secondary or hover state, creating a two-speed system: one for urgency (gold, the "buy now" voltage), one for depth (violet, the "learn more" anchor). The absence of rounded corners in the extracted CSS — no pill shapes, no soft radii — confirms a design philosophy that prioritizes speed and precision over friendliness. This is a brand that wants you to feel the grip of a racing seat, not the embrace of a living room couch.
 
 colors:
   primary: "#efbd16"
@@ -330,6 +334,8 @@ components:
 - Footer columns collapse into an accordion pattern on mobile, with each section expandable via a tap.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted hex list is heavily polluted with Bootstrap alert colors, system grays, and what appear to be framework defaults (e.g., #004085, #155724, #0c5460, #856404, #721c24). The true brand palette likely has fewer, more intentional colors. The gold (#efbd16) and violet (#5357d6) are the most distinctive and are treated as primary and secondary brand colors, but their exact usage (hover states, disabled states, text on them) is inferred.
 - No extracted data for hover states on links, buttons, or cards beyond what is listed. The `button-primary-active` and `button-accent-violet-active` colors are best guesses based on darkening the base color.

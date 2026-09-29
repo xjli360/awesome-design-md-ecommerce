@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Slackers
-description: A cluttered, generous bazaar of pop-culture obsessions where a deep navy blue (#003388) anchors the header and footer, while a vivid cobalt (#1a7ac4) drives every primary action — add-to-cart buttons, navigation highlights, and category links. The palette is a noisy mix of retail urgency and playful chaos: a sharp red (#a20505) marks sale badges and clearance tags, a muted teal (#0e766d) appears in select category accents, and a warm gray scale (#bfbfbf, #ededed, #f4f4f4) provides the neutral backdrop for product grids. The canvas is a clean white (#fefefe) with soft gray surfaces (#f4f4f4) for card backgrounds, while the ink (#1f1f1f) keeps body text readable against the busy visual landscape. Typography runs Open Sans at modest weights — display headlines sit at 24px weight 600, body text at 14px weight 400, and buttons at 15px weight 600 — creating a functional, no-nonsense hierarchy that lets the product photography and price tags do the heavy lifting. The search bar uses a pill shape ({rounded.full}) with a subtle border (#bfbfbf), while product cards have soft corners ({rounded.sm}) and a light shadow that lifts them off the page. Category navigation runs as a horizontal strip of pill-shaped buttons with the primary blue fill, creating clear visual paths through music, movies, games, toys, and comics. The footer is a dense information hub with multiple columns, social icons in their brand colors (#3e5c9a for Facebook, #55acee for Twitter), and a newsletter signup that mirrors the primary button style. The overall feel is that of a well-organized record store — lots of visual texture, clear pricing, and a sense that every square inch is selling something.
+name: "Slackers"
+source_url: "https://slackers.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A cluttered, generous bazaar of pop-culture obsessions where a deep navy blue (#003388) anchors the header and footer, while a vivid cobalt (#1a7ac4) drives every primary action — add-to-cart buttons, navigation highlights, and category links. The palette is a noisy mix of retail urgency and playful chaos: a sharp red (#a20505) marks sale badges and clearance tags, a muted teal (#0e766d) appears in select category accents, and a warm gray scale (#bfbfbf, #ededed, #f4f4f4) provides the neutral backdrop for product grids. The canvas is a clean white (#fefefe) with soft gray surfaces (#f4f4f4) for card backgrounds, while the ink (#1f1f1f) keeps body text readable against the busy visual landscape. Typography runs Open Sans at modest weights — display headlines sit at 24px weight 600, body text at 14px weight 400, and buttons at 15px weight 600 — creating a functional, no-nonsense hierarchy that lets the product photography and price tags do the heavy lifting. The search bar uses a pill shape ({rounded.full}) with a subtle border (#bfbfbf), while product cards have soft corners ({rounded.sm}) and a light shadow that lifts them off the page. Category navigation runs as a horizontal strip of pill-shaped buttons with the primary blue fill, creating clear visual paths through music, movies, games, toys, and comics. The footer is a dense information hub with multiple columns, social icons in their brand colors (#3e5c9a for Facebook, #55acee for Twitter), and a newsletter signup that mirrors the primary button style. The overall feel is that of a well-organized record store — lots of visual texture, clear pricing, and a sense that every square inch is selling something.
 
 colors:
   primary: "#1a7ac4"
@@ -410,6 +414,8 @@ components:
 - Hero banner reduces min-height from 300px to 200px on mobile, with smaller headline and CTA text
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states** for most components could not be reliably extracted from static HTML/CSS. The button-primary hover state (#006ba1) is inferred from the extracted color list, but secondary, tertiary, and link hover states are unconfirmed.
 - **Error styling** for form inputs (validation errors, required field indicators) was not present in the extracted data. The text-input focus state is confirmed, but error borders, error messages, and success states are unknown.

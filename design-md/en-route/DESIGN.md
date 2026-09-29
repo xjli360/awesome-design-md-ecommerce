@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: En Route
-description: Burnt paprika (#ef4f29) runs the entire visual argument — every add-to-cart button, every promotional badge, every hover state erupts from the same compressed flame against an ink-black (#1a1a1a) ground, while the rest of the canvas retreats into a family of near-white neutrals (#fafafa through #f4f4f4) that let gold, silver, and gemstone product photography read without competition. Simvoni, a display font exclusive to the brand's type stack, handles the editorial voice at large sizes — its distinct letterforms mark collection headers and hero lockups — while Poppins carries all navigation, body copy, and UI labels at weights that stay trim and contemporary. The palette is deliberately minimal: two warm near-blacks (#231815, #1a1a1a), a ladder of mid-grays for muted text and hairlines, and two accent outliers — a soft peach (#f9bda4) that softens promo surfaces and a muted sage green (#2d8a4e, surface tint #f0faf0) reserved for availability tags and success confirmations. Nothing in the gray ladder ventures to cool blue-gray; the entire spectrum tilts warm, keeping the terracotta primary emotionally coherent from hero to footer. Rounded values are restrained — `{rounded.xs}` on buttons and inputs, `{rounded.sm}` on cards — suggesting a brand that wants clean edges over the softness of a lifestyle marketplace. Product cards carry a tight grid, price typography sits at `{typography.price-display}` in near-black, and the struck-through compare-at price uses `{colors.muted}` so the discount reads clearly without the shouting red that fast-fashion brands rely on. The hero typically runs a full-bleed photograph with an overlay text column, and navigation defaults to a transparent-to-solid scroll behavior common on Shopify storefronts of this weight class.
+name: "En Route"
+source_url: "https://www.enroutejewelry.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Burnt paprika (#ef4f29) runs the entire visual argument — every add-to-cart button, every promotional badge, every hover state erupts from the same compressed flame against an ink-black (#1a1a1a) ground, while the rest of the canvas retreats into a family of near-white neutrals (#fafafa through #f4f4f4) that let gold, silver, and gemstone product photography read without competition. Simvoni, a display font exclusive to the brand's type stack, handles the editorial voice at large sizes — its distinct letterforms mark collection headers and hero lockups — while Poppins carries all navigation, body copy, and UI labels at weights that stay trim and contemporary. The palette is deliberately minimal: two warm near-blacks (#231815, #1a1a1a), a ladder of mid-grays for muted text and hairlines, and two accent outliers — a soft peach (#f9bda4) that softens promo surfaces and a muted sage green (#2d8a4e, surface tint #f0faf0) reserved for availability tags and success confirmations. Nothing in the gray ladder ventures to cool blue-gray; the entire spectrum tilts warm, keeping the terracotta primary emotionally coherent from hero to footer. Rounded values are restrained — `{rounded.xs}` on buttons and inputs, `{rounded.sm}` on cards — suggesting a brand that wants clean edges over the softness of a lifestyle marketplace. Product cards carry a tight grid, price typography sits at `{typography.price-display}` in near-black, and the struck-through compare-at price uses `{colors.muted}` so the discount reads clearly without the shouting red that fast-fashion brands rely on. The hero typically runs a full-bleed photograph with an overlay text column, and navigation defaults to a transparent-to-solid scroll behavior common on Shopify storefronts of this weight class.
 
 colors:
   primary: "#ef4f29"
@@ -347,6 +351,8 @@ components:
 - Footer four-column link grid collapses to accordion-style dropdowns on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Simvoni is present in the font stack but no size or weight specimen was extractable from static extraction — display scale values are inferred from typical Shopify editorial patterns
 - The green accent pair (#2d8a4e / #f0faf0) may be Shopify UI chrome (success toasts, in-cart confirmations) rather than an intentional brand palette choice

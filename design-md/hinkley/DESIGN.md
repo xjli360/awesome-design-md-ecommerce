@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Hinkley
-description: |
+name: "Hinkley"
+source_url: "https://www.hinkley.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The palette describes a thermal arc — gray-cool architectural metal (#aaabac, #c2c2c2) warming through antique brass (#a48b5f) toward the amber pulse of a live filament (#ff9635) — and in a catalog whose subject is the transition between dark and lit, this chromatic sequence serves as both brand vocabulary and product demonstration. Surfaces lean warm rather than clinical: plaster-cream (#f2f1f0), aged linen (#eae2d8), and parchment (#fdf0d5) make product photographs read as if the fixtures are already switched on. The deepest neutral is not pure black but an oiled-bronze near-dark (#2c251c), a color that appears in product-line finish names and in the footer stripe, making the structural chrome feel continuous with the merchandise itself.
 
   Type pairs Chronicle — H&FJ's editorial serif that carries the cadence of an architectural monograph — with the Chalet family's mid-century American cut (ChaletNewYork1960), a House Industries geometric sans that holds faint postwar optimism. Chronicle handles collection titles, landing-page editorial headings, and price display; Chalet carries navigation, spec tables, filter labels, and all button chrome. The register shifts from formal in large headers to functional in interface copy without ever breaking composure.
@@ -353,6 +356,8 @@ components:
 - Promo-strip hides on viewports below 375px if content exceeds one line; a minimal version with only the CTA link remains
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact Chalet variant used as the primary UI weight is ambiguous — the font stack includes London1960, London1980, NewYork1960, NewYork1980, Paris1960, and Paris1980 variants; ChaletNewYork1960 is assumed based on mid-century American positioning but has not been confirmed from live CSS
 - Chronicle variant (Display vs. Text grade) at body-adjacent sizes is unconfirmed; Chronicle Display is assumed for all heading use cases

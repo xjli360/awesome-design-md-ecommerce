@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Ooni
-description: |
+name: "Ooni"
+source_url: "https://ooni.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The amber-on-charcoal contrast—#ffc633 punching against the near-black #25282a—is the visual metaphor that structures the entire Ooni system: fire against coal. That single chromatic tension generates an appetite that product photography amplifies at every scroll, ovens photographed mid-flame with glowing mouths, caught at the moment of peak heat. The orange-to-brick gradient embedded in the extracted palette—#f48120, #f37521, #e16f27, #d4602c, #bc3c26—maps almost exactly to a wood fire burning from bright crown to dying ember; the product is made chromatic and the design system reflects it deliberately. Primary CTAs carry the amber voltage at a {rounded.xs} radius that reads as machined and precise rather than consumer-soft.
 
   The canvas splits by context. Editorial and category pages run deep charcoal #25282a backgrounds that frame ovens as serious high-heat instruments, while shopping and comparison grids shift to near-white #f5f5f5 where specification tables require legibility. Surfaces stack predictably along a single coal axis: #0b1318 at the deepest UI layer, #293035 for containers, #575a5d for secondary labels, #c1c2c3 as hairlines dividing product spec rows. No pastels, no cross-hue gradients—every ramp step moves from near-black toward pale ash, anchored by fire-orange as the only warm interruption.
@@ -345,6 +348,8 @@ components:
 - Comparison grid: side-by-side oven comparison collapses to a swipeable carousel on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom font family extracted — site loads typefaces via JS asset pipeline; heading font is visually a bold geometric or condensed sans but could not be identified by name or file reference
 - Blues `#006fcf` and `#3086c8` and orange `#ff9900` appear to originate from Shopify payment-method badges and Amazon Pay widgets, not brand design tokens; excluded from palette

@@ -1,0 +1,848 @@
+{
+  "source_url": "https://drinksanzo.com",
+  "final_url": "https://drinksanzo.com/",
+  "captured_at": "2026-09-28T10:05:18.980838+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://drinksanzo.com",
+      "final_url": "https://drinksanzo.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "97a062fa774717cac93fd4bebb4c1a045112bc0f68fdb30b1ddef4945afd94fc",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://drinksanzo.com/cdn/shop/t/56/assets/dt-framework.css?v=103426771465293773031754315362",
+      "final_url": "https://drinksanzo.com/cdn/shop/t/56/assets/dt-framework.css?v=103426771465293773031754315362",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5aba1ee75336fdeb7badb33f8cd937da8e903e4f7bc83ad885ee52b012411e2d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621",
+      "final_url": "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4a9fde0c1f4faf80841473d7dc7c5af6e9ef14dccfaa31e471d764c764782809",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://drinksanzo.com/cdn/shop/t/56/assets/swiper-bundle.min.css?v=140900139550931018971749129622",
+      "final_url": "https://drinksanzo.com/cdn/shop/t/56/assets/swiper-bundle.min.css?v=140900139550931018971749129622",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "8a0f76728b13b15f0852dd3def6f381ef380de1c0e8d4e5a478995fd2efa5805",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://drinksanzo.com/cdn/shop/t/56/assets/select2.min.css?v=3199361556163848531749129621",
+      "final_url": "https://drinksanzo.com/cdn/shop/t/56/assets/select2.min.css?v=3199361556163848531749129621",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "cda4a81c187015d95ed2c71f1841540b08203cdec5fa2a7d5d1825a3c2166f8c",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://drinksanzo.com/cdn/shop/t/56/assets/slick.css?v=102834294787817466131749129621",
+      "final_url": "https://drinksanzo.com/cdn/shop/t/56/assets/slick.css?v=102834294787817466131749129621",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7c41e7ed90aa279c9f41f6bd446b5a7c7a70b7eb29ca410b60bfb68a65a53152",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 79,
+      "sources": [
+        "https://drinksanzo.com/",
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621",
+        "https://drinksanzo.com/cdn/shop/t/56/assets/swiper-bundle.min.css?v=140900139550931018971749129622",
+        "https://drinksanzo.com/cdn/shop/t/56/assets/select2.min.css?v=3199361556163848531749129621"
+      ]
+    },
+    "#ffffff00": {
+      "count": 41,
+      "sources": [
+        "https://drinksanzo.com/",
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-framework.css?v=103426771465293773031754315362"
+      ]
+    },
+    "#8d164e": {
+      "count": 32,
+      "sources": [
+        "https://drinksanzo.com/"
+      ]
+    },
+    "#d82061": {
+      "count": 32,
+      "sources": [
+        "https://drinksanzo.com/"
+      ]
+    },
+    "#000000": {
+      "count": 14,
+      "sources": [
+        "https://drinksanzo.com/",
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-framework.css?v=103426771465293773031754315362",
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621",
+        "https://drinksanzo.com/cdn/shop/t/56/assets/swiper-bundle.min.css?v=140900139550931018971749129622"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 14,
+      "sources": [
+        "https://drinksanzo.com/",
+        "https://drinksanzo.com/cdn/shop/t/56/assets/select2.min.css?v=3199361556163848531749129621"
+      ]
+    },
+    "#eeeeee": {
+      "count": 14,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/select2.min.css?v=3199361556163848531749129621"
+      ]
+    },
+    "#027326": {
+      "count": 9,
+      "sources": [
+        "https://drinksanzo.com/"
+      ]
+    },
+    "#dec066": {
+      "count": 7,
+      "sources": [
+        "https://drinksanzo.com/"
+      ]
+    },
+    "#005e1e": {
+      "count": 7,
+      "sources": [
+        "https://drinksanzo.com/"
+      ]
+    },
+    "#5a1729": {
+      "count": 7,
+      "sources": [
+        "https://drinksanzo.com/"
+      ]
+    },
+    "#d02336": {
+      "count": 7,
+      "sources": [
+        "https://drinksanzo.com/"
+      ]
+    },
+    "#e14344": {
+      "count": 7,
+      "sources": [
+        "https://drinksanzo.com/"
+      ]
+    },
+    "#f26722": {
+      "count": 7,
+      "sources": [
+        "https://drinksanzo.com/"
+      ]
+    },
+    "#f175ad": {
+      "count": 6,
+      "sources": [
+        "https://drinksanzo.com/"
+      ]
+    },
+    "#5897fb": {
+      "count": 6,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/select2.min.css?v=3199361556163848531749129621"
+      ]
+    },
+    "#cccccc": {
+      "count": 5,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621",
+        "https://drinksanzo.com/cdn/shop/t/56/assets/select2.min.css?v=3199361556163848531749129621"
+      ]
+    },
+    "#888888": {
+      "count": 5,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/select2.min.css?v=3199361556163848531749129621"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 4,
+      "sources": [
+        "https://drinksanzo.com/"
+      ]
+    },
+    "#353535": {
+      "count": 4,
+      "sources": [
+        "https://drinksanzo.com/"
+      ]
+    },
+    "#f3eeeb": {
+      "count": 4,
+      "sources": [
+        "https://drinksanzo.com/"
+      ]
+    },
+    "#2f4f4f": {
+      "count": 4,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 4,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621"
+      ]
+    },
+    "#696969": {
+      "count": 4,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621"
+      ]
+    },
+    "#778899": {
+      "count": 4,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621"
+      ]
+    },
+    "#708090": {
+      "count": 4,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621"
+      ]
+    },
+    "#a9a9a9": {
+      "count": 4,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621"
+      ]
+    },
+    "#ff00ff": {
+      "count": 4,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621"
+      ]
+    },
+    "#999999": {
+      "count": 4,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/select2.min.css?v=3199361556163848531749129621"
+      ]
+    },
+    "#ffeeeeee": {
+      "count": 4,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/select2.min.css?v=3199361556163848531749129621"
+      ]
+    },
+    "#e4e4e4": {
+      "count": 3,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-framework.css?v=103426771465293773031754315362",
+        "https://drinksanzo.com/cdn/shop/t/56/assets/select2.min.css?v=3199361556163848531749129621"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 3,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-framework.css?v=103426771465293773031754315362",
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621"
+      ]
+    },
+    "#ffffffff": {
+      "count": 3,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/select2.min.css?v=3199361556163848531749129621"
+      ]
+    },
+    "#4f8a10": {
+      "count": 2,
+      "sources": [
+        "https://drinksanzo.com/"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 2,
+      "sources": [
+        "https://drinksanzo.com/",
+        "https://drinksanzo.com/cdn/shop/t/56/assets/select2.min.css?v=3199361556163848531749129621"
+      ]
+    },
+    "#00a4ff": {
+      "count": 2,
+      "sources": [
+        "https://drinksanzo.com/",
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-framework.css?v=103426771465293773031754315362"
+      ]
+    },
+    "#7d583b": {
+      "count": 2,
+      "sources": [
+        "https://drinksanzo.com/"
+      ]
+    },
+    "#050504": {
+      "count": 2,
+      "sources": [
+        "https://drinksanzo.com/"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 2,
+      "sources": [
+        "https://drinksanzo.com/",
+        "https://drinksanzo.com/cdn/shop/t/56/assets/select2.min.css?v=3199361556163848531749129621"
+      ]
+    },
+    "#760106": {
+      "count": 2,
+      "sources": [
+        "https://drinksanzo.com/"
+      ]
+    },
+    "#a89166": {
+      "count": 2,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621"
+      ]
+    },
+    "#25bdb0": {
+      "count": 2,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621"
+      ]
+    },
+    "#fcc6de": {
+      "count": 2,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621"
+      ]
+    },
+    "#e1eb78": {
+      "count": 2,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621"
+      ]
+    },
+    "#a8bcd4": {
+      "count": 2,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621"
+      ]
+    },
+    "#7e0b80": {
+      "count": 2,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621"
+      ]
+    },
+    "#f63400": {
+      "count": 2,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621"
+      ]
+    },
+    "#ad8111": {
+      "count": 2,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621"
+      ]
+    },
+    "#cea525": {
+      "count": 2,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621"
+      ]
+    },
+    "#f0deba": {
+      "count": 2,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621"
+      ]
+    },
+    "#bfbfbf": {
+      "count": 2,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621"
+      ]
+    },
+    "#ff7900": {
+      "count": 2,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621"
+      ]
+    },
+    "#dcdb79": {
+      "count": 2,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621"
+      ]
+    },
+    "#001f3f": {
+      "count": 2,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621"
+      ]
+    },
+    "#7fdbff": {
+      "count": 2,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621"
+      ]
+    },
+    "#39cccc": {
+      "count": 2,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621"
+      ]
+    },
+    "#12221f": {
+      "count": 2,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621"
+      ]
+    },
+    "#00ff00": {
+      "count": 2,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621"
+      ]
+    },
+    "#fcdbd6": {
+      "count": 2,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621"
+      ]
+    },
+    "#caf6ea": {
+      "count": 2,
+      "sources": [
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://drinksanzo.com/cdn/shop/t/56/assets/dt-framework.css?v=103426771465293773031754315362"
+    ],
+    "FontAwesome": [
+      "https://drinksanzo.com/",
+      "https://drinksanzo.com/cdn/shop/t/56/assets/dt-framework.css?v=103426771465293773031754315362"
+    ],
+    "Helvetica": [
+      "https://drinksanzo.com/cdn/shop/t/56/assets/dt-framework.css?v=103426771465293773031754315362"
+    ],
+    "Outfit": [
+      "https://drinksanzo.com/"
+    ],
+    "Sharp Sans": [
+      "https://drinksanzo.com/"
+    ],
+    "Trump Gothic Pro": [
+      "https://drinksanzo.com/"
+    ],
+    "arial": [
+      "https://drinksanzo.com/"
+    ],
+    "fontAwesome": [
+      "https://drinksanzo.com/cdn/shop/t/56/assets/dt-framework.css?v=103426771465293773031754315362"
+    ],
+    "fontawesome": [
+      "https://drinksanzo.com/cdn/shop/t/56/assets/dt-framework.css?v=103426771465293773031754315362"
+    ],
+    "monospace": [
+      "https://drinksanzo.com/cdn/shop/t/56/assets/dt-framework.css?v=103426771465293773031754315362"
+    ],
+    "sans-serif": [
+      "https://drinksanzo.com/cdn/shop/t/56/assets/dt-framework.css?v=103426771465293773031754315362",
+      "https://drinksanzo.com/cdn/shop/t/56/assets/select2.min.css?v=3199361556163848531749129621"
+    ],
+    "sans-serif !important": [
+      "https://drinksanzo.com/"
+    ],
+    "swiper-icons": [
+      "https://drinksanzo.com/cdn/shop/t/56/assets/swiper-bundle.min.css?v=140900139550931018971749129622"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://drinksanzo.com/",
+      "selector": ".products .product-detail .offer-price",
+      "declarations": "color:#3b7300;"
+    },
+    {
+      "source": "https://drinksanzo.com/",
+      "selector": ".products .product-container .ImageOverlayCa",
+      "declarations": "background-color: rgba(0, 0, 0, 0.3);"
+    },
+    {
+      "source": "https://drinksanzo.com/",
+      "selector": ".products .product-container .badge--sold-out",
+      "declarations": "background-color:#a60811;"
+    },
+    {
+      "source": "https://drinksanzo.com/",
+      "selector": ".product-deal-count .notice",
+      "declarations": "background:#e9e9e9;color:#7d583b;"
+    },
+    {
+      "source": "https://drinksanzo.com/",
+      "selector": ".product-deal-count .deal-clock ul li",
+      "declarations": "background:#e9e9e9;color:#7d583b;"
+    },
+    {
+      "source": "https://drinksanzo.com/",
+      "selector": ".site-header__links .select-box .select-box__current .select-box__value .select-box__input-text:after",
+      "declarations": "content: \"\\f107\"; font-size: 70%;font-family: 'FontAwesome';display: inline-block;vertical-align: middle;transition: all 0.4s ease-in-out 0s; margin-left: 5px;  width: 15px;"
+    },
+    {
+      "source": "https://drinksanzo.com/",
+      "selector": ".site-header__links .select-box .select-box__list >*",
+      "declarations": "background-color: #d82061;"
+    },
+    {
+      "source": "https://drinksanzo.com/",
+      "selector": "header .announcement-bar",
+      "declarations": "background: #8d164e; color: #ffffff; height:40px;"
+    },
+    {
+      "source": "https://drinksanzo.com/",
+      "selector": "header .announcement-bar p, .announcement-bar a",
+      "declarations": "color: #ffffff;"
+    },
+    {
+      "source": "https://drinksanzo.com/",
+      "selector": "header .announcement-bar .close:hover, .announcement-bar a:hover",
+      "declarations": "color: #dec066;"
+    },
+    {
+      "source": "https://drinksanzo.com/",
+      "selector": "header .announcement-bar .close",
+      "declarations": "color: #ffffff;"
+    },
+    {
+      "source": "https://drinksanzo.com/",
+      "selector": "header .dt-sc-social-icons a",
+      "declarations": "color: #050504; background-color: #353535;"
+    },
+    {
+      "source": "https://drinksanzo.com/",
+      "selector": "header .dt-sc-social-icons a:hover",
+      "declarations": "color: #353535; background-color: #dec066;"
+    },
+    {
+      "source": "https://drinksanzo.com/",
+      "selector": "header .header-contact a",
+      "declarations": "color: #ffffff;"
+    },
+    {
+      "source": "https://drinksanzo.com/",
+      "selector": "header .header-contact a:hover",
+      "declarations": "color: #f3eeeb;"
+    },
+    {
+      "source": "https://drinksanzo.com/",
+      "selector": "header .select2-container--classic .select2-selection--single .select2-selection__arrow b",
+      "declarations": "border-top-color: #ffffff !important;"
+    },
+    {
+      "source": "https://drinksanzo.com/",
+      "selector": "header .select2.select2-container.select2-container .select2-selection:hover .select2-selection__arrow b",
+      "declarations": "border-top-color:#ffffff!important;"
+    },
+    {
+      "source": "https://drinksanzo.com/",
+      "selector": "header .select2-container--classic.select2-container--open .select2-selection--single .select2-selection__arrow b",
+      "declarations": "border-bottom-color:#ffffff!important;"
+    },
+    {
+      "source": "https://drinksanzo.com/",
+      "selector": "header .select2-container--classic.select2-container--open .select2-selection--single .select2-selection__rendered",
+      "declarations": "color:#ffffff!important;"
+    },
+    {
+      "source": "https://drinksanzo.com/",
+      "selector": "header .dt-sc-toggle-content",
+      "declarations": "box-shadow: 0 1px 5px rgba(0,0,0,.1); opacity: 0; visibility: hidden; position: absolute; left: 0; top:50px; width: 250px; white-space: nowrap; background-color: #d82061; border-radius: 0 var(--DTRadius) var(--DTRadius) var(--DTRadius); left: 50%; transform: translateX(-50%); -webkit-transform: translateX(-50%); transition: var(--DTBaseTransition); -webkit-transition: var(--DTBaseTransition); padding:15px;"
+    },
+    {
+      "source": "https://drinksanzo.com/",
+      "selector": "header .site-header__links .dt-sc-toggle-content a",
+      "declarations": "color: #8d164e; border-radius: 0;justify-content: flex-start;padding:0; height: auto; font-size: 0.875em; background-color: #d82061;"
+    },
+    {
+      "source": "https://drinksanzo.com/",
+      "selector": "header .site-header__links .dt-sc-toggle-content a:hover",
+      "declarations": "color: #d82061; background-color: #d82061;"
+    },
+    {
+      "source": "https://drinksanzo.com/",
+      "selector": "-header__links a,\n  header .site-header__links select option,\n  header .site-header__links select,\n  header .site-header__links .shopify-currency-form,\n  header",
+      "declarations": "transition: var(--DTBaseTransition); color: #ffffff; background-color: rgba(0,0,0,0);"
+    },
+    {
+      "source": "https://drinksanzo.com/",
+      "selector": "er .site-header__links select option:hover,\n  header .site-header__links select:hover,\n  header .site-header__links .shopify-currency-form:hover,\n  header .site",
+      "declarations": "transition: var(--DTBaseTransition); color: #ffffff; background-color: rgba(0,0,0,0);"
+    },
+    {
+      "source": "https://drinksanzo.com/",
+      "selector": "header .dt-sc-header-top-bar",
+      "declarations": "z-index: 1; padding: 10px 0; background-color: #dec066;"
+    },
+    {
+      "source": "https://drinksanzo.com/",
+      "selector": "header .dt-sc-header-logo-sec",
+      "declarations": "background-color: #d82061;"
+    },
+    {
+      "source": "https://drinksanzo.com/",
+      "selector": ".template-index header .dt-sc-header-logo-sec",
+      "declarations": "background-color: transparent; position: absolute; left: 0; right: 0;"
+    },
+    {
+      "source": "https://drinksanzo.com/",
+      "selector": "header .site-header__links a",
+      "declarations": "font-family:var(--DTFontTypo_Heading); height: 30px; line-height: 30px; display: flex; align-items: center; justify-content: center; padding: 0 5px; cursor: pointer; position: relative; -webkit-border-radius: var(--DTRadius); border-radius: var(--DTRadius);"
+    },
+    {
+      "source": "https://drinksanzo.com/",
+      "selector": "header .site-header__links .count",
+      "declarations": "margin:0 0 10px -5px; position: relative; border-radius: 50%; font-size: 10px; min-width: 15px; height: 15px; justify-content: center; align-items: center; line-height: 15px; font-family: arial; display: flex !important; background-color: var(--DT_Button_BG_Hover_Color); color: var(--DT_Button_Text_Hover_Color);"
+    },
+    {
+      "source": "https://drinksanzo.com/",
+      "selector": "header .menu_bottom > .row:before",
+      "declarations": "position:absolute;content:''; height:1px; left: -50%; right: -50%; background-color:#f3eeeb"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Sanzo | Authentic Asian Flavors, Made With Real Fruit",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinksanzo.com/"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinksanzo.com/"
+      ]
+    },
+    "colors.highlight": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinksanzo.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinksanzo.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinksanzo.com/",
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621",
+        "https://drinksanzo.com/cdn/shop/t/56/assets/swiper-bundle.min.css?v=140900139550931018971749129622",
+        "https://drinksanzo.com/cdn/shop/t/56/assets/select2.min.css?v=3199361556163848531749129621"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinksanzo.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinksanzo.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinksanzo.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinksanzo.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinksanzo.com/",
+        "https://drinksanzo.com/cdn/shop/t/56/assets/select2.min.css?v=3199361556163848531749129621"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinksanzo.com/",
+        "https://drinksanzo.com/cdn/shop/t/56/assets/dt-custom.css?v=105487384981946732891749129621",
+        "https://drinksanzo.com/cdn/shop/t/56/assets/swiper-bundle.min.css?v=140900139550931018971749129622",
+        "https://drinksanzo.com/cdn/shop/t/56/assets/select2.min.css?v=3199361556163848531749129621"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinksanzo.com/"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinksanzo.com/"
+      ]
+    },
+    "colors.badge-sale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://drinksanzo.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.flavor-variant-swatch": {
+      "status": "inferred"
+    }
+  }
+}

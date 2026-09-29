@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Pandasaurus Games
-description: A board-game publisher that wraps its playful, tabletop energy in a deep-navy anchor (#121e37) and a marigold-yellow accent (#f8ca14) that reads like a sunlit game box lid. The brand lives in the contrast between that warm, almost retro yellow and a secondary teal (#108474) that appears on buttons, hover states, and product badges — a two-tone palette that signals both approachability and considered craft. The site runs Work Sans across headings and body text, a geometric sans-serif that balances readability with a slight editorial crispness; there is no heavy display weight, no decorative script, just clean utilitarian letterforms that step back and let the game art and product photography carry the visual story. White space is generous — product grids breathe with {spacing.lg} gutters, and the hero section uses a full-bleed background with a soft overlay, letting the featured game’s cover art dominate. Cards use {rounded.sm} corners, buttons are pill-shaped ({rounded.full}) with the yellow primary, and the secondary teal provides a calm, trustworthy alternative for less urgent actions. The footer collapses into a dense, link-heavy column on mobile, and the top navigation uses a sticky bar with a centered logo and a hamburger menu on small screens. The overall mood is bright, hobbyist-friendly, and slightly nostalgic — like a well-lit game cafe rather than a sterile e-commerce store.
+name: "Pandasaurus Games"
+source_url: "https://pandasaurusgames.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A board-game publisher that wraps its playful, tabletop energy in a deep-navy anchor (#121e37) and a marigold-yellow accent (#f8ca14) that reads like a sunlit game box lid. The brand lives in the contrast between that warm, almost retro yellow and a secondary teal (#108474) that appears on buttons, hover states, and product badges — a two-tone palette that signals both approachability and considered craft. The site runs Work Sans across headings and body text, a geometric sans-serif that balances readability with a slight editorial crispness; there is no heavy display weight, no decorative script, just clean utilitarian letterforms that step back and let the game art and product photography carry the visual story. White space is generous — product grids breathe with {spacing.lg} gutters, and the hero section uses a full-bleed background with a soft overlay, letting the featured game’s cover art dominate. Cards use {rounded.sm} corners, buttons are pill-shaped ({rounded.full}) with the yellow primary, and the secondary teal provides a calm, trustworthy alternative for less urgent actions. The footer collapses into a dense, link-heavy column on mobile, and the top navigation uses a sticky bar with a centered logo and a hamburger menu on small screens. The overall mood is bright, hobbyist-friendly, and slightly nostalgic — like a well-lit game cafe rather than a sterile e-commerce store.
 
 colors:
   primary: "#f8ca14"
@@ -323,6 +327,8 @@ components:
 - Search bar may collapse into an icon that expands to a full-width overlay on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states for product cards**: The extracted CSS did not include hover shadow or scale transforms. A subtle box-shadow or slight lift on hover is common in e-commerce but could not be confirmed.
 - **Error and validation styling**: No form error colors (red borders, error text) were extracted. The brand likely uses a red like #c13515 or similar, but this is speculative.

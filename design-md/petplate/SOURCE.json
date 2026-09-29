@@ -1,0 +1,699 @@
+{
+  "source_url": "https://petplate.com",
+  "final_url": "https://www.petplate.com/",
+  "captured_at": "2026-09-28T04:11:00.270125+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://petplate.com",
+      "final_url": "https://www.petplate.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "0b396bc4e37fd3ca0f30bdc8ed4eed35966de7627d4b78f39b6e724e167aa246",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.petplate.com/_next/static/css/2f3e61d78e8d0512.css",
+      "final_url": "https://www.petplate.com/_next/static/css/2f3e61d78e8d0512.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "245170a91938e86fff103f881cb6e15b95a468b99e994e32f668e9a20a7142b1",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.petplate.com/_next/static/css/52f44d6bad6353a0.css",
+      "final_url": "https://www.petplate.com/_next/static/css/52f44d6bad6353a0.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "8a19222ad3d908c2dfa738b18d363935d8b85c21e72e68b31f09975d3eeeb0e9",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.petplate.com/_next/static/css/033a9fb400f6ebda.css",
+      "final_url": "https://www.petplate.com/_next/static/css/033a9fb400f6ebda.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "980502d8e7b6851710a9e411cdca4cfc4e7b0c20c7352b4a782501733332aec5",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.petplate.com/_next/static/css/b26a1f6328a29379.css",
+      "final_url": "https://www.petplate.com/_next/static/css/b26a1f6328a29379.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "d3aead3b8db2eb8c5bc26b4fb2eb85f9a9e50bfba1de252913d85f97821523ac",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 60,
+      "sources": [
+        "https://www.petplate.com/",
+        "https://www.petplate.com/_next/static/css/52f44d6bad6353a0.css",
+        "https://www.petplate.com/_next/static/css/b26a1f6328a29379.css"
+      ]
+    },
+    "#0068e1": {
+      "count": 37,
+      "sources": [
+        "https://www.petplate.com/"
+      ]
+    },
+    "#131923": {
+      "count": 25,
+      "sources": [
+        "https://www.petplate.com/"
+      ]
+    },
+    "#0055b8": {
+      "count": 17,
+      "sources": [
+        "https://www.petplate.com/"
+      ]
+    },
+    "#525f74": {
+      "count": 9,
+      "sources": [
+        "https://www.petplate.com/"
+      ]
+    },
+    "#0064d7": {
+      "count": 9,
+      "sources": [
+        "https://www.petplate.com/"
+      ]
+    },
+    "#c2c9d4": {
+      "count": 7,
+      "sources": [
+        "https://www.petplate.com/"
+      ]
+    },
+    "#5ca7ff": {
+      "count": 6,
+      "sources": [
+        "https://www.petplate.com/"
+      ]
+    },
+    "#8593a9": {
+      "count": 5,
+      "sources": [
+        "https://www.petplate.com/"
+      ]
+    },
+    "#ebf4ff": {
+      "count": 4,
+      "sources": [
+        "https://www.petplate.com/"
+      ]
+    },
+    "#cc4917": {
+      "count": 3,
+      "sources": [
+        "https://www.petplate.com/"
+      ]
+    },
+    "#eceef1": {
+      "count": 2,
+      "sources": [
+        "https://www.petplate.com/"
+      ]
+    },
+    "#e5e7ec": {
+      "count": 2,
+      "sources": [
+        "https://www.petplate.com/"
+      ]
+    },
+    "#f4f5f7": {
+      "count": 2,
+      "sources": [
+        "https://www.petplate.com/"
+      ]
+    },
+    "#ffc600": {
+      "count": 1,
+      "sources": [
+        "https://www.petplate.com/"
+      ]
+    },
+    "#f0f1f4": {
+      "count": 1,
+      "sources": [
+        "https://www.petplate.com/"
+      ]
+    },
+    "#34445f": {
+      "count": 1,
+      "sources": [
+        "https://www.petplate.com/"
+      ]
+    },
+    "#222222": {
+      "count": 1,
+      "sources": [
+        "https://www.petplate.com/_next/static/css/52f44d6bad6353a0.css"
+      ]
+    },
+    "#8dc572": {
+      "count": 1,
+      "sources": [
+        "https://www.petplate.com/_next/static/css/52f44d6bad6353a0.css"
+      ]
+    },
+    "#be6464": {
+      "count": 1,
+      "sources": [
+        "https://www.petplate.com/_next/static/css/52f44d6bad6353a0.css"
+      ]
+    },
+    "#f0ad4e": {
+      "count": 1,
+      "sources": [
+        "https://www.petplate.com/_next/static/css/52f44d6bad6353a0.css"
+      ]
+    },
+    "#337ab7": {
+      "count": 1,
+      "sources": [
+        "https://www.petplate.com/_next/static/css/52f44d6bad6353a0.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.petplate.com/_next/static/css/b26a1f6328a29379.css"
+      ]
+    },
+    "#3498db": {
+      "count": 1,
+      "sources": [
+        "https://www.petplate.com/_next/static/css/b26a1f6328a29379.css"
+      ]
+    },
+    "#07bc0c": {
+      "count": 1,
+      "sources": [
+        "https://www.petplate.com/_next/static/css/b26a1f6328a29379.css"
+      ]
+    },
+    "#f1c40f": {
+      "count": 1,
+      "sources": [
+        "https://www.petplate.com/_next/static/css/b26a1f6328a29379.css"
+      ]
+    },
+    "#e74c3c": {
+      "count": 1,
+      "sources": [
+        "https://www.petplate.com/_next/static/css/b26a1f6328a29379.css"
+      ]
+    },
+    "#757575": {
+      "count": 1,
+      "sources": [
+        "https://www.petplate.com/_next/static/css/b26a1f6328a29379.css"
+      ]
+    },
+    "#616161": {
+      "count": 1,
+      "sources": [
+        "https://www.petplate.com/_next/static/css/b26a1f6328a29379.css"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 1,
+      "sources": [
+        "https://www.petplate.com/_next/static/css/b26a1f6328a29379.css"
+      ]
+    },
+    "#4cd964": {
+      "count": 1,
+      "sources": [
+        "https://www.petplate.com/_next/static/css/b26a1f6328a29379.css"
+      ]
+    },
+    "#5ac8fa": {
+      "count": 1,
+      "sources": [
+        "https://www.petplate.com/_next/static/css/b26a1f6328a29379.css"
+      ]
+    },
+    "#007aff": {
+      "count": 1,
+      "sources": [
+        "https://www.petplate.com/_next/static/css/b26a1f6328a29379.css"
+      ]
+    },
+    "#34aadc": {
+      "count": 1,
+      "sources": [
+        "https://www.petplate.com/_next/static/css/b26a1f6328a29379.css"
+      ]
+    },
+    "#5856d6": {
+      "count": 1,
+      "sources": [
+        "https://www.petplate.com/_next/static/css/b26a1f6328a29379.css"
+      ]
+    },
+    "#ff2d55": {
+      "count": 1,
+      "sources": [
+        "https://www.petplate.com/_next/static/css/b26a1f6328a29379.css"
+      ]
+    },
+    "#bb86fc": {
+      "count": 1,
+      "sources": [
+        "https://www.petplate.com/_next/static/css/b26a1f6328a29379.css"
+      ]
+    },
+    "#000000": {
+      "count": 1,
+      "sources": [
+        "https://www.petplate.com/_next/static/css/b26a1f6328a29379.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Consolas": [
+      "https://www.petplate.com/"
+    ],
+    "Courier New": [
+      "https://www.petplate.com/"
+    ],
+    "Liberation Mono": [
+      "https://www.petplate.com/"
+    ],
+    "Menlo": [
+      "https://www.petplate.com/"
+    ],
+    "Monaco": [
+      "https://www.petplate.com/"
+    ],
+    "SFMono-Regular": [
+      "https://www.petplate.com/"
+    ],
+    "__agipo_3965c3": [
+      "https://www.petplate.com/",
+      "https://www.petplate.com/_next/static/css/033a9fb400f6ebda.css"
+    ],
+    "__agipo_Fallback_3965c3": [
+      "https://www.petplate.com/",
+      "https://www.petplate.com/_next/static/css/033a9fb400f6ebda.css"
+    ],
+    "__lato_45f327": [
+      "https://www.petplate.com/",
+      "https://www.petplate.com/_next/static/css/033a9fb400f6ebda.css"
+    ],
+    "__lato_Fallback_45f327": [
+      "https://www.petplate.com/",
+      "https://www.petplate.com/_next/static/css/033a9fb400f6ebda.css"
+    ],
+    "monospace": [
+      "https://www.petplate.com/"
+    ],
+    "sans-serif": [
+      "https://www.petplate.com/_next/static/css/b26a1f6328a29379.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.petplate.com/",
+      "selector": ".jWwUBM h1",
+      "declarations": "font-size:3.8125rem;letter-spacing:-0.11438rem;font-family:'__agipo_3965c3','__agipo_Fallback_3965c3';line-height:1.049;"
+    },
+    {
+      "source": "https://www.petplate.com/",
+      "selector": ".jWwUBM h1",
+      "declarations": "font-size:3.8125rem;letter-spacing:-0.11438rem;font-family:'__agipo_3965c3','__agipo_Fallback_3965c3';line-height:1.049;"
+    },
+    {
+      "source": "https://www.petplate.com/",
+      "selector": ".jWwUBM h1",
+      "declarations": "font-size:5.625rem;letter-spacing:-0.16875rem;font-family:'__agipo_3965c3','__agipo_Fallback_3965c3';line-height:1.066;"
+    },
+    {
+      "source": "https://www.petplate.com/",
+      "selector": "body",
+      "declarations": "margin:0;-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:rgba($black, 0);"
+    },
+    {
+      "source": "https://www.petplate.com/",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;line-height:1.15;margin:0;"
+    },
+    {
+      "source": "https://www.petplate.com/",
+      "selector": "thead,tbody,tfoot,tr,td,th",
+      "declarations": "border-color:inherit;border-style:solid;border-width:0;"
+    },
+    {
+      "source": "https://www.petplate.com/",
+      "selector": "input,button,select,optgroup,textarea",
+      "declarations": "margin:0;font-family:inherit;line-height:inherit;"
+    },
+    {
+      "source": "https://www.petplate.com/",
+      "selector": "h1.fENkvd",
+      "declarations": "font-size:3.0625rem;letter-spacing:-0.0938rem;font-family:'__agipo_3965c3','__agipo_Fallback_3965c3';line-height:1.061;padding:0rem;margin:0rem;"
+    },
+    {
+      "source": "https://www.petplate.com/",
+      "selector": "h1.fENkvd",
+      "declarations": "font-size:3.0625rem;letter-spacing:-0.0938rem;font-family:'__agipo_3965c3','__agipo_Fallback_3965c3';line-height:1.061;"
+    },
+    {
+      "source": "https://www.petplate.com/",
+      "selector": "h1.fENkvd",
+      "declarations": "font-size:4.1875rem;letter-spacing:-0.125rem;font-family:'__agipo_3965c3','__agipo_Fallback_3965c3';line-height:0.940;"
+    },
+    {
+      "source": "https://www.petplate.com/",
+      "selector": "h1.fENkvd",
+      "declarations": "font-size:5.625rem;letter-spacing:-0.16875rem;font-family:'__agipo_3965c3','__agipo_Fallback_3965c3';line-height:1.066;"
+    },
+    {
+      "source": "https://www.petplate.com/_next/static/css/52f44d6bad6353a0.css",
+      "selector": ":root",
+      "declarations": "--rt-color-white:#fff;--rt-color-dark:#222;--rt-color-success:#8dc572;--rt-color-error:#be6464;--rt-color-warning:#f0ad4e;--rt-color-info:#337ab7;--rt-opacity:0.9;--rt-transition-show-delay:0.15s;--rt-transition-closing-delay:0.15s"
+    },
+    {
+      "source": "https://www.petplate.com/_next/static/css/b26a1f6328a29379.css",
+      "selector": ":root",
+      "declarations": "--toastify-color-light:#fff;--toastify-color-dark:#121212;--toastify-color-info:#3498db;--toastify-color-success:#07bc0c;--toastify-color-warning:#f1c40f;--toastify-color-error:#e74c3c;--toastify-color-transparent:hsla(0,0%,100%,.7);--toastify-icon-color-info:var(--toastify-color-info);--toastify-icon-color-success:var(--toastify-color-success);--toastify-icon-color-warning:var(--toastify-color-warning);--toastify-icon-color-error:var(--toastify-color-error);--toastify-toast-width:320px;--toastify-toast-offset:16px;--toastify-toast-top:max(var(--toastify-toast-offset),env(safe-area-inset-top));--toastify-toast-right:max(var(--toastify-toast-offset),env(safe-area-inset-right));--toastify-toas"
+    },
+    {
+      "source": "https://www.petplate.com/_next/static/css/b26a1f6328a29379.css",
+      "selector": ".Toastify__close-button",
+      "declarations": "color:#fff;background:transparent;outline:none;border:none;padding:0;cursor:pointer;opacity:.7;transition:.3s ease;align-self:flex-start;z-index:1"
+    },
+    {
+      "source": "https://www.petplate.com/_next/static/css/b26a1f6328a29379.css",
+      "selector": ".Toastify__close-button--light",
+      "declarations": "color:#000;opacity:.3"
+    }
+  ],
+  "confidence": "historical_partial_css_evidence",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "PetPlate: Fresh Dog Food Delivery",
+  "schema_version": 1,
+  "design_origin": "historical",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.primary-active": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.primary-disabled": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.primary-light": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.ink": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.body": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.muted": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.muted-soft": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.hairline": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.hairline-soft": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.petplate.com/",
+        "https://www.petplate.com/_next/static/css/52f44d6bad6353a0.css",
+        "https://www.petplate.com/_next/static/css/b26a1f6328a29379.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.petplate.com/",
+        "https://www.petplate.com/_next/static/css/52f44d6bad6353a0.css",
+        "https://www.petplate.com/_next/static/css/b26a1f6328a29379.css"
+      ]
+    },
+    "colors.surface-warm": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.petplate.com/",
+        "https://www.petplate.com/_next/static/css/52f44d6bad6353a0.css",
+        "https://www.petplate.com/_next/static/css/b26a1f6328a29379.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.success-light": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.vet-badge": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.vet-badge-light": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.star-fill": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.petplate.com/_next/static/css/b26a1f6328a29379.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-lg": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.title-lg": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.title-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.title-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.body-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.body-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.caption": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.caption-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.badge-label": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.button-lg": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.button-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.button-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.nav-link": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.step-label": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.price-display": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "rounded.none": {
+      "status": "unverified"
+    },
+    "rounded.xs": {
+      "status": "unverified"
+    },
+    "rounded.sm": {
+      "status": "unverified"
+    },
+    "rounded.md": {
+      "status": "unverified"
+    },
+    "rounded.lg": {
+      "status": "unverified"
+    },
+    "rounded.xl": {
+      "status": "unverified"
+    },
+    "rounded.full": {
+      "status": "unverified"
+    },
+    "spacing.xxs": {
+      "status": "unverified"
+    },
+    "spacing.xs": {
+      "status": "unverified"
+    },
+    "spacing.sm": {
+      "status": "unverified"
+    },
+    "spacing.md": {
+      "status": "unverified"
+    },
+    "spacing.base": {
+      "status": "unverified"
+    },
+    "spacing.lg": {
+      "status": "unverified"
+    },
+    "spacing.xl": {
+      "status": "unverified"
+    },
+    "spacing.xxl": {
+      "status": "unverified"
+    },
+    "spacing.section": {
+      "status": "unverified"
+    },
+    "components.button-primary": {
+      "status": "unverified"
+    },
+    "components.button-primary-disabled": {
+      "status": "unverified"
+    },
+    "components.button-secondary": {
+      "status": "unverified"
+    },
+    "components.button-ghost": {
+      "status": "unverified"
+    },
+    "components.button-sm-pill": {
+      "status": "unverified"
+    },
+    "components.text-input": {
+      "status": "unverified"
+    },
+    "components.select-input": {
+      "status": "unverified"
+    },
+    "components.nav-bar": {
+      "status": "unverified"
+    },
+    "components.nav-cta": {
+      "status": "unverified"
+    },
+    "components.hero-section": {
+      "status": "unverified"
+    },
+    "components.product-card": {
+      "status": "unverified"
+    },
+    "components.plan-card": {
+      "status": "unverified"
+    },
+    "components.quiz-step-indicator": {
+      "status": "unverified"
+    },
+    "components.quiz-option-card": {
+      "status": "unverified"
+    },
+    "components.ingredient-badge": {
+      "status": "unverified"
+    },
+    "components.vet-badge": {
+      "status": "unverified"
+    },
+    "components.usda-badge": {
+      "status": "unverified"
+    },
+    "components.trust-bar": {
+      "status": "unverified"
+    },
+    "components.testimonial-card": {
+      "status": "unverified"
+    },
+    "components.portioning-calculator": {
+      "status": "unverified"
+    },
+    "components.sticky-mobile-cta": {
+      "status": "unverified"
+    },
+    "components.footer": {
+      "status": "unverified"
+    }
+  },
+  "observed_color_tokens": 4,
+  "total_color_tokens": 21
+}

@@ -1,9 +1,13 @@
 ---
 version: alpha
-name: Thomas Scientific
-description: The scarlet alert-red Thomas Scientific uses for every primary CTA — #de1f27, close enough to ANSI safety red that it would not look out of place on a biohazard label — is the clearest signal this catalog was designed for procurement officers working under fluorescent lighting, not lifestyle browsers on OLED phones. Five extracted colors carry the entire functional vocabulary: #de1f27 for action and urgency; #222222 for the dense SKU-and-spec text hierarchy; #6d6e71 for secondary metadata like pack counts and catalog references; #b3d4fc, a washed periwinkle that surfaces in featured category tiles and callout backgrounds, providing the only visual softness in an otherwise utility-first interface; and #116600, a high-contrast institutional green reserved for in-stock confirmations and certified-product badges. Sans-serif is the only declared typeface — no custom brand font was resolved — which fits: typography here primarily serves readability of alphanumeric part numbers, specification tables, and CAS registry codes rather than brand storytelling.
+name: "Thomas Scientific"
+source_url: "https://www.thomassci.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The scarlet alert-red Thomas Scientific uses for every primary CTA — #de1f27, close enough to ANSI safety red that it would not look out of place on a biohazard label — is the clearest signal this catalog was designed for procurement officers working under fluorescent lighting, not lifestyle browsers on OLED phones. Five extracted colors carry the entire functional vocabulary: #de1f27 for action and urgency; #222222 for the dense SKU-and-spec text hierarchy; #6d6e71 for secondary metadata like pack counts and catalog references; #b3d4fc, a washed periwinkle that surfaces in featured category tiles and callout backgrounds, providing the only visual softness in an otherwise utility-first interface; and #116600, a high-contrast institutional green reserved for in-stock confirmations and certified-product badges. Sans-serif is the only declared typeface — no custom brand font was resolved — which fits: typography here primarily serves readability of alphanumeric part numbers, specification tables, and CAS registry codes rather than brand storytelling.
 
-Buttons are rectangular, minimally rounded ({rounded.xs}), sized for decisive reorder clicks rather than exploratory browsing — the form follows the procurement workflow. The search bar dominates above the fold, flanked by a {colors.primary} submit button, because this catalog spans tens of thousands of SKUs and navigation by browse alone is impractical. Product cards lead with an image on a {colors.surface-soft} field, followed immediately by a monospace catalog number ({typography.part-number}), then title, pack size, and price in {colors.primary} — the hierarchy mirrors how a lab manager scans a requisition form. Category tiles draw on {colors.accent-blue} to visually separate browse-mode navigation from the transaction-mode product list. A top utility bar in {colors.primary} carries account links, order history, and quick-order entry — features only a returning professional purchaser needs at a glance.
+  Buttons are rectangular, minimally rounded ({rounded.xs}), sized for decisive reorder clicks rather than exploratory browsing — the form follows the procurement workflow. The search bar dominates above the fold, flanked by a {colors.primary} submit button, because this catalog spans tens of thousands of SKUs and navigation by browse alone is impractical. Product cards lead with an image on a {colors.surface-soft} field, followed immediately by a monospace catalog number ({typography.part-number}), then title, pack size, and price in {colors.primary} — the hierarchy mirrors how a lab manager scans a requisition form. Category tiles draw on {colors.accent-blue} to visually separate browse-mode navigation from the transaction-mode product list. A top utility bar in {colors.primary} carries account links, order history, and quick-order entry — features only a returning professional purchaser needs at a glance.
 
 colors:
   primary: "#de1f27"
@@ -372,6 +376,8 @@ components:
 - Footer columns collapse to single accordion on mobile; all link lists hidden behind expand controls
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The site returned "Something went wrong" during extraction — only five hex values and a bare `sans-serif` declaration were recovered. All derived colors (primary-active, primary-disabled, hairline, surface-soft, canvas) are reasonable inference from the extracted palette, not confirmed values
 - No custom typeface was identified; the actual site likely uses a licensed or web-hosted sans-serif (possibly Arial, Source Sans Pro, or a Fonts.com license) that was not resolvable during extraction — typography scale sizes and weights are estimated from B2B catalog norms

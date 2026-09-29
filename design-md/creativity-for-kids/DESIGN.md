@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Creativity for Kids
-description: A deep forest-green (#05301a) anchors the brand as a grounding, earthy presence — not the bright primary of a toy aisle, but the color of a pine needle floor in a shaded woods. That green runs through the primary buttons, the footer background, and the header logo area, while a warm off-white canvas (#f6f6f0) — like unbleached paper or natural linen — replaces pure white everywhere, softening the reading experience. The palette leans heavily on a muted, almost monochromatic gray system (#707170, #787878, #aaaaaa, #d5d5d5, #eeeeee) that creates a quiet, uncluttered stage for product photography and craft materials. A single accent of marigold yellow (#eedd22) appears sparingly — perhaps on sale badges or age-range indicators — and a restrained red (#c60808) marks errors or limited-time callouts. Typography defaults to system sans-serif (Arial, Georgia for serif moments), suggesting the brand prioritizes readability and low visual friction over typographic personality. Cards and buttons use soft rounding (`{rounded.sm}` for buttons, `{rounded.md}` for cards), and the generous spacing (`{spacing.lg}` between elements, `{spacing.section}` between major blocks) gives the page the unhurried rhythm of a craft table where materials are laid out one at a time. The overall impression is not of a children's brand shouting for attention, but of a thoughtful, nature-connected space that trusts the creativity of the child — and the calm of the parent — to fill the silence.
+name: "Creativity for Kids"
+source_url: "https://www.fabercastell.com/pages/creativity-for-kids"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep forest-green (#05301a) anchors the brand as a grounding, earthy presence — not the bright primary of a toy aisle, but the color of a pine needle floor in a shaded woods. That green runs through the primary buttons, the footer background, and the header logo area, while a warm off-white canvas (#f6f6f0) — like unbleached paper or natural linen — replaces pure white everywhere, softening the reading experience. The palette leans heavily on a muted, almost monochromatic gray system (#707170, #787878, #aaaaaa, #d5d5d5, #eeeeee) that creates a quiet, uncluttered stage for product photography and craft materials. A single accent of marigold yellow (#eedd22) appears sparingly — perhaps on sale badges or age-range indicators — and a restrained red (#c60808) marks errors or limited-time callouts. Typography defaults to system sans-serif (Arial, Georgia for serif moments), suggesting the brand prioritizes readability and low visual friction over typographic personality. Cards and buttons use soft rounding (`{rounded.sm}` for buttons, `{rounded.md}` for cards), and the generous spacing (`{spacing.lg}` between elements, `{spacing.section}` between major blocks) gives the page the unhurried rhythm of a craft table where materials are laid out one at a time. The overall impression is not of a children's brand shouting for attention, but of a thoughtful, nature-connected space that trusts the creativity of the child — and the calm of the parent — to fill the silence.
 
 colors:
   primary: "#05301a"
@@ -301,6 +305,8 @@ components:
 - Category chip rows become horizontally scrollable with a fade-to-white edge indicator
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted hex list is heavily weighted toward grays and neutrals (20+ of the 30 extracted colors are in the gray/silver range), suggesting the live site uses a very restrained palette with only a few brand accents. The true brand primary (#05301a) and the marigold yellow (#eedd22) were identified as the most distinctive colors in the list, but their exact usage ratios (how much green vs. how much yellow) could not be determined from frequency alone.
 - No custom font family was detected — the site uses system fonts (Arial, Georgia). This may be intentional (low-friction, fast-loading) or a gap in extraction. If the brand has a custom typeface, it was not present in the extracted CSS.

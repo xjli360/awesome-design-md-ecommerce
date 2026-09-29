@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Crucial
-description: A deep blue anchor of #0068ff that reads as engineered trust — not the friendly pastel of consumer tech but the saturated, confident blue of a company that makes the memory and storage your computer depends on. That primary blue runs through every primary CTA, every navigation highlight, and every product-badge accent, set against a near-white canvas of #fefefd that keeps the technical content airy and readable. The typography is all MicronBasis, a proprietary family that runs from the ultra-light (MicronBasis-Light at 300 weight) used for massive hero headlines to the black weight (MicronBasis-Black) reserved for pricing and critical calls to action — there is no generic system font here, every character carries the Micron parent brand's engineering authority. Product cards use a soft {rounded.md} radius, while buttons and badges take a tighter {rounded.sm}, and the search bar stretches across the top with a {rounded.full} pill shape that feels approachable despite the technical subject matter. The extracted palette reveals a surprising secondary voltage: #bd03f7 (a vivid magenta) and #3539f4 (a near-neon indigo) appear in spec-sheet highlights and compatibility-checker badges, giving the brand a subtle gaming/enthusiast undercurrent alongside the enterprise-blue surface. Gray values from #8c8c8c down to #f2f2f2 build a careful hierarchy for technical specifications, compatibility tables, and product comparisons — the brand trusts its data density and doesn't shy from showing you the full spec sheet. The overall mood is "premium component manufacturer who knows you care about the numbers": clean, blue-anchored, data-forward, with just enough accent color to signal that this storage can also be fast and fun.
+name: "Crucial"
+source_url: "https://www.crucial.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep blue anchor of #0068ff that reads as engineered trust — not the friendly pastel of consumer tech but the saturated, confident blue of a company that makes the memory and storage your computer depends on. That primary blue runs through every primary CTA, every navigation highlight, and every product-badge accent, set against a near-white canvas of #fefefd that keeps the technical content airy and readable. The typography is all MicronBasis, a proprietary family that runs from the ultra-light (MicronBasis-Light at 300 weight) used for massive hero headlines to the black weight (MicronBasis-Black) reserved for pricing and critical calls to action — there is no generic system font here, every character carries the Micron parent brand's engineering authority. Product cards use a soft {rounded.md} radius, while buttons and badges take a tighter {rounded.sm}, and the search bar stretches across the top with a {rounded.full} pill shape that feels approachable despite the technical subject matter. The extracted palette reveals a surprising secondary voltage: #bd03f7 (a vivid magenta) and #3539f4 (a near-neon indigo) appear in spec-sheet highlights and compatibility-checker badges, giving the brand a subtle gaming/enthusiast undercurrent alongside the enterprise-blue surface. Gray values from #8c8c8c down to #f2f2f2 build a careful hierarchy for technical specifications, compatibility tables, and product comparisons — the brand trusts its data density and doesn't shy from showing you the full spec sheet. The overall mood is "premium component manufacturer who knows you care about the numbers": clean, blue-anchored, data-forward, with just enough accent color to signal that this storage can also be fast and fun.
 
 colors:
   primary: "#0068ff"
@@ -353,6 +357,8 @@ components:
 - Compatibility checker results collapse to a single-column list on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for many components (especially text inputs, dropdowns, and product cards) were inferred from common patterns rather than extracted from the live site
 - Error styling for form validation (red borders, error messages) is based on the extracted #ec0b00 accent red but exact implementation details are unknown

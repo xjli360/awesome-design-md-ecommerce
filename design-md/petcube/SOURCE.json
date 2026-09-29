@@ -1,0 +1,795 @@
+{
+  "source_url": "https://petcube.com",
+  "final_url": "https://petcube.com/",
+  "captured_at": "2026-09-28T04:47:22.622933+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://petcube.com",
+      "final_url": "https://petcube.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "969fc5fbf2ceaed139baa23c4a6b8ffc6274046d095b08760dcd89d14370f751",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://petcube.com/build/app.f1aa2800.css",
+      "final_url": "https://petcube.com/build/app.f1aa2800.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ff168953e58e770fd5db3fad5ff54ef029b5e3f31b5a2e12b4d44cb960790624",
+      "snapshot": "stylesheet-1.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 321,
+      "sources": [
+        "https://petcube.com/",
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#6e6e6f": {
+      "count": 144,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#29292b": {
+      "count": 91,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#ffb731": {
+      "count": 89,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#aadddd": {
+      "count": 88,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#f4a614": {
+      "count": 86,
+      "sources": [
+        "https://petcube.com/",
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#979798": {
+      "count": 60,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#f9b72f": {
+      "count": 57,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#171716": {
+      "count": 52,
+      "sources": [
+        "https://petcube.com/",
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#e0e0e2": {
+      "count": 48,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#f8f8f9": {
+      "count": 48,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#000000": {
+      "count": 46,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#9a9a9a": {
+      "count": 46,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#606060": {
+      "count": 42,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#272727": {
+      "count": 39,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#f1f1f3": {
+      "count": 35,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#c7c7c7": {
+      "count": 28,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#bfbfc1": {
+      "count": 24,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#171716a6": {
+      "count": 22,
+      "sources": [
+        "https://petcube.com/"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 22,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 16,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#fafafa": {
+      "count": 14,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 13,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#29292a": {
+      "count": 13,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#da4848": {
+      "count": 12,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#282828": {
+      "count": 12,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#f9aa16": {
+      "count": 9,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#46c786": {
+      "count": 8,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#666666": {
+      "count": 8,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#68686a": {
+      "count": 8,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 7,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#d2d2d2": {
+      "count": 7,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#eee5da": {
+      "count": 6,
+      "sources": [
+        "https://petcube.com/",
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#d0d0d0": {
+      "count": 6,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#f3f3f4": {
+      "count": 6,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#ff7768": {
+      "count": 6,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#686868": {
+      "count": 6,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#d1d1d1": {
+      "count": 6,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#fff4de": {
+      "count": 6,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#565656": {
+      "count": 5,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#303030": {
+      "count": 5,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 5,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#ff574a": {
+      "count": 5,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 5,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#9a9a9c": {
+      "count": 5,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#ffc856": {
+      "count": 5,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#9e9ea0": {
+      "count": 5,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 4,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#70ca7b": {
+      "count": 4,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#e0e0e1": {
+      "count": 4,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#e4e4e4": {
+      "count": 4,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#5bce3e": {
+      "count": 4,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#fef5e2": {
+      "count": 4,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 4,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#cbcbcd": {
+      "count": 4,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#e7e7e7": {
+      "count": 3,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#ffc55a": {
+      "count": 3,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#feeca0": {
+      "count": 3,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#efefef": {
+      "count": 3,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "#c6c6c8": {
+      "count": 3,
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Comic Sans": [
+      "https://petcube.com/build/app.f1aa2800.css"
+    ],
+    "Comic Sans MS": [
+      "https://petcube.com/build/app.f1aa2800.css"
+    ],
+    "Montserrat": [
+      "https://petcube.com/",
+      "https://petcube.com/build/app.f1aa2800.css"
+    ],
+    "monospace": [
+      "https://petcube.com/build/app.f1aa2800.css"
+    ],
+    "petcube-web-icons": [
+      "https://petcube.com/",
+      "https://petcube.com/build/app.f1aa2800.css"
+    ],
+    "petcube-web-icons!important": [
+      "https://petcube.com/"
+    ],
+    "sans-serif": [
+      "https://petcube.com/build/app.f1aa2800.css"
+    ],
+    "swiper-icons": [
+      "https://petcube.com/build/app.f1aa2800.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://petcube.com/build/app.f1aa2800.css",
+      "selector": ".owl-carousel .owl-nav button.owl-next,.owl-carousel .owl-nav button.owl-prev,.owl-carousel button.owl-dot",
+      "declarations": "background:none;color:inherit;border:none;padding:0!important;font:inherit"
+    },
+    {
+      "source": "https://petcube.com/build/app.f1aa2800.css",
+      "selector": ":root",
+      "declarations": "--swiper-theme-color:#007aff"
+    },
+    {
+      "source": "https://petcube.com/build/app.f1aa2800.css",
+      "selector": ":root",
+      "declarations": "--swiper-navigation-size:44px"
+    },
+    {
+      "source": "https://petcube.com/build/app.f1aa2800.css",
+      "selector": ".swiper-button-next,.swiper-button-prev",
+      "declarations": "position:absolute;top:var(--swiper-navigation-top-offset,50%);width:calc(var(--swiper-navigation-size) / 44 * 27);height:var(--swiper-navigation-size);margin-top:calc(0px - (var(--swiper-navigation-size) / 2));z-index:10;cursor:pointer;display:flex;align-items:center;justify-content:center;color:var(--swiper-navigation-color,var(--swiper-theme-color))"
+    },
+    {
+      "source": "https://petcube.com/build/app.f1aa2800.css",
+      "selector": ".swiper-button-next:after,.swiper-button-prev:after",
+      "declarations": "font-family:swiper-icons;font-size:var(--swiper-navigation-size);text-transform:none!important;letter-spacing:0;font-variant:normal;line-height:1"
+    },
+    {
+      "source": "https://petcube.com/build/app.f1aa2800.css",
+      "selector": ".selectize-dropdown-header-close",
+      "declarations": "position:absolute;right:8px;top:50%;color:#303030;opacity:.4;margin-top:-12px;line-height:20px;font-size:20px!important"
+    },
+    {
+      "source": "https://petcube.com/build/app.f1aa2800.css",
+      "selector": ".selectize-dropdown-header-close:hover",
+      "declarations": "color:#000"
+    },
+    {
+      "source": "https://petcube.com/build/app.f1aa2800.css",
+      "selector": ".selectize-control.plugin-remove_button [data-value] .remove",
+      "declarations": "z-index:1;position:absolute;top:0;right:0;bottom:0;width:17px;text-align:center;font-weight:700;font-size:12px;color:inherit;text-decoration:none;vertical-align:middle;display:inline-block;padding:2px 0 0;border-left:1px solid #d0d0d0;-webkit-border-radius:0 2px 2px 0;-moz-border-radius:0 2px 2px 0;border-radius:0 2px 2px 0;-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box"
+    },
+    {
+      "source": "https://petcube.com/build/app.f1aa2800.css",
+      "selector": ".selectize-control.plugin-remove_button [data-value].active .remove",
+      "declarations": "border-left-color:#cacaca"
+    },
+    {
+      "source": "https://petcube.com/build/app.f1aa2800.css",
+      "selector": ".selectize-control.plugin-remove_button .disabled [data-value] .remove",
+      "declarations": "border-left-color:#fff"
+    },
+    {
+      "source": "https://petcube.com/build/app.f1aa2800.css",
+      "selector": ".selectize-dropdown .optgroup-header",
+      "declarations": "color:#303030;background:#fff;cursor:default"
+    },
+    {
+      "source": "https://petcube.com/build/app.f1aa2800.css",
+      "selector": "body,html",
+      "declarations": "font-synthesis:none;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-family:Montserrat,sans-serif;font-weight:400;font-size:16px;color:#171716;line-height:normal"
+    },
+    {
+      "source": "https://petcube.com/build/app.f1aa2800.css",
+      "selector": ":root",
+      "declarations": "--header-height:70px"
+    },
+    {
+      "source": "https://petcube.com/build/app.f1aa2800.css",
+      "selector": ".checkbox.checkbox-button:checked+label,.radio.radio-button:checked+label",
+      "declarations": "border-color:#f4a614;background-color:#f4a614;color:#fff"
+    },
+    {
+      "source": "https://petcube.com/build/app.f1aa2800.css",
+      "selector": ".input-item.number button",
+      "declarations": "display:block;position:absolute;font-size:16px;letter-spacing:normal;color:#f9b72f;width:16px;height:16px;top:50%;-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%);transform:translateY(-50%);cursor:pointer;padding:0;border:none"
+    },
+    {
+      "source": "https://petcube.com/build/app.f1aa2800.css",
+      "selector": ".input-item.number button,.input-item.number button:hover",
+      "declarations": "background-color:transparent"
+    },
+    {
+      "source": "https://petcube.com/build/app.f1aa2800.css",
+      "selector": ".button,button",
+      "declarations": "position:relative;display:inline-block;vertical-align:middle;font-weight:800;font-size:14px;line-height:20px;letter-spacing:.08075em;padding:14px 32px;text-transform:uppercase;text-decoration:none;text-align:center;border-radius:6px;-webkit-transition:all .3s ease;-o-transition:all .3s ease;transition:all .3s ease;background:no-repeat 25px #f9b72f;border:2px solid #f9b72f;color:#fff"
+    },
+    {
+      "source": "https://petcube.com/build/app.f1aa2800.css",
+      "selector": ".button:hover,button:hover",
+      "declarations": "text-decoration:none;cursor:pointer;background-color:#ffc55a;border-color:#ffc55a"
+    },
+    {
+      "source": "https://petcube.com/build/app.f1aa2800.css",
+      "selector": ".button:disabled,button:disabled",
+      "declarations": "cursor:default;background-color:#c7c7c7;border-color:#c7c7c7"
+    },
+    {
+      "source": "https://petcube.com/build/app.f1aa2800.css",
+      "selector": ".button.yellow:disabled,button.yellow:disabled",
+      "declarations": "cursor:default;background-color:#ffe2ad;border-color:#ffe2ad"
+    },
+    {
+      "source": "https://petcube.com/build/app.f1aa2800.css",
+      "selector": ".button.invert,button.invert",
+      "declarations": "background-color:#fff;border-color:#f9b72f;color:#f9b72f"
+    },
+    {
+      "source": "https://petcube.com/build/app.f1aa2800.css",
+      "selector": ".button.invert:hover,button.invert:hover",
+      "declarations": "background-color:#f9b72f;border-color:#f9b72f;color:#fff"
+    },
+    {
+      "source": "https://petcube.com/build/app.f1aa2800.css",
+      "selector": ".button.invert-bordered,button.invert-bordered",
+      "declarations": "background-color:#fff;border-color:#e0e0e2;color:#f9b72f"
+    },
+    {
+      "source": "https://petcube.com/build/app.f1aa2800.css",
+      "selector": ".button.invert-bordered:hover,button.invert-bordered:hover",
+      "declarations": "background-color:#f9b72f;border-color:#f9b72f;color:#fff"
+    },
+    {
+      "source": "https://petcube.com/build/app.f1aa2800.css",
+      "selector": ".button.hold:hover,button.hold:hover",
+      "declarations": "cursor:default;background-color:#f9b72f;border-color:#f9b72f"
+    },
+    {
+      "source": "https://petcube.com/build/app.f1aa2800.css",
+      "selector": ".button.ghost,button.ghost",
+      "declarations": "background-color:transparent;border-color:#272727;color:#272727"
+    },
+    {
+      "source": "https://petcube.com/build/app.f1aa2800.css",
+      "selector": ".button.ghost:hover,button.ghost:hover",
+      "declarations": "border-color:#606060;color:#606060"
+    },
+    {
+      "source": "https://petcube.com/build/app.f1aa2800.css",
+      "selector": ".button.ghost:disabled,button.ghost:disabled",
+      "declarations": "border-color:#c7c7c7;color:#c7c7c7;cursor:default"
+    },
+    {
+      "source": "https://petcube.com/build/app.f1aa2800.css",
+      "selector": ".button.ghost-light,button.ghost-light",
+      "declarations": "background-color:transparent;border-color:#c7c7c7;color:#c7c7c7"
+    },
+    {
+      "source": "https://petcube.com/build/app.f1aa2800.css",
+      "selector": ".button.ghost-light:hover,button.ghost-light:hover",
+      "declarations": "border-color:#272727;color:#272727"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Petcube - The Smartest Pet Cameras For Cats & Dogs. Alexa built-in",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petcube.com/",
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petcube.com/",
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petcube.com/",
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "colors.accent-secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petcube.com/",
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "colors.error": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "colors.badge-cream": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petcube.com/build/app.f1aa2800.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.countdown-banner": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Glowforge
-description: |
+name: "Glowforge"
+source_url: "https://www.glowforge.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Glowforge calls its laser cutter a "3D laser printer" — a positioning move that reveals the brand's core bet: this machine belongs beside the blender, not in a fabrication shop. Every visual decision shores up that reframe. Hero sections open on deep workshop darks (#0a3036, #000527), a near-black teal that evokes standing in a studio at midnight, watching a beam trace a pattern. Against that darkness the brand's single voltage fires: laser-beam teal (#26b8ce), the precise hue of a blue diode's glow applied to every primary CTA, navigation highlight, and feature icon. It is a literal color — the machine makes that light — which gives the interface a physical grounding most software-adjacent brands lack.
 
   Three geometric font stacks divide the voice. Space Grotesk carries display headlines with its open apertures and slightly quirky lowercase, reading as confident without shouting. Exo 2 handles model-name badges and technical callouts, lending spec copy a futurist edge that stops short of science fiction. Poppins flows through body copy and UI labels, adding warmth where the other two would harden. No serif surfaces anywhere — this is a brand organized around precision and forward motion.
@@ -412,6 +415,8 @@ components:
 - Spec table columns reorder on mobile: label moves above value in a stacked single-column layout rather than horizontal scrolling
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact font-size scale for mobile hero headings not extracted; values above are inferred from common Shopify theme patterns
 - Animation timing values (laser-glow pulse effects, CTA hover transitions) not visible in static extraction

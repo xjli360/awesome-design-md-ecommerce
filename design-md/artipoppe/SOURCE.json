@@ -1,0 +1,871 @@
+{
+  "source_url": "https://artipoppe.com",
+  "final_url": "https://artipoppe.com/",
+  "captured_at": "2026-09-28T09:22:12.982504+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://artipoppe.com",
+      "final_url": "https://artipoppe.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "06eebb40246e046b1eeb34260306a43425bdef862e0113f5e12565891be8c8bd",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/slick.min.css?ver=1.1",
+      "final_url": "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/slick.min.css?ver=1.1",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "ce8e03bfe38b41d6b709036668ace239ca155073d6ae713816bb0386c0c4f92f",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/slick-theme.min.css?ver=1.1",
+      "final_url": "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/slick-theme.min.css?ver=1.1",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "aa4bc789142ca61c2faae60acec10c04360e92f0995c4bc6d29b076e39d09e2c",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://artipoppe.com/wp-content/themes/artipoppe/css/source/template-newhome.css?ver=1782292500",
+      "final_url": "https://artipoppe.com/wp-content/themes/artipoppe/css/source/template-newhome.css?ver=1782292500",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "3901800399fe2833f390ad3d6798fa5e06287d29a0821aefd003167bf08fdf9c",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://artipoppe.com/wp-content/themes/artipoppe/css/font-awesome.min.css?ver=1.0",
+      "final_url": "https://artipoppe.com/wp-content/themes/artipoppe/css/font-awesome.min.css?ver=1.0",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "5f7bcc340316613eda981ebe7cd528350baee73bdc9466725c8ff0082efb61c8",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0",
+      "final_url": "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "a4a1ecf29c55476fdc9b36eb08f21bc17537336228d72a7c34c71e9bcab0b917",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 120,
+      "sources": [
+        "https://artipoppe.com/",
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/slick-theme.min.css?ver=1.1",
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/source/template-newhome.css?ver=1782292500",
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/font-awesome.min.css?ver=1.0",
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#6c757d": {
+      "count": 38,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#007bff": {
+      "count": 31,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#212529": {
+      "count": 25,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#dc3545": {
+      "count": 23,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#28a745": {
+      "count": 23,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#dee2e6": {
+      "count": 20,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#f8f9fa": {
+      "count": 18,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#ffc107": {
+      "count": 17,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#17a2b8": {
+      "count": 17,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#343a40": {
+      "count": 17,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#e9ecef": {
+      "count": 16,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#000000": {
+      "count": 15,
+      "sources": [
+        "https://artipoppe.com/",
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/slick-theme.min.css?ver=1.1",
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/source/template-newhome.css?ver=1782292500",
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#495057": {
+      "count": 12,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#ced4da": {
+      "count": 5,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#0062cc": {
+      "count": 5,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#545b62": {
+      "count": 5,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#1e7e34": {
+      "count": 5,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#117a8b": {
+      "count": 5,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#d39e00": {
+      "count": 5,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#bd2130": {
+      "count": 5,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#dae0e5": {
+      "count": 5,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#1d2124": {
+      "count": 5,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#004085": {
+      "count": 5,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#383d41": {
+      "count": 5,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#155724": {
+      "count": 5,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#0c5460": {
+      "count": 5,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#856404": {
+      "count": 5,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#721c24": {
+      "count": 5,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#818182": {
+      "count": 5,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#1b1e21": {
+      "count": 5,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#9fcdff": {
+      "count": 4,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#c8cbcf": {
+      "count": 4,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#b1dfbb": {
+      "count": 4,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#abdde5": {
+      "count": 4,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#ffe8a1": {
+      "count": 4,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#f1b0b7": {
+      "count": 4,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#ececf6": {
+      "count": 4,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#b9bbbe": {
+      "count": 4,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#80bdff": {
+      "count": 4,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#ff6900": {
+      "count": 3,
+      "sources": [
+        "https://artipoppe.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 3,
+      "sources": [
+        "https://artipoppe.com/",
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/source/template-newhome.css?ver=1782292500",
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/font-awesome.min.css?ver=1.0"
+      ]
+    },
+    "#0056b3": {
+      "count": 3,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#b8daff": {
+      "count": 3,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#d6d8db": {
+      "count": 3,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#c3e6cb": {
+      "count": 3,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#bee5eb": {
+      "count": 3,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#ffeeba": {
+      "count": 3,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#f5c6cb": {
+      "count": 3,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#fdfdfe": {
+      "count": 3,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#c6c8ca": {
+      "count": 3,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#32373c": {
+      "count": 2,
+      "sources": [
+        "https://artipoppe.com/"
+      ]
+    },
+    "#cf2e2e": {
+      "count": 2,
+      "sources": [
+        "https://artipoppe.com/"
+      ]
+    },
+    "#fcb900": {
+      "count": 2,
+      "sources": [
+        "https://artipoppe.com/"
+      ]
+    },
+    "#0693e3": {
+      "count": 2,
+      "sources": [
+        "https://artipoppe.com/"
+      ]
+    },
+    "#9b51e0": {
+      "count": 2,
+      "sources": [
+        "https://artipoppe.com/"
+      ]
+    },
+    "#e83e8c": {
+      "count": 2,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#32383e": {
+      "count": 2,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 2,
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "#abb8c3": {
+      "count": 1,
+      "sources": [
+        "https://artipoppe.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+    ],
+    "Apple Color Emoji": [
+      "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+    ],
+    "Arial": [
+      "https://artipoppe.com/wp-content/themes/artipoppe/css/source/template-newhome.css?ver=1782292500",
+      "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+    ],
+    "Avenir Heavy": [
+      "https://artipoppe.com/wp-content/themes/artipoppe/css/source/template-newhome.css?ver=1782292500"
+    ],
+    "AvenirM": [
+      "https://artipoppe.com/wp-content/themes/artipoppe/css/source/template-newhome.css?ver=1782292500"
+    ],
+    "BlinkMacSystemFont": [
+      "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+    ],
+    "Consolas": [
+      "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+    ],
+    "Courier New": [
+      "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+    ],
+    "FontAwesome": [
+      "https://artipoppe.com/wp-content/themes/artipoppe/css/font-awesome.min.css?ver=1.0"
+    ],
+    "Helvetica": [
+      "https://artipoppe.com/wp-content/themes/artipoppe/css/source/template-newhome.css?ver=1782292500"
+    ],
+    "Helvetica Neue": [
+      "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+    ],
+    "Liberation Mono": [
+      "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+    ],
+    "Menlo": [
+      "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+    ],
+    "Monaco": [
+      "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+    ],
+    "Roboto": [
+      "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+    ],
+    "SFMono-Regular": [
+      "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+    ],
+    "Segoe UI": [
+      "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+    ],
+    "Segoe UI Emoji": [
+      "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+    ],
+    "Segoe UI Symbol": [
+      "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+    ],
+    "monospace": [
+      "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+    ],
+    "sans-serif": [
+      "https://artipoppe.com/wp-content/themes/artipoppe/css/source/template-newhome.css?ver=1782292500",
+      "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+    ],
+    "slick": [
+      "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/slick-theme.min.css?ver=1.1"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://artipoppe.com/",
+      "selector": ".wp-block-button__link",
+      "declarations": "color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em"
+    },
+    {
+      "source": "https://artipoppe.com/",
+      "selector": ".wp-block-file__button",
+      "declarations": "background:#32373c;color:#fff;text-decoration:none"
+    },
+    {
+      "source": "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/slick-theme.min.css?ver=1.1",
+      "selector": ".slick-dots li button",
+      "declarations": "border:0;background:0 0;display:block;height:20px;width:20px;outline:0;line-height:0;font-size:0;color:transparent;padding:5px;cursor:pointer"
+    },
+    {
+      "source": "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/slick-theme.min.css?ver=1.1",
+      "selector": ".slick-dots li button .slick-dot-icon",
+      "declarations": "color:#000;opacity:.25"
+    },
+    {
+      "source": "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/slick-theme.min.css?ver=1.1",
+      "selector": ".slick-dots li button .slick-dot-icon:before",
+      "declarations": "position:absolute;top:0;left:0;content:\"•\";width:20px;height:20px;font-family:slick;font-size:6px;line-height:20px;text-align:center"
+    },
+    {
+      "source": "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/slick-theme.min.css?ver=1.1",
+      "selector": ".slick-dots li.slick-active button .slick-dot-icon",
+      "declarations": "color:#000;opacity:.75"
+    },
+    {
+      "source": "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/slick-theme.min.css?ver=1.1",
+      "selector": ".slick-autoplay-toggle-button .slick-pause-icon:before",
+      "declarations": "content:\"⏸\";width:20px;height:20px;font-family:slick;font-size:16px;line-height:20px;text-align:center"
+    },
+    {
+      "source": "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/slick-theme.min.css?ver=1.1",
+      "selector": ".slick-autoplay-toggle-button .slick-play-icon:before",
+      "declarations": "content:\"▶\";width:20px;height:20px;font-family:slick;font-size:16px;line-height:20px;text-align:center"
+    },
+    {
+      "source": "https://artipoppe.com/wp-content/themes/artipoppe/css/source/template-newhome.css?ver=1782292500",
+      "selector": ".slider-home_slick-slider .slick-slide .product-name",
+      "declarations": "margin-bottom: 6px;\r\n    font-family: 'AvenirM';\r\n    font-size: 12px;\r\n    line-height: 18px;\r\n    font-weight: 500;\r\n    text-transform: none;\r\n    letter-spacing: 1px;"
+    },
+    {
+      "source": "https://artipoppe.com/wp-content/themes/artipoppe/css/source/template-newhome.css?ver=1782292500",
+      "selector": ".sectionwrap.secBanner.mainsec1 .btn.btnLanding.hero-cta",
+      "declarations": "font-family: \"Avenir Heavy\", Helvetica, Arial, sans-serif;\r\n        color: #111;\r\n        background: #fff;\r\n        width: 100%;\r\n        min-width: 0;\r\n        height: auto;\r\n        margin: 0;\r\n        padding: 8px 18px;\r\n        border: 1px solid rgba(0, 0, 0, 0.18);\r\n        font-size: 12px;\r\n        text-transform: uppercase;\r\n        box-shadow: none;\r\n        font-weight: 500;\r\n        font-stretch: normal;\r\n        font-style: normal;\r\n        line-height: 14px;\r\n        letter-spacing: 1px;\r\n        text-align: center;\r\n        max-width: 275px;"
+    },
+    {
+      "source": "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0",
+      "selector": ":root",
+      "declarations": "--blue:#007bff;--indigo:#6610f2;--purple:#6f42c1;--pink:#e83e8c;--red:#dc3545;--orange:#fd7e14;--yellow:#ffc107;--green:#28a745;--teal:#20c997;--cyan:#17a2b8;--white:#fff;--gray:#6c757d;--gray-dark:#343a40;--primary:#007bff;--secondary:#6c757d;--success:#28a745;--info:#17a2b8;--warning:#ffc107;--danger:#dc3545;--light:#f8f9fa;--dark:#343a40;--breakpoint-xs:0;--breakpoint-sm:576px;--breakpoint-md:768px;--breakpoint-lg:992px;--breakpoint-xl:1200px;--font-family-sans-serif:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\";--font-family-monospace:SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Couri"
+    },
+    {
+      "source": "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0",
+      "selector": "body",
+      "declarations": "margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\";font-size:1rem;font-weight:400;line-height:1.5;color:#212529;text-align:left;background-color:#fff"
+    },
+    {
+      "source": "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "margin:0;font-family:inherit;font-size:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0",
+      "selector": ".h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6",
+      "declarations": "margin-bottom:.5rem;font-family:inherit;font-weight:500;line-height:1.2;color:inherit"
+    },
+    {
+      "source": "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0",
+      "selector": ".table-striped tbody tr:nth-of-type(odd)",
+      "declarations": "background-color:rgba(0,0,0,.05)"
+    },
+    {
+      "source": "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0",
+      "selector": ".table-hover tbody tr:hover",
+      "declarations": "background-color:rgba(0,0,0,.075)"
+    },
+    {
+      "source": "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0",
+      "selector": ".table-dark.table-striped tbody tr:nth-of-type(odd)",
+      "declarations": "background-color:rgba(255,255,255,.05)"
+    },
+    {
+      "source": "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0",
+      "selector": ".table-dark.table-hover tbody tr:hover",
+      "declarations": "background-color:rgba(255,255,255,.075)"
+    },
+    {
+      "source": "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0",
+      "selector": ".btn-primary",
+      "declarations": "color:#fff;background-color:#007bff;border-color:#007bff"
+    },
+    {
+      "source": "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0",
+      "selector": ".btn-primary:hover",
+      "declarations": "color:#fff;background-color:#0069d9;border-color:#0062cc"
+    },
+    {
+      "source": "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0",
+      "selector": ".btn-primary.disabled,.btn-primary:disabled",
+      "declarations": "color:#fff;background-color:#007bff;border-color:#007bff"
+    },
+    {
+      "source": "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0",
+      "selector": ".btn-primary:not(:disabled):not(.disabled).active,.btn-primary:not(:disabled):not(.disabled):active,.show>.btn-primary.dropdown-toggle",
+      "declarations": "color:#fff;background-color:#0062cc;border-color:#005cbf"
+    },
+    {
+      "source": "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0",
+      "selector": ".btn-secondary",
+      "declarations": "color:#fff;background-color:#6c757d;border-color:#6c757d"
+    },
+    {
+      "source": "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0",
+      "selector": ".btn-secondary:hover",
+      "declarations": "color:#fff;background-color:#5a6268;border-color:#545b62"
+    },
+    {
+      "source": "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0",
+      "selector": ".btn-secondary.disabled,.btn-secondary:disabled",
+      "declarations": "color:#fff;background-color:#6c757d;border-color:#6c757d"
+    },
+    {
+      "source": "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0",
+      "selector": ".btn-secondary:not(:disabled):not(.disabled).active,.btn-secondary:not(:disabled):not(.disabled):active,.show>.btn-secondary.dropdown-toggle",
+      "declarations": "color:#fff;background-color:#545b62;border-color:#4e555b"
+    },
+    {
+      "source": "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0",
+      "selector": ".btn-success",
+      "declarations": "color:#fff;background-color:#28a745;border-color:#28a745"
+    },
+    {
+      "source": "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0",
+      "selector": ".btn-success:hover",
+      "declarations": "color:#fff;background-color:#218838;border-color:#1e7e34"
+    },
+    {
+      "source": "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0",
+      "selector": ".btn-success.disabled,.btn-success:disabled",
+      "declarations": "color:#fff;background-color:#28a745;border-color:#28a745"
+    },
+    {
+      "source": "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0",
+      "selector": ".btn-success:not(:disabled):not(.disabled).active,.btn-success:not(:disabled):not(.disabled):active,.show>.btn-success.dropdown-toggle",
+      "declarations": "color:#fff;background-color:#1e7e34;border-color:#1c7430"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "ARTIPOPPE | Official Website",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://artipoppe.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://artipoppe.com/",
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/slick-theme.min.css?ver=1.1",
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/source/template-newhome.css?ver=1782292500",
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/font-awesome.min.css?ver=1.0",
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://artipoppe.com/",
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/slick-theme.min.css?ver=1.1",
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/source/template-newhome.css?ver=1782292500",
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/font-awesome.min.css?ver=1.0",
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://artipoppe.com/",
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/slick-theme.min.css?ver=1.1",
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/source/template-newhome.css?ver=1782292500",
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/font-awesome.min.css?ver=1.0",
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "colors.ink-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://artipoppe.com/",
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/slick-theme.min.css?ver=1.1",
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/source/template-newhome.css?ver=1782292500",
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "colors.border-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "colors.text-secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "colors.surface-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://artipoppe.com/wp-content/themes/artipoppe/css/newhomepage/bootstrap.css?ver=1.0"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.carousel-control": {
+      "status": "inferred"
+    }
+  }
+}

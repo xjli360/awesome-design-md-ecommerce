@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Care/of
-description: |
+name: "Care/of"
+source_url: "https://takecareof.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Each foil packet that leaves a Care/of fulfillment center has the customer's first name printed on the face — this single production choice clarifies every downstream design decision. The interface is not a storefront so much as a diagnostic conversation that happens to end with a checkout. A warm coral (approximately #E8614F) shoulders the entire brand signal that most supplement companies split between clinical blue, warning orange, and hero green; here the same hue that says "take this now" also says "we made this for you." It sits against parchment backgrounds (#FAF8F4) rather than pure white, borrowing warmth from the paper-and-packaging world the brand grew up in.
 
   Two type families carry the expressive weight. Display headings run in an editorial serif — high-contrast strokes, generous at 36–56px, with subtly tight tracking — reserved for quiz questions, hero moments, and ingredient story panels. Everything operational — labels, CTAs, navigation, ingredient dosages — moves through a clean geometric sans-serif. The contrast is deliberate: serif belongs to the personal and the narrative; sans belongs to the clinical and the transactional. Rounded corners hold to `{rounded.sm}`–`{rounded.md}` for cards and inputs, inflating to `{rounded.full}` only for inline ingredient tags where a pill marks a discrete category.
@@ -331,6 +334,8 @@ components:
 - Hero image hides on mobile or repositions below the headline block; the quiz CTA expands to full viewport width
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **No hex colors extracted** — takecareof.com returned no extractable color tokens (likely CSS custom properties injected via JavaScript, or anti-bot protection active during extraction). All palette values — #E8614F primary coral, #FAF8F4 parchment, #1D1D1B ink, #F3EFE8 surface-soft — are inferred from brand packaging, marketing materials, and visual documentation. Treat as approximate until confirmed against live computed styles.
 - **No font families extracted** — Font stack references ('Tiempos Display', 'Matter') are inferred from the brand's editorial aesthetic and DTC typeface conventions; the actual licensed typefaces in production are unconfirmed. Run `document.fonts` in a live browser session to extract the true families.

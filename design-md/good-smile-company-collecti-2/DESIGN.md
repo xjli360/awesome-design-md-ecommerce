@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Good Smile Company
-description: A collector's portal where the brand voltage comes from a single, unmistakable orange — #ff6600, the same saturated heat that powers every primary CTA, every "Pre-Order" badge, and every price-highlight on the product grid. This is not a warm neutral or a muted coral; it is a direct, unapologetic pop against a canvas of #eeeeee and #f4f4f4, a system that trusts high-contrast accent over decorative texture. The typography stack is a pragmatic Japanese-international hybrid — Helvetica Neue and Hiragino Kaku Gothic Pro sitting side by side, Meiryo and MS PGothic for body fallback, all at modest weights that let the product photography (figures, statues, Nendoroids) carry the emotional weight. Buttons are pill-shaped (`{rounded.full}`), product cards are softly rounded (`{rounded.sm}` ~8px), and the search bar lives as a full-width field rather than an icon, signaling a catalog-first browsing logic. The secondary palette is a grab-bag of web-framework defaults — #0044cc link blue, #41d728 success green, #b94a48 error red — suggesting a site built on a shared CMS skeleton rather than a bespoke design system, but the orange (#ff6600, #ff8400 in the meta theme-color, #ff5900 on hover) is the single thread that makes it feel like a brand. The footer is dense, the nav is text-heavy, and the hero section uses large display typography over full-bleed product imagery — this is a storefront built for scrolling, not for lingering.
+name: "Good Smile Company"
+source_url: "https://www.goodsmile.info"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A collector's portal where the brand voltage comes from a single, unmistakable orange — #ff6600, the same saturated heat that powers every primary CTA, every "Pre-Order" badge, and every price-highlight on the product grid. This is not a warm neutral or a muted coral; it is a direct, unapologetic pop against a canvas of #eeeeee and #f4f4f4, a system that trusts high-contrast accent over decorative texture. The typography stack is a pragmatic Japanese-international hybrid — Helvetica Neue and Hiragino Kaku Gothic Pro sitting side by side, Meiryo and MS PGothic for body fallback, all at modest weights that let the product photography (figures, statues, Nendoroids) carry the emotional weight. Buttons are pill-shaped (`{rounded.full}`), product cards are softly rounded (`{rounded.sm}` ~8px), and the search bar lives as a full-width field rather than an icon, signaling a catalog-first browsing logic. The secondary palette is a grab-bag of web-framework defaults — #0044cc link blue, #41d728 success green, #b94a48 error red — suggesting a site built on a shared CMS skeleton rather than a bespoke design system, but the orange (#ff6600, #ff8400 in the meta theme-color, #ff5900 on hover) is the single thread that makes it feel like a brand. The footer is dense, the nav is text-heavy, and the hero section uses large display typography over full-bleed product imagery — this is a storefront built for scrolling, not for lingering.
 
 colors:
   primary: "#ff6600"
@@ -303,6 +307,8 @@ components:
 - The hero section reduces font sizes on mobile (`{typography.display-lg}` instead of `{typography.display-xl}`) and stacks text vertically below the image.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states for secondary elements** — Hover colors for `button-secondary`, `text-input`, and `nav-link` are inferred from common web patterns, not extracted from the live site.
 - **Error and validation styling** — The error state for `text-input` uses a generic red (#b94a48) from the extracted palette, but the actual error message styling (font size, color, icon) could not be determined.

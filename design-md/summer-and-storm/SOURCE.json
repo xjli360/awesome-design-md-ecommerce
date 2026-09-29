@@ -1,0 +1,961 @@
+{
+  "source_url": "https://summerandstorm.com",
+  "final_url": "https://summerandstorm.com/",
+  "captured_at": "2026-09-29T04:12:42.541081+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://summerandstorm.com",
+      "final_url": "https://summerandstorm.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "926cc91347dd0756af1112ad8bb014af444e1e94f748070f1e84a6dec517efbe",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+      "final_url": "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "09080e162542db4d28c6aa82a71e02bddb253d4cfcef87b32a7c52c305a173ad",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://summerandstorm.com/cdn/shop/t/26/assets/custom.scss.css?v=73243403126247742641624676909",
+      "final_url": "https://summerandstorm.com/cdn/shop/t/26/assets/custom.scss.css?v=73243403126247742641624676909",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "19afdcc1534482e8d1a731a442f8b0864faff2b5b1ae9d56a974cdd7677734f5",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://summerandstorm.com/cdn/shop/t/26/assets/mCustomScrollbar.min.css?v=144417456319105945571624338204",
+      "final_url": "https://summerandstorm.com/cdn/shop/t/26/assets/mCustomScrollbar.min.css?v=144417456319105945571624338204",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "247184981eb6f698a94e431a83d68c6b0df623cce57b6e29dc5a6c11e23aa195",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://summerandstorm.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://summerandstorm.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#232222": {
+      "count": 119,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+        "https://summerandstorm.com/cdn/shop/t/26/assets/custom.scss.css?v=73243403126247742641624676909"
+      ]
+    },
+    "#ffffff": {
+      "count": 99,
+      "sources": [
+        "https://summerandstorm.com/",
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+        "https://summerandstorm.com/cdn/shop/t/26/assets/mCustomScrollbar.min.css?v=144417456319105945571624338204",
+        "https://summerandstorm.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#000000": {
+      "count": 53,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+        "https://summerandstorm.com/cdn/shop/t/26/assets/custom.scss.css?v=73243403126247742641624676909",
+        "https://summerandstorm.com/cdn/shop/t/26/assets/mCustomScrollbar.min.css?v=144417456319105945571624338204"
+      ]
+    },
+    "#a4a4a4": {
+      "count": 15,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+        "https://summerandstorm.com/cdn/shop/t/26/assets/custom.scss.css?v=73243403126247742641624676909"
+      ]
+    },
+    "#eeeeee": {
+      "count": 14,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#cb4242": {
+      "count": 11,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 10,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 7,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+        "https://summerandstorm.com/cdn/shop/t/26/assets/custom.scss.css?v=73243403126247742641624676909"
+      ]
+    },
+    "#888888": {
+      "count": 6,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#5897fb": {
+      "count": 6,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#cccccc": {
+      "count": 6,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#acacac": {
+      "count": 6,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+        "https://summerandstorm.com/cdn/shop/t/26/assets/custom.scss.css?v=73243403126247742641624676909"
+      ]
+    },
+    "#2322224d": {
+      "count": 5,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 5,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+        "https://summerandstorm.com/cdn/shop/t/26/assets/custom.scss.css?v=73243403126247742641624676909"
+      ]
+    },
+    "#bdbcbc": {
+      "count": 5,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#999999": {
+      "count": 4,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#ffeeeeee": {
+      "count": 4,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#707070": {
+      "count": 4,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#00b0f0": {
+      "count": 4,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#00000099": {
+      "count": 4,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#444444": {
+      "count": 3,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#ffffffff": {
+      "count": 3,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#555555": {
+      "count": 3,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+        "https://summerandstorm.com/cdn/shop/t/26/assets/mCustomScrollbar.min.css?v=144417456319105945571624338204"
+      ]
+    },
+    "#56ad6a": {
+      "count": 3,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#ababab": {
+      "count": 3,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+        "https://summerandstorm.com/cdn/shop/t/26/assets/custom.scss.css?v=73243403126247742641624676909"
+      ]
+    },
+    "#c1c1c1": {
+      "count": 3,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#090909": {
+      "count": 2,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#b6b6b6": {
+      "count": 2,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 2,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#dcdcdc": {
+      "count": 2,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#e4e4e4": {
+      "count": 2,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#dddddd": {
+      "count": 2,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#00000066": {
+      "count": 2,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#262422": {
+      "count": 2,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#ef3f3f": {
+      "count": 2,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#514bb9": {
+      "count": 2,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#e98847": {
+      "count": 2,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#70ce82": {
+      "count": 2,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#23222233": {
+      "count": 2,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#3f3f3f": {
+      "count": 2,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 2,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+        "https://summerandstorm.com/cdn/shop/t/26/assets/custom.scss.css?v=73243403126247742641624676909"
+      ]
+    },
+    "#ebebeb": {
+      "count": 2,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/custom.scss.css?v=73243403126247742641624676909"
+      ]
+    },
+    "#185674": {
+      "count": 2,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/custom.scss.css?v=73243403126247742641624676909"
+      ]
+    },
+    "#c3a666": {
+      "count": 2,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/custom.scss.css?v=73243403126247742641624676909"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://summerandstorm.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://summerandstorm.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#faf7f5": {
+      "count": 1,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#51ab62": {
+      "count": 1,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#f5f5f4": {
+      "count": 1,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#646363": {
+      "count": 1,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 1,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#a2a2a2": {
+      "count": 1,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 1,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#ffcccccc": {
+      "count": 1,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#3875d7": {
+      "count": 1,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#cdcdcd": {
+      "count": 1,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#f6f5f699": {
+      "count": 1,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#ecfef0": {
+      "count": 1,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#ffffffbf": {
+      "count": 1,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#1199ff": {
+      "count": 1,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#ffffff66": {
+      "count": 1,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#ffffff1a": {
+      "count": 1,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#bdbdbd": {
+      "count": 1,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#aeaeae": {
+      "count": 1,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "#efefef": {
+      "count": 1,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/custom.scss.css?v=73243403126247742641624676909"
+      ]
+    },
+    "#4d4d4d": {
+      "count": 1,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/custom.scss.css?v=73243403126247742641624676909"
+      ]
+    },
+    "#b4b4b4": {
+      "count": 1,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/custom.scss.css?v=73243403126247742641624676909"
+      ]
+    },
+    "#111111": {
+      "count": 1,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/custom.scss.css?v=73243403126247742641624676909"
+      ]
+    },
+    "#838383": {
+      "count": 1,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/custom.scss.css?v=73243403126247742641624676909"
+      ]
+    },
+    "#777777": {
+      "count": 1,
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/mCustomScrollbar.min.css?v=144417456319105945571624338204"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://summerandstorm.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://summerandstorm.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://summerandstorm.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+    ],
+    "Baskerville": [
+      "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+    ],
+    "Consolas": [
+      "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+    ],
+    "HelveticaNowText": [
+      "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+      "https://summerandstorm.com/cdn/shop/t/26/assets/custom.scss.css?v=73243403126247742641624676909"
+    ],
+    "monospace": [
+      "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+    ],
+    "serif": [
+      "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+    ],
+    "serif !important": [
+      "https://summerandstorm.com/cdn/shop/t/26/assets/custom.scss.css?v=73243403126247742641624676909"
+    ],
+    "ss-icons": [
+      "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+    ],
+    "ss-icons!important": [
+      "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+      "selector": "body",
+      "declarations": "background-color:#fff;-webkit-box-flex:1;-ms-flex:1;flex:1;display:flex;-ms-flex-direction:column;flex-direction:column;min-height:100vh"
+    },
+    {
+      "source": "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+      "selector": "body,input,textarea,button,select",
+      "declarations": "font-size:13px;line-height:1.6;font-family:HelveticaNowText,serif;color:#232222;font-weight:400;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:100%"
+    },
+    {
+      "source": "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+      "selector": "h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,.site-header__cart-toggle,h6,.h6",
+      "declarations": "display:block;font-family:HelveticaNowText,serif;font-weight:700;line-height:1.4"
+    },
+    {
+      "source": "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+      "selector": ".btn,.btn--secondary,.rte .btn--secondary,.rte .btn",
+      "declarations": "font-family:HelveticaNowText,serif;font-size:1em;display:inline-block;padding:10px 30px;width:auto;margin:0;line-height:1.307;font-weight:700;text-decoration:none;text-align:center;vertical-align:middle;white-space:nowrap;cursor:pointer;border:1px solid transparent;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-appearance:none;-moz-appearance:none;border-radius:0;background-color:#232222;color:#fff"
+    },
+    {
+      "source": "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+      "selector": ".btn:hover,.btn--secondary:hover,.rte .btn:hover,.rte .btn--secondary:hover",
+      "declarations": "background-color:#090909;color:#fff"
+    },
+    {
+      "source": "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+      "selector": ".btn:active,.btn--secondary:active,.btn:focus,.btn--secondary:focus,.rte .btn:active,.rte .btn--secondary:active,.rte .btn:focus,.rte .btn--secondary:focus",
+      "declarations": "background-color:#000;color:#fff;outline:none"
+    },
+    {
+      "source": "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+      "selector": ".btn[disabled],[disabled].btn--secondary,.btn.disabled,.disabled.btn--secondary,.rte .btn[disabled],.rte [disabled].btn--secondary,.rte .btn.disabled,.rte .disa",
+      "declarations": "cursor:default;color:#b6b6b6;background-color:#f6f6f6"
+    },
+    {
+      "source": "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+      "selector": ".btn--secondary,.rte .btn--secondary",
+      "declarations": "background-color:#bbb"
+    },
+    {
+      "source": "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+      "selector": ".btn--secondary:hover,.rte .btn--secondary:hover",
+      "declarations": "background-color:#a2a2a2;color:#fff"
+    },
+    {
+      "source": "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+      "selector": ".btn--secondary:active,.btn--secondary:focus,.rte .btn--secondary:active,.rte .btn--secondary:focus",
+      "declarations": "background-color:#888;color:#fff"
+    },
+    {
+      "source": "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+      "selector": ".template-index .site-header:not(.menu-sticky_active) .nav__link",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+      "selector": "emplate-index .site-header:not(.menu-sticky_active) .myaccount-top,.template-index .site-header:not(.menu-sticky_active) .wishlist-top,.template-index .site-hea",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+      "selector": "e-index .site-header:not(.menu-sticky_active) .myaccount-top i,.template-index .site-header:not(.menu-sticky_active) .wishlist-top i,.template-index .site-heade",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+      "selector": "e-header:not(.menu-sticky_active) .myaccount-top:hover,.template-index .site-header:not(.menu-sticky_active) .wishlist-top:hover,.template-index .site-header:no",
+      "declarations": "color:#a4a4a4"
+    },
+    {
+      "source": "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+      "selector": "er:not(.menu-sticky_active) .myaccount-top:hover i,.template-index .site-header:not(.menu-sticky_active) .wishlist-top:hover i,.template-index .site-header:not(",
+      "declarations": "color:#a4a4a4"
+    },
+    {
+      "source": "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+      "selector": ".template-index .site-header:not(.menu-sticky_active) .cart-top_icon:hover .count-cart",
+      "declarations": "color:#a4a4a4"
+    },
+    {
+      "source": "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+      "selector": ".mobile-menu_bottom .checkout-btn button",
+      "declarations": "border:2px solid #232222;font-weight:700;font-size:13px;background:#fff;color:#232222;width:275px;height:43px;text-align:center;text-transform:uppercase"
+    },
+    {
+      "source": "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+      "selector": ".drawer__close button",
+      "declarations": "position:relative;right:-20px;height:100%;padding:0 20px;color:inherit"
+    },
+    {
+      "source": "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+      "selector": ".drawer__close button i",
+      "declarations": "font-size:10px;color:#232222"
+    },
+    {
+      "source": "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+      "selector": ".block-subscribe .btn,.block-subscribe .btn--secondary",
+      "declarations": "border-color:#232222;color:#232222;background:transparent;border-radius:0;padding-left:24px;padding-right:24px"
+    },
+    {
+      "source": "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+      "selector": ".block-subscribe .btn:focus,.block-subscribe .btn--secondary:focus",
+      "declarations": "box-shadow:none;outline:none;border-color:#232222"
+    },
+    {
+      "source": "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+      "selector": ".block-subscribe .btn:hover,.block-subscribe .btn--secondary:hover",
+      "declarations": "background:#232222;color:#fff"
+    },
+    {
+      "source": "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+      "selector": ".footer-signup .input-group button",
+      "declarations": "background:transparent;padding:11px 29px;color:#232222;border-left:1px solid #232222;margin-left:1px"
+    },
+    {
+      "source": "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+      "selector": ".product-item .product-item_name a",
+      "declarations": "font-size:13px;font-weight:400;line-height:17px;text-transform:uppercase;color:#232222"
+    },
+    {
+      "source": "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+      "selector": ".product-item .product-item_price .price-old",
+      "declarations": "color:#acacac;display:block;margin-left:0;margin-top:7px"
+    },
+    {
+      "source": "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+      "selector": ".product-item .label-custom-wrap .price-soldout",
+      "declarations": "text-transform:uppercase;color:#262422;margin-top:7px;display:block;font-weight:700"
+    },
+    {
+      "source": "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+      "selector": ".product-item .label-custom-wrap .price-sale",
+      "declarations": "text-transform:uppercase;color:#ef3f3f;margin-top:7px;display:block;font-weight:700"
+    },
+    {
+      "source": "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+      "selector": ".product-item .label-custom-wrap .pre-order",
+      "declarations": "text-transform:uppercase;color:#00b0f0;margin-top:7px;display:block;font-weight:700"
+    },
+    {
+      "source": "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+      "selector": ".product-item .label-custom-wrap .slot-empty",
+      "declarations": "text-transform:uppercase;margin-top:7px;display:block;color:transparent;min-height:17px;font-size:0;font-weight:700"
+    },
+    {
+      "source": "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+      "selector": ".product-item .label-custom-wrap .label-custom",
+      "declarations": "color:#514bb9"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "SUMMER and STORM",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+        "https://summerandstorm.com/cdn/shop/t/26/assets/custom.scss.css?v=73243403126247742641624676909"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+        "https://summerandstorm.com/cdn/shop/t/26/assets/custom.scss.css?v=73243403126247742641624676909"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://summerandstorm.com/",
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+        "https://summerandstorm.com/cdn/shop/t/26/assets/mCustomScrollbar.min.css?v=144417456319105945571624338204",
+        "https://summerandstorm.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+        "https://summerandstorm.com/cdn/shop/t/26/assets/custom.scss.css?v=73243403126247742641624676909"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+        "https://summerandstorm.com/cdn/shop/t/26/assets/custom.scss.css?v=73243403126247742641624676909"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://summerandstorm.com/",
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+        "https://summerandstorm.com/cdn/shop/t/26/assets/mCustomScrollbar.min.css?v=144417456319105945571624338204",
+        "https://summerandstorm.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://summerandstorm.com/",
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+        "https://summerandstorm.com/cdn/shop/t/26/assets/mCustomScrollbar.min.css?v=144417456319105945571624338204",
+        "https://summerandstorm.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.active": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+        "https://summerandstorm.com/cdn/shop/t/26/assets/custom.scss.css?v=73243403126247742641624676909",
+        "https://summerandstorm.com/cdn/shop/t/26/assets/mCustomScrollbar.min.css?v=144417456319105945571624338204"
+      ]
+    },
+    "colors.disabled-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "colors.disabled-text": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "colors.secondary-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "colors.secondary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "colors.secondary-active": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "colors.hover-tint": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034",
+        "https://summerandstorm.com/cdn/shop/t/26/assets/custom.scss.css?v=73243403126247742641624676909"
+      ]
+    },
+    "colors.swatch-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "colors.swatch-indigo": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "colors.swatch-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "colors.warm-canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://summerandstorm.com/cdn/shop/t/26/assets/theme.scss.css?v=164592172725198718741698194034"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.size-selector": {
+      "status": "inferred"
+    }
+  }
+}

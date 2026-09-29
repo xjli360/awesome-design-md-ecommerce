@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Krups
-description: >
+name: "Krups"
+source_url: "https://www.krupsusa.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Burnt orange (#f38230) — the precise shade of crema crowning a double shot — marks every primary action surface on the Krups storefront, from "Add to Cart" buttons to promotional banners and category highlights. It is a deliberate departure from the cool blues and silvers that dominate competitor appliance sites, signaling heat, extraction, and kitchen authority rather than clinical precision. The palette backs this warmth into a near-black (#2a2622) that carries the density of a cast-iron boiler housing, a tone warmer than pure black and far more textured on screen. Body copy drops to #555555 while a family of cool grays (#948e88, #9599a4, #bebdbd) handles muted labels, breadcrumbs, and spec metadata. Surfaces layer three depths: the white canvas, a pale #f5f5f5 soft surface for feature strips, and #eaeeef panels that separate editorial zones from commerce. Typography pairs two distinct sans-serif voices — EurostileNextLTPro, a geometric face with squared apertures and a distinctly European-industrial DNA, handles hero headlines and product names; Gotham, toggling between its Black and Light cuts, manages subheads and navigational elements; Sofia Sans fills in at body scale, lending a slightly narrower, web-native rhythm to paragraph text and spec lists. Corner radii stay restrained: product cards use `{rounded.sm}`, buttons sit at `{rounded.xs}`, and only search inputs and pill badges reach `{rounded.full}`. The overall spatial cadence is generous at section level (`{spacing.section}` = 64px between content blocks) but compact within product grids, where `{spacing.md}` gutters keep appliance imagery large and dominant. A secondary blue (#0088cc) surfaces in link text and informational badges but never competes with the orange for primary CTA attention.
 
 colors:
@@ -390,6 +393,8 @@ components:
 - Mega-menu transitions from hover-triggered overlay (desktop) to tap-triggered accordion (mobile)
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact font files and weight mappings for EurostileNextLTPro could not be confirmed beyond the "Regular" cut; additional weights (Bold, Medium) may exist in the live CSS but were not extracted
 - Gotham-Black and Gotham-Light appear in font-family declarations but specific usage contexts (which elements use which weight) could not be mapped precisely from static extraction

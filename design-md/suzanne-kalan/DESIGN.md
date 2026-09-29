@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Suzanne Kalan
-description: |
+name: "Suzanne Kalan"
+source_url: "https://www.suzannekalan.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Sage green — not gold, not ivory, not the expected cold white of a diamond case — is where Suzanne Kalan plants her chromatic flag: #aaccaa, a mint that reads as living and botanical rather than metallic. This choice alone marks the departure. Against a warm cream canvas (#ebe5dc), the sage carries a kind of garden vitality, suggesting these pieces belong in daylight, worn rather than stored behind glass. Deep aubergine navy (#1b1e2f) takes the weight of all primary text and headlines — not flat black but something with hue, something that shifts under light — while terracotta coral (#d77e6a) punctuates in select moments, the color of a stone's interior warmth or late afternoon sun catching a facet edge.
 
   Type moves through classic serifs. Baskerville and Apple Garamond establish editorial seriousness across display headers and product titles, with Source Serif Pro as the web-safe fallback — each cut chosen for fine strokes that hold at small sizes without collapsing. Figtree, a contemporary geometric sans, handles UI labels, form elements, and caption text; the pairing keeps navigation readable without competing with jewelry photography. Button copy runs uppercase at 0.08em letter-spacing, formal enough to signal premium without becoming stiff.
@@ -293,6 +296,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No confirmed brand typeface name beyond system serif stacks; Baskerville and Apple Garamond appear in font-family declarations but a custom or licensed display face (e.g., a proprietary serif or script) may exist that is loaded via JavaScript and not captured in static extraction
 - Muted text color (#7c7c7c) is derived, not extracted; no mid-gray utility tone appeared in the top hex list

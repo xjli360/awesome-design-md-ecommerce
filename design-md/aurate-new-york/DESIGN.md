@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Aurate New York
-description: Every Aurate product photograph rests on warm cream (#efeae6), a surface that lets 14-karat gold catch afternoon warmth rather than studio flash. The brand's structural color is not gold but a deep apothecary green (#304038) — applied to primary CTAs, main navigation, and the full-width footer mass with a botanical steadiness that reads as permanence rather than trend. A complete sage family fans behind it: #42544f for hover states and section grounds, #739487 for mid-tonal icons and dividers, #bfccb8 as a wash behind sustainability callouts, and the near-white mint #e6f7f4 anchoring ethical-sourcing storytelling panels. Gold enters the palette precisely and without fanfare — #b26118 highlights price figures and collection badge fills, #c27030 warms hover states, and #ffd196 lightens into chip backgrounds — always proportionate, never decorative for its own sake.
+name: "Aurate New York"
+source_url: "https://www.auratenewyork.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Every Aurate product photograph rests on warm cream (#efeae6), a surface that lets 14-karat gold catch afternoon warmth rather than studio flash. The brand's structural color is not gold but a deep apothecary green (#304038) — applied to primary CTAs, main navigation, and the full-width footer mass with a botanical steadiness that reads as permanence rather than trend. A complete sage family fans behind it: #42544f for hover states and section grounds, #739487 for mid-tonal icons and dividers, #bfccb8 as a wash behind sustainability callouts, and the near-white mint #e6f7f4 anchoring ethical-sourcing storytelling panels. Gold enters the palette precisely and without fanfare — #b26118 highlights price figures and collection badge fills, #c27030 warms hover states, and #ffd196 lightens into chip backgrounds — always proportionate, never decorative for its own sake.
 
   Canvas temperature shifts deliberately between the warmer cream (#efeae6) for editorial landing moments and the cooler paper tone (#f5f2f0) for utility zones, with near-white cards (#fdfcfc) providing a clean lift above either ground without needing a drop shadow. Typography relies on system font stacks — no custom typeface was captured in extraction, suggesting a branded web font loads post-JavaScript hydration. The visible rhythm reads light and unhurried: display copy at 28–36px weight 400–500 with near-zero letter-spacing; product detail labels in uppercase 10–11px with wide tracking — a fine-jewelry convention that lets the piece, not the label, carry authority.
 
@@ -350,6 +354,8 @@ components:
 - Sustainability banner: single-row on desktop; may wrap to two lines on mobile but must never be hidden
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom brand typeface detected — only system font stacks captured. Aurate almost certainly loads a licensed grotesque or editorial serif via JavaScript post-hydration; all typography tokens above use system fallbacks and must be updated when the font name is confirmed.
 - Exact button and card border-radius values unconfirmed — `{rounded.sm}` (8px) inferred from visual inspection; may be 0px (fully square) in production for the brand's minimal positioning.

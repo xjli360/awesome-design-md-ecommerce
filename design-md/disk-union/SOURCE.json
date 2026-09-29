@@ -1,0 +1,1774 @@
+{
+  "source_url": "https://diskunion.net",
+  "final_url": "https://diskunion.net/",
+  "captured_at": "2026-09-29T04:17:26.465538+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://diskunion.net",
+      "final_url": "https://diskunion.net/",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "8768842eeae11397be62aca4f23407e3672c7f3b27e87bd859eb03eea8fce405",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://diskunion.net/template/default/assets/css/style.css",
+      "final_url": "https://diskunion.net/template/default/assets/css/style.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "46ea6394093d28191c45a4547c380e0c97c1c63d8211ed437ba91efb0ad16257",
+      "snapshot": "rendered-style-1.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Oswald:wght@300;400;600&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Oswald:wght@300;400;600&display=swap",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2dbbe89f283813b5bd01f38450ab9a5899991d7e8a48bbccb9c4e88cc01ba934",
+      "snapshot": "rendered-style-2.css"
+    },
+    {
+      "url": "https://diskunion.net/user_data/assets/css/customize.css",
+      "final_url": "https://diskunion.net/user_data/assets/css/customize.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "94c0e68b63150ff4c35643a0ba26661407a9c8cdaf9e6d30af1688d6fcc48e25",
+      "snapshot": "rendered-style-3.css"
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v6.0.0/css/all.css",
+      "final_url": "https://use.fontawesome.com/releases/v6.0.0/css/all.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "8d321d88cb97fdedc3189506c25de9292c6e73a60ebaab496243346c6404480e",
+      "snapshot": "rendered-style-4.css"
+    },
+    {
+      "url": "https://use.fontawesome.com/releases/v6.5.2/css/all.css",
+      "final_url": "https://use.fontawesome.com/releases/v6.5.2/css/all.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5ceaaba22d75b58e04150311f596306562a3e595e27ed4b1dfa451b82dda9e50",
+      "snapshot": "rendered-style-5.css"
+    },
+    {
+      "url": "https://diskunion.net/#computed-style-snapshot",
+      "final_url": "https://diskunion.net/#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "332e7f7cd088b73ce73c00217899dd5a2650f188a1c178e74751fc8395cee201",
+      "snapshot": "rendered-style-6.css"
+    }
+  ],
+  "colors": {
+    "#4b4b4b": {
+      "count": 732,
+      "sources": [
+        "https://diskunion.net/user_data/assets/css/customize.css",
+        "https://diskunion.net/#computed-style-snapshot"
+      ]
+    },
+    "#000000": {
+      "count": 629,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css",
+        "https://diskunion.net/user_data/assets/css/customize.css",
+        "https://diskunion.net/#computed-style-snapshot"
+      ]
+    },
+    "#ffffff": {
+      "count": 267,
+      "sources": [
+        "https://diskunion.net/",
+        "https://diskunion.net/template/default/assets/css/style.css",
+        "https://diskunion.net/user_data/assets/css/customize.css",
+        "https://use.fontawesome.com/releases/v6.0.0/css/all.css",
+        "https://use.fontawesome.com/releases/v6.5.2/css/all.css",
+        "https://diskunion.net/#computed-style-snapshot"
+      ]
+    },
+    "#707070": {
+      "count": 219,
+      "sources": [
+        "https://diskunion.net/user_data/assets/css/customize.css",
+        "https://diskunion.net/#computed-style-snapshot"
+      ]
+    },
+    "#bfbfbf": {
+      "count": 114,
+      "sources": [
+        "https://diskunion.net/user_data/assets/css/customize.css"
+      ]
+    },
+    "#3e6dbb": {
+      "count": 80,
+      "sources": [
+        "https://diskunion.net/user_data/assets/css/customize.css"
+      ]
+    },
+    "#525263": {
+      "count": 63,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#f10500": {
+      "count": 63,
+      "sources": [
+        "https://diskunion.net/user_data/assets/css/customize.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 59,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#e8e9ea": {
+      "count": 30,
+      "sources": [
+        "https://diskunion.net/user_data/assets/css/customize.css"
+      ]
+    },
+    "#337ab7": {
+      "count": 29,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#de5d50": {
+      "count": 27,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css",
+        "https://diskunion.net/user_data/assets/css/customize.css"
+      ]
+    },
+    "#999999": {
+      "count": 24,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css",
+        "https://diskunion.net/user_data/assets/css/customize.css"
+      ]
+    },
+    "#6c757d": {
+      "count": 19,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#212529": {
+      "count": 18,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 18,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#f8f9fa": {
+      "count": 17,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#dc3545": {
+      "count": 16,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#198754": {
+      "count": 16,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 16,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css",
+        "https://diskunion.net/user_data/assets/css/customize.css"
+      ]
+    },
+    "#374149": {
+      "count": 15,
+      "sources": [
+        "https://diskunion.net/user_data/assets/css/customize.css"
+      ]
+    },
+    "#ffc107": {
+      "count": 14,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#0dcaf0": {
+      "count": 14,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#5cb1b1": {
+      "count": 11,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#0092c4": {
+      "count": 8,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 7,
+      "sources": [
+        "https://diskunion.net/",
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#333333": {
+      "count": 7,
+      "sources": [
+        "https://diskunion.net/",
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#dee2e6": {
+      "count": 7,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#343a40": {
+      "count": 6,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#f5f7f8": {
+      "count": 6,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#d1d1d1": {
+      "count": 6,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#4a8e8e": {
+      "count": 6,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#b24a40": {
+      "count": 6,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#42424f": {
+      "count": 6,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#66afe9": {
+      "count": 6,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#f4f1e7": {
+      "count": 6,
+      "sources": [
+        "https://diskunion.net/user_data/assets/css/customize.css",
+        "https://diskunion.net/#computed-style-snapshot"
+      ]
+    },
+    "#7d3ebb": {
+      "count": 6,
+      "sources": [
+        "https://diskunion.net/user_data/assets/css/customize.css"
+      ]
+    },
+    "#495057": {
+      "count": 5,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#dfc353": {
+      "count": 5,
+      "sources": [
+        "https://diskunion.net/user_data/assets/css/customize.css"
+      ]
+    },
+    "#adb5bd": {
+      "count": 4,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#33a8d0": {
+      "count": 4,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#9a947e": {
+      "count": 4,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#f7f8f9": {
+      "count": 4,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#4e9696": {
+      "count": 4,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#bd4f44": {
+      "count": 4,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#464654": {
+      "count": 4,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#cf3f34": {
+      "count": 4,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#fdf1f0": {
+      "count": 4,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 4,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#7d7d7d": {
+      "count": 4,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#ff0000": {
+      "count": 4,
+      "sources": [
+        "https://diskunion.net/user_data/assets/css/customize.css"
+      ]
+    },
+    "#13e600": {
+      "count": 4,
+      "sources": [
+        "https://diskunion.net/user_data/assets/css/customize.css"
+      ]
+    },
+    "#e9ecef": {
+      "count": 3,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#fff3cd": {
+      "count": 3,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#296292": {
+      "count": 3,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#75b798": {
+      "count": 3,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#ea868f": {
+      "count": 3,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#c6c7c8": {
+      "count": 3,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#373b3e": {
+      "count": 3,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#99bddb": {
+      "count": 3,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#06c755": {
+      "count": 3,
+      "sources": [
+        "https://diskunion.net/user_data/assets/css/customize.css"
+      ]
+    },
+    "#ee1918": {
+      "count": 3,
+      "sources": [
+        "https://diskunion.net/user_data/assets/css/customize.css"
+      ]
+    },
+    "#ad13a3": {
+      "count": 3,
+      "sources": [
+        "https://diskunion.net/user_data/assets/css/customize.css"
+      ]
+    },
+    "#231815": {
+      "count": 3,
+      "sources": [
+        "https://diskunion.net/user_data/assets/css/customize.css"
+      ]
+    },
+    "#d63384": {
+      "count": 2,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#ced4da": {
+      "count": 2,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#664d03": {
+      "count": 2,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#d6e4f1": {
+      "count": 2,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#e2e3e5": {
+      "count": 2,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#d1e7dd": {
+      "count": 2,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#cff4fc": {
+      "count": 2,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#f8d7da": {
+      "count": 2,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#85afd4": {
+      "count": 2,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#4d5154": {
+      "count": 2,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#c2d7e9": {
+      "count": 2,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#565e64": {
+      "count": 2,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#146c43": {
+      "count": 2,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#25cff2": {
+      "count": 2,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#ffc720": {
+      "count": 2,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#b02a37": {
+      "count": 2,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 2,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#f7f9f9": {
+      "count": 2,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#458585": {
+      "count": 2,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#a7463c": {
+      "count": 2,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#3e3e4a": {
+      "count": 2,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#3c8dbc": {
+      "count": 2,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#f3f4f4": {
+      "count": 2,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#ff9999": {
+      "count": 2,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#d0d0d0": {
+      "count": 2,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#f4f3f0": {
+      "count": 2,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#c9c9c9": {
+      "count": 2,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#eff4f5": {
+      "count": 2,
+      "sources": [
+        "https://diskunion.net/user_data/assets/css/customize.css"
+      ]
+    },
+    "#979797": {
+      "count": 2,
+      "sources": [
+        "https://diskunion.net/user_data/assets/css/customize.css"
+      ]
+    },
+    "#c3713a": {
+      "count": 2,
+      "sources": [
+        "https://diskunion.net/user_data/assets/css/customize.css"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 2,
+      "sources": [
+        "https://diskunion.net/user_data/assets/css/customize.css"
+      ]
+    },
+    "#2a2a2a": {
+      "count": 2,
+      "sources": [
+        "https://diskunion.net/user_data/assets/css/customize.css"
+      ]
+    },
+    "#777777": {
+      "count": 2,
+      "sources": [
+        "https://diskunion.net/user_data/assets/css/customize.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 2,
+      "sources": [
+        "https://use.fontawesome.com/releases/v6.0.0/css/all.css",
+        "https://use.fontawesome.com/releases/v6.5.2/css/all.css"
+      ]
+    },
+    "#ffff00": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#c0c0c0": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#6610f2": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#6f42c1": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#fd7e14": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#20c997": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#143149": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#2b2f32": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#0a3622": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#055160": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#58151c": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#fcfcfd": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#adcae2": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#c4c8cb": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#a3cfbb": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#9eeaf9": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#ffe69c": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#f1aeb5": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#2b3035": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#a7acb1": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#6edff6": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#ffda6a": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#0a1825": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#161719": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#051b11": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#032830": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#332701": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#2c0b0e": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#1a1d20": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#1f496e": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#41464b": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#0f5132": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#087990": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#997404": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#842029": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#9dbfdd": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#e685b5": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#abb6c1": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#cbd9e5": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#c1cdd9": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#c6d3df": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#b5b6b7": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#d7d8da": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#cbccce": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#d1d2d4": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#a7b9b1": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#c7dbd2": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#bcd0c7": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#c1d6cc": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#a6c3ca": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#c5e8ef": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#badce3": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#bfe2e9": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#ccc2a4": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#f2e7c3": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#e6dbb9": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#ece1be": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#c6acae": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#eccccf": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#dfc2c4": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#e5c7ca": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#ecedee": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#dfe0e1": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#e5e6e7": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#2c3034": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#323539": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#2b689c": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#265c89": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#5c636a": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#51585e": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#157347": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#13653f": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#31d2f2": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#3dd5f3": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#ffca2c": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#ffcd39": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#bb2d3b": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#a52834": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#d3d4d5": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#babbbc": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#424649": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#b8bec4": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#9da3a9": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#2e3233": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#fafafa": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#ebebeb": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#636378": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#fffde7": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#4b5361": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#d7dadd": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "#e9d2fd": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/user_data/assets/css/customize.css"
+      ]
+    },
+    "#a7863c": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/user_data/assets/css/customize.css"
+      ]
+    },
+    "#63787c": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/user_data/assets/css/customize.css"
+      ]
+    },
+    "#77494b": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/user_data/assets/css/customize.css"
+      ]
+    },
+    "#5f4546": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/user_data/assets/css/customize.css"
+      ]
+    },
+    "#5f6060": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/user_data/assets/css/customize.css"
+      ]
+    },
+    "#ec8c02": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/user_data/assets/css/customize.css"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/user_data/assets/css/customize.css"
+      ]
+    },
+    "#7e5235": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/user_data/assets/css/customize.css"
+      ]
+    },
+    "#c1c0c0": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/user_data/assets/css/customize.css"
+      ]
+    },
+    "#f8ea0d": {
+      "count": 1,
+      "sources": [
+        "https://diskunion.net/user_data/assets/css/customize.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Font Awesome 5 Brands": [
+      "https://use.fontawesome.com/releases/v6.0.0/css/all.css",
+      "https://use.fontawesome.com/releases/v6.5.2/css/all.css"
+    ],
+    "Font Awesome 5 Free": [
+      "https://diskunion.net/template/default/assets/css/style.css",
+      "https://use.fontawesome.com/releases/v6.0.0/css/all.css",
+      "https://use.fontawesome.com/releases/v6.5.2/css/all.css"
+    ],
+    "Font Awesome 6 Brands": [
+      "https://use.fontawesome.com/releases/v6.0.0/css/all.css",
+      "https://use.fontawesome.com/releases/v6.5.2/css/all.css"
+    ],
+    "Font Awesome 6 Free": [
+      "https://diskunion.net/user_data/assets/css/customize.css",
+      "https://use.fontawesome.com/releases/v6.0.0/css/all.css",
+      "https://use.fontawesome.com/releases/v6.5.2/css/all.css"
+    ],
+    "FontAwesome": [
+      "https://diskunion.net/user_data/assets/css/customize.css",
+      "https://use.fontawesome.com/releases/v6.0.0/css/all.css",
+      "https://use.fontawesome.com/releases/v6.5.2/css/all.css"
+    ],
+    "Noto Sans JP": [
+      "https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Oswald:wght@300;400;600&display=swap",
+      "https://diskunion.net/user_data/assets/css/customize.css",
+      "https://diskunion.net/#computed-style-snapshot"
+    ],
+    "Oswald": [
+      "https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@100..900&family=Oswald:wght@300;400;600&display=swap",
+      "https://diskunion.net/user_data/assets/css/customize.css"
+    ],
+    "Yu Gothic": [
+      "https://diskunion.net/user_data/assets/css/customize.css"
+    ],
+    "Yu Gothic Medium": [
+      "https://diskunion.net/user_data/assets/css/customize.css"
+    ],
+    "YuGothic": [
+      "https://diskunion.net/user_data/assets/css/customize.css"
+    ],
+    "monospace": [
+      "https://diskunion.net/template/default/assets/css/style.css"
+    ],
+    "sans-serif": [
+      "https://diskunion.net/template/default/assets/css/style.css",
+      "https://diskunion.net/user_data/assets/css/customize.css",
+      "https://diskunion.net/#computed-style-snapshot"
+    ],
+    "slick": [
+      "https://diskunion.net/"
+    ],
+    "游ゴシック": [
+      "https://diskunion.net/user_data/assets/css/customize.css"
+    ],
+    "游ゴシック Medium": [
+      "https://diskunion.net/user_data/assets/css/customize.css"
+    ],
+    "游ゴシック体": [
+      "https://diskunion.net/user_data/assets/css/customize.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://diskunion.net/",
+      "selector": ".slick-dots li button",
+      "declarations": "font-size: 0;\n    line-height: 0;\n\n    display: block;\n\n    width: 20px;\n    height: 20px;\n    padding: 5px;\n\n    cursor: pointer;\n\n    color: transparent;\n    border: 0;\n    outline: none;\n    background: transparent;"
+    },
+    {
+      "source": "https://diskunion.net/",
+      "selector": ".slick-dots li button:before",
+      "declarations": "font-family: 'slick';\n    font-size: 6px;\n    line-height: 20px;\n\n    position: absolute;\n    top: 0;\n    left: 0;\n\n    width: 20px;\n    height: 20px;\n\n    content: '•';\n    text-align: center;\n\n    opacity: .25;\n    color: black;\n\n    -webkit-font-smoothing: antialiased;\n    -moz-osx-font-smoothing: grayscale;"
+    },
+    {
+      "source": "https://diskunion.net/",
+      "selector": ".slick-dots li.slick-active button:before",
+      "declarations": "opacity: .75;\n    color: black;"
+    },
+    {
+      "source": "https://diskunion.net/",
+      "selector": ".slick-dots li button",
+      "declarations": "font-size: 0;\n\t\t\tline-height: 0;\n\t\t\tdisplay: block;\n\t\t\twidth: 20px;\n\t\t\theight: 20px;\n\t\t\tpadding: 5px;\n\t\t\tcursor: pointer;\n\t\t\tcolor: transparent;\n\t\t\tborder: 0;\n\t\t\toutline: none;\n\t\t\tbackground: transparent;"
+    },
+    {
+      "source": "https://diskunion.net/",
+      "selector": ".slick-dots li button:before",
+      "declarations": "content: \" \";\n\t\t\tline-height: 20px;\n\t\t\tposition: absolute;\n\t\t\ttop: 0;\n\t\t\tleft: 0;\n\t\t\twidth: 12px;\n\t\t\theight: 12px;\n\t\t\ttext-align: center;\n\t\t\topacity: .25;\n\t\t\tbackground-color: black;\n\t\t\tborder-radius: 50%;"
+    },
+    {
+      "source": "https://diskunion.net/",
+      "selector": ".slick-dots li.slick-active button:before",
+      "declarations": "opacity: .75;\n\t\t\tbackground-color: black;"
+    },
+    {
+      "source": "https://diskunion.net/",
+      "selector": ".production-category-list-item.is-active a,\n    .production-category-list-item.is-active:hover a",
+      "declarations": "opacity: 1;\n        font-weight: bold;\n        background-color: rgba(0, 0, 0, 0.08);\n        border-radius: 4px;\n        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12);"
+    },
+    {
+      "source": "https://diskunion.net/template/default/assets/css/style.css",
+      "selector": "button,\ninput,\noptgroup,\nselect,\ntextarea",
+      "declarations": "font-family: sans-serif; \n  font-size: 100%; \n  line-height: 1.15; \n  margin: 0;"
+    },
+    {
+      "source": "https://diskunion.net/template/default/assets/css/style.css",
+      "selector": "body",
+      "declarations": "margin: 0;\n  font-family: var(--bs-body-font-family);\n  font-size: var(--bs-body-font-size);\n  font-weight: var(--bs-body-font-weight);\n  line-height: var(--bs-body-line-height);\n  color: var(--bs-body-color);\n  text-align: var(--bs-body-text-align);\n  background-color: var(--bs-body-bg);\n  -webkit-text-size-adjust: 100%;\n  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);"
+    },
+    {
+      "source": "https://diskunion.net/template/default/assets/css/style.css",
+      "selector": "h6, .h6, h5, .h5, h4, .h4, h3, .h3, h2, .h2, h1, .h1",
+      "declarations": "margin-top: 0;\n  margin-bottom: 0.5rem;\n  font-weight: 500;\n  line-height: 1.2;\n  color: var(--bs-heading-color);"
+    },
+    {
+      "source": "https://diskunion.net/template/default/assets/css/style.css",
+      "selector": "thead,\ntbody,\ntfoot,\ntr,\ntd,\nth",
+      "declarations": "border-color: inherit;\n  border-style: solid;\n  border-width: 0;"
+    },
+    {
+      "source": "https://diskunion.net/template/default/assets/css/style.css",
+      "selector": "input,\nbutton,\nselect,\noptgroup,\ntextarea",
+      "declarations": "margin: 0;\n  font-family: inherit;\n  font-size: inherit;\n  line-height: inherit;"
+    },
+    {
+      "source": "https://diskunion.net/template/default/assets/css/style.css",
+      "selector": ":root",
+      "declarations": "--bs-breakpoint-xs: 0;\n  --bs-breakpoint-sm: 576px;\n  --bs-breakpoint-md: 768px;\n  --bs-breakpoint-lg: 992px;\n  --bs-breakpoint-xl: 1200px;\n  --bs-breakpoint-xxl: 1400px;"
+    },
+    {
+      "source": "https://diskunion.net/template/default/assets/css/style.css",
+      "selector": ".table-striped > tbody > tr:nth-of-type(odd) > *",
+      "declarations": "--bs-table-color-type: var(--bs-table-striped-color);\n  --bs-table-bg-type: var(--bs-table-striped-bg);"
+    },
+    {
+      "source": "https://diskunion.net/template/default/assets/css/style.css",
+      "selector": ".table-hover > tbody > tr:hover > *",
+      "declarations": "--bs-table-color-state: var(--bs-table-hover-color);\n  --bs-table-bg-state: var(--bs-table-hover-bg);"
+    },
+    {
+      "source": "https://diskunion.net/template/default/assets/css/style.css",
+      "selector": ".form-control::file-selector-button",
+      "declarations": "padding: 0.375rem 0.75rem;\n  margin: -0.375rem -0.75rem;\n  margin-inline-end: 0.75rem;\n  color: var(--bs-body-color);\n  background-color: var(--bs-tertiary-bg);\n  pointer-events: none;\n  border-color: inherit;\n  border-style: solid;\n  border-width: 0;\n  border-inline-end-width: var(--bs-border-width);\n  border-radius: 0;\n  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;"
+    },
+    {
+      "source": "https://diskunion.net/template/default/assets/css/style.css",
+      "selector": ".form-control:hover:not(:disabled):not([readonly])::file-selector-button",
+      "declarations": "background-color: var(--bs-secondary-bg);"
+    },
+    {
+      "source": "https://diskunion.net/template/default/assets/css/style.css",
+      "selector": ".btn",
+      "declarations": "--bs-btn-padding-x: 0.75rem;\n  --bs-btn-padding-y: 0.375rem;\n  --bs-btn-font-family: ;\n  --bs-btn-font-size: 0.875rem;\n  --bs-btn-font-weight: 400;\n  --bs-btn-line-height: 1.42857142;\n  --bs-btn-color: var(--bs-body-color);\n  --bs-btn-bg: transparent;\n  --bs-btn-border-width: var(--bs-border-width);\n  --bs-btn-border-color: transparent;\n  --bs-btn-border-radius: var(--bs-border-radius);\n  --bs-btn-hover-border-color: transparent;\n  --bs-btn-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.15), 0 1px 1px rgba(0, 0, 0, 0.075);\n  --bs-btn-disabled-opacity: 0.65;\n  --bs-btn-focus-box-shadow: 0 0 0 0.25rem rgba(var(--bs-btn-focus-shadow-rgb), .5);\n  display: inline-block;\n  padding: var(--bs-btn-p"
+    },
+    {
+      "source": "https://diskunion.net/template/default/assets/css/style.css",
+      "selector": ".btn:hover",
+      "declarations": "color: var(--bs-btn-hover-color);\n  background-color: var(--bs-btn-hover-bg);\n  border-color: var(--bs-btn-hover-border-color);"
+    },
+    {
+      "source": "https://diskunion.net/template/default/assets/css/style.css",
+      "selector": ".btn-check + .btn:hover",
+      "declarations": "color: var(--bs-btn-color);\n  background-color: var(--bs-btn-bg);\n  border-color: var(--bs-btn-border-color);"
+    },
+    {
+      "source": "https://diskunion.net/template/default/assets/css/style.css",
+      "selector": ".btn:focus-visible",
+      "declarations": "color: var(--bs-btn-hover-color);\n  background-color: var(--bs-btn-hover-bg);\n  border-color: var(--bs-btn-hover-border-color);\n  outline: 0;\n  box-shadow: var(--bs-btn-focus-box-shadow);"
+    },
+    {
+      "source": "https://diskunion.net/template/default/assets/css/style.css",
+      "selector": ".btn-check:focus-visible + .btn",
+      "declarations": "border-color: var(--bs-btn-hover-border-color);\n  outline: 0;\n  box-shadow: var(--bs-btn-focus-box-shadow);"
+    },
+    {
+      "source": "https://diskunion.net/template/default/assets/css/style.css",
+      "selector": ".btn-check:checked + .btn, :not(.btn-check) + .btn:active, .btn:first-child:active, .btn.active, .btn.show",
+      "declarations": "color: var(--bs-btn-active-color);\n  background-color: var(--bs-btn-active-bg);\n  border-color: var(--bs-btn-active-border-color);"
+    },
+    {
+      "source": "https://diskunion.net/template/default/assets/css/style.css",
+      "selector": ".btn:disabled, .btn.disabled, fieldset:disabled .btn",
+      "declarations": "color: var(--bs-btn-disabled-color);\n  pointer-events: none;\n  background-color: var(--bs-btn-disabled-bg);\n  border-color: var(--bs-btn-disabled-border-color);\n  opacity: var(--bs-btn-disabled-opacity);"
+    },
+    {
+      "source": "https://diskunion.net/template/default/assets/css/style.css",
+      "selector": ".btn-primary",
+      "declarations": "--bs-btn-color: #fff;\n  --bs-btn-bg: #337ab7;\n  --bs-btn-border-color: #337ab7;\n  --bs-btn-hover-color: #fff;\n  --bs-btn-hover-bg: #2b689c;\n  --bs-btn-hover-border-color: #296292;\n  --bs-btn-focus-shadow-rgb: 82, 142, 194;\n  --bs-btn-active-color: #fff;\n  --bs-btn-active-bg: #296292;\n  --bs-btn-active-border-color: #265c89;\n  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);\n  --bs-btn-disabled-color: #fff;\n  --bs-btn-disabled-bg: #337ab7;\n  --bs-btn-disabled-border-color: #337ab7;"
+    },
+    {
+      "source": "https://diskunion.net/template/default/assets/css/style.css",
+      "selector": ".btn-secondary",
+      "declarations": "--bs-btn-color: #fff;\n  --bs-btn-bg: #6c757d;\n  --bs-btn-border-color: #6c757d;\n  --bs-btn-hover-color: #fff;\n  --bs-btn-hover-bg: #5c636a;\n  --bs-btn-hover-border-color: #565e64;\n  --bs-btn-focus-shadow-rgb: 130, 138, 145;\n  --bs-btn-active-color: #fff;\n  --bs-btn-active-bg: #565e64;\n  --bs-btn-active-border-color: #51585e;\n  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);\n  --bs-btn-disabled-color: #fff;\n  --bs-btn-disabled-bg: #6c757d;\n  --bs-btn-disabled-border-color: #6c757d;"
+    },
+    {
+      "source": "https://diskunion.net/template/default/assets/css/style.css",
+      "selector": ".btn-success",
+      "declarations": "--bs-btn-color: #fff;\n  --bs-btn-bg: #198754;\n  --bs-btn-border-color: #198754;\n  --bs-btn-hover-color: #fff;\n  --bs-btn-hover-bg: #157347;\n  --bs-btn-hover-border-color: #146c43;\n  --bs-btn-focus-shadow-rgb: 60, 153, 110;\n  --bs-btn-active-color: #fff;\n  --bs-btn-active-bg: #146c43;\n  --bs-btn-active-border-color: #13653f;\n  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);\n  --bs-btn-disabled-color: #fff;\n  --bs-btn-disabled-bg: #198754;\n  --bs-btn-disabled-border-color: #198754;"
+    },
+    {
+      "source": "https://diskunion.net/template/default/assets/css/style.css",
+      "selector": ".btn-info",
+      "declarations": "--bs-btn-color: #000;\n  --bs-btn-bg: #0dcaf0;\n  --bs-btn-border-color: #0dcaf0;\n  --bs-btn-hover-color: #000;\n  --bs-btn-hover-bg: #31d2f2;\n  --bs-btn-hover-border-color: #25cff2;\n  --bs-btn-focus-shadow-rgb: 11, 172, 204;\n  --bs-btn-active-color: #000;\n  --bs-btn-active-bg: #3dd5f3;\n  --bs-btn-active-border-color: #25cff2;\n  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);\n  --bs-btn-disabled-color: #000;\n  --bs-btn-disabled-bg: #0dcaf0;\n  --bs-btn-disabled-border-color: #0dcaf0;"
+    },
+    {
+      "source": "https://diskunion.net/template/default/assets/css/style.css",
+      "selector": ".btn-warning",
+      "declarations": "--bs-btn-color: #000;\n  --bs-btn-bg: #ffc107;\n  --bs-btn-border-color: #ffc107;\n  --bs-btn-hover-color: #000;\n  --bs-btn-hover-bg: #ffca2c;\n  --bs-btn-hover-border-color: #ffc720;\n  --bs-btn-focus-shadow-rgb: 217, 164, 6;\n  --bs-btn-active-color: #000;\n  --bs-btn-active-bg: #ffcd39;\n  --bs-btn-active-border-color: #ffc720;\n  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);\n  --bs-btn-disabled-color: #000;\n  --bs-btn-disabled-bg: #ffc107;\n  --bs-btn-disabled-border-color: #ffc107;"
+    },
+    {
+      "source": "https://diskunion.net/template/default/assets/css/style.css",
+      "selector": ".btn-danger",
+      "declarations": "--bs-btn-color: #fff;\n  --bs-btn-bg: #dc3545;\n  --bs-btn-border-color: #dc3545;\n  --bs-btn-hover-color: #fff;\n  --bs-btn-hover-bg: #bb2d3b;\n  --bs-btn-hover-border-color: #b02a37;\n  --bs-btn-focus-shadow-rgb: 225, 83, 97;\n  --bs-btn-active-color: #fff;\n  --bs-btn-active-bg: #b02a37;\n  --bs-btn-active-border-color: #a52834;\n  --bs-btn-active-shadow: inset 0 3px 5px rgba(0, 0, 0, 0.125);\n  --bs-btn-disabled-color: #fff;\n  --bs-btn-disabled-bg: #dc3545;\n  --bs-btn-disabled-border-color: #dc3545;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "ディスクユニオン｜レコード・CD・DVD・音楽ソフトの通販・買取",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "a12845499366393ff863eebf48a7dfe0a7503a6d60e476f9bddff91021715502"
+    }
+  ],
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://diskunion.net/",
+        "https://diskunion.net/template/default/assets/css/style.css",
+        "https://diskunion.net/user_data/assets/css/customize.css",
+        "https://use.fontawesome.com/releases/v6.0.0/css/all.css",
+        "https://use.fontawesome.com/releases/v6.5.2/css/all.css",
+        "https://diskunion.net/#computed-style-snapshot"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://diskunion.net/",
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://diskunion.net/",
+        "https://diskunion.net/template/default/assets/css/style.css",
+        "https://diskunion.net/user_data/assets/css/customize.css",
+        "https://use.fontawesome.com/releases/v6.0.0/css/all.css",
+        "https://use.fontawesome.com/releases/v6.5.2/css/all.css",
+        "https://diskunion.net/#computed-style-snapshot"
+      ]
+    },
+    "colors.accent-tint": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "colors.accent-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "colors.secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "colors.secondary-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "colors.link": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "colors.footer-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://diskunion.net/template/default/assets/css/style.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search-bar": {
+      "status": "inferred"
+    },
+    "components.format-tag": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Hydrow
-description: A dark, immersive fitness canvas where #000 sets the stage and #0070f3 — a precise, electric blue — becomes the single point of focus, the only color that breaks the void. This is not a cheerful gym brand; it's a performance interface for rowing, where every pixel serves the athlete's flow state. The blue appears in primary CTAs, progress indicators, and the subtle glow of the start button, never overwhelming but always purposeful. Typography runs system-native (-apple-system, Segoe UI, sans-serif) at moderate weights — no custom display face, no decorative flourishes, just clean hierarchy that gets out of the way. Cards and buttons use tight radii ({rounded.sm} at 8px), avoiding the pill-shaped friendliness of consumer marketplaces; this is a tool, not a toy. The secondary accent #3291ff provides hover states and link underlines, a lighter sibling that adds dimension without competing. White text on dark backgrounds carries all primary messaging, with muted grays for secondary info. The overall effect is one of controlled intensity — a cockpit for the body, not a social feed.
+name: "Hydrow"
+source_url: "https://hydrow.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A dark, immersive fitness canvas where #000 sets the stage and #0070f3 — a precise, electric blue — becomes the single point of focus, the only color that breaks the void. This is not a cheerful gym brand; it's a performance interface for rowing, where every pixel serves the athlete's flow state. The blue appears in primary CTAs, progress indicators, and the subtle glow of the start button, never overwhelming but always purposeful. Typography runs system-native (-apple-system, Segoe UI, sans-serif) at moderate weights — no custom display face, no decorative flourishes, just clean hierarchy that gets out of the way. Cards and buttons use tight radii ({rounded.sm} at 8px), avoiding the pill-shaped friendliness of consumer marketplaces; this is a tool, not a toy. The secondary accent #3291ff provides hover states and link underlines, a lighter sibling that adds dimension without competing. White text on dark backgrounds carries all primary messaging, with muted grays for secondary info. The overall effect is one of controlled intensity — a cockpit for the body, not a social feed.
 
 colors:
   primary: "#0070f3"
@@ -320,6 +324,8 @@ components:
 - Footer link columns collapse to single column with accordion expansion on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Extracted colors are limited to two blues (#0070f3, #3291ff) and black (#000) from the security checkpoint page — the actual brand palette likely includes additional grays, whites, and potentially accent colors for workout metrics, heart rate zones, and leaderboard elements that couldn't be captured
 - Font family declarations are system-native fallbacks; the actual brand may use a custom typeface (e.g., a bespoke sans-serif for performance branding) that wasn't served on the checkpoint page

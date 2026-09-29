@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Bagatiba
-description: Where most fine jewelry sites flood the screen with warm cream and gold-leaf gradients, Bagatiba strips back to a near-black monochrome — #121212 at the deepest anchor, #2a2a2a carrying body copy, a single quiet silver-gray at #dedede for hairlines and disabled states — and lets gold chain and stone do all the tonal work. The palette is so compressed it reads less like a jewelry store and more like an independent gallery print catalogue, which is exactly the intention. The type system doubles down on that editorial register: Newsreader, a high-contrast bracketed serif optimized for screen reading, takes every headline and display moment, while DM Sans — open apertures, even stroke, zero affectation — handles labels, navigation, price strings, and interface chrome. The two fonts never compete because they occupy completely different layers; the serif announces, the sans operates. Buttons and inputs carry very subtle rounding (`{rounded.sm}`) rather than the pill shapes common to DTC skincare or beauty, signaling precision over friendliness. Product cards sit on a near-white `{colors.surface-card}` lift against a pure `{colors.canvas}` page ground, with the product image taking the full card face and all metadata dropping below the fold in a tight DM Sans stack. The add-to-cart action is a full-width dark slab at the base of the product drawer — the only moment the near-black primary color appears at scale, making it read as a confident close rather than a promotional shout. Navigation is restrained: a centered wordmark flanked by minimal icon controls, no mega-menu, category links in low-weight DM Sans that sit flush with the page rather than demanding attention. The overall register is confident enough in its product to let silence carry weight.
+name: "Bagatiba"
+source_url: "https://www.bagatiba.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Where most fine jewelry sites flood the screen with warm cream and gold-leaf gradients, Bagatiba strips back to a near-black monochrome — #121212 at the deepest anchor, #2a2a2a carrying body copy, a single quiet silver-gray at #dedede for hairlines and disabled states — and lets gold chain and stone do all the tonal work. The palette is so compressed it reads less like a jewelry store and more like an independent gallery print catalogue, which is exactly the intention. The type system doubles down on that editorial register: Newsreader, a high-contrast bracketed serif optimized for screen reading, takes every headline and display moment, while DM Sans — open apertures, even stroke, zero affectation — handles labels, navigation, price strings, and interface chrome. The two fonts never compete because they occupy completely different layers; the serif announces, the sans operates. Buttons and inputs carry very subtle rounding (`{rounded.sm}`) rather than the pill shapes common to DTC skincare or beauty, signaling precision over friendliness. Product cards sit on a near-white `{colors.surface-card}` lift against a pure `{colors.canvas}` page ground, with the product image taking the full card face and all metadata dropping below the fold in a tight DM Sans stack. The add-to-cart action is a full-width dark slab at the base of the product drawer — the only moment the near-black primary color appears at scale, making it read as a confident close rather than a promotional shout. Navigation is restrained: a centered wordmark flanked by minimal icon controls, no mega-menu, category links in low-weight DM Sans that sit flush with the page rather than demanding attention. The overall register is confident enough in its product to let silence carry weight.
 
 colors:
   primary: "#2a2a2a"
@@ -340,6 +344,8 @@ components:
 - Footer: link groups collapse to tap-to-expand accordions at `{typography.title-sm}`; email signup moves above the grid
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No brand color beyond near-black neutrals was extracted — zero accent colors (no gold, rose, or warm tone) surfaced in the crawl; if Bagatiba uses a gold hover or active accent it was not present in top extracted colors
 - White (`#ffffff`) is assumed as `canvas` and `surface-card` since it was not in the extracted color list (likely rendered as a browser default before JS paint)

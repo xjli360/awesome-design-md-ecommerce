@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Opal
-description: A matte-black monolith of a webcam that signals its seriousness through a single, unapologetic accent: #ffdb01, a high-voltage marigold that appears only on the primary CTA, the badge on the product hero, and the tiny LED ring that glows when the lens is live. The rest of the system is a study in near-monochrome restraint — #171717 ink, #222222 and #1b1b1b for deep surfaces, #fafafa for the canvas, and a cascade of grays (#777777, #767676, #bbbbbb, #e7e7e7) for body copy, muted labels, and hairline borders. The brand uses Roobert, a geometric sans-serif with a slight industrial stiffness, set at modest weights (400–600) and never oversized — the hero headline sits at 28px, not 48px, because the product photography (a precision-machined aluminum cylinder on a brushed-metal stand) does the heavy lifting. Every corner is either razor-sharp ({rounded.none}) or fully pill-shaped ({rounded.full}); there is no intermediate radius. The primary button is a 48px-tall pill in #ffdb01 with #171717 text, a deliberate inversion of the typical dark-brand CTA. The nav bar is a floating translucent panel (#ffffff at 80% opacity, backdrop blur) that lets the product hero breathe behind it. The entire system feels like a Leica camera interface — minimal, dense with purpose, and unwilling to apologize for its price point.
+name: "Opal"
+source_url: "https://opalcamera.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A matte-black monolith of a webcam that signals its seriousness through a single, unapologetic accent: #ffdb01, a high-voltage marigold that appears only on the primary CTA, the badge on the product hero, and the tiny LED ring that glows when the lens is live. The rest of the system is a study in near-monochrome restraint — #171717 ink, #222222 and #1b1b1b for deep surfaces, #fafafa for the canvas, and a cascade of grays (#777777, #767676, #bbbbbb, #e7e7e7) for body copy, muted labels, and hairline borders. The brand uses Roobert, a geometric sans-serif with a slight industrial stiffness, set at modest weights (400–600) and never oversized — the hero headline sits at 28px, not 48px, because the product photography (a precision-machined aluminum cylinder on a brushed-metal stand) does the heavy lifting. Every corner is either razor-sharp ({rounded.none}) or fully pill-shaped ({rounded.full}); there is no intermediate radius. The primary button is a 48px-tall pill in #ffdb01 with #171717 text, a deliberate inversion of the typical dark-brand CTA. The nav bar is a floating translucent panel (#ffffff at 80% opacity, backdrop blur) that lets the product hero breathe behind it. The entire system feels like a Leica camera interface — minimal, dense with purpose, and unwilling to apologize for its price point.
 
 colors:
   primary: "#ffdb01"
@@ -298,6 +302,8 @@ components:
 - Accordion content is always collapsed by default on all breakpoints.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Extracted hex list is dominated by grays (#171717, #222222, #777777, #767676, #bbbbbb, #e7e7e7, #dedede, #bcbcbc, #d9d9d9, #e6e6e6, #aaaaaa, #fafafa, #dcdcdc, #ededed, #1b1b1b, #1e1e1e, #888888, #ececec, #e5e5e5, #959595, #343434, #787778, #595226, #121212, #8b790c) with one distinctive accent (#ffdb01) and a few likely checkout/social colors (#5ab864, #ff3427, #0141ff). The brand's true primary is #ffdb01 (marigold), which appears consistently across the site. The grays are the supporting palette.
 - Hover states for buttons and cards are inferred from common patterns — not extracted from live CSS.

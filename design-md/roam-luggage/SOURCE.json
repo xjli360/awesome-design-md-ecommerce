@@ -1,0 +1,810 @@
+{
+  "source_url": "https://roamluggage.com",
+  "final_url": "https://www.roamluggage.com/",
+  "captured_at": "2026-09-28T10:07:12.939897+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://roamluggage.com",
+      "final_url": "https://www.roamluggage.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "12cfb0e6e471714494182d31dfcdb57772d1cbc07e6a00d0eb56745e03a56bd6",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.roamluggage.com/cdn/shop/t/148/assets/theme.css?v=87460337138714953271781796700",
+      "final_url": "https://www.roamluggage.com/cdn/shop/t/148/assets/theme.css?v=87460337138714953271781796700",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a48f9b3c1475a9c2fcd7bf282ea25bccc3abb45368bc12ee7f3579f422c60644",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.roamluggage.com/cdn/shop/t/148/assets/product-customizer.css?v=27072729595993426451779879781",
+      "final_url": "https://www.roamluggage.com/cdn/shop/t/148/assets/product-customizer.css?v=27072729595993426451779879781",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6f125088ce27bea96cd2b9db8ce26a93b74f5d2ecf542381a9957b8081e1ee20",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.roamluggage.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.roamluggage.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.roamluggage.com/cdn/shop/t/148/assets/custom.css?v=139715970149083987941788886275",
+      "final_url": "https://www.roamluggage.com/cdn/shop/t/148/assets/custom.css?v=139715970149083987941788886275",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "18163e5c5f03a9eebb6ff82c8c71878b1ba222cde37efb92a3140c4685999d4b",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.roamluggage.com/cdn/shop/t/148/assets/drawer-menu-accordion.css?v=138934450157666036911776865802",
+      "final_url": "https://www.roamluggage.com/cdn/shop/t/148/assets/drawer-menu-accordion.css?v=138934450157666036911776865802",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9cab53fbfbbb053d547f48a11ea3e99a2e93029928d0374c5364a6a48e4bd522",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 81,
+      "sources": [
+        "https://www.roamluggage.com/",
+        "https://www.roamluggage.com/cdn/shop/t/148/assets/theme.css?v=87460337138714953271781796700",
+        "https://www.roamluggage.com/cdn/shop/t/148/assets/custom.css?v=139715970149083987941788886275"
+      ]
+    },
+    "#ffffff": {
+      "count": 50,
+      "sources": [
+        "https://www.roamluggage.com/",
+        "https://www.roamluggage.com/cdn/shop/t/148/assets/theme.css?v=87460337138714953271781796700",
+        "https://www.roamluggage.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.roamluggage.com/cdn/shop/t/148/assets/custom.css?v=139715970149083987941788886275"
+      ]
+    },
+    "#f7f5f4": {
+      "count": 42,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#1c1c1e": {
+      "count": 13,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#bc2e2e": {
+      "count": 10,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#0f0f0f": {
+      "count": 8,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 8,
+      "sources": [
+        "https://www.roamluggage.com/cdn/shop/t/148/assets/theme.css?v=87460337138714953271781796700",
+        "https://www.roamluggage.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000017": {
+      "count": 8,
+      "sources": [
+        "https://www.roamluggage.com/cdn/shop/t/148/assets/theme.css?v=87460337138714953271781796700"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 6,
+      "sources": [
+        "https://www.roamluggage.com/",
+        "https://www.roamluggage.com/cdn/shop/t/148/assets/theme.css?v=87460337138714953271781796700",
+        "https://www.roamluggage.com/cdn/shop/t/148/assets/product-customizer.css?v=27072729595993426451779879781",
+        "https://www.roamluggage.com/cdn/shop/t/148/assets/custom.css?v=139715970149083987941788886275"
+      ]
+    },
+    "#f7f9fa": {
+      "count": 6,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#007aff": {
+      "count": 5,
+      "sources": [
+        "https://www.roamluggage.com/cdn/shop/t/148/assets/theme.css?v=87460337138714953271781796700"
+      ]
+    },
+    "#00000080": {
+      "count": 5,
+      "sources": [
+        "https://www.roamluggage.com/cdn/shop/t/148/assets/theme.css?v=87460337138714953271781796700"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 4,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#7d9bb3": {
+      "count": 4,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#3d3d3d": {
+      "count": 4,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#9c1916": {
+      "count": 4,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#10233e": {
+      "count": 4,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#8291a0": {
+      "count": 4,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#444748": {
+      "count": 4,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#ebebe8": {
+      "count": 4,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#00000024": {
+      "count": 4,
+      "sources": [
+        "https://www.roamluggage.com/cdn/shop/t/148/assets/theme.css?v=87460337138714953271781796700"
+      ]
+    },
+    "#f6f4f4": {
+      "count": 4,
+      "sources": [
+        "https://www.roamluggage.com/cdn/shop/t/148/assets/theme.css?v=87460337138714953271781796700"
+      ]
+    },
+    "#373737": {
+      "count": 3,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#272d45": {
+      "count": 3,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#00000026": {
+      "count": 3,
+      "sources": [
+        "https://www.roamluggage.com/cdn/shop/t/148/assets/theme.css?v=87460337138714953271781796700"
+      ]
+    },
+    "#0000000f": {
+      "count": 3,
+      "sources": [
+        "https://www.roamluggage.com/cdn/shop/t/148/assets/theme.css?v=87460337138714953271781796700"
+      ]
+    },
+    "#ffffff00": {
+      "count": 3,
+      "sources": [
+        "https://www.roamluggage.com/cdn/shop/t/148/assets/theme.css?v=87460337138714953271781796700"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 2,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#fcfcf9": {
+      "count": 2,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#d21404": {
+      "count": 2,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#df0a0a": {
+      "count": 2,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#040000": {
+      "count": 2,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#152368": {
+      "count": 2,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#d03434": {
+      "count": 2,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#a7b8d8": {
+      "count": 2,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#a80167": {
+      "count": 2,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#a0bbc2": {
+      "count": 2,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#747272": {
+      "count": 2,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#abbec1": {
+      "count": 2,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#e7c1bc": {
+      "count": 2,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#357ca0": {
+      "count": 2,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#595858": {
+      "count": 2,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#7381bf": {
+      "count": 2,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#989ba0": {
+      "count": 2,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#193386": {
+      "count": 2,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#d0d3d4": {
+      "count": 2,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#4d6c85": {
+      "count": 2,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#9b6740": {
+      "count": 2,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#555546": {
+      "count": 2,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#bf353e": {
+      "count": 2,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#7bd5ff": {
+      "count": 2,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#030000": {
+      "count": 2,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#cd9f76": {
+      "count": 2,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#4a4a4a": {
+      "count": 2,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#b71616": {
+      "count": 2,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#172341": {
+      "count": 2,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#1e3c62": {
+      "count": 2,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#596aa7": {
+      "count": 2,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#212971": {
+      "count": 2,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "#fb958f": {
+      "count": 2,
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "Area": [
+      "https://www.roamluggage.com/"
+    ],
+    "Bebas Neue": [
+      "https://www.roamluggage.com/"
+    ],
+    "Figtree": [
+      "https://www.roamluggage.com/"
+    ],
+    "Work Sans": [
+      "https://www.roamluggage.com/"
+    ],
+    "oke-widget-icons": [
+      "https://www.roamluggage.com/"
+    ],
+    "oke-widget-icons!important": [
+      "https://www.roamluggage.com/"
+    ],
+    "swiper-icons": [
+      "https://www.roamluggage.com/cdn/shop/t/148/assets/theme.css?v=87460337138714953271781796700"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.roamluggage.com/",
+      "selector": ":root",
+      "declarations": "--logo-font-size: \n1.59375rem\n;\n      --font-size-heading-display-1: \n2.86875rem\n;\n      --font-size-heading-display-2: \n2.5493625rem\n;\n      --font-size-heading-display-3: \n2.2311225rem\n;\n      --font-size-heading-1-base: \n1.9125rem\n;\n      --font-size-heading-2-base: \n1.6734375rem\n;\n      --font-size-heading-3-base: \n1.434375rem\n;\n      --font-size-heading-4-base: \n1.1149875rem\n;\n      --font-size-heading-5-base: \n0.95625rem\n;\n      --font-size-heading-6-base: \n0.7956rem\n;\n      --font-size-body-400: \n1.444734375rem\n;\n      --font-size-body-350: \n1.3484765625rem\n;\n      --font-size-body-300: \n1.25221875rem\n;\n      --font-size-body-250: \n1.1559609375rem\n;\n      --font-size-body-200: \n1.0597"
+    },
+    {
+      "source": "https://www.roamluggage.com/",
+      "selector": ".product-badge[data-handle=\"conscious\"]",
+      "declarations": "color: #74c794;"
+    },
+    {
+      "source": "https://www.roamluggage.com/",
+      "selector": ".product-badge[data-handle=\"best-seller\"]",
+      "declarations": "color: #0a2739;"
+    },
+    {
+      "source": "https://www.roamluggage.com/",
+      "selector": ".product-badge[data-handle=\"save-200\"]",
+      "declarations": "color: #df0a0a;"
+    },
+    {
+      "source": "https://www.roamluggage.com/",
+      "selector": ".product-badge[data-handle=\"save-300\"]",
+      "declarations": "color: #df0a0a;"
+    },
+    {
+      "source": "https://www.roamluggage.com/",
+      "selector": ".okeReviews[data-oke-container] button,div.okeReviews button",
+      "declarations": "border-radius:0;border:0;box-shadow:none;margin:0;width:auto;min-width:auto;padding:0;background-color:transparent;min-height:auto"
+    },
+    {
+      "source": "https://www.roamluggage.com/",
+      "selector": "views[data-oke-container] input,.okeReviews[data-oke-container] select,.okeReviews[data-oke-container] textarea,div.okeReviews button,div.okeReviews input,div.o",
+      "declarations": "font-family:inherit;font-size:1em"
+    },
+    {
+      "source": "https://www.roamluggage.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button,div.okeReviews .oke-button",
+      "declarations": "display:inline-block;border-style:solid;border-color:var(--oke-button-borderColor);border-width:var(--oke-button-borderWidth);background-color:var(--oke-button-backgroundColor);line-height:1;padding:12px 24px;margin:0;border-radius:var(--oke-button-borderRadius);color:var(--oke-button-textColor);text-align:center;position:relative;font-weight:var(--oke-button-fontWeight);font-size:var(--oke-button-fontSize);font-family:var(--oke-button-fontFamily);outline:0"
+    },
+    {
+      "source": "https://www.roamluggage.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button.oke-is-loading:before,div.okeReviews .oke-button.oke-is-loading:before",
+      "declarations": "font-family:oke-widget-icons!important;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;content:\"\";color:undefined;font-size:12px;display:inline-block;animation:oke-spin 1s linear infinite;position:absolute;width:12px;height:12px;top:0;left:0;bottom:0;right:0;margin:auto"
+    },
+    {
+      "source": "https://www.roamluggage.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button.oke-is-active,div.okeReviews .oke-button.oke-is-active",
+      "declarations": "background-color:var(--oke-button-backgroundColorActive);color:var(--oke-button-textColorActive);border-color:var(--oke-button-borderColorActive)"
+    },
+    {
+      "source": "https://www.roamluggage.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button:not(.oke-is-loading):not(.oke-is-active):hover,div.okeReviews .oke-button:not(.oke-is-loading):not(.oke-is-active):h",
+      "declarations": "background-color:var(--oke-button-backgroundColorHover);color:var(--oke-button-textColorHover);border-color:var(--oke-button-borderColorHover);box-shadow:0 0 0 2px var(--oke-button-backgroundColorHover)"
+    },
+    {
+      "source": "https://www.roamluggage.com/",
+      "selector": "is-loading):not(.oke-is-active):hover:active,div.okeReviews .oke-button:not(.oke-is-loading):not(.oke-is-active):active,div.okeReviews .oke-button:not(.oke-is-l",
+      "declarations": "background-color:var(--oke-button-backgroundColorActive);color:var(--oke-button-textColorActive);border-color:var(--oke-button-borderColorActive)"
+    },
+    {
+      "source": "https://www.roamluggage.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-bodyText,div.okeReviews .oke-bodyText",
+      "declarations": "font-weight:var(--oke-bodyText-fontWeight);font-size:var(--oke-bodyText-fontSize);font-family:var(--oke-bodyText-fontFamily)"
+    },
+    {
+      "source": "https://www.roamluggage.com/",
+      "selector": "views[data-oke-container] .oke-modal .oke-reviewContent-date,div.okeReviews .oke-modal .oke-helpful,div.okeReviews .oke-modal .oke-helpful-vote-button,div.okeRe",
+      "declarations": "color:#676986"
+    },
+    {
+      "source": "https://www.roamluggage.com/",
+      "selector": ":root",
+      "declarations": "--oke-widget-spaceAbove:3rem;--oke-widget-spaceBelow:3rem;--oke-starRating-spaceAbove:0;--oke-starRating-spaceBelow:0;--oke-button-backgroundColor:#000;--oke-button-backgroundColorHover:#000;--oke-button-backgroundColorActive:#000;--oke-button-textColor:#fff;--oke-button-textColorHover:#fff;--oke-button-textColorActive:#fff;--oke-button-borderColor:#000;--oke-button-borderColorHover:#000;--oke-button-borderColorActive:#000;--oke-button-borderRadius:.375rem;--oke-button-borderWidth:1px;--oke-button-fontWeight:400;--oke-button-fontSize:1em;--oke-button-fontFamily:inherit;--oke-border-color:#000;--oke-border-width:1px;--oke-text-primaryColor:#000;--oke-text-secondaryColor:#000;--oke-text-small:"
+    },
+    {
+      "source": "https://www.roamluggage.com/",
+      "selector": ",div.okeReviews[data-oke-container] .oke-modal .oke-helpful,div.okeReviews[data-oke-container] .oke-modal .oke-helpful-vote-button,div.okeReviews[data-oke-conta",
+      "declarations": "color:var(--oke-text-primaryColor)"
+    },
+    {
+      "source": "https://www.roamluggage.com/",
+      "selector": "div[data-oke-referrals-widget] .c-button",
+      "declarations": "border-radius:var(--oke-button-borderRadius);font-family:var(--oke-button-fontFamily);font-size:var(--oke-button-fontSize,var(--oke-text-regular,14px));font-weight:600;padding:7px 24px 9px 24px;text-transform:uppercase;transition:all .1s ease-in-out;white-space:nowrap"
+    },
+    {
+      "source": "https://www.roamluggage.com/",
+      "selector": "body,h1,h2,h3,h4,h5,h6,p,a,li,*:not(.fa):not([class*=\"pe-\"]):not(.lni):not(i[class*=\"iccl-\"]):not(i[class*=\"la\"]):not(i[class*=\"fa\"]):not(.jdgm-star):not(.r--st",
+      "declarations": "font-family: 'Area';"
+    },
+    {
+      "source": "https://www.roamluggage.com/",
+      "selector": "erlay-outline-button-alpha:\nrgba(0, 0, 0, 0.1);\n\n  \n--focal-alignment: center;\nheight: 12px\nheight: 12px\n#shopify-section-template--19586900328490__home_section",
+      "declarations": "background-color: #f7f9fa;\n    color: #1c1c1e;\n    padding-top: 64px;\n    padding-bottom: 24px;\n    padding-left: 24px;\n    padding-right: 24px;"
+    },
+    {
+      "source": "https://www.roamluggage.com/",
+      "selector": "#shopify-section-template--19586900328490__home_section_header_zbt6TT-header .hp-section-header__eyebrow",
+      "declarations": "display: inline-block;\n    font-size: 11px !important;\n    background-color: rgba(197,28,38,0.10);\n    color: #1c1c1e;\n    padding: 6px 13px;\n    border-radius: 999px;\n    font-weight: 700;\n    letter-spacing: 0.12em;\n    text-transform: uppercase;\n    line-height: 1;\n    margin-bottom: 16px;"
+    },
+    {
+      "source": "https://www.roamluggage.com/",
+      "selector": "#shopify-section-template--19586900328490__home_section_header_zbt6TT-header .hp-section-header__eyebrow--text",
+      "declarations": "background-color: transparent !important;\n    padding: 0 !important;\n    border-radius: 0 !important;"
+    },
+    {
+      "source": "https://www.roamluggage.com/",
+      "selector": "#shopify-section-template--19586900328490__home_section_header_zbt6TT-header .hp-section-header__body",
+      "declarations": "margin: 0;\n    line-height: 1.6;\n    opacity: 0.78;\n    font-size: 16px;\n    color: #3d3d3d;"
+    },
+    {
+      "source": "https://www.roamluggage.com/",
+      "selector": "#shopify-section-template--19586900328490__home_reviews_xLh6Hw-reviews .hp-review__product",
+      "declarations": "display: inline-block;\n    font-size: 11px;\n    font-weight: 600;\n    letter-spacing: 0.08em;\n    text-transform: uppercase;\n    color: #1c1c1e;\n    text-decoration: none;\n    border-bottom: 1px solid currentColor;\n    padding-bottom: 1px;"
+    },
+    {
+      "source": "https://www.roamluggage.com/",
+      "selector": "#shopify-section-template--19586900328490__home_reviews_xLh6Hw-reviews .hp-review__product:hover",
+      "declarations": "color: #c51c26;"
+    },
+    {
+      "source": "https://www.roamluggage.com/cdn/shop/t/148/assets/theme.css?v=87460337138714953271781796700",
+      "selector": ":root",
+      "declarations": "--swiper-theme-color: #007aff"
+    },
+    {
+      "source": "https://www.roamluggage.com/cdn/shop/t/148/assets/theme.css?v=87460337138714953271781796700",
+      "selector": ":root",
+      "declarations": "--swiper-navigation-size: 44px"
+    },
+    {
+      "source": "https://www.roamluggage.com/cdn/shop/t/148/assets/theme.css?v=87460337138714953271781796700",
+      "selector": ".swiper-button-next,.swiper-button-prev",
+      "declarations": "position:absolute;top:50%;width:27px;width:calc(var(--swiper-navigation-size)/ 44 * 27);height:44px;height:var(--swiper-navigation-size);margin-top:-22px;margin-top:calc(0px - (var(--swiper-navigation-size)/ 2));z-index:10;cursor:pointer;display:flex;align-items:center;justify-content:center;color:#007aff;color:var(--swiper-navigation-color, var(--swiper-theme-color))"
+    },
+    {
+      "source": "https://www.roamluggage.com/cdn/shop/t/148/assets/theme.css?v=87460337138714953271781796700",
+      "selector": ".swiper-button-next:after,.swiper-button-prev:after",
+      "declarations": "font-family:swiper-icons;font-size:44px;font-size:var(--swiper-navigation-size);letter-spacing:0;font-feature-settings:;font-variant:normal;font-variant:initial;line-height:1"
+    },
+    {
+      "source": "https://www.roamluggage.com/cdn/shop/t/148/assets/theme.css?v=87460337138714953271781796700",
+      "selector": ":root",
+      "declarations": "--media-below-480: (max-width: 479px);--media-above-480: (min-width: 480px);--media-below-720: (max-width: 719px);--media-above-720: (min-width: 720px);--media-below-960: (max-width: 959px);--media-above-960: (min-width: 960px);--media-below-1200: (max-width: 1199px);--media-above-1200: (min-width: 1200px);--media-below-1400: (max-width: 1399px);--media-above-1400: (min-width: 1400px);--max-width: 1400px;--max-width-narrow: 747px;--flyout-mobile-gap: var(--spacing-9);--flyout-width: calc(375px + var(--flyout-mobile-gap))"
+    },
+    {
+      "source": "https://www.roamluggage.com/cdn/shop/t/148/assets/theme.css?v=87460337138714953271781796700",
+      "selector": ":root",
+      "declarations": "--flyout-width: 460px"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "ROAM Luggage - Premium Built-to-Order Luggage",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.roamluggage.com/",
+        "https://www.roamluggage.com/cdn/shop/t/148/assets/theme.css?v=87460337138714953271781796700",
+        "https://www.roamluggage.com/cdn/shop/t/148/assets/custom.css?v=139715970149083987941788886275"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.roamluggage.com/",
+        "https://www.roamluggage.com/cdn/shop/t/148/assets/theme.css?v=87460337138714953271781796700",
+        "https://www.roamluggage.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.roamluggage.com/cdn/shop/t/148/assets/custom.css?v=139715970149083987941788886275"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.roamluggage.com/",
+        "https://www.roamluggage.com/cdn/shop/t/148/assets/theme.css?v=87460337138714953271781796700",
+        "https://www.roamluggage.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.roamluggage.com/cdn/shop/t/148/assets/custom.css?v=139715970149083987941788886275"
+      ]
+    },
+    "colors.accent-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "colors.accent-navy": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "colors.accent-tan": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.roamluggage.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.colorway-swatch": {
+      "status": "inferred"
+    }
+  }
+}

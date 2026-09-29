@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Milkweed Editions
-description: A literary publisher whose visual system is built on the tension between warm, earthy tones and a clean, airy canvas. The extracted palette reveals a surprising range: a deep, almost charcoal ink (#353434) grounds the body text, while a muted sage-gray (#7993a5) and a soft, dusty blue (#5b6f80) create a quiet, contemplative atmosphere. The most distinctive accent is a burnt orange (#e87746), used sparingly for primary CTAs and navigation highlights, providing a warm, human pulse against the cool grays. The brand leans heavily on serif typography—Goudy Old Style, Palatino, and Warnock Pro for display and body text—evoking a sense of literary tradition and authority. This is paired with a clean, geometric sans-serif (GothamSSm, SentinelSSm) for UI elements like buttons and navigation, creating a subtle but deliberate hierarchy: the serif speaks, the sans-serif acts. The overall mood is one of refined simplicity; generous whitespace and soft, rounded corners (`{rounded.sm}` on cards, `{rounded.md}` on buttons) prevent the system from feeling cold or academic. The primary canvas is a near-white (#f0f0f0), with a slightly warmer surface-soft (#edecec) for cards, giving the site a tactile, paper-like quality that mirrors the physical books it publishes.
+name: "Milkweed Editions"
+source_url: "https://milkweed.org"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A literary publisher whose visual system is built on the tension between warm, earthy tones and a clean, airy canvas. The extracted palette reveals a surprising range: a deep, almost charcoal ink (#353434) grounds the body text, while a muted sage-gray (#7993a5) and a soft, dusty blue (#5b6f80) create a quiet, contemplative atmosphere. The most distinctive accent is a burnt orange (#e87746), used sparingly for primary CTAs and navigation highlights, providing a warm, human pulse against the cool grays. The brand leans heavily on serif typography—Goudy Old Style, Palatino, and Warnock Pro for display and body text—evoking a sense of literary tradition and authority. This is paired with a clean, geometric sans-serif (GothamSSm, SentinelSSm) for UI elements like buttons and navigation, creating a subtle but deliberate hierarchy: the serif speaks, the sans-serif acts. The overall mood is one of refined simplicity; generous whitespace and soft, rounded corners (`{rounded.sm}` on cards, `{rounded.md}` on buttons) prevent the system from feeling cold or academic. The primary canvas is a near-white (#f0f0f0), with a slightly warmer surface-soft (#edecec) for cards, giving the site a tactile, paper-like quality that mirrors the physical books it publishes.
 
 colors:
   primary: "#e87746"
@@ -315,6 +319,8 @@ components:
 - The footer collapses from a multi-column layout to a single column, with links stacked vertically.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted hex colors include several generic web framework defaults (e.g., `#0d6efd`, `#198754`, `#0dcaf0`) that are likely from Bootstrap or similar libraries used in the admin or checkout flow, not the brand's design system. The true brand palette was inferred from the most distinctive and frequently occurring colors (`#e87746`, `#7993a5`, `#5b6f80`, `#353434`).
 - Hover and focus states for all components were inferred from common design patterns; actual live site behavior may differ.

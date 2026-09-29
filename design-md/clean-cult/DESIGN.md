@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Clean Cult
-description: A cleaning brand that wears its convictions on its sleeve, Clean Cult builds its entire visual identity around a deep, serious navy (#001f60) that reads as institutional trustworthiness — the kind of blue you'd expect on a bank vault or a laboratory coat, not a bottle of dish soap. That navy anchors a palette that leans heavily into warm, urgent reds (#c41230, #d92d20, #f04438) and soft blushes (#fef3f2, #fee4e2) that signal both the brand's activist edge and its human-centered approach. The extracted hexes reveal a brand that's not afraid of strong color statements — the red family alone spans twelve distinct stops from the palest pink to deep burgundy, suggesting a sophisticated system for alerts, badges, and promotional accents. The typography stack is resolutely practical: system fonts with a custom body font (`__bodyFont_dbd0f4`) that prioritizes legibility over personality, paired with the universal safety net of -apple-system and sans-serif. This is a brand that lets its mission — "More Power. Less Plastic." — do the heavy lifting, using color as the primary emotional carrier rather than ornate typography or complex layouts. The meta theme-color of #001f60 tells you everything: this is a brand that wants to feel established, serious, and trustworthy, even as it disrupts the cleaning aisle with plastic-free refills and coconut-powered formulas. The reds aren't angry — they're the color of a warning label, a sale tag, a call to action that says "pay attention, this matters." The blues are the quiet confidence of a brand that's done the homework. Together, they create a tension that's exactly right for a challenger brand in a category dominated by legacy players.
+name: "Clean Cult"
+source_url: "https://cleancult.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A cleaning brand that wears its convictions on its sleeve, Clean Cult builds its entire visual identity around a deep, serious navy (#001f60) that reads as institutional trustworthiness — the kind of blue you'd expect on a bank vault or a laboratory coat, not a bottle of dish soap. That navy anchors a palette that leans heavily into warm, urgent reds (#c41230, #d92d20, #f04438) and soft blushes (#fef3f2, #fee4e2) that signal both the brand's activist edge and its human-centered approach. The extracted hexes reveal a brand that's not afraid of strong color statements — the red family alone spans twelve distinct stops from the palest pink to deep burgundy, suggesting a sophisticated system for alerts, badges, and promotional accents. The typography stack is resolutely practical: system fonts with a custom body font (`__bodyFont_dbd0f4`) that prioritizes legibility over personality, paired with the universal safety net of -apple-system and sans-serif. This is a brand that lets its mission — "More Power. Less Plastic." — do the heavy lifting, using color as the primary emotional carrier rather than ornate typography or complex layouts. The meta theme-color of #001f60 tells you everything: this is a brand that wants to feel established, serious, and trustworthy, even as it disrupts the cleaning aisle with plastic-free refills and coconut-powered formulas. The reds aren't angry — they're the color of a warning label, a sale tag, a call to action that says "pay attention, this matters." The blues are the quiet confidence of a brand that's done the homework. Together, they create a tension that's exactly right for a challenger brand in a category dominated by legacy players.
 
 colors:
   primary: "#001f60"
@@ -543,6 +547,8 @@ components:
 - Accordion components used for FAQ and product details on mobile, expanded by default on desktop
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components could not be fully extracted — only primary button and nav link states were observable
 - Error state styling for select inputs and checkboxes was not observable

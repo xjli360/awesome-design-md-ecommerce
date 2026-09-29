@@ -1,0 +1,781 @@
+{
+  "source_url": "https://sassybaby.com",
+  "final_url": "https://sassybaby.com/",
+  "captured_at": "2026-09-28T09:07:33.721798+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://sassybaby.com",
+      "final_url": "https://sassybaby.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "49ac21c1f69f44e8fe0888f8b5b4176d64671ba0e29c7fb149dd724a5c3ddd8d",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562",
+      "final_url": "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e87a06e4c1c741bcd0cbe82a609b1e8dd47903b530a85db6d5c0d204f64d423c",
+      "snapshot": "stylesheet-1.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 102,
+      "sources": [
+        "https://sassybaby.com/",
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#00a2af": {
+      "count": 65,
+      "sources": [
+        "https://sassybaby.com/",
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#000000": {
+      "count": 28,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#230051": {
+      "count": 28,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#bfe8eb": {
+      "count": 19,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#f0f9fa": {
+      "count": 15,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#66c7cf": {
+      "count": 12,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#f26d79": {
+      "count": 10,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#393939": {
+      "count": 10,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#00000026": {
+      "count": 8,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#00a2af0d": {
+      "count": 7,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#f4f6f8": {
+      "count": 6,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#dde0e4": {
+      "count": 6,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#00a2af40": {
+      "count": 6,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#ffffff40": {
+      "count": 6,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#00a2afb3": {
+      "count": 5,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#333333": {
+      "count": 4,
+      "sources": [
+        "https://sassybaby.com/",
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#cccccc": {
+      "count": 4,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#0000004d": {
+      "count": 4,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#00a2af8c": {
+      "count": 4,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#00000080": {
+      "count": 3,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#f2fafb": {
+      "count": 3,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#001416": {
+      "count": 3,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#0000007f": {
+      "count": 3,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#230051b3": {
+      "count": 3,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#ebf5fa": {
+      "count": 3,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#888888": {
+      "count": 3,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#00000040": {
+      "count": 2,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#3e5c9a": {
+      "count": 2,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#ffe607": {
+      "count": 2,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#108043": {
+      "count": 2,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#de3618": {
+      "count": 2,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#fce1e1": {
+      "count": 2,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#f05c5d": {
+      "count": 2,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#00a9ca": {
+      "count": 2,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#212b36": {
+      "count": 2,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#000000bf": {
+      "count": 2,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#47c1bf": {
+      "count": 2,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#00a2af80": {
+      "count": 2,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#00a2af14": {
+      "count": 2,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#00a2af99": {
+      "count": 2,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#458406": {
+      "count": 1,
+      "sources": [
+        "https://sassybaby.com/"
+      ]
+    },
+    "#e7045f": {
+      "count": 1,
+      "sources": [
+        "https://sassybaby.com/"
+      ]
+    },
+    "#9900cc": {
+      "count": 1,
+      "sources": [
+        "https://sassybaby.com/"
+      ]
+    },
+    "#0c7cac": {
+      "count": 1,
+      "sources": [
+        "https://sassybaby.com/"
+      ]
+    },
+    "#222222": {
+      "count": 1,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#55acee": {
+      "count": 1,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#ce272d": {
+      "count": 1,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#dddddd": {
+      "count": 1,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 1,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#8c8c8f": {
+      "count": 1,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#e6f6f7": {
+      "count": 1,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#d9f1f3": {
+      "count": 1,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#ccecef": {
+      "count": 1,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#ffe60733": {
+      "count": 1,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#dfefdf": {
+      "count": 1,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#5ead60": {
+      "count": 1,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "#bfbfbf": {
+      "count": 1,
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    }
+  },
+  "font_families": {
+    "Nunito": [
+      "https://sassybaby.com/",
+      "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+    ],
+    "monospace": [
+      "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+    ],
+    "sans-serif": [
+      "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+    ],
+    "slick": [
+      "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562",
+      "selector": "@charset \"UTF-8\";:root",
+      "declarations": "--payment-terms-background-color: #ffffff"
+    },
+    {
+      "source": "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562",
+      "selector": ".pswp__button--arrow--left:before,.pswp__button--arrow--right:before",
+      "declarations": "content:\"\";top:35px;background-color:#0000004d;height:30px;width:32px;position:absolute"
+    },
+    {
+      "source": "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562",
+      "selector": ".slick-dots li button",
+      "declarations": "display:block;width:8px;height:8px;padding:0;outline:none;border:0;border-radius:8px;background:#8c8c8f;transition:all .15s;color:transparent;font-size:0;line-height:0;cursor:pointer"
+    },
+    {
+      "source": "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562",
+      "selector": ".store-availabilities-modal .cc-popup-modal .cc-popup-content .cc-popup-text .store-availabilities-modal__product-title",
+      "declarations": "margin-bottom:0;text-align:start;color:#00a2af"
+    },
+    {
+      "source": "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562",
+      "selector": ":root",
+      "declarations": "--aos-animate-duration: .6s;--aos-min-width: 0"
+    },
+    {
+      "source": "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:Nunito,sans-serif;font-weight:400;font-style:normal;font-size:100%;line-height:1.15;margin:0"
+    },
+    {
+      "source": "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562",
+      "selector": "html,body",
+      "declarations": "background-color:#fff;color:#00a2af"
+    },
+    {
+      "source": "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562",
+      "selector": ".header-group,main,.footer-group",
+      "declarations": "background-color:#fff;position:relative;display:flow-root"
+    },
+    {
+      "source": "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562",
+      "selector": "body",
+      "declarations": "font-family:Nunito,sans-serif;font-weight:400;font-style:normal;line-height:1.6em;letter-spacing:0em"
+    },
+    {
+      "source": "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562",
+      "selector": "title,.large-title,.giant-title,.massive-title,.biggest-title,.standard-title,.small-title,.cc-popup .cc-popup-title,#shopify-product-reviews .spr-form-title,#s",
+      "declarations": "font-family:Nunito,sans-serif;font-weight:800;font-style:normal;line-height:1.2em;letter-spacing:0em;text-transform:none;word-break:none"
+    },
+    {
+      "source": "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562",
+      "selector": "biggest-title a:hover,.standard-title a:hover,.small-title a:hover,.cc-popup .cc-popup-title a:hover,#shopify-product-reviews .spr-form-title a:hover,#shopify-p",
+      "declarations": "color:inherit;text-decoration:none"
+    },
+    {
+      "source": "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562",
+      "selector": "button.standard-link,.standard-link",
+      "declarations": "color:#00a2af;font-size:1rem;text-decoration:underline;-webkit-text-decoration-skip:ink;text-decoration-skip:ink"
+    },
+    {
+      "source": "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562",
+      "selector": "button.standard-link.standard-link--inherit-color,.standard-link.standard-link--inherit-color",
+      "declarations": "color:inherit"
+    },
+    {
+      "source": "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562",
+      "selector": ".plain-link,.breadcrumbs-list__link,.breadcrumbs-prod-nav__link,.theme-product-reviews-summary",
+      "declarations": "color:inherit;text-decoration:none;transition:opacity .15s"
+    },
+    {
+      "source": "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562",
+      "selector": ".plain-link:hover,.breadcrumbs-list__link:hover,.breadcrumbs-prod-nav__link:hover,.theme-product-reviews-summary:hover",
+      "declarations": "color:inherit;text-decoration:none;opacity:.8"
+    },
+    {
+      "source": "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562",
+      "selector": ".additional-checkout-buttons shopify-accelerated-checkout-cart",
+      "declarations": "--shopify-accelerated-checkout-button-block-size: 44px;--shopify-accelerated-checkout-button-inline-size: 44px;--shopify-accelerated-checkout-button-border-radius: 25px;--shopify-accelerated-checkout-button-box-shadow: none;--shopify-accelerated-checkout-inline-alignment: flex-end;--wallet-button-container-margin-vertical: 0px;--shopify-accelerated-checkout-row-gap: 15px;--shopify-accelerated-checkout-skeleton-background-color: rgba(0, 0, 0, 0);--shopify-accelerated-checkout-skeleton-animation-opacity-start: 0;--shopify-accelerated-checkout-skeleton-animation-opacity-end: 0;--shopify-accelerated-checkout-skeleton-animation-duration: 0s"
+    },
+    {
+      "source": "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562",
+      "selector": "html,body",
+      "declarations": "background-color:#fff;color:#000"
+    },
+    {
+      "source": "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562",
+      "selector": ".order-table .product-summary__fulfillment dd",
+      "declarations": "color:#66c7cf;font-size:.875rem;margin:0 0 10px"
+    },
+    {
+      "source": "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562",
+      "selector": ".header-content",
+      "declarations": "background-color:#fff;color:#230051;position:relative;z-index:102"
+    },
+    {
+      "source": "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562",
+      "selector": ".utils a:not(.btn):not(.site-logo)",
+      "declarations": "color:inherit;text-decoration:none"
+    },
+    {
+      "source": "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562",
+      "selector": ".header-cart .cart-summary",
+      "declarations": "position:absolute;z-index:3;top:100%;right:0;width:412px;padding:15px 30px 30px;background-color:#fff;border-bottom:3px solid #230051;border-left:1px solid rgba(35,0,81,.1);border-right:1px solid rgba(35,0,81,.1);border-top:1px solid rgba(35,0,81,.1);box-shadow:0 2px 4px #00000026;visibility:hidden;opacity:0;transform:translateY(-10px);transition:visibility .3s,opacity .3s,transform .2s"
+    },
+    {
+      "source": "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562",
+      "selector": ".header-cart__count",
+      "declarations": "position:absolute;top:4px;right:0;box-sizing:content-box;min-width:1em;padding:2px;font-size:11px;font-weight:500;line-height:1em;text-align:center;letter-spacing:initial;border-radius:50px;background:#230051;border:1.5px solid #ffffff;color:#fff"
+    },
+    {
+      "source": "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562",
+      "selector": ".docking-header__utils .header-cart__count",
+      "declarations": "background:#230051;border-color:#f4f6f8;color:#f4f6f8"
+    },
+    {
+      "source": "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562",
+      "selector": ".header-social-icons .social-link",
+      "declarations": "margin:0 15px 15px 0;color:#000"
+    },
+    {
+      "source": "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562",
+      "selector": ".docking-header__utils",
+      "declarations": "display:none;margin-top:-12px;color:#230051"
+    },
+    {
+      "source": "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562",
+      "selector": ".docking-header__utils .search-form__input",
+      "declarations": "margin:2px 0;color:inherit"
+    },
+    {
+      "source": "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562",
+      "selector": ".docking-header__utils .search-form__input::placeholder",
+      "declarations": "color:inherit"
+    },
+    {
+      "source": "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562",
+      "selector": ".docking-header__utils .search-bar__results",
+      "declarations": "color:#212b36;background:#fff"
+    },
+    {
+      "source": "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562",
+      "selector": ".product-detail__thumbnail:after",
+      "declarations": "opacity:0;content:\"\";position:absolute;bottom:0;width:100%;height:3px;background-color:#00a2af;transition:opacity .25s"
+    },
+    {
+      "source": "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562",
+      "selector": ".product-inventory",
+      "declarations": "color:#3f8545"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Sassy Baby™ | Sensory & STEM Toys for Every Stage of Development",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sassybaby.com/",
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sassybaby.com/",
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sassybaby.com/",
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sassybaby.com/",
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "colors.accent-purple": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "colors.accent-coral": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "colors.accent-yellow": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "colors.border-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "colors.teal-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "colors.overlay-scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sassybaby.com/cdn/shop/t/11/assets/styles.css?v=30045153875105342581788904562"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.development-stage-tag": {
+      "status": "inferred"
+    }
+  }
+}

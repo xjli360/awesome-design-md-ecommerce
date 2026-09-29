@@ -1,0 +1,999 @@
+{
+  "source_url": "https://www.drunkelephant.com",
+  "final_url": "https://www.drunkelephant.com/",
+  "captured_at": "2026-09-28T04:09:58.947281+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.drunkelephant.com",
+      "final_url": "https://www.drunkelephant.com/",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "sha256": "f3acc983b508a29c074d375324481c1c51125d6d4fc30470e025cb0bcc08c0ce",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/lib/jquery/ui/jquery-ui.min.css",
+      "final_url": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/lib/jquery/ui/jquery-ui.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e4c7d95e4f504f8b3722b35ddeb206f992a90db84cbb596f0991bbdfc556243a",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css",
+      "final_url": "https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "541ac58217a8ade1a5e292a65a0661dc9db7a49ae13654943817a4fbc6761afd",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/picker.min.css",
+      "final_url": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/picker.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1069997b12761726e5f3011f8450eb0dc99853379c9a1456cc2a5b69bb6e46f6",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/glide.core.min.css",
+      "final_url": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/glide.core.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f4bb85dd51fe55f39858a24ec6a949566b5d6a7d6eac7e3f48293ba7a1d800b8",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css",
+      "final_url": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0cf7ca09cadb96c140e3a51ebebeaa9ced6a5c049977ac438895b41e96f07129",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 289,
+      "sources": [
+        "https://www.drunkelephant.com/",
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/lib/jquery/ui/jquery-ui.min.css",
+        "https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css",
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/picker.min.css",
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#000000": {
+      "count": 174,
+      "sources": [
+        "https://www.drunkelephant.com/",
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#4a4a4a": {
+      "count": 140,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#fb48c4": {
+      "count": 86,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#c8102e": {
+      "count": 55,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#aadddd": {
+      "count": 51,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#f6dcff": {
+      "count": 32,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#767676": {
+      "count": 29,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 24,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/lib/jquery/ui/jquery-ui.min.css",
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#fafafa": {
+      "count": 14,
+      "sources": [
+        "https://www.drunkelephant.com/"
+      ]
+    },
+    "#999999": {
+      "count": 14,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 13,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#1779ba": {
+      "count": 13,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#45474a": {
+      "count": 12,
+      "sources": [
+        "https://www.drunkelephant.com/",
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#666666": {
+      "count": 12,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/lib/jquery/ui/jquery-ui.min.css",
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/picker.min.css",
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#333333": {
+      "count": 10,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/lib/jquery/ui/jquery-ui.min.css",
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#f68f5b": {
+      "count": 10,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#990000": {
+      "count": 10,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 10,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#434343": {
+      "count": 10,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#ffddf5": {
+      "count": 10,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#5b5d63": {
+      "count": 9,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#aa22cc": {
+      "count": 8,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#081f2c": {
+      "count": 7,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#84bd00": {
+      "count": 7,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#e3e829": {
+      "count": 7,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#0000ff": {
+      "count": 5,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 4,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/lib/jquery/ui/jquery-ui.min.css",
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/picker.min.css",
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 4,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css",
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#00629b": {
+      "count": 4,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#a9aaad": {
+      "count": 4,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#dbdbdb": {
+      "count": 4,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#cfcfcf": {
+      "count": 4,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#ffef00": {
+      "count": 4,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#575757": {
+      "count": 4,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#5b5e63": {
+      "count": 4,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#ffe3fc": {
+      "count": 4,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#a3a3a3": {
+      "count": 4,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#b0def1": {
+      "count": 4,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#e8f5fb": {
+      "count": 4,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#cdf6c2": {
+      "count": 4,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 3,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/lib/jquery/ui/jquery-ui.min.css",
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#5f3f3f": {
+      "count": 3,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/lib/jquery/ui/jquery-ui.min.css"
+      ]
+    },
+    "#be9170": {
+      "count": 3,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 3,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#8a8a8a": {
+      "count": 3,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#64772d": {
+      "count": 3,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#aafbff": {
+      "count": 3,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#ccc1ad": {
+      "count": 3,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#e32c2b": {
+      "count": 3,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#00b5ea": {
+      "count": 3,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#efefef": {
+      "count": 3,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#3b99fc": {
+      "count": 3,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#e5f5fc": {
+      "count": 2,
+      "sources": [
+        "https://www.drunkelephant.com/",
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#f6f8f9": {
+      "count": 2,
+      "sources": [
+        "https://www.drunkelephant.com/",
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "#c5c5c5": {
+      "count": 2,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/lib/jquery/ui/jquery-ui.min.css"
+      ]
+    },
+    "#454545": {
+      "count": 2,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/lib/jquery/ui/jquery-ui.min.css"
+      ]
+    },
+    "#2b2b2b": {
+      "count": 2,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/lib/jquery/ui/jquery-ui.min.css"
+      ]
+    },
+    "#003eff": {
+      "count": 2,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/lib/jquery/ui/jquery-ui.min.css"
+      ]
+    },
+    "#dad55e": {
+      "count": 2,
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/lib/jquery/ui/jquery-ui.min.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/lib/jquery/ui/jquery-ui.min.css",
+      "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+    ],
+    "BVCustom": [
+      "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+    ],
+    "Brown": [
+      "https://www.drunkelephant.com/",
+      "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+    ],
+    "Brown-Bold": [
+      "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+    ],
+    "BrownBold": [
+      "https://www.drunkelephant.com/"
+    ],
+    "BrownRegular": [
+      "https://www.drunkelephant.com/",
+      "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+    ],
+    "Crete Round": [
+      "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+    ],
+    "FontAwesome": [
+      "https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css",
+      "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+    ],
+    "Helvetica": [
+      "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/lib/jquery/ui/jquery-ui.min.css"
+    ],
+    "Hiragino Kaku Gothic Pro": [
+      "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+    ],
+    "Lato": [
+      "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+    ],
+    "Noto Sans JP": [
+      "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+    ],
+    "Noto Serif JP": [
+      "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+    ],
+    "Reader": [
+      "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+    ],
+    "Sainte Colombe": [
+      "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+    ],
+    "Yu Gothic": [
+      "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+    ],
+    "YuGothic": [
+      "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+    ],
+    "brown!important": [
+      "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+    ],
+    "embeddedserviceiconfont": [
+      "https://www.drunkelephant.com/"
+    ],
+    "icomoon": [
+      "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+    ],
+    "icomoon!important": [
+      "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+    ],
+    "inherit!important": [
+      "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+    ],
+    "monospace": [
+      "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+    ],
+    "sans-serif": [
+      "https://www.drunkelephant.com/",
+      "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/lib/jquery/ui/jquery-ui.min.css",
+      "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+    ],
+    "serif": [
+      "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+    ],
+    "slick": [
+      "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+    ],
+    "small=0em&medium=36.25em&large=64.0625em&xlarge=80em&xxlarge=90em": [
+      "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+    ],
+    "times new roman!important": [
+      "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+    ],
+    "游ゴシック": [
+      "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+    ],
+    "游ゴシック体": [
+      "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.drunkelephant.com/",
+      "selector": ".dw-apple-pay-button,.dw-apple-pay-button:hover,.dw-apple-pay-button:active",
+      "declarations": "background-color:#000;background-image:-webkit-named-image(apple-pay-logo-white);background-position:50% 50%;background-repeat:no-repeat;background-size:75% 60%;border-radius:5px;border:1px solid black;box-sizing:border-box;margin:5px auto;min-height:30px;min-width:100px;padding:0"
+    },
+    {
+      "source": "https://www.drunkelephant.com/",
+      "selector": ".dw-apple-pay-button.dw-apple-pay-logo-white",
+      "declarations": "background-color:#fff;border-color:#fff;background-image:-webkit-named-image(apple-pay-logo-black);color:#000"
+    },
+    {
+      "source": "https://www.drunkelephant.com/",
+      "selector": ".dw-apple-pay-button.dw-apple-pay-logo-white.dw-apple-pay-border",
+      "declarations": "border-color:#000"
+    },
+    {
+      "source": "https://www.drunkelephant.com/",
+      "selector": ".toggle-button",
+      "declarations": "font-weight: 400;\r\n        font-size: 10px;\r\n        line-height: 140%;\r\n        letter-spacing: 1px;\r\n        text-transform: uppercase;\r\n        margin-top: 10px;\r\n        text-decoration: underline;\r\n        color: #45474a;"
+    },
+    {
+      "source": "https://www.drunkelephant.com/",
+      "selector": ".toggle-button",
+      "declarations": "font-weight: 400;\r\n        font-size: 10px;\r\n        line-height: 140%;\r\n        letter-spacing: 1px;\r\n        text-transform: uppercase;\r\n        margin-top: 10px;\r\n        text-decoration: underline;\r\n        color: #45474a;"
+    },
+    {
+      "source": "https://www.drunkelephant.com/",
+      "selector": ".drunkUS-miaw-button .launch-chat-btn",
+      "declarations": "color: #fff;\r\n\t\ttext-transform: uppercase;\r\n\t\tline-height: 1.2;\r\n\t\tletter-spacing: 0.7px;\r\n\t\tfont-weight: 700;"
+    },
+    {
+      "source": "https://www.drunkelephant.com/",
+      "selector": ".drunkUS-miaw-button:hover",
+      "declarations": "background-color: #363839;"
+    },
+    {
+      "source": "https://www.drunkelephant.com/",
+      "selector": "display: inline-block;\n\r\n\r\n    .footer-left-bottom-container button",
+      "declarations": "color: #45474a;\r\n    overflow: unset;\r\n    background-color: transparent;\r\n    text-decoration: none;\r\n    transition: color .2s ease;\r\n    cursor: pointer;"
+    },
+    {
+      "source": "https://www.drunkelephant.com/",
+      "selector": ".footer-left-bottom-container  button:hover",
+      "declarations": "color: #757779;"
+    },
+    {
+      "source": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/lib/jquery/ui/jquery-ui.min.css",
+      "selector": ".ui-widget input,.ui-widget select,.ui-widget textarea,.ui-widget button",
+      "declarations": "font-family:Arial,Helvetica,sans-serif;font-size:1em"
+    },
+    {
+      "source": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/lib/jquery/ui/jquery-ui.min.css",
+      "selector": ".ui-widget-header",
+      "declarations": "border:1px solid #ddd;background:#e9e9e9;color:#333;font-weight:bold"
+    },
+    {
+      "source": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/lib/jquery/ui/jquery-ui.min.css",
+      "selector": ".ui-widget-header a",
+      "declarations": "color:#333"
+    },
+    {
+      "source": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/lib/jquery/ui/jquery-ui.min.css",
+      "selector": ".ui-state-default,.ui-widget-content .ui-state-default,.ui-widget-header .ui-state-default,.ui-button,html .ui-button.ui-state-disabled:hover,html .ui-button.ui",
+      "declarations": "border:1px solid #c5c5c5;background:#f6f6f6;font-weight:normal;color:#454545"
+    },
+    {
+      "source": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/lib/jquery/ui/jquery-ui.min.css",
+      "selector": ".ui-state-default a,.ui-state-default a:link,.ui-state-default a:visited,a.ui-button,a:link.ui-button,a:visited.ui-button,.ui-button",
+      "declarations": "color:#454545;text-decoration:none"
+    },
+    {
+      "source": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/lib/jquery/ui/jquery-ui.min.css",
+      "selector": "-state-hover,.ui-widget-content .ui-state-hover,.ui-widget-header .ui-state-hover,.ui-state-focus,.ui-widget-content .ui-state-focus,.ui-widget-header .ui-state",
+      "declarations": "border:1px solid #ccc;background:#ededed;font-weight:normal;color:#2b2b2b"
+    },
+    {
+      "source": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/lib/jquery/ui/jquery-ui.min.css",
+      "selector": ",.ui-state-hover a:hover,.ui-state-hover a:link,.ui-state-hover a:visited,.ui-state-focus a,.ui-state-focus a:hover,.ui-state-focus a:link,.ui-state-focus a:vis",
+      "declarations": "color:#2b2b2b;text-decoration:none"
+    },
+    {
+      "source": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/lib/jquery/ui/jquery-ui.min.css",
+      "selector": ".ui-state-active,.ui-widget-content .ui-state-active,.ui-widget-header .ui-state-active,a.ui-button:active,.ui-button:active,.ui-button.ui-state-active:hover",
+      "declarations": "border:1px solid #003eff;background:#007fff;font-weight:normal;color:#fff"
+    },
+    {
+      "source": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/lib/jquery/ui/jquery-ui.min.css",
+      "selector": ".ui-state-highlight,.ui-widget-content .ui-state-highlight,.ui-widget-header .ui-state-highlight",
+      "declarations": "border:1px solid #dad55e;background:#fffa90;color:#777620"
+    },
+    {
+      "source": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/lib/jquery/ui/jquery-ui.min.css",
+      "selector": ".ui-state-highlight a,.ui-widget-content .ui-state-highlight a,.ui-widget-header .ui-state-highlight a",
+      "declarations": "color:#777620"
+    },
+    {
+      "source": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/lib/jquery/ui/jquery-ui.min.css",
+      "selector": ".ui-state-error,.ui-widget-content .ui-state-error,.ui-widget-header .ui-state-error",
+      "declarations": "border:1px solid #f1a899;background:#fddfdf;color:#5f3f3f"
+    },
+    {
+      "source": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/lib/jquery/ui/jquery-ui.min.css",
+      "selector": ".ui-state-error a,.ui-widget-content .ui-state-error a,.ui-widget-header .ui-state-error a",
+      "declarations": "color:#5f3f3f"
+    },
+    {
+      "source": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/lib/jquery/ui/jquery-ui.min.css",
+      "selector": ".ui-state-error-text,.ui-widget-content .ui-state-error-text,.ui-widget-header .ui-state-error-text",
+      "declarations": "color:#5f3f3f"
+    },
+    {
+      "source": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css",
+      "selector": "#pdpBundleCustomizer .product-title-block .pricing-text-sales .textvalue-price",
+      "declarations": "margin-left:1.3em;padding:2px 7px;border:none;color:#4a4a4a;font-size:16px;font-weight:400;box-shadow:none"
+    },
+    {
+      "source": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css",
+      "selector": "#pdpBundleCustomizer .product-title-block h1",
+      "declarations": "color:#4a4a4a"
+    },
+    {
+      "source": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css",
+      "selector": "#pdpBundleCustomizer .productbundle-top-content .product-content-details-right .product-review-desc .customize-btn .button",
+      "declarations": "background-color:#fff;color:#4a4a4a;font-size:1.5rem;-ms-flex-pack:center;justify-content:center;padding:1.3rem 3rem 1.6rem;line-height:1.3;border:2px solid #4a4a4a;text-transform:uppercase;letter-spacing:.18em;margin:1rem auto;display:inline-block"
+    },
+    {
+      "source": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css",
+      "selector": "#pdpBundleCustomizer .productbundle-top-content .product-content-details-right .product-review-desc .customize-btn .button:hover",
+      "declarations": "background-color:#4a4a4a;color:#f6dcff"
+    },
+    {
+      "source": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css",
+      "selector": ".pdp-bundle-container .pdpBuildYourKit .selectedProduct h5",
+      "declarations": "display:inline;font-size:1.8rem;font-weight:400;color:#4a4a4a;margin:0 0 0 8px"
+    },
+    {
+      "source": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css",
+      "selector": ".pdp-bundle-container .product-description",
+      "declarations": "text-align:center;color:#929292;font-size:12px;padding:0 10px;text-transform:uppercase;font-size:10px"
+    },
+    {
+      "source": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css",
+      "selector": ".pdp-bundle-container .productBundleMainContainer .container-fluid",
+      "declarations": "margin:0 0 10px;background-color:#fff"
+    },
+    {
+      "source": "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css",
+      "selector": ".pdp-bundle-container .productBundleMainContainer .sidebar-thumb-img-contailer",
+      "declarations": "background-color:#fff"
+    }
+  ],
+  "confidence": "historical_partial_css_evidence",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Drunk Elephant | Biocompatible Skincare",
+  "schema_version": 1,
+  "design_origin": "historical",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "colors.primary-active": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.primary-disabled": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.drunkelephant.com/",
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "colors.muted-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/lib/jquery/ui/jquery-ui.min.css",
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "colors.hairline-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.surface-soft": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.drunkelephant.com/",
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/lib/jquery/ui/jquery-ui.min.css",
+        "https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css",
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/picker.min.css",
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.drunkelephant.com/",
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/lib/jquery/ui/jquery-ui.min.css",
+        "https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css",
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/picker.min.css",
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "colors.accent-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "colors.accent-coral": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "colors.accent-pink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "colors.accent-yellow": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.accent-beige": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "colors.badge-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "colors.badge-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "colors.star-rating": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "colors.link-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.drunkelephant.com/on/demandware.static/Sites-drunkelephant_us-Site/-/en_US/v1790204948145/css/style.bundle.css"
+      ]
+    },
+    "colors.scrim": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "typography.display-xl": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.title-lg": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.title-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.body-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.body-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.caption": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.button-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.button-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.link": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.nav-link": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.badge": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "rounded.none": {
+      "status": "unverified"
+    },
+    "rounded.xs": {
+      "status": "unverified"
+    },
+    "rounded.sm": {
+      "status": "unverified"
+    },
+    "rounded.md": {
+      "status": "unverified"
+    },
+    "rounded.lg": {
+      "status": "unverified"
+    },
+    "rounded.xl": {
+      "status": "unverified"
+    },
+    "rounded.full": {
+      "status": "unverified"
+    },
+    "spacing.xxs": {
+      "status": "unverified"
+    },
+    "spacing.xs": {
+      "status": "unverified"
+    },
+    "spacing.sm": {
+      "status": "unverified"
+    },
+    "spacing.md": {
+      "status": "unverified"
+    },
+    "spacing.base": {
+      "status": "unverified"
+    },
+    "spacing.lg": {
+      "status": "unverified"
+    },
+    "spacing.xl": {
+      "status": "unverified"
+    },
+    "spacing.xxl": {
+      "status": "unverified"
+    },
+    "spacing.section": {
+      "status": "unverified"
+    },
+    "components.button-primary": {
+      "status": "unverified"
+    },
+    "components.button-primary-active": {
+      "status": "unverified"
+    },
+    "components.button-primary-disabled": {
+      "status": "unverified"
+    },
+    "components.button-secondary": {
+      "status": "unverified"
+    },
+    "components.button-pill": {
+      "status": "unverified"
+    },
+    "components.text-input": {
+      "status": "unverified"
+    },
+    "components.nav-bar": {
+      "status": "unverified"
+    },
+    "components.product-card": {
+      "status": "unverified"
+    },
+    "components.product-card-badge": {
+      "status": "unverified"
+    },
+    "components.hero-section": {
+      "status": "unverified"
+    },
+    "components.footer": {
+      "status": "unverified"
+    },
+    "components.search-bar": {
+      "status": "unverified"
+    },
+    "components.accordion-header": {
+      "status": "unverified"
+    },
+    "components.accordion-content": {
+      "status": "unverified"
+    },
+    "components.star-rating": {
+      "status": "unverified"
+    },
+    "components.link-inline": {
+      "status": "unverified"
+    },
+    "components.link-footer": {
+      "status": "unverified"
+    }
+  },
+  "observed_color_tokens": 18,
+  "total_color_tokens": 23
+}

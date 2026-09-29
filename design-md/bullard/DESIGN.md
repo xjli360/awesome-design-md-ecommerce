@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Bullard
-description: |
+name: "Bullard"
+source_url: "https://www.bullard.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The yellow hard hat — Bullard's factory-floor constant since 1898 — acts as the single organizing principle for everything downstream in the interface. Accent amber (#F5A800) carries every primary CTA, navigation hover state, and category edge marker just as the helmet carries the visual weight on a job site; no competing hue takes primary action weight, and secondary actions simply reverse to white with an ink outline. Ubuntu runs the entire UI text stack — a humanist sans with enough x-height to survive field tablets in daylight — while Berthold anchors display headings in an industrial authority that the lighter body copy earns by contrast. Together they produce a typographic ladder that descends cleanly from full-bleed hero callouts through product specification sheets without a redundant step.
 
   Interface corners are kept square-to-slight: {rounded.sm} on buttons and cards, {rounded.xs} on input borders, nothing softer than {rounded.md} on pill badges. This is deliberate — when corners soften past a threshold, PPE equipment begins to read as consumer wellness, and Bullard's buyers are procurement managers who audit compliance certifications before aesthetic considerations. The palette doubles as a hazard-communication vocabulary: danger red (#D32F2F) for critical safety alerts, primary amber for CTAs and cautions, and safety green (#388E3C) for compliance confirmations — all colors that field workers parse instantly from actual signage without cognitive translation.
@@ -420,6 +423,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **No hex colors extracted** — The Bullard site returned an anti-bot challenge page ("Just a moment...") during extraction; zero brand hex values were captured. All color tokens above are derived from widely documented brand knowledge (safety amber, navy ground, hazard-communication red/yellow/green) and should be verified against the live site's CSS or brand guidelines before production use.
 - **Primary amber exact value unconfirmed** — #F5A800 is an approximation of Bullard's known amber/yellow brand color; official brand guidelines may specify a Pantone-matched hex that differs.

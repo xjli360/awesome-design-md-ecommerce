@@ -1,0 +1,892 @@
+{
+  "source_url": "https://bigbarker.com",
+  "final_url": "https://bigbarker.com/",
+  "captured_at": "2026-09-28T04:17:31.246359+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://bigbarker.com",
+      "final_url": "https://bigbarker.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "8dba9a1eb58ae5656f2c1f3547ad57ac26f1a724e621eabb2809e92a4f9a17f1",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+      "final_url": "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b721839e3bde0697aba6e460a64877f3b1f91bc01b583713808c9f468adb9a93",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798",
+      "final_url": "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6b3570822f6958975127f92583d635fd429aae33fd0c92f9e54c4b695009895f",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://bigbarker.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://bigbarker.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://bigbarker.com/cdn/shop/t/282/assets/country-flags.css",
+      "final_url": "https://bigbarker.com/cdn/shop/t/282/assets/country-flags.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e939872358ed33025557fb77b120ee34a9cd5310c67fde89f52f1653bea21ccd",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0d819-6212-7864-8855-999d3e977365/version_9005a361-2026-09-25_17h25m/assets/bss-pl-style.min.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0d819-6212-7864-8855-999d3e977365/version_9005a361-2026-09-25_17h25m/assets/bss-pl-style.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "926c873ceecd97ea64872d309178763a42e7f5d6386628bfad9f7784a6bbeda5",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 92,
+      "sources": [
+        "https://bigbarker.com/",
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+        "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798",
+        "https://bigbarker.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0d819-6212-7864-8855-999d3e977365/version_9005a361-2026-09-25_17h25m/assets/bss-pl-style.min.css"
+      ]
+    },
+    "#000000": {
+      "count": 28,
+      "sources": [
+        "https://bigbarker.com/",
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+        "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798",
+        "https://cdn.shopify.com/extensions/01a0d819-6212-7864-8855-999d3e977365/version_9005a361-2026-09-25_17h25m/assets/bss-pl-style.min.css"
+      ]
+    },
+    "#333333": {
+      "count": 27,
+      "sources": [
+        "https://bigbarker.com/",
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+        "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798",
+        "https://cdn.shopify.com/extensions/01a0d819-6212-7864-8855-999d3e977365/version_9005a361-2026-09-25_17h25m/assets/bss-pl-style.min.css"
+      ]
+    },
+    "#999999": {
+      "count": 11,
+      "sources": [
+        "https://bigbarker.com/",
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659"
+      ]
+    },
+    "#b6b6b6": {
+      "count": 9,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659"
+      ]
+    },
+    "#0000001a": {
+      "count": 7,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659"
+      ]
+    },
+    "#00000017": {
+      "count": 7,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+        "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798"
+      ]
+    },
+    "#d02e2e": {
+      "count": 7,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 6,
+      "sources": [
+        "https://bigbarker.com/",
+        "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798"
+      ]
+    },
+    "#cccccc": {
+      "count": 6,
+      "sources": [
+        "https://bigbarker.com/",
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659"
+      ]
+    },
+    "#00000000": {
+      "count": 6,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798",
+        "https://bigbarker.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0d819-6212-7864-8855-999d3e977365/version_9005a361-2026-09-25_17h25m/assets/bss-pl-style.min.css"
+      ]
+    },
+    "#e8e8e1": {
+      "count": 5,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+        "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 5,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659"
+      ]
+    },
+    "#222222": {
+      "count": 4,
+      "sources": [
+        "https://bigbarker.com/",
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+        "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 4,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+        "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798"
+      ]
+    },
+    "#56ad6a": {
+      "count": 4,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659"
+      ]
+    },
+    "#444444": {
+      "count": 3,
+      "sources": [
+        "https://bigbarker.com/",
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+        "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798"
+      ]
+    },
+    "#0f0f0f": {
+      "count": 3,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+        "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798"
+      ]
+    },
+    "#1c1d1d": {
+      "count": 3,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+        "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 3,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659"
+      ]
+    },
+    "#eeeeee": {
+      "count": 3,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798"
+      ]
+    },
+    "#777777": {
+      "count": 3,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798"
+      ]
+    },
+    "#657b72": {
+      "count": 2,
+      "sources": [
+        "https://bigbarker.com/",
+        "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798"
+      ]
+    },
+    "#486988": {
+      "count": 2,
+      "sources": [
+        "https://bigbarker.com/"
+      ]
+    },
+    "#bebebe": {
+      "count": 2,
+      "sources": [
+        "https://bigbarker.com/"
+      ]
+    },
+    "#e5d2c7": {
+      "count": 2,
+      "sources": [
+        "https://bigbarker.com/"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 2,
+      "sources": [
+        "https://bigbarker.com/",
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659"
+      ]
+    },
+    "#fafafa": {
+      "count": 2,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659"
+      ]
+    },
+    "#111111": {
+      "count": 2,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659"
+      ]
+    },
+    "#2b2b2b": {
+      "count": 2,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+        "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798"
+      ]
+    },
+    "#040404": {
+      "count": 2,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+        "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798"
+      ]
+    },
+    "#ff4f33": {
+      "count": 2,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+        "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 2,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+        "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798"
+      ]
+    },
+    "#c20000": {
+      "count": 2,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+        "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 2,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659"
+      ]
+    },
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659"
+      ]
+    },
+    "#fff6f6": {
+      "count": 2,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659"
+      ]
+    },
+    "#0000004d": {
+      "count": 2,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+        "https://bigbarker.com/cdn/shop/t/282/assets/country-flags.css"
+      ]
+    },
+    "#555555": {
+      "count": 2,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+        "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798"
+      ]
+    },
+    "#272727": {
+      "count": 2,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798"
+      ]
+    },
+    "#666666": {
+      "count": 2,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://bigbarker.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#006e52": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d819-6212-7864-8855-999d3e977365/version_9005a361-2026-09-25_17h25m/assets/bss-pl-style.min.css"
+      ]
+    },
+    "#6b6f73": {
+      "count": 1,
+      "sources": [
+        "https://bigbarker.com/"
+      ]
+    },
+    "#ae633d": {
+      "count": 1,
+      "sources": [
+        "https://bigbarker.com/"
+      ]
+    },
+    "#efedea": {
+      "count": 1,
+      "sources": [
+        "https://bigbarker.com/"
+      ]
+    },
+    "#d6b4a1": {
+      "count": 1,
+      "sources": [
+        "https://bigbarker.com/"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 1,
+      "sources": [
+        "https://bigbarker.com/"
+      ]
+    },
+    "#e4dedb": {
+      "count": 1,
+      "sources": [
+        "https://bigbarker.com/"
+      ]
+    },
+    "#f0ebe9": {
+      "count": 1,
+      "sources": [
+        "https://bigbarker.com/"
+      ]
+    },
+    "#8c8c8c": {
+      "count": 1,
+      "sources": [
+        "https://bigbarker.com/"
+      ]
+    },
+    "#dedcd8": {
+      "count": 1,
+      "sources": [
+        "https://bigbarker.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 1,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 1,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659"
+      ]
+    },
+    "#3fb8af": {
+      "count": 1,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659"
+      ]
+    },
+    "#ebebeb": {
+      "count": 1,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659"
+      ]
+    },
+    "#dddddd": {
+      "count": 1,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659"
+      ]
+    },
+    "#e8e7e6": {
+      "count": 1,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659"
+      ]
+    },
+    "#b8b8b8": {
+      "count": 1,
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659"
+      ]
+    }
+  },
+  "font_families": {
+    "Consolas": [
+      "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659"
+    ],
+    "DM Sans": [
+      "https://bigbarker.com/",
+      "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798"
+    ],
+    "Fraunces": [
+      "https://bigbarker.com/"
+    ],
+    "Outfit": [
+      "https://bigbarker.com/"
+    ],
+    "Ovo": [
+      "https://bigbarker.com/"
+    ],
+    "monospace": [
+      "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659"
+    ],
+    "object-fit: cover": [
+      "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659"
+    ],
+    "sans-serif!important": [
+      "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://bigbarker.com/",
+      "selector": ":root",
+      "declarations": "--typeHeaderPrimary: 'Urbanist';\n    --typeHeaderFallback: serif;\n    --typeHeaderSize: 34px;\n    --typeHeaderWeight: 500;\n    --typeHeaderLineHeight: 1;\n    --typeHeaderSpacing: 0.0em;\n\n    \n    --typeBasePrimary: 'DM Sans';\n    --typeBaseSerif: 'Fraunces';\n    --typeBaseFallback:sans-serif;\n    --typeBaseSize: 15px;\n    --typeBaseWeight: 300;\n    --typeBaseSpacing: 0.025em;\n    --typeBaseLineHeight: 1.4;\n    --typeBaselineHeightMinus01: 1.3;\n\n    --typeCollectionTitle: 20px;\n\n    --iconWeight: 2px;\n    --iconLinecaps: round;\n\n    \n    --colorDarkGray: #6b6f73;\n    --colorDarkAccent: #657b72;\n    --colorLightAccent: #ae633d;\n    --colorDarkBlue: #486988;\n    --colorLightNeutral: #EFEDEA;\n  "
+    },
+    {
+      "source": "https://bigbarker.com/",
+      "selector": ".bny-cart-product-recommendations-header",
+      "declarations": "text-align: center;\n    background-color: var(--colorLightNeutral);\n    padding: 10px 20px 0;\n    font-weight: 400;\n    letter-spacing: 2px;"
+    },
+    {
+      "source": "https://bigbarker.com/",
+      "selector": ".core-hero-link.btn:hover",
+      "declarations": "transition: 0.3s ease-in;\n    text-decoration: underline;\n    background-color: var(--colorLightAccent) !important;"
+    },
+    {
+      "source": "https://bigbarker.com/",
+      "selector": ".barker-tni-h1",
+      "declarations": "letter-spacing: normal;\n    color: var(--colorDarkAccent);\n    line-height: 1.2em;"
+    },
+    {
+      "source": "https://bigbarker.com/",
+      "selector": ".barker-tni-alternate .feature-inner-row__text .btn",
+      "declarations": "background-color: var(--colorLightAccent);\n    border: none;\n    color: #fff;"
+    },
+    {
+      "source": "https://bigbarker.com/",
+      "selector": ".barker-tni-alternate .feature-inner-row__text .btn:hover",
+      "declarations": "background-color: var(--colorLightAccent) !important;\n    border: none;\n    color: #fff;"
+    },
+    {
+      "source": "https://bigbarker.com/",
+      "selector": ".bsg-product-page",
+      "declarations": "background-color: var(--colorLightNeutral);\n      height: auto;\n      margin-top: 10px;"
+    },
+    {
+      "source": "https://bigbarker.com/",
+      "selector": ".barker-as-seen-on-header",
+      "declarations": "font-weight: 600;\n  line-height: 2;\n  margin: 0 0 10px;\n  font-family: var(--typeBasePrimary);\n  font-size: 24px;\n  letter-spacing: 6px;\n  text-transform: uppercase;\n  text-align: center;"
+    },
+    {
+      "source": "https://bigbarker.com/",
+      "selector": ".barker-as-seen-on-header",
+      "declarations": "font-weight: 600;\n  line-height: 2;\n  margin: 0 0 10px;\n  font-family: var(--typeBasePrimary);\n  font-size: 24px;\n  letter-spacing: 6px;\n  text-transform: uppercase;\n  text-align: center;"
+    },
+    {
+      "source": "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+      "selector": "@charset \"UTF-8\";:root",
+      "declarations": "--colorAnnouncement:#0f0f0f;--colorAnnouncementText:#ffffff;--colorBody:#ffffff;--colorBodyAlpha05:rgba(255, 255, 255, .05);--colorBodyDim:#f2f2f2;--colorBodyLightDim:#fafafa;--colorBodyMediumDim:#f5f5f5;--colorBorder:#e8e8e1;--colorBtnPrimary:#111111;--colorBtnPrimaryLight:#2b2b2b;--colorBtnPrimaryDim:#040404;--colorBtnPrimaryText:#ffffff;--colorCartDot:#ff4f33;--colorDrawers:#ffffff;--colorDrawersDim:#f2f2f2;--colorDrawerBorder:#e8e8e1;--colorDrawerText:#000000;--colorDrawerTextDark:#000000;--colorDrawerButton:#111111;--colorDrawerButtonText:#ffffff;--colorFooter:#ffffff;--colorFooterText:#000000;--colorFooterTextAlpha01:#000000;--colorGridOverlay:#000000;--colorGridOverlayOpacity:.1;--col"
+    },
+    {
+      "source": "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+      "selector": ":root",
+      "declarations": "--grid-gutter:22px;--drawer-gutter:30px"
+    },
+    {
+      "source": "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+      "selector": ".flickity-button",
+      "declarations": "background:var(--colorBtnPrimary);border:none;border-radius:50%;color:var(--colorBtnPrimaryText);position:absolute"
+    },
+    {
+      "source": "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+      "selector": ".hero .flickity-button",
+      "declarations": "background-color:var(--colorBody);box-shadow:0 5px 5px #0000001a;color:var(--colorTextBody)"
+    },
+    {
+      "source": "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+      "selector": ".hotspot__button-content",
+      "declarations": "background-color:var(--colorBody);border-radius:5px;box-shadow:3px 3px 10px 3px #0003;color:var(--colorTextBody);left:50%;min-width:5rem;opacity:0;padding:1rem;pointer-events:none;position:absolute;top:calc(100% + 1rem);transform:translate(-50%);transition:opacity .3s ease-in-out;visibility:hidden"
+    },
+    {
+      "source": "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+      "selector": ".hotspot__button-content:before",
+      "declarations": "border-color:transparent transparent var(--colorBody) transparent;border-style:solid;border-width:0 5px 10px 5px;content:\"\";height:0;left:50%;position:absolute;top:-10px;transform:translate(-50%);width:0"
+    },
+    {
+      "source": "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+      "selector": ".comparison__button:before",
+      "declarations": "background-color:#fff!important"
+    },
+    {
+      "source": "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+      "selector": ".comparison__button:after",
+      "declarations": "background-color:#fff!important"
+    },
+    {
+      "source": "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+      "selector": "product-recommendations[data-intent=complementary] .grid__image-ratio",
+      "declarations": "background-color:transparent"
+    },
+    {
+      "source": "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+      "selector": "body,html",
+      "declarations": "background-color:var(--colorBody);color:var(--colorTextBody)"
+    },
+    {
+      "source": "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+      "selector": ".faux-select,body,button,input,select,textarea",
+      "declarations": "-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:100%;font-family:var(--typeBasePrimary),var(--typeBaseFallback);font-size:calc(var(--typeBaseSize)*.92);letter-spacing:var(--typeBaseSpacing);line-height:var(--typeBaseLineHeight);text-rendering:optimizeSpeed"
+    },
+    {
+      "source": "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+      "selector": ".h1,.h2,.h3,h1,h2,h3",
+      "declarations": "font-family:var(--typeHeaderPrimary),var(--typeHeaderFallback);font-weight:var(--typeHeaderWeight);letter-spacing:var(--typeHeaderSpacing);line-height:var(--typeHeaderLineHeight)"
+    },
+    {
+      "source": "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+      "selector": "button",
+      "declarations": "color:currentColor;overflow:visible"
+    },
+    {
+      "source": "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+      "selector": ".btn,.rte .btn,.shopify-payment-button .shopify-payment-button__button--unbranded,.spr-container .spr-button,.spr-container .spr-summary-actions a",
+      "declarations": "-webkit-appearance:none;-moz-appearance:none;background:var(--colorBtnPrimary);border:1px solid transparent;border-radius:var(--buttonRadius);color:var(--colorBtnPrimaryText);cursor:pointer;display:inline-block;font-size:calc(var(--typeBaseSize) - 4px);font-size:max(calc(var(--typeBaseSize) - 4px),13px);font-weight:700;letter-spacing:.2em;line-height:1.42;margin:0;min-width:90px;padding:11px 20px;text-align:center;-webkit-text-decoration:none;text-decoration:none;text-transform:uppercase;-webkit-user-select:none;-moz-user-select:none;user-select:none;vertical-align:middle;white-space:normal;width:auto;font-weight:400;letter-spacing:2px;font-size:15px"
+    },
+    {
+      "source": "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+      "selector": ".btn:hover,.rte .btn:hover,.shopify-payment-button .shopify-payment-button__button--unbranded:hover,.spr-container .spr-button:hover,.spr-container .spr-summary",
+      "declarations": "background-color:var(--colorBtnPrimary);color:var(--colorBtnPrimaryText)"
+    },
+    {
+      "source": "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+      "selector": "ton__button--unbranded[disabled],.spr-container .spr-button.disabled,.spr-container .spr-button[disabled],.spr-container .spr-summary-actions a.disabled,.spr-co",
+      "declarations": "background-color:#f6f6f6;color:#b6b6b6;cursor:default"
+    },
+    {
+      "source": "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+      "selector": "d]:hover,.spr-container .spr-button.disabled:hover,.spr-container .spr-button[disabled]:hover,.spr-container .spr-summary-actions a.disabled:hover,.spr-containe",
+      "declarations": "background-color:#f6f6f6;color:#b6b6b6"
+    },
+    {
+      "source": "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+      "selector": "spr-summary-actions a.disabled:before,[data-button_style=angled] .spr-container .spr-summary-actions a[disabled]:after,[data-button_style=angled] .spr-container",
+      "declarations": "background-color:#f6f6f6;border-bottom:1px solid;border-bottom-color:#b6b6b6;border-top:1px solid;border-top-color:#b6b6b6"
+    },
+    {
+      "source": "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+      "selector": "ta-button_style=angled] .spr-container .spr-button:before,[data-button_style=angled] .spr-container .spr-summary-actions a:after,[data-button_style=angled] .spr",
+      "declarations": "background-color:inherit;bottom:0;content:\"\";display:block;position:absolute;top:0;transform:skew(-12deg);width:20px"
+    },
+    {
+      "source": "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+      "selector": ".shopify-payment-button .shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:var(--colorBtnPrimary);color:var(--colorBtnPrimaryText)"
+    },
+    {
+      "source": "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+      "selector": ".shopify-payment-button__more-options",
+      "declarations": "color:inherit"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Better Sleep for All Dogs | Barker Beds",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bigbarker.com/",
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+        "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798",
+        "https://cdn.shopify.com/extensions/01a0d819-6212-7864-8855-999d3e977365/version_9005a361-2026-09-25_17h25m/assets/bss-pl-style.min.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bigbarker.com/",
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+        "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798",
+        "https://bigbarker.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0d819-6212-7864-8855-999d3e977365/version_9005a361-2026-09-25_17h25m/assets/bss-pl-style.min.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bigbarker.com/",
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+        "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798",
+        "https://cdn.shopify.com/extensions/01a0d819-6212-7864-8855-999d3e977365/version_9005a361-2026-09-25_17h25m/assets/bss-pl-style.min.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bigbarker.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+        "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+        "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bigbarker.com/",
+        "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bigbarker.com/",
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+        "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798",
+        "https://bigbarker.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0d819-6212-7864-8855-999d3e977365/version_9005a361-2026-09-25_17h25m/assets/bss-pl-style.min.css"
+      ]
+    },
+    "colors.accent-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bigbarker.com/",
+        "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798"
+      ]
+    },
+    "colors.accent-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bigbarker.com/"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bigbarker.com/"
+      ]
+    },
+    "colors.neutral-warm": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bigbarker.com/"
+      ]
+    },
+    "colors.alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659"
+      ]
+    },
+    "colors.alert-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+        "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659"
+      ]
+    },
+    "colors.cart-dot": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659",
+        "https://bigbarker.com/cdn/shop/t/282/assets/barker-theme.css?v=79970744777096851291763985798"
+      ]
+    },
+    "colors.overlay-scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bigbarker.com/cdn/shop/t/282/assets/theme.css?v=176049412585587133921762981659"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.comparison-slider": {
+      "status": "inferred"
+    }
+  }
+}

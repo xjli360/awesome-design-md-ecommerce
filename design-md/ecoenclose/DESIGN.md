@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: EcoEnclose
-description: EcoEnclose pairs two typefaces that rarely share a page: Merriweather serif for editorial headers where certification metrics and environmental statistics carry moral weight, and Poppins for the transactional layer — SKUs, fill weights, unit minimums. The color system pulls from a narrow band of the spectrum anchored by #002b2f, a teal so deep it reads as near-black until placed against #f3f8f3, a section background carrying just enough green that no surface here is ever truly neutral. Sage runs in two registers: #83b785 handles interactive accents and secondary CTAs while #466c50 deepens into hover and confirmed states, both distinct enough from the primary that borders are rarely necessary. Cards sit on #ffffff but section washes use #e5f1ea, keeping the material story present even on checkout pages. Button geometry is unusually restrained — 4px radii rather than the pill shapes common to consumer DTC, a choice that reads as honest about the industrial context of corrugated mailers and recycled poly bags. Sustainability credentials — FSC marks, recycled-content percentages, carbon-neutral badges — receive the same typographic treatment as primary navigation, signaling that compliance is a product category, not a footnote. A faint salmon (#f19066) surfaces only in promotional call-outs, isolated from the green narrative, while #003eff appears as a hyperlink fallback in body copy — both colors feel like interruptions, which is exactly the point. Spacing inside components is generous; spacing between sections tighter, creating a page cadence closer to a B2B catalog read with purpose than a consumer shop browsed for pleasure.
+name: "EcoEnclose"
+source_url: "https://www.ecoenclose.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  EcoEnclose pairs two typefaces that rarely share a page: Merriweather serif for editorial headers where certification metrics and environmental statistics carry moral weight, and Poppins for the transactional layer — SKUs, fill weights, unit minimums. The color system pulls from a narrow band of the spectrum anchored by #002b2f, a teal so deep it reads as near-black until placed against #f3f8f3, a section background carrying just enough green that no surface here is ever truly neutral. Sage runs in two registers: #83b785 handles interactive accents and secondary CTAs while #466c50 deepens into hover and confirmed states, both distinct enough from the primary that borders are rarely necessary. Cards sit on #ffffff but section washes use #e5f1ea, keeping the material story present even on checkout pages. Button geometry is unusually restrained — 4px radii rather than the pill shapes common to consumer DTC, a choice that reads as honest about the industrial context of corrugated mailers and recycled poly bags. Sustainability credentials — FSC marks, recycled-content percentages, carbon-neutral badges — receive the same typographic treatment as primary navigation, signaling that compliance is a product category, not a footnote. A faint salmon (#f19066) surfaces only in promotional call-outs, isolated from the green narrative, while #003eff appears as a hyperlink fallback in body copy — both colors feel like interruptions, which is exactly the point. Spacing inside components is generous; spacing between sections tighter, creating a page cadence closer to a B2B catalog read with purpose than a consumer shop browsed for pleasure.
 
 colors:
   primary: "#002b2f"
@@ -424,6 +428,8 @@ components:
 - Footer columns: stack vertically on mobile with each heading acting as an accordion toggle
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No brand typeface loading URL confirmed — Merriweather and Poppins inferred from font-family stack extraction; weights and custom variants not verified
 - Exact button border-radius values not measured from live DOM; 4px inferred from visual appearance and brand utilitarian character

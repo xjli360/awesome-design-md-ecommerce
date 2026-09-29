@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Educational Insights
-description: A playful, curiosity-driven learning brand that uses a clean white canvas and a single vibrant accent — a warm, confident coral (#ff6b35) — to signal fun without sacrificing clarity. The coral appears on every primary CTA, the add-to-cart button, and the playful "Shop by Age" category badges, acting as a visual exclamation point against an otherwise restrained palette of deep navy ink (#1a1a2e), soft gray body text (#4a4a4a), and a warm off-white surface (#faf8f5) that softens the digital experience. Rounded corners are everywhere: product cards use a generous 12px radius (`{rounded.md}`), buttons are pill-shaped (`{rounded.full}`), and the search bar sits in a softly rounded container (`{rounded.lg}`), creating a tactile, approachable feel that mirrors the physical toys and games the brand sells. Typography runs a clean, geometric sans-serif — likely a variant of Montserrat or similar — with display headlines at 28px in weight 700, body copy at 16px in weight 400, and button labels at 14px in weight 600. The brand trusts large, friendly product photography and generous whitespace over dense copy, with a four-column grid on desktop that collapses to two on tablet and a single column on mobile. Navigation is straightforward: a sticky top bar with the logo, search, account, and cart icons, plus a secondary nav for categories (Science, Math, Reading, etc.). The overall mood is one of joyful discovery — the digital equivalent of a well-lit, organized classroom where every shelf invites exploration.
+name: "Educational Insights"
+source_url: "https://www.educationalinsights.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A playful, curiosity-driven learning brand that uses a clean white canvas and a single vibrant accent — a warm, confident coral (#ff6b35) — to signal fun without sacrificing clarity. The coral appears on every primary CTA, the add-to-cart button, and the playful "Shop by Age" category badges, acting as a visual exclamation point against an otherwise restrained palette of deep navy ink (#1a1a2e), soft gray body text (#4a4a4a), and a warm off-white surface (#faf8f5) that softens the digital experience. Rounded corners are everywhere: product cards use a generous 12px radius (`{rounded.md}`), buttons are pill-shaped (`{rounded.full}`), and the search bar sits in a softly rounded container (`{rounded.lg}`), creating a tactile, approachable feel that mirrors the physical toys and games the brand sells. Typography runs a clean, geometric sans-serif — likely a variant of Montserrat or similar — with display headlines at 28px in weight 700, body copy at 16px in weight 400, and button labels at 14px in weight 600. The brand trusts large, friendly product photography and generous whitespace over dense copy, with a four-column grid on desktop that collapses to two on tablet and a single column on mobile. Navigation is straightforward: a sticky top bar with the logo, search, account, and cart icons, plus a secondary nav for categories (Science, Math, Reading, etc.). The overall mood is one of joyful discovery — the digital equivalent of a well-lit, organized classroom where every shelf invites exploration.
 
 colors:
   primary: "#ff6b35"
@@ -439,6 +443,8 @@ components:
 - Hero banner text and CTA stack on mobile, with the CTA full-width.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Font-family declarations could not be extracted from the live site; the typography block uses educated guesses based on common educational brand choices (Montserrat for headings, Open Sans for body). Actual fonts may differ.
 - No meta theme-color was found; the brand may not use one, or it may be set dynamically.

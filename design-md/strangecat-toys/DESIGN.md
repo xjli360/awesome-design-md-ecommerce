@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: StrangeCat Toys
-description: |
+name: "StrangeCat Toys"
+source_url: "https://www.strangecattoys.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   StrangeCat Toys runs its catalog on a substrate of near-black anthracite — #16171d walls, #0a0a0a footers, the #101219-to-#1a1d29 shift of a dark hero module — punctuated by electric green (#62e483) when a drop goes live or an in-stock badge fires; that green does not appear as a background or button color, it surfaces as signal, the way a notification LED blinks on a shelf of silent hardware. The primary CTA blue (#0273ed) handles all transactional moments at sharp contrast against both dark modules and the off-white listing canvas (#f5f5f5, matching the meta theme-color exactly), while amber-gold (#81632c) marks limited-run pricing and variant highlights with the collector-market weight of a price sticker without actual foil. Display headings use Asul — slightly compressed letterforms and serif-adjacent character that signal independent design authority rather than mass retail — with Inter underneath for body copy, search labels, and UI affordances; together they create a two-tier editorial texture that runs clean on mobile without losing the genre specificity that designer-toy buyers expect. Icon sets from FontAwesome and Pe-icon-7-stroke reinforce that collector-community energy: functional glyphs drawn from the shared visual grammar of forums and hobby stores. Corner radius runs minimal throughout; most components hold to {rounded.xs} (4px) or {rounded.sm} (8px), keeping silhouettes sharp and slightly industrial against the near-black bars, with {rounded.full} appearing only on pill badges and availability dots. Backgrounds oscillate between the light canvas family (#f5f5f5, #f2f2f2, #e9e9e9) for clean product browsing and the dark surface family (#16171d, #101219, #0a0a0a) for hero and featured-drop contexts; a warm cream (#eae1da) and slate-blue (#424557) complete the system as editorial accent surfaces in lookbook and feature-drop layouts, broadening the palette past the monochrome default without abandoning its night-market atmosphere.
 
 colors:
@@ -351,6 +354,8 @@ components:
 - Badge and price elements remain fully visible at all breakpoints; they never truncate or collapse into tooltips
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact Asul and Inter size/weight values not confirmed from CSS extraction — scales inferred from typical Shopify theme patterns for the collectibles category
 - Two very similar CTA blues (#0273ed vs #0075ff) extracted; which is default vs. hover state could not be confirmed from static extraction

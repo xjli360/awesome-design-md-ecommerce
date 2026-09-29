@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Honest Jon's
-description: A record shop that feels like a crate-digging session in a friend’s basement, Honest Jon’s uses a saturated blue (#009be3) as its primary voltage — the same electric hue that lights up the “Latest 100 arrivals” page title and every add-to-cart button, against a warm off-white canvas (#e5e3df) that reads more like aged paper than sterile digital white. The palette is deliberately chaotic: a lime-green accent (#a0a600) sits next to a hot pink (#cc0090), a deep navy (#002869) anchors the footer, and a fire-engine red (#be0000) marks sale prices and stock warnings, creating a visual language that mirrors the unpredictable joy of finding a rare pressing in a stack of records. Typography runs Myriad Pro Regular for display headers — a condensed, slightly retro sans-serif that nods to 90s CD booklet design — paired with system fonts (-apple-system, Arial, Helvetica Neue) for body copy, keeping the reading experience clean while the headers do the heavy lifting of character. Buttons are sharp-cornered rectangles ({rounded.none}) with 1px hairline borders (#d7d7d7), a deliberate anti-modern choice that gives the interface a utilitarian, no-nonsense feel — this is a shop for collectors who want speed and information density, not a lifestyle brand selling vibes. The nav bar runs a tight 48px height with a sticky top bar that collapses on scroll, and product cards use a compact 8px radius ({rounded.sm}) with a subtle shadow, prioritizing shelf-like density over breathing room. The overall mood is that of a well-organized record bin: functional, slightly worn, and absolutely alive with color signals that reward attention.
+name: "Honest Jon's"
+source_url: "https://www.honestjons.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A record shop that feels like a crate-digging session in a friend’s basement, Honest Jon’s uses a saturated blue (#009be3) as its primary voltage — the same electric hue that lights up the “Latest 100 arrivals” page title and every add-to-cart button, against a warm off-white canvas (#e5e3df) that reads more like aged paper than sterile digital white. The palette is deliberately chaotic: a lime-green accent (#a0a600) sits next to a hot pink (#cc0090), a deep navy (#002869) anchors the footer, and a fire-engine red (#be0000) marks sale prices and stock warnings, creating a visual language that mirrors the unpredictable joy of finding a rare pressing in a stack of records. Typography runs Myriad Pro Regular for display headers — a condensed, slightly retro sans-serif that nods to 90s CD booklet design — paired with system fonts (-apple-system, Arial, Helvetica Neue) for body copy, keeping the reading experience clean while the headers do the heavy lifting of character. Buttons are sharp-cornered rectangles ({rounded.none}) with 1px hairline borders (#d7d7d7), a deliberate anti-modern choice that gives the interface a utilitarian, no-nonsense feel — this is a shop for collectors who want speed and information density, not a lifestyle brand selling vibes. The nav bar runs a tight 48px height with a sticky top bar that collapses on scroll, and product cards use a compact 8px radius ({rounded.sm}) with a subtle shadow, prioritizing shelf-like density over breathing room. The overall mood is that of a well-organized record bin: functional, slightly worn, and absolutely alive with color signals that reward attention.
 
 colors:
   primary: "#009be3"
@@ -310,6 +314,8 @@ components:
 - Search bar moves from inline to full-width below the nav on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 - Hover states for buttons and links were inferred from common patterns; actual hover colors may differ
 - Error state styling for form inputs (border color, error message typography) could not be extracted
 - Dark mode is not present on the live site; no dark palette tokens exist

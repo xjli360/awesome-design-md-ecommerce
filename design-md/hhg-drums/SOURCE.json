@@ -1,0 +1,546 @@
+{
+  "source_url": "https://www.hhgdrums.com",
+  "final_url": "https://www.hhgdrums.com/",
+  "captured_at": "2026-09-28T10:32:51.038849+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.hhgdrums.com",
+      "final_url": "https://www.hhgdrums.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "4c4bd47a60e3c454708d214082bf0498026a43d4c70b813d7f7770ca8b61556a",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.hhgdrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.hhgdrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.hhgdrums.com/cdn/shop/t/4/assets/base.css?v=159841507637079171801759840195",
+      "final_url": "https://www.hhgdrums.com/cdn/shop/t/4/assets/base.css?v=159841507637079171801759840195",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3a9bebb259d1357ccc4f80b17b25a0eac37faf51ea74b9e0cba4dfefb04bd0e2",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.hhgdrums.com/cdn/shop/t/4/assets/component-cart-items.css?v=13033300910818915211759840195",
+      "final_url": "https://www.hhgdrums.com/cdn/shop/t/4/assets/component-cart-items.css?v=13033300910818915211759840195",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4123f882ddbf74d4c3f087b2259ceb35267b723730528c668185133322d6372f",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.hhgdrums.com/cdn/shop/t/4/assets/component-predictive-search.css?v=118923337488134913561759840195",
+      "final_url": "https://www.hhgdrums.com/cdn/shop/t/4/assets/component-predictive-search.css?v=118923337488134913561759840195",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "cbdedba3a9ec411d4310b3e55c09f6ec8ca5b1d7bfce3ab66350b3fdfc28c97a",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.hhgdrums.com/cdn/shop/t/4/assets/component-slideshow.css?v=17933591812325749411759840195",
+      "final_url": "https://www.hhgdrums.com/cdn/shop/t/4/assets/component-slideshow.css?v=17933591812325749411759840195",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "483d7274f49c89f9506c8126074baf285e9b8e9fb5dfb5da55ef6f65f266a671",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#1f1f21": {
+      "count": 8,
+      "sources": [
+        "https://www.hhgdrums.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 5,
+      "sources": [
+        "https://www.hhgdrums.com/",
+        "https://www.hhgdrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.hhgdrums.com/cdn/shop/t/4/assets/base.css?v=159841507637079171801759840195"
+      ]
+    },
+    "#ffffff00": {
+      "count": 3,
+      "sources": [
+        "https://www.hhgdrums.com/cdn/shop/t/4/assets/base.css?v=159841507637079171801759840195"
+      ]
+    },
+    "#e3fc02": {
+      "count": 2,
+      "sources": [
+        "https://www.hhgdrums.com/"
+      ]
+    },
+    "#00fced": {
+      "count": 2,
+      "sources": [
+        "https://www.hhgdrums.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.hhgdrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.hhgdrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://www.hhgdrums.com/cdn/shop/t/4/assets/base.css?v=159841507637079171801759840195"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://www.hhgdrums.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://www.hhgdrums.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://www.hhgdrums.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://www.hhgdrums.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://www.hhgdrums.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://www.hhgdrums.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://www.hhgdrums.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://www.hhgdrums.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.hhgdrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.hhgdrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.hhgdrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#000000": {
+      "count": 1,
+      "sources": [
+        "https://www.hhgdrums.com/cdn/shop/t/4/assets/base.css?v=159841507637079171801759840195"
+      ]
+    },
+    "#00000080": {
+      "count": 1,
+      "sources": [
+        "https://www.hhgdrums.com/cdn/shop/t/4/assets/base.css?v=159841507637079171801759840195"
+      ]
+    }
+  },
+  "font_families": {
+    "EB Garamond": [
+      "https://www.hhgdrums.com/"
+    ],
+    "Figtree": [
+      "https://www.hhgdrums.com/"
+    ],
+    "object-fit: contain": [
+      "https://www.hhgdrums.com/cdn/shop/t/4/assets/component-predictive-search.css?v=118923337488134913561759840195"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.hhgdrums.com/",
+      "selector": ":root,\n        .color-scheme-1",
+      "declarations": "--color-background: 31,31,33;\n        \n          --gradient-background: #1f1f21;\n        \n\n        \n\n        --color-foreground: 255,255,255;\n        --color-background-contrast: 43,43,46;\n        --color-shadow: 255,255,255;\n        --color-button: 227,252,2;\n        --color-button-text: 31,31,33;\n        --color-secondary-button: 31,31,33;\n        --color-secondary-button-text: 227,252,2;\n        --color-link: 227,252,2;\n        --color-badge-foreground: 255,255,255;\n        --color-badge-background: 31,31,33;\n        --color-badge-border: 255,255,255;\n        --payment-terms-background-color: rgb(31 31 33);"
+    },
+    {
+      "source": "https://www.hhgdrums.com/",
+      "selector": "body, .color-scheme-1, .color-scheme-2, .color-scheme-3, .color-scheme-4, .color-scheme-5, .color-scheme-7934d051-8044-4624-a1d4-47ad26881407, .color-scheme-070",
+      "declarations": "color: rgba(var(--color-foreground), 0.75);\n        background-color: rgb(var(--color-background));"
+    },
+    {
+      "source": "https://www.hhgdrums.com/",
+      "selector": "body",
+      "declarations": "display: grid;\n        grid-template-rows: auto auto 1fr auto;\n        grid-template-columns: 100%;\n        min-height: 100%;\n        margin: 0;\n        font-size: 1.5rem;\n        letter-spacing: 0.06rem;\n        line-height: calc(1 + 0.8 / var(--font-body-scale));\n        font-family: var(--font-body-family);\n        font-style: var(--font-body-style);\n        font-weight: var(--font-body-weight);"
+    },
+    {
+      "source": "https://www.hhgdrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.hhgdrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.hhgdrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.hhgdrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.hhgdrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.hhgdrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.hhgdrums.com/cdn/shop/t/4/assets/base.css?v=159841507637079171801759840195",
+      "selector": ":root",
+      "declarations": "--alpha-button-background: 1;--alpha-button-border: 1;--alpha-link: .85;--alpha-badge-border: .1;--focused-base-outline: .2rem solid rgba(var(--color-foreground), .5);--focused-base-outline-offset: .3rem;--focused-base-box-shadow: 0 0 0 .3rem rgb(var(--color-background)), 0 0 .5rem .4rem rgba(var(--color-foreground), .3)"
+    },
+    {
+      "source": "https://www.hhgdrums.com/cdn/shop/t/4/assets/base.css?v=159841507637079171801759840195",
+      "selector": ".product-card-wrapper .card,.contains-card--product",
+      "declarations": "--border-radius: var(--product-card-corner-radius);--border-width: var(--product-card-border-width);--border-opacity: var(--product-card-border-opacity);--shadow-horizontal-offset: var(--product-card-shadow-horizontal-offset);--shadow-vertical-offset: var(--product-card-shadow-vertical-offset);--shadow-blur-radius: var(--product-card-shadow-blur-radius);--shadow-opacity: var(--product-card-shadow-opacity);--shadow-visible: var(--product-card-shadow-visible);--image-padding: var(--product-card-image-padding);--text-alignment: var(--product-card-text-alignment)"
+    },
+    {
+      "source": "https://www.hhgdrums.com/cdn/shop/t/4/assets/base.css?v=159841507637079171801759840195",
+      "selector": ".text-body",
+      "declarations": "font-size:1.5rem;letter-spacing:.06rem;line-height:calc(1 + .8 / var(--font-body-scale));font-family:var(--font-body-family);font-style:var(--font-body-style);font-weight:var(--font-body-weight)"
+    },
+    {
+      "source": "https://www.hhgdrums.com/cdn/shop/t/4/assets/base.css?v=159841507637079171801759840195",
+      "selector": "h1,h2,h3,h4,h5,.h0,.h1,.h2,.h3,.h4,.h5",
+      "declarations": "font-family:var(--font-heading-family);font-style:var(--font-heading-style);font-weight:var(--font-heading-weight);letter-spacing:calc(var(--font-heading-scale) * .06rem);color:rgb(var(--color-foreground));line-height:calc(1 + .3/max(1,var(--font-heading-scale)));word-break:break-word"
+    },
+    {
+      "source": "https://www.hhgdrums.com/cdn/shop/t/4/assets/base.css?v=159841507637079171801759840195",
+      "selector": ":root",
+      "declarations": "--duration-short: .1s;--duration-default: .2s;--duration-announcement-bar: .25s;--duration-medium: .3s;--duration-long: .5s;--duration-extra-long: .6s;--duration-extra-longer: .75s;--duration-extended: 3s;--ease-out-slow: cubic-bezier(0, 0, .3, 1);--animation-slide-in: slideIn var(--duration-extra-long) var(--ease-out-slow) forwards;--animation-fade-in: fadeIn var(--duration-extra-long) var(--ease-out-slow)"
+    },
+    {
+      "source": "https://www.hhgdrums.com/cdn/shop/t/4/assets/base.css?v=159841507637079171801759840195",
+      "selector": ".button--secondary,.button--tertiary",
+      "declarations": "--color-button: var(--color-secondary-button);--color-button-text: var(--color-secondary-button-text)"
+    },
+    {
+      "source": "https://www.hhgdrums.com/cdn/shop/t/4/assets/base.css?v=159841507637079171801759840195",
+      "selector": ".button--tertiary",
+      "declarations": "--alpha-button-background: 0;--alpha-button-border: .2"
+    },
+    {
+      "source": "https://www.hhgdrums.com/cdn/shop/t/4/assets/base.css?v=159841507637079171801759840195",
+      "selector": ".button,.shopify-challenge__button,.customer button,button.shopify-payment-button__button--unbranded",
+      "declarations": "--shadow-horizontal-offset: var(--buttons-shadow-horizontal-offset);--shadow-vertical-offset: var(--buttons-shadow-vertical-offset);--shadow-blur-radius: var(--buttons-shadow-blur-radius);--shadow-opacity: var(--buttons-shadow-opacity);--shadow-visible: var(--buttons-shadow-visible);--border-offset: var(--buttons-border-offset);--border-opacity: calc(1 - var(--buttons-border-opacity));border-radius:var(--buttons-radius-outset);position:relative"
+    },
+    {
+      "source": "https://www.hhgdrums.com/cdn/shop/t/4/assets/base.css?v=159841507637079171801759840195",
+      "selector": ".button,.shopify-challenge__button,.customer button",
+      "declarations": "display:inline-flex;justify-content:center;align-items:center;border:0;padding:0 3rem;cursor:pointer;font:inherit;font-size:1.5rem;text-decoration:none;color:rgb(var(--color-button-text));transition:box-shadow var(--duration-short) ease;-webkit-appearance:none;appearance:none;background-color:rgba(var(--color-button),var(--alpha-button-background))"
+    },
+    {
+      "source": "https://www.hhgdrums.com/cdn/shop/t/4/assets/base.css?v=159841507637079171801759840195",
+      "selector": ".button:not([disabled]):hover:after,.shopify-challenge__button:hover:after,.customer button:hover:after,.shopify-payment-button__button--unbranded:hover:after",
+      "declarations": "--border-offset: 1.3px;box-shadow:0 0 0 calc(var(--buttons-border-width) + var(--border-offset)) rgba(var(--color-button-text),var(--border-opacity)),0 0 0 calc(var(--buttons-border-width) + 1px) rgba(var(--color-button),var(--alpha-button-background))"
+    },
+    {
+      "source": "https://www.hhgdrums.com/cdn/shop/t/4/assets/base.css?v=159841507637079171801759840195",
+      "selector": ".button--secondary:after",
+      "declarations": "--border-opacity: var(--buttons-border-opacity)"
+    },
+    {
+      "source": "https://www.hhgdrums.com/cdn/shop/t/4/assets/base.css?v=159841507637079171801759840195",
+      "selector": ".button::selection,.shopify-challenge__button::selection,.customer button::selection",
+      "declarations": "background-color:rgba(var(--color-button-text),.3)"
+    },
+    {
+      "source": "https://www.hhgdrums.com/cdn/shop/t/4/assets/base.css?v=159841507637079171801759840195",
+      "selector": ".button.loading",
+      "declarations": "color:transparent;position:relative"
+    },
+    {
+      "source": "https://www.hhgdrums.com/cdn/shop/t/4/assets/base.css?v=159841507637079171801759840195",
+      "selector": ".button.loading",
+      "declarations": "color:rgb(var(--color-foreground))"
+    },
+    {
+      "source": "https://www.hhgdrums.com/cdn/shop/t/4/assets/base.css?v=159841507637079171801759840195",
+      "selector": ".share-button__button",
+      "declarations": "font-size:1.4rem;display:flex;align-items:center;color:rgb(var(--color-link));margin-left:0;padding-left:0;min-height:4.4rem"
+    },
+    {
+      "source": "https://www.hhgdrums.com/cdn/shop/t/4/assets/base.css?v=159841507637079171801759840195",
+      "selector": ".share-button__button,.share-button__fallback button",
+      "declarations": "cursor:pointer;background-color:transparent;border:none"
+    },
+    {
+      "source": "https://www.hhgdrums.com/cdn/shop/t/4/assets/base.css?v=159841507637079171801759840195",
+      "selector": ".share-button__fallback button:hover",
+      "declarations": "color:rgba(var(--color-foreground),.75)"
+    },
+    {
+      "source": "https://www.hhgdrums.com/cdn/shop/t/4/assets/base.css?v=159841507637079171801759840195",
+      "selector": ".share-button__close,.share-button__copy",
+      "declarations": "background-color:transparent;color:rgb(var(--color-foreground))"
+    },
+    {
+      "source": "https://www.hhgdrums.com/cdn/shop/t/4/assets/base.css?v=159841507637079171801759840195",
+      "selector": ".share-button__copy:focus-visible,.share-button__close:focus-visible",
+      "declarations": "background-color:rgb(var(--color-background));z-index:2"
+    },
+    {
+      "source": "https://www.hhgdrums.com/cdn/shop/t/4/assets/base.css?v=159841507637079171801759840195",
+      "selector": ".share-button__copy:focus,.share-button__close:focus",
+      "declarations": "background-color:rgb(var(--color-background));z-index:2"
+    },
+    {
+      "source": "https://www.hhgdrums.com/cdn/shop/t/4/assets/base.css?v=159841507637079171801759840195",
+      "selector": ".field:not(:focus-visible):not(.focused)+.share-button__copy:not(:focus-visible):not(.focused),.field:not(:focus-visible):not(.focused)+.share-button__close:not",
+      "declarations": "background-color:inherit"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "HHG Drums",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hhgdrums.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hhgdrums.com/",
+        "https://www.hhgdrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.hhgdrums.com/cdn/shop/t/4/assets/base.css?v=159841507637079171801759840195"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hhgdrums.com/"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hhgdrums.com/",
+        "https://www.hhgdrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.hhgdrums.com/cdn/shop/t/4/assets/base.css?v=159841507637079171801759840195"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hhgdrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hhgdrums.com/cdn/shop/t/4/assets/base.css?v=159841507637079171801759840195"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hhgdrums.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hhgdrums.com/"
+      ]
+    },
+    "colors.surface-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hhgdrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hhgdrums.com/"
+      ]
+    },
+    "colors.accent-secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hhgdrums.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.drum-spec-card": {
+      "status": "inferred"
+    }
+  }
+}

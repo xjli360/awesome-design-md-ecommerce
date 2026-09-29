@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Mandarake
-description: A deep red (#9e1d22) anchors Mandarake’s digital storefront like a vintage lacquer box, the brand’s primary voltage appearing on every add-to-cart button, price tag, and category badge. This is not a shy accent — it’s a declaration of the store’s specialty in rare collectibles, manga, and anime memorabilia, where urgency and authenticity matter. The secondary red (#d03b40) adds a slightly brighter pulse for hover states and active links, keeping the interface from feeling flat. Type runs Hiragino Kaku Gothic ProN with meiryo fallback, a pragmatic Japanese sans-serif stack that prioritizes legibility over fashion — no variable font, no experimental weight. The canvas is pure white (#ffffff), creating a high-contrast stage for product photography and the crimson brand marks. Navigation is dense and utilitarian: a top bar with category dropdowns, a persistent search field, and a cart counter that never leaves the viewport. Buttons are softly squared (`{rounded.xs}`), not pill-shaped, reinforcing a no-nonsense transaction feel. The overall mood is that of a well-organized auction house — red stamps, white paper, black ink — where the design steps back to let the inventory speak.
+name: "Mandarake"
+source_url: "https://order.mandarake.co.jp/order/"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep red (#9e1d22) anchors Mandarake’s digital storefront like a vintage lacquer box, the brand’s primary voltage appearing on every add-to-cart button, price tag, and category badge. This is not a shy accent — it’s a declaration of the store’s specialty in rare collectibles, manga, and anime memorabilia, where urgency and authenticity matter. The secondary red (#d03b40) adds a slightly brighter pulse for hover states and active links, keeping the interface from feeling flat. Type runs Hiragino Kaku Gothic ProN with meiryo fallback, a pragmatic Japanese sans-serif stack that prioritizes legibility over fashion — no variable font, no experimental weight. The canvas is pure white (#ffffff), creating a high-contrast stage for product photography and the crimson brand marks. Navigation is dense and utilitarian: a top bar with category dropdowns, a persistent search field, and a cart counter that never leaves the viewport. Buttons are softly squared (`{rounded.xs}`), not pill-shaped, reinforcing a no-nonsense transaction feel. The overall mood is that of a well-organized auction house — red stamps, white paper, black ink — where the design steps back to let the inventory speak.
 
 colors:
   primary: "#9e1d22"
@@ -327,6 +331,8 @@ components:
 - Product filters (on category pages) collapse into a "Filter" button that opens a bottom sheet or modal.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted color palette is minimal (only two reds and white). Additional brand-specific colors (e.g., secondary accents, success/error states, social media icons) could not be reliably determined from the live site extraction. The `link-blue` and `badge-new` colors are inferred from common e-commerce patterns, not confirmed from the site.
 - Font weights beyond 400, 600, and 700 are speculative. The extracted font stack (`Hiragino Kaku Gothic ProN, meiryo, sans-serif, メイリオ`) does not include variable font declarations or specific weight ranges.

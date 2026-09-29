@@ -1,0 +1,955 @@
+{
+  "source_url": "https://www.eventideaudio.com",
+  "final_url": "https://www.eventideaudio.com/",
+  "captured_at": "2026-09-28T10:10:06.489305+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.eventideaudio.com",
+      "final_url": "https://www.eventideaudio.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "ddfe325c51e2bb047a8c706ba99f4e96b829b6c2a9300c0de0dde7841034c299",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.eventideaudio.com/wp-content/plugins/mp3-music-player-by-sonaar/public/css/sonaar-music-public.css?ver=5.12",
+      "final_url": "https://www.eventideaudio.com/wp-content/plugins/mp3-music-player-by-sonaar/public/css/sonaar-music-public.css?ver=5.12",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "cd987306907078fd942ebc2847b1241b0857045f61883f9c79ded3e7a25b65d8",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all",
+      "final_url": "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6c61b169d3d7fd99e69b7d34bb788d698ddf97f1ae19ad106bcb9697757d31f0",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.eventideaudio.com/wp-content/themes/astra/assets/css/minified/frontend.min.css?ver=4.12.0",
+      "final_url": "https://www.eventideaudio.com/wp-content/themes/astra/assets/css/minified/frontend.min.css?ver=4.12.0",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2c781a61ac758ba95278d9bc01cd386127d862daeca4121a4cb87607c30a6ca2",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.eventideaudio.com/wp-content/themes/eventide/style.min.css?ver=1790160360",
+      "final_url": "https://www.eventideaudio.com/wp-content/themes/eventide/style.min.css?ver=1790160360",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "860f07537b6d359b1bfcf582cc5d644cc3662661dbca6723491cd44e5fad5935",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.eventideaudio.com/wp-content/themes/eventide/css/magnific-popup.css",
+      "final_url": "https://www.eventideaudio.com/wp-content/themes/eventide/css/magnific-popup.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "45d1f5f6cf913746c45dd697b1a8f3b719c02d8b3f678dc7fc2766d54e1aaf6e",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 308,
+      "sources": [
+        "https://www.eventideaudio.com/",
+        "https://www.eventideaudio.com/wp-content/plugins/mp3-music-player-by-sonaar/public/css/sonaar-music-public.css?ver=5.12",
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all",
+        "https://www.eventideaudio.com/wp-content/themes/astra/assets/css/minified/frontend.min.css?ver=4.12.0",
+        "https://www.eventideaudio.com/wp-content/themes/eventide/style.min.css?ver=1790160360",
+        "https://www.eventideaudio.com/wp-content/themes/eventide/css/magnific-popup.css"
+      ]
+    },
+    "#000000": {
+      "count": 75,
+      "sources": [
+        "https://www.eventideaudio.com/",
+        "https://www.eventideaudio.com/wp-content/plugins/mp3-music-player-by-sonaar/public/css/sonaar-music-public.css?ver=5.12",
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all",
+        "https://www.eventideaudio.com/wp-content/themes/astra/assets/css/minified/frontend.min.css?ver=4.12.0",
+        "https://www.eventideaudio.com/wp-content/themes/eventide/style.min.css?ver=1790160360",
+        "https://www.eventideaudio.com/wp-content/themes/eventide/css/magnific-popup.css"
+      ]
+    },
+    "#6c757d": {
+      "count": 38,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "#007bff": {
+      "count": 34,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "#212529": {
+      "count": 32,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "#0e6aaf": {
+      "count": 31,
+      "sources": [
+        "https://www.eventideaudio.com/",
+        "https://www.eventideaudio.com/wp-content/themes/eventide/style.min.css?ver=1790160360"
+      ]
+    },
+    "#dc3545": {
+      "count": 28,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "#28a745": {
+      "count": 28,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "#dee2e6": {
+      "count": 28,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "#343a40": {
+      "count": 19,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "#ffc107": {
+      "count": 17,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "#17a2b8": {
+      "count": 17,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "#f8f9fa": {
+      "count": 17,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "#e9ecef": {
+      "count": 16,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "#c8a96e": {
+      "count": 14,
+      "sources": [
+        "https://www.eventideaudio.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 14,
+      "sources": [
+        "https://www.eventideaudio.com/",
+        "https://www.eventideaudio.com/wp-content/themes/astra/assets/css/minified/frontend.min.css?ver=4.12.0",
+        "https://www.eventideaudio.com/wp-content/themes/eventide/css/magnific-popup.css"
+      ]
+    },
+    "#495057": {
+      "count": 14,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "#222121": {
+      "count": 13,
+      "sources": [
+        "https://www.eventideaudio.com/",
+        "https://www.eventideaudio.com/wp-content/themes/eventide/style.min.css?ver=1790160360"
+      ]
+    },
+    "#0274be": {
+      "count": 12,
+      "sources": [
+        "https://www.eventideaudio.com/",
+        "https://www.eventideaudio.com/wp-content/themes/astra/assets/css/minified/frontend.min.css?ver=4.12.0"
+      ]
+    },
+    "#004a80": {
+      "count": 11,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/style.min.css?ver=1790160360"
+      ]
+    },
+    "#dcdcdc": {
+      "count": 11,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/style.min.css?ver=1790160360"
+      ]
+    },
+    "#31c4b0": {
+      "count": 10,
+      "sources": [
+        "https://www.eventideaudio.com/"
+      ]
+    },
+    "#808285": {
+      "count": 8,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/astra/assets/css/minified/frontend.min.css?ver=4.12.0"
+      ]
+    },
+    "#eeeeee": {
+      "count": 7,
+      "sources": [
+        "https://www.eventideaudio.com/",
+        "https://www.eventideaudio.com/wp-content/plugins/mp3-music-player-by-sonaar/public/css/sonaar-music-public.css?ver=5.12",
+        "https://www.eventideaudio.com/wp-content/themes/astra/assets/css/minified/frontend.min.css?ver=4.12.0",
+        "https://www.eventideaudio.com/wp-content/themes/eventide/style.min.css?ver=1790160360"
+      ]
+    },
+    "#dddddd": {
+      "count": 7,
+      "sources": [
+        "https://www.eventideaudio.com/",
+        "https://www.eventideaudio.com/wp-content/themes/eventide/style.min.css?ver=1790160360"
+      ]
+    },
+    "#adb5bd": {
+      "count": 7,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "#155724": {
+      "count": 7,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all",
+        "https://www.eventideaudio.com/wp-content/themes/eventide/style.min.css?ver=1790160360"
+      ]
+    },
+    "#721c24": {
+      "count": 6,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all",
+        "https://www.eventideaudio.com/wp-content/themes/eventide/style.min.css?ver=1790160360"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 5,
+      "sources": [
+        "https://www.eventideaudio.com/",
+        "https://www.eventideaudio.com/wp-content/themes/astra/assets/css/minified/frontend.min.css?ver=4.12.0",
+        "https://www.eventideaudio.com/wp-content/themes/eventide/style.min.css?ver=1790160360"
+      ]
+    },
+    "#419ff2": {
+      "count": 5,
+      "sources": [
+        "https://www.eventideaudio.com/"
+      ]
+    },
+    "#0c0c0c": {
+      "count": 5,
+      "sources": [
+        "https://www.eventideaudio.com/"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 5,
+      "sources": [
+        "https://www.eventideaudio.com/"
+      ]
+    },
+    "#74ddc7": {
+      "count": 5,
+      "sources": [
+        "https://www.eventideaudio.com/"
+      ]
+    },
+    "#0062cc": {
+      "count": 5,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "#545b62": {
+      "count": 5,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "#1e7e34": {
+      "count": 5,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "#117a8b": {
+      "count": 5,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "#d39e00": {
+      "count": 5,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "#bd2130": {
+      "count": 5,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "#dae0e5": {
+      "count": 5,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "#1d2124": {
+      "count": 5,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "#b3d7ff": {
+      "count": 5,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "#004085": {
+      "count": 5,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "#383d41": {
+      "count": 5,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "#0c5460": {
+      "count": 5,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "#856404": {
+      "count": 5,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "#818182": {
+      "count": 5,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "#1b1e21": {
+      "count": 5,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "#3a3a3a": {
+      "count": 4,
+      "sources": [
+        "https://www.eventideaudio.com/",
+        "https://www.eventideaudio.com/wp-content/themes/astra/assets/css/minified/frontend.min.css?ver=4.12.0"
+      ]
+    },
+    "#2d2f38": {
+      "count": 4,
+      "sources": [
+        "https://www.eventideaudio.com/"
+      ]
+    },
+    "#080808": {
+      "count": 4,
+      "sources": [
+        "https://www.eventideaudio.com/"
+      ]
+    },
+    "#0056b3": {
+      "count": 4,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "#9fcdff": {
+      "count": 4,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "#c8cbcf": {
+      "count": 4,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "#c3e6cb": {
+      "count": 4,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all",
+        "https://www.eventideaudio.com/wp-content/themes/eventide/style.min.css?ver=1790160360"
+      ]
+    },
+    "#b1dfbb": {
+      "count": 4,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "#abdde5": {
+      "count": 4,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "#ffe8a1": {
+      "count": 4,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "#f5c6cb": {
+      "count": 4,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all",
+        "https://www.eventideaudio.com/wp-content/themes/eventide/style.min.css?ver=1790160360"
+      ]
+    },
+    "#f1b0b7": {
+      "count": 4,
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+    ],
+    "Apple Color Emoji": [
+      "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+    ],
+    "Arial": [
+      "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all",
+      "https://www.eventideaudio.com/wp-content/themes/eventide/css/magnific-popup.css"
+    ],
+    "Astra": [
+      "https://www.eventideaudio.com/wp-content/themes/astra/assets/css/minified/frontend.min.css?ver=4.12.0"
+    ],
+    "Baskerville": [
+      "https://www.eventideaudio.com/wp-content/themes/eventide/css/magnific-popup.css"
+    ],
+    "BlinkMacSystemFont": [
+      "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+    ],
+    "Consolas": [
+      "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+    ],
+    "Courier": [
+      "https://www.eventideaudio.com/wp-content/themes/astra/assets/css/minified/frontend.min.css?ver=4.12.0"
+    ],
+    "Courier 10 Pitch": [
+      "https://www.eventideaudio.com/wp-content/themes/astra/assets/css/minified/frontend.min.css?ver=4.12.0"
+    ],
+    "Courier New": [
+      "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+    ],
+    "Font Awesome 5 Brands": [
+      "https://www.eventideaudio.com/wp-content/plugins/mp3-music-player-by-sonaar/public/css/sonaar-music-public.css?ver=5.12"
+    ],
+    "Font Awesome 5 Free": [
+      "https://www.eventideaudio.com/wp-content/plugins/mp3-music-player-by-sonaar/public/css/sonaar-music-public.css?ver=5.12"
+    ],
+    "Font Awesome\\ 5 Brands": [
+      "https://www.eventideaudio.com/wp-content/plugins/mp3-music-player-by-sonaar/public/css/sonaar-music-public.css?ver=5.12"
+    ],
+    "Font Awesome\\ 5 Free": [
+      "https://www.eventideaudio.com/wp-content/plugins/mp3-music-player-by-sonaar/public/css/sonaar-music-public.css?ver=5.12"
+    ],
+    "Fontello": [
+      "https://www.eventideaudio.com/wp-content/plugins/mp3-music-player-by-sonaar/public/css/sonaar-music-public.css?ver=5.12"
+    ],
+    "Helvetica Neue": [
+      "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all",
+      "https://www.eventideaudio.com/wp-content/themes/astra/assets/css/minified/frontend.min.css?ver=4.12.0"
+    ],
+    "Inter": [
+      "https://www.eventideaudio.com/"
+    ],
+    "Liberation Mono": [
+      "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+    ],
+    "Liberation Sans": [
+      "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+    ],
+    "Menlo": [
+      "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+    ],
+    "Monaco": [
+      "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+    ],
+    "Montserrat": [
+      "https://www.eventideaudio.com/wp-content/themes/astra/assets/css/minified/frontend.min.css?ver=4.12.0"
+    ],
+    "Noto Color Emoji": [
+      "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+    ],
+    "Noto Sans": [
+      "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+    ],
+    "Open Sans": [
+      "https://www.eventideaudio.com/",
+      "https://www.eventideaudio.com/wp-content/themes/astra/assets/css/minified/frontend.min.css?ver=4.12.0"
+    ],
+    "Roboto": [
+      "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+    ],
+    "SFMono-Regular": [
+      "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+    ],
+    "Segoe UI": [
+      "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+    ],
+    "Segoe UI Emoji": [
+      "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+    ],
+    "Segoe UI Symbol": [
+      "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+    ],
+    "Source Sans Pro": [
+      "https://www.eventideaudio.com/wp-content/themes/eventide/style.min.css?ver=1790160360"
+    ],
+    "inherit !important": [
+      "https://www.eventideaudio.com/wp-content/plugins/mp3-music-player-by-sonaar/public/css/sonaar-music-public.css?ver=5.12"
+    ],
+    "monospace": [
+      "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all",
+      "https://www.eventideaudio.com/wp-content/themes/astra/assets/css/minified/frontend.min.css?ver=4.12.0",
+      "https://www.eventideaudio.com/wp-content/themes/eventide/css/magnific-popup.css"
+    ],
+    "monospace!important": [
+      "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+    ],
+    "sans-serif": [
+      "https://www.eventideaudio.com/",
+      "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all",
+      "https://www.eventideaudio.com/wp-content/themes/astra/assets/css/minified/frontend.min.css?ver=4.12.0",
+      "https://www.eventideaudio.com/wp-content/themes/eventide/style.min.css?ver=1790160360"
+    ],
+    "sricons": [
+      "https://www.eventideaudio.com/wp-content/plugins/mp3-music-player-by-sonaar/public/css/sonaar-music-public.css?ver=5.12"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.eventideaudio.com/",
+      "selector": "tore, .iron-audioplayer  .playlist .track-number, .iron-audioplayer .sr_it-playlist-title, .iron-audioplayer[data-playertemplate=\"skin_boxed_tracklist\"] .track-",
+      "declarations": "color:#ffffff;"
+    },
+    {
+      "source": "https://www.eventideaudio.com/",
+      "selector": ":root",
+      "declarations": "--srp-global-tracklist-color: #ffffff;"
+    },
+    {
+      "source": "https://www.eventideaudio.com/",
+      "selector": ":root",
+      "declarations": "--srp-global-tracklist-font-size: 20;"
+    },
+    {
+      "source": "https://www.eventideaudio.com/",
+      "selector": "playlist-title, .iron-audioplayer[data-playertemplate=\"skin_boxed_tracklist\"] .album-title, .iron-audioplayer[data-playertemplate=\"skin_boxed_tracklist\"] .track",
+      "declarations": "font-family:Open Sans; font-weight:700;"
+    },
+    {
+      "source": "https://www.eventideaudio.com/",
+      "selector": "#sonaar-player .player, #sonaar-player .player .volume .slider-container, #sonaar-player .close.btn_playlist:before, #sonaar-player .close.btn_playlist:after",
+      "declarations": "border-color:rgba(116, 221, 199, 1);"
+    },
+    {
+      "source": "https://www.eventideaudio.com/",
+      "selector": "#sonaar-player .playlist button.play, #sonaar-player .close.btn-player, #sonaar-player .mobileProgress, #sonaar-player .ui-slider-handle, .ui-slider-range",
+      "declarations": "background-color:rgba(116, 221, 199, 1);"
+    },
+    {
+      "source": "https://www.eventideaudio.com/",
+      "selector": "list li, #sonaar-player .playlist .tracklist li a, #sonaar-player .player .store .track-store li a, #sonaar-player .track-store li, #sonaar-player .sonaar-exten",
+      "declarations": "color:rgba(255, 255, 255, 1);"
+    },
+    {
+      "source": "https://www.eventideaudio.com/",
+      "selector": "volume .slider-container, #sonaar-player.sr-float div.playlist, #sonaar-player.sr-float .close.btn-player, #sonaar-player.sr-float .player.sr-show_controls_hove",
+      "declarations": "background-color:rgba(0, 0, 0, 1);"
+    },
+    {
+      "source": "https://www.eventideaudio.com/",
+      "selector": "#sonaar-player .playlist button.play, #sonaar-player .player .store .track-store li .sr_store_round_bt",
+      "declarations": "color:rgba(0, 0, 0, 1);"
+    },
+    {
+      "source": "https://www.eventideaudio.com/",
+      "selector": "#sonaar-player .close.btn-player.enable:after, #sonaar-player .close.btn-player.enable:before",
+      "declarations": "border-color:rgba(0, 0, 0, 1)!important;"
+    },
+    {
+      "source": "https://www.eventideaudio.com/",
+      "selector": "#sonaar-player.sr-float .close.btn-player.enable:after, #sonaar-player.sr-float .close.btn-player.enable:before",
+      "declarations": "border-color:!important;"
+    },
+    {
+      "source": "https://www.eventideaudio.com/",
+      "selector": "div#sonaar-modal, article.srp_note, div#sonaar-modal h1, div#sonaar-modal h2, div#sonaar-modal h3, div#sonaar-modal h4, div#sonaar-modal h5, div#sonaar-modal la",
+      "declarations": "color:#000000;"
+    },
+    {
+      "source": "https://www.eventideaudio.com/",
+      "selector": ".iron-audioplayer .srp-play-button-label-container",
+      "declarations": "color:;"
+    },
+    {
+      "source": "https://www.eventideaudio.com/",
+      "selector": ".iron-audioplayer .control .sricon-play, .srp-play-button .sricon-play, .srp_pagination .active",
+      "declarations": "color:rgba(255,255,255,0);"
+    },
+    {
+      "source": "https://www.eventideaudio.com/",
+      "selector": ".iron-audioplayer .control, .iron-audioplayer[data-playertemplate=\"skin_boxed_tracklist\"] .sr_progressbar, .srp_player_boxed .srp_noteButton",
+      "declarations": "color:rgba(255,255,255,0);"
+    },
+    {
+      "source": "https://www.eventideaudio.com/",
+      "selector": "#sonaar-modal .srp_button",
+      "declarations": "background-color:#000000;"
+    },
+    {
+      "source": "https://www.eventideaudio.com/",
+      "selector": "#sonaar-modal .srp_button",
+      "declarations": "color:#ffffff;"
+    },
+    {
+      "source": "https://www.eventideaudio.com/",
+      "selector": ":root",
+      "declarations": "--srp-global-sticky_player_featured_color: rgba(116, 221, 199, 1);\n\t\t\t--srp-global-sticky_player_waveform_progress_color: rgba(116, 1, 223, 1);\n\t\t\t--srp-global-sticky_player_waveform_background_color: rgba(79, 79, 79, 1);\n\t\t\t--srp-global-sticky_player_labelsandbuttons: rgba(255, 255, 255, 1);\n\t\t\t--srp-global-sticky_player_background: rgba(0, 0, 0, 1);\n\t\t\t--srp-global-music_player_wc_bt_color: rgba(255, 255, 255, 1);\n\t\t\t--srp-global-music_player_wc_bt_bgcolor: rgba(0, 0, 0, 1);\n\t\t\t--srp-global-modal-btn-txt-color: #ffffff;\n\t\t\t--srp-global-modal-btn-bg-color: #000000;\n\t\t\t--srp-global-modal-form-input-bg-color: rgba(255,255,255,0);\n\t\t\t--srp-global-modal-form-input-border-color: #ffffff;\n\t\t\t--sr"
+    },
+    {
+      "source": "https://www.eventideaudio.com/",
+      "selector": ":root",
+      "declarations": "--ast-post-nav-space:0;--ast-container-default-xlg-padding:6.67em;--ast-container-default-lg-padding:5.67em;--ast-container-default-slg-padding:4.34em;--ast-container-default-md-padding:3.34em;--ast-container-default-sm-padding:6.67em;--ast-container-default-xs-padding:2.4em;--ast-container-default-xxs-padding:1.4em;--ast-code-block-background:#EEEEEE;--ast-comment-inputs-background:#FAFAFA;--ast-normal-container-width:1920px;--ast-narrow-container-width:1000px;--ast-blog-title-font-weight:normal;--ast-blog-meta-weight:inherit;--ast-global-color-primary:var(--ast-global-color-5);--ast-global-color-secondary:var(--ast-global-color-4);--ast-global-color-alternate-background:var(--ast-global-co"
+    },
+    {
+      "source": "https://www.eventideaudio.com/",
+      "selector": "body,button,input,select,textarea,.ast-button,.ast-custom-button",
+      "declarations": "font-family:'Inter',sans-serif;font-weight:400;font-size:20px;font-size:1rem;line-height:var(--ast-body-line-height,1.4em);"
+    },
+    {
+      "source": "https://www.eventideaudio.com/",
+      "selector": "h1,h2,h3,h4,h5,h6,.entry-content :where(h1,h2,h3,h4,h5,h6),.site-title,.site-title a",
+      "declarations": "font-family:'Inter',sans-serif;font-weight:700;"
+    },
+    {
+      "source": "https://www.eventideaudio.com/",
+      "selector": "h1,.entry-content :where(h1)",
+      "declarations": "font-size:60px;font-size:3rem;font-weight:800;font-family:'Inter',sans-serif;line-height:1.2em;"
+    },
+    {
+      "source": "https://www.eventideaudio.com/",
+      "selector": "body,h1,h2,h3,h4,h5,h6,.entry-title a,.entry-content :where(h1,h2,h3,h4,h5,h6)",
+      "declarations": "color:#0c0c0c;"
+    },
+    {
+      "source": "https://www.eventideaudio.com/",
+      "selector": ":hover,.entry-meta a:not(.ast-button):hover *,.entry-meta a:not(.ast-button):focus,.entry-meta a:not(.ast-button):focus *,.page-links > .page-link,.page-links .",
+      "declarations": "color:#419ff2;"
+    },
+    {
+      "source": "https://www.eventideaudio.com/",
+      "selector": "-visible,.astra-cart-drawer-close:focus,.ast-single-variation:focus,.ast-button:focus,.ast-builder-button-wrap:has(.ast-custom-button-link:focus),.ast-builder-b",
+      "declarations": "outline-style:dotted;outline-color:inherit;outline-width:thin;"
+    },
+    {
+      "source": "https://www.eventideaudio.com/",
+      "selector": "header-mobile-trigger\"] .ast-button-wrap .ast-mobile-menu-trigger-minimal:focus,.ast-mobile-popup-drawer.active .menu-toggle-close:focus,#ast-scroll-top:focus,#",
+      "declarations": "border-style:dotted;border-color:inherit;border-width:thin;"
+    },
+    {
+      "source": "https://www.eventideaudio.com/",
+      "selector": ".wp-block-buttons .wp-block-button.is-style-outline .wp-block-button__link.wp-element-button,.ast-outline-button,.wp-block-uagb-buttons-child .uagb-buttons-repe",
+      "declarations": "border-top-width:2px;border-right-width:2px;border-bottom-width:2px;border-left-width:2px;font-family:inherit;font-weight:inherit;line-height:1em;border-top-left-radius:25px;border-top-right-radius:25px;border-bottom-right-radius:25px;border-bottom-left-radius:25px;"
+    },
+    {
+      "source": "https://www.eventideaudio.com/",
+      "selector": "utton .wp-block-button__link.wp-element-button.is-style-outline:not(.has-background),.wp-block-button.is-style-outline>.wp-block-button__link.wp-element-button:",
+      "declarations": "background-color:transparent;"
+    },
+    {
+      "source": "https://www.eventideaudio.com/",
+      "selector": "body .wp-block-cover:not(.has-text-color.has-link-color) p",
+      "declarations": "color:#0c0c0c;"
+    },
+    {
+      "source": "https://www.eventideaudio.com/",
+      "selector": ".menu-toggle,button,.ast-button,.ast-custom-button,.button,input#submit,input[type=\"button\"],input[type=\"submit\"],input[type=\"reset\"]",
+      "declarations": "color:#ffffff;border-color:#0e6aaf;background-color:#0e6aaf;border-top-left-radius:25px;border-top-right-radius:25px;border-bottom-right-radius:25px;border-bottom-left-radius:25px;padding-top:10px;padding-right:40px;padding-bottom:10px;padding-left:40px;font-family:inherit;font-weight:inherit;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Eventide Audio | Studio Processors, Effects Pedals and Plug-ins",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.eventideaudio.com/",
+        "https://www.eventideaudio.com/wp-content/themes/astra/assets/css/minified/frontend.min.css?ver=4.12.0"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.eventideaudio.com/",
+        "https://www.eventideaudio.com/wp-content/plugins/mp3-music-player-by-sonaar/public/css/sonaar-music-public.css?ver=5.12",
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all",
+        "https://www.eventideaudio.com/wp-content/themes/astra/assets/css/minified/frontend.min.css?ver=4.12.0",
+        "https://www.eventideaudio.com/wp-content/themes/eventide/style.min.css?ver=1790160360",
+        "https://www.eventideaudio.com/wp-content/themes/eventide/css/magnific-popup.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.eventideaudio.com/",
+        "https://www.eventideaudio.com/wp-content/themes/astra/assets/css/minified/frontend.min.css?ver=4.12.0",
+        "https://www.eventideaudio.com/wp-content/themes/eventide/style.min.css?ver=1790160360"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.eventideaudio.com/",
+        "https://www.eventideaudio.com/wp-content/plugins/mp3-music-player-by-sonaar/public/css/sonaar-music-public.css?ver=5.12",
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all",
+        "https://www.eventideaudio.com/wp-content/themes/astra/assets/css/minified/frontend.min.css?ver=4.12.0",
+        "https://www.eventideaudio.com/wp-content/themes/eventide/style.min.css?ver=1790160360",
+        "https://www.eventideaudio.com/wp-content/themes/eventide/css/magnific-popup.css"
+      ]
+    },
+    "colors.accent-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.eventideaudio.com/"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.eventideaudio.com/"
+      ]
+    },
+    "colors.dark-surface": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.eventideaudio.com/"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.eventideaudio.com/wp-content/themes/eventide/bootstrap/css/bootstrap.min.css?ver=all"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.audio-preview-player": {
+      "status": "inferred"
+    }
+  }
+}

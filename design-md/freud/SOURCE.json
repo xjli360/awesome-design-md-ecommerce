@@ -1,0 +1,570 @@
+{
+  "source_url": "https://freudtools.com",
+  "final_url": "https://www.freudtools.com/",
+  "captured_at": "2026-09-29T03:59:49.386942+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://freudtools.com",
+      "final_url": "https://www.freudtools.com/",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "d76f0eebcd9cd5007d0193fd22eb0de89b716fb45c954cec56dac92162ea22cf",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Nunito:600,800",
+      "final_url": "https://fonts.googleapis.com/css?family=Nunito:600,800",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "62197dc392ecad0d20b1fd03ec8dbc03968f478599084d7225681e07e5a89ab8",
+      "snapshot": "rendered-style-1.css"
+    },
+    {
+      "url": "https://www.freudtools.com/#computed-style-snapshot",
+      "final_url": "https://www.freudtools.com/#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "97054b0ef2bcea0d89ce49f408a325eef31a97d20eceadff8ba194253e58c5bb",
+      "snapshot": "rendered-style-2.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 102,
+      "sources": [
+        "https://www.freudtools.com/",
+        "https://www.freudtools.com/#computed-style-snapshot"
+      ]
+    },
+    "#000000": {
+      "count": 28,
+      "sources": [
+        "https://www.freudtools.com/",
+        "https://www.freudtools.com/#computed-style-snapshot"
+      ]
+    },
+    "#999999": {
+      "count": 20,
+      "sources": [
+        "https://www.freudtools.com/",
+        "https://www.freudtools.com/#computed-style-snapshot"
+      ]
+    },
+    "#dddddd": {
+      "count": 16,
+      "sources": [
+        "https://www.freudtools.com/",
+        "https://www.freudtools.com/#computed-style-snapshot"
+      ]
+    },
+    "#555555": {
+      "count": 14,
+      "sources": [
+        "https://www.freudtools.com/"
+      ]
+    },
+    "#333333": {
+      "count": 10,
+      "sources": [
+        "https://www.freudtools.com/",
+        "https://www.freudtools.com/#computed-style-snapshot"
+      ]
+    },
+    "#eeeeee": {
+      "count": 6,
+      "sources": [
+        "https://www.freudtools.com/"
+      ]
+    },
+    "#282828": {
+      "count": 6,
+      "sources": [
+        "https://www.freudtools.com/"
+      ]
+    },
+    "#a3a3a3": {
+      "count": 5,
+      "sources": [
+        "https://www.freudtools.com/"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 4,
+      "sources": [
+        "https://www.freudtools.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 3,
+      "sources": [
+        "https://www.freudtools.com/"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 3,
+      "sources": [
+        "https://www.freudtools.com/"
+      ]
+    },
+    "#7d7e7d": {
+      "count": 3,
+      "sources": [
+        "https://www.freudtools.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 3,
+      "sources": [
+        "https://www.freudtools.com/"
+      ]
+    },
+    "#0e0e0e": {
+      "count": 2,
+      "sources": [
+        "https://www.freudtools.com/"
+      ]
+    },
+    "#222222": {
+      "count": 2,
+      "sources": [
+        "https://www.freudtools.com/"
+      ]
+    },
+    "#4f5d75": {
+      "count": 2,
+      "sources": [
+        "https://www.freudtools.com/"
+      ]
+    },
+    "#fefefe": {
+      "count": 1,
+      "sources": [
+        "https://www.freudtools.com/"
+      ]
+    },
+    "#888888": {
+      "count": 1,
+      "sources": [
+        "https://www.freudtools.com/"
+      ]
+    },
+    "#404040": {
+      "count": 1,
+      "sources": [
+        "https://www.freudtools.com/"
+      ]
+    },
+    "#2196f3": {
+      "count": 1,
+      "sources": [
+        "https://www.freudtools.com/"
+      ]
+    },
+    "#3b3b3b": {
+      "count": 1,
+      "sources": [
+        "https://www.freudtools.com/"
+      ]
+    },
+    "#535353": {
+      "count": 1,
+      "sources": [
+        "https://www.freudtools.com/"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 1,
+      "sources": [
+        "https://www.freudtools.com/"
+      ]
+    },
+    "#ffff00": {
+      "count": 1,
+      "sources": [
+        "https://www.freudtools.com/"
+      ]
+    },
+    "#ff00ff": {
+      "count": 1,
+      "sources": [
+        "https://www.freudtools.com/"
+      ]
+    },
+    "#fafafa": {
+      "count": 1,
+      "sources": [
+        "https://www.freudtools.com/"
+      ]
+    },
+    "#767676": {
+      "count": 1,
+      "sources": [
+        "https://www.freudtools.com/#computed-style-snapshot"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.freudtools.com/#computed-style-snapshot"
+    ],
+    "Font Awesome\\ 6 Brands": [
+      "https://www.freudtools.com/"
+    ],
+    "Font Awesome\\ 6 Free": [
+      "https://www.freudtools.com/"
+    ],
+    "Montserrat": [
+      "https://www.freudtools.com/"
+    ],
+    "Nunito": [
+      "https://www.freudtools.com/",
+      "https://fonts.googleapis.com/css?family=Nunito:600,800",
+      "https://www.freudtools.com/#computed-style-snapshot"
+    ],
+    "Times": [
+      "https://www.freudtools.com/"
+    ],
+    "Times New Roman": [
+      "https://www.freudtools.com/"
+    ],
+    "nexa": [
+      "https://www.freudtools.com/"
+    ],
+    "sans-serif": [
+      "https://www.freudtools.com/",
+      "https://www.freudtools.com/#computed-style-snapshot"
+    ],
+    "serif": [
+      "https://www.freudtools.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.freudtools.com/",
+      "selector": ".x-search-nav-drop .s-button[data-v-60e3daaf]",
+      "declarations": "background:red;color:#fff;flex-basis:20%;text-align:center"
+    },
+    {
+      "source": "https://www.freudtools.com/",
+      "selector": ".featured-copy .heading[data-v-66d70e54],.featured-product .heading[data-v-66d70e54]",
+      "declarations": "background:red;box-shadow:0 4px 8px rgba(0,0,0,.5);color:#fff;font-size:16px;height:30px;line-height:30px;margin:auto;position:relative;text-align:center;text-transform:uppercase;width:inherit;width:300px"
+    },
+    {
+      "source": "https://www.freudtools.com/",
+      "selector": ".featured-copy .learnmore[data-v-66d70e54],.featured-product .learnmore[data-v-66d70e54]",
+      "declarations": "background:#555;color:#fff;cursor:pointer;display:inline-block;font-size:9px;margin-left:10px;padding:0 7px;text-align:center;text-transform:uppercase;white-space:nowrap"
+    },
+    {
+      "source": "https://www.freudtools.com/",
+      "selector": ".featured-copy .title[data-v-e3c0b1be],.featured-product .title[data-v-e3c0b1be]",
+      "declarations": "color:red;font-size:20px;font-weight:700;line-height:20px;margin:auto;text-align:center;text-shadow:1px 1px 1px #ddd;width:100%"
+    },
+    {
+      "source": "https://www.freudtools.com/",
+      "selector": ".featured-copy .learnmore[data-v-e3c0b1be],.featured-product .learnmore[data-v-e3c0b1be]",
+      "declarations": "background:#a3a3a3;color:#fff;cursor:pointer;font-size:9px;margin-left:10px;padding:15px 7px;text-align:center;text-transform:uppercase;white-space:nowrap"
+    },
+    {
+      "source": "https://www.freudtools.com/",
+      "selector": ".button[data-v-b128dc24],.button.inverse[data-v-b128dc24]",
+      "declarations": "background:#fff;color:#333"
+    },
+    {
+      "source": "https://www.freudtools.com/",
+      "selector": ".nav-country-selection .country-button.long[data-v-72e0d6cb]",
+      "declarations": "background:#fff;color:#000"
+    },
+    {
+      "source": "https://www.freudtools.com/",
+      "selector": ":host,:root",
+      "declarations": "--fa-font-regular:normal 400 1em/1 \"Font Awesome 6 Free\""
+    },
+    {
+      "source": "https://www.freudtools.com/",
+      "selector": ":host,:root",
+      "declarations": "--fa-style-family-classic:\"Font Awesome 6 Free\";--fa-font-solid:normal 900 1em/1 \"Font Awesome 6 Free\""
+    },
+    {
+      "source": "https://www.freudtools.com/",
+      "selector": ":host,:root",
+      "declarations": "--fa-style-family-brands:\"Font Awesome 6 Brands\";--fa-font-brands:normal 400 1em/1 \"Font Awesome 6 Brands\""
+    },
+    {
+      "source": "https://www.freudtools.com/",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "border:0;font-family:inherit;font-size:100%;font-style:inherit;font-weight:inherit;outline:0;vertical-align:baseline"
+    },
+    {
+      "source": "https://www.freudtools.com/",
+      "selector": "body,html",
+      "declarations": "font-family:sans-serif;height:100%"
+    },
+    {
+      "source": "https://www.freudtools.com/",
+      "selector": ".home-feature-button.button-red[data-v-7056c376]",
+      "declarations": "background:red;color:#fff"
+    },
+    {
+      "source": "https://www.freudtools.com/",
+      "selector": ".home-feature-button.button-gray[data-v-7056c376]",
+      "declarations": "background:#ddd;color:#555"
+    },
+    {
+      "source": "https://www.freudtools.com/",
+      "selector": ".slider-buttons .slider-button-wrap[data-v-7056c376]",
+      "declarations": "color:#fff;display:inline-block;margin:0 20px"
+    },
+    {
+      "source": "https://www.freudtools.com/",
+      "selector": ".headline-slider .headline-body[data-v-7056c376]",
+      "declarations": "background:rgba(80,80,80,.8);color:#fff;font-size:18px;padding:30px"
+    },
+    {
+      "source": "https://www.freudtools.com/",
+      "selector": ".x-modal-header[data-v-7056c376]",
+      "declarations": "background-color:red"
+    },
+    {
+      "source": "https://www.freudtools.com/",
+      "selector": ".carousel nav button[data-v-7056c376]",
+      "declarations": "background:none;border:1px solid;color:#333;cursor:pointer;flex:0 0 auto;letter-spacing:1px;margin:0 5px;padding:5px 10px"
+    },
+    {
+      "source": "https://www.freudtools.com/#computed-style-snapshot",
+      "selector": ".sample-0-body",
+      "declarations": "color:rgb(0, 0, 0);background-color:rgb(255, 255, 255);border-top-color:rgb(0, 0, 0);font-family:sans-serif"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "Freud Tools",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "534d969b2e19c08a39dd8363c57a9314bc1ba2e76af20c5fa83a2127f3f44df1"
+    }
+  ],
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.freudtools.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.freudtools.com/",
+        "https://www.freudtools.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.freudtools.com/",
+        "https://www.freudtools.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.freudtools.com/",
+        "https://www.freudtools.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.freudtools.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.freudtools.com/",
+        "https://www.freudtools.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.freudtools.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.freudtools.com/",
+        "https://www.freudtools.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.freudtools.com/",
+        "https://www.freudtools.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.surface-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.freudtools.com/"
+      ]
+    },
+    "colors.accent-info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.freudtools.com/"
+      ]
+    },
+    "colors.neutral-mid": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.freudtools.com/"
+      ]
+    },
+    "colors.neutral-btn": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.freudtools.com/"
+      ]
+    },
+    "colors.border-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.freudtools.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.product-spec-table": {
+      "status": "inferred"
+    }
+  }
+}

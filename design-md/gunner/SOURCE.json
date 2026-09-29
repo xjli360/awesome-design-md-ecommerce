@@ -1,0 +1,842 @@
+{
+  "source_url": "https://gunner.com",
+  "final_url": "https://gunner.com/",
+  "captured_at": "2026-09-28T09:16:46.306636+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://gunner.com",
+      "final_url": "https://gunner.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "cda86c9c005977dc720a964cdd6f918bc046b163fa97e3826d60a3030c570190",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://gunner.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://gunner.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186",
+      "final_url": "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5ce7d5db77ba788419dd18456446ebc244b977bb9348ded26240a09a74b57625",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://gunner.com/cdn/shop/t/879/assets/custom-style.css?v=95041672157449431171790274185",
+      "final_url": "https://gunner.com/cdn/shop/t/879/assets/custom-style.css?v=95041672157449431171790274185",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "cbcb9638d1ec1faa0ffcd78218fca7c2f314d395882cff57602afed70136d0c3",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://gunner.com/cdn/shop/t/879/assets/halfwidth.css?v=22861441301003206141773085462",
+      "final_url": "https://gunner.com/cdn/shop/t/879/assets/halfwidth.css?v=22861441301003206141773085462",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "fff630f8d967809bd5c2eae3a8dd4718d75934aa9201d511a17661c9f432466b",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.8/slick.min.css",
+      "final_url": "https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.8/slick.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "1d83c2330c14b744fda2596c8853897df489f35196acbd4e0610e8cb284af642",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 198,
+      "sources": [
+        "https://gunner.com/",
+        "https://gunner.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186",
+        "https://gunner.com/cdn/shop/t/879/assets/custom-style.css?v=95041672157449431171790274185"
+      ]
+    },
+    "#4a4e58": {
+      "count": 187,
+      "sources": [
+        "https://gunner.com/",
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186",
+        "https://gunner.com/cdn/shop/t/879/assets/custom-style.css?v=95041672157449431171790274185"
+      ]
+    },
+    "#e9522e": {
+      "count": 143,
+      "sources": [
+        "https://gunner.com/",
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186",
+        "https://gunner.com/cdn/shop/t/879/assets/custom-style.css?v=95041672157449431171790274185"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 25,
+      "sources": [
+        "https://gunner.com/",
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186",
+        "https://gunner.com/cdn/shop/t/879/assets/custom-style.css?v=95041672157449431171790274185"
+      ]
+    },
+    "#000000": {
+      "count": 15,
+      "sources": [
+        "https://gunner.com/",
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186",
+        "https://gunner.com/cdn/shop/t/879/assets/custom-style.css?v=95041672157449431171790274185"
+      ]
+    },
+    "#00000000": {
+      "count": 15,
+      "sources": [
+        "https://gunner.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "#fef5f2": {
+      "count": 15,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186",
+        "https://gunner.com/cdn/shop/t/879/assets/custom-style.css?v=95041672157449431171790274185"
+      ]
+    },
+    "#6a6a45": {
+      "count": 12,
+      "sources": [
+        "https://gunner.com/",
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 7,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "#00000014": {
+      "count": 6,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 6,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186",
+        "https://gunner.com/cdn/shop/t/879/assets/custom-style.css?v=95041672157449431171790274185"
+      ]
+    },
+    "#1e2939": {
+      "count": 5,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "#00000066": {
+      "count": 4,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "#dbdcde": {
+      "count": 4,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "#e9532e": {
+      "count": 4,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "#0000004d": {
+      "count": 3,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 3,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "#8c94a1": {
+      "count": 3,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "#4a4e5880": {
+      "count": 2,
+      "sources": [
+        "https://gunner.com/"
+      ]
+    },
+    "#ff0000": {
+      "count": 2,
+      "sources": [
+        "https://gunner.com/"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://gunner.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 2,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "#00000033": {
+      "count": 2,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "#0000000f": {
+      "count": 2,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 2,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "#4a4e5820": {
+      "count": 2,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "#f6f6f8": {
+      "count": 2,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "#d1d5db": {
+      "count": 2,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "#142122": {
+      "count": 2,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/custom-style.css?v=95041672157449431171790274185"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 1,
+      "sources": [
+        "https://gunner.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://gunner.com/"
+      ]
+    },
+    "#5d7e92": {
+      "count": 1,
+      "sources": [
+        "https://gunner.com/"
+      ]
+    },
+    "#8a7f99": {
+      "count": 1,
+      "sources": [
+        "https://gunner.com/"
+      ]
+    },
+    "#b1a688": {
+      "count": 1,
+      "sources": [
+        "https://gunner.com/"
+      ]
+    },
+    "#a55b3b": {
+      "count": 1,
+      "sources": [
+        "https://gunner.com/"
+      ]
+    },
+    "#64645d": {
+      "count": 1,
+      "sources": [
+        "https://gunner.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://gunner.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://gunner.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://gunner.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 1,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "#0000000d": {
+      "count": 1,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "#fff9c4": {
+      "count": 1,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "#ffffff00": {
+      "count": 1,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "#00000099": {
+      "count": 1,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "#0000002e": {
+      "count": 1,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "#4a4e5850": {
+      "count": 1,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "#666666": {
+      "count": 1,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "#604832": {
+      "count": 1,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "#e7e5e1": {
+      "count": 1,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "#f44336": {
+      "count": 1,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "#4a5565": {
+      "count": 1,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "#f2f3f5": {
+      "count": 1,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "#4a4e587a": {
+      "count": 1,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/custom-style.css?v=95041672157449431171790274185"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/custom-style.css?v=95041672157449431171790274185"
+      ]
+    },
+    "#dddddd": {
+      "count": 1,
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/custom-style.css?v=95041672157449431171790274185"
+      ]
+    }
+  },
+  "font_families": {
+    "Avenir": [
+      "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+    ],
+    "Avenir LT Pro": [
+      "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186",
+      "https://gunner.com/cdn/shop/t/879/assets/custom-style.css?v=95041672157449431171790274185"
+    ],
+    "Avenir LT Pro!important": [
+      "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+    ],
+    "Avenir LT Pro' !important": [
+      "https://gunner.com/cdn/shop/t/879/assets/custom-style.css?v=95041672157449431171790274185"
+    ],
+    "Avenir Next": [
+      "https://gunner.com/"
+    ],
+    "Consolas": [
+      "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+    ],
+    "Courier New": [
+      "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+    ],
+    "Figtree": [
+      "https://gunner.com/"
+    ],
+    "Gunner Kennels 2 CFF PostScript": [
+      "https://gunner.com/",
+      "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186",
+      "https://gunner.com/cdn/shop/t/879/assets/custom-style.css?v=95041672157449431171790274185"
+    ],
+    "Gunner Kennels 2 CFF PostScript\"!important": [
+      "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+    ],
+    "Gunner Kennels 2 TrueType OpenT": [
+      "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+    ],
+    "Have Heart One": [
+      "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+    ],
+    "Have Heart Swash": [
+      "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+    ],
+    "Have Heart Two": [
+      "https://gunner.com/",
+      "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186",
+      "https://gunner.com/cdn/shop/t/879/assets/custom-style.css?v=95041672157449431171790274185"
+    ],
+    "Liberation Mono": [
+      "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+    ],
+    "Menlo": [
+      "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+    ],
+    "Monaco": [
+      "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+    ],
+    "SFMono-Regular": [
+      "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+    ],
+    "math": [
+      "https://gunner.com/cdn/shop/t/879/assets/custom-style.css?v=95041672157449431171790274185"
+    ],
+    "monospace": [
+      "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+    ],
+    "sans-serif": [
+      "https://gunner.com/"
+    ],
+    "ui-monospace": [
+      "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://gunner.com/",
+      "selector": "[dir=\"rtl\"]:root",
+      "declarations": "--transform-logical-flip: -1;\n    --transform-origin-start: right;\n    --transform-origin-end: left;"
+    },
+    {
+      "source": "https://gunner.com/",
+      "selector": ":root",
+      "declarations": "--text-h0: 4rem;\n      --text-h1: 3rem;\n      --text-h2: 2.5rem;\n      --text-h3: 2rem;\n      --text-h4: 1.625rem;\n      --text-h5: 1.25rem;\n      --text-h6: 1.125rem;\n\n      --text-xs: 0.75rem;\n      --text-sm: 0.875rem;\n      --text-base: 1.0rem;\n      --text-lg: 1.25rem;\n\n      \n      --container-gutter: 2rem;\n      --section-outer-spacing-block: var(--spacing-16);\n      --section-inner-max-spacing-block: var(--spacing-12);\n      --section-inner-spacing-inline: var(--spacing-12);\n      --section-stack-spacing-block: var(--spacing-12);\n\n      \n      --grid-gutter: var(--spacing-6);\n\n      \n      --product-list-row-gap: var(--spacing-12);\n\n      \n      --input-gap: 1rem;\n      --input-heigh"
+    },
+    {
+      "source": "https://gunner.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: var(--spacing-12);\n      --section-outer-spacing-block: var(--spacing-18);\n      --section-inner-max-spacing-block: var(--spacing-16);\n      --section-inner-spacing-inline: var(--spacing-16);\n      --section-stack-spacing-block: var(--spacing-12);"
+    },
+    {
+      "source": "https://gunner.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: var(--spacing-12);\n      --section-outer-spacing-block: var(--spacing-20);\n      --section-inner-max-spacing-block: var(--spacing-16);\n      --section-inner-spacing-inline: var(--spacing-16);\n      --section-stack-spacing-block: var(--spacing-12);"
+    },
+    {
+      "source": "https://gunner.com/",
+      "selector": ":root",
+      "declarations": "--text-h0: 5rem;\n      --text-h1: 3.75rem;\n      --text-h2: 3rem;\n      --text-h3: 2.25rem;\n      --text-h4: 2rem;\n      --text-h5: 1.5rem;\n      --text-h6: 1.25rem;\n\n      --section-outer-spacing-block: var(--spacing-24);\n      --section-inner-max-spacing-block: var(--spacing-18);\n      --section-inner-spacing-inline: var(--spacing-18);"
+    },
+    {
+      "source": "https://gunner.com/",
+      "selector": ":root",
+      "declarations": "--section-outer-spacing-block: var(--spacing-24);\n      --section-inner-max-spacing-block: var(--spacing-20);\n      --section-inner-spacing-inline: var(--spacing-20);"
+    },
+    {
+      "source": "https://gunner.com/",
+      "selector": ".button:not([disabled]):hover, .btn:not([disabled]):hover, .shopify-payment-button__button--unbranded:not([disabled]):hover",
+      "declarations": "--button-background-opacity: 0.85;"
+    },
+    {
+      "source": "https://gunner.com/",
+      "selector": ".button--subdued:not([disabled]):hover",
+      "declarations": "--button-background: var(--text-color) / .05 !important;"
+    },
+    {
+      "source": "https://gunner.com/",
+      "selector": ".popup_inner .desc h1",
+      "declarations": "font-family: 'Avenir Next';\n          font-weight: 800;\n          margin-bottom: 10px;\n          font-size: 25px;"
+    },
+    {
+      "source": "https://gunner.com/",
+      "selector": "display:none;visibility:hidden\n\n  :root",
+      "declarations": "--sticky-header-enabled:1;"
+    },
+    {
+      "source": "https://gunner.com/",
+      "selector": "#shopify-section-sections--21030764642503__header",
+      "declarations": "--header-grid-template: \"main-nav logo secondary-nav\" / minmax(0, 1fr) auto minmax(0, 1fr);\n    --header-padding-block: var(--spacing-4-5);\n    --header-background-opacity: 1.0;\n    --header-background-blur-radius: 0px;\n    --header-transparent-text-color: 255 255 255;--header-logo-width: 155px;\n      --header-logo-height: 38px;position: sticky;\n    top: 0;\n    z-index: 999;"
+    },
+    {
+      "source": "https://gunner.com/",
+      "selector": "#shopify-section-sections--21030764642503__header",
+      "declarations": "--header-logo-width: 130px;\n        --header-logo-height: 32px;--header-padding-block: var(--spacing-8-5);"
+    },
+    {
+      "source": "https://gunner.com/",
+      "selector": "21030764642503__header h2,\n  #shopify-section-sections--21030764642503__header span,\n  #shopify-section-sections--21030764642503__header summary,\n  #shopify-sec",
+      "declarations": "color: #4a4e58;"
+    },
+    {
+      "source": "https://gunner.com/",
+      "selector": "#shopify-section-sections--21030764642503__header .primary_btn",
+      "declarations": "background: #ffffff;\n    color: #4a4e58;\n    border: 1px solid #4a4e5880;"
+    },
+    {
+      "source": "https://gunner.com/",
+      "selector": "#shopify-section-sections--21030764642503__header .menu_bottom li,\n  #shopify-section-sections--21030764642503__header .menu_bottom li a",
+      "declarations": "color: #4a4e5880;"
+    },
+    {
+      "source": "https://gunner.com/",
+      "selector": "#shopify-section-sections--21030764642503__header .primary_btn:hover",
+      "declarations": "background: #e9522e;\n    color: #ffffff;\n    border: 1px solid #e9522e;"
+    },
+    {
+      "source": "https://gunner.com/",
+      "selector": "#shopify-section-sections--21030764642503__header .menu_span span",
+      "declarations": "color: #e9522e;"
+    },
+    {
+      "source": "https://gunner.com/",
+      "selector": "#shopify-section-sections--21030764642503__header .header__wrapper li a:hover,\n  #shopify-section-sections--21030764642503__header .header__wrapper li a.active",
+      "declarations": "color: #e9522e;\n    border-bottom: 5px solid #e9522e;"
+    },
+    {
+      "source": "https://gunner.com/",
+      "selector": "#shopify-section-sections--21030764642503__header .menu_bottom li.active,\n    #shopify-section-sections--21030764642503__header .menu_bottom li.active a",
+      "declarations": "color: #e9522e;"
+    },
+    {
+      "source": "https://gunner.com/",
+      "selector": "#shopify-section-sections--21030764642503__header .search-input input,\n    #shopify-section-sections--21030764642503__header .search-input input::placeholder",
+      "declarations": "color: #4a4e58;"
+    },
+    {
+      "source": "https://gunner.com/",
+      "selector": "ured_product_EP7Ukg h2,\n  #custom_featured_product-template--21030767820999__gunner_featured_product_EP7Ukg span,\n  #custom_featured_product-template--210307678",
+      "declarations": "color: #4a4e58;"
+    },
+    {
+      "source": "https://gunner.com/",
+      "selector": "#custom_featured_product-template--21030767820999__gunner_featured_product_EP7Ukg h4",
+      "declarations": "color: #e9522e;"
+    },
+    {
+      "source": "https://gunner.com/",
+      "selector": "#custom_featured_product-template--21030767820999__gunner_featured_product_EP7Ukg .primary_btn",
+      "declarations": "background: #e9522e;\n    color: #ffffff;\n    border: 1px solid #e9522e;"
+    },
+    {
+      "source": "https://gunner.com/",
+      "selector": "#custom_featured_product-template--21030767820999__gunner_featured_product_EP7Ukg .primary_btn:hover",
+      "declarations": "background: #4a4e58;\n    color: #ffffff;\n    border: 1px solid #4a4e58;"
+    },
+    {
+      "source": "https://gunner.com/",
+      "selector": "r_product_feature_gAECRz a,\n  #gunner_product_feature-template--21030767820999__gunner_product_feature_gAECRz span,\n  #gunner_product_feature-template--21030767",
+      "declarations": "color: #4a4e58;"
+    },
+    {
+      "source": "https://gunner.com/",
+      "selector": "#gunner_product_feature-template--21030767820999__gunner_product_feature_gAECRz .primary_btn",
+      "declarations": "background: #e9522e;\n    color: #ffffff;\n    border: 1px solid #e9522e;"
+    },
+    {
+      "source": "https://gunner.com/",
+      "selector": "#gunner_product_feature-template--21030767820999__gunner_product_feature_gAECRz .primary_btn:hover",
+      "declarations": "background: #4a4e58;\n    color: #ffffff;\n    border: 1px solid #4a4e58;"
+    },
+    {
+      "source": "https://gunner.com/",
+      "selector": "#gunner_product_feature-template--21030767820999__gunner_product_feature_gAECRz h6",
+      "declarations": "background: #e9522e;\n    color: #ffffff;"
+    },
+    {
+      "source": "https://gunner.com/",
+      "selector": "_promo .product_col legend,\n  cart-drawer .bundle_promo legend,\n  cart-drawer .bundle_promo .product_col span,\n  cart-drawer .bundle_promo .product_col h4,\n  ca",
+      "declarations": "color: #4a4e58;"
+    },
+    {
+      "source": "https://gunner.com/",
+      "selector": "cart-drawer .personalized_button,\n  cart-drawer .promo_atc_button",
+      "declarations": "background: #e9522e;\n    color: #ffffff !important;\n    border: 1px solid #e9522e;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "GUNNER | The Safest Dog Kennels | Man's Best Friend",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gunner.com/",
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186",
+        "https://gunner.com/cdn/shop/t/879/assets/custom-style.css?v=95041672157449431171790274185"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gunner.com/",
+        "https://gunner.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186",
+        "https://gunner.com/cdn/shop/t/879/assets/custom-style.css?v=95041672157449431171790274185"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gunner.com/",
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186",
+        "https://gunner.com/cdn/shop/t/879/assets/custom-style.css?v=95041672157449431171790274185"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186",
+        "https://gunner.com/cdn/shop/t/879/assets/custom-style.css?v=95041672157449431171790274185"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gunner.com/",
+        "https://gunner.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186",
+        "https://gunner.com/cdn/shop/t/879/assets/custom-style.css?v=95041672157449431171790274185"
+      ]
+    },
+    "colors.accent-olive": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gunner.com/",
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186"
+      ]
+    },
+    "colors.border-subtle": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gunner.com/"
+      ]
+    },
+    "colors.surface-neutral": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gunner.com/",
+        "https://gunner.com/cdn/shop/t/879/assets/theme.css?v=17745923525041910641790274186",
+        "https://gunner.com/cdn/shop/t/879/assets/custom-style.css?v=95041672157449431171790274185"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.trust-bar": {
+      "status": "inferred"
+    }
+  }
+}

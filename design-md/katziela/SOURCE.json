@@ -1,0 +1,838 @@
+{
+  "source_url": "https://katziela.com",
+  "final_url": "https://katziela.com/",
+  "captured_at": "2026-09-28T09:54:59.764151+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://katziela.com",
+      "final_url": "https://katziela.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "d3c146a39d59f2f3c6f4dbd0f12b9737d4785c135361e9c674a86b1cf5b19db6",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://katziela.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://katziela.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://katziela.com/cdn/shop/t/79/assets/theme.css?v=14908925553294798231777583355",
+      "final_url": "https://katziela.com/cdn/shop/t/79/assets/theme.css?v=14908925553294798231777583355",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "66fb1a28e0a341d4129a09c1f9e21016e2bec895d00bc4dd85e0828cb0f9d5e6",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://katziela.com/cdn/shop/t/79/assets/custom.css?v=120293245891154298571786443439",
+      "final_url": "https://katziela.com/cdn/shop/t/79/assets/custom.css?v=120293245891154298571786443439",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6be9e6568efec95fc5e47351b6280b9c68be8998571106321fbb441efc1c4945",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "be10bc4b16346e787891f1da5de658505019fcd30172651891a4bf550c948e36",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/019b80c0-5ba7-77ab-a728-75e1a0ebedc6/c-edd-estimated-delivery-date-27/assets/delivery_coder.css",
+      "final_url": "https://cdn.shopify.com/extensions/019b80c0-5ba7-77ab-a728-75e1a0ebedc6/c-edd-estimated-delivery-date-27/assets/delivery_coder.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9847d386ba722896718b4a4a078a32de337d36acff6a54c55ee3d3d16aa2c175",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#eeeeee": {
+      "count": 32,
+      "sources": [
+        "https://katziela.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 23,
+      "sources": [
+        "https://katziela.com/",
+        "https://katziela.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://katziela.com/cdn/shop/t/79/assets/theme.css?v=14908925553294798231777583355",
+        "https://katziela.com/cdn/shop/t/79/assets/custom.css?v=120293245891154298571786443439",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#108474": {
+      "count": 12,
+      "sources": [
+        "https://katziela.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#000000": {
+      "count": 11,
+      "sources": [
+        "https://katziela.com/",
+        "https://katziela.com/cdn/shop/t/79/assets/theme.css?v=14908925553294798231777583355",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#00000000": {
+      "count": 11,
+      "sources": [
+        "https://katziela.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://katziela.com/cdn/shop/t/79/assets/theme.css?v=14908925553294798231777583355"
+      ]
+    },
+    "#dddddd": {
+      "count": 9,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#333333": {
+      "count": 8,
+      "sources": [
+        "https://katziela.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 7,
+      "sources": [
+        "https://katziela.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#6c848c": {
+      "count": 6,
+      "sources": [
+        "https://katziela.com/",
+        "https://katziela.com/cdn/shop/t/79/assets/custom.css?v=120293245891154298571786443439"
+      ]
+    },
+    "#555555": {
+      "count": 6,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#666666": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 2,
+      "sources": [
+        "https://katziela.com/"
+      ]
+    },
+    "#f7a627": {
+      "count": 2,
+      "sources": [
+        "https://katziela.com/"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://katziela.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://katziela.com/cdn/shop/t/79/assets/theme.css?v=14908925553294798231777583355"
+      ]
+    },
+    "#fbcd0a": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#a89cc8": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#c1e6e6": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#7b7b7b": {
+      "count": 1,
+      "sources": [
+        "https://katziela.com/"
+      ]
+    },
+    "#6b8c8c": {
+      "count": 1,
+      "sources": [
+        "https://katziela.com/"
+      ]
+    },
+    "#303030": {
+      "count": 1,
+      "sources": [
+        "https://katziela.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://katziela.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://katziela.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://katziela.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://katziela.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://katziela.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://katziela.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://katziela.com/"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 1,
+      "sources": [
+        "https://katziela.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://katziela.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://katziela.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://katziela.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://katziela.com/cdn/shop/t/79/assets/theme.css?v=14908925553294798231777583355"
+      ]
+    },
+    "#3636364d": {
+      "count": 1,
+      "sources": [
+        "https://katziela.com/cdn/shop/t/79/assets/theme.css?v=14908925553294798231777583355"
+      ]
+    },
+    "#00000066": {
+      "count": 1,
+      "sources": [
+        "https://katziela.com/cdn/shop/t/79/assets/theme.css?v=14908925553294798231777583355"
+      ]
+    },
+    "#ebf9f5": {
+      "count": 1,
+      "sources": [
+        "https://katziela.com/cdn/shop/t/79/assets/custom.css?v=120293245891154298571786443439"
+      ]
+    },
+    "#eef2ff": {
+      "count": 1,
+      "sources": [
+        "https://katziela.com/cdn/shop/t/79/assets/custom.css?v=120293245891154298571786443439"
+      ]
+    },
+    "#242424": {
+      "count": 1,
+      "sources": [
+        "https://katziela.com/cdn/shop/t/79/assets/custom.css?v=120293245891154298571786443439"
+      ]
+    },
+    "#888888": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#ffff00": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#3b5998": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#1da1f2": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#dd4b39": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#e60023": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#0073b1": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#fffb00": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#eaeaea": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#e9eaeb": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#a36710": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#d2920f": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#488282": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#4c8eda": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Baskerville": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Consolas": [
+      "https://katziela.com/cdn/shop/t/79/assets/theme.css?v=14908925553294798231777583355"
+    ],
+    "Courier New": [
+      "https://katziela.com/cdn/shop/t/79/assets/theme.css?v=14908925553294798231777583355"
+    ],
+    "Helvetica": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Jost": [
+      "https://katziela.com/"
+    ],
+    "JudgemeIcons": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons\" !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons' !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeStar": [
+      "https://katziela.com/"
+    ],
+    "JudgemeStar' !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Liberation Mono": [
+      "https://katziela.com/cdn/shop/t/79/assets/theme.css?v=14908925553294798231777583355"
+    ],
+    "Menlo": [
+      "https://katziela.com/cdn/shop/t/79/assets/theme.css?v=14908925553294798231777583355"
+    ],
+    "Monaco": [
+      "https://katziela.com/cdn/shop/t/79/assets/theme.css?v=14908925553294798231777583355"
+    ],
+    "Nunito Sans": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "SFMono-Regular": [
+      "https://katziela.com/cdn/shop/t/79/assets/theme.css?v=14908925553294798231777583355"
+    ],
+    "monospace": [
+      "https://katziela.com/cdn/shop/t/79/assets/theme.css?v=14908925553294798231777583355",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "sans-serif": [
+      "https://katziela.com/",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "ui-monospace": [
+      "https://katziela.com/cdn/shop/t/79/assets/theme.css?v=14908925553294798231777583355"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://katziela.com/",
+      "selector": "[dir=\"rtl\"]:root",
+      "declarations": "--transform-logical-flip: -1;\n    --transform-origin-start: right;\n    --transform-origin-end: left;"
+    },
+    {
+      "source": "https://katziela.com/",
+      "selector": ":root",
+      "declarations": "--text-xs: 0.75rem;\n      --text-sm: 0.8125rem;\n      --text-base: 0.875rem;\n      --text-lg: 1.0rem;\n      --text-xl: 1.25rem;\n\n      \n      --container-gutter: 2rem;"
+    },
+    {
+      "source": "https://katziela.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: 3rem;\n\n      --section-vertical-spacing: 3rem;\n      --section-vertical-spacing-tight: 3rem;\n\n      --section-stack-gap:2.25rem;\n      --section-stack-gap-tight:2.25rem;"
+    },
+    {
+      "source": "https://katziela.com/",
+      "selector": ":root",
+      "declarations": "--page-overlay: 0 0 0 / 0.4;\n\n    \n    --page-background: ;\n\n    \n    --on-sale-text: 227 44 43;\n    --on-sale-badge-background: 227 44 43;\n    --on-sale-badge-text: 255 255 255;\n    --sold-out-badge-background: 239 239 239;\n    --sold-out-badge-text: 0 0 0 / 0.65;\n    --custom-badge-background: 28 28 28;\n    --custom-badge-text: 255 255 255;\n    --star-color: 255 164 28;\n\n    \n    --success-background: 212 227 203;\n    --success-text: 48 122 7;\n    --warning-background: 253 241 224;\n    --warning-text: 237 138 0;\n    --error-background: 243 204 204;\n    --error-text: 203 43 43;"
+    },
+    {
+      "source": "https://katziela.com/",
+      "selector": ".ss-item p,.ss-item h1,.ss-item h2,.ss-item h3,.ss-item h4,.ss-item h5",
+      "declarations": "margin:0 0 10px;padding:0;color:var(--tc);line-height:var(--ss-lh)"
+    },
+    {
+      "source": "https://katziela.com/",
+      "selector": ":root",
+      "declarations": "--ss-content-vertical-align: center;--ss-content-vertical-align-mob: center;--ss-content-radius: 0;--ss-cta-margin: 20px 0;--ss-cta-wrap: wrap;--ss-cta-gap: 20px;--ss-cta-justify: center;--ss-cta-align: center;--ss-full: 1 / -1;--ss-bg-column: var(--ss-full);--ss-bg-row: var(--ss-full);--ss-content-column: m1-end / m2-start;--ss-content-row: var(--ss-full)"
+    },
+    {
+      "source": "https://katziela.com/",
+      "selector": ".ss\\:main-wrapper .ss\\:content .ss\\:content-inner h1",
+      "declarations": "font-size:var(--ss-h1);line-height:var(--ss-h1-l);font-family:var(--ss-h1-font);color:var(--ss-h1-color);font-weight:var(--ss-h1-w);margin:var(--ss-h1-ma)"
+    },
+    {
+      "source": "https://katziela.com/",
+      "selector": ".ss\\:main-wrapper .ss\\:content .ss\\:content-inner .ss\\:buttons a.ss\\:btn",
+      "declarations": "font-family:var(--ss-btn-font);padding:var(--ss-btn-padding);margin:var(--ss-btn-margin);letter-spacing:var(--ss-btn-ls);line-height:var(--ss-btn-lh);font-weight:var(--ss-btn-fw);-webkit-backdrop-filter:blur(var(--ss-btn-gauss));backdrop-filter:blur(var(--ss-btn-gauss))"
+    },
+    {
+      "source": "https://katziela.com/",
+      "selector": ":root",
+      "declarations": "--shopify-chat-bg-color: #FFFFFF;\n    --shopify-chat-text-color: #000000;\n    --shopify-chat-accent-bg-color: #000000;\n    --shopify-chat-accent-text-color: #FFFFFF;\n    --shopify-chat-activator-offset: 20px;\n\n    \n\n    --shopify-chat-activator-font-size: 16px;\n    --shopify-chat-border-radius: 16px;"
+    },
+    {
+      "source": "https://katziela.com/",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #108474;--jdgm-secondary-color: rgba(16,132,116,0.1);--jdgm-star-color: #108474;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #108474;--jdgm-paginate-color: #108474;--jdgm-border-radius: 0;--jdgm-reviewer-name-color: #108474"
+    },
+    {
+      "source": "https://katziela.com/",
+      "selector": "display:none;visibility:hidden\nposition: absolute; width: 1px; height: 1px; top: var(--header-scroll-tracker-offset, 10px); left: 0;\n\n    :root",
+      "declarations": "--announcement-bar-is-sticky: 0;--header-scroll-tracker-offset: var(--announcement-bar-height);"
+    },
+    {
+      "source": "https://katziela.com/",
+      "selector": ":root",
+      "declarations": "--header-is-sticky: 1;"
+    },
+    {
+      "source": "https://katziela.com/",
+      "selector": "#shopify-section-sections--20889631621353__header",
+      "declarations": "--header-grid: \"primary-nav logo secondary-nav\" / minmax(0, 1fr) auto minmax(0, 1fr);\n    --header-padding-block: 1rem;\n    --header-transparent-header-text-color: 255 255 255;\n    --header-separation-border-color: 48 48 48 / 0.15;\n\n    position: relative;\n    z-index: 5;"
+    },
+    {
+      "source": "https://katziela.com/",
+      "selector": "#shopify-section-sections--20889631621353__header",
+      "declarations": "--header-padding-block: 1.6rem;"
+    },
+    {
+      "source": "https://katziela.com/",
+      "selector": "#shopify-section-sections--20889631621353__header",
+      "declarations": "--header-grid: \"logo primary-nav secondary-nav\" / auto minmax(0, 1fr) auto;"
+    },
+    {
+      "source": "https://katziela.com/",
+      "selector": "#shopify-section-sections--20889631621353__header",
+      "declarations": "--header-logo-width: 120px;"
+    },
+    {
+      "source": "https://katziela.com/",
+      "selector": "#shopify-section-sections--20889631621353__header",
+      "declarations": "--header-logo-width: 150px;"
+    },
+    {
+      "source": "https://katziela.com/",
+      "selector": ".secondary-slide .slideshow__slide-content .button",
+      "declarations": "color: #1c1c1c;\n  font-size: 16px;\n  font-weight: 700;\n  background: #F7A627;\n  border-color: #F7A627;"
+    },
+    {
+      "source": "https://katziela.com/",
+      "selector": ".secondary-slide .slideshow__slide-content .button:hover",
+      "declarations": "color: #fff;"
+    },
+    {
+      "source": "https://katziela.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://katziela.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://katziela.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://katziela.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://katziela.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://katziela.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://katziela.com/cdn/shop/t/79/assets/theme.css?v=14908925553294798231777583355",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;font-weight:inherit;font-style:inherit;line-height:inherit;text-transform:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://katziela.com/cdn/shop/t/79/assets/theme.css?v=14908925553294798231777583355",
+      "selector": "button,[type=button],[type=reset],[type=submit]",
+      "declarations": "-webkit-appearance:button;background-color:#0000;background-image:none"
+    },
+    {
+      "source": "https://katziela.com/cdn/shop/t/79/assets/theme.css?v=14908925553294798231777583355",
+      "selector": "button,label,summary,[role=button],[type=checkbox],[type=radio]",
+      "declarations": "-webkit-tap-highlight-color:transparent;touch-action:manipulation;cursor:pointer"
+    },
+    {
+      "source": "https://katziela.com/cdn/shop/t/79/assets/theme.css?v=14908925553294798231777583355",
+      "selector": ".color-scheme--with-image-overlay .button--outline",
+      "declarations": "--border-color: var(--text-color)"
+    },
+    {
+      "source": "https://katziela.com/cdn/shop/t/79/assets/theme.css?v=14908925553294798231777583355",
+      "selector": ".button,.shopify-challenge__button,.shopify-payment-button__button--unbranded",
+      "declarations": "--initial-gradient: linear-gradient(rgb(var(--button-background)), rgb(var(--button-background)));--hover-gradient: linear-gradient(transparent, transparent);--initial-background-position: var(--transform-origin-end);--hover-background-position: var(--transform-origin-start);-webkit-appearance:none;appearance:none;text-transform:var(--button-text-transform);font:var(--button-font);letter-spacing:var(--button-letter-spacing);text-shadow:none;text-align:center;cursor:pointer;color:rgb(var(--button-text-color));border:1px solid rgb(var(--button-outline-color, var(--button-background)));border-radius:var(--button-border-radius);background-color:#0000;background-image:var(--initial-gradient),var("
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Airline-Compliant Pet Carriers & Everyday Supplies | Free US Shipping | Comfortable For Pets | Easy Returns | Luxury Cat & Dog Carrier Bags | Pet Supply Store | Shop Katziela Help Text",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://katziela.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://katziela.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://katziela.com/",
+        "https://katziela.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://katziela.com/cdn/shop/t/79/assets/theme.css?v=14908925553294798231777583355",
+        "https://katziela.com/cdn/shop/t/79/assets/custom.css?v=120293245891154298571786443439",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://katziela.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://katziela.com/",
+        "https://katziela.com/cdn/shop/t/79/assets/custom.css?v=120293245891154298571786443439"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://katziela.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://katziela.com/",
+        "https://katziela.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://katziela.com/cdn/shop/t/79/assets/theme.css?v=14908925553294798231777583355",
+        "https://katziela.com/cdn/shop/t/79/assets/custom.css?v=120293245891154298571786443439",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.accent-warm": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://katziela.com/"
+      ]
+    },
+    "colors.accent-highlight": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.tint-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://katziela.com/cdn/shop/t/79/assets/custom.css?v=120293245891154298571786443439"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://katziela.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.collection-tile": {
+      "status": "inferred"
+    }
+  }
+}

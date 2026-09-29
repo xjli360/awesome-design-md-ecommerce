@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Lovevery
-description: A child-development brand that uses color as a cognitive signal, where #131c66 (a deep navy) anchors the system not as a background but as a primary action color — an unusual choice for a brand aimed at babies and toddlers, who are typically surrounded by pastels. The navy sits alongside #b85bbf (a warm magenta), #bbdc00 (a chartreuse green), and #ff9955 (a tangerine orange), creating a palette that feels like a carefully curated toy box rather than a nursery. The brand's typography runs BrownPro across headings and body text, a rounded geometric sans-serif that reads as friendly without being childish — it has the weight and structure of a serious educational tool. Product photography is the real hero: crisp, well-lit images of wooden toys and play kits on white backgrounds, with the occasional #f7f3f7 (a blush-tinted off-white) surface to soften the experience. The site uses generous whitespace and {rounded.lg} corners on cards and buttons, creating a calm, unhurried browsing rhythm that mirrors the brand's "stage-based play" philosophy — nothing is rushed, everything has its moment. The checkout flow, powered by Shopify, introduces a secondary blue (#202ea8) for payment actions, but the core brand navy remains the dominant interactive color across the main shopping experience.
+name: "Lovevery"
+source_url: "https://lovevery.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A child-development brand that uses color as a cognitive signal, where #131c66 (a deep navy) anchors the system not as a background but as a primary action color — an unusual choice for a brand aimed at babies and toddlers, who are typically surrounded by pastels. The navy sits alongside #b85bbf (a warm magenta), #bbdc00 (a chartreuse green), and #ff9955 (a tangerine orange), creating a palette that feels like a carefully curated toy box rather than a nursery. The brand's typography runs BrownPro across headings and body text, a rounded geometric sans-serif that reads as friendly without being childish — it has the weight and structure of a serious educational tool. Product photography is the real hero: crisp, well-lit images of wooden toys and play kits on white backgrounds, with the occasional #f7f3f7 (a blush-tinted off-white) surface to soften the experience. The site uses generous whitespace and {rounded.lg} corners on cards and buttons, creating a calm, unhurried browsing rhythm that mirrors the brand's "stage-based play" philosophy — nothing is rushed, everything has its moment. The checkout flow, powered by Shopify, introduces a secondary blue (#202ea8) for payment actions, but the core brand navy remains the dominant interactive color across the main shopping experience.
 
 colors:
   primary: "#131c66"
@@ -378,6 +382,8 @@ components:
 - Product images switch from landscape to square aspect ratio on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted color list includes many Shopify checkout and payment widget colors (e.g., #6366f1, #818cf8, #a5b4fc, #c7d2fe, #e0e7ff, #eef2ff are likely Shopify Pay or Klarna/Afterpay brand colors). These have been excluded from the core palette but may appear in checkout flows.
 - The font-family declarations included "BradfordLLWeb-MediumItalic" which may be used for specific editorial content or pull quotes — not included in the core typography system as it wasn't confirmed as a primary face.

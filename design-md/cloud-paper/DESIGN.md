@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Cloud Paper
-description: A marigold #ffbd59 voltage cuts across a deep-indigo #232145 canvas — the brand's signature move is to let a single warm accent carry all interactive energy against a dark, almost nocturnal frame. Cloud Paper sells bamboo paper products (toilet paper, paper towels, tissues) through a Shopify storefront that reads more like a mission-driven publication than a CPG commodity site. The palette is deliberately restrained: a soft mint #ace6ce and its deeper sibling #86dbb8 appear in eco-badges and sustainability callouts, while #f7ebdb and #f9eddd warm up product photography backgrounds and testimonial cards. The brand avoids hard corners — buttons and cards use {rounded.sm} to {rounded.md} radii, and the primary CTA sits in that signature #ffbd59 with white text, creating a visual that says "approachable, not aggressive." Typography relies on Gilroy-medium for most body and heading text, with a clean sans-serif stack underneath. The overall mood is one of calm conviction: the indigo background on the top nav and footer creates a sense of depth and seriousness, while the marigold buttons and mint accents keep the experience from feeling heavy. Cloud Paper's design system is built around trust signals — plastic-free badges, tree-saving counters, and subscription toggle pills — all rendered in that same restrained palette so nothing competes for attention except the product itself.
+name: "Cloud Paper"
+source_url: "https://cloudpaper.co"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A marigold #ffbd59 voltage cuts across a deep-indigo #232145 canvas — the brand's signature move is to let a single warm accent carry all interactive energy against a dark, almost nocturnal frame. Cloud Paper sells bamboo paper products (toilet paper, paper towels, tissues) through a Shopify storefront that reads more like a mission-driven publication than a CPG commodity site. The palette is deliberately restrained: a soft mint #ace6ce and its deeper sibling #86dbb8 appear in eco-badges and sustainability callouts, while #f7ebdb and #f9eddd warm up product photography backgrounds and testimonial cards. The brand avoids hard corners — buttons and cards use {rounded.sm} to {rounded.md} radii, and the primary CTA sits in that signature #ffbd59 with white text, creating a visual that says "approachable, not aggressive." Typography relies on Gilroy-medium for most body and heading text, with a clean sans-serif stack underneath. The overall mood is one of calm conviction: the indigo background on the top nav and footer creates a sense of depth and seriousness, while the marigold buttons and mint accents keep the experience from feeling heavy. Cloud Paper's design system is built around trust signals — plastic-free badges, tree-saving counters, and subscription toggle pills — all rendered in that same restrained palette so nothing competes for attention except the product itself.
 
 colors:
   primary: "#ffbd59"
@@ -378,6 +382,8 @@ components:
 - Footer link columns collapse to single column below 744px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted font-family list only included "Gilroy-medium" and "swiper-icons" — Gilroy is likely used for headings and body, but weight variants (light, regular, semibold, bold) could not be confirmed. The system assumes 500-weight for most text based on the "medium" designation, but actual weight usage may vary.
 - Hover states for secondary buttons, text inputs, and nav links could not be extracted — the active/disabled states for primary buttons are inferred from common patterns, not verified from the live site.

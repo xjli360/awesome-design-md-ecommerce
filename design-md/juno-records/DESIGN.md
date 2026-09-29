@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Juno Records
-description: A dense, information-rich marketplace for dance music vinyl and digital, built on a single high-contrast axis: #313131 ink on white canvas, with no decorative color system to soften the transaction. The site reads like a warehouse racking system — every page is a grid of small cover thumbnails, price tags, genre badges, and stock-status indicators, all set in the system sans-serif stack at modest sizes (13–14px body). There are no hero images, no lifestyle photography, no brand illustrations; the product jacket is the hero. The search bar sits permanently at the top with a dropdown that surfaces genres, labels, and artists before you finish typing — a power-user tool, not a discovery portal. Buttons are tight rectangles (`{rounded.xs}` ~4px) with #313131 fill and white text, and the same shape is reused for genre pills, cart actions, and filter toggles, creating a consistent mechanical rhythm. The only visual relief comes from the record sleeves themselves — a thousand different colors fighting for attention in a 4-column grid — and from the yellow "SALE" badges and orange "NEW RELEASES" tags that break the monochrome with urgency signals. The typography is purely functional: weight 400 body, weight 600 for headings, no display sizes above 24px, no letter-spacing tricks. This is a site built for people who already know what they want — crate diggers, DJs, collectors — and it optimizes for scan speed over persuasion. The footer is a dense column of links, payment icons, and social handles, with no decorative dividers; the hairline is a thin #dcdcdc line that separates sections without ceremony. Juno Records doesn't sell a vibe — it sells records, and the design gets out of the way.
+name: "Juno Records"
+source_url: "https://www.juno.co.uk"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A dense, information-rich marketplace for dance music vinyl and digital, built on a single high-contrast axis: #313131 ink on white canvas, with no decorative color system to soften the transaction. The site reads like a warehouse racking system — every page is a grid of small cover thumbnails, price tags, genre badges, and stock-status indicators, all set in the system sans-serif stack at modest sizes (13–14px body). There are no hero images, no lifestyle photography, no brand illustrations; the product jacket is the hero. The search bar sits permanently at the top with a dropdown that surfaces genres, labels, and artists before you finish typing — a power-user tool, not a discovery portal. Buttons are tight rectangles (`{rounded.xs}` ~4px) with #313131 fill and white text, and the same shape is reused for genre pills, cart actions, and filter toggles, creating a consistent mechanical rhythm. The only visual relief comes from the record sleeves themselves — a thousand different colors fighting for attention in a 4-column grid — and from the yellow "SALE" badges and orange "NEW RELEASES" tags that break the monochrome with urgency signals. The typography is purely functional: weight 400 body, weight 600 for headings, no display sizes above 24px, no letter-spacing tricks. This is a site built for people who already know what they want — crate diggers, DJs, collectors — and it optimizes for scan speed over persuasion. The footer is a dense column of links, payment icons, and social handles, with no decorative dividers; the hairline is a thin #dcdcdc line that separates sections without ceremony. Juno Records doesn't sell a vibe — it sells records, and the design gets out of the way.
 
 colors:
   primary: "#313131"
@@ -538,6 +542,8 @@ components:
 - Footer: On mobile, footer sections collapse into accordion panels with expand/collapse toggles.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one hex color (#313131) was reliably extracted from the live site. The full color palette (badge colors, stock indicators, link colors, star rating) has been inferred from common Juno Records patterns and standard e-commerce conventions, but has not been verified against the live site's CSS.
 - No secondary or accent brand color could be extracted. The site appears to be intentionally monochrome, with color introduced only through product imagery and status badges.

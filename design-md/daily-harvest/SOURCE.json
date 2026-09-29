@@ -1,0 +1,1175 @@
+{
+  "source_url": "https://daily-harvest.com",
+  "final_url": "https://daily-harvest.com/",
+  "captured_at": "2026-09-29T04:10:34.262418+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://daily-harvest.com",
+      "final_url": "https://daily-harvest.com/",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "050aaf8e912a07b31553c8c78c575aca84bec7f2d2317c15dbc4b147259c89bf",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://daily-harvest.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://daily-harvest.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "rendered-style-1.css"
+    },
+    {
+      "url": "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+      "final_url": "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1ab837c817ec41f4825b0a612bd299f0dfd6f7bcf3a34941b396ba721281d451",
+      "snapshot": "rendered-style-2.css"
+    },
+    {
+      "url": "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-cup-story.css?v=46526109752274391371790100019",
+      "final_url": "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-cup-story.css?v=46526109752274391371790100019",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c9f85f98d2ef5927d3ac7622711fce1a281bd9395be3318d04540e0b31be5e65",
+      "snapshot": "rendered-style-3.css"
+    },
+    {
+      "url": "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-dietitian.css?v=13567132013382361621782941793",
+      "final_url": "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-dietitian.css?v=13567132013382361621782941793",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0746ba7c39a78b4e149c3ff5b7310c778d1c269944706d72b13475ee41743166",
+      "snapshot": "rendered-style-4.css"
+    },
+    {
+      "url": "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-bundles.css?v=99256047045816976101783393511",
+      "final_url": "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-bundles.css?v=99256047045816976101783393511",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "78f617ec6284f90b72728a1804cc9251fd8d98b5aadac0d33af617be3a5f0bb4",
+      "snapshot": "rendered-style-5.css"
+    },
+    {
+      "url": "https://transcend-cdn.com/cm/72c8c19f-2873-48b3-9efd-49c1c04c3de0/cm.css",
+      "final_url": "https://transcend-cdn.com/cm/72c8c19f-2873-48b3-9efd-49c1c04c3de0/cm.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "97279a05987f3366f6c7d0fb7e5ed1fdf1d888dbee606b1d80244fef9e1840ad",
+      "snapshot": "rendered-style-6.css"
+    },
+    {
+      "url": "https://daily-harvest.com/#computed-style-snapshot",
+      "final_url": "https://daily-harvest.com/#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "fdacb6db2deeef1ade2ae1b59701ea9f874cafc5d71051d39e85eb44eefa6dcf",
+      "snapshot": "rendered-style-7.css"
+    }
+  ],
+  "colors": {
+    "#e3e5e6": {
+      "count": 120,
+      "sources": [
+        "https://daily-harvest.com/",
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+        "https://daily-harvest.com/#computed-style-snapshot"
+      ]
+    },
+    "#000000": {
+      "count": 103,
+      "sources": [
+        "https://daily-harvest.com/",
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+        "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-cup-story.css?v=46526109752274391371790100019",
+        "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-bundles.css?v=99256047045816976101783393511",
+        "https://daily-harvest.com/#computed-style-snapshot"
+      ]
+    },
+    "#1f1f1f": {
+      "count": 81,
+      "sources": [
+        "https://daily-harvest.com/",
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+        "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-cup-story.css?v=46526109752274391371790100019",
+        "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-bundles.css?v=99256047045816976101783393511",
+        "https://daily-harvest.com/#computed-style-snapshot"
+      ]
+    },
+    "#00000000": {
+      "count": 50,
+      "sources": [
+        "https://daily-harvest.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#fdf6f3": {
+      "count": 45,
+      "sources": [
+        "https://daily-harvest.com/",
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+        "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-cup-story.css?v=46526109752274391371790100019",
+        "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-bundles.css?v=99256047045816976101783393511",
+        "https://daily-harvest.com/#computed-style-snapshot"
+      ]
+    },
+    "#ffffff": {
+      "count": 31,
+      "sources": [
+        "https://daily-harvest.com/",
+        "https://daily-harvest.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+        "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-bundles.css?v=99256047045816976101783393511",
+        "https://transcend-cdn.com/cm/72c8c19f-2873-48b3-9efd-49c1c04c3de0/cm.css",
+        "https://daily-harvest.com/#computed-style-snapshot"
+      ]
+    },
+    "#1f1f1f14": {
+      "count": 17,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+        "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-cup-story.css?v=46526109752274391371790100019"
+      ]
+    },
+    "#ffffffeb": {
+      "count": 15,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#7e7f80": {
+      "count": 12,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#090909": {
+      "count": 8,
+      "sources": [
+        "https://daily-harvest.com/"
+      ]
+    },
+    "#e18f0066": {
+      "count": 8,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#cacccc": {
+      "count": 6,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#1f1f1f0f": {
+      "count": 5,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+        "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-dietitian.css?v=13567132013382361621782941793"
+      ]
+    },
+    "#191a1a99": {
+      "count": 5,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 4,
+      "sources": [
+        "https://daily-harvest.com/",
+        "https://daily-harvest.com/#computed-style-snapshot"
+      ]
+    },
+    "#ec9808": {
+      "count": 4,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+        "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-cup-story.css?v=46526109752274391371790100019",
+        "https://daily-harvest.com/#computed-style-snapshot"
+      ]
+    },
+    "#0000001a": {
+      "count": 4,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 4,
+      "sources": [
+        "https://transcend-cdn.com/cm/72c8c19f-2873-48b3-9efd-49c1c04c3de0/cm.css"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 4,
+      "sources": [
+        "https://transcend-cdn.com/cm/72c8c19f-2873-48b3-9efd-49c1c04c3de0/cm.css"
+      ]
+    },
+    "#f5f0e7": {
+      "count": 3,
+      "sources": [
+        "https://daily-harvest.com/",
+        "https://daily-harvest.com/#computed-style-snapshot"
+      ]
+    },
+    "#00000033": {
+      "count": 3,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#00000080": {
+      "count": 3,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#fffbf7": {
+      "count": 3,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-cup-story.css?v=46526109752274391371790100019",
+        "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-bundles.css?v=99256047045816976101783393511",
+        "https://daily-harvest.com/#computed-style-snapshot"
+      ]
+    },
+    "#efe3d7": {
+      "count": 3,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-cup-story.css?v=46526109752274391371790100019",
+        "https://daily-harvest.com/#computed-style-snapshot"
+      ]
+    },
+    "#010101": {
+      "count": 3,
+      "sources": [
+        "https://transcend-cdn.com/cm/72c8c19f-2873-48b3-9efd-49c1c04c3de0/cm.css"
+      ]
+    },
+    "#d8d8d8": {
+      "count": 3,
+      "sources": [
+        "https://transcend-cdn.com/cm/72c8c19f-2873-48b3-9efd-49c1c04c3de0/cm.css"
+      ]
+    },
+    "#cdcdcd": {
+      "count": 2,
+      "sources": [
+        "https://daily-harvest.com/"
+      ]
+    },
+    "#298266": {
+      "count": 2,
+      "sources": [
+        "https://daily-harvest.com/"
+      ]
+    },
+    "#e8f0b4": {
+      "count": 2,
+      "sources": [
+        "https://daily-harvest.com/",
+        "https://daily-harvest.com/#computed-style-snapshot"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://daily-harvest.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#ffffffe6": {
+      "count": 2,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#414042": {
+      "count": 2,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#00000047": {
+      "count": 2,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#d88800": {
+      "count": 2,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+        "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-cup-story.css?v=46526109752274391371790100019"
+      ]
+    },
+    "#c7b6a4": {
+      "count": 2,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#fff7d9": {
+      "count": 2,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#fff9f5": {
+      "count": 2,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#00000099": {
+      "count": 2,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#1f1f1fb3": {
+      "count": 2,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-dietitian.css?v=13567132013382361621782941793",
+        "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-bundles.css?v=99256047045816976101783393511"
+      ]
+    },
+    "#1f1f1f1f": {
+      "count": 2,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-bundles.css?v=99256047045816976101783393511"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/"
+      ]
+    },
+    "#c3e7c3": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/"
+      ]
+    },
+    "#fdfaf3": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/"
+      ]
+    },
+    "#467c8d": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/"
+      ]
+    },
+    "#6377db": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#ffffff24": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#00000061": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#f5f7f7": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#3b82f680": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#9ca3af": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#7e7f8033": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#7e7f8066": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#fdf6f326": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#fdf6f34d": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#00000026": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#dc5742": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#f5f0e8": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#f8efe7": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#f7f2e6": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#329f4233": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#329f4240": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#e3e5e699": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#00000040": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#000000cc": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#386115": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#fdf6f399": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#fdf6f3b3": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#191a1a1a": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#0000000d": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#0000000f": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#00ff00": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#ffcc00": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#00000066": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#424906": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#191a1a59": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#000000e6": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#fef9f3": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "#f0e6dc": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-cup-story.css?v=46526109752274391371790100019"
+      ]
+    },
+    "#fdf6f39e": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-cup-story.css?v=46526109752274391371790100019"
+      ]
+    },
+    "#1f1f1f73": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-dietitian.css?v=13567132013382361621782941793"
+      ]
+    },
+    "#1f1f1f33": {
+      "count": 1,
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-bundles.css?v=99256047045816976101783393511"
+      ]
+    },
+    "#ececec": {
+      "count": 1,
+      "sources": [
+        "https://transcend-cdn.com/cm/72c8c19f-2873-48b3-9efd-49c1c04c3de0/cm.css"
+      ]
+    },
+    "#7e8793": {
+      "count": 1,
+      "sources": [
+        "https://transcend-cdn.com/cm/72c8c19f-2873-48b3-9efd-49c1c04c3de0/cm.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+      "https://daily-harvest.com/#computed-style-snapshot"
+    ],
+    "Apple Color Emoji": [
+      "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+    ],
+    "Arial": [
+      "https://daily-harvest.com/",
+      "https://daily-harvest.com/#computed-style-snapshot"
+    ],
+    "Arial Narrow": [
+      "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-bundles.css?v=99256047045816976101783393511",
+      "https://daily-harvest.com/#computed-style-snapshot"
+    ],
+    "BlinkMacSystemFont": [
+      "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+    ],
+    "Consolas": [
+      "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+    ],
+    "Courier New": [
+      "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+    ],
+    "Futura": [
+      "https://daily-harvest.com/",
+      "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+      "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-bundles.css?v=99256047045816976101783393511",
+      "https://daily-harvest.com/#computed-style-snapshot"
+    ],
+    "Futura PT": [
+      "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-bundles.css?v=99256047045816976101783393511",
+      "https://daily-harvest.com/#computed-style-snapshot"
+    ],
+    "Futura Std": [
+      "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-bundles.css?v=99256047045816976101783393511",
+      "https://daily-harvest.com/#computed-style-snapshot"
+    ],
+    "FuturaCondensed": [
+      "https://daily-harvest.com/",
+      "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+      "https://daily-harvest.com/#computed-style-snapshot"
+    ],
+    "GTStandard-M": [
+      "https://daily-harvest.com/"
+    ],
+    "Helvetica": [
+      "https://daily-harvest.com/"
+    ],
+    "Liberation Mono": [
+      "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+    ],
+    "Menlo": [
+      "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+    ],
+    "Monaco": [
+      "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+    ],
+    "Noto Color Emoji": [
+      "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+    ],
+    "PlayfairDisplay": [
+      "https://daily-harvest.com/",
+      "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+      "https://daily-harvest.com/#computed-style-snapshot"
+    ],
+    "Roboto": [
+      "https://daily-harvest.com/"
+    ],
+    "SFMono-Regular": [
+      "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+    ],
+    "Sailec": [
+      "https://daily-harvest.com/",
+      "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+      "https://transcend-cdn.com/cm/72c8c19f-2873-48b3-9efd-49c1c04c3de0/cm.css",
+      "https://daily-harvest.com/#computed-style-snapshot"
+    ],
+    "Segoe UI Emoji": [
+      "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+    ],
+    "Segoe UI Symbol": [
+      "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+    ],
+    "Trebuchet MS": [
+      "https://daily-harvest.com/",
+      "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-bundles.css?v=99256047045816976101783393511",
+      "https://daily-harvest.com/#computed-style-snapshot"
+    ],
+    "futura": [
+      "https://daily-harvest.com/"
+    ],
+    "helvetica": [
+      "https://transcend-cdn.com/cm/72c8c19f-2873-48b3-9efd-49c1c04c3de0/cm.css"
+    ],
+    "helvetica neue": [
+      "https://transcend-cdn.com/cm/72c8c19f-2873-48b3-9efd-49c1c04c3de0/cm.css"
+    ],
+    "monospace": [
+      "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+    ],
+    "sans-serif": [
+      "https://daily-harvest.com/",
+      "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+      "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-bundles.css?v=99256047045816976101783393511",
+      "https://transcend-cdn.com/cm/72c8c19f-2873-48b3-9efd-49c1c04c3de0/cm.css",
+      "https://daily-harvest.com/#computed-style-snapshot"
+    ],
+    "system-ui": [
+      "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+      "https://daily-harvest.com/#computed-style-snapshot"
+    ],
+    "ui-monospace": [
+      "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+    ],
+    "ui-sans-serif": [
+      "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://daily-harvest.com/",
+      "selector": "--category-nav-height: 106px; --header-spacer: 106px;\n\n  @font-face",
+      "declarations": "font-family: 'FuturaCondensed';\n    src: url('https://cdn.shopify.com/s/files/1/0732/7567/0826/files/Futura-Standard-Condensed.woff2?v=1696953031')\n      format('woff2');\n    font-weight: 400;\n    font-style: normal;\n    font-stretch: condensed;\n    font-display: swap;"
+    },
+    {
+      "source": "https://daily-harvest.com/",
+      "selector": ":root",
+      "declarations": "--kl-reviews-reviews-primary-font-font-weight: inherit;\n    --kl-reviews-reviews-seconday-font-font-weight: inherit;\n    --kl-reviews-reviews-button-corner-radius: 9999px;\n    --kl-reviews-reviews-button-font-font-weight: inherit;"
+    },
+    {
+      "source": "https://daily-harvest.com/",
+      "selector": ".kl_reviews__reviews_list.kl_reviews__reviews_list.kl_reviews__reviews_list button.kl_reviews__list__tab",
+      "declarations": "font-family: futura;\n    font-weight: 500;"
+    },
+    {
+      "source": "https://daily-harvest.com/",
+      "selector": "og-offer og-optout-button,\nog-offer og-optin-button",
+      "declarations": "font-family: Roboto, Helvetica, sans-serif;\n  font-size: 16px;"
+    },
+    {
+      "source": "https://daily-harvest.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://daily-harvest.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://daily-harvest.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://daily-harvest.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://daily-harvest.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://daily-harvest.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+      "selector": ".swiper-button-prev,.swiper-button-next",
+      "declarations": "z-index:1;--tw-translate-y:-50%;width:3rem;height:3rem;transform:translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));--tw-border-opacity:1;border-style:solid;border-width:1px;border-color:rgb(227 229 230/var(--tw-border-opacity,1));--tw-text-opacity:1;color:rgb(0 0 0/var(--tw-text-opacity,1));background-color:#ffffffe6;background-image:url(\"data:image/svg+xml;utf8,<svg xmlns=\\\"http://www.w3.org/2000/svg\\\" width=\\\"20\\\" height=\\\"20\\\" fill=\\\"none\\\"><path fill-rule=\\\"evenodd\\\" clip-rule=\\\"evenodd\\\" d=\\\"M17.56 6.887a.208.208 0 0 0 0-.295l-.588-.59a.208.208 0 0 0-.294 0l"
+    },
+    {
+      "source": "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+      "selector": ".swiper-button-prev",
+      "declarations": "--tw-rotate:90deg;transform:translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));left:0"
+    },
+    {
+      "source": "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+      "selector": ".swiper-button-next",
+      "declarations": "--tw-rotate:-90deg;transform:translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));right:1rem"
+    },
+    {
+      "source": "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+      "selector": ".button-fixed",
+      "declarations": "--tw-bg-opacity:1;background-color:rgb(255 255 255/var(--tw-bg-opacity,1));padding-top:1.5rem;padding-bottom:1.5rem;animation:.25s linear appear"
+    },
+    {
+      "source": "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+      "selector": ".header-transparent:not(.header-solid) .button-fixed",
+      "declarations": "background-color:#0000"
+    },
+    {
+      "source": "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+      "selector": ".header-transparent.header-solid .button-fixed",
+      "declarations": "-webkit-backdrop-filter:blur(12px)saturate(1.4);background-color:#ffffffeb;transition-delay:0s;box-shadow:0 1px #1f1f1f14"
+    },
+    {
+      "source": "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+      "selector": "(.site-header__nav:hover) .button-fixed,.header-transparent:has(.site-header__nav [data-nav-item]:focus-within) .button-fixed,.header-transparent:has(.site-head",
+      "declarations": "-webkit-backdrop-filter:blur(12px)saturate(1.4);background-color:#ffffffeb;box-shadow:0 1px #1f1f1f14"
+    },
+    {
+      "source": "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+      "selector": ".header-transparent:has(.site-header__nav [data-megamenu]:popover-open) .button-fixed",
+      "declarations": "-webkit-backdrop-filter:blur(12px)saturate(1.4);background-color:#ffffffeb;box-shadow:0 1px #1f1f1f14"
+    },
+    {
+      "source": "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+      "selector": ".header-transparent:not(.header-solid),.header-transparent:not(.header-solid) hh-header,.header-transparent:not(.header-solid) .bg-white",
+      "declarations": "background-color:#0000!important"
+    },
+    {
+      "source": "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+      "selector": ".header-transparent:not(.header-solid)",
+      "declarations": "--header-text-color:#fdf6f3;--header-text-shadow:0 1px 3px #00000047;--header-icon-filter:drop-shadow(0 1px 2px #00000047);--header-icon-hover-bg:#ffffff24"
+    },
+    {
+      "source": "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+      "selector": ".header-transparent.header-solid,.header-transparent.header-solid hh-header,.header-transparent.header-solid .bg-white",
+      "declarations": "-webkit-backdrop-filter:blur(12px)saturate(1.4);transition-delay:0s;box-shadow:0 1px #1f1f1f14;background-color:#ffffffeb!important"
+    },
+    {
+      "source": "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+      "selector": ".header-transparent.header-solid",
+      "declarations": "--header-text-color:#1f1f1f;--header-text-shadow:none;--header-icon-filter:none;--header-icon-hover-bg:#1f1f1f0f"
+    },
+    {
+      "source": "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+      "selector": ".site-header__hamburger",
+      "declarations": "cursor:pointer;width:36px;height:36px;color:var(--header-text-color,#1f1f1f);filter:var(--header-icon-filter,none);background:0 0;border:none;place-items:center;transition:color .3s,filter .3s;display:grid"
+    },
+    {
+      "source": "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+      "selector": ".site-header__link",
+      "declarations": "letter-spacing:-.28px;color:var(--header-text-color,#1f1f1f);text-shadow:var(--header-text-shadow,none);white-space:nowrap;font-family:Sailec,-apple-system,BlinkMacSystemFont,sans-serif;font-size:14px;font-weight:500;text-decoration:none;transition:color .3s,text-shadow .3s;position:relative"
+    },
+    {
+      "source": "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+      "selector": ".site-header__icon-btn",
+      "declarations": "width:36px;height:36px;color:var(--header-text-color,#1f1f1f);filter:var(--header-icon-filter,none);cursor:pointer;background:0 0;border:none;border-radius:50%;place-items:center;transition:background .2s,color .3s,filter .3s;display:grid"
+    },
+    {
+      "source": "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+      "selector": ".site-header__cta",
+      "declarations": "color:#1f1f1f;letter-spacing:.5px;text-transform:uppercase;white-space:nowrap;background:#ec9808;border-radius:23px;justify-content:center;align-items:center;min-width:153px;height:40px;padding:1px 20px 0;font-family:Sailec,-apple-system,BlinkMacSystemFont,sans-serif;font-size:12px;font-weight:500;text-decoration:none;transition:background .2s,transform .2s;display:inline-flex"
+    },
+    {
+      "source": "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+      "selector": ".site-header__cart-badge",
+      "declarations": "color:#1f1f1f;background:#ec9808;border-radius:999px;place-items:center;min-width:15px;height:15px;padding:0 3px;font-size:9px;font-weight:700;line-height:1;display:grid;position:absolute;top:2px;right:2px"
+    },
+    {
+      "source": "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+      "selector": ".site-header__nav [data-nav-btn],.site-header__nav [data-nav-item]>a:not(.lg\\:hidden)",
+      "declarations": "letter-spacing:-.28px;color:var(--header-text-color,#1f1f1f);text-shadow:var(--header-text-shadow,none);white-space:nowrap;cursor:pointer;background:0 0;font-family:Sailec,-apple-system,BlinkMacSystemFont,sans-serif;font-size:14px;font-weight:500;line-height:1;text-decoration:none;transition:color .3s,text-shadow .3s;position:relative;border:0!important;margin:0!important;padding:0 2px!important"
+    },
+    {
+      "source": "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+      "selector": ":is(.header-transparent:has(.site-header__nav:hover),.header-transparent:has(.site-header__nav [data-nav-item]:focus-within),.header-transparent:has(.site-heade",
+      "declarations": "--header-text-color:#1f1f1f;--header-text-shadow:none;--header-icon-filter:none;--header-icon-hover-bg:#1f1f1f0f"
+    },
+    {
+      "source": "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+      "selector": ".header-transparent:has(.site-header__nav:hover) hh-header",
+      "declarations": "-webkit-backdrop-filter:blur(12px)saturate(1.4);box-shadow:0 1px #1f1f1f14;background-color:#ffffffeb!important"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "Organic Smoothies, Oat Bowls & Elixirs | Daily Harvest",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "9bc358e45b70ce13d25e72fac495d51c0f7e90d7389f731c1fc1d1537ad7d8c4"
+    }
+  ],
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://daily-harvest.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://daily-harvest.com/",
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+        "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-cup-story.css?v=46526109752274391371790100019",
+        "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-bundles.css?v=99256047045816976101783393511",
+        "https://daily-harvest.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://daily-harvest.com/",
+        "https://daily-harvest.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+        "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-bundles.css?v=99256047045816976101783393511",
+        "https://transcend-cdn.com/cm/72c8c19f-2873-48b3-9efd-49c1c04c3de0/cm.css",
+        "https://daily-harvest.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://daily-harvest.com/",
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+        "https://daily-harvest.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://daily-harvest.com/",
+        "https://daily-harvest.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://daily-harvest.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://daily-harvest.com/",
+        "https://daily-harvest.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+        "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-bundles.css?v=99256047045816976101783393511",
+        "https://transcend-cdn.com/cm/72c8c19f-2873-48b3-9efd-49c1c04c3de0/cm.css",
+        "https://daily-harvest.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.accent-warm": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693",
+        "https://daily-harvest.com/cdn/shop/t/303/assets/hp-redesign-cup-story.css?v=46526109752274391371790100019",
+        "https://daily-harvest.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.accent-coral": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://daily-harvest.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-blue-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://daily-harvest.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.badge-green-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://daily-harvest.com/"
+      ]
+    },
+    "colors.badge-yellow-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "colors.overlay-scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://daily-harvest.com/cdn/shop/t/303/assets/-main.css?v=98366133962768516441790613693"
+      ]
+    },
+    "colors.skeleton": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://daily-harvest.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.button-checkout": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.nutrition-tag": {
+      "status": "inferred"
+    }
+  }
+}

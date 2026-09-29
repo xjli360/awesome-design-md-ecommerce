@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Schwank
-description: Burnt orange (#e8540c) blazes across the Schwank interface like the infrared filament at the heart of every heater — a single, unmistakable signal color that turns CTAs, product badges, and hover states into thermal pulses against a neutral industrial backdrop. The palette otherwise runs cold: deep navy (#003388) anchors the top navigation and footer blocks, mid-weight charcoal (#2c3338) carries body copy, and a progression of concrete grays (#f0f0f1 → #eeeeee → #e5e5e5) stratifies card surfaces and section dividers the way stamped steel panels layer in a mechanical housing. Century Gothic headlines — geometric, wide-set, almost Bauhaus in their circularity — project confidence without ornamentation; they sit at heavier weights for display tiers and relax into Open Sans for long-form technical specs and product descriptions where legibility under scanning matters more than personality. Corner radii stay restrained: `{rounded.xs}` on form inputs, `{rounded.sm}` on cards and buttons, never softer — this is equipment that heats aircraft hangars and loading docks, and the UI refuses to round itself into consumer friendliness. Spacing is generous at the section level (`{spacing.section}` between product families) but tight within specification tables and configurator panels, mirroring the density of an engineering datasheet. A secondary blue (#2ea3f2) surfaces in inline links and informational callouts, providing coolant contrast to the dominant orange-on-dark energy. The amber accent (#ffb236) marks efficiency ratings and promotional banners — a warmer companion that reads as radiant heat diffusing outward from the primary brand signal.
+name: "Schwank"
+source_url: "https://www.schwankgroup.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Burnt orange (#e8540c) blazes across the Schwank interface like the infrared filament at the heart of every heater — a single, unmistakable signal color that turns CTAs, product badges, and hover states into thermal pulses against a neutral industrial backdrop. The palette otherwise runs cold: deep navy (#003388) anchors the top navigation and footer blocks, mid-weight charcoal (#2c3338) carries body copy, and a progression of concrete grays (#f0f0f1 → #eeeeee → #e5e5e5) stratifies card surfaces and section dividers the way stamped steel panels layer in a mechanical housing. Century Gothic headlines — geometric, wide-set, almost Bauhaus in their circularity — project confidence without ornamentation; they sit at heavier weights for display tiers and relax into Open Sans for long-form technical specs and product descriptions where legibility under scanning matters more than personality. Corner radii stay restrained: `{rounded.xs}` on form inputs, `{rounded.sm}` on cards and buttons, never softer — this is equipment that heats aircraft hangars and loading docks, and the UI refuses to round itself into consumer friendliness. Spacing is generous at the section level (`{spacing.section}` between product families) but tight within specification tables and configurator panels, mirroring the density of an engineering datasheet. A secondary blue (#2ea3f2) surfaces in inline links and informational callouts, providing coolant contrast to the dominant orange-on-dark energy. The amber accent (#ffb236) marks efficiency ratings and promotional banners — a warmer companion that reads as radiant heat diffusing outward from the primary brand signal.
 
 colors:
   primary: "#e8540c"
@@ -403,6 +407,8 @@ components:
 - Configurator: inline sidebar → bottom-sheet modal on mobile with stepped wizard flow
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom web font files detected for Century Gothic — the site likely relies on system-installed Century Gothic with fallbacks; actual rendering will vary on Linux/Android where Century Gothic is unavailable
 - ETmodules and FontAwesome icon fonts detected but specific icon mappings and usage patterns not extractable from color/font scan alone

@@ -1,0 +1,1445 @@
+{
+  "source_url": "https://www.snuza.com",
+  "final_url": "https://www.snuza.com/",
+  "captured_at": "2026-09-29T04:18:39.723658+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://www.snuza.com",
+      "final_url": "https://www.snuza.com/",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "0938928d56d0ec1f3ff4cdb781c147d8dc96185e2a42f85b6a6c2cbb26c37a64",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "final_url": "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "625059b83c0f599b1e35e1c9cfab95ec6a66708763a0c8f3a38dae598a16516f",
+      "snapshot": "rendered-style-1.css"
+    },
+    {
+      "url": "https://www.snuza.com/static/fontawesome/css/all.css?v=1.39",
+      "final_url": "https://www.snuza.com/static/fontawesome/css/all.css?v=1.39",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e3aab29c60242d216955b101a20e3782f3617eb3a3f819b05ddc458152bf2af7",
+      "snapshot": "rendered-style-2.css"
+    },
+    {
+      "url": "https://www.snuza.com/static/css/kaylin-fixes.css?v=1.39",
+      "final_url": "https://www.snuza.com/static/css/kaylin-fixes.css?v=1.39",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "03bc223345f28aaead9bc7aa0ef855145baa3296a9fd8341ac5951fe01ed4332",
+      "snapshot": "rendered-style-3.css"
+    },
+    {
+      "url": "https://www.snuza.com/static/css/base.css?v=1.39",
+      "final_url": "https://www.snuza.com/static/css/base.css?v=1.39",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "91a90b79ddfa75ca83dccc7b6e04fa921e79536c56c48fb82127d3a6b15cc127",
+      "snapshot": "rendered-style-4.css"
+    },
+    {
+      "url": "https://www.snuza.com/static/js/select2/css/select2.min.css?v=1.39",
+      "final_url": "https://www.snuza.com/static/js/select2/css/select2.min.css?v=1.39",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "cda4a81c187015d95ed2c71f1841540b08203cdec5fa2a7d5d1825a3c2166f8c",
+      "snapshot": "rendered-style-5.css"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css",
+      "final_url": "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "32bd2171bd3e9dce2bcd973d4b6e0492a64f2ad5b58fc9941f12a1973fb3c0ba",
+      "snapshot": "rendered-style-6.css"
+    },
+    {
+      "url": "https://www.snuza.com/#computed-style-snapshot",
+      "final_url": "https://www.snuza.com/#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "da6fbed5504a14c787cdedbed45604ce78856ab84f1c5b0090cdf587e5c0d0d0",
+      "snapshot": "rendered-style-7.css"
+    }
+  ],
+  "colors": {
+    "#1779ba": {
+      "count": 86,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+        "https://www.snuza.com/#computed-style-snapshot"
+      ]
+    },
+    "#333345": {
+      "count": 85,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39",
+        "https://www.snuza.com/#computed-style-snapshot"
+      ]
+    },
+    "#ffffff": {
+      "count": 83,
+      "sources": [
+        "https://www.snuza.com/",
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+        "https://www.snuza.com/static/fontawesome/css/all.css?v=1.39",
+        "https://www.snuza.com/static/css/base.css?v=1.39",
+        "https://www.snuza.com/static/js/select2/css/select2.min.css?v=1.39",
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css",
+        "https://www.snuza.com/#computed-style-snapshot"
+      ]
+    },
+    "#0a0a0a": {
+      "count": 68,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+        "https://www.snuza.com/#computed-style-snapshot"
+      ]
+    },
+    "#fefefe": {
+      "count": 67,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+        "https://www.snuza.com/#computed-style-snapshot"
+      ]
+    },
+    "#efefef": {
+      "count": 61,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39",
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#808080": {
+      "count": 61,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39",
+        "https://www.snuza.com/#computed-style-snapshot"
+      ]
+    },
+    "#00b1ce": {
+      "count": 48,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39",
+        "https://www.snuza.com/#computed-style-snapshot"
+      ]
+    },
+    "#343434": {
+      "count": 42,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39",
+        "https://www.snuza.com/#computed-style-snapshot"
+      ]
+    },
+    "#cacaca": {
+      "count": 30,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+        "https://www.snuza.com/#computed-style-snapshot"
+      ]
+    },
+    "#cc4b37": {
+      "count": 22,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 21,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+      ]
+    },
+    "#666666": {
+      "count": 21,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39",
+        "https://www.snuza.com/#computed-style-snapshot"
+      ]
+    },
+    "#00c3e3": {
+      "count": 20,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#eeeeee": {
+      "count": 18,
+      "sources": [
+        "https://www.snuza.com/",
+        "https://www.snuza.com/static/fontawesome/css/all.css?v=1.39",
+        "https://www.snuza.com/static/css/base.css?v=1.39",
+        "https://www.snuza.com/static/js/select2/css/select2.min.css?v=1.39",
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#ababab": {
+      "count": 18,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#d8d8d8": {
+      "count": 17,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#767676": {
+      "count": 15,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+      ]
+    },
+    "#3adb76": {
+      "count": 15,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+      ]
+    },
+    "#ffae00": {
+      "count": 15,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 15,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39",
+        "https://www.snuza.com/static/js/select2/css/select2.min.css?v=1.39"
+      ]
+    },
+    "#8a8a8a": {
+      "count": 13,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+      ]
+    },
+    "#000000": {
+      "count": 12,
+      "sources": [
+        "https://www.snuza.com/",
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+        "https://www.snuza.com/static/css/base.css?v=1.39",
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css",
+        "https://www.snuza.com/#computed-style-snapshot"
+      ]
+    },
+    "#cc0000": {
+      "count": 10,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#1ad0ed": {
+      "count": 10,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#00c4e2": {
+      "count": 10,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39",
+        "https://www.snuza.com/#computed-style-snapshot"
+      ]
+    },
+    "#0c3d5d": {
+      "count": 8,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+      ]
+    },
+    "#dddddd": {
+      "count": 8,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39",
+        "https://www.snuza.com/static/js/select2/css/select2.min.css?v=1.39"
+      ]
+    },
+    "#1a73e8": {
+      "count": 8,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#d93025": {
+      "count": 7,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 6,
+      "sources": [
+        "https://www.snuza.com/",
+        "https://www.snuza.com/static/css/base.css?v=1.39",
+        "https://www.snuza.com/static/js/select2/css/select2.min.css?v=1.39"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 6,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+        "https://www.snuza.com/static/js/select2/css/select2.min.css?v=1.39",
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#c00000": {
+      "count": 6,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#999999": {
+      "count": 6,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39",
+        "https://www.snuza.com/static/js/select2/css/select2.min.css?v=1.39",
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#cbcbcb": {
+      "count": 6,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#888888": {
+      "count": 6,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39",
+        "https://www.snuza.com/static/js/select2/css/select2.min.css?v=1.39"
+      ]
+    },
+    "#5897fb": {
+      "count": 6,
+      "sources": [
+        "https://www.snuza.com/static/js/select2/css/select2.min.css?v=1.39"
+      ]
+    },
+    "#185abc": {
+      "count": 6,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 5,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#2d2d3c": {
+      "count": 5,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#3b3b3b": {
+      "count": 4,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+      ]
+    },
+    "#157539": {
+      "count": 4,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+      ]
+    },
+    "#805700": {
+      "count": 4,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+      ]
+    },
+    "#67251a": {
+      "count": 4,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+      ]
+    },
+    "#02dbff": {
+      "count": 4,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#fff600": {
+      "count": 4,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 4,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#9e9e9e": {
+      "count": 4,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#00a5c0": {
+      "count": 4,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#4d4d4d": {
+      "count": 4,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#494962": {
+      "count": 4,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#ffeeeeee": {
+      "count": 4,
+      "sources": [
+        "https://www.snuza.com/static/js/select2/css/select2.min.css?v=1.39"
+      ]
+    },
+    "#555555": {
+      "count": 4,
+      "sources": [
+        "https://www.snuza.com/static/js/select2/css/select2.min.css?v=1.39",
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 3,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#ececec": {
+      "count": 3,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#dadada": {
+      "count": 3,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#444444": {
+      "count": 3,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39",
+        "https://www.snuza.com/static/js/select2/css/select2.min.css?v=1.39"
+      ]
+    },
+    "#ffffffff": {
+      "count": 3,
+      "sources": [
+        "https://www.snuza.com/static/js/select2/css/select2.min.css?v=1.39"
+      ]
+    },
+    "#444746": {
+      "count": 3,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#ff0000": {
+      "count": 3,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#1468a0": {
+      "count": 2,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+      ]
+    },
+    "#14679e": {
+      "count": 2,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+      ]
+    },
+    "#126195": {
+      "count": 2,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+      ]
+    },
+    "#5e5e5e": {
+      "count": 2,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+      ]
+    },
+    "#22bb5b": {
+      "count": 2,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+      ]
+    },
+    "#cc8b00": {
+      "count": 2,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+      ]
+    },
+    "#a53b2a": {
+      "count": 2,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+      ]
+    },
+    "#434343": {
+      "count": 2,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#e7e7e7": {
+      "count": 2,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#009bb5": {
+      "count": 2,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#e3d500": {
+      "count": 2,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#353546": {
+      "count": 2,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#9d9d9d": {
+      "count": 2,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#545471": {
+      "count": 2,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#eceef1": {
+      "count": 2,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#e4e4e4": {
+      "count": 2,
+      "sources": [
+        "https://www.snuza.com/static/js/select2/css/select2.min.css?v=1.39"
+      ]
+    },
+    "#4d90fe": {
+      "count": 2,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#222222": {
+      "count": 2,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#ff1b1b": {
+      "count": 2,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#777777": {
+      "count": 2,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#979797": {
+      "count": 2,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#ff253a": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/"
+      ]
+    },
+    "#c1c1c1": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/"
+      ]
+    },
+    "#ffff00": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+      ]
+    },
+    "#f9ecea": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+      ]
+    },
+    "#d7ecfa": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+      ]
+    },
+    "#eaeaea": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+      ]
+    },
+    "#e1faea": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+      ]
+    },
+    "#fff3d9": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+      ]
+    },
+    "#f7e4e1": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+      ]
+    },
+    "#1673b1": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+      ]
+    },
+    "#005968": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#990000": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#f8f9fe": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#434359": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#d63d2d": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#ae2f22": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#334d92": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#26396c": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#00aec7": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#00dbfa": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#b30000": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#4caf50": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#b0b0b0": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#45a049": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#d9edff": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#b5dcff": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#006b7d": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#5e5e80": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#6558f5": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#b2acfa": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#ffe8e4": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#c9cfda": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#3e3e54": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#00bbda": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#ededed": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#ffe6ea": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#00c7e8": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#fafafa": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#c5c5c5": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#a2a2a2": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#696969": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#dcdcdc": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/js/select2/css/select2.min.css?v=1.39"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/js/select2/css/select2.min.css?v=1.39"
+      ]
+    },
+    "#ffcccccc": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/js/select2/css/select2.min.css?v=1.39"
+      ]
+    },
+    "#3875d7": {
+      "count": 1,
+      "sources": [
+        "https://www.snuza.com/static/js/select2/css/select2.min.css?v=1.39"
+      ]
+    },
+    "#b2b2b2": {
+      "count": 1,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#ebebeb": {
+      "count": 1,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#525252": {
+      "count": 1,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 1,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#e24a4a": {
+      "count": 1,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#dfdfdf": {
+      "count": 1,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#323232": {
+      "count": 1,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#417cc1": {
+      "count": 1,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#656565": {
+      "count": 1,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#202124": {
+      "count": 1,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#747775": {
+      "count": 1,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css",
+      "https://www.snuza.com/#computed-style-snapshot"
+    ],
+    "Consolas": [
+      "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+    ],
+    "Courier": [
+      "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+    ],
+    "Font Awesome 5 Brands": [
+      "https://www.snuza.com/static/fontawesome/css/all.css?v=1.39"
+    ],
+    "Font Awesome 5 Free": [
+      "https://www.snuza.com/static/fontawesome/css/all.css?v=1.39"
+    ],
+    "Helvetica": [
+      "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css",
+      "https://www.snuza.com/#computed-style-snapshot"
+    ],
+    "Helvetica Neue": [
+      "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "https://www.snuza.com/#computed-style-snapshot"
+    ],
+    "Liberation Mono": [
+      "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+    ],
+    "Raleway-Bold": [
+      "https://www.snuza.com/static/css/base.css?v=1.39"
+    ],
+    "Raleway-Medium": [
+      "https://www.snuza.com/static/css/base.css?v=1.39",
+      "https://www.snuza.com/#computed-style-snapshot"
+    ],
+    "Roboto": [
+      "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css",
+      "https://www.snuza.com/#computed-style-snapshot"
+    ],
+    "Sans-Serif": [
+      "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+    ],
+    "arial": [
+      "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+    ],
+    "courier": [
+      "https://www.snuza.com/static/css/base.css?v=1.39"
+    ],
+    "courier new": [
+      "https://www.snuza.com/static/css/base.css?v=1.39"
+    ],
+    "helvetica": [
+      "https://www.snuza.com/static/css/base.css?v=1.39",
+      "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+    ],
+    "monospace": [
+      "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+    ],
+    "museo-sans-rounded": [
+      "https://www.snuza.com/static/css/base.css?v=1.39"
+    ],
+    "sans-serif": [
+      "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "https://www.snuza.com/static/js/select2/css/select2.min.css?v=1.39",
+      "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css",
+      "https://www.snuza.com/#computed-style-snapshot"
+    ],
+    "serif": [
+      "https://www.snuza.com/static/css/base.css?v=1.39"
+    ],
+    "small=0em&medium=40em&large=64em&xlarge=75em&xxlarge=90em": [
+      "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+    ],
+    "vag-rounded-black-ssi-bold": [
+      "https://www.snuza.com/static/css/base.css?v=1.39",
+      "https://www.snuza.com/#computed-style-snapshot"
+    ],
+    "vag-rounded-standard-thin": [
+      "https://www.snuza.com/static/css/base.css?v=1.39",
+      "https://www.snuza.com/#computed-style-snapshot"
+    ],
+    "vagrounded": [
+      "https://www.snuza.com/static/css/base.css?v=1.39"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:sans-serif;font-size:100%;line-height:1.15;margin:0"
+    },
+    {
+      "source": "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "selector": "body",
+      "declarations": "margin:0;padding:0;background:#fefefe;font-family:\"Helvetica Neue\",Helvetica,Roboto,Arial,sans-serif;font-weight:400;line-height:1.5;color:#0a0a0a;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale"
+    },
+    {
+      "source": "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit"
+    },
+    {
+      "source": "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "font-family:\"Helvetica Neue\",Helvetica,Roboto,Arial,sans-serif;font-style:normal;font-weight:400;color:inherit;text-rendering:optimizeLegibility"
+    },
+    {
+      "source": "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "selector": "h1 small,h2 small,h3 small,h4 small,h5 small,h6 small",
+      "declarations": "line-height:0;color:#cacaca"
+    },
+    {
+      "source": "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "selector": ".subheader",
+      "declarations": "margin-top:.2rem;margin-bottom:.5rem;font-weight:400;line-height:1.4;color:#8a8a8a"
+    },
+    {
+      "source": "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "selector": ".button",
+      "declarations": "display:inline-block;vertical-align:middle;margin:0 0 1rem 0;font-family:inherit;padding:.85em 1em;-webkit-appearance:none;border:1px solid transparent;border-radius:0;transition:background-color .25s ease-out,color .25s ease-out;font-size:.9rem;line-height:1;text-align:center;cursor:pointer;background-color:#1779ba;color:#fefefe"
+    },
+    {
+      "source": "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "selector": ".button:focus,.button:hover",
+      "declarations": "background-color:#14679e;color:#fefefe"
+    },
+    {
+      "source": "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "selector": ".button.primary",
+      "declarations": "background-color:#1779ba;color:#fefefe"
+    },
+    {
+      "source": "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "selector": ".button.primary:focus,.button.primary:hover",
+      "declarations": "background-color:#126195;color:#fefefe"
+    },
+    {
+      "source": "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "selector": ".button.secondary",
+      "declarations": "background-color:#767676;color:#fefefe"
+    },
+    {
+      "source": "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "selector": ".button.secondary:focus,.button.secondary:hover",
+      "declarations": "background-color:#5e5e5e;color:#fefefe"
+    },
+    {
+      "source": "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "selector": ".button.success",
+      "declarations": "background-color:#3adb76;color:#0a0a0a"
+    },
+    {
+      "source": "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "selector": ".button.success:focus,.button.success:hover",
+      "declarations": "background-color:#22bb5b;color:#0a0a0a"
+    },
+    {
+      "source": "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "selector": ".button.warning",
+      "declarations": "background-color:#ffae00;color:#0a0a0a"
+    },
+    {
+      "source": "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "selector": ".button.warning:focus,.button.warning:hover",
+      "declarations": "background-color:#cc8b00;color:#0a0a0a"
+    },
+    {
+      "source": "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "selector": ".button.alert",
+      "declarations": "background-color:#cc4b37;color:#fefefe"
+    },
+    {
+      "source": "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "selector": ".button.alert:focus,.button.alert:hover",
+      "declarations": "background-color:#a53b2a;color:#fefefe"
+    },
+    {
+      "source": "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "selector": ".button.disabled,.button.disabled:focus,.button.disabled:hover,.button[disabled],.button[disabled]:focus,.button[disabled]:hover",
+      "declarations": "background-color:#1779ba;color:#fefefe"
+    },
+    {
+      "source": "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "selector": ".button.disabled.primary,.button.disabled.primary:focus,.button.disabled.primary:hover,.button[disabled].primary,.button[disabled].primary:focus,.button[disable",
+      "declarations": "background-color:#1779ba;color:#fefefe"
+    },
+    {
+      "source": "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "selector": ".button.disabled.secondary,.button.disabled.secondary:focus,.button.disabled.secondary:hover,.button[disabled].secondary,.button[disabled].secondary:focus,.butt",
+      "declarations": "background-color:#767676;color:#fefefe"
+    },
+    {
+      "source": "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "selector": ".button.disabled.success,.button.disabled.success:focus,.button.disabled.success:hover,.button[disabled].success,.button[disabled].success:focus,.button[disable",
+      "declarations": "background-color:#3adb76;color:#0a0a0a"
+    },
+    {
+      "source": "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "selector": ".button.disabled.warning,.button.disabled.warning:focus,.button.disabled.warning:hover,.button[disabled].warning,.button[disabled].warning:focus,.button[disable",
+      "declarations": "background-color:#ffae00;color:#0a0a0a"
+    },
+    {
+      "source": "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "selector": ".button.disabled.alert,.button.disabled.alert:focus,.button.disabled.alert:hover,.button[disabled].alert,.button[disabled].alert:focus,.button[disabled].alert:h",
+      "declarations": "background-color:#cc4b37;color:#fefefe"
+    },
+    {
+      "source": "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "selector": ".button.hollow",
+      "declarations": "border:1px solid #1779ba;color:#1779ba"
+    },
+    {
+      "source": "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "selector": ".button.hollow,.button.hollow:focus,.button.hollow:hover",
+      "declarations": "background-color:transparent"
+    },
+    {
+      "source": "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "selector": ".button.hollow.disabled,.button.hollow.disabled:focus,.button.hollow.disabled:hover,.button.hollow[disabled],.button.hollow[disabled]:focus,.button.hollow[disab",
+      "declarations": "background-color:transparent"
+    },
+    {
+      "source": "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "selector": ".button.hollow:focus,.button.hollow:hover",
+      "declarations": "border-color:#0c3d5d;color:#0c3d5d"
+    },
+    {
+      "source": "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "selector": ".button.hollow:focus.disabled,.button.hollow:focus[disabled],.button.hollow:hover.disabled,.button.hollow:hover[disabled]",
+      "declarations": "border:1px solid #1779ba;color:#1779ba"
+    },
+    {
+      "source": "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+      "selector": ".button.hollow.primary",
+      "declarations": "border:1px solid #1779ba;color:#1779ba"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "Innovative Baby & Child-Care Devices | Snuza",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "2e3fbd40434ebd7db7bc1cbe2365b500db32d6febdc1504c27e79a8b03a9f1fd"
+    }
+  ],
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+        "https://www.snuza.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+        "https://www.snuza.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+        "https://www.snuza.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39",
+        "https://www.snuza.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+        "https://www.snuza.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.snuza.com/",
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+        "https://www.snuza.com/static/fontawesome/css/all.css?v=1.39",
+        "https://www.snuza.com/static/css/base.css?v=1.39",
+        "https://www.snuza.com/static/js/select2/css/select2.min.css?v=1.39",
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css",
+        "https://www.snuza.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39",
+        "https://www.snuza.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39",
+        "https://www.snuza.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.accent-bright": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.snuza.com/static/css/base.css?v=1.39"
+      ]
+    },
+    "colors.secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+      ]
+    },
+    "colors.alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.snuza.com/static/foundation/css/foundation.min.css?v=1.39"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.compatibility-checker": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Terror Vision
-description: A crimson pulse — `#cc3b3b` — drives Terror Vision’s identity, a blood-red that appears on every primary action, badge, and header accent, set against a near-black `#040404` canvas that feels like a theater after the lights go down. The brand lives in the tension between grindhouse grit and collector-grade polish: product grids float on `#fafafa` surfaces while footer bands and nav bars sink into `#272727` and `#1e1e1e`, creating a visual hierarchy that mimics the experience of browsing a video store’s horror section — bright callouts against dark shelves. Typography leans on Anton, a heavy all-caps display face that screams “VHS spine” at 48px, paired with Epilogue for body text at 14px in a restrained 400 weight, letting the reds and blacks do the shouting. Buttons use `{rounded.sm}` corners — sharp enough to feel deliberate, soft enough to not cut. The search bar is a `{rounded.full}` pill in `#111111` with `#aaaaaa` placeholder text, a quiet utility in a loud system. Badges in `#bd0000` carry limited-edition flags and “SOLD OUT” warnings, while `#e99292` appears sparingly as a hover-state blush on secondary controls. The overall mood is midnight-screening: high contrast, low tolerance for clutter, every red pixel earning its place.
+name: "Terror Vision"
+source_url: "https://www.terror-vision.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A crimson pulse — `#cc3b3b` — drives Terror Vision’s identity, a blood-red that appears on every primary action, badge, and header accent, set against a near-black `#040404` canvas that feels like a theater after the lights go down. The brand lives in the tension between grindhouse grit and collector-grade polish: product grids float on `#fafafa` surfaces while footer bands and nav bars sink into `#272727` and `#1e1e1e`, creating a visual hierarchy that mimics the experience of browsing a video store’s horror section — bright callouts against dark shelves. Typography leans on Anton, a heavy all-caps display face that screams “VHS spine” at 48px, paired with Epilogue for body text at 14px in a restrained 400 weight, letting the reds and blacks do the shouting. Buttons use `{rounded.sm}` corners — sharp enough to feel deliberate, soft enough to not cut. The search bar is a `{rounded.full}` pill in `#111111` with `#aaaaaa` placeholder text, a quiet utility in a loud system. Badges in `#bd0000` carry limited-edition flags and “SOLD OUT” warnings, while `#e99292` appears sparingly as a hover-state blush on secondary controls. The overall mood is midnight-screening: high contrast, low tolerance for clutter, every red pixel earning its place.
 
 colors:
   primary: "#cc3b3b"
@@ -339,6 +343,8 @@ components:
 - Search bar moves from inline nav position to full-width below the nav on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for text inputs and buttons are inferred from extracted colors; exact transition durations and shadow values are not available
 - Error state styling for forms (red border on `text-input-error` is assumed; actual error message typography and iconography are unknown)

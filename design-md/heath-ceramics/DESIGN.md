@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Heath Ceramics
-description: Heath Ceramics is a slow-made, earth-honoring dinnerware and home goods brand rooted in Sausalito, California since 1948. The brand’s palette draws from the raw materials of clay and glaze — a warm, sandy canvas of `#d1ccc6` sets the stage, while deeper earthen tones like `#453b33` (a rich, dark brown) and `#26211a` (near-black espresso) ground the typography and structural elements. Accents of muted terracotta (`#dc6650`), a soft, aged gold (`#debd5c`), and a dusty slate blue (`#6e91bd`) appear sparingly, like glazed highlights on a ceramic piece. The overall mood is tactile, honest, and unpretentious — there is no glossy finish or aggressive contrast. Instead, the system relies on subtle shifts between `{colors.canvas}` and `{colors.surface-soft}`, with `{colors.hairline}` borders that feel like the seam between two fired pieces. Typography, though not explicitly declared in CSS, reads as a clean, warm sans-serif — likely a system stack — set at modest weights and generous line heights to echo the handcrafted, readable quality of the brand’s printed catalogs. The signature design move is the interplay of soft, organic curves (seen in `{rounded.lg}` on cards and `{rounded.full}` on buttons) against the rigid geometry of grid-based product layouts, mirroring the tension between thrown clay and the kiln’s precision.
+name: "Heath Ceramics"
+source_url: "https://www.heathceramics.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Heath Ceramics is a slow-made, earth-honoring dinnerware and home goods brand rooted in Sausalito, California since 1948. The brand’s palette draws from the raw materials of clay and glaze — a warm, sandy canvas of `#d1ccc6` sets the stage, while deeper earthen tones like `#453b33` (a rich, dark brown) and `#26211a` (near-black espresso) ground the typography and structural elements. Accents of muted terracotta (`#dc6650`), a soft, aged gold (`#debd5c`), and a dusty slate blue (`#6e91bd`) appear sparingly, like glazed highlights on a ceramic piece. The overall mood is tactile, honest, and unpretentious — there is no glossy finish or aggressive contrast. Instead, the system relies on subtle shifts between `{colors.canvas}` and `{colors.surface-soft}`, with `{colors.hairline}` borders that feel like the seam between two fired pieces. Typography, though not explicitly declared in CSS, reads as a clean, warm sans-serif — likely a system stack — set at modest weights and generous line heights to echo the handcrafted, readable quality of the brand’s printed catalogs. The signature design move is the interplay of soft, organic curves (seen in `{rounded.lg}` on cards and `{rounded.full}` on buttons) against the rigid geometry of grid-based product layouts, mirroring the tension between thrown clay and the kiln’s precision.
 
 colors:
   primary: "#453b33"
@@ -255,6 +259,8 @@ components:
 - The footer’s multi-column layout collapses to a single column with accordion-style sections on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No explicit font-family declarations were found in the extracted CSS; the system stack (`'Helvetica Neue', Helvetica, Arial, sans-serif`) is assumed based on common DTC brand usage and the brand’s mid-century modern aesthetic. A custom typeface (e.g., a licensed serif for headings) may be used in production but was not detectable.
 - Hover and focus states for text inputs, buttons, and links are inferred from the brand’s color palette and common patterns; exact transition durations and shadow values are not available.

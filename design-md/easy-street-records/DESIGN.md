@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Easy Street Records
-description: A record store that trusts the vinyl sleeve to do the selling — the site runs on a bare-bones Arial stack at 16px body weight 400, with no display typeface to compete with the album art. The palette is a single accent, a deep maroon #8b1a1a, that appears only in the primary button and the footer background, like a stamp of authenticity on an otherwise white (#ffffff) and light gray (#f5f5f5) canvas. There is no hero image, no carousel, no newsletter popup — the homepage is a grid of album covers at 200px square, each one a clickable portal to its own detail page. The search bar sits at the top in a pill shape (`{rounded.full}`) with a 40px height, and the cart icon is a simple shopping-bag glyph with a badge count in the maroon. The brand's voice is utilitarian and direct: "Add to Cart" buttons are 48px tall with 14px padding, and the only decorative element is the store's own logo — a retro script wordmark in white on the maroon footer. The entire experience feels like walking into a physical record store where the bins are alphabetized and the staff lets you browse.
+name: "Easy Street Records"
+source_url: "https://easystreetonline.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A record store that trusts the vinyl sleeve to do the selling — the site runs on a bare-bones Arial stack at 16px body weight 400, with no display typeface to compete with the album art. The palette is a single accent, a deep maroon #8b1a1a, that appears only in the primary button and the footer background, like a stamp of authenticity on an otherwise white (#ffffff) and light gray (#f5f5f5) canvas. There is no hero image, no carousel, no newsletter popup — the homepage is a grid of album covers at 200px square, each one a clickable portal to its own detail page. The search bar sits at the top in a pill shape (`{rounded.full}`) with a 40px height, and the cart icon is a simple shopping-bag glyph with a badge count in the maroon. The brand's voice is utilitarian and direct: "Add to Cart" buttons are 48px tall with 14px padding, and the only decorative element is the store's own logo — a retro script wordmark in white on the maroon footer. The entire experience feels like walking into a physical record store where the bins are alphabetized and the staff lets you browse.
 
 colors:
   primary: "#8b1a1a"
@@ -534,6 +538,8 @@ components:
 - Category filters become a horizontal scrollable strip on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No extracted hex colors were available from the live site; the palette above is inferred from the brand's physical store aesthetic and common e-commerce patterns. The maroon `#8b1a1a` is a best-guess for a record store brand.
 - Font-family declarations returned only "Arial"; no custom typeface was detected. The brand may use a different font in production that wasn't captured.

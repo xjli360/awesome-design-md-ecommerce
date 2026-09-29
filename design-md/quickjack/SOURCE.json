@@ -1,0 +1,922 @@
+{
+  "source_url": "https://quickjack.com",
+  "final_url": "https://www.quickjack.com/",
+  "captured_at": "2026-09-28T10:02:58.816624+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://quickjack.com",
+      "final_url": "https://www.quickjack.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "45b656cc50e24a4be8489cad95ac05c50d292facc32ac0e029dbe9ac343de10e",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "final_url": "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7845dea227b415f1e0ed87dc1052bd0b4e7204f2fd56a10ed2bb4abed782c571",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css",
+      "final_url": "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "22ea334a85f3c595247480358eb8ccf3e8845e1e72b69f7a94992a5efb07ed63",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.quickjack.com/static/version1788902250/frontend/BendPak/quickjack/en_US/css/styles-l.min.css",
+      "final_url": "https://www.quickjack.com/static/version1788902250/frontend/BendPak/quickjack/en_US/css/styles-l.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0c8d9ffbe7d18a0e63babd70b878fd4dcad8096a34f0f2ceb52db8a4c41e4bdc",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.quickjack.com/static/version1788902250/frontend/BendPak/quickjack/en_US/css/print.min.css",
+      "final_url": "https://www.quickjack.com/static/version1788902250/frontend/BendPak/quickjack/en_US/css/print.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2c413b9d783e8320f517ea18dbfa63b921f5ca36d44d79526dce968c069dc07d",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Open+Sans:300,700",
+      "final_url": "https://fonts.googleapis.com/css?family=Open+Sans:300,700",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "ad345bce7c6fea49caa3933c12e2cf65f61617e0ee3be477cb21b62a67278982",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 304,
+      "sources": [
+        "https://www.quickjack.com/",
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css",
+        "https://www.quickjack.com/static/version1788902250/frontend/BendPak/quickjack/en_US/css/styles-l.min.css"
+      ]
+    },
+    "#d1d1d1": {
+      "count": 71,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css",
+        "https://www.quickjack.com/static/version1788902250/frontend/BendPak/quickjack/en_US/css/styles-l.min.css"
+      ]
+    },
+    "#333333": {
+      "count": 68,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css",
+        "https://www.quickjack.com/static/version1788902250/frontend/BendPak/quickjack/en_US/css/styles-l.min.css"
+      ]
+    },
+    "#7d7d7d": {
+      "count": 41,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css",
+        "https://www.quickjack.com/static/version1788902250/frontend/BendPak/quickjack/en_US/css/styles-l.min.css"
+      ]
+    },
+    "#6c757d": {
+      "count": 39,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+      ]
+    },
+    "#1979c3": {
+      "count": 38,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css"
+      ]
+    },
+    "#000000": {
+      "count": 36,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css",
+        "https://www.quickjack.com/static/version1788902250/frontend/BendPak/quickjack/en_US/css/print.min.css"
+      ]
+    },
+    "#212529": {
+      "count": 36,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css"
+      ]
+    },
+    "#007bff": {
+      "count": 34,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+      ]
+    },
+    "#dc3545": {
+      "count": 28,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+      ]
+    },
+    "#28a745": {
+      "count": 28,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+      ]
+    },
+    "#dee2e6": {
+      "count": 28,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+      ]
+    },
+    "#006bb4": {
+      "count": 28,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css"
+      ]
+    },
+    "#ff5501": {
+      "count": 28,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css",
+        "https://www.quickjack.com/static/version1788902250/frontend/BendPak/quickjack/en_US/css/styles-l.min.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 28,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css",
+        "https://www.quickjack.com/static/version1788902250/frontend/BendPak/quickjack/en_US/css/styles-l.min.css"
+      ]
+    },
+    "#6db114": {
+      "count": 26,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css"
+      ]
+    },
+    "#343a40": {
+      "count": 19,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+      ]
+    },
+    "#f8f9fa": {
+      "count": 18,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+      ]
+    },
+    "#cdcdcd": {
+      "count": 18,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 18,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css",
+        "https://www.quickjack.com/static/version1788902250/frontend/BendPak/quickjack/en_US/css/styles-l.min.css"
+      ]
+    },
+    "#ffc107": {
+      "count": 17,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+      ]
+    },
+    "#17a2b8": {
+      "count": 17,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+      ]
+    },
+    "#222222": {
+      "count": 17,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css",
+        "https://www.quickjack.com/static/version1788902250/frontend/BendPak/quickjack/en_US/css/styles-l.min.css"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 16,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css"
+      ]
+    },
+    "#e9ecef": {
+      "count": 15,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+      ]
+    },
+    "#fff568": {
+      "count": 15,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css",
+        "https://www.quickjack.com/static/version1788902250/frontend/BendPak/quickjack/en_US/css/styles-l.min.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 14,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css",
+        "https://www.quickjack.com/static/version1788902250/frontend/BendPak/quickjack/en_US/css/styles-l.min.css"
+      ]
+    },
+    "#1d1d1d": {
+      "count": 14,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css"
+      ]
+    },
+    "#555555": {
+      "count": 13,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 13,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css",
+        "https://www.quickjack.com/static/version1788902250/frontend/BendPak/quickjack/en_US/css/styles-l.min.css"
+      ]
+    },
+    "#8f8f8f": {
+      "count": 13,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css",
+        "https://www.quickjack.com/static/version1788902250/frontend/BendPak/quickjack/en_US/css/styles-l.min.css"
+      ]
+    },
+    "#495057": {
+      "count": 12,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 12,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 12,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css",
+        "https://www.quickjack.com/static/version1788902250/frontend/BendPak/quickjack/en_US/css/styles-l.min.css"
+      ]
+    },
+    "#ff5216": {
+      "count": 12,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css"
+      ]
+    },
+    "#e02b27": {
+      "count": 11,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css"
+      ]
+    },
+    "#c2c2c2": {
+      "count": 11,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css",
+        "https://www.quickjack.com/static/version1788902250/frontend/BendPak/quickjack/en_US/css/styles-l.min.css"
+      ]
+    },
+    "#c1c1c1": {
+      "count": 11,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css",
+        "https://www.quickjack.com/static/version1788902250/frontend/BendPak/quickjack/en_US/css/styles-l.min.css"
+      ]
+    },
+    "#999999": {
+      "count": 10,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css",
+        "https://www.quickjack.com/static/version1788902250/frontend/BendPak/quickjack/en_US/css/styles-l.min.css",
+        "https://www.quickjack.com/static/version1788902250/frontend/BendPak/quickjack/en_US/css/print.min.css"
+      ]
+    },
+    "#1c2537": {
+      "count": 10,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css"
+      ]
+    },
+    "#303030": {
+      "count": 9,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css"
+      ]
+    },
+    "#f2d000": {
+      "count": 9,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css"
+      ]
+    },
+    "#444444": {
+      "count": 8,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 7,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css",
+        "https://www.quickjack.com/static/version1788902250/frontend/BendPak/quickjack/en_US/css/styles-l.min.css"
+      ]
+    },
+    "#f05f40": {
+      "count": 7,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css"
+      ]
+    },
+    "#111111": {
+      "count": 6,
+      "sources": [
+        "https://www.quickjack.com/",
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css"
+      ]
+    },
+    "#adb5bd": {
+      "count": 6,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+      ]
+    },
+    "#575757": {
+      "count": 6,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css",
+        "https://www.quickjack.com/static/version1788902250/frontend/BendPak/quickjack/en_US/css/styles-l.min.css"
+      ]
+    },
+    "#cfcfcf": {
+      "count": 5,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+      ]
+    },
+    "#b3d7ff": {
+      "count": 5,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+      ]
+    },
+    "#004085": {
+      "count": 5,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+      ]
+    },
+    "#383d41": {
+      "count": 5,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+      ]
+    },
+    "#155724": {
+      "count": 5,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+      ]
+    },
+    "#0c5460": {
+      "count": 5,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+      ]
+    },
+    "#856404": {
+      "count": 5,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+      ]
+    },
+    "#721c24": {
+      "count": 5,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+      ]
+    },
+    "#818182": {
+      "count": 5,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+      ]
+    },
+    "#1b1e21": {
+      "count": 5,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+      ]
+    },
+    "#fcfcfc": {
+      "count": 5,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css",
+        "https://www.quickjack.com/static/version1788902250/frontend/BendPak/quickjack/en_US/css/styles-l.min.css"
+      ]
+    },
+    "#666666": {
+      "count": 5,
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+    ],
+    "Apple Color Emoji": [
+      "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+    ],
+    "Arial": [
+      "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css"
+    ],
+    "BlinkMacSystemFont": [
+      "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+    ],
+    "Consolas": [
+      "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+    ],
+    "Courier New": [
+      "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+    ],
+    "Font Awesome 5 Free": [
+      "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css"
+    ],
+    "Helvetica": [
+      "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css"
+    ],
+    "Helvetica Neue": [
+      "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css"
+    ],
+    "Liberation Mono": [
+      "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+    ],
+    "Menlo": [
+      "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+    ],
+    "Monaco": [
+      "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+    ],
+    "Noto Color Emoji": [
+      "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+    ],
+    "Noto Sans": [
+      "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+    ],
+    "Open Sans": [
+      "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css",
+      "https://fonts.googleapis.com/css?family=Open+Sans:300,700"
+    ],
+    "Roboto": [
+      "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+    ],
+    "SFMono-Regular": [
+      "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+    ],
+    "Segoe UI": [
+      "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+    ],
+    "Segoe UI Emoji": [
+      "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+    ],
+    "Segoe UI Symbol": [
+      "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+    ],
+    "icons-blank-theme": [
+      "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css",
+      "https://www.quickjack.com/static/version1788902250/frontend/BendPak/quickjack/en_US/css/styles-l.min.css"
+    ],
+    "luma-icons": [
+      "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css"
+    ],
+    "monospace": [
+      "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+    ],
+    "monospace!important": [
+      "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+    ],
+    "object-fit: cover": [
+      "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css"
+    ],
+    "pagebuilder-font": [
+      "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css"
+    ],
+    "sans-serif": [
+      "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "selector": ":root",
+      "declarations": "--blue:#007bff;--indigo:#6610f2;--purple:#6f42c1;--pink:#e83e8c;--red:#dc3545;--orange:#fd7e14;--yellow:#ffc107;--green:#28a745;--teal:#20c997;--cyan:#17a2b8;--white:#fff;--gray:#6c757d;--gray-dark:#343a40;--primary:#007bff;--secondary:#6c757d;--success:#28a745;--info:#17a2b8;--warning:#ffc107;--danger:#dc3545;--light:#f8f9fa;--dark:#343a40;--breakpoint-xs:0;--breakpoint-sm:576px;--breakpoint-md:768px;--breakpoint-lg:992px;--breakpoint-xl:1200px;--font-family-sans-serif:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";--font-family-monospace:SFMono-Regular,Menlo,Monaco,Co"
+    },
+    {
+      "source": "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "selector": "body",
+      "declarations": "margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";font-size:1rem;font-weight:400;line-height:1.5;color:#212529;text-align:left;background-color:#fff"
+    },
+    {
+      "source": "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "margin:0;font-family:inherit;font-size:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "selector": ".table-striped tbody tr:nth-of-type(odd)",
+      "declarations": "background-color:rgba(0,0,0,.05)"
+    },
+    {
+      "source": "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "selector": ".table-hover tbody tr:hover",
+      "declarations": "color:#212529;background-color:rgba(0,0,0,.075)"
+    },
+    {
+      "source": "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "selector": ".table-primary tbody+tbody,.table-primary td,.table-primary th,.table-primary thead th",
+      "declarations": "border-color:#7abaff"
+    },
+    {
+      "source": "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "selector": ".table-secondary tbody+tbody,.table-secondary td,.table-secondary th,.table-secondary thead th",
+      "declarations": "border-color:#b3b7bb"
+    },
+    {
+      "source": "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "selector": ".table-success tbody+tbody,.table-success td,.table-success th,.table-success thead th",
+      "declarations": "border-color:#8fd19e"
+    },
+    {
+      "source": "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "selector": ".table-info tbody+tbody,.table-info td,.table-info th,.table-info thead th",
+      "declarations": "border-color:#86cfda"
+    },
+    {
+      "source": "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "selector": ".table-warning tbody+tbody,.table-warning td,.table-warning th,.table-warning thead th",
+      "declarations": "border-color:#ffdf7e"
+    },
+    {
+      "source": "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "selector": ".table-danger tbody+tbody,.table-danger td,.table-danger th,.table-danger thead th",
+      "declarations": "border-color:#ed969e"
+    },
+    {
+      "source": "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "selector": ".table-light tbody+tbody,.table-light td,.table-light th,.table-light thead th",
+      "declarations": "border-color:#fbfcfc"
+    },
+    {
+      "source": "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "selector": ".table-dark tbody+tbody,.table-dark td,.table-dark th,.table-dark thead th",
+      "declarations": "border-color:#95999c"
+    },
+    {
+      "source": "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "selector": ".table-dark.table-striped tbody tr:nth-of-type(odd)",
+      "declarations": "background-color:rgba(255,255,255,.05)"
+    },
+    {
+      "source": "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "selector": ".table-dark.table-hover tbody tr:hover",
+      "declarations": "color:#fff;background-color:rgba(255,255,255,.075)"
+    },
+    {
+      "source": "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "selector": ".btn",
+      "declarations": "display:inline-block;font-weight:400;color:#212529;text-align:center;vertical-align:middle;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;background-color:transparent;border:1px solid transparent;padding:.375rem .75rem;font-size:1rem;line-height:1.5;border-radius:.25rem;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out"
+    },
+    {
+      "source": "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "selector": ".btn:hover",
+      "declarations": "color:#212529;text-decoration:none"
+    },
+    {
+      "source": "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "selector": ".btn-primary",
+      "declarations": "color:#fff;background-color:#007bff;border-color:#007bff"
+    },
+    {
+      "source": "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "selector": ".btn-primary:hover",
+      "declarations": "color:#fff;background-color:#0069d9;border-color:#0062cc"
+    },
+    {
+      "source": "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "selector": ".btn-primary.disabled,.btn-primary:disabled",
+      "declarations": "color:#fff;background-color:#007bff;border-color:#007bff"
+    },
+    {
+      "source": "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "selector": ".btn-primary:not(:disabled):not(.disabled).active,.btn-primary:not(:disabled):not(.disabled):active,.show>.btn-primary.dropdown-toggle",
+      "declarations": "color:#fff;background-color:#0062cc;border-color:#005cbf"
+    },
+    {
+      "source": "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "selector": ".btn-secondary",
+      "declarations": "color:#fff;background-color:#6c757d;border-color:#6c757d"
+    },
+    {
+      "source": "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "selector": ".btn-secondary:hover",
+      "declarations": "color:#fff;background-color:#5a6268;border-color:#545b62"
+    },
+    {
+      "source": "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "selector": ".btn-secondary.disabled,.btn-secondary:disabled",
+      "declarations": "color:#fff;background-color:#6c757d;border-color:#6c757d"
+    },
+    {
+      "source": "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "selector": ".btn-secondary:not(:disabled):not(.disabled).active,.btn-secondary:not(:disabled):not(.disabled):active,.show>.btn-secondary.dropdown-toggle",
+      "declarations": "color:#fff;background-color:#545b62;border-color:#4e555b"
+    },
+    {
+      "source": "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "selector": ".btn-success",
+      "declarations": "color:#fff;background-color:#28a745;border-color:#28a745"
+    },
+    {
+      "source": "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "selector": ".btn-success:hover",
+      "declarations": "color:#fff;background-color:#218838;border-color:#1e7e34"
+    },
+    {
+      "source": "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "selector": ".btn-success.disabled,.btn-success:disabled",
+      "declarations": "color:#fff;background-color:#28a745;border-color:#28a745"
+    },
+    {
+      "source": "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "selector": ".btn-success:not(:disabled):not(.disabled).active,.btn-success:not(:disabled):not(.disabled):active,.show>.btn-success.dropdown-toggle",
+      "declarations": "color:#fff;background-color:#1e7e34;border-color:#1c7430"
+    },
+    {
+      "source": "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+      "selector": ".btn-info",
+      "declarations": "color:#fff;background-color:#17a2b8;border-color:#17a2b8"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Portable Car Lift for your Garage or Shop | QuickJack",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.quickjack.com/",
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css",
+        "https://www.quickjack.com/static/version1788902250/frontend/BendPak/quickjack/en_US/css/styles-l.min.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css",
+        "https://www.quickjack.com/static/version1788902250/frontend/BendPak/quickjack/en_US/css/styles-l.min.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css",
+        "https://www.quickjack.com/static/version1788902250/frontend/BendPak/quickjack/en_US/css/styles-l.min.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.quickjack.com/",
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css",
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css",
+        "https://www.quickjack.com/static/version1788902250/frontend/BendPak/quickjack/en_US/css/styles-l.min.css"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css",
+        "https://www.quickjack.com/static/version1788902250/frontend/BendPak/quickjack/en_US/css/styles-l.min.css"
+      ]
+    },
+    "colors.accent-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css"
+      ]
+    },
+    "colors.dark-surface": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/750d918a38fceb19b0ea7c8f4d68cd37.min.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.quickjack.com/static/version1788902250/_cache/merged/bb3d80a7ccc372abd6ef68e33ae59bf9.min.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-table": {
+      "status": "inferred"
+    }
+  }
+}

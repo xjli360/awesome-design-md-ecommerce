@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Woodcessories
-description: |
+name: "Woodcessories"
+source_url: "https://www.woodcessories.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Deep-ocean teal (#108474) meets bare-wood warmth on a nearly white canvas — the first thing you notice on Woodcessories' storefront is how seriously it takes negative space, letting product photography of walnut-grain cases and cork AirPods sleeves breathe against expanses of #f8f8f8 and #fafafa. The primary teal functions as the single confidence color: add-to-cart buttons, sustainability badges, and trust-bar icons all pull from the same hue, creating a visual throughline that says "this purchase is a good-for-the-planet decision" without ever resorting to cliché leaf graphics. A flash of signal yellow (#ffd602) punctuates sale callouts, urgency labels, and rating stars — it is deliberately sparingly deployed so it reads as sunlight on wood rather than retail noise. Typography pairs Heldane Display in its Medium and Italic cuts for editorial headlines — product-story modules, sustainability manifestos, material deep-dives — with Figtree and Avenir Next sharing body and UI duty. Heldane's high-contrast serifs at large sizes (`{typography.display-xl}`) bring a craft-magazine authority, while Figtree at `{typography.body-md}` keeps navigation and product specs feeling modern and unpretentious. Corners sit at `{rounded.sm}` to `{rounded.md}` for cards and inputs, never fully pill-shaped except on filter chips and small icon badges (`{rounded.full}`); the geometry mirrors the chamfered edges of their real-world cases. The ink tone (#191919) is not true black — a concession to the natural-material ethos that avoids harsh contrast against the pale canvas. A secondary palette of blue-slate (#557a95, #5487a0) surfaces in informational modules: material comparisons, compatibility charts, and eco-impact counters. Red (#de2a2a) is strictly reserved for error states and low-stock warnings, never for branding. Spacing is generous — section gaps of `{spacing.section}` or wider give each product story room, reinforcing the editorial, almost lookbook quality that distinguishes Woodcessories from commodity-accessory competitors.
 
 colors:
@@ -537,6 +540,8 @@ components:
 - Material info cards shift from a 3-column grid to a vertical stack with reduced padding
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact font weights and size scales for Heldane Display cuts could not be confirmed from extraction — the three variants (Regular, Medium, Italic) were detected by font-family declaration but precise usage mapping (which headings use which cut) may differ from what is specified here
 - Avenir Next and Figtree both appear in font stacks; the division of labor between them (which is primary body, which is fallback) could not be determined from CSS extraction alone — they are listed together in stacks here

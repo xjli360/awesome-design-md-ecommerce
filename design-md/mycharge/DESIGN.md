@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: MyCharge
-description: |
+name: "MyCharge"
+source_url: "https://www.mycharge.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Electric cyan (#32b6f3) pulses through MyCharge's interface like a charging indicator hitting 100% — every primary CTA, product badge, and feature icon carries that vivid energy signature against a deep navy canvas (#2a3048) that doubles as the meta theme-color and hero backdrop. The typographic system pairs CocoSharp for display headlines — geometric, squared-off letterforms that mirror the hard edges of a power bank housing — with Figtree as the workhorse body face, its open counters and generous x-height keeping spec tables and mAh ratings scannable at `{typography.body-sm}`. Product cards sit on near-white surfaces (`{colors.surface-card}`) with `{rounded.md}` corners, giving each portable charger its own clean pedestal while mint-green badges (`{colors.accent-mint}`) flag "fully charged" states and pale yellow callouts (`{colors.accent-yellow}`) mark limited-time bundles. Navigation lives in that navy band at 64px height, white type at `{typography.nav-link}` weight 600, with the logo wordmark set in Futura-Book at a deliberate tracking that separates "my" from "Charge" without a visible space. Buttons are decisive — `{rounded.sm}` rectangles, never pills — sized at 48px height with 14px vertical padding, communicating the same no-nonsense industrial confidence as the products themselves. The spacing system breathes at `{spacing.lg}` between content blocks and `{spacing.section}` above fold breaks, preventing the dense technical specifications (watt-hours, port counts, cable types) from overwhelming the visual hierarchy. A secondary blue (#48a0e0) appears in hover states and informational icons, while the near-black ink (#121212) grounds long-form copy. The overall impression is a hardware brand that borrowed its palette from the glow of lithium cells — cool, saturated, unapologetically technical.
 
 colors:
@@ -420,6 +423,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact font weights for CocoSharp variants could not be confirmed — the font may ship as discrete files (Light, Regular, Bold) rather than variable weight; assumed 600/700 based on visual density
 - Futura-Book usage appears limited to the logo lockup; full fallback stack and alternate weights not observed

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Starface
-description: Starface is a skincare brand that feels like a party on your face — a joyful, unapologetically playful rebellion against the shame and seriousness that often surrounds acne. The brand’s visual identity is built on a foundation of high-voltage contrast: a screaming yellow `#fdff00` (the brand’s primary voltage) against a soft, almost saccharine pink `#ff9cee` and a crisp, clinical blue `#1990c6` that grounds the energy. The canvas is a clean `#dedede` light grey, not a sterile white, which gives the entire experience a soft, approachable warmth. The typography is dominated by the rounded, friendly forms of ABC Diatype Rounded, used in heavy and black weights for headlines that feel bold and confident, paired with the monospaced, technical edge of GT Pressura Mono Text for accents and data — a clever nod to the brand’s “pimple patch as medical device” credibility. The signature design move is the pill-shaped button and the full-round badge (`{rounded.full}`), used for the iconic star-shaped patch itself, which is both product and logo. Every corner is soft (`{rounded.sm}` for cards, `{rounded.lg}` for modals), and the spacing is generous, letting the bright colors breathe. The mood is optimistic, loud, and inclusive — a skincare brand that says “spots are fine, have fun.”
+name: "Starface"
+source_url: "https://starface.world"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Starface is a skincare brand that feels like a party on your face — a joyful, unapologetically playful rebellion against the shame and seriousness that often surrounds acne. The brand’s visual identity is built on a foundation of high-voltage contrast: a screaming yellow `#fdff00` (the brand’s primary voltage) against a soft, almost saccharine pink `#ff9cee` and a crisp, clinical blue `#1990c6` that grounds the energy. The canvas is a clean `#dedede` light grey, not a sterile white, which gives the entire experience a soft, approachable warmth. The typography is dominated by the rounded, friendly forms of ABC Diatype Rounded, used in heavy and black weights for headlines that feel bold and confident, paired with the monospaced, technical edge of GT Pressura Mono Text for accents and data — a clever nod to the brand’s “pimple patch as medical device” credibility. The signature design move is the pill-shaped button and the full-round badge (`{rounded.full}`), used for the iconic star-shaped patch itself, which is both product and logo. Every corner is soft (`{rounded.sm}` for cards, `{rounded.lg}` for modals), and the spacing is generous, letting the bright colors breathe. The mood is optimistic, loud, and inclusive — a skincare brand that says “spots are fine, have fun.”
 
 colors:
   primary: "#fdff00"
@@ -356,6 +360,8 @@ components:
 - Search bar collapses to an icon-only button that expands to a full-width input on tap.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for many components (e.g., text-input, search-bar, nav-links) could not be reliably extracted from the live site and are inferred from brand patterns.
 - Error styling for form inputs (e.g., red border, error message typography) is not present in the extracted data.

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Eyestorm
-description: Fire-engine red (#ff0000) sitting against a field of bone-warm neutrals is not a gallery design choice — it is a commercial argument made in the visual register of the art it sells. Eyestorm trades in limited-edition prints by Damien Hirst, Marc Quinn, and Yoko Ono, and its interface encodes that collision between collecting and purchasing directly: the softest imaginable neutral tones (#eceaeb, #e7e5e2, #d7d4ce) layer from card surface to background to hairline in increments barely perceptible to the eye, while every primary action fires in a red that brooks no hesitation. Proxima Nova carries all type — ProximaNovaLtSemibold pulls artist names and editorial headings into a humanist register that lands between the gallery world's traditional serif gravity and the directness of an e-commerce interface. Sharp corners rule the entire layout: {rounded.none} applies to artwork thumbnails, product cards, form inputs, and buttons without exception, letting photography carry whatever visual softness the page needs rather than any softening in the chrome. Edition numbers and certificate-of-authenticity language appear at {typography.edition-number} scale directly beneath each price, foregrounding scarcity in the same visual breath as the artwork image. The accent green (#116633) is strictly reserved for in-stock indicators and confirmation states; accent blue (#224488) surfaces only in hyperlinks and informational callouts — both held so tightly to functional roles that they never read as decoration. The primary red — pure and unmodulated at #ff0000 — is the single voltage running through every add-to-cart button, active filter underline, and hover state, making a commercial claim in the same unflinching tone as the contemporary art it frames.
+name: "Eyestorm"
+source_url: "https://www.eyestorm.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Fire-engine red (#ff0000) sitting against a field of bone-warm neutrals is not a gallery design choice — it is a commercial argument made in the visual register of the art it sells. Eyestorm trades in limited-edition prints by Damien Hirst, Marc Quinn, and Yoko Ono, and its interface encodes that collision between collecting and purchasing directly: the softest imaginable neutral tones (#eceaeb, #e7e5e2, #d7d4ce) layer from card surface to background to hairline in increments barely perceptible to the eye, while every primary action fires in a red that brooks no hesitation. Proxima Nova carries all type — ProximaNovaLtSemibold pulls artist names and editorial headings into a humanist register that lands between the gallery world's traditional serif gravity and the directness of an e-commerce interface. Sharp corners rule the entire layout: {rounded.none} applies to artwork thumbnails, product cards, form inputs, and buttons without exception, letting photography carry whatever visual softness the page needs rather than any softening in the chrome. Edition numbers and certificate-of-authenticity language appear at {typography.edition-number} scale directly beneath each price, foregrounding scarcity in the same visual breath as the artwork image. The accent green (#116633) is strictly reserved for in-stock indicators and confirmation states; accent blue (#224488) surfaces only in hyperlinks and informational callouts — both held so tightly to functional roles that they never read as decoration. The primary red — pure and unmodulated at #ff0000 — is the single voltage running through every add-to-cart button, active filter underline, and hover state, making a commercial claim in the same unflinching tone as the contemporary art it frames.
 
 colors:
   primary: "#ff0000"
@@ -329,6 +333,8 @@ components:
 - Hero text and CTA restack to bottom-aligned within the image frame on mobile, with reduced heading size stepping from display-xl to display-md
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No meta theme-color was extracted; mobile browser chrome color and PWA manifest color are unspecified
 - Nav bar height (60px) and logo dimensions are estimated; exact measurements were not captured

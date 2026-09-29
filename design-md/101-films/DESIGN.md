@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: 101 Films
-description: A film distributor’s site that feels more like a collector’s shelf than a streaming grid, anchored on a slate-blue #52636b that reads as archival rather than corporate — the kind of color you’d find on a 35mm film canister. The primary action color is a stark #dd1d0b, a red that lands with the blunt force of a cinema exit sign, used sparingly for purchase buttons and price badges so it never competes with the poster art. The canvas is a cool #cccacc, a near-gray that avoids the sterile white of modern ecommerce and instead suggests a repurposed warehouse wall. Typography runs Cabin for display and body, a geometric sans with a humanist warmth that keeps the experience from feeling cold despite the muted palette. Product cards use soft corners ({rounded.sm}) and thin hairlines (#d6d8db) to frame DVD and Blu-ray covers without overwhelming them. The navigation is a horizontal strip of genre and collection links, each sitting in a low-contrast state until hovered, when the red #dd1d0b appears as an underline — a restrained gesture that lets the filmography do the selling. The overall mood is that of a specialty video store that has been carefully curated but not over-designed: the interface steps back so the movies can step forward.
+name: "101 Films"
+source_url: "https://101-films.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A film distributor’s site that feels more like a collector’s shelf than a streaming grid, anchored on a slate-blue #52636b that reads as archival rather than corporate — the kind of color you’d find on a 35mm film canister. The primary action color is a stark #dd1d0b, a red that lands with the blunt force of a cinema exit sign, used sparingly for purchase buttons and price badges so it never competes with the poster art. The canvas is a cool #cccacc, a near-gray that avoids the sterile white of modern ecommerce and instead suggests a repurposed warehouse wall. Typography runs Cabin for display and body, a geometric sans with a humanist warmth that keeps the experience from feeling cold despite the muted palette. Product cards use soft corners ({rounded.sm}) and thin hairlines (#d6d8db) to frame DVD and Blu-ray covers without overwhelming them. The navigation is a horizontal strip of genre and collection links, each sitting in a low-contrast state until hovered, when the red #dd1d0b appears as an underline — a restrained gesture that lets the filmography do the selling. The overall mood is that of a specialty video store that has been carefully curated but not over-designed: the interface steps back so the movies can step forward.
 
 colors:
   primary: "#dd1d0b"
@@ -254,6 +258,8 @@ components:
 - Footer columns stack from 4 columns to 2 columns on tablet, then to 1 column on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted hex color list is dominated by Bootstrap alert colors (blues, greens, reds, yellows) and generic grays, making it difficult to isolate the brand's true secondary palette. The primary red (#dd1d0b) and slate blue (#52636b) are the most distinctive colors; all other extracted colors are treated as system defaults or edge cases.
 - Font-family declarations included "Cabin" and "Montsemi" — the latter may be a misspelling of "Montserrat" or a custom font. Without a verified font file or CSS @font-face rule, "Montsemi" is included as-is in the typography stack but may not render.

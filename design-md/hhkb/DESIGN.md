@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: HHKB
-description: A monochrome engineering canvas (#404040, #ebebeb, #dedede) where the only color allowed is the one you choose — a single accent from a palette of six saturated signals: alert red (#bd2426), confirmation green (#9bca3e), link blue (#62a1d8), warning orange (#f68b1f), deep navy (#163959), and a secondary red (#de5052) that reads as a softer sibling of the primary alert. The brand is the keyboard itself: every design decision defers to the object. Product cards float on white with hairline-thin borders (`{rounded.sm}` ~8px), and the typography stack — system-native sans-serif with a fallback to Courier and Monaco — mirrors the terminal environment the HHKB was born for. Buttons are compact and rectangular (`{rounded.xs}` ~4px), never pill-shaped; the primary action uses a deep charcoal (`#404040`) with white text, while secondary and ghost variants use the same charcoal as outline or text-only. The checkout flow introduces a sudden blue (#0051c3) and a bright orange (#ee730a) — likely Shopify Pay and Klarna widgets — that violate the monochrome rule but are tolerated as third-party guests. There is no hero imagery, no lifestyle photography; the page is a grid of product thumbnails, spec tables, and add-to-cart bars. The brand trusts the keyboard's reputation, not visual storytelling. The result is a site that feels like a tool catalog — precise, unadorned, and completely confident that the product is the only thing worth looking at.
+name: "HHKB"
+source_url: "https://hhkeyboard.us"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A monochrome engineering canvas (#404040, #ebebeb, #dedede) where the only color allowed is the one you choose — a single accent from a palette of six saturated signals: alert red (#bd2426), confirmation green (#9bca3e), link blue (#62a1d8), warning orange (#f68b1f), deep navy (#163959), and a secondary red (#de5052) that reads as a softer sibling of the primary alert. The brand is the keyboard itself: every design decision defers to the object. Product cards float on white with hairline-thin borders (`{rounded.sm}` ~8px), and the typography stack — system-native sans-serif with a fallback to Courier and Monaco — mirrors the terminal environment the HHKB was born for. Buttons are compact and rectangular (`{rounded.xs}` ~4px), never pill-shaped; the primary action uses a deep charcoal (`#404040`) with white text, while secondary and ghost variants use the same charcoal as outline or text-only. The checkout flow introduces a sudden blue (#0051c3) and a bright orange (#ee730a) — likely Shopify Pay and Klarna widgets — that violate the monochrome rule but are tolerated as third-party guests. There is no hero imagery, no lifestyle photography; the page is a grid of product thumbnails, spec tables, and add-to-cart bars. The brand trusts the keyboard's reputation, not visual storytelling. The result is a site that feels like a tool catalog — precise, unadorned, and completely confident that the product is the only thing worth looking at.
 
 colors:
   primary: "#404040"
@@ -465,6 +469,8 @@ components:
 - Hero section reduces font size and padding on mobile, with the CTA button becoming full-width.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted color list is dominated by grays (#404040, #ebebeb, #dedede, #595959, #737373, #272727, #bfbfbf) and a set of six saturated accents (red, green, blue, orange, navy). The brand's true primary is likely the charcoal (#404040), but the accent colors' exact usage (badges, links, alerts, brand highlights) could not be confirmed from the extraction alone. The six accent colors are included as brand-specific tokens but their semantic roles (which is the "brand" color vs. utility colors) are inferred.
 - The extracted font stack is entirely system-native sans-serif with Courier/Monaco as monospace fallbacks. No custom or brand-specific typeface was found. The monospace token is included based on the presence of "courier" and "monaco" in the extracted declarations, but its usage (code snippets, technical specs, or decorative) is unknown.

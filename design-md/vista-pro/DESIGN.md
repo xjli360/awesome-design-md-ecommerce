@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Vista Pro
-description: Steel weathered to a specific shade of slate — #415d6f, a desaturated teal-gray that sits between maritime metal and industrial primer — is Vista Pro's entire opening argument for the commercial specifier market. The brand's palette refuses warmth at every structural level: the deep teal-navy (#283c48) anchors footers and hero sections while near-white surfaces (#ebf0f1, #edeff0) carry just enough cool cast to read as poured concrete rather than retail cream. Hairlines and borders draw from #b5c2c7, a muted steel tone that mirrors the extruded aluminum housings the fixtures ship in. Raleway handles display headings in uppercase weight-700 with generous letter-spacing — a stamp, not a shout — while Poppins carries specification copy at comfortable reading sizes. Baskerville appears selectively for editorial pull-quotes or certification statements, lending serif-anchored authority to compliance language without ceding the system's industrial register. Product corners are barely softened ({rounded.xs}, 4px), communicating precision machining rather than consumer-product approachability. Primary CTAs darken from the steel-slate primary to #283c48 on hover, moving down the same cool axis rather than warming or brightening. The site's load-bearing content is specification-first: wattage tables, IES file downloads, DLC listing confirmations, and CCT selectors occupy more screen real estate than photography or lifestyle copy. Contractors and lighting designers arrive with specs already in mind; the UI honors that by foregrounding filter panels and downloadable photometric data over marketing narrative. The entire system reads as a technical document that happens to be styled — and that register is precisely correct for specifying architectural-grade exterior luminaires.
+name: "Vista Pro"
+source_url: "https://www.vistapro.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Steel weathered to a specific shade of slate — #415d6f, a desaturated teal-gray that sits between maritime metal and industrial primer — is Vista Pro's entire opening argument for the commercial specifier market. The brand's palette refuses warmth at every structural level: the deep teal-navy (#283c48) anchors footers and hero sections while near-white surfaces (#ebf0f1, #edeff0) carry just enough cool cast to read as poured concrete rather than retail cream. Hairlines and borders draw from #b5c2c7, a muted steel tone that mirrors the extruded aluminum housings the fixtures ship in. Raleway handles display headings in uppercase weight-700 with generous letter-spacing — a stamp, not a shout — while Poppins carries specification copy at comfortable reading sizes. Baskerville appears selectively for editorial pull-quotes or certification statements, lending serif-anchored authority to compliance language without ceding the system's industrial register. Product corners are barely softened ({rounded.xs}, 4px), communicating precision machining rather than consumer-product approachability. Primary CTAs darken from the steel-slate primary to #283c48 on hover, moving down the same cool axis rather than warming or brightening. The site's load-bearing content is specification-first: wattage tables, IES file downloads, DLC listing confirmations, and CCT selectors occupy more screen real estate than photography or lifestyle copy. Contractors and lighting designers arrive with specs already in mind; the UI honors that by foregrounding filter panels and downloadable photometric data over marketing narrative. The entire system reads as a technical document that happens to be styled — and that register is precisely correct for specifying architectural-grade exterior luminaires.
 
 colors:
   primary: "#415d6f"
@@ -361,6 +365,8 @@ components:
 - Footer four-column grid stacks to two columns at tablet and single column at mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No brand-specific icon set confirmed; `revicons` detected in font stacks (a WordPress plugin glyph font), so actual product UI icons are unknown and likely a separate SVG set
 - Exact Raleway and Poppins weight usage not confirmed beyond font-family detection; weights above are inferred from commercial lighting catalog conventions

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Ayuna
-description: Ayuna is a conscious skincare brand that speaks in quiet, deliberate tones — a palette anchored on a soft off-white canvas (#f0f0f0) and a muted ink (#1e1f26) that reads more like charcoal than pure black. The brand's signature voltage comes from a warm amber accent (#eac078) that appears sparingly, like sunlight catching the edge of a glass bottle, and a secondary teal (#1ea0c3) that adds a clinical, clean counterpoint. The most frequently occurring hex values — #555555, #949494, #cccccc, #dddddd — reveal a system that trusts tonal grays over high-contrast extremes; body text sits at #555555 rather than pure black, giving every page a breathable, editorial feel. Typography leans on system serifs and monospace faces (Consolas, Menlo, Monaco) for a lab-notebook authenticity, while sans-serif fallbacks keep the reading experience clean. Buttons and interactive elements use the amber (#eac078) as a primary CTA color, with a deeper variant (#ff9900) for active states, and all corners are softly rounded — `{rounded.sm}` (8px) for buttons, `{rounded.md}` (12px) for cards — avoiding the pill-shaped exuberance of consumer marketplaces. The brand's mood is one of considered minimalism: generous whitespace, a restrained accent palette that includes blush (#e94c89) and mint (#02e49b) for seasonal or limited-edition cues, and a typographic system that never shouts. This is a design system for a brand that wants you to read the ingredient list, not just the headline.
+name: "Ayuna"
+source_url: "https://ayuna.co"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Ayuna is a conscious skincare brand that speaks in quiet, deliberate tones — a palette anchored on a soft off-white canvas (#f0f0f0) and a muted ink (#1e1f26) that reads more like charcoal than pure black. The brand's signature voltage comes from a warm amber accent (#eac078) that appears sparingly, like sunlight catching the edge of a glass bottle, and a secondary teal (#1ea0c3) that adds a clinical, clean counterpoint. The most frequently occurring hex values — #555555, #949494, #cccccc, #dddddd — reveal a system that trusts tonal grays over high-contrast extremes; body text sits at #555555 rather than pure black, giving every page a breathable, editorial feel. Typography leans on system serifs and monospace faces (Consolas, Menlo, Monaco) for a lab-notebook authenticity, while sans-serif fallbacks keep the reading experience clean. Buttons and interactive elements use the amber (#eac078) as a primary CTA color, with a deeper variant (#ff9900) for active states, and all corners are softly rounded — `{rounded.sm}` (8px) for buttons, `{rounded.md}` (12px) for cards — avoiding the pill-shaped exuberance of consumer marketplaces. The brand's mood is one of considered minimalism: generous whitespace, a restrained accent palette that includes blush (#e94c89) and mint (#02e49b) for seasonal or limited-edition cues, and a typographic system that never shouts. This is a design system for a brand that wants you to read the ingredient list, not just the headline.
 
 colors:
   primary: "#eac078"
@@ -306,6 +310,8 @@ components:
 - Side-by-side ingredient details collapse to stacked layout on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components could not be fully extracted from the live site; transitions and animations are inferred from brand behavior
 - Error states for forms (validation messages, error icons) are not documented

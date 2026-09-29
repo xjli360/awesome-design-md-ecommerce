@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Aukey
-description: A deep-navy (#0f1822) electronics brand whose signature voltage comes from a vivid teal-green (#00bda2) — a color that reads as cool, conductive, and engineered, not warm or organic. The teal appears on primary CTAs, sale badges, and the "Shop Now" orb, while the dark navy forms the persistent header bar and footer, creating a high-contrast, technical feel. The extracted palette is unusually broad (25+ colors), suggesting a Shopify store with many widget layers, but the core brand axis is clear: navy canvas, teal action, and a secondary orange (#f15a24) used sparingly for urgency badges and price drops. Type runs Montserrat across multiple weights — SemiBold for headings, Medium for body, Regular for captions — with Epilogue appearing as a secondary display face. Product cards use soft corners (`{rounded.sm}` ~8px) and generous white space (`{spacing.base}` ~16px) to let the tech photography breathe, while the persistent top nav stays fixed at `{spacing.xl}` height with a white background and navy text. The checkout flow introduces a separate accent (#007aff) for Apple Pay integration, and the review stars use a dedicated JudgemeStar font. This is a brand that trusts its product imagery over decorative flourishes — the design system is a clean, dark-light frame for the hardware.
+name: "Aukey"
+source_url: "https://www.aukey.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep-navy (#0f1822) electronics brand whose signature voltage comes from a vivid teal-green (#00bda2) — a color that reads as cool, conductive, and engineered, not warm or organic. The teal appears on primary CTAs, sale badges, and the "Shop Now" orb, while the dark navy forms the persistent header bar and footer, creating a high-contrast, technical feel. The extracted palette is unusually broad (25+ colors), suggesting a Shopify store with many widget layers, but the core brand axis is clear: navy canvas, teal action, and a secondary orange (#f15a24) used sparingly for urgency badges and price drops. Type runs Montserrat across multiple weights — SemiBold for headings, Medium for body, Regular for captions — with Epilogue appearing as a secondary display face. Product cards use soft corners (`{rounded.sm}` ~8px) and generous white space (`{spacing.base}` ~16px) to let the tech photography breathe, while the persistent top nav stays fixed at `{spacing.xl}` height with a white background and navy text. The checkout flow introduces a separate accent (#007aff) for Apple Pay integration, and the review stars use a dedicated JudgemeStar font. This is a brand that trusts its product imagery over decorative flourishes — the design system is a clean, dark-light frame for the hardware.
 
 colors:
   primary: "#00bda2"
@@ -324,6 +328,8 @@ components:
 - Product card badges reduce font size to 10px on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Extracted color list is unusually large (25+ colors), likely including Shopify widget colors (Klarna, Afterpay, Apple Pay), social icon colors, and stock image dominant tones. The true brand palette may be smaller — the 6-8 core colors listed above are the most confident picks.
 - Font stack includes "Mont-SerratSemiBold" with a typo (hyphen and missing "t") — likely a CSS error or custom font name. Mapped to Montserrat-SemiBold for consistency.

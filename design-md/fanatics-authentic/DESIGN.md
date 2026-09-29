@@ -1,33 +1,11 @@
 ---
 version: alpha
-name: Fanatics Authentic
-description: >-
-  The authentication hologram seal — not the athlete's signature — is the product.
-  That founding premise shapes every visual decision: provenance must read as valuable
-  as the object it certifies. A near-black canvas (#0a0a0a) absorbs ambient color from
-  stadium photography, letting gold certification accents (estimated #c9a227) function
-  as ink on a certificate of origin rather than promotional callouts. The dark-field
-  approach suppresses competing visual noise so the trust-tier hierarchy — Fanatics
-  Authentic first-party auth, then PSA, JSA, and Beckett partner certifications —
-  registers in the scanning eye before price does. Player photography bleeds
-  edge-to-edge across hero sections with minimal framing; jersey numbers and arena
-  lights establish emotional register before any copy loads. Typography runs a
-  condensed sans-serif in bold 700-weight for athlete names, generous tracking
-  maintaining legibility across grid densities of 12–24 product cards; all-caps
-  surnames and category labels create a uniform scanning cadence while mixed-case
-  body copy slows the eye for provenance detail. The fixed navigation bar is
-  near-black and minimal — a thin gold underline on the active category avoids the
-  visual weight of filled pills and sustains the premium register without clutter.
-  Product cards reserve a dedicated certification badge strip at the card's lower
-  edge ({rounded.xs} corners, {colors.authentication-gold} fill for first-party auth,
-  {colors.badge-partner} for third-party certifications), making trust tier legible
-  before the price block. Generous {spacing.lg} gutters in the product grid prevent
-  the visual sense of overstock that would undermine the collectibles premium. The
-  footer is a quiet credential wall — partner authentication logos rendered in
-  {colors.muted} against {colors.surface-card}, signaling institutional backing
-  without competing with the product pages above. {rounded.sm} cards and {rounded.xs}
-  badge geometry echo a display case rather than a retail shelf — built for collectors
-  who read terms of provenance before they check price.
+name: "Fanatics Authentic"
+source_url: "https://www.fanaticsauthentic.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The authentication hologram seal — not the athlete's signature — is the product. That founding premise shapes every visual decision: provenance must read as valuable as the object it certifies. A near-black canvas (#0a0a0a) absorbs ambient color from stadium photography, letting gold certification accents (estimated #c9a227) function as ink on a certificate of origin rather than promotional callouts. The dark-field approach suppresses competing visual noise so the trust-tier hierarchy — Fanatics Authentic first-party auth, then PSA, JSA, and Beckett partner certifications — registers in the scanning eye before price does. Player photography bleeds edge-to-edge across hero sections with minimal framing; jersey numbers and arena lights establish emotional register before any copy loads. Typography runs a condensed sans-serif in bold 700-weight for athlete names, generous tracking maintaining legibility across grid densities of 12–24 product cards; all-caps surnames and category labels create a uniform scanning cadence while mixed-case body copy slows the eye for provenance detail. The fixed navigation bar is near-black and minimal — a thin gold underline on the active category avoids the visual weight of filled pills and sustains the premium register without clutter. Product cards reserve a dedicated certification badge strip at the card's lower edge ({rounded.xs} corners, {colors.authentication-gold} fill for first-party auth, {colors.badge-partner} for third-party certifications), making trust tier legible before the price block. Generous {spacing.lg} gutters in the product grid prevent the visual sense of overstock that would undermine the collectibles premium. The footer is a quiet credential wall — partner authentication logos rendered in {colors.muted} against {colors.surface-card}, signaling institutional backing without competing with the product pages above. {rounded.sm} cards and {rounded.xs} badge geometry echo a display case rather than a retail shelf — built for collectors who read terms of provenance before they check price.
 
 colors:
   primary: "#c9a227"
@@ -350,6 +328,8 @@ components:
 - Footer partner badge row collapses from a 6-column logo grid to 3-column at tablet and 2-column at mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **No colors extracted**: The site returned "Access Denied" during crawl. All palette values — #0a0a0a canvas, #c9a227 gold, surface grays, muted tones — are estimated from Fanatics brand patterns and premium-collectibles dark-mode conventions. Verify every hex against live CSS before production use.
 - **No fonts extracted**: Typography stack defaults to `'Helvetica Neue', Arial, sans-serif`. Fanatics may use a licensed or proprietary typeface (Gotham, Futura, or a custom variant). Inspect live font-face declarations before committing.

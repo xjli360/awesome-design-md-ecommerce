@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Carved
-description: The brand's visual identity is anchored on a deep, warm brown #582012 — the meta theme-color that spills from the browser chrome into the site's own navigation bar, creating a seamless, almost leather-bound frame for the product photography. This brown, alongside its lighter companion #653c28, reads as wood stain and patina, not corporate neutral; it's the color of a well-worn knife handle or a guitar fretboard. Against a canvas of #eeeeee and #f2f1ee, the product shots — wooden phone cases with live-edge contours and resin inlays — become the sole source of visual texture. The typography runs Assistant and Harman-Sans, a pairing that feels utilitarian and workshop-adjacent: clean enough for e-commerce but with enough character to nod at the handcrafted. Buttons and badges lean into a restrained use of #ff0000 and #ff3939 for sale markers and cart indicators, a sharp, almost automotive-red accent that cuts through the earth tones. The overall mood is that of a maker's studio translated into a storefront: generous whitespace, soft card radii ({rounded.md}), and a navigation that lets the grain of the wood — not the chrome of the interface — do the selling.
+name: "Carved"
+source_url: "https://www.carved.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The brand's visual identity is anchored on a deep, warm brown #582012 — the meta theme-color that spills from the browser chrome into the site's own navigation bar, creating a seamless, almost leather-bound frame for the product photography. This brown, alongside its lighter companion #653c28, reads as wood stain and patina, not corporate neutral; it's the color of a well-worn knife handle or a guitar fretboard. Against a canvas of #eeeeee and #f2f1ee, the product shots — wooden phone cases with live-edge contours and resin inlays — become the sole source of visual texture. The typography runs Assistant and Harman-Sans, a pairing that feels utilitarian and workshop-adjacent: clean enough for e-commerce but with enough character to nod at the handcrafted. Buttons and badges lean into a restrained use of #ff0000 and #ff3939 for sale markers and cart indicators, a sharp, almost automotive-red accent that cuts through the earth tones. The overall mood is that of a maker's studio translated into a storefront: generous whitespace, soft card radii ({rounded.md}), and a navigation that lets the grain of the wood — not the chrome of the interface — do the selling.
 
 colors:
   primary: "#582012"
@@ -250,6 +254,8 @@ components:
 - Badges remain visible at all breakpoints but may shrink in font size on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states**: Only `button-primary` and `button-secondary` hover states could be reliably inferred. Other interactive elements (links, icon buttons) may have custom hover effects not captured.
 - **Error styling**: Form validation error colors and states (e.g., red border, error message typography) were not observed.

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Makeup by Mario
-description: Makeup by Mario is a masterclass in quiet confidence. The brand speaks in a hushed, sophisticated tone, using a palette anchored by deep, almost-black charcoals like `#1f1d1d` and `#121212` against a pristine `#f9f9f9` canvas. This isn't a stark, clinical minimalism; it's a warm, tactile luxury. The primary action color, a muted slate blue (`#1f2a34`), avoids the typical cosmetic pink or red, signaling a focus on artistry over trend. Accents of a brighter, almost electric blue (`#1990c6`) and its deeper variant (`#136f99`) appear sparingly, like a flash of inspiration on a neutral eye. Typography is a deliberate mix: the clean, geometric `TradeGothicLT` for headlines and body copy provides a modern, editorial structure, while the occasional use of `Adelaila-Brush` introduces a hand-drawn, artisanal warmth, perhaps in product names or signature quotes. The overall feel is that of a high-end art studio—controlled, intentional, and deeply personal. Corners are softly rounded (`{rounded.sm}` to `{rounded.md}`), never harsh, and generous whitespace (`{spacing.section}`) gives every product room to breathe. The brand trusts its imagery and the weight of its founder's name, letting the design recede into a supporting role that feels both premium and approachable.
+name: "Makeup by Mario"
+source_url: "https://www.makeupbymario.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Makeup by Mario is a masterclass in quiet confidence. The brand speaks in a hushed, sophisticated tone, using a palette anchored by deep, almost-black charcoals like `#1f1d1d` and `#121212` against a pristine `#f9f9f9` canvas. This isn't a stark, clinical minimalism; it's a warm, tactile luxury. The primary action color, a muted slate blue (`#1f2a34`), avoids the typical cosmetic pink or red, signaling a focus on artistry over trend. Accents of a brighter, almost electric blue (`#1990c6`) and its deeper variant (`#136f99`) appear sparingly, like a flash of inspiration on a neutral eye. Typography is a deliberate mix: the clean, geometric `TradeGothicLT` for headlines and body copy provides a modern, editorial structure, while the occasional use of `Adelaila-Brush` introduces a hand-drawn, artisanal warmth, perhaps in product names or signature quotes. The overall feel is that of a high-end art studio—controlled, intentional, and deeply personal. Corners are softly rounded (`{rounded.sm}` to `{rounded.md}`), never harsh, and generous whitespace (`{spacing.section}`) gives every product room to breathe. The brand trusts its imagery and the weight of its founder's name, letting the design recede into a supporting role that feels both premium and approachable.
 
 colors:
   primary: "#1f2a34"
@@ -417,6 +421,8 @@ components:
 - Product image galleries switch from a thumbnail strip to a swipeable carousel on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover States**: While active and focus states are defined for primary and secondary buttons, hover states for many components (e.g., nav links, footer links, product cards) were not explicitly extracted from the live site and rely on inferred patterns.
 - **Error Styling**: Only a basic error border color (`#c13515`) is defined for text inputs. Error message typography, iconography, and form-level error states are not specified.

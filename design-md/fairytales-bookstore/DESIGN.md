@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Fairytales Bookstore
-description: A storybook-green (#36855c) doorframe against a warm gray (#f8f8f8) storefront — the brand’s primary color reads like a forest canopy, not a corporate green, and it appears on every button, badge, and navigation accent. The palette is deliberately muted: body text sits in #2b333f, a deep slate that softens reading fatigue, while #73859f and #919191 handle secondary labels and metadata with a quiet, almost chalky restraint. The single burst of warmth comes from #ffe53b, a marigold yellow used sparingly on sale badges and story-time callouts — it lands like a bookmark left in a favorite page. Typography runs Inter at modest weights (400–600), with display headlines at 24–28px and body copy at 15–16px, never shouting. Cards and buttons use {rounded.sm} (8px) corners — soft enough for a children’s store, not so round that they feel toy-like. The checkout flow introduces #006aff (a standard blue) and #d92b2b (an error red), but the brand’s own voice stays in the green-gray spectrum. The overall mood is calm, literate, and tactile without being precious — a bookstore that trusts its inventory and its readers.
+name: "Fairytales Bookstore"
+source_url: "https://fairytalesnashville.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A storybook-green (#36855c) doorframe against a warm gray (#f8f8f8) storefront — the brand’s primary color reads like a forest canopy, not a corporate green, and it appears on every button, badge, and navigation accent. The palette is deliberately muted: body text sits in #2b333f, a deep slate that softens reading fatigue, while #73859f and #919191 handle secondary labels and metadata with a quiet, almost chalky restraint. The single burst of warmth comes from #ffe53b, a marigold yellow used sparingly on sale badges and story-time callouts — it lands like a bookmark left in a favorite page. Typography runs Inter at modest weights (400–600), with display headlines at 24–28px and body copy at 15–16px, never shouting. Cards and buttons use {rounded.sm} (8px) corners — soft enough for a children’s store, not so round that they feel toy-like. The checkout flow introduces #006aff (a standard blue) and #d92b2b (an error red), but the brand’s own voice stays in the green-gray spectrum. The overall mood is calm, literate, and tactile without being precious — a bookstore that trusts its inventory and its readers.
 
 colors:
   primary: "#36855c"
@@ -299,6 +303,8 @@ components:
 - Hero banner text reduces from display-xl to display-md on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for all components are inferred from common patterns; actual extracted hover colors are not available.
 - Error styling for forms (error messages, validation icons) is not extracted — only the error border color (#d92b2b) is known.

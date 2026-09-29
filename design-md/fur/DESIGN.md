@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Fur
-description: Fur is a body-care brand that treats grooming as a ritual of care, not a chore. The palette is anchored by a warm, botanical gold (`#beb132`) that appears on primary buttons and key accents, evoking honey, beeswax, and the brand's oil-based formulations. This gold sits against a deep navy ink (`#272d45`) used for body text and headlines, creating a sophisticated contrast that feels more apothecary than clinical. The canvas is a soft off-white (`#f9f9f9`) with subtle gray-blue surfaces (`#e5e5eb`, `#f4f4f6`) that keep the experience airy and calm. Accent teals (`#0e7a82`, `#b2f9e9`) and a muted slate (`#676986`) appear in product details, ingredient callouts, and secondary UI elements, reinforcing the brand's connection to natural ingredients and wellness. The typography relies on Superior Title Web for display and heading treatments — a serifed face with refined proportions that lends editorial warmth — while body copy and UI text fall back to system sans-serifs. Buttons use the gold with white text (`{colors.on-primary}`), and all corners are gently rounded (`{rounded.sm}` to `{rounded.md}`), never sharp, so the interface feels tactile and approachable. The overall mood is intimate, grounded, and quietly luxurious — a digital space that mirrors the experience of using the products themselves.
+name: "Fur"
+source_url: "https://furyou.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Fur is a body-care brand that treats grooming as a ritual of care, not a chore. The palette is anchored by a warm, botanical gold (`#beb132`) that appears on primary buttons and key accents, evoking honey, beeswax, and the brand's oil-based formulations. This gold sits against a deep navy ink (`#272d45`) used for body text and headlines, creating a sophisticated contrast that feels more apothecary than clinical. The canvas is a soft off-white (`#f9f9f9`) with subtle gray-blue surfaces (`#e5e5eb`, `#f4f4f6`) that keep the experience airy and calm. Accent teals (`#0e7a82`, `#b2f9e9`) and a muted slate (`#676986`) appear in product details, ingredient callouts, and secondary UI elements, reinforcing the brand's connection to natural ingredients and wellness. The typography relies on Superior Title Web for display and heading treatments — a serifed face with refined proportions that lends editorial warmth — while body copy and UI text fall back to system sans-serifs. Buttons use the gold with white text (`{colors.on-primary}`), and all corners are gently rounded (`{rounded.sm}` to `{rounded.md}`), never sharp, so the interface feels tactile and approachable. The overall mood is intimate, grounded, and quietly luxurious — a digital space that mirrors the experience of using the products themselves.
 
 colors:
   primary: "#beb132"
@@ -373,6 +377,8 @@ components:
 - Multi-column product grids collapse to single column on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for product cards (shadow depth, scale) could not be reliably extracted
 - Error styling for form validation (inline messages, iconography) was inferred from common patterns

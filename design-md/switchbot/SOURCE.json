@@ -1,0 +1,898 @@
+{
+  "source_url": "https://switch-bot.com",
+  "final_url": "https://www.switch-bot.com/",
+  "captured_at": "2026-09-28T09:23:51.694522+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://switch-bot.com",
+      "final_url": "https://www.switch-bot.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "4324f4b32f871f04cb2adc01b7a3da4402138aa3ac2016b1fb29d7ab79512350",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.switch-bot.com/cdn/shop/t/71/assets/common.css?v=71387240662664766501782209488",
+      "final_url": "https://www.switch-bot.com/cdn/shop/t/71/assets/common.css?v=71387240662664766501782209488",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2ab81e022e7069b47662651e064cccc2f673f2649d2cf04ff76b6cfc8f8c6f28",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Nunito+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap",
+      "final_url": "https://fonts.googleapis.com/css?family=Nunito+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "83cd9ef137bca9071e2bf8ebb9a0edc056799336a9512c81039184e2f050d780",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754",
+      "final_url": "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "99a4b630ce1aff6ec34d6fe822ae85125d42ee06544b548851ae737caa50524e",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.switch-bot.com/cdn/shop/t/71/assets/non-critical.min.css?v=97849266877172363861725955887",
+      "final_url": "https://www.switch-bot.com/cdn/shop/t/71/assets/non-critical.min.css?v=97849266877172363861725955887",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "63df349da59edf4100651025ecb7d0f6aed091685d779c89d0f35b0a4a995640",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.switch-bot.com/cdn/shop/t/71/assets/cartDisount.css?v=105397065774862957221780640544",
+      "final_url": "https://www.switch-bot.com/cdn/shop/t/71/assets/cartDisount.css?v=105397065774862957221780640544",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "12f7f2c54d4702f99b9dcc7b30bae6fce1050cff79c5e21baad40482fd5b61df",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#919da9": {
+      "count": 342,
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 309,
+      "sources": [
+        "https://www.switch-bot.com/",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/non-critical.min.css?v=97849266877172363861725955887",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/cartDisount.css?v=105397065774862957221780640544"
+      ]
+    },
+    "#000000": {
+      "count": 146,
+      "sources": [
+        "https://www.switch-bot.com/",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/non-critical.min.css?v=97849266877172363861725955887",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/cartDisount.css?v=105397065774862957221780640544"
+      ]
+    },
+    "#e0393a": {
+      "count": 75,
+      "sources": [
+        "https://www.switch-bot.com/",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/cartDisount.css?v=105397065774862957221780640544"
+      ]
+    },
+    "#121212": {
+      "count": 74,
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "#303030": {
+      "count": 73,
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 27,
+      "sources": [
+        "https://www.switch-bot.com/",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/non-critical.min.css?v=97849266877172363861725955887"
+      ]
+    },
+    "#3d3d3d": {
+      "count": 26,
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 24,
+      "sources": [
+        "https://www.switch-bot.com/",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/non-critical.min.css?v=97849266877172363861725955887"
+      ]
+    },
+    "#444444": {
+      "count": 23,
+      "sources": [
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/non-critical.min.css?v=97849266877172363861725955887"
+      ]
+    },
+    "#333333": {
+      "count": 19,
+      "sources": [
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/non-critical.min.css?v=97849266877172363861725955887"
+      ]
+    },
+    "#444749": {
+      "count": 18,
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "#b9bfca": {
+      "count": 18,
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "#334fb4": {
+      "count": 18,
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "#434343": {
+      "count": 14,
+      "sources": [
+        "https://www.switch-bot.com/",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754"
+      ]
+    },
+    "#616161": {
+      "count": 12,
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 11,
+      "sources": [
+        "https://www.switch-bot.com/",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/non-critical.min.css?v=97849266877172363861725955887"
+      ]
+    },
+    "#666666": {
+      "count": 11,
+      "sources": [
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/non-critical.min.css?v=97849266877172363861725955887",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/cartDisount.css?v=105397065774862957221780640544"
+      ]
+    },
+    "#333844": {
+      "count": 10,
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "#8a8a8a": {
+      "count": 10,
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "#fdfdfd": {
+      "count": 9,
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "#5d6b82": {
+      "count": 9,
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "#d1d5db": {
+      "count": 9,
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "#fa541c": {
+      "count": 9,
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "#7967c0": {
+      "count": 9,
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "#1c1d1f": {
+      "count": 9,
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "#f4f5fa": {
+      "count": 9,
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "#242833": {
+      "count": 9,
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "#555555": {
+      "count": 9,
+      "sources": [
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/non-critical.min.css?v=97849266877172363861725955887"
+      ]
+    },
+    "#f7f8f8": {
+      "count": 7,
+      "sources": [
+        "https://www.switch-bot.com/",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 7,
+      "sources": [
+        "https://www.switch-bot.com/",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754"
+      ]
+    },
+    "#3c3c3c": {
+      "count": 7,
+      "sources": [
+        "https://www.switch-bot.com/",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754"
+      ]
+    },
+    "#2332d5": {
+      "count": 7,
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 7,
+      "sources": [
+        "https://www.switch-bot.com/",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/non-critical.min.css?v=97849266877172363861725955887"
+      ]
+    },
+    "#efefef": {
+      "count": 7,
+      "sources": [
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754"
+      ]
+    },
+    "#eeeeee": {
+      "count": 6,
+      "sources": [
+        "https://www.switch-bot.com/",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754"
+      ]
+    },
+    "#29201e": {
+      "count": 6,
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 6,
+      "sources": [
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/non-critical.min.css?v=97849266877172363861725955887"
+      ]
+    },
+    "#dadddf": {
+      "count": 5,
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 5,
+      "sources": [
+        "https://www.switch-bot.com/",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/non-critical.min.css?v=97849266877172363861725955887"
+      ]
+    },
+    "#999999": {
+      "count": 5,
+      "sources": [
+        "https://www.switch-bot.com/",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/non-critical.min.css?v=97849266877172363861725955887"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 5,
+      "sources": [
+        "https://www.switch-bot.com/",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/non-critical.min.css?v=97849266877172363861725955887"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 5,
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "#dfdfdf": {
+      "count": 5,
+      "sources": [
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/non-critical.min.css?v=97849266877172363861725955887"
+      ]
+    },
+    "#777777": {
+      "count": 5,
+      "sources": [
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/non-critical.min.css?v=97849266877172363861725955887"
+      ]
+    },
+    "#feae17": {
+      "count": 4,
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "#f7f8f9": {
+      "count": 4,
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "#f7f7f8": {
+      "count": 4,
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "#005bd3": {
+      "count": 4,
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "#69ce82": {
+      "count": 4,
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "#dee6ff": {
+      "count": 4,
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "#b5b5b5": {
+      "count": 4,
+      "sources": [
+        "https://www.switch-bot.com/",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/non-critical.min.css?v=97849266877172363861725955887"
+      ]
+    },
+    "#8051ff": {
+      "count": 4,
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "#888888": {
+      "count": 4,
+      "sources": [
+        "https://www.switch-bot.com/",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/non-critical.min.css?v=97849266877172363861725955887"
+      ]
+    },
+    "#444645": {
+      "count": 4,
+      "sources": [
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/non-critical.min.css?v=97849266877172363861725955887"
+      ]
+    },
+    "#2a2c2f": {
+      "count": 4,
+      "sources": [
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/non-critical.min.css?v=97849266877172363861725955887"
+      ]
+    },
+    "#293242": {
+      "count": 3,
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "#cdfee1": {
+      "count": 3,
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "#808080": {
+      "count": 3,
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "#27272d": {
+      "count": 3,
+      "sources": [
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/non-critical.min.css?v=97849266877172363861725955887"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754",
+      "https://www.switch-bot.com/cdn/shop/t/71/assets/non-critical.min.css?v=97849266877172363861725955887",
+      "https://www.switch-bot.com/cdn/shop/t/71/assets/cartDisount.css?v=105397065774862957221780640544"
+    ],
+    "Baskerville": [
+      "https://www.switch-bot.com/cdn/shop/t/71/assets/non-critical.min.css?v=97849266877172363861725955887"
+    ],
+    "Font Awesome 5 Brands": [
+      "https://www.switch-bot.com/"
+    ],
+    "Font Awesome 5 Free": [
+      "https://www.switch-bot.com/"
+    ],
+    "Font Awesome 6 Brands": [
+      "https://www.switch-bot.com/"
+    ],
+    "Font Awesome 6 Free": [
+      "https://www.switch-bot.com/"
+    ],
+    "FontAwesome": [
+      "https://www.switch-bot.com/"
+    ],
+    "Helvetica": [
+      "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754"
+    ],
+    "JudgemeStar": [
+      "https://www.switch-bot.com/"
+    ],
+    "Noto Sans": [
+      "https://www.switch-bot.com/",
+      "https://www.switch-bot.com/cdn/shop/t/71/assets/common.css?v=71387240662664766501782209488"
+    ],
+    "Noto Sans JP": [
+      "https://www.switch-bot.com/"
+    ],
+    "Nunito Sans": [
+      "https://fonts.googleapis.com/css?family=Nunito+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap"
+    ],
+    "Open Sans": [
+      "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754"
+    ],
+    "Raleway": [
+      "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754"
+    ],
+    "monospace": [
+      "https://www.switch-bot.com/cdn/shop/t/71/assets/non-critical.min.css?v=97849266877172363861725955887"
+    ],
+    "sans-serif": [
+      "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754",
+      "https://www.switch-bot.com/cdn/shop/t/71/assets/non-critical.min.css?v=97849266877172363861725955887",
+      "https://www.switch-bot.com/cdn/shop/t/71/assets/cartDisount.css?v=105397065774862957221780640544"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.switch-bot.com/",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #E0393A;--jdgm-secondary-color: rgba(224,57,58,0.1);--jdgm-star-color: #ecb812;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #E0393A;--jdgm-paginate-color: #3D3D3D;--jdgm-border-radius: 0;--jdgm-reviewer-name-color: #3D3D3D"
+    },
+    {
+      "source": "https://www.switch-bot.com/",
+      "selector": ".switchbot-header-menu",
+      "declarations": "margin: 0px 0px 0 20px;\n            font-family: 'Noto Sans';\n            color: #333844;\n            display: none;\n            align-items:center;\n            justify-content: center;\n            flex: 1;\n            gap: 24px;"
+    },
+    {
+      "source": "https://www.switch-bot.com/",
+      "selector": ".my-custom-search-inputwrap > button",
+      "declarations": "width: 24px;\n        height: 24px;\n        display: flex;\n        align-items: center;\n        justify-content: center;\n        background-color: transparent;\n        border: none;"
+    },
+    {
+      "source": "https://www.switch-bot.com/",
+      "selector": ".my-custom-search-inputwrap > button svg",
+      "declarations": "width: 22px;\n        height: 22px;\n        display: block;\n        -webkit-appearance: none;\n        -webkit-transform: translateZ(0);\n        transform: translateZ(0);\n        color: #000;"
+    },
+    {
+      "source": "https://www.switch-bot.com/",
+      "selector": "#myHeaderMobMenuCloseId",
+      "declarations": "width: 2rem;height: 2rem;text-align: center;color: #000;"
+    },
+    {
+      "source": "https://www.switch-bot.com/",
+      "selector": ".sticky-active .header-menu-item>a",
+      "declarations": "color:#000 !important"
+    },
+    {
+      "source": "https://www.switch-bot.com/",
+      "selector": ".sticky-active .header-menu-item>a",
+      "declarations": "color:#000 !important"
+    },
+    {
+      "source": "https://www.switch-bot.com/",
+      "selector": "#shopify-section-header .header.sticky-active",
+      "declarations": "background-color:#ffffff;color:#434343"
+    },
+    {
+      "source": "https://www.switch-bot.com/",
+      "selector": "#shopify-section-header .header-menu-item>a",
+      "declarations": "color:#3c3c3c"
+    },
+    {
+      "source": "https://www.switch-bot.com/",
+      "selector": "#shopify-section-header .vnd-mobile-menu,#shopify-section-header .full-width-menu",
+      "declarations": "background-color:#ffffff"
+    },
+    {
+      "source": "https://www.switch-bot.com/",
+      "selector": "#block-1597673006891 .header-search__button",
+      "declarations": "color:#3c3c3c"
+    },
+    {
+      "source": "https://www.switch-bot.com/",
+      "selector": "#block-1597673006891 .header-search__button:hover",
+      "declarations": "color:#e0393a"
+    },
+    {
+      "source": "https://www.switch-bot.com/",
+      "selector": "#block-1597673006891 .header-search__input",
+      "declarations": "border-color:#434343;color:#434343"
+    },
+    {
+      "source": "https://www.switch-bot.com/",
+      "selector": "#block-1597673006891 .header-search",
+      "declarations": "background-color:#434343"
+    },
+    {
+      "source": "https://www.switch-bot.com/",
+      "selector": ".menu-tt__product-showcase::before",
+      "declarations": "position:absolute;top:-7px;left:calc(100% + 2px);padding:0 1px;font-size:1.1rem;font-weight:400;letter-spacing:0;content:'hot';background-color:#feae17;color:#ffffff;white-space:nowrap;text-transform:lowercase;line-height:1;"
+    },
+    {
+      "source": "https://www.switch-bot.com/",
+      "selector": ".switchbot-header-menu-mb",
+      "declarations": "display: none;\n            font-family: 'Noto Sans';\n            color: #333844;\n            overflow-y: scroll;\n            overflow-x: hidden;"
+    },
+    {
+      "source": "https://www.switch-bot.com/",
+      "selector": ".switchbot-header-menu-mb-level0-top-middlename",
+      "declarations": "color: #3D3D3D;\n            font-weight: 600;\n            font-size: 16px;\n            line-height: 150%;"
+    },
+    {
+      "source": "https://www.switch-bot.com/",
+      "selector": ".__pf .pf-gs-button-1",
+      "declarations": "background-color:#919da9;color:#fff"
+    },
+    {
+      "source": "https://www.switch-bot.com/",
+      "selector": ".__pf .pf-gs-button-2",
+      "declarations": "color:#919da9;border:1px solid #919da9"
+    },
+    {
+      "source": "https://www.switch-bot.com/",
+      "selector": ".__pf .pf-gs-button-3",
+      "declarations": "background-color:#919da9;color:#fff;border-radius:40px"
+    },
+    {
+      "source": "https://www.switch-bot.com/",
+      "selector": ".__pf .pf-gs-button-4",
+      "declarations": "color:#919da9;border-radius:40px;border:1px solid #919da9;padding:12px 20px;margin:0;font-size:16px;line-height:16px;letter-spacing:0"
+    },
+    {
+      "source": "https://www.switch-bot.com/",
+      "selector": ".__pf .pf-gs-button-5,.__pf .pf-gs-button-6",
+      "declarations": "color:#919da9;border-style:solid;border-color:#919da9;padding:12px 20px;font-size:16px;line-height:16px;letter-spacing:0"
+    },
+    {
+      "source": "https://www.switch-bot.com/",
+      "selector": "[data-pf-type^=Button]",
+      "declarations": "background-color:var(--pf-scheme-btn-bg-color);background-image:var(--pf-scheme-btn-bg-gradient-color);color:var(--pf-scheme-btn-text-color)"
+    },
+    {
+      "source": "https://www.switch-bot.com/",
+      "selector": ".__pf .pf-button-2",
+      "declarations": "background-color:#919da9;color:#fff"
+    },
+    {
+      "source": "https://www.switch-bot.com/",
+      "selector": ".__pf .pf-button-3",
+      "declarations": "color:#919da9;border:1px solid #919da9"
+    },
+    {
+      "source": "https://www.switch-bot.com/",
+      "selector": ".__pf .pf-button-4",
+      "declarations": "background-color:#919da9;color:#fff;border-radius:40px"
+    },
+    {
+      "source": "https://www.switch-bot.com/",
+      "selector": ".__pf .pf-button-5",
+      "declarations": "color:#919da9;border-radius:40px;border:1px solid #919da9;padding:12px 20px;margin:0;font-size:16px;line-height:16px;letter-spacing:0"
+    },
+    {
+      "source": "https://www.switch-bot.com/",
+      "selector": ".__pf .pf-button-6,.__pf .pf-button-7",
+      "declarations": "color:#919da9;border-style:solid;border-color:#919da9;margin:0;font-size:16px;line-height:16px;letter-spacing:0;padding:12px 20px"
+    },
+    {
+      "source": "https://www.switch-bot.com/",
+      "selector": ".__pf .pf-button-8",
+      "declarations": "background-color:#919da9;color:#fff;padding:12px 20px"
+    },
+    {
+      "source": "https://www.switch-bot.com/",
+      "selector": ".__pf .pf-heading-1-h1,.__pf .pf-heading-1-h2,.__pf .pf-heading-1-h3,.__pf .pf-heading-1-h4,.__pf .pf-heading-1-h5,.__pf .pf-heading-1-h6",
+      "declarations": "color:var(--pf-scheme-text-color);background-color:var(--pf-scheme-bg-color)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "SwitchBot Official Website - Your Simple Switch to a Smart Home\n– SwitchBot International",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.switch-bot.com/",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/cartDisount.css?v=105397065774862957221780640544"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.switch-bot.com/",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/non-critical.min.css?v=97849266877172363861725955887",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/cartDisount.css?v=105397065774862957221780640544"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.switch-bot.com/",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.switch-bot.com/",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.switch-bot.com/",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/non-critical.min.css?v=97849266877172363861725955887"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.switch-bot.com/",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.switch-bot.com/",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/non-critical.min.css?v=97849266877172363861725955887",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/cartDisount.css?v=105397065774862957221780640544"
+      ]
+    },
+    "colors.badge-hot": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "colors.footer-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "colors.footer-text": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.switch-bot.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/style.min.css?v=168276879589199785131741855754",
+        "https://www.switch-bot.com/cdn/shop/t/71/assets/non-critical.min.css?v=97849266877172363861725955887"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.cart-drawer": {
+      "status": "inferred"
+    }
+  }
+}

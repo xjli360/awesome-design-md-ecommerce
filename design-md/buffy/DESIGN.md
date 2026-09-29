@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Buffy
-description: Buffy is a bedding brand that treats sleep as a foundational act of care, and its design system mirrors that ethos with a palette drawn from nature, comfort, and quiet confidence. The brand’s primary color, a deep forest green `#1f3f39`, anchors the experience — it appears on primary buttons, key headlines, and the site’s meta-theme bar (`#445958`), creating a consistent, grounding presence. This is balanced by a warm off-white canvas (`#fbf9f6`) that feels softer than pure white, and a secondary accent of terracotta (`#dc582a`) that adds a touch of warmth without disrupting the calm. The typography pairs a refined serif for display — Recoleta Bold — with Inter for body and UI, giving the brand a editorial-meets-modern feel. Rounded corners are generous but not cartoonish: primary buttons use `{rounded.sm}` (8px), while cards and containers use `{rounded.md}` (12px) to feel approachable. The overall mood is one of deliberate softness — muted grays like `#666666` and `#aeaeae` handle secondary text and borders, while the occasional pop of `#b1edd8` (a minty green) or `#b6db6e` (a pale lime) appears in illustrations and badges, reinforcing the natural, eco-conscious identity. Every design decision — from the pill-shaped search bar to the generous padding on product cards — whispers “rest,” not “sell.”
+name: "Buffy"
+source_url: "https://buffy.co"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Buffy is a bedding brand that treats sleep as a foundational act of care, and its design system mirrors that ethos with a palette drawn from nature, comfort, and quiet confidence. The brand’s primary color, a deep forest green `#1f3f39`, anchors the experience — it appears on primary buttons, key headlines, and the site’s meta-theme bar (`#445958`), creating a consistent, grounding presence. This is balanced by a warm off-white canvas (`#fbf9f6`) that feels softer than pure white, and a secondary accent of terracotta (`#dc582a`) that adds a touch of warmth without disrupting the calm. The typography pairs a refined serif for display — Recoleta Bold — with Inter for body and UI, giving the brand a editorial-meets-modern feel. Rounded corners are generous but not cartoonish: primary buttons use `{rounded.sm}` (8px), while cards and containers use `{rounded.md}` (12px) to feel approachable. The overall mood is one of deliberate softness — muted grays like `#666666` and `#aeaeae` handle secondary text and borders, while the occasional pop of `#b1edd8` (a minty green) or `#b6db6e` (a pale lime) appears in illustrations and badges, reinforcing the natural, eco-conscious identity. Every design decision — from the pill-shaped search bar to the generous padding on product cards — whispers “rest,” not “sell.”
 
 colors:
   primary: "#1f3f39"
@@ -356,6 +360,8 @@ components:
 - Hero section reduces padding and font size progressively on smaller screens
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for secondary and tertiary buttons (exact color shifts not extracted)
 - Focus ring styles and keyboard navigation indicators

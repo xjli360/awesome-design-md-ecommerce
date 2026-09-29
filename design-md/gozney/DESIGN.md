@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Gozney
-description: That first thing gozney.com loads is not a product shot — it is a wall of #272c32, a soot-dark charcoal that reads like the inside of a dome oven after a thousand fires. Against that dark surface, every primary CTA detonates in #c8102e, a fire-engine red pulled from the temperature gauge of an industrial kiln rather than the playful warmth of a lifestyle brand. The tension between these two anchors — blackened steel and open flame — defines the entire visual system. A deep navy (#012169) appears as a third voice behind feature blocks and editorial sections, pulling the palette toward something maritime and British, fitting for a brand born on the Dorset coast. Neutral surfaces run from a light #dedede hairline through white cards and a clean canvas, never competing with the product photography of scorched crusts and glowing fireboxes. Typography is Maison Neue across three cuts: Book for body text at 400 weight, Demi for headings and buttons at 600–700, and Mono for the technical specs that oven buyers actually care about — maximum temperature, recovery time, cooking surface area. Display headings top out at 48px and carry negative letter-spacing to keep the silhouette tight and engineered. Corner radii stay modest at {rounded.sm} for buttons and {rounded.md} for cards, rejecting the pill-shaped friendliness of wellness DTC in favor of squared-off confidence. Spacing follows an 8px grid anchored at {spacing.base} (16px), with generous {spacing.section} (64px) gaps that give full-bleed hero images room to breathe. The overall effect is a digital showroom that feels like walking through a commercial kitchen outfitter: everything bolted down, nothing decorative, the product always centered under a single overhead light.
+name: "Gozney"
+source_url: "https://www.gozney.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  That first thing gozney.com loads is not a product shot — it is a wall of #272c32, a soot-dark charcoal that reads like the inside of a dome oven after a thousand fires. Against that dark surface, every primary CTA detonates in #c8102e, a fire-engine red pulled from the temperature gauge of an industrial kiln rather than the playful warmth of a lifestyle brand. The tension between these two anchors — blackened steel and open flame — defines the entire visual system. A deep navy (#012169) appears as a third voice behind feature blocks and editorial sections, pulling the palette toward something maritime and British, fitting for a brand born on the Dorset coast. Neutral surfaces run from a light #dedede hairline through white cards and a clean canvas, never competing with the product photography of scorched crusts and glowing fireboxes. Typography is Maison Neue across three cuts: Book for body text at 400 weight, Demi for headings and buttons at 600–700, and Mono for the technical specs that oven buyers actually care about — maximum temperature, recovery time, cooking surface area. Display headings top out at 48px and carry negative letter-spacing to keep the silhouette tight and engineered. Corner radii stay modest at {rounded.sm} for buttons and {rounded.md} for cards, rejecting the pill-shaped friendliness of wellness DTC in favor of squared-off confidence. Spacing follows an 8px grid anchored at {spacing.base} (16px), with generous {spacing.section} (64px) gaps that give full-bleed hero images room to breathe. The overall effect is a digital showroom that feels like walking through a commercial kitchen outfitter: everything bolted down, nothing decorative, the product always centered under a single overhead light.
 
 colors:
   primary: "#c8102e"
@@ -441,6 +445,8 @@ components:
 - Search transitions from an overlay panel to a full-screen takeover on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only five hex colors (#c8102e, #272c32, #012169, #dedede, #121212) were reliably extracted from the live site; all derived tones (muted, surface-soft, hairline-soft, primary-active, primary-disabled) are inferred from those anchors
 - Star rating color (#f59e0b) is a standard gold assumed from common e-commerce patterns, not extracted from the site

@@ -1,0 +1,541 @@
+{
+  "source_url": "https://earthbath.com",
+  "final_url": "https://earthbath.com/",
+  "captured_at": "2026-09-28T09:54:13.052959+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://earthbath.com",
+      "final_url": "https://earthbath.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "5d7227996e2b53f36ea041e75a1dcf97156c2a0c5db268a3c75101ba8da376a2",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172",
+      "final_url": "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1184ad5506fa6c1f89900292d6495a2921b8e2752a8775d151ac4d90e90cf6d9",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://earthbath.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://earthbath.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 7,
+      "sources": [
+        "https://earthbath.com/",
+        "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172",
+        "https://earthbath.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#000000": {
+      "count": 7,
+      "sources": [
+        "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172"
+      ]
+    },
+    "#ff8920": {
+      "count": 5,
+      "sources": [
+        "https://earthbath.com/"
+      ]
+    },
+    "#0076c7": {
+      "count": 3,
+      "sources": [
+        "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172"
+      ]
+    },
+    "#ffeeeedd": {
+      "count": 2,
+      "sources": [
+        "https://earthbath.com/"
+      ]
+    },
+    "#0000001a": {
+      "count": 2,
+      "sources": [
+        "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://earthbath.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://earthbath.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 1,
+      "sources": [
+        "https://earthbath.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 1,
+      "sources": [
+        "https://earthbath.com/"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172"
+      ]
+    },
+    "#00000012": {
+      "count": 1,
+      "sources": [
+        "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172"
+      ]
+    },
+    "#00000026": {
+      "count": 1,
+      "sources": [
+        "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172"
+      ]
+    },
+    "#767676": {
+      "count": 1,
+      "sources": [
+        "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172"
+      ]
+    },
+    "#0176c7": {
+      "count": 1,
+      "sources": [
+        "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://earthbath.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://earthbath.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://earthbath.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://earthbath.com/"
+    ],
+    "Helvetica": [
+      "https://earthbath.com/"
+    ],
+    "Oz Handicraft": [
+      "https://earthbath.com/"
+    ],
+    "OzHandicraft BT": [
+      "https://earthbath.com/"
+    ],
+    "sans-serif": [
+      "https://earthbath.com/",
+      "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://earthbath.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: 40px;\n      --grid-column-count: 20;\n      --vertical-breather: 64px;\n      --vertical-breather-tight: 64px;\n\n      \n      --heading-xsmall-font-size: 13px;\n      --heading-small-font-size: 14px;\n      --heading-large-font-size: 58px;\n      --heading-h1-font-size: 58px;\n      --heading-h2-font-size: 44px;\n      --heading-h3-font-size: 36px;\n      --heading-h4-font-size: 28px;\n      --heading-h5-font-size: 22px;\n      --heading-h6-font-size: 20px;\n\n      \n      --form-input-field-height: 52px;\n      --form-submit-margin: 32px;\n\n      \n      --button-height: 52px;\n      --button-small-height: 44px;"
+    },
+    {
+      "source": "https://earthbath.com/",
+      "selector": ":root",
+      "declarations": "--vertical-breather: 80px;\n      --vertical-breather-tight: 64px;\n      --product-list-block-spacing: 48px;\n\n      \n      --heading-large-font-size: 72px;\n      --heading-h1-font-size: 62px;\n      --heading-h2-font-size: 54px;\n      --heading-h3-font-size: 40px;\n      --heading-h4-font-size: 34px;\n      --heading-h5-font-size: 26px;\n      --heading-h6-font-size: 18px;"
+    },
+    {
+      "source": "https://earthbath.com/",
+      "selector": ":root",
+      "declarations": "--vertical-breather: 90px;\n      --vertical-breather-tight: 64px;"
+    },
+    {
+      "source": "https://earthbath.com/",
+      "selector": ":root",
+      "declarations": "--enable-sticky-announcement-bar: 0;"
+    },
+    {
+      "source": "https://earthbath.com/",
+      "selector": ":root",
+      "declarations": "--enable-sticky-announcement-bar: 0;"
+    },
+    {
+      "source": "https://earthbath.com/",
+      "selector": ":root",
+      "declarations": "--enable-sticky-header: 1;\n    --enable-transparent-header: 0;\n    --loading-bar-background: 1, 118, 199;"
+    },
+    {
+      "source": "https://earthbath.com/",
+      "selector": "#shopify-section-header",
+      "declarations": "--header-background: 255, 255, 255;\n    --header-text-color: 1, 118, 199;\n    --header-border-color: 217, 234, 247;\n    --reduce-header-padding: 0;position: -webkit-sticky;\n      position: sticky;top: calc(var(--enable-sticky-announcement-bar) * var(--announcement-bar-height, 0px));\n    z-index: 4;"
+    },
+    {
+      "source": "https://earthbath.com/",
+      "selector": "#block-template--22490215842049__slideshow-image_et9EGD .body_text p",
+      "declarations": "color: rgb(var(--heading-color));"
+    },
+    {
+      "source": "https://earthbath.com/",
+      "selector": "#block-template--22490215842049__slideshow-image_jiQhd3 .body_text p",
+      "declarations": "color: rgb(var(--heading-color));"
+    },
+    {
+      "source": "https://earthbath.com/",
+      "selector": "#block-template--22490215842049__slideshow-image_mrBCe7 .body_text p",
+      "declarations": "color: rgb(var(--heading-color));"
+    },
+    {
+      "source": "https://earthbath.com/",
+      "selector": "#block-template--22490215842049__676c4cc6-9fa6-4d6a-9bd9-d13fe0a93dd1-template--16666353664257__676c4cc6-9fa6-4d6a-9bd9-d13fe0a93dd1-167830795664d68be3-1 .body_",
+      "declarations": "color: rgb(var(--heading-color));"
+    },
+    {
+      "source": "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172",
+      "selector": "button,input,select,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0;text-align:inherit"
+    },
+    {
+      "source": "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172",
+      "selector": ".heading,.blockquote,.rte h1,.rte h2,.rte h3,.rte h4,.rte h5,.rte h6,.rte blockquote",
+      "declarations": "display:block;font-family:var(--heading-font-family);font-weight:var(--heading-font-weight);font-style:var(--heading-font-style);color:rgb(var(--heading-color));text-transform:var(--heading-text-transform)"
+    },
+    {
+      "source": "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172",
+      "selector": "p a:not(.button),.rte a:not(.button),.link",
+      "declarations": "text-decoration:underline;text-underline-offset:2px;-webkit-text-decoration-color:rgba(var(--text-color),.35);text-decoration-color:rgba(var(--text-color),.35);transition:color .2s ease-in-out,-webkit-text-decoration-color .2s ease-in-out;transition:text-decoration-color .2s ease-in-out,color .2s ease-in-out;transition:text-decoration-color .2s ease-in-out,color .2s ease-in-out,-webkit-text-decoration-color .2s ease-in-out"
+    },
+    {
+      "source": "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172",
+      "selector": "p a:not(.button):hover,.rte a:not(.button):hover,.link:hover",
+      "declarations": "color:rgb(var(--text-color));-webkit-text-decoration-color:rgb(var(--text-color));text-decoration-color:rgb(var(--text-color))"
+    },
+    {
+      "source": "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172",
+      "selector": ".prev-next-button",
+      "declarations": "display:flex;height:40px;width:40px;justify-content:center;align-items:center;background:rgb(var(--prev-next-button-background, var(--root-background)));color:rgb(var(--prev-next-button-color, var(--root-text-color)));border:1px solid rgba(var(--prev-next-button-color, var(--root-text-color)),.15);border-radius:var(--button-border-radius);transition:color .2s ease-in-out;pointer-events:auto;overflow:hidden"
+    },
+    {
+      "source": "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172",
+      "selector": ".prev-next-button[disabled]",
+      "declarations": "color:rgba(var(--prev-next-button-color),.3)"
+    },
+    {
+      "source": "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172",
+      "selector": ".input__field,#shopify-product-reviews .spr-form-input-text,#shopify-product-reviews .spr-form-input-email,#shopify-product-reviews .spr-form-input-textarea",
+      "declarations": "-webkit-appearance:none;appearance:none;width:100%;height:var(--form-input-field-height);line-height:var(--form-input-field-height);padding:0 18px;border-radius:var(--button-border-radius);border:1px solid rgba(var(--text-color),.15);box-shadow:none;background:transparent;color:var(--form-input-color);transition:border .2s ease-in-out,box-shadow .2s ease-in-out"
+    },
+    {
+      "source": "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172",
+      "selector": ".input__field:focus,select:focus,#shopify-product-reviews .spr-form-input-text:focus,#shopify-product-reviews .spr-form-input-email:focus,#shopify-product-revie",
+      "declarations": "border-color:rgb(var(--text-color));box-shadow:0 0 0 1px rgb(var(--text-color)) inset;outline:none"
+    },
+    {
+      "source": "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172",
+      "selector": ".button,.shopify-challenge__button,#shopify-product-reviews .spr-summary-actions-newreview,#shopify-product-reviews .spr-button",
+      "declarations": "position:relative;display:inline-block;-webkit-appearance:none;appearance:none;line-height:var(--button-height);padding:0 30px;text-align:center;text-decoration:none;border-radius:var(--button-border-radius);background:rgb(var(--button-background));color:rgb(var(--button-text-color))"
+    },
+    {
+      "source": "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172",
+      "selector": ".button:not(.button--text),.shopify-challenge__button,#shopify-product-reviews .spr-summary-actions-newreview,#shopify-product-reviews .spr-button",
+      "declarations": "font-size:calc(var(--base-font-size) - 3px);font-family:var(--text-font-family);font-weight:var(--text-font-bold-weight);text-transform:uppercase;letter-spacing:1.5px"
+    },
+    {
+      "source": "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172",
+      "selector": ".button--primary,.shopify-challenge__button,#shopify-product-reviews .spr-summary-actions-newreview,#shopify-product-reviews .spr-button",
+      "declarations": "--button-background: var(--primary-button-background);--button-text-color: var(--primary-button-text-color)"
+    },
+    {
+      "source": "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172",
+      "selector": ".button--secondary",
+      "declarations": "--button-background: var(--secondary-button-background);--button-text-color: var(--secondary-button-text-color)"
+    },
+    {
+      "source": "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172",
+      "selector": ".button--ternary",
+      "declarations": "--button-background: var(--secondary-background);--button-text-color: var(--root-text-color)"
+    },
+    {
+      "source": "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172",
+      "selector": ".button--outline",
+      "declarations": "--button-background: var(--background);--button-text-color: var(--root-text-color);border:1px solid rgb(var(--border-color))"
+    },
+    {
+      "source": "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "--button-background: var(--primary-button-background);--button-text-color: var(--primary-button-text-color);position:relative!important;display:inline-block!important;-webkit-appearance:none!important;appearance:none!important;line-height:var(--button-height)!important;padding:0 30px!important;text-align:center!important;text-decoration:none!important;border-radius:var(--button-border-radius)!important;font-size:calc(var(--base-font-size) - 3px)!important;font-family:var(--text-font-family)!important;font-weight:var(--text-font-bold-weight)!important;text-transform:uppercase!important;letter-spacing:1.5px!important;background-color:rgb(var(--button-background))!important;color:rgb(var(--butt"
+    },
+    {
+      "source": "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172",
+      "selector": ".button,.shopify-challenge__button,#shopify-product-reviews .spr-summary-actions-newreview,#shopify-product-reviews .spr-button,.shopify-payment-button__button",
+      "declarations": "--button-overlay-color: rgb(from color-contrast(rgb(var(--button-background)) vs white, black) r g b / 7%);background-image:linear-gradient(178deg,rgb(var(--button-background)),rgb(var(--button-background)) 10%,var(--button-overlay-color) 10%,var(--button-overlay-color) 100%),linear-gradient(rgb(var(--button-background)),rgb(var(--button-background)))"
+    },
+    {
+      "source": "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172",
+      "selector": ".shopify-model-viewer-ui.shopify-model-viewer-ui .shopify-model-viewer-ui__button",
+      "declarations": "color:rgb(var(--text-color))"
+    },
+    {
+      "source": "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172",
+      "selector": ".shopify-model-viewer-ui.shopify-model-viewer-ui .shopify-model-viewer-ui__button--control:hover",
+      "declarations": "color:rgba(var(--text-color),.55)"
+    },
+    {
+      "source": "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172",
+      "selector": "-model-viewer-ui.shopify-model-viewer-ui .shopify-model-viewer-ui__button--control:active,.shopify-model-viewer-ui.shopify-model-viewer-ui .shopify-model-viewer",
+      "declarations": "color:rgba(var(--text-color),.55);background:rgba(var(--text-color),.25)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "earthbath | Pet Care with Purpose®",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthbath.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthbath.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthbath.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthbath.com/",
+        "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172",
+        "https://earthbath.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthbath.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthbath.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthbath.com/",
+        "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172",
+        "https://earthbath.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthbath.com/",
+        "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172",
+        "https://earthbath.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.border-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthbath.com/"
+      ]
+    },
+    "colors.overlay-scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172"
+      ]
+    },
+    "colors.overlay-faint": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthbath.com/cdn/shop/t/47/assets/theme.css?v=107863961705866680691783439172"
+      ]
+    },
+    "colors.transparent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthbath.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.filter-chip": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: FairyLoot
-description: A deep violet canvas (#1d0e45) sets the stage for a brand that treats fantasy fandom as a visual feast — the primary voltage is a coral-red (#ed4c5c) that reads like dragon-scale heat against the dark, and a secondary amethyst (#9243e2) echoes the magical-subscription promise. The extracted palette is unusually broad (30+ colors), reflecting a site that layers subscription tiers, exclusive-edition badges, countdown timers, and social-proof widgets over a dark base — the coral appears on primary CTAs and price highlights, while a warm off-white canvas (#fffcf8) breaks the darkness for card backgrounds and text-heavy sections. Typography defaults to system fonts (no custom typeface detected), which gives the brand a pragmatic, content-first feel — the fantasy atmosphere is carried entirely by color, illustration, and the {rounded.full} pill-shaped badges that announce "EXCLUSIVE" or "SOLD OUT" in coral or gold (#f0b849). The design feels like a midnight marketplace: dark enough to feel immersive, bright enough to read comfortably, with the coral acting as a beacon on every actionable element.
+name: "FairyLoot"
+source_url: "https://fairyloot.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep violet canvas (#1d0e45) sets the stage for a brand that treats fantasy fandom as a visual feast — the primary voltage is a coral-red (#ed4c5c) that reads like dragon-scale heat against the dark, and a secondary amethyst (#9243e2) echoes the magical-subscription promise. The extracted palette is unusually broad (30+ colors), reflecting a site that layers subscription tiers, exclusive-edition badges, countdown timers, and social-proof widgets over a dark base — the coral appears on primary CTAs and price highlights, while a warm off-white canvas (#fffcf8) breaks the darkness for card backgrounds and text-heavy sections. Typography defaults to system fonts (no custom typeface detected), which gives the brand a pragmatic, content-first feel — the fantasy atmosphere is carried entirely by color, illustration, and the {rounded.full} pill-shaped badges that announce "EXCLUSIVE" or "SOLD OUT" in coral or gold (#f0b849). The design feels like a midnight marketplace: dark enough to feel immersive, bright enough to read comfortably, with the coral acting as a beacon on every actionable element.
 
 colors:
   primary: "#ed4c5c"
@@ -371,6 +375,8 @@ components:
 - Star ratings hide text labels on mobile, showing only stars
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom font-family could be extracted; the site uses system font stacks. The brand may use a custom typeface (e.g., a fantasy-themed font) that is loaded via JavaScript or @font-face not captured in the extraction
 - Hover and active states for most components are inferred from the primary-active color; actual hover transitions (ease, duration) are unknown

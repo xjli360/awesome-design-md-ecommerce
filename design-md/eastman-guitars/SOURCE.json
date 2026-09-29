@@ -1,0 +1,895 @@
+{
+  "source_url": "https://www.eastmanguitars.com",
+  "final_url": "https://www.eastmanguitars.com/",
+  "captured_at": "2026-09-28T10:24:27.961445+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.eastmanguitars.com",
+      "final_url": "https://www.eastmanguitars.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "1a9a3178d0f430ec9c67e050808eee6a17804188289490ad32172d5b8435528d",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "final_url": "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3d6504e020524d1ab9e10ce9db31e247cfb8b3032bb331b79c16d8e2e6ef3f43",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss",
+      "final_url": "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "984eab78a0bdda6cc8fee3a7ccd2351f736f6ecbfe4f10ddb2c79a912b60bada",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/themes/cupertino/jquery-ui.css",
+      "final_url": "https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/themes/cupertino/jquery-ui.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "ea2d62c7e90b08a7c41206758ce52af7059a58cdfb6a2964f341642298eb9a15",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 157,
+      "sources": [
+        "https://www.eastmanguitars.com/",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss",
+        "https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/themes/cupertino/jquery-ui.css"
+      ]
+    },
+    "#000000": {
+      "count": 81,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss",
+        "https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/themes/cupertino/jquery-ui.css"
+      ]
+    },
+    "#333333": {
+      "count": 55,
+      "sources": [
+        "https://www.eastmanguitars.com/",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#111111": {
+      "count": 37,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#dddddd": {
+      "count": 32,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/themes/cupertino/jquery-ui.css"
+      ]
+    },
+    "#999999": {
+      "count": 26,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#4c4b4b": {
+      "count": 26,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#777777": {
+      "count": 23,
+      "sources": [
+        "https://www.eastmanguitars.com/",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#cccccc": {
+      "count": 21,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 20,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#eeeeee": {
+      "count": 19,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/themes/cupertino/jquery-ui.css"
+      ]
+    },
+    "#787777": {
+      "count": 17,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#3c763d": {
+      "count": 14,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss"
+      ]
+    },
+    "#8a6d3b": {
+      "count": 14,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss"
+      ]
+    },
+    "#a94442": {
+      "count": 14,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss"
+      ]
+    },
+    "#fcf8e3": {
+      "count": 12,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#dff0d8": {
+      "count": 11,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#f2dede": {
+      "count": 11,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#d9edf7": {
+      "count": 10,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#31708f": {
+      "count": 9,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss"
+      ]
+    },
+    "#040404": {
+      "count": 9,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#5cb85c": {
+      "count": 9,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#5bc0de": {
+      "count": 9,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#f0ad4e": {
+      "count": 9,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#d9534f": {
+      "count": 9,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#9d9d9d": {
+      "count": 9,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 8,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#555555": {
+      "count": 7,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#dd1144": {
+      "count": 7,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss"
+      ]
+    },
+    "#ff111111": {
+      "count": 6,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 5,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss"
+      ]
+    },
+    "#d6e9c6": {
+      "count": 5,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss"
+      ]
+    },
+    "#bce8f1": {
+      "count": 5,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss"
+      ]
+    },
+    "#faebcc": {
+      "count": 5,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss"
+      ]
+    },
+    "#ebccd1": {
+      "count": 5,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 5,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#419641": {
+      "count": 5,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#2aabd2": {
+      "count": 5,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#eb9316": {
+      "count": 5,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#c12e2a": {
+      "count": 5,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#cdaf80": {
+      "count": 5,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#d0e9c6": {
+      "count": 4,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#c4e3f3": {
+      "count": 4,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#faf2cc": {
+      "count": 4,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#ebcccc": {
+      "count": 4,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#449d44": {
+      "count": 4,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#31b0d5": {
+      "count": 4,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#ec971f": {
+      "count": 4,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#c9302c": {
+      "count": 4,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#444444": {
+      "count": 4,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss"
+      ]
+    },
+    "#ebebeb": {
+      "count": 4,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 4,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/themes/cupertino/jquery-ui.css"
+      ]
+    },
+    "#fff5f5f5": {
+      "count": 4,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#363636": {
+      "count": 4,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss",
+        "https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/themes/cupertino/jquery-ui.css"
+      ]
+    },
+    "#2b542c": {
+      "count": 3,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss"
+      ]
+    },
+    "#66512c": {
+      "count": 3,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss"
+      ]
+    },
+    "#843534": {
+      "count": 3,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss"
+      ]
+    },
+    "#009999": {
+      "count": 3,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss"
+      ]
+    },
+    "#ffffffff": {
+      "count": 3,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "#ff000000": {
+      "count": 3,
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/themes/cupertino/jquery-ui.css"
+    ],
+    "Baskerville": [
+      "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss"
+    ],
+    "Bitstream Vera Sans Mono": [
+      "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss"
+    ],
+    "Consolas": [
+      "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss"
+    ],
+    "Courier New": [
+      "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss"
+    ],
+    "DejaVu Sans Mono": [
+      "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss"
+    ],
+    "Glyphicons Halflings": [
+      "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss"
+    ],
+    "Lucida Grande": [
+      "https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/themes/cupertino/jquery-ui.css"
+    ],
+    "Lucida Sans": [
+      "https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/themes/cupertino/jquery-ui.css"
+    ],
+    "Menlo": [
+      "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss"
+    ],
+    "Monaco": [
+      "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss"
+    ],
+    "Neue Haas Unica W1G": [
+      "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+    ],
+    "TTCommons-VarItalic": [
+      "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+    ],
+    "TTCommons-VarRoman": [
+      "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+    ],
+    "TTCommons-VarRoman\" !important": [
+      "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+    ],
+    "Verdana": [
+      "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss"
+    ],
+    "monospace": [
+      "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss"
+    ],
+    "neue-haas-unica": [
+      "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+    ],
+    "responsive": [
+      "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss"
+    ],
+    "sans-serif": [
+      "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss",
+      "https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/themes/cupertino/jquery-ui.css"
+    ],
+    "sans-serif !important": [
+      "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+    ],
+    "serif": [
+      "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0"
+    },
+    {
+      "source": "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "selector": ".btn>.caret,.dropup>.btn>.caret",
+      "declarations": "border-top-color:#000 !important"
+    },
+    {
+      "source": "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "selector": "body",
+      "declarations": "font-family:\"neue-haas-unica\",sans-serif;font-size:16px;line-height:1.7;color:#333;background-color:#fff;letter-spacing:0.02em"
+    },
+    {
+      "source": "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "selector": "input,button,select,textarea",
+      "declarations": "font-family:inherit;font-size:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "selector": "h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6",
+      "declarations": "font-family:\"TTCommons-VarRoman\",sans-serif;font-weight:400;line-height:1.1;color:inherit"
+    },
+    {
+      "source": "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "selector": "3 small,h3 .small,h4 small,h4 .small,h5 small,h5 .small,h6 small,h6 .small,.h1 small,.h1 .small,.h2 small,.h2 .small,.h3 small,.h3 .small,.h4 small,.h4 .small,.",
+      "declarations": "font-weight:normal;line-height:1;color:#777"
+    },
+    {
+      "source": "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "selector": ".table-striped>tbody>tr:nth-child(odd)",
+      "declarations": "background-color:#f9f9f9"
+    },
+    {
+      "source": "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "selector": ".table-hover>tbody>tr:hover",
+      "declarations": "background-color:#f5f5f5"
+    },
+    {
+      "source": "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "selector": "tbody>tr>td.active,.table>tbody>tr>th.active,.table>tbody>tr.active>td,.table>tbody>tr.active>th,.table>tfoot>tr>td.active,.table>tfoot>tr>th.active,.table>tfoo",
+      "declarations": "background-color:#f5f5f5"
+    },
+    {
+      "source": "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "selector": ".table-hover>tbody>tr>td.active:hover,.table-hover>tbody>tr>th.active:hover,.table-hover>tbody>tr.active:hover>td,.table-hover>tbody>tr:hover>.active,.table-hov",
+      "declarations": "background-color:#e8e8e8"
+    },
+    {
+      "source": "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "selector": ">td.success,.table>tbody>tr>th.success,.table>tbody>tr.success>td,.table>tbody>tr.success>th,.table>tfoot>tr>td.success,.table>tfoot>tr>th.success,.table>tfoot>",
+      "declarations": "background-color:#dff0d8"
+    },
+    {
+      "source": "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "selector": ".table-hover>tbody>tr>td.success:hover,.table-hover>tbody>tr>th.success:hover,.table-hover>tbody>tr.success:hover>td,.table-hover>tbody>tr:hover>.success,.table",
+      "declarations": "background-color:#d0e9c6"
+    },
+    {
+      "source": "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "selector": ".info>th,.table>tbody>tr>td.info,.table>tbody>tr>th.info,.table>tbody>tr.info>td,.table>tbody>tr.info>th,.table>tfoot>tr>td.info,.table>tfoot>tr>th.info,.table>",
+      "declarations": "background-color:#d9edf7"
+    },
+    {
+      "source": "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "selector": ".table-hover>tbody>tr>td.info:hover,.table-hover>tbody>tr>th.info:hover,.table-hover>tbody>tr.info:hover>td,.table-hover>tbody>tr:hover>.info,.table-hover>tbody",
+      "declarations": "background-color:#c4e3f3"
+    },
+    {
+      "source": "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "selector": ">td.warning,.table>tbody>tr>th.warning,.table>tbody>tr.warning>td,.table>tbody>tr.warning>th,.table>tfoot>tr>td.warning,.table>tfoot>tr>th.warning,.table>tfoot>",
+      "declarations": "background-color:#fcf8e3"
+    },
+    {
+      "source": "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "selector": ".table-hover>tbody>tr>td.warning:hover,.table-hover>tbody>tr>th.warning:hover,.table-hover>tbody>tr.warning:hover>td,.table-hover>tbody>tr:hover>.warning,.table",
+      "declarations": "background-color:#faf2cc"
+    },
+    {
+      "source": "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "selector": "tbody>tr>td.danger,.table>tbody>tr>th.danger,.table>tbody>tr.danger>td,.table>tbody>tr.danger>th,.table>tfoot>tr>td.danger,.table>tfoot>tr>th.danger,.table>tfoo",
+      "declarations": "background-color:#f2dede"
+    },
+    {
+      "source": "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "selector": ".table-hover>tbody>tr>td.danger:hover,.table-hover>tbody>tr>th.danger:hover,.table-hover>tbody>tr.danger:hover>td,.table-hover>tbody>tr:hover>.danger,.table-hov",
+      "declarations": "background-color:#ebcccc"
+    },
+    {
+      "source": "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "selector": ".btn:hover,.btn:focus,.btn.focus",
+      "declarations": "color:#333;text-decoration:none"
+    },
+    {
+      "source": "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "selector": ".btn-default",
+      "declarations": "color:#333;background-color:#fff;border-color:#ccc"
+    },
+    {
+      "source": "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "selector": ".btn-default:hover,.btn-default:focus,.btn-default.focus,.btn-default:active,.btn-default.active,.open>.btn-default.dropdown-toggle",
+      "declarations": "color:#333;background-color:#e6e6e6;border-color:#adadad"
+    },
+    {
+      "source": "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "selector": "-default,fieldset[disabled] .btn-default:hover,fieldset[disabled] .btn-default:focus,fieldset[disabled] .btn-default.focus,fieldset[disabled] .btn-default:activ",
+      "declarations": "background-color:#fff;border-color:#ccc"
+    },
+    {
+      "source": "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "selector": ".btn-default .badge",
+      "declarations": "color:#fff;background-color:#333"
+    },
+    {
+      "source": "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "selector": ".btn-primary",
+      "declarations": "color:#fff;background-color:#111;border-color:#040404"
+    },
+    {
+      "source": "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "selector": ".btn-primary:hover,.btn-primary:focus,.btn-primary.focus,.btn-primary:active,.btn-primary.active,.open>.btn-primary.dropdown-toggle",
+      "declarations": "color:#fff;background-color:#000;border-color:#000"
+    },
+    {
+      "source": "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "selector": "-primary,fieldset[disabled] .btn-primary:hover,fieldset[disabled] .btn-primary:focus,fieldset[disabled] .btn-primary.focus,fieldset[disabled] .btn-primary:activ",
+      "declarations": "background-color:#111;border-color:#040404"
+    },
+    {
+      "source": "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "selector": ".btn-primary .badge",
+      "declarations": "color:#111;background-color:#fff"
+    },
+    {
+      "source": "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "selector": ".btn-success",
+      "declarations": "color:#fff;background-color:#5cb85c;border-color:#4cae4c"
+    },
+    {
+      "source": "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "selector": ".btn-success:hover,.btn-success:focus,.btn-success.focus,.btn-success:active,.btn-success.active,.open>.btn-success.dropdown-toggle",
+      "declarations": "color:#fff;background-color:#449d44;border-color:#398439"
+    },
+    {
+      "source": "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+      "selector": "-success,fieldset[disabled] .btn-success:hover,fieldset[disabled] .btn-success:focus,fieldset[disabled] .btn-success.focus,fieldset[disabled] .btn-success:activ",
+      "declarations": "background-color:#5cb85c;border-color:#4cae4c"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Eastman Guitars",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss",
+        "https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/themes/cupertino/jquery-ui.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.eastmanguitars.com/",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss",
+        "https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/themes/cupertino/jquery-ui.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.eastmanguitars.com/",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.eastmanguitars.com/",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/themes/cupertino/jquery-ui.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/themes/cupertino/jquery-ui.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.eastmanguitars.com/",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss",
+        "https://ajax.googleapis.com/ajax/libs/jqueryui/1.10.0/themes/cupertino/jquery-ui.css"
+      ]
+    },
+    "colors.border": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss",
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/custom.scss"
+      ]
+    },
+    "colors.accent-success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss"
+      ]
+    },
+    "colors.accent-danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss"
+      ]
+    },
+    "colors.accent-info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss"
+      ]
+    },
+    "colors.accent-warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eastman.nationbuilder.com/themes/9/5942f098ed0e468d18000000/0/attachments/16958564481776186859/default/theme.scss"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-table": {
+      "status": "inferred"
+    }
+  }
+}

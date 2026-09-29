@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Omoton
-description: A tech-accessories brand that builds its visual identity around a single, unmistakable voltage: #f5d003, a warm marigold that appears on every primary CTA, every add-to-cart button, every sale badge, and every promotional banner — a color so distinctive it reads as the brand's own. The rest of the palette is a study in grayscale restraint: #3f3f3f for body text, #7d7d7d for muted labels, #dedede for hairline borders, and #fafafa for the canvas. This is a brand that lets its accent color do all the emotional work while the structure stays clean, neutral, and almost invisible. The typography stack runs on Aktiv Grotesk for display and body, with Objectivity reserved for headlines and Instrument Sans for interface labels — a three-typeface system that feels engineered rather than expressive. Buttons are generously padded (14px 24px) with {rounded.sm} corners, while product cards use {rounded.md} and a soft #f5f5f5 surface that keeps the focus on the device. The nav bar is a full-width #ffffff strip with #3f3f3f links, anchored by a sticky header that collapses on scroll. Omoton's design language is fundamentally about contrast: the marigold against the gray, the bold Objectivity headline against the lean Aktiv Grotesk body, the rounded card against the hard edge of the viewport. It is a system built for conversion — every visual decision points toward the add-to-cart button, and that button is always #f5d003.
+name: "Omoton"
+source_url: "https://www.omoton.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A tech-accessories brand that builds its visual identity around a single, unmistakable voltage: #f5d003, a warm marigold that appears on every primary CTA, every add-to-cart button, every sale badge, and every promotional banner — a color so distinctive it reads as the brand's own. The rest of the palette is a study in grayscale restraint: #3f3f3f for body text, #7d7d7d for muted labels, #dedede for hairline borders, and #fafafa for the canvas. This is a brand that lets its accent color do all the emotional work while the structure stays clean, neutral, and almost invisible. The typography stack runs on Aktiv Grotesk for display and body, with Objectivity reserved for headlines and Instrument Sans for interface labels — a three-typeface system that feels engineered rather than expressive. Buttons are generously padded (14px 24px) with {rounded.sm} corners, while product cards use {rounded.md} and a soft #f5f5f5 surface that keeps the focus on the device. The nav bar is a full-width #ffffff strip with #3f3f3f links, anchored by a sticky header that collapses on scroll. Omoton's design language is fundamentally about contrast: the marigold against the gray, the bold Objectivity headline against the lean Aktiv Grotesk body, the rounded card against the hard edge of the viewport. It is a system built for conversion — every visual decision points toward the add-to-cart button, and that button is always #f5d003.
 
 colors:
   primary: "#f5d003"
@@ -443,6 +447,8 @@ components:
 - Multi-row product grids collapse to single-row horizontal scroll on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for secondary buttons and text inputs are inferred from common patterns; exact transition durations and easing curves were not extracted
 - Error styling for forms (error messages, validation icons) was not observed on the live site

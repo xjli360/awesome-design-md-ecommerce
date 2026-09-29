@@ -1,0 +1,332 @@
+{
+  "source_url": "https://www.aesop.com",
+  "final_url": "https://www.aesop.com/",
+  "captured_at": "2026-09-28T04:09:52.675206+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.aesop.com",
+      "final_url": "https://www.aesop.com/",
+      "http_status": 403,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "7ae4302dd9292e652f39bd69e5f8ae2903efdf98ee01adcd0312901a47f275d0",
+      "snapshot": "homepage.html"
+    }
+  ],
+  "colors": {},
+  "font_families": {},
+  "css_rules": [],
+  "confidence": "historical_unverified",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "failure": "HTTP_OR_CHALLENGE",
+  "schema_version": 1,
+  "design_origin": "historical",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.primary-active": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.primary-disabled": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.ink": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.body": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.muted": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.muted-soft": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.hairline": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.hairline-soft": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.canvas": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.surface-soft": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.surface-card": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.on-primary": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.on-dark": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.error": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.error-soft": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.success": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.success-soft": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.badge-new": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.badge-sale": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.scrim": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "typography.display-xl": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.display-lg": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.display-md": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.display-sm": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.title-md": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.title-sm": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.body-md": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.body-sm": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.caption": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.caption-sm": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.badge": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.button-md": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.button-sm": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.link": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "typography.nav-link": {
+      "font_family_status": "unverified",
+      "measurements_status": "unverified"
+    },
+    "rounded.none": {
+      "status": "unverified"
+    },
+    "rounded.xs": {
+      "status": "unverified"
+    },
+    "rounded.sm": {
+      "status": "unverified"
+    },
+    "rounded.md": {
+      "status": "unverified"
+    },
+    "rounded.lg": {
+      "status": "unverified"
+    },
+    "rounded.xl": {
+      "status": "unverified"
+    },
+    "rounded.full": {
+      "status": "unverified"
+    },
+    "spacing.xxs": {
+      "status": "unverified"
+    },
+    "spacing.xs": {
+      "status": "unverified"
+    },
+    "spacing.sm": {
+      "status": "unverified"
+    },
+    "spacing.md": {
+      "status": "unverified"
+    },
+    "spacing.base": {
+      "status": "unverified"
+    },
+    "spacing.lg": {
+      "status": "unverified"
+    },
+    "spacing.xl": {
+      "status": "unverified"
+    },
+    "spacing.xxl": {
+      "status": "unverified"
+    },
+    "spacing.section": {
+      "status": "unverified"
+    },
+    "components.button-primary": {
+      "status": "unverified"
+    },
+    "components.button-primary-active": {
+      "status": "unverified"
+    },
+    "components.button-primary-disabled": {
+      "status": "unverified"
+    },
+    "components.button-secondary": {
+      "status": "unverified"
+    },
+    "components.button-secondary-active": {
+      "status": "unverified"
+    },
+    "components.button-ghost": {
+      "status": "unverified"
+    },
+    "components.text-input": {
+      "status": "unverified"
+    },
+    "components.text-input-focus": {
+      "status": "unverified"
+    },
+    "components.text-input-error": {
+      "status": "unverified"
+    },
+    "components.select-input": {
+      "status": "unverified"
+    },
+    "components.textarea": {
+      "status": "unverified"
+    },
+    "components.nav-bar": {
+      "status": "unverified"
+    },
+    "components.nav-bar-sticky": {
+      "status": "unverified"
+    },
+    "components.nav-link-active": {
+      "status": "unverified"
+    },
+    "components.nav-link-inactive": {
+      "status": "unverified"
+    },
+    "components.product-card": {
+      "status": "unverified"
+    },
+    "components.product-card-image": {
+      "status": "unverified"
+    },
+    "components.product-card-title": {
+      "status": "unverified"
+    },
+    "components.product-card-price": {
+      "status": "unverified"
+    },
+    "components.product-card-badge": {
+      "status": "unverified"
+    },
+    "components.hero-banner": {
+      "status": "unverified"
+    },
+    "components.hero-banner-image": {
+      "status": "unverified"
+    },
+    "components.hero-banner-subtitle": {
+      "status": "unverified"
+    },
+    "components.search-bar": {
+      "status": "unverified"
+    },
+    "components.search-bar-focus": {
+      "status": "unverified"
+    },
+    "components.footer": {
+      "status": "unverified"
+    },
+    "components.footer-link": {
+      "status": "unverified"
+    },
+    "components.footer-link-hover": {
+      "status": "unverified"
+    },
+    "components.accordion": {
+      "status": "unverified"
+    },
+    "components.accordion-content": {
+      "status": "unverified"
+    },
+    "components.quantity-selector": {
+      "status": "unverified"
+    },
+    "components.quantity-selector-button": {
+      "status": "unverified"
+    },
+    "components.breadcrumb": {
+      "status": "unverified"
+    },
+    "components.breadcrumb-active": {
+      "status": "unverified"
+    },
+    "components.divider": {
+      "status": "unverified"
+    },
+    "components.tooltip": {
+      "status": "unverified"
+    }
+  },
+  "observed_color_tokens": 0,
+  "total_color_tokens": 21,
+  "title": "Just a moment..."
+}

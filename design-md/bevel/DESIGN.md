@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Bevel
-description: Bevel is a men's grooming brand built for the modern man who values precision, performance, and a clean aesthetic. The brand's visual language is anchored on a deep, almost-black ink (`#1c1c1c`) and a stark canvas (`#fafafa`), with a signature electric blue (`#0066ff`) that serves as the primary voltage for all CTAs, interactive elements, and key accents. This blue, paired with a secondary deep teal (`#1990c6`) and its darker variant (`#136f99`), creates a palette that feels both authoritative and approachable — a nod to barbershop precision and tech-forward thinking. The typography relies on DinPro and DinProCondensed, geometric sans-serif families that convey strength, clarity, and a slight industrial edge. Display sizes are set in DinProCondensed for a compact, impactful headline presence, while body copy uses DinPro for readability. The system uses generous whitespace and a restrained set of rounded corners — from sharp `{rounded.none}` for form fields to soft `{rounded.sm}` for buttons and `{rounded.md}` for cards — ensuring every interaction feels deliberate. The muted palette (`#777777`, `#6d6d6d`, `#a4a4a4`) provides a quiet backdrop for product photography, while the hairline (`#dedede`, `#dddddd`) and soft hairline (`#c6c6c6`) define structural boundaries without adding visual noise. The overall mood is confident, clean, and premium — a grooming brand that treats its digital presence with the same care as its product formulations.
+name: "Bevel"
+source_url: "https://getbevel.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Bevel is a men's grooming brand built for the modern man who values precision, performance, and a clean aesthetic. The brand's visual language is anchored on a deep, almost-black ink (`#1c1c1c`) and a stark canvas (`#fafafa`), with a signature electric blue (`#0066ff`) that serves as the primary voltage for all CTAs, interactive elements, and key accents. This blue, paired with a secondary deep teal (`#1990c6`) and its darker variant (`#136f99`), creates a palette that feels both authoritative and approachable — a nod to barbershop precision and tech-forward thinking. The typography relies on DinPro and DinProCondensed, geometric sans-serif families that convey strength, clarity, and a slight industrial edge. Display sizes are set in DinProCondensed for a compact, impactful headline presence, while body copy uses DinPro for readability. The system uses generous whitespace and a restrained set of rounded corners — from sharp `{rounded.none}` for form fields to soft `{rounded.sm}` for buttons and `{rounded.md}` for cards — ensuring every interaction feels deliberate. The muted palette (`#777777`, `#6d6d6d`, `#a4a4a4`) provides a quiet backdrop for product photography, while the hairline (`#dedede`, `#dddddd`) and soft hairline (`#c6c6c6`) define structural boundaries without adding visual noise. The overall mood is confident, clean, and premium — a grooming brand that treats its digital presence with the same care as its product formulations.
 
 colors:
   primary: "#0066ff"
@@ -463,6 +467,8 @@ components:
 - Tab navigation becomes horizontal scrollable strip on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for most components were inferred from common patterns; exact transition durations and easing curves not extracted
 - Error state styling for forms (error messages, validation icons) not reliably captured

@@ -1,0 +1,865 @@
+{
+  "source_url": "https://pehr.com",
+  "final_url": "https://pehr.com/",
+  "captured_at": "2026-09-28T10:17:22.311015+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://pehr.com",
+      "final_url": "https://pehr.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "d92bf9ae1e0c81bd764a79a17ba0ece6c07be0f337eca8ca39046fc0ce4065f9",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://pehr.com/cdn/shop/t/775/assets/base.css?v=130531431823304166611790541159",
+      "final_url": "https://pehr.com/cdn/shop/t/775/assets/base.css?v=130531431823304166611790541159",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "11b75985a39bdc2e034e172b8eb996063f27b8e76be8f79e06184e1e4d0f4bd4",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://pehr.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://pehr.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://pehr.com/cdn/shop/t/775/compiled_assets/styles.css?v=26453272412484161721790541196",
+      "final_url": "https://pehr.com/cdn/shop/t/775/compiled_assets/styles.css?v=26453272412484161721790541196",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e78de0f64a1ad158fdaaf3dbc1d2106ad1439560da157636b2f1e9aee6a005f7",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://pehr.com/cdn/shop/t/775/assets/style-swish.css?v=6101306988241464671790541159",
+      "final_url": "https://pehr.com/cdn/shop/t/775/assets/style-swish.css?v=6101306988241464671790541159",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "62ffeb0295208e190e772c1d413e175b189c13c33cc29118aead30ebf97669fa",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "be10bc4b16346e787891f1da5de658505019fcd30172651891a4bf550c948e36",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 102,
+      "sources": [
+        "https://pehr.com/",
+        "https://pehr.com/cdn/shop/t/775/assets/base.css?v=130531431823304166611790541159",
+        "https://pehr.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://pehr.com/cdn/shop/t/775/compiled_assets/styles.css?v=26453272412484161721790541196",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#000000": {
+      "count": 74,
+      "sources": [
+        "https://pehr.com/",
+        "https://pehr.com/cdn/shop/t/775/assets/base.css?v=130531431823304166611790541159",
+        "https://pehr.com/cdn/shop/t/775/compiled_assets/styles.css?v=26453272412484161721790541196",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#5c7a7e": {
+      "count": 39,
+      "sources": [
+        "https://pehr.com/",
+        "https://pehr.com/cdn/shop/t/775/compiled_assets/styles.css?v=26453272412484161721790541196"
+      ]
+    },
+    "#eeeeee": {
+      "count": 32,
+      "sources": [
+        "https://pehr.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#597c7c": {
+      "count": 27,
+      "sources": [
+        "https://pehr.com/cdn/shop/t/775/compiled_assets/styles.css?v=26453272412484161721790541196"
+      ]
+    },
+    "#333333": {
+      "count": 24,
+      "sources": [
+        "https://pehr.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#68696d": {
+      "count": 15,
+      "sources": [
+        "https://pehr.com/"
+      ]
+    },
+    "#5a7c7d": {
+      "count": 9,
+      "sources": [
+        "https://pehr.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 9,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 8,
+      "sources": [
+        "https://pehr.com/"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 8,
+      "sources": [
+        "https://pehr.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 7,
+      "sources": [
+        "https://pehr.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#00000000": {
+      "count": 6,
+      "sources": [
+        "https://pehr.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://pehr.com/cdn/shop/t/775/compiled_assets/styles.css?v=26453272412484161721790541196"
+      ]
+    },
+    "#555555": {
+      "count": 6,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#fafafa": {
+      "count": 5,
+      "sources": [
+        "https://pehr.com/"
+      ]
+    },
+    "#666666": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#6b6a6a": {
+      "count": 4,
+      "sources": [
+        "https://pehr.com/",
+        "https://pehr.com/cdn/shop/t/775/compiled_assets/styles.css?v=26453272412484161721790541196"
+      ]
+    },
+    "#dfdfdf": {
+      "count": 3,
+      "sources": [
+        "https://pehr.com/"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 3,
+      "sources": [
+        "https://pehr.com/cdn/shop/t/775/compiled_assets/styles.css?v=26453272412484161721790541196"
+      ]
+    },
+    "#108474": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#f4f7fb": {
+      "count": 2,
+      "sources": [
+        "https://pehr.com/"
+      ]
+    },
+    "#d8dbdf": {
+      "count": 2,
+      "sources": [
+        "https://pehr.com/"
+      ]
+    },
+    "#8c8f93": {
+      "count": 2,
+      "sources": [
+        "https://pehr.com/"
+      ]
+    },
+    "#5c697d": {
+      "count": 2,
+      "sources": [
+        "https://pehr.com/"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://pehr.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#4a6a6a": {
+      "count": 2,
+      "sources": [
+        "https://pehr.com/cdn/shop/t/775/compiled_assets/styles.css?v=26453272412484161721790541196"
+      ]
+    },
+    "#ab8c52": {
+      "count": 2,
+      "sources": [
+        "https://pehr.com/cdn/shop/t/775/compiled_assets/styles.css?v=26453272412484161721790541196"
+      ]
+    },
+    "#fbcd0a": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#a89cc8": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#c1e6e6": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#8b0000": {
+      "count": 1,
+      "sources": [
+        "https://pehr.com/"
+      ]
+    },
+    "#006400": {
+      "count": 1,
+      "sources": [
+        "https://pehr.com/"
+      ]
+    },
+    "#3ed660": {
+      "count": 1,
+      "sources": [
+        "https://pehr.com/"
+      ]
+    },
+    "#ee9441": {
+      "count": 1,
+      "sources": [
+        "https://pehr.com/"
+      ]
+    },
+    "#c8c8c8": {
+      "count": 1,
+      "sources": [
+        "https://pehr.com/"
+      ]
+    },
+    "#d6b7b7": {
+      "count": 1,
+      "sources": [
+        "https://pehr.com/"
+      ]
+    },
+    "#7b7b7b": {
+      "count": 1,
+      "sources": [
+        "https://pehr.com/"
+      ]
+    },
+    "#df2020": {
+      "count": 1,
+      "sources": [
+        "https://pehr.com/"
+      ]
+    },
+    "#5e6a7d": {
+      "count": 1,
+      "sources": [
+        "https://pehr.com/"
+      ]
+    },
+    "#eef1ea": {
+      "count": 1,
+      "sources": [
+        "https://pehr.com/"
+      ]
+    },
+    "#1d3686": {
+      "count": 1,
+      "sources": [
+        "https://pehr.com/"
+      ]
+    },
+    "#f8f9fa": {
+      "count": 1,
+      "sources": [
+        "https://pehr.com/"
+      ]
+    },
+    "#93969a": {
+      "count": 1,
+      "sources": [
+        "https://pehr.com/"
+      ]
+    },
+    "#fbf6f0": {
+      "count": 1,
+      "sources": [
+        "https://pehr.com/"
+      ]
+    },
+    "#e7e7e9": {
+      "count": 1,
+      "sources": [
+        "https://pehr.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://pehr.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://pehr.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://pehr.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f7f9fa": {
+      "count": 1,
+      "sources": [
+        "https://pehr.com/cdn/shop/t/775/compiled_assets/styles.css?v=26453272412484161721790541196"
+      ]
+    },
+    "#c8102e": {
+      "count": 1,
+      "sources": [
+        "https://pehr.com/cdn/shop/t/775/compiled_assets/styles.css?v=26453272412484161721790541196"
+      ]
+    },
+    "#0a142f": {
+      "count": 1,
+      "sources": [
+        "https://pehr.com/cdn/shop/t/775/compiled_assets/styles.css?v=26453272412484161721790541196"
+      ]
+    },
+    "#888888": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#ffff00": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#3b5998": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#1da1f2": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#dd4b39": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Baskerville": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Brown Bold": [
+      "https://pehr.com/"
+    ],
+    "Brown Bold Italic": [
+      "https://pehr.com/"
+    ],
+    "Brown Light": [
+      "https://pehr.com/"
+    ],
+    "Brown Regular": [
+      "https://pehr.com/"
+    ],
+    "Helvetica": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Inter": [
+      "https://pehr.com/"
+    ],
+    "JudgemeIcons": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons\" !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons' !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeStar": [
+      "https://pehr.com/"
+    ],
+    "JudgemeStar' !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Nunito Sans": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Quincy Thin": [
+      "https://pehr.com/"
+    ],
+    "monospace": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "sans-serif": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "sans-serif !important": [
+      "https://pehr.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://pehr.com/",
+      "selector": ":root",
+      "declarations": "--font-body--family: 'Brown Regular', sans-serif;\n    --font-body--style: normal;\n    --font-body--weight: 400;\n\n    --font-heading--family: 'Quincy Thin', serif;\n    --font-heading--style: normal;\n    --font-heading--weight: 400;\n\n    --font-subheading--family: 'Brown Regular', sans-serif;\n    --font-subheading--style: normal;\n    --font-subheading--weight: 400;\n\n    --font-accent--family: 'Brown Regular', sans-serif;\n    --font-accent--style: normal;\n    --font-accent--weight: 400;\n\n    \n    --font-h1--family: var(--font-heading--family);\n    --font-h2--family: var(--font-heading--family);\n    --font-h3--family: var(--font-heading--family);\n    --font-h4--family: var(--font-heading--family"
+    },
+    {
+      "source": "https://pehr.com/",
+      "selector": "*='stylux-'],\n  [class*='stylux-'] button,\n  [class*='stylux-'] input,\n  [class*='stylux-'] select,\n  [class*='stylux-'] textarea,\n  [id*='stylux-'],\n  [id*='st",
+      "declarations": "font-family: var(--font-body--family, 'Brown Regular'), sans-serif !important;"
+    },
+    {
+      "source": "https://pehr.com/",
+      "selector": "[class*='stylux-'] h1,\n  [class*='stylux-'] h2,\n  [class*='stylux-'] h3,\n  [id*='stylux-'] h1,\n  [id*='stylux-'] h2,\n  [id*='stylux-'] h3",
+      "declarations": "font-family: var(--font-heading--family, 'Quincy CF'), serif !important;"
+    },
+    {
+      "source": "https://pehr.com/",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #5A7C7D;--jdgm-secondary-color: rgba(90,124,125,0.1);--jdgm-star-color: #5A7C7D;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #5A7C7D;--jdgm-paginate-color: #5A7C7D;--jdgm-border-radius: 0;--jdgm-reviewer-name-color: #5A7C7D"
+    },
+    {
+      "source": "https://pehr.com/",
+      "selector": "ar(--opacity-30-60));\n                            \n--menu-localization-font: var(--font-heading--family); --color-shadow: rgb(var(--color-foreground-rgb) / var(",
+      "declarations": "--color-submenu: rgb(255 255 255 / 1.0);"
+    },
+    {
+      "source": "https://pehr.com/",
+      "selector": ".header__underlay",
+      "declarations": "--color-submenu: rgb(255 255 255 / 1.0);"
+    },
+    {
+      "source": "https://pehr.com/",
+      "selector": "width: 1.25rem; height: 1.25rem; display: inline-flex; flex: 0 0 auto;\nwidth: 20px; height: 20px; display: block;\n\n  .header__underlay",
+      "declarations": "--color-submenu: rgb(255 255 255 / 1.0);"
+    },
+    {
+      "source": "https://pehr.com/",
+      "selector": "opacity:0; font-size: 1px;\nopacity:0; font-size: 1px;\n\n  wishlist-button-collection",
+      "declarations": "--icon-size: 18px;\n    --icon-stroke-width: 1px;\n    --button-offset-vertical: 0px;\n    --button-offset-horizontal: 0px;\n    --button-background-size: 34px;\n    --button-background-border-radius: 24px;\n    --button-border-width: 1px;\n    --button-background-opacity: 85%;\n\n    --button-background: none;\n    --button-border: none;\n    --icon-stroke: rgb(var(--wk-color-accent-1));"
+    },
+    {
+      "source": "https://pehr.com/",
+      "selector": ":root",
+      "declarations": "--wk-color-solid-button-label: 255, 255, 255;\n      --wk-color-accent-1: 0, 0, 0;\n      --wk-color-accent-2: 0, 0, 0;\n      --wk-color-outline-button-label: 0, 0, 0;\n      --wk-color-background-1: 255, 255, 255;\n      --wk-color-background-2: 255, 255, 255;\n      --wk-color-text: 0, 0, 0;\n      --wk-button-min-height: 45px;\n      --wk-button-border-width: 1px;\n      --wk-button-border-radius: 0px;\n      --wk-input-min-height: 45px;\n      --wk-input-border-width: 1px;\n      --wk-input-border-radius: 0px;\n      --wk-shadow-opacity: 15%;\n      --wk-shadow-horizontal-offset: 0px;\n      --wk-shadow-vertical-offset: 2px;\n      --wk-shadow-blur: 4px;\n      --wk-font-text-scale: 1.0;"
+    },
+    {
+      "source": "https://pehr.com/cdn/shop/t/775/assets/base.css?v=130531431823304166611790541159",
+      "selector": "body",
+      "declarations": "color:var(--color-foreground);background:var(--color-background);display:flex;flex-direction:column;margin:0;min-height:100svh;font-variation-settings:\"slnt\" 0"
+    },
+    {
+      "source": "https://pehr.com/cdn/shop/t/775/assets/base.css?v=130531431823304166611790541159",
+      "selector": ":root",
+      "declarations": "--hover-lift-amount: 4px;--hover-scale-amount: 1.03;--hover-subtle-zoom-amount: 1.015;--hover-shadow-color: var(--color-shadow);--hover-transition-duration: .25s;--hover-transition-timing: ease-out;--surface-transition-duration: .3s;--surface-transition-timing: var(--ease-out-quad);--submenu-animation-speed: .36s;--submenu-animation-easing: cubic-bezier(.25, .1, .25, 1)"
+    },
+    {
+      "source": "https://pehr.com/cdn/shop/t/775/assets/base.css?v=130531431823304166611790541159",
+      "selector": "body,.paragraph:not(.button),.paragraph>*,.text-block.paragraph :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-paragraph--family);font-style:var(--font-paragraph--style);font-weight:var(--font-paragraph--weight);font-size:var(--font-paragraph--size);line-height:var(--font-paragraph--line-height);text-transform:var(--font-paragraph--case);-webkit-font-smoothing:antialiased;color:var(--color, var(--color-foreground))"
+    },
+    {
+      "source": "https://pehr.com/cdn/shop/t/775/assets/base.css?v=130531431823304166611790541159",
+      "selector": "h1,.h1.h1,.text-block.h1>*,.text-block.h1 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h1--family);font-style:var(--font-h1--style);font-weight:var(--font-h1--weight);font-size:var(--font-h1--size);line-height:var(--font-h1--line-height);letter-spacing:var(--font-h1--letter-spacing);text-transform:var(--font-h1--case);color:var(--color, var(--font-h1-color))"
+    },
+    {
+      "source": "https://pehr.com/cdn/shop/t/775/assets/base.css?v=130531431823304166611790541159",
+      "selector": "h2,.h2.h2,.text-block.h2>*,.text-block.h2 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h2--family);font-style:var(--font-h2--style);font-weight:var(--font-h2--weight);font-size:var(--font-h2--size);line-height:var(--font-h2--line-height);letter-spacing:var(--font-h2--letter-spacing);text-transform:var(--font-h2--case);color:var(--color, var(--font-h2-color))"
+    },
+    {
+      "source": "https://pehr.com/cdn/shop/t/775/assets/base.css?v=130531431823304166611790541159",
+      "selector": "h3,.h3,.h3.h3,.text-block.h3>*,.text-block.h3 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h3--family);font-style:var(--font-h3--style);font-weight:var(--font-h3--weight);font-size:var(--font-h3--size);line-height:var(--font-h3--line-height);letter-spacing:var(--font-h3--letter-spacing);text-transform:var(--font-h3--case);color:var(--color, var(--font-h3-color))"
+    },
+    {
+      "source": "https://pehr.com/cdn/shop/t/775/assets/base.css?v=130531431823304166611790541159",
+      "selector": "h4,.h4.h4,.text-block.h4>*,.text-block.h4 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h4--family);font-style:var(--font-h4--style);font-weight:var(--font-h4--weight);font-size:var(--font-h4--size);line-height:var(--font-h4--line-height);letter-spacing:var(--font-h4--letter-spacing);text-transform:var(--font-h4--case);color:var(--color, var(--font-h4-color))"
+    },
+    {
+      "source": "https://pehr.com/cdn/shop/t/775/assets/base.css?v=130531431823304166611790541159",
+      "selector": "h5,.h5.h5,.text-block.h5>*,.text-block.h5 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h5--family);font-style:var(--font-h5--style);font-weight:var(--font-h5--weight);font-size:var(--font-h5--size);line-height:var(--font-h5--line-height);letter-spacing:var(--font-h5--letter-spacing);text-transform:var(--font-h5--case);color:var(--color, var(--font-h5-color))"
+    },
+    {
+      "source": "https://pehr.com/cdn/shop/t/775/assets/base.css?v=130531431823304166611790541159",
+      "selector": "h6,.h6.h6,.text-block.h6>*,.text-block.h6 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h6--family);font-style:var(--font-h6--style);font-weight:var(--font-h6--weight);font-size:var(--font-h6--size);line-height:var(--font-h6--line-height);letter-spacing:var(--font-h6--letter-spacing);text-transform:var(--font-h6--case);color:var(--color, var(--font-h6-color))"
+    },
+    {
+      "source": "https://pehr.com/cdn/shop/t/775/assets/base.css?v=130531431823304166611790541159",
+      "selector": ":is(h1,h2,h3,h4,h5,h6,p)>a:hover",
+      "declarations": "--button-color: var(--color, var(--color-primary-hover))"
+    },
+    {
+      "source": "https://pehr.com/cdn/shop/t/775/assets/base.css?v=130531431823304166611790541159",
+      "selector": "p:not(.h1,.h2,.h3,.h4,.h5,.h6) a:where(:not(.button,.button-secondary)),.rte :is(p,ul,ol,table):not(.h1,.h2,.h3,.h4,.h5,.h6) a:where(:not(.button,.button-second",
+      "declarations": "text-decoration-color:currentcolor"
+    },
+    {
+      "source": "https://pehr.com/cdn/shop/t/775/assets/base.css?v=130531431823304166611790541159",
+      "selector": ":is(p:not(.h1,.h2,.h3,.h4,.h5,.h6) a:where(:not(.button,.button-secondary)),.rte :is(p,ul,ol,table):not(.h1,.h2,.h3,.h4,.h5,.h6) a:where(:not(.button,.button-se",
+      "declarations": "text-decoration-color:transparent;color:var(--color-primary-hover)"
+    },
+    {
+      "source": "https://pehr.com/cdn/shop/t/775/assets/base.css?v=130531431823304166611790541159",
+      "selector": ".product-grid__card.product-grid__card",
+      "declarations": "display:flex;flex-flow:column nowrap;gap:var(--product-card-gap);align-items:var(--product-card-alignment);text-decoration:none;color:var(--color, var(--color-foreground));padding-block:var(--padding-block-start) var(--padding-block-end);padding-inline:var(--padding-inline-start) var(--padding-inline-end);overflow:hidden"
+    },
+    {
+      "source": "https://pehr.com/cdn/shop/t/775/assets/base.css?v=130531431823304166611790541159",
+      "selector": "[product-grid-view=default]",
+      "declarations": "--product-grid-gap: 16px;--padding-block-start: 24px;--padding-block-end: 24px;--padding-inline-start: 0px;--padding-inline-end: 0px"
+    },
+    {
+      "source": "https://pehr.com/cdn/shop/t/775/assets/base.css?v=130531431823304166611790541159",
+      "selector": "[product-grid-view=zoom-out]",
+      "declarations": "--product-grid-columns-desktop: repeat( 10, minmax(clamp(50px, calc(100% - 9 * var(--product-grid-gap)) / 10, 80px), 1fr) )"
+    },
+    {
+      "source": "https://pehr.com/cdn/shop/t/775/assets/base.css?v=130531431823304166611790541159",
+      "selector": ".product-grid-view-zoom-out--details .h4,.product-grid-view-zoom-out--details span,.product-grid-view-zoom-out--details s",
+      "declarations": "font-size:var(--font-size--xs);font-family:var(--font-paragraph--family)"
+    },
+    {
+      "source": "https://pehr.com/cdn/shop/t/775/assets/base.css?v=130531431823304166611790541159",
+      "selector": ".button,.button-secondary,button.shopify-payment-button__button--unbranded",
+      "declarations": "--text-align: center;display:grid;align-content:center;text-decoration:none;text-align:var(--text-align);color:var(--button-color);-webkit-appearance:none;appearance:none;background-color:var(--button-background-color);border:none;font-family:var(--font-paragraph--family);font-style:var(--font-paragraph--style);font-weight:var(--font-paragraph--weight);font-size:var(--font-paragraph--size);line-height:var(--font-paragraph--line-height);margin-block:0;transition:color var(--animation-speed) var(--animation-easing),box-shadow var(--animation-speed) var(--animation-easing),background-color var(--animation-speed) var(--animation-easing);cursor:pointer;width:fit-content;box-shadow:inset 0 0 0 var"
+    },
+    {
+      "source": "https://pehr.com/cdn/shop/t/775/assets/base.css?v=130531431823304166611790541159",
+      "selector": ".button",
+      "declarations": "font-family:var(--button-font-family-primary);text-transform:var(--button-text-case-primary);border-radius:var(--style-border-radius-buttons-primary)"
+    },
+    {
+      "source": "https://pehr.com/cdn/shop/t/775/assets/base.css?v=130531431823304166611790541159",
+      "selector": ".button:not(.button-secondary,.button-unstyled)",
+      "declarations": "outline-color:var(--button-background-color)"
+    },
+    {
+      "source": "https://pehr.com/cdn/shop/t/775/assets/base.css?v=130531431823304166611790541159",
+      "selector": ".button-secondary",
+      "declarations": "font-family:var(--button-font-family-secondary);text-transform:var(--button-text-case-secondary);border-radius:var(--style-border-radius-buttons-secondary)"
+    },
+    {
+      "source": "https://pehr.com/cdn/shop/t/775/assets/base.css?v=130531431823304166611790541159",
+      "selector": "button.shopify-payment-button__button--unbranded",
+      "declarations": "font-family:var(--button-font-family-primary);text-transform:var(--button-text-case-primary)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Organic Baby & Toddler Clothes | Nursery & Decor | Pehr",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pehr.com/",
+        "https://pehr.com/cdn/shop/t/775/assets/base.css?v=130531431823304166611790541159",
+        "https://pehr.com/cdn/shop/t/775/compiled_assets/styles.css?v=26453272412484161721790541196",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pehr.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pehr.com/",
+        "https://pehr.com/cdn/shop/t/775/assets/base.css?v=130531431823304166611790541159",
+        "https://pehr.com/cdn/shop/t/775/compiled_assets/styles.css?v=26453272412484161721790541196",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pehr.com/",
+        "https://pehr.com/cdn/shop/t/775/assets/base.css?v=130531431823304166611790541159",
+        "https://pehr.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://pehr.com/cdn/shop/t/775/compiled_assets/styles.css?v=26453272412484161721790541196",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pehr.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pehr.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pehr.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pehr.com/",
+        "https://pehr.com/cdn/shop/t/775/assets/base.css?v=130531431823304166611790541159",
+        "https://pehr.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://pehr.com/cdn/shop/t/775/compiled_assets/styles.css?v=26453272412484161721790541196",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pehr.com/",
+        "https://pehr.com/cdn/shop/t/775/assets/base.css?v=130531431823304166611790541159",
+        "https://pehr.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://pehr.com/cdn/shop/t/775/compiled_assets/styles.css?v=26453272412484161721790541196",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pehr.com/cdn/shop/t/775/compiled_assets/styles.css?v=26453272412484161721790541196"
+      ]
+    },
+    "colors.sale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pehr.com/cdn/shop/t/775/compiled_assets/styles.css?v=26453272412484161721790541196"
+      ]
+    },
+    "colors.alert-yellow": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.variant-swatch": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Instant Pot
-description: |
+name: "Instant Pot"
+source_url: "https://www.instantpot.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   That deep cocoa-bean brown (#331612) is the first thing that registers — darker than espresso, warmer than black, it coats the navigation bar and primary CTAs like the fond at the bottom of a sauté pan. Instant Pot's digital presence borrows its confidence from the kitchen counter, not the electronics aisle, and the choice of Filson Soft as the primary typeface seals the deal: every letterform carries a soft, pillowed radius that mirrors the rounded silhouette of the pressure cooker itself. Headlines land at weight 700 in that font, but the generous x-height and rounded terminals keep even bold display text (`{typography.display-xl}`) from ever reading as aggressive. Body copy shifts to Geologica Variable, a geometric sans with optical-size intelligence — crisp at 14px captions, open and readable at 16px paragraphs — while Smoothy appears sparingly for promotional callouts and seasonal badge text, injecting a hand-lettered warmth that feels like a recipe note scribbled in the margin.
 
   The palette is deliberately restrained. A near-black ink (#121212) handles body text and icon strokes; a silver-warm gray (#dedede) draws hairlines, divider rules, and surface tints across the product grid. Between those two poles, the brown primary does all the heavy lifting for interactive affordance — buttons, active states, hover underlines, and the sticky add-to-cart bar all wear #331612. Cards sit on a white canvas with `{rounded.md}` corners and a single `{colors.hairline}` border, casting no box-shadow; the visual hierarchy relies on spacing (`{spacing.lg}` gutters, `{spacing.section}` vertical rhythm) rather than elevation. Product photography is large, always on white or light-gray backgrounds, and the grid favors two-up on mobile and four-up on desktop with consistent `{spacing.md}` gaps. A thin top announcement bar in the brown primary with `{colors.on-primary}` white text handles promotions, and the overall impression is a kitchen-tool brand that trusts the product's physical presence over decorative flourish — clean shelves, warm wood tones, nothing between you and the cooker.
@@ -442,6 +445,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only three hex colors were extracted (#dedede, #331612, #121212); the site likely loads additional palette tokens via JavaScript or Shopify theme settings. Colors like `accent-red`, `star-rating`, `success`, and surface tints are inferred from common Shopify kitchen-appliance patterns and should be verified against the live rendered DOM.
 - Font weights and specific size ramps for `filson-soft`, `geologica-variable`, and `smoothy` could not be confirmed from static extraction; the values above are educated defaults based on typical usage of these typefaces. Smoothy's role (promotional badges vs. seasonal display) needs confirmation.

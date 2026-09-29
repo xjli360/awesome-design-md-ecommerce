@@ -1,0 +1,694 @@
+{
+  "source_url": "https://redbarn.com",
+  "final_url": "https://www.redbarn.com/",
+  "captured_at": "2026-09-28T09:16:28.197671+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://redbarn.com",
+      "final_url": "https://www.redbarn.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "f5f25e0e26abc9afc01078f9ac9239a773754bd44ffa1443744a01a3e32a57bb",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.redbarn.com/cdn/shop/t/161/assets/cnr-widgets-redbarn.css?v=43314174323872115971761911641",
+      "final_url": "https://www.redbarn.com/cdn/shop/t/161/assets/cnr-widgets-redbarn.css?v=43314174323872115971761911641",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "21df5c29427b199af42488db734767985b3d70c0a24610b806ca9c516b08a9e6",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.redbarn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.redbarn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.redbarn.com/cdn/shop/t/161/assets/fonts.css?v=5869136162784370451739904568",
+      "final_url": "https://www.redbarn.com/cdn/shop/t/161/assets/fonts.css?v=5869136162784370451739904568",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1777602a900d22ee573142aec34ef5ba12240ceaac7a82ff557d534ea44002d3",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.redbarn.com/cdn/shop/t/161/assets/base.css?v=61749516596263438681782291830",
+      "final_url": "https://www.redbarn.com/cdn/shop/t/161/assets/base.css?v=61749516596263438681782291830",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0f2adf60ffe097fdb1d547c11d7201ad4cd1d657ec3e41b2d03e6960e03dd3de",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Heebo:wght@100..900&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Heebo:wght@100..900&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "8190fa3f94e07f61bbc44b416e3ad9f5edc3046ae2f1ed62b30870709c97512a",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 24,
+      "sources": [
+        "https://www.redbarn.com/",
+        "https://www.redbarn.com/cdn/shop/t/161/assets/cnr-widgets-redbarn.css?v=43314174323872115971761911641",
+        "https://www.redbarn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.redbarn.com/cdn/shop/t/161/assets/base.css?v=61749516596263438681782291830"
+      ]
+    },
+    "#f9f3e9": {
+      "count": 14,
+      "sources": [
+        "https://www.redbarn.com/"
+      ]
+    },
+    "#090909": {
+      "count": 11,
+      "sources": [
+        "https://www.redbarn.com/"
+      ]
+    },
+    "#c93b42": {
+      "count": 4,
+      "sources": [
+        "https://www.redbarn.com/"
+      ]
+    },
+    "#ad2227": {
+      "count": 4,
+      "sources": [
+        "https://www.redbarn.com/"
+      ]
+    },
+    "#b2282d": {
+      "count": 4,
+      "sources": [
+        "https://www.redbarn.com/cdn/shop/t/161/assets/base.css?v=61749516596263438681782291830"
+      ]
+    },
+    "#6a5caf": {
+      "count": 2,
+      "sources": [
+        "https://www.redbarn.com/"
+      ]
+    },
+    "#887cc1": {
+      "count": 2,
+      "sources": [
+        "https://www.redbarn.com/"
+      ]
+    },
+    "#edbcb8": {
+      "count": 2,
+      "sources": [
+        "https://www.redbarn.com/"
+      ]
+    },
+    "#f5ecda": {
+      "count": 2,
+      "sources": [
+        "https://www.redbarn.com/"
+      ]
+    },
+    "#000000": {
+      "count": 2,
+      "sources": [
+        "https://www.redbarn.com/",
+        "https://www.redbarn.com/cdn/shop/t/161/assets/base.css?v=61749516596263438681782291830"
+      ]
+    },
+    "#b3282d": {
+      "count": 2,
+      "sources": [
+        "https://www.redbarn.com/cdn/shop/t/161/assets/cnr-widgets-redbarn.css?v=43314174323872115971761911641"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.redbarn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.redbarn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f8f2e9": {
+      "count": 1,
+      "sources": [
+        "https://www.redbarn.com/"
+      ]
+    },
+    "#efe9e0": {
+      "count": 1,
+      "sources": [
+        "https://www.redbarn.com/"
+      ]
+    },
+    "#c70000": {
+      "count": 1,
+      "sources": [
+        "https://www.redbarn.com/"
+      ]
+    },
+    "#303030": {
+      "count": 1,
+      "sources": [
+        "https://www.redbarn.com/"
+      ]
+    },
+    "#ae2227": {
+      "count": 1,
+      "sources": [
+        "https://www.redbarn.com/"
+      ]
+    },
+    "#881b1e": {
+      "count": 1,
+      "sources": [
+        "https://www.redbarn.com/"
+      ]
+    },
+    "#be4e52": {
+      "count": 1,
+      "sources": [
+        "https://www.redbarn.com/"
+      ]
+    },
+    "#ce7a7d": {
+      "count": 1,
+      "sources": [
+        "https://www.redbarn.com/"
+      ]
+    },
+    "#dfa7a9": {
+      "count": 1,
+      "sources": [
+        "https://www.redbarn.com/"
+      ]
+    },
+    "#ebc8c9": {
+      "count": 1,
+      "sources": [
+        "https://www.redbarn.com/"
+      ]
+    },
+    "#f3dedf": {
+      "count": 1,
+      "sources": [
+        "https://www.redbarn.com/"
+      ]
+    },
+    "#a82e34": {
+      "count": 1,
+      "sources": [
+        "https://www.redbarn.com/"
+      ]
+    },
+    "#df898e": {
+      "count": 1,
+      "sources": [
+        "https://www.redbarn.com/"
+      ]
+    },
+    "#d6d6d6": {
+      "count": 1,
+      "sources": [
+        "https://www.redbarn.com/cdn/shop/t/161/assets/cnr-widgets-redbarn.css?v=43314174323872115971761911641"
+      ]
+    },
+    "#dadada": {
+      "count": 1,
+      "sources": [
+        "https://www.redbarn.com/cdn/shop/t/161/assets/cnr-widgets-redbarn.css?v=43314174323872115971761911641"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.redbarn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.redbarn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.redbarn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#ffffffd9": {
+      "count": 1,
+      "sources": [
+        "https://www.redbarn.com/cdn/shop/t/161/assets/base.css?v=61749516596263438681782291830"
+      ]
+    }
+  },
+  "font_families": {
+    "Heebo": [
+      "https://www.redbarn.com/cdn/shop/t/161/assets/cnr-widgets-redbarn.css?v=43314174323872115971761911641",
+      "https://fonts.googleapis.com/css2?family=Heebo:wght@100..900&display=swap"
+    ],
+    "ITCFranklinGothicLTProBook": [
+      "https://www.redbarn.com/cdn/shop/t/161/assets/fonts.css?v=5869136162784370451739904568"
+    ],
+    "ITCFranklinGothicLTProBook!important": [
+      "https://www.redbarn.com/cdn/shop/t/161/assets/fonts.css?v=5869136162784370451739904568"
+    ],
+    "ITCFranklinGothicLTProDemi": [
+      "https://www.redbarn.com/",
+      "https://www.redbarn.com/cdn/shop/t/161/assets/fonts.css?v=5869136162784370451739904568"
+    ],
+    "ITCFranklinGothicLTProDemi!important": [
+      "https://www.redbarn.com/cdn/shop/t/161/assets/fonts.css?v=5869136162784370451739904568"
+    ],
+    "Libre Franklin": [
+      "https://www.redbarn.com/"
+    ],
+    "NovecentoSlabDemiBold": [
+      "https://www.redbarn.com/cdn/shop/t/161/assets/fonts.css?v=5869136162784370451739904568"
+    ],
+    "NovecentoSlabDemiBold!important": [
+      "https://www.redbarn.com/cdn/shop/t/161/assets/fonts.css?v=5869136162784370451739904568"
+    ],
+    "sans-serif": [
+      "https://www.redbarn.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.redbarn.com/",
+      "selector": ":root,\n        .color-scheme-1",
+      "declarations": "--color-background: 255, \n          255, \n          255;\n          \n            --gradient-background: #ffffff;\n          \n\n          \n\n          --color-foreground: 9, \n          9, \n          9;\n          --color-background-contrast: 191, \n          191, \n          191;\n          --color-shadow: 9, \n          9, \n          9;\n          --color-button: 174, \n          34, \n          39;\n          --color-button-text: 255, \n          255, \n          255;\n          --color-secondary-button: 255, \n          255, \n          255;\n          --color-secondary-button-text: 174, \n          34, \n          39;\n          --color-link: 174, \n          34, \n          39;\n          --color-badge-foregroun"
+    },
+    {
+      "source": "https://www.redbarn.com/",
+      "selector": "body",
+      "declarations": "display: grid;\n  grid-template-rows: auto auto 1fr auto;\n  grid-template-columns: 100%;\n  min-height: 100%;\n  margin: 0;\n  font-size: 1.5rem;\n  letter-spacing: 0.06rem;\n  line-height: calc(1 + 0.8 / var(--font-body-scale));\n  font-family: var(--font-body-family);\n  font-style: var(--font-body-style);\n  font-weight: var(--font-body-weight);"
+    },
+    {
+      "source": "https://www.redbarn.com/",
+      "selector": "#section-template--17532160147636__cr_featured_collection_XP6NBE .collection__view-all--after-slider .button",
+      "declarations": "--color-button: 179, 40, 45;\n    --color-button-text: 255, 255, 255;\n    --alpha-button-background: 1;\n    --alpha-button-border: 1;"
+    },
+    {
+      "source": "https://www.redbarn.com/",
+      "selector": ":root",
+      "declarations": "--rivo-aw-background-color: #f8f2e9;\n      --rivo-aw-desktop-sidebar-left: 0px;\n      --rivo-aw-desktop-sidebar-right: auto;\n      --rivo-aw-desktop-slidein-translate-x: -100%;\n      --rivo-aw-desktop-slideout-translate-x: -100%;\n      --rivo-aw-heading-font-color: #090909;\n      --rivo-aw-body-primary-font-color: #090909;\n      --rivo-aw-body-secondary-font-color: #090909;\n      --rivo-aw-border-color: #efe9e0;\n      --rivo-aw-subdued-color: #ffffff;\n      --rivo-aw-icon-color: #090909;\n      --rivo-aw-primary-color: #090909;\n      --rivo-aw-favorite-button-active-color: #ad2227;\n      --rivo-aw-toast-offset-left: 15px;\n      --rivo-aw-toast-offset-right: auto;\n      --rivo-aw-default-font-"
+    },
+    {
+      "source": "https://www.redbarn.com/",
+      "selector": ":root",
+      "declarations": "--rivo-aw-bg: #fff;\n  --rivo-aw-border-radius: 10px;"
+    },
+    {
+      "source": "https://www.redbarn.com/",
+      "selector": ".rivo-product-price",
+      "declarations": "color: #ad2227;"
+    },
+    {
+      "source": "https://www.redbarn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.redbarn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.redbarn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.redbarn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.redbarn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.redbarn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.redbarn.com/cdn/shop/t/161/assets/fonts.css?v=5869136162784370451739904568",
+      "selector": ":root",
+      "declarations": "--book:\"ITCFranklinGothicLTProBook\";--demi:\"ITCFranklinGothicLTProDemi\";--nove:\"NovecentoSlabDemiBold\""
+    },
+    {
+      "source": "https://www.redbarn.com/cdn/shop/t/161/assets/base.css?v=61749516596263438681782291830",
+      "selector": ":root",
+      "declarations": "--alpha-button-background: 1;\n  --alpha-button-border: 1;\n  --alpha-link: 0.85;\n  --alpha-badge-border: 0.1;\n  --focused-base-outline: 0.2rem solid rgba(var(--color-foreground), 0.5);\n  --focused-base-outline-offset: 0.3rem;\n  --focused-base-box-shadow: 0 0 0 0.3rem rgb(var(--color-background)), 0 0 0.5rem 0.4rem rgba(var(--color-foreground), 0.3);"
+    },
+    {
+      "source": "https://www.redbarn.com/cdn/shop/t/161/assets/base.css?v=61749516596263438681782291830",
+      "selector": ".cr-multicolumn.background-card .multicolumn-card,\n.product-card-wrapper .card,\n.contains-card--product",
+      "declarations": "--border-radius: var(--product-card-corner-radius);\n  --border-width: var(--product-card-border-width);\n  --border-opacity: var(--product-card-border-opacity);\n  --shadow-horizontal-offset: var(--product-card-shadow-horizontal-offset);\n  --shadow-vertical-offset: var(--product-card-shadow-vertical-offset);\n  --shadow-blur-radius: var(--product-card-shadow-blur-radius);\n  --shadow-opacity: var(--product-card-shadow-opacity);\n  --shadow-visible: var(--product-card-shadow-visible);\n  --image-padding: var(--product-card-image-padding);\n  --text-alignment: var(--product-card-text-alignment);"
+    },
+    {
+      "source": "https://www.redbarn.com/cdn/shop/t/161/assets/base.css?v=61749516596263438681782291830",
+      "selector": ".rebuy-product-actions .rebuy-button[aria-label]",
+      "declarations": "background-color: #fff;\n  border-color: #B2282D;\n  color: #B2282D;\n  border-width: 3px;"
+    },
+    {
+      "source": "https://www.redbarn.com/cdn/shop/t/161/assets/base.css?v=61749516596263438681782291830",
+      "selector": ".rebuy-cart__flyout-item-subscription button",
+      "declarations": "border-color: #B2282D !important;\n  color: #B2282D !important;\n  border-width: 3px !important;"
+    },
+    {
+      "source": "https://www.redbarn.com/cdn/shop/t/161/assets/base.css?v=61749516596263438681782291830",
+      "selector": ".text-body",
+      "declarations": "font-size: 1.5rem;\n  letter-spacing: 0.06rem;\n  line-height: calc(1 + 0.8 / var(--font-body-scale));\n  font-family: var(--font-body-family);\n  font-style: var(--font-body-style);\n  font-weight: var(--font-body-weight);"
+    },
+    {
+      "source": "https://www.redbarn.com/cdn/shop/t/161/assets/base.css?v=61749516596263438681782291830",
+      "selector": "h1,\n.h1,\nh2,\nh3,\nh4,\nh5,\n.h0,\n.h2,\n.h3,\n.h4,\n.h5",
+      "declarations": "font-family: var(--font-heading-family);\n  font-weight: var(--font-heading-weight);"
+    },
+    {
+      "source": "https://www.redbarn.com/cdn/shop/t/161/assets/base.css?v=61749516596263438681782291830",
+      "selector": "h1,\nh2,\nh3,\nh4,\nh5,\n.h0,\n.h1,\n.h2,\n.h3,\n.h4,\n.h5",
+      "declarations": "font-style: var(--font-heading-style);\n\n  letter-spacing: calc(var(--font-heading-scale) * 0.06rem);\n  color: rgb(var(--color-foreground));\n  line-height: calc(1 + 0.3 / max(1, var(--font-heading-scale)));\n  word-break: break-word;"
+    },
+    {
+      "source": "https://www.redbarn.com/cdn/shop/t/161/assets/base.css?v=61749516596263438681782291830",
+      "selector": ":root",
+      "declarations": "--duration-short: 100ms;\n  --duration-default: 200ms;\n  --duration-announcement-bar: 250ms;\n  --duration-medium: 300ms;\n  --duration-long: 500ms;\n  --duration-extra-long: 600ms;\n  --duration-extra-longer: 750ms;\n  --duration-extended: 3s;\n  --ease-out-slow: cubic-bezier(0, 0, 0.3, 1);\n  --animation-slide-in: slideIn var(--duration-extra-long) var(--ease-out-slow) forwards;\n  --animation-fade-in: fadeIn var(--duration-extra-long) var(--ease-out-slow);"
+    },
+    {
+      "source": "https://www.redbarn.com/cdn/shop/t/161/assets/base.css?v=61749516596263438681782291830",
+      "selector": ".button--secondary,\n.button--tertiary",
+      "declarations": "--color-button: var(--color-secondary-button);\n  --color-button-text: var(--color-secondary-button-text);"
+    },
+    {
+      "source": "https://www.redbarn.com/cdn/shop/t/161/assets/base.css?v=61749516596263438681782291830",
+      "selector": ".button--tertiary",
+      "declarations": "--alpha-button-background: 0;\n  --alpha-button-border: 0.2;"
+    },
+    {
+      "source": "https://www.redbarn.com/cdn/shop/t/161/assets/base.css?v=61749516596263438681782291830",
+      "selector": ".button,\n.shopify-challenge__button,\n.customer button,\nbutton.shopify-payment-button__button--unbranded",
+      "declarations": "--shadow-horizontal-offset: var(--buttons-shadow-horizontal-offset);\n  --shadow-vertical-offset: var(--buttons-shadow-vertical-offset);\n  --shadow-blur-radius: var(--buttons-shadow-blur-radius);\n  --shadow-opacity: var(--buttons-shadow-opacity);\n  --shadow-visible: var(--buttons-shadow-visible);\n  --border-offset: var(--buttons-border-offset); \n  --border-opacity: calc(1 - var(--buttons-border-opacity));\n  border-radius: var(--buttons-radius-outset);\n  position: relative;"
+    },
+    {
+      "source": "https://www.redbarn.com/cdn/shop/t/161/assets/base.css?v=61749516596263438681782291830",
+      "selector": ".button,\n.shopify-challenge__button,\n.customer button",
+      "declarations": "display: inline-flex;\n  justify-content: center;\n  align-items: center;\n  border: 0;\n  padding: 4px 3rem 0;\n  cursor: pointer;\n  font: inherit;\n  font-size: 1.5rem;\n  text-decoration: none;\n  color: rgb(var(--color-button-text));\n  transition: box-shadow var(--duration-short) ease;\n  -webkit-appearance: none;\n  appearance: none;\n  background-color: rgba(var(--color-button), var(--alpha-button-background));"
+    },
+    {
+      "source": "https://www.redbarn.com/cdn/shop/t/161/assets/base.css?v=61749516596263438681782291830",
+      "selector": ".button:not([disabled]):hover::after,\n.shopify-challenge__button:hover::after,\n.customer button:hover::after,\n.shopify-payment-button__button--unbranded:hover::",
+      "declarations": "--border-offset: 1.3px;\n  box-shadow: 0 0 0 calc(var(--buttons-border-width) + var(--border-offset))\n      rgba(var(--color-button-text), var(--border-opacity)),\n    0 0 0 calc(var(--buttons-border-width) + 1px) rgba(var(--color-button), var(--alpha-button-background));"
+    },
+    {
+      "source": "https://www.redbarn.com/cdn/shop/t/161/assets/base.css?v=61749516596263438681782291830",
+      "selector": ".button--secondary:after",
+      "declarations": "--border-opacity: var(--buttons-border-opacity);"
+    },
+    {
+      "source": "https://www.redbarn.com/cdn/shop/t/161/assets/base.css?v=61749516596263438681782291830",
+      "selector": ".button::selection,\n.shopify-challenge__button::selection,\n.customer button::selection",
+      "declarations": "background-color: rgba(var(--color-button-text), 0.3);"
+    },
+    {
+      "source": "https://www.redbarn.com/cdn/shop/t/161/assets/base.css?v=61749516596263438681782291830",
+      "selector": ".button.loading",
+      "declarations": "color: transparent;\n  position: relative;"
+    },
+    {
+      "source": "https://www.redbarn.com/cdn/shop/t/161/assets/base.css?v=61749516596263438681782291830",
+      "selector": ".button.loading",
+      "declarations": "color: rgb(var(--color-foreground));"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Redbarn Pet Products | Shop Natural Dog and Cat Treats & Food",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.redbarn.com/"
+      ]
+    },
+    "colors.primary-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.redbarn.com/"
+      ]
+    },
+    "colors.accent-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.redbarn.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.redbarn.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.redbarn.com/",
+        "https://www.redbarn.com/cdn/shop/t/161/assets/cnr-widgets-redbarn.css?v=43314174323872115971761911641",
+        "https://www.redbarn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.redbarn.com/cdn/shop/t/161/assets/base.css?v=61749516596263438681782291830"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.redbarn.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.redbarn.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.redbarn.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.redbarn.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.redbarn.com/",
+        "https://www.redbarn.com/cdn/shop/t/161/assets/cnr-widgets-redbarn.css?v=43314174323872115971761911641",
+        "https://www.redbarn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.redbarn.com/cdn/shop/t/161/assets/base.css?v=61749516596263438681782291830"
+      ]
+    },
+    "colors.surface-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.redbarn.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.redbarn.com/",
+        "https://www.redbarn.com/cdn/shop/t/161/assets/cnr-widgets-redbarn.css?v=43314174323872115971761911641",
+        "https://www.redbarn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.redbarn.com/cdn/shop/t/161/assets/base.css?v=61749516596263438681782291830"
+      ]
+    },
+    "colors.border-gray": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.redbarn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.tint-pink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.redbarn.com/"
+      ]
+    },
+    "colors.tint-pink-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.redbarn.com/"
+      ]
+    },
+    "colors.accent-purple": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.redbarn.com/"
+      ]
+    },
+    "colors.utility-link": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.redbarn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.utility-link-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.redbarn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.quiz-cta-card": {
+      "status": "inferred"
+    }
+  }
+}

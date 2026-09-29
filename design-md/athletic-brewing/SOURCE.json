@@ -1,0 +1,857 @@
+{
+  "source_url": "https://athleticbrewing.com",
+  "final_url": "https://athleticbrewing.com/",
+  "captured_at": "2026-09-28T04:33:30.885246+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://athleticbrewing.com",
+      "final_url": "https://athleticbrewing.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "9329a5734d3173cdf4406f223c2697d9457ed3d1a42e2570cbbb135f7ef6d807",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://athleticbrewing.com/cdn/shop/t/299/assets/component-video-hover-preview.css?v=67100412193035958551784565049",
+      "final_url": "https://athleticbrewing.com/cdn/shop/t/299/assets/component-video-hover-preview.css?v=67100412193035958551784565049",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "037b0c01b1cf8728c1ef8bf73e3c71bd54c0eec2160d9d22fb94ef79c76c69ca",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://athleticbrewing.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://athleticbrewing.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "f382efab92163fb7a2184975f3a22c2a7184d32c2dc1771e5aa7d503f11a8891",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://athleticbrewing.com/cdn/shop/t/299/assets/base.css?v=114548760183722594411769105133",
+      "final_url": "https://athleticbrewing.com/cdn/shop/t/299/assets/base.css?v=114548760183722594411769105133",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9c4a8f413185f317262449433c54e8a78f0899fe9cc18a8f467e4c82c2e818e4",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://athleticbrewing.com/cdn/shop/t/299/assets/component-cart-items.css?v=127384614032664249911728910234",
+      "final_url": "https://athleticbrewing.com/cdn/shop/t/299/assets/component-cart-items.css?v=127384614032664249911728910234",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3b437410badcfcf0e85b04aab51e82a52a10c51119f1cf376af79c0836c8cb4d",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#003a5d": {
+      "count": 108,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 52,
+      "sources": [
+        "https://athleticbrewing.com/",
+        "https://athleticbrewing.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://athleticbrewing.com/cdn/shop/t/299/assets/base.css?v=114548760183722594411769105133"
+      ]
+    },
+    "#ffc629": {
+      "count": 25,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#41c3d6": {
+      "count": 18,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#ebd923": {
+      "count": 17,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#414042": {
+      "count": 14,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#06324c": {
+      "count": 10,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#f7fbfc": {
+      "count": 6,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#3c422e": {
+      "count": 5,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 4,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#d09910": {
+      "count": 3,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#abce5b": {
+      "count": 3,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#fe696d": {
+      "count": 3,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#d1e030": {
+      "count": 3,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#f2dab2": {
+      "count": 3,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#ea6852": {
+      "count": 3,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#9dd6e9": {
+      "count": 3,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#017ac3": {
+      "count": 3,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#005677": {
+      "count": 3,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#ffffff00": {
+      "count": 3,
+      "sources": [
+        "https://athleticbrewing.com/cdn/shop/t/299/assets/base.css?v=114548760183722594411769105133"
+      ]
+    },
+    "#00afaa": {
+      "count": 2,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#334fb4": {
+      "count": 2,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#ff9432": {
+      "count": 2,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#c9b812": {
+      "count": 2,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#f6e6d9": {
+      "count": 2,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#dc584e": {
+      "count": 2,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#00b4af": {
+      "count": 2,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#f15a22": {
+      "count": 2,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#f27ea1": {
+      "count": 2,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#f57f2d": {
+      "count": 2,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#a4dbe9": {
+      "count": 2,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#9877d0": {
+      "count": 2,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#dcd540": {
+      "count": 2,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#d0853d": {
+      "count": 2,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#6a3429": {
+      "count": 2,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#007ac3": {
+      "count": 2,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#fa6a02": {
+      "count": 2,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#fadb62": {
+      "count": 2,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#f0a82f": {
+      "count": 2,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#000000": {
+      "count": 2,
+      "sources": [
+        "https://athleticbrewing.com/cdn/shop/t/299/assets/component-video-hover-preview.css?v=67100412193035958551784565049",
+        "https://athleticbrewing.com/cdn/shop/t/299/assets/base.css?v=114548760183722594411769105133"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://athleticbrewing.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://athleticbrewing.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://athleticbrewing.com/cdn/shop/t/299/assets/base.css?v=114548760183722594411769105133"
+      ]
+    },
+    "#becc2b": {
+      "count": 1,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#001a2a": {
+      "count": 1,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#eccbb0": {
+      "count": 1,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#ce3429": {
+      "count": 1,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#002134": {
+      "count": 1,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 1,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#f9d559": {
+      "count": 1,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#e93737": {
+      "count": 1,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#181310": {
+      "count": 1,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#f15f2f": {
+      "count": 1,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#b3dcdd": {
+      "count": 1,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#ee8331": {
+      "count": 1,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#42b2a3": {
+      "count": 1,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#858d37": {
+      "count": 1,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#b66113": {
+      "count": 1,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#d2c113": {
+      "count": 1,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 1,
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "Barlow": [
+      "https://athleticbrewing.com/"
+    ],
+    "Barlow Condensed": [
+      "https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+    ],
+    "Caveat": [
+      "https://athleticbrewing.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://athleticbrewing.com/",
+      "selector": ":root,\n        .color-scheme-1",
+      "declarations": "--color-background: 255, \n          255, \n          255;\n          \n            --gradient-background: #ffffff;\n          \n\n          \n\n          --color-foreground: 0, \n          58, \n          93;\n          --color-background-contrast: 191, \n          191, \n          191;\n          --color-shadow: 18, \n          18, \n          18;\n          --color-button: 18, \n          18, \n          18;\n          --color-button-text: 255, \n          255, \n          255;\n          --color-secondary-button: 255, \n          255, \n          255;\n          --color-secondary-button-text: 18, \n          18, \n          18;\n          --color-link: 18, \n          18, \n          18;\n          --color-badge-foregro"
+    },
+    {
+      "source": "https://athleticbrewing.com/",
+      "selector": "body, .color-scheme-1, .color-scheme-2, .color-scheme-3, .color-scheme-4, .color-scheme-5",
+      "declarations": "color: #414042;\n        background-color: rgb(var(--color-background));"
+    },
+    {
+      "source": "https://athleticbrewing.com/",
+      "selector": ":root, .color-scheme-1",
+      "declarations": "--color-button:235,217,35; --color-button-text:0,58,93;\n--color-secondary-button: 0,58,93; --color-secondary-button-text:255,255,255 ; --color-background:\n255, 255, 255; --gradient-background: #ffffff; --color-foreground: 0, 58, 93;\n--color-background-contrast: 191, 191, 191; --color-shadow: 235,217,35; --color-link: 0, 58, 93;\n--color-badge-foreground: 0, 58, 93; --color-badge-background: 255, 255, 255; --color-badge-border:\n0, 58, 93; --payment-terms-background-color: rgb(255 255 255);\n\n--abc-collage-space-between-cards: 1.6rem; --abc-collage-grid-item-column-span: 1;\n--abc-collage-grid-item-row-span: 1;"
+    },
+    {
+      "source": "https://athleticbrewing.com/",
+      "selector": "body",
+      "declarations": "display: grid;\n  grid-template-rows: auto auto 1fr auto;\n  grid-template-columns: 100%;\n  min-height: 100%;\n  margin: 0;\n  font-size: 1.5rem;\n  letter-spacing: .06rem;\n  line-height: calc(1 + .8 / var(--font-body-scale));\n  font-family: var(--font-body-family);\n  font-style: var(--font-body-style);\n  font-weight: var(--font-body-weight);"
+    },
+    {
+      "source": "https://athleticbrewing.com/",
+      "selector": "width: 100%;\nwidth: 0.0%;\ntext-decoration:none;cursor:pointer;\n\n  .product--15633779294289 .card__inner",
+      "declarations": "background-color: #d09910;"
+    },
+    {
+      "source": "https://athleticbrewing.com/",
+      "selector": "background-color:#FFC629;color:#003A5D\n--ratio-percent: 133.33333333333334%;\n--ratio-percent: 133.33333333333334%;\npadding: 2px 0;\n\n  .product--15623609450577 .",
+      "declarations": "background-color: #abce5b;"
+    },
+    {
+      "source": "https://athleticbrewing.com/",
+      "selector": "--ratio-percent: 133.33333333333334%;\n--ratio-percent: 133.33333333333334%;\npadding: 2px 0;\n\n  .product--15577605079121 .card__inner",
+      "declarations": "background-color: #fe696d;"
+    },
+    {
+      "source": "https://athleticbrewing.com/",
+      "selector": "--ratio-percent: 133.33333333333334%;\n--ratio-percent: 133.33333333333334%;\npadding: 2px 0;\n\n  .product--15543153295441 .card__inner",
+      "declarations": "background-color: #ff9432;"
+    },
+    {
+      "source": "https://athleticbrewing.com/",
+      "selector": "#Banner-template--16838965362769__image_banner_abc_axPCVf\n  .button--primary",
+      "declarations": "--button-color: #ebd923;\n    --button-text-color: #003a5d;\n    --button-border-color: #ebd923;"
+    },
+    {
+      "source": "https://athleticbrewing.com/",
+      "selector": "#Banner-template--16838965362769__image_banner_abc_axPCVf .button--primary:hover",
+      "declarations": "--button-color: #c9b812;"
+    },
+    {
+      "source": "https://athleticbrewing.com/",
+      "selector": "#Banner-template--16838965362769__image_banner_abc_axPCVf\n  .button--secondary",
+      "declarations": "--button-secondary-color: #003a5d;\n    --button-secondary-text-color: #ffffff;\n    --button-secondary-border-color: #003a5d;"
+    },
+    {
+      "source": "https://athleticbrewing.com/",
+      "selector": "#Banner-template--16838965362769__image_banner_abc_axPCVf .button--secondary:hover",
+      "declarations": "--button-secondary-color: #001a2a;"
+    },
+    {
+      "source": "https://athleticbrewing.com/",
+      "selector": "#TextBlock-text_EFx9cj\n  .button--primary",
+      "declarations": "--button-color: #f6e6d9;\n    --button-text-color: #3c422e;\n    --button-border-color: #f6e6d9;"
+    },
+    {
+      "source": "https://athleticbrewing.com/",
+      "selector": "#TextBlock-text_EFx9cj.button--primary:hover",
+      "declarations": "--button-color: #eccbb0;"
+    },
+    {
+      "source": "https://athleticbrewing.com/",
+      "selector": "#TextBlock-text_EFx9cj\n  .button--secondary",
+      "declarations": "--button-secondary-color: #dc584e;\n    --button-secondary-text-color: #ffffff;\n    --button-secondary-border-color: #dc584e;"
+    },
+    {
+      "source": "https://athleticbrewing.com/",
+      "selector": "#TextBlock-text_EFx9cj.button--secondary:hover",
+      "declarations": "--button-secondary-color: #ce3429;"
+    },
+    {
+      "source": "https://athleticbrewing.com/",
+      "selector": "#abc_product_shelf_section-template--16838965362769__abc_product_shelf_returning",
+      "declarations": "background-color: #ffffff;"
+    },
+    {
+      "source": "https://athleticbrewing.com/",
+      "selector": "#shopify-section-template--16838965362769__new_homepage_craft_xFjeqa .craft-text-column .button--primary",
+      "declarations": "--button-color: #ebd923;\n    --button-text-color: #003a5d;\n    --button-border-color: #ebd923;"
+    },
+    {
+      "source": "https://athleticbrewing.com/",
+      "selector": "#shopify-section-template--16838965362769__new_homepage_promo_hAQ9dB .promo-button--1 .button--primary",
+      "declarations": "--button-color: #ebd923;\n    --button-text-color: #003a5d;\n    --button-border-color: #ebd923;"
+    },
+    {
+      "source": "https://athleticbrewing.com/",
+      "selector": "#shopify-section-template--16838965362769__new_homepage_promo_hAQ9dB .promo-button--1 .link",
+      "declarations": "color: #003a5d;"
+    },
+    {
+      "source": "https://athleticbrewing.com/",
+      "selector": "#shopify-section-template--16838965362769__new_homepage_promo_hAQ9dB .promo-button--2 .button--primary",
+      "declarations": "--button-color: #003a5d;\n    --button-text-color: #ffffff;\n    --button-border-color: #003a5d;"
+    },
+    {
+      "source": "https://athleticbrewing.com/",
+      "selector": "#shopify-section-template--16838965362769__new_homepage_promo_hAQ9dB .promo-button--2 .link",
+      "declarations": "color: #ffffff;"
+    },
+    {
+      "source": "https://athleticbrewing.com/",
+      "selector": "#shopify-section-template--16838965362769__new_homepage_promo_TUdPQq .promo-button--1 .button--primary",
+      "declarations": "--button-color: #ebd923;\n    --button-text-color: #003a5d;\n    --button-border-color: #ebd923;"
+    },
+    {
+      "source": "https://athleticbrewing.com/",
+      "selector": "#shopify-section-template--16838965362769__new_homepage_promo_TUdPQq .promo-button--1 .link",
+      "declarations": "color: #003a5d;"
+    },
+    {
+      "source": "https://athleticbrewing.com/",
+      "selector": "#shopify-section-template--16838965362769__new_homepage_promo_TUdPQq .promo-button--2 .button--primary",
+      "declarations": "--button-color: #003a5d;\n    --button-text-color: #ffffff;\n    --button-border-color: #003a5d;"
+    },
+    {
+      "source": "https://athleticbrewing.com/",
+      "selector": "#shopify-section-template--16838965362769__new_homepage_promo_TUdPQq .promo-button--2 .link",
+      "declarations": "color: #ffffff;"
+    },
+    {
+      "source": "https://athleticbrewing.com/",
+      "selector": "#shopify-section-template--16838965362769__new_homepage_promo_ekzbm6 .promo-button--1 .button--primary",
+      "declarations": "--button-color: #ebd923;\n    --button-text-color: #003a5d;\n    --button-border-color: #ebd923;"
+    },
+    {
+      "source": "https://athleticbrewing.com/",
+      "selector": "#shopify-section-template--16838965362769__new_homepage_promo_ekzbm6 .promo-button--1 .link",
+      "declarations": "color: #003a5d;"
+    },
+    {
+      "source": "https://athleticbrewing.com/",
+      "selector": "#shopify-section-template--16838965362769__new_homepage_promo_ekzbm6 .promo-button--2 .button--primary",
+      "declarations": "--button-color: #003a5d;\n    --button-text-color: #ffffff;\n    --button-border-color: #003a5d;"
+    },
+    {
+      "source": "https://athleticbrewing.com/",
+      "selector": "#shopify-section-template--16838965362769__new_homepage_promo_ekzbm6 .promo-button--2 .link",
+      "declarations": "color: #ffffff;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Non Alcoholic Beer | Athletic Brewing Co.",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://athleticbrewing.com/",
+        "https://athleticbrewing.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://athleticbrewing.com/cdn/shop/t/299/assets/base.css?v=114548760183722594411769105133"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://athleticbrewing.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://athleticbrewing.com/",
+        "https://athleticbrewing.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://athleticbrewing.com/cdn/shop/t/299/assets/base.css?v=114548760183722594411769105133"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://athleticbrewing.com/",
+        "https://athleticbrewing.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://athleticbrewing.com/cdn/shop/t/299/assets/base.css?v=114548760183722594411769105133"
+      ]
+    },
+    "colors.accent-yellow": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "colors.accent-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "colors.accent-coral": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "colors.accent-orange": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "colors.accent-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "colors.accent-cream": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "colors.accent-cream-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "colors.danger-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "colors.olive": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "colors.navy-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://athleticbrewing.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.script-accent": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.age-verification-modal": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Sounds of the Universe
-description: A dark, monochrome storefront where #313131 ink dominates the canvas — not as a background but as the primary brand voltage, appearing in navigation bars, product titles, and button fills with the weight of a record sleeve. The site reads like a crate-digger’s notebook: dense, text-forward, and unapologetically utilitarian, with system fonts (Apple system stack, Roboto, Helvetica Neue) doing all the work. There are no decorative illustrations, no hero photography — just rows of album covers in a tight grid, each one a 200px square with a white border (`{rounded.xs}`) and the title set in `{typography.body-sm}` beneath it. The search bar sits at the top in a full-width `{rounded.none}` strip, not a pill, and the primary CTA (“Add to Basket”) is a solid `{colors.primary}` rectangle with `{rounded.sm}` corners and white text. Category navigation runs as a horizontal scroll of text links in `{colors.muted}` with a single `{colors.ink}` underline on the active state. The overall feel is that of a record shop that trusts its inventory over its interface — the design steps back and lets the album art speak.
+name: "Sounds of the Universe"
+source_url: "https://www.soundsoftheuniverse.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A dark, monochrome storefront where #313131 ink dominates the canvas — not as a background but as the primary brand voltage, appearing in navigation bars, product titles, and button fills with the weight of a record sleeve. The site reads like a crate-digger’s notebook: dense, text-forward, and unapologetically utilitarian, with system fonts (Apple system stack, Roboto, Helvetica Neue) doing all the work. There are no decorative illustrations, no hero photography — just rows of album covers in a tight grid, each one a 200px square with a white border (`{rounded.xs}`) and the title set in `{typography.body-sm}` beneath it. The search bar sits at the top in a full-width `{rounded.none}` strip, not a pill, and the primary CTA (“Add to Basket”) is a solid `{colors.primary}` rectangle with `{rounded.sm}` corners and white text. Category navigation runs as a horizontal scroll of text links in `{colors.muted}` with a single `{colors.ink}` underline on the active state. The overall feel is that of a record shop that trusts its inventory over its interface — the design steps back and lets the album art speak.
 
 colors:
   primary: "#313131"
@@ -392,6 +396,8 @@ components:
 - **Breadcrumbs**: On mobile, breadcrumbs truncate to show only the current page and a “Back” link.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states**: Only primary button hover was extracted (#1a1a1a). All other hover states (links, cards, filter tags) are inferred from common patterns and may differ from the live site.
 - **Error styling**: Text-input error state border color (#e63946) is inferred from the badge-new color — actual error styling may use a different red or include iconography.

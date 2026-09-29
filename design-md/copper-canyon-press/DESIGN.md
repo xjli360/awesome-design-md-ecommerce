@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Copper Canyon Press
-description: A literary press that trusts the weight of a single serif letterform over any decorative flourish, built on a near-white canvas (#fefefe) and a deep, almost-black ink (#0a0a0a) that gives poetry pages the gravity of a letterpress sheet. The extracted palette reveals a restrained editorial system — the warm accent is a muted cerulean (#2ba6cb) that appears in navigation links and subtle UI signals, while a secondary rust-red (#c60f13) surfaces only in critical actions like cart or error states, never competing with the poetry itself. Typography leans on Adobe Caslon Pro for display and body text, a choice that signals literary tradition without museum-like stiffness; Open Sans handles UI labels and buttons, creating a quiet tension between old and new. Rounded corners are minimal — `{rounded.xs}` on cards and `{rounded.sm}` on buttons — because the brand treats the page as a reading surface, not a product interface. The footer and sidebar use a muted gray (#cacaca) for hairline borders that organize information without shouting, and a soft surface (#f0f0f0) for secondary panels that feel like the endpapers of a hardcover book. This is a design system built for the long poem, the single-author collection, the chapbook that arrives in the mail — every token serves the text.
+name: "Copper Canyon Press"
+source_url: "https://www.coppercanyonpress.org"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A literary press that trusts the weight of a single serif letterform over any decorative flourish, built on a near-white canvas (#fefefe) and a deep, almost-black ink (#0a0a0a) that gives poetry pages the gravity of a letterpress sheet. The extracted palette reveals a restrained editorial system — the warm accent is a muted cerulean (#2ba6cb) that appears in navigation links and subtle UI signals, while a secondary rust-red (#c60f13) surfaces only in critical actions like cart or error states, never competing with the poetry itself. Typography leans on Adobe Caslon Pro for display and body text, a choice that signals literary tradition without museum-like stiffness; Open Sans handles UI labels and buttons, creating a quiet tension between old and new. Rounded corners are minimal — `{rounded.xs}` on cards and `{rounded.sm}` on buttons — because the brand treats the page as a reading surface, not a product interface. The footer and sidebar use a muted gray (#cacaca) for hairline borders that organize information without shouting, and a soft surface (#f0f0f0) for secondary panels that feel like the endpapers of a hardcover book. This is a design system built for the long poem, the single-author collection, the chapbook that arrives in the mail — every token serves the text.
 
 colors:
   primary: "#2ba6cb"
@@ -342,6 +346,8 @@ components:
 - Search bar hides behind an icon on mobile, expanding to full-width overlay on tap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Extracted colors include many generic framework defaults (Foundation CSS grays, blues, greens) — the true brand palette likely has fewer, more intentional colors. The cerulean (#2ba6cb) and rust (#c60f13) are the most distinctive signals, but their exact usage (hover states, active states, disabled states) is inferred from common patterns rather than extracted.
 - Font stack is inferred from extracted declarations — Adobe Caslon Pro appears as a web font reference, but exact weights and sizes are estimated from typical literary press usage. The site may use additional weights (italic, semibold) not captured.

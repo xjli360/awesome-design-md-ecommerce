@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: McNally Jackson
-description: A deep blue (#003399) as authoritative as a library card catalog anchors a system that otherwise reads as warm, papery, and unpretentious — the kind of place where the checkout counter is cluttered with staff picks and a stack of remaindered paperbacks. That blue, used for the primary navigation bar, the footer background, and every primary button, sits against a near-white canvas (#f6f6f6) that avoids the sterile hospital-white of many e-commerce sites; it's the color of unbleached paper stock. A secondary accent of marigold (#dad55e) and a softer butter (#fffa90) appear in sale badges, promotional banners, and hover states, injecting a cheerful, independent-bookstore energy. The typography relies on Adobe Caslon Pro for display and body text — a serif face that signals literary seriousness without academic stuffiness — paired with Helvetica Neue for UI elements like buttons and form labels. Buttons are softly rectangular with {rounded.sm} corners, never pill-shaped; the brand trusts the authority of its blue rectangle over the friendliness of a circle. Product cards use a clean white surface ({colors.surface-card}) with a subtle drop shadow, and the overall spacing is generous — {spacing.section} between major sections — giving each book room to breathe. The checkout flow, however, introduces a jarring note: a bright pink (#ff5e99) and a sky blue (#31a8f0) that belong to third-party payment widgets, not the bookstore itself. The overall impression is of a serious but warm literary institution that has chosen restraint over trend — no hero carousels, no full-bleed photography, just books arranged in a clean, browsable grid.
+name: "McNally Jackson"
+source_url: "https://www.mcnallyjackson.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep blue (#003399) as authoritative as a library card catalog anchors a system that otherwise reads as warm, papery, and unpretentious — the kind of place where the checkout counter is cluttered with staff picks and a stack of remaindered paperbacks. That blue, used for the primary navigation bar, the footer background, and every primary button, sits against a near-white canvas (#f6f6f6) that avoids the sterile hospital-white of many e-commerce sites; it's the color of unbleached paper stock. A secondary accent of marigold (#dad55e) and a softer butter (#fffa90) appear in sale badges, promotional banners, and hover states, injecting a cheerful, independent-bookstore energy. The typography relies on Adobe Caslon Pro for display and body text — a serif face that signals literary seriousness without academic stuffiness — paired with Helvetica Neue for UI elements like buttons and form labels. Buttons are softly rectangular with {rounded.sm} corners, never pill-shaped; the brand trusts the authority of its blue rectangle over the friendliness of a circle. Product cards use a clean white surface ({colors.surface-card}) with a subtle drop shadow, and the overall spacing is generous — {spacing.section} between major sections — giving each book room to breathe. The checkout flow, however, introduces a jarring note: a bright pink (#ff5e99) and a sky blue (#31a8f0) that belong to third-party payment widgets, not the bookstore itself. The overall impression is of a serious but warm literary institution that has chosen restraint over trend — no hero carousels, no full-bleed photography, just books arranged in a clean, browsable grid.
 
 colors:
   primary: "#003399"
@@ -334,6 +338,8 @@ components:
 - Breadcrumb text truncates on mobile (shows only current page)
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for many components were inferred from common patterns, not extracted from the live site
 - Error state styling (form validation, 404 pages, empty states) could not be reliably extracted

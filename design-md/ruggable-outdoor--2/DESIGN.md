@@ -1,41 +1,14 @@
 ---
 version: alpha
-name: Ruggable
-description: >-
-  Linen parchment (#f6f4ef) spreads across Ruggable's digital surface before a
-  single product loads — the background itself is a material reference, warm
-  enough to suggest woven goods without naming them. The custom aprisRuggable
-  typeface carries all display and headline weight, its letterforms landing
-  somewhere between a geometric serif and a print-foundry workhorse; Manrope
-  handles navigation, body, and UI chrome with a clean geometric warmth that
-  never competes with the product photography. Neither font family appears in
-  typical Shopify templates — both are deliberate brand choices.
-
-  The palette runs in two registers. The first is earthy-dark: a near-charcoal
-  (#282521) anchors every primary CTA and the wordmark, warm enough to avoid
-  the coldness of true black while reading as premium rather than harsh. The
-  second is accent: sage (#657567), rust (#934b32), marigold (#f5ce4e), and
-  mint (#9fe3ba) rotate as collection or seasonal framing — not permanent brand
-  primaries but chromatic signals that let photography set the mood. Error and
-  alert states reach for a saturated red (#f02828 / #b30000), the only moment
-  of high chroma unconnected to product color.
-
-  Surfaces layer in warm neutrals: parchment (#f6f4ef) as the outermost canvas,
-  linen (#ebe8dd) for section alternation, near-whites (#f7f7f7, #f1f1f1) for
-  card faces. Corners are honest rather than pill or sharp: {rounded.sm} on
-  buttons and inputs, {rounded.md} on cards, with {rounded.full} reserved only
-  for filter chips, color swatches, and washability badges.
-
-  The washability proposition — the single most differentiated claim in the rug
-  category — surfaces through a persistent badge system stamped on nearly every
-  product tile. A room visualizer and a Build Your Own rug configurator push the
-  interaction surface well beyond a standard product grid, demanding distinct UI
-  states for swatch selection, pile-height filtering, and scene toggling.
-  Spacing follows a generous base-16 rhythm with section breaks at
-  {spacing.section}, suited to the large-format photography that sells pattern
-  and color at scale. Mobile touch targets hold at 44px minimum, reflecting a
-  shopping journey that often begins with a customer photographing their own
-  floor before browsing.
+name: "Ruggable"
+source_url: "https://ruggable.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Linen parchment (#f6f4ef) spreads across Ruggable's digital surface before a single product loads — the background itself is a material reference, warm enough to suggest woven goods without naming them. The custom aprisRuggable typeface carries all display and headline weight, its letterforms landing somewhere between a geometric serif and a print-foundry workhorse; Manrope handles navigation, body, and UI chrome with a clean geometric warmth that never competes with the product photography. Neither font family appears in typical Shopify templates — both are deliberate brand choices.
+  The palette runs in two registers. The first is earthy-dark: a near-charcoal (#282521) anchors every primary CTA and the wordmark, warm enough to avoid the coldness of true black while reading as premium rather than harsh. The second is accent: sage (#657567), rust (#934b32), marigold (#f5ce4e), and mint (#9fe3ba) rotate as collection or seasonal framing — not permanent brand primaries but chromatic signals that let photography set the mood. Error and alert states reach for a saturated red (#f02828 / #b30000), the only moment of high chroma unconnected to product color.
+  Surfaces layer in warm neutrals: parchment (#f6f4ef) as the outermost canvas, linen (#ebe8dd) for section alternation, near-whites (#f7f7f7, #f1f1f1) for card faces. Corners are honest rather than pill or sharp: {rounded.sm} on buttons and inputs, {rounded.md} on cards, with {rounded.full} reserved only for filter chips, color swatches, and washability badges.
+  The washability proposition — the single most differentiated claim in the rug category — surfaces through a persistent badge system stamped on nearly every product tile. A room visualizer and a Build Your Own rug configurator push the interaction surface well beyond a standard product grid, demanding distinct UI states for swatch selection, pile-height filtering, and scene toggling. Spacing follows a generous base-16 rhythm with section breaks at {spacing.section}, suited to the large-format photography that sells pattern and color at scale. Mobile touch targets hold at 44px minimum, reflecting a shopping journey that often begins with a customer photographing their own floor before browsing.
 
 colors:
   primary: "#282521"
@@ -385,6 +358,8 @@ components:
 - Product grid: 4 columns → 3 → 2 → 1 column as viewport narrows through breakpoints
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact hover and focus color values for interactive elements not extracted; primary-active (#1a1817) inferred from the palette's darkest warm-charcoal entry
 - aprisRuggable font metrics (specific weight variants, x-height ratio, cap-height) are unknown; display sizes estimated at 56/36/24px based on common custom-serif display usage patterns

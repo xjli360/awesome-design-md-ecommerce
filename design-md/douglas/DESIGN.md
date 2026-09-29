@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Douglas
-description: A plush toy brand that wraps its animals in a deep, confident blue — #1863dc — a primary that reads less like a children’s brand pastel and more like a trusted seal, the kind of blue you’d find on a heritage luggage tag or a well-loved denim jacket. That blue anchors every primary CTA across douglastoys.com, from the “Add to Cart” button to the site’s header bar, while a secondary navy (#003388) and a muted teal (#62a9aa) suggest a brand that takes its color seriously: these are not accidental hues but a deliberate, almost nautical palette. The canvas is a warm off-white (#f4f4f4), not a sterile #ffffff, giving the product photography — plush bears, bunnies, and dogs with soft, rounded snouts — a gentle, almost editorial backdrop. Type runs Rubik (found in the extracted font stack) at moderate weights; body copy sits at 16px with a 1.5 line height, while product titles use a slightly bolder 18px weight 600. Buttons are softly rectangular ({rounded.sm} ~8px), not pill-shaped, and the product cards use a subtle {rounded.md} ~12px corner that echoes the rounded forms of the toys themselves. The brand’s signature move is the “Cuddle Scale” — a 1-to-5 rating system displayed as filled and empty circles in {colors.primary} blue and {colors.hairline} gray, a small but distinctive interaction that turns softness into a measurable, shoppable attribute. There is no hard edge anywhere: the site’s search bar uses {rounded.full} pill corners, the footer is a deep navy (#212121) that grounds the page, and every hover state on a product card lifts the image with a subtle shadow and a 2px border in {colors.primary}. The overall feeling is one of warmth and reliability — a brand that trusts its blue, its softness, and its animals to do the selling.
+name: "Douglas"
+source_url: "https://douglastoys.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A plush toy brand that wraps its animals in a deep, confident blue — #1863dc — a primary that reads less like a children’s brand pastel and more like a trusted seal, the kind of blue you’d find on a heritage luggage tag or a well-loved denim jacket. That blue anchors every primary CTA across douglastoys.com, from the “Add to Cart” button to the site’s header bar, while a secondary navy (#003388) and a muted teal (#62a9aa) suggest a brand that takes its color seriously: these are not accidental hues but a deliberate, almost nautical palette. The canvas is a warm off-white (#f4f4f4), not a sterile #ffffff, giving the product photography — plush bears, bunnies, and dogs with soft, rounded snouts — a gentle, almost editorial backdrop. Type runs Rubik (found in the extracted font stack) at moderate weights; body copy sits at 16px with a 1.5 line height, while product titles use a slightly bolder 18px weight 600. Buttons are softly rectangular ({rounded.sm} ~8px), not pill-shaped, and the product cards use a subtle {rounded.md} ~12px corner that echoes the rounded forms of the toys themselves. The brand’s signature move is the “Cuddle Scale” — a 1-to-5 rating system displayed as filled and empty circles in {colors.primary} blue and {colors.hairline} gray, a small but distinctive interaction that turns softness into a measurable, shoppable attribute. There is no hard edge anywhere: the site’s search bar uses {rounded.full} pill corners, the footer is a deep navy (#212121) that grounds the page, and every hover state on a product card lifts the image with a subtle shadow and a 2px border in {colors.primary}. The overall feeling is one of warmth and reliability — a brand that trusts its blue, its softness, and its animals to do the selling.
 
 colors:
   primary: "#1863dc"
@@ -353,6 +357,8 @@ components:
 - Hero section collapses from a side-by-side layout (image + text) to a stacked layout (text above image) on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for many components (e.g., text-input-focus, product-card-hover) were inferred from common patterns; actual site hover/focus styles may differ.
 - Error state styling for text inputs (e.g., red border, error message typography) was not extractable from the live site.

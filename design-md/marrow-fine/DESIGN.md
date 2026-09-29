@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Marrow Fine
-description: Marrow Fine trades on a specific warmth — the parchment cream ground (#f5f2ec) and hand-poured gold (#ab8c52) together read less like a jewelry counter and more like a gilded letter discovered inside a grandmother's keepsake box. The "Modern Heirlooms" positioning is literal in the palette: deep burgundy #643335 surfaces as an ancestral accent alongside a burnished secondary gold (#806430) and whisper-blush (#e6cdc5), as if each diamond is already carrying the memory of something worn and loved before it reaches the customer. Type runs in Jost at measured weights — display text sits light-to-medium rather than bold, letting the gold tokens do the emotional lifting; Poppins handles running body copy with slightly warmer geometry. Buttons use a gold-leaf fill on warm ink, with generous {rounded.sm} radii that feel artisanal rather than corporate. Product photography is set against {colors.canvas}, an off-white that reads almost linen in contrast to the gold-dust card surfaces ({colors.surface-soft}). The blush register — #debeb3, #e6cdc5, #a28586 — forms a secondary emotional layer for editorial moments and hover overlays, while the darker burgundy family (#643335, #532a2c, #201111) grounds the brand with depth and sobriety. Navigation is low-profile, nearly hairline, trusting the cream-and-gold product imagery to carry page authority without heavy UI chrome. Badge treatments, "new arrival" labels, and price callouts use uppercase Jost at micro scales with wide letter-spacing, signaling precision over exclamation. The overall tension is between softness and permanence: soft blush tones and airy spacing against the weight of fine metal and the promise that a piece will outlast its buyer — that is the specific emotional register Marrow Fine is designed to hold.
+name: "Marrow Fine"
+source_url: "https://www.marrowfine.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Marrow Fine trades on a specific warmth — the parchment cream ground (#f5f2ec) and hand-poured gold (#ab8c52) together read less like a jewelry counter and more like a gilded letter discovered inside a grandmother's keepsake box. The "Modern Heirlooms" positioning is literal in the palette: deep burgundy #643335 surfaces as an ancestral accent alongside a burnished secondary gold (#806430) and whisper-blush (#e6cdc5), as if each diamond is already carrying the memory of something worn and loved before it reaches the customer. Type runs in Jost at measured weights — display text sits light-to-medium rather than bold, letting the gold tokens do the emotional lifting; Poppins handles running body copy with slightly warmer geometry. Buttons use a gold-leaf fill on warm ink, with generous {rounded.sm} radii that feel artisanal rather than corporate. Product photography is set against {colors.canvas}, an off-white that reads almost linen in contrast to the gold-dust card surfaces ({colors.surface-soft}). The blush register — #debeb3, #e6cdc5, #a28586 — forms a secondary emotional layer for editorial moments and hover overlays, while the darker burgundy family (#643335, #532a2c, #201111) grounds the brand with depth and sobriety. Navigation is low-profile, nearly hairline, trusting the cream-and-gold product imagery to carry page authority without heavy UI chrome. Badge treatments, "new arrival" labels, and price callouts use uppercase Jost at micro scales with wide letter-spacing, signaling precision over exclamation. The overall tension is between softness and permanence: soft blush tones and airy spacing against the weight of fine metal and the promise that a piece will outlast its buyer — that is the specific emotional register Marrow Fine is designed to hold.
 
 colors:
   primary: "#ab8c52"
@@ -425,6 +429,8 @@ components:
 - Collection category tiles collapse from 4-across to 2-across on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact logo typeface treatment (whether the brand wordmark uses a custom Jost variant or a separate display face) could not be confirmed from extraction
 - Animation/transition timing values (easing curves for hover states, drawer open/close duration) not extractable from static scan

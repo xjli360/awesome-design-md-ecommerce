@@ -1,0 +1,941 @@
+{
+  "source_url": "https://tropiclean.com",
+  "final_url": "https://tropiclean.com/",
+  "captured_at": "2026-09-28T10:34:04.084210+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://tropiclean.com",
+      "final_url": "https://tropiclean.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "32567f90209fbbc2d4bc60d4cf56fe734defb2aebebeca310a93a9f971b993b7",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://tropiclean.com/cdn/shop/t/50/assets/main.css?v=51466597031589073651788467524",
+      "final_url": "https://tropiclean.com/cdn/shop/t/50/assets/main.css?v=51466597031589073651788467524",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "572910499342f23c3bb359cbd3799ede85e65b703843403f9349b1bee891e780",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://tropiclean.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://tropiclean.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://tropiclean.com/cdn/shop/t/50/assets/animate-on-scroll.css?v=62865576715456057531788467475",
+      "final_url": "https://tropiclean.com/cdn/shop/t/50/assets/animate-on-scroll.css?v=62865576715456057531788467475",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "023b7e390f92dac17edcb99e3eecf36caadf2fe452a70d3970720c7aac599abe",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0d784-ef92-7f74-8b46-b897a7c9179c/frontend-401/assets/globo.menu.submenu-styles.min.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0d784-ef92-7f74-8b46-b897a7c9179c/frontend-401/assets/globo.menu.submenu-styles.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1981fba2652c43d203c28af6ba47ce6720babf7f2594ef417c8b432cd15a916c",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0d784-ef92-7f74-8b46-b897a7c9179c/frontend-401/assets/globo.menu.main-navigation-styles.min.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0d784-ef92-7f74-8b46-b897a7c9179c/frontend-401/assets/globo.menu.main-navigation-styles.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9668f7c9633a30cbd57846f4b40f1d7066292efba43fcbcccc31d27d2f61f760",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 53,
+      "sources": [
+        "https://tropiclean.com/",
+        "https://tropiclean.com/cdn/shop/t/50/assets/main.css?v=51466597031589073651788467524",
+        "https://tropiclean.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0d784-ef92-7f74-8b46-b897a7c9179c/frontend-401/assets/globo.menu.submenu-styles.min.css"
+      ]
+    },
+    "#515251": {
+      "count": 32,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#222222": {
+      "count": 13,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#154c38": {
+      "count": 11,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#000000": {
+      "count": 9,
+      "sources": [
+        "https://tropiclean.com/",
+        "https://tropiclean.com/cdn/shop/t/50/assets/main.css?v=51466597031589073651788467524",
+        "https://cdn.shopify.com/extensions/01a0d784-ef92-7f74-8b46-b897a7c9179c/frontend-401/assets/globo.menu.submenu-styles.min.css"
+      ]
+    },
+    "#184c3b": {
+      "count": 9,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#515151": {
+      "count": 6,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 6,
+      "sources": [
+        "https://tropiclean.com/cdn/shop/t/50/assets/main.css?v=51466597031589073651788467524",
+        "https://tropiclean.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#d1d1d1": {
+      "count": 5,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#005430": {
+      "count": 5,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 4,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#bcec7a": {
+      "count": 4,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#00000080": {
+      "count": 4,
+      "sources": [
+        "https://tropiclean.com/cdn/shop/t/50/assets/main.css?v=51466597031589073651788467524"
+      ]
+    },
+    "#d5d5d5": {
+      "count": 3,
+      "sources": [
+        "https://tropiclean.com/",
+        "https://cdn.shopify.com/extensions/01a0d784-ef92-7f74-8b46-b897a7c9179c/frontend-401/assets/globo.menu.submenu-styles.min.css"
+      ]
+    },
+    "#606060": {
+      "count": 3,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#254f37": {
+      "count": 3,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#ebebeb": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d784-ef92-7f74-8b46-b897a7c9179c/frontend-401/assets/globo.menu.submenu-styles.min.css"
+      ]
+    },
+    "#bcec79": {
+      "count": 2,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#969696": {
+      "count": 2,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#ec523e": {
+      "count": 2,
+      "sources": [
+        "https://tropiclean.com/",
+        "https://cdn.shopify.com/extensions/01a0d784-ef92-7f74-8b46-b897a7c9179c/frontend-401/assets/globo.menu.submenu-styles.min.css"
+      ]
+    },
+    "#757575": {
+      "count": 2,
+      "sources": [
+        "https://tropiclean.com/",
+        "https://cdn.shopify.com/extensions/01a0d784-ef92-7f74-8b46-b897a7c9179c/frontend-401/assets/globo.menu.submenu-styles.min.css"
+      ]
+    },
+    "#105035": {
+      "count": 2,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#999999": {
+      "count": 2,
+      "sources": [
+        "https://tropiclean.com/",
+        "https://cdn.shopify.com/extensions/01a0d784-ef92-7f74-8b46-b897a7c9179c/frontend-401/assets/globo.menu.submenu-styles.min.css"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 2,
+      "sources": [
+        "https://tropiclean.com/",
+        "https://cdn.shopify.com/extensions/01a0d784-ef92-7f74-8b46-b897a7c9179c/frontend-401/assets/globo.menu.submenu-styles.min.css"
+      ]
+    },
+    "#a4dfff": {
+      "count": 2,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#a2cf5e": {
+      "count": 2,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://tropiclean.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#202223": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d784-ef92-7f74-8b46-b897a7c9179c/frontend-401/assets/globo.menu.submenu-styles.min.css"
+      ]
+    },
+    "#6d7175": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d784-ef92-7f74-8b46-b897a7c9179c/frontend-401/assets/globo.menu.submenu-styles.min.css"
+      ]
+    },
+    "#e4e4e4": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#d8d8d8": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#777777": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#b5ea6c": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#afe85e": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#fafafa": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#e5e5e5b3": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#111111": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#202020": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#1f1f1f": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#ffffff80": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#91def8": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#fe8b58": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#ffb618": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#666666": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#ff8a4e": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#92da46": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#fe925c": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#eaeaea": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#a2cf5f": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "#007aff": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/cdn/shop/t/50/assets/main.css?v=51466597031589073651788467524"
+      ]
+    },
+    "#00000026": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/cdn/shop/t/50/assets/main.css?v=51466597031589073651788467524"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://tropiclean.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#303030": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d784-ef92-7f74-8b46-b897a7c9179c/frontend-401/assets/globo.menu.submenu-styles.min.css"
+      ]
+    },
+    "#effaf3": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d784-ef92-7f74-8b46-b897a7c9179c/frontend-401/assets/globo.menu.submenu-styles.min.css"
+      ]
+    },
+    "#95c9a8": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d784-ef92-7f74-8b46-b897a7c9179c/frontend-401/assets/globo.menu.submenu-styles.min.css"
+      ]
+    },
+    "#17633a": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d784-ef92-7f74-8b46-b897a7c9179c/frontend-401/assets/globo.menu.submenu-styles.min.css"
+      ]
+    },
+    "#fff3f3": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d784-ef92-7f74-8b46-b897a7c9179c/frontend-401/assets/globo.menu.submenu-styles.min.css"
+      ]
+    },
+    "#e0a7a7": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d784-ef92-7f74-8b46-b897a7c9179c/frontend-401/assets/globo.menu.submenu-styles.min.css"
+      ]
+    },
+    "#8a1f1f": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d784-ef92-7f74-8b46-b897a7c9179c/frontend-401/assets/globo.menu.submenu-styles.min.css"
+      ]
+    },
+    "#f9fafb": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d784-ef92-7f74-8b46-b897a7c9179c/frontend-401/assets/globo.menu.submenu-styles.min.css"
+      ]
+    },
+    "#c4cdd5": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d784-ef92-7f74-8b46-b897a7c9179c/frontend-401/assets/globo.menu.submenu-styles.min.css"
+      ]
+    },
+    "#212b36": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d784-ef92-7f74-8b46-b897a7c9179c/frontend-401/assets/globo.menu.submenu-styles.min.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d784-ef92-7f74-8b46-b897a7c9179c/frontend-401/assets/globo.menu.submenu-styles.min.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://tropiclean.com/"
+    ],
+    "GloboMenuBaseIcon": [
+      "https://cdn.shopify.com/extensions/01a0d784-ef92-7f74-8b46-b897a7c9179c/frontend-401/assets/globo.menu.main-navigation-styles.min.css"
+    ],
+    "Helvetica Neue": [
+      "https://tropiclean.com/"
+    ],
+    "Montserrat": [
+      "https://tropiclean.com/"
+    ],
+    "Segoe UI": [
+      "https://tropiclean.com/"
+    ],
+    "Times": [
+      "https://tropiclean.com/"
+    ],
+    "blinkmacsystemfont": [
+      "https://tropiclean.com/"
+    ],
+    "cantarell": [
+      "https://tropiclean.com/"
+    ],
+    "ibm": [
+      "https://tropiclean.com/"
+    ],
+    "monospace": [
+      "https://tropiclean.com/cdn/shop/t/50/assets/main.css?v=51466597031589073651788467524"
+    ],
+    "oxygen-sans": [
+      "https://tropiclean.com/"
+    ],
+    "roboto": [
+      "https://tropiclean.com/"
+    ],
+    "sans-serif": [
+      "https://tropiclean.com/"
+    ],
+    "sans-serif !important": [
+      "https://tropiclean.com/"
+    ],
+    "swiper-icons": [
+      "https://tropiclean.com/cdn/shop/t/50/assets/main.css?v=51466597031589073651788467524"
+    ],
+    "ubuntu": [
+      "https://tropiclean.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://tropiclean.com/",
+      "selector": "body",
+      "declarations": "width: 100%;\n  min-width: 320px;\n  margin: 0;\n  overflow-x: hidden;\n  overflow-wrap: break-word;\n  overflow-wrap: anywhere;\n  font-family: \"ibm\", sans-serif;"
+    },
+    {
+      "source": "https://tropiclean.com/",
+      "selector": ".color-scheme a:not(.btn),\n.color-scheme button.link",
+      "declarations": "color: inherit;"
+    },
+    {
+      "source": "https://tropiclean.com/",
+      "selector": ".color-scheme .custom-select__btn,\n.color-scheme .price-range__input-wrapper,\n.color-scheme .input,\n.color-scheme .input-with-button,\n.color-scheme .select::aft",
+      "declarations": "--input-bg-color: var(--bg-color);\n  --input-text-color: var(--text-color);"
+    },
+    {
+      "source": "https://tropiclean.com/",
+      "selector": ".color-scheme:not(.color-scheme--white) .btn--secondary",
+      "declarations": "--btn-alt-bg-alpha: 0;\n  --btn-alt-text-color: var(--btn-bg-color);\n  background-color: transparent;"
+    },
+    {
+      "source": "https://tropiclean.com/",
+      "selector": ":root",
+      "declarations": "--fluid-vw: 100vw;\n  --fluid-max-vw: 1536;\n  --fluid-calc: (var(--fluid-vw) - 32rem) / (var(--fluid-max-vw) / 10 - 32) + 0.1rem;\n  --fluid-1-065: ((1.065 / 10 - 0.1) * var(--fluid-calc));\n  --fluid-1-125: ((1.125 / 10 - 0.1) * var(--fluid-calc));\n  --fluid-1-2: ((1.2 / 10 - 0.1) * var(--fluid-calc));\n  --fluid-1-25: ((1.25 / 10 - 0.1) * var(--fluid-calc));\n  --fluid-1-3: ((1.3 / 10 - 0.1) * var(--fluid-calc));\n  --fluid-1-4: ((1.4 / 10 - 0.1) * var(--fluid-calc));\n  --fluid-1-5: ((1.5 / 10 - 0.1) * var(--fluid-calc));"
+    },
+    {
+      "source": "https://tropiclean.com/",
+      "selector": ":root",
+      "declarations": "--column-gap: var(--grid-column-gap);\n  --gutter: var(--gutter-sm, 20px);\n  --row-gap: calc(10 * var(--space-unit));\n  --space-unit: 0.4rem;\n  --viewport-width: calc(100vw - var(--scrollbar-width, 0px) - var(--docked-cart-drawer-width, 0px));"
+    },
+    {
+      "source": "https://tropiclean.com/",
+      "selector": ":root",
+      "declarations": "--heading-font-family: \"ibm\", sans-serif;\n  --body-font-family: \"ibm\", sans-serif;\n  --heading-type-scale: 1.2;\n  --h6: calc(var(--body-font-size) + var(--heading-scale-start));\n  --h5: var(--h6) * var(--heading-type-scale);\n  --h4: var(--h5) * var(--heading-type-scale);\n  --h3: var(--h4) * var(--heading-type-scale);\n  --h2: var(--h3) * var(--heading-type-scale);\n  --h1: var(--h2) * var(--heading-type-scale);\n  --h0: var(--h1) * var(--heading-type-scale);\n  --h6-font-size: calc((var(--h6) / 1.065) * var(--fluid-1-065));\n  --h5-font-size: calc((var(--h5) / 1.125) * var(--fluid-1-125));\n  --h4-font-size: calc((var(--h4) / 1.2) * var(--fluid-1-2));\n  --h3-font-size: calc((var(--h3) / 1.3) * var"
+    },
+    {
+      "source": "https://tropiclean.com/",
+      "selector": "body",
+      "declarations": "color: rgb(var(--text-color));\n  font-family: var(--body-font-family);\n  font-size: calc(var(--body-font-size) * 0.1rem);\n  font-style: var(--body-font-style);\n  font-weight: var(--body-font-weight);\n  letter-spacing: var(--body-letter-spacing);\n  line-height: 1.5;"
+    },
+    {
+      "source": "https://tropiclean.com/",
+      "selector": ".h0,\nh1,\n.h1,\nh2,\n.h2,\nh3,\n.h3,\nh4,\n.h4,\nh5,\n.h5,\nh6,\n.h6,\n.font-heading",
+      "declarations": "margin: 0 0 0.4em;\n  color: rgb(var(--heading-color));\n  font-family: var(--heading-font-family);\n  font-style: var(--heading-font-style);\n  font-weight: var(--heading-font-weight);\n  letter-spacing: var(--heading-letter-spacing);\n  line-height: calc(4px + 2.4ex);\n  text-transform: var(--heading-text-transform);"
+    },
+    {
+      "source": "https://tropiclean.com/",
+      "selector": ".font-body",
+      "declarations": "color: rgb(var(--text-color));\n  font-family: var(--body-font-family);\n  font-style: var(--body-font-style);\n  font-weight: var(--body-font-weight);\n  line-height: 1.5;\n  text-transform: initial;"
+    },
+    {
+      "source": "https://tropiclean.com/",
+      "selector": ".rte h1,\n.rte h2,\n.rte h3,\n.rte h4,\n.rte h5,\n.rte h6",
+      "declarations": "color: rgb(var(--heading-color));"
+    },
+    {
+      "source": "https://tropiclean.com/",
+      "selector": ".rte--inherit-heading-color h1,\n.rte--inherit-heading-color h2,\n.rte--inherit-heading-color h3,\n.rte--inherit-heading-color h4,\n.rte--inherit-heading-color h5,\n",
+      "declarations": "color: inherit;"
+    },
+    {
+      "source": "https://tropiclean.com/",
+      "selector": "button",
+      "declarations": "margin: 0;\n  padding: 0;\n  border: 0;\n  border-radius: 0;\n  background: none;\n  font-family: inherit;\n  font-size: 1em;\n  letter-spacing: inherit;\n  text-decoration: none;\n  text-shadow: none;\n  cursor: pointer;"
+    },
+    {
+      "source": "https://tropiclean.com/",
+      "selector": ".btn--primary,\n.spr-button-primary,\n.shopify-payment-button .shopify-payment-button__button--unbranded,\n.shopify-challenge__button",
+      "declarations": "padding: calc(var(--btn-padding-y, 12px) + var(--btn-border-width)) calc(20px + var(--btn-border-width) * 2);\n  border: 0;\n  outline-color: rgb(var(--btn-bg-color));\n  outline-offset: 3px;\n  background: rgb(var(--btn-bg-hover-color)) linear-gradient(104deg, rgb(var(--btn-bg-hover-color)) 60%, rgb(var(--btn-bg-color)) 60%, rgb(var(--btn-bg-color)) 100%) no-repeat 100% 100%;\n  background-size: 300% 100%;\n  color: rgb(var(--btn-text-color));"
+    },
+    {
+      "source": "https://tropiclean.com/",
+      "selector": ".btn--primary.is-loading",
+      "declarations": "color: rgba(var(--btn-text-color)/0.1);"
+    },
+    {
+      "source": "https://tropiclean.com/",
+      "selector": ".btn--primary.is-loading::after",
+      "declarations": "border-color: rgb(var(--btn-text-color));\n  border-top-color: transparent;"
+    },
+    {
+      "source": "https://tropiclean.com/",
+      "selector": ".btn--primary.is-loading::before",
+      "declarations": "border-color: rgb(var(--btn-text-color));"
+    },
+    {
+      "source": "https://tropiclean.com/",
+      "selector": ".btn--secondary",
+      "declarations": "border: var(--btn-border-width) solid rgb(var(--btn-alt-text-color));\n  outline-color: rgb(var(--btn-alt-text-color));\n  outline-offset: 3px;\n  background: rgba(var(--btn-alt-bg-color)/0.9) linear-gradient(104deg, rgba(var(--btn-alt-text-color)/0.07) 60%, rgba(var(--btn-alt-bg-color)/var(--btn-alt-bg-alpha)) 60%, rgba(var(--btn-alt-bg-color)/var(--btn-alt-bg-alpha)) 100%) no-repeat 100% 100%;\n  background-size: 300% 100%;\n  color: rgb(var(--btn-alt-text-color));"
+    },
+    {
+      "source": "https://tropiclean.com/",
+      "selector": ".btn--secondary.is-loading",
+      "declarations": "color: rgba(var(--btn-alt-text-color)/0.1);"
+    },
+    {
+      "source": "https://tropiclean.com/",
+      "selector": ".btn--secondary.is-loading::after",
+      "declarations": "border-color: rgb(var(--btn-alt-text-color));\n  border-top-color: transparent;"
+    },
+    {
+      "source": "https://tropiclean.com/",
+      "selector": ".btn--secondary.is-loading::before",
+      "declarations": "border-color: rgb(var(--btn-alt-text-color));"
+    },
+    {
+      "source": "https://tropiclean.com/",
+      "selector": ".btn--arrow-with-text::after,\n.btn--arrow-back-with-text::after",
+      "declarations": "content: \"\";\n  position: absolute;\n  top: 50%;\n  right: 16px;\n  width: 24px;\n  height: 24px;\n  transform: translateY(-50%);\n  transition: background-color 0.2s ease;\n  background-color: currentColor;\n  -webkit-mask-image: url(\"data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' stroke='currentColor' stroke-width='1.5' fill='none'><path d='M4.696 12h14.686m-7.007-7.5 7.5 7.5-7.5 7.5'/></svg>\");\n  mask-image: url(\"data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' stroke='currentColor' stroke-width='1.5' fill='none'><path d='M4.696 12h14.686m-7.007-7.5 7.5 7.5-7.5 7.5'/></svg>\");"
+    },
+    {
+      "source": "https://tropiclean.com/",
+      "selector": "shop-login-button",
+      "declarations": "--buttons-radius: var(--btn-border-radius, 0);"
+    },
+    {
+      "source": "https://tropiclean.com/",
+      "selector": "ver,\n.input-with-button textarea:-webkit-autofill:focus,\n.input-with-button select:-webkit-autofill,\n.input-with-button select:-webkit-autofill:hover,\n.input-wi",
+      "declarations": "border-color: transparent;"
+    },
+    {
+      "source": "https://tropiclean.com/",
+      "selector": ".input-with-button",
+      "declarations": "display: flex;\n  align-items: center;\n  border-radius: var(--input-lg-border-radius, var(--input-border-radius));\n  background-color: rgb(var(--input-bg-color));\n  box-shadow: inset 0 0 0 var(--input-border-width) rgba(var(--input-text-color)/0.2);"
+    },
+    {
+      "source": "https://tropiclean.com/",
+      "selector": ".input-with-button > .input",
+      "declarations": "flex: 1 1 auto;\n  margin-inline-start: 3px;\n  margin-inline-end: calc((var(--input-border-radius, 0px) + var(--btn-border-radius, 0px)) * -1);\n  padding-inline-end: 0;\n  border: 0;\n  background-color: transparent;\n  box-shadow: none;"
+    },
+    {
+      "source": "https://tropiclean.com/",
+      "selector": ".input-with-button > .btn:not(.btn--primary)",
+      "declarations": "color: rgb(var(--input-text-color));"
+    },
+    {
+      "source": "https://tropiclean.com/",
+      "selector": "a,\n.link,\n.product-spec__value a",
+      "declarations": "color: rgb(var(--link-color));\n  text-decoration: none;"
+    },
+    {
+      "source": "https://tropiclean.com/",
+      "selector": ".card--product .btn--primary",
+      "declarations": "--btn-padding-y: 10px;"
+    },
+    {
+      "source": "https://tropiclean.com/",
+      "selector": ".main-products-grid[data-layout=list] .card .card__media",
+      "declarations": "z-index: 1;\n  flex: 0 0 calc(50% - var(--gutter) * 2);\n  align-self: flex-start;\n  margin: 0;\n  margin-inline-end: calc(6 * var(--space-unit));\n  background-color: inherit;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "TropiClean Pet Grooming + Dental – For more good days together.",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "colors.warm-accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tropiclean.com/",
+        "https://cdn.shopify.com/extensions/01a0d784-ef92-7f74-8b46-b897a7c9179c/frontend-401/assets/globo.menu.submenu-styles.min.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d784-ef92-7f74-8b46-b897a7c9179c/frontend-401/assets/globo.menu.submenu-styles.min.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tropiclean.com/",
+        "https://tropiclean.com/cdn/shop/t/50/assets/main.css?v=51466597031589073651788467524",
+        "https://tropiclean.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0d784-ef92-7f74-8b46-b897a7c9179c/frontend-401/assets/globo.menu.submenu-styles.min.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tropiclean.com/",
+        "https://cdn.shopify.com/extensions/01a0d784-ef92-7f74-8b46-b897a7c9179c/frontend-401/assets/globo.menu.submenu-styles.min.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tropiclean.com/",
+        "https://cdn.shopify.com/extensions/01a0d784-ef92-7f74-8b46-b897a7c9179c/frontend-401/assets/globo.menu.submenu-styles.min.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tropiclean.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tropiclean.com/",
+        "https://tropiclean.com/cdn/shop/t/50/assets/main.css?v=51466597031589073651788467524",
+        "https://tropiclean.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0d784-ef92-7f74-8b46-b897a7c9179c/frontend-401/assets/globo.menu.submenu-styles.min.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.trust-stat-bar": {
+      "status": "inferred"
+    }
+  }
+}

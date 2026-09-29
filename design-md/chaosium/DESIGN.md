@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Chaosium
-description: A deep violet #221155 anchors the Chaosium brand — not as a background but as a gravitational force that appears in headers, navigation bars, product badges, and the footer, giving the entire site the weight of a grimoire cover. Against this dark, saturated purple, a sharp red #fd5757 acts as the primary action color for CTAs, sale badges, and critical alerts, creating a tension that feels both urgent and arcane. The canvas is a warm off-white #fffdea, like aged parchment, rather than a sterile digital white, and it carries body text in a neutral dark gray #444444 that reads as ink on paper. Supporting accents include a cool blue #4496f6 for secondary links and a muted gold #f1a500 for highlights and star ratings, while a soft pink #f4c8c8 and pale red #ffdddd appear in error states and discount banners. The layout uses generous whitespace and a clean grid, but the color choices — the violet, the red, the parchment — signal that this is a world of mythos, horror, and tabletop storytelling, not a generic e-commerce store. Buttons are sharply rectangular with {rounded.sm} corners, avoiding the pill shapes of consumer brands, and the typography leans on a single sans-serif stack at moderate weights, letting the color system do the emotional work. The overall impression is that of a well-worn rulebook: serious, tactile, and slightly ominous, but welcoming to those who know the lore.
+name: "Chaosium"
+source_url: "https://www.chaosium.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep violet #221155 anchors the Chaosium brand — not as a background but as a gravitational force that appears in headers, navigation bars, product badges, and the footer, giving the entire site the weight of a grimoire cover. Against this dark, saturated purple, a sharp red #fd5757 acts as the primary action color for CTAs, sale badges, and critical alerts, creating a tension that feels both urgent and arcane. The canvas is a warm off-white #fffdea, like aged parchment, rather than a sterile digital white, and it carries body text in a neutral dark gray #444444 that reads as ink on paper. Supporting accents include a cool blue #4496f6 for secondary links and a muted gold #f1a500 for highlights and star ratings, while a soft pink #f4c8c8 and pale red #ffdddd appear in error states and discount banners. The layout uses generous whitespace and a clean grid, but the color choices — the violet, the red, the parchment — signal that this is a world of mythos, horror, and tabletop storytelling, not a generic e-commerce store. Buttons are sharply rectangular with {rounded.sm} corners, avoiding the pill shapes of consumer brands, and the typography leans on a single sans-serif stack at moderate weights, letting the color system do the emotional work. The overall impression is that of a well-worn rulebook: serious, tactile, and slightly ominous, but welcoming to those who know the lore.
 
 colors:
   primary: "#221155"
@@ -317,6 +321,8 @@ components:
 - Search bar may move from the header into a toggleable overlay on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No font-family declarations were extracted from the live site; the typography stack assumes a generic sans-serif fallback (`'Helvetica Neue', Helvetica, Arial, sans-serif`). The actual brand may use a custom typeface (e.g., a display font for headings) that could not be captured.
 - Hover and focus states for most components (beyond buttons and inputs) were not extractable; the system assumes standard CSS transitions where not specified.

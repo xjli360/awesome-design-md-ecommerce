@@ -1,0 +1,732 @@
+{
+  "source_url": "https://kandaovr.com",
+  "final_url": "https://www.kandaovr.com/zh",
+  "captured_at": "2026-09-28T09:41:20.115465+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://kandaovr.com",
+      "final_url": "https://www.kandaovr.com/zh",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "614d7caf7c4a38a7991227b18c43b98f7e445d7e62713b2ddc2e8fe7df07a781",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css",
+      "final_url": "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "708a70b04e9179495f887115e7ee24511403ec33acde8a17f60f7e70deb7a1e6",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css",
+      "final_url": "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "0eac858bf886d292ea2648dc972f027f53020b8e351060f93711c97abd27c3eb",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 43,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 22,
+      "sources": [
+        "https://www.kandaovr.com/zh",
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css",
+        "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css"
+      ]
+    },
+    "#000000": {
+      "count": 22,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css",
+        "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css"
+      ]
+    },
+    "#383838": {
+      "count": 9,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#41bab6": {
+      "count": 9,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css",
+        "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css"
+      ]
+    },
+    "#333333": {
+      "count": 9,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#00807b": {
+      "count": 8,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css",
+        "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css"
+      ]
+    },
+    "#0173f0": {
+      "count": 8,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#c2c2c2": {
+      "count": 8,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css",
+        "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css"
+      ]
+    },
+    "#4abcbb": {
+      "count": 7,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css",
+        "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css"
+      ]
+    },
+    "#00000040": {
+      "count": 7,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#00a9ff": {
+      "count": 7,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css"
+      ]
+    },
+    "#ea0000": {
+      "count": 5,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css",
+        "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css"
+      ]
+    },
+    "#0000000a": {
+      "count": 5,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#676767": {
+      "count": 5,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 5,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#007aff": {
+      "count": 5,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css",
+        "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css"
+      ]
+    },
+    "#55d2ff": {
+      "count": 5,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css"
+      ]
+    },
+    "#0e7cc8": {
+      "count": 5,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css"
+      ]
+    },
+    "#0059d9": {
+      "count": 5,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css"
+      ]
+    },
+    "#111111": {
+      "count": 4,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#38dee9": {
+      "count": 4,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css",
+        "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css"
+      ]
+    },
+    "#9b9b9b": {
+      "count": 4,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css",
+        "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css"
+      ]
+    },
+    "#a1a1a1": {
+      "count": 4,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#f1f5f5": {
+      "count": 4,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 4,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#000000d9": {
+      "count": 4,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#00000073": {
+      "count": 4,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#666666": {
+      "count": 4,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css",
+        "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css"
+      ]
+    },
+    "#ff5ea7": {
+      "count": 4,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 3,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css",
+        "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css"
+      ]
+    },
+    "#1685ff": {
+      "count": 3,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#25d6d0": {
+      "count": 3,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#999999": {
+      "count": 3,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 3,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 3,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#00000080": {
+      "count": 3,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#191a1f": {
+      "count": 3,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css",
+        "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css"
+      ]
+    },
+    "#1d1d1f": {
+      "count": 3,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css",
+        "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css"
+      ]
+    },
+    "#27ae60": {
+      "count": 3,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#f32e2e": {
+      "count": 3,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#3dbef3": {
+      "count": 3,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css",
+        "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css"
+      ]
+    },
+    "#25a5a1": {
+      "count": 3,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css",
+        "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css"
+      ]
+    },
+    "#828282": {
+      "count": 3,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#dac4b1": {
+      "count": 3,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#948eb9": {
+      "count": 3,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#986847": {
+      "count": 3,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css"
+      ]
+    },
+    "#f0d1a1": {
+      "count": 3,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css"
+      ]
+    },
+    "#b27a50": {
+      "count": 3,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 2,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 2,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#ffffff0d": {
+      "count": 2,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#00000026": {
+      "count": 2,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#017aff": {
+      "count": 2,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#558ffe": {
+      "count": 2,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#9480e7": {
+      "count": 2,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#ebebed": {
+      "count": 2,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#ebeff5": {
+      "count": 2,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#ffffff4d": {
+      "count": 2,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 2,
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Apple Color Emoji": [
+      "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+    ],
+    "Arial": [
+      "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+    ],
+    "CenturyGothic": [
+      "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+    ],
+    "Consolas": [
+      "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+    ],
+    "Courier New": [
+      "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+    ],
+    "Helvetica": [
+      "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+    ],
+    "Liberation Mono": [
+      "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+    ],
+    "Lucida": [
+      "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+    ],
+    "Menlo": [
+      "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+    ],
+    "Monaco": [
+      "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+    ],
+    "Noto Color Emoji": [
+      "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+    ],
+    "Noto Sans": [
+      "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+    ],
+    "SFMono-Regular": [
+      "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+    ],
+    "Segoe UI Emoji": [
+      "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+    ],
+    "Segoe UI Symbol": [
+      "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+    ],
+    "monospace": [
+      "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+    ],
+    "sans-serif": [
+      "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+    ],
+    "swiper-icons": [
+      "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css"
+    ],
+    "system-ui": [
+      "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+    ],
+    "ui-monospace": [
+      "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+    ],
+    "ui-sans-serif": [
+      "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-feature-settings:inherit;font-variation-settings:inherit;font-size:100%;font-weight:inherit;line-height:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css",
+      "selector": "[type=button],[type=reset],[type=submit],button",
+      "declarations": "-webkit-appearance:button;background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css",
+      "selector": ":root",
+      "declarations": "--background:0 0% 100%;--foreground:240 10% 3.9%;--muted:240 4.8% 95.9%;--muted-foreground:240 3.8% 46.1%;--popover:0 0% 100%;--popover-foreground:240 10% 3.9%;--card:0 0% 100%;--card-foreground:240 10% 3.9%;--border:240 5.9% 90%;--input:240 5.9% 90%;--primary:240 5.9% 10%;--primary-foreground:0 0% 98%;--secondary:240 4.8% 95.9%;--secondary-foreground:240 5.9% 10%;--accent:240 4.8% 95.9%;--accent-foreground: ;--destructive:0 84.2% 60.2%;--destructive-foreground:0 0% 98%;--ring:240 5% 64.9%;--radius:0.5rem;--kandao-blue:#fff!important"
+    },
+    {
+      "source": "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css",
+      "selector": "body",
+      "declarations": "background-color:hsl(var(--background));color:hsl(var(--foreground))"
+    },
+    {
+      "source": "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css",
+      "selector": ".footer_subscribe_form__wJk9X button",
+      "declarations": "background-color:#007aff;border-radius:50px;padding:8px 60px;border:0;font-size:14px;letter-spacing:4px;color:#fff;cursor:pointer"
+    },
+    {
+      "source": "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css",
+      "selector": ":root",
+      "declarations": "--swiper-theme-color:#007aff"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "看到科技 - 3D全景VR影像技术领导者 | VR 官网 | 360相机 | 3D虚拟技术VR",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css",
+        "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kandaovr.com/zh",
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css",
+        "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css",
+        "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kandaovr.com/zh",
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css",
+        "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css"
+      ]
+    },
+    "colors.accent-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css",
+        "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css"
+      ]
+    },
+    "colors.accent-cyan": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css",
+        "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css"
+      ]
+    },
+    "colors.accent-deep-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css",
+        "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kandaovr.com/_next/static/css/c9455950ef004de9.css",
+        "https://www.kandaovr.com/_next/static/css/4072d37ee87ff542.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-sheet-table": {
+      "status": "inferred"
+    }
+  }
+}

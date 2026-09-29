@@ -1,11 +1,15 @@
 ---
 version: alpha
-name: Detroit City Sports
-description: A saturated #003399 navy — closer to a championship-ring sapphire than a corporate blue — stakes the entire visual identity against the graduated grays and off-whites that form the rest of the palette. Detroit City Sports deals in authenticated signatures and certified memorabilia, and that cobalt acts as a trust signal: the official color of the city's teams rendered in digital form, standing in for the Red Wings, the Pistons, the Tigers, and the Lions all at once. Against it, #ff0000 red fires as a second accent — used sparingly for sale pricing, alert states, and the occasional clearance badge — keeping the palette within the narrow chromatic range of actual Detroit jersey colors rather than straying into invented territory.
+name: "Detroit City Sports"
+source_url: "https://www.detroitcitysports.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A saturated #003399 navy — closer to a championship-ring sapphire than a corporate blue — stakes the entire visual identity against the graduated grays and off-whites that form the rest of the palette. Detroit City Sports deals in authenticated signatures and certified memorabilia, and that cobalt acts as a trust signal: the official color of the city's teams rendered in digital form, standing in for the Red Wings, the Pistons, the Tigers, and the Lions all at once. Against it, #ff0000 red fires as a second accent — used sparingly for sale pricing, alert states, and the occasional clearance badge — keeping the palette within the narrow chromatic range of actual Detroit jersey colors rather than straying into invented territory.
 
-Type is set in Open Sans and Arial, both system-level stalwarts that prioritize legibility over personality. When selling a framed Wayne Gretzky signature or a Bob Gibson baseball, the photography and the certificate of authenticity do the selling; typography just needs to stay out of the way. Headlines run at weight 700 to add structure, while body copy lives at 400 on mid-gray (#444444) ink to reduce eye strain across long browse sessions.
+  Type is set in Open Sans and Arial, both system-level stalwarts that prioritize legibility over personality. When selling a framed Wayne Gretzky signature or a Bob Gibson baseball, the photography and the certificate of authenticity do the selling; typography just needs to stay out of the way. Headlines run at weight 700 to add structure, while body copy lives at 400 on mid-gray (#444444) ink to reduce eye strain across long browse sessions.
 
-The catalog grid organizes into rows and cards against a near-white canvas (#f7f7f7), separated by hairline borders at #dcdbdb. Cards carry small team-color badges that identify sport and franchise at a glance. Search and category filtering sit prominent — this is a catalog-first experience where fans know exactly what they are hunting for. Corners throughout are gently squared ({rounded.xs} to {rounded.sm}), feeling like a well-organized sports shop rather than a lifestyle boutique. The footer drops to a dark #313131 canvas providing a clear visual terminus that reinforces the navy-anchored frame. The muted grays — #606263, #777777, #919394 — form a graduated ink stack that makes metadata and pricing hierarchy read cleanly without additional typographic tricks.
+  The catalog grid organizes into rows and cards against a near-white canvas (#f7f7f7), separated by hairline borders at #dcdbdb. Cards carry small team-color badges that identify sport and franchise at a glance. Search and category filtering sit prominent — this is a catalog-first experience where fans know exactly what they are hunting for. Corners throughout are gently squared ({rounded.xs} to {rounded.sm}), feeling like a well-organized sports shop rather than a lifestyle boutique. The footer drops to a dark #313131 canvas providing a clear visual terminus that reinforces the navy-anchored frame. The muted grays — #606263, #777777, #919394 — form a graduated ink stack that makes metadata and pricing hierarchy read cleanly without additional typographic tricks.
 
 colors:
   primary: "#003399"
@@ -372,6 +376,8 @@ components:
 - Footer columns stack single-column on mobile with a top border separating each column group
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom brand typeface detected; site uses web-safe stack (Open Sans, Arial, Helvetica). Custom font loading behind JS rendering cannot be ruled out.
 - Meta theme-color not set; #003399 inferred as de-facto brand primary from nav color dominance.

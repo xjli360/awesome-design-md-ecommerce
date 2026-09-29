@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Sticker Mule
-description: |
+name: "Sticker Mule"
+source_url: "https://www.stickermule.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Every primary action on the Sticker Mule site fires in the same red — a warm, saturated brand voltage that appears in the logo, the mule mascot, and every CTA without deviation or softening. The palette discipline is strict: that red does all the brand signaling while white canvas and near-black ink handle structure, product photography handles desire, and a spare neutral surface stack fills the gaps. There is no secondary brand color, no gradient, no decorative illustration beyond the mascot itself. Typography runs in a clean geometric sans at sizes that communicate with confidence — hero copy sits at 52px weight-800, product card titles at 18px weight-700, and body copy at 16px weight-400, a three-level scale that requires no intermediate steps because the content hierarchy is already clear from the product-category structure. Rounded corners hold at {rounded.sm} for inputs and secondary buttons, {rounded.md} for primary CTAs, and {rounded.xs} for inline turnaround and promotional badges — the system overall reads as precise production tooling rather than soft-goods retail. Product cards lead with a full-bleed photograph over a {colors.surface-soft} field, then a bolded product name and a turnaround badge positioned as a selling point rather than shipping fine print. Pricing tables surface unit-economics directly on product pages in a plain horizontal band — quantity breaks, unit price, and total in three columns — because the buyer is a business operator who needs numbers before committing to an upload. The upload zone is the brand's most interactive surface: a dashed-border rectangle in {colors.hairline} with a {colors.primary} "Upload artwork" label at center, which collapses to a filename row on attachment. The checkout and order-status flows maintain the same spare visual register, using {colors.success} only for confirmed-order states. The announcement bar — a full-width {colors.primary} band above the nav — is the one place the red is used as a field rather than a mark, running promotions and turnaround offers in reversed white type. The site communicates that custom printing is a reliable, repeatable infrastructure product, not a craft experience.
 
 colors:
@@ -462,6 +465,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **All hex colors inferred from brand knowledge** — the live site returned no color extraction data (likely JS-loaded design tokens or anti-bot protection at crawl time); Sticker Mule's primary red is widely visible in brand assets but the precise hex value is unconfirmed and should be validated against the live stylesheet
 - **Typography unconfirmed** — font-family stack is an estimate based on observed brand aesthetics (possibly GT Walsheim, Proxima Nova, or a proprietary geometric sans); no font-family data was extracted from the live site

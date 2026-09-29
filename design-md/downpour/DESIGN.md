@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Downpour
-description: A rain-drenched audiobook marketplace where #282828 — the meta theme-color and the brand's true ink — sets a moody, intimate stage against which a single accent, #b81d48 (a dried-crimson red), fires for every primary CTA, sale badge, and price highlight. The palette is deliberately compressed: #444444 and #3d4246 for body text, #b2b2b2 and #747474 for muted labels, and a warm off-white canvas of #f8f8f8 that avoids the sterile hospital white of typical ecommerce. Inter runs at modest weights — display titles at 600, body at 400 — and the brand trusts generous whitespace and the occasional #2e9e7b (a deep teal-green) for secondary accents or sale badges to create hierarchy without visual noise. Product cards use softly rounded corners (`{rounded.md}` ~12px), while the search bar and primary buttons take a tighter `{rounded.sm}` (8px) — a subtle signal that this is a utility-first tool, not a lifestyle playground. The nav bar sits at a compact 64px, and the footer uses a dense, link-heavy layout on #282828 with white text, reinforcing the brand's no-nonsense, value-driven positioning. The overall effect is that of a well-lit bookstore on a gray afternoon — warm, focused, and serious about the product.
+name: "Downpour"
+source_url: "https://www.downpour.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A rain-drenched audiobook marketplace where #282828 — the meta theme-color and the brand's true ink — sets a moody, intimate stage against which a single accent, #b81d48 (a dried-crimson red), fires for every primary CTA, sale badge, and price highlight. The palette is deliberately compressed: #444444 and #3d4246 for body text, #b2b2b2 and #747474 for muted labels, and a warm off-white canvas of #f8f8f8 that avoids the sterile hospital white of typical ecommerce. Inter runs at modest weights — display titles at 600, body at 400 — and the brand trusts generous whitespace and the occasional #2e9e7b (a deep teal-green) for secondary accents or sale badges to create hierarchy without visual noise. Product cards use softly rounded corners (`{rounded.md}` ~12px), while the search bar and primary buttons take a tighter `{rounded.sm}` (8px) — a subtle signal that this is a utility-first tool, not a lifestyle playground. The nav bar sits at a compact 64px, and the footer uses a dense, link-heavy layout on #282828 with white text, reinforcing the brand's no-nonsense, value-driven positioning. The overall effect is that of a well-lit bookstore on a gray afternoon — warm, focused, and serious about the product.
 
 colors:
   primary: "#b81d48"
@@ -417,6 +421,8 @@ components:
 - Search bar moves from the nav bar to a full-width element below the nav
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for many components (text-input, search-bar, product-card) are inferred from common patterns rather than extracted from the live site
 - Error and validation styling for forms (error messages, success states) could not be reliably extracted

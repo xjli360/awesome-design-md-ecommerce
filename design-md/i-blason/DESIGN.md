@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: i-Blason
-description: A brand that sells armor for your phone, i-Blason lives in the tension between #108474 (a deep, confident teal) and #fbcd0a (a sharp, warning-yellow accent) — colors that feel more industrial than fashionable, more tool than accessory. The palette is dominated by a spectrum of grays (#eeeeee, #fafafa, #555555, #121212) that form a neutral, no-nonsense backdrop for product photography of rugged cases and screen protectors. The meta theme-color #261e1b, a near-black brown, sets the browser chrome itself to match the brand's dark, serious tone. Typography runs on a mix of Jost and Nunito Sans — clean, geometric sans-serifs that read as modern but not trendy, with Arial and Helvetica as fallbacks for maximum compatibility. The design system is built for e-commerce efficiency: pill-shaped buttons (`{rounded.full}`), generously padded product cards (`{rounded.sm}`), and a sticky top nav that prioritizes category navigation over brand storytelling. The teal `{colors.primary}` drives primary CTAs and the cart badge, while the yellow `{colors.accent}` appears sparingly — sale badges, promotional banners, and the occasional highlight — giving the site the visual language of a hardware store crossed with a tech accessories brand. There is no softness here; corners are either sharp (`{rounded.none}`) or fully rounded (`{rounded.full}`), with no intermediate radius that might suggest luxury or whimsy. The brand's voice is direct, functional, and protective — it sells confidence in a drop, not style on a shelf.
+name: "i-Blason"
+source_url: "https://www.i-blason.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A brand that sells armor for your phone, i-Blason lives in the tension between #108474 (a deep, confident teal) and #fbcd0a (a sharp, warning-yellow accent) — colors that feel more industrial than fashionable, more tool than accessory. The palette is dominated by a spectrum of grays (#eeeeee, #fafafa, #555555, #121212) that form a neutral, no-nonsense backdrop for product photography of rugged cases and screen protectors. The meta theme-color #261e1b, a near-black brown, sets the browser chrome itself to match the brand's dark, serious tone. Typography runs on a mix of Jost and Nunito Sans — clean, geometric sans-serifs that read as modern but not trendy, with Arial and Helvetica as fallbacks for maximum compatibility. The design system is built for e-commerce efficiency: pill-shaped buttons (`{rounded.full}`), generously padded product cards (`{rounded.sm}`), and a sticky top nav that prioritizes category navigation over brand storytelling. The teal `{colors.primary}` drives primary CTAs and the cart badge, while the yellow `{colors.accent}` appears sparingly — sale badges, promotional banners, and the occasional highlight — giving the site the visual language of a hardware store crossed with a tech accessories brand. There is no softness here; corners are either sharp (`{rounded.none}`) or fully rounded (`{rounded.full}`), with no intermediate radius that might suggest luxury or whimsy. The brand's voice is direct, functional, and protective — it sells confidence in a drop, not style on a shelf.
 
 colors:
   primary: "#108474"
@@ -435,6 +439,8 @@ components:
 - Product image galleries collapse from thumbnail strip to swipeable dots on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for buttons and cards are inferred from common e-commerce patterns; exact transition durations and easing curves were not extractable
 - Error state styling for forms (red border) is assumed from the presence of #dd4b39 in the palette; exact error message typography and iconography are unknown

@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Hestan
-description: |
+name: "Hestan"
+source_url: "https://www.hestan.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Deep-teal precision: the color anchoring every Hestan surface — #226d7a — reads less like a branding decision and more like the patina of a well-seasoned copper line, the shade of a cold salt marsh at first light. Where most kitchen-equipment brands retreat into stainless silver and matte black, Hestan commits to an aquatic spectrum running from #226d7a at full saturation down through the glacial #b0e0e9 and the near-white #e4f5fa, building a chromatic argument about thermal clarity rather than raw power. This is not accidental: the flagship NanoBond and ProBond lines are defined by metallurgical precision and molecularly bonded layers, and the palette mirrors that logic — depth layered on depth, each hue a slightly different pressure of the same sea.
 
   Typography runs in Open Sans, a humanist sans that keeps technical specification tables readable without sacrificing warmth. Weights climb from 400 in body copy to 700 in display headers, with generous tracking on uppercase labels that lend the configurator and spec modules a laboratory quality. The type system annotates rather than shouts — the way engineering drawings mark tolerances.
@@ -338,6 +341,8 @@ components:
 - Promo banner text truncates to a single centered line on viewports narrower than 375px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Site returned 403 Forbidden during extraction; no live CSS, design tokens, or DOM could be inspected directly
 - True brand typeface unconfirmed — Arial, Open Sans, and Roboto all appear in extracted font stacks; a licensed geometric or humanist sans may be in use that did not surface in the crawl

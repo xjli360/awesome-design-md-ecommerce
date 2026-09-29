@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Arrow Films
-description: A deep, obsessive catalog of cult, classic, and horror cinema, Arrow Films wraps its collection in a stark white canvas (#f8f8f8) and a primary blue (#0052b4) that reads more like a scholarly monograph than a streaming service. The brand's visual system is built on high-contrast typography — Aktiv Grotesk and Bigger Display in generous sizes — against near-white surfaces (#eeeeee, #f2f2f2), with red accents (#d80027, #e31f26) reserved for price tags, badges, and limited-edition markers that signal urgency without shouting. The extracted palette reveals a brand that trusts its film stills and poster art to carry emotional weight: the grays (#e5e5e5) and soft whites create a gallery-like grid where product cards sit at {rounded.sm} and the primary CTA button uses a full-height blue rectangle at {rounded.xs}. A secondary teal (#00a2a9) and purple (#ad3381) appear in sub-brand badges and genre tags, suggesting a taxonomy system that categorizes by director, label, and restoration series rather than generic "action" or "drama." The search bar, navigation, and footer all share the same hairline-thin border (#e5e5e5) and 16px base spacing, creating a rhythm that feels editorial — like browsing a film journal that happens to sell Blu-rays.
+name: "Arrow Films"
+source_url: "https://www.arrowfilms.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep, obsessive catalog of cult, classic, and horror cinema, Arrow Films wraps its collection in a stark white canvas (#f8f8f8) and a primary blue (#0052b4) that reads more like a scholarly monograph than a streaming service. The brand's visual system is built on high-contrast typography — Aktiv Grotesk and Bigger Display in generous sizes — against near-white surfaces (#eeeeee, #f2f2f2), with red accents (#d80027, #e31f26) reserved for price tags, badges, and limited-edition markers that signal urgency without shouting. The extracted palette reveals a brand that trusts its film stills and poster art to carry emotional weight: the grays (#e5e5e5) and soft whites create a gallery-like grid where product cards sit at {rounded.sm} and the primary CTA button uses a full-height blue rectangle at {rounded.xs}. A secondary teal (#00a2a9) and purple (#ad3381) appear in sub-brand badges and genre tags, suggesting a taxonomy system that categorizes by director, label, and restoration series rather than generic "action" or "drama." The search bar, navigation, and footer all share the same hairline-thin border (#e5e5e5) and 16px base spacing, creating a rhythm that feels editorial — like browsing a film journal that happens to sell Blu-rays.
 
 colors:
   primary: "#0052b4"
@@ -353,6 +357,8 @@ components:
 - Hero section reduces font sizes and centers content on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted color palette includes several colors (#00a2a9, #ad3381, #0d9c4a, #d5cd27) that may represent sub-brand badges, genre tags, or third-party payment/social icons rather than core brand colors. Their exact usage context could not be confirmed from extraction alone.
 - Hover and active states for secondary buttons, text links, and filter tags are inferred from common patterns; exact values may differ.

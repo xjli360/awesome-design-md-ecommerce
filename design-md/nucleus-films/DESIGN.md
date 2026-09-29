@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Nucleus Films
-description: A monochrome film marketplace built on a single extracted hex — #313131, a deep charcoal that reads as the color of exposed film stock before processing, and which serves as the sole structural anchor across the entire interface. The brand strips away all decorative color, trusting instead the raw contrast of white text on this near-black ground to create a cinema-screen tension. Typography relies on the system font stack — -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif — avoiding any custom typeface investment, which positions the brand as a utility-first platform rather than a premium streaming service. Buttons are hard-cornered rectangles (`{rounded.none}`) with 48px heights and generous 16px horizontal padding, a deliberate anti-pill choice that signals seriousness and editorial neutrality. The top navigation runs a full-bleed `{colors.ink}` bar with white nav links, and the search bar mirrors this inversion — white background, charcoal text, no rounding. Product cards use a white canvas with `{rounded.sm}` corners and a single `{colors.hairline}` border, letting poster art and metadata do all the emotional work. The overall effect is that of a film festival program translated into a database: severe, legible, and utterly dependent on the content it hosts for any warmth.
+name: "Nucleus Films"
+source_url: "https://www.nucleusfilms.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A monochrome film marketplace built on a single extracted hex — #313131, a deep charcoal that reads as the color of exposed film stock before processing, and which serves as the sole structural anchor across the entire interface. The brand strips away all decorative color, trusting instead the raw contrast of white text on this near-black ground to create a cinema-screen tension. Typography relies on the system font stack — -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif — avoiding any custom typeface investment, which positions the brand as a utility-first platform rather than a premium streaming service. Buttons are hard-cornered rectangles (`{rounded.none}`) with 48px heights and generous 16px horizontal padding, a deliberate anti-pill choice that signals seriousness and editorial neutrality. The top navigation runs a full-bleed `{colors.ink}` bar with white nav links, and the search bar mirrors this inversion — white background, charcoal text, no rounding. Product cards use a white canvas with `{rounded.sm}` corners and a single `{colors.hairline}` border, letting poster art and metadata do all the emotional work. The overall effect is that of a film festival program translated into a database: severe, legible, and utterly dependent on the content it hosts for any warmth.
 
 colors:
   primary: "#313131"
@@ -317,6 +321,8 @@ components:
 - Search bar moves from the nav row (desktop) to a full-width element below the nav (mobile)
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one extracted hex color (#313131) was available from the live site; all other colors in this system are inferred from common web patterns and the brand's monochrome aesthetic. The true secondary palette (if any) could not be determined.
 - No custom font family was detected; the site uses the system font stack. A custom typeface may be used in production but was not present in the extracted CSS.

@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Extech Instruments
-description: |
+name: "Extech Instruments"
+source_url: "https://www.extech.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Extech Instruments leads with a deep teal (#008375) that reads more like precision-instrument lacquer than web brand color — the hue sits between aquamarine and forest, different enough from the clinical blues of medical instrumentation and the safety-orange of construction equipment to feel genuinely proprietary. Against near-black (#080808) navigation panels and dark charcoal body text (#323339), the teal fires at instrument-grade contrast, the same legibility logic behind a calibrated meter scale. A tiered family of teal derivatives — #80c1ba at midtone, #b3dad6 at near-wash, #004f46 and #00423b as pressed-state darks — provides system depth without reaching for a second hue. The exception is #ffc425, a saturated amber-yellow deployed sparingly as a caution accent, the visual equivalent of a warning indicator on an actual Extech meter.
 
   Typography runs two distinct tracks: Industry-Light carries display and heading weight, its geometric strokes lending a drafting-board precision that complements the instrument hardware photography on product pages. Museo Sans handles body copy with open apertures that improve scan-ability on spec-dense pages where accuracy figures, measurement ranges, and resolution values crowd the reading field. Helvetica Neue LT Std serves as the system fallback. Radii are kept deliberately tight throughout: `{rounded.xs}` and `{rounded.sm}` dominate the component layer because sharp corners communicate instrument accuracy and professional credibility. Product cards, spec callout panels, and data badges use `{rounded.xs}`; only filter pills and promotional chips reach for `{rounded.full}`.
@@ -382,6 +385,8 @@ components:
 - Hero text block stacks above image on mobile; image becomes an aspect-ratio-locked banner below the headline
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Pure white (#ffffff) canvas color not present in extracted palette; assumed as default page background — verify against live site rendering
 - No custom icon set identified; Bootstrap Icons detected in font stacks, suggesting default icon system — brand-specific icon style, stroke weight, and fill treatment unconfirmed

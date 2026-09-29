@@ -1,13 +1,17 @@
 ---
 version: alpha
-name: Gozney
-description: Where most kitchen-equipment brands default to white-canvas minimalism, Gozney opens on charcoal (#272c32) — a background color that exists to make fire look more fire-like and molten cheese look more luminous against a screen. The primary CTA red (#c8102e) is not a sale-rack accent but a thermal signal: it appears on every "Shop Now" and "Add to Cart" button with the logic of an oven dial pushed to maximum, and it doubles as the data color for temperature statistics — 950°F printed large enough to register as a boast. Maison Neue Mono handles the numbers that matter most: cook-time readouts, stone temperature claims, weight specs — set in fixed-width columns that read like instrument panels rather than marketing copy, a detail that separates the brand's product pages from every other outdoor-cooking competitor who sets these figures in the same serif or sans as their prose.
+name: "Gozney"
+source_url: "https://www.gozney.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Where most kitchen-equipment brands default to white-canvas minimalism, Gozney opens on charcoal (#272c32) — a background color that exists to make fire look more fire-like and molten cheese look more luminous against a screen. The primary CTA red (#c8102e) is not a sale-rack accent but a thermal signal: it appears on every "Shop Now" and "Add to Cart" button with the logic of an oven dial pushed to maximum, and it doubles as the data color for temperature statistics — 950°F printed large enough to register as a boast. Maison Neue Mono handles the numbers that matter most: cook-time readouts, stone temperature claims, weight specs — set in fixed-width columns that read like instrument panels rather than marketing copy, a detail that separates the brand's product pages from every other outdoor-cooking competitor who sets these figures in the same serif or sans as their prose.
 
-The wider Maison Neue family carries everything else: Demi for structural headings, navigation labels, and uppercase button text held at 0.5px tracking; Book for body descriptions and product features at comfortable 1.6 line-height. The letter-spacing is tight throughout — no airy editorial looseness — giving the typographic system the weight and authority of precision-engineered hardware documentation. Maison Neue Mono is the telling third member: most brands license a display and a text weight and stop there; commissioning the mono variant signals that fixed-width numeric comparison is a designed experience, not a fallback.
+  The wider Maison Neue family carries everything else: Demi for structural headings, navigation labels, and uppercase button text held at 0.5px tracking; Book for body descriptions and product features at comfortable 1.6 line-height. The letter-spacing is tight throughout — no airy editorial looseness — giving the typographic system the weight and authority of precision-engineered hardware documentation. Maison Neue Mono is the telling third member: most brands license a display and a text weight and stop there; commissioning the mono variant signals that fixed-width numeric comparison is a designed experience, not a fallback.
 
-Three extracted colors do heavy structural work: the charcoal (#272c32) anchors the nav and all hero sections, the near-black (#121212) carries body text on light surfaces, and the light gray (#dedede) provides the only visual rest in an otherwise saturated palette. A deep navy (#012169) appears in trust and provenance contexts — "Made in the UK" badges, warranty callouts — adding heritage register without softening the fire-forward primary. Component geometry stays deliberately angular: buttons carry {rounded.xs} at most, product cards are flat-cornered, and the search field is a bare rectangle. Nothing rounds off that would undercut the impression of hardware built to withstand thermal extremes.
+  Three extracted colors do heavy structural work: the charcoal (#272c32) anchors the nav and all hero sections, the near-black (#121212) carries body text on light surfaces, and the light gray (#dedede) provides the only visual rest in an otherwise saturated palette. A deep navy (#012169) appears in trust and provenance contexts — "Made in the UK" badges, warranty callouts — adding heritage register without softening the fire-forward primary. Component geometry stays deliberately angular: buttons carry {rounded.xs} at most, product cards are flat-cornered, and the search field is a bare rectangle. Nothing rounds off that would undercut the impression of hardware built to withstand thermal extremes.
 
-Spacing is generous at section level ({spacing.section}) but compressed inside components, letting product photography dominate the viewport. The nav stays #272c32 regardless of scroll position or page type — it never lightens for interior pages — which holds a single consistent visual register across the entire site: high-heat, technically credible, built for people who take 60-second Neapolitan pizza seriously.
+  Spacing is generous at section level ({spacing.section}) but compressed inside components, letting product photography dominate the viewport. The nav stays #272c32 regardless of scroll position or page type — it never lightens for interior pages — which holds a single consistent visual register across the entire site: high-heat, technically credible, built for people who take 60-second Neapolitan pizza seriously.
 
 colors:
   primary: "#c8102e"
@@ -346,6 +350,8 @@ components:
 - Footer: 4-column → 2-column (tablet) → single-column accordion (mobile) with expand/collapse per section; social icons move to above the legal row on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only five hex values extracted; hover states, focus rings, error colors, and success confirmation colors are inferred from brand conventions and not observed directly on-site
 - Exact numeric font weights for Maison Neue variants not captured in extraction — "Book" mapped to 400 and "Demi" to 600 per standard Maison Neue naming; verify against loaded font assets

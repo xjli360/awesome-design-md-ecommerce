@@ -1,0 +1,956 @@
+{
+  "source_url": "https://brooklyncandlestudio.com",
+  "final_url": "https://brooklyncandlestudio.com/",
+  "captured_at": "2026-09-28T05:06:40.704366+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://brooklyncandlestudio.com",
+      "final_url": "https://brooklyncandlestudio.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "bfa6e943e41430e485b55cf0625b772a72e949d113b1c081d876966d6928189e",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://brooklyncandlestudio.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://brooklyncandlestudio.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/theme.css?v=94199587358593287481788877841",
+      "final_url": "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/theme.css?v=94199587358593287481788877841",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b75e89918442775a2897948bb7f2325131a149443640a52ce05d109bdc4fcdaa",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/custom.css?v=22094040947047188681789373776",
+      "final_url": "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/custom.css?v=22094040947047188681789373776",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2c1048140318c3a23b51433f855d5602e2c0e78b69c9903c24c5f8a4e2595441",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/accessbility.css?v=126012328235309675531788877841",
+      "final_url": "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/accessbility.css?v=126012328235309675531788877841",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d17806991360935f4f82e897deee7560624ab7ffe46cb95838bd43b99da39c3a",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/product-card-swiper.css?v=139570926726365847771788877841",
+      "final_url": "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/product-card-swiper.css?v=139570926726365847771788877841",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2b79c30bb0312bcf94de3a50472e43d57265ec164efd2f47bb84fd280682e6ed",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 119,
+      "sources": [
+        "https://brooklyncandlestudio.com/",
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/theme.css?v=94199587358593287481788877841",
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/custom.css?v=22094040947047188681789373776",
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/accessbility.css?v=126012328235309675531788877841"
+      ]
+    },
+    "#ffffff": {
+      "count": 26,
+      "sources": [
+        "https://brooklyncandlestudio.com/",
+        "https://brooklyncandlestudio.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/theme.css?v=94199587358593287481788877841",
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/custom.css?v=22094040947047188681789373776",
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/accessbility.css?v=126012328235309675531788877841",
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/product-card-swiper.css?v=139570926726365847771788877841"
+      ]
+    },
+    "#00000000": {
+      "count": 11,
+      "sources": [
+        "https://brooklyncandlestudio.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/theme.css?v=94199587358593287481788877841"
+      ]
+    },
+    "#eeeeee": {
+      "count": 3,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#0000000d": {
+      "count": 3,
+      "sources": [
+        "https://brooklyncandlestudio.com/",
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/theme.css?v=94199587358593287481788877841"
+      ]
+    },
+    "#303030": {
+      "count": 3,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#767474": {
+      "count": 3,
+      "sources": [
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/accessbility.css?v=126012328235309675531788877841",
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/product-card-swiper.css?v=139570926726365847771788877841"
+      ]
+    },
+    "#f9f8f4": {
+      "count": 2,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#333333": {
+      "count": 2,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 2,
+      "sources": [
+        "https://brooklyncandlestudio.com/",
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/product-card-swiper.css?v=139570926726365847771788877841"
+      ]
+    },
+    "#707070": {
+      "count": 2,
+      "sources": [
+        "https://brooklyncandlestudio.com/",
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/accessbility.css?v=126012328235309675531788877841"
+      ]
+    },
+    "#c70000": {
+      "count": 2,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#fffaf0": {
+      "count": 2,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#f9f3f1": {
+      "count": 2,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#efe3dc": {
+      "count": 2,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#e8d6cc": {
+      "count": 2,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://brooklyncandlestudio.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 2,
+      "sources": [
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/theme.css?v=94199587358593287481788877841",
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/custom.css?v=22094040947047188681789373776"
+      ]
+    },
+    "#9b9a9a": {
+      "count": 2,
+      "sources": [
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/custom.css?v=22094040947047188681789373776"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 2,
+      "sources": [
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/product-card-swiper.css?v=139570926726365847771788877841"
+      ]
+    },
+    "#767474cc": {
+      "count": 2,
+      "sources": [
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/product-card-swiper.css?v=139570926726365847771788877841"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 2,
+      "sources": [
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/product-card-swiper.css?v=139570926726365847771788877841"
+      ]
+    },
+    "#5cb85c": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#636166": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#101010": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#7b7b7b": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#c9a24e": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#444444": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#1c1c1ccc": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#0d0d0d": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#414141": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#b7b7b7": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#666666": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#999999": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#bfbfbf": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#807e7e": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#696767": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#b3b2b2": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#20124d": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#ff5e5e": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#f3e8e4": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#f7f0ed": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#e8d2ca": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#e3e3e3": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#1773b0": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/theme.css?v=94199587358593287481788877841"
+      ]
+    },
+    "#252525": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/theme.css?v=94199587358593287481788877841"
+      ]
+    },
+    "#3636364d": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/theme.css?v=94199587358593287481788877841"
+      ]
+    },
+    "#00000066": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/theme.css?v=94199587358593287481788877841"
+      ]
+    },
+    "#e6c5ba": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/custom.css?v=22094040947047188681789373776"
+      ]
+    },
+    "#5c5c5c": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/accessbility.css?v=126012328235309675531788877841"
+      ]
+    },
+    "#c4443b": {
+      "count": 1,
+      "sources": [
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/accessbility.css?v=126012328235309675531788877841"
+      ]
+    }
+  },
+  "font_families": {
+    "AkzidenzGrotesk": [
+      "https://brooklyncandlestudio.com/"
+    ],
+    "Arial": [
+      "https://brooklyncandlestudio.com/",
+      "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/custom.css?v=22094040947047188681789373776",
+      "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/product-card-swiper.css?v=139570926726365847771788877841"
+    ],
+    "Consolas": [
+      "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/theme.css?v=94199587358593287481788877841"
+    ],
+    "Courier New": [
+      "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/theme.css?v=94199587358593287481788877841"
+    ],
+    "Helvetica": [
+      "https://brooklyncandlestudio.com/",
+      "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/product-card-swiper.css?v=139570926726365847771788877841"
+    ],
+    "Helvetica !important": [
+      "https://brooklyncandlestudio.com/"
+    ],
+    "Helvetica Neue": [
+      "https://brooklyncandlestudio.com/",
+      "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/theme.css?v=94199587358593287481788877841"
+    ],
+    "JudgemeIcons' !important": [
+      "https://brooklyncandlestudio.com/"
+    ],
+    "JudgemeStar": [
+      "https://brooklyncandlestudio.com/"
+    ],
+    "JudgemeStar' !important": [
+      "https://brooklyncandlestudio.com/"
+    ],
+    "Liberation Mono": [
+      "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/theme.css?v=94199587358593287481788877841"
+    ],
+    "Love": [
+      "https://brooklyncandlestudio.com/"
+    ],
+    "Menlo": [
+      "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/theme.css?v=94199587358593287481788877841"
+    ],
+    "Miller Display": [
+      "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/theme.css?v=94199587358593287481788877841",
+      "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/custom.css?v=22094040947047188681789373776"
+    ],
+    "Miller Display !important": [
+      "https://brooklyncandlestudio.com/"
+    ],
+    "Miller Display Bold": [
+      "https://brooklyncandlestudio.com/"
+    ],
+    "Miller Display Italic": [
+      "https://brooklyncandlestudio.com/"
+    ],
+    "Miller Display Light": [
+      "https://brooklyncandlestudio.com/"
+    ],
+    "Miller Display LightItalic": [
+      "https://brooklyncandlestudio.com/"
+    ],
+    "Miller Display Roman": [
+      "https://brooklyncandlestudio.com/"
+    ],
+    "Miller Display SemiBold": [
+      "https://brooklyncandlestudio.com/"
+    ],
+    "Miller Display SemiBoldItalic": [
+      "https://brooklyncandlestudio.com/"
+    ],
+    "MillerDisplay": [
+      "https://brooklyncandlestudio.com/"
+    ],
+    "Monaco": [
+      "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/theme.css?v=94199587358593287481788877841"
+    ],
+    "Monotype Baskerville": [
+      "https://brooklyncandlestudio.com/",
+      "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/theme.css?v=94199587358593287481788877841",
+      "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/accessbility.css?v=126012328235309675531788877841"
+    ],
+    "Montserrat": [
+      "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/custom.css?v=22094040947047188681789373776"
+    ],
+    "Montserrat-Regular": [
+      "https://brooklyncandlestudio.com/"
+    ],
+    "SFMono-Regular": [
+      "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/theme.css?v=94199587358593287481788877841"
+    ],
+    "Sans Serif": [
+      "https://brooklyncandlestudio.com/"
+    ],
+    "Times New Roman": [
+      "https://brooklyncandlestudio.com/"
+    ],
+    "arial": [
+      "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/theme.css?v=94199587358593287481788877841",
+      "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/product-card-swiper.css?v=139570926726365847771788877841"
+    ],
+    "helvetica": [
+      "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/theme.css?v=94199587358593287481788877841",
+      "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/product-card-swiper.css?v=139570926726365847771788877841"
+    ],
+    "inherit !important": [
+      "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/custom.css?v=22094040947047188681789373776"
+    ],
+    "monospace": [
+      "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/theme.css?v=94199587358593287481788877841"
+    ],
+    "sans-serif": [
+      "https://brooklyncandlestudio.com/",
+      "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/theme.css?v=94199587358593287481788877841",
+      "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/custom.css?v=22094040947047188681789373776",
+      "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/product-card-swiper.css?v=139570926726365847771788877841"
+    ],
+    "sans-serif !important": [
+      "https://brooklyncandlestudio.com/"
+    ],
+    "serif": [
+      "https://brooklyncandlestudio.com/",
+      "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/theme.css?v=94199587358593287481788877841",
+      "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/custom.css?v=22094040947047188681789373776"
+    ],
+    "serif!important": [
+      "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/accessbility.css?v=126012328235309675531788877841"
+    ],
+    "ui-monospace": [
+      "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/theme.css?v=94199587358593287481788877841"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://brooklyncandlestudio.com/",
+      "selector": "[dir=\"rtl\"]:root",
+      "declarations": "--transform-logical-flip: -1;\n      --transform-origin-start: right;\n      --transform-origin-end: left;"
+    },
+    {
+      "source": "https://brooklyncandlestudio.com/",
+      "selector": ":root",
+      "declarations": "--text-xs: 0.8125rem;\n        --text-sm: 0.875rem;\n        --text-base: 0.9375rem;\n        --text-lg: 1.0625rem;\n        --text-xl: 1.3125rem;\n\n        \n        --container-gutter: 2rem;"
+    },
+    {
+      "source": "https://brooklyncandlestudio.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: 3rem;\n\n        --section-vertical-spacing: 3rem;\n        --section-vertical-spacing-tight: 3rem;\n\n        --section-stack-gap:2.25rem;\n        --section-stack-gap-tight:2.25rem;"
+    },
+    {
+      "source": "https://brooklyncandlestudio.com/",
+      "selector": ":root",
+      "declarations": "--page-overlay: 0 0 0 / 0.4;\n\n      \n      --page-background: ;\n\n      \n      --on-sale-text: 28 28 28;\n      --on-sale-badge-background: 28 28 28;\n      --on-sale-badge-text: 255 255 255;\n      --sold-out-badge-background: 239 239 239;\n      --sold-out-badge-text: 0 0 0 / 0.65;\n      --custom-badge-background: 128 126 126;\n      --custom-badge-text: 255 255 255;\n      --star-color: 28 28 28;\n\n      \n      --success-background: 212 227 203;\n      --success-text: 48 122 7;\n      --warning-background: 253 241 224;\n      --warning-text: 237 138 0;\n      --error-background: 243 204 204;\n      --error-text: 203 43 43;"
+    },
+    {
+      "source": "https://brooklyncandlestudio.com/",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #000;--jdgm-secondary-color: rgba(0,0,0,0.1);--jdgm-star-color: #000;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #000000;--jdgm-paginate-color: #636166;--jdgm-border-radius: 10;--jdgm-reviewer-name-color: #000000"
+    },
+    {
+      "source": "https://brooklyncandlestudio.com/",
+      "selector": ":root",
+      "declarations": "--announcement-bar-is-sticky: 0;"
+    },
+    {
+      "source": "https://brooklyncandlestudio.com/",
+      "selector": ":root",
+      "declarations": "--header-is-sticky: 1;"
+    },
+    {
+      "source": "https://brooklyncandlestudio.com/",
+      "selector": "#shopify-section-sections--28660212662636__header",
+      "declarations": "--header-grid: \"primary-nav logo secondary-nav\" / minmax(0, 1fr) auto minmax(0, 1fr);\n    --header-padding-block: 1rem;\n    --header-transparent-header-text-color: 255 255 255;\n    --header-separation-border-color: 28 28 28 / 0.15;\n\n    position: relative;\n    z-index: 5;"
+    },
+    {
+      "source": "https://brooklyncandlestudio.com/",
+      "selector": "#shopify-section-sections--28660212662636__header",
+      "declarations": "--header-padding-block: 1.6rem;"
+    },
+    {
+      "source": "https://brooklyncandlestudio.com/",
+      "selector": "#shopify-section-sections--28660212662636__header",
+      "declarations": "--header-logo-width: 175px;"
+    },
+    {
+      "source": "https://brooklyncandlestudio.com/",
+      "selector": "#shopify-section-sections--28660212662636__header",
+      "declarations": "--header-logo-width: 210px;"
+    },
+    {
+      "source": "https://brooklyncandlestudio.com/",
+      "selector": "header-sidebar",
+      "declarations": "--secondary-font-family: Helvetica, sans-serif;"
+    },
+    {
+      "source": "https://brooklyncandlestudio.com/",
+      "selector": ".header-sidebar__main-panel .header-sidebar__linklist li span",
+      "declarations": "text-transform: none;\n      padding: 6px;\n      margin-left: 10px;\n      border-radius: 2px;\n      background: hsla(0, 0%, 89%, 0.24);\n      font-family: var(--text-font-family);"
+    },
+    {
+      "source": "https://brooklyncandlestudio.com/",
+      "selector": ".header-sidebar__main-panel .header-sidebar__linklist li a,\n    .header-sidebar__main-panel .header-sidebar__linklist li button",
+      "declarations": "color: rgb(var(--text-color));\n      font-family: var(--secondary-font-family);\n      font-size: 12px;\n      font-style: var(--heading-font-style);\n      font-weight: var(--heading-font-weight);\n      line-height: 23.4px; \n      letter-spacing: 1px;\n      text-transform: uppercase;"
+    },
+    {
+      "source": "https://brooklyncandlestudio.com/",
+      "selector": ".header-sidebar__collapsible-panel .header-sidebar__back-button",
+      "declarations": "color: rgb(var(--text-color));\n      text-align: center;\n      font-family: var(--secondary-font-family);\n      font-size: 12px;\n      font-style: var(--heading-font-style);\n      font-weight: var(--heading-font-weight);\n      line-height: 23.4px; \n      letter-spacing: 1px;\n      text-transform: uppercase;"
+    },
+    {
+      "source": "https://brooklyncandlestudio.com/",
+      "selector": ".header-sidebar__collapsible-panel .header-sidebar__back-button span",
+      "declarations": "padding: 8px 6px 6px;\n      margin-left: 8px;\n      border-radius: 2px;\n      background: hsla(0, 0%, 89%, 0.24);\n      color: #444;\n      font-family: var(--text-font-family);\n      font-size: 12px;\n      font-style: var(--heading-font-style);\n      font-weight: var(--heading-font-weight);\n      line-height: 12px;"
+    },
+    {
+      "source": "https://brooklyncandlestudio.com/",
+      "selector": ".header-sidebar__collapsible-panel .header-sidebar__linklist.divide-y li a,\n    .header-sidebar__collapsible-panel .header-sidebar__linklist.divide-y li .header",
+      "declarations": "color: rgb(var(--text-color));\n      font-family: var(--secondary-font-family);\n      font-size: 9px;\n      font-style: var(--heading-font-style);\n      font-weight: var(--heading-font-weight);\n      line-height: 23.4px; \n      letter-spacing: 1px;\n      text-transform: uppercase;"
+    },
+    {
+      "source": "https://brooklyncandlestudio.com/",
+      "selector": ".header-sidebar__collapsible-panel .header-sidebar__promo .h6",
+      "declarations": "color: rgb(var(--text-color));\n      font-family: var(--text-font-family);\n      font-size: 14px;\n      font-style: var(--heading-font-style);\n      font-weight: var(--heading-font-weight);\n      line-height: 20px; \n      letter-spacing: 1px;\n      text-transform: uppercase;"
+    },
+    {
+      "source": "https://brooklyncandlestudio.com/",
+      "selector": ".header-sidebar__collapsible-panel .header-sidebar__promo .text-subdued",
+      "declarations": "color: rgba(28, 28, 28, 0.65);\n      font-family: var(--text-font-family);\n      font-size: 12px;\n      font-style: var(--heading-font-style);\n      font-weight: var(--heading-font-weight);\n      line-height: 18px; \n      letter-spacing: 1px;\n      text-transform: uppercase;"
+    },
+    {
+      "source": "https://brooklyncandlestudio.com/",
+      "selector": "white-space: nowrap;\nwhite-space: nowrap;\n #shopify-section-sections--28660212662636__header summary",
+      "declarations": "font-family: \"Helvetica\", sans-serif; font-size: 10px; letter-spacing: 1px;"
+    },
+    {
+      "source": "https://brooklyncandlestudio.com/",
+      "selector": "#shopify-section-sections--28660212662636__header a",
+      "declarations": "font-family: \"Helvetica\", sans-serif; font-size: 10px; letter-spacing: 1px;"
+    },
+    {
+      "source": "https://brooklyncandlestudio.com/",
+      "selector": "#shopify-section-sections--28660212662636__header span",
+      "declarations": "font-family: \"Helvetica\", sans-serif; font-size: 10px; letter-spacing: 1px;"
+    },
+    {
+      "source": "https://brooklyncandlestudio.com/",
+      "selector": "#shopify-section-sections--28660212662636__header p",
+      "declarations": "font-family: \"Helvetica\", sans-serif; font-size: 10px; letter-spacing: 1px;"
+    },
+    {
+      "source": "https://brooklyncandlestudio.com/",
+      "selector": ":root",
+      "declarations": "--rivo-aw-favorite-button-active-color: #000000 !important;\n      --bcs-heart-size: 34px;\n      --bcs-heart-inset: 10px;"
+    },
+    {
+      "source": "https://brooklyncandlestudio.com/",
+      "selector": ".favorite-button-wrapper rivo-favorite-button",
+      "declarations": "display: flex;\n      align-items: center;\n      justify-content: center;\n      width: 100%;\n      height: 100%;\n      cursor: pointer;\n      color: rgba(0,0,0,.55);\n      transition: color .2s;"
+    },
+    {
+      "source": "https://brooklyncandlestudio.com/",
+      "selector": ".favorite-button-wrapper rivo-favorite-button:hover,\n    .favorite-button-wrapper rivo-favorite-button.rivo-favorite-active",
+      "declarations": "color: #000000;"
+    },
+    {
+      "source": "https://brooklyncandlestudio.com/",
+      "selector": ":root",
+      "declarations": "--bcs-heart-size: 32px; --bcs-heart-inset: 8px;"
+    },
+    {
+      "source": "https://brooklyncandlestudio.com/",
+      "selector": ":root",
+      "declarations": "--rivo-aw-favorite-button-active-color: #000000 !important;\n      --bcs-heart-size: 34px;\n      --bcs-heart-inset: 10px;"
+    },
+    {
+      "source": "https://brooklyncandlestudio.com/",
+      "selector": ".favorite-button-wrapper rivo-favorite-button",
+      "declarations": "display: flex;\n      align-items: center;\n      justify-content: center;\n      width: 100%;\n      height: 100%;\n      cursor: pointer;\n      color: rgba(0,0,0,.55);\n      transition: color .2s;"
+    },
+    {
+      "source": "https://brooklyncandlestudio.com/",
+      "selector": ".favorite-button-wrapper rivo-favorite-button:hover,\n    .favorite-button-wrapper rivo-favorite-button.rivo-favorite-active",
+      "declarations": "color: #000000;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Brooklyn Candle Studio | Luxury Candles & Home Fragrances",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://brooklyncandlestudio.com/",
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/theme.css?v=94199587358593287481788877841",
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/custom.css?v=22094040947047188681789373776",
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/accessbility.css?v=126012328235309675531788877841"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/product-card-swiper.css?v=139570926726365847771788877841"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://brooklyncandlestudio.com/",
+        "https://brooklyncandlestudio.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/theme.css?v=94199587358593287481788877841",
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/custom.css?v=22094040947047188681789373776",
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/accessbility.css?v=126012328235309675531788877841",
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/product-card-swiper.css?v=139570926726365847771788877841"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/accessbility.css?v=126012328235309675531788877841",
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/product-card-swiper.css?v=139570926726365847771788877841"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://brooklyncandlestudio.com/",
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/product-card-swiper.css?v=139570926726365847771788877841"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://brooklyncandlestudio.com/",
+        "https://brooklyncandlestudio.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/theme.css?v=94199587358593287481788877841",
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/custom.css?v=22094040947047188681789373776",
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/accessbility.css?v=126012328235309675531788877841",
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/product-card-swiper.css?v=139570926726365847771788877841"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "colors.accent-blush": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "colors.accent-terracotta": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/accessbility.css?v=126012328235309675531788877841"
+      ]
+    },
+    "colors.sale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://brooklyncandlestudio.com/"
+      ]
+    },
+    "colors.badge-neutral": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://brooklyncandlestudio.com/cdn/shop/t/248/assets/product-card-swiper.css?v=139570926726365847771788877841"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.badge-sale": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.scent-family-filter": {
+      "status": "inferred"
+    }
+  }
+}

@@ -8,15 +8,17 @@ Outputs:
   _state/_featured.md     (dev) featured-brand bullets, for hand-assembling README
   _state/_categories.md   (dev) marquee-category <details> blocks, for README
 
-Source of truth (first that exists):
-  _state/selected.csv   author-side metadata for the full 3,000-brand universe
-  data/brands.csv       committed metadata for the completed collection
+Source of truth: public data/sites.csv, plus explicit URL aliases and source holds.
 """
 
 import csv
+import io
+import json
+from collection import reconcile
+from design_system import atomic_write, parse_document
 import re
 from pathlib import Path
-from collections import defaultdict
+from collections import defaultdict, Counter
 
 ROOT = Path(__file__).resolve().parent.parent
 DESIGN_DIR = ROOT / "design-md"
@@ -153,8 +155,7 @@ def read_hook(slug: str) -> str:
     p = DESIGN_DIR / slug / "DESIGN.md"
     if not p.exists():
         return ""
-    m = DESC_RE.search(p.read_text(encoding="utf-8"))
-    return first_sentence(m.group(1)) if m else ""
+    return first_sentence(parse_document(p.read_text(encoding="utf-8"))["description"])
 
 
 def load_rows():
@@ -173,100 +174,88 @@ def theme_for(cat: str) -> str:
 def anchor(s: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", s.lower()).strip("-")
 
+def write_status(manifest):
+    counts=manifest['counts']
+    pending=[r for r in manifest['sites'] if not r['alias_of'] and not r['generated']]
+    reasons=Counter(r.get('source_hold',{}).get('status','pending_review') for r in pending)
+    lines=['# Collection status','', '[← README](./README.md) · [Full index](./INDEX.md)','',
+           f"{counts['generated_sites']:,} unique URLs have documents; {counts['remaining_sites']:,} remain without a valid source-backed addition.", '',
+           'A reviewed hold is not a completed DESIGN.md. Historical files may be unverified; format validation is separate from visual fidelity. Counts include preserved historical URL aliases and do not claim global brand deduplication.','',
+           '## Evidence coverage','','| Evidence status | DESIGN.md files |','|---|---:|']
+    for status,n in sorted(Counter(r['evidence_status'] for r in manifest['sites'] if r['generated']).items()):lines.append(f'| {status} | {n} |')
+    lines+=['','## Unresolved sources','','| Remaining status | Unique URLs |','|---|---:|']
+    for status,n in sorted(reasons.items()):lines.append(f'| {status} | {n} |')
+    lines+=['','## Sites without documents','','| Brand | Source | Status | Checked | Reason |','|---|---|---|---|---|']
+    def cell(s):return str(s).replace('|','\\|').replace('\n',' ')
+    for r in sorted(pending,key=lambda r:r['brand_name'].lower()):
+        h=r.get('source_hold',{})
+        values=[r['brand_name'],f"[website]({r['url']})",h.get('status','pending_review'),h.get('checked_on','—'),h.get('reason','No completed review recorded.')]
+        lines.append('| '+' | '.join(cell(v) for v in values)+' |')
+    lines+=['','Detailed provenance: [source holds](./data/source_holds.json), [source corrections](./data/source_corrections.json), [manifest](./data/manifest.json).','']
+    atomic_write(ROOT/'STATUS.md','\n'.join(lines))
+
 
 def main():
-    rows = load_rows()
-    completed = []
-    for r in rows:
-        slug = r["slug"]
-        if (DESIGN_DIR / slug / "DESIGN.md").exists():
-            r["hook"] = read_hook(slug)
-            completed.append(r)
-
-    completed.sort(key=lambda r: r["brand_name"].lower())
+    manifest = reconcile()
+    counts = manifest["counts"]
+    if counts["generated_records"] != counts["validated_records"]:
+        raise SystemExit("Collection has invalid generated files; run check_format.py before indexing")
+    write_status(manifest)
+    completed = [r for r in manifest["sites"] if r["validated"]]
+    primary = sorted((r for r in completed if not r["alias_of"]), key=lambda r: r["brand_name"].lower())
+    buf = io.StringIO()
+    writer = csv.writer(buf, lineterminator="\n")
+    writer.writerow(["slug", "category", "brand_name", "url", "canonical_slug", "evidence_status"])
+    for row in sorted(completed, key=lambda r: r["brand_name"].lower()):
+        writer.writerow([row[k] for k in ("slug", "category", "brand_name", "url", "canonical_slug", "evidence_status")])
+    atomic_write(BRANDS_CSV, buf.getvalue())
     by_cat = defaultdict(list)
-    for r in completed:
-        by_cat[r["category"]].append(r)
-    cat_order = sorted(by_cat.keys(), key=lambda c: (-len(by_cat[c]), c.lower()))
-    total, ncats = len(completed), len(by_cat)
-
-    # ---- data/brands.csv (committed, public metadata) ----
-    BRANDS_CSV.parent.mkdir(exist_ok=True)
-    with BRANDS_CSV.open("w", newline="", encoding="utf-8") as f:
-        w = csv.writer(f)
-        w.writerow(["slug", "category", "brand_name", "url"])
-        for r in completed:
-            w.writerow([r["slug"], r["category"], r["brand_name"], r.get("url", "")])
-
-    # ---- INDEX.md (full collection) ----
-    L = []
-    L.append("# Full Collection Index")
-    L.append("")
-    L.append("[← Back to README](./README.md)")
-    L.append("")
-    L.append(f"**{total:,} brands · {ncats} categories.** Every generated design system, "
-             "grouped by category. Auto-generated by [`scripts/build_index.py`](./scripts/build_index.py).")
-    L.append("")
-    L.append("**Jump to a category:**")
-    L.append("")
-    L.append(" · ".join(f"[{c}](#{anchor(c)}-{len(by_cat[c])})" for c in cat_order))
-    L.append("")
-    for c in cat_order:
-        items = by_cat[c]
-        L.append(f"## {c} ({len(items)})")
-        L.append("")
-        for r in items:
-            hook = r.get("hook") or ""
-            line = f"- [**{r['brand_name']}**](./design-md/{r['slug']}/DESIGN.md)"
-            if hook:
-                line += f" — {hook}"
-            L.append(line)
-        L.append("")
-    INDEX.write_text("\n".join(L), encoding="utf-8")
-
-    # ---- _state/_featured.md (dev helper for README) ----
-    seen = set()
-    fl = ["<!-- featured bullets for README -->", ""]
-    for slug in FEATURED:
-        if slug in seen or not (DESIGN_DIR / slug / "DESIGN.md").exists():
-            continue
-        seen.add(slug)
-        r = next((x for x in completed if x["slug"] == slug), None)
-        if not r:
-            continue
-        fl.append(f"- [**{r['brand_name']}**](./design-md/{slug}/DESIGN.md) — {r.get('hook','')}")
-    FEAT_OUT.write_text("\n".join(fl), encoding="utf-8")
-
-    # ---- _state/_categories.md (dev helper for README) ----
-    cl = ["<!-- marquee category <details> blocks for README -->", ""]
-    for c in MARQUEE_CATS:
-        items = by_cat.get(c, [])
-        if not items:
-            continue
-        cl.append(f"<details>")
-        cl.append(f"<summary><b>{c}</b> &nbsp;<code>{len(items)}</code></summary>")
-        cl.append("")
-        for r in items:
-            cl.append(f"- [**{r['brand_name']}**](./design-md/{r['slug']}/DESIGN.md) — {r.get('hook','')}")
-        cl.append("")
-        cl.append("</details>")
-        cl.append("")
-    CATS_OUT.write_text("\n".join(cl), encoding="utf-8")
-
-    # ---- console: theme rollup + stats ----
-    theme_counts = defaultdict(int)
-    theme_cats = defaultdict(set)
-    for c in by_cat:
-        t = theme_for(c)
-        theme_counts[t] += len(by_cat[c])
-        theme_cats[t].add(c)
-    print(f"INDEX.md written: {total:,} brands, {ncats} categories")
-    print(f"data/brands.csv written: {total:,} rows")
-    print("\nTheme rollup (for README overview table):")
-    for t in sorted(theme_counts, key=lambda x: -theme_counts[x]):
-        print(f"  {theme_counts[t]:4}  {t:24}  ({len(theme_cats[t])} categories)")
-    print(f"\nFeatured bullets -> {FEAT_OUT}")
-    print(f"Marquee categories -> {CATS_OUT}")
+    for row in primary:
+        for category in row["categories"]:
+            by_cat[category].append(row)
+    order = sorted(by_cat, key=lambda c: (-len(by_cat[c]), c.lower()))
+    total = len(primary)
+    lines = ["# Full Collection Index", "", "[← Back to README](./README.md)", "",
+             f"**{total:,} unique website URLs · {counts['generated_records']:,} DESIGN.md files · {len(by_cat)} categories.**", "",
+             "Canonical entries are listed under all their category tags. Historical duplicate files are retained; aliases and evidence status are recorded in [data/manifest.json](./data/manifest.json). Format validation does not establish visual fidelity.", "",
+             " · ".join(f"[{c}](#category-{i+1})" for i, c in enumerate(order)), ""]
+    for i, category in enumerate(order):
+        lines += [f'<a id="category-{i+1}"></a>', f"## {category} ({len(by_cat[category])})", ""]
+        for row in by_cat[category]:
+            hook = read_hook(row["slug"])
+            lines.append(f"- [**{row['brand_name']}**](./design-md/{row['slug']}/DESIGN.md) — {hook}")
+        lines.append("")
+    atomic_write(INDEX, "\n".join(lines))
+    readme = ROOT / "README.md"
+    text = readme.read_text()
+    stats = ("<!-- collection-stats:start -->\n"
+             f"**{total:,} unique website URLs · {counts['generated_records']:,} DESIGN.md files · {len(by_cat)} categories.**\n\n"
+             f"Target: {counts['target_sites']:,} unique URLs from {counts['target_records']:,} selected records; "
+             f"**{counts['remaining_sites']:,} unique URLs remain**. Historical aliases are preserved. "
+             "See [collection status](./STATUS.md) for unresolved sources and [the manifest](./data/manifest.json) for canonical IDs, category tags, validation and evidence status.\n"
+             "<!-- collection-stats:end -->")
+    text = re.sub(r"<!-- collection-stats:start -->.*?<!-- collection-stats:end -->", lambda _: stats, text, flags=re.S)
+    # Keep badges and every generated count under one source of truth.
+    text = re.sub(r"badge/brands-[^-]+-0a0a0a", f"badge/sites-{total:,}".replace(",", "%2C") + "-0a0a0a", text)
+    text = re.sub(r"badge/sites-[^-]+-0a0a0a", f"badge/sites-{total:,}".replace(",", "%2C") + "-0a0a0a", text)
+    text = re.sub(r"badge/categories-\d+-444444", f"badge/categories-{len(by_cat)}-444444", text)
+    text = re.sub(r"Browse all [\d,]+ brands", f"Browse all {total:,} canonical websites", text)
+    text = re.sub(r"Browse all [\d,]+ canonical websites", f"Browse all {total:,} canonical websites", text)
+    themes = defaultdict(int)
+    for row in primary:
+        themes[theme_for(row["category"])] += 1
+    table = "| Domain | Unique websites |\n|---|--:|\n" + "\n".join(f"| {name} | {count} |" for name, count in sorted(themes.items(), key=lambda kv: -kv[1]))
+    text = re.sub(r"<!-- domain-table:start -->.*?<!-- domain-table:end -->", lambda _: "<!-- domain-table:start -->\n" + table + "\n<!-- domain-table:end -->", text, flags=re.S)
+    atomic_write(readme, text)
+    banner = ROOT / "assets/hero.svg"
+    if banner.exists():
+        svg = banner.read_text()
+        svg = re.sub(r"across [\d,]+ brands and \d+ categories", f"across {total:,} unique website URLs and {len(by_cat)} category tags", svg)
+        svg = re.sub(r"across [\d,]+ unique website URLs and \d+ category tags", f"across {total:,} unique website URLs and {len(by_cat)} category tags", svg)
+        svg = re.sub(r"[\d,]+ brands · \d+ categories · \d+ domains", f"{total:,} sites · {len(by_cat)} categories · evidence-labelled", svg)
+        svg = re.sub(r"[\d,]+ sites · \d+ categories · evidence-labelled", f"{total:,} sites · {len(by_cat)} categories · evidence-labelled", svg)
+        atomic_write(banner, svg)
+    print(json.dumps(counts, indent=2))
 
 
 if __name__ == "__main__":

@@ -1,16 +1,19 @@
 <div align="center">
 
+<p><a href="https://sealeap.cn/"><img src="./assets/sealeap-logo.png" width="116" alt="SeaLeap" /></a></p>
+
 # 🎨 awesome-design-md-ecommerce
 
-<img src="./assets/hero.svg" alt="Terminal — claude --design @design-md/glossier/DESIGN.md loads a brand's color/type/spacing tokens → on-brand UI generated across 1,632 brands · 169 categories" width="820">
+<img src="./assets/hero.svg" alt="Example prompt: give an agent a DESIGN.md reference to guide palette, type, and spacing" width="820">
 
 ### Design systems your AI agent can actually read.
 
-**The largest `DESIGN.md` collection on GitHub — 1,632 real direct-to-consumer (DTC) e-commerce brands** distilled into plain-text token files, so the UI your coding agent generates looks like a *real brand*, not a bootstrap template.
+**An evidence-qualified collection of e-commerce design references** for AI coding agents. Files describe observed CSS values and inferred design interpretations; each lists its limitations.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Brands](https://img.shields.io/badge/brands-1%2C632-0a0a0a)](./INDEX.md)
-[![Categories](https://img.shields.io/badge/categories-169-444444)](./INDEX.md)
+[![SeaLeap Website](https://img.shields.io/badge/Website-sealeap.cn-0ea5e9)](https://sealeap.cn/)
+[![Brands](https://img.shields.io/badge/sites-2%2C636-0a0a0a)](./INDEX.md)
+[![Categories](https://img.shields.io/badge/categories-306-444444)](./INDEX.md)
 [![Built for AI coding agents](https://img.shields.io/badge/built%20for-AI%20coding%20agents-7c3aed)](#-quickstart)
 [![License: MIT](https://img.shields.io/badge/license-MIT-3da639)](./LICENSE)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-3da639)](./CONTRIBUTING.md)
@@ -36,9 +39,9 @@ Explore the companion projects for Amazon operations, multi-platform commerce, a
 
 AI coding agents are great at *structure* and bad at *taste*. Ask one for a landing page and you get the same rounded-blue-button, Inter-on-white, faintly-gray template every time — because that's the statistical average of everything it has ever seen.
 
-A `DESIGN.md` fixes that. It's a single plain-text file that captures **one real brand's exact visual language** — its palette, type scale, spacing, radii, and component patterns — the specific decisions that make Glossier look like Glossier and Aesop look like Aesop. Drop it into your agent's context and the UI it produces inherits that whole system, token for token.
+A `DESIGN.md` fixes that. It's a single plain-text file that captures **one storefront's design interpretation** — its palette, type scale, spacing, radii, and component patterns — the visual characteristics associated with that storefront. Drop it into your agent's context and the UI it produces can use the documented palette, type and component guidance, while respecting its evidence limitations.
 
-> **This repo is 1,632 of them — 20× more than any other `DESIGN.md` collection** — extracted from live DTC storefronts across **169 product categories**, from skincare and cookware to keyboards, record stores, and pizza ovens.
+> CSS value presence is evidence of a value, not proof of its semantic role. New files include `SOURCE.json`; older files are marked `historical_unverified` in the manifest.
 
 **Who it's for** — design engineers prototyping on-brand UI · agencies pitching brand-faithful mockups · indie hackers who want their MVP to *not* look like an MVP · anyone building with Claude Code, Cursor, Copilot, or v0.
 
@@ -79,7 +82,7 @@ Hand it to your agent:
 ```text
 Build a hero section for a face serum.
 Use the attached DESIGN.md — match its colors, typography, radii, and
-spacing exactly. Don't invent new colors.
+spacing consistently. Treat inferred values as proposals and keep Known Gaps visible.
 ```
 
 …and the output comes back in foggy gray with pill buttons and GT America — Glossier, not Bootstrap. Every file also documents its own **Known Gaps**, so the agent knows what was *not* reliably captured.
@@ -88,11 +91,11 @@ spacing exactly. Don't invent new colors.
 
 1. **Find a brand** in [the collection](#-the-collection) or the [full index](./INDEX.md).
 2. **Give the file to your agent** as context.
-3. **Ask it to build** — it now has the brand's entire design system.
+3. **Ask it to build** — it now has a documented design reference, with explicit gaps.
 
 **Claude Code**
 ```bash
-claude "Build a product page for a ceramic kettle using @design-md/caraway/DESIGN.md — match it exactly."
+claude "Build a product page for a ceramic kettle using @design-md/caraway/DESIGN.md — use its documented tokens and respect its Known Gaps."
 ```
 
 **Cursor / Copilot / Windsurf** — drag the `DESIGN.md` into chat (or `@`-mention it), then prompt as above.
@@ -105,7 +108,7 @@ Nine sections, every file, in the same order — see the full spec in [`CONTRIBU
 
 | Section | What it captures |
 |---|---|
-| **Description** | A 200–400 word editorial read of the brand's design philosophy & voice |
+| **Description** | An evidence-grounded editorial read of the brand's design philosophy & voice |
 | **`colors`** | Semantic tokens → hex: neutrals, surfaces, accents, semantic roles |
 | **`typography`** | Full type scale — `fontFamily`, `fontSize`, `fontWeight`, `lineHeight`, `letterSpacing` |
 | **`rounded`** | Border-radius scale (`xs`–`full`) |
@@ -117,22 +120,31 @@ Nine sections, every file, in the same order — see the full spec in [`CONTRIBU
 
 ## 📚 The collection
 
-**1,632 brands · 169 categories · 12 domains.** Browse everything in **[`INDEX.md →`](./INDEX.md)**.
+<!-- collection-stats:start -->
+**2,636 unique website URLs · 2,733 DESIGN.md files · 306 categories.**
 
-| Domain | Brands | Sample categories |
-|---|--:|---|
-| 💻 Tech & Computing | 239 | Phones & accessories · keyboards · laptops · monitors · networking |
-| 📖 Books & Media | 170 | Independent bookstores · small presses · movies & TV |
-| 🏠 Home & Living | 156 | Bedding · decor · furniture · vacuums · appliances |
-| 🌲 Outdoor & Garden | 148 | Camping · outdoor furniture · nurseries · patio |
-| 🎲 Gaming & Collectibles | 130 | Board games · tabletop RPGs · trading cards · figures |
-| 💄 Beauty & Personal Care | 122 | Skincare · makeup · haircare · fragrance · grooming |
-| 🎵 Music & Instruments | 109 | Record stores · labels · DJ gear · instruments |
-| 🍳 Kitchen & Cookware | 98 | Cookware · kitchen tools · espresso · grills |
-| ✒️ Stationery & Desk | 95 | Notebooks · pens · desk organizers · paper goods |
-| 🍼 Baby & Kids | 82 | Baby care · clothing · STEM · educational |
-| 🏃 Sport & Fitness | 70 | Cycling · running · yoga · gym |
-| 🌿 Health & Wellness | 62 | Supplements · women's & men's health |
+Target: 2,817 unique URLs from 3,000 selected records; **181 unique URLs remain**. Historical aliases are preserved. See [collection status](./STATUS.md) for unresolved sources and [the manifest](./data/manifest.json) for canonical IDs, category tags, validation and evidence status.
+<!-- collection-stats:end -->
+
+Browse everything in **[`INDEX.md →`](./INDEX.md)**.
+
+<!-- domain-table:start -->
+| Domain | Unique websites |
+|---|--:|
+| More | 1056 |
+| Tech & Computing | 242 |
+| Books & Media | 186 |
+| Home & Living | 165 |
+| Outdoor & Garden | 162 |
+| Gaming & Collectibles | 141 |
+| Baby & Kids | 128 |
+| Beauty & Personal Care | 119 |
+| Music & Instruments | 112 |
+| Stationery & Desk | 105 |
+| Kitchen & Cookware | 95 |
+| Sport & Fitness | 70 |
+| Health & Wellness | 55 |
+<!-- domain-table:end -->
 
 ### ⭐ Featured brands
 
@@ -159,16 +171,17 @@ A few you'll recognize — each links to its full spec:
 | [**Peloton**](./design-md/peloton/DESIGN.md) | Near-black canvas with a single red voltage (`#df1c2f`) |
 | [**Dyson**](./design-md/dyson/DESIGN.md) | FoundryGridnik industrial sans — product-grade authority, on screen |
 
-**→ [Browse all 1,632 brands in `INDEX.md`](./INDEX.md)**
+**→ [Browse all 2,636 canonical websites in `INDEX.md`](./INDEX.md)**
 
 ## 🛠️ How it's made
 
 Every spec is produced by an automated, resumable pipeline ([`scripts/`](./scripts)):
 
 1. **Crawl** the live storefront and extract real CSS — color values, font stacks, radii, spacing.
-2. **Filter** framework defaults (Bootstrap / Tailwind reset palettes) so the model locks onto the brand's *actual* colors, not the CSS boilerplate.
-3. **Generate** a 9-section `DESIGN.md` with Claude — tokens plus an editorial read of the brand's voice.
-4. **Validate** structure against the schema in [`CONTRIBUTING.md`](./CONTRIBUTING.md).
+2. **Retain evidence** with source URLs, HTTP status, capture time and content hashes. Empty or blocked captures remain on hold.
+3. **Generate** a `DESIGN.md` with Claude from captured CSS evidence, labelling inferred roles and measurements.
+4. **Validate** real YAML syntax, schema, duplicate keys, token references and evidence allowlists before writing.
+5. **Reconcile** canonical website identities and rebuild the index, CSV, manifest and counts.
 
 These are best-effort extractions of public, observable design decisions — each file states its own **Known Gaps**. Provenance (slug, category, source URL) for every brand lives in [`data/brands.csv`](./data/brands.csv).
 
@@ -178,7 +191,7 @@ PRs welcome — one brand per PR. Pick a genuinely DTC brand, add `design-md/<sl
 
 ## 🔗 Related
 
-- [`awesome-design-md`](https://github.com/VoltAgent/awesome-design-md) — the original `DESIGN.md` format and spec this project follows. It curates ~73 developer-focused sites; this list is its e-commerce counterpart — **1,632 brands across 169 categories**, the long tail of real storefronts.
+- [`awesome-design-md`](https://github.com/VoltAgent/awesome-design-md) — the original `DESIGN.md` format and spec this project follows. It curates ~73 developer-focused sites; this list is its e-commerce counterpart — a broad range of commerce categories, the long tail of real storefronts.
 
 ## 📄 License
 
@@ -190,7 +203,25 @@ PRs welcome — one brand per PR. Pick a genuinely DTC brand, add `design-md/<sl
 
 **If this helps your agent build better UI, leave a ⭐ — it genuinely helps.**
 
+Maintained by [SeaLeap](https://sealeap.cn/).
+
 </div>
+
+## Reproduce and resume
+
+```bash
+uv run --with pyyaml python scripts/check_format.py
+uv run --with pyyaml python scripts/build_index.py
+uv run --with pyyaml python scripts/worker_claude.py --target 200 --batch-id my-batch
+```
+
+`data/sites.csv` contains the selected input records. Install and authenticate Claude CLI separately. Reuse the same batch ID to resume; the target is successful new canonical websites, not attempts. Add `--retry-failed` to retry transient failures in that batch. A process lock prevents duplicate workers. No publishing or git operations are performed.
+
+To review every remaining canonical URL, use `--all-remaining --target 397 --batch-id remaining-review` (the target is informational in this mode). The batch ends as `reviewed`; held sources remain incomplete and are listed in [STATUS.md](./STATUS.md). Resume with the same ID; `--retry-slugs slug-a slug-b` retries selected unresolved entries after source corrections. Successful existing documents are never regenerated by this option.
+
+After an exhaustive review, `scripts/export_review.py <batch-id> --capture-root <recovery-root>` records unresolved sources in `data/source_holds.json`; run `scripts/build_index.py` to rebuild the public status page. Temporary access failures remain retryable. Holds marked `manual_review_required` need a source/identity review before release.
+
+For JavaScript-only sites, `scripts/capture_rendered.py` optionally captures an anonymous desktop page, styles and a screenshot with Playwright. It does not log in or solve access challenges. Pass its output root to the worker with `--evidence-root`; snapshot hashes and source URL must match before generation. Screenshots are local evidence, not a visual-fidelity guarantee or bundled brand assets.
 
 ## About SeaLeap
 

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: AverMedia
-description: A deep indigo #2f3192 powers the brand's primary voltage — a saturated, almost electric blue-violet that appears on the main navigation bar, primary call-to-action buttons, and the hero section's background, giving the streaming-hardware site a confident, tech-forward presence. This distinctive indigo is paired with a secondary blue #374ea3 for hover states and supporting accents, while a bright green #00c31e serves as a live/streaming indicator and status badge, creating a clear semantic color language. The canvas is a warm off-white #f6f6f6 rather than pure white, lending a softer, more approachable feel than typical gaming or streaming brands. Typography runs Arial and Helvetica at modest sizes — body text at 14px (0.875rem) keeps product specs and descriptions dense and scannable, while the generous use of #777777 for secondary text and #aaaaaa for muted labels creates a clear information hierarchy. Product cards use soft rounded corners (`{rounded.md}`) and subtle shadows, while the search bar adopts a pill shape (`{rounded.full}`) that echoes the friendly, accessible tone. The brand's AI.STREAMING tagline signals a shift toward intelligent streaming solutions, reflected in the clean, utilitarian layout that prioritizes product photography and spec sheets over decorative elements.
+name: "AverMedia"
+source_url: "https://www.avermedia.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep indigo #2f3192 powers the brand's primary voltage — a saturated, almost electric blue-violet that appears on the main navigation bar, primary call-to-action buttons, and the hero section's background, giving the streaming-hardware site a confident, tech-forward presence. This distinctive indigo is paired with a secondary blue #374ea3 for hover states and supporting accents, while a bright green #00c31e serves as a live/streaming indicator and status badge, creating a clear semantic color language. The canvas is a warm off-white #f6f6f6 rather than pure white, lending a softer, more approachable feel than typical gaming or streaming brands. Typography runs Arial and Helvetica at modest sizes — body text at 14px (0.875rem) keeps product specs and descriptions dense and scannable, while the generous use of #777777 for secondary text and #aaaaaa for muted labels creates a clear information hierarchy. Product cards use soft rounded corners (`{rounded.md}`) and subtle shadows, while the search bar adopts a pill shape (`{rounded.full}`) that echoes the friendly, accessible tone. The brand's AI.STREAMING tagline signals a shift toward intelligent streaming solutions, reflected in the clean, utilitarian layout that prioritizes product photography and spec sheets over decorative elements.
 
 colors:
   primary: "#2f3192"
@@ -486,6 +490,8 @@ components:
 - Table data (spec sheets) collapses to a stacked card layout on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted hex color list is heavily weighted toward grays (#f6f6f6, #777777, #ececec, #222222, #f3f3f3, #555555, #aaaaaa, #a6a6a6, #d8d8d8, #f5f5f5, #404040, #c5c5c5, #454545, #2b2b2b) with a few distinctive accents (#2f3192, #374ea3, #00c31e, #ff5b5b, #ffdb00, #5a91cb, #5f3f3f, #6d9ed1, #ffdb7e, #d6d1e7, #003eff, #dad55e, #fffa90, #777620). The brand's true primary (#2f3192) was identified as the most distinctive non-gray color, but the abundance of grays suggests either a minimal design or extraction noise from framework defaults and images.
 - Font-family declarations were sparse — only Arial and Helvetica were found at 0.875rem (14px). No custom or web font was detected, which may indicate the site uses a standard system font stack or the extraction missed @font-face declarations. The typography system above assumes Arial as the primary font, but the brand may use a custom font that wasn't captured.

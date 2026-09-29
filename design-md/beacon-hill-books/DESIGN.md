@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Beacon Hill Books
-description: A single hex — #313131 — anchors the entire Beacon Hill Books experience, a deep charcoal that reads as ink on paper rather than digital UI, giving the storefront the gravity of a well-stocked library shelf. The brand resists the common bookstore palette of warm cream and forest green, instead building its identity around this near-black primary, using it for navigation bars, footer blocks, and primary buttons with white text that feels like a book's title stamped on a cloth cover. The system font stack — -apple-system, BlinkMacSystemFont, Helvetica Neue, system-ui — runs unadorned, letting the typography disappear into readability; there is no custom typeface, no display font, no decorative lettering competing with the books themselves. The site reads as a single column of content on a white canvas ({colors.canvas}), with generous vertical spacing ({spacing.section}) between sections — featured titles, staff picks, events — each separated by a thin {colors.hairline} rule. Buttons use a modest {rounded.sm} radius, avoiding the pill shapes of e-commerce giants, and product cards carry a soft {rounded.md} that suggests paper edges rather than digital corners. The overall mood is one of editorial restraint: the books are the color, the books are the texture, and the interface steps back to let them speak.
+name: "Beacon Hill Books"
+source_url: "https://www.beaconhillbooks.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A single hex — #313131 — anchors the entire Beacon Hill Books experience, a deep charcoal that reads as ink on paper rather than digital UI, giving the storefront the gravity of a well-stocked library shelf. The brand resists the common bookstore palette of warm cream and forest green, instead building its identity around this near-black primary, using it for navigation bars, footer blocks, and primary buttons with white text that feels like a book's title stamped on a cloth cover. The system font stack — -apple-system, BlinkMacSystemFont, Helvetica Neue, system-ui — runs unadorned, letting the typography disappear into readability; there is no custom typeface, no display font, no decorative lettering competing with the books themselves. The site reads as a single column of content on a white canvas ({colors.canvas}), with generous vertical spacing ({spacing.section}) between sections — featured titles, staff picks, events — each separated by a thin {colors.hairline} rule. Buttons use a modest {rounded.sm} radius, avoiding the pill shapes of e-commerce giants, and product cards carry a soft {rounded.md} that suggests paper edges rather than digital corners. The overall mood is one of editorial restraint: the books are the color, the books are the texture, and the interface steps back to let them speak.
 
 colors:
   primary: "#313131"
@@ -323,6 +327,8 @@ components:
 - Search bar collapses to icon-only below 744px; expands to full-width input on tap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one hex color (#313131) was reliably extracted from the live site; the full palette above (accents, badges, surface tones) is inferred from common bookstore design patterns and may not match the actual site. The site may use additional colors not captured in the extraction.
 - No font-family declarations beyond the system stack were found; the site may use a custom typeface (e.g., a serif for headings) that wasn't loaded during extraction.

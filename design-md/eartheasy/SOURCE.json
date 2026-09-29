@@ -1,0 +1,868 @@
+{
+  "source_url": "https://eartheasy.com",
+  "final_url": "https://eartheasy.com/",
+  "captured_at": "2026-09-28T04:41:16.047565+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://eartheasy.com",
+      "final_url": "https://eartheasy.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "08d4d8fe926537231cf9560b095c895a8ba8a13d0a07d6d77700e790428418dc",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://eartheasy.com/cdn/shop/t/50/assets/vendor.css?v=94183888130352382221788958696",
+      "final_url": "https://eartheasy.com/cdn/shop/t/50/assets/vendor.css?v=94183888130352382221788958696",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ee96a0f6244f8812f946322e528e50c2a5df2bd775bbe6d16863533d08aaea8f",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://eartheasy.com/cdn/shop/t/50/assets/theme-min.css?v=139456573092146275411788958696",
+      "final_url": "https://eartheasy.com/cdn/shop/t/50/assets/theme-min.css?v=139456573092146275411788958696",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "62803ecec13283a6dccefa5efba1b0e21d649cb3a56c85d5fe4434417fb53528",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://eartheasy.com/cdn/shop/t/50/assets/custom.css?v=133610117041264636791788958696",
+      "final_url": "https://eartheasy.com/cdn/shop/t/50/assets/custom.css?v=133610117041264636791788958696",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f2356f41f40bc97cfbc1a64e2985e0ec992b27eb6fb164ef7d9c37d55c58664f",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://eartheasy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://eartheasy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.css",
+      "final_url": "https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "c94a0dc6cbd7f95a3c4eb8f7959fd8e5905ff0794116c07a5f09bbac7ef9ffd1",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 53,
+      "sources": [
+        "https://eartheasy.com/",
+        "https://eartheasy.com/cdn/shop/t/50/assets/theme-min.css?v=139456573092146275411788958696",
+        "https://eartheasy.com/cdn/shop/t/50/assets/custom.css?v=133610117041264636791788958696",
+        "https://eartheasy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.css"
+      ]
+    },
+    "#ffffff00": {
+      "count": 21,
+      "sources": [
+        "https://eartheasy.com/cdn/shop/t/50/assets/theme-min.css?v=139456573092146275411788958696"
+      ]
+    },
+    "#000000": {
+      "count": 17,
+      "sources": [
+        "https://eartheasy.com/",
+        "https://eartheasy.com/cdn/shop/t/50/assets/vendor.css?v=94183888130352382221788958696",
+        "https://eartheasy.com/cdn/shop/t/50/assets/theme-min.css?v=139456573092146275411788958696",
+        "https://eartheasy.com/cdn/shop/t/50/assets/custom.css?v=133610117041264636791788958696",
+        "https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.css"
+      ]
+    },
+    "#666666": {
+      "count": 9,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#999999": {
+      "count": 9,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#cfcfcf": {
+      "count": 9,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#2e442c": {
+      "count": 7,
+      "sources": [
+        "https://eartheasy.com/cdn/shop/t/50/assets/theme-min.css?v=139456573092146275411788958696"
+      ]
+    },
+    "#959491": {
+      "count": 6,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#284529": {
+      "count": 5,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#e1a308": {
+      "count": 5,
+      "sources": [
+        "https://eartheasy.com/cdn/shop/t/50/assets/theme-min.css?v=139456573092146275411788958696",
+        "https://eartheasy.com/cdn/shop/t/50/assets/custom.css?v=133610117041264636791788958696"
+      ]
+    },
+    "#f0b428": {
+      "count": 5,
+      "sources": [
+        "https://eartheasy.com/cdn/shop/t/50/assets/theme-min.css?v=139456573092146275411788958696",
+        "https://eartheasy.com/cdn/shop/t/50/assets/custom.css?v=133610117041264636791788958696"
+      ]
+    },
+    "#a9b5a9": {
+      "count": 4,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#c4301c": {
+      "count": 4,
+      "sources": [
+        "https://eartheasy.com/",
+        "https://eartheasy.com/cdn/shop/t/50/assets/theme-min.css?v=139456573092146275411788958696"
+      ]
+    },
+    "#dddbc7": {
+      "count": 4,
+      "sources": [
+        "https://eartheasy.com/cdn/shop/t/50/assets/theme-min.css?v=139456573092146275411788958696"
+      ]
+    },
+    "#7e8f7f": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#516852": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#555455": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#807f80": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#adabad": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#a5aed7": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#7785c2": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#485bad": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#62623a": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#929457": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#c6c775": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#625a5a": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#938888": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#c6b7b7": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#646463": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#969595": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#cbcac9": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#585a66": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#838799": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#b1b6cf": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#e7aca4": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#dc8377": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#cf5747": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#626262": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#949494": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#c7c7c7": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#636360": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#c9c8c3": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#62605d": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#93918b": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#c6c3bc": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#636361": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#c9c8c4": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#272d45": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#dbdde4": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#878787": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#dedede": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/",
+        "https://eartheasy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 3,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#75a7c5": {
+      "count": 2,
+      "sources": [
+        "https://eartheasy.com/",
+        "https://eartheasy.com/cdn/shop/t/50/assets/theme-min.css?v=139456573092146275411788958696"
+      ]
+    },
+    "#7a34d6": {
+      "count": 2,
+      "sources": [
+        "https://eartheasy.com/",
+        "https://eartheasy.com/cdn/shop/t/50/assets/theme-min.css?v=139456573092146275411788958696"
+      ]
+    },
+    "#676986": {
+      "count": 2,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#0b0b0b": {
+      "count": 2,
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "#007aff": {
+      "count": 2,
+      "sources": [
+        "https://eartheasy.com/cdn/shop/t/50/assets/vendor.css?v=94183888130352382221788958696",
+        "https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.css"
+      ]
+    },
+    "#0d8756": {
+      "count": 2,
+      "sources": [
+        "https://eartheasy.com/cdn/shop/t/50/assets/theme-min.css?v=139456573092146275411788958696"
+      ]
+    },
+    "#cea100": {
+      "count": 2,
+      "sources": [
+        "https://eartheasy.com/cdn/shop/t/50/assets/theme-min.css?v=139456573092146275411788958696"
+      ]
+    },
+    "#f8f7f1": {
+      "count": 2,
+      "sources": [
+        "https://eartheasy.com/cdn/shop/t/50/assets/theme-min.css?v=139456573092146275411788958696"
+      ]
+    }
+  },
+  "font_families": {
+    "GT America": [
+      "https://eartheasy.com/",
+      "https://eartheasy.com/cdn/shop/t/50/assets/theme-min.css?v=139456573092146275411788958696"
+    ],
+    "GT America Standard": [
+      "https://eartheasy.com/cdn/shop/t/50/assets/custom.css?v=133610117041264636791788958696"
+    ],
+    "GT America!important": [
+      "https://eartheasy.com/cdn/shop/t/50/assets/theme-min.css?v=139456573092146275411788958696"
+    ],
+    "Instrument Sans": [
+      "https://eartheasy.com/",
+      "https://eartheasy.com/cdn/shop/t/50/assets/theme-min.css?v=139456573092146275411788958696"
+    ],
+    "P22 Mackinac Bold Webfont": [
+      "https://eartheasy.com/",
+      "https://eartheasy.com/cdn/shop/t/50/assets/theme-min.css?v=139456573092146275411788958696"
+    ],
+    "P22 Mackinac Bold Webfont!important": [
+      "https://eartheasy.com/cdn/shop/t/50/assets/theme-min.css?v=139456573092146275411788958696"
+    ],
+    "P22 Mackinac Pro": [
+      "https://eartheasy.com/cdn/shop/t/50/assets/theme-min.css?v=139456573092146275411788958696",
+      "https://eartheasy.com/cdn/shop/t/50/assets/custom.css?v=133610117041264636791788958696"
+    ],
+    "P22 Mackinac-Book": [
+      "https://eartheasy.com/"
+    ],
+    "P22Mac": [
+      "https://eartheasy.com/"
+    ],
+    "monospace": [
+      "https://eartheasy.com/"
+    ],
+    "oke-widget-icons": [
+      "https://eartheasy.com/"
+    ],
+    "oke-widget-icons!important": [
+      "https://eartheasy.com/"
+    ],
+    "sans-serif": [
+      "https://eartheasy.com/cdn/shop/t/50/assets/theme-min.css?v=139456573092146275411788958696"
+    ],
+    "swiper-icons": [
+      "https://eartheasy.com/cdn/shop/t/50/assets/vendor.css?v=94183888130352382221788958696",
+      "https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://eartheasy.com/",
+      "selector": ":root,\n.color-scheme-1",
+      "declarations": "--color-background: 255,255,255;\n      --color-secondary-background: 237,237,237;\n      --color-primary: 196,48,28;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-subtext: 0,0,0;\n      --color-subtext-alpha: 1.0;\n      --color-border: 229,229,229;\n      --color-border-alpha: 1.0;\n      --color-button: 225,163,8;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 225,163,8;\n      --color-secondary-button-border: 237,237,237;\n      --color-secondary-button-text: 255,255,255;\n      --color-button-before: ;\n      --color-field: 237,237,237;\n      --color-field-alpha: 1.0;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      --c"
+    },
+    {
+      "source": "https://eartheasy.com/",
+      "selector": "body .desktop-color-scheme-1",
+      "declarations": "--color-background: 255,255,255;\n      --color-secondary-background: 237,237,237;\n      --color-primary: 196,48,28;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-subtext: 0,0,0;\n      --color-subtext-alpha: 1.0;\n      --color-border: 229,229,229;\n      --color-border-alpha: 1.0;\n      --color-button: 225,163,8;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 225,163,8;\n      --color-secondary-button-border: 237,237,237;\n      --color-secondary-button-text: 255,255,255;\n      --color-button-before: ;\n      --color-field: 237,237,237;\n      --color-field-alpha: 1.0;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      --c"
+    },
+    {
+      "source": "https://eartheasy.com/",
+      "selector": "body .mobile-color-scheme-1",
+      "declarations": "--color-background: 255,255,255;\n      --color-secondary-background: 237,237,237;\n      --color-primary: 196,48,28;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-subtext: 0,0,0;\n      --color-subtext-alpha: 1.0;\n      --color-border: 229,229,229;\n      --color-border-alpha: 1.0;\n      --color-button: 225,163,8;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 225,163,8;\n      --color-secondary-button-border: 237,237,237;\n      --color-secondary-button-text: 255,255,255;\n      --color-button-before: ;\n      --color-field: 237,237,237;\n      --color-field-alpha: 1.0;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      --c"
+    },
+    {
+      "source": "https://eartheasy.com/",
+      "selector": "body .desktop-color-scheme-inverse",
+      "declarations": "--color-background: 40,69,41;\n      --color-secondary-background: 40,69,41;\n      --color-primary: 196,48,28;\n      --color-text-heading: 255,255,255;\n      --color-foreground: 255,255,255;\n      --color-subtext: 255,255,255;\n      --color-subtext-alpha: 1.0;\n      --color-border: 255,255,255;\n      --color-border-alpha: 1.0;\n      --color-button: 225,163,8;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 255,255,255;\n      --color-secondary-button-border: 225,163,8;\n      --color-secondary-button-text: 0,0,0;\n      --color-button-before: ;\n      --color-field: 255,255,255;\n      --color-field-alpha: 1.0;\n      --color-field-text: 0,0,0;\n      --color-link: 255,255,25"
+    },
+    {
+      "source": "https://eartheasy.com/",
+      "selector": "body .mobile-color-scheme-inverse",
+      "declarations": "--color-background: 40,69,41;\n      --color-secondary-background: 40,69,41;\n      --color-primary: 196,48,28;\n      --color-text-heading: 255,255,255;\n      --color-foreground: 255,255,255;\n      --color-subtext: 255,255,255;\n      --color-subtext-alpha: 1.0;\n      --color-border: 255,255,255;\n      --color-border-alpha: 1.0;\n      --color-button: 225,163,8;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 255,255,255;\n      --color-secondary-button-border: 225,163,8;\n      --color-secondary-button-text: 0,0,0;\n      --color-button-before: ;\n      --color-field: 255,255,255;\n      --color-field-alpha: 1.0;\n      --color-field-text: 0,0,0;\n      --color-link: 255,255,25"
+    },
+    {
+      "source": "https://eartheasy.com/",
+      "selector": "body .desktop-color-scheme-info",
+      "declarations": "--color-background: 213,211,213;\n      --color-secondary-background: 247,247,247;\n      --color-primary: 196,48,28;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-subtext: 102,102,102;\n      --color-subtext-alpha: 1.0;\n      --color-border: 229,229,229;\n      --color-border-alpha: 1.0;\n      --color-button: 0,0,0;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 237,237,237;\n      --color-secondary-button-border: 237,237,237;\n      --color-secondary-button-text: 0,0,0;\n      --color-button-before: ;\n      --color-field: 245,245,245;\n      --color-field-alpha: 1.0;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      --col"
+    },
+    {
+      "source": "https://eartheasy.com/",
+      "selector": "body .mobile-color-scheme-info",
+      "declarations": "--color-background: 213,211,213;\n      --color-secondary-background: 247,247,247;\n      --color-primary: 196,48,28;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-subtext: 102,102,102;\n      --color-subtext-alpha: 1.0;\n      --color-border: 229,229,229;\n      --color-border-alpha: 1.0;\n      --color-button: 0,0,0;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 237,237,237;\n      --color-secondary-button-border: 237,237,237;\n      --color-secondary-button-text: 0,0,0;\n      --color-button-before: ;\n      --color-field: 245,245,245;\n      --color-field-alpha: 1.0;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      --col"
+    },
+    {
+      "source": "https://eartheasy.com/",
+      "selector": "body .desktop-color-scheme-2",
+      "declarations": "--color-background: 29,52,154;\n      --color-secondary-background: 245,245,245;\n      --color-primary: 196,48,28;\n      --color-text-heading: 255,255,255;\n      --color-foreground: 255,255,255;\n      --color-subtext: 255,255,255;\n      --color-subtext-alpha: 1.0;\n      --color-border: 229,229,229;\n      --color-border-alpha: 1.0;\n      --color-button: 255,255,255;\n      --color-button-text: 0,0,0;\n      --color-secondary-button: 255,255,255;\n      --color-secondary-button-border: 255,255,255;\n      --color-secondary-button-text: 0,0,0;\n      --color-button-before: ;\n      --color-field: 245,245,245;\n      --color-field-alpha: 1.0;\n      --color-field-text: 0,0,0;\n      --color-link: 255,255,"
+    },
+    {
+      "source": "https://eartheasy.com/",
+      "selector": "body .mobile-color-scheme-2",
+      "declarations": "--color-background: 29,52,154;\n      --color-secondary-background: 245,245,245;\n      --color-primary: 196,48,28;\n      --color-text-heading: 255,255,255;\n      --color-foreground: 255,255,255;\n      --color-subtext: 255,255,255;\n      --color-subtext-alpha: 1.0;\n      --color-border: 229,229,229;\n      --color-border-alpha: 1.0;\n      --color-button: 255,255,255;\n      --color-button-text: 0,0,0;\n      --color-secondary-button: 255,255,255;\n      --color-secondary-button-border: 255,255,255;\n      --color-secondary-button-text: 0,0,0;\n      --color-button-before: ;\n      --color-field: 245,245,245;\n      --color-field-alpha: 1.0;\n      --color-field-text: 0,0,0;\n      --color-link: 255,255,"
+    },
+    {
+      "source": "https://eartheasy.com/",
+      "selector": "body .desktop-color-scheme-3",
+      "declarations": "--color-background: 244,246,145;\n      --color-secondary-background: 247,247,247;\n      --color-primary: 196,48,28;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-subtext: 102,102,102;\n      --color-subtext-alpha: 1.0;\n      --color-border: 247,247,247;\n      --color-border-alpha: 1.0;\n      --color-button: 0,0,0;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 244,246,145;\n      --color-secondary-button-border: 0,0,0;\n      --color-secondary-button-text: 0,0,0;\n      --color-button-before: ;\n      --color-field: 255,255,255;\n      --color-field-alpha: 1.0;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      --color-lin"
+    },
+    {
+      "source": "https://eartheasy.com/",
+      "selector": "body .mobile-color-scheme-3",
+      "declarations": "--color-background: 244,246,145;\n      --color-secondary-background: 247,247,247;\n      --color-primary: 196,48,28;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-subtext: 102,102,102;\n      --color-subtext-alpha: 1.0;\n      --color-border: 247,247,247;\n      --color-border-alpha: 1.0;\n      --color-button: 0,0,0;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 244,246,145;\n      --color-secondary-button-border: 0,0,0;\n      --color-secondary-button-text: 0,0,0;\n      --color-button-before: ;\n      --color-field: 255,255,255;\n      --color-field-alpha: 1.0;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      --color-lin"
+    },
+    {
+      "source": "https://eartheasy.com/",
+      "selector": "body .desktop-color-scheme-4",
+      "declarations": "--color-background: 245,226,226;\n      --color-secondary-background: 247,247,247;\n      --color-primary: 196,48,28;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-subtext: 102,102,102;\n      --color-subtext-alpha: 1.0;\n      --color-border: 230,230,230;\n      --color-border-alpha: 1.0;\n      --color-button: 0,0,0;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 233,233,233;\n      --color-secondary-button-border: 233,233,233;\n      --color-secondary-button-text: 0,0,0;\n      --color-button-before: ;\n      --color-field: 245,245,245;\n      --color-field-alpha: 1.0;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      --col"
+    },
+    {
+      "source": "https://eartheasy.com/",
+      "selector": "body .mobile-color-scheme-4",
+      "declarations": "--color-background: 245,226,226;\n      --color-secondary-background: 247,247,247;\n      --color-primary: 196,48,28;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-subtext: 102,102,102;\n      --color-subtext-alpha: 1.0;\n      --color-border: 230,230,230;\n      --color-border-alpha: 1.0;\n      --color-button: 0,0,0;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 233,233,233;\n      --color-secondary-button-border: 233,233,233;\n      --color-secondary-button-text: 0,0,0;\n      --color-button-before: ;\n      --color-field: 245,245,245;\n      --color-field-alpha: 1.0;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      --col"
+    },
+    {
+      "source": "https://eartheasy.com/",
+      "selector": "body .desktop-color-scheme-6",
+      "declarations": "--color-background: 250,249,248;\n      --color-secondary-background: 123,168,95;\n      --color-primary: 196,48,28;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-subtext: 102,102,102;\n      --color-subtext-alpha: 1.0;\n      --color-border: 198,191,177;\n      --color-border-alpha: 1.0;\n      --color-button: 225,163,8;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 255,255,255;\n      --color-secondary-button-border: 230,230,230;\n      --color-secondary-button-text: 0,0,0;\n      --color-button-before: ;\n      --color-field: 255,255,255;\n      --color-field-alpha: 1.0;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      --"
+    },
+    {
+      "source": "https://eartheasy.com/",
+      "selector": "body .mobile-color-scheme-6",
+      "declarations": "--color-background: 250,249,248;\n      --color-secondary-background: 123,168,95;\n      --color-primary: 196,48,28;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-subtext: 102,102,102;\n      --color-subtext-alpha: 1.0;\n      --color-border: 198,191,177;\n      --color-border-alpha: 1.0;\n      --color-button: 225,163,8;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 255,255,255;\n      --color-secondary-button-border: 230,230,230;\n      --color-secondary-button-text: 0,0,0;\n      --color-button-before: ;\n      --color-field: 255,255,255;\n      --color-field-alpha: 1.0;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      --"
+    },
+    {
+      "source": "https://eartheasy.com/",
+      "selector": "body .desktop-color-scheme-7",
+      "declarations": "--color-background: 219,225,255;\n      --color-secondary-background: 233,233,233;\n      --color-primary: 196,48,28;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-subtext: 102,102,102;\n      --color-subtext-alpha: 1.0;\n      --color-border: 230,230,230;\n      --color-border-alpha: 1.0;\n      --color-button: 0,0,0;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 233,233,233;\n      --color-secondary-button-border: 233,233,233;\n      --color-secondary-button-text: 0,0,0;\n      --color-button-before: ;\n      --color-field: 245,245,245;\n      --color-field-alpha: 1.0;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      --col"
+    },
+    {
+      "source": "https://eartheasy.com/",
+      "selector": "body .mobile-color-scheme-7",
+      "declarations": "--color-background: 219,225,255;\n      --color-secondary-background: 233,233,233;\n      --color-primary: 196,48,28;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-subtext: 102,102,102;\n      --color-subtext-alpha: 1.0;\n      --color-border: 230,230,230;\n      --color-border-alpha: 1.0;\n      --color-button: 0,0,0;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 233,233,233;\n      --color-secondary-button-border: 233,233,233;\n      --color-secondary-button-text: 0,0,0;\n      --color-button-before: ;\n      --color-field: 245,245,245;\n      --color-field-alpha: 1.0;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      --col"
+    },
+    {
+      "source": "https://eartheasy.com/",
+      "selector": "body .desktop-color-scheme-8",
+      "declarations": "--color-background: 196,48,28;\n      --color-secondary-background: 247,247,247;\n      --color-primary: 196,48,28;\n      --color-text-heading: 255,255,255;\n      --color-foreground: 255,255,255;\n      --color-subtext: 255,255,255;\n      --color-subtext-alpha: 1.0;\n      --color-border: 230,230,230;\n      --color-border-alpha: 1.0;\n      --color-button: 255,255,255;\n      --color-button-text: 0,0,0;\n      --color-secondary-button: 196,48,28;\n      --color-secondary-button-border: 255,255,255;\n      --color-secondary-button-text: 255,255,255;\n      --color-button-before: ;\n      --color-field: 245,245,245;\n      --color-field-alpha: 1.0;\n      --color-field-text: 0,0,0;\n      --color-link: 255,"
+    },
+    {
+      "source": "https://eartheasy.com/",
+      "selector": "body .mobile-color-scheme-8",
+      "declarations": "--color-background: 196,48,28;\n      --color-secondary-background: 247,247,247;\n      --color-primary: 196,48,28;\n      --color-text-heading: 255,255,255;\n      --color-foreground: 255,255,255;\n      --color-subtext: 255,255,255;\n      --color-subtext-alpha: 1.0;\n      --color-border: 230,230,230;\n      --color-border-alpha: 1.0;\n      --color-button: 255,255,255;\n      --color-button-text: 0,0,0;\n      --color-secondary-button: 196,48,28;\n      --color-secondary-button-border: 255,255,255;\n      --color-secondary-button-text: 255,255,255;\n      --color-button-before: ;\n      --color-field: 245,245,245;\n      --color-field-alpha: 1.0;\n      --color-field-text: 0,0,0;\n      --color-link: 255,"
+    },
+    {
+      "source": "https://eartheasy.com/",
+      "selector": "body .desktop-color-scheme-9",
+      "declarations": "--color-background: 255,255,255;\n      --color-secondary-background: 237,237,237;\n      --color-primary: 196,48,28;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-subtext: 102,102,102;\n      --color-subtext-alpha: 1.0;\n      --color-border: 229,229,229;\n      --color-border-alpha: 1.0;\n      --color-button: 244,246,145;\n      --color-button-text: 0,0,0;\n      --color-secondary-button: 237,237,237;\n      --color-secondary-button-border: 237,237,237;\n      --color-secondary-button-text: 0,0,0;\n      --color-button-before: ;\n      --color-field: 237,237,237;\n      --color-field-alpha: 1.0;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      --col"
+    },
+    {
+      "source": "https://eartheasy.com/",
+      "selector": "body .mobile-color-scheme-9",
+      "declarations": "--color-background: 255,255,255;\n      --color-secondary-background: 237,237,237;\n      --color-primary: 196,48,28;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-subtext: 102,102,102;\n      --color-subtext-alpha: 1.0;\n      --color-border: 229,229,229;\n      --color-border-alpha: 1.0;\n      --color-button: 244,246,145;\n      --color-button-text: 0,0,0;\n      --color-secondary-button: 237,237,237;\n      --color-secondary-button-border: 237,237,237;\n      --color-secondary-button-text: 0,0,0;\n      --color-button-before: ;\n      --color-field: 237,237,237;\n      --color-field-alpha: 1.0;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      --col"
+    },
+    {
+      "source": "https://eartheasy.com/",
+      "selector": "body .desktop-color-scheme-10",
+      "declarations": "--color-background: 246,246,246;\n      --color-secondary-background: 237,237,237;\n      --color-primary: 196,48,28;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-subtext: 102,102,102;\n      --color-subtext-alpha: 1.0;\n      --color-border: 229,229,229;\n      --color-border-alpha: 1.0;\n      --color-button: 0,0,0;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 237,237,237;\n      --color-secondary-button-border: 237,237,237;\n      --color-secondary-button-text: 0,0,0;\n      --color-button-before: ;\n      --color-field: 237,237,237;\n      --color-field-alpha: 1.0;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      --col"
+    },
+    {
+      "source": "https://eartheasy.com/",
+      "selector": "body .mobile-color-scheme-10",
+      "declarations": "--color-background: 246,246,246;\n      --color-secondary-background: 237,237,237;\n      --color-primary: 196,48,28;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-subtext: 102,102,102;\n      --color-subtext-alpha: 1.0;\n      --color-border: 229,229,229;\n      --color-border-alpha: 1.0;\n      --color-button: 0,0,0;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 237,237,237;\n      --color-secondary-button-border: 237,237,237;\n      --color-secondary-button-text: 0,0,0;\n      --color-button-before: ;\n      --color-field: 237,237,237;\n      --color-field-alpha: 1.0;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      --col"
+    },
+    {
+      "source": "https://eartheasy.com/",
+      "selector": "body .desktop-color-scheme-0f81feb2-eac0-4537-ab43-52e827e91234",
+      "declarations": "--color-background: 248,247,241;\n      --color-secondary-background: 237,237,237;\n      --color-primary: 196,48,28;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-subtext: 102,102,102;\n      --color-subtext-alpha: 1.0;\n      --color-border: 229,229,229;\n      --color-border-alpha: 1.0;\n      --color-button: 225,163,8;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 237,237,237;\n      --color-secondary-button-border: 237,237,237;\n      --color-secondary-button-text: 0,0,0;\n      --color-button-before: ;\n      --color-field: 237,237,237;\n      --color-field-alpha: 1.0;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      -"
+    },
+    {
+      "source": "https://eartheasy.com/",
+      "selector": "body .mobile-color-scheme-0f81feb2-eac0-4537-ab43-52e827e91234",
+      "declarations": "--color-background: 248,247,241;\n      --color-secondary-background: 237,237,237;\n      --color-primary: 196,48,28;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-subtext: 102,102,102;\n      --color-subtext-alpha: 1.0;\n      --color-border: 229,229,229;\n      --color-border-alpha: 1.0;\n      --color-button: 225,163,8;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 237,237,237;\n      --color-secondary-button-border: 237,237,237;\n      --color-secondary-button-text: 0,0,0;\n      --color-button-before: ;\n      --color-field: 237,237,237;\n      --color-field-alpha: 1.0;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      -"
+    },
+    {
+      "source": "https://eartheasy.com/",
+      "selector": "body .desktop-color-scheme-101db68e-b033-476e-ae9f-3a1478ff138a",
+      "declarations": "--color-background: 245,241,232;\n      --color-secondary-background: 237,237,237;\n      --color-primary: 196,48,28;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-subtext: 102,102,102;\n      --color-subtext-alpha: 1.0;\n      --color-border: 229,229,229;\n      --color-border-alpha: 1.0;\n      --color-button: 225,163,8;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 237,237,237;\n      --color-secondary-button-border: 237,237,237;\n      --color-secondary-button-text: 0,0,0;\n      --color-button-before: ;\n      --color-field: 237,237,237;\n      --color-field-alpha: 1.0;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      -"
+    },
+    {
+      "source": "https://eartheasy.com/",
+      "selector": "body .mobile-color-scheme-101db68e-b033-476e-ae9f-3a1478ff138a",
+      "declarations": "--color-background: 245,241,232;\n      --color-secondary-background: 237,237,237;\n      --color-primary: 196,48,28;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-subtext: 102,102,102;\n      --color-subtext-alpha: 1.0;\n      --color-border: 229,229,229;\n      --color-border-alpha: 1.0;\n      --color-button: 225,163,8;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 237,237,237;\n      --color-secondary-button-border: 237,237,237;\n      --color-secondary-button-text: 0,0,0;\n      --color-button-before: ;\n      --color-field: 237,237,237;\n      --color-field-alpha: 1.0;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      -"
+    },
+    {
+      "source": "https://eartheasy.com/",
+      "selector": "body .desktop-color-scheme-02616b46-d2d4-4fef-b74a-a77f92e1c5a4",
+      "declarations": "--color-background: 255,255,255;\n      --color-secondary-background: 237,237,237;\n      --color-primary: 196,48,28;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-subtext: 102,102,102;\n      --color-subtext-alpha: 1.0;\n      --color-border: 229,229,229;\n      --color-border-alpha: 1.0;\n      --color-button: 225,163,8;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 237,237,237;\n      --color-secondary-button-border: 237,237,237;\n      --color-secondary-button-text: 0,0,0;\n      --color-button-before: ;\n      --color-field: 237,237,237;\n      --color-field-alpha: 1.0;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      -"
+    },
+    {
+      "source": "https://eartheasy.com/",
+      "selector": "body .mobile-color-scheme-02616b46-d2d4-4fef-b74a-a77f92e1c5a4",
+      "declarations": "--color-background: 255,255,255;\n      --color-secondary-background: 237,237,237;\n      --color-primary: 196,48,28;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-subtext: 102,102,102;\n      --color-subtext-alpha: 1.0;\n      --color-border: 229,229,229;\n      --color-border-alpha: 1.0;\n      --color-button: 225,163,8;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 237,237,237;\n      --color-secondary-button-border: 237,237,237;\n      --color-secondary-button-text: 0,0,0;\n      --color-button-before: ;\n      --color-field: 237,237,237;\n      --color-field-alpha: 1.0;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      -"
+    },
+    {
+      "source": "https://eartheasy.com/",
+      "selector": "body .desktop-color-scheme-44eac532-677c-4a9c-9ccc-3becf678c4c0",
+      "declarations": "--color-background: 248,247,242;\n      --color-secondary-background: 237,237,237;\n      --color-primary: 196,48,28;\n      --color-text-heading: 0,0,0;\n      --color-foreground: 0,0,0;\n      --color-subtext: 102,102,102;\n      --color-subtext-alpha: 1.0;\n      --color-border: 229,229,229;\n      --color-border-alpha: 1.0;\n      --color-button: 225,163,8;\n      --color-button-text: 255,255,255;\n      --color-secondary-button: 237,237,237;\n      --color-secondary-button-border: 237,237,237;\n      --color-secondary-button-text: 0,0,0;\n      --color-button-before: ;\n      --color-field: 237,237,237;\n      --color-field-alpha: 1.0;\n      --color-field-text: 0,0,0;\n      --color-link: 0,0,0;\n      -"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Eartheasy.com | Solutions for Sustainable Living",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eartheasy.com/",
+        "https://eartheasy.com/cdn/shop/t/50/assets/theme-min.css?v=139456573092146275411788958696"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eartheasy.com/",
+        "https://eartheasy.com/cdn/shop/t/50/assets/vendor.css?v=94183888130352382221788958696",
+        "https://eartheasy.com/cdn/shop/t/50/assets/theme-min.css?v=139456573092146275411788958696",
+        "https://eartheasy.com/cdn/shop/t/50/assets/custom.css?v=133610117041264636791788958696",
+        "https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eartheasy.com/",
+        "https://eartheasy.com/cdn/shop/t/50/assets/theme-min.css?v=139456573092146275411788958696",
+        "https://eartheasy.com/cdn/shop/t/50/assets/custom.css?v=133610117041264636791788958696",
+        "https://eartheasy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eartheasy.com/",
+        "https://eartheasy.com/cdn/shop/t/50/assets/vendor.css?v=94183888130352382221788958696",
+        "https://eartheasy.com/cdn/shop/t/50/assets/theme-min.css?v=139456573092146275411788958696",
+        "https://eartheasy.com/cdn/shop/t/50/assets/custom.css?v=133610117041264636791788958696",
+        "https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eartheasy.com/",
+        "https://eartheasy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eartheasy.com/cdn/shop/t/50/assets/theme-min.css?v=139456573092146275411788958696"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eartheasy.com/",
+        "https://eartheasy.com/cdn/shop/t/50/assets/theme-min.css?v=139456573092146275411788958696",
+        "https://eartheasy.com/cdn/shop/t/50/assets/custom.css?v=133610117041264636791788958696",
+        "https://eartheasy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.css"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eartheasy.com/cdn/shop/t/50/assets/theme-min.css?v=139456573092146275411788958696",
+        "https://eartheasy.com/cdn/shop/t/50/assets/custom.css?v=133610117041264636791788958696"
+      ]
+    },
+    "colors.accent-gold-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eartheasy.com/cdn/shop/t/50/assets/theme-min.css?v=139456573092146275411788958696",
+        "https://eartheasy.com/cdn/shop/t/50/assets/custom.css?v=133610117041264636791788958696"
+      ]
+    },
+    "colors.forest-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "colors.forest-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eartheasy.com/cdn/shop/t/50/assets/theme-min.css?v=139456573092146275411788958696"
+      ]
+    },
+    "colors.sale-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://eartheasy.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.guide-callout": {
+      "status": "inferred"
+    }
+  }
+}

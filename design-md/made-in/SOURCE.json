@@ -1,0 +1,805 @@
+{
+  "source_url": "https://madeincookware.com",
+  "final_url": "https://madeincookware.com/",
+  "captured_at": "2026-09-28T04:10:22.228624+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://madeincookware.com",
+      "final_url": "https://madeincookware.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "6314d867709c972285326bdd9b1235a80b0db41762add58bbd47381f6f0de473",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css",
+      "final_url": "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "053f08cac26e57398e706b34eb27d260fd82ba866a6d3779243425e5bc188ee2",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://use.typekit.net/lgi1sje.css",
+      "final_url": "https://use.typekit.net/lgi1sje.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "e0d9cd7d89d9e29e9a83aa713908ee4e4fa7f951139ee06d1397b594f8e25d6c",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 44,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#20211a": {
+      "count": 18,
+      "sources": [
+        "https://madeincookware.com/",
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 14,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 7,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#767676": {
+      "count": 5,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#20211a40": {
+      "count": 5,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#0868d5": {
+      "count": 4,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#20211a00": {
+      "count": 3,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#20211a80": {
+      "count": 3,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#20211abf": {
+      "count": 3,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#f5f6f2e6": {
+      "count": 3,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#00000073": {
+      "count": 3,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#c60000": {
+      "count": 2,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#a22310": {
+      "count": 2,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#f1f3ef": {
+      "count": 2,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#f5f6f280": {
+      "count": 2,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#0000002e": {
+      "count": 2,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#ffffff00": {
+      "count": 2,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#7171714c": {
+      "count": 2,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#000000b3": {
+      "count": 2,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#7d8b83": {
+      "count": 2,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#ded5be": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/"
+      ]
+    },
+    "#313130": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/"
+      ]
+    },
+    "#c9cfb8": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/"
+      ]
+    },
+    "#20211a20": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#20211a33": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#20211a58": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#20211aac": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#20211acf": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#20211ae6": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#f6f5f300": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#f6f5f320": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#f6f5f333": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#f6f5f358": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#f6f5f3ac": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#f6f5f3cf": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#f6f5f3e6": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#2323e8": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#f5f6f2": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#e3e8e4": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#c3c9c4": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#797a76": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#4d4d48": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#96c182": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#759466": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#d8d8d8": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#f09c90": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#b0220d": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#e6efe4": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#132576": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#617268": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#fbc223": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#ffffff66": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#00000080": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#000000bf": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#797a7699": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "#20211a4d": {
+      "count": 1,
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    }
+  },
+  "font_families": {
+    "aktiv-grotesk": [
+      "https://use.typekit.net/lgi1sje.css"
+    ],
+    "sans-serif": [
+      "https://use.typekit.net/lgi1sje.css"
+    ],
+    "semi_fallback": [
+      "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+    ],
+    "semi_var": [
+      "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+    ],
+    "vc_garamond": [
+      "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css",
+      "selector": "button,input,select,optgroup,textarea",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0"
+    },
+    {
+      "source": "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css",
+      "selector": "::file-selector-button",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0"
+    },
+    {
+      "source": "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css",
+      "selector": ".bg-product-harbour-blue",
+      "declarations": "background-color:var(--color-product-harbour-blue)"
+    },
+    {
+      "source": "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css",
+      "selector": ".bg-product-hudson-green",
+      "declarations": "background-color:var(--color-product-hudson-green)"
+    },
+    {
+      "source": "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css",
+      "selector": ".bg-product-marigold-yellow",
+      "declarations": "background-color:var(--color-product-marigold-yellow)"
+    },
+    {
+      "source": "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css",
+      "selector": ".text-product-harbour-blue",
+      "declarations": "color:var(--color-product-harbour-blue)"
+    },
+    {
+      "source": "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css",
+      "selector": ".text-product-hudson-green",
+      "declarations": "color:var(--color-product-hudson-green)"
+    },
+    {
+      "source": "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css",
+      "selector": ".text-product-marigold-yellow",
+      "declarations": "color:var(--color-product-marigold-yellow)"
+    },
+    {
+      "source": "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css",
+      "selector": ".focus\\:text-product-harbour-blue:focus",
+      "declarations": "color:var(--color-product-harbour-blue)"
+    },
+    {
+      "source": "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css",
+      "selector": ".focus\\:text-product-hudson-green:focus",
+      "declarations": "color:var(--color-product-hudson-green)"
+    },
+    {
+      "source": "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css",
+      "selector": ".focus\\:text-product-marigold-yellow:focus",
+      "declarations": "color:var(--color-product-marigold-yellow)"
+    },
+    {
+      "source": "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css",
+      "selector": ".\\[\\@media_\\(forced-colors\\:active\\)\\]\\:border-\\[ButtonText\\]",
+      "declarations": "border-color:buttontext"
+    },
+    {
+      "source": "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css",
+      "selector": ".\\[\\@media_\\(forced-colors\\:active\\)\\]\\:bg-\\[ButtonFace\\]",
+      "declarations": "background-color:buttonface"
+    },
+    {
+      "source": "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css",
+      "selector": ".\\[\\@media_\\(forced-colors\\:active\\)\\]\\:text-\\[ButtonText\\]",
+      "declarations": "color:buttontext"
+    },
+    {
+      "source": "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css",
+      "selector": ".grid-layout-toggle button[data-columns=\"2\"],[data-mobile-columns=\"1\"] .grid-layout-toggle button[data-columns=\"1\"]",
+      "declarations": "background-color:var(--color-white);color:var(--color-brand-charcoal-300);--tw-shadow:0 1px 3px 0 var(--tw-shadow-color,#0000001a), 0 1px 2px -1px var(--tw-shadow-color,#0000001a);box-shadow:var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow)"
+    },
+    {
+      "source": "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css",
+      "selector": "[data-mobile-columns=\"1\"] .grid-layout-toggle button[data-columns=\"2\"]",
+      "declarations": "color:var(--color-brand-neutral-500);--tw-shadow:0 0 #0000;box-shadow:var(--tw-inset-shadow), var(--tw-inset-ring-shadow), var(--tw-ring-offset-shadow), var(--tw-ring-shadow), var(--tw-shadow);background-color:#0000"
+    }
+  ],
+  "confidence": "historical_partial_css_evidence",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Professional-Quality Cookware, Non Stick, Carbon Steel, and Knives - Made In",
+  "schema_version": 1,
+  "design_origin": "historical",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "colors.primary-active": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.primary-disabled": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://madeincookware.com/",
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://madeincookware.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "colors.muted-soft": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "colors.hairline-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.accent-gold-active": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.accent-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "colors.accent-red-active": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.accent-sage": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "colors.accent-olive": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "colors.badge-new": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "colors.badge-sale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "colors.star-rating": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://madeincookware.com/",
+        "https://madeincookware.com/_next/static/immutable/chunks/0r3d-l6j68b8z.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-lg": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.title-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.title-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.body-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.body-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.caption": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.button-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.button-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.link": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.nav-link": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.badge": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "rounded.none": {
+      "status": "unverified"
+    },
+    "rounded.xs": {
+      "status": "unverified"
+    },
+    "rounded.sm": {
+      "status": "unverified"
+    },
+    "rounded.md": {
+      "status": "unverified"
+    },
+    "rounded.lg": {
+      "status": "unverified"
+    },
+    "rounded.xl": {
+      "status": "unverified"
+    },
+    "rounded.full": {
+      "status": "unverified"
+    },
+    "spacing.xxs": {
+      "status": "unverified"
+    },
+    "spacing.xs": {
+      "status": "unverified"
+    },
+    "spacing.sm": {
+      "status": "unverified"
+    },
+    "spacing.md": {
+      "status": "unverified"
+    },
+    "spacing.base": {
+      "status": "unverified"
+    },
+    "spacing.lg": {
+      "status": "unverified"
+    },
+    "spacing.xl": {
+      "status": "unverified"
+    },
+    "spacing.xxl": {
+      "status": "unverified"
+    },
+    "spacing.section": {
+      "status": "unverified"
+    },
+    "components.button-primary": {
+      "status": "unverified"
+    },
+    "components.button-primary-active": {
+      "status": "unverified"
+    },
+    "components.button-primary-disabled": {
+      "status": "unverified"
+    },
+    "components.button-secondary": {
+      "status": "unverified"
+    },
+    "components.button-secondary-outline": {
+      "status": "unverified"
+    },
+    "components.button-ghost": {
+      "status": "unverified"
+    },
+    "components.text-input": {
+      "status": "unverified"
+    },
+    "components.text-input-focus": {
+      "status": "unverified"
+    },
+    "components.nav-bar": {
+      "status": "unverified"
+    },
+    "components.product-card": {
+      "status": "unverified"
+    },
+    "components.product-card-image": {
+      "status": "unverified"
+    },
+    "components.product-card-badge": {
+      "status": "unverified"
+    },
+    "components.hero-section": {
+      "status": "unverified"
+    },
+    "components.search-bar": {
+      "status": "unverified"
+    },
+    "components.footer-section": {
+      "status": "unverified"
+    },
+    "components.footer-link": {
+      "status": "unverified"
+    },
+    "components.category-tile": {
+      "status": "unverified"
+    },
+    "components.rating-stars": {
+      "status": "unverified"
+    },
+    "components.quantity-selector": {
+      "status": "unverified"
+    }
+  },
+  "observed_color_tokens": 16,
+  "total_color_tokens": 23
+}

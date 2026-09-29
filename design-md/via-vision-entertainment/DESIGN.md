@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Via Vision Entertainment
-description: A deep crimson anchor at #9b0000 gives Via Vision Entertainment its theatrical gravity — this is not a playful streaming pink but a blood-drop red that recalls cinema curtains, vintage film reels, and the spine of a collector's edition Blu-ray. The brand lives in a high-contrast world of near-black ink (#121212) and warm off-white canvas (#eeecec), with a secondary dark red (#8b0000) that adds depth to hover states and active navigation. The extracted palette reveals a surprising green presence (#006400, #15975a) and a burnt orange accent (#ee9441) — likely used sparingly for genre tags, badge highlights, or limited-edition callouts — suggesting a system that can flex across horror, drama, and cult-classic categories without losing its core identity. Typography runs on Bricolage Grotesque for display moments — a geometric grotesque with subtle personality — paired with Inter for body text and Satoshi for button labels, creating a layered hierarchy where headings feel editorial and body copy stays crisp. The Shopify platform backbone means checkout flows inherit standard widget colors, but the brand's own UI is deliberately restrained: pill-shaped buttons (`{rounded.full}`) for primary actions, softly rounded cards (`{rounded.md}` ~12px) for product tiles, and generous whitespace that lets cover art do the selling. There is no gradient, no glassmorphism, no decorative illustration — just typographic weight, a single red voltage, and the photography of film stills.
+name: "Via Vision Entertainment"
+source_url: "https://viavision.com.au"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep crimson anchor at #9b0000 gives Via Vision Entertainment its theatrical gravity — this is not a playful streaming pink but a blood-drop red that recalls cinema curtains, vintage film reels, and the spine of a collector's edition Blu-ray. The brand lives in a high-contrast world of near-black ink (#121212) and warm off-white canvas (#eeecec), with a secondary dark red (#8b0000) that adds depth to hover states and active navigation. The extracted palette reveals a surprising green presence (#006400, #15975a) and a burnt orange accent (#ee9441) — likely used sparingly for genre tags, badge highlights, or limited-edition callouts — suggesting a system that can flex across horror, drama, and cult-classic categories without losing its core identity. Typography runs on Bricolage Grotesque for display moments — a geometric grotesque with subtle personality — paired with Inter for body text and Satoshi for button labels, creating a layered hierarchy where headings feel editorial and body copy stays crisp. The Shopify platform backbone means checkout flows inherit standard widget colors, but the brand's own UI is deliberately restrained: pill-shaped buttons (`{rounded.full}`) for primary actions, softly rounded cards (`{rounded.md}` ~12px) for product tiles, and generous whitespace that lets cover art do the selling. There is no gradient, no glassmorphism, no decorative illustration — just typographic weight, a single red voltage, and the photography of film stills.
 
 colors:
   primary: "#9b0000"
@@ -307,6 +311,8 @@ components:
 - The footer's three columns stack vertically on mobile, with each section separated by a hairline border.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted hex list includes several colors (#006400, #15975a, #ee9441) that appear to be accent or badge colors, but their exact usage context (hover states, active filters, limited-edition flags) could not be confirmed from the extraction alone. The green and orange are included as brand-specific tokens but may be used more sparingly than assumed.
 - Font weights for Bricolage Grotesque, Inter, and Satoshi are inferred from common web usage — the exact weight for each text style (e.g., display-xl at 700 vs 600) is an educated guess based on the brand's editorial tone.

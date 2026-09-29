@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Le Toy Van
-description: A world of wooden play built on a canvas of #f5f5f5, where the brand's signature voltage comes not from a single primary but from a constellation of accent colors — the warm #ec8816 of a painted sun, the deep #2c2a41 of a storybook night sky, and the clear #9ebadc of a nursery wall. The extracted palette reads like a well-stocked toy box: #d10000 for a fire engine, #199800 for a forest glade, #7069bc for a fairy's cloak, all set against a system of soft grays (#dedede, #b9b9b9, #e5e5e5) that keep the visual field calm and child-safe. Typography defaults to Arial and Helvetica — a pragmatic, legible choice that prioritizes readability over personality, letting the wooden textures and painted details carry the emotional weight. Buttons and badges use generous {rounded.sm} corners, while product cards and hero panels lean into {rounded.md} to soften the geometry of a digital storefront. The navigation bar sits at a compact height, with a sticky header that collapses on scroll, and the search bar adopts a pill shape ({rounded.full}) that feels approachable rather than clinical. The brand's eco-ethical positioning surfaces in muted earth tones (#4b556c, #777575) used for body text and secondary labels, while the primary call-to-action (#ec8816) glows like a wooden block catching afternoon light. There is no hard edge here — every corner, every gray, every accent is chosen to evoke the warmth of a playroom floor.
+name: "Le Toy Van"
+source_url: "https://letoyvan.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A world of wooden play built on a canvas of #f5f5f5, where the brand's signature voltage comes not from a single primary but from a constellation of accent colors — the warm #ec8816 of a painted sun, the deep #2c2a41 of a storybook night sky, and the clear #9ebadc of a nursery wall. The extracted palette reads like a well-stocked toy box: #d10000 for a fire engine, #199800 for a forest glade, #7069bc for a fairy's cloak, all set against a system of soft grays (#dedede, #b9b9b9, #e5e5e5) that keep the visual field calm and child-safe. Typography defaults to Arial and Helvetica — a pragmatic, legible choice that prioritizes readability over personality, letting the wooden textures and painted details carry the emotional weight. Buttons and badges use generous {rounded.sm} corners, while product cards and hero panels lean into {rounded.md} to soften the geometry of a digital storefront. The navigation bar sits at a compact height, with a sticky header that collapses on scroll, and the search bar adopts a pill shape ({rounded.full}) that feels approachable rather than clinical. The brand's eco-ethical positioning surfaces in muted earth tones (#4b556c, #777575) used for body text and secondary labels, while the primary call-to-action (#ec8816) glows like a wooden block catching afternoon light. There is no hard edge here — every corner, every gray, every accent is chosen to evoke the warmth of a playroom floor.
 
 colors:
   primary: "#ec8816"
@@ -499,6 +503,8 @@ components:
 - Search bar collapses from full-width to an icon that opens a modal on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted font list only returned system fonts (Arial, Helvetica, sans-serif) — the brand may use a custom web font (e.g., a Google Font or self-hosted typeface) that was not detected. If a brand font exists, it should replace the system fallbacks in the typography block.
 - Hover and focus states for most components (beyond primary button) could not be reliably extracted — the above uses reasonable defaults (darkened backgrounds, border highlights) that should be verified against the live site.

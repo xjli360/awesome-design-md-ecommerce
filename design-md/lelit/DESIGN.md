@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Lelit
-description: The sharpest corner on a Lelit page is also its loudest signal — a block of flat #fe0000 red against #111111 near-black with no radius, no gradient, no apology. The CTA reads less like an interface affordance and more like the red power indicator on the machines themselves. This is deliberate Italian industrial restraint: the brand does not seduce; it specifies. Eurostile Ext-Med, the extended geometric sans-serif Aldo Novarese drew in 1962, drives every headline and navigation label with the same square authority it lent to Alfa Romeo dashboards and ESA mission patches. Precision-as-typography is not a posture here — it is a lineage.
+name: "Lelit"
+source_url: "https://lelit.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The sharpest corner on a Lelit page is also its loudest signal — a block of flat #fe0000 red against #111111 near-black with no radius, no gradient, no apology. The CTA reads less like an interface affordance and more like the red power indicator on the machines themselves. This is deliberate Italian industrial restraint: the brand does not seduce; it specifies. Eurostile Ext-Med, the extended geometric sans-serif Aldo Novarese drew in 1962, drives every headline and navigation label with the same square authority it lent to Alfa Romeo dashboards and ESA mission patches. Precision-as-typography is not a posture here — it is a lineage.
 
   The warm greige surface (#e3ddd8) appears as a section-break field behind feature copy and lifestyle photography, introducing just enough warmth to offset chrome and stainless steel machine imagery. Off-whites (#f4f3f1, #fafafa) handle the card and canvas layers, keeping product images clean without the clinical flatness of pure white. The dark navy (#003388) surfaces selectively as a secondary badge and link accent, a nod to archival Lelit catalog colorways without disrupting the red-on-black primary hierarchy.
 
@@ -317,6 +321,8 @@ components:
 - Spec table: horizontal scroll container on mobile rather than reflowing to single column, preserving label-value pairing
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Multiple extracted hex values (#f78da7, #7bdcb5, #00d084, #8ed1fc, #0693e3, #9b51e0, #fcb900, #ff6900, #cf2e2e) appear to be WordPress Gutenberg block editor palette defaults injected into the DOM; they were excluded from the design system as non-brand colors
 - Eurostile Ext-Med weight variants (bold vs. regular within the Extended cut) and exact font-weight numeric values not confirmed from extraction — assumed 700 for display/UI uses

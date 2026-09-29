@@ -1,0 +1,818 @@
+{
+  "source_url": "https://moooi.com",
+  "final_url": "https://www.moooi.com/us",
+  "captured_at": "2026-09-28T04:20:42.949300+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://moooi.com",
+      "final_url": "https://www.moooi.com/us",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "e5a7e6ed8b67bc8538dc88b4ab773e55d1117e0395e14ba09b5674240e2bb037",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "final_url": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "e6fee15fc0d1fc2b3498c0004b34bdc706008c1ae344886d1d9c144a40e67cab",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.moooi.com/_next/static/css/1ee7a620de81b41d.css",
+      "final_url": "https://www.moooi.com/_next/static/css/1ee7a620de81b41d.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "76f5629365c0420c51ef1274775934ac3136477750e1dbf7fff13025ac07d6ec",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 63,
+      "sources": [
+        "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+        "https://www.moooi.com/_next/static/css/1ee7a620de81b41d.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 12,
+      "sources": [
+        "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+      ]
+    },
+    "#b3b2b2": {
+      "count": 9,
+      "sources": [
+        "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 7,
+      "sources": [
+        "https://www.moooi.com/us",
+        "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+      ]
+    },
+    "#000000": {
+      "count": 7,
+      "sources": [
+        "https://www.moooi.com/us",
+        "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+        "https://www.moooi.com/_next/static/css/1ee7a620de81b41d.css"
+      ]
+    },
+    "#aeaeae": {
+      "count": 7,
+      "sources": [
+        "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 6,
+      "sources": [
+        "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+      ]
+    },
+    "#c3c3c3": {
+      "count": 6,
+      "sources": [
+        "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+      ]
+    },
+    "#e2e1e1": {
+      "count": 5,
+      "sources": [
+        "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+      ]
+    },
+    "#21212199": {
+      "count": 4,
+      "sources": [
+        "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+      ]
+    },
+    "#46454399": {
+      "count": 4,
+      "sources": [
+        "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+      ]
+    },
+    "#cacaca": {
+      "count": 3,
+      "sources": [
+        "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+      ]
+    },
+    "#00000066": {
+      "count": 3,
+      "sources": [
+        "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+      ]
+    },
+    "#ffffff59": {
+      "count": 3,
+      "sources": [
+        "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+      ]
+    },
+    "#0000002e": {
+      "count": 3,
+      "sources": [
+        "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+      ]
+    },
+    "#ffffff2e": {
+      "count": 3,
+      "sources": [
+        "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+      ]
+    },
+    "#1f1f1f": {
+      "count": 2,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#e3d9c6": {
+      "count": 2,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 2,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#929292": {
+      "count": 2,
+      "sources": [
+        "https://www.moooi.com/us",
+        "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+      ]
+    },
+    "#6b6b6b": {
+      "count": 2,
+      "sources": [
+        "https://www.moooi.com/us",
+        "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+      ]
+    },
+    "#757575": {
+      "count": 2,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#666666": {
+      "count": 2,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#b9b9b9": {
+      "count": 2,
+      "sources": [
+        "https://www.moooi.com/us",
+        "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+      ]
+    },
+    "#d9d9d1": {
+      "count": 2,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#d79f9f": {
+      "count": 2,
+      "sources": [
+        "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+      ]
+    },
+    "#555555": {
+      "count": 2,
+      "sources": [
+        "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 2,
+      "sources": [
+        "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 2,
+      "sources": [
+        "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+      ]
+    },
+    "#0000004d": {
+      "count": 2,
+      "sources": [
+        "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#010101": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#f1ece2": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#f8f4ed": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#efece6": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#f8f6f1": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#eeece7": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#f7f4ef": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#3d3d3d": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#262626": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#dddddd": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#eeeeee": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#2dc269": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#208649": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#1e8045": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#27ae60": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#d24532": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#e94d37": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#8f474c": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#2f2f2f": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#202735": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#1f2735": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#fff4db": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#0e131a": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#726051": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#d23636": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#f18180": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#f1a35c": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "#fbe839": {
+      "count": 1,
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+    ],
+    "Helvetica": [
+      "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+    ],
+    "Helvetica Neue": [
+      "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+    ],
+    "__TYPE_BROWN_8c6aef": [
+      "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+    ],
+    "__TYPE_BROWN_Fallback_8c6aef": [
+      "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+    ],
+    "__TYPE_GILL_SANS_0505e8": [
+      "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+    ],
+    "__TYPE_GILL_SANS_Fallback_0505e8": [
+      "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+    ],
+    "__TYPE_SANGBLEU_SANS_069a48": [
+      "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+    ],
+    "__TYPE_SANGBLEU_SANS_Fallback_069a48": [
+      "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+    ],
+    "__TYPE_TIEMPOS_FINE_375fe6": [
+      "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+    ],
+    "__TYPE_TIEMPOS_FINE_Fallback_375fe6": [
+      "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+    ],
+    "__TYPE_TIEMPOS_TEXT_Fallback_da2c65": [
+      "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+    ],
+    "__TYPE_TIEMPOS_TEXT_da2c65": [
+      "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+    ],
+    "sans-serif": [
+      "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": "body,html",
+      "declarations": "height:auto;color:var(--black)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": "body",
+      "declarations": "font-size:16px;font-size:1.0666666667vw;font-weight:400;line-height:1em;font-family:var(--type-gill-sans);font-feature-settings:\"ss01\";width:100%;line-height:1.35;color:var(--dark-grey);-webkit-overflow-scrolling:touch"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": "button",
+      "declarations": "padding:0;font:inherit;color:inherit;cursor:pointer;background-color:#0000;border:0;border-radius:0"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_copy__eBJcO table>tbody>tr:nth-of-type(2n)>*",
+      "declarations": "background-color:var(--light-beige)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_is-bottom-on-mobile__UI5PJ .styles_close-button___CaGt",
+      "declarations": "width:38px;height:38px;padding:.7em;margin-top:0;color:var(--black);background-color:var(--white);box-shadow:3px 3px 8px rgb(from var(--black) r g b/20%);transform:none"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_has-close-button-outside__SUTbx .styles_close-button___CaGt",
+      "declarations": "top:0;right:auto;left:calc(100% + .5rem);margin-top:0;background-color:var(--white);box-shadow:3px 3px 10px rgb(from var(--black) r g b/10%);transition:transform .25s cubic-bezier(.165,.84,.44,1);transform:none"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_back-button__hEaSn",
+      "declarations": "display:flex;gap:8px;align-items:center;padding:4px 10px;margin-left:-9px;color:var(--dark-grey);transition:color .2s cubic-bezier(.19,1,.22,1)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_back-button__hEaSn:focus,.styles_back-button__hEaSn:focus-visible,.styles_back-button__hEaSn:hover",
+      "declarations": "color:var(--grey)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_back-button__hEaSn .styles_back-button-label__vAXGk",
+      "declarations": "font-weight:500;line-height:1em;font-family:var(--type-gill-sans);font-feature-settings:\"ss01\";font-size:12px;text-transform:uppercase;letter-spacing:.1em"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_theme-dark__kzc_O.styles_has-close-button-outside__SUTbx .styles_close-button___CaGt",
+      "declarations": "background-color:var(--black)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_scroll-top-button__r02tK",
+      "declarations": "display:none;background-color:#0000;transition:opacity .5s cubic-bezier(.19,1,.22,1)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_theme-festive__TxmU7 .styles_country-selector-button__a7iYS",
+      "declarations": "color:inherit"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_theme-light__z_ak7 .styles_tel-dropdown-button__hIlcf:hover",
+      "declarations": "background-color:rgb(from var(--black) r g b/3%)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_theme-light__z_ak7 .styles_tel-dropdown-button__hIlcf:active",
+      "declarations": "background-color:rgb(from var(--black) r g b/3%)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_theme-dark__t9srg .styles_tel-dropdown-button__hIlcf:hover",
+      "declarations": "background-color:rgb(from var(--white) r g b/5%)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_theme-dark__t9srg .styles_tel-dropdown-button__hIlcf:active",
+      "declarations": "background-color:rgb(from var(--white) r g b/5%)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_container__WbfXW .styles_button__clQTD,.styles_container__WbfXW .styles_text__nwusK",
+      "declarations": "font-size:18px;font-size:1.2vw;font-weight:200;line-height:1em;font-family:var(--type-gill-sans);font-feature-settings:\"ss01\";line-height:1"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_return-button__dEUtc",
+      "declarations": "position:absolute;top:0;left:0;z-index:28;display:flex;flex-shrink:0;align-items:center;height:16px;margin:2.7777777778vw 2.7777777778vw 2.7777777778vw 0;color:var(--dark-grey);pointer-events:auto;transition:color .2s cubic-bezier(.19,1,.22,1)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_return-button__dEUtc:focus,.styles_return-button__dEUtc:focus-visible,.styles_return-button__dEUtc:hover",
+      "declarations": "color:var(--grey)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_return-button__dEUtc .styles_return-button-label__uC_1n",
+      "declarations": "font-size:12px;font-size:.8vw;font-weight:500;line-height:1em;font-family:var(--type-gill-sans);font-feature-settings:\"ss01\";text-transform:uppercase;letter-spacing:.1em"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_is-bottom-on-mobile__JxvOo .styles_close-button__vYdH5",
+      "declarations": "width:38px;height:38px;padding:.7em;margin-top:0;color:var(--black);background-color:var(--white);box-shadow:3px 3px 8px rgb(from var(--black) r g b/20%);transform:none"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_has-close-button-outside__l09nh .styles_close-button__vYdH5",
+      "declarations": "top:0;right:auto;left:calc(100% + .5rem);margin-top:0;background-color:var(--white);box-shadow:3px 3px 10px rgb(from var(--black) r g b/10%);transition:transform .25s cubic-bezier(.165,.84,.44,1);transform:none"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_theme-dark__nDkjT.styles_has-close-button-outside__l09nh .styles_close-button__vYdH5",
+      "declarations": "background-color:var(--black)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_button-label__NjEtf",
+      "declarations": "font-weight:400;line-height:1em;font-family:var(--type-sangbleu-sans);font-size:13px;font-size:.8666666667vw;margin-left:max(9px,.4166666667vw)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_button__bd4SM",
+      "declarations": "color:var(--white);pointer-events:auto;background-color:#0000;box-shadow:3px 3px 10px #0000;transition:box-shadow .2s cubic-bezier(.445,.05,.55,.95),background .2s cubic-bezier(.445,.05,.55,.95)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_theme-light__UGPxM .styles_button__bd4SM",
+      "declarations": "color:var(--black);background-color:rgb(from var(--white) r g b/50%)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_theme-festive__9UDut .styles_button__bd4SM",
+      "declarations": "color:var(--festive)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_button__bd4SM:hover",
+      "declarations": "background-color:rgb(from var(--white) r g b/20%);transform:none"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_theme-light__UGPxM .styles_button__bd4SM:hover",
+      "declarations": "background-color:rgb(from var(--white) r g b/90%)"
+    },
+    {
+      "source": "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+      "selector": ".styles_theme-festive__9UDut .styles_button__bd4SM:hover",
+      "declarations": "background-color:rgb(from var(--festive) r g b/20%)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Together, we create A Life Extraordinary - Moooi",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.moooi.com/us",
+        "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+        "https://www.moooi.com/_next/static/css/1ee7a620de81b41d.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.moooi.com/us",
+        "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css",
+        "https://www.moooi.com/_next/static/css/1ee7a620de81b41d.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.moooi.com/us",
+        "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.moooi.com/us",
+        "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.moooi.com/us",
+        "https://www.moooi.com/_next/static/css/ede8856170caf6e8.css"
+      ]
+    },
+    "colors.surface-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "colors.border-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "colors.accent-forest": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "colors.accent-terracotta": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.moooi.com/us"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.lightbox-modal": {
+      "status": "inferred"
+    }
+  }
+}

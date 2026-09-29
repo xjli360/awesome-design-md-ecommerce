@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Seville Classics
-description: |
+name: "Seville Classics"
+source_url: "https://www.sevilleclassics.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Crimson at the OS level — Seville Classics sets #c82423 as its meta theme-color, meaning the browser chrome itself blushes red before a single pixel of the page loads. That signal carries through every primary CTA, sale badge, and urgency stripe, while the companion navy #003399 grounds the navigation bar, category headers, and structural promotional banners in a palette that reads simultaneously as authority and utility. The dual-anchor approach — warm red for action, cool navy for structure — runs through a type system that contrasts Playfair Display's editorial serif weight in hero headlines against Lato's workmanlike clarity in body copy and Source Sans Pro's crisp precision at UI scale. Buenard, a distinctive old-style serif with ink-trap cuts, surfaces in display-level lockups where the brand signals craft and permanence over commodity efficiency.
 
   The warm neutrals extracted from the live site — #5b544f, #403b37, and #54585b — are not generic product-page grays. They carry the warmth of wood grain and powder-coated steel, the material language of a well-organized garage or workshop. Canvas pages sit at #fafafa rather than clinical pure white, adding just enough warmth to keep the experience livable, while hairlines at #dedede hold the grid visible without sharpness.
@@ -324,6 +327,8 @@ components:
 - Search bar transitions from inline header placement to a full-screen overlay triggered by the search icon on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact border-radius values were not extractable from the live site; {rounded.xs} (4px) is inferred from the brand's functional, non-decorative aesthetic
 - Buenard weight usage on the live site is unclear; 700 is assumed for display contexts as it is the primary weight in the Google Fonts package

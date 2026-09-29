@@ -1,0 +1,857 @@
+{
+  "source_url": "https://bankspower.com",
+  "final_url": "https://bankspower.com/",
+  "captured_at": "2026-09-29T04:22:02.169174+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://bankspower.com",
+      "final_url": "https://bankspower.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "6cf259908a0e704e4af68b6276d4b81a474c255928248ce6fad0023b67153829",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://bankspower.com/cdn/shop/t/300/assets/product-grid.css?v=50954140884827465131785799740",
+      "final_url": "https://bankspower.com/cdn/shop/t/300/assets/product-grid.css?v=50954140884827465131785799740",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "68ac73d184a41750b666f051e6d448cc7f25a72ae57c3d8b2154d28003ababe0",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://bankspower.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://bankspower.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://bankspower.com/cdn/shop/t/300/assets/utilities.css?v=76154807527694768581785799740",
+      "final_url": "https://bankspower.com/cdn/shop/t/300/assets/utilities.css?v=76154807527694768581785799740",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1a2f934a5dd800162c48516dab2167b850034ab17892327aa70cba05a771990b",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://bankspower.com/cdn/shop/t/300/assets/grid-spacing.css?v=175160914414386873021785799739",
+      "final_url": "https://bankspower.com/cdn/shop/t/300/assets/grid-spacing.css?v=175160914414386873021785799739",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "16e4044cffbe1fe4cdf6d9baf6d6341e64f320c623820730965c2aed7b5e2c3c",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://bankspower.com/cdn/shop/t/300/assets/category-card.css?v=125201504414801755991785799738",
+      "final_url": "https://bankspower.com/cdn/shop/t/300/assets/category-card.css?v=125201504414801755991785799738",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d7ad6e1617cc67616f746c90f621c01dce07c6a9a45c49962c9433e94569ec08",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 56,
+      "sources": [
+        "https://bankspower.com/",
+        "https://bankspower.com/cdn/shop/t/300/assets/product-grid.css?v=50954140884827465131785799740",
+        "https://bankspower.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://bankspower.com/cdn/shop/t/300/assets/utilities.css?v=76154807527694768581785799740"
+      ]
+    },
+    "#2c2d2e": {
+      "count": 34,
+      "sources": [
+        "https://bankspower.com/",
+        "https://bankspower.com/cdn/shop/t/300/assets/product-grid.css?v=50954140884827465131785799740"
+      ]
+    },
+    "#2b2b2b": {
+      "count": 17,
+      "sources": [
+        "https://bankspower.com/",
+        "https://bankspower.com/cdn/shop/t/300/assets/utilities.css?v=76154807527694768581785799740"
+      ]
+    },
+    "#dadce0": {
+      "count": 15,
+      "sources": [
+        "https://bankspower.com/",
+        "https://bankspower.com/cdn/shop/t/300/assets/product-grid.css?v=50954140884827465131785799740"
+      ]
+    },
+    "#c50008": {
+      "count": 9,
+      "sources": [
+        "https://bankspower.com/",
+        "https://bankspower.com/cdn/shop/t/300/assets/utilities.css?v=76154807527694768581785799740"
+      ]
+    },
+    "#272727": {
+      "count": 9,
+      "sources": [
+        "https://bankspower.com/",
+        "https://bankspower.com/cdn/shop/t/300/assets/utilities.css?v=76154807527694768581785799740"
+      ]
+    },
+    "#cacaca": {
+      "count": 5,
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 4,
+      "sources": [
+        "https://bankspower.com/",
+        "https://bankspower.com/cdn/shop/t/300/assets/utilities.css?v=76154807527694768581785799740"
+      ]
+    },
+    "#8a8a8a": {
+      "count": 4,
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "#c60007": {
+      "count": 4,
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "#0000001a": {
+      "count": 4,
+      "sources": [
+        "https://bankspower.com/",
+        "https://bankspower.com/cdn/shop/t/300/assets/utilities.css?v=76154807527694768581785799740",
+        "https://bankspower.com/cdn/shop/t/300/assets/category-card.css?v=125201504414801755991785799738"
+      ]
+    },
+    "#c62a32": {
+      "count": 3,
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "#313131": {
+      "count": 3,
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 3,
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "#a10007": {
+      "count": 2,
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 2,
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "#686868": {
+      "count": 2,
+      "sources": [
+        "https://bankspower.com/",
+        "https://bankspower.com/cdn/shop/t/300/assets/utilities.css?v=76154807527694768581785799740"
+      ]
+    },
+    "#666666": {
+      "count": 2,
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "#e1e1e1": {
+      "count": 2,
+      "sources": [
+        "https://bankspower.com/",
+        "https://bankspower.com/cdn/shop/t/300/assets/product-grid.css?v=50954140884827465131785799740"
+      ]
+    },
+    "#e93636": {
+      "count": 2,
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 2,
+      "sources": [
+        "https://bankspower.com/",
+        "https://bankspower.com/cdn/shop/t/300/assets/utilities.css?v=76154807527694768581785799740"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://bankspower.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://bankspower.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#ffcc00": {
+      "count": 2,
+      "sources": [
+        "https://bankspower.com/cdn/shop/t/300/assets/utilities.css?v=76154807527694768581785799740"
+      ]
+    },
+    "#000000": {
+      "count": 2,
+      "sources": [
+        "https://bankspower.com/cdn/shop/t/300/assets/utilities.css?v=76154807527694768581785799740"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 1,
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 1,
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "#ffaa47": {
+      "count": 1,
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "#e97f32": {
+      "count": 1,
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "#6d6b6b": {
+      "count": 1,
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "#888888": {
+      "count": 1,
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "#868d94": {
+      "count": 1,
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "#54cdcd": {
+      "count": 1,
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 1,
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 1,
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "#acacac": {
+      "count": 1,
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "#ee3b45": {
+      "count": 1,
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "#00000099": {
+      "count": 1,
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "#1b1b1c": {
+      "count": 1,
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "#070d0d": {
+      "count": 1,
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "#320a28": {
+      "count": 1,
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "#00000014": {
+      "count": 1,
+      "sources": [
+        "https://bankspower.com/cdn/shop/t/300/assets/product-grid.css?v=50954140884827465131785799740"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://bankspower.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://bankspower.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://bankspower.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#727272": {
+      "count": 1,
+      "sources": [
+        "https://bankspower.com/cdn/shop/t/300/assets/utilities.css?v=76154807527694768581785799740"
+      ]
+    },
+    "#0000000d": {
+      "count": 1,
+      "sources": [
+        "https://bankspower.com/cdn/shop/t/300/assets/utilities.css?v=76154807527694768581785799740"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://bankspower.com/"
+    ],
+    "BlinkMacSystemFont": [
+      "https://bankspower.com/"
+    ],
+    "Cantarell": [
+      "https://bankspower.com/"
+    ],
+    "Consolas": [
+      "https://bankspower.com/"
+    ],
+    "Courier": [
+      "https://bankspower.com/"
+    ],
+    "Inter": [
+      "https://bankspower.com/"
+    ],
+    "Liberation Mono": [
+      "https://bankspower.com/"
+    ],
+    "Roboto": [
+      "https://bankspower.com/",
+      "https://bankspower.com/cdn/shop/t/300/assets/utilities.css?v=76154807527694768581785799740"
+    ],
+    "Times": [
+      "https://bankspower.com/cdn/shop/t/300/assets/product-grid.css?v=50954140884827465131785799740"
+    ],
+    "Ubuntu": [
+      "https://bankspower.com/"
+    ],
+    "acumin-variable": [
+      "https://bankspower.com/",
+      "https://bankspower.com/cdn/shop/t/300/assets/utilities.css?v=76154807527694768581785799740"
+    ],
+    "arial": [
+      "https://bankspower.com/"
+    ],
+    "avenir": [
+      "https://bankspower.com/"
+    ],
+    "avenir next": [
+      "https://bankspower.com/"
+    ],
+    "helvetica": [
+      "https://bankspower.com/"
+    ],
+    "helvetica neue": [
+      "https://bankspower.com/"
+    ],
+    "monospace": [
+      "https://bankspower.com/"
+    ],
+    "noto": [
+      "https://bankspower.com/"
+    ],
+    "roboto": [
+      "https://bankspower.com/",
+      "https://bankspower.com/cdn/shop/t/300/assets/utilities.css?v=76154807527694768581785799740"
+    ],
+    "sans-serif": [
+      "https://bankspower.com/"
+    ],
+    "segoe ui": [
+      "https://bankspower.com/"
+    ],
+    "small=0em&medium=48em&large=66.75em&xlarge=75em": [
+      "https://bankspower.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://bankspower.com/",
+      "selector": "h1,h2,h3,h4,h5,h6,\n\t.h1,.h2,.h3,.h4,.h5,.h6,\n\t.logolink.text-logo,\n\t.heading-font,\n\t.h1-xlarge,\n\t.h1-large,\n\tblockquote p,\n\tblockquote span,\n\t.customer-addresse",
+      "declarations": "font-style: normal;\n\t\tfont-family: 'Roboto', sans-serif;\n  \t\tfont-weight: 700;"
+    },
+    {
+      "source": "https://bankspower.com/",
+      "selector": "body,\n\t.body-font,\n\t.thb-product-detail .product-title",
+      "declarations": "font-style: normal;\n\t\tfont-weight: 400;\n\t\tfont-family: 'acumin-variable', sans-serif;"
+    },
+    {
+      "source": "https://bankspower.com/",
+      "selector": "button,\ninput,\noptgroup,\nselect,\ntextarea",
+      "declarations": "font-family: inherit;\n  font-size: 100%;\n  line-height: 1.15;\n  margin: 0;"
+    },
+    {
+      "source": "https://bankspower.com/",
+      "selector": "body",
+      "declarations": "margin: 0;\n  padding: 0;\n  background: var(--bg-body, #f5f5f5);\n  font-family: -apple-system, BlinkMacSystemFont, avenir next, avenir, segoe ui, helvetica neue, helvetica, Cantarell, Ubuntu, roboto, noto, arial, sans-serif;\n  font-weight: normal;\n  line-height: 1.6;\n  color: var(--color-body, #2c2d2e);\n  -webkit-font-smoothing: antialiased;\n  -moz-osx-font-smoothing: grayscale;"
+    },
+    {
+      "source": "https://bankspower.com/",
+      "selector": "button,\ninput,\noptgroup,\nselect,\ntextarea",
+      "declarations": "font-family: inherit;"
+    },
+    {
+      "source": "https://bankspower.com/",
+      "selector": "small, .h1-large small, .h1-xlarge small,\n  h2 small, .h2 small, blockquote p small, blockquote span small,\n  h3 small, .h3 small,\n  h4 small, .h4 small,\n  h5 s",
+      "declarations": "line-height: 0;\n    color: #cacaca;"
+    },
+    {
+      "source": "https://bankspower.com/",
+      "selector": ".subheader",
+      "declarations": "margin-top: 0.2rem;\n  margin-bottom: 0.5rem;\n  font-weight: normal;\n  line-height: 1.4;\n  color: #8a8a8a;"
+    },
+    {
+      "source": "https://bankspower.com/",
+      "selector": "body",
+      "declarations": "font-family: 'acumin-variable';\n  overflow-wrap: break-word;\n  font-size: 1.0625rem;\n  line-height: calc(var(--font-body-line-height-scale) * 1.6);\n  letter-spacing: var(--font-body-letter-spacing, normal);\n  background: var(--bg-body);"
+    },
+    {
+      "source": "https://bankspower.com/",
+      "selector": "button,\nsummary",
+      "declarations": "-webkit-tap-highlight-color: rgba(0, 0, 0, 0);"
+    },
+    {
+      "source": "https://bankspower.com/",
+      "selector": ".side-panel-header .h6",
+      "declarations": "margin: 0;\n      line-height: 1;\n      color: var(--color-body, #2c2d2e);"
+    },
+    {
+      "source": "https://bankspower.com/",
+      "selector": ".side-panel-content--tabs button",
+      "declarations": "display: inline-flex;\n        align-items: center;\n        min-height: 25px;\n        color: rgba(var(--color-body-rgb), 0.6);\n        margin-right: 15px;\n        font-size: 1rem;\n        font-weight: var(--font-body-medium-weight, 500);\n        padding: 2px 0 5px;\n        position: relative;\n        z-index: 2;"
+    },
+    {
+      "source": "https://bankspower.com/",
+      "selector": ".side-panel-content--tabs button:hover",
+      "declarations": "color: var(--color-body, #2c2d2e);\n          opacity: 1;"
+    },
+    {
+      "source": "https://bankspower.com/",
+      "selector": ".side-panel-content--tabs button.tab-active",
+      "declarations": "opacity: 1;\n          color: var(--color-body, #2c2d2e);"
+    },
+    {
+      "source": "https://bankspower.com/",
+      "selector": "[data-bundle-item-checkout] .scrolling-text,\n.the-detail-product-information .scrolling-text",
+      "declarations": "background: #272727;\n  color: white;\n  font-size: 14px;\n  padding: 7px 20px;\n  border-radius: 48px;\n  position: absolute;\n  top: -33px;\n  left: 50%;\n  transform: translate(-50%, -50%);\n  z-index: 2;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  gap: 8px;\n  opacity: 0;\n  visibility: hidden;\n  transition: .3s;"
+    },
+    {
+      "source": "https://bankspower.com/",
+      "selector": ".header.transparent--true:not(:hover):not(.is-sticky) .logolink.text-logo",
+      "declarations": "color: var(--color-header-transparent-text, #fff);"
+    },
+    {
+      "source": "https://bankspower.com/",
+      "selector": ".header.transparent--true:not(:hover):not(.is-sticky) .thb-full-menu > li > a",
+      "declarations": "color: var(--color-header-transparent-text, #fff);"
+    },
+    {
+      "source": "https://bankspower.com/",
+      "selector": ".header.transparent--true:not(:hover):not(.is-sticky) .thb-localization-forms.inside-header .custom-select--button",
+      "declarations": "color: var(--color-header-transparent-text, #fff);"
+    },
+    {
+      "source": "https://bankspower.com/",
+      "selector": ".header.transparent--true:not(:hover):not(.is-sticky) .thb-secondary-area-item.thb-secondary-myaccount",
+      "declarations": "color: var(--color-header-transparent-text, #fff);"
+    },
+    {
+      "source": "https://bankspower.com/",
+      "selector": ".shopify-payment-button__more-options,\n.spr-summary-actions-newreview,\n.text-button",
+      "declarations": "display: inline-flex;\n  align-items: center;\n  font-size: 0.9375rem;\n  line-height: 1;\n  position: relative;\n  font-weight: var(--font-body-medium-weight, 500);\n  letter-spacing: var(--button-letter-spacing, 0.02em);\n  cursor: pointer;\n  position: relative;\n  color: var(--color-accent);\n  text-decoration: underline;\n  text-underline-offset: 3px;"
+    },
+    {
+      "source": "https://bankspower.com/",
+      "selector": ".shopify-payment-button__more-options.white,\n  .spr-summary-actions-newreview.white,\n  .text-button.white",
+      "declarations": "color: #fff;"
+    },
+    {
+      "source": "https://bankspower.com/",
+      "selector": ".shopify-payment-button__more-options.regular,\n  .spr-summary-actions-newreview.regular,\n  .text-button.regular",
+      "declarations": "color: var(--solid-button-background, var(--color-accent));"
+    },
+    {
+      "source": "https://bankspower.com/",
+      "selector": "button",
+      "declarations": "color: var(--color-body, #2c2d2e);\n  cursor: pointer;"
+    },
+    {
+      "source": "https://bankspower.com/",
+      "selector": ".button,\ninput[type=\"submit\"]",
+      "declarations": "display: inline-flex;\n  cursor: pointer;\n  font-family: 'Roboto', sans-serif;\n  padding: 14px 13px;\n  align-items: center;\n  justify-content: center;\n  font-size: 12px;\n  font-weight: 700;\n  letter-spacing: var(--button-letter-spacing, 0.02em);\n  background: var(--solid-button-background, var(--color-accent));\n  color: var(--solid-button-label, #fff);\n  border: 0;\n  border-radius: var(--button-border-radius, 6px) !important;\n  text-align: center;\n  min-width: 172px;\n  width: max-content;\n  position: relative;\n  z-index: 1;\n  line-height: 1.43;\n  overflow: hidden;\n  -webkit-appearance: none;\n  -moz-appearance: none;\n  appearance: none;\n  transition: color 0.25s cubic-bezier(0.104, 0.204, 0.49"
+    },
+    {
+      "source": "https://bankspower.com/",
+      "selector": ".button:focus, .button.loading,\n  [loading=\"true\"] .button,\n  input[type=\"submit\"]:focus,\n  input[type=\"submit\"].loading,\n  [loading=\"true\"]\n  input[type=\"submi",
+      "declarations": "background: var(--solid-button-background-hover, var(--color-accent));\n    color: var(--solid-button-label, #fff);"
+    },
+    {
+      "source": "https://bankspower.com/",
+      "selector": ".button:hover,\n    input[type=\"submit\"]:hover",
+      "declarations": "background: var(--solid-button-background-hover, var(--color-accent));\n      color: var(--solid-button-label, #fff);"
+    },
+    {
+      "source": "https://bankspower.com/",
+      "selector": ".button.white,\n  input[type=\"submit\"].white",
+      "declarations": "background: #fff;\n    color: var(--white-button-label, var(--color-body, #2c2d2e));"
+    },
+    {
+      "source": "https://bankspower.com/",
+      "selector": ".button.white:hover,\n      input[type=\"submit\"].white:hover",
+      "declarations": "background: #f0f0f0;\n        color: var(--white-button-label, var(--color-body, #2c2d2e));"
+    },
+    {
+      "source": "https://bankspower.com/",
+      "selector": ".button.accent,\n  input[type=\"submit\"].accent",
+      "declarations": "background: var(--color-accent);\n    color: var(--solid-button-label, #fff);"
+    },
+    {
+      "source": "https://bankspower.com/",
+      "selector": ".button[disabled],\n  input[type=\"submit\"][disabled]",
+      "declarations": "background: rgba(var(--color-body-rgb), 0.4);\n    color: #fff;\n    cursor: not-allowed;\n    pointer-events: none;"
+    },
+    {
+      "source": "https://bankspower.com/",
+      "selector": ".product-information--inner .wishlist-btn button",
+      "declarations": "background: transparent !important;\n  color: #2b2b2b !important;\n  padding: 0 !important;\n  display: flex !important;\n  align-items: center;\n  gap: 10px;\n  text-transform: capitalize;\n  font-size: 14px !important;\n  font-weight: normal !important;\n  font-family: 'Roboto';\n  margin-bottom: 5px;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Banks Power",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bankspower.com/",
+        "https://bankspower.com/cdn/shop/t/300/assets/utilities.css?v=76154807527694768581785799740"
+      ]
+    },
+    "colors.primary-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bankspower.com/",
+        "https://bankspower.com/cdn/shop/t/300/assets/product-grid.css?v=50954140884827465131785799740"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bankspower.com/",
+        "https://bankspower.com/cdn/shop/t/300/assets/product-grid.css?v=50954140884827465131785799740",
+        "https://bankspower.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://bankspower.com/cdn/shop/t/300/assets/utilities.css?v=76154807527694768581785799740"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bankspower.com/",
+        "https://bankspower.com/cdn/shop/t/300/assets/product-grid.css?v=50954140884827465131785799740"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bankspower.com/",
+        "https://bankspower.com/cdn/shop/t/300/assets/product-grid.css?v=50954140884827465131785799740"
+      ]
+    },
+    "colors.border": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "colors.disabled": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bankspower.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bankspower.com/",
+        "https://bankspower.com/cdn/shop/t/300/assets/utilities.css?v=76154807527694768581785799740"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bankspower.com/",
+        "https://bankspower.com/cdn/shop/t/300/assets/product-grid.css?v=50954140884827465131785799740",
+        "https://bankspower.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://bankspower.com/cdn/shop/t/300/assets/utilities.css?v=76154807527694768581785799740"
+      ]
+    },
+    "colors.surface-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bankspower.com/",
+        "https://bankspower.com/cdn/shop/t/300/assets/utilities.css?v=76154807527694768581785799740"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bankspower.com/",
+        "https://bankspower.com/cdn/shop/t/300/assets/product-grid.css?v=50954140884827465131785799740",
+        "https://bankspower.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://bankspower.com/cdn/shop/t/300/assets/utilities.css?v=76154807527694768581785799740"
+      ]
+    },
+    "colors.on-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bankspower.com/",
+        "https://bankspower.com/cdn/shop/t/300/assets/product-grid.css?v=50954140884827465131785799740",
+        "https://bankspower.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://bankspower.com/cdn/shop/t/300/assets/utilities.css?v=76154807527694768581785799740"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.vehicle-selector": {
+      "status": "inferred"
+    }
+  }
+}

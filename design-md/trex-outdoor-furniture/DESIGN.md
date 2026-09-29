@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Trex Outdoor Furniture
-description: |
+name: "Trex Outdoor Furniture"
+source_url: "https://www.trexoutdoorfurniture.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Deep forest green (#00493d) anchors every header bar, primary button, and trust badge on the page — a color dense enough to evoke composite decking grain pressed beneath a canopy of old-growth pines. The site pairs this with a warm parchment canvas (#f8f7f1) rather than clinical white, lending the entire experience the sun-bleached warmth of a well-weathered deck rail. Quincy CF supplies serif display headlines at generous weights, injecting a lodge-catalog authority that proxima-nova body copy keeps from tipping into heaviness. Navigation and product grids run tight Proxima stacks at 14–16px, while hero headlines let Quincy breathe at 42–56px with negative letter-spacing that pulls the letterforms into the kind of dense lockup you see on embossed warranty plates. Red (#bd1a2b) and burnt rust (#c35418) surface only at decision moments — sale callouts, low-stock alerts, clearance badges — functioning as urgency punctuation against the prevailing green-and-cream quiet. Corners stay conservative: cards at `{rounded.sm}`, buttons at `{rounded.xs}`, product imagery at `{rounded.none}` — everything squared off to echo the rectilinear geometry of Adirondack armrests and slatted dining tabletops. Spacing is generous; section padding (`{spacing.section}`) breathes at 64px minimum, reinforcing the "open air" promise even on a 375px viewport. Browns (#6d4327, #4e372c) appear in wood-swatch selectors and collection thumbnails, grounding the digital palette in the literal material options a buyer will receive. The overall system reads as durable, sun-ready, and American-manufactured — not rustic décor, but engineered outdoor living rendered with enough warmth to feel residential rather than commercial.
 
 colors:
@@ -417,6 +420,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact font weights for quincy-cf could not be confirmed beyond 600/700 — the webfont may load additional weights (400, 500) via Typekit that were not captured in static extraction
 - No CSS custom properties or design-token file was accessible; spacing and border-radius values are inferred from visual inspection rather than exported tokens

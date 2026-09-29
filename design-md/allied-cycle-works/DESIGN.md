@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Allied Cycle Works
-description: A deep blue #1878b9 anchors the brand — not as a sky or water reference, but as a deliberate industrial accent that signals precision engineering against a near-white #fafafa canvas. The palette is lean: a single red #e22120 used sparingly for sale badges or urgent markers, a near-black #121212 for body text, and a middle gray #dedede for structural dividers and secondary backgrounds. There are no gradients, no decorative color blocks — the brand trusts the geometry of carbon frames and the clarity of product photography to carry visual interest. Typography runs at modest sizes with generous line-height, letting spec sheets and build details breathe without crowding. Buttons are flat rectangles with {rounded.sm} corners, never pills — the brand avoids friendly curves in favor of a machined, deliberate feel. The Shopify checkout flow introduces a second blue (#1878b9 again as the primary CTA color), keeping the purchase experience visually continuous with the rest of the site. The overall impression is of a workshop catalog translated to screen: clean, unadorned, and confident in the object itself.
+name: "Allied Cycle Works"
+source_url: "https://alliedcycleworks.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep blue #1878b9 anchors the brand — not as a sky or water reference, but as a deliberate industrial accent that signals precision engineering against a near-white #fafafa canvas. The palette is lean: a single red #e22120 used sparingly for sale badges or urgent markers, a near-black #121212 for body text, and a middle gray #dedede for structural dividers and secondary backgrounds. There are no gradients, no decorative color blocks — the brand trusts the geometry of carbon frames and the clarity of product photography to carry visual interest. Typography runs at modest sizes with generous line-height, letting spec sheets and build details breathe without crowding. Buttons are flat rectangles with {rounded.sm} corners, never pills — the brand avoids friendly curves in favor of a machined, deliberate feel. The Shopify checkout flow introduces a second blue (#1878b9 again as the primary CTA color), keeping the purchase experience visually continuous with the rest of the site. The overall impression is of a workshop catalog translated to screen: clean, unadorned, and confident in the object itself.
 
 colors:
   primary: "#1878b9"
@@ -406,6 +410,8 @@ components:
 - Secondary navigation (breadcrumbs, pagination) collapses to single-line truncation below 744px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No font-family declarations were extractable from the live site; the typography block uses Inter as a reasonable system-ui fallback, but the actual brand font may differ
 - Hover and focus states for all components are inferred from common patterns, not extracted from live CSS

@@ -1,13 +1,17 @@
 ---
 version: alpha
-name: Legion Paper
-description: Three near-identical navies — #112233, #112244, #112255 — stack in Legion Paper's interface the way sheets stack in a ream: each imperceptibly different from the next, collectively communicating depth and material permanence rather than brand expressiveness. The dominant primary (#112244) reads as archival authority against the #f5f5f5 near-white canvas, a pairing that evokes a printer's proof sheet more than a commercial storefront. Navigation and hero backgrounds pull from this same deep field; the three navy variants likely separate header, hero, and footer treatments rather than occupying distinct semantic roles within a single screen.
+name: "Legion Paper"
+source_url: "https://www.legionpaper.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Three near-identical navies — #112233, #112244, #112255 — stack in Legion Paper's interface the way sheets stack in a ream: each imperceptibly different from the next, collectively communicating depth and material permanence rather than brand expressiveness. The dominant primary (#112244) reads as archival authority against the #f5f5f5 near-white canvas, a pairing that evokes a printer's proof sheet more than a commercial storefront. Navigation and hero backgrounds pull from this same deep field; the three navy variants likely separate header, hero, and footer treatments rather than occupying distinct semantic roles within a single screen.
 
-Montserrat carries all display, navigation, and button text — its geometric apertures and upright posture suit a brand selling physical precision; uppercase tracking at 0.5px on nav links and labels creates the catalog-page register that specialty-paper customers expect. Open Sans handles body copy and specification text with a neutral authority that keeps the focus on product data: GSM weights, surface textures, archival ratings. The interplay between the two typefaces is functional rather than expressive — two tools from the same rational tradition, each doing the job it is suited for.
+  Montserrat carries all display, navigation, and button text — its geometric apertures and upright posture suit a brand selling physical precision; uppercase tracking at 0.5px on nav links and labels creates the catalog-page register that specialty-paper customers expect. Open Sans handles body copy and specification text with a neutral authority that keeps the focus on product data: GSM weights, surface textures, archival ratings. The interplay between the two typefaces is functional rather than expressive — two tools from the same rational tradition, each doing the job it is suited for.
 
-Rounded corners are minimal throughout: `{rounded.xs}` (4px) on buttons and inputs, `{rounded.sm}` (8px) on cards. Hard corners would read as cheap commodity design; extreme rounding would undercut the brand's technical credibility. The 4–8px band is the middle ground a professional supplier earns. Paper-spec badges use `{rounded.xs}` with a hairline border, mimicking the small classification stamps found on physical paper packaging. Category filter pills allow `{rounded.full}` as the one interface surface where a softer affordance signal genuinely benefits interaction.
+  Rounded corners are minimal throughout: `{rounded.xs}` (4px) on buttons and inputs, `{rounded.sm}` (8px) on cards. Hard corners would read as cheap commodity design; extreme rounding would undercut the brand's technical credibility. The 4–8px band is the middle ground a professional supplier earns. Paper-spec badges use `{rounded.xs}` with a hairline border, mimicking the small classification stamps found on physical paper packaging. Category filter pills allow `{rounded.full}` as the one interface surface where a softer affordance signal genuinely benefits interaction.
 
-The five extracted values cover the entire necessary palette. There is no accent color, no highlight hue, no success green — Legion Paper's audience trusts specification data over persuasive visual design, and the restraint honors that. Product photography and paper samples carry the visual differentiation work that a consumer brand would otherwise assign to color. The primary-disabled state and muted text are derived rather than independently extracted, suggesting the site may rely on framework defaults for these roles.
+  The five extracted values cover the entire necessary palette. There is no accent color, no highlight hue, no success green — Legion Paper's audience trusts specification data over persuasive visual design, and the restraint honors that. Product photography and paper samples carry the visual differentiation work that a consumer brand would otherwise assign to color. The primary-disabled state and muted text are derived rather than independently extracted, suggesting the site may rely on framework defaults for these roles.
 
 colors:
   primary: "#112244"
@@ -343,6 +347,8 @@ components:
 - `section-header` rule remains full-width at all breakpoints; heading size may step down from `display-md` to `display-sm` on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No accent, warning, success, or error color extracted — promotional badge colors (sale, new, limited), form validation states, and cart feedback are unspecified; a warm red or amber would need live-site confirmation
 - Primary-disabled, body, muted, hairline, and spec-muted values are approximated — the site likely defines these via CSS custom properties loaded at runtime and they were not surfaced by static extraction

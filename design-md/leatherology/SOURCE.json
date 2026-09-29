@@ -1,0 +1,852 @@
+{
+  "source_url": "https://leatherology.com",
+  "final_url": "https://www.leatherology.com/",
+  "captured_at": "2026-09-28T09:49:45.919362+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://leatherology.com",
+      "final_url": "https://www.leatherology.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "85d6b5328c944d5b5788c66662efe347dc8b7a0a669bbe616de0739044e404f1",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.leatherology.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.leatherology.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569",
+      "final_url": "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "dde1a6313b91fb6a12efd245b7eba0d9fa4a0a1f1f738550bce5be065a519aa5",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.leatherology.com/cdn/shop/t/799/assets/base.css?v=55138649656068998471790263484",
+      "final_url": "https://www.leatherology.com/cdn/shop/t/799/assets/base.css?v=55138649656068998471790263484",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c4878793fc4bcff66814da980fc93fe3aa6c90ae78dddacdf4866f76d27bd9ed",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.leatherology.com/cdn/shop/t/799/assets/component-localization-form.css?v=120620094879297847921790263500",
+      "final_url": "https://www.leatherology.com/cdn/shop/t/799/assets/component-localization-form.css?v=120620094879297847921790263500",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f1441150a0754fb694bb031605d799d4362b26173b43c422963376e51fe154a5",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.leatherology.com/cdn/shop/t/799/assets/component-predictive-search.css?v=120673516802388406811790263506",
+      "final_url": "https://www.leatherology.com/cdn/shop/t/799/assets/component-predictive-search.css?v=120673516802388406811790263506",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d39f10e5cd56620e8f0981912a6329cb4392118f5df426c3c4646644cd9d4cb4",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 160,
+      "sources": [
+        "https://www.leatherology.com/",
+        "https://www.leatherology.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569",
+        "https://www.leatherology.com/cdn/shop/t/799/assets/base.css?v=55138649656068998471790263484"
+      ]
+    },
+    "#000000": {
+      "count": 146,
+      "sources": [
+        "https://www.leatherology.com/",
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569",
+        "https://www.leatherology.com/cdn/shop/t/799/assets/base.css?v=55138649656068998471790263484",
+        "https://www.leatherology.com/cdn/shop/t/799/assets/component-localization-form.css?v=120620094879297847921790263500"
+      ]
+    },
+    "#333333": {
+      "count": 61,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    },
+    "#cccccc": {
+      "count": 54,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 24,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    },
+    "#d62027": {
+      "count": 11,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569",
+        "https://www.leatherology.com/cdn/shop/t/799/assets/component-predictive-search.css?v=120673516802388406811790263506"
+      ]
+    },
+    "#11a769": {
+      "count": 11,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    },
+    "#7f7f7f": {
+      "count": 11,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    },
+    "#464545": {
+      "count": 10,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    },
+    "#00000080": {
+      "count": 10,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569",
+        "https://www.leatherology.com/cdn/shop/t/799/assets/base.css?v=55138649656068998471790263484"
+      ]
+    },
+    "#fc3e04": {
+      "count": 10,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    },
+    "#478fcd": {
+      "count": 8,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    },
+    "#222222": {
+      "count": 8,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    },
+    "#676986": {
+      "count": 7,
+      "sources": [
+        "https://www.leatherology.com/"
+      ]
+    },
+    "#666666": {
+      "count": 7,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569",
+        "https://www.leatherology.com/cdn/shop/t/799/assets/component-predictive-search.css?v=120673516802388406811790263506"
+      ]
+    },
+    "#272d45": {
+      "count": 5,
+      "sources": [
+        "https://www.leatherology.com/"
+      ]
+    },
+    "#e20000": {
+      "count": 5,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    },
+    "#e5e1f2": {
+      "count": 5,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    },
+    "#00000026": {
+      "count": 5,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    },
+    "#252525": {
+      "count": 4,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    },
+    "#242833": {
+      "count": 3,
+      "sources": [
+        "https://www.leatherology.com/"
+      ]
+    },
+    "#121212": {
+      "count": 3,
+      "sources": [
+        "https://www.leatherology.com/",
+        "https://www.leatherology.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dbdde4": {
+      "count": 3,
+      "sources": [
+        "https://www.leatherology.com/"
+      ]
+    },
+    "#2c3e50": {
+      "count": 3,
+      "sources": [
+        "https://www.leatherology.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 3,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    },
+    "#0000000d": {
+      "count": 3,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569",
+        "https://www.leatherology.com/cdn/shop/t/799/assets/base.css?v=55138649656068998471790263484"
+      ]
+    },
+    "#ffffff00": {
+      "count": 3,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/base.css?v=55138649656068998471790263484"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 2,
+      "sources": [
+        "https://www.leatherology.com/"
+      ]
+    },
+    "#b4336a": {
+      "count": 2,
+      "sources": [
+        "https://www.leatherology.com/"
+      ]
+    },
+    "#282d5e": {
+      "count": 2,
+      "sources": [
+        "https://www.leatherology.com/"
+      ]
+    },
+    "#f4f4f6": {
+      "count": 2,
+      "sources": [
+        "https://www.leatherology.com/"
+      ]
+    },
+    "#f7f7f8": {
+      "count": 2,
+      "sources": [
+        "https://www.leatherology.com/"
+      ]
+    },
+    "#e5e5eb": {
+      "count": 2,
+      "sources": [
+        "https://www.leatherology.com/"
+      ]
+    },
+    "#c7c7c7": {
+      "count": 2,
+      "sources": [
+        "https://www.leatherology.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.leatherology.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.leatherology.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#c4c4c4": {
+      "count": 2,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    },
+    "#f9c539": {
+      "count": 2,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    },
+    "#8a8a8a": {
+      "count": 2,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    },
+    "#00000040": {
+      "count": 2,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    },
+    "#5e5c5c": {
+      "count": 2,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    },
+    "#cdc5b5": {
+      "count": 2,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    },
+    "#cdc5b566": {
+      "count": 2,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    },
+    "#29a562": {
+      "count": 2,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    },
+    "#efefef": {
+      "count": 2,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    },
+    "#fdfdfd": {
+      "count": 2,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 2,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    },
+    "#006bb4": {
+      "count": 2,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    },
+    "#d8d8d8": {
+      "count": 2,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    },
+    "#73b8e8": {
+      "count": 2,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    },
+    "#0000001f": {
+      "count": 2,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    },
+    "#0e7a82": {
+      "count": 1,
+      "sources": [
+        "https://www.leatherology.com/"
+      ]
+    },
+    "#9a9db1": {
+      "count": 1,
+      "sources": [
+        "https://www.leatherology.com/"
+      ]
+    },
+    "#d3d4dd": {
+      "count": 1,
+      "sources": [
+        "https://www.leatherology.com/"
+      ]
+    },
+    "#00caaa": {
+      "count": 1,
+      "sources": [
+        "https://www.leatherology.com/"
+      ]
+    },
+    "#b2f9e9": {
+      "count": 1,
+      "sources": [
+        "https://www.leatherology.com/"
+      ]
+    },
+    "#1878b9": {
+      "count": 1,
+      "sources": [
+        "https://www.leatherology.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.leatherology.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.leatherology.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#d620271a": {
+      "count": 1,
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    }
+  },
+  "font_families": {
+    "Assistant": [
+      "https://www.leatherology.com/"
+    ],
+    "AvenirLTStd": [
+      "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+    ],
+    "FreightDispProLight": [
+      "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+    ],
+    "FreightDispProMedium": [
+      "https://www.leatherology.com/",
+      "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+    ],
+    "Open Sans": [
+      "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+    ],
+    "ProximaNova": [
+      "https://www.leatherology.com/",
+      "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+    ],
+    "dcifont": [
+      "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+    ],
+    "icomoon": [
+      "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+    ],
+    "monospace": [
+      "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+    ],
+    "object-fit: contain": [
+      "https://www.leatherology.com/cdn/shop/t/799/assets/component-predictive-search.css?v=120673516802388406811790263506"
+    ],
+    "oke-widget-icons": [
+      "https://www.leatherology.com/"
+    ],
+    "oke-widget-icons!important": [
+      "https://www.leatherology.com/"
+    ],
+    "sans-serif": [
+      "https://www.leatherology.com/",
+      "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+    ],
+    "serif": [
+      "https://www.leatherology.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.leatherology.com/",
+      "selector": ":root,\n    .color-scheme-1",
+      "declarations": "--color-background: 255,255,255;\n    \n      --gradient-background: #ffffff;\n    \n\n    \n\n    --color-foreground: 18,18,18;\n    --color-background-contrast: 191,191,191;\n    --color-shadow: 18,18,18;\n    --color-button: 18,18,18;\n    --color-button-text: 255,255,255;\n    --color-secondary-button: 255,255,255;\n    --color-secondary-button-text: 18,18,18;\n    --color-link: 18,18,18;\n    --color-badge-foreground: 18,18,18;\n    --color-badge-background: 255,255,255;\n    --color-badge-border: 18,18,18;\n    --payment-terms-background-color: rgb(255 255 255);"
+    },
+    {
+      "source": "https://www.leatherology.com/",
+      "selector": "body, .color-scheme-1, .color-scheme-2, .color-scheme-3, .color-scheme-4, .color-scheme-5, .color-scheme-5563a4e2-8186-45ad-b04d-4bc119ad113e",
+      "declarations": "color: rgba(var(--color-foreground));\n    background-color: rgb(var(--color-background));"
+    },
+    {
+      "source": "https://www.leatherology.com/",
+      "selector": "body",
+      "declarations": "display: grid;\n    grid-template-rows: auto auto 1fr auto;\n    grid-template-columns: 100%;\n    min-height: 100%;\n    margin: 0;\n    font-size: 1.5rem;\n    line-height: calc(1 + 0.8 / var(--font-body-scale));\n    font-family: var(--font-body-family);\n    font-style: var(--font-body-style);\n    font-weight: var(--font-body-weight);"
+    },
+    {
+      "source": "https://www.leatherology.com/",
+      "selector": ".okeReviews[data-oke-container] button,div.okeReviews button",
+      "declarations": "border-radius:0;border:0;box-shadow:none;margin:0;width:auto;min-width:auto;padding:0;background-color:transparent;min-height:auto"
+    },
+    {
+      "source": "https://www.leatherology.com/",
+      "selector": "views[data-oke-container] input,.okeReviews[data-oke-container] select,.okeReviews[data-oke-container] textarea,div.okeReviews button,div.okeReviews input,div.o",
+      "declarations": "font-family:inherit;font-size:1em"
+    },
+    {
+      "source": "https://www.leatherology.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button,div.okeReviews .oke-button",
+      "declarations": "display:inline-block;border-style:solid;border-color:var(--oke-button-borderColor);border-width:var(--oke-button-borderWidth);background-color:var(--oke-button-backgroundColor);line-height:1;padding:12px 24px;margin:0;border-radius:var(--oke-button-borderRadius);color:var(--oke-button-textColor);text-align:center;position:relative;font-weight:var(--oke-button-fontWeight);font-size:var(--oke-button-fontSize);font-family:var(--oke-button-fontFamily);outline:0"
+    },
+    {
+      "source": "https://www.leatherology.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button.oke-is-loading:before,div.okeReviews .oke-button.oke-is-loading:before",
+      "declarations": "font-family:oke-widget-icons!important;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;content:\"\";color:undefined;font-size:12px;display:inline-block;animation:oke-spin 1s linear infinite;position:absolute;width:12px;height:12px;top:0;left:0;bottom:0;right:0;margin:auto"
+    },
+    {
+      "source": "https://www.leatherology.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button.oke-is-active,div.okeReviews .oke-button.oke-is-active",
+      "declarations": "background-color:var(--oke-button-backgroundColorActive);color:var(--oke-button-textColorActive);border-color:var(--oke-button-borderColorActive)"
+    },
+    {
+      "source": "https://www.leatherology.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button:not(.oke-is-loading):not(.oke-is-active):hover,div.okeReviews .oke-button:not(.oke-is-loading):not(.oke-is-active):h",
+      "declarations": "background-color:var(--oke-button-backgroundColorHover);color:var(--oke-button-textColorHover);border-color:var(--oke-button-borderColorHover);box-shadow:0 0 0 2px var(--oke-button-backgroundColorHover)"
+    },
+    {
+      "source": "https://www.leatherology.com/",
+      "selector": "is-loading):not(.oke-is-active):hover:active,div.okeReviews .oke-button:not(.oke-is-loading):not(.oke-is-active):active,div.okeReviews .oke-button:not(.oke-is-l",
+      "declarations": "background-color:var(--oke-button-backgroundColorActive);color:var(--oke-button-textColorActive);border-color:var(--oke-button-borderColorActive)"
+    },
+    {
+      "source": "https://www.leatherology.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-bodyText,div.okeReviews .oke-bodyText",
+      "declarations": "font-weight:var(--oke-bodyText-fontWeight);font-size:var(--oke-bodyText-fontSize);font-family:var(--oke-bodyText-fontFamily)"
+    },
+    {
+      "source": "https://www.leatherology.com/",
+      "selector": "views[data-oke-container] .oke-modal .oke-reviewContent-date,div.okeReviews .oke-modal .oke-helpful,div.okeReviews .oke-modal .oke-helpful-vote-button,div.okeRe",
+      "declarations": "color:#676986"
+    },
+    {
+      "source": "https://www.leatherology.com/",
+      "selector": ":root",
+      "declarations": "--oke-widget-spaceAbove:20px;--oke-widget-spaceBelow:20px;--oke-starRating-spaceAbove:0;--oke-starRating-spaceBelow:0;--oke-button-backgroundColor:#f7f7f8;--oke-button-backgroundColorHover:#f4f4f6;--oke-button-backgroundColorActive:#676986;--oke-button-textColor:#272d45;--oke-button-textColorHover:#272d45;--oke-button-textColorActive:#fff;--oke-button-borderColor:#dbdde4;--oke-button-borderColorHover:#dbdde4;--oke-button-borderColorActive:#676986;--oke-button-borderRadius:4px;--oke-button-borderWidth:1px;--oke-button-fontWeight:700;--oke-button-fontSize:var(--oke-text-regular,14px);--oke-button-fontFamily:inherit;--oke-border-color:#e5e5eb;--oke-border-width:1px;--oke-text-primaryColor:#2c3e"
+    },
+    {
+      "source": "https://www.leatherology.com/",
+      "selector": "-content .oke-helpful,div.okeReviews[data-oke-container] .oke-modal .oke-modal-content .oke-helpful-vote-button,div.okeReviews[data-oke-container] .oke-modal .o",
+      "declarations": "color:var(--oke-text-secondaryColor)"
+    },
+    {
+      "source": "https://www.leatherology.com/",
+      "selector": ":root",
+      "declarations": "--oke-text-small:16px;--oke-text-regular:16px"
+    },
+    {
+      "source": "https://www.leatherology.com/",
+      "selector": "#shopify-section-template--23935536103672__static_text_h1_mNGzd4 .static-text__description",
+      "declarations": "color: #000000 !important;\n      font-weight:  !important;"
+    },
+    {
+      "source": "https://www.leatherology.com/",
+      "selector": "#shopify-section-template--23935536103672__trending_section_39pfdh .trending__product .product-item__title-text",
+      "declarations": "color: #000000;"
+    },
+    {
+      "source": "https://www.leatherology.com/",
+      "selector": "#shopify-section-template--23935536103672__trending_section_39pfdh .trending__product .product-item__price",
+      "declarations": "color: #000000;"
+    },
+    {
+      "source": "https://www.leatherology.com/",
+      "selector": ":root",
+      "declarations": "--dk-color-backgroundPrimary: #ffffff;\n--dk-color-backgroundSecondary: #1878b9;\n--dk-color-textPrimary: #000000;\n--dk-color-textSecondary: #ffffff;"
+    },
+    {
+      "source": "https://www.leatherology.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.leatherology.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.leatherology.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.leatherology.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.leatherology.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.leatherology.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;line-height:1.15;margin:0"
+    },
+    {
+      "source": "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569",
+      "selector": "body",
+      "declarations": "margin:0;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:auto;background-color:#fff;color:#000;font-family:var(--primary-font-family);font-weight:400"
+    },
+    {
+      "source": "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "font-family:var(--primary-font-family);font-weight:400;margin:0"
+    },
+    {
+      "source": "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569",
+      "selector": ".h1,h1",
+      "declarations": "font-family:var(--secondary-font-family);font-size:4rem;line-height:5.1rem;letter-spacing:-.001rem"
+    },
+    {
+      "source": "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569",
+      "selector": "button",
+      "declarations": "font-family:var(--primary-font-family);font-weight:400;line-height:1.6rem;letter-spacing:.001em"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Personalized Leather Wallets, Bags & Padfolios | Leatherology®",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.leatherology.com/",
+        "https://www.leatherology.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.leatherology.com/",
+        "https://www.leatherology.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.leatherology.com/",
+        "https://www.leatherology.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569",
+        "https://www.leatherology.com/cdn/shop/t/799/assets/base.css?v=55138649656068998471790263484"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.leatherology.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.leatherology.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.leatherology.com/",
+        "https://www.leatherology.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569",
+        "https://www.leatherology.com/cdn/shop/t/799/assets/base.css?v=55138649656068998471790263484"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    },
+    "colors.link": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.leatherology.com/",
+        "https://www.leatherology.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-leather": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569"
+      ]
+    },
+    "colors.error-sale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.leatherology.com/cdn/shop/t/799/assets/sdg-style.css?v=181303525481342125171790263569",
+        "https://www.leatherology.com/cdn/shop/t/799/assets/component-predictive-search.css?v=120673516802388406811790263506"
+      ]
+    },
+    "colors.review-accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.leatherology.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.personalization-selector": {
+      "status": "inferred"
+    }
+  }
+}

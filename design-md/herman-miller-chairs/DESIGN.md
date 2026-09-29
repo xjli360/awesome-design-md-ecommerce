@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Herman Miller (Chairs)
-description: Every chair specification table on a Herman Miller product page runs in Soehne at 12px uppercase tracking — the same deliberate information density you'd find in a technical white-paper, not a lifestyle catalog. The palette anchors on an earthy, muted teal (#00816c) that darkens to #004e41 on hover and #004338 at section boundaries: three values of the same hue, no secondary chromatic accent doing decorative work at the UI layer. Against a #fafafa / #ffffff canvas with #252525 ink, the teal operates as the single active-state signal — search bars, primary CTAs, active nav underlines, and chair-category callouts all draw from the same well. A secondary register of alert colors — #e22d00 for clearance callouts, #cd4557 for promotional badges, #ce973d for select-collection highlights — enters only at the merchandising layer and never bleeds into core interface chrome.
+name: "Herman Miller (Chairs)"
+source_url: "https://store.hermanmiller.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Every chair specification table on a Herman Miller product page runs in Soehne at 12px uppercase tracking — the same deliberate information density you'd find in a technical white-paper, not a lifestyle catalog. The palette anchors on an earthy, muted teal (#00816c) that darkens to #004e41 on hover and #004338 at section boundaries: three values of the same hue, no secondary chromatic accent doing decorative work at the UI layer. Against a #fafafa / #ffffff canvas with #252525 ink, the teal operates as the single active-state signal — search bars, primary CTAs, active nav underlines, and chair-category callouts all draw from the same well. A secondary register of alert colors — #e22d00 for clearance callouts, #cd4557 for promotional badges, #ce973d for select-collection highlights — enters only at the merchandising layer and never bleeds into core interface chrome.
 
   Button geometry is nearly orthogonal: {rounded.none} corners on primary and secondary CTAs mirror the rectilinear die-cast aluminum frames of the Aeron and Embody. This is not an accident — the interface shares the same formal logic as the objects it sells. Configurator rails run at a fixed 360px, aligned right, with 1px {colors.hairline} rules separating material swatches from adjustment controls; the spatial hierarchy maps directly to how an ergonomist walks a buyer through seat-pan depth before lumbar support. Type is set in Soehne throughout, a grotesque with ink-trap geometry that remains crisp at the small sizes spec tables demand, with system monospaced stacks (Consolas, Menlo) reserved for machine-readable values such as weight limits and adjustment ranges.
 
@@ -395,6 +399,8 @@ components:
 - Promo banner: stays pinned on all breakpoints; dismissible only on desktop
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Soehne font weight variants actually loaded on the site (the full weight axis and which specific optical sizes are active) were not captured; weights 300/400/500 are inferred from visual inspection and known Klim Type Foundry conventions
 - Exact border-radius in use: the site may apply a non-zero value (2–4px) on some interactive elements not captured during extraction; {rounded.none} is inferred from brand direction

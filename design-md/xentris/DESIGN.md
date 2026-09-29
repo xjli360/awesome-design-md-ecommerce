@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Xentris
-description: |
+name: "Xentris"
+source_url: "https://www.xentriswireless.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Steel-gray dominates the viewport like the brushed aluminum of the accessories it sells — #eeeeee washes across product grids and specification panels, creating a neutral theater where device photography does the heavy lifting. Xentris Wireless builds its visual language on utility rather than lifestyle aspiration: the interface reads closer to a technical catalog than a boutique storefront, with dense product matrices organized by device compatibility rather than editorial narrative. Typography relies on the operating system's native sans-serif stack (no custom webfont was detected in static markup), which keeps page weight lean and load times fast — a pragmatic choice for a brand whose buyers often comparison-shop across dozens of SKU pages in a single session. Navigation follows a megamenu pattern common to accessories distributors, categorizing by device family, product type, and brand partnership. Buttons appear in a saturated tech-blue (`{colors.primary}`) against the light-gray canvas, ensuring CTAs punch through the neutral backdrop without competing with product imagery. Card containers use `{rounded.sm}` corners — restrained, never playful — and spacing stays tight (`{spacing.md}` gutters between grid items) to maximize density and scanability. The overall aesthetic signals wholesale professionalism: no hero lifestyle banners, no influencer carousels, just structured data delivery with enough visual hierarchy to guide a procurement buyer or end consumer through thousands of compatible accessories efficiently.
 
 colors:
@@ -362,6 +365,8 @@ components:
 - Footer columns: 4-column → single stacked accordion on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Primary brand color unconfirmed**: Only #eeeeee was extracted from static markup. The blue (`#0058a3`) used as primary is inferred from category norms for wireless/tech brands — actual brand blue may differ significantly. Verify against rendered site or brand guidelines.
 - **No custom fonts detected**: Only Font Awesome icon fonts appeared in static CSS. The site likely loads body/display fonts via JavaScript, a CDN with deferred loading, or inlined critical CSS not captured in extraction. System font stack is used as placeholder.

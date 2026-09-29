@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: BenQ
-description: |
+name: "BenQ"
+source_url: "https://www.benq.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Purple as a primary brand voltage in consumer electronics is almost unheard of — BenQ leans into it without hesitation. The hero palette anchors on #6b53cc, a saturated mid-violet that reads as creative-professional rather than gaming-neon, supported by a deeper #7231c6 on hover states and a luminous #b27aff for gradients and highlights. This violet family does something unusual: it signals both precision engineering and artistic temperament simultaneously, bridging BenQ's dual audience of color-critical photographers and ambient-lighting enthusiasts. A punchy orange-red accent (#e94b20) breaks the coolness for CTAs and promotional urgency — limited-time banners, "Buy Now" triggers — while a warm gold (#cdb889) surfaces on premium product lines like the treVolo speakers and ScreenBar series, lending a material-world warmth against the digital purple. Typography runs Poppins for display and navigational weight — its geometric round terminals echo the soft `{rounded.md}` corners on product cards — while Roboto handles body copy at 400 weight, keeping long spec sheets and comparison tables legible without competing for attention. The layout breathes through generous `{spacing.section}` gaps between product category blocks, each introduced by full-bleed lifestyle photography overlaid with semi-transparent dark scrims and left-aligned display type. Cards use `{rounded.sm}` with subtle elevation, never hard-edged, and the navigation bar runs a clean white surface with purple active-state underlines rather than background fills. Surface tones stay neutral: #f2f2f2 canvas areas, #e6e6f2 lavender-tinted soft panels for feature callouts, and pure white cards. The overall impression is a tech brand that chose a painter's palette over the usual gunmetal-and-blue industrial playbook.
 
 colors:
@@ -268,7 +271,7 @@ components:
     textColor: "{colors.on-dark}"
     typography: "{typography.display-xl}"
     minHeight: 560px
-    padding: "{spacing.hero}" "{spacing.xxl}"
+    padding: "{spacing.hero} {spacing.xxl}"
     overlay: linear-gradient(to right, rgba(0,0,0,0.7) 0%, transparent 60%)
   hero-banner-cta:
     backgroundColor: "{colors.accent}"
@@ -306,7 +309,7 @@ components:
   spec-table-row:
     backgroundColor: "{colors.canvas}"
     textColor: "{colors.body}"
-    padding: "{spacing.md}" "{spacing.base}"
+    padding: "{spacing.md} {spacing.base}"
     borderBottom: 1px solid {colors.hairline-soft}
   spec-table-row-alt:
     backgroundColor: "{colors.surface-soft}"
@@ -341,7 +344,7 @@ components:
     backgroundColor: "{colors.ink}"
     textColor: "{colors.on-dark}"
     typography: "{typography.body-sm}"
-    padding: "{spacing.section}" "{spacing.xxl}"
+    padding: "{spacing.section} {spacing.xxl}"
   footer-link:
     textColor: "{colors.muted-soft}"
     typography: "{typography.body-sm}"
@@ -372,7 +375,7 @@ components:
   tab-item:
     textColor: "{colors.muted}"
     typography: "{typography.title-sm}"
-    padding: "{spacing.md}" "{spacing.lg}"
+    padding: "{spacing.md} {spacing.lg}"
   tab-item-active:
     textColor: "{colors.primary}"
     borderBottom: 3px solid {colors.primary}
@@ -464,6 +467,8 @@ components:
 - Category cards shift from landscape (16:9) to square (1:1) on mobile for better thumb-scroll browsing
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact border-radius values could not be confirmed from extraction; `{rounded.sm}` (8px) is inferred from visual inspection of product cards and buttons
 - BenQ uses Noto Sans variants for CJK locales (Japanese, Korean, Simplified/Traditional Chinese) — exact fallback ordering and weight mappings per locale were not fully extractable

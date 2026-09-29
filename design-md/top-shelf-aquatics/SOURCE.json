@@ -1,0 +1,892 @@
+{
+  "source_url": "https://topshelfaquatics.com",
+  "final_url": "https://topshelfaquatics.com/",
+  "captured_at": "2026-09-28T09:04:13.618792+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://topshelfaquatics.com",
+      "final_url": "https://topshelfaquatics.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "9830fb91125882f26c77e16e2009da627b208acff336f1253283672ee79bd046",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://topshelfaquatics.com/cdn/shop/t/216/assets/base.css?v=135475115935388894871790099753",
+      "final_url": "https://topshelfaquatics.com/cdn/shop/t/216/assets/base.css?v=135475115935388894871790099753",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d4f97552c19a6eb5589c558baea1e433ef3f176bf30f0b339ee9ee19f16c8781",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759",
+      "final_url": "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "648616715ae43a6038bbfb13c75b682cacb39a57a9774aca53c6406f75f3d24a",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://topshelfaquatics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://topshelfaquatics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://topshelfaquatics.com/cdn/shop/t/216/compiled_assets/styles.css?v=70724087590035499231790520238&subset=AAAAAAAgAACAAAABAAAAAAAAAAAAAAAAQAJ476AgiAAAYESPUWmqCSAXAAIAAAQAAGg",
+      "final_url": "https://topshelfaquatics.com/cdn/shop/t/216/compiled_assets/styles.css?v=70724087590035499231790520238&subset=AAAAAAAgAACAAAABAAAAAAAAAAAAAAAAQAJ476AgiAAAYESPUWmqCSAXAAIAAAQAAGg",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3247062e8b4e4e10a2029871173a09cc9e7d9fb33efe6250dbd7ffe0907be6de",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401",
+      "final_url": "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2dac5d27952527a2d96ba3d81b85abb9efc444316a757f3da412b80a82241846",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#001935": {
+      "count": 165,
+      "sources": [
+        "https://topshelfaquatics.com/",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#ffffff": {
+      "count": 158,
+      "sources": [
+        "https://topshelfaquatics.com/",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759",
+        "https://topshelfaquatics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://topshelfaquatics.com/cdn/shop/t/216/compiled_assets/styles.css?v=70724087590035499231790520238&subset=AAAAAAAgAACAAAABAAAAAAAAAAAAAAAAQAJ476AgiAAAYESPUWmqCSAXAAIAAAQAAGg",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#000000": {
+      "count": 19,
+      "sources": [
+        "https://topshelfaquatics.com/",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759",
+        "https://topshelfaquatics.com/cdn/shop/t/216/compiled_assets/styles.css?v=70724087590035499231790520238&subset=AAAAAAAgAACAAAABAAAAAAAAAAAAAAAAQAJ476AgiAAAYESPUWmqCSAXAAIAAAQAAGg",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#f2f6fc": {
+      "count": 13,
+      "sources": [
+        "https://topshelfaquatics.com/",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#ffffff00": {
+      "count": 13,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#0b2347": {
+      "count": 9,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759",
+        "https://topshelfaquatics.com/cdn/shop/t/216/compiled_assets/styles.css?v=70724087590035499231790520238&subset=AAAAAAAgAACAAAABAAAAAAAAAAAAAAAAQAJ476AgiAAAYESPUWmqCSAXAAIAAAQAAGg"
+      ]
+    },
+    "#00193514": {
+      "count": 9,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#ffffffeb": {
+      "count": 8,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#1a66d2": {
+      "count": 7,
+      "sources": [
+        "https://topshelfaquatics.com/",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#ff721a": {
+      "count": 7,
+      "sources": [
+        "https://topshelfaquatics.com/",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#222222": {
+      "count": 6,
+      "sources": [
+        "https://topshelfaquatics.com/",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759"
+      ]
+    },
+    "#061a3a": {
+      "count": 6,
+      "sources": [
+        "https://topshelfaquatics.com/",
+        "https://topshelfaquatics.com/cdn/shop/t/216/compiled_assets/styles.css?v=70724087590035499231790520238&subset=AAAAAAAgAACAAAABAAAAAAAAAAAAAAAAQAJ476AgiAAAYESPUWmqCSAXAAIAAAQAAGg"
+      ]
+    },
+    "#ffffff6b": {
+      "count": 6,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#760d16": {
+      "count": 6,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#eeeeee": {
+      "count": 5,
+      "sources": [
+        "https://topshelfaquatics.com/",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759"
+      ]
+    },
+    "#000911": {
+      "count": 5,
+      "sources": [
+        "https://topshelfaquatics.com/"
+      ]
+    },
+    "#f5f5f7": {
+      "count": 5,
+      "sources": [
+        "https://topshelfaquatics.com/",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#00000014": {
+      "count": 5,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759"
+      ]
+    },
+    "#ffffffe6": {
+      "count": 5,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#0019352e": {
+      "count": 5,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#5aa9ff": {
+      "count": 5,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/compiled_assets/styles.css?v=70724087590035499231790520238&subset=AAAAAAAgAACAAAABAAAAAAAAAAAAAAAAQAJ476AgiAAAYESPUWmqCSAXAAIAAAQAAGg"
+      ]
+    },
+    "#3b82f6": {
+      "count": 5,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/compiled_assets/styles.css?v=70724087590035499231790520238&subset=AAAAAAAgAACAAAABAAAAAAAAAAAAAAAAQAJ476AgiAAAYESPUWmqCSAXAAIAAAQAAGg"
+      ]
+    },
+    "#ffc63b": {
+      "count": 4,
+      "sources": [
+        "https://topshelfaquatics.com/",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#e6ecf5": {
+      "count": 4,
+      "sources": [
+        "https://topshelfaquatics.com/",
+        "https://topshelfaquatics.com/cdn/shop/t/216/compiled_assets/styles.css?v=70724087590035499231790520238&subset=AAAAAAAgAACAAAABAAAAAAAAAAAAAAAAQAJ476AgiAAAYESPUWmqCSAXAAIAAAQAAGg"
+      ]
+    },
+    "#ececec": {
+      "count": 4,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759"
+      ]
+    },
+    "#ffffff52": {
+      "count": 4,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#ffffff1a": {
+      "count": 4,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#ffffffb8": {
+      "count": 4,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759",
+        "https://topshelfaquatics.com/cdn/shop/t/216/compiled_assets/styles.css?v=70724087590035499231790520238&subset=AAAAAAAgAACAAAABAAAAAAAAAAAAAAAAQAJ476AgiAAAYESPUWmqCSAXAAIAAAQAAGg",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#00193557": {
+      "count": 4,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#ffffff3d": {
+      "count": 4,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#00193529": {
+      "count": 4,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#4f9cff": {
+      "count": 3,
+      "sources": [
+        "https://topshelfaquatics.com/",
+        "https://topshelfaquatics.com/cdn/shop/t/216/compiled_assets/styles.css?v=70724087590035499231790520238&subset=AAAAAAAgAACAAAABAAAAAAAAAAAAAAAAQAJ476AgiAAAYESPUWmqCSAXAAIAAAQAAGg"
+      ]
+    },
+    "#00000026": {
+      "count": 3,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#ffffff24": {
+      "count": 3,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#0019353d": {
+      "count": 3,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#ffffff1f": {
+      "count": 3,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#ffffff38": {
+      "count": 3,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#0000002e": {
+      "count": 3,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#00000029": {
+      "count": 3,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#0f172a0f": {
+      "count": 3,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/compiled_assets/styles.css?v=70724087590035499231790520238&subset=AAAAAAAgAACAAAABAAAAAAAAAAAAAAAAQAJ476AgiAAAYESPUWmqCSAXAAIAAAQAAGg"
+      ]
+    },
+    "#041229": {
+      "count": 3,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/compiled_assets/styles.css?v=70724087590035499231790520238&subset=AAAAAAAgAACAAAABAAAAAAAAAAAAAAAAQAJ476AgiAAAYESPUWmqCSAXAAIAAAQAAGg"
+      ]
+    },
+    "#ffffff08": {
+      "count": 3,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/compiled_assets/styles.css?v=70724087590035499231790520238&subset=AAAAAAAgAACAAAABAAAAAAAAAAAAAAAAQAJ476AgiAAAYESPUWmqCSAXAAIAAAQAAGg",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#0019351f": {
+      "count": 3,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#ffebeb12": {
+      "count": 3,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#420610": {
+      "count": 3,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#a81a26": {
+      "count": 3,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#8a131e": {
+      "count": 3,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#5c0a11": {
+      "count": 3,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#ffdcdc29": {
+      "count": 3,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#2300048c": {
+      "count": 3,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#120002bf": {
+      "count": 3,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#e85f0a": {
+      "count": 3,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#ffe4cd29": {
+      "count": 3,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#c24d00": {
+      "count": 3,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#ff9a52": {
+      "count": 3,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#cc5400": {
+      "count": 3,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#ffead673": {
+      "count": 3,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#6e26008c": {
+      "count": 3,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#a83e0047": {
+      "count": 3,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "#ff74007a": {
+      "count": 3,
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    }
+  },
+  "font_families": {
+    "Barlow": [
+      "https://topshelfaquatics.com/"
+    ],
+    "Barlow Semi Condensed": [
+      "https://topshelfaquatics.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://topshelfaquatics.com/",
+      "selector": "body",
+      "declarations": "min-width:320px;margin:0;overflow-x:hidden;background:#fff;color:#001935"
+    },
+    {
+      "source": "https://topshelfaquatics.com/",
+      "selector": "#header-group .announcement-bar",
+      "declarations": "background:transparent;color:#fff;box-shadow:0 1px 0 rgba(0,8,20,0.30)"
+    },
+    {
+      "source": "https://topshelfaquatics.com/",
+      "selector": "#header-group .announcement-bar *",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://topshelfaquatics.com/",
+      "selector": ":root",
+      "declarations": "--hover-lift-amount: 4px;\n      --hover-scale-amount: 1.03;\n      --hover-subtle-zoom-amount: 1.015;"
+    },
+    {
+      "source": "https://topshelfaquatics.com/",
+      "selector": "25;\n\n    \n\n    \n    --height-buy-buttons: calc(var(--padding-lg) * 2 + var(--icon-size-sm));\n\n    \n    --card-width-small: 10rem;\n\n    --height-small: 10rem;\n\n ",
+      "declarations": "--height-small: 17.5rem;"
+    },
+    {
+      "source": "https://topshelfaquatics.com/",
+      "selector": "body",
+      "declarations": "color: var(--color-foreground);\n    background-color: var(--color-background);"
+    },
+    {
+      "source": "https://topshelfaquatics.com/",
+      "selector": ":root",
+      "declarations": "--tsa-navy: 0, 25, 53;\n    --tsa-navy-deep: 0, 14, 32;\n    --tsa-reef-light: 96, 152, 214;\n    --tsa-glass-border: rgba(255, 255, 255, 0.16);\n    --tsa-glass-highlight: rgba(255, 255, 255, 0.5);\n    --tsa-glass-edge-dark: rgba(0, 8, 20, 0.55);\n    --tsa-glass-shadow: rgba(0, 8, 20, 0.22);\n    --tsa-header-opacity: 0.985;"
+    },
+    {
+      "source": "https://topshelfaquatics.com/",
+      "selector": "html,\n  body",
+      "declarations": "background-color: #f2f6fc;"
+    },
+    {
+      "source": "https://topshelfaquatics.com/",
+      "selector": "html body #header-group",
+      "declarations": "position: sticky !important;\n    top: 0 !important;\n    z-index: 3000 !important;\n    isolation: isolate;\n    background-color: #001935 !important;\n    border: 0 !important;\n    box-shadow:\n      inset 0 1px 0 var(--tsa-glass-highlight),\n      inset 0 2px 0 var(--tsa-glass-edge-dark),\n      inset 2px 0 0 rgba(var(--tsa-reef-light), 0.45),\n      inset -2px 0 0 rgba(var(--tsa-reef-light), 0.45),\n      inset 0 0 0 1px var(--tsa-glass-border),\n      inset 0 -1px 0 var(--tsa-glass-edge-dark),\n      0 1px 0 var(--tsa-glass-edge-dark),\n      0 2px 0 rgba(var(--tsa-reef-light), 0.18),\n      0 7px 18px var(--tsa-glass-shadow) !important;"
+    },
+    {
+      "source": "https://topshelfaquatics.com/",
+      "selector": "ader-group .section-background,\n  html body #header-group .kith-header-component,\n  html body #header-group .header,\n  html body #header-group .header__row,\n  h",
+      "declarations": "background: transparent !important;\n    background-color: transparent !important;\n    border: 0 !important;\n    box-shadow: none !important;"
+    },
+    {
+      "source": "https://topshelfaquatics.com/",
+      "selector": "html body #header-group .shopify-section-group-header-group .announcement-bar,\n  html body #header-group .shopify-section-group-header-group .announcement-bar[c",
+      "declarations": "position: relative !important;\n    overflow: hidden !important;\n    isolation: isolate !important;\n    -webkit-backdrop-filter: none !important;\n    backdrop-filter: none !important;\n    border: 0 !important;\n    background:\n      linear-gradient(115deg, rgba(255, 255, 255, 0.12) 0%, rgba(255, 255, 255, 0) 20%, rgba(255, 255, 255, 0) 80%, rgba(225, 238, 255, 0.08) 100%),\n      linear-gradient(120deg, #0b3470 0%, #124fa8 22%, #1a66d2 50%, #1558b8 76%, #0d3e84 100%) !important;\n    background-color: #1a66d2 !important;\n    color: #ffffff !important;\n    box-shadow:\n      inset 0 1px 0 rgba(220, 238, 255, 0.18),\n      inset 0 -2px 4px rgba(0, 25, 65, 0.55),\n      inset 0 -1px 0 rgba(0, 15, 42, "
+    },
+    {
+      "source": "https://topshelfaquatics.com/",
+      "selector": "announcement-bar[class*=\"color-scheme\"] .announcement-bar__slider .slideshow-control,\n  html body #header-group .announcement-bar[class*=\"color-scheme\"] .announ",
+      "declarations": "--color-foreground: #ffffff;\n    color: #ffffff !important;\n    -webkit-text-fill-color: #ffffff !important;\n    text-shadow: none !important;"
+    },
+    {
+      "source": "https://topshelfaquatics.com/",
+      "selector": "html body #header-group[data-kith-sticky-state=\"active\"],\n  html body #header-group[data-kith-sticky-state=\"parked\"]",
+      "declarations": "--tsa-header-opacity: 0.95;"
+    },
+    {
+      "source": "https://topshelfaquatics.com/",
+      "selector": "html body #header-group,\n    html body #header-group[data-kith-sticky-state]",
+      "declarations": "position: fixed !important;\n      inset: 0 0 auto 0 !important;\n      width: 100% !important;\n      transform: none !important;\n      transition: none !important;\n      will-change: auto !important;\n      --tsa-header-opacity: 1;\n      --tsa-ann-opacity: 1;"
+    },
+    {
+      "source": "https://topshelfaquatics.com/",
+      "selector": ":root",
+      "declarations": "--header-height:64px"
+    },
+    {
+      "source": "https://topshelfaquatics.com/",
+      "selector": ":root",
+      "declarations": "--kith-drawer-top:72px;--kith-drawer-content-padding-top:2.75rem;--kith-drawer-content-padding-right:2rem;--kith-drawer-content-padding-bottom:0;--kith-drawer-content-padding-left:2rem;--kith-subdrawer-content-padding-top:1.75rem;--kith-menu-drawer-surface:linear-gradient(120deg, rgba(255,255,255,0.62) 60%, rgba(240,240,255,0.65) 100%);--kith-menu-drawer-backdrop:blur(40px) saturate(1.3);--kith-menu-drawer-shadow:6px 8px 8px rgba(0,0,0,0.28)"
+    },
+    {
+      "source": "https://topshelfaquatics.com/",
+      "selector": ".kith-menu-account .account-button",
+      "declarations": "display:flex;align-items:center;justify-content:center;min-width:var(--button-size);min-height:var(--button-size);color:#fff!important"
+    },
+    {
+      "source": "https://topshelfaquatics.com/",
+      "selector": ".kith-menu-account .account-button__icon",
+      "declarations": "display:inline-flex;align-items:center;justify-content:center;color:currentColor!important"
+    },
+    {
+      "source": "https://topshelfaquatics.com/",
+      "selector": ".kith-menu-cart .header-actions__action",
+      "declarations": "cursor:pointer;display:flex;justify-content:center;align-items:center;color:#fff"
+    },
+    {
+      "source": "https://topshelfaquatics.com/",
+      "selector": ".kith-header-component .page-width .kith-menu-header-row--centered.desktop-only",
+      "declarations": "--kith-header-fit:calc((100vw - 901px) / 379);--logo-margin-right:calc(16px + 8 * var(--kith-header-fit));--kith-header-action-gap:calc(8px + 8 * var(--kith-header-fit));padding-left:calc(24px + 24 * var(--kith-header-fit))!important;padding-right:calc(24px + 24 * var(--kith-header-fit))!important"
+    },
+    {
+      "source": "https://topshelfaquatics.com/",
+      "selector": ":root",
+      "declarations": "--normal-content-width:56rem;--narrow-content-width:56rem;--topshelf-blog-content-width:64rem;--topshelf-blog-hero-width:78rem;"
+    },
+    {
+      "source": "https://topshelfaquatics.com/",
+      "selector": "body #header-group .announcement-bar,\n  body #header-group .announcement-bar[class*='color-scheme']",
+      "declarations": "background: linear-gradient(90deg, rgba(5, 37, 78, 0.30) 0%, rgba(5, 37, 78, 0.16) 50%, rgba(5, 37, 78, 0.30) 100%) !important;\n    background-color: transparent !important;\n    color: #ffffff !important;\n    position: relative !important;\n    border: 0 !important;\n    box-shadow: 0 1px 0 rgba(0, 8, 20, 0.30) !important;"
+    },
+    {
+      "source": "https://topshelfaquatics.com/",
+      "selector": "ader-group .announcement-bar__text *,\n  body #header-group .announcement-bar__slide,\n  body #header-group .announcement-bar__slide *,\n  body #header-group .anno",
+      "declarations": "color: #ffffff !important;\n    text-shadow: none !important;"
+    },
+    {
+      "source": "https://topshelfaquatics.com/",
+      "selector": "body .topshelf-dollar-off-badge,\n  body .product-badges .product-badges__badge:not(.topshelf-soldout-badge)",
+      "declarations": "border-color: #d99b08 !important;\n    background: linear-gradient(115deg, rgba(255, 255, 255, 0.20) 0%, rgba(255, 255, 255, 0) 20%, rgba(255, 255, 255, 0) 80%, rgba(255, 244, 210, 0.14) 100%), linear-gradient(120deg, #9b6500 0%, #d99400 22%, #ffc63b 50%, #e9a915 76%, #b77800 100%) !important;\n    color: #001935 !important;\n    box-shadow:\n      inset 0 1px 0 rgba(255, 248, 220, 0.42),\n      inset 0 -1px 0 rgba(92, 55, 0, 0.55),\n      0 2px 10px rgba(138, 88, 0, 0.28) !important;"
+    },
+    {
+      "source": "https://topshelfaquatics.com/",
+      "selector": "body .product-badges .product-badges__badge.topshelf-soldout-badge",
+      "declarations": "border-color: #b9c0cb !important;\n    background: linear-gradient(180deg, #9aa3b1 0%, #7c8593 100%) !important;\n    color: #ffffff !important;\n    box-shadow:\n      inset 0 1px 0 rgba(255, 255, 255, 0.28),\n      inset 0 -1px 0 rgba(40, 46, 56, 0.4),\n      0 2px 10px rgba(40, 46, 56, 0.18) !important;"
+    },
+    {
+      "source": "https://topshelfaquatics.com/",
+      "selector": "body .product-badges .product-badges__badge.topshelf-soldout-badge",
+      "declarations": "border-color: rgba(255, 255, 255, 0.5) !important;\n      background: linear-gradient(180deg, rgba(146, 156, 172, 0.84) 0%, rgba(104, 114, 128, 0.85) 45%, rgba(56, 66, 78, 0.86) 100%) !important;\n      color: #ffffff !important;\n      box-shadow:\n        inset 0 0 0 1px rgba(6, 12, 20, 0.34),\n        0 2px 10px rgba(0, 10, 25, 0.3) !important;"
+    },
+    {
+      "source": "https://topshelfaquatics.com/",
+      "selector": "xVERx .account-button, #shopify-section-sections--28254650695978__kith_menu_drawer_BxVERx .header-actions__cart-icon, #shopify-section-sections--28254650695978_",
+      "declarations": "color: #fff;"
+    },
+    {
+      "source": "https://topshelfaquatics.com/",
+      "selector": "#shopify-section-sections--28254650695978__kith_menu_drawer_BxVERx .header-actions__action",
+      "declarations": "color: #fff;"
+    },
+    {
+      "source": "https://topshelfaquatics.com/",
+      "selector": ".bento-card__content :is(h1, h2, h3, .h1, .h2, .h3)",
+      "declarations": "color: var(--bento-heading-color, inherit);\n  text-shadow: var(--bento-heading-shadow, none);\n  line-height: 1.1; margin: 0 !important; padding: 0 !important;\n  font-size: var(--bento-heading-fs-desktop, inherit) !important;"
+    },
+    {
+      "source": "https://topshelfaquatics.com/",
+      "selector": ".bento-card__buttons a",
+      "declarations": "display: inline-flex; align-items: center; justify-content: center;\n  gap: 9px;\n  width: auto; min-width: 0;\n  height: 40px; min-height: 40px;\n  padding: 0 8px 0 16px;\n  border: 1px solid rgba(255, 255, 255, 0.30) !important;\n  border-radius: 999px !important;\n  background-color: rgba(26, 102, 210, 0.42) !important;\n  background-image:\n    linear-gradient(150deg, rgba(255,255,255,0.30) 0%, rgba(255,255,255,0.06) 42%, rgba(255,255,255,0) 72%),\n    linear-gradient(180deg, rgba(26,102,210,0.72) 0%, rgba(26,102,210,0.50) 100%) !important;\n  -webkit-backdrop-filter: blur(12px) saturate(265%) brightness(1.08);\n  backdrop-filter: blur(12px) saturate(265%) brightness(1.08);\n  color: #ffffff !importa"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Top Shelf Aquatics - Live Corals, Aquariums Supplies and more",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://topshelfaquatics.com/",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://topshelfaquatics.com/",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://topshelfaquatics.com/",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759",
+        "https://topshelfaquatics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://topshelfaquatics.com/cdn/shop/t/216/compiled_assets/styles.css?v=70724087590035499231790520238&subset=AAAAAAAgAACAAAABAAAAAAAAAAAAAAAAQAJ476AgiAAAYESPUWmqCSAXAAIAAAQAAGg",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://topshelfaquatics.com/",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759",
+        "https://topshelfaquatics.com/cdn/shop/t/216/compiled_assets/styles.css?v=70724087590035499231790520238&subset=AAAAAAAgAACAAAABAAAAAAAAAAAAAAAAQAJ476AgiAAAYESPUWmqCSAXAAIAAAQAAGg"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://topshelfaquatics.com/",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://topshelfaquatics.com/",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759",
+        "https://topshelfaquatics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://topshelfaquatics.com/cdn/shop/t/216/compiled_assets/styles.css?v=70724087590035499231790520238&subset=AAAAAAAgAACAAAABAAAAAAAAAAAAAAAAQAJ476AgiAAAYESPUWmqCSAXAAIAAAQAAGg",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://topshelfaquatics.com/",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759",
+        "https://topshelfaquatics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://topshelfaquatics.com/cdn/shop/t/216/compiled_assets/styles.css?v=70724087590035499231790520238&subset=AAAAAAAgAACAAAABAAAAAAAAAAAAAAAAQAJ476AgiAAAYESPUWmqCSAXAAIAAAQAAGg",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://topshelfaquatics.com/",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "colors.accent-blue-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/compiled_assets/styles.css?v=70724087590035499231790520238&subset=AAAAAAAgAACAAAABAAAAAAAAAAAAAAAAQAJ476AgiAAAYESPUWmqCSAXAAIAAAQAAGg"
+      ]
+    },
+    "colors.accent-orange": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://topshelfaquatics.com/",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "colors.accent-orange-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://topshelfaquatics.com/",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "colors.accent-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "colors.accent-red-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "colors.surface-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://topshelfaquatics.com/",
+        "https://topshelfaquatics.com/cdn/shop/t/216/compiled_assets/styles.css?v=70724087590035499231790520238&subset=AAAAAAAgAACAAAABAAAAAAAAAAAAAAAAQAJ476AgiAAAYESPUWmqCSAXAAIAAAQAAGg"
+      ]
+    },
+    "colors.border-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://topshelfaquatics.com/",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759"
+      ]
+    },
+    "colors.overlay-navy": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/menu-drawer-kith.css?v=99884699345438228391790181759",
+        "https://topshelfaquatics.com/cdn/shop/t/216/assets/topshelf-custom.css?v=138918163385905530041790520401"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.wysiwyg-tag": {
+      "status": "inferred"
+    }
+  }
+}

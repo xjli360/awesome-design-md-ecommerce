@@ -1,0 +1,712 @@
+{
+  "source_url": "https://tinycottons.com",
+  "final_url": "https://tinycottons.com/en-es",
+  "captured_at": "2026-09-28T04:53:17.691435+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://tinycottons.com",
+      "final_url": "https://tinycottons.com/en-es",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "d6bc650cd8d98c4c0383eb90575de3bfb3dde0e01cc14a5d699c9ac25a5d9018",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://tinycottons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://tinycottons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://tinycottons.com/cdn/shop/t/21/assets/theme.css?v=115502476034181367471788964884",
+      "final_url": "https://tinycottons.com/cdn/shop/t/21/assets/theme.css?v=115502476034181367471788964884",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3fb0f2366ba6306ce58fc239db9f7723303085eec57e78172fa97d32116504b2",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://tinycottons.com/cdn/shop/t/21/assets/rkn-customization.css?v=49870211442333966711788963007",
+      "final_url": "https://tinycottons.com/cdn/shop/t/21/assets/rkn-customization.css?v=49870211442333966711788963007",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e1b260fa638fdee08cd18e10ec2debf1b77a56522ab3af3e310fbd53c2b94cc7",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0cd67-adbf-77ce-bae2-bf30c6c3b0bd/orbe-geolocation-502/assets/md-app-modal.min.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0cd67-adbf-77ce-bae2-bf30c6c3b0bd/orbe-geolocation-502/assets/md-app-modal.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ceaca55f3e3ec5e85f8dc466fd8a5cdad6d8e168a5dd0430e1d82af002cb4510",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0de28-b790-7678-b243-781684c1c577/essential-post-purchase-upsell-1718/assets/stylex-BbwzPrER.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0de28-b790-7678-b243-781684c1c577/essential-post-purchase-upsell-1718/assets/stylex-BbwzPrER.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "24b8e5095640d77e2ee65c515b8c4df4c4cd78cd6411131e56715eaf3991b349",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 35,
+      "sources": [
+        "https://tinycottons.com/en-es",
+        "https://tinycottons.com/cdn/shop/t/21/assets/theme.css?v=115502476034181367471788964884",
+        "https://tinycottons.com/cdn/shop/t/21/assets/rkn-customization.css?v=49870211442333966711788963007",
+        "https://cdn.shopify.com/extensions/01a0cd67-adbf-77ce-bae2-bf30c6c3b0bd/orbe-geolocation-502/assets/md-app-modal.min.css",
+        "https://cdn.shopify.com/extensions/01a0de28-b790-7678-b243-781684c1c577/essential-post-purchase-upsell-1718/assets/stylex-BbwzPrER.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 21,
+      "sources": [
+        "https://tinycottons.com/en-es",
+        "https://tinycottons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://tinycottons.com/cdn/shop/t/21/assets/theme.css?v=115502476034181367471788964884",
+        "https://cdn.shopify.com/extensions/01a0cd67-adbf-77ce-bae2-bf30c6c3b0bd/orbe-geolocation-502/assets/md-app-modal.min.css",
+        "https://cdn.shopify.com/extensions/01a0de28-b790-7678-b243-781684c1c577/essential-post-purchase-upsell-1718/assets/stylex-BbwzPrER.css"
+      ]
+    },
+    "#00000000": {
+      "count": 13,
+      "sources": [
+        "https://tinycottons.com/en-es",
+        "https://tinycottons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://tinycottons.com/cdn/shop/t/21/assets/theme.css?v=115502476034181367471788964884"
+      ]
+    },
+    "#fff5cd": {
+      "count": 4,
+      "sources": [
+        "https://tinycottons.com/en-es"
+      ]
+    },
+    "#0000000d": {
+      "count": 3,
+      "sources": [
+        "https://tinycottons.com/cdn/shop/t/21/assets/theme.css?v=115502476034181367471788964884",
+        "https://cdn.shopify.com/extensions/01a0de28-b790-7678-b243-781684c1c577/essential-post-purchase-upsell-1718/assets/stylex-BbwzPrER.css"
+      ]
+    },
+    "#e3e3e3": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0de28-b790-7678-b243-781684c1c577/essential-post-purchase-upsell-1718/assets/stylex-BbwzPrER.css"
+      ]
+    },
+    "#0066cc": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0de28-b790-7678-b243-781684c1c577/essential-post-purchase-upsell-1718/assets/stylex-BbwzPrER.css"
+      ]
+    },
+    "#5c5f62": {
+      "count": 2,
+      "sources": [
+        "https://tinycottons.com/en-es",
+        "https://cdn.shopify.com/extensions/01a0cd67-adbf-77ce-bae2-bf30c6c3b0bd/orbe-geolocation-502/assets/md-app-modal.min.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://tinycottons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#030303": {
+      "count": 2,
+      "sources": [
+        "https://tinycottons.com/cdn/shop/t/21/assets/theme.css?v=115502476034181367471788964884",
+        "https://tinycottons.com/cdn/shop/t/21/assets/rkn-customization.css?v=49870211442333966711788963007"
+      ]
+    },
+    "#202223": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cd67-adbf-77ce-bae2-bf30c6c3b0bd/orbe-geolocation-502/assets/md-app-modal.min.css",
+        "https://cdn.shopify.com/extensions/01a0de28-b790-7678-b243-781684c1c577/essential-post-purchase-upsell-1718/assets/stylex-BbwzPrER.css"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 1,
+      "sources": [
+        "https://tinycottons.com/en-es"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://tinycottons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://tinycottons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://tinycottons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://tinycottons.com/cdn/shop/t/21/assets/theme.css?v=115502476034181367471788964884"
+      ]
+    },
+    "#3636364d": {
+      "count": 1,
+      "sources": [
+        "https://tinycottons.com/cdn/shop/t/21/assets/theme.css?v=115502476034181367471788964884"
+      ]
+    },
+    "#00000066": {
+      "count": 1,
+      "sources": [
+        "https://tinycottons.com/cdn/shop/t/21/assets/theme.css?v=115502476034181367471788964884"
+      ]
+    },
+    "#efefef": {
+      "count": 1,
+      "sources": [
+        "https://tinycottons.com/cdn/shop/t/21/assets/theme.css?v=115502476034181367471788964884"
+      ]
+    },
+    "#efece9": {
+      "count": 1,
+      "sources": [
+        "https://tinycottons.com/cdn/shop/t/21/assets/rkn-customization.css?v=49870211442333966711788963007"
+      ]
+    },
+    "#585858": {
+      "count": 1,
+      "sources": [
+        "https://tinycottons.com/cdn/shop/t/21/assets/rkn-customization.css?v=49870211442333966711788963007"
+      ]
+    },
+    "#23f444": {
+      "count": 1,
+      "sources": [
+        "https://tinycottons.com/cdn/shop/t/21/assets/rkn-customization.css?v=49870211442333966711788963007"
+      ]
+    },
+    "#030303cc": {
+      "count": 1,
+      "sources": [
+        "https://tinycottons.com/cdn/shop/t/21/assets/rkn-customization.css?v=49870211442333966711788963007"
+      ]
+    },
+    "#babfc3": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cd67-adbf-77ce-bae2-bf30c6c3b0bd/orbe-geolocation-502/assets/md-app-modal.min.css"
+      ]
+    },
+    "#c9cccf": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cd67-adbf-77ce-bae2-bf30c6c3b0bd/orbe-geolocation-502/assets/md-app-modal.min.css"
+      ]
+    },
+    "#babfc4": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cd67-adbf-77ce-bae2-bf30c6c3b0bd/orbe-geolocation-502/assets/md-app-modal.min.css"
+      ]
+    },
+    "#f6f6f7": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cd67-adbf-77ce-bae2-bf30c6c3b0bd/orbe-geolocation-502/assets/md-app-modal.min.css"
+      ]
+    },
+    "#f1f2f3": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cd67-adbf-77ce-bae2-bf30c6c3b0bd/orbe-geolocation-502/assets/md-app-modal.min.css"
+      ]
+    },
+    "#008060": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cd67-adbf-77ce-bae2-bf30c6c3b0bd/orbe-geolocation-502/assets/md-app-modal.min.css"
+      ]
+    },
+    "#212529": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cd67-adbf-77ce-bae2-bf30c6c3b0bd/orbe-geolocation-502/assets/md-app-modal.min.css"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0de28-b790-7678-b243-781684c1c577/essential-post-purchase-upsell-1718/assets/stylex-BbwzPrER.css"
+      ]
+    },
+    "#0000000f": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0de28-b790-7678-b243-781684c1c577/essential-post-purchase-upsell-1718/assets/stylex-BbwzPrER.css"
+      ]
+    },
+    "#00000080": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0de28-b790-7678-b243-781684c1c577/essential-post-purchase-upsell-1718/assets/stylex-BbwzPrER.css"
+      ]
+    },
+    "#0000001f": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0de28-b790-7678-b243-781684c1c577/essential-post-purchase-upsell-1718/assets/stylex-BbwzPrER.css"
+      ]
+    },
+    "#616161": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0de28-b790-7678-b243-781684c1c577/essential-post-purchase-upsell-1718/assets/stylex-BbwzPrER.css"
+      ]
+    },
+    "#6b7280": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0de28-b790-7678-b243-781684c1c577/essential-post-purchase-upsell-1718/assets/stylex-BbwzPrER.css"
+      ]
+    },
+    "#6d7175": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0de28-b790-7678-b243-781684c1c577/essential-post-purchase-upsell-1718/assets/stylex-BbwzPrER.css"
+      ]
+    },
+    "#d72c0d": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0de28-b790-7678-b243-781684c1c577/essential-post-purchase-upsell-1718/assets/stylex-BbwzPrER.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Consolas": [
+      "https://tinycottons.com/cdn/shop/t/21/assets/theme.css?v=115502476034181367471788964884"
+    ],
+    "Courier New": [
+      "https://tinycottons.com/cdn/shop/t/21/assets/theme.css?v=115502476034181367471788964884"
+    ],
+    "DM Sans": [
+      "https://tinycottons.com/en-es"
+    ],
+    "Liberation Mono": [
+      "https://tinycottons.com/cdn/shop/t/21/assets/theme.css?v=115502476034181367471788964884"
+    ],
+    "Menlo": [
+      "https://tinycottons.com/cdn/shop/t/21/assets/theme.css?v=115502476034181367471788964884"
+    ],
+    "Monaco": [
+      "https://tinycottons.com/cdn/shop/t/21/assets/theme.css?v=115502476034181367471788964884"
+    ],
+    "Mulish": [
+      "https://tinycottons.com/cdn/shop/t/21/assets/rkn-customization.css?v=49870211442333966711788963007"
+    ],
+    "SFMono-Regular": [
+      "https://tinycottons.com/cdn/shop/t/21/assets/theme.css?v=115502476034181367471788964884"
+    ],
+    "monospace": [
+      "https://tinycottons.com/cdn/shop/t/21/assets/theme.css?v=115502476034181367471788964884"
+    ],
+    "sans-serif": [
+      "https://tinycottons.com/en-es",
+      "https://tinycottons.com/cdn/shop/t/21/assets/rkn-customization.css?v=49870211442333966711788963007"
+    ],
+    "ui-monospace": [
+      "https://tinycottons.com/cdn/shop/t/21/assets/theme.css?v=115502476034181367471788964884"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://tinycottons.com/en-es",
+      "selector": "[dir=\"rtl\"]:root",
+      "declarations": "--transform-logical-flip: -1;\n    --transform-origin-start: right;\n    --transform-origin-end: left;"
+    },
+    {
+      "source": "https://tinycottons.com/en-es",
+      "selector": ":root",
+      "declarations": "--text-xs: 0.6875rem;\n      --text-sm: 0.75rem;\n      --text-base: 0.75rem;\n      --text-lg: 0.875rem;\n      --text-xl: 1.125rem;\n\n      \n      --container-gutter: 2rem;"
+    },
+    {
+      "source": "https://tinycottons.com/en-es",
+      "selector": ":root",
+      "declarations": "--container-gutter: 3rem;\n\n      --section-vertical-spacing: 4rem;\n      --section-vertical-spacing-tight: 4rem;\n\n      --section-stack-gap:3rem;\n      --section-stack-gap-tight:3rem;"
+    },
+    {
+      "source": "https://tinycottons.com/en-es",
+      "selector": ":root",
+      "declarations": "--page-overlay: 0 0 0 / 0.4;\n\n    \n    --page-background: ;\n\n    \n    --on-sale-text: 31 31 31;\n    --on-sale-badge-background: 31 31 31;\n    --on-sale-badge-text: 255 255 255;\n    --sold-out-badge-background: 239 239 239;\n    --sold-out-badge-text: 0 0 0 / 0.65;\n    --custom-badge-background: 3 3 3;\n    --custom-badge-text: 255 255 255;\n    --star-color: 3 3 3;\n\n    \n    --success-background: 212 227 203;\n    --success-text: 48 122 7;\n    --warning-background: 253 241 224;\n    --warning-text: 237 138 0;\n    --error-background: 243 204 204;\n    --error-text: 203 43 43;\n\n    \n    --modal-scheme-background: 255 255 255;\n    --modal-scheme-background-gradient: ;\n    --modal-scheme-text-color: 3"
+    },
+    {
+      "source": "https://tinycottons.com/en-es",
+      "selector": "display: contents\ndisplay: contents\ndisplay: contents\nposition: absolute; width: 1px; height: 1px; top: var(--header-scroll-tracker-offset, 10px); left: 0;\n\n   ",
+      "declarations": "--announcement-bar-is-sticky: 0;--header-scroll-tracker-offset: var(--announcement-bar-height);"
+    },
+    {
+      "source": "https://tinycottons.com/en-es",
+      "selector": ":root",
+      "declarations": "--header-is-sticky: 1;"
+    },
+    {
+      "source": "https://tinycottons.com/en-es",
+      "selector": "#shopify-section-sections--26925122781520__header",
+      "declarations": "--header-grid: \"primary-nav logo secondary-nav\" / minmax(0, 1fr) auto minmax(0, 1fr);\n    --header-padding-block: 1rem;\n    --header-transparent-header-text-color: 255 255 255;\n    --header-separation-border-color: 3 3 3 / 0.15;\n\n    position: relative;\n    z-index: 4;"
+    },
+    {
+      "source": "https://tinycottons.com/en-es",
+      "selector": "#shopify-section-sections--26925122781520__header",
+      "declarations": "--header-padding-block: 1.2rem;"
+    },
+    {
+      "source": "https://tinycottons.com/en-es",
+      "selector": "#shopify-section-sections--26925122781520__header",
+      "declarations": "--header-grid: \"logo primary-nav secondary-nav\" / auto minmax(0, 1fr) auto;"
+    },
+    {
+      "source": "https://tinycottons.com/en-es",
+      "selector": "#shopify-section-sections--26925122781520__header",
+      "declarations": "--header-logo-width: 75px;"
+    },
+    {
+      "source": "https://tinycottons.com/en-es",
+      "selector": "#shopify-section-sections--26925122781520__header",
+      "declarations": "--header-logo-width: 120px;"
+    },
+    {
+      "source": "https://tinycottons.com/en-es",
+      "selector": "#md-app-embed__modal .md-modal__header__title span, #md-app-embed__modal .md-modal__header__title h2",
+      "declarations": "color: #000000 !important;\n        line-height: 1.75em;"
+    },
+    {
+      "source": "https://tinycottons.com/en-es",
+      "selector": "#md-app-embed__modal .md-modal__bodyContent p",
+      "declarations": "color: #000000 !important;"
+    },
+    {
+      "source": "https://tinycottons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://tinycottons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://tinycottons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://tinycottons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://tinycottons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://tinycottons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://tinycottons.com/cdn/shop/t/21/assets/theme.css?v=115502476034181367471788964884",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;font-weight:inherit;font-style:inherit;line-height:inherit;text-transform:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://tinycottons.com/cdn/shop/t/21/assets/theme.css?v=115502476034181367471788964884",
+      "selector": "button,[type=button],[type=reset],[type=submit]",
+      "declarations": "-webkit-appearance:button;background-color:#0000;background-image:none"
+    },
+    {
+      "source": "https://tinycottons.com/cdn/shop/t/21/assets/theme.css?v=115502476034181367471788964884",
+      "selector": "button,label,summary,[role=button],[type=checkbox],[type=radio]",
+      "declarations": "-webkit-tap-highlight-color:transparent;touch-action:manipulation;cursor:pointer"
+    },
+    {
+      "source": "https://tinycottons.com/cdn/shop/t/21/assets/theme.css?v=115502476034181367471788964884",
+      "selector": ".color-scheme--with-image-overlay .button--outline",
+      "declarations": "--border-color: var(--text-color)"
+    },
+    {
+      "source": "https://tinycottons.com/cdn/shop/t/21/assets/theme.css?v=115502476034181367471788964884",
+      "selector": ".button,.shopify-challenge__button,.shopify-payment-button__button--unbranded",
+      "declarations": "--initial-gradient: linear-gradient(rgb(var(--button-background)), rgb(var(--button-background)));--hover-gradient: linear-gradient(transparent, transparent);--initial-background-position: var(--transform-origin-end);--hover-background-position: var(--transform-origin-start);-webkit-appearance:none;appearance:none;text-transform:var(--button-text-transform);font:var(--button-font);letter-spacing:var(--button-letter-spacing);text-shadow:none;text-align:center;cursor:pointer;color:rgb(var(--button-text-color));border:1px solid rgb(var(--button-outline-color, var(--button-background)));border-radius:var(--button-border-radius);background-color:#0000;background-image:var(--initial-gradient),var("
+    },
+    {
+      "source": "https://tinycottons.com/cdn/shop/t/21/assets/theme.css?v=115502476034181367471788964884",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "border:1px solid rgb(var(--button-outline-color, var(--button-background)))!important;border-radius:var(--button-border-radius)!important;background-color:#0000!important;transition:background-size .45s cubic-bezier(.785,.135,.15,.86),background-position .45s step-end,color .45s cubic-bezier(.785,.135,.15,.86),border .45s cubic-bezier(.785,.135,.15,.86)!important"
+    },
+    {
+      "source": "https://tinycottons.com/cdn/shop/t/21/assets/theme.css?v=115502476034181367471788964884",
+      "selector": ".shopify-payment-button__button--unbranded:not(:hover)",
+      "declarations": "color:rgb(var(--button-text-color))!important"
+    },
+    {
+      "source": "https://tinycottons.com/cdn/shop/t/21/assets/theme.css?v=115502476034181367471788964884",
+      "selector": ".button--outline",
+      "declarations": "--initial-gradient: linear-gradient(transparent, transparent);--hover-gradient: linear-gradient(rgb(var(--button-background)), rgb(var(--button-background)));--initial-background-position: var(--transform-origin-start);--hover-background-position: var(--transform-origin-end);color:rgb(var(--button-background, var(--text-color)));border-color:rgb(var(--button-outline-color, var(--border-color)))"
+    },
+    {
+      "source": "https://tinycottons.com/cdn/shop/t/21/assets/theme.css?v=115502476034181367471788964884",
+      "selector": ".button--subdued.button--outline",
+      "declarations": "color:rgb(var(--button-background) / .65);border-color:rgb(var(--border-color))"
+    },
+    {
+      "source": "https://tinycottons.com/cdn/shop/t/21/assets/theme.css?v=115502476034181367471788964884",
+      "selector": ".features--button-transition :is(.button,.shopify-challenge__button,.shopify-payment-button__button--unbranded):not([disabled]):hover",
+      "declarations": "color:rgb(var(--button-background));background-position:var(--hover-background-position);border-color:rgb(var(--button-background));background-size:0 101%,101% 101%"
+    },
+    {
+      "source": "https://tinycottons.com/cdn/shop/t/21/assets/theme.css?v=115502476034181367471788964884",
+      "selector": ".features--button-transition .shopify-payment-button__button--unbranded:not([disabled]):hover",
+      "declarations": "background-color:#0000"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "TINYCOTTONS",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tinycottons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tinycottons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tinycottons.com/cdn/shop/t/21/assets/theme.css?v=115502476034181367471788964884",
+        "https://tinycottons.com/cdn/shop/t/21/assets/rkn-customization.css?v=49870211442333966711788963007"
+      ]
+    },
+    "colors.ink-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tinycottons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tinycottons.com/en-es",
+        "https://tinycottons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://tinycottons.com/cdn/shop/t/21/assets/theme.css?v=115502476034181367471788964884",
+        "https://cdn.shopify.com/extensions/01a0cd67-adbf-77ce-bae2-bf30c6c3b0bd/orbe-geolocation-502/assets/md-app-modal.min.css",
+        "https://cdn.shopify.com/extensions/01a0de28-b790-7678-b243-781684c1c577/essential-post-purchase-upsell-1718/assets/stylex-BbwzPrER.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cd67-adbf-77ce-bae2-bf30c6c3b0bd/orbe-geolocation-502/assets/md-app-modal.min.css",
+        "https://cdn.shopify.com/extensions/01a0de28-b790-7678-b243-781684c1c577/essential-post-purchase-upsell-1718/assets/stylex-BbwzPrER.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0de28-b790-7678-b243-781684c1c577/essential-post-purchase-upsell-1718/assets/stylex-BbwzPrER.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tinycottons.com/en-es"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cd67-adbf-77ce-bae2-bf30c6c3b0bd/orbe-geolocation-502/assets/md-app-modal.min.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cd67-adbf-77ce-bae2-bf30c6c3b0bd/orbe-geolocation-502/assets/md-app-modal.min.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tinycottons.com/en-es",
+        "https://tinycottons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://tinycottons.com/cdn/shop/t/21/assets/theme.css?v=115502476034181367471788964884",
+        "https://cdn.shopify.com/extensions/01a0cd67-adbf-77ce-bae2-bf30c6c3b0bd/orbe-geolocation-502/assets/md-app-modal.min.css",
+        "https://cdn.shopify.com/extensions/01a0de28-b790-7678-b243-781684c1c577/essential-post-purchase-upsell-1718/assets/stylex-BbwzPrER.css"
+      ]
+    },
+    "colors.accent-cream": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tinycottons.com/en-es"
+      ]
+    },
+    "colors.error": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0de28-b790-7678-b243-781684c1c577/essential-post-purchase-upsell-1718/assets/stylex-BbwzPrER.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cd67-adbf-77ce-bae2-bf30c6c3b0bd/orbe-geolocation-502/assets/md-app-modal.min.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search-overlay": {
+      "status": "inferred"
+    },
+    "components.age-size-filter-chip": {
+      "status": "inferred"
+    }
+  }
+}

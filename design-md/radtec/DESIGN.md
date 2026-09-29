@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Radtec
-description: |
+name: "Radtec"
+source_url: "https://www.radtec.net"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Electric yellow (#ffff00) against deep ocean blue (#02537e) — the palette reads like a gas flame against twilight, and that deliberate thermal tension runs through the entire Radtec system. The primary blue anchors navigation, hero overlays, and footer backgrounds with the solidity of powder-coated steel, while the yellow fires every CTA, sale badge, and hover state with the urgency of infrared heat. Typography pairs Montserrat for headings (weight 700, tight letter-spacing, all-caps on category labels) with Roboto for body copy at comfortable 16px/1.6 — a workmanlike stack that loads fast and renders cleanly on product spec tables dense with BTU ratings and clearance dimensions. Corners are kept tight: buttons sit at `{rounded.xs}` (4px), cards at `{rounded.sm}` (8px), and only promotional badges push to `{rounded.full}` pill shapes. Spacing is generous vertically — hero sections breathe at 80–120px padding — but the horizontal grid compresses to a dense 3-up or 4-up product layout where thumbnail-heavy cards show burners, reflectors, and patio setups without wasted gutter. The nav bar runs a solid `{colors.primary}` band across the top with white wordmark and yellow accent on hover, giving the site the feel of industrial equipment branding rather than lifestyle retail. Product cards carry a subtle 1px `{colors.hairline}` border on white backgrounds, letting photography (stainless cylinders, glowing glass tubes, flame mushroom tops) do the selling. Footer stacks dense link columns on the same deep blue canvas, reinforcing brand recognition bookend-style. The overall system trusts bold color contrast and clean geometry over texture or illustration — every surface is flat, every shadow functional rather than decorative.
 
 colors:
@@ -427,6 +430,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only two colors extracted (#02537e, #ffff00); additional neutrals, grays, and status colors are inferred from standard patterns rather than measured from live CSS
 - No CSS custom properties or design-token JSON could be retrieved — site may load styles via JavaScript bundles or server-rendered inline styles

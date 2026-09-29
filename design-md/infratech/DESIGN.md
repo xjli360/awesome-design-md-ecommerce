@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Infratech
-description: >
+name: "Infratech"
+source_url: "https://www.infratech-usa.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   A brushed stainless-steel housing, six feet long and barely two inches deep, glowing ember-orange at 1,600 watts — that image drives every pixel of Infratech's digital system. The brand's signature red (#ef4034) appears on primary CTAs, mobile menu triggers, and promotional ribbons with the same insistent warmth as an infrared element at full output, while a secondary heat-orange (#e85600) handles urgency states, sale flags, and hover shifts that push the palette even hotter. The canvas runs cool by contrast: a near-white #f7f8f9 base, layered with steel-toned grays (#bcc3ce, #dadee4, #eef0f3) that echo the brushed-aluminum finishes and powder-coated housings the products ship in. Navigation sits in a deep slate shell (#1e242b over #303742) that frames product photography the way an architectural soffit frames a flush-mount installation — dark, recessive, purpose-built. Gotham carries the typographic load in two registered weights: Gotham Bold for headlines, navigation, and button labels; Gotham Medium for body copy, spec tables, and supporting text. The geometric, square-shouldered letterforms lend wattage ratings and dimensional callouts the same precision as the stainless-steel casings they describe. Bodoni W01 enters sparingly at display scale — its high-contrast serifs signal the hospitality and architect-specified residential market Infratech occupies, separating the brand from hardware-store seasonal inventory. Warm accent tones thread through secondary surfaces: #ffb700 amber for energy-efficiency callouts, #fcc141 gold for warranty badges and premium product tiers, #baa682 desert tan and #c3b395 warm stone for lifestyle-section backgrounds that root outdoor living in natural materials. A cooler register — #3d7e94 teal for informational badges, #003388 deep blue for technical documentation links — balances the warmth with engineering credibility. Corners stay controlled at `{rounded.xs}` to `{rounded.sm}`, reinforcing manufactured precision over consumer softness. Buttons stand at 48px tall with `{rounded.xs}` edges and Gotham Bold uppercase tracking, built for a phone held poolside while the other hand adjusts a patio-heater bracket. Spacing is disciplined: `{spacing.lg}` between content blocks, `{spacing.section}` between page zones, creating measured negative space that lets hero photography of glowing heaters against twilight skies carry the selling.
 
 colors:
@@ -516,6 +519,8 @@ components:
 - Wattage selector wraps from a single row to a 2x2 grid on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact Gotham and Bodoni W01 font weights beyond Bold (700) and Medium (500) could not be confirmed from extraction — the site may use Book (400) or Light (300) weights in contexts not captured
 - Hover and focus states for product cards (shadow elevation, scale transform) were not reliably extracted

@@ -1,11 +1,15 @@
 ---
 version: alpha
-name: Kendra Scott
-description: The Color Bar — Kendra Scott's in-store ritual of choosing stones, metals, and settings — maps directly onto the digital surface system: soft lavender (#eddeff), blush peach (#ffe9cb), mint (#b5e5e1), and dusty mauve (#d9c3d2) cycle through section backgrounds the way gemstones swap between bezels. The canvas runs warm cream (#ede8e3) rather than clinical white, which makes the gem-toned pastels read as curated atmosphere rather than promotional noise. Deep plum (#4d3159) carries primary action weight — CTA buttons, the footer ground, active states — a saturated jewel-dark from which white type emerges with precision. The same plum that anchors the footer reverses the entire color system into a terminal jewel-box, lavender links glowing against the field.
+name: "Kendra Scott"
+source_url: "https://www.kendrascott.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The Color Bar — Kendra Scott's in-store ritual of choosing stones, metals, and settings — maps directly onto the digital surface system: soft lavender (#eddeff), blush peach (#ffe9cb), mint (#b5e5e1), and dusty mauve (#d9c3d2) cycle through section backgrounds the way gemstones swap between bezels. The canvas runs warm cream (#ede8e3) rather than clinical white, which makes the gem-toned pastels read as curated atmosphere rather than promotional noise. Deep plum (#4d3159) carries primary action weight — CTA buttons, the footer ground, active states — a saturated jewel-dark from which white type emerges with precision. The same plum that anchors the footer reverses the entire color system into a terminal jewel-box, lavender links glowing against the field.
 
-Typography runs two distinct voices. Cormorant, a high-contrast old-style serif, takes all display and editorial moments — collection names, hero headlines, campaign copy — at loose tracking and restrained weight, so the letter shapes function like engraved text on precious metal. Brandon Grotesque handles navigation, body, pricing, and buttons in tracked uppercase, offering legibility at small sizes without tipping into fashion-magazine obscurity. The proprietary KendraScott font holds the wordmark: a calligraphic signature that reads as personal rather than corporate.
+  Typography runs two distinct voices. Cormorant, a high-contrast old-style serif, takes all display and editorial moments — collection names, hero headlines, campaign copy — at loose tracking and restrained weight, so the letter shapes function like engraved text on precious metal. Brandon Grotesque handles navigation, body, pricing, and buttons in tracked uppercase, offering legibility at small sizes without tipping into fashion-magazine obscurity. The proprietary KendraScott font holds the wordmark: a calligraphic signature that reads as personal rather than corporate.
 
-Promotional voltage arrives in chromatic yellow (#f1e02b) on markdown and sale badges — bright enough to cut through warm cream without deploying red-alarm urgency. Free-shipping and loyalty-tier banners run deep navy (#192f5d), signaling institutional trust rather than emotional pressure. Component corners stay nearly sharp ({rounded.none} on buttons, {rounded.xs} at most on small badges) — the precision of fine metalwork rather than consumer apparel softness. Four tinted surface zones — peach (#fce5d4), warm cream (#ffe9cb), lavender (#eddeff), mint (#b5e5e1) — tile the homepage in interchangeable panels that mirror the gem-swatch logic of the physical Color Bar experience.
+  Promotional voltage arrives in chromatic yellow (#f1e02b) on markdown and sale badges — bright enough to cut through warm cream without deploying red-alarm urgency. Free-shipping and loyalty-tier banners run deep navy (#192f5d), signaling institutional trust rather than emotional pressure. Component corners stay nearly sharp ({rounded.none} on buttons, {rounded.xs} at most on small badges) — the precision of fine metalwork rather than consumer apparel softness. Four tinted surface zones — peach (#fce5d4), warm cream (#ffe9cb), lavender (#eddeff), mint (#b5e5e1) — tile the homepage in interchangeable panels that mirror the gem-swatch logic of the physical Color Bar experience.
 
 colors:
   primary: "#4d3159"
@@ -399,6 +403,8 @@ components:
 - Gem surface tiles: full-width stacked panels on mobile, multi-column grid on desktop
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - KendraScott custom font weight range and variable-font axes not confirmed; stroke contrast and stylistic alternates unknown
 - Exact button border-radius uncertain — site may apply 2–4px rather than fully sharp; {rounded.none} is a best estimate pending visual audit

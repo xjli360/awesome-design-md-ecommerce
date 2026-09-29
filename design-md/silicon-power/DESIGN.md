@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Silicon Power
-description: |
+name: "Silicon Power"
+source_url: "https://www.silicon-power.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Silicon Power's palette reads like a circuit board shot in low light: the page surface is built from a cascade of near-identical grays — #f1f1f1, #f4f4f4, #f7f7f7, #ebebeb — laid over dark #272626 and #1c1c1c near-blacks that anchor headers and full-bleed hero sections. Against all of that ash and charcoal, a single voltage element fires: #f14595, a saturated magenta-pink that runs every primary CTA, product badge, and section accent bar. The move is deliberate for a Taiwanese storage hardware manufacturer — SSDs, USB drives, DRAM, memory cards — that uses the charcoal foundation to signal engineering precision and reserves the pink for the action path only, the way a dark drive enclosure might carry a single LED status light.
 
   Nunito Sans handles all Latin text, a rounded geometric that sits between the stiffness of Helvetica-derived system fonts and the friendliness-at-any-cost of consumer rounded faces. Weights run 400 for body, 600 for titles, 700 for display and button labels. Noto Sans TC and Microsoft JhengHei (微軟正黑體) handle Traditional Chinese throughout, anchoring the brand's Asia-Pacific distribution identity — the font stack is bilingual by operational necessity, not decoration.
@@ -344,6 +347,8 @@ components:
 - Footer: 4-column grid → 2-column → single accordion (each section collapses independently)
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No meta theme-color extracted; mobile browser chrome color and PWA theming unknown
 - The warm off-white #f0eaea is assigned to product image backgrounds based on palette position; its actual DOM usage context (section background vs. image container vs. something else) is unconfirmed

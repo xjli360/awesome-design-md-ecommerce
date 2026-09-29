@@ -1,0 +1,807 @@
+{
+  "source_url": "https://kavee.com",
+  "final_url": "https://kavee.com/",
+  "captured_at": "2026-09-28T04:19:21.527068+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://kavee.com",
+      "final_url": "https://kavee.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "8960a1997499822f7632934918255160686fbcd7fc960557d057c5bc01b36c65",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://kavee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://kavee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://kavee.com/cdn/shop/t/145/assets/theme.css?v=124376558180843245511787569008",
+      "final_url": "https://kavee.com/cdn/shop/t/145/assets/theme.css?v=124376558180843245511787569008",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1951e80db67e1edcd72ce77619ecb97fdb105c9a5c5e3895224d56c5556626e7",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://kavee.com/cdn/shop/t/145/assets/custom.css?v=56552534040125631441787833605",
+      "final_url": "https://kavee.com/cdn/shop/t/145/assets/custom.css?v=56552534040125631441787833605",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3ae5880c37ccf3890fde6b55cf821189f7a3043cc505c8e525ef76763f2caa0c",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/019ddf98-0d13-797e-affa-36a8c7d15d5d/eu-cookie-bar-6/assets/nova-cookie.css",
+      "final_url": "https://cdn.shopify.com/extensions/019ddf98-0d13-797e-affa-36a8c7d15d5d/eu-cookie-bar-6/assets/nova-cookie.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4d59279ab3a6f306dc6b830d3bf6f84bbd986b7ae268a232ca57da595be65559",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://kavee.com/cdn/shop/t/145/assets/country-flags.css?v=112530858629026319511771603776",
+      "final_url": "https://kavee.com/cdn/shop/t/145/assets/country-flags.css?v=112530858629026319511771603776",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9e5ebb7fdacb95ea3bb40210fed93e2213e88971cf42dd13865fc4ad5e2427ef",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#232323": {
+      "count": 33,
+      "sources": [
+        "https://kavee.com/",
+        "https://kavee.com/cdn/shop/t/145/assets/custom.css?v=56552534040125631441787833605"
+      ]
+    },
+    "#737373": {
+      "count": 13,
+      "sources": [
+        "https://kavee.com/cdn/shop/t/145/assets/custom.css?v=56552534040125631441787833605"
+      ]
+    },
+    "#f8f5eb": {
+      "count": 12,
+      "sources": [
+        "https://kavee.com/",
+        "https://kavee.com/cdn/shop/t/145/assets/custom.css?v=56552534040125631441787833605"
+      ]
+    },
+    "#ffffff": {
+      "count": 11,
+      "sources": [
+        "https://kavee.com/",
+        "https://kavee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://kavee.com/cdn/shop/t/145/assets/theme.css?v=124376558180843245511787569008",
+        "https://kavee.com/cdn/shop/t/145/assets/custom.css?v=56552534040125631441787833605"
+      ]
+    },
+    "#262626": {
+      "count": 11,
+      "sources": [
+        "https://kavee.com/",
+        "https://kavee.com/cdn/shop/t/145/assets/custom.css?v=56552534040125631441787833605"
+      ]
+    },
+    "#00000000": {
+      "count": 11,
+      "sources": [
+        "https://kavee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://kavee.com/cdn/shop/t/145/assets/theme.css?v=124376558180843245511787569008"
+      ]
+    },
+    "#ebe8df": {
+      "count": 9,
+      "sources": [
+        "https://kavee.com/cdn/shop/t/145/assets/custom.css?v=56552534040125631441787833605"
+      ]
+    },
+    "#1a4b3d": {
+      "count": 8,
+      "sources": [
+        "https://kavee.com/",
+        "https://kavee.com/cdn/shop/t/145/assets/custom.css?v=56552534040125631441787833605"
+      ]
+    },
+    "#fee452": {
+      "count": 5,
+      "sources": [
+        "https://kavee.com/"
+      ]
+    },
+    "#fbfaf5": {
+      "count": 5,
+      "sources": [
+        "https://kavee.com/cdn/shop/t/145/assets/custom.css?v=56552534040125631441787833605"
+      ]
+    },
+    "#fffffe": {
+      "count": 4,
+      "sources": [
+        "https://kavee.com/cdn/shop/t/145/assets/custom.css?v=56552534040125631441787833605"
+      ]
+    },
+    "#d12913": {
+      "count": 4,
+      "sources": [
+        "https://kavee.com/cdn/shop/t/145/assets/custom.css?v=56552534040125631441787833605"
+      ]
+    },
+    "#00000066": {
+      "count": 3,
+      "sources": [
+        "https://kavee.com/cdn/shop/t/145/assets/theme.css?v=124376558180843245511787569008"
+      ]
+    },
+    "#000000": {
+      "count": 3,
+      "sources": [
+        "https://kavee.com/cdn/shop/t/145/assets/theme.css?v=124376558180843245511787569008"
+      ]
+    },
+    "#00000033": {
+      "count": 3,
+      "sources": [
+        "https://kavee.com/cdn/shop/t/145/assets/theme.css?v=124376558180843245511787569008",
+        "https://kavee.com/cdn/shop/t/145/assets/custom.css?v=56552534040125631441787833605"
+      ]
+    },
+    "#ffc074": {
+      "count": 3,
+      "sources": [
+        "https://kavee.com/cdn/shop/t/145/assets/custom.css?v=56552534040125631441787833605"
+      ]
+    },
+    "#b59887": {
+      "count": 2,
+      "sources": [
+        "https://kavee.com/"
+      ]
+    },
+    "#acd3ec": {
+      "count": 2,
+      "sources": [
+        "https://kavee.com/"
+      ]
+    },
+    "#d0cdcd": {
+      "count": 2,
+      "sources": [
+        "https://kavee.com/"
+      ]
+    },
+    "#e3a6a6": {
+      "count": 2,
+      "sources": [
+        "https://kavee.com/"
+      ]
+    },
+    "#ed8f13": {
+      "count": 2,
+      "sources": [
+        "https://kavee.com/"
+      ]
+    },
+    "#424a30": {
+      "count": 2,
+      "sources": [
+        "https://kavee.com/"
+      ]
+    },
+    "#8a9d7b": {
+      "count": 2,
+      "sources": [
+        "https://kavee.com/"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://kavee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 2,
+      "sources": [
+        "https://kavee.com/cdn/shop/t/145/assets/theme.css?v=124376558180843245511787569008"
+      ]
+    },
+    "#76938b": {
+      "count": 2,
+      "sources": [
+        "https://kavee.com/cdn/shop/t/145/assets/custom.css?v=56552534040125631441787833605"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 2,
+      "sources": [
+        "https://kavee.com/cdn/shop/t/145/assets/custom.css?v=56552534040125631441787833605"
+      ]
+    },
+    "#9a9a9a": {
+      "count": 2,
+      "sources": [
+        "https://kavee.com/cdn/shop/t/145/assets/custom.css?v=56552534040125631441787833605"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 1,
+      "sources": [
+        "https://kavee.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://kavee.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://kavee.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://kavee.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://kavee.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://kavee.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://kavee.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://kavee.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://kavee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://kavee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://kavee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 1,
+      "sources": [
+        "https://kavee.com/cdn/shop/t/145/assets/theme.css?v=124376558180843245511787569008"
+      ]
+    },
+    "#0000000d": {
+      "count": 1,
+      "sources": [
+        "https://kavee.com/cdn/shop/t/145/assets/theme.css?v=124376558180843245511787569008"
+      ]
+    },
+    "#0000000f": {
+      "count": 1,
+      "sources": [
+        "https://kavee.com/cdn/shop/t/145/assets/theme.css?v=124376558180843245511787569008"
+      ]
+    },
+    "#c9f2eb": {
+      "count": 1,
+      "sources": [
+        "https://kavee.com/cdn/shop/t/145/assets/custom.css?v=56552534040125631441787833605"
+      ]
+    },
+    "#232323b3": {
+      "count": 1,
+      "sources": [
+        "https://kavee.com/cdn/shop/t/145/assets/custom.css?v=56552534040125631441787833605"
+      ]
+    },
+    "#f3f2ed": {
+      "count": 1,
+      "sources": [
+        "https://kavee.com/cdn/shop/t/145/assets/custom.css?v=56552534040125631441787833605"
+      ]
+    },
+    "#2323232e": {
+      "count": 1,
+      "sources": [
+        "https://kavee.com/cdn/shop/t/145/assets/custom.css?v=56552534040125631441787833605"
+      ]
+    },
+    "#e2e1dd": {
+      "count": 1,
+      "sources": [
+        "https://kavee.com/cdn/shop/t/145/assets/custom.css?v=56552534040125631441787833605"
+      ]
+    },
+    "#fffefa": {
+      "count": 1,
+      "sources": [
+        "https://kavee.com/cdn/shop/t/145/assets/custom.css?v=56552534040125631441787833605"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://cdn.shopify.com/extensions/019ddf98-0d13-797e-affa-36a8c7d15d5d/eu-cookie-bar-6/assets/nova-cookie.css"
+    ],
+    "Calibri": [
+      "https://cdn.shopify.com/extensions/019ddf98-0d13-797e-affa-36a8c7d15d5d/eu-cookie-bar-6/assets/nova-cookie.css"
+    ],
+    "Consolas": [
+      "https://kavee.com/cdn/shop/t/145/assets/theme.css?v=124376558180843245511787569008"
+    ],
+    "Courier New": [
+      "https://kavee.com/cdn/shop/t/145/assets/theme.css?v=124376558180843245511787569008"
+    ],
+    "Helvetica": [
+      "https://cdn.shopify.com/extensions/019ddf98-0d13-797e-affa-36a8c7d15d5d/eu-cookie-bar-6/assets/nova-cookie.css"
+    ],
+    "Instrument Serif": [
+      "https://kavee.com/"
+    ],
+    "Liberation Mono": [
+      "https://kavee.com/cdn/shop/t/145/assets/theme.css?v=124376558180843245511787569008"
+    ],
+    "Manrope": [
+      "https://kavee.com/"
+    ],
+    "Menlo": [
+      "https://kavee.com/cdn/shop/t/145/assets/theme.css?v=124376558180843245511787569008"
+    ],
+    "Monaco": [
+      "https://kavee.com/cdn/shop/t/145/assets/theme.css?v=124376558180843245511787569008"
+    ],
+    "SFMono-Regular": [
+      "https://kavee.com/cdn/shop/t/145/assets/theme.css?v=124376558180843245511787569008"
+    ],
+    "monospace": [
+      "https://kavee.com/cdn/shop/t/145/assets/theme.css?v=124376558180843245511787569008"
+    ],
+    "sans-serif": [
+      "https://kavee.com/",
+      "https://cdn.shopify.com/extensions/019ddf98-0d13-797e-affa-36a8c7d15d5d/eu-cookie-bar-6/assets/nova-cookie.css"
+    ],
+    "serif": [
+      "https://kavee.com/"
+    ],
+    "ui-monospace": [
+      "https://kavee.com/cdn/shop/t/145/assets/theme.css?v=124376558180843245511787569008"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://kavee.com/",
+      "selector": "[dir=\"rtl\"]:root",
+      "declarations": "--transform-logical-flip: -1;\n    --transform-origin-start: right;\n    --transform-origin-end: left;"
+    },
+    {
+      "source": "https://kavee.com/",
+      "selector": ":root",
+      "declarations": "--text-h0: 7.5rem;      \n      --text-h1: 3.75rem;    \n      --text-h2: 3rem;       \n      --text-h3: 2.5rem;     \n      --text-h4: 2.125rem;   \n      --text-h5: 1.875rem;   \n      --text-h6: 1.5rem;     \n      --heading-h0-line-height: 1;\n      --heading-h1-line-height: 1.133;    \n      --heading-h2-line-height: 1.167;    \n      --heading-h3-line-height: 1.2;      \n      --heading-h4-line-height: 1.235;    \n      --heading-h5-line-height: 1.267;    \n      --heading-h6-line-height: 1.333;    \n\n      \n      --container-gutter: 2rem;\n      --section-outer-spacing-block: var(--spacing-16);\n      --section-inner-max-spacing-block: var(--spacing-12);\n      --section-inner-spacing-inline: var(--sp"
+    },
+    {
+      "source": "https://kavee.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: var(--spacing-12);\n      --section-outer-spacing-block: var(--spacing-18);\n      --section-inner-max-spacing-block: var(--spacing-16);\n      --section-inner-spacing-inline: var(--spacing-16);\n      --section-stack-spacing-block: var(--spacing-12);"
+    },
+    {
+      "source": "https://kavee.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: var(--spacing-12);\n      --section-outer-spacing-block: var(--spacing-20);\n      --section-inner-max-spacing-block: var(--spacing-16);\n      --section-inner-spacing-inline: var(--spacing-16);\n      --section-stack-spacing-block: var(--spacing-12);"
+    },
+    {
+      "source": "https://kavee.com/",
+      "selector": ":root",
+      "declarations": "--section-outer-spacing-block: var(--spacing-24);\n      --section-inner-max-spacing-block: var(--spacing-18);\n      --section-inner-spacing-inline: var(--spacing-18);"
+    },
+    {
+      "source": "https://kavee.com/",
+      "selector": ":root",
+      "declarations": "--section-outer-spacing-block: var(--spacing-24);\n      --section-inner-max-spacing-block: var(--spacing-20);\n      --section-inner-spacing-inline: var(--spacing-20);"
+    },
+    {
+      "source": "https://kavee.com/",
+      "selector": ".button:not([disabled]):hover, .btn:not([disabled]):hover, .shopify-payment-button__button--unbranded:not([disabled]):hover",
+      "declarations": "--button-background-opacity: 0.85;"
+    },
+    {
+      "source": "https://kavee.com/",
+      "selector": ".button--subdued:not([disabled]):hover",
+      "declarations": "--button-background: var(--text-color) / .05 !important;"
+    },
+    {
+      "source": "https://kavee.com/",
+      "selector": ":root",
+      "declarations": "--sticky-announcement-bar-enabled:0;"
+    },
+    {
+      "source": "https://kavee.com/",
+      "selector": "--background: 26 75 61; --text-color: 255 255 254;\n\n  :root",
+      "declarations": "--sticky-header-enabled:1;"
+    },
+    {
+      "source": "https://kavee.com/",
+      "selector": "#shopify-section-sections--18678036496554__header",
+      "declarations": "--header-grid-template: \"main-nav logo secondary-nav\" / minmax(0, 1fr) auto max-content;\n    --header-padding-block: var(--spacing-3);\n    --header-background-opacity: 1.0;\n    --header-background-blur-radius: 0px;\n    --header-transparent-text-color: 255 255 255;--header-logo-width: 75px;\n      --header-logo-height: 47px;position: sticky;\n    top: 0;\n    z-index: 10;"
+    },
+    {
+      "source": "https://kavee.com/",
+      "selector": "#shopify-section-sections--18678036496554__header",
+      "declarations": "--header-logo-width: 90px;\n        --header-logo-height: 57px;--header-padding-block: var(--spacing-6);"
+    },
+    {
+      "source": "https://kavee.com/",
+      "selector": "#shopify-section-sections--18678036496554__header",
+      "declarations": "--header-grid-template: \"logo main-nav secondary-nav\" / auto minmax(0, 1fr) max-content;"
+    },
+    {
+      "source": "https://kavee.com/",
+      "selector": "#shopify-section-template--18678036988074__featured_collection_zpidgQ .product-list",
+      "declarations": "--product-list-gap: var(--product-list-row-gap) var(--product-list-column-gap);\n    --product-list-items-per-row: 2;\n    --product-list-carousel-item-width: 74vw;\n    --product-list-grid: auto / auto-flow var(--product-list-carousel-item-width);"
+    },
+    {
+      "source": "https://kavee.com/",
+      "selector": "#shopify-section-template--18678036988074__featured_collection_zpidgQ .product-list",
+      "declarations": "--product-list-gap: var(--product-list-row-gap) var(--product-list-column-gap);\n      --product-list-items-per-row: 2;\n      --product-list-carousel-item-width: 36vw;"
+    },
+    {
+      "source": "https://kavee.com/",
+      "selector": "#shopify-section-template--18678036988074__featured_collection_zpidgQ .product-list",
+      "declarations": "--product-list-items-per-row: 3;\n      --product-list-carousel-item-width: calc(var(--container-inner-width) / 3 - (var(--product-list-column-gap) / 3 * 2));"
+    },
+    {
+      "source": "https://kavee.com/",
+      "selector": "#shopify-section-template--18678036988074__section-5 .product-list",
+      "declarations": "--product-list-gap: var(--product-list-row-gap) var(--product-list-column-gap);\n    --product-list-items-per-row: 2;\n    --product-list-carousel-item-width: 74vw;\n    --product-list-grid: auto / auto-flow var(--product-list-carousel-item-width);"
+    },
+    {
+      "source": "https://kavee.com/",
+      "selector": "#shopify-section-template--18678036988074__section-5 .product-list",
+      "declarations": "--product-list-gap: var(--product-list-row-gap) var(--product-list-column-gap);\n      --product-list-items-per-row: 2;\n      --product-list-carousel-item-width: 36vw;"
+    },
+    {
+      "source": "https://kavee.com/",
+      "selector": "#shopify-section-template--18678036988074__section-5 .product-list",
+      "declarations": "--product-list-items-per-row: 4;\n      --product-list-carousel-item-width: calc(var(--container-inner-width) / 4 - (var(--product-list-column-gap) / 4 * 3));"
+    },
+    {
+      "source": "https://kavee.com/",
+      "selector": ":root",
+      "declarations": "--lxs-rating-icon-color: #ED8F13;"
+    },
+    {
+      "source": "https://kavee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://kavee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://kavee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://kavee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://kavee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://kavee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://kavee.com/cdn/shop/t/145/assets/theme.css?v=124376558180843245511787569008",
+      "selector": "body",
+      "declarations": "--background: var(--background-primary);--text-color: var(--text-primary);background:rgb(var(--background));color:rgb(var(--text-color));font:var(--text-font-style) var(--text-font-weight) var(--text-base) / 1.6 var(--text-font-family);letter-spacing:var(--text-letter-spacing);margin:0;position:relative"
+    },
+    {
+      "source": "https://kavee.com/cdn/shop/t/145/assets/theme.css?v=124376558180843245511787569008",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;font-weight:inherit;font-style:inherit;line-height:inherit;text-transform:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://kavee.com/cdn/shop/t/145/assets/theme.css?v=124376558180843245511787569008",
+      "selector": "button,[type=button],[type=reset],[type=submit]",
+      "declarations": "-webkit-appearance:button;text-align:inherit;background-color:#0000;background-image:none"
+    },
+    {
+      "source": "https://kavee.com/cdn/shop/t/145/assets/theme.css?v=124376558180843245511787569008",
+      "selector": "button,label,summary,[role=button],[type=checkbox],[type=radio],[type=submit]",
+      "declarations": "-webkit-tap-highlight-color:transparent;touch-action:manipulation;cursor:pointer"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "The US Leader for Guinea Pig Products | Kavee USA",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kavee.com/",
+        "https://kavee.com/cdn/shop/t/145/assets/custom.css?v=56552534040125631441787833605"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kavee.com/",
+        "https://kavee.com/cdn/shop/t/145/assets/custom.css?v=56552534040125631441787833605"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kavee.com/",
+        "https://kavee.com/cdn/shop/t/145/assets/custom.css?v=56552534040125631441787833605"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kavee.com/",
+        "https://kavee.com/cdn/shop/t/145/assets/custom.css?v=56552534040125631441787833605"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kavee.com/cdn/shop/t/145/assets/custom.css?v=56552534040125631441787833605"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kavee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kavee.com/cdn/shop/t/145/assets/custom.css?v=56552534040125631441787833605"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kavee.com/",
+        "https://kavee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://kavee.com/cdn/shop/t/145/assets/theme.css?v=124376558180843245511787569008",
+        "https://kavee.com/cdn/shop/t/145/assets/custom.css?v=56552534040125631441787833605"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kavee.com/cdn/shop/t/145/assets/custom.css?v=56552534040125631441787833605"
+      ]
+    },
+    "colors.accent-yellow": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kavee.com/"
+      ]
+    },
+    "colors.accent-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kavee.com/cdn/shop/t/145/assets/custom.css?v=56552534040125631441787833605"
+      ]
+    },
+    "colors.accent-sage": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kavee.com/"
+      ]
+    },
+    "colors.accent-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kavee.com/cdn/shop/t/145/assets/custom.css?v=56552534040125631441787833605"
+      ]
+    },
+    "colors.swatch-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kavee.com/"
+      ]
+    },
+    "colors.swatch-tan": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kavee.com/"
+      ]
+    },
+    "colors.swatch-pink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kavee.com/"
+      ]
+    },
+    "colors.swatch-orange": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kavee.com/cdn/shop/t/145/assets/custom.css?v=56552534040125631441787833605"
+      ]
+    },
+    "colors.overlay-scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kavee.com/cdn/shop/t/145/assets/theme.css?v=124376558180843245511787569008"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.badge-sale": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.swatch-selector": {
+      "status": "inferred"
+    }
+  }
+}

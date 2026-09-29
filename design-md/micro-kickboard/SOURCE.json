@@ -1,0 +1,893 @@
+{
+  "source_url": "https://microkickboard.com",
+  "final_url": "https://microkickboard.com/",
+  "captured_at": "2026-09-28T10:16:19.928097+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://microkickboard.com",
+      "final_url": "https://microkickboard.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "396e249cb1f05d112f8f9f1e53edb073da6a978626f515428a74dd911eb1a4d9",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://microkickboard.com/cdn/shop/t/466/assets/theme.css?v=56828578533360897051789450879",
+      "final_url": "https://microkickboard.com/cdn/shop/t/466/assets/theme.css?v=56828578533360897051789450879",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7d1ce4645def337118471ec0f00e23c7a348bfc8f0a8ea78ff2ee7b23798450e",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://microkickboard.com/cdn/shop/t/466/assets/swiper.min.css?v=150587207334211009051761602334",
+      "final_url": "https://microkickboard.com/cdn/shop/t/466/assets/swiper.min.css?v=150587207334211009051761602334",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c7e137c3b653180d469706b5109bf67bac2efa0389420cb2c1b852db3679cfb5",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://microkickboard.com/cdn/shop/t/466/assets/custom-style.css?v=138766437524923525391785219632",
+      "final_url": "https://microkickboard.com/cdn/shop/t/466/assets/custom-style.css?v=138766437524923525391785219632",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3952d8a0d9ceaf2335844bb92cd95e69429b75a611e0b153e0551166f710dcb6",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://microkickboard.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://microkickboard.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0e712-a926-77f8-816c-9f040d57129c/orbe-geolocation-503/assets/md-app-modal.min.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0e712-a926-77f8-816c-9f040d57129c/orbe-geolocation-503/assets/md-app-modal.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ceaca55f3e3ec5e85f8dc466fd8a5cdad6d8e168a5dd0430e1d82af002cb4510",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#3235c0": {
+      "count": 78,
+      "sources": [
+        "https://microkickboard.com/",
+        "https://microkickboard.com/cdn/shop/t/466/assets/theme.css?v=56828578533360897051789450879",
+        "https://microkickboard.com/cdn/shop/t/466/assets/custom-style.css?v=138766437524923525391785219632"
+      ]
+    },
+    "#ffffff": {
+      "count": 63,
+      "sources": [
+        "https://microkickboard.com/",
+        "https://microkickboard.com/cdn/shop/t/466/assets/theme.css?v=56828578533360897051789450879",
+        "https://microkickboard.com/cdn/shop/t/466/assets/swiper.min.css?v=150587207334211009051761602334",
+        "https://microkickboard.com/cdn/shop/t/466/assets/custom-style.css?v=138766437524923525391785219632",
+        "https://microkickboard.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0e712-a926-77f8-816c-9f040d57129c/orbe-geolocation-503/assets/md-app-modal.min.css"
+      ]
+    },
+    "#000000": {
+      "count": 58,
+      "sources": [
+        "https://microkickboard.com/",
+        "https://microkickboard.com/cdn/shop/t/466/assets/theme.css?v=56828578533360897051789450879",
+        "https://microkickboard.com/cdn/shop/t/466/assets/swiper.min.css?v=150587207334211009051761602334",
+        "https://microkickboard.com/cdn/shop/t/466/assets/custom-style.css?v=138766437524923525391785219632",
+        "https://cdn.shopify.com/extensions/01a0e712-a926-77f8-816c-9f040d57129c/orbe-geolocation-503/assets/md-app-modal.min.css"
+      ]
+    },
+    "#de5757": {
+      "count": 16,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#d02e2e": {
+      "count": 9,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#090a0a": {
+      "count": 8,
+      "sources": [
+        "https://microkickboard.com/",
+        "https://microkickboard.com/cdn/shop/t/466/assets/theme.css?v=56828578533360897051789450879",
+        "https://microkickboard.com/cdn/shop/t/466/assets/custom-style.css?v=138766437524923525391785219632"
+      ]
+    },
+    "#7cc7fd": {
+      "count": 8,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 6,
+      "sources": [
+        "https://microkickboard.com/cdn/shop/t/466/assets/theme.css?v=56828578533360897051789450879",
+        "https://microkickboard.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 5,
+      "sources": [
+        "https://microkickboard.com/",
+        "https://microkickboard.com/cdn/shop/t/466/assets/theme.css?v=56828578533360897051789450879"
+      ]
+    },
+    "#676986": {
+      "count": 5,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#00000033": {
+      "count": 5,
+      "sources": [
+        "https://microkickboard.com/cdn/shop/t/466/assets/theme.css?v=56828578533360897051789450879"
+      ]
+    },
+    "#333333": {
+      "count": 4,
+      "sources": [
+        "https://microkickboard.com/cdn/shop/t/466/assets/theme.css?v=56828578533360897051789450879",
+        "https://microkickboard.com/cdn/shop/t/466/assets/custom-style.css?v=138766437524923525391785219632"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 3,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#f6f4f2": {
+      "count": 3,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#272d45": {
+      "count": 3,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#dbdde4": {
+      "count": 3,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#0000001a": {
+      "count": 3,
+      "sources": [
+        "https://microkickboard.com/cdn/shop/t/466/assets/theme.css?v=56828578533360897051789450879"
+      ]
+    },
+    "#00000026": {
+      "count": 3,
+      "sources": [
+        "https://microkickboard.com/cdn/shop/t/466/assets/theme.css?v=56828578533360897051789450879",
+        "https://microkickboard.com/cdn/shop/t/466/assets/custom-style.css?v=138766437524923525391785219632"
+      ]
+    },
+    "#00000066": {
+      "count": 3,
+      "sources": [
+        "https://microkickboard.com/cdn/shop/t/466/assets/theme.css?v=56828578533360897051789450879"
+      ]
+    },
+    "#5c5c5c1a": {
+      "count": 3,
+      "sources": [
+        "https://microkickboard.com/cdn/shop/t/466/assets/theme.css?v=56828578533360897051789450879"
+      ]
+    },
+    "#bd1a26": {
+      "count": 3,
+      "sources": [
+        "https://microkickboard.com/cdn/shop/t/466/assets/custom-style.css?v=138766437524923525391785219632"
+      ]
+    },
+    "#7b7ddd": {
+      "count": 2,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#d21d2a": {
+      "count": 2,
+      "sources": [
+        "https://microkickboard.com/",
+        "https://microkickboard.com/cdn/shop/t/466/assets/theme.css?v=56828578533360897051789450879"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 2,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 2,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#a6a6a6": {
+      "count": 2,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#808080": {
+      "count": 2,
+      "sources": [
+        "https://microkickboard.com/",
+        "https://microkickboard.com/cdn/shop/t/466/assets/theme.css?v=56828578533360897051789450879"
+      ]
+    },
+    "#e5e5eb": {
+      "count": 2,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 2,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#0b0b0b": {
+      "count": 2,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#f8ef72": {
+      "count": 2,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#c2eb84": {
+      "count": 2,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#5c5f62": {
+      "count": 2,
+      "sources": [
+        "https://microkickboard.com/",
+        "https://cdn.shopify.com/extensions/01a0e712-a926-77f8-816c-9f040d57129c/orbe-geolocation-503/assets/md-app-modal.min.css"
+      ]
+    },
+    "#1199ff": {
+      "count": 2,
+      "sources": [
+        "https://microkickboard.com/cdn/shop/t/466/assets/theme.css?v=56828578533360897051789450879"
+      ]
+    },
+    "#0000000f": {
+      "count": 2,
+      "sources": [
+        "https://microkickboard.com/cdn/shop/t/466/assets/theme.css?v=56828578533360897051789450879"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://microkickboard.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#5356d2": {
+      "count": 1,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#1d1f6f": {
+      "count": 1,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#fafafa": {
+      "count": 1,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 1,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#cdcdcd": {
+      "count": 1,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#c0c0c0": {
+      "count": 1,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#9a9a9a": {
+      "count": 1,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#999999": {
+      "count": 1,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#8c8c8c": {
+      "count": 1,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#737373": {
+      "count": 1,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#dcdcdc": {
+      "count": 1,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#909090": {
+      "count": 1,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#f3cbcb": {
+      "count": 1,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#56ad6a": {
+      "count": 1,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#ecfef0": {
+      "count": 1,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#ecbd5e": {
+      "count": 1,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 1,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 1,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#f7f6f4": {
+      "count": 1,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#f4f4f6": {
+      "count": 1,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#3e41c4": {
+      "count": 1,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#f7f7f8": {
+      "count": 1,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "#9a9db1": {
+      "count": 1,
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://microkickboard.com/cdn/shop/t/466/assets/custom-style.css?v=138766437524923525391785219632"
+    ],
+    "Consolas": [
+      "https://microkickboard.com/cdn/shop/t/466/assets/theme.css?v=56828578533360897051789450879"
+    ],
+    "DM Sans": [
+      "https://microkickboard.com/",
+      "https://microkickboard.com/cdn/shop/t/466/assets/custom-style.css?v=138766437524923525391785219632"
+    ],
+    "DOTSpektraTekst-Bold": [
+      "https://microkickboard.com/cdn/shop/t/466/assets/custom-style.css?v=138766437524923525391785219632"
+    ],
+    "Helvetica": [
+      "https://microkickboard.com/cdn/shop/t/466/assets/custom-style.css?v=138766437524923525391785219632"
+    ],
+    "Helvetica Neue": [
+      "https://microkickboard.com/cdn/shop/t/466/assets/custom-style.css?v=138766437524923525391785219632"
+    ],
+    "IBM Plex Sans": [
+      "https://microkickboard.com/"
+    ],
+    "Lucida Grande": [
+      "https://microkickboard.com/cdn/shop/t/466/assets/custom-style.css?v=138766437524923525391785219632"
+    ],
+    "Lucida Sans": [
+      "https://microkickboard.com/cdn/shop/t/466/assets/custom-style.css?v=138766437524923525391785219632"
+    ],
+    "Lucida Sans Unicode": [
+      "https://microkickboard.com/cdn/shop/t/466/assets/custom-style.css?v=138766437524923525391785219632"
+    ],
+    "Pacifico": [
+      "https://microkickboard.com/"
+    ],
+    "SpektraTekst": [
+      "https://microkickboard.com/cdn/shop/t/466/assets/custom-style.css?v=138766437524923525391785219632"
+    ],
+    "Tahoma": [
+      "https://microkickboard.com/cdn/shop/t/466/assets/custom-style.css?v=138766437524923525391785219632"
+    ],
+    "Trebuchet MS": [
+      "https://microkickboard.com/cdn/shop/t/466/assets/custom-style.css?v=138766437524923525391785219632"
+    ],
+    "Work Sans": [
+      "https://microkickboard.com/",
+      "https://microkickboard.com/cdn/shop/t/466/assets/custom-style.css?v=138766437524923525391785219632"
+    ],
+    "monospace": [
+      "https://microkickboard.com/cdn/shop/t/466/assets/theme.css?v=56828578533360897051789450879"
+    ],
+    "oke-widget-icons": [
+      "https://microkickboard.com/"
+    ],
+    "oke-widget-icons!important": [
+      "https://microkickboard.com/"
+    ],
+    "sans-serif": [
+      "https://microkickboard.com/",
+      "https://microkickboard.com/cdn/shop/t/466/assets/custom-style.css?v=138766437524923525391785219632"
+    ],
+    "swiper-icons": [
+      "https://microkickboard.com/cdn/shop/t/466/assets/swiper.min.css?v=150587207334211009051761602334"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://microkickboard.com/",
+      "selector": ".okeReviews[data-oke-container] button,div.okeReviews button",
+      "declarations": "border-radius:0;border:0;box-shadow:none;margin:0;width:auto;min-width:auto;padding:0;background-color:transparent;min-height:auto"
+    },
+    {
+      "source": "https://microkickboard.com/",
+      "selector": "views[data-oke-container] input,.okeReviews[data-oke-container] select,.okeReviews[data-oke-container] textarea,div.okeReviews button,div.okeReviews input,div.o",
+      "declarations": "font-family:inherit;font-size:1em"
+    },
+    {
+      "source": "https://microkickboard.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button,div.okeReviews .oke-button",
+      "declarations": "display:inline-block;border-style:solid;border-color:var(--oke-button-borderColor);border-width:var(--oke-button-borderWidth);background-color:var(--oke-button-backgroundColor);line-height:1;padding:12px 24px;margin:0;border-radius:var(--oke-button-borderRadius);color:var(--oke-button-textColor);text-align:center;position:relative;font-weight:var(--oke-button-fontWeight);font-size:var(--oke-button-fontSize);font-family:var(--oke-button-fontFamily);outline:0"
+    },
+    {
+      "source": "https://microkickboard.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button.oke-is-loading:before,div.okeReviews .oke-button.oke-is-loading:before",
+      "declarations": "font-family:oke-widget-icons!important;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;content:\"\";color:undefined;font-size:12px;display:inline-block;animation:oke-spin 1s linear infinite;position:absolute;width:12px;height:12px;top:0;left:0;bottom:0;right:0;margin:auto"
+    },
+    {
+      "source": "https://microkickboard.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button.oke-is-active,div.okeReviews .oke-button.oke-is-active",
+      "declarations": "background-color:var(--oke-button-backgroundColorActive);color:var(--oke-button-textColorActive);border-color:var(--oke-button-borderColorActive)"
+    },
+    {
+      "source": "https://microkickboard.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button:not(.oke-is-loading):not(.oke-is-active):hover,div.okeReviews .oke-button:not(.oke-is-loading):not(.oke-is-active):h",
+      "declarations": "background-color:var(--oke-button-backgroundColorHover);color:var(--oke-button-textColorHover);border-color:var(--oke-button-borderColorHover);box-shadow:0 0 0 2px var(--oke-button-backgroundColorHover)"
+    },
+    {
+      "source": "https://microkickboard.com/",
+      "selector": "is-loading):not(.oke-is-active):hover:active,div.okeReviews .oke-button:not(.oke-is-loading):not(.oke-is-active):active,div.okeReviews .oke-button:not(.oke-is-l",
+      "declarations": "background-color:var(--oke-button-backgroundColorActive);color:var(--oke-button-textColorActive);border-color:var(--oke-button-borderColorActive)"
+    },
+    {
+      "source": "https://microkickboard.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-bodyText,div.okeReviews .oke-bodyText",
+      "declarations": "font-weight:var(--oke-bodyText-fontWeight);font-size:var(--oke-bodyText-fontSize);font-family:var(--oke-bodyText-fontFamily)"
+    },
+    {
+      "source": "https://microkickboard.com/",
+      "selector": "views[data-oke-container] .oke-modal .oke-reviewContent-date,div.okeReviews .oke-modal .oke-helpful,div.okeReviews .oke-modal .oke-helpful-vote-button,div.okeRe",
+      "declarations": "color:#676986"
+    },
+    {
+      "source": "https://microkickboard.com/",
+      "selector": ":root",
+      "declarations": "--oke-widget-spaceAbove:20px;--oke-widget-spaceBelow:20px;--oke-starRating-spaceAbove:0;--oke-starRating-spaceBelow:0;--oke-button-backgroundColor:#3235c0;--oke-button-backgroundColorHover:#3e41c4;--oke-button-backgroundColorActive:#3235c0;--oke-button-textColor:#fff;--oke-button-textColorHover:#fff;--oke-button-textColorActive:#fff;--oke-button-borderColor:#dbdde4;--oke-button-borderColorHover:#dbdde4;--oke-button-borderColorActive:#3235c0;--oke-button-borderRadius:4px;--oke-button-borderWidth:1px;--oke-button-fontWeight:700;--oke-button-fontSize:var(--oke-text-regular,14px);--oke-button-fontFamily:inherit;--oke-border-color:#e5e5eb;--oke-border-width:1px;--oke-text-primaryColor:#000;--oke-"
+    },
+    {
+      "source": "https://microkickboard.com/",
+      "selector": "display:none!important\noverflow:visible;\noverflow:visible;\n\n        :root",
+      "declarations": "--announcement-height: calc(0.75rem * 0.8 * 1.5 + 10px * 2);"
+    },
+    {
+      "source": "https://microkickboard.com/",
+      "selector": ":root",
+      "declarations": "--announcement-height: calc(0.75rem * 0.8 * 1.5 + 10px * 2);"
+    },
+    {
+      "source": "https://microkickboard.com/",
+      "selector": "ghlight-color: #ffffff;--highlight-text-color: #ffffff;\n--highlight-color: var(--text);--highlight-color: #000000;\n #shopify-section-sections--19885837779096__a",
+      "declarations": "--text-size: 0.8125rem;"
+    },
+    {
+      "source": "https://microkickboard.com/",
+      "selector": "lor: #de5757; --custom-badge-text-color: #fff;\n--highlight: #de5757; --custom-badge-bg-color: #de5757; --custom-badge-text-color: #fff;\n--adjust-heading: calc(v",
+      "declarations": "--header-height: 76px;\n    --header-sticky-height: 60px;\n    --header-background-height: 76px;"
+    },
+    {
+      "source": "https://microkickboard.com/",
+      "selector": ":root",
+      "declarations": "--full-height: calc(100vh - var(--header-sticky-height));"
+    },
+    {
+      "source": "https://microkickboard.com/",
+      "selector": "padding-top: 35.4%\n--highlight: #de5757;--custom-badge-bg-color: #de5757;--custom-badge-text-color: #fff;\n#headerBlock--image_EE7XdE .hero__title",
+      "declarations": "--adjust-heading: calc(var(--FONT-ADJUST-HEADING) * 1.15);"
+    },
+    {
+      "source": "https://microkickboard.com/",
+      "selector": "#headerBlock--image_EE7XdE .hero__title",
+      "declarations": "--adjust-heading: calc(var(--FONT-ADJUST-HEADING) * 1.15);"
+    },
+    {
+      "source": "https://microkickboard.com/",
+      "selector": "color:#3235c0;\ncolor:#3235c0;\npadding-top: 100.0%; \n#headerBlock--image .hero__title",
+      "declarations": "--adjust-heading: calc(var(--FONT-ADJUST-HEADING) * 1.15);"
+    },
+    {
+      "source": "https://microkickboard.com/",
+      "selector": "#headerBlock--image .hero__title",
+      "declarations": "--adjust-heading: calc(var(--FONT-ADJUST-HEADING) * 1.15);"
+    },
+    {
+      "source": "https://microkickboard.com/",
+      "selector": "color:#3235c0;\ncolor:#3235c0;\npadding-top: 100.0%; \n#headerBlock--image-0 .hero__title",
+      "declarations": "--adjust-heading: calc(var(--FONT-ADJUST-HEADING) * 1.15);"
+    },
+    {
+      "source": "https://microkickboard.com/",
+      "selector": "#headerBlock--image-0 .hero__title",
+      "declarations": "--adjust-heading: calc(var(--FONT-ADJUST-HEADING) * 1.15);"
+    },
+    {
+      "source": "https://microkickboard.com/",
+      "selector": "color:#3235c0;\ncolor:#3235c0;\npadding-top: 100.0%; \n#headerBlock--image-1 .hero__title",
+      "declarations": "--adjust-heading: calc(var(--FONT-ADJUST-HEADING) * 1.15);"
+    },
+    {
+      "source": "https://microkickboard.com/",
+      "selector": "#headerBlock--image-1 .hero__title",
+      "declarations": "--adjust-heading: calc(var(--FONT-ADJUST-HEADING) * 1.15);"
+    },
+    {
+      "source": "https://microkickboard.com/",
+      "selector": "color:#3235c0;\ncolor:#3235c0;\npadding-top: 100.0%; \n#headerBlock--image-2 .hero__title",
+      "declarations": "--adjust-heading: calc(var(--FONT-ADJUST-HEADING) * 0.9);"
+    },
+    {
+      "source": "https://microkickboard.com/",
+      "selector": "#headerBlock--image-2 .hero__title",
+      "declarations": "--adjust-heading: calc(var(--FONT-ADJUST-HEADING) * 0.9);"
+    },
+    {
+      "source": "https://microkickboard.com/",
+      "selector": "color:#3235c0;\ncolor:#3235c0;\npadding-top: 150.0%; \n#headerBlock--image-3 .hero__title",
+      "declarations": "--adjust-heading: calc(var(--FONT-ADJUST-HEADING) * 0.9);"
+    },
+    {
+      "source": "https://microkickboard.com/",
+      "selector": "#headerBlock--image-3 .hero__title",
+      "declarations": "--adjust-heading: calc(var(--FONT-ADJUST-HEADING) * 0.9);"
+    },
+    {
+      "source": "https://microkickboard.com/",
+      "selector": "color:#3235c0;\ncolor:#3235c0;\npadding-top: 150.0%; \n#headerBlock--image-4 .hero__title",
+      "declarations": "--adjust-heading: calc(var(--FONT-ADJUST-HEADING) * 0.9);"
+    },
+    {
+      "source": "https://microkickboard.com/",
+      "selector": "#headerBlock--image-4 .hero__title",
+      "declarations": "--adjust-heading: calc(var(--FONT-ADJUST-HEADING) * 0.9);"
+    },
+    {
+      "source": "https://microkickboard.com/",
+      "selector": "color:#3235c0;\ncolor:#3235c0;\npadding-top: 150.0%; \n#headerBlock--image_TRFfBi .hero__title",
+      "declarations": "--adjust-heading: calc(var(--FONT-ADJUST-HEADING) * 0.9);"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Micro Kickboard",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://microkickboard.com/",
+        "https://microkickboard.com/cdn/shop/t/466/assets/theme.css?v=56828578533360897051789450879",
+        "https://microkickboard.com/cdn/shop/t/466/assets/custom-style.css?v=138766437524923525391785219632"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://microkickboard.com/",
+        "https://microkickboard.com/cdn/shop/t/466/assets/theme.css?v=56828578533360897051789450879",
+        "https://microkickboard.com/cdn/shop/t/466/assets/swiper.min.css?v=150587207334211009051761602334",
+        "https://microkickboard.com/cdn/shop/t/466/assets/custom-style.css?v=138766437524923525391785219632",
+        "https://cdn.shopify.com/extensions/01a0e712-a926-77f8-816c-9f040d57129c/orbe-geolocation-503/assets/md-app-modal.min.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://microkickboard.com/",
+        "https://microkickboard.com/cdn/shop/t/466/assets/theme.css?v=56828578533360897051789450879",
+        "https://microkickboard.com/cdn/shop/t/466/assets/swiper.min.css?v=150587207334211009051761602334",
+        "https://microkickboard.com/cdn/shop/t/466/assets/custom-style.css?v=138766437524923525391785219632",
+        "https://microkickboard.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0e712-a926-77f8-816c-9f040d57129c/orbe-geolocation-503/assets/md-app-modal.min.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://microkickboard.com/cdn/shop/t/466/assets/theme.css?v=56828578533360897051789450879",
+        "https://microkickboard.com/cdn/shop/t/466/assets/custom-style.css?v=138766437524923525391785219632"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://microkickboard.com/",
+        "https://microkickboard.com/cdn/shop/t/466/assets/theme.css?v=56828578533360897051789450879",
+        "https://microkickboard.com/cdn/shop/t/466/assets/swiper.min.css?v=150587207334211009051761602334",
+        "https://microkickboard.com/cdn/shop/t/466/assets/custom-style.css?v=138766437524923525391785219632",
+        "https://microkickboard.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0e712-a926-77f8-816c-9f040d57129c/orbe-geolocation-503/assets/md-app-modal.min.css"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "colors.sale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "colors.warn": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://microkickboard.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.age-range-selector": {
+      "status": "inferred"
+    }
+  }
+}

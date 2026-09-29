@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Blue Underground
-description: A midnight-blue and coral-accented horror archive built on a deep #003388 foundation that reads as a collector’s vault rather than a streaming storefront. The extracted palette is dominated by a distinctive navy (#003388) and a bright cyan (#2ea3f2) that together create a cold, cinematic tension — the kind of light that glows off a CRT monitor in a dark room. Accents of #f5795d (a burnt coral) and #e09900 (a warning amber) puncture the blue field like emergency lights, while the grayscale runs from #222222 ink through #4e4e4e body text to #eeeeee canvas, giving the interface a gritty, pre-2015 web texture that suits the classic-horror audience. Typography defaults to Open Sans and Arial — workhorse sans-serifs with no pretense — and the layout uses hard corners ({rounded.none}) on most structural elements, reserving a soft {rounded.sm} (8px) for buttons and badge tags. The nav bar sits at 80px with a #003388 background and white text, a bold header that never recedes. Product cards use a white surface (#ffffff) with a #e2e2e2 hairline, and the primary CTA button (#2ea3f2 on white) feels like a hyperlink made solid — functional, not friendly. This is a design system built for browsing by flashlight.
+name: "Blue Underground"
+source_url: "https://blue-underground.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A midnight-blue and coral-accented horror archive built on a deep #003388 foundation that reads as a collector’s vault rather than a streaming storefront. The extracted palette is dominated by a distinctive navy (#003388) and a bright cyan (#2ea3f2) that together create a cold, cinematic tension — the kind of light that glows off a CRT monitor in a dark room. Accents of #f5795d (a burnt coral) and #e09900 (a warning amber) puncture the blue field like emergency lights, while the grayscale runs from #222222 ink through #4e4e4e body text to #eeeeee canvas, giving the interface a gritty, pre-2015 web texture that suits the classic-horror audience. Typography defaults to Open Sans and Arial — workhorse sans-serifs with no pretense — and the layout uses hard corners ({rounded.none}) on most structural elements, reserving a soft {rounded.sm} (8px) for buttons and badge tags. The nav bar sits at 80px with a #003388 background and white text, a bold header that never recedes. Product cards use a white surface (#ffffff) with a #e2e2e2 hairline, and the primary CTA button (#2ea3f2 on white) feels like a hyperlink made solid — functional, not friendly. This is a design system built for browsing by flashlight.
 
 colors:
   primary: "#2ea3f2"
@@ -336,6 +340,8 @@ components:
 - Search bar moves from inline in the nav (desktop/tablet) to a full-width bar below the nav (mobile)
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Extracted hex colors are heavily weighted toward blues and grays, with a few accent colors (coral, amber, purple, teal) that may be from social icons, payment widgets, or stock imagery rather than intentional brand tokens. The true brand palette likely centers on #003388 (navy) and #2ea3f2 (cyan), but the exact hierarchy of accent colors is uncertain.
 - Font-family declarations were limited to system stacks (Arial, Helvetica, Open Sans, Lucida, Courier New) and icon fonts (FontAwesome, ETmodules). No custom or brand-specific typeface was detected. Open Sans is assumed as the primary based on its presence in the extracted list and common usage in WordPress/Divi themes (the site appears to use Divi based on ETmodules references).

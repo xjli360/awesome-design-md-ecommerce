@@ -1,0 +1,1022 @@
+{
+  "source_url": "https://audeze.com",
+  "final_url": "https://www.audeze.com/",
+  "captured_at": "2026-09-28T04:25:31.730471+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://audeze.com",
+      "final_url": "https://www.audeze.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "b7a1f4e387a8f9a07ee749cab800475a31cf97a86f808ed16cb2b844e99c50df",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.audeze.com/cdn/shop/t/28/assets/fancybox.css?v=19278034316635137701785268816",
+      "final_url": "https://www.audeze.com/cdn/shop/t/28/assets/fancybox.css?v=19278034316635137701785268816",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5736e3eec0c34bfc288854b7b8d2a8f1e22e9e2e7dae3c8d1ad5dfb2d4734ad0",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+      "final_url": "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "505b301aea50fa0677fb136465c590af9915e35fadb84a4a5061b457d507e5bf",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.audeze.com/cdn/shop/t/28/assets/a11y.css?v=128979092344299762101785268792",
+      "final_url": "https://www.audeze.com/cdn/shop/t/28/assets/a11y.css?v=128979092344299762101785268792",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "bc370515fd58364184aedda205d7e26b03c2ee3cc249326474f13da49ec2f718",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.audeze.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.audeze.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://fonts.bunny.net/css?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap",
+      "final_url": "https://fonts.bunny.net/css?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "23de55c06cca05d187034caab7e43df051574038f4ec48d769b969b8a571af61",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 192,
+      "sources": [
+        "https://www.audeze.com/",
+        "https://www.audeze.com/cdn/shop/t/28/assets/fancybox.css?v=19278034316635137701785268816",
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+        "https://www.audeze.com/cdn/shop/t/28/assets/a11y.css?v=128979092344299762101785268792",
+        "https://www.audeze.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#000000": {
+      "count": 102,
+      "sources": [
+        "https://www.audeze.com/",
+        "https://www.audeze.com/cdn/shop/t/28/assets/fancybox.css?v=19278034316635137701785268816",
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+        "https://www.audeze.com/cdn/shop/t/28/assets/a11y.css?v=128979092344299762101785268792"
+      ]
+    },
+    "#161616": {
+      "count": 86,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#efefef": {
+      "count": 77,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#333333": {
+      "count": 49,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+        "https://www.audeze.com/cdn/shop/t/28/assets/a11y.css?v=128979092344299762101785268792"
+      ]
+    },
+    "#191919": {
+      "count": 45,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#363636": {
+      "count": 42,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#ca8d27": {
+      "count": 23,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#cccccc": {
+      "count": 21,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/fancybox.css?v=19278034316635137701785268816",
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#393939": {
+      "count": 19,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#dcdcdc": {
+      "count": 17,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#8c8c8c": {
+      "count": 16,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#8c8b8b": {
+      "count": 16,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 10,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#888888": {
+      "count": 9,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/fancybox.css?v=19278034316635137701785268816",
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#212121": {
+      "count": 7,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+        "https://www.audeze.com/cdn/shop/t/28/assets/a11y.css?v=128979092344299762101785268792"
+      ]
+    },
+    "#828282": {
+      "count": 6,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#af7a22": {
+      "count": 6,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 6,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#4a5764": {
+      "count": 5,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#00b3ff": {
+      "count": 5,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#2b2e38": {
+      "count": 5,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 4,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#444444": {
+      "count": 3,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/fancybox.css?v=19278034316635137701785268816",
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#eeeeee": {
+      "count": 3,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/fancybox.css?v=19278034316635137701785268816",
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#555555": {
+      "count": 3,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#95979c": {
+      "count": 3,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#09aeec": {
+      "count": 3,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#49659d": {
+      "count": 3,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#cb1f2a": {
+      "count": 3,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#b4bac1": {
+      "count": 3,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 3,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#00adef": {
+      "count": 3,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#181818": {
+      "count": 3,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#9d6d1e": {
+      "count": 3,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/a11y.css?v=128979092344299762101785268792"
+      ]
+    },
+    "#007fad": {
+      "count": 3,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/a11y.css?v=128979092344299762101785268792"
+      ]
+    },
+    "#ff5268": {
+      "count": 2,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/fancybox.css?v=19278034316635137701785268816"
+      ]
+    },
+    "#4e4e4e": {
+      "count": 2,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/fancybox.css?v=19278034316635137701785268816",
+        "https://www.audeze.com/cdn/shop/t/28/assets/a11y.css?v=128979092344299762101785268792"
+      ]
+    },
+    "#f2f4f6": {
+      "count": 2,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/fancybox.css?v=19278034316635137701785268816",
+        "https://www.audeze.com/cdn/shop/t/28/assets/a11y.css?v=128979092344299762101785268792"
+      ]
+    },
+    "#dddddd": {
+      "count": 2,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/fancybox.css?v=19278034316635137701785268816",
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#808080": {
+      "count": 2,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 2,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#cc3333": {
+      "count": 2,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#ededed": {
+      "count": 2,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#2f2f2f": {
+      "count": 2,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#c1c9d1": {
+      "count": 2,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#099e4d": {
+      "count": 2,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#de3618": {
+      "count": 2,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#8a8a8a": {
+      "count": 2,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#00afee": {
+      "count": 2,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#32cd32": {
+      "count": 2,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#b33a3a": {
+      "count": 2,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "#97691d": {
+      "count": 2,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/a11y.css?v=128979092344299762101785268792"
+      ]
+    },
+    "#757575": {
+      "count": 2,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/a11y.css?v=128979092344299762101785268792"
+      ]
+    },
+    "#919191": {
+      "count": 2,
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/a11y.css?v=128979092344299762101785268792"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.audeze.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.audeze.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#292929": {
+      "count": 1,
+      "sources": [
+        "https://www.audeze.com/"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 1,
+      "sources": [
+        "https://www.audeze.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+      "https://www.audeze.com/cdn/shop/t/28/assets/a11y.css?v=128979092344299762101785268792"
+    ],
+    "Avenir": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Avenir Next": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Figtree": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Gotham Black": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Gotham Bold": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Gotham Book": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Gotham Light": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Gotham Medium": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Gotham Thin": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Helvetica": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Helvetica CY": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+      "https://www.audeze.com/cdn/shop/t/28/assets/a11y.css?v=128979092344299762101785268792"
+    ],
+    "Helvetica Neue": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Inter": [
+      "https://fonts.bunny.net/css?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+    ],
+    "Nimbus Sans L": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+      "https://www.audeze.com/cdn/shop/t/28/assets/a11y.css?v=128979092344299762101785268792"
+    ],
+    "Open Sans": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Roboto": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Saira": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Segoe UI": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Verbatim Extended": [
+      "https://www.audeze.com/",
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Verbatim Extended Light": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Verbatim Extended Medium": [
+      "https://www.audeze.com/",
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Visby Bold": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Visby Bold Oblique": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Visby Bold\" !important": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Visby Demi-Bold": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Visby Demi-Bold Oblique": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Visby Extra-Bold": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Visby Extra-Bold Oblique": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Visby Heavy": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Visby Heavy Oblique": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Visby Light": [
+      "https://www.audeze.com/",
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Visby Light !important": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Visby Light Oblique": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Visby Light\" !important": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Visby Medium": [
+      "https://www.audeze.com/",
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Visby Medium Oblique": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Visby Medium' !important": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Visby Regular": [
+      "https://www.audeze.com/",
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Visby Regular Oblique": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Visby Regular\" !important": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Visby Thin": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Visby Thin !important": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "Visby Thin Oblique": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "audeze": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "audeze' !important": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "monospace": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "sans sans-serif": [
+      "https://www.audeze.com/"
+    ],
+    "sans-serif": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "sans-serif !important": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "sans-serif!important": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/a11y.css?v=128979092344299762101785268792"
+    ],
+    "serif": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "turbo": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "visby bold": [
+      "https://www.audeze.com/"
+    ],
+    "visby light": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "visby medium": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ],
+    "visby regular": [
+      "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.audeze.com/",
+      "selector": "#shopify-section-sections--21204280475726__header .promo-banner h6",
+      "declarations": "font-size: 18px; font-family: visby bold, sans sans-serif;"
+    },
+    {
+      "source": "https://www.audeze.com/",
+      "selector": ".button a",
+      "declarations": "font-family: \"Visby Medium\";"
+    },
+    {
+      "source": "https://www.audeze.com/cdn/shop/t/28/assets/fancybox.css?v=19278034316635137701785268816",
+      "selector": ".fancybox-button,.fancybox-button:link,.fancybox-button:visited",
+      "declarations": "color:#ccc"
+    },
+    {
+      "source": "https://www.audeze.com/cdn/shop/t/28/assets/fancybox.css?v=19278034316635137701785268816",
+      "selector": ".fancybox-button:hover",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://www.audeze.com/cdn/shop/t/28/assets/fancybox.css?v=19278034316635137701785268816",
+      "selector": ".fancybox-button[disabled],.fancybox-button[disabled]:hover",
+      "declarations": "color:#888;cursor:default;outline:none"
+    },
+    {
+      "source": "https://www.audeze.com/cdn/shop/t/28/assets/fancybox.css?v=19278034316635137701785268816",
+      "selector": ".fancybox-share h1",
+      "declarations": "color:#222;font-size:35px;font-weight:700;margin:0 0 20px"
+    },
+    {
+      "source": "https://www.audeze.com/cdn/shop/t/28/assets/fancybox.css?v=19278034316635137701785268816",
+      "selector": ".fancybox-share__button:link,.fancybox-share__button:visited",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+      "selector": ".complementary-products",
+      "declarations": "--slide-item-padding: 1rem;\n  --slide-item-outer-gap: 1rem;\n  --slide-item-inner-gap: 1rem;\n  --slide-item-border-color: black;\n  --slide-item-border-thickness: 1px;\n  --slider-dot-gap: 0.5rem;\n  --slider-dot-size: 0.5rem;\n  --slider-dot-color: #cacaca;\n  --slider-active-dot-color: #787878;"
+    },
+    {
+      "source": "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+      "selector": "button,\ninput,\nselect,\ntextarea",
+      "declarations": "font-family: inherit;\n  font-size: 100%;\n  margin: 0;"
+    },
+    {
+      "source": "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+      "selector": ":root",
+      "declarations": "--fontfamily_regular: \"Visby Regular\";\n    --fontfamily_logo: \"Verbatim Extended Medium\";\n    --fontfamily_headline: \"Verbatim Extended\";\n    --fontfamily_nav: \"Visby Regular\";\n    --fontfamily_slideshow_subtitle: \"Visby Light\";\n    --fontfamily_slideshow_headline: \"Verbatim Extended Medium\";"
+    },
+    {
+      "source": "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+      "selector": "body",
+      "declarations": "font-family: var(--fontfamily_regular), sans-serif; \n  font-weight: 400;\n  font-style: normal;\n  font-size: 14px;\n  text-transform: none;\n  color: #161616;\n  line-height: 1.6em;\n  overflow: auto;\n  background-color: #ffffff;"
+    },
+    {
+      "source": "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+      "selector": ".logo,\n.header__logo",
+      "declarations": "font-family: var(--fontfamily_logo), sans-serif;\n  font-weight: 400;\n  font-style: normal;\n  font-size: 20px;\n  text-transform: uppercase;\n  line-height: 1.2em;"
+    },
+    {
+      "source": "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+      "selector": ".logo a span,\n.header__logo a span",
+      "declarations": "color: #191919;"
+    },
+    {
+      "source": "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+      "selector": "h1, .age-gate__heading",
+      "declarations": "font-family: var(fontfamily_headline), sans-serif;\n  font-weight: 400;\n  font-style: normal;\n  text-transform: none;\n  line-height: 1.2em;\n  color: #333333;\n  display: block;\n  letter-spacing: 1px;\n  text-rendering: optimizeLegibility;\n  font-size: 32px;\n  margin: 0 auto 15px;\n  clear: both;\n  font-weight: 400;\n  padding-top: 4px;"
+    },
+    {
+      "source": "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+      "selector": "h1 a:link, .age-gate__heading a:link, h1 a:visited, .age-gate__heading a:visited",
+      "declarations": "font-weight: inherit;\n  color: #333333;"
+    },
+    {
+      "source": "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+      "selector": "h1 a:hover, .age-gate__heading a:hover, h1 a:active, .age-gate__heading a:active",
+      "declarations": "color: #363636;"
+    },
+    {
+      "source": "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+      "selector": "h2.product_name a,\n.h2.product_name a,\nh2.title.product_name a",
+      "declarations": "color: #333333;"
+    },
+    {
+      "source": "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+      "selector": "#header .top-bar a span",
+      "declarations": "color: #efefef;\n  display: inline-block;\n  padding-left: 4px;\n  position: relative;"
+    },
+    {
+      "source": "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+      "selector": ".mobile-menu__disclosure button.disclosure__button",
+      "declarations": "justify-content: flex-start;\n  font-size: 13px;\n  color: #efefef;\n  padding-left: 0;\n  min-height: 0;\n  height: unset;\n  width: 100%;\n  padding-top: 12px;\n  padding-bottom: 12px;\n  line-height: 1.9em;"
+    },
+    {
+      "source": "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+      "selector": ".mobile-menu__disclosure button.disclosure__button:hover, .mobile-menu__disclosure button.disclosure__button:focus",
+      "declarations": "color: #cccccc;"
+    },
+    {
+      "source": "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+      "selector": "bar .mini-cart__item-title .complementary-product--on-sale .complementary-product__price-compare, .complementary-product--on-sale .top-bar .mini-cart__item-titl",
+      "declarations": "color: #8c8b8b;"
+    },
+    {
+      "source": "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+      "selector": ".sticky_nav .header__logo span",
+      "declarations": "color: #efefef;"
+    },
+    {
+      "source": "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+      "selector": ".header__logo img,\n.header__logo span.header__logo-text",
+      "declarations": "width: 100%;\n  display: inline-block;\n  color: #191919;"
+    },
+    {
+      "source": "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+      "selector": "#header .top-bar a span.remove-icon",
+      "declarations": "color: #161616;"
+    },
+    {
+      "source": "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+      "selector": ".cart__product-option-name",
+      "declarations": "color: #8c8b8b;"
+    },
+    {
+      "source": "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+      "selector": ".product-details__unit-price,\n.product-details__unit-price span",
+      "declarations": "color: #161616;"
+    },
+    {
+      "source": "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+      "selector": ".thumbnail-overlay .product-details__unit-price,\n.thumbnail-overlay .product-details__unit-price span",
+      "declarations": "color: #000000;"
+    },
+    {
+      "source": "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+      "selector": "input[type=submit].guest_button,\ninput[type=button].guest_button",
+      "declarations": "color: #363636;\n  box-shadow: none;\n  background: transparent;\n  border: 0;\n  padding: 0;\n  text-align: left;"
+    },
+    {
+      "source": "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+      "selector": "input[type=submit].guest_button:hover,\ninput[type=button].guest_button:hover",
+      "declarations": "background: transparent;\n  border: 0;\n  color: #8c8c8c;"
+    },
+    {
+      "source": "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+      "selector": ".sidebar__collection-filter button.clear-active-filter,\n.sidebar__collection-filter button.clear-active-filter:active",
+      "declarations": "color: #363636;\n  background-color: transparent;\n  border: none;\n  outline: 0;\n  box-shadow: 0;\n  font-family: inherit;\n  letter-spacing: 0;\n  text-transform: none;\n  position: absolute;\n  transform: translateY(-50%);\n  top: 0;\n  right: 0;\n  left: auto;\n  padding: 2px 4px;\n  line-height: 1.2;\n  display: block;\n  height: auto;\n  min-height: auto;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Audeze Headphones | Uncompromised Audio | Planar Magnetic Technology",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.audeze.com/",
+        "https://www.audeze.com/cdn/shop/t/28/assets/fancybox.css?v=19278034316635137701785268816",
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+        "https://www.audeze.com/cdn/shop/t/28/assets/a11y.css?v=128979092344299762101785268792",
+        "https://www.audeze.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+        "https://www.audeze.com/cdn/shop/t/28/assets/a11y.css?v=128979092344299762101785268792"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.audeze.com/",
+        "https://www.audeze.com/cdn/shop/t/28/assets/fancybox.css?v=19278034316635137701785268816",
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+        "https://www.audeze.com/cdn/shop/t/28/assets/a11y.css?v=128979092344299762101785268792",
+        "https://www.audeze.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "colors.primary-active": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/a11y.css?v=128979092344299762101785268792"
+      ]
+    },
+    "colors.logo-ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "colors.heading-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "colors.accent-tech": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.audeze.com/",
+        "https://www.audeze.com/cdn/shop/t/28/assets/fancybox.css?v=19278034316635137701785268816",
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329",
+        "https://www.audeze.com/cdn/shop/t/28/assets/a11y.css?v=128979092344299762101785268792"
+      ]
+    },
+    "colors.disabled-text": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.audeze.com/cdn/shop/t/28/assets/fancybox.css?v=19278034316635137701785268816",
+        "https://www.audeze.com/cdn/shop/t/28/assets/styles.css?v=69326347240830653511787782329"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.audio-spec-panel": {
+      "status": "inferred"
+    }
+  }
+}

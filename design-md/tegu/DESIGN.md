@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Tegu
-description: |
+name: "Tegu"
+source_url: "https://tegu.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Four wooden blocks — lime, coral, sky, and amber — telegraph the entire color system before any CSS loads, because Tegu's #8dc63f green is not a brand color painted onto toys but the toy color elevated to brand infrastructure: every primary CTA, hover ring, and hero accent arrives pre-loaded with the sensory memory of magnets clicking into alignment. The near-black ground (#232323) pushes those saturated primaries into sharp contrast without resorting to flat white, giving the storefront a display-case authority unusual in children's gifting — the parent browsing at midnight reads "premium object" while the child sees a candy-bright playground. Coral (#ef6454), electric cyan (#06bfe2), and amber (#ffbb49) cycle through badges, promotional labels, and age-range chips exactly as those hues appear on the physical product line, collapsing the gap between what lands on screen and what lands in the box. The palette's logic is additive rather than neutral: nothing recedes to gray when it can carry a hue, with the near-white canvas (#f8f8f8) and mid-gray (#5f6062) body text functioning as breathing room between color blocks rather than as dominant surfaces. Product cards sit on that soft ground with generous padding ({spacing.base}), letting photographed blocks dominate without compositional competition. No proprietary typeface was captured in extraction, but the site's rhythm reads as a geometric sans-serif in the Futura / Montserrat register — rounded apertures, optically even strokes, a voice legible to adults while staying accessible to early readers. Buttons favor {rounded.md} corners rather than pill shapes, sitting between the hard-edged geometry of Montessori materials and the inflated bubbles of mass-market toy retail. Section spacing is generous ({spacing.section}), letting photography breathe and preventing the rainbow palette from overwhelming the grid.
 
 colors:
@@ -310,6 +313,8 @@ components:
 - Dual-CTA hero button rows stack vertically with full-width buttons on Mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **No web fonts detected**: Font-family extraction returned empty — Tegu's typeface loads via Shopify theme JS or a font CDN that blocked extraction. Typography tokens above use Montserrat/Futura as a plausible geometric sans placeholder; verify and replace with DevTools before production use.
 - **No meta theme-color set**: Mobile browser chrome color is unknown; PWA manifest behavior is unconfirmed.

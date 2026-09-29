@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Moon Juice
-description: A deep violet-magenta (#2e3192) anchors Moon Juice — not as a background but as the brand’s primary voltage, appearing on buttons, badges, and the top nav bar, while a warm off-white canvas (#fafaf8) and a pale cream (#eceadd) create a soft, grounded atmosphere. The palette is unexpectedly playful: a highlighter-yellow (#fff88a) and a marigold (#ffcf2a) punctuate cart icons, sale badges, and accent text, while a minty teal (#00caaa) and a lime (#b5de57) appear in product highlights and ingredient callouts. Typography mixes a clean, modern sans (Basis in four weights) with a decorative serif (Gelica) for headlines and a condensed display face (Deutsch Gothic) for bold promotional text, plus a monospaced Typewriter for editorial notes and ingredient lists. The overall mood is apothecary-meets-wellness-boutique: clinical enough to feel trustworthy, warm enough to feel approachable. Buttons use tight 4px radii ({rounded.xs}) rather than pills, giving the interface a precise, editorial feel. Product cards float on white with subtle shadows, and the search bar sits inside a full-width banner rather than a standalone orb. The checkout flow shifts to a deep charcoal (#2e2930) theme, signaling a deliberate mode change from browse to purchase.
+name: "Moon Juice"
+source_url: "https://moonjuice.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep violet-magenta (#2e3192) anchors Moon Juice — not as a background but as the brand’s primary voltage, appearing on buttons, badges, and the top nav bar, while a warm off-white canvas (#fafaf8) and a pale cream (#eceadd) create a soft, grounded atmosphere. The palette is unexpectedly playful: a highlighter-yellow (#fff88a) and a marigold (#ffcf2a) punctuate cart icons, sale badges, and accent text, while a minty teal (#00caaa) and a lime (#b5de57) appear in product highlights and ingredient callouts. Typography mixes a clean, modern sans (Basis in four weights) with a decorative serif (Gelica) for headlines and a condensed display face (Deutsch Gothic) for bold promotional text, plus a monospaced Typewriter for editorial notes and ingredient lists. The overall mood is apothecary-meets-wellness-boutique: clinical enough to feel trustworthy, warm enough to feel approachable. Buttons use tight 4px radii ({rounded.xs}) rather than pills, giving the interface a precise, editorial feel. Product cards float on white with subtle shadows, and the search bar sits inside a full-width banner rather than a standalone orb. The checkout flow shifts to a deep charcoal (#2e2930) theme, signaling a deliberate mode change from browse to purchase.
 
 colors:
   primary: "#2e3192"
@@ -616,6 +620,8 @@ components:
 - Review strips switch from horizontal scroll to vertical stack on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states**: Extracted only active/disabled states for primary buttons. Secondary, ghost, and accent button hover states are inferred from common patterns but not verified from live site CSS.
 - **Error styling**: Error message component uses terracotta background based on extracted color (#cf9567) but exact error text styling, border colors, and iconography are unknown.

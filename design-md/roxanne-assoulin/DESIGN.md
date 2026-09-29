@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Roxanne Assoulin
-description: Every page on roxanneassoulin.com opens with the same hard commitment: near-black (#121212) on white, interrupted exactly once by a single charge of lacquer-red (#cf2027) — the color of the brand's most iconic enamel bangles, stacked six-deep in campaign imagery — appearing on the primary CTA, the cart trigger, and occasional promo headlines. The palette extracted from the live site is deliberately sparse: the red, a neutral gray (#dedede) that carries hairlines and disabled states, and the near-black ink. That economy is structural rather than timid. The jewelry itself, photographed in dense color-blocked configurations against bare white, supplies all the chromatic richness the page needs; the site withdraws and holds the frame. No background fills, no decorative gradients — just the product against white, let at full size.
+name: "Roxanne Assoulin"
+source_url: "https://www.roxanneassoulin.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Every page on roxanneassoulin.com opens with the same hard commitment: near-black (#121212) on white, interrupted exactly once by a single charge of lacquer-red (#cf2027) — the color of the brand's most iconic enamel bangles, stacked six-deep in campaign imagery — appearing on the primary CTA, the cart trigger, and occasional promo headlines. The palette extracted from the live site is deliberately sparse: the red, a neutral gray (#dedede) that carries hairlines and disabled states, and the near-black ink. That economy is structural rather than timid. The jewelry itself, photographed in dense color-blocked configurations against bare white, supplies all the chromatic richness the page needs; the site withdraws and holds the frame. No background fills, no decorative gradients — just the product against white, let at full size.
 
   Navigation is stripped to its minimum: a wordmark in spaced uppercase above a thin rule, with category links (SHOP, ABOUT, STOCKISTS) set in compact uppercase at roughly 12px. Product cards are unbordered and unrounded — hard square crops, product name and price set flush-left below the image in a lightweight sans, no hover overlays beyond a quick-add bar that slides up on pointer contact. The add-to-cart flow collapses into a side drawer, keeping the catalog scroll intact.
 
@@ -318,6 +322,8 @@ components:
 - Hero headlines scale down from 42px (`display-xl`) to approximately 28px (`display-md`) on mobile; the serif weight is preserved at all breakpoints
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Font families not extracted** — the live site loads type via JavaScript or a third-party font CDN; no `font-family` values were captured. Typography tokens above use system serif/sans fallbacks. Verify the actual typefaces (likely a geometric or humanist sans for UI, and possibly a custom or licensed serif for display) by inspecting the live site's network requests for `.woff2` or `fonts.googleapis.com` calls.
 - **Extended color palette unconfirmed** — only three colors were extracted (#cf2027, #dedede, #121212). Surface, muted, and hover tokens are derived by convention. Inspect CSS custom properties or Shopify theme settings for the authoritative secondary palette.

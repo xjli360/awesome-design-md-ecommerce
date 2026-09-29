@@ -1,0 +1,624 @@
+{
+  "source_url": "https://loandsons.com",
+  "final_url": "https://www.loandsons.com/",
+  "captured_at": "2026-09-28T09:29:23.807309+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://loandsons.com",
+      "final_url": "https://www.loandsons.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "4c4a1d1f1725279c27b29e1fd2df48991e79e3a2f42ddd25d07c265724442330",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.loandsons.com/cdn/shop/t/162/assets/base.css?v=9427081002257081161782843064",
+      "final_url": "https://www.loandsons.com/cdn/shop/t/162/assets/base.css?v=9427081002257081161782843064",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "cfbd4699e110c75aa52cffb2eb3e983ddcb835208ad94e7a04e038d3ce79f62f",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.loandsons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.loandsons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.loandsons.com/cdn/shop/t/162/compiled_assets/styles.css?v=96684507043040590401782848948&subset=AJADEAAUAAAABgIQAABMAgAMCVAUALAADEEAAM91ASAB",
+      "final_url": "https://www.loandsons.com/cdn/shop/t/162/compiled_assets/styles.css?v=96684507043040590401782848948&subset=AJADEAAUAAAABgIQAABMAgAMCVAUALAADEEAAM91ASAB",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b7bdf164d40673ca4472936788a79c7a714ac2243ab7fc73ee8cfa2ec4346616",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.loandsons.com/cdn/shop/t/162/assets/theme-overrides.css?v=169334833039051436921782843109",
+      "final_url": "https://www.loandsons.com/cdn/shop/t/162/assets/theme-overrides.css?v=169334833039051436921782843109",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "da317a150cd70f2405e86ad9f5c2c36553c0c71c9296879a5ce532a175b09f4a",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0c3fc-9a5c-7c5f-b063-158ed04d9cfc/klaviyo-email-marketing-73/assets/app.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0c3fc-9a5c-7c5f-b063-158ed04d9cfc/klaviyo-email-marketing-73/assets/app.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 78,
+      "sources": [
+        "https://www.loandsons.com/",
+        "https://www.loandsons.com/cdn/shop/t/162/assets/base.css?v=9427081002257081161782843064",
+        "https://www.loandsons.com/cdn/shop/t/162/compiled_assets/styles.css?v=96684507043040590401782848948&subset=AJADEAAUAAAABgIQAABMAgAMCVAUALAADEEAAM91ASAB"
+      ]
+    },
+    "#ffffff": {
+      "count": 61,
+      "sources": [
+        "https://www.loandsons.com/",
+        "https://www.loandsons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.loandsons.com/cdn/shop/t/162/compiled_assets/styles.css?v=96684507043040590401782848948&subset=AJADEAAUAAAABgIQAABMAgAMCVAUALAADEEAAM91ASAB"
+      ]
+    },
+    "#262626": {
+      "count": 8,
+      "sources": [
+        "https://www.loandsons.com/"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 8,
+      "sources": [
+        "https://www.loandsons.com/"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 4,
+      "sources": [
+        "https://www.loandsons.com/",
+        "https://www.loandsons.com/cdn/shop/t/162/assets/theme-overrides.css?v=169334833039051436921782843109"
+      ]
+    },
+    "#00000000": {
+      "count": 4,
+      "sources": [
+        "https://www.loandsons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.loandsons.com/cdn/shop/t/162/compiled_assets/styles.css?v=96684507043040590401782848948&subset=AJADEAAUAAAABgIQAABMAgAMCVAUALAADEEAAM91ASAB"
+      ]
+    },
+    "#ebfa8a": {
+      "count": 3,
+      "sources": [
+        "https://www.loandsons.com/"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.loandsons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000066": {
+      "count": 2,
+      "sources": [
+        "https://www.loandsons.com/cdn/shop/t/162/compiled_assets/styles.css?v=96684507043040590401782848948&subset=AJADEAAUAAAABgIQAABMAgAMCVAUALAADEEAAM91ASAB"
+      ]
+    },
+    "#111111": {
+      "count": 2,
+      "sources": [
+        "https://www.loandsons.com/cdn/shop/t/162/assets/theme-overrides.css?v=169334833039051436921782843109"
+      ]
+    },
+    "#8b0000": {
+      "count": 1,
+      "sources": [
+        "https://www.loandsons.com/"
+      ]
+    },
+    "#006400": {
+      "count": 1,
+      "sources": [
+        "https://www.loandsons.com/"
+      ]
+    },
+    "#3ed660": {
+      "count": 1,
+      "sources": [
+        "https://www.loandsons.com/"
+      ]
+    },
+    "#ee9441": {
+      "count": 1,
+      "sources": [
+        "https://www.loandsons.com/"
+      ]
+    },
+    "#c8c8c8": {
+      "count": 1,
+      "sources": [
+        "https://www.loandsons.com/"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 1,
+      "sources": [
+        "https://www.loandsons.com/"
+      ]
+    },
+    "#00000012": {
+      "count": 1,
+      "sources": [
+        "https://www.loandsons.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.loandsons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.loandsons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.loandsons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0a142f": {
+      "count": 1,
+      "sources": [
+        "https://www.loandsons.com/cdn/shop/t/162/compiled_assets/styles.css?v=96684507043040590401782848948&subset=AJADEAAUAAAABgIQAABMAgAMCVAUALAADEEAAM91ASAB"
+      ]
+    },
+    "#00000026": {
+      "count": 1,
+      "sources": [
+        "https://www.loandsons.com/cdn/shop/t/162/compiled_assets/styles.css?v=96684507043040590401782848948&subset=AJADEAAUAAAABgIQAABMAgAMCVAUALAADEEAAM91ASAB"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 1,
+      "sources": [
+        "https://www.loandsons.com/cdn/shop/t/162/assets/theme-overrides.css?v=169334833039051436921782843109"
+      ]
+    },
+    "#e0001a": {
+      "count": 1,
+      "sources": [
+        "https://www.loandsons.com/cdn/shop/t/162/assets/theme-overrides.css?v=169334833039051436921782843109"
+      ]
+    }
+  },
+  "font_families": {
+    "Geist": [
+      "https://www.loandsons.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.loandsons.com/",
+      "selector": "body",
+      "declarations": "color: var(--color-foreground);\n    background-color: var(--color-background);"
+    },
+    {
+      "source": "https://www.loandsons.com/",
+      "selector": ".color-custom-sections--18472223113312__header_announcements_kcHY6p,\n    .color-custom-sections--18472223113312__header_announcements_kcHY6p .text-block",
+      "declarations": "--color-background: #000000;\n      --color-background-rgb: 0 0 0;\n\n      \n      \n--opacity-5-15: 0.15; --opacity-10-25: 0.25; --opacity-35-55: 0.55; --opacity-40-60:\n0.6; --opacity-30-60: 0.6; --opacity-60: 0.6;\n\n\n      \n        \n        --color: var(--palette-lightest);\n        --color-rgb: var(--palette-lightest-rgb);\n        --color-foreground: var(--palette-lightest);\n        --color-foreground-rgb: var(--palette-lightest-rgb);\n        --color-foreground-muted: rgb(var(--palette-lightest-rgb) / var(--opacity-muted-text));\n        --color-foreground-subdued: rgb(var(--palette-lightest-rgb) / var(--opacity-subdued-text));\n        --color-border: var(--palette-lightest);\n        --color-bor"
+    },
+    {
+      "source": "https://www.loandsons.com/",
+      "selector": ".color-custom-sections--18472223113312__header_announcements_kcHY6p",
+      "declarations": "--input-disabled-background-color: rgb(var(--palette-lightest-rgb) / var(--opacity-10));\n        --input-disabled-border-color: rgb(var(--palette-lightest-rgb) / var(--opacity-5));\n        --input-disabled-text-color: rgb(var(--palette-lightest-rgb) / var(--opacity-50));\n        --checkbox-border: 1px solid rgb(var(--palette-lightest-rgb) / var(--opacity-35-55));"
+    },
+    {
+      "source": "https://www.loandsons.com/",
+      "selector": ".color-custom-sections--18472223113312__header_announcements_kcHY6p",
+      "declarations": "color: var(--color, var(--color-foreground));\n      background-color: var(--color-background);"
+    },
+    {
+      "source": "https://www.loandsons.com/",
+      "selector": "m-width-mobile: 0px; --border-bottom-color-mobile: #ffffff;\n\n    .color-custom-top-sections--18472223113312__header_section,\n    .color-custom-top-sections--184",
+      "declarations": "--color-background: #ffffff;\n      --color-background-rgb: 255 255 255;\n\n      \n      \n--opacity-5-15: 0.05; --opacity-10-25: 0.1; --opacity-35-55: 0.35; --opacity-40-60:\n0.4; --opacity-30-60: 0.3; --opacity-60: 0.6;\n\n\n      \n        \n        --color: #000000;\n        --color-rgb: 0 0 0;\n        --color-foreground: #000000;\n        --color-foreground-rgb: 0 0 0;\n        --color-foreground-muted: rgb(0 0 0 / var(--opacity-muted-text));\n        --color-foreground-subdued: rgb(0 0 0 / var(--opacity-subdued-text));\n        --color-border: var(--palette-darkest);\n        --color-border-rgb: var(--palette-darkest-rgb);"
+    },
+    {
+      "source": "https://www.loandsons.com/",
+      "selector": ".color-custom-top-sections--18472223113312__header_section",
+      "declarations": "--input-disabled-background-color: rgb(0 0 0 / var(--opacity-10));\n        --input-disabled-border-color: rgb(0 0 0 / var(--opacity-5));\n        --input-disabled-text-color: rgb(0 0 0 / var(--opacity-50));\n        --checkbox-border: 1px solid rgb(0 0 0 / var(--opacity-35-55));"
+    },
+    {
+      "source": "https://www.loandsons.com/",
+      "selector": ".color-custom-top-sections--18472223113312__header_section",
+      "declarations": "color: var(--color, var(--color-foreground));\n      background-color: var(--color-background);"
+    },
+    {
+      "source": "https://www.loandsons.com/",
+      "selector": ".color-custom-AZElTT09iSnM4c293S__header-menu-1,\n    .color-custom-AZElTT09iSnM4c293S__header-menu-1 .text-block",
+      "declarations": "--color-background: #ffffff;\n      --color-background-rgb: 255 255 255;\n\n      \n      \n--opacity-5-15: 0.05; --opacity-10-25: 0.1; --opacity-35-55: 0.35; --opacity-40-60:\n0.4; --opacity-30-60: 0.3; --opacity-60: 0.6;\n\n\n      \n        \n        --color: #000000;\n        --color-rgb: 0 0 0;\n        --color-foreground: #000000;\n        --color-foreground-rgb: 0 0 0;\n        --color-foreground-muted: rgb(0 0 0 / var(--opacity-muted-text));\n        --color-foreground-subdued: rgb(0 0 0 / var(--opacity-subdued-text));\n        --color-border: var(--palette-darkest);\n        --color-border-rgb: var(--palette-darkest-rgb);"
+    },
+    {
+      "source": "https://www.loandsons.com/",
+      "selector": ".color-custom-AZElTT09iSnM4c293S__header-menu-1",
+      "declarations": "--input-disabled-background-color: rgb(0 0 0 / var(--opacity-10));\n        --input-disabled-border-color: rgb(0 0 0 / var(--opacity-5));\n        --input-disabled-text-color: rgb(0 0 0 / var(--opacity-50));\n        --checkbox-border: 1px solid rgb(0 0 0 / var(--opacity-35-55));"
+    },
+    {
+      "source": "https://www.loandsons.com/",
+      "selector": ".color-custom-AZElTT09iSnM4c293S__header-menu-1",
+      "declarations": "color: var(--color, var(--color-foreground));\n      background-color: var(--color-background);"
+    },
+    {
+      "source": "https://www.loandsons.com/",
+      "selector": "r(--color-foreground-rgb) / var(--opacity-10-25));\n--menu-localization-font: var(--font-heading--family); --color-shadow: rgb(var(--color-foreground-rgb) / var(",
+      "declarations": "--color-submenu: rgb(255 255 255);"
+    },
+    {
+      "source": "https://www.loandsons.com/",
+      "selector": ".color-custom-AZElTT09iSnM4c293S__header-menu,\n    .color-custom-AZElTT09iSnM4c293S__header-menu .text-block",
+      "declarations": "--color-background: #ffffff;\n      --color-background-rgb: 255 255 255;\n\n      \n      \n--opacity-5-15: 0.05; --opacity-10-25: 0.1; --opacity-35-55: 0.35; --opacity-40-60:\n0.4; --opacity-30-60: 0.3; --opacity-60: 0.6;\n\n\n      \n        \n        --color: #000000;\n        --color-rgb: 0 0 0;\n        --color-foreground: #000000;\n        --color-foreground-rgb: 0 0 0;\n        --color-foreground-muted: rgb(0 0 0 / var(--opacity-muted-text));\n        --color-foreground-subdued: rgb(0 0 0 / var(--opacity-subdued-text));\n        --color-border: var(--palette-darkest);\n        --color-border-rgb: var(--palette-darkest-rgb);"
+    },
+    {
+      "source": "https://www.loandsons.com/",
+      "selector": ".color-custom-AZElTT09iSnM4c293S__header-menu",
+      "declarations": "--input-disabled-background-color: rgb(0 0 0 / var(--opacity-10));\n        --input-disabled-border-color: rgb(0 0 0 / var(--opacity-5));\n        --input-disabled-text-color: rgb(0 0 0 / var(--opacity-50));\n        --checkbox-border: 1px solid rgb(0 0 0 / var(--opacity-35-55));"
+    },
+    {
+      "source": "https://www.loandsons.com/",
+      "selector": ".color-custom-AZElTT09iSnM4c293S__header-menu",
+      "declarations": "color: var(--color, var(--color-foreground));\n      background-color: var(--color-background);"
+    },
+    {
+      "source": "https://www.loandsons.com/",
+      "selector": ".header__underlay",
+      "declarations": "--color-submenu: rgb(255 255 255);"
+    },
+    {
+      "source": "https://www.loandsons.com/",
+      "selector": "zation-font-size: 1rem; --color-shadow: rgb(var(--color-foreground-rgb) / var(--opacity-10-25));\n--cart-bubble-background-fallback: #000000; --cart-bubble-text-",
+      "declarations": "--color-submenu: rgb(255 255 255);"
+    },
+    {
+      "source": "https://www.loandsons.com/",
+      "selector": "--color: #ffffff;      --color-rgb: 255 255 255;        --width: fit-content;    --max-width: var(--max-width--body-normal);          \n\n    .button-custom--AM0t",
+      "declarations": "--button-background-color: rgb(255 255 255 / 1.0);\n      --button-color: rgb(0 0 0 / 1.0);\n      --button-border-color: rgb(255 255 255 / 1.0);\n      --button-focus-outline-color: rgb(255 255 255);"
+    },
+    {
+      "source": "https://www.loandsons.com/",
+      "selector": ".button-custom--AM0trYUsvZWhITnplc__button_UnNFac:hover",
+      "declarations": "--button-background-color: #f2f2f2;\n      --button-color: var(--palette-darkest);\n      --button-border-color: #f2f2f2;"
+    },
+    {
+      "source": "https://www.loandsons.com/",
+      "selector": ": var(--max-width--body-narrow);          --text-align: center;          \n\n    .color-custom-template--18472222785632__hero_DmKTz6,\n    .color-custom-template--",
+      "declarations": "--color-background: #000000;\n      --color-background-rgb: 0 0 0;\n\n      \n      \n--opacity-5-15: 0.15; --opacity-10-25: 0.25; --opacity-35-55: 0.55; --opacity-40-60:\n0.6; --opacity-30-60: 0.6; --opacity-60: 0.6;"
+    },
+    {
+      "source": "https://www.loandsons.com/",
+      "selector": "--color: #ffffff;      --color-rgb: 255 255 255;        --width: fit-content;    --max-width: var(--max-width--body-normal);          \n\n    .button-custom--ATmd",
+      "declarations": "--button-background-color: rgb(255 255 255 / 1.0);\n      --button-color: rgb(0 0 0 / 1.0);\n      --button-border-color: rgb(255 255 255 / 1.0);\n      --button-focus-outline-color: rgb(255 255 255);"
+    },
+    {
+      "source": "https://www.loandsons.com/",
+      "selector": ".button-custom--ATmd3cUZtdzdlUmZyY__button_c83Cce:hover",
+      "declarations": "--button-background-color: #f2f2f2;\n      --button-color: var(--palette-darkest);\n      --button-border-color: #f2f2f2;"
+    },
+    {
+      "source": "https://www.loandsons.com/",
+      "selector": "0px; --padding-inline-end:0px;            --width: 100%;    --max-width: var(--max-width--body-narrow);          --text-align: center;          \n\n    .button-cu",
+      "declarations": "--button-background-color: rgb(0 0 0 / 1.0);\n      --button-color: rgb(255 255 255 / 1.0);\n      --button-border-color: rgb(255 255 255 / 1.0);\n      --button-focus-outline-color: rgb(0 0 0);"
+    },
+    {
+      "source": "https://www.loandsons.com/",
+      "selector": ".button-custom--ASzBMRnlDaEFmcjRLd__button_QL8ztb:hover",
+      "declarations": "--button-background-color: #262626;\n      --button-color: var(--palette-lightest);\n      --button-border-color: #f2f2f2;"
+    },
+    {
+      "source": "https://www.loandsons.com/",
+      "selector": "0px; --padding-inline-end:0px;            --width: 100%;    --max-width: var(--max-width--body-narrow);          --text-align: center;          \n\n    .button-cu",
+      "declarations": "--button-background-color: rgb(0 0 0 / 1.0);\n      --button-color: rgb(255 255 255 / 1.0);\n      --button-border-color: rgb(255 255 255 / 1.0);\n      --button-focus-outline-color: rgb(0 0 0);"
+    },
+    {
+      "source": "https://www.loandsons.com/",
+      "selector": ".button-custom--AVUNOR2Jjb1AyRVQ3Z__button_3in4MM:hover",
+      "declarations": "--button-background-color: #262626;\n      --button-color: var(--palette-lightest);\n      --button-border-color: #f2f2f2;"
+    },
+    {
+      "source": "https://www.loandsons.com/",
+      "selector": "0px; --padding-inline-end:0px;            --width: 100%;    --max-width: var(--max-width--body-narrow);          --text-align: center;          \n\n    .button-cu",
+      "declarations": "--button-background-color: rgb(0 0 0 / 1.0);\n      --button-color: rgb(255 255 255 / 1.0);\n      --button-border-color: rgb(255 255 255 / 1.0);\n      --button-focus-outline-color: rgb(0 0 0);"
+    },
+    {
+      "source": "https://www.loandsons.com/",
+      "selector": ".button-custom--ARmV5L3dQbnUvQ0pnL__button_BEedQ7:hover",
+      "declarations": "--button-background-color: #262626;\n      --button-color: var(--palette-lightest);\n      --button-border-color: #f2f2f2;"
+    },
+    {
+      "source": "https://www.loandsons.com/",
+      "selector": "t-content;    --max-width: var(--max-width--body-normal);          \n\n    .color-custom-template--18472222785632__section_A4fttm,\n    .color-custom-template--184",
+      "declarations": "--color-background: #ffffff;\n      --color-background-rgb: 255 255 255;\n\n      \n      \n--opacity-5-15: 0.05; --opacity-10-25: 0.1; --opacity-35-55: 0.35; --opacity-40-60:\n0.4; --opacity-30-60: 0.3; --opacity-60: 0.6;\n\n\n      \n        \n        --color: #000000;\n        --color-rgb: 0 0 0;\n        --color-foreground: #000000;\n        --color-foreground-rgb: 0 0 0;\n        --color-foreground-muted: rgb(0 0 0 / var(--opacity-muted-text));\n        --color-foreground-subdued: rgb(0 0 0 / var(--opacity-subdued-text));\n        --color-border: var(--palette-darkest);\n        --color-border-rgb: var(--palette-darkest-rgb);"
+    },
+    {
+      "source": "https://www.loandsons.com/",
+      "selector": "x-width: var(--max-width--body-normal);          \n\n    .color-custom-sections--18472223146080__migrated_footer_content,\n    .color-custom-sections--184722231460",
+      "declarations": "--color-background: #000000;\n      --color-background-rgb: 0 0 0;\n\n      \n      \n--opacity-5-15: 0.15; --opacity-10-25: 0.25; --opacity-35-55: 0.55; --opacity-40-60:\n0.6; --opacity-30-60: 0.6; --opacity-60: 0.6;\n\n\n      \n        \n        --color: var(--palette-lightest);\n        --color-rgb: var(--palette-lightest-rgb);\n        --color-foreground: var(--palette-lightest);\n        --color-foreground-rgb: var(--palette-lightest-rgb);\n        --color-foreground-muted: rgb(var(--palette-lightest-rgb) / var(--opacity-muted-text));\n        --color-foreground-subdued: rgb(var(--palette-lightest-rgb) / var(--opacity-subdued-text));\n        --color-border: var(--palette-lightest);\n        --color-bor"
+    },
+    {
+      "source": "https://www.loandsons.com/cdn/shop/t/162/assets/base.css?v=9427081002257081161782843064",
+      "selector": "body",
+      "declarations": "color:var(--color-foreground);background:var(--color-background);display:flex;flex-direction:column;margin:0;min-height:100svh;font-variation-settings:\"slnt\" 0"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Travel Bags Designed Thoughtfully & Sustainably Made - Lo & Sons",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.loandsons.com/",
+        "https://www.loandsons.com/cdn/shop/t/162/assets/base.css?v=9427081002257081161782843064",
+        "https://www.loandsons.com/cdn/shop/t/162/compiled_assets/styles.css?v=96684507043040590401782848948&subset=AJADEAAUAAAABgIQAABMAgAMCVAUALAADEEAAM91ASAB"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.loandsons.com/cdn/shop/t/162/assets/theme-overrides.css?v=169334833039051436921782843109"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.loandsons.com/",
+        "https://www.loandsons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.loandsons.com/cdn/shop/t/162/compiled_assets/styles.css?v=96684507043040590401782848948&subset=AJADEAAUAAAABgIQAABMAgAMCVAUALAADEEAAM91ASAB"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.loandsons.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.loandsons.com/cdn/shop/t/162/compiled_assets/styles.css?v=96684507043040590401782848948&subset=AJADEAAUAAAABgIQAABMAgAMCVAUALAADEEAAM91ASAB"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.loandsons.com/",
+        "https://www.loandsons.com/cdn/shop/t/162/assets/theme-overrides.css?v=169334833039051436921782843109"
+      ]
+    },
+    "colors.border-subtle": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.loandsons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.loandsons.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.loandsons.com/cdn/shop/t/162/assets/theme-overrides.css?v=169334833039051436921782843109"
+      ]
+    },
+    "colors.surface-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.loandsons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.loandsons.com/",
+        "https://www.loandsons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.loandsons.com/cdn/shop/t/162/compiled_assets/styles.css?v=96684507043040590401782848948&subset=AJADEAAUAAAABgIQAABMAgAMCVAUALAADEEAAM91ASAB"
+      ]
+    },
+    "colors.overlay": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.loandsons.com/cdn/shop/t/162/compiled_assets/styles.css?v=96684507043040590401782848948&subset=AJADEAAUAAAABgIQAABMAgAMCVAUALAADEEAAM91ASAB"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.loandsons.com/"
+      ]
+    },
+    "colors.sale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.loandsons.com/cdn/shop/t/162/assets/theme-overrides.css?v=169334833039051436921782843109"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.loandsons.com/"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.loandsons.com/"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.loandsons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.info-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.loandsons.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.deep-navy": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.loandsons.com/cdn/shop/t/162/compiled_assets/styles.css?v=96684507043040590401782848948&subset=AJADEAAUAAAABgIQAABMAgAMCVAUALAADEEAAM91ASAB"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.announcement-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-chip": {
+      "status": "inferred"
+    }
+  }
+}

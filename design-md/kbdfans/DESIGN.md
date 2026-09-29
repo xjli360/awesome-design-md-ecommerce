@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: KBDfans
-description: |
+name: "KBDfans"
+source_url: "https://kbdfans.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The checkout button on KBDfans lives at #fb485e — a coral that reads somewhere between fire-engine alarm and neon-salmon, hot enough to arrest a product-grid scroll without torching the mostly dark-neutral interface built around #121212. Two reds anchor the brand: the coral-primary for CTAs and interactive highlights, and #d7030b — a deeper, near-arterial red — reserved for group-buy countdowns and stock-pressure states, creating a two-tier urgency vocabulary that maps directly onto the keyboard community's calendar anxiety around limited runs. The near-black field absorbs product photography cleanly; anodized aluminum cases and POM plates render crisply against the low-reflectance background, so the brand shell stays recessive and lets the hardware carry visual weight.
 
   No custom font stack was recovered from the live extraction; the typographic feel is a clean geometric grotesque — likely a system font stack or a runtime-loaded web font. Weight contrast does the structural work: product display names push weight 700, specification labels hold at 600, and body descriptions settle at 400 across a 14–15px range that accommodates dense compatibility tables and switch-feel breakdowns without fatigue. All-caps tracked labels on navigation tabs, stock badges, and category chips lend a technical spec-sheet register that fits an audience fluent in keyboard jargon.
@@ -358,6 +361,8 @@ components:
 - Group-buy countdown timer stacks into a 2×2 digit grid below 480px viewport width
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No font-family stack extracted from live site; typeface is either a Shopify theme system font or a JS-loaded web font (Inter, Neue Haas Grotesk, and GT Walsheim are common in this store category) — all typography tokens default to the system sans-serif stack and must be verified against the live CSS
 - Only four hex values extracted; no confirmed secondary accent color, success/warning/info semantic states, loyalty or tier badge palette, or community-rank color system

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Nitecore
-description: High-voltage #ffdd00 yellow — the exact shade of a lithium cell's caution stripe — sears out of a near-black #111111 canvas that dominates every viewport. Nitecore sells lumen counts the way performance vehicles sell horsepower; hero banners stack five-digit spec numbers in condensed Teko at display scale, each digit the same electric yellow, daring the viewer to compare. The typographic system runs unusually deep for a hardware manufacturer — Anton drives impact headlines with its compressed black weight, Barlow carries navigation and mid-level section titles in a semi-condensed cut that reads as engineered rather than editorial, Rajdhani lends a blueprint-schematic quality to specification tables, and Inter supplies clean body copy at 400-weight. Four distinct type families, coordinated by condensation and stroke density rather than serifs or decorative faces. Product cards sit on #231f20 dark surfaces with `{rounded.sm}` corners (4px) that keep the geometry tool-sharp; there are no pill shapes, no generous consumer-lifestyle radii anywhere in the system. The palette is deliberately constrained — yellow for every action and attention state, a single #4caf78 green for success and stock confirmations, and a disciplined gradient of neutrals from #0e0e0e through #888888 to #f5f5f5 that builds spatial depth without introducing warmth or color noise. Photography carries the emotion: beam shots slicing through forest darkness, macro details of anodized aluminum knurling, size comparisons against an 18650 cell. The UI stays structural, using generous `{spacing.xl}` column gutters and `{spacing.section}` vertical breaks to let each product hero breathe. Navigation deploys a full-width dark mega-menu organized by use-case verticals — flashlights, headlamps, power solutions, fans — each category anchored by a silhouette product image beneath a `{typography.uppercase-tag}` label. The cumulative effect is closer to an avionics instrument panel than a consumer retail grid: data-dense, hierarchy-precise, and illuminated by a single dominant signal color.
+name: "Nitecore"
+source_url: "https://www.nitecore.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  High-voltage #ffdd00 yellow — the exact shade of a lithium cell's caution stripe — sears out of a near-black #111111 canvas that dominates every viewport. Nitecore sells lumen counts the way performance vehicles sell horsepower; hero banners stack five-digit spec numbers in condensed Teko at display scale, each digit the same electric yellow, daring the viewer to compare. The typographic system runs unusually deep for a hardware manufacturer — Anton drives impact headlines with its compressed black weight, Barlow carries navigation and mid-level section titles in a semi-condensed cut that reads as engineered rather than editorial, Rajdhani lends a blueprint-schematic quality to specification tables, and Inter supplies clean body copy at 400-weight. Four distinct type families, coordinated by condensation and stroke density rather than serifs or decorative faces. Product cards sit on #231f20 dark surfaces with `{rounded.sm}` corners (4px) that keep the geometry tool-sharp; there are no pill shapes, no generous consumer-lifestyle radii anywhere in the system. The palette is deliberately constrained — yellow for every action and attention state, a single #4caf78 green for success and stock confirmations, and a disciplined gradient of neutrals from #0e0e0e through #888888 to #f5f5f5 that builds spatial depth without introducing warmth or color noise. Photography carries the emotion: beam shots slicing through forest darkness, macro details of anodized aluminum knurling, size comparisons against an 18650 cell. The UI stays structural, using generous `{spacing.xl}` column gutters and `{spacing.section}` vertical breaks to let each product hero breathe. Navigation deploys a full-width dark mega-menu organized by use-case verticals — flashlights, headlamps, power solutions, fans — each category anchored by a silhouette product image beneath a `{typography.uppercase-tag}` label. The cumulative effect is closer to an avionics instrument panel than a consumer retail grid: data-dense, hierarchy-precise, and illuminated by a single dominant signal color.
 
 colors:
   primary: "#ffdd00"
@@ -248,7 +252,7 @@ components:
     backgroundColor: "{colors.canvas}"
     textColor: "{colors.ink}"
     minHeight: 560px
-    padding: "{spacing.section}" 0
+    padding: "{spacing.section} 0"
   hero-headline:
     typography: "{typography.display-xl}"
     textColor: "{colors.ink}"
@@ -301,7 +305,7 @@ components:
     backgroundColor: "{colors.surface-soft}"
     textColor: "{colors.ink}"
     typography: "{typography.body-sm}"
-    padding: "{spacing.xl}" "{spacing.xxl}"
+    padding: "{spacing.xl} {spacing.xxl}"
     borderTop: 1px solid {colors.hairline-soft}
   mega-menu-heading:
     typography: "{typography.uppercase-tag}"
@@ -315,7 +319,7 @@ components:
     backgroundColor: "{colors.canvas}"
     textColor: "{colors.muted}"
     typography: "{typography.body-sm}"
-    padding: "{spacing.section}" 0
+    padding: "{spacing.section} 0"
     borderTop: 1px solid {colors.hairline}
   footer-heading:
     typography: "{typography.title-sm}"
@@ -352,12 +356,12 @@ components:
     typography: "{typography.caption}"
     textColor: "{colors.muted}"
     backgroundColor: "{colors.surface-card}"
-    padding: "{spacing.sm}" "{spacing.md}"
+    padding: "{spacing.sm} {spacing.md}"
   spec-table-value:
     typography: "{typography.spec-value}"
     textColor: "{colors.ink}"
   spec-table-cell:
-    padding: "{spacing.sm}" "{spacing.md}"
+    padding: "{spacing.sm} {spacing.md}"
     borderBottom: 1px solid {colors.hairline-soft}
   comparison-card:
     backgroundColor: "{colors.surface-card}"
@@ -378,7 +382,7 @@ components:
     textColor: "{colors.ink}"
     typography: "{typography.caption}"
     rounded: "{rounded.xs}"
-    padding: "{spacing.sm}" "{spacing.md}"
+    padding: "{spacing.sm} {spacing.md}"
 ---
 
 ## Components
@@ -473,6 +477,8 @@ components:
 - Footer: accordion sections on mobile, multi-column grid on desktop
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact font weights and optical sizes for AstaSans and RobotoFlex could not be determined from extraction — these may serve as fallback or region-specific (CJK) typefaces
 - The site uses multiple near-identical yellows (#ffdd00, #ffd400, #ffde00, #ffda09, #ffc400, #fedd02) — it is unclear whether these are intentional contextual variants or rendering artifacts; this spec consolidates them into primary (#ffdd00), primary-active (#ffc400), and spec-highlight (#ffd400)

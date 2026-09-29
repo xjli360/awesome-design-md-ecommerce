@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Ninjutso
-description: A community-driven performance mouse brand that speaks through deep indigo (#1e22aa) and a single marigold accent (#fbcd0a) — the two colors that appear nowhere else in the extracted palette and signal a deliberate, almost esports-arena identity. The indigo carries every primary CTA, nav bar, and product badge with the confidence of a brand that knows its audience doesn't need hand-holding. Against a canvas of near-white (#f9fafb) and soft gray surfaces (#eeeeee, #f5f5f5), the marigold appears sparingly — a discount badge, a pre-order banner, a spec highlight — like a single LED on a matte-black PCB. The typography stack leans on Lexend Deca for display headers, a geometric sans with wide apertures that reads clean at 24px and authoritative at 14px body. Buttons are pill-shaped at {rounded.full} with 48px height, the search bar is a rounded rectangle at {rounded.md}, and product cards use {rounded.sm} corners that mirror the chamfered edges of the mice themselves. The extracted palette includes Shopify checkout grays (#d1d5db, #bdbdbd) and social-icon blues (#007aff, #4169e1) that are not brand colors — the true system is a three-color architecture: indigo for action, marigold for emphasis, and a controlled gray scale (#222222 ink, #444749 body, #919da9 muted) for everything else. The "From Community, For Community" tagline is not marketing fluff; it's visible in the design choices — no aggressive upsells, no bloated hero sections, just clean product grids and technical specs treated as editorial content.
+name: "Ninjutso"
+source_url: "https://ninjutso.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A community-driven performance mouse brand that speaks through deep indigo (#1e22aa) and a single marigold accent (#fbcd0a) — the two colors that appear nowhere else in the extracted palette and signal a deliberate, almost esports-arena identity. The indigo carries every primary CTA, nav bar, and product badge with the confidence of a brand that knows its audience doesn't need hand-holding. Against a canvas of near-white (#f9fafb) and soft gray surfaces (#eeeeee, #f5f5f5), the marigold appears sparingly — a discount badge, a pre-order banner, a spec highlight — like a single LED on a matte-black PCB. The typography stack leans on Lexend Deca for display headers, a geometric sans with wide apertures that reads clean at 24px and authoritative at 14px body. Buttons are pill-shaped at {rounded.full} with 48px height, the search bar is a rounded rectangle at {rounded.md}, and product cards use {rounded.sm} corners that mirror the chamfered edges of the mice themselves. The extracted palette includes Shopify checkout grays (#d1d5db, #bdbdbd) and social-icon blues (#007aff, #4169e1) that are not brand colors — the true system is a three-color architecture: indigo for action, marigold for emphasis, and a controlled gray scale (#222222 ink, #444749 body, #919da9 muted) for everything else. The "From Community, For Community" tagline is not marketing fluff; it's visible in the design choices — no aggressive upsells, no bloated hero sections, just clean product grids and technical specs treated as editorial content.
 
 colors:
   primary: "#1e22aa"
@@ -396,6 +400,8 @@ components:
 - Search bar moves from inline to a full-screen overlay on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for product cards (likely a subtle box-shadow or scale transform) could not be extracted from static CSS
 - Error state styling for forms (border color, error message typography) not present in extracted data

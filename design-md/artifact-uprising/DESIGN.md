@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Artifact Uprising
-description: |
+name: "Artifact Uprising"
+source_url: "https://www.artifactuprising.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Every page defaults to a parchment canvas — #f4f2ed rather than white — so the brand declares its proximity to physical paper before a single product is visible. That warm off-white is not a background choice; it is the thesis: a screen surface that mimics the paper stock being sold. The primary CTA color, a muted coffee brown at #6e5b4f, is equally unusual for an e-commerce context; most DTC peers lean on blue or black for action buttons, but Artifact Uprising treats its call-to-action as another tonal element in a room-temperature palette rather than an interrupt. Crimson Pro handles all display weight — headlines arrive at 38–48px in regular or semibold, set with minimal negative tracking — while Acumin Pro governs navigation, labels, and body copy in tight all-caps or compact 14px runs, producing the serif-leads/sans-follows hierarchy of a well-designed photo book interior. Border-radius is nearly absent: product cards use {rounded.none} or a bare {rounded.xs}, so the imagery — open book spreads, unboxing sequences shot in low natural light — supplies all the softness without competing geometry. A pale sage wash, #e1f0ef, surfaces in callout bands and icon-background fields as the sole accent departure from warm-neutral; it reads like the endpaper color of a handmade album. The dark charcoal-teal #293234 anchors the footer and structural text, a color with enough green in it to feel organic rather than corporate. Grays stay warm: hairlines at #d2d2d0 rather than cool #cccccc. Section padding is generous — 64px between editorial rows — echoing the blank-page breathing room that defines the physical products. The blues surfacing in extracted data (#3377cc, #337ab7, #225ac9) are Bootstrap-default link and anchor colors unlikely to represent branded design choices; interactive energy in the brand's own UI runs entirely through the brown and charcoal registers. Label typography is set in Acumin Pro all-caps with wide letterSpacing (0.10–0.12em), treating product categorization the way a colophon handles edition information — present but subordinate to the image.
 
 colors:
@@ -417,6 +420,8 @@ components:
 - Hero transitions from side-by-side (text left, image right) on desktop to stacked (image above, text below) on mobile, with image aspect ratio cropped to 16:9 at mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No brand-owned custom typeface confirmed; Crimson Pro/Crimson Text and Acumin Pro are inferred from font-family stacks but the actual font loading (webfont service, subsetting, weight axes) could not be verified
 - Multiple blue values (#3377cc, #337ab7, #225ac9, #4990e2, #4a90e2) appear in extracted data; these are likely Bootstrap or third-party widget defaults rather than brand color choices — no blue has been used as a design token

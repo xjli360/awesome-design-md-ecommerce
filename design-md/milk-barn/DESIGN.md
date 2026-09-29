@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Milk-Barn
-description: |
+name: "Milk-Barn"
+source_url: "https://milkbarnkids.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Milk-Barn stakes its entire color bet on one hue: a cornflower-periwinkle (#334fb4) that reads closer to the blue in a child's first crayon set than to any corporate palette. It lands on every primary button, every navigational anchor, and every active state — a single color shouldering the expressive work that other baby brands distribute across multiple pastels. The remainder of the palette is almost entirely negative space: four near-whites (#efefef, #e0e0e0, #f6f6f6, #f7f7f7) so tonally close they read as a single luminous field rather than distinct tones, leaving product photography — printed swaddles, snap-front rompers, hand-embroidered onesies — to carry all visual weight.
 
   Assistant, the brand's sole typeface, is a geometric humanist sans with open apertures that make it feel readable rather than styled. At 700 weight it anchors hero text without tipping into aggression; at 400 it produces body copy that disappears into the reading experience. The constraint of one typeface alongside one accent color is a discipline that shifts the brand's personality entirely into its textile prints and illustration work, keeping UI chrome quiet. The name itself — Milk-Barn — reaches for pastoral domesticity: cream, hay, clean cotton, the sense of something made with patience in a place that does not hurry.
@@ -357,6 +360,8 @@ components:
 - Announcement bar reduces font size from 13px to 12px below 375px and hides any secondary promotional line
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only five hex values were extracted; the site likely loads additional palette tokens (sale red, success state, secondary accent) via JavaScript — none were capturable
 - Text colors for ink, body, and muted were not present in the extraction and have been derived from standard white-canvas conventions; verify against live site computed styles

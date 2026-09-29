@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Jiggy Puzzles
-description: A polished, art-forward puzzle brand built on a warm ivory canvas (#fcfbf9) and a deep violet primary (#42416e) that reads as sophisticated rather than playful — the brand trusts a restrained, museum-like palette to elevate the puzzle category from hobby to decor. Gold accents (#ab8c52) appear sparingly on badges, product details, and framing cues, lending a subtle luxury feel without tipping into gilding. The typography stack pairs a bold, condensed Brandon Grotesque for headlines with the rounded, modern Bricolage Grotesque for body copy, creating a contrast between stately display and approachable reading. Product cards use soft, generous corner radii ({rounded.md}) and sit on the warm canvas with a subtle shadow, mimicking the feel of framed art leaning against a wall. The checkout flow inherits Shopify’s standard widget colors, but the brand’s own interface is remarkably restrained — nearly monochrome with violet as the single voltage, gold as the single accent, and no secondary palette competing for attention. The overall effect is calm, curated, and slightly editorial: puzzles presented not as toys but as objects worth framing, which the tagline directly promises.
+name: "Jiggy Puzzles"
+source_url: "https://jiggypuzzles.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A polished, art-forward puzzle brand built on a warm ivory canvas (#fcfbf9) and a deep violet primary (#42416e) that reads as sophisticated rather than playful — the brand trusts a restrained, museum-like palette to elevate the puzzle category from hobby to decor. Gold accents (#ab8c52) appear sparingly on badges, product details, and framing cues, lending a subtle luxury feel without tipping into gilding. The typography stack pairs a bold, condensed Brandon Grotesque for headlines with the rounded, modern Bricolage Grotesque for body copy, creating a contrast between stately display and approachable reading. Product cards use soft, generous corner radii ({rounded.md}) and sit on the warm canvas with a subtle shadow, mimicking the feel of framed art leaning against a wall. The checkout flow inherits Shopify’s standard widget colors, but the brand’s own interface is remarkably restrained — nearly monochrome with violet as the single voltage, gold as the single accent, and no secondary palette competing for attention. The overall effect is calm, curated, and slightly editorial: puzzles presented not as toys but as objects worth framing, which the tagline directly promises.
 
 colors:
   primary: "#42416e"
@@ -477,6 +481,8 @@ components:
 - Product card badges may be hidden or reduced in size on mobile to prevent crowding
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for most components (buttons, links, cards) are inferred from common patterns but not extracted from the live site; actual hover transitions (color, shadow, scale) may differ
 - Error and validation styling for forms (beyond the basic error border) is not captured — inline error messages, success states, and tooltip styling are unknown

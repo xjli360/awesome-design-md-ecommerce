@@ -1,0 +1,881 @@
+{
+  "source_url": "https://pupford.com",
+  "final_url": "https://pupford.com/",
+  "captured_at": "2026-09-28T09:35:20.588702+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://pupford.com",
+      "final_url": "https://pupford.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "948b9245ef95139a480e87495a7c84590b5f3513d0349d203e2ae1abcf9a4a2d",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.riddle.com/embed/files/css/embed.css",
+      "final_url": "https://www.riddle.com/embed/files/css/embed.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0ebe4c3492473460e2cd9d1f71c2722e31282f4b89fcf0319310d65f39d6fa65",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://pupford.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://pupford.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://pupford.com/cdn/shop/t/104/assets/base.css?v=44303090441368914051788453907",
+      "final_url": "https://pupford.com/cdn/shop/t/104/assets/base.css?v=44303090441368914051788453907",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "dbbf08335d7875461a9dc53360ea75dc42fa4dd73bc24a25c6fb1de7c91a6428",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://pupford.com/cdn/shop/t/104/assets/component-cart-items.css?v=17635095283644773321773360495",
+      "final_url": "https://pupford.com/cdn/shop/t/104/assets/component-cart-items.css?v=17635095283644773321773360495",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c7729f7414296046cc2d039872cd1b77e7cfcf1e308bb564990637d2022e653f",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://pupford.com/cdn/shop/t/104/assets/component-cart-drawer.css?v=71657608900808639191773360495",
+      "final_url": "https://pupford.com/cdn/shop/t/104/assets/component-cart-drawer.css?v=71657608900808639191773360495",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "22e278d0f6388dd03ca7478e06d9152a976df44c65240d5285606241e7f0bc9f",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#fcf9e9": {
+      "count": 93,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#592e2c": {
+      "count": 90,
+      "sources": [
+        "https://pupford.com/",
+        "https://pupford.com/cdn/shop/t/104/assets/base.css?v=44303090441368914051788453907",
+        "https://pupford.com/cdn/shop/t/104/assets/component-cart-items.css?v=17635095283644773321773360495",
+        "https://pupford.com/cdn/shop/t/104/assets/component-cart-drawer.css?v=71657608900808639191773360495"
+      ]
+    },
+    "#572d2f": {
+      "count": 90,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 83,
+      "sources": [
+        "https://pupford.com/",
+        "https://pupford.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://pupford.com/cdn/shop/t/104/assets/base.css?v=44303090441368914051788453907"
+      ]
+    },
+    "#e14f3d": {
+      "count": 64,
+      "sources": [
+        "https://pupford.com/",
+        "https://pupford.com/cdn/shop/t/104/assets/base.css?v=44303090441368914051788453907"
+      ]
+    },
+    "#121212": {
+      "count": 27,
+      "sources": [
+        "https://pupford.com/",
+        "https://pupford.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#a8c7fe": {
+      "count": 25,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#ffb3b9": {
+      "count": 24,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#e64b38": {
+      "count": 17,
+      "sources": [
+        "https://pupford.com/",
+        "https://pupford.com/cdn/shop/t/104/assets/base.css?v=44303090441368914051788453907"
+      ]
+    },
+    "#25384a": {
+      "count": 16,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#fed34c": {
+      "count": 16,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#000000": {
+      "count": 13,
+      "sources": [
+        "https://pupford.com/",
+        "https://pupford.com/cdn/shop/t/104/assets/base.css?v=44303090441368914051788453907"
+      ]
+    },
+    "#334fb4": {
+      "count": 10,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#d0021b": {
+      "count": 9,
+      "sources": [
+        "https://pupford.com/",
+        "https://pupford.com/cdn/shop/t/104/assets/base.css?v=44303090441368914051788453907"
+      ]
+    },
+    "#fdfdfd": {
+      "count": 8,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#8a8a8a": {
+      "count": 8,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#5d6b82": {
+      "count": 8,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#d1d5db": {
+      "count": 8,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#020202": {
+      "count": 8,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#faf7e8": {
+      "count": 6,
+      "sources": [
+        "https://pupford.com/",
+        "https://pupford.com/cdn/shop/t/104/assets/base.css?v=44303090441368914051788453907"
+      ]
+    },
+    "#505053": {
+      "count": 5,
+      "sources": [
+        "https://pupford.com/",
+        "https://pupford.com/cdn/shop/t/104/assets/base.css?v=44303090441368914051788453907"
+      ]
+    },
+    "#552628": {
+      "count": 5,
+      "sources": [
+        "https://pupford.com/cdn/shop/t/104/assets/base.css?v=44303090441368914051788453907"
+      ]
+    },
+    "#eeeeee": {
+      "count": 3,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#d22d1f": {
+      "count": 3,
+      "sources": [
+        "https://pupford.com/",
+        "https://pupford.com/cdn/shop/t/104/assets/base.css?v=44303090441368914051788453907"
+      ]
+    },
+    "#47262b": {
+      "count": 3,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#ffffff00": {
+      "count": 3,
+      "sources": [
+        "https://pupford.com/cdn/shop/t/104/assets/base.css?v=44303090441368914051788453907"
+      ]
+    },
+    "#b6b6b4": {
+      "count": 3,
+      "sources": [
+        "https://pupford.com/cdn/shop/t/104/assets/component-cart-items.css?v=17635095283644773321773360495",
+        "https://pupford.com/cdn/shop/t/104/assets/component-cart-drawer.css?v=71657608900808639191773360495"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 2,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#242833": {
+      "count": 2,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#fbf6e9": {
+      "count": 2,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#4e4e4e": {
+      "count": 2,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#f8f8e7": {
+      "count": 2,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#feb8c0": {
+      "count": 2,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#9bc4fe": {
+      "count": 2,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#fecf16": {
+      "count": 2,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#9adc8e": {
+      "count": 2,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#c09dd3": {
+      "count": 2,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 2,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#e3e3e3": {
+      "count": 2,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#2bb673": {
+      "count": 2,
+      "sources": [
+        "https://pupford.com/",
+        "https://pupford.com/cdn/shop/t/104/assets/base.css?v=44303090441368914051788453907"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://pupford.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://pupford.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://pupford.com/cdn/shop/t/104/assets/base.css?v=44303090441368914051788453907"
+      ]
+    },
+    "#ec5442": {
+      "count": 2,
+      "sources": [
+        "https://pupford.com/cdn/shop/t/104/assets/base.css?v=44303090441368914051788453907"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://pupford.com/cdn/shop/t/104/assets/base.css?v=44303090441368914051788453907"
+      ]
+    },
+    "#7b7b7b": {
+      "count": 1,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#fcfcf1": {
+      "count": 1,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#1f384e": {
+      "count": 1,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#f6aaa8": {
+      "count": 1,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#e9eaec": {
+      "count": 1,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 1,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#fdf9e9": {
+      "count": 1,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#b5aeae": {
+      "count": 1,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#dff7e3": {
+      "count": 1,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#263e2f": {
+      "count": 1,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#666666": {
+      "count": 1,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#4a90e2": {
+      "count": 1,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#6b3cdf": {
+      "count": 1,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "#4e4e4eff": {
+      "count": 1,
+      "sources": [
+        "https://pupford.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "Assistant": [
+      "https://pupford.com/"
+    ],
+    "BuenosAires Black": [
+      "https://pupford.com/"
+    ],
+    "BuenosAires Bold": [
+      "https://pupford.com/"
+    ],
+    "BuenosAires Book": [
+      "https://pupford.com/"
+    ],
+    "BuenosAires Regular": [
+      "https://pupford.com/"
+    ],
+    "BuenosAires RegularItalic": [
+      "https://pupford.com/"
+    ],
+    "BuenosAires SemiBold": [
+      "https://pupford.com/"
+    ],
+    "BuenosAiresBook": [
+      "https://pupford.com/",
+      "https://pupford.com/cdn/shop/t/104/assets/base.css?v=44303090441368914051788453907",
+      "https://pupford.com/cdn/shop/t/104/assets/component-cart-items.css?v=17635095283644773321773360495",
+      "https://pupford.com/cdn/shop/t/104/assets/component-cart-drawer.css?v=71657608900808639191773360495"
+    ],
+    "BuenosAiresLight": [
+      "https://pupford.com/"
+    ],
+    "BuenosAiresRegular": [
+      "https://pupford.com/",
+      "https://pupford.com/cdn/shop/t/104/assets/base.css?v=44303090441368914051788453907",
+      "https://pupford.com/cdn/shop/t/104/assets/component-cart-drawer.css?v=71657608900808639191773360495"
+    ],
+    "BuenosAiresSemiBold": [
+      "https://pupford.com/",
+      "https://pupford.com/cdn/shop/t/104/assets/base.css?v=44303090441368914051788453907",
+      "https://pupford.com/cdn/shop/t/104/assets/component-cart-drawer.css?v=71657608900808639191773360495"
+    ],
+    "JudgemeStar": [
+      "https://pupford.com/"
+    ],
+    "sans-serif": [
+      "https://pupford.com/",
+      "https://pupford.com/cdn/shop/t/104/assets/base.css?v=44303090441368914051788453907",
+      "https://pupford.com/cdn/shop/t/104/assets/component-cart-drawer.css?v=71657608900808639191773360495"
+    ],
+    "sans-serif!important": [
+      "https://pupford.com/cdn/shop/t/104/assets/base.css?v=44303090441368914051788453907"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://pupford.com/",
+      "selector": ":root,\n        .color-scheme-1",
+      "declarations": "--color-background: 255,255,255;\n        \n          --gradient-background: #ffffff;\n        \n\n        \n\n        --color-foreground: 18,18,18;\n        --color-background-contrast: 191,191,191;\n        --color-shadow: 18,18,18;\n        --color-button: 18,18,18;\n        --color-button-text: 255,255,255;\n        --color-secondary-button: 255,255,255;\n        --color-secondary-button-text: 18,18,18;\n        --color-link: 18,18,18;\n        --color-badge-foreground: 18,18,18;\n        --color-badge-background: 255,255,255;\n        --color-badge-border: 18,18,18;\n        --payment-terms-background-color: rgb(255 255 255);"
+    },
+    {
+      "source": "https://pupford.com/",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #E64B38;--jdgm-secondary-color: rgba(230,75,56,0.1);--jdgm-star-color: #4E4E4E;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #E64B38;--jdgm-paginate-color: #E64B38;--jdgm-border-radius: 10;--jdgm-reviewer-name-color: #E64B38"
+    },
+    {
+      "source": "https://pupford.com/",
+      "selector": ":root",
+      "declarations": "--meteor-desktop-breakpoint: 1100px;"
+    },
+    {
+      "source": "https://pupford.com/",
+      "selector": ".add-button",
+      "declarations": "font-family: 'BuenosAiresRegular', sans-serif;\n    font-size: 10px;\n    color: #505053;\n    height: 30px;\n    background-color: transparent;\n    border: 1px solid #505053;\n    padding: 0 20px;\n    cursor: pointer;\n    text-transform: uppercase;\n    position: relative;"
+    },
+    {
+      "source": "https://pupford.com/",
+      "selector": ".header .list-menu__item",
+      "declarations": "font-family: \"BuenosAiresSemiBold\", sans-serif;\n      border-top: 1px solid #592e2c;\n      font-size: 16px;\n      display: flex;\n      justify-content: space-between;\n      padding: 16px;"
+    },
+    {
+      "source": "https://pupford.com/",
+      "selector": "#birthday-2026-template--18179561291851__birthday_2026_gpGPQk .birthday-2026__body",
+      "declarations": "max-width: 596px;\n    margin: clamp(14px, 1.45vw, 28px) 0 0;\n    color: var(--birthday-brown);\n    font-family: \"BuenosAiresBook\", var(--font-body-family), sans-serif;\n    font-size: clamp(18px, 1.29vw, 25px);\n    line-height: 1.4;"
+    },
+    {
+      "source": "https://pupford.com/",
+      "selector": "#birthday-2026-template--18179561291851__birthday_2026_gpGPQk .birthday-2026__button",
+      "declarations": "width: min(100%, clamp(255px, 17.75vw, 345px));\n    min-height: clamp(44px, 3.04vw, 59px);\n    margin-top: clamp(18px, 1.4vw, 27px);\n    padding: 12px 28px;\n    border-radius: 999px;\n    background: var(--birthday-red);\n    color: #ffffff;\n    display: inline-flex;\n    align-items: center;\n    justify-content: center;\n    gap: 16px;\n    font-family: \"BuenosAiresBold\", \"BuenosAiresSemiBold\", var(--font-heading-family), sans-serif;\n    font-size: clamp(18px, 1.13vw, 22px);\n    line-height: 1.1;\n    font-weight: 700;\n    text-align: center;\n    text-decoration: none;"
+    },
+    {
+      "source": "https://pupford.com/",
+      "selector": "#birthday-2026-template--18179561291851__birthday_2026_gpGPQk .birthday-2026__button:hover",
+      "declarations": "color: #ffffff;\n    filter: brightness(0.96);"
+    },
+    {
+      "source": "https://pupford.com/",
+      "selector": "[data-pf-type^=Button]",
+      "declarations": "background-color:var(--pf-scheme-btn-bg-color);background-image:var(--pf-scheme-btn-bg-gradient-color);color:var(--pf-scheme-btn-text-color)"
+    },
+    {
+      "source": "https://pupford.com/",
+      "selector": ".__pf .pf-button-1",
+      "declarations": "background-color:#e14f3d;border-radius:100px;font-size:18px;font-family:\"BuenosAires Regular\";color:#fcf9e9;font-weight:400;padding:12px 55px;line-height:1.3em"
+    },
+    {
+      "source": "https://pupford.com/",
+      "selector": ".__pf .pf-button-2,.__pf .pf-button-3",
+      "declarations": "font-size:18px;font-weight:400;border-radius:100px;padding-left:55px;padding-right:55px;font-family:\"BuenosAires Regular\";line-height:1.3em"
+    },
+    {
+      "source": "https://pupford.com/",
+      "selector": ".__pf .pf-button-2",
+      "declarations": "background-color:#fcf9e9;color:#572d2f;border-style:none;border-width:3px"
+    },
+    {
+      "source": "https://pupford.com/",
+      "selector": ".__pf .pf-button-3",
+      "declarations": "border:3px solid #e14f3d;color:#e14f3d"
+    },
+    {
+      "source": "https://pupford.com/",
+      "selector": ".__pf .pf-button-4",
+      "declarations": "border:3px solid #fcf9e9;border-radius:100px;padding-left:55px;padding-right:55px;font-size:18px;color:#fcf9e9;font-family:\"BuenosAires Regular\";font-weight:700;line-height:1.3em"
+    },
+    {
+      "source": "https://pupford.com/",
+      "selector": ".__pf .pf-button-5,.__pf .pf-button-6",
+      "declarations": "font-size:18px;padding-left:55px;padding-right:55px;border-radius:100px;font-family:\"BuenosAires Regular\";line-height:1.3em;font-weight:700"
+    },
+    {
+      "source": "https://pupford.com/",
+      "selector": ".__pf .pf-button-5",
+      "declarations": "color:#572d2f;background-color:#a8c7fe"
+    },
+    {
+      "source": "https://pupford.com/",
+      "selector": ".__pf .pf-button-6",
+      "declarations": "color:#572d2f;background-color:#ffb3b9"
+    },
+    {
+      "source": "https://pupford.com/",
+      "selector": "-5-h5,.__pf .pf-heading-5-h6,.__pf .pf-heading-6-h1,.__pf .pf-heading-6-h2,.__pf .pf-heading-6-h3,.__pf .pf-heading-6-h4,.__pf .pf-heading-6-h5,.__pf .pf-headin",
+      "declarations": "font-family:\"BuenosAires Regular\";font-weight:700;font-size:38px;line-height:1.3em"
+    },
+    {
+      "source": "https://pupford.com/",
+      "selector": ".__pf .pf-heading-1-h1",
+      "declarations": "color:#572d2f;font-family:\"BuenosAires Black\";font-size:35px;font-weight:700;line-height:1.3em"
+    },
+    {
+      "source": "https://pupford.com/",
+      "selector": ".__pf .pf-heading-1-h1",
+      "declarations": "font-size:35px;font-family:\"BuenosAires Black\""
+    },
+    {
+      "source": "https://pupford.com/",
+      "selector": ".__pf .pf-heading-1-h1",
+      "declarations": "font-size:32px;font-family:\"BuenosAires Black\""
+    },
+    {
+      "source": "https://pupford.com/",
+      "selector": ".__pf .pf-heading-1-h1",
+      "declarations": "font-size:32px;line-height:1.16em;font-family:\"BuenosAires Black\";letter-spacing:0"
+    },
+    {
+      "source": "https://pupford.com/",
+      "selector": "[data-pf-type^=Button]",
+      "declarations": "background-color:var(--pf-scheme-btn-bg-color);background-image:var(--pf-scheme-btn-bg-gradient-color);color:var(--pf-scheme-btn-text-color)"
+    },
+    {
+      "source": "https://pupford.com/",
+      "selector": ".__pf .pf-button-1",
+      "declarations": "background-color:#e14f3d;border-radius:100px;font-size:18px;font-family:\"BuenosAires Regular\";color:#fcf9e9;font-weight:400;padding:12px 55px;line-height:1.3em"
+    },
+    {
+      "source": "https://pupford.com/",
+      "selector": ".__pf .pf-button-2,.__pf .pf-button-3",
+      "declarations": "font-size:18px;font-weight:400;border-radius:100px;padding-left:55px;padding-right:55px;font-family:\"BuenosAires Regular\";line-height:1.3em"
+    },
+    {
+      "source": "https://pupford.com/",
+      "selector": ".__pf .pf-button-2",
+      "declarations": "background-color:#fcf9e9;color:#572d2f;border-style:none;border-width:3px"
+    },
+    {
+      "source": "https://pupford.com/",
+      "selector": ".__pf .pf-button-3",
+      "declarations": "border:3px solid #e14f3d;color:#e14f3d"
+    },
+    {
+      "source": "https://pupford.com/",
+      "selector": ".__pf .pf-button-4",
+      "declarations": "border:3px solid #fcf9e9;border-radius:100px;padding-left:55px;padding-right:55px;font-size:18px;color:#fcf9e9;font-family:\"BuenosAires Regular\";font-weight:700;line-height:1.3em"
+    },
+    {
+      "source": "https://pupford.com/",
+      "selector": ".__pf .pf-button-5,.__pf .pf-button-6",
+      "declarations": "font-size:18px;padding-left:55px;padding-right:55px;border-radius:100px;font-family:\"BuenosAires Regular\";line-height:1.3em;font-weight:700"
+    },
+    {
+      "source": "https://pupford.com/",
+      "selector": ".__pf .pf-button-5",
+      "declarations": "color:#572d2f;background-color:#a8c7fe"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Dog Training Treats, Chews & Freeze-Dried Food | Pupford",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pupford.com/",
+        "https://pupford.com/cdn/shop/t/104/assets/base.css?v=44303090441368914051788453907"
+      ]
+    },
+    "colors.accent-review": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pupford.com/",
+        "https://pupford.com/cdn/shop/t/104/assets/base.css?v=44303090441368914051788453907"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "colors.ink-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pupford.com/",
+        "https://pupford.com/cdn/shop/t/104/assets/base.css?v=44303090441368914051788453907",
+        "https://pupford.com/cdn/shop/t/104/assets/component-cart-items.css?v=17635095283644773321773360495",
+        "https://pupford.com/cdn/shop/t/104/assets/component-cart-drawer.css?v=71657608900808639191773360495"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pupford.com/",
+        "https://pupford.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pupford.com/",
+        "https://pupford.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://pupford.com/cdn/shop/t/104/assets/base.css?v=44303090441368914051788453907"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "colors.accent-pink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "colors.accent-yellow": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "colors.accent-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pupford.com/",
+        "https://pupford.com/cdn/shop/t/104/assets/base.css?v=44303090441368914051788453907"
+      ]
+    },
+    "colors.accent-navy": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pupford.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.button-outline": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.review-badge": {
+      "status": "inferred"
+    },
+    "components.promo-banner": {
+      "status": "inferred"
+    }
+  }
+}

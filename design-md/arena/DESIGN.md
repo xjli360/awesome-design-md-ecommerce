@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Arena
-description: A fitness ecosystem that uses a pale, almost clinical palette of #c1e9ff, #e1fcff, and #bde7ff to create a sense of clean air and open space — the brand equivalent of a gym at 6am before anyone else arrives. The primary accent #5b5b5b is an unexpected choice: a warm mid-gray that reads as equipment metal, not brand energy, suggesting Arena trusts its photography of athletes and movement to supply the color. Shopify Sans Medium and Regular run the typography at modest weights, with no display-heavy boldface — the system lets the product grid and workout imagery do the heavy lifting. The extracted palette includes #eceafb and #f0edfe, lavender-tinged neutrals that soften the industrial gray, and #f4f5f6 as a near-white canvas. There are no hard corners in the UI: buttons use `{rounded.sm}`, cards use `{rounded.md}`, and the search bar uses `{rounded.full}`. The brand feels like a white-box gym repurposed for digital — clean, uncluttered, with the equipment (the product catalog, the class schedule, the trainer profiles) arranged in neat, accessible rows.
+name: "Arena"
+source_url: "https://arena.fit"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A fitness ecosystem that uses a pale, almost clinical palette of #c1e9ff, #e1fcff, and #bde7ff to create a sense of clean air and open space — the brand equivalent of a gym at 6am before anyone else arrives. The primary accent #5b5b5b is an unexpected choice: a warm mid-gray that reads as equipment metal, not brand energy, suggesting Arena trusts its photography of athletes and movement to supply the color. Shopify Sans Medium and Regular run the typography at modest weights, with no display-heavy boldface — the system lets the product grid and workout imagery do the heavy lifting. The extracted palette includes #eceafb and #f0edfe, lavender-tinged neutrals that soften the industrial gray, and #f4f5f6 as a near-white canvas. There are no hard corners in the UI: buttons use `{rounded.sm}`, cards use `{rounded.md}`, and the search bar uses `{rounded.full}`. The brand feels like a white-box gym repurposed for digital — clean, uncluttered, with the equipment (the product catalog, the class schedule, the trainer profiles) arranged in neat, accessible rows.
 
 colors:
   primary: "#5b5b5b"
@@ -546,6 +550,8 @@ components:
 - Search functionality moves from an inline bar to a full-screen overlay on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Extracted hex colors are limited to 9 values and appear to be a mix of Shopify checkout-widget colors (Klarna, Afterpay) and stock-image dominant tones. The primary #5b5b5b is the most distinctive color in the list, but it's a neutral gray — the brand's true primary may be a more vibrant color not captured in the extraction. The lavender and blue accents (#eceafb, #c1e9ff, #e1fcff, #bde7ff) are likely secondary brand colors or UI accents.
 - Hover states for buttons and links are inferred from common patterns; actual hover colors may differ.

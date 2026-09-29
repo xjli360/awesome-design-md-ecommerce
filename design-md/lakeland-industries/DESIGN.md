@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Lakeland Industries
-description: Two greens in the extracted palette mark the boundary between this system and any consumer brand: #008936 — calibrated to the ANSI Z535 standard safety green that appears on approved workplace signage — and #92c836, a high-visibility lime reserved exclusively for proximity warnings and critical-action badges where missing information causes injury. Around that safety-signal vocabulary runs a blue gradient from #003366 deep navy (regulatory headers and certification seal backgrounds) through #0075cf (data-table chrome) to the sky-bright #1da7ee that drives every CTA, search-bar border, and active link state. Ink is #101820, a navy so dark it reads as black on screen but carries faint warmth compared to a pure render — it appears in page banners and product headings where legibility under fluorescent warehouse lighting matters. Typography commits entirely to Arial and Helvetica with no custom font loaded, an unusual discipline in 2020s DTC web design that prioritizes spec-sheet print fidelity over expressive brand character; a catalog that procurement officers print at 8pt on laser printers cannot afford a webfont that fails to embed. Corner radii sit almost at zero: {rounded.xs} at 2px is the universal workhorse — the {rounded.full} pill shape that consumer brands use to signal approachability would feel out of place next to arc-flash ratings and chemical resistance classes rendered in {typography.spec-label} uppercase. The #92c836 hi-vis green and #008936 safety green never appear in hover states or decorative gradients; they are reserved exclusively for certification badges and compliance-level indicators, keeping their urgency signal intact for the safety managers, purchasing agents, and first responders who depend on instant visual triage.
+name: "Lakeland Industries"
+source_url: "https://www.lakeland.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Two greens in the extracted palette mark the boundary between this system and any consumer brand: #008936 — calibrated to the ANSI Z535 standard safety green that appears on approved workplace signage — and #92c836, a high-visibility lime reserved exclusively for proximity warnings and critical-action badges where missing information causes injury. Around that safety-signal vocabulary runs a blue gradient from #003366 deep navy (regulatory headers and certification seal backgrounds) through #0075cf (data-table chrome) to the sky-bright #1da7ee that drives every CTA, search-bar border, and active link state. Ink is #101820, a navy so dark it reads as black on screen but carries faint warmth compared to a pure render — it appears in page banners and product headings where legibility under fluorescent warehouse lighting matters. Typography commits entirely to Arial and Helvetica with no custom font loaded, an unusual discipline in 2020s DTC web design that prioritizes spec-sheet print fidelity over expressive brand character; a catalog that procurement officers print at 8pt on laser printers cannot afford a webfont that fails to embed. Corner radii sit almost at zero: {rounded.xs} at 2px is the universal workhorse — the {rounded.full} pill shape that consumer brands use to signal approachability would feel out of place next to arc-flash ratings and chemical resistance classes rendered in {typography.spec-label} uppercase. The #92c836 hi-vis green and #008936 safety green never appear in hover states or decorative gradients; they are reserved exclusively for certification badges and compliance-level indicators, keeping their urgency signal intact for the safety managers, purchasing agents, and first responders who depend on instant visual triage.
 
 colors:
   primary: "#1da7ee"
@@ -409,6 +413,8 @@ components:
 - Hero CTA button stacks below the headline block on mobile rather than appearing inline
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No brand-specific custom typeface was detected in the extracted CSS; the Arial/Helvetica stack may indicate no webfont is loaded, or a font injected via JavaScript after the extraction point. If Lakeland uses a licensed typeface, it was not present.
 - `primary-disabled` is approximated from #f5fafd, the palest blue-tinted surface in the extracted palette — no confirmed disabled-state color token was found.

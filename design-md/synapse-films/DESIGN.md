@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Synapse Films
-description: A neon-laced horror and cult cinema label that runs on a black canvas (#121212) and a single electric-green primary (#a6ffa5) — the same voltage that powers the "Add to Cart" button, the "Pre-Order" badge, and the glowing accents across product grids. The brand's visual identity is built on high-contrast collisions: a blood-red secondary (#eb001b) for limited-edition steelbook markers and sale flags, against a near-black ink (#1f1f21) that absorbs all light. Typography uses Noto Sans Display at clean weights — display headlines sit at 28px weight 600, body copy at 16px weight 400 — letting the product photography (grainy 4K scans of Argento and Fulci frames) do the atmospheric heavy lifting. Every product card is a sharp rectangle with {rounded.sm} corners, the only softness in a system that otherwise favors straight edges and tight spacing. The shopping experience is utilitarian: a sticky top nav at 64px height, a search bar with {rounded.full} pill ends, and category filters that read as horizontal tabs. Badges are the brand's punctuation — "NEW RESTORATION" in {colors.primary} on {colors.ink}, "LIMITED EDITION" in {colors.canvas} on {colors.secondary}. The footer collapses into a single column of legal links and social icons, all in {colors.muted} (#dedede). This is a storefront built for collectors who know what they want: the green glow is the beacon, the black is the void, and the red is the warning.
+name: "Synapse Films"
+source_url: "https://synapsefilms.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A neon-laced horror and cult cinema label that runs on a black canvas (#121212) and a single electric-green primary (#a6ffa5) — the same voltage that powers the "Add to Cart" button, the "Pre-Order" badge, and the glowing accents across product grids. The brand's visual identity is built on high-contrast collisions: a blood-red secondary (#eb001b) for limited-edition steelbook markers and sale flags, against a near-black ink (#1f1f21) that absorbs all light. Typography uses Noto Sans Display at clean weights — display headlines sit at 28px weight 600, body copy at 16px weight 400 — letting the product photography (grainy 4K scans of Argento and Fulci frames) do the atmospheric heavy lifting. Every product card is a sharp rectangle with {rounded.sm} corners, the only softness in a system that otherwise favors straight edges and tight spacing. The shopping experience is utilitarian: a sticky top nav at 64px height, a search bar with {rounded.full} pill ends, and category filters that read as horizontal tabs. Badges are the brand's punctuation — "NEW RESTORATION" in {colors.primary} on {colors.ink}, "LIMITED EDITION" in {colors.canvas} on {colors.secondary}. The footer collapses into a single column of legal links and social icons, all in {colors.muted} (#dedede). This is a storefront built for collectors who know what they want: the green glow is the beacon, the black is the void, and the red is the warning.
 
 colors:
   primary: "#a6ffa5"
@@ -368,6 +372,8 @@ components:
 - Product card metadata (format, year, runtime) collapses to single line on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for product cards (scale, shadow, or border effects) could not be reliably extracted from the live site
 - Error states for form inputs (validation, error messages) were not observed in the extracted data

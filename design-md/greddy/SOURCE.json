@@ -1,0 +1,799 @@
+{
+  "source_url": "https://greddy.com",
+  "final_url": "https://www.greddy.com/",
+  "captured_at": "2026-09-29T04:17:35.122575+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://greddy.com",
+      "final_url": "https://www.greddy.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "dab9bdc94ec6237a9c83600ba22aadab2e5681df55e76a33143fe66b470f4406",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.greddy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.greddy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.greddy.com/cdn/shop/t/26/assets/theme.css?v=135834886649957533721712097545",
+      "final_url": "https://www.greddy.com/cdn/shop/t/26/assets/theme.css?v=135834886649957533721712097545",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f4d09cac23202bff54ecfa39f7ef4bb1288dcb67beec590dc76be577cf1b0bbb",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-form.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-form.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2fbab0531f8ba2d71ae3e17c789fec248343e1041735ce737797160f683aeee4",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-preorder.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-preorder.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "89154aa0350e1642ddb7b773dd49acbd205e43fc4ef3c62c3ae507e74ae58e23",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "86786269261e223b4b85bda7edd3adb68c6f01ae297505a1f2eabd632d747751",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 19,
+      "sources": [
+        "https://www.greddy.com/",
+        "https://www.greddy.com/cdn/shop/t/26/assets/theme.css?v=135834886649957533721712097545",
+        "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-form.css",
+        "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css"
+      ]
+    },
+    "#00000000": {
+      "count": 11,
+      "sources": [
+        "https://www.greddy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.greddy.com/cdn/shop/t/26/assets/theme.css?v=135834886649957533721712097545"
+      ]
+    },
+    "#ffffff": {
+      "count": 7,
+      "sources": [
+        "https://www.greddy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.greddy.com/cdn/shop/t/26/assets/theme.css?v=135834886649957533721712097545",
+        "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css"
+      ]
+    },
+    "#333333": {
+      "count": 7,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-form.css"
+      ]
+    },
+    "#666666": {
+      "count": 6,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-form.css",
+        "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-preorder.css",
+        "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-form.css",
+        "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css"
+      ]
+    },
+    "#00000066": {
+      "count": 3,
+      "sources": [
+        "https://www.greddy.com/cdn/shop/t/26/assets/theme.css?v=135834886649957533721712097545"
+      ]
+    },
+    "#f8ca79": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css"
+      ]
+    },
+    "#707070": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css"
+      ]
+    },
+    "#d6d6d6": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css"
+      ]
+    },
+    "#1672b0": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css"
+      ]
+    },
+    "#105888": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.greddy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 2,
+      "sources": [
+        "https://www.greddy.com/cdn/shop/t/26/assets/theme.css?v=135834886649957533721712097545"
+      ]
+    },
+    "#00000033": {
+      "count": 2,
+      "sources": [
+        "https://www.greddy.com/cdn/shop/t/26/assets/theme.css?v=135834886649957533721712097545"
+      ]
+    },
+    "#eeeeee": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-form.css"
+      ]
+    },
+    "#002133": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css"
+      ]
+    },
+    "#005ad1": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css"
+      ]
+    },
+    "#ededed": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://www.greddy.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://www.greddy.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://www.greddy.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://www.greddy.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://www.greddy.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://www.greddy.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://www.greddy.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://www.greddy.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.greddy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.greddy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.greddy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 1,
+      "sources": [
+        "https://www.greddy.com/cdn/shop/t/26/assets/theme.css?v=135834886649957533721712097545"
+      ]
+    },
+    "#0000000d": {
+      "count": 1,
+      "sources": [
+        "https://www.greddy.com/cdn/shop/t/26/assets/theme.css?v=135834886649957533721712097545"
+      ]
+    },
+    "#0000000f": {
+      "count": 1,
+      "sources": [
+        "https://www.greddy.com/cdn/shop/t/26/assets/theme.css?v=135834886649957533721712097545"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-form.css"
+      ]
+    },
+    "#777777": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-form.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-form.css"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-form.css"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-form.css"
+      ]
+    },
+    "#4caf50": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-preorder.css"
+      ]
+    },
+    "#f44336": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-preorder.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-preorder.css"
+      ]
+    },
+    "#ff6b6b": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-preorder.css"
+      ]
+    },
+    "#6b6b6b": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css"
+      ]
+    },
+    "#303030": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css"
+      ]
+    },
+    "#91d0ff": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-form.css",
+      "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css"
+    ],
+    "Apple Color Emoji": [
+      "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css"
+    ],
+    "Arial": [
+      "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css"
+    ],
+    "Barlow": [
+      "https://www.greddy.com/"
+    ],
+    "BlinkMacSystemFont": [
+      "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-form.css",
+      "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css"
+    ],
+    "Cantarell": [
+      "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-form.css"
+    ],
+    "Consolas": [
+      "https://www.greddy.com/cdn/shop/t/26/assets/theme.css?v=135834886649957533721712097545"
+    ],
+    "Courier New": [
+      "https://www.greddy.com/cdn/shop/t/26/assets/theme.css?v=135834886649957533721712097545"
+    ],
+    "Helvetica": [
+      "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css"
+    ],
+    "Liberation Mono": [
+      "https://www.greddy.com/cdn/shop/t/26/assets/theme.css?v=135834886649957533721712097545"
+    ],
+    "Menlo": [
+      "https://www.greddy.com/cdn/shop/t/26/assets/theme.css?v=135834886649957533721712097545"
+    ],
+    "Monaco": [
+      "https://www.greddy.com/cdn/shop/t/26/assets/theme.css?v=135834886649957533721712097545"
+    ],
+    "Open Sans": [
+      "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-form.css"
+    ],
+    "Oxygen": [
+      "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-form.css"
+    ],
+    "Roboto": [
+      "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-form.css",
+      "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css"
+    ],
+    "SFMono-Regular": [
+      "https://www.greddy.com/cdn/shop/t/26/assets/theme.css?v=135834886649957533721712097545"
+    ],
+    "Segoe UI": [
+      "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-form.css",
+      "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css"
+    ],
+    "Segoe UI Emoji": [
+      "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css"
+    ],
+    "Segoe UI Symbol": [
+      "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css"
+    ],
+    "Ubuntu": [
+      "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-form.css"
+    ],
+    "monospace": [
+      "https://www.greddy.com/cdn/shop/t/26/assets/theme.css?v=135834886649957533721712097545"
+    ],
+    "sans-serif": [
+      "https://www.greddy.com/",
+      "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-form.css",
+      "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css"
+    ],
+    "ui-monospace": [
+      "https://www.greddy.com/cdn/shop/t/26/assets/theme.css?v=135834886649957533721712097545"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.greddy.com/",
+      "selector": "[dir=\"rtl\"]:root",
+      "declarations": "--transform-logical-flip: -1;\n    --transform-origin-start: right;\n    --transform-origin-end: left;"
+    },
+    {
+      "source": "https://www.greddy.com/",
+      "selector": ":root",
+      "declarations": "--text-h0: 4rem;\n      --text-h1: 3rem;\n      --text-h2: 2.5rem;\n      --text-h3: 2rem;\n      --text-h4: 1.625rem;\n      --text-h5: 1.25rem;\n      --text-h6: 1.125rem;\n\n      --text-xs: 0.75rem;\n      --text-sm: 0.875rem;\n      --text-base: 1.0rem;\n      --text-lg: 1.25rem;\n\n      \n      --container-gutter: 2rem;\n      --section-outer-spacing-block: var(--spacing-12);\n      --section-inner-max-spacing-block: var(--spacing-10);\n      --section-inner-spacing-inline: var(--spacing-12);\n      --section-stack-spacing-block: var(--spacing-10);\n\n      \n      --grid-gutter: var(--spacing-6);\n\n      \n      --product-list-row-gap: var(--spacing-12);\n\n      \n      --input-gap: 1rem;\n      --input-heigh"
+    },
+    {
+      "source": "https://www.greddy.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: var(--spacing-12);\n      --section-outer-spacing-block: var(--spacing-14);\n      --section-inner-max-spacing-block: var(--spacing-12);\n      --section-inner-spacing-inline: var(--spacing-16);\n      --section-stack-spacing-block: var(--spacing-10);"
+    },
+    {
+      "source": "https://www.greddy.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: var(--spacing-12);\n      --section-outer-spacing-block: var(--spacing-14);\n      --section-inner-max-spacing-block: var(--spacing-12);\n      --section-inner-spacing-inline: var(--spacing-16);\n      --section-stack-spacing-block: var(--spacing-12);"
+    },
+    {
+      "source": "https://www.greddy.com/",
+      "selector": ":root",
+      "declarations": "--text-h0: 5rem;\n      --text-h1: 3.75rem;\n      --text-h2: 3rem;\n      --text-h3: 2.25rem;\n      --text-h4: 2rem;\n      --text-h5: 1.5rem;\n      --text-h6: 1.25rem;\n\n      --section-outer-spacing-block: var(--spacing-16);\n      --section-inner-max-spacing-block: var(--spacing-14);\n      --section-inner-spacing-inline: var(--spacing-18);"
+    },
+    {
+      "source": "https://www.greddy.com/",
+      "selector": ":root",
+      "declarations": "--section-outer-spacing-block: var(--spacing-16);\n      --section-inner-max-spacing-block: var(--spacing-16);\n      --section-inner-spacing-inline: var(--spacing-20);"
+    },
+    {
+      "source": "https://www.greddy.com/",
+      "selector": ".button:not([disabled]):not(.button--outline):hover, .btn:not([disabled]):hover, .shopify-payment-button__button--unbranded:not([disabled]):hover",
+      "declarations": "background-color: transparent !important;\n          color: rgb(var(--button-outline-color) / var(--button-background-opacity, 1)) !important;\n          box-shadow: inset 0 0 0 2px currentColor !important;"
+    },
+    {
+      "source": "https://www.greddy.com/",
+      "selector": ".button--outline:not([disabled]):hover",
+      "declarations": "background: rgb(var(--button-background));\n          color: rgb(var(--button-text-color));\n          box-shadow: inset 0 0 0 2px rgb(var(--button-background));"
+    },
+    {
+      "source": "https://www.greddy.com/",
+      "selector": ":root",
+      "declarations": "--sticky-announcement-bar-enabled:0;"
+    },
+    {
+      "source": "https://www.greddy.com/",
+      "selector": "--background: 0 0 0; --text-color: 255 255 255;\n\n  :root",
+      "declarations": "--sticky-header-enabled:1;"
+    },
+    {
+      "source": "https://www.greddy.com/",
+      "selector": "#shopify-section-sections--17406129340648__header",
+      "declarations": "--header-grid-template: \"main-nav logo secondary-nav\" / minmax(0, 1fr) auto minmax(0, 1fr);\n    --header-padding-block: var(--spacing-3);\n    --header-background-opacity: 1.0;\n    --header-background-blur-radius: 0px;\n    --header-transparent-text-color: 255 255 255;--header-logo-width: 125px;\n      --header-logo-height: 51px;position: sticky;\n    top: 0;\n    z-index: 10;"
+    },
+    {
+      "source": "https://www.greddy.com/",
+      "selector": "#shopify-section-sections--17406129340648__header",
+      "declarations": "--header-logo-width: 235px;\n        --header-logo-height: 96px;--header-padding-block: var(--spacing-6);"
+    },
+    {
+      "source": "https://www.greddy.com/",
+      "selector": "#shopify-section-sections--17406129340648__header",
+      "declarations": "--header-grid-template: \"logo main-nav secondary-nav\" / minmax(0, 1fr) fit-content(70%) minmax(0, 1fr);"
+    },
+    {
+      "source": "https://www.greddy.com/",
+      "selector": "#shopify-section-template--17406127636712__19761f15-8028-4301-8d2b-8439faef5651 .product-list",
+      "declarations": "--product-list-gap: var(--product-list-row-gap) var(--product-list-column-gap);\n    --product-list-items-per-row: 2;\n    --product-list-carousel-item-width: 74vw;\n    --product-list-grid: auto / auto-flow var(--product-list-carousel-item-width);"
+    },
+    {
+      "source": "https://www.greddy.com/",
+      "selector": "#shopify-section-template--17406127636712__19761f15-8028-4301-8d2b-8439faef5651 .product-list",
+      "declarations": "--product-list-gap: var(--product-list-row-gap) var(--product-list-column-gap);\n      --product-list-items-per-row: 2;\n      --product-list-carousel-item-width: 36vw;"
+    },
+    {
+      "source": "https://www.greddy.com/",
+      "selector": "#shopify-section-template--17406127636712__19761f15-8028-4301-8d2b-8439faef5651 .product-list",
+      "declarations": "--product-list-items-per-row: 5;\n      --product-list-carousel-item-width: calc(var(--container-inner-width) / 5 - (var(--product-list-column-gap) / 5 * 4));"
+    },
+    {
+      "source": "https://www.greddy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.greddy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.greddy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.greddy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.greddy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.greddy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.greddy.com/cdn/shop/t/26/assets/theme.css?v=135834886649957533721712097545",
+      "selector": "body",
+      "declarations": "--background: var(--background-primary);--text-color: var(--text-primary);background:rgb(var(--background));color:rgb(var(--text-color));font:var(--text-font-style) var(--text-font-weight) var(--text-base) / 1.6 var(--text-font-family);letter-spacing:var(--text-letter-spacing);margin:0;position:relative"
+    },
+    {
+      "source": "https://www.greddy.com/cdn/shop/t/26/assets/theme.css?v=135834886649957533721712097545",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;font-weight:inherit;font-style:inherit;line-height:inherit;text-transform:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://www.greddy.com/cdn/shop/t/26/assets/theme.css?v=135834886649957533721712097545",
+      "selector": "button,[type=button],[type=reset],[type=submit]",
+      "declarations": "-webkit-appearance:button;text-align:inherit;background-color:#0000;background-image:none"
+    },
+    {
+      "source": "https://www.greddy.com/cdn/shop/t/26/assets/theme.css?v=135834886649957533721712097545",
+      "selector": "button,label,summary,[role=button],[type=checkbox],[type=radio],[type=submit]",
+      "declarations": "-webkit-tap-highlight-color:transparent;touch-action:manipulation;cursor:pointer"
+    },
+    {
+      "source": "https://www.greddy.com/cdn/shop/t/26/assets/theme.css?v=135834886649957533721712097545",
+      "selector": ".button,.btn",
+      "declarations": "--button-background: var(--button-background-primary) / var(--button-background-opacity, 1);--button-text-color: var(--button-text-primary);--button-outline-color: var(--button-background-primary);-webkit-appearance:none;appearance:none;border-radius:var(--rounded-button);background-color:rgb(var(--button-background));color:rgb(var(--button-text-color));text-align:center;font-size:var(--text-sm);letter-spacing:var(--text-letter-spacing);padding-block-start:var(--spacing-2-5);padding-block-end:var(--spacing-2-5);padding-inline-start:var(--spacing-5);padding-inline-end:var(--spacing-5);font-weight:700;line-height:1.6;transition:background-color .15s ease-in-out,color .15s ease-in-out,box-shado"
+    },
+    {
+      "source": "https://www.greddy.com/cdn/shop/t/26/assets/theme.css?v=135834886649957533721712097545",
+      "selector": ".button--secondary",
+      "declarations": "--button-background: var(--button-background-secondary) / var(--button-background-opacity, 1);--button-text-color: var(--button-text-secondary);--button-outline-color: var(--button-background-secondary)"
+    },
+    {
+      "source": "https://www.greddy.com/cdn/shop/t/26/assets/theme.css?v=135834886649957533721712097545",
+      "selector": ".button--subdued",
+      "declarations": "--button-background: var(--text-color) / .1 !important;--button-text-color: var(--text-color) !important;--button-outline-color: var(--text-color) !important"
+    },
+    {
+      "source": "https://www.greddy.com/cdn/shop/t/26/assets/theme.css?v=135834886649957533721712097545",
+      "selector": ".button--outline",
+      "declarations": "color:rgb(var(--button-outline-color) / var(--button-background-opacity, 1));background:none;box-shadow:inset 0 0 0 2px"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Welcome to the new GReddy.com product catalog and online store.",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.greddy.com/",
+        "https://www.greddy.com/cdn/shop/t/26/assets/theme.css?v=135834886649957533721712097545",
+        "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-form.css",
+        "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.greddy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.greddy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.greddy.com/cdn/shop/t/26/assets/theme.css?v=135834886649957533721712097545",
+        "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-form.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-form.css",
+        "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-preorder.css",
+        "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-form.css",
+        "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-preorder.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.greddy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.greddy.com/cdn/shop/t/26/assets/theme.css?v=135834886649957533721712097545",
+        "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css"
+      ]
+    },
+    "colors.surface-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.greddy.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.greddy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.greddy.com/cdn/shop/t/26/assets/theme.css?v=135834886649957533721712097545",
+        "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css"
+      ]
+    },
+    "colors.accent-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css"
+      ]
+    },
+    "colors.highlight": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e99c-aeff-75ec-997e-0fe8c6240374/magical-mandatory-fees-308/assets/magical-mandatory-fees.css"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-preorder.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0e648-dfef-7127-8237-1b6a6e4c28f7/back-in-stock-restock-293/assets/rez-preorder.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.vehicle-fitment-filter": {
+      "status": "inferred"
+    }
+  }
+}

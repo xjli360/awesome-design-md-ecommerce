@@ -1,0 +1,864 @@
+{
+  "source_url": "https://grizzl-e.com",
+  "final_url": "https://grizzl-e.com/us",
+  "captured_at": "2026-09-28T09:10:08.966444+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://grizzl-e.com",
+      "final_url": "https://grizzl-e.com/us",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "510cbc424ab21e18fc8728b80302c99b6c22309799c85d58613ae017c6ba0331",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css",
+      "final_url": "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "3e85014545a9c7310dfb3f792f28085ac4cbe713b540e0bac85b1672af56af8d",
+      "snapshot": "stylesheet-1.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 111,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 23,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#18181b": {
+      "count": 16,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#27272a": {
+      "count": 16,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#e4e4e7": {
+      "count": 10,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#f4f4f5": {
+      "count": 9,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#52525b": {
+      "count": 9,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#60a5fa": {
+      "count": 8,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#004fc6": {
+      "count": 6,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#be123c": {
+      "count": 6,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#a1a1aa": {
+      "count": 5,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#71717a": {
+      "count": 5,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#3f3f46": {
+      "count": 5,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#9f1239": {
+      "count": 5,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#e11d48": {
+      "count": 5,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#212124": {
+      "count": 5,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#ecf2ff": {
+      "count": 4,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#f8fafc": {
+      "count": 4,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#3b82f6": {
+      "count": 4,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#fafafa": {
+      "count": 4,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#2563eb": {
+      "count": 4,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#000000": {
+      "count": 3,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#d4d4d8": {
+      "count": 3,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#5b21b6": {
+      "count": 3,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#fb7185": {
+      "count": 3,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#1e3a8a": {
+      "count": 3,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 2,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 2,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#e2e2e5": {
+      "count": 2,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 2,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#eff6ff": {
+      "count": 2,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#fbc25e": {
+      "count": 2,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#e7d745": {
+      "count": 2,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#777777": {
+      "count": 2,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#10b981": {
+      "count": 2,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#fed7aa": {
+      "count": 2,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#fecdd3": {
+      "count": 2,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#a7f3d0": {
+      "count": 2,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#bfdbfe": {
+      "count": 2,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#f43f5e": {
+      "count": 2,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#a78bfa": {
+      "count": 2,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#ddd6fe": {
+      "count": 2,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#dbeafe": {
+      "count": 2,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#7c2d12": {
+      "count": 2,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#93c5fd": {
+      "count": 2,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#172554": {
+      "count": 2,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#064e3b": {
+      "count": 2,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#881337": {
+      "count": 2,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#ced8f7": {
+      "count": 1,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#eaeaea": {
+      "count": 1,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#4a76e0": {
+      "count": 1,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#f1f7ff": {
+      "count": 1,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 1,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#fcfcfc": {
+      "count": 1,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#fcfdfe": {
+      "count": 1,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#0267ff": {
+      "count": 1,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#d6e6ff": {
+      "count": 1,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#4ade80": {
+      "count": 1,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#22c55e": {
+      "count": 1,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "#0a0000": {
+      "count": 1,
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+    ],
+    "Apple Color Emoji": [
+      "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+    ],
+    "Arial": [
+      "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+    ],
+    "BlinkMacSystemFont": [
+      "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+    ],
+    "Consolas": [
+      "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+    ],
+    "Courier New": [
+      "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+    ],
+    "Helvetica Neue": [
+      "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+    ],
+    "Inter": [
+      "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+    ],
+    "Liberation Mono": [
+      "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+    ],
+    "Menlo": [
+      "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+    ],
+    "Monaco": [
+      "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+    ],
+    "Noto Color Emoji": [
+      "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+    ],
+    "Noto Color Emoji!important": [
+      "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+    ],
+    "Noto Sans": [
+      "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+    ],
+    "Roboto": [
+      "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+    ],
+    "Roboto Mono": [
+      "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+    ],
+    "SFMono-Regular": [
+      "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+    ],
+    "Segoe UI": [
+      "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+    ],
+    "Segoe UI Emoji": [
+      "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+    ],
+    "Segoe UI Symbol": [
+      "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+    ],
+    "Ubuntu": [
+      "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+    ],
+    "monospace": [
+      "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+    ],
+    "sans-serif": [
+      "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+    ],
+    "system-ui": [
+      "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+    ],
+    "ui-monospace": [
+      "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+    ],
+    "ui-sans-serif": [
+      "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-feature-settings:inherit;font-variation-settings:inherit;font-size:100%;font-weight:inherit;line-height:inherit;letter-spacing:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css",
+      "selector": "button,input:where([type=button]),input:where([type=reset]),input:where([type=submit])",
+      "declarations": "-webkit-appearance:button;background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css",
+      "selector": ":root",
+      "declarations": "--nav-height:60px"
+    },
+    {
+      "source": "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css",
+      "selector": "body,html",
+      "declarations": "background-color:#ffffff"
+    },
+    {
+      "source": "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css",
+      "selector": ".h1-core",
+      "declarations": "font-size:1.125rem;line-height:1.75rem;font-weight:500;font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji"
+    },
+    {
+      "source": "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css",
+      "selector": ".text-h1",
+      "declarations": "font-family:Inter,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Ubuntu,sans-serif;font-size:24px;font-weight:700;line-height:130%"
+    },
+    {
+      "source": "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css",
+      "selector": ".text-strapi-body,.text-strapi-h1",
+      "declarations": "font-family:Inter,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Ubuntu,sans-serif"
+    },
+    {
+      "source": "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css",
+      "selector": ".text-body-l",
+      "declarations": "font-family:Inter,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Ubuntu,sans-serif;font-size:14px;font-weight:600;line-height:140%"
+    },
+    {
+      "source": "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css",
+      "selector": ".text-body-m",
+      "declarations": "font-family:Inter,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Ubuntu,sans-serif;font-size:13px;font-weight:400;line-height:140%"
+    },
+    {
+      "source": "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css",
+      "selector": ".text-body-m-medium",
+      "declarations": "font-family:Inter,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Ubuntu,sans-serif;font-size:13px;font-weight:500;line-height:140%"
+    },
+    {
+      "source": "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css",
+      "selector": ".text-body-m-semi",
+      "declarations": "font-family:Inter,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Ubuntu,sans-serif;font-size:13px;font-weight:600;line-height:140%"
+    },
+    {
+      "source": "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css",
+      "selector": ".text-body-s",
+      "declarations": "font-family:Inter,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Ubuntu,sans-serif;font-size:11px;font-weight:400;line-height:140%"
+    },
+    {
+      "source": "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css",
+      "selector": ".\\!text-body-s-medium",
+      "declarations": "font-family:Inter,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Ubuntu,sans-serif;font-size:11px;font-weight:500;line-height:140%"
+    },
+    {
+      "source": "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css",
+      "selector": ".text-body-s-medium",
+      "declarations": "font-family:Inter,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Ubuntu,sans-serif;font-size:11px;font-weight:500;line-height:140%"
+    },
+    {
+      "source": "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css",
+      "selector": ".\\!text-body-s-semi",
+      "declarations": "font-family:Inter,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Ubuntu,sans-serif;font-size:11px;font-weight:600;line-height:140%"
+    },
+    {
+      "source": "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css",
+      "selector": ".text-body-s-semi",
+      "declarations": "font-family:Inter,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Ubuntu,sans-serif;font-size:11px;font-weight:600;line-height:140%"
+    },
+    {
+      "source": "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css",
+      "selector": ".text-body-xs,.text-h2-fixed",
+      "declarations": "font-family:Inter,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Ubuntu,sans-serif;line-height:140%"
+    },
+    {
+      "source": "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css",
+      "selector": ".text-body-l-medium",
+      "declarations": "font-family:Inter,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Ubuntu,sans-serif;font-size:16px;font-weight:500;line-height:140%"
+    },
+    {
+      "source": "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css",
+      "selector": ".bg-ui-button-danger",
+      "declarations": "background-color:var(--button-danger)"
+    },
+    {
+      "source": "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css",
+      "selector": ".bg-ui-button-inverted",
+      "declarations": "background-color:var(--button-inverted)"
+    },
+    {
+      "source": "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css",
+      "selector": ".bg-ui-button-neutral",
+      "declarations": "background-color:var(--button-neutral)"
+    },
+    {
+      "source": "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css",
+      "selector": ".bg-ui-button-neutral-hover",
+      "declarations": "background-color:var(--button-neutral-hover)"
+    },
+    {
+      "source": "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css",
+      "selector": ".bg-ui-button-transparent",
+      "declarations": "background-color:var(--button-transparent)"
+    },
+    {
+      "source": "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css",
+      "selector": ".\\!shadow-buttons-neutral",
+      "declarations": "--tw-shadow:var(--buttons-neutral)!important;--tw-shadow-colored:var(--buttons-neutral)!important"
+    },
+    {
+      "source": "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css",
+      "selector": ".shadow-buttons-danger",
+      "declarations": "--tw-shadow:var(--buttons-danger);--tw-shadow-colored:var(--buttons-danger)"
+    },
+    {
+      "source": "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css",
+      "selector": ".shadow-buttons-inverted",
+      "declarations": "--tw-shadow:var(--buttons-inverted);--tw-shadow-colored:var(--buttons-inverted)"
+    },
+    {
+      "source": "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css",
+      "selector": ".shadow-buttons-neutral",
+      "declarations": "--tw-shadow:var(--buttons-neutral);--tw-shadow-colored:var(--buttons-neutral)"
+    },
+    {
+      "source": "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css",
+      "selector": "body:has([data-transparent-header]) [data-nav] [data-nav-link]",
+      "declarations": "color:#ffffff"
+    },
+    {
+      "source": "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css",
+      "selector": "body:has([data-transparent-header]) [data-nav] [data-nav-blur].nav-open [data-nav-link]",
+      "declarations": "color:#000000"
+    },
+    {
+      "source": "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css",
+      "selector": ".strapi-root :is(h1,h2,h3,h4,h5,h6,p,span,div,a,button)",
+      "declarations": "font-family:var(--font-montserrat),sans-serif!important"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "colors.accent-blue-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "colors.accent-blue-tint": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "colors.accent-blue-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "colors.accent-rose": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "colors.accent-rose-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "colors.accent-emerald": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "colors.accent-emerald-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "colors.border-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://grizzl-e.com/_next/static/css/815e191faa1839f3.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-l-medium": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-callout": {
+      "status": "inferred"
+    }
+  }
+}

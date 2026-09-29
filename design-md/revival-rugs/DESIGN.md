@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Revival Rugs
-description: Revival Rugs is a brand that feels like a well-loved heirloom — intentional, warm, and grounded in craft. The palette is anchored by a deep, almost ink-like navy (`#1f3041`) that appears on primary buttons, navigation bars, and key typographic moments, lending a sense of quiet confidence. This is balanced by a rich, earthy terracotta (`#b04e2d`) that surfaces in secondary accents, badges, and hover states — a nod to the natural dyes and handwoven textures of the rugs themselves. The canvas is a soft, off-white parchment (`#fcfaf5`) that avoids the sterility of pure white, while a slightly warmer surface (`#ece8e0`) is used for cards and soft UI containers. Typography leans on a mix of Inconsolata for monospaced, editorial moments and P22UndergroundBook for body text, with P22UndergroundHeavy reserved for bold headlines and button labels. The brand's signature design moves include generous use of `{rounded.sm}` (8px) on buttons and cards, a consistent `{spacing.base}` (16px) grid, and a `{spacing.section}` (64px) rhythm that gives each product page room to breathe. The overall feeling is one of curated simplicity — nothing feels rushed or over-designed, and every color, corner, and spacing choice reinforces the idea of "better rugs, made with intention."
+name: "Revival Rugs"
+source_url: "https://www.revivalrugs.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Revival Rugs is a brand that feels like a well-loved heirloom — intentional, warm, and grounded in craft. The palette is anchored by a deep, almost ink-like navy (`#1f3041`) that appears on primary buttons, navigation bars, and key typographic moments, lending a sense of quiet confidence. This is balanced by a rich, earthy terracotta (`#b04e2d`) that surfaces in secondary accents, badges, and hover states — a nod to the natural dyes and handwoven textures of the rugs themselves. The canvas is a soft, off-white parchment (`#fcfaf5`) that avoids the sterility of pure white, while a slightly warmer surface (`#ece8e0`) is used for cards and soft UI containers. Typography leans on a mix of Inconsolata for monospaced, editorial moments and P22UndergroundBook for body text, with P22UndergroundHeavy reserved for bold headlines and button labels. The brand's signature design moves include generous use of `{rounded.sm}` (8px) on buttons and cards, a consistent `{spacing.base}` (16px) grid, and a `{spacing.section}` (64px) rhythm that gives each product page room to breathe. The overall feeling is one of curated simplicity — nothing feels rushed or over-designed, and every color, corner, and spacing choice reinforces the idea of "better rugs, made with intention."
 
 colors:
   primary: "#1f3041"
@@ -258,6 +262,8 @@ components:
 - Product image galleries collapse from thumbnails to a single swipeable carousel.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for secondary and tertiary buttons could not be reliably extracted — assumed to use a subtle background tint or opacity shift.
 - Error styling for form inputs (border color, error message typography) was not observed on the live site.

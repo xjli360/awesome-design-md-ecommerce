@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Rock Archive
-description: Two high-voltage brand colors — coral-red #ea4b46 and forest green #116633 — collide against the silver-gelatin grain of decades-old concert photography, giving Rock Archive the electric charge of a vintage gig poster rather than the hushed reverence of a fine-art gallery. The meta theme-color is unambiguously #ea4b46: it fires on every primary CTA, edition badge, and hover accent, while #116633 anchors secondary interactions and category markers. Without a custom font stack detected on the live site, the system leans on a serif-first editorial hierarchy — Georgia or a comparable old-style serif for display headings evokes press-pass credentials and vinyl liner notes, while a neutral geometric sans carries body copy and UI labels. The product experience centers on limited-edition print listings: each card surfaces photographer credit, artist name, edition size, and a certificate-of-authenticity signal, treating every frame as a collectible artifact rather than décor. Print sizes and framing options live in a structured selector rather than a dropdown, reinforcing the tactile gravity of choosing a physical object. The canvas is white with a warm off-white surface tint, keeping photography central and preventing brand chrome from competing with the image. Rounded values stay restrained — cards and inputs use small radii ({rounded.sm}) while badges and edition pills push to {rounded.xs}, echoing the straight-edged geometry of a framed print. The footer doubles as a curatorial statement, listing represented photographers alongside newsletter sign-up, treating archives as editorial content rather than sitemap boilerplate.
+name: "Rock Archive"
+source_url: "https://www.rockarchive.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Two high-voltage brand colors — coral-red #ea4b46 and forest green #116633 — collide against the silver-gelatin grain of decades-old concert photography, giving Rock Archive the electric charge of a vintage gig poster rather than the hushed reverence of a fine-art gallery. The meta theme-color is unambiguously #ea4b46: it fires on every primary CTA, edition badge, and hover accent, while #116633 anchors secondary interactions and category markers. Without a custom font stack detected on the live site, the system leans on a serif-first editorial hierarchy — Georgia or a comparable old-style serif for display headings evokes press-pass credentials and vinyl liner notes, while a neutral geometric sans carries body copy and UI labels. The product experience centers on limited-edition print listings: each card surfaces photographer credit, artist name, edition size, and a certificate-of-authenticity signal, treating every frame as a collectible artifact rather than décor. Print sizes and framing options live in a structured selector rather than a dropdown, reinforcing the tactile gravity of choosing a physical object. The canvas is white with a warm off-white surface tint, keeping photography central and preventing brand chrome from competing with the image. Rounded values stay restrained — cards and inputs use small radii ({rounded.sm}) while badges and edition pills push to {rounded.xs}, echoing the straight-edged geometry of a framed print. The footer doubles as a curatorial statement, listing represented photographers alongside newsletter sign-up, treating archives as editorial content rather than sitemap boilerplate.
 
 colors:
   primary: "#ea4b46"
@@ -411,6 +415,8 @@ components:
 - Footer collapses from four-column to two-column at tablet, single-column at mobile; photographer roster truncated with "See All" link
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom font stack was detected on the live site — the system may load typefaces via JS injection, a CDN with anti-bot protection, or a font manager not visible to static extraction. Georgia serif and Helvetica Neue are used here as plausible brand-aligned defaults; actual fonts should be confirmed by inspecting network requests in a real browser session.
 - Only two hex values were extracted (#ea4b46, #116633). The full palette — neutral grays, surface tints, hover states, overlay scrim values — is inferred from category conventions and cannot be verified without deeper CSS inspection.

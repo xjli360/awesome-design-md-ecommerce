@@ -1,0 +1,795 @@
+{
+  "source_url": "https://harley-davidson.com",
+  "final_url": "https://www.harley-davidson.com/us/en/index.html",
+  "captured_at": "2026-09-28T04:30:17.975643+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://harley-davidson.com",
+      "final_url": "https://www.harley-davidson.com/us/en/index.html",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "sha256": "c328b3d986f1f52feb494906fe8038292652a249f8c7eacd84bb970ba5b8ba17",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css",
+      "final_url": "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "30b4d917c11a420ec59a77f4c4dd543b6adff0e24672188d005e4f9022fd3c8e",
+      "snapshot": "stylesheet-1.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 79,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 43,
+      "sources": [
+        "https://www.harley-davidson.com/us/en/index.html",
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#000000": {
+      "count": 35,
+      "sources": [
+        "https://www.harley-davidson.com/us/en/index.html",
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#fa6600": {
+      "count": 18,
+      "sources": [
+        "https://www.harley-davidson.com/us/en/index.html",
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#757575": {
+      "count": 13,
+      "sources": [
+        "https://www.harley-davidson.com/us/en/index.html",
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#e1e1e1": {
+      "count": 13,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#00000033": {
+      "count": 8,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#e65200": {
+      "count": 7,
+      "sources": [
+        "https://www.harley-davidson.com/us/en/index.html"
+      ]
+    },
+    "#4e4e4e": {
+      "count": 6,
+      "sources": [
+        "https://www.harley-davidson.com/us/en/index.html"
+      ]
+    },
+    "#505050": {
+      "count": 6,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#00000026": {
+      "count": 6,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#96dbfa": {
+      "count": 5,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#f1efef": {
+      "count": 4,
+      "sources": [
+        "https://www.harley-davidson.com/us/en/index.html",
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#eeeceb": {
+      "count": 4,
+      "sources": [
+        "https://www.harley-davidson.com/us/en/index.html",
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#ff6600": {
+      "count": 4,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 4,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#57c5f7": {
+      "count": 4,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 3,
+      "sources": [
+        "https://www.harley-davidson.com/us/en/index.html",
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#141414": {
+      "count": 3,
+      "sources": [
+        "https://www.harley-davidson.com/us/en/index.html"
+      ]
+    },
+    "#9ca3af": {
+      "count": 3,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#f5a623": {
+      "count": 3,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#272727": {
+      "count": 3,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#929292": {
+      "count": 3,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 3,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 2,
+      "sources": [
+        "https://www.harley-davidson.com/us/en/index.html",
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#f9f8f8": {
+      "count": 2,
+      "sources": [
+        "https://www.harley-davidson.com/us/en/index.html",
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#626262": {
+      "count": 2,
+      "sources": [
+        "https://www.harley-davidson.com/us/en/index.html"
+      ]
+    },
+    "#545050": {
+      "count": 2,
+      "sources": [
+        "https://www.harley-davidson.com/us/en/index.html"
+      ]
+    },
+    "#404040": {
+      "count": 2,
+      "sources": [
+        "https://www.harley-davidson.com/us/en/index.html"
+      ]
+    },
+    "#ba2600": {
+      "count": 2,
+      "sources": [
+        "https://www.harley-davidson.com/us/en/index.html"
+      ]
+    },
+    "#b4b4b4": {
+      "count": 2,
+      "sources": [
+        "https://www.harley-davidson.com/us/en/index.html"
+      ]
+    },
+    "#00000022": {
+      "count": 2,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 2,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#f5a62333": {
+      "count": 2,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 2,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#00000080": {
+      "count": 2,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#c30000": {
+      "count": 2,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#c5c4c4": {
+      "count": 2,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#e36619": {
+      "count": 2,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#468600": {
+      "count": 2,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#ffffffff": {
+      "count": 2,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#0067f4": {
+      "count": 2,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#6c6c6c": {
+      "count": 2,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#737373": {
+      "count": 1,
+      "sources": [
+        "https://www.harley-davidson.com/us/en/index.html"
+      ]
+    },
+    "#dad8d7": {
+      "count": 1,
+      "sources": [
+        "https://www.harley-davidson.com/us/en/index.html"
+      ]
+    },
+    "#ebebeb": {
+      "count": 1,
+      "sources": [
+        "https://www.harley-davidson.com/us/en/index.html"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 1,
+      "sources": [
+        "https://www.harley-davidson.com/us/en/index.html"
+      ]
+    },
+    "#29246a": {
+      "count": 1,
+      "sources": [
+        "https://www.harley-davidson.com/us/en/index.html"
+      ]
+    },
+    "#37cd8f": {
+      "count": 1,
+      "sources": [
+        "https://www.harley-davidson.com/us/en/index.html"
+      ]
+    },
+    "#ffffff33": {
+      "count": 1,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#00000073": {
+      "count": 1,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#0e0e0e": {
+      "count": 1,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#d7d7d7": {
+      "count": 1,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#e4eed9": {
+      "count": 1,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#e5e3df": {
+      "count": 1,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#fef2de": {
+      "count": 1,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 1,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#00000014": {
+      "count": 1,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#000000a6": {
+      "count": 1,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "#000000b3": {
+      "count": 1,
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Apple SD Gothic Neo": [
+      "https://www.harley-davidson.com/us/en/index.html"
+    ],
+    "Arial": [
+      "https://www.harley-davidson.com/us/en/index.html"
+    ],
+    "Consolas": [
+      "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+    ],
+    "Courier New": [
+      "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+    ],
+    "Franklin Gothic ATF": [
+      "https://www.harley-davidson.com/us/en/index.html",
+      "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+    ],
+    "Franklin Gothic ITC": [
+      "https://www.harley-davidson.com/us/en/index.html",
+      "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+    ],
+    "Helvetica": [
+      "https://www.harley-davidson.com/us/en/index.html"
+    ],
+    "Hind": [
+      "https://www.harley-davidson.com/us/en/index.html"
+    ],
+    "Hiragino Sans GB": [
+      "https://www.harley-davidson.com/us/en/index.html"
+    ],
+    "Liberation Mono": [
+      "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+    ],
+    "MS Gothic": [
+      "https://www.harley-davidson.com/us/en/index.html"
+    ],
+    "Menlo": [
+      "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+    ],
+    "Microsoft YaHei": [
+      "https://www.harley-davidson.com/us/en/index.html"
+    ],
+    "Monaco": [
+      "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+    ],
+    "NanumBarunGothic": [
+      "https://www.harley-davidson.com/us/en/index.html"
+    ],
+    "Noto Sans": [
+      "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+    ],
+    "NotoSans-Bold' !important": [
+      "https://www.harley-davidson.com/us/en/index.html"
+    ],
+    "SFMono-Regular": [
+      "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+    ],
+    "STXihei": [
+      "https://www.harley-davidson.com/us/en/index.html"
+    ],
+    "WenQuanYi Micro Hei": [
+      "https://www.harley-davidson.com/us/en/index.html"
+    ],
+    "monospace": [
+      "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+    ],
+    "sans-serif": [
+      "https://www.harley-davidson.com/us/en/index.html",
+      "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+    ],
+    "sans-serif!important": [
+      "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+    ],
+    "sans-serif' !important": [
+      "https://www.harley-davidson.com/us/en/index.html"
+    ],
+    "ui-monospace": [
+      "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.harley-davidson.com/us/en/index.html",
+      "selector": ".navbar-secondary-sub-container-right-options-search-button",
+      "declarations": "flex-direction: row;\n      height: 2.25rem !important;\n      width: 11.125rem;\n      border-width: 1px;\n      border-color: #757575;\n      border-radius: 0.125rem;\n      margin-right: 1rem;\n      padding-top: 1rem;\n      padding-bottom: 1rem;"
+    },
+    {
+      "source": "https://www.harley-davidson.com/us/en/index.html",
+      "selector": ".newsletter-signup-body-title",
+      "declarations": "text-transform: uppercase;\n    color: #fa6600;"
+    },
+    {
+      "source": "https://www.harley-davidson.com/us/en/index.html",
+      "selector": ".osano-cm-expansion-panel__body",
+      "declarations": "background-color: rgba(0, 0, 0, 0.1);\n  line-height: 1.25;\n  list-style: none;\n  margin: 0 -1.5em;\n  max-height: 0;\n  overflow: hidden;\n  padding: 0 1.5em;\n  transition-delay: 0ms, 0ms, 0ms, 0.3s;\n  transition-duration: 0.3s, 0.3s, 0.3s, 0s;\n  transition-property: max-height, padding-top, padding-bottom, visibility;\n  transition-timing-function: ease-out;\n  visibility: hidden;"
+    },
+    {
+      "source": "https://www.harley-davidson.com/us/en/index.html",
+      "selector": ".osano-cm-info-dialog-header__close",
+      "declarations": "color: #000;\n  stroke: #000;"
+    },
+    {
+      "source": "https://www.harley-davidson.com/us/en/index.html",
+      "selector": ".osano-cm-info-dialog-header__close:focus",
+      "declarations": "background-color: #000;\n  border-color: #000;\n  stroke: #fff;"
+    },
+    {
+      "source": "https://www.harley-davidson.com/us/en/index.html",
+      "selector": ".osano-cm-button",
+      "declarations": "background-color: #fa6600;\n  border-color: #ffffff;\n  color: #ffffff;\n  text-transform: uppercase;"
+    },
+    {
+      "source": "https://www.harley-davidson.com/us/en/index.html",
+      "selector": ".osano-cm-button--type_deny",
+      "declarations": "background-color: #4e4e4e;\n  border-color: #fff;\n  color: #fff;"
+    },
+    {
+      "source": "https://www.harley-davidson.com/us/en/index.html",
+      "selector": ".osano-cm-button:focus,\n.osano-cm-button:hover",
+      "declarations": "background-color: #e65200;"
+    },
+    {
+      "source": "https://www.harley-davidson.com/us/en/index.html",
+      "selector": ".osano-cm-button--type_deny:focus,\n.osano-cm-button--type_deny:hover",
+      "declarations": "background-color: #626262;"
+    },
+    {
+      "source": "https://www.harley-davidson.com/us/en/index.html",
+      "selector": ".gigya-screen button",
+      "declarations": "font-family: 'Franklin Gothic ATF', 'sans-serif' !important;\n  font-weight: 700 !important;\n  text-transform: capitalize !important;\n  min-width: 100% !important;"
+    },
+    {
+      "source": "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css",
+      "selector": "button,input:where([type=button]),input:where([type=reset]),input:where([type=submit])",
+      "declarations": "-webkit-appearance:button;background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css",
+      "selector": "body",
+      "declarations": "font-family:Franklin Gothic ATF,\"sans-serif\";max-width:100vw;overflow-x:hidden"
+    },
+    {
+      "source": "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-feature-settings:inherit;font-variation-settings:inherit;font-size:100%;font-weight:inherit;line-height:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css",
+      "selector": "[type=button],[type=reset],[type=submit],button",
+      "declarations": "-webkit-appearance:button;background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css",
+      "selector": "pper,#ariPartStream #ariDetailsPanel,#ariPartStream #ariPartSelectPanel,#ariPartStream #ari_searchResults_contents,#ariPartStream .ariModelBlock .ariMainTitle,#",
+      "declarations": "--tw-bg-opacity:1!important;background-color:rgb(244 244 244/var(--tw-bg-opacity))!important"
+    },
+    {
+      "source": "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css",
+      "selector": "#ariPartStream .ari-product-line.ari-assembly-select .item p",
+      "declarations": "border-top-width:0!important;--tw-bg-opacity:1!important;background-color:rgb(244 244 244/var(--tw-bg-opacity))!important;padding-top:6px!important;font-family:Franklin Gothic ATF,sans-serif!important;font-size:13px!important"
+    },
+    {
+      "source": "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css",
+      "selector": ".\\[\\&\\>button\\]\\:\\!ig-border-black>button",
+      "declarations": "--tw-border-opacity:1!important;border-color:rgb(0 0 0/var(--tw-border-opacity))!important"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Official Harley-Davidson Motorcycles | Harley-Davidson USA",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.harley-davidson.com/us/en/index.html",
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.harley-davidson.com/us/en/index.html"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.harley-davidson.com/us/en/index.html",
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.harley-davidson.com/us/en/index.html",
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.harley-davidson.com/us/en/index.html",
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.harley-davidson.com/us/en/index.html"
+      ]
+    },
+    "colors.surface-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.harley-davidson.com/us/en/index.html"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.harley-davidson.com/us/en/index.html",
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "colors.neutral-deny": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.harley-davidson.com/us/en/index.html"
+      ]
+    },
+    "colors.neutral-deny-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.harley-davidson.com/us/en/index.html"
+      ]
+    },
+    "colors.accent-info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "colors.accent-success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "colors.accent-danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.harley-davidson.com/contentapp/_next/static/css/c4e4e5c07bcee5cd.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.part-fitment-panel": {
+      "status": "inferred"
+    }
+  }
+}

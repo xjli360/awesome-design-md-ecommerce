@@ -1,0 +1,512 @@
+{
+  "source_url": "https://www.onepeloton.com",
+  "final_url": "https://www.onepeloton.com/",
+  "captured_at": "2026-09-28T04:10:53.896515+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.onepeloton.com",
+      "final_url": "https://www.onepeloton.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "bbe64464ef348d7b16031002d820c9abd020486883684d3925889d38a2746dc4",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://use.typekit.net/sxy3vgl.css",
+      "final_url": "https://use.typekit.net/sxy3vgl.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "1ab5b9cd1b236be9e3c90cdbfa660910c6fa39636feeac69a702f5e4a33edb9a",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "d57dfa9957a8da048e831165819f7202eb390ff66f61fd6c8354c4a3974e3d5f",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.onepeloton.com/_next/static/css/00b2b26a2424372a.css?dpl=dpl_8zVchLEXPkw3fpsXeL78wXu2jvY1",
+      "final_url": "https://www.onepeloton.com/_next/static/css/00b2b26a2424372a.css?dpl=dpl_8zVchLEXPkw3fpsXeL78wXu2jvY1",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "82df946d67c7a2293c81adebe2a0ced565885838b24bb2ec344b12fca94da990",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#181a1d": {
+      "count": 30,
+      "sources": [
+        "https://www.onepeloton.com/"
+      ]
+    },
+    "#84b6e1": {
+      "count": 20,
+      "sources": [
+        "https://www.onepeloton.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 20,
+      "sources": [
+        "https://www.onepeloton.com/"
+      ]
+    },
+    "#65666a": {
+      "count": 19,
+      "sources": [
+        "https://www.onepeloton.com/"
+      ]
+    },
+    "#f5f7f9": {
+      "count": 13,
+      "sources": [
+        "https://www.onepeloton.com/"
+      ]
+    },
+    "#888b93": {
+      "count": 10,
+      "sources": [
+        "https://www.onepeloton.com/"
+      ]
+    },
+    "#a8acb1": {
+      "count": 7,
+      "sources": [
+        "https://www.onepeloton.com/"
+      ]
+    },
+    "#222529": {
+      "count": 5,
+      "sources": [
+        "https://www.onepeloton.com/"
+      ]
+    },
+    "#e4e6e7": {
+      "count": 3,
+      "sources": [
+        "https://www.onepeloton.com/"
+      ]
+    },
+    "#000000": {
+      "count": 2,
+      "sources": [
+        "https://www.onepeloton.com/"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 2,
+      "sources": [
+        "https://www.onepeloton.com/"
+      ]
+    },
+    "#697180": {
+      "count": 1,
+      "sources": [
+        "https://www.onepeloton.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "Inter": [
+      "https://www.onepeloton.com/",
+      "https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+    ],
+    "brandon-grotesque": [
+      "https://use.typekit.net/sxy3vgl.css"
+    ],
+    "sans-serif": [
+      "https://www.onepeloton.com/",
+      "https://use.typekit.net/sxy3vgl.css"
+    ],
+    "sans-serif !important": [
+      "https://www.onepeloton.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.onepeloton.com/",
+      "selector": "button,input",
+      "declarations": "-webkit-appearance:none;-moz-appearance:none;appearance:none;background:none;border-radius:0;border:0;color:inherit;font-size:inherit;font-family:inherit;margin:0;overflow:visible;padding:0;text-align:left;"
+    },
+    {
+      "source": "https://www.onepeloton.com/",
+      "selector": "body",
+      "declarations": "font-family:'Inter',sans-serif;font-weight:300;line-height:27px;color:#181a1d;-webkit-font-smoothing:antialiased;"
+    },
+    {
+      "source": "https://www.onepeloton.com/",
+      "selector": ".ciwdxf > button",
+      "declarations": "border:initial;background-color:initial;padding:initial;text-align:initial;"
+    }
+  ],
+  "confidence": "historical_partial_css_evidence",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Peloton: Innovative exercise equipment and personalized workout plans",
+  "schema_version": 1,
+  "design_origin": "historical",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.primary-active": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.primary-disabled": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.onepeloton.com/"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.onepeloton.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.onepeloton.com/"
+      ]
+    },
+    "colors.muted-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.onepeloton.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.onepeloton.com/"
+      ]
+    },
+    "colors.hairline-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.onepeloton.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.onepeloton.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.onepeloton.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.onepeloton.com/"
+      ]
+    },
+    "colors.surface-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.onepeloton.com/"
+      ]
+    },
+    "colors.surface-dark-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.onepeloton.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.onepeloton.com/"
+      ]
+    },
+    "colors.on-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.onepeloton.com/"
+      ]
+    },
+    "colors.link": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.onepeloton.com/"
+      ]
+    },
+    "colors.link-active": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.success": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.warning": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.error": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.leaderboard-red": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.leaderboard-green": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.leaderboard-blue": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.onepeloton.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-lg": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.title-lg": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.title-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.title-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.body-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.body-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.caption": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.caption-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.badge": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.micro-label": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.button-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.button-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.link": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.nav-link": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "rounded.none": {
+      "status": "unverified"
+    },
+    "rounded.xs": {
+      "status": "unverified"
+    },
+    "rounded.sm": {
+      "status": "unverified"
+    },
+    "rounded.md": {
+      "status": "unverified"
+    },
+    "rounded.lg": {
+      "status": "unverified"
+    },
+    "rounded.xl": {
+      "status": "unverified"
+    },
+    "rounded.full": {
+      "status": "unverified"
+    },
+    "spacing.xxs": {
+      "status": "unverified"
+    },
+    "spacing.xs": {
+      "status": "unverified"
+    },
+    "spacing.sm": {
+      "status": "unverified"
+    },
+    "spacing.md": {
+      "status": "unverified"
+    },
+    "spacing.base": {
+      "status": "unverified"
+    },
+    "spacing.lg": {
+      "status": "unverified"
+    },
+    "spacing.xl": {
+      "status": "unverified"
+    },
+    "spacing.xxl": {
+      "status": "unverified"
+    },
+    "spacing.section": {
+      "status": "unverified"
+    },
+    "components.button-primary": {
+      "status": "unverified"
+    },
+    "components.button-primary-active": {
+      "status": "unverified"
+    },
+    "components.button-primary-disabled": {
+      "status": "unverified"
+    },
+    "components.button-secondary": {
+      "status": "unverified"
+    },
+    "components.button-secondary-active": {
+      "status": "unverified"
+    },
+    "components.button-dark": {
+      "status": "unverified"
+    },
+    "components.button-pill-red": {
+      "status": "unverified"
+    },
+    "components.icon-button-circle": {
+      "status": "unverified"
+    },
+    "components.icon-button-dark": {
+      "status": "unverified"
+    },
+    "components.top-nav": {
+      "status": "unverified"
+    },
+    "components.top-nav-dark": {
+      "status": "unverified"
+    },
+    "components.nav-link-active": {
+      "status": "unverified"
+    },
+    "components.nav-link-inactive": {
+      "status": "unverified"
+    },
+    "components.text-input": {
+      "status": "unverified"
+    },
+    "components.text-input-focus": {
+      "status": "unverified"
+    },
+    "components.text-input-dark": {
+      "status": "unverified"
+    },
+    "components.select-input": {
+      "status": "unverified"
+    },
+    "components.product-card": {
+      "status": "unverified"
+    },
+    "components.product-card-dark": {
+      "status": "unverified"
+    },
+    "components.product-card-image": {
+      "status": "unverified"
+    },
+    "components.leaderboard-row": {
+      "status": "unverified"
+    },
+    "components.leaderboard-row-active": {
+      "status": "unverified"
+    },
+    "components.metric-badge": {
+      "status": "unverified"
+    },
+    "components.metric-badge-red": {
+      "status": "unverified"
+    },
+    "components.live-class-thumbnail": {
+      "status": "unverified"
+    },
+    "components.class-card": {
+      "status": "unverified"
+    },
+    "components.class-card-dark": {
+      "status": "unverified"
+    },
+    "components.progress-bar": {
+      "status": "unverified"
+    },
+    "components.progress-bar-fill": {
+      "status": "unverified"
+    },
+    "components.footer": {
+      "status": "unverified"
+    },
+    "components.footer-link": {
+      "status": "unverified"
+    },
+    "components.footer-link-hover": {
+      "status": "unverified"
+    }
+  },
+  "observed_color_tokens": 15,
+  "total_color_tokens": 25
+}

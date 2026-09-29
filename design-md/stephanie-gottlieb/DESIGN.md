@@ -1,11 +1,15 @@
 ---
 version: alpha
-name: Stephanie Gottlieb
-description: Hot pink—#fe3981—used as the permanent CTA voltage on a fine jewelry site is a deliberate aesthetic rupture: where the sector defaults to pearl-cream or champagne reserve, Stephanie Gottlieb deploys this saturated rose as the full interaction infrastructure, carrying every primary button, cart action, and editorial focal point against near-black (#121212) ink on a white canvas. ChromaticGeometricLight handles display-register headlines at thin weights (300), its circular letterforms and open counters structurally echoing the round-brilliant diamonds the brand specializes in — at 60px the strokes reduce to pure geometric silhouette, engineered to recede behind product photography rather than compete with it. Jost covers the functional layer: navigation, button labels, filter chips, and category markers all set uppercase in tracked Jost 400–500, introducing clean mechanical contrast that distinguishes interaction affordances from the ChromaticGeometric editorial voice. MinSansBook grounds body copy and price display in book-weight legibility.
+name: "Stephanie Gottlieb"
+source_url: "https://www.stephaniegottlieb.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Hot pink—#fe3981—used as the permanent CTA voltage on a fine jewelry site is a deliberate aesthetic rupture: where the sector defaults to pearl-cream or champagne reserve, Stephanie Gottlieb deploys this saturated rose as the full interaction infrastructure, carrying every primary button, cart action, and editorial focal point against near-black (#121212) ink on a white canvas. ChromaticGeometricLight handles display-register headlines at thin weights (300), its circular letterforms and open counters structurally echoing the round-brilliant diamonds the brand specializes in — at 60px the strokes reduce to pure geometric silhouette, engineered to recede behind product photography rather than compete with it. Jost covers the functional layer: navigation, button labels, filter chips, and category markers all set uppercase in tracked Jost 400–500, introducing clean mechanical contrast that distinguishes interaction affordances from the ChromaticGeometric editorial voice. MinSansBook grounds body copy and price display in book-weight legibility.
 
-The surface architecture is spare minimalism anchored at two close gray values — #e6e6e6 as the primary hairline, #dedede as a secondary divider — that create card separation and section rhythm without adding visual mass. No decorative shadows, no ornamental rules; whitespace and type-scale steps carry all hierarchy. Corner geometry is applied deliberately: filter chips and search fields use {rounded.full} pill shapes, while product cards and primary CTAs hold {rounded.none} square edges that suggest gemological precision rather than generic consumer softness. A secondary red (#e32c2b) appears narrowly: promotional flags, sale badges, and low-stock indicators, warm enough to read as urgency rather than error state.
+  The surface architecture is spare minimalism anchored at two close gray values — #e6e6e6 as the primary hairline, #dedede as a secondary divider — that create card separation and section rhythm without adding visual mass. No decorative shadows, no ornamental rules; whitespace and type-scale steps carry all hierarchy. Corner geometry is applied deliberately: filter chips and search fields use {rounded.full} pill shapes, while product cards and primary CTAs hold {rounded.none} square edges that suggest gemological precision rather than generic consumer softness. A secondary red (#e32c2b) appears narrowly: promotional flags, sale badges, and low-stock indicators, warm enough to read as urgency rather than error state.
 
-The personalization equity — bespoke commissions, engraving, custom stacking — surfaces as a full-bleed #fe3981 editorial band that uses the primary color as a section background rather than a button fill, making the brand's CTA signal double as identity broadcast. At every breakpoint, photography is the layout engine; the entire typographic and color system exists to amplify stone and light, with the hot pink doing the singular job of telling the viewer exactly where to act.
+  The personalization equity — bespoke commissions, engraving, custom stacking — surfaces as a full-bleed #fe3981 editorial band that uses the primary color as a section background rather than a button fill, making the brand's CTA signal double as identity broadcast. At every breakpoint, photography is the layout engine; the entire typographic and color system exists to amplify stone and light, with the hot pink doing the singular job of telling the viewer exactly where to act.
 
 colors:
   primary: "#fe3981"
@@ -376,6 +380,8 @@ components:
 - Main nav condenses to icon bar at < 744px; full link tree lives in an off-canvas left drawer
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - White canvas (#ffffff) was not in the top-6 extracted colors but is an obvious inference; consistent with Shopify theme defaults
 - `surface-soft` (#f5f5f5) and `surface-muted` (#eeeeee) are derived values — no lighter surface tokens appeared in the extraction

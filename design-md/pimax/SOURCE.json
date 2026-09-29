@@ -1,0 +1,842 @@
+{
+  "source_url": "https://pimax.com",
+  "final_url": "https://www.pimax.com/",
+  "captured_at": "2026-09-28T04:10:28.660264+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://pimax.com",
+      "final_url": "https://www.pimax.com/",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "sha256": "f7f87101b3429e1c0fdacb3a693683f8729c4ebe37c21be8f34bfe13081c3ec4",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css",
+      "final_url": "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ae6042055caec63f7f139691acfef527ce52715191d09febba61424871c7b1e7",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.pimax.com/_nuxt/BaseSkeleton.Dt-ilfwV.css",
+      "final_url": "https://www.pimax.com/_nuxt/BaseSkeleton.Dt-ilfwV.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "10253e8f42cee14f56582818e5b6931a36cc8fdf2230714f476dc2633da60909",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.pimax.com/_nuxt/SpecTable.DSJO4nv8.css",
+      "final_url": "https://www.pimax.com/_nuxt/SpecTable.DSJO4nv8.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "77130d5a16e1a662f8ecfd29bcdf1144af25ab4f992e998cf3bd0674e038abf5",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.pimax.com/_nuxt/ProductLineup.BTL0EZSx.css",
+      "final_url": "https://www.pimax.com/_nuxt/ProductLineup.BTL0EZSx.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "42048811625d81c902f8ebb9f58d22b477fad87e767f48eec2573ab0e36223cf",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.pimax.com/_nuxt/UseCases.wYx21ArZ.css",
+      "final_url": "https://www.pimax.com/_nuxt/UseCases.wYx21ArZ.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ca16af1f2263c260fc588bf8ae2b940802b3928dd8152a807fe300eb18b985b0",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 34,
+      "sources": [
+        "https://www.pimax.com/",
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#00000000": {
+      "count": 29,
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 7,
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css",
+        "https://www.pimax.com/_nuxt/BaseSkeleton.Dt-ilfwV.css"
+      ]
+    },
+    "#000000": {
+      "count": 5,
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#ffffff1a": {
+      "count": 4,
+      "sources": [
+        "https://www.pimax.com/",
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#ffffffb8": {
+      "count": 4,
+      "sources": [
+        "https://www.pimax.com/",
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#ffffff14": {
+      "count": 4,
+      "sources": [
+        "https://www.pimax.com/",
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#d8d6d2": {
+      "count": 4,
+      "sources": [
+        "https://www.pimax.com/",
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css",
+        "https://www.pimax.com/_nuxt/BaseSkeleton.Dt-ilfwV.css"
+      ]
+    },
+    "#ffffff0a": {
+      "count": 4,
+      "sources": [
+        "https://www.pimax.com/",
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#ffffff4d": {
+      "count": 4,
+      "sources": [
+        "https://www.pimax.com/",
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#ffffff59": {
+      "count": 4,
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#ffffff00": {
+      "count": 4,
+      "sources": [
+        "https://www.pimax.com/_nuxt/BaseSkeleton.Dt-ilfwV.css"
+      ]
+    },
+    "#6193f614": {
+      "count": 3,
+      "sources": [
+        "https://www.pimax.com/",
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#070a1442": {
+      "count": 3,
+      "sources": [
+        "https://www.pimax.com/"
+      ]
+    },
+    "#00000080": {
+      "count": 3,
+      "sources": [
+        "https://www.pimax.com/",
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#4f7ef0": {
+      "count": 3,
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#ffffff33": {
+      "count": 3,
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#141416": {
+      "count": 3,
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#2a2a2a": {
+      "count": 3,
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 3,
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#22222c": {
+      "count": 3,
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#2c2c43": {
+      "count": 3,
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#7a7a7a": {
+      "count": 3,
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#ffffff73": {
+      "count": 3,
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css",
+        "https://www.pimax.com/_nuxt/BaseSkeleton.Dt-ilfwV.css"
+      ]
+    },
+    "#ffffffe6": {
+      "count": 3,
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#6193f6": {
+      "count": 3,
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#ffffff0f": {
+      "count": 2,
+      "sources": [
+        "https://www.pimax.com/",
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#ffffff2e": {
+      "count": 2,
+      "sources": [
+        "https://www.pimax.com/",
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#ffffffd1": {
+      "count": 2,
+      "sources": [
+        "https://www.pimax.com/",
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#050a181a": {
+      "count": 2,
+      "sources": [
+        "https://www.pimax.com/"
+      ]
+    },
+    "#ffffff0d": {
+      "count": 2,
+      "sources": [
+        "https://www.pimax.com/",
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#ffffff24": {
+      "count": 2,
+      "sources": [
+        "https://www.pimax.com/",
+        "https://www.pimax.com/_nuxt/BaseSkeleton.Dt-ilfwV.css"
+      ]
+    },
+    "#6193f629": {
+      "count": 2,
+      "sources": [
+        "https://www.pimax.com/"
+      ]
+    },
+    "#0000000f": {
+      "count": 2,
+      "sources": [
+        "https://www.pimax.com/",
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#ff8e8e": {
+      "count": 2,
+      "sources": [
+        "https://www.pimax.com/",
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#00000066": {
+      "count": 2,
+      "sources": [
+        "https://www.pimax.com/"
+      ]
+    },
+    "#9ca3af": {
+      "count": 2,
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 2,
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#ffffff26": {
+      "count": 2,
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#ffffff80": {
+      "count": 2,
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#ffffff99": {
+      "count": 2,
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#ffffffb3": {
+      "count": 2,
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#ffffffcc": {
+      "count": 2,
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#000000cc": {
+      "count": 2,
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#345dff": {
+      "count": 2,
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#ffffffad": {
+      "count": 2,
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#ffffff8f": {
+      "count": 2,
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "#ffffff52": {
+      "count": 1,
+      "sources": [
+        "https://www.pimax.com/"
+      ]
+    },
+    "#ffffff94": {
+      "count": 1,
+      "sources": [
+        "https://www.pimax.com/"
+      ]
+    },
+    "#6193f642": {
+      "count": 1,
+      "sources": [
+        "https://www.pimax.com/"
+      ]
+    },
+    "#050a1814": {
+      "count": 1,
+      "sources": [
+        "https://www.pimax.com/"
+      ]
+    },
+    "#ffffff3d": {
+      "count": 1,
+      "sources": [
+        "https://www.pimax.com/"
+      ]
+    },
+    "#080a1280": {
+      "count": 1,
+      "sources": [
+        "https://www.pimax.com/"
+      ]
+    },
+    "#ffffffeb": {
+      "count": 1,
+      "sources": [
+        "https://www.pimax.com/"
+      ]
+    },
+    "#f8faffe0": {
+      "count": 1,
+      "sources": [
+        "https://www.pimax.com/"
+      ]
+    },
+    "#050a180d": {
+      "count": 1,
+      "sources": [
+        "https://www.pimax.com/"
+      ]
+    },
+    "#050a1809": {
+      "count": 1,
+      "sources": [
+        "https://www.pimax.com/"
+      ]
+    },
+    "#6193f638": {
+      "count": 1,
+      "sources": [
+        "https://www.pimax.com/"
+      ]
+    },
+    "#6193f621": {
+      "count": 1,
+      "sources": [
+        "https://www.pimax.com/"
+      ]
+    },
+    "#6193f661": {
+      "count": 1,
+      "sources": [
+        "https://www.pimax.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "Arcline": [
+      "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+    ],
+    "Arcline Inline": [
+      "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+    ],
+    "HarmonyOS Sans": [
+      "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.pimax.com/",
+      "selector": ".product-menu-group[data-v-7bb4f2eb]",
+      "declarations": "align-items:center;background:transparent;border:0;border-radius:var(--r-lg);color:var(--ink);cursor:pointer;display:flex;font-size:18px;font-weight:500;justify-content:space-between;padding:14px 16px;text-align:start;transition:background-color .18s ease,color .18s ease,transform .18s ease;width:100%"
+    },
+    {
+      "source": "https://www.pimax.com/",
+      "selector": ".product-menu-group.active[data-v-7bb4f2eb],.product-menu-group[data-v-7bb4f2eb]:focus-visible,.product-menu-group[data-v-7bb4f2eb]:hover",
+      "declarations": "background:#0000000a;color:var(--accent);outline:none;transform:translate(4px)"
+    },
+    {
+      "source": "https://www.pimax.com/",
+      "selector": ".product-menu-card[data-v-7bb4f2eb]",
+      "declarations": "background:#f7f7f4;border-radius:var(--r-lg);color:inherit;min-height:300px;overflow:hidden;text-decoration:none;transition:transform .18s ease,box-shadow .18s ease,background-color .18s ease"
+    },
+    {
+      "source": "https://www.pimax.com/",
+      "selector": ".product-menu-card-title[data-v-7bb4f2eb]",
+      "declarations": "color:var(--ink);font-size:19px;font-weight:600;letter-spacing:-.02em;line-height:1.15"
+    },
+    {
+      "source": "https://www.pimax.com/",
+      "selector": ".product-menu-card-copy[data-v-7bb4f2eb]",
+      "declarations": "color:var(--ink-2);font-size:13px;line-height:1.5;margin:0"
+    },
+    {
+      "source": "https://www.pimax.com/",
+      "selector": ".product-menu-card-monogram[data-v-7bb4f2eb]",
+      "declarations": "color:#fff;font-size:42px;font-weight:600;letter-spacing:-.05em"
+    },
+    {
+      "source": "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font-family:inherit;font-feature-settings:inherit;font-size:100%;font-variation-settings:inherit;font-weight:inherit;letter-spacing:inherit;line-height:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css",
+      "selector": "button,input:where([type=button]),input:where([type=reset]),input:where([type=submit])",
+      "declarations": "-webkit-appearance:button;background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css",
+      "selector": ".h1,.hero-h1",
+      "declarations": "font-family:var(--sans);font-weight:600;letter-spacing:-.015em;line-height:1.06"
+    },
+    {
+      "source": "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css",
+      "selector": ".btn",
+      "declarations": "align-items:center;background:transparent;border:1px solid var(--ink-2);border-radius:var(--r-lg);cursor:pointer;display:inline-flex;font-family:var(--sans);font-size:13px;gap:6px;line-height:1;padding:10px 16px;text-decoration:none;transition:background .15s,border-color .15s,color .15s;white-space:nowrap"
+    },
+    {
+      "source": "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css",
+      "selector": ".btn:hover",
+      "declarations": "background:var(--ink-2);border-color:var(--ink-2);color:#fff!important"
+    },
+    {
+      "source": "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css",
+      "selector": ".btn-accent",
+      "declarations": "background:var(--accent);border-color:var(--accent);color:#fff"
+    },
+    {
+      "source": "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css",
+      "selector": ".btn-accent:hover",
+      "declarations": "background:#4f7ef0;border-color:#4f7ef0"
+    },
+    {
+      "source": "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css",
+      "selector": ":root",
+      "declarations": "--accent:#6193f6;--accent-soft:#dee8fb;--ink:#1a1a1a;--ink-2:#3b3b3b;--mute:#7a7a7a;--mute-2:#a8a8a8;--surface-text:#cfcfcf;--surface-mute:#bdbdbd;--border-dark:#2f2f2f;--mid-gray:#5a5a5a;--ink-deep:#10141f;--border-light:#e2e2e5;--paper:#f2f2f2;--paper-2:#c4c2be;--sans:\"HarmonyOS Sans\",\"Inter\",\"Noto Sans Arabic\",\"Tahoma\",\"Arial\",\"PingFang SC\",-apple-system,BlinkMacSystemFont,\"Segoe UI\",system-ui,sans-serif;--mono:\"Arcline\",\"Space Mono\",ui-monospace,\"SF Mono\",\"Fira Code\",Menlo,monospace;--number-mono:\"Arcline\",-apple-system,BlinkMacSystemFont,\"Segoe UI\",system-ui,sans-serif;--r-xs:2px;--r-sm:4px;--r-md:6px;--r-lg:8px;--px:64px;--dark-grad:linear-gradient(160deg,#141416,#22222c 45%,#2c2c43);-"
+    },
+    {
+      "source": "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css",
+      "selector": "body",
+      "declarations": "background:var(--paper);color:var(--ink);font-family:var(--sans);font-size:14px;line-height:1.4;overflow-x:hidden"
+    },
+    {
+      "source": "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css",
+      "selector": ":root",
+      "declarations": "--px:20px"
+    },
+    {
+      "source": "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css",
+      "selector": ".hl-body",
+      "declarations": "color:var(--surface-text);font-size:15px;line-height:1.65"
+    },
+    {
+      "source": "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css",
+      "selector": ".hl-body-dim",
+      "declarations": "color:#ffffff6b;font-size:14px;line-height:1.65"
+    },
+    {
+      "source": "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css",
+      "selector": ".product-feature-scene,.product-feature-scene__pinned",
+      "declarations": "--tw-bg-opacity:1;background-color:rgb(0 0 0/var(--tw-bg-opacity,1))"
+    },
+    {
+      "source": "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css",
+      "selector": ".product-feature-scene__stage",
+      "declarations": "height:100vh;overflow:hidden;width:100%;--tw-bg-opacity:1;background-color:rgb(0 0 0/var(--tw-bg-opacity,1))"
+    },
+    {
+      "source": "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css",
+      "selector": ".product-feature-scene__headline",
+      "declarations": "left:50%;pointer-events:none;position:absolute;top:18%;width:100%;z-index:20;--tw-translate-x:-50%;opacity:0;padding-left:1.5rem;padding-right:1.5rem;text-align:center;transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));will-change:opacity,transform"
+    },
+    {
+      "source": "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css",
+      "selector": ".product-feature-scene__eyebrow",
+      "declarations": "align-items:center;color:#ffffff59;display:inline-flex;font-family:var(--mono);font-size:11px;gap:.5rem;letter-spacing:.1em;margin-bottom:.875rem;text-transform:uppercase"
+    },
+    {
+      "source": "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css",
+      "selector": ".product-feature-scene__eyebrow-line",
+      "declarations": "background-color:#ffffff59;height:1px;width:18px"
+    },
+    {
+      "source": "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css",
+      "selector": ".product-feature-scene__heading",
+      "declarations": "-webkit-background-clip:text;background-clip:text;background-image:linear-gradient(90deg,#fff 0,var(--mute) 28%,var(--accent) 50%,var(--mute) 72%,#fff 100%);background-position:0 0;background-size:300% 100%;color:transparent;font-size:1.875rem;font-weight:700;letter-spacing:-.025em;line-height:2.25rem;line-height:1;white-space:normal"
+    },
+    {
+      "source": "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css",
+      "selector": ".product-feature-scene__copy",
+      "declarations": "color:#ffffff73;font-size:.875rem;line-height:1.25rem;line-height:1.625;margin-left:auto;margin-right:auto;margin-top:.875rem;max-width:520px"
+    },
+    {
+      "source": "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css",
+      "selector": ".product-feature-scene__cards",
+      "declarations": "display:none;left:50%;pointer-events:none;position:absolute;top:140px;width:min(1080px,calc(100% - 3rem));z-index:10;--tw-translate-x:-50%;-moz-column-gap:1.5rem;column-gap:1.5rem;row-gap:3rem;transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))"
+    },
+    {
+      "source": "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css",
+      "selector": ".product-feature-scene__card-title",
+      "declarations": "color:#ffffffe6;font-size:1rem;font-weight:600;line-height:1.5rem;line-height:1.375;margin-bottom:7px"
+    },
+    {
+      "source": "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css",
+      "selector": ".product-feature-scene__card-copy",
+      "declarations": "color:var(--surface-text);font-size:13px;line-height:1.5;opacity:.65"
+    },
+    {
+      "source": "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css",
+      "selector": ".product-feature-scene__icon-frame",
+      "declarations": "color:var(--accent);height:50px;margin-bottom:11px;margin-left:auto;margin-right:auto;width:50px"
+    },
+    {
+      "source": "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css",
+      "selector": ".product-feature-scene__mobile",
+      "declarations": "padding:4rem 1.25rem;--tw-text-opacity:1;color:rgb(255 255 255/var(--tw-text-opacity,1))"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Pimax - Wide FOV VR Headsets for Simulation & Beyond",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "colors.primary-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css",
+        "https://www.pimax.com/_nuxt/BaseSkeleton.Dt-ilfwV.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css",
+        "https://www.pimax.com/_nuxt/BaseSkeleton.Dt-ilfwV.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pimax.com/",
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css",
+        "https://www.pimax.com/_nuxt/BaseSkeleton.Dt-ilfwV.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "colors.surface-card-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "colors.surface-card-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "colors.border-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "colors.cool-gray": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "colors.alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pimax.com/",
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pimax.com/",
+        "https://www.pimax.com/_nuxt/entry.DuqlwAkZ.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.spec-mono": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.data-mono-lg": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-sheet": {
+      "status": "inferred"
+    }
+  }
+}

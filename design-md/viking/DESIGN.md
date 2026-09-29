@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Viking
-description: |
+name: "Viking"
+source_url: "https://www.vikingrange.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Stainless steel rendered as light — that is the first impression of Viking's digital presence. The entire interface sits on a grayscale spectrum so tightly controlled (#1a1a1a through #f3f3f3 in nearly ten discrete steps) that it mimics the brushed-metal finish of the brand's professional ranges and built-in refrigerators. Against this monochromatic field, a single bronze accent (#967b4c) does all the heavy lifting: it marks active navigation states, prices, premium badges, and the occasional horizontal rule that separates product tiers. The warmth is deliberate — bronze reads as hearth, as flame, as the amber glow inside a convection oven. Typography pairs Garamond Premier Pro for editorial headlines and feature callouts with a clean system sans-serif stack for UI chrome, creating a split personality that says "heritage craftsmanship" in the hero and "professional tool" in the spec tables. Display type lands at generous sizes (42–56px) but whisper-light tracking, letting letterforms breathe the way a Viking showroom lets each appliance own its pedestal. Corners stay sharp — `{rounded.none}` to `{rounded.xs}` dominate, because curved edges would contradict the machined-steel language; only search inputs and promotional pills soften to `{rounded.sm}`. Spacing is architectural: `{spacing.section}` (80px) separates lifestyle photography from spec grids, while `{spacing.lg}` (24px) governs the internal rhythm of product cards. The palette's warm tail — a full bronze-to-cream gradient from #967b4c up through #f5f2ee — provides tinted surface layers for premium collection callouts without ever breaking the neutral backbone. Everything says: these appliances are investments, built to outlast trends, and the interface refuses to compete with the product for attention.
 
 colors:
@@ -392,6 +395,8 @@ components:
 - Filter sidebar: persistent left rail on desktop → slide-out overlay triggered by "Filter" button on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact font-weight variants for garamond-premier-pro could not be confirmed from extraction (likely loads via Adobe Fonts/Typekit with weights 300, 400, 600)
 - Interactive state transition durations and easing curves not captured — likely 200–300ms ease-out based on Shopify theme conventions

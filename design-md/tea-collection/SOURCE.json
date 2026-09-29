@@ -1,0 +1,884 @@
+{
+  "source_url": "https://teacollection.com",
+  "final_url": "https://teacollection.com/",
+  "captured_at": "2026-09-28T09:39:00.275892+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://teacollection.com",
+      "final_url": "https://teacollection.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "511025f582d55b4ffa71658a70fad8df6b2a860cbe44da45f4c840515c064e99",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935",
+      "final_url": "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "caf1a73c7ea5c91cdc8d337e58609768a4550da828d702acce0833c73b73c1e7",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://teacollection.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://teacollection.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "be10bc4b16346e787891f1da5de658505019fcd30172651891a4bf550c948e36",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://teacollection.com/cdn/shop/t/94/assets/promo-bar.min.css?v=168924324700608648661790284935",
+      "final_url": "https://teacollection.com/cdn/shop/t/94/assets/promo-bar.min.css?v=168924324700608648661790284935",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "da0a9646d77d45703b51bf2069fab1221d3eb0a3dd81f2aa496370519e746846",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://teacollection.com/cdn/shop/t/94/assets/header.min.css?v=143648120348356710981790284936",
+      "final_url": "https://teacollection.com/cdn/shop/t/94/assets/header.min.css?v=143648120348356710981790284936",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7216681f03dca89a8c3bd00d91d25f20c52aac0d946bd0474655d0244d9e462c",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#eeeeee": {
+      "count": 33,
+      "sources": [
+        "https://teacollection.com/",
+        "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#000000": {
+      "count": 26,
+      "sources": [
+        "https://teacollection.com/",
+        "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 24,
+      "sources": [
+        "https://teacollection.com/",
+        "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935",
+        "https://teacollection.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#3e1a04": {
+      "count": 20,
+      "sources": [
+        "https://teacollection.com/",
+        "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935"
+      ]
+    },
+    "#ff1493": {
+      "count": 17,
+      "sources": [
+        "https://teacollection.com/"
+      ]
+    },
+    "#5f1045": {
+      "count": 17,
+      "sources": [
+        "https://teacollection.com/"
+      ]
+    },
+    "#0000ff": {
+      "count": 17,
+      "sources": [
+        "https://teacollection.com/"
+      ]
+    },
+    "#108474": {
+      "count": 11,
+      "sources": [
+        "https://teacollection.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#537445": {
+      "count": 10,
+      "sources": [
+        "https://teacollection.com/"
+      ]
+    },
+    "#f6f3eb": {
+      "count": 9,
+      "sources": [
+        "https://teacollection.com/",
+        "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935"
+      ]
+    },
+    "#dddddd": {
+      "count": 9,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 7,
+      "sources": [
+        "https://teacollection.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#333333": {
+      "count": 7,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#d59590": {
+      "count": 6,
+      "sources": [
+        "https://teacollection.com/",
+        "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935"
+      ]
+    },
+    "#9aaabb": {
+      "count": 6,
+      "sources": [
+        "https://teacollection.com/"
+      ]
+    },
+    "#555555": {
+      "count": 6,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#ed5052": {
+      "count": 5,
+      "sources": [
+        "https://teacollection.com/",
+        "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935"
+      ]
+    },
+    "#3c4264": {
+      "count": 5,
+      "sources": [
+        "https://teacollection.com/"
+      ]
+    },
+    "#ff0000": {
+      "count": 5,
+      "sources": [
+        "https://teacollection.com/"
+      ]
+    },
+    "#666666": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#405fa8": {
+      "count": 4,
+      "sources": [
+        "https://teacollection.com/",
+        "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935"
+      ]
+    },
+    "#911f30": {
+      "count": 4,
+      "sources": [
+        "https://teacollection.com/"
+      ]
+    },
+    "#d0c5b1": {
+      "count": 3,
+      "sources": [
+        "https://teacollection.com/"
+      ]
+    },
+    "#008000": {
+      "count": 3,
+      "sources": [
+        "https://teacollection.com/"
+      ]
+    },
+    "#8b4513": {
+      "count": 3,
+      "sources": [
+        "https://teacollection.com/"
+      ]
+    },
+    "#800080": {
+      "count": 3,
+      "sources": [
+        "https://teacollection.com/"
+      ]
+    },
+    "#d7e1e3": {
+      "count": 2,
+      "sources": [
+        "https://teacollection.com/"
+      ]
+    },
+    "#fffcf4": {
+      "count": 2,
+      "sources": [
+        "https://teacollection.com/",
+        "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935"
+      ]
+    },
+    "#b8aebb": {
+      "count": 2,
+      "sources": [
+        "https://teacollection.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://teacollection.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://teacollection.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#fbcd0a": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#a89cc8": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#c1e6e6": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#7b7b7b": {
+      "count": 1,
+      "sources": [
+        "https://teacollection.com/"
+      ]
+    },
+    "#266b01": {
+      "count": 1,
+      "sources": [
+        "https://teacollection.com/"
+      ]
+    },
+    "#ffd700": {
+      "count": 1,
+      "sources": [
+        "https://teacollection.com/"
+      ]
+    },
+    "#0e9e86": {
+      "count": 1,
+      "sources": [
+        "https://teacollection.com/"
+      ]
+    },
+    "#e7b2bb": {
+      "count": 1,
+      "sources": [
+        "https://teacollection.com/"
+      ]
+    },
+    "#2e2f2f": {
+      "count": 1,
+      "sources": [
+        "https://teacollection.com/"
+      ]
+    },
+    "#eec0d5": {
+      "count": 1,
+      "sources": [
+        "https://teacollection.com/"
+      ]
+    },
+    "#adc2d2": {
+      "count": 1,
+      "sources": [
+        "https://teacollection.com/"
+      ]
+    },
+    "#8fa7aa": {
+      "count": 1,
+      "sources": [
+        "https://teacollection.com/"
+      ]
+    },
+    "#4877c8": {
+      "count": 1,
+      "sources": [
+        "https://teacollection.com/"
+      ]
+    },
+    "#000f9f": {
+      "count": 1,
+      "sources": [
+        "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935"
+      ]
+    },
+    "#4a2915": {
+      "count": 1,
+      "sources": [
+        "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935"
+      ]
+    },
+    "#654836": {
+      "count": 1,
+      "sources": [
+        "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935"
+      ]
+    },
+    "#7d6451": {
+      "count": 1,
+      "sources": [
+        "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935"
+      ]
+    },
+    "#988472": {
+      "count": 1,
+      "sources": [
+        "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935"
+      ]
+    },
+    "#b4a593": {
+      "count": 1,
+      "sources": [
+        "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935"
+      ]
+    },
+    "#d4c9b9": {
+      "count": 1,
+      "sources": [
+        "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935"
+      ]
+    },
+    "#ece6d5": {
+      "count": 1,
+      "sources": [
+        "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935"
+      ]
+    },
+    "#f6f0e1": {
+      "count": 1,
+      "sources": [
+        "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935"
+      ]
+    },
+    "#f8f4e9": {
+      "count": 1,
+      "sources": [
+        "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935"
+      ]
+    },
+    "#212121": {
+      "count": 1,
+      "sources": [
+        "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935"
+      ]
+    },
+    "#424242": {
+      "count": 1,
+      "sources": [
+        "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935"
+      ]
+    },
+    "#616161": {
+      "count": 1,
+      "sources": [
+        "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Baskerville": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Helvetica": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons\" !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons' !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeStar": [
+      "https://teacollection.com/"
+    ],
+    "JudgemeStar' !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Nunito Sans": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Recoleta": [
+      "https://teacollection.com/"
+    ],
+    "SupremeLLWeb": [
+      "https://teacollection.com/"
+    ],
+    "monospace": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "overpass-mono-variable": [
+      "https://teacollection.com/"
+    ],
+    "sans-serif": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "swiper-icons": [
+      "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://teacollection.com/",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #108474;--jdgm-secondary-color: rgba(16,132,116,0.1);--jdgm-star-color: #3E1A04;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #108474;--jdgm-paginate-color: #108474;--jdgm-border-radius: 0;--jdgm-reviewer-name-color: #108474"
+    },
+    {
+      "source": "https://teacollection.com/",
+      "selector": ".jdgm-review-widget .jm-review-widget-minimal-header__title",
+      "declarations": "font:var(--font-h3) !important;text-transform:var(--font-h3-text-transform) !important;letter-spacing:var(--font-h3-letter-spacing) !important;color:var(--color-tea-brown) !important;background:var(--color-background) !important"
+    },
+    {
+      "source": "https://teacollection.com/",
+      "selector": ":root",
+      "declarations": "--sticky-header-offset: var(--promo-bar-height);"
+    },
+    {
+      "source": "https://teacollection.com/",
+      "selector": "ktop: 1.2555555555555555;\n    --aspect-ratio-mobile: 1.2555555555555555;\n    --object-position-desktop: 50.0% 50.0%;\n    --object-position-mobile: 50.0% 50.0%;\n",
+      "declarations": "--icon-size: 24px;\n    --icon-fill: transparent;\n    --icon-stroke: currentColor;\n    --icon-stroke-width: 1.25px;\n    --counter-size: 15px;\n\n    display: flex;\n    position: relative;\n    height: 100%;"
+    },
+    {
+      "source": "https://teacollection.com/",
+      "selector": ".wishlist-header-link .wkh-counter",
+      "declarations": "opacity: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    min-width: var(--counter-size);\n    height: var(--counter-size);\n    border-radius: calc(var(--counter-size) / 2);\n    font-size: 11px;\n    padding-top: 3px;\n    line-height: 1;\n    background: var(--color-black);\n    color: var(--color-white);\n    position: absolute;\n    bottom: -5px;\n    right: -5px;"
+    },
+    {
+      "source": "https://teacollection.com/",
+      "selector": "555555555;\n    --aspect-ratio-mobile: 1.2555555555555555;\n    --object-position-desktop: 50.0% 50.0%;\n    --object-position-mobile: 50.0% 50.0%;\n  \ndisplay: non",
+      "declarations": "--icon-size: 24px;\n    --icon-fill: transparent;\n    --icon-stroke: currentColor;\n    --icon-stroke-width: 1.25px;\n    --counter-size: 15px;\n\n    display: flex;\n    position: relative;\n    height: 100%;"
+    },
+    {
+      "source": "https://teacollection.com/",
+      "selector": ".wishlist-header-link .wkh-counter",
+      "declarations": "opacity: 0;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    min-width: var(--counter-size);\n    height: var(--counter-size);\n    border-radius: calc(var(--counter-size) / 2);\n    font-size: 11px;\n    padding-top: 3px;\n    line-height: 1;\n    background: var(--color-black);\n    color: var(--color-white);\n    position: absolute;\n    bottom: -5px;\n    right: -5px;"
+    },
+    {
+      "source": "https://teacollection.com/",
+      "selector": ":root",
+      "declarations": "--wk-color-solid-button-label: 255, 255, 255;\n      --wk-color-accent-1: 0, 0, 0;\n      --wk-color-accent-2: 0, 0, 0;\n      --wk-color-outline-button-label: 0, 0, 0;\n      --wk-color-background-1: 255, 255, 255;\n      --wk-color-background-2: 255, 255, 255;\n      --wk-color-text: 0, 0, 0;\n      --wk-button-min-height: 45px;\n      --wk-button-border-width: 1px;\n      --wk-button-border-radius: 0px;\n      --wk-input-min-height: 45px;\n      --wk-input-border-width: 1px;\n      --wk-input-border-radius: 0px;\n      --wk-shadow-opacity: 15%;\n      --wk-shadow-horizontal-offset: 0px;\n      --wk-shadow-vertical-offset: 2px;\n      --wk-shadow-blur: 4px;\n      --wk-font-text-scale: 1.0;"
+    },
+    {
+      "source": "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:var(--font-primary);font-size:100%;margin:0;padding:0"
+    },
+    {
+      "source": "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935",
+      "selector": ":root",
+      "declarations": "--gutter:var(--space-40)"
+    },
+    {
+      "source": "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935",
+      "selector": "body",
+      "declarations": "overscroll-behavior-y:none;font:var(--font-body-1);text-transform:var(--font-body-1-text-transform);letter-spacing:var(--font-body-1-letter-spacing);color:var(--color-tea-brown);background:var(--color-background)"
+    },
+    {
+      "source": "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935",
+      "selector": ":root",
+      "declarations": "--font-heading-xl-size:90px;--font-h1-size:64px;--font-h2-size:48px;--font-h3-size:32px;--font-h4-size:28px;--font-h5-size:22px;--font-h6-size:18px;--font-block-heading-1-size:64px;--font-block-heading-1-letter-spacing:-0.01em;--font-block-heading-2-size:48px;--font-block-heading-2-letter-spacing:-0.01em;--font-block-heading-3-size:32px;--font-block-heading-3-letter-spacing:-0.01em;--font-block-heading-4-size:28px;--font-block-heading-4-letter-spacing:-0.01em;--font-block-heading-5-size:22px;--font-block-heading-5-letter-spacing:-0.01em;--font-plp-name-size:16px;--font-quote-size:34px;--font-quote-weight:400;--font-quote-line-height:1.35;--font-eyebrow-size:14px;--font-eyebrow-letter-spacing"
+    },
+    {
+      "source": "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935",
+      "selector": ":root",
+      "declarations": "--button-padding:18px 20px 17px;--button-transition:var(--transition-small)"
+    },
+    {
+      "source": "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935",
+      "selector": "button",
+      "declarations": "color:inherit;cursor:pointer"
+    },
+    {
+      "source": "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935",
+      "selector": ".button.disabled,.button--disabled,.button:disabled,.custom-button.disabled,.custom-button--disabled,.custom-button:disabled",
+      "declarations": "background:var(--color-grey-3);border-color:var(--color-grey-3);color:var(--color-black);cursor:not-allowed"
+    },
+    {
+      "source": "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935",
+      "selector": ".button:focus-visible,.custom-button:focus-visible",
+      "declarations": "outline-offset:2px;outline-width:2px;outline-color:var(--color-focus)"
+    },
+    {
+      "source": "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935",
+      "selector": ".button--brown",
+      "declarations": "background:var(--color-tea-brown);border-color:var(--color-tea-brown);color:var(--color-white)"
+    },
+    {
+      "source": "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935",
+      "selector": ".button--brown:hover",
+      "declarations": "background:var(--color-brown-700);border-color:var(--color-brown-700);color:var(--color-white)"
+    },
+    {
+      "source": "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935",
+      "selector": ".button--brown.disabled,.button--brown:disabled",
+      "declarations": "background:var(--color-grey-300);border-color:var(--color-grey-300);color:var(--color-grey-500);cursor:not-allowed"
+    },
+    {
+      "source": "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935",
+      "selector": ".button--blue",
+      "declarations": "background:var(--color-tea-blue);border-color:var(--color-tea-blue);color:var(--color-white)"
+    },
+    {
+      "source": "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935",
+      "selector": ".button--blue:hover",
+      "declarations": "background:var(--color-tea-pink);border-color:var(--color-tea-pink);color:var(--color-white)"
+    },
+    {
+      "source": "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935",
+      "selector": ".button--blue.disabled,.button--blue:disabled",
+      "declarations": "background:var(--color-grey-300);border-color:var(--color-grey-300);color:var(--color-grey-500);cursor:not-allowed"
+    },
+    {
+      "source": "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935",
+      "selector": ".button--white",
+      "declarations": "background:var(--color-background);border-color:var(--color-background);color:var(--color-tea-brown)"
+    },
+    {
+      "source": "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935",
+      "selector": ".button--white:hover",
+      "declarations": "background:var(--color-tea-cream);border-color:var(--color-tea-cream);color:var(--color-tea-brown)"
+    },
+    {
+      "source": "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935",
+      "selector": ".button--white.disabled,.button--white:disabled",
+      "declarations": "background:var(--color-grey-300);border-color:var(--color-grey-300);color:var(--color-grey-500);cursor:not-allowed"
+    },
+    {
+      "source": "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935",
+      "selector": ".button--black-outline",
+      "declarations": "background:transparent;border-color:var(--color-black);color:var(--color-black)"
+    },
+    {
+      "source": "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935",
+      "selector": ".button--black-outline:hover",
+      "declarations": "background:var(--color-tea-brown);border-color:var(--color-tea-brown);color:var(--color-white)"
+    },
+    {
+      "source": "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935",
+      "selector": ".button--black-outline.disabled,.button--black-outline:disabled",
+      "declarations": "background:transparent;border-color:var(--color-grey-600);color:var(--color-grey-500);cursor:not-allowed"
+    },
+    {
+      "source": "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935",
+      "selector": ".button--white-outline",
+      "declarations": "background:transparent;border-color:var(--color-white);color:var(--color-white)"
+    },
+    {
+      "source": "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935",
+      "selector": ".button--white-outline:hover",
+      "declarations": "background:var(--color-white);border-color:var(--color-white);color:var(--color-black)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Tea Collection | Globally Inspired Kids & Baby Clothing",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teacollection.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teacollection.com/",
+        "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teacollection.com/",
+        "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935",
+        "https://teacollection.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teacollection.com/",
+        "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teacollection.com/",
+        "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teacollection.com/",
+        "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teacollection.com/",
+        "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935",
+        "https://teacollection.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.border-input": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teacollection.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.focus-ring": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teacollection.com/",
+        "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935"
+      ]
+    },
+    "colors.black": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teacollection.com/",
+        "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.disabled-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teacollection.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.badge-pink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teacollection.com/"
+      ]
+    },
+    "colors.badge-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.badge-coral": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teacollection.com/",
+        "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935"
+      ]
+    },
+    "colors.brown-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://teacollection.com/cdn/shop/t/94/assets/global.min.css?v=36701377540687907631790284935"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.size-selector": {
+      "status": "inferred"
+    }
+  }
+}

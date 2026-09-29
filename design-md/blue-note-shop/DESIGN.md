@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Blue Note Shop
-description: A deep blue anchor at #0b427a — the color of a midnight session in a basement club — sets the emotional temperature for Blue Note Shop, while a sharper cyan accent at #2098d1 provides the voltage that pulls the eye to add-to-cart buttons, sale badges, and the search icon. The palette is overwhelmingly monochrome: #262626 for ink, #1a1a1a for near-black surfaces, #4d4d4d and #949494 for muted text, and a stack of grays (#e1e1e1, #d9d9d9, #f0f0f0) that build clean card hierarchies without competing with album art. The typography system relies on HelveticaNeueLTStd-BdEx for display moments — a condensed, authoritative bold that echoes the iconic Blue Note logo — and HelveticaNeueLTStd-LtEx for lighter headlines, while Open Sans handles body copy with a more neutral, readable cadence. Buttons are sharp-cornered rectangles (`{rounded.none}`) or softly rounded (`{rounded.sm}`), never pill-shaped; the brand trusts rectangular geometry to communicate precision and heritage. Product cards use `{rounded.xs}` (4px) — a subtle nod that says "we care about edges" without softening the grid. The shop feels like a record crate: dense, browsable, with high information density and a restrained color story that lets the album covers — Blue Note's true visual system — do all the emotional work.
+name: "Blue Note Shop"
+source_url: "https://www.bluenote.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep blue anchor at #0b427a — the color of a midnight session in a basement club — sets the emotional temperature for Blue Note Shop, while a sharper cyan accent at #2098d1 provides the voltage that pulls the eye to add-to-cart buttons, sale badges, and the search icon. The palette is overwhelmingly monochrome: #262626 for ink, #1a1a1a for near-black surfaces, #4d4d4d and #949494 for muted text, and a stack of grays (#e1e1e1, #d9d9d9, #f0f0f0) that build clean card hierarchies without competing with album art. The typography system relies on HelveticaNeueLTStd-BdEx for display moments — a condensed, authoritative bold that echoes the iconic Blue Note logo — and HelveticaNeueLTStd-LtEx for lighter headlines, while Open Sans handles body copy with a more neutral, readable cadence. Buttons are sharp-cornered rectangles (`{rounded.none}`) or softly rounded (`{rounded.sm}`), never pill-shaped; the brand trusts rectangular geometry to communicate precision and heritage. Product cards use `{rounded.xs}` (4px) — a subtle nod that says "we care about edges" without softening the grid. The shop feels like a record crate: dense, browsable, with high information density and a restrained color story that lets the album covers — Blue Note's true visual system — do all the emotional work.
 
 colors:
   primary: "#0b427a"
@@ -344,6 +348,8 @@ components:
 - Filter sidebar: becomes a horizontal scroll strip on tablet, a dropdown on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for buttons and links beyond primary-active (secondary hover, accent hover) could not be reliably extracted — assumed to use a darker shade of the background color or a border change
 - Error styling for form inputs (red border, error message typography) not observed in extracted data

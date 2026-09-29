@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: iam8bit
-description: A hot-pink #e01a78 voltage runs through an otherwise black-and-white indie merchandise store, where the brand's signature color appears as a primary CTA button, a navigation accent, and a limited-edition vinyl variant badge. The site reads like a gallery catalog for gaming artifacts — products float on a pure white canvas (#ffffff) with generous whitespace, while product cards use a near-black #0c0c0c for product titles and a softer #121212 for body text, creating a high-contrast editorial feel. Montserrat in medium weights (500–600) handles all typography, from 28px display headlines to 11px badge labels, with no serif or script relief — the brand trusts its product photography and the single pink accent to provide all the personality. Product cards use soft 8px rounding ({rounded.sm}) and a hairline #dedede border, while the primary CTA button takes the full pink treatment with white text, 12px rounding, and a 48px height that feels substantial without being aggressive. The navigation bar is a simple white strip with black links and a pink "Shop" highlight, and the footer collapses into a dense column of links and social icons on mobile. The overall effect is a merchandise store that treats its products like art objects — clean, restrained, with one deliberate pop of color that signals "this is the thing to click."
+name: "iam8bit"
+source_url: "https://www.iam8bit.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A hot-pink #e01a78 voltage runs through an otherwise black-and-white indie merchandise store, where the brand's signature color appears as a primary CTA button, a navigation accent, and a limited-edition vinyl variant badge. The site reads like a gallery catalog for gaming artifacts — products float on a pure white canvas (#ffffff) with generous whitespace, while product cards use a near-black #0c0c0c for product titles and a softer #121212 for body text, creating a high-contrast editorial feel. Montserrat in medium weights (500–600) handles all typography, from 28px display headlines to 11px badge labels, with no serif or script relief — the brand trusts its product photography and the single pink accent to provide all the personality. Product cards use soft 8px rounding ({rounded.sm}) and a hairline #dedede border, while the primary CTA button takes the full pink treatment with white text, 12px rounding, and a 48px height that feels substantial without being aggressive. The navigation bar is a simple white strip with black links and a pink "Shop" highlight, and the footer collapses into a dense column of links and social icons on mobile. The overall effect is a merchandise store that treats its products like art objects — clean, restrained, with one deliberate pop of color that signals "this is the thing to click."
 
 colors:
   primary: "#e01a78"
@@ -698,6 +702,8 @@ components:
 - Modal content uses full viewport width on mobile with reduced padding (16px instead of 32px)
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for all components are inferred from common patterns; exact transition durations and easing curves were not extracted
 - Focus ring styles (color, width, offset) for keyboard navigation were not observed

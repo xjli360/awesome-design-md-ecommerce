@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Perrotin
-description: Electric cobalt #003399 — a blue pitched at the frequency of neon signage rather than institutional trustworthiness — is the single interactive voltage in an otherwise achromatic field. The rest of the Perrotin palette is a graduated sequence of whites and neutral grays moving from near-white surfaces (#f6f6f6, #fafafa) through hairline separators (#e5e5e5) and mid-tone muted text (#8c8c8c, #777777) down to a near-black ink (#181818); the cobalt appears precisely at hyperlinks, active states, and primary CTAs, then withdraws entirely, leaving reproduced artwork uncontested on a white-cube canvas. Akzidenz-Grotesk and its Extended sibling carry every word: a Swiss grotesque whose century of commercial use has accumulated the kind of anonymous authority that purely geometric sans-serifs lack. The Extended cut governs display headings in uppercase with open tracking — artist names announced as typographic statements at scale — while regular-width Akzidenz handles navigation, body copy, and metadata at economy weights without competing with the image plane. Fira Code and JetBrains Mono appear in catalog, edition number, and provenance metadata contexts, framing precise numerical data as technical record. Corners are strictly rectilinear ({rounded.none}) throughout interactive elements and cards, echoing white-cube exhibition geometry; only notification indicators soften to {rounded.full}. An amber accent (#f59e0b) surfaces in narrow contexts — notification badges, status indicators — providing warm punctuation against the institutional cool of the cobalt-and-gray system. Section separators operate at {spacing.section} or wider; grid gutters are as intentional as the frames around the work itself. The overall effect is a digital space engineered to recede behind what it presents.
+name: "Perrotin"
+source_url: "https://www.perrotin.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Electric cobalt #003399 — a blue pitched at the frequency of neon signage rather than institutional trustworthiness — is the single interactive voltage in an otherwise achromatic field. The rest of the Perrotin palette is a graduated sequence of whites and neutral grays moving from near-white surfaces (#f6f6f6, #fafafa) through hairline separators (#e5e5e5) and mid-tone muted text (#8c8c8c, #777777) down to a near-black ink (#181818); the cobalt appears precisely at hyperlinks, active states, and primary CTAs, then withdraws entirely, leaving reproduced artwork uncontested on a white-cube canvas. Akzidenz-Grotesk and its Extended sibling carry every word: a Swiss grotesque whose century of commercial use has accumulated the kind of anonymous authority that purely geometric sans-serifs lack. The Extended cut governs display headings in uppercase with open tracking — artist names announced as typographic statements at scale — while regular-width Akzidenz handles navigation, body copy, and metadata at economy weights without competing with the image plane. Fira Code and JetBrains Mono appear in catalog, edition number, and provenance metadata contexts, framing precise numerical data as technical record. Corners are strictly rectilinear ({rounded.none}) throughout interactive elements and cards, echoing white-cube exhibition geometry; only notification indicators soften to {rounded.full}. An amber accent (#f59e0b) surfaces in narrow contexts — notification badges, status indicators — providing warm punctuation against the institutional cool of the cobalt-and-gray system. Section separators operate at {spacing.section} or wider; grid gutters are as intentional as the frames around the work itself. The overall effect is a digital space engineered to recede behind what it presents.
 
 colors:
   primary: "#003399"
@@ -325,6 +329,8 @@ components:
 - Footer columns reflow from 4-column grid to 2-column at tablet, single-column at mobile while maintaining full dark-background treatment
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Official typographic scale not published; all font sizes inferred from art-gallery visual hierarchy conventions and Akzidenz-Grotesk's documented usage patterns
 - Nav-bar height estimated at 56px; exact value not extractable from static analysis

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Statik
-description: A deep teal #108474 — the color of a charging indicator glowing in a dark room — serves as Statik's primary voltage, appearing on every CTA, power-bank casing, and cable tag across the site. That teal is paired with a sharp marigold #ffc900 that acts as a secondary accent on badges, sale markers, and highlight labels, creating a high-contrast, industrial-electronic palette. The canvas is a clean #ffffff with a soft surface layer at #f9fafb and card surfaces at #fafafa, while the ink sits at #121212 for maximum readability against the bright backgrounds. Typography runs on Neue Haas Grotesk (Display and Text variants) — a Swiss sans-serif that brings precision and neutrality, letting the product photography and color do the emotional work. Buttons are pill-shaped at {rounded.full} with generous padding, and product cards use a subtle {rounded.sm} radius that keeps the interface feeling modern without being playful. The brand's category navigation, product grids, and footer all sit on a hairline of #dedede, a soft gray that structures content without competing with the teal-marigold energy. A secondary purple accent #be408e appears on audio-product badges and limited-edition drops, adding a surprising warmth to an otherwise cool, tech-forward system. The overall feel is that of a premium accessory brand that knows its audience wants reliability first, style second — the teal says "charged and ready," the marigold says "deal alert," and the clean white says "trust us."
+name: "Statik"
+source_url: "https://www.statikco.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep teal #108474 — the color of a charging indicator glowing in a dark room — serves as Statik's primary voltage, appearing on every CTA, power-bank casing, and cable tag across the site. That teal is paired with a sharp marigold #ffc900 that acts as a secondary accent on badges, sale markers, and highlight labels, creating a high-contrast, industrial-electronic palette. The canvas is a clean #ffffff with a soft surface layer at #f9fafb and card surfaces at #fafafa, while the ink sits at #121212 for maximum readability against the bright backgrounds. Typography runs on Neue Haas Grotesk (Display and Text variants) — a Swiss sans-serif that brings precision and neutrality, letting the product photography and color do the emotional work. Buttons are pill-shaped at {rounded.full} with generous padding, and product cards use a subtle {rounded.sm} radius that keeps the interface feeling modern without being playful. The brand's category navigation, product grids, and footer all sit on a hairline of #dedede, a soft gray that structures content without competing with the teal-marigold energy. A secondary purple accent #be408e appears on audio-product badges and limited-edition drops, adding a surprising warmth to an otherwise cool, tech-forward system. The overall feel is that of a premium accessory brand that knows its audience wants reliability first, style second — the teal says "charged and ready," the marigold says "deal alert," and the clean white says "trust us."
 
 colors:
   primary: "#108474"
@@ -382,6 +386,8 @@ components:
 - Hero content stacks vertically on mobile (text above CTA) instead of side-by-side
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for product cards (shadow depth, scale transforms) could not be reliably extracted from static CSS
 - Error state styling for forms beyond the red border (error message typography, icon placement) is inferred but not confirmed

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Sea to Summit
-description: A deep blue (#1f2a44) and a vivid cyan (#0086c9) anchor a system built for the transition from trailhead to alpine ridge — the brand’s visual language is less about gear-gloss and more about the quiet competence of well-engineered fabric. The palette draws from the extracted live site: a warm off-white canvas (#d8d4c2) that reads as sun-bleached nylon rather than sterile paper, a safety-orange accent (#cf4520) that appears in critical UI moments like cart badges and sale flags, and a secondary green (#a3cf00) that surfaces in category highlights and environmental callouts. Typography runs URW DIN and URW DIN Condensed — a condensed sans that packs information density into product cards and spec tables without sacrificing legibility at 14px body sizes. Buttons use a tight 8px radius (`{rounded.sm}`) and the primary CTA sits at 48px height with the brand’s cyan (#0086c9) on white, while secondary actions adopt the dark navy (#1f2a44) with a subtle 1px hairline (#dcdcdc). The navigation bar is a full-width navy band (#1f2a44) with white text, a rare dark-header choice in outdoor retail that signals authority and durability. Product cards float on white (`{surface-card}`) with a soft shadow and a 12px radius (`{rounded.md}`), while the search bar uses a pill shape (`{rounded.full}`) in the canvas off-white (#d8d4c2) with a cyan focus ring. The system avoids hard corners entirely below the hero level, using radii from 4px on micro-badges to 32px on promotional banners. The overall mood is expedition-ready but not aggressive — the brand trusts its photography of misty peaks and rainfly details to carry the emotional weight, letting the UI stay clean, legible, and just slightly weathered.
+name: "Sea to Summit"
+source_url: "https://seatosummit.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep blue (#1f2a44) and a vivid cyan (#0086c9) anchor a system built for the transition from trailhead to alpine ridge — the brand’s visual language is less about gear-gloss and more about the quiet competence of well-engineered fabric. The palette draws from the extracted live site: a warm off-white canvas (#d8d4c2) that reads as sun-bleached nylon rather than sterile paper, a safety-orange accent (#cf4520) that appears in critical UI moments like cart badges and sale flags, and a secondary green (#a3cf00) that surfaces in category highlights and environmental callouts. Typography runs URW DIN and URW DIN Condensed — a condensed sans that packs information density into product cards and spec tables without sacrificing legibility at 14px body sizes. Buttons use a tight 8px radius (`{rounded.sm}`) and the primary CTA sits at 48px height with the brand’s cyan (#0086c9) on white, while secondary actions adopt the dark navy (#1f2a44) with a subtle 1px hairline (#dcdcdc). The navigation bar is a full-width navy band (#1f2a44) with white text, a rare dark-header choice in outdoor retail that signals authority and durability. Product cards float on white (`{surface-card}`) with a soft shadow and a 12px radius (`{rounded.md}`), while the search bar uses a pill shape (`{rounded.full}`) in the canvas off-white (#d8d4c2) with a cyan focus ring. The system avoids hard corners entirely below the hero level, using radii from 4px on micro-badges to 32px on promotional banners. The overall mood is expedition-ready but not aggressive — the brand trusts its photography of misty peaks and rainfly details to carry the emotional weight, letting the UI stay clean, legible, and just slightly weathered.
 
 colors:
   primary: "#0086c9"
@@ -381,6 +385,8 @@ components:
 - Search bar transforms from full input (desktop) to icon-only (mobile) with a full-screen overlay on tap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for all components are inferred from common patterns; exact transition durations and easing curves not extracted
 - Error styling for forms (validation messages, error icons) not present in extracted data; `text-input-error` uses orange border as best guess

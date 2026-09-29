@@ -1,0 +1,746 @@
+{
+  "source_url": "https://flybyjing.com",
+  "final_url": "https://flybyjing.com/",
+  "captured_at": "2026-09-28T04:32:27.243147+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://flybyjing.com",
+      "final_url": "https://flybyjing.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "cb336f29f5e91be15e0af94a2fc2e73d52b3fe0b521f977fc425b0685507fa2a",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://flybyjing.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://flybyjing.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://flybyjing.com/cdn/shop/t/61/assets/base.bundle.css?v=94040838445988367491742606973",
+      "final_url": "https://flybyjing.com/cdn/shop/t/61/assets/base.bundle.css?v=94040838445988367491742606973",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e791f0f62cd8cbcab4a5d198f6f33d6d00bae6110d2d5bc968e2289be5773804",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0c3fc-9a5c-7c5f-b063-158ed04d9cfc/klaviyo-email-marketing-73/assets/app.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0c3fc-9a5c-7c5f-b063-158ed04d9cfc/klaviyo-email-marketing-73/assets/app.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0b668-bf39-7407-90f5-ccf647a77892/inveterate-138/assets/inveterate.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0b668-bf39-7407-90f5-ccf647a77892/inveterate-138/assets/inveterate.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5b454d9bcf8e9005e91e0bbb0eca44d4bd6fe8a745830a30c8e7567ff8eda085",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 18,
+      "sources": [
+        "https://flybyjing.com/",
+        "https://cdn.shopify.com/extensions/01a0b668-bf39-7407-90f5-ccf647a77892/inveterate-138/assets/inveterate.css"
+      ]
+    },
+    "#00000000": {
+      "count": 16,
+      "sources": [
+        "https://flybyjing.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://flybyjing.com/cdn/shop/t/61/assets/base.bundle.css?v=94040838445988367491742606973"
+      ]
+    },
+    "#ffffff": {
+      "count": 8,
+      "sources": [
+        "https://flybyjing.com/",
+        "https://flybyjing.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://flybyjing.com/cdn/shop/t/61/assets/base.bundle.css?v=94040838445988367491742606973",
+        "https://cdn.shopify.com/extensions/01a0b668-bf39-7407-90f5-ccf647a77892/inveterate-138/assets/inveterate.css"
+      ]
+    },
+    "#ffff00": {
+      "count": 8,
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "#272d45": {
+      "count": 3,
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "#676986": {
+      "count": 2,
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "#999999": {
+      "count": 2,
+      "sources": [
+        "https://flybyjing.com/",
+        "https://flybyjing.com/cdn/shop/t/61/assets/base.bundle.css?v=94040838445988367491742606973"
+      ]
+    },
+    "#384ec5": {
+      "count": 2,
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "#cb44c2": {
+      "count": 2,
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "#ffc968": {
+      "count": 2,
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "#ffe431": {
+      "count": 2,
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "#f92020": {
+      "count": 2,
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://flybyjing.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0b668-bf39-7407-90f5-ccf647a77892/inveterate-138/assets/inveterate.css"
+      ]
+    },
+    "#f4f4f6": {
+      "count": 1,
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "#fafafa": {
+      "count": 1,
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "#9a9db1": {
+      "count": 1,
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "#d3d4dd": {
+      "count": 1,
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "#ffb829": {
+      "count": 1,
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 1,
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "#f9423a": {
+      "count": 1,
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "#fff2d4": {
+      "count": 1,
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "#fff000": {
+      "count": 1,
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://flybyjing.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://flybyjing.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://flybyjing.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 1,
+      "sources": [
+        "https://flybyjing.com/cdn/shop/t/61/assets/base.bundle.css?v=94040838445988367491742606973"
+      ]
+    },
+    "#9ca3af": {
+      "count": 1,
+      "sources": [
+        "https://flybyjing.com/cdn/shop/t/61/assets/base.bundle.css?v=94040838445988367491742606973"
+      ]
+    },
+    "#d4d4d4": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0b668-bf39-7407-90f5-ccf647a77892/inveterate-138/assets/inveterate.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Apple Color Emoji": [
+      "https://flybyjing.com/cdn/shop/t/61/assets/base.bundle.css?v=94040838445988367491742606973"
+    ],
+    "Consolas": [
+      "https://flybyjing.com/cdn/shop/t/61/assets/base.bundle.css?v=94040838445988367491742606973"
+    ],
+    "Courier New": [
+      "https://flybyjing.com/cdn/shop/t/61/assets/base.bundle.css?v=94040838445988367491742606973"
+    ],
+    "JeanLuc": [
+      "https://flybyjing.com/"
+    ],
+    "Liberation Mono": [
+      "https://flybyjing.com/cdn/shop/t/61/assets/base.bundle.css?v=94040838445988367491742606973"
+    ],
+    "Menlo": [
+      "https://flybyjing.com/cdn/shop/t/61/assets/base.bundle.css?v=94040838445988367491742606973"
+    ],
+    "Monaco": [
+      "https://flybyjing.com/cdn/shop/t/61/assets/base.bundle.css?v=94040838445988367491742606973"
+    ],
+    "Noto Color Emoji": [
+      "https://flybyjing.com/cdn/shop/t/61/assets/base.bundle.css?v=94040838445988367491742606973"
+    ],
+    "Publico": [
+      "https://flybyjing.com/"
+    ],
+    "SFMono-Regular": [
+      "https://flybyjing.com/cdn/shop/t/61/assets/base.bundle.css?v=94040838445988367491742606973"
+    ],
+    "Segoe UI Emoji": [
+      "https://flybyjing.com/cdn/shop/t/61/assets/base.bundle.css?v=94040838445988367491742606973"
+    ],
+    "Segoe UI Symbol": [
+      "https://flybyjing.com/cdn/shop/t/61/assets/base.bundle.css?v=94040838445988367491742606973"
+    ],
+    "SimHei": [
+      "https://flybyjing.com/"
+    ],
+    "Simhei": [
+      "https://flybyjing.com/"
+    ],
+    "Times": [
+      "https://flybyjing.com/cdn/shop/t/61/assets/base.bundle.css?v=94040838445988367491742606973"
+    ],
+    "monospace": [
+      "https://flybyjing.com/cdn/shop/t/61/assets/base.bundle.css?v=94040838445988367491742606973"
+    ],
+    "oke-widget-icons": [
+      "https://flybyjing.com/"
+    ],
+    "oke-widget-icons!important": [
+      "https://flybyjing.com/"
+    ],
+    "sans-serif": [
+      "https://flybyjing.com/cdn/shop/t/61/assets/base.bundle.css?v=94040838445988367491742606973"
+    ],
+    "system-ui": [
+      "https://flybyjing.com/cdn/shop/t/61/assets/base.bundle.css?v=94040838445988367491742606973"
+    ],
+    "ui-monospace": [
+      "https://flybyjing.com/cdn/shop/t/61/assets/base.bundle.css?v=94040838445988367491742606973"
+    ],
+    "ui-sans-serif": [
+      "https://flybyjing.com/cdn/shop/t/61/assets/base.bundle.css?v=94040838445988367491742606973"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://flybyjing.com/",
+      "selector": ":root",
+      "declarations": "--max-site-width: 1820px;"
+    },
+    {
+      "source": "https://flybyjing.com/",
+      "selector": ":root",
+      "declarations": "--heading-font-stack: \"SF Mono\", Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;\n        --heading-font-weight: 400;\n        --heading-font-style: normal;\n        --heading-letterspacing: 0.0;\n        --heading-capitalize: uppercase;\n        --main-font-stack: \"system_ui\", -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', 'Noto Sans', 'Liberation Sans', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';\n        --main-font-weight: 400;\n        --main-font-style: normal;"
+    },
+    {
+      "source": "https://flybyjing.com/",
+      "selector": ":root,\n    \n    [data-color-scheme=\"scheme1\"]",
+      "declarations": "--color-scheme-text: 255, 255, 255;\n      --color-scheme-text-contrast: 255, 255, 255;\n      --color-scheme-background: 4, 97, 53;\n      --color-scheme-accent-1: 252, 82, 28;\n      --color-scheme-accent-1-contrast: 255, 255, 255;\n      --color-scheme-accent-2: 241, 60, 3;\n      --color-scheme-accent-2-contrast: 255, 255, 255;\n      --color-scheme-card-text: 255, 255, 255;\n      --color-scheme-card: 5, 114, 63;\n      --color-scheme-gradient: ;\n      --color-scheme-secondary-background: var(--color-scheme-background);\n      --color-scheme-secondary-text: var(--color-scheme-text);\n      --select-svg: \n      url(\"data:image/svg+xml,%3Csvg width='48' height='48' viewBox='0 0 48 48' fill='none' xm"
+    },
+    {
+      "source": "https://flybyjing.com/",
+      "selector": ":root",
+      "declarations": "--color-scheme-scheme1-text: 255 255 255;\n      --color-scheme-scheme1-text-contrast: 255, 255, 255;\n      --color-scheme-scheme1-background: 4, 97, 53;\n      --color-scheme-scheme1-accent-1: 252, 82, 28;\n      --color-scheme-scheme1-accent-1-contrast: 255, 255, 255;\n      --color-scheme-scheme1-accent-2: 241, 60, 3;\n      --color-scheme-scheme1-accent-2-contrast: 255, 255, 255;\n      --color-scheme-scheme1-card-text: 255, 255, 255;\n      --color-scheme-scheme1-card: 5, 114, 63;\n      --color-scheme-scheme1-gradient: ;\n      --color-scheme-scheme1-secondary-background: var(--color-scheme-background);\n      --color-scheme-scheme1-secondary-text: var(--color-scheme-text);\n      --color-scheme-"
+    },
+    {
+      "source": "https://flybyjing.com/",
+      "selector": ":root",
+      "declarations": "--color-scheme-scheme2-text: 255 255 255;\n      --color-scheme-scheme2-text-contrast: 255, 255, 255;\n      --color-scheme-scheme2-background: 204, 51, 153;\n      --color-scheme-scheme2-accent-1: 255, 255, 255;\n      --color-scheme-scheme2-accent-1-contrast: 0, 0, 0;\n      --color-scheme-scheme2-accent-2: 255, 255, 0;\n      --color-scheme-scheme2-accent-2-contrast: 0, 0, 0;\n      --color-scheme-scheme2-card-text: 0, 0, 0;\n      --color-scheme-scheme2-card: 255, 255, 255;\n      --color-scheme-scheme2-gradient: ;\n      --color-scheme-scheme2-secondary-background: var(--color-scheme-background);\n      --color-scheme-scheme2-secondary-text: var(--color-scheme-text);\n      --color-scheme-scheme2-s"
+    },
+    {
+      "source": "https://flybyjing.com/",
+      "selector": ":root",
+      "declarations": "--color-scheme-scheme3-text: 252 82 28;\n      --color-scheme-scheme3-text-contrast: 255, 255, 255;\n      --color-scheme-scheme3-background: 102, 46, 145;\n      --color-scheme-scheme3-accent-1: 252, 82, 28;\n      --color-scheme-scheme3-accent-1-contrast: 0, 0, 0;\n      --color-scheme-scheme3-accent-2: 255, 255, 0;\n      --color-scheme-scheme3-accent-2-contrast: 0, 0, 0;\n      --color-scheme-scheme3-card-text: 0, 0, 0;\n      --color-scheme-scheme3-card: 102, 46, 145;\n      --color-scheme-scheme3-gradient: linear-gradient(320deg, rgba(56, 78, 197, 1) 16%, rgba(203, 68, 194, 1) 52%, rgba(255, 201, 104, 1) 87%);\n      --color-scheme-scheme3-secondary-background: var(--color-scheme-background);\n  "
+    },
+    {
+      "source": "https://flybyjing.com/",
+      "selector": ":root",
+      "declarations": "--color-scheme-scheme4-text: 255 255 255;\n      --color-scheme-scheme4-text-contrast: 4, 97, 53;\n      --color-scheme-scheme4-background: 252, 82, 28;\n      --color-scheme-scheme4-accent-1: 4, 97, 53;\n      --color-scheme-scheme4-accent-1-contrast: 255, 255, 255;\n      --color-scheme-scheme4-accent-2: 0, 0, 0;\n      --color-scheme-scheme4-accent-2-contrast: 255, 255, 255;\n      --color-scheme-scheme4-card-text: 252, 82, 28;\n      --color-scheme-scheme4-card: 255, 255, 255;\n      --color-scheme-scheme4-gradient: linear-gradient(180deg, rgba(255, 228, 49, 1), rgba(249, 32, 32, 1) 100%);\n      --color-scheme-scheme4-secondary-background: var(--color-scheme-background);\n      --color-scheme-sche"
+    },
+    {
+      "source": "https://flybyjing.com/",
+      "selector": ":root",
+      "declarations": "--color-scheme-scheme5-text: 255 205 53;\n      --color-scheme-scheme5-text-contrast: 0, 0, 0;\n      --color-scheme-scheme5-background: 0, 0, 0;\n      --color-scheme-scheme5-accent-1: 102, 46, 145;\n      --color-scheme-scheme5-accent-1-contrast: 255, 255, 255;\n      --color-scheme-scheme5-accent-2: 252, 80, 80;\n      --color-scheme-scheme5-accent-2-contrast: 0, 0, 0;\n      --color-scheme-scheme5-card-text: 255, 255, 255;\n      --color-scheme-scheme5-card: 27, 27, 27;\n      --color-scheme-scheme5-gradient: ;\n      --color-scheme-scheme5-secondary-background: var(--color-scheme-background);\n      --color-scheme-scheme5-secondary-text: var(--color-scheme-text);\n      --color-scheme-scheme5-selec"
+    },
+    {
+      "source": "https://flybyjing.com/",
+      "selector": ":root",
+      "declarations": "--color-scheme-scheme6-text: 0 0 0;\n      --color-scheme-scheme6-text-contrast: 255, 255, 255;\n      --color-scheme-scheme6-background: 5, 174, 153;\n      --color-scheme-scheme6-accent-1: 0, 0, 0;\n      --color-scheme-scheme6-accent-1-contrast: 255, 255, 255;\n      --color-scheme-scheme6-accent-2: 255, 255, 255;\n      --color-scheme-scheme6-accent-2-contrast: 0, 0, 0;\n      --color-scheme-scheme6-card-text: 0, 0, 0;\n      --color-scheme-scheme6-card: 255, 255, 255;\n      --color-scheme-scheme6-gradient: ;\n      --color-scheme-scheme6-secondary-background: var(--color-scheme-background);\n      --color-scheme-scheme6-secondary-text: var(--color-scheme-text);\n      --color-scheme-scheme6-select"
+    },
+    {
+      "source": "https://flybyjing.com/",
+      "selector": ":root",
+      "declarations": "--color-scheme-scheme-58deb6d7-e0a5-45ac-a957-5b91ec7330c2-text: 0 0 0;\n      --color-scheme-scheme-58deb6d7-e0a5-45ac-a957-5b91ec7330c2-text-contrast: 255, 255, 255;\n      --color-scheme-scheme-58deb6d7-e0a5-45ac-a957-5b91ec7330c2-background: 255, 255, 255;\n      --color-scheme-scheme-58deb6d7-e0a5-45ac-a957-5b91ec7330c2-accent-1: 102, 46, 145;\n      --color-scheme-scheme-58deb6d7-e0a5-45ac-a957-5b91ec7330c2-accent-1-contrast: 0, 0, 0;\n      --color-scheme-scheme-58deb6d7-e0a5-45ac-a957-5b91ec7330c2-accent-2: 255, 255, 0;\n      --color-scheme-scheme-58deb6d7-e0a5-45ac-a957-5b91ec7330c2-accent-2-contrast: 0, 0, 0;\n      --color-scheme-scheme-58deb6d7-e0a5-45ac-a957-5b91ec7330c2-card-text: 0,"
+    },
+    {
+      "source": "https://flybyjing.com/",
+      "selector": ":root",
+      "declarations": "--color-scheme-scheme-cd1e939e-6625-461c-af66-b08614e99590-text: 255 255 255;\n      --color-scheme-scheme-cd1e939e-6625-461c-af66-b08614e99590-text-contrast: 252, 82, 28;\n      --color-scheme-scheme-cd1e939e-6625-461c-af66-b08614e99590-background: 4, 97, 53;\n      --color-scheme-scheme-cd1e939e-6625-461c-af66-b08614e99590-accent-1: 252, 82, 28;\n      --color-scheme-scheme-cd1e939e-6625-461c-af66-b08614e99590-accent-1-contrast: 255, 255, 255;\n      --color-scheme-scheme-cd1e939e-6625-461c-af66-b08614e99590-accent-2: 255, 255, 0;\n      --color-scheme-scheme-cd1e939e-6625-461c-af66-b08614e99590-accent-2-contrast: 0, 0, 0;\n      --color-scheme-scheme-cd1e939e-6625-461c-af66-b08614e99590-card-tex"
+    },
+    {
+      "source": "https://flybyjing.com/",
+      "selector": ":root",
+      "declarations": "--color-scheme-scheme-93975804-d6d0-4ed3-9374-cb06f2fa2999-text: 4 97 53;\n      --color-scheme-scheme-93975804-d6d0-4ed3-9374-cb06f2fa2999-text-contrast: 255, 255, 255;\n      --color-scheme-scheme-93975804-d6d0-4ed3-9374-cb06f2fa2999-background: 255, 204, 51;\n      --color-scheme-scheme-93975804-d6d0-4ed3-9374-cb06f2fa2999-accent-1: 204, 1, 0;\n      --color-scheme-scheme-93975804-d6d0-4ed3-9374-cb06f2fa2999-accent-1-contrast: 255, 255, 255;\n      --color-scheme-scheme-93975804-d6d0-4ed3-9374-cb06f2fa2999-accent-2: 0, 0, 0;\n      --color-scheme-scheme-93975804-d6d0-4ed3-9374-cb06f2fa2999-accent-2-contrast: 255, 255, 255;\n      --color-scheme-scheme-93975804-d6d0-4ed3-9374-cb06f2fa2999-card-te"
+    },
+    {
+      "source": "https://flybyjing.com/",
+      "selector": ":root",
+      "declarations": "--color-scheme-scheme-b41a2ab2-0cd4-4bc9-ad2f-df64a7869c86-text: 255 255 255;\n      --color-scheme-scheme-b41a2ab2-0cd4-4bc9-ad2f-df64a7869c86-text-contrast: 102, 46, 145;\n      --color-scheme-scheme-b41a2ab2-0cd4-4bc9-ad2f-df64a7869c86-background: 102, 46, 145;\n      --color-scheme-scheme-b41a2ab2-0cd4-4bc9-ad2f-df64a7869c86-accent-1: 204, 51, 153;\n      --color-scheme-scheme-b41a2ab2-0cd4-4bc9-ad2f-df64a7869c86-accent-1-contrast: 255, 255, 255;\n      --color-scheme-scheme-b41a2ab2-0cd4-4bc9-ad2f-df64a7869c86-accent-2: 255, 255, 0;\n      --color-scheme-scheme-b41a2ab2-0cd4-4bc9-ad2f-df64a7869c86-accent-2-contrast: 0, 0, 0;\n      --color-scheme-scheme-b41a2ab2-0cd4-4bc9-ad2f-df64a7869c86-car"
+    },
+    {
+      "source": "https://flybyjing.com/",
+      "selector": ":root",
+      "declarations": "--color-scheme-scheme-5b1c0209-c22a-403e-a09c-caa8af7f186e-text: 255 255 255;\n      --color-scheme-scheme-5b1c0209-c22a-403e-a09c-caa8af7f186e-text-contrast: 255, 255, 255;\n      --color-scheme-scheme-5b1c0209-c22a-403e-a09c-caa8af7f186e-background: 0, 0, 0;\n      --color-scheme-scheme-5b1c0209-c22a-403e-a09c-caa8af7f186e-accent-1: 102, 46, 145;\n      --color-scheme-scheme-5b1c0209-c22a-403e-a09c-caa8af7f186e-accent-1-contrast: 0, 0, 0;\n      --color-scheme-scheme-5b1c0209-c22a-403e-a09c-caa8af7f186e-accent-2: 255, 255, 0;\n      --color-scheme-scheme-5b1c0209-c22a-403e-a09c-caa8af7f186e-accent-2-contrast: 0, 0, 0;\n      --color-scheme-scheme-5b1c0209-c22a-403e-a09c-caa8af7f186e-card-text: 0,"
+    },
+    {
+      "source": "https://flybyjing.com/",
+      "selector": ":root",
+      "declarations": "--color-scheme-scheme-4740c723-8ba3-4b54-9e5e-320ac7746c58-text: 255 242 212;\n      --color-scheme-scheme-4740c723-8ba3-4b54-9e5e-320ac7746c58-text-contrast: 204, 0, 0;\n      --color-scheme-scheme-4740c723-8ba3-4b54-9e5e-320ac7746c58-background: 0, 0, 0;\n      --color-scheme-scheme-4740c723-8ba3-4b54-9e5e-320ac7746c58-accent-1: 204, 0, 0;\n      --color-scheme-scheme-4740c723-8ba3-4b54-9e5e-320ac7746c58-accent-1-contrast: 255, 255, 255;\n      --color-scheme-scheme-4740c723-8ba3-4b54-9e5e-320ac7746c58-accent-2: 255, 255, 0;\n      --color-scheme-scheme-4740c723-8ba3-4b54-9e5e-320ac7746c58-accent-2-contrast: 0, 0, 0;\n      --color-scheme-scheme-4740c723-8ba3-4b54-9e5e-320ac7746c58-card-text: 0, "
+    },
+    {
+      "source": "https://flybyjing.com/",
+      "selector": ":root",
+      "declarations": "--color-scheme-scheme-be2929f1-98cc-4984-9c76-971761c1616a-text: 0 0 0;\n      --color-scheme-scheme-be2929f1-98cc-4984-9c76-971761c1616a-text-contrast: 255, 255, 0;\n      --color-scheme-scheme-be2929f1-98cc-4984-9c76-971761c1616a-background: 255, 255, 0;\n      --color-scheme-scheme-be2929f1-98cc-4984-9c76-971761c1616a-accent-1: 255, 255, 0;\n      --color-scheme-scheme-be2929f1-98cc-4984-9c76-971761c1616a-accent-1-contrast: 0, 0, 0;\n      --color-scheme-scheme-be2929f1-98cc-4984-9c76-971761c1616a-accent-2: 255, 255, 0;\n      --color-scheme-scheme-be2929f1-98cc-4984-9c76-971761c1616a-accent-2-contrast: 0, 0, 0;\n      --color-scheme-scheme-be2929f1-98cc-4984-9c76-971761c1616a-card-text: 0, 0, 0"
+    },
+    {
+      "source": "https://flybyjing.com/",
+      "selector": ":root",
+      "declarations": "--color-scheme-scheme-9e34f842-381d-41ee-9ee2-794fd1627aee-text: 255 255 255;\n      --color-scheme-scheme-9e34f842-381d-41ee-9ee2-794fd1627aee-text-contrast: 0, 0, 0;\n      --color-scheme-scheme-9e34f842-381d-41ee-9ee2-794fd1627aee-background: 171, 35, 40;\n      --color-scheme-scheme-9e34f842-381d-41ee-9ee2-794fd1627aee-accent-1: 255, 255, 0;\n      --color-scheme-scheme-9e34f842-381d-41ee-9ee2-794fd1627aee-accent-1-contrast: 27, 27, 27;\n      --color-scheme-scheme-9e34f842-381d-41ee-9ee2-794fd1627aee-accent-2: 255, 255, 255;\n      --color-scheme-scheme-9e34f842-381d-41ee-9ee2-794fd1627aee-accent-2-contrast: 0, 0, 0;\n      --color-scheme-scheme-9e34f842-381d-41ee-9ee2-794fd1627aee-card-text: "
+    },
+    {
+      "source": "https://flybyjing.com/",
+      "selector": ":root",
+      "declarations": "--color-scheme-scheme-ca8799e6-7bc4-4270-a1b1-060d9363dd1a-text: 250 244 226;\n      --color-scheme-scheme-ca8799e6-7bc4-4270-a1b1-060d9363dd1a-text-contrast: 51, 108, 181;\n      --color-scheme-scheme-ca8799e6-7bc4-4270-a1b1-060d9363dd1a-background: 216, 31, 38;\n      --color-scheme-scheme-ca8799e6-7bc4-4270-a1b1-060d9363dd1a-accent-1: 51, 108, 181;\n      --color-scheme-scheme-ca8799e6-7bc4-4270-a1b1-060d9363dd1a-accent-1-contrast: 250, 244, 226;\n      --color-scheme-scheme-ca8799e6-7bc4-4270-a1b1-060d9363dd1a-accent-2: 250, 244, 226;\n      --color-scheme-scheme-ca8799e6-7bc4-4270-a1b1-060d9363dd1a-accent-2-contrast: 216, 31, 38;\n      --color-scheme-scheme-ca8799e6-7bc4-4270-a1b1-060d9363dd1"
+    },
+    {
+      "source": "https://flybyjing.com/",
+      "selector": ":root",
+      "declarations": "--color-scheme-scheme-5cb317fb-cf0c-441a-bde9-91d49fee82fd-text: 255 255 0;\n      --color-scheme-scheme-5cb317fb-cf0c-441a-bde9-91d49fee82fd-text-contrast: 0, 0, 0;\n      --color-scheme-scheme-5cb317fb-cf0c-441a-bde9-91d49fee82fd-background: 171, 35, 40;\n      --color-scheme-scheme-5cb317fb-cf0c-441a-bde9-91d49fee82fd-accent-1: 255, 255, 0;\n      --color-scheme-scheme-5cb317fb-cf0c-441a-bde9-91d49fee82fd-accent-1-contrast: 27, 27, 27;\n      --color-scheme-scheme-5cb317fb-cf0c-441a-bde9-91d49fee82fd-accent-2: 255, 255, 255;\n      --color-scheme-scheme-5cb317fb-cf0c-441a-bde9-91d49fee82fd-accent-2-contrast: 0, 0, 0;\n      --color-scheme-scheme-5cb317fb-cf0c-441a-bde9-91d49fee82fd-card-text: 25"
+    },
+    {
+      "source": "https://flybyjing.com/",
+      "selector": ":root",
+      "declarations": "--standard-heading-size: var(--type-scale-n6);\n      --feature-heading-size: var(--type-scale-n8);\n      --secondary-heading-size: var(--type-scale-n2);\n      --section-vertical-spacing: 2rem;\n      --section-x-padding: 2.5rem;\n      --grid-gap: 2.5rem;"
+    },
+    {
+      "source": "https://flybyjing.com/",
+      "selector": ":root,\n  [data-color-scheme]",
+      "declarations": "--rte-spacing: 1.25rem;\n    --rte-link-color: var(--color-scheme-text);\n    --rte-link-color-contrast: var(--color-scheme-background);\n    --rte-link-hover-color: var(--color-scheme-accent-1);\n    --rte-blockquote-background-color: var(--color-scheme-accent-1);\n    --rte-blockquote-text-color: var(--color-scheme-accent-1-contrast);\n    --rte-list-style-type: disc;\n    --underline-thickness: 2px;\n    --rte-link-decoration-style: solid;"
+    },
+    {
+      "source": "https://flybyjing.com/",
+      "selector": ":root",
+      "declarations": "--heading-highlight-start: 20%;\n    --heading-highlight-end: 90%;\n    --heading-highlight-opacity-0: rgba(255,255,255,0);\n    --color-heading-highlight: rgba(var(--color-scheme-text), 1);\n    --color-heading-highlight-text: var(--color-scheme-text-contrast);\n    --heading-text-highlight: linear-gradient(180deg, var(--heading-highlight-opacity-0) var(--heading-highlight-start), var(--color-heading-highlight) var(--heading-highlight-start), var(--color-heading-highlight) var(--heading-highlight-end), var(--heading-highlight-opacity-0) var(--heading-highlight-end));"
+    },
+    {
+      "source": "https://flybyjing.com/",
+      "selector": ".okeReviews[data-oke-container] button,div.okeReviews button",
+      "declarations": "border-radius:0;border:0;box-shadow:none;margin:0;width:auto;min-width:auto;padding:0;background-color:transparent;min-height:auto"
+    },
+    {
+      "source": "https://flybyjing.com/",
+      "selector": "views[data-oke-container] input,.okeReviews[data-oke-container] select,.okeReviews[data-oke-container] textarea,div.okeReviews button,div.okeReviews input,div.o",
+      "declarations": "font-family:inherit;font-size:1em"
+    },
+    {
+      "source": "https://flybyjing.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button,div.okeReviews .oke-button",
+      "declarations": "display:inline-block;border-style:solid;border-color:var(--oke-button-borderColor);border-width:var(--oke-button-borderWidth);background-color:var(--oke-button-backgroundColor);line-height:1;padding:12px 24px;margin:0;border-radius:var(--oke-button-borderRadius);color:var(--oke-button-textColor);text-align:center;position:relative;font-weight:var(--oke-button-fontWeight);font-size:var(--oke-button-fontSize);font-family:var(--oke-button-fontFamily);outline:0"
+    },
+    {
+      "source": "https://flybyjing.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button.oke-is-loading:before,div.okeReviews .oke-button.oke-is-loading:before",
+      "declarations": "font-family:oke-widget-icons!important;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;content:\"\";color:undefined;font-size:12px;display:inline-block;animation:oke-spin 1s linear infinite;position:absolute;width:12px;height:12px;top:0;left:0;bottom:0;right:0;margin:auto"
+    },
+    {
+      "source": "https://flybyjing.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button.oke-is-active,div.okeReviews .oke-button.oke-is-active",
+      "declarations": "background-color:var(--oke-button-backgroundColorActive);color:var(--oke-button-textColorActive);border-color:var(--oke-button-borderColorActive)"
+    },
+    {
+      "source": "https://flybyjing.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button:not(.oke-is-loading):not(.oke-is-active):hover,div.okeReviews .oke-button:not(.oke-is-loading):not(.oke-is-active):h",
+      "declarations": "background-color:var(--oke-button-backgroundColorHover);color:var(--oke-button-textColorHover);border-color:var(--oke-button-borderColorHover);box-shadow:0 0 0 2px var(--oke-button-backgroundColorHover)"
+    },
+    {
+      "source": "https://flybyjing.com/",
+      "selector": "is-loading):not(.oke-is-active):hover:active,div.okeReviews .oke-button:not(.oke-is-loading):not(.oke-is-active):active,div.okeReviews .oke-button:not(.oke-is-l",
+      "declarations": "background-color:var(--oke-button-backgroundColorActive);color:var(--oke-button-textColorActive);border-color:var(--oke-button-borderColorActive)"
+    },
+    {
+      "source": "https://flybyjing.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-bodyText,div.okeReviews .oke-bodyText",
+      "declarations": "font-weight:var(--oke-bodyText-fontWeight);font-size:var(--oke-bodyText-fontSize);font-family:var(--oke-bodyText-fontFamily)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Shop the Best Chinese Chili Sauce\n\n        – FLY BY JING",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://flybyjing.com/",
+        "https://flybyjing.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://flybyjing.com/cdn/shop/t/61/assets/base.bundle.css?v=94040838445988367491742606973",
+        "https://cdn.shopify.com/extensions/01a0b668-bf39-7407-90f5-ccf647a77892/inveterate-138/assets/inveterate.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://flybyjing.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0b668-bf39-7407-90f5-ccf647a77892/inveterate-138/assets/inveterate.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://flybyjing.com/",
+        "https://flybyjing.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://flybyjing.com/cdn/shop/t/61/assets/base.bundle.css?v=94040838445988367491742606973",
+        "https://cdn.shopify.com/extensions/01a0b668-bf39-7407-90f5-ccf647a77892/inveterate-138/assets/inveterate.css"
+      ]
+    },
+    "colors.accent-magenta": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "colors.accent-yellow": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "colors.accent-peach": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "colors.alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "colors.deep-black": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://flybyjing.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.pale-cream": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "colors.divider-lavender": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://flybyjing.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spice-level-indicator": {
+      "status": "inferred"
+    }
+  }
+}

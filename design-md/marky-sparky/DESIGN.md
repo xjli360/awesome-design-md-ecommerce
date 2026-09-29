@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Marky Sparky
-description: A high-voltage STEM toy brand that runs on primary-color jolts — #d20000 (a stop-sign red that appears on every add-to-cart button, sale badge, and "Shop Now" CTA), #2b00ff (a saturated electric blue used for secondary actions and product-category headers), and #ffb036 (a warm marigold reserved for star ratings, highlight badges, and price flashes). The brand treats its white canvas (#f9f9f9) as a clean lab bench where products sit in crisp, shadowless product cards with {rounded.sm} corners, letting the toy's own saturated packaging do the visual work. Typography runs Poppins at 600 weight for headings and Open Sans at 400 for body — a rationalist pairing that reads as educational rather than playful, reinforcing the STEM positioning. Navigation is a full-width black bar (#111111) with white links, a pattern borrowed from e-commerce tooling rather than toy brands, signaling utility over whimsy. The footer repeats the black bar with a three-column layout of quick links, customer service, and a newsletter signup field styled as a {rounded.sm} input with a red submit button. Sale badges are pill-shaped {rounded.full} in #d20000 with white text, often paired with a "NEW" badge in #06b608 (a bright green). The brand uses generous section spacing ({spacing.section}) between product grids and category strips, and the search bar sits as a full-width field with a magnifying-glass icon in #006fcf. Despite the toy category, the design language is closer to a utility e-commerce store than a playful children's brand — the red and blue carry all the energy, while the typography and layout stay neutral and functional.
+name: "Marky Sparky"
+source_url: "https://markysparkytoys.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A high-voltage STEM toy brand that runs on primary-color jolts — #d20000 (a stop-sign red that appears on every add-to-cart button, sale badge, and "Shop Now" CTA), #2b00ff (a saturated electric blue used for secondary actions and product-category headers), and #ffb036 (a warm marigold reserved for star ratings, highlight badges, and price flashes). The brand treats its white canvas (#f9f9f9) as a clean lab bench where products sit in crisp, shadowless product cards with {rounded.sm} corners, letting the toy's own saturated packaging do the visual work. Typography runs Poppins at 600 weight for headings and Open Sans at 400 for body — a rationalist pairing that reads as educational rather than playful, reinforcing the STEM positioning. Navigation is a full-width black bar (#111111) with white links, a pattern borrowed from e-commerce tooling rather than toy brands, signaling utility over whimsy. The footer repeats the black bar with a three-column layout of quick links, customer service, and a newsletter signup field styled as a {rounded.sm} input with a red submit button. Sale badges are pill-shaped {rounded.full} in #d20000 with white text, often paired with a "NEW" badge in #06b608 (a bright green). The brand uses generous section spacing ({spacing.section}) between product grids and category strips, and the search bar sits as a full-width field with a magnifying-glass icon in #006fcf. Despite the toy category, the design language is closer to a utility e-commerce store than a playful children's brand — the red and blue carry all the energy, while the typography and layout stay neutral and functional.
 
 colors:
   primary: "#d20000"
@@ -457,6 +461,8 @@ components:
 - **Wide (> 1440px):** Content constrained to max-width 1440px. Product grid expands to 4 columns. Additional whitespace on sides.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states:** Only primary button hover (#b00000) and product card shadow were reliably extracted. Secondary button hover, link hover colors, and category strip hover states are inferred from common patterns.
 - **Focus states:** No focus ring styles were extracted. Assumed 2px solid #d20000 outline on all interactive elements.

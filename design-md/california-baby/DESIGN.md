@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: California Baby
-description: A sun-warmed yellow #f7dc73 — the meta-theme color and the brand’s emotional anchor — floods the California Baby canvas, evoking California poppies, chamomile, and the gentle glow of a nursery at golden hour. Against this honeyed backdrop, a confident red #dd0031 punches through for primary CTAs and sale badges, creating a visual tension that is both playful and urgent — a brand that knows when to soothe and when to act. The palette is deliberately spare: a near-white #dedede for soft surfaces and cards, and deep ink #121212 for body text, ensuring readability across product labels and ingredient lists. There are no hard corners in the interface; every button, input, and card edge is softly rounded at {rounded.sm} or {rounded.md}, mirroring the organic, plant-based formulations the brand is known for. Typography runs clean and approachable — sans-serif, moderate weights, generous line heights — prioritizing clarity for parents scanning ingredient panels and dosage instructions. The overall mood is one of trustworthy warmth: a digital storefront that feels less like a sterile e-commerce engine and more like a sunlit apothecary shelf, where every element — from the pill-shaped search bar to the chamomile-toned footer — reinforces a single promise: gentle, effective, and unmistakably Californian.
+name: "California Baby"
+source_url: "https://californiababy.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A sun-warmed yellow #f7dc73 — the meta-theme color and the brand’s emotional anchor — floods the California Baby canvas, evoking California poppies, chamomile, and the gentle glow of a nursery at golden hour. Against this honeyed backdrop, a confident red #dd0031 punches through for primary CTAs and sale badges, creating a visual tension that is both playful and urgent — a brand that knows when to soothe and when to act. The palette is deliberately spare: a near-white #dedede for soft surfaces and cards, and deep ink #121212 for body text, ensuring readability across product labels and ingredient lists. There are no hard corners in the interface; every button, input, and card edge is softly rounded at {rounded.sm} or {rounded.md}, mirroring the organic, plant-based formulations the brand is known for. Typography runs clean and approachable — sans-serif, moderate weights, generous line heights — prioritizing clarity for parents scanning ingredient panels and dosage instructions. The overall mood is one of trustworthy warmth: a digital storefront that feels less like a sterile e-commerce engine and more like a sunlit apothecary shelf, where every element — from the pill-shaped search bar to the chamomile-toned footer — reinforces a single promise: gentle, effective, and unmistakably Californian.
 
 colors:
   primary: "#dd0031"
@@ -533,6 +537,8 @@ components:
 - Cart drawer replaces full cart page on mobile, sliding in from the right
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No font-family declarations were found during extraction; the typography block uses a generic sans-serif stack (Helvetica Neue, Helvetica, Arial) as a placeholder. The brand may use a custom typeface (e.g., a rounded sans-serif) that could not be detected.
 - Hover states for most components are inferred from common patterns; exact transition durations and easing curves were not extracted.

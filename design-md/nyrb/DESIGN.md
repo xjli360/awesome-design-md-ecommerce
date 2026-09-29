@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: NYRB
-description: A deep, literary red — #d3232e — anchors the New York Review Books storefront, a color that reads as serious and intellectual rather than promotional, appearing on the primary add-to-cart button, the site header, and the small logo mark. This red is offset by a cool, authoritative blue (#243fa1) used sparingly for secondary actions and select navigation elements, creating a restrained two-color system that feels more like a university press than a commercial publisher. The canvas is a clean white (#ffffff), with a soft gray (#dedede) for hairline borders and dividers, and a muted sage green (#89bf87) that surfaces in category badges and sale indicators — an unexpected, almost botanical accent that prevents the palette from feeling cold. Typography runs Fira Sans at modest weights, with body copy set at 16px and a line height of 1.5 that prioritizes readability for long-form book descriptions and editorial content. The layout is columnar and generous — product grids use wide gutters, and individual book cards are given breathing room with soft shadows and rounded corners at {rounded.sm} (8px). There is no hero carousel or aggressive promotional module; instead, the homepage leads with a curated grid of recent releases and staff picks, trusting the cover art and the authority of the NYRB imprint to do the selling. The overall mood is that of a well-stocked independent bookstore translated into a clean, typographically rigorous web experience — quiet, confident, and utterly without trend-chasing.
+name: "NYRB"
+source_url: "https://www.nyrb.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep, literary red — #d3232e — anchors the New York Review Books storefront, a color that reads as serious and intellectual rather than promotional, appearing on the primary add-to-cart button, the site header, and the small logo mark. This red is offset by a cool, authoritative blue (#243fa1) used sparingly for secondary actions and select navigation elements, creating a restrained two-color system that feels more like a university press than a commercial publisher. The canvas is a clean white (#ffffff), with a soft gray (#dedede) for hairline borders and dividers, and a muted sage green (#89bf87) that surfaces in category badges and sale indicators — an unexpected, almost botanical accent that prevents the palette from feeling cold. Typography runs Fira Sans at modest weights, with body copy set at 16px and a line height of 1.5 that prioritizes readability for long-form book descriptions and editorial content. The layout is columnar and generous — product grids use wide gutters, and individual book cards are given breathing room with soft shadows and rounded corners at {rounded.sm} (8px). There is no hero carousel or aggressive promotional module; instead, the homepage leads with a curated grid of recent releases and staff picks, trusting the cover art and the authority of the NYRB imprint to do the selling. The overall mood is that of a well-stocked independent bookstore translated into a clean, typographically rigorous web experience — quiet, confident, and utterly without trend-chasing.
 
 colors:
   primary: "#d3232e"
@@ -468,6 +472,8 @@ components:
 - The search bar collapses from a visible input to a search icon that expands on tap.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for many components (button-secondary, nav-dropdown items, footer links) are inferred from common patterns rather than extracted from the live site.
 - Error styling for form inputs (error-bg, error border) is a best-guess based on the extracted #c82222 error color — the actual error message typography and iconography are unknown.

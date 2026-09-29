@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: GenScript
-description: |
+name: "GenScript"
+source_url: "https://www.genscript.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   GenScript's interface anchors on deep-water navy (#000a46) as its ink register, then lifts through stacked temperature zones of blue — from procurement-trust #004b95 through the activating #1d73dd CTA blue — constructing a gradient-of-authority visual language that mirrors the precision hierarchy scientists expect from a reagent supplier. The accent system provides the real differentiation: #5fb035 biology-green appears on success badges, category chips, and iconography, functioning as a chromatic shorthand for "life science approved," while electric mint #65e5d1 and near-neon cyan #09ffeb surface in feature callouts and hover states, evoking the luminescent glow of gel electrophoresis under a UV transilluminator.
 
   Typography runs a disciplined dual-track: Montserrat at compressed weights anchors display headings with blueprint authority, while Figtree carries body copy in open, legible forms suited for researchers reading dense spec sheets under deadline. DIN 2014 surfaces in data-dense contexts — catalog IDs, purity percentages, sequence notation — lending those fields an industrial precision that reads as native to laboratory documentation. Poppins appears in broader marketing overlays where its rounded geometry softens the hard-science register for a wider audience.
@@ -392,6 +395,8 @@ components:
 - Service category card grid: 4→3→2→1 columns across wide/desktop/tablet/mobile breakpoints
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Body text mid-tone (#333333) inferred from standard B2B practice; no mid-gray text color was present in extracted palette
 - Exact typographic division between Montserrat and Figtree across specific page zones not confirmed by extraction — both fonts are present in the stack but zone-specific usage is inferred

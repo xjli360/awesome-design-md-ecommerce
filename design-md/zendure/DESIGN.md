@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Zendure
-description: Two voltages power Zendure's visual system: the sustained charge of #009f7f teal on a near-black #1c1d1d canvas that dominates hero sections and product pages, and the high-frequency pulse of #fa4500 orange reserved exclusively for purchase decisions and critical CTAs. This deliberate pairing — cool renewable-energy teal against urgent combustion orange — mirrors the hardware itself: battery systems holding energy in reserve, then releasing it on demand. Type runs Nunito Sans throughout, a rounded geometric sans that softens technical specifications without losing precision; display headlines sit at 40–56px in weight 700–800 on dark backgrounds, while body copy drops to Open Sans at 14–16px for data-dense spec sheets and comparison tables. Radius language is minimal but consistent: buttons round to `{rounded.sm}` at 8px, cards carry `{rounded.md}` at 12px, and pill badges on product categories use `{rounded.full}`. The fourth color in the hierarchy, #fbcd0a yellow-gold, appears sparingly as an energy indicator — capacity meters, star ratings, and promotional banners — borrowing the visual language of charging LEDs on the physical product. A fifth token, #a89cc8 lavender-purple, surfaces in the SolarFlow product line to differentiate solar integration products from the core portable power range. The surface language moves between #f9fafb for default page backgrounds, #edf5f5 for teal-tinted feature blocks, and deep #121212 for immersive product showcases. Spacing is generous by hardware-brand standards: section breaks at 80–96px, product grid gutters at 24px, and hero copy padded 40px from the navigation — a cadence that gives expensive hardware room to breathe before specification tables begin.
+name: "Zendure"
+source_url: "https://www.zendure.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Two voltages power Zendure's visual system: the sustained charge of #009f7f teal on a near-black #1c1d1d canvas that dominates hero sections and product pages, and the high-frequency pulse of #fa4500 orange reserved exclusively for purchase decisions and critical CTAs. This deliberate pairing — cool renewable-energy teal against urgent combustion orange — mirrors the hardware itself: battery systems holding energy in reserve, then releasing it on demand. Type runs Nunito Sans throughout, a rounded geometric sans that softens technical specifications without losing precision; display headlines sit at 40–56px in weight 700–800 on dark backgrounds, while body copy drops to Open Sans at 14–16px for data-dense spec sheets and comparison tables. Radius language is minimal but consistent: buttons round to `{rounded.sm}` at 8px, cards carry `{rounded.md}` at 12px, and pill badges on product categories use `{rounded.full}`. The fourth color in the hierarchy, #fbcd0a yellow-gold, appears sparingly as an energy indicator — capacity meters, star ratings, and promotional banners — borrowing the visual language of charging LEDs on the physical product. A fifth token, #a89cc8 lavender-purple, surfaces in the SolarFlow product line to differentiate solar integration products from the core portable power range. The surface language moves between #f9fafb for default page backgrounds, #edf5f5 for teal-tinted feature blocks, and deep #121212 for immersive product showcases. Spacing is generous by hardware-brand standards: section breaks at 80–96px, product grid gutters at 24px, and hero copy padded 40px from the navigation — a cadence that gives expensive hardware room to breathe before specification tables begin.
 
 colors:
   primary: "#009f7f"
@@ -389,6 +393,8 @@ components:
 - Footer: 4-column link grid → 2-column → 1-column stacked on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No proprietary typeface detected; Nunito Sans and Open Sans are confirmed loaded but per-heading weight assignments were inferred from visual hierarchy rather than extracted CSS custom properties
 - Exact button border-radius not confirmed via CSS extraction; {rounded.sm} 8px is an informed estimate based on observed visual rounding

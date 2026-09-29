@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Lamzu
-description: A high-octane gaming peripherals brand that uses #039aff as its primary voltage — an electric cyan-blue that reads more like a neon tube sign than a conventional brand color, appearing on every primary CTA, product-highlight badge, and the site's meta theme-color bar. The palette is otherwise aggressively monochromatic: #141414, #121212, and #323232 for backgrounds and ink, with #444444 and #dedede for body and muted text, creating a dark-mode-first canvas that lets the cyan-blue pop like a laser sight. Red accents (#d21625) appear sparingly on sale badges and limited-edition markers, while #ffff00 (a pure yellow) surfaces on discount callouts, giving the brand a three-color accent system that feels arcade-born. Typography runs on Poppins at 500–700 weight for display and body, with Prompt used for select hero headlines — both geometric sans-serifs that carry the precision of esports overlays. Buttons use {rounded.sm} corners (8px) rather than pill shapes, a deliberate choice that signals performance over friendliness; product cards adopt {rounded.md} (12px) for a slightly softer containment. The nav bar is a fixed 64px strip of #121212 with cyan underline indicators, and the footer collapses into a dense, link-heavy grid on #141414. Every surface is matte — no gradients, no glassmorphism, no decorative flourishes — just raw contrast between near-black backgrounds and the cyan signal.
+name: "Lamzu"
+source_url: "https://lamzu.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A high-octane gaming peripherals brand that uses #039aff as its primary voltage — an electric cyan-blue that reads more like a neon tube sign than a conventional brand color, appearing on every primary CTA, product-highlight badge, and the site's meta theme-color bar. The palette is otherwise aggressively monochromatic: #141414, #121212, and #323232 for backgrounds and ink, with #444444 and #dedede for body and muted text, creating a dark-mode-first canvas that lets the cyan-blue pop like a laser sight. Red accents (#d21625) appear sparingly on sale badges and limited-edition markers, while #ffff00 (a pure yellow) surfaces on discount callouts, giving the brand a three-color accent system that feels arcade-born. Typography runs on Poppins at 500–700 weight for display and body, with Prompt used for select hero headlines — both geometric sans-serifs that carry the precision of esports overlays. Buttons use {rounded.sm} corners (8px) rather than pill shapes, a deliberate choice that signals performance over friendliness; product cards adopt {rounded.md} (12px) for a slightly softer containment. The nav bar is a fixed 64px strip of #121212 with cyan underline indicators, and the footer collapses into a dense, link-heavy grid on #141414. Every surface is matte — no gradients, no glassmorphism, no decorative flourishes — just raw contrast between near-black backgrounds and the cyan signal.
 
 colors:
   primary: "#039aff"
@@ -410,6 +414,8 @@ components:
 - Badges on product cards stack vertically on mobile to avoid overlap.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Extracted hex colors are heavily weighted toward dark-mode defaults and may include Shopify checkout widget colors (Klarna, Afterpay) that are not part of the brand palette. The distinctive cyan (#039aff), red (#d21625), and yellow (#ffff00) are confirmed brand accents.
 - Font-family declarations were limited to Poppins, Prompt, and generic fallbacks. Exact font weights and sizes for all typography tokens are inferred from common gaming-peripheral design patterns and may not match the live site exactly.

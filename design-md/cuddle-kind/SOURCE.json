@@ -1,0 +1,829 @@
+{
+  "source_url": "https://cuddleandkind.com",
+  "final_url": "https://cuddleandkind.com/",
+  "captured_at": "2026-09-28T04:25:11.772111+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://cuddleandkind.com",
+      "final_url": "https://cuddleandkind.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "41c3ce6458627936e85287a1f0e146a0cda84ac1a7d20494382e822a73da993a",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://cuddleandkind.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://cuddleandkind.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://cuddleandkind.com/cdn/shop/t/276/assets/base.css?v=45582427147027864411788886381",
+      "final_url": "https://cuddleandkind.com/cdn/shop/t/276/assets/base.css?v=45582427147027864411788886381",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "db57189ec9cb682fe8d283e2ec773d1991fcbdbda67f666203f8bea4f9dd2ea3",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cuddleandkind.com/cdn/shop/t/276/assets/PDM-custom-styles.css?v=11644612640533590251788886421",
+      "final_url": "https://cuddleandkind.com/cdn/shop/t/276/assets/PDM-custom-styles.css?v=11644612640533590251788886421",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "49d65b1052e2ec2d426433252eb2cadaf735d60d135266697064079e0bd8ed1e",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cuddleandkind.com/cdn/shop/t/276/assets/component-localization-form.css?v=120620094879297847921788886397",
+      "final_url": "https://cuddleandkind.com/cdn/shop/t/276/assets/component-localization-form.css?v=120620094879297847921788886397",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c63dab9bcfc6e37e58a065bf3f3f4561c0336ffde125fe7089b1a8d24689d723",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cuddleandkind.com/cdn/shop/t/276/assets/quantity-popover.css?v=151826292497373898931788886429",
+      "final_url": "https://cuddleandkind.com/cdn/shop/t/276/assets/quantity-popover.css?v=151826292497373898931788886429",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "aacfa1ba351a84816dc0e95bfcd8ccf57d5828005ace12cfd354034c7b31e2b2",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#303030": {
+      "count": 73,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 36,
+      "sources": [
+        "https://cuddleandkind.com/",
+        "https://cuddleandkind.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cuddleandkind.com/cdn/shop/t/276/assets/base.css?v=45582427147027864411788886381"
+      ]
+    },
+    "#fcfbfc": {
+      "count": 15,
+      "sources": [
+        "https://cuddleandkind.com/",
+        "https://cuddleandkind.com/cdn/shop/t/276/assets/base.css?v=45582427147027864411788886381"
+      ]
+    },
+    "#616161": {
+      "count": 12,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#000000": {
+      "count": 7,
+      "sources": [
+        "https://cuddleandkind.com/",
+        "https://cuddleandkind.com/cdn/shop/t/276/assets/base.css?v=45582427147027864411788886381",
+        "https://cuddleandkind.com/cdn/shop/t/276/assets/component-localization-form.css?v=120620094879297847921788886397"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 7,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#2332d5": {
+      "count": 7,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 5,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#feebe7": {
+      "count": 4,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#d5e4e5": {
+      "count": 4,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#cf6d82": {
+      "count": 4,
+      "sources": [
+        "https://cuddleandkind.com/",
+        "https://cuddleandkind.com/cdn/shop/t/276/assets/base.css?v=45582427147027864411788886381"
+      ]
+    },
+    "#005bd3": {
+      "count": 4,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#69ce82": {
+      "count": 4,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#dee6ff": {
+      "count": 4,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#b5b5b5": {
+      "count": 4,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#8051ff": {
+      "count": 4,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#dedede": {
+      "count": 4,
+      "sources": [
+        "https://cuddleandkind.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cuddleandkind.com/cdn/shop/t/276/assets/base.css?v=45582427147027864411788886381"
+      ]
+    },
+    "#121212": {
+      "count": 3,
+      "sources": [
+        "https://cuddleandkind.com/",
+        "https://cuddleandkind.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#eaf5f3": {
+      "count": 3,
+      "sources": [
+        "https://cuddleandkind.com/",
+        "https://cuddleandkind.com/cdn/shop/t/276/assets/base.css?v=45582427147027864411788886381"
+      ]
+    },
+    "#e7dbe3": {
+      "count": 3,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 3,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#808080": {
+      "count": 3,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#ffffff00": {
+      "count": 3,
+      "sources": [
+        "https://cuddleandkind.com/cdn/shop/t/276/assets/base.css?v=45582427147027864411788886381"
+      ]
+    },
+    "#efeeef": {
+      "count": 3,
+      "sources": [
+        "https://cuddleandkind.com/cdn/shop/t/276/assets/base.css?v=45582427147027864411788886381"
+      ]
+    },
+    "#feece8": {
+      "count": 2,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#f9e5de": {
+      "count": 2,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#fdefef": {
+      "count": 2,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#c5e1de": {
+      "count": 2,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#e39799": {
+      "count": 2,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#54585a": {
+      "count": 2,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#fff8db": {
+      "count": 2,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#cdfee1": {
+      "count": 2,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#4f4700": {
+      "count": 2,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#29845a": {
+      "count": 2,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 2,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 2,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://cuddleandkind.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://cuddleandkind.com/cdn/shop/t/276/assets/base.css?v=45582427147027864411788886381"
+      ]
+    },
+    "#dddddd": {
+      "count": 2,
+      "sources": [
+        "https://cuddleandkind.com/cdn/shop/t/276/assets/base.css?v=45582427147027864411788886381"
+      ]
+    },
+    "#6eabaf": {
+      "count": 2,
+      "sources": [
+        "https://cuddleandkind.com/cdn/shop/t/276/assets/base.css?v=45582427147027864411788886381"
+      ]
+    },
+    "#c6e2de": {
+      "count": 2,
+      "sources": [
+        "https://cuddleandkind.com/cdn/shop/t/276/assets/base.css?v=45582427147027864411788886381"
+      ]
+    },
+    "#757575": {
+      "count": 2,
+      "sources": [
+        "https://cuddleandkind.com/cdn/shop/t/276/assets/base.css?v=45582427147027864411788886381"
+      ]
+    },
+    "#eeeff3": {
+      "count": 1,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#ebdbdc": {
+      "count": 1,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#c76077": {
+      "count": 1,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#1cadc0": {
+      "count": 1,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#8a8a8a": {
+      "count": 1,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#f72119": {
+      "count": 1,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#5e5873": {
+      "count": 1,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#b9b9c3": {
+      "count": 1,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#82868b": {
+      "count": 1,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#ebe9f1": {
+      "count": 1,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#69ce8225": {
+      "count": 1,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#24b263": {
+      "count": 1,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 1,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#ffaa00": {
+      "count": 1,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#d1d1d1": {
+      "count": 1,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#888888": {
+      "count": 1,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "#4a4a4a": {
+      "count": 1,
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "Lora": [
+      "https://cuddleandkind.com/"
+    ],
+    "Montserrat": [
+      "https://cuddleandkind.com/"
+    ],
+    "Moontime": [
+      "https://cuddleandkind.com/cdn/shop/t/276/assets/base.css?v=45582427147027864411788886381"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://cuddleandkind.com/",
+      "selector": ":root,\n        .color-scheme-1",
+      "declarations": "--color-background: 252,251,252;\n        \n          --gradient-background: #fcfbfc;\n        \n\n        \n\n        --color-foreground: 84,88,90;\n        --color-subtext: 117,117,117;\n        --color-background-contrast: 197,178,197;\n        --color-shadow: 84,88,90;\n        --color-button: 84,88,90;\n        --color-button-text: 255,255,255;\n\n        --color-button-hover: 84,88,90;\n        --color-button-hover-text: 255,255,255;\n\n        --color-secondary-button: 252,251,252;\n        --color-secondary-button-text: 84,88,90;\n        --color-link: 84,88,90;\n        --color-badge-foreground: 84,88,90;\n        --color-badge-background: 252,251,252;\n        --color-badge-border: 84,88,90;\n        --p"
+    },
+    {
+      "source": "https://cuddleandkind.com/",
+      "selector": "body",
+      "declarations": "display: grid;\n        grid-template-rows: auto auto auto 1fr auto;\n        grid-template-columns: 100%;\n        min-height: 100%;\n        margin: 0;\n        font-size: 1.5rem;\n        letter-spacing: 0.06rem;\n        line-height: calc(1 + 0.8 / var(--font-body-scale));\n        font-family: var(--font-body-family);\n        font-style: var(--font-body-style);\n        font-weight: var(--font-body-weight);"
+    },
+    {
+      "source": "https://cuddleandkind.com/",
+      "selector": "--animation-order: 1;\n--animation-order: 2;\n--animation-order: 3;\n--animation-order: 4;\n--animation-order: 5;\n\n  :root",
+      "declarations": "--sale-price-color: #cf6d82;\n    \n    --strikethrough-price-color: var(--sale-price-color);\n    --compare-at-price-color: rgba(var(--color-foreground), 0.55);"
+    },
+    {
+      "source": "https://cuddleandkind.com/",
+      "selector": ".freegifts-main-container .product-title, .freegifts-main-container .bogos-gift-product-title",
+      "declarations": "color: #000000;"
+    },
+    {
+      "source": "https://cuddleandkind.com/",
+      "selector": ".freegifts-main-container .btn-add-to-cart",
+      "declarations": "color: #FFFFFF; background-color: #1CADC0;"
+    },
+    {
+      "source": "https://cuddleandkind.com/",
+      "selector": "#sca-fg-today-offer-iframe .sca-fg-header",
+      "declarations": "background-color: #FFFFFF;"
+    },
+    {
+      "source": "https://cuddleandkind.com/",
+      "selector": "#sca-fg-today-offer-iframe .sca-fg-body",
+      "declarations": "background-color: #FFFFFF;"
+    },
+    {
+      "source": "https://cuddleandkind.com/",
+      "selector": "#sca-fg-today-offer-iframe .sca-fg-offer .sca-offer-header-container",
+      "declarations": "background-color: #ebe9f1"
+    },
+    {
+      "source": "https://cuddleandkind.com/",
+      "selector": "#sca-fg-today-offer-iframe .sca-fg-offer.sca-offer-archived .sca-offer-header-container",
+      "declarations": "background-color: #69CE8225"
+    },
+    {
+      "source": "https://cuddleandkind.com/",
+      "selector": "#sca-fg-today-offer-iframe .sca-gift-product-title",
+      "declarations": "color:  #303030"
+    },
+    {
+      "source": "https://cuddleandkind.com/",
+      "selector": "#sca-fg-today-offer-iframe .sca-gift-product-discount-price",
+      "declarations": "color: #24B263"
+    },
+    {
+      "source": "https://cuddleandkind.com/",
+      "selector": "#sca-fg-today-offer-iframe .sca-gift-product-original-price",
+      "declarations": "color: #616161"
+    },
+    {
+      "source": "https://cuddleandkind.com/",
+      "selector": ".bogos-bundles-widget-body .bogos-bundle-item",
+      "declarations": "background-color: #FFFFFF;"
+    },
+    {
+      "source": "https://cuddleandkind.com/",
+      "selector": ".bogos-bundles-widget-footer .bogos-bundles-button-add",
+      "declarations": "color: #FFFFFF; background-color: #303030;"
+    },
+    {
+      "source": "https://cuddleandkind.com/",
+      "selector": ".bogos-bundles-quantity-break-button-add",
+      "declarations": "background: #303030; color: #FFFFFF;"
+    },
+    {
+      "source": "https://cuddleandkind.com/",
+      "selector": ".bogos-volume-discount-widget.default-layout .bogos-volume-discount-button-add",
+      "declarations": "background: #303030; color: #FFFFFF;"
+    },
+    {
+      "source": "https://cuddleandkind.com/",
+      "selector": ".bogos-volume-discount-widget.table-layout .bogos-volume-discount-widget-header",
+      "declarations": "background-color: #F3F3F3;"
+    },
+    {
+      "source": "https://cuddleandkind.com/",
+      "selector": "t-widget.table-layout .bogos-volume-discount-item, .bogos-volume-discount-widget-body .bogos-volume-discount-tier-info, .bogos-volume-discount-widget.table-layo",
+      "declarations": "border-color: #E0E0E0;"
+    },
+    {
+      "source": "https://cuddleandkind.com/",
+      "selector": ".bogos-mix-match-widget .bogos-mix-match-button-add",
+      "declarations": "color: #FFFFFF; background-color: #303030;"
+    },
+    {
+      "source": "https://cuddleandkind.com/",
+      "selector": ".bogos-bundle-page-container .bogos-bp-header-title",
+      "declarations": "color: #303030;"
+    },
+    {
+      "source": "https://cuddleandkind.com/",
+      "selector": ".bogos-bundle-page-container .bogos-bp-header-subtitle",
+      "declarations": "color: #303030;"
+    },
+    {
+      "source": "https://cuddleandkind.com/",
+      "selector": ".bogos-bundle-page-container .bogos-bp-step-header-title",
+      "declarations": "color: #303030;"
+    },
+    {
+      "source": "https://cuddleandkind.com/",
+      "selector": ".bogos-bundle-page-container .bogos-bp-step-header-subtitle",
+      "declarations": "color: #616161;"
+    },
+    {
+      "source": "https://cuddleandkind.com/",
+      "selector": ".bogos-bundle-page-container .bogos-bp-product-title, .bogos-step-item .bogos-step-item-title, .bogos-product-detail-modal .bogos-product-title",
+      "declarations": "color:  #303030;"
+    },
+    {
+      "source": "https://cuddleandkind.com/",
+      "selector": ".bogos-bundle-page-container .bogos-bp-product-price, .bogos-step-item .bogos-step-item-discount-price, .bogos-bp-widget-footer .bogos-bp-total-discount-price",
+      "declarations": "color:  #303030;"
+    },
+    {
+      "source": "https://cuddleandkind.com/",
+      "selector": ".bogos-bundle-page-container .bogos-bp-btn-add-product, .bogos-product-detail-modal .bogos-product-add-btn",
+      "declarations": "background-color: #303030; color: #FFFFFF"
+    },
+    {
+      "source": "https://cuddleandkind.com/",
+      "selector": ".bogos-step-items-product-require.success .bogos-step-items-product-require-title",
+      "declarations": "color: #2332D5;"
+    },
+    {
+      "source": "https://cuddleandkind.com/",
+      "selector": ".bogos-bp-widget .bogos-bp-button-add",
+      "declarations": "background-color: #303030; color: #FFFFFF;"
+    },
+    {
+      "source": "https://cuddleandkind.com/",
+      "selector": ".bogos-fbt-header-title",
+      "declarations": "color: #303030;"
+    },
+    {
+      "source": "https://cuddleandkind.com/",
+      "selector": ".bogos-fbt-header-description",
+      "declarations": "color: #303030;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "cuddle + kind dolls | 1 hand-knit doll = 10 meals\n – cuddle+kind",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cuddleandkind.com/",
+        "https://cuddleandkind.com/cdn/shop/t/276/assets/base.css?v=45582427147027864411788886381"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cuddleandkind.com/cdn/shop/t/276/assets/base.css?v=45582427147027864411788886381"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cuddleandkind.com/",
+        "https://cuddleandkind.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cuddleandkind.com/cdn/shop/t/276/assets/base.css?v=45582427147027864411788886381"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cuddleandkind.com/",
+        "https://cuddleandkind.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cuddleandkind.com/cdn/shop/t/276/assets/base.css?v=45582427147027864411788886381"
+      ]
+    },
+    "colors.accent-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "colors.sale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cuddleandkind.com/",
+        "https://cuddleandkind.com/cdn/shop/t/276/assets/base.css?v=45582427147027864411788886381"
+      ]
+    },
+    "colors.badge-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "colors.surface-blush": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "colors.surface-mint": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cuddleandkind.com/"
+      ]
+    },
+    "colors.border-subtle": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cuddleandkind.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cuddleandkind.com/cdn/shop/t/276/assets/base.css?v=45582427147027864411788886381"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.script-accent": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.color-swatch-selector": {
+      "status": "inferred"
+    }
+  }
+}

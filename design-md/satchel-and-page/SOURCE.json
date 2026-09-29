@@ -1,0 +1,485 @@
+{
+  "source_url": "https://satchel-page.com",
+  "final_url": "https://www.satchel-page.com/",
+  "captured_at": "2026-09-28T09:48:44.060183+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://satchel-page.com",
+      "final_url": "https://www.satchel-page.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "3fd7ec36a7d44bfac45b6f924a88345b6b2a7341e52ab4ecb06febefc977781a",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.satchel-page.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.satchel-page.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "39441f1cb6840e4601467c2ea1fbe565e82c4ca6715ceb893847370a8c7532a3",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#231f20": {
+      "count": 11,
+      "sources": [
+        "https://www.satchel-page.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 3,
+      "sources": [
+        "https://www.satchel-page.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.satchel-page.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.satchel-page.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#030712": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "#613e2e": {
+      "count": 1,
+      "sources": [
+        "https://www.satchel-page.com/"
+      ]
+    },
+    "#2d4f2d": {
+      "count": 1,
+      "sources": [
+        "https://www.satchel-page.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.satchel-page.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.satchel-page.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.satchel-page.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f9fafb": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "#374151": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "#d1d5db": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "#1f2937": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "#3256e5": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "#eaeaea": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Apple Color Emoji": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Arial": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "BlinkMacSystemFont": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Helvetica Neue": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Krona One": [
+      "https://www.satchel-page.com/"
+    ],
+    "Lora": [
+      "https://www.satchel-page.com/"
+    ],
+    "Noto Color Emoji !important": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Noto Color Emoji' !important": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Noto Sans": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Roboto": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "SF Pro Text": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Segoe UI": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Segoe UI Emoji": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Segoe UI Symbol": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "brandon-grotesque": [
+      "https://www.satchel-page.com/"
+    ],
+    "sans-serif": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "system-ui": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "ui-sans-serif": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "untitled sans": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.satchel-page.com/",
+      "selector": "display:none;visibility:hidden\n\n    :root",
+      "declarations": "--color-swatch-brown: rgb(97, 62, 46);\n      --color-swatch-green: rgb(45, 79, 45);"
+    },
+    {
+      "source": "https://www.satchel-page.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.satchel-page.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.satchel-page.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.satchel-page.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.satchel-page.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.satchel-page.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css",
+      "selector": ":root",
+      "declarations": "--loop-primary-color: #030712;\n  --loop-text-color: white;\n  --loop-badge-background: #F9FAFB;\n  --loop-badge-text: #374151;\n  --loop-button-background: #D1D5DB;\n  --loop-button-text: #1F2937;\n\n  --loop-onstore-button-padding: 14px 16px;\n  --loop-onstore-checkout-background: #030712;\n  --loop-onstore-checkout-text-color: white;\n  --loop-onstore-button-radius: 0;\n  --loop-onstore-button-gap: 0.25rem;\n  --loop-onstore-add-more-background: white;\n  --loop-onstore-add-more-text-color: black;\n  --loop-onstore-add-more-border: black;\n  --loop-onstore-casing: uppercase;"
+    },
+    {
+      "source": "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css",
+      "selector": ".loop-returns-modal__header",
+      "declarations": "color: #3256e5;\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n  padding: 15px 20px;\n  border-bottom: 1px solid #eaeaea;\n  font-size: 1.25rem;\n  font-weight: 500;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Satchel & Page leather bags",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.satchel-page.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.satchel-page.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.satchel-page.com/"
+      ]
+    },
+    "colors.ink-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.satchel-page.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.satchel-page.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.satchel-page.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "colors.accent-brown": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.satchel-page.com/"
+      ]
+    },
+    "colors.accent-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.satchel-page.com/"
+      ]
+    },
+    "colors.accent-link": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "colors.placeholder": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.satchel-page.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.overlay": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.satchel-page.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.graphite": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "colors.near-black": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.satchel-page.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.material-swatch": {
+      "status": "inferred"
+    }
+  }
+}

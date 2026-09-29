@@ -1,0 +1,802 @@
+{
+  "source_url": "https://lillebaby.com",
+  "final_url": "https://www.lillebaby.com/",
+  "captured_at": "2026-09-28T09:58:51.115467+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://lillebaby.com",
+      "final_url": "https://www.lillebaby.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "efed90b119ae1f341c3df515042e2837e422225e38b91111885f75d90303fd3b",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188",
+      "final_url": "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "714a4d07c8dfe290a37bbe520dfce6c292ead14769c1d8e9f4ae027568d4a6e3",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.lillebaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.lillebaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#111111": {
+      "count": 153,
+      "sources": [
+        "https://www.lillebaby.com/",
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#ffffff": {
+      "count": 130,
+      "sources": [
+        "https://www.lillebaby.com/",
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188",
+        "https://www.lillebaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 44,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#000000": {
+      "count": 25,
+      "sources": [
+        "https://www.lillebaby.com/",
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#efefed": {
+      "count": 21,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#cfb52c": {
+      "count": 19,
+      "sources": [
+        "https://www.lillebaby.com/",
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#d67972": {
+      "count": 17,
+      "sources": [
+        "https://www.lillebaby.com/",
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#b6b6b6": {
+      "count": 9,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 7,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#0000001a": {
+      "count": 7,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#d02e2e": {
+      "count": 7,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#baa328": {
+      "count": 6,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#cccccc": {
+      "count": 5,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#00000017": {
+      "count": 5,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 5,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#1c1d1d": {
+      "count": 4,
+      "sources": [
+        "https://www.lillebaby.com/"
+      ]
+    },
+    "#dbc553": {
+      "count": 4,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#56ad6a": {
+      "count": 4,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#1111110d": {
+      "count": 4,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#f7c1a7": {
+      "count": 3,
+      "sources": [
+        "https://www.lillebaby.com/",
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 3,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#999999": {
+      "count": 3,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#73706d": {
+      "count": 2,
+      "sources": [
+        "https://www.lillebaby.com/"
+      ]
+    },
+    "#fafafa": {
+      "count": 2,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 2,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#fff6f6": {
+      "count": 2,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#1111111a": {
+      "count": 2,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#333333": {
+      "count": 2,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#002b45": {
+      "count": 2,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 1,
+      "sources": [
+        "https://www.lillebaby.com/"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 1,
+      "sources": [
+        "https://www.lillebaby.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://www.lillebaby.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://www.lillebaby.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://www.lillebaby.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://www.lillebaby.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://www.lillebaby.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://www.lillebaby.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://www.lillebaby.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://www.lillebaby.com/"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 1,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 1,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#3fb8af": {
+      "count": 1,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#ebebeb": {
+      "count": 1,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#e8e7e6": {
+      "count": 1,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#b8b8b8": {
+      "count": 1,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 1,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 1,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#00000026": {
+      "count": 1,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#222222": {
+      "count": 1,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#faf7f5": {
+      "count": 1,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#51ab62": {
+      "count": 1,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#e1e1e1": {
+      "count": 1,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#ecfef0": {
+      "count": 1,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#11111126": {
+      "count": 1,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#444444": {
+      "count": 1,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#ffffff0d": {
+      "count": 1,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "#11111114": {
+      "count": 1,
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    }
+  },
+  "font_families": {
+    "Consolas": [
+      "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+    ],
+    "Rubik": [
+      "https://www.lillebaby.com/"
+    ],
+    "monospace": [
+      "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+    ],
+    "object-fit: cover": [
+      "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+    ],
+    "slick": [
+      "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.lillebaby.com/",
+      "selector": ":root",
+      "declarations": "--typeHeaderPrimary: Rubik;\n    --typeHeaderFallback: sans-serif;\n    --typeHeaderSize: 36px;\n    --typeHeaderWeight: 400;\n    --typeHeaderLineHeight: 1.2;\n    --typeHeaderSpacing: 0.0em;\n\n    --typeBasePrimary:Rubik;\n    --typeBaseFallback:sans-serif;\n    --typeBaseSize: 18px;\n    --typeBaseWeight: 400;\n    --typeBaseSpacing: 0.0em;\n    --typeBaseLineHeight: 1.4;\n\n    --typeCollectionTitle: 18px;\n\n    --iconWeight: 4px;\n    --iconLinecaps: round;\n\n    \n      --buttonRadius: 0px;\n    \n\n    --colorGridOverlayOpacity: 0.1;"
+    },
+    {
+      "source": "https://www.lillebaby.com/",
+      "selector": "t-weight: bold; text-transform: uppercase; letter-spacing: 0.05em; font-size: 0.7em;\nheight: 0; padding-bottom: 100.0%;\nheight: 0; padding-bottom: 100.0%;\n.news",
+      "declarations": "background-color: #f9f9f9;\n    color: #1c1d1d;"
+    },
+    {
+      "source": "https://www.lillebaby.com/",
+      "selector": ".newsletter-sections--17750497558646__header .newsletter__input::-webkit-input-placeholder",
+      "declarations": "color: #1c1d1d;"
+    },
+    {
+      "source": "https://www.lillebaby.com/",
+      "selector": ".newsletter-sections--17750497558646__header .newsletter__input::-moz-placeholder",
+      "declarations": "color: #1c1d1d;"
+    },
+    {
+      "source": "https://www.lillebaby.com/",
+      "selector": ".newsletter-sections--17750497558646__header .newsletter__input::-ms-input-placeholder",
+      "declarations": "color: #1c1d1d;"
+    },
+    {
+      "source": "https://www.lillebaby.com/",
+      "selector": ".second_nav_inner ul li .button",
+      "declarations": "font-size:12px;min-width: 100px;padding:5.5px 10px;letter-spacing:0;background-color:#fff;color:#000;text-decoration:none;font-weight:bold;text-align:center;"
+    },
+    {
+      "source": "https://www.lillebaby.com/",
+      "selector": ".slideshow__slide--template--14827464917110__8b444402-94dd-41e2-9cfa-3fd86eb39289-image-2 .btn",
+      "declarations": "background: #ffffff !important;\n                    border: none;\n                      color: #000 !important;"
+    },
+    {
+      "source": "https://www.lillebaby.com/",
+      "selector": ".slideshow__slide--template--14827464917110__8b444402-94dd-41e2-9cfa-3fd86eb39289-image-1 .btn",
+      "declarations": "background: #ffffff !important;\n                    border: none;\n                      color: #000 !important;"
+    },
+    {
+      "source": "https://www.lillebaby.com/",
+      "selector": ".slideshow__slide--2167c819-e018-45a7-abc6-f369a4b48e46 .btn",
+      "declarations": "background: #ffffff !important;\n                    border: none;\n                      color: #000 !important;"
+    },
+    {
+      "source": "https://www.lillebaby.com/",
+      "selector": ".flex-grid__item--sections--14507260543094__3004f560-41f2-485a-9bfe-0394ab85851c-16801232938df9a5e4-0 .btn",
+      "declarations": "background: #ffffff !important;\n              border: none !important;\n                color: #000 !important;"
+    },
+    {
+      "source": "https://www.lillebaby.com/",
+      "selector": ".flex-grid__item--sections--14507260543094__3004f560-41f2-485a-9bfe-0394ab85851c-16801232938df9a5e4-1 .btn",
+      "declarations": "background: #ffffff !important;\n              border: none !important;\n                color: #000 !important;"
+    },
+    {
+      "source": "https://www.lillebaby.com/",
+      "selector": ".flex-grid__item--33294195-6b9f-48c8-bdd8-387507247f68 .btn",
+      "declarations": "background: #ffffff !important;\n              border: none !important;\n                color: #000 !important;"
+    },
+    {
+      "source": "https://www.lillebaby.com/",
+      "selector": ".flex-grid__item--d7534d87-4c8f-40eb-8079-8b6fde889229 .btn",
+      "declarations": "background: #ffffff !important;\n              border: none !important;\n                color: #000 !important;"
+    },
+    {
+      "source": "https://www.lillebaby.com/",
+      "selector": ".babylistButton",
+      "declarations": "margin: 10px 0; width: 100%; padding: 15px 20px; background-color: white !important; color: black !important; border: black 2px solid !important;"
+    },
+    {
+      "source": "https://www.lillebaby.com/",
+      "selector": ".textinbutton",
+      "declarations": "font-size: 1em; color: white;"
+    },
+    {
+      "source": "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188",
+      "selector": "@charset \"UTF-8\";:root",
+      "declarations": "--colorBtnPrimary:#cfb52c;--colorBtnPrimaryLight:#dbc553;--colorBtnPrimaryDim:#baa328;--colorBtnPrimaryText:#111111;--colorCartDot:#cfb52c;--colorLink:#111111;--colorTextBody:#111111;--colorPrice:#111111;--colorTextSavings:#d67972;--colorSaleTag:#d67972;--colorSaleTagText:#ffffff;--colorBody:#ffffff;--colorBodyDim:#f2f2f2;--colorFooter:#efefed;--colorFooterText:#111111;--colorBorder:#dddddd;--colorNav:#ffffff;--colorNavText:#111111;--colorAnnouncement:#efefed;--colorAnnouncementText:#111111;--colorHeroText:#ffffff;--colorModalBg:#efefed;--colorImageOverlay:#111111;--colorImageOverlayOpacity:0;--colorImageOverlayTextShadow:0;--colorSmallImageBg:#ffffff;--colorLargeImageBg:#ffffff;--colorGridO"
+    },
+    {
+      "source": "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188",
+      "selector": ":root",
+      "declarations": "--grid-gutter:22px;--drawer-gutter:30px"
+    },
+    {
+      "source": "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188",
+      "selector": ".flickity-button",
+      "declarations": "position:absolute;border:none;color:#111;color:var(--colorBtnPrimaryText);background:#cfb52c;background:var(--colorBtnPrimary);border-radius:50%"
+    },
+    {
+      "source": "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188",
+      "selector": ".hero .flickity-button",
+      "declarations": "color:#111;color:var(--colorTextBody);background-color:#fff;background-color:var(--colorBody);box-shadow:0 5px 5px #0000001a"
+    },
+    {
+      "source": "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188",
+      "selector": ".hotspot__button-content",
+      "declarations": "color:#111;color:var(--colorTextBody);background-color:#fff;background-color:var(--colorBody);opacity:0;visibility:hidden;pointer-events:none;padding:1rem;position:absolute;top:calc(100% + 1rem);left:50%;transform:translate(-50%);transition:opacity .3s ease-in-out;min-width:5rem;border-radius:5px;box-shadow:3px 3px 10px 3px #0003"
+    },
+    {
+      "source": "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188",
+      "selector": ".hotspot__button-content:before",
+      "declarations": "position:absolute;top:-10px;left:50%;content:\"\";width:0px;height:0px;border-style:solid;border-width:0 5px 10px 5px;transform:translate(-50%);border-color:transparent transparent #ffffff transparent;border-color:transparent transparent var(--colorBody) transparent"
+    },
+    {
+      "source": "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188",
+      "selector": ".comparison__button:before",
+      "declarations": "content:\"\";width:2px;position:absolute;background-color:#fff!important"
+    },
+    {
+      "source": "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188",
+      "selector": ".comparison__button:after",
+      "declarations": "content:\"\";width:2px;height:50%;position:absolute;bottom:0%;left:50%;transform:translate(-50%);background-color:#fff!important"
+    },
+    {
+      "source": "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188",
+      "selector": "product-recommendations[data-intent=complementary] .grid__image-ratio",
+      "declarations": "background-color:transparent"
+    },
+    {
+      "source": "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188",
+      "selector": "body,html",
+      "declarations": "background-color:#fff;background-color:var(--colorBody);color:#111;color:var(--colorTextBody)"
+    },
+    {
+      "source": "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188",
+      "selector": ".faux-select,body,button,input,select,textarea",
+      "declarations": "font-family:var(--typeBasePrimary),var(--typeBaseFallback);font-size:calc(var(--typeBaseSize)*.92);letter-spacing:var(--typeBaseSpacing);line-height:var(--typeBaseLineHeight)"
+    },
+    {
+      "source": "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188",
+      "selector": ".h1,.h2,.h3,h1,h2,h3",
+      "declarations": "font-family:var(--typeHeaderPrimary),var(--typeHeaderFallback);font-weight:var(--typeHeaderWeight);letter-spacing:var(--typeHeaderSpacing);line-height:var(--typeHeaderLineHeight)"
+    },
+    {
+      "source": "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188",
+      "selector": "button",
+      "declarations": "overflow:visible;color:currentColor"
+    },
+    {
+      "source": "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188",
+      "selector": ".btn,.rte .btn,.shopify-payment-button .shopify-payment-button__button--unbranded,.spr-container .spr-button,.spr-container .spr-summary-actions a",
+      "declarations": "line-height:1.42;text-decoration:none;text-align:center;white-space:normal;font-size:calc(var(--typeBaseSize) - 4px);font-size:max(calc(var(--typeBaseSize) - 4px),13px);font-weight:700;text-transform:uppercase;letter-spacing:.125em;display:inline-block;padding:11px 20px;margin:0;width:auto;min-width:90px;vertical-align:middle;cursor:pointer;border:1px solid transparent;-webkit-user-select:none;user-select:none;-webkit-appearance:none;-moz-appearance:none;border-radius:var(--buttonRadius);color:#111;color:var(--colorBtnPrimaryText);background:#cfb52c;background:var(--colorBtnPrimary)"
+    },
+    {
+      "source": "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188",
+      "selector": ".btn:hover,.rte .btn:hover,.shopify-payment-button .shopify-payment-button__button--unbranded:hover,.spr-container .spr-button:hover,.spr-container .spr-summary",
+      "declarations": "color:#111;color:var(--colorBtnPrimaryText);background-color:#cfb52c;background-color:var(--colorBtnPrimary)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Baby Carriers, Ring Slings, and Baby Wraps\n– LÍLLÉbaby",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lillebaby.com/",
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "colors.primary-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "colors.primary-dim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lillebaby.com/",
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lillebaby.com/",
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188",
+        "https://www.lillebaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lillebaby.com/",
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lillebaby.com/"
+      ]
+    },
+    "colors.accent-savings": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lillebaby.com/",
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lillebaby.com/",
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188",
+        "https://www.lillebaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-footer": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "colors.surface-subtle": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lillebaby.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lillebaby.com/",
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188"
+      ]
+    },
+    "colors.on-accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.lillebaby.com/",
+        "https://www.lillebaby.com/cdn/shop/t/164/assets/theme.css?v=52530656711182546681758635188",
+        "https://www.lillebaby.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.fit-quiz-module": {
+      "status": "inferred"
+    }
+  }
+}

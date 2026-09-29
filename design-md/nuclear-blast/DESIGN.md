@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Nuclear Blast
-description: A heavy metal record label and online shop that wears its darkness as a design principle, not a mood. The near-black canvas of `#020203` — a void just off pure black — serves as the foundational color, making every album cover, band photo, and merchandise mockup float like a stage-lit performance. Against this abyss, the brand's primary red `#de2a2a` strikes with the force of a downstroke: it powers the cart icon, the "Add to Cart" button, and the sale badges that punctuate product grids. The palette is deliberately restrained — `#121212` for secondary surfaces, `#f0f0f0` for body text on dark backgrounds, and `#dedede` for muted copy — so that the real color comes from the artists' artwork. Typography defaults to Arial and Helvetica at modest sizes, never competing with the visual noise of metal album art. The shop runs on Shopify, which means checkout flows inherit a separate color system (the extracted `#1f77b4`, `#ff7f0e`, `#2ca02c` are Shopify Pay and third-party payment widgets, not brand choices). Navigation is a fixed top bar with genre dropdowns, a search icon, and a cart badge that glows `{colors.primary}`. Product cards use `{rounded.sm}` corners on thumbnails, but the overall layout is hard-edged and utilitarian — this is a store built for browsing band merch, not for aesthetic browsing.
+name: "Nuclear Blast"
+source_url: "https://www.nuclearblast.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A heavy metal record label and online shop that wears its darkness as a design principle, not a mood. The near-black canvas of `#020203` — a void just off pure black — serves as the foundational color, making every album cover, band photo, and merchandise mockup float like a stage-lit performance. Against this abyss, the brand's primary red `#de2a2a` strikes with the force of a downstroke: it powers the cart icon, the "Add to Cart" button, and the sale badges that punctuate product grids. The palette is deliberately restrained — `#121212` for secondary surfaces, `#f0f0f0` for body text on dark backgrounds, and `#dedede` for muted copy — so that the real color comes from the artists' artwork. Typography defaults to Arial and Helvetica at modest sizes, never competing with the visual noise of metal album art. The shop runs on Shopify, which means checkout flows inherit a separate color system (the extracted `#1f77b4`, `#ff7f0e`, `#2ca02c` are Shopify Pay and third-party payment widgets, not brand choices). Navigation is a fixed top bar with genre dropdowns, a search icon, and a cart badge that glows `{colors.primary}`. Product cards use `{rounded.sm}` corners on thumbnails, but the overall layout is hard-edged and utilitarian — this is a store built for browsing band merch, not for aesthetic browsing.
 
 colors:
   primary: "#de2a2a"
@@ -276,6 +280,8 @@ components:
 - Search bar collapses to an icon on mobile, expanding to full-screen overlay on tap.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for most components could not be reliably extracted from the live site. The `primary-active` and `primary-disabled` values are estimated based on typical darkening patterns.
 - Error styling for form inputs (validation states, error messages) was not observed.

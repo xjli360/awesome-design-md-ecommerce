@@ -1,0 +1,896 @@
+{
+  "source_url": "https://magneticme.com",
+  "final_url": "https://magneticme.com/",
+  "captured_at": "2026-09-28T10:15:41.873608+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://magneticme.com",
+      "final_url": "https://magneticme.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "d323c589d79e7bae22ac03762fa8a628e39577d41220d78f0e08d74007bceca2",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://use.typekit.net/rwu1bdr.css",
+      "final_url": "https://use.typekit.net/rwu1bdr.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "296732afffd092dd285bc6e7a79235878059b1bae13692557dfd7bd439b28a4e",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+      "final_url": "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0f9a13e3d929ca64e795b11828283ce0d707e28e64f046b5bc28814b58278fb1",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://magneticme.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://magneticme.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "39441f1cb6840e4601467c2ea1fbe565e82c4ca6715ceb893847370a8c7532a3",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 40,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+        "https://magneticme.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#e0e4e4": {
+      "count": 27,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 17,
+      "sources": [
+        "https://magneticme.com/",
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+        "https://magneticme.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "#000000": {
+      "count": 17,
+      "sources": [
+        "https://magneticme.com/",
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#f5efe8": {
+      "count": 15,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#f8f6f5": {
+      "count": 10,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#868888": {
+      "count": 9,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#ececee": {
+      "count": 6,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#f7f7f5": {
+      "count": 5,
+      "sources": [
+        "https://magneticme.com/",
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#e73c3e": {
+      "count": 5,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#6771d8": {
+      "count": 3,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#9ccdd1": {
+      "count": 3,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#14098b": {
+      "count": 2,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#e4893d": {
+      "count": 2,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#e9dc66": {
+      "count": 2,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#c764c5": {
+      "count": 2,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 2,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 2,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#3f3f3f": {
+      "count": 2,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#666666": {
+      "count": 2,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#777777": {
+      "count": 2,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#f6f2e9": {
+      "count": 2,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#f5efe880": {
+      "count": 2,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#ff7a0000": {
+      "count": 2,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://magneticme.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#030712": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 1,
+      "sources": [
+        "https://magneticme.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 1,
+      "sources": [
+        "https://magneticme.com/"
+      ]
+    },
+    "#5c5f62": {
+      "count": 1,
+      "sources": [
+        "https://magneticme.com/"
+      ]
+    },
+    "#e72c3e": {
+      "count": 1,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#eb5874": {
+      "count": 1,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#f093a7": {
+      "count": 1,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#53b49c": {
+      "count": 1,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#a4bcf5": {
+      "count": 1,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#e5893c": {
+      "count": 1,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#f4edb2": {
+      "count": 1,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#faf7f3": {
+      "count": 1,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#e5adf0": {
+      "count": 1,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#cabffd": {
+      "count": 1,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#952d40": {
+      "count": 1,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#4b1ce2": {
+      "count": 1,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#3b4d7b": {
+      "count": 1,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#f2a982": {
+      "count": 1,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#e25d37": {
+      "count": 1,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#a54118": {
+      "count": 1,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#a60e3c": {
+      "count": 1,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#b4190f": {
+      "count": 1,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#c3c3c3": {
+      "count": 1,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#c1e3e6": {
+      "count": 1,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#f3d6f9": {
+      "count": 1,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#c7dfef": {
+      "count": 1,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#ffffff14": {
+      "count": 1,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#be7c7d": {
+      "count": 1,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#f8f7f5": {
+      "count": 1,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#f5efe9": {
+      "count": 1,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#8886864f": {
+      "count": 1,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#d3cfcb": {
+      "count": 1,
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://magneticme.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://magneticme.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://magneticme.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Apple Color Emoji": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Arial": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "BlinkMacSystemFont": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Helvetica Neue": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Magnetic Embroidery Block": [
+      "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+    ],
+    "Magnetic Embroidery Tennessee": [
+      "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+    ],
+    "Noto Color Emoji !important": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Noto Color Emoji' !important": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Noto Sans": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Roboto": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "SF Pro Text": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "SangBleu OG Sans": [
+      "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+    ],
+    "SangBleu OG Sans!important": [
+      "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+    ],
+    "Segoe UI": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Segoe UI Emoji": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Segoe UI Symbol": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Serenity": [
+      "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+    ],
+    "Serenity!important": [
+      "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+    ],
+    "sans-serif": [
+      "https://use.typekit.net/rwu1bdr.css",
+      "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "sans-serif!important": [
+      "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+    ],
+    "serenity": [
+      "https://use.typekit.net/rwu1bdr.css"
+    ],
+    "serif": [
+      "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+    ],
+    "serif!important": [
+      "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+    ],
+    "system-ui": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "ui-sans-serif": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "untitled sans": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://magneticme.com/",
+      "selector": "#md-app-embed__modal .md-modal__header__title span, #md-app-embed__modal .md-modal__header__title h2",
+      "declarations": "color: #000000 !important;\n        line-height: 1.75em;"
+    },
+    {
+      "source": "https://magneticme.com/",
+      "selector": "#md-app-embed__modal .md-modal__bodyContent p",
+      "declarations": "color: #000000 !important;"
+    },
+    {
+      "source": "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+      "selector": "button,input,select,optgroup,textarea",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0"
+    },
+    {
+      "source": "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+      "selector": "::file-selector-button",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0"
+    },
+    {
+      "source": "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+      "selector": ".btn-2",
+      "declarations": "background:var(--color-white);background:linear-gradient(to left,var(--color-white)50%,var(--color-yellow)50%)right;box-sizing:border-box;height:40px;font-family:var(--font-serenity);letter-spacing:.56px;text-transform:uppercase;background-size:200%;flex-shrink:0;justify-content:center;align-items:center;gap:10px;min-width:120px;padding:11px 16px;font-size:14px;font-style:normal;font-weight:600;line-height:24px;transition:all .5s ease-out;display:inline-flex"
+    },
+    {
+      "source": "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+      "selector": ".btn-1",
+      "declarations": "background-color:var(--color-white);color:var(--color-black);cursor:pointer;text-transform:uppercase;height:40px;font-family:var(--font-serenity);letter-spacing:.56px;flex-shrink:0;justify-content:center;align-items:center;gap:10px;padding:11px 16px;font-size:14px;font-style:normal;font-weight:600;line-height:24px;transition:background-color .3s ease-in-out,transform .3s ease-in-out;display:inline-flex"
+    },
+    {
+      "source": "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+      "selector": ".btn-1:hover",
+      "declarations": "background-color:var(--color-yellow);transform:rotate(4deg)"
+    },
+    {
+      "source": "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+      "selector": ".btn-1:hover.is-hover-light-orange",
+      "declarations": "background-color:var(--color-light-orange);transform:rotate(-4deg)"
+    },
+    {
+      "source": "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+      "selector": ".btn-1:hover.is-hover-aqua",
+      "declarations": "background-color:var(--color-aqua)"
+    },
+    {
+      "source": "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+      "selector": ".btn-1:hover.is-hover-violet",
+      "declarations": "background-color:var(--color-violet);transform:rotate(-4deg)"
+    },
+    {
+      "source": "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+      "selector": ".btn-1:hover.is-hover-light-pink",
+      "declarations": "background-color:var(--color-light-pink)"
+    },
+    {
+      "source": "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+      "selector": ".btn-1:hover.is-hover-light-green",
+      "declarations": "background-color:var(--color-light-green);transform:rotate(-4deg)"
+    },
+    {
+      "source": "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+      "selector": ".btn",
+      "declarations": "background-color:var(--color-white);color:var(--color-black);border:1px solid var(--color-black);text-transform:uppercase;height:40px;font-family:var(--font-serenity);letter-spacing:.56px;border-radius:0;flex-shrink:0;justify-content:center;align-items:center;gap:10px;padding:11px 16px;font-size:14px;font-style:normal;font-weight:600;line-height:24px;transition:background-color .3s ease-in-out,transform .3s ease-in-out;display:inline-flex"
+    },
+    {
+      "source": "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+      "selector": ".btn:hover",
+      "declarations": "background-color:var(--color-black);color:var(--color-white)"
+    },
+    {
+      "source": "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+      "selector": ".btn-negative",
+      "declarations": "background-color:var(--color-black);color:var(--color-white);border:1px solid var(--color-black);height:40px;font-family:var(--font-serenity);letter-spacing:.56px;flex-shrink:0;justify-content:center;align-items:center;gap:10px;padding:11px 16px;font-size:14px;font-style:normal;font-weight:600;line-height:24px;transition:background-color .3s ease-in-out,transform .3s ease-in-out;display:inline-flex"
+    },
+    {
+      "source": "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+      "selector": ".btn-negative:hover",
+      "declarations": "background-color:var(--color-white);color:var(--color-black)"
+    },
+    {
+      "source": "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+      "selector": ".btn-transparent",
+      "declarations": "background-color:#0000"
+    },
+    {
+      "source": "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+      "selector": ".btn-transparent:hover",
+      "declarations": "background-color:var(--color-black)"
+    },
+    {
+      "source": "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+      "selector": ".font-body-weight",
+      "declarations": "--tw-font-weight:var(--font-weight-body-weight);font-weight:var(--font-weight-body-weight)"
+    },
+    {
+      "source": "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+      "selector": "body",
+      "declarations": "background-color:var(--color-cream);color:var(--color-black);-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;--padding-mobile:20px;--padding-desktop:40px;--padding-desktop-xl:60px;font-family:Serenity,serif;font-weight:400"
+    },
+    {
+      "source": "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+      "selector": "body[data-template=page][data-template-suffix=faq],body[data-template=collection],body[data-template=search]",
+      "declarations": "background-color:var(--color-white)!important"
+    },
+    {
+      "source": "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+      "selector": ".prose h1",
+      "declarations": "font-family:SangBleu OG Sans,serif;font-size:32px;font-weight:700;line-height:40px"
+    },
+    {
+      "source": "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+      "selector": ".prose.article-body img,.prose.article-body .video-wrapper",
+      "declarations": "margin-block:calc(var(--spacing)*10);background-color:var(--color-white);width:100%;position:relative"
+    },
+    {
+      "source": "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+      "selector": ".prose.article-body blockquote>*",
+      "declarations": "padding:calc(var(--spacing)*0);font-family:SangBleu OG Sans,serif;font-size:20px;font-weight:700;line-height:30px;margin-top:calc(var(--spacing)*0)!important"
+    },
+    {
+      "source": "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+      "selector": ".prose.article-body blockquote>:last-child",
+      "declarations": "margin:calc(var(--spacing)*0);padding:calc(var(--spacing)*0);letter-spacing:.56px;text-transform:uppercase;font-family:Serenity,sans-serif;font-size:14px;font-style:normal;font-weight:600;line-height:24px"
+    },
+    {
+      "source": "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+      "selector": ".prose.article-body .video-wrapper",
+      "declarations": "border-style:var(--tw-border-style);--tw-shadow:0 0 #0000;box-shadow:var(--tw-inset-shadow),var(--tw-inset-ring-shadow),var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow);border-width:0"
+    },
+    {
+      "source": "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+      "selector": ".prose.article-body .play-btn",
+      "declarations": "--tw-translate-x: -50% ;--tw-translate-y: -50% ;translate:var(--tw-translate-x)var(--tw-translate-y);border-style:var(--tw-border-style);border-width:1px;border-color:var(--color-white);border-radius:100px;justify-content:center;align-items:center;padding:35px;display:flex;position:absolute;top:50%;left:50%"
+    },
+    {
+      "source": "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+      "selector": ".prose.article-body li",
+      "declarations": "font-family:SangBleu OG Sans,serif;font-size:14px;font-weight:700;line-height:20px"
+    },
+    {
+      "source": "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+      "selector": ".prose.is-page h1,.prose.is-page h2,.prose.is-page h3,.prose.is-page h4,.prose.is-page h5,.prose.is-page h6,.prose.is-page p",
+      "declarations": "margin-top:calc(var(--spacing)*0);margin-bottom:calc(var(--spacing)*5);color:var(--color-black)"
+    },
+    {
+      "source": "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+      "selector": ".prose.article-body blockquote",
+      "declarations": "color:var(--color-black);font-family:SangBleu OG Sans,serif;font-size:14px;font-weight:700;line-height:20px"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Magnetic Me | More Time For the Moments That Truly Matter",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://magneticme.com/",
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://magneticme.com/",
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://magneticme.com/",
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+        "https://magneticme.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://magneticme.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://magneticme.com/",
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css",
+        "https://magneticme.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "colors.accent-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "colors.accent-yellow": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "colors.accent-aqua": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "colors.accent-violet": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "colors.accent-orange": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "colors.accent-pink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "colors.accent-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "colors.accent-indigo": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://magneticme.com/cdn/shop/t/540/assets/theme.mfmDWwQs.min.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.fabric-swatch-selector": {
+      "status": "inferred"
+    }
+  }
+}

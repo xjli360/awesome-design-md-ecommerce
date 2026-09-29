@@ -1,13 +1,17 @@
 ---
 version: alpha
-name: Greenworks
-description: Where most power tool manufacturers reach for safety-orange or battleship gray, Greenworks doubles down on the one color its products are designed to improve — lawn green. The brand's primary, a vivid lime-weighted green, sits in direct contrast against the near-black charcoal (#313131) that structures every handle, housing, and headline. The effect is less "outdoor equipment catalog" and more "consumer electronics launch page": a two-note palette that positions battery power as an upgrade rather than a tradeoff. The charcoal (#313131) appears in the extracted data as the only confirmed color, anchoring navigation backgrounds, text, and footer fills — every headline and label resolves against it with high contrast and zero softness.
+name: "Greenworks"
+source_url: "https://www.greenworkstools.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Where most power tool manufacturers reach for safety-orange or battleship gray, Greenworks doubles down on the one color its products are designed to improve — lawn green. The brand's primary, a vivid lime-weighted green, sits in direct contrast against the near-black charcoal (#313131) that structures every handle, housing, and headline. The effect is less "outdoor equipment catalog" and more "consumer electronics launch page": a two-note palette that positions battery power as an upgrade rather than a tradeoff. The charcoal (#313131) appears in the extracted data as the only confirmed color, anchoring navigation backgrounds, text, and footer fills — every headline and label resolves against it with high contrast and zero softness.
 
-Typography falls entirely on the system sans-serif stack; no custom web font was identifiable behind the anti-bot layer the site serves on cold requests. The brand compensates with weight and scale contrast: bold 700-weight display sizes for hero claims like "More Power. Less Noise." drop directly into compact body at 15–16px with minimal mid-scale ceremony. The overall rhythm reads close to appliance retail — structured product grids, generous white canvas ({colors.canvas}), tool photography that fills the frame edge to edge on seamless white or soft gray ({colors.surface-soft}).
+  Typography falls entirely on the system sans-serif stack; no custom web font was identifiable behind the anti-bot layer the site serves on cold requests. The brand compensates with weight and scale contrast: bold 700-weight display sizes for hero claims like "More Power. Less Noise." drop directly into compact body at 15–16px with minimal mid-scale ceremony. The overall rhythm reads close to appliance retail — structured product grids, generous white canvas ({colors.canvas}), tool photography that fills the frame edge to edge on seamless white or soft gray ({colors.surface-soft}).
 
-Buttons are rectangular with minimal radius ({rounded.xs} to {rounded.sm}), communicating durability over friendliness. The primary CTA carries the brand green, reversed in white ({colors.on-primary}). Secondary buttons use a dark charcoal outline on the white canvas, keeping the green reserved for highest-priority actions — "Shop Now," "Find a Dealer," "Compare Models." Product cards surface the tool isolated on light ground with a voltage-tier badge — 24V, 40V, 60V, 80V — as the primary product differentiator, rendered in {typography.badge} weight against a charcoal chip. These voltage labels are the closest the brand has to a product family mark.
+  Buttons are rectangular with minimal radius ({rounded.xs} to {rounded.sm}), communicating durability over friendliness. The primary CTA carries the brand green, reversed in white ({colors.on-primary}). Secondary buttons use a dark charcoal outline on the white canvas, keeping the green reserved for highest-priority actions — "Shop Now," "Find a Dealer," "Compare Models." Product cards surface the tool isolated on light ground with a voltage-tier badge — 24V, 40V, 60V, 80V — as the primary product differentiator, rendered in {typography.badge} weight against a charcoal chip. These voltage labels are the closest the brand has to a product family mark.
 
-The eco signal is embedded in the product function, not the palette: there are no muted sages, no natural textures, no earth tones. The green is vivid and unambiguous — chromatically demanding — and the near-black is absolute. Together they stake a confident, industrial-meets-sustainable position that is legible at banner scale and at thumbnail size without a single soft compromise.
+  The eco signal is embedded in the product function, not the palette: there are no muted sages, no natural textures, no earth tones. The green is vivid and unambiguous — chromatically demanding — and the near-black is absolute. Together they stake a confident, industrial-meets-sustainable position that is legible at banner scale and at thumbnail size without a single soft compromise.
 
 colors:
   primary: "#3CB849"
@@ -361,6 +365,8 @@ components:
 - Footer columns collapse to single-column accordion at < 744px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Primary brand green not extracted** — the site returned a Cloudflare challenge page ("Just a moment...") rather than rendered content; #3CB849 is inferred from brand-knowledge of Greenworks' product and marketing photography, not confirmed from live CSS. Verify against actual computed styles or brand kit before shipping.
 - **Only one hex confirmed** — #313131 is the sole extracted color; all other palette values (greens, grays, surface tones) are constructed from brand reasoning and standard design-system practice.

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Europa Editions
-description: A small press that wraps literary fiction in a distinctive teal-green signal — #098782 — that appears on every book spine, footer stripe, and primary button, a color more at home in a Mediterranean tide pool than on a publisher's website. The palette is restrained but not ascetic: #098782 anchors the brand, supported by a warm accent red (#d0091c) for price tags and sale badges, a cool secondary teal (#42a19d) for secondary actions, and a full gray spectrum from #222222 ink to #f5f5f5 canvas. The site reads as a clean, typographic-first experience — Georgia and Helvetica Neue in the font stack suggest a respect for print tradition, while generous whitespace and soft card radii (`{rounded.md}`) keep the digital reading room calm. Navigation is minimal: a top bar with logo, search, and cart, then a category strip of genres. Book covers do the heavy lifting — the UI steps back, using thin hairlines (`#eceded`) and muted body text (`#6f7072`) to frame rather than compete. The overall feeling is of a well-edited bookstore where every element has earned its place.
+name: "Europa Editions"
+source_url: "https://www.europaeditions.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A small press that wraps literary fiction in a distinctive teal-green signal — #098782 — that appears on every book spine, footer stripe, and primary button, a color more at home in a Mediterranean tide pool than on a publisher's website. The palette is restrained but not ascetic: #098782 anchors the brand, supported by a warm accent red (#d0091c) for price tags and sale badges, a cool secondary teal (#42a19d) for secondary actions, and a full gray spectrum from #222222 ink to #f5f5f5 canvas. The site reads as a clean, typographic-first experience — Georgia and Helvetica Neue in the font stack suggest a respect for print tradition, while generous whitespace and soft card radii (`{rounded.md}`) keep the digital reading room calm. Navigation is minimal: a top bar with logo, search, and cart, then a category strip of genres. Book covers do the heavy lifting — the UI steps back, using thin hairlines (`#eceded`) and muted body text (`#6f7072`) to frame rather than compete. The overall feeling is of a well-edited bookstore where every element has earned its place.
 
 colors:
   primary: "#098782"
@@ -329,6 +333,8 @@ components:
 - Hero banner: large padding reduces by 50% on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for most components were not reliably extracted from the live site CSS — the extracted font-family declarations were heavily media-query-scoped and may not represent the full typographic system
 - The exact font stack for body text is inferred from Georgia presence in the extracted list, but the primary font for UI elements (buttons, nav) appears to be Helvetica Neue / Helvetica / Arial — the exact weight and size hierarchy is reconstructed from common publishing patterns

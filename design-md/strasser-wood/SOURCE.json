@@ -1,0 +1,400 @@
+{
+  "source_url": "https://strasserwood.com",
+  "final_url": "https://strasserwood.com/",
+  "captured_at": "2026-09-29T04:15:25.233741+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://strasserwood.com",
+      "final_url": "https://strasserwood.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "9b5348d7cf6399186399c26b0c41ce828f904b2f5a521830e478c28a3eda178b",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Lato:wght@300;400;700&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Lato:wght@300;400;700&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "117e825662c7291e02cde63ff3e9aedabbd44aa520211d1ca2fd6c5b0e64ca4b",
+      "snapshot": "stylesheet-1.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 31,
+      "sources": [
+        "https://strasserwood.com/"
+      ]
+    },
+    "#1b1c18": {
+      "count": 1,
+      "sources": [
+        "https://strasserwood.com/"
+      ]
+    },
+    "#2a2b27": {
+      "count": 1,
+      "sources": [
+        "https://strasserwood.com/"
+      ]
+    },
+    "#3a3b35": {
+      "count": 1,
+      "sources": [
+        "https://strasserwood.com/"
+      ]
+    },
+    "#e3d9d2": {
+      "count": 1,
+      "sources": [
+        "https://strasserwood.com/"
+      ]
+    },
+    "#f0ebe5": {
+      "count": 1,
+      "sources": [
+        "https://strasserwood.com/"
+      ]
+    },
+    "#faf8f5": {
+      "count": 1,
+      "sources": [
+        "https://strasserwood.com/"
+      ]
+    },
+    "#4a4a46": {
+      "count": 1,
+      "sources": [
+        "https://strasserwood.com/"
+      ]
+    },
+    "#888885": {
+      "count": 1,
+      "sources": [
+        "https://strasserwood.com/"
+      ]
+    },
+    "#d0c8c0": {
+      "count": 1,
+      "sources": [
+        "https://strasserwood.com/"
+      ]
+    },
+    "#768a8f": {
+      "count": 1,
+      "sources": [
+        "https://strasserwood.com/"
+      ]
+    },
+    "#68605a": {
+      "count": 1,
+      "sources": [
+        "https://strasserwood.com/"
+      ]
+    },
+    "#b94040": {
+      "count": 1,
+      "sources": [
+        "https://strasserwood.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://strasserwood.com/"
+    ],
+    "Georgia": [
+      "https://strasserwood.com/"
+    ],
+    "Helvetica": [
+      "https://strasserwood.com/"
+    ],
+    "Helvetica Neue": [
+      "https://strasserwood.com/"
+    ],
+    "Lato": [
+      "https://strasserwood.com/",
+      "https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Lato:wght@300;400;700&display=swap"
+    ],
+    "Libre Baskerville": [
+      "https://strasserwood.com/",
+      "https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Lato:wght@300;400;700&display=swap"
+    ],
+    "sans-serif": [
+      "https://strasserwood.com/"
+    ],
+    "serif": [
+      "https://strasserwood.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://strasserwood.com/",
+      "selector": ":root",
+      "declarations": "--charcoal:    #1b1c18;\n  --charcoal-2:  #2a2b27;\n  --charcoal-3:  #3a3b35;\n  --beige:       #e3d9d2;\n  --beige-lt:    #f0ebe5;\n  --warm-white:  #faf8f5;\n  --mid:         #4a4a46;\n  --muted:       #888885;\n  --rule:        #d0c8c0;\n  --accent:      #768a8f;\n  --accent-warm: #68605a;"
+    },
+    {
+      "source": "https://strasserwood.com/",
+      "selector": "body",
+      "declarations": "font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;\n  background: var(--warm-white);\n  color: var(--charcoal);\n  font-weight: 300;\n  -webkit-font-smoothing: antialiased;\n  line-height: 1.5;"
+    },
+    {
+      "source": "https://strasserwood.com/",
+      "selector": ".hero h1",
+      "declarations": "font-family: 'Libre Baskerville', Georgia, serif;\n  font-weight: 400;\n  font-size: clamp(40px, 5.5vw, 76px);\n  line-height: 1.08;\n  letter-spacing: -0.01em;\n  color: #fff;\n  text-shadow: 0 2px 24px rgba(0,0,0,0.25);"
+    },
+    {
+      "source": "https://strasserwood.com/",
+      "selector": ".hero h1 .accent",
+      "declarations": "font-style: italic;\n  font-weight: 400;\n  color: var(--beige);"
+    },
+    {
+      "source": "https://strasserwood.com/",
+      "selector": ".btn-primary",
+      "declarations": "display: inline-block;\n  background: var(--beige);\n  color: var(--charcoal);\n  font-size: 11px; font-weight: 700; letter-spacing: 0.22em;\n  text-transform: uppercase;\n  padding: 18px 36px;\n  border: 1px solid var(--beige);\n  transition: all 0.25s;"
+    },
+    {
+      "source": "https://strasserwood.com/",
+      "selector": ".btn-primary:hover",
+      "declarations": "background: transparent; color: var(--beige);"
+    },
+    {
+      "source": "https://strasserwood.com/",
+      "selector": ".btn-ghost",
+      "declarations": "display: inline-block;\n  color: rgba(255,255,255,0.92);\n  font-size: 11px; font-weight: 400; letter-spacing: 0.22em;\n  text-transform: uppercase;\n  padding: 18px 28px;\n  border: 1px solid rgba(255,255,255,0.45);\n  transition: all 0.25s;"
+    },
+    {
+      "source": "https://strasserwood.com/",
+      "selector": ".btn-ghost:hover",
+      "declarations": "background: rgba(255,255,255,0.1); border-color: #fff; color: #fff;"
+    },
+    {
+      "source": "https://strasserwood.com/",
+      "selector": ".showroom-form-wrap .hs-form .hs-button",
+      "declarations": "background: var(--charcoal);\n  color: #fff;\n  border: 1px solid var(--charcoal);\n  border-radius: 0;\n  font-family: 'Lato', sans-serif;\n  font-size: 11px;\n  font-weight: 700;\n  letter-spacing: 0.22em;\n  text-transform: uppercase;\n  padding: 18px 36px;\n  cursor: pointer;\n  transition: background 0.25s;\n  margin-top: 8px;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Strasser Woodenworks: Custom Bathroom Vanities, Built to Order in the USA",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://strasserwood.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://strasserwood.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://strasserwood.com/"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://strasserwood.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://strasserwood.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://strasserwood.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://strasserwood.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://strasserwood.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://strasserwood.com/"
+      ]
+    },
+    "colors.ink-2": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://strasserwood.com/"
+      ]
+    },
+    "colors.ink-3": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://strasserwood.com/"
+      ]
+    },
+    "colors.body-secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://strasserwood.com/"
+      ]
+    },
+    "colors.accent-cool": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://strasserwood.com/"
+      ]
+    },
+    "colors.accent-warm": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://strasserwood.com/"
+      ]
+    },
+    "colors.alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://strasserwood.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.configurator-panel": {
+      "status": "inferred"
+    }
+  }
+}

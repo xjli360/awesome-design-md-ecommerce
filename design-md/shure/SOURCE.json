@@ -1,0 +1,993 @@
+{
+  "source_url": "https://www.shure.com",
+  "final_url": "https://www.shure.com/en-US",
+  "captured_at": "2026-09-28T04:08:01.395065+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.shure.com",
+      "final_url": "https://www.shure.com/en-US",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "dd1d9563d559222f41ddb7f9db0388670a02d082d18052cba85e1ccd2d511d2c",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+      "final_url": "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "101917102343832f88761364487ad963978f4dbee367d269c478397f3ce3480c",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://content-files.shure.com/cdn/public/assets/powerReviews2.css",
+      "final_url": "https://content-files.shure.com/cdn/public/assets/powerReviews2.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ee9089e08b9ee33f1ef4199bb67545e1126f5b8281447cb5609dd91370230d0b",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.shure.com/_next/static/css/6078d619d7b062e8.css",
+      "final_url": "https://www.shure.com/_next/static/css/6078d619d7b062e8.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "faa24d5eac8559131cef26b4819283e698b4d06c4ef7c8004518f7ddd5a1b83c",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.shure.com/_next/static/css/e3f23e111b874094.css",
+      "final_url": "https://www.shure.com/_next/static/css/e3f23e111b874094.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "43b4d58c7ec856c762b5f36e70a1c0ec382b596507f36e348952ffeea9036848",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/icon?family=Material+Icons",
+      "final_url": "https://fonts.googleapis.com/icon?family=Material+Icons",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "c4bdf2a6a654e899448a6f14503492c8d971b4c875042215280269a1d27ca889",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 45,
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css",
+        "https://www.shure.com/_next/static/css/e3f23e111b874094.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 37,
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css",
+        "https://www.shure.com/_next/static/css/e3f23e111b874094.css"
+      ]
+    },
+    "#00000000": {
+      "count": 37,
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#b2ff33": {
+      "count": 33,
+      "sources": [
+        "https://www.shure.com/en-US",
+        "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+        "https://content-files.shure.com/cdn/public/assets/powerReviews2.css",
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#626264": {
+      "count": 18,
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+        "https://content-files.shure.com/cdn/public/assets/powerReviews2.css",
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#b2b2b4": {
+      "count": 17,
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+        "https://content-files.shure.com/cdn/public/assets/powerReviews2.css",
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#00bbff": {
+      "count": 11,
+      "sources": [
+        "https://www.shure.com/_next/static/css/e3f23e111b874094.css"
+      ]
+    },
+    "#151515": {
+      "count": 9,
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css"
+      ]
+    },
+    "#222222": {
+      "count": 7,
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+        "https://content-files.shure.com/cdn/public/assets/powerReviews2.css",
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 6,
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+        "https://www.shure.com/_next/static/css/e3f23e111b874094.css"
+      ]
+    },
+    "#8c8c8e": {
+      "count": 5,
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+        "https://content-files.shure.com/cdn/public/assets/powerReviews2.css",
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#c6c6c9": {
+      "count": 4,
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/powerReviews2.css",
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#f7f7f8": {
+      "count": 4,
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/powerReviews2.css",
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#319e01": {
+      "count": 3,
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#444444": {
+      "count": 3,
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+        "https://content-files.shure.com/cdn/public/assets/powerReviews2.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 3,
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#74d3a7": {
+      "count": 3,
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#ededed": {
+      "count": 3,
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#7d7d7d": {
+      "count": 3,
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 2,
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css"
+      ]
+    },
+    "#ffffffff": {
+      "count": 2,
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css"
+      ]
+    },
+    "#0969a9": {
+      "count": 2,
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css"
+      ]
+    },
+    "#151515bf": {
+      "count": 2,
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css"
+      ]
+    },
+    "#dee2e6": {
+      "count": 2,
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 2,
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#ececed": {
+      "count": 2,
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#f2f2f4": {
+      "count": 2,
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 2,
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#222227": {
+      "count": 2,
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#f089a1": {
+      "count": 2,
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#c01f22": {
+      "count": 2,
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#3c0000": {
+      "count": 2,
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#ffaa00": {
+      "count": 2,
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#ff3635": {
+      "count": 1,
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css"
+      ]
+    },
+    "#4a4af4": {
+      "count": 1,
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css"
+      ]
+    },
+    "#6e6e70": {
+      "count": 1,
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css"
+      ]
+    },
+    "#41d3f8": {
+      "count": 1,
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/powerReviews2.css"
+      ]
+    },
+    "#b2ff3380": {
+      "count": 1,
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/powerReviews2.css"
+      ]
+    },
+    "#949494": {
+      "count": 1,
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/powerReviews2.css"
+      ]
+    },
+    "#d6001c": {
+      "count": 1,
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/powerReviews2.css"
+      ]
+    },
+    "#404041": {
+      "count": 1,
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#727275": {
+      "count": 1,
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#00664c": {
+      "count": 1,
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 1,
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#555555": {
+      "count": 1,
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#30a9de": {
+      "count": 1,
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#005d9f": {
+      "count": 1,
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#ebe0c3": {
+      "count": 1,
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#7e5d41": {
+      "count": 1,
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#b18b7e": {
+      "count": 1,
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#5a3a32": {
+      "count": 1,
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#d8d6c9": {
+      "count": 1,
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#8e7f62": {
+      "count": 1,
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#ffffff80": {
+      "count": 1,
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#b2b2b480": {
+      "count": 1,
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#be8e70": {
+      "count": 1,
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#815943": {
+      "count": 1,
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#666666": {
+      "count": 1,
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#242424": {
+      "count": 1,
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "#f0d8a7": {
+      "count": 1,
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Apple Color Emoji": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "Arial": [
+      "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+      "https://content-files.shure.com/cdn/public/assets/powerReviews2.css",
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "Consolas": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "Courier New": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "DinBold": [
+      "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+      "https://content-files.shure.com/cdn/public/assets/powerReviews2.css"
+    ],
+    "DinRegular": [
+      "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+      "https://content-files.shure.com/cdn/public/assets/powerReviews2.css"
+    ],
+    "FontAwesome": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "Helvetica": [
+      "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+      "https://content-files.shure.com/cdn/public/assets/powerReviews2.css",
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "Liberation Mono": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "Material Icons": [
+      "https://fonts.googleapis.com/icon?family=Material+Icons"
+    ],
+    "Menlo": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "Monaco": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "Noto Color Emoji": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "OstrichProper": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "OstrichProper Fallback": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "OstrichProperBlack": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "OstrichProperBlack Fallback": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "OstrichProperBold": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "OstrichProperBold Fallback": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "OstrichProperExtraBold": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "OstrichProperExtraBold Fallback": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "OstrichProperLight": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "OstrichProperLight Fallback": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "OstrichProperMedium": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "OstrichProperMedium Fallback": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "OstrichProperSemibold": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "OstrichProperSemibold Fallback": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "OstrichProperUltraLight": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "OstrichProperUltraLight Fallback": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "SFMono-Regular": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "Segoe UI Emoji": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "Segoe UI Symbol": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "affirm": [
+      "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css"
+    ],
+    "din": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "din Fallback": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "dinBold": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "dinBold Fallback": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "dinLight": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "dinLight Fallback": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "monospace": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "ostrichProperInlineOpen": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "ostrichProperInlineOpen Fallback": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "sans-serif": [
+      "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "sans-serif !important": [
+      "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+      "https://content-files.shure.com/cdn/public/assets/powerReviews2.css"
+    ],
+    "system-ui": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "ui-monospace": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ],
+    "ui-sans-serif": [
+      "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+      "selector": ".rsProductOfferContainer .rsAffirmProductMessage",
+      "declarations": "width: 100%;\n  padding: 10px 16px;\n  font-size: 0.75rem; \n  font-weight: 400;\n  border-radius: 3px;\n  margin-top: 20px;\n  min-height: 46px;\n  border: 1px solid #b2b2b4;\n  color: #626264;\n  font-family: 'DinRegular', Arial, Helvetica, sans-serif;"
+    },
+    {
+      "source": "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+      "selector": ".cta-button-wrapper.cta-button-variant",
+      "declarations": "display: flex !important;\n  justify-content: center;\n  align-items: center;\n  flex: 0 1 176px;\n  position: relative;\n  font-size: 1rem; \n  font-family: 'DinBold', Arial, Helvetica, sans-serif;\n  font-weight: 700;\n  width: 100%;\n  cursor: pointer;\n  padding-left: 12px;"
+    },
+    {
+      "source": "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+      "selector": ".cta-button-wrapper.cta-button-variant :after",
+      "declarations": "content: '';\n  position: absolute;\n  width: 96px;\n  height: 3px;\n  left: 12px;\n  bottom: 0;\n  background-color: #b2ff33;"
+    },
+    {
+      "source": "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+      "selector": ".rsProductTitle",
+      "declarations": "height: auto !important;\n  line-height: 1.2;\n  font-size: 14px;\n  font-weight: 400;\n  color: #151515 !important;\n  padding-bottom: 10px;"
+    },
+    {
+      "source": "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+      "selector": ".rsProductInfoContainer .rsPrice",
+      "declarations": "font-size: 14px !important;\n  color: #151515 !important;\n  font-weight: 400;"
+    },
+    {
+      "source": "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+      "selector": ".rsProductInfoContainer .rsItemQtySelectLabelText",
+      "declarations": "font-weight: 500;\n  font-size: 12px;\n  color: #151515;\n  text-transform: none !important;\n  display: block !important;"
+    },
+    {
+      "source": "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+      "selector": ".retail-solutions .rsAddToCartForm input[type='submit']:hover,\n  .retail-solutions-find-retailer-btn:hover,\n  .rsRiAddToCartButton:hover",
+      "declarations": "background-color: #b2ff33;\n    color: #000;"
+    },
+    {
+      "source": "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+      "selector": ".rsRiCarouselCard\n  .rsRiCarouselCardContainer\n  .rsRiProductInfoContainer\n  .rsRiPriceContainer\n  .rsRiPrice",
+      "declarations": "margin-top: 0.25rem;\n  margin-left: 0.5rem;\n  margin-bottom: 20px;\n  color: #151515 !important;\n  font-size: 1.5rem;\n  font-weight: 700;\n  line-height: 1;\n  font-family: 'DinBold', Arial, Helvetica, sans-serif;"
+    },
+    {
+      "source": "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+      "selector": "button.rsCarouselArrow",
+      "declarations": "height: 0px !important;\n  padding: 8px;\n  transition: opacity 0.3s;\n  width: 30px !important;\n  bottom: 72px;\n  color: #151515bf;\n  position: absolute;\n  border-radius: 50%;"
+    },
+    {
+      "source": "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+      "selector": ".rsCarouselBullets button",
+      "declarations": "display: block;\n  width: 13px;\n  height: 13px;\n  color: #444;\n  border: none;\n  background: 0 0;\n  padding: 0;"
+    },
+    {
+      "source": "https://content-files.shure.com/cdn/public/assets/powerReviews2.css",
+      "selector": ":root",
+      "declarations": "--space: 16px;"
+    },
+    {
+      "source": "https://content-files.shure.com/cdn/public/assets/powerReviews2.css",
+      "selector": "snippet-rating-decimal,\r\n.p-w-r .pr-rd-review-tag dt,\r\n.p-w-r .pr-header,\r\n.p-w-r .pr-review .pr-rd-merchant-response-headline > strong,\r\n#pr-reviews .p-w-r .pr",
+      "declarations": "background-color: transparent !important;\r\n  color: white !important;\r\n  border: none !important;\r\n  font-family: 'DinRegular', Arial, Helvetica, sans-serif !important;\r\n  font-size: 16px !important;"
+    },
+    {
+      "source": "https://content-files.shure.com/cdn/public/assets/powerReviews2.css",
+      "selector": "-w-r .pr-read-review button,\r\n.p-w-r .pr-read-review p,\r\n.p-w-r .pr-read-review .pr-rd-review-tag dt,\r\n.p-w-r .pr-read-review .pr-accordion-content,\r\n.p-w-r .pr",
+      "declarations": "color: black !important;"
+    },
+    {
+      "source": "https://content-files.shure.com/cdn/public/assets/powerReviews2.css",
+      "selector": ".p-w-r .pr-review-snapshot h1,\r\n.pr-review-snapshot-block-headline",
+      "declarations": "color: white !important;"
+    },
+    {
+      "source": "https://content-files.shure.com/cdn/public/assets/powerReviews2.css",
+      "selector": ".p-w-r .pr-review-snapshot-block-container h4.pr-h1",
+      "declarations": "font-family: 'DinBold', Arial, Helvetica, sans-serif !important;\r\n  font-size: 24px !important;"
+    },
+    {
+      "source": "https://content-files.shure.com/cdn/public/assets/powerReviews2.css",
+      "selector": ".p-w-r .pr-review-snapshot button:hover",
+      "declarations": "border-color: white !important;"
+    },
+    {
+      "source": "https://content-files.shure.com/cdn/public/assets/powerReviews2.css",
+      "selector": ".p-w-r .pr-review-snapshot button:hover span",
+      "declarations": "color: white !important;"
+    },
+    {
+      "source": "https://content-files.shure.com/cdn/public/assets/powerReviews2.css",
+      "selector": "ing-count,\r\n.p-w-r .pr-review-snapshot-block-container div[role='button']:hover p,\r\n.p-w-r .pr-snapshot-tag-def-filtering:hover button span,\r\n.p-w-r .pr-review-",
+      "declarations": "position: relative !important;\r\n  color: black !important;\r\n  font-size: 0.75rem !important;"
+    },
+    {
+      "source": "https://content-files.shure.com/cdn/public/assets/powerReviews2.css",
+      "selector": ".p-w-r .pr-war .pr-header-required span",
+      "declarations": "color: #626264 !important;\r\n  font-size: 12px !important;"
+    },
+    {
+      "source": "https://content-files.shure.com/cdn/public/assets/powerReviews2.css",
+      "selector": "-btn,\r\n.p-w-r .pr-war .pr-file-input-btn button,\r\n.p-w-r .pr-war .pr-btn-add-tag button,\r\n.p-w-r .pr-war .input-group-btn > button,\r\n.p-w-r .pr-war .pr-media-in",
+      "declarations": "font-family: 'DinBold', Arial, Helvetica, sans-serif !important;\r\n  margin: 0 !important;\r\n  margin-right: 8px !important;\r\n  border: 1px solid #b2b2b4 !important;\r\n  border-radius: 3px;\r\n  color: black !important;\r\n  text-decoration: none;\r\n  transition: all 150ms ease-out;\r\n  display: flex !important;\r\n  align-items: center;\r\n  padding: 12px;"
+    },
+    {
+      "source": "https://content-files.shure.com/cdn/public/assets/powerReviews2.css",
+      "selector": "p-w-r .pr-war .pr-file-input-btn button:hover,\r\n.p-w-r .pr-war .pr-btn-add-tag button:hover,\r\n.p-w-r .pr-war .input-group-btn > button:hover,\r\n.p-w-r .pr-war .p",
+      "declarations": "background-color: #b2ff33 !important;\r\n  border-color: transparent !important;"
+    },
+    {
+      "source": "https://content-files.shure.com/cdn/public/assets/powerReviews2.css",
+      "selector": ".p-w-r .pr-war .pr-submit button,\r\n.p-w-r .thank-you-page h5 a",
+      "declarations": "position: relative;\r\n  font-family: 'DinBold', Arial, Helvetica, sans-serif !important;\r\n  background-color: black !important;\r\n  color: white !important;\r\n  border-radius: 3px;\r\n  display: inline-block;\r\n  line-height: 1.5;\r\n  padding: 12px 36px 12px 16px !important;\r\n  text-align: center;\r\n  opacity: 1;\r\n  text-decoration: none !important;\r\n  transition: all 150ms ease-out;"
+    },
+    {
+      "source": "https://content-files.shure.com/cdn/public/assets/powerReviews2.css",
+      "selector": "pr-review-snapshot-header\r\n  .pr-review-snapshot-snippets\r\n  .pr-snippet-stars-reco-inline\r\n  .pr-snippet-stars-reco-stars\r\n  .pr-snippet\r\n  .pr-snippet-read-an",
+      "declarations": "font-family: 'DinBold', Arial, Helvetica, sans-serif !important;\r\n  font-size: 24px !important;\r\n  font-style: normal !important;\r\n  padding: 0 !important;"
+    },
+    {
+      "source": "https://www.shure.com/_next/static/css/6078d619d7b062e8.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-feature-settings:inherit;font-variation-settings:inherit;font-size:100%;font-weight:inherit;line-height:inherit;letter-spacing:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://www.shure.com/_next/static/css/6078d619d7b062e8.css",
+      "selector": "button,input:where([type=button]),input:where([type=reset]),input:where([type=submit])",
+      "declarations": "-webkit-appearance:button;background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://www.shure.com/_next/static/css/6078d619d7b062e8.css",
+      "selector": ".\\!shadow-colorSelectorButtonSelected",
+      "declarations": "--tw-shadow:0 0 0 3px #ffffff,0 0 0 4px #000000!important;--tw-shadow-colored:0 0 0 3px var(--tw-shadow-color),0 0 0 4px var(--tw-shadow-color)!important;box-shadow:var(--tw-ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shadow)!important"
+    },
+    {
+      "source": "https://www.shure.com/_next/static/css/6078d619d7b062e8.css",
+      "selector": ".d-body-l-bold,.m-body-l-bold",
+      "declarations": "font-family:var(--font-din-bold),Arial,Noto Sans JP,Noto Sans SC,ヒラギノ角ゴ ProN,Hiragino Kaku Gothic ProN,游ゴシック,游ゴシック体,YuGothic,Yu Gothic,メイリオ,Meiryo,ＭＳ ゴシック,MS Gothic,HiraKakuProN-W3,TakaoExゴシック,TakaoExGothic,MotoyaLCedar,Droid Sans Japanese;font-weight:600"
+    },
+    {
+      "source": "https://www.shure.com/_next/static/css/6078d619d7b062e8.css",
+      "selector": ".d-body-l-regular,.m-body-l-regular",
+      "declarations": "font-family:var(--font-din),Arial,Noto Sans JP,Noto Sans SC,ヒラギノ角ゴ ProN,Hiragino Kaku Gothic ProN,游ゴシック,游ゴシック体,YuGothic,Yu Gothic,メイリオ,Meiryo,ＭＳ ゴシック,MS Gothic,HiraKakuProN-W3,TakaoExゴシック,TakaoExGothic,MotoyaLCedar,Droid Sans Japanese"
+    },
+    {
+      "source": "https://www.shure.com/_next/static/css/6078d619d7b062e8.css",
+      "selector": ".d-body-m-bold,.m-body-m-bold",
+      "declarations": "font-family:var(--font-din-bold),Arial,Noto Sans JP,Noto Sans SC,ヒラギノ角ゴ ProN,Hiragino Kaku Gothic ProN,游ゴシック,游ゴシック体,YuGothic,Yu Gothic,メイリオ,Meiryo,ＭＳ ゴシック,MS Gothic,HiraKakuProN-W3,TakaoExゴシック,TakaoExGothic,MotoyaLCedar,Droid Sans Japanese;font-size:1rem;font-weight:600;line-height:1.5rem"
+    },
+    {
+      "source": "https://www.shure.com/_next/static/css/6078d619d7b062e8.css",
+      "selector": ".d-body-m-regular,.m-body-m-regular",
+      "declarations": "font-family:var(--font-din),Arial,Noto Sans JP,Noto Sans SC,ヒラギノ角ゴ ProN,Hiragino Kaku Gothic ProN,游ゴシック,游ゴシック体,YuGothic,Yu Gothic,メイリオ,Meiryo,ＭＳ ゴシック,MS Gothic,HiraKakuProN-W3,TakaoExゴシック,TakaoExGothic,MotoyaLCedar,Droid Sans Japanese;font-size:1rem;line-height:1.5rem"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Shure: Microphones, Wireless microphones, in-ear monitoring, earphones, headphones - Shure USA",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.shure.com/en-US",
+        "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+        "https://content-files.shure.com/cdn/public/assets/powerReviews2.css",
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css",
+        "https://www.shure.com/_next/static/css/e3f23e111b874094.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+        "https://content-files.shure.com/cdn/public/assets/powerReviews2.css",
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+        "https://content-files.shure.com/cdn/public/assets/powerReviews2.css",
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/powerReviews2.css",
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css",
+        "https://www.shure.com/_next/static/css/e3f23e111b874094.css"
+      ]
+    },
+    "colors.ink-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+        "https://content-files.shure.com/cdn/public/assets/powerReviews2.css",
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "colors.overlay": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css"
+      ]
+    },
+    "colors.accent-cyan": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.shure.com/_next/static/css/e3f23e111b874094.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://content-files.shure.com/cdn/public/assets/retailSolutions10.css",
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.shure.com/_next/static/css/6078d619d7b062e8.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.product-carousel": {
+      "status": "inferred"
+    }
+  }
+}

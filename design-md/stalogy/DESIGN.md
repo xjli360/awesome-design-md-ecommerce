@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Stalogy
-description: |
+name: "Stalogy"
+source_url: "https://stalogy.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Where most notebook brands sell atmosphere, Stalogy sells method — the name itself is an engineered compound, collapsing "Standard" and "Technology" into a single word, and that compression shows in every design decision on the site. The signature canvas is not white but #f4f4e9, a warm cream hovering between office paper and engineering drafting stock, giving product pages the faint warmth of something freshly laid on a light table rather than rendered on a screen. Four categorical accent colors — blue (#0099ff), green (#00cc33), yellow (#ffcc33), and red (#ff0033) — function as pure taxonomy rather than decoration: each hard-coded to a product family, operating less like brand colors and more like industrial standards markings that help specifiers navigate a dense catalogue with no ambiguity.
 
   Typography is deliberately uncommissioned: Helvetica Neue and Arial carry all Latin copy at weights that never exceed 500, while Yu Mincho and Hiragino Mincho ProN handle Japanese text with matching economy. No custom display fonts, no variable font experiments, no gradient fills anywhere on the site — the visual language defers entirely to system resources and trusts product photography to carry emotional weight. The result reads like a precision tool catalogue rather than lifestyle content.
@@ -370,6 +373,8 @@ components:
 - Category-rule stripes maintain full container width at all breakpoints; height stays fixed at 3px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom web fonts detected — the site relies entirely on system stacks (Helvetica Neue, Arial for Latin; Yu Mincho, Hiragino Mincho ProN for Japanese). Precise weights and optical sizing for Japanese copy cannot be confirmed without live computed style inspection.
 - Meta theme-color is absent; mobile browser chrome color is unknown.

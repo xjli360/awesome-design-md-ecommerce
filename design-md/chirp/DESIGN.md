@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Chirp
-description: A deep, ink-black (#313131) audiobook storefront that trusts its covers and its copy over ornament — the single extracted hex is the brand's entire foreground vocabulary, from body text to nav links to star ratings. The site reads like a well-stocked library shelf: dense with metadata (author, narrator, length, price, rating), each book card a compact information block rather than a visual hero. The system font stack (-apple-system, system-ui, sans-serif) means Chirp lets the content speak without typographic branding; there is no custom typeface, no brand font, just clean, legible text at modest sizes. The primary action — buying a book — uses a bold accent color (likely a distinctive green or orange from the extracted palette, though only #313131 survived extraction), set against white canvas with soft rounded corners on cards and buttons. The experience is utilitarian but warm: high information density, clear pricing, and a persistent "Listen Now" or "Add to Cart" affordance that never competes with the book's own cover art. Chirp's design philosophy is "the book is the hero" — the interface steps back, using only one strong color, one type stack, and generous spacing to let thousands of titles breathe.
+name: "Chirp"
+source_url: "https://www.chirpbooks.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep, ink-black (#313131) audiobook storefront that trusts its covers and its copy over ornament — the single extracted hex is the brand's entire foreground vocabulary, from body text to nav links to star ratings. The site reads like a well-stocked library shelf: dense with metadata (author, narrator, length, price, rating), each book card a compact information block rather than a visual hero. The system font stack (-apple-system, system-ui, sans-serif) means Chirp lets the content speak without typographic branding; there is no custom typeface, no brand font, just clean, legible text at modest sizes. The primary action — buying a book — uses a bold accent color (likely a distinctive green or orange from the extracted palette, though only #313131 survived extraction), set against white canvas with soft rounded corners on cards and buttons. The experience is utilitarian but warm: high information density, clear pricing, and a persistent "Listen Now" or "Add to Cart" affordance that never competes with the book's own cover art. Chirp's design philosophy is "the book is the hero" — the interface steps back, using only one strong color, one type stack, and generous spacing to let thousands of titles breathe.
 
 colors:
   primary: "#313131"
@@ -324,5 +328,7 @@ components:
 - Footer links stack vertically on mobile instead of the multi-column layout used on desktop
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one hex color (#313131) was reliably extracted from the live site; the accent color (likely green or orange) and all other palette tokens are inferred from common DTC audiobook patterns and may not match the actual brand. The extracted font stack is system-only — no custom brand typeface was detected. Hover states, focus rings, error styling, and disabled state colors are estimated based on accessibility best practices and common e-commerce patterns. Dark mode support is unknown. The actual brand may use a different accent color, additional secondary colors, or a custom typeface that was not present in the extracted CSS. Sub-brand or promotional color palettes (e.g., for seasonal sales or genre-specific landing pages) are not captured. The star rating color and badge colors are inferred from the primary ink color and common conventions. The actual button height, padding, and border radius values are estimated from typical audiobook store patterns and may differ from the live site. No animation or transition timing data was extracted.

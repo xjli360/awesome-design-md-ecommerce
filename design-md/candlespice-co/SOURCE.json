@@ -1,0 +1,747 @@
+{
+  "source_url": "https://candlespice.com",
+  "final_url": "https://candlespice.com/",
+  "captured_at": "2026-09-28T09:14:09.187203+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://candlespice.com",
+      "final_url": "https://candlespice.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "74f5f2b6403e48c35e74b90ef902fa909acab2ac990299d49b99f230314c174d",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+      "final_url": "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3d26df5c31a47a87f0ebd88d4ac8f0c1e1afafa5abfce26c1bdf529f449ebfca",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://candlespice.com/cdn/shop/t/6/assets/candlespice.css?v=34078289032974521171729718911",
+      "final_url": "https://candlespice.com/cdn/shop/t/6/assets/candlespice.css?v=34078289032974521171729718911",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3b88d71e9c3cd3fcb396e20604072cbc47d77051150f9bfc1b646f106639b879",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://candlespice.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://candlespice.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#201c22": {
+      "count": 112,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#ffffff": {
+      "count": 83,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+        "https://candlespice.com/cdn/shop/t/6/assets/candlespice.css?v=34078289032974521171729718911",
+        "https://candlespice.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f7ede2": {
+      "count": 66,
+      "sources": [
+        "https://candlespice.com/",
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+        "https://candlespice.com/cdn/shop/t/6/assets/candlespice.css?v=34078289032974521171729718911"
+      ]
+    },
+    "#000000": {
+      "count": 17,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 8,
+      "sources": [
+        "https://candlespice.com/",
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#d02e2e": {
+      "count": 7,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#ef6461": {
+      "count": 6,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 6,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#f1e1ce": {
+      "count": 5,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#0000004d": {
+      "count": 5,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 4,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#56ad6a": {
+      "count": 4,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#201c221a": {
+      "count": 3,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#444444": {
+      "count": 3,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#cccccc": {
+      "count": 3,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#00000017": {
+      "count": 3,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#201c220d": {
+      "count": 3,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 2,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#fff6f6": {
+      "count": 2,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#0000001a": {
+      "count": 2,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#333333": {
+      "count": 2,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://candlespice.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://candlespice.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#ececec": {
+      "count": 1,
+      "sources": [
+        "https://candlespice.com/"
+      ]
+    },
+    "#faf7f5": {
+      "count": 1,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#51ab62": {
+      "count": 1,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#b6b6b6": {
+      "count": 1,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#201c2259": {
+      "count": 1,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#f3c200": {
+      "count": 1,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#201c221f": {
+      "count": 1,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#201c2299": {
+      "count": 1,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#ecfef0": {
+      "count": 1,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#1c1d1d0d": {
+      "count": 1,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#201c2214": {
+      "count": 1,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#fafafa": {
+      "count": 1,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#201c2208": {
+      "count": 1,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#3232324d": {
+      "count": 1,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#999999": {
+      "count": 1,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#333333e6": {
+      "count": 1,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 1,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#555555": {
+      "count": 1,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#58686f": {
+      "count": 1,
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://candlespice.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://candlespice.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://candlespice.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://candlespice.com/cdn/shop/t/6/assets/candlespice.css?v=34078289032974521171729718911"
+    ],
+    "BlinkMacSystemFont": [
+      "https://candlespice.com/cdn/shop/t/6/assets/candlespice.css?v=34078289032974521171729718911"
+    ],
+    "Consolas": [
+      "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+    ],
+    "Helvetica Neue": [
+      "https://candlespice.com/cdn/shop/t/6/assets/candlespice.css?v=34078289032974521171729718911"
+    ],
+    "Montserrat": [
+      "https://candlespice.com/"
+    ],
+    "Poppins": [
+      "https://candlespice.com/"
+    ],
+    "Roboto": [
+      "https://candlespice.com/cdn/shop/t/6/assets/candlespice.css?v=34078289032974521171729718911"
+    ],
+    "San Francisco": [
+      "https://candlespice.com/cdn/shop/t/6/assets/candlespice.css?v=34078289032974521171729718911"
+    ],
+    "Segoe UI": [
+      "https://candlespice.com/cdn/shop/t/6/assets/candlespice.css?v=34078289032974521171729718911"
+    ],
+    "monospace": [
+      "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+    ],
+    "object-fit: cover": [
+      "https://candlespice.com/",
+      "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+    ],
+    "sans-serif": [
+      "https://candlespice.com/cdn/shop/t/6/assets/candlespice.css?v=34078289032974521171729718911"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://candlespice.com/",
+      "selector": ":root",
+      "declarations": "--typeHeaderPrimary: Poppins;\n    --typeHeaderFallback: sans-serif;\n    --typeHeaderSize: 28px;\n    --typeHeaderWeight: 400;\n    --typeHeaderLineHeight: 1.3;\n    --typeHeaderSpacing: 0.0em;\n\n    --typeBasePrimary:Montserrat;\n    --typeBaseFallback:sans-serif;\n    --typeBaseSize: 14px;\n    --typeBaseWeight: 400;\n    --typeBaseLineHeight: 1.6;\n    --typeBaseSpacing: 0.025em;\n\n    --iconWeight: 3px;\n    --iconLinecaps: round;"
+    },
+    {
+      "source": "https://candlespice.com/",
+      "selector": ".site-header",
+      "declarations": "border-bottom: 1px solid;\n    border-bottom-color: #f7ede2;"
+    },
+    {
+      "source": "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+      "selector": "@charset \"UTF-8\";:root",
+      "declarations": "--colorBtnPrimary:#f7ede2;--colorBtnPrimaryDim:#f1e1ce;--colorBtnPrimaryText:#201c22;--colorCartDot:#ef6461;--colorLink:#201c22;--colorTextBody:#201c22;--colorSalePrice:#ef6461;--colorSaleTag:#ffffff;--colorSaleTagText:#ef6461;--colorBody:#ffffff;--colorBodyDim:#f2f2f2;--colorInputBg:#ffffff;--colorInputBgDim:#f2f2f2;--colorInputBgDark:#e6e6e6;--colorInputText:#201c22;--colorFooter:#ffffff;--colorFooterText:#201c22;--colorBorder:#f7ede2;--colorNav:#ffffff;--colorNavText:#201c22;--colorAnnouncement:#f7ede2;--colorAnnouncementText:#201c22;--colorHeroText:#ffffff;--colorModalBg:#f7ede2;--colorSmallImageBg:#f4f4f4;--colorLargeImageBg:#201c22;--colorDrawers:#ffffff;--colorDrawersDim:#f2f2f2;--col"
+    },
+    {
+      "source": "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+      "selector": "body,html",
+      "declarations": "background-color:#fff;background-color:var(--colorBody);color:#201c22;color:var(--colorTextBody)"
+    },
+    {
+      "source": "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+      "selector": "body,button,input,p,select,textarea",
+      "declarations": "font-family:var(--typeBasePrimary),var(--typeBaseFallback);font-weight:var(--typeBaseWeight);letter-spacing:var(--typeBaseSpacing);line-height:var(--typeBaseLineHeight);font-size:var(--typeBaseSize);-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:100%;text-rendering:optimizeSpeed"
+    },
+    {
+      "source": "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+      "selector": ".h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6",
+      "declarations": "font-family:var(--typeHeaderPrimary),var(--typeHeaderFallback);font-weight:400;letter-spacing:var(--typeHeaderSpacing);line-height:var(--typeHeaderLineHeight)"
+    },
+    {
+      "source": "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+      "selector": ".btn,.product-reviews .spr-button,.product-reviews .spr-summary-actions a,.rte .btn,.shopify-payment-button .shopify-payment-button__button--unbranded",
+      "declarations": "font-family:var(--typeHeaderPrimary),var(--typeHeaderFallback);font-weight:var(--typeHeaderWeight);letter-spacing:var(--typeHeaderSpacing);line-height:var(--typeHeaderLineHeight)"
+    },
+    {
+      "source": "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+      "selector": ".btn,.product-reviews .spr-button,.product-reviews .spr-summary-actions a,.rte .btn,.shopify-payment-button .shopify-payment-button__button--unbranded",
+      "declarations": "display:inline-block;padding:11px 20px;margin:0;width:auto;min-width:90px;line-height:1.42;font-size:16px;text-decoration:none;text-align:center;vertical-align:middle;white-space:normal;cursor:pointer;border:1px solid transparent;-webkit-user-select:none;user-select:none;-webkit-appearance:none;-moz-appearance:none;border-radius:0;color:#201c22;color:var(--colorBtnPrimaryText);background:#f7ede2;background:var(--colorBtnPrimary);transition:padding-right .3s,background .3s,opacity 1s"
+    },
+    {
+      "source": "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+      "selector": ".btn:hover,.product-reviews .spr-button:hover,.product-reviews .spr-summary-actions a:hover,.rte .btn:hover,.shopify-payment-button .shopify-payment-button__but",
+      "declarations": "color:#201c22;color:var(--colorBtnPrimaryText);background-color:#f7ede2;background-color:var(--colorBtnPrimary)"
+    },
+    {
+      "source": "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+      "selector": "isabled],.rte .btn.disabled,.rte .btn[disabled],.shopify-payment-button .shopify-payment-button__button--unbranded.disabled,.shopify-payment-button .shopify-pay",
+      "declarations": "cursor:default;color:#444;background-color:#f6f6f6;transition:none"
+    },
+    {
+      "source": "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+      "selector": "led:hover,.rte .btn[disabled]:hover,.shopify-payment-button .shopify-payment-button__button--unbranded.disabled:hover,.shopify-payment-button .shopify-payment-b",
+      "declarations": "color:#444;background-color:#f6f6f6"
+    },
+    {
+      "source": "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+      "selector": ".shopify-payment-button .shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "color:#201c22;color:var(--colorBtnPrimaryText);background-color:#f7ede2;background-color:var(--colorBtnPrimary)"
+    },
+    {
+      "source": "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+      "selector": ".shopify-payment-button__more-options",
+      "declarations": "color:inherit"
+    },
+    {
+      "source": "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+      "selector": ".btn--tertiary,.rte .btn--tertiary",
+      "declarations": "background-color:transparent;border:1px solid;border-color:#f7ede2;border-color:var(--colorBorder);color:#201c22;color:var(--colorTextBody);font-weight:400;font-size:12px;padding:6px 10px"
+    },
+    {
+      "source": "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+      "selector": ".btn--tertiary:hover,.rte .btn--tertiary:hover",
+      "declarations": "background-color:transparent;color:#201c22;color:var(--colorTextBody);border-color:#201c22;border-color:var(--colorTextBody);transition:border .25s ease"
+    },
+    {
+      "source": "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+      "selector": ".btn--tertiary.disabled,.btn--tertiary[disabled],.rte .btn--tertiary.disabled,.rte .btn--tertiary[disabled]",
+      "declarations": "cursor:default;color:#444;background-color:#f6f6f6"
+    },
+    {
+      "source": "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+      "selector": ".btn--inverse",
+      "declarations": "background-color:transparent!important;border:2px solid #fff;color:#fff"
+    },
+    {
+      "source": "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+      "selector": ".btn--inverse:active,.btn--inverse:hover",
+      "declarations": "background-color:#fff!important;color:#000!important;transition:all .5s ease"
+    },
+    {
+      "source": "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+      "selector": ".hero__link .btn--inverse",
+      "declarations": "color:#fff;color:var(--colorHeroText);border-color:#fff;border-color:var(--colorHeroText)"
+    },
+    {
+      "source": "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+      "selector": ".btn--body,.btn--body:active,.btn--body:hover",
+      "declarations": "background-color:#fff;background-color:var(--colorBody);color:#201c22;color:var(--colorTextBody)"
+    },
+    {
+      "source": "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+      "selector": ".btn--loading",
+      "declarations": "position:relative;text-indent:-9999px;background-color:#f1e1ce;background-color:var(--colorBtnPrimaryDim);color:#f1e1ce;color:var(--colorBtnPrimaryDim)"
+    },
+    {
+      "source": "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+      "selector": ".btn--loading:active,.btn--loading:hover",
+      "declarations": "background-color:#f1e1ce;background-color:var(--colorBtnPrimaryDim);color:#f1e1ce;color:var(--colorBtnPrimaryDim);background-image:none!important"
+    },
+    {
+      "source": "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+      "selector": ".btn--loading:after",
+      "declarations": "content:\"\";display:block;width:24px;height:24px;position:absolute;left:50%;top:50%;margin-left:-12px;margin-top:-12px;border-radius:50%;border:3px solid;border-color:#201c22;border-color:var(--colorBtnPrimaryText);border-top-color:transparent;animation:spin 1s linear infinite"
+    },
+    {
+      "source": "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+      "selector": ".btn--loading.add-to-cart--secondary",
+      "declarations": "background-color:transparent;border-color:#f7ede2;border-color:var(--colorBorder);color:#201c22;color:var(--colorTextBody)"
+    },
+    {
+      "source": "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+      "selector": ".btn--loading.add-to-cart--secondary:active,.btn--loading.add-to-cart--secondary:hover",
+      "declarations": "background-color:transparent;color:#201c22;color:var(--colorTextBody)"
+    },
+    {
+      "source": "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+      "selector": ".btn--loading.add-to-cart--secondary:after",
+      "declarations": "border-color:#201c22;border-color:var(--colorTextBody);border-top-color:transparent"
+    },
+    {
+      "source": "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+      "selector": ".payment-buttons .add-to-cart--secondary",
+      "declarations": "font-family:var(--typeHeaderPrimary),var(--typeHeaderFallback);font-weight:var(--typeHeaderWeight);letter-spacing:var(--typeHeaderSpacing);line-height:var(--typeHeaderLineHeight)"
+    },
+    {
+      "source": "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+      "selector": ".payment-buttons .add-to-cart--secondary",
+      "declarations": "background-color:#fff!important;background-color:var(--colorBody)!important;border:1px solid;border-color:#201c22;border-color:var(--colorTextBody);color:#201c22!important;color:var(--colorTextBody)!important;font-size:16px;padding:11px 20px;border-radius:0"
+    },
+    {
+      "source": "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+      "selector": ".drawer__header",
+      "declarations": "display:table;height:70px;width:100%;padding:15.38462px 0;margin-bottom:0;border-bottom:1px solid;border-bottom-color:#f7ede2;border-bottom-color:var(--colorDrawerBorder)"
+    },
+    {
+      "source": "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+      "selector": ".drawer__close-button",
+      "declarations": "position:relative;right:-20px;height:100%;padding:0 15px;color:inherit"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Candlespice Co. | Small Batch Natural Soy Candles",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://candlespice.com/",
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+        "https://candlespice.com/cdn/shop/t/6/assets/candlespice.css?v=34078289032974521171729718911"
+      ]
+    },
+    "colors.primary-dim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+        "https://candlespice.com/cdn/shop/t/6/assets/candlespice.css?v=34078289032974521171729718911",
+        "https://candlespice.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://candlespice.com/",
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+        "https://candlespice.com/cdn/shop/t/6/assets/candlespice.css?v=34078289032974521171729718911"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "colors.surface-image": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://candlespice.com/",
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "colors.input-bg-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "colors.on-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812",
+        "https://candlespice.com/cdn/shop/t/6/assets/candlespice.css?v=34078289032974521171729718911",
+        "https://candlespice.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "colors.black": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://candlespice.com/cdn/shop/t/6/assets/theme.css?v=79348063601006480411697652812"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.collection-tile": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.scent-selector": {
+      "status": "inferred"
+    }
+  }
+}

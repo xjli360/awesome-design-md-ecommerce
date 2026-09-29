@@ -1,0 +1,435 @@
+{
+  "source_url": "https://factor75.com",
+  "final_url": "https://www.factor75.com:443/",
+  "captured_at": "2026-09-28T10:22:16.306491+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://factor75.com",
+      "final_url": "https://www.factor75.com:443/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "a4ce538569f0c95402739cdc7a46ad4d3f1a071d855a7450006df8bd6b88dc6e",
+      "snapshot": "homepage.html"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 42,
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "#141414": {
+      "count": 32,
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "#242424": {
+      "count": 29,
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "#343434": {
+      "count": 15,
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "#525252": {
+      "count": 11,
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "#206b19": {
+      "count": 7,
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "#ffffff00": {
+      "count": 6,
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "#a3d69e": {
+      "count": 6,
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "#adadad": {
+      "count": 6,
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "#000000": {
+      "count": 5,
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 5,
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "#d1ebce": {
+      "count": 4,
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "#00000026": {
+      "count": 3,
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "#f1f1ea": {
+      "count": 3,
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "#f5efd2": {
+      "count": 3,
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "#e3e3e3": {
+      "count": 2,
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "#d2d2d2": {
+      "count": 2,
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "#656565": {
+      "count": 2,
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "#f9f9f3": {
+      "count": 1,
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "#d7d7d2": {
+      "count": 1,
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "#efe9de": {
+      "count": 1,
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "#454545": {
+      "count": 1,
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "#6b5400": {
+      "count": 1,
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "#c1c1c1": {
+      "count": 1,
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "#8c6e00": {
+      "count": 1,
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "#efefef": {
+      "count": 1,
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "#4b4d4c": {
+      "count": 1,
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.factor75.com:443/"
+    ],
+    "Arial Black": [
+      "https://www.factor75.com:443/"
+    ],
+    "Helvetica": [
+      "https://www.factor75.com:443/"
+    ],
+    "plus-jakarta-sans": [
+      "https://www.factor75.com:443/"
+    ],
+    "sans-serif": [
+      "https://www.factor75.com:443/"
+    ],
+    "source-sans-pro": [
+      "https://www.factor75.com:443/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.factor75.com:443/",
+      "selector": "html,\n        body",
+      "declarations": "height: 100%;\n          width: 100%;\n          padding: 0;\n          margin: 0;\n          background: #FFFFFF;\n          font-family: plus-jakarta-sans, \"Arial Black\", sans-serif;\n          font-weight: 400;\n          font-size: 16px;\n          color: #000000;\n          scroll-behavior: smooth;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Factor: Get 50% Off + Free Breakfast for 1 Year",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "colors.accent-green-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "colors.accent-green-pale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "colors.accent-gold-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "colors.text-secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "colors.overlay-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.factor75.com:443/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.plan-selector": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    }
+  }
+}

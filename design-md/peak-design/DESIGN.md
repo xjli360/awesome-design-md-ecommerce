@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Peak Design
-description: A deep, near-black green (#1a211e) sets the stage for a brand that builds carry solutions for people who move through the world with intention. That primary color — a shade pulled from dense forest understory rather than synthetic gear — wraps every primary button, every navigation bar, and every product-card border, creating a consistent visual anchor that reads as serious and grounded. The palette is overwhelmingly neutral: #606562 and #b8bcba for body text and muted elements, #e6e9e8 and #eef1f0 for soft surfaces and canvases, with #0c0c0c and #101010 providing deep ink tones for high-impact typography. Against this subdued backdrop, two accent colors emerge: a restrained sage (#9ea790) that appears in environmental photography overlays and secondary badges, and a sharp signal red (#cc2e39) reserved for sale markers, limited-edition callouts, and urgent CTAs. The typography system leans on Exposure-10, a condensed, high-contrast geometric sans that gives headlines a technical, expedition-grade feel — think instrument panel labels and topographic map legends. Body copy runs in Geist, a clean, low-contrast sans that stays legible across product descriptions and spec tables. Corners are minimal: buttons use {rounded.sm} (8px), cards use {rounded.md} (12px), and the only full-radius element is the search bar at {rounded.full}, a deliberate contrast to the otherwise squared-off interface. The brand trusts density over whitespace — product cards pack images, specs, pricing, and reviews into tight {spacing.md} grids, and the nav bar carries five-plus links plus a utility menu without feeling crowded. The overall effect is a tool, not a destination: Peak Design’s site feels like the inside of a well-organized camera bag, where every compartment has a purpose and nothing is decorative.
+name: "Peak Design"
+source_url: "https://www.peakdesign.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep, near-black green (#1a211e) sets the stage for a brand that builds carry solutions for people who move through the world with intention. That primary color — a shade pulled from dense forest understory rather than synthetic gear — wraps every primary button, every navigation bar, and every product-card border, creating a consistent visual anchor that reads as serious and grounded. The palette is overwhelmingly neutral: #606562 and #b8bcba for body text and muted elements, #e6e9e8 and #eef1f0 for soft surfaces and canvases, with #0c0c0c and #101010 providing deep ink tones for high-impact typography. Against this subdued backdrop, two accent colors emerge: a restrained sage (#9ea790) that appears in environmental photography overlays and secondary badges, and a sharp signal red (#cc2e39) reserved for sale markers, limited-edition callouts, and urgent CTAs. The typography system leans on Exposure-10, a condensed, high-contrast geometric sans that gives headlines a technical, expedition-grade feel — think instrument panel labels and topographic map legends. Body copy runs in Geist, a clean, low-contrast sans that stays legible across product descriptions and spec tables. Corners are minimal: buttons use {rounded.sm} (8px), cards use {rounded.md} (12px), and the only full-radius element is the search bar at {rounded.full}, a deliberate contrast to the otherwise squared-off interface. The brand trusts density over whitespace — product cards pack images, specs, pricing, and reviews into tight {spacing.md} grids, and the nav bar carries five-plus links plus a utility menu without feeling crowded. The overall effect is a tool, not a destination: Peak Design’s site feels like the inside of a well-organized camera bag, where every compartment has a purpose and nothing is decorative.
 
 colors:
   primary: "#1a211e"
@@ -527,6 +531,8 @@ components:
 - Secondary navigation (breadcrumbs, filters) collapses to a single "Filter" button on mobile, opening a modal overlay
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for secondary buttons, text inputs, and navigation links are inferred from common patterns; exact color transitions and timing are not extracted
 - Error styling for form validation (error messages, icon placement, border animations) is not confirmed from the live site

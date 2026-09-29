@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Numskull (Geek Store)
-description: A collector's paradise that announces itself with a single, unapologetic voltage: #ffff00, a high-frequency yellow that appears on every primary CTA, badge, and accent element across the site. This is not a muted, nostalgic geekdom — it's a loud, confident celebration of pop-culture fandom where the yellow acts as a visual handshake between the brand and its audience. The canvas is pure white (#ffffff), creating maximum contrast for the yellow to pop against product photography of collectible figures, statues, and apparel. Type runs Montserrat at moderate weights — display headlines sit at 28px weight 600, body copy at 14px, and the system trusts product imagery and generous whitespace over typographic hierarchy. Navigation is a clean, full-width white bar with a prominent search field, category dropdowns, and a cart icon — utility over decoration. Product cards use soft corners ({rounded.sm} ~8px) and a subtle hairline border (#dddddd) to contain the visual energy of the product images, while the yellow accent appears on "Add to Cart" buttons, sale badges, and limited-edition callouts. The overall mood is that of a well-lit convention floor — bright, organized, and buzzing with the excitement of discovery.
+name: "Numskull (Geek Store)"
+source_url: "https://www.geekstore.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A collector's paradise that announces itself with a single, unapologetic voltage: #ffff00, a high-frequency yellow that appears on every primary CTA, badge, and accent element across the site. This is not a muted, nostalgic geekdom — it's a loud, confident celebration of pop-culture fandom where the yellow acts as a visual handshake between the brand and its audience. The canvas is pure white (#ffffff), creating maximum contrast for the yellow to pop against product photography of collectible figures, statues, and apparel. Type runs Montserrat at moderate weights — display headlines sit at 28px weight 600, body copy at 14px, and the system trusts product imagery and generous whitespace over typographic hierarchy. Navigation is a clean, full-width white bar with a prominent search field, category dropdowns, and a cart icon — utility over decoration. Product cards use soft corners ({rounded.sm} ~8px) and a subtle hairline border (#dddddd) to contain the visual energy of the product images, while the yellow accent appears on "Add to Cart" buttons, sale badges, and limited-edition callouts. The overall mood is that of a well-lit convention floor — bright, organized, and buzzing with the excitement of discovery.
 
 colors:
   primary: "#ffff00"
@@ -368,6 +372,8 @@ components:
 - Footer links collapse into accordion-style sections on mobile, with expandable categories to save vertical space
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 - Extracted color palette is minimal (only #ffff00 and #ffffff from the live site analysis); additional colors (ink, muted, badge colors, footer colors) are inferred from common e-commerce patterns and may not match the exact live site values
 - Font-family declarations found include Montserrat, Roboto, arial, monospace, sans-serif — Montserrat is assumed as the primary display font based on common usage in the collectibles space, but the exact hierarchy (weights, sizes, letter-spacing) is estimated from typical implementations
 - Hover states for buttons and cards are inferred from common patterns; exact transitions, box shadows, and color shifts may differ on the live site

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Shake It Records
-description: A Cincinnati institution since 1999, Shake It Records lives in a world of burnt orange and deep charcoal — #f48120 is the brand's unmistakable voltage, appearing across sale badges, category markers, and footer accents against a #dedada canvas that reads like worn concrete. The palette is unapologetically heavy: #444444 body text on #dedede surfaces, with #231f20 ink for headlines and #847c7c muted tones for secondary information, creating a visual density that mirrors the weight of vinyl crates and the grit of a well-loved storefront. Navigation is utilitarian and direct — a single row of genre links (Rock, Punk, Hip Hop, Soul, Jazz) rendered in all-caps at modest weight, with the search bar tucked into a compact pill (`{rounded.full}`) that doesn't compete with the merchandise. Product cards use soft corners (`{rounded.sm}`) and generous padding (`{spacing.base}`) to let album art breathe, while the shopping cart badge pulses with that signature orange. The checkout flow introduces a secondary blue (#006fcf) for action buttons — a deliberate contrast that separates browsing from buying. There is no hero imagery, no lifestyle photography; the site trusts the album covers themselves to sell the inventory. The footer is dense with links and store hours, anchored by the orange logo mark and a newsletter signup that mirrors the search bar's pill shape. Every design decision reads as practical rather than precious — this is a store that has been selling records for twenty-five years and knows exactly what its customers need to see.
+name: "Shake It Records"
+source_url: "https://www.shakeitrecords.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A Cincinnati institution since 1999, Shake It Records lives in a world of burnt orange and deep charcoal — #f48120 is the brand's unmistakable voltage, appearing across sale badges, category markers, and footer accents against a #dedada canvas that reads like worn concrete. The palette is unapologetically heavy: #444444 body text on #dedede surfaces, with #231f20 ink for headlines and #847c7c muted tones for secondary information, creating a visual density that mirrors the weight of vinyl crates and the grit of a well-loved storefront. Navigation is utilitarian and direct — a single row of genre links (Rock, Punk, Hip Hop, Soul, Jazz) rendered in all-caps at modest weight, with the search bar tucked into a compact pill (`{rounded.full}`) that doesn't compete with the merchandise. Product cards use soft corners (`{rounded.sm}`) and generous padding (`{spacing.base}`) to let album art breathe, while the shopping cart badge pulses with that signature orange. The checkout flow introduces a secondary blue (#006fcf) for action buttons — a deliberate contrast that separates browsing from buying. There is no hero imagery, no lifestyle photography; the site trusts the album covers themselves to sell the inventory. The footer is dense with links and store hours, anchored by the orange logo mark and a newsletter signup that mirrors the search bar's pill shape. Every design decision reads as practical rather than precious — this is a store that has been selling records for twenty-five years and knows exactly what its customers need to see.
 
 colors:
   primary: "#f48120"
@@ -308,6 +312,8 @@ components:
 - Newsletter signup moves from footer to below the nav on mobile for visibility
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No font-family declarations were extractable from the live site; Helvetica Neue is assumed as a common system font for record store sites, but the actual brand typeface is unknown
 - Hover and focus states for most components could not be reliably extracted; active states for buttons are inferred from the extracted color palette

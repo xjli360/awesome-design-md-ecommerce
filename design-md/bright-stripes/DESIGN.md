@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Bright Stripes
-description: A confetti-burst of a brand, where #fe3bae — a hot pink that reads like a highlighter dipped in bubblegum — is the primary voltage, flashing across buttons, badges, and the theme-color meta tag. The palette is a carnival of accents: #5bc6ce (a minty teal), #fcd94c (marigold yellow), #d96bff (violet), and #f5634c (coral red), all set against a warm off-white canvas of #fafefb and #f8efe6. Typography layers two distinct personalities: the hand-drawn, retro-sign-painter feel of MotelCalifornia-Regular for display headlines, and the clean, rounded sans-serif of Quicksand for body and buttons. The brand’s signature design move is the pill-shaped CTA — a `{rounded.full}` button in primary pink that says “Shop Now” or “Get Inspired” — and the liberal use of `{rounded.lg}` on product cards and image frames, creating a soft, approachable, almost edible quality. Every surface feels like a craft table: `{colors.surface-card}` is a warm cream (#fffaf6), `{colors.surface-soft}` is a barely-there blush (#fdf6ed), and `{colors.hairline}` is a gentle #dedede that never feels harsh. The nav bar is a clean white strip with a centered logo and a search icon, while the footer is a dense, organized grid of links in `{colors.muted}` (#6a6a6a). The brand trusts color and rounded geometry over heavy typography; there is no hard corner anywhere, and the overall mood is one of joyful, accessible creativity — a digital craft box that invites you to open it.
+name: "Bright Stripes"
+source_url: "https://brightstripes.co"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A confetti-burst of a brand, where #fe3bae — a hot pink that reads like a highlighter dipped in bubblegum — is the primary voltage, flashing across buttons, badges, and the theme-color meta tag. The palette is a carnival of accents: #5bc6ce (a minty teal), #fcd94c (marigold yellow), #d96bff (violet), and #f5634c (coral red), all set against a warm off-white canvas of #fafefb and #f8efe6. Typography layers two distinct personalities: the hand-drawn, retro-sign-painter feel of MotelCalifornia-Regular for display headlines, and the clean, rounded sans-serif of Quicksand for body and buttons. The brand’s signature design move is the pill-shaped CTA — a `{rounded.full}` button in primary pink that says “Shop Now” or “Get Inspired” — and the liberal use of `{rounded.lg}` on product cards and image frames, creating a soft, approachable, almost edible quality. Every surface feels like a craft table: `{colors.surface-card}` is a warm cream (#fffaf6), `{colors.surface-soft}` is a barely-there blush (#fdf6ed), and `{colors.hairline}` is a gentle #dedede that never feels harsh. The nav bar is a clean white strip with a centered logo and a search icon, while the footer is a dense, organized grid of links in `{colors.muted}` (#6a6a6a). The brand trusts color and rounded geometry over heavy typography; there is no hard corner anywhere, and the overall mood is one of joyful, accessible creativity — a digital craft box that invites you to open it.
 
 colors:
   primary: "#fe3bae"
@@ -374,6 +378,8 @@ components:
 - Hero sections reduce padding and may stack image and text vertically.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and active states for all components were inferred from common patterns; exact extracted values were not available.
 - Error styling for forms (error messages, validation icons) was not extracted.

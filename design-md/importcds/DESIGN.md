@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: ImportCDs
-description: A deep-catalog media retailer that treats every product page like a warehouse shelf — dense, functional, and built for scanning. The brand’s visual identity is anchored on a cool, commerce-blue primary (#2f7bbf) that appears on the top navigation bar, primary buttons, and key interactive elements, while a warm accent orange (#f68b1f) and a sharp red (#bd2426) serve as price-drop signals and sale badges. The canvas is a clean white (#ffffff) with a soft gray surface (#ebebeb) for secondary panels and a darker ink (#404040) for body copy, creating a high-contrast reading environment optimized for long lists of titles. Typography defaults to system fonts (Arial, Helvetica Neue, sans-serif) at modest weights — the brand doesn’t invest in a custom typeface, instead relying on clear hierarchy through size and weight alone. Product cards use a subtle border (#dedede) and minimal rounding ({rounded.sm} ~8px), while the search bar stretches full-width across the top with a pill shape ({rounded.full}) and a blue submit button. The overall impression is that of a no-nonsense catalog: every pixel earns its place through utility, not decoration. The extracted color palette is unusually broad (22 distinct hexes), suggesting heavy use of third-party widgets (payment badges, social icons) and product imagery, but the core brand system resolves to a restrained four-color skeleton — blue, orange, red, and gray — that handles everything from navigation to error states.
+name: "ImportCDs"
+source_url: "https://www.importcds.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep-catalog media retailer that treats every product page like a warehouse shelf — dense, functional, and built for scanning. The brand’s visual identity is anchored on a cool, commerce-blue primary (#2f7bbf) that appears on the top navigation bar, primary buttons, and key interactive elements, while a warm accent orange (#f68b1f) and a sharp red (#bd2426) serve as price-drop signals and sale badges. The canvas is a clean white (#ffffff) with a soft gray surface (#ebebeb) for secondary panels and a darker ink (#404040) for body copy, creating a high-contrast reading environment optimized for long lists of titles. Typography defaults to system fonts (Arial, Helvetica Neue, sans-serif) at modest weights — the brand doesn’t invest in a custom typeface, instead relying on clear hierarchy through size and weight alone. Product cards use a subtle border (#dedede) and minimal rounding ({rounded.sm} ~8px), while the search bar stretches full-width across the top with a pill shape ({rounded.full}) and a blue submit button. The overall impression is that of a no-nonsense catalog: every pixel earns its place through utility, not decoration. The extracted color palette is unusually broad (22 distinct hexes), suggesting heavy use of third-party widgets (payment badges, social icons) and product imagery, but the core brand system resolves to a restrained four-color skeleton — blue, orange, red, and gray — that handles everything from navigation to error states.
 
 colors:
   primary: "#2f7bbf"
@@ -471,6 +475,8 @@ components:
 - Hero banner reduces height on mobile, hiding secondary text and showing only the headline and primary CTA.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for most components could not be reliably extracted from the static HTML/CSS analysis. The hover values provided (e.g., `button-primary-active`) are inferred from common patterns and should be verified against the live site's CSS.
 - Error and success message styling is assumed based on the extracted red (#de5052) and green (#9bca3e) colors; actual implementation may use different backgrounds, borders, or iconography.

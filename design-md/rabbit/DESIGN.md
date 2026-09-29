@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Rabbit
-description: A running brand that trusts a deep navy anchor (#283347) over the usual neon energy, letting a single electric accent (#00adef) act as the only jolt across a palette of charcoal grays (#515151, #363636, #4a5764) and warm off-whites (#e5e3df, #f5f5f5). The brand name itself — lowercase, set in a condensed sans that feels like a bib number — appears on nearly every product shot as a tonal watermark, a quiet signature that doesn't compete with the athlete. Buttons carry {rounded.full} pill shapes and that #00adef voltage, while product cards use {rounded.sm} corners and generous {spacing.base} padding to keep the shopping experience as uncluttered as a race course. The typography stack mixes Brandon-Regular (a geometric sans with humanist warmth) for display moments with Avenir Next for body copy, creating a system that reads fast at a glance — critical for a category where customers are often scrolling mid-run. The extracted color list is heavy on grays and social-icon blues (#1da1f1, #4266b2), but the true brand signature lives in that #283347/#00adef pairing: a midnight navy and a cyan that together suggest dawn on a long run, not a startup dashboard.
+name: "Rabbit"
+source_url: "https://www.runinrabbit.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A running brand that trusts a deep navy anchor (#283347) over the usual neon energy, letting a single electric accent (#00adef) act as the only jolt across a palette of charcoal grays (#515151, #363636, #4a5764) and warm off-whites (#e5e3df, #f5f5f5). The brand name itself — lowercase, set in a condensed sans that feels like a bib number — appears on nearly every product shot as a tonal watermark, a quiet signature that doesn't compete with the athlete. Buttons carry {rounded.full} pill shapes and that #00adef voltage, while product cards use {rounded.sm} corners and generous {spacing.base} padding to keep the shopping experience as uncluttered as a race course. The typography stack mixes Brandon-Regular (a geometric sans with humanist warmth) for display moments with Avenir Next for body copy, creating a system that reads fast at a glance — critical for a category where customers are often scrolling mid-run. The extracted color list is heavy on grays and social-icon blues (#1da1f1, #4266b2), but the true brand signature lives in that #283347/#00adef pairing: a midnight navy and a cyan that together suggest dawn on a long run, not a startup dashboard.
 
 colors:
   primary: "#00adef"
@@ -388,6 +392,8 @@ components:
 - Hero text stacks vertically below 744px, with the CTA button full-width
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for product cards (shadow depth, scale) could not be reliably extracted — the current implementation uses a subtle shadow on hover, but exact values are unconfirmed
 - Error states for form inputs (validation styling, error message typography) were not present in the extracted data

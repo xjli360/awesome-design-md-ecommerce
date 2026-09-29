@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Genexa
-description: A clean-medicine brand that wears its clinical credibility like a white coat — the palette runs almost entirely on a grayscale axis from #0f0f0f to #f2f2f2, with two sharp accent voltages: a medical-blue #4d5bcd that appears on primary CTAs and ingredient callouts, and a warm-terracotta #ec523e reserved for sale badges, price drops, and urgency signals. The typography stack splits between TT Norms Pro (a geometric sans-serif with precise, almost pharmaceutical letterforms) for headings and body copy, and GalaxieCopernicus Book Italic — an unexpected serif italic used sparingly for pull-quotes or ingredient-story moments, lending a rare note of editorial warmth. Buttons use {rounded.sm} corners (8px) rather than pills, reinforcing a trustworthy, non-gimmicky feel — this is medicine, not a toy. The canvas is #ffffff, but the brand's true surface language is a layered gray: #f1efeb for soft cards, #dedede for dividers, and #d1d1d1 for disabled states. Product cards sit on {surface-card} with a subtle {hairline} border, and the hero section often uses a full-bleed image with a dark scrim (#121212 at 40%) and white text — a clean, confident, doctor's-office-meets-modern-DTC aesthetic. The overall mood is honest, minimal, and slightly serious, with the accents doing all the emotional work.
+name: "Genexa"
+source_url: "https://genexa.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A clean-medicine brand that wears its clinical credibility like a white coat — the palette runs almost entirely on a grayscale axis from #0f0f0f to #f2f2f2, with two sharp accent voltages: a medical-blue #4d5bcd that appears on primary CTAs and ingredient callouts, and a warm-terracotta #ec523e reserved for sale badges, price drops, and urgency signals. The typography stack splits between TT Norms Pro (a geometric sans-serif with precise, almost pharmaceutical letterforms) for headings and body copy, and GalaxieCopernicus Book Italic — an unexpected serif italic used sparingly for pull-quotes or ingredient-story moments, lending a rare note of editorial warmth. Buttons use {rounded.sm} corners (8px) rather than pills, reinforcing a trustworthy, non-gimmicky feel — this is medicine, not a toy. The canvas is #ffffff, but the brand's true surface language is a layered gray: #f1efeb for soft cards, #dedede for dividers, and #d1d1d1 for disabled states. Product cards sit on {surface-card} with a subtle {hairline} border, and the hero section often uses a full-bleed image with a dark scrim (#121212 at 40%) and white text — a clean, confident, doctor's-office-meets-modern-DTC aesthetic. The overall mood is honest, minimal, and slightly serious, with the accents doing all the emotional work.
 
 colors:
   primary: "#4d5bcd"
@@ -410,6 +414,8 @@ components:
 - Search bar in header collapses to an icon that expands on tap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states**: While some hover behaviors are inferred (button darkening, card shadows), exact transition durations and easing curves could not be extracted from static analysis
 - **Error states**: Form validation styling (error messages, success states) beyond the error border color is not documented

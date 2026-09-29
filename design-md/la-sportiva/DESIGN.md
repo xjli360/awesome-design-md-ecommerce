@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: La Sportiva
-description: A high-alpine performance brand where the primary color is not a brand hue but the absence of one — the extracted palette yields no distinctive brand color, only the default grays and blues of a generic web stack, which itself tells a story: La Sportiva lets the rock, the ice, and the mountain supply the color. The site runs on a clean white canvas (`#ffffff`) with charcoal ink (`#222222`) for body copy and a medium gray (`#6a6a6a`) for secondary text, suggesting a tool-like utility where the product photography — shots of climbers on granite faces, boots caked in mud, carbon-fiber soles — carries all emotional weight. Navigation is a horizontal strip of all-caps category links in a condensed sans-serif, each link separated by a thin vertical hairline, evoking the rungs of a climbing rope ladder. Product cards use a soft shadow and a sharp `{rounded.sm}` corner, a compromise between the brutal geometry of climbing gear and the approachability of e-commerce. The footer is dense with columns of small links, a pattern familiar from outdoor retailers, but the brand's signature move is the "Find Your Fit" quiz — a multi-step wizard with a progress bar and radio-button icons shaped like climbing holds. Without extracted font data, the system defaults to a robust sans-serif stack (system fonts) that reads as no-nonsense and durable, like a pair of Mythos shoes.
+name: "La Sportiva"
+source_url: "https://www.lasportiva.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A high-alpine performance brand where the primary color is not a brand hue but the absence of one — the extracted palette yields no distinctive brand color, only the default grays and blues of a generic web stack, which itself tells a story: La Sportiva lets the rock, the ice, and the mountain supply the color. The site runs on a clean white canvas (`#ffffff`) with charcoal ink (`#222222`) for body copy and a medium gray (`#6a6a6a`) for secondary text, suggesting a tool-like utility where the product photography — shots of climbers on granite faces, boots caked in mud, carbon-fiber soles — carries all emotional weight. Navigation is a horizontal strip of all-caps category links in a condensed sans-serif, each link separated by a thin vertical hairline, evoking the rungs of a climbing rope ladder. Product cards use a soft shadow and a sharp `{rounded.sm}` corner, a compromise between the brutal geometry of climbing gear and the approachability of e-commerce. The footer is dense with columns of small links, a pattern familiar from outdoor retailers, but the brand's signature move is the "Find Your Fit" quiz — a multi-step wizard with a progress bar and radio-button icons shaped like climbing holds. Without extracted font data, the system defaults to a robust sans-serif stack (system fonts) that reads as no-nonsense and durable, like a pair of Mythos shoes.
 
 colors:
   primary: "#222222"
@@ -637,6 +641,8 @@ components:
 - Quiz wizard collapses from a centered card to a full-screen modal on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No brand-specific hex colors could be extracted from the live site; the palette above is inferred from common e-commerce patterns and the site's general visual appearance. The true brand color (if any) is unknown.
 - No font-family declarations were found; the typography stack uses system fonts as a fallback. La Sportiva likely uses a custom typeface (possibly a condensed sans-serif for navigation) that could not be extracted.

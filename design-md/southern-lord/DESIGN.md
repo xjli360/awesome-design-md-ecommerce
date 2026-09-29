@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Southern Lord
-description: A deep, saturated blue (#003388) anchors a label and shop that traffics in heavy, atmospheric, and extreme music — the color reads like a midnight sky just before a storm, not a corporate navy. That primary blue appears on the header bar, primary buttons, and footer backgrounds, set against a warm off-white canvas (#eeeeee) that softens the intensity. The palette is unusually broad for a music brand: alongside the core blue sit a vivid cyan (#00d084), a bright electric blue (#0693e3), a deep purple (#7a00df), and a hot pink (#f78da7) — these appear as accent badges, genre tags, and limited-edition vinyl variant swatches, giving the shop a collector's-edition energy. Typography runs a single sans-serif stack (the only extracted font-family is WPMenuCart, likely a fallback or widget font, so the system defaults to a clean web-safe sans) at moderate sizes — body text sits around 14–16px, headings at 20–24px, with no heavy display weights. Buttons use the primary blue with white text and soft corners ({rounded.sm}), while the navigation bar is a dark blue (#003388) bar with white links. Product cards are white ({surface-card}) with a thin hairline border (#969696) and a subtle shadow, the album art doing all the emotional work. The overall feel is utilitarian but intentional — a record store that knows its audience wants the music front and center, with the shop as a clean, reliable container.
+name: "Southern Lord"
+source_url: "https://www.southernlord.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep, saturated blue (#003388) anchors a label and shop that traffics in heavy, atmospheric, and extreme music — the color reads like a midnight sky just before a storm, not a corporate navy. That primary blue appears on the header bar, primary buttons, and footer backgrounds, set against a warm off-white canvas (#eeeeee) that softens the intensity. The palette is unusually broad for a music brand: alongside the core blue sit a vivid cyan (#00d084), a bright electric blue (#0693e3), a deep purple (#7a00df), and a hot pink (#f78da7) — these appear as accent badges, genre tags, and limited-edition vinyl variant swatches, giving the shop a collector's-edition energy. Typography runs a single sans-serif stack (the only extracted font-family is WPMenuCart, likely a fallback or widget font, so the system defaults to a clean web-safe sans) at moderate sizes — body text sits around 14–16px, headings at 20–24px, with no heavy display weights. Buttons use the primary blue with white text and soft corners ({rounded.sm}), while the navigation bar is a dark blue (#003388) bar with white links. Product cards are white ({surface-card}) with a thin hairline border (#969696) and a subtle shadow, the album art doing all the emotional work. The overall feel is utilitarian but intentional — a record store that knows its audience wants the music front and center, with the shop as a clean, reliable container.
 
 colors:
   primary: "#003388"
@@ -342,6 +346,8 @@ components:
 - Search bar collapses to icon-only on mobile, expands on tap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The only extracted font-family was "WPMenuCart" — likely a widget or plugin font, not the brand's primary typeface. The actual body and heading fonts could not be determined; the system font stack used above is a best-guess fallback. If the brand uses a custom typeface (e.g., a heavy gothic or serif for headings), this should be updated.
 - No hover, focus, or active states could be reliably extracted beyond the primary button. All interaction states in this document are inferred from common patterns.

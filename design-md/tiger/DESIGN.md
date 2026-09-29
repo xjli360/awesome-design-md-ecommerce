@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Tiger
-description: Deep navy (#003388) anchors every navigation bar, footer panel, and hero overlay on Tiger's appliance storefront — a color dense enough to evoke the enamel finish of their vacuum-insulated flasks. Against a pale #eeeeee canvas, product photography does the persuading while typography stays lean and mechanical: Barlow Semi Condensed in medium weight handles headlines at scale, its narrow letterforms echoing the compressed proportions of a rice cooker's LCD display, while standard-width Barlow carries body copy with quiet geometric clarity. Noto Sans JP appears for bilingual product descriptions, a nod to Tiger's Osaka headquarters and the dual-market audience the US storefront serves. CTAs fire in #ff6900 — a saturated orange that reads as thermal energy, heat indicators, and the orange ring on the company's tiger-head logomark — while informational accents reach for #34e2e4, a bright teal used in feature callouts and comparison-table highlights. Cards hold `{rounded.sm}` corners, buttons sit at `{rounded.xs}`, and the overall geometry prefers right angles over softness, letting the brushed-steel product renders feel at home inside the UI frame. Spacing runs generous at section boundaries (`{spacing.section}` = 64px between feature blocks) but tightens inside product spec grids where data density matters. The palette deliberately avoids pastels and lifestyle warmth — this is an engineering-first brand that sells precision temperature control, vacuum insulation, and induction heating, and the interface mirrors that posture: dark structured headers, bright functional accents, white breathing room, nothing decorative that doesn't earn its pixel.
+name: "Tiger"
+source_url: "https://www.tiger-corporation.com/en/usa"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Deep navy (#003388) anchors every navigation bar, footer panel, and hero overlay on Tiger's appliance storefront — a color dense enough to evoke the enamel finish of their vacuum-insulated flasks. Against a pale #eeeeee canvas, product photography does the persuading while typography stays lean and mechanical: Barlow Semi Condensed in medium weight handles headlines at scale, its narrow letterforms echoing the compressed proportions of a rice cooker's LCD display, while standard-width Barlow carries body copy with quiet geometric clarity. Noto Sans JP appears for bilingual product descriptions, a nod to Tiger's Osaka headquarters and the dual-market audience the US storefront serves. CTAs fire in #ff6900 — a saturated orange that reads as thermal energy, heat indicators, and the orange ring on the company's tiger-head logomark — while informational accents reach for #34e2e4, a bright teal used in feature callouts and comparison-table highlights. Cards hold `{rounded.sm}` corners, buttons sit at `{rounded.xs}`, and the overall geometry prefers right angles over softness, letting the brushed-steel product renders feel at home inside the UI frame. Spacing runs generous at section boundaries (`{spacing.section}` = 64px between feature blocks) but tightens inside product spec grids where data density matters. The palette deliberately avoids pastels and lifestyle warmth — this is an engineering-first brand that sells precision temperature control, vacuum insulation, and induction heating, and the interface mirrors that posture: dark structured headers, bright functional accents, white breathing room, nothing decorative that doesn't earn its pixel.
 
 colors:
   primary: "#003388"
@@ -393,6 +397,8 @@ components:
 - Footer: multi-column layout becomes stacked accordions with expand/collapse toggles
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Extracted color list contains ~15 colors matching the default WordPress/Gutenberg palette (#00d084, #0693e3, #cf2e2e, #ff6900, #fcb900, #7bdcb5, #8ed1fc, #9b51e0, #f78da7, #abb8c3), suggesting the scraper captured a CMS color-picker widget rather than applied brand tokens; true brand-specific palette may be narrower
 - No CSS custom properties or design-token variables were captured — the site likely loads styles through a Shopify theme's compiled assets

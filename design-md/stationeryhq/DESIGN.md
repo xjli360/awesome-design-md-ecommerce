@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: StationeryHQ
-description: >
+name: "StationeryHQ"
+source_url: "https://www.stationeryhq.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Ocean teal (#0081a3) and forest green (#006e52) split the brand's visual authority in a way that most print-on-demand services never attempt: one color runs CTAs and navigation chrome, the other anchors secondary actions, confirmation states, and informational badges — a two-pole color system that keeps hierarchy legible even when a product grid is dense with paper stocks, finish options, and quantity tiers. The charcoal body ink (#58595b), noticeably softer than a true black, acts as a moderating tone between the bold chroma of that teal/green pair and the cool light grays (#dedede, #f0f0f0) that define card edges and form backgrounds. Arial is the sole typeface across every text scale — no web font payload, no FOUT, no rendering variance across operating systems — a choice that suits a Shopify-native checkout flow where milliseconds matter and accessibility compliance can't hinge on variable font fallback behavior. The lighter teal (#6cc4d5) appears in disabled states and pale badge fills, tying tonal variation back to the primary hue rather than introducing a third brand color. Corner radii land squarely in the utilitarian register: 4px on cards and inputs, none of the aggressive pill shapes that DTC apparel brands favor. Near-black (#121212) is reserved for display headings and primary navigation labels where maximum contrast is required, while the charcoal (#58595b) handles all running body copy. The #0000ff in the extracted palette is almost certainly browser-default link styling rather than a branded color. The result is a system engineered for a B2B/B2C hybrid audience — creative professionals ordering bulk business cards alongside consumers designing single-run wedding invitations — with a visual language that prioritizes form legibility, color-coded status clarity, and sub-second load times over editorial drama.
 
 colors:
@@ -428,6 +431,8 @@ components:
 - Category filter tabs above product grids collapse into a horizontally scrollable single-row strip on mobile, no wrapping
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom typeface detected — Arial is the sole font stack across all extracted styles; it is unknown whether a display or brand font loads via JavaScript after initial paint or via a third-party font service not caught by static extraction.
 - Only 9 hex values were extracted; error states (red), success states, warning colors, and focus ring variants are inferred from the primary palette and Shopify defaults rather than observed directly.

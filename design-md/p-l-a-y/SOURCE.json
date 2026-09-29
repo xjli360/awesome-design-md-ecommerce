@@ -1,0 +1,928 @@
+{
+  "source_url": "https://petplay.com",
+  "final_url": "https://www.playpetbrands.com/",
+  "captured_at": "2026-09-28T09:53:46.489814+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://petplay.com",
+      "final_url": "https://www.playpetbrands.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "eb6cbb6186187491a28167a0e408647fd0d7d7f762745ed61687292fe82bdb8c",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+      "final_url": "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "571fdb051d90870fcb6048be38658cae6cd3adff397a9455865aee1ce77949c8",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485",
+      "final_url": "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "fb672b5fcdbc02d71ebb8a5e99bc54d6f5c41d435b2e0321fc41e9c2b1ba8fe6",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.playpetbrands.com/cdn/shop/t/5/assets/bootstrap-modal-custom.scss.css?v=97331615380422876971733757541",
+      "final_url": "https://www.playpetbrands.com/cdn/shop/t/5/assets/bootstrap-modal-custom.scss.css?v=97331615380422876971733757541",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "58c64aa9ab750e1f8d1f7a421627e868f29313471a40f7249a1006246ff283ba",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408",
+      "final_url": "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4fe50e6f9ce15faa9c06187d363f812841bb4bac25fcc71858a029ca83317552",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.playpetbrands.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.playpetbrands.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 249,
+      "sources": [
+        "https://www.playpetbrands.com/",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/bootstrap-modal-custom.scss.css?v=97331615380422876971733757541",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408",
+        "https://www.playpetbrands.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#402b24": {
+      "count": 139,
+      "sources": [
+        "https://www.playpetbrands.com/",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+      ]
+    },
+    "#339985": {
+      "count": 91,
+      "sources": [
+        "https://www.playpetbrands.com/",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+      ]
+    },
+    "#111111": {
+      "count": 64,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485"
+      ]
+    },
+    "#f9f8f7": {
+      "count": 57,
+      "sources": [
+        "https://www.playpetbrands.com/",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+      ]
+    },
+    "#000000": {
+      "count": 48,
+      "sources": [
+        "https://www.playpetbrands.com/",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/bootstrap-modal-custom.scss.css?v=97331615380422876971733757541"
+      ]
+    },
+    "#919da9": {
+      "count": 38,
+      "sources": [
+        "https://www.playpetbrands.com/"
+      ]
+    },
+    "#ffffffcc": {
+      "count": 36,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 34,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485"
+      ]
+    },
+    "#e4e4e4": {
+      "count": 33,
+      "sources": [
+        "https://www.playpetbrands.com/",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485"
+      ]
+    },
+    "#222222": {
+      "count": 30,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+      ]
+    },
+    "#a59483": {
+      "count": 22,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+      ]
+    },
+    "#f05123": {
+      "count": 20,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+      ]
+    },
+    "#111111cc": {
+      "count": 19,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485"
+      ]
+    },
+    "#a7a7a7": {
+      "count": 13,
+      "sources": [
+        "https://www.playpetbrands.com/"
+      ]
+    },
+    "#eca730": {
+      "count": 13,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+      ]
+    },
+    "#108474": {
+      "count": 12,
+      "sources": [
+        "https://www.playpetbrands.com/"
+      ]
+    },
+    "#555555": {
+      "count": 12,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485"
+      ]
+    },
+    "#e6e0d0": {
+      "count": 11,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+      ]
+    },
+    "#c9c7c3": {
+      "count": 10,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+      ]
+    },
+    "#eeedeb": {
+      "count": 10,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+      ]
+    },
+    "#121212": {
+      "count": 9,
+      "sources": [
+        "https://www.playpetbrands.com/",
+        "https://www.playpetbrands.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#30201b": {
+      "count": 8,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485"
+      ]
+    },
+    "#11111180": {
+      "count": 7,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485"
+      ]
+    },
+    "#11111133": {
+      "count": 7,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485"
+      ]
+    },
+    "#3c5baa": {
+      "count": 7,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+      ]
+    },
+    "#34402c": {
+      "count": 7,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+      ]
+    },
+    "#d1c979": {
+      "count": 7,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+      ]
+    },
+    "#745d80": {
+      "count": 7,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+      ]
+    },
+    "#cccccc": {
+      "count": 6,
+      "sources": [
+        "https://www.playpetbrands.com/",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485"
+      ]
+    },
+    "#e31313": {
+      "count": 6,
+      "sources": [
+        "https://www.playpetbrands.com/"
+      ]
+    },
+    "#e3e3e3": {
+      "count": 6,
+      "sources": [
+        "https://www.playpetbrands.com/",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485"
+      ]
+    },
+    "#ffffff33": {
+      "count": 6,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485"
+      ]
+    },
+    "#999999": {
+      "count": 6,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485"
+      ]
+    },
+    "#d12328": {
+      "count": 6,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485"
+      ]
+    },
+    "#402b240d": {
+      "count": 6,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485"
+      ]
+    },
+    "#402b2440": {
+      "count": 6,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485"
+      ]
+    },
+    "#1111110d": {
+      "count": 5,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485"
+      ]
+    },
+    "#402b24b3": {
+      "count": 5,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485"
+      ]
+    },
+    "#c00000": {
+      "count": 5,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485"
+      ]
+    },
+    "#ffffff80": {
+      "count": 5,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485"
+      ]
+    },
+    "#1111111a": {
+      "count": 5,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 5,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485"
+      ]
+    },
+    "#402b2433": {
+      "count": 5,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 4,
+      "sources": [
+        "https://www.playpetbrands.com/",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977"
+      ]
+    },
+    "#ffffff1a": {
+      "count": 4,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485"
+      ]
+    },
+    "#00000099": {
+      "count": 4,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+      ]
+    },
+    "#00964d": {
+      "count": 4,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485"
+      ]
+    },
+    "#ffffff4d": {
+      "count": 4,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485"
+      ]
+    },
+    "#eeeeee": {
+      "count": 3,
+      "sources": [
+        "https://www.playpetbrands.com/"
+      ]
+    },
+    "#d0d0d0": {
+      "count": 3,
+      "sources": [
+        "https://www.playpetbrands.com/"
+      ]
+    },
+    "#c6d3e4": {
+      "count": 3,
+      "sources": [
+        "https://www.playpetbrands.com/"
+      ]
+    },
+    "#402b24cc": {
+      "count": 3,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485"
+      ]
+    },
+    "#402b248c": {
+      "count": 3,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485"
+      ]
+    },
+    "#00000014": {
+      "count": 3,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+      ]
+    },
+    "#f4f4f3": {
+      "count": 3,
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 2,
+      "sources": [
+        "https://www.playpetbrands.com/"
+      ]
+    },
+    "#444749": {
+      "count": 2,
+      "sources": [
+        "https://www.playpetbrands.com/"
+      ]
+    },
+    "#b9bfca": {
+      "count": 2,
+      "sources": [
+        "https://www.playpetbrands.com/"
+      ]
+    },
+    "#d62d20": {
+      "count": 2,
+      "sources": [
+        "https://www.playpetbrands.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "Andale Mono": [
+      "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+    ],
+    "Arial": [
+      "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+      "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+    ],
+    "Baskerville": [
+      "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977"
+    ],
+    "CooperBTLight": [
+      "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+    ],
+    "Font Awesome 5 Free": [
+      "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+    ],
+    "FontAwesome": [
+      "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+    ],
+    "Georgia": [
+      "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+    ],
+    "Helvetica": [
+      "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+    ],
+    "JudgemeStar": [
+      "https://www.playpetbrands.com/"
+    ],
+    "Lato": [
+      "https://www.playpetbrands.com/",
+      "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+      "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485"
+    ],
+    "Lucida Console": [
+      "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+    ],
+    "Manrope": [
+      "https://www.playpetbrands.com/",
+      "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+      "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485",
+      "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+    ],
+    "Menlo": [
+      "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+    ],
+    "Monaco": [
+      "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+    ],
+    "monospace": [
+      "https://www.playpetbrands.com/",
+      "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+      "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+    ],
+    "sans-serif": [
+      "https://www.playpetbrands.com/",
+      "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+      "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485",
+      "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+    ],
+    "sb-icons": [
+      "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+      "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485"
+    ],
+    "sb-icons!important": [
+      "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977"
+    ],
+    "serif": [
+      "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.playpetbrands.com/",
+      "selector": ".__pf .pf-gs-button-1",
+      "declarations": "background-color:#919da9;color:#fff"
+    },
+    {
+      "source": "https://www.playpetbrands.com/",
+      "selector": ".__pf .pf-gs-button-2",
+      "declarations": "color:#919da9;border:1px solid #919da9"
+    },
+    {
+      "source": "https://www.playpetbrands.com/",
+      "selector": ".__pf .pf-gs-button-3",
+      "declarations": "background-color:#919da9;color:#fff;border-radius:40px"
+    },
+    {
+      "source": "https://www.playpetbrands.com/",
+      "selector": ".__pf .pf-gs-button-4",
+      "declarations": "color:#919da9;border-radius:40px;border:1px solid #919da9;padding:12px 20px;margin:0;font-size:16px;line-height:16px;letter-spacing:0"
+    },
+    {
+      "source": "https://www.playpetbrands.com/",
+      "selector": ".__pf .pf-gs-button-5,.__pf .pf-gs-button-6",
+      "declarations": "color:#919da9;border-style:solid;border-color:#919da9;padding:12px 20px;font-size:16px;line-height:16px;letter-spacing:0"
+    },
+    {
+      "source": "https://www.playpetbrands.com/",
+      "selector": "[data-pf-type^=Button]",
+      "declarations": "background-color:var(--pf-scheme-btn-bg-color);background-image:var(--pf-scheme-btn-bg-gradient-color);color:var(--pf-scheme-btn-text-color)"
+    },
+    {
+      "source": "https://www.playpetbrands.com/",
+      "selector": ".__pf .pf-button-2",
+      "declarations": "background-color:#919da9;color:#fff"
+    },
+    {
+      "source": "https://www.playpetbrands.com/",
+      "selector": ".__pf .pf-button-3",
+      "declarations": "color:#919da9;border:1px solid #919da9"
+    },
+    {
+      "source": "https://www.playpetbrands.com/",
+      "selector": ".__pf .pf-button-4",
+      "declarations": "background-color:#919da9;color:#fff;border-radius:40px"
+    },
+    {
+      "source": "https://www.playpetbrands.com/",
+      "selector": ".__pf .pf-button-5",
+      "declarations": "color:#919da9;border-radius:40px;border:1px solid #919da9;padding:12px 20px;margin:0;font-size:16px;line-height:16px;letter-spacing:0"
+    },
+    {
+      "source": "https://www.playpetbrands.com/",
+      "selector": ".__pf .pf-button-6,.__pf .pf-button-7",
+      "declarations": "color:#919da9;border-style:solid;border-color:#919da9;margin:0;font-size:16px;line-height:16px;letter-spacing:0;padding:12px 20px"
+    },
+    {
+      "source": "https://www.playpetbrands.com/",
+      "selector": ".__pf .pf-button-8",
+      "declarations": "background-color:#919da9;color:#fff;padding:12px 20px"
+    },
+    {
+      "source": "https://www.playpetbrands.com/",
+      "selector": ".__pf .pf-heading-1-h1,.__pf .pf-heading-1-h2,.__pf .pf-heading-1-h3,.__pf .pf-heading-1-h4,.__pf .pf-heading-1-h5,.__pf .pf-heading-1-h6",
+      "declarations": "color:var(--pf-scheme-text-color);background-color:var(--pf-scheme-bg-color)"
+    },
+    {
+      "source": "https://www.playpetbrands.com/",
+      "selector": ".__pf .pf-heading-2-h1,.__pf .pf-heading-2-h2,.__pf .pf-heading-2-h3,.__pf .pf-heading-2-h4,.__pf .pf-heading-2-h5,.__pf .pf-heading-2-h6",
+      "declarations": "margin:18px 0;font-size:32px;color:#000;padding:0"
+    },
+    {
+      "source": "https://www.playpetbrands.com/",
+      "selector": ".__pf .pf-heading-3-h1,.__pf .pf-heading-3-h2,.__pf .pf-heading-3-h3,.__pf .pf-heading-3-h4,.__pf .pf-heading-3-h5,.__pf .pf-heading-3-h6",
+      "declarations": "margin:18px 0;font-size:24px;color:#000;padding:0"
+    },
+    {
+      "source": "https://www.playpetbrands.com/",
+      "selector": ".__pf .pf-heading-4-h1,.__pf .pf-heading-4-h2,.__pf .pf-heading-4-h3,.__pf .pf-heading-4-h4,.__pf .pf-heading-4-h5,.__pf .pf-heading-4-h6",
+      "declarations": "margin:18px 0;font-size:20px;color:#000;padding:0"
+    },
+    {
+      "source": "https://www.playpetbrands.com/",
+      "selector": ".__pf .pf-heading-5-h1,.__pf .pf-heading-5-h2,.__pf .pf-heading-5-h3,.__pf .pf-heading-5-h4,.__pf .pf-heading-5-h5,.__pf .pf-heading-5-h6",
+      "declarations": "margin:18px 0;font-size:18px;color:#000;padding:0"
+    },
+    {
+      "source": "https://www.playpetbrands.com/",
+      "selector": ".__pf .pf-heading-6-h1,.__pf .pf-heading-6-h2,.__pf .pf-heading-6-h3,.__pf .pf-heading-6-h4,.__pf .pf-heading-6-h5,.__pf .pf-heading-6-h6",
+      "declarations": "margin:18px 0;font-size:16px;color:#000;padding:0"
+    },
+    {
+      "source": "https://www.playpetbrands.com/",
+      "selector": ".__pf .pf-heading-7-h1,.__pf .pf-heading-7-h2,.__pf .pf-heading-7-h3,.__pf .pf-heading-7-h4,.__pf .pf-heading-7-h5,.__pf .pf-heading-7-h6",
+      "declarations": "margin:18px 0;font-size:14px;color:#000;padding:0"
+    },
+    {
+      "source": "https://www.playpetbrands.com/",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #108474;--jdgm-secondary-color: rgba(16,132,116,0.1);--jdgm-star-color: #108474;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #108474;--jdgm-paginate-color: #108474;--jdgm-border-radius: 10;--jdgm-reviewer-name-color: #108474"
+    },
+    {
+      "source": "https://www.playpetbrands.com/",
+      "selector": ".header, .header--mega .primary-nav .nav__sub-wrap",
+      "declarations": "background-color: #ffffff"
+    },
+    {
+      "source": "https://www.playpetbrands.com/",
+      "selector": ".spurit-occ2-popup body",
+      "declarations": "line-height:1;font-family:sans-serif"
+    },
+    {
+      "source": "https://www.playpetbrands.com/",
+      "selector": ".spurit-occ2-popup button,.spurit-occ2-popup input,.spurit-occ2-popup optgroup,.spurit-occ2-popup select,.spurit-occ2-popup textarea",
+      "declarations": "margin:0;font-family:inherit;font-size:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://www.playpetbrands.com/",
+      "selector": ".spurit-occ2-popup.spurit-occ2-template-0 .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-cell",
+      "declarations": "border-color:#d0d0d0"
+    },
+    {
+      "source": "https://www.playpetbrands.com/",
+      "selector": ".spurit-occ2-popup.spurit-occ2-template-1 .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-cell",
+      "declarations": "border-color:#a7a7a7"
+    },
+    {
+      "source": "https://www.playpetbrands.com/",
+      "selector": ".spurit-occ2-popup.spurit-occ2-template-2 .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-cell",
+      "declarations": "border-color:#d0d0d0"
+    },
+    {
+      "source": "https://www.playpetbrands.com/",
+      "selector": ".spurit-occ2-popup.spurit-occ2-template-3 .spurit-occ2-header:after",
+      "declarations": "content:\"\";display:block;position:absolute;height:1px;bottom:-1px;left:25px;right:25px;background-color:#a7a7a7"
+    },
+    {
+      "source": "https://www.playpetbrands.com/",
+      "selector": ".spurit-occ2-popup.spurit-occ2-template-3 .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-cell",
+      "declarations": "border-color:#a7a7a7"
+    },
+    {
+      "source": "https://www.playpetbrands.com/",
+      "selector": ".spurit-occ2-popup.spurit-occ2-template-4 .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-cell",
+      "declarations": "border-color:#e3e3e3"
+    },
+    {
+      "source": "https://www.playpetbrands.com/",
+      "selector": ".spurit-occ2-popup.spurit-occ2-template-5 .spurit-occ2-body .spurit-occ2-products-list .spurit-occ2-product-row .spurit-occ2-product-cell",
+      "declarations": "border-color:#e3e3e3"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Play Pet Brands | Dog and Cat Beds, Toys + Gear",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.playpetbrands.com/",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.playpetbrands.com/",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/bootstrap-modal-custom.scss.css?v=97331615380422876971733757541"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.playpetbrands.com/",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/bootstrap-modal-custom.scss.css?v=97331615380422876971733757541",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408",
+        "https://www.playpetbrands.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.playpetbrands.com/",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.playpetbrands.com/",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.playpetbrands.com/",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/bootstrap-modal-custom.scss.css?v=97331615380422876971733757541",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408",
+        "https://www.playpetbrands.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.playpetbrands.com/"
+      ]
+    },
+    "colors.accent-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.playpetbrands.com/",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-critical.scss.css?v=96139875089684098101772125977",
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+      ]
+    },
+    "colors.accent-amber": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+      ]
+    },
+    "colors.accent-orange": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme-custom.scss.css?v=147421981751171690571787235408"
+      ]
+    },
+    "colors.accent-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.playpetbrands.com/cdn/shop/t/5/assets/theme.scss.css?v=29299329401158990241772124485"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.playpetbrands.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.size-selector": {
+      "status": "inferred"
+    }
+  }
+}

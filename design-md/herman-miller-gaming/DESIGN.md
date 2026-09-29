@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Herman Miller Gaming
-description: A red alert (#d74039) against a near-white field (#fafafa) — the brand's primary voltage is an urgent, automotive-grade crimson that appears nowhere in the Herman Miller office-furniture palette. This is the signal that the gaming line is a different machine: darker, faster, built for extended sessions rather than conference-room meetings. The extracted palette runs from near-black (#1b1b1b) through charcoal (#252525) to warm grays (#616161, #c6c6c6, #e4e4e4, #ebebeb), with a secondary red (#e22d00) and a deep burgundy (#8a223b) that suggest a racing stripe or a cockpit accent. Söhne, the typeface, carries the whole system — a geometric sans with moderate contrast that reads as precise without being cold. Buttons use {rounded.sm} (8px) corners, not the pill shapes of consumer gaming peripherals; the brand trusts a sharper, more architectural edge. The canvas is white (#fafafa), not black, which creates a surprising tension: the reds and charcoals pop harder against a bright ground than they would against a dark one. This is a gaming brand that refuses to look like a gaming brand — no neon, no gradients, no cyberpunk. Just red, white, and black, with Söhne doing the talking.
+name: "Herman Miller Gaming"
+source_url: "https://www.hermanmiller.com/gaming"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A red alert (#d74039) against a near-white field (#fafafa) — the brand's primary voltage is an urgent, automotive-grade crimson that appears nowhere in the Herman Miller office-furniture palette. This is the signal that the gaming line is a different machine: darker, faster, built for extended sessions rather than conference-room meetings. The extracted palette runs from near-black (#1b1b1b) through charcoal (#252525) to warm grays (#616161, #c6c6c6, #e4e4e4, #ebebeb), with a secondary red (#e22d00) and a deep burgundy (#8a223b) that suggest a racing stripe or a cockpit accent. Söhne, the typeface, carries the whole system — a geometric sans with moderate contrast that reads as precise without being cold. Buttons use {rounded.sm} (8px) corners, not the pill shapes of consumer gaming peripherals; the brand trusts a sharper, more architectural edge. The canvas is white (#fafafa), not black, which creates a surprising tension: the reds and charcoals pop harder against a bright ground than they would against a dark one. This is a gaming brand that refuses to look like a gaming brand — no neon, no gradients, no cyberpunk. Just red, white, and black, with Söhne doing the talking.
 
 colors:
   primary: "#d74039"
@@ -377,6 +381,8 @@ components:
 - Product card badges shift from top-left to top-right on mobile to avoid overlap with image edges
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components are inferred from common patterns; actual extracted hover colors are not available
 - Error state styling for forms (error messages, iconography) is not extracted

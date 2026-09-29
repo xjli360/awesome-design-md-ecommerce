@@ -1,0 +1,909 @@
+{
+  "source_url": "https://sakara.com",
+  "final_url": "https://www.sakara.com/",
+  "captured_at": "2026-09-29T04:00:50.287849+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://sakara.com",
+      "final_url": "https://www.sakara.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "01660765653088513ab6e0ea34f4bdc172be57c1dad6cdcc74023ae4157c5e11",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.sakara.com/_astro/CartPopupDialog.CkjDbNZS.css",
+      "final_url": "https://www.sakara.com/_astro/CartPopupDialog.CkjDbNZS.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "4a74219d0c48afd85df5feb6bf0524fd9d893e44f671ccd0bab66d55aa8c6736",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "final_url": "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "efc143db2f2e8de13d42947012dc8d7b8d6846bc0fe6efe379b6732232413ffe",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.sakara.com/_astro/global.DDfMnA8O.css",
+      "final_url": "https://www.sakara.com/_astro/global.DDfMnA8O.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "b854b1d743066e0416da86070783c7a5fd297d49a964585e808ef275899295fa",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.sakara.com/_astro/Carousel.CeY-Lq9Y.css",
+      "final_url": "https://www.sakara.com/_astro/Carousel.CeY-Lq9Y.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "2607eb0974ffad3db9da906b697fb3b77af41888e476087b6a4452d021801824",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.sakara.com/_astro/Header.UQTyjqVb.css",
+      "final_url": "https://www.sakara.com/_astro/Header.UQTyjqVb.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "af4d1371b2883945b372537340e97fb593a6efd94f2f6e5c6117eff04bd00552",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 89,
+      "sources": [
+        "https://www.sakara.com/",
+        "https://www.sakara.com/_astro/CartPopupDialog.CkjDbNZS.css",
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css",
+        "https://www.sakara.com/_astro/Carousel.CeY-Lq9Y.css",
+        "https://www.sakara.com/_astro/Header.UQTyjqVb.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 85,
+      "sources": [
+        "https://www.sakara.com/",
+        "https://www.sakara.com/_astro/CartPopupDialog.CkjDbNZS.css",
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css",
+        "https://www.sakara.com/_astro/Carousel.CeY-Lq9Y.css",
+        "https://www.sakara.com/_astro/Header.UQTyjqVb.css"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 72,
+      "sources": [
+        "https://www.sakara.com/",
+        "https://www.sakara.com/_astro/CartPopupDialog.CkjDbNZS.css",
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css",
+        "https://www.sakara.com/_astro/Carousel.CeY-Lq9Y.css",
+        "https://www.sakara.com/_astro/Header.UQTyjqVb.css"
+      ]
+    },
+    "#ff6341": {
+      "count": 22,
+      "sources": [
+        "https://www.sakara.com/",
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#00000000": {
+      "count": 21,
+      "sources": [
+        "https://www.sakara.com/",
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#00000080": {
+      "count": 20,
+      "sources": [
+        "https://www.sakara.com/",
+        "https://www.sakara.com/_astro/CartPopupDialog.CkjDbNZS.css",
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 16,
+      "sources": [
+        "https://www.sakara.com/",
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+        "https://www.sakara.com/_astro/Carousel.CeY-Lq9Y.css"
+      ]
+    },
+    "#00000040": {
+      "count": 11,
+      "sources": [
+        "https://www.sakara.com/",
+        "https://www.sakara.com/_astro/CartPopupDialog.CkjDbNZS.css",
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css",
+        "https://www.sakara.com/_astro/Header.UQTyjqVb.css"
+      ]
+    },
+    "#fafaf8": {
+      "count": 10,
+      "sources": [
+        "https://www.sakara.com/",
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#dadada": {
+      "count": 7,
+      "sources": [
+        "https://www.sakara.com/",
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css"
+      ]
+    },
+    "#00873b": {
+      "count": 6,
+      "sources": [
+        "https://www.sakara.com/",
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css",
+        "https://www.sakara.com/_astro/Header.UQTyjqVb.css"
+      ]
+    },
+    "#ffffff80": {
+      "count": 6,
+      "sources": [
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#f5f5f1": {
+      "count": 5,
+      "sources": [
+        "https://www.sakara.com/",
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#ebebe4": {
+      "count": 5,
+      "sources": [
+        "https://www.sakara.com/",
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#5bab5d": {
+      "count": 5,
+      "sources": [
+        "https://www.sakara.com/",
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#0e121659": {
+      "count": 4,
+      "sources": [
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+        "https://www.sakara.com/_astro/Header.UQTyjqVb.css"
+      ]
+    },
+    "#0e121633": {
+      "count": 4,
+      "sources": [
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+        "https://www.sakara.com/_astro/Header.UQTyjqVb.css"
+      ]
+    },
+    "#ffffffbf": {
+      "count": 4,
+      "sources": [
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#747474": {
+      "count": 3,
+      "sources": [
+        "https://www.sakara.com/",
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css"
+      ]
+    },
+    "#ec413a": {
+      "count": 3,
+      "sources": [
+        "https://www.sakara.com/",
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 3,
+      "sources": [
+        "https://www.sakara.com/",
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css"
+      ]
+    },
+    "#00000026": {
+      "count": 3,
+      "sources": [
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 2,
+      "sources": [
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+        "https://www.sakara.com/_astro/Header.UQTyjqVb.css"
+      ]
+    },
+    "#dfe3ae": {
+      "count": 2,
+      "sources": [
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#ede15b": {
+      "count": 2,
+      "sources": [
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#dbdf76": {
+      "count": 2,
+      "sources": [
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 2,
+      "sources": [
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#000000bf": {
+      "count": 2,
+      "sources": [
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#ffffff26": {
+      "count": 2,
+      "sources": [
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#25b755": {
+      "count": 1,
+      "sources": [
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css"
+      ]
+    },
+    "#007aff": {
+      "count": 1,
+      "sources": [
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css"
+      ]
+    },
+    "#3b82f680": {
+      "count": 1,
+      "sources": [
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#ffffff40": {
+      "count": 1,
+      "sources": [
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#cad556": {
+      "count": 1,
+      "sources": [
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#aecea7": {
+      "count": 1,
+      "sources": [
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#f89d3e": {
+      "count": 1,
+      "sources": [
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#ef673e": {
+      "count": 1,
+      "sources": [
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#ef673e80": {
+      "count": 1,
+      "sources": [
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#ef673e40": {
+      "count": 1,
+      "sources": [
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#e8c8a4": {
+      "count": 1,
+      "sources": [
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#35252c": {
+      "count": 1,
+      "sources": [
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#76194e": {
+      "count": 1,
+      "sources": [
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#76194e80": {
+      "count": 1,
+      "sources": [
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#76194e40": {
+      "count": 1,
+      "sources": [
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#4d0541": {
+      "count": 1,
+      "sources": [
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#dbdf7680": {
+      "count": 1,
+      "sources": [
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#dbdf7640": {
+      "count": 1,
+      "sources": [
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#718e22": {
+      "count": 1,
+      "sources": [
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#8f0e0e": {
+      "count": 1,
+      "sources": [
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "#0000004d": {
+      "count": 1,
+      "sources": [
+        "https://www.sakara.com/_astro/Carousel.CeY-Lq9Y.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+    ],
+    "Apple Color Emoji": [
+      "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+    ],
+    "Arial": [
+      "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+    ],
+    "BlinkMacSystemFont": [
+      "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+    ],
+    "Consolas": [
+      "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+    ],
+    "Courier New": [
+      "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+    ],
+    "Gestura Headline": [
+      "https://www.sakara.com/",
+      "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+    ],
+    "Gestura Text": [
+      "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+    ],
+    "Helvetica Neue": [
+      "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+    ],
+    "Liberation Mono": [
+      "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+    ],
+    "Menlo": [
+      "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+    ],
+    "Monaco": [
+      "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+    ],
+    "Noto Color Emoji": [
+      "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+    ],
+    "Noto Sans": [
+      "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+    ],
+    "Rework Text": [
+      "https://www.sakara.com/",
+      "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+    ],
+    "Roboto": [
+      "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+    ],
+    "SFMono-Regular": [
+      "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+    ],
+    "Segoe UI": [
+      "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+    ],
+    "Segoe UI Emoji": [
+      "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+    ],
+    "Segoe UI Symbol": [
+      "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+    ],
+    "monospace": [
+      "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+    ],
+    "sans-serif": [
+      "https://www.sakara.com/",
+      "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+    ],
+    "serif": [
+      "https://www.sakara.com/",
+      "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+    ],
+    "system-ui": [
+      "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+    ],
+    "ui-monospace": [
+      "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+    ],
+    "ui-sans-serif": [
+      "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.sakara.com/",
+      "selector": "._AdditionalInfoDialog_header_j1GyD_22",
+      "declarations": "font-family:Gestura Headline,serif;font-size:1.75rem;line-height:1"
+    },
+    {
+      "source": "https://www.sakara.com/",
+      "selector": "._AdditionalInfoDialog_body_j1GyD_28 a",
+      "declarations": "text-underline-offset:4px;text-decoration:underline 1px;text-decoration-color:var(--theme-text-color)"
+    },
+    {
+      "source": "https://www.sakara.com/",
+      "selector": ":root",
+      "declarations": "--mobile-slide-width:140px;--desktop-slide-width:180px"
+    },
+    {
+      "source": "https://www.sakara.com/",
+      "selector": ".product-card .product-card__image-wrapper",
+      "declarations": "aspect-ratio:3/4;background-color:var(--background-color,#f7f7f7)"
+    },
+    {
+      "source": "https://www.sakara.com/",
+      "selector": ".product-card .product-card__compare-price",
+      "declarations": "color:#747474;text-decoration:line-through"
+    },
+    {
+      "source": "https://www.sakara.com/",
+      "selector": ".contact-form-header",
+      "declarations": "background-color:#fff;width:100%;height:50px;position:absolute;top:0"
+    },
+    {
+      "source": "https://www.sakara.com/",
+      "selector": ".section-rich-text-button-group",
+      "declarations": "--button-group-width:460px;--min-button-width:calc((var(--button-group-width) - 24px) / 2);text-align:center;max-width:var(--button-group-width);grid-template-rows:repeat(1,1fr);justify-content:center;gap:24px;width:100%;display:grid"
+    },
+    {
+      "source": "https://www.sakara.com/",
+      "selector": ".bundle-up-sell .add-to-cart-button",
+      "declarations": "z-index:1;color:#000;background-color:#fff;border:1px solid #000;padding:12px 16px;position:absolute;bottom:16px;right:16px"
+    },
+    {
+      "source": "https://www.sakara.com/",
+      "selector": ".nutrition-hero-section .buying-panel__action-button--primary",
+      "declarations": "color:#fff;background-color:#000"
+    },
+    {
+      "source": "https://www.sakara.com/",
+      "selector": ".nutrition-hero-section .buying-panel__action-button--primary:hover",
+      "declarations": "color:#000;background-color:#fff"
+    },
+    {
+      "source": "https://www.sakara.com/",
+      "selector": ".nutrition-hero-section .buying-panel__action-button--primary:hover .buying-panel__action-button-icon",
+      "declarations": "color:#000"
+    },
+    {
+      "source": "https://www.sakara.com/",
+      "selector": ".nutrition-hero-section .buying-panel__action-button--secondary",
+      "declarations": "color:#000;background-color:#fff"
+    },
+    {
+      "source": "https://www.sakara.com/",
+      "selector": ".nutrition-hero-section .buying-panel__action-button--secondary .buying-panel__action-button-icon",
+      "declarations": "color:#000"
+    },
+    {
+      "source": "https://www.sakara.com/",
+      "selector": ".nutrition-hero-section .buying-panel__action-button--secondary:hover",
+      "declarations": "color:#fff;background-color:#000"
+    },
+    {
+      "source": "https://www.sakara.com/",
+      "selector": ".nutrition-hero-section .buying-panel__action-button--secondary:hover .buying-panel__action-button-icon",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://www.sakara.com/",
+      "selector": ".video-play-button.button--primaryLime",
+      "declarations": "opacity:1;background-color:#5bab5d"
+    },
+    {
+      "source": "https://www.sakara.com/",
+      "selector": ".video-play-button:hover.button--primaryLime:hover",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "selector": ".section-rich-text-button-group",
+      "declarations": "--button-group-width:460px;--min-button-width:calc((var(--button-group-width) - 24px) / 2);text-align:center;max-width:var(--button-group-width);grid-template-rows:repeat(1,1fr);justify-content:center;gap:24px;width:100%;display:grid"
+    },
+    {
+      "source": "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "selector": ".header-cart__active:before",
+      "declarations": "--underline-height:1px;content:\"\";height:var(--underline-height);width:calc(100% - 24px);bottom:calc(-1 * var(--underline-height));transform-origin:0;background-color:#000;transition:transform .2s cubic-bezier(.4,0,.2,1);display:inline-block;position:absolute;left:12px;transform:scaleX(1)"
+    },
+    {
+      "source": "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "selector": ".header-cart__active:hover",
+      "declarations": "color:#000"
+    },
+    {
+      "source": "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "selector": ".header-cart__icon",
+      "declarations": "--cart-icon-height:27px;height:var(--cart-icon-height)"
+    },
+    {
+      "source": "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "selector": ".header-cart__count",
+      "declarations": "--count-offset:3px;transform:translate(-50%, calc(-50% + var(--count-offset)));color:#00873b;position:absolute;top:50%;left:50%"
+    },
+    {
+      "source": "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "selector": ".header-cart__count__active",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "selector": "._Header_container_lYfmt_1",
+      "declarations": "z-index:50;background-color:#fff;border-bottom:1px solid #d9d9d9;transition:transform .3s cubic-bezier(.4,0,.2,1);position:fixed;top:0;left:0;right:0"
+    },
+    {
+      "source": "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "selector": ".section-rich-text-button-group:where(.astro-rhyj4cvw)",
+      "declarations": "--button-group-width:460px;--min-button-width:calc((var(--button-group-width) - 24px) / 2);text-align:center;max-width:var(--button-group-width);grid-template-rows:repeat(1,1fr);justify-content:center;gap:24px;width:100%;display:grid"
+    },
+    {
+      "source": "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "selector": ".video-play-button.button--primaryLime",
+      "declarations": "opacity:1;background-color:#5bab5d"
+    },
+    {
+      "source": "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "selector": ".video-play-button:hover.button--primaryLime:hover",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "selector": ".c-kustomer-form__button",
+      "declarations": "color:#fff;z-index:40;background:#000;border-radius:53px;justify-content:center;align-items:center;width:102px;height:38px;transition:transform .5s;display:flex;position:fixed;bottom:48px;right:16px;transform:translateY(100%)"
+    },
+    {
+      "source": "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "selector": ".c-kustomer-form__header",
+      "declarations": "box-sizing:border-box;background-color:#000;flex-direction:row;justify-content:space-between;width:100%;padding:11px 18px;display:flex"
+    },
+    {
+      "source": "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+      "selector": ".accordion__body:where(.astro-uxuu6muc) a:where(.astro-uxuu6muc)",
+      "declarations": "text-underline-offset:4px;text-decoration:underline 1px;text-decoration-color:var(--theme-text-color)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Sakara Life | Plant-Based Nutrition Programs & Supplements",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sakara.com/",
+        "https://www.sakara.com/_astro/CartPopupDialog.CkjDbNZS.css",
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css",
+        "https://www.sakara.com/_astro/Carousel.CeY-Lq9Y.css",
+        "https://www.sakara.com/_astro/Header.UQTyjqVb.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sakara.com/",
+        "https://www.sakara.com/_astro/CartPopupDialog.CkjDbNZS.css",
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css",
+        "https://www.sakara.com/_astro/Carousel.CeY-Lq9Y.css",
+        "https://www.sakara.com/_astro/Header.UQTyjqVb.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sakara.com/",
+        "https://www.sakara.com/_astro/CartPopupDialog.CkjDbNZS.css",
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css",
+        "https://www.sakara.com/_astro/Carousel.CeY-Lq9Y.css",
+        "https://www.sakara.com/_astro/Header.UQTyjqVb.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sakara.com/",
+        "https://www.sakara.com/_astro/CartPopupDialog.CkjDbNZS.css",
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css",
+        "https://www.sakara.com/_astro/Carousel.CeY-Lq9Y.css",
+        "https://www.sakara.com/_astro/Header.UQTyjqVb.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sakara.com/",
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sakara.com/",
+        "https://www.sakara.com/_astro/CartPopupDialog.CkjDbNZS.css",
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css",
+        "https://www.sakara.com/_astro/Carousel.CeY-Lq9Y.css",
+        "https://www.sakara.com/_astro/Header.UQTyjqVb.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sakara.com/",
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+        "https://www.sakara.com/_astro/Carousel.CeY-Lq9Y.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sakara.com/",
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sakara.com/",
+        "https://www.sakara.com/_astro/CartPopupDialog.CkjDbNZS.css",
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css",
+        "https://www.sakara.com/_astro/Carousel.CeY-Lq9Y.css",
+        "https://www.sakara.com/_astro/Header.UQTyjqVb.css"
+      ]
+    },
+    "colors.accent-lime": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sakara.com/",
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "colors.accent-coral": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sakara.com/",
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "colors.accent-forest": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sakara.com/",
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css",
+        "https://www.sakara.com/_astro/Header.UQTyjqVb.css"
+      ]
+    },
+    "colors.surface-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sakara.com/",
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "colors.border-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sakara.com/",
+        "https://www.sakara.com/_astro/Default.BN_0rwvm.css",
+        "https://www.sakara.com/_astro/global.DDfMnA8O.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.buying-panel": {
+      "status": "inferred"
+    }
+  }
+}

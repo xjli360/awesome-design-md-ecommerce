@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Super7
-description: Near-pitch-dark hero banners at #121212 make Super7's product photography — ReAction figures, Ultimates, SUPERSIZE vinyl — read like objects in a display case with a single overhead spotlight. The white canvas (#ffffff) that hosts the product grid exists as a deliberate relief valve: the eye cycles from dark immersion to bright showcase to dark footer, paced by a recurring orange (#fa7224) that fires at every primary CTA and price callout with the oxidized-plastic warmth of 1980s blister-pack printing. That orange is the system's only unambiguous decision — everything else is a graduated stack of near-blacks (#121212, #1a1a1a) and near-whites (#f0f0f0, #e1e3e4, #dedede), a palette that reads less like a brand guide and more like a collector's backlit display case. Sage green (#aaccaa) arrives as a soft counterpoint, surfacing in select section moments — likely a product-line differentiator or seasonal colorway — and keeping the triad from flattening into pure noir-orange. Inter runs the entire type system; Super7 substitutes weight contrast for a custom display face, running 800 at headline scale inside dark hero banners and stepping to 400 for body copy on the product grid. Buttons use `{rounded.sm}` throughout — not pill-shaped, not hard-cornered; the brand reads as collector-catalog UI rather than a consumer app. Product cards carry dense information — price, variant count, edition flags — in a tight grid that treats each figure as a showcase object rather than a commodity SKU. The hairline system uses #dedede and #e1e3e4 for light-mode dividers, while dark sections rely on the gradient between #121212 and #1a1a1a surfaces for depth rather than explicit stroke lines; the darkness itself is the container.
+name: "Super7"
+source_url: "https://super7.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Near-pitch-dark hero banners at #121212 make Super7's product photography — ReAction figures, Ultimates, SUPERSIZE vinyl — read like objects in a display case with a single overhead spotlight. The white canvas (#ffffff) that hosts the product grid exists as a deliberate relief valve: the eye cycles from dark immersion to bright showcase to dark footer, paced by a recurring orange (#fa7224) that fires at every primary CTA and price callout with the oxidized-plastic warmth of 1980s blister-pack printing. That orange is the system's only unambiguous decision — everything else is a graduated stack of near-blacks (#121212, #1a1a1a) and near-whites (#f0f0f0, #e1e3e4, #dedede), a palette that reads less like a brand guide and more like a collector's backlit display case. Sage green (#aaccaa) arrives as a soft counterpoint, surfacing in select section moments — likely a product-line differentiator or seasonal colorway — and keeping the triad from flattening into pure noir-orange. Inter runs the entire type system; Super7 substitutes weight contrast for a custom display face, running 800 at headline scale inside dark hero banners and stepping to 400 for body copy on the product grid. Buttons use `{rounded.sm}` throughout — not pill-shaped, not hard-cornered; the brand reads as collector-catalog UI rather than a consumer app. Product cards carry dense information — price, variant count, edition flags — in a tight grid that treats each figure as a showcase object rather than a commodity SKU. The hairline system uses #dedede and #e1e3e4 for light-mode dividers, while dark sections rely on the gradient between #121212 and #1a1a1a surfaces for depth rather than explicit stroke lines; the darkness itself is the container.
 
 colors:
   primary: "#fa7224"
@@ -331,6 +335,8 @@ components:
 - Hero CTA buttons stack below headline+body block and go full-width at mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only Inter identified in the font stack; Super7 may use additional custom or licensed display faces for logo wordmark and branded section headers — not surfaced by extraction
 - Sage green (#aaccaa) role is ambiguous: cannot confirm whether it is a persistent brand secondary color, a specific product-line differentiator (e.g., a particular IP collaboration), or a seasonal accent

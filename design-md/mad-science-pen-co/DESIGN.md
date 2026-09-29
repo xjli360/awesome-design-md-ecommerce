@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Mad Science Pen Co.
-description: Every pen in the lineup is tagged with a formula number set in monospace type alongside the nib grade — not a model name, a formula number, as though each instrument emerged from a laboratory process rather than a product roadmap. That precision-theater defines the brand's posture: a niche fountain pen and specialty ink maker that borrows from chemistry-lab aesthetics — beakers, pH-indicator color shifts, UV-reactive hues — to sell craft objects to a community that already measures ink flow in milliliters per minute and debates nib geometry past midnight. With zero hex tokens and no font stacks extracted from the live site (the site likely blocks automated extraction or loads styles client-side), the system below is reconstructed from brand positioning and category conventions; all color and typography values are inferred at alpha confidence only, not confirmed from source.
+name: "Mad Science Pen Co."
+source_url: "https://madsciencepenco.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Every pen in the lineup is tagged with a formula number set in monospace type alongside the nib grade — not a model name, a formula number, as though each instrument emerged from a laboratory process rather than a product roadmap. That precision-theater defines the brand's posture: a niche fountain pen and specialty ink maker that borrows from chemistry-lab aesthetics — beakers, pH-indicator color shifts, UV-reactive hues — to sell craft objects to a community that already measures ink flow in milliliters per minute and debates nib geometry past midnight. With zero hex tokens and no font stacks extracted from the live site (the site likely blocks automated extraction or loads styles client-side), the system below is reconstructed from brand positioning and category conventions; all color and typography values are inferred at alpha confidence only, not confirmed from source.
 
   The palette reaches for the pH-indicator shift and the late-night laboratory: {colors.surface-dark} (#0F0E1A) serves as the hero-section canvas, a near-black that reads as deep fountain ink pooling in a glass well. The primary action color is electric violet {colors.primary} (#7B2FBE) — the color family most associated with chemistry glassware and UV exposure — handling all CTAs, add-to-cart buttons, and focused link states. A cold accent cyan {colors.accent-cyan} (#00E5CC) appears as a secondary voltage on formula callouts, footer links, and pill badges, evoking glowing reagent solutions without literal prop styling. Product cards and body pages live on warm off-white {colors.canvas} (#FAF9F6), parchment-adjacent — paper that has been held and considered, not clinical white.
 
@@ -308,6 +312,8 @@ components:
 - Footer: single column stack on mobile, 2-column at tablet, 4-column at desktop
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **All color tokens are inferred** — zero hex values were extracted from the live site. The palette is reconstructed from brand-name analysis (mad science / laboratory aesthetic) and pen-brand category conventions. Treat every hex value as a hypothesis requiring live-site verification.
 - **All typography tokens are inferred** — no font-family stacks were returned by extraction. Playfair Display and Space Grotesk are proposed based on brand positioning; the actual site may use entirely different typefaces, including a proprietary or licensed font.

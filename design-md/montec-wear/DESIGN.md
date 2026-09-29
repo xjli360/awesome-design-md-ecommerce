@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Montec Wear
-description: A high-contrast alpine brand that uses a deep #121212 ink against a #e9e9e8 canvas, punctuated by a sharp #ad1519 red that appears on every product badge, sale marker, and primary CTA. The system runs Manrope at clean weights — display sits at 28px weight 600 rather than the heavy 700+ that outdoor brands typically use, letting the product photography and snow-spray action shots carry the drama. Three distinct reds (#ad1519, #de0000, #cf2734) create a layered urgency system: the deepest red for primary actions, the brightest for sale badges, and the mid-tone for hover states. The palette is anchored by a surprising #fabd00 marigold accent that appears on "NEW" tags and seasonal callouts — a warm voltage against the cool grays (#d0cecb, #6e7075) that form the structural grid. Button shapes use {rounded.sm} (8px) for a purposeful, not precious, feel — this is gear for motion, not a lifestyle feed. The nav bar runs full-bleed at 80px with the logo left-aligned and a cart icon that pulses the primary red when items are added. Product cards stack on a white surface with a {rounded.md} (12px) corner and a 1px hairline in #d0cecb, keeping the focus on the athlete in motion. The footer collapses to a single column on mobile, with the brand's Japanese market presence (the site title reads in katakana) reflected in a bilingual legal line.
+name: "Montec Wear"
+source_url: "https://www.montecwear.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A high-contrast alpine brand that uses a deep #121212 ink against a #e9e9e8 canvas, punctuated by a sharp #ad1519 red that appears on every product badge, sale marker, and primary CTA. The system runs Manrope at clean weights — display sits at 28px weight 600 rather than the heavy 700+ that outdoor brands typically use, letting the product photography and snow-spray action shots carry the drama. Three distinct reds (#ad1519, #de0000, #cf2734) create a layered urgency system: the deepest red for primary actions, the brightest for sale badges, and the mid-tone for hover states. The palette is anchored by a surprising #fabd00 marigold accent that appears on "NEW" tags and seasonal callouts — a warm voltage against the cool grays (#d0cecb, #6e7075) that form the structural grid. Button shapes use {rounded.sm} (8px) for a purposeful, not precious, feel — this is gear for motion, not a lifestyle feed. The nav bar runs full-bleed at 80px with the logo left-aligned and a cart icon that pulses the primary red when items are added. Product cards stack on a white surface with a {rounded.md} (12px) corner and a 1px hairline in #d0cecb, keeping the focus on the athlete in motion. The footer collapses to a single column on mobile, with the brand's Japanese market presence (the site title reads in katakana) reflected in a bilingual legal line.
 
 colors:
   primary: "#ad1519"
@@ -488,6 +492,8 @@ components:
 - Accordion: all sections expanded on desktop, collapsed on mobile with tap-to-expand
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for secondary buttons and text links were inferred from common patterns; exact color transitions not extracted
 - Error styling for form inputs (red border, error message typography) not present in extracted data

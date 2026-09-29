@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Varjo
-description: A high-stakes simulation environment where #0205be — a dense, almost ultraviolet blue — serves as the primary voltage, signaling that this is not consumer VR but military-grade hardware for training pilots and surgeons. The palette reads as industrial precision: #16160e (near-black ink), #5b5b5b and #9d9d9d for muted body text, #e6e6e6 and #f5f5f5 for soft surfaces, and #fbfbfb for canvas. The single accent that breaks the monochrome authority is #da1e28 — a warning red used sparingly for critical CTAs and error states, while #219653 (a cool green) appears for success indicators in simulation telemetry. Type runs Akkurat and Lateral, both Swiss-derived grotesques with sharp terminals and even color — no optical compensation for warmth. Display sizes sit at 24–32px with tight letter-spacing (-0.5px), and body copy at 14–16px with generous line-height (1.6) to maintain legibility across VR heads-up overlays and desktop dashboards. Corners are almost entirely square: {rounded.xs} (4px) appears on input fields and badges, but primary buttons use {rounded.sm} (8px) — the only concession to softness in an otherwise rectilinear system. The nav bar is a fixed 72px strip of {colors.canvas} with {colors.ink} text, and product cards for headsets like the XR-4 and Varjo Aero use a 2-column grid with spec sheets that read like avionics manuals. The overall feel is that of a cockpit instrument panel translated into a web interface — every pixel has a job, and nothing is decorative.
+name: "Varjo"
+source_url: "https://varjo.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A high-stakes simulation environment where #0205be — a dense, almost ultraviolet blue — serves as the primary voltage, signaling that this is not consumer VR but military-grade hardware for training pilots and surgeons. The palette reads as industrial precision: #16160e (near-black ink), #5b5b5b and #9d9d9d for muted body text, #e6e6e6 and #f5f5f5 for soft surfaces, and #fbfbfb for canvas. The single accent that breaks the monochrome authority is #da1e28 — a warning red used sparingly for critical CTAs and error states, while #219653 (a cool green) appears for success indicators in simulation telemetry. Type runs Akkurat and Lateral, both Swiss-derived grotesques with sharp terminals and even color — no optical compensation for warmth. Display sizes sit at 24–32px with tight letter-spacing (-0.5px), and body copy at 14–16px with generous line-height (1.6) to maintain legibility across VR heads-up overlays and desktop dashboards. Corners are almost entirely square: {rounded.xs} (4px) appears on input fields and badges, but primary buttons use {rounded.sm} (8px) — the only concession to softness in an otherwise rectilinear system. The nav bar is a fixed 72px strip of {colors.canvas} with {colors.ink} text, and product cards for headsets like the XR-4 and Varjo Aero use a 2-column grid with spec sheets that read like avionics manuals. The overall feel is that of a cockpit instrument panel translated into a web interface — every pixel has a job, and nothing is decorative.
 
 colors:
   primary: "#0205be"
@@ -508,6 +512,8 @@ components:
 - Multi-step forms collapse to single-step with accordion sections below 744px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted hex list appears to be a generic web palette dominated by blues, grays, and a single red accent (#da1e28) and green (#219653). The brand's TRUE primary (#0205be) is the most distinctive blue in the list, but it's possible the brand uses additional accent colors (e.g., a specific orange or teal for simulation overlays) that weren't captured in the extraction.
 - Hover states for all components are inferred from the primary-active color and standard interaction patterns — actual hover transitions (duration, easing) were not extracted.

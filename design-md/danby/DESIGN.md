@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Danby
-description: >
+name: "Danby"
+source_url: "https://www.danby.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Deep navy (#002d52) dominates Danby's digital presence the way a powder-coat finish dominates the front panel of a countertop dishwasher — total, opaque, unapologetic. The Canadian appliance specialist builds its interface on two blues: the anchoring midnight navy for navigation bars, footers, and section headers, and a high-contrast action blue (#0072ce) reserved exclusively for CTAs, inline links, and interactive affordances. Between them sits a quieter steel blue (#2176bd) that bridges the two in hover states and secondary accents, giving the palette a three-stop gradient that reads like brushed aluminum transitioning to anodized chrome. Typography runs Poppins — a geometric sans-serif with perfectly circular counters — paired with an Arial/Helvetica system stack as its fallback. Headings arrive at weight 600–700 with tight letter-spacing, lending the utilitarian directness you'd expect from a brand that sells freezers by their cubic-foot capacity, not lifestyle aspiration. Body text stays at 400 weight and 1.6 line-height for the long specification lists and product descriptions that appliance shoppers actually read. The layout grid is Bootstrap-informed: 12-column with `{spacing.base}` 16px gutters, `{spacing.section}` 64px vertical rhythm between content bands, and product cards that snap from four-across on desktop to a single scrollable column on mobile. Corners stay modest — `{rounded.sm}` 8px on cards and inputs, `{rounded.xs}` 4px on badges and tags — because this is an appliance catalog, not a social app, and sharp geometry signals precision engineering. Product cards foreground the hero image at a fixed 4:3 ratio, with model number, short title, and a price stack below; an "Add to Compare" checkbox rides the card's top-right corner, reflecting the comparison-shopping behavior endemic to major-appliance purchases. The footer is a dense, navy-backed (#001439) four-column grid carrying support links, warranty info, dealer locators, and the bilingual English/French toggle that marks Danby as distinctly Canadian. Alert-state colors (#3c763d success green, #a94442 error red, #8a6d3b warning amber) appear in inventory badges and form validation but never in brand messaging — they are infrastructure, not identity.
 
 colors:
@@ -582,6 +585,8 @@ Four semantic alert levels — **info** (#d9edf7 / #31708f), **success** (#dff0d
 - Hero banner: side-by-side becomes stacked; minimum height drops to 280px on mobile; CTA button becomes full-width
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Many extracted colors (#337ab7, #5cb85c, #5bc0de, #3c763d, #8a6d3b, #a94442, #286090) are Bootstrap 3 framework defaults — they may be intentional brand choices or unthemed framework residue; manual verification against live components is recommended
 - Poppins is the only distinctive brand font extracted; actual font weights loaded (300/400/500/600/700) could not be confirmed from static extraction — weight assignments are inferred from visual hierarchy patterns

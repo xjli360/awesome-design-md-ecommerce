@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Blueland
-description: A cleaning brand that treats its signature blue — #133cd1, a saturated, almost electric ultramarine — as a visual disinfectant, saturating buttons, badges, and the primary navigation with a color that feels more like a chemical reaction than a corporate choice. The palette is overwhelmingly aqueous: #f0f7ff and #deeaff form the background atmosphere, while #a0ddff and #e1f2ff appear as secondary accents, creating a visual ecosystem that mirrors the brand's core promise of turning tablets into cleaning solutions. The typography stack is a deliberate collision of old and new — GT-Pressura (a sharp, geometric sans) and Sailec (a warm, humanist sans) sit alongside Hermann and Self-Modern, with Cambria and Georgia providing editorial gravity for longer-form content. This is not a brand that whispers; the primary CTA button uses {rounded.sm} corners and the full voltage of #133cd1 against white text, while secondary actions retreat into {colors.surface-soft} backgrounds with {colors.muted} text. The checkout flow introduces a secondary blue family — #2c53c9 through #7d9ce8 — suggesting a tiered trust hierarchy where deeper blues signal commitment points. Error states borrow from the extracted #ce4947, a coral-red that appears only in the extracted list, likely reserved for validation and destructive actions. The overall system reads as clinical but not cold, with the #fffcbb yellow and #c8faa1 green appearing as rare, celebratory accents — perhaps for "eco-friendly" badges or subscription savings callouts.
+name: "Blueland"
+source_url: "https://blueland.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A cleaning brand that treats its signature blue — #133cd1, a saturated, almost electric ultramarine — as a visual disinfectant, saturating buttons, badges, and the primary navigation with a color that feels more like a chemical reaction than a corporate choice. The palette is overwhelmingly aqueous: #f0f7ff and #deeaff form the background atmosphere, while #a0ddff and #e1f2ff appear as secondary accents, creating a visual ecosystem that mirrors the brand's core promise of turning tablets into cleaning solutions. The typography stack is a deliberate collision of old and new — GT-Pressura (a sharp, geometric sans) and Sailec (a warm, humanist sans) sit alongside Hermann and Self-Modern, with Cambria and Georgia providing editorial gravity for longer-form content. This is not a brand that whispers; the primary CTA button uses {rounded.sm} corners and the full voltage of #133cd1 against white text, while secondary actions retreat into {colors.surface-soft} backgrounds with {colors.muted} text. The checkout flow introduces a secondary blue family — #2c53c9 through #7d9ce8 — suggesting a tiered trust hierarchy where deeper blues signal commitment points. Error states borrow from the extracted #ce4947, a coral-red that appears only in the extracted list, likely reserved for validation and destructive actions. The overall system reads as clinical but not cold, with the #fffcbb yellow and #c8faa1 green appearing as rare, celebratory accents — perhaps for "eco-friendly" badges or subscription savings callouts.
 
 colors:
   primary: "#133cd1"
@@ -413,6 +417,8 @@ components:
 - Search bar becomes full-width on mobile, replacing the inline search icon
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for most components (buttons, inputs, links) are inferred from common patterns; exact extracted hover colors are not available
 - Error state styling for text inputs uses #ce4947 for border, but the exact error message typography and iconography are unknown

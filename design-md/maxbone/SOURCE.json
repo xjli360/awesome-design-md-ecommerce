@@ -1,0 +1,922 @@
+{
+  "source_url": "https://maxbone.com",
+  "final_url": "https://www.maxbone.com/",
+  "captured_at": "2026-09-28T04:17:38.358379+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://maxbone.com",
+      "final_url": "https://www.maxbone.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "8c9eea7e0d445d457fbcb72b7bd65695cb2e9e073e3c15d9ec2d8e0f251d093c",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.maxbone.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.maxbone.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+      "final_url": "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7bffd19d6f848e697f0db7ca51d824252df932ec1fa6d960b694dbf180982a01",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn-static.okendo.io/styles/main.min.css",
+      "final_url": "https://cdn-static.okendo.io/styles/main.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "09379884b3dcc1b51c1adf20ce2d6ecf46ea86beea66088e13c0df72590e92e0",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://dov7r31oq5dkj.cloudfront.net/3e06bc25-0e58-4987-889f-a6c9d9bd00f3/widget-style-customisations.css?v=faf7ef58-0150-419b-987f-b1b4123c73c5",
+      "final_url": "https://dov7r31oq5dkj.cloudfront.net/3e06bc25-0e58-4987-889f-a6c9d9bd00f3/widget-style-customisations.css?v=faf7ef58-0150-419b-987f-b1b4123c73c5",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "f28f9111983745111bca32e06ca467c33a9a8590fce7a3be1e16601a32714474",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "bb771d6d34b26f9c6ac8ddb7bbb0d27cdf61e28fb1aaf211d6839bfde60b814a",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 287,
+      "sources": [
+        "https://www.maxbone.com/",
+        "https://www.maxbone.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+        "https://cdn-static.okendo.io/styles/main.min.css",
+        "https://dov7r31oq5dkj.cloudfront.net/3e06bc25-0e58-4987-889f-a6c9d9bd00f3/widget-style-customisations.css?v=faf7ef58-0150-419b-987f-b1b4123c73c5",
+        "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css"
+      ]
+    },
+    "#000000": {
+      "count": 237,
+      "sources": [
+        "https://www.maxbone.com/",
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+        "https://cdn-static.okendo.io/styles/main.min.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 69,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+        "https://cdn-static.okendo.io/styles/main.min.css"
+      ]
+    },
+    "#231f20": {
+      "count": 68,
+      "sources": [
+        "https://www.maxbone.com/",
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#707070": {
+      "count": 35,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+        "https://cdn-static.okendo.io/styles/main.min.css"
+      ]
+    },
+    "#ecb4ac": {
+      "count": 31,
+      "sources": [
+        "https://www.maxbone.com/",
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#111827": {
+      "count": 27,
+      "sources": [
+        "https://www.maxbone.com/",
+        "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css"
+      ]
+    },
+    "#525252": {
+      "count": 22,
+      "sources": [
+        "https://cdn-static.okendo.io/styles/main.min.css"
+      ]
+    },
+    "#002d56": {
+      "count": 16,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#b88b4e": {
+      "count": 14,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#fafafa": {
+      "count": 14,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#f1d9b2": {
+      "count": 13,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 13,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+        "https://cdn-static.okendo.io/styles/main.min.css"
+      ]
+    },
+    "#6b7280": {
+      "count": 11,
+      "sources": [
+        "https://www.maxbone.com/",
+        "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css"
+      ]
+    },
+    "#f5ead9": {
+      "count": 11,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#dfe3e8": {
+      "count": 11,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#9c0808": {
+      "count": 10,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#333333": {
+      "count": 10,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+        "https://cdn-static.okendo.io/styles/main.min.css",
+        "https://dov7r31oq5dkj.cloudfront.net/3e06bc25-0e58-4987-889f-a6c9d9bd00f3/widget-style-customisations.css?v=faf7ef58-0150-419b-987f-b1b4123c73c5"
+      ]
+    },
+    "#c6ae92": {
+      "count": 9,
+      "sources": [
+        "https://www.maxbone.com/",
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#777777": {
+      "count": 9,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#efefef": {
+      "count": 8,
+      "sources": [
+        "https://www.maxbone.com/"
+      ]
+    },
+    "#0076ff": {
+      "count": 8,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 8,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+        "https://cdn-static.okendo.io/styles/main.min.css"
+      ]
+    },
+    "#001136": {
+      "count": 8,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#cca787": {
+      "count": 7,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#fef7f1": {
+      "count": 6,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#f4f2ee": {
+      "count": 6,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#d3d4dd": {
+      "count": 6,
+      "sources": [
+        "https://cdn-static.okendo.io/styles/main.min.css"
+      ]
+    },
+    "#999999": {
+      "count": 5,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+        "https://dov7r31oq5dkj.cloudfront.net/3e06bc25-0e58-4987-889f-a6c9d9bd00f3/widget-style-customisations.css?v=faf7ef58-0150-419b-987f-b1b4123c73c5"
+      ]
+    },
+    "#087bff": {
+      "count": 5,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#f5f4f5": {
+      "count": 5,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#c7c3c3": {
+      "count": 5,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#444545": {
+      "count": 5,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#00000012": {
+      "count": 5,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#1f1f1f": {
+      "count": 5,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#ffa395": {
+      "count": 5,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 5,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 4,
+      "sources": [
+        "https://www.maxbone.com/"
+      ]
+    },
+    "#404040": {
+      "count": 4,
+      "sources": [
+        "https://www.maxbone.com/"
+      ]
+    },
+    "#007ace": {
+      "count": 4,
+      "sources": [
+        "https://www.maxbone.com/"
+      ]
+    },
+    "#006bb4": {
+      "count": 4,
+      "sources": [
+        "https://www.maxbone.com/"
+      ]
+    },
+    "#2d2c2c": {
+      "count": 4,
+      "sources": [
+        "https://www.maxbone.com/"
+      ]
+    },
+    "#020000": {
+      "count": 4,
+      "sources": [
+        "https://www.maxbone.com/"
+      ]
+    },
+    "#8f9cb2": {
+      "count": 4,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#b48f70": {
+      "count": 4,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#dddddd": {
+      "count": 4,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#00000008": {
+      "count": 4,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#ff6929": {
+      "count": 4,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#0000004f": {
+      "count": 4,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 4,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+        "https://cdn-static.okendo.io/styles/main.min.css"
+      ]
+    },
+    "#0c0c0c": {
+      "count": 4,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#1d2135": {
+      "count": 4,
+      "sources": [
+        "https://cdn-static.okendo.io/styles/main.min.css"
+      ]
+    },
+    "#d9c8b2": {
+      "count": 4,
+      "sources": [
+        "https://dov7r31oq5dkj.cloudfront.net/3e06bc25-0e58-4987-889f-a6c9d9bd00f3/widget-style-customisations.css?v=faf7ef58-0150-419b-987f-b1b4123c73c5"
+      ]
+    },
+    "#0f172a": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css"
+      ]
+    },
+    "#dedede": {
+      "count": 3,
+      "sources": [
+        "https://www.maxbone.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#ceb198": {
+      "count": 3,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 3,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#eaeaea": {
+      "count": 3,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#0000001a": {
+      "count": 3,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "#fedee0": {
+      "count": 3,
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+    ],
+    "Apercu": [
+      "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+    ],
+    "Apple Color Emoji": [
+      "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+    ],
+    "Arial": [
+      "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+    ],
+    "Berlingske Serif XCn": [
+      "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+    ],
+    "BlinkMacSystemFont": [
+      "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+    ],
+    "Consolas": [
+      "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+    ],
+    "Courier New": [
+      "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+    ],
+    "GoodSans": [
+      "https://www.maxbone.com/",
+      "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+    ],
+    "Graphik": [
+      "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+    ],
+    "Graphik!important": [
+      "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+    ],
+    "Helvetica": [
+      "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+    ],
+    "Helvetica Neue": [
+      "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+      "https://cdn-static.okendo.io/styles/main.min.css"
+    ],
+    "Karla": [
+      "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+    ],
+    "Liberation Mono": [
+      "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+    ],
+    "Menlo": [
+      "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+    ],
+    "Minion Pro": [
+      "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+    ],
+    "Monaco": [
+      "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+    ],
+    "Noto Color Emoji": [
+      "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+    ],
+    "Noto Sans": [
+      "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+    ],
+    "Open sans": [
+      "https://cdn-static.okendo.io/styles/main.min.css"
+    ],
+    "Oswald": [
+      "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+    ],
+    "Ringside": [
+      "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+    ],
+    "Roboto": [
+      "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+    ],
+    "SFMono-Regular": [
+      "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+    ],
+    "Segoe UI": [
+      "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+    ],
+    "Segoe UI Emoji": [
+      "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+    ],
+    "Segoe UI Symbol": [
+      "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+    ],
+    "monospace": [
+      "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+    ],
+    "oke-reviews-icons": [
+      "https://cdn-static.okendo.io/styles/main.min.css"
+    ],
+    "sans-serif": [
+      "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+      "https://cdn-static.okendo.io/styles/main.min.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.maxbone.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.maxbone.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.maxbone.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.maxbone.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.maxbone.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.maxbone.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+      "selector": "body",
+      "declarations": "margin:0;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",Segoe UI Symbol,\"Noto Color Emoji\";font-size:1rem;font-weight:400;line-height:1.5;color:#212529;background-color:#fff;-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:rgba(0,0,0,0)"
+    },
+    {
+      "source": "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+      "selector": "input,button,select,optgroup,textarea",
+      "declarations": "margin:0;font-family:inherit;font-size:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+      "selector": "body",
+      "declarations": "color:#000;font-family:GoodSans;font-size:16px;font-weight:400;position:relative;overflow-x:hidden"
+    },
+    {
+      "source": "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+      "selector": ".btn.btn-primary.m-black",
+      "declarations": "border:1px solid #231f20;color:#231f20"
+    },
+    {
+      "source": "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+      "selector": ".btn.btn-primary.m-black:hover",
+      "declarations": "border-color:#fff;color:#fff"
+    },
+    {
+      "source": "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+      "selector": ".btn.btn-primary.m-white",
+      "declarations": "border:1px solid #fff;color:#fff"
+    },
+    {
+      "source": "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+      "selector": ".btn.btn-primary.m-white:hover",
+      "declarations": "border-color:#231f20;color:#231f20"
+    },
+    {
+      "source": "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+      "selector": "a.btn.btn-ghost:hover",
+      "declarations": "color:#fff;border-color:#fff"
+    },
+    {
+      "source": "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+      "selector": "a.btn.btn-ghost.white",
+      "declarations": "border-bottom-color:#fff;color:#fff"
+    },
+    {
+      "source": "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+      "selector": "a.btn.btn-ghost.white:hover",
+      "declarations": "color:#000;border-color:#000"
+    },
+    {
+      "source": "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+      "selector": ".btn",
+      "declarations": "display:-webkit-inline-box;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;height:40px;color:#000;text-align:center;vertical-align:middle;cursor:pointer;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;background-color:transparent;border:2px solid transparent;padding:0 2em;-webkit-transition:color .33s ease-in-out,background-color .33s ease-in-out,border-color .33s ease-in-out,-webkit-box-shadow .33s ease-in-out;transition:color .33s ease-in-out,background-color .33s ease-in-out,border-color .33s ease-in-out,-webkit-box-shado"
+    },
+    {
+      "source": "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+      "selector": ".btn:hover",
+      "declarations": "color:#000"
+    },
+    {
+      "source": "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+      "selector": ".btn.m-white",
+      "declarations": "background:#fff;border-color:#fff;color:#000"
+    },
+    {
+      "source": "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+      "selector": ".btn.m-white:hover,.btn.m-black",
+      "declarations": "background:#000;border-color:#000;color:#fff"
+    },
+    {
+      "source": "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+      "selector": ".btn.m-black:hover",
+      "declarations": "background:#fff;border-color:#000;color:#000"
+    },
+    {
+      "source": "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+      "selector": ".btn.m-underline",
+      "declarations": "padding:0 0 .1em;min-width:0;height:auto;border:0;border-bottom:1px solid currentColor;color:#000;border-radius:0;font-weight:300;font-size:inherit;letter-spacing:normal"
+    },
+    {
+      "source": "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+      "selector": ".btn.m-icon-only",
+      "declarations": "height:auto;padding:1em;min-width:0;background:none;color:#000"
+    },
+    {
+      "source": "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+      "selector": ".btn:hover",
+      "declarations": "color:#000;text-decoration:none"
+    },
+    {
+      "source": "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+      "selector": ".btn--primary,.btn.m-primary,.btn.btn-primary",
+      "declarations": "background-color:#000;color:#fff"
+    },
+    {
+      "source": "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+      "selector": ".btn--primary:hover,.btn.m-primary:hover,.btn.btn-primary:hover,.btn--outline,.btn.m-outline",
+      "declarations": "background-color:#fff;color:#000;border-color:#000"
+    },
+    {
+      "source": "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+      "selector": ".btn--outline:hover,.btn.m-outline:hover",
+      "declarations": "background-color:#000;color:#fff"
+    },
+    {
+      "source": "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+      "selector": ".btn--transparent,.btn.m-transparent",
+      "declarations": "color:inherit;border-color:currentColor;background:transparent"
+    },
+    {
+      "source": "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+      "selector": ".btn--secondary,.btn.m-secondary",
+      "declarations": "color:#fff;background-color:#002d56;border-color:#002d56"
+    },
+    {
+      "source": "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+      "selector": ".btn--secondary:hover,.btn.m-secondary:hover",
+      "declarations": "color:#002d56;background-color:#fff"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "maxbone | Modern Dog Carriers, Beds & Apparel",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.maxbone.com/",
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.maxbone.com/",
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+        "https://cdn-static.okendo.io/styles/main.min.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.maxbone.com/",
+        "https://www.maxbone.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+        "https://cdn-static.okendo.io/styles/main.min.css",
+        "https://dov7r31oq5dkj.cloudfront.net/3e06bc25-0e58-4987-889f-a6c9d9bd00f3/widget-style-customisations.css?v=faf7ef58-0150-419b-987f-b1b4123c73c5",
+        "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.maxbone.com/",
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+        "https://cdn-static.okendo.io/styles/main.min.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+        "https://cdn-static.okendo.io/styles/main.min.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+        "https://cdn-static.okendo.io/styles/main.min.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+        "https://cdn-static.okendo.io/styles/main.min.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.maxbone.com/",
+        "https://www.maxbone.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509",
+        "https://cdn-static.okendo.io/styles/main.min.css",
+        "https://dov7r31oq5dkj.cloudfront.net/3e06bc25-0e58-4987-889f-a6c9d9bd00f3/widget-style-customisations.css?v=faf7ef58-0150-419b-987f-b1b4123c73c5",
+        "https://cdn.shopify.com/extensions/01a0ad46-a3fc-7417-8677-06fce914aa52/revoq-eu-withdrawal-button-142/assets/popup-block.css"
+      ]
+    },
+    "colors.accent-blush": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.maxbone.com/",
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "colors.accent-tan": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "colors.accent-navy": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "colors.alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.maxbone.com/cdn/shop/t/108/assets/theme.css?v=105696521810191927691705613509"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.pet-size-selector": {
+      "status": "inferred"
+    }
+  }
+}

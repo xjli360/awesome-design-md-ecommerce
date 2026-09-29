@@ -1,0 +1,839 @@
+{
+  "source_url": "https://pacsafe.com",
+  "final_url": "https://pacsafe.com/",
+  "captured_at": "2026-09-28T05:05:00.077947+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://pacsafe.com",
+      "final_url": "https://pacsafe.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "57e084448e6459fe6c49af369263b497f450c376fe9665d738b2cfe3bf405931",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+      "final_url": "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f2a2a2d8d6acece427bfdb2008bb6028abbbc5ae43429df097e4a3f90fa71858",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://pacsafe.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://pacsafe.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css",
+      "final_url": "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "09379884b3dcc1b51c1adf20ce2d6ecf46ea86beea66088e13c0df72590e92e0",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://dov7r31oq5dkj.cloudfront.net/dc7006f5-eb46-45ce-895c-cbbb9a4ffec4/widget-style-customisations.css?v=efe07d77-d658-40c7-9a30-5d519dda70ad",
+      "final_url": "https://dov7r31oq5dkj.cloudfront.net/dc7006f5-eb46-45ce-895c-cbbb9a4ffec4/widget-style-customisations.css?v=efe07d77-d658-40c7-9a30-5d519dda70ad",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "190a15edcea69ea7a3cecc48ed4ade58b70fbbc7b3edaeab9f56d361707d6b02",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 135,
+      "sources": [
+        "https://pacsafe.com/",
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+        "https://pacsafe.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css",
+        "https://dov7r31oq5dkj.cloudfront.net/dc7006f5-eb46-45ce-895c-cbbb9a4ffec4/widget-style-customisations.css?v=efe07d77-d658-40c7-9a30-5d519dda70ad"
+      ]
+    },
+    "#1a2651": {
+      "count": 92,
+      "sources": [
+        "https://pacsafe.com/",
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 33,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css",
+        "https://dov7r31oq5dkj.cloudfront.net/dc7006f5-eb46-45ce-895c-cbbb9a4ffec4/widget-style-customisations.css?v=efe07d77-d658-40c7-9a30-5d519dda70ad"
+      ]
+    },
+    "#707070": {
+      "count": 30,
+      "sources": [
+        "https://pacsafe.com/",
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#333333": {
+      "count": 25,
+      "sources": [
+        "https://pacsafe.com/",
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#666666": {
+      "count": 24,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#000000": {
+      "count": 23,
+      "sources": [
+        "https://pacsafe.com/",
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#6b7280": {
+      "count": 23,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#222222": {
+      "count": 23,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#525252": {
+      "count": 23,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#111827": {
+      "count": 18,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#343434": {
+      "count": 15,
+      "sources": [
+        "https://pacsafe.com/",
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+        "https://dov7r31oq5dkj.cloudfront.net/dc7006f5-eb46-45ce-895c-cbbb9a4ffec4/widget-style-customisations.css?v=efe07d77-d658-40c7-9a30-5d519dda70ad"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 15,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#f3f4f6": {
+      "count": 15,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 13,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 12,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 11,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#d1d5db": {
+      "count": 11,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 9,
+      "sources": [
+        "https://pacsafe.com/",
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 9,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#c2c2c2": {
+      "count": 9,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css",
+        "https://dov7r31oq5dkj.cloudfront.net/dc7006f5-eb46-45ce-895c-cbbb9a4ffec4/widget-style-customisations.css?v=efe07d77-d658-40c7-9a30-5d519dda70ad"
+      ]
+    },
+    "#059669": {
+      "count": 8,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#dc2626": {
+      "count": 8,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#dcdcdc": {
+      "count": 8,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#999999": {
+      "count": 7,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 7,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#3b82f6": {
+      "count": 7,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#f9fafb": {
+      "count": 7,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#00000080": {
+      "count": 6,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#374151": {
+      "count": 6,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#1f2937": {
+      "count": 6,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#00000000": {
+      "count": 6,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+        "https://pacsafe.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#d3d4dd": {
+      "count": 6,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 5,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#00000026": {
+      "count": 4,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#00000014": {
+      "count": 4,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#007bff": {
+      "count": 4,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#000000b3": {
+      "count": 4,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#1d2135": {
+      "count": 4,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 3,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 3,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#555555": {
+      "count": 3,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#0f1419": {
+      "count": 3,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#83cc1c": {
+      "count": 3,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#43a1fa": {
+      "count": 3,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#9a9db1": {
+      "count": 3,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#151515": {
+      "count": 2,
+      "sources": [
+        "https://pacsafe.com/",
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 2,
+      "sources": [
+        "https://pacsafe.com/",
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#d0253e": {
+      "count": 2,
+      "sources": [
+        "https://pacsafe.com/",
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#d0d0d0": {
+      "count": 2,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#ffffff80": {
+      "count": 2,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#00000033": {
+      "count": 2,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#1a26511a": {
+      "count": 2,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#4ca7b9": {
+      "count": 2,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#e1e1e1": {
+      "count": 2,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 2,
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://pacsafe.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#fcfcfd": {
+      "count": 2,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#ec4048": {
+      "count": 2,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "#535565": {
+      "count": 2,
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Anton": [
+      "https://pacsafe.com/"
+    ],
+    "Helvetica Neue": [
+      "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+    ],
+    "Open sans": [
+      "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+    ],
+    "Roboto": [
+      "https://pacsafe.com/",
+      "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+    ],
+    "oke-reviews-icons": [
+      "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+      "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+    ],
+    "sans-serif": [
+      "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+      "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://pacsafe.com/",
+      "selector": ":root",
+      "declarations": "--font-heading--family: Anton, sans-serif;\n    --font-heading--style: normal;\n    --font-heading--weight: 400;\n    --font-body--family: Roboto, sans-serif;\n    --font-body--style: normal;\n    --font-body--weight: 300;\n    --font-body-bold--family: Roboto, sans-serif;\n    --font-body-bold--style: normal;\n    --font-body-bold--weight: 900;\n    --page-width: 1920px;\n    --page-margin: 80px;\n    --page-margin-tablet: 40px;\n    --page-margin-mobile: 20px;\n    --color-background: #FFFFFF;\n    --color-foreground: #333333;\n    --style-border-radius-inputs: 4px;\n\n    \n    --font-size-h1: 4.5rem;\n    --font-size-h2: 3.25rem;\n    --font-size-h3: 2.5rem;\n    --font-size-h4: 1.75rem;\n    --font-size-h5: "
+    },
+    {
+      "source": "https://pacsafe.com/",
+      "selector": "object-position: 50% 50%;\nobject-position: 50% 0%;\nobject-position: 50% 0%;\nobject-position: 50% 50%;\n\n  #shopify-section-template--28538162938220__featured_pro",
+      "declarations": "--color-background: ;\n    --color-foreground: ;\n    --padding-top: 36px;\n    --padding-bottom: 36px;\n    --columns-desktop: 4;\n    --columns-tablet: 2;\n    --columns-mobile: 2;"
+    },
+    {
+      "source": "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "margin:0;font-family:var(--font-body-bold--family);font-weight:700"
+    },
+    {
+      "source": "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+      "selector": "button",
+      "declarations": "cursor:pointer;-webkit-tap-highlight-color:transparent;appearance:none;-webkit-appearance:none;-moz-appearance:none;background:none;border:none;padding:0;margin:0;font:inherit;color:inherit;outline:none;-webkit-user-select:none;user-select:none"
+    },
+    {
+      "source": "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+      "selector": "section.help-center-box.get-in-touch .button-content",
+      "declarations": "font-size:var(--font-size-body-md);background-color:var(--color-pacsafe-blue);color:var(--color-white);padding:.5rem 1rem;transition:all .3s ease;border:1px solid transparent"
+    },
+    {
+      "source": "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+      "selector": "section.help-center-box.get-in-touch .button-content:hover",
+      "declarations": "background-color:var(--color-white);color:var(--color-pacsafe-blue);border-color:var(--color-pacsafe-blue)"
+    },
+    {
+      "source": "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+      "selector": "a.btn,button.btn,span.btn",
+      "declarations": "display:inline-block;padding:1rem 2rem;text-decoration:none;font-family:var(--font-body-bold--family);font-weight:var(--font-body-bold--weight);font-size:var(--font-size-body-md);transition:all .3s ease;border:1px solid var(--color-white);text-shadow:none;color:var(--color-white);background-color:var(--color-pacsafe-blue);border:1px solid var(--color-pacsafe-blue);border-radius:4px;cursor:pointer"
+    },
+    {
+      "source": "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+      "selector": ":is(a.btn,button.btn,span.btn):hover",
+      "declarations": "background-color:var(--color-white);color:var(--color-pacsafe-blue)"
+    },
+    {
+      "source": "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+      "selector": ":is(a.btn,button.btn,span.btn).btn-link",
+      "declarations": "background-color:transparent;border:none;color:var(--color-pacsafe-blue)"
+    },
+    {
+      "source": "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+      "selector": ":is(a.btn,button.btn,span.btn).btn-link:hover",
+      "declarations": "color:var(--color-white)"
+    },
+    {
+      "source": "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+      "selector": ":is(a.btn,button.btn,span.btn).btn-outline",
+      "declarations": "background:transparent;border:1px solid var(--color-white);color:var(--color-white)"
+    },
+    {
+      "source": "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+      "selector": ":is(a.btn,button.btn,span.btn).btn-outline:hover",
+      "declarations": "background-color:var(--color-white);color:var(--color-pacsafe-blue)"
+    },
+    {
+      "source": "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+      "selector": ":is(a.btn,button.btn,span.btn).btn--success",
+      "declarations": "background-color:#059669;border-color:#059669;color:var(--color-white);position:relative;padding-right:3rem"
+    },
+    {
+      "source": "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+      "selector": ":is(a.btn,button.btn,span.btn).btn--error",
+      "declarations": "background-color:#dc2626;border-color:#dc2626;color:var(--color-white)"
+    },
+    {
+      "source": "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+      "selector": ":is(a.btn,button.btn,span.btn).btn--out-of-stock",
+      "declarations": "background-color:#6b7280;border-color:#6b7280;color:var(--color-white);cursor:not-allowed"
+    },
+    {
+      "source": "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+      "selector": ".product-badges__badge--sale",
+      "declarations": "background-color:var(--color-pacsafe-sale);color:var(--color-white, #ffffff)"
+    },
+    {
+      "source": "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+      "selector": ".product-badges__badge--new",
+      "declarations": "background-color:var(--color-pacsafe-blue, #1a2651);color:var(--color-white, #ffffff)"
+    },
+    {
+      "source": "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+      "selector": ".header__desktop-language-switcher",
+      "declarations": "position:relative;padding:.5em 0;font-family:var(--font-body--family);font-weight:var(--font-body--weight);cursor:pointer"
+    },
+    {
+      "source": "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+      "selector": ".header__title",
+      "declarations": "text-decoration:none;color:var(--color-foreground, #222);font-weight:600;font-size:1.5rem;display:flex;align-items:center"
+    },
+    {
+      "source": "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+      "selector": ".header__menu-link",
+      "declarations": "font-family:var(--font-body--family);text-decoration:none;color:var(--color-foreground, #222);font-weight:var(--font-body--weight);padding:.5em 0;display:block"
+    },
+    {
+      "source": "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+      "selector": ".header__megamenu-title",
+      "declarations": "color:var(--color-pacsafe-blue, #1a2651);font-size:var(--font-size-body-md);font-family:var(--font-body-bold--family);font-weight:var(--font-body-bold--weight);text-transform:uppercase;padding:5px 20px"
+    },
+    {
+      "source": "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+      "selector": ".header__megamenu-link",
+      "declarations": "font-family:var(--font-body--family);font-size:var(--font-size-body-sm);text-decoration:none;color:var(--color-pacsafe-blue, #1a2651);display:block;font-weight:400;transition:color .2s ease;padding:5px 20px"
+    },
+    {
+      "source": "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+      "selector": ".header__megamenu-link.header__megamenu-title",
+      "declarations": "font-family:var(--font-body-bold--family);font-size:var(--font-size-body-md);font-weight:var(--font-body-bold--weight);text-transform:uppercase;padding:5px 20px"
+    },
+    {
+      "source": "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+      "selector": ".header__megamenu-link:hover",
+      "declarations": "color:var(--color-accent, #007bff)"
+    },
+    {
+      "source": "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+      "selector": ".header__megamenu-sublink",
+      "declarations": "text-decoration:none;color:#666;padding:.25em 0;display:block;font-size:.9em;transition:color .2s ease"
+    },
+    {
+      "source": "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+      "selector": ".header__megamenu-sublink:hover",
+      "declarations": "color:var(--color-accent, #007bff)"
+    },
+    {
+      "source": "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+      "selector": ".header__icon-link",
+      "declarations": "position:relative;text-decoration:none;color:var(--color-foreground, #222);display:flex;align-items:center"
+    },
+    {
+      "source": "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+      "selector": ".header__cart-count",
+      "declarations": "position:absolute;top:-8px;right:-8px;background:var(--color-pacsafe-blue);color:#fff;border-radius:50%;width:18px;height:18px;display:flex;align-items:center;justify-content:center;font-size:.75rem;font-weight:600"
+    },
+    {
+      "source": "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+      "selector": ".header__mobile-menu-toggle",
+      "declarations": "display:none;background:none;border:none;cursor:pointer;padding:.5rem;color:var(--color-foreground, #222)"
+    },
+    {
+      "source": "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+      "selector": ".header__mobile-drawer-title",
+      "declarations": "margin:0;font-size:1.25rem;font-weight:600;color:var(--color-foreground, #222)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Pacsafe Official | Shop Online For Anti-Theft Backpacks & Travel Gear\n – Pacsafe – Official North America Store",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pacsafe.com/",
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pacsafe.com/",
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pacsafe.com/",
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+        "https://pacsafe.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css",
+        "https://dov7r31oq5dkj.cloudfront.net/dc7006f5-eb46-45ce-895c-cbbb9a4ffec4/widget-style-customisations.css?v=efe07d77-d658-40c7-9a30-5d519dda70ad"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pacsafe.com/",
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pacsafe.com/",
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pacsafe.com/",
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css",
+        "https://pacsafe.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css",
+        "https://dov7r31oq5dkj.cloudfront.net/dc7006f5-eb46-45ce-895c-cbbb9a4ffec4/widget-style-customisations.css?v=efe07d77-d658-40c7-9a30-5d519dda70ad"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "colors.error": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "colors.sale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://d3hw6dc1ow8pp2.cloudfront.net/styles/main.min.css"
+      ]
+    },
+    "colors.disabled": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://pacsafe.com/cdn/shop/t/394/assets/main-FmODyVLw.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.feature-tag": {
+      "status": "inferred"
+    }
+  }
+}

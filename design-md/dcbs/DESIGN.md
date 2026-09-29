@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: DCBS
-description: A deep-green #114400 anchor — the color of a comic shop's back-issue wall, of longboxes stacked floor to ceiling — grounds a system otherwise built on cool grays (#f0f4f7, #c9cedb, #242c31) and the quiet authority of sans-serif system fonts. Discount Comic Book Service operates as a utilitarian marketplace where product density and price visibility trump visual flourish: every page is a grid of cover art thumbnails, each one a portal to a variant, a trade, a pre-order. The primary green appears sparingly — in the top nav bar, in the "Add to Cart" button, in the footer — but it carries the entire brand's voltage, a single chromatic promise that this is a place for collectors, not casual browsers. The canvas is a pale blue-gray #f0f4f7, not pure white; cards and surfaces lift into view with #ffffff on #e9eff4, creating a subtle depth that prevents the dense product grids from feeling flat. Borders are drawn in #d4dae0 and #c9cedb, soft enough to recede, present enough to define the thousands of tiny rectangles that organize covers, prices, and stock statuses. Typography runs the system stack at modest sizes — body copy at 14px, prices at 16px, titles at 18px — because the covers themselves do the heavy lifting. There is no hero image, no lifestyle photography, no brand story: just a green bar, a search field, and an infinite scroll of four-color art.
+name: "DCBS"
+source_url: "https://www.dcbservice.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep-green #114400 anchor — the color of a comic shop's back-issue wall, of longboxes stacked floor to ceiling — grounds a system otherwise built on cool grays (#f0f4f7, #c9cedb, #242c31) and the quiet authority of sans-serif system fonts. Discount Comic Book Service operates as a utilitarian marketplace where product density and price visibility trump visual flourish: every page is a grid of cover art thumbnails, each one a portal to a variant, a trade, a pre-order. The primary green appears sparingly — in the top nav bar, in the "Add to Cart" button, in the footer — but it carries the entire brand's voltage, a single chromatic promise that this is a place for collectors, not casual browsers. The canvas is a pale blue-gray #f0f4f7, not pure white; cards and surfaces lift into view with #ffffff on #e9eff4, creating a subtle depth that prevents the dense product grids from feeling flat. Borders are drawn in #d4dae0 and #c9cedb, soft enough to recede, present enough to define the thousands of tiny rectangles that organize covers, prices, and stock statuses. Typography runs the system stack at modest sizes — body copy at 14px, prices at 16px, titles at 18px — because the covers themselves do the heavy lifting. There is no hero image, no lifestyle photography, no brand story: just a green bar, a search field, and an infinite scroll of four-color art.
 
 colors:
   primary: "#114400"
@@ -357,6 +361,8 @@ components:
 - Breadcrumbs: On mobile, breadcrumbs collapse to show only the current page and a "Back" link
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for most components could not be reliably extracted from the live site CSS; only primary button hover and text-input focus are confirmed
 - Error state styling (form validation, error messages, input error borders) was not visible in the extracted data

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Deathwish Inc
-description: A record label and shop that wears its hardcore-punk lineage in a single blood-red hex — #d54d4d — deployed sparingly against a near-black #121212 canvas and a secondary deep-teal #1d2727 that reads like ink on newsprint. The brand does not shout; it lets the red do the work: a primary CTA button, a sale badge, a cart count, nothing more. Everything else is monochrome — #f8f7f7 for body text on dark backgrounds, #dedede for hairline borders, and the full white #ffffff canvas for product photography and editorial spreads. The typography stack is a defensive system-ui fallback chain (system-ui, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu) with no custom brand font declared — a pragmatic choice that prioritizes legibility over personality, letting the music and merchandise carry the voice. Buttons are sharp-cornered rectangles (`{rounded.none}`) with generous padding, a deliberate anti-softness that distinguishes Deathwish from the pill-button ecommerce default. The nav bar is a full-bleed black strip with white text, the logo sits left in a bold sans-serif wordmark, and the search icon is a simple outline — no orb, no glow. Product cards use a white surface (`{surface-card}`) with a thin `{hairline}` border, the price set in `{body-md}` weight 600, the band name in `{caption}` weight 400. The overall feel is that of a zine layout translated to web: high contrast, minimal ornament, and a trust that the content — album art, tour dates, merch photos — will provide all the texture the page needs.
+name: "Deathwish Inc"
+source_url: "https://www.deathwishinc.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A record label and shop that wears its hardcore-punk lineage in a single blood-red hex — #d54d4d — deployed sparingly against a near-black #121212 canvas and a secondary deep-teal #1d2727 that reads like ink on newsprint. The brand does not shout; it lets the red do the work: a primary CTA button, a sale badge, a cart count, nothing more. Everything else is monochrome — #f8f7f7 for body text on dark backgrounds, #dedede for hairline borders, and the full white #ffffff canvas for product photography and editorial spreads. The typography stack is a defensive system-ui fallback chain (system-ui, -apple-system, Segoe UI, Roboto, Oxygen, Ubuntu) with no custom brand font declared — a pragmatic choice that prioritizes legibility over personality, letting the music and merchandise carry the voice. Buttons are sharp-cornered rectangles (`{rounded.none}`) with generous padding, a deliberate anti-softness that distinguishes Deathwish from the pill-button ecommerce default. The nav bar is a full-bleed black strip with white text, the logo sits left in a bold sans-serif wordmark, and the search icon is a simple outline — no orb, no glow. Product cards use a white surface (`{surface-card}`) with a thin `{hairline}` border, the price set in `{body-md}` weight 600, the band name in `{caption}` weight 400. The overall feel is that of a zine layout translated to web: high contrast, minimal ornament, and a trust that the content — album art, tour dates, merch photos — will provide all the texture the page needs.
 
 colors:
   primary: "#d54d4d"
@@ -305,6 +309,8 @@ components:
 - Hero sections reduce font size and may stack CTA below text on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom brand font was detected; the site relies on system-ui fallback chain. A custom typeface (e.g., a bold grotesk or gothic) may be used in the logo but is not declared in CSS.
 - Hover and focus states for text inputs and secondary buttons were not fully extracted — assumed to use `{colors.ink}` border or underline.

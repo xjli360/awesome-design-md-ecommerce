@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Oxford University Press
-description: A deep navy blue (#002147) — the color of academic gowns and the Oxford sky at dusk — anchors every header, footer, and primary action across the site, while body text runs in a clean #333333 on a white (#ffffff) canvas that never wavers. The typography is unapologetically utilitarian: Arial at 16px for body copy, with display headings rarely exceeding 24px, reflecting a brand that trusts its content over its container. Navigation is a dense, text-heavy affair — a two-tier masthead with a global utility bar (Login, Cart, Help) above a subject-matter mega-menu that lists 30+ disciplines in a single column, each link set in 12px Arial with no iconography to soften the cognitive load. Search is a simple rectangular input with a magnifying-glass icon, not a pill or orb, and buttons are flat rectangles with 2px borders and no gradient or shadow — the form follows the function of a reference work. Product cards for books show the cover thumbnail, title, author, and price in a rigid three-column grid, with no hover animations or star ratings; the design language is that of a library catalog, not a retail storefront. The only decorative flourish is the OUP logo — a heraldic shield with an open book and the university motto — which appears in the top-left corner at a modest 40px height, never competing with the text. This is a system built for clarity, hierarchy, and the efficient retrieval of information, where every pixel serves the reader's task.
+name: "Oxford University Press"
+source_url: "https://global.oup.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep navy blue (#002147) — the color of academic gowns and the Oxford sky at dusk — anchors every header, footer, and primary action across the site, while body text runs in a clean #333333 on a white (#ffffff) canvas that never wavers. The typography is unapologetically utilitarian: Arial at 16px for body copy, with display headings rarely exceeding 24px, reflecting a brand that trusts its content over its container. Navigation is a dense, text-heavy affair — a two-tier masthead with a global utility bar (Login, Cart, Help) above a subject-matter mega-menu that lists 30+ disciplines in a single column, each link set in 12px Arial with no iconography to soften the cognitive load. Search is a simple rectangular input with a magnifying-glass icon, not a pill or orb, and buttons are flat rectangles with 2px borders and no gradient or shadow — the form follows the function of a reference work. Product cards for books show the cover thumbnail, title, author, and price in a rigid three-column grid, with no hover animations or star ratings; the design language is that of a library catalog, not a retail storefront. The only decorative flourish is the OUP logo — a heraldic shield with an open book and the university motto — which appears in the top-left corner at a modest 40px height, never competing with the text. This is a system built for clarity, hierarchy, and the efficient retrieval of information, where every pixel serves the reader's task.
 
 colors:
   primary: "#002147"
@@ -452,6 +456,8 @@ components:
 - The search bar expands to full width on mobile and shrinks to 40% on desktop.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No extracted hex colors were available from the live site (the extraction returned empty). The color palette above is based on the Oxford University Press brand guidelines (Oxford blue #002147 is the official university color) and common web conventions for an academic publisher. The actual live site may use different shades.
 - No font-family declarations beyond Arial were found. The site may use a custom typeface (e.g., Oxford fonts) that was not detected by the extraction tool.

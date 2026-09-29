@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Westman Atelier
-description: Westman Atelier is clean luxury makeup that feels like skincare, built on a philosophy of "curation over collection." The brand's visual language mirrors its product ethos: refined, restrained, and resolutely sophisticated. The palette is anchored in deep, almost-black ink (`#141414`) and soft charcoal (`#333333`), creating a sense of quiet authority that never shouts. Against this, a canvas of pure white (`#f6f6f6`) and warm off-white (`#dedede`) provides a luminous backdrop, while the signature accent — a precise, cerulean blue (`#1990c6`) — appears sparingly, like a single stroke of color on a minimalist painting. This blue, deepened to `#136f99` on interaction, is the brand's only chromatic gesture, used for primary actions and select editorial highlights. The typography is set in Inter, a clean, neo-grotesk typeface that carries the brand's clinical-yet-warm precision. There are no decorative flourishes, no heavy weights, no loud gradients. Instead, the system relies on generous whitespace, hairline-thin borders (`#e2e2e2`), and a carefully calibrated hierarchy where `{spacing.section}` (64px) creates breathing room between product stories. The overall effect is one of a high-end apothecary: tactile, trustworthy, and deeply intentional. Every component — from the pill-shaped buttons (`{rounded.full}`) to the softly rounded product cards (`{rounded.md}`) — feels like it was designed for a single, perfect application.
+name: "Westman Atelier"
+source_url: "https://www.westman-atelier.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Westman Atelier is clean luxury makeup that feels like skincare, built on a philosophy of "curation over collection." The brand's visual language mirrors its product ethos: refined, restrained, and resolutely sophisticated. The palette is anchored in deep, almost-black ink (`#141414`) and soft charcoal (`#333333`), creating a sense of quiet authority that never shouts. Against this, a canvas of pure white (`#f6f6f6`) and warm off-white (`#dedede`) provides a luminous backdrop, while the signature accent — a precise, cerulean blue (`#1990c6`) — appears sparingly, like a single stroke of color on a minimalist painting. This blue, deepened to `#136f99` on interaction, is the brand's only chromatic gesture, used for primary actions and select editorial highlights. The typography is set in Inter, a clean, neo-grotesk typeface that carries the brand's clinical-yet-warm precision. There are no decorative flourishes, no heavy weights, no loud gradients. Instead, the system relies on generous whitespace, hairline-thin borders (`#e2e2e2`), and a carefully calibrated hierarchy where `{spacing.section}` (64px) creates breathing room between product stories. The overall effect is one of a high-end apothecary: tactile, trustworthy, and deeply intentional. Every component — from the pill-shaped buttons (`{rounded.full}`) to the softly rounded product cards (`{rounded.md}`) — feels like it was designed for a single, perfect application.
 
 colors:
   primary: "#1990c6"
@@ -453,6 +457,8 @@ components:
 - Product detail page sections (e.g., ingredients, how to use) collapse into accordion panels on all screen sizes.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for all components could not be fully extracted; the provided hover tokens are based on observed patterns and brand logic.
 - Error styling for forms (e.g., validation messages, error icons) was not reliably extracted; the red border (`#c13515`) is inferred from common e-commerce patterns.

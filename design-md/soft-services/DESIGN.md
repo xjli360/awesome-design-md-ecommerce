@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Soft Services
-description: Soft Services is a body care brand that speaks in the language of clinical efficacy wrapped in sensory warmth. The brand's canvas is a barely-there off-white (`#f8f8f5`), a shade that feels like clean cotton rather than sterile white, setting the stage for a palette that moves through warm stone (`#e8e5dc`), soft clay (`#f2f1ec`), and the muted taupe of a perfectly worn-in leather jacket (`#7e736d`). A single accent of warm amber (`#bc7b02`) acts as the brand's voltage, appearing sparingly on key CTAs and product highlights, lending a sense of preciousness without shouting. The typography is a deliberate study in contrast: the serif warmth of BellMT Pro for headlines, lending a editorial, almost literary gravity, paired with the clean, modern utility of GT Eesti Light and GT Eesti Pro for body and interface text. This marriage of a warm, slightly imperfect serif with a rational sans-serif creates a brand that feels both authoritative and approachable — like a trusted dermatologist who also happens to have impeccable taste. The interface is defined by generous whitespace, soft corners (`{rounded.sm}` for buttons, `{rounded.md}` for cards), and a reliance on subtle hairlines (`#e7e5dc`) rather than heavy borders to define space. The overall mood is one of quiet confidence: the brand trusts its product photography and copy to do the heavy lifting, using color and typography as a supporting cast rather than the main event. The deep near-blacks (`#1a1a1a`, `#111111`) for body text ensure readability without the harshness of pure black, while the mid-tone grays (`#999999`, `#aaaaaa`) handle secondary information and captions with a gentle hand. This is a design system built for a brand that sells ritual and results, not hype.
+name: "Soft Services"
+source_url: "https://softservices.co"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Soft Services is a body care brand that speaks in the language of clinical efficacy wrapped in sensory warmth. The brand's canvas is a barely-there off-white (`#f8f8f5`), a shade that feels like clean cotton rather than sterile white, setting the stage for a palette that moves through warm stone (`#e8e5dc`), soft clay (`#f2f1ec`), and the muted taupe of a perfectly worn-in leather jacket (`#7e736d`). A single accent of warm amber (`#bc7b02`) acts as the brand's voltage, appearing sparingly on key CTAs and product highlights, lending a sense of preciousness without shouting. The typography is a deliberate study in contrast: the serif warmth of BellMT Pro for headlines, lending a editorial, almost literary gravity, paired with the clean, modern utility of GT Eesti Light and GT Eesti Pro for body and interface text. This marriage of a warm, slightly imperfect serif with a rational sans-serif creates a brand that feels both authoritative and approachable — like a trusted dermatologist who also happens to have impeccable taste. The interface is defined by generous whitespace, soft corners (`{rounded.sm}` for buttons, `{rounded.md}` for cards), and a reliance on subtle hairlines (`#e7e5dc`) rather than heavy borders to define space. The overall mood is one of quiet confidence: the brand trusts its product photography and copy to do the heavy lifting, using color and typography as a supporting cast rather than the main event. The deep near-blacks (`#1a1a1a`, `#111111`) for body text ensure readability without the harshness of pure black, while the mid-tone grays (`#999999`, `#aaaaaa`) handle secondary information and captions with a gentle hand. This is a design system built for a brand that sells ritual and results, not hype.
 
 colors:
   primary: "#bc7b02"
@@ -396,6 +400,8 @@ components:
 - Multi-column text layouts collapse to single column on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components could not be fully extracted; only primary and secondary buttons have confirmed active states
 - Error styling for form validation (beyond the text-input error border) is not confirmed; error messages, icons, and inline validation patterns are inferred

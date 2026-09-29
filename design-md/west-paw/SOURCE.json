@@ -1,0 +1,884 @@
+{
+  "source_url": "https://westpaw.com",
+  "final_url": "https://www.westpaw.com/",
+  "captured_at": "2026-09-28T09:17:34.356949+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://westpaw.com",
+      "final_url": "https://www.westpaw.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "a08d856c9167b7fd6a5944c90c6ee7e04b719906de17399bc72cc9d6efe66e52",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.westpaw.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.westpaw.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444",
+      "final_url": "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "50ab4800af81ba6881e407bb4d30924cdae96a08cf8b7df7fcb589c15e5de7b9",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.westpaw.com/cdn/shop/t/464/assets/main.css?v=171879417312309079731790101444",
+      "final_url": "https://www.westpaw.com/cdn/shop/t/464/assets/main.css?v=171879417312309079731790101444",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6efddd0b8588d3e3edb530574cc95de1f53947399d841104eedef3bef7adc3d5",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.westpaw.com/cdn/shop/t/464/assets/custom.css?v=153342310399061315091790101444",
+      "final_url": "https://www.westpaw.com/cdn/shop/t/464/assets/custom.css?v=153342310399061315091790101444",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "349ff43f3360adb5e8ac4fa701200ec8d3f287e79d3ba1db592416e87140cca0",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.westpaw.com/cdn/shop/t/464/assets/scrolling-ticker.css?v=129456038510782246551787620223",
+      "final_url": "https://www.westpaw.com/cdn/shop/t/464/assets/scrolling-ticker.css?v=129456038510782246551787620223",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "02a9269a8541f45a743188934d1e4151cd4c5896c62eded4ff25ee80f935f803",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 273,
+      "sources": [
+        "https://www.westpaw.com/",
+        "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444"
+      ]
+    },
+    "#ffffff": {
+      "count": 81,
+      "sources": [
+        "https://www.westpaw.com/",
+        "https://www.westpaw.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444",
+        "https://www.westpaw.com/cdn/shop/t/464/assets/main.css?v=171879417312309079731790101444"
+      ]
+    },
+    "#2d2d2d": {
+      "count": 29,
+      "sources": [
+        "https://www.westpaw.com/",
+        "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444",
+        "https://www.westpaw.com/cdn/shop/t/464/assets/main.css?v=171879417312309079731790101444"
+      ]
+    },
+    "#09bcef": {
+      "count": 19,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 16,
+      "sources": [
+        "https://www.westpaw.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444"
+      ]
+    },
+    "#00b2e5": {
+      "count": 12,
+      "sources": [
+        "https://www.westpaw.com/",
+        "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444",
+        "https://www.westpaw.com/cdn/shop/t/464/assets/main.css?v=171879417312309079731790101444"
+      ]
+    },
+    "#eff8fa": {
+      "count": 8,
+      "sources": [
+        "https://www.westpaw.com/",
+        "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444"
+      ]
+    },
+    "#f04b23": {
+      "count": 7,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#1f76a5": {
+      "count": 6,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#f04824": {
+      "count": 4,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#6fcfef": {
+      "count": 4,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#6b7280": {
+      "count": 4,
+      "sources": [
+        "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444"
+      ]
+    },
+    "#2563eb": {
+      "count": 4,
+      "sources": [
+        "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444"
+      ]
+    },
+    "#272d45": {
+      "count": 3,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#4c4c4e": {
+      "count": 3,
+      "sources": [
+        "https://www.westpaw.com/",
+        "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444"
+      ]
+    },
+    "#f1f8fa": {
+      "count": 3,
+      "sources": [
+        "https://www.westpaw.com/",
+        "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444"
+      ]
+    },
+    "#d1d5db": {
+      "count": 2,
+      "sources": [
+        "https://www.westpaw.com/",
+        "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444"
+      ]
+    },
+    "#3e3e3e": {
+      "count": 2,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#a8a9ad": {
+      "count": 2,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#fdede9": {
+      "count": 2,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#676986": {
+      "count": 2,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 2,
+      "sources": [
+        "https://www.westpaw.com/",
+        "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444"
+      ]
+    },
+    "#570774": {
+      "count": 2,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#f04b24": {
+      "count": 2,
+      "sources": [
+        "https://www.westpaw.com/",
+        "https://www.westpaw.com/cdn/shop/t/464/assets/main.css?v=171879417312309079731790101444"
+      ]
+    },
+    "#fff8df": {
+      "count": 2,
+      "sources": [
+        "https://www.westpaw.com/",
+        "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.westpaw.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 2,
+      "sources": [
+        "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444"
+      ]
+    },
+    "#3b82f6": {
+      "count": 2,
+      "sources": [
+        "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444"
+      ]
+    },
+    "#999999": {
+      "count": 2,
+      "sources": [
+        "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444"
+      ]
+    },
+    "#ceeef9": {
+      "count": 1,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#0f918b": {
+      "count": 1,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#cc5555": {
+      "count": 1,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#dfdfdf": {
+      "count": 1,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#252525": {
+      "count": 1,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#ffffffff": {
+      "count": 1,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#f04925": {
+      "count": 1,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#f4f4f6": {
+      "count": 1,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#e5e5eb": {
+      "count": 1,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#f7f7f8": {
+      "count": 1,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#9a9db1": {
+      "count": 1,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#d3d4dd": {
+      "count": 1,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#b2f9e9": {
+      "count": 1,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#19975d": {
+      "count": 1,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#1b6875": {
+      "count": 1,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#d50032": {
+      "count": 1,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#fff5ed": {
+      "count": 1,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#de3a3a": {
+      "count": 1,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#8b6525": {
+      "count": 1,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#079ac3": {
+      "count": 1,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#3ac9f2": {
+      "count": 1,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#6bd7f5": {
+      "count": 1,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#9de4f9": {
+      "count": 1,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#c2eefb": {
+      "count": 1,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#daf5fd": {
+      "count": 1,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#d8320f": {
+      "count": 1,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#f6917c": {
+      "count": 1,
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.westpaw.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.westpaw.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.westpaw.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#ececec": {
+      "count": 1,
+      "sources": [
+        "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444"
+      ]
+    }
+  },
+  "font_families": {
+    "Apple Color Emoji": [
+      "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444"
+    ],
+    "Arial": [
+      "https://www.westpaw.com/"
+    ],
+    "Consolas": [
+      "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444"
+    ],
+    "Courier New": [
+      "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444"
+    ],
+    "Helvetica": [
+      "https://www.westpaw.com/"
+    ],
+    "Liberation Mono": [
+      "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444"
+    ],
+    "Menlo": [
+      "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444"
+    ],
+    "Monaco": [
+      "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444"
+    ],
+    "Noto Color Emoji": [
+      "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444"
+    ],
+    "SFMono-Regular": [
+      "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444"
+    ],
+    "Segoe UI Emoji": [
+      "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444"
+    ],
+    "Segoe UI Symbol": [
+      "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444"
+    ],
+    "akzidenz-grotesk": [
+      "https://www.westpaw.com/"
+    ],
+    "mindset": [
+      "https://www.westpaw.com/"
+    ],
+    "monospace": [
+      "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444"
+    ],
+    "oke-widget-icons": [
+      "https://www.westpaw.com/"
+    ],
+    "oke-widget-icons!important": [
+      "https://www.westpaw.com/"
+    ],
+    "sans-serif": [
+      "https://www.westpaw.com/",
+      "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444"
+    ],
+    "system-ui": [
+      "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444"
+    ],
+    "ui-monospace": [
+      "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444"
+    ],
+    "ui-sans-serif": [
+      "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.westpaw.com/",
+      "selector": ":root",
+      "declarations": "--button-light: #ffffff;\n      --button-light-active: #ceeef9;\n      --button-light-text: #09bcef;\n      --button-light-text-active: #00B2E5;\n      \n      \n      \n--button-dark: #09bcef;\n      --button-dark-active: #f04824;\n      --button-dark-text: #FFFFFF;\n      --button-dark-text-active: #FFFFFF;\n      \n      \n      \n\n      --button-outline-active: #1F76A5;\n      --button-outline-text: #1F76A5;\n      --button-outline-text-active: #ffffff;\n      --button-outline-border-color: #1F76A5;\n      --button-outline-border-width: 2px;\n      --button-outline-border-active: #1F76A5;\n\n      --button-outline_light-active: #ffffff;\n      --button-outline_light-text: #FFFFFF;\n      --button-outline_light"
+    },
+    {
+      "source": "https://www.westpaw.com/",
+      "selector": ":root",
+      "declarations": "--drawer-max-width: 375px;"
+    },
+    {
+      "source": "https://www.westpaw.com/",
+      "selector": ":root",
+      "declarations": "--font-body-family: akzidenz-grotesk, Helvetica, Arial, sans-serif;\n      --font-body-bold-weight: 600;\n      --font-heading-family: mindset, Helvetica, Arial, sans-serif;\n      --font-heading-bold-weight: 400;"
+    },
+    {
+      "source": "https://www.westpaw.com/",
+      "selector": ":root",
+      "declarations": "--tooltip-bg: #252525;\n    --tooltip-text: #FFFFFF;"
+    },
+    {
+      "source": "https://www.westpaw.com/",
+      "selector": ".collection-nav a.button.collection-nav-link.dark",
+      "declarations": "background: #FDEDE9;\n  color: #f04925;\nborder-radius: 6px !important;\nfont-family: var(--font-heading-family),sans-serif !important;\nfont-weight: var(--font-heading-bold-weight);\nfont-size: 1.6rem;\npadding: 1rem !important;"
+    },
+    {
+      "source": "https://www.westpaw.com/",
+      "selector": ".collection-nav a.button.collection-nav-link.light",
+      "declarations": "color: #A8A9AD;\ntext-transform: uppercase;\nfont-family: var(--font-heading-family),sans-serif !important;\nfont-size: 1.6rem;\npadding: 1rem !important;"
+    },
+    {
+      "source": "https://www.westpaw.com/",
+      "selector": ".product-additional-info-block a",
+      "declarations": "color: #1F76A5;\n  text-decoration: underline;"
+    },
+    {
+      "source": "https://www.westpaw.com/",
+      "selector": ".article-regenerative-ranching .button,\n.article-regenerative-ranching button.button",
+      "declarations": "background-color: #2D2D2D;"
+    },
+    {
+      "source": "https://www.westpaw.com/",
+      "selector": ".page-meat-our-ranchers  .button,\n.article-regenerative-ranching button.button",
+      "declarations": "background-color: #2D2D2D;"
+    },
+    {
+      "source": "https://www.westpaw.com/",
+      "selector": "nav-header  #link-recipes .menu-dropdown__inner-submenu li:first-of-type",
+      "declarations": "font-family: var(--font-body-family), sans-serif;\n    font-size: 1rem;\nfont-weight: 400;"
+    },
+    {
+      "source": "https://www.westpaw.com/",
+      "selector": "nav-header [data-dropdown-link]:hover, nav-header [data-dropdown-link]:active",
+      "declarations": "border-color: #F04B23 !important;"
+    },
+    {
+      "source": "https://www.westpaw.com/",
+      "selector": ".product-option-switcher-label",
+      "declarations": "text-transform: capitalize;\n  font-family: var(--font-body-family);\n  font-weight: var(--font-body-bold-weight) !important;"
+    },
+    {
+      "source": "https://www.westpaw.com/",
+      "selector": ".okeReviews[data-oke-container] button,div.okeReviews button",
+      "declarations": "border-radius:0;border:0;box-shadow:none;margin:0;width:auto;min-width:auto;padding:0;background-color:transparent;min-height:auto"
+    },
+    {
+      "source": "https://www.westpaw.com/",
+      "selector": "views[data-oke-container] input,.okeReviews[data-oke-container] select,.okeReviews[data-oke-container] textarea,div.okeReviews button,div.okeReviews input,div.o",
+      "declarations": "font-family:inherit;font-size:1em"
+    },
+    {
+      "source": "https://www.westpaw.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button,div.okeReviews .oke-button",
+      "declarations": "display:inline-block;border-style:solid;border-color:var(--oke-button-borderColor);border-width:var(--oke-button-borderWidth);background-color:var(--oke-button-backgroundColor);line-height:1;padding:12px 24px;margin:0;border-radius:var(--oke-button-borderRadius);color:var(--oke-button-textColor);text-align:center;position:relative;font-weight:var(--oke-button-fontWeight);font-size:var(--oke-button-fontSize);font-family:var(--oke-button-fontFamily);outline:0"
+    },
+    {
+      "source": "https://www.westpaw.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button.oke-is-loading:before,div.okeReviews .oke-button.oke-is-loading:before",
+      "declarations": "font-family:oke-widget-icons!important;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;content:\"\";color:undefined;font-size:12px;display:inline-block;animation:oke-spin 1s linear infinite;position:absolute;width:12px;height:12px;top:0;left:0;bottom:0;right:0;margin:auto"
+    },
+    {
+      "source": "https://www.westpaw.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button.oke-is-active,div.okeReviews .oke-button.oke-is-active",
+      "declarations": "background-color:var(--oke-button-backgroundColorActive);color:var(--oke-button-textColorActive);border-color:var(--oke-button-borderColorActive)"
+    },
+    {
+      "source": "https://www.westpaw.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button:not(.oke-is-loading):not(.oke-is-active):hover,div.okeReviews .oke-button:not(.oke-is-loading):not(.oke-is-active):h",
+      "declarations": "background-color:var(--oke-button-backgroundColorHover);color:var(--oke-button-textColorHover);border-color:var(--oke-button-borderColorHover);box-shadow:0 0 0 2px var(--oke-button-backgroundColorHover)"
+    },
+    {
+      "source": "https://www.westpaw.com/",
+      "selector": "is-loading):not(.oke-is-active):hover:active,div.okeReviews .oke-button:not(.oke-is-loading):not(.oke-is-active):active,div.okeReviews .oke-button:not(.oke-is-l",
+      "declarations": "background-color:var(--oke-button-backgroundColorActive);color:var(--oke-button-textColorActive);border-color:var(--oke-button-borderColorActive)"
+    },
+    {
+      "source": "https://www.westpaw.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-bodyText,div.okeReviews .oke-bodyText",
+      "declarations": "font-weight:var(--oke-bodyText-fontWeight);font-size:var(--oke-bodyText-fontSize);font-family:var(--oke-bodyText-fontFamily)"
+    },
+    {
+      "source": "https://www.westpaw.com/",
+      "selector": "views[data-oke-container] .oke-modal .oke-reviewContent-date,div.okeReviews .oke-modal .oke-helpful,div.okeReviews .oke-modal .oke-helpful-vote-button,div.okeRe",
+      "declarations": "color:#676986"
+    },
+    {
+      "source": "https://www.westpaw.com/",
+      "selector": ":root",
+      "declarations": "--oke-widget-spaceAbove:20px;--oke-widget-spaceBelow:20px;--oke-starRating-spaceAbove:0;--oke-starRating-spaceBelow:0;--oke-button-backgroundColor:#00b2e5;--oke-button-backgroundColorHover:#6fcfef;--oke-button-backgroundColorActive:#6fcfef;--oke-button-textColor:#fff;--oke-button-textColorHover:#fff;--oke-button-textColorActive:#fff;--oke-button-borderColor:#00b2e5;--oke-button-borderColorHover:#6fcfef;--oke-button-borderColorActive:#6fcfef;--oke-button-borderRadius:8px;--oke-button-borderWidth:0;--oke-button-fontWeight:700;--oke-button-fontSize:var(--oke-text-regular,14px);--oke-button-fontFamily:inherit;--oke-border-color:#e5e7eb;--oke-border-width:1px;--oke-text-primaryColor:#4c4c4e;--oke"
+    },
+    {
+      "source": "https://www.westpaw.com/",
+      "selector": "div.okeReviews[data-oke-container] .oke-showMore-button-text,div.okeReviews .oke-showMore-button-text",
+      "declarations": "color:var(--oke-button-textColor)"
+    },
+    {
+      "source": "https://www.westpaw.com/",
+      "selector": "div.okeReviews[data-oke-container] .oke-button,div.okeReviews .oke-button",
+      "declarations": "font-family:mindset,Helvetica,Arial,sans-serif;font-weight:600;letter-spacing:.025em"
+    },
+    {
+      "source": "https://www.westpaw.com/",
+      "selector": "background-color:#09bcef;color:#ffffff;\nbackground-color:#ffffff;\nmax-width:140px;\nbackground-color:#ffffff;\nbackground-color:#ffffff;\ncolor:#2d2d2d;\ncolor:#2d2",
+      "declarations": "--header-height: 60px;\n    --logo-width: 100px;"
+    },
+    {
+      "source": "https://www.westpaw.com/",
+      "selector": ":root",
+      "declarations": "--logo-width: 140px;\n      --header-height: 76px;"
+    },
+    {
+      "source": "https://www.westpaw.com/",
+      "selector": "width: 93.6291%;\nwidth: 100%;\nwidth: 100%;\nwidth: 93.6291%;\nwidth: 100%;\nwidth: 100%;\n\n  :root",
+      "declarations": "--product-flag-bg: #09bcef;\n    --product-flag-text: #ffffff;\n    --product-flag-text-transform: uppercase;\n    --product-flag-border-radius: 2px;\n    --product-flag-font-weight: var(--font-body-bold-weight);\n    --product-flag-letter-spacing: 0em;\n    --product-flag-font-size-sm: .75rem;\n    --product-flag-font-size-md: .825rem;"
+    },
+    {
+      "source": "https://www.westpaw.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.westpaw.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.westpaw.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Dogs Toys and Treats | Dogs Beds | West Paw, Inc.",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.westpaw.com/",
+        "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444",
+        "https://www.westpaw.com/cdn/shop/t/464/assets/main.css?v=171879417312309079731790101444"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.westpaw.com/",
+        "https://www.westpaw.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444",
+        "https://www.westpaw.com/cdn/shop/t/464/assets/main.css?v=171879417312309079731790101444"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.westpaw.com/",
+        "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.westpaw.com/",
+        "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.westpaw.com/",
+        "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.westpaw.com/",
+        "https://www.westpaw.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.westpaw.com/cdn/shop/t/464/assets/critical.css?v=88000889889285499021790101444",
+        "https://www.westpaw.com/cdn/shop/t/464/assets/main.css?v=171879417312309079731790101444"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "colors.accent-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "colors.badge-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "colors.badge-text": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "colors.highlight-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "colors.tooltip-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.westpaw.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search-bar": {
+      "status": "inferred"
+    },
+    "components.subscription-card": {
+      "status": "inferred"
+    }
+  }
+}

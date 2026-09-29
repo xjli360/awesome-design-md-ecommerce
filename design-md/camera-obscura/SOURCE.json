@@ -1,0 +1,831 @@
+{
+  "source_url": "https://cameraobscurafilms.de/",
+  "final_url": "https://cameraobscurafilms.de/",
+  "captured_at": "2026-09-29T04:12:13.289746+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://cameraobscurafilms.de/",
+      "final_url": "https://cameraobscurafilms.de/",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "9b3fedbb356b90aa9ed60dfbc9d865a10b94ab02c57dde10c007203f3ec48eca",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/base.css?v=159841507637079171801751205465",
+      "final_url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/base.css?v=159841507637079171801751205465",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "cbe3a064d7233a573a96dd5816b7f9cce72b8889254a9b0ed363c8a316896b5f",
+      "snapshot": "rendered-style-1.css"
+    },
+    {
+      "url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/component-localization-form.css?v=170315343355214948141749568984",
+      "final_url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/component-localization-form.css?v=170315343355214948141749568984",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e794e24897cd1f4df58f3ed535935762284378e0a226bced794ad3a83a51e7b3",
+      "snapshot": "rendered-style-2.css"
+    },
+    {
+      "url": "https://cameraobscurafilms.de/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://cameraobscurafilms.de/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "rendered-style-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0a99e-020c-7f59-a1b7-22b52999bce6/labeler-4.3/assets/styles.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0a99e-020c-7f59-a1b7-22b52999bce6/labeler-4.3/assets/styles.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "03124a8c59be24b66fb8ec03f06468049bb74c82beb9a96c172cd24450c0ed7b",
+      "snapshot": "rendered-style-4.css"
+    },
+    {
+      "url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/section-image-banner.css?v=124819179385751388401749568986",
+      "final_url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/section-image-banner.css?v=124819179385751388401749568986",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "25d7c366073b65fdc6f46dee6381b2266c2c3172dc9df165ef566966c445dc26",
+      "snapshot": "rendered-style-5.css"
+    },
+    {
+      "url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/section-rich-text.css?v=155250126305810049721749568986",
+      "final_url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/section-rich-text.css?v=155250126305810049721749568986",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f0818c8e99281ca8a182b7719f9b9a32ca4bbfd68aa1490bad629a6d44e4400e",
+      "snapshot": "rendered-style-6.css"
+    },
+    {
+      "url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/component-card.css?v=120341546515895839841749568984",
+      "final_url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/component-card.css?v=120341546515895839841749568984",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9382895231d47c6e300c6df699ceb16cfa8f94082f92ccf6bfc8c98bf29b4ebc",
+      "snapshot": "rendered-style-7.css"
+    },
+    {
+      "url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/component-price.css?v=70172745017360139101749568984",
+      "final_url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/component-price.css?v=70172745017360139101749568984",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6d5b751319fe501c98391407e29272c7dff986555c813c3727f2d00e42e48c79",
+      "snapshot": "rendered-style-8.css"
+    },
+    {
+      "url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/component-slider.css?v=14039311878856620671749568984",
+      "final_url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/component-slider.css?v=14039311878856620671749568984",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1e4fbf0ad982e8b72f3a7d9d02cb29a2638b1ad41febc3a1ca3a8845aeb8926b",
+      "snapshot": "rendered-style-9.css"
+    },
+    {
+      "url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/template-collection.css?v=58558206033505836701749568986",
+      "final_url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/template-collection.css?v=58558206033505836701749568986",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "56d873e5c8819ce66a2838475acdfbd1c85cc744a45368a170f608d7477b0642",
+      "snapshot": "rendered-style-10.css"
+    },
+    {
+      "url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/component-rating.css?v=179577762467860590411749568984",
+      "final_url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/component-rating.css?v=179577762467860590411749568984",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "393cbc49926ce068fd979afd1a6d7df9758653e5b1e8514f3f0960d03b2df1ba",
+      "snapshot": "rendered-style-11.css"
+    },
+    {
+      "url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/quick-order-list.css?v=86354568948591544181749568986",
+      "final_url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/quick-order-list.css?v=86354568948591544181749568986",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3eb8e75c673e84d09907594f9bd5f73408cff0057318bc23190fe107e5f7df61",
+      "snapshot": "rendered-style-12.css"
+    },
+    {
+      "url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/component-volume-pricing.css?v=111870094811454961941749568984",
+      "final_url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/component-volume-pricing.css?v=111870094811454961941749568984",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "af07fa5566a056a68cdb07c6bd8687ac5d2981628e7eb58b0d5acdccfa48c27b",
+      "snapshot": "rendered-style-13.css"
+    },
+    {
+      "url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/quantity-popover.css?v=160630540099520878331749568986",
+      "final_url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/quantity-popover.css?v=160630540099520878331749568986",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "772a043d26c2b7960e0e9eb514cef690be444dffe2f80c174f7c76797d0f9141",
+      "snapshot": "rendered-style-14.css"
+    },
+    {
+      "url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/component-newsletter.css?v=4727253280200485261749568984",
+      "final_url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/component-newsletter.css?v=4727253280200485261749568984",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "927d1524c5d85a5d0d7fdbf483901946d52f384d7f2c7060dab0cfb2b8fb4ba6",
+      "snapshot": "rendered-style-15.css"
+    },
+    {
+      "url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/newsletter-section.css?v=62410470717655853621749568986",
+      "final_url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/newsletter-section.css?v=62410470717655853621749568986",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4dd4eefbdac40ae9e2792c30cf2288bea4a9900e35199d987511cfb7daecd7eb",
+      "snapshot": "rendered-style-16.css"
+    },
+    {
+      "url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/component-article-card.css?v=47105078945762260691749568984",
+      "final_url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/component-article-card.css?v=47105078945762260691749568984",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ce8172a535597ad28fa1c9846dc4f6ef5a99093a2d3822abb94f407db2007990",
+      "snapshot": "rendered-style-17.css"
+    },
+    {
+      "url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/section-footer.css?v=60318643098753476351749568986",
+      "final_url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/section-footer.css?v=60318643098753476351749568986",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "671a436d32eb748ab2549f958fcd58a5ac019d4adc988d4e2399ab8f1d383971",
+      "snapshot": "rendered-style-18.css"
+    },
+    {
+      "url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/component-list-menu.css?v=151968516119678728991749568984",
+      "final_url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/component-list-menu.css?v=151968516119678728991749568984",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7e5d9009e86a53f67e2eb846cc835fcea43bcef8afd1db9d65bd3053239d703c",
+      "snapshot": "rendered-style-19.css"
+    },
+    {
+      "url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/component-list-social.css?v=35792976012981934991749568984",
+      "final_url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/component-list-social.css?v=35792976012981934991749568984",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "675a875df8c636dfea5bbcfc39cacc0d8c5167183ddd6d41ab3799ccb5cfd3ee",
+      "snapshot": "rendered-style-20.css"
+    },
+    {
+      "url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/component-list-payment.css?v=69253961410771838501749568984",
+      "final_url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/component-list-payment.css?v=69253961410771838501749568984",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "91c2889dda4223a062da9cc8e6dd536f0e043735d45d769f105ba1b2babe6e07",
+      "snapshot": "rendered-style-21.css"
+    },
+    {
+      "url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/section-featured-blog.css?v=36629982431115873811749568986",
+      "final_url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/section-featured-blog.css?v=36629982431115873811749568986",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "848b416fec9030f784beca8cc55894712feb014377f2485e869290ed37dc86e2",
+      "snapshot": "rendered-style-22.css"
+    },
+    {
+      "url": "https://fonts.bunny.net/css?family=Inter:wght@100&family=Poppins&display=swap",
+      "final_url": "https://fonts.bunny.net/css?family=Inter:wght@100&family=Poppins&display=swap",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3cf12b565ed1de182e5425cf4d9def32eca5fd907cb9003cdc7a17fc76fc66dd",
+      "snapshot": "rendered-style-23.css"
+    },
+    {
+      "url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/component-cart-items.css?v=123238115697927560811749568984",
+      "final_url": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/component-cart-items.css?v=123238115697927560811749568984",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4e84b8535a435b444833aaf9b17dc6c3f153c152a860658aea8f7008ab9b76c0",
+      "snapshot": "rendered-style-24.css"
+    },
+    {
+      "url": "https://cameraobscurafilms.de/#computed-style-snapshot",
+      "final_url": "https://cameraobscurafilms.de/#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "c4bc46b5bdfe63eab30af7436da881aac8bcdec9b76c6b305ae8ffce4905c0a4",
+      "snapshot": "rendered-style-25.css"
+    },
+    {
+      "url": "https://fonts.bunny.net/css?family=Inter:wght@100&family=Poppins&display=swap",
+      "final_url": "https://fonts.bunny.net/css?family=Inter:wght@100&family=Poppins&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "3cf12b565ed1de182e5425cf4d9def32eca5fd907cb9003cdc7a17fc76fc66dd",
+      "snapshot": "import-1.css"
+    }
+  ],
+  "colors": {
+    "#eadac0": {
+      "count": 120,
+      "sources": [
+        "https://cameraobscurafilms.de/#computed-style-snapshot"
+      ]
+    },
+    "#ffffff": {
+      "count": 18,
+      "sources": [
+        "https://cameraobscurafilms.de/",
+        "https://cameraobscurafilms.de/cdn/shop/t/5/assets/base.css?v=159841507637079171801751205465",
+        "https://cameraobscurafilms.de/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0a99e-020c-7f59-a1b7-22b52999bce6/labeler-4.3/assets/styles.css",
+        "https://cameraobscurafilms.de/#computed-style-snapshot"
+      ]
+    },
+    "#16120a": {
+      "count": 13,
+      "sources": [
+        "https://cameraobscurafilms.de/",
+        "https://cameraobscurafilms.de/#computed-style-snapshot"
+      ]
+    },
+    "#000000": {
+      "count": 6,
+      "sources": [
+        "https://cameraobscurafilms.de/",
+        "https://cameraobscurafilms.de/cdn/shop/t/5/assets/base.css?v=159841507637079171801751205465",
+        "https://cameraobscurafilms.de/cdn/shop/t/5/assets/component-localization-form.css?v=170315343355214948141749568984",
+        "https://cameraobscurafilms.de/cdn/shop/t/5/assets/section-image-banner.css?v=124819179385751388401749568986",
+        "https://cameraobscurafilms.de/#computed-style-snapshot"
+      ]
+    },
+    "#daa838": {
+      "count": 5,
+      "sources": [
+        "https://cameraobscurafilms.de/",
+        "https://cameraobscurafilms.de/#computed-style-snapshot"
+      ]
+    },
+    "#222222": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0a99e-020c-7f59-a1b7-22b52999bce6/labeler-4.3/assets/styles.css"
+      ]
+    },
+    "#0a0a0a": {
+      "count": 3,
+      "sources": [
+        "https://cameraobscurafilms.de/"
+      ]
+    },
+    "#007bbc": {
+      "count": 3,
+      "sources": [
+        "https://cameraobscurafilms.de/"
+      ]
+    },
+    "#ffffff00": {
+      "count": 3,
+      "sources": [
+        "https://cameraobscurafilms.de/cdn/shop/t/5/assets/base.css?v=159841507637079171801751205465"
+      ]
+    },
+    "#716a56": {
+      "count": 2,
+      "sources": [
+        "https://cameraobscurafilms.de/"
+      ]
+    },
+    "#2c332f": {
+      "count": 2,
+      "sources": [
+        "https://cameraobscurafilms.de/"
+      ]
+    },
+    "#3f5147": {
+      "count": 2,
+      "sources": [
+        "https://cameraobscurafilms.de/"
+      ]
+    },
+    "#111827": {
+      "count": 2,
+      "sources": [
+        "https://cameraobscurafilms.de/"
+      ]
+    },
+    "#6b7280": {
+      "count": 2,
+      "sources": [
+        "https://cameraobscurafilms.de/"
+      ]
+    },
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://cameraobscurafilms.de/cdn/shop/t/5/assets/base.css?v=159841507637079171801751205465"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://cameraobscurafilms.de/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://cameraobscurafilms.de/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0000ee": {
+      "count": 2,
+      "sources": [
+        "https://cameraobscurafilms.de/#computed-style-snapshot"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://cameraobscurafilms.de/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://cameraobscurafilms.de/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://cameraobscurafilms.de/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://cameraobscurafilms.de/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://cameraobscurafilms.de/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://cameraobscurafilms.de/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://cameraobscurafilms.de/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://cameraobscurafilms.de/"
+      ]
+    },
+    "#f3f4f6": {
+      "count": 1,
+      "sources": [
+        "https://cameraobscurafilms.de/"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 1,
+      "sources": [
+        "https://cameraobscurafilms.de/"
+      ]
+    },
+    "#1250dc": {
+      "count": 1,
+      "sources": [
+        "https://cameraobscurafilms.de/"
+      ]
+    },
+    "#141414": {
+      "count": 1,
+      "sources": [
+        "https://cameraobscurafilms.de/"
+      ]
+    },
+    "#00000080": {
+      "count": 1,
+      "sources": [
+        "https://cameraobscurafilms.de/cdn/shop/t/5/assets/base.css?v=159841507637079171801751205465"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://cameraobscurafilms.de/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://cameraobscurafilms.de/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://cameraobscurafilms.de/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://cameraobscurafilms.de/"
+    ],
+    "Aleo": [
+      "https://cameraobscurafilms.de/",
+      "https://cameraobscurafilms.de/#computed-style-snapshot"
+    ],
+    "Arial": [
+      "https://cameraobscurafilms.de/#computed-style-snapshot"
+    ],
+    "Inter": [
+      "https://fonts.bunny.net/css?family=Inter:wght@100&family=Poppins&display=swap"
+    ],
+    "Times": [
+      "https://cameraobscurafilms.de/cdn/shop/t/5/assets/component-rating.css?v=179577762467860590411749568984"
+    ],
+    "sans-serif": [
+      "https://cameraobscurafilms.de/"
+    ],
+    "serif": [
+      "https://cameraobscurafilms.de/#computed-style-snapshot"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://cameraobscurafilms.de/",
+      "selector": ":root,\n        .color-scheme-1",
+      "declarations": "--color-background: 22,18,10;\n        \n          --gradient-background: #16120a;\n        \n\n        \n\n        --color-foreground: 234,218,192;\n        --color-background-contrast: 185,157,102;\n        --color-shadow: 218,168,56;\n        --color-button: 218,168,56;\n        --color-button-text: 234,218,192;\n        --color-secondary-button: 22,18,10;\n        --color-secondary-button-text: 218,168,56;\n        --color-link: 218,168,56;\n        --color-badge-foreground: 234,218,192;\n        --color-badge-background: 22,18,10;\n        --color-badge-border: 234,218,192;\n        --payment-terms-background-color: rgb(22 18 10);"
+    },
+    {
+      "source": "https://cameraobscurafilms.de/",
+      "selector": "body, .color-scheme-1, .color-scheme-2, .color-scheme-3, .color-scheme-4, .color-scheme-5, .color-scheme-86d0556a-e4b6-4da9-84d3-b895570d88fc",
+      "declarations": "color: rgba(var(--color-foreground), 0.75);\n        background-color: rgb(var(--color-background));"
+    },
+    {
+      "source": "https://cameraobscurafilms.de/",
+      "selector": "body",
+      "declarations": "display: grid;\n        grid-template-rows: auto auto 1fr auto;\n        grid-template-columns: 100%;\n        min-height: 100%;\n        margin: 0;\n        font-size: 1.5rem;\n        letter-spacing: 0.06rem;\n        line-height: calc(1 + 0.8 / var(--font-body-scale));\n        font-family: var(--font-body-family);\n        font-style: var(--font-body-style);\n        font-weight: var(--font-body-weight);"
+    },
+    {
+      "source": "https://cameraobscurafilms.de/",
+      "selector": "ame-branded > div.purposes-header,\n        #iubenda-iframe.iubenda-iframe-branded > div.iub-cmp-header,\n        #purposes-container > div.purposes-header,\n     ",
+      "declarations": "background-color: #FFFFFF !important;\n            color: #0A0A0A!important;"
+    },
+    {
+      "source": "https://cameraobscurafilms.de/",
+      "selector": ".purposes-header .iub-btn-cp ,\n        #iubenda-iframe.iubenda-iframe-branded .purposes-header .iub-btn-cp:hover,\n        #iubenda-iframe.iubenda-iframe-branded",
+      "declarations": "background-color: #ffffff !important;\n            opacity: 1 !important;"
+    },
+    {
+      "source": "https://cameraobscurafilms.de/",
+      "selector": "#iubenda-iframe.iubenda-iframe-branded .purposes-header .iub-btn-cp:hover,\n        #iubenda-iframe.iubenda-iframe-branded .purposes-header .iub-btn-back:hover",
+      "declarations": "background-color: #0A0A0A!important;\n            color: #FFFFFF!important;"
+    },
+    {
+      "source": "https://cameraobscurafilms.de/",
+      "selector": "#iubenda-cs-banner .iubenda-cs-opt-group button,\n        .iubenda-alert button.iubenda-button-cancel",
+      "declarations": "background-color: #007BBC!important;\n            color: #FFFFFF!important;"
+    },
+    {
+      "source": "https://cameraobscurafilms.de/",
+      "selector": "enda-cs-banner .iubenda-cs-opt-group button.iubenda-cs-accept-btn,\n        #iubenda-cs-banner .iubenda-cs-opt-group button.iubenda-cs-btn-primary,\n        .iube",
+      "declarations": "background-color: #007BBC !important;\n            color: #FFFFFF !important;"
+    },
+    {
+      "source": "https://cameraobscurafilms.de/",
+      "selector": "#iubenda-cs-banner .iubenda-cs-opt-group button.iubenda-cs-reject-btn",
+      "declarations": "background-color: #007BBC!important;\n            color: #FFFFFF!important;"
+    },
+    {
+      "source": "https://cameraobscurafilms.de/",
+      "selector": "#iubenda-cs-banner .iubenda-banner-content button",
+      "declarations": "cursor: pointer !important;\n            color: currentColor !important;\n            text-decoration: underline !important;\n            border: none !important;\n            background-color: transparent !important;\n            font-size: 100% !important;\n            padding: 0 !important;"
+    },
+    {
+      "source": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/base.css?v=159841507637079171801751205465",
+      "selector": ":root",
+      "declarations": "--alpha-button-background: 1;--alpha-button-border: 1;--alpha-link: .85;--alpha-badge-border: .1;--focused-base-outline: .2rem solid rgba(var(--color-foreground), .5);--focused-base-outline-offset: .3rem;--focused-base-box-shadow: 0 0 0 .3rem rgb(var(--color-background)), 0 0 .5rem .4rem rgba(var(--color-foreground), .3)"
+    },
+    {
+      "source": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/base.css?v=159841507637079171801751205465",
+      "selector": ".product-card-wrapper .card,.contains-card--product",
+      "declarations": "--border-radius: var(--product-card-corner-radius);--border-width: var(--product-card-border-width);--border-opacity: var(--product-card-border-opacity);--shadow-horizontal-offset: var(--product-card-shadow-horizontal-offset);--shadow-vertical-offset: var(--product-card-shadow-vertical-offset);--shadow-blur-radius: var(--product-card-shadow-blur-radius);--shadow-opacity: var(--product-card-shadow-opacity);--shadow-visible: var(--product-card-shadow-visible);--image-padding: var(--product-card-image-padding);--text-alignment: var(--product-card-text-alignment)"
+    },
+    {
+      "source": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/base.css?v=159841507637079171801751205465",
+      "selector": ".text-body",
+      "declarations": "font-size:1.5rem;letter-spacing:.06rem;line-height:calc(1 + .8 / var(--font-body-scale));font-family:var(--font-body-family);font-style:var(--font-body-style);font-weight:var(--font-body-weight)"
+    },
+    {
+      "source": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/base.css?v=159841507637079171801751205465",
+      "selector": "h1,h2,h3,h4,h5,.h0,.h1,.h2,.h3,.h4,.h5",
+      "declarations": "font-family:var(--font-heading-family);font-style:var(--font-heading-style);font-weight:var(--font-heading-weight);letter-spacing:calc(var(--font-heading-scale) * .06rem);color:rgb(var(--color-foreground));line-height:calc(1 + .3/max(1,var(--font-heading-scale)));word-break:break-word"
+    },
+    {
+      "source": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/base.css?v=159841507637079171801751205465",
+      "selector": ":root",
+      "declarations": "--duration-short: .1s;--duration-default: .2s;--duration-announcement-bar: .25s;--duration-medium: .3s;--duration-long: .5s;--duration-extra-long: .6s;--duration-extra-longer: .75s;--duration-extended: 3s;--ease-out-slow: cubic-bezier(0, 0, .3, 1);--animation-slide-in: slideIn var(--duration-extra-long) var(--ease-out-slow) forwards;--animation-fade-in: fadeIn var(--duration-extra-long) var(--ease-out-slow)"
+    },
+    {
+      "source": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/base.css?v=159841507637079171801751205465",
+      "selector": ".button--secondary,.button--tertiary",
+      "declarations": "--color-button: var(--color-secondary-button);--color-button-text: var(--color-secondary-button-text)"
+    },
+    {
+      "source": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/base.css?v=159841507637079171801751205465",
+      "selector": ".button--tertiary",
+      "declarations": "--alpha-button-background: 0;--alpha-button-border: .2"
+    },
+    {
+      "source": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/base.css?v=159841507637079171801751205465",
+      "selector": ".button,.shopify-challenge__button,.customer button,button.shopify-payment-button__button--unbranded",
+      "declarations": "--shadow-horizontal-offset: var(--buttons-shadow-horizontal-offset);--shadow-vertical-offset: var(--buttons-shadow-vertical-offset);--shadow-blur-radius: var(--buttons-shadow-blur-radius);--shadow-opacity: var(--buttons-shadow-opacity);--shadow-visible: var(--buttons-shadow-visible);--border-offset: var(--buttons-border-offset);--border-opacity: calc(1 - var(--buttons-border-opacity));border-radius:var(--buttons-radius-outset);position:relative"
+    },
+    {
+      "source": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/base.css?v=159841507637079171801751205465",
+      "selector": ".button,.shopify-challenge__button,.customer button",
+      "declarations": "display:inline-flex;justify-content:center;align-items:center;border:0;padding:0 3rem;cursor:pointer;font:inherit;font-size:1.5rem;text-decoration:none;color:rgb(var(--color-button-text));transition:box-shadow var(--duration-short) ease;-webkit-appearance:none;appearance:none;background-color:rgba(var(--color-button),var(--alpha-button-background))"
+    },
+    {
+      "source": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/base.css?v=159841507637079171801751205465",
+      "selector": ".button:not([disabled]):hover:after,.shopify-challenge__button:hover:after,.customer button:hover:after,.shopify-payment-button__button--unbranded:hover:after",
+      "declarations": "--border-offset: 1.3px;box-shadow:0 0 0 calc(var(--buttons-border-width) + var(--border-offset)) rgba(var(--color-button-text),var(--border-opacity)),0 0 0 calc(var(--buttons-border-width) + 1px) rgba(var(--color-button),var(--alpha-button-background))"
+    },
+    {
+      "source": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/base.css?v=159841507637079171801751205465",
+      "selector": ".button--secondary:after",
+      "declarations": "--border-opacity: var(--buttons-border-opacity)"
+    },
+    {
+      "source": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/base.css?v=159841507637079171801751205465",
+      "selector": ".button::selection,.shopify-challenge__button::selection,.customer button::selection",
+      "declarations": "background-color:rgba(var(--color-button-text),.3)"
+    },
+    {
+      "source": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/base.css?v=159841507637079171801751205465",
+      "selector": ".button.loading",
+      "declarations": "color:transparent;position:relative"
+    },
+    {
+      "source": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/base.css?v=159841507637079171801751205465",
+      "selector": ".button.loading",
+      "declarations": "color:rgb(var(--color-foreground))"
+    },
+    {
+      "source": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/base.css?v=159841507637079171801751205465",
+      "selector": ".share-button__button",
+      "declarations": "font-size:1.4rem;display:flex;align-items:center;color:rgb(var(--color-link));margin-left:0;padding-left:0;min-height:4.4rem"
+    },
+    {
+      "source": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/base.css?v=159841507637079171801751205465",
+      "selector": ".share-button__button,.share-button__fallback button",
+      "declarations": "cursor:pointer;background-color:transparent;border:none"
+    },
+    {
+      "source": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/base.css?v=159841507637079171801751205465",
+      "selector": ".share-button__fallback button:hover",
+      "declarations": "color:rgba(var(--color-foreground),.75)"
+    },
+    {
+      "source": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/base.css?v=159841507637079171801751205465",
+      "selector": ".share-button__close,.share-button__copy",
+      "declarations": "background-color:transparent;color:rgb(var(--color-foreground))"
+    },
+    {
+      "source": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/base.css?v=159841507637079171801751205465",
+      "selector": ".share-button__copy:focus-visible,.share-button__close:focus-visible",
+      "declarations": "background-color:rgb(var(--color-background));z-index:2"
+    },
+    {
+      "source": "https://cameraobscurafilms.de/cdn/shop/t/5/assets/base.css?v=159841507637079171801751205465",
+      "selector": ".share-button__copy:focus,.share-button__close:focus",
+      "declarations": "background-color:rgb(var(--color-background));z-index:2"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "Camera Obscura Filmdistribution | Online-Shop",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "abf3d1eaf4cd780efafd0c8a956d8a37996142eab3513193a9bc26302637e45a"
+    }
+  ],
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cameraobscurafilms.de/",
+        "https://cameraobscurafilms.de/#computed-style-snapshot"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cameraobscurafilms.de/#computed-style-snapshot"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cameraobscurafilms.de/",
+        "https://cameraobscurafilms.de/#computed-style-snapshot"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cameraobscurafilms.de/#computed-style-snapshot"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cameraobscurafilms.de/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cameraobscurafilms.de/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cameraobscurafilms.de/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cameraobscurafilms.de/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cameraobscurafilms.de/#computed-style-snapshot"
+      ]
+    },
+    "colors.on-secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cameraobscurafilms.de/",
+        "https://cameraobscurafilms.de/#computed-style-snapshot"
+      ]
+    },
+    "colors.badge-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cameraobscurafilms.de/",
+        "https://cameraobscurafilms.de/#computed-style-snapshot"
+      ]
+    },
+    "colors.badge-border": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cameraobscurafilms.de/#computed-style-snapshot"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.price-tag": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    }
+  }
+}

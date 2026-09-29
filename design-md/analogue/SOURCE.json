@@ -1,0 +1,678 @@
+{
+  "source_url": "https://analogue.co",
+  "final_url": "https://www.analogue.co/",
+  "captured_at": "2026-09-28T09:08:53.594580+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://analogue.co",
+      "final_url": "https://www.analogue.co/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "9d9911084552d4be3e1ccb780378a46140b3fdd9e9cfb869c223add1b00cc94b",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.analogue.co/_next/static/chunks/219-4h_v0igal.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+      "final_url": "https://www.analogue.co/_next/static/chunks/219-4h_v0igal.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "7176525059f246dc96923b51aad56877a7792fd98157a06614bf5df7f53d613e",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+      "final_url": "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "95536f0de63c5b8c3836caabf77f06c05a2cfb593d841187a9137e0b307e95d5",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 29,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#ffffff": {
+      "count": 15,
+      "sources": [
+        "https://www.analogue.co/",
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 11,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#000000": {
+      "count": 9,
+      "sources": [
+        "https://www.analogue.co/",
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#242424": {
+      "count": 8,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 7,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#686868": {
+      "count": 6,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#d6d6d6": {
+      "count": 6,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#989692": {
+      "count": 6,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#efefef": {
+      "count": 6,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 6,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#94ff88": {
+      "count": 5,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#1d2e21": {
+      "count": 5,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#cfecd0": {
+      "count": 5,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#595959": {
+      "count": 5,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#ffffff0d": {
+      "count": 4,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#494949": {
+      "count": 4,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#1b1b1b": {
+      "count": 4,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#3a3a3a": {
+      "count": 4,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#3d3d3d": {
+      "count": 4,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#4d4d4d": {
+      "count": 4,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#272727": {
+      "count": 4,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#747474": {
+      "count": 4,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 4,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#8aa3bb": {
+      "count": 4,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#26b33d": {
+      "count": 4,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#333333": {
+      "count": 4,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#615fc6": {
+      "count": 4,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#d42422": {
+      "count": 4,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 4,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#f4cd01": {
+      "count": 4,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#c8c8c8": {
+      "count": 4,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#666666": {
+      "count": 4,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#999999": {
+      "count": 4,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#f4cc7f": {
+      "count": 4,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#f7cccb": {
+      "count": 4,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#ffffff1a": {
+      "count": 3,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#0000001a": {
+      "count": 3,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#aeaeae": {
+      "count": 3,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#2c2c2c": {
+      "count": 2,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#808080": {
+      "count": 2,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 2,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#0d0e10": {
+      "count": 2,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#0f0f12": {
+      "count": 2,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#0f1603": {
+      "count": 2,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 2,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#1e293f": {
+      "count": 2,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#1f1f1f": {
+      "count": 2,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#2a2a2a": {
+      "count": 2,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#3e210b": {
+      "count": 2,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#100e10": {
+      "count": 2,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#152a1a": {
+      "count": 2,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#400e0c": {
+      "count": 2,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#030716": {
+      "count": 2,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#094309": {
+      "count": 2,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#101010": {
+      "count": 2,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#131616": {
+      "count": 2,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#141414": {
+      "count": 2,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#151417": {
+      "count": 2,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "#161616": {
+      "count": 2,
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    }
+  },
+  "font_families": {
+    "circularXx": [
+      "https://www.analogue.co/_next/static/chunks/219-4h_v0igal.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+    ],
+    "circularXx Fallback": [
+      "https://www.analogue.co/_next/static/chunks/219-4h_v0igal.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+    ],
+    "neueBit": [
+      "https://www.analogue.co/_next/static/chunks/219-4h_v0igal.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+    ],
+    "neueBit Fallback": [
+      "https://www.analogue.co/_next/static/chunks/219-4h_v0igal.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+    ],
+    "unicaMono": [
+      "https://www.analogue.co/_next/static/chunks/219-4h_v0igal.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+    ],
+    "unicaMono Fallback": [
+      "https://www.analogue.co/_next/static/chunks/219-4h_v0igal.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.analogue.co/",
+      "selector": ":root",
+      "declarations": "--background: #ffffff; --foreground: #000000; --header: transparent; footer: [object Object];"
+    },
+    {
+      "source": "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+      "selector": ":root,:host",
+      "declarations": "--color-red-500:lab(55.4814% 75.0732 48.8528);--color-red-600:lab(48.4493% 77.4328 61.5452);--color-blue-500:lab(54.1736% 13.3369 -74.6839);--color-blue-600:lab(44.0605% 29.0279 -86.0352);--color-blue-800:lab(30.2514% 27.7853 -70.2699);--color-gray-200:lab(91.6229% -.159115 -2.26791);--color-gray-300:lab(85.1236% -.612259 -3.7138);--color-gray-600:lab(35.6337% -1.58697 -10.8425);--color-neutral-300:lab(84.92% 0 -.0000119209)"
+    },
+    {
+      "source": "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+      "selector": "button,input,select,optgroup,textarea",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0"
+    },
+    {
+      "source": "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+      "selector": "::file-selector-button",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0"
+    },
+    {
+      "source": "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+      "selector": "::file-selector-button",
+      "declarations": "border-color:var(--color-gray-200,currentColor)"
+    },
+    {
+      "source": "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+      "selector": ".release-notes-content h1,.release-notes-content h2,.release-notes-content h3,.release-notes-content h4,.release-notes-content h5,.release-notes-content h6",
+      "declarations": "margin-top:var(--spacing-fm16);margin-bottom:var(--spacing-fm4);--tw-leading:1;color:var(--color-black);font-size:clamp(12px,3.75vw,100px);line-height:1"
+    },
+    {
+      "source": "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+      "selector": ".-tracking-heading-h1-m",
+      "declarations": "--tw-tracking:calc(var(--tracking-heading-h1-m) * -1);letter-spacing:calc(var(--tracking-heading-h1-m) * -1)"
+    },
+    {
+      "source": "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+      "selector": ".md\\:-tracking-body-md",
+      "declarations": "--tw-tracking:calc(var(--tracking-body-md) * -1);letter-spacing:calc(var(--tracking-body-md) * -1)"
+    },
+    {
+      "source": "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+      "selector": ":root",
+      "declarations": "--background:#fff;--foreground:#0f0e12;--menuForeground:var(--foreground);--accent-1:#aeaeae;--accent-2:#595959"
+    },
+    {
+      "source": "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV",
+      "selector": "body",
+      "declarations": "color:var(--foreground);background:var(--background);font-family:var(--font-circular), Arial, Helvetica, sans-serif;font-feature-settings:\"ss08\" on;text-rendering:optimizelegibility"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Analogue",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogue.co/",
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogue.co/",
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogue.co/",
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "colors.accent-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "colors.accent-purple": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "colors.accent-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "colors.accent-yellow": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.analogue.co/_next/static/chunks/0ab3o-g0r9-kn.css?dpl=dpl_5ZgBWMQLNqZY9ZY4rNjYkL62PTbV"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-callout": {
+      "status": "inferred"
+    }
+  }
+}

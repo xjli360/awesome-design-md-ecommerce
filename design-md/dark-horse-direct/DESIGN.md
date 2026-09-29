@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Dark Horse Direct
-description: A collectibles storefront that wraps its premium statues, figures, and art prints in a deep plum-and-blue palette — `#54496d` as the signature voltage, a moody violet-gray that appears nowhere else in the top extracted colors and reads as the brand's true identity, with `#006fcf` as a crisp accent for CTAs and links. The canvas is near-black (`#171616`), not white, making every product image glow like a gallery piece against a dark wall. Typography runs Figtree at moderate weights — body copy at 400, buttons and nav at 500–600 — with generous letter-spacing on display sizes that suggests a premium, unhurried reading experience. Cards and buttons use soft corners (`{rounded.sm}` for buttons, `{rounded.md}` for product cards), avoiding the pill shapes of mass-market ecommerce in favor of a more reserved, collectible-shop feel. The top navigation is a dark bar (`#121212`) with white text, and the search icon sits as a simple line icon rather than an orb, reinforcing the brand's quiet confidence. Badges for "Exclusive" or "Pre-Order" appear in `#006fcf` on dark backgrounds, creating a small but insistent pop of blue against the plum-and-charcoal system. The overall effect is of a specialty gallery that happens to sell online — not a toy store, but a serious destination for collectors.
+name: "Dark Horse Direct"
+source_url: "https://www.darkhorsedirect.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A collectibles storefront that wraps its premium statues, figures, and art prints in a deep plum-and-blue palette — `#54496d` as the signature voltage, a moody violet-gray that appears nowhere else in the top extracted colors and reads as the brand's true identity, with `#006fcf` as a crisp accent for CTAs and links. The canvas is near-black (`#171616`), not white, making every product image glow like a gallery piece against a dark wall. Typography runs Figtree at moderate weights — body copy at 400, buttons and nav at 500–600 — with generous letter-spacing on display sizes that suggests a premium, unhurried reading experience. Cards and buttons use soft corners (`{rounded.sm}` for buttons, `{rounded.md}` for product cards), avoiding the pill shapes of mass-market ecommerce in favor of a more reserved, collectible-shop feel. The top navigation is a dark bar (`#121212`) with white text, and the search icon sits as a simple line icon rather than an orb, reinforcing the brand's quiet confidence. Badges for "Exclusive" or "Pre-Order" appear in `#006fcf` on dark backgrounds, creating a small but insistent pop of blue against the plum-and-charcoal system. The overall effect is of a specialty gallery that happens to sell online — not a toy store, but a serious destination for collectors.
 
 colors:
   primary: "#54496d"
@@ -386,6 +390,8 @@ components:
 - Filter controls collapse into a single "Filter" button that opens a modal or dropdown.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components were inferred from common patterns; exact extracted hover colors were not available from the static extraction.
 - Error and success states for forms (validation messages, borders) were not extracted; colors are best guesses based on accessibility standards.

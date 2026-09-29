@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Bubble
-description: Bubble is a skincare brand that speaks to Gen Z with a voice that is equal parts playful and direct, wrapping its formulations in a visual language that feels like a fresh start. The brand's palette is anchored by a vibrant coral-coral-pink, `#f9644b`, which serves as the primary voltage for CTAs, badges, and accent moments, cutting through a clean, near-white canvas (`#f7f7f7`) and a soft, almost imperceptible surface (`#f8f9fa`). This coral is balanced by a deep, almost-black ink (`#231f20`) for body copy and headlines, creating a high-contrast, legible system that feels confident without being aggressive. Supporting tones like `#6c757d` (muted gray) and `#dee2e6` (hairline) provide structure, while a secondary palette of `#007bff` (a crisp blue for links) and `#28a745` (a fresh green for success states) hints at a broader, functional system beneath the playful surface. The typography is a deliberate mix of the familiar and the distinctive: system fonts like `-apple-system`, `Arial`, and `Helvetica Neue` provide a reliable, fast-loading baseline, while custom display faces like `FK-Screamer` and `IC-Grand` (and the serif `Reckless Neue`) are reserved for hero headlines and brand moments, injecting personality and a touch of editorial flair. The design system leans on generous whitespace, soft but defined rounded corners (`{rounded.sm}` for buttons, `{rounded.md}` for cards), and a consistent use of `{spacing.base}` and `{spacing.lg}` to create a layout that feels airy, approachable, and easy to navigate—a digital storefront that prioritizes clarity and a sense of calm efficacy over clinical sterility.
+name: "Bubble"
+source_url: "https://hellobubble.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Bubble is a skincare brand that speaks to Gen Z with a voice that is equal parts playful and direct, wrapping its formulations in a visual language that feels like a fresh start. The brand's palette is anchored by a vibrant coral-coral-pink, `#f9644b`, which serves as the primary voltage for CTAs, badges, and accent moments, cutting through a clean, near-white canvas (`#f7f7f7`) and a soft, almost imperceptible surface (`#f8f9fa`). This coral is balanced by a deep, almost-black ink (`#231f20`) for body copy and headlines, creating a high-contrast, legible system that feels confident without being aggressive. Supporting tones like `#6c757d` (muted gray) and `#dee2e6` (hairline) provide structure, while a secondary palette of `#007bff` (a crisp blue for links) and `#28a745` (a fresh green for success states) hints at a broader, functional system beneath the playful surface. The typography is a deliberate mix of the familiar and the distinctive: system fonts like `-apple-system`, `Arial`, and `Helvetica Neue` provide a reliable, fast-loading baseline, while custom display faces like `FK-Screamer` and `IC-Grand` (and the serif `Reckless Neue`) are reserved for hero headlines and brand moments, injecting personality and a touch of editorial flair. The design system leans on generous whitespace, soft but defined rounded corners (`{rounded.sm}` for buttons, `{rounded.md}` for cards), and a consistent use of `{spacing.base}` and `{spacing.lg}` to create a layout that feels airy, approachable, and easy to navigate—a digital storefront that prioritizes clarity and a sense of calm efficacy over clinical sterility.
 
 colors:
   primary: "#f9644b"
@@ -335,6 +339,8 @@ components:
 - Accordion content is hidden by default on all screen sizes, expanding on header tap.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for many components (e.g., `button-secondary`, `nav-link`, `footer-link`) could not be reliably extracted from the live site's CSS.
 - Error, success, and warning styling for forms (e.g., input validation messages, form-level alerts) is not fully documented.

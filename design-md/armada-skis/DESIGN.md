@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Armada Skis
-description: A high-voltage alpine brand that uses #003399 as its primary signal — a deep, confident blue that reads as cold-mountain air rather than corporate navy — and #da532c as its accent voltage, an orange that lands like a beacon on a storm day. The brand's visual system is built on contrast: the blue carries primary CTAs, navigation bars, and the "THIS IS ARMADA." hero text, while the orange appears in sale badges, limited-edition callouts, and footer accents. The typography leans toward a clean sans-serif with moderate weight (500–600) for display sizes, avoiding the heavy 700+ that ski brands often use to signal aggression — Armada trusts its product photography and athlete imagery to carry the energy. Cards and buttons use {rounded.sm} (8px) corners, a subtle softening that prevents the interface from feeling too sharp, while the hero section uses {rounded.none} for a full-bleed, immersive feel. The canvas is pure white (#ffffff), with surface-soft (#f7f7f7) for alternating product rows and muted (#6a6a6a) for secondary text. The overall mood is clean, direct, and performance-oriented — no decorative flourishes, no ornamental typography, just the product and the mountain.
+name: "Armada Skis"
+source_url: "https://www.armadaskis.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A high-voltage alpine brand that uses #003399 as its primary signal — a deep, confident blue that reads as cold-mountain air rather than corporate navy — and #da532c as its accent voltage, an orange that lands like a beacon on a storm day. The brand's visual system is built on contrast: the blue carries primary CTAs, navigation bars, and the "THIS IS ARMADA." hero text, while the orange appears in sale badges, limited-edition callouts, and footer accents. The typography leans toward a clean sans-serif with moderate weight (500–600) for display sizes, avoiding the heavy 700+ that ski brands often use to signal aggression — Armada trusts its product photography and athlete imagery to carry the energy. Cards and buttons use {rounded.sm} (8px) corners, a subtle softening that prevents the interface from feeling too sharp, while the hero section uses {rounded.none} for a full-bleed, immersive feel. The canvas is pure white (#ffffff), with surface-soft (#f7f7f7) for alternating product rows and muted (#6a6a6a) for secondary text. The overall mood is clean, direct, and performance-oriented — no decorative flourishes, no ornamental typography, just the product and the mountain.
 
 colors:
   primary: "#003399"
@@ -400,6 +404,8 @@ components:
 - Review sections collapse to show only 2 reviews with a "Show More" button below 744px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No font-family declarations could be extracted from the live site; the typography block uses Inter as a reasonable sans-serif default for a performance-oriented brand, but the actual brand font may differ
 - Hover and focus states for many components (text-input, size-selector, category-tab) are inferred from common patterns rather than extracted from the live site

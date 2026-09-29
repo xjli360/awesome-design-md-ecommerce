@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Record Grouch
-description: A record store that wears its red like a badge of honor — #cc3b3b, the primary voltage, appears on buttons, badges, and sale tags against a near-white canvas of #f5f5f5 and #fafafa. The brand leans into a high-contrast, almost punk sensibility: deep ink (#222222) for body text, near-black (#111111, #040404) for headers and heavy structural elements, and a secondary red (#bd0000) for active states and urgent callouts. The palette is deliberately limited — no pastels, no gradients, just raw red, white, and black with a single muted gray (#aaaaaa) for secondary text and disabled states. Poppins, set at modest weights (400–600), provides a geometric, slightly playful counterpoint to the aggressive color scheme; it appears in both uppercase navigation links and body copy, giving the site a zine-like editorial feel. The design system is built around hard edges and clear hierarchy: cards use minimal rounding ({rounded.sm} ~8px), buttons are compact rectangles, and the only pill shape appears on search inputs. This is a store that wants you to find what you're looking for fast — no decorative flourishes, no ambient photography, just product, price, and that insistent red.
+name: "Record Grouch"
+source_url: "https://www.recordgrouch.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A record store that wears its red like a badge of honor — #cc3b3b, the primary voltage, appears on buttons, badges, and sale tags against a near-white canvas of #f5f5f5 and #fafafa. The brand leans into a high-contrast, almost punk sensibility: deep ink (#222222) for body text, near-black (#111111, #040404) for headers and heavy structural elements, and a secondary red (#bd0000) for active states and urgent callouts. The palette is deliberately limited — no pastels, no gradients, just raw red, white, and black with a single muted gray (#aaaaaa) for secondary text and disabled states. Poppins, set at modest weights (400–600), provides a geometric, slightly playful counterpoint to the aggressive color scheme; it appears in both uppercase navigation links and body copy, giving the site a zine-like editorial feel. The design system is built around hard edges and clear hierarchy: cards use minimal rounding ({rounded.sm} ~8px), buttons are compact rectangles, and the only pill shape appears on search inputs. This is a store that wants you to find what you're looking for fast — no decorative flourishes, no ambient photography, just product, price, and that insistent red.
 
 colors:
   primary: "#cc3b3b"
@@ -358,6 +362,8 @@ components:
 - Footer links stack vertically on mobile instead of horizontal rows
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for secondary and tertiary buttons were not reliably extracted from the live site; the active state (#bd0000) is used as a best-guess hover for primary buttons
 - Error styling for form inputs (validation messages, error borders) was not found in the extracted data

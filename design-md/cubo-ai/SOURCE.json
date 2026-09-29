@@ -1,0 +1,735 @@
+{
+  "source_url": "https://getcubo.com",
+  "final_url": "https://us.getcubo.com/",
+  "captured_at": "2026-09-28T09:58:38.065660+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://getcubo.com",
+      "final_url": "https://us.getcubo.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "5bcedf814a836dd0aa52fbe9d05f3ce26aa2437e1b5d1acf65f981f4ba551626",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://us.getcubo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://us.getcubo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://us.getcubo.com/cdn/shop/t/281/assets/font-adobe.css?v=162678086407392559551769071826",
+      "final_url": "https://us.getcubo.com/cdn/shop/t/281/assets/font-adobe.css?v=162678086407392559551769071826",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ed7723db42e3bcb323d815786b01c5999aaa895475ac3b3ce14594cd73dd8d71",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://us.getcubo.com/cdn/shop/t/281/assets/basic.css?v=90149019509631229161769071826",
+      "final_url": "https://us.getcubo.com/cdn/shop/t/281/assets/basic.css?v=90149019509631229161769071826",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "04877f11bb23a935c130bbee220dbd8f52c14756e6f396783e4396d081e528bf",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://us.getcubo.com/cdn/shop/t/281/assets/component-style.css?v=60244143302369771151769071826",
+      "final_url": "https://us.getcubo.com/cdn/shop/t/281/assets/component-style.css?v=60244143302369771151769071826",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4a403476f04bbaa94e5ab9b112c2173ece5e2ff8c32f1d19ca4da6e6bacf3afd",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://us.getcubo.com/cdn/shop/t/281/assets/swiper-bundle.min.css?v=35419378327639449671769071826",
+      "final_url": "https://us.getcubo.com/cdn/shop/t/281/assets/swiper-bundle.min.css?v=35419378327639449671769071826",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6e084f0b746d466913cfd458a1b5d78a1898df9d644444c48782a1e915fc2786",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 38,
+      "sources": [
+        "https://us.getcubo.com/",
+        "https://us.getcubo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://us.getcubo.com/cdn/shop/t/281/assets/basic.css?v=90149019509631229161769071826",
+        "https://us.getcubo.com/cdn/shop/t/281/assets/swiper-bundle.min.css?v=35419378327639449671769071826"
+      ]
+    },
+    "#6d6d6d": {
+      "count": 14,
+      "sources": [
+        "https://us.getcubo.com/",
+        "https://us.getcubo.com/cdn/shop/t/281/assets/basic.css?v=90149019509631229161769071826"
+      ]
+    },
+    "#0000001a": {
+      "count": 7,
+      "sources": [
+        "https://us.getcubo.com/",
+        "https://us.getcubo.com/cdn/shop/t/281/assets/basic.css?v=90149019509631229161769071826"
+      ]
+    },
+    "#24ceb9": {
+      "count": 5,
+      "sources": [
+        "https://us.getcubo.com/",
+        "https://us.getcubo.com/cdn/shop/t/281/assets/component-style.css?v=60244143302369771151769071826"
+      ]
+    },
+    "#000000": {
+      "count": 4,
+      "sources": [
+        "https://us.getcubo.com/",
+        "https://us.getcubo.com/cdn/shop/t/281/assets/swiper-bundle.min.css?v=35419378327639449671769071826"
+      ]
+    },
+    "#9a9a9a": {
+      "count": 4,
+      "sources": [
+        "https://us.getcubo.com/",
+        "https://us.getcubo.com/cdn/shop/t/281/assets/component-style.css?v=60244143302369771151769071826"
+      ]
+    },
+    "#ffe2a3": {
+      "count": 3,
+      "sources": [
+        "https://us.getcubo.com/"
+      ]
+    },
+    "#4b4b4b": {
+      "count": 3,
+      "sources": [
+        "https://us.getcubo.com/"
+      ]
+    },
+    "#e9f4f3": {
+      "count": 2,
+      "sources": [
+        "https://us.getcubo.com/"
+      ]
+    },
+    "#ff8784": {
+      "count": 2,
+      "sources": [
+        "https://us.getcubo.com/"
+      ]
+    },
+    "#4cc3e5": {
+      "count": 2,
+      "sources": [
+        "https://us.getcubo.com/"
+      ]
+    },
+    "#ffb516": {
+      "count": 2,
+      "sources": [
+        "https://us.getcubo.com/"
+      ]
+    },
+    "#24cdb9": {
+      "count": 2,
+      "sources": [
+        "https://us.getcubo.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://us.getcubo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://us.getcubo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#5be3d3": {
+      "count": 1,
+      "sources": [
+        "https://us.getcubo.com/"
+      ]
+    },
+    "#b7f1ea": {
+      "count": 1,
+      "sources": [
+        "https://us.getcubo.com/"
+      ]
+    },
+    "#dcebe9": {
+      "count": 1,
+      "sources": [
+        "https://us.getcubo.com/"
+      ]
+    },
+    "#ffb6b1": {
+      "count": 1,
+      "sources": [
+        "https://us.getcubo.com/"
+      ]
+    },
+    "#ffd1d0": {
+      "count": 1,
+      "sources": [
+        "https://us.getcubo.com/"
+      ]
+    },
+    "#f4e8e8": {
+      "count": 1,
+      "sources": [
+        "https://us.getcubo.com/"
+      ]
+    },
+    "#7ed4ed": {
+      "count": 1,
+      "sources": [
+        "https://us.getcubo.com/"
+      ]
+    },
+    "#afe2f1": {
+      "count": 1,
+      "sources": [
+        "https://us.getcubo.com/"
+      ]
+    },
+    "#ebf5fa": {
+      "count": 1,
+      "sources": [
+        "https://us.getcubo.com/"
+      ]
+    },
+    "#ffcf68": {
+      "count": 1,
+      "sources": [
+        "https://us.getcubo.com/"
+      ]
+    },
+    "#f2efe9": {
+      "count": 1,
+      "sources": [
+        "https://us.getcubo.com/"
+      ]
+    },
+    "#00000075": {
+      "count": 1,
+      "sources": [
+        "https://us.getcubo.com/"
+      ]
+    },
+    "#00000025": {
+      "count": 1,
+      "sources": [
+        "https://us.getcubo.com/"
+      ]
+    },
+    "#78788029": {
+      "count": 1,
+      "sources": [
+        "https://us.getcubo.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 1,
+      "sources": [
+        "https://us.getcubo.com/"
+      ]
+    },
+    "#ebebef": {
+      "count": 1,
+      "sources": [
+        "https://us.getcubo.com/"
+      ]
+    },
+    "#4e5a6b": {
+      "count": 1,
+      "sources": [
+        "https://us.getcubo.com/"
+      ]
+    },
+    "#bbefe9": {
+      "count": 1,
+      "sources": [
+        "https://us.getcubo.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://us.getcubo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://us.getcubo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://us.getcubo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#2196f3": {
+      "count": 1,
+      "sources": [
+        "https://us.getcubo.com/cdn/shop/t/281/assets/basic.css?v=90149019509631229161769071826"
+      ]
+    },
+    "#f4f5f6": {
+      "count": 1,
+      "sources": [
+        "https://us.getcubo.com/cdn/shop/t/281/assets/component-style.css?v=60244143302369771151769071826"
+      ]
+    },
+    "#ebebef99": {
+      "count": 1,
+      "sources": [
+        "https://us.getcubo.com/cdn/shop/t/281/assets/component-style.css?v=60244143302369771151769071826"
+      ]
+    },
+    "#007aff": {
+      "count": 1,
+      "sources": [
+        "https://us.getcubo.com/cdn/shop/t/281/assets/swiper-bundle.min.css?v=35419378327639449671769071826"
+      ]
+    }
+  },
+  "font_families": {
+    "Corbel": [
+      "https://us.getcubo.com/cdn/shop/t/281/assets/basic.css?v=90149019509631229161769071826"
+    ],
+    "Corbel Bold": [
+      "https://us.getcubo.com/cdn/shop/t/281/assets/basic.css?v=90149019509631229161769071826"
+    ],
+    "museo-sans": [
+      "https://us.getcubo.com/cdn/shop/t/281/assets/font-adobe.css?v=162678086407392559551769071826"
+    ],
+    "museo-sans-condensed": [
+      "https://us.getcubo.com/cdn/shop/t/281/assets/font-adobe.css?v=162678086407392559551769071826"
+    ],
+    "museo-sans-display": [
+      "https://us.getcubo.com/cdn/shop/t/281/assets/font-adobe.css?v=162678086407392559551769071826"
+    ],
+    "museo-sans-rounded": [
+      "https://us.getcubo.com/cdn/shop/t/281/assets/font-adobe.css?v=162678086407392559551769071826"
+    ],
+    "sans-serif": [
+      "https://us.getcubo.com/cdn/shop/t/281/assets/font-adobe.css?v=162678086407392559551769071826"
+    ],
+    "swiper-icons": [
+      "https://us.getcubo.com/cdn/shop/t/281/assets/swiper-bundle.min.css?v=35419378327639449671769071826"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://us.getcubo.com/",
+      "selector": ":root",
+      "declarations": "--font-heading-family: 'museo-sans-rounded'\n          , sans-serif\n          , 'Corbel Bold';\n          --font-body-family:  sans-serif\n          , 'Corbel';--primary-color: #24ceb9;\n        --primary-color-700: #5be3d3;\n        --primary-color-300: #b7f1ea;\n        --primary-color-200: #e9f4f3;\n        --primary-color-100: #dcebe9;\n        --secondary-color: #ff8784;\n        --secondary-color-700: #ffb6b1;\n        --secondary-color-300: #ffd1d0;\n        --secondary-color-100: #f4e8e8;\n        --tertiary-color: #e9f4f3;\n        --blue-color: #4cc3e5;\n        --blue-color-700: #7ed4ed;\n        --blue-color-300: #afe2f1;\n        --blue-color-100: #ebf5fa;\n        --warning-color: #ffb516;\n    "
+    },
+    {
+      "source": "https://us.getcubo.com/",
+      "selector": ": white\ngrid-row: 1 / -1\ncolor: white\ngrid-row: 1 / -1\ncolor: white\ngrid-row: 1 / -1\ngrid-row: 1 / -1\ngrid-row: 1 / -1\ngrid-row: 1 / -1\ncolor: white\ngrid-row: 1",
+      "declarations": "width: 100vw;\n      margin: 0 auto;\n      position: absolute;\n      z-index: 25;\n      display: grid;\n      grid-template-rows: 64px max-content;\n      left: 50%;\n      transform: translateX(-50%);\n      \n      background-color: #ffffff;"
+    },
+    {
+      "source": "https://us.getcubo.com/",
+      "selector": ".header-sticky .nav,\n  .header-sticky .nav .nav__link,\n  .header-sticky .nav .nav__link--wording,\n  .header-sticky .nav-cart-main__wording",
+      "declarations": "color: #6d6d6d;"
+    },
+    {
+      "source": "https://us.getcubo.com/",
+      "selector": ".header-sticky .nav__icon--close .caret",
+      "declarations": "color: #6d6d6d;"
+    },
+    {
+      "source": "https://us.getcubo.com/",
+      "selector": ".header-sticky .nav-cart-main__count",
+      "declarations": "background: var(--gray-color);\n    color: white;"
+    },
+    {
+      "source": "https://us.getcubo.com/",
+      "selector": ".header-sticky .nav-cart-main__count--nonempty",
+      "declarations": "background-color: var(--secondary-color);"
+    },
+    {
+      "source": "https://us.getcubo.com/",
+      "selector": ".kv-swiper__button",
+      "declarations": "position: absolute;\n      top: 50%;\n      transform: translate(0%, -50%);\n      z-index: 1;\n      width: 44px;\n      height: 44px;\n      border-radius: 50%;\n      background-color: #bbefe9;\n      transition: background-color .2s;\n      cursor: pointer;\n      display: flex;\n      align-items: center;\n      justify-content: center;"
+    },
+    {
+      "source": "https://us.getcubo.com/",
+      "selector": ".kv-swiper__button:hover",
+      "declarations": "background-color: #24ceb9;"
+    },
+    {
+      "source": "https://us.getcubo.com/",
+      "selector": ".component-feature .badge__button",
+      "declarations": "padding: 13px 20px;\n    border-radius: 50px;\n    display: flex;\n    grid-gap: 12px;\n    align-items: center;\n    font-size: 20px;\n    line-height: 24px;\n    color: var(--white-color);\n    cursor: pointer;\n    background-color: var(--gray-color-300);\n    width: 100%;"
+    },
+    {
+      "source": "https://us.getcubo.com/",
+      "selector": ".component-feature .badge__button--safety.badge__button--active",
+      "declarations": "background-color: var(--secondary-color);"
+    },
+    {
+      "source": "https://us.getcubo.com/",
+      "selector": ".component-feature .badge__button--health.badge__button--active",
+      "declarations": "background-color: var(--blue-color);"
+    },
+    {
+      "source": "https://us.getcubo.com/",
+      "selector": ".component-feature .badge__button--sleep.badge__button--active",
+      "declarations": "background-color: var(--primary-color);"
+    },
+    {
+      "source": "https://us.getcubo.com/",
+      "selector": ".component-feature .badge__button--memories.badge__button--active",
+      "declarations": "background-color: var(--warning-color);"
+    },
+    {
+      "source": "https://us.getcubo.com/",
+      "selector": ".index-product__subtitle",
+      "declarations": "grid-column: 5 / span 4;\n    color: var(--gray-color-500);\n    text-align: center;\n    margin-bottom: 16px;"
+    },
+    {
+      "source": "https://us.getcubo.com/",
+      "selector": "font-size: 14px;\n\n  .global-popup .popup-button",
+      "declarations": "width: 48px;\n    height: 48px;\n    cursor: pointer;\n    bottom: 20px;\n    right: 20px;\n    padding: 12px;\n    background-color: #ffb516;\n    border-radius: 50px;\n    position: fixed;\n    overflow: hidden;\n    z-index: 5;"
+    },
+    {
+      "source": "https://us.getcubo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://us.getcubo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://us.getcubo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://us.getcubo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://us.getcubo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://us.getcubo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://us.getcubo.com/cdn/shop/t/281/assets/basic.css?v=90149019509631229161769071826",
+      "selector": "body",
+      "declarations": "box-sizing:border-box;font-family:var(--font-body-family);color:var(--gray-color);position:relative;overflow-x:hidden"
+    },
+    {
+      "source": "https://us.getcubo.com/cdn/shop/t/281/assets/basic.css?v=90149019509631229161769071826",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "font-family:var(--font-heading-family);transition:all .2s"
+    },
+    {
+      "source": "https://us.getcubo.com/cdn/shop/t/281/assets/basic.css?v=90149019509631229161769071826",
+      "selector": "button,.button",
+      "declarations": "border:none;border-radius:50px;font-weight:500;width:max-content;cursor:pointer;font-family:var(--font-heading-family);transition:all .2s;display:flex;align-items:center;grid-gap:10px;justify-content:center"
+    },
+    {
+      "source": "https://us.getcubo.com/cdn/shop/t/281/assets/basic.css?v=90149019509631229161769071826",
+      "selector": ".button-primary",
+      "declarations": "background-color:var(--primary-color-700);color:var(--gray-color)"
+    },
+    {
+      "source": "https://us.getcubo.com/cdn/shop/t/281/assets/basic.css?v=90149019509631229161769071826",
+      "selector": ".button-primary:hover",
+      "declarations": "background-color:var(--primary-color)"
+    },
+    {
+      "source": "https://us.getcubo.com/cdn/shop/t/281/assets/basic.css?v=90149019509631229161769071826",
+      "selector": ".button-primary:disabled",
+      "declarations": "background-color:var(--gray-color-300);color:var(--gray-color-500)"
+    },
+    {
+      "source": "https://us.getcubo.com/cdn/shop/t/281/assets/basic.css?v=90149019509631229161769071826",
+      "selector": ".button-primary.disabled",
+      "declarations": "background-color:var(--gray-color-300);color:var(--gray-color-500)"
+    },
+    {
+      "source": "https://us.getcubo.com/cdn/shop/t/281/assets/basic.css?v=90149019509631229161769071826",
+      "selector": ".button-secondary",
+      "declarations": "background-color:var(--gray-color-100);color:var(--gray-color)"
+    },
+    {
+      "source": "https://us.getcubo.com/cdn/shop/t/281/assets/basic.css?v=90149019509631229161769071826",
+      "selector": ".button-secondary:hover",
+      "declarations": "background-color:var(--gray-color-300)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "CuboAi | Proactive AI for Baby's Sleep, Safety, Health, and Memories\n\n        – CuboAi",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.getcubo.com/",
+        "https://us.getcubo.com/cdn/shop/t/281/assets/component-style.css?v=60244143302369771151769071826"
+      ]
+    },
+    "colors.primary-pale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.getcubo.com/"
+      ]
+    },
+    "colors.primary-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.getcubo.com/"
+      ]
+    },
+    "colors.secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.getcubo.com/"
+      ]
+    },
+    "colors.secondary-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.getcubo.com/"
+      ]
+    },
+    "colors.blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.getcubo.com/"
+      ]
+    },
+    "colors.blue-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.getcubo.com/"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.getcubo.com/"
+      ]
+    },
+    "colors.cta": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.getcubo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.cta-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.getcubo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.getcubo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.getcubo.com/",
+        "https://us.getcubo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://us.getcubo.com/cdn/shop/t/281/assets/basic.css?v=90149019509631229161769071826",
+        "https://us.getcubo.com/cdn/shop/t/281/assets/swiper-bundle.min.css?v=35419378327639449671769071826"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.getcubo.com/",
+        "https://us.getcubo.com/cdn/shop/t/281/assets/basic.css?v=90149019509631229161769071826"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.getcubo.com/",
+        "https://us.getcubo.com/cdn/shop/t/281/assets/component-style.css?v=60244143302369771151769071826"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.getcubo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.getcubo.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.getcubo.com/cdn/shop/t/281/assets/component-style.css?v=60244143302369771151769071826"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://us.getcubo.com/",
+        "https://us.getcubo.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://us.getcubo.com/cdn/shop/t/281/assets/basic.css?v=90149019509631229161769071826",
+        "https://us.getcubo.com/cdn/shop/t/281/assets/swiper-bundle.min.css?v=35419378327639449671769071826"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.feature-tab": {
+      "status": "inferred"
+    },
+    "components.floating-action-button": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    }
+  }
+}

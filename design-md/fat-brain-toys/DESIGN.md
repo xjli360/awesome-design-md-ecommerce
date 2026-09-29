@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Fat Brain Toys
-description: A bright, curious educational toy store where #ffdb4a — a warm marigold — is the primary voltage, appearing in badges, sale callouts, and accent elements against a canvas of #ffffff and soft grays like #f5f5f5 and #f7f7f7. The brand uses Exo 2 and Quicksand (both found on the live site) for a geometric, friendly, slightly technical feel that matches the "brain" in the name — clean sans-serif letterforms with subtle rounded terminals. Product cards sit on white with #eeeeee hairlines and use #27a8e0 (a bright cyan) as a secondary accent for interactive elements like "Add to Cart" buttons and category links. The palette is unusually broad for a toy brand: alongside the expected primary and secondary, there are distinct semantic colors (#3c763d for success, #a94442 for errors, #8a6d3b for warnings) suggesting a mature e-commerce system with clear feedback states. Navigation uses a dark bar at #404041 with white text, while the search bar and utility icons float on white. The overall mood is energetic but not chaotic — the marigold and cyan provide pops of color against an otherwise restrained gray-and-white system, letting the toys themselves (and their bright product photography) be the real visual heroes. Rounded corners are moderate ({rounded.sm}–{rounded.md}), avoiding the extreme pill shapes of lifestyle brands in favor of a more structured, trustworthy feel.
+name: "Fat Brain Toys"
+source_url: "https://www.fatbraintoys.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A bright, curious educational toy store where #ffdb4a — a warm marigold — is the primary voltage, appearing in badges, sale callouts, and accent elements against a canvas of #ffffff and soft grays like #f5f5f5 and #f7f7f7. The brand uses Exo 2 and Quicksand (both found on the live site) for a geometric, friendly, slightly technical feel that matches the "brain" in the name — clean sans-serif letterforms with subtle rounded terminals. Product cards sit on white with #eeeeee hairlines and use #27a8e0 (a bright cyan) as a secondary accent for interactive elements like "Add to Cart" buttons and category links. The palette is unusually broad for a toy brand: alongside the expected primary and secondary, there are distinct semantic colors (#3c763d for success, #a94442 for errors, #8a6d3b for warnings) suggesting a mature e-commerce system with clear feedback states. Navigation uses a dark bar at #404041 with white text, while the search bar and utility icons float on white. The overall mood is energetic but not chaotic — the marigold and cyan provide pops of color against an otherwise restrained gray-and-white system, letting the toys themselves (and their bright product photography) be the real visual heroes. Rounded corners are moderate ({rounded.sm}–{rounded.md}), avoiding the extreme pill shapes of lifestyle brands in favor of a more structured, trustworthy feel.
 
 colors:
   primary: "#ffdb4a"
@@ -363,6 +367,8 @@ components:
 - Category chip strips collapse from horizontal wrap to horizontal scroll with fade indicators on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Extracted hex colors are heavily weighted toward Bootstrap framework defaults (alert colors, button blues, grays) — the brand's true palette may include more distinctive hues not captured in the extraction. The marigold (#ffdb4a) and cyan (#27a8e0) are the most distinctive signals.
 - Font weights beyond what's declared in extracted CSS are inferred — Exo 2 and Quicksand are confirmed on the live site, but exact weight usage (e.g., 300 vs 400 for body, 600 vs 700 for headings) may vary.

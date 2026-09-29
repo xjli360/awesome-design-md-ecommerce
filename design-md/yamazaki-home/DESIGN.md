@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Yamazaki Home
-description: A Japanese-inspired home organization brand that speaks in quiet, considered tones — its palette is anchored by a range of sophisticated neutrals that never shout. The primary action color is a restrained steel blue (#1990c6), a hue that feels more like a thoughtful accent than a demand for attention, with an active state that deepens to (#136f99). Against a canvas of warm white (#f5f5f5) and soft surfaces (#e0e0e0, #dedede), the brand builds hierarchy through subtle shifts in value rather than aggressive contrast. Ink (#2b2b2b) and body (#4d4e55) text sit comfortably on cards and containers, while muted tones (#999999, #9e9e9e, #767676) handle secondary information with the same quiet confidence. The brand introduces two signature accent colors: a fresh mint (#16c793) for positive indicators and eco-friendly badges, paired with a soft green surface (#dff3e7), and a restrained red (#c33b31) for sale markers or limited-time badges. Hairlines use (#dedede) and (#e5e5e5) — soft, forgiving lines that organize without creating visual noise. Typography leans on Bio Sans and Brutal, two geometric sans-serifs with humanist warmth, set at moderate weights (400–600) and generous line heights that echo the brand's philosophy of breathing room. Corners are softly rounded (`{rounded.sm}` 8px for buttons, `{rounded.md}` 12px for cards), never pill-shaped — a deliberate restraint that keeps the system feeling architectural rather than playful. The overall effect is one of calm curation: a design system that trusts its products' clean lines and the user's need for order, and never feels the need to raise its voice.
+name: "Yamazaki Home"
+source_url: "https://theyamazakihome.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A Japanese-inspired home organization brand that speaks in quiet, considered tones — its palette is anchored by a range of sophisticated neutrals that never shout. The primary action color is a restrained steel blue (#1990c6), a hue that feels more like a thoughtful accent than a demand for attention, with an active state that deepens to (#136f99). Against a canvas of warm white (#f5f5f5) and soft surfaces (#e0e0e0, #dedede), the brand builds hierarchy through subtle shifts in value rather than aggressive contrast. Ink (#2b2b2b) and body (#4d4e55) text sit comfortably on cards and containers, while muted tones (#999999, #9e9e9e, #767676) handle secondary information with the same quiet confidence. The brand introduces two signature accent colors: a fresh mint (#16c793) for positive indicators and eco-friendly badges, paired with a soft green surface (#dff3e7), and a restrained red (#c33b31) for sale markers or limited-time badges. Hairlines use (#dedede) and (#e5e5e5) — soft, forgiving lines that organize without creating visual noise. Typography leans on Bio Sans and Brutal, two geometric sans-serifs with humanist warmth, set at moderate weights (400–600) and generous line heights that echo the brand's philosophy of breathing room. Corners are softly rounded (`{rounded.sm}` 8px for buttons, `{rounded.md}` 12px for cards), never pill-shaped — a deliberate restraint that keeps the system feeling architectural rather than playful. The overall effect is one of calm curation: a design system that trusts its products' clean lines and the user's need for order, and never feels the need to raise its voice.
 
 colors:
   primary: "#1990c6"
@@ -397,6 +401,8 @@ components:
 - Accordion-style sections (product details, shipping info) remain collapsed by default on all breakpoints, expanding on user interaction.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for tertiary buttons and text links were not reliably extracted — assumed underline or opacity shift based on common patterns.
 - Error state styling for form inputs (iconography, helper text color, animation) was inferred from the red accent color but not confirmed from live site inspection.

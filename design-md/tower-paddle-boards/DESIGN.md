@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Tower Paddle Boards
-description: A sun-bleached watersports brand where #108474 — a deep teal that reads like tropical water over seagrass — anchors a palette that otherwise feels like a beach parking lot: #eeeeee concrete, #fafafa sand, #dadada weathered boardwalk. The brand's second voltage is #d93240, a coral-red that snaps against the teal on sale badges and add-to-cart buttons, while #fbcd0a mustard-yellow surfaces in promotional banners like a rental-stand warning flag. #557b97, the meta theme-color, drifts in as a muted sky-blue that tints the browser chrome itself. Typography runs Nunito Sans at modest weights — 300 for body copy that breathes, 600–700 for headlines that don't shout — set against a canvas of #f9fafb that keeps product photography (SUP boards on flat water, inflatable hulls in desert light) from competing with chrome. Cards use {rounded.sm} corners that suggest molded plastic rather than premium chamfering; the primary CTA button sits at {rounded.sm} with {spacing.lg} horizontal padding, a shape that reads as "grab and go" rather than "consider and purchase". The brand's signature move is the price-drop badge: a {rounded.full} pill in #d93240 with white text, floating on product images like a markdown sticker on a warehouse rack. There is no dark mode, no luxury gesture — this is a direct-to-consumer board shop that trusts value messaging, customer reviews, and the visual promise of water over design theater.
+name: "Tower Paddle Boards"
+source_url: "https://www.towerpaddleboards.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A sun-bleached watersports brand where #108474 — a deep teal that reads like tropical water over seagrass — anchors a palette that otherwise feels like a beach parking lot: #eeeeee concrete, #fafafa sand, #dadada weathered boardwalk. The brand's second voltage is #d93240, a coral-red that snaps against the teal on sale badges and add-to-cart buttons, while #fbcd0a mustard-yellow surfaces in promotional banners like a rental-stand warning flag. #557b97, the meta theme-color, drifts in as a muted sky-blue that tints the browser chrome itself. Typography runs Nunito Sans at modest weights — 300 for body copy that breathes, 600–700 for headlines that don't shout — set against a canvas of #f9fafb that keeps product photography (SUP boards on flat water, inflatable hulls in desert light) from competing with chrome. Cards use {rounded.sm} corners that suggest molded plastic rather than premium chamfering; the primary CTA button sits at {rounded.sm} with {spacing.lg} horizontal padding, a shape that reads as "grab and go" rather than "consider and purchase". The brand's signature move is the price-drop badge: a {rounded.full} pill in #d93240 with white text, floating on product images like a markdown sticker on a warehouse rack. There is no dark mode, no luxury gesture — this is a direct-to-consumer board shop that trusts value messaging, customer reviews, and the visual promise of water over design theater.
 
 colors:
   primary: "#108474"
@@ -513,6 +517,8 @@ components:
 - Product card badges remain visible at all breakpoints but scale down slightly on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for most components (buttons, cards, links) are inferred from common patterns — exact opacity values, shadow depths, and transition durations were not extractable from the static CSS
 - Error states for forms (validation messages, error icons) are not documented — the extracted palette includes no dedicated error colors beyond the accent-red used for sale badges

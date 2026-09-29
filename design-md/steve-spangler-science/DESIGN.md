@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Steve Spangler Science
-description: A #ff7700 voltage — the color of a chemical reaction about to happen, of a boiling flask catching the lab light — that powers every primary CTA, add-to-cart button, and category badge across a #f3f2f7 canvas. The brand lives in the gap between classroom demonstration and kitchen-table experiment, and its design language mirrors that: a #282f37 ink that reads as serious enough for a science textbook, but a #4592fe accent that feels like the surprise of a color-change reaction. Product cards sit on a #ffffff surface with soft {rounded.md} corners, each one promising a "wow" moment — the Mentos geyser, the Insta-Snow powder, the Soda Geyser tube. The extracted palette runs wide (over 30 hex values), many of them WordPress default swatches and social-icon blues, but the true brand signature is that #ff7700 orange — neither playful peach nor corporate rust, but the exact shade of a safety cone or a reaction that says "stand back and watch." Type is set in system monospace and serif stacks (Andale Mono, Courier, Baskerville) that evoke lab notebooks and printed instructions, not a sleek brand manual. The site feels like a workshop: dense with product, badges, and "NEW!" flags, held together by a consistent orange thread and generous white space that lets the science — not the chrome — take center stage.
+name: "Steve Spangler Science"
+source_url: "https://www.stevespanglerscience.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A #ff7700 voltage — the color of a chemical reaction about to happen, of a boiling flask catching the lab light — that powers every primary CTA, add-to-cart button, and category badge across a #f3f2f7 canvas. The brand lives in the gap between classroom demonstration and kitchen-table experiment, and its design language mirrors that: a #282f37 ink that reads as serious enough for a science textbook, but a #4592fe accent that feels like the surprise of a color-change reaction. Product cards sit on a #ffffff surface with soft {rounded.md} corners, each one promising a "wow" moment — the Mentos geyser, the Insta-Snow powder, the Soda Geyser tube. The extracted palette runs wide (over 30 hex values), many of them WordPress default swatches and social-icon blues, but the true brand signature is that #ff7700 orange — neither playful peach nor corporate rust, but the exact shade of a safety cone or a reaction that says "stand back and watch." Type is set in system monospace and serif stacks (Andale Mono, Courier, Baskerville) that evoke lab notebooks and printed instructions, not a sleek brand manual. The site feels like a workshop: dense with product, badges, and "NEW!" flags, held together by a consistent orange thread and generous white space that lets the science — not the chrome — take center stage.
 
 colors:
   primary: "#ff7700"
@@ -352,6 +356,8 @@ components:
 - Accordion-style content sections replace side-by-side layouts below 744px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Extracted hex list is dominated by WordPress default swatches (the `#abb8c3`, `#f78da7`, `#cf2e2e`, `#ff6900`, `#fcb900`, `#7bdcb5`, `#00d084`, `#8ed1fc`, `#0693e3`, `#9b51e0`, `#b02b2c`, `#edae44`, `#eeee22`, `#83a846`, `#7bb0e7` are all WordPress 5.8+ core palette colors) — the true brand palette is likely smaller, with `#ff7700` as the primary anchor
 - No meta theme-color was extracted — the brand may not have set one, or it may be set dynamically

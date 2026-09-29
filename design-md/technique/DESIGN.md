@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Technique
-description: A Japanese independent record store brand that uses a dense, saturated palette of primary colors — #19448e, #e60033, #007b43 — as if each album genre gets its own visual key, with #f3fafe as a cool, airy canvas that keeps the high-chroma accents from overwhelming. The brand name itself, rendered in both Latin and Japanese script, suggests a focus on craft and method rather than just product. The extracted hex list reads like a full Pantone swatch deck — #e95295, #884898, #55295b, #1e50a2, #0095d9, #2ca9e1, #00a3af, #3eb370, #8bc34a, #c3d825, #ffd900, #f39800, #ea5506, #954e2a — suggesting a system where color is used categorically, perhaps to tag genres, labels, or staff picks. The typography stack mixes Japanese gothic fonts (Hiragino Kaku Gothic ProN, Hiragino Sans, Kosugi, M PLUS 1p, M PLUS Rounded 1c) with Western display faces (Aharoni, Arial Black, Impact), hinting at a bilingual layout that needs both readability and visual punch. The presence of Font Awesome suggests icon-driven navigation. The brand likely uses {rounded.sm} for buttons and {rounded.md} for cards, with {rounded.full} reserved for search or filter pills. The overall impression is of a digital storefront that respects the physicality of records — color as genre-coding, type as hierarchy, and whitespace as breathing room for album art.
+name: "Technique"
+source_url: "https://www.technique.co.jp"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A Japanese independent record store brand that uses a dense, saturated palette of primary colors — #19448e, #e60033, #007b43 — as if each album genre gets its own visual key, with #f3fafe as a cool, airy canvas that keeps the high-chroma accents from overwhelming. The brand name itself, rendered in both Latin and Japanese script, suggests a focus on craft and method rather than just product. The extracted hex list reads like a full Pantone swatch deck — #e95295, #884898, #55295b, #1e50a2, #0095d9, #2ca9e1, #00a3af, #3eb370, #8bc34a, #c3d825, #ffd900, #f39800, #ea5506, #954e2a — suggesting a system where color is used categorically, perhaps to tag genres, labels, or staff picks. The typography stack mixes Japanese gothic fonts (Hiragino Kaku Gothic ProN, Hiragino Sans, Kosugi, M PLUS 1p, M PLUS Rounded 1c) with Western display faces (Aharoni, Arial Black, Impact), hinting at a bilingual layout that needs both readability and visual punch. The presence of Font Awesome suggests icon-driven navigation. The brand likely uses {rounded.sm} for buttons and {rounded.md} for cards, with {rounded.full} reserved for search or filter pills. The overall impression is of a digital storefront that respects the physicality of records — color as genre-coding, type as hierarchy, and whitespace as breathing room for album art.
 
 colors:
   primary: "#19448e"
@@ -463,6 +467,8 @@ components:
 - Hero: On mobile, hero may reduce to a single image with text overlay. On desktop, it may include multiple images or a video background.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states**: Only inferred for product cards (box shadow) and buttons (background darken). Actual hover transitions (duration, easing) not extracted.
 - **Error states**: No form validation styling could be extracted. Error text color, border color, and iconography are unknown.

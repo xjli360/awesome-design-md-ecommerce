@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Beast Health
-description: >-
+name: "Beast Health"
+source_url: "https://thebeast.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Searing orange (#ff5601) detonates against a charred-black viewport (#121212)—the entire first screen is a single blender, matte-black housing fading into darkness, with only the CTA and the speed-ring graphic carrying that orange voltage. Beast Health treats its homepage like a product shoot with scroll-triggered reveals rather than a Shopify collection page, and the restraint works: warm stone tones (#cdc3b5, #c9c5bf) and cream panels (#f8f3ec, #f0eee3) surface only when the site shifts from desire to information—specs, nutritional breakdowns, recipe carousels. Typography pairs Sofia Pro at weight 700 for display headings with DM Sans for body and UI copy, a geometric sans that stays legible at 14–16px against both the dark hero grounds and the lighter content sections. Buttons refuse to round off: `{rounded.xs}` at 4px keeps every CTA squared and machined, mirroring the blender's own chamfered housing lines rather than the soft pills that most wellness-adjacent DTC brands reach for. A secondary gold (#ffd45d) appears on star ratings and limited-run callouts, adding analog warmth to the otherwise industrial palette without competing with the primary orange. The nav runs dark (#121212) with minimal links—three or four at most—and a single cart icon, collapsing to a full-screen overlay on mobile rather than a slide-out drawer. Product cards land on warm cream (`{colors.surface-card}`) with `{rounded.sm}` corners, stacking a square product image above a tight cluster of name, single descriptor line, and price in `{typography.price-display}`. A dark teal (#364748) anchors the footer, providing a cooler counterweight to the warm neutrals above. The overall grid caps at 1440px with generous `{spacing.section}` vertical rhythm, and the site trusts full-bleed photography and inline video loops over illustration, letting the physical product's sculptural form carry visual interest across every breakpoint.
 
 colors:
@@ -381,6 +384,8 @@ components:
 - Feature callout blocks shift from side-by-side to stacked layout, with the image appearing above the text block at full width
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No meta theme-color was detected; the dark nav (#121212) is assumed but not confirmed as the intended browser chrome color
 - Exact font weights for Sofia Pro could not be verified from static extraction — weights 600 and 700 are inferred from typical DTC heading usage and may differ from the live theme's CSS custom properties

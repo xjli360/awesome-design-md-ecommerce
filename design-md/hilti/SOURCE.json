@@ -1,0 +1,703 @@
+{
+  "source_url": "https://hilti.com",
+  "final_url": "https://www.hilti.com/",
+  "captured_at": "2026-09-28T09:55:14.999425+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://hilti.com",
+      "final_url": "https://www.hilti.com/",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "sha256": "8c3a45daa48d6ec6a6f9f774984088b8bb3a77ff1f6c0bedc587d51d22e02ac3",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.hilti.com/static/ui/assets/fonts/fonts.css",
+      "final_url": "https://www.hilti.com/static/ui/assets/fonts/fonts.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "38e375241e598ba673c92d2b19818946ec94578abd417a8e2505620e5f7b24db",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css",
+      "final_url": "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1ca17f186bdd4fed2c5d3b51558af400ef4acf6bfa2b902fc6d68e2e5c3dacfa",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 143,
+      "sources": [
+        "https://www.hilti.com/",
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "#d2051e": {
+      "count": 79,
+      "sources": [
+        "https://www.hilti.com/",
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "#bab9ba": {
+      "count": 55,
+      "sources": [
+        "https://www.hilti.com/",
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "#000000": {
+      "count": 55,
+      "sources": [
+        "https://www.hilti.com/",
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "#524f53": {
+      "count": 51,
+      "sources": [
+        "https://www.hilti.com/",
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "#7d7565": {
+      "count": 44,
+      "sources": [
+        "https://www.hilti.com/",
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "#cbc8c1": {
+      "count": 39,
+      "sources": [
+        "https://www.hilti.com/",
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "#47122a": {
+      "count": 29,
+      "sources": [
+        "https://www.hilti.com/",
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "#ab0115": {
+      "count": 26,
+      "sources": [
+        "https://www.hilti.com/",
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "#671a3d": {
+      "count": 26,
+      "sources": [
+        "https://www.hilti.com/",
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "#f2f1ef": {
+      "count": 22,
+      "sources": [
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "#f8f8f7": {
+      "count": 20,
+      "sources": [
+        "https://www.hilti.com/",
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "#920314": {
+      "count": 18,
+      "sources": [
+        "https://www.hilti.com/",
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "#ededed": {
+      "count": 17,
+      "sources": [
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "#19af37": {
+      "count": 16,
+      "sources": [
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "#ffaf00": {
+      "count": 16,
+      "sources": [
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "#4292ed": {
+      "count": 15,
+      "sources": [
+        "https://www.hilti.com/",
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "#00000026": {
+      "count": 13,
+      "sources": [
+        "https://www.hilti.com/",
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "#6c757d": {
+      "count": 2,
+      "sources": [
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "#fbfaf8": {
+      "count": 2,
+      "sources": [
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "#f3f0eb": {
+      "count": 2,
+      "sources": [
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "#e7e2d6": {
+      "count": 2,
+      "sources": [
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "#d7cebd": {
+      "count": 2,
+      "sources": [
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "#00000055": {
+      "count": 2,
+      "sources": [
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "#ffffff00": {
+      "count": 2,
+      "sources": [
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "#bd051c": {
+      "count": 1,
+      "sources": [
+        "https://www.hilti.com/"
+      ]
+    },
+    "#999999": {
+      "count": 1,
+      "sources": [
+        "https://www.hilti.com/"
+      ]
+    },
+    "#00000080": {
+      "count": 1,
+      "sources": [
+        "https://www.hilti.com/"
+      ]
+    },
+    "#524f5340": {
+      "count": 1,
+      "sources": [
+        "https://www.hilti.com/"
+      ]
+    },
+    "#ffffff40": {
+      "count": 1,
+      "sources": [
+        "https://www.hilti.com/"
+      ]
+    },
+    "#d2051e00": {
+      "count": 1,
+      "sources": [
+        "https://www.hilti.com/"
+      ]
+    },
+    "#e9ecef": {
+      "count": 1,
+      "sources": [
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "#f8f9fa": {
+      "count": 1,
+      "sources": [
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "#d63384": {
+      "count": 1,
+      "sources": [
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
+      "sources": [
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "#cbc8c11a": {
+      "count": 1,
+      "sources": [
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "#7d75650d": {
+      "count": 1,
+      "sources": [
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "#7d756500": {
+      "count": 1,
+      "sources": [
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+    ],
+    "Helvetica": [
+      "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+    ],
+    "Hilti": [
+      "https://www.hilti.com/static/ui/assets/fonts/fonts.css",
+      "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+    ],
+    "Hilti Bold": [
+      "https://www.hilti.com/static/ui/assets/fonts/fonts.css"
+    ],
+    "Hilti Roman": [
+      "https://www.hilti.com/static/ui/assets/fonts/fonts.css"
+    ],
+    "sans-serif": [
+      "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.hilti.com/",
+      "selector": "[_nghost-hdms-website-c2210058174], [_nghost-hdms-website-c2210058174]   .btn[_ngcontent-hdms-website-c2210058174]",
+      "declarations": "color:#fff!important"
+    },
+    {
+      "source": "https://www.hilti.com/",
+      "selector": "hdms-website-c1582484606]   .svg-icon[_ngcontent-hdms-website-c1582484606], .info-box-close-btn.btn-tertiary-minor   [_nghost-hdms-website-c1582484606]   .svg-i",
+      "declarations": "--svg-icon-color: #524f53 !important"
+    },
+    {
+      "source": "https://www.hilti.com/",
+      "selector": "ebsite-c1582484606]   .svg-icon[_ngcontent-hdms-website-c1582484606], .info-box-close-btn.btn-tertiary-minor:hover   [_nghost-hdms-website-c1582484606]   .svg-i",
+      "declarations": "--svg-icon-color: #ab0115 !important"
+    },
+    {
+      "source": "https://www.hilti.com/",
+      "selector": "nghost-hdms-website-c1582484606]   .svg-icon[_ngcontent-hdms-website-c1582484606], .btn-tertiary-trivial-text-bold   [_nghost-hdms-website-c1582484606]   .svg-i",
+      "declarations": "--svg-icon-color: #d2051e"
+    },
+    {
+      "source": "https://www.hilti.com/",
+      "selector": "ms-website-c1582484606]   .svg-icon[_ngcontent-hdms-website-c1582484606], .btn-tertiary-trivial-text-bold.selected   [_nghost-hdms-website-c1582484606]   .svg-i",
+      "declarations": "--svg-icon-color: #d2051e"
+    },
+    {
+      "source": "https://www.hilti.com/",
+      "selector": "-hdms-website-c1582484606]   .svg-icon[_ngcontent-hdms-website-c1582484606], .btn-tertiary-trivial-text-bold:focus   [_nghost-hdms-website-c1582484606]   .svg-i",
+      "declarations": "--svg-icon-color: #ab0115"
+    },
+    {
+      "source": "https://www.hilti.com/",
+      "selector": "ms-website-c1582484606]   .svg-icon[_ngcontent-hdms-website-c1582484606], .btn-tertiary-trivial-text-bold:disabled   [_nghost-hdms-website-c1582484606]   .svg-i",
+      "declarations": "--svg-icon-color: #bab9ba"
+    },
+    {
+      "source": "https://www.hilti.com/",
+      "selector": "vg-icon[_ngcontent-hdms-website-c1582484606], .btn-tertiary-trivial-text-bold:not(:disabled):not(.disabled).active   [_nghost-hdms-website-c1582484606]   .svg-i",
+      "declarations": "--svg-icon-color: #920314"
+    },
+    {
+      "source": "https://www.hilti.com/",
+      "selector": ".btn-tertiary-major[_nghost-hdms-website-c1582484606], .btn-tertiary-major   [_nghost-hdms-website-c1582484606]",
+      "declarations": "background-color:#d2051e;border-color:#d2051e"
+    },
+    {
+      "source": "https://www.hilti.com/",
+      "selector": "iary-major[_nghost-hdms-website-c1582484606]   .svg-icon[_ngcontent-hdms-website-c1582484606], .btn-tertiary-major   [_nghost-hdms-website-c1582484606]   .svg-i",
+      "declarations": "--svg-icon-color: #fff"
+    },
+    {
+      "source": "https://www.hilti.com/",
+      "selector": ".btn-tertiary-major.selected[_nghost-hdms-website-c1582484606], .btn-tertiary-major.selected   [_nghost-hdms-website-c1582484606]",
+      "declarations": "background-color:#d2051e;border-color:#d2051e"
+    },
+    {
+      "source": "https://www.hilti.com/",
+      "selector": "1582484606], .btn-tertiary-major:hover   [_nghost-hdms-website-c1582484606], .btn-tertiary-major:focus[_nghost-hdms-website-c1582484606], .btn-tertiary-major:fo",
+      "declarations": "background-color:#ab0115;border-color:#ab0115"
+    },
+    {
+      "source": "https://www.hilti.com/",
+      "selector": "6], .btn-tertiary-major:disabled   [_nghost-hdms-website-c1582484606], .btn-tertiary-major.disabled[_nghost-hdms-website-c1582484606], .btn-tertiary-major.disab",
+      "declarations": "background-color:#bab9ba;border-color:#bab9ba"
+    },
+    {
+      "source": "https://www.hilti.com/",
+      "selector": "-c1582484606], .btn-tertiary-major:not(:disabled):not(.disabled).active[_nghost-hdms-website-c1582484606], .btn-tertiary-major:not(:disabled):not(.disabled).act",
+      "declarations": "background-color:#920314;border-color:#920314"
+    },
+    {
+      "source": "https://www.hilti.com/",
+      "selector": "484606], .btn-tertiary-minor   [_nghost-hdms-website-c1582484606], .btn-tertiary-minor-borderless[_nghost-hdms-website-c1582484606], .btn-tertiary-minor-borderl",
+      "declarations": "border-color:#d2051e"
+    },
+    {
+      "source": "https://www.hilti.com/",
+      "selector": "_nghost-hdms-website-c1582484606]   .svg-icon[_ngcontent-hdms-website-c1582484606], .btn-tertiary-minor-borderless   [_nghost-hdms-website-c1582484606]   .svg-i",
+      "declarations": "--svg-icon-color: #d2051e"
+    },
+    {
+      "source": "https://www.hilti.com/",
+      "selector": "r.selected   [_nghost-hdms-website-c1582484606], .btn-tertiary-minor-borderless.selected[_nghost-hdms-website-c1582484606], .btn-tertiary-minor-borderless.selec",
+      "declarations": "border-color:#d2051e"
+    },
+    {
+      "source": "https://www.hilti.com/",
+      "selector": "dms-website-c1582484606]   .svg-icon[_ngcontent-hdms-website-c1582484606], .btn-tertiary-minor-borderless.selected   [_nghost-hdms-website-c1582484606]   .svg-i",
+      "declarations": "--svg-icon-color: #d2051e"
+    },
+    {
+      "source": "https://www.hilti.com/",
+      "selector": "iary-minor:focus   [_nghost-hdms-website-c1582484606], .btn-tertiary-minor-borderless:focus[_nghost-hdms-website-c1582484606], .btn-tertiary-minor-borderless:fo",
+      "declarations": "border-color:#ab0115"
+    },
+    {
+      "source": "https://www.hilti.com/",
+      "selector": "t-hdms-website-c1582484606]   .svg-icon[_ngcontent-hdms-website-c1582484606], .btn-tertiary-minor-borderless:focus   [_nghost-hdms-website-c1582484606]   .svg-i",
+      "declarations": "--svg-icon-color: #ab0115"
+    },
+    {
+      "source": "https://www.hilti.com/",
+      "selector": "s:disabled   [_nghost-hdms-website-c1582484606], .btn-tertiary-minor-borderless.disabled[_nghost-hdms-website-c1582484606], .btn-tertiary-minor-borderless.disab",
+      "declarations": "border-color:#bab9ba"
+    },
+    {
+      "source": "https://www.hilti.com/",
+      "selector": "dms-website-c1582484606]   .svg-icon[_ngcontent-hdms-website-c1582484606], .btn-tertiary-minor-borderless.disabled   [_nghost-hdms-website-c1582484606]   .svg-i",
+      "declarations": "--svg-icon-color: #bab9ba"
+    },
+    {
+      "source": "https://www.hilti.com/",
+      "selector": "rtiary-minor-borderless:not(:disabled):not(.disabled):active[_nghost-hdms-website-c1582484606], .btn-tertiary-minor-borderless:not(:disabled):not(.disabled):act",
+      "declarations": "border-color:#920314"
+    },
+    {
+      "source": "https://www.hilti.com/",
+      "selector": "svg-icon[_ngcontent-hdms-website-c1582484606], .btn-tertiary-minor-borderless:not(:disabled):not(.disabled):active   [_nghost-hdms-website-c1582484606]   .svg-i",
+      "declarations": "--svg-icon-color: #920314"
+    },
+    {
+      "source": "https://www.hilti.com/",
+      "selector": ".btn-tertiary-minor-borderless-neutraldark[_nghost-hdms-website-c1582484606], .btn-tertiary-minor-borderless-neutraldark   [_nghost-hdms-website-c1582484606]",
+      "declarations": "border-color:#7d7565"
+    },
+    {
+      "source": "https://www.hilti.com/",
+      "selector": "-website-c1582484606]   .svg-icon[_ngcontent-hdms-website-c1582484606], .btn-tertiary-minor-borderless-neutraldark   [_nghost-hdms-website-c1582484606]   .svg-i",
+      "declarations": "--svg-icon-color: #7d7565"
+    },
+    {
+      "source": "https://www.hilti.com/",
+      "selector": ".btn-tertiary-minor-borderless-neutraldark.selected[_nghost-hdms-website-c1582484606], .btn-tertiary-minor-borderless-neutraldark.selected   [_nghost-hdms-websi",
+      "declarations": "border-color:#7d7565"
+    },
+    {
+      "source": "https://www.hilti.com/",
+      "selector": "c1582484606]   .svg-icon[_ngcontent-hdms-website-c1582484606], .btn-tertiary-minor-borderless-neutraldark.selected   [_nghost-hdms-website-c1582484606]   .svg-i",
+      "declarations": "--svg-icon-color: #7d7565"
+    },
+    {
+      "source": "https://www.hilti.com/",
+      "selector": "te-c1582484606]   .svg-icon[_ngcontent-hdms-website-c1582484606], .btn-tertiary-minor-borderless-neutraldark:focus   [_nghost-hdms-website-c1582484606]   .svg-i",
+      "declarations": "--svg-icon-color: #ab0115"
+    },
+    {
+      "source": "https://www.hilti.com/",
+      "selector": ".btn-tertiary-minor-borderless-neutraldark:disabled[_nghost-hdms-website-c1582484606], .btn-tertiary-minor-borderless-neutraldark:disabled   [_nghost-hdms-websi",
+      "declarations": "border-color:#bab9ba"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Power Tools, Fasteners & Software for Construction - Hilti USA",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hilti.com/",
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hilti.com/",
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "colors.primary-active": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hilti.com/",
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hilti.com/",
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hilti.com/",
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hilti.com/",
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hilti.com/",
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hilti.com/",
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hilti.com/",
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "colors.disabled": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hilti.com/",
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "colors.border-subtle": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hilti.com/",
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "colors.overlay-heavy": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hilti.com/"
+      ]
+    },
+    "colors.overlay-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hilti.com/",
+        "https://www.hilti.com/static/ui/contents/R2026-33-HF1/styles.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.selector-tool-card": {
+      "status": "inferred"
+    }
+  }
+}

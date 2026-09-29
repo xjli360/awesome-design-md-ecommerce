@@ -1,0 +1,875 @@
+{
+  "source_url": "https://hatch.co",
+  "final_url": "https://www.hatch.co/",
+  "captured_at": "2026-09-28T09:39:44.984671+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://hatch.co",
+      "final_url": "https://www.hatch.co/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "508ceeab849d7384f68222143ef1bac5cc19f4f72dc1b95f9f245a8b688b46f2",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css",
+      "final_url": "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "731a3866ded17e091190973f43e698b400051443dee9a4eee7d6059fc97c126d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css",
+      "final_url": "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "bb37b7f87e8a87475713dcf998a74d60c25cb448d6b5357af813b624fdb90b27",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css",
+      "final_url": "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "e60824ac5b915038973a5d20538598bbc2f98a3ce9e29f2c9b7821dbcdb672b1",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.hatch.co/_next/static/chunks/15fpa2nt6wi~a.css",
+      "final_url": "https://www.hatch.co/_next/static/chunks/15fpa2nt6wi~a.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "e292189d939d12413e278e57da045c461c02f4b03139fce3062762ed3169072a",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.hatch.co/_next/static/chunks/0w4grgedr-rck.css",
+      "final_url": "https://www.hatch.co/_next/static/chunks/0w4grgedr-rck.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "daba0d787f090fbb81d352a5ce8fd0e00201b79a034cd162ffcefab9b3763edc",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 60,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css",
+        "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css",
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css",
+        "https://www.hatch.co/_next/static/chunks/15fpa2nt6wi~a.css",
+        "https://www.hatch.co/_next/static/chunks/0w4grgedr-rck.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 48,
+      "sources": [
+        "https://www.hatch.co/",
+        "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css",
+        "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css",
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css",
+        "https://www.hatch.co/_next/static/chunks/15fpa2nt6wi~a.css",
+        "https://www.hatch.co/_next/static/chunks/0w4grgedr-rck.css"
+      ]
+    },
+    "#00000080": {
+      "count": 7,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css",
+        "https://www.hatch.co/_next/static/chunks/15fpa2nt6wi~a.css"
+      ]
+    },
+    "#13294b": {
+      "count": 6,
+      "sources": [
+        "https://www.hatch.co/",
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css"
+      ]
+    },
+    "#faf8f4": {
+      "count": 6,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css",
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css"
+      ]
+    },
+    "#000000": {
+      "count": 6,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css",
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css",
+        "https://www.hatch.co/_next/static/chunks/15fpa2nt6wi~a.css"
+      ]
+    },
+    "#111827": {
+      "count": 6,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 6,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css",
+        "https://www.hatch.co/_next/static/chunks/0w4grgedr-rck.css"
+      ]
+    },
+    "#ffffff1a": {
+      "count": 6,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css",
+        "https://www.hatch.co/_next/static/chunks/15fpa2nt6wi~a.css"
+      ]
+    },
+    "#ffffff00": {
+      "count": 5,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css",
+        "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css",
+        "https://www.hatch.co/_next/static/chunks/15fpa2nt6wi~a.css"
+      ]
+    },
+    "#dcdad6": {
+      "count": 5,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/15fpa2nt6wi~a.css"
+      ]
+    },
+    "#8a98b1": {
+      "count": 5,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/15fpa2nt6wi~a.css"
+      ]
+    },
+    "#374151": {
+      "count": 4,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css"
+      ]
+    },
+    "#d1d5db": {
+      "count": 4,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 4,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css"
+      ]
+    },
+    "#00000099": {
+      "count": 4,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css",
+        "https://www.hatch.co/_next/static/chunks/0w4grgedr-rck.css"
+      ]
+    },
+    "#f1ebe1": {
+      "count": 4,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css"
+      ]
+    },
+    "#4b5563": {
+      "count": 3,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 3,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css"
+      ]
+    },
+    "#00000026": {
+      "count": 3,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css",
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css"
+      ]
+    },
+    "#ffffff66": {
+      "count": 3,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css",
+        "https://www.hatch.co/_next/static/chunks/15fpa2nt6wi~a.css"
+      ]
+    },
+    "#596ea1": {
+      "count": 3,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css",
+        "https://www.hatch.co/_next/static/chunks/15fpa2nt6wi~a.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 3,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css",
+        "https://www.hatch.co/_next/static/chunks/15fpa2nt6wi~a.css"
+      ]
+    },
+    "#ffffff14": {
+      "count": 3,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css",
+        "https://www.hatch.co/_next/static/chunks/15fpa2nt6wi~a.css"
+      ]
+    },
+    "#ffffff4d": {
+      "count": 3,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/15fpa2nt6wi~a.css",
+        "https://www.hatch.co/_next/static/chunks/0w4grgedr-rck.css"
+      ]
+    },
+    "#cccccc3b": {
+      "count": 2,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css"
+      ]
+    },
+    "#00000014": {
+      "count": 2,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css"
+      ]
+    },
+    "#6b7280": {
+      "count": 2,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css"
+      ]
+    },
+    "#f3f4f6": {
+      "count": 2,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css",
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 2,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 2,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css",
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css"
+      ]
+    },
+    "#000000b3": {
+      "count": 2,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css",
+        "https://www.hatch.co/_next/static/chunks/15fpa2nt6wi~a.css"
+      ]
+    },
+    "#00000033": {
+      "count": 2,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css"
+      ]
+    },
+    "#0a1a34": {
+      "count": 2,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css"
+      ]
+    },
+    "#274d7b": {
+      "count": 2,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css"
+      ]
+    },
+    "#2e5484": {
+      "count": 2,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css"
+      ]
+    },
+    "#ba9d90": {
+      "count": 2,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css"
+      ]
+    },
+    "#e3d5c5": {
+      "count": 2,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css"
+      ]
+    },
+    "#ccafda": {
+      "count": 2,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css"
+      ]
+    },
+    "#bfcad9": {
+      "count": 2,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css"
+      ]
+    },
+    "#97a7bf": {
+      "count": 2,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css"
+      ]
+    },
+    "#040f1f": {
+      "count": 2,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css"
+      ]
+    },
+    "#b5541a": {
+      "count": 2,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css"
+      ]
+    },
+    "#2d2d2d1a": {
+      "count": 2,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css",
+        "https://www.hatch.co/_next/static/chunks/15fpa2nt6wi~a.css"
+      ]
+    },
+    "#ffffff29": {
+      "count": 2,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css",
+        "https://www.hatch.co/_next/static/chunks/15fpa2nt6wi~a.css"
+      ]
+    },
+    "#ffffff0f": {
+      "count": 2,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css"
+      ]
+    },
+    "#ffffff40": {
+      "count": 2,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/15fpa2nt6wi~a.css"
+      ]
+    },
+    "#333333": {
+      "count": 2,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/15fpa2nt6wi~a.css"
+      ]
+    },
+    "#0e121659": {
+      "count": 2,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/15fpa2nt6wi~a.css"
+      ]
+    },
+    "#0e121633": {
+      "count": 2,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/15fpa2nt6wi~a.css"
+      ]
+    },
+    "#fcf9f4": {
+      "count": 2,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0w4grgedr-rck.css"
+      ]
+    },
+    "#cccccc66": {
+      "count": 1,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css"
+      ]
+    },
+    "#d9d9d9b3": {
+      "count": 1,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css"
+      ]
+    },
+    "#3b82f680": {
+      "count": 1,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css"
+      ]
+    },
+    "#1f2937": {
+      "count": 1,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 1,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 1,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css"
+      ]
+    },
+    "#00000040": {
+      "count": 1,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css"
+      ]
+    },
+    "#000000e6": {
+      "count": 1,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css"
+      ]
+    },
+    "#ffffff33": {
+      "count": 1,
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Consolas": [
+      "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css"
+    ],
+    "Courier New": [
+      "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css"
+    ],
+    "Georgia": [
+      "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css"
+    ],
+    "Liberation Mono": [
+      "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css"
+    ],
+    "Menlo": [
+      "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css"
+    ],
+    "Monaco": [
+      "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css"
+    ],
+    "SFMono-Regular": [
+      "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css"
+    ],
+    "Times": [
+      "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css"
+    ],
+    "Times New Roman": [
+      "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css"
+    ],
+    "enfantine": [
+      "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css"
+    ],
+    "enfantine Fallback": [
+      "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css"
+    ],
+    "exposure": [
+      "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css"
+    ],
+    "exposure Fallback": [
+      "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css"
+    ],
+    "monospace": [
+      "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css"
+    ],
+    "serif": [
+      "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css"
+    ],
+    "ttCommonsPro": [
+      "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css"
+    ],
+    "ttCommonsPro Fallback": [
+      "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css"
+    ],
+    "ui-monospace": [
+      "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.hatch.co/",
+      "selector": ":root",
+      "declarations": "--font-default: 'ttCommonsPro', 'ttCommonsPro Fallback';\n          --font-enfantine: 'enfantine', 'enfantine Fallback';\n          --font-exposure: 'exposure', 'exposure Fallback';"
+    },
+    {
+      "source": "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css",
+      "selector": ".style-module__S5YRsW__buttonText",
+      "declarations": "text-align:center;color:var(--hdc-black);font-size:16px;display:grid"
+    },
+    {
+      "source": "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css",
+      "selector": ".header-module__5y7adq__navBar",
+      "declarations": "--nav-height:64px;background:var(--hdc-white);grid-gap:8px;grid-template-columns:1fr max-content;align-items:center;gap:8px;padding-top:16px;padding-bottom:16px;display:grid;position:relative;"
+    },
+    {
+      "source": "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css",
+      "selector": ".style-module__2dB7tG__submitButton",
+      "declarations": "color:var(--hdc-white);background:var(--hdc-navy-1000);cursor:pointer;border-radius:8px;width:100%;height:52px;padding:8px;font-family:inherit;"
+    },
+    {
+      "source": "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css",
+      "selector": ".style-module__2dB7tG__buttonText",
+      "declarations": "color:var(--hdc-white);padding-right:8px;display:inline-block;"
+    },
+    {
+      "source": "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css",
+      "selector": ".style-module__9aXxYa__desktopNavContainer>:is(a,button)",
+      "declarations": "color:inherit"
+    },
+    {
+      "source": "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css",
+      "selector": ".style-module__9aXxYa__productName",
+      "declarations": "color:var(--hdc-navy-1000);"
+    },
+    {
+      "source": "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css",
+      "selector": ".style-module__9aXxYa__productTagline,.style-module__9aXxYa__productPrice",
+      "declarations": "color:var(--hdc-neutral-400);padding-bottom:4px;font-size:12px;line-height:1.3"
+    },
+    {
+      "source": "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css",
+      "selector": ".style-module__9aXxYa__shopButtonInner",
+      "declarations": "background:var(--hdc-navy-1000);color:var(--hdc-white,#fff);white-space:nowrap;border-radius:100px;justify-content:center;align-items:center;padding:8px 32px;display:inline-flex"
+    },
+    {
+      "source": "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css",
+      "selector": ".style-module__IpXK2a__barContainer>:is(a,button)",
+      "declarations": "color:inherit"
+    },
+    {
+      "source": "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css",
+      "selector": ".style-module__IpXK2a__backButton",
+      "declarations": "background:var(--hdc-neutral-white,#fff);cursor:pointer;color:var(--hdc-navy-1000);will-change:opacity;border:none;border-radius:16px;grid-area:slot;align-items:center;gap:6px;padding:4px 8px;font-weight:600;display:flex;transform:translateZ(0);"
+    },
+    {
+      "source": "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css",
+      "selector": ".style-module__IpXK2a__productPrice",
+      "declarations": "color:var(--hdc-neutral-400);font-size:14px;line-height:1.3;position:absolute;top:20px;right:20px"
+    },
+    {
+      "source": "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css",
+      "selector": ".style-module__IpXK2a__productLabel",
+      "declarations": "color:var(--hdc-neutral-400);padding-bottom:5px;font-size:14px;line-height:1.3"
+    },
+    {
+      "source": "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css",
+      "selector": ".style-module__IpXK2a__productName",
+      "declarations": "color:var(--hdc-navy-1000);font-size:20px;"
+    },
+    {
+      "source": "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css",
+      "selector": ".style-module__IpXK2a__productLink",
+      "declarations": "color:var(--hdc-navy-1000);flex:1;justify-content:center;align-items:center;padding:12px 8px;font-size:13px;font-weight:600;line-height:1.4;text-decoration:none;display:flex"
+    },
+    {
+      "source": "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css",
+      "selector": ".style-module__MhdgzW__buttonText",
+      "declarations": "color:inherit;font-family:var(--font-default);font-weight:var(--font-weight-bold);"
+    },
+    {
+      "source": "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css",
+      "selector": ".style-module__vxn19G__addToCartBlockSmallButton",
+      "declarations": "font-family:inherit;font-size:14px;font-weight:var(--font-weight-bold);letter-spacing:1.25px;color:var(--hdc-white);border:none;border-bottom-width:2px;border-bottom:2px solid var(--hdc-white);text-transform:uppercase;cursor:pointer;background:0 0;padding:4px"
+    },
+    {
+      "source": "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css",
+      "selector": ".style-module__vxn19G__outOfStockButton",
+      "declarations": "color:var(--hdc-white);background:var(--hdc-gray-40)"
+    },
+    {
+      "source": "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css",
+      "selector": ".style-module__vxn19G__addToCartBlockSlimButton",
+      "declarations": "cursor:pointer;border-radius:12px;max-height:40px;padding:4px 16px;font-family:inherit"
+    },
+    {
+      "source": "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css",
+      "selector": ".cart-toggle-button-module__fje5pW__itemCount",
+      "declarations": "background:var(--hc9-navy-100);text-align:center;color:var(--hdc-navy);font-size:13px;font-weight:var(--font-weight-bold);border-radius:50%;justify-content:center;place-items:center;width:24px;height:24px;display:grid;position:absolute;top:-10px;right:-10px;"
+    },
+    {
+      "source": "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css",
+      "selector": ".prose :where(h1):not(:where([class~=not-prose],[class~=not-prose] *))",
+      "declarations": "color:var(--tw-prose-headings);margin-top:0;margin-bottom:.888889em;font-size:2.25em;font-weight:800;line-height:1.11111"
+    },
+    {
+      "source": "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css",
+      "selector": ".prose :where(h1 strong):not(:where([class~=not-prose],[class~=not-prose] *))",
+      "declarations": "color:inherit;font-weight:900"
+    },
+    {
+      "source": "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css",
+      "selector": ".prose :where(a code):not(:where([class~=not-prose],[class~=not-prose] *)),.prose :where(h1 code):not(:where([class~=not-prose],[class~=not-prose] *))",
+      "declarations": "color:inherit"
+    },
+    {
+      "source": "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css",
+      "selector": ".prose :where(tbody tr):not(:where([class~=not-prose],[class~=not-prose] *))",
+      "declarations": "border-bottom-width:1px;border-bottom-color:var(--tw-prose-td-borders)"
+    },
+    {
+      "source": "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css",
+      "selector": ".file\\:bg-transparent::file-selector-button",
+      "declarations": "background-color:#0000"
+    },
+    {
+      "source": "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css",
+      "selector": ".peer\\/menu-button:hover~.peer-hover\\/menu-button\\:text-text-primary",
+      "declarations": "color:var(--hdc-scheme-text)"
+    },
+    {
+      "source": "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css",
+      "selector": ".peer\\/menu-button[data-active=true]~.peer-data-\\[active\\=true\\]\\/menu-button\\:text-text-primary",
+      "declarations": "color:var(--hdc-scheme-text)"
+    },
+    {
+      "source": "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css",
+      "selector": ":root",
+      "declarations": "--breakpoint-x-small:480px;--breakpoint-small:768px;--breakpoint-large:1024px;--breakpoint-x-large:1200px;--breakpoint-wide-screen:1880px"
+    },
+    {
+      "source": "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css",
+      "selector": ":root",
+      "declarations": "--hdc-scheme-text:#040f1f;--hdc-scheme-border:#00000026;--hdc-scheme-background:#f1ebe1;--hdc-scheme-foreground:#fff;--hdc-scheme-accent:#b5541a;--hdc-scheme-cta-text:#faf8f4;--hdc-scheme-cta-background:#13294b;--hdc-brand-abyss-1000:#040f1f;--hdc-brand-eclipse-1000:#0a1a34;--hdc-brand-midnight-900:#13294b;--hdc-brand-sapphire-600:#274d7b;--hdc-brand-cobalt-300:#6f86a4;--hdc-brand-linen-200:#97a7bf;--hdc-brand-oat:#f1ebe1;--hdc-brand-vanilla:#faf8f4;--hdc-brand-warm-terracotta:#b5541a;--hdc-brand-wisteria:#ccafda;--hdc-neutral-white:#fff;--hdc-neutral-lightest:#eee;--hdc-neutral-lighter:#ccc;--hdc-neutral-light:#aaa;--hdc-neutral-400:#666;--hdc-neutral-dark:#444;--hdc-neutral-darker:#222;--h"
+    },
+    {
+      "source": "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css",
+      "selector": ":root,[data-hatch-theme=light]",
+      "declarations": "--hdc-surface:var(--hdc-bg-primary);--hdc-on-surface:var(--hdc-brand-abyss-1000);--hdc-surface-muted:var(--hdc-fog);--hdc-on-surface-muted:var(--hdc-text-secondary);--hdc-surface-inverse:var(--hdc-bg-alternate);--hdc-on-surface-inverse:var(--hdc-text-alternate);--hdc-interactive:var(--hdc-brand-abyss-1000);--hdc-on-interactive:var(--hdc-text-alternate);--hdc-interactive-hover:#2d2d2d1a;--hdc-outline:var(--hdc-border-primary);--hdc-outline-strong:var(--hdc-border-secondary);--hdc-feedback-success:var(--hdc-system-success-green-dark);--hdc-feedback-success-bg:var(--hdc-bg-success);--hdc-feedback-error:var(--hdc-text-error);--hdc-feedback-error-bg:var(--hdc-bg-error)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Devices to Help You Sleep Better | Hatch",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hatch.co/",
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hatch.co/",
+        "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css",
+        "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css",
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css",
+        "https://www.hatch.co/_next/static/chunks/15fpa2nt6wi~a.css",
+        "https://www.hatch.co/_next/static/chunks/0w4grgedr-rck.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css",
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hatch.co/",
+        "https://www.hatch.co/_next/static/chunks/0ru507n8ct~na.css",
+        "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css",
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css",
+        "https://www.hatch.co/_next/static/chunks/15fpa2nt6wi~a.css",
+        "https://www.hatch.co/_next/static/chunks/0w4grgedr-rck.css"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css"
+      ]
+    },
+    "colors.accent-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css"
+      ]
+    },
+    "colors.disabled": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0diw5~1kxtrej.css"
+      ]
+    },
+    "colors.navy-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.hatch.co/_next/static/chunks/0g.j--9-yfuhk.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.audio-feature-card": {
+      "status": "inferred"
+    }
+  }
+}

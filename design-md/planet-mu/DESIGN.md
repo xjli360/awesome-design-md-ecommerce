@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Planet Mu
-description: A record label and shop that uses a high-voltage orange-red (#ff4c2d) as its primary signal — a color that reads as urgent, almost warning-like, against a canvas of near-white (#d0d0d0) and stark black ink. The brand leans on a small set of accent colors that feel lifted from early internet culture: a pure yellow (#ffff00) and a saturated cyan (#0099ff) that together with the primary orange create a primary-color triad reminiscent of 90s rave flyers and net.art. Typography runs on a mix of Circular Pro (Bold and Medium weights) and Circular Std Book, with Arial and Helvetica as fallbacks — the brand trusts bold weight and generous size over decorative typefaces. Buttons and interactive elements use {rounded.full} pill shapes, while product cards and content containers use {rounded.sm} (8px) — a subtle distinction that keeps the shop feel approachable without losing edge. The overall mood is loud but controlled: the orange-red dominates every primary action, the yellow and cyan appear as badges, sale markers, or limited-edition flags, and the gray (#d0d0d0) provides a quiet structural grid for releases, tracklists, and artist pages. There is no meta-theme-color, no Shopify framework, and no attempt at luxury — this is a label that sells music directly, with the visual confidence of a flyer stapled to a telephone pole.
+name: "Planet Mu"
+source_url: "https://www.planet.mu"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A record label and shop that uses a high-voltage orange-red (#ff4c2d) as its primary signal — a color that reads as urgent, almost warning-like, against a canvas of near-white (#d0d0d0) and stark black ink. The brand leans on a small set of accent colors that feel lifted from early internet culture: a pure yellow (#ffff00) and a saturated cyan (#0099ff) that together with the primary orange create a primary-color triad reminiscent of 90s rave flyers and net.art. Typography runs on a mix of Circular Pro (Bold and Medium weights) and Circular Std Book, with Arial and Helvetica as fallbacks — the brand trusts bold weight and generous size over decorative typefaces. Buttons and interactive elements use {rounded.full} pill shapes, while product cards and content containers use {rounded.sm} (8px) — a subtle distinction that keeps the shop feel approachable without losing edge. The overall mood is loud but controlled: the orange-red dominates every primary action, the yellow and cyan appear as badges, sale markers, or limited-edition flags, and the gray (#d0d0d0) provides a quiet structural grid for releases, tracklists, and artist pages. There is no meta-theme-color, no Shopify framework, and no attempt at luxury — this is a label that sells music directly, with the visual confidence of a flyer stapled to a telephone pole.
 
 colors:
   primary: "#ff4c2d"
@@ -338,6 +342,8 @@ components:
 - Footer links stack vertically below 744px, with social icons moving to a separate row
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted color list is small (5 colors) and may not represent the full brand palette — particularly missing are any secondary grays for hover states, error colors, or link-specific colors. The primary orange-red (#ff4c2d) is distinctive and likely correct, but the yellow and cyan may be accent colors used sparingly rather than core brand colors.
 - No meta-theme-color was found, suggesting the brand may not use a browser theme color or it's set dynamically.

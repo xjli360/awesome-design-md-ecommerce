@@ -1,11 +1,15 @@
 ---
 version: alpha
-name: Dino-Lite
-description: The amber (#f5b301) in Dino-Lite's palette reads like a calibration mark on a precision instrument — a single warm frequency against a field of blues and grays that would otherwise read as pure technical infrastructure. Two blues do the structural work: an electric cornflower (#1863dc) handles every primary CTA, active nav state, and interactive affordance, while a deep navy (#034574) anchors section headers, hero backgrounds, and structural chrome. Together they form a hierarchy that mirrors how microscopy professionals parse information — high-contrast foreground signal against a stable, neutral working surface.
+name: "Dino-Lite"
+source_url: "https://www.dinolite.us"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The amber (#f5b301) in Dino-Lite's palette reads like a calibration mark on a precision instrument — a single warm frequency against a field of blues and grays that would otherwise read as pure technical infrastructure. Two blues do the structural work: an electric cornflower (#1863dc) handles every primary CTA, active nav state, and interactive affordance, while a deep navy (#034574) anchors section headers, hero backgrounds, and structural chrome. Together they form a hierarchy that mirrors how microscopy professionals parse information — high-contrast foreground signal against a stable, neutral working surface.
 
-Surface layers are built from a family of near-whites (#f7f7f7, #f4f4f4, #eff1f3) that sit neither paper-white nor gray, neutral enough that product photography retains full chromatic authority. Ink hits #212121, body text drops to #2b2b2b and #555555 for hierarchy, and a muted purple-gray (#4e4b66) surfaces for secondary metadata — a subtle departure from straight grays that prevents the interface from reading as purely utilitarian. Typography runs the OS cascade with Roboto at the front, choosing rendering consistency over custom-font personality: body copy sits at 14–16px weight 400, section headers move to 20–24px at weight 600–700 without the dramatic scale jumps consumer lifestyle brands favor.
+  Surface layers are built from a family of near-whites (#f7f7f7, #f4f4f4, #eff1f3) that sit neither paper-white nor gray, neutral enough that product photography retains full chromatic authority. Ink hits #212121, body text drops to #2b2b2b and #555555 for hierarchy, and a muted purple-gray (#4e4b66) surfaces for secondary metadata — a subtle departure from straight grays that prevents the interface from reading as purely utilitarian. Typography runs the OS cascade with Roboto at the front, choosing rendering consistency over custom-font personality: body copy sits at 14–16px weight 400, section headers move to 20–24px at weight 600–700 without the dramatic scale jumps consumer lifestyle brands favor.
 
-Corners stay small and consistent — `{rounded.xs}` to `{rounded.sm}` across buttons, cards, and inputs. No pill-shaped CTAs, no soft organic radii; the system geometry matches the machined-tolerance aesthetic of the instruments themselves. Product cards carry the full specification load: magnification range, resolution, connectivity type, and application domain (PCB inspection, dermatology, gemology, forensics, education) all visible without a secondary click. The cyan accent (#0ac3ec) surfaces on interactive overlays and comparison highlights, while a sky-blue (#33b2ff) handles selection rings and secondary link states — a three-blue system that would be chaotic in any consumer context except the technical instrument catalog, where professional buyers are trained to read multi-variable data simultaneously. Promotional callouts and featured-spec badges take the amber, letting a single warm token do the attention work that other brands assign to red.
+  Corners stay small and consistent — `{rounded.xs}` to `{rounded.sm}` across buttons, cards, and inputs. No pill-shaped CTAs, no soft organic radii; the system geometry matches the machined-tolerance aesthetic of the instruments themselves. Product cards carry the full specification load: magnification range, resolution, connectivity type, and application domain (PCB inspection, dermatology, gemology, forensics, education) all visible without a secondary click. The cyan accent (#0ac3ec) surfaces on interactive overlays and comparison highlights, while a sky-blue (#33b2ff) handles selection rings and secondary link states — a three-blue system that would be chaotic in any consumer context except the technical instrument catalog, where professional buyers are trained to read multi-variable data simultaneously. Promotional callouts and featured-spec badges take the amber, letting a single warm token do the attention work that other brands assign to red.
 
 colors:
   primary: "#1863dc"
@@ -340,6 +344,8 @@ components:
 - Application-tag rows on product cards wrap freely; excess tags hidden behind a "+N more" chip on cards narrower than 320px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom brand typeface detected — typography resolves to the system cascade (Roboto + OS fallbacks); a custom display font is not confirmed and may not exist
 - Exact button border-radius not measured directly; `{rounded.sm}` (8px) inferred from general blue-rectangle CTA aesthetic

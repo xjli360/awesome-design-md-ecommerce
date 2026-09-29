@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: AimControllers
-description: A competitive gaming hardware brand that wears its esports DNA on every surface — #0d0d0d ink on a #ffffff canvas, with #ff0000 primary voltage that screams "pro" before a single spec is read. The site reads like a configurator-first experience: every product page is a build-your-own controller interface with step-by-step selection panels, each framed in #e5e5e5 hairline borders and #f5f5f5 surface-soft backgrounds. Typography runs system-native (Inter, -apple-system) at utilitarian weights — 600 for headings, 400 for body — no decorative flourishes, no serifs, just information density. The primary CTA is a #ff0000 pill button with white text, 48px tall, 12px rounded corners, carrying the same urgency as a tournament countdown timer. Product cards use 8px rounded corners and 1px hairline borders, with hover states that shift to a subtle #f0f0f0 surface. The nav bar is a fixed 64px strip with #ffffff background, #0d0d0d text, and a sticky search bar that collapses on scroll. Badges for "Pro Series" or "Custom" use 4px rounded pills in #ff0000 or #1a1a1a. The entire system is built for conversion — no brand poetry, no lifestyle photography, just controller customization flows with high-contrast color blocking and zero ambiguity.
+name: "AimControllers"
+source_url: "https://aimcontrollers.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A competitive gaming hardware brand that wears its esports DNA on every surface — #0d0d0d ink on a #ffffff canvas, with #ff0000 primary voltage that screams "pro" before a single spec is read. The site reads like a configurator-first experience: every product page is a build-your-own controller interface with step-by-step selection panels, each framed in #e5e5e5 hairline borders and #f5f5f5 surface-soft backgrounds. Typography runs system-native (Inter, -apple-system) at utilitarian weights — 600 for headings, 400 for body — no decorative flourishes, no serifs, just information density. The primary CTA is a #ff0000 pill button with white text, 48px tall, 12px rounded corners, carrying the same urgency as a tournament countdown timer. Product cards use 8px rounded corners and 1px hairline borders, with hover states that shift to a subtle #f0f0f0 surface. The nav bar is a fixed 64px strip with #ffffff background, #0d0d0d text, and a sticky search bar that collapses on scroll. Badges for "Pro Series" or "Custom" use 4px rounded pills in #ff0000 or #1a1a1a. The entire system is built for conversion — no brand poetry, no lifestyle photography, just controller customization flows with high-contrast color blocking and zero ambiguity.
 
 colors:
   primary: "#ff0000"
@@ -509,6 +513,8 @@ components:
 - Secondary navigation (breadcrumbs, filters) collapses to dropdown on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No font-family declarations could be extracted from the live site — typography uses Inter as a best-guess system font stack based on common gaming hardware site patterns. Actual brand fonts may differ.
 - Only a limited set of hex colors could be extracted (primarily #0d0d0d, #ffffff, #ff0000, #e5e5e5, #f5f5f5, #f0f0f0, #666666, #999999, #1a1a1a, #cc0000, #ffcccc). Additional brand colors (accent-green, accent-blue, error, success, warning) are inferred from common ecommerce patterns and may not match actual brand usage.

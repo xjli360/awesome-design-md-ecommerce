@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Yanagisawa
-description: A precision instrument maker whose digital presence mirrors the exacting craft of its saxophones — the extracted palette reveals a system built on deep indigo (#0062cc) as the primary voltage, a color that reads as both technical authority and artistic depth, far from the expected brass-and-gold clichés of wind instrument branding. The site operates on a clean hierarchy of slate grays (#545b62 for body text, #dae0e5 for hairline strokes) against a white canvas, with #1e7e34 and #117a8b appearing as secondary accents that suggest the verdant patina of aged instrument cases and the cool breath of polished metal. The typography stack defaults to system-native faces — Segoe UI, Roboto, Helvetica Neue — a pragmatic choice that prioritizes legibility across devices over decorative flourish, much like a saxophone's keywork prioritizes function before form. Buttons carry the full indigo weight at 48px height with 12px rounded corners, while secondary actions slip into outline mode with the same slate body color. The nav bar sits at 64px, a compact but confident header that lets the product imagery — the true hero of this brand — command the viewport. There is no extraneous ornament; every pixel serves the object. The brand's voice is not loud; it is the quiet hum of a perfectly tuned instrument waiting to be played.
+name: "Yanagisawa"
+source_url: "https://www.yanagisawasax.co.jp"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A precision instrument maker whose digital presence mirrors the exacting craft of its saxophones — the extracted palette reveals a system built on deep indigo (#0062cc) as the primary voltage, a color that reads as both technical authority and artistic depth, far from the expected brass-and-gold clichés of wind instrument branding. The site operates on a clean hierarchy of slate grays (#545b62 for body text, #dae0e5 for hairline strokes) against a white canvas, with #1e7e34 and #117a8b appearing as secondary accents that suggest the verdant patina of aged instrument cases and the cool breath of polished metal. The typography stack defaults to system-native faces — Segoe UI, Roboto, Helvetica Neue — a pragmatic choice that prioritizes legibility across devices over decorative flourish, much like a saxophone's keywork prioritizes function before form. Buttons carry the full indigo weight at 48px height with 12px rounded corners, while secondary actions slip into outline mode with the same slate body color. The nav bar sits at 64px, a compact but confident header that lets the product imagery — the true hero of this brand — command the viewport. There is no extraneous ornament; every pixel serves the object. The brand's voice is not loud; it is the quiet hum of a perfectly tuned instrument waiting to be played.
 
 colors:
   primary: "#0062cc"
@@ -389,6 +393,8 @@ components:
 - Secondary navigation (breadcrumbs, sub-category filters) hides on mobile, accessible via a "Filter" button
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted hex colors are dominated by Bootstrap utility classes (primary blue, success green, info teal, warning yellow, danger red) and their hover/active variants. The brand's true primary may be a more distinctive color not captured in the extraction — the live site likely uses custom brand colors that are applied via CSS variables or inline styles not captured in the DOM scan. The #0062cc primary is the most distinctive non-gray color in the list and is used as the primary, but this may not match the brand's actual identity.
 - No custom font declarations were found beyond system-native stacks. The brand may use a proprietary typeface (e.g., a Japanese typeface for the Japanese market) that is loaded via JavaScript or @font-face not captured in the extraction.

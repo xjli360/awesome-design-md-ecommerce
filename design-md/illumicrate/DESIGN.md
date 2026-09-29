@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Illumicrate
-description: A gilded, bibliophilic subscription brand where the primary voltage is not a single hex but a duet — the deep, almost-ink black of #1c1c1c against the warm gold of #fada4a, a pairing that reads as both premium and magical. The palette draws from the alchemy of a book's edge: #f2a63b (a secondary amber), #700f5f (a crushed-velvet plum), and #f3a4bb (a blush pink) appear as accent badges, foil-stamped details, and exclusive-edition treatments. The canvas is #f4f4f6, a soft off-white that avoids the sterile glare of pure white, while #e5e5eb and #d3d4dd serve as hairline borders and muted dividers. Type is set in Beirut Display for headlines — a serif with a theatrical, almost editorial weight — paired with Labil Grotesk for body and UI, a clean sans-serif that keeps the reading experience grounded. The brand's signature design move is the foil-stamped badge: a small, rounded rectangle (`{rounded.sm}`) in gold or plum, carrying a single word like "EXCLUSIVE" or "SIGNED" in uppercase, applied to product cards and hero banners. The overall mood is that of a curated library — dark shelves (`{colors.ink}`), warm lamp-light (`{colors.primary}`), and the tactile promise of a hand-picked monthly delivery. There is no hard corner on a button (`{rounded.sm}`), but the typography retains a sharp, authoritative serif for display, creating a deliberate tension between softness and tradition.
+name: "Illumicrate"
+source_url: "https://www.illumicrate.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A gilded, bibliophilic subscription brand where the primary voltage is not a single hex but a duet — the deep, almost-ink black of #1c1c1c against the warm gold of #fada4a, a pairing that reads as both premium and magical. The palette draws from the alchemy of a book's edge: #f2a63b (a secondary amber), #700f5f (a crushed-velvet plum), and #f3a4bb (a blush pink) appear as accent badges, foil-stamped details, and exclusive-edition treatments. The canvas is #f4f4f6, a soft off-white that avoids the sterile glare of pure white, while #e5e5eb and #d3d4dd serve as hairline borders and muted dividers. Type is set in Beirut Display for headlines — a serif with a theatrical, almost editorial weight — paired with Labil Grotesk for body and UI, a clean sans-serif that keeps the reading experience grounded. The brand's signature design move is the foil-stamped badge: a small, rounded rectangle (`{rounded.sm}`) in gold or plum, carrying a single word like "EXCLUSIVE" or "SIGNED" in uppercase, applied to product cards and hero banners. The overall mood is that of a curated library — dark shelves (`{colors.ink}`), warm lamp-light (`{colors.primary}`), and the tactile promise of a hand-picked monthly delivery. There is no hard corner on a button (`{rounded.sm}`), but the typography retains a sharp, authoritative serif for display, creating a deliberate tension between softness and tradition.
 
 colors:
   primary: "#fada4a"
@@ -379,6 +383,8 @@ components:
 - Search bar expands to full width on mobile, collapses to icon-only on very small screens (< 400px)
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for all components are inferred from common patterns; exact transition durations and easing curves not extracted
 - Error styling (input validation, form errors) not observed; error color (#c01616) is an estimate from extracted hexes

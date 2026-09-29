@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Simms Fishing
-description: Acumin Pro Extra Condensed Bold running at headline weight is the first tell — Simms packs product names into tall, tight stacks the same way a wader chest pocket packs gear into minimal real estate. Against an ink field of deep charcoal (#282824) and river-stone neutrals (#434240, #989990), one color breaks the surface: a burnt orange (#c94b1d) that marks every primary CTA the way a high-vis strike indicator marks a fly on dark water. The site's vertical rhythm is deliberate — generous `{spacing.section}` gaps between editorial chapters, near-white backgrounds (#f7f8f9, #f5f4f3) that let product photography carry emotional weight without chromatic competition. CSBloom appears as a decorative script accent layered over Acumin's angular compression, bridging technical precision with a hand-rendered warmth that other outdoor brands force through raw imagery alone. Product cards stay nearly square-cornered (`{rounded.sm}`), reinforcing an engineering-forward identity — these are precision tools built in Bozeman, Montana and priced like it. Basis Grotesque Pro handles all body copy at comfortable reading weights, its neutrality letting the condensed display faces dominate the hierarchy without typographic collision. A secondary terracotta (#c46441) and an olive-stone spectrum (#737368 through #989990) extend the brand's geological palette across badges, secondary labels, and interface borders, never reaching for the primary orange unless directing action. The alert red (#bf0909) and outdoor green (#158c15) serve as pure status signals — inventory warnings, size availability — never decorative. The result is a storefront that reads like a technical fly shop: organized by function, lit in the warm tones of river stone and late-afternoon sun, with exactly one flash of color to tell you where to go next.
+name: "Simms Fishing"
+source_url: "https://www.simmsfishing.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Acumin Pro Extra Condensed Bold running at headline weight is the first tell — Simms packs product names into tall, tight stacks the same way a wader chest pocket packs gear into minimal real estate. Against an ink field of deep charcoal (#282824) and river-stone neutrals (#434240, #989990), one color breaks the surface: a burnt orange (#c94b1d) that marks every primary CTA the way a high-vis strike indicator marks a fly on dark water. The site's vertical rhythm is deliberate — generous `{spacing.section}` gaps between editorial chapters, near-white backgrounds (#f7f8f9, #f5f4f3) that let product photography carry emotional weight without chromatic competition. CSBloom appears as a decorative script accent layered over Acumin's angular compression, bridging technical precision with a hand-rendered warmth that other outdoor brands force through raw imagery alone. Product cards stay nearly square-cornered (`{rounded.sm}`), reinforcing an engineering-forward identity — these are precision tools built in Bozeman, Montana and priced like it. Basis Grotesque Pro handles all body copy at comfortable reading weights, its neutrality letting the condensed display faces dominate the hierarchy without typographic collision. A secondary terracotta (#c46441) and an olive-stone spectrum (#737368 through #989990) extend the brand's geological palette across badges, secondary labels, and interface borders, never reaching for the primary orange unless directing action. The alert red (#bf0909) and outdoor green (#158c15) serve as pure status signals — inventory warnings, size availability — never decorative. The result is a storefront that reads like a technical fly shop: organized by function, lit in the warm tones of river stone and late-afternoon sun, with exactly one flash of color to tell you where to go next.
 
 colors:
   primary: "#c94b1d"
@@ -394,6 +398,8 @@ components:
 - Category tile grid collapses from 4-across to 2-across at Tablet, horizontal scroll row at Mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No meta theme-color extracted; nav-bar color (#282824) assumed for mobile browser chrome
 - `primary-active` (#a33a15) and `primary-disabled` (#e4a070) are derived approximations — hover and disabled states were not confirmed from live DOM inspection

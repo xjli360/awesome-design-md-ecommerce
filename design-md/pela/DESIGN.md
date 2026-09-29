@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Pela
-description: A muted sage-and-slate palette — #617c55, #405960, #a9c1c7 — wraps Pela's compostable phone cases in the visual language of soil, stone, and recycled fiber. The brand's primary green (#617c55) reads less like a logo color and more like a natural pigment, appearing on CTAs, badges, and the "100% Compostable" stamp that anchors the hero. Secondary teal (#577c85) and a warm clay accent (#bc5548) add just enough tension to keep the palette from drifting into monotone. Typography splits between Poppins (headings, buttons) and Lora (body), a pairing that signals both modern clarity and editorial warmth — Poppins Medium at 16px for nav links, Lora at 15px for product descriptions. Cards and buttons use soft rounding ({rounded.sm} at 8px, {rounded.md} at 12px), never pill shapes, preserving a grounded, un-gimmicky feel. The canvas is a cool off-white (#ecf2f3) rather than pure white, a subtle choice that echoes the brand's environmental ethos — nothing feels bleached or synthetic. Product imagery sits on {surface-card} (#ffffff) with a thin {hairline} (#c5c7c8) border, letting the cases' flax-straw texture and muted colorways (Sage, Terracotta, Ocean) carry the visual story. The footer collapses into a dense, link-heavy block on mobile, while the nav bar compresses to a hamburger with a persistent cart icon — standard Shopify DTC, but executed with restraint.
+name: "Pela"
+source_url: "https://www.pelacase.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A muted sage-and-slate palette — #617c55, #405960, #a9c1c7 — wraps Pela's compostable phone cases in the visual language of soil, stone, and recycled fiber. The brand's primary green (#617c55) reads less like a logo color and more like a natural pigment, appearing on CTAs, badges, and the "100% Compostable" stamp that anchors the hero. Secondary teal (#577c85) and a warm clay accent (#bc5548) add just enough tension to keep the palette from drifting into monotone. Typography splits between Poppins (headings, buttons) and Lora (body), a pairing that signals both modern clarity and editorial warmth — Poppins Medium at 16px for nav links, Lora at 15px for product descriptions. Cards and buttons use soft rounding ({rounded.sm} at 8px, {rounded.md} at 12px), never pill shapes, preserving a grounded, un-gimmicky feel. The canvas is a cool off-white (#ecf2f3) rather than pure white, a subtle choice that echoes the brand's environmental ethos — nothing feels bleached or synthetic. Product imagery sits on {surface-card} (#ffffff) with a thin {hairline} (#c5c7c8) border, letting the cases' flax-straw texture and muted colorways (Sage, Terracotta, Ocean) carry the visual story. The footer collapses into a dense, link-heavy block on mobile, while the nav bar compresses to a hamburger with a persistent cart icon — standard Shopify DTC, but executed with restraint.
 
 colors:
   primary: "#617c55"
@@ -252,6 +256,8 @@ Footer uses a dense column layout on desktop (4 columns: Shop, Learn, Support, C
 - Search bar moves from inline to full-width below nav on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components not fully extracted — only primary button hover is confirmed
 - Error states for text-input (border color, helper text styling) inferred from brand palette, not extracted

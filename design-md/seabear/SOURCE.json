@@ -1,0 +1,845 @@
+{
+  "source_url": "https://seabear.com",
+  "final_url": "https://seabear.com/",
+  "captured_at": "2026-09-28T09:12:08.929566+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://seabear.com",
+      "final_url": "https://seabear.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "593fc304ae55fd8436a4fd4d06b9cdda01d4ae92a82fc74c640b1559773076a1",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://seabear.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://seabear.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+      "final_url": "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ea9c3f43e783881c8b369240f5b2739cffba9ecba0342eb9f0116ca8c66d0f82",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0d903-83fd-7112-ae54-5e114261e8d7/product-upsell-92/assets/app.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0d903-83fd-7112-ae54-5e114261e8d7/product-upsell-92/assets/app.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9ae722c1cbb87b90f82182426e21f99429a232c504632714ab549a5e7b10013c",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://seabear.com/cdn/shop/t/282/assets/header.css?v=161926745800240591391790378632",
+      "final_url": "https://seabear.com/cdn/shop/t/282/assets/header.css?v=161926745800240591391790378632",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "382242c91a416124574dee3206336dd568977d0bf9c953b0dfc829fb50279ac8",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://seabear.com/cdn/shop/t/282/assets/flyout-cart.css?v=168972326526076867011790378632",
+      "final_url": "https://seabear.com/cdn/shop/t/282/assets/flyout-cart.css?v=168972326526076867011790378632",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "fb7ff4447946edf73e8fcd67282a1ab5f1d68652ee72d04dd1b27f633899d09a",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 132,
+      "sources": [
+        "https://seabear.com/",
+        "https://seabear.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+        "https://cdn.shopify.com/extensions/01a0d903-83fd-7112-ae54-5e114261e8d7/product-upsell-92/assets/app.css",
+        "https://seabear.com/cdn/shop/t/282/assets/header.css?v=161926745800240591391790378632",
+        "https://seabear.com/cdn/shop/t/282/assets/flyout-cart.css?v=168972326526076867011790378632"
+      ]
+    },
+    "#0c2f40": {
+      "count": 60,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+        "https://seabear.com/cdn/shop/t/282/assets/header.css?v=161926745800240591391790378632",
+        "https://seabear.com/cdn/shop/t/282/assets/flyout-cart.css?v=168972326526076867011790378632"
+      ]
+    },
+    "#99521e": {
+      "count": 47,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+        "https://seabear.com/cdn/shop/t/282/assets/header.css?v=161926745800240591391790378632",
+        "https://seabear.com/cdn/shop/t/282/assets/flyout-cart.css?v=168972326526076867011790378632"
+      ]
+    },
+    "#134055": {
+      "count": 45,
+      "sources": [
+        "https://seabear.com/",
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+        "https://seabear.com/cdn/shop/t/282/assets/header.css?v=161926745800240591391790378632",
+        "https://seabear.com/cdn/shop/t/282/assets/flyout-cart.css?v=168972326526076867011790378632"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 33,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+        "https://seabear.com/cdn/shop/t/282/assets/header.css?v=161926745800240591391790378632",
+        "https://seabear.com/cdn/shop/t/282/assets/flyout-cart.css?v=168972326526076867011790378632"
+      ]
+    },
+    "#ff6c00": {
+      "count": 27,
+      "sources": [
+        "https://seabear.com/",
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+        "https://seabear.com/cdn/shop/t/282/assets/flyout-cart.css?v=168972326526076867011790378632"
+      ]
+    },
+    "#454545": {
+      "count": 25,
+      "sources": [
+        "https://seabear.com/",
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+        "https://seabear.com/cdn/shop/t/282/assets/header.css?v=161926745800240591391790378632"
+      ]
+    },
+    "#814418": {
+      "count": 15,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+        "https://seabear.com/cdn/shop/t/282/assets/flyout-cart.css?v=168972326526076867011790378632"
+      ]
+    },
+    "#f7f5ed": {
+      "count": 10,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "#4c6261": {
+      "count": 9,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "#2b2b15": {
+      "count": 7,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "#b44d0d": {
+      "count": 6,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "#000000": {
+      "count": 5,
+      "sources": [
+        "https://seabear.com/",
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "#262c24": {
+      "count": 5,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "#7b3509": {
+      "count": 5,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "#3e3e23": {
+      "count": 5,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "#fdfdf6": {
+      "count": 5,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "#3b4437": {
+      "count": 4,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "#791619": {
+      "count": 4,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "#00000029": {
+      "count": 4,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "#dedede": {
+      "count": 3,
+      "sources": [
+        "https://seabear.com/",
+        "https://seabear.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#fdfdf7": {
+      "count": 3,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "#354544": {
+      "count": 3,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://seabear.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#1b1f2a80": {
+      "count": 2,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "#e0e0d7": {
+      "count": 2,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "#3498db": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d903-83fd-7112-ae54-5e114261e8d7/product-upsell-92/assets/app.css"
+      ]
+    },
+    "#3d3935": {
+      "count": 1,
+      "sources": [
+        "https://seabear.com/"
+      ]
+    },
+    "#e45d33": {
+      "count": 1,
+      "sources": [
+        "https://seabear.com/"
+      ]
+    },
+    "#94b0c3": {
+      "count": 1,
+      "sources": [
+        "https://seabear.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://seabear.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://seabear.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://seabear.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f6f6dd": {
+      "count": 1,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "#4b6160": {
+      "count": 1,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "#35454480": {
+      "count": 1,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 1,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "#0c2f404d": {
+      "count": 1,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "#99521ecc": {
+      "count": 1,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "#0c2f4080": {
+      "count": 1,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "#0c2f40e6": {
+      "count": 1,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "#0000004d": {
+      "count": 1,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "#1b1f2a33": {
+      "count": 1,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "#abdad780": {
+      "count": 1,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "#33331b": {
+      "count": 1,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "#4c626140": {
+      "count": 1,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "#3b3a21": {
+      "count": 1,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "#0c2f4040": {
+      "count": 1,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "#743b12": {
+      "count": 1,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "#00000099": {
+      "count": 1,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "#00000066": {
+      "count": 1,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d903-83fd-7112-ae54-5e114261e8d7/product-upsell-92/assets/app.css"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d903-83fd-7112-ae54-5e114261e8d7/product-upsell-92/assets/app.css"
+      ]
+    },
+    "#adadad": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d903-83fd-7112-ae54-5e114261e8d7/product-upsell-92/assets/app.css"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 1,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/flyout-cart.css?v=168972326526076867011790378632"
+      ]
+    },
+    "#e4c9b4": {
+      "count": 1,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/flyout-cart.css?v=168972326526076867011790378632"
+      ]
+    },
+    "#fffaf6": {
+      "count": 1,
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/flyout-cart.css?v=168972326526076867011790378632"
+      ]
+    }
+  },
+  "font_families": {
+    "adobe-handwriting-ernie": [
+      "https://seabear.com/",
+      "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+    ],
+    "interstate": [
+      "https://seabear.com/",
+      "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+      "https://seabear.com/cdn/shop/t/282/assets/header.css?v=161926745800240591391790378632",
+      "https://seabear.com/cdn/shop/t/282/assets/flyout-cart.css?v=168972326526076867011790378632"
+    ],
+    "interstate-compressed": [
+      "https://seabear.com/",
+      "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+    ],
+    "interstate-condensed": [
+      "https://seabear.com/",
+      "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+    ],
+    "monospace": [
+      "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+    ],
+    "sans-serif": [
+      "https://seabear.com/",
+      "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+      "https://seabear.com/cdn/shop/t/282/assets/header.css?v=161926745800240591391790378632",
+      "https://seabear.com/cdn/shop/t/282/assets/flyout-cart.css?v=168972326526076867011790378632"
+    ],
+    "sans-serif!important": [
+      "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://seabear.com/",
+      "selector": "h1",
+      "declarations": "font-family: \"interstate-condensed\", sans-serif;"
+    },
+    {
+      "source": "https://seabear.com/",
+      "selector": ":root",
+      "declarations": "--shopify-chat-bg-color: #ffffff;\n    --shopify-chat-text-color: #000000;\n    --shopify-chat-accent-bg-color: #000000;\n    --shopify-chat-accent-text-color: #ffffff;\n    --shopify-chat-activator-offset: 80px;\n\n    \n\n    --shopify-chat-activator-font-size: 16px;\n    --shopify-chat-border-radius: 16px;"
+    },
+    {
+      "source": "https://seabear.com/",
+      "selector": ".bold-product__title",
+      "declarations": "color: #454545;\n        font-size: 30px;\n        height: 100%;"
+    },
+    {
+      "source": "https://seabear.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://seabear.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://seabear.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://seabear.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://seabear.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://seabear.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;line-height:1.15;margin:0"
+    },
+    {
+      "source": "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+      "selector": "a,button",
+      "declarations": "color:inherit;cursor:pointer"
+    },
+    {
+      "source": "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+      "selector": "button",
+      "declarations": "background-color:transparent;border-width:0;padding:0"
+    },
+    {
+      "source": "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+      "selector": "body",
+      "declarations": "min-height:100vh;color:#454545;background:#f0f0f0"
+    },
+    {
+      "source": "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+      "selector": ".rte h1",
+      "declarations": "font: 800 45px/1.11 interstate-condensed,sans-serif;font-family:interstate-condensed,sans-serif;letter-spacing:.45px;margin-bottom:10px"
+    },
+    {
+      "source": "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+      "selector": ".btn",
+      "declarations": "font: 700 20px/1.25 interstate,sans-serif;font-family:interstate,sans-serif;display:block;width:-moz-fit-content;width:fit-content;padding:13px 60px;color:#fff;text-align:center;text-transform:uppercase;cursor:pointer;background-color:#134055!important;transition:background-color 1s"
+    },
+    {
+      "source": "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+      "selector": ".btn:disabled",
+      "declarations": "cursor:not-allowed;background-color:#454545!important;opacity:.8"
+    },
+    {
+      "source": "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+      "selector": ".btn:focus,.btn:hover",
+      "declarations": "background-color:#0c2f40!important;outline:none;transition:background-color .2s"
+    },
+    {
+      "source": "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+      "selector": ".btn--secondary",
+      "declarations": "font: 700 20px/1.25 interstate,sans-serif;font-family:interstate,sans-serif;display:block;width:-moz-fit-content;width:fit-content;padding:13px 60px;color:#fff;text-align:center;text-transform:uppercase;cursor:pointer;background-color:#134055!important;transition:background-color 1s;background-color:#99521e!important"
+    },
+    {
+      "source": "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+      "selector": ".btn--secondary:disabled",
+      "declarations": "cursor:not-allowed;background-color:#454545!important;opacity:.8"
+    },
+    {
+      "source": "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+      "selector": ".btn--secondary:focus,.btn--secondary:hover",
+      "declarations": "background-color:#0c2f40!important;outline:none;transition:background-color .2s;background-color:#814418!important"
+    },
+    {
+      "source": "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+      "selector": ".btn--tertiary",
+      "declarations": "font: 700 20px/1.25 interstate,sans-serif;font-family:interstate,sans-serif;display:block;width:-moz-fit-content;width:fit-content;padding:13px 60px;color:#fff;text-align:center;text-transform:uppercase;cursor:pointer;background-color:#134055!important;transition:background-color 1s;color:#3b4437;background-color:#fff!important"
+    },
+    {
+      "source": "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+      "selector": ".btn--tertiary:disabled",
+      "declarations": "cursor:not-allowed;background-color:#454545!important;opacity:.8"
+    },
+    {
+      "source": "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+      "selector": ".btn--tertiary:focus,.btn--tertiary:hover",
+      "declarations": "background-color:#0c2f40!important;outline:none;transition:background-color .2s;color:#fff;background-color:#262c24!important"
+    },
+    {
+      "source": "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+      "selector": ".btn--quaternary",
+      "declarations": "font: 700 20px/1.25 interstate,sans-serif;font-family:interstate,sans-serif;display:block;width:-moz-fit-content;width:fit-content;padding:13px 60px;text-align:center;text-transform:uppercase;cursor:pointer;background-color:#134055!important;transition:background-color 1s;color:#fff;background-color:#791619!important"
+    },
+    {
+      "source": "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+      "selector": ".btn--quaternary:disabled",
+      "declarations": "cursor:not-allowed;background-color:#454545!important;opacity:.8"
+    },
+    {
+      "source": "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+      "selector": ".btn--quaternary:focus,.btn--quaternary:hover",
+      "declarations": "background-color:#0c2f40!important;outline:none;transition:background-color .2s;color:#791619;background-color:#fff!important"
+    },
+    {
+      "source": "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+      "selector": ".bold-upsell__button",
+      "declarations": "font-family:interstate,sans-serif;font-size:20px!important;font-weight:700!important;text-decoration:underline!important;text-transform:uppercase!important;color:#0c2f40"
+    },
+    {
+      "source": "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+      "selector": ".bold-product__description",
+      "declarations": "font-family:interstate,sans-serif;font-size:16px;line-height:20px;letter-spacing:.64px;text-align:left;opacity:1!important;max-height:300px!important;overflow:auto!important"
+    },
+    {
+      "source": "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+      "selector": ".bold-product__title",
+      "declarations": "height:unset!important;max-height:unset!important;margin-bottom:10px!important;font-family:interstate-condensed,sans-serif!important;font-size:25px!important;font-weight:800!important;line-height:27px!important;letter-spacing:.25px!important;text-align:center!important;color:#0c2f40!important;text-transform:uppercase!important"
+    },
+    {
+      "source": "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+      "selector": ".bold-product__price",
+      "declarations": "display:block!important;margin-bottom:10px;font-family:interstate-condensed,sans-serif;font-size:30px!important;font-weight:800!important;line-height:32px!important;letter-spacing:.3px!important;color:#454545!important;text-align:left"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "SeaBear Smokehouse | Discover the Finest Smoked Salmon & Seafood",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://seabear.com/",
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+        "https://seabear.com/cdn/shop/t/282/assets/header.css?v=161926745800240591391790378632",
+        "https://seabear.com/cdn/shop/t/282/assets/flyout-cart.css?v=168972326526076867011790378632"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+        "https://seabear.com/cdn/shop/t/282/assets/header.css?v=161926745800240591391790378632",
+        "https://seabear.com/cdn/shop/t/282/assets/flyout-cart.css?v=168972326526076867011790378632"
+      ]
+    },
+    "colors.secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+        "https://seabear.com/cdn/shop/t/282/assets/header.css?v=161926745800240591391790378632",
+        "https://seabear.com/cdn/shop/t/282/assets/flyout-cart.css?v=168972326526076867011790378632"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+        "https://seabear.com/cdn/shop/t/282/assets/header.css?v=161926745800240591391790378632",
+        "https://seabear.com/cdn/shop/t/282/assets/flyout-cart.css?v=168972326526076867011790378632"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://seabear.com/",
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+        "https://seabear.com/cdn/shop/t/282/assets/header.css?v=161926745800240591391790378632"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+        "https://seabear.com/cdn/shop/t/282/assets/header.css?v=161926745800240591391790378632",
+        "https://seabear.com/cdn/shop/t/282/assets/flyout-cart.css?v=168972326526076867011790378632"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://seabear.com/",
+        "https://seabear.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://seabear.com/",
+        "https://seabear.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+        "https://cdn.shopify.com/extensions/01a0d903-83fd-7112-ae54-5e114261e8d7/product-upsell-92/assets/app.css",
+        "https://seabear.com/cdn/shop/t/282/assets/header.css?v=161926745800240591391790378632",
+        "https://seabear.com/cdn/shop/t/282/assets/flyout-cart.css?v=168972326526076867011790378632"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://seabear.com/",
+        "https://seabear.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+        "https://cdn.shopify.com/extensions/01a0d903-83fd-7112-ae54-5e114261e8d7/product-upsell-92/assets/app.css",
+        "https://seabear.com/cdn/shop/t/282/assets/header.css?v=161926745800240591391790378632",
+        "https://seabear.com/cdn/shop/t/282/assets/flyout-cart.css?v=168972326526076867011790378632"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632"
+      ]
+    },
+    "colors.warm-tan": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://seabear.com/cdn/shop/t/282/assets/flyout-cart.css?v=168972326526076867011790378632"
+      ]
+    },
+    "colors.disabled": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://seabear.com/",
+        "https://seabear.com/cdn/shop/t/282/assets/theme-new.scss.css?v=37671470416555261301790378632",
+        "https://seabear.com/cdn/shop/t/282/assets/header.css?v=161926745800240591391790378632"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.variant-selector": {
+      "status": "inferred"
+    }
+  }
+}

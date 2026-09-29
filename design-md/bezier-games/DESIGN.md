@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Bezier Games
-description: A board game publisher whose visual system is built on a near-monochrome palette of #dedede and #121212 — a deliberate, almost architectural reduction that lets the saturated game art on every product card do all the emotional work. The brand's Shopify storefront reads as a gallery: white canvas (#ffffff) with a single hairline-thin gray separator, product imagery floating in generous whitespace, and a single typeface — Ssw Fontello — handling both display and body copy. There are no decorative flourishes, no gradient hero sections, no brand illustrations; the design trusts that a well-photographed game box with its own internal color story is more compelling than any brand-applied pattern. Buttons and inputs use a soft 8px radius ({rounded.sm}) that feels approachable without being playful, and the navigation bar stays fixed at the top with a clean white background and dark ink text — no background color shifts, no mega-menus. The checkout flow inherits Shopify's default styling, which means the brand's true design voice is strongest on the product and collection pages: a centered grid of cards, each with a uniform aspect ratio, a title set in Ssw Fontello at 16px, and a price in the same weight. The #dedede color appears as a subtle background on secondary surfaces and as a border on product cards, while #121212 anchors all body text and primary headings. The result is a system that feels less like a brand identity and more like a neutral frame — the game is the hero, and Bezier Games simply provides the cleanest possible vitrine.
+name: "Bezier Games"
+source_url: "https://beziergames.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A board game publisher whose visual system is built on a near-monochrome palette of #dedede and #121212 — a deliberate, almost architectural reduction that lets the saturated game art on every product card do all the emotional work. The brand's Shopify storefront reads as a gallery: white canvas (#ffffff) with a single hairline-thin gray separator, product imagery floating in generous whitespace, and a single typeface — Ssw Fontello — handling both display and body copy. There are no decorative flourishes, no gradient hero sections, no brand illustrations; the design trusts that a well-photographed game box with its own internal color story is more compelling than any brand-applied pattern. Buttons and inputs use a soft 8px radius ({rounded.sm}) that feels approachable without being playful, and the navigation bar stays fixed at the top with a clean white background and dark ink text — no background color shifts, no mega-menus. The checkout flow inherits Shopify's default styling, which means the brand's true design voice is strongest on the product and collection pages: a centered grid of cards, each with a uniform aspect ratio, a title set in Ssw Fontello at 16px, and a price in the same weight. The #dedede color appears as a subtle background on secondary surfaces and as a border on product cards, while #121212 anchors all body text and primary headings. The result is a system that feels less like a brand identity and more like a neutral frame — the game is the hero, and Bezier Games simply provides the cleanest possible vitrine.
 
 colors:
   primary: "#121212"
@@ -345,6 +349,8 @@ components:
 - Search transitions from an inline input to a full-screen overlay on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted color palette is extremely limited (#dedede and #121212 only), which may not represent the full brand system — secondary accents, hover states, and error colors were inferred from common e-commerce patterns rather than extracted from the live site
 - Font family "Ssw Fontello" was the only declaration found; fallback stacks and specific weights (400, 600, 700) were assumed based on typical usage — actual font weights on the site may vary

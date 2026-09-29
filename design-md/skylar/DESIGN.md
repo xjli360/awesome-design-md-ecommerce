@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Skylar
-description: A California-born fragrance house that trades the heavy, opaque perfume-bottle mystique for something lighter, airier, and distinctly coastal. Skylar's design language is a study in restrained warmth — the palette orbits a soft, almost powdery blue-gray (#7e9db2) that appears in everything from navigation accents to product photography backdrops, paired with a clean white canvas (#f9f9f9) and a secondary beige (#fbf7f3) that reads like sun-bleached driftwood. The brand's primary voltage comes not from a single saturated hue but from a muted coral (#e8aca0) used sparingly on badges and sale indicators, while error states borrow a sharp red (#ef4444) that feels intentionally jarring against the otherwise serene palette. Typography splits personality between Beausite Classic — a rounded, friendly sans-serif used for display and body — and Instrument Serif, a delicate serif reserved for product names and editorial moments that whisper "artisanal" without shouting. Buttons are pill-shaped ({rounded.full}) with generous 48px heights, and product cards use a soft 12px radius ({rounded.md}) that echoes the gentle curves of the brand's signature rollerball bottles. The overall effect is one of curated calm: a design system that lets the scent notes — not the interface — do the talking.
+name: "Skylar"
+source_url: "https://skylar.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A California-born fragrance house that trades the heavy, opaque perfume-bottle mystique for something lighter, airier, and distinctly coastal. Skylar's design language is a study in restrained warmth — the palette orbits a soft, almost powdery blue-gray (#7e9db2) that appears in everything from navigation accents to product photography backdrops, paired with a clean white canvas (#f9f9f9) and a secondary beige (#fbf7f3) that reads like sun-bleached driftwood. The brand's primary voltage comes not from a single saturated hue but from a muted coral (#e8aca0) used sparingly on badges and sale indicators, while error states borrow a sharp red (#ef4444) that feels intentionally jarring against the otherwise serene palette. Typography splits personality between Beausite Classic — a rounded, friendly sans-serif used for display and body — and Instrument Serif, a delicate serif reserved for product names and editorial moments that whisper "artisanal" without shouting. Buttons are pill-shaped ({rounded.full}) with generous 48px heights, and product cards use a soft 12px radius ({rounded.md}) that echoes the gentle curves of the brand's signature rollerball bottles. The overall effect is one of curated calm: a design system that lets the scent notes — not the interface — do the talking.
 
 colors:
   primary: "#7e9db2"
@@ -428,6 +432,8 @@ components:
 - Search bar collapses from an expanded input with placeholder text to a compact icon-only trigger on tablet and below
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact hover and focus states for all interactive elements could not be fully extracted from the static site analysis
 - Error state styling for forms (validation messages, error icons) was not reliably captured

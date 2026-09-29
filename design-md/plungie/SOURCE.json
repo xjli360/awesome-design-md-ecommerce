@@ -1,0 +1,719 @@
+{
+  "source_url": "https://plungie.com",
+  "final_url": "https://plungie.com/",
+  "captured_at": "2026-09-28T04:04:23.773866+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://plungie.com",
+      "final_url": "https://plungie.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "29df0ad643ccd1ab229c02964c1ddec919fdb388d8dbe41a9e3f34ad791f94e8",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "3118d9e6d667dcca47a2e496f292b81853c6d77b571a8401c6736cbce416a852",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795089/1790555761100/template_main.min.css",
+      "final_url": "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795089/1790555761100/template_main.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "2f198b6e9bfb1614c400e2ec3355dbbc3cf07fdc09bbd31d0958b71784285ed9",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css",
+      "final_url": "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "d91bb56e21983b3b3d1685a8d29f80b0dcc9ee64fb01e2b528505e74a04006dd",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://plungie.com/hubfs/hub_generated/template_assets/1/127825581608/1790555766154/template_style.css",
+      "final_url": "https://plungie.com/hubfs/hub_generated/template_assets/1/127825581608/1790555766154/template_style.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "036bbe5b21463cf2573e79632638f6b293d87ddd0e525af815c02f7dbf19bb07",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#11284b": {
+      "count": 67,
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795089/1790555761100/template_main.min.css",
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css",
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127825581608/1790555766154/template_style.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 48,
+      "sources": [
+        "https://plungie.com/",
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795089/1790555761100/template_main.min.css",
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css",
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127825581608/1790555766154/template_style.css"
+      ]
+    },
+    "#00bad2": {
+      "count": 22,
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795089/1790555761100/template_main.min.css",
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css"
+      ]
+    },
+    "#c4c4c4": {
+      "count": 11,
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795089/1790555761100/template_main.min.css",
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css",
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127825581608/1790555766154/template_style.css"
+      ]
+    },
+    "#000000": {
+      "count": 8,
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css"
+      ]
+    },
+    "#f2e1d1": {
+      "count": 5,
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css"
+      ]
+    },
+    "#ddecf0": {
+      "count": 5,
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css"
+      ]
+    },
+    "#007786": {
+      "count": 4,
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css"
+      ]
+    },
+    "#50ffff": {
+      "count": 4,
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css"
+      ]
+    },
+    "#ef6b51": {
+      "count": 3,
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795089/1790555761100/template_main.min.css"
+      ]
+    },
+    "#50c7d6": {
+      "count": 3,
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css"
+      ]
+    },
+    "#61789b": {
+      "count": 3,
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css"
+      ]
+    },
+    "#ededed": {
+      "count": 3,
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css"
+      ]
+    },
+    "#8995a6": {
+      "count": 3,
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127825581608/1790555766154/template_style.css"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 2,
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795089/1790555761100/template_main.min.css"
+      ]
+    },
+    "#fefefe": {
+      "count": 2,
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795089/1790555761100/template_main.min.css",
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127825581608/1790555766154/template_style.css"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 2,
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795089/1790555761100/template_main.min.css",
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127825581608/1790555766154/template_style.css"
+      ]
+    },
+    "#515154": {
+      "count": 2,
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css"
+      ]
+    },
+    "#505050": {
+      "count": 2,
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css"
+      ]
+    },
+    "#bad8de": {
+      "count": 2,
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css",
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127825581608/1790555766154/template_style.css"
+      ]
+    },
+    "#a29181": {
+      "count": 2,
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css"
+      ]
+    },
+    "#8d9ca0": {
+      "count": 2,
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css"
+      ]
+    },
+    "#999999": {
+      "count": 2,
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127825581608/1790555766154/template_style.css"
+      ]
+    },
+    "#111111": {
+      "count": 2,
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127825581608/1790555766154/template_style.css"
+      ]
+    },
+    "#13294b": {
+      "count": 1,
+      "sources": [
+        "https://plungie.com/"
+      ]
+    },
+    "#0d1d38": {
+      "count": 1,
+      "sources": [
+        "https://plungie.com/"
+      ]
+    },
+    "#1d3765": {
+      "count": 1,
+      "sources": [
+        "https://plungie.com/"
+      ]
+    },
+    "#39c2d4": {
+      "count": 1,
+      "sources": [
+        "https://plungie.com/"
+      ]
+    },
+    "#f17051": {
+      "count": 1,
+      "sources": [
+        "https://plungie.com/"
+      ]
+    },
+    "#d0d0d0": {
+      "count": 1,
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795089/1790555761100/template_main.min.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 1,
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795089/1790555761100/template_main.min.css"
+      ]
+    },
+    "#5cd3e2": {
+      "count": 1,
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css"
+      ]
+    },
+    "#11284b94": {
+      "count": 1,
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css"
+      ]
+    },
+    "#6b9bad": {
+      "count": 1,
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css"
+      ]
+    },
+    "#ecf4f6": {
+      "count": 1,
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127825581608/1790555766154/template_style.css"
+      ]
+    },
+    "#666666": {
+      "count": 1,
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127825581608/1790555766154/template_style.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://plungie.com/"
+    ],
+    "Plus Jakarta Sans": [
+      "https://plungie.com/",
+      "https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap",
+      "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795089/1790555761100/template_main.min.css",
+      "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css"
+    ],
+    "arial": [
+      "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css"
+    ],
+    "monospace": [
+      "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795089/1790555761100/template_main.min.css"
+    ],
+    "sans-serif": [
+      "https://plungie.com/",
+      "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795089/1790555761100/template_main.min.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://plungie.com/",
+      "selector": ":root",
+      "declarations": "--navy: #13294b;\n        --navy-deep: #0d1d38;\n        --navy-soft: #1d3765;\n        --cyan: #39c2d4;\n        --coral: #f17051;\n        --paper: #ffffff;\n        --mute: rgba(255, 255, 255, 0.55);\n        --mute-strong: rgba(255, 255, 255, 0.8);\n        --line: rgba(255, 255, 255, 0.12);\n        --line-strong: rgba(255, 255, 255, 0.22);"
+    },
+    {
+      "source": "https://plungie.com/",
+      "selector": "body",
+      "declarations": "font-family: 'Plus Jakarta Sans', Arial, sans-serif;\n        background: var(--navy);\n        color: var(--paper);\n        position: relative;\n        display: flex;\n        flex-direction: column;\n        min-height: 100vh;\n        overflow-x: hidden;"
+    },
+    {
+      "source": "https://plungie.com/",
+      "selector": "h1",
+      "declarations": "font-weight: 300;\n        font-size: clamp(2.25rem, 5.5vw, 4.25rem);\n        line-height: 1.05;\n        letter-spacing: -0.025em;\n        text-align: center;\n        margin-bottom: 1.5rem;\n        opacity: 0;\n        animation: fadeUp 1s ease-out 0.35s forwards;\n        max-width: 900px;\n        color: white;\n        font-weight: 700;"
+    },
+    {
+      "source": "https://plungie.com/",
+      "selector": "h1 strong",
+      "declarations": "font-weight: 700;\n        display: inline-block;\n        color: var(--cyan);"
+    },
+    {
+      "source": "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795089/1790555761100/template_main.min.css",
+      "selector": "button,\ninput,\noptgroup,\nselect,\ntextarea",
+      "declarations": "font-family: inherit; \n  font-size: 100%; \n  line-height: 1.15; \n  margin: 0;"
+    },
+    {
+      "source": "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795089/1790555761100/template_main.min.css",
+      "selector": "body",
+      "declarations": "line-height: 1.4;\n  overflow-wrap: break-word;\n  font-family: 'Plus Jakarta Sans', sans-serif;"
+    },
+    {
+      "source": "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795089/1790555761100/template_main.min.css",
+      "selector": ".button.button--simple",
+      "declarations": "position: relative;\n  padding: 0;\n  border: none;\n  border-radius: 0;\n  background-color: transparent;\n  text-decoration: underline;"
+    },
+    {
+      "source": "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795089/1790555761100/template_main.min.css",
+      "selector": ".button.button--simple:hover,\n.button.button--simple:focus",
+      "declarations": "border: none;\n  background-color: transparent;"
+    },
+    {
+      "source": "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795089/1790555761100/template_main.min.css",
+      "selector": "button:disabled,\n.button:disabled,\n.hs-button:disabled",
+      "declarations": "border-color: #f1f1f1;\n  background-color: #f1f1f1;\n  pointer-events: none;"
+    },
+    {
+      "source": "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795089/1790555761100/template_main.min.css",
+      "selector": "button:disabled,\n.button:disabled,\n.button.button--secondary:disabled,\n.button.button--simple:disabled",
+      "declarations": "color: #d0d0d0;"
+    },
+    {
+      "source": "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795089/1790555761100/template_main.min.css",
+      "selector": ".no-button,\n.no-button:hover,\n.no-button:focus,\n.no-button:active",
+      "declarations": "padding: 0;\n  border: none;\n  border-radius: 0;\n  margin-bottom: 0;\n  background: none;\n  color: initial;\n  font-family: inherit;\n  font-size: inherit;\n  font-style: inherit;\n  font-weight: inherit;\n  letter-spacing: inherit;\n  line-height: inherit;\n  text-align: left;\n  text-decoration: none;\n  transition: none;"
+    },
+    {
+      "source": "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795089/1790555761100/template_main.min.css",
+      "selector": "form .pika-table tbody td.is-empty",
+      "declarations": "background-color: transparent !important;"
+    },
+    {
+      "source": "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795089/1790555761100/template_main.min.css",
+      "selector": "form input[type=file]::file-selector-button:hover,\nform input[type=file]:hover",
+      "declarations": "cursor:pointer;\n  border: 2px solid #00BAD2;\n  color: #00BAD2;"
+    },
+    {
+      "source": "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795089/1790555761100/template_main.min.css",
+      "selector": "form input[type=file]::file-selector-button",
+      "declarations": "color: #11284b;\n  padding: 6px 12px;\n  border: 2px solid #11284b;\n  border-radius: 8px;\n  font-size:13px;\n  background-color: transparent;\n  display: block;\n  margin-bottom: 15px;\n  font-weight:700;\n  cursor:pointer;"
+    },
+    {
+      "source": "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css",
+      "selector": "body",
+      "declarations": "font-family: 'Plus Jakarta Sans', arial; font-style: normal; font-weight: 400; text-decoration: none;\n  background-color: #ffffff;\n  color: #11284B;\n  font-size: 16px;"
+    },
+    {
+      "source": "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css",
+      "selector": "h1",
+      "declarations": "font-family: 'Plus Jakarta Sans', arial; font-style: normal; font-weight: 700; text-decoration: none;\n  color: #11284B;\n  font-size: 64px;\n  text-transform: none;"
+    },
+    {
+      "source": "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css",
+      "selector": "button,\n.button,\n.hs-button",
+      "declarations": "padding-top: 8px;\npadding-right: 24px;\npadding-bottom: 8px;\npadding-left: 24px;\n\n  font-family: 'Plus Jakarta Sans', arial; font-style: normal; font-weight: 700; text-decoration: none;\n  background-color: \n\n  \n  \n    \n  \n\n\n  rgba(0, 186, 210, 1.0)\n\n;\n  border-radius: 32px;\n  color: #11284B;\n  fill: #11284B;\n  font-size: 16px;\n  text-transform: none;"
+    },
+    {
+      "source": "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css",
+      "selector": "button:hover,\nbutton:focus,\nbutton:active,\n.button:hover,\n.button:focus,\n.button:active,\n.hs-button:hover,\n.hs-button:focus,\n.hs-button:active",
+      "declarations": "font-family: 'Plus Jakarta Sans', arial; font-style: normal; font-weight: 700; text-decoration: none;\n  background-color: \n\n  \n  \n    \n  \n\n\n  rgba(0, 119, 134, 1.0)\n\n;\n  color: #fff;\n  fill: #fff;"
+    },
+    {
+      "source": "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css",
+      "selector": "button:active,\n.button:active,\n.hs-button:active",
+      "declarations": "border: 1px solid #5CD3E2;\n\n  font-family: 'Plus Jakarta Sans', arial; font-style: normal; font-weight: 700; text-decoration: none;\n  background-color: rgba(80, 199, 214, 100);\n  border-color: #50ffff;\n  color: #fff;\n  fill: #fff;"
+    },
+    {
+      "source": "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css",
+      "selector": ".button.button--secondary",
+      "declarations": "border: 2px solid #11284B;\n\n  font-family: 'Plus Jakarta Sans', arial; font-style: normal; font-weight: 700; text-decoration: none;\n  background-color: \n\n  \n  \n    \n  \n\n\n  rgba(255, 255, 255, 0.0)\n\n;\n  border-radius: 32px;\n  color: #11284b;\n  fill: #11284b;\n  text-transform: none;"
+    },
+    {
+      "source": "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css",
+      "selector": ".button.button--secondary:hover,\n.button.button--secondary:focus,\n.button.button--secondary:active",
+      "declarations": "border: 2px solid #00BAD2;\n\n  font-family: 'Plus Jakarta Sans', arial; font-style: normal; font-weight: 700; text-decoration: none;\n  background-color: \n\n  \n  \n    \n  \n\n\n  rgba(255, 255, 255, 1.0)\n\n;\n  color: #00BAD2;\n  fill: #00BAD2;"
+    },
+    {
+      "source": "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css",
+      "selector": ".button.button--secondary:active",
+      "declarations": "font-family: 'Plus Jakarta Sans', arial; font-style: normal; font-weight: 700; text-decoration: none;\n  background-color: rgba(255, 255, 255, 100);\n  border: 2px solid #00BAD2;\n\n\n  border: 2px solid #00BAD2;\n ;\n  color: #00BAD2;\n  fill: #00BAD2;"
+    },
+    {
+      "source": "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css",
+      "selector": ".button.button--territory",
+      "declarations": "padding-top: 8px;\npadding-right: 24px;\npadding-bottom: 8px;\npadding-left: 24px;\n\n  font-family: 'Plus Jakarta Sans', arial; font-style: normal; font-weight: 600; text-decoration: none;\n  background-color: \n\n  \n  \n    \n  \n\n\n  rgba(186, 216, 222, 1.0)\n\n;\n  border-radius: 32px;\n  color: #11284b;\n  fill: #11284b;\n  font-size: 16px;\n  text-transform: none;"
+    },
+    {
+      "source": "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css",
+      "selector": ".button.button--territory:hover,\n.button.button--territory:focus,\n.button.button--territory:active",
+      "declarations": "font-family: 'Plus Jakarta Sans', arial; font-style: normal; font-weight: 700; text-decoration: none;\n  background-color: \n\n  \n  \n    \n  \n\n\n  rgba(107, 155, 173, 1.0)\n\n;\n  color: #11284B;\n  fill: #11284B;"
+    },
+    {
+      "source": "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css",
+      "selector": ".button.button--territory:active",
+      "declarations": "font-family: 'Plus Jakarta Sans', arial; font-style: normal; font-weight: 700; text-decoration: none;\n  background-color: rgba(187, 235, 253, 100);\n  border-color: #50ffff;\n  color: #11284B;\n  fill: #11284B;"
+    },
+    {
+      "source": "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css",
+      "selector": ".button.button-custom-icon .button-link:hover,\n.button.button-custom-icon .button-link:focus,\n.button.button-custom-icon .button-link:active",
+      "declarations": "color: #00BAD2;"
+    },
+    {
+      "source": "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css",
+      "selector": ".button.button--simple .button-link:hover,\n.button.button--simple .button-link:focus,\n.button.button--simple .button-link:active",
+      "declarations": "color: #00BAD2;"
+    },
+    {
+      "source": "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css",
+      "selector": "form td.is-today .pika-button",
+      "declarations": "color: #11284B;"
+    },
+    {
+      "source": "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css",
+      "selector": "form .is-selected .pika-button",
+      "declarations": "background-color: #00BAD2;\n  color: #11284B;"
+    },
+    {
+      "source": "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css",
+      "selector": "form .pika-button:hover",
+      "declarations": "background-color: #11284b !important;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Plunge Pools | Premium Swimming Pools | Plungie USA & Australia",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795089/1790555761100/template_main.min.css",
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795089/1790555761100/template_main.min.css",
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css",
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127825581608/1790555766154/template_style.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://plungie.com/",
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795089/1790555761100/template_main.min.css",
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css",
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127825581608/1790555766154/template_style.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795089/1790555761100/template_main.min.css",
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css",
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127825581608/1790555766154/template_style.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795089/1790555761100/template_main.min.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795089/1790555761100/template_main.min.css",
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css",
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127825581608/1790555766154/template_style.css"
+      ]
+    },
+    "colors.navy-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://plungie.com/"
+      ]
+    },
+    "colors.navy-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://plungie.com/"
+      ]
+    },
+    "colors.navy-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://plungie.com/"
+      ]
+    },
+    "colors.cyan-accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://plungie.com/"
+      ]
+    },
+    "colors.cyan-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css"
+      ]
+    },
+    "colors.coral": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://plungie.com/"
+      ]
+    },
+    "colors.hover-state": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css"
+      ]
+    },
+    "colors.disabled-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795089/1790555761100/template_main.min.css"
+      ]
+    },
+    "colors.disabled-text": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795089/1790555761100/template_main.min.css"
+      ]
+    },
+    "colors.cream": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css"
+      ]
+    },
+    "colors.overlay-navy": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://plungie.com/hubfs/hub_generated/template_assets/1/127821795086/1790555758745/template_theme-overrides.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.pill": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.model-selector": {
+      "status": "inferred"
+    }
+  }
+}

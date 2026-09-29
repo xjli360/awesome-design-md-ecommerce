@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Razer
-description: A neon-green voltage (#44d62c) cuts through a blackout canvas (#111111, #222222, #040404) — this is the visual signature of a brand built for competitive gaming, where every pixel serves speed and clarity. The primary green is not an accent; it is the single source of light, used for primary CTAs, active states, category highlights, and the three-headed snake logo that marks every product. The palette is aggressively binary — near-black backgrounds, white text on dark surfaces, and that green as the only chromatic permission. Secondary accents like #ff9c07 (amber) and #c8323c (red) appear sparingly, typically for warning states or limited-edition hardware, while #28aadc (cyan) occasionally surfaces in software UI. Typography runs Open Sans at modest weights (400 for body, 600–700 for headings), set at 14–16px for readability during long sessions, with display sizes rarely exceeding 28px. The system avoids decorative type entirely — every character choice prioritizes legibility at a glance. Corners are sharp (`{rounded.none}`) on hardware imagery and navigation, but inputs and buttons use a small `{rounded.sm}` (4px) radius to prevent visual harshness at scale. The brand's design language is one of controlled intensity: generous padding (`{spacing.lg}`–`{spacing.xxl}`) around content blocks, high-contrast borders (`{colors.hairline}` at #444444 on dark surfaces), and a complete absence of gradient, shadow, or blur effects. Every component feels engineered for reaction time — the interface is a cockpit, not a brochure.
+name: "Razer"
+source_url: "https://www.razer.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A neon-green voltage (#44d62c) cuts through a blackout canvas (#111111, #222222, #040404) — this is the visual signature of a brand built for competitive gaming, where every pixel serves speed and clarity. The primary green is not an accent; it is the single source of light, used for primary CTAs, active states, category highlights, and the three-headed snake logo that marks every product. The palette is aggressively binary — near-black backgrounds, white text on dark surfaces, and that green as the only chromatic permission. Secondary accents like #ff9c07 (amber) and #c8323c (red) appear sparingly, typically for warning states or limited-edition hardware, while #28aadc (cyan) occasionally surfaces in software UI. Typography runs Open Sans at modest weights (400 for body, 600–700 for headings), set at 14–16px for readability during long sessions, with display sizes rarely exceeding 28px. The system avoids decorative type entirely — every character choice prioritizes legibility at a glance. Corners are sharp (`{rounded.none}`) on hardware imagery and navigation, but inputs and buttons use a small `{rounded.sm}` (4px) radius to prevent visual harshness at scale. The brand's design language is one of controlled intensity: generous padding (`{spacing.lg}`–`{spacing.xxl}`) around content blocks, high-contrast borders (`{colors.hairline}` at #444444 on dark surfaces), and a complete absence of gradient, shadow, or blur effects. Every component feels engineered for reaction time — the interface is a cockpit, not a brochure.
 
 colors:
   primary: "#44d62c"
@@ -597,6 +601,8 @@ components:
 - Breadcrumbs truncate to show only current and parent page on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for all components are inferred from common patterns; actual hover timing and micro-interactions (e.g., button press animation, card lift) could not be extracted.
 - Error styling for forms (red border + error-bg background) is based on the presence of #4e1317 and #d0021b in the extracted palette, but exact error message typography and placement are assumed.

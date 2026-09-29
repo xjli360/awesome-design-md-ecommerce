@@ -1,0 +1,1199 @@
+{
+  "source_url": "https://thepetlabco.com/",
+  "final_url": "https://thepetlabco.com/",
+  "captured_at": "2026-09-29T03:59:18.262366+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://thepetlabco.com/",
+      "final_url": "https://thepetlabco.com/",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "9add32a7015783b59df8439d19f4a93769815269b5a7cdfb0730f628d10e3480",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://thepetlabco.com/_next/static/css/54b447def8842702.css",
+      "final_url": "https://thepetlabco.com/_next/static/css/54b447def8842702.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4ce5681b346c5320fc927fefdd4fe2ac0b839a230e83421a7e964403ecc71b2b",
+      "snapshot": "rendered-style-1.css"
+    },
+    {
+      "url": "https://thepetlabco.com/_next/static/css/f12552428690680b.css",
+      "final_url": "https://thepetlabco.com/_next/static/css/f12552428690680b.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4a415f3d7e621587f92907d3bb529986782d847fd8f3378e196b53cf0feb6ef9",
+      "snapshot": "rendered-style-2.css"
+    },
+    {
+      "url": "https://thepetlabco.com/#computed-style-snapshot",
+      "final_url": "https://thepetlabco.com/#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "61a2911d211aec4f4516040b0e7775a0ceea58d49b24f637c08d7b865b18b6e8",
+      "snapshot": "rendered-style-3.css"
+    }
+  ],
+  "colors": {
+    "#e5e7eb": {
+      "count": 153,
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/#computed-style-snapshot"
+      ]
+    },
+    "#ffffff": {
+      "count": 66,
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css",
+        "https://thepetlabco.com/_next/static/css/f12552428690680b.css",
+        "https://thepetlabco.com/#computed-style-snapshot"
+      ]
+    },
+    "#3f424d": {
+      "count": 55,
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/_next/static/css/f12552428690680b.css",
+        "https://thepetlabco.com/#computed-style-snapshot"
+      ]
+    },
+    "#000000": {
+      "count": 47,
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css",
+        "https://thepetlabco.com/#computed-style-snapshot"
+      ]
+    },
+    "#1e1f24": {
+      "count": 38,
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css",
+        "https://thepetlabco.com/_next/static/css/f12552428690680b.css",
+        "https://thepetlabco.com/#computed-style-snapshot"
+      ]
+    },
+    "#076d08": {
+      "count": 19,
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css",
+        "https://thepetlabco.com/_next/static/css/f12552428690680b.css",
+        "https://thepetlabco.com/#computed-style-snapshot"
+      ]
+    },
+    "#008900": {
+      "count": 19,
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css",
+        "https://thepetlabco.com/_next/static/css/f12552428690680b.css",
+        "https://thepetlabco.com/#computed-style-snapshot"
+      ]
+    },
+    "#d8dadf": {
+      "count": 16,
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css",
+        "https://thepetlabco.com/_next/static/css/f12552428690680b.css",
+        "https://thepetlabco.com/#computed-style-snapshot"
+      ]
+    },
+    "#f7f8f8": {
+      "count": 13,
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css",
+        "https://thepetlabco.com/_next/static/css/f12552428690680b.css",
+        "https://thepetlabco.com/#computed-style-snapshot"
+      ]
+    },
+    "#ff9a0a": {
+      "count": 9,
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css",
+        "https://thepetlabco.com/_next/static/css/f12552428690680b.css"
+      ]
+    },
+    "#001c72": {
+      "count": 9,
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css"
+      ]
+    },
+    "#f5f5f1": {
+      "count": 8,
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/_next/static/css/f12552428690680b.css",
+        "https://thepetlabco.com/#computed-style-snapshot"
+      ]
+    },
+    "#00000000": {
+      "count": 8,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#b5b9c4": {
+      "count": 8,
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/#computed-style-snapshot"
+      ]
+    },
+    "#8d92a3": {
+      "count": 6,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#007700": {
+      "count": 6,
+      "sources": [
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css"
+      ]
+    },
+    "#33498e": {
+      "count": 5,
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css"
+      ]
+    },
+    "#7bf502": {
+      "count": 5,
+      "sources": [
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css"
+      ]
+    },
+    "#ccd2e3": {
+      "count": 4,
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 4,
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css"
+      ]
+    },
+    "#b91c1c": {
+      "count": 4,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#ff8700": {
+      "count": 4,
+      "sources": [
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css"
+      ]
+    },
+    "#99a4c7": {
+      "count": 3,
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css"
+      ]
+    },
+    "#cd0053": {
+      "count": 3,
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css"
+      ]
+    },
+    "#202020": {
+      "count": 3,
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css"
+      ]
+    },
+    "#f5f8ff": {
+      "count": 3,
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css"
+      ]
+    },
+    "#822f40": {
+      "count": 3,
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/#computed-style-snapshot"
+      ]
+    },
+    "#68d168": {
+      "count": 3,
+      "sources": [
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css"
+      ]
+    },
+    "#078e07": {
+      "count": 3,
+      "sources": [
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css"
+      ]
+    },
+    "#e0ff01": {
+      "count": 3,
+      "sources": [
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css"
+      ]
+    },
+    "#fcf1e0": {
+      "count": 2,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#289901": {
+      "count": 2,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#f54b34": {
+      "count": 2,
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css"
+      ]
+    },
+    "#00a7ca": {
+      "count": 2,
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css"
+      ]
+    },
+    "#53aa34": {
+      "count": 2,
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css"
+      ]
+    },
+    "#0c111c": {
+      "count": 2,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#354d98": {
+      "count": 2,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#265530": {
+      "count": 2,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#754782": {
+      "count": 2,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#a1490b": {
+      "count": 2,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#7d3923": {
+      "count": 2,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#57c957": {
+      "count": 2,
+      "sources": [
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css"
+      ]
+    },
+    "#952200": {
+      "count": 2,
+      "sources": [
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css"
+      ]
+    },
+    "#eb4202": {
+      "count": 2,
+      "sources": [
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 2,
+      "sources": [
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 2,
+      "sources": [
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#6677aa": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#e6e8f1": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#f5f7f9": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#f2f4f8": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#9b0b1b": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#d7828b": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#c95865": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#fff0f0": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#f2d5d8": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#f7f8fb": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#282828": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#888888": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#dcdcdc": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#e41111": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#22a594": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#fb6728": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#704697": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#f8d4ce": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#bee8e3": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#a40042": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#729f00": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#d3edea": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#006800": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#185c01": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#afafaf": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#001144": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#d73375": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#7b0032": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#991b1b": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#7f1d1d": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#ebf2fb": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#e9f8ec": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#f7f2f9": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#fff7df": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#f9f2e3": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#fbf0f0": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#ededf1": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#002b7a": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#e7e6dd": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#e0ebff": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#cee0f5": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#cdedd3": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#eee1f3": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#ffe9b0": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#f2e2c1": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#f5dcde": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#bc2e3e": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#9fa3af": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#f5f6f1": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#f7fff6": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#0b5c0d": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#e2e2e4": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "#99dcea": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css"
+      ]
+    },
+    "#ff0b69": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css"
+      ]
+    },
+    "#9eed9e": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css"
+      ]
+    },
+    "#38ab38": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css"
+      ]
+    },
+    "#7b89a6": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css"
+      ]
+    },
+    "#a9a9a9": {
+      "count": 1,
+      "sources": [
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Archivo": [
+      "https://thepetlabco.com/",
+      "https://thepetlabco.com/_next/static/css/f12552428690680b.css",
+      "https://thepetlabco.com/#computed-style-snapshot"
+    ],
+    "Archivo Fallback": [
+      "https://thepetlabco.com/",
+      "https://thepetlabco.com/_next/static/css/f12552428690680b.css"
+    ],
+    "Consolas": [
+      "https://thepetlabco.com/"
+    ],
+    "Copernicus": [
+      "https://thepetlabco.com/",
+      "https://thepetlabco.com/_next/static/css/54b447def8842702.css",
+      "https://thepetlabco.com/#computed-style-snapshot"
+    ],
+    "Courier New": [
+      "https://thepetlabco.com/"
+    ],
+    "Inter": [
+      "https://thepetlabco.com/",
+      "https://thepetlabco.com/_next/static/css/54b447def8842702.css",
+      "https://thepetlabco.com/#computed-style-snapshot"
+    ],
+    "Inter Fallback": [
+      "https://thepetlabco.com/_next/static/css/54b447def8842702.css",
+      "https://thepetlabco.com/#computed-style-snapshot"
+    ],
+    "Liberation Mono": [
+      "https://thepetlabco.com/"
+    ],
+    "Menlo": [
+      "https://thepetlabco.com/"
+    ],
+    "Monaco": [
+      "https://thepetlabco.com/"
+    ],
+    "Neuzeit-Grotesk": [
+      "https://thepetlabco.com/",
+      "https://thepetlabco.com/#computed-style-snapshot"
+    ],
+    "SFMono-Regular": [
+      "https://thepetlabco.com/"
+    ],
+    "monospace": [
+      "https://thepetlabco.com/"
+    ],
+    "sans-serif": [
+      "https://thepetlabco.com/",
+      "https://thepetlabco.com/#computed-style-snapshot"
+    ],
+    "serif": [
+      "https://thepetlabco.com/",
+      "https://thepetlabco.com/#computed-style-snapshot"
+    ],
+    "slick": [
+      "https://thepetlabco.com/_next/static/css/54b447def8842702.css"
+    ],
+    "ui-monospace": [
+      "https://thepetlabco.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://thepetlabco.com/",
+      "selector": ":root",
+      "declarations": "--oke-text-fontFamily:var(--font-inter),sans-serif!important;--oke-heading-fontFamily:var(--font-inter),sans-serif!important;--oke-button-fontFamily:var(--font-inter),sans-serif!important;--oke-input-fontFamily:var(--font-inter),sans-serif!important;--oke-title-fontFamily:var(--font-inter),sans-serif!important;--oke-bodyText-fontFamily:var(--font-inter),sans-serif!important"
+    },
+    {
+      "source": "https://thepetlabco.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-reviewCarousel .oke-reviewContent-body p,.okeReviews[data-oke-container] .oke-reviewCarousel .oke-reviewContent-readMore",
+      "declarations": "--oke-text-primaryColor:var(--color-text-secondary);color:var(--oke-text-primaryColor);line-height:1.4"
+    },
+    {
+      "source": "https://thepetlabco.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-modal .oke-bodyText",
+      "declarations": "color:var(--oke-text-secondaryColor);font-size:16px;line-height:1.4!important"
+    },
+    {
+      "source": "https://thepetlabco.com/",
+      "selector": ".oke-reviewContent-body p",
+      "declarations": "color:#3f424d!important"
+    },
+    {
+      "source": "https://thepetlabco.com/",
+      "selector": ":root",
+      "declarations": "--oke-text-fontFamily:\"Inter\",sans-serif!important;--oke-heading-fontFamily:\"Inter\",sans-serif!important;--oke-button-fontFamily:\"Inter\",sans-serif!important;--oke-input-fontFamily:\"Inter\",sans-serif!important;--oke-title-fontFamily:\"Inter\",sans-serif!important;--oke-bodyText-fontFamily:\"Inter\",sans-serif!important;--oke-button-fontWeight:600!important;--oke-button-fontSize:16px!important;--oke-text-primaryColor:#1e1f24!important;--oke-stars-foregroundColor:#ff9a0a!important;--oke-highlightColor:#076d08!important;--oke-filter-borderColor:#d8dadf!important;--oke-border-color:#d8dadf!important;--oke-shadingColor:#f5f5f1!important;--oke-button-backgroundColor:#ffffff!important;--oke-button-back"
+    },
+    {
+      "source": "https://thepetlabco.com/",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;line-height:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://thepetlabco.com/",
+      "selector": "button,[type='button'],[type='reset'],[type='submit']",
+      "declarations": "-webkit-appearance:button;background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://thepetlabco.com/",
+      "selector": ".text-editor h1",
+      "declarations": "font-size:32px;line-height:1.2;font-weight:600;font-family:Copernicus, serif"
+    },
+    {
+      "source": "https://thepetlabco.com/",
+      "selector": ".text-editor h1",
+      "declarations": "font-size:48px;line-height:1.2;font-weight:600;font-family:Copernicus, serif"
+    },
+    {
+      "source": "https://thepetlabco.com/",
+      "selector": ".text-body-text-14",
+      "declarations": "font-size:14px;line-height:1.4;font-weight:400;font-family:var(--font-inter), sans-serif"
+    },
+    {
+      "source": "https://thepetlabco.com/",
+      "selector": ".text-body-text-14-semibold",
+      "declarations": "font-size:14px;line-height:1.4;font-weight:600;font-family:var(--font-inter), sans-serif"
+    },
+    {
+      "source": "https://thepetlabco.com/",
+      "selector": ".text-body-text-16",
+      "declarations": "font-size:16px;line-height:1.4;font-weight:400;font-family:var(--font-inter), sans-serif"
+    },
+    {
+      "source": "https://thepetlabco.com/",
+      "selector": ".text-body-text-16-semibold",
+      "declarations": "font-size:16px;line-height:1.4;font-weight:600;font-family:var(--font-inter), sans-serif"
+    },
+    {
+      "source": "https://thepetlabco.com/",
+      "selector": ".text-body-text-18-semibold",
+      "declarations": "font-size:18px;line-height:1.4;font-weight:600;font-family:var(--font-inter), sans-serif"
+    },
+    {
+      "source": "https://thepetlabco.com/",
+      "selector": ".text-header-text-16-sans",
+      "declarations": "font-size:16px;line-height:1.2;font-weight:600;font-family:var(--font-inter), sans-serif"
+    },
+    {
+      "source": "https://thepetlabco.com/",
+      "selector": ".text-header-text-18-sans",
+      "declarations": "font-size:18px;line-height:1.2;font-weight:600;font-family:var(--font-inter), sans-serif"
+    },
+    {
+      "source": "https://thepetlabco.com/",
+      "selector": ".text-header-text-20-sans",
+      "declarations": "font-size:20px;line-height:1.2;font-weight:600;font-family:var(--font-inter), sans-serif"
+    },
+    {
+      "source": "https://thepetlabco.com/",
+      "selector": ".text-header-text-24",
+      "declarations": "font-size:24px;line-height:1.2;font-weight:600;font-family:Copernicus, serif"
+    },
+    {
+      "source": "https://thepetlabco.com/",
+      "selector": ".text-header-text-32",
+      "declarations": "font-size:32px;line-height:1.2;font-weight:600;font-family:Copernicus, serif"
+    },
+    {
+      "source": "https://thepetlabco.com/",
+      "selector": ".rb-xs\\:text-body-text-14",
+      "declarations": "font-size:14px;line-height:1.4;font-weight:400;font-family:var(--font-inter), sans-serif"
+    },
+    {
+      "source": "https://thepetlabco.com/",
+      "selector": ".rb-xs\\:text-header-text-32",
+      "declarations": "font-size:32px;line-height:1.2;font-weight:600;font-family:Copernicus, serif"
+    },
+    {
+      "source": "https://thepetlabco.com/",
+      "selector": ".rb-xs\\:text-header-text-40",
+      "declarations": "font-size:40px;line-height:1.2;font-weight:600;font-family:Copernicus, serif"
+    },
+    {
+      "source": "https://thepetlabco.com/",
+      "selector": ".rb-sm\\:text-body-text-16",
+      "declarations": "font-size:16px;line-height:1.4;font-weight:400;font-family:var(--font-inter), sans-serif"
+    },
+    {
+      "source": "https://thepetlabco.com/",
+      "selector": ".rb-sm\\:text-body-text-16-semibold",
+      "declarations": "font-size:16px;line-height:1.4;font-weight:600;font-family:var(--font-inter), sans-serif"
+    },
+    {
+      "source": "https://thepetlabco.com/",
+      "selector": ".rb-sm\\:text-body-text-18",
+      "declarations": "font-size:18px;line-height:1.4;font-weight:400;font-family:var(--font-inter), sans-serif"
+    },
+    {
+      "source": "https://thepetlabco.com/",
+      "selector": ".rb-sm\\:text-header-text-18-sans",
+      "declarations": "font-size:18px;line-height:1.2;font-weight:600;font-family:var(--font-inter), sans-serif"
+    },
+    {
+      "source": "https://thepetlabco.com/",
+      "selector": ".rb-sm\\:text-header-text-20-sans",
+      "declarations": "font-size:20px;line-height:1.2;font-weight:600;font-family:var(--font-inter), sans-serif"
+    },
+    {
+      "source": "https://thepetlabco.com/",
+      "selector": ".rb-sm\\:text-header-text-24-sans",
+      "declarations": "font-size:24px;line-height:1.2;font-weight:600;font-family:var(--font-inter), sans-serif"
+    },
+    {
+      "source": "https://thepetlabco.com/",
+      "selector": ".rb-sm\\:text-header-text-32",
+      "declarations": "font-size:32px;line-height:1.2;font-weight:600;font-family:Copernicus, serif"
+    },
+    {
+      "source": "https://thepetlabco.com/",
+      "selector": ".rb-sm\\:text-header-text-40",
+      "declarations": "font-size:40px;line-height:1.2;font-weight:600;font-family:Copernicus, serif"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "PetLabCo®: America's #1 Dog Dental Powder, Probiotic Chew & More",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "ca7efb6fd728ecf1b954f2fcaf74315dc42aa170697ba2a513b55974c4341cad"
+    }
+  ],
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css",
+        "https://thepetlabco.com/_next/static/css/f12552428690680b.css",
+        "https://thepetlabco.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css",
+        "https://thepetlabco.com/_next/static/css/f12552428690680b.css",
+        "https://thepetlabco.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/_next/static/css/f12552428690680b.css",
+        "https://thepetlabco.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css",
+        "https://thepetlabco.com/_next/static/css/f12552428690680b.css",
+        "https://thepetlabco.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/_next/static/css/f12552428690680b.css",
+        "https://thepetlabco.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css",
+        "https://thepetlabco.com/_next/static/css/f12552428690680b.css",
+        "https://thepetlabco.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css",
+        "https://thepetlabco.com/_next/static/css/f12552428690680b.css",
+        "https://thepetlabco.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.accent-success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css",
+        "https://thepetlabco.com/_next/static/css/f12552428690680b.css",
+        "https://thepetlabco.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.accent-star": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css",
+        "https://thepetlabco.com/_next/static/css/f12552428690680b.css"
+      ]
+    },
+    "colors.accent-warm": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css"
+      ]
+    },
+    "colors.alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://thepetlabco.com/"
+      ]
+    },
+    "colors.badge-magenta": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/_next/static/css/54b447def8842702.css"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://thepetlabco.com/",
+        "https://thepetlabco.com/#computed-style-snapshot"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.subscription-toggle": {
+      "status": "inferred"
+    }
+  }
+}

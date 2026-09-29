@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Ettitude
-description: Ettitude is a sanctuary of calm, a luxury bamboo bedding brand that speaks in hushed, earthy tones rather than loud declarations. The palette is drawn from the quiet corners of nature — the deep ink of a forest at dusk (`#212121`), the soft charcoal of river stones (`#3f3d3d`), and the muted sage of dried leaves (`#464f4d`). Against this grounding, the brand uses a warm, desaturated gold (`#ab8c52`) as its primary accent, a subtle nod to the sun filtering through bamboo leaves. The canvas is not a stark white but a gentle off-white (`#f2f3ef`), a surface that feels tactile and lived-in, like well-worn linen. This is a system built on restraint: `{colors.ink}` for bold headlines, `{colors.body}` (`#494742`) for comfortable reading, and `{colors.muted}` (`#3c3a36`) for secondary information that never shouts. The typography leans on the clean, geometric lines of Figtree and the approachable warmth of Inter, with Montserrat reserved for refined display moments. The signature design move is the absence of hard edges — every corner is softly rounded (`{rounded.sm}` to `{rounded.lg}`), every card feels like a pillow, and the overall mood is one of serene, sustainable luxury. The brand trusts its material story — the cool touch of bamboo, the promise of a perfect night's sleep — over aggressive marketing, letting the `{colors.hairline}` (`#e5e5e5`) and `{colors.hairline-soft}` (`#ebede5`) borders gently frame the product without distraction.
+name: "Ettitude"
+source_url: "https://www.ettitude.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Ettitude is a sanctuary of calm, a luxury bamboo bedding brand that speaks in hushed, earthy tones rather than loud declarations. The palette is drawn from the quiet corners of nature — the deep ink of a forest at dusk (`#212121`), the soft charcoal of river stones (`#3f3d3d`), and the muted sage of dried leaves (`#464f4d`). Against this grounding, the brand uses a warm, desaturated gold (`#ab8c52`) as its primary accent, a subtle nod to the sun filtering through bamboo leaves. The canvas is not a stark white but a gentle off-white (`#f2f3ef`), a surface that feels tactile and lived-in, like well-worn linen. This is a system built on restraint: `{colors.ink}` for bold headlines, `{colors.body}` (`#494742`) for comfortable reading, and `{colors.muted}` (`#3c3a36`) for secondary information that never shouts. The typography leans on the clean, geometric lines of Figtree and the approachable warmth of Inter, with Montserrat reserved for refined display moments. The signature design move is the absence of hard edges — every corner is softly rounded (`{rounded.sm}` to `{rounded.lg}`), every card feels like a pillow, and the overall mood is one of serene, sustainable luxury. The brand trusts its material story — the cool touch of bamboo, the promise of a perfect night's sleep — over aggressive marketing, letting the `{colors.hairline}` (`#e5e5e5`) and `{colors.hairline-soft}` (`#ebede5`) borders gently frame the product without distraction.
 
 colors:
   primary: "#ab8c52"
@@ -343,6 +347,8 @@ components:
 - Product image galleries switch from a grid to a single-image carousel on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for buttons and links beyond the primary active/disabled states could not be reliably extracted; a subtle opacity or background shift is assumed.
 - Error styling for form inputs (e.g., red borders, error messages) was not observed; a standard red (`#c13515`) is assumed for error text.

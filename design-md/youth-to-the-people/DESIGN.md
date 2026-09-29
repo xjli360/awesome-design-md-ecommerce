@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Youth to the People
-description: A clean, clinical-yet-warm skincare brand that lives in the tension between laboratory precision and botanical vitality. The palette is deliberately restrained — a single dark neutral `#313131` anchors nearly all text and structural elements against a white canvas, creating a crisp, editorial feel that lets product photography and ingredient storytelling take center stage. There is no secondary brand color in the traditional sense; instead, the brand trusts the green of kale, the amber of squalane, and the translucency of their glass bottles to provide the color narrative. Typography runs a system-native stack of `-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, system-ui` — a deliberate choice that reads as modern, accessible, and unpretentious, avoiding the bespoke fashion-font route many competitors take. Buttons and cards use soft rounding (`{rounded.sm}` ~8px for CTAs, `{rounded.md}` ~12px for product cards), never fully pill-shaped, preserving a subtle seriousness. The overall mood is that of a minimalist skincare lab: generous whitespace, thin hairlines (`{colors.hairline}`), muted secondary text (`{colors.muted}`), and a surface-soft background (`{colors.surface-soft}`) that suggests a clean, uncluttered countertop. The brand's voice is direct, ingredient-forward, and slightly aspirational — "superfood skincare" without the hippie aesthetic.
+name: "Youth to the People"
+source_url: "https://www.youthtothepeople.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A clean, clinical-yet-warm skincare brand that lives in the tension between laboratory precision and botanical vitality. The palette is deliberately restrained — a single dark neutral `#313131` anchors nearly all text and structural elements against a white canvas, creating a crisp, editorial feel that lets product photography and ingredient storytelling take center stage. There is no secondary brand color in the traditional sense; instead, the brand trusts the green of kale, the amber of squalane, and the translucency of their glass bottles to provide the color narrative. Typography runs a system-native stack of `-apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, system-ui` — a deliberate choice that reads as modern, accessible, and unpretentious, avoiding the bespoke fashion-font route many competitors take. Buttons and cards use soft rounding (`{rounded.sm}` ~8px for CTAs, `{rounded.md}` ~12px for product cards), never fully pill-shaped, preserving a subtle seriousness. The overall mood is that of a minimalist skincare lab: generous whitespace, thin hairlines (`{colors.hairline}`), muted secondary text (`{colors.muted}`), and a surface-soft background (`{colors.surface-soft}`) that suggests a clean, uncluttered countertop. The brand's voice is direct, ingredient-forward, and slightly aspirational — "superfood skincare" without the hippie aesthetic.
 
 colors:
   primary: "#313131"
@@ -325,6 +329,8 @@ components:
 - Multi-step forms (e.g., checkout, subscription) collapse into a single scrollable page on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components beyond primary/secondary buttons could not be reliably extracted — only `button-primary-active` and `button-secondary-active` are documented.
 - Error styling for form validation (error messages, iconography, border colors) beyond the `text-input-error` border is not captured.

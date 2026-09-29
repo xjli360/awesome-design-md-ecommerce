@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Viori Beauty
-description: A bath-and-shower brand that leads with a hot-pink voltage — #e5067e — a color so saturated it reads as both floral and synthetic, like a peony bred in a lab. This pink (and its deeper sibling #d90073) drives every primary button, badge, and accent, while the brand's canvas stays a warm off-white #f6f4f1 that softens the clinical edge of standard ecommerce whites. The typography stack is deliberately eclectic: Feeling Passionate, a decorative script with dramatic swashes, appears in hero headlines and product titles, while JetBrains Mono — a developer-favorite monospace — shows up in price tags and ingredient callouts, creating a jarring but memorable contrast between romance and precision. Montserrat handles body copy and navigation, grounding the system in a reliable sans-serif. Buttons use full-pill radii ({rounded.full}) for a glossy, almost cosmetic-tube feel, and product cards float on {rounded.md} corners with thin hairlines (#cfcfcf). The brand's secondary palette is equally assertive: a deep green (#1f7a1f) for "natural" badges and sustainability claims, a gold (#f5c518) for star ratings and sale flags, and a crimson (#c5003e) for urgency markers. The overall effect is maximalist but controlled — every surface carries a purpose, every pink clickable element promises a sensory payoff.
+name: "Viori Beauty"
+source_url: "https://viori.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A bath-and-shower brand that leads with a hot-pink voltage — #e5067e — a color so saturated it reads as both floral and synthetic, like a peony bred in a lab. This pink (and its deeper sibling #d90073) drives every primary button, badge, and accent, while the brand's canvas stays a warm off-white #f6f4f1 that softens the clinical edge of standard ecommerce whites. The typography stack is deliberately eclectic: Feeling Passionate, a decorative script with dramatic swashes, appears in hero headlines and product titles, while JetBrains Mono — a developer-favorite monospace — shows up in price tags and ingredient callouts, creating a jarring but memorable contrast between romance and precision. Montserrat handles body copy and navigation, grounding the system in a reliable sans-serif. Buttons use full-pill radii ({rounded.full}) for a glossy, almost cosmetic-tube feel, and product cards float on {rounded.md} corners with thin hairlines (#cfcfcf). The brand's secondary palette is equally assertive: a deep green (#1f7a1f) for "natural" badges and sustainability claims, a gold (#f5c518) for star ratings and sale flags, and a crimson (#c5003e) for urgency markers. The overall effect is maximalist but controlled — every surface carries a purpose, every pink clickable element promises a sensory payoff.
 
 colors:
   primary: "#e5067e"
@@ -371,6 +375,8 @@ components:
 - Multi-row product features collapse to accordion on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted hex list contains 30+ colors, many of which may be Shopify widget defaults (Afterpay green, Klarna pink, etc.) or social icon colors. The primary pink (#e5067e) and its variants (#d90073, #c5003e, #ec008c) are confidently brand-specific, but the green (#1f7a1f) and gold (#f5c518) could be secondary brand colors or checkout defaults — further verification needed.
 - Font sizes and line heights are estimated based on typical ecommerce patterns for the detected font families; exact values from the live site's CSS were not extractable.

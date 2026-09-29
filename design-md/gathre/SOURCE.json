@@ -1,0 +1,848 @@
+{
+  "source_url": "https://gathre.com",
+  "final_url": "https://gathre.com/",
+  "captured_at": "2026-09-28T04:54:52.152334+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://gathre.com",
+      "final_url": "https://gathre.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "b390b81d8ee4a3350d4c03020f720742d8cf0532faf2106dbc96032346a5449b",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990",
+      "final_url": "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c74bf25e0a734a128e461435e68d1a18dae432ee3dafd9fbc4119e9d52b3fd30",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://gathre.com/cdn/shop/t/106/assets/swatches.css?v=49605809311263272601789510285",
+      "final_url": "https://gathre.com/cdn/shop/t/106/assets/swatches.css?v=49605809311263272601789510285",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f1b1db7242cd7104a3df3356a0476df54169aa1da5a925310ecc1701a680f92f",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://gathre.com/cdn/shop/t/106/assets/animate-on-scroll.css?v=35216439550296132921711371798",
+      "final_url": "https://gathre.com/cdn/shop/t/106/assets/animate-on-scroll.css?v=35216439550296132921711371798",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9bf8b567b3e3228c5a01656dbb52bf021c93583e3836bc5eedb489931ba95a26",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://gathre.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://gathre.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0c7c7-25ae-7744-bbe2-d1838128943b/planetdataset-app-371/assets/shopify-app-widgets.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0c7c7-25ae-7744-bbe2-d1838128943b/planetdataset-app-371/assets/shopify-app-widgets.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "85bc89c5eb96d83d7fc5bd4760377c278465fecbd77b7f1763e8844e25efdd93",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 96,
+      "sources": [
+        "https://gathre.com/",
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990",
+        "https://gathre.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0c7c7-25ae-7744-bbe2-d1838128943b/planetdataset-app-371/assets/shopify-app-widgets.css"
+      ]
+    },
+    "#262626": {
+      "count": 40,
+      "sources": [
+        "https://gathre.com/",
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990"
+      ]
+    },
+    "#2f333b": {
+      "count": 30,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0c7c7-25ae-7744-bbe2-d1838128943b/planetdataset-app-371/assets/shopify-app-widgets.css"
+      ]
+    },
+    "#000000": {
+      "count": 21,
+      "sources": [
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990",
+        "https://cdn.shopify.com/extensions/01a0c7c7-25ae-7744-bbe2-d1838128943b/planetdataset-app-371/assets/shopify-app-widgets.css"
+      ]
+    },
+    "#646e7f": {
+      "count": 17,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0c7c7-25ae-7744-bbe2-d1838128943b/planetdataset-app-371/assets/shopify-app-widgets.css"
+      ]
+    },
+    "#a7845b": {
+      "count": 12,
+      "sources": [
+        "https://gathre.com/",
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990"
+      ]
+    },
+    "#232323": {
+      "count": 9,
+      "sources": [
+        "https://gathre.com/",
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990"
+      ]
+    },
+    "#f3efe5": {
+      "count": 9,
+      "sources": [
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990",
+        "https://gathre.com/cdn/shop/t/106/assets/swatches.css?v=49605809311263272601789510285"
+      ]
+    },
+    "#cccccc": {
+      "count": 9,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0c7c7-25ae-7744-bbe2-d1838128943b/planetdataset-app-371/assets/shopify-app-widgets.css"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 8,
+      "sources": [
+        "https://gathre.com/"
+      ]
+    },
+    "#919191": {
+      "count": 8,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0c7c7-25ae-7744-bbe2-d1838128943b/planetdataset-app-371/assets/shopify-app-widgets.css"
+      ]
+    },
+    "#9c4d43": {
+      "count": 7,
+      "sources": [
+        "https://gathre.com/",
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990"
+      ]
+    },
+    "#d5c1aa": {
+      "count": 7,
+      "sources": [
+        "https://gathre.com/",
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990"
+      ]
+    },
+    "#755139": {
+      "count": 6,
+      "sources": [
+        "https://gathre.com/",
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 6,
+      "sources": [
+        "https://gathre.com/",
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990"
+      ]
+    },
+    "#999999": {
+      "count": 6,
+      "sources": [
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990",
+        "https://cdn.shopify.com/extensions/01a0c7c7-25ae-7744-bbe2-d1838128943b/planetdataset-app-371/assets/shopify-app-widgets.css"
+      ]
+    },
+    "#e0e3e9": {
+      "count": 6,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0c7c7-25ae-7744-bbe2-d1838128943b/planetdataset-app-371/assets/shopify-app-widgets.css"
+      ]
+    },
+    "#666666": {
+      "count": 5,
+      "sources": [
+        "https://gathre.com/",
+        "https://cdn.shopify.com/extensions/01a0c7c7-25ae-7744-bbe2-d1838128943b/planetdataset-app-371/assets/shopify-app-widgets.css"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0c7c7-25ae-7744-bbe2-d1838128943b/planetdataset-app-371/assets/shopify-app-widgets.css"
+      ]
+    },
+    "#fb8077": {
+      "count": 4,
+      "sources": [
+        "https://gathre.com/"
+      ]
+    },
+    "#f7f7f8": {
+      "count": 4,
+      "sources": [
+        "https://gathre.com/"
+      ]
+    },
+    "#888888": {
+      "count": 4,
+      "sources": [
+        "https://gathre.com/"
+      ]
+    },
+    "#c9c9c9": {
+      "count": 4,
+      "sources": [
+        "https://gathre.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 4,
+      "sources": [
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990",
+        "https://gathre.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0000000d": {
+      "count": 4,
+      "sources": [
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990"
+      ]
+    },
+    "#c5b097": {
+      "count": 4,
+      "sources": [
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990"
+      ]
+    },
+    "#8f9c92": {
+      "count": 4,
+      "sources": [
+        "https://gathre.com/cdn/shop/t/106/assets/swatches.css?v=49605809311263272601789510285"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0c7c7-25ae-7744-bbe2-d1838128943b/planetdataset-app-371/assets/shopify-app-widgets.css"
+      ]
+    },
+    "#fafafa": {
+      "count": 3,
+      "sources": [
+        "https://gathre.com/",
+        "https://cdn.shopify.com/extensions/01a0c7c7-25ae-7744-bbe2-d1838128943b/planetdataset-app-371/assets/shopify-app-widgets.css"
+      ]
+    },
+    "#58595b": {
+      "count": 3,
+      "sources": [
+        "https://gathre.com/",
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990"
+      ]
+    },
+    "#00000026": {
+      "count": 3,
+      "sources": [
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990",
+        "https://cdn.shopify.com/extensions/01a0c7c7-25ae-7744-bbe2-d1838128943b/planetdataset-app-371/assets/shopify-app-widgets.css"
+      ]
+    },
+    "#161616": {
+      "count": 3,
+      "sources": [
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990"
+      ]
+    },
+    "#0000004d": {
+      "count": 3,
+      "sources": [
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990"
+      ]
+    },
+    "#0000001f": {
+      "count": 3,
+      "sources": [
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990"
+      ]
+    },
+    "#e7dfd6": {
+      "count": 3,
+      "sources": [
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990"
+      ]
+    },
+    "#0000001a": {
+      "count": 3,
+      "sources": [
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990"
+      ]
+    },
+    "#faf9f8": {
+      "count": 3,
+      "sources": [
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990"
+      ]
+    },
+    "#ab8556": {
+      "count": 3,
+      "sources": [
+        "https://gathre.com/cdn/shop/t/106/assets/swatches.css?v=49605809311263272601789510285"
+      ]
+    },
+    "#dfdbd4": {
+      "count": 3,
+      "sources": [
+        "https://gathre.com/cdn/shop/t/106/assets/swatches.css?v=49605809311263272601789510285"
+      ]
+    },
+    "#464f5c": {
+      "count": 3,
+      "sources": [
+        "https://gathre.com/cdn/shop/t/106/assets/swatches.css?v=49605809311263272601789510285"
+      ]
+    },
+    "#929b89": {
+      "count": 3,
+      "sources": [
+        "https://gathre.com/cdn/shop/t/106/assets/swatches.css?v=49605809311263272601789510285"
+      ]
+    },
+    "#777963": {
+      "count": 3,
+      "sources": [
+        "https://gathre.com/cdn/shop/t/106/assets/swatches.css?v=49605809311263272601789510285"
+      ]
+    },
+    "#dbc6b1": {
+      "count": 3,
+      "sources": [
+        "https://gathre.com/cdn/shop/t/106/assets/swatches.css?v=49605809311263272601789510285"
+      ]
+    },
+    "#e6e2fd": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0c7c7-25ae-7744-bbe2-d1838128943b/planetdataset-app-371/assets/shopify-app-widgets.css"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0c7c7-25ae-7744-bbe2-d1838128943b/planetdataset-app-371/assets/shopify-app-widgets.css"
+      ]
+    },
+    "#dc2626": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0c7c7-25ae-7744-bbe2-d1838128943b/planetdataset-app-371/assets/shopify-app-widgets.css"
+      ]
+    },
+    "#777777": {
+      "count": 2,
+      "sources": [
+        "https://gathre.com/"
+      ]
+    },
+    "#f0e095": {
+      "count": 2,
+      "sources": [
+        "https://gathre.com/"
+      ]
+    },
+    "#f8f8f9": {
+      "count": 2,
+      "sources": [
+        "https://gathre.com/"
+      ]
+    },
+    "#bda384": {
+      "count": 2,
+      "sources": [
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990"
+      ]
+    },
+    "#9f9f9f": {
+      "count": 2,
+      "sources": [
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990"
+      ]
+    },
+    "#c6c6c6": {
+      "count": 2,
+      "sources": [
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990"
+      ]
+    },
+    "#222222": {
+      "count": 2,
+      "sources": [
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990"
+      ]
+    },
+    "#00000040": {
+      "count": 2,
+      "sources": [
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990"
+      ]
+    },
+    "#f8f6f3": {
+      "count": 2,
+      "sources": [
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990"
+      ]
+    },
+    "#533a30": {
+      "count": 2,
+      "sources": [
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990"
+      ]
+    },
+    "#00000014": {
+      "count": 2,
+      "sources": [
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990",
+        "https://cdn.shopify.com/extensions/01a0c7c7-25ae-7744-bbe2-d1838128943b/planetdataset-app-371/assets/shopify-app-widgets.css"
+      ]
+    },
+    "#dfc5a8": {
+      "count": 2,
+      "sources": [
+        "https://gathre.com/cdn/shop/t/106/assets/swatches.css?v=49605809311263272601789510285"
+      ]
+    },
+    "#262a2b": {
+      "count": 2,
+      "sources": [
+        "https://gathre.com/cdn/shop/t/106/assets/swatches.css?v=49605809311263272601789510285"
+      ]
+    },
+    "#e7e1d2": {
+      "count": 2,
+      "sources": [
+        "https://gathre.com/cdn/shop/t/106/assets/swatches.css?v=49605809311263272601789510285"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://cdn.shopify.com/extensions/01a0c7c7-25ae-7744-bbe2-d1838128943b/planetdataset-app-371/assets/shopify-app-widgets.css"
+    ],
+    "Arimo": [
+      "https://gathre.com/"
+    ],
+    "Egyptian": [
+      "https://gathre.com/"
+    ],
+    "Gotham": [
+      "https://gathre.com/"
+    ],
+    "Gothic720 BT": [
+      "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990"
+    ],
+    "Gothic720 BT Roman": [
+      "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990"
+    ],
+    "Gothic720 Lt BT Light": [
+      "https://gathre.com/",
+      "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990"
+    ],
+    "Gothic720 Lt BT Roman": [
+      "https://gathre.com/"
+    ],
+    "sans-serif": [
+      "https://gathre.com/",
+      "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990",
+      "https://cdn.shopify.com/extensions/01a0c7c7-25ae-7744-bbe2-d1838128943b/planetdataset-app-371/assets/shopify-app-widgets.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://gathre.com/",
+      "selector": "#easylockdown-password-form-button:not(.easylockdown-native-styles)",
+      "declarations": "vertical-align:top;display:inline-block!important;height:auto!important;padding:8px 15px;background:#777;border-radius:3px;color:#fff!important;line-height:1.2em;text-decoration:none!important"
+    },
+    {
+      "source": "https://gathre.com/",
+      "selector": "#easylockdown-password-form-button:not(.easylockdown-native-styles)",
+      "declarations": "vertical-align:top;display:inline-block!important;height:auto!important;padding:8px 15px;background:#777;border-radius:3px;color:#fff!important;line-height:1.2em;text-decoration:none!important"
+    },
+    {
+      "source": "https://gathre.com/",
+      "selector": "#section-id-template--15508172537925__slideshow_PQRU6E .slide-1 .btn--secondary",
+      "declarations": "color: #262626;\n          background: #ffffff;"
+    },
+    {
+      "source": "https://gathre.com/",
+      "selector": "#section-id-template--15508172537925__slideshow_PQRU6E .slide-1 .btn--secondary:hover",
+      "declarations": "color: #ffffff;\n          background: #262626;"
+    },
+    {
+      "source": "https://gathre.com/",
+      "selector": ".ai-split-screen-product-image-awsszsgp4k0czmgrquaigenblock5ec25a3vwdxqc",
+      "declarations": "width: 100%;\n    aspect-ratio: 1;\n    margin-bottom: 12px;\n    overflow: hidden;\n    background-color: #f4f4f4;"
+    },
+    {
+      "source": "https://gathre.com/",
+      "selector": ".ai-split-screen-product-image-placeholder-awsszsgp4k0czmgrquaigenblock5ec25a3vwdxqc",
+      "declarations": "width: 100%;\n    height: 100%;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    background-color: #f4f4f4;"
+    },
+    {
+      "source": "https://gathre.com/",
+      "selector": ".ai-split-screen-product-title-awsszsgp4k0czmgrquaigenblock5ec25a3vwdxqc",
+      "declarations": "font-size: 13px;\n    color: #262626;\n    margin: 0 0 6px 0;\n    line-height: 1.3;"
+    },
+    {
+      "source": "https://gathre.com/",
+      "selector": ".ai-split-screen-product-price-awsszsgp4k0czmgrquaigenblock5ec25a3vwdxqc",
+      "declarations": "font-size: 14px;\n    color: #262626;\n    font-weight: 500;"
+    },
+    {
+      "source": "https://gathre.com/",
+      "selector": ".ai-split-screen-product-link-awsszsgp4k0czmgrquaigenblock5ec25a3vwdxqc",
+      "declarations": "text-decoration: none;\n    color: inherit;"
+    },
+    {
+      "source": "https://gathre.com/",
+      "selector": ".ai-split-screen-product-image-ayzuyuvrvnk1ruy9fraigenblock9c85bb48h8xqx",
+      "declarations": "width: 100%;\n    aspect-ratio: 1;\n    overflow: hidden;\n    margin-bottom: 8px;\n    background-color: #f4f4f4;"
+    },
+    {
+      "source": "https://gathre.com/",
+      "selector": ".ai-split-screen-product-title-ayzuyuvrvnk1ruy9fraigenblock9c85bb48h8xqx",
+      "declarations": "font-size: 13px;\n    color: #262626;\n    margin: 0 0 4px 0;\n    line-height: 1.3;"
+    },
+    {
+      "source": "https://gathre.com/",
+      "selector": ".ai-split-screen-product-price-ayzuyuvrvnk1ruy9fraigenblock9c85bb48h8xqx",
+      "declarations": "font-size: 13px;\n    color: #262626;"
+    },
+    {
+      "source": "https://gathre.com/",
+      "selector": "#section-id-template--15508172537925__16359276425da8ce46 .slide-1 .btn--secondary",
+      "declarations": "color: #262626;\n          background: #ffffff;"
+    },
+    {
+      "source": "https://gathre.com/",
+      "selector": "#section-id-template--15508172537925__16359276425da8ce46 .slide-1 .btn--secondary:hover",
+      "declarations": "color: #262626;\n          background: #d5c1aa;"
+    },
+    {
+      "source": "https://gathre.com/",
+      "selector": "display: none;\n\n    \n    :root",
+      "declarations": "--rivo-aw-background-color: #ffffff;\n      --rivo-aw-desktop-sidebar-left: 0px;\n      --rivo-aw-desktop-sidebar-right: auto;\n      --rivo-aw-desktop-slidein-translate-x: -100%;\n      --rivo-aw-desktop-slideout-translate-x: -100%;\n      --rivo-aw-heading-font-color: #262626;\n      --rivo-aw-body-primary-font-color: #262626;\n      --rivo-aw-body-secondary-font-color: #262626;\n      --rivo-aw-border-color: #e2e2e2;\n      --rivo-aw-subdued-color: #f8f8f9;\n      --rivo-aw-icon-color: #262626;\n      --rivo-aw-primary-color: #262626;\n      --rivo-aw-favorite-button-active-color: #a7845b;\n      --rivo-aw-toast-offset-left: 15px;\n      --rivo-aw-toast-offset-right: auto;\n      --rivo-aw-default-font-"
+    },
+    {
+      "source": "https://gathre.com/",
+      "selector": ":root",
+      "declarations": "--rivo-aw-bg: #ffffff;\n  --rivo-aw-border-radius: 0px;"
+    },
+    {
+      "source": "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990",
+      "selector": ":root",
+      "declarations": "--gutter: var(--gutter-mobile);--container-pad-x: 16px;--carousel-edge: 40px;--theme-sticky-header-height: 0px;--space-unit: 4px"
+    },
+    {
+      "source": "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990",
+      "selector": ":root",
+      "declarations": "--gutter: var(--gutter-desktop);--container-pad-x: 30px"
+    },
+    {
+      "source": "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990",
+      "selector": ":root",
+      "declarations": "--container-pad-x: 50px"
+    },
+    {
+      "source": "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990",
+      "selector": ":root",
+      "declarations": "--gutter: var(--gutter-large)"
+    },
+    {
+      "source": "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990",
+      "selector": ":root",
+      "declarations": "--container-pad-x: 60px"
+    },
+    {
+      "source": "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990",
+      "selector": "button",
+      "declarations": "margin:0;padding:0;border:0;background:transparent;color:inherit;font-family:inherit;font-size:inherit;font-weight:inherit;line-height:inherit;cursor:pointer"
+    },
+    {
+      "source": "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990",
+      "selector": ".btn",
+      "declarations": "display:inline-block;height:auto;margin:0;padding:var(--input-btn-padding-top) 25px var(--input-btn-padding-bottom);transition:background-color .1s,color .1s,border-color .1s,opacity .1s;border:1.5px solid rgb(var(--btn-border-color));border-radius:var(--btn-border-radius);background:rgb(var(--btn-bg-color));color:rgb(var(--btn-text-color));font-family:var(--base-font-family);font-size:var(--button-text-size);font-style:var(--base-font-style);font-weight:var(--base-font-weight);letter-spacing:var(--btn-letter-spacing);line-height:1em;text-align:center;text-decoration:none!important;text-transform:var(--btn-text-transform);vertical-align:middle;cursor:pointer;-webkit-tap-highlight-color:trans"
+    },
+    {
+      "source": "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990",
+      "selector": ".btn:active",
+      "declarations": "border-color:rgb(var(--btn-border-hover-color));background:rgb(var(--btn-bg-hover-color));color:rgb(var(--btn-text-hover-color))"
+    },
+    {
+      "source": "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990",
+      "selector": ".btn:hover",
+      "declarations": "border-color:rgb(var(--btn-border-hover-color));background:rgb(var(--btn-bg-hover-color));color:rgb(var(--btn-text-hover-color))"
+    },
+    {
+      "source": "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990",
+      "selector": ".btn--secondary",
+      "declarations": "--btn-text-color: var(--btn-alt-text-color);--btn-text-hover-color: var(--btn-alt-bg-color);--btn-bg-color: var(--btn-alt-bg-color);--btn-bg-hover-color: var(--btn-alt-text-color);--btn-border-color: var(--btn-alt-border-color);--btn-border-hover-color: var(--btn-alt-border-hover-color)"
+    },
+    {
+      "source": "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990",
+      "selector": ".btn--tertiary",
+      "declarations": "--btn-text-color: var(--btn-ter-text-color);--btn-text-hover-color: var(--btn-ter-text-hover-color);--btn-bg-color: var(--btn-ter-bg-color);--btn-bg-hover-color: var(--btn-ter-bg-hover-color);--btn-border-color: var(--btn-ter-bg-color);--btn-border-hover-color: var(--btn-ter-bg-hover-color);padding:.9em 20px"
+    },
+    {
+      "source": "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990",
+      "selector": ":root",
+      "declarations": "--icon-size: 24px"
+    },
+    {
+      "source": "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990",
+      "selector": ".height--full-ignore-header-height",
+      "declarations": "--image-height: 100vh"
+    },
+    {
+      "source": "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990",
+      "selector": "body",
+      "declarations": "font-family:var(--base-font-family);font-style:var(--base-font-style);font-weight:var(--base-font-weight)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Gathre Kids | Play Mats & Modern Children’s Toys",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gathre.com/",
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gathre.com/",
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gathre.com/",
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990",
+        "https://gathre.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0c7c7-25ae-7744-bbe2-d1838128943b/planetdataset-app-371/assets/shopify-app-widgets.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gathre.com/",
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0c7c7-25ae-7744-bbe2-d1838128943b/planetdataset-app-371/assets/shopify-app-widgets.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gathre.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gathre.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gathre.com/",
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gathre.com/",
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990",
+        "https://gathre.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0c7c7-25ae-7744-bbe2-d1838128943b/planetdataset-app-371/assets/shopify-app-widgets.css"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gathre.com/",
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990"
+      ]
+    },
+    "colors.accent-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gathre.com/",
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0c7c7-25ae-7744-bbe2-d1838128943b/planetdataset-app-371/assets/shopify-app-widgets.css"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0c7c7-25ae-7744-bbe2-d1838128943b/planetdataset-app-371/assets/shopify-app-widgets.css"
+      ]
+    },
+    "colors.ink-secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gathre.com/",
+        "https://gathre.com/cdn/shop/t/106/assets/main.css?v=42487843901220485651784642990"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.color-swatch-selector": {
+      "status": "inferred"
+    }
+  }
+}

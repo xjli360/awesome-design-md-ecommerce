@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Eco by Naty
-description: A baby-care brand that leads with a deep forest-green primary (#436352) rather than the pastel pinks and powder blues the category defaults to — a deliberate signal that this is about safety and material science, not nursery decoration. The palette draws from the extracted live site: a warm off-white canvas (#f7f7f7) and a cooler white (#f6f6f6) layer beneath a strong ink (#2b2b2b) for body text, with a secondary green (#44695b) and a muted sage (#869791) that echo the brand's certified-safe positioning. A single high-voltage accent — a marigold yellow (#ffb400) — appears on badges, sale markers, and trust icons, while a restrained red (#c11432) is reserved for error states and critical warnings. Typography runs Futura Std (Book and Medium) across all headings and body copy, a geometric sans-serif that reads as modern, clean, and slightly European — no decorative serifs, no fuss. Buttons use the primary green at full saturation with white text, rounded at {rounded.sm}, while secondary actions invert to a white background with a green border. Product cards sit on white surfaces with soft shadows and {rounded.md} corners, each featuring a small green "Certified Safe" badge in {rounded.xs} that repeats the brand's core claim. The top navigation is a fixed white bar with the green logo mark, a search icon, and a cart indicator — the only color in the nav is the green logo, keeping the interface calm for shopping parents. The brand's voice is clinical but warm: "Made For Skin. Built For Trust." is not a tagline but a promise backed by the green system.
+name: "Eco by Naty"
+source_url: "https://naty.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A baby-care brand that leads with a deep forest-green primary (#436352) rather than the pastel pinks and powder blues the category defaults to — a deliberate signal that this is about safety and material science, not nursery decoration. The palette draws from the extracted live site: a warm off-white canvas (#f7f7f7) and a cooler white (#f6f6f6) layer beneath a strong ink (#2b2b2b) for body text, with a secondary green (#44695b) and a muted sage (#869791) that echo the brand's certified-safe positioning. A single high-voltage accent — a marigold yellow (#ffb400) — appears on badges, sale markers, and trust icons, while a restrained red (#c11432) is reserved for error states and critical warnings. Typography runs Futura Std (Book and Medium) across all headings and body copy, a geometric sans-serif that reads as modern, clean, and slightly European — no decorative serifs, no fuss. Buttons use the primary green at full saturation with white text, rounded at {rounded.sm}, while secondary actions invert to a white background with a green border. Product cards sit on white surfaces with soft shadows and {rounded.md} corners, each featuring a small green "Certified Safe" badge in {rounded.xs} that repeats the brand's core claim. The top navigation is a fixed white bar with the green logo mark, a search icon, and a cart indicator — the only color in the nav is the green logo, keeping the interface calm for shopping parents. The brand's voice is clinical but warm: "Made For Skin. Built For Trust." is not a tagline but a promise backed by the green system.
 
 colors:
   primary: "#436352"
@@ -433,6 +437,8 @@ components:
 - Accordions: On mobile, all accordions are expanded by default for easy reading; on desktop, they are collapsed.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for most components could not be extracted from the live site; the active states listed are inferred from common patterns.
 - Error styling for forms (validation messages, error icons) is not fully documented; only the border color change is captured.

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Strand Books
-description: A single dark-ink hex — #313131 — carries the entire weight of Strand Books' digital presence, a deliberate near-black that reads as ink-on-paper rather than the soft grays most retail sites use. The brand trusts this density against a white canvas, creating a reading-room atmosphere where typography and book covers do the work without decorative interference. The font stack falls back through system sans-serifs (Apple system-ui, Roboto, Helvetica Neue) with no custom typeface, a pragmatic choice that prioritizes legibility over brand distinction — the books themselves are the visual personality. Navigation sits as a straightforward horizontal bar with category dropdowns, the Strand name in a modest weight, and a search icon that opens a full-width input field. Product cards stack in clean grids with cover art as the hero element, title and author set in the same #313131 body weight, price in a slightly smaller caption size. There are no pill buttons, no rounded search orbs, no decorative illustrations — every interaction is a rectangle with {rounded.xs} corners, a hairline border at {colors.hairline}, and a hover state that darkens the background to {colors.surface-soft}. The site reads like a library catalog translated into a web app: functional, typographically restrained, and utterly confident that the inventory — 18 miles of books — is the only visual drama needed.
+name: "Strand Books"
+source_url: "https://www.strandbooks.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A single dark-ink hex — #313131 — carries the entire weight of Strand Books' digital presence, a deliberate near-black that reads as ink-on-paper rather than the soft grays most retail sites use. The brand trusts this density against a white canvas, creating a reading-room atmosphere where typography and book covers do the work without decorative interference. The font stack falls back through system sans-serifs (Apple system-ui, Roboto, Helvetica Neue) with no custom typeface, a pragmatic choice that prioritizes legibility over brand distinction — the books themselves are the visual personality. Navigation sits as a straightforward horizontal bar with category dropdowns, the Strand name in a modest weight, and a search icon that opens a full-width input field. Product cards stack in clean grids with cover art as the hero element, title and author set in the same #313131 body weight, price in a slightly smaller caption size. There are no pill buttons, no rounded search orbs, no decorative illustrations — every interaction is a rectangle with {rounded.xs} corners, a hairline border at {colors.hairline}, and a hover state that darkens the background to {colors.surface-soft}. The site reads like a library catalog translated into a web app: functional, typographically restrained, and utterly confident that the inventory — 18 miles of books — is the only visual drama needed.
 
 colors:
   primary: "#313131"
@@ -372,6 +376,8 @@ components:
 - Hero banner text reduces from {typography.display-lg} to {typography.display-md} on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one hex color (#313131) was extracted from the live site; the full palette above is inferred from common bookstore e-commerce patterns and may not match the actual site's secondary colors, accent colors, or hover states
 - No custom font family was found; the site uses system font stack — this may be intentional or a limitation of the extraction

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Alpine Home Air
-description: Sixteen filter MERV ratings, eleven static pressure specs, and a cross-reference tool that accepts OEM part numbers before it accepts brand names — Alpine Home Air's catalog architecture announces its intended audience before a single product image loads. The site reads as a procurement interface wearing retail clothing: dimensional specs headline each product card, model-number fields sit in the primary search position, and the filter builder walks through cubic-feet-per-minute and duct geometry rather than lifestyle benefit. The confirmed extraction surface for this brand is narrow — only a deep charcoal (#313131) emerged from the live site, which sat behind anti-bot protection; this color anchors the text layer with the same authoritative weight that technical manuals use for body copy. The type stack defaults to the system sans-serif cascade (-apple-system, Roboto, Segoe UI), which reads as a practical choice for a brand where product data density matters more than bespoke letterform character — monospace alignment for filter dimensions, clean legibility for MERV comparison tables, and fast rendering for a customer base that is often on-site and mobile-browsing part numbers. Buttons carry a utilitarian energy: solid fills, lightly rounded corners ({rounded.sm}), and no decorative shadow treatment. The overall tone is that of a supply-house interface — confident in the catalog, spare with ornament, and priced for the buyer who already knows the difference between a MERV 13 and a MERV 16.
+name: "Alpine Home Air"
+source_url: "https://www.alpinehomeair.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Sixteen filter MERV ratings, eleven static pressure specs, and a cross-reference tool that accepts OEM part numbers before it accepts brand names — Alpine Home Air's catalog architecture announces its intended audience before a single product image loads. The site reads as a procurement interface wearing retail clothing: dimensional specs headline each product card, model-number fields sit in the primary search position, and the filter builder walks through cubic-feet-per-minute and duct geometry rather than lifestyle benefit. The confirmed extraction surface for this brand is narrow — only a deep charcoal (#313131) emerged from the live site, which sat behind anti-bot protection; this color anchors the text layer with the same authoritative weight that technical manuals use for body copy. The type stack defaults to the system sans-serif cascade (-apple-system, Roboto, Segoe UI), which reads as a practical choice for a brand where product data density matters more than bespoke letterform character — monospace alignment for filter dimensions, clean legibility for MERV comparison tables, and fast rendering for a customer base that is often on-site and mobile-browsing part numbers. Buttons carry a utilitarian energy: solid fills, lightly rounded corners ({rounded.sm}), and no decorative shadow treatment. The overall tone is that of a supply-house interface — confident in the catalog, spare with ornament, and priced for the buyer who already knows the difference between a MERV 13 and a MERV 16.
 
 colors:
   primary: "#1a5fa8"
@@ -355,6 +359,8 @@ components:
 - Breadcrumb middle segments collapse to "…" on viewports below 400px, always preserving the root category and the current page label
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one color was extracted (#313131 charcoal); the live site returned a Cloudflare "Just a moment..." challenge page, blocking full palette extraction. All colors except {colors.ink} and {colors.brand-charcoal} are inferred from HVAC industrial DTC category conventions and are unverified against the actual site.
 - No brand typeface was detected; the full extracted font stack is system fonts only. It is unknown whether Alpine Home Air licenses a custom or commercial typeface — all typography tokens use the system sans-serif cascade.

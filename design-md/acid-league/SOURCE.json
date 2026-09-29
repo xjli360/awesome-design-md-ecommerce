@@ -1,0 +1,1226 @@
+{
+  "source_url": "https://acidleague.com",
+  "final_url": "https://www.acidleague.com/",
+  "captured_at": "2026-09-29T04:00:22.395763+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://acidleague.com",
+      "final_url": "https://www.acidleague.com/",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "40022630c08580e8d65d643a3ba73a1326e11d59dfe8520173f76993cd56f336",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+      "final_url": "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6c5b868d0b0d6d8a650edcc31bd0127627d8280526f698f3733bc61bba91b5f7",
+      "snapshot": "rendered-style-1.css"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/user-account-core-bf8b0e0129e2a7ba-min.en-US.css",
+      "final_url": "https://assets.squarespace.com/universal/styles-compressed/user-account-core-bf8b0e0129e2a7ba-min.en-US.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6b5fd9b8af2d32b19f4e31f5ea6db1496a6fa10f6bff4ef9f1c11d90e88f703c",
+      "snapshot": "rendered-style-2.css"
+    },
+    {
+      "url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "final_url": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "18a78ae260c024be63bf5b378515d6ac4c569d5e895175fb7e102959d33304d3",
+      "snapshot": "rendered-style-3.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.button/5a741ea1-9d9f-47f9-825c-74a26f91e3b4_1111/website.components.button.styles.css",
+      "final_url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.button/5a741ea1-9d9f-47f9-825c-74a26f91e3b4_1111/website.components.button.styles.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1ae84d9f9687b4d101a7e87382c7a11b8029157df95de292ad48ac87f209f912",
+      "snapshot": "rendered-style-4.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.newsletter/58d67523-2cf5-42f9-95a4-1e436b9263fe_104/website.components.newsletter.styles.css",
+      "final_url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.newsletter/58d67523-2cf5-42f9-95a4-1e436b9263fe_104/website.components.newsletter.styles.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "8610c8f62ed90f6fd301058cd563ea68422d36ef2780337d2e63b0f67272d8fc",
+      "snapshot": "rendered-style-5.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/7625cf5e-824a-409c-844c-dc15103c89a9_941/website.components.html.styles.css",
+      "final_url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.html/7625cf5e-824a-409c-844c-dc15103c89a9_941/website.components.html.styles.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "62851efff91ee5fe72cea604fca72bbd29cfe282a517f1cbca5ba647285a1b65",
+      "snapshot": "rendered-style-6.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/c23c8f20-aefd-4113-b7e7-3dfe12eea5a8_928/website.components.imageFluid.styles.css",
+      "final_url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.imageFluid/c23c8f20-aefd-4113-b7e7-3dfe12eea5a8_928/website.components.imageFluid.styles.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "09c0bfc44bf3a27d6b3a08c2b3ea09ded67a36860b9b095b6295a398aef87307",
+      "snapshot": "rendered-style-7.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css",
+      "final_url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "04074d2ca704a6f1dab02ef607a2a23548cdc1be12c242d03d09c9a133383e87",
+      "snapshot": "rendered-style-8.css"
+    },
+    {
+      "url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.shape/46aba06e-c7b6-4477-9517-9c484d3fb5ae_1336/website.components.shape.styles.css",
+      "final_url": "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.shape/46aba06e-c7b6-4477-9517-9c484d3fb5ae_1336/website.components.shape.styles.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "cd71158262f57d06b169475d5ceb40d2cba720c679dd342bd39631ffca811a77",
+      "snapshot": "rendered-style-9.css"
+    },
+    {
+      "url": "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true",
+      "final_url": "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "dc9ae6e4c10aaf6f1b5ff62801fe3d000e9ddd41627480ba8372357e13b6e82b",
+      "snapshot": "rendered-style-10.css"
+    },
+    {
+      "url": "https://static1.squarespace.com/static/custom-css/660d9e057f81f26b8d700ecc/660d9e067f81f26b8d700eda/37/custom.css",
+      "final_url": "https://static1.squarespace.com/static/custom-css/660d9e057f81f26b8d700ecc/660d9e067f81f26b8d700eda/37/custom.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "00881c507c0728c799964577ad6301d387e7f7d001adb5e67ab4b911f6d64d71",
+      "snapshot": "rendered-style-11.css"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/35ebb88013744865-min.en-US.css",
+      "final_url": "https://assets.squarespace.com/universal/styles-compressed/35ebb88013744865-min.en-US.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0e5e47c85a0b452da561b75fbedfae3d8398f54a7de67419efba318d529f7db1",
+      "snapshot": "rendered-style-12.css"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/8308d1793f387442-min.en-US.css",
+      "final_url": "https://assets.squarespace.com/universal/styles-compressed/8308d1793f387442-min.en-US.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0ff709d81c238e4bd4205ce9957ffba981b4870ae9d1fa42da5b1b6b69380259",
+      "snapshot": "rendered-style-13.css"
+    },
+    {
+      "url": "https://assets.squarespace.com/universal/styles-compressed/popup-overlay-b742b752f5880972-min.en-US.css",
+      "final_url": "https://assets.squarespace.com/universal/styles-compressed/popup-overlay-b742b752f5880972-min.en-US.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3e94b694b0efc60e31fb14f9d37ba0d39dc282d27b713bf42f2e85b9d62afac5",
+      "snapshot": "rendered-style-14.css"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css",
+      "final_url": "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "32bd2171bd3e9dce2bcd973d4b6e0492a64f2ad5b58fc9941f12a1973fb3c0ba",
+      "snapshot": "rendered-style-15.css"
+    },
+    {
+      "url": "https://www.acidleague.com/#computed-style-snapshot",
+      "final_url": "https://www.acidleague.com/#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "ed76e60593a3a1bbb2724cef7eb281babd114dca0bad45bfbc7b57f02c29df52",
+      "snapshot": "rendered-style-16.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 198,
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+        "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css",
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true",
+        "https://static1.squarespace.com/static/custom-css/660d9e057f81f26b8d700ecc/660d9e067f81f26b8d700eda/37/custom.css",
+        "https://assets.squarespace.com/universal/styles-compressed/35ebb88013744865-min.en-US.css",
+        "https://assets.squarespace.com/universal/styles-compressed/popup-overlay-b742b752f5880972-min.en-US.css",
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css",
+        "https://www.acidleague.com/#computed-style-snapshot"
+      ]
+    },
+    "#ffffff": {
+      "count": 159,
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+        "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.newsletter/58d67523-2cf5-42f9-95a4-1e436b9263fe_104/website.components.newsletter.styles.css",
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css",
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true",
+        "https://static1.squarespace.com/static/custom-css/660d9e057f81f26b8d700ecc/660d9e067f81f26b8d700eda/37/custom.css",
+        "https://assets.squarespace.com/universal/styles-compressed/popup-overlay-b742b752f5880972-min.en-US.css",
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css",
+        "https://www.acidleague.com/#computed-style-snapshot"
+      ]
+    },
+    "#fffefa": {
+      "count": 49,
+      "sources": [
+        "https://www.acidleague.com/#computed-style-snapshot"
+      ]
+    },
+    "#272727": {
+      "count": 27,
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true",
+        "https://assets.squarespace.com/universal/styles-compressed/popup-overlay-b742b752f5880972-min.en-US.css"
+      ]
+    },
+    "#fafafa": {
+      "count": 22,
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+        "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true",
+        "https://assets.squarespace.com/universal/styles-compressed/popup-overlay-b742b752f5880972-min.en-US.css"
+      ]
+    },
+    "#3e3e3e": {
+      "count": 22,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "#a9a9a9": {
+      "count": 18,
+      "sources": [
+        "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css"
+      ]
+    },
+    "#d8d8d8": {
+      "count": 17,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 13,
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true",
+        "https://assets.squarespace.com/universal/styles-compressed/popup-overlay-b742b752f5880972-min.en-US.css"
+      ]
+    },
+    "#333333": {
+      "count": 13,
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css",
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 13,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "#e7e7e7": {
+      "count": 12,
+      "sources": [
+        "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true",
+        "https://assets.squarespace.com/universal/styles-compressed/35ebb88013744865-min.en-US.css"
+      ]
+    },
+    "#f0523d": {
+      "count": 12,
+      "sources": [
+        "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "#0e0e0e": {
+      "count": 11,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "#999999": {
+      "count": 9,
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true",
+        "https://assets.squarespace.com/universal/styles-compressed/popup-overlay-b742b752f5880972-min.en-US.css",
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#222222": {
+      "count": 9,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css",
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true",
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#00b2ff": {
+      "count": 9,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "#1a73e8": {
+      "count": 8,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#d93025": {
+      "count": 7,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 6,
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+        "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true",
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#185abc": {
+      "count": 6,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 5,
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true",
+        "https://assets.squarespace.com/universal/styles-compressed/popup-overlay-b742b752f5880972-min.en-US.css"
+      ]
+    },
+    "#666666": {
+      "count": 5,
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "#4a5464": {
+      "count": 5,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 4,
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true",
+        "https://assets.squarespace.com/universal/styles-compressed/popup-overlay-b742b752f5880972-min.en-US.css"
+      ]
+    },
+    "#111111": {
+      "count": 4,
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "#e4e4e4": {
+      "count": 4,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "#c4c4c4": {
+      "count": 4,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 4,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#e3e935": {
+      "count": 4,
+      "sources": [
+        "https://www.acidleague.com/#computed-style-snapshot"
+      ]
+    },
+    "#cc3b3b": {
+      "count": 3,
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true",
+        "https://assets.squarespace.com/universal/styles-compressed/popup-overlay-b742b752f5880972-min.en-US.css"
+      ]
+    },
+    "#bd0000": {
+      "count": 3,
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true",
+        "https://assets.squarespace.com/universal/styles-compressed/popup-overlay-b742b752f5880972-min.en-US.css"
+      ]
+    },
+    "#e99292": {
+      "count": 3,
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true",
+        "https://assets.squarespace.com/universal/styles-compressed/popup-overlay-b742b752f5880972-min.en-US.css"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 3,
+      "sources": [
+        "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "#737373": {
+      "count": 3,
+      "sources": [
+        "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css"
+      ]
+    },
+    "#777777": {
+      "count": 3,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true",
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#d0d0d0": {
+      "count": 3,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 3,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "#444746": {
+      "count": 3,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#ff0000": {
+      "count": 3,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#555555": {
+      "count": 3,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#fed9db": {
+      "count": 2,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.newsletter/58d67523-2cf5-42f9-95a4-1e436b9263fe_104/website.components.newsletter.styles.css",
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "#f23d3d": {
+      "count": 2,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.newsletter/58d67523-2cf5-42f9-95a4-1e436b9263fe_104/website.components.newsletter.styles.css",
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "#797979": {
+      "count": 2,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "#313131": {
+      "count": 2,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 2,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true",
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#e8ecec": {
+      "count": 2,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "#728197": {
+      "count": 2,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "#6e6e6e": {
+      "count": 2,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "#b7b7b7": {
+      "count": 2,
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/35ebb88013744865-min.en-US.css"
+      ]
+    },
+    "#4d90fe": {
+      "count": 2,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#ff1b1b": {
+      "count": 2,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#979797": {
+      "count": 2,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#c1c1c1": {
+      "count": 1,
+      "sources": [
+        "https://www.acidleague.com/"
+      ]
+    },
+    "#1e1e1e": {
+      "count": 1,
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css"
+      ]
+    },
+    "#040404": {
+      "count": 1,
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css"
+      ]
+    },
+    "#fbfbfb": {
+      "count": 1,
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css"
+      ]
+    },
+    "#e1e1e1": {
+      "count": 1,
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 1,
+      "sources": [
+        "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css"
+      ]
+    },
+    "#0000001f": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.newsletter/58d67523-2cf5-42f9-95a4-1e436b9263fe_104/website.components.newsletter.styles.css"
+      ]
+    },
+    "#0000004d": {
+      "count": 1,
+      "sources": [
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.newsletter/58d67523-2cf5-42f9-95a4-1e436b9263fe_104/website.components.newsletter.styles.css"
+      ]
+    },
+    "#ffff00": {
+      "count": 1,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "#afafaf": {
+      "count": 1,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "#444444": {
+      "count": 1,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "#e4351e": {
+      "count": 1,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "#ededed": {
+      "count": 1,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "#ce2c30": {
+      "count": 1,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "#b4b4b4": {
+      "count": 1,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 1,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "#cc0000": {
+      "count": 1,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "#dcdfe5": {
+      "count": 1,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "#23282f": {
+      "count": 1,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "#c1c8d1": {
+      "count": 1,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "#757575": {
+      "count": 1,
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "#b2b2b2": {
+      "count": 1,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#ebebeb": {
+      "count": 1,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 1,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#525252": {
+      "count": 1,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 1,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#e24a4a": {
+      "count": 1,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#dfdfdf": {
+      "count": 1,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#323232": {
+      "count": 1,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#417cc1": {
+      "count": 1,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#efefef": {
+      "count": 1,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#656565": {
+      "count": 1,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#202124": {
+      "count": 1,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#ececec": {
+      "count": 1,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "#747775": {
+      "count": 1,
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+      "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true",
+      "https://assets.squarespace.com/universal/styles-compressed/popup-overlay-b742b752f5880972-min.en-US.css",
+      "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+    ],
+    "Clarkson": [
+      "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+    ],
+    "GT-Alpina-Standard-Bold": [
+      "https://static1.squarespace.com/static/custom-css/660d9e057f81f26b8d700ecc/660d9e067f81f26b8d700eda/37/custom.css",
+      "https://www.acidleague.com/#computed-style-snapshot"
+    ],
+    "GT-Alpina-Standard-Light": [
+      "https://static1.squarespace.com/static/custom-css/660d9e057f81f26b8d700ecc/660d9e067f81f26b8d700eda/37/custom.css",
+      "https://www.acidleague.com/#computed-style-snapshot"
+    ],
+    "GT-Alpina-Typewriter-Light": [
+      "https://static1.squarespace.com/static/custom-css/660d9e057f81f26b8d700ecc/660d9e067f81f26b8d700eda/37/custom.css",
+      "https://www.acidleague.com/#computed-style-snapshot"
+    ],
+    "Gt-Alpina-Standard-Bold": [
+      "https://static1.squarespace.com/static/custom-css/660d9e057f81f26b8d700ecc/660d9e067f81f26b8d700eda/37/custom.css",
+      "https://www.acidleague.com/#computed-style-snapshot"
+    ],
+    "Helvetica": [
+      "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+      "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true",
+      "https://assets.squarespace.com/universal/styles-compressed/popup-overlay-b742b752f5880972-min.en-US.css",
+      "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+    ],
+    "Helvetica Neue": [
+      "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+      "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true",
+      "https://assets.squarespace.com/universal/styles-compressed/popup-overlay-b742b752f5880972-min.en-US.css"
+    ],
+    "Roboto": [
+      "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+    ],
+    "Sans-Serif": [
+      "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+    ],
+    "Sans-serif": [
+      "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+    ],
+    "arial": [
+      "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+    ],
+    "helvetica": [
+      "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+    ],
+    "ibm-plex-mono": [
+      "https://www.acidleague.com/",
+      "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true",
+      "https://www.acidleague.com/#computed-style-snapshot"
+    ],
+    "monospace": [
+      "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+    ],
+    "new-spirit-condensed": [
+      "https://www.acidleague.com/",
+      "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true",
+      "https://www.acidleague.com/#computed-style-snapshot"
+    ],
+    "sans-serif": [
+      "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+      "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true",
+      "https://static1.squarespace.com/static/custom-css/660d9e057f81f26b8d700ecc/660d9e067f81f26b8d700eda/37/custom.css",
+      "https://assets.squarespace.com/universal/styles-compressed/popup-overlay-b742b752f5880972-min.en-US.css",
+      "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css",
+      "https://www.acidleague.com/#computed-style-snapshot"
+    ],
+    "serif": [
+      "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+    ],
+    "social-icon-font": [
+      "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+    ],
+    "squarespace-ui-font": [
+      "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "selector": "n-type-flex.primary-button-style-outline .sqs-editable-button:not(input):hover,.tweak-global-animations-animation-type-flex.primary-button-style-outline [data-a",
+      "declarations": "background-color:transparent!important"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "selector": "obal-animations-animation-type-flex.primary-button-style-outline .user-items-list-carousel:hover,.tweak-global-animations-animation-type-flex.primary-button-sty",
+      "declarations": "background-color:transparent"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "selector": "body:not(.form-use-theme-colors) .sqs-modal-lightbox-content .lightbox-inner .sqs-block-form",
+      "declarations": "--tweak-form-block-title-color-on-background:#000;--tweak-form-block-description-color-on-background:#000;--tweak-form-block-caption-color-on-background:#000;--tweak-form-block-option-color-on-background:#000;--tweak-form-block-survey-title-color-on-background:#000;--tweak-form-block-button-text-color-on-background:#fff;--tweak-form-block-button-background-color-on-background:#000;background-color:#fff"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "selector": "body .sqs-site-style-form",
+      "declarations": "--fallback-white-hsl:0,0%,98%;--fallback-black-hsl:0,0%,0%;--solid-alpha-modifier:1;--solid-hover-alpha-modifier:0.6;--outline-hover-alpha-modifier:0.4;--inverted-solid-hover-alpha-modifier:var(--solid-hover-alpha-modifier);--inverted-outline-hover-alpha-modifier:var(--outline-hover-alpha-modifier);--solid-focus-alpha-modifier:1;--outline-focus-alpha-modifier:0.4;--fill-hover-transition:0.15s background-color cubic-bezier(0.33, 1, 0.68, 1);--form-post-submit-animation-duration:0.25s;--form-post-submit-animation-delay:0.25s"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "selector": "body.form-use-theme-colors .sqs-site-style-form",
+      "declarations": "--dynamic-fill-color:var(--tweak-form-block-field-fill-color);--dynamic-fill-color-hsl:var(--tweak-form-block-field-fill-color-hsl);--dynamic-fill-color-a:var(--tweak-form-block-field-fill-color-a);--dynamic-border-color:var(--tweak-form-block-field-border-color);--dynamic-border-color-hsl:var(--tweak-form-block-field-border-color-hsl);--dynamic-border-color-a:var(--tweak-form-block-field-border-color-a);--dynamic-input-text-color:var(--tweak-form-block-field-input-color);--dynamic-input-text-color-hsl:var(--tweak-form-block-field-input-color-hsl);--dynamic-input-text-color-a:var(--tweak-form-block-field-input-color-a);--dynamic-accessory-color:var(--tweak-form-block-field-accessory-color)"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "selector": "body.form-use-theme-colors .sqs-background-enabled .sqs-site-style-form",
+      "declarations": "--dynamic-fill-color:var(--tweak-form-block-field-fill-color-on-background);--dynamic-fill-color-hsl:var(--tweak-form-block-field-fill-color-on-background-hsl);--dynamic-fill-color-a:var(--tweak-form-block-field-fill-color-on-background-a);--dynamic-border-color:var(--tweak-form-block-field-border-color-on-background);--dynamic-border-color-hsl:var(--tweak-form-block-field-border-color-on-background-hsl);--dynamic-border-color-a:var(--tweak-form-block-field-border-color-on-background-a);--dynamic-input-text-color:var(--tweak-form-block-field-input-color-on-background);--dynamic-input-text-color-hsl:var(--tweak-form-block-field-input-color-on-background-hsl);--dynamic-input-text-color-a:var(-"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "selector": ".form-field-checkbox-type-button.form-field-checkbox-fill-solid .sqs-site-style-form .form-item.checkbox",
+      "declarations": "--background-color-hsl:var(--dynamic-fill-color-hsl, var(--fallback-white-hsl));--background-color-alpha:var(--dynamic-fill-color-a, 1);--background-color-alpha-default:var(--dynamic-fill-color-a, 1);--foreground-color-hsl:var(--dynamic-border-color-hsl, var(--fallback-black-hsl));--foreground-color-alpha:var(--dynamic-border-color-a, 1);--checked-foreground-color:var(--dynamic-fill-color, #FAFAFA);--hover-alpha-modifier:var(--solid-hover-alpha-modifier);--checked-hover-alpha-modifier:var(--inverted-solid-hover-alpha-modifier)"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "selector": "form-field-checkbox-fill-outline .sqs-site-style-form .form-item.checkbox label span,.form-field-checkbox-type-button.form-field-checkbox-fill-solid .sqs-site-s",
+      "declarations": "transition:var(--fill-hover-transition);background-color:hsla(var(--background-color-hsl),calc(var(--background-color-alpha-default)*var(--solid-alpha-modifier)));color:hsla(var(--foreground-color-hsl),var(--foreground-color-alpha));padding-top:var(--form-field-checkbox-padding-top, var(--form-field-checkbox-padding-vertical));padding-right:var(--form-field-checkbox-padding-right, var(--form-field-checkbox-padding-horizontal));padding-bottom:var(--form-field-checkbox-padding-bottom, var(--form-field-checkbox-padding-vertical));padding-left:var(--form-field-checkbox-padding-left, var(--form-field-checkbox-padding-horizontal));border:var(--form-field-checkbox-border-thickness) solid hsla(var(-"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "selector": ".form-field-checkbox-type-button.form-field-checkbox-fill-solid .sqs-site-style-form .form-item.checkbox label span:hover",
+      "declarations": "background-color:hsla(var(--background-color-hsl),calc(var(--background-color-alpha)*var(--hover-alpha-modifier)))"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "selector": "te-style-form .form-item.radio label input[type=radio]:checked~span,.form-field-radio-type-button.form-field-radio-fill-solid .sqs-site-style-form .form-item.ra",
+      "declarations": "background-color:hsla(var(--foreground-color-hsl),var(--foreground-color-alpha));color:var(--checked-foreground-color);border-color:hsla(var(--foreground-color-hsl),var(--foreground-color-alpha))"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "selector": ".form-field-checkbox-type-button.form-field-checkbox-fill-solid .sqs-site-style-form .form-item.checkbox label input[type=checkbox]:checked~span:hover",
+      "declarations": "background-color:hsla(var(--foreground-color-hsl),calc(var(--foreground-color-alpha)*var(--checked-hover-alpha-modifier, var(--hover-alpha-modifier))))"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "selector": ".form-field-checkbox-type-button.form-field-checkbox-fill-outline .sqs-site-style-form .form-item.checkbox",
+      "declarations": "--background-color-hsl:var(--dynamic-fill-color-hsl, var(--fallback-white-hsl));--background-color-alpha:var(--dynamic-fill-color-a, 1);--background-color-alpha-default:0;--foreground-color-hsl:var(--dynamic-border-color-hsl, var(--fallback-black-hsl));--foreground-color-alpha:var(--dynamic-border-color-a, 1);--checked-foreground-color:var(--dynamic-fill-color, #FAFAFA);--hover-alpha-modifier:var(--outline-hover-alpha-modifier);--checked-hover-alpha-modifier:var(--inverted-outline-hover-alpha-modifier)"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "selector": ".form-field-checkbox-type-button.form-field-checkbox-fill-outline .sqs-site-style-form .form-item.checkbox label span:hover",
+      "declarations": "background-color:hsla(var(--background-color-hsl),calc(var(--background-color-alpha)*var(--hover-alpha-modifier)))"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "selector": ".form-field-checkbox-type-button.form-field-checkbox-fill-outline .sqs-site-style-form .form-item.checkbox label input[type=checkbox]:checked~span:hover",
+      "declarations": "background-color:hsla(var(--foreground-color-hsl),calc(var(--foreground-color-alpha)*var(--checked-hover-alpha-modifier, var(--hover-alpha-modifier))))"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "selector": ".form-field-checkbox-type-button.form-field-checkbox-shape-pill",
+      "declarations": "--checkbox-pill-border-radius:calc(var(--form-field-checkbox-padding-top, var(--form-field-checkbox-padding-vertical)) + var(--form-block-option-text-font-line-height) * 0.66)"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "selector": ".form-field-radio-type-button.form-field-radio-fill-solid .sqs-site-style-form .form-item.radio",
+      "declarations": "--background-color-hsl:var(--dynamic-fill-color-hsl, var(--fallback-white-hsl));--background-color-alpha:var(--dynamic-fill-color-a, 1);--background-color-alpha-default:var(--dynamic-fill-color-a, 1);--foreground-color-hsl:var(--dynamic-border-color-hsl, var(--fallback-black-hsl));--foreground-color-alpha:var(--dynamic-border-color-a, 1);--checked-foreground-color:var(--dynamic-fill-color, #FAFAFA);--hover-alpha-modifier:var(--solid-hover-alpha-modifier);--checked-hover-alpha-modifier:var(--inverted-solid-hover-alpha-modifier)"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "selector": ".form-field-radio-type-button.form-field-radio-fill-solid .sqs-site-style-form .form-item.radio input[type=radio]:hover~span",
+      "declarations": "background-color:hsla(var(--background-color-hsl),calc(var(--background-color-alpha)*var(--hover-alpha-modifier)))"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "selector": ".form-field-radio-type-button.form-field-radio-fill-solid .sqs-site-style-form .form-item.radio input[type=radio]:checked:hover~span",
+      "declarations": "background-color:hsla(var(--foreground-color-hsl),calc(var(--foreground-color-alpha)*var(--checked-hover-alpha-modifier, var(--hover-alpha-modifier))))"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "selector": "io-type-button.form-field-radio-fill-outline .sqs-site-style-form .form-item.radio label span,.form-field-radio-type-button.form-field-radio-fill-solid .sqs-sit",
+      "declarations": "transition:var(--fill-hover-transition);background-color:hsla(var(--background-color-hsl),calc(var(--background-color-alpha-default)*var(--solid-alpha-modifier)));color:hsla(var(--foreground-color-hsl),var(--foreground-color-alpha));padding-top:var(--form-field-radio-padding-top, var(--form-field-radio-padding-vertical));padding-right:var(--form-field-radio-padding-right, var(--form-field-radio-padding-horizontal));padding-bottom:var(--form-field-radio-padding-bottom, var(--form-field-radio-padding-vertical));padding-left:var(--form-field-radio-padding-left, var(--form-field-radio-padding-horizontal));border:var(--form-field-radio-border-thickness) solid hsla(var(--foreground-color-hsl),var("
+    },
+    {
+      "source": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "selector": ".form-field-radio-type-button.form-field-radio-fill-outline .sqs-site-style-form .form-item.radio",
+      "declarations": "--background-color-hsl:var(--dynamic-fill-color-hsl, var(--fallback-white-hsl));--background-color-alpha:var(--dynamic-fill-color-a, 1);--background-color-alpha-default:0;--foreground-color-hsl:var(--dynamic-border-color-hsl, var(--fallback-black-hsl));--foreground-color-alpha:var(--dynamic-border-color-a, 1);--checked-foreground-color:var(--dynamic-fill-color, #FAFAFA);--hover-alpha-modifier:var(--outline-hover-alpha-modifier);--checked-hover-alpha-modifier:var(--inverted-outline-hover-alpha-modifier)"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "selector": ".form-field-radio-type-button.form-field-radio-fill-outline .sqs-site-style-form .form-item.radio input[type=radio]:hover~span",
+      "declarations": "background-color:hsla(var(--background-color-hsl),calc(var(--background-color-alpha)*var(--hover-alpha-modifier)))"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "selector": ".form-field-radio-type-button.form-field-radio-fill-outline .sqs-site-style-form .form-item.radio input[type=radio]:checked:hover~span",
+      "declarations": "background-color:hsla(var(--foreground-color-hsl),calc(var(--foreground-color-alpha)*var(--checked-hover-alpha-modifier, var(--hover-alpha-modifier))))"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "selector": ".form-field-radio-type-button.form-field-radio-shape-pill .sqs-site-style-form .form-item.radio",
+      "declarations": "--radio-pill-border-radius:calc(var(--form-field-radio-padding-top, var(--form-field-radio-padding-vertical)) + var(--form-block-option-text-font-line-height) * 0.66)"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "selector": ".sqs-site-style-form .sqs-editable-button",
+      "declarations": "background:var(--tweak-form-block-button-background-color);color:var(--tweak-form-block-button-text-color)"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "selector": "ndary-button-style-outline .sqs-site-style-form .sqs-editable-button.sqs-button-element--secondary,.tertiary-button-style-outline .sqs-site-style-form .sqs-edit",
+      "declarations": "color:var(--tweak-form-block-button-background-color);border-color:var(--tweak-form-block-button-background-color)"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "selector": "-style-outline .sqs-site-style-form .sqs-editable-button.sqs-button-element--secondary:hover,.tertiary-button-style-outline .sqs-site-style-form .sqs-editable-b",
+      "declarations": "background:var(--tweak-form-block-button-background-color);color:var(--tweak-form-block-button-text-color)"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "selector": "orm .sqs-editable-button.sqs-button-element--secondary:hover,.tertiary-button-style-outline.tertiary-button-shape-underline .sqs-site-style-form .sqs-editable-b",
+      "declarations": "border-color:var(--tweak-form-block-button-text-color)"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "selector": "s-site-style-form .sqs-editable-button.sqs-button-element--secondary,.tertiary-button-style-solid.tertiary-button-shape-underline .sqs-site-style-form .sqs-edit",
+      "declarations": "background:var(--tweak-form-block-button-text-color);color:var(--tweak-form-block-button-background-color);border-color:var(--tweak-form-block-button-background-color)"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "selector": ".sqs-background-enabled .sqs-site-style-form .sqs-editable-button",
+      "declarations": "background:var(--tweak-form-block-button-background-color-on-background);color:var(--tweak-form-block-button-text-color-on-background)"
+    },
+    {
+      "source": "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+      "selector": "ed .sqs-site-style-form .sqs-editable-button.sqs-button-element--secondary,.tertiary-button-style-outline .sqs-background-enabled .sqs-site-style-form .sqs-edit",
+      "declarations": "color:var(--tweak-form-block-button-background-color-on-background);border-color:var(--tweak-form-block-button-background-color-on-background)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "Acid League",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "cd3ce30f35bc6432d2b13e6f7b230b5962c4e6682e10223216c5c2f70a2705db"
+    }
+  ],
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.acidleague.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+        "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css",
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true",
+        "https://static1.squarespace.com/static/custom-css/660d9e057f81f26b8d700ecc/660d9e067f81f26b8d700eda/37/custom.css",
+        "https://assets.squarespace.com/universal/styles-compressed/35ebb88013744865-min.en-US.css",
+        "https://assets.squarespace.com/universal/styles-compressed/popup-overlay-b742b752f5880972-min.en-US.css",
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css",
+        "https://www.acidleague.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.acidleague.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true",
+        "https://assets.squarespace.com/universal/styles-compressed/popup-overlay-b742b752f5880972-min.en-US.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+        "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true",
+        "https://assets.squarespace.com/universal/styles-compressed/popup-overlay-b742b752f5880972-min.en-US.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+        "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.newsletter/58d67523-2cf5-42f9-95a4-1e436b9263fe_104/website.components.newsletter.styles.css",
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css",
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true",
+        "https://static1.squarespace.com/static/custom-css/660d9e057f81f26b8d700ecc/660d9e067f81f26b8d700eda/37/custom.css",
+        "https://assets.squarespace.com/universal/styles-compressed/popup-overlay-b742b752f5880972-min.en-US.css",
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css",
+        "https://www.acidleague.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+        "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.newsletter/58d67523-2cf5-42f9-95a4-1e436b9263fe_104/website.components.newsletter.styles.css",
+        "https://definitions.sqspcdn.com/website-component-definition/static-assets/website.components.summary/ed85cd87-af78-4d05-9615-91be789c7960_659/website.components.summary.styles.css",
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true",
+        "https://static1.squarespace.com/static/custom-css/660d9e057f81f26b8d700ecc/660d9e067f81f26b8d700eda/37/custom.css",
+        "https://assets.squarespace.com/universal/styles-compressed/popup-overlay-b742b752f5880972-min.en-US.css",
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css",
+        "https://www.acidleague.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "colors.neutral-100": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true"
+      ]
+    },
+    "colors.neutral-300": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static1.squarespace.com/static/vta/5c5a519771c10ba3470d8101/versioned-assets/1790369550255-UD7Y0XW9WYR4Q7BKSFFE/static.css",
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true",
+        "https://assets.squarespace.com/universal/styles-compressed/35ebb88013744865-min.en-US.css"
+      ]
+    },
+    "colors.neutral-500": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://assets.squarespace.com/universal/styles-compressed/commerce-d50e5960dc9fd059-min.en-US.css",
+        "https://static1.squarespace.com/static/versioned-site-css/660d9e057f81f26b8d700ecc/218/5c5a519771c10ba3470d8101/660d9e067f81f26b8d700eda/1831/site.css?nocustom=true",
+        "https://assets.squarespace.com/universal/styles-compressed/popup-overlay-b742b752f5880972-min.en-US.css",
+        "https://www.gstatic.com/recaptcha/releases/kemdRjWFxNjgsGdhRslyEPwU/styles__ltr.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.retailer-strip": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: NI (National Instruments)
-description: |
+name: "NI (National Instruments)"
+source_url: "https://www.ni.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   FinancierDisplay — a typeface born in financial editorial — anchors the hero of a test-and-measurement instruments company, and that incongruity is the first thing to understand about NI's visual identity. The serif carries institutional authority without aggression, pairing with FoundersGrotesk's clean geometric weight to give instrument data and marketing prose a shared voice that reads as rigorous rather than corporate. The primary brand anchor is #044123, a forest green so saturated it reads nearly black in isolation and only reveals its chroma when the electric mint #03b585 or the high-voltage #32eb96 ignites alongside it in interactive states, data overlays, and success indicators. Blue (#0d6efd, #0a58ca, #084298) arrives as a secondary palette inherited from Bootstrap's utility layer — status badges, info callouts, link text — rather than as brand ambition, which keeps the verdant greens legible as identity rather than system chrome.
 
   Surface treatments use the meta theme-color #f4f4f4 as a near-white page canvas, pulling sage-tinged panels (#cddcc8) into section dividers and alternating table rows. Cards sit on white with a #e7e7e7 hairline rather than elevation shadow, preserving the flat, diagram-adjacent aesthetic that engineers scanning datasheets expect. FinancierDisplay runs at 56px in hero positions at restrained tracking that feels editorial; FoundersGrotesk handles all UI chrome — nav labels, form inputs, data table columns — at 14–16px. The monospace stack (Consolas, Courier New, Liberation Mono) surfaces in code samples and parameter readouts, treating technical precision as a first-class design material rather than an afterthought restyled with font-family: inherit.
@@ -482,6 +485,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No icon system or glyph set confirmed; the font stack includes `Glyphicons Glyphicon` suggesting Bootstrap 3 icon font usage in legacy sections, but current icon treatment (SVG vs icon font vs image sprite) could not be verified from extraction
 - Exact FinancierDisplay and FoundersGrotesk weight axes and available cuts unknown; weights above are inferred from the editorial/UI role split rather than measured from rendered glyphs

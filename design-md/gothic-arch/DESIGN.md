@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Gothic Arch
-description: |
+name: "Gothic Arch"
+source_url: "https://www.gothicarchgreenhouses.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Every call-to-action button on gothicarchgreenhouses.com runs the same flat signal red (#cc0000) — no gradient, no shadow blur, no hover shimmer, just a solid rectangle that reads like a hardware-store price tag. The palette underneath is catalog-utilitarian: ten neutrals spanning #111111 through #f6f6f6 form the working surface, while that red and a single horticultural green (#339933) carry all the emotional weight. A deep marine teal (#006080) surfaces in informational links and product-detail callouts — the one cool-temperature accent in an otherwise achromatic system. Baskerville appears in the font stack alongside Arial and Helvetica, an unexpected serif that is telling: it signals the serious hobbyist and commercial grower audience that Gothic Arch has served since its 1946 founding in Mobile, Alabama, giving product description copy a slight almanac formality that a pure sans-serif stack would flatten. Button corners are barely radiused ({rounded.xs}), inputs sit inside rectangular shells, and the product grid packs tightly without the breathing room of lifestyle brands. Navigation runs multiple levels deep with no animation budget — category trees, filter sidebars, and spec tables share the same high-density philosophy. Whitespace is functional: it separates sections rather than creates atmosphere. The #e83e8c pink and #ff9933 orange in the extracted palette are almost certainly UI-framework artifacts — Bootstrap badge defaults or Font Awesome state tints — rather than Gothic Arch choices. The true brand signal is in what is absent: no lifestyle photography art direction, no motion, no aspirational overlay copy. Just panel dimensions, glazing options, a note about Alabama weather testing, and a red button that has read "Add to Cart" with exactly this weight for two decades.
 
 colors:
@@ -353,6 +356,8 @@ components:
 - Footer columns: collapse to a single-column accordion list below 744px, with section headings acting as toggle triggers
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom brand typeface detected — Baskerville is inferred from the system font-family stack; exact weight usage, optical sizing, and whether it is used in headings vs. body cannot be confirmed without live rendering
 - Primary CTA color identified as #cc0000 based on it being the most distinctive non-gray in the extracted palette; confirm this is the true action color and not a secondary accent

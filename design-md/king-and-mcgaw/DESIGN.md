@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: King & McGaw
-description: |
+name: "King & McGaw"
+source_url: "https://www.kingandmcgaw.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Portrait Light Web — a custom display serif licensed exclusively for this brand — sets King & McGaw apart from every mass-market poster retailer the moment the page loads. The typeface carries the weight of a gallery catalogue rather than a shop: letterforms are narrow and light, sized generously at display scale (~48px) but restrained in weight (Light/300), creating the impression of frame labels rather than headlines selling product. The canvas leans warm: off-white tones (#eae9e7, #f5f5f3) stop short of pure clinical white (#ffffff is reserved for card surfaces), so art photographs the way it looks on linen mounting board. Where a single accent color would suffice for most retailers, King & McGaw operates a seven-color category taxonomy — warm apricot (#fdc79e), sage green (#70a345), muted brick (#b64646), dusty slate (#708b9e), soft mint (#addbb3), pale gold (#e2bf24), and tan (#c7b097) — each mapped to an art genre or movement. Tags reading "Photography", "Abstract", "Mid-Century" each carry their own swatch, turning the navigation into a chromatic index of art history.
 
   The most singular brand color is the apricot (#fdc79e), used as the primary action accent — warm enough to signal curation without the urgency of a sale badge. Borders and dividers use a warm gray (#d8cdc3) rather than a neutral, preserving the linen-room warmth throughout. Buttons are flat-edged ({rounded.none}) in the tradition of print catalogues, which never needed to soften their corners. Search and input fields follow the same discipline: thin borders, warm background (#f5f5f3), no pill softening. The overall spatial grammar is generous — section spacing runs to 64px or more, echoing the white space a gallery uses to isolate a framed print on a wall. Typography hierarchy uses Portrait Light Web for emotional register (hero statements, artist names, feature titles) and system sans-serif for informational density (prices, sizes, edition counts, navigation links), a split that maps exactly onto how a gallery might separate editorial copy from wall labels.
@@ -393,6 +396,8 @@ components:
 - Hero switches from text-left / image-right to stacked image-above / text-below on mobile, with image capped at 56vh
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Portrait Light Web weight variants beyond Light (300) could not be confirmed — the brand may use a Regular (400) weight for body-level serif instances such as pull quotes or editorial captions
 - The exact token used for primary CTA buttons is inferred from #fdc79e as the most distinctive extracted color; the live site may route primary actions through a different color in certain flows (e.g. framing configurator)

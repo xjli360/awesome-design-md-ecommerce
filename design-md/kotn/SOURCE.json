@@ -1,0 +1,714 @@
+{
+  "source_url": "https://kotn.com",
+  "final_url": "https://kotn.com/",
+  "captured_at": "2026-09-28T04:45:27.072384+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://kotn.com",
+      "final_url": "https://kotn.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "f7651db022027ecb441140fb40e48b332cfd3386cce630f7dddb14bbef962731",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+      "final_url": "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "410b39a4f6fc114d528c06f5311c54b131031434de6b1bb2c27264a6565cf536",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://kotn.com/_next/static/css/f09b485472585745.css",
+      "final_url": "https://kotn.com/_next/static/css/f09b485472585745.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "9d7dfd4349f021581df8f02cec45e48b898d5e721a5f1e34071def64a01503e6",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://kotn.com/_next/static/css/2d43d8b511ef8003.css",
+      "final_url": "https://kotn.com/_next/static/css/2d43d8b511ef8003.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "2758604ce0fa44011da83ff93bd77d3fa71edaf17318120445f77f70762a2605",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 18,
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+        "https://kotn.com/_next/static/css/f09b485472585745.css",
+        "https://kotn.com/_next/static/css/2d43d8b511ef8003.css"
+      ]
+    },
+    "#737373": {
+      "count": 3,
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+      ]
+    },
+    "#bfb6b6": {
+      "count": 3,
+      "sources": [
+        "https://kotn.com/_next/static/css/2d43d8b511ef8003.css"
+      ]
+    },
+    "#000000": {
+      "count": 2,
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+        "https://kotn.com/_next/static/css/f09b485472585745.css"
+      ]
+    },
+    "#7e7e7e": {
+      "count": 2,
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 2,
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+      ]
+    },
+    "#555555": {
+      "count": 2,
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+      ]
+    },
+    "#a0aec0": {
+      "count": 2,
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+        "https://kotn.com/_next/static/css/f09b485472585745.css"
+      ]
+    },
+    "#191919": {
+      "count": 2,
+      "sources": [
+        "https://kotn.com/_next/static/css/2d43d8b511ef8003.css"
+      ]
+    },
+    "#e2e8f0": {
+      "count": 1,
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+      ]
+    },
+    "#030302": {
+      "count": 1,
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+      ]
+    },
+    "#343332": {
+      "count": 1,
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+      ]
+    },
+    "#686764": {
+      "count": 1,
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+      ]
+    },
+    "#82807d": {
+      "count": 1,
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+      ]
+    },
+    "#d3cec5": {
+      "count": 1,
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+      ]
+    },
+    "#dbd8d2": {
+      "count": 1,
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+      ]
+    },
+    "#f4f1dd": {
+      "count": 1,
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+      ]
+    },
+    "#edece8": {
+      "count": 1,
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+      ]
+    },
+    "#006642": {
+      "count": 1,
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+      ]
+    },
+    "#ffd500": {
+      "count": 1,
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+      ]
+    },
+    "#fcfbef": {
+      "count": 1,
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+      ]
+    },
+    "#14a166": {
+      "count": 1,
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+      ]
+    },
+    "#a63f3f": {
+      "count": 1,
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+      ]
+    },
+    "#bd4800": {
+      "count": 1,
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+      ]
+    },
+    "#b9a6b1": {
+      "count": 1,
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 1,
+      "sources": [
+        "https://kotn.com/_next/static/css/f09b485472585745.css"
+      ]
+    },
+    "#3b82f6": {
+      "count": 1,
+      "sources": [
+        "https://kotn.com/_next/static/css/f09b485472585745.css"
+      ]
+    },
+    "#d1fae5": {
+      "count": 1,
+      "sources": [
+        "https://kotn.com/_next/static/css/f09b485472585745.css"
+      ]
+    },
+    "#065f46": {
+      "count": 1,
+      "sources": [
+        "https://kotn.com/_next/static/css/f09b485472585745.css"
+      ]
+    },
+    "#fee2e2": {
+      "count": 1,
+      "sources": [
+        "https://kotn.com/_next/static/css/f09b485472585745.css"
+      ]
+    },
+    "#991b1b": {
+      "count": 1,
+      "sources": [
+        "https://kotn.com/_next/static/css/f09b485472585745.css"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://kotn.com/_next/static/css/f09b485472585745.css"
+      ]
+    },
+    "#edebe7": {
+      "count": 1,
+      "sources": [
+        "https://kotn.com/_next/static/css/2d43d8b511ef8003.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+      "https://kotn.com/_next/static/css/f09b485472585745.css",
+      "https://kotn.com/_next/static/css/2d43d8b511ef8003.css"
+    ],
+    "Apple Color Emoji": [
+      "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+    ],
+    "Consolas": [
+      "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+    ],
+    "Courier New": [
+      "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+    ],
+    "Kotn Sohne": [
+      "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+      "https://kotn.com/_next/static/css/f09b485472585745.css",
+      "https://kotn.com/_next/static/css/2d43d8b511ef8003.css"
+    ],
+    "Kotn Sohne Breit": [
+      "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+      "https://kotn.com/_next/static/css/f09b485472585745.css",
+      "https://kotn.com/_next/static/css/2d43d8b511ef8003.css"
+    ],
+    "Liberation Mono": [
+      "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+    ],
+    "Menlo": [
+      "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+    ],
+    "Monaco": [
+      "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+    ],
+    "Noto Color Emoji": [
+      "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+    ],
+    "Reckless": [
+      "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+      "https://kotn.com/_next/static/css/f09b485472585745.css",
+      "https://kotn.com/_next/static/css/2d43d8b511ef8003.css"
+    ],
+    "Segoe UI Emoji": [
+      "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+    ],
+    "Segoe UI Symbol": [
+      "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+    ],
+    "monospace": [
+      "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+    ],
+    "sans-serif": [
+      "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+      "https://kotn.com/_next/static/css/f09b485472585745.css",
+      "https://kotn.com/_next/static/css/2d43d8b511ef8003.css"
+    ],
+    "system-ui": [
+      "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+      "https://kotn.com/_next/static/css/f09b485472585745.css",
+      "https://kotn.com/_next/static/css/2d43d8b511ef8003.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+      "selector": ".header_close__5MiGD,.header_title__MYgC_",
+      "declarations": "font-size:var(--text-copy);color:var(--palette-text-alt);margin:0;font-weight:400"
+    },
+    {
+      "source": "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+      "selector": ".quantity_button__N3CoO",
+      "declarations": "display:block;float:left;font-family:monospace;width:var(--spacing-4);padding:0;border:none;background:transparent;box-shadow:none;cursor:pointer;font-size:var(--text-copy);text-align:center"
+    },
+    {
+      "source": "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+      "selector": ".ProductCard_container__mAbPi",
+      "declarations": "width:100%;position:relative;background-color:#fff;overflow:hidden;opacity:0;-webkit-animation-name:ProductCard_fadeIn__TRuXZ;animation-name:ProductCard_fadeIn__TRuXZ;-webkit-animation-fill-mode:forwards;animation-fill-mode:forwards;-webkit-animation-duration:.3s;animation-duration:.3s"
+    },
+    {
+      "source": "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+      "selector": ".ProductCard_imageSection__1QtoQ",
+      "declarations": "position:relative;width:100%;height:0;padding-bottom:150%;-webkit-animation:ProductCard_fadeIn__TRuXZ .35s ease-in;animation:ProductCard_fadeIn__TRuXZ .35s ease-in;overflow:hidden;background-color:#fff"
+    },
+    {
+      "source": "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+      "selector": ".ProductCard_imageContainer__Esrc3",
+      "declarations": "position:absolute;top:0;bottom:0;right:0;left:0;background-color:#fff"
+    },
+    {
+      "source": "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+      "selector": ".ProductCard_image__gtOcZ",
+      "declarations": "position:absolute;top:0;left:0;width:100%;height:100%;-o-object-fit:cover;object-fit:cover;background-color:#fff"
+    },
+    {
+      "source": "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+      "selector": ".ProductCard_specialText__SuDgd",
+      "declarations": "position:relative;z-index:20;padding:var(--spacing-4) var(--spacing-4) 0 var(--spacing-4);font-size:var(--text-copy);color:var(--color-orange)"
+    },
+    {
+      "source": "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+      "selector": ".ProductCard_loadingMessage__ioTaO",
+      "declarations": "padding:var(--spacing-4);border-radius:.5rem;background:rgba(0,0,0,.5);color:var(--color-white)"
+    },
+    {
+      "source": "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+      "selector": ".ProductCard_title__S9By_",
+      "declarations": "--max-lines:1;--lh:1.5rem;padding:0 var(--spacing-3);line-height:var(--lh);max-height:calc(var(--lh) * var(--max-lines));overflow:hidden;display:block;text-overflow:ellipsis;white-space:nowrap;-webkit-box-orient:vertical;-webkit-line-clamp:var(--max-lines)"
+    },
+    {
+      "source": "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+      "selector": ".ProductCard_toggleBtn__4V__y",
+      "declarations": "position:absolute;right:0;padding:var(--spacing-3);transition:.1s ease-in-out;background-color:var(--color-white);box-shadow:-1px 0 2px 0 var(--color-white),-1px 0 4px 0 var(--color-white)"
+    },
+    {
+      "source": "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+      "selector": ".ProductCard_colourMore__J_NEL",
+      "declarations": "font-size:var(--text-copy);color:var(--color-dark-gray)"
+    },
+    {
+      "source": "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+      "selector": ".recommendations_cartHeader__bdqdn,.recommendations_header__3HACt",
+      "declarations": "font-family:Kotn Sohne,system-ui,-apple-system,sans-serif;text-align:center;font-size:var(--text-heading);padding:var(--spacing-6) var(--spacing-2);color:var(--color-darker-gray)"
+    },
+    {
+      "source": "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+      "selector": ".recommendations_button__GWRRX",
+      "declarations": "width:100%;padding:var(--spacing-5);border-top:1px solid var(--color-light-gray);border-bottom:1px solid var(--color-light-gray);font-size:var(--text-copy);color:var(--color-black)"
+    },
+    {
+      "source": "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+      "selector": ".button_base__IhTLo",
+      "declarations": "display:flex;flex-direction:row;justify-content:center;align-items:center;box-sizing:border-box;font-size:var(--text-copy);line-height:var(--line-height-solid);font-family:var(--font-sans)"
+    },
+    {
+      "source": "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+      "selector": ".button_secondary__LgZOe",
+      "declarations": "border:1px solid var(--color-black-alpha-10);border-radius:2px;color:var(--palette-text-alt);height:3.5rem;background:var(--color-white)"
+    },
+    {
+      "source": "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+      "selector": ".button_secondary__LgZOe:disabled",
+      "declarations": "border:1px solid var(--color-black-alpha-10);cursor:not-allowed;color:var(--color-black-alpha-20)"
+    },
+    {
+      "source": "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+      "selector": ".button_primary__Rr1tZ",
+      "declarations": "color:var(--palette-text-dark);background:var(--palette-background-dark-alt);height:3.5rem"
+    },
+    {
+      "source": "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+      "selector": ".protection_addProtectionButton__SnUSt",
+      "declarations": "display:flex;flex-direction:row;justify-content:center;align-items:center;box-sizing:border-box;width:100%;height:3.5rem;font-size:var(--text-copy);font-family:var(--font-sans);line-height:var(--line-height-solid);letter-spacing:.02em;cursor:pointer;background:var(--palette-background,#fff);color:var(--color-black);border:1px solid var(--color-black);transition:opacity .15s ease"
+    },
+    {
+      "source": "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+      "selector": ".footer_infoButton__tn2nw",
+      "declarations": "background:none;border:none;font-size:16px;line-height:1;cursor:pointer;display:inline-flex;align-items:center;justify-content:center;padding:0;color:var(--color-black);flex-shrink:0"
+    },
+    {
+      "source": "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;line-height:1.15;margin:0"
+    },
+    {
+      "source": "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+      "selector": "button",
+      "declarations": "background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "padding:0;line-height:inherit;color:inherit"
+    },
+    {
+      "source": "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+      "selector": ":root",
+      "declarations": "--spacing-1:0.25rem;--spacing-2:0.5rem;--spacing-3:0.75rem;--spacing-4:1rem;--spacing-5:1.25rem;--spacing-6:1.5rem;--spacing-8:2rem;--spacing-10:2.5rem;--spacing-12:3rem;--spacing-16:4rem;--spacing-20:5rem;--spacing-24:6rem;--spacing-32:8rem;--spacing-40:10rem;--spacing-48:12rem;--spacing-56:14rem;--spacing-64:16rem;--spacing-nav:4.5rem;--spacing-nav-mobile:4.5rem;--z-base:0;--z-layer-1:100;--z-layer-2:200;--z-layer-3:300;--z-layer-4:400;--z-layer-5:500;--z-layer-6:600;--z-layer-7:700;--z-layer-8:800;--z-layer-9:900;--font-sans:\"Kotn Sohne\",system-ui,-apple-system,sans-serif;--font-accent:\"Kotn Sohne Breit\",system-ui,sans-serif;--font-serif:\"Reckless\";--text-super:max(2.5rem,5vw);--text-disp"
+    },
+    {
+      "source": "https://kotn.com/_next/static/css/f09b485472585745.css",
+      "selector": ".form_button__dF_kQ",
+      "declarations": "background:var(--color-black);color:var(--color-white);border:none;padding:.75rem 1.5rem;font-size:1rem;line-height:1;text-align:center;white-space:nowrap;cursor:pointer;flex:1 1 auto"
+    },
+    {
+      "source": "https://kotn.com/_next/static/css/f09b485472585745.css",
+      "selector": ".footer_formTitle__8LUXk,.footer_header__ct7KP",
+      "declarations": "line-height:1.3;text-align:center;color:var(--color-black)"
+    },
+    {
+      "source": "https://kotn.com/_next/static/css/f09b485472585745.css",
+      "selector": ".footer_form__ZYkY4 button",
+      "declarations": "padding:0;background:none;font-size:var(--text-copy);color:var(--color-black);flex:none"
+    },
+    {
+      "source": "https://kotn.com/_next/static/css/f09b485472585745.css",
+      "selector": ".footer_cookieButton__3gW1q",
+      "declarations": "background:none;border:none;font-family:inherit;font-size:var(--text-copy);color:var(--color-black);cursor:pointer;padding:0;margin-top:var(--spacing-2)"
+    },
+    {
+      "source": "https://kotn.com/_next/static/css/f09b485472585745.css",
+      "selector": ".popupMailer_closeButton__f3dsQ",
+      "declarations": "position:absolute;top:1rem;right:1rem;background:none;border:none;font-size:1.5rem;cursor:pointer;color:inherit;width:2rem;height:2rem;display:flex;align-items:center;justify-content:center;border-radius:50%;transition:background-color .2s ease;z-index:10"
+    },
+    {
+      "source": "https://kotn.com/_next/static/css/f09b485472585745.css",
+      "selector": ".popupMailer_closeButton__f3dsQ:hover",
+      "declarations": "background-color:rgba(0,0,0,.1)"
+    },
+    {
+      "source": "https://kotn.com/_next/static/css/2d43d8b511ef8003.css",
+      "selector": ".VideoPlayer_videoButton__a16JX svg",
+      "declarations": "color:inherit"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Kotn | Sustainable Clothing & Home Decor. Quality, Comfort, Ethics.",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+        "https://kotn.com/_next/static/css/f09b485472585745.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+        "https://kotn.com/_next/static/css/f09b485472585745.css",
+        "https://kotn.com/_next/static/css/2d43d8b511ef8003.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kotn.com/_next/static/css/f09b485472585745.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kotn.com/_next/static/css/f09b485472585745.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+        "https://kotn.com/_next/static/css/f09b485472585745.css",
+        "https://kotn.com/_next/static/css/2d43d8b511ef8003.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css",
+        "https://kotn.com/_next/static/css/f09b485472585745.css",
+        "https://kotn.com/_next/static/css/2d43d8b511ef8003.css"
+      ]
+    },
+    "colors.canvas-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+      ]
+    },
+    "colors.deep-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+      ]
+    },
+    "colors.text-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+      ]
+    },
+    "colors.border-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kotn.com/_next/static/css/2d43d8b511ef8003.css"
+      ]
+    },
+    "colors.success-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kotn.com/_next/static/css/f09b485472585745.css"
+      ]
+    },
+    "colors.success-text": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kotn.com/_next/static/css/f09b485472585745.css"
+      ]
+    },
+    "colors.error-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kotn.com/_next/static/css/f09b485472585745.css"
+      ]
+    },
+    "colors.error-text": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kotn.com/_next/static/css/f09b485472585745.css"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kotn.com/_next/static/css/dae9202c7eab090f.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.sustainability-callout": {
+      "status": "inferred"
+    }
+  }
+}

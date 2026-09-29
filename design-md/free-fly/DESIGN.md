@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Free Fly
-description: A bamboo-fiber outdoor apparel brand that stakes its visual identity on a deep, quiet green (#3e7a5e) and a teal accent (#5ac3b5) that surfaces only on CTAs and sale badges — a restrained palette that reads as grounded rather than outdoorsy-loud. The site runs ABC Diatype Mono for body copy, a monospaced face that would feel cold in finance but here, against a warm off-white canvas (#f4f4f6) and soft gray surfaces (#e5e5e5), it signals precision and intentionality. Product photography does the heavy lifting for texture — bamboo jersey folds, sun-lit fishing scenes — so the UI stays out of the way with generous whitespace and thin hairlines (#dbdde4). Headlines use New Spirit Condensed, a serif with a slight editorial drawl, set in dark ink (#373a36) at sizes that feel like magazine spreads. The marigold accent (#fbc641) appears sparingly — a badge on a bestseller, a dot on a size selector — never competing with the teal. Every button is a pill (`{rounded.full}`), every card corner soft (`{rounded.md}`), and the search bar floats in a full-width teal band that breaks the grid, the one moment the brand raises its voice. The overall mood is calm competence: a brand that knows its fabric is the story, and the interface is just the frame.
+name: "Free Fly"
+source_url: "https://www.freeflyapparel.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A bamboo-fiber outdoor apparel brand that stakes its visual identity on a deep, quiet green (#3e7a5e) and a teal accent (#5ac3b5) that surfaces only on CTAs and sale badges — a restrained palette that reads as grounded rather than outdoorsy-loud. The site runs ABC Diatype Mono for body copy, a monospaced face that would feel cold in finance but here, against a warm off-white canvas (#f4f4f6) and soft gray surfaces (#e5e5e5), it signals precision and intentionality. Product photography does the heavy lifting for texture — bamboo jersey folds, sun-lit fishing scenes — so the UI stays out of the way with generous whitespace and thin hairlines (#dbdde4). Headlines use New Spirit Condensed, a serif with a slight editorial drawl, set in dark ink (#373a36) at sizes that feel like magazine spreads. The marigold accent (#fbc641) appears sparingly — a badge on a bestseller, a dot on a size selector — never competing with the teal. Every button is a pill (`{rounded.full}`), every card corner soft (`{rounded.md}`), and the search bar floats in a full-width teal band that breaks the grid, the one moment the brand raises its voice. The overall mood is calm competence: a brand that knows its fabric is the story, and the interface is just the frame.
 
 colors:
   primary: "#3e7a5e"
@@ -371,6 +375,8 @@ components:
 - Size selector wraps to two rows on mobile (XS–L on top, XL–XXL below)
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for many components (text-input focus ring, button hover shadows, card hover lift) could not be reliably extracted from the live site CSS — the extracted colors list is dominated by grays and neutrals, and the brand's true primary (#3e7a5e) was identified by its distinctiveness among the palette rather than by frequency. The accent teal (#5ac3b5) and marigold (#fbc641) appear in the extracted list but their exact usage contexts (badges, CTAs, sale flags) are inferred from common ecommerce patterns.
 - Error styling for forms (red border for validation) is assumed from standard Shopify patterns — the exact hex (#c13515) is not in the extracted list.

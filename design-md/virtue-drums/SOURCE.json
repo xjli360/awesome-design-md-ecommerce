@@ -1,0 +1,793 @@
+{
+  "source_url": "https://www.virtuedrums.com",
+  "final_url": "https://www.virtuedrums.com/",
+  "captured_at": "2026-09-28T09:14:55.324444+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.virtuedrums.com",
+      "final_url": "https://www.virtuedrums.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "34d2cc5bed07af6091fea6d24c0536e930677027e5abdc467be60e8ce6d64534",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+      "final_url": "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d7f11976d826c7b83a24c57ca51f96704a72c4a9ebe568190cedc3ef182117f4",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://cdn3.editmysite.com/app/checkout/assets/checkout/css/wcko.d01e607a0316a2da0559.css",
+      "final_url": "https://cdn3.editmysite.com/app/checkout/assets/checkout/css/wcko.d01e607a0316a2da0559.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6039ab46027f3e0d2fbeac6766b881c1bd031b886a564fbaed5ee65a6b8f0f9d",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 41,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+        "https://cdn3.editmysite.com/app/checkout/assets/checkout/css/wcko.d01e607a0316a2da0559.css"
+      ]
+    },
+    "#000000": {
+      "count": 28,
+      "sources": [
+        "https://www.virtuedrums.com/",
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+        "https://cdn3.editmysite.com/app/checkout/assets/checkout/css/wcko.d01e607a0316a2da0559.css"
+      ]
+    },
+    "#00000000": {
+      "count": 20,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#73859f": {
+      "count": 9,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#919191": {
+      "count": 7,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+        "https://cdn3.editmysite.com/app/checkout/assets/checkout/css/wcko.d01e607a0316a2da0559.css"
+      ]
+    },
+    "#2b333f": {
+      "count": 7,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#1b1b1b": {
+      "count": 6,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+        "https://cdn3.editmysite.com/app/checkout/assets/checkout/css/wcko.d01e607a0316a2da0559.css"
+      ]
+    },
+    "#000000cc": {
+      "count": 6,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#2b333fb3": {
+      "count": 6,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#ffffffcc": {
+      "count": 4,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 4,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#73859f80": {
+      "count": 4,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#0000004d": {
+      "count": 3,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 3,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+        "https://cdn3.editmysite.com/app/checkout/assets/checkout/css/wcko.d01e607a0316a2da0559.css"
+      ]
+    },
+    "#00000033": {
+      "count": 3,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#ffffff0d": {
+      "count": 3,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#000000b3": {
+      "count": 3,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#000000e6": {
+      "count": 3,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#707070": {
+      "count": 3,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+        "https://cdn3.editmysite.com/app/checkout/assets/checkout/css/wcko.d01e607a0316a2da0559.css"
+      ]
+    },
+    "#00000052": {
+      "count": 2,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#00000014": {
+      "count": 2,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#ffffff00": {
+      "count": 2,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 2,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#006aff": {
+      "count": 2,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+        "https://cdn3.editmysite.com/app/checkout/assets/checkout/css/wcko.d01e607a0316a2da0559.css"
+      ]
+    },
+    "#d92b2b": {
+      "count": 2,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+        "https://cdn3.editmysite.com/app/checkout/assets/checkout/css/wcko.d01e607a0316a2da0559.css"
+      ]
+    },
+    "#7b88bc": {
+      "count": 2,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+        "https://cdn3.editmysite.com/app/checkout/assets/checkout/css/wcko.d01e607a0316a2da0559.css"
+      ]
+    },
+    "#888888": {
+      "count": 2,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#2b333fbf": {
+      "count": 2,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#6b7280": {
+      "count": 2,
+      "sources": [
+        "https://cdn3.editmysite.com/app/checkout/assets/checkout/css/wcko.d01e607a0316a2da0559.css"
+      ]
+    },
+    "#00000020": {
+      "count": 1,
+      "sources": [
+        "https://www.virtuedrums.com/"
+      ]
+    },
+    "#141414": {
+      "count": 1,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#00000029": {
+      "count": 1,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#d6d6d6": {
+      "count": 1,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#ffffffde": {
+      "count": 1,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#ffffff14": {
+      "count": 1,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#ffffff29": {
+      "count": 1,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#07070726": {
+      "count": 1,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#0000001f": {
+      "count": 1,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#00000024": {
+      "count": 1,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#00000080": {
+      "count": 1,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#adb1b5": {
+      "count": 1,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#ffffff1a": {
+      "count": 1,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#ffffff26": {
+      "count": 1,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#ffffff33": {
+      "count": 1,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#ffffff4d": {
+      "count": 1,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#ffffff66": {
+      "count": 1,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#ffffff80": {
+      "count": 1,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#ffffff99": {
+      "count": 1,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#00000026": {
+      "count": 1,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#0201014d": {
+      "count": 1,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#02010166": {
+      "count": 1,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#02010180": {
+      "count": 1,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#0000008c": {
+      "count": 1,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#00000099": {
+      "count": 1,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 1,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 1,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 1,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "#999999": {
+      "count": 1,
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+    ],
+    "Helvetica": [
+      "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+    ],
+    "Inter": [
+      "https://cdn3.editmysite.com/app/checkout/assets/checkout/css/wcko.d01e607a0316a2da0559.css"
+    ],
+    "VideoJS": [
+      "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+    ],
+    "sans-serif": [
+      "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+      "selector": ".cko__header-title",
+      "declarations": "align-content:center;font-family:var(--site-title-font);font-size:var(--font-step-2-size);font-weight:var(--site-title-font-weight,600);text-align:center"
+    },
+    {
+      "source": "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+      "selector": ":root",
+      "declarations": "--cookiebot-primary-color:#141414;--cookiebot-secondary-color:#00000014;--cookiebot-info-box-color:#0000000d;--cookiebot-external-link-color:#0000004d;--cookiebot-background-color:#fff;--cookiebot-border-color:#00000029;--cookiebot-disabled-color:#d6d6d6;--cookiebot-disabled-toggle-color:var(--cookiebot-background-color);--cookiebot-fader-gradient:linear-gradient(0deg,#fff,#fffc,#fff0);--cookiebot-dark-primary-color:#ffffffde;--cookiebot-dark-secondary-color:#ffffff0d;--cookiebot-dark-info-box-color:#ffffff0d;--cookiebot-dark-bg-color:#000;--cookiebot-dark-border-color:#ffffff14;--cookiebot-dark-disabled-color:#ffffff29;--cookiebot-dark-disabled-toggle-color:var(--cookiebot-dark-primary-colo"
+    },
+    {
+      "source": "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+      "selector": "botCookiebotDialog .CookieCard .CybotCookiebotDialogDetailBodyContentCookieContainerButton:hover,.cookiebot-theme #CybotCookiebotDialog .CookieCard .CybotCookie",
+      "declarations": "color:var(--cookiebot-primary-color)"
+    },
+    {
+      "source": "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+      "selector": "BulkConsentList dt a,.cookiebot-theme #CybotCookiebotDialog .CybotCookiebotDialogBodyLevelButtonIABDescription a,.cookiebot-theme #CybotCookiebotDialog .CybotCo",
+      "declarations": "color:var(--cookiebot-external-link-color)"
+    },
+    {
+      "source": "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+      "selector": "okieProvider,.cookiebot-theme #CybotCookiebotDialogDetailBodyContentCookieContainerTypes .CybotCookiebotDialogDetailBodyContentCookieProvider:not(.CybotCookiebo",
+      "declarations": "color:var(--cookiebot-primary-color)"
+    },
+    {
+      "source": "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+      "selector": ":hover,.cookiebot-theme #CybotCookiebotDialogDetailBodyContentCookieContainerTypes .CybotCookiebotDialogDetailBodyContentCookieProvider:not(.CybotCookiebotDialo",
+      "declarations": "color:var(--cookiebot-primary-color);opacity:.85"
+    },
+    {
+      "source": "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+      "selector": ".cookiebot-theme #CybotCookiebotDialogDetailBodyContentTextAbout a",
+      "declarations": "color:var(--cookiebot-primary-color)"
+    },
+    {
+      "source": "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+      "selector": "ntentIABv2Tab:hover,.cookiebot-theme #CybotCookiebotDialogBodyLevelButtonsSelectPane label:not([for=CybotCookiebotDialogBodyLevelButtonNecessary]) .CybotCookieb",
+      "declarations": "color:var(--cookiebot-primary-color);opacity:.85"
+    },
+    {
+      "source": "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+      "selector": ".cookiebot-theme #CybotCookiebotDialogDetailBodyContentCookieContainerTypes .CybotCookiebotDialogDetailBodyContentCookieInfo",
+      "declarations": "background-color:var(--cookiebot-info-box-color);border-color:var(--cookiebot-border-color)"
+    },
+    {
+      "source": "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+      "selector": "CookiebotDialogDetailBodyContentCookieInfo.show:first-of-type:before,.cookiebot-theme #CybotCookiebotDialogDetailBodyContentCookieContainerTypes .CybotCookiebot",
+      "declarations": "border-color:var(--cookiebot-border-color)"
+    },
+    {
+      "source": "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+      "selector": "uttonCustomize,.cookiebot-theme #CybotCookiebotDialogFooter #CybotCookiebotDialogBodyLevelButtonLevelOptinAllowallSelection,.cookiebot-theme #CybotCookiebotDial",
+      "declarations": "border-color:var(--cookiebot-primary-color);color:var(--cookiebot-primary-color)"
+    },
+    {
+      "source": "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+      "selector": ".CybotCookiebotDialogDetailBodyContentCookieLink:hover,.cookiebot-theme .CybotCookiebotDialogDetailBodyContentCookieProvider,.cookiebot-theme .CybotCookiebotDia",
+      "declarations": "color:var(--cookiebot-primary-color)"
+    },
+    {
+      "source": "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+      "selector": ".cookiebot-theme #CybotCookiebotDialogBodyButtons",
+      "declarations": "color:var(--cookiebot-primary-color)"
+    },
+    {
+      "source": "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+      "selector": "CybotCookiebotDialogBodyButtons #CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll,.cookiebot-theme #CybotCookiebotDialogBodyButtons #CybotCookiebotDialogBo",
+      "declarations": "border-color:var(--cookiebot-primary-color)"
+    },
+    {
+      "source": "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+      "selector": ".cookiebot-theme #CybotCookiebotDialogBodyButtons #CybotCookiebotDialogBodyLevelButtonLevelOptinAllowAll",
+      "declarations": "background-color:var(--cookiebot-primary-color);color:var(--cookiebot-background-color)"
+    },
+    {
+      "source": "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+      "selector": ".cookiebot-theme #CybotCookiebotDialogTabContent .CybotCookiebotDialogBodyLevelButtonSlider",
+      "declarations": "background-color:var(--cookiebot-primary-color)"
+    },
+    {
+      "source": "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+      "selector": ".cookiebot-theme #CybotCookiebotDialogTabContent .CybotCookiebotDialogBodyLevelButtonSlider:before",
+      "declarations": "background-color:var(--cookiebot-background-color)"
+    },
+    {
+      "source": "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+      "selector": ".cookiebot-theme #CybotCookiebotDialogTabContent input:checked+.CybotCookiebotDialogBodyLevelButtonSlider",
+      "declarations": "background-color:var(--cookiebot-primary-color)"
+    },
+    {
+      "source": "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+      "selector": ".cookiebot-theme #CybotCookiebotDialogTabContent input:checked+.CybotCookiebotDialogBodyLevelButtonSlider:before",
+      "declarations": "background-color:var(--cookiebot-background-color)"
+    },
+    {
+      "source": "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+      "selector": ".cookiebot-theme #CybotCookiebotDialogTabContent input[type=checkbox][disabled]:checked+.CybotCookiebotDialogBodyLevelButtonSlider",
+      "declarations": "background-color:var(--cookiebot-disabled-color)"
+    },
+    {
+      "source": "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+      "selector": ".cookiebot-theme #CybotCookiebotDialogTabContent input[type=checkbox][disabled]:checked+.CybotCookiebotDialogBodyLevelButtonSlider:before",
+      "declarations": "background-color:var(--cookiebot-disabled-toggle-color)"
+    },
+    {
+      "source": "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+      "selector": "alogBodyLevelButtonsSelectPane .CybotCookiebotDialogBodyLevelButtonWrapper,.cookiebot-theme #CybotCookiebotDialogDetailBodyContentCookieContainerTypes .CybotCoo",
+      "declarations": "border-color:var(--cookiebot-border-color)"
+    },
+    {
+      "source": "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+      "selector": ":root",
+      "declarations": "--input-height:48px;--input-height--small:40px;--select-height:48px;--radio-outer-size:20px;--radio-inner-size:6px;--input-border-width:1px;--input-border-radius:3px;--checkbox-border-radius:2px;--form-text-color:var(--color-black);--form-placeholder-color:var(--color-black-alpha-40)"
+    },
+    {
+      "source": "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+      "selector": ":root",
+      "declarations": "--color-swatch-size:24px;--color-swatch-inner-spacing:6px;--color-swatch-inner-border-width:1px;--color-swatch-outer-border-width:1px"
+    },
+    {
+      "source": "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+      "selector": ":root",
+      "declarations": "--stepper-height:48px;--stepper-height--small:40px;--stepper-border-radius:calc(var(--input-border-radius) + 1px)"
+    },
+    {
+      "source": "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+      "selector": ":root",
+      "declarations": "--donation-width:100px;--donation-height:var(--input-height);--form-donation-border-radius:4px"
+    },
+    {
+      "source": "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+      "selector": ":root",
+      "declarations": "--tile-border-radius:4px"
+    },
+    {
+      "source": "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+      "selector": ":root",
+      "declarations": "--slideshow-dot-size:8px"
+    },
+    {
+      "source": "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+      "selector": ":root",
+      "declarations": "--slideshow-dot-size:12px"
+    },
+    {
+      "source": "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+      "selector": ":root",
+      "declarations": "--pagination-link-size:32px;--pagination-link-font-size:14px;--pagination-link-border-radius:4px"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "VIRTUE: Drum Shop, Handcrafted Drums & Repair in Jackson, Michigan | VIRTUE Drums",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+        "https://cdn3.editmysite.com/app/checkout/assets/checkout/css/wcko.d01e607a0316a2da0559.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+        "https://cdn3.editmysite.com/app/checkout/assets/checkout/css/wcko.d01e607a0316a2da0559.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn3.editmysite.com/app/checkout/assets/checkout/css/wcko.d01e607a0316a2da0559.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+        "https://cdn3.editmysite.com/app/checkout/assets/checkout/css/wcko.d01e607a0316a2da0559.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+        "https://cdn3.editmysite.com/app/checkout/assets/checkout/css/wcko.d01e607a0316a2da0559.css"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+        "https://cdn3.editmysite.com/app/checkout/assets/checkout/css/wcko.d01e607a0316a2da0559.css"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css",
+        "https://cdn3.editmysite.com/app/checkout/assets/checkout/css/wcko.d01e607a0316a2da0559.css"
+      ]
+    },
+    "colors.border": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "colors.slate": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "colors.overlay-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn3.editmysite.com/app/website/css/site.6785b162d93811f8a69f.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.repair-service-tile": {
+      "status": "inferred"
+    }
+  }
+}

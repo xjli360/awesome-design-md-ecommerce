@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Atdec
-description: |
+name: "Atdec"
+source_url: "https://atdec.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The burnt-orange pair — #d85030 and #db4f30, separated by barely a perceptual step — functions as Atdec's precision mark: not a lifestyle accent but an engineering callout, the visual equivalent of a red-dot indicator on a torque specification. Mounted against the near-white #f5f5f6 field and anchored by deep-navy #221155, these flame-adjacent tones communicate that the brand's products are built to bear load and hold position. Gotham and GothamBook carry the typographic architecture: geometric, squared at the joints, constructed with the same logic as aluminum extrusion — efficient rather than expressive, suited to a procurement audience that scans spec sheets rather than browsing by mood.
 
   The palette respects the product category without sentimentalizing it. An #e0e0e0 hairline evokes brushed-metal surface quality; #f5f5f6 reads as clean-room white rather than warm ivory. Interactive blue #0a7cff and its softer companion #4593ed handle link states and secondary actions, borrowing from browser-native conventions — a pragmatic choice for a site where engineers and facilities managers navigate to load-rating tables without friction. Warm mid-tone #e17a61 sits between the primary and its disabled state, softening transitions in a context where abruptness would feel unfinished rather than bold.
@@ -336,6 +339,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No brand-published design token file or public style guide found; all type sizes, weights, and component dimensions are inferred from the Gotham/GothamBook font stack and B2B industrial catalog conventions
 - `primary-active` (#b83820) and `primary-disabled` (#f0c4b8) are derived from the extracted primary orange-red, not confirmed from live CSS inspection

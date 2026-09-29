@@ -1,11 +1,15 @@
 ---
 version: alpha
-name: Baby Brezza
-description: Warm greiges and charcoal-tinted grays — a palette running from #bcb2a8 through #62605d down to #303030 — form the environmental backdrop rather than a pediatric-primary palette, signaling that Baby Brezza is marketing to design-conscious parents who live in neutral-toned homes. The true brand voltage arrives via #006fba, a saturated utility blue that carries every add-to-cart button, primary CTA, and active nav element. Work Sans handles all typography — a geometric sans-serif that reads as modern and approachable without the clinical coldness of Inter or the retro warmth of Futura; at title weights (600) it has enough mass to anchor product names across the Formula Pro Advanced and Sterilizer categories, while at body weight (400) it stays legible at small sizes for instruction-dense product detail pages.
+name: "Baby Brezza"
+source_url: "https://babybrezza.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Warm greiges and charcoal-tinted grays — a palette running from #bcb2a8 through #62605d down to #303030 — form the environmental backdrop rather than a pediatric-primary palette, signaling that Baby Brezza is marketing to design-conscious parents who live in neutral-toned homes. The true brand voltage arrives via #006fba, a saturated utility blue that carries every add-to-cart button, primary CTA, and active nav element. Work Sans handles all typography — a geometric sans-serif that reads as modern and approachable without the clinical coldness of Inter or the retro warmth of Futura; at title weights (600) it has enough mass to anchor product names across the Formula Pro Advanced and Sterilizer categories, while at body weight (400) it stays legible at small sizes for instruction-dense product detail pages.
 
-Three secondary accents surface in the extraction: #308ac7 (a lighter blue for hover states and secondary actions), #6c69de (a blue-violet that appears on promotional badges and bestseller callouts), and #559b60 (a green reserved for in-stock indicators and trust or eco badges). Error states run through #d63a2f and #a60f00, giving form validation enough visual weight without alarming the parent-purchaser mid-checkout. The surface system layers white (#ffffff) canvas beneath soft warm hairlines (#cfcfcf, #dedede) and card surfaces (#ebebeb), giving lifestyle photography on warm beige backgrounds space to breathe without harsh contrast shifts.
+  Three secondary accents surface in the extraction: #308ac7 (a lighter blue for hover states and secondary actions), #6c69de (a blue-violet that appears on promotional badges and bestseller callouts), and #559b60 (a green reserved for in-stock indicators and trust or eco badges). Error states run through #d63a2f and #a60f00, giving form validation enough visual weight without alarming the parent-purchaser mid-checkout. The surface system layers white (#ffffff) canvas beneath soft warm hairlines (#cfcfcf, #dedede) and card surfaces (#ebebeb), giving lifestyle photography on warm beige backgrounds space to breathe without harsh contrast shifts.
 
-Rounded corners sit at a friendly `{rounded.sm}` (8px) for cards and inputs — soft enough to read as safe for a baby-product context — while buttons step up to `{rounded.md}` (12px) for a pill-adjacent shape that stops short of fully circular. The nav runs at full white with a bottom hairline and collapses to a hamburger-first mobile drawer on narrower viewports. Announcement bars sit above the nav in solid #006fba with white Work Sans type, carrying shipping thresholds and limited promotions. Product cards surface brief feature bullets below the price on hover, a pattern calibrated for parents who comparison-shop appliances by spec — compatible bottle count, noise decibels, self-cleaning cycles — rather than by aesthetic instinct alone.
+  Rounded corners sit at a friendly `{rounded.sm}` (8px) for cards and inputs — soft enough to read as safe for a baby-product context — while buttons step up to `{rounded.md}` (12px) for a pill-adjacent shape that stops short of fully circular. The nav runs at full white with a bottom hairline and collapses to a hamburger-first mobile drawer on narrower viewports. Announcement bars sit above the nav in solid #006fba with white Work Sans type, carrying shipping thresholds and limited promotions. Product cards surface brief feature bullets below the price on hover, a pattern calibrated for parents who comparison-shop appliances by spec — compatible bottle count, noise decibels, self-cleaning cycles — rather than by aesthetic instinct alone.
 
 colors:
   primary: "#006fba"
@@ -422,6 +426,8 @@ components:
 - Feature strip wraps to 2×2 grid below 480px with increased vertical padding between rows
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom typeface confirmed: Work Sans is extracted from the site, but specific weight extremes (whether ExtraBold/800 is used at hero scale vs. Bold/700) are unverified — defaulted to 700 for `display-xl` and 600 for title scales
 - Exact nav height and logo dimensions are not derivable from color/font extraction — 64px height and 36px logo are estimates calibrated to comparable Shopify DTC storefronts

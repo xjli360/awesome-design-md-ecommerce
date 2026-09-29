@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Star City Games
-description: A competitive gaming marketplace that signals authority through a deep navy-and-steel palette — #313440 for the persistent top bar, #005586 for primary action surfaces, and #f1a500 as the single voltage accent that marks inventory status, sale badges, and price drops. The brand uses two typefaces — Montserrat for display and navigation (clean, geometric, slightly condensed) and Karla for body copy (a humanist sans with generous x-height that stays legible at 14px in dense card grids). Buttons carry {rounded.sm} corners and a 48px height that feels substantial without heaviness; the search bar is a full-width white field with a #007dc6 CTA orb, not a pill. Product cards stack on a #f5f5f5 canvas with #ffffff surfaces, using #e5e5e5 hairline borders and #8f8f8f muted text for secondary info — the effect is a trading-card binder translated into a clean, information-dense grid. The brand trusts color over typographic hierarchy: a #008a06 green for "In Stock" badges, #cc4749 red for "Sold Out" overlays, and #ff7600 orange for pre-order flags create a traffic-light system that lets players scan inventory at a glance. The footer runs dark (#313440 background, #8dc6e7 link color) — a rare inversion that bookends the experience with a sense of closure.
+name: "Star City Games"
+source_url: "https://www.starcitygames.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A competitive gaming marketplace that signals authority through a deep navy-and-steel palette — #313440 for the persistent top bar, #005586 for primary action surfaces, and #f1a500 as the single voltage accent that marks inventory status, sale badges, and price drops. The brand uses two typefaces — Montserrat for display and navigation (clean, geometric, slightly condensed) and Karla for body copy (a humanist sans with generous x-height that stays legible at 14px in dense card grids). Buttons carry {rounded.sm} corners and a 48px height that feels substantial without heaviness; the search bar is a full-width white field with a #007dc6 CTA orb, not a pill. Product cards stack on a #f5f5f5 canvas with #ffffff surfaces, using #e5e5e5 hairline borders and #8f8f8f muted text for secondary info — the effect is a trading-card binder translated into a clean, information-dense grid. The brand trusts color over typographic hierarchy: a #008a06 green for "In Stock" badges, #cc4749 red for "Sold Out" overlays, and #ff7600 orange for pre-order flags create a traffic-light system that lets players scan inventory at a glance. The footer runs dark (#313440 background, #8dc6e7 link color) — a rare inversion that bookends the experience with a sense of closure.
 
 colors:
   primary: "#005586"
@@ -485,6 +489,8 @@ components:
 - Product card price and badge layout shifts from horizontal to vertical stack on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for all components were inferred from common patterns; the live site may use different transitions or box-shadows
 - Error state styling for form inputs (red borders, error messages) could not be extracted — assumed standard #cc4749 treatment

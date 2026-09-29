@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Pura Vida Bracelets
-description: Thread around thread around thread — the entire catalog is organized as a color delivery system, the stacked-wrist shot being the explicit outcome the product photography architects toward. The canvas arrives as a bleached neutral stack: near-white surfaces (#f9fafb, #f9f9f9) layered with warm cream (#f3efdc) for editorial and gifting moments, all chromatic weight carried by a coral tuned precisely between ripe fruit and afternoon sun (#ff7f55) and a deep reef teal (#108474) that reads as the brand's moral register — appearing on charitable partnership callouts, announcement bars, and cause-marketing badges rather than hard-sell CTAs. Supporting color notes include an amber-yellow (#fbcd0a) that surfaces on NEW and flash-sale badges, and a soft lavender (#a89cc8) that arrives with seasonal capsule collections. The near-black ink (#241f20) avoids pure black, warming headlines and body copy by a few degrees.
+name: "Pura Vida Bracelets"
+source_url: "https://www.puravidabracelets.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Thread around thread around thread — the entire catalog is organized as a color delivery system, the stacked-wrist shot being the explicit outcome the product photography architects toward. The canvas arrives as a bleached neutral stack: near-white surfaces (#f9fafb, #f9f9f9) layered with warm cream (#f3efdc) for editorial and gifting moments, all chromatic weight carried by a coral tuned precisely between ripe fruit and afternoon sun (#ff7f55) and a deep reef teal (#108474) that reads as the brand's moral register — appearing on charitable partnership callouts, announcement bars, and cause-marketing badges rather than hard-sell CTAs. Supporting color notes include an amber-yellow (#fbcd0a) that surfaces on NEW and flash-sale badges, and a soft lavender (#a89cc8) that arrives with seasonal capsule collections. The near-black ink (#241f20) avoids pure black, warming headlines and body copy by a few degrees.
 
   Nunito Sans carries all functional UI copy — a humanist sans with rounded letterforms that signals approachability without sliding into infantilism. Baskerville appears in sparse editorial moments to add gravity to cause-marketing and gifting copy, suggesting that a $14 bracelet can still be a meaningful object. The engraving font collection — Engraving Brand, Engraving Chasing Waves, Engraving Old London, Engraving Courier, Engraving Lucida — exists entirely inside the personalization tool, where customers preview their name or message in five script registers before committing to a purchase.
 
@@ -376,6 +380,8 @@ components:
 - Engraving selector becomes a full-screen bottom-sheet modal at mobile widths to give the font preview panel adequate vertical space
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No confirmed button corner radius from live CSS — `{rounded.sm}` (8px) inferred from Shopify theme conventions and the brand's consistently soft-corner aesthetic
 - Canvas white (#ffffff) not directly extracted; inferred from the cluster of near-whites (#f9fafb, #f9f9f9, #fafafa) present in extraction

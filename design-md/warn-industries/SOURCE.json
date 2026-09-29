@@ -1,0 +1,851 @@
+{
+  "source_url": "https://warn.com",
+  "final_url": "https://www.warn.com/",
+  "captured_at": "2026-09-28T10:01:25.077612+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://warn.com",
+      "final_url": "https://www.warn.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "10c7b2803999fe87ee0bc4d41189659cda28be0c13cb1a2581fa3ab3ecd824be",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.warn.com/cdn/shop/t/2/assets/custom.css?v=48302546525436663981772466277",
+      "final_url": "https://www.warn.com/cdn/shop/t/2/assets/custom.css?v=48302546525436663981772466277",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3c70a9ba3fb20ea435ae1b2f0b43bfbf7509e9577a2f7d0ec5ae85203614b187",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.warn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.warn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://db.onlinewebfonts.com/c/356e1c3e737c1bf31dea2ce604eec3ab?family=Agency+FB+Bold",
+      "final_url": "https://db.onlinewebfonts.com/c/356e1c3e737c1bf31dea2ce604eec3ab?family=Agency+FB+Bold",
+      "http_status": 200,
+      "content_type": "text/css;charset=UTF-8",
+      "sha256": "f69bd40472f3d590558578778b892d0264a6fedf08672a9f61fe06a98b80aec8",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Teko:wght@300..700&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Teko:wght@300..700&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "0da4835bdf8edda734844d6f093f6130b0a9b2feb424626329bbd31a07fd2187",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686",
+      "final_url": "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d5b0194560e457ad7dccbfc5ed2f1f56abae169c219260a92669f81b0e7a8dfe",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 70,
+      "sources": [
+        "https://www.warn.com/",
+        "https://www.warn.com/cdn/shop/t/2/assets/custom.css?v=48302546525436663981772466277",
+        "https://www.warn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686"
+      ]
+    },
+    "#c22735": {
+      "count": 39,
+      "sources": [
+        "https://www.warn.com/",
+        "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686"
+      ]
+    },
+    "#000000": {
+      "count": 11,
+      "sources": [
+        "https://www.warn.com/",
+        "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686"
+      ]
+    },
+    "#121212": {
+      "count": 9,
+      "sources": [
+        "https://www.warn.com/",
+        "https://www.warn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686"
+      ]
+    },
+    "#626262": {
+      "count": 6,
+      "sources": [
+        "https://www.warn.com/",
+        "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686"
+      ]
+    },
+    "#000f1e03": {
+      "count": 6,
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686"
+      ]
+    },
+    "#797979": {
+      "count": 6,
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686"
+      ]
+    },
+    "#eeeeee": {
+      "count": 4,
+      "sources": [
+        "https://www.warn.com/"
+      ]
+    },
+    "#1b2529": {
+      "count": 4,
+      "sources": [
+        "https://www.warn.com/"
+      ]
+    },
+    "#c3c9c1": {
+      "count": 4,
+      "sources": [
+        "https://www.warn.com/"
+      ]
+    },
+    "#bb2733": {
+      "count": 4,
+      "sources": [
+        "https://www.warn.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 4,
+      "sources": [
+        "https://www.warn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 4,
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686"
+      ]
+    },
+    "#333333": {
+      "count": 3,
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/custom.css?v=48302546525436663981772466277"
+      ]
+    },
+    "#0000000d": {
+      "count": 3,
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686"
+      ]
+    },
+    "#000f1e08": {
+      "count": 3,
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686"
+      ]
+    },
+    "#323d41": {
+      "count": 2,
+      "sources": [
+        "https://www.warn.com/"
+      ]
+    },
+    "#313131": {
+      "count": 2,
+      "sources": [
+        "https://www.warn.com/"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 2,
+      "sources": [
+        "https://www.warn.com/"
+      ]
+    },
+    "#eaece9": {
+      "count": 2,
+      "sources": [
+        "https://www.warn.com/"
+      ]
+    },
+    "#acadab": {
+      "count": 2,
+      "sources": [
+        "https://www.warn.com/"
+      ]
+    },
+    "#747474": {
+      "count": 2,
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/custom.css?v=48302546525436663981772466277"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.warn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#56585b": {
+      "count": 2,
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686"
+      ]
+    },
+    "#3c404326": {
+      "count": 2,
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686"
+      ]
+    },
+    "#00000080": {
+      "count": 2,
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 2,
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686"
+      ]
+    },
+    "#eaeaea": {
+      "count": 2,
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686"
+      ]
+    },
+    "#050505": {
+      "count": 1,
+      "sources": [
+        "https://www.warn.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://www.warn.com/"
+      ]
+    },
+    "#666666": {
+      "count": 1,
+      "sources": [
+        "https://www.warn.com/"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 1,
+      "sources": [
+        "https://www.warn.com/"
+      ]
+    },
+    "#555555": {
+      "count": 1,
+      "sources": [
+        "https://www.warn.com/"
+      ]
+    },
+    "#b61e2c": {
+      "count": 1,
+      "sources": [
+        "https://www.warn.com/"
+      ]
+    },
+    "#b52532": {
+      "count": 1,
+      "sources": [
+        "https://www.warn.com/"
+      ]
+    },
+    "#b02330": {
+      "count": 1,
+      "sources": [
+        "https://www.warn.com/"
+      ]
+    },
+    "#f9faf8": {
+      "count": 1,
+      "sources": [
+        "https://www.warn.com/"
+      ]
+    },
+    "#dd373c": {
+      "count": 1,
+      "sources": [
+        "https://www.warn.com/"
+      ]
+    },
+    "#dd2739": {
+      "count": 1,
+      "sources": [
+        "https://www.warn.com/"
+      ]
+    },
+    "#b32330": {
+      "count": 1,
+      "sources": [
+        "https://www.warn.com/"
+      ]
+    },
+    "#4b4b4b": {
+      "count": 1,
+      "sources": [
+        "https://www.warn.com/"
+      ]
+    },
+    "#d5d2d2": {
+      "count": 1,
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/custom.css?v=48302546525436663981772466277"
+      ]
+    },
+    "#bdbdbd": {
+      "count": 1,
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/custom.css?v=48302546525436663981772466277"
+      ]
+    },
+    "#93b8e2": {
+      "count": 1,
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/custom.css?v=48302546525436663981772466277"
+      ]
+    },
+    "#009e1d": {
+      "count": 1,
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/custom.css?v=48302546525436663981772466277"
+      ]
+    },
+    "#c04b1b": {
+      "count": 1,
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/custom.css?v=48302546525436663981772466277"
+      ]
+    },
+    "#ccffd9": {
+      "count": 1,
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/custom.css?v=48302546525436663981772466277"
+      ]
+    },
+    "#ffcccc": {
+      "count": 1,
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/custom.css?v=48302546525436663981772466277"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.warn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.warn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#6c7a87": {
+      "count": 1,
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686"
+      ]
+    },
+    "#acbecf": {
+      "count": 1,
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686"
+      ]
+    },
+    "#ffffff33": {
+      "count": 1,
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686"
+      ]
+    },
+    "#00000026": {
+      "count": 1,
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686"
+      ]
+    },
+    "#ffffff00": {
+      "count": 1,
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686"
+      ]
+    },
+    "#ffffff73": {
+      "count": 1,
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686"
+      ]
+    },
+    "#acacac": {
+      "count": 1,
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686"
+      ]
+    },
+    "#ffffffbf": {
+      "count": 1,
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686"
+      ]
+    },
+    "#6c6c6c": {
+      "count": 1,
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 1,
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686"
+      ]
+    }
+  },
+  "font_families": {
+    "Agency FB Bold": [
+      "https://db.onlinewebfonts.com/c/356e1c3e737c1bf31dea2ce604eec3ab?family=Agency+FB+Bold"
+    ],
+    "Rajdhani": [
+      "https://www.warn.com/"
+    ],
+    "Roboto Condensed": [
+      "https://www.warn.com/"
+    ],
+    "Teko": [
+      "https://fonts.googleapis.com/css2?family=Teko:wght@300..700&display=swap"
+    ],
+    "agency-fb": [
+      "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.warn.com/",
+      "selector": ":root,\n        .color-scheme-1",
+      "declarations": "--color-background: 238,238,238;\n          --color-background-accent: ,,;\n        \n          --gradient-background: #eeeeee;\n        \n\n        \n\n        --color-foreground: 18,18,18;\n        --color-heading: 18,18,18;\n        --color-background-contrast: 174,174,174;\n        --color-shadow: 0, 0, 0;\n        --color-button: 194,39,53;\n        --color-button-alpha: 1.0;\n        \n          --color-button-gradient: none;\n        \n        --color-button-text: 255,255,255;\n        --color-secondary-button: 238,238,238;\n        --color-secondary-button-text: 194,39,53;\n        --color-link: 194,39,53;\n        --color-caption: 18,18,18;\n        --color-badge-foreground: 18,18,18;\n        --color-bad"
+    },
+    {
+      "source": "https://www.warn.com/",
+      "selector": "body",
+      "declarations": "min-height: 100%;\n        margin: 0;\n        font-size: 1.5rem;\n        overflow-wrap: break-word;\n        word-break: break-word;\n        letter-spacing: var(--font-body-letter-spacing);\n        line-height: calc(1 + 0.8 / var(--font-body-scale));\n        font-family: var(--font-body-family);\n        font-style: var(--font-body-style);\n        font-weight: var(--font-body-weight);\n        overflow-x: hidden;\n        padding-inline-end: var(--temp-scrollbar-width, 0px);"
+    },
+    {
+      "source": "https://www.warn.com/",
+      "selector": ":root",
+      "declarations": "--spacing-section: 60px;"
+    },
+    {
+      "source": "https://www.warn.com/",
+      "selector": "display:none;\ndisplay:none;\n--num-slides: 6\ndisplay:none;\n--num-slides: 6\ncolor: red;\npadding-top: 1rem;padding-bottom: 1rem;\n\n  header-drawer",
+      "declarations": "--header-drawer-font-size: 1.4rem;\n    justify-self: start;\n    margin-inline-start: -1rem;"
+    },
+    {
+      "source": "https://www.warn.com/",
+      "selector": "#shopify-section-sections--26764711068019__header input#Inline-Search",
+      "declarations": "background-color: white; border-style: solid; border-color: #bbbbbb; border-width: 2px;"
+    },
+    {
+      "source": "https://www.warn.com/",
+      "selector": "#shopify-section-sections--26764711068019__header nav.header__inline-menu.header__inline-menu--hide-on-scroll",
+      "declarations": "border-bottom: 2px; border-color: #bbbbbb; border-style: solid;"
+    },
+    {
+      "source": "https://www.warn.com/",
+      "selector": "ymm_3bABgR\"],\n#tab-search-AQXpLSld2ZUR0ODczU__convermax_year_make_model_home_ymm_3bABgR:checked ~ .cm_tabs-header label[for=\"tab-search-AQXpLSld2ZUR0ODczU__conv",
+      "declarations": "color: #000000;\n  background-color: #ffffff;"
+    },
+    {
+      "source": "https://www.warn.com/",
+      "selector": ".ai-two-columns-button-atdz3t1duczfoy2ttvaigenblockb74054cbkqm8m",
+      "declarations": "display: inline-block;\n    padding: 12px 24px;\n    background-color: #121212;\n    color: #ffffff;\n    text-decoration: none;\n    border-radius: 0px;\n    font-size: 16px;\n    text-align: center;\n    transition: background-color 0.3s ease;\n    border: none;\n    cursor: pointer;"
+    },
+    {
+      "source": "https://www.warn.com/",
+      "selector": ".ai-two-columns-button-atdz3t1duczfoy2ttvaigenblockb74054cbkqm8m:hover",
+      "declarations": "background-color: #000000;"
+    },
+    {
+      "source": "https://www.warn.com/",
+      "selector": ":root",
+      "declarations": "--warn-bg: url(\"https://cdn.shopify.com/s/files/1/0893/1658/9939/files/Warn_Mountain_Ridge_Product-Background.webp?v=1773297621\");"
+    },
+    {
+      "source": "https://www.warn.com/cdn/shop/t/2/assets/custom.css?v=48302546525436663981772466277",
+      "selector": "@charset \"UTF-8\";.section:has(#vehicle-lookup),.product-info__block #vehicle-lookup",
+      "declarations": "background-color:#747474;padding:1%;color:#fff;margin:0"
+    },
+    {
+      "source": "https://www.warn.com/cdn/shop/t/2/assets/custom.css?v=48302546525436663981772466277",
+      "selector": ".product-info__block #vehicle-lookup,.product-info__block #questions-container #answers-table,.product-info__block #questions-container #next-question",
+      "declarations": "background-color:#d5d2d2;color:#333;margin:0!important"
+    },
+    {
+      "source": "https://www.warn.com/cdn/shop/t/2/assets/custom.css?v=48302546525436663981772466277",
+      "selector": ".product-info__block #info-container",
+      "declarations": "background-color:#bdbdbd;color:#333;margin:-40px 0 0;padding:20px"
+    },
+    {
+      "source": "https://www.warn.com/cdn/shop/t/2/assets/custom.css?v=48302546525436663981772466277",
+      "selector": "#vehicle-lookup button",
+      "declarations": "color:#93b8e2"
+    },
+    {
+      "source": "https://www.warn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.warn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.warn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.warn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.warn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.warn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686",
+      "selector": ":root",
+      "declarations": "--alpha-button-background: 1;--alpha-button-border: 1;--alpha-link: 1;--tap-target: 44px;--tap-target-small: 24px"
+    },
+    {
+      "source": "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686",
+      "selector": ".product-card-wrapper .card,.contains-card--product",
+      "declarations": "--border-radius: var(--product-card-corner-radius);--border-width: var(--product-card-border-width);--border-opacity: var(--product-card-border-opacity);--shadow-horizontal-offset: var(--product-card-shadow-horizontal-offset);--shadow-vertical-offset: var(--product-card-shadow-vertical-offset);--shadow-blur-radius: var(--product-card-shadow-blur-radius);--shadow-opacity: var(--product-card-shadow-opacity);--shadow-visible: var(--product-card-shadow-visible);--image-padding: var(--product-card-image-padding);--text-alignment: var(--product-card-text-alignment)"
+    },
+    {
+      "source": "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686",
+      "selector": "h1,h2,h3,h4,h5,h6,.h0,.h1,.h2,.h3,.h4,.h5,.h6,.text-heading",
+      "declarations": "font-family:var(--font-heading-family);font-style:var(--font-heading-style);font-weight:var(--font-heading-weight);letter-spacing:calc((var(--font-heading-scale) * var(--font-heading-letter-spacing)));color:rgb(var(--color-foreground));line-height:1.26em;word-break:break-word;text-transform:var(--font-heading-case);background-image:var(--color-heading-gradient-background, none);background-clip:text;-webkit-background-clip:text;-webkit-text-fill-color:var(--color-heading-gradient-fill, currentColor)"
+    },
+    {
+      "source": "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686",
+      "selector": ":is(h1,h2,h3,h4,h5,h6,.h0,.h1,.h2,.h3,.h4,.h5,.h6,.text-heading):has(animated-list)",
+      "declarations": "-webkit-text-fill-color:currentColor"
+    },
+    {
+      "source": "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686",
+      "selector": ".text-body",
+      "declarations": "letter-spacing:var(--font-body-letter-spacing);line-height:calc(1 + .8 / var(--font-body-scale));font-family:var(--font-body-family);font-style:var(--font-body-style);font-weight:var(--font-body-weight);background-image:none;-webkit-background-clip:border-box;-webkit-text-fill-color:currentColor"
+    },
+    {
+      "source": "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686",
+      "selector": ".link,.customer a:not(.button)",
+      "declarations": "cursor:pointer;display:inline-block;border:none;box-shadow:none;text-decoration:underline;text-underline-offset:.3rem;color:rgb(var(--color-link));background-color:transparent;font-family:inherit"
+    },
+    {
+      "source": "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686",
+      "selector": ":root",
+      "declarations": "--duration-short: .1s;--duration-default: .2s;--duration-announcement-bar: .25s;--duration-medium: .3s;--duration-longish: .4s;--duration-long: .5s;--duration-extra-long: .6s;--duration-xx-long: 1.5s;--duration-extended: 3s;--cubic-bezier-ease-out-slow: cubic-bezier(.3, .62, .45, 1);--cubic-bezier-wipe: cubic-bezier(.645, .045, .355, 1);--cubic-bezier-slide-in: cubic-bezier(.4, 0, .6, 1);--animation-slide-in: slideIn var(--duration-extra-long) var(--cubic-bezier-ease-out-slow) forwards;--animation-fade-in: fadeIn var(--duration-extra-long) var(--cubic-bezier-ease-out-slow)"
+    },
+    {
+      "source": "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686",
+      "selector": ".un-underlined-link:hover,.underlined-link:hover,.customer a:not(.button):hover,.inline-richtext a:hover,.rte a:hover",
+      "declarations": "color:rgb(var(--color-link));text-decoration-thickness:.1em"
+    },
+    {
+      "source": "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686",
+      "selector": ".underlined-link,.un-underlined-link,.customer a:not(.button)",
+      "declarations": "color:rgba(var(--color-link),var(--alpha-link))"
+    },
+    {
+      "source": "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686",
+      "selector": "nge__button,.customer button,button.shopify-payment-button__button--unbranded,.shopify-payment-button [role=button],.cart__dynamic-checkout-buttons [role=button",
+      "declarations": "--shadow-horizontal-offset: var(--buttons-shadow-horizontal-offset);--shadow-vertical-offset: var(--buttons-shadow-vertical-offset);--shadow-blur-radius: var(--buttons-shadow-blur-radius);--shadow-opacity: var(--buttons-shadow-opacity);--shadow-visible: var(--buttons-shadow-visible);--border-opacity: calc(1 - var(--buttons-border-opacity));border-radius:var(--buttons-radius-outset);position:relative"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Warn Industries\n – Warn Industries",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warn.com/",
+        "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warn.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warn.com/",
+        "https://www.warn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warn.com/"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/custom.css?v=48302546525436663981772466277"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warn.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warn.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warn.com/"
+      ]
+    },
+    "colors.surface-panel": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/custom.css?v=48302546525436663981772466277"
+      ]
+    },
+    "colors.surface-panel-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/custom.css?v=48302546525436663981772466277"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warn.com/",
+        "https://www.warn.com/cdn/shop/t/2/assets/custom.css?v=48302546525436663981772466277",
+        "https://www.warn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686"
+      ]
+    },
+    "colors.accent-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warn.com/"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.info-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warn.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/custom.css?v=48302546525436663981772466277"
+      ]
+    },
+    "colors.success-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/custom.css?v=48302546525436663981772466277"
+      ]
+    },
+    "colors.danger-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/custom.css?v=48302546525436663981772466277"
+      ]
+    },
+    "colors.slate": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warn.com/cdn/shop/t/2/assets/base.css?v=123122466422285956261789773686"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.vehicle-fit-widget": {
+      "status": "inferred"
+    }
+  }
+}

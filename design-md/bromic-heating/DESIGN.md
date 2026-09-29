@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Bromic Heating
-description: |
+name: "Bromic Heating"
+source_url: "https://www.bromic.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Charcoal steel glowing at one edge — that visual runs through every pixel of the Bromic digital experience. The single most distinctive extracted color, #313131, is not an accent but the atmosphere itself: a near-black charcoal that functions as both primary ink and the dominant canvas tone, collapsing the boundary between product photography and interface chrome. Against this darkness, a warm amber (#e8740c) bleeds into CTAs and hover states the way infrared heat bleeds into cold air — present but restrained, never garish. Typography stays strictly utilitarian: system sans-serif stacks at moderate weights, letting full-bleed product imagery of brushed-aluminum heater housings and dancing flame carry the brand voice. Display headlines run large (40–56px) at weight 600, spaced tight with negative letter-spacing that echoes the precision-milled slots of Bromic's radiant panels. Cards and product tiles use `{rounded.xs}` or `{rounded.none}` — sharp geometry that mirrors the rectilinear hardware silhouettes. The layout grid breathes wide on desktop (max-width ~1440px, generous `{spacing.section}` vertical rhythm) then collapses to edge-to-edge hero blocks on mobile, preserving the cinematic ratio of dark field to illuminated product. Navigation is minimal: a slim sticky bar with white logotype on dark, hamburger-collapsing below 1024px, reinforcing that the product — not the UI — is the spectacle. Surface hierarchy relies on subtle value shifts (#1a1a1a → #242424 → #313131) rather than borders or shadows, producing depth without ornament. The overall effect is a digital showroom lit by a single warm source, every element receding so the glow of heated metal can advance.
 
 colors:
@@ -388,6 +391,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Site is behind Cloudflare anti-bot protection ("Just a moment..." challenge page) — full CSS/token extraction was blocked
 - Only a single hex color (#313131) was reliably extracted; the amber/orange primary and surface hierarchy are inferred from widely-visible Bromic brand materials and product photography, not live CSS inspection

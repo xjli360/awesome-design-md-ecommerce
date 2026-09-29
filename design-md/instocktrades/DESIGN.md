@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: InStockTrades
-description: A discount comic book marketplace that wears its deal-hunting DNA on its sleeve, anchored on a deep-ink canvas (#222222) rather than the white expanse typical of retail. The brand's primary voltage is a hot-orange (#fe8300) that appears on every price tag, add-to-cart button, and sale banner — a color that reads as "clearance aisle urgency" rather than luxury warmth. The site uses a dense, information-rich layout where product thumbnails sit in tight grids against dark surfaces (#383838, #3f3f3f, #2b2b2b), with price callouts in bright red (#ff0000) and yellow-gold (#ffba0c, #dad55e) that signal percentage-off savings. Typography runs system-level sans-serif (Arial, Helvetica, Open Sans) at modest sizes — the design trusts raw discount percentages and stock photography over refined typographic hierarchy. Navigation is a horizontal strip of category links against the dark header, with a prominent search bar and account/login utilities. Buttons use the orange primary with white text and sharp corners ({rounded.sm}), while sale badges and price tags adopt pill shapes ({rounded.full}) in yellow and red. The overall mood is that of a warehouse aisle: functional, high-contrast, and unapologetically promotional, with every design decision optimized for conversion rather than aesthetic calm.
+name: "InStockTrades"
+source_url: "https://www.instocktrades.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A discount comic book marketplace that wears its deal-hunting DNA on its sleeve, anchored on a deep-ink canvas (#222222) rather than the white expanse typical of retail. The brand's primary voltage is a hot-orange (#fe8300) that appears on every price tag, add-to-cart button, and sale banner — a color that reads as "clearance aisle urgency" rather than luxury warmth. The site uses a dense, information-rich layout where product thumbnails sit in tight grids against dark surfaces (#383838, #3f3f3f, #2b2b2b), with price callouts in bright red (#ff0000) and yellow-gold (#ffba0c, #dad55e) that signal percentage-off savings. Typography runs system-level sans-serif (Arial, Helvetica, Open Sans) at modest sizes — the design trusts raw discount percentages and stock photography over refined typographic hierarchy. Navigation is a horizontal strip of category links against the dark header, with a prominent search bar and account/login utilities. Buttons use the orange primary with white text and sharp corners ({rounded.sm}), while sale badges and price tags adopt pill shapes ({rounded.full}) in yellow and red. The overall mood is that of a warehouse aisle: functional, high-contrast, and unapologetically promotional, with every design decision optimized for conversion rather than aesthetic calm.
 
 colors:
   primary: "#fe8300"
@@ -355,6 +359,8 @@ components:
 - Search bar moves from nav bar to a dedicated top section on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for most components could not be reliably extracted — only button-primary hover (#e34e03) was confirmed
 - Error styling for form inputs (red borders, error messages) not observed in extracted data

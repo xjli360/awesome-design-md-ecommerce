@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Euclid Records
-description: A deep, saturated #163959 — the blue of a midnight highway or a vintage sleeve — sets the foundational mood for Euclid Records, an independent store that treats the physical artifact of music with the gravity of a museum. This dark ink anchors a palette that is otherwise surprisingly bright and varied: a traffic-cone orange (#f68b1f) and a fire-engine red (#bd2426) serve as energetic accents, while a soft, almost dusty green (#bada7a) and a warm, buttery amber (#f9b169) suggest the patina of well-loved cardboard and faded liner notes. The site’s canvas is a clean, slightly warm off-white (#ebebeb), a deliberate departure from pure white that softens the reading experience. Typography defaults to system sans-serif — `-apple-system`, `Arial`, `Helvetica Neue` — a pragmatic, no-nonsense choice that lets the product photography and color do the heavy lifting. Buttons are pill-shaped (`{rounded.full}`) in the primary blue, with secondary actions rendered in the bright orange, creating a clear visual hierarchy that feels both playful and urgent. The overall impression is of a space that is deeply knowledgeable and unpretentious, where a rare pressing sits alongside a new release, and the design’s job is to get out of the way and let the music speak. The extracted palette, while wide, suggests a brand that is comfortable with a high degree of chromatic contrast, using saturated primaries as wayfinding signals against the dark, quiet backdrop.
+name: "Euclid Records"
+source_url: "https://www.euclidrecords.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep, saturated #163959 — the blue of a midnight highway or a vintage sleeve — sets the foundational mood for Euclid Records, an independent store that treats the physical artifact of music with the gravity of a museum. This dark ink anchors a palette that is otherwise surprisingly bright and varied: a traffic-cone orange (#f68b1f) and a fire-engine red (#bd2426) serve as energetic accents, while a soft, almost dusty green (#bada7a) and a warm, buttery amber (#f9b169) suggest the patina of well-loved cardboard and faded liner notes. The site’s canvas is a clean, slightly warm off-white (#ebebeb), a deliberate departure from pure white that softens the reading experience. Typography defaults to system sans-serif — `-apple-system`, `Arial`, `Helvetica Neue` — a pragmatic, no-nonsense choice that lets the product photography and color do the heavy lifting. Buttons are pill-shaped (`{rounded.full}`) in the primary blue, with secondary actions rendered in the bright orange, creating a clear visual hierarchy that feels both playful and urgent. The overall impression is of a space that is deeply knowledgeable and unpretentious, where a rare pressing sits alongside a new release, and the design’s job is to get out of the way and let the music speak. The extracted palette, while wide, suggests a brand that is comfortable with a high degree of chromatic contrast, using saturated primaries as wayfinding signals against the dark, quiet backdrop.
 
 colors:
   primary: "#163959"
@@ -202,7 +206,7 @@ components:
     textColor: "{colors.ink}"
     typography: "{typography.body-sm}"
     rounded: "{rounded.md}"
-    padding: {spacing.base}
+    padding: "{spacing.base}"
   product-card-image:
     rounded: "{rounded.sm}"
   product-card-title:
@@ -242,14 +246,14 @@ components:
     backgroundColor: "{colors.primary}"
     textColor: "{colors.on-primary}"
     typography: "{typography.body-sm}"
-    padding: {spacing.xxl} {spacing.lg}
+    padding: "{spacing.xxl} {spacing.lg}"
   footer-link:
     textColor: "{colors.on-primary}"
     typography: "{typography.link}"
   hero-section:
     backgroundColor: "{colors.primary}"
     textColor: "{colors.on-primary}"
-    padding: {spacing.section} {spacing.lg}
+    padding: "{spacing.section} {spacing.lg}"
   hero-heading:
     typography: "{typography.display-xl}"
     textColor: "{colors.on-primary}"
@@ -332,6 +336,8 @@ components:
 - The footer collapses from a multi-column layout to a single stacked column on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted font stack is entirely system fonts (`-apple-system`, `Arial`, `Helvetica Neue`, etc.). The brand may use a custom web font (e.g., a music-industry-specific typeface) that was not detected in the extraction. If a custom font is used, the `fontFamily` values in typography should be updated.
 - The extracted color palette is unusually large (22+ colors) and includes many generic web colors (multiple blues, grays, and a green). The true brand palette may be more focused. The primary (`#163959`) and accent orange (`#f68b1f`) were chosen as the most distinctive and likely brand colors, but this is an inference.

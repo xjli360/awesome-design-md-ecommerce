@@ -1,11 +1,15 @@
 ---
 version: alpha
-name: Tineco
-description: Midnight navy (#01007f) anchors the Tineco visual system with a near-indigo weight that reads closer to precision instruments or professional AV gear than to the bright-plastic floor-care category it competes in. Nav bars, primary buttons, and hero overlays all carry this same saturated dark — creating a consistent foreground authority that lets product photography (metallic cordless wands, LED-ringed brush heads, OLED status displays) do the persuasion work against a light canvas beneath. Poppins handles all type: a geometric humanist face comfortable between the clinical sans-serifs of appliance documentation and the warmer faces of lifestyle retail. Display sizes run weight 600–700 at generous scale; body copy drops to 400 with 1.6× line-height so spec-dense product pages stay legible on small screens without requiring type-size inflation.
+name: "Tineco"
+source_url: "https://www.tineco.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Midnight navy (#01007f) anchors the Tineco visual system with a near-indigo weight that reads closer to precision instruments or professional AV gear than to the bright-plastic floor-care category it competes in. Nav bars, primary buttons, and hero overlays all carry this same saturated dark — creating a consistent foreground authority that lets product photography (metallic cordless wands, LED-ringed brush heads, OLED status displays) do the persuasion work against a light canvas beneath. Poppins handles all type: a geometric humanist face comfortable between the clinical sans-serifs of appliance documentation and the warmer faces of lifestyle retail. Display sizes run weight 600–700 at generous scale; body copy drops to 400 with 1.6× line-height so spec-dense product pages stay legible on small screens without requiring type-size inflation.
 
-The palette is structured in three temperature registers, each mapping to a distinct function. The navy family (#01007f → #305996 → #6684b1 → #99adcb) serves brand identity, navigation, and primary interactive states. A coral-to-terracotta band (#e7aca4 → #dc8377 → #cf5747) marks urgency — sale callouts, limited-run badges, and "Add to Cart" hover states that need visible contrast against the dark primary. An olive-gold register (#62623a → #929457 → #c6c775) appears to tag specific product sub-lines, giving Tineco's expanding SKU catalog a visual taxonomy that survives across category grid pages without requiring a full brand redesign for each new family.
+  The palette is structured in three temperature registers, each mapping to a distinct function. The navy family (#01007f → #305996 → #6684b1 → #99adcb) serves brand identity, navigation, and primary interactive states. A coral-to-terracotta band (#e7aca4 → #dc8377 → #cf5747) marks urgency — sale callouts, limited-run badges, and "Add to Cart" hover states that need visible contrast against the dark primary. An olive-gold register (#62623a → #929457 → #c6c775) appears to tag specific product sub-lines, giving Tineco's expanding SKU catalog a visual taxonomy that survives across category grid pages without requiring a full brand redesign for each new family.
 
-Geometry is restrained. Card corners sit at {rounded.sm} (8px), form inputs at {rounded.xs} (4px), and primary CTA buttons hold the same 4px to read as deliberate and machine-like rather than playful. Badge chips are the sole concession to full-radius softness, using {rounded.full} pill shapes to create contrast with the otherwise angular system. Spacing rhythm follows a 4-point base grid; section breaks breathe at {spacing.section} (64px), separating hero, feature strip, product grid, and social proof without crowding. The overall register — dark primary, structured grid, three-temperature palette — positions Tineco against Dyson's silver-and-purple design-object aesthetic by leaning into technical credibility over aspirational object-hood.
+  Geometry is restrained. Card corners sit at {rounded.sm} (8px), form inputs at {rounded.xs} (4px), and primary CTA buttons hold the same 4px to read as deliberate and machine-like rather than playful. Badge chips are the sole concession to full-radius softness, using {rounded.full} pill shapes to create contrast with the otherwise angular system. Spacing rhythm follows a 4-point base grid; section breaks breathe at {spacing.section} (64px), separating hero, feature strip, product grid, and social proof without crowding. The overall register — dark primary, structured grid, three-temperature palette — positions Tineco against Dyson's silver-and-purple design-object aesthetic by leaning into technical credibility over aspirational object-hood.
 
 colors:
   primary: "#01007f"
@@ -390,6 +394,8 @@ Three badge tiers serve distinct semantic roles without clashing: `badge-promo` 
 - Spec table rows stay full-width; label stacks above value on viewports under 400px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Canvas white (#ffffff) and `surface-soft` were not directly extracted — likely filtered as framework defaults; values are inferred from standard Shopify canvas conventions
 - Exact primary CTA color (navy vs. coral) for "Add to Cart" on non-sale PDPs could not be confirmed from extraction alone; the accent/primary assignment is inferred from contrast logic

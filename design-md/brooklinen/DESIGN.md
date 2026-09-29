@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Brooklinen
-description: A confident, tactile bedding brand that wraps its premium-casual voice in a deep navy anchor — `#121f36` — and a warm off-white canvas of `#f4f8fe`. The palette reads like a well-edited linen closet: charcoal ink (`#272727`) for body copy, soft steel (`#b1b7c3`) for muted accents, and a restrained use of `#ea0202` for sale badges and urgent CTAs that snap attention without breaking the calm. The brand's signature move is the generous use of `{rounded.full}` pill shapes on buttons and search bars, paired with `{rounded.sm}` (8px) on product cards and `{rounded.md}` (12px) on modals — every corner is softened, never sharp. Typography leans on a single clean sans-serif stack at modest weights (400–600), with display sizes rarely exceeding 28px; the brand trusts product photography, swatch circles, and the crisp `#eaeaea` hairline to carry hierarchy. The result is a system that feels both heirloom and modern — like a hotel lobby translated into direct-to-consumer e‑commerce, where `#d4edda` success badges and `#f8d7da` error banners are the only moments of high chroma.
+name: "Brooklinen"
+source_url: "https://www.brooklinen.com"
+captured_at: "2026-09-28T04:10:31.359678+00:00"
+evidence_status: "historical_partial_css_evidence"
+description: |-
+  A confident, tactile bedding brand that wraps its premium-casual voice in a deep navy anchor — `#121f36` — and a warm off-white canvas of `#f4f8fe`. The palette reads like a well-edited linen closet: charcoal ink (`#272727`) for body copy, soft steel (`#b1b7c3`) for muted accents, and a restrained use of `#ea0202` for sale badges and urgent CTAs that snap attention without breaking the calm. The brand's signature move is the generous use of `{rounded.full}` pill shapes on buttons and search bars, paired with `{rounded.sm}` (8px) on product cards and `{rounded.md}` (12px) on modals — every corner is softened, never sharp. Typography leans on a single clean sans-serif stack at modest weights (400–600), with display sizes rarely exceeding 28px; the brand trusts product photography, swatch circles, and the crisp `#eaeaea` hairline to carry hierarchy. The result is a system that feels both heirloom and modern — like a hotel lobby translated into direct-to-consumer e‑commerce, where `#d4edda` success badges and `#f8d7da` error banners are the only moments of high chroma.
 
 colors:
   primary: "#121f36"
@@ -376,6 +380,8 @@ components:
 - Product image galleries switch from horizontal thumbnails to vertical swipeable dots on mobile.
 
 ## Known Gaps
+
+- **Evidence:** [SOURCE.json](./SOURCE.json) records capture time, URLs and per-token evidence status. CSS value matches do not establish semantic roles or visual fidelity; unmeasured values remain inferred or unverified.
 
 - Hover and focus states for many components (especially product-card-hover, button-secondary-active) are inferred from common patterns; exact CSS transitions and shadow values may vary.
 - Error styling for form validation (text-input-error) uses the sale red, but specific error message typography and iconography are not captured.

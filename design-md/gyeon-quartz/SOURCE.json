@@ -1,0 +1,929 @@
+{
+  "source_url": "https://gyeonquartz.com",
+  "final_url": "https://gyeon.co/",
+  "captured_at": "2026-09-28T09:43:04.916121+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://gyeonquartz.com",
+      "final_url": "https://gyeon.co/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "312bb62fc37426156b9c2ab29f7d801a215dc009b8e403d2d9276d8443e34f38",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600&subset=latin-ext&ver=6.9",
+      "final_url": "https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600&subset=latin-ext&ver=6.9",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "15e4dfc2c381de017ee0a4bb960695125651a737ffa84ce0addc0a5e860b4cac",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630",
+      "final_url": "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f633e136996827a8343feb4c521e5273b3513e9c41fe012b2a14a7602e0f6cf4",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.min.css?ver=1",
+      "final_url": "https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.min.css?ver=1",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "29cae7fc54373661b147ab1d319dffb8c200238536907f2b33ffd71cb6905c8f",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css?ver=1",
+      "final_url": "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css?ver=1",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "74ca6aae5468dbc924790c3b4d219a089b90a34bad53a0f7ca3a73e73b6f5ab8",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/jquery-autocomplete/1.0.7/jquery.auto-complete.css?ver=6.9",
+      "final_url": "https://cdnjs.cloudflare.com/ajax/libs/jquery-autocomplete/1.0.7/jquery.auto-complete.css?ver=6.9",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "6d7fab9e736b5a64ab2fd063444bc8737b54f6e0a559c2a6a04149d952a75017",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 675,
+      "sources": [
+        "https://gyeon.co/",
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630",
+        "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css?ver=1",
+        "https://cdnjs.cloudflare.com/ajax/libs/jquery-autocomplete/1.0.7/jquery.auto-complete.css?ver=6.9"
+      ]
+    },
+    "#21314d": {
+      "count": 218,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#322c47": {
+      "count": 84,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#edf0f8": {
+      "count": 55,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 46,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#de3f7d": {
+      "count": 44,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#000000": {
+      "count": 38,
+      "sources": [
+        "https://gyeon.co/",
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630",
+        "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css?ver=1"
+      ]
+    },
+    "#202945": {
+      "count": 33,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#28a745": {
+      "count": 32,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#322d50": {
+      "count": 27,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#121841": {
+      "count": 26,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#ef00ec": {
+      "count": 25,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#0e1a35": {
+      "count": 25,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#001026": {
+      "count": 24,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#6a6a6a": {
+      "count": 23,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#dee2e6": {
+      "count": 22,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#212529": {
+      "count": 22,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#6db3d9": {
+      "count": 21,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#ffd637": {
+      "count": 21,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#5d7cff": {
+      "count": 20,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 18,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#ffc107": {
+      "count": 17,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#17a2b8": {
+      "count": 17,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#495057": {
+      "count": 13,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#c15368": {
+      "count": 13,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#595959": {
+      "count": 12,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#0076ff": {
+      "count": 12,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#323232": {
+      "count": 12,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#db458a": {
+      "count": 11,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#323857": {
+      "count": 11,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#3692c0": {
+      "count": 10,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#e83e8c": {
+      "count": 10,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#eeeeee": {
+      "count": 9,
+      "sources": [
+        "https://gyeon.co/",
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#333333": {
+      "count": 9,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630",
+        "https://cdnjs.cloudflare.com/ajax/libs/jquery-autocomplete/1.0.7/jquery.auto-complete.css?ver=6.9"
+      ]
+    },
+    "#dadbdd": {
+      "count": 9,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#78a6ea": {
+      "count": 9,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#03051c": {
+      "count": 9,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#cccccc": {
+      "count": 8,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630",
+        "https://cdnjs.cloudflare.com/ajax/libs/jquery-autocomplete/1.0.7/jquery.auto-complete.css?ver=6.9"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 8,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#3492c1": {
+      "count": 8,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#5d8c4c": {
+      "count": 8,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#b50d4e": {
+      "count": 8,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#3a5ced": {
+      "count": 8,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#9fa1a9": {
+      "count": 8,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#8b8893": {
+      "count": 7,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#dddddd": {
+      "count": 6,
+      "sources": [
+        "https://gyeon.co/",
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#948fa4": {
+      "count": 6,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 6,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#888888": {
+      "count": 6,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#5897fb": {
+      "count": 6,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#d73573": {
+      "count": 5,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#9a9a9a": {
+      "count": 5,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#ced4da": {
+      "count": 5,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#f9fafc": {
+      "count": 5,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#444444": {
+      "count": 4,
+      "sources": [
+        "https://gyeon.co/",
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#1c355e": {
+      "count": 4,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#666666": {
+      "count": 4,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#383c5a": {
+      "count": 4,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#01051d": {
+      "count": 4,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "#3f3a60": {
+      "count": 4,
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "Apple Color Emoji": [
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "Arial": [
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "BlinkMacSystemFont": [
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "Bulevar": [
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "Consolas": [
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "Courier New": [
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "GT America Compressed": [
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "GT America Compressed Bold": [
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "GT America Expanded": [
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "GT America Expanded Bold": [
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "Gtamerica": [
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "Helvetica Neue": [
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "Liberation Mono": [
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "Lightcase": [
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "Menlo": [
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "Monaco": [
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "Noto Color Emoji": [
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "Noto Sans": [
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "Open Sans": [
+      "https://fonts.googleapis.com/css?family=Open+Sans%3A300%2C400%2C600&subset=latin-ext&ver=6.9",
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "Oswald": [
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "Roboto": [
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "SFMono-Regular": [
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "Segoe UI": [
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "Segoe UI Emoji": [
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "Segoe UI Symbol": [
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "SilkMono": [
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "arial": [
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "dripicons-v2": [
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "dripicons-v2\" !important": [
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "gyeon_icons": [
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "gyeon_icons\" !important": [
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "monospace": [
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "monospace !important": [
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "sans-serif": [
+      "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+    ],
+    "swiper-icons": [
+      "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css?ver=1"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://gyeon.co/",
+      "selector": ":root",
+      "declarations": "--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px"
+    },
+    {
+      "source": "https://gyeon.co/",
+      "selector": ":root",
+      "declarations": "--wp-admin-border-width-focus:1.5px"
+    },
+    {
+      "source": "https://gyeon.co/",
+      "selector": ":root .has-very-light-gray-background-color",
+      "declarations": "background-color:#eee"
+    },
+    {
+      "source": "https://gyeon.co/",
+      "selector": ":root .has-very-dark-gray-background-color",
+      "declarations": "background-color:#313131"
+    },
+    {
+      "source": "https://gyeon.co/",
+      "selector": ":root .has-very-light-gray-color",
+      "declarations": "color:#eee"
+    },
+    {
+      "source": "https://gyeon.co/",
+      "selector": ":root .has-very-dark-gray-color",
+      "declarations": "color:#313131"
+    },
+    {
+      "source": "https://gyeon.co/",
+      "selector": ":root",
+      "declarations": "--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px"
+    },
+    {
+      "source": "https://gyeon.co/",
+      "selector": ".wp-block-button__link",
+      "declarations": "color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em"
+    },
+    {
+      "source": "https://gyeon.co/",
+      "selector": ".wp-block-file__button",
+      "declarations": "background:#32373c;color:#fff;text-decoration:none"
+    },
+    {
+      "source": "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630",
+      "selector": ".about-us-wrap .header-wrap",
+      "declarations": "height: 100vh;\n  background-color: #fff;\n  background-size: cover;\n  margin-top: 0%;\n  position: relative;"
+    },
+    {
+      "source": "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630",
+      "selector": ".about-us-wrap .header-title,\n.about-us-wrap .header-subtitle",
+      "declarations": "color: white;"
+    },
+    {
+      "source": "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630",
+      "selector": "#section-industry.industry .section-button a",
+      "declarations": "background-color: transparent;\n  color: #21314D;\n  border: 1px solid #21314D;\n  font-size: 1rem;\n  line-height: 1.5rem;\n  font-weight: 500;\n  padding: 0.75rem 2rem;"
+    },
+    {
+      "source": "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630",
+      "selector": "#section-industry.industry .section-button a:hover",
+      "declarations": "background-color: #21314D;\n  opacity: 1;\n  color: #fff;\n  transition: background-color 0.4s ease-in-out, color 0.4s ease-in-out;"
+    },
+    {
+      "source": "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630",
+      "selector": "#section-packaging .section-button a",
+      "declarations": "background-color: transparent;\n  color: #21314D;\n  border: 1px solid #21314D;\n  font-size: 1rem;\n  line-height: 1.5rem;\n  font-weight: 500;\n  padding: 0.75rem 2rem;"
+    },
+    {
+      "source": "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630",
+      "selector": "#section-packaging .section-button a:hover",
+      "declarations": "background-color: #21314D;\n  opacity: 1;\n  color: #fff;\n  transition: background-color 0.4s ease-in-out, color 0.4s ease-in-out;"
+    },
+    {
+      "source": "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630",
+      "selector": "#section-slider-product.collection > .section-header .section-title",
+      "declarations": "font-size: 2.8125rem;\n  line-height: 2.5625rem;\n  font-family: \"GT America Compressed\", \"GT America Compressed\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";\n  font-weight: 700;\n  width: 95%;"
+    },
+    {
+      "source": "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630",
+      "selector": "#section-slider-product.collection > .section-header .section-title b",
+      "declarations": "font-family: \"GT America Expanded\", \"GT America Compressed\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";"
+    },
+    {
+      "source": "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630",
+      "selector": "#section-slider-product.collection .swiper-slide .product-name",
+      "declarations": "font-family: \"GT America Compressed\", \"GT America Compressed\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";\n  font-weight: 700;\n  font-size: 1.25rem;\n  display: flex;\n  justify-content: center;"
+    },
+    {
+      "source": "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630",
+      "selector": "#section-slider-product.collection .swiper-slide .product-name .product-symbol",
+      "declarations": "font-family: \"GT America Expanded\", \"GT America Compressed\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";\n  font-weight: 300;\n  font-size: 1.25rem;"
+    },
+    {
+      "source": "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630",
+      "selector": "#section-slider-product.collection .swiper-slide .product-description",
+      "declarations": "font-family: \"Open Sans\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";\n  font-size: 0.875rem;\n  line-height: 1.5rem;\n  font-weight: 300;\n  color: #595959;"
+    },
+    {
+      "source": "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630",
+      "selector": ".about-us-gec-tiles__item .button-placeholder",
+      "declarations": "text-transform: uppercase;\n  color: #fff;\n  padding: 0.75rem 2.1875rem;\n  font-size: 1rem;\n  border: 1px solid #fff;\n  font-weight: 500;\n  font-family: \"Oswald\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";\n  transition: background-color 0.4s ease-in-out, color 0.4s ease-in-out;"
+    },
+    {
+      "source": "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630",
+      "selector": ".about-us-gec-tiles__item:hover .button-placeholder",
+      "declarations": "background-color: #fff;\n  color: #21314D;"
+    },
+    {
+      "source": "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630",
+      "selector": ".authorised-detailers-program-wrap .header-subtitle",
+      "declarations": "color: white;"
+    },
+    {
+      "source": "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630",
+      "selector": ".chatbot-header",
+      "declarations": "background: linear-gradient(135deg, #1C355E, #3692C0);\n  padding: 20px;\n  color: white;\n  text-align: center;\n  position: relative;\n  flex-shrink: 0;"
+    },
+    {
+      "source": "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630",
+      "selector": ".chatbot-header h3",
+      "declarations": "font-size: 1.3125rem;\n  font-weight: 600;\n  margin-bottom: 8px;\n  font-family: \"GT America Compressed\", \"GT America Compressed\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";\n  color: #fff;"
+    },
+    {
+      "source": "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630",
+      "selector": ".chatbot-header h3 span",
+      "declarations": "font-family: \"GT America Expanded\", \"GT America Compressed\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";"
+    },
+    {
+      "source": "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630",
+      "selector": "#cc-main .cm .cm__header .cm__title",
+      "declarations": "font-family: \"GT America Compressed\", -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, \"Noto Sans\", sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";\n  color: #948FA4;\n  text-transform: uppercase;\n  font-size: 16px;\n  margin-bottom: 1rem;"
+    },
+    {
+      "source": "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630",
+      "selector": "#cc-main .cm .cm__body .cm__btns .cm__btn[data-role=all]",
+      "declarations": "background-color: #21314d;"
+    },
+    {
+      "source": "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630",
+      "selector": "#cc-main .cm .cm__body .cm__btns .cm__btn[data-role=necessary]",
+      "declarations": "background-color: transparent;\n  border-color: #DB458A;\n  color: #DB458A;\n  transition: all 0.4s ease-in;"
+    },
+    {
+      "source": "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630",
+      "selector": "#cc-main .cm .cm__body .cm__btns .cm__btn[data-role=necessary]:hover",
+      "declarations": "background-color: #DB458A;\n  color: #fff;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "GYEON® Ceramic Coatings, PPF & Car Care Products",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gyeon.co/",
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630",
+        "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css?ver=1",
+        "https://cdnjs.cloudflare.com/ajax/libs/jquery-autocomplete/1.0.7/jquery.auto-complete.css?ver=6.9"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630",
+        "https://cdnjs.cloudflare.com/ajax/libs/jquery-autocomplete/1.0.7/jquery.auto-complete.css?ver=6.9"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gyeon.co/",
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630",
+        "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css?ver=1",
+        "https://cdnjs.cloudflare.com/ajax/libs/jquery-autocomplete/1.0.7/jquery.auto-complete.css?ver=6.9"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gyeon.co/",
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630",
+        "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css?ver=1",
+        "https://cdnjs.cloudflare.com/ajax/libs/jquery-autocomplete/1.0.7/jquery.auto-complete.css?ver=6.9"
+      ]
+    },
+    "colors.accent-pink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "colors.surface-tint": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "colors.border-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gyeon.co/wp-content/themes/gyeon/css/style.css?ver=1788864630"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.collection-filter-tag": {
+      "status": "inferred"
+    }
+  }
+}

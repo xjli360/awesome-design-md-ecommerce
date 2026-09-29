@@ -1,0 +1,904 @@
+{
+  "source_url": "https://kicker.com",
+  "final_url": "https://www.kicker.com/",
+  "captured_at": "2026-09-28T09:44:23.552267+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://kicker.com",
+      "final_url": "https://www.kicker.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "2fb15dd5033c980710e11e977ffc04a6672f8140775f37d8212d649d194c6fb9",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800|Open+Sans+Condensed:300,700",
+      "final_url": "https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800|Open+Sans+Condensed:300,700",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "bf18859ba2aa25eebaf8ed3bbbe63e5ffab7249975d67bcc7e2c7e281254d502",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "final_url": "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7e630d90c7234b0df1729f62b8f9e4bbfaf293d91a5a0ac46df25f2a6759e39a",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.kicker.com/app/css/kicker.css",
+      "final_url": "https://www.kicker.com/app/css/kicker.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9495a62934be7c17a2386af14b90173ae227acc54238472b34643cff2691e747",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.kicker.com/app/css/quivers-css-override.css",
+      "final_url": "https://www.kicker.com/app/css/quivers-css-override.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "280ce790bb1209b8e361fc554493582a9ca865965035cd2b542c66e1e0b3dec3",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css",
+      "final_url": "https://cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "aa55e57957c57eaae4a51740e3e3ae7c3fcb1c951803b3ce0a6c6c7b66733ece",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 110,
+      "sources": [
+        "https://www.kicker.com/",
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+        "https://www.kicker.com/app/css/kicker.css",
+        "https://cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 32,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#000000": {
+      "count": 27,
+      "sources": [
+        "https://www.kicker.com/",
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+        "https://www.kicker.com/app/css/kicker.css"
+      ]
+    },
+    "#333333": {
+      "count": 25,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+        "https://www.kicker.com/app/css/kicker.css"
+      ]
+    },
+    "#337ab7": {
+      "count": 25,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#777777": {
+      "count": 24,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+        "https://cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 14,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#3c763d": {
+      "count": 14,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#8a6d3b": {
+      "count": 14,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#a94442": {
+      "count": 14,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#cccccc": {
+      "count": 14,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+        "https://www.kicker.com/app/css/kicker.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 13,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+        "https://www.kicker.com/app/css/kicker.css"
+      ]
+    },
+    "#999999": {
+      "count": 10,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+        "https://www.kicker.com/app/css/kicker.css"
+      ]
+    },
+    "#31708f": {
+      "count": 9,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#555555": {
+      "count": 9,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#fcf8e3": {
+      "count": 8,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#dff0d8": {
+      "count": 7,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#f2dede": {
+      "count": 7,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#286090": {
+      "count": 6,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#d9edf7": {
+      "count": 6,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#e7e7e7": {
+      "count": 6,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+        "https://www.kicker.com/app/css/kicker.css"
+      ]
+    },
+    "#080808": {
+      "count": 6,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#9d9d9d": {
+      "count": 6,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 5,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#5cb85c": {
+      "count": 5,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#5bc0de": {
+      "count": 5,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#f0ad4e": {
+      "count": 5,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#d9534f": {
+      "count": 5,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#d6e9c6": {
+      "count": 5,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#bce8f1": {
+      "count": 5,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#faebcc": {
+      "count": 5,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#ebccd1": {
+      "count": 5,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#ffde00": {
+      "count": 5,
+      "sources": [
+        "https://www.kicker.com/app/css/kicker.css"
+      ]
+    },
+    "#449d44": {
+      "count": 4,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#31b0d5": {
+      "count": 4,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#ec971f": {
+      "count": 4,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#c9302c": {
+      "count": 4,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#ffd11b": {
+      "count": 3,
+      "sources": [
+        "https://www.kicker.com/"
+      ]
+    },
+    "#222222": {
+      "count": 3,
+      "sources": [
+        "https://www.kicker.com/",
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+        "https://www.kicker.com/app/css/kicker.css"
+      ]
+    },
+    "#23527c": {
+      "count": 3,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#2b542c": {
+      "count": 3,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#66512c": {
+      "count": 3,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#843534": {
+      "count": 3,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 3,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#204d74": {
+      "count": 3,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#398439": {
+      "count": 3,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#269abc": {
+      "count": 3,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#d58512": {
+      "count": 3,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#ac2925": {
+      "count": 3,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#262626": {
+      "count": 3,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+        "https://www.kicker.com/app/css/kicker.css"
+      ]
+    },
+    "#444444": {
+      "count": 3,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#245269": {
+      "count": 2,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#d0e9c6": {
+      "count": 2,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#c4e3f3": {
+      "count": 2,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#faf2cc": {
+      "count": 2,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#ebcccc": {
+      "count": 2,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#67b168": {
+      "count": 2,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#c0a16b": {
+      "count": 2,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#ce8483": {
+      "count": 2,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "#8c8c8c": {
+      "count": 2,
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "https://cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css"
+    ],
+    "BootstrapIcons": [
+      "https://www.kicker.com/app/css/quivers-css-override.css"
+    ],
+    "Consolas": [
+      "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+    ],
+    "Courier New": [
+      "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+    ],
+    "Glyphicons Halflings": [
+      "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+    ],
+    "Gotham-Black": [
+      "https://www.kicker.com/app/css/quivers-css-override.css"
+    ],
+    "Helvetica": [
+      "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "https://cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css"
+    ],
+    "Helvetica Neue": [
+      "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "https://cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css"
+    ],
+    "Menlo": [
+      "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+    ],
+    "Monaco": [
+      "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+    ],
+    "Open Sans": [
+      "https://www.kicker.com/",
+      "https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800|Open+Sans+Condensed:300,700",
+      "https://www.kicker.com/app/css/kicker.css",
+      "https://cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css"
+    ],
+    "Open Sans Condensed": [
+      "https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800|Open+Sans+Condensed:300,700",
+      "https://www.kicker.com/app/css/kicker.css"
+    ],
+    "Verdana": [
+      "https://cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css"
+    ],
+    "monospace": [
+      "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+    ],
+    "sans-serif": [
+      "https://www.kicker.com/",
+      "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "https://www.kicker.com/app/css/kicker.css",
+      "https://cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css"
+    ],
+    "sans-serif !important": [
+      "https://www.kicker.com/app/css/kicker.css"
+    ],
+    "serif": [
+      "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+    ],
+    "serif!important": [
+      "https://www.kicker.com/app/css/quivers-css-override.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "selector": "button,\ninput,\noptgroup,\nselect,\ntextarea",
+      "declarations": "margin: 0;\n  font: inherit;\n  color: inherit;"
+    },
+    {
+      "source": "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "selector": ".btn > .caret,\n  .dropup > .btn > .caret",
+      "declarations": "border-top-color: #000 !important;"
+    },
+    {
+      "source": "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "selector": "body",
+      "declarations": "font-family: \"Helvetica Neue\", Helvetica, Arial, sans-serif;\n  font-size: 14px;\n  line-height: 1.42857143;\n  color: #333;\n  background-color: #fff;"
+    },
+    {
+      "source": "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "selector": "input,\nbutton,\nselect,\ntextarea",
+      "declarations": "font-family: inherit;\n  font-size: inherit;\n  line-height: inherit;"
+    },
+    {
+      "source": "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "selector": "h1,\nh2,\nh3,\nh4,\nh5,\nh6,\n.h1,\n.h2,\n.h3,\n.h4,\n.h5,\n.h6",
+      "declarations": "font-family: inherit;\n  font-weight: 500;\n  line-height: 1.1;\n  color: inherit;"
+    },
+    {
+      "source": "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "selector": "small,\n.h2 small,\n.h3 small,\n.h4 small,\n.h5 small,\n.h6 small,\nh1 .small,\nh2 .small,\nh3 .small,\nh4 .small,\nh5 .small,\nh6 .small,\n.h1 .small,\n.h2 .small,\n.h3 .sma",
+      "declarations": "font-weight: normal;\n  line-height: 1;\n  color: #777;"
+    },
+    {
+      "source": "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "selector": ".table-striped > tbody > tr:nth-of-type(odd)",
+      "declarations": "background-color: #f9f9f9;"
+    },
+    {
+      "source": "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "selector": ".table-hover > tbody > tr:hover",
+      "declarations": "background-color: #f5f5f5;"
+    },
+    {
+      "source": "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "selector": "e,\n.table > thead > tr.active > td,\n.table > tbody > tr.active > td,\n.table > tfoot > tr.active > td,\n.table > thead > tr.active > th,\n.table > tbody > tr.activ",
+      "declarations": "background-color: #f5f5f5;"
+    },
+    {
+      "source": "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "selector": "tr > td.active:hover,\n.table-hover > tbody > tr > th.active:hover,\n.table-hover > tbody > tr.active:hover > td,\n.table-hover > tbody > tr:hover > .active,\n.tabl",
+      "declarations": "background-color: #e8e8e8;"
+    },
+    {
+      "source": "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "selector": "ble > thead > tr.success > td,\n.table > tbody > tr.success > td,\n.table > tfoot > tr.success > td,\n.table > thead > tr.success > th,\n.table > tbody > tr.success",
+      "declarations": "background-color: #dff0d8;"
+    },
+    {
+      "source": "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "selector": "td.success:hover,\n.table-hover > tbody > tr > th.success:hover,\n.table-hover > tbody > tr.success:hover > td,\n.table-hover > tbody > tr:hover > .success,\n.table",
+      "declarations": "background-color: #d0e9c6;"
+    },
+    {
+      "source": "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "selector": "tr > th.info,\n.table > thead > tr.info > td,\n.table > tbody > tr.info > td,\n.table > tfoot > tr.info > td,\n.table > thead > tr.info > th,\n.table > tbody > tr.in",
+      "declarations": "background-color: #d9edf7;"
+    },
+    {
+      "source": "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "selector": "> tbody > tr > td.info:hover,\n.table-hover > tbody > tr > th.info:hover,\n.table-hover > tbody > tr.info:hover > td,\n.table-hover > tbody > tr:hover > .info,\n.ta",
+      "declarations": "background-color: #c4e3f3;"
+    },
+    {
+      "source": "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "selector": "ble > thead > tr.warning > td,\n.table > tbody > tr.warning > td,\n.table > tfoot > tr.warning > td,\n.table > thead > tr.warning > th,\n.table > tbody > tr.warning",
+      "declarations": "background-color: #fcf8e3;"
+    },
+    {
+      "source": "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "selector": "td.warning:hover,\n.table-hover > tbody > tr > th.warning:hover,\n.table-hover > tbody > tr.warning:hover > td,\n.table-hover > tbody > tr:hover > .warning,\n.table",
+      "declarations": "background-color: #faf2cc;"
+    },
+    {
+      "source": "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "selector": "r,\n.table > thead > tr.danger > td,\n.table > tbody > tr.danger > td,\n.table > tfoot > tr.danger > td,\n.table > thead > tr.danger > th,\n.table > tbody > tr.dange",
+      "declarations": "background-color: #f2dede;"
+    },
+    {
+      "source": "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "selector": "tr > td.danger:hover,\n.table-hover > tbody > tr > th.danger:hover,\n.table-hover > tbody > tr.danger:hover > td,\n.table-hover > tbody > tr:hover > .danger,\n.tabl",
+      "declarations": "background-color: #ebcccc;"
+    },
+    {
+      "source": "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "selector": ".btn:hover,\n.btn:focus,\n.btn.focus",
+      "declarations": "color: #333;\n  text-decoration: none;"
+    },
+    {
+      "source": "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "selector": ".btn-default",
+      "declarations": "color: #333;\n  background-color: #fff;\n  border-color: #ccc;"
+    },
+    {
+      "source": "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "selector": ".btn-default:focus,\n.btn-default.focus",
+      "declarations": "color: #333;\n  background-color: #e6e6e6;\n  border-color: #8c8c8c;"
+    },
+    {
+      "source": "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "selector": ".btn-default:hover",
+      "declarations": "color: #333;\n  background-color: #e6e6e6;\n  border-color: #adadad;"
+    },
+    {
+      "source": "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "selector": ".btn-default:active,\n.btn-default.active,\n.open > .dropdown-toggle.btn-default",
+      "declarations": "color: #333;\n  background-color: #e6e6e6;\n  border-color: #adadad;"
+    },
+    {
+      "source": "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "selector": "ver,\n.btn-default:active:focus,\n.btn-default.active:focus,\n.open > .dropdown-toggle.btn-default:focus,\n.btn-default:active.focus,\n.btn-default.active.focus,\n.op",
+      "declarations": "color: #333;\n  background-color: #d4d4d4;\n  border-color: #8c8c8c;"
+    },
+    {
+      "source": "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "selector": "ver,\n.btn-default.disabled:focus,\n.btn-default[disabled]:focus,\nfieldset[disabled] .btn-default:focus,\n.btn-default.disabled.focus,\n.btn-default[disabled].focus",
+      "declarations": "background-color: #fff;\n  border-color: #ccc;"
+    },
+    {
+      "source": "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "selector": ".btn-default .badge",
+      "declarations": "color: #fff;\n  background-color: #333;"
+    },
+    {
+      "source": "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "selector": ".btn-primary",
+      "declarations": "color: #fff;\n  background-color: #337ab7;\n  border-color: #2e6da4;"
+    },
+    {
+      "source": "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "selector": ".btn-primary:focus,\n.btn-primary.focus",
+      "declarations": "color: #fff;\n  background-color: #286090;\n  border-color: #122b40;"
+    },
+    {
+      "source": "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "selector": ".btn-primary:hover",
+      "declarations": "color: #fff;\n  background-color: #286090;\n  border-color: #204d74;"
+    },
+    {
+      "source": "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+      "selector": ".btn-primary:active,\n.btn-primary.active,\n.open > .dropdown-toggle.btn-primary",
+      "declarations": "color: #fff;\n  background-color: #286090;\n  border-color: #204d74;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Car Audio, Home & Personal Audio | KICKER®",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kicker.com/app/css/kicker.css"
+      ]
+    },
+    "colors.primary-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kicker.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kicker.com/",
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+        "https://www.kicker.com/app/css/kicker.css",
+        "https://cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+        "https://www.kicker.com/app/css/kicker.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+        "https://cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+        "https://www.kicker.com/app/css/kicker.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kicker.com/",
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+        "https://www.kicker.com/app/css/kicker.css",
+        "https://cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "colors.border": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+        "https://www.kicker.com/app/css/kicker.css"
+      ]
+    },
+    "colors.overlay": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kicker.com/",
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0",
+        "https://www.kicker.com/app/css/kicker.css"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "colors.success-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "colors.danger-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kicker.com/app/css/bootstrap.css?v=1.0"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-table": {
+      "status": "inferred"
+    }
+  }
+}

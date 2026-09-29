@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Fiskars
-description: |
+name: "Fiskars"
+source_url: "https://www.fiskars.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Orange scissors on a kitchen counter, orange pruners half-buried in garden soil, orange axes splitting birch — for over three centuries the single chromatic signal has been a molten, traffic-cone orange (#FF6900) pressed into ergonomic polymer handles. The digital expression translates that confidence into a restrained interface: a near-black charcoal (#313131) dominates headings, navigation, and body copy, lending the site an almost editorial sobriety, while the signature orange arrives only at decisive interaction points — primary CTAs, active filter chips, and the occasional product-category icon. Typography relies entirely on the native system stack (`-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif`), a deliberate choice that privileges load speed and cross-platform legibility over bespoke type — the tools sell themselves through oversized lifestyle photography and generous whitespace rather than display lettering. Corners stay disciplined: product cards take a subtle `{rounded.sm}` (8 px), buttons round to `{rounded.xs}` (4 px), and pill-shaped tags use `{rounded.full}` for category labels. The layout grid breathes at `{spacing.section}` (64 px) between major content bands, compressing to `{spacing.lg}` on mobile. A full-bleed hero occupies the viewport above the fold, typically a slow-zoom video loop of hands in motion — cutting, digging, splitting — with a single translucent text overlay and one CTA anchored bottom-left. Product listing pages favor a 3-up masonry on desktop collapsing to a scrollable 2-up on tablet, each card casting a faint 0 2px 8px rgba(0,0,0,0.06) shadow that lifts to 0 4px 16px on hover. The footer is dense and utility-driven, stacking link columns atop a matte-dark (#1a1a1a) background that grounds the page like potting soil beneath a tray of seedlings.
 
 colors:
@@ -410,6 +413,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Site returned a Cloudflare "Just a moment..." challenge page — no CSS custom properties, component tokens, or JavaScript-rendered design tokens could be extracted
 - Only one hex color (#313131) was captured from the challenge page; the full site palette is unavailable from extraction

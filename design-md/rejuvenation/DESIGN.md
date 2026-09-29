@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Rejuvenation
-description: A warm, tactile home furnishings brand that marries industrial heritage with soft, lived-in comfort. The palette is anchored in deep charcoals (#2b3033) and near-black ink (#1a1818), offset by a warm brass accent (#896b27) that appears in hardware, lighting fixtures, and decorative details — a nod to the brand's roots in salvaged and vintage-inspired design. The primary action color is a restrained vermilion (#d04727), used sparingly on buttons and key CTAs to create deliberate moments of energy against the otherwise muted backdrop. Typography runs Gotham and Arial at modest weights, with display sizes rarely exceeding 28px; the brand trusts generous whitespace and tactile product photography over typographic muscle. Surfaces are soft — cards and buttons use `{rounded.sm}` (8px) and `{rounded.md}` (12px) radii that read as approachable but not overly friendly, while the search bar and hero elements adopt `{rounded.full}` pill shapes for a refined, curated feel. The overall mood is that of a well-edited workshop: structured, honest, and quietly confident, with every design decision deferring to the materiality of the products themselves.
+name: "Rejuvenation"
+source_url: "https://www.rejuvenation.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A warm, tactile home furnishings brand that marries industrial heritage with soft, lived-in comfort. The palette is anchored in deep charcoals (#2b3033) and near-black ink (#1a1818), offset by a warm brass accent (#896b27) that appears in hardware, lighting fixtures, and decorative details — a nod to the brand's roots in salvaged and vintage-inspired design. The primary action color is a restrained vermilion (#d04727), used sparingly on buttons and key CTAs to create deliberate moments of energy against the otherwise muted backdrop. Typography runs Gotham and Arial at modest weights, with display sizes rarely exceeding 28px; the brand trusts generous whitespace and tactile product photography over typographic muscle. Surfaces are soft — cards and buttons use `{rounded.sm}` (8px) and `{rounded.md}` (12px) radii that read as approachable but not overly friendly, while the search bar and hero elements adopt `{rounded.full}` pill shapes for a refined, curated feel. The overall mood is that of a well-edited workshop: structured, honest, and quietly confident, with every design decision deferring to the materiality of the products themselves.
 
 colors:
   primary: "#d04727"
@@ -370,6 +374,8 @@ components:
 - Search bar collapses to an icon that expands to full-width overlay on tap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components could not be fully extracted; only primary and secondary buttons have confirmed hover colors
 - Error styling for forms (error messages, validation icons) is inferred from common patterns rather than extracted

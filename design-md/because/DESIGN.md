@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Because
-description: A muted, earth-toned canvas of #fcfcf4 — the color of unbleached linen or morning light through a muslin curtain — sets the stage for a brand that treats personal care for aging bodies with the same visual dignity as a minimalist home-goods catalog. The extracted palette reads like a desert landscape: sage-adjacent #f2f2ea, warm stone #f5f5dc, and the surprising jolt of #08c5bc, a teal that appears in key interactive moments like a cool spring in dry terrain. Typography splits between DM Sans for clean, legible body copy and Petrona for display — a serif choice that signals warmth and editorial care rather than clinical efficiency. Buttons carry {rounded.full} pill shapes, softening every transaction, while product cards use {rounded.md} to frame incontinence garments and bathing aids as objects of quiet consideration rather than medical supplies. The brand's voice is low-volume: muted grays (#9ca3af, #777777) handle secondary information, hairline borders are soft (#e5e7eb), and the deep ink (#242527) never screams. There is no hard edge, no urgent red, no flash-sale pulse — Because trusts that a 64px section of whitespace and a Petrona display-xl header say "we understand" louder than any discount badge could.
+name: "Because"
+source_url: "https://becausemarket.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A muted, earth-toned canvas of #fcfcf4 — the color of unbleached linen or morning light through a muslin curtain — sets the stage for a brand that treats personal care for aging bodies with the same visual dignity as a minimalist home-goods catalog. The extracted palette reads like a desert landscape: sage-adjacent #f2f2ea, warm stone #f5f5dc, and the surprising jolt of #08c5bc, a teal that appears in key interactive moments like a cool spring in dry terrain. Typography splits between DM Sans for clean, legible body copy and Petrona for display — a serif choice that signals warmth and editorial care rather than clinical efficiency. Buttons carry {rounded.full} pill shapes, softening every transaction, while product cards use {rounded.md} to frame incontinence garments and bathing aids as objects of quiet consideration rather than medical supplies. The brand's voice is low-volume: muted grays (#9ca3af, #777777) handle secondary information, hairline borders are soft (#e5e7eb), and the deep ink (#242527) never screams. There is no hard edge, no urgent red, no flash-sale pulse — Because trusts that a 64px section of whitespace and a Petrona display-xl header say "we understand" louder than any discount badge could.
 
 colors:
   primary: "#08c5bc"
@@ -243,6 +247,8 @@ components:
 - Search bar collapses from inline in nav to a full-width expandable field at mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for most components were not reliably extracted from the live site; the active/disabled states above are inferred from the primary color and common accessibility patterns
 - Error styling (form validation, input error borders, error messages) was not observed; a red accent (#d62728 appeared in extracted colors but may be a checkout widget color — use with caution)

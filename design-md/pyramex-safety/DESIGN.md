@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Pyramex Safety
-description: |
+name: "Pyramex Safety"
+source_url: "https://www.pyramexsafety.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Conduit ITC Std sets the typographic register before any product loads: narrow, upright, squared at the terminals, the face reads like safety-placard lettering pressed into a digital grid — the opposite of the smooth rounded letterforms that consumer gear brands favor. The palette the live server delivers is deliberately stripped: an off-white field at #f7f7f7 (`{colors.surface-soft}`), mid-gray body text at #444444 (`{colors.body}`), and a hard black (#000000, `{colors.ink}`) that functions as both meta theme-color and primary UI anchor. No brand accent color surfaced in extraction — high-visibility yellows, oranges, and reflective silvers live only inside product photography, which carries every chromatic duty while the surrounding shell stays achromatic.
 
   The three Conduit cuts — conduititcstdbold, conduititcstdmedium, conduititcstdmediumitalic — map directly onto three editorial registers: assertive category headers and hero callouts get the bold cut at large display sizes; product specs, nav links, and form labels fall to medium weight; promotional asides and pull-quotes flex into medium-italic for angled energy without switching families. This mono-family discipline signals the brand treats its typographic voice as a structural identity asset.
@@ -292,6 +295,8 @@ components:
 - Top utility strip hides on mobile to preserve nav height budget
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only three neutral hex values extracted (#e5e5e5, #f7f7f7, #444444); brand accent colors — safety yellow, hi-vis orange, warning red — did not surface and appear to load via JS or exist solely within image assets rather than CSS custom properties
 - `colors.primary-active` (#333333) and `colors.muted` (#888888) are logically derived from the extracted gray range, not directly captured

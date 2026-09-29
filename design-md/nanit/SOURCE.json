@@ -1,0 +1,856 @@
+{
+  "source_url": "https://nanit.com",
+  "final_url": "https://www.nanit.com/",
+  "captured_at": "2026-09-28T09:21:42.403432+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://nanit.com",
+      "final_url": "https://www.nanit.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "2c58046deabbc3a8332e76a29d9e4b0b48618a7b9312bac164ea3551a2451540",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472",
+      "final_url": "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "42c0982853ccb0bf12e48375746cbd6c382d7fabf23a9b9bece098ff8186f722",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.nanit.com/cdn/shop/t/616/assets/apps.css?v=162097722211979372921757690018",
+      "final_url": "https://www.nanit.com/cdn/shop/t/616/assets/apps.css?v=162097722211979372921757690018",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "11954637f50235803b27eb5168b8fb764586afd8e9e353e0c381d50a82edb884",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892",
+      "final_url": "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4d7c68711e4cc5ccd1b34181a8e3f27f61e97c01e4095a375cd52f12bbd368d6",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.nanit.com/cdn/shop/t/616/assets/sectionRegistry-CLbQKm89.css?v=99439477171550364191782307934",
+      "final_url": "https://www.nanit.com/cdn/shop/t/616/assets/sectionRegistry-CLbQKm89.css?v=99439477171550364191782307934",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "038b3e12af96b5e0d258e1455df183458c5dc5358aaf0c843f6673b78e36392b",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.nanit.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.nanit.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 60,
+      "sources": [
+        "https://www.nanit.com/",
+        "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472",
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892",
+        "https://www.nanit.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#000041": {
+      "count": 41,
+      "sources": [
+        "https://www.nanit.com/",
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "#334874": {
+      "count": 19,
+      "sources": [
+        "https://www.nanit.com/",
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "#faf7f3": {
+      "count": 19,
+      "sources": [
+        "https://www.nanit.com/",
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "#000000": {
+      "count": 17,
+      "sources": [
+        "https://www.nanit.com/",
+        "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472",
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "#00000000": {
+      "count": 13,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472",
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892",
+        "https://www.nanit.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#111d41": {
+      "count": 12,
+      "sources": [
+        "https://www.nanit.com/"
+      ]
+    },
+    "#f5de9e": {
+      "count": 6,
+      "sources": [
+        "https://www.nanit.com/",
+        "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472",
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "#f3ebe0": {
+      "count": 6,
+      "sources": [
+        "https://www.nanit.com/",
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "#233251": {
+      "count": 6,
+      "sources": [
+        "https://www.nanit.com/"
+      ]
+    },
+    "#060b19": {
+      "count": 6,
+      "sources": [
+        "https://www.nanit.com/"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 4,
+      "sources": [
+        "https://www.nanit.com/",
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "#3f83f8": {
+      "count": 4,
+      "sources": [
+        "https://www.nanit.com/"
+      ]
+    },
+    "#eeeef1": {
+      "count": 4,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "#f0cd6e": {
+      "count": 4,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "#000000cc": {
+      "count": 4,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "#171717": {
+      "count": 2,
+      "sources": [
+        "https://www.nanit.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 2,
+      "sources": [
+        "https://www.nanit.com/",
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "#333333": {
+      "count": 2,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472",
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 2,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "#00000066": {
+      "count": 2,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "#000000e6": {
+      "count": 2,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "#666666": {
+      "count": 2,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "#f4f3ef": {
+      "count": 2,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "#e7f0fb": {
+      "count": 2,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "#fbfbf6": {
+      "count": 2,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "#fffeb9": {
+      "count": 2,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "#f4ffd9": {
+      "count": 2,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "#32b5ff": {
+      "count": 2,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "#01f69b": {
+      "count": 2,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "#ff3d00": {
+      "count": 2,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "#fffd00": {
+      "count": 2,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "#9ca3af": {
+      "count": 2,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "#ffffff26": {
+      "count": 2,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.nanit.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f8e6b7": {
+      "count": 1,
+      "sources": [
+        "https://www.nanit.com/"
+      ]
+    },
+    "#f9fafb": {
+      "count": 1,
+      "sources": [
+        "https://www.nanit.com/"
+      ]
+    },
+    "#555555": {
+      "count": 1,
+      "sources": [
+        "https://www.nanit.com/"
+      ]
+    },
+    "#ffffffbf": {
+      "count": 1,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472"
+      ]
+    },
+    "#1199ff": {
+      "count": 1,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 1,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472"
+      ]
+    },
+    "#1b3a57": {
+      "count": 1,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472"
+      ]
+    },
+    "#3b5998": {
+      "count": 1,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472"
+      ]
+    },
+    "#00acee": {
+      "count": 1,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472"
+      ]
+    },
+    "#e60023": {
+      "count": 1,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472"
+      ]
+    },
+    "#3390f7": {
+      "count": 1,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472"
+      ]
+    },
+    "#25d366": {
+      "count": 1,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472"
+      ]
+    },
+    "#0064ff": {
+      "count": 1,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472"
+      ]
+    },
+    "#61f0f3": {
+      "count": 1,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472"
+      ]
+    },
+    "#ff3484": {
+      "count": 1,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472"
+      ]
+    },
+    "#f1e04d": {
+      "count": 1,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472"
+      ]
+    },
+    "#309fff": {
+      "count": 1,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472"
+      ]
+    },
+    "#b635ff": {
+      "count": 1,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472"
+      ]
+    },
+    "#049cff": {
+      "count": 1,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472"
+      ]
+    },
+    "#35ee7a": {
+      "count": 1,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472"
+      ]
+    },
+    "#00e166": {
+      "count": 1,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472"
+      ]
+    },
+    "#0066ec": {
+      "count": 1,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472"
+      ]
+    },
+    "#f7d00b": {
+      "count": 1,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472"
+      ]
+    },
+    "#f60e0e": {
+      "count": 1,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472"
+      ]
+    },
+    "#b700ff": {
+      "count": 1,
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.nanit.com/"
+    ],
+    "Consolas": [
+      "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472"
+    ],
+    "Cotford Light": [
+      "https://www.nanit.com/",
+      "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+    ],
+    "Courier New": [
+      "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472"
+    ],
+    "Inter": [
+      "https://www.nanit.com/"
+    ],
+    "Liberation Mono": [
+      "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472"
+    ],
+    "Menlo": [
+      "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472"
+    ],
+    "Monaco": [
+      "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472"
+    ],
+    "Neue Plak": [
+      "https://www.nanit.com/",
+      "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+    ],
+    "SFMono-Regular": [
+      "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472"
+    ],
+    "inherit!important": [
+      "https://www.nanit.com/cdn/shop/t/616/assets/apps.css?v=162097722211979372921757690018",
+      "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+    ],
+    "monospace": [
+      "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472",
+      "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+    ],
+    "sans-serif": [
+      "https://www.nanit.com/",
+      "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+    ],
+    "ui-monospace": [
+      "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.nanit.com/",
+      "selector": ":root",
+      "declarations": "--page-padding: var(--sp-9);"
+    },
+    {
+      "source": "https://www.nanit.com/",
+      "selector": ":root",
+      "declarations": "--gap-padding: var(--sp-12);\n      --page-padding: var(--sp-12);\n      --page-container: min(calc(100vw - var(--scrollbar-width, 0px) - var(--page-padding) * 2), max(var(--page-width), 1280px));"
+    },
+    {
+      "source": "https://www.nanit.com/",
+      "selector": ":root",
+      "declarations": "--page-padding: max(var(--sp-12), 50vw - var(--scrollbar-width, 0px)/2 - var(--page-width)/2);"
+    },
+    {
+      "source": "https://www.nanit.com/",
+      "selector": "body",
+      "declarations": "margin:0;font-family:var(--font-body-family),system-ui,sans-serif;background:rgb(var(--color-background));color:rgb(var(--color-foreground))"
+    },
+    {
+      "source": "https://www.nanit.com/",
+      "selector": "button",
+      "declarations": "font-family:inherit;cursor:pointer"
+    },
+    {
+      "source": "https://www.nanit.com/",
+      "selector": ".h1,.h2,.title-lg,.title-md",
+      "declarations": "font-family:var(--font-heading-family),serif;font-weight:var(--font-heading-weight);line-height:1.2"
+    },
+    {
+      "source": "https://www.nanit.com/",
+      "selector": "display:none;visibility:hidden\n\n    :root",
+      "declarations": "--topbar-height: var(--sp-12);"
+    },
+    {
+      "source": "https://www.nanit.com/",
+      "selector": ":root",
+      "declarations": "--topbar-height: var(--sp-14);"
+    },
+    {
+      "source": "https://www.nanit.com/",
+      "selector": "#shopify-section-sections--18529121075339__header",
+      "declarations": "--section-padding-top: 32px;\n    --section-padding-bottom: 32px;\n    --color-background: 251 251 246;\n    --color-foreground: 0 0 65;\n    --color-transparent: 250 247 243;"
+    },
+    {
+      "source": "https://www.nanit.com/",
+      "selector": "-height: 39.0px;max-width: 105px;\nmax-height: 25.999999999999996px;max-width: 70px;\nmax-height: 35.945945945945944px;max-width: 105px;\nmax-height: 23.9639639639",
+      "declarations": "height: unset;\n        padding: 15px 0;\n        border: 0;\n        background: var(--light-blue);\n        color: rgba(var(--text-color), 0.7);\n        letter-spacing: 0;\n        font-size: 14px;\n        font-weight: normal;\n        border-top: 1px solid #e5e7eb;\n        border-bottom: 1px solid #e5e7eb;\n        border-radius: 0;\n        position: relative;\n        text-decoration: underline;\n        margin-top: 10px;"
+    },
+    {
+      "source": "https://www.nanit.com/",
+      "selector": "#shopify-section-template--18529124548747__hero_slider_WhPgHV [data-block-id=\"video_slide_fPznXz\"] .button--primary",
+      "declarations": "background-color: #334874 !important;\n          border-color: #334874 !important;"
+    },
+    {
+      "source": "https://www.nanit.com/",
+      "selector": "#shopify-section-template--18529124548747__hero_slider_WhPgHV [data-block-id=\"video_slide_fPznXz\"] .button--primary:hover",
+      "declarations": "background-color: #233251 !important;\n          border-color: #233251 !important;"
+    },
+    {
+      "source": "https://www.nanit.com/",
+      "selector": "#shopify-section-template--18529124548747__hero_slider_WhPgHV [data-block-id=\"video_slide_fPznXz\"] .button--primary .btn-fill",
+      "declarations": "background-color: #233251 !important;"
+    },
+    {
+      "source": "https://www.nanit.com/",
+      "selector": "#shopify-section-template--18529124548747__hero_slider_WhPgHV [data-block-id=\"video_slide_fPznXz\"] .button--secondary",
+      "declarations": "border-color: #334874 !important;\n          color: #334874 !important;"
+    },
+    {
+      "source": "https://www.nanit.com/",
+      "selector": "#shopify-section-template--18529124548747__hero_slider_WhPgHV [data-block-id=\"video_slide_fPznXz\"] .button--secondary:hover",
+      "declarations": "background-color: #334874 !important;"
+    },
+    {
+      "source": "https://www.nanit.com/",
+      "selector": "#shopify-section-template--18529124548747__hero_slider_WhPgHV [data-block-id=\"video_slide_fPznXz\"] .button--secondary .btn-fill",
+      "declarations": "background-color: #334874 !important;"
+    },
+    {
+      "source": "https://www.nanit.com/",
+      "selector": "der_WhPgHV [data-block-id=\"video_slide_fPznXz\"] .button--primary,\n        #shopify-section-template--18529124548747__hero_slider_WhPgHV [data-block-id=\"video_sl",
+      "declarations": "color: #faf7f3 !important;"
+    },
+    {
+      "source": "https://www.nanit.com/",
+      "selector": "data-block-id=\"video_slide_fPznXz\"] .button--primary:hover,\n        #shopify-section-template--18529124548747__hero_slider_WhPgHV [data-block-id=\"video_slide_fP",
+      "declarations": "color: #faf7f3 !important;"
+    },
+    {
+      "source": "https://www.nanit.com/",
+      "selector": "-block-id=\"video_slide_fPznXz\"] .button--secondary:hover,\n        #shopify-section-template--18529124548747__hero_slider_WhPgHV [data-block-id=\"video_slide_fPzn",
+      "declarations": "color: #faf7f3 !important;"
+    },
+    {
+      "source": "https://www.nanit.com/",
+      "selector": "#shopify-section-template--18529124548747__hero_slider_WhPgHV [data-block-id=\"video_slide_fPznXz\"] .button--primary",
+      "declarations": "background-color: #334874 !important;\n            border-color: #334874 !important;"
+    },
+    {
+      "source": "https://www.nanit.com/",
+      "selector": "#shopify-section-template--18529124548747__hero_slider_WhPgHV [data-block-id=\"video_slide_fPznXz\"] .button--primary:hover",
+      "declarations": "background-color: #233251 !important;\n            border-color: #233251 !important;"
+    },
+    {
+      "source": "https://www.nanit.com/",
+      "selector": "#shopify-section-template--18529124548747__hero_slider_WhPgHV [data-block-id=\"video_slide_fPznXz\"] .button--primary .btn-fill",
+      "declarations": "background-color: #233251 !important;"
+    },
+    {
+      "source": "https://www.nanit.com/",
+      "selector": "#shopify-section-template--18529124548747__hero_slider_WhPgHV [data-block-id=\"video_slide_fPznXz\"] .button--secondary",
+      "declarations": "border-color: #334874 !important;\n            color: #334874 !important;"
+    },
+    {
+      "source": "https://www.nanit.com/",
+      "selector": "#shopify-section-template--18529124548747__hero_slider_WhPgHV [data-block-id=\"video_slide_fPznXz\"] .button--secondary:hover",
+      "declarations": "background-color: #334874 !important;"
+    },
+    {
+      "source": "https://www.nanit.com/",
+      "selector": "#shopify-section-template--18529124548747__hero_slider_WhPgHV [data-block-id=\"video_slide_fPznXz\"] .button--secondary .btn-fill",
+      "declarations": "background-color: #334874 !important;"
+    },
+    {
+      "source": "https://www.nanit.com/",
+      "selector": "r_WhPgHV [data-block-id=\"video_slide_fPznXz\"] .button--primary,\n          #shopify-section-template--18529124548747__hero_slider_WhPgHV [data-block-id=\"video_sl",
+      "declarations": "color: #ffffff !important;"
+    },
+    {
+      "source": "https://www.nanit.com/",
+      "selector": "ta-block-id=\"video_slide_fPznXz\"] .button--primary:hover,\n          #shopify-section-template--18529124548747__hero_slider_WhPgHV [data-block-id=\"video_slide_fP",
+      "declarations": "color: #ffffff !important;"
+    },
+    {
+      "source": "https://www.nanit.com/",
+      "selector": "lock-id=\"video_slide_fPznXz\"] .button--secondary:hover,\n          #shopify-section-template--18529124548747__hero_slider_WhPgHV [data-block-id=\"video_slide_fPzn",
+      "declarations": "color: #ffffff !important;"
+    },
+    {
+      "source": "https://www.nanit.com/",
+      "selector": "#shopify-section-template--18529124548747__hero_slider_WhPgHV [data-block-id=\"image_slide_eRHDnD\"] .button--primary",
+      "declarations": "background-color: #111d41 !important;\n          border-color: #111d41 !important;"
+    },
+    {
+      "source": "https://www.nanit.com/",
+      "selector": "#shopify-section-template--18529124548747__hero_slider_WhPgHV [data-block-id=\"image_slide_eRHDnD\"] .button--primary:hover",
+      "declarations": "background-color: #060b19 !important;\n          border-color: #060b19 !important;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Nanit Smart Baby Monitor | Tracks Sleep and Breathing",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.nanit.com/",
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.nanit.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.nanit.com/",
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.nanit.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.nanit.com/",
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.nanit.com/",
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.nanit.com/",
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "colors.accent-gold-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.nanit.com/",
+        "https://www.nanit.com/cdn/shop/t/616/assets/theme.css?v=48425390223589700801770899472",
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "colors.border-subtle": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.nanit.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.neutral-gray": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.nanit.com/cdn/shop/t/616/assets/styles-Dyo2QfrN.css?v=154961103750372443381788530892"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.plan-card": {
+      "status": "inferred"
+    }
+  }
+}

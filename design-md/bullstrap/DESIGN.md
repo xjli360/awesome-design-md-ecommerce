@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Bullstrap
-description: A leather goods brand that builds its entire visual identity around the tension between a deep, almost-black ink (#222222) and a single saturated accent — a rich, slightly cooled crimson (#c51c34) that appears on the primary CTA, the add-to-cart button, and the brand's signature logo mark. The site reads as a product-first catalog: generous product imagery on a white canvas (#fafafa) with tight typographic control from Barlow Condensed, a condensed sans-serif that gives headlines a muscular, automotive-grade density at 700 weight. The secondary palette introduces a warm saddle-brown (#b59677) and a deep teal (#108474) that surface in category badges and accent stripes, suggesting a brand that straddles rugged utility and refined craftsmanship. Navigation is minimal — a single sticky bar with dropdown menus, the logo centered, and a search icon that expands into a full-width input on click. Product cards use a soft shadow on hover and a clean 1px hairline (#dedede) border in rest state, with the crimson accent reserved exclusively for the "Add to Cart" button and the price display. The checkout flow, powered by Shopify, inherits the brand's crimson for the primary action but defaults to Shopify's own button styles for secondary actions, creating a slight visual disconnect between the marketing pages and the purchase funnel. The overall feel is one of restrained masculinity — no decorative flourishes, no rounded corners beyond {rounded.sm} on buttons, no gradients — just a sharp, inventory-focused layout that lets the leather textures and product photography do the selling.
+name: "Bullstrap"
+source_url: "https://www.bullstrap.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A leather goods brand that builds its entire visual identity around the tension between a deep, almost-black ink (#222222) and a single saturated accent — a rich, slightly cooled crimson (#c51c34) that appears on the primary CTA, the add-to-cart button, and the brand's signature logo mark. The site reads as a product-first catalog: generous product imagery on a white canvas (#fafafa) with tight typographic control from Barlow Condensed, a condensed sans-serif that gives headlines a muscular, automotive-grade density at 700 weight. The secondary palette introduces a warm saddle-brown (#b59677) and a deep teal (#108474) that surface in category badges and accent stripes, suggesting a brand that straddles rugged utility and refined craftsmanship. Navigation is minimal — a single sticky bar with dropdown menus, the logo centered, and a search icon that expands into a full-width input on click. Product cards use a soft shadow on hover and a clean 1px hairline (#dedede) border in rest state, with the crimson accent reserved exclusively for the "Add to Cart" button and the price display. The checkout flow, powered by Shopify, inherits the brand's crimson for the primary action but defaults to Shopify's own button styles for secondary actions, creating a slight visual disconnect between the marketing pages and the purchase funnel. The overall feel is one of restrained masculinity — no decorative flourishes, no rounded corners beyond {rounded.sm} on buttons, no gradients — just a sharp, inventory-focused layout that lets the leather textures and product photography do the selling.
 
 colors:
   primary: "#c51c34"
@@ -384,6 +388,8 @@ components:
 - Product filters: sidebar → bottom sheet on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for secondary and tertiary buttons could not be reliably extracted from the live site; the above uses a standard darken pattern
 - Error states for form inputs (validation colors, error messages) were not visible in the extracted data

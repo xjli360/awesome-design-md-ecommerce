@@ -1,0 +1,769 @@
+{
+  "source_url": "https://joshsfrogs.com",
+  "final_url": "https://joshsfrogs.com/",
+  "captured_at": "2026-09-29T04:02:16.754755+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://joshsfrogs.com",
+      "final_url": "https://joshsfrogs.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "420c3431ac6d7b9e97da837b7aadc290c505dda1a58ac224c6b7f9fb1ed374bd",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://use.typekit.net/rhg1cvc.css",
+      "final_url": "https://use.typekit.net/rhg1cvc.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "a97b871e7a6da422df38d53d853185991e88a3c23f63f1dd3957190af5b143f1",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css",
+      "final_url": "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "62b6cd0d24cdbb64f01373f281ce6893456748b80d61ca369abe558752adba9b",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 12,
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "#111827": {
+      "count": 9,
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 9,
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "#444444": {
+      "count": 8,
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "#6b7280": {
+      "count": 7,
+      "sources": [
+        "https://joshsfrogs.com/",
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "#7ac144": {
+      "count": 5,
+      "sources": [
+        "https://joshsfrogs.com/",
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "#2563eb": {
+      "count": 4,
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 4,
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "#0066cc": {
+      "count": 4,
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "#000000": {
+      "count": 3,
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "#6cd9f5": {
+      "count": 2,
+      "sources": [
+        "https://joshsfrogs.com/"
+      ]
+    },
+    "#61c2db": {
+      "count": 2,
+      "sources": [
+        "https://joshsfrogs.com/"
+      ]
+    },
+    "#b0e6f5": {
+      "count": 2,
+      "sources": [
+        "https://joshsfrogs.com/"
+      ]
+    },
+    "#9ca3af": {
+      "count": 2,
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "#d1d5db": {
+      "count": 2,
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "#83ed82": {
+      "count": 1,
+      "sources": [
+        "https://joshsfrogs.com/"
+      ]
+    },
+    "#daf788": {
+      "count": 1,
+      "sources": [
+        "https://joshsfrogs.com/"
+      ]
+    },
+    "#e0d487": {
+      "count": 1,
+      "sources": [
+        "https://joshsfrogs.com/"
+      ]
+    },
+    "#f7d188": {
+      "count": 1,
+      "sources": [
+        "https://joshsfrogs.com/"
+      ]
+    },
+    "#f0ad84": {
+      "count": 1,
+      "sources": [
+        "https://joshsfrogs.com/"
+      ]
+    },
+    "#66dceb": {
+      "count": 1,
+      "sources": [
+        "https://joshsfrogs.com/"
+      ]
+    },
+    "#76ecfb": {
+      "count": 1,
+      "sources": [
+        "https://joshsfrogs.com/"
+      ]
+    },
+    "#e288e4": {
+      "count": 1,
+      "sources": [
+        "https://joshsfrogs.com/"
+      ]
+    },
+    "#f298f4": {
+      "count": 1,
+      "sources": [
+        "https://joshsfrogs.com/"
+      ]
+    },
+    "#ff253a": {
+      "count": 1,
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 1,
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "#374151": {
+      "count": 1,
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "#4b5563": {
+      "count": 1,
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "#1f2937": {
+      "count": 1,
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "#1a0dab": {
+      "count": 1,
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "#660099": {
+      "count": 1,
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "#fee2e2": {
+      "count": 1,
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "#fef3c7": {
+      "count": 1,
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "#d1fae5": {
+      "count": 1,
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "#dbeafe": {
+      "count": 1,
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 1,
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+    ],
+    "Apple Color Emoji": [
+      "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+    ],
+    "Arial": [
+      "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+    ],
+    "Bello Script": [
+      "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+    ],
+    "BlinkMacSystemFont": [
+      "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+    ],
+    "Cambria": [
+      "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+    ],
+    "Consolas": [
+      "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+    ],
+    "Courier New": [
+      "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+    ],
+    "Georgia": [
+      "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+    ],
+    "Helvetica": [
+      "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+    ],
+    "Helvetica Neue": [
+      "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+    ],
+    "Liberation Mono": [
+      "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+    ],
+    "Menlo": [
+      "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+    ],
+    "Monaco": [
+      "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+    ],
+    "Noto Color Emoji": [
+      "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+    ],
+    "Noto Sans": [
+      "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+    ],
+    "Roboto": [
+      "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+    ],
+    "SFMono-Regular": [
+      "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+    ],
+    "Segoe UI": [
+      "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+    ],
+    "Segoe UI Emoji": [
+      "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+    ],
+    "Segoe UI Symbol": [
+      "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+    ],
+    "Times": [
+      "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+    ],
+    "Times New Roman": [
+      "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+    ],
+    "monospace": [
+      "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+    ],
+    "niveau-grotesk": [
+      "https://use.typekit.net/rhg1cvc.css",
+      "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+    ],
+    "niveau-grotesk-small-caps": [
+      "https://use.typekit.net/rhg1cvc.css"
+    ],
+    "sans-serif": [
+      "https://use.typekit.net/rhg1cvc.css",
+      "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+    ],
+    "serif": [
+      "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+    ],
+    "system-ui": [
+      "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+    ],
+    "ui-monospace": [
+      "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+    ],
+    "ui-sans-serif": [
+      "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+    ],
+    "ui-serif": [
+      "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://joshsfrogs.com/",
+      "selector": ".link-section[_ngcontent-sc76]   .link-header[_ngcontent-sc76]",
+      "declarations": "font-size:.875rem;font-weight:600;text-transform:uppercase;line-height:1.25rem;letter-spacing:.05em;--tw-text-opacity:1;color:rgba(97,175,70,var(--tw-text-opacity))"
+    },
+    {
+      "source": "https://joshsfrogs.com/",
+      "selector": ".perfect-match-container[_ngcontent-sc103]   .match-header[_ngcontent-sc103]",
+      "declarations": "border-radius:.75rem;--tw-bg-opacity:1;background-color:rgba(251,146,60,var(--tw-bg-opacity));padding:.5rem 1rem;text-align:center"
+    },
+    {
+      "source": "https://joshsfrogs.com/",
+      "selector": ".perfect-match-container[_ngcontent-sc103]   .match-header[_ngcontent-sc103]   p[_ngcontent-sc103]",
+      "declarations": "margin-top:.25rem;font-size:1.25rem;line-height:1.75rem;font-weight:500;text-transform:uppercase;--tw-text-opacity:1;color:rgba(255,255,255,var(--tw-text-opacity))"
+    },
+    {
+      "source": "https://joshsfrogs.com/",
+      "selector": ".perfect-match-container[_ngcontent-sc103]   .match-body[_ngcontent-sc103]   .match[_ngcontent-sc103]:hover",
+      "declarations": "--tw-bg-opacity:1;background-color:rgba(219,234,254,var(--tw-bg-opacity))"
+    },
+    {
+      "source": "https://joshsfrogs.com/",
+      "selector": ".perfect-match-container[_ngcontent-sc103]   .match-body[_ngcontent-sc103]   .match[_ngcontent-sc103]",
+      "declarations": "padding:.5rem;--tw-text-opacity:1;color:rgba(55,65,81,var(--tw-text-opacity))"
+    },
+    {
+      "source": "https://joshsfrogs.com/",
+      "selector": ".perfect-match-container[_ngcontent-sc103]   .match-body[_ngcontent-sc103]   .match[_ngcontent-sc103]:hover",
+      "declarations": "--tw-text-opacity:1;color:rgba(0,0,0,var(--tw-text-opacity))"
+    },
+    {
+      "source": "https://joshsfrogs.com/",
+      "selector": ".about-us-container[_ngcontent-sc103]   a[_ngcontent-sc103]   img[_ngcontent-sc103], .about-us-container[_ngcontent-sc103]   button[_ngcontent-sc103]   img[_ngc",
+      "declarations": "width:100%;border-radius:.75rem;--tw-shadow:0 10px 15px -3px rgba(0,0,0,0.1),0 4px 6px -2px rgba(0,0,0,0.05);box-shadow:var(--tw-ring-offset-shadow,0 0 transparent),var(--tw-ring-shadow,0 0 transparent),var(--tw-shadow);max-width:801px"
+    },
+    {
+      "source": "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css",
+      "selector": "body",
+      "declarations": "margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji"
+    },
+    {
+      "source": "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;line-height:1.15;margin:0"
+    },
+    {
+      "source": "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css",
+      "selector": "button",
+      "declarations": "background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css",
+      "selector": "body",
+      "declarations": "font-family:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "padding:0;line-height:inherit;color:inherit"
+    },
+    {
+      "source": "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css",
+      "selector": ".prose h1",
+      "declarations": "color:#111827;font-weight:800;font-size:2.25em;margin-top:0;margin-bottom:.8888889em;line-height:1.1111111"
+    },
+    {
+      "source": "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css",
+      "selector": ".prose tbody tr",
+      "declarations": "border-bottom-width:1px;border-bottom-color:#e5e7eb"
+    },
+    {
+      "source": "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css",
+      "selector": ".button-jf",
+      "declarations": "border-radius:.375rem;border-width:1px;border-color:transparent;--tw-bg-opacity:1;background-color:rgba(122,193,68,var(--tw-bg-opacity));padding:.5rem 1rem;font-size:1rem;line-height:1.5rem;font-weight:500;--tw-text-opacity:1;color:rgba(255,255,255,var(--tw-text-opacity));transition-property:background-color,border-color,color,fill,stroke,opacity,box-shadow,transform,filter,-webkit-backdrop-filter;transition-property:background-color,border-color,color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter;transition-property:background-color,border-color,color,fill,stroke,opacity,box-shadow,transform,filter,backdrop-filter,-webkit-backdrop-filter;transition-duration:.15s;transition"
+    },
+    {
+      "source": "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css",
+      "selector": ".button-jf.button-blue",
+      "declarations": "--tw-bg-opacity:1;background-color:rgba(37,99,235,var(--tw-bg-opacity))"
+    },
+    {
+      "source": "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css",
+      "selector": ".button-jf.button-blue:hover",
+      "declarations": "--tw-bg-opacity:1;background-color:rgba(30,64,175,var(--tw-bg-opacity))"
+    },
+    {
+      "source": "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css",
+      "selector": ".button-jf.button-blue:focus",
+      "declarations": "--tw-border-opacity:1;border-color:rgba(30,64,175,var(--tw-border-opacity))"
+    },
+    {
+      "source": "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css",
+      "selector": ".button-jf.button-blue:active",
+      "declarations": "--tw-bg-opacity:1;background-color:rgba(37,99,235,var(--tw-bg-opacity))"
+    },
+    {
+      "source": "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css",
+      "selector": ".button-jf.button-gray",
+      "declarations": "--tw-bg-opacity:1;background-color:rgba(75,85,99,var(--tw-bg-opacity))"
+    },
+    {
+      "source": "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css",
+      "selector": ".button-jf.button-gray:hover",
+      "declarations": "--tw-bg-opacity:1;background-color:rgba(31,41,55,var(--tw-bg-opacity))"
+    },
+    {
+      "source": "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css",
+      "selector": ".button-jf.button-gray:focus",
+      "declarations": "--tw-border-opacity:1;border-color:rgba(31,41,55,var(--tw-border-opacity))"
+    },
+    {
+      "source": "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css",
+      "selector": ".button-jf.button-gray:active",
+      "declarations": "--tw-bg-opacity:1;background-color:rgba(75,85,99,var(--tw-bg-opacity))"
+    },
+    {
+      "source": "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css",
+      "selector": ".button-jf.button-red",
+      "declarations": "--tw-bg-opacity:1;background-color:rgba(220,38,38,var(--tw-bg-opacity))"
+    },
+    {
+      "source": "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css",
+      "selector": ".button-jf.button-red:hover",
+      "declarations": "--tw-bg-opacity:1;background-color:rgba(153,27,27,var(--tw-bg-opacity))"
+    },
+    {
+      "source": "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css",
+      "selector": ".button-jf.button-red:focus",
+      "declarations": "--tw-border-opacity:1;border-color:rgba(153,27,27,var(--tw-border-opacity))"
+    },
+    {
+      "source": "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css",
+      "selector": ".button-jf.button-red:active",
+      "declarations": "--tw-bg-opacity:1;background-color:rgba(220,38,38,var(--tw-bg-opacity))"
+    },
+    {
+      "source": "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css",
+      "selector": ".button-jf.button-yellow",
+      "declarations": "--tw-bg-opacity:1;background-color:rgba(245,158,11,var(--tw-bg-opacity))"
+    },
+    {
+      "source": "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css",
+      "selector": ".button-jf.button-yellow:hover",
+      "declarations": "--tw-bg-opacity:1;background-color:rgba(217,119,6,var(--tw-bg-opacity))"
+    },
+    {
+      "source": "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css",
+      "selector": ".button-jf.button-yellow:focus",
+      "declarations": "--tw-border-opacity:1;border-color:rgba(217,119,6,var(--tw-border-opacity))"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Josh's Frogs",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joshsfrogs.com/",
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "colors.secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joshsfrogs.com/",
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "colors.link": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "colors.alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "colors.success-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "colors.warning-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "colors.error-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "colors.info-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joshsfrogs.com/styles.dafd7282c6c2da698deb.css"
+      ]
+    },
+    "colors.category-cyan": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joshsfrogs.com/"
+      ]
+    },
+    "colors.category-lime": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joshsfrogs.com/"
+      ]
+    },
+    "colors.category-amber": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joshsfrogs.com/"
+      ]
+    },
+    "colors.category-coral": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joshsfrogs.com/"
+      ]
+    },
+    "colors.category-pink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://joshsfrogs.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.category-tile": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,30 +1,11 @@
 ---
 version: alpha
-name: Gaomon
-description: >
-  Gaomon pairs a deep drawing-teal (#108474) against a hot-orange (#f97300) — two
-  ink-palette opposites that read as "creative toolkit" before a single product image
-  loads. The combination lands closer to art-supply packaging than consumer electronics,
-  which suits a brand that positions itself as the entry point for aspiring digital
-  illustrators and students worldwide. Surfaces hold light and near-white (#f9fafb,
-  #fafafa, #f4f2e7), letting product photography carry the visual weight while the teal
-  anchors global navigation and the orange fires every primary CTA and promotional badge.
-  Montserrat at moderate weights — 700 for display, 600 for titles, 400 for body — gives
-  a clean, geometric backbone that scales comfortably across both Latin and Japanese
-  character sets, a practical requirement for a brand operating in both global and
-  Japanese markets simultaneously. Cards lift on soft gray planes (#eeeeee, #f4f2e7) with
-  gentle rounding ({rounded.sm} to {rounded.md}), landing between the hard-cornered
-  engineering aesthetic and the full pill-softness of wellness brands. The palette extends
-  into a small range of pastel tints — lavender (#e4d3f1), sky (#a4cff0), warm cream
-  (#fef5d8), spring (#f7f9ea) — which function as product-line category tags rather than
-  structural tones, encoding SKU differentiation within a two-tone brand identity. Star
-  ratings render via the JudgemeStar font, a Shopify review-app convention integrated
-  seamlessly alongside Montserrat body text. Footer and utility zones pull from near-black
-  neutrals (#2c2930, #403d44), grounding the page while leaving the hero and product grid
-  as bright, open drawing surfaces. Error states use a red-coral (#e65960), success
-  indicators use a saturated green (#4d9902), and secondary links pull from a mid-blue
-  (#0070e8) — a compact system-state vocabulary that avoids overloading the primary
-  teal-orange identity.
+name: "Gaomon"
+source_url: "https://www.gaomon.net"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Gaomon pairs a deep drawing-teal (#108474) against a hot-orange (#f97300) — two ink-palette opposites that read as "creative toolkit" before a single product image loads. The combination lands closer to art-supply packaging than consumer electronics, which suits a brand that positions itself as the entry point for aspiring digital illustrators and students worldwide. Surfaces hold light and near-white (#f9fafb, #fafafa, #f4f2e7), letting product photography carry the visual weight while the teal anchors global navigation and the orange fires every primary CTA and promotional badge. Montserrat at moderate weights — 700 for display, 600 for titles, 400 for body — gives a clean, geometric backbone that scales comfortably across both Latin and Japanese character sets, a practical requirement for a brand operating in both global and Japanese markets simultaneously. Cards lift on soft gray planes (#eeeeee, #f4f2e7) with gentle rounding ({rounded.sm} to {rounded.md}), landing between the hard-cornered engineering aesthetic and the full pill-softness of wellness brands. The palette extends into a small range of pastel tints — lavender (#e4d3f1), sky (#a4cff0), warm cream (#fef5d8), spring (#f7f9ea) — which function as product-line category tags rather than structural tones, encoding SKU differentiation within a two-tone brand identity. Star ratings render via the JudgemeStar font, a Shopify review-app convention integrated seamlessly alongside Montserrat body text. Footer and utility zones pull from near-black neutrals (#2c2930, #403d44), grounding the page while leaving the hero and product grid as bright, open drawing surfaces. Error states use a red-coral (#e65960), success indicators use a saturated green (#4d9902), and secondary links pull from a mid-blue (#0070e8) — a compact system-state vocabulary that avoids overloading the primary teal-orange identity.
 
 colors:
   primary: "#108474"
@@ -513,6 +494,8 @@ components:
 - Announcement bar: multi-message carousel on mobile with 4s auto-advance; static centered text on desktop
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No CSS custom properties or design tokens found in extracted source; all type scale values are estimated from Montserrat's standard usage patterns for creative/tech DTC brands
 - Primary vs. accent role ambiguity: both #108474 (teal) and #f97300 (orange) appear prominently — teal is assigned structural/nav and orange is assigned CTA/transaction based on common DTC conventions, but live implementation may weight these differently

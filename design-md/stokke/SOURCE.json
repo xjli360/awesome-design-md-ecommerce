@@ -1,0 +1,806 @@
+{
+  "source_url": "https://stokke.com",
+  "final_url": "https://www.stokke.com/USA/en-us/home",
+  "captured_at": "2026-09-28T09:20:46.216270+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://stokke.com",
+      "final_url": "https://www.stokke.com/USA/en-us/home",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "e2d930d65299e4afec9d5138192085d4988044aa4df232ba226631c0b14db465",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.stokke.com/mobify/proxy/static/on/demandware.static/Sites-USA-Site/-/en-US/css/cms-style.min.css",
+      "final_url": "https://www.stokke.com/mobify/proxy/static/on/demandware.static/Sites-USA-Site/-/en-US/css/cms-style.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "67defbb36e8a3586474cfafc742cf298cd34f6aa1aa021de2e263898c4761526",
+      "snapshot": "stylesheet-1.css"
+    }
+  ],
+  "colors": {
+    "#21ad5e": {
+      "count": 57,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#ffffff": {
+      "count": 53,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home",
+        "https://www.stokke.com/mobify/proxy/static/on/demandware.static/Sites-USA-Site/-/en-US/css/cms-style.min.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 33,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#2a4a16": {
+      "count": 29,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#ececec": {
+      "count": 22,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#311807": {
+      "count": 21,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#218b4d": {
+      "count": 19,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#000000": {
+      "count": 19,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home",
+        "https://www.stokke.com/mobify/proxy/static/on/demandware.static/Sites-USA-Site/-/en-US/css/cms-style.min.css"
+      ]
+    },
+    "#21cb6d": {
+      "count": 12,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#2d2d2d": {
+      "count": 12,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#693310": {
+      "count": 12,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#ee8443": {
+      "count": 10,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#162e52": {
+      "count": 9,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#1353b4": {
+      "count": 8,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#caa178": {
+      "count": 8,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#f0955d": {
+      "count": 8,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 8,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home",
+        "https://www.stokke.com/mobify/proxy/static/on/demandware.static/Sites-USA-Site/-/en-US/css/cms-style.min.css"
+      ]
+    },
+    "#0f0f0f": {
+      "count": 7,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#a15202": {
+      "count": 7,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#a04040": {
+      "count": 7,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#1668e2": {
+      "count": 6,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 6,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#666666": {
+      "count": 6,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home",
+        "https://www.stokke.com/mobify/proxy/static/on/demandware.static/Sites-USA-Site/-/en-US/css/cms-style.min.css"
+      ]
+    },
+    "#af6d4a": {
+      "count": 6,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#7b3c13": {
+      "count": 5,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#ed7703": {
+      "count": 5,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home",
+        "https://www.stokke.com/mobify/proxy/static/on/demandware.static/Sites-USA-Site/-/en-US/css/cms-style.min.css"
+      ]
+    },
+    "#999999": {
+      "count": 4,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#2876e9": {
+      "count": 4,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#878787": {
+      "count": 4,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#d9aa81": {
+      "count": 4,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#c19162": {
+      "count": 4,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#f2a575": {
+      "count": 4,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#00000000": {
+      "count": 4,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#9ca3af": {
+      "count": 4,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#507244": {
+      "count": 4,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 4,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#141414": {
+      "count": 4,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#509359": {
+      "count": 4,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#fb8510": {
+      "count": 4,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#e4c900": {
+      "count": 3,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#806600": {
+      "count": 3,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#fee46e": {
+      "count": 3,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#4286ec": {
+      "count": 3,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#fff5f2": {
+      "count": 3,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home",
+        "https://www.stokke.com/mobify/proxy/static/on/demandware.static/Sites-USA-Site/-/en-US/css/cms-style.min.css"
+      ]
+    },
+    "#c8a382": {
+      "count": 3,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home",
+        "https://www.stokke.com/mobify/proxy/static/on/demandware.static/Sites-USA-Site/-/en-US/css/cms-style.min.css"
+      ]
+    },
+    "#d2d0cd": {
+      "count": 3,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home",
+        "https://www.stokke.com/mobify/proxy/static/on/demandware.static/Sites-USA-Site/-/en-US/css/cms-style.min.css"
+      ]
+    },
+    "#f9f8f5": {
+      "count": 3,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#fee4ca": {
+      "count": 3,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#d36902": {
+      "count": 3,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#737373": {
+      "count": 3,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#38673e": {
+      "count": 3,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#fcfcfc": {
+      "count": 3,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#dc645f": {
+      "count": 3,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#222222": {
+      "count": 3,
+      "sources": [
+        "https://www.stokke.com/mobify/proxy/static/on/demandware.static/Sites-USA-Site/-/en-US/css/cms-style.min.css"
+      ]
+    },
+    "#4d4d4d": {
+      "count": 2,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#51280d": {
+      "count": 2,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#cd0707": {
+      "count": 2,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#f0f0ec": {
+      "count": 2,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#d5d5d0": {
+      "count": 2,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "#fcd1ad": {
+      "count": 2,
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    }
+  },
+  "font_families": {
+    "Consolas": [
+      "https://www.stokke.com/USA/en-us/home"
+    ],
+    "Menlo": [
+      "https://www.stokke.com/USA/en-us/home"
+    ],
+    "Monaco": [
+      "https://www.stokke.com/USA/en-us/home"
+    ],
+    "SFMono-Regular": [
+      "https://www.stokke.com/USA/en-us/home"
+    ],
+    "Sans": [
+      "https://www.stokke.com/USA/en-us/home"
+    ],
+    "Stokke": [
+      "https://www.stokke.com/USA/en-us/home"
+    ],
+    "Stokke-Light": [
+      "https://www.stokke.com/USA/en-us/home"
+    ],
+    "Stokke-Regular": [
+      "https://www.stokke.com/USA/en-us/home"
+    ],
+    "Stokke-SemiBold": [
+      "https://www.stokke.com/USA/en-us/home"
+    ],
+    "circularProBook": [
+      "https://www.stokke.com/USA/en-us/home"
+    ],
+    "monospace": [
+      "https://www.stokke.com/USA/en-us/home"
+    ],
+    "sans-serif": [
+      "https://www.stokke.com/USA/en-us/home"
+    ],
+    "system-ui": [
+      "https://www.stokke.com/USA/en-us/home"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.stokke.com/USA/en-us/home",
+      "selector": "ght] :host:not([data-theme]),[data-theme=light] :root:not([data-theme]),[data-theme=light] [data-theme]:not([data-theme]),:host[data-theme=light],:root[data-the",
+      "declarations": "--chakra-colors-chakra-body-text:var(--chakra-colors-gray-800);--chakra-colors-chakra-body-bg:var(--chakra-colors-white);--chakra-colors-chakra-border-color:var(--chakra-colors-gray-200);--chakra-colors-chakra-inverse-text:var(--chakra-colors-white);--chakra-colors-chakra-subtle-bg:var(--chakra-colors-gray-100);--chakra-colors-chakra-subtle-text:var(--chakra-colors-gray-600);--chakra-colors-chakra-placeholder-color:var(--chakra-colors-gray-500);"
+    },
+    {
+      "source": "https://www.stokke.com/USA/en-us/home",
+      "selector": "eme=dark] :host:not([data-theme]),[data-theme=dark] :root:not([data-theme]),[data-theme=dark] [data-theme]:not([data-theme]),:host[data-theme=dark],:root[data-t",
+      "declarations": "--chakra-colors-chakra-body-text:var(--chakra-colors-whiteAlpha-900);--chakra-colors-chakra-body-bg:var(--chakra-colors-gray-800);--chakra-colors-chakra-border-color:var(--chakra-colors-whiteAlpha-300);--chakra-colors-chakra-inverse-text:var(--chakra-colors-gray-800);--chakra-colors-chakra-subtle-bg:var(--chakra-colors-gray-700);--chakra-colors-chakra-subtle-text:var(--chakra-colors-gray-400);--chakra-colors-chakra-placeholder-color:var(--chakra-colors-whiteAlpha-400);"
+    },
+    {
+      "source": "https://www.stokke.com/USA/en-us/home",
+      "selector": ":where(button, input, optgroup, select, textarea)",
+      "declarations": "font-family:inherit;font-size:100%;line-height:1.15;margin:0;"
+    },
+    {
+      "source": "https://www.stokke.com/USA/en-us/home",
+      "selector": ":where(button, input, optgroup, select, textarea)",
+      "declarations": "padding:0;line-height:inherit;color:inherit;"
+    },
+    {
+      "source": "https://www.stokke.com/USA/en-us/home",
+      "selector": ":root,:host",
+      "declarations": "--chakra-vh:100vh;"
+    },
+    {
+      "source": "https://www.stokke.com/USA/en-us/home",
+      "selector": ":root,:host",
+      "declarations": "--chakra-vh:-webkit-fill-available;"
+    },
+    {
+      "source": "https://www.stokke.com/USA/en-us/home",
+      "selector": ":root,:host",
+      "declarations": "--chakra-vh:-moz-fill-available;"
+    },
+    {
+      "source": "https://www.stokke.com/USA/en-us/home",
+      "selector": ":root,:host",
+      "declarations": "--chakra-vh:100dvh;"
+    },
+    {
+      "source": "https://www.stokke.com/USA/en-us/home",
+      "selector": "body",
+      "declarations": "font-family:var(--chakra-fonts-body);color:var(--chakra-colors-stokkeCore-black);background:var(--chakra-colors-chakra-body-bg);transition-property:background-color;transition-duration:var(--chakra-transition-duration-normal);line-height:var(--chakra-lineHeights-base);background-color:var(--chakra-colors-stokkeCore-white);min-height:100vh;"
+    },
+    {
+      "source": "https://www.stokke.com/USA/en-us/home",
+      "selector": ":root",
+      "declarations": "--max-viewport-width-offset:max(0px, calc((100vw - var(--max-viewport-width)) / 2));scroll-behavior:smooth;scroll-padding-top:calc(var(--header-clearance-block-size) + var(--subnavigation-height, 0px) + var(--dynamic-subnavigation-height, 0px));padding-top:var(--subnavigation-height, 0px);"
+    },
+    {
+      "source": "https://www.stokke.com/USA/en-us/home",
+      "selector": "\"Accept\"]:hover,#CybotCookiebotDialogFooter button[id*=\"AllowAll\"]:hover,#CybotCookiebotDialogFooter button[id*=\"Accept\"]:focus-visible,#CybotCookiebotDialogFoo",
+      "declarations": "background-color:var(--chakra-colors-stokkeCore-white)!important;color:var(--chakra-colors-stokkeFunctional-alertGreen)!important;border:1px solid stokkeFunctional.alertGreen!important;opacity:1!important;"
+    },
+    {
+      "source": "https://www.stokke.com/USA/en-us/home",
+      "selector": "button,[type='button'],[type='reset'],[type='submit']",
+      "declarations": "-webkit-appearance:button;background-color:transparent;background-image:none;"
+    },
+    {
+      "source": "https://www.stokke.com/USA/en-us/home",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;"
+    },
+    {
+      "source": "https://www.stokke.com/USA/en-us/home",
+      "selector": "html body",
+      "declarations": "background-color:inherit;--bg-currentcolor:inherit;"
+    },
+    {
+      "source": "https://www.stokke.com/USA/en-us/home",
+      "selector": ":root",
+      "declarations": "--header-bar-content-block-size:4rem;--header-card-border-width:0px;--header-card-offset-block:0px;--header-card-chrome-block-size:calc(2 * var(--header-card-border-width) + 2 * var(--header-card-offset-block));--xleap-header-bar-block-size:calc(var(--header-bar-content-block-size) + var(--header-card-chrome-block-size));--checkout-header-bar-block-size:6.875rem;--cms-message-bar-block-size:64px;--header-floating-active:0;--header-clearance-block-size:calc(var(--header-message-bar-block-size) + var(--header-bar-block-size) * (1 - var(--header-floating-active)));--header-hide-threshold:max(8px, var(--header-clearance-block-size));"
+    },
+    {
+      "source": "https://www.stokke.com/USA/en-us/home",
+      "selector": ":root",
+      "declarations": "--header-card-border-width:1px;--header-card-offset-block:1.25rem;--cms-message-bar-block-size:44px;--header-floating-active:var(--header-floating);"
+    },
+    {
+      "source": "https://www.stokke.com/USA/en-us/home",
+      "selector": ":root",
+      "declarations": "--header-message-bar-block-size:var(--cms-message-bar-block-size);"
+    },
+    {
+      "source": "https://www.stokke.com/USA/en-us/home",
+      "selector": ".sk-messagebar__slider-nav-prev-button, .sk-messagebar__slider-nav-next-button",
+      "declarations": "cursor: pointer;\nmargin: auto;\nz-index: 100;\ncolor: white;\nbackground-color: #000000;\npadding: 0 9px;\nline-height: 40px;"
+    },
+    {
+      "source": "https://www.stokke.com/USA/en-us/home",
+      "selector": ":root",
+      "declarations": "--header-bar-block-size:var(--xleap-header-bar-block-size);"
+    },
+    {
+      "source": "https://www.stokke.com/USA/en-us/home",
+      "selector": "width:1px;height:0px;padding:0;overflow:hidden;position:fixed;top:1px;left:1px\ndisplay:flex;flex-direction:column;flex:1;outline:0\n:root",
+      "declarations": "--header-floating:1;--page-bg:var(--leap-colors-background-section-subtle);"
+    },
+    {
+      "source": "https://www.stokke.com/mobify/proxy/static/on/demandware.static/Sites-USA-Site/-/en-US/css/cms-style.min.css",
+      "selector": ":root",
+      "declarations": "--orange:#ED7703;--white-color:#fff;--black-color:#000;--accessible-dark-beige:#6B5642;--accessible-dark-grey:#6F6F6F;--dark-orange:#7E3420;--dark-beige:#C8A382;--dark-blue:#26445A;--dark-green:#485B41;--dark-grey:#8F8982;--dark-brown:#C8A382;--mid-pink:#FFE0D7;--mid-beige:#F4E9D9;--mid-blue:#C9E8F2;--mid-green:#CADFC5;--mid-grey:#D2D0CD;--bright-pink:#FFF5F2;--bright-beige:#FFFAF4;--bright-blue:#F1FCFF;--bright-green:#F5FFF4;--bright-grey:#F4F3F3;--alert-green:#138B5B;--alert-red:#B53B3B"
+    },
+    {
+      "source": "https://www.stokke.com/mobify/proxy/static/on/demandware.static/Sites-USA-Site/-/en-US/css/cms-style.min.css",
+      "selector": ".sk-colorworld--pink,.sk-colorworld--pink h1,.sk-colorworld--pink h2,.sk-colorworld--pink h3,.sk-colorworld--pink h4,.sk-colorworld--pink h5,.sk-colorworld--pin",
+      "declarations": "background-color:var(--bright-pink);color:var(--dark-orange)"
+    },
+    {
+      "source": "https://www.stokke.com/mobify/proxy/static/on/demandware.static/Sites-USA-Site/-/en-US/css/cms-style.min.css",
+      "selector": ".sk-colorworld--beige,.sk-colorworld--beige h1,.sk-colorworld--beige h2,.sk-colorworld--beige h3,.sk-colorworld--beige h4,.sk-colorworld--beige h5,.sk-colorworl",
+      "declarations": "background-color:var(--bright-beige);color:var(--accessible-dark-beige)"
+    },
+    {
+      "source": "https://www.stokke.com/mobify/proxy/static/on/demandware.static/Sites-USA-Site/-/en-US/css/cms-style.min.css",
+      "selector": ".sk-colorworld--blue,.sk-colorworld--blue h1,.sk-colorworld--blue h2,.sk-colorworld--blue h3,.sk-colorworld--blue h4,.sk-colorworld--blue h5,.sk-colorworld--blu",
+      "declarations": "background-color:var(--bright-blue);color:var(--dark-blue)"
+    },
+    {
+      "source": "https://www.stokke.com/mobify/proxy/static/on/demandware.static/Sites-USA-Site/-/en-US/css/cms-style.min.css",
+      "selector": ".sk-colorworld--green,.sk-colorworld--green h1,.sk-colorworld--green h2,.sk-colorworld--green h3,.sk-colorworld--green h4,.sk-colorworld--green h5,.sk-colorworl",
+      "declarations": "background-color:var(--bright-green);color:var(--dark-green)"
+    },
+    {
+      "source": "https://www.stokke.com/mobify/proxy/static/on/demandware.static/Sites-USA-Site/-/en-US/css/cms-style.min.css",
+      "selector": ".sk-colorworld--grey,.sk-colorworld--grey h1,.sk-colorworld--grey h2,.sk-colorworld--grey h3,.sk-colorworld--grey h4,.sk-colorworld--grey h5,.sk-colorworld--gre",
+      "declarations": "background-color:var(--bright-grey);color:var(--black-color)"
+    },
+    {
+      "source": "https://www.stokke.com/mobify/proxy/static/on/demandware.static/Sites-USA-Site/-/en-US/css/cms-style.min.css",
+      "selector": ".sk-colorworld--white,.sk-colorworld--white h1,.sk-colorworld--white h2,.sk-colorworld--white h3,.sk-colorworld--white h4,.sk-colorworld--white h5,.sk-colorworl",
+      "declarations": "background-color:var(--white-color);color:var(--black-color)"
+    },
+    {
+      "source": "https://www.stokke.com/mobify/proxy/static/on/demandware.static/Sites-USA-Site/-/en-US/css/cms-style.min.css",
+      "selector": ".sk-colorworld--black,.sk-colorworld--black h1,.sk-colorworld--black h2,.sk-colorworld--black h3,.sk-colorworld--black h4,.sk-colorworld--black h5,.sk-colorworl",
+      "declarations": "background-color:var(--black-color);color:var(--white-color)"
+    },
+    {
+      "source": "https://www.stokke.com/mobify/proxy/static/on/demandware.static/Sites-USA-Site/-/en-US/css/cms-style.min.css",
+      "selector": ".pt_product-details .sk-image-gallery--more-colours",
+      "declarations": "transition:width 1s;display:flex;align-items:center;justify-content:space-between;z-index:2;position:absolute;right:15px;top:12px;height:26px;padding:5px 15px 5px 10px;background:#fff;border-radius:13px;font-size:12px;line-height:16px;color:#666"
+    },
+    {
+      "source": "https://www.stokke.com/mobify/proxy/static/on/demandware.static/Sites-USA-Site/-/en-US/css/cms-style.min.css",
+      "selector": ".pt_product-details .sk-image-gallery--more-colours .show-all-colors-icon div",
+      "declarations": "width:16px;height:16px;border:1px solid #fff;background-color:#004160;display:inline-block;border-radius:50%;margin-left:-9px"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Your Destination for Premium Baby Gear | Stokke® Online Shop",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home",
+        "https://www.stokke.com/mobify/proxy/static/on/demandware.static/Sites-USA-Site/-/en-US/css/cms-style.min.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home",
+        "https://www.stokke.com/mobify/proxy/static/on/demandware.static/Sites-USA-Site/-/en-US/css/cms-style.min.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home",
+        "https://www.stokke.com/mobify/proxy/static/on/demandware.static/Sites-USA-Site/-/en-US/css/cms-style.min.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home",
+        "https://www.stokke.com/mobify/proxy/static/on/demandware.static/Sites-USA-Site/-/en-US/css/cms-style.min.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home",
+        "https://www.stokke.com/mobify/proxy/static/on/demandware.static/Sites-USA-Site/-/en-US/css/cms-style.min.css"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "colors.accent-orange": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stokke.com/USA/en-us/home"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.stage-filter-chip": {
+      "status": "inferred"
+    }
+  }
+}

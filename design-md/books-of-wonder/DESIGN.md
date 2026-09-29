@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Books of Wonder
-description: A sky-blue #00aeef header bar, the color of a clear New York morning, anchors a children's bookstore that has been a Chelsea landmark since 1988. The brand's visual system is a cheerful, high-contrast playground where a warm red #d44047 and a bright orange #f07c29 act as secondary voltage for sale badges and category markers, while a soft yellow #fec94a appears sparingly as a highlight accent. The canvas is a clean white #ffffff with a subtle gray #f6f6f6 for soft surfaces, and the body text runs in Lato at a comfortable 16px on a #3a3a3a ink. Product cards use a gentle {rounded.sm} corner, while the primary CTA button — a solid #00aeef pill with white text — uses a {rounded.full} shape that feels approachable and friendly, like a librarian's smile. The top navigation is a simple, horizontal strip with category links in Montserrat, and the search bar is a rounded rectangle with a #e5e5e5 border. The overall mood is one of warm, unpretentious invitation: the colors are saturated but not aggressive, the typography is clean and readable, and the layout prioritizes book covers and author names over dense text blocks. The brand's signature move is the use of #00aeef as a unifying element — it appears in the header, primary buttons, and link underlines, creating a consistent visual thread that says "you're in the right place."
+name: "Books of Wonder"
+source_url: "https://booksofwonder.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A sky-blue #00aeef header bar, the color of a clear New York morning, anchors a children's bookstore that has been a Chelsea landmark since 1988. The brand's visual system is a cheerful, high-contrast playground where a warm red #d44047 and a bright orange #f07c29 act as secondary voltage for sale badges and category markers, while a soft yellow #fec94a appears sparingly as a highlight accent. The canvas is a clean white #ffffff with a subtle gray #f6f6f6 for soft surfaces, and the body text runs in Lato at a comfortable 16px on a #3a3a3a ink. Product cards use a gentle {rounded.sm} corner, while the primary CTA button — a solid #00aeef pill with white text — uses a {rounded.full} shape that feels approachable and friendly, like a librarian's smile. The top navigation is a simple, horizontal strip with category links in Montserrat, and the search bar is a rounded rectangle with a #e5e5e5 border. The overall mood is one of warm, unpretentious invitation: the colors are saturated but not aggressive, the typography is clean and readable, and the layout prioritizes book covers and author names over dense text blocks. The brand's signature move is the use of #00aeef as a unifying element — it appears in the header, primary buttons, and link underlines, creating a consistent visual thread that says "you're in the right place."
 
 colors:
   primary: "#00aeef"
@@ -357,6 +361,8 @@ components:
 - Product grid reduces from 4 columns to 2 columns on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components could not be fully extracted; only primary and secondary buttons have confirmed hover colors.
 - Error states for text inputs (beyond border color) and form validation messages are not documented.

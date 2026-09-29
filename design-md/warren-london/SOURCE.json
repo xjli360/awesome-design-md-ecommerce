@@ -1,0 +1,632 @@
+{
+  "source_url": "https://warrenlondon.com",
+  "final_url": "https://www.warrenlondon.com/",
+  "captured_at": "2026-09-29T04:01:58.917671+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://warrenlondon.com",
+      "final_url": "https://www.warrenlondon.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "d3894f2069b5f06dc055a2bbed6bfd97c7ae34f8a12f2b0ff1eb5fec7b729d70",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.warrenlondon.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.warrenlondon.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.warrenlondon.com/cdn/shop/t/42/assets/base.css?v=40297908360255449621778518822",
+      "final_url": "https://www.warrenlondon.com/cdn/shop/t/42/assets/base.css?v=40297908360255449621778518822",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "8e095022acf710faac8bfdb8fae1508bb83aa7fef4c5cd992d851df1942b2d39",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.warrenlondon.com/cdn/shop/t/42/assets/component-cart-items.css?v=13033300910818915211767880091",
+      "final_url": "https://www.warrenlondon.com/cdn/shop/t/42/assets/component-cart-items.css?v=13033300910818915211767880091",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "579c931dc39acef6f5af3a7d0d18fa6f3119b3ec0278fd09a2a62434f6d00d12",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.warrenlondon.com/cdn/shop/t/42/assets/component-cart-drawer.css?v=39223250576183958541767880091",
+      "final_url": "https://www.warrenlondon.com/cdn/shop/t/42/assets/component-cart-drawer.css?v=39223250576183958541767880091",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0b25b44a578450a1dedfb7eb33d28505ab1c165a7eb1febbcd2e71beddeabb0b",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.warrenlondon.com/cdn/shop/t/42/assets/component-cart.css?v=164708765130180853531767880092",
+      "final_url": "https://www.warrenlondon.com/cdn/shop/t/42/assets/component-cart.css?v=164708765130180853531767880092",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d6d9d32b15c5f792735557aa1c9a23b39f8be1fe99d24d93fda48e2077edff8f",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 58,
+      "sources": [
+        "https://www.warrenlondon.com/",
+        "https://www.warrenlondon.com/cdn/shop/t/42/assets/base.css?v=40297908360255449621778518822"
+      ]
+    },
+    "#ffffff": {
+      "count": 47,
+      "sources": [
+        "https://www.warrenlondon.com/",
+        "https://www.warrenlondon.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.warrenlondon.com/cdn/shop/t/42/assets/base.css?v=40297908360255449621778518822"
+      ]
+    },
+    "#eed9b9": {
+      "count": 13,
+      "sources": [
+        "https://www.warrenlondon.com/",
+        "https://www.warrenlondon.com/cdn/shop/t/42/assets/base.css?v=40297908360255449621778518822"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 12,
+      "sources": [
+        "https://www.warrenlondon.com/"
+      ]
+    },
+    "#f6eee3": {
+      "count": 5,
+      "sources": [
+        "https://www.warrenlondon.com/",
+        "https://www.warrenlondon.com/cdn/shop/t/42/assets/base.css?v=40297908360255449621778518822"
+      ]
+    },
+    "#32325d40": {
+      "count": 5,
+      "sources": [
+        "https://www.warrenlondon.com/",
+        "https://www.warrenlondon.com/cdn/shop/t/42/assets/base.css?v=40297908360255449621778518822"
+      ]
+    },
+    "#0000004d": {
+      "count": 5,
+      "sources": [
+        "https://www.warrenlondon.com/",
+        "https://www.warrenlondon.com/cdn/shop/t/42/assets/base.css?v=40297908360255449621778518822"
+      ]
+    },
+    "#ffffff00": {
+      "count": 3,
+      "sources": [
+        "https://www.warrenlondon.com/cdn/shop/t/42/assets/base.css?v=40297908360255449621778518822"
+      ]
+    },
+    "#242833": {
+      "count": 2,
+      "sources": [
+        "https://www.warrenlondon.com/"
+      ]
+    },
+    "#222831": {
+      "count": 2,
+      "sources": [
+        "https://www.warrenlondon.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.warrenlondon.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.warrenlondon.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://www.warrenlondon.com/cdn/shop/t/42/assets/base.css?v=40297908360255449621778518822"
+      ]
+    },
+    "#00000033": {
+      "count": 2,
+      "sources": [
+        "https://www.warrenlondon.com/cdn/shop/t/42/assets/base.css?v=40297908360255449621778518822"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://www.warrenlondon.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://www.warrenlondon.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://www.warrenlondon.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://www.warrenlondon.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://www.warrenlondon.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://www.warrenlondon.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://www.warrenlondon.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://www.warrenlondon.com/"
+      ]
+    },
+    "#ffeb3b": {
+      "count": 1,
+      "sources": [
+        "https://www.warrenlondon.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.warrenlondon.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.warrenlondon.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.warrenlondon.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000080": {
+      "count": 1,
+      "sources": [
+        "https://www.warrenlondon.com/cdn/shop/t/42/assets/base.css?v=40297908360255449621778518822"
+      ]
+    },
+    "#e6c27a": {
+      "count": 1,
+      "sources": [
+        "https://www.warrenlondon.com/cdn/shop/t/42/assets/base.css?v=40297908360255449621778518822"
+      ]
+    },
+    "#cfa354": {
+      "count": 1,
+      "sources": [
+        "https://www.warrenlondon.com/cdn/shop/t/42/assets/base.css?v=40297908360255449621778518822"
+      ]
+    },
+    "#b8914f": {
+      "count": 1,
+      "sources": [
+        "https://www.warrenlondon.com/cdn/shop/t/42/assets/base.css?v=40297908360255449621778518822"
+      ]
+    },
+    "#f0d28c": {
+      "count": 1,
+      "sources": [
+        "https://www.warrenlondon.com/cdn/shop/t/42/assets/base.css?v=40297908360255449621778518822"
+      ]
+    },
+    "#d4a95c": {
+      "count": 1,
+      "sources": [
+        "https://www.warrenlondon.com/cdn/shop/t/42/assets/base.css?v=40297908360255449621778518822"
+      ]
+    },
+    "#ffffff80": {
+      "count": 1,
+      "sources": [
+        "https://www.warrenlondon.com/cdn/shop/t/42/assets/base.css?v=40297908360255449621778518822"
+      ]
+    }
+  },
+  "font_families": {
+    "Instrument Sans": [
+      "https://www.warrenlondon.com/"
+    ],
+    "system-ui": [
+      "https://www.warrenlondon.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.warrenlondon.com/",
+      "selector": ":root,\n        .color-scheme-1",
+      "declarations": "--color-background: 246,238,227;\n        \n          --gradient-background: #f6eee3;\n        \n\n        \n\n        --color-foreground: 0,0,0;\n        --color-background-contrast: 215,179,131;\n        --color-shadow: 0,0,0;\n        --color-button: 0,0,0;\n        --color-button-text: 255,255,255;\n        --color-secondary-button: 246,238,227;\n        --color-secondary-button-text: 0,0,0;\n        --color-link: 0,0,0;\n        --color-badge-foreground: 0,0,0;\n        --color-badge-background: 246,238,227;\n        --color-badge-border: 0,0,0;\n        --payment-terms-background-color: rgb(246 238 227);"
+    },
+    {
+      "source": "https://www.warrenlondon.com/",
+      "selector": "body, .color-scheme-1, .color-scheme-2, .color-scheme-3, .color-scheme-4, .color-scheme-5",
+      "declarations": "color: rgba(var(--color-foreground), 0.75);\n        background-color: rgb(var(--color-background));"
+    },
+    {
+      "source": "https://www.warrenlondon.com/",
+      "selector": "body",
+      "declarations": "display: grid;\n        grid-template-rows: auto auto 1fr auto;\n        grid-template-columns: 100%;\n        min-height: 100%;\n        margin: 0;\n        font-size: 1.5rem;\n        letter-spacing: 0.06rem;\n        line-height: calc(1 + 0.8 / var(--font-body-scale));\n        font-family: var(--font-body-family);\n        font-style: var(--font-body-style);\n        font-weight: var(--font-body-weight);"
+    },
+    {
+      "source": "https://www.warrenlondon.com/",
+      "selector": ".flickity-prev-next-button svg",
+      "declarations": "color:#000000;"
+    },
+    {
+      "source": "https://www.warrenlondon.com/",
+      "selector": ".flickity-prev-next-button:hover svg",
+      "declarations": "color:#000000;"
+    },
+    {
+      "source": "https://www.warrenlondon.com/",
+      "selector": ".color-slider-1 h1",
+      "declarations": "color:#f3f3f3;"
+    },
+    {
+      "source": "https://www.warrenlondon.com/",
+      "selector": ".btn_first_1",
+      "declarations": "background:#ffffff;\n              color: #000000;"
+    },
+    {
+      "source": "https://www.warrenlondon.com/",
+      "selector": ".btn_first_1:hover",
+      "declarations": "background:#000000 ;\n              color:  #ffffff ;"
+    },
+    {
+      "source": "https://www.warrenlondon.com/",
+      "selector": ".btn_sec_1",
+      "declarations": "background:#000000;\n              color: #ffffff;"
+    },
+    {
+      "source": "https://www.warrenlondon.com/",
+      "selector": ".btn_sec_1:hover",
+      "declarations": "background:#ffffff ;\n              color:  #000000 ;"
+    },
+    {
+      "source": "https://www.warrenlondon.com/",
+      "selector": ".color-slider-2 h1",
+      "declarations": "color:#f3f3f3;"
+    },
+    {
+      "source": "https://www.warrenlondon.com/",
+      "selector": ".btn_first_2",
+      "declarations": "background:#ffffff;\n              color: #000000;"
+    },
+    {
+      "source": "https://www.warrenlondon.com/",
+      "selector": ".btn_first_2:hover",
+      "declarations": "background:#000000 ;\n              color:  #ffffff ;"
+    },
+    {
+      "source": "https://www.warrenlondon.com/",
+      "selector": ".btn_sec_2",
+      "declarations": "background:#000000;\n              color: #ffffff;"
+    },
+    {
+      "source": "https://www.warrenlondon.com/",
+      "selector": ".btn_sec_2:hover",
+      "declarations": "background:#ffffff ;\n              color:  #000000 ;"
+    },
+    {
+      "source": "https://www.warrenlondon.com/",
+      "selector": ".color-slider-3 h1",
+      "declarations": "color:#f3f3f3;"
+    },
+    {
+      "source": "https://www.warrenlondon.com/",
+      "selector": ".btn_first_3",
+      "declarations": "background:#ffffff;\n              color: #000000;"
+    },
+    {
+      "source": "https://www.warrenlondon.com/",
+      "selector": ".btn_first_3:hover",
+      "declarations": "background:#000000 ;\n              color:  #ffffff ;"
+    },
+    {
+      "source": "https://www.warrenlondon.com/",
+      "selector": ".btn_sec_3",
+      "declarations": "background:#000000;\n              color: #ffffff;"
+    },
+    {
+      "source": "https://www.warrenlondon.com/",
+      "selector": ".btn_sec_3:hover",
+      "declarations": "background:#ffffff ;\n              color:  #000000 ;"
+    },
+    {
+      "source": "https://www.warrenlondon.com/",
+      "selector": ".color-slider-4 h1",
+      "declarations": "color:#f3f3f3;"
+    },
+    {
+      "source": "https://www.warrenlondon.com/",
+      "selector": ".btn_first_4",
+      "declarations": "background:#ffffff;\n              color: #000000;"
+    },
+    {
+      "source": "https://www.warrenlondon.com/",
+      "selector": ".btn_first_4:hover",
+      "declarations": "background:#000000 ;\n              color:  #ffffff ;"
+    },
+    {
+      "source": "https://www.warrenlondon.com/",
+      "selector": ".btn_sec_4",
+      "declarations": "background:#000000;\n              color: #ffffff;"
+    },
+    {
+      "source": "https://www.warrenlondon.com/",
+      "selector": ".btn_sec_4:hover",
+      "declarations": "background:#ffffff ;\n              color:  #000000 ;"
+    },
+    {
+      "source": "https://www.warrenlondon.com/",
+      "selector": ".color-slider-5 h1",
+      "declarations": "color:#f3f3f3;"
+    },
+    {
+      "source": "https://www.warrenlondon.com/",
+      "selector": ".btn_first_5",
+      "declarations": "background:#ffffff;\n              color: #000000;"
+    },
+    {
+      "source": "https://www.warrenlondon.com/",
+      "selector": ".btn_first_5:hover",
+      "declarations": "background:#000000 ;\n              color:  #ffffff ;"
+    },
+    {
+      "source": "https://www.warrenlondon.com/",
+      "selector": ".btn_sec_5",
+      "declarations": "background:#000000;\n              color: #ffffff;"
+    },
+    {
+      "source": "https://www.warrenlondon.com/",
+      "selector": ".btn_sec_5:hover",
+      "declarations": "background:#ffffff ;\n              color:  #000000 ;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Warren London - Premium Dog Spa and Grooming Products",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warrenlondon.com/",
+        "https://www.warrenlondon.com/cdn/shop/t/42/assets/base.css?v=40297908360255449621778518822"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warrenlondon.com/",
+        "https://www.warrenlondon.com/cdn/shop/t/42/assets/base.css?v=40297908360255449621778518822"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warrenlondon.com/",
+        "https://www.warrenlondon.com/cdn/shop/t/42/assets/base.css?v=40297908360255449621778518822"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warrenlondon.com/",
+        "https://www.warrenlondon.com/cdn/shop/t/42/assets/base.css?v=40297908360255449621778518822"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warrenlondon.com/cdn/shop/t/42/assets/base.css?v=40297908360255449621778518822"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warrenlondon.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warrenlondon.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warrenlondon.com/",
+        "https://www.warrenlondon.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.warrenlondon.com/cdn/shop/t/42/assets/base.css?v=40297908360255449621778518822"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warrenlondon.com/",
+        "https://www.warrenlondon.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.warrenlondon.com/cdn/shop/t/42/assets/base.css?v=40297908360255449621778518822"
+      ]
+    },
+    "colors.accent-warm": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warrenlondon.com/",
+        "https://www.warrenlondon.com/cdn/shop/t/42/assets/base.css?v=40297908360255449621778518822"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warrenlondon.com/cdn/shop/t/42/assets/base.css?v=40297908360255449621778518822"
+      ]
+    },
+    "colors.surface-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.warrenlondon.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.solution-tile": {
+      "status": "inferred"
+    }
+  }
+}

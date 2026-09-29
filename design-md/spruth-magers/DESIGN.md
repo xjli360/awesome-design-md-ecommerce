@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Sprüth Magers
-description: |
+name: "Sprüth Magers"
+source_url: "https://spruethmagers.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   #ff1900 — a red so saturated it tips from gallery signage into emergency transmission — is the single chromatic decision Sprüth Magers makes with conviction; everything else concedes to a white ground and NeueHaasGroteskText Pro rendered at a restraint that most digital interfaces would misread as underdesign. The typeface choice is the tell: not a custom logotype face, not a geometric display sans, but Linotype's systematic revival of the Haas Grotesk drawings that preceded Helvetica — Swiss-institutional correctness that places the gallery in the lineage of Basel and Zurich design offices rather than art-fair booth graphics. Navigation accumulates artist names in tight roman at 12–13px; the sheer volume of names is the flex, not the type scale. Headings rarely exceed 20px. Hierarchy operates through weight differential and column positioning rather than size jumps — a modernist confidence that the roster (Barbara Kruger, Rosemarie Trockel, Andreas Gursky, Ed Ruscha) requires no amplification.
 
   The color logic is nearly binary: #ff1900 against #ffffff, with #003388 appearing as a structural secondary for links and interactive states. The neutral scaffolding — #4f5b5f for body copy, #707070 for metadata, #bdc3c7 for hairlines — keeps infrastructure invisible against gallery-scale photography. The {rounded.none} discipline is total: no border-radius anywhere. Every container, every button, every image frame is a hard rectangle, aligning the digital surface with the flat, gridded architecture of the gallery's printed materials and institutional announcements.
@@ -308,6 +311,8 @@ components:
 - Footer columns (Berlin / London / Los Angeles) stack to one-per-row on mobile; address text truncates to city and country line only
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Many extracted hex values (#428bca, #5bc0de, #5cb85c, #f0ad4e, #d9534f, #7dd667, #2980b9, #357935, etc.) match Bootstrap 3 and WordPress Gutenberg editor palette defaults exactly — these are almost certainly CMS framework artifacts, not brand tokens; the meaningful palette is likely just #ff1900, #003388, near-black, and neutral greys
 - Whether #003388 is a deliberate brand secondary or a CMS default link color is ambiguous from extraction alone

@@ -1,0 +1,703 @@
+{
+  "source_url": "https://onyxcoffeelab.com",
+  "final_url": "https://onyxcoffeelab.com/",
+  "captured_at": "2026-09-28T10:04:05.062175+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://onyxcoffeelab.com",
+      "final_url": "https://onyxcoffeelab.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "b815ba0349f8a1d312d381b5df452a2cd83a9f883164171a063411d392209813",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/swiper-bundle-min11.css?v=127803016596819466191759174635",
+      "final_url": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/swiper-bundle-min11.css?v=127803016596819466191759174635",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4c9281a072a89dff6d9702cf97896d8b59246a9b937a04ec5dcc2e8d015bc31d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/reset.css?v=98463400565700950731705351136",
+      "final_url": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/reset.css?v=98463400565700950731705351136",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0bb1e6078fafdc0a98165aed91adbf7d021165d4cf8907f1174027ffe35f4f63",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410",
+      "final_url": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "43cb06b20f046613a8828d3b678ce5f6608f3a8c4dd9530c678ea13116ce0db9",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/theme.css?v=50764111222922240811774040876",
+      "final_url": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/theme.css?v=50764111222922240811774040876",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f4e3ff4d5511241b8f7daeff930ea3a90bb37d530fb7fbb29bbb57ca821cf4c4",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://onyxcoffeelab.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://onyxcoffeelab.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 39,
+      "sources": [
+        "https://onyxcoffeelab.com/",
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/swiper-bundle-min11.css?v=127803016596819466191759174635",
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410",
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/theme.css?v=50764111222922240811774040876"
+      ]
+    },
+    "#ffffff": {
+      "count": 18,
+      "sources": [
+        "https://onyxcoffeelab.com/",
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/swiper-bundle-min11.css?v=127803016596819466191759174635",
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410",
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/theme.css?v=50764111222922240811774040876",
+        "https://onyxcoffeelab.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000000": {
+      "count": 8,
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/swiper-bundle-min11.css?v=127803016596819466191759174635",
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410",
+        "https://onyxcoffeelab.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#fcfaf2": {
+      "count": 5,
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410"
+      ]
+    },
+    "#eae8df": {
+      "count": 5,
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/theme.css?v=50764111222922240811774040876"
+      ]
+    },
+    "#eee9df": {
+      "count": 4,
+      "sources": [
+        "https://onyxcoffeelab.com/"
+      ]
+    },
+    "#00000080": {
+      "count": 4,
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/swiper-bundle-min11.css?v=127803016596819466191759174635"
+      ]
+    },
+    "#af8e38": {
+      "count": 2,
+      "sources": [
+        "https://onyxcoffeelab.com/"
+      ]
+    },
+    "#fbfaf3": {
+      "count": 2,
+      "sources": [
+        "https://onyxcoffeelab.com/",
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/theme.css?v=50764111222922240811774040876"
+      ]
+    },
+    "#00000033": {
+      "count": 2,
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410"
+      ]
+    },
+    "#cbcbc8": {
+      "count": 2,
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#191919": {
+      "count": 1,
+      "sources": [
+        "https://onyxcoffeelab.com/"
+      ]
+    },
+    "#007aff": {
+      "count": 1,
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/swiper-bundle-min11.css?v=127803016596819466191759174635"
+      ]
+    },
+    "#00000026": {
+      "count": 1,
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/swiper-bundle-min11.css?v=127803016596819466191759174635"
+      ]
+    },
+    "#dadada": {
+      "count": 1,
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/reset.css?v=98463400565700950731705351136"
+      ]
+    },
+    "#b00923": {
+      "count": 1,
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410"
+      ]
+    },
+    "#d28467": {
+      "count": 1,
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410"
+      ]
+    },
+    "#ae841f": {
+      "count": 1,
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410"
+      ]
+    },
+    "#f4d8c1": {
+      "count": 1,
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410"
+      ]
+    },
+    "#7d7d7a": {
+      "count": 1,
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410"
+      ]
+    },
+    "#ccccc9": {
+      "count": 1,
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410"
+      ]
+    },
+    "#0000004d": {
+      "count": 1,
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410"
+      ]
+    },
+    "#252525": {
+      "count": 1,
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410"
+      ]
+    },
+    "#00000099": {
+      "count": 1,
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410"
+      ]
+    },
+    "#fbfaf3f0": {
+      "count": 1,
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410"
+      ]
+    },
+    "#f0efe5": {
+      "count": 1,
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/theme.css?v=50764111222922240811774040876"
+      ]
+    },
+    "#eae4d5": {
+      "count": 1,
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/theme.css?v=50764111222922240811774040876"
+      ]
+    },
+    "#f5d8c2": {
+      "count": 1,
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/theme.css?v=50764111222922240811774040876"
+      ]
+    },
+    "#f5d8c1cf": {
+      "count": 1,
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/theme.css?v=50764111222922240811774040876"
+      ]
+    },
+    "#0000001a": {
+      "count": 1,
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/theme.css?v=50764111222922240811774040876"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Andale": [
+      "https://onyxcoffeelab.com/",
+      "https://onyxcoffeelab.com/cdn/shop/t/31/assets/theme.css?v=50764111222922240811774040876"
+    ],
+    "Bajern": [
+      "https://onyxcoffeelab.com/",
+      "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410"
+    ],
+    "Kapra": [
+      "https://onyxcoffeelab.com/"
+    ],
+    "Montserrat": [
+      "https://onyxcoffeelab.com/",
+      "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410",
+      "https://onyxcoffeelab.com/cdn/shop/t/31/assets/theme.css?v=50764111222922240811774040876"
+    ],
+    "Room-205": [
+      "https://onyxcoffeelab.com/",
+      "https://onyxcoffeelab.com/cdn/shop/t/31/assets/theme.css?v=50764111222922240811774040876"
+    ],
+    "sans-serif": [
+      "https://onyxcoffeelab.com/cdn/shop/t/31/assets/theme.css?v=50764111222922240811774040876"
+    ],
+    "swiper-icons": [
+      "https://onyxcoffeelab.com/cdn/shop/t/31/assets/swiper-bundle-min11.css?v=127803016596819466191759174635"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://onyxcoffeelab.com/",
+      "selector": "animation-duration:43.2s\nanimation-duration:20s\n--cart-count-ratio: 1 / 1; display:none;\n\n    :root",
+      "declarations": "--dynamic-nav-menu-height: 65svh;"
+    },
+    {
+      "source": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/swiper-bundle-min11.css?v=127803016596819466191759174635",
+      "selector": ":root",
+      "declarations": "--swiper-theme-color:#007aff"
+    },
+    {
+      "source": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/swiper-bundle-min11.css?v=127803016596819466191759174635",
+      "selector": ":root",
+      "declarations": "--swiper-navigation-size:44px"
+    },
+    {
+      "source": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/swiper-bundle-min11.css?v=127803016596819466191759174635",
+      "selector": ".swiper-button-next,.swiper-button-prev",
+      "declarations": "position:absolute;top:var(--swiper-navigation-top-offset,50%);width:calc(var(--swiper-navigation-size)/ 44 * 27);height:var(--swiper-navigation-size);margin-top:calc(0px - (var(--swiper-navigation-size)/ 2));z-index:10;cursor:pointer;display:flex;align-items:center;justify-content:center;color:var(--swiper-navigation-color,var(--swiper-theme-color))"
+    },
+    {
+      "source": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/swiper-bundle-min11.css?v=127803016596819466191759174635",
+      "selector": ".swiper-button-next:after,.swiper-button-prev:after",
+      "declarations": "font-family:swiper-icons;font-size:var(--swiper-navigation-size);text-transform:none!important;letter-spacing:0;font-variant:initial;line-height:1"
+    },
+    {
+      "source": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410",
+      "selector": ":root",
+      "declarations": "--header-primary: #000;--header-secondary: #FCFAF2"
+    },
+    {
+      "source": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410",
+      "selector": "header.light",
+      "declarations": "--header-secondary: #000;--header-primary: #FCFAF2"
+    },
+    {
+      "source": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410",
+      "selector": "header.light.force-dark,header.force-dark",
+      "declarations": "--header-primary: #000;--header-secondary: #FCFAF2"
+    },
+    {
+      "source": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410",
+      "selector": "header .menu-nav .cart-count",
+      "declarations": "background:var(--header-primary);color:#000;border-radius:100px;height:20px;width:20px;padding:0;line-height:14px;font-size:14px;position:relative;transition:background-color .2s ease"
+    },
+    {
+      "source": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410",
+      "selector": "header .menu-nav .cart-count span",
+      "declarations": "position:absolute;top:0;right:0;left:0;margin:auto;letter-spacing:0;width:100%;bottom:0;height:12px;text-align:center;line-height:12px;font-size:12px;color:var(--header-secondary)"
+    },
+    {
+      "source": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410",
+      "selector": "header .menu-nav a",
+      "declarations": "font-size:14px;padding:15px 24px;letter-spacing:2px;transition:color .3s ease;color:var(--header-primary)"
+    },
+    {
+      "source": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410",
+      "selector": "header.light",
+      "declarations": "color:#fcfaf2"
+    },
+    {
+      "source": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410",
+      "selector": "header.dark",
+      "declarations": "color:#000"
+    },
+    {
+      "source": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410",
+      "selector": "header.force-dark .menu-nav a",
+      "declarations": "color:#000"
+    },
+    {
+      "source": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410",
+      "selector": "header.scroller",
+      "declarations": "background:var(--color-creme);color:#000;position:fixed;top:0;left:0;transition:transform .2s ease;transform:translateY(-80px)"
+    },
+    {
+      "source": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410",
+      "selector": "header.scroller.light",
+      "declarations": "background:#000;color:#fff"
+    },
+    {
+      "source": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410",
+      "selector": ".email-popup #e2ma_signup_submit_button",
+      "declarations": "-webkit-appearance:none;background:#000;border:none;color:var(--color-creme);padding:10px 24px;margin-top:18px;float:right;text-transform:uppercase"
+    },
+    {
+      "source": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410",
+      "selector": "header .mobile-login",
+      "declarations": "font-size:14px;letter-spacing:2px;padding:15px 24px 15px 0;transition:color .3s ease;color:var(--header-primary)"
+    },
+    {
+      "source": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410",
+      "selector": "header.force-dark",
+      "declarations": "--header-primary: black;--header-secondary: var(--color-creme)"
+    },
+    {
+      "source": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/theme.css?v=50764111222922240811774040876",
+      "selector": ":root",
+      "declarations": "--color-creme: #FBFAF3;--color-med-creme: #F0EFE5;--color-dark-creme: #EAE4D5;--color-peach: #F5D8C2;--color-peach-trans:#f5d8c1cf;--heading-family: \"Bajern\";--detail-family: \"Kapra\", sans-serif;--size-h1: 62px;--size-h1-huge:max(60px, min(17vw, 260px));--size-h2: max(60px, min(6vw, 90px));--size-h3: max(32px, min(4vw, 60px))"
+    },
+    {
+      "source": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/theme.css?v=50764111222922240811774040876",
+      "selector": "h1",
+      "declarations": "font-size:var(--size-h1);font-family:Room-205;letter-spacing:2px;font-weight:400"
+    },
+    {
+      "source": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/theme.css?v=50764111222922240811774040876",
+      "selector": ".button",
+      "declarations": "background:#000;color:#fff;text-transform:uppercase;cursor:pointer;border:none"
+    },
+    {
+      "source": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/theme.css?v=50764111222922240811774040876",
+      "selector": ".shopify-challenge__button",
+      "declarations": "color:#fff;background:#000;border:none;padding:12px 24px"
+    },
+    {
+      "source": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/theme.css?v=50764111222922240811774040876",
+      "selector": ".shopify-challenge__container .shopify-challenge__button",
+      "declarations": "color:#000;background:var(--color-creme)"
+    },
+    {
+      "source": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/theme.css?v=50764111222922240811774040876",
+      "selector": ":root",
+      "declarations": "--size-h1: 62px;--size-h1-huge:max(60px, min(17vw, 260px));--size-h2: max(60px, min(6vw, 90px));--size-h3: max(32px, min(4vw, 60px))"
+    },
+    {
+      "source": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/theme.css?v=50764111222922240811774040876",
+      "selector": "body #gsCrumbs li a:after",
+      "declarations": "border-color:transparent transparent transparent #EAE8DF"
+    },
+    {
+      "source": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/theme.css?v=50764111222922240811774040876",
+      "selector": "body #gsCrumbs li a:after,#gsCrumbs li a:before",
+      "declarations": "border-color:#eae8df;background:#eae8df"
+    },
+    {
+      "source": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/theme.css?v=50764111222922240811774040876",
+      "selector": "body .gs__row .selection.gs__dropdown.active,body .gs__circle-plus .gs__circle,body .gs__add-line-wrapper",
+      "declarations": "border-color:#000"
+    },
+    {
+      "source": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/theme.css?v=50764111222922240811774040876",
+      "selector": "body .gs__row .selection.gs__dropdown .menu",
+      "declarations": "border-color:#000"
+    },
+    {
+      "source": "https://onyxcoffeelab.com/cdn/shop/t/31/assets/theme.css?v=50764111222922240811774040876",
+      "selector": "body #gsCrumbs li a:active:after,body #gsCrumbs li a:hover:after,body #gsCrumbs li:nth-child(2n) a:after,body #gsCrumbs li a.active:after",
+      "declarations": "border-left-color:#eae8df"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Onyx Coffee Lab - Coffee Roasters • Café • Barista Training",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://onyxcoffeelab.com/",
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/swiper-bundle-min11.css?v=127803016596819466191759174635",
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410",
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/theme.css?v=50764111222922240811774040876"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://onyxcoffeelab.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/theme.css?v=50764111222922240811774040876"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://onyxcoffeelab.com/",
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/theme.css?v=50764111222922240811774040876"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://onyxcoffeelab.com/"
+      ]
+    },
+    "colors.accent-clay": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410"
+      ]
+    },
+    "colors.accent-peach": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/theme.css?v=50764111222922240811774040876"
+      ]
+    },
+    "colors.accent-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-teal-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410"
+      ]
+    },
+    "colors.border-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/shell.css?v=129994648116969299421788894410"
+      ]
+    },
+    "colors.overlay-scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://onyxcoffeelab.com/cdn/shop/t/31/assets/swiper-bundle-min11.css?v=127803016596819466191759174635"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.subscription-card": {
+      "status": "inferred"
+    }
+  }
+}

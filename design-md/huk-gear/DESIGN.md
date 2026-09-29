@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Huk Gear
-description: A deep-water blue #0f4c81 anchors Huk Gear, a performance fishing and hunting apparel brand that borrows the saturated confidence of marine-grade gear and the quiet precision of technical outerwear. The palette is built on a navy core — #0e4174 for hover states, #17314b for dark accents — that reads as both rugged and precise, like the hull of a center-console boat at dawn. A secondary accent of #45bea6 (a mint-teal that echoes clean water) and a safety-orange #ffaa47 for sale badges and urgency signals break the blue monotony, while a full spectrum of grays from #f7f7f7 canvas to #2c2d2e ink provides the neutral backbone. Typography runs a dual system: Manrope for clean, modern display and body text, and Oswald for condensed, uppercase utility labels and price tags — a nod to the bold signage on fishing gear packaging. Buttons are pill-shaped (`{rounded.full}`) and generously padded, with the primary CTA in #0f4c81 and white text, while secondary buttons invert to a white fill with navy border. Product cards use `{rounded.sm}` corners and a crisp white surface (`{colors.surface-card}`) against `{colors.hairline}` borders, with the product image bleeding edge-to-edge. The brand voice is direct and functional — "Built for the hunt" — and the design system mirrors that: no decorative flourishes, no soft shadows, just clear hierarchy, high-contrast text on white, and a color story that smells like saltwater and diesel.
+name: "Huk Gear"
+source_url: "https://www.hukgear.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep-water blue #0f4c81 anchors Huk Gear, a performance fishing and hunting apparel brand that borrows the saturated confidence of marine-grade gear and the quiet precision of technical outerwear. The palette is built on a navy core — #0e4174 for hover states, #17314b for dark accents — that reads as both rugged and precise, like the hull of a center-console boat at dawn. A secondary accent of #45bea6 (a mint-teal that echoes clean water) and a safety-orange #ffaa47 for sale badges and urgency signals break the blue monotony, while a full spectrum of grays from #f7f7f7 canvas to #2c2d2e ink provides the neutral backbone. Typography runs a dual system: Manrope for clean, modern display and body text, and Oswald for condensed, uppercase utility labels and price tags — a nod to the bold signage on fishing gear packaging. Buttons are pill-shaped (`{rounded.full}`) and generously padded, with the primary CTA in #0f4c81 and white text, while secondary buttons invert to a white fill with navy border. Product cards use `{rounded.sm}` corners and a crisp white surface (`{colors.surface-card}`) against `{colors.hairline}` borders, with the product image bleeding edge-to-edge. The brand voice is direct and functional — "Built for the hunt" — and the design system mirrors that: no decorative flourishes, no soft shadows, just clear hierarchy, high-contrast text on white, and a color story that smells like saltwater and diesel.
 
 colors:
   primary: "#0f4c81"
@@ -399,6 +403,8 @@ components:
 - Product image galleries switch from thumbnail grid to single-image swipe on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted hex list is heavily weighted toward blues and grays, with a few distinctive accents (#45bea6 mint-teal, #ffaa47 orange, #c62a32 red). The brand's true primary (#0f4c81) was identified as the most frequent and distinctive blue, but the live site may use additional accent colors not captured in the extraction (e.g., a specific green for camo patterns, or a tan for hunting lines).
 - Font-family declarations included "Styrene A Web" and "Gill Sans" which may be used for specific sub-brands or legacy pages, but Manrope and Oswald were the most frequently observed and are treated as the primary system.

@@ -1,9 +1,13 @@
 ---
 version: alpha
-name: Silkland
-description: Two gradient stops — #4e54c8 deep indigo and #8f94fb periwinkle — constitute the entire extracted chromatic identity of Silkland, a cables-and-adapters brand that chose a palette more at home in a fintech dashboard or SaaS onboarding screen than on accessory packaging. The indigo-to-lavender sweep fires across primary CTAs and hero surfaces, replacing the metallic grays and safety-red accents that crowd the cable category with something cooler and more metropolitan. Against that violet wash, white canvas (`{colors.canvas}`) and the near-ghost `{colors.surface-soft}` carry product photography and compatibility grids without competing. The font stack is purely system — Geneva leads, followed by Segoe UI, Tahoma, and Verdana — meaning renders vary by platform: slightly warmer and condensed on macOS, crisper on Windows. Rather than fighting this, the design leans on weight contrast (700 for headings, 400 for body) and conservative line-heights to maintain hierarchy across environments without a custom typeface.
+name: "Silkland"
+source_url: "https://www.silkland.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Two gradient stops — #4e54c8 deep indigo and #8f94fb periwinkle — constitute the entire extracted chromatic identity of Silkland, a cables-and-adapters brand that chose a palette more at home in a fintech dashboard or SaaS onboarding screen than on accessory packaging. The indigo-to-lavender sweep fires across primary CTAs and hero surfaces, replacing the metallic grays and safety-red accents that crowd the cable category with something cooler and more metropolitan. Against that violet wash, white canvas (`{colors.canvas}`) and the near-ghost `{colors.surface-soft}` carry product photography and compatibility grids without competing. The font stack is purely system — Geneva leads, followed by Segoe UI, Tahoma, and Verdana — meaning renders vary by platform: slightly warmer and condensed on macOS, crisper on Windows. Rather than fighting this, the design leans on weight contrast (700 for headings, 400 for body) and conservative line-heights to maintain hierarchy across environments without a custom typeface.
 
-Compatibility chips are the signature micro-component: uppercase, tightly spaced labels set at `{typography.chip-label}` inside a `{rounded.full}` pill, cycling through the full language of modern connectivity — USB-C, Thunderbolt 4, MFi-certified, 240W. They appear on product cards and in the hero, functioning simultaneously as specification badges and filter handles. Product cards rest at `{rounded.md}` on `{colors.surface-card}`, soft enough to suggest approachability without erasing the precision hardware buyers expect from a spec table. The footer grounds the page in `{colors.ink}`, an indigo-tinted near-black that echoes the primary hue and closes the vertical gradient arc the hero opens at the top. Search takes a `{rounded.full}` pill form that mirrors the CTA language — a consistent rounding vocabulary that makes the interface feel single-authored even under system-font variability.
+  Compatibility chips are the signature micro-component: uppercase, tightly spaced labels set at `{typography.chip-label}` inside a `{rounded.full}` pill, cycling through the full language of modern connectivity — USB-C, Thunderbolt 4, MFi-certified, 240W. They appear on product cards and in the hero, functioning simultaneously as specification badges and filter handles. Product cards rest at `{rounded.md}` on `{colors.surface-card}`, soft enough to suggest approachability without erasing the precision hardware buyers expect from a spec table. The footer grounds the page in `{colors.ink}`, an indigo-tinted near-black that echoes the primary hue and closes the vertical gradient arc the hero opens at the top. Search takes a `{rounded.full}` pill form that mirrors the CTA language — a consistent rounding vocabulary that makes the interface feel single-authored even under system-font variability.
 
 colors:
   primary: "#4e54c8"
@@ -362,6 +366,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Site is under maintenance — only 2 hex colors extracted (#4e54c8, #8f94fb); full brand palette including neutrals, error states, and surface hierarchy is inferred from the indigo family, not confirmed from live CSS
 - No custom brand font detected; only system font stacks (Geneva, Segoe UI, Tahoma, Verdana) found — a custom typeface may load via JS or be hosted behind the maintenance gate

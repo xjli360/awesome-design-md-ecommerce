@@ -1,0 +1,919 @@
+{
+  "source_url": "https://pethonesty.com",
+  "final_url": "https://www.pethonesty.com/",
+  "captured_at": "2026-09-28T04:48:09.609562+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://pethonesty.com",
+      "final_url": "https://www.pethonesty.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "1bdf003f67a811b8d5e89082a285d6b82893424b588bd8935660400b30f39e51",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.pethonesty.com/cdn/shop/t/561/assets/reset.css?v=55504197762218882531787145043",
+      "final_url": "https://www.pethonesty.com/cdn/shop/t/561/assets/reset.css?v=55504197762218882531787145043",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "90531091966de618c86beaa8e4c666bae39d21130e9013076b210ecd946f5540",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.pethonesty.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.pethonesty.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.pethonesty.com/cdn/shop/t/561/assets/tailwind.css?v=24668713771837014561787250209",
+      "final_url": "https://www.pethonesty.com/cdn/shop/t/561/assets/tailwind.css?v=24668713771837014561787250209",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "21992673afbc48ec735d5c237a05565f08de15b7501ce70ce510fbde8e6025e4",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.pethonesty.com/cdn/shop/t/561/assets/custom.css?v=112425962023061115451787145043",
+      "final_url": "https://www.pethonesty.com/cdn/shop/t/561/assets/custom.css?v=112425962023061115451787145043",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "38a0e62c012090c6cd9987ce47537e4d69376e3111fe85b700eabe9a2b6a52ba",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 440,
+      "sources": [
+        "https://www.pethonesty.com/",
+        "https://www.pethonesty.com/cdn/shop/t/561/assets/tailwind.css?v=24668713771837014561787250209",
+        "https://www.pethonesty.com/cdn/shop/t/561/assets/custom.css?v=112425962023061115451787145043"
+      ]
+    },
+    "#ffffff": {
+      "count": 292,
+      "sources": [
+        "https://www.pethonesty.com/",
+        "https://www.pethonesty.com/cdn/shop/t/561/assets/reset.css?v=55504197762218882531787145043",
+        "https://www.pethonesty.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#1e1e1e": {
+      "count": 28,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#333333": {
+      "count": 28,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#020e0e": {
+      "count": 28,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#707070": {
+      "count": 28,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 23,
+      "sources": [
+        "https://www.pethonesty.com/cdn/shop/t/561/assets/reset.css?v=55504197762218882531787145043",
+        "https://www.pethonesty.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.pethonesty.com/cdn/shop/t/561/assets/tailwind.css?v=24668713771837014561787250209"
+      ]
+    },
+    "#faa624": {
+      "count": 21,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 21,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#18181b": {
+      "count": 16,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#c2208e": {
+      "count": 10,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#666666": {
+      "count": 9,
+      "sources": [
+        "https://www.pethonesty.com/",
+        "https://www.pethonesty.com/cdn/shop/t/561/assets/tailwind.css?v=24668713771837014561787250209"
+      ]
+    },
+    "#62bb46": {
+      "count": 8,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#595959": {
+      "count": 8,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#1e534d": {
+      "count": 8,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#f8fafa": {
+      "count": 8,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#6cb803": {
+      "count": 7,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 7,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 7,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#fbfafa": {
+      "count": 6,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#c1208e": {
+      "count": 6,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#fc582c": {
+      "count": 6,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#26b8c3": {
+      "count": 6,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 6,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#fafafa": {
+      "count": 6,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#353535": {
+      "count": 6,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#f5f4f0": {
+      "count": 6,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 5,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#dddcd8": {
+      "count": 4,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#1f2937": {
+      "count": 4,
+      "sources": [
+        "https://www.pethonesty.com/cdn/shop/t/561/assets/tailwind.css?v=24668713771837014561787250209"
+      ]
+    },
+    "#d46ba9": {
+      "count": 3,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#dad2c6": {
+      "count": 3,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#f57f20": {
+      "count": 3,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#1773b0": {
+      "count": 3,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#dedede": {
+      "count": 3,
+      "sources": [
+        "https://www.pethonesty.com/",
+        "https://www.pethonesty.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#a4a4a4": {
+      "count": 3,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#1ebcbe": {
+      "count": 2,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#fbefd9": {
+      "count": 2,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#fc0000": {
+      "count": 2,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#f59e0b": {
+      "count": 2,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#22c55e": {
+      "count": 2,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#38bdf8": {
+      "count": 2,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#60c3ad": {
+      "count": 2,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#c0c1c3": {
+      "count": 2,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#111827": {
+      "count": 2,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#e8ff00": {
+      "count": 2,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#00ff07": {
+      "count": 2,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#630000": {
+      "count": 1,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#634004": {
+      "count": 1,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#0b4320": {
+      "count": 1,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#056792": {
+      "count": 1,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#d1d5db": {
+      "count": 1,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#f47929": {
+      "count": 1,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#0d92f3": {
+      "count": 1,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#0000ee": {
+      "count": 1,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#eaf37a": {
+      "count": 1,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#f3af21": {
+      "count": 1,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#cbf37a": {
+      "count": 1,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#f66c46": {
+      "count": 1,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "#f1ec08": {
+      "count": 1,
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "Apple Color Emoji": [
+      "https://www.pethonesty.com/cdn/shop/t/561/assets/reset.css?v=55504197762218882531787145043"
+    ],
+    "Consolas": [
+      "https://www.pethonesty.com/cdn/shop/t/561/assets/reset.css?v=55504197762218882531787145043",
+      "https://www.pethonesty.com/cdn/shop/t/561/assets/tailwind.css?v=24668713771837014561787250209"
+    ],
+    "Courier New": [
+      "https://www.pethonesty.com/cdn/shop/t/561/assets/reset.css?v=55504197762218882531787145043",
+      "https://www.pethonesty.com/cdn/shop/t/561/assets/tailwind.css?v=24668713771837014561787250209"
+    ],
+    "Liberation Mono": [
+      "https://www.pethonesty.com/cdn/shop/t/561/assets/reset.css?v=55504197762218882531787145043",
+      "https://www.pethonesty.com/cdn/shop/t/561/assets/tailwind.css?v=24668713771837014561787250209"
+    ],
+    "Menlo": [
+      "https://www.pethonesty.com/cdn/shop/t/561/assets/reset.css?v=55504197762218882531787145043",
+      "https://www.pethonesty.com/cdn/shop/t/561/assets/tailwind.css?v=24668713771837014561787250209"
+    ],
+    "Monaco": [
+      "https://www.pethonesty.com/cdn/shop/t/561/assets/reset.css?v=55504197762218882531787145043",
+      "https://www.pethonesty.com/cdn/shop/t/561/assets/tailwind.css?v=24668713771837014561787250209"
+    ],
+    "Museo Sans": [
+      "https://www.pethonesty.com/"
+    ],
+    "Museo Sans Display": [
+      "https://www.pethonesty.com/"
+    ],
+    "Noto Color Emoji": [
+      "https://www.pethonesty.com/cdn/shop/t/561/assets/reset.css?v=55504197762218882531787145043"
+    ],
+    "Rhode": [
+      "https://www.pethonesty.com/"
+    ],
+    "Roslindale Variable": [
+      "https://www.pethonesty.com/"
+    ],
+    "SFMono-Regular": [
+      "https://www.pethonesty.com/cdn/shop/t/561/assets/reset.css?v=55504197762218882531787145043",
+      "https://www.pethonesty.com/cdn/shop/t/561/assets/tailwind.css?v=24668713771837014561787250209"
+    ],
+    "Segoe UI Emoji": [
+      "https://www.pethonesty.com/cdn/shop/t/561/assets/reset.css?v=55504197762218882531787145043"
+    ],
+    "Segoe UI Symbol": [
+      "https://www.pethonesty.com/cdn/shop/t/561/assets/reset.css?v=55504197762218882531787145043"
+    ],
+    "monospace": [
+      "https://www.pethonesty.com/cdn/shop/t/561/assets/reset.css?v=55504197762218882531787145043",
+      "https://www.pethonesty.com/cdn/shop/t/561/assets/tailwind.css?v=24668713771837014561787250209"
+    ],
+    "rychard walker": [
+      "https://www.pethonesty.com/"
+    ],
+    "sans-serif": [
+      "https://www.pethonesty.com/cdn/shop/t/561/assets/reset.css?v=55504197762218882531787145043"
+    ],
+    "system-ui": [
+      "https://www.pethonesty.com/cdn/shop/t/561/assets/reset.css?v=55504197762218882531787145043"
+    ],
+    "ui-monospace": [
+      "https://www.pethonesty.com/cdn/shop/t/561/assets/reset.css?v=55504197762218882531787145043",
+      "https://www.pethonesty.com/cdn/shop/t/561/assets/tailwind.css?v=24668713771837014561787250209"
+    ],
+    "ui-sans-serif": [
+      "https://www.pethonesty.com/cdn/shop/t/561/assets/reset.css?v=55504197762218882531787145043"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.pethonesty.com/",
+      "selector": ":root",
+      "declarations": "--header-height: calc((var(--navigation-bar-height, 0px) + var(--progress-bar-height, 0px)) + var(--announcement-bar-height, 0px));\n    --header-height-offset: calc((var(--navigation-bar-height, 0px) + var(--progress-bar-height, 0px)) + var(--announcement-bar-height, 0px));"
+    },
+    {
+      "source": "https://www.pethonesty.com/",
+      "selector": ":root",
+      "declarations": "--layout-page-width-fullwidth: 0px;\n    --layout-page-width-xs: 640px;\n    --layout-page-width-sm: 1280px;\n    --layout-page-width-md: 1440px;\n    --layout-page-width-lg: 1640px;"
+    },
+    {
+      "source": "https://www.pethonesty.com/",
+      "selector": ":root",
+      "declarations": "--layout-padding-sm: px;\n      --layout-padding-md: px;\n      --layout-padding-lg: px;\n      --layout-padding-xl: px;"
+    },
+    {
+      "source": "https://www.pethonesty.com/",
+      "selector": ":root",
+      "declarations": "--color-error--rgb:\n\n252 0 0\n;\n    --color-error--hex: #fc0000;\n    --color-error-text--hex: #630000;\n    --color-error: var(--color-error--rgb, #fc0000);\n    --color-warning--rgb:\n\n245 158 11\n;\n    --color-warning--hex: #f59e0b;\n    --color-warning-text--hex: #634004;\n    --color-warning: var(--color-warning--rgb, #f59e0b);\n    --color-success--rgb:\n\n34 197 94\n;\n    --color-success--hex: #22c55e;\n    --color-success-text--hex: #0b4320;\n    --color-success: var(--color-success--rgb, #22c55e);\n    --color-info--rgb:\n\n56 189 248\n;\n    --color-info--hex: #38bdf8;\n    --color-info-text--hex: #056792;\n    --color-info: var(--color-info--rgb, #38bdf8);\n    --color-review-stars--rgb:\n\n250 166 36\n;\n"
+    },
+    {
+      "source": "https://www.pethonesty.com/",
+      "selector": ":root",
+      "declarations": "--color-gray-50: 249 250 251;\n    --color-gray-100: 243 244 246;\n    --color-gray-200: 229 231 235;\n    --color-gray-300: 209 213 219;\n    --color-gray-400: 156 163 175;\n    --color-gray-500: 107 114 128;\n    --color-gray-600: 75 85 99;\n    --color-gray-700: 55 65 81;\n    --color-gray-800: 31 41 55;\n    --color-gray-900: 17 24 39;"
+    },
+    {
+      "source": "https://www.pethonesty.com/",
+      "selector": ":root",
+      "declarations": "--color-review-stars: #faa624;\n    --color-review-stars-base: #D1D5DB;"
+    },
+    {
+      "source": "https://www.pethonesty.com/",
+      "selector": "body",
+      "declarations": ";font-family:'Museo Sans';font-size:16px ;line-height: 1.5 ;font-weight: 400 ;opacity: 1;letter-spacing:0 ;text-transform: none ;font-style: normal;white-space:;"
+    },
+    {
+      "source": "https://www.pethonesty.com/",
+      "selector": "body",
+      "declarations": ";font-family:'Museo Sans';font-size:16px ;line-height: 1.5 ;font-weight: 400 ;opacity: 1;letter-spacing:0 ;text-transform: none ;font-style: normal;white-space:;"
+    },
+    {
+      "source": "https://www.pethonesty.com/",
+      "selector": "body",
+      "declarations": ";font-family:'Museo Sans';font-size:16px ;line-height: 1.5 ;font-weight: 400 ;opacity: 1;letter-spacing:0 ;text-transform: none ;font-style: normal;white-space:;"
+    },
+    {
+      "source": "https://www.pethonesty.com/",
+      "selector": "body",
+      "declarations": ";font-family:'Museo Sans';font-size:16px ;line-height: 1.5 ;font-weight: 400 ;opacity: 1;letter-spacing:0 ;text-transform: none ;font-style: normal;white-space:;"
+    },
+    {
+      "source": "https://www.pethonesty.com/",
+      "selector": ".richtext-md h1, .richtext-md.h1, .richtext h1",
+      "declarations": ";font-family:'Museo Sans Display';font-size: 36px ;line-height: 1.3 ;font-weight: 900 ;opacity: 1;letter-spacing:-0.36px ;text-transform: none ;font-style: normal;white-space:;"
+    },
+    {
+      "source": "https://www.pethonesty.com/",
+      "selector": ".richtext-md h1, .richtext-md.h1, .richtext h1",
+      "declarations": ";font-family:'Museo Sans Display';font-size: 36px ;line-height: 1.3 ;font-weight: 900 ;opacity: 1;letter-spacing:-0.36px ;text-transform: none ;font-style: normal;white-space:;"
+    },
+    {
+      "source": "https://www.pethonesty.com/",
+      "selector": ".richtext-md-smaller h1, .richtext-md-smaller.h1",
+      "declarations": ";font-family:'Museo Sans Display';font-size: 25px ;line-height: 1.3 ;font-weight: 900 ;opacity: 1;letter-spacing:-0.36px ;text-transform: none ;font-style: normal;white-space:;"
+    },
+    {
+      "source": "https://www.pethonesty.com/",
+      "selector": ".richtext-md-smaller h1, .richtext-md-smaller.h1",
+      "declarations": ";font-family:'Museo Sans Display';font-size: 25px ;line-height: 1.3 ;font-weight: 900 ;opacity: 1;letter-spacing:-0.36px ;text-transform: none ;font-style: normal;white-space:;"
+    },
+    {
+      "source": "https://www.pethonesty.com/",
+      "selector": ".richtext-md-pdp h1, .richtext-md-pdp.h1",
+      "declarations": ";font-family:'rychard walker';font-size: 32px ;line-height:40.38px  ;font-weight: 400 ;opacity: 1;letter-spacing:-0.32px ;text-transform: none ;font-style: normal;white-space:;"
+    },
+    {
+      "source": "https://www.pethonesty.com/",
+      "selector": ".richtext-md-pdp h1, .richtext-md-pdp.h1",
+      "declarations": ";font-family:'rychard walker';font-size: 32px ;line-height:40.38px  ;font-weight: 400 ;opacity: 1;letter-spacing:-0.32px ;text-transform: none ;font-style: normal;white-space:;"
+    },
+    {
+      "source": "https://www.pethonesty.com/",
+      "selector": ".richtext-md-special h1, .richtext-md-special.h1",
+      "declarations": ";font-family:'Museo Sans Display';font-size: 36px ;line-height: 1.3 ;font-weight: 700 ;opacity: 1;letter-spacing:-0.36px ;text-transform: none ;font-style: normal;white-space:;"
+    },
+    {
+      "source": "https://www.pethonesty.com/",
+      "selector": ".richtext-md-special h1, .richtext-md-special.h1",
+      "declarations": ";font-family:'Museo Sans Display';font-size: 36px ;line-height: 1.3 ;font-weight: 700 ;opacity: 1;letter-spacing:-0.36px ;text-transform: none ;font-style: normal;white-space:;"
+    },
+    {
+      "source": "https://www.pethonesty.com/",
+      "selector": ":where(.richtext-md-special h1, .richtext-md-special.h1) strong",
+      "declarations": "font-weight: 900;   color:#000;"
+    },
+    {
+      "source": "https://www.pethonesty.com/",
+      "selector": ":where(.richtext-md-special h1, .richtext-md-special.h1) em",
+      "declarations": "color:inherit;"
+    },
+    {
+      "source": "https://www.pethonesty.com/",
+      "selector": ":where(.richtext-md-special h1, .richtext-md-special.h1) em strong",
+      "declarations": "color:inherit;"
+    },
+    {
+      "source": "https://www.pethonesty.com/",
+      "selector": ".richtext-md-special-H1-60px p, .richtext-md-special-H1-60px.p",
+      "declarations": ";font-family:'Museo Sans';font-size:20px ;line-height: 22px ;font-weight: 500 ;opacity: 1;letter-spacing:0.5px ;text-transform: none ;font-style: normal;white-space:;"
+    },
+    {
+      "source": "https://www.pethonesty.com/",
+      "selector": ".richtext-md-special-H1-60px p, .richtext-md-special-H1-60px.p",
+      "declarations": ";font-family:'Museo Sans';font-size:20px ;line-height: 22px ;font-weight: 500 ;opacity: 1;letter-spacing:0.5px ;text-transform: none ;font-style: normal;white-space:;"
+    },
+    {
+      "source": "https://www.pethonesty.com/",
+      "selector": ":where(.richtext-md-special-H1-60px p, .richtext-md-special-H1-60px.p)",
+      "declarations": "color:#000;"
+    },
+    {
+      "source": "https://www.pethonesty.com/",
+      "selector": ".richtext-md-special-H1-60px ul, .richtext-md-special-H1-60px.ul",
+      "declarations": ";font-family:'Museo Sans';font-size:20px ;line-height: 22px ;font-weight: 500 ;opacity: 1;letter-spacing:0.5px ;text-transform: none ;font-style: normal;white-space:;"
+    },
+    {
+      "source": "https://www.pethonesty.com/",
+      "selector": ".richtext-md-special-H1-60px ul, .richtext-md-special-H1-60px.ul",
+      "declarations": ";font-family:'Museo Sans';font-size:20px ;line-height: 22px ;font-weight: 500 ;opacity: 1;letter-spacing:0.5px ;text-transform: none ;font-style: normal;white-space:;"
+    },
+    {
+      "source": "https://www.pethonesty.com/",
+      "selector": ":where(.richtext-md-special-H1-60px ul, .richtext-md-special-H1-60px.ul)",
+      "declarations": "color:#000;"
+    },
+    {
+      "source": "https://www.pethonesty.com/",
+      "selector": ".richtext-md-special-H1-60px ol, .richtext-md-special-H1-60px.ol",
+      "declarations": ";font-family:'Museo Sans';font-size:20px ;line-height: 22px ;font-weight: 500 ;opacity: 1;letter-spacing:0.5px ;text-transform: none ;font-style: normal;white-space:;"
+    },
+    {
+      "source": "https://www.pethonesty.com/",
+      "selector": ".richtext-md-special-H1-60px ol, .richtext-md-special-H1-60px.ol",
+      "declarations": ";font-family:'Museo Sans';font-size:20px ;line-height: 22px ;font-weight: 500 ;opacity: 1;letter-spacing:0.5px ;text-transform: none ;font-style: normal;white-space:;"
+    },
+    {
+      "source": "https://www.pethonesty.com/",
+      "selector": ":where(.richtext-md-special-H1-60px ol, .richtext-md-special-H1-60px.ol)",
+      "declarations": "color:#000;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Natural Chewable Pet Supplements for Dogs and Cats | Pet Honesty",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pethonesty.com/",
+        "https://www.pethonesty.com/cdn/shop/t/561/assets/reset.css?v=55504197762218882531787145043",
+        "https://www.pethonesty.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pethonesty.com/",
+        "https://www.pethonesty.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pethonesty.com/",
+        "https://www.pethonesty.com/cdn/shop/t/561/assets/reset.css?v=55504197762218882531787145043",
+        "https://www.pethonesty.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-orange": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "colors.accent-pink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "colors.accent-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "colors.cream": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "colors.beige": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "colors.success-text": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "colors.warning-text": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "colors.error": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "colors.error-text": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "colors.info-text": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.pethonesty.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.accent-script": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.subscription-callout": {
+      "status": "inferred"
+    }
+  }
+}

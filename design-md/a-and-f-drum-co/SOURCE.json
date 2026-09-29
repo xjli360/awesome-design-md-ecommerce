@@ -1,0 +1,755 @@
+{
+  "source_url": "https://www.anfdrumco.com",
+  "final_url": "https://www.anfdrumco.com/",
+  "captured_at": "2026-09-28T05:07:47.305346+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.anfdrumco.com",
+      "final_url": "https://www.anfdrumco.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "55e0340cce1bc28280be6799e52fa00ca28b183889ec7810033d4328c13a71d5",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://unpkg.com/leaflet@1.3.4/dist/leaflet.css",
+      "final_url": "https://unpkg.com/leaflet@1.3.4/dist/leaflet.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "611e07ac3138efd12961981e4e441f81526ad3cfb6efb517c4c2db8bf60febda",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.anfdrumco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.anfdrumco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Lato:400",
+      "final_url": "https://fonts.googleapis.com/css?family=Lato:400",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "5f0edf2f032d95ebd996356956c4c1b524adeef33ea17a7c3eb3ab138660093f",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577",
+      "final_url": "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "8500d422d5d5e48bf04a2bca931e63e87e3c8c565dd2c9c6ab4ffb938ce9fe66",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 113,
+      "sources": [
+        "https://www.anfdrumco.com/",
+        "https://unpkg.com/leaflet@1.3.4/dist/leaflet.css",
+        "https://www.anfdrumco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    },
+    "#a68247": {
+      "count": 60,
+      "sources": [
+        "https://www.anfdrumco.com/",
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    },
+    "#4a4a4a": {
+      "count": 35,
+      "sources": [
+        "https://www.anfdrumco.com/",
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    },
+    "#f4f1ec": {
+      "count": 13,
+      "sources": [
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    },
+    "#eb4f47": {
+      "count": 9,
+      "sources": [
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    },
+    "#161010": {
+      "count": 5,
+      "sources": [
+        "https://www.anfdrumco.com/",
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    },
+    "#dddddd": {
+      "count": 4,
+      "sources": [
+        "https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
+      ]
+    },
+    "#00000000": {
+      "count": 4,
+      "sources": [
+        "https://www.anfdrumco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    },
+    "#979797": {
+      "count": 4,
+      "sources": [
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    },
+    "#000000": {
+      "count": 3,
+      "sources": [
+        "https://www.anfdrumco.com/",
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    },
+    "#333333": {
+      "count": 3,
+      "sources": [
+        "https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
+      ]
+    },
+    "#777777": {
+      "count": 3,
+      "sources": [
+        "https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
+      ]
+    },
+    "#535254": {
+      "count": 3,
+      "sources": [
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    },
+    "#952123": {
+      "count": 2,
+      "sources": [
+        "https://www.anfdrumco.com/",
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    },
+    "#faf9f6": {
+      "count": 2,
+      "sources": [
+        "https://www.anfdrumco.com/"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 2,
+      "sources": [
+        "https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
+      ]
+    },
+    "#999999": {
+      "count": 2,
+      "sources": [
+        "https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
+      ]
+    },
+    "#121212": {
+      "count": 2,
+      "sources": [
+        "https://www.anfdrumco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.anfdrumco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 2,
+      "sources": [
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    },
+    "#ebe5dc": {
+      "count": 2,
+      "sources": [
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 1,
+      "sources": [
+        "https://www.anfdrumco.com/"
+      ]
+    },
+    "#f1eee6": {
+      "count": 1,
+      "sources": [
+        "https://www.anfdrumco.com/"
+      ]
+    },
+    "#312c2c": {
+      "count": 1,
+      "sources": [
+        "https://www.anfdrumco.com/"
+      ]
+    },
+    "#404040": {
+      "count": 1,
+      "sources": [
+        "https://www.anfdrumco.com/"
+      ]
+    },
+    "#3b3b3b": {
+      "count": 1,
+      "sources": [
+        "https://www.anfdrumco.com/"
+      ]
+    },
+    "#cbc8c1": {
+      "count": 1,
+      "sources": [
+        "https://www.anfdrumco.com/"
+      ]
+    },
+    "#0078a8": {
+      "count": 1,
+      "sources": [
+        "https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
+      ]
+    },
+    "#3388ff": {
+      "count": 1,
+      "sources": [
+        "https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
+      "sources": [
+        "https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 1,
+      "sources": [
+        "https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
+      ]
+    },
+    "#c3c3c3": {
+      "count": 1,
+      "sources": [
+        "https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
+      ]
+    },
+    "#666666": {
+      "count": 1,
+      "sources": [
+        "https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
+      ]
+    },
+    "#222222": {
+      "count": 1,
+      "sources": [
+        "https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.anfdrumco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.anfdrumco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#4a4a4a59": {
+      "count": 1,
+      "sources": [
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    },
+    "#54ca80": {
+      "count": 1,
+      "sources": [
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    },
+    "#16101000": {
+      "count": 1,
+      "sources": [
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    },
+    "#000000cc": {
+      "count": 1,
+      "sources": [
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    },
+    "#fde9e8": {
+      "count": 1,
+      "sources": [
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    },
+    "#635f59": {
+      "count": 1,
+      "sources": [
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    },
+    "#0000000e": {
+      "count": 1,
+      "sources": [
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    },
+    "#c77e72": {
+      "count": 1,
+      "sources": [
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    },
+    "#706c66": {
+      "count": 1,
+      "sources": [
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    },
+    "#b7955cd4": {
+      "count": 1,
+      "sources": [
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    },
+    "#d9dbdc": {
+      "count": 1,
+      "sources": [
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    },
+    "#4d0000": {
+      "count": 1,
+      "sources": [
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.anfdrumco.com/",
+      "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+    ],
+    "Avenir": [
+      "https://www.anfdrumco.com/",
+      "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+    ],
+    "Helvetica": [
+      "https://www.anfdrumco.com/",
+      "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+    ],
+    "Helvetica Neue": [
+      "https://www.anfdrumco.com/",
+      "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+    ],
+    "HelveticaNeue": [
+      "https://www.anfdrumco.com/",
+      "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+    ],
+    "Lato": [
+      "https://www.anfdrumco.com/",
+      "https://fonts.googleapis.com/css?family=Lato:400",
+      "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+    ],
+    "object-fit: contain": [
+      "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+    ],
+    "object-fit: cover": [
+      "https://www.anfdrumco.com/",
+      "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+    ],
+    "sans-serif": [
+      "https://www.anfdrumco.com/",
+      "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.anfdrumco.com/",
+      "selector": "body",
+      "declarations": "margin: 0;\n  font-size: 1.6rem;\n  font-family: 'Avenir', 'HelveticaNeue', 'Helvetica Neue', Helvetica, Arial, sans-serif;\n  color: #4a4a4a;\n  line-height: 1.625;"
+    },
+    {
+      "source": "https://www.anfdrumco.com/",
+      "selector": ".btn,\n.btn--secondary",
+      "declarations": "-moz-user-select: \"none\";\n  -ms-user-select: \"none\";\n  -webkit-user-select: \"none\";\n  user-select: \"none\";\n  -webkit-appearance: none;\n  -moz-appearance: none;\n  appearance: none;\n  display: inline-block;\n  position: relative;\n  width: auto;\n  background-color: #a68247;\n  border-radius: 0;\n  color: #ffffff;\n  border: 2px solid #a68247;\n  font-size: 1.4rem;\n  font-weight: 700;\n  letter-spacing: 1.5px;\n  text-decoration: none;\n  text-align: center;\n  text-transform: uppercase;\n  padding: 10px 30px;\n  line-height: 2.2;\n  vertical-align: middle;\n  cursor: pointer;\n  transition: outline 0.1s linear;\n  box-sizing: border-box;"
+    },
+    {
+      "source": "https://www.anfdrumco.com/",
+      "selector": ".btn--clear",
+      "declarations": "position: relative;\n  background-color: transparent;\n  border: 0;\n  color: #4a4a4a;\n  transition: 0.15s opacity ease-out;"
+    },
+    {
+      "source": "https://www.anfdrumco.com/",
+      "selector": ".site-header__wrapper",
+      "declarations": "position: relative;\n  min-height: 60px;\n  width: 100%;\n  background-color: #161010;\n  z-index: 10;"
+    },
+    {
+      "source": "https://www.anfdrumco.com/",
+      "selector": ".site-header--transparent .site-header__wrapper",
+      "declarations": "background-color: transparent;"
+    },
+    {
+      "source": "https://www.anfdrumco.com/",
+      "selector": ".site-header__cart::after",
+      "declarations": "border-color: #4a4a4a;"
+    },
+    {
+      "source": "https://www.anfdrumco.com/",
+      "selector": ".site-header__cart-bubble",
+      "declarations": "position: absolute;\n  top: 15px;\n  right: 10px;\n  width: 10px;\n  height: 10px;\n  background-color: #952123;\n  border-radius: 50%;\n  opacity: 0;\n  transition: all 0.25s ease-out;\n  -ms-transform: scale(0);\n  -webkit-transform: scale(0);\n  transform: scale(0);"
+    },
+    {
+      "source": "https://www.anfdrumco.com/",
+      "selector": ".site-header__navigation::after",
+      "declarations": "border-color: #4a4a4a;"
+    },
+    {
+      "source": "https://www.anfdrumco.com/",
+      "selector": "html:not(.supports-no-js) body:not(.navigation-open) .site-header--transparent:not(.site-header--fixed) .burger-icon",
+      "declarations": "background-color: #ffffff;"
+    },
+    {
+      "source": "https://www.anfdrumco.com/",
+      "selector": "html:not(.supports-no-js) body:not(.navigation-open) .site-header--transparent:not(.site-header--fixed) a.site-header__logo",
+      "declarations": "color: #ffffff;"
+    },
+    {
+      "source": "https://www.anfdrumco.com/",
+      "selector": "sparent:not(.site-header--fixed) .site-header__navigation::after,\n    html:not(.supports-no-js) body:not(.navigation-open) .site-header--transparent:not(.site-h",
+      "declarations": "border-color: #ffffff;"
+    },
+    {
+      "source": "https://www.anfdrumco.com/",
+      "selector": "#VideoSection--1476381402840 .video-section__load-player-button-triangle",
+      "declarations": "border-left-color:"
+    },
+    {
+      "source": "https://www.anfdrumco.com/",
+      "selector": "#VideoSection--1476381402840 .video-section__load-player-button-circle",
+      "declarations": "border-color:"
+    },
+    {
+      "source": "https://www.anfdrumco.com/",
+      "selector": "#VideoSection--1476381402840 .video-section__load-player-button-triangle",
+      "declarations": "border-left-color: #ffffff;"
+    },
+    {
+      "source": "https://www.anfdrumco.com/",
+      "selector": "#VideoSection--1476381402840 .video-section__load-player-button.animated .video-section__load-player-button-circle,\n    #VideoSection--1476381402840 .video-sect",
+      "declarations": "border-color: #ffffff;"
+    },
+    {
+      "source": "https://unpkg.com/leaflet@1.3.4/dist/leaflet.css",
+      "selector": ".leaflet-container a.leaflet-popup-close-button",
+      "declarations": "position: absolute;\r\n\ttop: 0;\r\n\tright: 0;\r\n\tpadding: 4px 4px 0 0;\r\n\tborder: none;\r\n\ttext-align: center;\r\n\twidth: 18px;\r\n\theight: 14px;\r\n\tfont: 16px/14px Tahoma, Verdana, sans-serif;\r\n\tcolor: #c3c3c3;\r\n\ttext-decoration: none;\r\n\tfont-weight: bold;\r\n\tbackground: transparent;"
+    },
+    {
+      "source": "https://unpkg.com/leaflet@1.3.4/dist/leaflet.css",
+      "selector": ".leaflet-container a.leaflet-popup-close-button:hover",
+      "declarations": "color: #999;"
+    },
+    {
+      "source": "https://www.anfdrumco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.anfdrumco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.anfdrumco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.anfdrumco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.anfdrumco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.anfdrumco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0"
+    },
+    {
+      "source": "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577",
+      "selector": "body,input,textarea,button,select",
+      "declarations": "font-size:1.6rem;font-family:Avenir,HelveticaNeue,Helvetica Neue,Helvetica,Arial,sans-serif;color:#4a4a4a;line-height:1.625"
+    },
+    {
+      "source": "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577",
+      "selector": "h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6",
+      "declarations": "color:#4a4a4a;margin:0 0 20px"
+    },
+    {
+      "source": "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577",
+      "selector": "h1 a,.h1 a,h2 a,.h2 a,h3 a,.h3 a,h4 a,.h4 a,h5 a,.h5 a,h6 a,.h6 a",
+      "declarations": "color:inherit;text-decoration:none;font-weight:inherit"
+    },
+    {
+      "source": "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577",
+      "selector": "h1,.h1,h2,.h2,h3,.h3,h4,.h4",
+      "declarations": "letter-spacing:inherit;text-transform:inherit;font-family:Lato,HelveticaNeue,Helvetica Neue,sans-serif;font-weight:400"
+    },
+    {
+      "source": "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577",
+      "selector": ".input-group--underline .btn",
+      "declarations": "color:#4a4a4a"
+    },
+    {
+      "source": "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577",
+      "selector": "body",
+      "declarations": "background-color:#fff"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "A & F Drum Co | Luxury Drum Brand – A&F Drum Co",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.anfdrumco.com/",
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.anfdrumco.com/",
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.anfdrumco.com/",
+        "https://unpkg.com/leaflet@1.3.4/dist/leaflet.css",
+        "https://www.anfdrumco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.anfdrumco.com/",
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.anfdrumco.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.anfdrumco.com/",
+        "https://unpkg.com/leaflet@1.3.4/dist/leaflet.css",
+        "https://www.anfdrumco.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    },
+    "colors.accent-danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.anfdrumco.com/",
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    },
+    "colors.accent-alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    },
+    "colors.line-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
+      ]
+    },
+    "colors.warm-tint": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.anfdrumco.com/cdn/shop/t/5/assets/theme.scss.css?v=56604265022546188181701894577"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.finish-swatch-selector": {
+      "status": "inferred"
+    }
+  }
+}

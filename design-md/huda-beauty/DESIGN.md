@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Huda Beauty
-description: A bold, glamorous, and unapologetically maximalist beauty brand that commands attention through high-contrast color, sculptural typography, and a deep sense of luxury. The brand’s foundation is a stark white canvas (`{colors.canvas}`) that amplifies the intensity of its signature dark ink (`{colors.ink}`: #313131), a near-black that appears in headlines, product descriptions, and the fine print of ingredient lists. This is not a soft, muted palette; the `{colors.muted}` (#6a6a6a) and `{colors.muted-soft}` (#929292) tones serve as quiet supporting players, allowing the primary voltage of the brand—a rich, warm pink—to dominate every CTA, badge, and promotional banner. The `{colors.primary}` (#e91e63) is a confident, saturated rose that feels both feminine and powerful, with an active state (`{colors.primary-active}`: #c2185b) that deepens the intensity on hover. The `{colors.hairline}` (#dddddd) and `{colors.hairline-soft}` (#ebebeb) provide delicate separation between product cards and editorial content, while the `{colors.surface-soft}` (#f7f7f7) and `{colors.surface-card}` (#ffffff) create a clean, layered hierarchy. The brand’s typography relies on a system-native stack (`-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif`) that feels crisp and modern, with display sizes ranging from 28px to 18px in weights that balance readability with editorial flair. Every corner is softened—from the `{rounded.sm}` (8px) on buttons to the `{rounded.lg}` (20px) on product cards—creating a tactile, approachable feel that contrasts with the high-glamour imagery. The overall effect is a brand that feels both aspirational and accessible: a beauty empire built on precision, confidence, and the belief that makeup is a form of self-expression.
+name: "Huda Beauty"
+source_url: "https://hudabeauty.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A bold, glamorous, and unapologetically maximalist beauty brand that commands attention through high-contrast color, sculptural typography, and a deep sense of luxury. The brand’s foundation is a stark white canvas (`{colors.canvas}`) that amplifies the intensity of its signature dark ink (`{colors.ink}`: #313131), a near-black that appears in headlines, product descriptions, and the fine print of ingredient lists. This is not a soft, muted palette; the `{colors.muted}` (#6a6a6a) and `{colors.muted-soft}` (#929292) tones serve as quiet supporting players, allowing the primary voltage of the brand—a rich, warm pink—to dominate every CTA, badge, and promotional banner. The `{colors.primary}` (#e91e63) is a confident, saturated rose that feels both feminine and powerful, with an active state (`{colors.primary-active}`: #c2185b) that deepens the intensity on hover. The `{colors.hairline}` (#dddddd) and `{colors.hairline-soft}` (#ebebeb) provide delicate separation between product cards and editorial content, while the `{colors.surface-soft}` (#f7f7f7) and `{colors.surface-card}` (#ffffff) create a clean, layered hierarchy. The brand’s typography relies on a system-native stack (`-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans', sans-serif`) that feels crisp and modern, with display sizes ranging from 28px to 18px in weights that balance readability with editorial flair. Every corner is softened—from the `{rounded.sm}` (8px) on buttons to the `{rounded.lg}` (20px) on product cards—creating a tactile, approachable feel that contrasts with the high-glamour imagery. The overall effect is a brand that feels both aspirational and accessible: a beauty empire built on precision, confidence, and the belief that makeup is a form of self-expression.
 
 colors:
   primary: "#e91e63"
@@ -406,6 +410,8 @@ components:
 - Secondary navigation (category strips, sub-menus) collapses to horizontal scroll on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all interactive components could not be fully extracted; the above represents best-effort based on common patterns
 - Error styling for form inputs (validation messages, error borders) was not reliably captured from the live site

@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Outland Living
-description: |
+name: "Outland Living"
+source_url: "https://outlandliving.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Deep navy (#2f4a7e) anchors every hero banner and call-to-action on a site built around the primal draw of an open flame on a back deck — a color family that runs from the darkest watch-dial blue (#1d2d5f) through the mid-tone steel of secondary UI (#3e5875) to the quiet haze of muted badge text (#98a7ba). The palette reads like dusk settling over a patio: near-black ink (#000a12) for headlines, cool grays (#444444, #9b9b9b) for body and caption copy, and a generous spread of soft neutrals (#f3f4f4, #f9fafb, #f6f6f6) that keep product photography — always fire pits glowing amber against evening skies — the loudest element on every viewport. A sharp yellow (#ffff00) appears sparingly for promotional callouts and sale badges, the only warm spike in an otherwise cool-temperature system. Typography pairs Gotham for display, navigation, and button labels with Source Sans Pro for body paragraphs and fine print — Gotham's geometric lowercase and squared counters lend industrial authority at 32–40px display sizes, while Source Sans Pro's open apertures maintain comfortable reading at 14–16px on product descriptions and FAQ accordions. Corner radii stay modest: product cards and image containers use `{rounded.sm}` (8px), buttons sit at `{rounded.xs}` (4px) for a squared-off, hardware-catalog feel, and only avatar circles and tag pills reach `{rounded.full}`. Spacing is utilitarian — `{spacing.lg}` (24px) between card grid items, `{spacing.section}` (64px) between page zones — letting the photography breathe without decorative filler. The star-rating glyphs rendered by JudgemeStar sit inline with review counts in `{typography.caption}`, tying social proof tightly to the product card without extra visual weight. Navigation is a single sticky bar at 64px height, collapsing to a hamburger drawer on mobile, with the Outland Living wordmark left-aligned in Gotham Medium and cart/account icons right-aligned in the same navy primary.
 
 colors:
@@ -568,6 +571,8 @@ components:
 - Spec tables remain full-width but gain horizontal scroll on mobile rather than stacking rows.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No CSS custom-property tokens or Shopify theme variables were extractable from the static page load; color values are inferred from computed styles.
 - Gotham web-font weights beyond Book (400) and Medium (500) could not be confirmed — Bold (700) may exist in the actual font files but was not observed in extracted stacks.

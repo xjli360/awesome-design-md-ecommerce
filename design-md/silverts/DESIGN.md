@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Silverts
-description: A brand built on the quiet dignity of adaptive clothing, Silverts uses a deep navy anchor (#15234a) that reads as trustworthy and institutional, not medical or sterile. The palette is dominated by near-blacks (#191919, #262626, #121212) and warm off-whites (#fafafa, #f8f8f8, #f3f3f3) that create a high-contrast, legible environment for an older audience. Two red accents — a bright, urgent #d72c0d and a softer #e8144b — serve as the primary action signals, appearing on CTAs, sale badges, and critical navigation elements. A surprising inclusion of #e0b5b2, a dusty rose, and #fff4fa, a blush white, softens the otherwise utilitarian palette, hinting at the brand's care-focused mission. Typography relies on AGaramondPro for display headings, lending a classic, almost editorial weight to category titles, while Assistant and Figtree handle body and interface copy in clean sans-serif. The site is a Shopify storefront, so checkout flows inherit Shopify's native button and form styling, but the brand's own components favor generous padding, clear hierarchy, and high-contrast text on soft surfaces. Cards use a subtle {rounded.sm} radius, while CTAs and badges use {rounded.md} — never fully pill-shaped, preserving a sense of grounded reliability over trendiness. The overall mood is one of calm authority: a place where function is foregrounded, but the warm rose and cream tones remind you that the user is always a person, not a patient.
+name: "Silverts"
+source_url: "https://silverts.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A brand built on the quiet dignity of adaptive clothing, Silverts uses a deep navy anchor (#15234a) that reads as trustworthy and institutional, not medical or sterile. The palette is dominated by near-blacks (#191919, #262626, #121212) and warm off-whites (#fafafa, #f8f8f8, #f3f3f3) that create a high-contrast, legible environment for an older audience. Two red accents — a bright, urgent #d72c0d and a softer #e8144b — serve as the primary action signals, appearing on CTAs, sale badges, and critical navigation elements. A surprising inclusion of #e0b5b2, a dusty rose, and #fff4fa, a blush white, softens the otherwise utilitarian palette, hinting at the brand's care-focused mission. Typography relies on AGaramondPro for display headings, lending a classic, almost editorial weight to category titles, while Assistant and Figtree handle body and interface copy in clean sans-serif. The site is a Shopify storefront, so checkout flows inherit Shopify's native button and form styling, but the brand's own components favor generous padding, clear hierarchy, and high-contrast text on soft surfaces. Cards use a subtle {rounded.sm} radius, while CTAs and badges use {rounded.md} — never fully pill-shaped, preserving a sense of grounded reliability over trendiness. The overall mood is one of calm authority: a place where function is foregrounded, but the warm rose and cream tones remind you that the user is always a person, not a patient.
 
 colors:
   primary: "#15234a"
@@ -415,6 +419,8 @@ components:
 - Hero banner text and CTAs stack vertically on mobile, with reduced padding
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for most components could not be reliably extracted from the static HTML/CSS analysis; the values above are inferred from common patterns and should be validated against the live site's CSS
 - Error styling for form inputs (error messages, validation icons) was not observed in the extracted data

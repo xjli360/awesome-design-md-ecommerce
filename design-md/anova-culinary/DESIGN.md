@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Anova Culinary
-description: A precision-first brand that lives at the intersection of sous-vide science and home-kitchen warmth. Anova Culinary's design system is anchored on a crisp white canvas (`#ffffff`) and a bold, appetite-waking orange (`#ff8b01`) that serves as the primary voltage for every purchase CTA, navigation accent, and product-highlight badge. The palette draws from the kitchen itself — cool steel grays (`#d9d9d9`, `#dedede`, `#eceef0`) for surfaces and hairlines, deep charcoal (`#2b2b2b`) for body text, and near-black (`#121212`) for high-impact headlines. A secondary blue spectrum (`#256bc1`, `#1990c6`, `#136f99`) echoes the precision of water-temperature control, appearing in secondary buttons, informational badges, and link states. The typography runs Pluto Sans and Pluto Sans Light — a geometric humanist face that feels both technical and approachable, with display sizes at 28–32px and body text at 14–16px. Rounded corners are generous but not pillowy: cards use `{rounded.md}` (12px), buttons use `{rounded.sm}` (8px), and only search inputs and badge elements reach `{rounded.full}`. The system trusts generous whitespace (`{spacing.section}` at 64px) and high-contrast photography over decorative flourishes, letting the product — a precision cooker, a combi oven, a perfectly cooked steak — speak for itself.
+name: "Anova Culinary"
+source_url: "https://anovaculinary.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A precision-first brand that lives at the intersection of sous-vide science and home-kitchen warmth. Anova Culinary's design system is anchored on a crisp white canvas (`#ffffff`) and a bold, appetite-waking orange (`#ff8b01`) that serves as the primary voltage for every purchase CTA, navigation accent, and product-highlight badge. The palette draws from the kitchen itself — cool steel grays (`#d9d9d9`, `#dedede`, `#eceef0`) for surfaces and hairlines, deep charcoal (`#2b2b2b`) for body text, and near-black (`#121212`) for high-impact headlines. A secondary blue spectrum (`#256bc1`, `#1990c6`, `#136f99`) echoes the precision of water-temperature control, appearing in secondary buttons, informational badges, and link states. The typography runs Pluto Sans and Pluto Sans Light — a geometric humanist face that feels both technical and approachable, with display sizes at 28–32px and body text at 14–16px. Rounded corners are generous but not pillowy: cards use `{rounded.md}` (12px), buttons use `{rounded.sm}` (8px), and only search inputs and badge elements reach `{rounded.full}`. The system trusts generous whitespace (`{spacing.section}` at 64px) and high-contrast photography over decorative flourishes, letting the product — a precision cooker, a combi oven, a perfectly cooked steak — speak for itself.
 
 colors:
   primary: "#ff8b01"
@@ -495,6 +499,8 @@ components:
 - Hero banner text overlays collapse to below-image placement on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact hover state colors for secondary and ghost buttons (assumed from brand behavior)
 - Focus ring styles and colors for keyboard navigation

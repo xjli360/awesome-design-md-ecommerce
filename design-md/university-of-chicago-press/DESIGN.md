@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: University of Chicago Press
-description: A scholarly marketplace where a deep teal (#007396) and a muted aubergine (#59315f) bracket the intellectual seriousness of the institution — the teal appears on primary CTAs, search bars, and category headers, while the aubergine surfaces in footer blocks and secondary navigation, creating a quiet tension between the empirical and the humanistic. The canvas is a warm off-white (#f4f4f4) rather than pure white, lending the reading experience the weight of paper stock rather than screen glare. Type is set in HCo Gotham for display and body, with Attleboro Gothic WTF Regular reserved for academic series titles and chapter headings — a deliberate shift from the sans-serif default that signals scholarly lineage. Buttons are softly rectangular ({rounded.sm}), never pill-shaped, and the search bar sits in a persistent top bar with a teal outline that recalls the spine of a cloth-bound book. The color palette is unusually broad for a university press — the extracted list includes a cyan accent (#4ad5ff), a warm gold (#d39e00), and a muted rose (#e83e8c) — but these are likely used sparingly for callouts, price tags, and series badges rather than as primary brand voltages. The overall effect is that of a library reading room translated into a web interface: restrained, authoritative, but with small moments of unexpected color that reward close attention.
+name: "University of Chicago Press"
+source_url: "https://press.uchicago.edu"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A scholarly marketplace where a deep teal (#007396) and a muted aubergine (#59315f) bracket the intellectual seriousness of the institution — the teal appears on primary CTAs, search bars, and category headers, while the aubergine surfaces in footer blocks and secondary navigation, creating a quiet tension between the empirical and the humanistic. The canvas is a warm off-white (#f4f4f4) rather than pure white, lending the reading experience the weight of paper stock rather than screen glare. Type is set in HCo Gotham for display and body, with Attleboro Gothic WTF Regular reserved for academic series titles and chapter headings — a deliberate shift from the sans-serif default that signals scholarly lineage. Buttons are softly rectangular ({rounded.sm}), never pill-shaped, and the search bar sits in a persistent top bar with a teal outline that recalls the spine of a cloth-bound book. The color palette is unusually broad for a university press — the extracted list includes a cyan accent (#4ad5ff), a warm gold (#d39e00), and a muted rose (#e83e8c) — but these are likely used sparingly for callouts, price tags, and series badges rather than as primary brand voltages. The overall effect is that of a library reading room translated into a web interface: restrained, authoritative, but with small moments of unexpected color that reward close attention.
 
 colors:
   primary: "#007396"
@@ -372,6 +376,8 @@ components:
 - Accordion components are used for filter panels on mobile; on desktop they remain expanded
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for tertiary buttons (underline vs. color change) could not be confirmed from extracted data
 - Error state styling for forms beyond border color (error message typography, icon placement) is not reliably extracted

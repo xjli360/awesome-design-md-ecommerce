@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Jamie Kay
-description: A muted gold #977547, pulled from the brand's meta theme-color, sets the tone for Jamie Kay — not as a primary CTA voltage but as a quiet atmospheric warmth that tints buttons, borders, and the soft glow of a site built for new parents. The true primary is a deep crimson #cc142b, a bold but controlled accent that appears on sale badges, cart indicators, and the rare moment the brand needs to say "look here." The canvas is a creamy off-white #fffcf9, warmer than hospital white, while the secondary surface #f0ede5 reads like unbleached linen. Typography splits between two worlds: EB Garamond for display headings — a serif with genuine gravitas, not a decorative afterthought — and Inter for body and UI, giving the product pages a clean, legible structure that doesn't compete with the photography. The site's signature move is the product-card grid: softly rounded images at {rounded.md}, a crimson "SALE" badge pinned to the top-left corner, and a three-line price block that separates "was" from "now" with a hairline #e3dfd3 strike-through. Navigation is minimal — a left-aligned logo, a centered category strip (New Arrivals, Baby, Toddler, Sale), and a right-aligned icon cluster (search, account, cart with a #cc142b dot). The footer runs six columns of thin links in #766456 on #f0ede5, ending with a newsletter signup that uses a pill-shaped input and a gold #977547 submit button. There is no dark mode, no hero carousel, no video — just still photography of babies in organic cotton, held by mothers whose hands are always in frame.
+name: "Jamie Kay"
+source_url: "https://jamiekay.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A muted gold #977547, pulled from the brand's meta theme-color, sets the tone for Jamie Kay — not as a primary CTA voltage but as a quiet atmospheric warmth that tints buttons, borders, and the soft glow of a site built for new parents. The true primary is a deep crimson #cc142b, a bold but controlled accent that appears on sale badges, cart indicators, and the rare moment the brand needs to say "look here." The canvas is a creamy off-white #fffcf9, warmer than hospital white, while the secondary surface #f0ede5 reads like unbleached linen. Typography splits between two worlds: EB Garamond for display headings — a serif with genuine gravitas, not a decorative afterthought — and Inter for body and UI, giving the product pages a clean, legible structure that doesn't compete with the photography. The site's signature move is the product-card grid: softly rounded images at {rounded.md}, a crimson "SALE" badge pinned to the top-left corner, and a three-line price block that separates "was" from "now" with a hairline #e3dfd3 strike-through. Navigation is minimal — a left-aligned logo, a centered category strip (New Arrivals, Baby, Toddler, Sale), and a right-aligned icon cluster (search, account, cart with a #cc142b dot). The footer runs six columns of thin links in #766456 on #f0ede5, ending with a newsletter signup that uses a pill-shaped input and a gold #977547 submit button. There is no dark mode, no hero carousel, no video — just still photography of babies in organic cotton, held by mothers whose hands are always in frame.
 
 colors:
   primary: "#cc142b"
@@ -322,6 +326,8 @@ components:
 - Newsletter input and button stack vertically on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states** for product cards, nav links, and footer links could not be reliably extracted from the live site. The button-primary hover (#a81022) is inferred from typical darkening patterns.
 - **Error styling** for form inputs (validation errors, required field indicators) was not visible in the extracted data.

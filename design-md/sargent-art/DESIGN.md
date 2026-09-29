@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Sargent Art
-description: A vivid, no-nonsense art-supply brand that leads with a punchy #ff0375 accent — a hot pink that appears nowhere in the extracted grays, blues, and greens, yet is the single most distinctive color in the palette. This pink is the brand's voltage: it powers the primary CTA, the cart badge, and the sale flags, cutting through a mostly neutral canvas of #f1f1f1 and #ececf6. The typography stack is utilitarian — system fonts like Open Sans, Roboto, and Segoe UI — suggesting a brand that prioritizes legibility and fast loading over typographic personality. Buttons are softly rounded (`{rounded.sm}`), while product images sit in clean rectangles (`{rounded.none}`), letting the art itself provide the visual interest. The extracted hex list is heavy on Bootstrap alert colors (#116600, #004085, #155724, #0c5460, #856404, #721c24) and checkout-widget tones, indicating the site may use a framework base layer with the brand's true identity applied as an accent layer. The overall mood is functional and accessible — a tool brand that gets out of the way of the creative process, with the hot pink serving as the one moment of playful confidence.
+name: "Sargent Art"
+source_url: "https://www.sargentart.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A vivid, no-nonsense art-supply brand that leads with a punchy #ff0375 accent — a hot pink that appears nowhere in the extracted grays, blues, and greens, yet is the single most distinctive color in the palette. This pink is the brand's voltage: it powers the primary CTA, the cart badge, and the sale flags, cutting through a mostly neutral canvas of #f1f1f1 and #ececf6. The typography stack is utilitarian — system fonts like Open Sans, Roboto, and Segoe UI — suggesting a brand that prioritizes legibility and fast loading over typographic personality. Buttons are softly rounded (`{rounded.sm}`), while product images sit in clean rectangles (`{rounded.none}`), letting the art itself provide the visual interest. The extracted hex list is heavy on Bootstrap alert colors (#116600, #004085, #155724, #0c5460, #856404, #721c24) and checkout-widget tones, indicating the site may use a framework base layer with the brand's true identity applied as an accent layer. The overall mood is functional and accessible — a tool brand that gets out of the way of the creative process, with the hot pink serving as the one moment of playful confidence.
 
 colors:
   primary: "#ff0375"
@@ -318,6 +322,8 @@ components:
 - Search bar moves from inline in nav to full-width below nav on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and active states for most components could not be reliably extracted from the live site; the primary-active (#cc025e) is an inferred darkening of the hot pink
 - Error state styling for forms (text-input-error border color) is inferred from Bootstrap alert colors present in the extracted palette

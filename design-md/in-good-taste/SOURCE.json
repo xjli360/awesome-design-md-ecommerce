@@ -1,0 +1,890 @@
+{
+  "source_url": "https://ingoodtaste.com",
+  "final_url": "https://ingoodtaste.com/",
+  "captured_at": "2026-09-28T10:22:12.334112+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://ingoodtaste.com",
+      "final_url": "https://ingoodtaste.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "3147785e960cb38bd7671ed73f52db248209062741ee2f8590ebea0f1fb428c9",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css",
+      "final_url": "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "92b38c5e38fe2639a90fec978e50c356f95ae69bd6cfea18d04a154c9093599d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://ingoodtaste.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://ingoodtaste.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "be10bc4b16346e787891f1da5de658505019fcd30172651891a4bf550c948e36",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 55,
+      "sources": [
+        "https://ingoodtaste.com/",
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css",
+        "https://ingoodtaste.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#f94938": {
+      "count": 46,
+      "sources": [
+        "https://ingoodtaste.com/",
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 32,
+      "sources": [
+        "https://ingoodtaste.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#00000000": {
+      "count": 29,
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css",
+        "https://ingoodtaste.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 13,
+      "sources": [
+        "https://ingoodtaste.com/",
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#000000": {
+      "count": 10,
+      "sources": [
+        "https://ingoodtaste.com/",
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#faf3f1": {
+      "count": 10,
+      "sources": [
+        "https://ingoodtaste.com/",
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "#121212": {
+      "count": 9,
+      "sources": [
+        "https://ingoodtaste.com/",
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css",
+        "https://ingoodtaste.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 9,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#333333": {
+      "count": 8,
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#666666": {
+      "count": 6,
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#555555": {
+      "count": 6,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#020617": {
+      "count": 5,
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "#00000080": {
+      "count": 5,
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "#108474": {
+      "count": 4,
+      "sources": [
+        "https://ingoodtaste.com/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#1e1e1e": {
+      "count": 4,
+      "sources": [
+        "https://ingoodtaste.com/",
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "#605c5c": {
+      "count": 4,
+      "sources": [
+        "https://ingoodtaste.com/",
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "#d7d7d7": {
+      "count": 4,
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 3,
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "#111928": {
+      "count": 3,
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "#d3bea4": {
+      "count": 2,
+      "sources": [
+        "https://ingoodtaste.com/"
+      ]
+    },
+    "#f10528": {
+      "count": 2,
+      "sources": [
+        "https://ingoodtaste.com/"
+      ]
+    },
+    "#9ca3af": {
+      "count": 2,
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "#1b4c62": {
+      "count": 2,
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 2,
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "#e8a44b": {
+      "count": 2,
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "#888888": {
+      "count": 2,
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#00000033": {
+      "count": 2,
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://ingoodtaste.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#fbcd0a": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#a89cc8": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#c1e6e6": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#e44b3f": {
+      "count": 1,
+      "sources": [
+        "https://ingoodtaste.com/"
+      ]
+    },
+    "#e55454": {
+      "count": 1,
+      "sources": [
+        "https://ingoodtaste.com/"
+      ]
+    },
+    "#fdf1ef": {
+      "count": 1,
+      "sources": [
+        "https://ingoodtaste.com/"
+      ]
+    },
+    "#fafafa": {
+      "count": 1,
+      "sources": [
+        "https://ingoodtaste.com/"
+      ]
+    },
+    "#dd514a": {
+      "count": 1,
+      "sources": [
+        "https://ingoodtaste.com/"
+      ]
+    },
+    "#252728": {
+      "count": 1,
+      "sources": [
+        "https://ingoodtaste.com/"
+      ]
+    },
+    "#833ab4": {
+      "count": 1,
+      "sources": [
+        "https://ingoodtaste.com/"
+      ]
+    },
+    "#fd1d1d": {
+      "count": 1,
+      "sources": [
+        "https://ingoodtaste.com/"
+      ]
+    },
+    "#fcb045": {
+      "count": 1,
+      "sources": [
+        "https://ingoodtaste.com/"
+      ]
+    },
+    "#61a2c7": {
+      "count": 1,
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "#c1e0eb": {
+      "count": 1,
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "#5f1f5b": {
+      "count": 1,
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "#a85c9d": {
+      "count": 1,
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "#e8c7e8": {
+      "count": 1,
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "#d45e59": {
+      "count": 1,
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "#cc4e32": {
+      "count": 1,
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "#f4bc96": {
+      "count": 1,
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "#5d3091": {
+      "count": 1,
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "#c6b9d9": {
+      "count": 1,
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "#2b657c": {
+      "count": 1,
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "#a8d9e6": {
+      "count": 1,
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "#191818": {
+      "count": 1,
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 1,
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 1,
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "#fae5e3": {
+      "count": 1,
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Apple Color Emoji": [
+      "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+    ],
+    "Architects Daughter": [
+      "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+    ],
+    "Arial": [
+      "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Baskerville": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Consolas": [
+      "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+    ],
+    "Courier New": [
+      "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+    ],
+    "Helvetica": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons\" !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons' !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeStar": [
+      "https://ingoodtaste.com/"
+    ],
+    "JudgemeStar' !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Liberation Mono": [
+      "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+    ],
+    "Menlo": [
+      "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+    ],
+    "Monaco": [
+      "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+    ],
+    "Noto Color Emoji": [
+      "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+    ],
+    "Nunito Sans": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "SFMono-Regular": [
+      "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+    ],
+    "Segoe UI Emoji": [
+      "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+    ],
+    "Segoe UI Symbol": [
+      "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+    ],
+    "Sovana": [
+      "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+    ],
+    "Visby": [
+      "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+    ],
+    "cursive": [
+      "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+    ],
+    "monospace": [
+      "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "sans-serif": [
+      "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "swiper-icons": [
+      "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+    ],
+    "system-ui": [
+      "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+    ],
+    "ui-monospace": [
+      "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+    ],
+    "ui-sans-serif": [
+      "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://ingoodtaste.com/",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #F94938;--jdgm-secondary-color: #d3bea4;--jdgm-star-color: #F94938;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #F94938;--jdgm-paginate-color: #F94938;--jdgm-border-radius: 10;--jdgm-reviewer-name-color: #F94938"
+    },
+    {
+      "source": "https://ingoodtaste.com/",
+      "selector": "nd-size: cover; background-position: center; border-radius: 24px; overflow: hidden; width: 900px; max-width: 100%;\nwidth: 100%; height: 506px;\n\n    #template--1",
+      "declarations": "background-color: #faf3f1;\n        color: #1e1e1e;"
+    },
+    {
+      "source": "https://ingoodtaste.com/",
+      "selector": "#template--17530606649519__featured_products_QnwQB7 .featured-products__title strong,\n    #template--17530606649519__featured_products_QnwQB7 .featured-products",
+      "declarations": "color: #f94938;"
+    },
+    {
+      "source": "https://ingoodtaste.com/",
+      "selector": "#template--17530606649519__featured_products_QnwQB7 .product-card__button .btn:not([disabled])",
+      "declarations": "background-color: #f94938;\n        color: #ffffff;"
+    },
+    {
+      "source": "https://ingoodtaste.com/",
+      "selector": "#template--17530606649519__featured_products_QnwQB7 .swiper-btn",
+      "declarations": "border-color: #f94938;"
+    },
+    {
+      "source": "https://ingoodtaste.com/",
+      "selector": "#template--17530606649519__featured_products_QnwQB7 .swiper-btn:hover",
+      "declarations": "background-color: #f94938;"
+    },
+    {
+      "source": "https://ingoodtaste.com/",
+      "selector": "#section-template--17530606649519__media_text_pe4fC8 .media-text__button",
+      "declarations": "background-color: #f94938;\n            color: #ffffff;"
+    },
+    {
+      "source": "https://ingoodtaste.com/",
+      "selector": "#template--17530606649519__featured_products_Pq78LM",
+      "declarations": "background-color: #faf3f1;\n        color: #1e1e1e;"
+    },
+    {
+      "source": "https://ingoodtaste.com/",
+      "selector": "#template--17530606649519__featured_products_Pq78LM .featured-products__title strong,\n    #template--17530606649519__featured_products_Pq78LM .featured-products",
+      "declarations": "color: #f94938;"
+    },
+    {
+      "source": "https://ingoodtaste.com/",
+      "selector": "#template--17530606649519__featured_products_Pq78LM .product-card__button .btn:not([disabled])",
+      "declarations": "background-color: #f94938;\n        color: #ffffff;"
+    },
+    {
+      "source": "https://ingoodtaste.com/",
+      "selector": "#template--17530606649519__featured_products_Pq78LM .swiper-btn",
+      "declarations": "border-color: #f94938;"
+    },
+    {
+      "source": "https://ingoodtaste.com/",
+      "selector": "#template--17530606649519__featured_products_Pq78LM .swiper-btn:hover",
+      "declarations": "background-color: #f94938;"
+    },
+    {
+      "source": "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-feature-settings:inherit;font-variation-settings:inherit;font-size:100%;font-weight:inherit;line-height:inherit;letter-spacing:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css",
+      "selector": "button,input:where([type=button]),input:where([type=reset]),input:where([type=submit])",
+      "declarations": "-webkit-appearance:button;background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css",
+      "selector": ":root",
+      "declarations": "--color-body-bg: #ffffff;--color_1: #1b4c62;--color_1_secondary: #61A2C7;--color_1_tertiary: #C1E0EB;--color_2: #5F1F5B;--color_2_secondary: #A85C9D;--color_2_tertiary: #E8C7E8;--color_3: #D45E59;--color_3_secondary: #020617;--color_3_tertiary: #FFFFFF;--color_4: #CC4E32;--color_4_secondary: #F4BC96;--color_4_tertiary: #FFFFFF;--color_5: #5D3091;--color_5_secondary: #C6B9D9;--color_5_tertiary: #FFFFFF;--color_6: #2B657C;--color_6_secondary: #A8D9E6;--color_6_tertiary: #FFFFFF;--color-white: #ffffff;--color-black: #020617;--small-resolution: 480px;--mobile-resolution: 768px;--tablet-resolution: 976px;--desktop-resolution: 1300px;--theme-bg: #ffffff;--theme-text: #020617;--theme-button: #1b4c6"
+    },
+    {
+      "source": "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css",
+      "selector": "body",
+      "declarations": "font-size:1.6rem;line-height:1.5;background:var(--color-body-bg);color:var(--color-body-content);font-family:Visby,Arial,sans-serif;max-width:100%"
+    },
+    {
+      "source": "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css",
+      "selector": ".border-\\[var\\(--button-background\\)\\]",
+      "declarations": "border-color:var(--button-background)"
+    },
+    {
+      "source": "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css",
+      "selector": ".bg-\\[var\\(--button-background\\)\\]",
+      "declarations": "background-color:var(--button-background)"
+    },
+    {
+      "source": "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css",
+      "selector": ".text-\\[color\\:var\\(--button-text\\)\\]",
+      "declarations": "color:var(--button-text)"
+    },
+    {
+      "source": "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css",
+      "selector": ".btn",
+      "declarations": "display:inline-block;white-space:nowrap;text-decoration:none;border-radius:5rem;padding:0 2.4rem;line-height:4.4rem;font-size:1.6rem;font-weight:700;border:2px solid transparent;background-color:#f94938;color:#fff;min-width:10rem;text-align:center"
+    },
+    {
+      "source": "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css",
+      "selector": ".btn--secondary",
+      "declarations": "background-color:#fff;color:#000;border:1px solid #000000"
+    },
+    {
+      "source": "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css",
+      "selector": ".btn:hover:not([disabled])",
+      "declarations": "border-color:#f94938!important;background-color:#fff!important;color:#f94938!important"
+    },
+    {
+      "source": "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css",
+      "selector": ".product-card",
+      "declarations": "border-radius:1.2rem;overflow:hidden;border:2px solid #F94938;padding:0;background-color:#fff;min-height:100%;display:flex;flex-direction:column"
+    },
+    {
+      "source": "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css",
+      "selector": ".product-card__caption",
+      "declarations": "background-color:#fff;padding:2.4rem 2.4rem 0;text-align:center"
+    },
+    {
+      "source": "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css",
+      "selector": ":root",
+      "declarations": "--swiper-theme-color:#007aff"
+    },
+    {
+      "source": "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css",
+      "selector": ":root",
+      "declarations": "--swiper-navigation-size:44px"
+    },
+    {
+      "source": "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css",
+      "selector": ".swiper-button-next,.swiper-button-prev",
+      "declarations": "position:absolute;top:50%;width:calc(var(--swiper-navigation-size) / 44 * 27);height:var(--swiper-navigation-size);margin-top:calc(0px - var(--swiper-navigation-size) / 2);z-index:10;cursor:pointer;display:flex;align-items:center;justify-content:center;color:var(--swiper-navigation-color, var(--swiper-theme-color))"
+    },
+    {
+      "source": "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css",
+      "selector": ".swiper-button-next:after,.swiper-button-prev:after",
+      "declarations": "font-family:swiper-icons;font-size:var(--swiper-navigation-size);letter-spacing:0;text-transform:none;font-variant:initial;line-height:1"
+    },
+    {
+      "source": "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css",
+      "selector": ".swiper-button-next.swiper-button-white,.swiper-button-prev.swiper-button-white",
+      "declarations": "--swiper-navigation-color:#ffffff"
+    },
+    {
+      "source": "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css",
+      "selector": ".swiper-button-next.swiper-button-black,.swiper-button-prev.swiper-button-black",
+      "declarations": "--swiper-navigation-color:#000000"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "In Good Taste Wines | Tasting Flights & Wine Gifts",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ingoodtaste.com/",
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ingoodtaste.com/",
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ingoodtaste.com/",
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css",
+        "https://ingoodtaste.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ingoodtaste.com/",
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ingoodtaste.com/",
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ingoodtaste.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ingoodtaste.com/",
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css",
+        "https://ingoodtaste.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.accent-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "colors.accent-terracotta": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "colors.accent-plum": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "colors.border-black": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ingoodtaste.com/cdn/shop/t/178/assets/main-DwacsNfb.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.advent-calendar-tile": {
+      "status": "inferred"
+    }
+  }
+}

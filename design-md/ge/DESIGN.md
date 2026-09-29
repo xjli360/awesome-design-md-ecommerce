@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: GE
-description: GE Appliances anchors its entire digital palette in a saturated navy — #092c74 — that the General Electric marque has carried since the mid-twentieth century, now applied as solid rectangular fills across the persistent navigation bar, primary CTAs, and major section headings with no gradient softening or transparency. The sharpness is deliberate: interactive corners default to `{rounded.none}`, a hard-edge philosophy that separates GE from the rounded, consumer-friendly conventions of post-2020 direct-to-consumer entrants. The effect reads as American institutional confidence — reliable infrastructure, not lifestyle aspiration.
+name: "GE"
+source_url: "https://www.geappliances.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  GE Appliances anchors its entire digital palette in a saturated navy — #092c74 — that the General Electric marque has carried since the mid-twentieth century, now applied as solid rectangular fills across the persistent navigation bar, primary CTAs, and major section headings with no gradient softening or transparency. The sharpness is deliberate: interactive corners default to `{rounded.none}`, a hard-edge philosophy that separates GE from the rounded, consumer-friendly conventions of post-2020 direct-to-consumer entrants. The effect reads as American institutional confidence — reliable infrastructure, not lifestyle aspiration.
 
   Two custom web fonts structure the type system. Effra, a geometric humanist sans with open counters and slightly mechanical strokes, handles display headings and button labels — its uppercase tracking giving CTAs a catalog-grade authority. Nudista Web, a more condensed humanist with stronger x-height contrast, carries body copy and product specification tables, together producing the layered density appropriate when refrigerator capacity, energy certification, and cubic footage share a card with photography and pricing.
 
@@ -398,6 +402,8 @@ components:
 - Footer five-column grid collapses to two columns at tablet, single-column accordion at mobile with headings as expand triggers
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact border-radius values not confirmed from CSS extraction; `{rounded.sm}` (8px) for product cards and `{rounded.none}` for buttons are inferred from visual inspection of the live site
 - Font weight and size values for Effra and Nudista Web are estimated from brand typographic conventions; no raw CSS pixel declarations were extracted

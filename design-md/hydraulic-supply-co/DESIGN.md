@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Hydraulic Supply Co
-description: Every interaction with Hydraulic Supply Co begins at a search bar — not a marketing hero, not a lifestyle image, but a direct query field for cylinder bores, fitting threads, and manifold assemblies. The confirmed palette anchors on `#313131`, a deep charcoal that runs through headings, data labels, and navigation text with the same no-ceremony weight you'd find printed on a parts-room shelf tag. System fonts carry all typographic work — no custom brand face was loaded, signaling a site built for procurement speed over brand expression. Product cards carry dense specification grids rather than aspirational copy: operating pressure in bar, bore diameter in millimeters, connection type in ISO standard codes. The component vocabulary reads closer to enterprise ERP than consumer e-commerce — sortable data tables, paginated catalog views, and request-for-quote flows rather than impulse add-to-cart paths. Corners stay angular throughout, with minimal radii (`{rounded.sm}` at most on cards and inputs) that match the industrial geometry of the products sold. The grid tightens at every breakpoint to preserve horizontal data density — a pneumatic cylinder datasheet needs eight columns to remain readable without column collapse. Badge treatments mark items as in-stock, on-lead-time, or end-of-life, and these status signals carry more visual weight than any promotional callout. Trust is communicated through legibility and completeness: the precision of a well-organized parts catalog is itself the brand promise.
+name: "Hydraulic Supply Co"
+source_url: "https://www.hydraulic-supply.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Every interaction with Hydraulic Supply Co begins at a search bar — not a marketing hero, not a lifestyle image, but a direct query field for cylinder bores, fitting threads, and manifold assemblies. The confirmed palette anchors on `#313131`, a deep charcoal that runs through headings, data labels, and navigation text with the same no-ceremony weight you'd find printed on a parts-room shelf tag. System fonts carry all typographic work — no custom brand face was loaded, signaling a site built for procurement speed over brand expression. Product cards carry dense specification grids rather than aspirational copy: operating pressure in bar, bore diameter in millimeters, connection type in ISO standard codes. The component vocabulary reads closer to enterprise ERP than consumer e-commerce — sortable data tables, paginated catalog views, and request-for-quote flows rather than impulse add-to-cart paths. Corners stay angular throughout, with minimal radii (`{rounded.sm}` at most on cards and inputs) that match the industrial geometry of the products sold. The grid tightens at every breakpoint to preserve horizontal data density — a pneumatic cylinder datasheet needs eight columns to remain readable without column collapse. Badge treatments mark items as in-stock, on-lead-time, or end-of-life, and these status signals carry more visual weight than any promotional callout. Trust is communicated through legibility and completeness: the precision of a well-organized parts catalog is itself the brand promise.
 
 colors:
   primary: "#1e4fa0"
@@ -354,6 +358,8 @@ components:
 - Footer link groups → stacked single-column with accordion-collapsed sections on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one hex value (`#313131`) was extracted; the primary accent (`{colors.primary}` set to `#1e4fa0`) is inferred and must be validated against the live site
 - All secondary palette colors (surface, status badges, primary hover/active states) are derived or inferred — none confirmed by extraction

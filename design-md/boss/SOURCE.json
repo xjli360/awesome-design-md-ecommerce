@@ -1,0 +1,626 @@
+{
+  "source_url": "https://www.boss.info",
+  "final_url": "https://www.boss.info/global/",
+  "captured_at": "2026-09-28T04:06:41.384620+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.boss.info",
+      "final_url": "https://www.boss.info/global/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "4be1ce5b51aa1e5702e28f8d3fa2eadc7d97809ccce19fd389222cae98de02f9",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://static.roland.com/global/css/base.css",
+      "final_url": "https://static.roland.com/global/css/base.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7a124e87276ca47a56566bee760a86f6da17ad802e4313a1cf6db8662f54ceae",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://static.roland.com/global/css/nav/navigation.css",
+      "final_url": "https://static.roland.com/global/css/nav/navigation.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "78384d317ed87138a719d6a744d8061905ae0a14b668fb55004af547c971bc89",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.boss.info/CMSPages/GetResource.ashx?stylesheetfile=/App_Themes/RolandComSite2/css/base.css",
+      "final_url": "https://www.boss.info/CMSPages/GetResource.ashx?stylesheetfile=/App_Themes/RolandComSite2/css/base.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "f5d752c2ee9d7a48ab06f34b4efcf0f2d6a9b52088e8e9e1113c302a2439af46",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.boss.info/CMSPages/GetResource.ashx?stylesheetfile=/App_Themes/RolandComSite2/css/nav/navigation.css",
+      "final_url": "https://www.boss.info/CMSPages/GetResource.ashx?stylesheetfile=/App_Themes/RolandComSite2/css/nav/navigation.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "d713f6f42cc9b0ade27e639833ca6c709e44892fd7fc16de28f05a64e234d590",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://static.roland.com/global/css/noscript.css",
+      "final_url": "https://static.roland.com/global/css/noscript.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d9b2ff020aac94d687b2a20fea67170355dcc3d55d058da3ecc4c4d8689a1e3d",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 52,
+      "sources": [
+        "https://static.roland.com/global/css/base.css",
+        "https://static.roland.com/global/css/nav/navigation.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 35,
+      "sources": [
+        "https://static.roland.com/global/css/base.css",
+        "https://static.roland.com/global/css/nav/navigation.css",
+        "https://www.boss.info/CMSPages/GetResource.ashx?stylesheetfile=/App_Themes/RolandComSite2/css/base.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 30,
+      "sources": [
+        "https://static.roland.com/global/css/base.css",
+        "https://static.roland.com/global/css/nav/navigation.css",
+        "https://www.boss.info/CMSPages/GetResource.ashx?stylesheetfile=/App_Themes/RolandComSite2/css/base.css"
+      ]
+    },
+    "#ff5a00": {
+      "count": 28,
+      "sources": [
+        "https://static.roland.com/global/css/base.css",
+        "https://static.roland.com/global/css/nav/navigation.css",
+        "https://www.boss.info/CMSPages/GetResource.ashx?stylesheetfile=/App_Themes/RolandComSite2/css/base.css"
+      ]
+    },
+    "#0064ff": {
+      "count": 26,
+      "sources": [
+        "https://static.roland.com/global/css/base.css",
+        "https://static.roland.com/global/css/nav/navigation.css",
+        "https://www.boss.info/CMSPages/GetResource.ashx?stylesheetfile=/App_Themes/RolandComSite2/css/base.css"
+      ]
+    },
+    "#999999": {
+      "count": 15,
+      "sources": [
+        "https://static.roland.com/global/css/base.css",
+        "https://static.roland.com/global/css/nav/navigation.css",
+        "https://www.boss.info/CMSPages/GetResource.ashx?stylesheetfile=/App_Themes/RolandComSite2/css/base.css"
+      ]
+    },
+    "#666666": {
+      "count": 9,
+      "sources": [
+        "https://static.roland.com/global/css/base.css",
+        "https://static.roland.com/global/css/nav/navigation.css"
+      ]
+    },
+    "#333333": {
+      "count": 9,
+      "sources": [
+        "https://static.roland.com/global/css/base.css",
+        "https://static.roland.com/global/css/nav/navigation.css"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 5,
+      "sources": [
+        "https://static.roland.com/global/css/base.css",
+        "https://static.roland.com/global/css/nav/navigation.css"
+      ]
+    },
+    "#262626": {
+      "count": 4,
+      "sources": [
+        "https://static.roland.com/global/css/nav/navigation.css"
+      ]
+    },
+    "#808080": {
+      "count": 3,
+      "sources": [
+        "https://static.roland.com/global/css/base.css",
+        "https://static.roland.com/global/css/nav/navigation.css",
+        "https://www.boss.info/CMSPages/GetResource.ashx?stylesheetfile=/App_Themes/RolandComSite2/css/base.css"
+      ]
+    },
+    "#141414": {
+      "count": 3,
+      "sources": [
+        "https://static.roland.com/global/css/base.css",
+        "https://static.roland.com/global/css/nav/navigation.css"
+      ]
+    },
+    "#d5d5d5": {
+      "count": 3,
+      "sources": [
+        "https://www.boss.info/CMSPages/GetResource.ashx?stylesheetfile=/App_Themes/RolandComSite2/css/base.css"
+      ]
+    },
+    "#212121": {
+      "count": 2,
+      "sources": [
+        "https://static.roland.com/global/css/base.css"
+      ]
+    },
+    "#0c0c0c": {
+      "count": 2,
+      "sources": [
+        "https://static.roland.com/global/css/nav/navigation.css",
+        "https://www.boss.info/CMSPages/GetResource.ashx?stylesheetfile=/App_Themes/RolandComSite2/css/base.css"
+      ]
+    },
+    "#151515": {
+      "count": 2,
+      "sources": [
+        "https://static.roland.com/global/css/nav/navigation.css"
+      ]
+    },
+    "#ffff00": {
+      "count": 1,
+      "sources": [
+        "https://static.roland.com/global/css/base.css"
+      ]
+    },
+    "#c0c0c0": {
+      "count": 1,
+      "sources": [
+        "https://static.roland.com/global/css/base.css"
+      ]
+    },
+    "#ff3c00": {
+      "count": 1,
+      "sources": [
+        "https://static.roland.com/global/css/base.css"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 1,
+      "sources": [
+        "https://static.roland.com/global/css/base.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 1,
+      "sources": [
+        "https://static.roland.com/global/css/base.css"
+      ]
+    },
+    "#aeaeae": {
+      "count": 1,
+      "sources": [
+        "https://static.roland.com/global/css/base.css"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 1,
+      "sources": [
+        "https://static.roland.com/global/css/nav/navigation.css"
+      ]
+    },
+    "#464646": {
+      "count": 1,
+      "sources": [
+        "https://static.roland.com/global/css/nav/navigation.css"
+      ]
+    }
+  },
+  "font_families": {
+    "glyphicon": [
+      "https://static.roland.com/global/css/base.css",
+      "https://static.roland.com/global/css/nav/navigation.css",
+      "https://www.boss.info/CMSPages/GetResource.ashx?stylesheetfile=/App_Themes/RolandComSite2/css/base.css"
+    ],
+    "monospace": [
+      "https://static.roland.com/global/css/base.css"
+    ],
+    "sans-serif": [
+      "https://static.roland.com/global/css/base.css"
+    ],
+    "serif": [
+      "https://static.roland.com/global/css/base.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://static.roland.com/global/css/base.css",
+      "selector": "button, input, select, textarea",
+      "declarations": "font-family: inherit; font-size: 100%; margin: 0; -webkit-appearance: none; border-radius: 0; -webkit-border-radius: 0; -moz-border-radius: 0"
+    },
+    {
+      "source": "https://static.roland.com/global/css/base.css",
+      "selector": "body",
+      "declarations": "color: #000; width: 100%; height: auto; background: url(//static.roland.com/global/images/background.png) repeat-y center top #e5e5e5"
+    },
+    {
+      "source": "https://static.roland.com/global/css/base.css",
+      "selector": ".button-play",
+      "declarations": "font-style: normal; text-indent: .5em; text-align: center; text-decoration: none; color: #fff; display: block; width: 75px; height: 75px; border: 5px solid #fff; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; -o-box-sizing: border-box; -ms-box-sizing: border-box; box-sizing: border-box; border-radius: 37.5px; -webkit-border-radius: 37.5px; -moz-border-radius: 37.5px"
+    },
+    {
+      "source": "https://static.roland.com/global/css/base.css",
+      "selector": ".button-play:before",
+      "declarations": "content: \"\\e60a\"; font-family: 'glyphicon'; font-size: 33px; font-size: 1.65rem; line-height: 65px"
+    },
+    {
+      "source": "https://static.roland.com/global/css/base.css",
+      "selector": ".button-up",
+      "declarations": "font-style: normal; text-align: center; text-decoration: none; color: #000; display: block; width: 60px; height: 60px; border: 1px solid #fff; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; -o-box-sizing: border-box; -ms-box-sizing: border-box; box-sizing: border-box; border-radius: 29.5px; -webkit-border-radius: 29.5px; -moz-border-radius: 29.5px; transition-duration: .3s; -webkit-transition-duration: .3s; -moz-transition-duration: .3s"
+    },
+    {
+      "source": "https://static.roland.com/global/css/base.css",
+      "selector": ".button-up:before",
+      "declarations": "content: \"\\e610\"; font-family: 'glyphicon'; font-size: 19px; font-size: .95rem; line-height: 58px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale"
+    },
+    {
+      "source": "https://static.roland.com/global/css/base.css",
+      "selector": ".button-up:hover",
+      "declarations": "background-color: #fff"
+    },
+    {
+      "source": "https://static.roland.com/global/css/base.css",
+      "selector": ".button-up:hover:before",
+      "declarations": "color: #ff5a00"
+    },
+    {
+      "source": "https://static.roland.com/global/css/base.css",
+      "selector": ".boss-global .button-up:hover:before",
+      "declarations": "color: #0064ff"
+    },
+    {
+      "source": "https://static.roland.com/global/css/base.css",
+      "selector": ".billboard-headline h1, .billboard-headline h2, .billboard-headline p",
+      "declarations": "color: #fff"
+    },
+    {
+      "source": "https://static.roland.com/global/css/base.css",
+      "selector": ".billboard-headline-black h1",
+      "declarations": "color: #000"
+    },
+    {
+      "source": "https://static.roland.com/global/css/base.css",
+      "selector": ".billboard-headline-shoulder h1",
+      "declarations": "font-size: 28px; font-size: 1.4rem; font-weight: 300; line-height: 1; text-align: right; color: #000"
+    },
+    {
+      "source": "https://static.roland.com/global/css/base.css",
+      "selector": "#productheader, #contentheader",
+      "declarations": "position: relative; left: auto; margin: 0 auto; width: 100%; min-width: 1024px; max-width: 1600px; height: 50px; background-color: #fff; z-index: 5; border-bottom: 1px solid #e0e0e0"
+    },
+    {
+      "source": "https://static.roland.com/global/css/base.css",
+      "selector": "#productheader h2 a, #contentheader h2 a",
+      "declarations": "color: #666; text-decoration: none; display: table-cell; height: 50px; cursor: default; vertical-align: middle"
+    },
+    {
+      "source": "https://static.roland.com/global/css/base.css",
+      "selector": "ctheader .bc-container:hover #ph-home:before, #contentheader .bc-container:hover #ph-home:before, #productheader .bc-container:hover #ch-home:before, #contenthe",
+      "declarations": "color: #ff5a00"
+    },
+    {
+      "source": "https://static.roland.com/global/css/base.css",
+      "selector": "#productheader #ph-home, #contentheader #ph-home, #productheader #ch-home, #contentheader #ch-home",
+      "declarations": "text-align: left; text-indent: 100%; white-space: nowrap; text-decoration: none; color: #999; display: block; position: relative; left: 29px; top: 11px; width: 27px; height: 28px; overflow: hidden"
+    },
+    {
+      "source": "https://static.roland.com/global/css/base.css",
+      "selector": "#productheader #ph-home:before, #contentheader #ph-home:before, #productheader #ch-home:before, #contentheader #ch-home:before",
+      "declarations": "content: \"\\e604\"; font-family: 'glyphicon'; font-size: 25px; font-size: 1.25rem; text-indent: 0; line-height: 28px; position: absolute; left: 1px; top: 1px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale"
+    },
+    {
+      "source": "https://static.roland.com/global/css/base.css",
+      "selector": "#productheader #ph-home:hover:before, #contentheader #ph-home:hover:before, #productheader #ch-home:hover:before, #contentheader #ch-home:hover:before",
+      "declarations": "color: #ff5a00"
+    },
+    {
+      "source": "https://static.roland.com/global/css/base.css",
+      "selector": "#productheader .breadcrumbs, #contentheader .breadcrumbs, #productheader .andmore .morebar, #contentheader .andmore .morebar",
+      "declarations": "position: absolute; left: 0; top: 50px; width: 100%; max-width: 1600px; height: 0; padding-left: 37px; background-color: #999; background-color: rgba(153, 153, 153, 0.95); float: left; overflow: hidden; transition-duration: .3s; -webkit-transition-duration: .3s; -moz-transition-duration: .3s; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; -o-box-sizing: border-box; -ms-box-sizing: border-box; box-sizing: border-box"
+    },
+    {
+      "source": "https://static.roland.com/global/css/base.css",
+      "selector": "i a, #contentheader .andmore .morebar li a, #productheader .breadcrumbs li span, #contentheader .breadcrumbs li span, #productheader .andmore .morebar li span, ",
+      "declarations": "color: #fff; display: table-cell; height: 50px; vertical-align: middle"
+    },
+    {
+      "source": "https://static.roland.com/global/css/base.css",
+      "selector": "morebar li a:hover, #productheader .breadcrumbs li span:hover, #contentheader .breadcrumbs li span:hover, #productheader .andmore .morebar li span:hover, #conte",
+      "declarations": "color: #ff5a00"
+    },
+    {
+      "source": "https://static.roland.com/global/css/base.css",
+      "selector": "#productheader .breadcrumbs li strong, #contentheader .breadcrumbs li strong, #productheader .andmore .morebar li strong, #contentheader .andmore .morebar li st",
+      "declarations": "color: #ff5a00"
+    },
+    {
+      "source": "https://static.roland.com/global/css/base.css",
+      "selector": "#productheader .breadcrumbs li:before, #contentheader .breadcrumbs li:before, #productheader .andmore .morebar li:before, #contentheader .andmore .morebar li:be",
+      "declarations": "content: '\\e60e'; font-family: 'glyphicon'; font-size: 20px; font-size: 1rem; text-indent: 0; line-height: 50px; color: #fff; position: absolute; left: 2px; top: 0px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale"
+    },
+    {
+      "source": "https://static.roland.com/global/css/base.css",
+      "selector": "#productheader .icon-facebook, #productheader .icon-twitter, #productheader .icon-google, #productheader .icon-pinterest, #productheader .icon-youku, #producthe",
+      "declarations": "position: relative; color: #999; width: 27px; height: 28px; background: none"
+    },
+    {
+      "source": "https://static.roland.com/global/css/base.css",
+      "selector": "on-facebook:before, #productheader .icon-twitter:before, #productheader .icon-google:before, #productheader .icon-pinterest:before, #productheader .icon-youku:b",
+      "declarations": "font-family: 'glyphicon'; font-size: 25px; font-size: 1.25rem; text-indent: 0; line-height: 28px; text-decoration: none; position: absolute; left: 1px; top: 1px; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale"
+    },
+    {
+      "source": "https://static.roland.com/global/css/base.css",
+      "selector": "ader .icon-twitter:hover:before, #productheader .icon-google:hover:before, #productheader .icon-pinterest:hover:before, #productheader .icon-youku:hover:before,",
+      "declarations": "color: #ff5a00"
+    },
+    {
+      "source": "https://static.roland.com/global/css/base.css",
+      "selector": "#contentheader h2 a",
+      "declarations": "color: #000"
+    },
+    {
+      "source": "https://static.roland.com/global/css/base.css",
+      "selector": "#productnav li a, #contentnav li a",
+      "declarations": "color: #000"
+    },
+    {
+      "source": "https://static.roland.com/global/css/base.css",
+      "selector": "#productnav li a:hover, #contentnav li a:hover, #productnav li a.active, #contentnav li a.active",
+      "declarations": "color: #ff5a00"
+    },
+    {
+      "source": "https://static.roland.com/global/css/base.css",
+      "selector": "#productnav .andmore span:after, #contentnav .andmore span:after",
+      "declarations": "content: '\\e602'; font-family: 'glyphicon'; font-size: 11px; font-size: .55rem; display: inline-block; width: 10px; height: 10px; vertical-align: middle; margin-left: 10px; text-decoration: none; -webkit-font-smoothing: antialiased"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "BOSS - Global",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static.roland.com/global/css/base.css",
+        "https://static.roland.com/global/css/nav/navigation.css",
+        "https://www.boss.info/CMSPages/GetResource.ashx?stylesheetfile=/App_Themes/RolandComSite2/css/base.css"
+      ]
+    },
+    "colors.primary-pressed": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static.roland.com/global/css/base.css"
+      ]
+    },
+    "colors.secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static.roland.com/global/css/base.css",
+        "https://static.roland.com/global/css/nav/navigation.css",
+        "https://www.boss.info/CMSPages/GetResource.ashx?stylesheetfile=/App_Themes/RolandComSite2/css/base.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static.roland.com/global/css/base.css",
+        "https://static.roland.com/global/css/nav/navigation.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static.roland.com/global/css/base.css",
+        "https://static.roland.com/global/css/nav/navigation.css",
+        "https://www.boss.info/CMSPages/GetResource.ashx?stylesheetfile=/App_Themes/RolandComSite2/css/base.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static.roland.com/global/css/base.css",
+        "https://static.roland.com/global/css/nav/navigation.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static.roland.com/global/css/base.css",
+        "https://static.roland.com/global/css/nav/navigation.css"
+      ]
+    },
+    "colors.subtle": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static.roland.com/global/css/base.css",
+        "https://static.roland.com/global/css/nav/navigation.css",
+        "https://www.boss.info/CMSPages/GetResource.ashx?stylesheetfile=/App_Themes/RolandComSite2/css/base.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static.roland.com/global/css/base.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static.roland.com/global/css/base.css",
+        "https://static.roland.com/global/css/nav/navigation.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static.roland.com/global/css/base.css"
+      ]
+    },
+    "colors.surface-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static.roland.com/global/css/base.css",
+        "https://static.roland.com/global/css/nav/navigation.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static.roland.com/global/css/base.css",
+        "https://static.roland.com/global/css/nav/navigation.css",
+        "https://www.boss.info/CMSPages/GetResource.ashx?stylesheetfile=/App_Themes/RolandComSite2/css/base.css"
+      ]
+    },
+    "colors.border-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static.roland.com/global/css/base.css",
+        "https://static.roland.com/global/css/nav/navigation.css",
+        "https://www.boss.info/CMSPages/GetResource.ashx?stylesheetfile=/App_Themes/RolandComSite2/css/base.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.mono-spec": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.button-circular": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-table": {
+      "status": "inferred"
+    }
+  }
+}

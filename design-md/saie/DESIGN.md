@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Saie
-description: Saie is a clean makeup brand that radiates a soft, approachable confidence through a palette anchored in warm neutrals and punctuated by a signature electric lime (#e6ef00). The brand's visual language is built on a foundation of creamy off-whites (#f2f2f2, #f2f3f2) and gentle greiges (#d7d3cf, #a9a096), with a sophisticated secondary palette of dusty mauves (#91889d, #9387a0) and warm taupes (#8f7a64, #c79f7c) that echo the natural tones of skin and earth. The typography system pairs the refined serif of VictorSerif and Ordinary-Display for editorial moments with the clean readability of Ordinary-Text and Open Sans for body copy, creating a tension that feels both elevated and everyday. Signature design moves include generous use of soft rounded corners ({rounded.sm} to {rounded.lg}) that make every interaction feel gentle and tactile, a persistent accent of the brand's lime green across CTAs and badges that provides unexpected energy against the muted backdrop, and a reliance on negative space and soft hairlines (#dedede, #e5e5e5) rather than heavy borders. The overall effect is one of effortless polish — a brand that trusts its product photography and clean layout over aggressive typography or loud patterns, making the experience feel like a calm, well-edited vanity rather than a cluttered drugstore aisle.
+name: "Saie"
+source_url: "https://saiehello.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Saie is a clean makeup brand that radiates a soft, approachable confidence through a palette anchored in warm neutrals and punctuated by a signature electric lime (#e6ef00). The brand's visual language is built on a foundation of creamy off-whites (#f2f2f2, #f2f3f2) and gentle greiges (#d7d3cf, #a9a096), with a sophisticated secondary palette of dusty mauves (#91889d, #9387a0) and warm taupes (#8f7a64, #c79f7c) that echo the natural tones of skin and earth. The typography system pairs the refined serif of VictorSerif and Ordinary-Display for editorial moments with the clean readability of Ordinary-Text and Open Sans for body copy, creating a tension that feels both elevated and everyday. Signature design moves include generous use of soft rounded corners ({rounded.sm} to {rounded.lg}) that make every interaction feel gentle and tactile, a persistent accent of the brand's lime green across CTAs and badges that provides unexpected energy against the muted backdrop, and a reliance on negative space and soft hairlines (#dedede, #e5e5e5) rather than heavy borders. The overall effect is one of effortless polish — a brand that trusts its product photography and clean layout over aggressive typography or loud patterns, making the experience feel like a calm, well-edited vanity rather than a cluttered drugstore aisle.
 
 colors:
   primary: "#e6ef00"
@@ -385,6 +389,8 @@ components:
 - Accordion panels are always collapsed by default on mobile, with first panel open on desktop
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for tertiary buttons and text links (underline vs. color change)
 - Error message styling for form validation (text color, background, iconography)

@@ -1,0 +1,740 @@
+{
+  "source_url": "https://www.lightintheattic.net",
+  "final_url": "https://lightintheattic.net/",
+  "captured_at": "2026-09-28T09:15:42.531924+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.lightintheattic.net",
+      "final_url": "https://lightintheattic.net/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "02cae0c19f607cfa5f8a4deeeeaeab9afb38cf947fe299bdfecfe0925850e896",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+      "final_url": "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c72cbcb04b89cea112c4333757791a35f11f7531b7269188efd1b51a5f846a46",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://lightintheattic.net/cdn/shop/t/162/assets/grid-16-col.css?v=112812543984892592791784707119",
+      "final_url": "https://lightintheattic.net/cdn/shop/t/162/assets/grid-16-col.css?v=112812543984892592791784707119",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1696e76823e0d2a3fbdde390a1db28c03a14c30eec58a0e1f4a4a3363c1cc862",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://lightintheattic.net/cdn/shop/t/162/assets/style.site-banner.scss.css?v=43524709413099121091784707119",
+      "final_url": "https://lightintheattic.net/cdn/shop/t/162/assets/style.site-banner.scss.css?v=43524709413099121091784707119",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d47736287014116ad57cb5df22d92af812c6171e506b581961cc559d943593e2",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://lightintheattic.net/cdn/shop/t/162/assets/style.snippets.pagination.scss.css?v=46339002316055082171784707119",
+      "final_url": "https://lightintheattic.net/cdn/shop/t/162/assets/style.snippets.pagination.scss.css?v=46339002316055082171784707119",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "251426af5cbd21cb5c8378cd3c2d6b79de2194f55dfc7af06c3a4e0cbff8ece8",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://lightintheattic.net/cdn/shop/t/162/assets/style.sections.about.scss.css?v=7515792226033136191784707119",
+      "final_url": "https://lightintheattic.net/cdn/shop/t/162/assets/style.sections.about.scss.css?v=7515792226033136191784707119",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "8d7212a51769ab9cc59b2920c201f411adc4b7b33b9e33e402323acd9468369b",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 33,
+      "sources": [
+        "https://lightintheattic.net/",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/style.site-banner.scss.css?v=43524709413099121091784707119",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/style.sections.about.scss.css?v=7515792226033136191784707119"
+      ]
+    },
+    "#231f20": {
+      "count": 32,
+      "sources": [
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/style.site-banner.scss.css?v=43524709413099121091784707119",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/style.snippets.pagination.scss.css?v=46339002316055082171784707119",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/style.sections.about.scss.css?v=7515792226033136191784707119"
+      ]
+    },
+    "#000000": {
+      "count": 21,
+      "sources": [
+        "https://lightintheattic.net/",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/style.site-banner.scss.css?v=43524709413099121091784707119"
+      ]
+    },
+    "#ffd50d": {
+      "count": 16,
+      "sources": [
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/style.site-banner.scss.css?v=43524709413099121091784707119",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/style.snippets.pagination.scss.css?v=46339002316055082171784707119",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/style.sections.about.scss.css?v=7515792226033136191784707119"
+      ]
+    },
+    "#fafafa": {
+      "count": 10,
+      "sources": [
+        "https://lightintheattic.net/",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/style.sections.about.scss.css?v=7515792226033136191784707119"
+      ]
+    },
+    "#111111": {
+      "count": 9,
+      "sources": [
+        "https://lightintheattic.net/"
+      ]
+    },
+    "#999999": {
+      "count": 9,
+      "sources": [
+        "https://lightintheattic.net/"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 6,
+      "sources": [
+        "https://lightintheattic.net/"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 6,
+      "sources": [
+        "https://lightintheattic.net/"
+      ]
+    },
+    "#dddddd": {
+      "count": 5,
+      "sources": [
+        "https://lightintheattic.net/",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 5,
+      "sources": [
+        "https://lightintheattic.net/",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251"
+      ]
+    },
+    "#333333": {
+      "count": 4,
+      "sources": [
+        "https://lightintheattic.net/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 3,
+      "sources": [
+        "https://lightintheattic.net/"
+      ]
+    },
+    "#222222": {
+      "count": 3,
+      "sources": [
+        "https://lightintheattic.net/"
+      ]
+    },
+    "#666666": {
+      "count": 3,
+      "sources": [
+        "https://lightintheattic.net/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 3,
+      "sources": [
+        "https://lightintheattic.net/",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251"
+      ]
+    },
+    "#000000bf": {
+      "count": 3,
+      "sources": [
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251"
+      ]
+    },
+    "#ebebeb": {
+      "count": 3,
+      "sources": [
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251"
+      ]
+    },
+    "#cccccc": {
+      "count": 3,
+      "sources": [
+        "https://lightintheattic.net/cdn/shop/t/162/assets/style.sections.about.scss.css?v=7515792226033136191784707119"
+      ]
+    },
+    "#888888": {
+      "count": 2,
+      "sources": [
+        "https://lightintheattic.net/",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 2,
+      "sources": [
+        "https://lightintheattic.net/"
+      ]
+    },
+    "#d2d2d2": {
+      "count": 2,
+      "sources": [
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251"
+      ]
+    },
+    "#fffceb": {
+      "count": 2,
+      "sources": [
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251"
+      ]
+    },
+    "#000000cc": {
+      "count": 2,
+      "sources": [
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251"
+      ]
+    },
+    "#231f206b": {
+      "count": 2,
+      "sources": [
+        "https://lightintheattic.net/cdn/shop/t/162/assets/style.sections.about.scss.css?v=7515792226033136191784707119"
+      ]
+    },
+    "#231f20d4": {
+      "count": 2,
+      "sources": [
+        "https://lightintheattic.net/cdn/shop/t/162/assets/style.sections.about.scss.css?v=7515792226033136191784707119"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 1,
+      "sources": [
+        "https://lightintheattic.net/"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 1,
+      "sources": [
+        "https://lightintheattic.net/"
+      ]
+    },
+    "#444444": {
+      "count": 1,
+      "sources": [
+        "https://lightintheattic.net/"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 1,
+      "sources": [
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251"
+      ]
+    },
+    "#dfdfdf": {
+      "count": 1,
+      "sources": [
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251"
+      ]
+    },
+    "#ffff00": {
+      "count": 1,
+      "sources": [
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251"
+      ]
+    },
+    "#231f2059": {
+      "count": 1,
+      "sources": [
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251"
+      ]
+    },
+    "#231f201a": {
+      "count": 1,
+      "sources": [
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251"
+      ]
+    },
+    "#fbd10d": {
+      "count": 1,
+      "sources": [
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251"
+      ]
+    },
+    "#3a3a3a": {
+      "count": 1,
+      "sources": [
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251"
+      ]
+    },
+    "#ababab": {
+      "count": 1,
+      "sources": [
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251"
+      ]
+    },
+    "#231f20f2": {
+      "count": 1,
+      "sources": [
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251"
+      ]
+    },
+    "#7f7f7f": {
+      "count": 1,
+      "sources": [
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251"
+      ]
+    },
+    "#7070706e": {
+      "count": 1,
+      "sources": [
+        "https://lightintheattic.net/cdn/shop/t/162/assets/style.snippets.pagination.scss.css?v=46339002316055082171784707119"
+      ]
+    },
+    "#152121": {
+      "count": 1,
+      "sources": [
+        "https://lightintheattic.net/cdn/shop/t/162/assets/style.sections.about.scss.css?v=7515792226033136191784707119"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+      "https://lightintheattic.net/cdn/shop/t/162/assets/style.sections.about.scss.css?v=7515792226033136191784707119"
+    ],
+    "Jost": [
+      "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251"
+    ],
+    "century-old-style-std": [
+      "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+      "https://lightintheattic.net/cdn/shop/t/162/assets/style.sections.about.scss.css?v=7515792226033136191784707119"
+    ],
+    "monospace": [
+      "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251"
+    ],
+    "sans-serif": [
+      "https://lightintheattic.net/",
+      "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251"
+    ],
+    "serif": [
+      "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+      "https://lightintheattic.net/cdn/shop/t/162/assets/style.sections.about.scss.css?v=7515792226033136191784707119"
+    ],
+    "system-ui": [
+      "https://lightintheattic.net/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://lightintheattic.net/",
+      "selector": "#lita-products-container:empty::before",
+      "declarations": "content: '🔍 Start typing to search products...';\n  display: block;\n  text-align: center;\n  padding: 60px 20px;\n  color: #999;\n  font-size: 14px;"
+    },
+    {
+      "source": "https://lightintheattic.net/",
+      "selector": "body form.search-form input[type=search]",
+      "declarations": "padding: 5px;\n    font-size: 12px;\n    border-bottom: 1px solid #FFFFFF;\n    border-right: none;\n    float: left;\n    width: 100%;\n    background: transparent;\n    height: 30px;\n    color: #FFFFFF;\n    text-overflow: ellipsis;\n    border-radius: 0;\n    -webkit-appearance: none;"
+    },
+    {
+      "source": "https://lightintheattic.net/",
+      "selector": "form.search-form button",
+      "declarations": "float: left;\n    width: 34px;\n    padding: 5px 7px 7px 7px;\n    background: transparent;\n    color: white;\n    font-size: 18px;\n    border: none;\n    border-left: none;\n    cursor: pointer;"
+    },
+    {
+      "source": "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+      "selector": "html,body",
+      "declarations": "background-color:#fafafa;color:#231f20;font-family:Jost,Arial,sans-serif"
+    },
+    {
+      "source": "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+      "selector": "body:not(.checkout) table",
+      "declarations": "width:100%;background-color:transparent;border-collapse:collapse"
+    },
+    {
+      "source": "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+      "selector": "body:not(.checkout) h1",
+      "declarations": "font-size:60px;font-weight:400;font-family:century-old-style-std,Arial,serif"
+    },
+    {
+      "source": "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+      "selector": "body:not(.checkout) h2",
+      "declarations": "font-size:55px;font-weight:400;font-family:century-old-style-std,Arial,serif;text-transform:uppercase"
+    },
+    {
+      "source": "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+      "selector": "body:not(.checkout) h3",
+      "declarations": "font-size:24px;font-weight:400;font-family:Jost,Arial,sans-serif"
+    },
+    {
+      "source": "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+      "selector": "body:not(.checkout) h4",
+      "declarations": "font-size:28px;font-weight:600;font-family:Jost,Arial,sans-serif"
+    },
+    {
+      "source": "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+      "selector": "body:not(.checkout) h5",
+      "declarations": "font-size:25px;font-weight:400;font-family:Jost,Arial,sans-serif"
+    },
+    {
+      "source": "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+      "selector": "body:not(.checkout) h6",
+      "declarations": "font-size:20px;font-weight:600;font-family:Jost,Arial,sans-serif"
+    },
+    {
+      "source": "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+      "selector": "body:not(.checkout) .h7",
+      "declarations": "font-size:20px;font-weight:400;font-family:Jost,Arial,sans-serif"
+    },
+    {
+      "source": "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+      "selector": "body:not(.checkout) .h8",
+      "declarations": "font-size:18px;font-weight:700;font-family:Jost,Arial,sans-serif"
+    },
+    {
+      "source": "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+      "selector": ".responsive-table tbody tr:nth-child(2n)",
+      "declarations": "background-color:#eee"
+    },
+    {
+      "source": "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+      "selector": "a,button,input,optgroup,select,textarea",
+      "declarations": "font-family:Jost,Arial,sans-serif;font-size:100%;line-height:1.15;margin:0"
+    },
+    {
+      "source": "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+      "selector": ".btn-black",
+      "declarations": "background-color:transparent;color:#231f20;border:1px solid white"
+    },
+    {
+      "source": "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+      "selector": ".btn-plain",
+      "declarations": "background-color:transparent;border-color:transparent"
+    },
+    {
+      "source": "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+      "selector": ".btn-white",
+      "declarations": "background-color:transparent;color:#fff;border:1px solid white"
+    },
+    {
+      "source": "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+      "selector": ".btn-yellow,.btn-yellow:visited",
+      "declarations": "background-color:transparent;color:#ffd50d;border:1px solid #ffd50d"
+    },
+    {
+      "source": "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+      "selector": ".btn-filled-dark",
+      "declarations": "background-color:#231f20;color:#ffd50d;border:1px solid white"
+    },
+    {
+      "source": "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+      "selector": ".btn-outline,body .rte .kuAddtocart a.kuAddtocartBtn",
+      "declarations": "color:#fff;background-color:#231f20;border:1px solid #231f20"
+    },
+    {
+      "source": "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+      "selector": "e=submit]:hover,.as-album body.hasHover input.btn-outline[type=submit]:hover,body.hasHover .as-tracks input.btn-outline[type=submit]:hover,.as-tracks body.hasHo",
+      "declarations": "color:#231f20!important;background-color:transparent!important;-webkit-transition:background-color .4s,color .4s;-o-transition:background-color .4s,color .4s;transition:background-color .4s,color .4s;text-decoration:none"
+    },
+    {
+      "source": "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+      "selector": "ddtocartBtn:active,.as-album button.btn-hover-dark:active,.as-tracks button.btn-hover-dark:active,.as-album input.btn-hover-dark[type=submit]:active,.as-tracks ",
+      "declarations": "color:#ffd50d"
+    },
+    {
+      "source": "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+      "selector": "ver,.as-album body.hasHover input.btn-hover-light[type=submit]:hover,body.hasHover .as-tracks input.btn-hover-light[type=submit]:hover,.as-tracks body.hasHover ",
+      "declarations": "color:#231f20;background-color:#fff;-webkit-transition:background-color .4s,color .4s;-o-transition:background-color .4s,color .4s;transition:background-color .4s,color .4s;text-decoration:none"
+    },
+    {
+      "source": "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+      "selector": "AddtocartBtn:focus,.as-album button.btn-hover-light:focus,.as-tracks button.btn-hover-light:focus,.as-album input.btn-hover-light[type=submit]:focus,.as-tracks ",
+      "declarations": "color:#fbd10d;background-color:#231f20;border:1px solid #231f20"
+    },
+    {
+      "source": "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+      "selector": ",.as-album body.hasHover input.btn-hover-yellow[type=submit]:hover,body.hasHover .as-tracks input.btn-hover-yellow[type=submit]:hover,.as-tracks body.hasHover i",
+      "declarations": "color:#231f20;background-color:#ffd50d;-webkit-transition:background-color .4s,color .4s;-o-transition:background-color .4s,color .4s;transition:background-color .4s,color .4s;text-decoration:none"
+    },
+    {
+      "source": "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+      "selector": "Btn:active,.as-album button.btn-hover-yellow:active,.as-tracks button.btn-hover-yellow:active,.as-album input.btn-hover-yellow[type=submit]:active,.as-tracks in",
+      "declarations": "color:#000;background-color:#ffd50d"
+    },
+    {
+      "source": "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+      "selector": "html,body",
+      "declarations": "background-color:#fff;color:#000"
+    },
+    {
+      "source": "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+      "selector": "body .rte .kuAddtocart a.kuAddtocartBtn",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+      "selector": "a.audio-preview:hover .as_audio-button.play-button,a.audio-preview[data-status=play] .as_audio-button.play-button",
+      "declarations": "border-left-color:#000"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Music | Light In The Attic Records\n  \n  \n  \n\n  – Light in the Attic",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/style.site-banner.scss.css?v=43524709413099121091784707119",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/style.snippets.pagination.scss.css?v=46339002316055082171784707119",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/style.sections.about.scss.css?v=7515792226033136191784707119"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/style.site-banner.scss.css?v=43524709413099121091784707119",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/style.snippets.pagination.scss.css?v=46339002316055082171784707119",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/style.sections.about.scss.css?v=7515792226033136191784707119"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lightintheattic.net/",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/style.sections.about.scss.css?v=7515792226033136191784707119"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/style.site-banner.scss.css?v=43524709413099121091784707119",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/style.snippets.pagination.scss.css?v=46339002316055082171784707119",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/style.sections.about.scss.css?v=7515792226033136191784707119"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lightintheattic.net/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lightintheattic.net/",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lightintheattic.net/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lightintheattic.net/",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/style.site-banner.scss.css?v=43524709413099121091784707119",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/style.sections.about.scss.css?v=7515792226033136191784707119"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/style.site-banner.scss.css?v=43524709413099121091784707119",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/style.snippets.pagination.scss.css?v=46339002316055082171784707119",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/style.sections.about.scss.css?v=7515792226033136191784707119"
+      ]
+    },
+    "colors.accent-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251"
+      ]
+    },
+    "colors.tint-warm": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251"
+      ]
+    },
+    "colors.border-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lightintheattic.net/"
+      ]
+    },
+    "colors.overlay-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251"
+      ]
+    },
+    "colors.overlay-ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lightintheattic.net/cdn/shop/t/162/assets/style.sections.about.scss.css?v=7515792226033136191784707119"
+      ]
+    },
+    "colors.disabled": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lightintheattic.net/",
+        "https://lightintheattic.net/cdn/shop/t/162/assets/theme.scss.css?v=37587926657626825101784880251"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.release-variant-tag": {
+      "status": "inferred"
+    }
+  }
+}

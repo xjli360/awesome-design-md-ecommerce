@@ -1,0 +1,913 @@
+{
+  "source_url": "https://winc.com",
+  "final_url": "https://www.winc.com/",
+  "captured_at": "2026-09-28T05:01:55.386228+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://winc.com",
+      "final_url": "https://www.winc.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "8bbd9a582ff608fbdf725e94a66cd10353b9d65cc5ac7f5c05066ba1dcebda14",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.winc.com/cdn/shop/t/90/assets/font-settings.css?v=99388479580115039351732115443",
+      "final_url": "https://www.winc.com/cdn/shop/t/90/assets/font-settings.css?v=99388479580115039351732115443",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c3b8b03875b56b4ae374c24382ddc22823030754ce3a9d8da86effed8126e321",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670",
+      "final_url": "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b1f80992e314aaea4064494c85595de62884a636e2a27e79c6a6f00bee08483d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.winc.com/cdn/shop/t/90/assets/custom.css?v=128757530173551069351764696036",
+      "final_url": "https://www.winc.com/cdn/shop/t/90/assets/custom.css?v=128757530173551069351764696036",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7b25f15d700131db5ab2e5590498ae1368f0a147c5c7e03aaa972d32d3223dcc",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.winc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.winc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.winc.com/cdn/shop/t/90/compiled_assets/styles.css?v=149398155705748830601771607509",
+      "final_url": "https://www.winc.com/cdn/shop/t/90/compiled_assets/styles.css?v=149398155705748830601771607509",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "65662ee7c677ea88e80fda289ca8ebf058a7950c3ac96d7d5f46ad4d8c22b29c",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#060f0c": {
+      "count": 173,
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670",
+        "https://www.winc.com/cdn/shop/t/90/assets/custom.css?v=128757530173551069351764696036",
+        "https://www.winc.com/cdn/shop/t/90/compiled_assets/styles.css?v=149398155705748830601771607509"
+      ]
+    },
+    "#ffffff": {
+      "count": 119,
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670",
+        "https://www.winc.com/cdn/shop/t/90/assets/custom.css?v=128757530173551069351764696036",
+        "https://www.winc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.winc.com/cdn/shop/t/90/compiled_assets/styles.css?v=149398155705748830601771607509"
+      ]
+    },
+    "#000000": {
+      "count": 56,
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670",
+        "https://www.winc.com/cdn/shop/t/90/assets/custom.css?v=128757530173551069351764696036",
+        "https://www.winc.com/cdn/shop/t/90/compiled_assets/styles.css?v=149398155705748830601771607509"
+      ]
+    },
+    "#ffffff00": {
+      "count": 18,
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+      ]
+    },
+    "#0000000f": {
+      "count": 16,
+      "sources": [
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+      ]
+    },
+    "#ffc700": {
+      "count": 15,
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+      ]
+    },
+    "#3a3a3a": {
+      "count": 14,
+      "sources": [
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+      ]
+    },
+    "#ebf5a9": {
+      "count": 13,
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670",
+        "https://www.winc.com/cdn/shop/t/90/assets/custom.css?v=128757530173551069351764696036",
+        "https://www.winc.com/cdn/shop/t/90/compiled_assets/styles.css?v=149398155705748830601771607509"
+      ]
+    },
+    "#00000033": {
+      "count": 13,
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670",
+        "https://www.winc.com/cdn/shop/t/90/assets/custom.css?v=128757530173551069351764696036",
+        "https://www.winc.com/cdn/shop/t/90/compiled_assets/styles.css?v=149398155705748830601771607509"
+      ]
+    },
+    "#fdfcfa": {
+      "count": 12,
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670",
+        "https://www.winc.com/cdn/shop/t/90/assets/custom.css?v=128757530173551069351764696036"
+      ]
+    },
+    "#ffffff40": {
+      "count": 12,
+      "sources": [
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+      ]
+    },
+    "#eff0ed": {
+      "count": 10,
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670",
+        "https://www.winc.com/cdn/shop/t/90/assets/custom.css?v=128757530173551069351764696036"
+      ]
+    },
+    "#c0a6c7": {
+      "count": 8,
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+      ]
+    },
+    "#0000001a": {
+      "count": 8,
+      "sources": [
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 6,
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+      ]
+    },
+    "#3a3a3a40": {
+      "count": 6,
+      "sources": [
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+      ]
+    },
+    "#d7d9dc": {
+      "count": 6,
+      "sources": [
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+      ]
+    },
+    "#e7f1f2": {
+      "count": 5,
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670",
+        "https://www.winc.com/cdn/shop/t/90/compiled_assets/styles.css?v=149398155705748830601771607509"
+      ]
+    },
+    "#eff9f9": {
+      "count": 5,
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shop/t/90/compiled_assets/styles.css?v=149398155705748830601771607509"
+      ]
+    },
+    "#333333": {
+      "count": 5,
+      "sources": [
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670",
+        "https://www.winc.com/cdn/shop/t/90/compiled_assets/styles.css?v=149398155705748830601771607509"
+      ]
+    },
+    "#00000000": {
+      "count": 5,
+      "sources": [
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670",
+        "https://www.winc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 4,
+      "sources": [
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 4,
+      "sources": [
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670",
+        "https://www.winc.com/cdn/shop/t/90/assets/custom.css?v=128757530173551069351764696036"
+      ]
+    },
+    "#fff3f1": {
+      "count": 4,
+      "sources": [
+        "https://www.winc.com/cdn/shop/t/90/assets/custom.css?v=128757530173551069351764696036",
+        "https://www.winc.com/cdn/shop/t/90/compiled_assets/styles.css?v=149398155705748830601771607509"
+      ]
+    },
+    "#e9152e": {
+      "count": 3,
+      "sources": [
+        "https://www.winc.com/"
+      ]
+    },
+    "#fdd8a0": {
+      "count": 3,
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shop/t/90/assets/custom.css?v=128757530173551069351764696036"
+      ]
+    },
+    "#dedede": {
+      "count": 3,
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#ffe895": {
+      "count": 3,
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shop/t/90/assets/custom.css?v=128757530173551069351764696036",
+        "https://www.winc.com/cdn/shop/t/90/compiled_assets/styles.css?v=149398155705748830601771607509"
+      ]
+    },
+    "#00000080": {
+      "count": 3,
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shop/t/90/assets/custom.css?v=128757530173551069351764696036"
+      ]
+    },
+    "#ffd7d2": {
+      "count": 3,
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shop/t/90/assets/custom.css?v=128757530173551069351764696036",
+        "https://www.winc.com/cdn/shop/t/90/compiled_assets/styles.css?v=149398155705748830601771607509"
+      ]
+    },
+    "#ecf6b6": {
+      "count": 3,
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shop/t/90/assets/custom.css?v=128757530173551069351764696036"
+      ]
+    },
+    "#e2d6e5": {
+      "count": 3,
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shop/t/90/assets/custom.css?v=128757530173551069351764696036"
+      ]
+    },
+    "#ffffff99": {
+      "count": 3,
+      "sources": [
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 3,
+      "sources": [
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+      ]
+    },
+    "#737b83": {
+      "count": 3,
+      "sources": [
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+      ]
+    },
+    "#b74737": {
+      "count": 3,
+      "sources": [
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+      ]
+    },
+    "#00000005": {
+      "count": 3,
+      "sources": [
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+      ]
+    },
+    "#00000099": {
+      "count": 3,
+      "sources": [
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670",
+        "https://www.winc.com/cdn/shop/t/90/assets/custom.css?v=128757530173551069351764696036"
+      ]
+    },
+    "#808080": {
+      "count": 3,
+      "sources": [
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+      ]
+    },
+    "#00000014": {
+      "count": 3,
+      "sources": [
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+      ]
+    },
+    "#00000012": {
+      "count": 3,
+      "sources": [
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+      ]
+    },
+    "#eff7ba": {
+      "count": 3,
+      "sources": [
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670",
+        "https://www.winc.com/cdn/shop/t/90/compiled_assets/styles.css?v=149398155705748830601771607509"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 3,
+      "sources": [
+        "https://www.winc.com/cdn/shop/t/90/assets/custom.css?v=128757530173551069351764696036",
+        "https://www.winc.com/cdn/shop/t/90/compiled_assets/styles.css?v=149398155705748830601771607509"
+      ]
+    },
+    "#fca99f": {
+      "count": 2,
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shop/t/90/assets/custom.css?v=128757530173551069351764696036"
+      ]
+    },
+    "#065831": {
+      "count": 2,
+      "sources": [
+        "https://www.winc.com/"
+      ]
+    },
+    "#b38b00": {
+      "count": 2,
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+      ]
+    },
+    "#ff8484": {
+      "count": 2,
+      "sources": [
+        "https://www.winc.com/"
+      ]
+    },
+    "#888888": {
+      "count": 2,
+      "sources": [
+        "https://www.winc.com/"
+      ]
+    },
+    "#00000045": {
+      "count": 2,
+      "sources": [
+        "https://www.winc.com/"
+      ]
+    },
+    "#ffeeb1": {
+      "count": 2,
+      "sources": [
+        "https://www.winc.com/"
+      ]
+    },
+    "#f2f9ce": {
+      "count": 2,
+      "sources": [
+        "https://www.winc.com/"
+      ]
+    },
+    "#f4f0f6": {
+      "count": 2,
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shop/t/90/assets/custom.css?v=128757530173551069351764696036"
+      ]
+    },
+    "#bebebe": {
+      "count": 2,
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shop/t/90/assets/custom.css?v=128757530173551069351764696036"
+      ]
+    },
+    "#ffeeb0": {
+      "count": 2,
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shop/t/90/compiled_assets/styles.css?v=149398155705748830601771607509"
+      ]
+    },
+    "#f9f8f4": {
+      "count": 2,
+      "sources": [
+        "https://www.winc.com/"
+      ]
+    },
+    "#d6ec61": {
+      "count": 2,
+      "sources": [
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670",
+        "https://www.winc.com/cdn/shop/t/90/assets/custom.css?v=128757530173551069351764696036"
+      ]
+    },
+    "#000000cc": {
+      "count": 2,
+      "sources": [
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+      ]
+    },
+    "#c1c9d1": {
+      "count": 2,
+      "sources": [
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+      ]
+    },
+    "#c1c9d1a8": {
+      "count": 2,
+      "sources": [
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+      ]
+    },
+    "#0000000a": {
+      "count": 2,
+      "sources": [
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+    ],
+    "Avenir": [
+      "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+    ],
+    "Avenir Next": [
+      "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+    ],
+    "BrownStd": [
+      "https://www.winc.com/",
+      "https://www.winc.com/cdn/shop/t/90/assets/font-settings.css?v=99388479580115039351732115443",
+      "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670",
+      "https://www.winc.com/cdn/shop/t/90/assets/custom.css?v=128757530173551069351764696036",
+      "https://www.winc.com/cdn/shop/t/90/compiled_assets/styles.css?v=149398155705748830601771607509"
+    ],
+    "FontAwesome": [
+      "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+    ],
+    "Helvetica": [
+      "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+    ],
+    "Helvetica Neue": [
+      "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+    ],
+    "NoeDisplay": [
+      "https://www.winc.com/",
+      "https://www.winc.com/cdn/shop/t/90/assets/font-settings.css?v=99388479580115039351732115443",
+      "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670",
+      "https://www.winc.com/cdn/shop/t/90/assets/custom.css?v=128757530173551069351764696036",
+      "https://www.winc.com/cdn/shop/t/90/compiled_assets/styles.css?v=149398155705748830601771607509"
+    ],
+    "Segoe UI": [
+      "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+    ],
+    "brownstd": [
+      "https://www.winc.com/"
+    ],
+    "default": [
+      "https://www.winc.com/cdn/shop/t/90/assets/custom.css?v=128757530173551069351764696036"
+    ],
+    "monospace": [
+      "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+    ],
+    "sans-serif": [
+      "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.winc.com/",
+      "selector": ".header__desktop__upper,\n  .header__mobile",
+      "declarations": "background-color: white;"
+    },
+    {
+      "source": "https://www.winc.com/",
+      "selector": "div.header__desktop .header__desktop__button .header__credit__balance",
+      "declarations": "font-family: BrownStd;\n    font-size: 16px;\n    font-weight: 700;\n    line-height: 18.5px;\n    text-align: left;\n    color: black;"
+    },
+    {
+      "source": "https://www.winc.com/",
+      "selector": ".header__desktop__buttons div.drinks-customer-state label select[name=\"drinks-header-state-select\"]",
+      "declarations": "padding: 0px 58px 0px 26px;\n    border-width: 4px;\n    border-color: #000;\n    -webkit-appearance: none;\n    -moz-appearance: none;\n    appearance: none;\n    background: url('data:image/svg+xml,%3Csvg%20width%3D%2215%22%20height%3D%2210%22%20viewBox%3D%220%200%2015%2010%22%20fill%3D%22none%22%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%3E%3Cpath%20d%3D%22M7.49761%209C7.31698%209%207.14283%208.9649%206.97515%208.89471C6.80746%208.82451%206.65985%208.7202%206.53229%208.58179L2.40309%204.37784C2.13117%204.10956%201.99683%203.78461%202.00006%203.40297C2.0033%203.02133%202.14088%202.69209%202.4128%202.41526C2.68472%202.13842%203.0081%202%203.38296%202C3.75781%202%204.07699%202.13842%204.34048%20"
+    },
+    {
+      "source": "https://www.winc.com/",
+      "selector": ".header__desktop__buttons div.drinks-customer-state label span,\n  .header__desktop .menu__item .navlink.navlink--toplevel span.navtext",
+      "declarations": "color: var(--primary-obsidian, #060F0C);\n    font-family: BrownStd;\n    font-size: 16px;\n    font-style: normal;\n    font-weight: 700;\n    line-height: 160%;"
+    },
+    {
+      "source": "https://www.winc.com/",
+      "selector": ".custom-product-section .section-collection__head .h2.standard__heading.heading-size-9 h2",
+      "declarations": "font-family: NoeDisplay;\n    font-size: 38px;\n    font-weight: 700;\n    line-height: 44px;\n    letter-spacing: 0.015em;\n    text-align: left;\n    margin-bottom: 0;"
+    },
+    {
+      "source": "https://www.winc.com/",
+      "selector": ".custom-product-section .section-collection__head .index__collection__subtitle.subtitle--decorated",
+      "declarations": "font-family: BrownStd;\n    font-size: 20px;\n    font-weight: 300;\n    line-height: 28px;\n    text-align: left;\n    margin-bottom: 0;"
+    },
+    {
+      "source": "https://www.winc.com/",
+      "selector": ".custom-product-section",
+      "declarations": "color: black;"
+    },
+    {
+      "source": "https://www.winc.com/",
+      "selector": ".custom-product-section .section-collection__head .h2.standard__heading.heading-size-9 h2,\n  .custom-product-section .section-collection__head .index__collectio",
+      "declarations": "color: #060F0C;"
+    },
+    {
+      "source": "https://www.winc.com/",
+      "selector": ".custom-product-section .slider-container .slider-track",
+      "declarations": "width: 100%;\n    height: 10px;\n    background-color: #F3F3F3;\n    border-radius: 5px;\n    position: relative;"
+    },
+    {
+      "source": "https://www.winc.com/",
+      "selector": ".custom-product-section .slider-container .slider-thumb",
+      "declarations": "width: 20px;\n    height: 9px;\n    background-color: #060F0C;\n    border-radius: 10px;\n    position: absolute;\n    top: 0;\n    left: 0;\n    cursor: pointer;\n    transition: left 0.1s ease-out;"
+    },
+    {
+      "source": "https://www.winc.com/",
+      "selector": ".product-grid-rating-price .price_wrapper.on-sale s",
+      "declarations": "color: #888888;"
+    },
+    {
+      "source": "https://www.winc.com/",
+      "selector": ".product-grid-item .product__quantity-and-atc .product-grid__submit__add:hover:not(.sold_out)",
+      "declarations": "background-color: unset;"
+    },
+    {
+      "source": "https://www.winc.com/",
+      "selector": ".custom-product-section .section-collection__head .h2.standard__heading.heading-size-9 h2",
+      "declarations": "font-family: NoeDisplay;\n      font-size: 26px;\n      font-style: normal;\n      font-weight: 700;\n      line-height: 32px;"
+    },
+    {
+      "source": "https://www.winc.com/",
+      "selector": ".custom-product-section .section-collection__head .index__collection__subtitle.subtitle--decorated",
+      "declarations": "font-family: BrownStd;\n      font-size: 14px;\n      font-style: normal;\n      font-weight: 300;\n      line-height: 160%;"
+    },
+    {
+      "source": "https://www.winc.com/",
+      "selector": "nav[data-drawer=hamburger] .drinks-customer-state select[name=drinks-header-state-select]",
+      "declarations": "border-radius: 40px;\n    border: 4px solid var(--primary-obsidian, #060F0C);\n    background-color: var(--primary-crystal, #FDFCFA);\n    width: 125px;\n    color: var(--primary-obsidian, #060F0C);\n    font-family: BrownStd;\n    font-size: 16px;\n    font-style: normal;\n    font-weight: 700;\n    line-height: 160%;\n    background: url('data:image/svg+xml,%3Csvg%20width%3D%2215%22%20height%3D%2210%22%20viewBox%3D%220%200%2015%2010%22%20fill%3D%22none%22%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%3E%3Cpath%20d%3D%22M7.49761%209C7.31698%209%207.14283%208.9649%206.97515%208.89471C6.80746%208.82451%206.65985%208.7202%206.53229%208.58179L2.40309%204.37784C2.13117%204.10956%201.99683%203.78461%202.000"
+    },
+    {
+      "source": "https://www.winc.com/",
+      "selector": ".announcement-banner-header-6",
+      "declarations": "font-family: BrownStd;\n    font-style: normal;\n    font-weight:  700;\n    color: #000000;"
+    },
+    {
+      "source": "https://www.winc.com/",
+      "selector": ".announcement-banner-header-6.contain-a a",
+      "declarations": "color: #000000;"
+    },
+    {
+      "source": "https://www.winc.com/",
+      "selector": "text-decoration:underline\n:root",
+      "declarations": "--menu-height: calc(71px);"
+    },
+    {
+      "source": "https://www.winc.com/",
+      "selector": ".modal-outer[data-section-id=\"sections--23689872245053__header\"] .why-winc",
+      "declarations": "position: relative;\n        background-color: #EBF5A9;\n        width: fit-content;\n        padding: 56px 34px 48px;\n        border-radius: 40px;\n        max-height: calc(100% - 54px);\n        display: flex;\n        box-shadow: 0px 4px 12px 0px #00000080;"
+    },
+    {
+      "source": "https://www.winc.com/",
+      "selector": ".modal-outer[data-section-id=\"sections--23689872245053__header\"] .why-winc .modal-content > .title",
+      "declarations": "font-family: NoeDisplay;\n        font-size: 38px;\n        font-weight: 700;\n        line-height: 44px;\n        letter-spacing: 0.015em;\n        text-align: center;"
+    },
+    {
+      "source": "https://www.winc.com/",
+      "selector": ".modal-outer[data-section-id=\"sections--23689872245053__header\"] .why-winc .aspects .aspect .description",
+      "declarations": "color: var(--primary-obsidian, #060F0C);\n        text-align: center;\n        font-family: BrownStd;\n        font-size: 12px;\n        font-style: normal;\n        font-weight: 700;\n        line-height: 160%;"
+    },
+    {
+      "source": "https://www.winc.com/",
+      "selector": ".modal-outer[data-section-id=\"sections--23689872245053__header\"] .why-winc .ctas > .cta-1",
+      "declarations": "background-color: #060F0C;\n        color: #fff;"
+    },
+    {
+      "source": "https://www.winc.com/",
+      "selector": ".modal-outer[data-section-id=\"sections--23689872245053__header\"] .modal-inner > .title",
+      "declarations": "font-family: NoeDisplay;\n        font-size: 38px;\n        font-weight: 700;\n        line-height: 44px;\n        letter-spacing: 0.015em;\n        text-align: center;"
+    },
+    {
+      "source": "https://www.winc.com/",
+      "selector": ".modal-outer[data-section-id=\"sections--23689872245053__header\"] .modal-inner .options .option.selected",
+      "declarations": "outline: 4px solid #060F0C;\n        background-color: #ffeeb1;"
+    },
+    {
+      "source": "https://www.winc.com/",
+      "selector": ".modal-outer[data-section-id=\"sections--23689872245053__header\"] .options .option > .title",
+      "declarations": "font-family: 'BrownStd';\n        padding-block: 10px;\n        font-size: 20px;\n        font-weight: 700;\n        line-height: 20px;\n        text-align: center;"
+    },
+    {
+      "source": "https://www.winc.com/",
+      "selector": ".modal-outer[data-section-id=\"sections--23689872245053__header\"] .options .option > .description",
+      "declarations": "font-family: BrownStd;\n        font-size: 16px;\n        font-weight: 300;\n        line-height: 25.6px;\n        text-align: center;\n        max-width: 150px;\n        margin-inline: auto;"
+    },
+    {
+      "source": "https://www.winc.com/",
+      "selector": ".modal-outer[data-section-id=\"sections--23689872245053__header\"] .modal-inner .modal-cta,\n    .modal-outer[data-section-id=\"sections--23689872245053__header\"] .",
+      "declarations": "margin: auto;\n        margin-top: 56px;\n        font-family: BrownStd;\n        font-size: 20px;\n        font-weight: 400;\n        line-height: 24px;\n        text-align: center;\n        border-radius: 200px;\n        background-color: #060F0C;\n        color: #FFFFFF;\n        width: fit-content;\n        height: 56px;\n        display: flex;\n        align-items: center;\n        cursor: pointer;\n        max-width: 308px;\n        width: 100%;\n        justify-content: center;"
+    },
+    {
+      "source": "https://www.winc.com/",
+      "selector": ".modal-outer[data-section-id=\"sections--23689872245053__header\"] .why-join-the-winc__note",
+      "declarations": "font-family: BrownStd;\n        font-size: 24px;\n        font-weight: 700;\n        line-height: 24px;\n        text-align: center;"
+    },
+    {
+      "source": "https://www.winc.com/",
+      "selector": ".modal-outer[data-section-id=\"sections--23689872245053__header\"] .why-join-the-winc__info",
+      "declarations": "font-family: BrownStd;\n        font-size: 16px;\n        font-weight: 300;\n        line-height: 25.6px;\n        text-align: center;\n        margin: auto;\n        padding-top: 8px;"
+    },
+    {
+      "source": "https://www.winc.com/",
+      "selector": ".modal-outer[data-section-id=\"sections--23689872245053__header\"] .why-join-the-winc__button-non-commital",
+      "declarations": "font-family: BrownStd;\n        font-size: 20px;\n        font-weight: 400;\n        text-align: center;\n        border: 4px solid #060F0C;\n        margin-top: 1rem;\n        padding: 0.5rem 1rem;\n        border-radius: 5rem;\n        cursor: pointer;\n        min-width: 314px;\n        min-height: 56px;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Winc",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670",
+        "https://www.winc.com/cdn/shop/t/90/assets/custom.css?v=128757530173551069351764696036",
+        "https://www.winc.com/cdn/shop/t/90/compiled_assets/styles.css?v=149398155705748830601771607509"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670",
+        "https://www.winc.com/cdn/shop/t/90/assets/custom.css?v=128757530173551069351764696036",
+        "https://www.winc.com/cdn/shop/t/90/compiled_assets/styles.css?v=149398155705748830601771607509"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670",
+        "https://www.winc.com/cdn/shop/t/90/assets/custom.css?v=128757530173551069351764696036",
+        "https://www.winc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.winc.com/cdn/shop/t/90/compiled_assets/styles.css?v=149398155705748830601771607509"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670",
+        "https://www.winc.com/cdn/shop/t/90/compiled_assets/styles.css?v=149398155705748830601771607509"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.winc.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670",
+        "https://www.winc.com/cdn/shop/t/90/assets/custom.css?v=128757530173551069351764696036"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670",
+        "https://www.winc.com/cdn/shop/t/90/assets/custom.css?v=128757530173551069351764696036",
+        "https://www.winc.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.winc.com/cdn/shop/t/90/compiled_assets/styles.css?v=149398155705748830601771607509"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+      ]
+    },
+    "colors.accent-berry": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.winc.com/"
+      ]
+    },
+    "colors.accent-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.winc.com/"
+      ]
+    },
+    "colors.accent-mauve": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+      ]
+    },
+    "colors.accent-rust": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670"
+      ]
+    },
+    "colors.accent-lime": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.winc.com/",
+        "https://www.winc.com/cdn/shop/t/90/assets/theme.css?v=59616082357035557331757440670",
+        "https://www.winc.com/cdn/shop/t/90/assets/custom.css?v=128757530173551069351764696036",
+        "https://www.winc.com/cdn/shop/t/90/compiled_assets/styles.css?v=149398155705748830601771607509"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.filter-pill": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Film Movement
-description: A cinema distributor's digital storefront that wears its love of film on its sleeve — literally, via a hot-pink primary (#fe2873) that reads less like a brand guideline and more like a neon marquee for a repertory house. That pink, paired with a deep charcoal ink (#1e1e1e) and a warm parchment canvas (#f5f2e9), creates a system that feels both archival and alive: the pink is the "now playing" voltage, the charcoal is the theater seat, the parchment is the lobby carpet. Abril Fatface, a slab serif with dramatic weight contrast, handles display roles — it's the font of poster credits and opening titles, not body copy. Montserrat and Nunito Sans provide the utilitarian sans-serif work for navigation, pricing, and metadata, keeping the experience legible while the display type does the emotive work. The extracted palette reveals a secondary teal family (#016684, #00728d, #2bb4df) that likely serves as a supporting accent for membership tiers, badges, or genre tags, and a goldenrod (#f8d063) that could mark "staff picks" or "new arrivals." The system avoids hard corners — buttons and cards use {rounded.sm} and {rounded.md} — but the overall mood is more editorial than e-commerce: generous whitespace, serif-led hierarchy, and a color story that feels curated rather than algorithmic. The pink is not a discount banner; it's a signal of taste.
+name: "Film Movement"
+source_url: "https://www.filmmovement.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A cinema distributor's digital storefront that wears its love of film on its sleeve — literally, via a hot-pink primary (#fe2873) that reads less like a brand guideline and more like a neon marquee for a repertory house. That pink, paired with a deep charcoal ink (#1e1e1e) and a warm parchment canvas (#f5f2e9), creates a system that feels both archival and alive: the pink is the "now playing" voltage, the charcoal is the theater seat, the parchment is the lobby carpet. Abril Fatface, a slab serif with dramatic weight contrast, handles display roles — it's the font of poster credits and opening titles, not body copy. Montserrat and Nunito Sans provide the utilitarian sans-serif work for navigation, pricing, and metadata, keeping the experience legible while the display type does the emotive work. The extracted palette reveals a secondary teal family (#016684, #00728d, #2bb4df) that likely serves as a supporting accent for membership tiers, badges, or genre tags, and a goldenrod (#f8d063) that could mark "staff picks" or "new arrivals." The system avoids hard corners — buttons and cards use {rounded.sm} and {rounded.md} — but the overall mood is more editorial than e-commerce: generous whitespace, serif-led hierarchy, and a color story that feels curated rather than algorithmic. The pink is not a discount banner; it's a signal of taste.
 
 colors:
   primary: "#fe2873"
@@ -333,6 +337,8 @@ components:
 - Hero section reduces vertical padding on mobile, from {spacing.section} to {spacing.xxl}
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for buttons and links are inferred from the extracted primary-active color (#bf2059) but exact transition timing and opacity values are not confirmed
 - Error states for form inputs (border color, helper text styling) are not present in the extracted data

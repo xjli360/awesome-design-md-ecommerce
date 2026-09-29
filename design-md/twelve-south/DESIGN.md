@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Twelve South
-description: A deep, almost forest-green #121713 anchors the Twelve South canvas — not a sterile white but a rich near-black that makes every product shot of leather BookBook cases and polished aluminum stands feel like a still life on a dark walnut desk. The brand's signature voltage comes from a teal-cyan #045c7d, used sparingly on hover states, selectable highlights, and the thin underline on active navigation links; it reads as precision engineering rather than playfulness. A secondary accent of #ff4127 (a warm, urgent red-orange) appears on sale badges and limited-edition callouts, while #ffcf2a (a restrained marigold) marks loyalty or exclusive drops. The typography stack is freight-sans-pro in multiple cuts — condensed for display headlines, compressed for tight product titles, and a book weight for body copy — giving the system a tailored, editorial density that feels closer to a design magazine than an accessories storefront. Buttons use {rounded.sm} corners (8px) with a subtle lift, while product cards and feature modules take {rounded.md} (12px) — enough softness to feel approachable, not enough to feel casual. The primary CTA is a solid #121713 pill with white text, and on hover it inverts to a white fill with #121713 text and a thin #121713 border, a quiet reveal that rewards interaction. The footer and secondary navigation use a lighter ink #404041 on a #eff5f3 canvas (a pale, cool off-white), creating a clear hierarchy between the dark hero zone and the informational lower layers. Every component feels machined — the spacing is generous but never loose, the radii are present but never pillowy, and the color palette is restrained to three families: deep charcoal, teal-accent, and warm signal.
+name: "Twelve South"
+source_url: "https://www.twelvesouth.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep, almost forest-green #121713 anchors the Twelve South canvas — not a sterile white but a rich near-black that makes every product shot of leather BookBook cases and polished aluminum stands feel like a still life on a dark walnut desk. The brand's signature voltage comes from a teal-cyan #045c7d, used sparingly on hover states, selectable highlights, and the thin underline on active navigation links; it reads as precision engineering rather than playfulness. A secondary accent of #ff4127 (a warm, urgent red-orange) appears on sale badges and limited-edition callouts, while #ffcf2a (a restrained marigold) marks loyalty or exclusive drops. The typography stack is freight-sans-pro in multiple cuts — condensed for display headlines, compressed for tight product titles, and a book weight for body copy — giving the system a tailored, editorial density that feels closer to a design magazine than an accessories storefront. Buttons use {rounded.sm} corners (8px) with a subtle lift, while product cards and feature modules take {rounded.md} (12px) — enough softness to feel approachable, not enough to feel casual. The primary CTA is a solid #121713 pill with white text, and on hover it inverts to a white fill with #121713 text and a thin #121713 border, a quiet reveal that rewards interaction. The footer and secondary navigation use a lighter ink #404041 on a #eff5f3 canvas (a pale, cool off-white), creating a clear hierarchy between the dark hero zone and the informational lower layers. Every component feels machined — the spacing is generous but never loose, the radii are present but never pillowy, and the color palette is restrained to three families: deep charcoal, teal-accent, and warm signal.
 
 colors:
   primary: "#121713"
@@ -495,6 +499,8 @@ components:
 - Breadcrumbs truncate on mobile, showing only the current page and a "Back" link.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for product-card-badge, newsletter-submit, and accordion-header were not reliably extracted from the live site; the hover behaviors described are inferred from common patterns in the brand's design language.
 - Error styling for forms (validation messages, error iconography) was not observed; the text-input-error border color is an assumption based on the accent-red.

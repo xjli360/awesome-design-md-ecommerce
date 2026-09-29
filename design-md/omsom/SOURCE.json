@@ -1,0 +1,693 @@
+{
+  "source_url": "https://omsom.com",
+  "final_url": "https://omsom.com/",
+  "captured_at": "2026-09-28T05:00:52.441231+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://omsom.com",
+      "final_url": "https://omsom.com/",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "ae1e312509ddcfe6fbbc16acd7443e8a454e3b7f1fdabb443922e52302a182eb",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://omsom.com/_assets/a0684b0780c739e9.vendor.ltr.css",
+      "final_url": "https://omsom.com/_assets/a0684b0780c739e9.vendor.ltr.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e8fb139770ec251e750403322d40db96c027b9feb48f4489b76a735f9f0869e5",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css",
+      "final_url": "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b22de5b88f5a274a9c5bef64f92ea65ee88379b3631360385255ab53bc3bf54f",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://omsom.com/_assets/static_font_4.ltr.css",
+      "final_url": "https://omsom.com/_assets/static_font_4.ltr.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "138b5385f644aacbff65a59c31cdd4f12856f422ebf852afb7477230e9e002c8",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 94,
+      "sources": [
+        "https://omsom.com/_assets/a0684b0780c739e9.vendor.ltr.css",
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#8b3dff": {
+      "count": 20,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#0d1216": {
+      "count": 14,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#db142c": {
+      "count": 13,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#ffffff12": {
+      "count": 11,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#612dae": {
+      "count": 9,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#fd4958": {
+      "count": 9,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#e7dbff": {
+      "count": 8,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#40576d12": {
+      "count": 8,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#394c6026": {
+      "count": 7,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#11171d99": {
+      "count": 7,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#1c273080": {
+      "count": 7,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#ffffff26": {
+      "count": 7,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#000000": {
+      "count": 6,
+      "sources": [
+        "https://omsom.com/_assets/a0684b0780c739e9.vendor.ltr.css",
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#ad5a00": {
+      "count": 6,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#b61629": {
+      "count": 6,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#ffffff80": {
+      "count": 6,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#3d8bff": {
+      "count": 5,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#7630d7": {
+      "count": 5,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#0e1318": {
+      "count": 5,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#a370fc": {
+      "count": 5,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#f0f1f5": {
+      "count": 4,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#252627": {
+      "count": 4,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#a570ff": {
+      "count": 4,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#0e1318b2": {
+      "count": 4,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#ffffffb2": {
+      "count": 4,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#182c5923": {
+      "count": 4,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#0000004d": {
+      "count": 4,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#3b3c3d": {
+      "count": 4,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#00c4cc": {
+      "count": 3,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#7731d8": {
+      "count": 3,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#008008": {
+      "count": 3,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#1962ff": {
+      "count": 3,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#d17600": {
+      "count": 3,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#f6f7f8": {
+      "count": 3,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#18191b": {
+      "count": 3,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#0e131800": {
+      "count": 3,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#35475a33": {
+      "count": 3,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#0d1216db": {
+      "count": 3,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#911826": {
+      "count": 3,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#008009": {
+      "count": 3,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#1a62ff": {
+      "count": 3,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#24313d66": {
+      "count": 3,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#ffffff00": {
+      "count": 3,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#ffffff33": {
+      "count": 3,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#e60000": {
+      "count": 2,
+      "sources": [
+        "https://omsom.com/_assets/a0684b0780c739e9.vendor.ltr.css"
+      ]
+    },
+    "#ff9900": {
+      "count": 2,
+      "sources": [
+        "https://omsom.com/_assets/a0684b0780c739e9.vendor.ltr.css"
+      ]
+    },
+    "#ffff00": {
+      "count": 2,
+      "sources": [
+        "https://omsom.com/_assets/a0684b0780c739e9.vendor.ltr.css"
+      ]
+    },
+    "#008a00": {
+      "count": 2,
+      "sources": [
+        "https://omsom.com/_assets/a0684b0780c739e9.vendor.ltr.css"
+      ]
+    },
+    "#0066cc": {
+      "count": 2,
+      "sources": [
+        "https://omsom.com/_assets/a0684b0780c739e9.vendor.ltr.css"
+      ]
+    },
+    "#9933ff": {
+      "count": 2,
+      "sources": [
+        "https://omsom.com/_assets/a0684b0780c739e9.vendor.ltr.css"
+      ]
+    },
+    "#36a137": {
+      "count": 2,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#096d11": {
+      "count": 2,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#c3eac4": {
+      "count": 2,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#1855d8": {
+      "count": 2,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#cce1ff": {
+      "count": 2,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#944f05": {
+      "count": 2,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#ffd9ad": {
+      "count": 2,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#ffd6d8": {
+      "count": 2,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "#16461a": {
+      "count": 2,
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+    ],
+    "Arial": [
+      "https://omsom.com/_assets/a0684b0780c739e9.vendor.ltr.css",
+      "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+    ],
+    "BlinkMacSystemFont": [
+      "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+    ],
+    "Canva Sans": [
+      "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css",
+      "https://omsom.com/_assets/static_font_4.ltr.css"
+    ],
+    "Courier New": [
+      "https://omsom.com/_assets/a0684b0780c739e9.vendor.ltr.css"
+    ],
+    "Georgia": [
+      "https://omsom.com/_assets/a0684b0780c739e9.vendor.ltr.css"
+    ],
+    "Helvetica": [
+      "https://omsom.com/_assets/a0684b0780c739e9.vendor.ltr.css",
+      "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+    ],
+    "Monaco": [
+      "https://omsom.com/_assets/a0684b0780c739e9.vendor.ltr.css"
+    ],
+    "Noto Sans": [
+      "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+    ],
+    "Noto Sans Variable": [
+      "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+    ],
+    "Noto Sans Vietnamese": [
+      "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+    ],
+    "Open Sans": [
+      "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+    ],
+    "Segoe UI": [
+      "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+    ],
+    "Times New Roman": [
+      "https://omsom.com/_assets/a0684b0780c739e9.vendor.ltr.css"
+    ],
+    "calibrate": [
+      "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+    ],
+    "monospace": [
+      "https://omsom.com/_assets/a0684b0780c739e9.vendor.ltr.css"
+    ],
+    "sans-serif": [
+      "https://omsom.com/_assets/a0684b0780c739e9.vendor.ltr.css",
+      "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+    ],
+    "serif": [
+      "https://omsom.com/_assets/a0684b0780c739e9.vendor.ltr.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css",
+      "selector": "._99eNQQ.gFh1Bw .SJUElg,.pSW2Cg",
+      "declarations": "background-color:var(--djTVRw)"
+    },
+    {
+      "source": "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css",
+      "selector": "[tabindex],button",
+      "declarations": "-webkit-tap-highlight-color:transparent"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Omsom",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "colors.secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://omsom.com/_assets/a0684b0780c739e9.vendor.ltr.css",
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://omsom.com/_assets/a0684b0780c739e9.vendor.ltr.css",
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "colors.on-secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://omsom.com/_assets/a0684b0780c739e9.vendor.ltr.css",
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "colors.highlight": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://omsom.com/_assets/3d8093a8acdacd27.ltr.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spice-level-indicator": {
+      "status": "inferred"
+    }
+  }
+}

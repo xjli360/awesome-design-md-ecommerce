@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Arctic
-description: Bright mint green (#6ed59f) against deep-navy (#242e39) — Arctic's color system reads like a server-room status LED: one saturated accent does all the signaling while the near-black substrate recedes completely. The palette extends methodically to three supporting accents that each carry a distinct product-state function: coral (#f27f7f) for warnings and out-of-stock notices, ice blue (#76bce7) for informational callouts and compatibility chips, and amber (#fcc679) for ratings and promotional banners. A darker forest green (#2c5540) anchors hover and active states for primary actions, pulling the mint back toward credibility rather than candy. Pale mint (#e2f7ec) surfaces as a chip tint — the brand's green reduced to a whisper for category labels and filter tags that need presence without weight. Lato runs the entire type system at weights 400 and 700, no display face, no italic: product headings and thermal-resistance spec rows share exactly the same geometric skeleton, which reads as deliberate parsimony given the engineering "Value Quality Performance" positioning. Cards and inputs sit at `{rounded.sm}` (8px) — firm enough to feel machined, never cold or institutional. Navigation and footers ground permanently in dark-base (#242e39) and dark-deep (#161c22), while product listing areas surface on near-white (#f9f9f9) to give studio renders and technical photography maximum contrast. The overall register sits between aggressive gaming-peripheral neon and antiseptic enterprise-IT white — a dark-tech aesthetic calibrated for repeat buyers who compare airflow CFM and static pressure before checkout.
+name: "Arctic"
+source_url: "https://www.arctic.de"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Bright mint green (#6ed59f) against deep-navy (#242e39) — Arctic's color system reads like a server-room status LED: one saturated accent does all the signaling while the near-black substrate recedes completely. The palette extends methodically to three supporting accents that each carry a distinct product-state function: coral (#f27f7f) for warnings and out-of-stock notices, ice blue (#76bce7) for informational callouts and compatibility chips, and amber (#fcc679) for ratings and promotional banners. A darker forest green (#2c5540) anchors hover and active states for primary actions, pulling the mint back toward credibility rather than candy. Pale mint (#e2f7ec) surfaces as a chip tint — the brand's green reduced to a whisper for category labels and filter tags that need presence without weight. Lato runs the entire type system at weights 400 and 700, no display face, no italic: product headings and thermal-resistance spec rows share exactly the same geometric skeleton, which reads as deliberate parsimony given the engineering "Value Quality Performance" positioning. Cards and inputs sit at `{rounded.sm}` (8px) — firm enough to feel machined, never cold or institutional. Navigation and footers ground permanently in dark-base (#242e39) and dark-deep (#161c22), while product listing areas surface on near-white (#f9f9f9) to give studio renders and technical photography maximum contrast. The overall register sits between aggressive gaming-peripheral neon and antiseptic enterprise-IT white — a dark-tech aesthetic calibrated for repeat buyers who compare airflow CFM and static pressure before checkout.
 
 colors:
   primary: "#6ed59f"
@@ -407,6 +411,8 @@ components:
 - Cart summary sidebar collapses to sticky bottom bar on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom display or campaign typeface found; only Lato was extracted. It is unclear whether Arctic uses a bespoke face for offline campaigns or product launch visuals not loaded on the main catalog pages.
 - Icon system not extractable from color/font hints; Arctic likely maintains a custom SVG icon set for product category glyphs — actual shapes, stroke weights, and filled vs. outline treatment are unknown.

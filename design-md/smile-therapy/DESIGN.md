@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Smile Therapy
-description: Smile Therapy is a bright, optimistic oral-care brand that feels more like a self-care ritual than a clinical routine. The palette centers on a vibrant teal (#108474) that reads as fresh, clean, and approachable — it's the brand's primary voltage, used across CTAs, badges, and key accents. This is balanced by a warm gold (#ebbf20) and a brighter yellow (#ffd700) that add a sense of reward and positivity, often appearing on sale badges or promotional elements. The canvas is a soft off-white (#f9fafb), with cards and surfaces in pure white (#ffffff) and a very light teal-tinted surface (#edf5f5) that whispers the brand color without overwhelming. Text runs in a deep navy-ink (#3a3b53) for body copy, with a near-black (#141414) for high-impact headlines, and a slate gray (#545454) for muted labels and secondary information. Typography leans on Archivo for display and heading work — a geometric sans-serif with a confident, modern stance — while Inter handles body text with its excellent readability at small sizes. The system uses soft, friendly radii: buttons and inputs round at {rounded.sm} (8px), cards at {rounded.md} (12px), and pill-shaped elements like search bars and badges go full round at {rounded.full}. There is a deliberate absence of harsh corners, reinforcing the "therapy" promise of gentle, soothing interactions. The overall mood is clean, warm, and slightly playful — a brand that wants you to enjoy taking care of your teeth.
+name: "Smile Therapy"
+source_url: "https://smile-therapy.co.uk"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Smile Therapy is a bright, optimistic oral-care brand that feels more like a self-care ritual than a clinical routine. The palette centers on a vibrant teal (#108474) that reads as fresh, clean, and approachable — it's the brand's primary voltage, used across CTAs, badges, and key accents. This is balanced by a warm gold (#ebbf20) and a brighter yellow (#ffd700) that add a sense of reward and positivity, often appearing on sale badges or promotional elements. The canvas is a soft off-white (#f9fafb), with cards and surfaces in pure white (#ffffff) and a very light teal-tinted surface (#edf5f5) that whispers the brand color without overwhelming. Text runs in a deep navy-ink (#3a3b53) for body copy, with a near-black (#141414) for high-impact headlines, and a slate gray (#545454) for muted labels and secondary information. Typography leans on Archivo for display and heading work — a geometric sans-serif with a confident, modern stance — while Inter handles body text with its excellent readability at small sizes. The system uses soft, friendly radii: buttons and inputs round at {rounded.sm} (8px), cards at {rounded.md} (12px), and pill-shaped elements like search bars and badges go full round at {rounded.full}. There is a deliberate absence of harsh corners, reinforcing the "therapy" promise of gentle, soothing interactions. The overall mood is clean, warm, and slightly playful — a brand that wants you to enjoy taking care of your teeth.
 
 colors:
   primary: "#108474"
@@ -385,6 +389,8 @@ components:
 - Category filter strips collapse to a horizontal scrollable row on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for ghost buttons and text links were not reliably extracted — assume a subtle background tint or underline on hover.
 - Error styling for form validation (red borders, error message typography) was inferred; exact error red (#d32f2f) is an assumption.

@@ -1,0 +1,949 @@
+{
+  "source_url": "https://earthen-shop.com",
+  "final_url": "https://earthen-shop.com/",
+  "captured_at": "2026-09-28T04:38:23.451145+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://earthen-shop.com",
+      "final_url": "https://earthen-shop.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "0adcad9a78f6fff2621563e1af2779d5edf721c327236068c79c6f20407beb35",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423",
+      "final_url": "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "aaecf27ae7d023ae113fe33bc6b0984164a08ec2d24ab86dba1d1ba5aabb18c3",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://earthen-shop.com/cdn/shop/t/5/assets/custom.css?v=160311212651642112641670557478",
+      "final_url": "https://earthen-shop.com/cdn/shop/t/5/assets/custom.css?v=160311212651642112641670557478",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7953fc21b0ae552f5665e0a6c9e569b7786abcead5d1638b048e1fa47533afec",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://earthen-shop.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://earthen-shop.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0e646-06e5-7c31-b402-3ed3aeb2aa6b/product-options-by-bss-639/assets/bss-po-style.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0e646-06e5-7c31-b402-3ed3aeb2aa6b/product-options-by-bss-639/assets/bss-po-style.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6ef2088e61e2eebfcec59ed1d7807b0b0978d9354b8834904c5c21b6bde204fe",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://earthen-shop.com/cdn/shop/t/5/assets/section-announcement-bar.min.css?v=132618823432793153241653144195",
+      "final_url": "https://earthen-shop.com/cdn/shop/t/5/assets/section-announcement-bar.min.css?v=132618823432793153241653144195",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "06cc21a8a26a52857e3e864059b870500a2518d677c9f25bc0d3dc3f90dd92e1",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 245,
+      "sources": [
+        "https://earthen-shop.com/",
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423",
+        "https://earthen-shop.com/cdn/shop/t/5/assets/custom.css?v=160311212651642112641670557478",
+        "https://earthen-shop.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0e646-06e5-7c31-b402-3ed3aeb2aa6b/product-options-by-bss-639/assets/bss-po-style.css"
+      ]
+    },
+    "#000000": {
+      "count": 105,
+      "sources": [
+        "https://earthen-shop.com/",
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423",
+        "https://earthen-shop.com/cdn/shop/t/5/assets/custom.css?v=160311212651642112641670557478",
+        "https://cdn.shopify.com/extensions/01a0e646-06e5-7c31-b402-3ed3aeb2aa6b/product-options-by-bss-639/assets/bss-po-style.css"
+      ]
+    },
+    "#6c757d": {
+      "count": 39,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#007bff": {
+      "count": 34,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#212529": {
+      "count": 32,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#28a745": {
+      "count": 29,
+      "sources": [
+        "https://earthen-shop.com/",
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#dc3545": {
+      "count": 28,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#dee2e6": {
+      "count": 28,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#343a40": {
+      "count": 19,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#f8f9fa": {
+      "count": 18,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#ffc107": {
+      "count": 17,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#17a2b8": {
+      "count": 17,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#e9ecef": {
+      "count": 15,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#3a3a3a": {
+      "count": 15,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#495057": {
+      "count": 13,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#ead8a4": {
+      "count": 12,
+      "sources": [
+        "https://earthen-shop.com/"
+      ]
+    },
+    "#555555": {
+      "count": 10,
+      "sources": [
+        "https://earthen-shop.com/"
+      ]
+    },
+    "#ebebeb": {
+      "count": 7,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423",
+        "https://cdn.shopify.com/extensions/01a0e646-06e5-7c31-b402-3ed3aeb2aa6b/product-options-by-bss-639/assets/bss-po-style.css"
+      ]
+    },
+    "#e3e1e1": {
+      "count": 6,
+      "sources": [
+        "https://earthen-shop.com/"
+      ]
+    },
+    "#adb5bd": {
+      "count": 6,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#333333": {
+      "count": 6,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423",
+        "https://cdn.shopify.com/extensions/01a0e646-06e5-7c31-b402-3ed3aeb2aa6b/product-options-by-bss-639/assets/bss-po-style.css"
+      ]
+    },
+    "#999999": {
+      "count": 6,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#18181b": {
+      "count": 5,
+      "sources": [
+        "https://earthen-shop.com/",
+        "https://cdn.shopify.com/extensions/01a0e646-06e5-7c31-b402-3ed3aeb2aa6b/product-options-by-bss-639/assets/bss-po-style.css"
+      ]
+    },
+    "#545b62": {
+      "count": 5,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#1e7e34": {
+      "count": 5,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#117a8b": {
+      "count": 5,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#d39e00": {
+      "count": 5,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#dae0e5": {
+      "count": 5,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#1d2124": {
+      "count": 5,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#b3d7ff": {
+      "count": 5,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#004085": {
+      "count": 5,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#383d41": {
+      "count": 5,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#155724": {
+      "count": 5,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#0c5460": {
+      "count": 5,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#856404": {
+      "count": 5,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#721c24": {
+      "count": 5,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#818182": {
+      "count": 5,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#1b1e21": {
+      "count": 5,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#aadddd": {
+      "count": 5,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 4,
+      "sources": [
+        "https://earthen-shop.com/",
+        "https://cdn.shopify.com/extensions/01a0e646-06e5-7c31-b402-3ed3aeb2aa6b/product-options-by-bss-639/assets/bss-po-style.css"
+      ]
+    },
+    "#0056b3": {
+      "count": 4,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#9fcdff": {
+      "count": 4,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#c8cbcf": {
+      "count": 4,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#b1dfbb": {
+      "count": 4,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#abdde5": {
+      "count": 4,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#ffe8a1": {
+      "count": 4,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#f1b0b7": {
+      "count": 4,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#ececf6": {
+      "count": 4,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#b9bbbe": {
+      "count": 4,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#ced4da": {
+      "count": 4,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#0062cc": {
+      "count": 4,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#bd2130": {
+      "count": 4,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#bfad7b": {
+      "count": 3,
+      "sources": [
+        "https://earthen-shop.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 3,
+      "sources": [
+        "https://earthen-shop.com/",
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423",
+        "https://cdn.shopify.com/extensions/01a0e646-06e5-7c31-b402-3ed3aeb2aa6b/product-options-by-bss-639/assets/bss-po-style.css"
+      ]
+    },
+    "#b94a48": {
+      "count": 3,
+      "sources": [
+        "https://earthen-shop.com/",
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#b22222": {
+      "count": 3,
+      "sources": [
+        "https://earthen-shop.com/"
+      ]
+    },
+    "#949494": {
+      "count": 3,
+      "sources": [
+        "https://earthen-shop.com/",
+        "https://cdn.shopify.com/extensions/01a0e646-06e5-7c31-b402-3ed3aeb2aa6b/product-options-by-bss-639/assets/bss-po-style.css"
+      ]
+    },
+    "#eaeaea": {
+      "count": 3,
+      "sources": [
+        "https://earthen-shop.com/"
+      ]
+    },
+    "#b8daff": {
+      "count": 3,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "#d6d8db": {
+      "count": 3,
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+    ],
+    "Apple Color Emoji": [
+      "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+    ],
+    "Arial": [
+      "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423",
+      "https://cdn.shopify.com/extensions/01a0e646-06e5-7c31-b402-3ed3aeb2aa6b/product-options-by-bss-639/assets/bss-po-style.css"
+    ],
+    "Assistant": [
+      "https://earthen-shop.com/",
+      "https://cdn.shopify.com/extensions/01a0e646-06e5-7c31-b402-3ed3aeb2aa6b/product-options-by-bss-639/assets/bss-po-style.css"
+    ],
+    "Avenir": [
+      "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+    ],
+    "Avenir Next": [
+      "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+    ],
+    "BeirutDisplay": [
+      "https://earthen-shop.com/cdn/shop/t/5/assets/custom.css?v=160311212651642112641670557478"
+    ],
+    "BlinkMacSystemFont": [
+      "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+    ],
+    "CircularStd": [
+      "https://earthen-shop.com/cdn/shop/t/5/assets/custom.css?v=160311212651642112641670557478"
+    ],
+    "CircularStd!important": [
+      "https://earthen-shop.com/cdn/shop/t/5/assets/custom.css?v=160311212651642112641670557478"
+    ],
+    "Consolas": [
+      "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+    ],
+    "Courier New": [
+      "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+    ],
+    "FontAwesome": [
+      "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+    ],
+    "Helvetica": [
+      "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423",
+      "https://cdn.shopify.com/extensions/01a0e646-06e5-7c31-b402-3ed3aeb2aa6b/product-options-by-bss-639/assets/bss-po-style.css"
+    ],
+    "Helvetica Neue": [
+      "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+    ],
+    "Liberation Mono": [
+      "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+    ],
+    "Lydian": [
+      "https://earthen-shop.com/cdn/shop/t/5/assets/custom.css?v=160311212651642112641670557478"
+    ],
+    "Lydian!important": [
+      "https://earthen-shop.com/cdn/shop/t/5/assets/custom.css?v=160311212651642112641670557478"
+    ],
+    "Menlo": [
+      "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+    ],
+    "Monaco": [
+      "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+    ],
+    "Noto Color Emoji": [
+      "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+    ],
+    "Noto Sans": [
+      "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+    ],
+    "PlanscribeNF-Bold": [
+      "https://earthen-shop.com/cdn/shop/t/5/assets/custom.css?v=160311212651642112641670557478"
+    ],
+    "PlanscribeNF-Bold!important": [
+      "https://earthen-shop.com/cdn/shop/t/5/assets/custom.css?v=160311212651642112641670557478"
+    ],
+    "Roboto": [
+      "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+    ],
+    "SFMono-Regular": [
+      "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+    ],
+    "Segoe UI": [
+      "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+    ],
+    "Segoe UI Emoji": [
+      "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+    ],
+    "Segoe UI Symbol": [
+      "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+    ],
+    "flexslider-icon": [
+      "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+    ],
+    "monospace": [
+      "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+    ],
+    "monospace!important": [
+      "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+    ],
+    "sans-serif": [
+      "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423",
+      "https://cdn.shopify.com/extensions/01a0e646-06e5-7c31-b402-3ed3aeb2aa6b/product-options-by-bss-639/assets/bss-po-style.css"
+    ],
+    "sans-serif !important": [
+      "https://cdn.shopify.com/extensions/01a0e646-06e5-7c31-b402-3ed3aeb2aa6b/product-options-by-bss-639/assets/bss-po-style.css"
+    ],
+    "serif": [
+      "https://earthen-shop.com/cdn/shop/t/5/assets/custom.css?v=160311212651642112641670557478"
+    ],
+    "swiper-icons": [
+      "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://earthen-shop.com/",
+      "selector": ".bss-po-product-page",
+      "declarations": "--bss-checkbox-radio-size: 13px;\n        --bss-switch-height: 17px;\n        --bss-swatch-width: 53px;\n        --bss-helptext-option-value-color: #949494;\n        --bss-helptext-option-value-size: 13px;\n        --bss-helptext-option-value-bg: #eaeaea;"
+    },
+    {
+      "source": "https://earthen-shop.com/",
+      "selector": ".po-option--type-radiobutton:has(input:checked) .po-circle-inside,\n    .po-option--type-checkbox input:checked::before",
+      "declarations": "background-color: #18181b;"
+    },
+    {
+      "source": "https://earthen-shop.com/",
+      "selector": ".po-option__button-media",
+      "declarations": "background-color: #ffffff;\n        padding: 5px 10px;\n        border: solid 1px #e3e1e1;\n        border-radius: 3px;"
+    },
+    {
+      "source": "https://earthen-shop.com/",
+      "selector": ".po-option__button-media:hover",
+      "declarations": "border-color: #555555;\n        background-color: #555555;"
+    },
+    {
+      "source": "https://earthen-shop.com/",
+      "selector": ".po-option__button-value",
+      "declarations": "color: #000000;"
+    },
+    {
+      "source": "https://earthen-shop.com/",
+      "selector": ".po-option__button-media:hover .po-option__button-value",
+      "declarations": "color: #ffffff;"
+    },
+    {
+      "source": "https://earthen-shop.com/",
+      "selector": ".po-option__value:has(input:checked) .po-option__button-media",
+      "declarations": "border-color: #e3e1e1;\n        background-color: #555555;"
+    },
+    {
+      "source": "https://earthen-shop.com/",
+      "selector": ".po-option__value:has(input:checked) .po-option__button-media .po-option__button-value",
+      "declarations": "color: #ffffff;"
+    },
+    {
+      "source": "https://earthen-shop.com/",
+      "selector": ".po-font_picker-option--button",
+      "declarations": "background-color: #ffffff;\n        padding: 5px 10px;\n        border: solid 1px #e3e1e1;\n        border-radius: 3px;"
+    },
+    {
+      "source": "https://earthen-shop.com/",
+      "selector": ".po-font_picker-option--button .po_description",
+      "declarations": "color: #000000;"
+    },
+    {
+      "source": "https://earthen-shop.com/",
+      "selector": ".po-font_picker-option--button:hover",
+      "declarations": "border-color: #555555;\n        background-color: #555555;"
+    },
+    {
+      "source": "https://earthen-shop.com/",
+      "selector": ".po-font_picker-option--button:hover .po_description",
+      "declarations": "color: #ffffff;"
+    },
+    {
+      "source": "https://earthen-shop.com/",
+      "selector": ".po-font_picker-option--button.selected, \n    .po-font_picker-option--button.selected:hover",
+      "declarations": "border-color: #e3e1e1;\n        background-color: #555555;"
+    },
+    {
+      "source": "https://earthen-shop.com/",
+      "selector": ".po-font_picker-option--button.selected .po_description, \n    .po-font_picker-option--button.selected:hover .po_description",
+      "declarations": "color: #ffffff;"
+    },
+    {
+      "source": "https://earthen-shop.com/",
+      "selector": "button[name=\"po-edit-options-in-cart\"]",
+      "declarations": "border-radius: 3px;\n        background-color: #000000;"
+    },
+    {
+      "source": "https://earthen-shop.com/",
+      "selector": ".slider-block--46b084b9-a5c4-44f2-abbc-bc25a12b3f64 .slider-caption.background a:not(.btn)",
+      "declarations": "color: #ffffff !important;"
+    },
+    {
+      "source": "https://earthen-shop.com/",
+      "selector": ".slider-block--46b084b9-a5c4-44f2-abbc-bc25a12b3f64 .slider-caption .btn",
+      "declarations": "background-color: #000000 !important;\n                        color: #ffffff !important;"
+    },
+    {
+      "source": "https://earthen-shop.com/",
+      "selector": ".slider-block--46b084b9-a5c4-44f2-abbc-bc25a12b3f64 .slider-caption .btn:focus",
+      "declarations": "background-color: #ffffff !important;\n                        color: #000000 !important;"
+    },
+    {
+      "source": "https://earthen-shop.com/",
+      "selector": ".slider-block--46b084b9-a5c4-44f2-abbc-bc25a12b3f64 .slider-caption:not(.slideshow-mobile-image-content) a.btn",
+      "declarations": "background-color: #000000 !important;\n                          color: #ffffff !important;"
+    },
+    {
+      "source": "https://earthen-shop.com/",
+      "selector": ".slider-block--46b084b9-a5c4-44f2-abbc-bc25a12b3f64 .slider-caption:not(.slideshow-mobile-image-content) .btn:hover",
+      "declarations": "background-color: #ead8a4 !important;"
+    },
+    {
+      "source": "https://earthen-shop.com/",
+      "selector": ".slider-block--slide_wYKHjz .slider-caption.background a:not(.btn)",
+      "declarations": "color: #ffffff !important;"
+    },
+    {
+      "source": "https://earthen-shop.com/",
+      "selector": ".slider-block--slide_wYKHjz .slider-caption .btn",
+      "declarations": "background-color: #000000 !important;\n                        color: #ffffff !important;"
+    },
+    {
+      "source": "https://earthen-shop.com/",
+      "selector": ".slider-block--slide_wYKHjz .slider-caption .btn:focus",
+      "declarations": "background-color: #ffffff !important;\n                        color: #000000 !important;"
+    },
+    {
+      "source": "https://earthen-shop.com/",
+      "selector": ".slider-block--slide_wYKHjz .slider-caption:not(.slideshow-mobile-image-content) a.btn",
+      "declarations": "background-color: #000000 !important;\n                          color: #ffffff !important;"
+    },
+    {
+      "source": "https://earthen-shop.com/",
+      "selector": ".slider-block--slide_wYKHjz .slider-caption:not(.slideshow-mobile-image-content) .btn:hover",
+      "declarations": "background-color: #ead8a4 !important;"
+    },
+    {
+      "source": "https://earthen-shop.com/",
+      "selector": ".slider-block--74d96b1c-003b-4ded-a1c8-b5ecbbc8d2a3 .slider-caption.background a:not(.btn)",
+      "declarations": "color: #ffffff !important;"
+    },
+    {
+      "source": "https://earthen-shop.com/",
+      "selector": ".slider-block--74d96b1c-003b-4ded-a1c8-b5ecbbc8d2a3 .slider-caption .btn",
+      "declarations": "background-color: #000000 !important;\n                        color: #ffffff !important;"
+    },
+    {
+      "source": "https://earthen-shop.com/",
+      "selector": ".slider-block--74d96b1c-003b-4ded-a1c8-b5ecbbc8d2a3 .slider-caption .btn:focus",
+      "declarations": "background-color: #ffffff !important;\n                        color: #000000 !important;"
+    },
+    {
+      "source": "https://earthen-shop.com/",
+      "selector": ".slider-block--74d96b1c-003b-4ded-a1c8-b5ecbbc8d2a3 .slider-caption:not(.slideshow-mobile-image-content) a.btn",
+      "declarations": "background-color: #000000 !important;\n                          color: #ffffff !important;"
+    },
+    {
+      "source": "https://earthen-shop.com/",
+      "selector": ".slider-block--74d96b1c-003b-4ded-a1c8-b5ecbbc8d2a3 .slider-caption:not(.slideshow-mobile-image-content) .btn:hover",
+      "declarations": "background-color: #ead8a4 !important;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Earthen Shop",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthen-shop.com/",
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423",
+        "https://earthen-shop.com/cdn/shop/t/5/assets/custom.css?v=160311212651642112641670557478",
+        "https://cdn.shopify.com/extensions/01a0e646-06e5-7c31-b402-3ed3aeb2aa6b/product-options-by-bss-639/assets/bss-po-style.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthen-shop.com/",
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423",
+        "https://earthen-shop.com/cdn/shop/t/5/assets/custom.css?v=160311212651642112641670557478",
+        "https://earthen-shop.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0e646-06e5-7c31-b402-3ed3aeb2aa6b/product-options-by-bss-639/assets/bss-po-style.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthen-shop.com/",
+        "https://cdn.shopify.com/extensions/01a0e646-06e5-7c31-b402-3ed3aeb2aa6b/product-options-by-bss-639/assets/bss-po-style.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthen-shop.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthen-shop.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthen-shop.com/",
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423",
+        "https://earthen-shop.com/cdn/shop/t/5/assets/custom.css?v=160311212651642112641670557478",
+        "https://earthen-shop.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0e646-06e5-7c31-b402-3ed3aeb2aa6b/product-options-by-bss-639/assets/bss-po-style.css"
+      ]
+    },
+    "colors.accent-clay": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthen-shop.com/"
+      ]
+    },
+    "colors.accent-sand": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthen-shop.com/"
+      ]
+    },
+    "colors.hover-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthen-shop.com/"
+      ]
+    },
+    "colors.focus-active": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthen-shop.com/",
+        "https://cdn.shopify.com/extensions/01a0e646-06e5-7c31-b402-3ed3aeb2aa6b/product-options-by-bss-639/assets/bss-po-style.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthen-shop.com/",
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthen-shop.com/cdn/shop/t/5/assets/theme-index.min.css?v=13091290228199417981665447423"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.option-swatch": {
+      "status": "inferred"
+    }
+  }
+}

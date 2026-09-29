@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: NECA
-description: A collector-grade action-figure marketplace that wears its fandom on its sleeve through a high-contrast palette anchored on a deep, almost-black ink (#111111) and a primary red (#e83630) that reads like a comic-book cover's signature color — bold enough to punch through a shelf of product photography, restrained enough to let the figures themselves be the spectacle. The brand's secondary palette is a toy-box explosion of purple (#600040, #600060), blue (#4054b2, #003388), and orange (#ff6900), used sparingly for category badges and limited-edition callouts, while the canvas stays a clean white (#eeeeee) with soft surface cards at (#ffffff) and hairline borders at (#bbbbbb). Typography runs a pragmatic sans-serif stack — Open Sans, Roboto, and system fonts — at modest sizes (body at 14–16px, display at 20–24px) with no decorative weights; the brand trusts the raw energy of its licensed IP photography over typographic flourish. Buttons are sharp-cornered rectangles (`{rounded.sm}` ~8px) in the primary red, while product cards use a softer `{rounded.md}` ~12px to frame the figures without competing. The nav bar is a dark band (`{colors.ink}`) with white text, a deliberate inversion that signals "this is the storefront, not the shelf." Search is a full-width bar with a red submit button, and the footer collapses into a dense grid of links in muted gray (#808080). The overall feel is that of a convention-exclusive booth translated into a web store — loud when it needs to be, functional when it doesn't.
+name: "NECA"
+source_url: "https://necaonline.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A collector-grade action-figure marketplace that wears its fandom on its sleeve through a high-contrast palette anchored on a deep, almost-black ink (#111111) and a primary red (#e83630) that reads like a comic-book cover's signature color — bold enough to punch through a shelf of product photography, restrained enough to let the figures themselves be the spectacle. The brand's secondary palette is a toy-box explosion of purple (#600040, #600060), blue (#4054b2, #003388), and orange (#ff6900), used sparingly for category badges and limited-edition callouts, while the canvas stays a clean white (#eeeeee) with soft surface cards at (#ffffff) and hairline borders at (#bbbbbb). Typography runs a pragmatic sans-serif stack — Open Sans, Roboto, and system fonts — at modest sizes (body at 14–16px, display at 20–24px) with no decorative weights; the brand trusts the raw energy of its licensed IP photography over typographic flourish. Buttons are sharp-cornered rectangles (`{rounded.sm}` ~8px) in the primary red, while product cards use a softer `{rounded.md}` ~12px to frame the figures without competing. The nav bar is a dark band (`{colors.ink}`) with white text, a deliberate inversion that signals "this is the storefront, not the shelf." Search is a full-width bar with a red submit button, and the footer collapses into a dense grid of links in muted gray (#808080). The overall feel is that of a convention-exclusive booth translated into a web store — loud when it needs to be, functional when it doesn't.
 
 colors:
   primary: "#e83630"
@@ -325,6 +329,8 @@ components:
 - Hero banner reduces vertical padding and stacks CTA below headline on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for text inputs, links, and secondary buttons were not reliably extracted from the live site; the values provided for `button-primary-active` and `text-input-focus` are inferred from common patterns and should be verified against the brand's actual CSS.
 - Error styling (form validation, error messages, empty states) was not observed in the extraction.

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Kaged
-description: A performance-driven supplement brand that uses a deep teal (#088f87) as its primary voltage — a color that reads as metabolic, clean, and clinical without feeling cold. The brand's canvas is near-black (#121212) rather than white, an unusual choice for a supplement company that signals intensity and focus over the usual bright-and-airy wellness aesthetic. The lightest tone in the palette is a warm gray (#dedede) used for body copy and secondary text, creating a high-contrast, low-glare reading experience against the dark canvas. Typography runs DINPro and Inter — DINPro for display headlines where its geometric, industrial character evokes gym equipment and engineering precision, and Inter for body copy where readability at small sizes matters. Buttons use the teal at full saturation with white text and soft 8px corners (`{rounded.sm}`), while product cards sit on a slightly lighter surface (`{colors.surface-card}`) with 12px rounding (`{rounded.md}`) that softens the otherwise severe dark interface. The brand's "Never Stop Evolving" tagline appears in all-caps DINPro on the homepage hero, set against a full-bleed dark background with the teal used sparingly for CTAs and accent lines. The overall mood is that of a premium performance lab — dark, focused, and unapologetically intense, with the teal acting as a single bright signal that guides the user through an otherwise monochrome interface.
+name: "Kaged"
+source_url: "https://kaged.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A performance-driven supplement brand that uses a deep teal (#088f87) as its primary voltage — a color that reads as metabolic, clean, and clinical without feeling cold. The brand's canvas is near-black (#121212) rather than white, an unusual choice for a supplement company that signals intensity and focus over the usual bright-and-airy wellness aesthetic. The lightest tone in the palette is a warm gray (#dedede) used for body copy and secondary text, creating a high-contrast, low-glare reading experience against the dark canvas. Typography runs DINPro and Inter — DINPro for display headlines where its geometric, industrial character evokes gym equipment and engineering precision, and Inter for body copy where readability at small sizes matters. Buttons use the teal at full saturation with white text and soft 8px corners (`{rounded.sm}`), while product cards sit on a slightly lighter surface (`{colors.surface-card}`) with 12px rounding (`{rounded.md}`) that softens the otherwise severe dark interface. The brand's "Never Stop Evolving" tagline appears in all-caps DINPro on the homepage hero, set against a full-bleed dark background with the teal used sparingly for CTAs and accent lines. The overall mood is that of a premium performance lab — dark, focused, and unapologetically intense, with the teal acting as a single bright signal that guides the user through an otherwise monochrome interface.
 
 colors:
   primary: "#088f87"
@@ -435,6 +439,8 @@ components:
 - Hero background images switch to a mobile-optimized crop below 744px to maintain visual impact
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted color palette is limited to three hex values (#dedede, #088f87, #121212), which may not represent the full brand palette. Additional accent colors (like the amber rating stars and red sale badge) were inferred from common e-commerce patterns rather than extracted from the live site.
 - Hover and focus states for form elements (inputs, textareas, selects) could not be reliably extracted — the focus ring color and style are assumed to match the primary teal.

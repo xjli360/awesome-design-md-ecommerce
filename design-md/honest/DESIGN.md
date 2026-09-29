@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Honest
-description: A sage-warm palette anchored on #bad0c9 — a muted celadon that reads as clean without clinical white, found across backgrounds, badges, and product imagery — paired with a cream canvas of #fff6ee that softens every edge. The brand's secondary voltage comes from #899df1, a periwinkle accent used sparingly on interactive elements and illustrations, while #f2b136 adds a marigold pop for sale tags and promotional badges. Typography runs Assistant at moderate weights (300–600) with neue-haas-grotesk-display for display headlines, creating a gentle contrast between rounded geometric headlines and the airy, humanist body copy. Product cards use generous whitespace and {rounded.md} corners, with CTAs rendered in the sage primary on cream backgrounds — never aggressive, always inviting. The checkout flow carries Shopify's default widget colors (#1795a7 teal, #b76d7b rose) which sit slightly outside the brand palette, suggesting a pragmatic platform integration rather than a curated design choice. Navigation is minimal: a sticky top bar with the Honest wordmark, search icon, and account/cart links, all in #201f1d ink on the cream canvas. The overall feeling is that of a well-edited nursery — soft, safe, and deliberately un-loud.
+name: "Honest"
+source_url: "https://honest.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A sage-warm palette anchored on #bad0c9 — a muted celadon that reads as clean without clinical white, found across backgrounds, badges, and product imagery — paired with a cream canvas of #fff6ee that softens every edge. The brand's secondary voltage comes from #899df1, a periwinkle accent used sparingly on interactive elements and illustrations, while #f2b136 adds a marigold pop for sale tags and promotional badges. Typography runs Assistant at moderate weights (300–600) with neue-haas-grotesk-display for display headlines, creating a gentle contrast between rounded geometric headlines and the airy, humanist body copy. Product cards use generous whitespace and {rounded.md} corners, with CTAs rendered in the sage primary on cream backgrounds — never aggressive, always inviting. The checkout flow carries Shopify's default widget colors (#1795a7 teal, #b76d7b rose) which sit slightly outside the brand palette, suggesting a pragmatic platform integration rather than a curated design choice. Navigation is minimal: a sticky top bar with the Honest wordmark, search icon, and account/cart links, all in #201f1d ink on the cream canvas. The overall feeling is that of a well-edited nursery — soft, safe, and deliberately un-loud.
 
 colors:
   primary: "#bad0c9"
@@ -354,6 +358,8 @@ components:
 - Product card details (description, reviews) collapse to accordion below 744px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components beyond primary/secondary buttons could not be reliably extracted
 - Error state styling for forms (beyond border color) is inferred from common patterns, not extracted

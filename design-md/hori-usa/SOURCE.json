@@ -1,0 +1,984 @@
+{
+  "source_url": "https://stores.horiusa.com/",
+  "final_url": "https://stores.horiusa.com/",
+  "captured_at": "2026-09-29T04:22:19.697061+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://stores.horiusa.com/",
+      "final_url": "https://stores.horiusa.com/",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "a003348a4cbf35e4a0f99d25cd44257beac23639b2235265d88d6773061bd955",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Lato&display=swap",
+      "final_url": "https://fonts.googleapis.com/css?family=Lato&display=swap",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d062e40a74c7bca71e05aa393fa9e12b328a7c5a40b5deeb797e69f81ce010c8",
+      "snapshot": "rendered-style-1.css"
+    },
+    {
+      "url": "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "final_url": "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "be8787d7459b2394c95a3f1cb3e1288dcc2e449f0212f5a3478ff2397690dea4",
+      "snapshot": "rendered-style-2.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Lato:700,500,400&display=swap",
+      "final_url": "https://fonts.googleapis.com/css?family=Lato:700,500,400&display=swap",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0f95a3227364ab2fe743dccfc765ef4e030725fcca7b52bca55e812a5fccd08c",
+      "snapshot": "rendered-style-3.css"
+    },
+    {
+      "url": "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+      "final_url": "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "799aeb25cc0373fdee0e1b1db7ad6c2f6a0e058dfadaa3379689f583213190bd",
+      "snapshot": "rendered-style-4.css"
+    },
+    {
+      "url": "https://stores.horiusa.com/#computed-style-snapshot",
+      "final_url": "https://stores.horiusa.com/#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "deb416b516671bafe0ee095e1bb3c0db36d90278ada5587d44226d57013dcc96",
+      "snapshot": "rendered-style-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 219,
+      "sources": [
+        "https://stores.horiusa.com/",
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+        "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+        "https://stores.horiusa.com/#computed-style-snapshot"
+      ]
+    },
+    "#757575": {
+      "count": 91,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+        "https://stores.horiusa.com/#computed-style-snapshot"
+      ]
+    },
+    "#333333": {
+      "count": 72,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+        "https://stores.horiusa.com/#computed-style-snapshot"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 66,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#999999": {
+      "count": 57,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 36,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+        "https://stores.horiusa.com/#computed-style-snapshot"
+      ]
+    },
+    "#0067b3": {
+      "count": 36,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+        "https://stores.horiusa.com/#computed-style-snapshot"
+      ]
+    },
+    "#000000": {
+      "count": 32,
+      "sources": [
+        "https://stores.horiusa.com/",
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+        "https://stores.horiusa.com/#computed-style-snapshot"
+      ]
+    },
+    "#666666": {
+      "count": 22,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+        "https://stores.horiusa.com/#computed-style-snapshot"
+      ]
+    },
+    "#ec193a": {
+      "count": 9,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+        "https://stores.horiusa.com/#computed-style-snapshot"
+      ]
+    },
+    "#008a06": {
+      "count": 8,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#f1a500": {
+      "count": 7,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#444444": {
+      "count": 5,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#cc4749": {
+      "count": 5,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#f27474": {
+      "count": 5,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#e7f4f9": {
+      "count": 5,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#beebff": {
+      "count": 5,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#0a6aa1": {
+      "count": 4,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#e2e3e3": {
+      "count": 4,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#efefef": {
+      "count": 4,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#fffdea": {
+      "count": 3,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#545454": {
+      "count": 3,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#3085d6": {
+      "count": 3,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#222021": {
+      "count": 3,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+        "https://stores.horiusa.com/#computed-style-snapshot"
+      ]
+    },
+    "#007dc6": {
+      "count": 3,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#f93262": {
+      "count": 2,
+      "sources": [
+        "https://stores.horiusa.com/"
+      ]
+    },
+    "#4ad504": {
+      "count": 2,
+      "sources": [
+        "https://stores.horiusa.com/"
+      ]
+    },
+    "#dfdfdf": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#d5ffd8": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#ffdddd": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#c4e6f5": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#a5dc86": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#add8e6": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#0165b2": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#e8eff7": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#a8e4ff": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#222222": {
+      "count": 1,
+      "sources": [
+        "https://stores.horiusa.com/"
+      ]
+    },
+    "#9c9c9c": {
+      "count": 1,
+      "sources": [
+        "https://stores.horiusa.com/"
+      ]
+    },
+    "#ff4734": {
+      "count": 1,
+      "sources": [
+        "https://stores.horiusa.com/"
+      ]
+    },
+    "#ffb400": {
+      "count": 1,
+      "sources": [
+        "https://stores.horiusa.com/"
+      ]
+    },
+    "#1c91ff": {
+      "count": 1,
+      "sources": [
+        "https://stores.horiusa.com/"
+      ]
+    },
+    "#111111": {
+      "count": 1,
+      "sources": [
+        "https://stores.horiusa.com/"
+      ]
+    },
+    "#fafafa": {
+      "count": 1,
+      "sources": [
+        "https://stores.horiusa.com/"
+      ]
+    },
+    "#3c5a9b": {
+      "count": 1,
+      "sources": [
+        "https://stores.horiusa.com/"
+      ]
+    },
+    "#1ab2e8": {
+      "count": 1,
+      "sources": [
+        "https://stores.horiusa.com/"
+      ]
+    },
+    "#dd4b39": {
+      "count": 1,
+      "sources": [
+        "https://stores.horiusa.com/"
+      ]
+    },
+    "#ffff00": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#595959": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#dd5555": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#b4dbed": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#ea7d7d": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#f8bb86": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#facea8": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#3fc3ee": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#9de0f6": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#87adbd": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#c9dae1": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#0166b3": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#ef1334": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#d6cdc0": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#c8bdb2": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#1a191a": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#626568": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#273a8a": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#4b71fc": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#edeef6": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#212021": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#979797": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#8b0000": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#ebebeb": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 1,
+      "sources": [
+        "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+      ]
+    }
+  },
+  "font_families": {
+    "/5.5.3/": [
+      "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+    ],
+    "/only screen and (max-width: 551px)/": [
+      "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+    ],
+    "/only screen and (min-width:1261px) and (max-width:1681px)/": [
+      "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+    ],
+    "/only screen and (min-width:1261px)/": [
+      "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+    ],
+    "/only screen and (min-width:1681px)/": [
+      "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+    ],
+    "/only screen and (min-width:551px) and (max-width:801px)/": [
+      "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+    ],
+    "/only screen and (min-width:551px)/": [
+      "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+    ],
+    "/only screen and (min-width:801px) and (max-width:1261px)/": [
+      "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+    ],
+    "/only screen and (min-width:801px)/": [
+      "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+    ],
+    "/only screen/": [
+      "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+    ],
+    "Arial": [
+      "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "https://stores.horiusa.com/#computed-style-snapshot"
+    ],
+    "FontAwesome": [
+      "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+    ],
+    "Helvetica": [
+      "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "https://stores.horiusa.com/#computed-style-snapshot"
+    ],
+    "Helvetica Neue": [
+      "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+    ],
+    "Lato": [
+      "https://fonts.googleapis.com/css?family=Lato&display=swap",
+      "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "https://fonts.googleapis.com/css?family=Lato:700,500,400&display=swap",
+      "https://stores.horiusa.com/#computed-style-snapshot"
+    ],
+    "Open Sans": [
+      "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+    ],
+    "Source Sans Pro": [
+      "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+    ],
+    "arial": [
+      "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+    ],
+    "false": [
+      "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+    ],
+    "monospace": [
+      "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+    ],
+    "sans serif": [
+      "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+    ],
+    "sans-serif": [
+      "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "https://stores.horiusa.com/#computed-style-snapshot"
+    ],
+    "serif": [
+      "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://stores.horiusa.com/",
+      "selector": ".eapps-widget-toolbar-panel-share-button",
+      "declarations": "padding:0 18px;height:28px;background-color:#1c91ff;color:#fff;font-size:12px;font-weight:400;border-radius:6px;position:absolute;top:0;display:-ms-flexbox;display:flex;-ms-flex-direction:row;flex-direction:row;cursor:default;-ms-flex-align:center;align-items:center"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "selector": "body",
+      "declarations": "background:#fff;color:#333;cursor:auto;margin:0;padding:0;position:relative"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "selector": "body",
+      "declarations": "font-family:Lato,Arial,Helvetica,sans-serif;font-weight:400;line-height:1.5"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "color:#444;font-family:Lato,Arial,Helvetica,sans-serif;font-weight:400;letter-spacing:.25px;margin-bottom:.78571rem"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "selector": "h1 small,h2 small,h3 small,h4 small,h5 small,h6 small",
+      "declarations": "color:#757575;font-size:60%;line-height:0"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "selector": ".button",
+      "declarations": "-webkit-appearance:none;-moz-appearance:none;border-radius:0;border-style:solid;border-width:1px;cursor:pointer;font-family:Lato,Arial,Helvetica,sans-serif;font-weight:400;line-height:normal;margin:0 0 1rem;position:relative;text-align:center;text-decoration:none;display:inline-block;background-color:transparent;border-color:#ccc;color:#fff;font-size:1rem;padding:.85714rem 2.28571rem;border-radius:4px;outline:0;vertical-align:middle"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "selector": ".button.active,.button.is-active,.button:focus,.button:hover",
+      "declarations": "background-color:transparent;border-color:#999;color:#fff"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "selector": ".button:active",
+      "declarations": "background-color:transparent;border:1px solid #757575;color:#000"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "selector": ".button--primary",
+      "declarations": "background-color:#0067b3;border-color:#0067b3;color:#fff"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "selector": ".button--primary.active,.button--primary.is-active,.button--primary:focus,.button--primary:hover",
+      "declarations": "background-color:#ec193a;border-color:#ec193a;color:#fff"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "selector": ".button--primary:active",
+      "declarations": "background-color:#0067b3;border:1px solid #0067b3;color:#fff"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "selector": ".button[disabled]",
+      "declarations": "background-color:#ccc;border-color:rgba(0,0,255,0);color:#fff;cursor:default"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "selector": ".form-body",
+      "declarations": "background-color:#fff;border:1px solid #999;-webkit-box-shadow:0 1px 2px rgba(255,255,255,.13);box-shadow:0 1px 2px rgba(255,255,255,.13);margin-bottom:1.5rem;max-width:none;padding:1.5rem"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "selector": ".panel-header",
+      "declarations": "background-color:#e5e5e5;margin:0;padding:1.5rem 2rem 0"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "selector": ".pagination-list li a,.pagination-list li button",
+      "declarations": "border-radius:4px;-webkit-transition:background-color .3s ease-out;transition:background-color .3s ease-out;background:0 0;color:#757575;display:block;font-size:1em;font-weight:400;line-height:inherit;padding:.28571rem .5rem"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "selector": "li.pagination-item--current a,li.pagination-item--current button",
+      "declarations": "color:#333;cursor:default"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "selector": ".card-figcaption-body .card-text",
+      "declarations": "color:#757575"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "selector": ".card-figcaption-button",
+      "declarations": "background-color:rgba(255,255,255,.9);color:#333"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "selector": ".card-figcaption-button:hover",
+      "declarations": "background-color:#fff;color:#333"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "selector": ".card-body .card-text",
+      "declarations": "color:#757575"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "selector": ".slick-dots li button",
+      "declarations": "border:0;background:0 0;display:block;height:20px;width:20px;outline:0;line-height:0;font-size:0px;color:transparent;padding:5px;cursor:pointer"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "selector": ".slick-dots li button:before",
+      "declarations": "position:absolute;top:0;left:0;content:\"\";width:20px;height:20px;font-family:inherit;font-size:60px;line-height:20px;text-align:center;color:#333;opacity:.6;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "selector": ".slick-dots li.slick-active button:before",
+      "declarations": "color:#757575;opacity:1"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "selector": ".swal2-modal .swal2-buttonswrapper.swal2-loading .swal2-styled.swal2-confirm",
+      "declarations": "-webkit-box-sizing:border-box;box-sizing:border-box;border:4px solid transparent;border-color:transparent;width:40px;height:40px;padding:0;margin:7.5px;vertical-align:top;background-color:transparent!important;color:transparent;cursor:default;border-radius:100%;-webkit-animation:rotate-loading 1.5s linear 0s infinite normal;animation:rotate-loading 1.5s linear 0s infinite normal;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "selector": ".swal2-modal .swal2-buttonswrapper.swal2-loading :not(.swal2-styled).swal2-confirm::after",
+      "declarations": "display:inline-block;content:'';margin-left:5px;vertical-align:-1px;height:15px;width:15px;border:3px solid #999;-webkit-box-shadow:1px 1px 1px #fff;box-shadow:1px 1px 1px #fff;border-right-color:transparent;border-radius:50%;-webkit-animation:rotate-loading 1.5s linear 0s infinite normal;animation:rotate-loading 1.5s linear 0s infinite normal"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "selector": "#wishlist-dropdown.is-open .button",
+      "declarations": "background-color:#fff;border-top-left-radius:0;border-top-right-radius:0;width:100%"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "selector": ".modal--alert .button-container .confirm",
+      "declarations": "background-color:#0067b3;border-color:#0067b3;color:#fff"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "selector": ".modal--alert .button-container .confirm:focus,.modal--alert .button-container .confirm:hover",
+      "declarations": "background-color:#ec193a;border-color:#ec193a;color:#fff"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+      "selector": ".modal--alert .button-container .confirm:active",
+      "declarations": "background-color:#0067b3;border-color:#0067b3;color:#fff"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "HORI USA",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "2c3943c3dc72c6a0a9be56be469b794a4c482f6c086c816933fdb2c340300fe0"
+    }
+  ],
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+        "https://stores.horiusa.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+        "https://stores.horiusa.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://stores.horiusa.com/"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+        "https://stores.horiusa.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+        "https://stores.horiusa.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+        "https://stores.horiusa.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://stores.horiusa.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://stores.horiusa.com/",
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+        "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+        "https://stores.horiusa.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://stores.horiusa.com/",
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css",
+        "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+        "https://stores.horiusa.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.border": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-bsuqqx/stencil/11ba1f30-9614-0137-1d2e-0242ac110025/e/0c73ab60-729f-013f-f2e6-4a856f471cd4/css/theme-e28a26e0-796a-013f-84ec-3afb458b3bcb.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.platform-tabs": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search-bar": {
+      "status": "inferred"
+    }
+  }
+}

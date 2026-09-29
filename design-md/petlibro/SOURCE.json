@@ -1,0 +1,834 @@
+{
+  "source_url": "https://petlibro.com",
+  "final_url": "https://petlibro.com/",
+  "captured_at": "2026-09-28T09:03:59.353558+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://petlibro.com",
+      "final_url": "https://petlibro.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "c3cd921eedfb1d73e0662f7e46f21ddab25b6c0439259c845abaf987c86c85ad",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://petlibro.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://petlibro.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://petlibro.com/cdn/shop/t/117/assets/base.css?v=121621152925841014761778816855",
+      "final_url": "https://petlibro.com/cdn/shop/t/117/assets/base.css?v=121621152925841014761778816855",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2e7547f4cdd293b2e56a819cffb02cab44173c014042bb1369c707a02ace7717",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://petlibro.com/cdn/shop/t/117/assets/dl-packages.css?v=29309913174369526051720514943",
+      "final_url": "https://petlibro.com/cdn/shop/t/117/assets/dl-packages.css?v=29309913174369526051720514943",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ececb6bc2379388bcf12cd5ad7e3029ba8e0f4fd6af7cde704f8a0be7cd3c9c2",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://petlibro.com/cdn/shop/t/117/assets/dl-base.css?v=33158277601603658351787637450",
+      "final_url": "https://petlibro.com/cdn/shop/t/117/assets/dl-base.css?v=33158277601603658351787637450",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "044f4ac90c2493339dd88d1e6ece26374f813b95291ba265c46e44c7f05ce74f",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://petlibro.com/cdn/shop/t/117/assets/yg-style.css?v=105595997901274797141762309762",
+      "final_url": "https://petlibro.com/cdn/shop/t/117/assets/yg-style.css?v=105595997901274797141762309762",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6724b39a8ede0aa796786331748d617bb79466308590f5d433fbcf9b0a4eaefa",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 82,
+      "sources": [
+        "https://petlibro.com/",
+        "https://petlibro.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://petlibro.com/cdn/shop/t/117/assets/base.css?v=121621152925841014761778816855",
+        "https://petlibro.com/cdn/shop/t/117/assets/dl-packages.css?v=29309913174369526051720514943",
+        "https://petlibro.com/cdn/shop/t/117/assets/dl-base.css?v=33158277601603658351787637450"
+      ]
+    },
+    "#303030": {
+      "count": 73,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#000000": {
+      "count": 34,
+      "sources": [
+        "https://petlibro.com/",
+        "https://petlibro.com/cdn/shop/t/117/assets/base.css?v=121621152925841014761778816855",
+        "https://petlibro.com/cdn/shop/t/117/assets/dl-packages.css?v=29309913174369526051720514943",
+        "https://petlibro.com/cdn/shop/t/117/assets/dl-base.css?v=33158277601603658351787637450"
+      ]
+    },
+    "#315800": {
+      "count": 18,
+      "sources": [
+        "https://petlibro.com/",
+        "https://petlibro.com/cdn/shop/t/117/assets/dl-base.css?v=33158277601603658351787637450"
+      ]
+    },
+    "#616161": {
+      "count": 12,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#00000080": {
+      "count": 10,
+      "sources": [
+        "https://petlibro.com/cdn/shop/t/117/assets/base.css?v=121621152925841014761778816855",
+        "https://petlibro.com/cdn/shop/t/117/assets/dl-packages.css?v=29309913174369526051720514943",
+        "https://petlibro.com/cdn/shop/t/117/assets/dl-base.css?v=33158277601603658351787637450"
+      ]
+    },
+    "#fafafa": {
+      "count": 9,
+      "sources": [
+        "https://petlibro.com/",
+        "https://petlibro.com/cdn/shop/t/117/assets/dl-base.css?v=33158277601603658351787637450"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 7,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#2332d5": {
+      "count": 7,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 7,
+      "sources": [
+        "https://petlibro.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://petlibro.com/cdn/shop/t/117/assets/dl-packages.css?v=29309913174369526051720514943",
+        "https://petlibro.com/cdn/shop/t/117/assets/dl-base.css?v=33158277601603658351787637450"
+      ]
+    },
+    "#121212": {
+      "count": 5,
+      "sources": [
+        "https://petlibro.com/",
+        "https://petlibro.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 5,
+      "sources": [
+        "https://petlibro.com/",
+        "https://petlibro.com/cdn/shop/t/117/assets/dl-base.css?v=33158277601603658351787637450"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 5,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#ffffff00": {
+      "count": 5,
+      "sources": [
+        "https://petlibro.com/cdn/shop/t/117/assets/base.css?v=121621152925841014761778816855",
+        "https://petlibro.com/cdn/shop/t/117/assets/dl-base.css?v=33158277601603658351787637450"
+      ]
+    },
+    "#005bd3": {
+      "count": 4,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#69ce82": {
+      "count": 4,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#dee6ff": {
+      "count": 4,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#8051ff": {
+      "count": 4,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#cdfee1": {
+      "count": 3,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#b5b5b5": {
+      "count": 3,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#808080": {
+      "count": 3,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#cfc2b2": {
+      "count": 2,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#66cccc": {
+      "count": 2,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#bf7960": {
+      "count": 2,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#404040": {
+      "count": 2,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#94c465": {
+      "count": 2,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#dacab4": {
+      "count": 2,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#889fad": {
+      "count": 2,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#ababab": {
+      "count": 2,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#f29438": {
+      "count": 2,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#9595c5": {
+      "count": 2,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#919191": {
+      "count": 2,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#242833": {
+      "count": 2,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#334fb4": {
+      "count": 2,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#ff3800": {
+      "count": 2,
+      "sources": [
+        "https://petlibro.com/",
+        "https://petlibro.com/cdn/shop/t/117/assets/dl-base.css?v=33158277601603658351787637450"
+      ]
+    },
+    "#fff8db": {
+      "count": 2,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#4f4700": {
+      "count": 2,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#29845a": {
+      "count": 2,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 2,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 2,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://petlibro.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://petlibro.com/cdn/shop/t/117/assets/base.css?v=121621152925841014761778816855"
+      ]
+    },
+    "#0000001a": {
+      "count": 2,
+      "sources": [
+        "https://petlibro.com/cdn/shop/t/117/assets/dl-packages.css?v=29309913174369526051720514943"
+      ]
+    },
+    "#ffffff80": {
+      "count": 2,
+      "sources": [
+        "https://petlibro.com/cdn/shop/t/117/assets/dl-packages.css?v=29309913174369526051720514943"
+      ]
+    },
+    "#46691a": {
+      "count": 2,
+      "sources": [
+        "https://petlibro.com/cdn/shop/t/117/assets/dl-base.css?v=33158277601603658351787637450"
+      ]
+    },
+    "#343434": {
+      "count": 2,
+      "sources": [
+        "https://petlibro.com/cdn/shop/t/117/assets/dl-base.css?v=33158277601603658351787637450"
+      ]
+    },
+    "#05060666": {
+      "count": 2,
+      "sources": [
+        "https://petlibro.com/cdn/shop/t/117/assets/dl-base.css?v=33158277601603658351787637450"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#7367f0": {
+      "count": 1,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#ffef9d": {
+      "count": 1,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#8a8a8a": {
+      "count": 1,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#f72119": {
+      "count": 1,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "#5e5873": {
+      "count": 1,
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "pitch": [
+      "https://petlibro.com/"
+    ],
+    "sohne": [
+      "https://petlibro.com/",
+      "https://petlibro.com/cdn/shop/t/117/assets/dl-base.css?v=33158277601603658351787637450"
+    ],
+    "swiper-icons": [
+      "https://petlibro.com/cdn/shop/t/117/assets/dl-packages.css?v=29309913174369526051720514943"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://petlibro.com/",
+      "selector": "body.memorial-day-2025",
+      "declarations": "background-color: #fafafa !important;"
+    },
+    {
+      "source": "https://petlibro.com/",
+      "selector": "body.cat-day-2025-1",
+      "declarations": "background-color:#fafafa !important;"
+    },
+    {
+      "source": "https://petlibro.com/",
+      "selector": ":root",
+      "declarations": "--extra-height: 48px;"
+    },
+    {
+      "source": "https://petlibro.com/",
+      "selector": ".dl-option-color-item-bisque .dl-product-variant-picker-h-option-color-item-color",
+      "declarations": "background-color:#cfc2b2;"
+    },
+    {
+      "source": "https://petlibro.com/",
+      "selector": ".dl-option-color-item-black .dl-product-variant-picker-h-option-color-item-color",
+      "declarations": "background-color:#000000;"
+    },
+    {
+      "source": "https://petlibro.com/",
+      "selector": ".dl-option-color-item-blue .dl-product-variant-picker-h-option-color-item-color",
+      "declarations": "background-color:#66cccc;"
+    },
+    {
+      "source": "https://petlibro.com/",
+      "selector": ".dl-option-color-item-blue-stainless-steel .dl-product-variant-picker-h-option-color-item-color",
+      "declarations": "background-color:;\n            \n                background-image:url('//petlibro.com/cdn/shop/files/blue_steel_100_1.png?v=1673535309&width=100');"
+    },
+    {
+      "source": "https://petlibro.com/",
+      "selector": ".dl-option-color-item-carol .dl-product-variant-picker-h-option-color-item-color",
+      "declarations": "background-color:#bf7960;"
+    },
+    {
+      "source": "https://petlibro.com/",
+      "selector": ".dl-option-color-item-charcoal .dl-product-variant-picker-h-option-color-item-color",
+      "declarations": "background-color:#404040;"
+    },
+    {
+      "source": "https://petlibro.com/",
+      "selector": ".dl-option-color-item-green .dl-product-variant-picker-h-option-color-item-color",
+      "declarations": "background-color:#94c465;"
+    },
+    {
+      "source": "https://petlibro.com/",
+      "selector": ".dl-option-color-item-ivory .dl-product-variant-picker-h-option-color-item-color",
+      "declarations": "background-color:#dacab4;"
+    },
+    {
+      "source": "https://petlibro.com/",
+      "selector": ".dl-option-color-item-lake .dl-product-variant-picker-h-option-color-item-color",
+      "declarations": "background-color:#889fad;"
+    },
+    {
+      "source": "https://petlibro.com/",
+      "selector": ".dl-option-color-item-mist .dl-product-variant-picker-h-option-color-item-color",
+      "declarations": "background-color:#ababab;"
+    },
+    {
+      "source": "https://petlibro.com/",
+      "selector": ".dl-option-color-item-mystery-box .dl-product-variant-picker-h-option-color-item-color",
+      "declarations": "background-color:#ffffff;\n            \n                background-image:url('//petlibro.com/cdn/shop/files/Mystery_Box.jpg?v=1637225918&width=100');"
+    },
+    {
+      "source": "https://petlibro.com/",
+      "selector": ".dl-option-color-item-orange .dl-product-variant-picker-h-option-color-item-color",
+      "declarations": "background-color:#f29438;"
+    },
+    {
+      "source": "https://petlibro.com/",
+      "selector": ".dl-option-color-item-purple .dl-product-variant-picker-h-option-color-item-color",
+      "declarations": "background-color:#9595c5;"
+    },
+    {
+      "source": "https://petlibro.com/",
+      "selector": ".dl-option-color-item-purple-stainless-steel .dl-product-variant-picker-h-option-color-item-color",
+      "declarations": "background-color:;\n            \n                background-image:url('//petlibro.com/cdn/shop/files/purple_steel_100_e09d11fc-7af0-4304-a6f3-a9e2bd08f066.png?v=1673781927&width=100');"
+    },
+    {
+      "source": "https://petlibro.com/",
+      "selector": ".dl-option-color-item-stainless .dl-product-variant-picker-h-option-color-item-color",
+      "declarations": "background-color:;\n            \n                background-image:url('//petlibro.com/cdn/shop/files/blue_steel_100_1.png?v=1673535309&width=100');"
+    },
+    {
+      "source": "https://petlibro.com/",
+      "selector": ".dl-option-color-item-stainless-steel .dl-product-variant-picker-h-option-color-item-color",
+      "declarations": "background-color:;\n            \n                background-image:url('//petlibro.com/cdn/shop/files/lQLPDhto80_1YQfNARTNARKwR0qs-f4rgR0CfJ--WwCeAA_274_276_1.png?v=1694080233&width=100');"
+    },
+    {
+      "source": "https://petlibro.com/",
+      "selector": ".dl-option-color-item-white .dl-product-variant-picker-h-option-color-item-color",
+      "declarations": "background-color:#ffffff;"
+    },
+    {
+      "source": "https://petlibro.com/",
+      "selector": ".dl-option-color-item-white-stainless-steel .dl-product-variant-picker-h-option-color-item-color",
+      "declarations": "background-color:#919191;\n            \n                background-image:url('//petlibro.com/cdn/shop/files/lQLPDhto80_1YQfNARTNARKwR0qs-f4rgR0CfJ--WwCeAA_274_276_1.png?v=1694080233&width=100');"
+    },
+    {
+      "source": "https://petlibro.com/",
+      "selector": ".dl-option-color-item-white .dl-product-variant-picker-h-option-color-item-color",
+      "declarations": "background-color: #fff;\n        box-shadow: 0 1px 4px 0 rgba(0, 0, 0, 0.15) inset;"
+    },
+    {
+      "source": "https://petlibro.com/",
+      "selector": ":root,\n        .color-scheme-1",
+      "declarations": "--color-background: 255,255,255;\n        \n          --gradient-background: #ffffff;\n        \n\n        \n\n        --color-foreground: 18,18,18;\n        --color-background-contrast: 191,191,191;\n        --color-shadow: 18,18,18;\n        --color-button: 18,18,18;\n        --color-button-text: 255,255,255;\n        --color-secondary-button: 255,255,255;\n        --color-secondary-button-text: 18,18,18;\n        --color-link: 18,18,18;\n        --color-badge-foreground: 18,18,18;\n        --color-badge-background: 255,255,255;\n        --color-badge-border: 18,18,18;\n        --payment-terms-background-color: rgb(255 255 255);"
+    },
+    {
+      "source": "https://petlibro.com/",
+      "selector": "body",
+      "declarations": "display: grid;\n        grid-template-rows: auto auto 1fr auto;\n        grid-template-columns: 100%;\n        min-height: 100%;\n        margin: 0;\n        font-size: 1.5rem;\n        letter-spacing: 0.06rem;\n        line-height: calc(1 + 0.8 / var(--font-body-scale));\n        font-family: var(--font-body-family);\n        font-style: var(--font-body-style);\n        font-weight: var(--font-body-weight);"
+    },
+    {
+      "source": "https://petlibro.com/",
+      "selector": ".freegifts-main-container .product-title, .freegifts-main-container .bogos-gift-product-title",
+      "declarations": "color: #000000;"
+    },
+    {
+      "source": "https://petlibro.com/",
+      "selector": ".freegifts-main-container .btn-add-to-cart",
+      "declarations": "color: #FFFFFF; background-color: #7367f0;"
+    },
+    {
+      "source": "https://petlibro.com/",
+      "selector": "#sca-fg-today-offer-iframe .sca-fg-header",
+      "declarations": "background-color: #FFFFFF;"
+    },
+    {
+      "source": "https://petlibro.com/",
+      "selector": "#sca-fg-today-offer-iframe .sca-fg-body",
+      "declarations": "background-color: #FFFFFF;"
+    },
+    {
+      "source": "https://petlibro.com/",
+      "selector": "#sca-fg-today-offer-iframe .sca-fg-offer .sca-offer-header-container",
+      "declarations": "background-color: #ebe9f1"
+    },
+    {
+      "source": "https://petlibro.com/",
+      "selector": "#sca-fg-today-offer-iframe .sca-fg-offer.sca-offer-archived .sca-offer-header-container",
+      "declarations": "background-color: #69CE8225"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Petlibro: Designed better for your lives together",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petlibro.com/",
+        "https://petlibro.com/cdn/shop/t/117/assets/dl-base.css?v=33158277601603658351787637450"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petlibro.com/",
+        "https://petlibro.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petlibro.com/",
+        "https://petlibro.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://petlibro.com/cdn/shop/t/117/assets/base.css?v=121621152925841014761778816855",
+        "https://petlibro.com/cdn/shop/t/117/assets/dl-packages.css?v=29309913174369526051720514943",
+        "https://petlibro.com/cdn/shop/t/117/assets/dl-base.css?v=33158277601603658351787637450"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petlibro.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petlibro.com/",
+        "https://petlibro.com/cdn/shop/t/117/assets/dl-base.css?v=33158277601603658351787637450"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petlibro.com/",
+        "https://petlibro.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://petlibro.com/cdn/shop/t/117/assets/base.css?v=121621152925841014761778816855",
+        "https://petlibro.com/cdn/shop/t/117/assets/dl-packages.css?v=29309913174369526051720514943",
+        "https://petlibro.com/cdn/shop/t/117/assets/dl-base.css?v=33158277601603658351787637450"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "colors.success-mint": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "colors.success-mint-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "colors.sale-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petlibro.com/",
+        "https://petlibro.com/cdn/shop/t/117/assets/dl-base.css?v=33158277601603658351787637450"
+      ]
+    },
+    "colors.promo-yellow": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petlibro.com/"
+      ]
+    },
+    "colors.overlay-scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://petlibro.com/cdn/shop/t/117/assets/base.css?v=121621152925841014761778816855",
+        "https://petlibro.com/cdn/shop/t/117/assets/dl-packages.css?v=29309913174369526051720514943",
+        "https://petlibro.com/cdn/shop/t/117/assets/dl-base.css?v=33158277601603658351787637450"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.color-swatch-picker": {
+      "status": "inferred"
+    }
+  }
+}

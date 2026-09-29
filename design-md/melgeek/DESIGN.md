@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: MelGeek
-description: A keyboard brand that wears its marigold (#fac832) like a shopkeeper’s apron — warm, unpretentious, and impossible to miss. That single yellow carries the primary CTA, the badge on a new product drop, and the highlight on a spec callout, while the rest of the palette stays deliberately restrained: ink-black (#121212) for body text, near-white (#f6f6f6) for canvas, and a soft charcoal (#1e1e1e) for surface cards. The brand leans on Replica Pro, a monospaced-inspired geometric sans, for display heads and button labels — a typographic nod to terminal keyboards and hacker nostalgia without veering into gamer cliché. Buttons are pill-shaped (`{rounded.full}`) and tall (48px), built for fat-finger confidence on a mobile-first Shopify storefront. Product cards use a gentle `{rounded.md}` and sit on a `{surface-soft}` canvas, letting the keyboard renders — often backlit or color-swapped — do the selling. A secondary accent of electric blue (#899df1) appears on secondary CTAs and filter toggles, while a sharp red (#d32f2f) is reserved for sale badges and inventory warnings. The overall mood is workshop-meets-webstore: clean enough to trust with a credit card, but with enough personality (that yellow, those terminal fonts) to feel like a brand run by people who actually build things.
+name: "MelGeek"
+source_url: "https://www.melgeek.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A keyboard brand that wears its marigold (#fac832) like a shopkeeper’s apron — warm, unpretentious, and impossible to miss. That single yellow carries the primary CTA, the badge on a new product drop, and the highlight on a spec callout, while the rest of the palette stays deliberately restrained: ink-black (#121212) for body text, near-white (#f6f6f6) for canvas, and a soft charcoal (#1e1e1e) for surface cards. The brand leans on Replica Pro, a monospaced-inspired geometric sans, for display heads and button labels — a typographic nod to terminal keyboards and hacker nostalgia without veering into gamer cliché. Buttons are pill-shaped (`{rounded.full}`) and tall (48px), built for fat-finger confidence on a mobile-first Shopify storefront. Product cards use a gentle `{rounded.md}` and sit on a `{surface-soft}` canvas, letting the keyboard renders — often backlit or color-swapped — do the selling. A secondary accent of electric blue (#899df1) appears on secondary CTAs and filter toggles, while a sharp red (#d32f2f) is reserved for sale badges and inventory warnings. The overall mood is workshop-meets-webstore: clean enough to trust with a credit card, but with enough personality (that yellow, those terminal fonts) to feel like a brand run by people who actually build things.
 
 colors:
   primary: "#fac832"
@@ -322,6 +326,8 @@ components:
 - Filter tags collapse into a "Filters" button that opens a modal on mobile; on desktop they remain inline.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states** for buttons and cards were not reliably extracted. The `primary-active` color is an approximation based on darkening the primary by ~10%. Actual hover transitions (duration, easing) are unknown.
 - **Focus states** for inputs and buttons (e.g., `:focus-visible` ring color and width) were not observed. A 2px `{colors.primary}` outline is assumed but unconfirmed.

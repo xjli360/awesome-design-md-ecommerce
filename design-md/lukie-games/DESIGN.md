@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Lukie Games
-description: A retro game marketplace that wears its Bootstrap heritage like a worn-in cartridge — #337ab7 as the primary blue across every link and CTA, #777777 for body text that reads like a price tag, and a sprawling palette of status badges (#3c763d green for "In Stock", #a94442 red for "Sold Out", #8a6d3b amber for "Rare") that give the storefront the visual density of a cluttered game shop shelf. The site runs on a system of tight horizontal rows and compact product cards with {rounded.sm} corners, each card holding a thumbnail, title, and price in Arial at 14-16px — no hero imagery, no lifestyle photography, just rows of inventory. The top navigation bar uses #080808 as a near-black background with white text and a dropdown system for console categories (NES, SNES, Genesis, etc.), while the search bar sits prominently in the header as a full-width text input with a #337ab7 submit button. What makes Lukie Games feel like a genuine retro operation is the absence of polish: the design prioritizes information density over whitespace, uses #f5f5f5 and #e7e7e7 as alternating row backgrounds for table-like product lists, and relies on Bootstrap's default alert colors (#dff0d8 success, #fcf8e3 warning, #f2dede error) for order status messages. The footer is a dense column of links in #555555 on #f8f8f8, and the checkout flow uses #5cb85c green for "Add to Cart" buttons — a pragmatic, no-nonsense system built for collectors who know exactly what they want.
+name: "Lukie Games"
+source_url: "https://www.lukiegames.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A retro game marketplace that wears its Bootstrap heritage like a worn-in cartridge — #337ab7 as the primary blue across every link and CTA, #777777 for body text that reads like a price tag, and a sprawling palette of status badges (#3c763d green for "In Stock", #a94442 red for "Sold Out", #8a6d3b amber for "Rare") that give the storefront the visual density of a cluttered game shop shelf. The site runs on a system of tight horizontal rows and compact product cards with {rounded.sm} corners, each card holding a thumbnail, title, and price in Arial at 14-16px — no hero imagery, no lifestyle photography, just rows of inventory. The top navigation bar uses #080808 as a near-black background with white text and a dropdown system for console categories (NES, SNES, Genesis, etc.), while the search bar sits prominently in the header as a full-width text input with a #337ab7 submit button. What makes Lukie Games feel like a genuine retro operation is the absence of polish: the design prioritizes information density over whitespace, uses #f5f5f5 and #e7e7e7 as alternating row backgrounds for table-like product lists, and relies on Bootstrap's default alert colors (#dff0d8 success, #fcf8e3 warning, #f2dede error) for order status messages. The footer is a dense column of links in #555555 on #f8f8f8, and the checkout flow uses #5cb85c green for "Add to Cart" buttons — a pragmatic, no-nonsense system built for collectors who know exactly what they want.
 
 colors:
   primary: "#337ab7"
@@ -655,6 +659,8 @@ components:
 - Breadcrumb navigation truncates to show only the current page and "Home" on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted color palette is heavily dominated by Bootstrap framework defaults (blues, grays, greens, reds, ambers). The brand's true primary identity color could not be isolated — #337ab7 is the most distinctive blue in the list and is used as the primary, but this may be Bootstrap's default rather than a brand choice. The brand may have a custom accent color not captured in the extraction.
 - No custom font family was found beyond system fonts (Arial, Helvetica). The brand may use a custom typeface that wasn't loaded in the extracted CSS.

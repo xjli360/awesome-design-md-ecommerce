@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Oakywood
-description: Electric violet (#4500ff) against a near-black ink layer (#1a1a1a) is a jarring opening move for a brand that hand-finishes walnut and oak into desktop organizers — but that voltage gap is exactly how Oakywood marks every primary CTA, quick-add button, and cart confirmation. The surrounding palette is a long, deliberate grayscale column: from ink at #1a1a1a through mid-charcoal #222222, descending through six gray intervals (#bbbbbb, #d9d9d9, #e5e5e5, #eeeeee, #f2f2f2) before settling on a near-white canvas at #fafafa. Two material-coded accents break the gray run — deep teal #108474 marks eco-certification callouts and sustainability credentials, while warm amber #fbcd0a surfaces in star ratings and limited-offer flags. The dark panel #1c1d1d anchors the footer and hero sections, letting ivory product photography emerge against a near-black field. Type runs in Muli (now distributed as Mulish), a geometric sans-serif with low stroke contrast that signals machined precision without industrial coldness; Graphie, a softer geometric with slightly rounded terminals, handles section display headers. Both weights run lean — the brand trusts grain photography over typographic muscle. Pill-shaped material badges ({rounded.full}) label wood species at a glance on every product card, and the eco-certification strip uses {colors.eco-tint} as a barely-there teal wash so the credential reads as fact rather than claim. The announcement bar runs {colors.primary} end-to-end at 40px — electric violet as a horizontal stripe forces brand recognition before the product grid loads. Navigation is text-tight and light against {colors.canvas}, with a 1px {colors.hairline} underline separating it from the scroll context below.
+name: "Oakywood"
+source_url: "https://oakywood.shop"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Electric violet (#4500ff) against a near-black ink layer (#1a1a1a) is a jarring opening move for a brand that hand-finishes walnut and oak into desktop organizers — but that voltage gap is exactly how Oakywood marks every primary CTA, quick-add button, and cart confirmation. The surrounding palette is a long, deliberate grayscale column: from ink at #1a1a1a through mid-charcoal #222222, descending through six gray intervals (#bbbbbb, #d9d9d9, #e5e5e5, #eeeeee, #f2f2f2) before settling on a near-white canvas at #fafafa. Two material-coded accents break the gray run — deep teal #108474 marks eco-certification callouts and sustainability credentials, while warm amber #fbcd0a surfaces in star ratings and limited-offer flags. The dark panel #1c1d1d anchors the footer and hero sections, letting ivory product photography emerge against a near-black field. Type runs in Muli (now distributed as Mulish), a geometric sans-serif with low stroke contrast that signals machined precision without industrial coldness; Graphie, a softer geometric with slightly rounded terminals, handles section display headers. Both weights run lean — the brand trusts grain photography over typographic muscle. Pill-shaped material badges ({rounded.full}) label wood species at a glance on every product card, and the eco-certification strip uses {colors.eco-tint} as a barely-there teal wash so the credential reads as fact rather than claim. The announcement bar runs {colors.primary} end-to-end at 40px — electric violet as a horizontal stripe forces brand recognition before the product grid loads. Navigation is text-tight and light against {colors.canvas}, with a 1px {colors.hairline} underline separating it from the scroll context below.
 
 colors:
   primary: "#4500ff"
@@ -378,6 +382,8 @@ components:
 - Nav category dropdowns convert to nested drawer items within the hamburger menu
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No meta theme-color set — mobile browser chrome color unspecified; violet (#4500ff) is the most defensible inference but unconfirmed
 - `{colors.on-primary}` (#ffffff) and `{colors.primary-active}` (#3800cc) are computed or inferred — not present in the extracted color list

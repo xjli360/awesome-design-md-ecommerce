@@ -1,0 +1,676 @@
+{
+  "source_url": "https://coronatools.com",
+  "final_url": "https://coronatools.com/",
+  "captured_at": "2026-09-29T03:57:47.007329+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://coronatools.com",
+      "final_url": "https://coronatools.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "c90d83f015177288a05a89b1f86dac7ac89e06ab6ed43852aa1f9388f84b00ff",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://coronatools.com/cdn/shop/t/18/assets/styles.css?v=104867411348685601311788884766",
+      "final_url": "https://coronatools.com/cdn/shop/t/18/assets/styles.css?v=104867411348685601311788884766",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9fc2992e36258db645b14372e9666de119547e08f18888f2f160e91cb7889c4a",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://coronatools.com/cdn/shop/t/18/assets/styles.header.css?v=106502502611728608431788884766",
+      "final_url": "https://coronatools.com/cdn/shop/t/18/assets/styles.header.css?v=106502502611728608431788884766",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "60abc5be84476ae8131b5db8fcce8587f89cfcbd79ad2e1ab0d5be9a02ac0191",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://coronatools.com/cdn/shop/t/18/assets/styles.accessories.css?v=159717112975466525641788884766",
+      "final_url": "https://coronatools.com/cdn/shop/t/18/assets/styles.accessories.css?v=159717112975466525641788884766",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ac7a609f751079e9bfdc3f989197f930c85a8d8e679e74facaaf9ce37b40f28e",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://coronatools.com/cdn/shop/t/18/assets/corona-custom.css?v=11045254115768226471788884766",
+      "final_url": "https://coronatools.com/cdn/shop/t/18/assets/corona-custom.css?v=11045254115768226471788884766",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6689bd7bce1fca15cdedd8cb3a289480cffd970884bf3647747a367fda3016ac",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 129,
+      "sources": [
+        "https://coronatools.com/",
+        "https://coronatools.com/cdn/shop/t/18/assets/corona-custom.css?v=11045254115768226471788884766"
+      ]
+    },
+    "#000000": {
+      "count": 44,
+      "sources": [
+        "https://coronatools.com/",
+        "https://coronatools.com/cdn/shop/t/18/assets/corona-custom.css?v=11045254115768226471788884766"
+      ]
+    },
+    "#c8102e": {
+      "count": 19,
+      "sources": [
+        "https://coronatools.com/",
+        "https://coronatools.com/cdn/shop/t/18/assets/styles.accessories.css?v=159717112975466525641788884766",
+        "https://coronatools.com/cdn/shop/t/18/assets/corona-custom.css?v=11045254115768226471788884766"
+      ]
+    },
+    "#63656a": {
+      "count": 7,
+      "sources": [
+        "https://coronatools.com/cdn/shop/t/18/assets/corona-custom.css?v=11045254115768226471788884766"
+      ]
+    },
+    "#2e292b": {
+      "count": 6,
+      "sources": [
+        "https://coronatools.com/"
+      ]
+    },
+    "#00412d": {
+      "count": 5,
+      "sources": [
+        "https://coronatools.com/cdn/shop/t/18/assets/corona-custom.css?v=11045254115768226471788884766"
+      ]
+    },
+    "#810a1e": {
+      "count": 2,
+      "sources": [
+        "https://coronatools.com/"
+      ]
+    },
+    "#e4e4e4": {
+      "count": 2,
+      "sources": [
+        "https://coronatools.com/"
+      ]
+    },
+    "#767676": {
+      "count": 2,
+      "sources": [
+        "https://coronatools.com/",
+        "https://coronatools.com/cdn/shop/t/18/assets/corona-custom.css?v=11045254115768226471788884766"
+      ]
+    },
+    "#564d51": {
+      "count": 1,
+      "sources": [
+        "https://coronatools.com/"
+      ]
+    },
+    "#131112": {
+      "count": 1,
+      "sources": [
+        "https://coronatools.com/"
+      ]
+    },
+    "#666655": {
+      "count": 1,
+      "sources": [
+        "https://coronatools.com/"
+      ]
+    },
+    "#060505": {
+      "count": 1,
+      "sources": [
+        "https://coronatools.com/"
+      ]
+    },
+    "#ffcb67": {
+      "count": 1,
+      "sources": [
+        "https://coronatools.com/"
+      ]
+    },
+    "#efefef": {
+      "count": 1,
+      "sources": [
+        "https://coronatools.com/"
+      ]
+    },
+    "#f57c90": {
+      "count": 1,
+      "sources": [
+        "https://coronatools.com/"
+      ]
+    },
+    "#cbcbcb": {
+      "count": 1,
+      "sources": [
+        "https://coronatools.com/"
+      ]
+    },
+    "#1b6109": {
+      "count": 1,
+      "sources": [
+        "https://coronatools.com/"
+      ]
+    },
+    "#990000": {
+      "count": 1,
+      "sources": [
+        "https://coronatools.com/"
+      ]
+    },
+    "#f4f5fa": {
+      "count": 1,
+      "sources": [
+        "https://coronatools.com/"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 1,
+      "sources": [
+        "https://coronatools.com/"
+      ]
+    },
+    "#f37a1f": {
+      "count": 1,
+      "sources": [
+        "https://coronatools.com/"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 1,
+      "sources": [
+        "https://coronatools.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://coronatools.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://coronatools.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://coronatools.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://coronatools.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://coronatools.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://coronatools.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://coronatools.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://coronatools.com/"
+      ]
+    },
+    "#d8d8d8": {
+      "count": 1,
+      "sources": [
+        "https://coronatools.com/"
+      ]
+    },
+    "#555555": {
+      "count": 1,
+      "sources": [
+        "https://coronatools.com/cdn/shop/t/18/assets/styles.accessories.css?v=159717112975466525641788884766"
+      ]
+    },
+    "#7c8f97": {
+      "count": 1,
+      "sources": [
+        "https://coronatools.com/cdn/shop/t/18/assets/styles.accessories.css?v=159717112975466525641788884766"
+      ]
+    },
+    "#58686f": {
+      "count": 1,
+      "sources": [
+        "https://coronatools.com/cdn/shop/t/18/assets/styles.accessories.css?v=159717112975466525641788884766"
+      ]
+    },
+    "#000000a6": {
+      "count": 1,
+      "sources": [
+        "https://coronatools.com/cdn/shop/t/18/assets/corona-custom.css?v=11045254115768226471788884766"
+      ]
+    },
+    "#000000d9": {
+      "count": 1,
+      "sources": [
+        "https://coronatools.com/cdn/shop/t/18/assets/corona-custom.css?v=11045254115768226471788884766"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://coronatools.com/"
+    ],
+    "NT-font": [
+      "https://coronatools.com/",
+      "https://coronatools.com/cdn/shop/t/18/assets/styles.css?v=104867411348685601311788884766",
+      "https://coronatools.com/cdn/shop/t/18/assets/corona-custom.css?v=11045254115768226471788884766"
+    ],
+    "Poppins": [
+      "https://coronatools.com/"
+    ],
+    "Times": [
+      "https://coronatools.com/cdn/shop/t/18/assets/styles.css?v=104867411348685601311788884766"
+    ],
+    "monospace": [
+      "https://coronatools.com/"
+    ],
+    "sans-serif": [
+      "https://coronatools.com/",
+      "https://coronatools.com/cdn/shop/t/18/assets/styles.css?v=104867411348685601311788884766",
+      "https://coronatools.com/cdn/shop/t/18/assets/styles.accessories.css?v=159717112975466525641788884766"
+    ],
+    "serif": [
+      "https://coronatools.com/cdn/shop/t/18/assets/styles.css?v=104867411348685601311788884766"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://coronatools.com/",
+      "selector": ":root",
+      "declarations": "--headline_font_size_12: 12px;\n      --headline_font_size_14: 14px;\n      --headline_font_size_16: 16px;\n      --headline_font_size_18: 18px;\n      --headline_font_size_24: 24px;\n      --headline_font_size_30: 30px;\n      --headline_font_size_36: 36px;\n      --headline_font_size_42: 42px;\n      --headline_font_size_48: 48px;\n      --headline_font_size_54: 54px;\n      --headline_font_size_60: 60px;\n      --headline_font_size_66: 66px;\n      --headline_font_size_72: 72px;\n      --headline_font_size_78: 78px;\n      --headline_font_size_84: 84px;\n      --headline_font_size_90: 90px;\n      --headline_font_size_96: 96px;"
+    },
+    {
+      "source": "https://coronatools.com/",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family: inherit;font-size: 100%;line-height: 1.15;margin: 0;"
+    },
+    {
+      "source": "https://coronatools.com/",
+      "selector": ".header-announcement,.header-customerbar",
+      "declarations": "font-family:var(--body_font);font-size:var(--xx_small);font-weight:var(--body_font_weight_medium);line-height:calc(var(--xx_small) * 1.25);padding:calc(var(--master_spacing) / 2) 0;"
+    },
+    {
+      "source": "https://coronatools.com/",
+      "selector": ".header-navigation .cartCountSelector",
+      "declarations": "background:var(--header_background_color);border-radius:100%;display:inline-table;font-family: Arial;font-size:10px;height:12px;left:50%;line-height:12px;margin-top: 2px;position: absolute;text-align:center;top:50%;-webkit-transform:translate(-50%,-50%);-moz-transform: translate(-50%,-50%);-o-transform: translate(-50%,-50%);-ms-transform:translate(-50%,-50%);transform:translate(-50%,-50%);"
+    },
+    {
+      "source": "https://coronatools.com/",
+      "selector": "h1, h2, h3, h4, h5, h6",
+      "declarations": "font-family: 'NT-font', sans-serif;\n  font-weight: normal !important;"
+    },
+    {
+      "source": "https://coronatools.com/",
+      "selector": "display:none;visibility:hidden\n\n  .header-announcement,\n  .header-announcement p,\n  .header-announcement a",
+      "declarations": "--xx_small: 18px;\n    --small: 18px;"
+    },
+    {
+      "source": "https://coronatools.com/cdn/shop/t/18/assets/styles.css?v=104867411348685601311788884766",
+      "selector": ".content ul.unformatted.options li a,.content ul.unformatted.options li button,.content ul.unformatted.options li.first",
+      "declarations": "background:none;color:var(--body_font_color);font-size:var(--xx_small);padding:calc(var(--base) / 2);backface-visibility:hidden;transition:background .25s ease 0s,border-color .25s ease 0s,color .25s ease 0s,height .25s ease 0s,opacity .25s ease 0s"
+    },
+    {
+      "source": "https://coronatools.com/cdn/shop/t/18/assets/styles.css?v=104867411348685601311788884766",
+      "selector": ".content ul.unformatted.options li a:hover,.content ul.unformatted.options li button:hover,.content ul.unformatted.options li.first:hover",
+      "declarations": "color:var(--body_font_hover_color)"
+    },
+    {
+      "source": "https://coronatools.com/cdn/shop/t/18/assets/styles.css?v=104867411348685601311788884766",
+      "selector": "h1,h2,h3,h4,h5,.h5,h6",
+      "declarations": "font:var(--headline_font_style) var(--headline_font_weight) var(--base)/1em var(--headline_font);color:var(--headline_font_color);margin:0 0 calc(var(--master_spacing) * .75);text-transform:var(--headline_font_uppercase)"
+    },
+    {
+      "source": "https://coronatools.com/cdn/shop/t/18/assets/styles.css?v=104867411348685601311788884766",
+      "selector": "h1 a,h2 a,h3 a,h4 a,h5 a,.h5 a,h6 a",
+      "declarations": "color:inherit;text-decoration:none;font-weight:inherit"
+    },
+    {
+      "source": "https://coronatools.com/cdn/shop/t/18/assets/styles.css?v=104867411348685601311788884766",
+      "selector": ".product-price h6,.product-price h6 a,h6.blog-data",
+      "declarations": "color:var(--accent_color)"
+    },
+    {
+      "source": "https://coronatools.com/cdn/shop/t/18/assets/styles.css?v=104867411348685601311788884766",
+      "selector": ".product-price h6 medium,.product-price h6 a medium,h6.blog-data medium",
+      "declarations": "color:var(--headline_font_color)"
+    },
+    {
+      "source": "https://coronatools.com/cdn/shop/t/18/assets/styles.css?v=104867411348685601311788884766",
+      "selector": ".product-price h6,.product-price h6 a",
+      "declarations": "color:var(--price_color);font-size:var(--headline_font_size_18)"
+    },
+    {
+      "source": "https://coronatools.com/cdn/shop/t/18/assets/styles.css?v=104867411348685601311788884766",
+      "selector": ".product-price .price-loop",
+      "declarations": "display:block;font:var(--headline_font_style) var(--headline_font_weight) var(--base)/1em var(--headline_font);text-transform:var(--headline_font_uppercase);margin:0 0 calc(var(--master_spacing) * .75);color:var(--price_color);font-size:var(--headline_font_size_18)"
+    },
+    {
+      "source": "https://coronatools.com/cdn/shop/t/18/assets/styles.css?v=104867411348685601311788884766",
+      "selector": ".product-price .price-loop medium",
+      "declarations": "color:var(--headline_font_color)"
+    },
+    {
+      "source": "https://coronatools.com/cdn/shop/t/18/assets/styles.css?v=104867411348685601311788884766",
+      "selector": "p.comparison-p button",
+      "declarations": "background:none;color:var(--body_font_color);backface-visibility:hidden;transition:background .25s ease 0s,border-color .25s ease 0s,color .25s ease 0s,height .25s ease 0s,opacity .25s ease 0s"
+    },
+    {
+      "source": "https://coronatools.com/cdn/shop/t/18/assets/styles.css?v=104867411348685601311788884766",
+      "selector": "earch],input[type=text],input[type=date],select,textarea,.styledSelect,.shopify-payment-button__button.shopify-payment-button__button--unbranded,.shopify-email-",
+      "declarations": "-webkit-appearance:none;background:none;border:1px solid var(--line_color);box-sizing:border-box;border-radius:0;color:var(--body_font_color);font-weight:var(--body_font_weight_medium);font-size:var(--x_small);font-family:var(--body_font);line-height:calc(var(--small) * 1.25);min-height:40px;padding:calc(var(--master_spacing) / 2) var(--xx_small);position:relative;backface-visibility:hidden;transition:background .25s ease 0s,border-color .25s ease 0s,color .25s ease 0s,height .25s ease 0s,opacity .25s ease 0s;width:100%"
+    },
+    {
+      "source": "https://coronatools.com/cdn/shop/t/18/assets/styles.css?v=104867411348685601311788884766",
+      "selector": "utton.shopify-payment-button__button--unbranded.item-qty,.shopify-email-marketing-confirmation__container a.qtybtn,.shopify-email-marketing-confirmation__contai",
+      "declarations": "border-color:var(--line_color);color:var(--body_font_color);width:calc(var(--base) * 3);min-width:calc(var(--base) * 3)"
+    },
+    {
+      "source": "https://coronatools.com/cdn/shop/t/18/assets/styles.css?v=104867411348685601311788884766",
+      "selector": "elthreed,.styledSelect.modelthreed,.shopify-payment-button__button.shopify-payment-button__button--unbranded.modelthreed,.shopify-email-marketing-confirmation__",
+      "declarations": "background:var(--headline_font_color_08);border-color:var(--headline_font_color_00);color:var(--headline_font_color)"
+    },
+    {
+      "source": "https://coronatools.com/cdn/shop/t/18/assets/styles.css?v=104867411348685601311788884766",
+      "selector": "r a.modelthreed:hover:not([disabled]),.shopify-email-marketing-confirmation__container a.modelthreed:focus:not([disabled]),.btn.modelthreed:hover:not([disabled]",
+      "declarations": "background:var(--headline_font_color);border-color:var(--headline_font_color);color:var(--white)"
+    },
+    {
+      "source": "https://coronatools.com/cdn/shop/t/18/assets/styles.css?v=104867411348685601311788884766",
+      "selector": "lder,.styledSelect::placeholder,.shopify-payment-button__button.shopify-payment-button__button--unbranded::placeholder,.shopify-email-marketing-confirmation__co",
+      "declarations": "color:inherit;opacity:.75;font-size:var(--x_small)"
+    },
+    {
+      "source": "https://coronatools.com/cdn/shop/t/18/assets/styles.css?v=104867411348685601311788884766",
+      "selector": "r,.shopify-payment-button__button.shopify-payment-button__button--unbranded::-ms-input-placeholder,.shopify-email-marketing-confirmation__container a::-ms-input",
+      "declarations": "color:inherit;opacity:.75;font-size:var(--x_small)"
+    },
+    {
+      "source": "https://coronatools.com/cdn/shop/t/18/assets/styles.css?v=104867411348685601311788884766",
+      "selector": "ayment-button__button.shopify-payment-button__button--unbranded::-webkit-input-placeholder,.shopify-email-marketing-confirmation__container a::-webkit-input-pla",
+      "declarations": "color:inherit;opacity:.75;font-size:var(--x_small)"
+    },
+    {
+      "source": "https://coronatools.com/cdn/shop/t/18/assets/styles.css?v=104867411348685601311788884766",
+      "selector": ".btn,.shopify-payment-button__button.shopify-payment-button__button--unbranded,.shopify-email-marketing-confirmation__container a,input[type=button]",
+      "declarations": "background:var(--button_primary_background);border:var(--button_border) solid var(--button_primary_border);border-radius:var(--button_corner);color:var(--button_primary_text);cursor:pointer;display:inline-block;max-width:220px;text-align:center;text-decoration:none;vertical-align:middle;white-space:normal;width:100%"
+    },
+    {
+      "source": "https://coronatools.com/cdn/shop/t/18/assets/styles.css?v=104867411348685601311788884766",
+      "selector": "nfirmation__container a:hover:not([disabled]),.shopify-email-marketing-confirmation__container a:focus:not([disabled]),input[type=button]:hover:not([disabled]),",
+      "declarations": "background:var(--button_primary_text);color:var(--button_primary_background);text-decoration:none"
+    },
+    {
+      "source": "https://coronatools.com/cdn/shop/t/18/assets/styles.css?v=104867411348685601311788884766",
+      "selector": ".btn.outline,.shopify-payment-button__button.shopify-payment-button__button--unbranded.outline,.shopify-email-marketing-confirmation__container a.outline,input[",
+      "declarations": "background:none;border-color:var(--button_secondary_border);color:var(--button_secondary_text)"
+    },
+    {
+      "source": "https://coronatools.com/cdn/shop/t/18/assets/styles.css?v=104867411348685601311788884766",
+      "selector": "hover:not([disabled]),.shopify-email-marketing-confirmation__container a.outline:focus:not([disabled]),input[type=button].outline:hover:not([disabled]),input[ty",
+      "declarations": "background:var(--button_secondary_text);border-color:var(--button_secondary_border);color:var(--button_secondary_hover)"
+    },
+    {
+      "source": "https://coronatools.com/cdn/shop/t/18/assets/styles.css?v=104867411348685601311788884766",
+      "selector": ".btn.cart-link,.shopify-payment-button__button.shopify-payment-button__button--unbranded.cart-link,.shopify-email-marketing-confirmation__container a.cart-link,",
+      "declarations": "background:none;color:var(--body_font_color);display:inline-block;margin-right:calc(-1 * var(--small));padding:calc(var(--small) / 2) var(--small);vertical-align:middle"
+    },
+    {
+      "source": "https://coronatools.com/cdn/shop/t/18/assets/styles.css?v=104867411348685601311788884766",
+      "selector": ".selector-wrapper label:not(.swatch-label) button,.selector-wrapper legend button,.swatch label:not(.swatch-label) button,.swatch legend button",
+      "declarations": "background:none;border:1px solid var(--accent_color);border-radius:100%;color:var(--accent_color);display:table;font-family:serif;font-size:var(--xx_small);font-weight:var(--body_font_weight_bold);height:var(--x_small);line-height:var(--xx_small);margin:2px 0 2px 4px;opacity:.5;padding:1px;width:var(--x_small);text-decoration:none;text-align:center"
+    },
+    {
+      "source": "https://coronatools.com/cdn/shop/t/18/assets/styles.css?v=104867411348685601311788884766",
+      "selector": ".selector-wrapper label:not(.swatch-label) button:hover,.selector-wrapper legend button:hover,.swatch label:not(.swatch-label) button:hover,.swatch legend butto",
+      "declarations": "background:var(--accent_color);color:var(--white);cursor:pointer;opacity:1"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Shop Hand and Gardening Tools | Corona Tools\n  \n    | Corona Clipper Inc.",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://coronatools.com/",
+        "https://coronatools.com/cdn/shop/t/18/assets/styles.accessories.css?v=159717112975466525641788884766",
+        "https://coronatools.com/cdn/shop/t/18/assets/corona-custom.css?v=11045254115768226471788884766"
+      ]
+    },
+    "colors.primary-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://coronatools.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://coronatools.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://coronatools.com/",
+        "https://coronatools.com/cdn/shop/t/18/assets/corona-custom.css?v=11045254115768226471788884766"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://coronatools.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://coronatools.com/",
+        "https://coronatools.com/cdn/shop/t/18/assets/corona-custom.css?v=11045254115768226471788884766"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://coronatools.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://coronatools.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://coronatools.com/",
+        "https://coronatools.com/cdn/shop/t/18/assets/corona-custom.css?v=11045254115768226471788884766"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://coronatools.com/",
+        "https://coronatools.com/cdn/shop/t/18/assets/corona-custom.css?v=11045254115768226471788884766"
+      ]
+    },
+    "colors.accent-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://coronatools.com/cdn/shop/t/18/assets/corona-custom.css?v=11045254115768226471788884766"
+      ]
+    },
+    "colors.accent-green-bright": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://coronatools.com/"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://coronatools.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://coronatools.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.free-shipping-banner": {
+      "status": "inferred"
+    }
+  }
+}

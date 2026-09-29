@@ -1,0 +1,838 @@
+{
+  "source_url": "https://ostrichpillow.com",
+  "final_url": "https://ostrichpillow.com/",
+  "captured_at": "2026-09-28T05:05:40.030267+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://ostrichpillow.com",
+      "final_url": "https://ostrichpillow.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "34a116b0804ff34ae5e5894a814cfa93a57c7f8a823f956d799459af9aa46afc",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css",
+      "final_url": "https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "af8545de3876815292506711e1369bff9dfe57ec7e04c45c3e1bdac48a11f3b2",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://ostrichpillow.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://ostrichpillow.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://ostrichpillow.com/cdn/shop/t/17/assets/header-new.css?v=9666420481266983691782891273",
+      "final_url": "https://ostrichpillow.com/cdn/shop/t/17/assets/header-new.css?v=9666420481266983691782891273",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "dd282abc6432a4b97f5701a1732a066a6448e81d93d1639c943eb2919b46ec84",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://ostrichpillow.com/cdn/shop/t/17/assets/base.css?v=161014358999006255271790332311",
+      "final_url": "https://ostrichpillow.com/cdn/shop/t/17/assets/base.css?v=161014358999006255271790332311",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "903eaa5925b929daa3b8a0ff9fb5486580593139aa99f349dfd5d296adfb3d25",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://ostrichpillow.com/cdn/shop/t/17/assets/component-localization-form.css?v=100347923995086432081706887002",
+      "final_url": "https://ostrichpillow.com/cdn/shop/t/17/assets/component-localization-form.css?v=100347923995086432081706887002",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "fae5546388845fd98b5843312e006efdcec12b679bb77111d6149f623529dbf3",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#0f32c3": {
+      "count": 118,
+      "sources": [
+        "https://ostrichpillow.com/",
+        "https://ostrichpillow.com/cdn/shop/t/17/assets/header-new.css?v=9666420481266983691782891273",
+        "https://ostrichpillow.com/cdn/shop/t/17/assets/base.css?v=161014358999006255271790332311"
+      ]
+    },
+    "#000000": {
+      "count": 118,
+      "sources": [
+        "https://ostrichpillow.com/",
+        "https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css",
+        "https://ostrichpillow.com/cdn/shop/t/17/assets/header-new.css?v=9666420481266983691782891273",
+        "https://ostrichpillow.com/cdn/shop/t/17/assets/base.css?v=161014358999006255271790332311",
+        "https://ostrichpillow.com/cdn/shop/t/17/assets/component-localization-form.css?v=100347923995086432081706887002"
+      ]
+    },
+    "#53607b": {
+      "count": 74,
+      "sources": [
+        "https://ostrichpillow.com/",
+        "https://ostrichpillow.com/cdn/shop/t/17/assets/header-new.css?v=9666420481266983691782891273"
+      ]
+    },
+    "#464e64": {
+      "count": 70,
+      "sources": [
+        "https://ostrichpillow.com/",
+        "https://ostrichpillow.com/cdn/shop/t/17/assets/header-new.css?v=9666420481266983691782891273",
+        "https://ostrichpillow.com/cdn/shop/t/17/assets/base.css?v=161014358999006255271790332311"
+      ]
+    },
+    "#ffffff": {
+      "count": 45,
+      "sources": [
+        "https://ostrichpillow.com/",
+        "https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css",
+        "https://ostrichpillow.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://ostrichpillow.com/cdn/shop/t/17/assets/header-new.css?v=9666420481266983691782891273",
+        "https://ostrichpillow.com/cdn/shop/t/17/assets/base.css?v=161014358999006255271790332311"
+      ]
+    },
+    "#d9dee1": {
+      "count": 44,
+      "sources": [
+        "https://ostrichpillow.com/",
+        "https://ostrichpillow.com/cdn/shop/t/17/assets/header-new.css?v=9666420481266983691782891273"
+      ]
+    },
+    "#f1f2f4": {
+      "count": 38,
+      "sources": [
+        "https://ostrichpillow.com/",
+        "https://ostrichpillow.com/cdn/shop/t/17/assets/header-new.css?v=9666420481266983691782891273",
+        "https://ostrichpillow.com/cdn/shop/t/17/assets/base.css?v=161014358999006255271790332311"
+      ]
+    },
+    "#585858": {
+      "count": 35,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#73a2cd": {
+      "count": 24,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#690f32": {
+      "count": 24,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#be9ac8": {
+      "count": 24,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#f9fafb": {
+      "count": 23,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#c0c8d1": {
+      "count": 22,
+      "sources": [
+        "https://ostrichpillow.com/",
+        "https://ostrichpillow.com/cdn/shop/t/17/assets/base.css?v=161014358999006255271790332311"
+      ]
+    },
+    "#c6c6c6": {
+      "count": 21,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#00000033": {
+      "count": 21,
+      "sources": [
+        "https://ostrichpillow.com/",
+        "https://ostrichpillow.com/cdn/shop/t/17/assets/base.css?v=161014358999006255271790332311"
+      ]
+    },
+    "#ffffffa3": {
+      "count": 20,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#0000001f": {
+      "count": 20,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#ffffff9c": {
+      "count": 20,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#0000008c": {
+      "count": 20,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#ffeb91": {
+      "count": 12,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#776e4f": {
+      "count": 12,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#595959": {
+      "count": 12,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#1439bf": {
+      "count": 9,
+      "sources": [
+        "https://ostrichpillow.com/",
+        "https://ostrichpillow.com/cdn/shop/t/17/assets/base.css?v=161014358999006255271790332311"
+      ]
+    },
+    "#121212": {
+      "count": 8,
+      "sources": [
+        "https://ostrichpillow.com/",
+        "https://ostrichpillow.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#316359": {
+      "count": 8,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#000002": {
+      "count": 8,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#265b99": {
+      "count": 8,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#326656": {
+      "count": 8,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#5d707e": {
+      "count": 8,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#e36964": {
+      "count": 8,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#b7b7b7": {
+      "count": 7,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 6,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#a5b99d": {
+      "count": 6,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#3e5d58": {
+      "count": 6,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#98b7c7": {
+      "count": 6,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#225b72": {
+      "count": 6,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#783142": {
+      "count": 6,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#25778a": {
+      "count": 5,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#1b4179": {
+      "count": 5,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#85896e": {
+      "count": 5,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#5d6764": {
+      "count": 5,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#656e82": {
+      "count": 5,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#39455e": {
+      "count": 5,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#a33c3c": {
+      "count": 4,
+      "sources": [
+        "https://ostrichpillow.com/",
+        "https://ostrichpillow.com/cdn/shop/t/17/assets/base.css?v=161014358999006255271790332311"
+      ]
+    },
+    "#4f7a9e": {
+      "count": 4,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#506d70": {
+      "count": 4,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#2d3e37": {
+      "count": 4,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#42564d": {
+      "count": 4,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#85a6b5": {
+      "count": 4,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#044658": {
+      "count": 4,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#0078bf": {
+      "count": 4,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#f7ea48": {
+      "count": 4,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#84c8c9": {
+      "count": 4,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#4b6c6b": {
+      "count": 4,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#f55f5e": {
+      "count": 4,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#909681": {
+      "count": 4,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#db6e20": {
+      "count": 4,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#58595b": {
+      "count": 4,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#043425": {
+      "count": 4,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "#f4caca": {
+      "count": 4,
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "Montserrat": [
+      "https://ostrichpillow.com/"
+    ],
+    "SharpSans": [
+      "https://ostrichpillow.com/",
+      "https://ostrichpillow.com/cdn/shop/t/17/assets/base.css?v=161014358999006255271790332311"
+    ],
+    "sans-serif": [
+      "https://ostrichpillow.com/",
+      "https://ostrichpillow.com/cdn/shop/t/17/assets/base.css?v=161014358999006255271790332311"
+    ],
+    "sans-serif !important": [
+      "https://ostrichpillow.com/"
+    ],
+    "sans-serif!important": [
+      "https://ostrichpillow.com/cdn/shop/t/17/assets/base.css?v=161014358999006255271790332311"
+    ],
+    "swiper-icons": [
+      "https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://ostrichpillow.com/",
+      "selector": ":root,\n        .color-background-1",
+      "declarations": "--color-background: 255, \n          255, \n          255;\n          \n            --gradient-background: #ffffff;\n          \n\n          \n\n          --color-foreground: 18, \n          18, \n          18;\n          --color-background-contrast: 191, \n          191, \n          191;\n          --color-shadow: 18, \n          18, \n          18;\n          --color-button: 15, \n          50, \n          195;\n          --color-button-text: 255, \n          255, \n          255;\n          --color-secondary-button: 255, \n          255, \n          255;\n          --color-secondary-button-text: 18, \n          18, \n          18;\n          --color-link: 18, \n          18, \n          18;\n          --color-badge-foreg"
+    },
+    {
+      "source": "https://ostrichpillow.com/",
+      "selector": "body, .color-background-1, .color-background-2, .color-inverse, .color-accent-1, .color-accent-2, .color-scheme-c3735258-361d-4cd7-91f4-b4628a866cfd",
+      "declarations": "color: rgba(var(--color-foreground), 0.75);\n        background-color: rgb(var(--color-background));"
+    },
+    {
+      "source": "https://ostrichpillow.com/",
+      "selector": "body",
+      "declarations": "display: grid;\n  grid-template-rows: auto auto 1fr auto;\n  grid-template-columns: 100%;\n  height: 100%;\n  margin: 0;\n  font-size: 1.5rem;\n  letter-spacing: 0.02rem;\n  line-height: calc(1 + 0.8 / var(--font-body-scale));\n  font-family: \"SharpSans\", sans-serif;\n  font-style: var(--font-body-style);\n  font-weight: var(--font-body-weight);"
+    },
+    {
+      "source": "https://ostrichpillow.com/",
+      "selector": ":root",
+      "declarations": "--header-height: 150px;"
+    },
+    {
+      "source": "https://ostrichpillow.com/",
+      "selector": ":root",
+      "declarations": "--header-height: 130px;"
+    },
+    {
+      "source": "https://ostrichpillow.com/",
+      "selector": ".upselling-products-cart .loading__spinner",
+      "declarations": "top: .6rem;\n    right: 0.4rem;\n    border-radius: 1rem;\n    width: 6rem !important;\n    background-color: transparent;"
+    },
+    {
+      "source": "https://ostrichpillow.com/",
+      "selector": ".buy-button-extra",
+      "declarations": "background-color: white;\n    border: 1px solid var(--blue-ostrichpillow);\n    border-radius: 25px;\n    padding: 1rem 2rem;\n    cursor: pointer;\n    margin-left: 1rem;\n    font-family: SharpSans, sans-serif;\n    font-weight: 500;\n    min-width: max-content;"
+    },
+    {
+      "source": "https://ostrichpillow.com/",
+      "selector": ".upselling-products-cart .buy-button-extra",
+      "declarations": "background-color: #53607B;\n    border: none;"
+    },
+    {
+      "source": "https://ostrichpillow.com/",
+      "selector": ".buy-button-extra span",
+      "declarations": "color: var(--blue-ostrichpillow);"
+    },
+    {
+      "source": "https://ostrichpillow.com/",
+      "selector": ".upselling-products-cart .buy-button-extra span",
+      "declarations": "color: white;\n    text-transform: uppercase;"
+    },
+    {
+      "source": "https://ostrichpillow.com/",
+      "selector": ".buy-button-extra:hover",
+      "declarations": "background-color: black !important;\n    box-shadow: 6px 6px 6px 0px rgba(0,0,0,0.2);\n    -webkit-box-shadow: 6px 6px 6px 0px rgba(0,0,0,0.2);\n    -moz-box-shadow: 6px 6px 6px 0px rgba(0,0,0,0.2);\n    border: 1px solid #ffffff87;"
+    },
+    {
+      "source": "https://ostrichpillow.com/",
+      "selector": ".buy-button-extra:hover span",
+      "declarations": "color: white!important;"
+    },
+    {
+      "source": "https://ostrichpillow.com/",
+      "selector": ".upselling-products-cart .select-wrapper::after",
+      "declarations": "color: #4f4f4f;\n  top: 40%;"
+    },
+    {
+      "source": "https://ostrichpillow.com/",
+      "selector": ".wishlist-header-link .wkh-button",
+      "declarations": "--icon-size: 22px;\n    --icon-fill: transparent;\n    --icon-stroke: #000000;\n    --icon-stroke-width: 1px;\n    --counter-size: 15px;\n\n    display: flex;\n    position: relative;\n    padding: 16px 12px;"
+    },
+    {
+      "source": "https://ostrichpillow.com/",
+      "selector": ".wishlist-header-link .wkh-counter",
+      "declarations": "opacity: 1;\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    min-width: var(--counter-size);\n    height: var(--counter-size);\n    border-radius: calc(var(--counter-size) / 2);\n    font-size: 11px;\n    line-height: 1;\n    background: rgb(255, 255, 255);\n    color: rgb(0, 0, 0);\n    position:  absolute;\n    top: 25px;\n    right: 5px;"
+    },
+    {
+      "source": "https://ostrichpillow.com/",
+      "selector": ".mega-menu__content .button:hover",
+      "declarations": "background-color: black !important;\n          color: white;\n          box-shadow: 6px 6px 6px 0px rgba(0,0,0,0.2);\n          -webkit-box-shadow: 6px 6px 6px 0px rgba(0,0,0,0.2);\n          -moz-box-shadow: 6px 6px 6px 0px rgba(0,0,0,0.2);"
+    },
+    {
+      "source": "https://ostrichpillow.com/",
+      "selector": ".mega-menu__right-item-inner--double .mega-menu__content .button",
+      "declarations": "margin-top: 2rem;\n        background-color: #0F32C3 !important;\n        color: white;"
+    },
+    {
+      "source": "https://ostrichpillow.com/",
+      "selector": ".mega-menu__right-item__image--full .button",
+      "declarations": "margin-top: 32px;\n        padding: 6.5px 28px;\n        line-height: 19.5px;\n        font-size: 13px;\n        background-color: #0F32C3 !important;\n        color: #fff;\n        font-weight: 500;"
+    },
+    {
+      "source": "https://ostrichpillow.com/",
+      "selector": ".mega-menu__right-item-inner--double .button:hover",
+      "declarations": "background: #53607B;\n        color: #fff;"
+    },
+    {
+      "source": "https://ostrichpillow.com/",
+      "selector": "mns: 2;\n--columns: 2;\n #shopify-section-sections--17300641972436__header #Mega-Menu-mega_menu_simple_bgctV9 h3, #shopify-section-sections--17300641972436__heade",
+      "declarations": "color: black;"
+    },
+    {
+      "source": "https://ostrichpillow.com/",
+      "selector": "#shopify-section-sections--17300641972436__header #Mega-Menu-mega_menu_simple_TJHR4a p",
+      "declarations": "margin-top: 1rem; color: white;"
+    },
+    {
+      "source": "https://ostrichpillow.com/",
+      "selector": "#shopify-section-sections--17300641972436__header #Mega-Menu-mega_menu_simple_Wpb9bd h3, #shopify-section-sections--17300641972436__header #Mega-Menu-mega_menu_",
+      "declarations": "color: white;"
+    },
+    {
+      "source": "https://ostrichpillow.com/",
+      "selector": "#shopify-section-sections--17300641972436__header li[data-id=\"Mega-Menu-mega_menu_simple_BfFtk6\"] span",
+      "declarations": "color: #a33c3c;"
+    },
+    {
+      "source": "https://ostrichpillow.com/",
+      "selector": "#MainContent .video-text-banner-template--17300642529492__banner_iso_MWhRCt .video-text-banner__button",
+      "declarations": "background-color: #0f32c3!important;"
+    },
+    {
+      "source": "https://ostrichpillow.com/",
+      "selector": ".video-text-banner-template--17300642529492__banner_iso_MWhRCt .video-text-banner__button,\n  .video-text-banner-template--17300642529492__banner_iso_MWhRCt .but",
+      "declarations": "--border-offset: 0;\n    padding: 0 3rem;\n    min-height: 4.5rem;\n    border-radius: 50px;"
+    },
+    {
+      "source": "https://ostrichpillow.com/",
+      "selector": ".video-text-banner-template--17300642529492__banner_iso_MWhRCt .button_secondary",
+      "declarations": "background-color: transparent;\n    border: 2px solid #1439bf;\n    display: flex;\n    align-items: center;\n    cursor: pointer;"
+    },
+    {
+      "source": "https://ostrichpillow.com/",
+      "selector": ".video-text-banner-template--17300642529492__banner_iso_MWhRCt .button_secondary:hover",
+      "declarations": "background-color: #1439bf;"
+    },
+    {
+      "source": "https://ostrichpillow.com/",
+      "selector": ".video-text-banner-template--17300642529492__banner_iso_MWhRCt .button:not([disabled]):hover:after",
+      "declarations": "--border-offset: 0;"
+    },
+    {
+      "source": "https://ostrichpillow.com/",
+      "selector": "#MainContent .video-text-banner-template--17300642529492__banner_iso_MWhRCt .video-text-banner__button p",
+      "declarations": "color: #ffffff!important;"
+    },
+    {
+      "source": "https://ostrichpillow.com/",
+      "selector": ".product-card-wrapper .color-swatch.color-swatch--more",
+      "declarations": "border: 1px solid #D9DEE1;\n      color: #53607B;\n      display: flex;\n      align-items: center;\n      justify-content: center;\n      border-radius: 4rem;\n      font-size: 13px;\n      font-weight: 400;\n      line-height: 17px;\n      font-family: SharpSans, sans-serif;\n      text-decoration: none;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Ostrichpillow® | Designed to Pause | Official Store",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ostrichpillow.com/",
+        "https://ostrichpillow.com/cdn/shop/t/17/assets/header-new.css?v=9666420481266983691782891273",
+        "https://ostrichpillow.com/cdn/shop/t/17/assets/base.css?v=161014358999006255271790332311"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ostrichpillow.com/",
+        "https://ostrichpillow.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ostrichpillow.com/",
+        "https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css",
+        "https://ostrichpillow.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://ostrichpillow.com/cdn/shop/t/17/assets/header-new.css?v=9666420481266983691782891273",
+        "https://ostrichpillow.com/cdn/shop/t/17/assets/base.css?v=161014358999006255271790332311"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ostrichpillow.com/",
+        "https://ostrichpillow.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ostrichpillow.com/",
+        "https://ostrichpillow.com/cdn/shop/t/17/assets/header-new.css?v=9666420481266983691782891273"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ostrichpillow.com/",
+        "https://ostrichpillow.com/cdn/shop/t/17/assets/header-new.css?v=9666420481266983691782891273",
+        "https://ostrichpillow.com/cdn/shop/t/17/assets/base.css?v=161014358999006255271790332311"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ostrichpillow.com/",
+        "https://cdn.jsdelivr.net/npm/swiper@9/swiper-bundle.min.css",
+        "https://ostrichpillow.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://ostrichpillow.com/cdn/shop/t/17/assets/header-new.css?v=9666420481266983691782891273",
+        "https://ostrichpillow.com/cdn/shop/t/17/assets/base.css?v=161014358999006255271790332311"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ostrichpillow.com/",
+        "https://ostrichpillow.com/cdn/shop/t/17/assets/header-new.css?v=9666420481266983691782891273"
+      ]
+    },
+    "colors.accent-secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ostrichpillow.com/",
+        "https://ostrichpillow.com/cdn/shop/t/17/assets/header-new.css?v=9666420481266983691782891273",
+        "https://ostrichpillow.com/cdn/shop/t/17/assets/base.css?v=161014358999006255271790332311"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "colors.contrast-grey": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://ostrichpillow.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.wishlist-indicator": {
+      "status": "inferred"
+    }
+  }
+}

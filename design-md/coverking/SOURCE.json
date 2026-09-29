@@ -1,0 +1,957 @@
+{
+  "source_url": "https://coverking.com",
+  "final_url": "https://coverking.com/",
+  "captured_at": "2026-09-29T04:12:55.122898+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://coverking.com",
+      "final_url": "https://coverking.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "c476a0849ed0adf7bd95e9671f6f24d0a7f622aaf4c4d56d224e46633843a2a8",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377",
+      "final_url": "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4d6e98350b83e2d57755439c2077a0c0726d740dd714917d72462cf97ccefdd8",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://coverking.com/cdn/shop/t/495/assets/ck-app.css?v=105253288306962819001789362377",
+      "final_url": "https://coverking.com/cdn/shop/t/495/assets/ck-app.css?v=105253288306962819001789362377",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e4ace6c508ec41bfea3849cf14a3c837b087e06500811e66727790edba7719aa",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://coverking.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://coverking.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 51,
+      "sources": [
+        "https://coverking.com/",
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377",
+        "https://coverking.com/cdn/shop/t/495/assets/ck-app.css?v=105253288306962819001789362377",
+        "https://coverking.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f7f9fb": {
+      "count": 4,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#1a1300": {
+      "count": 3,
+      "sources": [
+        "https://coverking.com/",
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#cfd6e0": {
+      "count": 3,
+      "sources": [
+        "https://coverking.com/"
+      ]
+    },
+    "#01696f": {
+      "count": 3,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#0a1a24": {
+      "count": 2,
+      "sources": [
+        "https://coverking.com/"
+      ]
+    },
+    "#0078c9": {
+      "count": 2,
+      "sources": [
+        "https://coverking.com/",
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#00558f": {
+      "count": 2,
+      "sources": [
+        "https://coverking.com/"
+      ]
+    },
+    "#eef1f5": {
+      "count": 2,
+      "sources": [
+        "https://coverking.com/",
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#9fb0bc": {
+      "count": 2,
+      "sources": [
+        "https://coverking.com/",
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#ffffff1f": {
+      "count": 2,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#040c1200": {
+      "count": 2,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#16445f": {
+      "count": 2,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#061b2a": {
+      "count": 2,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#17232c": {
+      "count": 2,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://coverking.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://coverking.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00101a": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/"
+      ]
+    },
+    "#13242f": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/"
+      ]
+    },
+    "#0a6fc2": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/"
+      ]
+    },
+    "#f2a900": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/"
+      ]
+    },
+    "#d99700": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/"
+      ]
+    },
+    "#c98a00": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/"
+      ]
+    },
+    "#e0301e": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/"
+      ]
+    },
+    "#ff7200": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/"
+      ]
+    },
+    "#1d8a4c": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/"
+      ]
+    },
+    "#f4f6f9": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/"
+      ]
+    },
+    "#dce1e8": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/"
+      ]
+    },
+    "#c4ccd6": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/"
+      ]
+    },
+    "#5c6675": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/"
+      ]
+    },
+    "#8a93a1": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/"
+      ]
+    },
+    "#9aa3b1": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/"
+      ]
+    },
+    "#c5d1dc": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/"
+      ]
+    },
+    "#e6ebf0": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#06131c": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#040c12f5": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#040c12d1": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#040c1247": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#0078c92e": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#bfe1fa": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#c4d0da": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#d6dee6": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#ffffff57": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#061724": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#082d45": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#0b76c8": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#0064ad": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#00101a47": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#00000038": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#cdd6e0": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#005aa01f": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#1c2733": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#7f8c99": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#f2f5f9": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#e6ebf1": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#061f31": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#dce9f3": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#092b42": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#071f31": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#07131e": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#a9bbc8": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#06243a": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#d4e8f8": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#eef6fd": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#bfe0f8": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#fdecea": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#040c1280": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#0078c91f": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#07131d": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#030a10eb": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#030a10c2": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#030a102e": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#030a1014": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#d8e6ef": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#cbdcea": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#f6f8fa": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#eaf4fb": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#9dc6e3": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#f8fafc": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://coverking.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Barlow": [
+      "https://coverking.com/"
+    ],
+    "Coverking-Bold": [
+      "https://coverking.com/"
+    ],
+    "Coverking-Light": [
+      "https://coverking.com/"
+    ],
+    "Coverking-Medium": [
+      "https://coverking.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://coverking.com/",
+      "selector": ":root",
+      "declarations": "--ck-black: #00101a;\n      --ck-charcoal:#0a1a24;\n      --ck-charcoal-2:#13242f;\n      --ck-blue: #0078c9;\n      --ck-blue-deep: #00558f;\n      --ck-blue-wedge:#0a6fc2;\n      --ck-blue-hover: #00558f;\n      --ck-gold: #f2a900;\n      --ck-gold-hover:#d99700;\n      --ck-gold-deep:#c98a00;\n      --ck-red: #e0301e;\n      --ck-orange:#ff7200;\n      --ck-green: #1d8a4c;\n      --ck-white:#ffffff;\n      --ck-bg: #f4f6f9;\n      --ck-surface: #ffffff;\n      --ck-surface-alt: #eef1f5;\n      --ck-border: #dce1e8;\n      --ck-border-strong:#c4ccd6;\n      --ck-text: #0a1a24;\n      --ck-text-muted: #5c6675;\n      --ck-text-faint:#8a93a1;\n      --maxw: 1320px;\n      --r-sm:6px;\n      --r-md:8px;\n      --r-lg"
+    },
+    {
+      "source": "https://coverking.com/",
+      "selector": ":root",
+      "declarations": "--ck-header-h: 80px;"
+    },
+    {
+      "source": "https://coverking.com/",
+      "selector": ":root:has(.header-fit:not([hidden]))",
+      "declarations": "--ck-header-h: 112px;"
+    },
+    {
+      "source": "https://coverking.com/",
+      "selector": ".site-header",
+      "declarations": "background: var(--ck-black);\n    color: #fff;\n    position: relative;\n    z-index: 20;"
+    },
+    {
+      "source": "https://coverking.com/",
+      "selector": ".header-fit",
+      "declarations": "min-width:0; color:#fff; text-decoration:none;\n    font-size:13px; font-weight:500; letter-spacing:0; text-transform:none;"
+    },
+    {
+      "source": "https://coverking.com/",
+      "selector": ".header-fit__lead, .header-fit__change",
+      "declarations": "color:rgba(255,255,255,.55); font-weight:400;"
+    },
+    {
+      "source": "https://coverking.com/",
+      "selector": ".header-fit__label",
+      "declarations": "margin-left:auto; min-width:0; overflow:hidden;\n      text-overflow:ellipsis; white-space:nowrap;\n      text-decoration:underline; text-decoration-color:var(--ck-gold);\n      text-underline-offset:3px;"
+    },
+    {
+      "source": "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377",
+      "selector": "body",
+      "declarations": "margin:0;font-family:var(--font);color:var(--ck-text);background:var(--ck-bg);line-height:1.5;-webkit-font-smoothing:antialiased"
+    },
+    {
+      "source": "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377",
+      "selector": "button",
+      "declarations": "font-family:inherit;cursor:pointer"
+    },
+    {
+      "source": "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377",
+      "selector": ".btn--gold",
+      "declarations": "background:var(--ck-gold);color:#1a1300"
+    },
+    {
+      "source": "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377",
+      "selector": ".btn--blue",
+      "declarations": "background:var(--ck-blue);color:#fff"
+    },
+    {
+      "source": "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377",
+      "selector": ".btn--ghost",
+      "declarations": "background:transparent;color:#fff;border:1.5px solid rgba(255,255,255,.55)"
+    },
+    {
+      "source": "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377",
+      "selector": ".site-header",
+      "declarations": "background:var(--ck-black);position:relative;color:#fff"
+    },
+    {
+      "source": "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377",
+      "selector": ".hero h1 em",
+      "declarations": "font-style:normal;color:var(--ck-blue);display:block"
+    },
+    {
+      "source": "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377",
+      "selector": ".company-card__body h3",
+      "declarations": "font-size:21px;line-height:1.15;margin:5px 0 9px;color:var(--ck-text)"
+    },
+    {
+      "source": "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377",
+      "selector": ".company-card__body p",
+      "declarations": "font-size:14px;line-height:1.5;margin:0;color:var(--ck-text-muted)"
+    },
+    {
+      "source": "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377",
+      "selector": ".hero-copy-panel h1",
+      "declarations": "font-size:clamp(36px,4.8vw,58px);line-height:.98;margin:7px 0 13px;color:#fff;letter-spacing:-.04em"
+    },
+    {
+      "source": "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377",
+      "selector": ".advisor-tags button",
+      "declarations": "border:1px solid var(--ck-border);border-radius:999px;background:#f6f8fa;color:#17232c;padding:8px 11px;font-size:12px;font-weight:900"
+    },
+    {
+      "source": "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377",
+      "selector": ".advisor-tags button:hover",
+      "declarations": "background:#eaf4fb;border-color:#9dc6e3"
+    },
+    {
+      "source": "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377",
+      "selector": ".compare-table tbody th",
+      "declarations": "color:var(--ck-blue)"
+    },
+    {
+      "source": "https://coverking.com/cdn/shop/t/495/assets/ck-app.css?v=105253288306962819001789362377",
+      "selector": ".page-wrap h1",
+      "declarations": "font-family:var(--font-heading);font-size:38px;letter-spacing:-.01em;margin:0 0 24px"
+    },
+    {
+      "source": "https://coverking.com/cdn/shop/t/495/assets/ck-app.css?v=105253288306962819001789362377",
+      "selector": ".error-404 h1",
+      "declarations": "font-size:64px;margin:0;color:var(--ck-blue)"
+    },
+    {
+      "source": "https://coverking.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://coverking.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://coverking.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://coverking.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://coverking.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://coverking.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Coverking USA - Custom and Universal Car Covers, Seat Covers, & More – CoverkingUSA",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://coverking.com/",
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "colors.primary-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://coverking.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://coverking.com/"
+      ]
+    },
+    "colors.ink-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://coverking.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://coverking.com/"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://coverking.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://coverking.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://coverking.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://coverking.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://coverking.com/",
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://coverking.com/",
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377",
+        "https://coverking.com/cdn/shop/t/495/assets/ck-app.css?v=105253288306962819001789362377",
+        "https://coverking.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://coverking.com/",
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377",
+        "https://coverking.com/cdn/shop/t/495/assets/ck-app.css?v=105253288306962819001789362377",
+        "https://coverking.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://coverking.com/"
+      ]
+    },
+    "colors.accent-gold-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://coverking.com/"
+      ]
+    },
+    "colors.on-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://coverking.com/",
+        "https://coverking.com/cdn/shop/t/495/assets/ck-base.css?v=27180296641439144661789362377"
+      ]
+    },
+    "colors.accent-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://coverking.com/"
+      ]
+    },
+    "colors.accent-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://coverking.com/"
+      ]
+    },
+    "colors.text-faint": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://coverking.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.button-ghost": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.vehicle-fitment-selector": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,0 +1,860 @@
+{
+  "source_url": "https://www.sjcdrums.com",
+  "final_url": "https://www.sjcdrums.com/",
+  "captured_at": "2026-09-28T04:07:35.383860+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.sjcdrums.com",
+      "final_url": "https://www.sjcdrums.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "af9369c8abe3764d2017d425a9d7540668becc218ed57fbdc2c13232266aa837",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
+      "final_url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "799aeb25cc0373fdee0e1b1db7ad6c2f6a0e058dfadaa3379689f583213190bd",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.sjcdrums.com/cdn/shop/t/113/assets/theme.css?v=43158715989497935281764782910",
+      "final_url": "https://www.sjcdrums.com/cdn/shop/t/113/assets/theme.css?v=43158715989497935281764782910",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "af6f21bed0823025254bd743eef5f3a3a4908a41842a6014231c020a1ca78a87",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.sjcdrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.sjcdrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.sjcdrums.com/cdn/shop/t/113/assets/theme.no-js.css?v=7295326775485131391764782911",
+      "final_url": "https://www.sjcdrums.com/cdn/shop/t/113/assets/theme.no-js.css?v=7295326775485131391764782911",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "29377e40e251102a5cfdbce7a0e3549b3ad63aa6cd7e52dd73df41335c12a235",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@400&family=Barlow:wght@400;700;800&family=Shrikhand:wght@400&family=Abel:wght@400&family=Quicksand:wght@400;700&family=Anton:wght@400&family=Permanent+Marker:wght@400;700&family=Archivo:wght@400&family=Archivo:wght@400&display=block",
+      "final_url": "https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@400&family=Barlow:wght@400;700;800&family=Shrikhand:wght@400&family=Abel:wght@400&family=Quicksand:wght@400;700&family=Anton:wght@400&family=Permanent+Marker:wght@400;700&family=Archivo:wght@400&family=Archivo:wght@400&display=block",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "936d1f0017387e02e2d0ee4124c19f4d5dc19184947fb3e04f9795e604196cb3",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 110,
+      "sources": [
+        "https://www.sjcdrums.com/",
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
+        "https://www.sjcdrums.com/cdn/shop/t/113/assets/theme.css?v=43158715989497935281764782910",
+        "https://www.sjcdrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#000000": {
+      "count": 81,
+      "sources": [
+        "https://www.sjcdrums.com/",
+        "https://www.sjcdrums.com/cdn/shop/t/113/assets/theme.css?v=43158715989497935281764782910"
+      ]
+    },
+    "#919da9": {
+      "count": 38,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#242d35": {
+      "count": 17,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#121212": {
+      "count": 9,
+      "sources": [
+        "https://www.sjcdrums.com/",
+        "https://www.sjcdrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#d6dade": {
+      "count": 7,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#d6dadeff": {
+      "count": 6,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 4,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#666666": {
+      "count": 4,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#333333": {
+      "count": 4,
+      "sources": [
+        "https://www.sjcdrums.com/",
+        "https://www.sjcdrums.com/cdn/shop/t/113/assets/theme.css?v=43158715989497935281764782910"
+      ]
+    },
+    "#db302a": {
+      "count": 4,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#242d35ff": {
+      "count": 4,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#6e6ef7ff": {
+      "count": 4,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#252a2b": {
+      "count": 3,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#464e57": {
+      "count": 3,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#a8b0b9": {
+      "count": 3,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 3,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 3,
+      "sources": [
+        "https://www.sjcdrums.com/",
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
+        "https://www.sjcdrums.com/cdn/shop/t/113/assets/theme.css?v=43158715989497935281764782910"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 2,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#444749": {
+      "count": 2,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#b9bfca": {
+      "count": 2,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#b8e986": {
+      "count": 2,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#f4f5fa": {
+      "count": 2,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#727981ff": {
+      "count": 2,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#f0ff43": {
+      "count": 2,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#334fb4": {
+      "count": 2,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#0000003d": {
+      "count": 2,
+      "sources": [
+        "https://www.sjcdrums.com/cdn/shop/t/113/assets/theme.css?v=43158715989497935281764782910"
+      ]
+    },
+    "#000000cc": {
+      "count": 2,
+      "sources": [
+        "https://www.sjcdrums.com/cdn/shop/t/113/assets/theme.css?v=43158715989497935281764782910"
+      ]
+    },
+    "#ffffffe6": {
+      "count": 2,
+      "sources": [
+        "https://www.sjcdrums.com/cdn/shop/t/113/assets/theme.css?v=43158715989497935281764782910"
+      ]
+    },
+    "#00000014": {
+      "count": 2,
+      "sources": [
+        "https://www.sjcdrums.com/cdn/shop/t/113/assets/theme.css?v=43158715989497935281764782910"
+      ]
+    },
+    "#0000001a": {
+      "count": 2,
+      "sources": [
+        "https://www.sjcdrums.com/cdn/shop/t/113/assets/theme.css?v=43158715989497935281764782910"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.sjcdrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.sjcdrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#fdfdfd": {
+      "count": 1,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#8a8a8a": {
+      "count": 1,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#5d6b82": {
+      "count": 1,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#d1d5db": {
+      "count": 1,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#d5ddea": {
+      "count": 1,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#006ce5": {
+      "count": 1,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#ff6b6b": {
+      "count": 1,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#ebff59": {
+      "count": 1,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#fc6657": {
+      "count": 1,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#d0021b": {
+      "count": 1,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#ececec": {
+      "count": 1,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#d92351": {
+      "count": 1,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#e1fceb": {
+      "count": 1,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#dbf2f7": {
+      "count": 1,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#e44d47ff": {
+      "count": 1,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#4ab24eff": {
+      "count": 1,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#f5f8fa": {
+      "count": 1,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#6e767f": {
+      "count": 1,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#3c3c3c": {
+      "count": 1,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#747575": {
+      "count": 1,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#323a44": {
+      "count": 1,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#727981": {
+      "count": 1,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 1,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#5a5ae3": {
+      "count": 1,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#8e969f": {
+      "count": 1,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#dfdfdf": {
+      "count": 1,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "#fbeaea": {
+      "count": 1,
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "1rem": [
+      "https://www.sjcdrums.com/cdn/shop/t/113/assets/theme.css?v=43158715989497935281764782910"
+    ],
+    "Abel": [
+      "https://www.sjcdrums.com/",
+      "https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@400&family=Barlow:wght@400;700;800&family=Shrikhand:wght@400&family=Abel:wght@400&family=Quicksand:wght@400;700&family=Anton:wght@400&family=Permanent+Marker:wght@400;700&family=Archivo:wght@400&family=Archivo:wght@400&display=block"
+    ],
+    "Anton": [
+      "https://www.sjcdrums.com/",
+      "https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@400&family=Barlow:wght@400;700;800&family=Shrikhand:wght@400&family=Abel:wght@400&family=Quicksand:wght@400;700&family=Anton:wght@400&family=Permanent+Marker:wght@400;700&family=Archivo:wght@400&family=Archivo:wght@400&display=block"
+    ],
+    "Archivo": [
+      "https://www.sjcdrums.com/",
+      "https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@400&family=Barlow:wght@400;700;800&family=Shrikhand:wght@400&family=Abel:wght@400&family=Quicksand:wght@400;700&family=Anton:wght@400&family=Permanent+Marker:wght@400;700&family=Archivo:wght@400&family=Archivo:wght@400&display=block"
+    ],
+    "Arial": [
+      "https://www.sjcdrums.com/cdn/shop/t/113/assets/theme.css?v=43158715989497935281764782910"
+    ],
+    "Barlow": [
+      "https://www.sjcdrums.com/",
+      "https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@400&family=Barlow:wght@400;700;800&family=Shrikhand:wght@400&family=Abel:wght@400&family=Quicksand:wght@400;700&family=Anton:wght@400&family=Permanent+Marker:wght@400;700&family=Archivo:wght@400&family=Archivo:wght@400&display=block"
+    ],
+    "Barlow Semi Condensed": [
+      "https://www.sjcdrums.com/",
+      "https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@400&family=Barlow:wght@400;700;800&family=Shrikhand:wght@400&family=Abel:wght@400&family=Quicksand:wght@400;700&family=Anton:wght@400&family=Permanent+Marker:wght@400;700&family=Archivo:wght@400&family=Archivo:wght@400&display=block"
+    ],
+    "Barlow Semi Condensed\"!important": [
+      "https://www.sjcdrums.com/"
+    ],
+    "Baskerville": [
+      "https://www.sjcdrums.com/cdn/shop/t/113/assets/theme.css?v=43158715989497935281764782910"
+    ],
+    "Font Awesome 5 Brands": [
+      "https://www.sjcdrums.com/"
+    ],
+    "Font Awesome 5 Free": [
+      "https://www.sjcdrums.com/"
+    ],
+    "Font Awesome 6 Brands": [
+      "https://www.sjcdrums.com/"
+    ],
+    "Font Awesome 6 Free": [
+      "https://www.sjcdrums.com/"
+    ],
+    "FontAwesome": [
+      "https://www.sjcdrums.com/",
+      "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    ],
+    "Permanent Marker": [
+      "https://www.sjcdrums.com/",
+      "https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@400&family=Barlow:wght@400;700;800&family=Shrikhand:wght@400&family=Abel:wght@400&family=Quicksand:wght@400;700&family=Anton:wght@400&family=Permanent+Marker:wght@400;700&family=Archivo:wght@400&family=Archivo:wght@400&display=block"
+    ],
+    "Quicksand": [
+      "https://www.sjcdrums.com/",
+      "https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@400&family=Barlow:wght@400;700;800&family=Shrikhand:wght@400&family=Abel:wght@400&family=Quicksand:wght@400;700&family=Anton:wght@400&family=Permanent+Marker:wght@400;700&family=Archivo:wght@400&family=Archivo:wght@400&display=block"
+    ],
+    "Shrikhand": [
+      "https://www.sjcdrums.com/",
+      "https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@400&family=Barlow:wght@400;700;800&family=Shrikhand:wght@400&family=Abel:wght@400&family=Quicksand:wght@400;700&family=Anton:wght@400&family=Permanent+Marker:wght@400;700&family=Archivo:wght@400&family=Archivo:wght@400&display=block"
+    ],
+    "monospace": [
+      "https://www.sjcdrums.com/cdn/shop/t/113/assets/theme.css?v=43158715989497935281764782910"
+    ],
+    "none": [
+      "https://www.sjcdrums.com/"
+    ],
+    "object-fit: contain": [
+      "https://www.sjcdrums.com/cdn/shop/t/113/assets/theme.css?v=43158715989497935281764782910"
+    ],
+    "object-fit: cover": [
+      "https://www.sjcdrums.com/cdn/shop/t/113/assets/theme.css?v=43158715989497935281764782910"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.sjcdrums.com/",
+      "selector": ":root",
+      "declarations": "--color-text: 0, 0, 0;\n    --color-text-foreground: 255, 255, 255;;\n\n    --color-accent: 217, 35, 81;\n    --color-accent-foreground: 255, 255, 255;\n\n    --color-background: 255, 255, 255;\n    --color-background-second: 240, 240, 240;\n    --color-background-third: 232, 232, 232;\n    --color-background-fourth: 247, 247, 247;\n\n    --color-body-text: #000000;\n    --color-body: #ffffff;\n    --color-bg: #ffffff;\n\n    \n\n    --font-stack-headings: Barlow, sans-serif;\n    --font-weight-headings: 800;\n    --font-style-headings: normal;\n\n    --font-stack-body: \"system_ui\", -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', 'Noto Sans', 'Liberation Sans', Arial, sans-serif, 'Apple Color Emoji', 'Segoe"
+    },
+    {
+      "source": "https://www.sjcdrums.com/",
+      "selector": ".__pf .pf-gs-button-1",
+      "declarations": "background-color:#919da9;color:#fff"
+    },
+    {
+      "source": "https://www.sjcdrums.com/",
+      "selector": ".__pf .pf-gs-button-2",
+      "declarations": "color:#919da9;border:1px solid #919da9"
+    },
+    {
+      "source": "https://www.sjcdrums.com/",
+      "selector": ".__pf .pf-gs-button-3",
+      "declarations": "background-color:#919da9;color:#fff;border-radius:40px"
+    },
+    {
+      "source": "https://www.sjcdrums.com/",
+      "selector": ".__pf .pf-gs-button-4",
+      "declarations": "color:#919da9;border-radius:40px;border:1px solid #919da9;padding:12px 20px;margin:0;font-size:16px;line-height:16px;letter-spacing:0"
+    },
+    {
+      "source": "https://www.sjcdrums.com/",
+      "selector": ".__pf .pf-gs-button-5,.__pf .pf-gs-button-6",
+      "declarations": "color:#919da9;border-style:solid;border-color:#919da9;padding:12px 20px;font-size:16px;line-height:16px;letter-spacing:0"
+    },
+    {
+      "source": "https://www.sjcdrums.com/",
+      "selector": "[data-pf-type^=Button]",
+      "declarations": "background-color:var(--pf-scheme-btn-bg-color);background-image:var(--pf-scheme-btn-bg-gradient-color);color:var(--pf-scheme-btn-text-color)"
+    },
+    {
+      "source": "https://www.sjcdrums.com/",
+      "selector": ".__pf .pf-button-2",
+      "declarations": "background-color:#919da9;color:#fff"
+    },
+    {
+      "source": "https://www.sjcdrums.com/",
+      "selector": ".__pf .pf-button-3",
+      "declarations": "color:#919da9;border:1px solid #919da9"
+    },
+    {
+      "source": "https://www.sjcdrums.com/",
+      "selector": ".__pf .pf-button-4",
+      "declarations": "background-color:#919da9;color:#fff;border-radius:40px"
+    },
+    {
+      "source": "https://www.sjcdrums.com/",
+      "selector": ".__pf .pf-button-5",
+      "declarations": "color:#919da9;border-radius:40px;border:1px solid #919da9;padding:12px 20px;margin:0;font-size:16px;line-height:16px;letter-spacing:0"
+    },
+    {
+      "source": "https://www.sjcdrums.com/",
+      "selector": ".__pf .pf-button-6,.__pf .pf-button-7",
+      "declarations": "color:#919da9;border-style:solid;border-color:#919da9;margin:0;font-size:16px;line-height:16px;letter-spacing:0;padding:12px 20px"
+    },
+    {
+      "source": "https://www.sjcdrums.com/",
+      "selector": ".__pf .pf-button-8",
+      "declarations": "background-color:#919da9;color:#fff;padding:12px 20px"
+    },
+    {
+      "source": "https://www.sjcdrums.com/",
+      "selector": ".__pf .pf-heading-1-h1,.__pf .pf-heading-1-h2,.__pf .pf-heading-1-h3,.__pf .pf-heading-1-h4,.__pf .pf-heading-1-h5,.__pf .pf-heading-1-h6",
+      "declarations": "color:var(--pf-scheme-text-color);background-color:var(--pf-scheme-bg-color)"
+    },
+    {
+      "source": "https://www.sjcdrums.com/",
+      "selector": ".__pf .pf-heading-2-h1,.__pf .pf-heading-2-h2,.__pf .pf-heading-2-h3,.__pf .pf-heading-2-h4,.__pf .pf-heading-2-h5,.__pf .pf-heading-2-h6",
+      "declarations": "margin:18px 0;font-size:32px;color:#000;padding:0"
+    },
+    {
+      "source": "https://www.sjcdrums.com/",
+      "selector": ".__pf .pf-heading-3-h1,.__pf .pf-heading-3-h2,.__pf .pf-heading-3-h3,.__pf .pf-heading-3-h4,.__pf .pf-heading-3-h5,.__pf .pf-heading-3-h6",
+      "declarations": "margin:18px 0;font-size:24px;color:#000;padding:0"
+    },
+    {
+      "source": "https://www.sjcdrums.com/",
+      "selector": ".__pf .pf-heading-4-h1,.__pf .pf-heading-4-h2,.__pf .pf-heading-4-h3,.__pf .pf-heading-4-h4,.__pf .pf-heading-4-h5,.__pf .pf-heading-4-h6",
+      "declarations": "margin:18px 0;font-size:20px;color:#000;padding:0"
+    },
+    {
+      "source": "https://www.sjcdrums.com/",
+      "selector": ".__pf .pf-heading-5-h1,.__pf .pf-heading-5-h2,.__pf .pf-heading-5-h3,.__pf .pf-heading-5-h4,.__pf .pf-heading-5-h5,.__pf .pf-heading-5-h6",
+      "declarations": "margin:18px 0;font-size:18px;color:#000;padding:0"
+    },
+    {
+      "source": "https://www.sjcdrums.com/",
+      "selector": ".__pf .pf-heading-6-h1,.__pf .pf-heading-6-h2,.__pf .pf-heading-6-h3,.__pf .pf-heading-6-h4,.__pf .pf-heading-6-h5,.__pf .pf-heading-6-h6",
+      "declarations": "margin:18px 0;font-size:16px;color:#000;padding:0"
+    },
+    {
+      "source": "https://www.sjcdrums.com/",
+      "selector": ".__pf .pf-heading-7-h1,.__pf .pf-heading-7-h2,.__pf .pf-heading-7-h3,.__pf .pf-heading-7-h4,.__pf .pf-heading-7-h5,.__pf .pf-heading-7-h6",
+      "declarations": "margin:18px 0;font-size:14px;color:#000;padding:0"
+    },
+    {
+      "source": "https://www.sjcdrums.com/",
+      "selector": ".__pf.__pf_rz_jtsUP .pf-369_ [data-pf-type=\"Accordion.Header\"]",
+      "declarations": "font-weight:700;padding:14px 18px;background:#fff;font-family:Quicksand;font-size:15px;border-radius:15px;border-style:none;line-height:1.5em;color:#333;margin-top:10px"
+    },
+    {
+      "source": "https://www.sjcdrums.com/",
+      "selector": ":root",
+      "declarations": "--fa-style-family-brands:\"Font Awesome 6 Brands\";--fa-font-brands:normal 400 1em/1 \"Font Awesome 6 Brands\";--fa-font-regular:normal 400 1em/1 \"Font Awesome 6 Free\";--fa-style-family-classic:\"Font Awesome 6 Free\";--fa-font-solid:normal 900 1em/1 \"Font Awesome 6 Free\""
+    },
+    {
+      "source": "https://www.sjcdrums.com/",
+      "selector": ".st-buyx-gety-wrapper .select-product-notice .box-inner .text-description",
+      "declarations": "margin-top:10px;color:#6e767f;font-size:16px;line-height:150%"
+    },
+    {
+      "source": "https://www.sjcdrums.com/",
+      "selector": ".st-bought-together-wrapper .bundle-product-heading,.st-buyx-gety-wrapper .bundle-product-heading",
+      "declarations": "margin:0;padding:0;font-weight:700;font-size:20px;line-height:150%;text-transform:capitalize;color:#242d35"
+    },
+    {
+      "source": "https://www.sjcdrums.com/",
+      "selector": ".st-bought-together-wrapper .bundle-product-sub-heading,.st-buyx-gety-wrapper .bundle-product-sub-heading",
+      "declarations": "margin:10px 0 0;padding:0;font-weight:700;font-size:14px;line-height:150%;text-transform:uppercase;color:#db302a"
+    },
+    {
+      "source": "https://www.sjcdrums.com/",
+      "selector": ".st-buyx-gety-wrapper .selected-product-wrapper .selected-product .selected-product-item .thumbnail .thumbnail-inner .label-sale",
+      "declarations": "position:absolute;left:0;right:0;bottom:0;text-align:center;background:red;color:#fff"
+    },
+    {
+      "source": "https://www.sjcdrums.com/",
+      "selector": ".st-buyx-gety-wrapper .selected-product-wrapper .selected-product .selected-product-item .product-item-variants .product-item-variant select",
+      "declarations": "background:#fff;padding:4px 12px;border:1px solid #d6dade;font-weight:400;font-size:14px;line-height:22px;text-transform:capitalize;color:#242d35;appearance:auto;width:calc(100% - 30px)"
+    },
+    {
+      "source": "https://www.sjcdrums.com/",
+      "selector": "ether-wrapper .selected-product-wrapper .selected-product.selected-bundle-product-sold-out .thumbnail:after,.st-buyx-gety-wrapper .selected-product.product-bund",
+      "declarations": "content:'Sold Out';position:absolute;display:inline-block;padding:2px 10px;background:#3c3c3c;border-radius:4px;color:#fff;font-size:10px;line-height:22px;font-weight:500;white-space:nowrap;top:50%;left:50%;transform:translate(-50%,-50%);z-index:1"
+    },
+    {
+      "source": "https://www.sjcdrums.com/",
+      "selector": ".st-buyx-gety-wrapper .product-bundle-item .item-media h5,.st-buyx-gety-wrapper .product-bundle-item .item-media label",
+      "declarations": "flex:0 0 auto;width:100%;margin:0;padding:0;font-weight:500;font-size:14px;text-transform:capitalize;color:#242d35;line-height:1.5"
+    },
+    {
+      "source": "https://www.sjcdrums.com/",
+      "selector": ".st-buyx-gety-wrapper .product-bundle-item .item-media .item-sub-media select",
+      "declarations": "background:#fff;padding:4px 12px;border:1px solid #d6dade;font-weight:400;font-size:14px;line-height:22px;text-transform:capitalize;color:#242d35;appearance:auto"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "SJC Custom Drums",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sjcdrums.com/",
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
+        "https://www.sjcdrums.com/cdn/shop/t/113/assets/theme.css?v=43158715989497935281764782910",
+        "https://www.sjcdrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sjcdrums.com/",
+        "https://www.sjcdrums.com/cdn/shop/t/113/assets/theme.css?v=43158715989497935281764782910"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sjcdrums.com/",
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css",
+        "https://www.sjcdrums.com/cdn/shop/t/113/assets/theme.css?v=43158715989497935281764782910",
+        "https://www.sjcdrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sjcdrums.com/",
+        "https://www.sjcdrums.com/cdn/shop/t/113/assets/theme.css?v=43158715989497935281764782910"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sjcdrums.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "colors.dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "colors.alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "colors.text-secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sjcdrums.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.custom-builder-card": {
+      "status": "inferred"
+    }
+  }
+}

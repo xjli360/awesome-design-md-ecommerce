@@ -1,0 +1,924 @@
+{
+  "source_url": "https://lulime.com",
+  "final_url": "https://lulime.com/",
+  "captured_at": "2026-09-29T04:35:15.918263+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://lulime.com",
+      "final_url": "https://lulime.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "f9ccd73bcd2b27b871a427bf354f06cfbed2f8477fb3c1922301ae0373a34797",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4",
+      "final_url": "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2f01a854a759c0a6a6911634e4ae5283b86a054908e4587c1fd17561fe4ce3cf",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://lulime.com/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.4",
+      "final_url": "https://lulime.com/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.4",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9a7cfe03ec7638180859c5cd93ed18a75c0b4519c01849e2b6b2e2c90a0dea2f",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://lulime.com/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.4",
+      "final_url": "https://lulime.com/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.4",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5052c28c33de995612b9c064753ee989d1e7755027e2b80292148728f444ec8d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Playfair+Display:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=auto",
+      "final_url": "https://fonts.googleapis.com/css?family=Playfair+Display:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=auto",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "716c860c389fc71681c272c790185b7d3fb17dd0be250b68e0e08ecafaad9a15",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Source+Sans+3:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=auto",
+      "final_url": "https://fonts.googleapis.com/css?family=Source+Sans+3:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=auto",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "b964fca27757be693447232383f9f8978952198773906137f6ec0e1484562dbd",
+      "snapshot": "stylesheet-5.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Merriweather:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=auto",
+      "final_url": "https://fonts.googleapis.com/css?family=Merriweather:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=auto",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "d2bfcb5f0e761027975c9463daa84c7b34add28d12ca286ddfbfafb7fa520655",
+      "snapshot": "stylesheet-6.css"
+    },
+    {
+      "url": "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-140.css?ver=1787634475",
+      "final_url": "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-140.css?ver=1787634475",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ee791b4c9a555e1eb0acef44ed8286fda568c5fa45008e46454767e3524179b7",
+      "snapshot": "stylesheet-7.css"
+    },
+    {
+      "url": "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-31.css?ver=1787908983",
+      "final_url": "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-31.css?ver=1787908983",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b7269a1c30c0865f96d5fb7c8d544a9c87f0cbeb1d3105693bdc6ed677d31460",
+      "snapshot": "stylesheet-8.css"
+    },
+    {
+      "url": "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-23.css?ver=1787634476",
+      "final_url": "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-23.css?ver=1787634476",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7d632ad416aea4eb4cfaf0067e63e9c3d410764bff376e474c451baaf2c52f5a",
+      "snapshot": "stylesheet-9.css"
+    },
+    {
+      "url": "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-25.css?ver=1787909299",
+      "final_url": "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-25.css?ver=1787909299",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c3d8590c582cc894fe09895304952393bac89932eb500eca2cbdbda64fb0da6f",
+      "snapshot": "stylesheet-10.css"
+    },
+    {
+      "url": "https://lulime.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.2.2",
+      "final_url": "https://lulime.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.2.2",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d87ddf917b7a1449ab45e2b8e3c98354629bdd65b6659c37e6023bbea1ce1386",
+      "snapshot": "stylesheet-11.css"
+    },
+    {
+      "url": "https://lulime.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=4.2.2",
+      "final_url": "https://lulime.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=4.2.2",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c55902832fb84522d02ea1a60a30747403a140d8651fa748f13ba398b0c0df3a",
+      "snapshot": "stylesheet-12.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 26,
+      "sources": [
+        "https://lulime.com/",
+        "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4",
+        "https://lulime.com/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.4",
+        "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-140.css?ver=1787634475",
+        "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-25.css?ver=1787909299",
+        "https://lulime.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.2.2"
+      ]
+    },
+    "#5c3a21": {
+      "count": 6,
+      "sources": [
+        "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-140.css?ver=1787634475"
+      ]
+    },
+    "#2c1810": {
+      "count": 6,
+      "sources": [
+        "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-140.css?ver=1787634475"
+      ]
+    },
+    "#000000": {
+      "count": 4,
+      "sources": [
+        "https://lulime.com/",
+        "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4"
+      ]
+    },
+    "#eeeeee": {
+      "count": 4,
+      "sources": [
+        "https://lulime.com/",
+        "https://lulime.com/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.4",
+        "https://lulime.com/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.4",
+        "https://lulime.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.2.2"
+      ]
+    },
+    "#333333": {
+      "count": 4,
+      "sources": [
+        "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4",
+        "https://lulime.com/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.4"
+      ]
+    },
+    "#cc3366": {
+      "count": 4,
+      "sources": [
+        "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4"
+      ]
+    },
+    "#ff6900": {
+      "count": 3,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#8b5e3c": {
+      "count": 3,
+      "sources": [
+        "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-140.css?ver=1787634475"
+      ]
+    },
+    "#3d2b1f": {
+      "count": 3,
+      "sources": [
+        "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-140.css?ver=1787634475"
+      ]
+    },
+    "#4a2f1a": {
+      "count": 3,
+      "sources": [
+        "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-140.css?ver=1787634475"
+      ]
+    },
+    "#cf2e2e": {
+      "count": 2,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#fcb900": {
+      "count": 2,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#0693e3": {
+      "count": 2,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#9b51e0": {
+      "count": 2,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 2,
+      "sources": [
+        "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4",
+        "https://lulime.com/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.4"
+      ]
+    },
+    "#666666": {
+      "count": 2,
+      "sources": [
+        "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4",
+        "https://lulime.com/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.4"
+      ]
+    },
+    "#55595c": {
+      "count": 2,
+      "sources": [
+        "https://lulime.com/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.4"
+      ]
+    },
+    "#abb8c3": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#f78da7": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#7bdcb5": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#00d084": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#8ed1fc": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#32373c": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#7adcb4": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#00d082": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#a9b8c3": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#4aeadc": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#9778d1": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#cf2aba": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#ee2c82": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#fb6962": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#fef84c": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#ffceec": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#9896f0": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#fecda5": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#fe2d2d": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#6b003e": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#ffcb70": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#c751c0": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#4158d0": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#fff5cb": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#b6e3d4": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#33a7b5": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#caf880": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#71ce7e": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#020381": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#2874fc": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "#333366": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4"
+      ]
+    },
+    "#494c4f": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.4"
+      ]
+    },
+    "#7a4f32": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-140.css?ver=1787634475"
+      ]
+    },
+    "#6b5744": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-140.css?ver=1787634475"
+      ]
+    },
+    "#d4c4b0": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-140.css?ver=1787634475"
+      ]
+    },
+    "#c77a2a": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-140.css?ver=1787634475"
+      ]
+    },
+    "#f9f6f1": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-140.css?ver=1787634475"
+      ]
+    },
+    "#f0ebe3": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-140.css?ver=1787634475"
+      ]
+    },
+    "#1a0e08": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-140.css?ver=1787634475"
+      ]
+    },
+    "#ffbc7d": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-140.css?ver=1787634475"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 1,
+      "sources": [
+        "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-25.css?ver=1787909299"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4"
+    ],
+    "Apple Color Emoji": [
+      "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4"
+    ],
+    "Arial": [
+      "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4"
+    ],
+    "BlinkMacSystemFont": [
+      "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4"
+    ],
+    "Font Awesome 5 Brands": [
+      "https://lulime.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.2.2",
+      "https://lulime.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=4.2.2"
+    ],
+    "Font Awesome 5 Free": [
+      "https://lulime.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.2.2",
+      "https://lulime.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=4.2.2"
+    ],
+    "Helvetica Neue": [
+      "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4"
+    ],
+    "Merriweather": [
+      "https://fonts.googleapis.com/css?family=Merriweather:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=auto",
+      "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-140.css?ver=1787634475"
+    ],
+    "Noto Color Emoji": [
+      "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4"
+    ],
+    "Noto Sans": [
+      "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4"
+    ],
+    "Playfair Display": [
+      "https://fonts.googleapis.com/css?family=Playfair+Display:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=auto",
+      "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-140.css?ver=1787634475"
+    ],
+    "Roboto": [
+      "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4"
+    ],
+    "Sans-serif": [
+      "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-140.css?ver=1787634475"
+    ],
+    "Segoe UI": [
+      "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4"
+    ],
+    "Segoe UI Emoji": [
+      "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4"
+    ],
+    "Segoe UI Symbol": [
+      "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4"
+    ],
+    "Source Sans 3": [
+      "https://fonts.googleapis.com/css?family=Source+Sans+3:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=auto",
+      "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-140.css?ver=1787634475"
+    ],
+    "monospace": [
+      "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4"
+    ],
+    "sans-serif": [
+      "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://lulime.com/",
+      "selector": ":root",
+      "declarations": "--wp--style--global--content-size: 800px;--wp--style--global--wide-size: 1200px;"
+    },
+    {
+      "source": "https://lulime.com/",
+      "selector": ":root",
+      "declarations": "--wp--style--block-gap: 24px;"
+    },
+    {
+      "source": "https://lulime.com/",
+      "selector": ":root :where(.wp-element-button, .wp-block-button__link)",
+      "declarations": "background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;"
+    },
+    {
+      "source": "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4",
+      "selector": "body",
+      "declarations": "background-color:#fff;color:#333;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol,Noto Color Emoji;font-size:1rem;font-weight:400;line-height:1.5;margin:0;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale"
+    },
+    {
+      "source": "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "color:inherit;font-family:inherit;font-weight:500;line-height:1.2;margin-block-end:1rem;margin-block-start:.5rem"
+    },
+    {
+      "source": "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:1rem;line-height:1.5;margin:0"
+    },
+    {
+      "source": "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4",
+      "selector": "[type=button],[type=submit],button",
+      "declarations": "background-color:transparent;border:1px solid #c36;border-radius:3px;color:#c36;display:inline-block;font-size:1rem;font-weight:400;padding:.5rem 1rem;text-align:center;transition:all .3s;-webkit-user-select:none;-moz-user-select:none;user-select:none;white-space:nowrap"
+    },
+    {
+      "source": "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4",
+      "selector": "[type=button]:focus,[type=button]:hover,[type=submit]:focus,[type=submit]:hover,button:focus,button:hover",
+      "declarations": "background-color:#c36;color:#fff;text-decoration:none"
+    },
+    {
+      "source": "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4",
+      "selector": "table tbody>tr:nth-child(odd)>td,table tbody>tr:nth-child(odd)>th",
+      "declarations": "background-color:hsla(0,0%,50%,.071)"
+    },
+    {
+      "source": "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4",
+      "selector": "table tbody tr:hover>td,table tbody tr:hover>th",
+      "declarations": "background-color:hsla(0,0%,50%,.102)"
+    },
+    {
+      "source": "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-140.css?ver=1787634475",
+      "selector": ".elementor-kit-140 button,.elementor-kit-140 input[type=\"button\"],.elementor-kit-140 input[type=\"submit\"],.elementor-kit-140 .elementor-button",
+      "declarations": "background-color:#5C3A21;font-family:\"Source Sans 3\", Sans-serif;font-size:16px;font-weight:600;text-transform:uppercase;line-height:1.4em;letter-spacing:0.5px;color:#FFFFFF;border-style:solid;border-width:1px 1px 1px 1px;border-color:#5C3A21;border-radius:8px 8px 8px 8px;"
+    },
+    {
+      "source": "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-140.css?ver=1787634475",
+      "selector": ".elementor-kit-140 h1",
+      "declarations": "color:#2C1810;font-family:\"Playfair Display\", Sans-serif;font-size:40px;font-weight:700;text-transform:none;line-height:1.2em;letter-spacing:-0.3px;"
+    },
+    {
+      "source": "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-31.css?ver=1787908983",
+      "selector": ".elementor-31 .elementor-element.elementor-element-6df81d44 .elementor-button",
+      "declarations": "font-family:var( --e-global-typography-sg_b6fc1640f1-font-family ), Sans-serif;font-size:var( --e-global-typography-sg_b6fc1640f1-font-size );font-weight:var( --e-global-typography-sg_b6fc1640f1-font-weight );text-transform:var( --e-global-typography-sg_b6fc1640f1-text-transform );line-height:var( --e-global-typography-sg_b6fc1640f1-line-height );letter-spacing:var( --e-global-typography-sg_b6fc1640f1-letter-spacing );word-spacing:var( --e-global-typography-sg_b6fc1640f1-word-spacing );fill:var( --e-global-color-sg_c10526fb8b );color:var( --e-global-color-sg_c10526fb8b );background-color:var( --e-global-color-sg_d67077d6af );"
+    },
+    {
+      "source": "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-31.css?ver=1787908983",
+      "selector": ".elementor-31 .elementor-element.elementor-element-6df81d44 .elementor-button:hover, .elementor-31 .elementor-element.elementor-element-6df81d44 .elementor-butt",
+      "declarations": "color:var( --e-global-color-sg_d7712dd3b4 );background-color:var( --e-global-color-sg_8dafe5d2fc );"
+    },
+    {
+      "source": "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-31.css?ver=1787908983",
+      "selector": ".elementor-31 .elementor-element.elementor-element-3e1edc1b .elementor-button",
+      "declarations": "font-family:var( --e-global-typography-sg_b6fc1640f1-font-family ), Sans-serif;font-size:var( --e-global-typography-sg_b6fc1640f1-font-size );font-weight:var( --e-global-typography-sg_b6fc1640f1-font-weight );text-transform:var( --e-global-typography-sg_b6fc1640f1-text-transform );line-height:var( --e-global-typography-sg_b6fc1640f1-line-height );letter-spacing:var( --e-global-typography-sg_b6fc1640f1-letter-spacing );word-spacing:var( --e-global-typography-sg_b6fc1640f1-word-spacing );fill:var( --e-global-color-sg_c10526fb8b );color:var( --e-global-color-sg_c10526fb8b );background-color:var( --e-global-color-sg_d67077d6af );padding:0px 0px 0px 0px;"
+    },
+    {
+      "source": "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-31.css?ver=1787908983",
+      "selector": ".elementor-31 .elementor-element.elementor-element-3e1edc1b .elementor-button:hover, .elementor-31 .elementor-element.elementor-element-3e1edc1b .elementor-butt",
+      "declarations": "color:var( --e-global-color-sg_d7712dd3b4 );background-color:var( --e-global-color-sg_8dafe5d2fc );"
+    },
+    {
+      "source": "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-31.css?ver=1787908983",
+      "selector": ".elementor-31 .elementor-element.elementor-element-15d9da03 .elementor-button",
+      "declarations": "font-family:var( --e-global-typography-sg_b6fc1640f1-font-family ), Sans-serif;font-size:var( --e-global-typography-sg_b6fc1640f1-font-size );font-weight:var( --e-global-typography-sg_b6fc1640f1-font-weight );text-transform:var( --e-global-typography-sg_b6fc1640f1-text-transform );line-height:var( --e-global-typography-sg_b6fc1640f1-line-height );letter-spacing:var( --e-global-typography-sg_b6fc1640f1-letter-spacing );word-spacing:var( --e-global-typography-sg_b6fc1640f1-word-spacing );fill:var( --e-global-color-sg_c73299fcec );color:var( --e-global-color-sg_c73299fcec );background-color:var( --e-global-color-sg_c10526fb8b );border-style:solid;border-width:1px 1px 1px 1px;border-color:var( -"
+    },
+    {
+      "source": "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-31.css?ver=1787908983",
+      "selector": ".elementor-31 .elementor-element.elementor-element-15d9da03 .elementor-button:hover, .elementor-31 .elementor-element.elementor-element-15d9da03 .elementor-butt",
+      "declarations": "color:var( --e-global-color-sg_c73299fcec );background-color:var( --e-global-color-sg_d7712dd3b4 );"
+    },
+    {
+      "source": "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-31.css?ver=1787908983",
+      "selector": ".elementor-31 .elementor-element.elementor-element-1ab44215 .elementor-button",
+      "declarations": "font-family:var( --e-global-typography-sg_b6fc1640f1-font-family ), Sans-serif;font-size:var( --e-global-typography-sg_b6fc1640f1-font-size );font-weight:var( --e-global-typography-sg_b6fc1640f1-font-weight );text-transform:var( --e-global-typography-sg_b6fc1640f1-text-transform );line-height:var( --e-global-typography-sg_b6fc1640f1-line-height );letter-spacing:var( --e-global-typography-sg_b6fc1640f1-letter-spacing );word-spacing:var( --e-global-typography-sg_b6fc1640f1-word-spacing );fill:var( --e-global-color-sg_c73299fcec );color:var( --e-global-color-sg_c73299fcec );background-color:var( --e-global-color-sg_c10526fb8b );border-style:solid;border-width:1px 1px 1px 1px;border-color:var( -"
+    },
+    {
+      "source": "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-31.css?ver=1787908983",
+      "selector": ".elementor-31 .elementor-element.elementor-element-1ab44215 .elementor-button:hover, .elementor-31 .elementor-element.elementor-element-1ab44215 .elementor-butt",
+      "declarations": "color:var( --e-global-color-sg_c73299fcec );background-color:var( --e-global-color-sg_d7712dd3b4 );"
+    },
+    {
+      "source": "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-31.css?ver=1787908983",
+      "selector": ".elementor-31 .elementor-element.elementor-element-20ce6afd .elementor-button",
+      "declarations": "font-family:var( --e-global-typography-sg_b6fc1640f1-font-family ), Sans-serif;font-size:var( --e-global-typography-sg_b6fc1640f1-font-size );font-weight:var( --e-global-typography-sg_b6fc1640f1-font-weight );text-transform:var( --e-global-typography-sg_b6fc1640f1-text-transform );line-height:var( --e-global-typography-sg_b6fc1640f1-line-height );letter-spacing:var( --e-global-typography-sg_b6fc1640f1-letter-spacing );word-spacing:var( --e-global-typography-sg_b6fc1640f1-word-spacing );fill:var( --e-global-color-sg_c73299fcec );color:var( --e-global-color-sg_c73299fcec );background-color:var( --e-global-color-sg_c10526fb8b );border-style:solid;border-width:1px 1px 1px 1px;border-color:var( -"
+    },
+    {
+      "source": "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-31.css?ver=1787908983",
+      "selector": ".elementor-31 .elementor-element.elementor-element-20ce6afd .elementor-button:hover, .elementor-31 .elementor-element.elementor-element-20ce6afd .elementor-butt",
+      "declarations": "color:var( --e-global-color-sg_c73299fcec );background-color:var( --e-global-color-sg_d7712dd3b4 );"
+    },
+    {
+      "source": "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-31.css?ver=1787908983",
+      "selector": ".elementor-31 .elementor-element.elementor-element-55fca9f8 .elementor-button",
+      "declarations": "font-family:var( --e-global-typography-sg_b6fc1640f1-font-family ), Sans-serif;font-size:var( --e-global-typography-sg_b6fc1640f1-font-size );font-weight:var( --e-global-typography-sg_b6fc1640f1-font-weight );text-transform:var( --e-global-typography-sg_b6fc1640f1-text-transform );line-height:var( --e-global-typography-sg_b6fc1640f1-line-height );letter-spacing:var( --e-global-typography-sg_b6fc1640f1-letter-spacing );word-spacing:var( --e-global-typography-sg_b6fc1640f1-word-spacing );fill:var( --e-global-color-sg_c73299fcec );color:var( --e-global-color-sg_c73299fcec );background-color:var( --e-global-color-sg_c10526fb8b );border-style:solid;border-width:1px 1px 1px 1px;border-color:var( -"
+    },
+    {
+      "source": "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-31.css?ver=1787908983",
+      "selector": ".elementor-31 .elementor-element.elementor-element-55fca9f8 .elementor-button:hover, .elementor-31 .elementor-element.elementor-element-55fca9f8 .elementor-butt",
+      "declarations": "color:var( --e-global-color-sg_c73299fcec );background-color:var( --e-global-color-sg_d7712dd3b4 );"
+    },
+    {
+      "source": "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-31.css?ver=1787908983",
+      "selector": ".elementor-31 .elementor-element.elementor-element-404a5375 .elementor-button",
+      "declarations": "font-family:var( --e-global-typography-sg_b6fc1640f1-font-family ), Sans-serif;font-size:var( --e-global-typography-sg_b6fc1640f1-font-size );font-weight:var( --e-global-typography-sg_b6fc1640f1-font-weight );text-transform:var( --e-global-typography-sg_b6fc1640f1-text-transform );line-height:var( --e-global-typography-sg_b6fc1640f1-line-height );letter-spacing:var( --e-global-typography-sg_b6fc1640f1-letter-spacing );word-spacing:var( --e-global-typography-sg_b6fc1640f1-word-spacing );fill:var( --e-global-color-sg_c10526fb8b );color:var( --e-global-color-sg_c10526fb8b );background-color:var( --e-global-color-sg_d67077d6af );border-style:solid;border-width:1px 1px 1px 1px;border-color:var( -"
+    },
+    {
+      "source": "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-31.css?ver=1787908983",
+      "selector": ".elementor-31 .elementor-element.elementor-element-404a5375 .elementor-button:hover, .elementor-31 .elementor-element.elementor-element-404a5375 .elementor-butt",
+      "declarations": "color:var( --e-global-color-sg_d7712dd3b4 );background-color:var( --e-global-color-sg_8dafe5d2fc );"
+    },
+    {
+      "source": "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-31.css?ver=1787908983",
+      "selector": ".elementor-31 .elementor-element.elementor-element-73acf839 .elementor-button",
+      "declarations": "font-family:var( --e-global-typography-sg_b6fc1640f1-font-family ), Sans-serif;font-size:var( --e-global-typography-sg_b6fc1640f1-font-size );font-weight:var( --e-global-typography-sg_b6fc1640f1-font-weight );text-transform:var( --e-global-typography-sg_b6fc1640f1-text-transform );line-height:var( --e-global-typography-sg_b6fc1640f1-line-height );letter-spacing:var( --e-global-typography-sg_b6fc1640f1-letter-spacing );word-spacing:var( --e-global-typography-sg_b6fc1640f1-word-spacing );fill:var( --e-global-color-sg_c73299fcec );color:var( --e-global-color-sg_c73299fcec );background-color:var( --e-global-color-sg_c10526fb8b );"
+    },
+    {
+      "source": "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-31.css?ver=1787908983",
+      "selector": ".elementor-31 .elementor-element.elementor-element-73acf839 .elementor-button:hover, .elementor-31 .elementor-element.elementor-element-73acf839 .elementor-butt",
+      "declarations": "color:var( --e-global-color-sg_c73299fcec );background-color:var( --e-global-color-sg_d7712dd3b4 );"
+    },
+    {
+      "source": "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-31.css?ver=1787908983",
+      "selector": ".elementor-31 .elementor-element.elementor-element-13565410 .elementor-button",
+      "declarations": "font-family:var( --e-global-typography-sg_b6fc1640f1-font-family ), Sans-serif;font-size:var( --e-global-typography-sg_b6fc1640f1-font-size );font-weight:var( --e-global-typography-sg_b6fc1640f1-font-weight );text-transform:var( --e-global-typography-sg_b6fc1640f1-text-transform );line-height:var( --e-global-typography-sg_b6fc1640f1-line-height );letter-spacing:var( --e-global-typography-sg_b6fc1640f1-letter-spacing );word-spacing:var( --e-global-typography-sg_b6fc1640f1-word-spacing );fill:var( --e-global-color-sg_c73299fcec );color:var( --e-global-color-sg_c73299fcec );background-color:var( --e-global-color-sg_c10526fb8b );"
+    },
+    {
+      "source": "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-31.css?ver=1787908983",
+      "selector": ".elementor-31 .elementor-element.elementor-element-13565410 .elementor-button:hover, .elementor-31 .elementor-element.elementor-element-13565410 .elementor-butt",
+      "declarations": "color:var( --e-global-color-sg_c73299fcec );background-color:var( --e-global-color-sg_d7712dd3b4 );"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Luli And Me Official Website | Dresses",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-140.css?ver=1787634475"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-140.css?ver=1787634475"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lulime.com/",
+        "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4",
+        "https://lulime.com/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.4",
+        "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-140.css?ver=1787634475",
+        "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-25.css?ver=1787909299",
+        "https://lulime.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.2.2"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4",
+        "https://lulime.com/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.4"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4",
+        "https://lulime.com/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.4"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4",
+        "https://lulime.com/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.4"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lulime.com/",
+        "https://lulime.com/wp-content/themes/hello-elementor/assets/css/theme.css?ver=3.4.4",
+        "https://lulime.com/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.4",
+        "https://lulime.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.2.2"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lulime.com/",
+        "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4",
+        "https://lulime.com/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.4",
+        "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-140.css?ver=1787634475",
+        "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-25.css?ver=1787909299",
+        "https://lulime.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.2.2"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lulime.com/",
+        "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4",
+        "https://lulime.com/wp-content/themes/hello-elementor/assets/css/header-footer.css?ver=3.4.4",
+        "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-140.css?ver=1787634475",
+        "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-25.css?ver=1787909299",
+        "https://lulime.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=4.2.2"
+      ]
+    },
+    "colors.accent-rose": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lulime.com/wp-content/themes/hello-elementor/assets/css/reset.css?ver=3.4.4"
+      ]
+    },
+    "colors.accent-terracotta": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-140.css?ver=1787634475"
+      ]
+    },
+    "colors.heading-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lulime.com/wp-content/uploads/sites/113/elementor/css/post-140.css?ver=1787634475"
+      ]
+    },
+    "colors.footer-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lulime.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.buy-on-amazon-cta": {
+      "status": "inferred"
+    }
+  }
+}

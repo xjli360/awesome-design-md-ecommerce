@@ -1,0 +1,788 @@
+{
+  "source_url": "https://dremel.com",
+  "final_url": "https://www.dremel.com/us/en",
+  "captured_at": "2026-09-29T03:57:41.698740+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://dremel.com",
+      "final_url": "https://www.dremel.com/us/en",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "29744884e9b5da516f8252e85f9484007a102326b5fff61f823e126df40e24fb",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.dremel.com/_next/static/css/b59764a269a2ca21.css",
+      "final_url": "https://www.dremel.com/_next/static/css/b59764a269a2ca21.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "f16cec67e94ac8b74580d6dbf728855ee9ee4dea2677915a7b1a938ef858f1a4",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.dremel.com/_next/static/css/cbcaf3b273f1b867.css",
+      "final_url": "https://www.dremel.com/_next/static/css/cbcaf3b273f1b867.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "7bd94358abdeff9f4d870cd45e42c4137ff21c5f2f0d14d7c28ad97caf121401",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.dremel.com/_next/static/css/911fd671519885a7.css",
+      "final_url": "https://www.dremel.com/_next/static/css/911fd671519885a7.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "6e3153ed40a3203d5bb12c5bb3b08d48c8fc6f1ea50585ac8db400d52e4dd2ce",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+      "final_url": "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "35f9d42363f31304d0f410cdb7d17c30c797eb23ef33687af05ce756409a9700",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.dremel.com/_next/static/css/e2d8a73cec0e4098.css",
+      "final_url": "https://www.dremel.com/_next/static/css/e2d8a73cec0e4098.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "396f840a1bcb08e6f110b26953c8ebfdab020282e0de25b8666e23badd26c496",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 118,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/b59764a269a2ca21.css",
+        "https://www.dremel.com/_next/static/css/cbcaf3b273f1b867.css",
+        "https://www.dremel.com/_next/static/css/911fd671519885a7.css",
+        "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+        "https://www.dremel.com/_next/static/css/e2d8a73cec0e4098.css"
+      ]
+    },
+    "#000000": {
+      "count": 99,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/b59764a269a2ca21.css",
+        "https://www.dremel.com/_next/static/css/cbcaf3b273f1b867.css",
+        "https://www.dremel.com/_next/static/css/911fd671519885a7.css",
+        "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+        "https://www.dremel.com/_next/static/css/e2d8a73cec0e4098.css"
+      ]
+    },
+    "#005293": {
+      "count": 65,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/cbcaf3b273f1b867.css",
+        "https://www.dremel.com/_next/static/css/911fd671519885a7.css",
+        "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+        "https://www.dremel.com/_next/static/css/e2d8a73cec0e4098.css"
+      ]
+    },
+    "#232628": {
+      "count": 34,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css"
+      ]
+    },
+    "#c1c7cc": {
+      "count": 12,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/cbcaf3b273f1b867.css",
+        "https://www.dremel.com/_next/static/css/911fd671519885a7.css",
+        "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+        "https://www.dremel.com/_next/static/css/e2d8a73cec0e4098.css"
+      ]
+    },
+    "#a4abb3": {
+      "count": 8,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+        "https://www.dremel.com/_next/static/css/e2d8a73cec0e4098.css"
+      ]
+    },
+    "#ed0007": {
+      "count": 7,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/cbcaf3b273f1b867.css",
+        "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+        "https://www.dremel.com/_next/static/css/e2d8a73cec0e4098.css"
+      ]
+    },
+    "#6697be": {
+      "count": 5,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/911fd671519885a7.css",
+        "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css"
+      ]
+    },
+    "#00884a": {
+      "count": 4,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/b59764a269a2ca21.css",
+        "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+        "https://www.dremel.com/_next/static/css/e2d8a73cec0e4098.css"
+      ]
+    },
+    "#eff1f2": {
+      "count": 4,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+        "https://www.dremel.com/_next/static/css/e2d8a73cec0e4098.css"
+      ]
+    },
+    "#004975": {
+      "count": 4,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/e2d8a73cec0e4098.css"
+      ]
+    },
+    "#006c3a": {
+      "count": 3,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/b59764a269a2ca21.css",
+        "https://www.dremel.com/_next/static/css/911fd671519885a7.css",
+        "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css"
+      ]
+    },
+    "#595e62": {
+      "count": 3,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/cbcaf3b273f1b867.css",
+        "https://www.dremel.com/_next/static/css/e2d8a73cec0e4098.css"
+      ]
+    },
+    "#71767c": {
+      "count": 3,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/911fd671519885a7.css",
+        "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css"
+      ]
+    },
+    "#b2b9c0": {
+      "count": 3,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css"
+      ]
+    },
+    "#d50005": {
+      "count": 2,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/b59764a269a2ca21.css",
+        "https://www.dremel.com/_next/static/css/911fd671519885a7.css"
+      ]
+    },
+    "#007bff": {
+      "count": 2,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/cbcaf3b273f1b867.css",
+        "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css"
+      ]
+    },
+    "#d0d4d8": {
+      "count": 2,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/911fd671519885a7.css",
+        "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css"
+      ]
+    },
+    "#e2f5e7": {
+      "count": 2,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/911fd671519885a7.css",
+        "https://www.dremel.com/_next/static/css/e2d8a73cec0e4098.css"
+      ]
+    },
+    "#004276": {
+      "count": 2,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/911fd671519885a7.css"
+      ]
+    },
+    "#e0e2e5": {
+      "count": 2,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css"
+      ]
+    },
+    "#4ab073": {
+      "count": 2,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/e2d8a73cec0e4098.css"
+      ]
+    },
+    "#551151": {
+      "count": 1,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/b59764a269a2ca21.css"
+      ]
+    },
+    "#c535bc": {
+      "count": 1,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/b59764a269a2ca21.css"
+      ]
+    },
+    "#005587": {
+      "count": 1,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/b59764a269a2ca21.css"
+      ]
+    },
+    "#0088d4": {
+      "count": 1,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/b59764a269a2ca21.css"
+      ]
+    },
+    "#419e98": {
+      "count": 1,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/b59764a269a2ca21.css"
+      ]
+    },
+    "#ffefd1": {
+      "count": 1,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/911fd671519885a7.css"
+      ]
+    },
+    "#806700": {
+      "count": 1,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/911fd671519885a7.css"
+      ]
+    },
+    "#ffecec": {
+      "count": 1,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/911fd671519885a7.css"
+      ]
+    },
+    "#4e5256": {
+      "count": 1,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/911fd671519885a7.css"
+      ]
+    },
+    "#43464a": {
+      "count": 1,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css"
+      ]
+    },
+    "#007bc0": {
+      "count": 1,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css"
+      ]
+    },
+    "#78be20": {
+      "count": 1,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css"
+      ]
+    },
+    "#fcaf17": {
+      "count": 1,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css"
+      ]
+    },
+    "#e20015": {
+      "count": 1,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css"
+      ]
+    },
+    "#ffcf00": {
+      "count": 1,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/e2d8a73cec0e4098.css"
+      ]
+    },
+    "#ffdf95": {
+      "count": 1,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/e2d8a73cec0e4098.css"
+      ]
+    },
+    "#8a9097": {
+      "count": 1,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/e2d8a73cec0e4098.css"
+      ]
+    },
+    "#d1e4ff": {
+      "count": 1,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/e2d8a73cec0e4098.css"
+      ]
+    },
+    "#9dc9ff": {
+      "count": 1,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/e2d8a73cec0e4098.css"
+      ]
+    },
+    "#2e3033": {
+      "count": 1,
+      "sources": [
+        "https://www.dremel.com/_next/static/css/e2d8a73cec0e4098.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.dremel.com/_next/static/css/b59764a269a2ca21.css"
+    ],
+    "Helvetica": [
+      "https://www.dremel.com/_next/static/css/b59764a269a2ca21.css"
+    ],
+    "Helvetica Neue": [
+      "https://www.dremel.com/_next/static/css/b59764a269a2ca21.css"
+    ],
+    "boschsans": [
+      "https://www.dremel.com/_next/static/css/b59764a269a2ca21.css"
+    ],
+    "sans-serif": [
+      "https://www.dremel.com/_next/static/css/b59764a269a2ca21.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.dremel.com/_next/static/css/b59764a269a2ca21.css",
+      "selector": "body",
+      "declarations": "color:#000;font-family:boschsans,Helvetica Neue,Helvetica,Arial,sans-serif;font-size:1rem;line-height:1.5;-ms-overflow-style:scrollbar;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;overflow-wrap:break-word;margin:0"
+    },
+    {
+      "source": "https://www.dremel.com/_next/static/css/b59764a269a2ca21.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0"
+    },
+    {
+      "source": "https://www.dremel.com/_next/static/css/911fd671519885a7.css",
+      "selector": ".Modal_overlay__cofdH .Modal_cartPopupModal__f_zq_ .Modal_header__GFFRn",
+      "declarations": "border-bottom:none;background-color:#e2f5e7;color:#006c3a;position:relative"
+    },
+    {
+      "source": "https://www.dremel.com/_next/static/css/911fd671519885a7.css",
+      "selector": ".Modal_overlay__cofdH .Modal_warning__ax0pu .Modal_header__GFFRn",
+      "declarations": "background-color:#ffefd1;color:#806700"
+    },
+    {
+      "source": "https://www.dremel.com/_next/static/css/911fd671519885a7.css",
+      "selector": ".Modal_overlay__cofdH .Modal_error__JKmUJ .Modal_header__GFFRn",
+      "declarations": "background-color:#ffecec;color:#d50005"
+    },
+    {
+      "source": "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+      "selector": ".Footer_container__sTXYb .Footer_shareRow__4qhdP .Footer_iconsLeft__3YAN_ button",
+      "declarations": "border:0;background-color:rgba(0,0,0,0);padding:0;height:48px"
+    },
+    {
+      "source": "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+      "selector": ".Gallery_galleryWrapper__uGy9H .swiper .swiper-button-next",
+      "declarations": "color:#a4abb3"
+    },
+    {
+      "source": "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+      "selector": ".Gallery_galleryWrapper__uGy9H .swiper .swiper-button-next:hover",
+      "declarations": "color:#005293"
+    },
+    {
+      "source": "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+      "selector": ".Gallery_galleryWrapper__uGy9H .swiper .swiper-button-prev",
+      "declarations": "color:#a4abb3"
+    },
+    {
+      "source": "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+      "selector": ".Gallery_galleryWrapper__uGy9H .swiper .swiper-button-prev:hover",
+      "declarations": "color:#005293"
+    },
+    {
+      "source": "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+      "selector": "ell_buyFromBosch__mDiR2+.TableCell_commerceConnector__ADeA_ .TableCell_button__3Zh6Y,.TableCell_cell__PhiJl.TableCell_ctBuyFromBosch__uc6r6+.TableCell_commerceC",
+      "declarations": "background-color:rgba(0,0,0,0);color:#005293"
+    },
+    {
+      "source": "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+      "selector": "eConnector__ADeA_ .TableCell_button__3Zh6Y:not(:disabled):focus,.TableCell_cell__PhiJl.TableCell_ctBuyFromBosch__uc6r6+.TableCell_commerceConnector__ADeA_ .Tabl",
+      "declarations": "background-color:#fff;color:#005293"
+    },
+    {
+      "source": "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+      "selector": ".TableCell_cell__PhiJl div[class^=ProductDisplayPrice_originalPrice]",
+      "declarations": "font-size:12px;color:#43464a"
+    },
+    {
+      "source": "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+      "selector": ".SeePriceHistory_priceHistory__a5MZY button",
+      "declarations": "border:0;padding:0;background-color:rgba(0,0,0,0);display:-webkit-flex;display:-moz-box;display:flex;-webkit-flex-direction:row;-moz-box-orient:horizontal;-moz-box-direction:normal;flex-direction:row;-webkit-align-items:center;-moz-box-align:center;align-items:center"
+    },
+    {
+      "source": "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+      "selector": ".ProductDisplayPrice_priceAndVat__GpiGU p",
+      "declarations": "margin-bottom:0;color:#000"
+    },
+    {
+      "source": "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+      "selector": ".ProductDisplayPrice_pdpView__UeGGc .ProductDisplayPrice_price__451nq",
+      "declarations": "display:-webkit-flex;display:-moz-box;display:flex;-webkit-flex-direction:row;-moz-box-orient:horizontal;-moz-box-direction:normal;flex-direction:row;-webkit-justify-content:flex-end;-moz-box-pack:end;justify-content:flex-end;-webkit-align-items:center;-moz-box-align:center;align-items:center;color:#000"
+    },
+    {
+      "source": "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+      "selector": ".ProductDisplayPrice_pdpView__UeGGc .ProductDisplayPrice_price__451nq .ProductDisplayPrice_red__WmvmT",
+      "declarations": "margin-left:auto;color:#ed0007"
+    },
+    {
+      "source": "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+      "selector": ".ProductDisplayPrice_pdpView__UeGGc .ProductDisplayPrice_price__451nq .ProductDisplayPrice_percentage__obDv6",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+      "selector": ".ProductDisplayPrice_pdpView__UeGGc .ProductDisplayPrice_price__451nq .ProductDisplayPrice_flashSale__2tg1p",
+      "declarations": "color:#000;text-align:left"
+    },
+    {
+      "source": "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+      "selector": ".ProductDisplayPrice_pdpView__UeGGc .ProductDisplayPrice_originalPrice__JReZQ",
+      "declarations": "display:-webkit-flex;display:-moz-box;display:flex;font-size:20px;line-height:35px;padding-top:5px;color:#71767c;-webkit-justify-content:flex-end;-moz-box-pack:end;justify-content:flex-end"
+    },
+    {
+      "source": "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+      "selector": ".ProductDisplayPrice_pdpView__UeGGc .ProductDisplayPrice_percentage__obDv6",
+      "declarations": "display:-webkit-flex;display:-moz-box;display:flex;-webkit-flex-direction:row;-moz-box-orient:horizontal;-moz-box-direction:normal;flex-direction:row;height:22px;-webkit-align-items:center;-moz-box-align:center;align-items:center;font-size:14px;line-height:14px;font-weight:500;border-radius:3px;display:-webkit-inline-flex;display:-moz-inline-box;display:inline-flex;-webkit-flex-wrap:wrap;flex-wrap:wrap;height:auto;margin-right:0;background-color:#005293;font-weight:400;padding:4px 6px;gap:2px;font-size:16px;line-height:24px;color:#fff"
+    },
+    {
+      "source": "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+      "selector": ".ProductDisplayPrice_pdpView__UeGGc .ProductDisplayPrice_flashSale__2tg1p",
+      "declarations": "position:relative;background-color:#005293;color:#fff"
+    },
+    {
+      "source": "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+      "selector": ".ProductDisplayPrice_teaserView__AaC12 .ProductDisplayPrice_price__451nq",
+      "declarations": "display:-webkit-flex;display:-moz-box;display:flex;-webkit-flex-direction:row;-moz-box-orient:horizontal;flex-direction:row;-webkit-justify-content:flex-end;-moz-box-pack:end;justify-content:flex-end;-webkit-align-items:center;-moz-box-align:center;align-items:center;color:#000"
+    },
+    {
+      "source": "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+      "selector": ".ProductDisplayPrice_teaserView__AaC12 .ProductDisplayPrice_price__451nq .ProductDisplayPrice_red__WmvmT",
+      "declarations": "color:#ed0007"
+    },
+    {
+      "source": "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+      "selector": ".ProductDisplayPrice_teaserView__AaC12 .ProductDisplayPrice_price__451nq .ProductDisplayPrice_originalPrice__JReZQ",
+      "declarations": "display:-webkit-flex;display:-moz-box;display:flex;font-size:20px;line-height:35px;padding-top:5px;color:#71767c;-webkit-justify-content:flex-end;-moz-box-pack:end;justify-content:flex-end"
+    },
+    {
+      "source": "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+      "selector": ".ProductDisplayPrice_teaserView__AaC12 .ProductDisplayPrice_percentage__obDv6",
+      "declarations": "display:-webkit-flex;display:-moz-box;display:flex;-webkit-flex-direction:row;-moz-box-orient:horizontal;-moz-box-direction:normal;flex-direction:row;height:22px;-webkit-align-items:center;-moz-box-align:center;align-items:center;background-color:#005293;padding:4px 4px 4px 6px;margin-right:12px;font-size:14px;line-height:14px;font-weight:500;border-radius:3px;display:-webkit-inline-flex;display:-moz-inline-box;display:inline-flex;color:#fff"
+    },
+    {
+      "source": "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+      "selector": ".ProductDisplayPrice_teaserView__AaC12 .ProductDisplayPrice_flashSale__2tg1p",
+      "declarations": "background-color:#005293;color:#fff;position:relative"
+    },
+    {
+      "source": "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+      "selector": ".ProductDisplayPrice_vat__qx3VO",
+      "declarations": "font-size:12px;color:#000"
+    },
+    {
+      "source": "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+      "selector": ".ProductDisplayPrice_stock__BnqdG .ProductDisplayPrice_green__EAbcO:before",
+      "declarations": "background-color:#78be20"
+    },
+    {
+      "source": "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+      "selector": ".ProductDisplayPrice_stock__BnqdG .ProductDisplayPrice_yellow__aPZUl:before",
+      "declarations": "background-color:#fcaf17"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Dremel Tools - Rotary, Saws, Oscillating and more! | Dremel",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dremel.com/_next/static/css/cbcaf3b273f1b867.css",
+        "https://www.dremel.com/_next/static/css/911fd671519885a7.css",
+        "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+        "https://www.dremel.com/_next/static/css/e2d8a73cec0e4098.css"
+      ]
+    },
+    "colors.primary-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dremel.com/_next/static/css/e2d8a73cec0e4098.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dremel.com/_next/static/css/b59764a269a2ca21.css",
+        "https://www.dremel.com/_next/static/css/cbcaf3b273f1b867.css",
+        "https://www.dremel.com/_next/static/css/911fd671519885a7.css",
+        "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+        "https://www.dremel.com/_next/static/css/e2d8a73cec0e4098.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dremel.com/_next/static/css/b59764a269a2ca21.css",
+        "https://www.dremel.com/_next/static/css/cbcaf3b273f1b867.css",
+        "https://www.dremel.com/_next/static/css/911fd671519885a7.css",
+        "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+        "https://www.dremel.com/_next/static/css/e2d8a73cec0e4098.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dremel.com/_next/static/css/911fd671519885a7.css",
+        "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dremel.com/_next/static/css/cbcaf3b273f1b867.css",
+        "https://www.dremel.com/_next/static/css/911fd671519885a7.css",
+        "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+        "https://www.dremel.com/_next/static/css/e2d8a73cec0e4098.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+        "https://www.dremel.com/_next/static/css/e2d8a73cec0e4098.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dremel.com/_next/static/css/b59764a269a2ca21.css",
+        "https://www.dremel.com/_next/static/css/cbcaf3b273f1b867.css",
+        "https://www.dremel.com/_next/static/css/911fd671519885a7.css",
+        "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+        "https://www.dremel.com/_next/static/css/e2d8a73cec0e4098.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dremel.com/_next/static/css/b59764a269a2ca21.css",
+        "https://www.dremel.com/_next/static/css/cbcaf3b273f1b867.css",
+        "https://www.dremel.com/_next/static/css/911fd671519885a7.css",
+        "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+        "https://www.dremel.com/_next/static/css/e2d8a73cec0e4098.css"
+      ]
+    },
+    "colors.accent-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dremel.com/_next/static/css/cbcaf3b273f1b867.css",
+        "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+        "https://www.dremel.com/_next/static/css/e2d8a73cec0e4098.css"
+      ]
+    },
+    "colors.error": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dremel.com/_next/static/css/b59764a269a2ca21.css",
+        "https://www.dremel.com/_next/static/css/911fd671519885a7.css"
+      ]
+    },
+    "colors.error-surface": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dremel.com/_next/static/css/911fd671519885a7.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dremel.com/_next/static/css/b59764a269a2ca21.css",
+        "https://www.dremel.com/_next/static/css/911fd671519885a7.css",
+        "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css"
+      ]
+    },
+    "colors.success-surface": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dremel.com/_next/static/css/911fd671519885a7.css",
+        "https://www.dremel.com/_next/static/css/e2d8a73cec0e4098.css"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dremel.com/_next/static/css/911fd671519885a7.css"
+      ]
+    },
+    "colors.warning-surface": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dremel.com/_next/static/css/911fd671519885a7.css"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css",
+        "https://www.dremel.com/_next/static/css/e2d8a73cec0e4098.css"
+      ]
+    },
+    "colors.neutral-700": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dremel.com/_next/static/css/855aea7daf7d9d1b.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.price-display": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,0 +1,833 @@
+{
+  "source_url": "https://tommeetippee.com",
+  "final_url": "https://www.tommeetippee.com/en-gb",
+  "captured_at": "2026-09-28T09:07:45.702412+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://tommeetippee.com",
+      "final_url": "https://www.tommeetippee.com/en-gb",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "c3e0e4c0ad602f6070ca8a53d04c1ef12f46b691cc0eee1808afd44d237acd01",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.tommeetippee.com/cdn/shop/t/22/assets/critical.css?v=20897149207795399021783674462",
+      "final_url": "https://www.tommeetippee.com/cdn/shop/t/22/assets/critical.css?v=20897149207795399021783674462",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "982654b241b08fe75a0c02c5829b2f74b40a26ca9a7156bfe63095bb6ab8db29",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.tommeetippee.com/cdn/shop/t/22/assets/splide.min.css?v=44329677166622589231774618041",
+      "final_url": "https://www.tommeetippee.com/cdn/shop/t/22/assets/splide.min.css?v=44329677166622589231774618041",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e6e2a25c4c1b69087d720776ff9569e9698c9ec52bdd5659c346bcaca9ce28d5",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.tommeetippee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.tommeetippee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988",
+      "final_url": "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d7e8e0d2272ec28dfc5294627add8797c9dc89c21a69b6e2720a93e69925f7eb",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/wishlistcollections.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0d2a3-23d4-7eab-8707-4bef87dc5dd8/swym-relay-839/assets/wishlistcollections.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b7a3886c32031fc7681315ac88a93864532686d5efc19a13a35f8a339125df64",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#282828": {
+      "count": 27,
+      "sources": [
+        "https://www.tommeetippee.com/en-gb",
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "#ffffff": {
+      "count": 25,
+      "sources": [
+        "https://www.tommeetippee.com/en-gb",
+        "https://www.tommeetippee.com/cdn/shop/t/22/assets/splide.min.css?v=44329677166622589231774618041",
+        "https://www.tommeetippee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "#e5e3df": {
+      "count": 23,
+      "sources": [
+        "https://www.tommeetippee.com/en-gb",
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "#000000": {
+      "count": 18,
+      "sources": [
+        "https://www.tommeetippee.com/en-gb",
+        "https://www.tommeetippee.com/cdn/shop/t/22/assets/splide.min.css?v=44329677166622589231774618041",
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "#00bbff": {
+      "count": 11,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shop/t/22/assets/splide.min.css?v=44329677166622589231774618041"
+      ]
+    },
+    "#e09f87": {
+      "count": 9,
+      "sources": [
+        "https://www.tommeetippee.com/en-gb"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 6,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "#cccccc": {
+      "count": 4,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shop/t/22/assets/splide.min.css?v=44329677166622589231774618041",
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "#a0b3ad": {
+      "count": 3,
+      "sources": [
+        "https://www.tommeetippee.com/en-gb"
+      ]
+    },
+    "#dedede": {
+      "count": 3,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "#0000000a": {
+      "count": 3,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "#ededed": {
+      "count": 3,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "#2828283d": {
+      "count": 3,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 2,
+      "sources": [
+        "https://www.tommeetippee.com/en-gb",
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "#3c3c3c": {
+      "count": 2,
+      "sources": [
+        "https://www.tommeetippee.com/en-gb"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#b8b8b8": {
+      "count": 2,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "#2828288f": {
+      "count": 2,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "#282828cc": {
+      "count": 2,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "#282828e0": {
+      "count": 2,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "#28282800": {
+      "count": 2,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "#28282866": {
+      "count": 2,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "#d1d1b7": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/en-gb"
+      ]
+    },
+    "#9b8692": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/en-gb"
+      ]
+    },
+    "#edd98a": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/en-gb"
+      ]
+    },
+    "#dc3544": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/en-gb"
+      ]
+    },
+    "#606060": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/en-gb"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/en-gb"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/en-gb"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/en-gb"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/en-gb"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/en-gb"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/en-gb"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/en-gb"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/en-gb"
+      ]
+    },
+    "#2e2e2d": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/en-gb"
+      ]
+    },
+    "#383d41": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/en-gb"
+      ]
+    },
+    "#d6d8db": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/en-gb"
+      ]
+    },
+    "#999999": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shop/t/22/assets/splide.min.css?v=44329677166622589231774618041"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "#474646": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "#272c300d": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "#272c3029": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "#c2c2c2": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "#ffffff00": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "#ffffff66": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "#ffffffcc": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "#ffffffe0": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "#ffffff29": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "#979797": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "#00000066": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "#d4cdcd": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "#ffffff80": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "#ffffff50": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "#0000001f": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "#28282829": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "#28282859": {
+      "count": 1,
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    }
+  },
+  "font_families": {
+    "Aktiv Grotesk": [
+      "https://www.tommeetippee.com/en-gb",
+      "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+    ],
+    "Victor Serif": [
+      "https://www.tommeetippee.com/en-gb",
+      "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.tommeetippee.com/en-gb",
+      "selector": ":root",
+      "declarations": "--font-primary--family: \"Aktiv Grotesk\", sans-serif;\n    --font-primary--style: normal;\n    --font-primary--weight: 300;\n    --font-primary--line-height: 1.5;\n    --font-primary--letter-spacing: 0.056rem;\n\n    --font-heading--family: \"Victor Serif\", sans-serif;\n    --font-heading--style: normal;\n    --font-heading--weight: 500;\n    --font-heading--line-height: 1.25;\n\n    \n    --color-background: #FFFFFF;\n    --color-background-secondary: #E5E3DF;\n    --color-foreground: #282828;\n    --color-white: #FFFFFF;\n    --color-black: #282828;\n    --color-green: #D1D1B7;\n    --color-blue: #A0B3AD;\n    --color-peach: #E09F87;\n    --color-purple: #9B8692;\n    --color-yellow: #EDD98A;\n    --color-greige:"
+    },
+    {
+      "source": "https://www.tommeetippee.com/en-gb",
+      "selector": ".newsletter-form__button",
+      "declarations": "align-items: center;\n    background: none;\n    border: none;\n    color: var(--color-foreground);\n    cursor: pointer;\n    display: flex;\n    height: 1.8rem;\n    padding: 0;\n    position: absolute;\n    right: 1.6rem;\n    top: 50%;\n    transform: translateY(-50%);\n    width: 1.8rem;"
+    },
+    {
+      "source": "https://www.tommeetippee.com/en-gb",
+      "selector": ".drawer--navigation .drawer__header",
+      "declarations": "background-color: var(--color-greige);\n    font-size: var(--font-size-18);\n    gap: 1.6rem;\n    justify-content: flex-start;\n    padding: 0 1.6rem;\n    height: 5.6rem;\n    line-height: 1;"
+    },
+    {
+      "source": "https://www.tommeetippee.com/en-gb",
+      "selector": ".drawer--navigation .drawer__header .drawer__header-link",
+      "declarations": "display: flex;\n    align-items: center;\n    justify-content: flex-start;\n    font-size: var(--font-size-12);\n    margin-top: 0.4rem;\n    text-decoration: none;\n    gap: 0.6rem;\n    color: currentColor;"
+    },
+    {
+      "source": "https://www.tommeetippee.com/en-gb",
+      "selector": ".header,\n  .transparent-header.scrolled .header,\n  .transparent-header:hover .header",
+      "declarations": "background-color: #282828;\n    color: #e5e3df;\n    transition: background-color 0.3s ease, color 0.3s ease;"
+    },
+    {
+      "source": "https://www.tommeetippee.com/en-gb",
+      "selector": ".header a",
+      "declarations": "color: #e5e3df;"
+    },
+    {
+      "source": "https://www.tommeetippee.com/en-gb",
+      "selector": ".newsletter-form__button",
+      "declarations": "align-items: center;\n    background: none;\n    border: none;\n    color: var(--color-foreground);\n    cursor: pointer;\n    display: flex;\n    height: 1.8rem;\n    padding: 0;\n    position: absolute;\n    right: 1.6rem;\n    top: 50%;\n    transform: translateY(-50%);\n    width: 1.8rem;"
+    },
+    {
+      "source": "https://www.tommeetippee.com/cdn/shop/t/22/assets/critical.css?v=20897149207795399021783674462",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "font-family:var(--font-heading--family);font-weight:500"
+    },
+    {
+      "source": "https://www.tommeetippee.com/cdn/shop/t/22/assets/critical.css?v=20897149207795399021783674462",
+      "selector": "body",
+      "declarations": "font-family:var(--font-primary--family);font-weight:var(--font-primary--weight);background-color:var(--color-background);color:var(--color-foreground)"
+    },
+    {
+      "source": "https://www.tommeetippee.com/cdn/shop/t/22/assets/critical.css?v=20897149207795399021783674462",
+      "selector": ".button",
+      "declarations": "position:relative;background-color:var(--color-black);color:var(--color-white);font-family:var(--font-primary--family);font-size:var(--font-size-14);font-weight:400;display:flex;flex-wrap:wrap;gap:1rem;align-items:center;align-content:center;justify-content:center;text-align:center;width:fit-content;padding:.55rem 1.55rem;border:.1rem solid transparent;border-radius:3rem;text-decoration:none;-webkit-appearance:none;appearance:none;margin-block:0;cursor:pointer;box-shadow:none;transition:background-color .2s linear,color .2s linear,border-color .2s linear"
+    },
+    {
+      "source": "https://www.tommeetippee.com/cdn/shop/t/22/assets/critical.css?v=20897149207795399021783674462",
+      "selector": ".button--secondary",
+      "declarations": "border-color:var(--color-greige);background-color:var(--color-greige);color:var(--color-black)"
+    },
+    {
+      "source": "https://www.tommeetippee.com/cdn/shop/t/22/assets/critical.css?v=20897149207795399021783674462",
+      "selector": ".button--outline",
+      "declarations": "background-color:transparent;color:var(--color-black);border-color:var(--color-black)"
+    },
+    {
+      "source": "https://www.tommeetippee.com/cdn/shop/t/22/assets/critical.css?v=20897149207795399021783674462",
+      "selector": ".button--secondary-outline",
+      "declarations": "background-color:transparent;color:var(--color-greige);border-color:var(--color-greige)"
+    },
+    {
+      "source": "https://www.tommeetippee.com/cdn/shop/t/22/assets/critical.css?v=20897149207795399021783674462",
+      "selector": ".button--transparent",
+      "declarations": "background-color:transparent;color:currentColor"
+    },
+    {
+      "source": "https://www.tommeetippee.com/cdn/shop/t/22/assets/critical.css?v=20897149207795399021783674462",
+      "selector": ".button--outline:hover",
+      "declarations": "color:var(--color-greige);background-color:var(--color-black)"
+    },
+    {
+      "source": "https://www.tommeetippee.com/cdn/shop/t/22/assets/critical.css?v=20897149207795399021783674462",
+      "selector": ".button--secondary-outline:hover",
+      "declarations": "background-color:var(--color-white);color:var(--color-black)"
+    },
+    {
+      "source": "https://www.tommeetippee.com/cdn/shop/t/22/assets/critical.css?v=20897149207795399021783674462",
+      "selector": ".button .price",
+      "declarations": "font-family:var(--font-heading--family);font-size:var(--font-size-16)"
+    },
+    {
+      "source": "https://www.tommeetippee.com/cdn/shop/t/22/assets/critical.css?v=20897149207795399021783674462",
+      "selector": ".button.loading",
+      "declarations": "border-color:var(--color-greige);background:var(--color-greige);pointer-events:none"
+    },
+    {
+      "source": "https://www.tommeetippee.com/cdn/shop/t/22/assets/critical.css?v=20897149207795399021783674462",
+      "selector": ".rte a:not(.button)",
+      "declarations": "color:inherit"
+    },
+    {
+      "source": "https://www.tommeetippee.com/cdn/shop/t/22/assets/critical.css?v=20897149207795399021783674462",
+      "selector": ".header-count-bubble",
+      "declarations": "position:absolute;top:-.2rem;right:-.4rem;display:flex;align-items:center;justify-content:center;width:1.4rem;height:1.4rem;font-size:var(--font-size-10);font-weight:500;line-height:1;border-radius:50%;background-color:var(--color-white);color:var(--color-foreground)"
+    },
+    {
+      "source": "https://www.tommeetippee.com/cdn/shop/t/22/assets/critical.css?v=20897149207795399021783674462",
+      "selector": ".header-count-bubble",
+      "declarations": "top:-.4rem;right:.4rem;width:1.6rem;height:1.6rem;background-color:var(--color-green)"
+    },
+    {
+      "source": "https://www.tommeetippee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.tommeetippee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.tommeetippee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.tommeetippee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.tommeetippee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.tommeetippee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988",
+      "selector": ".blog-sidebar__search button",
+      "declarations": "position:absolute;right:0;top:50%;transform:translateY(-50%);width:4.8rem;height:100%;color:var(--color-dark-greige);border:none;padding:0 1.6rem;background-color:transparent;z-index:2;cursor:pointer"
+    },
+    {
+      "source": "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988",
+      "selector": ".swym-button",
+      "declarations": "font-family:var(--font-primary--family)!important;font-weight:400!important;padding:.55rem 1.55rem!important;-webkit-appearance:none;appearance:none;margin-block:0;cursor:pointer;box-shadow:none;text-align:center;width:fit-content;border:.1rem solid transparent!important;border-radius:3rem!important;text-decoration:none;transition:background-color .2s linear,color .2s linear,border-color .2s linear;font-size:var(--font-size-16)!important"
+    },
+    {
+      "source": "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988",
+      "selector": ".swym-button.swym-sfl-popup-cancel",
+      "declarations": "background-color:transparent!important;color:var(--color-black)!important;border-color:var(--color-black)!important;border:solid .1rem var(--color-black)!important"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Tommee Tippee® Official UK Site | You've Got This, We've Got You",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tommeetippee.com/en-gb",
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tommeetippee.com/en-gb",
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tommeetippee.com/en-gb",
+        "https://www.tommeetippee.com/cdn/shop/t/22/assets/splide.min.css?v=44329677166622589231774618041",
+        "https://www.tommeetippee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tommeetippee.com/en-gb",
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tommeetippee.com/en-gb"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tommeetippee.com/en-gb",
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tommeetippee.com/en-gb",
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tommeetippee.com/en-gb",
+        "https://www.tommeetippee.com/cdn/shop/t/22/assets/splide.min.css?v=44329677166622589231774618041",
+        "https://www.tommeetippee.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.tommeetippee.com/cdn/shop/t/22/compiled_assets/styles.css?v=103874272223468064181788951988"
+      ]
+    },
+    "colors.accent-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tommeetippee.com/en-gb"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tommeetippee.com/en-gb"
+      ]
+    },
+    "colors.accent-peach": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tommeetippee.com/en-gb"
+      ]
+    },
+    "colors.accent-purple": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tommeetippee.com/en-gb"
+      ]
+    },
+    "colors.accent-yellow": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tommeetippee.com/en-gb"
+      ]
+    },
+    "colors.sale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tommeetippee.com/en-gb"
+      ]
+    },
+    "colors.highlight": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.tommeetippee.com/cdn/shop/t/22/assets/splide.min.css?v=44329677166622589231774618041"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.button-outline": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.promo-banner": {
+      "status": "inferred"
+    }
+  }
+}

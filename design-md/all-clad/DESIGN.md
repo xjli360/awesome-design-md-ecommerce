@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: All-Clad
-description: |
+name: "All-Clad"
+source_url: "https://www.all-clad.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Stainless steel under studio lighting — that first visual impression of All-Clad's digital presence is a surface of muted charcoal (#19212c) and near-white (#f6f6f6) panels that mimic the reflective layers of bonded cookware. The primary action blue (#006bb4) reads as a Pantone-precise industrial marker rather than a playful accent; it anchors every "Add to Cart" button, filter link, and navigation active state with the understated confidence of a bolt torque spec printed on a factory wall. Body copy sets in Open Sans at 400 weight — light enough to disappear behind product photography yet sturdy at 14–16px on dense comparison grids where seven SKUs line up like pans on a pot rack. Headlines rarely exceed weight 600; the brand lets product imagery carry authority rather than typographic volume. A vivid orange (#ff5501) fires only on promotional callouts and sale badges — the single spike of warmth in an otherwise cool-neutral system, reminiscent of a burner ring glowing beneath brushed aluminum. Card components use tight `{rounded.xs}` corners (4px) or none at all, reinforcing the machined precision of tri-ply construction. Spacing is generous at section boundaries (`{spacing.section}` = 64px) but compressed within product cards (`{spacing.sm}` = 8px between price and rating), creating a rhythm of breathing room punctuated by information density. A warm cream surface (#fdf0d5) paired with amber type (#6f4400) appears in trust badges and warranty callouts — a brief nod to heritage craft before the interface returns to its steel-and-carbon palette. Navigation runs a single-row mega-menu against a white bar, all uppercase category labels in `{typography.nav-label}`, underline-on-hover rather than background highlight.
 
 colors:
@@ -429,6 +432,8 @@ components:
 - Breadcrumbs truncate middle segments with "..." on mobile, showing only parent and current
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Custom icon font `allclad-icons` glyph mapping not extractable — icon names and codepoints unknown
 - Exact hero image overlay gradient values not captured from static extraction

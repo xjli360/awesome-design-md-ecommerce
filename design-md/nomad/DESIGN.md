@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Nomad
-description: A monochromatic landscape of #0e0e0e and #2f2f2f punctuated by a single electric accent of #0048ff — Nomad’s design language reads like a precision instrument manual translated into digital commerce. The brand’s visual system is built on extreme contrast: near-black ink on near-white canvas (#f3f3f3), with every surface, card, and button carrying the same tight {rounded.sm} radius that echoes the chamfered edges of a machined aluminum phone case. Typography runs Gotham at 700 weight for display and 400 for body, a choice that signals industrial durability without the coldness of a true sans-serif like Helvetica. The navigation bar sits at 80px with a hairline bottom border (#dedede) that’s barely there — the brand trusts its product photography to carry the emotional weight. Product cards use a subtle shadow and {rounded.md} corners, while the primary CTA (#0048ff) sits on white text with a hover state that deepens to #005bd3. The checkout flow introduces a secondary accent (#e3163b) for error states and a warm gold (#efcf07) for limited-edition badges. There is no gradient, no glassmorphism, no decorative flourish — every pixel is either structural (gray, black, white) or functional (blue CTA, red error, gold badge). The footer collapses to a single column on mobile, and the search bar expands to full width below 744px. This is a brand that sells $50 leather cable ties and $300 titanium watch bands; the design system treats every product as a hero, every button as a tool, and every interaction as a transaction of trust.
+name: "Nomad"
+source_url: "https://nomadgoods.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A monochromatic landscape of #0e0e0e and #2f2f2f punctuated by a single electric accent of #0048ff — Nomad’s design language reads like a precision instrument manual translated into digital commerce. The brand’s visual system is built on extreme contrast: near-black ink on near-white canvas (#f3f3f3), with every surface, card, and button carrying the same tight {rounded.sm} radius that echoes the chamfered edges of a machined aluminum phone case. Typography runs Gotham at 700 weight for display and 400 for body, a choice that signals industrial durability without the coldness of a true sans-serif like Helvetica. The navigation bar sits at 80px with a hairline bottom border (#dedede) that’s barely there — the brand trusts its product photography to carry the emotional weight. Product cards use a subtle shadow and {rounded.md} corners, while the primary CTA (#0048ff) sits on white text with a hover state that deepens to #005bd3. The checkout flow introduces a secondary accent (#e3163b) for error states and a warm gold (#efcf07) for limited-edition badges. There is no gradient, no glassmorphism, no decorative flourish — every pixel is either structural (gray, black, white) or functional (blue CTA, red error, gold badge). The footer collapses to a single column on mobile, and the search bar expands to full width below 744px. This is a brand that sells $50 leather cable ties and $300 titanium watch bands; the design system treats every product as a hero, every button as a tool, and every interaction as a transaction of trust.
 
 colors:
   primary: "#0048ff"
@@ -399,6 +403,8 @@ components:
 - Collection filters collapse from sidebar to horizontal scroll strip on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components could not be fully extracted from the live site — the primary button hover (#005bd3) is inferred from the extracted hex list, but secondary and tertiary hover states are estimated based on common patterns
 - Error state styling for forms (borders, icons, messages) is inferred from the extracted error red (#e3163b) but the exact implementation (icon style, message placement, animation) is unknown

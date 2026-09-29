@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Commencal
-description: A raw, unapologetic mountain-bike brand that uses #d7ca9e — a pale, sun-bleached khaki — as its primary, a color that evokes dusty trails and aluminum frames rather than the glossy black or electric neons of the cycling mainstream. The palette is built on contrasts: #008827 as a deep forest-green accent for "green" product lines, #cc0000 as a racing-red alert for sale badges and limited drops, and a full range of muted earth tones (#706952, #383d41, #444444) that keep the interface grounded. The canvas is #f9f9f9, a near-white that reads as workshop concrete rather than sterile paper, while #eae7e4 and #ede6d2 provide warm surface tones. Typography defaults to system fonts — Helvetica, Arial, Roboto — a deliberate non-choice that prioritizes performance and global rendering over brand-typedesign. The site's architecture is brutalist in its honesty: full-bleed product imagery, hard-cornered cards with {rounded.none} or at most {rounded.sm}, and a navigation that stacks categories (BIKES, SNOW, LIFESTYLE) in a heavy, uppercase, all-caps system. There is no decorative filigree, no gradient hero — just a product grid, a search bar with {rounded.full} pill shape, and the occasional badge in #008827 or #cc0000 to signal urgency. The brand trusts its photography — bikes in mud, riders in motion — to carry emotion, leaving the UI as a functional chassis.
+name: "Commencal"
+source_url: "https://www.commencal.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A raw, unapologetic mountain-bike brand that uses #d7ca9e — a pale, sun-bleached khaki — as its primary, a color that evokes dusty trails and aluminum frames rather than the glossy black or electric neons of the cycling mainstream. The palette is built on contrasts: #008827 as a deep forest-green accent for "green" product lines, #cc0000 as a racing-red alert for sale badges and limited drops, and a full range of muted earth tones (#706952, #383d41, #444444) that keep the interface grounded. The canvas is #f9f9f9, a near-white that reads as workshop concrete rather than sterile paper, while #eae7e4 and #ede6d2 provide warm surface tones. Typography defaults to system fonts — Helvetica, Arial, Roboto — a deliberate non-choice that prioritizes performance and global rendering over brand-typedesign. The site's architecture is brutalist in its honesty: full-bleed product imagery, hard-cornered cards with {rounded.none} or at most {rounded.sm}, and a navigation that stacks categories (BIKES, SNOW, LIFESTYLE) in a heavy, uppercase, all-caps system. There is no decorative filigree, no gradient hero — just a product grid, a search bar with {rounded.full} pill shape, and the occasional badge in #008827 or #cc0000 to signal urgency. The brand trusts its photography — bikes in mud, riders in motion — to carry emotion, leaving the UI as a functional chassis.
 
 colors:
   primary: "#d7ca9e"
@@ -371,6 +375,8 @@ components:
 - Search bar: expands to full width on mobile, losing its pill shape's side margins.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states**: Only primary, secondary, green, and red button hovers were extractable. Hover states for nav links, footer links, and product cards are inferred from common patterns but not confirmed from the live site.
 - **Error styling**: No error states for text inputs, validation messages, or form submission feedback were found in the extracted data.

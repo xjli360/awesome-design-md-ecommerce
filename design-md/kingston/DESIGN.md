@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Kingston
-description: A deep, industrial #313131 ink anchors Kingston's entire interface — not as a secondary or accent but as the primary color, a rare choice for a consumer electronics brand that signals reliability over flash. The single extracted hex from the live site tells a story of restraint: no bright CTA color, no gradient hero, no brand mark in a signature hue. Instead, the brand trusts its dark charcoal to carry every button, every headline, and every navigation element, creating a uniform, almost architectural presence. Type runs through the system font stack — -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif — with no custom typeface, a pragmatic decision that prioritizes legibility across global markets and device types. The interface reads as a technical catalog: dense product grids, specification tables, and comparison charts sit on a white canvas with hairline-thin borders, letting the hardware photography provide the only color. There are no pill-shaped buttons or soft rounded cards; corners stay tight at {rounded.sm} for buttons and {rounded.md} for cards, reinforcing a precision-tool aesthetic. The brand's voice is informational, not aspirational — every pixel exists to help a buyer compare storage speeds, capacities, and form factors without visual distraction. This is a design system built for the B2B and enthusiast buyer who values spec sheets over splash pages.
+name: "Kingston"
+source_url: "https://www.kingston.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep, industrial #313131 ink anchors Kingston's entire interface — not as a secondary or accent but as the primary color, a rare choice for a consumer electronics brand that signals reliability over flash. The single extracted hex from the live site tells a story of restraint: no bright CTA color, no gradient hero, no brand mark in a signature hue. Instead, the brand trusts its dark charcoal to carry every button, every headline, and every navigation element, creating a uniform, almost architectural presence. Type runs through the system font stack — -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif — with no custom typeface, a pragmatic decision that prioritizes legibility across global markets and device types. The interface reads as a technical catalog: dense product grids, specification tables, and comparison charts sit on a white canvas with hairline-thin borders, letting the hardware photography provide the only color. There are no pill-shaped buttons or soft rounded cards; corners stay tight at {rounded.sm} for buttons and {rounded.md} for cards, reinforcing a precision-tool aesthetic. The brand's voice is informational, not aspirational — every pixel exists to help a buyer compare storage speeds, capacities, and form factors without visual distraction. This is a design system built for the B2B and enthusiast buyer who values spec sheets over splash pages.
 
 colors:
   primary: "#313131"
@@ -333,6 +337,8 @@ components:
 - Hero banners reduce padding and font size on mobile, with {typography.display-lg} replacing {typography.display-xl}
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one hex color (#313131) was extractable from the live site; additional brand colors (link blue, success green, warning orange, error red) are inferred from common web patterns and may not match Kingston's actual palette
 - No custom font family was detected; the system font stack is used throughout but Kingston may license a proprietary typeface for marketing materials

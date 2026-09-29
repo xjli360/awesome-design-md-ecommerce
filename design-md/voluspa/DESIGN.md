@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Voluspa
-description: Voluspa is a handcrafted luxury home fragrance brand that wraps its warm, artisanal identity in a palette of soft neutrals and restrained accents. The canvas is a clean white (#ffffff) with subtle warmth from surface tones like {colors.surface-soft} (#f4f4f4) and {colors.surface-card} (#ece8e1), creating a tactile, layered feel that echoes the brand's hand-poured candles and oil diffusers. The primary action color is a crisp blue (#007aff), a deliberate contrast to the otherwise muted environment, used sparingly for CTAs and interactive elements. The ink (#333333) and body (#898989) text maintain readability without harshness, while the hairline (#ddd8d0) and muted-soft (#d9d4cc) lines keep the layout airy and refined. A signature accent green (#85c28e) appears in product badges and nature-inspired cues, and a restrained red (#ff0000) is reserved for sale indicators. The typography system pairs the clean, geometric Barlow family for body and UI text with the elegant, serifed Libre Baskerville for display headings, evoking a sense of heritage craftsmanship. Pinyon Script, a delicate calligraphic face, is used sparingly for decorative or signature-style accents, while Work Sans supports secondary UI roles. The overall mood is one of quiet luxury—generous whitespace, soft corners ({rounded.sm} on cards, {rounded.md} on buttons), and a deliberate avoidance of visual noise. Every design decision reinforces the brand's promise: handcrafted, intentional, and beautifully scented.
+name: "Voluspa"
+source_url: "https://www.voluspa.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Voluspa is a handcrafted luxury home fragrance brand that wraps its warm, artisanal identity in a palette of soft neutrals and restrained accents. The canvas is a clean white (#ffffff) with subtle warmth from surface tones like {colors.surface-soft} (#f4f4f4) and {colors.surface-card} (#ece8e1), creating a tactile, layered feel that echoes the brand's hand-poured candles and oil diffusers. The primary action color is a crisp blue (#007aff), a deliberate contrast to the otherwise muted environment, used sparingly for CTAs and interactive elements. The ink (#333333) and body (#898989) text maintain readability without harshness, while the hairline (#ddd8d0) and muted-soft (#d9d4cc) lines keep the layout airy and refined. A signature accent green (#85c28e) appears in product badges and nature-inspired cues, and a restrained red (#ff0000) is reserved for sale indicators. The typography system pairs the clean, geometric Barlow family for body and UI text with the elegant, serifed Libre Baskerville for display headings, evoking a sense of heritage craftsmanship. Pinyon Script, a delicate calligraphic face, is used sparingly for decorative or signature-style accents, while Work Sans supports secondary UI roles. The overall mood is one of quiet luxury—generous whitespace, soft corners ({rounded.sm} on cards, {rounded.md} on buttons), and a deliberate avoidance of visual noise. Every design decision reinforces the brand's promise: handcrafted, intentional, and beautifully scented.
 
 colors:
   primary: "#007aff"
@@ -404,6 +408,8 @@ components:
 - Secondary navigation (breadcrumbs, filters) collapses to dropdown or hidden on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for product cards (shadow, scale, or border change) could not be reliably extracted
 - Error styling for form inputs (red border, error message typography) is not captured

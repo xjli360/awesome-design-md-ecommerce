@@ -1,0 +1,742 @@
+{
+  "source_url": "https://www.mesaboogie.com",
+  "final_url": "https://www.gibson.com/pages/mesa-boogie",
+  "captured_at": "2026-09-28T09:02:55.231342+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.mesaboogie.com",
+      "final_url": "https://www.gibson.com/pages/mesa-boogie",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "b0368f4bfe34ca1e9ee08d62f7fe4ea86be76add0df764f3ad62160465e1cbad",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.gibson.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.gibson.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.gibson.com/cdn/shop/t/679/assets/base.css?v=45449219077426442191789481981",
+      "final_url": "https://www.gibson.com/cdn/shop/t/679/assets/base.css?v=45449219077426442191789481981",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "cf898b11630e0d4967f52ad219dd02aa4013770da39b80a048cca886f18989ed",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.gibson.com/cdn/shop/t/679/assets/bundle.globals.css?v=8667402424701941961788963347",
+      "final_url": "https://www.gibson.com/cdn/shop/t/679/assets/bundle.globals.css?v=8667402424701941961788963347",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b69b7fd40e68fcf8a98ecbd32d07266a429e675e4aaef1a8a8fb9ca90d37b997",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.gibson.com/cdn/shop/t/679/assets/component-cart-items.css?v=169254811848176996321788963346",
+      "final_url": "https://www.gibson.com/cdn/shop/t/679/assets/component-cart-items.css?v=169254811848176996321788963346",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "bf42cd9ff54d8bb6c98127843ebc9db3bba8ebb5be7e273b44416e6ea35dc85c",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.gibson.com/cdn/shop/t/679/assets/component-cart-drawer.css?v=89504431952142536081788963346",
+      "final_url": "https://www.gibson.com/cdn/shop/t/679/assets/component-cart-drawer.css?v=89504431952142536081788963346",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1e209bf008cbeb0a7fdf8f155a9d01b4423ed6fc003704f82d85d065e148d919",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 33,
+      "sources": [
+        "https://www.gibson.com/pages/mesa-boogie",
+        "https://www.gibson.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.gibson.com/cdn/shop/t/679/assets/base.css?v=45449219077426442191789481981",
+        "https://www.gibson.com/cdn/shop/t/679/assets/bundle.globals.css?v=8667402424701941961788963347"
+      ]
+    },
+    "#000000": {
+      "count": 23,
+      "sources": [
+        "https://www.gibson.com/pages/mesa-boogie",
+        "https://www.gibson.com/cdn/shop/t/679/assets/base.css?v=45449219077426442191789481981",
+        "https://www.gibson.com/cdn/shop/t/679/assets/bundle.globals.css?v=8667402424701941961788963347"
+      ]
+    },
+    "#86764e": {
+      "count": 22,
+      "sources": [
+        "https://www.gibson.com/pages/mesa-boogie"
+      ]
+    },
+    "#00000000": {
+      "count": 4,
+      "sources": [
+        "https://www.gibson.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.gibson.com/cdn/shop/t/679/assets/bundle.globals.css?v=8667402424701941961788963347"
+      ]
+    },
+    "#e7e7e7": {
+      "count": 3,
+      "sources": [
+        "https://www.gibson.com/pages/mesa-boogie"
+      ]
+    },
+    "#707070": {
+      "count": 3,
+      "sources": [
+        "https://www.gibson.com/pages/mesa-boogie",
+        "https://www.gibson.com/cdn/shop/t/679/assets/base.css?v=45449219077426442191789481981"
+      ]
+    },
+    "#cccccc": {
+      "count": 3,
+      "sources": [
+        "https://www.gibson.com/pages/mesa-boogie",
+        "https://www.gibson.com/cdn/shop/t/679/assets/bundle.globals.css?v=8667402424701941961788963347"
+      ]
+    },
+    "#f7f8f9": {
+      "count": 3,
+      "sources": [
+        "https://www.gibson.com/pages/mesa-boogie"
+      ]
+    },
+    "#f0eae4": {
+      "count": 3,
+      "sources": [
+        "https://www.gibson.com/pages/mesa-boogie"
+      ]
+    },
+    "#86764b": {
+      "count": 3,
+      "sources": [
+        "https://www.gibson.com/pages/mesa-boogie"
+      ]
+    },
+    "#ffffff00": {
+      "count": 3,
+      "sources": [
+        "https://www.gibson.com/cdn/shop/t/679/assets/base.css?v=45449219077426442191789481981"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 3,
+      "sources": [
+        "https://www.gibson.com/cdn/shop/t/679/assets/bundle.globals.css?v=8667402424701941961788963347"
+      ]
+    },
+    "#191919": {
+      "count": 3,
+      "sources": [
+        "https://www.gibson.com/cdn/shop/t/679/assets/bundle.globals.css?v=8667402424701941961788963347"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.gibson.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://www.gibson.com/cdn/shop/t/679/assets/base.css?v=45449219077426442191789481981"
+      ]
+    },
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://www.gibson.com/cdn/shop/t/679/assets/base.css?v=45449219077426442191789481981"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 2,
+      "sources": [
+        "https://www.gibson.com/cdn/shop/t/679/assets/bundle.globals.css?v=8667402424701941961788963347"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://www.gibson.com/pages/mesa-boogie"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://www.gibson.com/pages/mesa-boogie"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://www.gibson.com/pages/mesa-boogie"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://www.gibson.com/pages/mesa-boogie"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://www.gibson.com/pages/mesa-boogie"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://www.gibson.com/pages/mesa-boogie"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://www.gibson.com/pages/mesa-boogie"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://www.gibson.com/pages/mesa-boogie"
+      ]
+    },
+    "#2c2e40": {
+      "count": 1,
+      "sources": [
+        "https://www.gibson.com/pages/mesa-boogie"
+      ]
+    },
+    "#000309": {
+      "count": 1,
+      "sources": [
+        "https://www.gibson.com/pages/mesa-boogie"
+      ]
+    },
+    "#d6d0c2": {
+      "count": 1,
+      "sources": [
+        "https://www.gibson.com/pages/mesa-boogie"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.gibson.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.gibson.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.gibson.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 1,
+      "sources": [
+        "https://www.gibson.com/cdn/shop/t/679/assets/base.css?v=45449219077426442191789481981"
+      ]
+    },
+    "#777777": {
+      "count": 1,
+      "sources": [
+        "https://www.gibson.com/cdn/shop/t/679/assets/base.css?v=45449219077426442191789481981"
+      ]
+    },
+    "#00000080": {
+      "count": 1,
+      "sources": [
+        "https://www.gibson.com/cdn/shop/t/679/assets/base.css?v=45449219077426442191789481981"
+      ]
+    },
+    "#fafafa": {
+      "count": 1,
+      "sources": [
+        "https://www.gibson.com/cdn/shop/t/679/assets/bundle.globals.css?v=8667402424701941961788963347"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 1,
+      "sources": [
+        "https://www.gibson.com/cdn/shop/t/679/assets/bundle.globals.css?v=8667402424701941961788963347"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 1,
+      "sources": [
+        "https://www.gibson.com/cdn/shop/t/679/assets/bundle.globals.css?v=8667402424701941961788963347"
+      ]
+    },
+    "#3fb8af": {
+      "count": 1,
+      "sources": [
+        "https://www.gibson.com/cdn/shop/t/679/assets/bundle.globals.css?v=8667402424701941961788963347"
+      ]
+    },
+    "#ebebeb": {
+      "count": 1,
+      "sources": [
+        "https://www.gibson.com/cdn/shop/t/679/assets/bundle.globals.css?v=8667402424701941961788963347"
+      ]
+    },
+    "#dddddd": {
+      "count": 1,
+      "sources": [
+        "https://www.gibson.com/cdn/shop/t/679/assets/bundle.globals.css?v=8667402424701941961788963347"
+      ]
+    },
+    "#e8e7e6": {
+      "count": 1,
+      "sources": [
+        "https://www.gibson.com/cdn/shop/t/679/assets/bundle.globals.css?v=8667402424701941961788963347"
+      ]
+    },
+    "#b8b8b8": {
+      "count": 1,
+      "sources": [
+        "https://www.gibson.com/cdn/shop/t/679/assets/bundle.globals.css?v=8667402424701941961788963347"
+      ]
+    },
+    "#999999": {
+      "count": 1,
+      "sources": [
+        "https://www.gibson.com/cdn/shop/t/679/assets/bundle.globals.css?v=8667402424701941961788963347"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 1,
+      "sources": [
+        "https://www.gibson.com/cdn/shop/t/679/assets/bundle.globals.css?v=8667402424701941961788963347"
+      ]
+    },
+    "#0000001a": {
+      "count": 1,
+      "sources": [
+        "https://www.gibson.com/cdn/shop/t/679/assets/bundle.globals.css?v=8667402424701941961788963347"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 1,
+      "sources": [
+        "https://www.gibson.com/cdn/shop/t/679/assets/bundle.globals.css?v=8667402424701941961788963347"
+      ]
+    },
+    "#b2b2b2": {
+      "count": 1,
+      "sources": [
+        "https://www.gibson.com/cdn/shop/t/679/assets/bundle.globals.css?v=8667402424701941961788963347"
+      ]
+    },
+    "#d1d1d1": {
+      "count": 1,
+      "sources": [
+        "https://www.gibson.com/cdn/shop/t/679/assets/bundle.globals.css?v=8667402424701941961788963347"
+      ]
+    },
+    "#877648": {
+      "count": 1,
+      "sources": [
+        "https://www.gibson.com/cdn/shop/t/679/assets/bundle.globals.css?v=8667402424701941961788963347"
+      ]
+    }
+  },
+  "font_families": {
+    "Inter Tight": [
+      "https://www.gibson.com/cdn/shop/t/679/assets/base.css?v=45449219077426442191789481981",
+      "https://www.gibson.com/cdn/shop/t/679/assets/bundle.globals.css?v=8667402424701941961788963347"
+    ],
+    "League Gothic": [
+      "https://www.gibson.com/cdn/shop/t/679/assets/bundle.globals.css?v=8667402424701941961788963347"
+    ],
+    "sans-serif": [
+      "https://www.gibson.com/cdn/shop/t/679/assets/base.css?v=45449219077426442191789481981",
+      "https://www.gibson.com/cdn/shop/t/679/assets/bundle.globals.css?v=8667402424701941961788963347"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.gibson.com/pages/mesa-boogie",
+      "selector": ":root,\n        .color-scheme-1",
+      "declarations": "--color-background: ,,;\n        \n          --gradient-background: linear-gradient(180deg, rgba(247, 248, 249, 1), rgba(240, 234, 228, 1) 100%);\n        \n\n        \n          --gradient-background_2: linear-gradient(90deg, rgba(134, 118, 75, 1) 30%, rgba(214, 208, 194, 1) 100%);\n        \n\n        \n\n        --color-background-light: 255,255,255;\n        --color-background-dark: 0,0,0;\n        --color-background-megamenu: 255,255,255;\n        --color-foreground: 18,18,18;\n        --color-background-contrast: ,,;\n        --color-grey-1: 247,247,247;\n        --color-grey-2: #e7e7e7;\n        --color-grey-3: 155,155,155;\n        --color-grey-4: 112,112,112;\n        --color-brown-1: 109,79,47;\n      "
+    },
+    {
+      "source": "https://www.gibson.com/pages/mesa-boogie",
+      "selector": "body",
+      "declarations": "color: rgba(18 18 18, 0.75);\n        background-color: rgb(255 255 255);"
+    },
+    {
+      "source": "https://www.gibson.com/pages/mesa-boogie",
+      "selector": "body, .color-scheme-1, .color-scheme-d2fd8917-de76-4aa7-ae49-b5bdda515ee7, .color-scheme-cef60d7d-e106-434a-bb79-4649546f9fb9",
+      "declarations": "color: rgba(var(--color-foreground), 0.75);\n        background-color: rgb(var(--color-background-light));"
+    },
+    {
+      "source": "https://www.gibson.com/pages/mesa-boogie",
+      "selector": "body",
+      "declarations": "display: grid;\n        grid-template-rows: auto auto 1fr auto;\n        grid-template-columns: 100%;\n        min-height: 100%;\n        margin: 0;\n        font-size: 0.938rem;\n        line-height: calc(1 + 0.8 / var(--font-body-scale));\n        font-family: var(--font-body-family);\n        font-style: var(--font-body-style);\n        font-weight: var(--font-body-weight);"
+    },
+    {
+      "source": "https://www.gibson.com/pages/mesa-boogie",
+      "selector": ":root",
+      "declarations": "--container-space-x:1.25rem"
+    },
+    {
+      "source": "https://www.gibson.com/pages/mesa-boogie",
+      "selector": ":root",
+      "declarations": "--container-space-x:3.125rem"
+    },
+    {
+      "source": "https://www.gibson.com/pages/mesa-boogie",
+      "selector": ":root,:host",
+      "declarations": "--tw-spacing:.25rem;--tw-font-weight-medium:500;--tw-font-weight-semibold:600;--tw-default-transition-duration:.15s;--tw-default-transition-timing-function:cubic-bezier(.4, 0, .2, 1);--tw-color-black:#000;--tw-color-white:#fff;--tw-color-gold:#86764e;--tw-color-grey-dark:#707070"
+    },
+    {
+      "source": "https://www.gibson.com/pages/mesa-boogie",
+      "selector": ".btn",
+      "declarations": "justify-content:center;align-items:center;gap:calc(var(--tw-spacing) * 2);padding-inline:calc(var(--tw-spacing) * 4);padding-block:calc(var(--tw-spacing) * 3);--tw-font-weight:var(--tw-font-weight-semibold);font-weight:var(--tw-font-weight-semibold);appearance:none;border-style:var(--tw-border-style);cursor:pointer;transition-property:color,background-color,border-color,outline-color,text-decoration-color,fill,stroke,--tw-gradient-from,--tw-gradient-via,--tw-gradient-to;transition-timing-function:var(--tw-ease,var(--tw-default-transition-timing-function));transition-duration:var(--tw-duration,var(--tw-default-transition-duration));--tw-duration:.2s;border-width:0;border-radius:3.40282e38px;f"
+    },
+    {
+      "source": "https://www.gibson.com/pages/mesa-boogie",
+      "selector": ".btn--dark",
+      "declarations": "background-color:var(--tw-color-black);color:var(--tw-color-white)"
+    },
+    {
+      "source": "https://www.gibson.com/pages/mesa-boogie",
+      "selector": ".btn--dark:hover",
+      "declarations": "background-color:var(--tw-color-black)"
+    },
+    {
+      "source": "https://www.gibson.com/pages/mesa-boogie",
+      "selector": ".btn--dark:hover",
+      "declarations": "background-color:color-mix(in oklab, var(--tw-color-black) 80%, transparent)"
+    },
+    {
+      "source": "https://www.gibson.com/pages/mesa-boogie",
+      "selector": ".btn--dark:active",
+      "declarations": "background-color:var(--tw-color-black)"
+    },
+    {
+      "source": "https://www.gibson.com/pages/mesa-boogie",
+      "selector": ".btn--dark:active",
+      "declarations": "background-color:color-mix(in oklab, var(--tw-color-black) 60%, transparent)"
+    },
+    {
+      "source": "https://www.gibson.com/pages/mesa-boogie",
+      "selector": ".btn--dark:disabled,.btn--dark[aria-disabled=true]",
+      "declarations": "background-color:var(--tw-color-black)"
+    },
+    {
+      "source": "https://www.gibson.com/pages/mesa-boogie",
+      "selector": ".btn--dark:disabled,.btn--dark[aria-disabled=true]",
+      "declarations": "background-color:color-mix(in oklab, var(--tw-color-black) 5%, transparent)"
+    },
+    {
+      "source": "https://www.gibson.com/pages/mesa-boogie",
+      "selector": ".btn--dark:disabled,.btn--dark[aria-disabled=true]",
+      "declarations": "color:var(--tw-color-grey-dark)"
+    },
+    {
+      "source": "https://www.gibson.com/pages/mesa-boogie",
+      "selector": ".btn--light",
+      "declarations": "background-color:var(--tw-color-white);color:var(--tw-color-black)"
+    },
+    {
+      "source": "https://www.gibson.com/pages/mesa-boogie",
+      "selector": ".btn--light:hover",
+      "declarations": "background-color:var(--tw-color-white)"
+    },
+    {
+      "source": "https://www.gibson.com/pages/mesa-boogie",
+      "selector": ".btn--light:hover",
+      "declarations": "background-color:color-mix(in oklab, var(--tw-color-white) 80%, transparent)"
+    },
+    {
+      "source": "https://www.gibson.com/pages/mesa-boogie",
+      "selector": ".btn--light:active",
+      "declarations": "background-color:var(--tw-color-white)"
+    },
+    {
+      "source": "https://www.gibson.com/pages/mesa-boogie",
+      "selector": ".btn--light:active",
+      "declarations": "background-color:color-mix(in oklab, var(--tw-color-white) 60%, transparent)"
+    },
+    {
+      "source": "https://www.gibson.com/pages/mesa-boogie",
+      "selector": ".btn--light:disabled,.btn--light[aria-disabled=true]",
+      "declarations": "background-color:var(--tw-color-white)"
+    },
+    {
+      "source": "https://www.gibson.com/pages/mesa-boogie",
+      "selector": ".btn--light:disabled,.btn--light[aria-disabled=true]",
+      "declarations": "background-color:color-mix(in oklab, var(--tw-color-white) 40%, transparent)"
+    },
+    {
+      "source": "https://www.gibson.com/pages/mesa-boogie",
+      "selector": ".btn--light:disabled,.btn--light[aria-disabled=true]",
+      "declarations": "color:var(--tw-color-grey-dark)"
+    },
+    {
+      "source": "https://www.gibson.com/pages/mesa-boogie",
+      "selector": ".btn--gold",
+      "declarations": "background-color:var(--tw-color-gold);color:var(--tw-color-white)"
+    },
+    {
+      "source": "https://www.gibson.com/pages/mesa-boogie",
+      "selector": ".btn--gold:hover",
+      "declarations": "background-color:var(--tw-color-gold)"
+    },
+    {
+      "source": "https://www.gibson.com/pages/mesa-boogie",
+      "selector": ".btn--gold:hover",
+      "declarations": "background-color:color-mix(in oklab, var(--tw-color-gold) 80%, transparent)"
+    },
+    {
+      "source": "https://www.gibson.com/pages/mesa-boogie",
+      "selector": ".btn--gold:active",
+      "declarations": "background-color:var(--tw-color-gold)"
+    },
+    {
+      "source": "https://www.gibson.com/pages/mesa-boogie",
+      "selector": ".btn--gold:active",
+      "declarations": "background-color:color-mix(in oklab, var(--tw-color-gold) 60%, transparent)"
+    },
+    {
+      "source": "https://www.gibson.com/pages/mesa-boogie",
+      "selector": ".btn--gold:disabled,.btn--gold[aria-disabled=true]",
+      "declarations": "background-color:var(--tw-color-gold)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Mesa Boogie Home\n – Gibson",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.gibson.com/pages/mesa-boogie"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.gibson.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.gibson.com/pages/mesa-boogie",
+        "https://www.gibson.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.gibson.com/cdn/shop/t/679/assets/base.css?v=45449219077426442191789481981",
+        "https://www.gibson.com/cdn/shop/t/679/assets/bundle.globals.css?v=8667402424701941961788963347"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.gibson.com/pages/mesa-boogie",
+        "https://www.gibson.com/cdn/shop/t/679/assets/base.css?v=45449219077426442191789481981"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.gibson.com/cdn/shop/t/679/assets/bundle.globals.css?v=8667402424701941961788963347"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.gibson.com/pages/mesa-boogie"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.gibson.com/pages/mesa-boogie"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.gibson.com/cdn/shop/t/679/assets/base.css?v=45449219077426442191789481981"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.gibson.com/pages/mesa-boogie",
+        "https://www.gibson.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.gibson.com/cdn/shop/t/679/assets/base.css?v=45449219077426442191789481981",
+        "https://www.gibson.com/cdn/shop/t/679/assets/bundle.globals.css?v=8667402424701941961788963347"
+      ]
+    },
+    "colors.accent-warm": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.gibson.com/pages/mesa-boogie"
+      ]
+    },
+    "colors.contrast-black": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.gibson.com/pages/mesa-boogie",
+        "https://www.gibson.com/cdn/shop/t/679/assets/base.css?v=45449219077426442191789481981",
+        "https://www.gibson.com/cdn/shop/t/679/assets/bundle.globals.css?v=8667402424701941961788963347"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.gibson.com/pages/mesa-boogie",
+        "https://www.gibson.com/cdn/shop/t/679/assets/bundle.globals.css?v=8667402424701941961788963347"
+      ]
+    },
+    "colors.surface-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.gibson.com/cdn/shop/t/679/assets/bundle.globals.css?v=8667402424701941961788963347"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-sheet": {
+      "status": "inferred"
+    }
+  }
+}

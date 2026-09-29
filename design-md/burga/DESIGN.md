@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Burga
-description: A confident accessories brand that wraps everyday tech in saturated color blocks and a glossy, almost lacquered finish — #f8494a (a high-voltage coral-red) is the primary voltage that punches through a system built on #f5f5f5 canvases and #111111 ink. The brand’s visual signature is the contrast between hard, protective cases and soft, almost playful color stories: #ffcf2a marigold accents, #009758 emerald badges, and #be4dc4 orchid highlights appear as surprise hits against a predominantly neutral base of #888888 muted text and #e5e5e5 hairlines. Typography runs Diatype, a geometric sans with a slight humanist warmth, set at moderate weights — display headlines sit at 24–32px in weight 500, trusting the color blocks and product photography to carry energy rather than heavy type. Product cards use {rounded.md} corners that feel protective without being bulky, while CTAs use {rounded.sm} with a full-height fill that reads as decisive. The nav bar anchors at 64px with a translucent scrim effect (#111111 at 90% opacity on scroll), and the cart icon badge uses {rounded.full} in #f8494a to signal count. The overall mood is urban, glossy, and slightly rebellious — a phone case as a fashion accessory, not a utility item.
+name: "Burga"
+source_url: "https://www.burga.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A confident accessories brand that wraps everyday tech in saturated color blocks and a glossy, almost lacquered finish — #f8494a (a high-voltage coral-red) is the primary voltage that punches through a system built on #f5f5f5 canvases and #111111 ink. The brand’s visual signature is the contrast between hard, protective cases and soft, almost playful color stories: #ffcf2a marigold accents, #009758 emerald badges, and #be4dc4 orchid highlights appear as surprise hits against a predominantly neutral base of #888888 muted text and #e5e5e5 hairlines. Typography runs Diatype, a geometric sans with a slight humanist warmth, set at moderate weights — display headlines sit at 24–32px in weight 500, trusting the color blocks and product photography to carry energy rather than heavy type. Product cards use {rounded.md} corners that feel protective without being bulky, while CTAs use {rounded.sm} with a full-height fill that reads as decisive. The nav bar anchors at 64px with a translucent scrim effect (#111111 at 90% opacity on scroll), and the cart icon badge uses {rounded.full} in #f8494a to signal count. The overall mood is urban, glossy, and slightly rebellious — a phone case as a fashion accessory, not a utility item.
 
 colors:
   primary: "#f8494a"
@@ -432,6 +436,8 @@ components:
 - **Wide (> 1440px)**: Content max-width at 1440px; margins increase proportionally
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states**: Extracted only active/resting colors for buttons and links. Hover transitions (ease, duration) were not reliably captured from the live site. Assumed 200ms ease-in-out for all interactive elements.
 - **Error styling**: Form error states (border color, helper text color, icon) were not extracted. Assumed {colors.primary} for error borders and {colors.primary} for error text, consistent with the brand's accent-driven approach.

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: AMVR
-description: A VR-accessory brand that wraps its hardware in a dark, almost automotive palette — #1f2021 and #141414 dominate the canvas, not white, giving the storefront the feel of a cockpit interior rather than a consumer-gadget shop. The single voltage is #44b5ed, a cyan-blue accent that appears on add-to-cart buttons, hover states, and the glowing ring around product photography, reading as the LED of a headset powering on. Type runs Inter at 400/600 weight for body and Sora at 600 for display headlines, with Space Grotesk appearing in badge and price contexts for a slightly more technical, monolinear feel. Product cards use {rounded.md} corners on a #222222 surface, with a hairline border at #383838 that barely separates card from canvas — the brand trusts darkness and density over whitespace. The top nav is a fixed bar at #1f2021 with a search icon and cart badge, and the hero section pushes a single hero product against a gradient from #141414 to #1f2021, with the cyan CTA floating at {rounded.full}. Badges for "NEW" and "SALE" appear in #ec0101 and #ffc23d respectively, creating two additional signal colors that break the dark field with urgency. The overall effect is a brand that sells accessories for a device you wear on your face, and the site itself feels like the inside of that device: dark, precise, lit by a single bright indicator.
+name: "AMVR"
+source_url: "https://amvrshop.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A VR-accessory brand that wraps its hardware in a dark, almost automotive palette — #1f2021 and #141414 dominate the canvas, not white, giving the storefront the feel of a cockpit interior rather than a consumer-gadget shop. The single voltage is #44b5ed, a cyan-blue accent that appears on add-to-cart buttons, hover states, and the glowing ring around product photography, reading as the LED of a headset powering on. Type runs Inter at 400/600 weight for body and Sora at 600 for display headlines, with Space Grotesk appearing in badge and price contexts for a slightly more technical, monolinear feel. Product cards use {rounded.md} corners on a #222222 surface, with a hairline border at #383838 that barely separates card from canvas — the brand trusts darkness and density over whitespace. The top nav is a fixed bar at #1f2021 with a search icon and cart badge, and the hero section pushes a single hero product against a gradient from #141414 to #1f2021, with the cyan CTA floating at {rounded.full}. Badges for "NEW" and "SALE" appear in #ec0101 and #ffc23d respectively, creating two additional signal colors that break the dark field with urgency. The overall effect is a brand that sells accessories for a device you wear on your face, and the site itself feels like the inside of that device: dark, precise, lit by a single bright indicator.
 
 colors:
   primary: "#44b5ed"
@@ -290,6 +294,8 @@ components:
 - Search transforms from an inline icon to a full-screen overlay with a text input.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states** for ghost buttons, text inputs, and footer links are inferred from brand patterns but not extracted from the live site.
 - **Error and success states** for forms (red/green borders, error messages) are not extracted — the error hex (#eb001b) and success hex (#428445) are present in the color list but their usage context is unconfirmed.

@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Otiumberg
-description: >-
+name: "Otiumberg"
+source_url: "https://www.otiumberg.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Two typefaces split the work cleanly: Saol Display, a high-contrast editorial serif, owns the emotive moments — hero headers, lookbook captions, category openers — while Styrene A Web, a mid-century geometric grotesque, handles every transactional surface from navigation to price display and CTAs. This pairing is the structural core of Otiumberg's visual system; neither face bleeds into the other's territory. The full extracted palette spans #121212 to #dedede without a single warm note — an achromatic sequence that functions as purposeful substrate, engineered to disappear behind photographs of yellow gold hoops and oxidized silver stacks. Primary calls-to-action render on near-black (#191919) rather than a conventional brand accent, which signals that Otiumberg treats its UI as a recessive frame rather than a graphic statement. Whitespace does heavy lifting: the {spacing.section} rhythm between blocks is generous, and product grids breathe with visible gaps. Card corners sit at {rounded.none}, reinforcing the flat-plan, editorial-magazine feel; {rounded.full} is reserved for the occasional filter chip or pill tag. Navigation is stripped to essentials — wordmark, minimal category links, bag icon — with no megamenu complexity; the brand's curated catalog makes this restraint legible rather than sparse. Typography hierarchy compresses at the label level: caption text runs at 12px to stay subordinate to product imagery, but display text can climb to 52px in Saol Display for campaign heroes, where the serif's thick-thin stroke contrast carries luxury provenance. The London positioning shows not in flourishes but in their absence — no illustrated icons, no lifestyle color-blocking, no badge clusters. Form inputs carry a hairline border in #dedede that fades near-invisible on the white canvas, keeping the checkout experience unobtrusive.
 
 colors:
@@ -317,6 +320,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No warm or gold accent color was extracted — Otiumberg may use a champagne, parchment, or warm cream tone for editorial hero and lookbook backgrounds that did not surface in the CSS pass
 - `surface-soft` (#f5f5f5) is interpolated from the white canvas and #dedede hairline range; not directly extracted from the site

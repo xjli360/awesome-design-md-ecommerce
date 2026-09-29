@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Tonal
-description: A deep, obsidian canvas (#1c1c1a) sets the stage for Tonal, a fitness brand that treats the home gym as a precision instrument rather than a rubber-floored afterthought. The signature voltage is a dusty coral (#ff7373) — not a high-energy neon or a clinical red, but a warm, slightly desaturated pulse that appears on primary CTAs, progress indicators, and the glowing ring around the machine's arms. This is a brand that trusts darkness: the entire interface lives on near-black backgrounds, with body copy in soft creams (#dcc8b2) and muted taupes (#7f6454, #c3b7a7) that feel like gym chalk on slate. Accents of deep plum (#4e2b3e), sage (#4c6156), and teal (#70eadd) surface in workout illustrations, badge treatments, and data-visualization strokes — a restrained palette that never screams. Typography runs GT America across the system, set at moderate weights (400–500 for body, 600–700 for display) with generous line height to breathe against the dark canvas. Buttons carry {rounded.sm} corners and the coral fill, while the machine's interface uses {rounded.md} for modal sheets and {rounded.full} for the circular progress rings that track rep counts. The brand's design language is one of focused intensity: no stock photography of smiling models, only dramatic product shots of the machine against dark gradients, with motion blur on the cables to suggest kinetic energy. Every surface — from the {spacing.section} gutters to the {spacing.xxl} padding around workout cards — is calculated to feel like a cockpit, not a living room.
+name: "Tonal"
+source_url: "https://www.tonal.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep, obsidian canvas (#1c1c1a) sets the stage for Tonal, a fitness brand that treats the home gym as a precision instrument rather than a rubber-floored afterthought. The signature voltage is a dusty coral (#ff7373) — not a high-energy neon or a clinical red, but a warm, slightly desaturated pulse that appears on primary CTAs, progress indicators, and the glowing ring around the machine's arms. This is a brand that trusts darkness: the entire interface lives on near-black backgrounds, with body copy in soft creams (#dcc8b2) and muted taupes (#7f6454, #c3b7a7) that feel like gym chalk on slate. Accents of deep plum (#4e2b3e), sage (#4c6156), and teal (#70eadd) surface in workout illustrations, badge treatments, and data-visualization strokes — a restrained palette that never screams. Typography runs GT America across the system, set at moderate weights (400–500 for body, 600–700 for display) with generous line height to breathe against the dark canvas. Buttons carry {rounded.sm} corners and the coral fill, while the machine's interface uses {rounded.md} for modal sheets and {rounded.full} for the circular progress rings that track rep counts. The brand's design language is one of focused intensity: no stock photography of smiling models, only dramatic product shots of the machine against dark gradients, with motion blur on the cables to suggest kinetic energy. Every surface — from the {spacing.section} gutters to the {spacing.xxl} padding around workout cards — is calculated to feel like a cockpit, not a living room.
 
 colors:
   primary: "#ff7373"
@@ -380,6 +384,8 @@ components:
 - Hero section reduces `{spacing.section}` to `{spacing.xl}` on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 - Hover and focus states for all components could not be fully extracted; primary-active and secondary-active states are inferred from common patterns
 - Error styling for forms (validation messages, error icons) not observed; `text-input-error` border color is an estimate based on the rust accent
 - Dark mode is already the default (canvas is #1c1c1a); no light mode variant was observed

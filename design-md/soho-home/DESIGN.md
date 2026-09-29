@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Soho Home
-description: |
+name: "Soho Home"
+source_url: "https://www.sohohome.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Dark charcoal (#313131) does the work that most brands assign to a signature hue — at Soho Home it functions simultaneously as ink, primary action color, and environmental mood, collapsing the distinction between text and brand into a single authoritative tone. The canvas stays warm-white rather than clinical, creating a gallery-wall contrast where oversized lifestyle photography dominates the viewport and UI elements recede to near-invisible rules and restrained type. Navigation runs in a slim uppercase sans-serif at modest tracking, lending the header the feel of a printed magazine masthead rather than a software toolbar. Product cards carry no visible border — they float on `{colors.canvas}` with generous `{spacing.xl}` gutters, relying on image aspect ratio and typographic hierarchy alone to define their boundaries. Buttons are squared-off rectangles (`{rounded.none}` to `{rounded.xs}`) filled solid in `{colors.primary}`, telegraphing the no-nonsense attitude of a members-club retail arm that assumes you already know what you want. Category landing pages lean on full-bleed hero images at near-cinematic aspect ratios, overlaid with display type in light weight against dark scrims — a layout grammar borrowed from editorial print that treats the browser window as a broadsheet spread. The spacing system breathes wide: section gaps reach 80–120px on desktop, and even mobile preserves 48px between content blocks, refusing to crowd furniture imagery into tight grids. Colour accents are almost absent; where other home brands reach for terracotta or sage to signal warmth, Soho Home trusts the photography to carry warmth and keeps the interface monochromatic — `{colors.muted}` for secondary text, `{colors.hairline}` for dividers, and nothing else competing with the product.
 
 colors:
@@ -334,6 +337,8 @@ components:
 - Search overlay remains full-screen at all breakpoints; result grid adapts column count
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Site returned a Cloudflare "Just a moment..." challenge page — no real page content, CSS custom properties, or JS-loaded tokens could be extracted
 - Only a single hex color (#313131) was captured; the full brand palette (warm neutrals, gold accent tones) is inferred from widely-known Soho House group design language and may not match current production values exactly

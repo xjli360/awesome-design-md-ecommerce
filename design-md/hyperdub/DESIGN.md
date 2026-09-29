@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Hyperdub
-description: Four near-identical near-blacks — #121212, #141414, #151515 — layer the site the way sub-bass frequencies layer in a Burial record: barely perceptible separation, total tonal unity. Hyperdub's shop arrives stripped of decorative color; the extracted palette yields only grays (#787878, #dedede) and those near-blacks, a chromatic vocabulary so restrained that record sleeve art becomes the sole pigment event on any given page. Arial and Helvetica handle all type with zero affectation — no custom wordmarks, no expressive display cuts, no weight modulation for drama. The result mirrors the label's sound philosophy: Steve Goodman founded Hyperdub in 2004 around music that privileges negative space and low-end pressure over surface flourish. Navigation sits flat and unadorned; product cards hold release artwork in strict square format against the dark surface-card (#151515), with artist name and catalogue number in muted mid-gray (#787878) below, price in body-off-white (#dedede). Buttons invert the canvas logic — white fill on near-black, rendered at `{rounded.none}` — hard corners signal the industrial rather than the friendly. Text inputs follow the same flat geometry, borderlined in hairline-gray against the dark field. The spacing system breathes conservatively; section breaks happen through whitespace alone, not rules or dividers, echoing how dub production treats silence as structural material rather than gap. Release dates, catalogue numbers, and FLAC/MP3 format tags carry in caption-weight type at 10–11px — the metadata layer that the collector demographic reads first. Every component is subordinate to the record artwork: no rounded pill crops, no gradient overlays, full-bleed square at the top of the card, uninterrupted.
+name: "Hyperdub"
+source_url: "https://www.hyperdub.net"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Four near-identical near-blacks — #121212, #141414, #151515 — layer the site the way sub-bass frequencies layer in a Burial record: barely perceptible separation, total tonal unity. Hyperdub's shop arrives stripped of decorative color; the extracted palette yields only grays (#787878, #dedede) and those near-blacks, a chromatic vocabulary so restrained that record sleeve art becomes the sole pigment event on any given page. Arial and Helvetica handle all type with zero affectation — no custom wordmarks, no expressive display cuts, no weight modulation for drama. The result mirrors the label's sound philosophy: Steve Goodman founded Hyperdub in 2004 around music that privileges negative space and low-end pressure over surface flourish. Navigation sits flat and unadorned; product cards hold release artwork in strict square format against the dark surface-card (#151515), with artist name and catalogue number in muted mid-gray (#787878) below, price in body-off-white (#dedede). Buttons invert the canvas logic — white fill on near-black, rendered at `{rounded.none}` — hard corners signal the industrial rather than the friendly. Text inputs follow the same flat geometry, borderlined in hairline-gray against the dark field. The spacing system breathes conservatively; section breaks happen through whitespace alone, not rules or dividers, echoing how dub production treats silence as structural material rather than gap. Release dates, catalogue numbers, and FLAC/MP3 format tags carry in caption-weight type at 10–11px — the metadata layer that the collector demographic reads first. Every component is subordinate to the record artwork: no rounded pill crops, no gradient overlays, full-bleed square at the top of the card, uninterrupted.
 
 colors:
   primary: "#ffffff"
@@ -314,6 +318,8 @@ components:
 - Tracklist track numbers: hidden on mobile viewports below 375px to recover horizontal space for track name
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom brand typeface detected — site appears to use system Arial/Helvetica/Calibri throughout; if Hyperdub employs a custom display cut for editorial headlines or hero text, it was not extractable from the live session
 - Pure white (#ffffff) is not present in the extracted palette but is inferred as the highest-contrast text/button fill for this dark-theme context; if the site uses a slightly off-white instead, that value was not captured

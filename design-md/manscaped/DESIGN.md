@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Manscaped
-description: A dark, direct-to-consumer men's grooming brand built on a near-black ink (#313131) that reads as industrial confidence rather than corporate gray, paired with a stark white canvas that lets product photography and instructional illustration carry the selling story. The brand's single extracted hex — a deep charcoal — suggests a system that trusts contrast over color: white text on dark backgrounds for headlines, black text on white for body copy, and no secondary accent color visible in the extracted palette. Typography runs the Apple system stack at modest weights, with display sizes likely landing in the 20–28px range at weight 500–600, avoiding the gym-bro boldness one might expect from a grooming brand aimed at men. Navigation reads as utilitarian and transactional: a sticky top bar with logo left, utility icons right, and a search field that collapses on mobile. Product cards use generous whitespace, soft rounded corners ({rounded.md} ~12px), and a single CTA button that lives in the dark ink — no gradient, no glow, no gimmick. The checkout flow, while not fully extracted, likely mirrors the same high-contrast, low-color approach: dark buttons on white, thin hairlines for dividers, and a focus on trust signals (secure checkout badges, money-back guarantees) over decorative flourish. This is a brand that sells razors and trimmers with the visual language of a tool company, not a skincare line.
+name: "Manscaped"
+source_url: "https://manscaped.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A dark, direct-to-consumer men's grooming brand built on a near-black ink (#313131) that reads as industrial confidence rather than corporate gray, paired with a stark white canvas that lets product photography and instructional illustration carry the selling story. The brand's single extracted hex — a deep charcoal — suggests a system that trusts contrast over color: white text on dark backgrounds for headlines, black text on white for body copy, and no secondary accent color visible in the extracted palette. Typography runs the Apple system stack at modest weights, with display sizes likely landing in the 20–28px range at weight 500–600, avoiding the gym-bro boldness one might expect from a grooming brand aimed at men. Navigation reads as utilitarian and transactional: a sticky top bar with logo left, utility icons right, and a search field that collapses on mobile. Product cards use generous whitespace, soft rounded corners ({rounded.md} ~12px), and a single CTA button that lives in the dark ink — no gradient, no glow, no gimmick. The checkout flow, while not fully extracted, likely mirrors the same high-contrast, low-color approach: dark buttons on white, thin hairlines for dividers, and a focus on trust signals (secure checkout badges, money-back guarantees) over decorative flourish. This is a brand that sells razors and trimmers with the visual language of a tool company, not a skincare line.
 
 colors:
   primary: "#313131"
@@ -421,6 +425,8 @@ components:
 - Multi-step checkout collapses to single-page scroll on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one hex color (#313131) was reliably extracted from the live site; the full brand palette (secondary accents, gradients, hover states) could not be determined. The colors block above includes inferred values (success, warning, error, badge colors) based on common e-commerce patterns, not extracted data.
 - No font-family declarations beyond the Apple system stack were found; the brand may use a custom typeface (e.g., a bespoke sans-serif) that is loaded via JavaScript or a CDN not captured in the extraction.

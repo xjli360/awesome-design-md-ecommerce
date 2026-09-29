@@ -1,0 +1,899 @@
+{
+  "source_url": "https://theragcompany.com",
+  "final_url": "https://theragcompany.com/",
+  "captured_at": "2026-09-29T04:04:01.085565+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://theragcompany.com",
+      "final_url": "https://theragcompany.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "ba67d3ec88361bd786d83102c9c7363ce368a63e88d3ce08f6a8d0baca8be808",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570",
+      "final_url": "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2579fbb395325e0a2850d859ce81278c82688a9fe561dd692f19c273c0d284c2",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570",
+      "final_url": "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9e4c0d34b7c1830163c98758d3c89f0f6b97450b4de853b7ad1ae3302da22985",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://theragcompany.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://theragcompany.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://theragcompany.com/cdn/shop/t/112/assets/section-announcement-bar.css?v=28610319943355220661785946570",
+      "final_url": "https://theragcompany.com/cdn/shop/t/112/assets/section-announcement-bar.css?v=28610319943355220661785946570",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "09ef85ced25f3b6d7726c816bfb4ccd05a141a15c63487ac19c7eada276bf1ab",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://theragcompany.com/cdn/shop/t/112/assets/component-header.css?v=144026868086603179591785946570",
+      "final_url": "https://theragcompany.com/cdn/shop/t/112/assets/component-header.css?v=144026868086603179591785946570",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c0bdcf3e16e63ac130d4b2d37482b6150649a4d174824f5662251ce3a833612c",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 92,
+      "sources": [
+        "https://theragcompany.com/",
+        "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570",
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570",
+        "https://theragcompany.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#000000": {
+      "count": 40,
+      "sources": [
+        "https://theragcompany.com/",
+        "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570",
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+      ]
+    },
+    "#0d0d0d": {
+      "count": 40,
+      "sources": [
+        "https://theragcompany.com/",
+        "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570",
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+      ]
+    },
+    "#212121": {
+      "count": 20,
+      "sources": [
+        "https://theragcompany.com/",
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+      ]
+    },
+    "#0d0d0d33": {
+      "count": 12,
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+      ]
+    },
+    "#ffffff33": {
+      "count": 11,
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+      ]
+    },
+    "#00abe0": {
+      "count": 8,
+      "sources": [
+        "https://theragcompany.com/"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 7,
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570"
+      ]
+    },
+    "#0d0d0d8c": {
+      "count": 6,
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+      ]
+    },
+    "#e4e4e4": {
+      "count": 5,
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570"
+      ]
+    },
+    "#ffffff8c": {
+      "count": 5,
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+      ]
+    },
+    "#0d0d0d0d": {
+      "count": 4,
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 3,
+      "sources": [
+        "https://theragcompany.com/"
+      ]
+    },
+    "#272d45": {
+      "count": 3,
+      "sources": [
+        "https://theragcompany.com/"
+      ]
+    },
+    "#d12328": {
+      "count": 3,
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570",
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+      ]
+    },
+    "#0d0d0db3": {
+      "count": 3,
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+      ]
+    },
+    "#ffffff1f": {
+      "count": 3,
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+      ]
+    },
+    "#c00000": {
+      "count": 2,
+      "sources": [
+        "https://theragcompany.com/"
+      ]
+    },
+    "#9a9db1": {
+      "count": 2,
+      "sources": [
+        "https://theragcompany.com/"
+      ]
+    },
+    "#131313": {
+      "count": 2,
+      "sources": [
+        "https://theragcompany.com/"
+      ]
+    },
+    "#00964d": {
+      "count": 2,
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570"
+      ]
+    },
+    "#848484": {
+      "count": 2,
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570"
+      ]
+    },
+    "#222222": {
+      "count": 2,
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570",
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+      ]
+    },
+    "#0b0b0b66": {
+      "count": 2,
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570"
+      ]
+    },
+    "#ffffffcc": {
+      "count": 2,
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+      ]
+    },
+    "#028e48": {
+      "count": 2,
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://theragcompany.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://theragcompany.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/"
+      ]
+    },
+    "#4d4d4d": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/"
+      ]
+    },
+    "#8b8b8b": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/"
+      ]
+    },
+    "#4a9f53": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/"
+      ]
+    },
+    "#ce2052": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/"
+      ]
+    },
+    "#676986": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/"
+      ]
+    },
+    "#f4f4f6": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/"
+      ]
+    },
+    "#f7f7f8": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/"
+      ]
+    },
+    "#d3d4dd": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/"
+      ]
+    },
+    "#0e7a82": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/"
+      ]
+    },
+    "#9fcacd": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/"
+      ]
+    },
+    "#00c3ff": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/"
+      ]
+    },
+    "#00b3ff": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/"
+      ]
+    },
+    "#0aeaed": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/"
+      ]
+    },
+    "#fa0dfd": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/"
+      ]
+    },
+    "#ffff00": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570"
+      ]
+    },
+    "#c4c4c4": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570"
+      ]
+    },
+    "#666666": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570"
+      ]
+    },
+    "#ff7f15": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+      ]
+    },
+    "#0000001a": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+      ]
+    },
+    "#ffffffb3": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+      ]
+    },
+    "#0d0d0dcc": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+      ]
+    },
+    "#ffffff80": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+      ]
+    },
+    "#ffebe8": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+      ]
+    },
+    "#00730b": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+      ]
+    },
+    "#dd2200": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+      ]
+    },
+    "#ffffff99": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+      ]
+    },
+    "#ffffff66": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+      ]
+    },
+    "#ffffff1a": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+      ]
+    },
+    "#999999": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://theragcompany.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+    ],
+    "Apple Color Emoji": [
+      "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+    ],
+    "Arial": [
+      "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+    ],
+    "Helvetica": [
+      "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+    ],
+    "Montserrat": [
+      "https://theragcompany.com/"
+    ],
+    "Segoe UI Emoji": [
+      "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+    ],
+    "Times": [
+      "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+    ],
+    "blinkmacsystemfont": [
+      "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+    ],
+    "monospace": [
+      "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570"
+    ],
+    "oke-widget-icons": [
+      "https://theragcompany.com/"
+    ],
+    "oke-widget-icons!important": [
+      "https://theragcompany.com/"
+    ],
+    "sans-serif": [
+      "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570",
+      "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570",
+      "https://theragcompany.com/cdn/shop/t/112/assets/component-header.css?v=144026868086603179591785946570"
+    ],
+    "segoe UI": [
+      "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://theragcompany.com/",
+      "selector": ".okeReviews[data-oke-container] button,div.okeReviews button",
+      "declarations": "border-radius:0;border:0;box-shadow:none;margin:0;width:auto;min-width:auto;padding:0;background-color:transparent;min-height:auto"
+    },
+    {
+      "source": "https://theragcompany.com/",
+      "selector": "views[data-oke-container] input,.okeReviews[data-oke-container] select,.okeReviews[data-oke-container] textarea,div.okeReviews button,div.okeReviews input,div.o",
+      "declarations": "font-family:inherit;font-size:1em"
+    },
+    {
+      "source": "https://theragcompany.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button,div.okeReviews .oke-button",
+      "declarations": "display:inline-block;border-style:solid;border-color:var(--oke-button-borderColor);border-width:var(--oke-button-borderWidth);background-color:var(--oke-button-backgroundColor);line-height:1;padding:12px 24px;margin:0;border-radius:var(--oke-button-borderRadius);color:var(--oke-button-textColor);text-align:center;position:relative;font-weight:var(--oke-button-fontWeight);font-size:var(--oke-button-fontSize);font-family:var(--oke-button-fontFamily);outline:0"
+    },
+    {
+      "source": "https://theragcompany.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button.oke-is-loading:before,div.okeReviews .oke-button.oke-is-loading:before",
+      "declarations": "font-family:oke-widget-icons!important;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;content:\"\";color:undefined;font-size:12px;display:inline-block;animation:oke-spin 1s linear infinite;position:absolute;width:12px;height:12px;top:0;left:0;bottom:0;right:0;margin:auto"
+    },
+    {
+      "source": "https://theragcompany.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button.oke-is-active,div.okeReviews .oke-button.oke-is-active",
+      "declarations": "background-color:var(--oke-button-backgroundColorActive);color:var(--oke-button-textColorActive);border-color:var(--oke-button-borderColorActive)"
+    },
+    {
+      "source": "https://theragcompany.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button:not(.oke-is-loading):not(.oke-is-active):hover,div.okeReviews .oke-button:not(.oke-is-loading):not(.oke-is-active):h",
+      "declarations": "background-color:var(--oke-button-backgroundColorHover);color:var(--oke-button-textColorHover);border-color:var(--oke-button-borderColorHover);box-shadow:0 0 0 2px var(--oke-button-backgroundColorHover)"
+    },
+    {
+      "source": "https://theragcompany.com/",
+      "selector": "is-loading):not(.oke-is-active):hover:active,div.okeReviews .oke-button:not(.oke-is-loading):not(.oke-is-active):active,div.okeReviews .oke-button:not(.oke-is-l",
+      "declarations": "background-color:var(--oke-button-backgroundColorActive);color:var(--oke-button-textColorActive);border-color:var(--oke-button-borderColorActive)"
+    },
+    {
+      "source": "https://theragcompany.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-bodyText,div.okeReviews .oke-bodyText",
+      "declarations": "font-weight:var(--oke-bodyText-fontWeight);font-size:var(--oke-bodyText-fontSize);font-family:var(--oke-bodyText-fontFamily)"
+    },
+    {
+      "source": "https://theragcompany.com/",
+      "selector": "views[data-oke-container] .oke-modal .oke-reviewContent-date,div.okeReviews .oke-modal .oke-helpful,div.okeReviews .oke-modal .oke-helpful-vote-button,div.okeRe",
+      "declarations": "color:#676986"
+    },
+    {
+      "source": "https://theragcompany.com/",
+      "selector": ":root",
+      "declarations": "--oke-widget-spaceAbove:20px;--oke-widget-spaceBelow:20px;--oke-starRating-spaceAbove:0;--oke-starRating-spaceBelow:0;--oke-button-backgroundColor:#000;--oke-button-backgroundColorHover:#00abe0;--oke-button-backgroundColorActive:#00abe0;--oke-button-textColor:#fff;--oke-button-textColorHover:#fff;--oke-button-textColorActive:#fff;--oke-button-borderColor:#000;--oke-button-borderColorHover:#00abe0;--oke-button-borderColorActive:#00abe0;--oke-button-borderRadius:0;--oke-button-borderWidth:1px;--oke-button-fontWeight:700;--oke-button-fontSize:var(--oke-text-regular,14px);--oke-button-fontFamily:inherit;--oke-border-color:#000;--oke-border-width:.1px;--oke-text-primaryColor:#212121;--oke-text-se"
+    },
+    {
+      "source": "https://theragcompany.com/",
+      "selector": ",div.okeReviews[data-oke-container] .oke-modal .oke-helpful,div.okeReviews[data-oke-container] .oke-modal .oke-helpful-vote-button,div.okeReviews[data-oke-conta",
+      "declarations": "color:var(--oke-text-primaryColor)"
+    },
+    {
+      "source": "https://theragcompany.com/",
+      "selector": "--logo-size: 105px;\n    --logo-size-mobile: 100px;\n    --logo-spacing: 5;\n    --logo-spacing-mobile: 11;\n  \n\n    :root",
+      "declarations": "--header-is-sticky:0;\n      \n      --header-bg-color: #000000;\n      --header-bg-color-darker: #000000;\n      --header-text-color: #ffffff;\n      --header-text-color-light: rgba(255, 255, 255, 0.7);\n      --header-text-color-lighter: rgba(255, 255, 255, 0.5);\n      --header-text-color-lightest: rgba(255, 255, 255, 0.1);\n      --header-text-color-bg: rgba(255, 255, 255, 0.01);\n      --header-transparent-text-color: #ffffff;\n      --header-transparent-text-color-light: rgba(255, 255, 255, 0.3);\n      --header-text-contrast-color: #000;\n      --header-transparent-text-contrast-color: #000;"
+    },
+    {
+      "source": "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:sans-serif;font-size:100%;line-height:1.15;margin:0"
+    },
+    {
+      "source": "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570",
+      "selector": ".f-family--body",
+      "declarations": "font-family:var(--font--body);font-weight:var(--font--body-weight);font-style:var(--font--body-style);letter-spacing:normal"
+    },
+    {
+      "source": "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570",
+      "selector": ".o-ratio--bg-product",
+      "declarations": "background-color:var(--color--product-bg)"
+    },
+    {
+      "source": "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570",
+      "selector": ".skeleton-button",
+      "declarations": "display:inline-block;vertical-align:middle;text-align:center;width:100%;margin:0;height:auto;line-height:30px;padding:9px 30px;background-color:var(--color--text-lightest);opacity:.5;animation:skeleton-bounce 2s ease-in-out infinite;border-radius:.5em"
+    },
+    {
+      "source": "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570",
+      "selector": "html,body",
+      "declarations": "font-family:var(--font--body);font-weight:var(--font--body-weight);font-style:var(--font--body-style)"
+    },
+    {
+      "source": "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570",
+      "selector": "body",
+      "declarations": "position:relative;background:var(--color--bg);color:var(--color--text)"
+    },
+    {
+      "source": "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570",
+      "selector": "h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6",
+      "declarations": "color:var(--color--headings);font-family:var(--font--title);font-weight:var(--font--title-weight);font-style:var(--font--title-style);letter-spacing:var(--font--title-space);text-transform:var(--font--title-transform)"
+    },
+    {
+      "source": "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570",
+      "selector": ".c-btn,.btn",
+      "declarations": "position:relative;display:inline-flex;align-items:center;justify-content:center;font:inherit;text-align:center;margin:0;cursor:pointer;font-family:var(--font--button);letter-spacing:var(--font--button-space);text-transform:var(--font--button-transform);transition:opacity .2s ease-in-out;color:var(--color--btn);font-size:calc(var(--font--button-size) / var(--font--size-base) * 1rem);font-weight:var(--font--button-weight);font-style:var(--font--button-style);height:auto;line-height:30px;padding:9px 30px;min-width:84px;border:0 none;border-radius:0;-webkit-transition:all .2s ease-out;-moz-transition:all .2s ease-out;transition:all .2s ease-out"
+    },
+    {
+      "source": "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570",
+      "selector": ".c-btn--grey,.c-btn--dark,.btn",
+      "declarations": "background-color:var(--button-background-color, #222);color:var(--button-color, rgb(255, 255, 255))"
+    },
+    {
+      "source": "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570",
+      "selector": ".c-btn--grey:hover,.c-btn--grey:focus,.c-btn--dark:hover,.c-btn--dark:focus,.btn:hover,.btn:focus",
+      "declarations": "background-color:var(--button-hover-background-color, rgb(13, 13, 13))"
+    },
+    {
+      "source": "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570",
+      "selector": "quantity-input input[type=number],quantity-input button",
+      "declarations": "text-align:center;border:0;margin:0;padding:0;color:var(--color--text);position:relative;display:inline-block;line-height:1;font-size:.9rem;height:2rem;width:2rem;touch-action:manipulation"
+    },
+    {
+      "source": "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570",
+      "selector": ".rte h1,.rte h2,.rte h3,.rte h4,.rte h5,.rte h6",
+      "declarations": "color:inherit;margin-top:1rem"
+    },
+    {
+      "source": "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570",
+      "selector": ".v-controlButton",
+      "declarations": "align-items:center;-webkit-appearance:none;-moz-appearance:none;appearance:none;background:none;border:none;color:inherit;cursor:pointer;display:flex;font-family:inherit;font-size:inherit;height:100%;justify-content:center;opacity:var(--vlite-controlsOpacity);outline:none;padding:0;transition:opacity var(--vlite-transition);width:40px"
+    },
+    {
+      "source": "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570",
+      "selector": ".product-card--mini",
+      "declarations": "display:grid;position:relative;grid-template-columns:minmax(70px,3fr) 7fr;padding:18px;gap:18px;align-items:start;overflow:visible;margin:12px 0;border-radius:6px;background-color:var(--color--bg);transition:box-shadow .2s ease-in-out"
+    },
+    {
+      "source": "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570",
+      "selector": ".product-card--mini .product-card-btn .link",
+      "declarations": "display:inline-flex;align-items:center;background-color:transparent;border:0 none;margin:1em 1em 0 0;padding:0;letter-spacing:initial;font-size:1rem;font-family:var(--font--body);font-weight:var(--font--body-weight);font-style:var(--font--body-style);text-transform:none;cursor:pointer"
+    },
+    {
+      "source": "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570",
+      "selector": ".product-card--mini .product-card-btn .staged-action__spinner .theme-spinner__border",
+      "declarations": "border-color:var(--color--text) transparent transparent transparent"
+    },
+    {
+      "source": "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570",
+      "selector": ".product-card__vendor",
+      "declarations": "display:block;font-family:var(--font--body);font-weight:var(--font--body-weight);font-style:var(--font--body-style);text-transform:none;letter-spacing:0;color:var(--color--text-lighter);margin-bottom:6px"
+    },
+    {
+      "source": "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570",
+      "selector": ".product-card .price,.product-single .product-card .price,quick-shop .price",
+      "declarations": "font-family:var(--font--body);color:var(--color--text);margin:6px 0 0;line-height:1;word-break:break-all"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "The Rag Company | Premium Microfiber and Car Detailing Supplies",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theragcompany.com/",
+        "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570",
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theragcompany.com/",
+        "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570",
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theragcompany.com/",
+        "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570",
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570",
+        "https://theragcompany.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theragcompany.com/",
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theragcompany.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theragcompany.com/",
+        "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570",
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570",
+        "https://theragcompany.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theragcompany.com/",
+        "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570",
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570",
+        "https://theragcompany.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theragcompany.com/"
+      ]
+    },
+    "colors.accent-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theragcompany.com/"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570",
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/base.css?v=169544544746519049141785946570"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theragcompany.com/",
+        "https://theragcompany.com/cdn/shop/t/112/assets/global.css?v=96298279911361565121785946570"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.mega-nav-panel": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.free-shipping-banner": {
+      "status": "inferred"
+    }
+  }
+}

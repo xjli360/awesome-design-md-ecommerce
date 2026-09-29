@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Coffee House Press
-description: A literary publisher whose identity is built on the warmth of a deep, roasted brown — `#77471f` — a color that reads as book-cloth, coffee stain, and library shelf all at once. The palette is grounded in earthy browns (`#40220a`, `#3e220c`, `#855935`) and softened by a dusty rose (`#9a6372`) and a pale stone (`#d6c8bc`), creating a mood that is serious but not severe, literary but not academic. The canvas is a clean `#f7f7f7` rather than pure white, lending a slightly tactile, paper-like quality to the background. Typography leans on a single, readable sans-serif stack, with display sizes kept modest — the brand trusts its words and the space around them over typographic spectacle. Navigation is minimal: a simple left-aligned logo, a compact menu, and a search icon. The site structure prioritizes books and authors, with generous vertical spacing (`{spacing.section}`) between content blocks and soft card containers (`{rounded.sm}`) for book covers and author photos. There are no hard corners on interactive elements — buttons and inputs use `{rounded.sm}` — but the overall feel is restrained and editorial, not playful. The extracted palette includes a range of grays (`#616161`, `#5d5d5d`, `#424242`) that serve as text and border colors, maintaining readability without harsh contrast. The brand's voice is one of quiet authority: it does not shout, but it is unmistakably present.
+name: "Coffee House Press"
+source_url: "https://www.coffeehousepress.org"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A literary publisher whose identity is built on the warmth of a deep, roasted brown — `#77471f` — a color that reads as book-cloth, coffee stain, and library shelf all at once. The palette is grounded in earthy browns (`#40220a`, `#3e220c`, `#855935`) and softened by a dusty rose (`#9a6372`) and a pale stone (`#d6c8bc`), creating a mood that is serious but not severe, literary but not academic. The canvas is a clean `#f7f7f7` rather than pure white, lending a slightly tactile, paper-like quality to the background. Typography leans on a single, readable sans-serif stack, with display sizes kept modest — the brand trusts its words and the space around them over typographic spectacle. Navigation is minimal: a simple left-aligned logo, a compact menu, and a search icon. The site structure prioritizes books and authors, with generous vertical spacing (`{spacing.section}`) between content blocks and soft card containers (`{rounded.sm}`) for book covers and author photos. There are no hard corners on interactive elements — buttons and inputs use `{rounded.sm}` — but the overall feel is restrained and editorial, not playful. The extracted palette includes a range of grays (`#616161`, `#5d5d5d`, `#424242`) that serve as text and border colors, maintaining readability without harsh contrast. The brand's voice is one of quiet authority: it does not shout, but it is unmistakably present.
 
 colors:
   primary: "#77471f"
@@ -283,6 +287,8 @@ components:
 - Footer links collapse from inline to stacked on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No font-family declarations were found on the live site; the typography block uses a generic sans-serif stack (`'Helvetica Neue', Helvetica, Arial, sans-serif`) as a best-guess fallback. The actual brand font may differ.
 - Hover and focus states for most components (beyond buttons) could not be reliably extracted from the live site CSS.

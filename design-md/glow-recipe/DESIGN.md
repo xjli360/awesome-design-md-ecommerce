@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Glow Recipe
-description: Glow Recipe is a fruit-powered skincare brand that feels like a farmer's market for your face—vibrant, juicy, and unapologetically playful. The palette is anchored by a soft, airy canvas of `#f4f4f6` and `#e5e5e5`, with pops of electric energy from `#992ae3` (a bold purple) and `#ffcf2a` (a sunny yellow), evoking the brand's signature watermelon, blueberry, and avocado ingredients. Deep navy `#272d45` and `#2c3e50` provide grounding contrast, while teal accents like `#0e7a82` and `#1990c6` hint at hydration and dewiness. The typography leans on Josefin Sans, a geometric sans-serif with a touch of elegance, used at modest weights to keep the focus on product photography and ingredient storytelling. Rounded corners are generous—cards use `{rounded.lg}` (20px) and buttons use `{rounded.sm}` (8px)—creating a soft, approachable feel that mirrors the brand's "clinically effective, fruit-powered" ethos. The overall mood is fresh, optimistic, and slightly whimsical, with a clean grid that lets colorful product shots and playful badges (like "NEW" or "Best Seller") take center stage. Every design choice whispers "glow," from the muted `#d3d4dd` hairlines to the `#b2f9e9` accent that recalls a dewy finish.
+name: "Glow Recipe"
+source_url: "https://www.glowrecipe.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Glow Recipe is a fruit-powered skincare brand that feels like a farmer's market for your face—vibrant, juicy, and unapologetically playful. The palette is anchored by a soft, airy canvas of `#f4f4f6` and `#e5e5e5`, with pops of electric energy from `#992ae3` (a bold purple) and `#ffcf2a` (a sunny yellow), evoking the brand's signature watermelon, blueberry, and avocado ingredients. Deep navy `#272d45` and `#2c3e50` provide grounding contrast, while teal accents like `#0e7a82` and `#1990c6` hint at hydration and dewiness. The typography leans on Josefin Sans, a geometric sans-serif with a touch of elegance, used at modest weights to keep the focus on product photography and ingredient storytelling. Rounded corners are generous—cards use `{rounded.lg}` (20px) and buttons use `{rounded.sm}` (8px)—creating a soft, approachable feel that mirrors the brand's "clinically effective, fruit-powered" ethos. The overall mood is fresh, optimistic, and slightly whimsical, with a clean grid that lets colorful product shots and playful badges (like "NEW" or "Best Seller") take center stage. Every design choice whispers "glow," from the muted `#d3d4dd` hairlines to the `#b2f9e9` accent that recalls a dewy finish.
 
 colors:
   primary: "#992ae3"
@@ -327,6 +331,8 @@ components:
 - Product carousels switch from multi-item to single-item scroll on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for product cards (shadow, border, or overlay) were not reliably extracted from the live site.
 - Error styling for form inputs (red borders, error messages) is not defined; assume standard red (`#c13515`) for error text.

@@ -1,0 +1,731 @@
+{
+  "source_url": "https://stilllifeceramics.com",
+  "final_url": "https://www.stilllifeceramics.com/",
+  "captured_at": "2026-09-28T09:50:29.441511+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://stilllifeceramics.com",
+      "final_url": "https://www.stilllifeceramics.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "9912176fc4ba7460859c8b1416c345437fa2104c77fed23673308447fcc7f092",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817",
+      "final_url": "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e05c74d8fdbb9f6ffa40b9116d29ace9766cba6082f0520282825a2718645747",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/custom.css?v=55038404157056463381746823817",
+      "final_url": "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/custom.css?v=55038404157056463381746823817",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "893a1b078137608e7f841fc17de6919906d29e0c322e874cd6728c37ca342410",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.stilllifeceramics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.stilllifeceramics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.stilllifeceramics.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css",
+      "final_url": "https://www.stilllifeceramics.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "f5a3b49c83f59914b840ae0bfef1e853a859fa7630fd3517ed1b95a724a8bee4",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 48,
+      "sources": [
+        "https://www.stilllifeceramics.com/",
+        "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817",
+        "https://www.stilllifeceramics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.stilllifeceramics.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+      ]
+    },
+    "#00000033": {
+      "count": 31,
+      "sources": [
+        "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817"
+      ]
+    },
+    "#3a3a3a": {
+      "count": 14,
+      "sources": [
+        "https://www.stilllifeceramics.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+      ]
+    },
+    "#363636": {
+      "count": 5,
+      "sources": [
+        "https://www.stilllifeceramics.com/"
+      ]
+    },
+    "#000000": {
+      "count": 5,
+      "sources": [
+        "https://www.stilllifeceramics.com/",
+        "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817",
+        "https://www.stilllifeceramics.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+      ]
+    },
+    "#747f6b": {
+      "count": 4,
+      "sources": [
+        "https://www.stilllifeceramics.com/"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 4,
+      "sources": [
+        "https://www.stilllifeceramics.com/"
+      ]
+    },
+    "#3d3d3d": {
+      "count": 2,
+      "sources": [
+        "https://www.stilllifeceramics.com/"
+      ]
+    },
+    "#b6534c": {
+      "count": 2,
+      "sources": [
+        "https://www.stilllifeceramics.com/"
+      ]
+    },
+    "#fafafa": {
+      "count": 2,
+      "sources": [
+        "https://www.stilllifeceramics.com/"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 2,
+      "sources": [
+        "https://www.stilllifeceramics.com/"
+      ]
+    },
+    "#e3e3e3": {
+      "count": 2,
+      "sources": [
+        "https://www.stilllifeceramics.com/"
+      ]
+    },
+    "#333333": {
+      "count": 2,
+      "sources": [
+        "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817"
+      ]
+    },
+    "#cccccc": {
+      "count": 2,
+      "sources": [
+        "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817"
+      ]
+    },
+    "#00000026": {
+      "count": 2,
+      "sources": [
+        "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.stilllifeceramics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.stilllifeceramics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#c1c9d1": {
+      "count": 2,
+      "sources": [
+        "https://www.stilllifeceramics.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://www.stilllifeceramics.com/"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 1,
+      "sources": [
+        "https://www.stilllifeceramics.com/"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 1,
+      "sources": [
+        "https://www.stilllifeceramics.com/"
+      ]
+    },
+    "#ebebeb": {
+      "count": 1,
+      "sources": [
+        "https://www.stilllifeceramics.com/"
+      ]
+    },
+    "#9a9a9a": {
+      "count": 1,
+      "sources": [
+        "https://www.stilllifeceramics.com/"
+      ]
+    },
+    "#ededed": {
+      "count": 1,
+      "sources": [
+        "https://www.stilllifeceramics.com/"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 1,
+      "sources": [
+        "https://www.stilllifeceramics.com/"
+      ]
+    },
+    "#212121": {
+      "count": 1,
+      "sources": [
+        "https://www.stilllifeceramics.com/"
+      ]
+    },
+    "#2b2b2b": {
+      "count": 1,
+      "sources": [
+        "https://www.stilllifeceramics.com/"
+      ]
+    },
+    "#434343": {
+      "count": 1,
+      "sources": [
+        "https://www.stilllifeceramics.com/"
+      ]
+    },
+    "#757575": {
+      "count": 1,
+      "sources": [
+        "https://www.stilllifeceramics.com/"
+      ]
+    },
+    "#97798c": {
+      "count": 1,
+      "sources": [
+        "https://www.stilllifeceramics.com/"
+      ]
+    },
+    "#707070": {
+      "count": 1,
+      "sources": [
+        "https://www.stilllifeceramics.com/"
+      ]
+    },
+    "#cbc5bc": {
+      "count": 1,
+      "sources": [
+        "https://www.stilllifeceramics.com/"
+      ]
+    },
+    "#1773b0": {
+      "count": 1,
+      "sources": [
+        "https://www.stilllifeceramics.com/"
+      ]
+    },
+    "#ffffffbf": {
+      "count": 1,
+      "sources": [
+        "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817"
+      ]
+    },
+    "#1199ff": {
+      "count": 1,
+      "sources": [
+        "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817"
+      ]
+    },
+    "#b8b8b8": {
+      "count": 1,
+      "sources": [
+        "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817"
+      ]
+    },
+    "#999999": {
+      "count": 1,
+      "sources": [
+        "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 1,
+      "sources": [
+        "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 1,
+      "sources": [
+        "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817"
+      ]
+    },
+    "#0000004d": {
+      "count": 1,
+      "sources": [
+        "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817"
+      ]
+    },
+    "#d8bfd8": {
+      "count": 1,
+      "sources": [
+        "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817"
+      ]
+    },
+    "#ffffff66": {
+      "count": 1,
+      "sources": [
+        "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.stilllifeceramics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.stilllifeceramics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.stilllifeceramics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#4a5764": {
+      "count": 1,
+      "sources": [
+        "https://www.stilllifeceramics.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.stilllifeceramics.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+    ],
+    "Avenir": [
+      "https://www.stilllifeceramics.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+    ],
+    "Avenir Next": [
+      "https://www.stilllifeceramics.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+    ],
+    "Helvetica": [
+      "https://www.stilllifeceramics.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+    ],
+    "Helvetica Neue": [
+      "https://www.stilllifeceramics.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+    ],
+    "Montserrat": [
+      "https://www.stilllifeceramics.com/"
+    ],
+    "Quicksand": [
+      "https://www.stilllifeceramics.com/"
+    ],
+    "Segoe UI": [
+      "https://www.stilllifeceramics.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+    ],
+    "inherit!important": [
+      "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817"
+    ],
+    "monospace": [
+      "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817"
+    ],
+    "sans-serif": [
+      "https://www.stilllifeceramics.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.stilllifeceramics.com/",
+      "selector": ".header.header--transparent",
+      "declarations": "border-color: rgba(255, 255, 255, 0.2);\n    color: #ffffff;"
+    },
+    {
+      "source": "https://www.stilllifeceramics.com/",
+      "selector": ".header.header--transparent .header__icon-wrapper,\n  .header.header--transparent #mobile-nav",
+      "declarations": "color: #ffffff;"
+    },
+    {
+      "source": "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;line-height:1.15;margin:0"
+    },
+    {
+      "source": "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817",
+      "selector": ".flickity-button",
+      "declarations": "position:absolute;background:#ffffffbf;border:none;color:#333"
+    },
+    {
+      "source": "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817",
+      "selector": ":root",
+      "declarations": "--line-height-body:1.5em;--line-height-heading:1.3em;--spacing-none:0px;--spacing-extra-small:5px;--spacing-small:10px;--spacing-medium:20px;--spacing-large:40px;--spacing-extra-large:4rem;--spacing-extra-extra-large:8rem;--spacing-extra-extra-extra-large:16rem;--ease:ease-in-out;--cubic:cubic-bezier(.12, .67, .53, 1);--header-icon-width:24px;--size-close-icon:24px;--height-button:44px;--max-width:1260px;--max-width-small:860px;--max-width-centered-copy:600px;--z-index-header:300;--z-index-flyouts-overlay:399;--z-index-flyouts:400;--z-index-lightbox:500;--z-index-popup:200;--z-index-announcement-bar:100;--radius-2:2px;--shadow-1:0px 1px 2px 0px rgba(0, 0, 0, .2);--shadow-2:0px 1px 2px 0px rg"
+    },
+    {
+      "source": "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817",
+      "selector": "body",
+      "declarations": "color:var(--color-text);font-family:var(--font-body);font-weight:var(--font-body-weight);font-size:var(--font-size-body-base);font-style:var(--font-body-style);-webkit-font-smoothing:antialiased"
+    },
+    {
+      "source": "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "font-family:inherit;font-size:var(--font-size-body-base);font-weight:var(--font-body-weight);font-style:var(--font-body-style)"
+    },
+    {
+      "source": "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817",
+      "selector": ".type-body-small",
+      "declarations": "font-size:var(--font-size-body-small);line-height:1.5em;line-height:var(--line-height-body);font-family:var(--font-body),georgia"
+    },
+    {
+      "source": "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817",
+      "selector": ".type-body-regular",
+      "declarations": "font-size:var(--font-size-body-base);line-height:1.5em;line-height:var(--line-height-body);font-family:var(--font-body),georgia"
+    },
+    {
+      "source": "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817",
+      "selector": ".type-body-large",
+      "declarations": "font-size:var(--font-size-body-large);line-height:1.5em;line-height:var(--line-height-body);font-family:var(--font-body),georgia"
+    },
+    {
+      "source": "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817",
+      "selector": ".type-body-extra-large",
+      "declarations": "font-size:var(--font-size-body-extra-large);line-height:1.5em;line-height:var(--line-height-body);font-family:var(--font-body),georgia"
+    },
+    {
+      "source": "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817",
+      "selector": "html:not(.no-js) body.user-is-tabbing :focus",
+      "declarations": "outline-width:2px;outline-style:solid;outline-color:Highlight"
+    },
+    {
+      "source": "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817",
+      "selector": "html:not(.no-js) body.user-is-tabbing :focus",
+      "declarations": "outline-color:-webkit-focus-ring-color;outline-style:auto"
+    },
+    {
+      "source": "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817",
+      "selector": "html:not(.no-js) body.user-is-tabbing .flickity-enabled:focus",
+      "declarations": "outline-width:2px;outline-style:solid;outline-color:Highlight"
+    },
+    {
+      "source": "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817",
+      "selector": "html:not(.no-js) body.user-is-tabbing .flickity-enabled:focus",
+      "declarations": "outline-color:-webkit-focus-ring-color;outline-style:auto"
+    },
+    {
+      "source": "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817",
+      "selector": ".rte h1,.rte h2",
+      "declarations": "font-size:1.8em;font-family:var(--font-heading);font-weight:var(--font-heading-weight);font-style:var(--font-heading-style)"
+    },
+    {
+      "source": "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817",
+      "selector": "#shopify-product-reviews .spr-header-title",
+      "declarations": "font-size:var(--font-size-heading-1);line-height:1.3em;line-height:var(--line-height-heading);font-family:var(--font-heading),sans-serif;font-weight:var(--font-heading-weight);font-style:var(--font-heading-style)"
+    },
+    {
+      "source": "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817",
+      "selector": "#shopify-product-reviews .spr-header-title>a",
+      "declarations": "color:inherit"
+    },
+    {
+      "source": "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817",
+      "selector": "#shopify-product-reviews .spr-summary-actions-newreview",
+      "declarations": "text-transform:uppercase;font-family:var(--font-body);font-weight:var(--font-body-weight);font-size:var(--font-size-body-small);letter-spacing:.05em;text-align:center;height:44px;height:var(--height-button);text-decoration:none;padding:0 25px;display:flex;align-items:center;justify-content:center;line-height:1.5em;border-radius:1px;background-color:var(--color-secondary-button);color:var(--color-secondary-button-text);border:none;width:100%;margin-top:20px;margin-top:var(--spacing-medium);opacity:1;transition:opacity .25s ease"
+    },
+    {
+      "source": "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817",
+      "selector": "#shopify-product-reviews .spr-button-primary",
+      "declarations": "text-transform:uppercase;font-family:var(--font-body);font-weight:var(--font-body-weight);font-size:var(--font-size-body-small);letter-spacing:.05em;text-align:center;height:44px;height:var(--height-button);padding:0 25px;display:flex;align-items:center;justify-content:center;line-height:1.5em;border-radius:1px;background-color:var(--color-accent);color:var(--color-button-text);border:none;width:100%;opacity:1;transition:opacity .25s ease"
+    },
+    {
+      "source": "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817",
+      "selector": "#shopify-product-reviews .spr-form-input",
+      "declarations": "-webkit-appearance:none;-moz-appearance:none;background-color:var(--color-input);color:var(--color-input-text);width:100%;height:48px;box-shadow:0 1px 2px #0003;box-shadow:var(--shadow-1);border:none;border-radius:3px;padding:10px;padding:var(--spacing-small) var(--spacing-small);font-family:var(--font-body);font-weight:var(--font-body-weight);font-style:var(--font-body-style);line-height:1.5em"
+    },
+    {
+      "source": "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817",
+      "selector": "#shopify-product-reviews .spr-form-input::-moz-placeholder",
+      "declarations": "color:var(--color-input-text)"
+    },
+    {
+      "source": "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817",
+      "selector": "#shopify-product-reviews .spr-form-input::placeholder",
+      "declarations": "color:var(--color-input-text)"
+    },
+    {
+      "source": "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817",
+      "selector": "#shopify-product-reviews .spr-form-review-body>.spr-form-input",
+      "declarations": "background-color:none;box-shadow:none;height:auto;padding:0;line-height:0"
+    },
+    {
+      "source": "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817",
+      "selector": "#shopify-product-reviews .spr-icon-star,#shopify-product-reviews .spr-icon-star-half-alt,#shopify-product-reviews .spr-icon-star-empty",
+      "declarations": "color:var(--color-accent)"
+    },
+    {
+      "source": "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817",
+      "selector": "#shopify-product-reviews .spr-review-content-body",
+      "declarations": "color:var(--color-text);font-size:var(--font-size-body-base);line-height:1.5em;line-height:var(--line-height-body)"
+    },
+    {
+      "source": "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817",
+      "selector": "#shopify-product-reviews .spr-form-message-error",
+      "declarations": "color:var(--color-error-message);background:none;padding-left:0"
+    },
+    {
+      "source": "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817",
+      "selector": ":root",
+      "declarations": "--menu-width:335px"
+    },
+    {
+      "source": "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817",
+      "selector": ".shopify-model-viewer-ui__button",
+      "declarations": "display:inline-block;margin:10px 0 0;text-align:center;white-space:no-wrap;cursor:pointer;width:40px;height:40px;padding:0;box-sizing:content-box;background:var(--color-bg);border-radius:3px;border:0px;color:var(--color-text);box-shadow:0 1px 2px #0003;box-shadow:var(--shadow-1)"
+    },
+    {
+      "source": "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817",
+      "selector": "#root .shopify-policy__title h1",
+      "declarations": "font-size:var(--font-size-heading-1);line-height:1.3em;line-height:var(--line-height-heading);font-family:var(--font-heading),sans-serif;font-weight:var(--font-heading-weight);font-style:var(--font-heading-style)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Still Life Ceramics",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stilllifeceramics.com/"
+      ]
+    },
+    "colors.secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stilllifeceramics.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stilllifeceramics.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stilllifeceramics.com/",
+        "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817",
+        "https://www.stilllifeceramics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.stilllifeceramics.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stilllifeceramics.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stilllifeceramics.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stilllifeceramics.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stilllifeceramics.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stilllifeceramics.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stilllifeceramics.com/",
+        "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817",
+        "https://www.stilllifeceramics.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.stilllifeceramics.com/cdn/shopifycloud/shopify-plyr/v1.0/shopify-plyr.css"
+      ]
+    },
+    "colors.accent-mauve": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stilllifeceramics.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stilllifeceramics.com/cdn/shop/t/12/assets/theme.css?v=20515111745909661261746823817"
+      ]
+    },
+    "colors.link": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stilllifeceramics.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.class-listing-card": {
+      "status": "inferred"
+    }
+  }
+}

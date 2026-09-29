@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Vortex
-description: Four accent swatches — sage #83b579, gold #dfb52c, periwinkle #788fe2, and burgundy #93353e — map to Vortex's keycap colorways before they map to any UI convention, turning the product catalog into a color reference for enthusiasts who already know what PBT doubleshot means. The canvas flips between two registers: a warm off-white (#eeede9) for editorial and product-listing surfaces, and a near-black (#121212) for hero sections and banner moments, giving the site a film-negative quality as pages load. Manuale, a bracketed serif, carries the display headings at modest weights — its serifs echo the sculptured profile of SA and MT3 keycap rows — while Noto Sans handles body copy and spec labels in a clean, utilitarian register that won't compete with hardware photography. Rounded corners are minimal to nonexistent: product cards sit at `{rounded.xs}` (4px), buttons at `{rounded.sm}` (8px), and filter pills at `{rounded.full}` — the only soft form in the system, borrowing its pill shape from the legends printed on keycap stems. Colorway selectors use 28px circular swatches with a hairline ring that activates on selection, referencing the physical act of choosing a keycap set from a catalog. The footer runs a dark (#121212) background, anchoring the page with the same gravity as a solid aluminum board base. Accent colors appear sparingly as badge fills and active-state signals — never as background floods — preserving the palette's role as a catalog of actual products rather than a branding assertion.
+name: "Vortex"
+source_url: "https://vortexgear.tw"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Four accent swatches — sage #83b579, gold #dfb52c, periwinkle #788fe2, and burgundy #93353e — map to Vortex's keycap colorways before they map to any UI convention, turning the product catalog into a color reference for enthusiasts who already know what PBT doubleshot means. The canvas flips between two registers: a warm off-white (#eeede9) for editorial and product-listing surfaces, and a near-black (#121212) for hero sections and banner moments, giving the site a film-negative quality as pages load. Manuale, a bracketed serif, carries the display headings at modest weights — its serifs echo the sculptured profile of SA and MT3 keycap rows — while Noto Sans handles body copy and spec labels in a clean, utilitarian register that won't compete with hardware photography. Rounded corners are minimal to nonexistent: product cards sit at `{rounded.xs}` (4px), buttons at `{rounded.sm}` (8px), and filter pills at `{rounded.full}` — the only soft form in the system, borrowing its pill shape from the legends printed on keycap stems. Colorway selectors use 28px circular swatches with a hairline ring that activates on selection, referencing the physical act of choosing a keycap set from a catalog. The footer runs a dark (#121212) background, anchoring the page with the same gravity as a solid aluminum board base. Accent colors appear sparingly as badge fills and active-state signals — never as background floods — preserving the palette's role as a catalog of actual products rather than a branding assertion.
 
 colors:
   primary: "#83b579"
@@ -346,6 +350,8 @@ components:
 - Footer 4-column grid → 2-column at tablet → single-column accordion at mobile with collapsed sections
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom brand font confirmed; Manuale and Noto Sans are inferred from extracted font-family stacks but weight variants (italic, condensed) are unverified
 - Button border-radius not pixel-confirmed from extraction; `{rounded.sm}` (8px) inferred from hardware-category Shopify theme conventions

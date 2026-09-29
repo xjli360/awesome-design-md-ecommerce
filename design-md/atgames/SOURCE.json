@@ -1,0 +1,774 @@
+{
+  "source_url": "https://www.atgames.us",
+  "final_url": "https://www.atgames.us/",
+  "captured_at": "2026-09-28T04:43:54.779188+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.atgames.us",
+      "final_url": "https://www.atgames.us/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "793c9aa6de51edad88ca2f434173c1b280887a9f7a60b744e5efa9ee8c9c25b0",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.atgames.us/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.atgames.us/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.atgames.us/cdn/shop/t/49/assets/theme.css?v=13137056754323910341782782840",
+      "final_url": "https://www.atgames.us/cdn/shop/t/49/assets/theme.css?v=13137056754323910341782782840",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f855625edc8ef548b3240548b7e7ba89245779801664e5231ea86e158b9388ef",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "be10bc4b16346e787891f1da5de658505019fcd30172651891a4bf550c948e36",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#eeeeee": {
+      "count": 32,
+      "sources": [
+        "https://www.atgames.us/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#00000000": {
+      "count": 11,
+      "sources": [
+        "https://www.atgames.us/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.atgames.us/cdn/shop/t/49/assets/theme.css?v=13137056754323910341782782840"
+      ]
+    },
+    "#fbcd0a": {
+      "count": 9,
+      "sources": [
+        "https://www.atgames.us/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 9,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 7,
+      "sources": [
+        "https://www.atgames.us/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 7,
+      "sources": [
+        "https://www.atgames.us/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.atgames.us/cdn/shop/t/49/assets/theme.css?v=13137056754323910341782782840",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#333333": {
+      "count": 7,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#3c4144": {
+      "count": 6,
+      "sources": [
+        "https://www.atgames.us/"
+      ]
+    },
+    "#171d21": {
+      "count": 6,
+      "sources": [
+        "https://www.atgames.us/"
+      ]
+    },
+    "#555555": {
+      "count": 6,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#666666": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#00000066": {
+      "count": 3,
+      "sources": [
+        "https://www.atgames.us/cdn/shop/t/49/assets/theme.css?v=13137056754323910341782782840"
+      ]
+    },
+    "#000000": {
+      "count": 3,
+      "sources": [
+        "https://www.atgames.us/cdn/shop/t/49/assets/theme.css?v=13137056754323910341782782840",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#108474": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.atgames.us/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 2,
+      "sources": [
+        "https://www.atgames.us/cdn/shop/t/49/assets/theme.css?v=13137056754323910341782782840"
+      ]
+    },
+    "#00000033": {
+      "count": 2,
+      "sources": [
+        "https://www.atgames.us/cdn/shop/t/49/assets/theme.css?v=13137056754323910341782782840"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#a89cc8": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#c1e6e6": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://www.atgames.us/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://www.atgames.us/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://www.atgames.us/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://www.atgames.us/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://www.atgames.us/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://www.atgames.us/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://www.atgames.us/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.atgames.us/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.atgames.us/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.atgames.us/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 1,
+      "sources": [
+        "https://www.atgames.us/cdn/shop/t/49/assets/theme.css?v=13137056754323910341782782840"
+      ]
+    },
+    "#0000000d": {
+      "count": 1,
+      "sources": [
+        "https://www.atgames.us/cdn/shop/t/49/assets/theme.css?v=13137056754323910341782782840"
+      ]
+    },
+    "#0000000f": {
+      "count": 1,
+      "sources": [
+        "https://www.atgames.us/cdn/shop/t/49/assets/theme.css?v=13137056754323910341782782840"
+      ]
+    },
+    "#888888": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#ffff00": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#3b5998": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#1da1f2": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#dd4b39": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#e60023": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#0073b1": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#fffb00": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#eaeaea": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#e9eaeb": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#a36710": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#d2920f": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#488282": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#4c8eda": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Barlow": [
+      "https://www.atgames.us/"
+    ],
+    "Baskerville": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Consolas": [
+      "https://www.atgames.us/cdn/shop/t/49/assets/theme.css?v=13137056754323910341782782840"
+    ],
+    "Courier New": [
+      "https://www.atgames.us/cdn/shop/t/49/assets/theme.css?v=13137056754323910341782782840"
+    ],
+    "Helvetica": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons\" !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons' !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeStar": [
+      "https://www.atgames.us/"
+    ],
+    "JudgemeStar' !important": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Liberation Mono": [
+      "https://www.atgames.us/cdn/shop/t/49/assets/theme.css?v=13137056754323910341782782840"
+    ],
+    "Menlo": [
+      "https://www.atgames.us/cdn/shop/t/49/assets/theme.css?v=13137056754323910341782782840"
+    ],
+    "Monaco": [
+      "https://www.atgames.us/cdn/shop/t/49/assets/theme.css?v=13137056754323910341782782840"
+    ],
+    "Nunito Sans": [
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "SFMono-Regular": [
+      "https://www.atgames.us/cdn/shop/t/49/assets/theme.css?v=13137056754323910341782782840"
+    ],
+    "monospace": [
+      "https://www.atgames.us/cdn/shop/t/49/assets/theme.css?v=13137056754323910341782782840",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "sans-serif": [
+      "https://www.atgames.us/",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "ui-monospace": [
+      "https://www.atgames.us/cdn/shop/t/49/assets/theme.css?v=13137056754323910341782782840"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.atgames.us/",
+      "selector": "[dir=\"rtl\"]:root",
+      "declarations": "--transform-logical-flip: -1;\n    --transform-origin-start: right;\n    --transform-origin-end: left;"
+    },
+    {
+      "source": "https://www.atgames.us/",
+      "selector": ":root",
+      "declarations": "--text-h0: 3.5rem;\n      --text-h1: 2.5rem;\n      --text-h2: 2rem;\n      --text-h3: 1.625rem;\n      --text-h4: 1.375rem;\n      --text-h5: 1.125rem;\n      --text-h6: 1rem;\n\n      --text-xs: 0.8125rem;\n      --text-sm: 0.9375rem;\n      --text-base: 1.0625rem;\n      --text-lg: 1.3125rem;\n\n      \n      --container-gutter: 2rem;\n      --section-outer-spacing-block: var(--spacing-14);\n      --section-inner-max-spacing-block: var(--spacing-10);\n      --section-inner-spacing-inline: var(--spacing-10);\n      --section-stack-spacing-block: var(--spacing-12);\n\n      \n      --grid-gutter: var(--spacing-6);\n\n      \n      --product-list-row-gap: var(--spacing-12);\n\n      \n      --input-gap: 1rem;\n      --"
+    },
+    {
+      "source": "https://www.atgames.us/",
+      "selector": ":root",
+      "declarations": "--container-gutter: var(--spacing-12);\n      --section-outer-spacing-block: var(--spacing-16);\n      --section-inner-max-spacing-block: var(--spacing-14);\n      --section-inner-spacing-inline: var(--spacing-14);\n      --section-stack-spacing-block: var(--spacing-12);"
+    },
+    {
+      "source": "https://www.atgames.us/",
+      "selector": ":root",
+      "declarations": "--container-gutter: var(--spacing-12);\n      --section-outer-spacing-block: var(--spacing-16);\n      --section-inner-max-spacing-block: var(--spacing-14);\n      --section-inner-spacing-inline: var(--spacing-14);\n      --section-stack-spacing-block: var(--spacing-12);"
+    },
+    {
+      "source": "https://www.atgames.us/",
+      "selector": ":root",
+      "declarations": "--text-h0: 4.5rem;\n      --text-h1: 3.5rem;\n      --text-h2: 2.75rem;\n      --text-h3: 2rem;\n      --text-h4: 1.75rem;\n      --text-h5: 1.375rem;\n      --text-h6: 1.25rem;\n\n      --section-outer-spacing-block: var(--spacing-20);\n      --section-inner-max-spacing-block: var(--spacing-16);\n      --section-inner-spacing-inline: var(--spacing-16);"
+    },
+    {
+      "source": "https://www.atgames.us/",
+      "selector": ":root",
+      "declarations": "--section-outer-spacing-block: var(--spacing-20);\n      --section-inner-max-spacing-block: var(--spacing-18);\n      --section-inner-spacing-inline: var(--spacing-18);"
+    },
+    {
+      "source": "https://www.atgames.us/",
+      "selector": ".button:not([disabled]):hover, .btn:not([disabled]):hover, .shopify-payment-button__button--unbranded:not([disabled]):hover",
+      "declarations": "--button-background-opacity: 0.85;"
+    },
+    {
+      "source": "https://www.atgames.us/",
+      "selector": ".button--subdued:not([disabled]):hover",
+      "declarations": "--button-background: var(--text-color) / .05 !important;"
+    },
+    {
+      "source": "https://www.atgames.us/",
+      "selector": ":root",
+      "declarations": "--sticky-header-enabled:1;"
+    },
+    {
+      "source": "https://www.atgames.us/",
+      "selector": "#shopify-section-sections--22122772431086__header",
+      "declarations": "--header-grid-template: \"main-nav logo secondary-nav\" / minmax(0, 1fr) auto minmax(0, 1fr);\n    --header-padding-block: var(--spacing-4-5);\n    --header-background-opacity: 1.0;\n    --header-background-blur-radius: 0px;\n    --header-transparent-text-color: 255 255 255;--header-logo-width: 170px;\n      --header-logo-height: 28px;position: sticky;\n    top: 0;\n    z-index: 10;"
+    },
+    {
+      "source": "https://www.atgames.us/",
+      "selector": "#shopify-section-sections--22122772431086__header",
+      "declarations": "--header-logo-width: 300px;\n        --header-logo-height: 50px;--header-padding-block: var(--spacing-8-5);"
+    },
+    {
+      "source": "https://www.atgames.us/",
+      "selector": "#shopify-section-sections--22122772431086__header",
+      "declarations": "--header-grid-template: \"logo main-nav secondary-nav\" / minmax(0, 1fr) fit-content(70%) minmax(0, 1fr);"
+    },
+    {
+      "source": "https://www.atgames.us/",
+      "selector": "#shopify-section-sections--22122772431086__header",
+      "declarations": "--header-grid-template: \"logo . secondary-nav\" auto \"main-nav main-nav main-nav\" auto / auto minmax(0, 1fr) minmax(0, max-content);"
+    },
+    {
+      "source": "https://www.atgames.us/",
+      "selector": "#shopify-section-template--22122771480814__featured-collection .product-list",
+      "declarations": "--product-list-gap: var(--product-list-row-gap) var(--product-list-column-gap);\n    --product-list-items-per-row: 1;\n    --product-list-carousel-item-width: 74vw;\n    --product-list-grid: auto / auto-flow var(--product-list-carousel-item-width);"
+    },
+    {
+      "source": "https://www.atgames.us/",
+      "selector": "#shopify-section-template--22122771480814__featured-collection .product-list",
+      "declarations": "--product-list-gap: var(--product-list-row-gap) var(--product-list-column-gap);\n      --product-list-items-per-row: 2;\n      --product-list-carousel-item-width: 36vw;"
+    },
+    {
+      "source": "https://www.atgames.us/",
+      "selector": "#shopify-section-template--22122771480814__featured-collection .product-list",
+      "declarations": "--product-list-items-per-row: 4;\n      --product-list-carousel-item-width: calc(var(--container-inner-width) / 4 - (var(--product-list-column-gap) / 4 * 3));"
+    },
+    {
+      "source": "https://www.atgames.us/",
+      "selector": "#shopify-section-template--22122771480814__featured_collection_BfLqi6 .product-list",
+      "declarations": "--product-list-gap: var(--product-list-row-gap) var(--product-list-column-gap);\n    --product-list-items-per-row: 1;\n    --product-list-carousel-item-width: 74vw;\n    --product-list-grid: auto / auto-flow var(--product-list-carousel-item-width);"
+    },
+    {
+      "source": "https://www.atgames.us/",
+      "selector": "#shopify-section-template--22122771480814__featured_collection_BfLqi6 .product-list",
+      "declarations": "--product-list-gap: var(--product-list-row-gap) var(--product-list-column-gap);\n      --product-list-items-per-row: 2;\n      --product-list-carousel-item-width: 36vw;"
+    },
+    {
+      "source": "https://www.atgames.us/",
+      "selector": "#shopify-section-template--22122771480814__featured_collection_BfLqi6 .product-list",
+      "declarations": "--product-list-items-per-row: 4;\n      --product-list-carousel-item-width: calc(var(--container-inner-width) / 4 - (var(--product-list-column-gap) / 4 * 3));"
+    },
+    {
+      "source": "https://www.atgames.us/",
+      "selector": "#shopify-section-template--22122771480814__featured_collection_QQTXzr .product-list",
+      "declarations": "--product-list-gap: var(--product-list-row-gap) var(--product-list-column-gap);\n    --product-list-items-per-row: 1;\n    --product-list-carousel-item-width: 74vw;\n    --product-list-grid: auto / auto-flow var(--product-list-carousel-item-width);"
+    },
+    {
+      "source": "https://www.atgames.us/",
+      "selector": "#shopify-section-template--22122771480814__featured_collection_QQTXzr .product-list",
+      "declarations": "--product-list-gap: var(--product-list-row-gap) var(--product-list-column-gap);\n      --product-list-items-per-row: 2;\n      --product-list-carousel-item-width: 36vw;"
+    },
+    {
+      "source": "https://www.atgames.us/",
+      "selector": "#shopify-section-template--22122771480814__featured_collection_QQTXzr .product-list",
+      "declarations": "--product-list-items-per-row: 4;\n      --product-list-carousel-item-width: calc(var(--container-inner-width) / 4 - (var(--product-list-column-gap) / 4 * 3));"
+    },
+    {
+      "source": "https://www.atgames.us/",
+      "selector": "#shopify-section-template--22122771480814__featured_collection_7jyKwB .product-list",
+      "declarations": "--product-list-gap: var(--product-list-row-gap) var(--product-list-column-gap);\n    --product-list-items-per-row: 1;\n    --product-list-carousel-item-width: 74vw;\n    --product-list-grid: auto / auto-flow var(--product-list-carousel-item-width);"
+    },
+    {
+      "source": "https://www.atgames.us/",
+      "selector": "#shopify-section-template--22122771480814__featured_collection_7jyKwB .product-list",
+      "declarations": "--product-list-gap: var(--product-list-row-gap) var(--product-list-column-gap);\n      --product-list-items-per-row: 2;\n      --product-list-carousel-item-width: 36vw;"
+    },
+    {
+      "source": "https://www.atgames.us/",
+      "selector": "#shopify-section-template--22122771480814__featured_collection_7jyKwB .product-list",
+      "declarations": "--product-list-items-per-row: 4;\n      --product-list-carousel-item-width: calc(var(--container-inner-width) / 4 - (var(--product-list-column-gap) / 4 * 3));"
+    },
+    {
+      "source": "https://www.atgames.us/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.atgames.us/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.atgames.us/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.atgames.us/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.atgames.us/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "AtGames Official Online Store",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.atgames.us/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.atgames.us/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.atgames.us/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.atgames.us/cdn/shop/t/49/assets/theme.css?v=13137056754323910341782782840",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.atgames.us/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.atgames.us/"
+      ]
+    },
+    "colors.accent-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.surface-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.atgames.us/"
+      ]
+    },
+    "colors.border-subtle": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.atgames.us/",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.overlay-scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.atgames.us/cdn/shop/t/49/assets/theme.css?v=13137056754323910341782782840"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.carousel-controls": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,0 +1,793 @@
+{
+  "source_url": "https://owletcare.com",
+  "final_url": "https://owletcare.com/",
+  "captured_at": "2026-09-28T04:24:24.670966+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://owletcare.com",
+      "final_url": "https://owletcare.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "21c24485caf5fa4f20473b1f708856c9b3a304a55f4390efc51e356d69b1d8d3",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://owletcare.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://owletcare.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://owletcare.com/cdn/shop/t/766/compiled_assets/styles.css?v=120076420358918354191780488357",
+      "final_url": "https://owletcare.com/cdn/shop/t/766/compiled_assets/styles.css?v=120076420358918354191780488357",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1e893a74698e4de8bc0c8068c03503834f71510053e3c12c04499487a81d7de5",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://owletcare.com/cdn/shop/t/766/assets/xo-webcomponents.min.css?v=7194543306266005861780488357",
+      "final_url": "https://owletcare.com/cdn/shop/t/766/assets/xo-webcomponents.min.css?v=7194543306266005861780488357",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "079cb7eb69c8451ddc048e2c94df9e849c42fbc4d849f57941c493caa28b82bb",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357",
+      "final_url": "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "539f2568d47aaf4f2114e835da9838ae1c6d89ea6f34a4021d954c045cd28dcd",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://owletcare.com/cdn/shop/t/766/assets/swiper.min.css?v=150587207334211009051778264791",
+      "final_url": "https://owletcare.com/cdn/shop/t/766/assets/swiper.min.css?v=150587207334211009051778264791",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c7e137c3b653180d469706b5109bf67bac2efa0389420cb2c1b852db3679cfb5",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#1d464b": {
+      "count": 21,
+      "sources": [
+        "https://owletcare.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 21,
+      "sources": [
+        "https://owletcare.com/",
+        "https://owletcare.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://owletcare.com/cdn/shop/t/766/assets/xo-webcomponents.min.css?v=7194543306266005861780488357",
+        "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357",
+        "https://owletcare.com/cdn/shop/t/766/assets/swiper.min.css?v=150587207334211009051778264791"
+      ]
+    },
+    "#f7f1ed": {
+      "count": 20,
+      "sources": [
+        "https://owletcare.com/"
+      ]
+    },
+    "#000000": {
+      "count": 10,
+      "sources": [
+        "https://owletcare.com/cdn/shop/t/766/assets/xo-webcomponents.min.css?v=7194543306266005861780488357",
+        "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357",
+        "https://owletcare.com/cdn/shop/t/766/assets/swiper.min.css?v=150587207334211009051778264791"
+      ]
+    },
+    "#c2d4c8": {
+      "count": 6,
+      "sources": [
+        "https://owletcare.com/"
+      ]
+    },
+    "#fff6ee": {
+      "count": 6,
+      "sources": [
+        "https://owletcare.com/"
+      ]
+    },
+    "#744343": {
+      "count": 5,
+      "sources": [
+        "https://owletcare.com/"
+      ]
+    },
+    "#111111": {
+      "count": 5,
+      "sources": [
+        "https://owletcare.com/cdn/shop/t/766/assets/xo-webcomponents.min.css?v=7194543306266005861780488357"
+      ]
+    },
+    "#0000009c": {
+      "count": 5,
+      "sources": [
+        "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357"
+      ]
+    },
+    "#00000000": {
+      "count": 4,
+      "sources": [
+        "https://owletcare.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357"
+      ]
+    },
+    "#0000001a": {
+      "count": 3,
+      "sources": [
+        "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357"
+      ]
+    },
+    "#eedad3": {
+      "count": 2,
+      "sources": [
+        "https://owletcare.com/"
+      ]
+    },
+    "#fff2e5": {
+      "count": 2,
+      "sources": [
+        "https://owletcare.com/"
+      ]
+    },
+    "#faefe5": {
+      "count": 2,
+      "sources": [
+        "https://owletcare.com/"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 2,
+      "sources": [
+        "https://owletcare.com/"
+      ]
+    },
+    "#1773b0": {
+      "count": 2,
+      "sources": [
+        "https://owletcare.com/"
+      ]
+    },
+    "#125988": {
+      "count": 2,
+      "sources": [
+        "https://owletcare.com/"
+      ]
+    },
+    "#74abd0": {
+      "count": 2,
+      "sources": [
+        "https://owletcare.com/"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://owletcare.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#4caf82": {
+      "count": 2,
+      "sources": [
+        "https://owletcare.com/cdn/shop/t/766/assets/xo-webcomponents.min.css?v=7194543306266005861780488357"
+      ]
+    },
+    "#3f8843": {
+      "count": 2,
+      "sources": [
+        "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357"
+      ]
+    },
+    "#fba11a": {
+      "count": 2,
+      "sources": [
+        "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357"
+      ]
+    },
+    "#ce2c2c": {
+      "count": 2,
+      "sources": [
+        "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 2,
+      "sources": [
+        "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357"
+      ]
+    },
+    "#f4ece6": {
+      "count": 1,
+      "sources": [
+        "https://owletcare.com/"
+      ]
+    },
+    "#dcbfbf": {
+      "count": 1,
+      "sources": [
+        "https://owletcare.com/"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 1,
+      "sources": [
+        "https://owletcare.com/"
+      ]
+    },
+    "#458fc0": {
+      "count": 1,
+      "sources": [
+        "https://owletcare.com/"
+      ]
+    },
+    "#a2c7df": {
+      "count": 1,
+      "sources": [
+        "https://owletcare.com/"
+      ]
+    },
+    "#c5dceb": {
+      "count": 1,
+      "sources": [
+        "https://owletcare.com/"
+      ]
+    },
+    "#dceaf3": {
+      "count": 1,
+      "sources": [
+        "https://owletcare.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://owletcare.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://owletcare.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://owletcare.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#b9b9b9": {
+      "count": 1,
+      "sources": [
+        "https://owletcare.com/cdn/shop/t/766/assets/xo-webcomponents.min.css?v=7194543306266005861780488357"
+      ]
+    },
+    "#dddddd": {
+      "count": 1,
+      "sources": [
+        "https://owletcare.com/cdn/shop/t/766/assets/xo-webcomponents.min.css?v=7194543306266005861780488357"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 1,
+      "sources": [
+        "https://owletcare.com/cdn/shop/t/766/assets/xo-webcomponents.min.css?v=7194543306266005861780488357"
+      ]
+    },
+    "#fa6e6e": {
+      "count": 1,
+      "sources": [
+        "https://owletcare.com/cdn/shop/t/766/assets/xo-webcomponents.min.css?v=7194543306266005861780488357"
+      ]
+    },
+    "#ffffff1a": {
+      "count": 1,
+      "sources": [
+        "https://owletcare.com/cdn/shop/t/766/assets/xo-webcomponents.min.css?v=7194543306266005861780488357"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357"
+      ]
+    },
+    "#ffdbdf": {
+      "count": 1,
+      "sources": [
+        "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357"
+      ]
+    },
+    "#eeeeee": {
+      "count": 1,
+      "sources": [
+        "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357"
+      ]
+    },
+    "#e4ffe5": {
+      "count": 1,
+      "sources": [
+        "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357"
+      ]
+    },
+    "#00000014": {
+      "count": 1,
+      "sources": [
+        "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357"
+      ]
+    },
+    "#ececec": {
+      "count": 1,
+      "sources": [
+        "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357"
+      ]
+    },
+    "#ff6969": {
+      "count": 1,
+      "sources": [
+        "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357"
+      ]
+    },
+    "#007aff": {
+      "count": 1,
+      "sources": [
+        "https://owletcare.com/cdn/shop/t/766/assets/swiper.min.css?v=150587207334211009051778264791"
+      ]
+    }
+  },
+  "font_families": {
+    "Georgia": [
+      "https://owletcare.com/"
+    ],
+    "Source Sans 3": [
+      "https://owletcare.com/"
+    ],
+    "Source Sans Pro": [
+      "https://owletcare.com/"
+    ],
+    "Source Serif 4": [
+      "https://owletcare.com/"
+    ],
+    "Source Serif Pro": [
+      "https://owletcare.com/"
+    ],
+    "adobe-handwriting-ernie": [
+      "https://owletcare.com/"
+    ],
+    "cursive": [
+      "https://owletcare.com/"
+    ],
+    "monospace": [
+      "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357"
+    ],
+    "sans-serif": [
+      "https://owletcare.com/"
+    ],
+    "serif": [
+      "https://owletcare.com/"
+    ],
+    "source-serif-pro": [
+      "https://owletcare.com/"
+    ],
+    "swiper-icons": [
+      "https://owletcare.com/cdn/shop/t/766/assets/swiper.min.css?v=150587207334211009051778264791"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://owletcare.com/",
+      "selector": ":root,\n    .color-background-1",
+      "declarations": "--color-background: 247,241,237;\n    --color-background-2: 255,255,255;\n    \n    --gradient-background: #f7f1ed;\n    \n    --color-accent: 194,212,200;\n    --color-accent-2: 244,247,244;\n    --color-accent-3: 238,218,211;\n    --color-accent-4: 208,197,226;\n    --color-foreground: 29,70,75;\n    --color-foreground-2: 255,255,255;\n    --color-foreground-3: 255,255,255;\n    --color-foreground-4: 29,70,75;\n    --color-foreground-5: 29,70,75;\n    --color-shadow: 29,70,75;\n    --color-border: 225,224,221;\n    --color-support-error: ,,;\n    --color-button: 255,255,255;\n    --color-button-text: 29,70,75;\n    --color-secondary-button: 29,70,75;\n    --color-secondary-button-text: 255,255,255;\n    --colo"
+    },
+    {
+      "source": "https://owletcare.com/",
+      "selector": "body:has(.section-hero-promo-2) .xo-header,\r\n    body:has(.section-hero-promo-2) .xo-header__inner,\r\n    body:has(.section-hero-promo-2) .xo-header__wrapper",
+      "declarations": "background-color: #F7F1ED !important;\r\n      padding-top: 0 !important;\r\n      padding-bottom: 0 !important;"
+    },
+    {
+      "source": "https://owletcare.com/",
+      "selector": "#section-text-header-template--21602399158471__image_layout_2_and_1_bnF3gb .section-text-header__heading",
+      "declarations": "max-width: 804px;\r\n    width: 100%;\r\n    margin: 0 auto;\r\n    font-family: 'Source Serif Pro', 'Source Serif 4', Georgia, serif;\r\n    font-weight: 400;\r\n    font-style: normal;\r\n    font-size: 42px;\r\n    line-height: 100%;\r\n    letter-spacing: -0.02em;\r\n    text-align: center;\r\n    color: #1d464b;\r\n    padding: 0;"
+    },
+    {
+      "source": "https://owletcare.com/",
+      "selector": "#section-text-header-template--21602399158471__image_layout_2_and_1_bnF3gb .section-text-header__description",
+      "declarations": "max-width: 750px;\r\n    width: 100%;\r\n    margin: 19.69px auto 0;\r\n    font-family: 'Source Sans Pro', 'Source Sans 3', sans-serif;\r\n    font-weight: 400;\r\n    font-style: normal;\r\n    font-size: 22px;\r\n    line-height: 137%;\r\n    letter-spacing: 0;\r\n    text-align: center;\r\n    color: #1d464b;\r\n    padding: 0;"
+    },
+    {
+      "source": "https://owletcare.com/",
+      "selector": "-21602399158471__image_layout_2_and_1_bnF3gb .information-with-image-block__cta .button,\r\n  #image-layout-template--21602399158471__image_layout_2_and_1_bnF3gb ",
+      "declarations": "background: #c2d4c8 !important;\r\n      background-color: #c2d4c8 !important;\r\n      border-color: #c2d4c8 !important;"
+    },
+    {
+      "source": "https://owletcare.com/",
+      "selector": "399158471__image_layout_2_and_1_bnF3gb .information-with-image-block__cta .btn__label,\r\n  #image-layout-template--21602399158471__image_layout_2_and_1_bnF3gb .i",
+      "declarations": "color: #1d464b !important;"
+    },
+    {
+      "source": "https://owletcare.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://owletcare.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://owletcare.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://owletcare.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://owletcare.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://owletcare.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://owletcare.com/cdn/shop/t/766/assets/xo-webcomponents.min.css?v=7194543306266005861780488357",
+      "selector": "xo-toast-close-button",
+      "declarations": "position:absolute;padding:8px;cursor:pointer;color:#b9b9b9;display:flex;align-items:center"
+    },
+    {
+      "source": "https://owletcare.com/cdn/shop/t/766/assets/xo-webcomponents.min.css?v=7194543306266005861780488357",
+      "selector": ".xo-cart-add-error xo-toast-close-button,.xo-cart-change-error xo-toast-close-button",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;line-height:1.15;margin:0"
+    },
+    {
+      "source": "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357",
+      "selector": "body",
+      "declarations": "font-family:var(--font-body-family);font-style:var(--font-body-style);font-weight:var(--font-body-weight-bold);font-size:var(--font-body-mobile-size, 1.5rem);line-height:1.3;letter-spacing:0;background:color-mix(in srgb,rgba(var(--color-background)) 100%,transparent);background:color-mix(in srgb,rgba(var(--color-gradient-background)) 100%,transparent);color:color-mix(in srgb,rgba(var(--color-foreground)) 75%,transparent)"
+    },
+    {
+      "source": "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357",
+      "selector": ":root",
+      "declarations": "--ease-light: cubic-bezier(0, 0, .3, 1);--ease-in-out: cubic-bezier(.645, .045, .355, 1);--ease-out: cubic-bezier(.165, .84, .44, 1);--ease-in: cubic-bezier(.55, .055, .675, .19);--ease: cubic-bezier(.25, .1, .25, 1);--ease-in-back: cubic-bezier(.6, -.28, .735, .045);--ease-out-back: cubic-bezier(.175, .885, .32, 1.275);--ease-in-out-back: cubic-bezier(.68, -.55, .265, 1.55);--ease-in-circ: cubic-bezier(.6, .04, .98, .335);--ease-out-circ: cubic-bezier(.075, .82, .165, 1);--ease-in-out-circ: cubic-bezier(.785, .135, .15, .86);--ease-in-cubic: cubic-bezier(.55, .055, .675, .19);--ease-out-cubic: cubic-bezier(.215, .61, .355, 1);--ease-in-out-cubic: cubic-bezier(.645, .045, .355, 1);--ease-in-"
+    },
+    {
+      "source": "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357",
+      "selector": ":root",
+      "declarations": "--xo-container-width: var(--page-width, 1400px);--xo-container-gap: var(--page-gap, 20px);--xo-grid-col-gap: var(--grid-mobile-horizontal-spacing, 30px);--xo-grid-row-gap: var(--grid-mobile-vertical-spacing, 30px)"
+    },
+    {
+      "source": "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357",
+      "selector": ":root",
+      "declarations": "--xo-grid-col-gap: var(--grid-desktop-horizontal-spacing, 15px);--xo-grid-row-gap: var(--grid-desktop-vertical-spacing, 15px)"
+    },
+    {
+      "source": "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357",
+      "selector": "h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6",
+      "declarations": "font-family:var(--font-heading-family);font-style:var(--font-heading-style);font-weight:var(--font-heading-weight);color:rgb(var(--color-foreground));word-break:break-word;word-wrap:break-word;margin:0;text-transform:none;line-height:1;letter-spacing:-.02em"
+    },
+    {
+      "source": "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357",
+      "selector": ".xo-content h1",
+      "declarations": "font-family:var(--font-body-family);color:rgb(var(--color-foreground));font-weight:var(--font-heading-weight);font-size:calc(var(--font-heading-1-scale) * 4.5rem);line-height:calc(1 + .01 / var(--font-heading-1-scale));letter-spacing:calc(var(--font-heading-1-scale) * -.18rem)"
+    },
+    {
+      "source": "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357",
+      "selector": ":root",
+      "declarations": "--xo-container-width: var(--page-width, 1400px);--xo-container-gap: var(--page-gap, 22px);--xo-grid-col-gap: var(--grid-mobile-horizontal-spacing, 20px);--xo-grid-row-gap: var(--grid-mobile-vertical-spacing, 20px)"
+    },
+    {
+      "source": "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357",
+      "selector": ":root",
+      "declarations": "--xo-grid-col-gap: var(--grid-desktop-horizontal-spacing, 15px);--xo-grid-row-gap: var(--grid-desktop-vertical-spacing, 15px)"
+    },
+    {
+      "source": "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357",
+      "selector": ":root",
+      "declarations": "--xo-container-gap: var(--page-gap, 32px)"
+    },
+    {
+      "source": "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357",
+      "selector": ":root",
+      "declarations": "--xo-container-gap: var(--page-gap, 54px)"
+    },
+    {
+      "source": "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357",
+      "selector": ":root",
+      "declarations": "--xo-container-gap: var(--page-gap, 72px)"
+    },
+    {
+      "source": "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357",
+      "selector": ".shopify-challenge__container .shopify-challenge__button",
+      "declarations": "border:none;padding:1.4rem 2.4rem;border-radius:8.6rem;background-color:color-mix(in srgb,rgba(var(--color-button)) 100%,transparent);color:color-mix(in srgb,rgba(var(--color-button-text)) 100%,transparent);cursor:pointer;transition:all .3s ease-in-out"
+    },
+    {
+      "source": "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357",
+      "selector": "html[xo-dark-mode] .shopify-section.section-header:has(~#xo-main-content>.shopify-section.section-hero:first-child) .xo-menu-horizontal__polygon svg",
+      "declarations": "color:color-mix(in srgb,rgba(var(--color-background)) 100%,transparent)!important"
+    },
+    {
+      "source": "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357",
+      "selector": "html[xo-dark-mode] .shopify-section.section-header:has(~#xo-main-content>.shopify-section.section-hero:first-child) .xo-menu-horizontal__border svg",
+      "declarations": "color:rgba(var(--color-foreground),.1)!important"
+    },
+    {
+      "source": "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357",
+      "selector": ".button-slide--primary",
+      "declarations": "color:color-mix(in srgb,rgba(var(--color-button-text)) 100%,transparent);background-color:color-mix(in srgb,rgba(var(--color-button)) 100%,transparent)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Owlet Baby Monitor: First-of-its-kind FDA-cleared smart baby monitor – Owlet US",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://owletcare.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://owletcare.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://owletcare.com/"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://owletcare.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://owletcare.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://owletcare.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://owletcare.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://owletcare.com/",
+        "https://owletcare.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://owletcare.com/cdn/shop/t/766/assets/xo-webcomponents.min.css?v=7194543306266005861780488357",
+        "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357",
+        "https://owletcare.com/cdn/shop/t/766/assets/swiper.min.css?v=150587207334211009051778264791"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://owletcare.com/",
+        "https://owletcare.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://owletcare.com/cdn/shop/t/766/assets/xo-webcomponents.min.css?v=7194543306266005861780488357",
+        "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357",
+        "https://owletcare.com/cdn/shop/t/766/assets/swiper.min.css?v=150587207334211009051778264791"
+      ]
+    },
+    "colors.accent-sage": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://owletcare.com/"
+      ]
+    },
+    "colors.accent-blush": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://owletcare.com/"
+      ]
+    },
+    "colors.interactive-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://owletcare.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.interactive-blue-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://owletcare.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.border-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357"
+      ]
+    },
+    "colors.skeleton": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://owletcare.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357"
+      ]
+    },
+    "colors.error": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://owletcare.com/cdn/shop/t/766/assets/styles.css?v=120076420358918354191780488357"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.vitals-status-card": {
+      "status": "inferred"
+    }
+  }
+}

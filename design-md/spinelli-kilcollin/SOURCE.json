@@ -1,0 +1,461 @@
+{
+  "source_url": "https://www.spinellikilcollin.com",
+  "final_url": "https://www.spinellikilcollin.com/",
+  "captured_at": "2026-09-29T03:59:41.769858+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://www.spinellikilcollin.com",
+      "final_url": "https://www.spinellikilcollin.com/",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "e7501edb53dad784a3ba850bbadfe2211a7f1366860fa73a410e1d861e4276db",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.spinellikilcollin.com/_next/static/immutable/chunks/2dfx4udk6n664.css",
+      "final_url": "https://www.spinellikilcollin.com/_next/static/immutable/chunks/2dfx4udk6n664.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "28de5dc28f6b0382ad4bc5114f6aaec5848797f315221381935b5813adb6e130",
+      "snapshot": "rendered-style-1.css"
+    },
+    {
+      "url": "https://www.spinellikilcollin.com/_next/static/immutable/chunks/294d5r_-sskec.css",
+      "final_url": "https://www.spinellikilcollin.com/_next/static/immutable/chunks/294d5r_-sskec.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "92d913dde0b76b3118a76d1f49f034c2ddde2a56fae69c8dfa8b4eea6baf8974",
+      "snapshot": "rendered-style-2.css"
+    },
+    {
+      "url": "https://www.spinellikilcollin.com/#computed-style-snapshot",
+      "final_url": "https://www.spinellikilcollin.com/#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "f8d0bc5fbe174e57df89b78647633709419e4382adf178b87ea027f532818a7d",
+      "snapshot": "rendered-style-3.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 175,
+      "sources": [
+        "https://www.spinellikilcollin.com/",
+        "https://www.spinellikilcollin.com/_next/static/immutable/chunks/294d5r_-sskec.css",
+        "https://www.spinellikilcollin.com/#computed-style-snapshot"
+      ]
+    },
+    "#222222": {
+      "count": 32,
+      "sources": [
+        "https://www.spinellikilcollin.com/#computed-style-snapshot"
+      ]
+    },
+    "#ffffff": {
+      "count": 20,
+      "sources": [
+        "https://www.spinellikilcollin.com/",
+        "https://www.spinellikilcollin.com/_next/static/immutable/chunks/294d5r_-sskec.css",
+        "https://www.spinellikilcollin.com/#computed-style-snapshot"
+      ]
+    },
+    "#f9fafa": {
+      "count": 12,
+      "sources": [
+        "https://www.spinellikilcollin.com/#computed-style-snapshot"
+      ]
+    },
+    "#ffffffcc": {
+      "count": 3,
+      "sources": [
+        "https://www.spinellikilcollin.com/_next/static/immutable/chunks/294d5r_-sskec.css"
+      ]
+    },
+    "#f5f3f4": {
+      "count": 2,
+      "sources": [
+        "https://www.spinellikilcollin.com/",
+        "https://www.spinellikilcollin.com/#computed-style-snapshot"
+      ]
+    },
+    "#444443": {
+      "count": 2,
+      "sources": [
+        "https://www.spinellikilcollin.com/#computed-style-snapshot"
+      ]
+    },
+    "#000000cc": {
+      "count": 1,
+      "sources": [
+        "https://www.spinellikilcollin.com/_next/static/immutable/chunks/294d5r_-sskec.css"
+      ]
+    },
+    "#ffffff66": {
+      "count": 1,
+      "sources": [
+        "https://www.spinellikilcollin.com/_next/static/immutable/chunks/294d5r_-sskec.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Georgia": [
+      "https://www.spinellikilcollin.com/_next/static/immutable/chunks/2dfx4udk6n664.css",
+      "https://www.spinellikilcollin.com/#computed-style-snapshot"
+    ],
+    "inferi": [
+      "https://www.spinellikilcollin.com/_next/static/immutable/chunks/2dfx4udk6n664.css",
+      "https://www.spinellikilcollin.com/#computed-style-snapshot"
+    ],
+    "inferi Fallback": [
+      "https://www.spinellikilcollin.com/_next/static/immutable/chunks/2dfx4udk6n664.css",
+      "https://www.spinellikilcollin.com/#computed-style-snapshot"
+    ],
+    "serif": [
+      "https://www.spinellikilcollin.com/_next/static/immutable/chunks/2dfx4udk6n664.css",
+      "https://www.spinellikilcollin.com/#computed-style-snapshot"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.spinellikilcollin.com/_next/static/immutable/chunks/294d5r_-sskec.css",
+      "selector": ".yarl__button",
+      "declarations": "appearance:none;background-color:var(--yarl__button_background_color,transparent);border:var(--yarl__button_border,0);color:var(--yarl__color_button,#fffc);cursor:pointer;filter:var(--yarl__button_filter,drop-shadow(2px 2px 2px #000c));margin:var(--yarl__button_margin,0);padding:var(--yarl__button_padding,8px);-webkit-tap-highlight-color:transparent;outline:none;line-height:0"
+    },
+    {
+      "source": "https://www.spinellikilcollin.com/_next/static/immutable/chunks/294d5r_-sskec.css",
+      "selector": ".yarl__button:focus",
+      "declarations": "color:var(--yarl__color_button_active,#fff)"
+    },
+    {
+      "source": "https://www.spinellikilcollin.com/_next/static/immutable/chunks/294d5r_-sskec.css",
+      "selector": ".yarl__button:focus:not(:focus-visible)",
+      "declarations": "color:var(--yarl__color_button,#fffc)"
+    },
+    {
+      "source": "https://www.spinellikilcollin.com/_next/static/immutable/chunks/294d5r_-sskec.css",
+      "selector": ".yarl__button:focus-visible",
+      "declarations": "color:var(--yarl__color_button_active,#fff)"
+    },
+    {
+      "source": "https://www.spinellikilcollin.com/_next/static/immutable/chunks/294d5r_-sskec.css",
+      "selector": ".yarl__button:focus-visible:hover,.yarl__button:focus:hover,.yarl__button:hover",
+      "declarations": "color:var(--yarl__color_button_active,#fff)"
+    },
+    {
+      "source": "https://www.spinellikilcollin.com/_next/static/immutable/chunks/294d5r_-sskec.css",
+      "selector": ".yarl__button:disabled",
+      "declarations": "color:var(--yarl__color_button_disabled,#fff6);cursor:default"
+    },
+    {
+      "source": "https://www.spinellikilcollin.com/#computed-style-snapshot",
+      "selector": ".sample-0-body",
+      "declarations": "color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(0, 0, 0);font-family:inferi, \"inferi Fallback\", Georgia, serif"
+    },
+    {
+      "source": "https://www.spinellikilcollin.com/#computed-style-snapshot",
+      "selector": ".sample-14-button",
+      "declarations": "color:rgb(34, 34, 34);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(34, 34, 34);font-family:inferi, \"inferi Fallback\", Georgia, serif"
+    },
+    {
+      "source": "https://www.spinellikilcollin.com/#computed-style-snapshot",
+      "selector": ".sample-17-button",
+      "declarations": "color:rgb(34, 34, 34);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(34, 34, 34);font-family:inferi, \"inferi Fallback\", Georgia, serif, Georgia, serif"
+    },
+    {
+      "source": "https://www.spinellikilcollin.com/#computed-style-snapshot",
+      "selector": ".sample-19-button",
+      "declarations": "color:rgb(34, 34, 34);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(34, 34, 34);font-family:inferi, \"inferi Fallback\", Georgia, serif, Georgia, serif"
+    },
+    {
+      "source": "https://www.spinellikilcollin.com/#computed-style-snapshot",
+      "selector": ".sample-20-button",
+      "declarations": "color:rgb(34, 34, 34);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(34, 34, 34);font-family:inferi, \"inferi Fallback\", Georgia, serif, Georgia, serif"
+    },
+    {
+      "source": "https://www.spinellikilcollin.com/#computed-style-snapshot",
+      "selector": ".sample-22-button",
+      "declarations": "color:rgb(249, 250, 250);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(249, 250, 250);font-family:inferi, \"inferi Fallback\", Georgia, serif, Georgia, serif"
+    },
+    {
+      "source": "https://www.spinellikilcollin.com/#computed-style-snapshot",
+      "selector": ".sample-23-button",
+      "declarations": "color:rgb(249, 250, 250);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(249, 250, 250);font-family:inferi, \"inferi Fallback\", Georgia, serif, Georgia, serif"
+    },
+    {
+      "source": "https://www.spinellikilcollin.com/#computed-style-snapshot",
+      "selector": ".sample-24-button",
+      "declarations": "color:rgb(249, 250, 250);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(249, 250, 250);font-family:inferi, \"inferi Fallback\", Georgia, serif, Georgia, serif"
+    },
+    {
+      "source": "https://www.spinellikilcollin.com/#computed-style-snapshot",
+      "selector": ".sample-27-button",
+      "declarations": "color:rgb(249, 250, 250);background-color:rgb(0, 0, 0);border-top-color:rgb(249, 250, 250);font-family:inferi, \"inferi Fallback\", Georgia, serif, Georgia, serif"
+    },
+    {
+      "source": "https://www.spinellikilcollin.com/#computed-style-snapshot",
+      "selector": ".sample-28-button",
+      "declarations": "color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(0, 0, 0);font-family:inferi, \"inferi Fallback\", Georgia, serif, Georgia, serif"
+    },
+    {
+      "source": "https://www.spinellikilcollin.com/#computed-style-snapshot",
+      "selector": ".sample-31-h1",
+      "declarations": "color:rgb(249, 250, 250);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(249, 250, 250);font-family:inferi, \"inferi Fallback\", Georgia, serif, Georgia, serif"
+    },
+    {
+      "source": "https://www.spinellikilcollin.com/#computed-style-snapshot",
+      "selector": ".sample-33-button",
+      "declarations": "color:rgb(34, 34, 34);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(34, 34, 34);font-family:inferi, \"inferi Fallback\", Georgia, serif"
+    },
+    {
+      "source": "https://www.spinellikilcollin.com/#computed-style-snapshot",
+      "selector": ".sample-43-button",
+      "declarations": "color:rgb(34, 34, 34);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(34, 34, 34);font-family:inferi, \"inferi Fallback\", Georgia, serif"
+    },
+    {
+      "source": "https://www.spinellikilcollin.com/#computed-style-snapshot",
+      "selector": ".sample-45-button",
+      "declarations": "color:rgb(34, 34, 34);background-color:rgba(0, 0, 0, 0.5);border-top-color:rgb(34, 34, 34);font-family:inferi, \"inferi Fallback\", Georgia, serif"
+    },
+    {
+      "source": "https://www.spinellikilcollin.com/#computed-style-snapshot",
+      "selector": ".sample-52-button",
+      "declarations": "color:rgb(34, 34, 34);background-color:rgba(0, 0, 0, 0.5);border-top-color:rgb(34, 34, 34);font-family:inferi, \"inferi Fallback\", Georgia, serif"
+    },
+    {
+      "source": "https://www.spinellikilcollin.com/#computed-style-snapshot",
+      "selector": ".sample-55-button",
+      "declarations": "color:rgb(34, 34, 34);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(34, 34, 34);font-family:inferi, \"inferi Fallback\", Georgia, serif"
+    },
+    {
+      "source": "https://www.spinellikilcollin.com/#computed-style-snapshot",
+      "selector": ".sample-78-button",
+      "declarations": "color:rgb(34, 34, 34);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(34, 34, 34);font-family:inferi, \"inferi Fallback\", Georgia, serif"
+    },
+    {
+      "source": "https://www.spinellikilcollin.com/#computed-style-snapshot",
+      "selector": ".sample-99-button",
+      "declarations": "color:rgb(0, 0, 0);background-color:rgba(0, 0, 0, 0);border-top-color:rgb(0, 0, 0);font-family:inferi, \"inferi Fallback\", Georgia, serif, Georgia, serif"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "Spinelli Kilcollin | Designer Jewelry",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "c1325ade8ca9d3b3b5ad581b472fa53b49b6f42f01ce9fd4dc85c6b7cda4693b"
+    }
+  ],
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.spinellikilcollin.com/",
+        "https://www.spinellikilcollin.com/_next/static/immutable/chunks/294d5r_-sskec.css",
+        "https://www.spinellikilcollin.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.spinellikilcollin.com/",
+        "https://www.spinellikilcollin.com/_next/static/immutable/chunks/294d5r_-sskec.css",
+        "https://www.spinellikilcollin.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.spinellikilcollin.com/",
+        "https://www.spinellikilcollin.com/_next/static/immutable/chunks/294d5r_-sskec.css",
+        "https://www.spinellikilcollin.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.spinellikilcollin.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.spinellikilcollin.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.spinellikilcollin.com/",
+        "https://www.spinellikilcollin.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.spinellikilcollin.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.spinellikilcollin.com/",
+        "https://www.spinellikilcollin.com/_next/static/immutable/chunks/294d5r_-sskec.css",
+        "https://www.spinellikilcollin.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.spinellikilcollin.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.overlay-scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.spinellikilcollin.com/_next/static/immutable/chunks/294d5r_-sskec.css"
+      ]
+    },
+    "colors.overlay-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.spinellikilcollin.com/_next/static/immutable/chunks/294d5r_-sskec.css"
+      ]
+    },
+    "colors.overlay-faint": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.spinellikilcollin.com/_next/static/immutable/chunks/294d5r_-sskec.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.appointment-cta": {
+      "status": "inferred"
+    }
+  }
+}

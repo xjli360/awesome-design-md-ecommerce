@@ -1,0 +1,873 @@
+{
+  "source_url": "https://kosterina.com",
+  "final_url": "https://www.kosterina.com/",
+  "captured_at": "2026-09-28T10:21:00.998262+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://kosterina.com",
+      "final_url": "https://www.kosterina.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "f7470725753c13fe559a3988db05f51df0198ad55d86991d0047dc7c2c434a8a",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.kosterina.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.kosterina.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.kosterina.com/cdn/shop/t/90/assets/base.css?v=153585181071891846011776101212",
+      "final_url": "https://www.kosterina.com/cdn/shop/t/90/assets/base.css?v=153585181071891846011776101212",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a17c889fcfdbd5be8cc1d05b46a1ca98911ff857e553daab3aef6b775ebdf2ae",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418",
+      "final_url": "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d5176de77e3763578128a3572f4e48ad276b35c0dc29377683aa1d965e0e0992",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://use.typekit.net/ovd5ywa.css?p",
+      "final_url": "https://use.typekit.net/ovd5ywa.css?p",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "bc2aa0c7217398a8ac3d65bb0b411187d7c5b1e9107ac26ed4e93a8ed040251e",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.kosterina.com/cdn/shop/t/90/assets/quantity-popover.css?v=120001637476312987171776101215",
+      "final_url": "https://www.kosterina.com/cdn/shop/t/90/assets/quantity-popover.css?v=120001637476312987171776101215",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "06aff1d66aa2f348bf1da616c728b5fc58a1e16f7809ec9788173316d737d032",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 110,
+      "sources": [
+        "https://www.kosterina.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+      ]
+    },
+    "#55789e": {
+      "count": 28,
+      "sources": [
+        "https://www.kosterina.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 25,
+      "sources": [
+        "https://www.kosterina.com/",
+        "https://www.kosterina.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.kosterina.com/cdn/shop/t/90/assets/base.css?v=153585181071891846011776101212",
+        "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+      ]
+    },
+    "#970000": {
+      "count": 6,
+      "sources": [
+        "https://www.kosterina.com/",
+        "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+      ]
+    },
+    "#b3cbda": {
+      "count": 5,
+      "sources": [
+        "https://www.kosterina.com/",
+        "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+      ]
+    },
+    "#e4eff7": {
+      "count": 5,
+      "sources": [
+        "https://www.kosterina.com/",
+        "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+      ]
+    },
+    "#3e3f3f": {
+      "count": 4,
+      "sources": [
+        "https://www.kosterina.com/",
+        "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+      ]
+    },
+    "#6b7280": {
+      "count": 4,
+      "sources": [
+        "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+      ]
+    },
+    "#2563eb": {
+      "count": 4,
+      "sources": [
+        "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+      ]
+    },
+    "#000000": {
+      "count": 3,
+      "sources": [
+        "https://www.kosterina.com/",
+        "https://www.kosterina.com/cdn/shop/t/90/assets/base.css?v=153585181071891846011776101212"
+      ]
+    },
+    "#76765b": {
+      "count": 3,
+      "sources": [
+        "https://www.kosterina.com/",
+        "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+      ]
+    },
+    "#849e8c": {
+      "count": 3,
+      "sources": [
+        "https://www.kosterina.com/",
+        "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+      ]
+    },
+    "#d87787": {
+      "count": 3,
+      "sources": [
+        "https://www.kosterina.com/"
+      ]
+    },
+    "#ffffff00": {
+      "count": 3,
+      "sources": [
+        "https://www.kosterina.com/cdn/shop/t/90/assets/base.css?v=153585181071891846011776101212"
+      ]
+    },
+    "#f2f7fb": {
+      "count": 2,
+      "sources": [
+        "https://www.kosterina.com/"
+      ]
+    },
+    "#249e6b": {
+      "count": 2,
+      "sources": [
+        "https://www.kosterina.com/"
+      ]
+    },
+    "#59695c": {
+      "count": 2,
+      "sources": [
+        "https://www.kosterina.com/"
+      ]
+    },
+    "#abb684": {
+      "count": 2,
+      "sources": [
+        "https://www.kosterina.com/"
+      ]
+    },
+    "#d73929": {
+      "count": 2,
+      "sources": [
+        "https://www.kosterina.com/"
+      ]
+    },
+    "#e88d21": {
+      "count": 2,
+      "sources": [
+        "https://www.kosterina.com/"
+      ]
+    },
+    "#f6d86f": {
+      "count": 2,
+      "sources": [
+        "https://www.kosterina.com/"
+      ]
+    },
+    "#254a5d": {
+      "count": 2,
+      "sources": [
+        "https://www.kosterina.com/"
+      ]
+    },
+    "#92a4ae": {
+      "count": 2,
+      "sources": [
+        "https://www.kosterina.com/"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.kosterina.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://www.kosterina.com/cdn/shop/t/90/assets/base.css?v=153585181071891846011776101212"
+      ]
+    },
+    "#9ca3af": {
+      "count": 2,
+      "sources": [
+        "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+      ]
+    },
+    "#ffffffb3": {
+      "count": 2,
+      "sources": [
+        "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+      ]
+    },
+    "#cccccc": {
+      "count": 2,
+      "sources": [
+        "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+      ]
+    },
+    "#555658": {
+      "count": 1,
+      "sources": [
+        "https://www.kosterina.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 1,
+      "sources": [
+        "https://www.kosterina.com/"
+      ]
+    },
+    "#bababa": {
+      "count": 1,
+      "sources": [
+        "https://www.kosterina.com/"
+      ]
+    },
+    "#456280": {
+      "count": 1,
+      "sources": [
+        "https://www.kosterina.com/"
+      ]
+    },
+    "#7793b1": {
+      "count": 1,
+      "sources": [
+        "https://www.kosterina.com/"
+      ]
+    },
+    "#99aec5": {
+      "count": 1,
+      "sources": [
+        "https://www.kosterina.com/"
+      ]
+    },
+    "#bbc9d8": {
+      "count": 1,
+      "sources": [
+        "https://www.kosterina.com/"
+      ]
+    },
+    "#d5dde7": {
+      "count": 1,
+      "sources": [
+        "https://www.kosterina.com/"
+      ]
+    },
+    "#e6ebf0": {
+      "count": 1,
+      "sources": [
+        "https://www.kosterina.com/"
+      ]
+    },
+    "#c1daed": {
+      "count": 1,
+      "sources": [
+        "https://www.kosterina.com/"
+      ]
+    },
+    "#eff5fa": {
+      "count": 1,
+      "sources": [
+        "https://www.kosterina.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.kosterina.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.kosterina.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.kosterina.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000080": {
+      "count": 1,
+      "sources": [
+        "https://www.kosterina.com/cdn/shop/t/90/assets/base.css?v=153585181071891846011776101212"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 1,
+      "sources": [
+        "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+      ]
+    },
+    "#0000001a": {
+      "count": 1,
+      "sources": [
+        "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+      ]
+    },
+    "#97000040": {
+      "count": 1,
+      "sources": [
+        "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+      ]
+    },
+    "#ac3f36": {
+      "count": 1,
+      "sources": [
+        "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+      ]
+    },
+    "#fae053": {
+      "count": 1,
+      "sources": [
+        "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+      ]
+    },
+    "#55789e80": {
+      "count": 1,
+      "sources": [
+        "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+      ]
+    },
+    "#e4eff780": {
+      "count": 1,
+      "sources": [
+        "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+      ]
+    },
+    "#00000066": {
+      "count": 1,
+      "sources": [
+        "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+      ]
+    },
+    "#000000b3": {
+      "count": 1,
+      "sources": [
+        "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+      ]
+    },
+    "#ffffff66": {
+      "count": 1,
+      "sources": [
+        "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+      ]
+    },
+    "#ffffff80": {
+      "count": 1,
+      "sources": [
+        "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+      ]
+    },
+    "#ffffffcc": {
+      "count": 1,
+      "sources": [
+        "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+      ]
+    }
+  },
+  "font_families": {
+    "Apple Color Emoji": [
+      "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+    ],
+    "Cambria": [
+      "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+    ],
+    "Campton": [
+      "https://www.kosterina.com/",
+      "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+    ],
+    "Consolas": [
+      "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+    ],
+    "Courier New": [
+      "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+    ],
+    "Georgia": [
+      "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+    ],
+    "Liberation Mono": [
+      "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+    ],
+    "Menlo": [
+      "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+    ],
+    "Monaco": [
+      "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+    ],
+    "Noto Color Emoji": [
+      "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+    ],
+    "Noto Color Emoji\"!important": [
+      "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+    ],
+    "SFMono-Regular": [
+      "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+    ],
+    "Segoe UI Emoji": [
+      "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+    ],
+    "Segoe UI Symbol": [
+      "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+    ],
+    "Suisse": [
+      "https://www.kosterina.com/",
+      "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+    ],
+    "Times": [
+      "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+    ],
+    "Times New Roman": [
+      "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+    ],
+    "athelas": [
+      "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418",
+      "https://use.typekit.net/ovd5ywa.css?p"
+    ],
+    "circe": [
+      "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418",
+      "https://use.typekit.net/ovd5ywa.css?p"
+    ],
+    "kudryashev-d-contrast": [
+      "https://use.typekit.net/ovd5ywa.css?p"
+    ],
+    "kudryashev-d-contrast-sans": [
+      "https://use.typekit.net/ovd5ywa.css?p"
+    ],
+    "kudryashev-d-excontrast": [
+      "https://use.typekit.net/ovd5ywa.css?p"
+    ],
+    "kudryashev-d-excontrast-sans": [
+      "https://use.typekit.net/ovd5ywa.css?p"
+    ],
+    "monospace": [
+      "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+    ],
+    "sans-serif": [
+      "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418",
+      "https://use.typekit.net/ovd5ywa.css?p"
+    ],
+    "serif": [
+      "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418",
+      "https://use.typekit.net/ovd5ywa.css?p"
+    ],
+    "system-ui": [
+      "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+    ],
+    "ui-monospace": [
+      "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+    ],
+    "ui-sans-serif": [
+      "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+    ],
+    "ui-serif": [
+      "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.kosterina.com/",
+      "selector": ":root,\n        .color-scheme-1",
+      "declarations": "--color-background: 255,255,255;\n        \n          --gradient-background: #ffffff;\n        \n\n        \n\n        --color-foreground: 0,0,0;\n        --color-background-contrast: 191,191,191;\n        --color-shadow: 0,0,0;\n        --color-button: 85,120,158;\n        --color-button-text: 255,255,255;\n        --color-secondary-button: 255,255,255;\n        --color-secondary-button-text: 0,0,0;\n        --color-link: 0,0,0;\n        --color-badge-foreground: 0,0,0;\n        --color-badge-background: 255,255,255;\n        --color-badge-border: 0,0,0;\n        --payment-terms-background-color: rgb(255 255 255);"
+    },
+    {
+      "source": "https://www.kosterina.com/",
+      "selector": "body",
+      "declarations": "display: grid;\n        grid-template-rows: auto auto 1fr auto;\n        grid-template-columns: 100%;\n        min-height: 100%;\n        margin: 0;\n        font-size: 1.5rem;\n        letter-spacing: 0;\n        line-height: calc(1 + 0.8 / var(--font-body-scale));\n        font-family: var(--font-body-family);\n        font-style: var(--font-body-style);\n        font-weight: var(--font-body-weight);"
+    },
+    {
+      "source": "https://www.kosterina.com/",
+      "selector": ":root .rc-login-form-email",
+      "declarations": "height: auto;\n    min-height: 48px;\n    padding: 12px 16px;\n    border: 1px solid var(--k-color-border-dark);\n    border-radius: 4px;\n    background: var(--k-color-white);\n    font-family: var(--k-font-sans);\n    font-size: 1.6rem;\n    font-weight: 300;\n    letter-spacing: 0;\n    line-height: 1.5;\n    color: var(--k-color-text);"
+    },
+    {
+      "source": "https://www.kosterina.com/",
+      "selector": ":root .rc-login-form-email::placeholder",
+      "declarations": "color: var(--k-color-text-light);"
+    },
+    {
+      "source": "https://www.kosterina.com/",
+      "selector": ".rc-login-form-button",
+      "declarations": "font-family: var(--k-font-sans);\n    text-transform: uppercase;\n    letter-spacing: 2px;\n    border-radius: 0;\n    padding: 20px 32px;\n    height: auto;"
+    },
+    {
+      "source": "https://www.kosterina.com/",
+      "selector": ":root .rc-login-form-email:focus,\n  :root .rc-login-form-email:not(:placeholder-shown)",
+      "declarations": "border-color: var(--k-color-accent);"
+    },
+    {
+      "source": "https://www.kosterina.com/",
+      "selector": ":root .rc-login",
+      "declarations": "--rc-title-font: var(--k-font-serif);\n    --rc-body-font: var(--k-font-sans);\n    --rc-font-color: var(--k-color-text);\n    --rc-button-bg-color: var(--k-color-accent);\n    --rc-button-font-color: var(--k-color-white);\n    --rc-border-radius: 4px;"
+    },
+    {
+      "source": "https://www.kosterina.com/",
+      "selector": ".recharge-theme .recharge-heading.recharge-heading-h1",
+      "declarations": "text-transform: none;\n    color: var(--k-color-text) !important;\n    margin-bottom: 16px !important;"
+    },
+    {
+      "source": "https://www.kosterina.com/",
+      "selector": ".recharge-theme .recharge-button",
+      "declarations": "display: inline-flex;\n    align-items: center;\n    justify-items: center;\n    height: auto !important;\n    max-height: 36px;\n    min-height: 36px;\n    width: 100%;\n    min-width: 120px;\n    cursor: pointer;\n    border-radius: 0;\n    border-width: 1px;\n    padding: 8px 14px;\n    margin-top: 8px;\n    text-align: center;\n    font-family: var(--k-font-sans);\n    font-size: 14px;\n    font-weight: 700 !important;\n    text-transform: uppercase;\n    letter-spacing: 0.15em;"
+    },
+    {
+      "source": "https://www.kosterina.com/",
+      "selector": ".recharge-theme .recharge-button *",
+      "declarations": "font-family: var(--k-font-sans);\n    font-size: 14px;\n    font-weight: 700 !important;\n    text-transform: uppercase;\n    letter-spacing: 0.15em;"
+    },
+    {
+      "source": "https://www.kosterina.com/",
+      "selector": ".recharge-theme .recharge-button[disabled]",
+      "declarations": "background-color: var(--k-color-border-dark) !important;\n    border-color: var(--k-color-border-dark) !important;\n    cursor: not-allowed;"
+    },
+    {
+      "source": "https://www.kosterina.com/",
+      "selector": ".recharge-theme .recharge-button.recharge-button-primary",
+      "declarations": "color: var(--k-color-white);"
+    },
+    {
+      "source": "https://www.kosterina.com/",
+      "selector": ".recharge-theme .recharge-button.recharge-button-secondary",
+      "declarations": "color: var(--k-color-text);\n    background: var(--k-color-white);\n    border-color: var(--k-color-text);"
+    },
+    {
+      "source": "https://www.kosterina.com/",
+      "selector": ".recharge-theme .recharge-button.recharge-button-tertiary",
+      "declarations": "color: var(--k-color-text-light);\n    background: var(--k-color-white);\n    border: 1px solid var(--k-color-border-dark);"
+    },
+    {
+      "source": "https://www.kosterina.com/",
+      "selector": "shadow), var(--popup-shadow-opacity))\n #shopify-section-sections--15330612838436__header #HeaderDrawer-mothers-day-shop, #shopify-section-sections--153306128384",
+      "declarations": "color: #d87787;"
+    },
+    {
+      "source": "https://www.kosterina.com/",
+      "selector": "#template--15330613100580__hero_carousel_preview-hero .hero-video-controls button",
+      "declarations": "appearance: none;\n    border: none;\n    box-shadow: none;\n    margin: 0;\n    padding: 0;\n    width: 40px;\n    height: 40px;\n    line-height: 1;\n    cursor: pointer;\n    border-radius: 9999px;\n    background: rgba(0, 0, 0, 0.55);\n    color: #fff;\n    display: none;\n    align-items: center;\n    justify-content: center;"
+    },
+    {
+      "source": "https://www.kosterina.com/",
+      "selector": ".header a[href=\"/pages/corporate-gifting\"]",
+      "declarations": "background: #55789e; color: white; text-decoration: none !important;"
+    },
+    {
+      "source": "https://www.kosterina.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.kosterina.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.kosterina.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.kosterina.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.kosterina.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.kosterina.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.kosterina.com/cdn/shop/t/90/assets/base.css?v=153585181071891846011776101212",
+      "selector": ":root",
+      "declarations": "--alpha-button-background: 1;--alpha-button-border: 1;--alpha-link: .85;--alpha-badge-border: .1"
+    },
+    {
+      "source": "https://www.kosterina.com/cdn/shop/t/90/assets/base.css?v=153585181071891846011776101212",
+      "selector": ".product-card-wrapper .card,.contains-card--product",
+      "declarations": "--border-radius: var(--product-card-corner-radius);--border-width: var(--product-card-border-width);--border-opacity: var(--product-card-border-opacity);--shadow-horizontal-offset: var(--product-card-shadow-horizontal-offset);--shadow-vertical-offset: var(--product-card-shadow-vertical-offset);--shadow-blur-radius: var(--product-card-shadow-blur-radius);--shadow-opacity: var(--product-card-shadow-opacity);--shadow-visible: var(--product-card-shadow-visible);--image-padding: var(--product-card-image-padding);--text-alignment: var(--product-card-text-alignment)"
+    },
+    {
+      "source": "https://www.kosterina.com/cdn/shop/t/90/assets/base.css?v=153585181071891846011776101212",
+      "selector": ".text-body",
+      "declarations": "font-size:1.5rem;letter-spacing:.06rem;line-height:calc(1 + .8 / var(--font-body-scale));font-family:var(--font-body-family);font-style:var(--font-body-style);font-weight:var(--font-body-weight)"
+    },
+    {
+      "source": "https://www.kosterina.com/cdn/shop/t/90/assets/base.css?v=153585181071891846011776101212",
+      "selector": "h1,h2,h3,h4,h5,.h0,.h1,.h2,.h3,.h4,.h5",
+      "declarations": "font-family:var(--font-heading-family);font-style:var(--font-heading-style);font-weight:var(--font-heading-weight);letter-spacing:calc(var(--font-heading-scale) * .06rem);color:rgb(var(--color-foreground));line-height:calc(1 + .3/max(1,var(--font-heading-scale)));word-break:break-word"
+    },
+    {
+      "source": "https://www.kosterina.com/cdn/shop/t/90/assets/base.css?v=153585181071891846011776101212",
+      "selector": ":root",
+      "declarations": "--duration-short: .1s;--duration-default: .2s;--duration-announcement-bar: .25s;--duration-medium: .3s;--duration-long: .5s;--duration-extra-long: .6s;--duration-extended: 3s;--ease-out-slow: cubic-bezier(0, 0, .3, 1);--animation-slide-in: slideIn var(--duration-extra-long) var(--ease-out-slow) forwards;--animation-fade-in: fadeIn var(--duration-extra-long) var(--ease-out-slow)"
+    },
+    {
+      "source": "https://www.kosterina.com/cdn/shop/t/90/assets/base.css?v=153585181071891846011776101212",
+      "selector": ".button--secondary,.button--tertiary",
+      "declarations": "--color-button: var(--color-secondary-button);--color-button-text: var(--color-secondary-button-text)"
+    },
+    {
+      "source": "https://www.kosterina.com/cdn/shop/t/90/assets/base.css?v=153585181071891846011776101212",
+      "selector": ".button--tertiary",
+      "declarations": "--alpha-button-background: 0;--alpha-button-border: .2"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Early Harvest Extra Virgin Olive Oil | Kosterina Greek Olive Oil",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kosterina.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kosterina.com/",
+        "https://www.kosterina.com/cdn/shop/t/90/assets/base.css?v=153585181071891846011776101212"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kosterina.com/",
+        "https://www.kosterina.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.kosterina.com/cdn/shop/t/90/assets/base.css?v=153585181071891846011776101212",
+        "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kosterina.com/",
+        "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kosterina.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kosterina.com/",
+        "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kosterina.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kosterina.com/",
+        "https://www.kosterina.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.kosterina.com/cdn/shop/t/90/assets/base.css?v=153585181071891846011776101212",
+        "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+      ]
+    },
+    "colors.border-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kosterina.com/"
+      ]
+    },
+    "colors.accent-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kosterina.com/",
+        "https://www.kosterina.com/cdn/shop/t/90/assets/global.css?v=165649722106230382391788918418"
+      ]
+    },
+    "colors.accent-pink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kosterina.com/"
+      ]
+    },
+    "colors.accent-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kosterina.com/"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kosterina.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.subscription-card": {
+      "status": "inferred"
+    }
+  }
+}

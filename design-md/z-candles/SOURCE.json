@@ -1,0 +1,711 @@
+{
+  "source_url": "https://zcandlestudio.com",
+  "final_url": "https://www.zcandlestudio.com/",
+  "captured_at": "2026-09-28T10:09:46.731748+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://zcandlestudio.com",
+      "final_url": "https://www.zcandlestudio.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "7f55fbcb53c9a8eb00a5f6ec9f1bb0b0c1612eced2a32eca9ae56eb67a7a9606",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854",
+      "final_url": "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b21051cb83ce89945ad5fadb9cf0bd67d036c9fe92b613ee4590d70c78c43801",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.zcandlestudio.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.zcandlestudio.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 16,
+      "sources": [
+        "https://www.zcandlestudio.com/",
+        "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854",
+        "https://www.zcandlestudio.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#d20000": {
+      "count": 9,
+      "sources": [
+        "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854"
+      ]
+    },
+    "#000000": {
+      "count": 8,
+      "sources": [
+        "https://www.zcandlestudio.com/",
+        "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854"
+      ]
+    },
+    "#ffffff80": {
+      "count": 5,
+      "sources": [
+        "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854"
+      ]
+    },
+    "#333232": {
+      "count": 4,
+      "sources": [
+        "https://www.zcandlestudio.com/"
+      ]
+    },
+    "#3a3a3a": {
+      "count": 3,
+      "sources": [
+        "https://www.zcandlestudio.com/"
+      ]
+    },
+    "#606060": {
+      "count": 3,
+      "sources": [
+        "https://www.zcandlestudio.com/"
+      ]
+    },
+    "#5a5858": {
+      "count": 3,
+      "sources": [
+        "https://www.zcandlestudio.com/"
+      ]
+    },
+    "#651818": {
+      "count": 3,
+      "sources": [
+        "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854"
+      ]
+    },
+    "#00000066": {
+      "count": 3,
+      "sources": [
+        "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854"
+      ]
+    },
+    "#000000bf": {
+      "count": 3,
+      "sources": [
+        "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854"
+      ]
+    },
+    "#212121": {
+      "count": 2,
+      "sources": [
+        "https://www.zcandlestudio.com/",
+        "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://www.zcandlestudio.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 2,
+      "sources": [
+        "https://www.zcandlestudio.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 2,
+      "sources": [
+        "https://www.zcandlestudio.com/"
+      ]
+    },
+    "#232323": {
+      "count": 2,
+      "sources": [
+        "https://www.zcandlestudio.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 2,
+      "sources": [
+        "https://www.zcandlestudio.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 2,
+      "sources": [
+        "https://www.zcandlestudio.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 2,
+      "sources": [
+        "https://www.zcandlestudio.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 2,
+      "sources": [
+        "https://www.zcandlestudio.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 2,
+      "sources": [
+        "https://www.zcandlestudio.com/"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 2,
+      "sources": [
+        "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854"
+      ]
+    },
+    "#fff8f8": {
+      "count": 2,
+      "sources": [
+        "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854"
+      ]
+    },
+    "#1f873d": {
+      "count": 2,
+      "sources": [
+        "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854"
+      ]
+    },
+    "#00000099": {
+      "count": 2,
+      "sources": [
+        "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.zcandlestudio.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.zcandlestudio.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#ea0606": {
+      "count": 1,
+      "sources": [
+        "https://www.zcandlestudio.com/"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 1,
+      "sources": [
+        "https://www.zcandlestudio.com/"
+      ]
+    },
+    "#d2d2d2": {
+      "count": 1,
+      "sources": [
+        "https://www.zcandlestudio.com/"
+      ]
+    },
+    "#685858": {
+      "count": 1,
+      "sources": [
+        "https://www.zcandlestudio.com/"
+      ]
+    },
+    "#ebebeb": {
+      "count": 1,
+      "sources": [
+        "https://www.zcandlestudio.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
+      "sources": [
+        "https://www.zcandlestudio.com/"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 1,
+      "sources": [
+        "https://www.zcandlestudio.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 1,
+      "sources": [
+        "https://www.zcandlestudio.com/"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 1,
+      "sources": [
+        "https://www.zcandlestudio.com/"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 1,
+      "sources": [
+        "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854"
+      ]
+    },
+    "#f8fff9": {
+      "count": 1,
+      "sources": [
+        "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854"
+      ]
+    },
+    "#3b5998": {
+      "count": 1,
+      "sources": [
+        "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854"
+      ]
+    },
+    "#00aced": {
+      "count": 1,
+      "sources": [
+        "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854"
+      ]
+    },
+    "#cb2027": {
+      "count": 1,
+      "sources": [
+        "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854"
+      ]
+    },
+    "#00730b": {
+      "count": 1,
+      "sources": [
+        "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854"
+      ]
+    },
+    "#dd2200": {
+      "count": 1,
+      "sources": [
+        "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854"
+      ]
+    },
+    "#3a3a3a0a": {
+      "count": 1,
+      "sources": [
+        "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.zcandlestudio.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.zcandlestudio.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.zcandlestudio.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Abel": [
+      "https://www.zcandlestudio.com/"
+    ],
+    "Arial": [
+      "https://www.zcandlestudio.com/",
+      "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854"
+    ],
+    "Consolas": [
+      "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854"
+    ],
+    "Helvetica": [
+      "https://www.zcandlestudio.com/",
+      "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854"
+    ],
+    "Helvetica Neue": [
+      "https://www.zcandlestudio.com/",
+      "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854"
+    ],
+    "HelveticaNeue": [
+      "https://www.zcandlestudio.com/",
+      "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854"
+    ],
+    "monospace": [
+      "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854"
+    ],
+    "object-fit: contain": [
+      "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854"
+    ],
+    "object-fit: cover": [
+      "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854"
+    ],
+    "sans-serif": [
+      "https://www.zcandlestudio.com/",
+      "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854"
+    ],
+    "slick-icons": [
+      "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.zcandlestudio.com/",
+      "selector": "body,html",
+      "declarations": "background-color:var(--color-body)"
+    },
+    {
+      "source": "https://www.zcandlestudio.com/",
+      "selector": "body,button",
+      "declarations": "font-size:calc(var(--font-size-base) * 1px);font-family:var(--font-stack-body);font-style:var(--font-style-body);font-weight:var(--font-weight-body);color:var(--color-text);line-height:1.5"
+    },
+    {
+      "source": "https://www.zcandlestudio.com/",
+      "selector": ".btn--link",
+      "declarations": "background-color:transparent;border:0;margin:0;color:var(--color-text);text-align:left"
+    },
+    {
+      "source": "https://www.zcandlestudio.com/",
+      "selector": ".h1,.h2,h1,h2",
+      "declarations": "margin:0 0 17.5px;font-family:var(--font-stack-header);font-style:var(--font-style-header);font-weight:var(--font-weight-header);line-height:1.2;overflow-wrap:break-word;word-wrap:break-word"
+    },
+    {
+      "source": "https://www.zcandlestudio.com/",
+      "selector": ".h1 a,.h2 a,h1 a,h2 a",
+      "declarations": "color:inherit;text-decoration:none;font-weight:inherit"
+    },
+    {
+      "source": "https://www.zcandlestudio.com/",
+      "selector": ".site-header",
+      "declarations": "position:relative;background-color:var(--color-body)"
+    },
+    {
+      "source": "https://www.zcandlestudio.com/",
+      "selector": ".site-header__cart-count",
+      "declarations": "display:flex;align-items:center;justify-content:center;position:absolute;right:.4rem;top:.2rem;font-weight:700;background-color:var(--color-btn-primary);color:var(--color-btn-primary-text);border-radius:50%;min-width:1em;height:1em"
+    },
+    {
+      "source": "https://www.zcandlestudio.com/",
+      "selector": ".site-header__cart-count span",
+      "declarations": "font-family:HelveticaNeue,\"Helvetica Neue\",Helvetica,Arial,sans-serif;font-size:calc(11em / 16);line-height:1"
+    },
+    {
+      "source": "https://www.zcandlestudio.com/",
+      "selector": ".site-nav__link--button",
+      "declarations": "border:none;background-color:transparent;padding:3px 10px"
+    },
+    {
+      "source": "https://www.zcandlestudio.com/",
+      "selector": ".site-header__mobile-nav",
+      "declarations": "z-index:11;position:relative;background-color:var(--color-body)"
+    },
+    {
+      "source": "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854",
+      "selector": ".slick-dots li button,.slick-dots li a",
+      "declarations": "border:0;background:transparent;display:block;height:20px;width:20px;line-height:0px;font-size:0px;color:transparent;padding:5px;cursor:pointer"
+    },
+    {
+      "source": "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854",
+      "selector": ".slick-dots li button:before,.slick-dots li a:before",
+      "declarations": "position:absolute;top:0;left:0;content:\"\\2022\";width:20px;height:20px;font-family:\"slick-icons, sans-serif\";font-size:6px;line-height:20px;text-align:center;color:#fff;opacity:.25;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale"
+    },
+    {
+      "source": "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854",
+      "selector": ".slick-dots li.slick-active button:before",
+      "declarations": "color:#fff;opacity:.75"
+    },
+    {
+      "source": "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854",
+      "selector": "button,input,optgroup,select,.disclosure__toggle,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0"
+    },
+    {
+      "source": "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854",
+      "selector": ".btn,.shopify-payment-button .shopify-payment-button__button--unbranded",
+      "declarations": "-moz-user-select:none;-ms-user-select:none;-webkit-user-select:none;user-select:none;-webkit-appearance:none;-moz-appearance:none;appearance:none;display:inline-block;width:auto;text-decoration:none;text-align:center;vertical-align:middle;cursor:pointer;border:1px solid transparent;border-radius:2px;padding:8px 15px;background-color:var(--color-btn-primary);color:var(--color-btn-primary-text);font-family:var(--font-stack-header);font-style:var(--font-style-header);font-weight:var(--font-weight-header);text-transform:uppercase;letter-spacing:.08em;white-space:normal;font-size:calc(((var(--font-size-base) - 2) / (var(--font-size-base))) * 1em)"
+    },
+    {
+      "source": "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854",
+      "selector": ".btn:not([disabled]):hover,.shopify-payment-button .shopify-payment-button__button--unbranded:not([disabled]):hover,.btn:focus,.shopify-payment-button .shopify-",
+      "declarations": "color:var(--color-btn-primary-text);background-color:var(--color-btn-primary-focus)"
+    },
+    {
+      "source": "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854",
+      "selector": ".btn--secondary",
+      "declarations": "background-color:transparent;color:var(--color-btn-primary);border-color:var(--color-btn-primary)"
+    },
+    {
+      "source": "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854",
+      "selector": ".btn--secondary:not([disabled]):hover,.btn--secondary:focus",
+      "declarations": "background-color:transparent;color:var(--color-btn-primary-focus);border-color:var(--color-btn-primary-focus)"
+    },
+    {
+      "source": "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854",
+      "selector": ".btn--secondary-accent",
+      "declarations": "background-color:var(--color-body);color:var(--color-btn-primary);border-color:var(--color-btn-primary)"
+    },
+    {
+      "source": "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854",
+      "selector": ".btn--secondary-accent:not([disabled]):hover,.btn--secondary-accent:focus",
+      "declarations": "background-color:var(--color-body);color:var(--color-btn-primary-focus);border-color:var(--color-btn-primary-focus)"
+    },
+    {
+      "source": "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854",
+      "selector": ".btn--tertiary",
+      "declarations": "background-color:transparent;color:var(--color-small-button-text-border);border-color:var(--color-small-button-text-border)"
+    },
+    {
+      "source": "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854",
+      "selector": ".btn--tertiary:not([disabled]):hover,.btn--tertiary:focus",
+      "declarations": "background-color:transparent;color:var(--color-small-button-text-border-focus);border-color:var(--color-small-button-text-border-focus)"
+    },
+    {
+      "source": "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854",
+      "selector": ".btn--link",
+      "declarations": "background-color:transparent;border:0;margin:0;color:var(--color-text);text-align:left"
+    },
+    {
+      "source": "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854",
+      "selector": ".btn--link:not([disabled]):hover,.btn--link:focus",
+      "declarations": "color:var(--color-text-focus);background-color:transparent"
+    },
+    {
+      "source": "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854",
+      "selector": ".site-nav__link--button:focus,.site-nav__link--button:hover",
+      "declarations": "color:var(--color-text-focus)"
+    },
+    {
+      "source": "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854",
+      "selector": ".drawer__close-button",
+      "declarations": "background:none;border:0 none;position:relative;right:-15px;height:100%;width:60px;padding:0 20px;color:inherit;font-size:calc(((18) / (var(--font-size-base))) * 1em)"
+    },
+    {
+      "source": "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854",
+      "selector": ".drawer__close-button:active,.drawer__close-button:focus",
+      "declarations": "background-color:#0009"
+    },
+    {
+      "source": "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854",
+      "selector": ".slideshow__arrows .slick-dots li button:before,.slideshow__arrows .slick-dots li a:before",
+      "declarations": "text-indent:-9999px;background-color:transparent;border-radius:100%;background-color:currentColor;width:10px;height:10px;opacity:.4;transition:all .2s"
+    },
+    {
+      "source": "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button",
+      "declarations": "color:var(--color-text)"
+    },
+    {
+      "source": "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854",
+      "selector": ".shopify-model-viewer-ui .shopify-model-viewer-ui__button--control:hover",
+      "declarations": "color:rgba(var(--color-text-rgb),.55)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Z CANDLES",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.zcandlestudio.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.zcandlestudio.com/",
+        "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854",
+        "https://www.zcandlestudio.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.zcandlestudio.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.zcandlestudio.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.zcandlestudio.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.zcandlestudio.com/",
+        "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854",
+        "https://www.zcandlestudio.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.zcandlestudio.com/",
+        "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854",
+        "https://www.zcandlestudio.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854"
+      ]
+    },
+    "colors.overlay": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.zcandlestudio.com/cdn/shop/t/8/assets/theme.css?v=136619971045174987231614313854"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.scent-tag": {
+      "status": "inferred"
+    }
+  }
+}

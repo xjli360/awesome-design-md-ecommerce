@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Zpacks
-description: A backcountry gear brand that paints its identity in trail-hardened blues — `#005e96` as the primary anchor, `#2055a3` as a deeper structural accent, and `#0a96cf` as the bright signal across navigation and interactive elements. The palette reads like a topographic map: cool, purposeful, and utterly unpretentious. Where other outdoor brands lean into earth tones or high-vis safety orange, Zpacks commits to a restrained navy-and-steel system punctuated by `#8da94e` (a muted sage-green that appears on category badges and environmental callouts) and `#e5fd6e` (a sharp chartreuse used sparingly for sale tags and urgency markers). The canvas is `#fdfdfd` — a near-white that avoids the sterile hospital feel of pure `#ffffff` — while `#f5f5f5` surfaces soft panels and card backgrounds. Hairlines run `#dedede`, keeping the grid present but quiet. The brand trusts its product photography (ultralight tents, frameless packs, titanium cookware against granite slabs) to carry the emotional weight; typography stays clean and unobtrusive, likely a system sans-serif at moderate weights. Buttons are rectangular with `{rounded.sm}` corners — no pill shapes, no whimsy. The search bar, however, goes full `{rounded.full}`, a subtle concession to usability on a site that otherwise feels engineered for the trail, not the mall. The overall effect is a brand that looks like it was designed by backpackers who happen to know CSS: every pixel justified by weight savings, every color chosen for legibility under a headlamp.
+name: "Zpacks"
+source_url: "https://zpacks.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A backcountry gear brand that paints its identity in trail-hardened blues — `#005e96` as the primary anchor, `#2055a3` as a deeper structural accent, and `#0a96cf` as the bright signal across navigation and interactive elements. The palette reads like a topographic map: cool, purposeful, and utterly unpretentious. Where other outdoor brands lean into earth tones or high-vis safety orange, Zpacks commits to a restrained navy-and-steel system punctuated by `#8da94e` (a muted sage-green that appears on category badges and environmental callouts) and `#e5fd6e` (a sharp chartreuse used sparingly for sale tags and urgency markers). The canvas is `#fdfdfd` — a near-white that avoids the sterile hospital feel of pure `#ffffff` — while `#f5f5f5` surfaces soft panels and card backgrounds. Hairlines run `#dedede`, keeping the grid present but quiet. The brand trusts its product photography (ultralight tents, frameless packs, titanium cookware against granite slabs) to carry the emotional weight; typography stays clean and unobtrusive, likely a system sans-serif at moderate weights. Buttons are rectangular with `{rounded.sm}` corners — no pill shapes, no whimsy. The search bar, however, goes full `{rounded.full}`, a subtle concession to usability on a site that otherwise feels engineered for the trail, not the mall. The overall effect is a brand that looks like it was designed by backpackers who happen to know CSS: every pixel justified by weight savings, every color chosen for legibility under a headlamp.
 
 colors:
   primary: "#005e96"
@@ -610,6 +614,8 @@ components:
 - Search bar reduces from full-width to icon-only trigger on mobile, expanding to full overlay on tap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No font-family declarations were extracted from the live site; `Inter` is assumed as a common system sans-serif — actual brand font may differ
 - Hover and active states for many components are inferred from common patterns rather than extracted from live CSS

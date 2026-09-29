@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Dr. Dennis Gross (Spectralite)
-description: A clinical-grade skincare brand that communicates efficacy through a stark black-and-white canvas punctuated by a single electric orange accent — #fe6728, the brand's primary voltage that fires across every CTA, badge, and product-highlight dot. The palette is deliberately restrained: near-black backgrounds (#050505, #1b1b1b) against warm off-white surfaces (#fafafa, #f5f5f5) create a dermatologist's-office precision, while a secondary orange (#ff651b) and a cautionary red (#cc0000) handle urgency signals. Typography runs a dual system — the serifed JHATimesNow-Light for aspirational display headlines (the "Spectralite" product name, ingredient stories) and AvenirNextLTPro-Regular for body copy, creating a tension between luxury editorial and clinical clarity. Buttons are sharp-cornered rectangles ({rounded.sm} at 8px) rather than pills, reinforcing the brand's no-nonsense medical credibility. Product cards use generous {spacing.lg} padding and {rounded.md} corners, with the Spectralite device rendered heroically against pure black — the only color allowed to compete with the orange is the device's own LED glow. The brand trusts negative space over decorative elements: there are no illustrations, no gradients, no decorative borders. Every design decision reads as "this product has been tested, this claim is proven."
+name: "Dr. Dennis Gross (Spectralite)"
+source_url: "https://drdennisgross.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A clinical-grade skincare brand that communicates efficacy through a stark black-and-white canvas punctuated by a single electric orange accent — #fe6728, the brand's primary voltage that fires across every CTA, badge, and product-highlight dot. The palette is deliberately restrained: near-black backgrounds (#050505, #1b1b1b) against warm off-white surfaces (#fafafa, #f5f5f5) create a dermatologist's-office precision, while a secondary orange (#ff651b) and a cautionary red (#cc0000) handle urgency signals. Typography runs a dual system — the serifed JHATimesNow-Light for aspirational display headlines (the "Spectralite" product name, ingredient stories) and AvenirNextLTPro-Regular for body copy, creating a tension between luxury editorial and clinical clarity. Buttons are sharp-cornered rectangles ({rounded.sm} at 8px) rather than pills, reinforcing the brand's no-nonsense medical credibility. Product cards use generous {spacing.lg} padding and {rounded.md} corners, with the Spectralite device rendered heroically against pure black — the only color allowed to compete with the orange is the device's own LED glow. The brand trusts negative space over decorative elements: there are no illustrations, no gradients, no decorative borders. Every design decision reads as "this product has been tested, this claim is proven."
 
 colors:
   primary: "#fe6728"
@@ -414,6 +418,8 @@ components:
 - Multi-step checkout collapses to a single-page scroll on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for secondary and ghost buttons could not be reliably extracted from the live site — the `button-secondary-active` and `button-ghost-active` tokens are inferred from common DTC patterns rather than observed behavior
 - Error styling for form validation (error messages, iconography, animation) was not observed — only the border color change was extracted

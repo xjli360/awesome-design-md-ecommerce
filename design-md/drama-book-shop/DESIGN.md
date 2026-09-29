@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: The Drama Book Shop
-description: A deep teal storefront — `#003e51` — that feels like a proscenium arch rendered in ink, not paint. The Drama Book Shop doesn't shout "theatre" with marquee bulbs or crimson velvet; it signals through a hushed, scholarly palette of teal (`#335f72`), pale aqua (`#d6e9ee`), and warm gray (`#dedede`) on a near-black body (`#121212`). American Typewriter, the brand's primary face, carries the weight of printed playbills and typeset scripts — its slab serifs and uneven letterforms evoke the tactile authority of a Broadway program. Buttons are softly rounded (`{rounded.sm}`) and filled with the primary teal, while secondary actions sit in the pale aqua or the light gray, keeping the interface calm and legible. The site reads as a quiet, knowledgeable companion — a bookstore that trusts its inventory and its audience's literacy, not flashy merchandising. White space (`{spacing.section}`) between sections gives each book, event, and resource room to breathe, and the consistent use of `{rounded.md}` on cards and `{rounded.full}` on search inputs maintains a gentle, approachable edge. There is no gratuitous ornament; every design decision serves the text.
+name: "The Drama Book Shop"
+source_url: "https://www.dramabookshop.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep teal storefront — `#003e51` — that feels like a proscenium arch rendered in ink, not paint. The Drama Book Shop doesn't shout "theatre" with marquee bulbs or crimson velvet; it signals through a hushed, scholarly palette of teal (`#335f72`), pale aqua (`#d6e9ee`), and warm gray (`#dedede`) on a near-black body (`#121212`). American Typewriter, the brand's primary face, carries the weight of printed playbills and typeset scripts — its slab serifs and uneven letterforms evoke the tactile authority of a Broadway program. Buttons are softly rounded (`{rounded.sm}`) and filled with the primary teal, while secondary actions sit in the pale aqua or the light gray, keeping the interface calm and legible. The site reads as a quiet, knowledgeable companion — a bookstore that trusts its inventory and its audience's literacy, not flashy merchandising. White space (`{spacing.section}`) between sections gives each book, event, and resource room to breathe, and the consistent use of `{rounded.md}` on cards and `{rounded.full}` on search inputs maintains a gentle, approachable edge. There is no gratuitous ornament; every design decision serves the text.
 
 colors:
   primary: "#003e51"
@@ -281,6 +285,8 @@ components:
 - Hero sections reduce vertical padding from `{spacing.section}` to `{spacing.xxl}` on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for most components (buttons, links, inputs) could not be reliably extracted from the live site. The `primary-active` color (`#002c3a`) is an inferred darker shade of the primary, not a confirmed extracted value.
 - Error styling for form inputs (validation messages, error borders) was not observed.

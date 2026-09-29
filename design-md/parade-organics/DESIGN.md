@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Parade Organics
-description: A baby-clothing brand that builds its visual identity around a soft, almost powdery blue (#9ebadc) — not the pastel pink or sage green you might expect from organic infant wear, but a cool, airy tone that appears on buttons, badges, and hover states throughout the site. This blue sits against a canvas of warm off-white (#fff7f2) and layered grays (#dedede, #e5e5e5, #f5f5f5) that give the interface a laundered-soft feel, like well-worn cotton sheets. The brand's secondary accent is a muted olive (#729311) — an unexpected, earthy counterpoint to the blue, used sparingly for sale badges and price highlights. Typography runs DM Sans at moderate weights (400–500 for body, 600 for buttons and headings), with generous line spacing that keeps the reading rhythm slow and gentle — appropriate for sleepwear and loungewear. Cards use soft rounding (`{rounded.sm}` ~8px) rather than pills, and the primary button sits at `{rounded.md}` (12px), a shape that reads as approachable but not infantilizing. The overall mood is calm, clean, and slightly Scandinavian — white space is used generously, borders are thin and gray (`{colors.hairline}` #e6e6e6), and the only bright voltage comes from a coral-red (#ff6d6d) used for error states and a deep navy (#2c2a41) for footer backgrounds. The brand trusts its product photography (sleeping babies, soft fabrics) to carry warmth rather than relying on decorative illustration or heavy typography.
+name: "Parade Organics"
+source_url: "https://parade.ca"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A baby-clothing brand that builds its visual identity around a soft, almost powdery blue (#9ebadc) — not the pastel pink or sage green you might expect from organic infant wear, but a cool, airy tone that appears on buttons, badges, and hover states throughout the site. This blue sits against a canvas of warm off-white (#fff7f2) and layered grays (#dedede, #e5e5e5, #f5f5f5) that give the interface a laundered-soft feel, like well-worn cotton sheets. The brand's secondary accent is a muted olive (#729311) — an unexpected, earthy counterpoint to the blue, used sparingly for sale badges and price highlights. Typography runs DM Sans at moderate weights (400–500 for body, 600 for buttons and headings), with generous line spacing that keeps the reading rhythm slow and gentle — appropriate for sleepwear and loungewear. Cards use soft rounding (`{rounded.sm}` ~8px) rather than pills, and the primary button sits at `{rounded.md}` (12px), a shape that reads as approachable but not infantilizing. The overall mood is calm, clean, and slightly Scandinavian — white space is used generously, borders are thin and gray (`{colors.hairline}` #e6e6e6), and the only bright voltage comes from a coral-red (#ff6d6d) used for error states and a deep navy (#2c2a41) for footer backgrounds. The brand trusts its product photography (sleeping babies, soft fabrics) to carry warmth rather than relying on decorative illustration or heavy typography.
 
 colors:
   primary: "#9ebadc"
@@ -384,6 +388,8 @@ components:
 - Accordion-style product descriptions replace side-by-side layouts on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for `button-secondary`, `text-input`, and `nav-link` are inferred from common patterns — exact extracted values not available
 - Error styling for forms (text-input-error border color) is based on the coral accent (#ff6d6d) appearing in the extracted palette, but exact error text color and helper text styling are unknown

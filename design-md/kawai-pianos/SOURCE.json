@@ -1,0 +1,458 @@
+{
+  "source_url": "https://www.kawai-global.com",
+  "final_url": "https://www.kawai-global.com/",
+  "captured_at": "2026-09-28T05:07:58.168474+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.kawai-global.com",
+      "final_url": "https://www.kawai-global.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "81317b1cb0a1c0a8dc6e7abd528e0d8a63ff9ddb009202e4baf6ba781ab7d488",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "d91e4861aae0bf33a439e6c02abfaacb08fd8747c29d4022ac822edbf56c98fd",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.kawai-global.com/css/common-layout-print.css",
+      "final_url": "https://www.kawai-global.com/css/common-layout-print.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5e7a51ac3eaac9f652bf5577449224489f0e10af90961f5add787842e9c3873f",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.kawai-global.com/sp/css/common-layout-print_sp.css",
+      "final_url": "https://www.kawai-global.com/sp/css/common-layout-print_sp.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5df7341576ad1d4919cd966b67fabe99555715f94dcba70e067564c0df734a28",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.kawai-global.com/sp/css/flexslider-min.css",
+      "final_url": "https://www.kawai-global.com/sp/css/flexslider-min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "00d11e223f54b1e68886139b9e0222655cd5ff48753833518b8d89da5de26f04",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "cc4216fc6c405b5073c85f0087ee703353df9cb18d1e884ff282e36993c28b5b",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 21,
+      "sources": [
+        "https://www.kawai-global.com/css/common-layout-print.css",
+        "https://www.kawai-global.com/sp/css/common-layout-print_sp.css",
+        "https://www.kawai-global.com/sp/css/flexslider-min.css"
+      ]
+    },
+    "#323232": {
+      "count": 13,
+      "sources": [
+        "https://www.kawai-global.com/css/common-layout-print.css",
+        "https://www.kawai-global.com/sp/css/common-layout-print_sp.css"
+      ]
+    },
+    "#e11922": {
+      "count": 9,
+      "sources": [
+        "https://www.kawai-global.com/css/common-layout-print.css",
+        "https://www.kawai-global.com/sp/css/common-layout-print_sp.css",
+        "https://www.kawai-global.com/sp/css/flexslider-min.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 9,
+      "sources": [
+        "https://www.kawai-global.com/css/common-layout-print.css",
+        "https://www.kawai-global.com/sp/css/common-layout-print_sp.css"
+      ]
+    },
+    "#000000": {
+      "count": 4,
+      "sources": [
+        "https://www.kawai-global.com/css/common-layout-print.css",
+        "https://www.kawai-global.com/sp/css/common-layout-print_sp.css",
+        "https://www.kawai-global.com/sp/css/flexslider-min.css"
+      ]
+    },
+    "#646464": {
+      "count": 4,
+      "sources": [
+        "https://www.kawai-global.com/css/common-layout-print.css"
+      ]
+    },
+    "#e11923": {
+      "count": 4,
+      "sources": [
+        "https://www.kawai-global.com/css/common-layout-print.css",
+        "https://www.kawai-global.com/sp/css/common-layout-print_sp.css"
+      ]
+    },
+    "#e0dfdf": {
+      "count": 3,
+      "sources": [
+        "https://www.kawai-global.com/css/common-layout-print.css"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 2,
+      "sources": [
+        "https://www.kawai-global.com/css/common-layout-print.css",
+        "https://www.kawai-global.com/sp/css/common-layout-print_sp.css"
+      ]
+    },
+    "#333333": {
+      "count": 2,
+      "sources": [
+        "https://www.kawai-global.com/css/common-layout-print.css",
+        "https://www.kawai-global.com/sp/css/common-layout-print_sp.css"
+      ]
+    },
+    "#c8c8c8": {
+      "count": 2,
+      "sources": [
+        "https://www.kawai-global.com/sp/css/common-layout-print_sp.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
+      "sources": [
+        "https://www.kawai-global.com/css/common-layout-print.css"
+      ]
+    },
+    "#dbdbdb": {
+      "count": 1,
+      "sources": [
+        "https://www.kawai-global.com/css/common-layout-print.css"
+      ]
+    },
+    "#d6121b": {
+      "count": 1,
+      "sources": [
+        "https://www.kawai-global.com/css/common-layout-print.css"
+      ]
+    },
+    "#d60e17": {
+      "count": 1,
+      "sources": [
+        "https://www.kawai-global.com/css/common-layout-print.css"
+      ]
+    },
+    "#d3d0ca": {
+      "count": 1,
+      "sources": [
+        "https://www.kawai-global.com/sp/css/flexslider-min.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Calibri": [
+      "https://www.kawai-global.com/css/common-layout-print.css",
+      "https://www.kawai-global.com/sp/css/common-layout-print_sp.css"
+    ],
+    "Source Sans Pro": [
+      "https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400&display=swap",
+      "https://www.kawai-global.com/css/common-layout-print.css",
+      "https://www.kawai-global.com/sp/css/common-layout-print_sp.css",
+      "https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,300;0,400;0,700;1,300;1,400&display=swap"
+    ],
+    "sans-serif": [
+      "https://www.kawai-global.com/css/common-layout-print.css",
+      "https://www.kawai-global.com/sp/css/common-layout-print_sp.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.kawai-global.com/css/common-layout-print.css",
+      "selector": "body",
+      "declarations": "color: #323232;\r\n\tbackground-color: #ffffff;\r\n\tfont-family: 'Source Sans Pro', Calibri, sans-serif;"
+    },
+    {
+      "source": "https://www.kawai-global.com/css/common-layout-print.css",
+      "selector": "div#HeaderBox div#searchbox",
+      "declarations": "width: 232px;\r\n\theight: 40px;\r\n\tbackground-color: #f2f2f2;\r\n\tposition: absolute;\r\n\ttop: -90px;\r\n\tright: 0;"
+    },
+    {
+      "source": "https://www.kawai-global.com/css/common-layout-print.css",
+      "selector": "div#HeaderBox div#searchbox .search_wrap input",
+      "declarations": "box-sizing: border-box;\r\n\theight: 40px;\r\n\tmargin: 0;\r\n\tpadding: 0 20px;\r\n\tcolor: #000;\r\n\tbackground-color: #f2f2f2 !important;\r\n\tborder: none;\r\n\tborder-radius: 0;\r\n\toutline: none;\r\n\t-webkit-appearance: none;\r\n\t-moz-appearance: none;\r\n\tappearance: none;\r\n\twidth: 192px;\r\n\tfont-family: 'Source Sans Pro';"
+    },
+    {
+      "source": "https://www.kawai-global.com/css/common-layout-print.css",
+      "selector": "div#HeaderBox div#searchbox .search_wrap input:focus",
+      "declarations": "background-color: #f2f2f2;"
+    },
+    {
+      "source": "https://www.kawai-global.com/css/common-layout-print.css",
+      "selector": "div#HeaderBox div#searchbox .search_wrap button:hover",
+      "declarations": "background-color: #dbdbdb;"
+    },
+    {
+      "source": "https://www.kawai-global.com/css/common-layout-print.css",
+      "selector": "div#HeaderBox p.lang a",
+      "declarations": "color: #646464;"
+    },
+    {
+      "source": "https://www.kawai-global.com/sp/css/common-layout-print_sp.css",
+      "selector": "body",
+      "declarations": "color: #323232;\r\n\tbackground-color: #ffffff;\r\n\tfont-family: 'Source Sans Pro', Calibri, sans-serif;"
+    },
+    {
+      "source": "https://www.kawai-global.com/sp/css/common-layout-print_sp.css",
+      "selector": "div#HeaderBox .header_bottom",
+      "declarations": "display: none;\r\n\twidth: 100%;\r\n\tpadding: 19px 0;\r\n\t\r\n\tbackground-color: #e11922;\r\n\tposition: relative;"
+    },
+    {
+      "source": "https://www.kawai-global.com/sp/css/common-layout-print_sp.css",
+      "selector": "div#HeaderBox p.close a",
+      "declarations": "display: none;\r\n\twidth: 60px;\r\n\theight: 63px;\r\n\ttext-indent: -9999px;\r\n\tbackground: url(../../images/common/svg_assets.svg) no-repeat -189px -127px / 305px 305px;\r\n\tbackground-color: #e11923;\r\n\tposition: absolute;\r\n\ttop: 0;\r\n\tright: 0;\r\n\tz-index: 5;"
+    },
+    {
+      "source": "https://www.kawai-global.com/sp/css/common-layout-print_sp.css",
+      "selector": "div#HeaderBox .header_bottom .sub p.lang a",
+      "declarations": "display: block;\r\n\theight: 16px;\r\n\tfont-size: 18px;\r\n\tpadding: 12px 20px 16px 47px;\r\n\tposition: relative;\r\n\tbackground-color: #fff;"
+    },
+    {
+      "source": "https://www.kawai-global.com/sp/css/common-layout-print_sp.css",
+      "selector": "div#HeaderBox .header_bottom #searchbox",
+      "declarations": "height: 44px;\r\n\tbackground-color: #f2f2f2;\r\n\tmargin: 0 16px 16px 16px;\r\n\tposition: relative;"
+    },
+    {
+      "source": "https://www.kawai-global.com/sp/css/common-layout-print_sp.css",
+      "selector": "div#HeaderBox div#searchbox .search_wrap input",
+      "declarations": "box-sizing: border-box;\r\n\theight: 44px;\r\n\tmargin: 0;\r\n\tpadding: 0 10px;\r\n\tcolor: #000;\r\n\tbackground-color: #f2f2f2 !important;\r\n\tborder: none;\r\n\tborder-radius: 0;\r\n\toutline: none;\r\n\t-webkit-appearance: none;\r\n\t-moz-appearance: none;\r\n\tappearance: none;\r\n\twidth: calc(100% - 50px);\r\n\tfont-family: 'Source Sans Pro';"
+    },
+    {
+      "source": "https://www.kawai-global.com/sp/css/common-layout-print_sp.css",
+      "selector": "div#HeaderBox div#searchbox .search_wrap input:focus",
+      "declarations": "background-color: #f2f2f2;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Kawai Musical Instruments Manufacturing Co., Ltd.",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kawai-global.com/css/common-layout-print.css",
+        "https://www.kawai-global.com/sp/css/common-layout-print_sp.css",
+        "https://www.kawai-global.com/sp/css/flexslider-min.css"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kawai-global.com/css/common-layout-print.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kawai-global.com/css/common-layout-print.css",
+        "https://www.kawai-global.com/sp/css/common-layout-print_sp.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kawai-global.com/css/common-layout-print.css",
+        "https://www.kawai-global.com/sp/css/common-layout-print_sp.css",
+        "https://www.kawai-global.com/sp/css/flexslider-min.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kawai-global.com/css/common-layout-print.css",
+        "https://www.kawai-global.com/sp/css/common-layout-print_sp.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kawai-global.com/css/common-layout-print.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kawai-global.com/css/common-layout-print.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kawai-global.com/css/common-layout-print.css",
+        "https://www.kawai-global.com/sp/css/common-layout-print_sp.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kawai-global.com/css/common-layout-print.css",
+        "https://www.kawai-global.com/sp/css/common-layout-print_sp.css"
+      ]
+    },
+    "colors.divider": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kawai-global.com/css/common-layout-print.css"
+      ]
+    },
+    "colors.border": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kawai-global.com/css/common-layout-print.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kawai-global.com/css/common-layout-print.css",
+        "https://www.kawai-global.com/sp/css/common-layout-print_sp.css",
+        "https://www.kawai-global.com/sp/css/flexslider-min.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-comparison-table": {
+      "status": "inferred"
+    }
+  }
+}

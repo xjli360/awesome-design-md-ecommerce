@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Quince
-description: The 3-degree warmth in #21201f — Quince's near-black — does more brand work than any campaign line: set against a #f7f7f5 canvas that reads linen rather than paper, it signals boutique temperature without boutique pricing. IvyPresto Headline carries display text in a light-weight editorial serif that nods to luxury fashion publishing, while Grosa — a geometric sans-serif — handles navigation, labels, and product specs with utilitarian precision; the contrast between these two type voices enacts the brand's core proposition in typographic form. Primary CTAs wear the same near-black, rendered as tracked uppercase Grosa labels with barely-there {rounded.xs} corners rather than the rounded pills that soften most DTC call-to-action buttons.
+name: "Quince"
+source_url: "https://www.quince.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The 3-degree warmth in #21201f — Quince's near-black — does more brand work than any campaign line: set against a #f7f7f5 canvas that reads linen rather than paper, it signals boutique temperature without boutique pricing. IvyPresto Headline carries display text in a light-weight editorial serif that nods to luxury fashion publishing, while Grosa — a geometric sans-serif — handles navigation, labels, and product specs with utilitarian precision; the contrast between these two type voices enacts the brand's core proposition in typographic form. Primary CTAs wear the same near-black, rendered as tracked uppercase Grosa labels with barely-there {rounded.xs} corners rather than the rounded pills that soften most DTC call-to-action buttons.
 
   Sale and clearance surfaces pull #af3535 — a terracotta-adjacent red that avoids garish urgency and reads instead like a price markdown in a printed catalog. Green stock indicators use #2d822b, similarly desaturated enough to feel deliberate rather than traffic-light functional. A warm peach #ffa273 punctuates contextual UI elements — promotional callouts, illustrative fills — as the only high-chroma note in a palette otherwise assembled from complex warm neutrals: #e5ccbc, #e2dad5, #dfdace, and #d0d3bb appear as surface tints for category tiles and card backgrounds, collectively giving the product grid a warmer temperature than white-canvas DTC defaults. Accent blues (#c8d3f1, #a5bdd6) surface within swatch systems for blue gemstone or fabric colorways rather than as UI chrome.
 
@@ -378,6 +382,8 @@ components:
 - Promo banner text may truncate with ellipsis at narrow widths; marquee scroll used for long messages
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Button corner radius is inferred as {rounded.xs} (2px) based on the minimal aesthetic; site may use fully square {rounded.none} corners on primary CTAs
 - Grosa font weight availability is unconfirmed; weight 500 for medium-emphasis elements may fall back to 400 if only regular/bold cuts are loaded

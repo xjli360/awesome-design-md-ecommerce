@@ -1,0 +1,562 @@
+{
+  "source_url": "https://republicofcats.com",
+  "final_url": "https://www.republicofcats.com/",
+  "captured_at": "2026-09-28T10:11:28.092797+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://republicofcats.com",
+      "final_url": "https://www.republicofcats.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "b8c0326e67c8ef5333ee795121c9d8f045f5da14a66cfde7c90875accbaffe0a",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.republicofcats.com/builder-assets/published-css/main-49fab36.z.css",
+      "final_url": "https://www.republicofcats.com/builder-assets/published-css/main-49fab36.z.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "49fab3607f8264610a9fc3169c94da647620b48de19f96d8ecf5c0885102df5d",
+      "snapshot": "stylesheet-1.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 140,
+      "sources": [
+        "https://www.republicofcats.com/",
+        "https://www.republicofcats.com/builder-assets/published-css/main-49fab36.z.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 132,
+      "sources": [
+        "https://www.republicofcats.com/",
+        "https://www.republicofcats.com/builder-assets/published-css/main-49fab36.z.css"
+      ]
+    },
+    "#1d1d1b": {
+      "count": 41,
+      "sources": [
+        "https://www.republicofcats.com/"
+      ]
+    },
+    "#f4e476": {
+      "count": 18,
+      "sources": [
+        "https://www.republicofcats.com/"
+      ]
+    },
+    "#64acb3": {
+      "count": 8,
+      "sources": [
+        "https://www.republicofcats.com/"
+      ]
+    },
+    "#1e0300": {
+      "count": 8,
+      "sources": [
+        "https://www.republicofcats.com/"
+      ]
+    },
+    "#ff6d55": {
+      "count": 7,
+      "sources": [
+        "https://www.republicofcats.com/"
+      ]
+    },
+    "#ffdc3f": {
+      "count": 5,
+      "sources": [
+        "https://www.republicofcats.com/"
+      ]
+    },
+    "#e294c4": {
+      "count": 4,
+      "sources": [
+        "https://www.republicofcats.com/"
+      ]
+    },
+    "#f2c930": {
+      "count": 4,
+      "sources": [
+        "https://www.republicofcats.com/"
+      ]
+    },
+    "#0a313e": {
+      "count": 3,
+      "sources": [
+        "https://www.republicofcats.com/"
+      ]
+    },
+    "#e5c700": {
+      "count": 3,
+      "sources": [
+        "https://www.republicofcats.com/"
+      ]
+    },
+    "#666666": {
+      "count": 3,
+      "sources": [
+        "https://www.republicofcats.com/builder-assets/published-css/main-49fab36.z.css"
+      ]
+    },
+    "#e4f1f2": {
+      "count": 2,
+      "sources": [
+        "https://www.republicofcats.com/"
+      ]
+    },
+    "#c9e4ea": {
+      "count": 2,
+      "sources": [
+        "https://www.republicofcats.com/"
+      ]
+    },
+    "#efeef0": {
+      "count": 2,
+      "sources": [
+        "https://www.republicofcats.com/"
+      ]
+    },
+    "#1c1c15": {
+      "count": 2,
+      "sources": [
+        "https://www.republicofcats.com/"
+      ]
+    },
+    "#f2c2c2": {
+      "count": 2,
+      "sources": [
+        "https://www.republicofcats.com/"
+      ]
+    },
+    "#e8d10b": {
+      "count": 2,
+      "sources": [
+        "https://www.republicofcats.com/"
+      ]
+    },
+    "#5fa7ae": {
+      "count": 1,
+      "sources": [
+        "https://www.republicofcats.com/"
+      ]
+    },
+    "#fee40a": {
+      "count": 1,
+      "sources": [
+        "https://www.republicofcats.com/"
+      ]
+    },
+    "#ffee5e": {
+      "count": 1,
+      "sources": [
+        "https://www.republicofcats.com/"
+      ]
+    },
+    "#0098db": {
+      "count": 1,
+      "sources": [
+        "https://www.republicofcats.com/builder-assets/published-css/main-49fab36.z.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.republicofcats.com/builder-assets/published-css/main-49fab36.z.css"
+    ],
+    "DM Sans": [
+      "https://www.republicofcats.com/"
+    ],
+    "arial": [
+      "https://www.republicofcats.com/"
+    ],
+    "sans-serif": [
+      "https://www.republicofcats.com/builder-assets/published-css/main-49fab36.z.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.republicofcats.com/",
+      "selector": "body",
+      "declarations": "color:#1d1d1b;"
+    },
+    {
+      "source": "https://www.republicofcats.com/",
+      "selector": "#lp-pom-button-593",
+      "declarations": "display:none;\n border-style:none;\n border-radius:calc(4px * var(--scale, 1));\n left:calc(159px * var(--scale, 1));\n top:calc(0px * var(--scale, 1));\n z-index:116;\n width:calc(150px * var(--scale, 1));\n height:calc(40px * var(--scale, 1));\n position:absolute;\n background:rgba(255,255,255,1);\n box-shadow:none;\n text-shadow:none;\n color:#000;\n border-width:calc(undefinedpx * var(--scale, 1));\n border-color:#undefined;\n font-size:calc(14px * var(--scale, 1));\n line-height:calc(17px * var(--scale, 1));\n font-weight:400;\n font-family:DM Sans;\n font-style:normal;\n text-align:center;\n background-repeat:no-repeat;"
+    },
+    {
+      "source": "https://www.republicofcats.com/",
+      "selector": "#lp-pom-button-594",
+      "declarations": "display:block;\n border-style:none;\n border-radius:calc(45px * var(--scale, 1));\n left:calc(1042px * var(--scale, 1));\n top:calc(10px * var(--scale, 1));\n z-index:117;\n width:calc(110px * var(--scale, 1));\n height:calc(40px * var(--scale, 1));\n position:absolute;\n background:rgba(29,29,27,1);\n box-shadow:none;\n text-shadow:none;\n color:#ffffff;\n border-width:calc(undefinedpx * var(--scale, 1));\n border-color:#undefined;\n font-size:calc(14px * var(--scale, 1));\n line-height:calc(17px * var(--scale, 1));\n font-weight:500;\n font-family:DM Sans;\n font-style:normal;\n text-align:center;\n background-repeat:no-repeat;"
+    },
+    {
+      "source": "https://www.republicofcats.com/",
+      "selector": "#lp-pom-button-598",
+      "declarations": "display:block;\n border-style:none;\n border-radius:calc(4px * var(--scale, 1));\n left:calc(127px * var(--scale, 1));\n top:calc(40px * var(--scale, 1));\n z-index:121;\n width:calc(96px * var(--scale, 1));\n height:calc(40px * var(--scale, 1));\n position:absolute;\n background:rgba(255,255,255,1);\n box-shadow:none;\n text-shadow:none;\n color:#000;\n border-width:calc(undefinedpx * var(--scale, 1));\n border-color:#undefined;\n font-size:calc(14px * var(--scale, 1));\n line-height:calc(17px * var(--scale, 1));\n font-weight:400;\n font-family:DM Sans;\n font-style:normal;\n text-align:center;\n background-repeat:no-repeat;"
+    },
+    {
+      "source": "https://www.republicofcats.com/",
+      "selector": "#lp-pom-button-599",
+      "declarations": "display:block;\n border-style:none;\n border-radius:calc(4px * var(--scale, 1));\n left:calc(409px * var(--scale, 1));\n top:calc(40px * var(--scale, 1));\n z-index:122;\n width:calc(90px * var(--scale, 1));\n height:calc(40px * var(--scale, 1));\n position:absolute;\n background:rgba(255,255,255,1);\n box-shadow:none;\n text-shadow:none;\n color:#000;\n border-width:calc(undefinedpx * var(--scale, 1));\n border-color:#undefined;\n font-size:calc(14px * var(--scale, 1));\n line-height:calc(17px * var(--scale, 1));\n font-weight:400;\n font-family:DM Sans;\n font-style:normal;\n text-align:center;\n background-repeat:no-repeat;"
+    },
+    {
+      "source": "https://www.republicofcats.com/",
+      "selector": "#lp-pom-button-600",
+      "declarations": "display:block;\n border-style:none;\n border-radius:calc(4px * var(--scale, 1));\n left:calc(7px * var(--scale, 1));\n top:calc(40px * var(--scale, 1));\n z-index:123;\n width:calc(120px * var(--scale, 1));\n height:calc(40px * var(--scale, 1));\n position:absolute;\n background:rgba(255,255,255,1);\n box-shadow:none;\n text-shadow:none;\n color:#000;\n border-width:calc(undefinedpx * var(--scale, 1));\n border-color:#undefined;\n font-size:calc(14px * var(--scale, 1));\n line-height:calc(17px * var(--scale, 1));\n font-weight:400;\n font-family:DM Sans;\n font-style:normal;\n text-align:center;\n background-repeat:no-repeat;"
+    },
+    {
+      "source": "https://www.republicofcats.com/",
+      "selector": "#lp-pom-button-601",
+      "declarations": "display:block;\n border-style:none;\n border-radius:calc(4px * var(--scale, 1));\n left:calc(223px * var(--scale, 1));\n top:calc(40px * var(--scale, 1));\n z-index:124;\n width:calc(96px * var(--scale, 1));\n height:calc(40px * var(--scale, 1));\n position:absolute;\n background:rgba(255,255,255,1);\n box-shadow:none;\n text-shadow:none;\n color:#000;\n border-width:calc(undefinedpx * var(--scale, 1));\n border-color:#undefined;\n font-size:calc(14px * var(--scale, 1));\n line-height:calc(17px * var(--scale, 1));\n font-weight:400;\n font-family:DM Sans;\n font-style:normal;\n text-align:center;\n background-repeat:no-repeat;"
+    },
+    {
+      "source": "https://www.republicofcats.com/",
+      "selector": "#lp-pom-button-602",
+      "declarations": "display:block;\n border-style:none;\n border-radius:calc(4px * var(--scale, 1));\n left:calc(319px * var(--scale, 1));\n top:calc(40px * var(--scale, 1));\n z-index:125;\n width:calc(90px * var(--scale, 1));\n height:calc(40px * var(--scale, 1));\n position:absolute;\n background:rgba(255,255,255,1);\n box-shadow:none;\n text-shadow:none;\n color:#000;\n border-width:calc(undefinedpx * var(--scale, 1));\n border-color:#undefined;\n font-size:calc(14px * var(--scale, 1));\n line-height:calc(17px * var(--scale, 1));\n font-weight:400;\n font-family:DM Sans;\n font-style:normal;\n text-align:center;\n background-repeat:no-repeat;"
+    },
+    {
+      "source": "https://www.republicofcats.com/",
+      "selector": "#lp-pom-button-603",
+      "declarations": "display:block;\n border-style:none;\n border-radius:calc(4px * var(--scale, 1));\n left:calc(499px * var(--scale, 1));\n top:calc(40px * var(--scale, 1));\n z-index:126;\n width:calc(90px * var(--scale, 1));\n height:calc(40px * var(--scale, 1));\n position:absolute;\n background:rgba(255,255,255,1);\n box-shadow:none;\n text-shadow:none;\n color:#000;\n border-width:calc(undefinedpx * var(--scale, 1));\n border-color:#undefined;\n font-size:calc(14px * var(--scale, 1));\n line-height:calc(17px * var(--scale, 1));\n font-weight:400;\n font-family:DM Sans;\n font-style:normal;\n text-align:center;\n background-repeat:no-repeat;"
+    },
+    {
+      "source": "https://www.republicofcats.com/",
+      "selector": "#lp-pom-button-50",
+      "declarations": "display:block;\n border-style:none;\n border-radius:calc(45px * var(--scale, 1));\n left:calc(80px * var(--scale, 1));\n top:calc(397px * var(--scale, 1));\n z-index:7;\n width:calc(313px * var(--scale, 1));\n height:calc(50px * var(--scale, 1));\n position:absolute;\n background:rgba(255,220,63,1);\n box-shadow:none;\n text-shadow:none;\n color:#1d1d1b;\n border-width:calc(undefinedpx * var(--scale, 1));\n border-color:#undefined;\n font-size:calc(16px * var(--scale, 1));\n line-height:calc(19px * var(--scale, 1));\n font-weight:700;\n font-family:DM Sans;\n font-style:normal;\n text-align:center;\n background-repeat:no-repeat;"
+    },
+    {
+      "source": "https://www.republicofcats.com/",
+      "selector": "#lp-pom-button-584",
+      "declarations": "display:none;\n border-style:none;\n border-radius:calc(4px * var(--scale, 1));\n left:calc(446px * var(--scale, 1));\n top:calc(10px * var(--scale, 1));\n z-index:4;\n width:calc(87px * var(--scale, 1));\n height:calc(40px * var(--scale, 1));\n position:absolute;\n background:rgba(255,255,255,1);\n box-shadow:none;\n text-shadow:none;\n color:#000;\n border-width:calc(undefinedpx * var(--scale, 1));\n border-color:#undefined;\n font-size:calc(14px * var(--scale, 1));\n line-height:calc(17px * var(--scale, 1));\n font-weight:400;\n font-family:DM Sans;\n font-style:normal;\n text-align:center;\n background-repeat:no-repeat;"
+    },
+    {
+      "source": "https://www.republicofcats.com/",
+      "selector": "#lp-pom-button-585",
+      "declarations": "display:none;\n border-style:none;\n border-radius:calc(4px * var(--scale, 1));\n left:calc(371px * var(--scale, 1));\n top:calc(10px * var(--scale, 1));\n z-index:6;\n width:calc(80px * var(--scale, 1));\n height:calc(40px * var(--scale, 1));\n position:absolute;\n background:rgba(255,255,255,1);\n box-shadow:none;\n text-shadow:none;\n color:#000;\n border-width:calc(undefinedpx * var(--scale, 1));\n border-color:#undefined;\n font-size:calc(14px * var(--scale, 1));\n line-height:calc(17px * var(--scale, 1));\n font-weight:400;\n font-family:DM Sans;\n font-style:normal;\n text-align:center;\n background-repeat:no-repeat;"
+    },
+    {
+      "source": "https://www.republicofcats.com/",
+      "selector": "#lp-pom-button-586",
+      "declarations": "display:none;\n border-style:none;\n border-radius:calc(4px * var(--scale, 1));\n left:calc(262px * var(--scale, 1));\n top:calc(10px * var(--scale, 1));\n z-index:8;\n width:calc(113px * var(--scale, 1));\n height:calc(40px * var(--scale, 1));\n position:absolute;\n background:rgba(255,255,255,1);\n box-shadow:none;\n text-shadow:none;\n color:#000;\n border-width:calc(undefinedpx * var(--scale, 1));\n border-color:#undefined;\n font-size:calc(14px * var(--scale, 1));\n line-height:calc(17px * var(--scale, 1));\n font-weight:400;\n font-family:DM Sans;\n font-style:normal;\n text-align:center;\n background-repeat:no-repeat;"
+    },
+    {
+      "source": "https://www.republicofcats.com/",
+      "selector": "#lp-pom-button-587",
+      "declarations": "display:none;\n border-style:none;\n border-radius:calc(4px * var(--scale, 1));\n left:calc(166px * var(--scale, 1));\n top:calc(10px * var(--scale, 1));\n z-index:10;\n width:calc(96px * var(--scale, 1));\n height:calc(40px * var(--scale, 1));\n position:absolute;\n background:rgba(255,255,255,1);\n box-shadow:none;\n text-shadow:none;\n color:#000;\n border-width:calc(undefinedpx * var(--scale, 1));\n border-color:#undefined;\n font-size:calc(14px * var(--scale, 1));\n line-height:calc(17px * var(--scale, 1));\n font-weight:400;\n font-family:DM Sans;\n font-style:normal;\n text-align:center;\n background-repeat:no-repeat;"
+    },
+    {
+      "source": "https://www.republicofcats.com/",
+      "selector": "#lp-pom-button-588",
+      "declarations": "display:none;\n border-style:none;\n border-radius:calc(4px * var(--scale, 1));\n left:calc(47px * var(--scale, 1));\n top:calc(10px * var(--scale, 1));\n z-index:11;\n width:calc(120px * var(--scale, 1));\n height:calc(40px * var(--scale, 1));\n position:absolute;\n background:rgba(255,255,255,1);\n box-shadow:none;\n text-shadow:none;\n color:#000;\n border-width:calc(undefinedpx * var(--scale, 1));\n border-color:#undefined;\n font-size:calc(14px * var(--scale, 1));\n line-height:calc(17px * var(--scale, 1));\n font-weight:400;\n font-family:DM Sans;\n font-style:normal;\n text-align:center;\n background-repeat:no-repeat;"
+    },
+    {
+      "source": "https://www.republicofcats.com/",
+      "selector": "#lp-pom-button-589",
+      "declarations": "display:none;\n border-style:none;\n border-radius:calc(4px * var(--scale, 1));\n left:calc(10px * var(--scale, 1));\n top:calc(10px * var(--scale, 1));\n z-index:12;\n width:calc(113px * var(--scale, 1));\n height:calc(40px * var(--scale, 1));\n position:absolute;\n background:rgba(255,255,255,1);\n box-shadow:none;\n text-shadow:none;\n color:#000;\n border-width:calc(undefinedpx * var(--scale, 1));\n border-color:#undefined;\n font-size:calc(14px * var(--scale, 1));\n line-height:calc(17px * var(--scale, 1));\n font-weight:400;\n font-family:DM Sans;\n font-style:normal;\n text-align:center;\n background-repeat:no-repeat;"
+    },
+    {
+      "source": "https://www.republicofcats.com/",
+      "selector": "#lp-pom-button-590",
+      "declarations": "display:none;\n border-style:none;\n border-radius:calc(4px * var(--scale, 1));\n left:calc(20px * var(--scale, 1));\n top:calc(20px * var(--scale, 1));\n z-index:13;\n width:calc(87px * var(--scale, 1));\n height:calc(40px * var(--scale, 1));\n position:absolute;\n background:rgba(255,255,255,1);\n box-shadow:none;\n text-shadow:none;\n color:#000;\n border-width:calc(undefinedpx * var(--scale, 1));\n border-color:#undefined;\n font-size:calc(14px * var(--scale, 1));\n line-height:calc(17px * var(--scale, 1));\n font-weight:400;\n font-family:DM Sans;\n font-style:normal;\n text-align:center;\n background-repeat:no-repeat;"
+    },
+    {
+      "source": "https://www.republicofcats.com/",
+      "selector": "#lp-pom-button-591",
+      "declarations": "display:none;\n border-style:none;\n border-radius:calc(4px * var(--scale, 1));\n left:calc(30px * var(--scale, 1));\n top:calc(30px * var(--scale, 1));\n z-index:14;\n width:calc(113px * var(--scale, 1));\n height:calc(40px * var(--scale, 1));\n position:absolute;\n background:rgba(255,255,255,1);\n box-shadow:none;\n text-shadow:none;\n color:#000;\n border-width:calc(undefinedpx * var(--scale, 1));\n border-color:#undefined;\n font-size:calc(14px * var(--scale, 1));\n line-height:calc(17px * var(--scale, 1));\n font-weight:400;\n font-family:DM Sans;\n font-style:normal;\n text-align:center;\n background-repeat:no-repeat;"
+    },
+    {
+      "source": "https://www.republicofcats.com/",
+      "selector": "#lp-pom-button-592",
+      "declarations": "display:none;\n border-style:none;\n border-radius:calc(4px * var(--scale, 1));\n left:calc(40px * var(--scale, 1));\n top:calc(40px * var(--scale, 1));\n z-index:15;\n width:calc(113px * var(--scale, 1));\n height:calc(40px * var(--scale, 1));\n position:absolute;\n background:rgba(255,255,255,1);\n box-shadow:none;\n text-shadow:none;\n color:#000;\n border-width:calc(undefinedpx * var(--scale, 1));\n border-color:#undefined;\n font-size:calc(14px * var(--scale, 1));\n line-height:calc(17px * var(--scale, 1));\n font-weight:400;\n font-family:DM Sans;\n font-style:normal;\n text-align:center;\n background-repeat:no-repeat;"
+    },
+    {
+      "source": "https://www.republicofcats.com/",
+      "selector": "#lp-pom-button-482",
+      "declarations": "display:block;\n border-style:none;\n border-radius:calc(45px * var(--scale, 1));\n left:calc(549px * var(--scale, 1));\n top:calc(1278px * var(--scale, 1));\n z-index:91;\n width:calc(150px * var(--scale, 1));\n height:calc(50px * var(--scale, 1));\n position:absolute;\n background:rgba(255,220,63,1);\n box-shadow:none;\n text-shadow:none;\n color:#000;\n border-width:calc(undefinedpx * var(--scale, 1));\n border-color:#undefined;\n font-size:calc(16px * var(--scale, 1));\n line-height:calc(19px * var(--scale, 1));\n font-weight:500;\n font-family:DM Sans;\n font-style:normal;\n text-align:center;\n background-repeat:no-repeat;"
+    },
+    {
+      "source": "https://www.republicofcats.com/",
+      "selector": "#lp-pom-button-62",
+      "declarations": "display:block;\n border-style:none;\n border-radius:calc(45px * var(--scale, 1));\n left:calc(70px * var(--scale, 1));\n top:calc(390px * var(--scale, 1));\n z-index:20;\n width:calc(150px * var(--scale, 1));\n height:calc(50px * var(--scale, 1));\n position:absolute;\n background:rgba(255,255,255,1);\n box-shadow:none;\n text-shadow:none;\n color:#000;\n border-width:calc(undefinedpx * var(--scale, 1));\n border-color:#undefined;\n font-size:calc(16px * var(--scale, 1));\n line-height:calc(19px * var(--scale, 1));\n font-weight:500;\n font-family:DM Sans;\n font-style:normal;\n text-align:center;\n background-repeat:no-repeat;"
+    },
+    {
+      "source": "https://www.republicofcats.com/",
+      "selector": "#lp-pom-button-194",
+      "declarations": "display:block;\n border-style:none;\n border-radius:calc(25px * var(--scale, 1));\n left:calc(50px * var(--scale, 1));\n top:calc(271px * var(--scale, 1));\n z-index:90;\n width:calc(150px * var(--scale, 1));\n height:calc(50px * var(--scale, 1));\n position:absolute;\n background:rgba(29,29,27,1);\n box-shadow:none;\n text-shadow:none;\n color:#ffffff;\n border-width:calc(undefinedpx * var(--scale, 1));\n border-color:#undefined;\n font-size:calc(16px * var(--scale, 1));\n line-height:calc(19px * var(--scale, 1));\n font-weight:500;\n font-family:DM Sans;\n font-style:normal;\n text-align:center;\n background-repeat:no-repeat;"
+    },
+    {
+      "source": "https://www.republicofcats.com/",
+      "selector": "#lp-pom-button-488",
+      "declarations": "display:block;\n border-style:none;\n border-radius:calc(0px * var(--scale, 1));\n left:calc(16px * var(--scale, 1));\n top:calc(156px * var(--scale, 1));\n z-index:72;\n width:calc(270px * var(--scale, 1));\n height:calc(25px * var(--scale, 1));\n position:absolute;\n background:rgba(255,109,85,0);\n box-shadow:none;\n text-shadow:none;\n color:#ff6d55;\n border-width:calc(undefinedpx * var(--scale, 1));\n border-color:#undefined;\n font-size:calc(17px * var(--scale, 1));\n line-height:calc(20px * var(--scale, 1));\n font-weight:400;\n font-family:DM Sans;\n font-style:normal;\n text-align:center;\n background-repeat:no-repeat;"
+    },
+    {
+      "source": "https://www.republicofcats.com/",
+      "selector": "#lp-pom-button-489",
+      "declarations": "display:block;\n border-style:none;\n border-radius:calc(0px * var(--scale, 1));\n left:calc(16px * var(--scale, 1));\n top:calc(156px * var(--scale, 1));\n z-index:60;\n width:calc(266px * var(--scale, 1));\n height:calc(25px * var(--scale, 1));\n position:absolute;\n background:rgba(100,172,179,0);\n box-shadow:none;\n text-shadow:none;\n color:#64acb3;\n border-width:calc(undefinedpx * var(--scale, 1));\n border-color:#undefined;\n font-size:calc(17px * var(--scale, 1));\n line-height:calc(20px * var(--scale, 1));\n font-weight:400;\n font-family:DM Sans;\n font-style:normal;\n text-align:center;\n background-repeat:no-repeat;"
+    },
+    {
+      "source": "https://www.republicofcats.com/",
+      "selector": "#lp-pom-button-559",
+      "declarations": "display:block;\n border-style:none;\n border-radius:calc(93px * var(--scale, 1));\n left:calc(947px * var(--scale, 1));\n top:calc(9px * var(--scale, 1));\n z-index:96;\n width:calc(297px * var(--scale, 1));\n height:calc(50px * var(--scale, 1));\n position:absolute;\n background:rgba(255,255,255,1);\n box-shadow:none;\n text-shadow:none;\n color:#000;\n border-width:calc(undefinedpx * var(--scale, 1));\n border-color:#undefined;\n font-size:calc(16px * var(--scale, 1));\n line-height:calc(19px * var(--scale, 1));\n font-weight:500;\n font-family:DM Sans;\n font-style:normal;\n text-align:center;\n background-repeat:no-repeat;"
+    },
+    {
+      "source": "https://www.republicofcats.com/",
+      "selector": "#lp-pom-button-560",
+      "declarations": "display:block;\n border-style:solid;\n border-radius:calc(93px * var(--scale, 1));\n left:calc(947px * var(--scale, 1));\n top:calc(71px * var(--scale, 1));\n z-index:99;\n width:calc(297px * var(--scale, 1));\n height:calc(46px * var(--scale, 1));\n position:absolute;\n background:rgba(255,255,255,0);\n box-shadow:none;\n text-shadow:none;\n color:#ffffff;\n border-width:calc(2px * var(--scale, 1));\n border-color:#ffffff;\n font-size:calc(16px * var(--scale, 1));\n line-height:calc(19px * var(--scale, 1));\n font-weight:500;\n font-family:DM Sans;\n font-style:normal;\n text-align:center;\n background-repeat:no-repeat;"
+    },
+    {
+      "source": "https://www.republicofcats.com/",
+      "selector": "#lp-pom-button-557",
+      "declarations": "display:block;\n border-style:none;\n border-radius:calc(45px * var(--scale, 1));\n left:calc(596px * var(--scale, 1));\n top:calc(0px * var(--scale, 1));\n z-index:97;\n width:calc(163px * var(--scale, 1));\n height:calc(50px * var(--scale, 1));\n position:absolute;\n background:rgba(255,255,255,1);\n box-shadow:none;\n text-shadow:none;\n color:#1d1d1b;\n border-width:calc(undefinedpx * var(--scale, 1));\n border-color:#undefined;\n font-size:calc(17px * var(--scale, 1));\n line-height:calc(20px * var(--scale, 1));\n font-weight:500;\n font-family:DM Sans;\n font-style:normal;\n text-align:center;\n background-repeat:no-repeat;"
+    },
+    {
+      "source": "https://www.republicofcats.com/",
+      "selector": "#lp-pom-button-50:hover",
+      "declarations": "background:rgba(242,201,48,1);\n box-shadow:none;\n color:#1d1d1b;"
+    },
+    {
+      "source": "https://www.republicofcats.com/",
+      "selector": "#lp-pom-button-50:active",
+      "declarations": "background:rgba(244,228,118,1);\n box-shadow:none;\n color:#000;"
+    },
+    {
+      "source": "https://www.republicofcats.com/",
+      "selector": "#lp-pom-button-62:hover",
+      "declarations": "background:rgba(229,199,0,1);\n box-shadow:none;\n color:#000;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Republic of Cats | Tailored Cat Food",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.republicofcats.com/"
+      ]
+    },
+    "colors.primary-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.republicofcats.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.republicofcats.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.republicofcats.com/",
+        "https://www.republicofcats.com/builder-assets/published-css/main-49fab36.z.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.republicofcats.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.republicofcats.com/builder-assets/published-css/main-49fab36.z.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.republicofcats.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.republicofcats.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.republicofcats.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.republicofcats.com/"
+      ]
+    },
+    "colors.on-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.republicofcats.com/",
+        "https://www.republicofcats.com/builder-assets/published-css/main-49fab36.z.css"
+      ]
+    },
+    "colors.accent-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.republicofcats.com/"
+      ]
+    },
+    "colors.accent-coral": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.republicofcats.com/"
+      ]
+    },
+    "colors.accent-pink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.republicofcats.com/"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.republicofcats.com/"
+      ]
+    },
+    "colors.navy": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.republicofcats.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.plan-quiz-step": {
+      "status": "inferred"
+    }
+  }
+}

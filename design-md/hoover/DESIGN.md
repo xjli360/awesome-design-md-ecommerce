@@ -1,11 +1,15 @@
 ---
 version: alpha
-name: Hoover
-description: A sage-green accent (#aaccaa) sitting alongside fire-engine red (#bb0321) is not the palette instinct for a company that has been making cleaning equipment for over a century — yet it is precisely the move that keeps Hoover's digital storefront from reading as purely industrial. The red is unambiguous: it lands on every primary CTA, hero callout, and promotional flag, with its hover state stepping to #bf1a2f — barely a half-degree shift, enough to register as the brand pressing forward. Beneath that single voltage, three grays carry the structural load. #484848 handles body text and secondary labels; #e1e3e4 frames input strokes and card borders; #dedede draws the row separators and background hairlines. Near-black #121212 reserves itself for the heaviest display moments — hero headings and product titles — while the sage (#aaccaa) resurfaces in feature callout fills, promotional chip backgrounds, and illustrated category badges, doing the work of signaling "highlighted" without borrowing the urgency the red already owns.
+name: "Hoover"
+source_url: "https://www.hoover.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A sage-green accent (#aaccaa) sitting alongside fire-engine red (#bb0321) is not the palette instinct for a company that has been making cleaning equipment for over a century — yet it is precisely the move that keeps Hoover's digital storefront from reading as purely industrial. The red is unambiguous: it lands on every primary CTA, hero callout, and promotional flag, with its hover state stepping to #bf1a2f — barely a half-degree shift, enough to register as the brand pressing forward. Beneath that single voltage, three grays carry the structural load. #484848 handles body text and secondary labels; #e1e3e4 frames input strokes and card borders; #dedede draws the row separators and background hairlines. Near-black #121212 reserves itself for the heaviest display moments — hero headings and product titles — while the sage (#aaccaa) resurfaces in feature callout fills, promotional chip backgrounds, and illustrated category badges, doing the work of signaling "highlighted" without borrowing the urgency the red already owns.
 
-Typography is entirely Roboto, a deliberate choice for a brand whose customers compare suction wattage, filtration stages, and compatible bag SKUs in the same session they are making a purchase decision. Roboto's even stroke weight and open x-height keep spec tables and product names equally legible at 12px and 32px. Display headings push to weight 700 to hold their own against photography-forward hero layouts; body and UI labels stay at 400–500 so spec-heavy product pages do not collapse into visual noise. Button labels sit at 500 weight and 15px inside a modestly squared CTA shape — `{rounded.sm}` at 4px — that skips the pill trend in favor of something more engineered, matching the mechanical aesthetic of upright vacuums and robot mops without going fully boxy.
+  Typography is entirely Roboto, a deliberate choice for a brand whose customers compare suction wattage, filtration stages, and compatible bag SKUs in the same session they are making a purchase decision. Roboto's even stroke weight and open x-height keep spec tables and product names equally legible at 12px and 32px. Display headings push to weight 700 to hold their own against photography-forward hero layouts; body and UI labels stay at 400–500 so spec-heavy product pages do not collapse into visual noise. Button labels sit at 500 weight and 15px inside a modestly squared CTA shape — `{rounded.sm}` at 4px — that skips the pill trend in favor of something more engineered, matching the mechanical aesthetic of upright vacuums and robot mops without going fully boxy.
 
-What makes the system distinctive in its category is the two-color signal discipline: most appliance brands default to charcoal-on-white with a blue primary, and Hoover has instead committed to a red-and-sage pairing where red means act and sage means feature. The white canvas and cool mid-grays give product photography the room it needs; neither the red nor the sage appears unless it has a job to do. That restraint is what makes the red feel loud when it does fire.
+  What makes the system distinctive in its category is the two-color signal discipline: most appliance brands default to charcoal-on-white with a blue primary, and Hoover has instead committed to a red-and-sage pairing where red means act and sage means feature. The white canvas and cool mid-grays give product photography the room it needs; neither the red nor the sage appears unless it has a job to do. That restraint is what makes the red feel loud when it does fire.
 
 colors:
   primary: "#bb0321"
@@ -391,6 +395,8 @@ components:
 - Search bar in the nav collapses to a magnifying-glass icon on mobile, expanding inline on tap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Custom icon set not identified; SVG glyph library for product category navigation (Robot, Upright, Stick, Handheld, Carpet) is not confirmed from extraction
 - Exact font loading method not confirmed — Roboto may be loaded via Google Fonts CDN or bundled; no `@font-face` data extracted

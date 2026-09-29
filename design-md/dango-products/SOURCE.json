@@ -1,0 +1,816 @@
+{
+  "source_url": "https://dangoproducts.com",
+  "final_url": "https://www.dangoproducts.com/",
+  "captured_at": "2026-09-28T10:23:24.487268+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://dangoproducts.com",
+      "final_url": "https://www.dangoproducts.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "1a7b85b3c008cb0b9a93bf1053a3cd0aa885dc64522063c4ba24a936d1297997",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://use.typekit.net/pho4ihe.css",
+      "final_url": "https://use.typekit.net/pho4ihe.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "3300e4422c419e6603837f7b567652dbbb23adbacf1d989f7f5a290552ee4bda",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007",
+      "final_url": "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c9d5d1ce367953e4824b0d3c4b739400dc81eb7a58820819c14ae816ec8074b1",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.dangoproducts.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.dangoproducts.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0d93c-7816-7f17-b369-eae1a22ba14f/checkmate-5-905/assets/index.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0d93c-7816-7f17-b369-eae1a22ba14f/checkmate-5-905/assets/index.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "abb87667cf2a6ea31a793e5d9d7e748f52f5eef28158f482109acb4e8bebc59e",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.dangoproducts.com/cdn/shop/t/58/assets/section-promo-bar-with-menu.min.css?v=119490330619413415121777907289",
+      "final_url": "https://www.dangoproducts.com/cdn/shop/t/58/assets/section-promo-bar-with-menu.min.css?v=119490330619413415121777907289",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e422510fdde846d3b2d888f35edc2bdb18d44461d1127ba7cbca47540394a1ac",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 66,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007",
+        "https://www.dangoproducts.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#000000": {
+      "count": 36,
+      "sources": [
+        "https://www.dangoproducts.com/",
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#fa6400": {
+      "count": 31,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#e05a00": {
+      "count": 24,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#666666": {
+      "count": 15,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#7e7f50": {
+      "count": 14,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#5a5a2b": {
+      "count": 8,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#ebebeb": {
+      "count": 8,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#742d1e": {
+      "count": 8,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#1f284d": {
+      "count": 8,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#3f3f1e": {
+      "count": 8,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#5c3c0c": {
+      "count": 8,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#c75000": {
+      "count": 7,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#a8916c": {
+      "count": 7,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#2222221a": {
+      "count": 6,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#22222259": {
+      "count": 6,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#00000080": {
+      "count": 6,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#ffffff80": {
+      "count": 6,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#3d3d3d": {
+      "count": 6,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#fff8f0": {
+      "count": 6,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#16120c": {
+      "count": 5,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#dbc89a": {
+      "count": 4,
+      "sources": [
+        "https://www.dangoproducts.com/"
+      ]
+    },
+    "#888d68": {
+      "count": 4,
+      "sources": [
+        "https://www.dangoproducts.com/"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 4,
+      "sources": [
+        "https://www.dangoproducts.com/"
+      ]
+    },
+    "#5f5134": {
+      "count": 4,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#d3d4b5": {
+      "count": 4,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#923a28": {
+      "count": 4,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#3a4880": {
+      "count": 4,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#7a5212": {
+      "count": 4,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#b04e3a": {
+      "count": 4,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#4d5d96": {
+      "count": 4,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#b8852a": {
+      "count": 4,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#ff6600": {
+      "count": 4,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#fbf3f0": {
+      "count": 4,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#f0f2f7": {
+      "count": 4,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#f5f5ec": {
+      "count": 4,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#fbf7ee": {
+      "count": 4,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#bdbf97": {
+      "count": 4,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#c8b190": {
+      "count": 3,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#2a2318": {
+      "count": 3,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#9b9c72": {
+      "count": 3,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#ffe8cc": {
+      "count": 3,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#bfbfbf": {
+      "count": 3,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#ed702d": {
+      "count": 2,
+      "sources": [
+        "https://www.dangoproducts.com/"
+      ]
+    },
+    "#b78744": {
+      "count": 2,
+      "sources": [
+        "https://www.dangoproducts.com/"
+      ]
+    },
+    "#9a5630": {
+      "count": 2,
+      "sources": [
+        "https://www.dangoproducts.com/"
+      ]
+    },
+    "#4d4c4c": {
+      "count": 2,
+      "sources": [
+        "https://www.dangoproducts.com/"
+      ]
+    },
+    "#cd7f32": {
+      "count": 2,
+      "sources": [
+        "https://www.dangoproducts.com/"
+      ]
+    },
+    "#36659b": {
+      "count": 2,
+      "sources": [
+        "https://www.dangoproducts.com/"
+      ]
+    },
+    "#808080": {
+      "count": 2,
+      "sources": [
+        "https://www.dangoproducts.com/"
+      ]
+    },
+    "#7c8588": {
+      "count": 2,
+      "sources": [
+        "https://www.dangoproducts.com/"
+      ]
+    },
+    "#f61f1f": {
+      "count": 2,
+      "sources": [
+        "https://www.dangoproducts.com/"
+      ]
+    },
+    "#d49a06": {
+      "count": 2,
+      "sources": [
+        "https://www.dangoproducts.com/"
+      ]
+    },
+    "#eab9ab": {
+      "count": 2,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#b4bedd": {
+      "count": 2,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#d6d6d6": {
+      "count": 2,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#edd59e": {
+      "count": 2,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#f5ddd6": {
+      "count": 2,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#d8deee": {
+      "count": 2,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "#e6e7d4": {
+      "count": 2,
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    }
+  },
+  "font_families": {
+    "cholla-slab": [
+      "https://use.typekit.net/pho4ihe.css"
+    ],
+    "helvetica-neue-lt-pro": [
+      "https://use.typekit.net/pho4ihe.css"
+    ],
+    "monospace": [
+      "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+    ],
+    "sans-serif": [
+      "https://use.typekit.net/pho4ihe.css",
+      "https://cdn.shopify.com/extensions/01a0d93c-7816-7f17-b369-eae1a22ba14f/checkmate-5-905/assets/index.css"
+    ],
+    "serif": [
+      "https://use.typekit.net/pho4ihe.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.dangoproducts.com/",
+      "selector": ":root",
+      "declarations": "--lxs-rating-icon-color: #ed702d;"
+    },
+    {
+      "source": "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;line-height:1.15;margin:0"
+    },
+    {
+      "source": "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007",
+      "selector": "button",
+      "declarations": "-webkit-tap-highlight-color:transparent;-moz-appearance:none;appearance:none;-webkit-appearance:none;background:transparent;border:none;color:currentColor;cursor:pointer;min-width:2rem;padding:unset"
+    },
+    {
+      "source": "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007",
+      "selector": ".btn",
+      "declarations": "--icon-size:1em;align-items:center;box-sizing:border-box;display:inline-flex;gap:.5625rem;justify-content:center;line-height:1;min-height:var(--button-min-height,2rem);min-width:var(--button-min-width,2rem);text-align:center;transition:color .15s ease-in,background-color .15s ease-in,border-color .15s ease-in,box-shadow .15s ease-in"
+    },
+    {
+      "source": "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007",
+      "selector": ".btn--primary",
+      "declarations": "background-color:var(--surface-button);color:var(--text-button)"
+    },
+    {
+      "source": "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007",
+      "selector": ".btn--primary,.btn--secondary",
+      "declarations": "--button-min-width:10rem;--button-min-height:3.8125rem;border:.125rem solid var(--border-button);border-radius:0;font-family:var(--font-display);font-optical-sizing:auto;font-size:var(--font-static-xxl);font-variation-settings:\"wdth\" 100;font-weight:700;line-height:1;padding:0 var(--grid-responsive-lg);text-transform:uppercase"
+    },
+    {
+      "source": "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007",
+      "selector": ".btn--secondary",
+      "declarations": "color:var(--text-button-secondary)"
+    },
+    {
+      "source": "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007",
+      "selector": ".btn--secondary,.btn--tertiary",
+      "declarations": "background-color:var(--surface-primary)"
+    },
+    {
+      "source": "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007",
+      "selector": ".btn--tertiary",
+      "declarations": "--button-min-width:7.5rem;--button-min-height:3.8125rem;border-radius:0;color:var(--text-button-tertiary);font-family:var(--font-display);font-optical-sizing:auto;font-size:var(--font-static-xxl);font-variation-settings:\"wdth\" 100;font-weight:700;line-height:1;padding:0 var(--grid-static-md);text-transform:uppercase"
+    },
+    {
+      "source": "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007",
+      "selector": ".btn--icon-primary",
+      "declarations": "background-color:var(--surface-button);border:.125rem solid var(--border-button);border-radius:50%;color:var(--text-button);height:2.75rem;width:2.75rem"
+    },
+    {
+      "source": "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007",
+      "selector": ".btn--icon-secondary",
+      "declarations": "border:.125rem solid var(--text-button-secondary);border-radius:50%;color:var(--text-button-secondary)"
+    },
+    {
+      "source": "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007",
+      "selector": ".btn--icon-secondary,.btn--icon-tertiary",
+      "declarations": "background-color:transparent;height:2.75rem;width:2.75rem"
+    },
+    {
+      "source": "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007",
+      "selector": ".btn--icon-tertiary",
+      "declarations": "border-radius:50%;color:var(--text-link)"
+    },
+    {
+      "source": "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007",
+      "selector": ".btn--pill",
+      "declarations": "--icon-size:1em;--border-radius:0;align-items:center;background-color:var(--surface-body);border:.0625rem solid var(--border-primary);border-radius:var(--border-radius);box-sizing:border-box;color:var(--text);display:inline-flex;font-size:var(--font-static-sm);font-weight:700;gap:.5625rem;justify-content:center;line-height:1;min-height:var(--button-min-height,2rem);min-width:var(--button-min-width,2rem);padding:var(--grid-static-lg);text-align:center;transition:color .15s ease-in,background-color .15s ease-in,border-color .15s ease-in,box-shadow .15s ease-in"
+    },
+    {
+      "source": "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007",
+      "selector": ".btn--tab",
+      "declarations": "--icon-size:1em;align-items:center;box-sizing:border-box;display:inline-flex;font-weight:700;gap:.5625rem;justify-content:center;line-height:1;margin-block:1rem;min-height:var(--button-min-height,2rem);min-width:var(--button-min-width,2rem);position:relative;text-align:center;transition:color .15s ease-in,background-color .15s ease-in,border-color .15s ease-in,box-shadow .15s ease-in"
+    },
+    {
+      "source": "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007",
+      "selector": ".btn--tab:before",
+      "declarations": "background-color:var(--animated-border-color,var(--border-button--hover));border-radius:var(--radius-xs);bottom:var(--animated-border-bottom,-1rem);content:\"\";display:var(--animated-border-display,block);height:var(--animated-border-height,.125rem);left:0;position:absolute;top:var(--animated-border-top,auto);transform:scaleX(0);transform-origin:right;transition:transform .3s ease;width:100%"
+    },
+    {
+      "source": "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007",
+      "selector": ".btn--tab.is-active,.btn--tab:active,.btn--tab[aria-selected=true]",
+      "declarations": "--animated-border-height:0.25rem"
+    },
+    {
+      "source": "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007",
+      "selector": ".btn-next-content,.btn-prev-content",
+      "declarations": "background-color:currentColor;height:100%;-webkit-mask-position:center;mask-position:center;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat;-webkit-mask-size:contain;mask-size:contain;min-height:.75em;min-width:.75em;width:40%"
+    },
+    {
+      "source": "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007",
+      "selector": ".btn--md",
+      "declarations": "--button-min-width:2rem;--button-min-height:3rem;font-size:var(--font-static-xl)"
+    },
+    {
+      "source": "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007",
+      "selector": ".btn--sm",
+      "declarations": "--button-min-width:2rem;--button-min-height:2.375rem;font-size:var(--font-static-lg)"
+    },
+    {
+      "source": "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007",
+      "selector": ".btn--narrow",
+      "declarations": "--button-min-width:2rem;padding-inline:1rem"
+    },
+    {
+      "source": "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007",
+      "selector": ".btn--round",
+      "declarations": "--button-min-width:2.75rem;--button-min-height:2.75rem;border-radius:50%;min-width:var(--button-min-height);padding:0;width:var(--button-min-height)"
+    },
+    {
+      "source": "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007",
+      "selector": ".overlay--under-header",
+      "declarations": "--z-index:calc(var(--z-index-header) - 1)"
+    },
+    {
+      "source": "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007",
+      "selector": ".overlay--above-header",
+      "declarations": "--z-index:calc(var(--z-index-header) + 1)"
+    },
+    {
+      "source": "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007",
+      "selector": ".input-with-button",
+      "declarations": "--border-radius:0;align-items:stretch;border:.0625rem solid var(--border-color,var(--border-strong));border-radius:var(--border-radius);box-shadow:var(--box-shadow,none);display:flex;flex-direction:row;justify-content:flex-start;position:relative"
+    },
+    {
+      "source": "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007",
+      "selector": ".input-with-button input",
+      "declarations": "border-color:transparent;box-shadow:none"
+    },
+    {
+      "source": "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007",
+      "selector": ".input-with-button:has(input:focus-visible)",
+      "declarations": "--focus-ring-offset:0;border-color:transparent;border-radius:var(--border-radius,var(--focus-ring-border-radius));box-shadow:none;outline:.125rem solid var(--focus-ring-color,var(--border-focus));outline-offset:var(--focus-ring-offset)"
+    },
+    {
+      "source": "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007",
+      "selector": ".input-with-button--sm",
+      "declarations": "--border-radius:12.5rem;--input-padding:0.5rem 0.5rem 0.5rem 1.5rem;--label-left:1.5rem"
+    },
+    {
+      "source": "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007",
+      "selector": ".input-qty__button",
+      "declarations": "--icon-size:0.75rem;border:.0625rem solid var(--border-color);margin:-.0625rem"
+    },
+    {
+      "source": "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007",
+      "selector": ".input-qty__button:focus-visible",
+      "declarations": "background-color:var(--surface-body)!important;z-index:1"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Dango Products",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "colors.primary-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "colors.accent-rating": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dangoproducts.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007",
+        "https://www.dangoproducts.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dangoproducts.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007",
+        "https://www.dangoproducts.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.leather": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "colors.navy": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "colors.olive": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "colors.tan": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dangoproducts.com/cdn/shop/t/58/assets/main.min.css?v=178376952786084647571781739007"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.button-icon": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.color-swatch-selector": {
+      "status": "inferred"
+    }
+  }
+}

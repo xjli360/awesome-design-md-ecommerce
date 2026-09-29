@@ -1,0 +1,637 @@
+{
+  "source_url": "https://untamedcatfood.com",
+  "final_url": "https://untamed.com/",
+  "captured_at": "2026-09-28T09:16:30.758451+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://untamedcatfood.com",
+      "final_url": "https://untamed.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "0770705cf21d3b367502197205dcd74552bd9479b6e3cc429a5ab1e4bd3f87e6",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://untamed.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://untamed.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://untamed.com/cdn/shop/t/309/assets/swiper.min.css?v=70185541284685954511790149974",
+      "final_url": "https://untamed.com/cdn/shop/t/309/assets/swiper.min.css?v=70185541284685954511790149974",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "cc90097ca83e50bb109e136245ede4cf1fe28d3265c919c10c2b6b05e77bf9a0",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://untamed.com/cdn/shop/t/309/assets/announcement-bar.min.css?v=147314528580077945851790149973",
+      "final_url": "https://untamed.com/cdn/shop/t/309/assets/announcement-bar.min.css?v=147314528580077945851790149973",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6006bad10166515b8a68c8f6ccd9a931c609aac3f9deeab7e2d9e47fe88be531",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://untamed.com/cdn/shop/t/309/assets/header.min.css?v=157164128314111675731790149974",
+      "final_url": "https://untamed.com/cdn/shop/t/309/assets/header.min.css?v=157164128314111675731790149974",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "69251d8de97af6dc458b855c81be39c1209db1046dbc514911a934e40467f980",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://untamed.com/cdn/shop/t/309/assets/hp-meals-slider.min.css?v=184341150527816046741790149974",
+      "final_url": "https://untamed.com/cdn/shop/t/309/assets/hp-meals-slider.min.css?v=184341150527816046741790149974",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c0203070f153f1e2bbedeb413c32f427e2013c9c9916694d30490abdaccfeff7",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#fcf5e3": {
+      "count": 22,
+      "sources": [
+        "https://untamed.com/",
+        "https://untamed.com/cdn/shop/t/309/assets/announcement-bar.min.css?v=147314528580077945851790149973",
+        "https://untamed.com/cdn/shop/t/309/assets/header.min.css?v=157164128314111675731790149974",
+        "https://untamed.com/cdn/shop/t/309/assets/hp-meals-slider.min.css?v=184341150527816046741790149974"
+      ]
+    },
+    "#2e4740": {
+      "count": 11,
+      "sources": [
+        "https://untamed.com/",
+        "https://untamed.com/cdn/shop/t/309/assets/header.min.css?v=157164128314111675731790149974",
+        "https://untamed.com/cdn/shop/t/309/assets/hp-meals-slider.min.css?v=184341150527816046741790149974"
+      ]
+    },
+    "#91dae0": {
+      "count": 7,
+      "sources": [
+        "https://untamed.com/",
+        "https://untamed.com/cdn/shop/t/309/assets/header.min.css?v=157164128314111675731790149974"
+      ]
+    },
+    "#fdafcd": {
+      "count": 6,
+      "sources": [
+        "https://untamed.com/"
+      ]
+    },
+    "#c292ff": {
+      "count": 3,
+      "sources": [
+        "https://untamed.com/"
+      ]
+    },
+    "#ffab8c": {
+      "count": 3,
+      "sources": [
+        "https://untamed.com/"
+      ]
+    },
+    "#e56b5a": {
+      "count": 3,
+      "sources": [
+        "https://untamed.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 3,
+      "sources": [
+        "https://untamed.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://untamed.com/cdn/shop/t/309/assets/swiper.min.css?v=70185541284685954511790149974"
+      ]
+    },
+    "#e6e2d1": {
+      "count": 2,
+      "sources": [
+        "https://untamed.com/"
+      ]
+    },
+    "#5bcf98": {
+      "count": 2,
+      "sources": [
+        "https://untamed.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://untamed.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://untamed.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#000000": {
+      "count": 2,
+      "sources": [
+        "https://untamed.com/cdn/shop/t/309/assets/swiper.min.css?v=70185541284685954511790149974"
+      ]
+    },
+    "#10707b": {
+      "count": 2,
+      "sources": [
+        "https://untamed.com/cdn/shop/t/309/assets/swiper.min.css?v=70185541284685954511790149974"
+      ]
+    },
+    "#234b38": {
+      "count": 1,
+      "sources": [
+        "https://untamed.com/"
+      ]
+    },
+    "#0f2922": {
+      "count": 1,
+      "sources": [
+        "https://untamed.com/"
+      ]
+    },
+    "#30493f": {
+      "count": 1,
+      "sources": [
+        "https://untamed.com/"
+      ]
+    },
+    "#f19b9e": {
+      "count": 1,
+      "sources": [
+        "https://untamed.com/"
+      ]
+    },
+    "#c772d6": {
+      "count": 1,
+      "sources": [
+        "https://untamed.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://untamed.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://untamed.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://untamed.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#007aff": {
+      "count": 1,
+      "sources": [
+        "https://untamed.com/cdn/shop/t/309/assets/swiper.min.css?v=70185541284685954511790149974"
+      ]
+    },
+    "#060807": {
+      "count": 1,
+      "sources": [
+        "https://untamed.com/cdn/shop/t/309/assets/header.min.css?v=157164128314111675731790149974"
+      ]
+    },
+    "#59bac2": {
+      "count": 1,
+      "sources": [
+        "https://untamed.com/cdn/shop/t/309/assets/header.min.css?v=157164128314111675731790149974"
+      ]
+    },
+    "#c0c6bf": {
+      "count": 1,
+      "sources": [
+        "https://untamed.com/cdn/shop/t/309/assets/hp-meals-slider.min.css?v=184341150527816046741790149974"
+      ]
+    }
+  },
+  "font_families": {
+    "Poppins": [
+      "https://untamed.com/cdn/shop/t/309/assets/announcement-bar.min.css?v=147314528580077945851790149973",
+      "https://untamed.com/cdn/shop/t/309/assets/header.min.css?v=157164128314111675731790149974"
+    ],
+    "Quincy CF": [
+      "https://untamed.com/cdn/shop/t/309/assets/header.min.css?v=157164128314111675731790149974"
+    ],
+    "swiper-icons": [
+      "https://untamed.com/cdn/shop/t/309/assets/swiper.min.css?v=70185541284685954511790149974"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://untamed.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://untamed.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://untamed.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://untamed.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://untamed.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://untamed.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://untamed.com/cdn/shop/t/309/assets/swiper.min.css?v=70185541284685954511790149974",
+      "selector": ":root",
+      "declarations": "--swiper-theme-color:#007aff"
+    },
+    {
+      "source": "https://untamed.com/cdn/shop/t/309/assets/swiper.min.css?v=70185541284685954511790149974",
+      "selector": ":root",
+      "declarations": "--swiper-navigation-size:44px"
+    },
+    {
+      "source": "https://untamed.com/cdn/shop/t/309/assets/swiper.min.css?v=70185541284685954511790149974",
+      "selector": ".swiper-button-next,.swiper-button-prev",
+      "declarations": "position:absolute;top:var(--swiper-navigation-top-offset,50%);width:calc(var(--swiper-navigation-size)/ 44 * 27);height:var(--swiper-navigation-size);margin-top:calc(0px - (var(--swiper-navigation-size)/ 2));z-index:10;cursor:pointer;display:flex;align-items:center;justify-content:center;color:var(--swiper-navigation-color,var(--swiper-theme-color))"
+    },
+    {
+      "source": "https://untamed.com/cdn/shop/t/309/assets/swiper.min.css?v=70185541284685954511790149974",
+      "selector": ".swiper-button-next:after,.swiper-button-prev:after",
+      "declarations": "font-family:swiper-icons;font-size:var(--swiper-navigation-size);text-transform:none!important;letter-spacing:0;font-variant:initial;line-height:1"
+    },
+    {
+      "source": "https://untamed.com/cdn/shop/t/309/assets/header.min.css?v=157164128314111675731790149974",
+      "selector": "header .text-black",
+      "declarations": "color:var(--color-black, #060807)"
+    },
+    {
+      "source": "https://untamed.com/cdn/shop/t/309/assets/header.min.css?v=157164128314111675731790149974",
+      "selector": "header .color-white",
+      "declarations": "color:var(--primary-white, #FCF5E3)"
+    },
+    {
+      "source": "https://untamed.com/cdn/shop/t/309/assets/header.min.css?v=157164128314111675731790149974",
+      "selector": "header .font-heading",
+      "declarations": "font-family:var(--font-heading-family, \"Quincy CF\")"
+    },
+    {
+      "source": "https://untamed.com/cdn/shop/t/309/assets/header.min.css?v=157164128314111675731790149974",
+      "selector": "header .font-default",
+      "declarations": "font-family:var(--font-body-family, \"Poppins\")"
+    },
+    {
+      "source": "https://untamed.com/cdn/shop/t/309/assets/header.min.css?v=157164128314111675731790149974",
+      "selector": "header .h3",
+      "declarations": "font-size:24px;line-height:1;font-family:var(--font-heading-family, \"Quincy CF\")"
+    },
+    {
+      "source": "https://untamed.com/cdn/shop/t/309/assets/header.min.css?v=157164128314111675731790149974",
+      "selector": "header .btn__rounded",
+      "declarations": "padding:12px 22px;border-radius:100px;display:flex;align-items:center;justify-content:center;text-align:center;gap:10px;border:2px solid var(--primary-green, #2E4740);background-color:var(--primary-sky-blue, #91DAE0);font-size:16px;line-height:20px;font-weight:500;font-family:Poppins;transition:all .4s"
+    },
+    {
+      "source": "https://untamed.com/cdn/shop/t/309/assets/header.min.css?v=157164128314111675731790149974",
+      "selector": "header .btn__rounded:hover",
+      "declarations": "background-color:var(--btn-hover-blue, #59BAC2)"
+    },
+    {
+      "source": "https://untamed.com/cdn/shop/t/309/assets/header.min.css?v=157164128314111675731790149974",
+      "selector": ".header__link",
+      "declarations": "font-size:14px;line-height:20px;letter-spacing:.02em;font-family:Poppins"
+    },
+    {
+      "source": "https://untamed.com/cdn/shop/t/309/assets/header.min.css?v=157164128314111675731790149974",
+      "selector": "header .header__link_font-heading",
+      "declarations": "font-size:31px;line-height:32px;font-family:Quincy CF;letter-spacing:-1.5px"
+    },
+    {
+      "source": "https://untamed.com/cdn/shop/t/309/assets/hp-meals-slider.min.css?v=184341150527816046741790149974",
+      "selector": ".tab-button[data-active=true]:after",
+      "declarations": "content:\"\";position:absolute;bottom:-12px;left:0;width:100%;height:3px;background-color:var(--color-brand-cream);opacity:1"
+    },
+    {
+      "source": "https://untamed.com/cdn/shop/t/309/assets/hp-meals-slider.min.css?v=184341150527816046741790149974",
+      "selector": ".product-card__media:after",
+      "declarations": "content:\"\";position:absolute;top:2px;left:2px;width:calc(100% - 4px);height:calc(100% - 4px);border-radius:var(--radius-md, 10px) var(--radius-md, 10px) 0 0;background-color:var(--hover-bg-color);z-index:1;opacity:1;scale:1;transition:var(--transition-all)"
+    },
+    {
+      "source": "https://untamed.com/cdn/shop/t/309/assets/hp-meals-slider.min.css?v=184341150527816046741790149974",
+      "selector": ".modal-swiper .swiper-button-prev:hover,.modal-swiper .swiper-button-next:hover",
+      "declarations": "background-color:#c0c6bf"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Untamed Cat Food | Food They’ll Go Wild For",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://untamed.com/",
+        "https://untamed.com/cdn/shop/t/309/assets/header.min.css?v=157164128314111675731790149974",
+        "https://untamed.com/cdn/shop/t/309/assets/hp-meals-slider.min.css?v=184341150527816046741790149974"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://untamed.com/cdn/shop/t/309/assets/header.min.css?v=157164128314111675731790149974"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://untamed.com/",
+        "https://untamed.com/cdn/shop/t/309/assets/announcement-bar.min.css?v=147314528580077945851790149973",
+        "https://untamed.com/cdn/shop/t/309/assets/header.min.css?v=157164128314111675731790149974",
+        "https://untamed.com/cdn/shop/t/309/assets/hp-meals-slider.min.css?v=184341150527816046741790149974"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://untamed.com/",
+        "https://untamed.com/cdn/shop/t/309/assets/header.min.css?v=157164128314111675731790149974",
+        "https://untamed.com/cdn/shop/t/309/assets/hp-meals-slider.min.css?v=184341150527816046741790149974"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://untamed.com/cdn/shop/t/309/assets/hp-meals-slider.min.css?v=184341150527816046741790149974"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://untamed.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://untamed.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://untamed.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://untamed.com/cdn/shop/t/309/assets/swiper.min.css?v=70185541284685954511790149974"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://untamed.com/",
+        "https://untamed.com/cdn/shop/t/309/assets/announcement-bar.min.css?v=147314528580077945851790149973",
+        "https://untamed.com/cdn/shop/t/309/assets/header.min.css?v=157164128314111675731790149974",
+        "https://untamed.com/cdn/shop/t/309/assets/hp-meals-slider.min.css?v=184341150527816046741790149974"
+      ]
+    },
+    "colors.accent-sky": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://untamed.com/",
+        "https://untamed.com/cdn/shop/t/309/assets/header.min.css?v=157164128314111675731790149974"
+      ]
+    },
+    "colors.accent-sky-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://untamed.com/cdn/shop/t/309/assets/header.min.css?v=157164128314111675731790149974"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://untamed.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-blue-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://untamed.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-pink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://untamed.com/"
+      ]
+    },
+    "colors.accent-purple": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://untamed.com/"
+      ]
+    },
+    "colors.accent-magenta": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://untamed.com/"
+      ]
+    },
+    "colors.accent-peach": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://untamed.com/"
+      ]
+    },
+    "colors.accent-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://untamed.com/"
+      ]
+    },
+    "colors.accent-salmon": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://untamed.com/"
+      ]
+    },
+    "colors.accent-mint": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://untamed.com/"
+      ]
+    },
+    "colors.accent-teal-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://untamed.com/cdn/shop/t/309/assets/swiper.min.css?v=70185541284685954511790149974"
+      ]
+    },
+    "colors.green-deep-2": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://untamed.com/"
+      ]
+    },
+    "colors.green-deep-3": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://untamed.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.button-checkout": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.trial-box-card": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    }
+  }
+}

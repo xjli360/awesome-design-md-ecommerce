@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: UniAccessories
-description: A sharp, monochrome accessory marketplace where #eb1256 — a precise, unapologetic magenta — acts as the single voltage point against a near-black #121212 ink and a #ffffff canvas. The brand trusts high-contrast product photography and generous whitespace over decorative typography, using a system font stack that keeps load times fast and the interface invisible. Every primary CTA, sale badge, and cart indicator carries that magenta charge, while the secondary palette stays in the gray spectrum — #e5e5e5 for soft surfaces, #dedede for hairlines, #808080 and #777777 for muted text. The visual language is deliberately uncluttered: pill-shaped search bars (`{rounded.full}`) and softly rounded product cards (`{rounded.md}` ~12px) create a friendly, approachable feel, while the near-black ink on white canvas delivers maximum readability. There are no decorative flourishes — no gradients, no illustrations, no secondary brand colors — just a tight system of two values (magenta and gray) doing all the work. The result is a storefront that feels both premium and utilitarian, where the product is the hero and the interface steps aside.
+name: "UniAccessories"
+source_url: "https://www.uniaccessories.io"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A sharp, monochrome accessory marketplace where #eb1256 — a precise, unapologetic magenta — acts as the single voltage point against a near-black #121212 ink and a #ffffff canvas. The brand trusts high-contrast product photography and generous whitespace over decorative typography, using a system font stack that keeps load times fast and the interface invisible. Every primary CTA, sale badge, and cart indicator carries that magenta charge, while the secondary palette stays in the gray spectrum — #e5e5e5 for soft surfaces, #dedede for hairlines, #808080 and #777777 for muted text. The visual language is deliberately uncluttered: pill-shaped search bars (`{rounded.full}`) and softly rounded product cards (`{rounded.md}` ~12px) create a friendly, approachable feel, while the near-black ink on white canvas delivers maximum readability. There are no decorative flourishes — no gradients, no illustrations, no secondary brand colors — just a tight system of two values (magenta and gray) doing all the work. The result is a storefront that feels both premium and utilitarian, where the product is the hero and the interface steps aside.
 
 colors:
   primary: "#eb1256"
@@ -309,6 +313,8 @@ components:
 - Secondary navigation (category strip) collapses to a horizontal scrollable strip on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 - The extracted color list is dominated by grayscale tones (#e5e5e5, #dedede, #808080, #777777, #212222, #121212) with a single magenta accent (#eb1256). While #eb1256 is clearly the brand's primary, the secondary palette may include additional accent colors not captured in the extraction (e.g., for seasonal promotions or category badges).
 - No custom font family was detected — the site uses the system font stack. The brand may use a custom typeface on non-extracted pages (e.g., marketing landing pages, blog).
 - Hover states for buttons and links are inferred from common ecommerce patterns; actual hover colors may differ.

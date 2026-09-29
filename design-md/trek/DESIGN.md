@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Trek
-description: A deep marine #003344 anchors Trek's digital presence — not a sporty electric blue but the color of a mountain lake at dusk, suggesting endurance and depth rather than speed. This primary sits alongside a warm metallic accent #b79b65, a gold that appears in price callouts, sale badges, and hover states, evoking the precision of a derailleur gear rather than luxury. The canvas is a cool off-white #ebf2fb, a blue-tinted surface that keeps the bike photography feeling crisp and alpine, while the secondary canvas #edebe0 introduces a warmer, more tactile paper-like tone for product detail sections. Typography runs Roboto at modest weights — body copy at 400, buttons at 500, and display weights rarely exceed 600 — letting the geometry of carbon frames and the gloss of component close-ups carry the visual load. Navigation is a persistent dark band (#1a1a1a) with white text, a confident framing device that separates Trek from the white-header convention of most DTC cycling brands. Buttons are softly rectangular ({rounded.sm} ~8px), never pill-shaped, and the primary CTA (#003344) shifts to a lighter navy (#005a85) on hover, a subtle brightening that feels like emerging from shadow. The checkout flow introduces a safety-yellow accent (#f9c929) for promotional banners and urgency indicators, a rare splash of high-energy color in an otherwise restrained palette. Product cards use a generous {rounded.md} (12px) and a hairline border (#e5e5e5) that keeps the layout airy without floating. The overall mood is serious, technical, and quietly premium — a brand that trusts the engineering of its bikes more than any design flourish.
+name: "Trek"
+source_url: "https://www.trekbikes.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep marine #003344 anchors Trek's digital presence — not a sporty electric blue but the color of a mountain lake at dusk, suggesting endurance and depth rather than speed. This primary sits alongside a warm metallic accent #b79b65, a gold that appears in price callouts, sale badges, and hover states, evoking the precision of a derailleur gear rather than luxury. The canvas is a cool off-white #ebf2fb, a blue-tinted surface that keeps the bike photography feeling crisp and alpine, while the secondary canvas #edebe0 introduces a warmer, more tactile paper-like tone for product detail sections. Typography runs Roboto at modest weights — body copy at 400, buttons at 500, and display weights rarely exceed 600 — letting the geometry of carbon frames and the gloss of component close-ups carry the visual load. Navigation is a persistent dark band (#1a1a1a) with white text, a confident framing device that separates Trek from the white-header convention of most DTC cycling brands. Buttons are softly rectangular ({rounded.sm} ~8px), never pill-shaped, and the primary CTA (#003344) shifts to a lighter navy (#005a85) on hover, a subtle brightening that feels like emerging from shadow. The checkout flow introduces a safety-yellow accent (#f9c929) for promotional banners and urgency indicators, a rare splash of high-energy color in an otherwise restrained palette. Product cards use a generous {rounded.md} (12px) and a hairline border (#e5e5e5) that keeps the layout airy without floating. The overall mood is serious, technical, and quietly premium — a brand that trusts the engineering of its bikes more than any design flourish.
 
 colors:
   primary: "#003344"
@@ -460,6 +464,8 @@ components:
 - Size and color selectors collapse from inline grids to horizontal scrollable strips
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for product card badges and filter chips were inferred from common patterns but not directly extracted from the live site
 - Error and success messaging styling (form validation, toast notifications) could not be reliably extracted

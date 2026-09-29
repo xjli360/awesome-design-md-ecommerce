@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Canyon
-description: A performance cycling brand that uses a near-black (#222222) as its primary anchor — not a vibrant brand color — letting the product photography and a single red accent (#e20000) carry all the emotional weight. The palette is overwhelmingly monochromatic: four grays (#d8d8d8, #767676, #4c4c4c, #f2f2f2) build a strict hierarchy of surfaces and text, while the red appears only on sale badges, error states, and the occasional high-voltage CTA. This is a system designed for a global catalog of carbon-fiber frames and precision components — the typography runs CanyonWeb, a proprietary sans-serif, at moderate weights and sizes that prioritize readability over personality. Buttons are sharp-cornered rectangles (`{rounded.none}`) with tight padding, communicating mechanical precision rather than friendliness. The brand's secondary palette is unusually broad — extracted from the live site are 20+ colors including a bright cyan (#2cbcff), a safety orange (#ff6b00), a deep teal (#167f45), and several pastels (#fbfec0, #f9d7d4, #ffe8c2) — but these are almost certainly product-category badges, country-specific flags, or stock-image dominant tones rather than core brand tokens. The true Canyon interface is a study in restraint: a dark header, a white canvas, and the occasional red pulse to signal urgency.
+name: "Canyon"
+source_url: "https://www.canyon.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A performance cycling brand that uses a near-black (#222222) as its primary anchor — not a vibrant brand color — letting the product photography and a single red accent (#e20000) carry all the emotional weight. The palette is overwhelmingly monochromatic: four grays (#d8d8d8, #767676, #4c4c4c, #f2f2f2) build a strict hierarchy of surfaces and text, while the red appears only on sale badges, error states, and the occasional high-voltage CTA. This is a system designed for a global catalog of carbon-fiber frames and precision components — the typography runs CanyonWeb, a proprietary sans-serif, at moderate weights and sizes that prioritize readability over personality. Buttons are sharp-cornered rectangles (`{rounded.none}`) with tight padding, communicating mechanical precision rather than friendliness. The brand's secondary palette is unusually broad — extracted from the live site are 20+ colors including a bright cyan (#2cbcff), a safety orange (#ff6b00), a deep teal (#167f45), and several pastels (#fbfec0, #f9d7d4, #ffe8c2) — but these are almost certainly product-category badges, country-specific flags, or stock-image dominant tones rather than core brand tokens. The true Canyon interface is a study in restraint: a dark header, a white canvas, and the occasional red pulse to signal urgency.
 
 colors:
   primary: "#222222"
@@ -334,6 +338,8 @@ components:
 - Product image galleries switch from thumbnail grid to horizontal swipe dots on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted color palette includes 20+ colors that are likely product-category badges, country-specific flags, or stock-image dominant tones — the true brand palette is probably 6-8 colors centered on black, white, gray, and red. The secondary colors (cyan, orange, teal, yellow, pastels) should be validated against the brand's actual design tokens.
 - Font sizes and weights are estimated based on common cycling industry standards and the extracted font-family declarations — actual type scale may differ in the live site's CSS.

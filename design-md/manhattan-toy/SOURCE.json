@@ -1,0 +1,714 @@
+{
+  "source_url": "https://manhattantoy.com",
+  "final_url": "https://www.manhattantoy.com/",
+  "captured_at": "2026-09-28T04:23:40.848132+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://manhattantoy.com",
+      "final_url": "https://www.manhattantoy.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "1e166b9333aa61d5a8c456f518aa84c5348385851a6850db924b4c2d8090e751",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182",
+      "final_url": "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6413f10f78b1f45c65ed85eedd3070162be23e760ebe70af8d829471842c888a",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.manhattantoy.com/cdn/shop/t/132/assets/apps.css?v=55131169298864764001790000396",
+      "final_url": "https://www.manhattantoy.com/cdn/shop/t/132/assets/apps.css?v=55131169298864764001790000396",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "8f31b329ca6aedc181d99cd58a5aae357786b14b0b806e453e0118313ac42764",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.manhattantoy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.manhattantoy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.manhattantoy.com/cdn/shop/t/132/assets/blog.css?v=107725454374733462721788886180",
+      "final_url": "https://www.manhattantoy.com/cdn/shop/t/132/assets/blog.css?v=107725454374733462721788886180",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "71c0c39e4e50d33c8cb7f020b3fda44dbd1dac9d5c873e0a47ef1f66ad2305a3",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 12,
+      "sources": [
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182",
+        "https://www.manhattantoy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 7,
+      "sources": [
+        "https://www.manhattantoy.com/",
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182",
+        "https://www.manhattantoy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/blog.css?v=107725454374733462721788886180"
+      ]
+    },
+    "#5d5851": {
+      "count": 3,
+      "sources": [
+        "https://www.manhattantoy.com/"
+      ]
+    },
+    "#a0d9e4": {
+      "count": 2,
+      "sources": [
+        "https://www.manhattantoy.com/"
+      ]
+    },
+    "#000000": {
+      "count": 2,
+      "sources": [
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182",
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/blog.css?v=107725454374733462721788886180"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.manhattantoy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#3e3b36": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/"
+      ]
+    },
+    "#e7e525": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/"
+      ]
+    },
+    "#999999": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/"
+      ]
+    },
+    "#ffffffbf": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182"
+      ]
+    },
+    "#1199ff": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182"
+      ]
+    },
+    "#3b5998": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182"
+      ]
+    },
+    "#00acee": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182"
+      ]
+    },
+    "#e60023": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182"
+      ]
+    },
+    "#3390f7": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182"
+      ]
+    },
+    "#25d366": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182"
+      ]
+    },
+    "#0064ff": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182"
+      ]
+    },
+    "#61f0f3": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182"
+      ]
+    },
+    "#ff3484": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182"
+      ]
+    },
+    "#f1e04d": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182"
+      ]
+    },
+    "#309fff": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182"
+      ]
+    },
+    "#b635ff": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182"
+      ]
+    },
+    "#049cff": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182"
+      ]
+    },
+    "#35ee7a": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182"
+      ]
+    },
+    "#00e166": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182"
+      ]
+    },
+    "#0066ec": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182"
+      ]
+    },
+    "#f7d00b": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182"
+      ]
+    },
+    "#f60e0e": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182"
+      ]
+    },
+    "#b700ff": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.manhattantoy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Consolas": [
+      "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182"
+    ],
+    "Courier New": [
+      "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182"
+    ],
+    "Liberation Mono": [
+      "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182"
+    ],
+    "Menlo": [
+      "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182"
+    ],
+    "Monaco": [
+      "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182"
+    ],
+    "Nunito": [
+      "https://www.manhattantoy.com/"
+    ],
+    "SFMono-Regular": [
+      "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182"
+    ],
+    "inherit!important": [
+      "https://www.manhattantoy.com/cdn/shop/t/132/assets/apps.css?v=55131169298864764001790000396"
+    ],
+    "monospace": [
+      "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182"
+    ],
+    "ui-monospace": [
+      "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.manhattantoy.com/",
+      "selector": ":root",
+      "declarations": "--page-padding: var(--sp-9);"
+    },
+    {
+      "source": "https://www.manhattantoy.com/",
+      "selector": ":root",
+      "declarations": "--gap-padding: var(--sp-12);\n      --page-padding: var(--sp-12);\n      --page-container: min(calc(100vw - var(--page-padding) * 2), max(var(--page-width), 1280px));"
+    },
+    {
+      "source": "https://www.manhattantoy.com/",
+      "selector": ":root",
+      "declarations": "--page-padding: max(var(--sp-12), 50vw - var(--page-width)/2);"
+    },
+    {
+      "source": "https://www.manhattantoy.com/",
+      "selector": ":root",
+      "declarations": "--topbar-height: var(--sp-12);"
+    },
+    {
+      "source": "https://www.manhattantoy.com/",
+      "selector": ":root",
+      "declarations": "--topbar-height: var(--sp-14);"
+    },
+    {
+      "source": "https://www.manhattantoy.com/",
+      "selector": "#shopify-section-sections--21678639546554__header",
+      "declarations": "--section-padding-top: 16px;\n    --section-padding-bottom: 16px;\n    --color-background: 255 255 255;\n    --color-foreground: 93 88 81;\n    --color-transparent: 255 255 255;\n    --color-localization: ;"
+    },
+    {
+      "source": "https://www.manhattantoy.com/",
+      "selector": ".product__sku",
+      "declarations": "color: #999; font-size: 0.9em;"
+    },
+    {
+      "source": "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182",
+      "selector": ":root",
+      "declarations": "--text-h1: var(--sp-12);--text-h2: var(--sp-7d5);--text-h3: var(--sp-6);--text-h4: var(--sp-5d5);--text-h5: var(--sp-4d5);--text-h6: var(--sp-4)"
+    },
+    {
+      "source": "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182",
+      "selector": ":root",
+      "declarations": "--title-lg: clamp(var(--sp-12), 4.73vw, var(--sp-23));--title-xl: clamp(var(--sp-20), 6.737vw, var(--sp-32));--text-h1: var(--sp-14);--text-h2: var(--sp-9);--text-h3: var(--sp-7d5);--text-h4: var(--sp-6);--text-h5: var(--sp-5)"
+    },
+    {
+      "source": "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182",
+      "selector": ".pswp__button",
+      "declarations": "--tw-shadow: 0 0 #0000;--tw-shadow-colored: 0 0 #0000;-webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px);background-color:rgb(var(--color-background)/ .6);border:1px solid rgb(var(--color-border));border-radius:var(--rounded-full);box-shadow:var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-shadow);cursor:pointer;display:block;height:var(--sp-12);margin:0;opacity:1;overflow:hidden;padding:0;position:relative;width:var(--sp-12)"
+    },
+    {
+      "source": "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182",
+      "selector": "button.pswp__button",
+      "declarations": "-webkit-touch-callout:none;-webkit-appearance:none;appearance:none;background-color:rgb(var(--color-background)/ .6)"
+    },
+    {
+      "source": "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182",
+      "selector": ".pswp__button .pswp__icn",
+      "declarations": "--tw-translate-x: -50%;--tw-translate-y: -50%;fill:var(--pswp-icon-color);color:var(--pswp-icon-color-secondary);width:var(--sp-6);height:var(--sp-6);overflow:hidden;pointer-events:none;position:absolute;inset-block-start:50%;inset-inline-start:50%;transform:translate(calc(var(--tw-translate-x) * var(--transform-logical)),var(--tw-translate-y)) scaleX(calc(var(--tw-scale-x) * var(--transform-logical))) scaleY(var(--tw-scale-y))"
+    },
+    {
+      "source": "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182",
+      "selector": ".pswp__button--arrow",
+      "declarations": "color:rgb(var(--color-foreground));width:var(--sp-12);height:var(--sp-12);position:absolute;inset-block-start:auto;inset-block-end:var(--sp-5)"
+    },
+    {
+      "source": "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182",
+      "selector": ".pswp__button--arrow",
+      "declarations": "--tw-translate-y: -50%;width:var(--sp-15);height:var(--sp-15);inset-block-start:50%;transform:translate(var(--tw-translate-x),var(--tw-translate-y))"
+    },
+    {
+      "source": "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182",
+      "selector": ".pswp__button--arrow--next .pswp__icn",
+      "declarations": "--tw-scale-x: -1"
+    },
+    {
+      "source": "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182",
+      "selector": ".pswp__video-container .play-button",
+      "declarations": "width:var(--sp-10);height:var(--sp-10);inset-inline-end:var(--sp-4);inset-block-start:var(--sp-4);background-color:rgb(var(--color-background))"
+    },
+    {
+      "source": "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182",
+      "selector": ".flickity-button",
+      "declarations": "background:#ffffffbf;border:none;color:#333;position:absolute"
+    },
+    {
+      "source": "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182",
+      "selector": "body",
+      "declarations": "background-color:rgb(var(--color-background));color:rgb(var(--color-foreground));font-family:var(--font-body-family);font-style:var(--font-body-style);font-weight:var(--font-body-weight);font-size:var(--text-base);line-height:var(--font-body-line-height);letter-spacing:var(--font-body-letter-spacing);overflow-x:hidden;line-height:inherit;margin:0"
+    },
+    {
+      "source": "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182",
+      "selector": "blockquote,.heading,h1,h2,h3,h4,h5,h6,.h0,.h1,.h2,.h3,.h4,.h5,.h6",
+      "declarations": "font-family:var(--font-heading-family);font-style:var(--font-heading-style);font-weight:var(--font-heading-weight);letter-spacing:var(--font-heading-letter-spacing);line-height:var(--font-heading-line-height);text-transform:var(--font-heading-text-transform);color:rgb(var(--color-foreground));word-break:break-word"
+    },
+    {
+      "source": "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font-family:inherit;font-size:100%;font-weight:inherit;line-height:inherit;border:none;margin:0;padding:0"
+    },
+    {
+      "source": "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182",
+      "selector": "[type=button],[type=reset],[type=submit],button",
+      "declarations": "-webkit-appearance:button;appearance:button;background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182",
+      "selector": ".button,.shopify-challenge__button,button.shopify-payment-button__button--unbranded,.shopify-payment-button [role=button],.additional-checkout-buttons [role=but",
+      "declarations": "--shadow-horizontal-offset: var(--buttons-shadow-horizontal-offset);--shadow-vertical-offset: var(--buttons-shadow-vertical-offset);--shadow-opacity: var(--buttons-shadow-opacity);--border-opacity: var(--buttons-border-opacity)"
+    },
+    {
+      "source": "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182",
+      "selector": ".shopify-payment-button__button--branded",
+      "declarations": "z-index:auto;font-family:var(--font-button-family);border-radius:var(--buttons-radius)!important;overflow:hidden!important"
+    },
+    {
+      "source": "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182",
+      "selector": ".button,.shopify-challenge__button,button.shopify-payment-button__button--unbranded",
+      "declarations": "cursor:pointer;position:relative;display:inline-flex;align-items:center;justify-content:center;overflow:hidden;line-height:1;font-family:var(--font-button-family);font-size:var(--font-button-size);font-weight:var(--font-button-weight);text-transform:var(--font-button-text-transform);padding:clamp(var(--sp-4d5),1.2vw,var(--sp-5d5)) clamp(var(--sp-6d5),1.473vw,var(--sp-7d5));color:rgb(var(--color-button-text));background:var(--color-button-gradient);background-color:rgb(var(--color-button-background));border-radius:var(--buttons-radius);box-shadow:var(--shadow-horizontal-offset) var(--shadow-vertical-offset) rgb(var(--color-shadow)/ var(--shadow-opacity));max-height:3.75rem;border:none;height:"
+    },
+    {
+      "source": "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182",
+      "selector": ".button .btn-text",
+      "declarations": "color:currentColor"
+    },
+    {
+      "source": "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182",
+      "selector": ".button--primary .btn-fill",
+      "declarations": "background-color:rgb(var(--color-button-text))"
+    },
+    {
+      "source": "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182",
+      "selector": ".button--secondary .btn-fill",
+      "declarations": "background:var(--color-button-gradient);background-color:rgb(var(--color-button-background))"
+    },
+    {
+      "source": "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182",
+      "selector": ".button--secondary,button.shopify-payment-button__button--unbranded",
+      "declarations": "color:rgb(var(--color-button-background));background:none;-webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px)"
+    },
+    {
+      "source": "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182",
+      "selector": ".button--close",
+      "declarations": "--shadow-opacity: 0;--border-opacity: .1;--buttons-border-width: 1px;--buttons-radius: var(--rounded-full);padding:0"
+    },
+    {
+      "source": "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182",
+      "selector": ".button--close .icon:first-child",
+      "declarations": "--tw-rotate: 0deg;transform:rotate(var(--tw-rotate))"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Shop Manhattan Toy Company | High-Quality Baby & Toddler Toys",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.manhattantoy.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.manhattantoy.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.manhattantoy.com/",
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182",
+        "https://www.manhattantoy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/blog.css?v=107725454374733462721788886180"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.manhattantoy.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.manhattantoy.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.manhattantoy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.manhattantoy.com/",
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182",
+        "https://www.manhattantoy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/blog.css?v=107725454374733462721788886180"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.manhattantoy.com/",
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182",
+        "https://www.manhattantoy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/blog.css?v=107725454374733462721788886180"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.manhattantoy.com/"
+      ]
+    },
+    "colors.overlay-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182"
+      ]
+    },
+    "colors.text-secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182"
+      ]
+    },
+    "colors.transparent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.manhattantoy.com/cdn/shop/t/132/assets/theme.css?v=57338602569563123861788886182",
+        "https://www.manhattantoy.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.age-filter-chip": {
+      "status": "inferred"
+    }
+  }
+}

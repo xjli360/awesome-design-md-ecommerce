@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Dick Keiser
-description: Pure browser-blue (#0000cc) meets a philatelist's catalog logic — Dick Keiser's stamp shop wears its heritage in the palette itself, leaning into the unmodulated web-primaries that serious collectors recognize from decades of online dealing: electric blue links, forest-green availability indicators (#116600), and red (#cc0000) callouts for lot status. The site's visual grammar is that of a working reference catalog rather than a retail storefront: dense listings, tabular lot organization, and a light blue-gray wash (#d1dfed) that echoes the glassine stock cards philatelists use to sleeve stamps. Navigation is a flat horizontal bar in dark navy (#000033) — the same ink that anchors the lot-number labels and condition grades throughout the catalog. Typography runs entirely in system sans-serif, which keeps pages lightweight and legible at the dense information densities stamp collectors expect when scanning hundred-lot runs of revenues or airmail covers. The green family (#116600 base, #75be55 mid, #32a35e teal accent) carries availability and category signals, replacing the retail convention of using green only for price or checkout cues. Condition badges — the philatelic shorthand of VF, XF, F-VH — sit in small #eeeeee chips against the card surface, keeping grading information present without visual competition with the stamp scan. The hairline blue (#d1dfed) divides rows and panels without imposing weight, consistent with the collector-catalog tradition of guiding the eye across dense tabular data. No rounded corners beyond minimal field radii, no gradients, no hero imagery — the stamp photograph is the hero, and the interface exists to get out of its way.
+name: "Dick Keiser"
+source_url: "https://www.dickkeiser.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Pure browser-blue (#0000cc) meets a philatelist's catalog logic — Dick Keiser's stamp shop wears its heritage in the palette itself, leaning into the unmodulated web-primaries that serious collectors recognize from decades of online dealing: electric blue links, forest-green availability indicators (#116600), and red (#cc0000) callouts for lot status. The site's visual grammar is that of a working reference catalog rather than a retail storefront: dense listings, tabular lot organization, and a light blue-gray wash (#d1dfed) that echoes the glassine stock cards philatelists use to sleeve stamps. Navigation is a flat horizontal bar in dark navy (#000033) — the same ink that anchors the lot-number labels and condition grades throughout the catalog. Typography runs entirely in system sans-serif, which keeps pages lightweight and legible at the dense information densities stamp collectors expect when scanning hundred-lot runs of revenues or airmail covers. The green family (#116600 base, #75be55 mid, #32a35e teal accent) carries availability and category signals, replacing the retail convention of using green only for price or checkout cues. Condition badges — the philatelic shorthand of VF, XF, F-VH — sit in small #eeeeee chips against the card surface, keeping grading information present without visual competition with the stamp scan. The hairline blue (#d1dfed) divides rows and panels without imposing weight, consistent with the collector-catalog tradition of guiding the eye across dense tabular data. No rounded corners beyond minimal field radii, no gradients, no hero imagery — the stamp photograph is the hero, and the interface exists to get out of its way.
 
 colors:
   primary: "#0000cc"
@@ -339,6 +343,8 @@ components:
 - Footer category columns stack vertically on mobile, two-up on tablet
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom typeface detected — only generic `sans-serif` stack; exact rendering depends on OS default (Arial on Windows, Helvetica Neue on macOS)
 - No meta theme-color set; mobile browser chrome color cannot be confirmed

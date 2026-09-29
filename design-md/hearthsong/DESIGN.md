@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: HearthSong
-description: A childhood wonderland built on a canvas of warm white (#f7f7f8) and struck through with a single, unmistakable voltage: marigold (#f4af23). That yellow isn't a background wash — it's the brand's primary action, the color of the "Add to Cart" button, the price tag, the star-rating highlight, the little flag that says "Sale." It sits alongside a deep, almost-black ink (#121212) that gives headlines and product names a sturdy, no-nonsense gravity, while a secondary navy (#272d45) appears in footer blocks and section backgrounds to signal trust and durability. The palette is deliberately limited: a cool gray (#676986) for secondary text, a soft lavender-gray (#e5e5eb) for dividers and hairline rules, and a bright sky blue (#2a73e6) reserved for links and informational badges — a single accent that reads as "click here for details" rather than decoration. Typography leans on the geometric clarity of Assistant and Figtree, with Gilroy appearing in display contexts for a slightly more playful, rounded headline. Buttons are generously padded and softly rounded (`{rounded.sm}` ~8px), never pill-shaped — the brand prefers a friendly but grounded corner. Product cards sit on white (`{colors.canvas}`) with a subtle shadow, and the search bar is a full-width rectangle with a yellow submit orb, not a floating pill. The overall mood is open, bright, and slightly nostalgic — a digital toy store that trusts color to do the emotional work rather than heavy typography or ornate illustration.
+name: "HearthSong"
+source_url: "https://www.hearthsong.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A childhood wonderland built on a canvas of warm white (#f7f7f8) and struck through with a single, unmistakable voltage: marigold (#f4af23). That yellow isn't a background wash — it's the brand's primary action, the color of the "Add to Cart" button, the price tag, the star-rating highlight, the little flag that says "Sale." It sits alongside a deep, almost-black ink (#121212) that gives headlines and product names a sturdy, no-nonsense gravity, while a secondary navy (#272d45) appears in footer blocks and section backgrounds to signal trust and durability. The palette is deliberately limited: a cool gray (#676986) for secondary text, a soft lavender-gray (#e5e5eb) for dividers and hairline rules, and a bright sky blue (#2a73e6) reserved for links and informational badges — a single accent that reads as "click here for details" rather than decoration. Typography leans on the geometric clarity of Assistant and Figtree, with Gilroy appearing in display contexts for a slightly more playful, rounded headline. Buttons are generously padded and softly rounded (`{rounded.sm}` ~8px), never pill-shaped — the brand prefers a friendly but grounded corner. Product cards sit on white (`{colors.canvas}`) with a subtle shadow, and the search bar is a full-width rectangle with a yellow submit orb, not a floating pill. The overall mood is open, bright, and slightly nostalgic — a digital toy store that trusts color to do the emotional work rather than heavy typography or ornate illustration.
 
 colors:
   primary: "#f4af23"
@@ -338,6 +342,8 @@ components:
 - Hero banner text reduces from display-xl to display-lg on tablet, and display-md on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for most components were inferred from common patterns; the live site's actual `:hover` and `:focus` styles were not extractable from static CSS alone.
 - Error and validation styling for form inputs (text-input-error) is assumed based on the sale red (#cd592a) being the only red in the palette; actual error styling may differ.

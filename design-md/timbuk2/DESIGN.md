@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Timbuk2
-description: >-
+name: "Timbuk2"
+source_url: "https://www.timbuk2.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Timbuk2's color system reads like a bag customizer's swatch wall made literal — deep navy #2d3142, golden yellow #e5c225, forest green #42583f, hot pink #f03680, and burnt orange #d76800 don't perform assigned brand roles so much as sit in standby, mirroring the custom bag builder that has defined the brand since its San Francisco bike-messenger origins in 1989. The primary CTA lives in that same golden yellow, so the "add to cart" button and the strap color option feel drawn from the same material logic rather than from a separate visual system. Dark navy #2d3142 anchors the wordmark, navigation, and primary headlines — a color that suggests waxed canvas and night commutes more than corporate polish. No custom font stack was extracted from the live site (likely loaded via JavaScript); the typographic sensibility reads lean and utilitarian regardless — modest display weights, tightly tracked labels, no decorative serifs anywhere in the stack. The brand's DNA is functional: readable first, expressive second, which puts the visual energy in the product rather than in the chrome surrounding it. Shapes are quietly angular. Buttons sit at {rounded.xs} or {rounded.sm}, not the pill-shaped softness of lifestyle brands — the strap hardware on a Timbuk2 bag is a buckle, not a curve, and the UI carries the same attitude. Product cards carry minimal border radii, letting photography of the bags carry visual weight. The one place roundness becomes expressive is the customizer's color-swatch UI — {rounded.full} circles that users click to mix panel, strap, and lining colors, the single tactile interaction the entire brand is built around. The expanded palette — blush #ebccc7, sand #e8daca, amber #f6c960, mint #0ab968, purple #9370b3, red #c23838 — exists not as decorative UI accent but as product inventory pulled directly into CSS for real-time bag previews. The surface system stays deliberately stripped: near-white #f5f5f5 backgrounds, white cards, a #dedede hairline — so that the swatch array does all the visual lifting without competition from the surrounding interface.
 
 colors:
@@ -415,6 +418,8 @@ components:
 - Collection filters: horizontal scrolling pill row replaces sidebar facets below tablet
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom font family was extractable from the live site — font stacks fall back to system sans-serif; actual brand typeface may be a licensed grotesque loaded via JavaScript (Shopify theme JS bundles are opaque to static extraction)
 - No `meta theme-color` was set, so mobile browser chrome color cannot be confirmed — navy #2d3142 is inferred from nav dominance

@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Cove
-description: |
+name: "Cove"
+source_url: "https://www.subzero-wolf.com/cove"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Dusky violet (#5b5378) anchors a dishwasher interface — an unexpected chromatic choice for an appliance category dominated by stainless neutrals and clinical whites. Cove, the dedicated dishwasher division within the Sub-Zero & Wolf ecosystem, deploys this muted amethyst across primary navigation states, active indicators, and hero overlays, creating an immediate separation from the utilitarian aesthetic of competing brands. The purple deepens to near-indigo (#494260, #2d293c) for hover states and footer regions, establishing vertical hierarchy through saturation shifts rather than hue changes. Typography runs on Museo Sans in ExtraLight through Medium weights — the lighter cuts handle display and hero headlines at generous sizes, while Medium anchors buttons and navigation labels. This weight distribution produces an airy, gallery-like reading experience where the appliance photography dominates and text recedes into supporting architecture. Body copy and specification tables rely on a warm charcoal (#4c4d4f) against a near-white canvas (#f7f7f7), maintaining readability without the harshness of pure black on white. Component radii stay conservative — `{rounded.xs}` to `{rounded.sm}` on buttons and cards — reflecting the precision engineering ethos of the parent brand family. Accent colors serve functional roles: a saturated blue (#0081c6) for interactive links and informational callouts, a deep teal (#00393b) for environmental messaging badges, and a muted red (#af272e) for alerts and discontinuation notices. Spacing is generous and architectural, with `{spacing.section}` breathing room between feature blocks that each showcase a single dishwasher capability in full-bleed photography paired with concise spec copy. The grid holds a 1440px maximum content width with symmetric margins, collapsing to edge-to-edge imagery on mobile while preserving generous vertical rhythm throughout.
 
 colors:
@@ -406,6 +409,8 @@ components:
 - Hero headlines: display-xl (48px) → display-lg (36px) → display-md (28px)
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact Museo Sans weight mappings (ExtraLight = 200, Light = 300, Medium = 500 assumed from standard conventions — live CSS custom properties not extracted)
 - No CSS custom properties or design-token JSON found; colors derived from rendered pixel sampling which may miss context-dependent overlays

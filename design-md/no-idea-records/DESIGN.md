@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: No Idea Records
-description: A record store that feels like a basement show flyer stapled to a telephone pole — #103948 (deep teal) and #bc5631 (burnt orange) are the two poles of voltage, the teal serving as primary ink on a #fcfcfc canvas, the orange used sparingly for price tags, sold-out badges, and the occasional accent line that says "this matters." The site runs Josefin Sans at display sizes with its geometric, almost stencil-like letterforms, then drops into Rubik for body copy — a switch that feels like going from the marquee to the liner notes. Borders are thin (#ebeced hairline), corners are mostly sharp ({rounded.none} on cards, {rounded.xs} on buttons), and the whole thing reads like a zine that happens to sell vinyl: product titles are set in display weight, prices in a smaller muted body, and the only real ornament is the orange badge that tells you something is sold out. There is no hero video, no carousel, no newsletter popup — just a grid of records, a search bar, and the quiet confidence that if you're here, you already know what you want. The #121212 footer anchors the page with the weight of a stage monitor.
+name: "No Idea Records"
+source_url: "https://www.noidearecords.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A record store that feels like a basement show flyer stapled to a telephone pole — #103948 (deep teal) and #bc5631 (burnt orange) are the two poles of voltage, the teal serving as primary ink on a #fcfcfc canvas, the orange used sparingly for price tags, sold-out badges, and the occasional accent line that says "this matters." The site runs Josefin Sans at display sizes with its geometric, almost stencil-like letterforms, then drops into Rubik for body copy — a switch that feels like going from the marquee to the liner notes. Borders are thin (#ebeced hairline), corners are mostly sharp ({rounded.none} on cards, {rounded.xs} on buttons), and the whole thing reads like a zine that happens to sell vinyl: product titles are set in display weight, prices in a smaller muted body, and the only real ornament is the orange badge that tells you something is sold out. There is no hero video, no carousel, no newsletter popup — just a grid of records, a search bar, and the quiet confidence that if you're here, you already know what you want. The #121212 footer anchors the page with the weight of a stage monitor.
 
 colors:
   primary: "#103948"
@@ -286,6 +290,8 @@ components:
 - Category filters (if present) collapse to a dropdown below 744px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for `button-secondary` and `text-input` could not be reliably extracted — the live site may use a subtle background tint or border color change that wasn't visible in static analysis
 - Error styling for form validation (red borders, error messages) was not found — the site may use Shopify's default error patterns

@@ -1,0 +1,662 @@
+{
+  "source_url": "https://tonyschocolonely.com",
+  "final_url": "https://tonyschocolonely.com/",
+  "captured_at": "2026-09-28T09:26:16.024014+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://tonyschocolonely.com",
+      "final_url": "https://tonyschocolonely.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "b15c108cc2c17a705a49ed21c07ee4dd6c2da25fc5741fc38453737c0b755de7",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063",
+      "final_url": "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b225a6a71e9a70e1fe0814c7ef85a299029ed3f615bdf58223dc797983b538a9",
+      "snapshot": "stylesheet-1.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 16,
+      "sources": [
+        "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+      ]
+    },
+    "#000000": {
+      "count": 7,
+      "sources": [
+        "https://tonyschocolonely.com/",
+        "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+      ]
+    },
+    "#eb0000": {
+      "count": 6,
+      "sources": [
+        "https://tonyschocolonely.com/",
+        "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+      ]
+    },
+    "#ffffff": {
+      "count": 6,
+      "sources": [
+        "https://tonyschocolonely.com/",
+        "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+      ]
+    },
+    "#006be1": {
+      "count": 4,
+      "sources": [
+        "https://tonyschocolonely.com/",
+        "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+      ]
+    },
+    "#00000080": {
+      "count": 4,
+      "sources": [
+        "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+      ]
+    },
+    "#ff7400": {
+      "count": 3,
+      "sources": [
+        "https://tonyschocolonely.com/"
+      ]
+    },
+    "#78c828": {
+      "count": 3,
+      "sources": [
+        "https://tonyschocolonely.com/"
+      ]
+    },
+    "#0000001a": {
+      "count": 3,
+      "sources": [
+        "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+      ]
+    },
+    "#009e00": {
+      "count": 2,
+      "sources": [
+        "https://tonyschocolonely.com/"
+      ]
+    },
+    "#6464be": {
+      "count": 2,
+      "sources": [
+        "https://tonyschocolonely.com/"
+      ]
+    },
+    "#ff60a6": {
+      "count": 2,
+      "sources": [
+        "https://tonyschocolonely.com/"
+      ]
+    },
+    "#9ca3af": {
+      "count": 2,
+      "sources": [
+        "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+      ]
+    },
+    "#ffed00": {
+      "count": 1,
+      "sources": [
+        "https://tonyschocolonely.com/"
+      ]
+    },
+    "#ffaa2d": {
+      "count": 1,
+      "sources": [
+        "https://tonyschocolonely.com/"
+      ]
+    },
+    "#ffe000": {
+      "count": 1,
+      "sources": [
+        "https://tonyschocolonely.com/"
+      ]
+    },
+    "#dce10a": {
+      "count": 1,
+      "sources": [
+        "https://tonyschocolonely.com/"
+      ]
+    },
+    "#00afbe": {
+      "count": 1,
+      "sources": [
+        "https://tonyschocolonely.com/"
+      ]
+    },
+    "#50afe2": {
+      "count": 1,
+      "sources": [
+        "https://tonyschocolonely.com/"
+      ]
+    },
+    "#aa5abe": {
+      "count": 1,
+      "sources": [
+        "https://tonyschocolonely.com/"
+      ]
+    },
+    "#d7005a": {
+      "count": 1,
+      "sources": [
+        "https://tonyschocolonely.com/"
+      ]
+    },
+    "#f1f1ec": {
+      "count": 1,
+      "sources": [
+        "https://tonyschocolonely.com/"
+      ]
+    },
+    "#007aff": {
+      "count": 1,
+      "sources": [
+        "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+      ]
+    },
+    "#00000026": {
+      "count": 1,
+      "sources": [
+        "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 1,
+      "sources": [
+        "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+      ]
+    },
+    "#0000004d": {
+      "count": 1,
+      "sources": [
+        "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+      ]
+    }
+  },
+  "font_families": {
+    "American typewriter": [
+      "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+    ],
+    "American typewriter!important": [
+      "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+    ],
+    "Apple Color Emoji": [
+      "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+    ],
+    "Chocolate letter": [
+      "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+    ],
+    "Consolas": [
+      "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+    ],
+    "Courier New": [
+      "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+    ],
+    "Liberation Mono": [
+      "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+    ],
+    "Menlo": [
+      "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+    ],
+    "Monaco": [
+      "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+    ],
+    "Noto Color Emoji": [
+      "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+    ],
+    "SFMono-Regular": [
+      "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+    ],
+    "Segoe UI Emoji": [
+      "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+    ],
+    "Segoe UI Symbol": [
+      "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+    ],
+    "monospace": [
+      "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+    ],
+    "sans-serif": [
+      "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+    ],
+    "sans-serif!important": [
+      "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+    ],
+    "system-ui": [
+      "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+    ],
+    "ui-monospace": [
+      "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+    ],
+    "ui-sans-serif": [
+      "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://tonyschocolonely.com/",
+      "selector": ":root",
+      "declarations": "--color_tonys-red: #EB0000;\n        --color_tonys-blue: #006BE1;\n        --color_tonys-white: #FFFFFF;\n        --color_tonys-yellow: #FFED00;\n        --color_caramel-orange: #FF7400;\n        --color_cookie-caramel-orange: #FFAA2D;\n        --color_nougat-yellow: #FFE000;\n        --color_hazelnut-crunch: #DCE10A;\n        --color_almond-green: #78C828;\n        --color_hazelnut-green: #009E00;\n        --color_crispy-wafer-blue: #00AFBE;\n        --color_dark-milk-blue: #50AFE2;\n        --color_pretzel-purple: #6464BE;\n        --color_cinnamon-biscuit-purple: #AA5ABE;\n        --color_caramel-biscuit-pink: #D7005A;\n        --color_raspberry-pink: #FF60A6;\n        --color_tonys-black: #000000;\n     "
+    },
+    {
+      "source": "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063",
+      "selector": ":root",
+      "declarations": "--swiper-theme-color: #007aff"
+    },
+    {
+      "source": "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063",
+      "selector": ":root",
+      "declarations": "--swiper-navigation-size: 44px"
+    },
+    {
+      "source": "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063",
+      "selector": ".swiper-button-prev,.swiper-button-next",
+      "declarations": "position:absolute;width:var(--swiper-navigation-size);height:var(--swiper-navigation-size);z-index:10;cursor:pointer;display:flex;align-items:center;justify-content:center;color:var(--swiper-navigation-color, var(--swiper-theme-color))"
+    },
+    {
+      "source": "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-feature-settings:inherit;font-variation-settings:inherit;font-size:100%;font-weight:inherit;line-height:inherit;letter-spacing:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063",
+      "selector": "button,input:where([type=button]),input:where([type=reset]),input:where([type=submit])",
+      "declarations": "-webkit-appearance:button;background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063",
+      "selector": ".apply-group-header[data-drawer-opened]",
+      "declarations": "transition-property:all;transition-timing-function:cubic-bezier(.4,0,.2,1);transition-duration:.3s;transition-timing-function:steps(3,end);--tw-translate-x: -100%;transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))"
+    },
+    {
+      "source": "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063",
+      "selector": ".apply-group-header[data-drawer-opened]",
+      "declarations": "width:100vw;--tw-translate-x: -31.25rem;transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))"
+    },
+    {
+      "source": "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063",
+      "selector": ".apply-button,.apply-button-icon",
+      "declarations": "--underline-color: currentColor"
+    },
+    {
+      "source": "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063",
+      "selector": ".apply-button",
+      "declarations": "position:relative;display:inline-block;border-width:.125rem;border-color:transparent;padding:.5rem 1.25rem;text-align:center;font-size:1.125rem;line-height:1.5rem;font-weight:700;color:var(--button-text-color);outline:2px solid transparent;outline-offset:2px"
+    },
+    {
+      "source": "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063",
+      "selector": ".apply-button:before",
+      "declarations": "position:absolute;inset:0;border-style:none;background-color:var(--button-bg-color);content:var(--tw-content);-webkit-clip-path:none;clip-path:none"
+    },
+    {
+      "source": "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063",
+      "selector": ".apply-button:disabled:before",
+      "declarations": "border-width:.125rem;border-style:dashed;border-color:var(--color_tonys-black);background-color:transparent;content:var(--tw-content);-webkit-clip-path:none;clip-path:none"
+    },
+    {
+      "source": "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063",
+      "selector": ".apply-button.apply-radio-option:before",
+      "declarations": "content:var(--tw-content);background-color:var(--color_tonys-gray)"
+    },
+    {
+      "source": "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063",
+      "selector": ".apply-button.apply-radio-option.apply-selected:before",
+      "declarations": "content:var(--tw-content);background-color:var(--color_tonys-yellow)"
+    },
+    {
+      "source": "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063",
+      "selector": ".apply-button-icon",
+      "declarations": "position:relative;height:2.5rem;width:2.5rem;padding:.75rem;color:var(--button-text-color);outline:2px solid transparent;outline-offset:2px"
+    },
+    {
+      "source": "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063",
+      "selector": ".apply-button-icon:before",
+      "declarations": "position:absolute;inset:0;content:var(--tw-content);background-color:var(--button-bg-color)"
+    },
+    {
+      "source": "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063",
+      "selector": ".apply-button-icon:hover>svg",
+      "declarations": "--tw-scale-x: 1.1;--tw-scale-y: 1.1;transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))"
+    },
+    {
+      "source": "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063",
+      "selector": ".apply-button-round",
+      "declarations": "display:flex;height:1.75rem;width:1.75rem;align-items:center;justify-content:center;border-radius:9999px;background-color:var(--color_tonys-yellow)"
+    },
+    {
+      "source": "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063",
+      "selector": ".apply-button-round:hover>svg",
+      "declarations": "--tw-rotate: 6deg;transform:translate(var(--tw-translate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skew(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y))"
+    },
+    {
+      "source": "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063",
+      "selector": ".apply-button-round:disabled",
+      "declarations": "background-color:transparent;outline-style:dashed;outline-width:2px;outline-offset:-2px;outline-color:var(--color_tonys-black)"
+    },
+    {
+      "source": "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063",
+      "selector": ":root",
+      "declarations": "--clip-deform-x: .125rem;--clip-deform-y: .125rem"
+    },
+    {
+      "source": "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063",
+      "selector": ".apply-navigation-button-hover:before",
+      "declarations": "position:absolute;left:0;top:0;display:none;width:100%;height:100%;content:var(--tw-content);background-color:var(--color_tonys-white)"
+    },
+    {
+      "source": "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063",
+      "selector": ".apply-navigation-button-hover:hover",
+      "declarations": "color:var(--color_tonys-black)"
+    },
+    {
+      "source": "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063",
+      "selector": ":root",
+      "declarations": "--announcement-bar-height: 30px;--navigation-height: 60px;--header-height: calc(var(--announcement-bar-height) + var(--navigation-height));--wrapperCreatorTopPadding: var(--header-height);--header-z-index: 10"
+    },
+    {
+      "source": "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063",
+      "selector": ".shopify-challenge__button",
+      "declarations": "--underline-color: currentColor;position:relative;display:inline-block;border-width:.125rem;border-color:transparent;padding:.5rem 1.25rem;text-align:center;font-size:1.125rem;line-height:1.5rem;font-weight:700;color:var(--button-text-color);outline:2px solid transparent;outline-offset:2px"
+    },
+    {
+      "source": "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063",
+      "selector": ".shopify-challenge__button:before",
+      "declarations": "position:absolute;inset:0;border-style:none;background-color:var(--button-bg-color);content:var(--tw-content);-webkit-clip-path:none;clip-path:none"
+    },
+    {
+      "source": "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063",
+      "selector": ".shopify-challenge__button:disabled:before",
+      "declarations": "border-width:.125rem;border-style:dashed;border-color:var(--color_tonys-black);background-color:transparent;content:var(--tw-content);-webkit-clip-path:none;clip-path:none"
+    },
+    {
+      "source": "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063",
+      "selector": ".shopify-challenge__button.apply-radio-option:before",
+      "declarations": "content:var(--tw-content);background-color:var(--color_tonys-gray)"
+    },
+    {
+      "source": "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063",
+      "selector": ".shopify-challenge__button.apply-radio-option.apply-selected:before",
+      "declarations": "content:var(--tw-content);background-color:var(--color_tonys-yellow)"
+    },
+    {
+      "source": "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063",
+      "selector": ".shopify-challenge__button",
+      "declarations": "cursor:pointer;background-color:var(--color_tonys-yellow)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Fighting exploitation in cocoa\n – Tony’s Chocolonely Global",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tonyschocolonely.com/",
+        "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+      ]
+    },
+    "colors.secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tonyschocolonely.com/",
+        "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tonyschocolonely.com/",
+        "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tonyschocolonely.com/",
+        "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tonyschocolonely.com/",
+        "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tonyschocolonely.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tonyschocolonely.com/",
+        "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tonyschocolonely.com/",
+        "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+      ]
+    },
+    "colors.accent-yellow": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tonyschocolonely.com/"
+      ]
+    },
+    "colors.accent-orange": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tonyschocolonely.com/"
+      ]
+    },
+    "colors.accent-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tonyschocolonely.com/"
+      ]
+    },
+    "colors.accent-pink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tonyschocolonely.com/"
+      ]
+    },
+    "colors.flavor-purple": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tonyschocolonely.com/"
+      ]
+    },
+    "colors.flavor-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tonyschocolonely.com/"
+      ]
+    },
+    "colors.flavor-deep-pink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tonyschocolonely.com/"
+      ]
+    },
+    "colors.flavor-lime": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tonyschocolonely.com/"
+      ]
+    },
+    "colors.overlay-scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://tonyschocolonely.com/cdn/shop/t/28/assets/ap.main.css?v=117996353388047231261790232063"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.button-round": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.flavor-swatch": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    }
+  }
+}

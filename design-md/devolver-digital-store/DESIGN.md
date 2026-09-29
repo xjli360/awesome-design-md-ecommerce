@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Devolver Digital Store
-description: A chaotic, self-aware merch storefront that treats its own brand identity like a glitchy CRT monitor — #ff00ff (magenta) and #000073 (deep navy) clash against a #222222 ink background, while #eb9e48 (a hot marigold) and #55dd99 (neon mint) stab through the #f3f3f3 canvas like arcade cabinet decals. The store runs on Shopify but refuses to look like one: Roboto Mono in monospaced blocks for product titles, Rubik for body copy, and a #dedede hairline that feels more like scanline interference than a border. Buttons snap into #334fb4 (a charged cobalt) with #fffff0 text, then switch to #dc4144 (warning red) for sale badges — the palette is a deliberate collision of early-web safety colors and late-90s game packaging. The #e6e6fa lavender and #c8a2c8 lilac in the footer suggest a softer underbelly, but the #4b0082 indigo and #8b008b dark magenta in hover states pull it back into punk territory. Every product card uses {rounded.sm} corners — just enough to feel intentional, not friendly — and the search bar floats in a #242833 surface-soft well, typed in Roboto Mono at 14px. The brand’s design language is less “clean ecommerce” and more “cassette tape sold at a convention where everyone’s wearing black and one person has a CRT monitor for a backpack.”
+name: "Devolver Digital Store"
+source_url: "https://merch.devolverdigital.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A chaotic, self-aware merch storefront that treats its own brand identity like a glitchy CRT monitor — #ff00ff (magenta) and #000073 (deep navy) clash against a #222222 ink background, while #eb9e48 (a hot marigold) and #55dd99 (neon mint) stab through the #f3f3f3 canvas like arcade cabinet decals. The store runs on Shopify but refuses to look like one: Roboto Mono in monospaced blocks for product titles, Rubik for body copy, and a #dedede hairline that feels more like scanline interference than a border. Buttons snap into #334fb4 (a charged cobalt) with #fffff0 text, then switch to #dc4144 (warning red) for sale badges — the palette is a deliberate collision of early-web safety colors and late-90s game packaging. The #e6e6fa lavender and #c8a2c8 lilac in the footer suggest a softer underbelly, but the #4b0082 indigo and #8b008b dark magenta in hover states pull it back into punk territory. Every product card uses {rounded.sm} corners — just enough to feel intentional, not friendly — and the search bar floats in a #242833 surface-soft well, typed in Roboto Mono at 14px. The brand’s design language is less “clean ecommerce” and more “cassette tape sold at a convention where everyone’s wearing black and one person has a CRT monitor for a backpack.”
 
 colors:
   primary: "#334fb4"
@@ -340,6 +344,8 @@ components:
 - Category tag strip scrolls horizontally on mobile (no collapse, just overflow-x: auto).
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for most accent buttons (magenta, marigold, red) are inferred from brand patterns — exact hex values not extracted from live site.
 - Error styling for form validation (border colors, error message typography) not observed.

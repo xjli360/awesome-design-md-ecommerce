@@ -1,0 +1,1836 @@
+{
+  "source_url": "https://stiletto.com",
+  "final_url": "https://www.stiletto.com/",
+  "captured_at": "2026-09-29T04:06:33.743985+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://stiletto.com",
+      "final_url": "https://www.stiletto.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "de7ac7b5bfd976eb73c71da4283c44e957f1f8244a2aea000d8869fec1becb7c",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css",
+      "final_url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "74005d7c17d4a02f2f25404ec0655d9bc2fdaa53166874c87d7b7eec69d9088a",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css",
+      "final_url": "https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "e6e2a25c4c1b69087d720776ff9569e9698c9ec52bdd5659c346bcaca9ce28d5",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css",
+      "final_url": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "3c8f27e6009ccfd710a905e6dcf12d0ee3c6f2ac7da05b0572d3e0d12e736fc8",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css",
+      "final_url": "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "eece6e0c65b7007ab0eb1b4998d36dafe381449525824349128efc3f86f4c91c",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/zoomist@2/zoomist.css",
+      "final_url": "https://cdn.jsdelivr.net/npm/zoomist@2/zoomist.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "35082817bc797e889befc9464a4c6fcdebab0c8415ba153e5022774db4d6b646",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 157,
+      "sources": [
+        "https://www.stiletto.com/",
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css",
+        "https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css",
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css",
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css",
+        "https://cdn.jsdelivr.net/npm/zoomist@2/zoomist.css"
+      ]
+    },
+    "#000000": {
+      "count": 82,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css",
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css",
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 33,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css",
+        "https://cdn.jsdelivr.net/npm/zoomist@2/zoomist.css"
+      ]
+    },
+    "#0d6efd": {
+      "count": 29,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#337ab7": {
+      "count": 25,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#333333": {
+      "count": 23,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css",
+        "https://cdn.jsdelivr.net/npm/zoomist@2/zoomist.css"
+      ]
+    },
+    "#777777": {
+      "count": 23,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#6c757d": {
+      "count": 19,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#212529": {
+      "count": 18,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#f8f9fa": {
+      "count": 17,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#dc3545": {
+      "count": 16,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#198754": {
+      "count": 16,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 15,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css",
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 15,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css",
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css",
+        "https://cdn.jsdelivr.net/npm/zoomist@2/zoomist.css"
+      ]
+    },
+    "#ffc107": {
+      "count": 14,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#0dcaf0": {
+      "count": 14,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#3c763d": {
+      "count": 14,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#8a6d3b": {
+      "count": 14,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#a94442": {
+      "count": 14,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#999999": {
+      "count": 11,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css",
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css",
+        "https://cdn.jsdelivr.net/npm/zoomist@2/zoomist.css"
+      ]
+    },
+    "#00bbff": {
+      "count": 11,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 11,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#31708f": {
+      "count": 9,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#555555": {
+      "count": 9,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#fcf8e3": {
+      "count": 8,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#dee2e6": {
+      "count": 7,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#dff0d8": {
+      "count": 7,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#f2dede": {
+      "count": 7,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#343a40": {
+      "count": 6,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#286090": {
+      "count": 6,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#d9edf7": {
+      "count": 6,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#080808": {
+      "count": 6,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#9d9d9d": {
+      "count": 6,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#495057": {
+      "count": 5,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 5,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#5cb85c": {
+      "count": 5,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#5bc0de": {
+      "count": 5,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#f0ad4e": {
+      "count": 5,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#d9534f": {
+      "count": 5,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#e7e7e7": {
+      "count": 5,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#d6e9c6": {
+      "count": 5,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#bce8f1": {
+      "count": 5,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#faebcc": {
+      "count": 5,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#ebccd1": {
+      "count": 5,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#adb5bd": {
+      "count": 4,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#449d44": {
+      "count": 4,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#31b0d5": {
+      "count": 4,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#ec971f": {
+      "count": 4,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#c9302c": {
+      "count": 4,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#444444": {
+      "count": 4,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css",
+        "https://cdn.jsdelivr.net/npm/zoomist@2/zoomist.css"
+      ]
+    },
+    "#e9ecef": {
+      "count": 3,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#fff3cd": {
+      "count": 3,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#0a58ca": {
+      "count": 3,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#75b798": {
+      "count": 3,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#ea868f": {
+      "count": 3,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#c6c7c8": {
+      "count": 3,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#373b3e": {
+      "count": 3,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#86b7fe": {
+      "count": 3,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#23527c": {
+      "count": 3,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#2b542c": {
+      "count": 3,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#66512c": {
+      "count": 3,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#843534": {
+      "count": 3,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 3,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#204d74": {
+      "count": 3,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#398439": {
+      "count": 3,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#269abc": {
+      "count": 3,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#d58512": {
+      "count": 3,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#ac2925": {
+      "count": 3,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#d63384": {
+      "count": 2,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#ced4da": {
+      "count": 2,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#664d03": {
+      "count": 2,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#cfe2ff": {
+      "count": 2,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#e2e3e5": {
+      "count": 2,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#d1e7dd": {
+      "count": 2,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#cff4fc": {
+      "count": 2,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#f8d7da": {
+      "count": 2,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#6ea8fe": {
+      "count": 2,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#4d5154": {
+      "count": 2,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#b6d4fe": {
+      "count": 2,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#565e64": {
+      "count": 2,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#146c43": {
+      "count": 2,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#25cff2": {
+      "count": 2,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#ffc720": {
+      "count": 2,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#b02a37": {
+      "count": 2,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#245269": {
+      "count": 2,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#d0e9c6": {
+      "count": 2,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#c4e3f3": {
+      "count": 2,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#faf2cc": {
+      "count": 2,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#ebcccc": {
+      "count": 2,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#67b168": {
+      "count": 2,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#c0a16b": {
+      "count": 2,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#ce8483": {
+      "count": 2,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#8c8c8c": {
+      "count": 2,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#adadad": {
+      "count": 2,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#2e6da4": {
+      "count": 2,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#122b40": {
+      "count": 2,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#4cae4c": {
+      "count": 2,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#255625": {
+      "count": 2,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#46b8da": {
+      "count": 2,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#1b6d85": {
+      "count": 2,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#eea236": {
+      "count": 2,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#985f0d": {
+      "count": 2,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#d43f3a": {
+      "count": 2,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#761c19": {
+      "count": 2,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#5e5e5e": {
+      "count": 2,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#80000000": {
+      "count": 2,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#858585": {
+      "count": 1,
+      "sources": [
+        "https://www.stiletto.com/"
+      ]
+    },
+    "#c5a37a": {
+      "count": 1,
+      "sources": [
+        "https://www.stiletto.com/"
+      ]
+    },
+    "#6610f2": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#6f42c1": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#fd7e14": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#20c997": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#052c65": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#2b2f32": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#0a3622": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#055160": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#58151c": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#fcfcfd": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#9ec5fe": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#c4c8cb": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#a3cfbb": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#9eeaf9": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#ffe69c": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#f1aeb5": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#2b3035": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#a7acb1": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#6edff6": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#ffda6a": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#031633": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#161719": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#051b11": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#032830": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#332701": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#2c0b0e": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#1a1d20": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#084298": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#41464b": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#0f5132": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#087990": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#997404": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#842029": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#8bb9fe": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#e685b5": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#a6b5cc": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#c5d7f2": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#bacbe6": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#bfd1ec": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#b5b6b7": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#d7d8da": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#cbccce": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#d1d2d4": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#a7b9b1": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#c7dbd2": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#bcd0c7": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#c1d6cc": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#a6c3ca": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#c5e8ef": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#badce3": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#bfe2e9": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#ccc2a4": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#f2e7c3": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#e6dbb9": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#ece1be": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#c6acae": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#eccccf": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#dfc2c4": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#e5c7ca": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#ecedee": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#dfe0e1": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#e5e6e7": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#2c3034": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#323539": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#0b5ed7": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#0a53be": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#5c636a": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#51585e": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#157347": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#13653f": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#31d2f2": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#3dd5f3": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#ffca2c": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#ffcd39": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#bb2d3b": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#a52834": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#d3d4d5": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#babbbc": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#424649": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "#ffff00": {
+      "count": 1,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#c1e2b3": {
+      "count": 1,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#afd9ee": {
+      "count": 1,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#f7ecb5": {
+      "count": 1,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#e4b9b9": {
+      "count": 1,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#c7254e": {
+      "count": 1,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#f9f2f4": {
+      "count": 1,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 1,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 1,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#66afe9": {
+      "count": 1,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#737373": {
+      "count": 1,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#d4d4d4": {
+      "count": 1,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#262626": {
+      "count": 1,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 1,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#888888": {
+      "count": 1,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#222222": {
+      "count": 1,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#101010": {
+      "count": 1,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#d5d5d5": {
+      "count": 1,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#c9e2b3": {
+      "count": 1,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#a6e1ec": {
+      "count": 1,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#f7e1b5": {
+      "count": 1,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#e4b9c0": {
+      "count": 1,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#c7ddef": {
+      "count": 1,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#e3e3e3": {
+      "count": 1,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 1,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#ebebeb": {
+      "count": 1,
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "#efefef": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/zoomist@2/zoomist.css"
+      ]
+    },
+    "#666666": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/zoomist@2/zoomist.css"
+      ]
+    },
+    "#111111": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/zoomist@2/zoomist.css"
+      ]
+    },
+    "#00000099": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/zoomist@2/zoomist.css"
+      ]
+    },
+    "#00000066": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/zoomist@2/zoomist.css"
+      ]
+    }
+  },
+  "font_families": {
+    "55 Roman\" !important": [
+      "https://www.stiletto.com/"
+    ],
+    "65 Medium' !important": [
+      "https://www.stiletto.com/"
+    ],
+    "Arial": [
+      "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+    ],
+    "Consolas": [
+      "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+    ],
+    "Courier New": [
+      "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+    ],
+    "Font Awesome 5 Brands": [
+      "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+    ],
+    "Font Awesome 5 Free": [
+      "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+    ],
+    "Font Awesome 6 Brands": [
+      "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+    ],
+    "Font Awesome 6 Free": [
+      "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+    ],
+    "FontAwesome": [
+      "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+    ],
+    "Glyphicons Halflings": [
+      "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+    ],
+    "Helvetica": [
+      "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+    ],
+    "Helvetica Neue": [
+      "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+    ],
+    "Lato": [
+      "https://www.stiletto.com/"
+    ],
+    "Menlo": [
+      "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+    ],
+    "Merriweather": [
+      "https://www.stiletto.com/"
+    ],
+    "Monaco": [
+      "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+    ],
+    "monospace": [
+      "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+    ],
+    "sans-serif": [
+      "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+    ],
+    "serif": [
+      "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.stiletto.com/",
+      "selector": "display:none;visibility:hidden\n\n                header .header__search.header--element.desktop-search a",
+      "declarations": "color: #858585;\n                    cursor: pointer;\n                    display: flex;\n                    font-size: 14px;\n                    margin-bottom: 0;\n                    text-decoration: none;"
+    },
+    {
+      "source": "https://www.stiletto.com/",
+      "selector": "header .header__search.header--element.desktop-search a i",
+      "declarations": "color: #c5a37a;\n                    font-size: 20px;\n                    margin-right: 8px;"
+    },
+    {
+      "source": "https://www.stiletto.com/",
+      "selector": ".header__search.header--element.desktop-search .search-close-icon",
+      "declarations": "padding: 0;\n                    background-color: transparent;\n                    border: none;"
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css",
+      "selector": ".fa-tablet-alt,.fa-tablet-screen-button",
+      "declarations": "--fa:\"\\f3fa\""
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css",
+      "selector": ".fa-header,.fa-heading",
+      "declarations": "--fa:\"\\f1dc\""
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css",
+      "selector": ".fa-tablet-button",
+      "declarations": "--fa:\"\\f10a\""
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css",
+      "selector": ".fa-mobile-alt,.fa-mobile-screen-button",
+      "declarations": "--fa:\"\\f3cd\""
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css",
+      "selector": ".fa-mobile-button",
+      "declarations": "--fa:\"\\f10b\""
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css",
+      "selector": ":host,:root",
+      "declarations": "--fa-style-family-brands:\"Font Awesome 6 Brands\";--fa-font-brands:normal 400 1em/1 \"Font Awesome 6 Brands\""
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css",
+      "selector": ".fa-product-hunt",
+      "declarations": "--fa:\"\\f288\""
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css",
+      "selector": ":host,:root",
+      "declarations": "--fa-font-regular:normal 400 1em/1 \"Font Awesome 6 Free\""
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css",
+      "selector": ":host,:root",
+      "declarations": "--fa-style-family-classic:\"Font Awesome 6 Free\";--fa-font-solid:normal 900 1em/1 \"Font Awesome 6 Free\""
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css",
+      "selector": "body",
+      "declarations": "margin:0;font-family:var(--bs-body-font-family);font-size:var(--bs-body-font-size);font-weight:var(--bs-body-font-weight);line-height:var(--bs-body-line-height);color:var(--bs-body-color);text-align:var(--bs-body-text-align);background-color:var(--bs-body-bg);-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:transparent"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css",
+      "selector": ".h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6",
+      "declarations": "margin-top:0;margin-bottom:.5rem;font-weight:500;line-height:1.2;color:var(--bs-heading-color)"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css",
+      "selector": "tbody,td,tfoot,th,thead,tr",
+      "declarations": "border-color:inherit;border-style:solid;border-width:0"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "margin:0;font-family:inherit;font-size:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css",
+      "selector": ":root",
+      "declarations": "--bs-breakpoint-xs:0;--bs-breakpoint-sm:576px;--bs-breakpoint-md:768px;--bs-breakpoint-lg:992px;--bs-breakpoint-xl:1200px;--bs-breakpoint-xxl:1400px"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css",
+      "selector": ".table-striped>tbody>tr:nth-of-type(odd)>*",
+      "declarations": "--bs-table-color-type:var(--bs-table-striped-color);--bs-table-bg-type:var(--bs-table-striped-bg)"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css",
+      "selector": ".table-hover>tbody>tr:hover>*",
+      "declarations": "--bs-table-color-state:var(--bs-table-hover-color);--bs-table-bg-state:var(--bs-table-hover-bg)"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css",
+      "selector": ".form-control::-webkit-file-upload-button",
+      "declarations": "padding:.375rem .75rem;margin:-.375rem -.75rem;-webkit-margin-end:.75rem;margin-inline-end:.75rem;color:var(--bs-body-color);background-color:var(--bs-tertiary-bg);pointer-events:none;border-color:inherit;border-style:solid;border-width:0;border-inline-end-width:var(--bs-border-width);border-radius:0;-webkit-transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css",
+      "selector": ".form-control::file-selector-button",
+      "declarations": "padding:.375rem .75rem;margin:-.375rem -.75rem;-webkit-margin-end:.75rem;margin-inline-end:.75rem;color:var(--bs-body-color);background-color:var(--bs-tertiary-bg);pointer-events:none;border-color:inherit;border-style:solid;border-width:0;border-inline-end-width:var(--bs-border-width);border-radius:0;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css",
+      "selector": ".form-control:hover:not(:disabled):not([readonly])::-webkit-file-upload-button",
+      "declarations": "background-color:var(--bs-secondary-bg)"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css",
+      "selector": ".form-control:hover:not(:disabled):not([readonly])::file-selector-button",
+      "declarations": "background-color:var(--bs-secondary-bg)"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css",
+      "selector": ".btn",
+      "declarations": "--bs-btn-padding-x:0.75rem;--bs-btn-padding-y:0.375rem;--bs-btn-font-family: ;--bs-btn-font-size:1rem;--bs-btn-font-weight:400;--bs-btn-line-height:1.5;--bs-btn-color:var(--bs-body-color);--bs-btn-bg:transparent;--bs-btn-border-width:var(--bs-border-width);--bs-btn-border-color:transparent;--bs-btn-border-radius:var(--bs-border-radius);--bs-btn-hover-border-color:transparent;--bs-btn-box-shadow:inset 0 1px 0 rgba(255, 255, 255, 0.15),0 1px 1px rgba(0, 0, 0, 0.075);--bs-btn-disabled-opacity:0.65;--bs-btn-focus-box-shadow:0 0 0 0.25rem rgba(var(--bs-btn-focus-shadow-rgb), .5);display:inline-block;padding:var(--bs-btn-padding-y) var(--bs-btn-padding-x);font-family:var(--bs-btn-font-family);font"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css",
+      "selector": ".btn:hover",
+      "declarations": "color:var(--bs-btn-hover-color);background-color:var(--bs-btn-hover-bg);border-color:var(--bs-btn-hover-border-color)"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css",
+      "selector": ".btn-check+.btn:hover",
+      "declarations": "color:var(--bs-btn-color);background-color:var(--bs-btn-bg);border-color:var(--bs-btn-border-color)"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css",
+      "selector": ".btn:focus-visible",
+      "declarations": "color:var(--bs-btn-hover-color);background-color:var(--bs-btn-hover-bg);border-color:var(--bs-btn-hover-border-color);outline:0;box-shadow:var(--bs-btn-focus-box-shadow)"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css",
+      "selector": ".btn-check:focus-visible+.btn",
+      "declarations": "border-color:var(--bs-btn-hover-border-color);outline:0;box-shadow:var(--bs-btn-focus-box-shadow)"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css",
+      "selector": ".btn-check:checked+.btn,.btn.active,.btn.show,.btn:first-child:active,:not(.btn-check)+.btn:active",
+      "declarations": "color:var(--bs-btn-active-color);background-color:var(--bs-btn-active-bg);border-color:var(--bs-btn-active-border-color)"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css",
+      "selector": ".btn.disabled,.btn:disabled,fieldset:disabled .btn",
+      "declarations": "color:var(--bs-btn-disabled-color);pointer-events:none;background-color:var(--bs-btn-disabled-bg);border-color:var(--bs-btn-disabled-border-color);opacity:var(--bs-btn-disabled-opacity)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Stiletto Home Page",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stiletto.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css",
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css",
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stiletto.com/",
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css",
+        "https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css",
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css",
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css",
+        "https://cdn.jsdelivr.net/npm/zoomist@2/zoomist.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css",
+        "https://cdn.jsdelivr.net/npm/zoomist@2/zoomist.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css",
+        "https://cdn.jsdelivr.net/npm/zoomist@2/zoomist.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.stiletto.com/",
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css",
+        "https://cdn.jsdelivr.net/npm/@splidejs/splide@4.1.4/dist/css/splide.min.css",
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css",
+        "https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css",
+        "https://cdn.jsdelivr.net/npm/zoomist@2/zoomist.css"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "colors.text-secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-table": {
+      "status": "inferred"
+    }
+  }
+}

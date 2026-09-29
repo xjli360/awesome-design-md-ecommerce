@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Magimix
-description: |
+name: "Magimix"
+source_url: "https://www.magimix.us"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   That deep burgundy-red (#af303b) hits before any headline does — it pulses from the "Shop Now" buttons, the navigation hover states, and the silhouette badges that call out motor wattage on every product card. Magimix leans on Futura PT for headlines and navigation, its geometric letterforms echoing the cylindrical bowls and clean engineering lines of the machines themselves; body copy drops to Open Sans at regular weight, readable and unassuming, never competing with product photography that dominates the visual hierarchy. The palette is deliberately restrained: a near-black ink (#3a3a3a), a slate-gray body tone (#5e6a71), and an expanse of white canvas punctuated by cool surface grays (#f5f5f5, #eeeeee) that separate content bands without introducing borders. Cards float on `{colors.surface-card}` with a single `{colors.hairline}` separator, corners barely softened to `{rounded.xs}` — this is European industrial design translated to layout, where sharp geometry dominates and decorative radius is reserved only for pill badges and the search input (`{rounded.full}`). Blue (#0274be) appears strictly as a utility link color, never as brand expression. Section rhythm runs at `{spacing.section}` (64px) between content blocks, compressing to `{spacing.lg}` on mobile. The overall effect is a culinary catalog that trusts its product imagery and engineering claims, framing chrome-and-white appliances against generous negative space rather than burying them in lifestyle noise.
 
 colors:
@@ -484,6 +487,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact Futura PT weights in use could not be confirmed from extraction — assumed 600/700 for headings based on geometric sans conventions; actual site may use 500/800
 - No CSS custom properties or design-token layer was detected; the site likely applies styles via WordPress theme PHP/CSS rather than a token system

@@ -1,11 +1,15 @@
 ---
 version: alpha
-name: Inventables
-description: The amber voltage of #fea609 punches through near-black surfaces the way a laser trace glows across raw acrylic — and that contrast is the entire visual argument Inventables makes. Four near-identical dark backgrounds (#272929, #1a1d1d, #1d1d1d, #121212) serve distinct depth roles across the interface: the deepest pools anchor the global nav and footer, midrange darks carry product spec panels and feature callouts, and the amber family (#ffa400, #fea245, #ffb762) provides three tonal stops that handle hover states, pricing accents, and bundle badge highlights without introducing a second hue. Nothing here is accidental — the brand sells precision machines to people who think in thousandths of an inch, and the color system reflects that discipline.
+name: "Inventables"
+source_url: "https://www.inventables.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The amber voltage of #fea609 punches through near-black surfaces the way a laser trace glows across raw acrylic — and that contrast is the entire visual argument Inventables makes. Four near-identical dark backgrounds (#272929, #1a1d1d, #1d1d1d, #121212) serve distinct depth roles across the interface: the deepest pools anchor the global nav and footer, midrange darks carry product spec panels and feature callouts, and the amber family (#ffa400, #fea245, #ffb762) provides three tonal stops that handle hover states, pricing accents, and bundle badge highlights without introducing a second hue. Nothing here is accidental — the brand sells precision machines to people who think in thousandths of an inch, and the color system reflects that discipline.
 
-AlrightSans runs the full typographic load across ten declared weights. Inventables uses the spread intentionally: ExtraThin handles spec annotations and dimensional whisper labels, Light carries extended body copy, Medium anchors navigation and form inputs, and Bold drives CTAs and product headings at the density required by a SKU-heavy catalog. The near-geometric letterforms carry a mechanical quality in uppercase — that setting mirrors a G-code comment block rather than a lifestyle editorial, and buttons are set in tracked Bold uppercase to reinforce that precision-tool register at every action point.
+  AlrightSans runs the full typographic load across ten declared weights. Inventables uses the spread intentionally: ExtraThin handles spec annotations and dimensional whisper labels, Light carries extended body copy, Medium anchors navigation and form inputs, and Bold drives CTAs and product headings at the density required by a SKU-heavy catalog. The near-geometric letterforms carry a mechanical quality in uppercase — that setting mirrors a G-code comment block rather than a lifestyle editorial, and buttons are set in tracked Bold uppercase to reinforce that precision-tool register at every action point.
 
-Rounded corners stay deliberately tight — {rounded.sm} on buttons and inputs, near-square on product cards — echoing CNC path geometry rather than the bubble radii of consumer apps. The interface does not soften itself for lifestyle appeal: this is a maker's toolkit mapped onto a commerce layer, and every design decision signals competence to the professional buyer scanning machine specs. Dark-surface hero and callout sections carry the brand's visual weight, with amber CTAs providing the single primary contrast event per screen. Light-canvas product pages use #dedede and #eeeeee for grid dividers and disabled states, keeping the industrial palette intact without overwhelming material photography. FontAwesome handles all iconography at nav, badge, and inline documentation scales, keeping glyph rendering consistent across the machine-spec-heavy content that defines the Inventables catalog.
+  Rounded corners stay deliberately tight — {rounded.sm} on buttons and inputs, near-square on product cards — echoing CNC path geometry rather than the bubble radii of consumer apps. The interface does not soften itself for lifestyle appeal: this is a maker's toolkit mapped onto a commerce layer, and every design decision signals competence to the professional buyer scanning machine specs. Dark-surface hero and callout sections carry the brand's visual weight, with amber CTAs providing the single primary contrast event per screen. Light-canvas product pages use #dedede and #eeeeee for grid dividers and disabled states, keeping the industrial palette intact without overwhelming material photography. FontAwesome handles all iconography at nav, badge, and inline documentation scales, keeping glyph rendering consistent across the machine-spec-heavy content that defines the Inventables catalog.
 
 colors:
   primary: "#fea609"
@@ -351,6 +355,8 @@ components:
 - Hero text prose width caps at 600px on wide viewports; dark background extends full-bleed
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact button border-radius values not extractable from live site — {rounded.sm} (4px) inferred from industrial aesthetic and CNC-geometry visual language
 - Primary-active hover color (#d48500) is derived from primary (#fea609) by darkening approximately 15%; no hover-state hex was captured from the live site

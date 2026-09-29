@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Zia Records
-description: A deep indigo anchor at #222299 — not a friendly blue but a midnight cobalt that reads as serious, archival, and slightly mysterious, the color of a record-store crate in shadow. Paired with a secondary navy #223355 and a near-white canvas #eeeeee, the palette strips away warmth to let album art and movie posters supply all the color. The brand name itself, Zia Records, appears in a bold, condensed sans-serif that feels lifted from a 1970s marquee — no softening, no decorative descenders. Navigation is a dense, information-rich strip: genre dropdowns, format filters (Vinyl / CD / Cassette / Blu-ray), and a search bar that feels more like a database query than a friendly prompt. Product cards stack tightly with minimal whitespace, favoring thumbnail density over breathing room — this is a store for collectors who scan, not browsers who linger. The checkout flow, likely powered by a third-party widget, introduces a sudden shift to generic blues and grays, a known gap between the brand's distinctive identity and the transactional layer. But within the catalog, the design language is consistent: sharp corners ({rounded.none} on cards), high-contrast text on dark backgrounds, and a typographic hierarchy that prioritizes artist name and format badge over price. It feels less like a lifestyle brand and more like a well-organized archive — the digital equivalent of a shop where the owner knows exactly where every used copy of *Bitches Brew* is shelved.
+name: "Zia Records"
+source_url: "https://www.ziarecords.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep indigo anchor at #222299 — not a friendly blue but a midnight cobalt that reads as serious, archival, and slightly mysterious, the color of a record-store crate in shadow. Paired with a secondary navy #223355 and a near-white canvas #eeeeee, the palette strips away warmth to let album art and movie posters supply all the color. The brand name itself, Zia Records, appears in a bold, condensed sans-serif that feels lifted from a 1970s marquee — no softening, no decorative descenders. Navigation is a dense, information-rich strip: genre dropdowns, format filters (Vinyl / CD / Cassette / Blu-ray), and a search bar that feels more like a database query than a friendly prompt. Product cards stack tightly with minimal whitespace, favoring thumbnail density over breathing room — this is a store for collectors who scan, not browsers who linger. The checkout flow, likely powered by a third-party widget, introduces a sudden shift to generic blues and grays, a known gap between the brand's distinctive identity and the transactional layer. But within the catalog, the design language is consistent: sharp corners ({rounded.none} on cards), high-contrast text on dark backgrounds, and a typographic hierarchy that prioritizes artist name and format badge over price. It feels less like a lifestyle brand and more like a well-organized archive — the digital equivalent of a shop where the owner knows exactly where every used copy of *Bitches Brew* is shelved.
 
 colors:
   primary: "#222299"
@@ -339,6 +343,8 @@ components:
 - Search bar moves from inline in the nav to a dedicated full-width bar below the nav on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Font family declarations extracted were limited to Font Awesome icon fonts and a custom "spruce-icon-pack" — the actual body and heading fonts could not be reliably identified from the extracted data. The typography block uses Font Awesome as a placeholder; the real brand likely uses a different primary typeface.
 - Only three hex colors were extracted from the live site (#222299, #223355, #eeeeee). These appear to be the brand's primary palette, but secondary colors (sale red, badge colors, hover states, link colors) were inferred based on common e-commerce patterns and may not match the actual site.

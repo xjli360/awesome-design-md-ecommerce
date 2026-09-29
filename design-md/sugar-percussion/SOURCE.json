@@ -1,0 +1,616 @@
+{
+  "source_url": "https://www.sugarpercussion.com",
+  "final_url": "https://sugarpercussion.com/",
+  "captured_at": "2026-09-28T09:02:55.231446+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.sugarpercussion.com",
+      "final_url": "https://sugarpercussion.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "455e67e53661bc0ee27b49f26a69393695bc6d9573b013953f74dce9f3a7aebe",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234",
+      "final_url": "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "81dd96243df1419a11aa265418993f37824204c5b58e7b252518f9fefef23fee",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://sugarpercussion.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://sugarpercussion.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://sugarpercussion.com/cdn/shop/t/10/compiled_assets/styles.css?v=176574728121775169791781781274",
+      "final_url": "https://sugarpercussion.com/cdn/shop/t/10/compiled_assets/styles.css?v=176574728121775169791781781274",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "83e1d4f45c97965cdac0f3412879038e3c80d4b1550e27b2591f368a07e67ebd",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://sugarpercussion.com/cdn/shop/t/10/assets/overflow-list.css?v=16727044177065489451781781234",
+      "final_url": "https://sugarpercussion.com/cdn/shop/t/10/assets/overflow-list.css?v=16727044177065489451781781234",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "418ca38d5fe6bea88018fa2bd31774795ba12d4669942435adcb4cfb13d69201",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 112,
+      "sources": [
+        "https://sugarpercussion.com/",
+        "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234",
+        "https://sugarpercussion.com/cdn/shop/t/10/compiled_assets/styles.css?v=176574728121775169791781781274"
+      ]
+    },
+    "#ffffff": {
+      "count": 74,
+      "sources": [
+        "https://sugarpercussion.com/",
+        "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234",
+        "https://sugarpercussion.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://sugarpercussion.com/cdn/shop/t/10/compiled_assets/styles.css?v=176574728121775169791781781274"
+      ]
+    },
+    "#333333": {
+      "count": 22,
+      "sources": [
+        "https://sugarpercussion.com/"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 18,
+      "sources": [
+        "https://sugarpercussion.com/"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 17,
+      "sources": [
+        "https://sugarpercussion.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 10,
+      "sources": [
+        "https://sugarpercussion.com/"
+      ]
+    },
+    "#fff5e7": {
+      "count": 9,
+      "sources": [
+        "https://sugarpercussion.com/",
+        "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234"
+      ]
+    },
+    "#fafafa": {
+      "count": 6,
+      "sources": [
+        "https://sugarpercussion.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 6,
+      "sources": [
+        "https://sugarpercussion.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://sugarpercussion.com/cdn/shop/t/10/compiled_assets/styles.css?v=176574728121775169791781781274"
+      ]
+    },
+    "#dfdfdf": {
+      "count": 4,
+      "sources": [
+        "https://sugarpercussion.com/"
+      ]
+    },
+    "#0000001a": {
+      "count": 4,
+      "sources": [
+        "https://sugarpercussion.com/cdn/shop/t/10/compiled_assets/styles.css?v=176574728121775169791781781274"
+      ]
+    },
+    "#8b0000": {
+      "count": 3,
+      "sources": [
+        "https://sugarpercussion.com/"
+      ]
+    },
+    "#660000": {
+      "count": 2,
+      "sources": [
+        "https://sugarpercussion.com/"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://sugarpercussion.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000026": {
+      "count": 2,
+      "sources": [
+        "https://sugarpercussion.com/cdn/shop/t/10/compiled_assets/styles.css?v=176574728121775169791781781274"
+      ]
+    },
+    "#00000066": {
+      "count": 2,
+      "sources": [
+        "https://sugarpercussion.com/cdn/shop/t/10/compiled_assets/styles.css?v=176574728121775169791781781274"
+      ]
+    },
+    "#006400": {
+      "count": 1,
+      "sources": [
+        "https://sugarpercussion.com/"
+      ]
+    },
+    "#3ed660": {
+      "count": 1,
+      "sources": [
+        "https://sugarpercussion.com/"
+      ]
+    },
+    "#ee9441": {
+      "count": 1,
+      "sources": [
+        "https://sugarpercussion.com/"
+      ]
+    },
+    "#c8c8c8": {
+      "count": 1,
+      "sources": [
+        "https://sugarpercussion.com/"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 1,
+      "sources": [
+        "https://sugarpercussion.com/"
+      ]
+    },
+    "#888888": {
+      "count": 1,
+      "sources": [
+        "https://sugarpercussion.com/"
+      ]
+    },
+    "#eef1ea": {
+      "count": 1,
+      "sources": [
+        "https://sugarpercussion.com/"
+      ]
+    },
+    "#e1edf5": {
+      "count": 1,
+      "sources": [
+        "https://sugarpercussion.com/"
+      ]
+    },
+    "#1d3686": {
+      "count": 1,
+      "sources": [
+        "https://sugarpercussion.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://sugarpercussion.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://sugarpercussion.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://sugarpercussion.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0a142f": {
+      "count": 1,
+      "sources": [
+        "https://sugarpercussion.com/cdn/shop/t/10/compiled_assets/styles.css?v=176574728121775169791781781274"
+      ]
+    }
+  },
+  "font_families": {
+    "Lato": [
+      "https://sugarpercussion.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://sugarpercussion.com/",
+      "selector": "r(--color-foreground-rgb) / var(--opacity-10-25));\n--menu-localization-font: var(--font-heading--family); --color-shadow: rgb(var(--color-foreground-rgb) / var(",
+      "declarations": "--color-submenu: rgb(255 245 231 / 1.0);"
+    },
+    {
+      "source": "https://sugarpercussion.com/",
+      "selector": "-level-font-line-height:\n  var(--menu-font-sm--line-height);\n\n--menu-top-level-font-color: var(--color-foreground); --menu-top-level-font-color-rgb: var(--color",
+      "declarations": "--color-submenu: rgb(255 245 231 / 1.0);"
+    },
+    {
+      "source": "https://sugarpercussion.com/",
+      "selector": ".875rem; \n--menu-localization-font: var(--font-heading--family); --menu-localization-font-size: 0.875rem; --color-shadow: rgb(var(--color-foreground-rgb) / var(",
+      "declarations": "--color-submenu: rgb(255 245 231 / 1.0);"
+    },
+    {
+      "source": "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234",
+      "selector": "body",
+      "declarations": "color:var(--color-foreground);background:var(--color-background);display:flex;flex-direction:column;margin:0;min-height:100svh;font-variation-settings:\"slnt\" 0"
+    },
+    {
+      "source": "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234",
+      "selector": ":root",
+      "declarations": "--hover-lift-amount: 4px;--hover-scale-amount: 1.03;--hover-subtle-zoom-amount: 1.015;--hover-shadow-color: var(--color-shadow);--hover-transition-duration: .25s;--hover-transition-timing: ease-out;--surface-transition-duration: .3s;--surface-transition-timing: var(--ease-out-quad);--submenu-animation-speed: .36s;--submenu-animation-easing: cubic-bezier(.25, .1, .25, 1)"
+    },
+    {
+      "source": "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234",
+      "selector": "body,.paragraph:not(.button),.paragraph>*,.text-block.paragraph :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-paragraph--family);font-style:var(--font-paragraph--style);font-weight:var(--font-paragraph--weight);font-size:var(--font-paragraph--size);line-height:var(--font-paragraph--line-height);text-transform:var(--font-paragraph--case);-webkit-font-smoothing:antialiased;color:var(--color, var(--color-foreground))"
+    },
+    {
+      "source": "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234",
+      "selector": "h1,.h1.h1,.text-block.h1>*,.text-block.h1 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h1--family);font-style:var(--font-h1--style);font-weight:var(--font-h1--weight);font-size:var(--font-h1--size);line-height:var(--font-h1--line-height);letter-spacing:var(--font-h1--letter-spacing);text-transform:var(--font-h1--case);color:var(--color, var(--font-h1-color))"
+    },
+    {
+      "source": "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234",
+      "selector": "h2,.h2.h2,.text-block.h2>*,.text-block.h2 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h2--family);font-style:var(--font-h2--style);font-weight:var(--font-h2--weight);font-size:var(--font-h2--size);line-height:var(--font-h2--line-height);letter-spacing:var(--font-h2--letter-spacing);text-transform:var(--font-h2--case);color:var(--color, var(--font-h2-color))"
+    },
+    {
+      "source": "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234",
+      "selector": "h3,.h3,.h3.h3,.text-block.h3>*,.text-block.h3 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h3--family);font-style:var(--font-h3--style);font-weight:var(--font-h3--weight);font-size:var(--font-h3--size);line-height:var(--font-h3--line-height);letter-spacing:var(--font-h3--letter-spacing);text-transform:var(--font-h3--case);color:var(--color, var(--font-h3-color))"
+    },
+    {
+      "source": "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234",
+      "selector": "h4,.h4.h4,.text-block.h4>*,.text-block.h4 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h4--family);font-style:var(--font-h4--style);font-weight:var(--font-h4--weight);font-size:var(--font-h4--size);line-height:var(--font-h4--line-height);letter-spacing:var(--font-h4--letter-spacing);text-transform:var(--font-h4--case);color:var(--color, var(--font-h4-color))"
+    },
+    {
+      "source": "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234",
+      "selector": "h5,.h5.h5,.text-block.h5>*,.text-block.h5 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h5--family);font-style:var(--font-h5--style);font-weight:var(--font-h5--weight);font-size:var(--font-h5--size);line-height:var(--font-h5--line-height);letter-spacing:var(--font-h5--letter-spacing);text-transform:var(--font-h5--case);color:var(--color, var(--font-h5-color))"
+    },
+    {
+      "source": "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234",
+      "selector": "h6,.h6.h6,.text-block.h6>*,.text-block.h6 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h6--family);font-style:var(--font-h6--style);font-weight:var(--font-h6--weight);font-size:var(--font-h6--size);line-height:var(--font-h6--line-height);letter-spacing:var(--font-h6--letter-spacing);text-transform:var(--font-h6--case);color:var(--color, var(--font-h6-color))"
+    },
+    {
+      "source": "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234",
+      "selector": ":is(h1,h2,h3,h4,h5,h6,p)>a:hover",
+      "declarations": "--button-color: var(--color, var(--color-primary-hover))"
+    },
+    {
+      "source": "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234",
+      "selector": "p:not(.h1,.h2,.h3,.h4,.h5,.h6) a:where(:not(.button,.button-secondary)),.rte :is(p,ul,ol,table):not(.h1,.h2,.h3,.h4,.h5,.h6) a:where(:not(.button,.button-second",
+      "declarations": "text-decoration-color:currentcolor"
+    },
+    {
+      "source": "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234",
+      "selector": ":is(p:not(.h1,.h2,.h3,.h4,.h5,.h6) a:where(:not(.button,.button-secondary)),.rte :is(p,ul,ol,table):not(.h1,.h2,.h3,.h4,.h5,.h6) a:where(:not(.button,.button-se",
+      "declarations": "text-decoration-color:transparent;color:var(--color-primary-hover)"
+    },
+    {
+      "source": "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234",
+      "selector": ".product-grid__card.product-grid__card",
+      "declarations": "display:flex;flex-flow:column nowrap;gap:var(--product-card-gap);align-items:var(--product-card-alignment);text-decoration:none;color:var(--color, var(--color-foreground));padding-block:var(--padding-block-start) var(--padding-block-end);padding-inline:var(--padding-inline-start) var(--padding-inline-end);overflow:hidden"
+    },
+    {
+      "source": "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234",
+      "selector": "[product-grid-view=default]",
+      "declarations": "--product-grid-gap: 16px;--padding-block-start: 24px;--padding-block-end: 24px;--padding-inline-start: 0px;--padding-inline-end: 0px"
+    },
+    {
+      "source": "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234",
+      "selector": "[product-grid-view=zoom-out]",
+      "declarations": "--product-grid-columns-desktop: repeat( 10, minmax(clamp(50px, calc(100% - 9 * var(--product-grid-gap)) / 10, 80px), 1fr) )"
+    },
+    {
+      "source": "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234",
+      "selector": ".product-grid-view-zoom-out--details .h4,.product-grid-view-zoom-out--details span,.product-grid-view-zoom-out--details s",
+      "declarations": "font-size:var(--font-size--xs);font-family:var(--font-paragraph--family)"
+    },
+    {
+      "source": "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234",
+      "selector": ".button,.button-secondary,button.shopify-payment-button__button--unbranded",
+      "declarations": "--text-align: center;display:grid;align-content:center;text-decoration:none;text-align:var(--text-align);color:var(--button-color);-webkit-appearance:none;appearance:none;background-color:var(--button-background-color);border:none;font-family:var(--font-paragraph--family);font-style:var(--font-paragraph--style);font-weight:var(--font-paragraph--weight);font-size:var(--font-paragraph--size);line-height:var(--font-paragraph--line-height);margin-block:0;transition:color var(--animation-speed) var(--animation-easing),box-shadow var(--animation-speed) var(--animation-easing),background-color var(--animation-speed) var(--animation-easing);cursor:pointer;width:fit-content;box-shadow:inset 0 0 0 var"
+    },
+    {
+      "source": "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234",
+      "selector": ".button",
+      "declarations": "font-family:var(--button-font-family-primary);text-transform:var(--button-text-case-primary);border-radius:var(--style-border-radius-buttons-primary)"
+    },
+    {
+      "source": "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234",
+      "selector": ".button:not(.button-secondary,.button-unstyled)",
+      "declarations": "outline-color:var(--button-background-color)"
+    },
+    {
+      "source": "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234",
+      "selector": ".button-secondary",
+      "declarations": "font-family:var(--button-font-family-secondary);text-transform:var(--button-text-case-secondary);border-radius:var(--style-border-radius-buttons-secondary)"
+    },
+    {
+      "source": "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234",
+      "selector": "button.shopify-payment-button__button--unbranded",
+      "declarations": "font-family:var(--button-font-family-primary);text-transform:var(--button-text-case-primary)"
+    },
+    {
+      "source": "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234",
+      "selector": ".button,button.shopify-payment-button__button--unbranded",
+      "declarations": "--button-color: var(--color-primary-button-text);--button-background-color: var(--color-primary-button-background);--button-border-color: var(--color-primary-button-border);--button-border-width: var(--style-border-width-primary)"
+    },
+    {
+      "source": "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234",
+      "selector": ".button:hover,button.shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "--button-color: var(--color-primary-button-hover-text);--button-background-color: var(--color-primary-button-hover-background);--button-border-color: var(--color-primary-button-hover-border)"
+    },
+    {
+      "source": "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234",
+      "selector": ".button-secondary",
+      "declarations": "--button-color: var(--color-secondary-button-text);--button-background-color: var(--color-secondary-button-background);--button-border-color: var(--color-secondary-button-border);--button-border-width: var(--style-border-width-secondary)"
+    },
+    {
+      "source": "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234",
+      "selector": ".button-secondary:hover",
+      "declarations": "--button-color: var(--color-secondary-button-hover-text);--button-background-color: var(--color-secondary-button-hover-background);--button-border-color: var(--color-secondary-button-hover-border)"
+    },
+    {
+      "source": "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234",
+      "selector": "button.shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:var(--button-background-color)"
+    },
+    {
+      "source": "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234",
+      "selector": ".button-unstyled",
+      "declarations": "display:block;padding:0;background-color:inherit;color:inherit;border:0;border-radius:0;overflow:hidden;box-shadow:none;font-family:var(--font-paragraph--family);font-style:var(--font-paragraph--style);font-size:var(--font-paragraph--size)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Sugar Percussion",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sugarpercussion.com/"
+      ]
+    },
+    "colors.primary-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sugarpercussion.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sugarpercussion.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sugarpercussion.com/",
+        "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234",
+        "https://sugarpercussion.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://sugarpercussion.com/cdn/shop/t/10/compiled_assets/styles.css?v=176574728121775169791781781274"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sugarpercussion.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sugarpercussion.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sugarpercussion.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.hairline-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sugarpercussion.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sugarpercussion.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sugarpercussion.com/",
+        "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234"
+      ]
+    },
+    "colors.surface-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sugarpercussion.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sugarpercussion.com/",
+        "https://sugarpercussion.com/cdn/shop/t/10/assets/base.css?v=109680228534094535031781781234",
+        "https://sugarpercussion.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://sugarpercussion.com/cdn/shop/t/10/compiled_assets/styles.css?v=176574728121775169791781781274"
+      ]
+    },
+    "colors.accent-amber": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sugarpercussion.com/"
+      ]
+    },
+    "colors.accent-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sugarpercussion.com/"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sugarpercussion.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-callout": {
+      "status": "inferred"
+    }
+  }
+}

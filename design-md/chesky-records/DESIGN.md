@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Chesky Records
-description: A deep-blue #006fcf primary anchors a site that treats high-resolution audio as a visual as well as sonic experience — the same cobalt that drives every “Add to Cart” button and genre-exploration link also appears in album-art accents and the site’s theme-color meta tag (#557b97), creating a consistent voltage from browser chrome to checkout. The palette is deliberately restrained: near-black #231f20 for headlines, #444444 for body text, and a warm mid-gray #6c7176 for secondary copy, all set against a pristine #ffffff canvas. Product cards use a soft #dedede hairline and #f7f7f7 surface-soft backgrounds, letting album covers — often high-contrast jazz and classical photography — do the emotional work. Buttons are pill-shaped ({rounded.full}) with generous 16px horizontal padding, echoing the rounded corners of CD jewel cases and vinyl sleeves. The nav bar sits at 72px with a subtle bottom border, and the search field is a full-width pill with a magnifying-glass icon in the primary blue, suggesting discovery as the site’s core interaction. There are no hard corners anywhere except the product-grid gutter; every interactive element — buttons, badges, search, category pills — uses {rounded.full} or {rounded.lg}, reinforcing the warmth of a listening room rather than the sterility of a spec sheet.
+name: "Chesky Records"
+source_url: "https://www.chesky.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep-blue #006fcf primary anchors a site that treats high-resolution audio as a visual as well as sonic experience — the same cobalt that drives every “Add to Cart” button and genre-exploration link also appears in album-art accents and the site’s theme-color meta tag (#557b97), creating a consistent voltage from browser chrome to checkout. The palette is deliberately restrained: near-black #231f20 for headlines, #444444 for body text, and a warm mid-gray #6c7176 for secondary copy, all set against a pristine #ffffff canvas. Product cards use a soft #dedede hairline and #f7f7f7 surface-soft backgrounds, letting album covers — often high-contrast jazz and classical photography — do the emotional work. Buttons are pill-shaped ({rounded.full}) with generous 16px horizontal padding, echoing the rounded corners of CD jewel cases and vinyl sleeves. The nav bar sits at 72px with a subtle bottom border, and the search field is a full-width pill with a magnifying-glass icon in the primary blue, suggesting discovery as the site’s core interaction. There are no hard corners anywhere except the product-grid gutter; every interactive element — buttons, badges, search, category pills — uses {rounded.full} or {rounded.lg}, reinforcing the warmth of a listening room rather than the sterility of a spec sheet.
 
 colors:
   primary: "#006fcf"
@@ -322,6 +326,8 @@ components:
 - Category pill strips become horizontally scrollable on mobile rather than wrapping.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No font-family declarations were extracted from the live site; the typography block uses Inter as a reasonable sans-serif default for a modern audio brand, but the actual brand typeface (possibly a custom or licensed face) is unknown.
 - Hover and focus states for most components (beyond button-primary and product-card) are inferred from common patterns, not extracted.

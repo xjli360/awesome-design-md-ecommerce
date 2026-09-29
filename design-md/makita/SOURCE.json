@@ -1,0 +1,914 @@
+{
+  "source_url": "https://makitatools.com",
+  "final_url": "https://makitatools.com/",
+  "captured_at": "2026-09-28T04:19:54.764562+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://makitatools.com",
+      "final_url": "https://makitatools.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "8dcf31f4d4a6cfe5345ab85ea6058b8aa3d5241cccb23287c668732baefe7259",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+      "final_url": "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "c7cf67b47068e0d2a6c72a43ea3bffa422797545dd5e2bd8e34eeba6d60578d9",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://makitatools.com/Content/awesome?v=k2cR47Wm1vQ3b3N8mGeqLDlfPLzD1EaoVnOldsrIMMs1",
+      "final_url": "https://makitatools.com/Content/awesome?v=k2cR47Wm1vQ3b3N8mGeqLDlfPLzD1EaoVnOldsrIMMs1",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "900e86c82b3313982b0df04ff15458349ec884a225d10f1a35995ee521781fa7",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://makitatools.com/Content/slick?v=KA-2pU1rV5fIMGXlHGtg1SgsXvu3whAUYNdmlX1GL9k1",
+      "final_url": "https://makitatools.com/Content/slick?v=KA-2pU1rV5fIMGXlHGtg1SgsXvu3whAUYNdmlX1GL9k1",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "813a377c3768cddee52c071ee9b1fd4d044b76dc91cff2a18057d1f71ae0ec59",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://makitatools.com/Content/sassaparrilla?v=uqAQAdNSRpnckDVoiRCsJpLOhbcTWWbH1gRLHVQLVnw1",
+      "final_url": "https://makitatools.com/Content/sassaparrilla?v=uqAQAdNSRpnckDVoiRCsJpLOhbcTWWbH1gRLHVQLVnw1",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "25e32c0f5cf625078f4e67f8a161220b5ab06d5fa0dde4283fb9684e2711c08f",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01",
+      "final_url": "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "b0253b22181715a078b80af18b09f432b90c69be30a8053108aab13767349216",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 570,
+      "sources": [
+        "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+        "https://makitatools.com/Content/awesome?v=k2cR47Wm1vQ3b3N8mGeqLDlfPLzD1EaoVnOldsrIMMs1",
+        "https://makitatools.com/Content/slick?v=KA-2pU1rV5fIMGXlHGtg1SgsXvu3whAUYNdmlX1GL9k1",
+        "https://makitatools.com/Content/sassaparrilla?v=uqAQAdNSRpnckDVoiRCsJpLOhbcTWWbH1gRLHVQLVnw1",
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#008290": {
+      "count": 290,
+      "sources": [
+        "https://makitatools.com/Content/slick?v=KA-2pU1rV5fIMGXlHGtg1SgsXvu3whAUYNdmlX1GL9k1",
+        "https://makitatools.com/Content/sassaparrilla?v=uqAQAdNSRpnckDVoiRCsJpLOhbcTWWbH1gRLHVQLVnw1",
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#000000": {
+      "count": 279,
+      "sources": [
+        "https://makitatools.com/Content/slick?v=KA-2pU1rV5fIMGXlHGtg1SgsXvu3whAUYNdmlX1GL9k1",
+        "https://makitatools.com/Content/sassaparrilla?v=uqAQAdNSRpnckDVoiRCsJpLOhbcTWWbH1gRLHVQLVnw1",
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#404040": {
+      "count": 49,
+      "sources": [
+        "https://makitatools.com/Content/sassaparrilla?v=uqAQAdNSRpnckDVoiRCsJpLOhbcTWWbH1gRLHVQLVnw1",
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#2a2d2f": {
+      "count": 36,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#d6d6d6": {
+      "count": 27,
+      "sources": [
+        "https://makitatools.com/Content/slick?v=KA-2pU1rV5fIMGXlHGtg1SgsXvu3whAUYNdmlX1GL9k1",
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#67b2b1": {
+      "count": 27,
+      "sources": [
+        "https://makitatools.com/Content/sassaparrilla?v=uqAQAdNSRpnckDVoiRCsJpLOhbcTWWbH1gRLHVQLVnw1",
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#333333": {
+      "count": 26,
+      "sources": [
+        "https://makitatools.com/Content/slick?v=KA-2pU1rV5fIMGXlHGtg1SgsXvu3whAUYNdmlX1GL9k1",
+        "https://makitatools.com/Content/sassaparrilla?v=uqAQAdNSRpnckDVoiRCsJpLOhbcTWWbH1gRLHVQLVnw1",
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 26,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#cccccc": {
+      "count": 22,
+      "sources": [
+        "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#0044cc": {
+      "count": 22,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#999999": {
+      "count": 21,
+      "sources": [
+        "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+        "https://makitatools.com/Content/slick?v=KA-2pU1rV5fIMGXlHGtg1SgsXvu3whAUYNdmlX1GL9k1",
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#939598": {
+      "count": 19,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#646566": {
+      "count": 18,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#636466": {
+      "count": 17,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 16,
+      "sources": [
+        "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 16,
+      "sources": [
+        "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#5b563e": {
+      "count": 15,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#ff0000": {
+      "count": 15,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#0088cc": {
+      "count": 14,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#e6e7e9": {
+      "count": 13,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#707070": {
+      "count": 12,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#808080": {
+      "count": 12,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 11,
+      "sources": [
+        "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#212121": {
+      "count": 10,
+      "sources": [
+        "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1"
+      ]
+    },
+    "#eeeeee": {
+      "count": 10,
+      "sources": [
+        "https://makitatools.com/Content/awesome?v=k2cR47Wm1vQ3b3N8mGeqLDlfPLzD1EaoVnOldsrIMMs1",
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#afafaf": {
+      "count": 9,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#222222": {
+      "count": 8,
+      "sources": [
+        "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1"
+      ]
+    },
+    "#cd0a0a": {
+      "count": 8,
+      "sources": [
+        "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 8,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#e6e7e8": {
+      "count": 7,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#1d1716": {
+      "count": 7,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#646464": {
+      "count": 7,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#d1d2d4": {
+      "count": 6,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#eb1c24": {
+      "count": 6,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#555555": {
+      "count": 4,
+      "sources": [
+        "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1"
+      ]
+    },
+    "#fcefa1": {
+      "count": 4,
+      "sources": [
+        "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1"
+      ]
+    },
+    "#fbf9ee": {
+      "count": 4,
+      "sources": [
+        "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1"
+      ]
+    },
+    "#363636": {
+      "count": 4,
+      "sources": [
+        "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1"
+      ]
+    },
+    "#ee4037": {
+      "count": 4,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#666666": {
+      "count": 4,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#008a97": {
+      "count": 4,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#ffff00": {
+      "count": 3,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#ffa500": {
+      "count": 3,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#00ffffff": {
+      "count": 3,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#dfdddd": {
+      "count": 3,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 3,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#b94a48": {
+      "count": 3,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#d59392": {
+      "count": 3,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 3,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#dadada": {
+      "count": 2,
+      "sources": [
+        "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1"
+      ]
+    },
+    "#5e9ed6": {
+      "count": 2,
+      "sources": [
+        "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1"
+      ]
+    },
+    "#fef1ec": {
+      "count": 2,
+      "sources": [
+        "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1"
+      ]
+    },
+    "#b5b5b5": {
+      "count": 2,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#6e6f72": {
+      "count": 2,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#a9a9a9": {
+      "count": 2,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#f27a21": {
+      "count": 2,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#847d5a": {
+      "count": 2,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "#202020": {
+      "count": 2,
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+      "https://makitatools.com/Content/slick?v=KA-2pU1rV5fIMGXlHGtg1SgsXvu3whAUYNdmlX1GL9k1",
+      "https://makitatools.com/Content/sassaparrilla?v=uqAQAdNSRpnckDVoiRCsJpLOhbcTWWbH1gRLHVQLVnw1",
+      "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+    ],
+    "Font Awesome 5 Brands": [
+      "https://makitatools.com/Content/awesome?v=k2cR47Wm1vQ3b3N8mGeqLDlfPLzD1EaoVnOldsrIMMs1",
+      "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+    ],
+    "Font Awesome 5 Free": [
+      "https://makitatools.com/Content/awesome?v=k2cR47Wm1vQ3b3N8mGeqLDlfPLzD1EaoVnOldsrIMMs1",
+      "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+    ],
+    "Font Awesome 6 Brands": [
+      "https://makitatools.com/Content/awesome?v=k2cR47Wm1vQ3b3N8mGeqLDlfPLzD1EaoVnOldsrIMMs1"
+    ],
+    "Font Awesome 6 Free": [
+      "https://makitatools.com/Content/awesome?v=k2cR47Wm1vQ3b3N8mGeqLDlfPLzD1EaoVnOldsrIMMs1"
+    ],
+    "FontAwesome": [
+      "https://makitatools.com/Content/awesome?v=k2cR47Wm1vQ3b3N8mGeqLDlfPLzD1EaoVnOldsrIMMs1"
+    ],
+    "Georgia": [
+      "https://makitatools.com/Content/sassaparrilla?v=uqAQAdNSRpnckDVoiRCsJpLOhbcTWWbH1gRLHVQLVnw1"
+    ],
+    "Helvetica": [
+      "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+    ],
+    "MakitaAwesome": [
+      "https://makitatools.com/Content/awesome?v=k2cR47Wm1vQ3b3N8mGeqLDlfPLzD1EaoVnOldsrIMMs1"
+    ],
+    "MakitaSansCondensed_Black": [
+      "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+    ],
+    "MakitaSansCondensed_ExtraBold": [
+      "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+    ],
+    "MakitaSansCondensed_Light": [
+      "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+    ],
+    "MakitaSansCondensed_Medium": [
+      "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+    ],
+    "MakitaSansCondensed_Regular": [
+      "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+    ],
+    "MakitaSansCondensed_SemiBold": [
+      "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+    ],
+    "MakitaSans_ExtraBold": [
+      "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+    ],
+    "MakitaSans_Light": [
+      "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+    ],
+    "MakitaSans_Medium": [
+      "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+    ],
+    "MakitaSans_Regular": [
+      "https://makitatools.com/Content/slick?v=KA-2pU1rV5fIMGXlHGtg1SgsXvu3whAUYNdmlX1GL9k1",
+      "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+    ],
+    "MakitaSans_SemiBold": [
+      "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+    ],
+    "Open Sans Condensed": [
+      "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+    ],
+    "Verdana": [
+      "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1"
+    ],
+    "sans-serif": [
+      "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+      "https://makitatools.com/Content/slick?v=KA-2pU1rV5fIMGXlHGtg1SgsXvu3whAUYNdmlX1GL9k1",
+      "https://makitatools.com/Content/sassaparrilla?v=uqAQAdNSRpnckDVoiRCsJpLOhbcTWWbH1gRLHVQLVnw1",
+      "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+    ],
+    "serif": [
+      "https://makitatools.com/Content/sassaparrilla?v=uqAQAdNSRpnckDVoiRCsJpLOhbcTWWbH1gRLHVQLVnw1"
+    ],
+    "slick": [
+      "https://makitatools.com/Content/slick?v=KA-2pU1rV5fIMGXlHGtg1SgsXvu3whAUYNdmlX1GL9k1"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+      "selector": ".ui-widget input,.ui-widget select,.ui-widget textarea,.ui-widget button",
+      "declarations": "font-family:Verdana,Arial,sans-serif;font-size:1em"
+    },
+    {
+      "source": "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+      "selector": ".ui-widget-header",
+      "declarations": "border:1px solid #aaa;background:#ccc url(\"images/ui-bg_highlight-soft_75_cccccc_1x100.png\") 50% 50% repeat-x;color:#222;font-weight:bold"
+    },
+    {
+      "source": "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+      "selector": ".ui-widget-header a",
+      "declarations": "color:#222"
+    },
+    {
+      "source": "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+      "selector": ".ui-state-default,.ui-widget-content .ui-state-default,.ui-widget-header .ui-state-default,.ui-button,html .ui-button.ui-state-disabled:hover,html .ui-button.ui",
+      "declarations": "border:1px solid #d3d3d3;background:#e6e6e6 url(\"images/ui-bg_glass_75_e6e6e6_1x400.png\") 50% 50% repeat-x;font-weight:normal;color:#555"
+    },
+    {
+      "source": "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+      "selector": ".ui-state-default a,.ui-state-default a:link,.ui-state-default a:visited,a.ui-button,a:link.ui-button,a:visited.ui-button,.ui-button",
+      "declarations": "color:#555;text-decoration:none"
+    },
+    {
+      "source": "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+      "selector": "-state-hover,.ui-widget-content .ui-state-hover,.ui-widget-header .ui-state-hover,.ui-state-focus,.ui-widget-content .ui-state-focus,.ui-widget-header .ui-state",
+      "declarations": "border:1px solid #999;background:#dadada url(\"images/ui-bg_glass_75_dadada_1x400.png\") 50% 50% repeat-x;font-weight:normal;color:#212121"
+    },
+    {
+      "source": "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+      "selector": ",.ui-state-hover a:hover,.ui-state-hover a:link,.ui-state-hover a:visited,.ui-state-focus a,.ui-state-focus a:hover,.ui-state-focus a:link,.ui-state-focus a:vis",
+      "declarations": "color:#212121;text-decoration:none"
+    },
+    {
+      "source": "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+      "selector": ".ui-state-active,.ui-widget-content .ui-state-active,.ui-widget-header .ui-state-active,a.ui-button:active,.ui-button:active,.ui-button.ui-state-active:hover",
+      "declarations": "border:1px solid #aaa;background:#fff url(\"images/ui-bg_glass_65_ffffff_1x400.png\") 50% 50% repeat-x;font-weight:normal;color:#212121"
+    },
+    {
+      "source": "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+      "selector": ".ui-state-highlight,.ui-widget-content .ui-state-highlight,.ui-widget-header .ui-state-highlight",
+      "declarations": "border:1px solid #fcefa1;background:#fbf9ee url(\"images/ui-bg_glass_55_fbf9ee_1x400.png\") 50% 50% repeat-x;color:#363636"
+    },
+    {
+      "source": "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+      "selector": ".ui-state-highlight a,.ui-widget-content .ui-state-highlight a,.ui-widget-header .ui-state-highlight a",
+      "declarations": "color:#363636"
+    },
+    {
+      "source": "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+      "selector": ".ui-state-error,.ui-widget-content .ui-state-error,.ui-widget-header .ui-state-error",
+      "declarations": "border:1px solid #cd0a0a;background:#fef1ec url(\"images/ui-bg_glass_95_fef1ec_1x400.png\") 50% 50% repeat-x;color:#cd0a0a"
+    },
+    {
+      "source": "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+      "selector": ".ui-state-error a,.ui-widget-content .ui-state-error a,.ui-widget-header .ui-state-error a",
+      "declarations": "color:#cd0a0a"
+    },
+    {
+      "source": "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+      "selector": ".ui-state-error-text,.ui-widget-content .ui-state-error-text,.ui-widget-header .ui-state-error-text",
+      "declarations": "color:#cd0a0a"
+    },
+    {
+      "source": "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+      "selector": ".ui-widget input,.ui-widget select,.ui-widget textarea,.ui-widget button",
+      "declarations": "font-family:Verdana,Arial,sans-serif;font-size:1em"
+    },
+    {
+      "source": "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+      "selector": ".ui-widget-header",
+      "declarations": "border:1px solid #aaa;background:#ccc url(\"images/ui-bg_highlight-soft_75_cccccc_1x100.png\") 50% 50% repeat-x;color:#222;font-weight:bold"
+    },
+    {
+      "source": "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+      "selector": ".ui-widget-header a",
+      "declarations": "color:#222"
+    },
+    {
+      "source": "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+      "selector": ".ui-state-default,.ui-widget-content .ui-state-default,.ui-widget-header .ui-state-default,.ui-button,html .ui-button.ui-state-disabled:hover,html .ui-button.ui",
+      "declarations": "border:1px solid #d3d3d3;background:#e6e6e6 url(\"images/ui-bg_glass_75_e6e6e6_1x400.png\") 50% 50% repeat-x;font-weight:normal;color:#555"
+    },
+    {
+      "source": "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+      "selector": ".ui-state-default a,.ui-state-default a:link,.ui-state-default a:visited,a.ui-button,a:link.ui-button,a:visited.ui-button,.ui-button",
+      "declarations": "color:#555;text-decoration:none"
+    },
+    {
+      "source": "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+      "selector": "-state-hover,.ui-widget-content .ui-state-hover,.ui-widget-header .ui-state-hover,.ui-state-focus,.ui-widget-content .ui-state-focus,.ui-widget-header .ui-state",
+      "declarations": "border:1px solid #999;background:#dadada url(\"images/ui-bg_glass_75_dadada_1x400.png\") 50% 50% repeat-x;font-weight:normal;color:#212121"
+    },
+    {
+      "source": "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+      "selector": ",.ui-state-hover a:hover,.ui-state-hover a:link,.ui-state-hover a:visited,.ui-state-focus a,.ui-state-focus a:hover,.ui-state-focus a:link,.ui-state-focus a:vis",
+      "declarations": "color:#212121;text-decoration:none"
+    },
+    {
+      "source": "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+      "selector": ".ui-state-active,.ui-widget-content .ui-state-active,.ui-widget-header .ui-state-active,a.ui-button:active,.ui-button:active,.ui-button.ui-state-active:hover",
+      "declarations": "border:1px solid #aaa;background:#fff url(\"images/ui-bg_glass_65_ffffff_1x400.png\") 50% 50% repeat-x;font-weight:normal;color:#212121"
+    },
+    {
+      "source": "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+      "selector": ".ui-state-highlight,.ui-widget-content .ui-state-highlight,.ui-widget-header .ui-state-highlight",
+      "declarations": "border:1px solid #fcefa1;background:#fbf9ee url(\"images/ui-bg_glass_55_fbf9ee_1x400.png\") 50% 50% repeat-x;color:#363636"
+    },
+    {
+      "source": "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+      "selector": ".ui-state-highlight a,.ui-widget-content .ui-state-highlight a,.ui-widget-header .ui-state-highlight a",
+      "declarations": "color:#363636"
+    },
+    {
+      "source": "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+      "selector": ".ui-state-error,.ui-widget-content .ui-state-error,.ui-widget-header .ui-state-error",
+      "declarations": "border:1px solid #cd0a0a;background:#fef1ec url(\"images/ui-bg_glass_95_fef1ec_1x400.png\") 50% 50% repeat-x;color:#cd0a0a"
+    },
+    {
+      "source": "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+      "selector": ".ui-state-error a,.ui-widget-content .ui-state-error a,.ui-widget-header .ui-state-error a",
+      "declarations": "color:#cd0a0a"
+    },
+    {
+      "source": "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+      "selector": ".ui-state-error-text,.ui-widget-content .ui-state-error-text,.ui-widget-header .ui-state-error-text",
+      "declarations": "color:#cd0a0a"
+    },
+    {
+      "source": "https://makitatools.com/Content/awesome?v=k2cR47Wm1vQ3b3N8mGeqLDlfPLzD1EaoVnOldsrIMMs1",
+      "selector": ":root, :host",
+      "declarations": "--fa-style-family-brands: 'Font Awesome 6 Brands';\n    --fa-font-brands: normal 400 1em/1 'Font Awesome 6 Brands';"
+    },
+    {
+      "source": "https://makitatools.com/Content/awesome?v=k2cR47Wm1vQ3b3N8mGeqLDlfPLzD1EaoVnOldsrIMMs1",
+      "selector": ":root, :host",
+      "declarations": "--fa-style-family-classic: 'Font Awesome 6 Free';\n    --fa-font-regular: normal 400 1em/1 'Font Awesome 6 Free';"
+    },
+    {
+      "source": "https://makitatools.com/Content/awesome?v=k2cR47Wm1vQ3b3N8mGeqLDlfPLzD1EaoVnOldsrIMMs1",
+      "selector": ":root, :host",
+      "declarations": "--fa-style-family-classic: 'Font Awesome 6 Free';\n    --fa-font-solid: normal 900 1em/1 'Font Awesome 6 Free';"
+    },
+    {
+      "source": "https://makitatools.com/Content/slick?v=KA-2pU1rV5fIMGXlHGtg1SgsXvu3whAUYNdmlX1GL9k1",
+      "selector": ".slick-dots li button",
+      "declarations": "border:0;background:transparent;display:block;height:20px;width:20px;outline:none;line-height:0;font-size:0;color:transparent;padding:5px;cursor:pointer"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Makita U.S.A | Cordless and Corded Power Tools, Power Equipment, Pneumatics, Accessories",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://makitatools.com/Content/slick?v=KA-2pU1rV5fIMGXlHGtg1SgsXvu3whAUYNdmlX1GL9k1",
+        "https://makitatools.com/Content/sassaparrilla?v=uqAQAdNSRpnckDVoiRCsJpLOhbcTWWbH1gRLHVQLVnw1",
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "colors.secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://makitatools.com/Content/sassaparrilla?v=uqAQAdNSRpnckDVoiRCsJpLOhbcTWWbH1gRLHVQLVnw1",
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+        "https://makitatools.com/Content/awesome?v=k2cR47Wm1vQ3b3N8mGeqLDlfPLzD1EaoVnOldsrIMMs1",
+        "https://makitatools.com/Content/slick?v=KA-2pU1rV5fIMGXlHGtg1SgsXvu3whAUYNdmlX1GL9k1",
+        "https://makitatools.com/Content/sassaparrilla?v=uqAQAdNSRpnckDVoiRCsJpLOhbcTWWbH1gRLHVQLVnw1",
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://makitatools.com/Content/slick?v=KA-2pU1rV5fIMGXlHGtg1SgsXvu3whAUYNdmlX1GL9k1",
+        "https://makitatools.com/Content/sassaparrilla?v=uqAQAdNSRpnckDVoiRCsJpLOhbcTWWbH1gRLHVQLVnw1",
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://makitatools.com/Content/slick?v=KA-2pU1rV5fIMGXlHGtg1SgsXvu3whAUYNdmlX1GL9k1",
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+        "https://makitatools.com/Content/awesome?v=k2cR47Wm1vQ3b3N8mGeqLDlfPLzD1EaoVnOldsrIMMs1",
+        "https://makitatools.com/Content/slick?v=KA-2pU1rV5fIMGXlHGtg1SgsXvu3whAUYNdmlX1GL9k1",
+        "https://makitatools.com/Content/sassaparrilla?v=uqAQAdNSRpnckDVoiRCsJpLOhbcTWWbH1gRLHVQLVnw1",
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "colors.accent-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "colors.link": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "colors.focus-ring": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://makitatools.com/Content/jquery-ui?v=N4pZxXdpY6xhT7aUfmpqwmFHcbsh_EDj4dv2oF_RQPg1",
+        "https://makitatools.com/Content/slick?v=KA-2pU1rV5fIMGXlHGtg1SgsXvu3whAUYNdmlX1GL9k1",
+        "https://makitatools.com/Content/site?v=ngUXBujVyRUCYjjmHP_LAWHFA68yMmHmuFSWYBdB8X01"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-table": {
+      "status": "inferred"
+    }
+  }
+}

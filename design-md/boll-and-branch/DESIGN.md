@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Boll & Branch
-description: Boll & Branch is a luxury bedding brand that wraps you in quiet, organic comfort. The palette is anchored by a warm off-white canvas (`#fffefb`) and a deep, almost-charcoal ink (`#1d1d1c`), with soft greige and stone tones (`#787573`, `#616161`, `#d9d9d6`) that create a serene, tactile atmosphere. A restrained accent of dusty rose (`#bd2828`) appears sparingly, like a single thread of color in an otherwise neutral weave. The brand’s typography pairs the refined, serif elegance of Louize with the clean, modern utility of Fakt, a mix that feels both heirloom and contemporary. Signature design moves include generous white space, soft rectangular cards with `{rounded.sm}` corners, and a persistent sense of air and light — nothing feels crowded or loud. The overall effect is one of considered simplicity: a digital space that feels as calm and high-quality as the organic cotton sheets it sells.
+name: "Boll & Branch"
+source_url: "https://www.bollandbranch.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Boll & Branch is a luxury bedding brand that wraps you in quiet, organic comfort. The palette is anchored by a warm off-white canvas (`#fffefb`) and a deep, almost-charcoal ink (`#1d1d1c`), with soft greige and stone tones (`#787573`, `#616161`, `#d9d9d6`) that create a serene, tactile atmosphere. A restrained accent of dusty rose (`#bd2828`) appears sparingly, like a single thread of color in an otherwise neutral weave. The brand’s typography pairs the refined, serif elegance of Louize with the clean, modern utility of Fakt, a mix that feels both heirloom and contemporary. Signature design moves include generous white space, soft rectangular cards with `{rounded.sm}` corners, and a persistent sense of air and light — nothing feels crowded or loud. The overall effect is one of considered simplicity: a digital space that feels as calm and high-quality as the organic cotton sheets it sells.
 
 colors:
   primary: "#1d1d1c"
@@ -348,6 +352,8 @@ components:
 - Product image galleries collapse from a thumbnail strip to a swipeable carousel.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for buttons and links were inferred from the brand's aesthetic; exact color values for hover (e.g., `button-secondary` hover background) were not extracted from the live site.
 - Error styling for form inputs (error message typography, iconography) was not reliably extracted.

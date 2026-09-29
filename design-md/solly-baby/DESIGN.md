@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Solly Baby
-description: A soft, grounded brand for new parents, built on a warm neutral canvas of #e9e5df and #f8f6f3, with a signature teal #108474 as the primary voltage — a color that reads as calm, organic, and trustworthy rather than clinical or urgent. The palette is deliberately muted: #23221e ink for body text, #4d403c and #40362e for secondary tones, and a range of warm grays (#eeeeee, #f2f2f2, #f9fafb) that keep the interface feeling gentle and uncluttered. Type runs DM Sans and Nunito Sans at moderate weights — display sizes hover around 20-24px in weight 500-600, never shouting, letting the product photography and soft {rounded.lg} card corners do the emotional work. Buttons use {rounded.full} pill shapes in the teal primary, with a secondary palette that includes a muted lavender #a89cc8 and a pale sage #c1e6e6 for badges and accent elements. The brand avoids hard edges: every component from the hero section to the product card uses {rounded.md} or larger, and the generous whitespace (section padding at 64px) gives the interface room to breathe. A single marigold accent #fbcd0a appears sparingly — likely for sale badges or promotional flags — adding a small jolt of warmth without breaking the calm. The overall effect is a digital space that feels like a well-loved nursery: soft, safe, and designed for the exhausted, tender state of early parenthood.
+name: "Solly Baby"
+source_url: "https://sollybaby.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A soft, grounded brand for new parents, built on a warm neutral canvas of #e9e5df and #f8f6f3, with a signature teal #108474 as the primary voltage — a color that reads as calm, organic, and trustworthy rather than clinical or urgent. The palette is deliberately muted: #23221e ink for body text, #4d403c and #40362e for secondary tones, and a range of warm grays (#eeeeee, #f2f2f2, #f9fafb) that keep the interface feeling gentle and uncluttered. Type runs DM Sans and Nunito Sans at moderate weights — display sizes hover around 20-24px in weight 500-600, never shouting, letting the product photography and soft {rounded.lg} card corners do the emotional work. Buttons use {rounded.full} pill shapes in the teal primary, with a secondary palette that includes a muted lavender #a89cc8 and a pale sage #c1e6e6 for badges and accent elements. The brand avoids hard edges: every component from the hero section to the product card uses {rounded.md} or larger, and the generous whitespace (section padding at 64px) gives the interface room to breathe. A single marigold accent #fbcd0a appears sparingly — likely for sale badges or promotional flags — adding a small jolt of warmth without breaking the calm. The overall effect is a digital space that feels like a well-loved nursery: soft, safe, and designed for the exhausted, tender state of early parenthood.
 
 colors:
   primary: "#108474"
@@ -405,6 +409,8 @@ components:
 - Search bar becomes sticky at the top on mobile for persistent access
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states**: Exact hover colors for secondary buttons, text inputs, and links could not be extracted from static CSS. The primary hover (#0d6b5d) is inferred from common darkening patterns. Secondary button hover (border to ink) is an educated guess based on common e-commerce patterns.
 - **Error states**: The error color (#c13515) is inferred from common Shopify error patterns. Exact error text, border, and background colors for form validation are not confirmed from the extracted data.

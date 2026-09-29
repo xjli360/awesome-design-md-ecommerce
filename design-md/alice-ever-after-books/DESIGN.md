@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Alice, Ever After Books
-description: A children's bookstore in Buffalo, NY that wraps itself in a slate-and-ink palette — #73859f, a quiet blue-gray that reads as neither childish nor corporate, anchors the brand alongside #2b333f for deep text and #eff4f8 for the page canvas. The extracted colors suggest a system built on muted confidence: #919191 and #707070 for secondary text, #f1f1f1 and #f8f8f8 for soft surfaces, with #bce7f4 as a possible accent for interactive elements. The brand runs on Inter and Arial, a pragmatic sans-serif stack that prioritizes legibility for young readers and their parents. Buttons use {rounded.sm} corners — friendly but not cartoonish — while the overall layout leans on generous {spacing.lg} and {spacing.xl} gaps that give children's book covers room to breathe. The store's physical address at 295 Parkside Ave grounds the digital experience in a real place, and the meta theme-color of #eff4f8 ensures the browser chrome itself feels like a page from a well-loved picture book. There is no heavy-handed whimsy here; the design trusts the books themselves to provide color and wonder, while the interface stays calm, organized, and quietly supportive.
+name: "Alice, Ever After Books"
+source_url: "https://www.aliceeverafterbooks.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A children's bookstore in Buffalo, NY that wraps itself in a slate-and-ink palette — #73859f, a quiet blue-gray that reads as neither childish nor corporate, anchors the brand alongside #2b333f for deep text and #eff4f8 for the page canvas. The extracted colors suggest a system built on muted confidence: #919191 and #707070 for secondary text, #f1f1f1 and #f8f8f8 for soft surfaces, with #bce7f4 as a possible accent for interactive elements. The brand runs on Inter and Arial, a pragmatic sans-serif stack that prioritizes legibility for young readers and their parents. Buttons use {rounded.sm} corners — friendly but not cartoonish — while the overall layout leans on generous {spacing.lg} and {spacing.xl} gaps that give children's book covers room to breathe. The store's physical address at 295 Parkside Ave grounds the digital experience in a real place, and the meta theme-color of #eff4f8 ensures the browser chrome itself feels like a page from a well-loved picture book. There is no heavy-handed whimsy here; the design trusts the books themselves to provide color and wonder, while the interface stays calm, organized, and quietly supportive.
 
 colors:
   primary: "#73859f"
@@ -305,6 +309,8 @@ components:
 - Breadcrumb trail truncates to show only the current page and parent category on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components could not be fully extracted; the above uses reasonable inferences from the color palette
 - Error styling for form validation (border colors, error message placement) is inferred from the extracted error red (#e1251b) but exact implementation details are unknown

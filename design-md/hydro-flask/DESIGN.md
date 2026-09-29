@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Hydro Flask
-description: A single saturated hex value — #313131 — defines the entire Hydro Flask digital presence, a deep charcoal that reads as the color of basalt, of frozen lakes, of the brand's own powder-coated bottle exteriors. This is not a brand that reaches for bright adventure hues; it trusts the material itself to carry the story. The site's typography defaults to system fonts (Arial, Helvetica Neue, Roboto, sans-serif), a pragmatic choice that prioritizes legibility over personality — the product photography, with its sweeping mountain vistas and condensation-beaded stainless steel, does all the emotional work. Buttons and interactive elements use generous {rounded.full} pill shapes, echoing the iconic wide-mouth bottle opening, while product cards land at {rounded.md} — soft enough to feel approachable, not so soft they undermine the industrial precision of the brand. The canvas is white, the ink is that #313131 charcoal, and there is almost no secondary color in the system; the brand's color story is told entirely through product finishes (sage, lilac, coral) rendered in photography, not in UI chrome. Navigation is lean — a single top bar with dropdowns, a persistent cart icon, and a search trigger that opens a full-screen overlay. The overall mood is one of quiet confidence: the brand knows its product is the hero, and the interface simply steps aside.
+name: "Hydro Flask"
+source_url: "https://www.hydroflask.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A single saturated hex value — #313131 — defines the entire Hydro Flask digital presence, a deep charcoal that reads as the color of basalt, of frozen lakes, of the brand's own powder-coated bottle exteriors. This is not a brand that reaches for bright adventure hues; it trusts the material itself to carry the story. The site's typography defaults to system fonts (Arial, Helvetica Neue, Roboto, sans-serif), a pragmatic choice that prioritizes legibility over personality — the product photography, with its sweeping mountain vistas and condensation-beaded stainless steel, does all the emotional work. Buttons and interactive elements use generous {rounded.full} pill shapes, echoing the iconic wide-mouth bottle opening, while product cards land at {rounded.md} — soft enough to feel approachable, not so soft they undermine the industrial precision of the brand. The canvas is white, the ink is that #313131 charcoal, and there is almost no secondary color in the system; the brand's color story is told entirely through product finishes (sage, lilac, coral) rendered in photography, not in UI chrome. Navigation is lean — a single top bar with dropdowns, a persistent cart icon, and a search trigger that opens a full-screen overlay. The overall mood is one of quiet confidence: the brand knows its product is the hero, and the interface simply steps aside.
 
 colors:
   primary: "#313131"
@@ -329,6 +333,8 @@ components:
 - Hero banner reduces height by 33% on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted color palette is extremely limited: only #313131 was reliably identified from the live site's CSS. All other colors (primary-active, disabled, muted, error, success, etc.) are inferred from common DTC patterns and may not match the actual brand system.
 - No font-family declarations beyond system fonts were found. Hydro Flask may use a custom typeface (e.g., a licensed sans-serif) that was not extractable from the page source.

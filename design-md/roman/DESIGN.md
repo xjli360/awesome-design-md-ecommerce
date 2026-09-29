@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Roman
-description: A direct-to-consumer men's health brand that uses a crisp, clinical white canvas and a single accent of deep teal (#1990c6) to signal medical credibility without feeling sterile. The site runs Source Sans Pro at modest weights — body text sits at 400 weight with generous line-height, while buttons and headings use 600 weight for clear hierarchy. The brand avoids the heavy, masculine typography common in men's health; instead, it opts for a clean, approachable look with soft corners (`{rounded.md}` on cards, `{rounded.sm}` on buttons) that feel more like a modern clinic than a locker room. Navigation is minimal — a sticky top bar with the Roman logo, a few key links, and a prominent CTA button in the brand teal. Product cards use a two-column grid with clear pricing, a brief description, and a single action, avoiding information overload. The overall impression is one of straightforward, no-nonsense healthcare delivery — the design gets out of the way so the medical information and treatment options can lead.
+name: "Roman"
+source_url: "https://ro.co"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A direct-to-consumer men's health brand that uses a crisp, clinical white canvas and a single accent of deep teal (#1990c6) to signal medical credibility without feeling sterile. The site runs Source Sans Pro at modest weights — body text sits at 400 weight with generous line-height, while buttons and headings use 600 weight for clear hierarchy. The brand avoids the heavy, masculine typography common in men's health; instead, it opts for a clean, approachable look with soft corners (`{rounded.md}` on cards, `{rounded.sm}` on buttons) that feel more like a modern clinic than a locker room. Navigation is minimal — a sticky top bar with the Roman logo, a few key links, and a prominent CTA button in the brand teal. Product cards use a two-column grid with clear pricing, a brief description, and a single action, avoiding information overload. The overall impression is one of straightforward, no-nonsense healthcare delivery — the design gets out of the way so the medical information and treatment options can lead.
 
 colors:
   primary: "#1990c6"
@@ -245,6 +249,8 @@ components:
 - Footer links collapse into a single column on mobile, with accordion-style sections for multiple link groups.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Extracted hex colors were limited due to the site's captcha verification page blocking full CSS extraction. The primary teal (#1990c6) was inferred from the brand's known identity and limited available data, not from a comprehensive site scan.
 - No hover, focus, or active states could be reliably extracted for any component beyond the primary button.

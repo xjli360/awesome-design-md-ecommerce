@@ -1,0 +1,950 @@
+{
+  "source_url": "https://travelonbags.com",
+  "final_url": "https://www.travelonbags.com/",
+  "captured_at": "2026-09-28T09:30:35.467647+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://travelonbags.com",
+      "final_url": "https://www.travelonbags.com/",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "sha256": "6517f41021a5fb16ac14622b88ae84ac7c5a8ed2184ec0e16e44c51483c74336",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "final_url": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "85865a06fce5a326a2aac632e65d63239126ff67103facfdea6a0c6863a112ff",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/layout.css",
+      "final_url": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/layout.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e3db38e0c4855ac51287454ce95b455106961ed86df55e1dcbac49ca01c23e77",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css",
+      "final_url": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "877e6d345ec72a61b3e3ad2350b5f3f5e47e5d21d91c2e8e1f0913f34f553d31",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/homepage.css",
+      "final_url": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/homepage.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "cc6d075615b3319b0f5f1396800980fbca45f1c4e8fde18ec2c55763b1f50933",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/component.css",
+      "final_url": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/component.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7c1b78677b38f8008ecc0d988145f0fce29030442b73814b601c7e2b598f2fd0",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 277,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/homepage.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/component.css"
+      ]
+    },
+    "#000000": {
+      "count": 78,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/homepage.css"
+      ]
+    },
+    "#212529": {
+      "count": 72,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#696969": {
+      "count": 58,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/homepage.css"
+      ]
+    },
+    "#6c757d": {
+      "count": 54,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#dee2e6": {
+      "count": 46,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#767676": {
+      "count": 37,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/homepage.css"
+      ]
+    },
+    "#343a40": {
+      "count": 36,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#f8f9fa": {
+      "count": 36,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#ffc107": {
+      "count": 34,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#17a2b8": {
+      "count": 34,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#e9ecef": {
+      "count": 34,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#007bff": {
+      "count": 34,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#97d700": {
+      "count": 33,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 33,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css"
+      ]
+    },
+    "#cc0000": {
+      "count": 31,
+      "sources": [
+        "https://www.travelonbags.com/",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css"
+      ]
+    },
+    "#495057": {
+      "count": 26,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#dc3545": {
+      "count": 23,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#28a745": {
+      "count": 23,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#c4d600": {
+      "count": 16,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css"
+      ]
+    },
+    "#444444": {
+      "count": 13,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css"
+      ]
+    },
+    "#ced4da": {
+      "count": 10,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#0c5460": {
+      "count": 10,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#856404": {
+      "count": 10,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#818182": {
+      "count": 10,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#1b1e21": {
+      "count": 10,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#004396": {
+      "count": 10,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css"
+      ]
+    },
+    "#117a8b": {
+      "count": 9,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#d39e00": {
+      "count": 9,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#dae0e5": {
+      "count": 9,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#1d2124": {
+      "count": 9,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#999999": {
+      "count": 9,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css"
+      ]
+    },
+    "#0070d2": {
+      "count": 8,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 8,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css"
+      ]
+    },
+    "#837763": {
+      "count": 8,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css"
+      ]
+    },
+    "#c2d45b": {
+      "count": 8,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css"
+      ]
+    },
+    "#254a90": {
+      "count": 8,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css"
+      ]
+    },
+    "#adb5bd": {
+      "count": 7,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#bee5eb": {
+      "count": 6,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#abdde5": {
+      "count": 6,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#ffeeba": {
+      "count": 6,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#ffe8a1": {
+      "count": 6,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#fdfdfe": {
+      "count": 6,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#ececf6": {
+      "count": 6,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#c6c8ca": {
+      "count": 6,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#b9bbbe": {
+      "count": 6,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#222222": {
+      "count": 6,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css"
+      ]
+    },
+    "#ffff00": {
+      "count": 6,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css"
+      ]
+    },
+    "#c2c2c2": {
+      "count": 5,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css"
+      ]
+    },
+    "#373737": {
+      "count": 5,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css"
+      ]
+    },
+    "#666f00": {
+      "count": 5,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css"
+      ]
+    },
+    "#4f7000": {
+      "count": 5,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css"
+      ]
+    },
+    "#6a0000": {
+      "count": 5,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css"
+      ]
+    },
+    "#777777": {
+      "count": 5,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css"
+      ]
+    },
+    "#0062cc": {
+      "count": 5,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#545b62": {
+      "count": 5,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#1e7e34": {
+      "count": 5,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#bd2130": {
+      "count": 5,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#004085": {
+      "count": 5,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "#383d41": {
+      "count": 5,
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+    ],
+    "Arial": [
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+    ],
+    "BlinkMacSystemFont": [
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+    ],
+    "Consolas": [
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+    ],
+    "Courier New": [
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+    ],
+    "Dosis": [
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css"
+    ],
+    "FontAwesome": [
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css"
+    ],
+    "Helvetica Neue": [
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+    ],
+    "Liberation Mono": [
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+    ],
+    "Menlo": [
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+    ],
+    "Monaco": [
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+    ],
+    "Montserrat": [
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/layout.css"
+    ],
+    "Noto Sans": [
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css"
+    ],
+    "Roboto": [
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+    ],
+    "SFMono-Regular": [
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+    ],
+    "Segoe UI": [
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+    ],
+    "Sillii Willinn": [
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/homepage.css"
+    ],
+    "monospace": [
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+    ],
+    "monospace!important": [
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css"
+    ],
+    "sans-serif": [
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/layout.css",
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+    ],
+    "sans-serif!important": [
+      "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "selector": "@import url(https://fonts.googleapis.com/css?family=Dosis&subset=latin-ext);:root",
+      "declarations": "--blue:#0070d2;--indigo:#6610f2;--purple:#6f42c1;--pink:#e83e8c;--red:#c00;--orange:#fd7e14;--yellow:#ffc107;--green:#97d700;--teal:#20c997;--cyan:#17a2b8;--white:#fff;--gray:#6c757d;--gray-dark:#343a40;--primary:#696969;--secondary:#c4d600;--success:#97d700;--info:#17a2b8;--warning:#ffc107;--danger:#c00;--light:#f8f9fa;--dark:#343a40;--breakpoint-xs:0;--breakpoint-sm:544px;--breakpoint-md:835px;--breakpoint-lg:992px;--breakpoint-xl:1200px;--font-family-sans-serif:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";--font-family-monospace:SFMono-Regular,Menlo,Monaco,Consolas"
+    },
+    {
+      "source": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "selector": "body",
+      "declarations": "margin:0;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;font-size:1rem;font-weight:400;line-height:1.5;color:#212529;text-align:left;background-color:#fff"
+    },
+    {
+      "source": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "margin:0;font-family:inherit;font-size:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "selector": ".table-striped tbody tr:nth-of-type(odd)",
+      "declarations": "background-color:rgba(0,0,0,.05)"
+    },
+    {
+      "source": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "selector": ".table-hover tbody tr:hover",
+      "declarations": "color:#212529;background-color:rgba(0,0,0,.075)"
+    },
+    {
+      "source": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "selector": ".table-primary tbody+tbody,.table-primary td,.table-primary th,.table-primary thead th",
+      "declarations": "border-color:#b1b1b1"
+    },
+    {
+      "source": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "selector": ".table-secondary tbody+tbody,.table-secondary td,.table-secondary th,.table-secondary thead th",
+      "declarations": "border-color:#e0ea7a"
+    },
+    {
+      "source": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "selector": ".table-success tbody+tbody,.table-success td,.table-success th,.table-success thead th",
+      "declarations": "border-color:#c9ea7a"
+    },
+    {
+      "source": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "selector": ".table-info tbody+tbody,.table-info td,.table-info th,.table-info thead th",
+      "declarations": "border-color:#86cfda"
+    },
+    {
+      "source": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "selector": ".table-warning tbody+tbody,.table-warning td,.table-warning th,.table-warning thead th",
+      "declarations": "border-color:#ffdf7e"
+    },
+    {
+      "source": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "selector": ".table-danger tbody+tbody,.table-danger td,.table-danger th,.table-danger thead th",
+      "declarations": "border-color:#e47a7a"
+    },
+    {
+      "source": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "selector": ".table-light tbody+tbody,.table-light td,.table-light th,.table-light thead th",
+      "declarations": "border-color:#fbfcfc"
+    },
+    {
+      "source": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "selector": ".table-dark tbody+tbody,.table-dark td,.table-dark th,.table-dark thead th",
+      "declarations": "border-color:#95999c"
+    },
+    {
+      "source": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "selector": ".table-dark.table-striped tbody tr:nth-of-type(odd)",
+      "declarations": "background-color:hsla(0,0%,100%,.05)"
+    },
+    {
+      "source": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "selector": ".table-dark.table-hover tbody tr:hover",
+      "declarations": "color:#fff;background-color:hsla(0,0%,100%,.075)"
+    },
+    {
+      "source": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "selector": ".btn",
+      "declarations": "display:inline-block;font-weight:400;color:#212529;text-align:center;vertical-align:middle;-webkit-user-select:none;-ms-user-select:none;user-select:none;background-color:transparent;border:1px solid transparent;padding:.375rem .75rem;font-size:1rem;line-height:1.5;border-radius:.1875rem;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out"
+    },
+    {
+      "source": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "selector": ".btn:hover",
+      "declarations": "color:#212529;text-decoration:none"
+    },
+    {
+      "source": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "selector": ".btn-primary",
+      "declarations": "color:#fff;background-color:#696969;border-color:#696969"
+    },
+    {
+      "source": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "selector": ".btn-primary:hover",
+      "declarations": "color:#fff;background-color:#565656;border-color:#505050"
+    },
+    {
+      "source": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "selector": ".btn-primary.disabled,.btn-primary:disabled",
+      "declarations": "color:#fff;background-color:#696969;border-color:#696969"
+    },
+    {
+      "source": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "selector": ".btn-primary:not(:disabled):not(.disabled).active,.btn-primary:not(:disabled):not(.disabled):active,.show>.btn-primary.dropdown-toggle",
+      "declarations": "color:#fff;background-color:#505050;border-color:#494949"
+    },
+    {
+      "source": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "selector": ".btn-secondary",
+      "declarations": "color:#212529;background-color:#c4d600;border-color:#c4d600"
+    },
+    {
+      "source": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "selector": ".btn-secondary:hover",
+      "declarations": "color:#212529;background-color:#a1b000;border-color:#95a300"
+    },
+    {
+      "source": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "selector": ".btn-secondary.disabled,.btn-secondary:disabled",
+      "declarations": "color:#212529;background-color:#c4d600;border-color:#c4d600"
+    },
+    {
+      "source": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "selector": ".btn-secondary:not(:disabled):not(.disabled).active,.btn-secondary:not(:disabled):not(.disabled):active,.show>.btn-secondary.dropdown-toggle",
+      "declarations": "color:#fff;background-color:#95a300;border-color:#8a9600"
+    },
+    {
+      "source": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "selector": ".btn-success",
+      "declarations": "color:#212529;background-color:#97d700;border-color:#97d700"
+    },
+    {
+      "source": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "selector": ".btn-success:hover",
+      "declarations": "color:#fff;background-color:#7cb100;border-color:#73a400"
+    },
+    {
+      "source": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "selector": ".btn-success.disabled,.btn-success:disabled",
+      "declarations": "color:#212529;background-color:#97d700;border-color:#97d700"
+    },
+    {
+      "source": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "selector": ".btn-success:not(:disabled):not(.disabled).active,.btn-success:not(:disabled):not(.disabled):active,.show>.btn-success.dropdown-toggle",
+      "declarations": "color:#fff;background-color:#73a400;border-color:#6a9700"
+    },
+    {
+      "source": "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+      "selector": ".btn-info",
+      "declarations": "color:#fff;background-color:#17a2b8;border-color:#17a2b8"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Travelon Home",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/homepage.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/homepage.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/component.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/homepage.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/component.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/homepage.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/component.css"
+      ]
+    },
+    "colors.secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.travelonbags.com/",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css"
+      ]
+    },
+    "colors.danger-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css"
+      ]
+    },
+    "colors.border-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css"
+      ]
+    },
+    "colors.overlay-ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/global.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/pagedesigner-bootstrap.min.css",
+        "https://www.travelonbags.com/on/demandware.static/Sites-travelonbags-Site/-/en_US/v1790353944696/css/homepage.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.rfid-badge": {
+      "status": "inferred"
+    }
+  }
+}

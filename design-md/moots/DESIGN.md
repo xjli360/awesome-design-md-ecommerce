@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Moots
-description: A titanium bike brand that treats its raw material as finish, not substrate — the dominant hex is not a color but a near-black #121212 that reads as deep shadow on brushed metal, broken by the warm burn of #cc6633 that surfaces on weld details, logo marks, and accent callouts. The palette is a study in industrial restraint: #dedede and #f3f3f3 for light surfaces, #242833 and #101820 for dark structural elements, and the surprising #334fb4 — a cool cobalt that appears in select product badges and technical callouts, suggesting precision engineering rather than lifestyle warmth. Typography runs Assistant at moderate weights, with display sizes staying lean (likely 400–600 weight) to let the photography of hand-welded titanium frames carry the emotional weight. The site reads as a workshop catalog: generous whitespace around product imagery, hairline-thin borders in #c7c4b9 that suggest blueprint lines, and a muted olive #786f51 that surfaces in heritage badges and material callouts. There is no glossy hero — the brand trusts close-cropped macro shots of weld beads, raw titanium texture, and Colorado mountain backdrops over typographic heroism. Buttons are flat and angular (`{rounded.sm}`) rather than pill-shaped, and the navigation feels like a toolbelt — utilitarian, spaced for clarity, with the logo anchoring a left-aligned layout. The overall effect is a brand that says "we build things from metal" without ever shouting it.
+name: "Moots"
+source_url: "https://moots.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A titanium bike brand that treats its raw material as finish, not substrate — the dominant hex is not a color but a near-black #121212 that reads as deep shadow on brushed metal, broken by the warm burn of #cc6633 that surfaces on weld details, logo marks, and accent callouts. The palette is a study in industrial restraint: #dedede and #f3f3f3 for light surfaces, #242833 and #101820 for dark structural elements, and the surprising #334fb4 — a cool cobalt that appears in select product badges and technical callouts, suggesting precision engineering rather than lifestyle warmth. Typography runs Assistant at moderate weights, with display sizes staying lean (likely 400–600 weight) to let the photography of hand-welded titanium frames carry the emotional weight. The site reads as a workshop catalog: generous whitespace around product imagery, hairline-thin borders in #c7c4b9 that suggest blueprint lines, and a muted olive #786f51 that surfaces in heritage badges and material callouts. There is no glossy hero — the brand trusts close-cropped macro shots of weld beads, raw titanium texture, and Colorado mountain backdrops over typographic heroism. Buttons are flat and angular (`{rounded.sm}`) rather than pill-shaped, and the navigation feels like a toolbelt — utilitarian, spaced for clarity, with the logo anchoring a left-aligned layout. The overall effect is a brand that says "we build things from metal" without ever shouting it.
 
 colors:
   primary: "#cc6633"
@@ -409,6 +413,8 @@ components:
 - Product card badges reposition from absolute to inline below 480px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and active states for all components could not be fully extracted from static analysis; the above are informed estimates based on common patterns
 - Error state styling for forms (error messages, validation icons) was not visible in the extracted data

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Misen
-description: Misen is a direct-to-consumer cookware brand that speaks in a confident, utilitarian tone — think sharp blue accents against a mostly neutral canvas of warm grays and soft whites. The brand’s signature is a deep, almost navy blue (`#1c4bba`) that appears on primary buttons, navigation elements, and key product highlights, supported by a secondary blue (`#5084c3`) and a more muted slate (`#676986`) for body text and secondary information. The palette is anchored by a clean white background (`#f4f4f6`) and a range of soft grays (`#e5e5e5`, `#eeeeee`, `#d3d4dd`) that create subtle hierarchy without visual noise. Accents of teal (`#0f918b`) and a warm terracotta (`#ea8e74`) appear sparingly, likely for sale badges or limited-edition product treatments, while a muted red (`#ce5454`) signals errors or out-of-stock states. The typography relies on system sans-serif stacks — no custom brand font is declared — which gives the site a no-nonsense, functional feel that aligns with Misen’s “professional-grade, but for home cooks” positioning. Buttons are softly rounded (`{rounded.sm}`) and use the primary blue with white text (`{colors.on-primary}`), while product cards likely use a white surface (`{colors.surface-card}`) with subtle shadows. The overall mood is trustworthy and direct, avoiding the glossy, aspirational warmth of heritage cookware brands in favor of a clean, almost industrial clarity that puts product photography and specs front and center.
+name: "Misen"
+source_url: "https://misen.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Misen is a direct-to-consumer cookware brand that speaks in a confident, utilitarian tone — think sharp blue accents against a mostly neutral canvas of warm grays and soft whites. The brand’s signature is a deep, almost navy blue (`#1c4bba`) that appears on primary buttons, navigation elements, and key product highlights, supported by a secondary blue (`#5084c3`) and a more muted slate (`#676986`) for body text and secondary information. The palette is anchored by a clean white background (`#f4f4f6`) and a range of soft grays (`#e5e5e5`, `#eeeeee`, `#d3d4dd`) that create subtle hierarchy without visual noise. Accents of teal (`#0f918b`) and a warm terracotta (`#ea8e74`) appear sparingly, likely for sale badges or limited-edition product treatments, while a muted red (`#ce5454`) signals errors or out-of-stock states. The typography relies on system sans-serif stacks — no custom brand font is declared — which gives the site a no-nonsense, functional feel that aligns with Misen’s “professional-grade, but for home cooks” positioning. Buttons are softly rounded (`{rounded.sm}`) and use the primary blue with white text (`{colors.on-primary}`), while product cards likely use a white surface (`{colors.surface-card}`) with subtle shadows. The overall mood is trustworthy and direct, avoiding the glossy, aspirational warmth of heritage cookware brands in favor of a clean, almost industrial clarity that puts product photography and specs front and center.
 
 colors:
   primary: "#1c4bba"
@@ -295,6 +299,8 @@ components:
 - Hero content stacks (text above CTA) on mobile, with optional background image behind.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components beyond primary/secondary buttons could not be reliably extracted from the live site.
 - Error state styling for form inputs (border color, error message typography) is inferred but not confirmed.

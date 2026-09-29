@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Synology
-description: A blue that feels more like a system signal than a brand flourish — #0067e6 anchors every primary action, from the login button to the DSM desktop's "Create" prompt, while a vast secondary palette of #2e3742, #606a72, and #c9d5e2 builds a technical, data-center-adjacent atmosphere. This is not a consumer brand reaching for warmth; it's a storage and networking company whose interface borrows the visual language of enterprise dashboards and server racks. The extracted hex set reveals an unusually wide range of accent colors — #5bc0de (info blue), #33d49b (success green), #edb758 (warning amber), #ea5053 (error red) — each mapped to a specific system state, suggesting a mature design system built for status indication and alerting rather than marketing polish. Typography runs Inter and Open Sans at modest weights (400–600), with display rarely exceeding 24px; the brand trusts dense data tables and sidebar navigation over hero imagery. Cards and modals use soft radii ({rounded.sm}–{rounded.md}), while buttons and badges adopt a slightly tighter {rounded.xs} that reads as precise and industrial. The canvas is #f5f5f5, not pure white — a deliberate shift that reduces glare across long DSM sessions. What emerges is a B2B interface that prioritizes legibility, state clarity, and information density over visual delight, with the blue #0067e6 acting as the single consistent wayfinding thread across a product line that spans NAS appliances, surveillance stations, and router management consoles.
+name: "Synology"
+source_url: "https://www.synology.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A blue that feels more like a system signal than a brand flourish — #0067e6 anchors every primary action, from the login button to the DSM desktop's "Create" prompt, while a vast secondary palette of #2e3742, #606a72, and #c9d5e2 builds a technical, data-center-adjacent atmosphere. This is not a consumer brand reaching for warmth; it's a storage and networking company whose interface borrows the visual language of enterprise dashboards and server racks. The extracted hex set reveals an unusually wide range of accent colors — #5bc0de (info blue), #33d49b (success green), #edb758 (warning amber), #ea5053 (error red) — each mapped to a specific system state, suggesting a mature design system built for status indication and alerting rather than marketing polish. Typography runs Inter and Open Sans at modest weights (400–600), with display rarely exceeding 24px; the brand trusts dense data tables and sidebar navigation over hero imagery. Cards and modals use soft radii ({rounded.sm}–{rounded.md}), while buttons and badges adopt a slightly tighter {rounded.xs} that reads as precise and industrial. The canvas is #f5f5f5, not pure white — a deliberate shift that reduces glare across long DSM sessions. What emerges is a B2B interface that prioritizes legibility, state clarity, and information density over visual delight, with the blue #0067e6 acting as the single consistent wayfinding thread across a product line that spans NAS appliances, surveillance stations, and router management consoles.
 
 colors:
   primary: "#0067e6"
@@ -539,6 +543,8 @@ components:
 - Modals become full-width (16px margins) on mobile, with scrollable content
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for many components (dropdown items, sidebar items, table rows) are inferred from common patterns — exact color values and transitions may differ
 - Error states for forms (validation messages, error icons) were not fully extracted — only the error border color is confirmed

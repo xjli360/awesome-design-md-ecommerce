@@ -1,0 +1,932 @@
+{
+  "source_url": "https://schlage.com",
+  "final_url": "https://www.schlage.com/en/home.html",
+  "captured_at": "2026-09-28T09:19:04.918579+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://schlage.com",
+      "final_url": "https://www.schlage.com/en/home.html",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "sha256": "2eab9758756df4dc92cdf3659a3105d84056648cc1517dff3014cc4403b6e771",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "final_url": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "ee80dcf9ce147a220655baebc4fd68567567b034d0f696732332fa23bfb52484",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/clientlib-base.lc-3c3f5dd55b9ba40f3a512eeabe9e111c-lc.min.css",
+      "final_url": "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/clientlib-base.lc-3c3f5dd55b9ba40f3a512eeabe9e111c-lc.min.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "59757fd6ce9b3946ea1c87e0dd8b8650d101fc4b501e3065338ad1796ae915e8",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css",
+      "final_url": "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "10ab7c50f04d314894f3cbbf542da53f8e3625192fb9bb6a621e7a82da895ac5",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-schlage-accessibility.lc-cd799bac302e18b1365e388227ca0490-lc.min.css",
+      "final_url": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-schlage-accessibility.lc-cd799bac302e18b1365e388227ca0490-lc.min.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "5d631d1a0b01e375c22d6fe121f924df3fd59daa6a9f3a8b4a4ede9c225757dd",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-favourites.lc-4dcc3fe66c314e43a8c6c9fad33f89c6-lc.min.css",
+      "final_url": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-favourites.lc-4dcc3fe66c314e43a8c6c9fad33f89c6-lc.min.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "9fbeb4d69bd1d55ce8a5fcad69a73da9b7cfa90445d096eb07e24049f2b6b5f1",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 223,
+      "sources": [
+        "https://www.schlage.com/en/home.html",
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+        "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/clientlib-base.lc-3c3f5dd55b9ba40f3a512eeabe9e111c-lc.min.css",
+        "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css",
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-favourites.lc-4dcc3fe66c314e43a8c6c9fad33f89c6-lc.min.css"
+      ]
+    },
+    "#000000": {
+      "count": 135,
+      "sources": [
+        "https://www.schlage.com/en/home.html",
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+        "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css",
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-favourites.lc-4dcc3fe66c314e43a8c6c9fad33f89c6-lc.min.css"
+      ]
+    },
+    "#0072bc": {
+      "count": 118,
+      "sources": [
+        "https://www.schlage.com/en/home.html",
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+        "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+      ]
+    },
+    "#212529": {
+      "count": 41,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#0d6efd": {
+      "count": 35,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#6c757d": {
+      "count": 33,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#eceff1": {
+      "count": 31,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+      ]
+    },
+    "#607d8b": {
+      "count": 27,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+      ]
+    },
+    "#dc3545": {
+      "count": 25,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#198754": {
+      "count": 25,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#436eff": {
+      "count": 25,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 23,
+      "sources": [
+        "https://www.schlage.com/en/home.html",
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+        "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+      ]
+    },
+    "#dee2e6": {
+      "count": 21,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#f8f9fa": {
+      "count": 18,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#cfd8dc": {
+      "count": 18,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+      ]
+    },
+    "#ffc107": {
+      "count": 17,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#0dcaf0": {
+      "count": 17,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 16,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+        "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+      ]
+    },
+    "#455a64": {
+      "count": 14,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+      ]
+    },
+    "#e9ecef": {
+      "count": 12,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#103be6": {
+      "count": 11,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+      ]
+    },
+    "#2954ff": {
+      "count": 10,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+      ]
+    },
+    "#0a58ca": {
+      "count": 9,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#b9b9b9": {
+      "count": 9,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+      ]
+    },
+    "#003767": {
+      "count": 8,
+      "sources": [
+        "https://www.schlage.com/en/home.html",
+        "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+      ]
+    },
+    "#f9fafb": {
+      "count": 7,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 7,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/clientlib-base.lc-3c3f5dd55b9ba40f3a512eeabe9e111c-lc.min.css",
+        "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+      ]
+    },
+    "#adb5bd": {
+      "count": 5,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#084298": {
+      "count": 5,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#41464b": {
+      "count": 5,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#0f5132": {
+      "count": 5,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#055160": {
+      "count": 5,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#664d03": {
+      "count": 5,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#842029": {
+      "count": 5,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#636464": {
+      "count": 5,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#141619": {
+      "count": 5,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#707070": {
+      "count": 5,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+      ]
+    },
+    "#838383": {
+      "count": 4,
+      "sources": [
+        "https://www.schlage.com/en/home.html"
+      ]
+    },
+    "#86b7fe": {
+      "count": 4,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#565e64": {
+      "count": 4,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#146c43": {
+      "count": 4,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#b02a37": {
+      "count": 4,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#1a1e21": {
+      "count": 4,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 4,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+        "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+      ]
+    },
+    "#0081c6": {
+      "count": 3,
+      "sources": [
+        "https://www.schlage.com/en/home.html"
+      ]
+    },
+    "#ffffffff": {
+      "count": 3,
+      "sources": [
+        "https://www.schlage.com/en/home.html"
+      ]
+    },
+    "#cfe2ff": {
+      "count": 3,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#bacbe6": {
+      "count": 3,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#e2e3e5": {
+      "count": 3,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#cbccce": {
+      "count": 3,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#d1e7dd": {
+      "count": 3,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#bcd0c7": {
+      "count": 3,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#cff4fc": {
+      "count": 3,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#badce3": {
+      "count": 3,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#fff3cd": {
+      "count": 3,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#e6dbb9": {
+      "count": 3,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#f8d7da": {
+      "count": 3,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#dfc2c4": {
+      "count": 3,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#ced4da": {
+      "count": 3,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "#b6d4fe": {
+      "count": 3,
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.schlage.com/en/home.html",
+      "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+    ],
+    "Avenir-Light": [
+      "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+    ],
+    "Avenir-Medium": [
+      "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+    ],
+    "Avenir-Medium\" !important": [
+      "https://www.schlage.com/en/home.html"
+    ],
+    "Avenir-book": [
+      "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+    ],
+    "Avenir-light": [
+      "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+    ],
+    "Helvetica": [
+      "https://www.schlage.com/en/home.html",
+      "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+    ],
+    "Helvetica Neue": [
+      "https://www.schlage.com/en/home.html",
+      "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+    ],
+    "Stag Web": [
+      "https://www.schlage.com/en/home.html",
+      "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+    ],
+    "Stag-Book": [
+      "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+    ],
+    "Stag-SemiboldItalic": [
+      "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+    ],
+    "Stag-Semibolditalic": [
+      "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+    ],
+    "Stag-book": [
+      "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+    ],
+    "Stag-light": [
+      "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+    ],
+    "adobe-clean": [
+      "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+    ],
+    "avenir-black": [
+      "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+    ],
+    "avenir-book": [
+      "https://www.schlage.com/en/home.html",
+      "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+    ],
+    "avenir-heavy": [
+      "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+    ],
+    "avenir-light": [
+      "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+    ],
+    "avenir-light-oblique": [
+      "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+    ],
+    "avenir-medium": [
+      "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+    ],
+    "avenir-regular": [
+      "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+    ],
+    "defaultFont": [
+      "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+    ],
+    "defaultFont Fallback": [
+      "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+    ],
+    "sans-serif": [
+      "https://www.schlage.com/en/home.html",
+      "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+    ],
+    "sans-serif!important": [
+      "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+    ],
+    "stag-book": [
+      "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+    ],
+    "titleFont": [
+      "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+    ],
+    "titleFont Fallback": [
+      "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.schlage.com/en/home.html",
+      "selector": "#carousel .a-button-bg--tertiary .cmp-teaser__action-link:hover",
+      "declarations": "background-color:#003767;"
+    },
+    {
+      "source": "https://www.schlage.com/en/home.html",
+      "selector": "#cta2 .btn",
+      "declarations": "font-size: 1.5rem !important;\r\n    letter-spacing: normal;\r\n    padding: 10px 40px !important;\r\n    color: #0081c6;\r\n    border: 1px solid #0081c6;\r\n    border-radius: 40px !important;\r\n    text-decoration: none !important;"
+    },
+    {
+      "source": "https://www.schlage.com/en/home.html",
+      "selector": "#cta2 .btn:hover",
+      "declarations": "background-color: #0081c6;\r\n\t\t\t   color: #FFF;"
+    },
+    {
+      "source": "https://www.schlage.com/en/home.html",
+      "selector": "#pt .cta-button",
+      "declarations": "background-color: #0072bc !important;\r\n\t\t\tborder: 1px solid #0072bc;\r\n\t\t\tborder-radius: 40px !important; \r\n\t\t\tcolor: #FFF !important;\r\n\t\t\tpadding: 10px 40px !important;"
+    },
+    {
+      "source": "https://www.schlage.com/en/home.html",
+      "selector": "#pt .cta-button:hover",
+      "declarations": "background-color: transparent !important;\r\n\t\t\tcolor: #0072bc !important;"
+    },
+    {
+      "source": "https://www.schlage.com/en/home.html",
+      "selector": ".aplus__carousel .cmp-carousel .cmp-carousel__actions button.cmp-carousel__action",
+      "declarations": "background-color: #ffffff75;\r\n        border: none;\r\n        padding: 0;\r\n        display: flex;\r\n        align-items: center;\r\n        justify-content: center;\r\n        border-radius: 5px;"
+    },
+    {
+      "source": "https://www.schlage.com/en/home.html",
+      "selector": "#carousel .a-button-bg--tertiary .cmp-teaser__action-link",
+      "declarations": "color: #fff;\r\n        border: 1px solid #fff;"
+    },
+    {
+      "source": "https://www.schlage.com/en/home.html",
+      "selector": "#carousel .a-button-bg--tertiary .cmp-teaser__action-link:hover",
+      "declarations": "background-color: #003767;"
+    },
+    {
+      "source": "https://www.schlage.com/en/home.html",
+      "selector": "#carousel .a-button-bg--tertiary .cmp-teaser__action-link",
+      "declarations": "color: #fff;\r\n        border: 1px solid #fff;"
+    },
+    {
+      "source": "https://www.schlage.com/en/home.html",
+      "selector": "#carousel .a-button-bg--tertiary .cmp-teaser__action-link:hover",
+      "declarations": "background-color: #003767;"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": "@charset \"UTF-8\";:root",
+      "declarations": "--bs-blue:#0d6efd;--bs-indigo:#6610f2;--bs-purple:#6f42c1;--bs-pink:#d63384;--bs-red:#dc3545;--bs-orange:#fd7e14;--bs-yellow:#ffc107;--bs-green:#198754;--bs-teal:#20c997;--bs-cyan:#0dcaf0;--bs-white:#fff;--bs-gray:#6c757d;--bs-gray-dark:#343a40;--bs-primary:#0d6efd;--bs-secondary:#6c757d;--bs-success:#198754;--bs-info:#0dcaf0;--bs-warning:#ffc107;--bs-danger:#dc3545;--bs-light:#f8f9fa;--bs-dark:#212529;--bs-font-sans-serif:system-ui,-apple-system,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",\"Liberation Sans\",sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\",\"Noto Color Emoji\";--bs-font-monospace:SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New\",mono"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": "body",
+      "declarations": "margin:0;font-family:var(--bs-font-sans-serif);font-size:1rem;font-weight:400;line-height:1.5;color:#212529;background-color:#fff;-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:transparent"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": "tbody,td,tfoot,th,thead,tr",
+      "declarations": "border-color:inherit;border-style:solid;border-width:0"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "margin:0;font-family:inherit;font-size:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": ".table-striped>tbody>tr:nth-of-type(odd)",
+      "declarations": "--bs-table-accent-bg:var(--bs-table-striped-bg);color:var(--bs-table-striped-color)"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": ".table-hover>tbody>tr:hover",
+      "declarations": "--bs-table-accent-bg:var(--bs-table-hover-bg);color:var(--bs-table-hover-color)"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": ".form-control::file-selector-button",
+      "declarations": "padding:.375rem .75rem;margin:-.375rem -.75rem;-webkit-margin-end:.75rem;margin-inline-end:.75rem;color:#212529;background-color:#e9ecef;pointer-events:none;border-color:inherit;border-style:solid;border-width:0;border-inline-end-width:1px;border-radius:0;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": ".form-control:hover:not(:disabled):not([readonly])::file-selector-button",
+      "declarations": "background-color:#dde0e3"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": ".form-control::-webkit-file-upload-button",
+      "declarations": "padding:.375rem .75rem;margin:-.375rem -.75rem;-webkit-margin-end:.75rem;margin-inline-end:.75rem;color:#212529;background-color:#e9ecef;pointer-events:none;border-color:inherit;border-style:solid;border-width:0;border-inline-end-width:1px;border-radius:0;-webkit-transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": ".form-control:hover:not(:disabled):not([readonly])::-webkit-file-upload-button",
+      "declarations": "background-color:#dde0e3"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": ".btn",
+      "declarations": "display:inline-block;font-weight:400;line-height:1.5;color:#212529;text-align:center;text-decoration:none;vertical-align:middle;cursor:pointer;-webkit-user-select:none;-moz-user-select:none;user-select:none;background-color:transparent;border:1px solid transparent;padding:.375rem .75rem;font-size:1rem;border-radius:.25rem;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": ".btn:hover",
+      "declarations": "color:#212529"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": ".btn-primary",
+      "declarations": "color:#fff;background-color:#0d6efd;border-color:#0d6efd"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": ".btn-primary:hover",
+      "declarations": "color:#fff;background-color:#0b5ed7;border-color:#0a58ca"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": ".btn-check:focus+.btn-primary,.btn-primary:focus",
+      "declarations": "color:#fff;background-color:#0b5ed7;border-color:#0a58ca;box-shadow:0 0 0 .25rem rgba(49,132,253,.5)"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": ".btn-check:active+.btn-primary,.btn-check:checked+.btn-primary,.btn-primary.active,.btn-primary:active,.show>.btn-primary.dropdown-toggle",
+      "declarations": "color:#fff;background-color:#0a58ca;border-color:#0a53be"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": ".btn-primary.disabled,.btn-primary:disabled",
+      "declarations": "color:#fff;background-color:#0d6efd;border-color:#0d6efd"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": ".btn-secondary",
+      "declarations": "color:#fff;background-color:#6c757d;border-color:#6c757d"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": ".btn-secondary:hover",
+      "declarations": "color:#fff;background-color:#5c636a;border-color:#565e64"
+    },
+    {
+      "source": "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+      "selector": ".btn-check:focus+.btn-secondary,.btn-secondary:focus",
+      "declarations": "color:#fff;background-color:#5c636a;border-color:#565e64;box-shadow:0 0 0 .25rem rgba(130,138,145,.5)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Smart Locks, Door Locks, Door Knobs, Door Levers, Handlesets",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.schlage.com/en/home.html",
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+        "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.schlage.com/en/home.html",
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+        "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/clientlib-base.lc-3c3f5dd55b9ba40f3a512eeabe9e111c-lc.min.css",
+        "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css",
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-favourites.lc-4dcc3fe66c314e43a8c6c9fad33f89c6-lc.min.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.schlage.com/en/home.html",
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+        "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/clientlib-base.lc-3c3f5dd55b9ba40f3a512eeabe9e111c-lc.min.css",
+        "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css",
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-favourites.lc-4dcc3fe66c314e43a8c6c9fad33f89c6-lc.min.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.schlage.com/en/home.html",
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css",
+        "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/clientlib-base.lc-3c3f5dd55b9ba40f3a512eeabe9e111c-lc.min.css",
+        "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css",
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-favourites.lc-4dcc3fe66c314e43a8c6c9fad33f89c6-lc.min.css"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.schlage.com/en/home.html"
+      ]
+    },
+    "colors.accent-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.schlage.com/en/home.html",
+        "https://www.schlage.com/etc.clientlibs/nexus/clientlibs/themes/residential-theme.lc-1a5658891d70921d5f7fc1fad0c44b12-lc.min.css"
+      ]
+    },
+    "colors.border-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "colors.surface-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.schlage.com/etc.clientlibs/us-residential/clientlibs/clientlib-dependencies.lc-953d23e605bee617a85224a35b7ca673-lc.min.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.finish-swatch": {
+      "status": "inferred"
+    }
+  }
+}

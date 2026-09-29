@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Royal Botania
-description: |
+name: "Royal Botania"
+source_url: "https://www.royalbotania.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Bronze light pooling on a teak slat at golden hour — that is the color temperature Royal Botania builds its entire digital presence around. The extracted palette pivots on #ba8748, a burnished amber that appears in hover states, accent lines, and primary CTAs, pulling the user's eye toward configurators and collection links the way afternoon sun catches oiled wood grain. Supporting it is a full gradient of warm earth tones (#cec9c0 through #342f28) that replace the cold grays most luxury sites default to; even the lightest canvas (#fafafb) carries a barely-perceptible warmth at #fbfaf9 and #f5eee5, so white space reads as sunlit limestone rather than sterile gallery wall. Typography pairs a refined serif (used for display headings and product names — loaded as `fontSecondary` via Next.js font optimization) with a clean geometric sans-serif (`fontPrimary`) handling navigation, body copy, and interface labels. Weights stay restrained: display type at 300–400, body at 400, buttons at 500 — the brand whispers rather than shouts. Corner radii are minimal throughout; product cards and image containers sit at `{rounded.xs}` or `{rounded.none}`, reinforcing the architectural precision of the furniture itself. Buttons use a subtle `{rounded.xs}` with generous horizontal padding, reading as slim material strips rather than bubbly pills. Spacing is generous — section gaps push to 80–120px on desktop, letting full-bleed lifestyle photography breathe. The navigation bar is a thin, transparent-to-white element that overlays hero imagery, collapsing to a hamburger early (below 1024px) to preserve visual real estate. Color-coded collection badges use muted earth variants (#9b907d, #655c4e) rather than saturated tags, keeping the page temperature unified. The overall effect is a digital showroom that feels like walking through a Belgian courtyard — warm stone, polished metal, and diffused natural light.
 
 colors:
@@ -391,6 +394,8 @@ components:
 - Image gallery thumbnails move from vertical side strip to horizontal scroll beneath the main image on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact font-family names could not be extracted — the site uses Next.js font optimization with hashed class names (`__fontPrimary_ca2ea3`, `__fontSecondary_af2e54`). Georgia and Arial are listed as fallbacks in the font stacks, suggesting a serif display face and a geometric sans-serif body face, but the primary loaded typefaces remain unidentified.
 - No meta theme-color was set, so mobile browser chrome color is unknown.

@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Papier
-description: >-
+name: "Papier"
+source_url: "https://www.papier.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Every page in Papier's digital experience sits on the same off-white field (`#faf7f0`) declared in the site's meta theme-color — a quiet signal that the entire UI is literally color-matched to writing paper. Against this warm canvas, the single operative CTA color is a muted copper-orange (`#ffa359`): not the high-voltage red-orange of a conversion-optimized stack, but the exact tone of a Pantone swatch someone might choose for a notebook cover. Baskerville carries the editorial register — headlines sit at 40–48px in italic form, bringing the authoritative weight of a well-set printed book rather than the geometric confidence of a sans-serif challenger brand. Avenir handles the functional layer: navigation links, body copy, and labels run in clean geometric shapes at modest weights, creating a readable counterpoint without coldness. Buttons depart entirely into Avant Garde Gothic — all-caps, letter-spaced at 0.08em, and quiet in scale (12–14px) — functioning more like embossing on card stock than like clickable UI elements. The extended palette reads like a stationery color collection rotating seasonally: deep forest (`#23491b`, `#3f7427`), warm rust (`#b13f2f`), muted sage (`#66857a`), dusty mint (`#93daa3`), and amber wheat (`#e2d2ac`) appear on product tiles rather than as persistent UI chrome, so the catalog carries its own seasonal mood without repainting the global shell. Surfaces layer in degrees of warmth — `#ece1c7` for section fills, `#f4eee0` for card image wells, `#fffefa` for near-white overlays — three creams that together produce the gentle thermal gradient of paper stock under different lighting. Rounded corners stay deliberately restrained (`{rounded.xs}` to `{rounded.sm}`) because Papier's brand object has square corners. Script typefaces (Adore, Beautifully Delicious) surface only inside personalization preview panels where a customer's name renders live in ink, turning a UI widget into a product demo.
 
 colors:
@@ -332,6 +335,8 @@ components:
 - Promo banner: single-line strip → wraps to two lines → collapses to icon + tap-to-expand on narrowest breakpoints
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact button border-radius not confirmed from live CSS extraction — `{rounded.xs}` (4px) inferred from visual inspection of the brand's square-corner aesthetic
 - Precise Baskerville variant in use (Regular 400 vs. Bold 400-italic vs. Semibold) not determinable from font-family stack alone; weight 400 italic used as best estimate for display

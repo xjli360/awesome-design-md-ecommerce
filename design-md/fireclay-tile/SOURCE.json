@@ -1,0 +1,833 @@
+{
+  "source_url": "https://fireclaytile.com",
+  "final_url": "https://www.fireclaytile.com/",
+  "captured_at": "2026-09-28T04:21:08.474560+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://fireclaytile.com",
+      "final_url": "https://www.fireclaytile.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "c33510e4878abe6cf29d63e9a38501daac8089f4a05e126a4818f33f483b3ee0",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.fireclaytile.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.fireclaytile.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167",
+      "final_url": "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "adcb3c365e97a41bec6acf018a4faa39bfa87679bfd7dc2d6d54898118cd91ba",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0ce1e-4d5f-775f-9f9d-a99d9a492b0b/gsc-instagram-feed-91/assets/gsc-instafeed-widget.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0ce1e-4d5f-775f-9f9d-a99d9a492b0b/gsc-instagram-feed-91/assets/gsc-instafeed-widget.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6071e502b6a38c89e2dfc5c9bd129411862cc20b03ded409de9e65d9b52cfa67",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.fireclaytile.com/cdn/shop/t/18/assets/sample-toast.css?v=8798831614547266171788879395",
+      "final_url": "https://www.fireclaytile.com/cdn/shop/t/18/assets/sample-toast.css?v=8798831614547266171788879395",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "34ae9abe7da8259b86b6780b36969a884e72f4ddcfbca20d57cc80a66020b3f1",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.fireclaytile.com/cdn/shop/t/18/assets/powerreviews.css?v=153494421169922443791788879395",
+      "final_url": "https://www.fireclaytile.com/cdn/shop/t/18/assets/powerreviews.css?v=153494421169922443791788879395",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "38a3cc1fc4c58dfef6e4a74cb522d95a7ffd70b82cac492009a614f70256a77d",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 44,
+      "sources": [
+        "https://www.fireclaytile.com/",
+        "https://www.fireclaytile.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167",
+        "https://cdn.shopify.com/extensions/01a0ce1e-4d5f-775f-9f9d-a99d9a492b0b/gsc-instagram-feed-91/assets/gsc-instafeed-widget.css",
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/sample-toast.css?v=8798831614547266171788879395",
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/powerreviews.css?v=153494421169922443791788879395"
+      ]
+    },
+    "#000000": {
+      "count": 20,
+      "sources": [
+        "https://www.fireclaytile.com/",
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167",
+        "https://cdn.shopify.com/extensions/01a0ce1e-4d5f-775f-9f9d-a99d9a492b0b/gsc-instagram-feed-91/assets/gsc-instafeed-widget.css",
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/powerreviews.css?v=153494421169922443791788879395"
+      ]
+    },
+    "#00000000": {
+      "count": 11,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167"
+      ]
+    },
+    "#d6d6d6": {
+      "count": 6,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/powerreviews.css?v=153494421169922443791788879395"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 5,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167",
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/powerreviews.css?v=153494421169922443791788879395"
+      ]
+    },
+    "#c31e1c": {
+      "count": 4,
+      "sources": [
+        "https://www.fireclaytile.com/"
+      ]
+    },
+    "#312a29": {
+      "count": 3,
+      "sources": [
+        "https://www.fireclaytile.com/"
+      ]
+    },
+    "#00000066": {
+      "count": 3,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167"
+      ]
+    },
+    "#0000001a": {
+      "count": 3,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167"
+      ]
+    },
+    "#d0cac1": {
+      "count": 3,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167"
+      ]
+    },
+    "#504b41": {
+      "count": 3,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167"
+      ]
+    },
+    "#1b1b1d": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0ce1e-4d5f-775f-9f9d-a99d9a492b0b/gsc-instagram-feed-91/assets/gsc-instafeed-widget.css"
+      ]
+    },
+    "#372d2d": {
+      "count": 3,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/powerreviews.css?v=153494421169922443791788879395"
+      ]
+    },
+    "#fafafa": {
+      "count": 2,
+      "sources": [
+        "https://www.fireclaytile.com/",
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000033": {
+      "count": 2,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167"
+      ]
+    },
+    "#fcf9f4": {
+      "count": 2,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167",
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/powerreviews.css?v=153494421169922443791788879395"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 2,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167",
+        "https://cdn.shopify.com/extensions/01a0ce1e-4d5f-775f-9f9d-a99d9a492b0b/gsc-instagram-feed-91/assets/gsc-instafeed-widget.css"
+      ]
+    },
+    "#005fd3": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0ce1e-4d5f-775f-9f9d-a99d9a492b0b/gsc-instagram-feed-91/assets/gsc-instafeed-widget.css"
+      ]
+    },
+    "#f5b301": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0ce1e-4d5f-775f-9f9d-a99d9a492b0b/gsc-instagram-feed-91/assets/gsc-instafeed-widget.css"
+      ]
+    },
+    "#6681a0": {
+      "count": 2,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/powerreviews.css?v=153494421169922443791788879395"
+      ]
+    },
+    "#e9e8e7": {
+      "count": 2,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/powerreviews.css?v=153494421169922443791788879395"
+      ]
+    },
+    "#6e2f1b": {
+      "count": 1,
+      "sources": [
+        "https://www.fireclaytile.com/"
+      ]
+    },
+    "#2f120a": {
+      "count": 1,
+      "sources": [
+        "https://www.fireclaytile.com/"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 1,
+      "sources": [
+        "https://www.fireclaytile.com/"
+      ]
+    },
+    "#fff1e3": {
+      "count": 1,
+      "sources": [
+        "https://www.fireclaytile.com/"
+      ]
+    },
+    "#412d00": {
+      "count": 1,
+      "sources": [
+        "https://www.fireclaytile.com/"
+      ]
+    },
+    "#5f2b1c": {
+      "count": 1,
+      "sources": [
+        "https://www.fireclaytile.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 1,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167"
+      ]
+    },
+    "#a19271": {
+      "count": 1,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167"
+      ]
+    },
+    "#0000000d": {
+      "count": 1,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167"
+      ]
+    },
+    "#b7b7b71f": {
+      "count": 1,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167"
+      ]
+    },
+    "#0000000f": {
+      "count": 1,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167"
+      ]
+    },
+    "#e3e3e3": {
+      "count": 1,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167"
+      ]
+    },
+    "#5e5e5e": {
+      "count": 1,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167"
+      ]
+    },
+    "#e0d5cc": {
+      "count": 1,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167"
+      ]
+    },
+    "#433838": {
+      "count": 1,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167"
+      ]
+    },
+    "#f2ebe6": {
+      "count": 1,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167"
+      ]
+    },
+    "#3f2016": {
+      "count": 1,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167"
+      ]
+    },
+    "#4a4a4a": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0ce1e-4d5f-775f-9f9d-a99d9a492b0b/gsc-instagram-feed-91/assets/gsc-instafeed-widget.css"
+      ]
+    },
+    "#557b24": {
+      "count": 1,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/sample-toast.css?v=8798831614547266171788879395"
+      ]
+    },
+    "#282424": {
+      "count": 1,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/sample-toast.css?v=8798831614547266171788879395"
+      ]
+    },
+    "#383332": {
+      "count": 1,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/sample-toast.css?v=8798831614547266171788879395"
+      ]
+    },
+    "#8ca95a": {
+      "count": 1,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/sample-toast.css?v=8798831614547266171788879395"
+      ]
+    },
+    "#f0ebeb": {
+      "count": 1,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/sample-toast.css?v=8798831614547266171788879395"
+      ]
+    },
+    "#969696": {
+      "count": 1,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/powerreviews.css?v=153494421169922443791788879395"
+      ]
+    },
+    "#eeeeee": {
+      "count": 1,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/powerreviews.css?v=153494421169922443791788879395"
+      ]
+    },
+    "#595959": {
+      "count": 1,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/powerreviews.css?v=153494421169922443791788879395"
+      ]
+    },
+    "#999999": {
+      "count": 1,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/powerreviews.css?v=153494421169922443791788879395"
+      ]
+    },
+    "#8b8b8b": {
+      "count": 1,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/powerreviews.css?v=153494421169922443791788879395"
+      ]
+    },
+    "#f1ecec": {
+      "count": 1,
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/powerreviews.css?v=153494421169922443791788879395"
+      ]
+    }
+  },
+  "font_families": {
+    "Consolas": [
+      "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167"
+    ],
+    "Courier New": [
+      "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167"
+    ],
+    "Liberation Mono": [
+      "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167"
+    ],
+    "Menlo": [
+      "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167"
+    ],
+    "Monaco": [
+      "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167"
+    ],
+    "Muli": [
+      "https://www.fireclaytile.com/"
+    ],
+    "MuseoSans 300": [
+      "https://www.fireclaytile.com/"
+    ],
+    "MuseoSans 700": [
+      "https://www.fireclaytile.com/"
+    ],
+    "MuseoSans 700' !important": [
+      "https://www.fireclaytile.com/"
+    ],
+    "Playfair Display": [
+      "https://www.fireclaytile.com/"
+    ],
+    "Playwright Display": [
+      "https://www.fireclaytile.com/"
+    ],
+    "SFMono-Regular": [
+      "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167"
+    ],
+    "monospace": [
+      "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167"
+    ],
+    "sans-serif": [
+      "https://www.fireclaytile.com/"
+    ],
+    "serif": [
+      "https://www.fireclaytile.com/"
+    ],
+    "ui-monospace": [
+      "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.fireclaytile.com/",
+      "selector": "[dir=\"rtl\"]:root",
+      "declarations": "--transform-logical-flip: -1;\n    --transform-origin-start: right;\n    --transform-origin-end: left;"
+    },
+    {
+      "source": "https://www.fireclaytile.com/",
+      "selector": ":root",
+      "declarations": "--text-h0: 3.5rem;\n      --text-h1: 2.5rem;\n      --text-h2: 2rem;\n      --text-h3: 1.625rem;\n      --text-h4: 1.375rem;\n      --text-h5: 1.125rem;\n      --text-h6: 1rem;\n\n      --text-xs: 0.6875rem;\n      --text-sm: 0.8125rem;\n      --text-base: 0.9375rem;\n      --text-lg: 1.1875rem;\n\n      \n      --container-gutter: 2rem;\n      --section-outer-spacing-block: var(--spacing-14);\n      --section-inner-max-spacing-block: var(--spacing-10);\n      --section-inner-spacing-inline: var(--spacing-12);\n      --section-stack-spacing-block: var(--spacing-12);\n\n      \n      --grid-gutter: var(--spacing-6);\n\n      \n      --product-list-row-gap: var(--spacing-12);\n\n      \n      --input-gap: 1rem;\n      --"
+    },
+    {
+      "source": "https://www.fireclaytile.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: var(--spacing-12);\n      --section-outer-spacing-block: var(--spacing-16);\n      --section-inner-max-spacing-block: var(--spacing-14);\n      --section-inner-spacing-inline: var(--spacing-16);\n      --section-stack-spacing-block: var(--spacing-12);\n\n      \n      --ooo-wl-button-card-button-padding: 9px 8px !important;"
+    },
+    {
+      "source": "https://www.fireclaytile.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: var(--spacing-12);\n      --section-outer-spacing-block: var(--spacing-16);\n      --section-inner-max-spacing-block: var(--spacing-14);\n      --section-inner-spacing-inline: var(--spacing-16);\n      --section-stack-spacing-block: var(--spacing-12);"
+    },
+    {
+      "source": "https://www.fireclaytile.com/",
+      "selector": ":root",
+      "declarations": "--text-h0: 4.5rem;\n      --text-h1: 3.5rem;\n      --text-h2: 2.75rem;\n      --text-h3: 2rem;\n      --text-h4: 1.75rem;\n      --text-h5: 1.375rem;\n      --text-h6: 1.25rem;\n\n      --section-outer-spacing-block: var(--spacing-20);\n      --section-inner-max-spacing-block: var(--spacing-16);\n      --section-inner-spacing-inline: var(--spacing-18);"
+    },
+    {
+      "source": "https://www.fireclaytile.com/",
+      "selector": ":root",
+      "declarations": "--section-outer-spacing-block: var(--spacing-20);\n      --section-inner-max-spacing-block: var(--spacing-18);\n      --section-inner-spacing-inline: var(--spacing-20);"
+    },
+    {
+      "source": "https://www.fireclaytile.com/",
+      "selector": ".button:not([disabled]):hover, .btn:not([disabled]):hover, .shopify-payment-button__button--unbranded:not([disabled]):hover",
+      "declarations": "--button-background-opacity: 0.85;"
+    },
+    {
+      "source": "https://www.fireclaytile.com/",
+      "selector": ".button--subdued:not([disabled]):hover",
+      "declarations": "--button-background: var(--text-color) / .05 !important;"
+    },
+    {
+      "source": "https://www.fireclaytile.com/",
+      "selector": "h1,h2,h3,h4,h5,h6,.h1, .h2, .h3, .h4, .h5, .h6, .prose :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family: 'Playwright Display';\n                font-weight: 600;\nletter-spacing: 0.01em;\nfont-feature-settings: 'lnum', 'pnum';"
+    },
+    {
+      "source": "https://www.fireclaytile.com/",
+      "selector": "h1,h2,h3,h4,h5,h6,.h1, .h2, .h3, .h4, .h5, .h6, .prose :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family: 'Playwright Display';\n                font-weight: 600;\nletter-spacing: 0.01em;\nfont-feature-settings: 'lnum', 'pnum';"
+    },
+    {
+      "source": "https://www.fireclaytile.com/",
+      "selector": ":root",
+      "declarations": "--sticky-header-enabled:1;"
+    },
+    {
+      "source": "https://www.fireclaytile.com/",
+      "selector": "#shopify-section-sections--26390314844463__header",
+      "declarations": "--header-grid-template: \"main-nav logo secondary-nav\" / minmax(0, 1fr) auto minmax(0, 1fr);\n    --header-padding-block: var(--spacing-3);\n    --header-background-opacity: 1.0;\n    --header-background-blur-radius: 0px;\n    --header-transparent-text-color: 255 255 255;--header-logo-width: 100px;\n      --header-logo-height: 26px;position: sticky;\n    top: 0;\n    z-index: 10;"
+    },
+    {
+      "source": "https://www.fireclaytile.com/",
+      "selector": "#shopify-section-sections--26390314844463__header",
+      "declarations": "--header-logo-width: 130px;\n        --header-logo-height: 33px;--header-padding-block: var(--spacing-6);"
+    },
+    {
+      "source": "https://www.fireclaytile.com/",
+      "selector": "#shopify-section-sections--26390314844463__header",
+      "declarations": "--header-grid-template: \"logo main-nav secondary-nav\" / minmax(0, 1fr) fit-content(70%) minmax(0, 1fr);"
+    },
+    {
+      "source": "https://www.fireclaytile.com/",
+      "selector": "tton-background: 255 255 255 / var(--button-background-opacity, 1);--button-outline-color: 255 255 255;--button-text-color: 26 26 26;\n\n  #shopify-section-templa",
+      "declarations": "--section-background-hash: 0;"
+    },
+    {
+      "source": "https://www.fireclaytile.com/",
+      "selector": "ton-background: 255 255 255 / var(--button-background-opacity, 1);--button-outline-color: 255 255 255;--button-text-color: 49 42 41;\n #shopify-section-template-",
+      "declarations": "background-color: #312a29; padding-top: 80px;"
+    },
+    {
+      "source": "https://www.fireclaytile.com/",
+      "selector": "#shopify-section-template--26390319792431__section-5 .product-list",
+      "declarations": "--product-list-gap: var(--product-list-row-gap) var(--product-list-column-gap);\n    --product-list-items-per-row: 2;\n    --product-list-carousel-item-width: 74vw;\n    --product-list-grid: auto / auto-flow var(--product-list-carousel-item-width);"
+    },
+    {
+      "source": "https://www.fireclaytile.com/",
+      "selector": "#shopify-section-template--26390319792431__section-5 .product-list",
+      "declarations": "--product-list-gap: var(--product-list-row-gap) var(--product-list-column-gap);\n      --product-list-items-per-row: 2;\n      --product-list-carousel-item-width: 36vw;"
+    },
+    {
+      "source": "https://www.fireclaytile.com/",
+      "selector": "#shopify-section-template--26390319792431__section-5 .product-list",
+      "declarations": "--product-list-items-per-row: 5;\n      --product-list-carousel-item-width: calc(var(--container-inner-width) / 5 - (var(--product-list-column-gap) / 5 * 4));"
+    },
+    {
+      "source": "https://www.fireclaytile.com/",
+      "selector": "--button-background: 255 255 255 / var(--button-background-opacity, 1);--button-outline-color: 255 255 255;--button-text-color: 64 31 20;\n #shopify-section-temp",
+      "declarations": "background-color: #312a29; padding-top: 0px; padding-bottom: 0px;"
+    },
+    {
+      "source": "https://www.fireclaytile.com/",
+      "selector": "max-width: 250px\n\n:root",
+      "declarations": "--impact-product-card-text-color: 26 26 26;\n--impact-product-card-background-color: 255 255 255 / 1.0;\n--impact-product-card-padding: var(--spacing-4);\n--ooo-wl-page-product-card-gap: 0;\n--theme-button-background-color: rgb(var(--button-background-primary));\n--theme-button-text-color: rgb(var(--button-text-primary));\n--theme-button-border-width: 0px;\n--theme-button-disabled-background-color: rgba(var(--text-primary) / .1);\n--theme-swatches-width: 18px;\n--theme-swatches-height: 18px;\n--theme-swatches-radius: 0;\n--theme-swatches-selected-radius: 0;\n--theme-swatches-selected-offset: -4px;\n--theme-swatches-selected-bottom: -4px;\n--theme-swatches-outline-color: rgb(0,0,0);\n--theme-swatches-outlin"
+    },
+    {
+      "source": "https://www.fireclaytile.com/",
+      "selector": ":root",
+      "declarations": "--ooo-wl-page-product-card-gap: 0"
+    },
+    {
+      "source": "https://www.fireclaytile.com/",
+      "selector": ":root",
+      "declarations": "--ooo-wl-product-card-button-position-block: 16px;\n--ooo-wl-product-card-button-position-inline: 16px;\n--ooo-wl-product-card-button-icon-color: rgb(95 43 28);\n--ooo-wl-product-card-button-border-radius: 100px;--ooo-wl-product-card-button-background-color: #ffffff;\n  --ooo-wl-button-card-button-padding: 9px 8px;"
+    },
+    {
+      "source": "https://www.fireclaytile.com/",
+      "selector": ":root",
+      "declarations": "--ooo-wl-button-card-button-padding: 13px 12px;"
+    },
+    {
+      "source": "https://www.fireclaytile.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.fireclaytile.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.fireclaytile.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.fireclaytile.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.fireclaytile.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.fireclaytile.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Fireclay Tile - Handmade in California",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fireclaytile.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167",
+        "https://cdn.shopify.com/extensions/01a0ce1e-4d5f-775f-9f9d-a99d9a492b0b/gsc-instagram-feed-91/assets/gsc-instafeed-widget.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167",
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/powerreviews.css?v=153494421169922443791788879395"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fireclaytile.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fireclaytile.com/",
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fireclaytile.com/",
+        "https://www.fireclaytile.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167",
+        "https://cdn.shopify.com/extensions/01a0ce1e-4d5f-775f-9f9d-a99d9a492b0b/gsc-instagram-feed-91/assets/gsc-instafeed-widget.css",
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/sample-toast.css?v=8798831614547266171788879395",
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/powerreviews.css?v=153494421169922443791788879395"
+      ]
+    },
+    "colors.accent-clay": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fireclaytile.com/"
+      ]
+    },
+    "colors.accent-sand": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167"
+      ]
+    },
+    "colors.info-link": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/sample-toast.css?v=8798831614547266171788879395"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0ce1e-4d5f-775f-9f9d-a99d9a492b0b/gsc-instagram-feed-91/assets/gsc-instafeed-widget.css"
+      ]
+    },
+    "colors.border-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0ce1e-4d5f-775f-9f9d-a99d9a492b0b/gsc-instagram-feed-91/assets/gsc-instafeed-widget.css"
+      ]
+    },
+    "colors.overlay": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.fireclaytile.com/cdn/shop/t/18/assets/theme.css?v=175352131268007528201790199167"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.swatch-selector": {
+      "status": "inferred"
+    }
+  }
+}

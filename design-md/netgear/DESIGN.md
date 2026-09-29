@@ -1,11 +1,12 @@
 ---
 version: alpha
-name: Netgear
-description: >
+name: "Netgear"
+source_url: "https://www.netgear.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The site opens on a near-black field (#1a1918), where router chassis renders and animated signal-ring graphics float against the void the same way an actual Nighthawk sits on a shelf in an unlit rack room — the display logic is borrowed from the hardware, not from a marketing playbook. The primary action color, #029ddf, is a clear-sky cyan-blue that lands between consumer-friendly and enterprise-legible without fully committing to either; it runs from full-width CTA buttons on product detail pages to the interactive ring in hero animations to the hover accent on nav links. Outfit is the sole text workhorse — a geometric rounded sans-serif whose even stroke weights let spec-dense product pages stay readable rather than compressed, while its mild letterforms soften an otherwise stark black-and-blue palette.
-
   Color architecture runs in two modes. Light-mode marketing and category pages sit on #ffffff canvas with #e2e8f0 surface cards and #d1d1d1 hairlines — a clean retail register. Dark-mode hero sections drop to #1a1918 or the deep navy #192f5d, a blue so saturated it reads like a signal-diagram background in a network-operations center. Accent-red #bd3d44 marks the Nighthawk sub-brand and security-alert states; #e7772f orange flags promotional tiers and bundle callouts. Spec tables on every product page embed a monospaced type treatment (SFMono-Regular, Consolas), encoding the brand's argument that publishing raw numbers — AXE6000, BE19000, port counts, coverage square footage — is itself a sales act.
-
   Corner geometry is deliberately controlled: primary buttons sit at {rounded.sm} (8px) rather than pill-shaped, giving CTAs a formal register that suits prosumer and enterprise buyers who distrust marketing softness. Product cards earn {rounded.md} (12px) — approachable without being consumer-toy. Badge pills and toggle chips use {rounded.full} for clear small-element click-area signaling. The persistent dark navigation bar (#181818) anchors the brand-dark aesthetic even when the page section below it switches to white canvas. Spacing steps jump from tight (4–8px within spec rows) to generous (64px section separators in hero blocks), mapping cadence to content density rather than applying a single rhythm site-wide.
 
 colors:
@@ -332,6 +333,8 @@ components:
 - Promo banner reduces to headline and CTA on a single line below 744px; body copy is hidden
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Outfit weight distribution across the live site not confirmed — weight range 100–900 assumed available but actual heading vs. body weight assignments are approximated from geometric-sans conventions
 - Several extracted hex values (#0acf83, #a259ff, #f24e1e, #ff7262, #1abcfe) originate from an embedded Figma Community badge rather than Netgear brand assets — excluded from palette entirely

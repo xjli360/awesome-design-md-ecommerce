@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: OwlCrate
-description: A midnight-blue (#282560) and teal (#86e4e0) subscription world where bookish discovery meets tactile monthly ritual. The brand lives in the tension between deep, almost-navy indigos (#1c1b2e, #141321) and bright, minty aquas (#86e4e0, #19cfd2) — a palette that reads as both cozy and magical, like a reading nook lit by a glowing screen. Every primary CTA and interactive element pulses in that signature teal, while the dark backgrounds create a sense of intimate immersion, as if each page turn happens in a quiet corner of a fantastical library. The typography leans on Asul and Figtree — Asul for display moments that carry a slightly hand-drawn, whimsical weight, and Figtree for body text that stays clean and readable across product descriptions and subscription details. Rounded corners are generous but not pillowy: cards and buttons use `{rounded.md}` (12px) to feel approachable without losing structure, while badges and small tags go tighter at `{rounded.sm}` (8px). The brand's voice is enthusiastic and direct — "Get the Box" buttons in teal against dark backgrounds feel like invitations to join a secret club, not transactional prompts. Product cards feature stacked imagery (the box, its contents, lifestyle shots) with overlays and badges in coral (#c16452), gold (#ffcb67), and deep purple (#4d384b) to denote exclusives, spoilers, and member perks. The footer and secondary navigation retreat into muted lavenders (#cecdeb, #e5e5f5) and soft grays (#f4f4f6), keeping the visual hierarchy clear: dark and teal for action, light and muted for information. OwlCrate feels like a subscription box designed by someone who loves the weight of a hardcover and the surprise of a wrapped package — digital, but reaching toward the physical.
+name: "OwlCrate"
+source_url: "https://www.owlcrate.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A midnight-blue (#282560) and teal (#86e4e0) subscription world where bookish discovery meets tactile monthly ritual. The brand lives in the tension between deep, almost-navy indigos (#1c1b2e, #141321) and bright, minty aquas (#86e4e0, #19cfd2) — a palette that reads as both cozy and magical, like a reading nook lit by a glowing screen. Every primary CTA and interactive element pulses in that signature teal, while the dark backgrounds create a sense of intimate immersion, as if each page turn happens in a quiet corner of a fantastical library. The typography leans on Asul and Figtree — Asul for display moments that carry a slightly hand-drawn, whimsical weight, and Figtree for body text that stays clean and readable across product descriptions and subscription details. Rounded corners are generous but not pillowy: cards and buttons use `{rounded.md}` (12px) to feel approachable without losing structure, while badges and small tags go tighter at `{rounded.sm}` (8px). The brand's voice is enthusiastic and direct — "Get the Box" buttons in teal against dark backgrounds feel like invitations to join a secret club, not transactional prompts. Product cards feature stacked imagery (the box, its contents, lifestyle shots) with overlays and badges in coral (#c16452), gold (#ffcb67), and deep purple (#4d384b) to denote exclusives, spoilers, and member perks. The footer and secondary navigation retreat into muted lavenders (#cecdeb, #e5e5f5) and soft grays (#f4f4f6), keeping the visual hierarchy clear: dark and teal for action, light and muted for information. OwlCrate feels like a subscription box designed by someone who loves the weight of a hardcover and the surprise of a wrapped package — digital, but reaching toward the physical.
 
 colors:
   primary: "#86e4e0"
@@ -419,6 +423,8 @@ components:
 - Testimonial carousel collapses to single-card display on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for secondary buttons and text inputs could not be reliably extracted from the live site — assumed standard opacity shifts (90% for hover, 60% for disabled) pending design review
 - Error styling for forms (validation messages, error icons) was not observed — placeholder assumes red border and caption-style error text

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Alo Yoga
-description: A high-voltage wellness brand that uses a neon-lime green (#dbf482) as its primary signal — a color so electric it feels like a match struck against the muted charcoal (#232933) and deep ink (#121212) of its canvas. This is not the soft, muted palette of traditional yoga brands; it's a studio-to-street system built on contrast: the lime appears on CTAs, sale badges, and product highlights, while the body grid stays clean on white (#ffffff) with soft pink (#f9cae6) and sage (#758e6d) accents for seasonal collections. Typography runs a two-family system — arquitecta for display headers (bold, condensed, architectural) and proxima-nova for body (clean, neutral, highly readable at small sizes). The brand uses generous whitespace and full-bleed hero imagery, with product cards that float on white with subtle shadows. Every button is a pill (`{rounded.full}`), every input has a soft corner (`{rounded.md}`), and the checkout flow uses teal (#00aba9) as a secondary accent for trust signals. The overall effect is athletic but luxurious — a gym that looks like a gallery, with the lime acting as the single voltage that says "click here."
+name: "Alo Yoga"
+source_url: "https://www.aloyoga.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A high-voltage wellness brand that uses a neon-lime green (#dbf482) as its primary signal — a color so electric it feels like a match struck against the muted charcoal (#232933) and deep ink (#121212) of its canvas. This is not the soft, muted palette of traditional yoga brands; it's a studio-to-street system built on contrast: the lime appears on CTAs, sale badges, and product highlights, while the body grid stays clean on white (#ffffff) with soft pink (#f9cae6) and sage (#758e6d) accents for seasonal collections. Typography runs a two-family system — arquitecta for display headers (bold, condensed, architectural) and proxima-nova for body (clean, neutral, highly readable at small sizes). The brand uses generous whitespace and full-bleed hero imagery, with product cards that float on white with subtle shadows. Every button is a pill (`{rounded.full}`), every input has a soft corner (`{rounded.md}`), and the checkout flow uses teal (#00aba9) as a secondary accent for trust signals. The overall effect is athletic but luxurious — a gym that looks like a gallery, with the lime acting as the single voltage that says "click here."
 
 colors:
   primary: "#dbf482"
@@ -397,6 +401,8 @@ components:
 - Product filters: sidebar on desktop → horizontal strip on tablet → bottom sheet or modal on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states**: Only primary and secondary button hover colors were extracted. Hover for links, icons, and product cards is inferred from common patterns — actual values may differ.
 - **Error styling**: The error border color (#e74c3c) is a standard web default, not confirmed from the live site. Error text color and iconography are unknown.

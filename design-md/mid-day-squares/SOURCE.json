@@ -1,0 +1,967 @@
+{
+  "source_url": "https://middaysquares.com",
+  "final_url": "https://www.middaysquares.com/",
+  "captured_at": "2026-09-28T09:44:48.627211+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://middaysquares.com",
+      "final_url": "https://www.middaysquares.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "d733bbff953ae5d4e21592abc2b7ed5ae41c6b92ab97bb8d9abcf5e60c30ba4c",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970",
+      "final_url": "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0c486aa4421302e3cae6b8a05f0905e452ad4efe821107de957dabbd7cd2b16d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.middaysquares.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.middaysquares.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#101010": {
+      "count": 110,
+      "sources": [
+        "https://www.middaysquares.com/",
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#ffffff": {
+      "count": 79,
+      "sources": [
+        "https://www.middaysquares.com/",
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970",
+        "https://www.middaysquares.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#eb1822": {
+      "count": 26,
+      "sources": [
+        "https://www.middaysquares.com/",
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#000000": {
+      "count": 26,
+      "sources": [
+        "https://www.middaysquares.com/",
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#cccccc": {
+      "count": 11,
+      "sources": [
+        "https://www.middaysquares.com/",
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#bf1119": {
+      "count": 10,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#414141": {
+      "count": 9,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#d20000": {
+      "count": 9,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#1010100d": {
+      "count": 9,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#685858": {
+      "count": 9,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#48a23f": {
+      "count": 7,
+      "sources": [
+        "https://www.middaysquares.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 7,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970",
+        "https://www.middaysquares.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#505050": {
+      "count": 7,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#f72901": {
+      "count": 6,
+      "sources": [
+        "https://www.middaysquares.com/"
+      ]
+    },
+    "#10101040": {
+      "count": 6,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#ffffff40": {
+      "count": 6,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#4e008e": {
+      "count": 5,
+      "sources": [
+        "https://www.middaysquares.com/"
+      ]
+    },
+    "#999997": {
+      "count": 5,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#ea0606": {
+      "count": 5,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#ffffff80": {
+      "count": 5,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 4,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#1010108c": {
+      "count": 4,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#00000066": {
+      "count": 4,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#dedede": {
+      "count": 4,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970",
+        "https://www.middaysquares.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#ff8400": {
+      "count": 3,
+      "sources": [
+        "https://www.middaysquares.com/"
+      ]
+    },
+    "#fff200": {
+      "count": 3,
+      "sources": [
+        "https://www.middaysquares.com/"
+      ]
+    },
+    "#001cd4": {
+      "count": 3,
+      "sources": [
+        "https://www.middaysquares.com/"
+      ]
+    },
+    "#2f2e2e": {
+      "count": 3,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#c7c7c7": {
+      "count": 3,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#e8e6e6": {
+      "count": 3,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#651818": {
+      "count": 3,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#00000099": {
+      "count": 3,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#10101099": {
+      "count": 3,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#000000bf": {
+      "count": 3,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#ca172a": {
+      "count": 2,
+      "sources": [
+        "https://www.middaysquares.com/"
+      ]
+    },
+    "#f7cd05": {
+      "count": 2,
+      "sources": [
+        "https://www.middaysquares.com/"
+      ]
+    },
+    "#f1f0ef": {
+      "count": 2,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#7a7a7a": {
+      "count": 2,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#6b6b6b": {
+      "count": 2,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#ffffff99": {
+      "count": 2,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#3a3a3a": {
+      "count": 2,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#606060": {
+      "count": 2,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 2,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#fff8f8": {
+      "count": 2,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#101010b3": {
+      "count": 2,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#ff2c1f": {
+      "count": 1,
+      "sources": [
+        "https://www.middaysquares.com/"
+      ]
+    },
+    "#367b2f": {
+      "count": 1,
+      "sources": [
+        "https://www.middaysquares.com/"
+      ]
+    },
+    "#fff9e2": {
+      "count": 1,
+      "sources": [
+        "https://www.middaysquares.com/"
+      ]
+    },
+    "#6fdde4": {
+      "count": 1,
+      "sources": [
+        "https://www.middaysquares.com/"
+      ]
+    },
+    "#c30505": {
+      "count": 1,
+      "sources": [
+        "https://www.middaysquares.com/"
+      ]
+    },
+    "#e32722": {
+      "count": 1,
+      "sources": [
+        "https://www.middaysquares.com/"
+      ]
+    },
+    "#efe1d4": {
+      "count": 1,
+      "sources": [
+        "https://www.middaysquares.com/"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 1,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#a1a1a1": {
+      "count": 1,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#8a8a8a": {
+      "count": 1,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#757575": {
+      "count": 1,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#f0eded": {
+      "count": 1,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 1,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#565959": {
+      "count": 1,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "#111111": {
+      "count": 1,
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    }
+  },
+  "font_families": {
+    "ABCROM-Book-Trial": [
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "ABCROMCondensed-Bold-Trial": [
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "ABCROMCondensed-Regular-Trial": [
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "ABCROMExtended-Heavy-Trial": [
+      "https://www.middaysquares.com/",
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "ABCROMMono-Regular-Trial": [
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "Arial": [
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "Consolas": [
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "GT America Compressed Black Italic": [
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "GT America Compressed Medium": [
+      "https://www.middaysquares.com/",
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "GT America Standard": [
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "GT-AMERICA-CONDENSED-BOLD-TRIAL": [
+      "https://www.middaysquares.com/"
+    ],
+    "GT-AMERICA-EXTENDED-BLACK-TRIAL": [
+      "https://www.middaysquares.com/"
+    ],
+    "GT-AMERICA-STANDARD-BOLD-TRIAL": [
+      "https://www.middaysquares.com/"
+    ],
+    "GT-AMERICA-STANDARD-MEDIUM-TRIAL": [
+      "https://www.middaysquares.com/"
+    ],
+    "GT-AMERICA-STANDARD-REGULAR-TRIAL": [
+      "https://www.middaysquares.com/"
+    ],
+    "GT-America-Condensed-Black-Trial": [
+      "https://www.middaysquares.com/",
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "GT-America-Condensed-Bold-Trial": [
+      "https://www.middaysquares.com/",
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "GT-America-Condensed-Medium-Trial": [
+      "https://www.middaysquares.com/",
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "GT-America-Expanded-Black-Trial": [
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "GT-America-Expanded-Bold-Italic": [
+      "https://www.middaysquares.com/",
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "GT-America-Extended-Black-Trial": [
+      "https://www.middaysquares.com/",
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "GT-America-Mono-Light": [
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "GT-America-Mono-Medium-Trial": [
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "GT-America-Mono-Regular-Trial": [
+      "https://www.middaysquares.com/",
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "GT-America-Standard-Black-Trial": [
+      "https://www.middaysquares.com/",
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "GT-America-Standard-Bold-Trial": [
+      "https://www.middaysquares.com/",
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "GT-America-Standard-Medium-Trial": [
+      "https://www.middaysquares.com/",
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "GT-America-Standard-Regular-Trial": [
+      "https://www.middaysquares.com/",
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "Helvetica": [
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "Helvetica Neue": [
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "HelveticaNeue": [
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "M12 Mach Biker": [
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "NaNHolo-Black": [
+      "https://www.middaysquares.com/",
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "NaNHolo-Bold": [
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "NaNHolo-black": [
+      "https://www.middaysquares.com/"
+    ],
+    "RobotoMono-Medium": [
+      "https://www.middaysquares.com/",
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "\\b3cb\\c6c0": [
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "\\ff4d\\ff53  \\ff50\\30b4\\30b7\\30c3\\30af": [
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "arial": [
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "avenir-lt-w01_85-heavy1475544": [
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "dotum": [
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "helvetica": [
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "lulo-clean-w01-one-bold": [
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "monospace": [
+      "https://www.middaysquares.com/",
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "ms pgothic": [
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "object-fit: contain": [
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "object-fit: cover": [
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "sans-serif": [
+      "https://www.middaysquares.com/",
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "sans-serif!important": [
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "slick-icons": [
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ],
+    "system-ui": [
+      "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.middaysquares.com/",
+      "selector": ".btn--link",
+      "declarations": "color: white;"
+    },
+    {
+      "source": "https://www.middaysquares.com/",
+      "selector": ".site-header__cart-count",
+      "declarations": "display: flex;\n    align-items: center;\n    justify-content: center;\n    position: absolute;\n    right: -.6rem;\n    top: -0.5rem;\n    font-weight: 700;\n    background-color: #eb1822;\n    color: #fff;\n    border-radius: 50%;\n    min-width: 1em;\n    height: 1em;"
+    },
+    {
+      "source": "https://www.middaysquares.com/",
+      "selector": ".btn--link",
+      "declarations": "color: black;"
+    },
+    {
+      "source": "https://www.middaysquares.com/",
+      "selector": ".footer-header-mobile",
+      "declarations": "width: 100%;\n        padding: 0.1em 1em 1em 1em;\n        background: none;\n        border: none;\n        font-size: 1em;\n        font-weight: bold;\n        text-align: left;\n        display: flex;\n        justify-content: space-between;\n        align-items: center;\n        cursor: pointer;\n        font-family: 'GT-AMERICA-CONDENSED-BOLD-TRIAL';"
+    },
+    {
+      "source": "https://www.middaysquares.com/",
+      "selector": ".small_title_header",
+      "declarations": "margin-top: 50px;\n    font-size: 0.34em;\n    line-height: 2em;\n    font-weight: 400;\n    font-family: 'GT-AMERICA-STANDARD-MEDIUM-TRIAL';"
+    },
+    {
+      "source": "https://www.middaysquares.com/",
+      "selector": ".small_title_header_French",
+      "declarations": "font-weight: 800;\n    font-family: 'NaNHolo-Black';"
+    },
+    {
+      "source": "https://www.middaysquares.com/",
+      "selector": ".btn_collection",
+      "declarations": "align-self: center;\n    padding: 0.4em 4em 0.4em 4em;\n    background: white;\n    color: white;\n    text-decoration: none;\n    font-weight: 800;\n    border: 1px solid black;\n    border-radius: 8px;\n    text-align: center;\n    text-transform: uppercase;\n    font-size: 1.4em;\n    font-family: 'ABCROMExtended-Heavy-Trial';\n    margin-top: 0em;\n    padding: 10px 12px;\n    width: 12.87em;\n    background: black;\n    border: 0px;"
+    },
+    {
+      "source": "https://www.middaysquares.com/",
+      "selector": ".btn_collection:hover",
+      "declarations": "color: white !important;\n    background: #F72901 !important;"
+    },
+    {
+      "source": "https://www.middaysquares.com/",
+      "selector": ".product_closeup_top_text",
+      "declarations": "font-family: 'NaNHolo-Black';\n    text-align: center;\n    color: rgb(202, 23, 42);\n\t-webkit-text-stroke: 3px rgb(247, 205, 5);\n    font-size: 10.8em;\n    line-height: 0.95;"
+    },
+    {
+      "source": "https://www.middaysquares.com/",
+      "selector": ".play-button::before",
+      "declarations": "content: \"\";\n  border-style: solid;\n  border-width: 15px 0 15px 25px; \n  border-color: transparent transparent transparent rgba(0,0,0,0.9);\n  display: block;\n  margin-left: 5px;"
+    },
+    {
+      "source": "https://www.middaysquares.com/",
+      "selector": ".btn_collection",
+      "declarations": "font-size: 0.7em;\n        border-radius: 6px;\n        width: 9.8em;\n        padding: 8px 2px 5px 2px;\n        color: white;\n        background: black;"
+    },
+    {
+      "source": "https://www.middaysquares.com/",
+      "selector": ".footer_column ul li a:hover .btn_collection:hover",
+      "declarations": "background: #C30505;\n    color: white !important;"
+    },
+    {
+      "source": "https://www.middaysquares.com/",
+      "selector": ".newsletter_column .newsletter_form button",
+      "declarations": "padding: 8px;\n    background-color: transparent;\n    color: black;\n    border: 1px solid darkgray;\n    border-radius: 0 4px 4px 0;\n    cursor: pointer;\n    margin: 0;\n    text-transform: uppercase;\n    font-weight: 500;\n    min-width: 8em;\n    letter-spacing: 0.1em;"
+    },
+    {
+      "source": "https://www.middaysquares.com/",
+      "selector": ".newsletter_column .newsletter_form button:hover",
+      "declarations": "background: black;\n  color: white !important;"
+    },
+    {
+      "source": "https://www.middaysquares.com/",
+      "selector": ".footer-header-mobile",
+      "declarations": "width: 100%;\n        padding: 0.1em 1em 1em 1em;\n        background: none;\n        border: none;\n        font-size: 1em;\n        font-weight: bold;\n        text-align: left;\n        display: flex;\n        justify-content: space-between;\n        align-items: center;\n        cursor: pointer;\n        font-family: 'GT-AMERICA-CONDENSED-BOLD-TRIAL';"
+    },
+    {
+      "source": "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970",
+      "selector": ".slick-dots li button,.slick-dots li a",
+      "declarations": "border:0;background:transparent;display:block;height:20px;width:20px;line-height:0px;font-size:0px;color:transparent;padding:5px;cursor:pointer"
+    },
+    {
+      "source": "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970",
+      "selector": ".slick-dots li button:before,.slick-dots li a:before",
+      "declarations": "position:absolute;top:0;left:0;content:\"\\2022\";width:20px;height:20px;font-family:\"slick-icons, sans-serif\";font-size:6px;line-height:20px;text-align:center;color:#fff;opacity:.25;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale"
+    },
+    {
+      "source": "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970",
+      "selector": ".slick-dots li.slick-active button:before",
+      "declarations": "color:#fff;opacity:.75"
+    },
+    {
+      "source": "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970",
+      "selector": "button,input,optgroup,select,.disclosure__toggle,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0"
+    },
+    {
+      "source": "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970",
+      "selector": "body,html",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970",
+      "selector": "body,input,textarea,button,select,.disclosure__toggle",
+      "declarations": "font-size:15px;font-family:Helvetica,Arial,sans-serif;font-style:normal;font-weight:400;color:#101010;line-height:1.5"
+    },
+    {
+      "source": "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970",
+      "selector": "h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6",
+      "declarations": "margin:0 0 17.5px;font-family:Helvetica,Arial,sans-serif;font-style:normal;font-weight:700;line-height:1.2;overflow-wrap:break-word;word-wrap:break-word"
+    },
+    {
+      "source": "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970",
+      "selector": "h1 a,.h1 a,h2 a,.h2 a,h3 a,.h3 a,h4 a,.h4 a,h5 a,.h5 a,h6 a,.h6 a",
+      "declarations": "color:inherit;text-decoration:none;font-weight:inherit"
+    },
+    {
+      "source": "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970",
+      "selector": ".h3,.h4,h1,.h1,h2,.h2",
+      "declarations": "font-family:GT America Compressed Black Italic;text-transform:uppercase"
+    },
+    {
+      "source": "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970",
+      "selector": ".custom-button",
+      "declarations": "background-color:#eb1822;color:#fff;padding:15px 40px!important;margin-bottom:20px;width:250px!important;font-size:12px!important"
+    },
+    {
+      "source": "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970",
+      "selector": ".custom-home-header",
+      "declarations": "text-align:center;color:#2f2e2e;font-family:Arial,Helvetica,sans-serif;font-size:16px;padding-top:40px;padding-bottom:40px;border-bottom:4px solid black;margin-bottom:60px"
+    },
+    {
+      "source": "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970",
+      "selector": ".custom-home-underlined-button",
+      "declarations": "font-size:22px;color:#000;text-decoration:underline;font-weight:550;font-family:GT America Compressed Black Italic;text-transform:uppercase"
+    },
+    {
+      "source": "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970",
+      "selector": ".cart-page-custom-section-header",
+      "declarations": "padding-top:20px;padding-bottom:15px;border-bottom:1px solid rgba(65,65,65,.2);color:#414141;font: 15px/1.4em proxima-n-w01-reg,sans-serif;opacity:.95"
+    },
+    {
+      "source": "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970",
+      "selector": ".custom-article-header",
+      "declarations": "font: 40px/1.4em proxima-n-w01-reg,sans-serif;color:#414141;font-size:30px;font-weight:550;margin-left:3%;margin-right:3%;margin-bottom:30px"
+    },
+    {
+      "source": "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970",
+      "selector": ".pcquestion-header",
+      "declarations": "font-family:avenir-lt-w01_85-heavy1475544,sans-serif;color:#000;margin-left:4%;font-weight:550;font-size:30px"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Mid-Day Squares",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.middaysquares.com/",
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.middaysquares.com/",
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.middaysquares.com/",
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970",
+        "https://www.middaysquares.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970",
+        "https://www.middaysquares.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.middaysquares.com/",
+        "https://www.middaysquares.com/cdn/shop/t/3/assets/theme.scss.css?v=75347121344038718451769157970",
+        "https://www.middaysquares.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.middaysquares.com/"
+      ]
+    },
+    "colors.accent-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.middaysquares.com/"
+      ]
+    },
+    "colors.flavor-purple": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.middaysquares.com/"
+      ]
+    },
+    "colors.flavor-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.middaysquares.com/"
+      ]
+    },
+    "colors.flavor-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.middaysquares.com/"
+      ]
+    },
+    "colors.flavor-cyan": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.middaysquares.com/"
+      ]
+    },
+    "colors.flavor-yellow": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.middaysquares.com/"
+      ]
+    },
+    "colors.flavor-orange": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.middaysquares.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.flavor-selector": {
+      "status": "inferred"
+    }
+  }
+}

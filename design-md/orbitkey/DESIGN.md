@@ -1,9 +1,13 @@
 ---
 version: alpha
-name: Orbitkey
-description: A single marigold stripe (#ffcf2a) cuts through an otherwise near-monochrome system — it appears on the primary CTA, as the thin 2px underline beneath active nav links, and as the column heading color inside a dark navy footer, while every surrounding surface holds to a charcoal-to-off-white band from #373737 down to #f8f8f8. Suisse Intl, the typeface of Swiss precision manufacturing, carries all text at near-zero letter-spacing: weight 700 for the wordmark and display headings, weight 600 for product names and CTAs, weight 400 for running copy — the scale is narrow by design, letting spatial hierarchy do what weight contrast might otherwise overwork. The secondary palette adds two chromatic punctuation marks: #3c55e4 (electric blue) marks sale callouts and interactive focus rings, while #b2f9e9 (mint) surfaces on eco-material badges and success confirmations — brief flashes of color in a system that otherwise earns its chromatic restraint.
+name: "Orbitkey"
+source_url: "https://www.orbitkey.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A single marigold stripe (#ffcf2a) cuts through an otherwise near-monochrome system — it appears on the primary CTA, as the thin 2px underline beneath active nav links, and as the column heading color inside a dark navy footer, while every surrounding surface holds to a charcoal-to-off-white band from #373737 down to #f8f8f8. Suisse Intl, the typeface of Swiss precision manufacturing, carries all text at near-zero letter-spacing: weight 700 for the wordmark and display headings, weight 600 for product names and CTAs, weight 400 for running copy — the scale is narrow by design, letting spatial hierarchy do what weight contrast might otherwise overwork. The secondary palette adds two chromatic punctuation marks: #3c55e4 (electric blue) marks sale callouts and interactive focus rings, while #b2f9e9 (mint) surfaces on eco-material badges and success confirmations — brief flashes of color in a system that otherwise earns its chromatic restraint.
 
-Product imagery sits at 1:1 on a #f4f4f4 near-white field that dissolves product edges into the background. Cards have no visible stroke at rest; hover lifts them 4px with a 200ms ease shadow. The grid runs 3-up on desktop, collapsing cleanly to 2-up on tablet and single-column on mobile. Component corners apply a consistent {rounded.sm} (8px) across cards, inputs, and modals — enough to signal modernity. Buttons are squarer at {rounded.xs} (4px), a deliberate step toward industrial, tool-grade precision. Navigation sits fixed over hero video in transparent mode, switching to a #f8f8f8 solid with a 1px {colors.hairline} bottom stroke on scroll. An announcement bar above the nav runs the only UI context where marigold appears as background: {colors.primary} text reversed on a {colors.navy} field. Micro-interactions are clipped at 150ms with no spring or overshoot — the same no-flourish signal that runs through every detail.
+  Product imagery sits at 1:1 on a #f4f4f4 near-white field that dissolves product edges into the background. Cards have no visible stroke at rest; hover lifts them 4px with a 200ms ease shadow. The grid runs 3-up on desktop, collapsing cleanly to 2-up on tablet and single-column on mobile. Component corners apply a consistent {rounded.sm} (8px) across cards, inputs, and modals — enough to signal modernity. Buttons are squarer at {rounded.xs} (4px), a deliberate step toward industrial, tool-grade precision. Navigation sits fixed over hero video in transparent mode, switching to a #f8f8f8 solid with a 1px {colors.hairline} bottom stroke on scroll. An announcement bar above the nav runs the only UI context where marigold appears as background: {colors.primary} text reversed on a {colors.navy} field. Micro-interactions are clipped at 150ms with no spring or overshoot — the same no-flourish signal that runs through every detail.
 
 colors:
   primary: "#ffcf2a"
@@ -390,6 +394,8 @@ components:
 - Hero video pauses and falls back to poster image on reduced-motion or low-bandwidth conditions
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact font weight availability within the Suisse Intl license not confirmed — fallbacks to Montserrat at matching weights are assumed; if Suisse Intl is not licensed, Montserrat at weight 500/600/700 closely approximates the proportions
 - The `oke-widget-icons` font found in the stack is a proprietary icon font (likely for the Okendo review widget) — icon naming, sizing, and usage conventions for Orbitkey's own UI icons not captured

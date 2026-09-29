@@ -1,0 +1,782 @@
+{
+  "source_url": "https://intelligentsia.com",
+  "final_url": "https://www.intelligentsia.com/",
+  "captured_at": "2026-09-29T04:00:30.301967+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://intelligentsia.com",
+      "final_url": "https://www.intelligentsia.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "40bbfaee351dd1ca0cf8975b9399aae17c6f4b7d645b0a9087d8e3ea61bd9b74",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://use.typekit.net/dbn3zui.css",
+      "final_url": "https://use.typekit.net/dbn3zui.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "56948961023ae875c03c078569989d784336f53e5d613f7c6ec79f6c4fc03452",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "final_url": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "cd74d5d365474b764fb01fc1c384b53bae923a664a3f86915bacab523c0270b3",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.intelligentsia.com/cdn/shop/t/435/assets/index.css?v=122549710376855856101786653975",
+      "final_url": "https://www.intelligentsia.com/cdn/shop/t/435/assets/index.css?v=122549710376855856101786653975",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6fe1fe96eb1c43bf94de27bf700e504663a9ebfada096f099537fe72268efdbb",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.intelligentsia.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.intelligentsia.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#2e2925": {
+      "count": 89,
+      "sources": [
+        "https://www.intelligentsia.com/",
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/index.css?v=122549710376855856101786653975"
+      ]
+    },
+    "#ffffff": {
+      "count": 73,
+      "sources": [
+        "https://www.intelligentsia.com/",
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/index.css?v=122549710376855856101786653975",
+        "https://www.intelligentsia.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#d42927": {
+      "count": 49,
+      "sources": [
+        "https://www.intelligentsia.com/",
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#7c6e65": {
+      "count": 33,
+      "sources": [
+        "https://www.intelligentsia.com/",
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#000000": {
+      "count": 20,
+      "sources": [
+        "https://www.intelligentsia.com/",
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#b4aea9": {
+      "count": 18,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#fefbf9": {
+      "count": 16,
+      "sources": [
+        "https://www.intelligentsia.com/",
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/index.css?v=122549710376855856101786653975"
+      ]
+    },
+    "#fcf4ed": {
+      "count": 5,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#ec4442": {
+      "count": 4,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#92867e": {
+      "count": 4,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#d90c1e": {
+      "count": 4,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/index.css?v=122549710376855856101786653975"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 3,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#666360": {
+      "count": 3,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#969492": {
+      "count": 3,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#c9bbaf": {
+      "count": 3,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#f9bf3a": {
+      "count": 2,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#60606026": {
+      "count": 2,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#f0e2d5": {
+      "count": 2,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#f9eddf": {
+      "count": 2,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#c0b9b4": {
+      "count": 2,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#0000004d": {
+      "count": 2,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#919191": {
+      "count": 2,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#00000080": {
+      "count": 2,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#e46e6c": {
+      "count": 2,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#949493": {
+      "count": 2,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#332822": {
+      "count": 2,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/index.css?v=122549710376855856101786653975"
+      ]
+    },
+    "#222222": {
+      "count": 2,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/index.css?v=122549710376855856101786653975"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#cf4839": {
+      "count": 1,
+      "sources": [
+        "https://www.intelligentsia.com/"
+      ]
+    },
+    "#c0847e": {
+      "count": 1,
+      "sources": [
+        "https://www.intelligentsia.com/"
+      ]
+    },
+    "#c82d2b": {
+      "count": 1,
+      "sources": [
+        "https://www.intelligentsia.com/"
+      ]
+    },
+    "#b4aea980": {
+      "count": 1,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#2e8b57": {
+      "count": 1,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#60606080": {
+      "count": 1,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#fdf8f4": {
+      "count": 1,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#0000ff": {
+      "count": 1,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#ffffff40": {
+      "count": 1,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#858585": {
+      "count": 1,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#d8d0ca": {
+      "count": 1,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#cc2027": {
+      "count": 1,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#faf6f2": {
+      "count": 1,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#0000000d": {
+      "count": 1,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "#ed0002": {
+      "count": 1,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/index.css?v=122549710376855856101786653975"
+      ]
+    },
+    "#d8d8d8": {
+      "count": 1,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/index.css?v=122549710376855856101786653975"
+      ]
+    },
+    "#41241c": {
+      "count": 1,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/index.css?v=122549710376855856101786653975"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "alternate-gothic-atf": [
+      "https://use.typekit.net/dbn3zui.css"
+    ],
+    "alternate-gothic-atf-thin": [
+      "https://use.typekit.net/dbn3zui.css"
+    ],
+    "alternate-gothic-condensed-a": [
+      "https://use.typekit.net/dbn3zui.css"
+    ],
+    "mixta-pro": [
+      "https://use.typekit.net/dbn3zui.css"
+    ],
+    "monospace": [
+      "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+    ],
+    "rotunda-variable": [
+      "https://use.typekit.net/dbn3zui.css",
+      "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+    ],
+    "sans-serif": [
+      "https://use.typekit.net/dbn3zui.css",
+      "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "https://www.intelligentsia.com/cdn/shop/t/435/assets/index.css?v=122549710376855856101786653975"
+    ],
+    "sans-serif!important": [
+      "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+    ],
+    "serif": [
+      "https://use.typekit.net/dbn3zui.css"
+    ],
+    "urw-din": [
+      "https://www.intelligentsia.com/",
+      "https://use.typekit.net/dbn3zui.css",
+      "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "https://www.intelligentsia.com/cdn/shop/t/435/assets/index.css?v=122549710376855856101786653975"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.intelligentsia.com/",
+      "selector": "#navMobile .header__flava-copy",
+      "declarations": "color: #FFFFFF;\n   background-color: #d42927"
+    },
+    {
+      "source": "https://www.intelligentsia.com/",
+      "selector": "display: none;\n\n  #header .header__flava",
+      "declarations": "color: #FFFFFF;\n    background-color: #d42927;"
+    },
+    {
+      "source": "https://www.intelligentsia.com/",
+      "selector": "background-color: #c82d2b;\ncolor: #ffffff;\ndisplay:none;\n\n  #navMobile .header__flava-copy",
+      "declarations": "color: #FFFFFF;\n   background-color: #d42927"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;line-height:1.15;margin:0"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": "body",
+      "declarations": "margin:0;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;background-color:#fff;color:#2e2925;font-family:rotunda-variable,sans-serif;font-weight:400;overflow-y:scroll"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "font-family:urw-din,sans-serif;font-weight:400;margin:.625rem 0"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn",
+      "declarations": "background-color:#2e2925;border:1px solid transparent;border-radius:0;color:#fff;display:inline-block;font-family:urw-din,sans-serif;font-size:.875rem;font-weight:400;line-height:1.125rem;padding:1rem 1.5rem .875rem;letter-spacing:.5px;text-align:center;-webkit-transition:font-size .4s ease-in-out,padding .4s ease-in-out,color .4s ease-in-out;transition:font-size .4s ease-in-out,padding .4s ease-in-out,color .4s ease-in-out"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn__label",
+      "declarations": "display:inline-block;color:#7c6e65;-webkit-transition:opacity .2s ease-in-out,-webkit-transform .2s ease-in-out;transition:opacity .2s ease-in-out,transform .2s ease-in-out,-webkit-transform .2s ease-in-out"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn__label--new",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn.disabled,.btn:disabled",
+      "declarations": "background-color:#e0e0e0;color:#92867e"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn.is-loading",
+      "declarations": "position:relative;color:transparent"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn--primary,.shopify-challenge__button",
+      "declarations": "background-color:#d42927;color:#fff;-webkit-transition:background-color .2s ease-in-out,color .2s ease-in-out;transition:background-color .2s ease-in-out,color .2s ease-in-out"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn--primary.disabled,.btn--primary:disabled,.disabled.shopify-challenge__button,.shopify-challenge__button:disabled",
+      "declarations": "background-color:#e0e0e0;color:#666360;cursor:default"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn--primary:focus:not(.footer__submit),.btn--primary:hover,.shopify-challenge__button:focus:not(.footer__submit),.shopify-challenge__button:hover",
+      "declarations": "background-color:#2e2925;color:#fff"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn--secondary",
+      "declarations": "background-color:transparent;border:1px solid #2e2925;color:#2e2925;-webkit-transition:background-color .2s ease-in-out,border-color .2s ease-in-out,color .2s ease-in-out;transition:background-color .2s ease-in-out,border-color .2s ease-in-out,color .2s ease-in-out"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn--secondary:focus,.btn--secondary:hover",
+      "declarations": "background-color:#2e2925;border-color:#2e2925;color:#fff"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn--secondary.disabled,.btn--secondary:disabled",
+      "declarations": "background-color:transparent;border-color:#e0e0e0;color:#969492;cursor:default"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn--tertiary",
+      "declarations": "background-color:#fff;color:#2e2925;-webkit-transition:background-color .2s ease-in-out,border-color .2s ease-in-out,color .2s ease-in-out;transition:background-color .2s ease-in-out,border-color .2s ease-in-out,color .2s ease-in-out"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn--tertiary:focus,.btn--tertiary:hover",
+      "declarations": "background-color:#2e2925;border-color:#2e2925;color:#fff"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn--quaternary",
+      "declarations": "background-color:transparent;border:1px solid #fff;color:#fff;-webkit-transition:background-color .2s ease-in-out,color .2s ease-in-out;transition:background-color .2s ease-in-out,color .2s ease-in-out"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn--quaternary:focus,.btn--quaternary:hover",
+      "declarations": "background-color:#fff;color:#2e2925"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn-link",
+      "declarations": "background-color:transparent;border:0;color:#2e2925;font-family:urw-din,sans-serif;padding:0;-webkit-transition:color .2s ease-in-out;transition:color .2s ease-in-out"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn-link:focus,.btn-link:hover",
+      "declarations": "color:#000"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".btn-icon",
+      "declarations": "background-color:transparent;border:0;cursor:pointer;padding:0"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".header__bag-count",
+      "declarations": "position:absolute;bottom:.5625rem;left:.4375rem;background:#d42927;color:#fff;border-radius:1.125rem;font-family:urw-din,sans-serif;font-size:.875rem;line-height:1.0625rem;width:1.125rem;height:1.125rem;text-align:center"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".header .btn--primary:focus:not(.footer__submit),.header .btn--primary:hover,.header .shopify-challenge__button:focus:not(.footer__submit),.header .shopify-chal",
+      "declarations": "background-color:#2e2925!important;color:#fff!important"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".header-banner",
+      "declarations": "background-color:#f9bf3a;opacity:0;-webkit-transition:.4s ease-in-out;transition:.4s ease-in-out;visibility:hidden"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".header-banner__ie",
+      "declarations": "background-color:#f9bf3a;display:none"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".subheader",
+      "declarations": "width:100%;-webkit-box-shadow:0 0 5px 0 rgba(96,96,96,.15),0 0 5px 0 rgba(96,96,96,.5);box-shadow:0 0 5px #60606026,0 0 5px #60606080;background-color:#fdf8f4;z-index:10;position:fixed;top:-5px;-webkit-transition:top .2s ease-in-out;transition:top .2s ease-in-out;height:3.125rem"
+    },
+    {
+      "source": "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+      "selector": ".subheader__item",
+      "declarations": "font-family:urw-din,sans-serif;font-size:.875rem;letter-spacing:.03125rem;white-space:nowrap;color:#2e2925;padding-bottom:0"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Single Origin Coffee | Intelligentsia | Fresh Roasted Coffee",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.intelligentsia.com/",
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.intelligentsia.com/",
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/index.css?v=122549710376855856101786653975"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.intelligentsia.com/",
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/index.css?v=122549710376855856101786653975"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.intelligentsia.com/",
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/index.css?v=122549710376855856101786653975",
+        "https://www.intelligentsia.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.intelligentsia.com/",
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/index.css?v=122549710376855856101786653975"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.intelligentsia.com/",
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.intelligentsia.com/",
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/index.css?v=122549710376855856101786653975",
+        "https://www.intelligentsia.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.disabled-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "colors.disabled-text": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "colors.disabled-text-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "colors.border-secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.intelligentsia.com/",
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025",
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/index.css?v=122549710376855856101786653975"
+      ]
+    },
+    "colors.accent-warm": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.intelligentsia.com/cdn/shop/t/435/assets/style.css?v=167328066320090697411786654025"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.subscription-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Jackson & Perkins
-description: |
+name: "Jackson & Perkins"
+source_url: "https://www.jacksonandperkins.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Deep nursery green (#336633) wraps the Jackson & Perkins header like the waxed canvas of a gardener's apron — earthy, institutional, unmistakably horticultural. Founded in 1872, the brand's digital presence leans on a dense spectrum of greens rather than a single hero hue: the primary #336633 anchors navigation and primary CTAs, while a family of foliage tones (#3b7528, #508632, #48822e, #286510) cascade through category badges, seasonal banners, and hover states, echoing the layered canopy of a well-planted border. Rose red (#cc0000) appears not as a generic sale color but as a deliberate nod to the company's signature hybrid teas, reserved for urgency signals — limited-availability callouts, clearance ribbons, and error states. A softer blush pink (#ffaacc) surfaces in gift-shop accents and Valentine's-season promotions, bridging the gap between the utilitarian greens and the romance the brand sells. A heritage gold (#d39e00) marks award badges and "Editor's Pick" labels, recalling the AARS (All-America Rose Selections) medallions that Jackson & Perkins varieties have collected for decades. Typography relies entirely on the system stack — Helvetica Neue falling back through Arial to sans-serif — set at comfortable reading sizes with moderate weights, letting the photography of blooms and garden vignettes do the visual work. Corners stay fairly squared: product cards use a gentle `{rounded.sm}` and buttons sit at `{rounded.xs}`, producing a catalog-like, editorial grid that avoids the bubbly pill shapes of lifestyle DTC brands. Spacing is generous but structured — `{spacing.section}` between major content blocks, `{spacing.lg}` gutters in the product grid — giving each rose variety room to breathe the way a proper planting plan spaces bushes 24 inches apart. The canvas is a warm off-white (#f5f5f5) rather than stark white, softening the dense green palette and reducing contrast fatigue during long browsing sessions through hundreds of cultivars. A pale sage surface (#e0ebcc) appears behind educational content blocks and care-tip callouts, tying informational sections back to the garden palette without competing with product imagery.
 
 colors:
@@ -508,6 +511,8 @@ components:
 - Breadcrumbs truncate to show only the parent category and current page on mobile, with a "..." link to expand the full trail.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom web fonts were detected; the site appears to rely entirely on system font stacks (Helvetica Neue, Arial, -apple-system). The brand may load a serif or display typeface via JavaScript or a deferred stylesheet that was not captured in static extraction. If a branded serif face exists (common for heritage garden brands), typography tokens should be updated accordingly.
 - The icon system uses FontAwesome, but specific icon choices and sizes per component could not be confirmed from extraction alone.

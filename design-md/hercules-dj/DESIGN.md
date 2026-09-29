@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Hercules DJ
-description: A high-voltage red (#c20e1a) cuts through a near-black (#202020) and charcoal (#3e3e3e) canvas, announcing that this is DJ hardware first and software second — the brand wears its pro-audio heritage in every saturated accent. That red, paired with a magenta shock (#f70f5d) and an amber pulse (#f0d039), creates a three-stop traffic light of urgency: red for record, amber for cue, magenta for effect. The typography stack defaults to system sans (Arial, Helvetica, Segoe UI) — no custom typeface, which suggests the brand prioritizes loading speed and cross-platform legibility over typographic personality. Buttons carry {rounded.sm} corners — not pill-shaped, not square — a deliberate middle ground that feels industrial without being hostile. The product grid uses generous {spacing.lg} gutters and {rounded.md} cards on a white (#ffffff) or near-white (#f9f9f9) surface, letting the gear photography do the selling. A secondary blue (#0078d4) appears in utility links and info badges, while green (#00d084) marks "in stock" states. The overall mood is club-ready but not flashy — the reds are the headliners, the grays are the stage crew, and the gold (#c49c48) is reserved for limited-edition or pro-series callouts.
+name: "Hercules DJ"
+source_url: "https://www.hercules.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A high-voltage red (#c20e1a) cuts through a near-black (#202020) and charcoal (#3e3e3e) canvas, announcing that this is DJ hardware first and software second — the brand wears its pro-audio heritage in every saturated accent. That red, paired with a magenta shock (#f70f5d) and an amber pulse (#f0d039), creates a three-stop traffic light of urgency: red for record, amber for cue, magenta for effect. The typography stack defaults to system sans (Arial, Helvetica, Segoe UI) — no custom typeface, which suggests the brand prioritizes loading speed and cross-platform legibility over typographic personality. Buttons carry {rounded.sm} corners — not pill-shaped, not square — a deliberate middle ground that feels industrial without being hostile. The product grid uses generous {spacing.lg} gutters and {rounded.md} cards on a white (#ffffff) or near-white (#f9f9f9) surface, letting the gear photography do the selling. A secondary blue (#0078d4) appears in utility links and info badges, while green (#00d084) marks "in stock" states. The overall mood is club-ready but not flashy — the reds are the headliners, the grays are the stage crew, and the gold (#c49c48) is reserved for limited-edition or pro-series callouts.
 
 colors:
   primary: "#c20e1a"
@@ -285,6 +289,8 @@ components:
 - Footer columns collapse to a single vertical list below 744px.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for most components could not be reliably extracted from the live site; the values above are inferred from common patterns.
 - Error styling for form inputs (validation colors, error messages) was not observed.

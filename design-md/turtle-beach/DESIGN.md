@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Turtle Beach
-description: A dark, aggressive gaming-hardware brand that lives in the black of #121212 and the electric purple of #7538ff — the primary voltage that fires every CTA, badge, and category highlight. The brand's visual system is built on high-contrast layers: a near-black canvas (#121212), a slightly lifted surface (#1a1f26), and a mid-tone card surface (#232a34) that creates depth without relying on shadows. The purple (#7538ff) is the single brand signal, appearing on primary buttons, active navigation states, and promotional accents, with a hover state that deepens to #660bfd. Secondary accents of hot pink (#f83b78) and cyan (#4dfce0) appear on limited-edition products and sale badges, while the typography system relies on a proprietary Turtle Beach SW family in multiple weights — Light, Medium, and Bold — with Noto Sans as the primary fallback. Buttons are sharply rectangular with {rounded.sm} corners, never pill-shaped, communicating precision and readiness. The nav bar is a full-width dark band (#121212) with white text and a sticky search icon, while product cards use a subtle {rounded.md} radius on a #232a34 surface with white body text (#e6e8ef) and muted secondary copy (#919db1). The brand's voice is direct and competitive — "Hear Everything. Defeat Everyone." — and the design system follows suit: no decorative flourishes, no soft gradients, just high-contrast blocks of color, bold typography, and a relentless focus on gaming performance.
+name: "Turtle Beach"
+source_url: "https://www.turtlebeach.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A dark, aggressive gaming-hardware brand that lives in the black of #121212 and the electric purple of #7538ff — the primary voltage that fires every CTA, badge, and category highlight. The brand's visual system is built on high-contrast layers: a near-black canvas (#121212), a slightly lifted surface (#1a1f26), and a mid-tone card surface (#232a34) that creates depth without relying on shadows. The purple (#7538ff) is the single brand signal, appearing on primary buttons, active navigation states, and promotional accents, with a hover state that deepens to #660bfd. Secondary accents of hot pink (#f83b78) and cyan (#4dfce0) appear on limited-edition products and sale badges, while the typography system relies on a proprietary Turtle Beach SW family in multiple weights — Light, Medium, and Bold — with Noto Sans as the primary fallback. Buttons are sharply rectangular with {rounded.sm} corners, never pill-shaped, communicating precision and readiness. The nav bar is a full-width dark band (#121212) with white text and a sticky search icon, while product cards use a subtle {rounded.md} radius on a #232a34 surface with white body text (#e6e8ef) and muted secondary copy (#919db1). The brand's voice is direct and competitive — "Hear Everything. Defeat Everyone." — and the design system follows suit: no decorative flourishes, no soft gradients, just high-contrast blocks of color, bold typography, and a relentless focus on gaming performance.
 
 colors:
   primary: "#7538ff"
@@ -357,6 +361,8 @@ components:
 - Search bar may collapse to icon-only below 480px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and active states for many components (text-input, quantity-selector, footer links) are inferred from common patterns rather than extracted from live site CSS
 - Error styling for form inputs (border color, error message typography) not extracted

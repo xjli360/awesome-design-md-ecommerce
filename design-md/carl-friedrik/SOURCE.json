@@ -1,0 +1,575 @@
+{
+  "source_url": "https://carlfriedrik.com",
+  "final_url": "https://www.carlfriedrik.com/",
+  "captured_at": "2026-09-28T09:30:14.361791+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://carlfriedrik.com",
+      "final_url": "https://www.carlfriedrik.com/",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "936726c802218dd8b025e90b9d15bf58865b22e45c262f81d5943ec7c213abe9",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/fonts-DLrZlCWV.css",
+      "final_url": "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/fonts-DLrZlCWV.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9d6200c3c8aa183a38b4de507057af49d6bdf13495b1f8033efc5d05b765ee72",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css",
+      "final_url": "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ff825f1240ff3420abc79a2b57d41293e301127cf73056f7e7ea688634533bd8",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 28,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 6,
+      "sources": [
+        "https://www.carlfriedrik.com/",
+        "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css"
+      ]
+    },
+    "#676986": {
+      "count": 5,
+      "sources": [
+        "https://www.carlfriedrik.com/"
+      ]
+    },
+    "#dbd5cd": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css"
+      ]
+    },
+    "#00000066": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css"
+      ]
+    },
+    "#000000": {
+      "count": 3,
+      "sources": [
+        "https://www.carlfriedrik.com/",
+        "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css"
+      ]
+    },
+    "#dbdde4": {
+      "count": 3,
+      "sources": [
+        "https://www.carlfriedrik.com/"
+      ]
+    },
+    "#0000004d": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css"
+      ]
+    },
+    "#272d45": {
+      "count": 2,
+      "sources": [
+        "https://www.carlfriedrik.com/"
+      ]
+    },
+    "#393939": {
+      "count": 2,
+      "sources": [
+        "https://www.carlfriedrik.com/"
+      ]
+    },
+    "#333333": {
+      "count": 2,
+      "sources": [
+        "https://www.carlfriedrik.com/"
+      ]
+    },
+    "#646060": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css"
+      ]
+    },
+    "#33333373": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css"
+      ]
+    },
+    "#1e1e1e": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css"
+      ]
+    },
+    "#f7f7f8": {
+      "count": 1,
+      "sources": [
+        "https://www.carlfriedrik.com/"
+      ]
+    },
+    "#f4f4f6": {
+      "count": 1,
+      "sources": [
+        "https://www.carlfriedrik.com/"
+      ]
+    },
+    "#e5e5eb": {
+      "count": 1,
+      "sources": [
+        "https://www.carlfriedrik.com/"
+      ]
+    },
+    "#bcbcbc": {
+      "count": 1,
+      "sources": [
+        "https://www.carlfriedrik.com/"
+      ]
+    },
+    "#9a9db1": {
+      "count": 1,
+      "sources": [
+        "https://www.carlfriedrik.com/"
+      ]
+    },
+    "#d3d4dd": {
+      "count": 1,
+      "sources": [
+        "https://www.carlfriedrik.com/"
+      ]
+    },
+    "#727a72": {
+      "count": 1,
+      "sources": [
+        "https://www.carlfriedrik.com/"
+      ]
+    },
+    "#fafafa": {
+      "count": 1,
+      "sources": [
+        "https://www.carlfriedrik.com/"
+      ]
+    },
+    "#b2f9e9": {
+      "count": 1,
+      "sources": [
+        "https://www.carlfriedrik.com/"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 1,
+      "sources": [
+        "https://www.carlfriedrik.com/"
+      ]
+    },
+    "#faf8f5": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css"
+      ]
+    },
+    "#c7b39f": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css"
+      ]
+    },
+    "#9e9993": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css"
+      ]
+    },
+    "#5f261b": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css"
+      ]
+    },
+    "#273816": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css"
+      ]
+    },
+    "#c56710": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css"
+      ]
+    },
+    "#9a0038": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css"
+      ]
+    },
+    "#9e999366": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css"
+      ]
+    },
+    "#dbd5cd4d": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css"
+      ]
+    },
+    "#dbd5cd80": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css"
+      ]
+    },
+    "#dbd5cdb3": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css"
+      ]
+    },
+    "#ffffffb3": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css"
+      ]
+    },
+    "#00000026": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css"
+      ]
+    }
+  },
+  "font_families": {
+    "grotesk": [
+      "https://www.carlfriedrik.com/",
+      "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/fonts-DLrZlCWV.css"
+    ],
+    "grotesk-condensed": [
+      "https://www.carlfriedrik.com/",
+      "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/fonts-DLrZlCWV.css"
+    ],
+    "grotesk-condensed-fallback": [
+      "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/fonts-DLrZlCWV.css"
+    ],
+    "grotesk-fallback": [
+      "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/fonts-DLrZlCWV.css"
+    ],
+    "grotesk-fallback!important": [
+      "https://www.carlfriedrik.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.carlfriedrik.com/",
+      "selector": ".CybotCookiebotDialogBodyButton",
+      "declarations": "background:transparent!important;color:#000!important;font-weight:400!important;border-radius:0!important;border:1px solid!important;width:100%!important;margin:0!important"
+    },
+    {
+      "source": "https://www.carlfriedrik.com/",
+      "selector": ":root",
+      "declarations": "--oke-widget-spaceAbove:20px;--oke-widget-spaceBelow:20px;--oke-starRating-spaceAbove:0;--oke-starRating-spaceBelow:0;--oke-button-backgroundColor:#f7f7f8;--oke-button-backgroundColorHover:#f4f4f6;--oke-button-backgroundColorActive:#676986;--oke-button-textColor:#272d45;--oke-button-textColorHover:#272d45;--oke-button-textColorActive:#fff;--oke-button-borderColor:#dbdde4;--oke-button-borderColorHover:#dbdde4;--oke-button-borderColorActive:#676986;--oke-button-borderRadius:4px;--oke-button-borderWidth:1px;--oke-button-fontWeight:600;--oke-button-fontSize:15px;--oke-button-fontFamily:bau-medium,sans-serif;--oke-border-color:#e5e5eb;--oke-border-width:1px;--oke-text-primaryColor:#393939;--oke-t"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css",
+      "selector": "button,input,select,optgroup,textarea",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css",
+      "selector": "::file-selector-button",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css",
+      "selector": "::file-selector-button",
+      "declarations": "border-color:var(--color-gray-200,currentcolor)"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css",
+      "selector": "body",
+      "declarations": "background-color:var(--color-white);font-family:var(--font-grotesk);font-size:var(--text-base);line-height:var(--tw-leading,var(--text-base--line-height));--tw-leading:var(--leading-snug);line-height:var(--leading-snug);color:var(--color-black);-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;accent-color:var(--color-black);-webkit-tap-highlight-color:transparent;text-rendering:optimizeSpeed;line-height:1.35rem"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css",
+      "selector": "h1,h2,h3",
+      "declarations": "--tw-leading:var(--leading-tight);line-height:var(--leading-tight)"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css",
+      "selector": ".btn",
+      "declarations": "cursor:pointer;width:100%;padding:calc(var(--spacing)*5);text-align:center;vertical-align:middle;--tw-leading:1;--tw-font-weight:var(--font-weight-normal);line-height:1;font-weight:var(--font-weight-normal);transition-property:color,background-color,border-color,outline-color,text-decoration-color,fill,stroke,--tw-gradient-from,--tw-gradient-via,--tw-gradient-to,opacity,box-shadow,transform,translate,scale,rotate,filter,-webkit-backdrop-filter,backdrop-filter,display,visibility,content-visibility,overlay,pointer-events;transition-timing-function:var(--tw-ease,var(--default-transition-timing-function));transition-duration:var(--tw-duration,var(--default-transition-duration));-webkit-user-sele"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css",
+      "selector": ".btn-white",
+      "declarations": "border-style:var(--tw-border-style);--tw-border-style:solid;border-style:solid;border-width:1px;border-color:var(--color-mushroom);background-color:var(--color-white);color:var(--color-black)"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css",
+      "selector": ".btn-rust",
+      "declarations": "background-color:var(--color-rust);color:var(--color-white)"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css",
+      "selector": ".md\\:translate-y-\\[calc\\(var\\(--header-offset\\)\\+var\\(--header-height\\)\\)\\]",
+      "declarations": "--tw-translate-y:calc(var(--header-offset) + var(--header-height));translate:var(--tw-translate-x)var(--tw-translate-y)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Carl Friedrik",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.carlfriedrik.com/",
+        "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.carlfriedrik.com/",
+        "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.carlfriedrik.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.carlfriedrik.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.carlfriedrik.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.carlfriedrik.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.carlfriedrik.com/",
+        "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.carlfriedrik.com/"
+      ]
+    },
+    "colors.mushroom": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css"
+      ]
+    },
+    "colors.heritage-brown": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css"
+      ]
+    },
+    "colors.olive": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/26752/11765/24044/4553094/assets/tailwind-C98rZVW5.css"
+      ]
+    },
+    "colors.ink-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.carlfriedrik.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.variant-swatch-selector": {
+      "status": "inferred"
+    }
+  }
+}

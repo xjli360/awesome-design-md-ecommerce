@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Orbit DVD
-description: A cinema-obsessed retailer whose palette reads like a film-stock contact sheet — warm taupe-beiges (#e3dacc, #ddd3c2, #e8e1d6) dominate the backdrop, while a single burst of #ff580d (a safety-orange that could be a 35mm film canister or a 1970s Criterion spine) ignites every add-to-cart button, badge, and price highlight. The site runs on a near-monochrome skeleton of #dedede and #f9f9f9, with product cards floating on #f2f2f2 and text set in #121212 against those sandy neutrals. Typography leans on system fonts — Arial, Helvetica Neue, Roboto — at modest sizes, letting the movie-poster art and genre tags do the heavy lifting. Buttons are pill-shaped (`{rounded.full}`) in that orange, with secondary actions in a muted #baa98f that echoes aged paper. The nav bar is a thin strip of #34343d, dark but not black, carrying genre dropdowns and a search bar with a #777777 placeholder. There is no hero splash, no carousel — just a dense grid of covers, each a 1:1.4 portrait crop, with a "NEW" badge in #899df1 (a cool blue that breaks the warmth) and a stock-status badge in the orange. The checkout path swaps to a clean #ffffff canvas with #d8d8d8 dividers, but the orange persists on the confirm button. The overall effect is a video-store-turned-web-app: the warmth of a 1990s Blockbuster carpet, the precision of a boutique Blu-ray label.
+name: "Orbit DVD"
+source_url: "https://www.orbitdvd.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A cinema-obsessed retailer whose palette reads like a film-stock contact sheet — warm taupe-beiges (#e3dacc, #ddd3c2, #e8e1d6) dominate the backdrop, while a single burst of #ff580d (a safety-orange that could be a 35mm film canister or a 1970s Criterion spine) ignites every add-to-cart button, badge, and price highlight. The site runs on a near-monochrome skeleton of #dedede and #f9f9f9, with product cards floating on #f2f2f2 and text set in #121212 against those sandy neutrals. Typography leans on system fonts — Arial, Helvetica Neue, Roboto — at modest sizes, letting the movie-poster art and genre tags do the heavy lifting. Buttons are pill-shaped (`{rounded.full}`) in that orange, with secondary actions in a muted #baa98f that echoes aged paper. The nav bar is a thin strip of #34343d, dark but not black, carrying genre dropdowns and a search bar with a #777777 placeholder. There is no hero splash, no carousel — just a dense grid of covers, each a 1:1.4 portrait crop, with a "NEW" badge in #899df1 (a cool blue that breaks the warmth) and a stock-status badge in the orange. The checkout path swaps to a clean #ffffff canvas with #d8d8d8 dividers, but the orange persists on the confirm button. The overall effect is a video-store-turned-web-app: the warmth of a 1990s Blockbuster carpet, the precision of a boutique Blu-ray label.
 
 colors:
   primary: "#ff580d"
@@ -323,6 +327,8 @@ components:
 - Filter bar: horizontal chip strip becomes a scrollable row on mobile; on desktop it sits as a static row above the grid
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for most components were not extractable from static CSS; only `button-primary` hover was confirmed via extracted `#f45213`
 - Error state styling (form validation, 404 page) could not be determined — no error hexes appeared in the extracted palette

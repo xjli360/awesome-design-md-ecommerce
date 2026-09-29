@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Jupiter Music
-description: A deep teal #007581 — the color of a brass bell's patina after years of play — anchors Jupiter Music's digital presence, appearing in primary CTAs, navigation highlights, and product-badge accents against a neutral canvas of #ffffff and soft gray surfaces at #f7f7f7. The brand's typographic voice is absent from extracted data, but the visual system relies on generous whitespace and a restrained palette of three core grays (#555555, #35373c, #f0f0f0) to let instrument photography and product details command attention. Buttons carry a subtle {rounded.sm} radius — friendly enough for a music educator browsing, precise enough for a professional musician. The top navigation sits at 80px height with a clean white background, using the teal only for active states and the primary "Shop" call-to-action. Product cards use {rounded.md} corners and a soft drop shadow, presenting saxophones, flutes, and trumpets as aspirational objects rather than commodity goods. The brand's secondary accent — a warm brass-gold #c8a84e — appears sparingly on sale badges and limited-edition callouts, echoing the physical instruments' hardware. This is a system built for clarity: high-contrast body text at #35373c on white, muted secondary text at #555555, and hairline borders at #e0e0e0 that separate sections without visual noise. The absence of a declared typeface suggests either a system font stack or a brand font that couldn't be extracted — a known gap that would define the brand's personality once resolved.
+name: "Jupiter Music"
+source_url: "https://www.jupitermusic.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep teal #007581 — the color of a brass bell's patina after years of play — anchors Jupiter Music's digital presence, appearing in primary CTAs, navigation highlights, and product-badge accents against a neutral canvas of #ffffff and soft gray surfaces at #f7f7f7. The brand's typographic voice is absent from extracted data, but the visual system relies on generous whitespace and a restrained palette of three core grays (#555555, #35373c, #f0f0f0) to let instrument photography and product details command attention. Buttons carry a subtle {rounded.sm} radius — friendly enough for a music educator browsing, precise enough for a professional musician. The top navigation sits at 80px height with a clean white background, using the teal only for active states and the primary "Shop" call-to-action. Product cards use {rounded.md} corners and a soft drop shadow, presenting saxophones, flutes, and trumpets as aspirational objects rather than commodity goods. The brand's secondary accent — a warm brass-gold #c8a84e — appears sparingly on sale badges and limited-edition callouts, echoing the physical instruments' hardware. This is a system built for clarity: high-contrast body text at #35373c on white, muted secondary text at #555555, and hairline borders at #e0e0e0 that separate sections without visual noise. The absence of a declared typeface suggests either a system font stack or a brand font that couldn't be extracted — a known gap that would define the brand's personality once resolved.
 
 colors:
   primary: "#007581"
@@ -340,6 +344,8 @@ components:
 - Search bar moves from inline in the nav to a full-width expandable section below the nav on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Typography**: No font-family declarations were extracted from the live site. The system font stack (Inter, system-ui) is assumed as a placeholder. The actual brand typeface — whether a custom font, a Google Font, or a system stack — remains unknown and would significantly impact the brand's visual identity.
 - **Hover states**: While some hover behaviors are inferred from common patterns (darkening primary, shadow lift on cards), the actual extracted hover values (color transitions, timing, easing curves) are not available.

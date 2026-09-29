@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Bull Moose
-description: A #eeeeee warm gray canvas — the extracted dominant hex — sets a quiet, utilitarian stage for a movie-and-music retailer that trusts its inventory photography over decorative design. The brand’s typography leans on kanedagothic-extrabold for display moments, a heavy Japanese gothic face that lands with the weight of a vinyl crate, while body copy defaults to system sans-serif stacks. There is no single brand-color voltage; instead, the interface reads as a catalog-first marketplace where product images, pre-order badges, and price tags carry the visual load. Navigation is dense and text-heavy — genre dropdowns, format filters, and release calendars stack in a left-aligned column, echoing the browsing experience of a physical record store where you scan spines rather than hero images. Buttons use soft {rounded.sm} corners and a muted gray fill that blends into the canvas, reserving contrast for actionable text like “Add to Cart” or “Pre-Order.” The footer is a wall of links — store locations, trade-in policies, genre guides — organized in tight columns with {spacing.xs} gaps, prioritizing information density over breathing room. The overall feel is that of a well-organized warehouse: functional, browsable, and indifferent to trend, with the extracted #eeeeee canvas acting as the neutral ground that lets every movie poster and album cover pop.
+name: "Bull Moose"
+source_url: "https://www.bullmoose.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A #eeeeee warm gray canvas — the extracted dominant hex — sets a quiet, utilitarian stage for a movie-and-music retailer that trusts its inventory photography over decorative design. The brand’s typography leans on kanedagothic-extrabold for display moments, a heavy Japanese gothic face that lands with the weight of a vinyl crate, while body copy defaults to system sans-serif stacks. There is no single brand-color voltage; instead, the interface reads as a catalog-first marketplace where product images, pre-order badges, and price tags carry the visual load. Navigation is dense and text-heavy — genre dropdowns, format filters, and release calendars stack in a left-aligned column, echoing the browsing experience of a physical record store where you scan spines rather than hero images. Buttons use soft {rounded.sm} corners and a muted gray fill that blends into the canvas, reserving contrast for actionable text like “Add to Cart” or “Pre-Order.” The footer is a wall of links — store locations, trade-in policies, genre guides — organized in tight columns with {spacing.xs} gaps, prioritizing information density over breathing room. The overall feel is that of a well-organized warehouse: functional, browsable, and indifferent to trend, with the extracted #eeeeee canvas acting as the neutral ground that lets every movie poster and album cover pop.
 
 colors:
   primary: "#eeeeee"
@@ -300,6 +304,8 @@ components:
 - Category strips collapse to a horizontal scroll with fade indicators on tablet and below
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Primary brand color is ambiguous — the extracted #eeeeee is a warm gray that may be a background default rather than a true brand color. The site may have a more distinctive accent (e.g., a signature blue or orange) that wasn’t captured in the extraction.
 - No secondary or accent colors could be reliably extracted beyond the generic #eeeeee. Badge colors (#ff6600, #ffcc00) are inferred from common e-commerce patterns.

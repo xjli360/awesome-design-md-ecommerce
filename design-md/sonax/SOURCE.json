@@ -1,0 +1,482 @@
+{
+  "source_url": "https://sonax.com",
+  "final_url": "https://www.sonax.com/en/",
+  "captured_at": "2026-09-29T04:09:12.970152+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://sonax.com",
+      "final_url": "https://www.sonax.com/en/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "e13c02fa3f3efa9c7dbd5699cb9941b25d9f38429d6974deff1a1e226b20e092",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+      "final_url": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "1fc2b3279add14e2e96bf1368146abae6a1d8ec594c91f731456b396b1ec6d45",
+      "snapshot": "stylesheet-1.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 22,
+      "sources": [
+        "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
+      ]
+    },
+    "#000000": {
+      "count": 9,
+      "sources": [
+        "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
+      ]
+    },
+    "#0000000d": {
+      "count": 4,
+      "sources": [
+        "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
+      ]
+    },
+    "#e3000b": {
+      "count": 1,
+      "sources": [
+        "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
+      ]
+    },
+    "#be2832": {
+      "count": 1,
+      "sources": [
+        "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 1,
+      "sources": [
+        "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
+      ]
+    },
+    "#1b1a1a": {
+      "count": 1,
+      "sources": [
+        "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
+      ]
+    },
+    "#ebebeb": {
+      "count": 1,
+      "sources": [
+        "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 1,
+      "sources": [
+        "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
+      ]
+    },
+    "#b4b4b4": {
+      "count": 1,
+      "sources": [
+        "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
+      ]
+    },
+    "#888888": {
+      "count": 1,
+      "sources": [
+        "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
+      ]
+    },
+    "#5d5c5c": {
+      "count": 1,
+      "sources": [
+        "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
+      ]
+    },
+    "#313030": {
+      "count": 1,
+      "sources": [
+        "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
+      ]
+    },
+    "#3b82f6": {
+      "count": 1,
+      "sources": [
+        "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
+      ]
+    },
+    "#ffffff": {
+      "count": 1,
+      "sources": [
+        "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
+      ]
+    },
+    "#00000026": {
+      "count": 1,
+      "sources": [
+        "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
+      ]
+    }
+  },
+  "font_families": {
+    "Lufga": [
+      "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
+    ],
+    "sans-serif": [
+      "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+      "selector": ":root",
+      "declarations": "--ui-sonax-red:#e3000b;--ui-danger:#be2832;--ui-white:#f9f9f9;--ui-black:#1b1a1a;--ui-subtle:#ebebeb;--ui-soft:#e0e0e0;--ui-muted:#b4b4b4;--ui-neutral:#888;--ui-strong:#5d5c5c;--ui-emphasis:#313030;--focus-ring:#3b82f6"
+    },
+    {
+      "source": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+      "selector": "html,body",
+      "declarations": "color:var(--ui-emphasis);background:var(--ui-white)"
+    },
+    {
+      "source": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+      "selector": ":root",
+      "declarations": "--s-tiny:10px;--s-small:16px;--s-medium:20px;--s-base:20px;--s-large:40px;--s-extra:60px;--s-macro:8px;--s-dot:8px"
+    },
+    {
+      "source": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+      "selector": ":root",
+      "declarations": "--s-tiny:10px;--s-small:20px;--s-medium:24px;--s-base:30px;--s-large:45px;--s-extra:90px;--s-macro:8px"
+    },
+    {
+      "source": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+      "selector": ":root",
+      "declarations": "--s-tiny:10px;--s-small:20px;--s-medium:24px;--s-base:32px;--s-large:48px;--s-extra:72px;--s-macro:8px"
+    },
+    {
+      "source": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+      "selector": ":root",
+      "declarations": "--s-tiny:10px;--s-small:20px;--s-medium:32px;--s-base:40px;--s-large:60px;--s-extra:120px;--s-macro:8px"
+    },
+    {
+      "source": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+      "selector": ":root",
+      "declarations": "--s-tiny:12px;--s-small:24px;--s-medium:40px;--s-base:32px;--s-large:72px;--s-extra:144px;--s-macro:8px"
+    },
+    {
+      "source": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+      "selector": ":root",
+      "declarations": "--s-tiny:12px;--s-small:24px;--s-medium:32px;--s-base:48px;--s-large:72px;--s-extra:144px;--s-macro:8px"
+    },
+    {
+      "source": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+      "selector": ":root",
+      "declarations": "--s-tiny:12px;--s-small:24px;--s-medium:32px;--s-base:48px;--s-large:72px;--s-extra:144px;--s-macro:8px"
+    },
+    {
+      "source": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+      "selector": ":root",
+      "declarations": "--s-tiny:16px;--s-small:35px;--s-medium:56px;--s-base:70px;--s-large:105px;--s-extra:210px;--s-macro:12px"
+    },
+    {
+      "source": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+      "selector": ":root",
+      "declarations": "--s-tiny:18px;--s-small:36px;--s-medium:56px;--s-base:72px;--s-large:108px;--s-extra:216px;--s-macro:12px"
+    },
+    {
+      "source": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+      "selector": "html,body,*",
+      "declarations": "font-display:swap;text-rendering:geometricPrecision;text-box:trim-both cap alphabetic;font-family:Lufga,sans-serif"
+    },
+    {
+      "source": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+      "selector": ":root",
+      "declarations": "--font-size-h1:62px;--font-size-h2:36px;--font-size-h3:30px;--font-size-h4:26px;--font-size-h5:24px;--font-size-h6:22px;--font-size-copy:18px;--font-size-small:14px;--font-size-annotation:14px;--font-size-ui:14px;--line-height-h1:62px;--line-height-h2:38px;--line-height-h3:36px;--line-height-h4:32px;--line-height-h5:30px;--line-height-h6:28px;--line-height-copy:30px;--line-height-small:20px;--underline-offset:8px;--underline-offset-static:6px"
+    },
+    {
+      "source": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+      "selector": ":root",
+      "declarations": "--font-size-h1:62px;--font-size-h2:52px;--font-size-h3:42px;--font-size-h4:36px;--font-size-h5:28px;--font-size-h6:26px;--font-size-copy:18px;--font-size-small:16px;--font-size-annotation:14px;--font-size-ui:16px;--line-height-h1:62px;--line-height-h2:54px;--line-height-h3:48px;--line-height-h4:44px;--line-height-h5:36px;--line-height-h6:34px;--line-height-copy:30px;--line-height-small:24px"
+    },
+    {
+      "source": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+      "selector": ":root",
+      "declarations": "--font-size-h1:62px;--font-size-h2:44px;--font-size-h3:40px;--font-size-h4:36px;--font-size-h5:32px;--font-size-h6:28px;--font-size-copy:18px;--font-size-small:16px;--font-size-annotation:14px;--font-size-ui:16px;--line-height-h1:62px;--line-height-h2:48px;--line-height-h3:46px;--line-height-h4:44px;--line-height-h5:40px;--line-height-h6:34px;--line-height-copy:30px;--line-height-small:24px"
+    },
+    {
+      "source": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+      "selector": ":root",
+      "declarations": "--font-size-h1:66px;--font-size-h2:44px;--font-size-h3:40px;--font-size-h4:32px;--font-size-h5:30px;--font-size-h6:26px;--font-size-copy:18px;--font-size-small:16px;--font-size-annotation:14px;--font-size-ui:16px;--line-height-h1:66px;--line-height-h2:48px;--line-height-h3:46px;--line-height-h4:40px;--line-height-h5:36px;--line-height-h6:36px;--line-height-copy:30px;--line-height-small:24px"
+    },
+    {
+      "source": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+      "selector": ":root",
+      "declarations": "--font-size-h1:66px;--font-size-h2:48px;--font-size-h3:34px;--font-size-h4:32px;--font-size-h5:28px;--font-size-h6:28px;--font-size-copy:18px;--font-size-small:16px;--font-size-annotation:14px;--font-size-ui:16px;--line-height-h1:66px;--line-height-h2:48px;--line-height-h3:36px;--line-height-h4:42px;--line-height-h5:34px;--line-height-h6:34px;--line-height-copy:30px;--line-height-small:24px"
+    },
+    {
+      "source": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+      "selector": ":root",
+      "declarations": "--font-size-h1:52px;--font-size-h2:46px;--font-size-h3:42px;--font-size-h4:36px;--font-size-h5:32px;--font-size-h6:28px;--font-size-copy:16px;--font-size-small:16px;--font-size-annotation:14px;--font-size-ui:16px;--line-height-h1:54px;--line-height-h2:48px;--line-height-h3:48px;--line-height-h4:46px;--line-height-h5:38px;--line-height-h6:36px;--line-height-copy:24px;--line-height-small:24px"
+    },
+    {
+      "source": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+      "selector": ":root",
+      "declarations": "--font-size-h1:66px;--font-size-h2:60px;--font-size-h3:52px;--font-size-h4:44px;--font-size-h5:32px;--font-size-h6:26px;--font-size-copy:18px;--font-size-small:16px;--font-size-annotation:14px;--font-size-ui:16px;--line-height-h1:66px;--line-height-h2:60px;--line-height-h3:58px;--line-height-h4:58px;--line-height-h5:40px;--line-height-h6:36px;--line-height-copy:26px;--line-height-small:24px"
+    },
+    {
+      "source": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+      "selector": ":root",
+      "declarations": "--font-size-h1:80px;--font-size-h2:72px;--font-size-h3:62px;--font-size-h4:52px;--font-size-h5:42px;--font-size-h6:32px;--font-size-copy:22px;--font-size-small:18px;--font-size-annotation:16px;--font-size-ui:18px;--line-height-h1:80px;--line-height-h2:72px;--line-height-h3:70px;--line-height-h4:68px;--line-height-h5:52px;--line-height-h6:44px;--line-height-copy:34px;--line-height-small:28px"
+    },
+    {
+      "source": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+      "selector": ":root",
+      "declarations": "--font-size-h1:96px;--font-size-h2:86px;--font-size-h3:76px;--font-size-h4:60px;--font-size-h5:52px;--font-size-h6:42px;--font-size-copy:24px;--font-size-small:20px;--font-size-annotation:16px;--font-size-ui:20px;--line-height-h1:96px;--line-height-h2:86px;--line-height-h3:84px;--line-height-h4:76px;--line-height-h5:60px;--line-height-h6:52px;--line-height-copy:38px;--line-height-small:32px"
+    },
+    {
+      "source": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+      "selector": ":root",
+      "declarations": "--layout-bleed:var(--s-base)"
+    },
+    {
+      "source": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+      "selector": ":root",
+      "declarations": "--transition-duration:.3s;--transition-easing:ease"
+    },
+    {
+      "source": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+      "selector": ":root",
+      "declarations": "--transition-duration:0s;--transition-easing:none"
+    },
+    {
+      "source": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+      "selector": ":root",
+      "declarations": "--stage-aspect-ratio:9/16;--stage-logo-height:10vh;--stage-copy-lines:3;--stage-logo-gap:8px"
+    },
+    {
+      "source": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+      "selector": "html:has(body .layout .stage--small)",
+      "declarations": "--stage-logo-height:calc((100vw - var(--layout-bleed)*2)/870*188)"
+    },
+    {
+      "source": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+      "selector": ":root",
+      "declarations": "--stage-aspect-ratio:55/81;--stage-logo-height:12vh;--stage-copy-lines:2;--stage-logo-gap:10px"
+    },
+    {
+      "source": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+      "selector": ":root",
+      "declarations": "--stage-aspect-ratio:240/287;--stage-logo-height:14vh;--stage-copy-lines:2;--stage-logo-gap:10px"
+    },
+    {
+      "source": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+      "selector": ":root",
+      "declarations": "--stage-aspect-ratio:680/734;--stage-logo-height:20vh;--stage-copy-lines:2;--stage-logo-gap:10px"
+    },
+    {
+      "source": "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z",
+      "selector": ":root",
+      "declarations": "--stage-aspect-ratio:768/747;--stage-logo-height:20vh;--stage-copy-lines:2;--stage-logo-gap:10px"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Car care, polishes and car wash products from SONAX - clean and polish like the professionals",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
+      ]
+    },
+    "colors.strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
+      ]
+    },
+    "colors.focus-ring": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sonax.com/public/dist/main.css?v=2026-09-29T02:18:30.260Z"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.range-tile": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    }
+  }
+}

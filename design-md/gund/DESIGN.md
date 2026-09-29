@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: GUND
-description: A century-old plush brand that wraps its animals in a warm, muted palette anchored by #4f4b47 (a soft, warm charcoal) and #fcfaf9 (a cream-white canvas that feels like vintage cotton rather than sterile digital white). The brand’s signature voltage comes from #cb2c30, a deep crimson that appears on bows, tags, and accent details — never overwhelming the plush, always signaling gift-worthiness. Typography runs Montserrat across the system, a geometric sans-serif that balances the softness of the product with clean, legible structure. Product cards use generous whitespace and soft {rounded.lg} corners, letting the photographed animals — with their embroidered eyes and varied textures — do the emotional work. The navigation bar sits at a compact height with a centered logo, and the primary CTA appears as a solid #cb2c30 rectangle with white text, echoing the brand’s gift-box heritage. Secondary actions use a #fcfaf9 fill with #4f4b47 text, keeping the interface calm and approachable. The footer stacks links in a narrow column, with a #f3f3f3 background that gently separates it from the product grid. Throughout, the system avoids hard edges: buttons, cards, and search bars all carry {rounded.sm} to {rounded.lg} radii, creating a world where every corner feels as soft as the product inside.
+name: "GUND"
+source_url: "https://gund.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A century-old plush brand that wraps its animals in a warm, muted palette anchored by #4f4b47 (a soft, warm charcoal) and #fcfaf9 (a cream-white canvas that feels like vintage cotton rather than sterile digital white). The brand’s signature voltage comes from #cb2c30, a deep crimson that appears on bows, tags, and accent details — never overwhelming the plush, always signaling gift-worthiness. Typography runs Montserrat across the system, a geometric sans-serif that balances the softness of the product with clean, legible structure. Product cards use generous whitespace and soft {rounded.lg} corners, letting the photographed animals — with their embroidered eyes and varied textures — do the emotional work. The navigation bar sits at a compact height with a centered logo, and the primary CTA appears as a solid #cb2c30 rectangle with white text, echoing the brand’s gift-box heritage. Secondary actions use a #fcfaf9 fill with #4f4b47 text, keeping the interface calm and approachable. The footer stacks links in a narrow column, with a #f3f3f3 background that gently separates it from the product grid. Throughout, the system avoids hard edges: buttons, cards, and search bars all carry {rounded.sm} to {rounded.lg} radii, creating a world where every corner feels as soft as the product inside.
 
 colors:
   primary: "#cb2c30"
@@ -430,6 +434,8 @@ components:
 - The hero banner text and CTA stack below the image on mobile, rather than overlaying it.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for product cards (shadow depth, scale) not extracted — assumed standard lift effect.
 - Error and success states for form validation (inline messages, iconography) not observed.

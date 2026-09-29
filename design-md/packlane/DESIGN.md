@@ -1,13 +1,17 @@
 ---
 version: alpha
-name: Packlane
-description: Every primary CTA on packlane.com wears #2e469d — a deep navy-indigo with enough chromatic mass to anchor both a B2B order form and a consumer gift-box configurator. The brand lives at that intersection: authoritative enough for a print buyer ordering 500 custom mailers, approachable enough for a first-time shop owner placing their first tissue paper run. That dual register plays out in the palette. Ringing the core navy is a confetti of material-preview swatches — lemon #f9cf57, arctic mint #98ff98, electric teal #1bdfc7, safety orange #ffa300, and sky wash #b4eef9 — not placed decoratively but as live representations of what cardstock, kraft, and foil can become. The product is the swatch ring, and the interface surfaces that fact without overstatement.
+name: "Packlane"
+source_url: "https://www.packlane.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Every primary CTA on packlane.com wears #2e469d — a deep navy-indigo with enough chromatic mass to anchor both a B2B order form and a consumer gift-box configurator. The brand lives at that intersection: authoritative enough for a print buyer ordering 500 custom mailers, approachable enough for a first-time shop owner placing their first tissue paper run. That dual register plays out in the palette. Ringing the core navy is a confetti of material-preview swatches — lemon #f9cf57, arctic mint #98ff98, electric teal #1bdfc7, safety orange #ffa300, and sky wash #b4eef9 — not placed decoratively but as live representations of what cardstock, kraft, and foil can become. The product is the swatch ring, and the interface surfaces that fact without overstatement.
 
-Libre Franklin carries the full typographic load: a humanist grotesque that renders crisply at both 12px caption labels and 40px display headlines without needing dramatic weight jumps. Packlane stays in the 400–600 weight range for most text, letting the navy-on-white contrast build hierarchy rather than typographic mass. Source Serif 4 surfaces at editorial moments — category intros, campaign landing sections — introducing a serif register that reads print-craft without abandoning the rectilinear grid. Body text rarely demands emphasis; the rendered box previews do the visual work.
+  Libre Franklin carries the full typographic load: a humanist grotesque that renders crisply at both 12px caption labels and 40px display headlines without needing dramatic weight jumps. Packlane stays in the 400–600 weight range for most text, letting the navy-on-white contrast build hierarchy rather than typographic mass. Source Serif 4 surfaces at editorial moments — category intros, campaign landing sections — introducing a serif register that reads print-craft without abandoning the rectilinear grid. Body text rarely demands emphasis; the rendered box previews do the visual work.
 
-The surface architecture runs in stacked blue-washes: #f6f6f6, #f0f1f4, #e9f0fd, and #f2f8ff form a cool-tinted gradient that keeps the material swatches and 3D box renders luminous against a retreating background. Cards sit on #ffffff with a #d5d5d5 hairline and {rounded.sm} corners, giving the configurator a spreadsheet-precision feel. The interface softens only at step-progress bars and pricing chips — both rendered at {rounded.full} — marking milestones in a pill-shaped language that breaks the grid's rectilinearity just enough.
+  The surface architecture runs in stacked blue-washes: #f6f6f6, #f0f1f4, #e9f0fd, and #f2f8ff form a cool-tinted gradient that keeps the material swatches and 3D box renders luminous against a retreating background. Cards sit on #ffffff with a #d5d5d5 hairline and {rounded.sm} corners, giving the configurator a spreadsheet-precision feel. The interface softens only at step-progress bars and pricing chips — both rendered at {rounded.full} — marking milestones in a pill-shaped language that breaks the grid's rectilinearity just enough.
 
-The custom-box configurator is the product's central surface: a centered preview canvas with a gentle drop shadow, live-updating swatch selections, a quantity stepper, and a per-unit pricing chip that recalculates with each quantity tier change. State badges map directly to print production stages — proofing, printing, shipping — in success green (#03a74f on #c3e6d0), warning orange (#ffa300 on #fef5dd), and error red (#ce2d2d on #fce5ed). At {rounded.xs}-to-{rounded.sm} across controls and a tight 4px–16px spacing ramp, every pixel signals print precision.
+  The custom-box configurator is the product's central surface: a centered preview canvas with a gentle drop shadow, live-updating swatch selections, a quantity stepper, and a per-unit pricing chip that recalculates with each quantity tier change. State badges map directly to print production stages — proofing, printing, shipping — in success green (#03a74f on #c3e6d0), warning orange (#ffa300 on #fef5dd), and error red (#ce2d2d on #fce5ed). At {rounded.xs}-to-{rounded.sm} across controls and a tight 4px–16px spacing ramp, every pixel signals print precision.
 
 colors:
   primary: "#2e469d"
@@ -403,6 +407,8 @@ components:
 - Footer columns collapse from four columns to two on tablet, single column on mobile with accordions for each section
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - `primary-active` (#1e3080) is derived by darkening the extracted primary; no explicit hover-state color was captured from the live site
 - Font weights for specific heading levels were not extractable from CSS — weight values (600 for titles, 700 for display) are inferred from the Libre Franklin weight axis and common Shopify theme patterns

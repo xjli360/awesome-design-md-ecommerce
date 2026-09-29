@@ -1,0 +1,904 @@
+{
+  "source_url": "https://covercraft.com",
+  "final_url": "https://www.covercraft.com/",
+  "captured_at": "2026-09-28T09:25:08.273797+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://covercraft.com",
+      "final_url": "https://www.covercraft.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "7e5b342f2e79ba9b13bf96e374d2fe2694aa912e19625418aa700f869a9643be",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.covercraft.com/styles-PWJJAT4Q.css",
+      "final_url": "https://www.covercraft.com/styles-PWJJAT4Q.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e28de47602a8263a8c5ae13e5eac873e9c196fbbe7e51b7b5ede4c1182a4a5b2",
+      "snapshot": "stylesheet-1.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 199,
+      "sources": [
+        "https://www.covercraft.com/",
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#212529": {
+      "count": 79,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#0070f2": {
+      "count": 49,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#000000": {
+      "count": 39,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#6c7079": {
+      "count": 38,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#14293a": {
+      "count": 33,
+      "sources": [
+        "https://www.covercraft.com/",
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#d3d6db": {
+      "count": 32,
+      "sources": [
+        "https://www.covercraft.com/",
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 28,
+      "sources": [
+        "https://www.covercraft.com/",
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#db0002": {
+      "count": 28,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 27,
+      "sources": [
+        "https://www.covercraft.com/",
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#0064d9": {
+      "count": 27,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#38871f": {
+      "count": 26,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#1d2d3e": {
+      "count": 23,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#1f7bc0": {
+      "count": 20,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#212738": {
+      "count": 19,
+      "sources": [
+        "https://www.covercraft.com/",
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#055f9f": {
+      "count": 18,
+      "sources": [
+        "https://www.covercraft.com/",
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#f0fbe4": {
+      "count": 18,
+      "sources": [
+        "https://www.covercraft.com/",
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#fff1f1": {
+      "count": 18,
+      "sources": [
+        "https://www.covercraft.com/",
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#fff5df": {
+      "count": 18,
+      "sources": [
+        "https://www.covercraft.com/",
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#deeffe": {
+      "count": 18,
+      "sources": [
+        "https://www.covercraft.com/",
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#00000080": {
+      "count": 18,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#6d9df7": {
+      "count": 16,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#17a2b8": {
+      "count": 15,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#ffc107": {
+      "count": 15,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#50b0f41a": {
+      "count": 14,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#a6cce899": {
+      "count": 14,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#556b82": {
+      "count": 12,
+      "sources": [
+        "https://www.covercraft.com/",
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 11,
+      "sources": [
+        "https://www.covercraft.com/",
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 10,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#00000000": {
+      "count": 10,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#0064d8": {
+      "count": 9,
+      "sources": [
+        "https://www.covercraft.com/",
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 9,
+      "sources": [
+        "https://www.covercraft.com/",
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#dee2e6": {
+      "count": 9,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#222222": {
+      "count": 8,
+      "sources": [
+        "https://www.covercraft.com/",
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#cecece": {
+      "count": 8,
+      "sources": [
+        "https://www.covercraft.com/",
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#54575e": {
+      "count": 8,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#eaecee": {
+      "count": 8,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#ffffff80": {
+      "count": 7,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#333333": {
+      "count": 6,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 6,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#32363a": {
+      "count": 6,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#00000026": {
+      "count": 5,
+      "sources": [
+        "https://www.covercraft.com/",
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#aa0808": {
+      "count": 5,
+      "sources": [
+        "https://www.covercraft.com/",
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#00000012": {
+      "count": 5,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#89919a": {
+      "count": 5,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#556b81": {
+      "count": 5,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#788fa6b8": {
+      "count": 5,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#256f3a": {
+      "count": 4,
+      "sources": [
+        "https://www.covercraft.com/",
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#1f3a93": {
+      "count": 4,
+      "sources": [
+        "https://www.covercraft.com/",
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#999999": {
+      "count": 4,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#6c757d": {
+      "count": 4,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#dbdbdb": {
+      "count": 4,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#070e14": {
+      "count": 4,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#185f94": {
+      "count": 4,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#275e15": {
+      "count": 4,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#117a8b": {
+      "count": 4,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#d39e00": {
+      "count": 4,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#a80002": {
+      "count": 4,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#d8d8d8": {
+      "count": 4,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "#03416e": {
+      "count": 4,
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "72": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "Apple Color Emoji": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "Arial": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "Arial Fallback": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "BlinkMacSystemFont": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "Consolas": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "Courier New": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "Effra": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "Font Awesome 5 Brands": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "Font Awesome 5 Free": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "Font Awesome 6 Free": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "Font Awesome 7 Brands": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "Font Awesome 7 Free": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "FontAwesome": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "Helvetica Neue": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "Liberation Mono": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "Menlo": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "Monaco": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "Montserrat": [
+      "https://www.covercraft.com/",
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "Montserrat-Bold": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "Montserrat-SemiBold": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "Montserrat-XBold": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "Open Sans": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "Roboto": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "SAP-icons": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "SFMono-Regular": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "Sans Serif Fallback": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "Segoe UI": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "Segoe UI Emoji": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "Segoe UI Symbol": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "icomoon": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "icomoon!important": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "monospace": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "monospace!important": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "petrobrasSans-XBold": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "sans-serif": [
+      "https://www.covercraft.com/",
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ],
+    "sans-serif!important": [
+      "https://www.covercraft.com/styles-PWJJAT4Q.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.covercraft.com/",
+      "selector": ".product-compare-dialog[_ngcontent-ng-c2731476309]",
+      "declarations": "position:fixed;bottom:0;left:0;width:100%;background-color:var(--cx-color-inverse);z-index:10;box-shadow:0 -1px 6px #00000040;height:auto"
+    },
+    {
+      "source": "https://www.covercraft.com/",
+      "selector": ".product-compare-dialog[_ngcontent-ng-c2731476309]   .dialog-header[_ngcontent-ng-c2731476309]   h4[_ngcontent-ng-c2731476309]",
+      "declarations": "font-size:14px;font-weight:700;line-height:normal;text-transform:uppercase;font-feature-settings:\"liga\" off,\"clig\" off;color:#222"
+    },
+    {
+      "source": "https://www.covercraft.com/",
+      "selector": ".product-compare-dialog[_ngcontent-ng-c2731476309]   .dialog-header[_ngcontent-ng-c2731476309]   .action-container[_ngcontent-ng-c2731476309]   .btn-optional-1[",
+      "declarations": "color:#222"
+    },
+    {
+      "source": "https://www.covercraft.com/",
+      "selector": ".product-compare-dialog[_ngcontent-ng-c2731476309]   .dialog-header[_ngcontent-ng-c2731476309]   .action-container[_ngcontent-ng-c2731476309]   .btn-optional-1[",
+      "declarations": "color:var(--cx-color-btn-secondary-text)"
+    },
+    {
+      "source": "https://www.covercraft.com/",
+      "selector": ".product-compare-dialog[_ngcontent-ng-c2731476309]   .dialog-header[_ngcontent-ng-c2731476309]   .action-container[_ngcontent-ng-c2731476309]   .btn-compare[_ng",
+      "declarations": "background-color:#ffcb5b"
+    },
+    {
+      "source": "https://www.covercraft.com/",
+      "selector": ".product-compare-dialog[_ngcontent-ng-c2731476309]   .dialog-body[_ngcontent-ng-c2731476309]   .item-container[_ngcontent-ng-c2731476309]   .item.generic-placeh",
+      "declarations": "background-color:var(--cx-color-gray-400);display:flex;align-items:center;padding:0 1.25rem"
+    },
+    {
+      "source": "https://www.covercraft.com/",
+      "selector": ".dialog-body[_ngcontent-ng-c2731476309]   .item-container[_ngcontent-ng-c2731476309]   .item.generic-placeholder-wrapper[_ngcontent-ng-c2731476309]   .generic-p",
+      "declarations": "font-size:var(--cx-covercraft-compare-category-message-text-size);font-weight:var(--cx-bold-common-font-weight);color:var(--cx-color-black);line-height:.875rem;text-transform:uppercase;text-align:center"
+    },
+    {
+      "source": "https://www.covercraft.com/",
+      "selector": "-compare-dialog[_ngcontent-ng-c2731476309]   .dialog-body[_ngcontent-ng-c2731476309]   .item-container[_ngcontent-ng-c2731476309]   .item[_ngcontent-ng-c2731476",
+      "declarations": "font-size:8px;font-weight:500;line-height:normal;text-transform:uppercase;color:#222;margin-bottom:5px"
+    },
+    {
+      "source": "https://www.covercraft.com/",
+      "selector": "t-compare-dialog[_ngcontent-ng-c2731476309]   .dialog-body[_ngcontent-ng-c2731476309]   .item-container[_ngcontent-ng-c2731476309]   .item[_ngcontent-ng-c273147",
+      "declarations": "font-size:9px;font-weight:700;color:var(--cx-color-btn-primary-text)"
+    },
+    {
+      "source": "https://www.covercraft.com/",
+      "selector": ".product-compare-dialog[_ngcontent-ng-c2731476309]   .dialog-body[_ngcontent-ng-c2731476309]   .item-container[_ngcontent-ng-c2731476309]   .remove[_ngcontent-n",
+      "declarations": "margin:0 5px;background-color:#d9d9d9;border-radius:50%;height:12px;width:12px;position:relative;cursor:pointer"
+    },
+    {
+      "source": "https://www.covercraft.com/",
+      "selector": ".custom-product-card",
+      "declarations": "position:relative;display:flex;flex-direction:column;border:1px solid var(--cx-color-gray-500);font-family:Montserrat,sans-serif;margin:0;padding:12px;height:100%"
+    },
+    {
+      "source": "https://www.covercraft.com/",
+      "selector": ".custom-product-card .cx-product-details .cx-item-title .cx-product-name",
+      "declarations": "font-weight:700;font-size:14px;line-height:20px;font-family:Montserrat,sans-serif;font-style:normal;color:var(--cx-color-gray-900);text-align:start;min-height:40px;margin:0"
+    },
+    {
+      "source": "https://www.covercraft.com/",
+      "selector": ".custom-product-card .cx-product-details .cx-item-title .cx-product-name>em",
+      "declarations": "font-weight:700;font-size:14px;line-height:20px;font-family:Montserrat,sans-serif;font-style:normal"
+    },
+    {
+      "source": "https://www.covercraft.com/",
+      "selector": ".custom-product-card .cx-product-details .cx-item-title .cx-product-rating .rating-score",
+      "declarations": "color:var(--cx-color-gray-900);font-size:12px;font-style:normal;font-weight:700;line-height:normal"
+    },
+    {
+      "source": "https://www.covercraft.com/",
+      "selector": ".custom-product-card .cx-product-details .cx-item-title .cx-product-rating .rating-count",
+      "declarations": "color:var(--cx-color-gray-900);font-size:10px;font-style:normal;font-weight:500;line-height:normal"
+    },
+    {
+      "source": "https://www.covercraft.com/",
+      "selector": ".custom-product-card .cx-product-details .cx-item-title .cx-craft-name .icon-check",
+      "declarations": "color:#188918"
+    },
+    {
+      "source": "https://www.covercraft.com/",
+      "selector": ".custom-product-card .cx-product-details .cx-item-title .cx-craft-name .name",
+      "declarations": "display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:2;flex:1 0 0;overflow:hidden;color:var(--cx-color-gray-900);font-size:12px;font-style:normal;font-weight:600;line-height:normal"
+    },
+    {
+      "source": "https://www.covercraft.com/",
+      "selector": ".custom-product-card .cx-product-details .swatch-compare-container .compare span",
+      "declarations": "font-size:10px;color:#003186;font-weight:600;line-height:normal;white-space:nowrap"
+    },
+    {
+      "source": "https://www.covercraft.com/",
+      "selector": ".product-variants__more",
+      "declarations": "color:var(--cx-color-black);text-align:center;font-size:12px;font-style:normal;font-weight:700;line-height:normal"
+    },
+    {
+      "source": "https://www.covercraft.com/",
+      "selector": ".cx-product-price[_ngcontent-ng-c4082171151]",
+      "declarations": "--from-font-family: var(--cx-bold-common-font);--from-font-size: 10px;--from-line-height: 12px;--price-sale-gap: 4px;--price-font-family: var(--cx-extra-bold-common-font);--price-font-size: 18px;--price-line-height: 22px;--sale-font-family: var(--cx-semi-bold-common-font);--sale-font-size: 14px;--sale-line-height: 14px;--sale-margin: auto 0;--discount-font-size: 12px;--discount-line-height: 15px;display:flex;flex-direction:column;align-items:flex-start;gap:4px;align-self:stretch;min-height:80px"
+    },
+    {
+      "source": "https://www.covercraft.com/",
+      "selector": ".cx-product-price.productDetails[_ngcontent-ng-c4082171151]",
+      "declarations": "--from-font-family: var(--cx-bold-common-font);--from-font-size: 14px;--from-line-height: 17px;--price-sale-gap: 8px;--price-font-family: var(--cx-extra-bold-common-font);--price-font-size: 28px;--price-line-height: 39px;--sale-font-family: var(--cx-bold-common-font);--sale-font-size: 18px;--sale-line-height: 22px;--sale-margin: auto 0 4px;--discount-font-size: 14px;--discount-line-height: 18px"
+    },
+    {
+      "source": "https://www.covercraft.com/",
+      "selector": ".cx-product-price.productDetails[_ngcontent-ng-c4082171151]",
+      "declarations": "--price-font-size: 28px;--price-line-height: 34px;--sale-font-size: 16px;--sale-line-height: 20px;--discount-font-size: 14px;--discount-line-height: 17px"
+    },
+    {
+      "source": "https://www.covercraft.com/",
+      "selector": ".cx-product-price[_ngcontent-ng-c4082171151]   .from[_ngcontent-ng-c4082171151]",
+      "declarations": "color:var(--cx-color-gray-700);font-family:var(--from-font-family);font-size:var(--from-font-size);font-style:normal;font-weight:700;line-height:var(--from-line-height);text-transform:uppercase;min-height:12px"
+    },
+    {
+      "source": "https://www.covercraft.com/",
+      "selector": ".cx-product-price[_ngcontent-ng-c4082171151]   .price-sale[_ngcontent-ng-c4082171151]   .price[_ngcontent-ng-c4082171151]",
+      "declarations": "color:var(--cx-color-gray-900);font-family:var(--price-font-family);font-size:var(--price-font-size);font-style:SemiBold;font-weight:600;line-height:var(--price-line-height)"
+    },
+    {
+      "source": "https://www.covercraft.com/",
+      "selector": ".cx-product-price[_ngcontent-ng-c4082171151]   .price-sale[_ngcontent-ng-c4082171151]   .price.withDiscount[_ngcontent-ng-c4082171151]",
+      "declarations": "color:var(--cx-color-danger-accent)"
+    },
+    {
+      "source": "https://www.covercraft.com/",
+      "selector": ".cx-product-price[_ngcontent-ng-c4082171151]   .price-sale[_ngcontent-ng-c4082171151]   .sale[_ngcontent-ng-c4082171151]",
+      "declarations": "color:var(--cx-color-gray-900);font-family:var(--sale-font-family);font-size:var(--sale-font-size);font-style:normal;font-weight:600;line-height:var(--sale-line-height);margin:var(--sale-margin)"
+    },
+    {
+      "source": "https://www.covercraft.com/",
+      "selector": ".cx-product-price[_ngcontent-ng-c4082171151]   .discount[_ngcontent-ng-c4082171151]",
+      "declarations": "display:flex;align-items:center;gap:4px;flex-wrap:wrap;color:var(--cx-color-gray-700);font-size:var(--discount-font-size);font-style:normal;font-weight:400;line-height:var(--discount-line-height)"
+    },
+    {
+      "source": "https://www.covercraft.com/",
+      "selector": ".cx-product-price[_ngcontent-ng-c4082171151]   .discount[_ngcontent-ng-c4082171151]   .save[_ngcontent-ng-c4082171151]",
+      "declarations": "color:var(--cx-color-danger-accent);font-weight:700"
+    },
+    {
+      "source": "https://www.covercraft.com/styles-PWJJAT4Q.css",
+      "selector": ".fa-tablet-button",
+      "declarations": "--fa: \"\\f10a\""
+    },
+    {
+      "source": "https://www.covercraft.com/styles-PWJJAT4Q.css",
+      "selector": ".fa-mobile-button",
+      "declarations": "--fa: \"\\f10b\""
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Custom Seat & Car Covers Built to Fit | Covercraft® USA",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "colors.link": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.covercraft.com/",
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.covercraft.com/",
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.covercraft.com/",
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.covercraft.com/",
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.covercraft.com/",
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "colors.accent-alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "colors.navy-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.covercraft.com/",
+        "https://www.covercraft.com/styles-PWJJAT4Q.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.vehicle-fitment-selector": {
+      "status": "inferred"
+    }
+  }
+}

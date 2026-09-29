@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: HyperX
-description: A high-voltage gaming hardware brand that lives in the tension between #c8202f and #232323 — a red so saturated it feels like a warning light, set against near-black backgrounds that absorb ambient light. The brand's visual system is built on aggressive contrast: #fafafa body text on #202020 surfaces, #d12442 accents that pulse like a controller's LED strip, and #ff8b21 used sparingly as a secondary voltage for limited-edition gear and promotional flares. Typography runs Proxima Nova at tight letter-spacing and bold weights — display headlines sit at 700 weight, 28px, with -0.5px tracking that compresses the wordforms into compact, impact-ready blocks. The signature design move is the "red accent line" — a 2px #c8202f horizontal rule that appears under navigation items, across product-card footers, and as the leading edge of every primary CTA. Product photography is always backlit or edge-lit, with the gear emerging from shadow rather than sitting on a white background, reinforcing the brand's "performance from darkness" ethos. Corner radii are minimal: 4px on buttons, 8px on cards — nothing pill-shaped, nothing playful. The brand trusts red and black to do the work of hierarchy, using #787878 and #969696 for secondary text and disabled states, and reserving #e6e6e6 for subtle dividers against the dark canvas. The Shopify checkout flow introduces #aabbaa as a neutral accent for payment buttons, a rare moment of calm in an otherwise high-contrast system.
+name: "HyperX"
+source_url: "https://www.hyperx.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A high-voltage gaming hardware brand that lives in the tension between #c8202f and #232323 — a red so saturated it feels like a warning light, set against near-black backgrounds that absorb ambient light. The brand's visual system is built on aggressive contrast: #fafafa body text on #202020 surfaces, #d12442 accents that pulse like a controller's LED strip, and #ff8b21 used sparingly as a secondary voltage for limited-edition gear and promotional flares. Typography runs Proxima Nova at tight letter-spacing and bold weights — display headlines sit at 700 weight, 28px, with -0.5px tracking that compresses the wordforms into compact, impact-ready blocks. The signature design move is the "red accent line" — a 2px #c8202f horizontal rule that appears under navigation items, across product-card footers, and as the leading edge of every primary CTA. Product photography is always backlit or edge-lit, with the gear emerging from shadow rather than sitting on a white background, reinforcing the brand's "performance from darkness" ethos. Corner radii are minimal: 4px on buttons, 8px on cards — nothing pill-shaped, nothing playful. The brand trusts red and black to do the work of hierarchy, using #787878 and #969696 for secondary text and disabled states, and reserving #e6e6e6 for subtle dividers against the dark canvas. The Shopify checkout flow introduces #aabbaa as a neutral accent for payment buttons, a rare moment of calm in an otherwise high-contrast system.
 
 colors:
   primary: "#c8202f"
@@ -504,6 +508,8 @@ components:
 - Secondary navigation (category links) collapses to a horizontal scrollable strip
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states for all components** — Only primary and secondary button hover states were extracted; tertiary, ghost, and link hover states are inferred from common patterns
 - **Error and success styling** — Form validation colors (error text, success green) were not present in the extracted palette; error state uses primary red as a fallback

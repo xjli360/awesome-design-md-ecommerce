@@ -1,11 +1,15 @@
 ---
 version: alpha
-name: DegreeArt
-description: Every artwork on DegreeArt arrives with a provenance measured in studio hours rather than auction-house transactions — the platform was built on the premise that a graduation show is a buying event, not a portfolio review. That founding logic shapes the interface from the top down: the site defers entirely to the work, running `{colors.primary}` (#313131 charcoal) through headlines, borders, and primary CTAs alike so no interface colour competes with the canvas it sits beside. The palette confirmed from live extraction is narrow — one distinctive dark charcoal dominant, with surface neutrals inferred from gallery convention — which suits a platform whose true colour is its inventory.
+name: "DegreeArt"
+source_url: "https://www.degreeart.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Every artwork on DegreeArt arrives with a provenance measured in studio hours rather than auction-house transactions — the platform was built on the premise that a graduation show is a buying event, not a portfolio review. That founding logic shapes the interface from the top down: the site defers entirely to the work, running `{colors.primary}` (#313131 charcoal) through headlines, borders, and primary CTAs alike so no interface colour competes with the canvas it sits beside. The palette confirmed from live extraction is narrow — one distinctive dark charcoal dominant, with surface neutrals inferred from gallery convention — which suits a platform whose true colour is its inventory.
 
-Type rides the system stack; no proprietary typeface is loaded on demand. `{typography.display-xl}` headings at 32px / weight 700 anchor editorial section leads without theatrical scale; body copy runs at 16px / weight 400 with a relaxed 1.6 line-height so edition statements and artist bios stay legible under sustained reading. Buttons inherit the same charcoal fill with uppercase tracked letter-spacing at 0.5px, so a CTA reads as a gallery label rather than a consumer prompt — functional but unhurried.
+  Type rides the system stack; no proprietary typeface is loaded on demand. `{typography.display-xl}` headings at 32px / weight 700 anchor editorial section leads without theatrical scale; body copy runs at 16px / weight 400 with a relaxed 1.6 line-height so edition statements and artist bios stay legible under sustained reading. Buttons inherit the same charcoal fill with uppercase tracked letter-spacing at 0.5px, so a CTA reads as a gallery label rather than a consumer prompt — functional but unhurried.
 
-Navigation sits flat and horizontal, category links spaced at `{spacing.lg}` with a 2px `{colors.ink}` underline active state rather than fill highlights. Product cards carry a `{colors.hairline}` border, `{rounded.xs}` corners that barely register, and a thumbnail-first layout where the artwork occupies the full card face while title, artist name, and price form a tight three-line stack below. Filter panels disclose via accordion rows rather than persistent sidebars, keeping the grid at full width on tablet and above. The aggregate effect is a gallery-catalogue sensibility in a browser: orderly, recessive, and built to let tens of thousands of original works speak without the interface raising its voice.
+  Navigation sits flat and horizontal, category links spaced at `{spacing.lg}` with a 2px `{colors.ink}` underline active state rather than fill highlights. Product cards carry a `{colors.hairline}` border, `{rounded.xs}` corners that barely register, and a thumbnail-first layout where the artwork occupies the full card face while title, artist name, and price form a tight three-line stack below. Filter panels disclose via accordion rows rather than persistent sidebars, keeping the grid at full width on tablet and above. The aggregate effect is a gallery-catalogue sensibility in a browser: orderly, recessive, and built to let tens of thousands of original works speak without the interface raising its voice.
 
 colors:
   primary: "#313131"
@@ -316,6 +320,8 @@ components:
 - Footer: 4-col link grid → 2-col below 744px → single column below 480px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Live extraction blocked by Cloudflare anti-bot ("Just a moment..." page title); only one hex value (#313131) was recovered from the static response
 - No confirmed accent, highlight, or secondary brand colour — all surface tones (surface-soft, hairline, muted) are gallery-convention inferences, not measured values

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Renegade Game Studios
-description: A board game publisher whose visual identity leans into the dark, saturated end of the tabletop spectrum — deep ink (#1a1a2e) as the default canvas, with primary voltage supplied by a vivid cobalt (#1990c6) that reads as both approachable and competitive. The site trusts high-contrast product photography against near-black backgrounds, letting box art and component shots do the heavy lifting over decorative illustration. Typography runs a clean sans-serif stack at moderate weights — display sizes hover around 28–32px in weight 600, never competing with the game imagery for attention. Navigation is lean: a single row of game-series dropdowns, a search icon, and a cart badge, all sitting on the dark canvas without a visible hairline separator. Buttons use the cobalt primary with white text and a modest {rounded.sm} corner, while product cards adopt a slightly lighter surface (#16213e) to lift the box art without breaking the dark envelope. The overall effect is a storefront that feels like a game table at dusk — focused, slightly dramatic, and built to let the product speak.
+name: "Renegade Game Studios"
+source_url: "https://renegadegamestudios.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A board game publisher whose visual identity leans into the dark, saturated end of the tabletop spectrum — deep ink (#1a1a2e) as the default canvas, with primary voltage supplied by a vivid cobalt (#1990c6) that reads as both approachable and competitive. The site trusts high-contrast product photography against near-black backgrounds, letting box art and component shots do the heavy lifting over decorative illustration. Typography runs a clean sans-serif stack at moderate weights — display sizes hover around 28–32px in weight 600, never competing with the game imagery for attention. Navigation is lean: a single row of game-series dropdowns, a search icon, and a cart badge, all sitting on the dark canvas without a visible hairline separator. Buttons use the cobalt primary with white text and a modest {rounded.sm} corner, while product cards adopt a slightly lighter surface (#16213e) to lift the box art without breaking the dark envelope. The overall effect is a storefront that feels like a game table at dusk — focused, slightly dramatic, and built to let the product speak.
 
 colors:
   primary: "#1990c6"
@@ -410,6 +414,8 @@ components:
 - Search expands from an icon button to a full-width input bar on mobile, overlaying the top nav
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No extracted hex colors were available from the live site — the color palette above is inferred from the brand's visual identity (dark canvas, cobalt accent) and common tabletop game publisher conventions. True brand colors should be verified against the live site's CSS.
 - No font-family declarations were extracted — the typography stack uses Inter as a reasonable sans-serif choice for a modern board game publisher. The actual brand font may differ.

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: SanDisk
-description: A red #e10600 pulse drives SanDisk’s digital-physical identity — the same saturated stop-sign red that fires on every primary CTA, product-badge dot, and category-highlight stripe, set against a near-white canvas #f9f7f6 that reads as warm paper rather than sterile white. The brand lives in the gap between industrial reliability and everyday consumer use: its typography runs a single-weight monospace for technical specs (capacity, read speed, interface) while body copy falls back to a clean sans-serif, creating a deliberate rhythm of machine-precision labels and human-friendly paragraphs. Product cards stack on a soft off-white surface #f5f3ef with subtle shadows, each card carrying a small red accent bar at top — a consistent visual anchor that says “this is a SanDisk product” without needing the logo. The secondary palette is unusually wide for a storage brand: a safety-orange #ff7012 for warranty badges, a deep green #00740c for compatibility checkmarks, a muted purple #824dd8 for software download buttons, and a warm gray #dfdfdf for disabled states. Buttons use a sharp 8px radius (`{rounded.sm}`) — not pill-shaped — suggesting precision over friendliness, while search bars and filter chips round to 32px (`{rounded.xl}`) to contrast against the hard-cornered product grid. The overall mood is confident, technical, and slightly warm: a tool brand that knows its audience reads spec sheets but also buys on Amazon.
+name: "SanDisk"
+source_url: "https://www.sandisk.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A red #e10600 pulse drives SanDisk’s digital-physical identity — the same saturated stop-sign red that fires on every primary CTA, product-badge dot, and category-highlight stripe, set against a near-white canvas #f9f7f6 that reads as warm paper rather than sterile white. The brand lives in the gap between industrial reliability and everyday consumer use: its typography runs a single-weight monospace for technical specs (capacity, read speed, interface) while body copy falls back to a clean sans-serif, creating a deliberate rhythm of machine-precision labels and human-friendly paragraphs. Product cards stack on a soft off-white surface #f5f3ef with subtle shadows, each card carrying a small red accent bar at top — a consistent visual anchor that says “this is a SanDisk product” without needing the logo. The secondary palette is unusually wide for a storage brand: a safety-orange #ff7012 for warranty badges, a deep green #00740c for compatibility checkmarks, a muted purple #824dd8 for software download buttons, and a warm gray #dfdfdf for disabled states. Buttons use a sharp 8px radius (`{rounded.sm}`) — not pill-shaped — suggesting precision over friendliness, while search bars and filter chips round to 32px (`{rounded.xl}`) to contrast against the hard-cornered product grid. The overall mood is confident, technical, and slightly warm: a tool brand that knows its audience reads spec sheets but also buys on Amazon.
 
 colors:
   primary: "#e10600"
@@ -352,6 +356,8 @@ components:
 - Hero section reduces padding and stacks headline/subhead vertically at < 744px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states**: Extracted only base colors. Hover/focus/active variants for secondary, tertiary, and link colors are inferred from common patterns — actual SanDisk hover values may differ.
 - **Shadow tokens**: Product cards and modals likely use box-shadow values that could not be extracted. Current implementation uses border-based separation.

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Hims
-description: Deep forest green on warm cream is the whole argument — #1B4332 against #F5F0E8, held without apology across hero sections, primary CTAs, and the brand wordmark alike. Where most men's health companies default to clinical blue or urgent red, Hims chose the color of old-growth trees and pressed it into every touchpoint that matters: the pill-shaped "Get started" button, the subscription plan border on selection, the progress bar tracking completion inside the intake quiz. The grid is generous and unhurried; a 96px section rhythm at desktop means each condition category — Hair, ED, Skin, Mental Health, Primary Care — gets a full breath before the next. Type runs a clean geometric sans at compact weight 400 for body and a confident 600–700 for display, set large enough that copy reads as a statement rather than a disclaimer. Product photography leans warm: skin tones against cream backgrounds, the occasional dark-green prop, no harsh shadows or stark white studio floors. Condition cards use {rounded.lg} corners and a {colors.surface-soft} fill, softening what could read as a clinical checklist into something closer to a wellness menu. Badges are restrained — no garish sale tags, only subdued {colors.surface-soft} pills in {typography.caption} — because the brand's authority is built on understatement. The quiz and intake flows feel like a conversation: single-question pages, dot-based progress, zero medical-form density. The footer inverts to {colors.surface-dark}, reversing to {colors.on-dark} type, a quiet structural signal that regulatory weight lives at the bottom while approachability governs everything above.
+name: "Hims"
+source_url: "https://forhims.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Deep forest green on warm cream is the whole argument — #1B4332 against #F5F0E8, held without apology across hero sections, primary CTAs, and the brand wordmark alike. Where most men's health companies default to clinical blue or urgent red, Hims chose the color of old-growth trees and pressed it into every touchpoint that matters: the pill-shaped "Get started" button, the subscription plan border on selection, the progress bar tracking completion inside the intake quiz. The grid is generous and unhurried; a 96px section rhythm at desktop means each condition category — Hair, ED, Skin, Mental Health, Primary Care — gets a full breath before the next. Type runs a clean geometric sans at compact weight 400 for body and a confident 600–700 for display, set large enough that copy reads as a statement rather than a disclaimer. Product photography leans warm: skin tones against cream backgrounds, the occasional dark-green prop, no harsh shadows or stark white studio floors. Condition cards use {rounded.lg} corners and a {colors.surface-soft} fill, softening what could read as a clinical checklist into something closer to a wellness menu. Badges are restrained — no garish sale tags, only subdued {colors.surface-soft} pills in {typography.caption} — because the brand's authority is built on understatement. The quiz and intake flows feel like a conversation: single-question pages, dot-based progress, zero medical-form density. The footer inverts to {colors.surface-dark}, reversing to {colors.on-dark} type, a quiet structural signal that regulatory weight lives at the bottom while approachability governs everything above.
 
 colors:
   primary: "#1B4332"
@@ -355,6 +359,8 @@ components:
 - Footer four-column link grid collapses to single-column accordion with expand/collapse per section on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **No hex colors extracted** — forhims.com likely renders design tokens via JavaScript or sits behind anti-bot protection at crawl time; all hex values above (#1B4332 primary green, #F5F0E8 canvas cream, #C9956A accent warm) are approximations drawn from published brand audits and press coverage. Verify all swatches against DevTools → Computed Styles on live production before shipping.
 - **No font families extracted** — Typography stack attributed to Neue Haas Grotesk based on DTC brand identity references; this may be a different licensed Grotesk variant or a custom cut. Confirm via DevTools → Network → Fonts tab on a cold load.

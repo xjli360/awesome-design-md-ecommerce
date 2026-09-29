@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Topologie
-description: A climbing-gear aesthetic translated into phone accessories, Topologie runs on a palette anchored by the deep, near-black #121212 and the warm, almost-burnt-orange #f92300 — a signal of technical restraint punctuated by a single climber's-carabiner accent. The site's canvas is a cool off-white #f7f7f7, not pure white, giving it the feel of unbleached paper or raw webbing. A secondary blue-gray #4b556c and muted steel #3c3c3c handle body copy and secondary text, while the hairline #dedede keeps cards and sections defined without visual weight. The typography stack defaults to Arial, inherit, and serif, suggesting a system-first approach or a site that hasn't loaded its custom typeface — the brand's voice comes through in the spacing and the raw, unpolished product photography rather than in bespoke letterforms. Buttons are sharp-cornered rectangles (`{rounded.none}`) with the #f92300 accent, echoing the functional, no-frills geometry of climbing hardware. Product cards use a subtle `{rounded.sm}` and a soft shadow, letting the gear — carabiners, straps, lanyards — sit as the hero. The nav bar is a thin, fixed strip at the top, #121212 on #f7f7f7, with a small cart icon and a hamburger menu, keeping the interface as minimal as a chalk bag. The overall feel is that of a mountaineering supply catalog that happens to sell phone cases: utilitarian, honest, and built around the idea that your everyday carry should be as dependable as your climbing rack.
+name: "Topologie"
+source_url: "https://www.topologie.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A climbing-gear aesthetic translated into phone accessories, Topologie runs on a palette anchored by the deep, near-black #121212 and the warm, almost-burnt-orange #f92300 — a signal of technical restraint punctuated by a single climber's-carabiner accent. The site's canvas is a cool off-white #f7f7f7, not pure white, giving it the feel of unbleached paper or raw webbing. A secondary blue-gray #4b556c and muted steel #3c3c3c handle body copy and secondary text, while the hairline #dedede keeps cards and sections defined without visual weight. The typography stack defaults to Arial, inherit, and serif, suggesting a system-first approach or a site that hasn't loaded its custom typeface — the brand's voice comes through in the spacing and the raw, unpolished product photography rather than in bespoke letterforms. Buttons are sharp-cornered rectangles (`{rounded.none}`) with the #f92300 accent, echoing the functional, no-frills geometry of climbing hardware. Product cards use a subtle `{rounded.sm}` and a soft shadow, letting the gear — carabiners, straps, lanyards — sit as the hero. The nav bar is a thin, fixed strip at the top, #121212 on #f7f7f7, with a small cart icon and a hamburger menu, keeping the interface as minimal as a chalk bag. The overall feel is that of a mountaineering supply catalog that happens to sell phone cases: utilitarian, honest, and built around the idea that your everyday carry should be as dependable as your climbing rack.
 
 colors:
   primary: "#f92300"
@@ -469,6 +473,8 @@ components:
 - Product detail page sections (description, specs, reviews) collapse into an accordion on mobile and tablet.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted font stack (Arial, inherit, serif) appears to be a fallback or system default — the brand's actual custom typeface could not be reliably identified. A future audit should inspect the site's @font-face declarations or Google Fonts integration.
 - Hover and focus states for most components (beyond buttons and inputs) were not extractable from static HTML/CSS analysis.

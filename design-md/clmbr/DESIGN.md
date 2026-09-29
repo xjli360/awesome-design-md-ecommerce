@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Clmbr
-description: A deep navy (#003388) anchors Clmbr's digital presence — not the generic blue of a thousand fitness apps, but a specific, almost Prussian blue that reads as serious, engineered, and premium. This primary color saturates the brand's primary CTAs, navigation elements, and key product highlights, creating a consistent voltage across the climbing-machine experience. The palette extends into a secondary blue (#282bcf) that adds a jolt of energy to secondary actions and accent elements, while a near-black (#282828) grounds body text and structural components. The brand's typography system leans heavily on Maison Neue, a geometric sans-serif that appears in multiple weights — from the bold "Plaak" display face used for hero headlines to the lighter "Maison Book" weights for body copy — creating a clear hierarchy between marketing messaging and functional interface text. Clmbr's design language is notably angular and structured, with sharp corners on buttons and cards that communicate precision and durability, contrasting with the pill-shaped softness common in consumer fitness apps. The interface uses generous whitespace and a light canvas (#eeeeee) to let product photography and the distinctive navy palette breathe, while hairline borders (#b6b6b6) provide subtle structural definition without visual noise. The overall impression is one of industrial sophistication — a brand that sells a serious piece of equipment and trusts its product's visual presence over decorative interface flourishes.
+name: "Clmbr"
+source_url: "https://clmbr.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep navy (#003388) anchors Clmbr's digital presence — not the generic blue of a thousand fitness apps, but a specific, almost Prussian blue that reads as serious, engineered, and premium. This primary color saturates the brand's primary CTAs, navigation elements, and key product highlights, creating a consistent voltage across the climbing-machine experience. The palette extends into a secondary blue (#282bcf) that adds a jolt of energy to secondary actions and accent elements, while a near-black (#282828) grounds body text and structural components. The brand's typography system leans heavily on Maison Neue, a geometric sans-serif that appears in multiple weights — from the bold "Plaak" display face used for hero headlines to the lighter "Maison Book" weights for body copy — creating a clear hierarchy between marketing messaging and functional interface text. Clmbr's design language is notably angular and structured, with sharp corners on buttons and cards that communicate precision and durability, contrasting with the pill-shaped softness common in consumer fitness apps. The interface uses generous whitespace and a light canvas (#eeeeee) to let product photography and the distinctive navy palette breathe, while hairline borders (#b6b6b6) provide subtle structural definition without visual noise. The overall impression is one of industrial sophistication — a brand that sells a serious piece of equipment and trusts its product's visual presence over decorative interface flourishes.
 
 colors:
   primary: "#003388"
@@ -288,6 +292,8 @@ components:
 - Search functionality collapses to icon-only trigger below 744px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and active states for most components were inferred from common patterns rather than extracted from live CSS — actual implementations may vary
 - Error states for form inputs (validation styling, error messages) were not extractable from the live site

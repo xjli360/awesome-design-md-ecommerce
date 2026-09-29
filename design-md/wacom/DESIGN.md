@@ -1,13 +1,17 @@
 ---
 version: alpha
-name: Wacom
-description: Wacom deploys a near-black charcoal ground — #2b333f and #223344 — so that the instruments themselves occupy the light: tablets, styluses, and the images produced on them carry the visual energy the UI deliberately withholds. Into that controlled dark surfaces one voltage: #ffdb00, a fluorescent-adjacent yellow that functions like a felt-marker highlight stroke, marking every primary CTA and active state with unmissable contrast against the dark ground. The choice is precise — not brand-generic blue, not a warm coral, but the specific yellow of a highlighter that references the tools Wacom sells without illustrating them.
+name: "Wacom"
+source_url: "https://www.wacom.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Wacom deploys a near-black charcoal ground — #2b333f and #223344 — so that the instruments themselves occupy the light: tablets, styluses, and the images produced on them carry the visual energy the UI deliberately withholds. Into that controlled dark surfaces one voltage: #ffdb00, a fluorescent-adjacent yellow that functions like a felt-marker highlight stroke, marking every primary CTA and active state with unmissable contrast against the dark ground. The choice is precise — not brand-generic blue, not a warm coral, but the specific yellow of a highlighter that references the tools Wacom sells without illustrating them.
 
-A secondary palette extends product-family logic: #ffe3e5 blush for consumer entry lines, #b5dfad sage for studio bundles, #ffcc66 amber for education and portable products. These are chromatic tags that let campaigns and landing pages fork their visual identity without losing system coherence. Blues in the extraction (#1f73b7, #3ac5fd, #1199ff, #66a8cc) serve interactive and informational states — link underlines, focus rings, status chips — rather than carrying primary brand weight. The dark greens (#224411, #223311) appear in promotional overlays and campaign sections as isolated moments of natural warmth against the technical charcoal grid.
+  A secondary palette extends product-family logic: #ffe3e5 blush for consumer entry lines, #b5dfad sage for studio bundles, #ffcc66 amber for education and portable products. These are chromatic tags that let campaigns and landing pages fork their visual identity without losing system coherence. Blues in the extraction (#1f73b7, #3ac5fd, #1199ff, #66a8cc) serve interactive and informational states — link underlines, focus rings, status chips — rather than carrying primary brand weight. The dark greens (#224411, #223311) appear in promotional overlays and campaign sections as isolated moments of natural warmth against the technical charcoal grid.
 
-Typography runs Roboto, a mechanical sans that communicates precision over personality, reinforcing that Wacom's UI is infrastructure for creative work rather than the creative work itself. Display scales reach 40px weight 700 for campaign headlines; product names run 20–24px at weight 500; spec-and-feature body copy stays at 16px weight 400, scannable for professional buyers who parse data rather than narrative. Uppercase button labels with modest letter-spacing complete the technical register.
+  Typography runs Roboto, a mechanical sans that communicates precision over personality, reinforcing that Wacom's UI is infrastructure for creative work rather than the creative work itself. Display scales reach 40px weight 700 for campaign headlines; product names run 20–24px at weight 500; spec-and-feature body copy stays at 16px weight 400, scannable for professional buyers who parse data rather than narrative. Uppercase button labels with modest letter-spacing complete the technical register.
 
-Geometry is rectangular throughout — `{rounded.xs}` for buttons and badges, `{rounded.sm}` for cards and modals — with `{rounded.full}` absent from the main interaction layer entirely. This restraint signals instrument precision rather than consumer friendliness, consistent with a brand whose customers measure pen pressure in levels of 8,192. Product cards hold hardware photography in a fixed 4:3 ratio, never cropped or softened. Navigation is sticky with a dark (#2b333f) top bar expanding to image-forward mega-menus on hover. The overall system reads as a professional creative platform whose primary loyalty is to the work made on Wacom hardware, not the page promoting it.
+  Geometry is rectangular throughout — `{rounded.xs}` for buttons and badges, `{rounded.sm}` for cards and modals — with `{rounded.full}` absent from the main interaction layer entirely. This restraint signals instrument precision rather than consumer friendliness, consistent with a brand whose customers measure pen pressure in levels of 8,192. Product cards hold hardware photography in a fixed 4:3 ratio, never cropped or softened. Navigation is sticky with a dark (#2b333f) top bar expanding to image-forward mega-menus on hover. The overall system reads as a professional creative platform whose primary loyalty is to the work made on Wacom hardware, not the page promoting it.
 
 colors:
   primary: "#ffdb00"
@@ -459,6 +463,8 @@ components:
 - Footer grid collapses from 4 columns to 2 at tablet and 1 at mobile; link groups become accordions with yellow chevron indicators
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom brand typeface detected; Roboto inferred as primary face from the font stack — Wacom may use a licensed or proprietary display face on campaign pages not captured in this extraction
 - Dark greens (#224411, #223311) were extracted but their exact semantic role is unclear — possible promotional overlay color or product-specific campaign surface; used conservatively as `{colors.accent-forest}` without assigning to component backgrounds

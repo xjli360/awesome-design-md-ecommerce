@@ -1,0 +1,842 @@
+{
+  "source_url": "https://www.neumann.com",
+  "final_url": "https://www.neumann.com/en-us",
+  "captured_at": "2026-09-28T04:43:14.765696+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.neumann.com",
+      "final_url": "https://www.neumann.com/en-us",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "d03205f29e75e5d66636ae28d0bd94b48e2b35db02e8f628c996f0285481b9bf",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+      "final_url": "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5f063ed71a9a3a305dd96c775afa0d39be6d02405ed65507026c63d3ee940dc3",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24",
+      "final_url": "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ed7deb49cc77007c35b40c8d9db21b033b55eb31333f4956f8ceee0519382f6e",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.neumann.com/dist/ecom.css?v=KAEal63mqN2ws_ly8ihdqYenJKDfHctLnid5m5Rwo1A",
+      "final_url": "https://www.neumann.com/dist/ecom.css?v=KAEal63mqN2ws_ly8ihdqYenJKDfHctLnid5m5Rwo1A",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "28011a97ade6a8ddb0b3f972f2285da987a724a0df1dcb4b9e27799b9470a350",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 86,
+      "sources": [
+        "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24",
+        "https://www.neumann.com/dist/ecom.css?v=KAEal63mqN2ws_ly8ihdqYenJKDfHctLnid5m5Rwo1A"
+      ]
+    },
+    "#ffffff": {
+      "count": 66,
+      "sources": [
+        "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24",
+        "https://www.neumann.com/dist/ecom.css?v=KAEal63mqN2ws_ly8ihdqYenJKDfHctLnid5m5Rwo1A"
+      ]
+    },
+    "#f18823": {
+      "count": 61,
+      "sources": [
+        "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24",
+        "https://www.neumann.com/dist/ecom.css?v=KAEal63mqN2ws_ly8ihdqYenJKDfHctLnid5m5Rwo1A"
+      ]
+    },
+    "#c1c1c1": {
+      "count": 40,
+      "sources": [
+        "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24",
+        "https://www.neumann.com/dist/ecom.css?v=KAEal63mqN2ws_ly8ihdqYenJKDfHctLnid5m5Rwo1A"
+      ]
+    },
+    "#141414": {
+      "count": 26,
+      "sources": [
+        "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24",
+        "https://www.neumann.com/dist/ecom.css?v=KAEal63mqN2ws_ly8ihdqYenJKDfHctLnid5m5Rwo1A"
+      ]
+    },
+    "#adadad": {
+      "count": 15,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#ae262f": {
+      "count": 14,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#ef7b0b": {
+      "count": 13,
+      "sources": [
+        "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24",
+        "https://www.neumann.com/dist/ecom.css?v=KAEal63mqN2ws_ly8ihdqYenJKDfHctLnid5m5Rwo1A"
+      ]
+    },
+    "#8c8c8c": {
+      "count": 12,
+      "sources": [
+        "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24",
+        "https://www.neumann.com/dist/ecom.css?v=KAEal63mqN2ws_ly8ihdqYenJKDfHctLnid5m5Rwo1A"
+      ]
+    },
+    "#182227": {
+      "count": 11,
+      "sources": [
+        "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#727272": {
+      "count": 10,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#198754": {
+      "count": 10,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#18191a": {
+      "count": 9,
+      "sources": [
+        "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 9,
+      "sources": [
+        "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24",
+        "https://www.neumann.com/dist/ecom.css?v=KAEal63mqN2ws_ly8ihdqYenJKDfHctLnid5m5Rwo1A"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 8,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24",
+        "https://www.neumann.com/dist/ecom.css?v=KAEal63mqN2ws_ly8ihdqYenJKDfHctLnid5m5Rwo1A"
+      ]
+    },
+    "#343434": {
+      "count": 7,
+      "sources": [
+        "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#b8b8b8": {
+      "count": 7,
+      "sources": [
+        "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24",
+        "https://www.neumann.com/dist/ecom.css?v=KAEal63mqN2ws_ly8ihdqYenJKDfHctLnid5m5Rwo1A"
+      ]
+    },
+    "#b3b8be": {
+      "count": 6,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#e9ecef": {
+      "count": 6,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#373737": {
+      "count": 5,
+      "sources": [
+        "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24",
+        "https://www.neumann.com/dist/ecom.css?v=KAEal63mqN2ws_ly8ihdqYenJKDfHctLnid5m5Rwo1A"
+      ]
+    },
+    "#5c5c5c": {
+      "count": 5,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#3a3a3a": {
+      "count": 5,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24",
+        "https://www.neumann.com/dist/ecom.css?v=KAEal63mqN2ws_ly8ihdqYenJKDfHctLnid5m5Rwo1A"
+      ]
+    },
+    "#746e6e": {
+      "count": 4,
+      "sources": [
+        "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24",
+        "https://www.neumann.com/dist/ecom.css?v=KAEal63mqN2ws_ly8ihdqYenJKDfHctLnid5m5Rwo1A"
+      ]
+    },
+    "#363c42": {
+      "count": 4,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#ff9900": {
+      "count": 3,
+      "sources": [
+        "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24",
+        "https://www.neumann.com/dist/ecom.css?v=KAEal63mqN2ws_ly8ihdqYenJKDfHctLnid5m5Rwo1A"
+      ]
+    },
+    "#656262": {
+      "count": 3,
+      "sources": [
+        "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24",
+        "https://www.neumann.com/dist/ecom.css?v=KAEal63mqN2ws_ly8ihdqYenJKDfHctLnid5m5Rwo1A"
+      ]
+    },
+    "#cac7c7": {
+      "count": 3,
+      "sources": [
+        "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24",
+        "https://www.neumann.com/dist/ecom.css?v=KAEal63mqN2ws_ly8ihdqYenJKDfHctLnid5m5Rwo1A"
+      ]
+    },
+    "#e3e3e3": {
+      "count": 3,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#2c2c2c": {
+      "count": 3,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#555555": {
+      "count": 3,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#565656": {
+      "count": 3,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24",
+        "https://www.neumann.com/dist/ecom.css?v=KAEal63mqN2ws_ly8ihdqYenJKDfHctLnid5m5Rwo1A"
+      ]
+    },
+    "#333333": {
+      "count": 2,
+      "sources": [
+        "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#4f4f4f": {
+      "count": 2,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#fff3cd": {
+      "count": 2,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#bcbebf": {
+      "count": 2,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#e3d0be": {
+      "count": 2,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#bcd0c7": {
+      "count": 2,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#badce3": {
+      "count": 2,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#e6dbb9": {
+      "count": 2,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#d7bfc0": {
+      "count": 2,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#cecece": {
+      "count": 2,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#202020": {
+      "count": 2,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#888c8f": {
+      "count": 2,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#323232": {
+      "count": 2,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24",
+        "https://www.neumann.com/dist/ecom.css?v=KAEal63mqN2ws_ly8ihdqYenJKDfHctLnid5m5Rwo1A"
+      ]
+    },
+    "#2d2d2d": {
+      "count": 2,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#222222": {
+      "count": 1,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#d63384": {
+      "count": 1,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#d1d3d4": {
+      "count": 1,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#c7c8c9": {
+      "count": 1,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#c1c3c4": {
+      "count": 1,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#fce7d3": {
+      "count": 1,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#efdbc8": {
+      "count": 1,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#e9d6c3": {
+      "count": 1,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#d1e7dd": {
+      "count": 1,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#c7dbd2": {
+      "count": 1,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#c1d6cc": {
+      "count": 1,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#cff4fc": {
+      "count": 1,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#c5e8ef": {
+      "count": 1,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#bfe2e9": {
+      "count": 1,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "#f2e7c3": {
+      "count": 1,
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    }
+  },
+  "font_families": {
+    "FFUnit": [
+      "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+    ],
+    "icomoon": [
+      "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+    ],
+    "icomoon\" !important": [
+      "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+    ],
+    "sans-serif !important": [
+      "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+    ],
+    "swiper-icons": [
+      "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+      "selector": ".button--yZD8r",
+      "declarations": "--bs-link-color: currentColor;display:inline-flex;padding:4px;gap:12px"
+    },
+    {
+      "source": "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+      "selector": ".toggle-compare-button--IoUNP",
+      "declarations": "--bs-btn-padding-x: 0 !important;--bs-btn-padding-y: 0 !important;display:inline-flex !important"
+    },
+    {
+      "source": "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+      "selector": ".products-category-filtering--bai6T .products-category-filtering-dropdown--tPfWc",
+      "declarations": "--d-border-color: var(--bs-grey-button);margin-bottom:0"
+    },
+    {
+      "source": "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+      "selector": ".aside--IGNcx .aside-body--wBFYH",
+      "declarations": "background-color:var(--bs-black) !important"
+    },
+    {
+      "source": "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+      "selector": ".aside--IGNcx .aside-body--wBFYH",
+      "declarations": "max-width:348px;background-color:#18191a"
+    },
+    {
+      "source": "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+      "selector": ".reset-filter-button--I8Dth",
+      "declarations": "--bs-btn-padding-x: 0 !important;--bs-btn-padding-y: 0 !important;--bs-btn-color: var(--bs-grey-light) !important;--bs-btn-font-size: 16px !important;float:right;margin-bottom:5px"
+    },
+    {
+      "source": "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+      "selector": ".accordion-item--pEr94 .accordion-item-button--x0HGF:hover,.accordion-item--pEr94 .accordion-item-button--x0HGF[aria-expanded=true]",
+      "declarations": "color:var(--bs-secondary)"
+    },
+    {
+      "source": "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+      "selector": ".products-category-filtering-quick-select--XhJwV",
+      "declarations": "--d-border-color: var(--bs-grey-button) !important;margin-bottom:0 !important"
+    },
+    {
+      "source": "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+      "selector": ".comparison-lists-node--Aokj8 .comparison-lists-node-button--Ny9U_",
+      "declarations": "height:16px;width:16px;position:absolute;background:var(--bs-secondary);border-radius:50%;color:var(--bs-black);font-size:10px;font-weight:500;text-align:center;top:-2px;right:-1px"
+    },
+    {
+      "source": "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+      "selector": ".button--FjSdZ",
+      "declarations": "--b-color: #ffffff;--b-bg-color: #141414;--b-border-color: #f7f7f7;--b-hover-color: #f18823;--b-hover-bg-color: var(--b-bg-color);--b-hover-border-color: #f18823;--b-active-color: var(--b-hover-color);--b-active-bg-color: var(--b-hover-bg-color);--b-active-border-color: var(--b-hover-border-color);--b-disabled-color: #8c8c8c;--b-disabled-bg-color: #141414;--b-disabled-border-color: #8c8c8c;--b-disabled-opacity: 1;--b-svg-fill: var(--bs-base);--b-hover-svg-fill: var(--bs-secondary);--b-active-svg-fill: var(--b-hover-color);--b-disabled-svg-fill: var(--b-color)"
+    },
+    {
+      "source": "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+      "selector": ".button--FjSdZ.secondary--OA6Lh",
+      "declarations": "--b-color: var(--bs-base);--b-bg-color: var(--bs-grey-button);--b-border-color: var(--bs-grey-button);--b-hover-color: var(--bs-base);--b-hover-bg-color: var(--bs-secondary);--b-hover-border-color: var(--bs-secondary);--b-active-color: var(--b-hover-color);--b-active-bg-color: var(--b-hover-bg-color);--b-active-border-color: var(--b-hover-border-color);--b-disabled-color: var(--b-color);--b-disabled-bg-color: var(--b-bg-color);--b-disabled-border-color: var(--b-border-color);--b-disabled-opacity: 1;--b-svg-fill: var(--b-color);--b-hover-svg-fill: var(--b-hover-color);--b-active-svg-fill: var(--b-active-color);--b-disabled-svg-fill: var(--b-desabled-color)"
+    },
+    {
+      "source": "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+      "selector": ".button--FjSdZ",
+      "declarations": "--b-padding: 0.75rem 1rem;--b-border-width: 1px;--b-border-radius: 0;--b-font-size: 1.125rem;--b-font-weight: 400;--b-line-height: 1.5;--b-transition: color 0.5s ease, background-color 0.5s ease, border-color 0.5s ease, box-shadow 0.5s ease;font-size:var(--b-font-size);font-weight:var(--b-font-weight);line-height:var(--b-line-height);padding:var(--b-padding);color:var(--b-color);background-color:var(--b-bg-color);border:var(--b-border-width) solid var(--b-border-color);border-radius:var(--b-border-radius);transition:var(--b-transition);vertical-align:middle;display:flex;align-items:center;justify-content:center;gap:6px"
+    },
+    {
+      "source": "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+      "selector": ".button--FjSdZ .loading--Ys1s4::before",
+      "declarations": "transition:var(--b-transition);border-width:2px;border-color:var(--b-color)"
+    },
+    {
+      "source": "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+      "selector": ".button--FjSdZ:hover",
+      "declarations": "color:var(--b-hover-color);background-color:var(--b-hover-bg-color);border-color:var(--b-hover-border-color)"
+    },
+    {
+      "source": "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+      "selector": ".button--FjSdZ:hover .loading--Ys1s4::before",
+      "declarations": "border-color:var(--b-hover-color)"
+    },
+    {
+      "source": "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+      "selector": ".button--FjSdZ:active,.button--FjSdZ.active--S833i",
+      "declarations": "color:var(--b-active-color);background-color:var(--b-active-bg-color);border-color:var(--b-active-border-color)"
+    },
+    {
+      "source": "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+      "selector": ".button--FjSdZ:disabled,.button--FjSdZ.disabled--HWA6q",
+      "declarations": "color:var(--b-disabled-color);background-color:var(--b-disabled-bg-color);border-color:var(--b-disabled-border-color);opacity:var(--b-disabled-opacity);pointer-events:none"
+    },
+    {
+      "source": "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+      "selector": ".button--FjSdZ.text-only--hUnQ0,.button--FjSdZ.text-only-underlined--lQhbj",
+      "declarations": "--b-border-width: 0;--b-color: var(--bs-body-color);--b-bg-color: unset;--b-hover-bg-color: var(--b-bg-color);--b-active-bg-color: var(--b-bg-color);--b-disabled-bg-color: var(--b-bg-color);--b-svg-fill: var(--bs-body-color)"
+    },
+    {
+      "source": "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+      "selector": ".button--FjSdZ.text-only-underlined--lQhbj",
+      "declarations": "--b-font-weight: 400;--b-underline-offset: 2px;text-decoration:underline;text-underline-offset:var(--b-underline-offset)"
+    },
+    {
+      "source": "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+      "selector": ".button--FjSdZ.rounded--S6Iwh",
+      "declarations": "--b-border-radius: 50rem"
+    },
+    {
+      "source": "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+      "selector": ".button--FjSdZ.rounded--S6Iwh.md--zeX39",
+      "declarations": "--b-border-radius: 4px"
+    },
+    {
+      "source": "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+      "selector": ".button--FjSdZ.xl--IoMHE",
+      "declarations": "--b-padding: 20px"
+    },
+    {
+      "source": "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+      "selector": ".button--FjSdZ.lg--ttcAN",
+      "declarations": "--b-padding: 12px"
+    },
+    {
+      "source": "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+      "selector": ".button--FjSdZ.md--zeX39",
+      "declarations": "--b-padding: 4px 16px"
+    },
+    {
+      "source": "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+      "selector": ".button--FjSdZ.sm--q21CR",
+      "declarations": "--b-padding: 4px 12px"
+    },
+    {
+      "source": "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+      "selector": ".button--FjSdZ.xs--aB6vr",
+      "declarations": "--b-padding: 4px 5px"
+    },
+    {
+      "source": "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+      "selector": ".button--FjSdZ.xxs--_fufC",
+      "declarations": "--b-padding: 4px 5px"
+    },
+    {
+      "source": "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+      "selector": ".button--FjSdZ.md--zeX39",
+      "declarations": "--b-font-size: 1rem"
+    },
+    {
+      "source": "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+      "selector": ".dropdown-navigation-item--d9mB3 .dropdown-navigation-item-button--BlFyZ",
+      "declarations": "display:block;width:100%;font-size:18px;line-height:1.2111111111;text-align:start;padding:12px 0;color:#fff"
+    },
+    {
+      "source": "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+      "selector": ".cart-button--O4tyS .cart-button-amount--nYhUA",
+      "declarations": "height:16px;width:16px;position:absolute;background:var(--bs-secondary);border-radius:50%;color:var(--bs-black);font-size:10px;font-weight:500;text-align:center;top:-2px;right:-1px"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Neumann Homepage – the reference since 1928",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24",
+        "https://www.neumann.com/dist/ecom.css?v=KAEal63mqN2ws_ly8ihdqYenJKDfHctLnid5m5Rwo1A"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24",
+        "https://www.neumann.com/dist/ecom.css?v=KAEal63mqN2ws_ly8ihdqYenJKDfHctLnid5m5Rwo1A"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24",
+        "https://www.neumann.com/dist/ecom.css?v=KAEal63mqN2ws_ly8ihdqYenJKDfHctLnid5m5Rwo1A"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24",
+        "https://www.neumann.com/dist/ecom.css?v=KAEal63mqN2ws_ly8ihdqYenJKDfHctLnid5m5Rwo1A"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24",
+        "https://www.neumann.com/dist/ecom.css?v=KAEal63mqN2ws_ly8ihdqYenJKDfHctLnid5m5Rwo1A"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24",
+        "https://www.neumann.com/dist/ecom.css?v=KAEal63mqN2ws_ly8ihdqYenJKDfHctLnid5m5Rwo1A"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24",
+        "https://www.neumann.com/dist/ecom.css?v=KAEal63mqN2ws_ly8ihdqYenJKDfHctLnid5m5Rwo1A"
+      ]
+    },
+    "colors.surface-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24",
+        "https://www.neumann.com/dist/ecom.css?v=KAEal63mqN2ws_ly8ihdqYenJKDfHctLnid5m5Rwo1A"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24",
+        "https://www.neumann.com/dist/ecom.css?v=KAEal63mqN2ws_ly8ihdqYenJKDfHctLnid5m5Rwo1A"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.neumann.com/dist/mega-menu.css?v=XwY-1xqaOjBd2Wx3WvoNOb5tAkBe1lUHAmxj0-6UDcM",
+        "https://www.neumann.com/dist/main.css?v=7X3rScx3AHw1tAyNnbIbAztV6zEzP0lW-M7uBRk4L24",
+        "https://www.neumann.com/dist/ecom.css?v=KAEal63mqN2ws_ly8ihdqYenJKDfHctLnid5m5Rwo1A"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-comparison-panel": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,0 +1,924 @@
+{
+  "source_url": "https://baldwinhardware.com",
+  "final_url": "https://www.baldwinhardware.com/",
+  "captured_at": "2026-09-28T09:05:29.916065+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://baldwinhardware.com",
+      "final_url": "https://www.baldwinhardware.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "93f8e5b54f4eceb32ed1262025a561b9972a32eba18c0deee227af376e443588",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://use.typekit.net/kfn3pdm.css",
+      "final_url": "https://use.typekit.net/kfn3pdm.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "5747e293d55b5259073de80addd1600fb7404769a677298a420faa9508aa56eb",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware",
+      "final_url": "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "fba0dfd49cca6efba6105fd4bbc762bd0810645b0269f4c9aa9002127442897a",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 372,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#000000": {
+      "count": 327,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#efefef": {
+      "count": 101,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#af4640": {
+      "count": 53,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#de9c5c": {
+      "count": 52,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#45707e": {
+      "count": 48,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#ba271f": {
+      "count": 45,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#212529": {
+      "count": 44,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#5d5f5f": {
+      "count": 38,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#6c757d": {
+      "count": 36,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#dc3545": {
+      "count": 27,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#28a745": {
+      "count": 24,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#99999a": {
+      "count": 21,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#dee2e6": {
+      "count": 20,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#ffc107": {
+      "count": 18,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#f8f9fa": {
+      "count": 18,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#17a2b8": {
+      "count": 17,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#343a40": {
+      "count": 17,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#98846d": {
+      "count": 16,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#e9ecef": {
+      "count": 16,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#495057": {
+      "count": 12,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#ababab": {
+      "count": 8,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 8,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#b8b8b8": {
+      "count": 6,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 6,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 6,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#cccccc": {
+      "count": 6,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#ced4da": {
+      "count": 5,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#545b62": {
+      "count": 5,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#1e7e34": {
+      "count": 5,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#117a8b": {
+      "count": 5,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#d39e00": {
+      "count": 5,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#bd2130": {
+      "count": 5,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#dae0e5": {
+      "count": 5,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#1d2124": {
+      "count": 5,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#7b6a57": {
+      "count": 5,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#8a3732": {
+      "count": 5,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#d58232": {
+      "count": 5,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#33535d": {
+      "count": 5,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#383d41": {
+      "count": 5,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#155724": {
+      "count": 5,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#0c5460": {
+      "count": 5,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#856404": {
+      "count": 5,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#721c24": {
+      "count": 5,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#818182": {
+      "count": 5,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#1b1e21": {
+      "count": 5,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#858585": {
+      "count": 5,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#4f4539": {
+      "count": 5,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#5b2421": {
+      "count": 5,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#735130": {
+      "count": 5,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#243a42": {
+      "count": 5,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#565656": {
+      "count": 5,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#1b1b1b": {
+      "count": 5,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#a64f4b": {
+      "count": 5,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#f9f2f4": {
+      "count": 4,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#c8cbcf": {
+      "count": 4,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#b1dfbb": {
+      "count": 4,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#abdde5": {
+      "count": 4,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#ffe8a1": {
+      "count": 4,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "#f1b0b7": {
+      "count": 4,
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Apple Color Emoji": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Arial": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Baskerville": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "BlinkMacSystemFont": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Consolas": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Courier New": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Gotham SSm A": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Gotham SSm B": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Helvetica": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Helvetica Neue": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Lato": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Liberation Mono": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Menlo": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Monaco": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Montserrat Black": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Montserrat Black Italic": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Montserrat Bold": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Montserrat Bold Italic": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Montserrat ExtraBold": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Montserrat ExtraBold Italic": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Montserrat ExtraLight": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Montserrat ExtraLight Italic": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Montserrat Italic": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Montserrat Light": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Montserrat Light Italic": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Montserrat Medium": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Montserrat Medium Italic": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Montserrat Regular": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Montserrat SemiBold": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Montserrat SemiBold Italic": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Montserrat Thin": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Montserrat Thin Italic": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Roboto": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "SFMono-Regular": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Segoe UI": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Segoe UI Emoji": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "Segoe UI Symbol": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "din-condensed": [
+      "https://use.typekit.net/kfn3pdm.css",
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "icomoon": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "icomoon\" !important": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "monospace": [
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ],
+    "open-sans-condensed": [
+      "https://use.typekit.net/kfn3pdm.css"
+    ],
+    "sans-serif": [
+      "https://use.typekit.net/kfn3pdm.css",
+      "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.baldwinhardware.com/",
+      "selector": "h1.hidElement",
+      "declarations": "position: absolute;\n    color: transparent;"
+    },
+    {
+      "source": "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware",
+      "selector": ":root",
+      "declarations": "--blue: #007bff;--indigo: #6610f2;--purple: #6f42c1;--pink: #e83e8c;--red: #dc3545;--orange: #fd7e14;--yellow: #ffc107;--green: #28a745;--teal: #20c997;--cyan: #17a2b8;--white: #fff;--gray: #6c757d;--gray-dark: #343a40;--primary: #000;--black: #000;--secondary: #6c757d;--success: #28a745;--info: #17a2b8;--warning: #ffc107;--danger: #dc3545;--light: #f8f9fa;--dark: #343a40;--white: #fff;--gold: #98846d;--estate: #af4640;--prestige: #de9c5c;--reserve: #45707e;--breakpoint-xs: 0;--breakpoint-sm: 576px;--breakpoint-md: 768px;--breakpoint-lg: 992px;--breakpoint-xl: 1200px;--font-family-sans-serif: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif, \"Apple C"
+    },
+    {
+      "source": "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware",
+      "selector": "body",
+      "declarations": "margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",\"Segoe UI Symbol\";font-size:16px;font-weight:400;line-height:1.5;color:#212529;text-align:left;background-color:#fff"
+    },
+    {
+      "source": "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware",
+      "selector": "input,button,select,optgroup,textarea",
+      "declarations": "margin:0;font-family:inherit;font-size:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware",
+      "selector": "h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6",
+      "declarations": "margin-bottom:.5rem;font-family:inherit;font-weight:500;line-height:1.2;color:inherit"
+    },
+    {
+      "source": "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware",
+      "selector": ".table-striped tbody tr:nth-of-type(odd)",
+      "declarations": "background-color:rgba(0,0,0,.05)"
+    },
+    {
+      "source": "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware",
+      "selector": ".table-hover tbody tr:hover",
+      "declarations": "background-color:rgba(0,0,0,.075)"
+    },
+    {
+      "source": "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware",
+      "selector": ".table-dark.table-striped tbody tr:nth-of-type(odd)",
+      "declarations": "background-color:rgba(255,255,255,.05)"
+    },
+    {
+      "source": "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware",
+      "selector": ".table-dark.table-hover tbody tr:hover",
+      "declarations": "background-color:rgba(255,255,255,.075)"
+    },
+    {
+      "source": "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware",
+      "selector": ".btn-primary",
+      "declarations": "color:#fff;background-color:#000;border-color:#000"
+    },
+    {
+      "source": "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware",
+      "selector": ".btn-primary:hover",
+      "declarations": "color:#fff;background-color:#000;border-color:#000"
+    },
+    {
+      "source": "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware",
+      "selector": ".btn-primary.disabled,.btn-primary:disabled",
+      "declarations": "color:#fff;background-color:#000;border-color:#000"
+    },
+    {
+      "source": "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware",
+      "selector": ".btn-primary:not(:disabled):not(.disabled):active,.btn-primary:not(:disabled):not(.disabled).active,.show>.btn-primary.dropdown-toggle",
+      "declarations": "color:#fff;background-color:#000;border-color:#000"
+    },
+    {
+      "source": "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware",
+      "selector": ".btn-black",
+      "declarations": "color:#fff;background-color:#000;border-color:#000"
+    },
+    {
+      "source": "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware",
+      "selector": ".btn-black:hover",
+      "declarations": "color:#fff;background-color:#000;border-color:#000"
+    },
+    {
+      "source": "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware",
+      "selector": ".btn-black.disabled,.btn-black:disabled",
+      "declarations": "color:#fff;background-color:#000;border-color:#000"
+    },
+    {
+      "source": "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware",
+      "selector": ".btn-black:not(:disabled):not(.disabled):active,.btn-black:not(:disabled):not(.disabled).active,.show>.btn-black.dropdown-toggle",
+      "declarations": "color:#fff;background-color:#000;border-color:#000"
+    },
+    {
+      "source": "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware",
+      "selector": ".btn-secondary",
+      "declarations": "color:#fff;background-color:#6c757d;border-color:#6c757d"
+    },
+    {
+      "source": "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware",
+      "selector": ".btn-secondary:hover",
+      "declarations": "color:#fff;background-color:#5a6268;border-color:#545b62"
+    },
+    {
+      "source": "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware",
+      "selector": ".btn-secondary.disabled,.btn-secondary:disabled",
+      "declarations": "color:#fff;background-color:#6c757d;border-color:#6c757d"
+    },
+    {
+      "source": "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware",
+      "selector": ".btn-secondary:not(:disabled):not(.disabled):active,.btn-secondary:not(:disabled):not(.disabled).active,.show>.btn-secondary.dropdown-toggle",
+      "declarations": "color:#fff;background-color:#545b62;border-color:#4e555b"
+    },
+    {
+      "source": "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware",
+      "selector": ".btn-success",
+      "declarations": "color:#fff;background-color:#28a745;border-color:#28a745"
+    },
+    {
+      "source": "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware",
+      "selector": ".btn-success:hover",
+      "declarations": "color:#fff;background-color:#218838;border-color:#1e7e34"
+    },
+    {
+      "source": "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware",
+      "selector": ".btn-success.disabled,.btn-success:disabled",
+      "declarations": "color:#fff;background-color:#28a745;border-color:#28a745"
+    },
+    {
+      "source": "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware",
+      "selector": ".btn-success:not(:disabled):not(.disabled):active,.btn-success:not(:disabled):not(.disabled).active,.show>.btn-success.dropdown-toggle",
+      "declarations": "color:#fff;background-color:#1e7e34;border-color:#1c7430"
+    },
+    {
+      "source": "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware",
+      "selector": ".btn-info",
+      "declarations": "color:#fff;background-color:#17a2b8;border-color:#17a2b8"
+    },
+    {
+      "source": "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware",
+      "selector": ".btn-info:hover",
+      "declarations": "color:#fff;background-color:#138496;border-color:#117a8b"
+    },
+    {
+      "source": "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware",
+      "selector": ".btn-info.disabled,.btn-info:disabled",
+      "declarations": "color:#fff;background-color:#17a2b8;border-color:#17a2b8"
+    },
+    {
+      "source": "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware",
+      "selector": ".btn-info:not(:disabled):not(.disabled):active,.btn-info:not(:disabled):not(.disabled).active,.show>.btn-info.dropdown-toggle",
+      "declarations": "color:#fff;background-color:#117a8b;border-color:#10707f"
+    },
+    {
+      "source": "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware",
+      "selector": ".btn-warning",
+      "declarations": "color:#212529;background-color:#ffc107;border-color:#ffc107"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Celebrating 80 Years of Iconic Hardware | Baldwin Hardware",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "colors.dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "colors.estate": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "colors.prestige": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "colors.reserve": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "colors.gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.baldwinhardware.com/ResourcePackages/BaldwinHardware/assets/dist/css/app.css?version=20260416221100&package=BaldwinHardware"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.finish-swatch-selector": {
+      "status": "inferred"
+    }
+  }
+}

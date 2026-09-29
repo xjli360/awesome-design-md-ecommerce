@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Method
-description: A cleaning brand that wears its chemistry on its sleeve — #7e57c7, a vivid purple, is the primary voltage, not the pastel or neutral you'd expect from a home-care aisle. It's paired with #77d42a (lime green) as the secondary accent, creating a high-contrast, almost playful palette that reads more like a consumer-electronics brand than a soap company. The site uses Avenir LT W01 as its primary typeface, with a light weight (35) for body text and a medium weight (65) for headings, giving the interface a refined, slightly European feel. Buttons and cards use generous {rounded.md} corners, softening the otherwise bold color blocks. The product photography is the real hero — bright, clean, often isolated on white — while the interface stays out of the way with a white canvas ({colors.canvas}) and thin {colors.hairline} borders. The brand's voice is direct and slightly irreverent ("people against dirty"), and the design mirrors that: no fluff, no decorative flourishes, just clear information architecture with color as the primary wayfinding tool. The extracted palette is unusually broad — including multiple blues, oranges, yellows, and reds — suggesting a system that uses color to differentiate product lines or categories rather than a single-brand monochrome approach. The purple (#7e57c7) and lime (#77d42a) are the most distinctive and likely represent the core brand identity, while the blues (#007dc1, #00b7ea) and oranges (#d0451b, #ffab23) may be sub-brand or product-variant colors. The site avoids heavy shadows or gradients, relying instead on flat color blocks and clean typographic hierarchy.
+name: "Method"
+source_url: "https://methodhome.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A cleaning brand that wears its chemistry on its sleeve — #7e57c7, a vivid purple, is the primary voltage, not the pastel or neutral you'd expect from a home-care aisle. It's paired with #77d42a (lime green) as the secondary accent, creating a high-contrast, almost playful palette that reads more like a consumer-electronics brand than a soap company. The site uses Avenir LT W01 as its primary typeface, with a light weight (35) for body text and a medium weight (65) for headings, giving the interface a refined, slightly European feel. Buttons and cards use generous {rounded.md} corners, softening the otherwise bold color blocks. The product photography is the real hero — bright, clean, often isolated on white — while the interface stays out of the way with a white canvas ({colors.canvas}) and thin {colors.hairline} borders. The brand's voice is direct and slightly irreverent ("people against dirty"), and the design mirrors that: no fluff, no decorative flourishes, just clear information architecture with color as the primary wayfinding tool. The extracted palette is unusually broad — including multiple blues, oranges, yellows, and reds — suggesting a system that uses color to differentiate product lines or categories rather than a single-brand monochrome approach. The purple (#7e57c7) and lime (#77d42a) are the most distinctive and likely represent the core brand identity, while the blues (#007dc1, #00b7ea) and oranges (#d0451b, #ffab23) may be sub-brand or product-variant colors. The site avoids heavy shadows or gradients, relying instead on flat color blocks and clean typographic hierarchy.
 
 colors:
   primary: "#7e57c7"
@@ -402,6 +406,8 @@ components:
 - Category tags collapse to a horizontally scrollable strip on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted color palette is unusually large (30+ colors), suggesting a system with multiple sub-brands or product-line color codes. The primary (#7e57c7) and secondary (#77d42a) are the most distinctive, but the exact mapping of accent colors to product categories or UI states could not be reliably determined.
 - Font-family declarations include "Avenir LT W01" variants, "Open Sans", "Raleway", and "proxima-nova", but the primary body and heading fonts appear to be Avenir. The exact font-weight mapping (light vs. medium vs. roman) for each text style is inferred from common usage.

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Riley Home
-description: Riley Home is a bath brand that feels like a warm, textured sanctuary — not cold spa minimalism but something softer, more tactile, with a palette anchored in earthy greens and sun-baked neutrals. The primary voltage is a deep teal-green (#108474) that appears on CTAs, navigation accents, and product badges, while a secondary warm clay (#e3ad7c) and a dusty sand (#bfa999) echo natural materials like terracotta and linen. The canvas is a clean off-white (#f9fafb) with surface cards in pure white (#ffffff) and soft muted backgrounds in barely-there gray (#f4f6f8, #edf5f5). Typography runs Assistant — a clean, slightly condensed sans-serif — at moderate weights (400–600), with display sizes around 28–32px and body text at 14–16px. The brand avoids heavy black text, using a dark brown (#3a2210) for ink and a medium gray (#7b7b7b) for muted copy, creating a softer reading experience. Signature design moves include pill-shaped buttons (`{rounded.full}`) and search bars, softly rounded product cards (`{rounded.md}` ~12px), and a persistent top nav with a clean white background and subtle hairline (#dedede). The overall mood is calm, considered, and residential — this is a brand that wants to feel like the best part of your morning routine, not a clinical bathroom showroom.
+name: "Riley Home"
+source_url: "https://rileyhome.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Riley Home is a bath brand that feels like a warm, textured sanctuary — not cold spa minimalism but something softer, more tactile, with a palette anchored in earthy greens and sun-baked neutrals. The primary voltage is a deep teal-green (#108474) that appears on CTAs, navigation accents, and product badges, while a secondary warm clay (#e3ad7c) and a dusty sand (#bfa999) echo natural materials like terracotta and linen. The canvas is a clean off-white (#f9fafb) with surface cards in pure white (#ffffff) and soft muted backgrounds in barely-there gray (#f4f6f8, #edf5f5). Typography runs Assistant — a clean, slightly condensed sans-serif — at moderate weights (400–600), with display sizes around 28–32px and body text at 14–16px. The brand avoids heavy black text, using a dark brown (#3a2210) for ink and a medium gray (#7b7b7b) for muted copy, creating a softer reading experience. Signature design moves include pill-shaped buttons (`{rounded.full}`) and search bars, softly rounded product cards (`{rounded.md}` ~12px), and a persistent top nav with a clean white background and subtle hairline (#dedede). The overall mood is calm, considered, and residential — this is a brand that wants to feel like the best part of your morning routine, not a clinical bathroom showroom.
 
 colors:
   primary: "#108474"
@@ -388,6 +392,8 @@ components:
 - Multi-column product grids collapse to single column on mobile, two columns on tablet
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact hover and focus states for all interactive elements (colors, shadows, transitions) could not be reliably extracted from the live site
 - Error state styling for forms (border colors, icon placement, message typography) is inferred from common patterns rather than verified

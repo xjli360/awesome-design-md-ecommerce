@@ -1,11 +1,15 @@
 ---
 version: alpha
-name: Automic Gold
-description: Deep violet (#350b60) saturates every hero edge at Automic Gold — not the lavender of spas or the dusty mauve of minimalism, but a full-chroma jewel tone that reads as political and expensive in the same breath. Against it sits a 24-karat gold (#ffcc33) that matches the brand name literally: coin-bright, high-chroma, worn as both primary accent and ideological declaration. This purple-and-gold pairing is the brand's most legible statement — a queer-owned New York fine jeweler refusing the safe beige-and-ivory grammar of the category. The palette runs from this violet peak down through dark indigo (#18084d), to near-void navy (#08003c) at footers and editorial dividers, so the page travels from noon gold to absolute midnight. Blush (#fce2e6) enters as surface relief — the campaign-image fill or product-card background that prevents the composition from reading as all nightclub, all the time.
+name: "Automic Gold"
+source_url: "https://www.automicgold.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Deep violet (#350b60) saturates every hero edge at Automic Gold — not the lavender of spas or the dusty mauve of minimalism, but a full-chroma jewel tone that reads as political and expensive in the same breath. Against it sits a 24-karat gold (#ffcc33) that matches the brand name literally: coin-bright, high-chroma, worn as both primary accent and ideological declaration. This purple-and-gold pairing is the brand's most legible statement — a queer-owned New York fine jeweler refusing the safe beige-and-ivory grammar of the category. The palette runs from this violet peak down through dark indigo (#18084d), to near-void navy (#08003c) at footers and editorial dividers, so the page travels from noon gold to absolute midnight. Blush (#fce2e6) enters as surface relief — the campaign-image fill or product-card background that prevents the composition from reading as all nightclub, all the time.
 
-Type runs on Soleil, a geometric humanist sans-serif whose even stroke weight lets jewelry copy breathe without fighting photography, and Boldline, a heavier display face that carries headlines. Neither font reaches for heavy weights to manufacture authority — the palette does that work. Letter-spacing stays tight, letting the gold-on-violet contrast carry the visual voltage rather than typographic scale.
+  Type runs on Soleil, a geometric humanist sans-serif whose even stroke weight lets jewelry copy breathe without fighting photography, and Boldline, a heavier display face that carries headlines. Neither font reaches for heavy weights to manufacture authority — the palette does that work. Letter-spacing stays tight, letting the gold-on-violet contrast carry the visual voltage rather than typographic scale.
 
-Form language mirrors the inventory: `{rounded.full}` pill CTAs and search bars that echo ring shanks, softly radiused product cards at `{rounded.md}`, and thumbnails with just enough radius (`{rounded.sm}`) to signal approachability. No hard interactive corner exists. The grid is generous at desktop — wide margins that frame each piece of jewelry as a standalone object — then collapses at mobile to full-bleed imagery that turns the viewport into a display case. The announcement bar runs `{colors.gold}` type on `{colors.primary}` background, reinforcing the brand's two-color signature at every scroll position. Sustainability and queer-owned identity are not footnotes here; they appear in badges and page-title copy with the same visual weight as the product name.
+  Form language mirrors the inventory: `{rounded.full}` pill CTAs and search bars that echo ring shanks, softly radiused product cards at `{rounded.md}`, and thumbnails with just enough radius (`{rounded.sm}`) to signal approachability. No hard interactive corner exists. The grid is generous at desktop — wide margins that frame each piece of jewelry as a standalone object — then collapses at mobile to full-bleed imagery that turns the viewport into a display case. The announcement bar runs `{colors.gold}` type on `{colors.primary}` background, reinforcing the brand's two-color signature at every scroll position. Sustainability and queer-owned identity are not footnotes here; they appear in badges and page-title copy with the same visual weight as the product name.
 
 colors:
   primary: "#350b60"
@@ -354,6 +358,8 @@ components:
 - PDP image gallery: vertical thumbnail column on desktop → horizontal thumbnail strip on tablet → hidden strip with dot-indicator pagination on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Canvas white (#ffffff) and surface-card white were not in the extracted palette — inferred as implicit background; verify against live computed styles
 - No mid-tone gray for body text in a muted or secondary context was extracted; #dedede (hairline gray) and #121212 (ink) represent the extremes only — a mid-gray around #767676 may exist for captions but could not be confirmed

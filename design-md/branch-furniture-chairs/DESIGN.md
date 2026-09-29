@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Branch Furniture (Chairs)
-description: |
+name: "Branch Furniture (Chairs)"
+source_url: "https://www.branchfurniture.com/collections/office-chairs"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The browser chrome itself bleeds #314438 on mobile — Branch commits its forest-green primary so completely that it colonizes the OS status bar, not just the nav. That dark, resinous green sits against cream grounds (#faf8f4, #f3eeea) that recall natural materials rather than the sterile white of most workspace brands, and the warmth sharpens when terracotta (#da5f4d) surfaces on CTAs and promotional callouts. Sage (#9fb59e) and dusty muted sky (#8cc1d2) provide a nature-derived secondary palette that keeps the overall atmosphere closer to a well-appointed home study than to a conventional office supply catalog.
 
   Type leads with Frank Ruhl Libre, a serif with roots in Hebrew type design — slightly compressed, dignified, with ink traps that give it an artisanal edge at display sizes. It delivers product names and headlines with editorial gravity that no geometric sans could match for a brand selling furniture that's meant to look good in a room. Koulen, an aggressively condensed display face, handles high-contrast feature labels and promotional banners where compact verticality and uppercase geometry matter. Quicksand carries all functional UI — navigation, buttons, form fields, body copy — in a rounded, approachable weight that keeps the purchase flow light and accessible.
@@ -416,6 +419,8 @@ components:
 - Footer grid: four columns on desktop, two on tablet, single-column accordion on mobile with each section expandable via Koulen header tap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact button border-radius values not confirmed from CSS extraction — {rounded.sm} (8px) inferred from visual category conventions for DTC office furniture
 - Frank Ruhl Libre weight variants and precise size scale not confirmed via extraction — weights 500/600/700 attributed from visual hierarchy inference

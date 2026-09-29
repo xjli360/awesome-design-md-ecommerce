@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Sabrent
-description: A deep-navy (#080341) e-commerce storefront for high-performance storage hardware, where technical credibility is signaled through a stark two-tone palette of midnight blue and clean white (#f3f4f6) rather than flashy gradients or lifestyle photography. The brand’s primary voltage is a confident corporate blue (#0057b8) that appears on every add-to-cart button, category header, and product badge — a color borrowed from industrial engineering rather than consumer tech. Product pages read like spec sheets: dense tables of read/write speeds, controller chips, and NAND types sit in a tight 12-column grid, with the only visual relief coming from product shots on pure white backgrounds and the occasional green (#3ed660) “in stock” indicator or orange (#ee9441) sale badge. The typography runs Inter at modest weights (400–600) across all headings and body text, with no display-size hero type — the brand trusts its product photography and technical copy to carry the page. Navigation is a fixed top bar with a left-aligned logo, a search icon, and a cart counter, all rendered in the same deep navy as the footer. Every interactive element — buttons, input fields, dropdowns — uses a crisp 4px radius (`{rounded.xs}`), a deliberate choice that reads as precise and utilitarian, matching the machined-aluminum enclosures of the SSDs themselves. The checkout flow is Shopify-hosted, introducing a secondary blue (#007aff) for payment actions that sits slightly warmer than the brand’s primary blue, a subtle but noticeable shift in the purchase funnel.
+name: "Sabrent"
+source_url: "https://www.sabrent.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep-navy (#080341) e-commerce storefront for high-performance storage hardware, where technical credibility is signaled through a stark two-tone palette of midnight blue and clean white (#f3f4f6) rather than flashy gradients or lifestyle photography. The brand’s primary voltage is a confident corporate blue (#0057b8) that appears on every add-to-cart button, category header, and product badge — a color borrowed from industrial engineering rather than consumer tech. Product pages read like spec sheets: dense tables of read/write speeds, controller chips, and NAND types sit in a tight 12-column grid, with the only visual relief coming from product shots on pure white backgrounds and the occasional green (#3ed660) “in stock” indicator or orange (#ee9441) sale badge. The typography runs Inter at modest weights (400–600) across all headings and body text, with no display-size hero type — the brand trusts its product photography and technical copy to carry the page. Navigation is a fixed top bar with a left-aligned logo, a search icon, and a cart counter, all rendered in the same deep navy as the footer. Every interactive element — buttons, input fields, dropdowns — uses a crisp 4px radius (`{rounded.xs}`), a deliberate choice that reads as precise and utilitarian, matching the machined-aluminum enclosures of the SSDs themselves. The checkout flow is Shopify-hosted, introducing a secondary blue (#007aff) for payment actions that sits slightly warmer than the brand’s primary blue, a subtle but noticeable shift in the purchase funnel.
 
 colors:
   primary: "#0057b8"
@@ -390,6 +394,8 @@ components:
 - Breadcrumbs hide on mobile, replaced by a single “Back” link
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted hex list is dominated by generic web blues, grays, and a few accent colors — the brand’s true primary (#0057b8) was chosen as the most distinctive blue, but it may not be the exact brand blue used in all contexts (e.g., hover states, disabled states are inferred)
 - Font-family declarations only returned “Inter” and “swiper-icons” — no fallback stack or secondary typeface was found; the Inter family is assumed to include all weights (400, 500, 600) but exact weight usage for each heading level is inferred from common e-commerce patterns

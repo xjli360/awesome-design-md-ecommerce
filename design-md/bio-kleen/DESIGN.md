@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Bio-Kleen
-description: A deep, forest-floor green (#025f1d) anchors every primary action and headline across a site that feels more like a naturalist’s field guide than a cleaning-supply store. The brand’s signature move is a dense, saturated green gradient that runs from #012d0e at its darkest to #03912c at its brightest — a living chlorophyll spectrum that appears in the hero background, the primary button fill, and the product-badge accent. Against a canvas of #ffffff and surface cards of #f9f9f9, the green reads as clean, not clinical; the supporting palette is almost entirely grays (#f2f2f2, #e8e8e8, #d1d1d1, #646464, #303030) that recede quietly, letting the green and the product photography do the work. A single red alert (#eb5757) and a deeper error red (#e02b27) provide the only chromatic tension. Typography runs on brandon-grotesque for headlines — a geometric, slightly condensed sans-serif with a friendly, mid-century feel — and Open Sans for body copy, both set at modest weights (400–600) with generous line heights. Buttons are softly rounded rectangles (`{rounded.sm}` ~8px), product cards use a slightly deeper radius (`{rounded.md}` ~12px), and the search bar is a pill (`{rounded.full}`) that echoes the organic, enzyme-friendly brand promise. The overall mood is earnest, botanical, and unpretentious — a cleaning brand that trusts its green to signal efficacy without shouting.
+name: "Bio-Kleen"
+source_url: "https://biokleenhome.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep, forest-floor green (#025f1d) anchors every primary action and headline across a site that feels more like a naturalist’s field guide than a cleaning-supply store. The brand’s signature move is a dense, saturated green gradient that runs from #012d0e at its darkest to #03912c at its brightest — a living chlorophyll spectrum that appears in the hero background, the primary button fill, and the product-badge accent. Against a canvas of #ffffff and surface cards of #f9f9f9, the green reads as clean, not clinical; the supporting palette is almost entirely grays (#f2f2f2, #e8e8e8, #d1d1d1, #646464, #303030) that recede quietly, letting the green and the product photography do the work. A single red alert (#eb5757) and a deeper error red (#e02b27) provide the only chromatic tension. Typography runs on brandon-grotesque for headlines — a geometric, slightly condensed sans-serif with a friendly, mid-century feel — and Open Sans for body copy, both set at modest weights (400–600) with generous line heights. Buttons are softly rounded rectangles (`{rounded.sm}` ~8px), product cards use a slightly deeper radius (`{rounded.md}` ~12px), and the search bar is a pill (`{rounded.full}`) that echoes the organic, enzyme-friendly brand promise. The overall mood is earnest, botanical, and unpretentious — a cleaning brand that trusts its green to signal efficacy without shouting.
 
 colors:
   primary: "#025f1d"
@@ -268,6 +272,8 @@ components:
 - The search bar may move from the nav into a dedicated expandable search panel on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for most components are inferred from the extracted color palette and common patterns; the live site may use different transitions or shadows.
 - Error and success states for forms (validation messages, success banners) were not extracted; red (#eb5757) is used as the error accent but may not match the brand’s exact error styling.

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Schoolhouse
-description: Schoolhouse is a decor brand that feels like a warm, well-edited living room rather than a sterile showroom. The palette is grounded in a deep, almost charcoal ink (`#2c2c2c`) and a soft, approachable body gray (`#707070`), with a canvas (`#f5f5f5`) that leans slightly warm — not a cold, clinical white. This foundation is punctuated by a singular, confident accent: a rich, heritage red (`#ce2525`) that appears on primary CTAs, sale badges, and key product callouts, acting as the brand's voltage. Supporting this are muted tones like `#9ca3af` and `#dcdcdc` for hairline borders and soft surfaces, creating a layered, tactile feel. The typography, anchored by Inter and system fonts, is clean and utilitarian, favoring readability over display. The brand's signature move is the use of generous, soft rounding — `{rounded.sm}` (8px) for buttons and `{rounded.md}` (12px) for cards — which, combined with the warm canvas and restrained palette, makes the site feel friendly and curated, not coldly minimalist. The overall mood is one of quiet confidence: the design gets out of the way of the product photography, letting the decor speak for itself.
+name: "Schoolhouse"
+source_url: "https://www.schoolhouse.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Schoolhouse is a decor brand that feels like a warm, well-edited living room rather than a sterile showroom. The palette is grounded in a deep, almost charcoal ink (`#2c2c2c`) and a soft, approachable body gray (`#707070`), with a canvas (`#f5f5f5`) that leans slightly warm — not a cold, clinical white. This foundation is punctuated by a singular, confident accent: a rich, heritage red (`#ce2525`) that appears on primary CTAs, sale badges, and key product callouts, acting as the brand's voltage. Supporting this are muted tones like `#9ca3af` and `#dcdcdc` for hairline borders and soft surfaces, creating a layered, tactile feel. The typography, anchored by Inter and system fonts, is clean and utilitarian, favoring readability over display. The brand's signature move is the use of generous, soft rounding — `{rounded.sm}` (8px) for buttons and `{rounded.md}` (12px) for cards — which, combined with the warm canvas and restrained palette, makes the site feel friendly and curated, not coldly minimalist. The overall mood is one of quiet confidence: the design gets out of the way of the product photography, letting the decor speak for itself.
 
 colors:
   primary: "#ce2525"
@@ -278,6 +282,8 @@ components:
 - Footer columns stack vertically on mobile, with each section becoming an accordion.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for secondary and tertiary buttons were not fully extracted; assumed standard darkening or underline.
 - Error states for form inputs (e.g., red border, error message styling) were not observed.

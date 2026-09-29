@@ -1,0 +1,966 @@
+{
+  "source_url": "https://www.xp-pen.com",
+  "final_url": "https://www.xp-pen.com/",
+  "captured_at": "2026-09-28T04:04:23.773698+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.xp-pen.com",
+      "final_url": "https://www.xp-pen.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "6b74092558971d1c66bf5a8d77123391695022a2a2f63e5403f993cb2221179b",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+      "final_url": "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3fa5f80e203b61916a87271ca579421473352e0e585b1fdeaee4d9f41e9123d0",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.xp-pen.com/static/iconfont/iconfont.css?v=1.7.4.2",
+      "final_url": "https://www.xp-pen.com/static/iconfont/iconfont.css?v=1.7.4.2",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f6354a3966affcc40ac9e9b358b6895fb5b7916d6715c70b49db6667974df70f",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2",
+      "final_url": "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2c45cb0a543a02355b3b5cee987837e1e4a145679370a21aa4f20a7f1740e679",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.xp-pen.com/static/css/index/latoyt_style_reset.css?v=1.7.4.2",
+      "final_url": "https://www.xp-pen.com/static/css/index/latoyt_style_reset.css?v=1.7.4.2",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "8c80e526ad7803c236bb1ef1573b17dc398289f3bd9775d800ca7eb4bd6b82ed",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.xp-pen.com/static/css/index/global.css?v=1.7.4.2",
+      "final_url": "https://www.xp-pen.com/static/css/index/global.css?v=1.7.4.2",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d569599e72a09c248ba85d2cafa810c1cf548de930ffd3a59554948e6ff0ae88",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 404,
+      "sources": [
+        "https://www.xp-pen.com/",
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2",
+        "https://www.xp-pen.com/static/css/index/latoyt_style_reset.css?v=1.7.4.2",
+        "https://www.xp-pen.com/static/css/index/global.css?v=1.7.4.2"
+      ]
+    },
+    "#151414": {
+      "count": 239,
+      "sources": [
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2"
+      ]
+    },
+    "#fd4627": {
+      "count": 185,
+      "sources": [
+        "https://www.xp-pen.com/",
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2",
+        "https://www.xp-pen.com/static/css/index/global.css?v=1.7.4.2"
+      ]
+    },
+    "#666666": {
+      "count": 182,
+      "sources": [
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2",
+        "https://www.xp-pen.com/static/css/index/latoyt_style_reset.css?v=1.7.4.2",
+        "https://www.xp-pen.com/static/css/index/global.css?v=1.7.4.2"
+      ]
+    },
+    "#cccccc": {
+      "count": 157,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 126,
+      "sources": [
+        "https://www.xp-pen.com/",
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2"
+      ]
+    },
+    "#999999": {
+      "count": 95,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2",
+        "https://www.xp-pen.com/static/css/index/global.css?v=1.7.4.2"
+      ]
+    },
+    "#000000": {
+      "count": 93,
+      "sources": [
+        "https://www.xp-pen.com/",
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2",
+        "https://www.xp-pen.com/static/css/index/latoyt_style_reset.css?v=1.7.4.2",
+        "https://www.xp-pen.com/static/css/index/global.css?v=1.7.4.2"
+      ]
+    },
+    "#ff6c00": {
+      "count": 44,
+      "sources": [
+        "https://www.xp-pen.com/",
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2",
+        "https://www.xp-pen.com/static/css/index/global.css?v=1.7.4.2"
+      ]
+    },
+    "#eeeeee": {
+      "count": 44,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2",
+        "https://www.xp-pen.com/static/css/index/latoyt_style_reset.css?v=1.7.4.2"
+      ]
+    },
+    "#dddddd": {
+      "count": 38,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2"
+      ]
+    },
+    "#333333": {
+      "count": 36,
+      "sources": [
+        "https://www.xp-pen.com/",
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2",
+        "https://www.xp-pen.com/static/css/index/latoyt_style_reset.css?v=1.7.4.2",
+        "https://www.xp-pen.com/static/css/index/global.css?v=1.7.4.2"
+      ]
+    },
+    "#337ab7": {
+      "count": 25,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+      ]
+    },
+    "#777777": {
+      "count": 22,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 19,
+      "sources": [
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2"
+      ]
+    },
+    "#555555": {
+      "count": 16,
+      "sources": [
+        "https://www.xp-pen.com/",
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2"
+      ]
+    },
+    "#eb4d1d": {
+      "count": 15,
+      "sources": [
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2"
+      ]
+    },
+    "#3c763d": {
+      "count": 13,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+      ]
+    },
+    "#8a6d3b": {
+      "count": 13,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+      ]
+    },
+    "#a94442": {
+      "count": 13,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 11,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2",
+        "https://www.xp-pen.com/static/css/index/global.css?v=1.7.4.2"
+      ]
+    },
+    "#ff0000": {
+      "count": 10,
+      "sources": [
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2"
+      ]
+    },
+    "#31708f": {
+      "count": 9,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+      ]
+    },
+    "#fcf8e3": {
+      "count": 8,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+      ]
+    },
+    "#dff0d8": {
+      "count": 7,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+      ]
+    },
+    "#f2dede": {
+      "count": 7,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 7,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2",
+        "https://www.xp-pen.com/static/css/index/latoyt_style_reset.css?v=1.7.4.2"
+      ]
+    },
+    "#732512": {
+      "count": 7,
+      "sources": [
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2"
+      ]
+    },
+    "#ebebeb": {
+      "count": 6,
+      "sources": [
+        "https://www.xp-pen.com/",
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2"
+      ]
+    },
+    "#d9edf7": {
+      "count": 6,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+      ]
+    },
+    "#080808": {
+      "count": 6,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+      ]
+    },
+    "#010101": {
+      "count": 6,
+      "sources": [
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2",
+        "https://www.xp-pen.com/static/css/index/global.css?v=1.7.4.2"
+      ]
+    },
+    "#c0c0c0": {
+      "count": 6,
+      "sources": [
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2",
+        "https://www.xp-pen.com/static/css/index/latoyt_style_reset.css?v=1.7.4.2"
+      ]
+    },
+    "#286090": {
+      "count": 5,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+      ]
+    },
+    "#5cb85c": {
+      "count": 5,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+      ]
+    },
+    "#5bc0de": {
+      "count": 5,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+      ]
+    },
+    "#f0ad4e": {
+      "count": 5,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+      ]
+    },
+    "#d9534f": {
+      "count": 5,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+      ]
+    },
+    "#e7e7e7": {
+      "count": 5,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+      ]
+    },
+    "#9d9d9d": {
+      "count": 5,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+      ]
+    },
+    "#444444": {
+      "count": 5,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2",
+        "https://www.xp-pen.com/static/css/index/latoyt_style_reset.css?v=1.7.4.2"
+      ]
+    },
+    "#d6e9c6": {
+      "count": 5,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+      ]
+    },
+    "#bce8f1": {
+      "count": 5,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+      ]
+    },
+    "#faebcc": {
+      "count": 5,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+      ]
+    },
+    "#ebccd1": {
+      "count": 5,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+      ]
+    },
+    "#280501": {
+      "count": 5,
+      "sources": [
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2"
+      ]
+    },
+    "#5e280a": {
+      "count": 5,
+      "sources": [
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2"
+      ]
+    },
+    "#44abe2": {
+      "count": 5,
+      "sources": [
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2"
+      ]
+    },
+    "#ff6937": {
+      "count": 4,
+      "sources": [
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2"
+      ]
+    },
+    "#3d3d3d": {
+      "count": 4,
+      "sources": [
+        "https://www.xp-pen.com/static/css/index/global.css?v=1.7.4.2"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 4,
+      "sources": [
+        "https://www.xp-pen.com/static/css/index/global.css?v=1.7.4.2"
+      ]
+    },
+    "#ffff00": {
+      "count": 3,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2",
+        "https://www.xp-pen.com/static/css/index/latoyt_style_reset.css?v=1.7.4.2"
+      ]
+    },
+    "#23527c": {
+      "count": 3,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+      ]
+    },
+    "#2b542c": {
+      "count": 3,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+      ]
+    },
+    "#66512c": {
+      "count": 3,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+      ]
+    },
+    "#843534": {
+      "count": 3,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 3,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2"
+      ]
+    },
+    "#8c8c8c": {
+      "count": 3,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2"
+      ]
+    },
+    "#449d44": {
+      "count": 3,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+      ]
+    },
+    "#31b0d5": {
+      "count": 3,
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+      "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2",
+      "https://www.xp-pen.com/static/css/index/latoyt_style_reset.css?v=1.7.4.2"
+    ],
+    "Arial MT Black": [
+      "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2",
+      "https://www.xp-pen.com/static/css/index/latoyt_style_reset.css?v=1.7.4.2"
+    ],
+    "Avenir": [
+      "https://www.xp-pen.com/",
+      "https://www.xp-pen.com/static/css/index/latoyt_style_reset.css?v=1.7.4.2"
+    ],
+    "Consolas": [
+      "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+    ],
+    "Courier New": [
+      "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+    ],
+    "Gilroy": [
+      "https://www.xp-pen.com/",
+      "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2",
+      "https://www.xp-pen.com/static/css/index/global.css?v=1.7.4.2"
+    ],
+    "Glyphicons Halflings": [
+      "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+    ],
+    "Helvetica": [
+      "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+    ],
+    "Helvetica Neue": [
+      "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+    ],
+    "Menlo": [
+      "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+    ],
+    "Microsoft YaHei": [
+      "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2"
+    ],
+    "Microsoft Yahei": [
+      "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2",
+      "https://www.xp-pen.com/static/css/index/latoyt_style_reset.css?v=1.7.4.2"
+    ],
+    "Monaco": [
+      "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+    ],
+    "MyriadPro": [
+      "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2"
+    ],
+    "PingFang SC": [
+      "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2"
+    ],
+    "PingFangSC-Medium": [
+      "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2"
+    ],
+    "\\5B8B\\4F53": [
+      "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2",
+      "https://www.xp-pen.com/static/css/index/latoyt_style_reset.css?v=1.7.4.2"
+    ],
+    "\\5FAE\\8F6F\\96C5\\9ED1": [
+      "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2",
+      "https://www.xp-pen.com/static/css/index/latoyt_style_reset.css?v=1.7.4.2"
+    ],
+    "\\65B0\\5B8B\\4F53": [
+      "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2",
+      "https://www.xp-pen.com/static/css/index/latoyt_style_reset.css?v=1.7.4.2"
+    ],
+    "iconfont": [
+      "https://www.xp-pen.com/static/iconfont/iconfont.css?v=1.7.4.2"
+    ],
+    "iconfont\" !important": [
+      "https://www.xp-pen.com/static/iconfont/iconfont.css?v=1.7.4.2"
+    ],
+    "monospace": [
+      "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+      "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2",
+      "https://www.xp-pen.com/static/css/index/latoyt_style_reset.css?v=1.7.4.2"
+    ],
+    "sans-serif": [
+      "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+    ],
+    "serif": [
+      "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+    ],
+    "simsun": [
+      "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2",
+      "https://www.xp-pen.com/static/css/index/latoyt_style_reset.css?v=1.7.4.2"
+    ],
+    "宋体": [
+      "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2",
+      "https://www.xp-pen.com/static/css/index/latoyt_style_reset.css?v=1.7.4.2"
+    ],
+    "微软雅黑": [
+      "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2",
+      "https://www.xp-pen.com/static/css/index/latoyt_style_reset.css?v=1.7.4.2",
+      "https://www.xp-pen.com/static/css/index/global.css?v=1.7.4.2"
+    ],
+    "新宋体": [
+      "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2",
+      "https://www.xp-pen.com/static/css/index/latoyt_style_reset.css?v=1.7.4.2"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.xp-pen.com/",
+      "selector": ".header-warp-2023 .new-nav-list .nav-list-item .commodity-list .products_row .compare .nav-btn-warpper a",
+      "declarations": "font-size: 14px;color: #FFFFFF;"
+    },
+    {
+      "source": "https://www.xp-pen.com/",
+      "selector": ".header-warp-2023 .new-nav-list .nav-list-item .commodity-list .products_row .compare .nav-btn-warpper .iconfont",
+      "declarations": "font-size: 14px;color: #FFFFFF;"
+    },
+    {
+      "source": "https://www.xp-pen.com/",
+      "selector": ".header-warp-2023 .new-nav-list .nav-list-item .application_list",
+      "declarations": "position: absolute;left: 0;background-color: #fff;top: 100% !important;width: 100%;height: 270px;padding-top: 24px;border-top: 1px solid #EBEBEB;"
+    },
+    {
+      "source": "https://www.xp-pen.com/",
+      "selector": ".header-warp-2023 .new-nav-list .nav-list-item .application_list .application_row .application_li .p_des",
+      "declarations": "position: absolute;width: 94%;left: 3%;text-align: center;top: 27px;font-size: 14px;color: #FFFFFF;font-weight: bold;font-family: Gilroy;z-index: 2;"
+    },
+    {
+      "source": "https://www.xp-pen.com/",
+      "selector": ".golden-sentence .swiper-button-prev,\n    .golden-sentence .swiper-button-next",
+      "declarations": "width: 57px;\n        height: 57px;\n        background: #EAEAEA;\n        border-radius: 50%;\n        color: #fff;\n        display: flex;\n        align-items: center;\n        justify-content: center;"
+    },
+    {
+      "source": "https://www.xp-pen.com/",
+      "selector": ".jumpIndiaBox .btn a",
+      "declarations": "width: 240px; text-align: center;font-size: 24px;color: #a95e91; line-height: 50px;  height: 50px; display: inline-block;  -webkit-border-radius: 25px;  -moz-border-radius: 25px;  border-radius: 25px;  background-color: #fff;  -webkit-box-shadow: 0 8px 16px rgba(169,94,145,.4);  -moz-box-shadow: 0 8px 16px rgba(169,94,145,.4);  box-shadow: 0 8px 16px rgba(169,94,145,.4);"
+    },
+    {
+      "source": "https://www.xp-pen.com/",
+      "selector": ".jumpIndiaBox .btn a.active",
+      "declarations": "background-color: #a95e91;\n            -webkit-box-shadow: 0 8px 16px rgba(169,94,145,.5);\n            -moz-box-shadow: 0 8px 16px rgba(169,94,145,.5);\n            box-shadow: 0 8px 16px rgba(169,94,145,.5);\n            color: #fff;\n            margin-left: 50px;"
+    },
+    {
+      "source": "https://www.xp-pen.com/",
+      "selector": ".jumpIndiaBox .btn a:hover",
+      "declarations": "background-color: #934b7c; color: #ffffff;"
+    },
+    {
+      "source": "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0"
+    },
+    {
+      "source": "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+      "selector": ".btn>.caret,.dropup>.btn>.caret",
+      "declarations": "border-top-color:#000!important"
+    },
+    {
+      "source": "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+      "selector": ".img-thumbnail,body",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+      "selector": "body",
+      "declarations": "font-family:\"Helvetica Neue\",Helvetica,Arial,sans-serif;font-size:14px;line-height:1.42857143;color:#333"
+    },
+    {
+      "source": "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+      "selector": "button,input,select,textarea",
+      "declarations": "font-family:inherit;font-size:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+      "selector": ".h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6",
+      "declarations": "font-family:inherit;font-weight:500;line-height:1.1;color:inherit"
+    },
+    {
+      "source": "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+      "selector": "ll,.h3 .small,.h3 small,.h4 .small,.h4 small,.h5 .small,.h5 small,.h6 .small,.h6 small,h1 .small,h1 small,h2 .small,h2 small,h3 .small,h3 small,h4 .small,h4 sma",
+      "declarations": "font-weight:400;line-height:1;color:#777"
+    },
+    {
+      "source": "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+      "selector": ".table-striped>tbody>tr:nth-of-type(odd)",
+      "declarations": "background-color:#f9f9f9"
+    },
+    {
+      "source": "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+      "selector": ".table-hover>tbody>tr.active:hover>td,.table-hover>tbody>tr.active:hover>th,.table-hover>tbody>tr:hover>.active,.table-hover>tbody>tr>td.active:hover,.table-hov",
+      "declarations": "background-color:#e8e8e8"
+    },
+    {
+      "source": "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+      "selector": ".table-hover>tbody>tr.success:hover>td,.table-hover>tbody>tr.success:hover>th,.table-hover>tbody>tr:hover>.success,.table-hover>tbody>tr>td.success:hover,.table",
+      "declarations": "background-color:#d0e9c6"
+    },
+    {
+      "source": "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+      "selector": ".table-hover>tbody>tr.info:hover>td,.table-hover>tbody>tr.info:hover>th,.table-hover>tbody>tr:hover>.info,.table-hover>tbody>tr>td.info:hover,.table-hover>tbody",
+      "declarations": "background-color:#c4e3f3"
+    },
+    {
+      "source": "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+      "selector": ".table-hover>tbody>tr.warning:hover>td,.table-hover>tbody>tr.warning:hover>th,.table-hover>tbody>tr:hover>.warning,.table-hover>tbody>tr>td.warning:hover,.table",
+      "declarations": "background-color:#faf2cc"
+    },
+    {
+      "source": "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+      "selector": ".table-hover>tbody>tr.danger:hover>td,.table-hover>tbody>tr.danger:hover>th,.table-hover>tbody>tr:hover>.danger,.table-hover>tbody>tr>td.danger:hover,.table-hov",
+      "declarations": "background-color:#ebcccc"
+    },
+    {
+      "source": "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+      "selector": ".btn.focus,.btn:focus,.btn:hover",
+      "declarations": "color:#333;text-decoration:none"
+    },
+    {
+      "source": "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+      "selector": ".btn-default",
+      "declarations": "color:#333;background-color:#fff;border-color:#ccc"
+    },
+    {
+      "source": "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+      "selector": ".btn-default.focus,.btn-default:focus",
+      "declarations": "color:#333;background-color:#e6e6e6;border-color:#8c8c8c"
+    },
+    {
+      "source": "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+      "selector": ".btn-default.active,.btn-default:active,.btn-default:hover,.open>.dropdown-toggle.btn-default",
+      "declarations": "color:#333;background-color:#e6e6e6;border-color:#adadad"
+    },
+    {
+      "source": "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+      "selector": ".btn-default:active.focus,.btn-default:active:focus,.btn-default:active:hover,.open>.dropdown-toggle.btn-default.focus,.open>.dropdown-toggle.btn-default:focus,",
+      "declarations": "color:#333;background-color:#d4d4d4;border-color:#8c8c8c"
+    },
+    {
+      "source": "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+      "selector": ".btn-default[disabled].focus,.btn-default[disabled]:focus,.btn-default[disabled]:hover,fieldset[disabled] .btn-default.focus,fieldset[disabled] .btn-default:foc",
+      "declarations": "background-color:#fff;border-color:#ccc"
+    },
+    {
+      "source": "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+      "selector": ".btn-default .badge",
+      "declarations": "color:#fff;background-color:#333"
+    },
+    {
+      "source": "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+      "selector": ".btn-primary",
+      "declarations": "color:#fff;background-color:#337ab7;border-color:#2e6da4"
+    },
+    {
+      "source": "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+      "selector": ".btn-primary.focus,.btn-primary:focus",
+      "declarations": "color:#fff;background-color:#286090;border-color:#122b40"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Graphic drawing tablets & Digital Art Pads With Screen | XPPen",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.xp-pen.com/",
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2",
+        "https://www.xp-pen.com/static/css/index/global.css?v=1.7.4.2"
+      ]
+    },
+    "colors.accent-orange": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.xp-pen.com/",
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2",
+        "https://www.xp-pen.com/static/css/index/global.css?v=1.7.4.2"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.xp-pen.com/",
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2",
+        "https://www.xp-pen.com/static/css/index/latoyt_style_reset.css?v=1.7.4.2",
+        "https://www.xp-pen.com/static/css/index/global.css?v=1.7.4.2"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.xp-pen.com/",
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2",
+        "https://www.xp-pen.com/static/css/index/latoyt_style_reset.css?v=1.7.4.2",
+        "https://www.xp-pen.com/static/css/index/global.css?v=1.7.4.2"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.xp-pen.com/",
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.xp-pen.com/",
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2",
+        "https://www.xp-pen.com/static/css/index/global.css?v=1.7.4.2"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.xp-pen.com/",
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2",
+        "https://www.xp-pen.com/static/css/index/latoyt_style_reset.css?v=1.7.4.2",
+        "https://www.xp-pen.com/static/css/index/global.css?v=1.7.4.2"
+      ]
+    },
+    "colors.border-mid": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css",
+        "https://www.xp-pen.com/static/css/index/layout.css?v=1.7.4.2"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.xp-pen.com/static/ace/css/bootstrap.min.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.carousel-control": {
+      "status": "inferred"
+    }
+  }
+}

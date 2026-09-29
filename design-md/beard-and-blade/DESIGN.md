@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Beard & Blade
-description: Australia's home of men's grooming, Beard & Blade operates on a rugged, masculine palette anchored by deep charcoal {colors.ink} (#231f20) and warm gold accents {colors.accent-gold} (#b49263), with a secondary navy {colors.accent-navy} (#344153) that adds a barbershop-apothecary seriousness. The brand's primary voltage is a confident gold {colors.primary} (#c6a671) that appears on CTAs, badges, and hover states, while a forest green {colors.accent-green} (#6eb69c) and a muted red {colors.accent-red} (#ca192c) provide accent notes for sale tags and alerts. The canvas is a warm off-white {colors.canvas} (#fafafa) rather than pure white, giving the site a tactile, paper-stock feel that pairs with the soft cream {colors.surface-soft} (#f4ede4) used on product cards and section backgrounds. Typography relies on Poppins and Chivo at display sizes — Poppins at 600 weight for headings and Chivo for body copy — creating a clean, modern sans-serif system that feels barber-shop precise without being overly corporate. Buttons are softly rounded at {rounded.sm} (8px), while product cards use {rounded.md} (12px) and badges use {rounded.full} pill shapes. The overall mood is premium but approachable: dark enough to feel masculine, warm enough to feel welcoming, with gold as the through-line that signals quality without shouting.
+name: "Beard & Blade"
+source_url: "https://www.beardandblade.com.au"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Australia's home of men's grooming, Beard & Blade operates on a rugged, masculine palette anchored by deep charcoal {colors.ink} (#231f20) and warm gold accents {colors.accent-gold} (#b49263), with a secondary navy {colors.accent-navy} (#344153) that adds a barbershop-apothecary seriousness. The brand's primary voltage is a confident gold {colors.primary} (#c6a671) that appears on CTAs, badges, and hover states, while a forest green {colors.accent-green} (#6eb69c) and a muted red {colors.accent-red} (#ca192c) provide accent notes for sale tags and alerts. The canvas is a warm off-white {colors.canvas} (#fafafa) rather than pure white, giving the site a tactile, paper-stock feel that pairs with the soft cream {colors.surface-soft} (#f4ede4) used on product cards and section backgrounds. Typography relies on Poppins and Chivo at display sizes — Poppins at 600 weight for headings and Chivo for body copy — creating a clean, modern sans-serif system that feels barber-shop precise without being overly corporate. Buttons are softly rounded at {rounded.sm} (8px), while product cards use {rounded.md} (12px) and badges use {rounded.full} pill shapes. The overall mood is premium but approachable: dark enough to feel masculine, warm enough to feel welcoming, with gold as the through-line that signals quality without shouting.
 
 colors:
   primary: "#c6a671"
@@ -426,6 +430,8 @@ components:
 - Category strip collapses to horizontal scroll on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact hover state colors for all interactive elements (only primary button hover was reliably extracted)
 - Focus ring styles and box-shadow values for inputs and buttons

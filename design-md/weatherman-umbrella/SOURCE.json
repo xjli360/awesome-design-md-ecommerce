@@ -1,0 +1,749 @@
+{
+  "source_url": "https://weathermanumbrella.com",
+  "final_url": "https://weatherman.com/",
+  "captured_at": "2026-09-28T09:13:28.672999+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://weathermanumbrella.com",
+      "final_url": "https://weatherman.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "cf85ad55c7714c7301406a90e8feec13bd98458d231b0bbe09a486985fdeb1b8",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://weatherman.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://weatherman.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://weatherman.com/cdn/shop/t/52/assets/theme.css?v=116126620414139630601760344949",
+      "final_url": "https://weatherman.com/cdn/shop/t/52/assets/theme.css?v=116126620414139630601760344949",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "eaed2328f6af8290fbfc44bd4d6058d4bae752e09dfd34fb212110d47f2da773",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://weatherman.com/cdn/shop/t/52/assets/custom.css?v=88275717595021126201760344949",
+      "final_url": "https://weatherman.com/cdn/shop/t/52/assets/custom.css?v=88275717595021126201760344949",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c66d66a97a2d7c33ee561a2afc2fe6667cf85a1a0df98ff33bc075c8e2136967",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css",
+      "final_url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "1edb1725a9ea8ca4dcf2f5508cee183218aa1685e47c1b23056717f754f58ebf",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "39441f1cb6840e4601467c2ea1fbe565e82c4ca6715ceb893847370a8c7532a3",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 11,
+      "sources": [
+        "https://weatherman.com/",
+        "https://weatherman.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://weatherman.com/cdn/shop/t/52/assets/theme.css?v=116126620414139630601760344949",
+        "https://weatherman.com/cdn/shop/t/52/assets/custom.css?v=88275717595021126201760344949",
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css",
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "#00000000": {
+      "count": 10,
+      "sources": [
+        "https://weatherman.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://weatherman.com/cdn/shop/t/52/assets/theme.css?v=116126620414139630601760344949"
+      ]
+    },
+    "#000000": {
+      "count": 3,
+      "sources": [
+        "https://weatherman.com/",
+        "https://weatherman.com/cdn/shop/t/52/assets/theme.css?v=116126620414139630601760344949"
+      ]
+    },
+    "#cbc6c5": {
+      "count": 3,
+      "sources": [
+        "https://weatherman.com/cdn/shop/t/52/assets/theme.css?v=116126620414139630601760344949",
+        "https://weatherman.com/cdn/shop/t/52/assets/custom.css?v=88275717595021126201760344949"
+      ]
+    },
+    "#f1efed": {
+      "count": 3,
+      "sources": [
+        "https://weatherman.com/cdn/shop/t/52/assets/theme.css?v=116126620414139630601760344949",
+        "https://weatherman.com/cdn/shop/t/52/assets/custom.css?v=88275717595021126201760344949"
+      ]
+    },
+    "#00a9b1": {
+      "count": 2,
+      "sources": [
+        "https://weatherman.com/"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://weatherman.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://weatherman.com/cdn/shop/t/52/assets/theme.css?v=116126620414139630601760344949"
+      ]
+    },
+    "#ef4e23": {
+      "count": 2,
+      "sources": [
+        "https://weatherman.com/cdn/shop/t/52/assets/theme.css?v=116126620414139630601760344949",
+        "https://weatherman.com/cdn/shop/t/52/assets/custom.css?v=88275717595021126201760344949"
+      ]
+    },
+    "#030712": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "#fafafa": {
+      "count": 1,
+      "sources": [
+        "https://weatherman.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://weatherman.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://weatherman.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://weatherman.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://weatherman.com/cdn/shop/t/52/assets/theme.css?v=116126620414139630601760344949"
+      ]
+    },
+    "#0000004d": {
+      "count": 1,
+      "sources": [
+        "https://weatherman.com/cdn/shop/t/52/assets/theme.css?v=116126620414139630601760344949"
+      ]
+    },
+    "#3636364d": {
+      "count": 1,
+      "sources": [
+        "https://weatherman.com/cdn/shop/t/52/assets/theme.css?v=116126620414139630601760344949"
+      ]
+    },
+    "#00000066": {
+      "count": 1,
+      "sources": [
+        "https://weatherman.com/cdn/shop/t/52/assets/theme.css?v=116126620414139630601760344949"
+      ]
+    },
+    "#8e8e8e7f": {
+      "count": 1,
+      "sources": [
+        "https://weatherman.com/cdn/shop/t/52/assets/theme.css?v=116126620414139630601760344949"
+      ]
+    },
+    "#8e8e8e": {
+      "count": 1,
+      "sources": [
+        "https://weatherman.com/cdn/shop/t/52/assets/theme.css?v=116126620414139630601760344949"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 1,
+      "sources": [
+        "https://weatherman.com/cdn/shop/t/52/assets/theme.css?v=116126620414139630601760344949"
+      ]
+    },
+    "#1060c1": {
+      "count": 1,
+      "sources": [
+        "https://weatherman.com/cdn/shop/t/52/assets/theme.css?v=116126620414139630601760344949"
+      ]
+    },
+    "#6e6968": {
+      "count": 1,
+      "sources": [
+        "https://weatherman.com/cdn/shop/t/52/assets/theme.css?v=116126620414139630601760344949"
+      ]
+    },
+    "#ffffff40": {
+      "count": 1,
+      "sources": [
+        "https://weatherman.com/cdn/shop/t/52/assets/custom.css?v=88275717595021126201760344949"
+      ]
+    },
+    "#00000026": {
+      "count": 1,
+      "sources": [
+        "https://weatherman.com/cdn/shop/t/52/assets/custom.css?v=88275717595021126201760344949"
+      ]
+    },
+    "#fbd3d1": {
+      "count": 1,
+      "sources": [
+        "https://weatherman.com/cdn/shop/t/52/assets/custom.css?v=88275717595021126201760344949"
+      ]
+    },
+    "#eeeeee": {
+      "count": 1,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+      ]
+    },
+    "#f9fafb": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "#374151": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "#d1d5db": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "#1f2937": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "#3256e5": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "#eaeaea": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Apple Color Emoji": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Arial": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Barlow": [
+      "https://weatherman.com/"
+    ],
+    "BlinkMacSystemFont": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Consolas": [
+      "https://weatherman.com/cdn/shop/t/52/assets/theme.css?v=116126620414139630601760344949"
+    ],
+    "Courier New": [
+      "https://weatherman.com/cdn/shop/t/52/assets/theme.css?v=116126620414139630601760344949"
+    ],
+    "Font Awesome 5 Brands": [
+      "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    ],
+    "Font Awesome 5 Free": [
+      "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    ],
+    "Font Awesome 6 Brands": [
+      "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    ],
+    "Font Awesome 6 Free": [
+      "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    ],
+    "FontAwesome": [
+      "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    ],
+    "Helvetica Neue": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Lexend": [
+      "https://weatherman.com/"
+    ],
+    "Liberation Mono": [
+      "https://weatherman.com/cdn/shop/t/52/assets/theme.css?v=116126620414139630601760344949"
+    ],
+    "Menlo": [
+      "https://weatherman.com/cdn/shop/t/52/assets/theme.css?v=116126620414139630601760344949"
+    ],
+    "Monaco": [
+      "https://weatherman.com/cdn/shop/t/52/assets/theme.css?v=116126620414139630601760344949"
+    ],
+    "Noto Color Emoji !important": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Noto Color Emoji' !important": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Noto Sans": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Roboto": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "SF Pro Text": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "SFMono-Regular": [
+      "https://weatherman.com/cdn/shop/t/52/assets/theme.css?v=116126620414139630601760344949"
+    ],
+    "Segoe UI": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Segoe UI Emoji": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "Segoe UI Symbol": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "monospace": [
+      "https://weatherman.com/cdn/shop/t/52/assets/theme.css?v=116126620414139630601760344949"
+    ],
+    "sans-serif": [
+      "https://weatherman.com/",
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "system-ui": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "ui-monospace": [
+      "https://weatherman.com/cdn/shop/t/52/assets/theme.css?v=116126620414139630601760344949"
+    ],
+    "ui-sans-serif": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ],
+    "untitled sans": [
+      "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://weatherman.com/",
+      "selector": "[dir=\"rtl\"]:root",
+      "declarations": "--transform-logical-flip: -1;\n    --transform-origin-start: right;\n    --transform-origin-end: left;"
+    },
+    {
+      "source": "https://weatherman.com/",
+      "selector": ":root",
+      "declarations": "--text-xs: 1.0rem;\n      --text-sm: 1.0625rem;\n      --text-base: 1.125rem;\n      --text-md: 1.125rem;\n      --text-lg: 1.25rem;\n      --text-xl: 1.375rem;\n      --text-xxl: 1.5rem;\n\n      \n      --container-gutter: 2rem;"
+    },
+    {
+      "source": "https://weatherman.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: 3.75rem;\n\n      --section-vertical-spacing: 6.25rem;\n      --section-vertical-spacing-tight: 3.75rem;\n\n      --section-stack-gap:3.75rem;\n      --section-stack-gap-tight:3.125rem;\n\n      \n      --text-h0: max(0.6875rem, clamp(1.5675rem, 2.6rem + 1vw, 3.5rem)* var(--text-heading-size-factor));\n      --text-h1: max(0.6875rem, clamp(1.3125rem, 1.92415rem + 1.2vw, 3.75rem)* var(--text-heading-size-factor));\n      --text-h2: max(0.6875rem, clamp(1.875rem, 2.5rem + 1.2vw, 2.75rem)* var(--text-heading-size-factor));\n      --text-h3: max(0.6875rem, clamp(1.125rem, 1.4rem + 0.39vw, 2.75rem)* var(--text-heading-size-factor));"
+    },
+    {
+      "source": "https://weatherman.com/",
+      "selector": ":root",
+      "declarations": "--page-overlay: 0 0 0 / 0.4;\n\n    \n    \n    --page-background: 255 255 255 / 1;\n\n    \n    --on-sale-text: 227 44 43;\n    --on-sale-badge-background: 227 44 43;\n    --on-sale-badge-text: 255 255 255;\n    --sold-out-badge-background: 239 239 239;\n    --sold-out-button-background: 203 198 197;\n    --sold-out-button-color: 110 105 104;\n    --sold-out-badge-text: 0 0 0 / 0.65;\n    --custom-badge-background: 28 28 28;\n    --custom-badge-text: 255 255 255;\n    --star-color: 28 28 28;\n\n    \n    --success-background: 212 227 203;\n    --success-text: 48 122 7;\n    --warning-background: 253 241 224;\n    --warning-text: 237 138 0;\n    --error-background: 243 204 204;\n    --error-text: 203 43 43;"
+    },
+    {
+      "source": "https://weatherman.com/",
+      "selector": "display: contents\ndisplay: contents\ndisplay: contents\nposition: absolute; width: 1px; height: 1px; top: var(--header-scroll-tracker-offset, 10px); left: 0;\n\n   ",
+      "declarations": "--announcement-bar-is-sticky: 1;"
+    },
+    {
+      "source": "https://weatherman.com/",
+      "selector": ":root",
+      "declarations": "--header-is-sticky: 1;"
+    },
+    {
+      "source": "https://weatherman.com/",
+      "selector": "#shopify-section-sections--25236420297007__header",
+      "declarations": "--header-grid: \"logo secondary-nav primary-nav \" / minmax(0, 1fr) auto auto;\n    \n    --header-padding-block: 1.25rem;\n    --header-transparent-header-text-color: 0 0 0;\n    --header-separation-border-color: 0 0 0 / 0;\n    --sidebar-color-faded: 110 105 104;\n\n    position: relative;\n    z-index: 4;"
+    },
+    {
+      "source": "https://weatherman.com/",
+      "selector": "#shopify-section-sections--25236420297007__header .mega-menu",
+      "declarations": "--content-over-media-overlay: var(--content-over-media-gradient-overlay);\n    --content-over-media-gradient-overlay: linear-gradient(180deg, rgba(0, 0, 0, 0) 33.15%, rgba(0, 0, 0, 0.4) 100%);"
+    },
+    {
+      "source": "https://weatherman.com/",
+      "selector": "#shopify-section-sections--25236420297007__header .content-over-media",
+      "declarations": "--content-over-media-gap: 0;"
+    },
+    {
+      "source": "https://weatherman.com/",
+      "selector": "#shopify-section-sections--25236420297007__header",
+      "declarations": "--header-padding-block: 1.5rem;"
+    },
+    {
+      "source": "https://weatherman.com/",
+      "selector": "#shopify-section-sections--25236420297007__header",
+      "declarations": "--header-grid: \"primary-nav logo secondary-nav\" / minmax(0, 1fr) auto minmax(0, 1fr);--header-grid: \"logo primary-nav secondary-nav\" / auto minmax(0, 1fr) auto;"
+    },
+    {
+      "source": "https://weatherman.com/",
+      "selector": "#shopify-section-sections--25236420297007__header",
+      "declarations": "--header-logo-width: 208px;"
+    },
+    {
+      "source": "https://weatherman.com/",
+      "selector": "#shopify-section-sections--25236420297007__header",
+      "declarations": "--header-logo-width: 250px;"
+    },
+    {
+      "source": "https://weatherman.com/",
+      "selector": "#shopify-section-sections--25236420297007__header .header:hover .icon-hamburger",
+      "declarations": "color: #000 !important;"
+    },
+    {
+      "source": "https://weatherman.com/",
+      "selector": ":root",
+      "declarations": "--background-color: rgb(0, 169, 177);\n    --background-opacity: 0.05;\n    --text-field-background: rgb(0, 169, 177, var( --background-opacity));\n    --text-field-text-color: #00a9b1;"
+    },
+    {
+      "source": "https://weatherman.com/",
+      "selector": "button[aria-current=\"true\"]  .progress-bar .progress",
+      "declarations": "--time: 5;"
+    },
+    {
+      "source": "https://weatherman.com/",
+      "selector": "button-background: 239 78 35;--button-outline-color: 239 78 35;--button-text-color: 255 255 255;--compare-at-price-text-color: ;\n\n    #shopify-section-template-",
+      "declarations": "--collection-list-item-size: 74.7vw;\n        --content-over-media-height: 25rem;--collection-list-gap: 0.75rem;"
+    },
+    {
+      "source": "https://weatherman.com/",
+      "selector": "%);\n--button-background: 0 0 0;--button-outline-color: 0 0 0;--button-text-color: 0 0 0;--compare-at-price-text-color: ;\n\n    #shopify-section-template--2523641",
+      "declarations": "--content-over-media-overlay: var(--content-over-media-gradient-overlay);\n      --content-over-media-gradient-overlay: linear-gradient(180deg, rgba(0, 0, 0, 0) 41.38%, rgba(0, 0, 0, 0.3) 100%);\n\n      --container-xs-max-width: 40.5rem;\n      --container-xxs-max-width: 36.75rem;\n      --content-over-media-content-max-width: var(--container-xxs-max-width);"
+    },
+    {
+      "source": "https://weatherman.com/",
+      "selector": "utton-background: 239 239 239;--button-outline-color: 239 239 239;--button-text-color: 255 255 255;--compare-at-price-text-color: ;\n\n    #shopify-section-templa",
+      "declarations": "--multi-column-gap: 0.75rem;\n      --multi-column-column-width: 53vw;\n      --multi-column-grid: auto / auto-flow var(--multi-column-column-width);\n      --multi-column-content-alignment: safe start;"
+    },
+    {
+      "source": "https://weatherman.com/",
+      "selector": "#shopify-section-template--25236418396463__featured_products_FaiefN",
+      "declarations": "--product-list-items-per-row: 1;\n      --product-list-horizontal-spacing-factor: 1;\n      --product-list-vertical-spacing-factor: 1;"
+    },
+    {
+      "source": "https://weatherman.com/",
+      "selector": "#shopify-section-template--25236418396463__featured_products_FaiefN",
+      "declarations": "--product-list-items-per-row: 3;"
+    },
+    {
+      "source": "https://weatherman.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://weatherman.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://weatherman.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://weatherman.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://weatherman.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://weatherman.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://weatherman.com/cdn/shop/t/52/assets/theme.css?v=116126620414139630601760344949",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;font-weight:inherit;font-style:inherit;line-height:inherit;text-transform:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://weatherman.com/cdn/shop/t/52/assets/theme.css?v=116126620414139630601760344949",
+      "selector": "button,[type=button],[type=reset],[type=submit]",
+      "declarations": "-webkit-appearance:button;background-color:#0000;background-image:none"
+    },
+    {
+      "source": "https://weatherman.com/cdn/shop/t/52/assets/theme.css?v=116126620414139630601760344949",
+      "selector": "button,label,summary,[role=button],[type=checkbox],[type=radio]",
+      "declarations": "-webkit-tap-highlight-color:transparent;touch-action:manipulation;cursor:pointer"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Weatherman | High Quality Umbrellas for Every Storm",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://weatherman.com/cdn/shop/t/52/assets/theme.css?v=116126620414139630601760344949",
+        "https://weatherman.com/cdn/shop/t/52/assets/custom.css?v=88275717595021126201760344949"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://weatherman.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://weatherman.com/",
+        "https://weatherman.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://weatherman.com/cdn/shop/t/52/assets/theme.css?v=116126620414139630601760344949",
+        "https://weatherman.com/cdn/shop/t/52/assets/custom.css?v=88275717595021126201760344949",
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css",
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://weatherman.com/cdn/shop/t/52/assets/theme.css?v=116126620414139630601760344949"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://weatherman.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://weatherman.com/",
+        "https://weatherman.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://weatherman.com/cdn/shop/t/52/assets/theme.css?v=116126620414139630601760344949",
+        "https://weatherman.com/cdn/shop/t/52/assets/custom.css?v=88275717595021126201760344949",
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css",
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "colors.accent-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://weatherman.com/"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://weatherman.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-blue-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://weatherman.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.sale-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://weatherman.com/cdn/shop/t/52/assets/custom.css?v=88275717595021126201760344949"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d970-0e98-7666-b1bc-fced162baa13/loop-returns-504/assets/onstore-block.css"
+      ]
+    },
+    "colors.sold-out-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.weather-spec-badge": {
+      "status": "inferred"
+    }
+  }
+}

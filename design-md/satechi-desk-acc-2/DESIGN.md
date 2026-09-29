@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Satechi
-description: Two simultaneous voltage colors run on Satechi's storefront — a charged orange (#f55a19) on every primary CTA, add-to-cart action, and sale badge, and a deep indigo (#4e34e0) that surfaces in promotional announcement bars and secondary accent moments — an assertive pairing that reads more product-launch than the serene aluminum-desk-accessory category it occupies. The near-black #222021 anchors both the nav header and the product photography backdrop; aluminum peripherals photograph cleanly against it, giving the storefront a studio-showroom quality that justifies premium pricing without requiring lengthy editorial copy. Below the fold the brand decompresses into warm neutrals: off-white (#f5f2ef), a barely-cool surface-card (#f4f4f6), and layered taupe bands (#cfc6bf, #ede6e0) that absorb the high-contrast hero and let the SKU-dense product grid breathe.
+name: "Satechi"
+source_url: "https://satechi.net"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Two simultaneous voltage colors run on Satechi's storefront — a charged orange (#f55a19) on every primary CTA, add-to-cart action, and sale badge, and a deep indigo (#4e34e0) that surfaces in promotional announcement bars and secondary accent moments — an assertive pairing that reads more product-launch than the serene aluminum-desk-accessory category it occupies. The near-black #222021 anchors both the nav header and the product photography backdrop; aluminum peripherals photograph cleanly against it, giving the storefront a studio-showroom quality that justifies premium pricing without requiring lengthy editorial copy. Below the fold the brand decompresses into warm neutrals: off-white (#f5f2ef), a barely-cool surface-card (#f4f4f6), and layered taupe bands (#cfc6bf, #ede6e0) that absorb the high-contrast hero and let the SKU-dense product grid breathe.
 
   A third accent — bright teal #00eab6 — appears in loyalty badges and callout highlights, isolated enough to carry its own signal without diluting the orange primary. Dark slate sections (#272d45) frame the footer and deep-link promotional blocks, giving the page a dark-light-dark bracketed rhythm that mirrors how premium hardware packaging presents itself. The color logic is unambiguous: orange moves inventory, indigo announces events, teal rewards customer behavior, and dark-section backgrounds hold navigational weight.
 
@@ -359,6 +363,8 @@ components:
 - Announcement bar persists across all breakpoints; text truncates with ellipsis below 360px viewport width
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Brand typeface not extracted** — only third-party Okendo review-widget icon fonts (oke-widget-icons) were detected in font-family stacks; the actual brand typeface loads dynamically via JavaScript and could not be captured. All typography tokens use a system UI fallback.
 - **primary-active and primary-disabled** hex values are arithmetically derived from #f55a19 (darkened / lightened), not directly extracted from site CSS.

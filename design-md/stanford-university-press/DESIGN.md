@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Stanford University Press
-description: A scholarly publisher that wears its institutional heritage as a design asset, Stanford University Press builds its digital presence on a foundation of #2e2d29 (a warm, almost-black ink that reads as academic charcoal rather than cold #000) against a canvas of #ebeae4 — a subtle off-white that evokes aged paper stock rather than sterile digital white. The palette draws heavily from the natural world of the California campus: #8c1515 (Stanford Cardinal red) appears sparingly as an accent, while #a1c4b1 and #6aa083 introduce a sage-green quietness that tempers the institutional gravity. Typography splits between Source Serif Pro for reading — a serif face that signals scholarly authority — and Source Sans 3 for UI, creating a clear hierarchy between what is meant to be read (long-form scholarship) and what is meant to be navigated (menus, filters, buttons). The design language is restrained and rectilinear: cards use minimal rounding ({rounded.xs} ~4px), borders are thin and soft (#d5d5d4), and the overall mood is one of quiet competence — a press that trusts its content to command attention rather than demanding it through visual theatrics. The search experience, notably, uses a full-width bar with a prominent magnifying-glass icon in #b1040e, one of the few moments where the brand raises its voice above a murmur.
+name: "Stanford University Press"
+source_url: "https://www.sup.org"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A scholarly publisher that wears its institutional heritage as a design asset, Stanford University Press builds its digital presence on a foundation of #2e2d29 (a warm, almost-black ink that reads as academic charcoal rather than cold #000) against a canvas of #ebeae4 — a subtle off-white that evokes aged paper stock rather than sterile digital white. The palette draws heavily from the natural world of the California campus: #8c1515 (Stanford Cardinal red) appears sparingly as an accent, while #a1c4b1 and #6aa083 introduce a sage-green quietness that tempers the institutional gravity. Typography splits between Source Serif Pro for reading — a serif face that signals scholarly authority — and Source Sans 3 for UI, creating a clear hierarchy between what is meant to be read (long-form scholarship) and what is meant to be navigated (menus, filters, buttons). The design language is restrained and rectilinear: cards use minimal rounding ({rounded.xs} ~4px), borders are thin and soft (#d5d5d4), and the overall mood is one of quiet competence — a press that trusts its content to command attention rather than demanding it through visual theatrics. The search experience, notably, uses a full-width bar with a prominent magnifying-glass icon in #b1040e, one of the few moments where the brand raises its voice above a murmur.
 
 colors:
   primary: "#8c1515"
@@ -405,6 +409,8 @@ components:
 - Breadcrumb truncates to show only the current page and one parent level at < 744px, with a "Back" link replacing the full trail
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for most components could not be reliably extracted from static CSS; `button-primary-active` and `button-secondary-active` are inferred from common patterns rather than confirmed from the live site
 - Error, success, and warning form validation states beyond the text-input error state are undocumented

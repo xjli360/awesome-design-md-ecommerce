@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Melville House
-description: A small press that wraps its books in a single, unapologetic #313131 — a near-black so dense it reads as literary authority rather than corporate gray. The extracted palette offers no accent color, no warm secondary, no brand voltage; the site trusts the weight of its own words and the quiet prestige of its covers. Typography defaults to the system stack — -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif — a deliberate non-choice that says the content, not the chrome, is the product. There are no pill buttons, no soft cards, no generous radii; the interface is rectilinear and unadorned, with `{rounded.none}` as the default posture and `{rounded.sm}` as the only concession for form elements. The nav bar sits at a compact 48px, the body copy runs at 16px with 1.5 line-height, and the entire experience feels like a well-printed page migrated to screen — no shadows, no gradients, no decorative flourishes. Melville House does not sell a lifestyle; it sells the book in your hand, and the site is designed to disappear.
+name: "Melville House"
+source_url: "https://www.mhpbooks.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A small press that wraps its books in a single, unapologetic #313131 — a near-black so dense it reads as literary authority rather than corporate gray. The extracted palette offers no accent color, no warm secondary, no brand voltage; the site trusts the weight of its own words and the quiet prestige of its covers. Typography defaults to the system stack — -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, sans-serif — a deliberate non-choice that says the content, not the chrome, is the product. There are no pill buttons, no soft cards, no generous radii; the interface is rectilinear and unadorned, with `{rounded.none}` as the default posture and `{rounded.sm}` as the only concession for form elements. The nav bar sits at a compact 48px, the body copy runs at 16px with 1.5 line-height, and the entire experience feels like a well-printed page migrated to screen — no shadows, no gradients, no decorative flourishes. Melville House does not sell a lifestyle; it sells the book in your hand, and the site is designed to disappear.
 
 colors:
   primary: "#313131"
@@ -331,6 +335,8 @@ components:
 - Sidebar or secondary navigation (if present) collapses to accordion or disappears on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one hex color (#313131) was extractable from the live site; the palette above is constructed from that single value plus reasonable neutrals for a text-heavy publisher. True secondary colors, accent colors, and brand-specific tones could not be verified.
 - No font-family declarations beyond system defaults were found; the site likely uses a system font stack intentionally, but a custom typeface (e.g., for book titles or branding) may exist in non-extracted CSS.

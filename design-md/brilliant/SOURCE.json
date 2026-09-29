@@ -1,0 +1,844 @@
+{
+  "source_url": "https://brilliant.tech",
+  "final_url": "https://www.brilliant.tech/",
+  "captured_at": "2026-09-28T04:52:03.942117+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://brilliant.tech",
+      "final_url": "https://www.brilliant.tech/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "8424c50b1afec5f04e0c79173c668044e630b2f7364b00f3bd39794f34d0b259",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192",
+      "final_url": "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "12231b7f65fe369c5f0076f1291d7aceae114bb94bb4aebc34e591f5c53c4348",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.brilliant.tech/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.brilliant.tech/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.brilliant.tech/cdn/shop/t/531/compiled_assets/styles.css?v=44881818202768844691787947401",
+      "final_url": "https://www.brilliant.tech/cdn/shop/t/531/compiled_assets/styles.css?v=44881818202768844691787947401",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "adecd70f7f6a442e6d7376ee05c0837106dcf41becbea45eda570ed391a3b3e5",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.brilliant.tech/cdn/shop/t/531/assets/brilliant-max.css?v=86448176099118647571787947165",
+      "final_url": "https://www.brilliant.tech/cdn/shop/t/531/assets/brilliant-max.css?v=86448176099118647571787947165",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "74cee1664b393beea322766f1421d59a729bd4112e9c9a952b4a4e87a1d46fd5",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 107,
+      "sources": [
+        "https://www.brilliant.tech/",
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192",
+        "https://www.brilliant.tech/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.brilliant.tech/cdn/shop/t/531/compiled_assets/styles.css?v=44881818202768844691787947401",
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/brilliant-max.css?v=86448176099118647571787947165"
+      ]
+    },
+    "#dc721a": {
+      "count": 27,
+      "sources": [
+        "https://www.brilliant.tech/",
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192",
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/brilliant-max.css?v=86448176099118647571787947165"
+      ]
+    },
+    "#ec872e": {
+      "count": 12,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/brilliant-max.css?v=86448176099118647571787947165"
+      ]
+    },
+    "#363e45": {
+      "count": 11,
+      "sources": [
+        "https://www.brilliant.tech/",
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/brilliant-max.css?v=86448176099118647571787947165"
+      ]
+    },
+    "#00bbff": {
+      "count": 11,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192"
+      ]
+    },
+    "#788188": {
+      "count": 10,
+      "sources": [
+        "https://www.brilliant.tech/",
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192"
+      ]
+    },
+    "#eaeaea": {
+      "count": 10,
+      "sources": [
+        "https://www.brilliant.tech/",
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192"
+      ]
+    },
+    "#4c5f71": {
+      "count": 10,
+      "sources": [
+        "https://www.brilliant.tech/",
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192"
+      ]
+    },
+    "#000000": {
+      "count": 6,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192",
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/brilliant-max.css?v=86448176099118647571787947165"
+      ]
+    },
+    "#5f25bd": {
+      "count": 5,
+      "sources": [
+        "https://www.brilliant.tech/",
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/brilliant-max.css?v=86448176099118647571787947165"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 5,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192",
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/brilliant-max.css?v=86448176099118647571787947165"
+      ]
+    },
+    "#555555": {
+      "count": 5,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/compiled_assets/styles.css?v=44881818202768844691787947401",
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/brilliant-max.css?v=86448176099118647571787947165"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 4,
+      "sources": [
+        "https://www.brilliant.tech/",
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/brilliant-max.css?v=86448176099118647571787947165"
+      ]
+    },
+    "#e1e1e1": {
+      "count": 4,
+      "sources": [
+        "https://www.brilliant.tech/",
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192"
+      ]
+    },
+    "#d8d8d8": {
+      "count": 4,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192"
+      ]
+    },
+    "#f7f7f9": {
+      "count": 3,
+      "sources": [
+        "https://www.brilliant.tech/",
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192"
+      ]
+    },
+    "#cccccc": {
+      "count": 3,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192"
+      ]
+    },
+    "#e33784": {
+      "count": 3,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192"
+      ]
+    },
+    "#004aad": {
+      "count": 3,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/compiled_assets/styles.css?v=44881818202768844691787947401"
+      ]
+    },
+    "#00729d": {
+      "count": 2,
+      "sources": [
+        "https://www.brilliant.tech/",
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/brilliant-max.css?v=86448176099118647571787947165"
+      ]
+    },
+    "#56ad6a": {
+      "count": 2,
+      "sources": [
+        "https://www.brilliant.tech/",
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/brilliant-max.css?v=86448176099118647571787947165"
+      ]
+    },
+    "#dddbdd": {
+      "count": 2,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192"
+      ]
+    },
+    "#333333": {
+      "count": 2,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192",
+        "https://www.brilliant.tech/cdn/shop/t/531/compiled_assets/styles.css?v=44881818202768844691787947401"
+      ]
+    },
+    "#dadada": {
+      "count": 2,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192"
+      ]
+    },
+    "#2d769b": {
+      "count": 2,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192"
+      ]
+    },
+    "#1a1919": {
+      "count": 2,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#111111": {
+      "count": 2,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/compiled_assets/styles.css?v=44881818202768844691787947401"
+      ]
+    },
+    "#444444": {
+      "count": 2,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/compiled_assets/styles.css?v=44881818202768844691787947401"
+      ]
+    },
+    "#d0e8f0": {
+      "count": 2,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/brilliant-max.css?v=86448176099118647571787947165"
+      ]
+    },
+    "#0f1923": {
+      "count": 2,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/brilliant-max.css?v=86448176099118647571787947165"
+      ]
+    },
+    "#ffffffb3": {
+      "count": 2,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/brilliant-max.css?v=86448176099118647571787947165"
+      ]
+    },
+    "#ffffff0f": {
+      "count": 2,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/brilliant-max.css?v=86448176099118647571787947165"
+      ]
+    },
+    "#ee8833": {
+      "count": 1,
+      "sources": [
+        "https://www.brilliant.tech/"
+      ]
+    },
+    "#363b3d": {
+      "count": 1,
+      "sources": [
+        "https://www.brilliant.tech/"
+      ]
+    },
+    "#da4452": {
+      "count": 1,
+      "sources": [
+        "https://www.brilliant.tech/"
+      ]
+    },
+    "#d02e2e": {
+      "count": 1,
+      "sources": [
+        "https://www.brilliant.tech/"
+      ]
+    },
+    "#d5741f": {
+      "count": 1,
+      "sources": [
+        "https://www.brilliant.tech/"
+      ]
+    },
+    "#c3c3c3": {
+      "count": 1,
+      "sources": [
+        "https://www.brilliant.tech/"
+      ]
+    },
+    "#ffff00": {
+      "count": 1,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192"
+      ]
+    },
+    "#999999": {
+      "count": 1,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192"
+      ]
+    },
+    "#f6f5f3": {
+      "count": 1,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192"
+      ]
+    },
+    "#787878": {
+      "count": 1,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192"
+      ]
+    },
+    "#82868a": {
+      "count": 1,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192"
+      ]
+    },
+    "#c23616": {
+      "count": 1,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192"
+      ]
+    },
+    "#27333c": {
+      "count": 1,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192"
+      ]
+    },
+    "#2c719b": {
+      "count": 1,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192"
+      ]
+    },
+    "#118dbc": {
+      "count": 1,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192"
+      ]
+    },
+    "#dcdcdc": {
+      "count": 1,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 1,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/compiled_assets/styles.css?v=44881818202768844691787947401"
+      ]
+    },
+    "#1d1d1d": {
+      "count": 1,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/compiled_assets/styles.css?v=44881818202768844691787947401"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 1,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/compiled_assets/styles.css?v=44881818202768844691787947401"
+      ]
+    },
+    "#00000014": {
+      "count": 1,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/compiled_assets/styles.css?v=44881818202768844691787947401"
+      ]
+    },
+    "#d4d4d4": {
+      "count": 1,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/compiled_assets/styles.css?v=44881818202768844691787947401"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/compiled_assets/styles.css?v=44881818202768844691787947401"
+      ]
+    },
+    "#2b67ff": {
+      "count": 1,
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/compiled_assets/styles.css?v=44881818202768844691787947401"
+      ]
+    }
+  },
+  "font_families": {
+    "Gotham A": [
+      "https://www.brilliant.tech/",
+      "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192",
+      "https://www.brilliant.tech/cdn/shop/t/531/assets/brilliant-max.css?v=86448176099118647571787947165"
+    ],
+    "Gotham B": [
+      "https://www.brilliant.tech/",
+      "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192",
+      "https://www.brilliant.tech/cdn/shop/t/531/assets/brilliant-max.css?v=86448176099118647571787947165"
+    ],
+    "Open Sans": [
+      "https://www.brilliant.tech/",
+      "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192",
+      "https://www.brilliant.tech/cdn/shop/t/531/assets/brilliant-max.css?v=86448176099118647571787947165"
+    ],
+    "inherit!important": [
+      "https://www.brilliant.tech/cdn/shop/t/531/compiled_assets/styles.css?v=44881818202768844691787947401"
+    ],
+    "monospace": [
+      "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192"
+    ],
+    "sans-serif": [
+      "https://www.brilliant.tech/",
+      "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192",
+      "https://www.brilliant.tech/cdn/shop/t/531/assets/brilliant-max.css?v=86448176099118647571787947165"
+    ],
+    "sans-serif!important": [
+      "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.brilliant.tech/",
+      "selector": ".index-hero__slide-cover-caption-header",
+      "declarations": "font-family:\"Gotham A\",\"Gotham B\",\"Open Sans\",sans-serif;font-style:normal;font-weight:700;color:#fff;font-size:42px;line-height:1.24;margin:0 0 5px"
+    },
+    {
+      "source": "https://www.brilliant.tech/",
+      "selector": ".index-hero__caption-mobile-slide-header",
+      "declarations": "font-family:\"Gotham A\",\"Gotham B\",\"Open Sans\",sans-serif;font-style:normal;font-weight:700;font-size:32px;line-height:1.2"
+    },
+    {
+      "source": "https://www.brilliant.tech/",
+      "selector": ".index-brilliant-products",
+      "declarations": "background:#fff;color:var(--color-body-text-primary);padding-bottom:57px"
+    },
+    {
+      "source": "https://www.brilliant.tech/",
+      "selector": ".index-brilliant-products__item-in",
+      "declarations": "background:var(--color-background-primary);border-color:rgba(0,0,0,0);padding:15px 7px"
+    },
+    {
+      "source": "https://www.brilliant.tech/",
+      "selector": ".index-brilliant-products__item-title",
+      "declarations": "font-family:\"Gotham A\",\"Gotham B\",\"Open Sans\",sans-serif;font-style:normal;font-weight:700;font-size:28px;margin-bottom:20px;text-align:center"
+    },
+    {
+      "source": "https://www.brilliant.tech/",
+      "selector": ".index-brilliant-products__item-link",
+      "declarations": "border:1px solid var(--color-primary);border-radius:32px;color:var(--color-primary);display:block;font-size:11px;font-weight:800;letter-spacing:3px;padding:5px 27px;text-align:center;text-transform:uppercase;transition:none;animation:none"
+    },
+    {
+      "source": "https://www.brilliant.tech/",
+      "selector": ".index-brilliant-products__item-link:hover",
+      "declarations": "background:#dc721a;color:#fff;text-decoration:none"
+    },
+    {
+      "source": "https://www.brilliant.tech/",
+      "selector": ".index-quiz__caption-header",
+      "declarations": "color:#fff;font-size:12px;font-weight:800;letter-spacing:3px;margin-bottom:24px;text-transform:uppercase"
+    },
+    {
+      "source": "https://www.brilliant.tech/",
+      "selector": ".smart-apartment__tab-button",
+      "declarations": "font-family:\"Open Sans\",sans-serif;font-style:normal;font-weight:700;height:40px;border-radius:40px;color:#788188;cursor:pointer;display:inline-block;font-size:13px;padding:10px 10px;position:relative;transition:none;animation:none"
+    },
+    {
+      "source": "https://www.brilliant.tech/",
+      "selector": "t__tab-button.smart-apartment__tab-button--6,[data-active=\"7\"] .smart-apartment__tab-button.smart-apartment__tab-button--7,[data-active=\"8\"] .smart-apartment__t",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:sans-serif;font-size:100%;line-height:1.15;margin:0"
+    },
+    {
+      "source": "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192",
+      "selector": "body",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192",
+      "selector": "button:focus",
+      "declarations": "outline-color:#eaeaea"
+    },
+    {
+      "source": "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192",
+      "selector": "body",
+      "declarations": "color:var(--color-body-text-primary);font-family:Open Sans,sans-serif;font-size:var(--body-text-medium-mobile-font-size);font-stretch:normal;font-style:normal;font-weight:var(--body-text-font-weight);letter-spacing:normal;line-height:var(--body-text-line-height)"
+    },
+    {
+      "source": "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192",
+      "selector": ".hamburger-button__target-buns",
+      "declarations": "animation:none;color:var(--color-body-text-primary);opacity:1;position:relative;transition:none;visibility:visible;width:26px"
+    },
+    {
+      "source": "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192",
+      "selector": ".hamburger-button__target-bun",
+      "declarations": "animation:none;background-color:#4c5f71;height:2px;position:absolute;top:50%;transition:none;width:100%"
+    },
+    {
+      "source": "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192",
+      "selector": ".theme-header-navigation",
+      "declarations": "animation:none;background-color:#fff;box-shadow:0 0 20px 1px rgba(0,0,0,.1);left:0;position:relative;top:0;transition:none;width:100%;z-index:99"
+    },
+    {
+      "source": "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192",
+      "selector": ".header-navigation-sublink",
+      "declarations": "animation:none;color:var(--color-body-text-primary);font-family:Gotham A,Gotham B,Open Sans,sans-serif;font-size:16px;font-style:normal;font-weight:300;transition:none;white-space:nowrap"
+    },
+    {
+      "source": "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192",
+      "selector": ".header-navigation-sublink:focus,.header-navigation-sublink:hover",
+      "declarations": "color:#dc721a;opacity:.7"
+    },
+    {
+      "source": "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192",
+      "selector": ".header-navigation-sublink[data-disabled]",
+      "declarations": "color:var(--color-primary)"
+    },
+    {
+      "source": "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192",
+      "selector": ".caption__header",
+      "declarations": "color:var(--color-body-text-primary);font-family:Gotham A,Gotham B,Open Sans,sans-serif;font-size:var(--h2-desktop-font-size);font-style:normal;font-weight:var(--font-weight-headings);line-height:var(--h2-line-height)"
+    },
+    {
+      "source": "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192",
+      "selector": ".caption--white .caption__header",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192",
+      "selector": ".caption__header--main",
+      "declarations": "color:var(--color-body-text-primary);font-family:Gotham A,Gotham B,Open Sans,sans-serif;font-size:var(--h1-desktop-font-size);font-style:normal;font-weight:var(--font-weight-headings);line-height:var(--h1-line-height)"
+    },
+    {
+      "source": "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192",
+      "selector": ".caption--main-sm .caption__header--main",
+      "declarations": "color:var(--color-body-text-primary);font-family:Gotham A,Gotham B,Open Sans,sans-serif;font-size:var(--h2-desktop-font-size);font-style:normal;font-weight:var(--font-weight-headings);line-height:var(--h2-line-height)"
+    },
+    {
+      "source": "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192",
+      "selector": ".caption--white .caption__header--main",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192",
+      "selector": ".theme-header-subnavigation",
+      "declarations": "background-color:#fff;border-top:1px solid #d8d8d8;box-shadow:0 0 20px 1px rgba(0,0,0,.1);overflow:hidden;text-align:center"
+    },
+    {
+      "source": "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192",
+      "selector": ".site-header",
+      "declarations": "background-color:#fff;position:relative;width:100%"
+    },
+    {
+      "source": "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192",
+      "selector": ".site-header__nav-item",
+      "declarations": "align-items:center;color:var(--color-body-text-primary);cursor:pointer;display:flex;font-size:15px;font-weight:700;justify-content:center;letter-spacing:.05em;position:relative"
+    },
+    {
+      "source": "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192",
+      "selector": ".site-header__nav-item-link",
+      "declarations": "color:var(--color-body-text-primary);font-weight:inherit;padding:30px 12px;position:relative"
+    },
+    {
+      "source": "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192",
+      "selector": ".site-header__nav-item-link:after",
+      "declarations": "background-color:var(--color-primary);bottom:18px;content:\"\";display:none;height:3px;left:22px;position:absolute;right:22px"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Smart Home Control & Home Automation Technologies | Brilliant NextGen",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.brilliant.tech/",
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192",
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/brilliant-max.css?v=86448176099118647571787947165"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/brilliant-max.css?v=86448176099118647571787947165"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.brilliant.tech/",
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192",
+        "https://www.brilliant.tech/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.brilliant.tech/cdn/shop/t/531/compiled_assets/styles.css?v=44881818202768844691787947401",
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/brilliant-max.css?v=86448176099118647571787947165"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.brilliant.tech/",
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/brilliant-max.css?v=86448176099118647571787947165"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.brilliant.tech/",
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.brilliant.tech/",
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.brilliant.tech/",
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/brilliant-max.css?v=86448176099118647571787947165"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.brilliant.tech/",
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.brilliant.tech/",
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192",
+        "https://www.brilliant.tech/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.brilliant.tech/cdn/shop/t/531/compiled_assets/styles.css?v=44881818202768844691787947401",
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/brilliant-max.css?v=86448176099118647571787947165"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/layout.theme.css?v=179045966521867211771787947192"
+      ]
+    },
+    "colors.accent-secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.brilliant.tech/",
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/brilliant-max.css?v=86448176099118647571787947165"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.brilliant.tech/",
+        "https://www.brilliant.tech/cdn/shop/t/531/assets/brilliant-max.css?v=86448176099118647571787947165"
+      ]
+    },
+    "colors.alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.brilliant.tech/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.system-status-indicator": {
+      "status": "inferred"
+    }
+  }
+}

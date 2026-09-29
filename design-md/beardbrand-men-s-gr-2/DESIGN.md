@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Beardbrand
-description: A rugged yet refined men's grooming destination that balances dark, grounded utility with flashes of unexpected brightness. The brand lives on a warm off-white canvas of `#f9f8f6` and `#f9fafb`, where nearly every surface — from product cards to navigation bars — carries a soft, tactile warmth that contrasts with the deep ink of `#101010` and `#111111` used for primary text and bold headlines. The signature voltage comes from a rich teal `#108474` that appears on primary buttons, badges, and accent elements, often paired with a surprising neon yellow `#e5ff52` and a more muted `#fbcd0a` gold that suggest premium, adventurous energy. Typography leans on a mix of Space Grotesk for display and Nunito Sans for body, with occasional use of a proprietary HW_Pano_Bold for hero moments. Corners are generally soft but not pill-like — `{rounded.sm}` (8px) for buttons, `{rounded.md}` (12px) for cards — while the search bar and certain badges go full pill at `{rounded.full}`. The overall mood is workshop-meets-barbershop: utilitarian, masculine, with deliberate moments of polish (the teal CTAs, the yellow accents) that keep the experience from feeling austere. The brand trusts product photography and generous whitespace over decorative flourishes, and its muted palette of `#555555`, `#666666`, `#7b7b7b`, and `#888888` for secondary text and hairlines ensures the grooming products remain the hero.
+name: "Beardbrand"
+source_url: "https://www.beardbrand.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A rugged yet refined men's grooming destination that balances dark, grounded utility with flashes of unexpected brightness. The brand lives on a warm off-white canvas of `#f9f8f6` and `#f9fafb`, where nearly every surface — from product cards to navigation bars — carries a soft, tactile warmth that contrasts with the deep ink of `#101010` and `#111111` used for primary text and bold headlines. The signature voltage comes from a rich teal `#108474` that appears on primary buttons, badges, and accent elements, often paired with a surprising neon yellow `#e5ff52` and a more muted `#fbcd0a` gold that suggest premium, adventurous energy. Typography leans on a mix of Space Grotesk for display and Nunito Sans for body, with occasional use of a proprietary HW_Pano_Bold for hero moments. Corners are generally soft but not pill-like — `{rounded.sm}` (8px) for buttons, `{rounded.md}` (12px) for cards — while the search bar and certain badges go full pill at `{rounded.full}`. The overall mood is workshop-meets-barbershop: utilitarian, masculine, with deliberate moments of polish (the teal CTAs, the yellow accents) that keep the experience from feeling austere. The brand trusts product photography and generous whitespace over decorative flourishes, and its muted palette of `#555555`, `#666666`, `#7b7b7b`, and `#888888` for secondary text and hairlines ensures the grooming products remain the hero.
 
 colors:
   primary: "#108474"
@@ -357,6 +361,8 @@ components:
 - Search bar reduces to icon-only trigger on mobile, expanding to full input on tap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for most components are inferred from common patterns — exact color transitions and timing are not extracted
 - Error styling for form inputs (border colors, error message typography) not observed on live site

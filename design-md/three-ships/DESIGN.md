@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Three Ships
-description: Three Ships Beauty speaks in a voice that is at once earthy and electric, grounding its natural skincare promise in a deep indigo primary (`#170a69`) that reads as both trustworthy and aspirational — a midnight sky for a brand that believes in clean ingredients and visible results. The palette is a study in thoughtful contrast: warm cream canvases (`#fffce5`) and soft off-white surfaces (`#fafafa`, `#f7f7f7`) provide a gentle, almost editorial backdrop for product photography, while accent voltages of lime (`#ecfab3`, `#afb84a`), rose (`#911a4b`, `#d43747`), and amber (`#fff6b2`, `#e5cb00`) punctuate the interface like botanical highlights. Typography is where the brand reveals its dual nature — the display voice leans on Rauschen ABook and its italic variant, a sophisticated serif that whispers editorial luxury, while the UI layer runs on ABCFavoritMono, a monospaced sans that injects a modern, almost technical precision. This tension between the organic and the structured is the brand's signature design move: pill-shaped buttons (`{rounded.full}`) and softly rounded cards (`{rounded.md}`) keep the experience approachable, while tight monospaced captions and a disciplined `{spacing.section}` rhythm lend a lab-like rigor. The result feels like a wellness journal designed by a typographer — generous whitespace, deliberate color pops, and a quiet confidence that never shouts. Every `{colors.primary}` CTA, every `{colors.muted}` hairline, every `{rounded.sm}` input exists to make the product the hero, not the chrome.
+name: "Three Ships"
+source_url: "https://www.threeshipsbeauty.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Three Ships Beauty speaks in a voice that is at once earthy and electric, grounding its natural skincare promise in a deep indigo primary (`#170a69`) that reads as both trustworthy and aspirational — a midnight sky for a brand that believes in clean ingredients and visible results. The palette is a study in thoughtful contrast: warm cream canvases (`#fffce5`) and soft off-white surfaces (`#fafafa`, `#f7f7f7`) provide a gentle, almost editorial backdrop for product photography, while accent voltages of lime (`#ecfab3`, `#afb84a`), rose (`#911a4b`, `#d43747`), and amber (`#fff6b2`, `#e5cb00`) punctuate the interface like botanical highlights. Typography is where the brand reveals its dual nature — the display voice leans on Rauschen ABook and its italic variant, a sophisticated serif that whispers editorial luxury, while the UI layer runs on ABCFavoritMono, a monospaced sans that injects a modern, almost technical precision. This tension between the organic and the structured is the brand's signature design move: pill-shaped buttons (`{rounded.full}`) and softly rounded cards (`{rounded.md}`) keep the experience approachable, while tight monospaced captions and a disciplined `{spacing.section}` rhythm lend a lab-like rigor. The result feels like a wellness journal designed by a typographer — generous whitespace, deliberate color pops, and a quiet confidence that never shouts. Every `{colors.primary}` CTA, every `{colors.muted}` hairline, every `{rounded.sm}` input exists to make the product the hero, not the chrome.
 
 colors:
   primary: "#170a69"
@@ -421,6 +425,8 @@ components:
 - Hero section reduces typography scale and may stack CTA buttons vertically on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for many components (e.g., nav-link hover, card hover) were inferred from common patterns rather than extracted from live CSS.
 - Error and success states for forms (e.g., validation messages, success banners) were not observed on the live site.

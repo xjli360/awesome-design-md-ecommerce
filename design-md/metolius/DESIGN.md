@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Metolius
-description: A climbing-hardware brand that works in the gap between alpine severity and gym-friendly color, anchored on a warm off-white canvas (#f5f3ee) that reads like sun-bleached limestone rather than sterile gallery white. The brand voltage lives in two accents: a deep forest-teal (#108474) that appears on primary CTAs, product badges, and category headers, and a signal-red (#e4002b) reserved for sale markers, warning labels, and the brand’s own logo mark — a deliberate tension between the organic and the urgent. Type runs Archivo Narrow at condensed widths for headlines (tight tracking, 80–90% of standard character spacing) and Nunito Sans for body copy, creating a system that feels both technical and approachable: the narrow face echoes the verticality of a crack climb, while the rounder sans keeps instructional text legible at small sizes. Product cards use soft corners (`{rounded.sm}`) on a near-white surface (#f9fafb) with a subtle hairline (#dedede) that suggests precision without severity. The checkout flow introduces a marigold accent (#fbcd0a) for promotional banners and a muted lavender (#a89cc8) for limited-edition colorways — signals that Metolius treats gear as both tool and object of desire. Navigation is compact: a sticky top bar with the logo left, category links center, and a search icon right, all on the canvas color with no background fill, letting product photography carry the visual weight. The brand’s design ethos is “climb-ready clarity” — every element that can be reduced to a line or a pill shape is, from the search bar to the add-to-cart button, and the generous whitespace (`{spacing.section}` between major blocks) gives the eye the same rest a climber gets between pitches.
+name: "Metolius"
+source_url: "https://www.metoliusclimbing.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A climbing-hardware brand that works in the gap between alpine severity and gym-friendly color, anchored on a warm off-white canvas (#f5f3ee) that reads like sun-bleached limestone rather than sterile gallery white. The brand voltage lives in two accents: a deep forest-teal (#108474) that appears on primary CTAs, product badges, and category headers, and a signal-red (#e4002b) reserved for sale markers, warning labels, and the brand’s own logo mark — a deliberate tension between the organic and the urgent. Type runs Archivo Narrow at condensed widths for headlines (tight tracking, 80–90% of standard character spacing) and Nunito Sans for body copy, creating a system that feels both technical and approachable: the narrow face echoes the verticality of a crack climb, while the rounder sans keeps instructional text legible at small sizes. Product cards use soft corners (`{rounded.sm}`) on a near-white surface (#f9fafb) with a subtle hairline (#dedede) that suggests precision without severity. The checkout flow introduces a marigold accent (#fbcd0a) for promotional banners and a muted lavender (#a89cc8) for limited-edition colorways — signals that Metolius treats gear as both tool and object of desire. Navigation is compact: a sticky top bar with the logo left, category links center, and a search icon right, all on the canvas color with no background fill, letting product photography carry the visual weight. The brand’s design ethos is “climb-ready clarity” — every element that can be reduced to a line or a pill shape is, from the search bar to the add-to-cart button, and the generous whitespace (`{spacing.section}` between major blocks) gives the eye the same rest a climber gets between pitches.
 
 colors:
   primary: "#108474"
@@ -299,6 +303,8 @@ The footer spans full-width on the warm canvas background, with links in `{typog
 - Product images: secondary images collapse to a single thumbnail strip on mobile; swipe gestures replace hover zooms
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and active states for all components were inferred from brand logic, not extracted from the live site — the extracted CSS did not include pseudo-class styles
 - Error state styling for forms (red borders, helper text colors) is assumed based on convention; actual error hex values were not found in extraction

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Iron Lion Collectibles
-description: A trading card marketplace that announces itself with #bd202e — a deep, confident red that covers the primary button, the top nav bar, and the footer, creating a visual spine of intensity across the entire experience. Against a canvas of #fefefe, the red reads as deliberate and passionate rather than aggressive, especially when paired with the secondary teal #25878c that appears in sale badges and accent links. The brand uses a tight monochrome scale — #2d2d2d for body text, #292929 for headings, #121212 for the darkest UI elements — with #dedede and #bdbdbd providing the structural grays for borders and dividers. Roboto at 400 weight carries the product listings and category descriptions, while bolder weights (500–700) handle the card names, prices, and navigation labels. The layout is dense but organized: product cards stack in responsive grids with {rounded.sm} corners, search sits in a pill-shaped field at {rounded.full}, and the red CTA button maintains a consistent 48px height across breakpoints. There is no decorative flourish — every design decision supports the primary action of browsing and buying cards, from the high-contrast price tags to the sticky top nav that keeps the search and cart always within reach.
+name: "Iron Lion Collectibles"
+source_url: "https://ironlioncollectibles.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A trading card marketplace that announces itself with #bd202e — a deep, confident red that covers the primary button, the top nav bar, and the footer, creating a visual spine of intensity across the entire experience. Against a canvas of #fefefe, the red reads as deliberate and passionate rather than aggressive, especially when paired with the secondary teal #25878c that appears in sale badges and accent links. The brand uses a tight monochrome scale — #2d2d2d for body text, #292929 for headings, #121212 for the darkest UI elements — with #dedede and #bdbdbd providing the structural grays for borders and dividers. Roboto at 400 weight carries the product listings and category descriptions, while bolder weights (500–700) handle the card names, prices, and navigation labels. The layout is dense but organized: product cards stack in responsive grids with {rounded.sm} corners, search sits in a pill-shaped field at {rounded.full}, and the red CTA button maintains a consistent 48px height across breakpoints. There is no decorative flourish — every design decision supports the primary action of browsing and buying cards, from the high-contrast price tags to the sticky top nav that keeps the search and cart always within reach.
 
 colors:
   primary: "#bd202e"
@@ -311,6 +315,8 @@ components:
 - Footer links stack vertically below 744px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components are inferred from common patterns; exact transitions and box-shadow values were not extracted
 - Error styling for form inputs (validation states, error messages) was not visible in the extracted data

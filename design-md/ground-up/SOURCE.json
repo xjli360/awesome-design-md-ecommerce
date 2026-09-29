@@ -1,0 +1,703 @@
+{
+  "source_url": "https://grounduppdx.com",
+  "final_url": "https://grounduppdx.com/",
+  "captured_at": "2026-09-28T04:32:34.193812+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://grounduppdx.com",
+      "final_url": "https://grounduppdx.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "a87329c3098fa90ad259067fee7efd916b576087824b415a21f95d8f7986509d",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://use.typekit.net/hre8fvf.css",
+      "final_url": "https://use.typekit.net/hre8fvf.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "7ee2e80b38c8712103eb0acea2b7d2b0b57a9ebec8142a7d512a24f5a7180c3d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://grounduppdx.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://grounduppdx.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430",
+      "final_url": "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "19a68610b417bb16ca9dc32982a5feb04194d90dfd4da15c8faa69fff3ef5905",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://grounduppdx.com/cdn/shop/t/32/assets/theme--customizations.css?v=159632888026439250361790339430",
+      "final_url": "https://grounduppdx.com/cdn/shop/t/32/assets/theme--customizations.css?v=159632888026439250361790339430",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a0ce8e98a77d518b580ba0868b8cb27e97927046c4c1b11268a24101f25ee671",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 25,
+      "sources": [
+        "https://grounduppdx.com/",
+        "https://grounduppdx.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430",
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme--customizations.css?v=159632888026439250361790339430"
+      ]
+    },
+    "#fdd700": {
+      "count": 5,
+      "sources": [
+        "https://grounduppdx.com/"
+      ]
+    },
+    "#000000": {
+      "count": 5,
+      "sources": [
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430",
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme--customizations.css?v=159632888026439250361790339430"
+      ]
+    },
+    "#272727": {
+      "count": 4,
+      "sources": [
+        "https://grounduppdx.com/"
+      ]
+    },
+    "#fffbf7": {
+      "count": 4,
+      "sources": [
+        "https://grounduppdx.com/"
+      ]
+    },
+    "#d8bedc": {
+      "count": 4,
+      "sources": [
+        "https://grounduppdx.com/"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 4,
+      "sources": [
+        "https://grounduppdx.com/"
+      ]
+    },
+    "#cbcbcb": {
+      "count": 4,
+      "sources": [
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430"
+      ]
+    },
+    "#888888": {
+      "count": 4,
+      "sources": [
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430"
+      ]
+    },
+    "#0000004d": {
+      "count": 3,
+      "sources": [
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430"
+      ]
+    },
+    "#facdd7": {
+      "count": 2,
+      "sources": [
+        "https://grounduppdx.com/"
+      ]
+    },
+    "#4e3c98": {
+      "count": 2,
+      "sources": [
+        "https://grounduppdx.com/",
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme--customizations.css?v=159632888026439250361790339430"
+      ]
+    },
+    "#73033b": {
+      "count": 2,
+      "sources": [
+        "https://grounduppdx.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://grounduppdx.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://grounduppdx.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 2,
+      "sources": [
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430"
+      ]
+    },
+    "#09aeec": {
+      "count": 2,
+      "sources": [
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430"
+      ]
+    },
+    "#49659d": {
+      "count": 2,
+      "sources": [
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430"
+      ]
+    },
+    "#cb1f2b": {
+      "count": 2,
+      "sources": [
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430"
+      ]
+    },
+    "#ffffff00": {
+      "count": 2,
+      "sources": [
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430"
+      ]
+    },
+    "#dddddd": {
+      "count": 2,
+      "sources": [
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430"
+      ]
+    },
+    "#01c753": {
+      "count": 2,
+      "sources": [
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430"
+      ]
+    },
+    "#cc9f9f": {
+      "count": 2,
+      "sources": [
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme--customizations.css?v=159632888026439250361790339430"
+      ]
+    },
+    "#575757": {
+      "count": 1,
+      "sources": [
+        "https://grounduppdx.com/"
+      ]
+    },
+    "#474747": {
+      "count": 1,
+      "sources": [
+        "https://grounduppdx.com/"
+      ]
+    },
+    "#0a0655": {
+      "count": 1,
+      "sources": [
+        "https://grounduppdx.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://grounduppdx.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://grounduppdx.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://grounduppdx.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#222222": {
+      "count": 1,
+      "sources": [
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430"
+      ]
+    },
+    "#3c5a99": {
+      "count": 1,
+      "sources": [
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430"
+      ]
+    },
+    "#1da1f2": {
+      "count": 1,
+      "sources": [
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430"
+      ]
+    },
+    "#bd081c": {
+      "count": 1,
+      "sources": [
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430"
+      ]
+    },
+    "#eaeaea": {
+      "count": 1,
+      "sources": [
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430"
+      ]
+    },
+    "#e6f9ee": {
+      "count": 1,
+      "sources": [
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430"
+      ]
+    },
+    "#a7c8d1": {
+      "count": 1,
+      "sources": [
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme--customizations.css?v=159632888026439250361790339430"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430"
+    ],
+    "Figtree": [
+      "https://grounduppdx.com/"
+    ],
+    "Grove Script Medium": [
+      "https://grounduppdx.com/cdn/shop/t/32/assets/theme--customizations.css?v=159632888026439250361790339430"
+    ],
+    "GroveScriptMedium": [
+      "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430"
+    ],
+    "Helvetica": [
+      "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430"
+    ],
+    "Helvetica Neue": [
+      "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430"
+    ],
+    "SteagalRough-Bo": [
+      "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430",
+      "https://grounduppdx.com/cdn/shop/t/32/assets/theme--customizations.css?v=159632888026439250361790339430"
+    ],
+    "ff-market-web": [
+      "https://use.typekit.net/hre8fvf.css",
+      "https://grounduppdx.com/cdn/shop/t/32/assets/theme--customizations.css?v=159632888026439250361790339430"
+    ],
+    "grovescriptmediumregular": [
+      "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430"
+    ],
+    "object-fit: cover": [
+      "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430"
+    ],
+    "sans-serif": [
+      "https://use.typekit.net/hre8fvf.css",
+      "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430",
+      "https://grounduppdx.com/cdn/shop/t/32/assets/theme--customizations.css?v=159632888026439250361790339430"
+    ],
+    "smoothy": [
+      "https://use.typekit.net/hre8fvf.css",
+      "https://grounduppdx.com/cdn/shop/t/32/assets/theme--customizations.css?v=159632888026439250361790339430"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://grounduppdx.com/",
+      "selector": ":root",
+      "declarations": "--lxs-rating-icon-color: #FDD700;"
+    },
+    {
+      "source": "https://grounduppdx.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://grounduppdx.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://grounduppdx.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://grounduppdx.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://grounduppdx.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://grounduppdx.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430",
+      "selector": "body",
+      "declarations": "background:#fff;color:#222;padding:0;margin:0;font-family:Helvetica Neue,Helvetica,Helvetica,Arial,sans-serif;font-weight:400;font-style:normal;line-height:1;position:relative;width:100vw"
+    },
+    {
+      "source": "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430",
+      "selector": "visited,.font--button--inverted:visited,.font--secondary-button:visited,.font--secondary-button--inverted:visited,button input[type=button]:visited,input[type=r",
+      "declarations": "color:var(--color-button)"
+    },
+    {
+      "source": "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430",
+      "selector": ".font--button:hover,.font--button--inverted:hover,.font--secondary-button:hover,.font--secondary-button--inverted:hover,button input[type=button]:hover,input[ty",
+      "declarations": "color:var(--color-button);background:var(--color-button-bg)"
+    },
+    {
+      "source": "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430",
+      "selector": ".font--section-heading,h1,h2",
+      "declarations": "font-family:var(--font--heading--family);font-weight:var(--font--heading--weight);font-style:var(--font--heading--style);text-transform:var(--font--heading--uppercase);font-size:var(--font--section-heading--size);line-height:1.25em;margin:-.25em 0;letter-spacing:.025em"
+    },
+    {
+      "source": "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430",
+      "selector": ".font--paragraph,body",
+      "declarations": "font-family:var(--font--paragraph--family);font-weight:var(--font--paragraph--weight);font-style:var(--font--paragraph--style);font-size:var(--font--paragraph--size);line-height:1.5em;margin:-.25em 0"
+    },
+    {
+      "source": "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430",
+      "selector": ".font--button,a.font--button,input[type=submit]",
+      "declarations": "background:var(--color-button-bg);color:var(--color-button);font-family:var(--font--accent--family);font-weight:var(--font--accent--weight);font-style:var(--font--accent--style);text-transform:uppercase;font-size:14px;letter-spacing:1px"
+    },
+    {
+      "source": "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430",
+      "selector": "--button:focus,a.font--button:link,a.font--button:visited,a.font--button:hover,a.font--button:focus,input[type=submit]:link,input[type=submit]:visited,input[typ",
+      "declarations": "color:var(--color-button);background:var(--color-button-bg)"
+    },
+    {
+      "source": "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430",
+      "selector": ".font--button--inverted,a.font--button--inverted,input[type=submit].font--button--inverted",
+      "declarations": "background:var(--color-button-bg);color:var(--color-button);font-family:var(--font--accent--family);font-weight:var(--font--accent--weight);font-style:var(--font--accent--style);text-transform:uppercase;font-size:14px;letter-spacing:1px;background:var(--color-button);color:var(--color-button-bg)"
+    },
+    {
+      "source": "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430",
+      "selector": "d:focus,input[type=submit].font--button--inverted:link,input[type=submit].font--button--inverted:visited,input[type=submit].font--button--inverted:hover,input[t",
+      "declarations": "color:var(--color-button);background:var(--color-button-bg)"
+    },
+    {
+      "source": "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430",
+      "selector": "d:focus,input[type=submit].font--button--inverted:link,input[type=submit].font--button--inverted:visited,input[type=submit].font--button--inverted:hover,input[t",
+      "declarations": "background:var(--color-button);color:var(--color-button-bg)"
+    },
+    {
+      "source": "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430",
+      "selector": ".font--secondary-button,a.font--secondary-button,input[type=submit].font--secondary-button",
+      "declarations": "background:var(--color-button-bg);color:var(--color-button);font-family:var(--font--accent--family);font-weight:var(--font--accent--weight);font-style:var(--font--accent--style);text-transform:uppercase;font-size:14px;letter-spacing:1px;background:transparent;border:2px solid var(--color-button-bg);color:var(--color-button-bg);line-height:41px"
+    },
+    {
+      "source": "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430",
+      "selector": "n:focus,input[type=submit].font--secondary-button:link,input[type=submit].font--secondary-button:visited,input[type=submit].font--secondary-button:hover,input[t",
+      "declarations": "color:var(--color-button);background:var(--color-button-bg)"
+    },
+    {
+      "source": "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430",
+      "selector": "n:focus,input[type=submit].font--secondary-button:link,input[type=submit].font--secondary-button:visited,input[type=submit].font--secondary-button:hover,input[t",
+      "declarations": "color:var(--color-button-bg);background:transparent"
+    },
+    {
+      "source": "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430",
+      "selector": ".font--secondary-button--inverted,a.font--secondary-button--inverted,input[type=submit].font--secondary-button--inverted",
+      "declarations": "background:var(--color-button-bg);color:var(--color-button);font-family:var(--font--accent--family);font-weight:var(--font--accent--weight);font-style:var(--font--accent--style);text-transform:uppercase;font-size:14px;letter-spacing:1px;border:2px solid var(--color-button-bg);color:var(--color-button-bg);line-height:41px;background:transparent;border:2px solid var(--color-page-bg);color:var(--color-page-bg)"
+    },
+    {
+      "source": "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430",
+      "selector": "ry-button--inverted:link,input[type=submit].font--secondary-button--inverted:visited,input[type=submit].font--secondary-button--inverted:hover,input[type=submit",
+      "declarations": "color:var(--color-button);background:var(--color-button-bg)"
+    },
+    {
+      "source": "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430",
+      "selector": "ry-button--inverted:link,input[type=submit].font--secondary-button--inverted:visited,input[type=submit].font--secondary-button--inverted:hover,input[type=submit",
+      "declarations": "color:var(--color-button-bg);background:transparent"
+    },
+    {
+      "source": "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430",
+      "selector": "ry-button--inverted:link,input[type=submit].font--secondary-button--inverted:visited,input[type=submit].font--secondary-button--inverted:hover,input[type=submit",
+      "declarations": "color:var(--color-page-bg);background:transparent"
+    },
+    {
+      "source": "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430",
+      "selector": ".remove_button_styles,.modal.video .close,.popup-modal-close",
+      "declarations": "-webkit-appearance:none;-moz-appearance:none;appearance:none;color:var(--color-button);text-transform:inherit;background:transparent;font-size:14px"
+    },
+    {
+      "source": "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430",
+      "selector": ".button,a.button",
+      "declarations": "background:var(--color-button-bg);border-color:var(--color-border);border-radius:2px;border:0;-webkit-box-shadow:none;box-shadow:none;color:var(--color-button);display:inline-block;font-size:12px;font-weight:var(--font--paragraph--weight);height:45px;letter-spacing:1px;line-height:45px;margin:0;padding:0 25px;text-transform:uppercase;-webkit-transition:background-color .3s ease-out;transition:background-color .3s ease-out;width:auto"
+    },
+    {
+      "source": "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430",
+      "selector": ".button:hover,a.button:hover",
+      "declarations": "color:var(--color-button);background:var(--color-button-bg)"
+    },
+    {
+      "source": "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430",
+      "selector": ".button--secondary",
+      "declarations": "background:var(--color-button-bg);border-color:var(--color-border);border-radius:2px;border:0;-webkit-box-shadow:none;box-shadow:none;color:var(--color-button);display:inline-block;font-size:12px;font-weight:var(--font--paragraph--weight);height:45px;letter-spacing:1px;line-height:45px;margin:0;padding:0 25px;text-transform:uppercase;-webkit-transition:background-color .3s ease-out;transition:background-color .3s ease-out;width:auto;background:var(--color-page-bg);border:2px solid var(--color-button-bg);color:var(--color-button-bg);line-height:41px"
+    },
+    {
+      "source": "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430",
+      "selector": ".button--secondary:hover",
+      "declarations": "color:var(--color-button);background:var(--color-button-bg)"
+    },
+    {
+      "source": "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430",
+      "selector": ".button--secondary:hover",
+      "declarations": "color:var(--color-button-bg);background:var(--color-page-bg)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Ground Up Nut Butters",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://grounduppdx.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430",
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme--customizations.css?v=159632888026439250361790339430"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://grounduppdx.com/",
+        "https://grounduppdx.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430",
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme--customizations.css?v=159632888026439250361790339430"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://grounduppdx.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://grounduppdx.com/",
+        "https://grounduppdx.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430",
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme--customizations.css?v=159632888026439250361790339430"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430",
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme--customizations.css?v=159632888026439250361790339430"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://grounduppdx.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-blue-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://grounduppdx.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-purple": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://grounduppdx.com/",
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme--customizations.css?v=159632888026439250361790339430"
+      ]
+    },
+    "colors.accent-berry": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://grounduppdx.com/"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430"
+      ]
+    },
+    "colors.alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://grounduppdx.com/cdn/shop/t/32/assets/theme.css?v=152267899143993932541790339430"
+      ]
+    },
+    "colors.skeleton": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://grounduppdx.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.jar-label": {
+      "status": "inferred"
+    }
+  }
+}

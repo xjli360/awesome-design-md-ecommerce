@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Aarke
-description: Aarke is a Swedish kitchen appliance brand that elevates everyday hydration into a sculptural ritual. The palette is anchored by a deep, almost-black ink (`#232322`) and a crisp, cool white canvas (`#fafafa`), with a signature teal-green primary (`#108474`) that evokes Nordic waters and stainless steel patina. This primary appears sparingly — on the carbonator button, the occasional accent line, and the brand's "NEW" badge — lending it the weight of a deliberate design choice rather than a default. Supporting tones are a gallery of warm grays: `#eeeeee` for soft surfaces, `#dddddd` for hairline borders, `#cccccc` for muted text, and `#999999` for placeholder states. A single accent of warm yellow (`#fbcd0a`) cuts through the monochrome on select product highlights, while a whisper of lavender (`#a89cc8`) and pale teal (`#c1e6e6`) appear in editorial photography overlays, hinting at a broader lifestyle palette. Typography is built on GT Walsheim Pro — a geometric sans-serif with a friendly, slightly condensed character — used in three weights: Light for body copy, Medium for buttons and secondary navigation, and Bold for display headlines. The brand trusts generous whitespace, hard edges (most corners are `{rounded.none}` or `{rounded.xs}`), and the material honesty of brushed stainless steel and borosilicate glass. There is no visual noise: the site reads like a product catalog for a design museum gift shop, where every component — from the pill-shaped search bar (`{rounded.full}`) to the product card's subtle `{rounded.sm}` — is a quiet invitation to slow down and consider the object.
+name: "Aarke"
+source_url: "https://www.aarke.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Aarke is a Swedish kitchen appliance brand that elevates everyday hydration into a sculptural ritual. The palette is anchored by a deep, almost-black ink (`#232322`) and a crisp, cool white canvas (`#fafafa`), with a signature teal-green primary (`#108474`) that evokes Nordic waters and stainless steel patina. This primary appears sparingly — on the carbonator button, the occasional accent line, and the brand's "NEW" badge — lending it the weight of a deliberate design choice rather than a default. Supporting tones are a gallery of warm grays: `#eeeeee` for soft surfaces, `#dddddd` for hairline borders, `#cccccc` for muted text, and `#999999` for placeholder states. A single accent of warm yellow (`#fbcd0a`) cuts through the monochrome on select product highlights, while a whisper of lavender (`#a89cc8`) and pale teal (`#c1e6e6`) appear in editorial photography overlays, hinting at a broader lifestyle palette. Typography is built on GT Walsheim Pro — a geometric sans-serif with a friendly, slightly condensed character — used in three weights: Light for body copy, Medium for buttons and secondary navigation, and Bold for display headlines. The brand trusts generous whitespace, hard edges (most corners are `{rounded.none}` or `{rounded.xs}`), and the material honesty of brushed stainless steel and borosilicate glass. There is no visual noise: the site reads like a product catalog for a design museum gift shop, where every component — from the pill-shaped search bar (`{rounded.full}`) to the product card's subtle `{rounded.sm}` — is a quiet invitation to slow down and consider the object.
 
 colors:
   primary: "#108474"
@@ -419,6 +423,8 @@ components:
 - Breadcrumb collapses to show only the current page and a "Back" link on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for buttons and cards were inferred from common patterns; exact transition durations and easing curves were not extractable.
 - Error states for forms (validation messages, error icons) were not visible on the live site; colors and styling are best-guess based on brand palette.

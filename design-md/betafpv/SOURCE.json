@@ -1,0 +1,1001 @@
+{
+  "source_url": "https://betafpv.com",
+  "final_url": "https://betafpv.com/",
+  "captured_at": "2026-09-28T04:56:20.842282+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://betafpv.com",
+      "final_url": "https://betafpv.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "1ad6bcdf1d797b6acb58c8fabeb5b71fd94287543be91dece3463b8b342cb6f9",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546",
+      "final_url": "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d1a73c2285d2d59a133515503783f5d6e8db81fa71d396b283b49542a840bb00",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://betafpv.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://betafpv.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.opinew.com/styles/opw-icons/style.css",
+      "final_url": "https://cdn.opinew.com/styles/opw-icons/style.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7368423c7d76a6be9c2e030cfcaebe5f488b4fce5ab57cac917dd1e7998d2ee4",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.judge.me/shopify_v2.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "be10bc4b16346e787891f1da5de658505019fcd30172651891a4bf550c948e36",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "be10bc4b16346e787891f1da5de658505019fcd30172651891a4bf550c948e36",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 114,
+      "sources": [
+        "https://betafpv.com/",
+        "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546",
+        "https://betafpv.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#000000": {
+      "count": 71,
+      "sources": [
+        "https://betafpv.com/",
+        "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546",
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 68,
+      "sources": [
+        "https://betafpv.com/",
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#616669": {
+      "count": 48,
+      "sources": [
+        "https://betafpv.com/",
+        "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546"
+      ]
+    },
+    "#e8e8e1": {
+      "count": 48,
+      "sources": [
+        "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546"
+      ]
+    },
+    "#cccccc": {
+      "count": 20,
+      "sources": [
+        "https://betafpv.com/",
+        "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546",
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#555555": {
+      "count": 20,
+      "sources": [
+        "https://betafpv.com/",
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 19,
+      "sources": [
+        "https://betafpv.com/",
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#333333": {
+      "count": 17,
+      "sources": [
+        "https://betafpv.com/",
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#222222": {
+      "count": 11,
+      "sources": [
+        "https://betafpv.com/"
+      ]
+    },
+    "#54cce9": {
+      "count": 11,
+      "sources": [
+        "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 10,
+      "sources": [
+        "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546",
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#666666": {
+      "count": 10,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#00000000": {
+      "count": 9,
+      "sources": [
+        "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546",
+        "https://betafpv.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#fbcd0a": {
+      "count": 8,
+      "sources": [
+        "https://betafpv.com/",
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#d02e2e": {
+      "count": 6,
+      "sources": [
+        "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546"
+      ]
+    },
+    "#108474": {
+      "count": 6,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 5,
+      "sources": [
+        "https://betafpv.com/",
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 5,
+      "sources": [
+        "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546"
+      ]
+    },
+    "#efe70f": {
+      "count": 4,
+      "sources": [
+        "https://betafpv.com/"
+      ]
+    },
+    "#3dc5e6": {
+      "count": 4,
+      "sources": [
+        "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546"
+      ]
+    },
+    "#929292": {
+      "count": 4,
+      "sources": [
+        "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546"
+      ]
+    },
+    "#a9a9a9": {
+      "count": 4,
+      "sources": [
+        "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546"
+      ]
+    },
+    "#0f0f0f": {
+      "count": 4,
+      "sources": [
+        "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 4,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#a89cc8": {
+      "count": 4,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#c1e6e6": {
+      "count": 4,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#dae1e7": {
+      "count": 3,
+      "sources": [
+        "https://betafpv.com/"
+      ]
+    },
+    "#22292f": {
+      "count": 3,
+      "sources": [
+        "https://betafpv.com/"
+      ]
+    },
+    "#b8c2cc": {
+      "count": 3,
+      "sources": [
+        "https://betafpv.com/"
+      ]
+    },
+    "#3d4852": {
+      "count": 3,
+      "sources": [
+        "https://betafpv.com/"
+      ]
+    },
+    "#111111": {
+      "count": 3,
+      "sources": [
+        "https://betafpv.com/"
+      ]
+    },
+    "#a1c65b": {
+      "count": 3,
+      "sources": [
+        "https://betafpv.com/"
+      ]
+    },
+    "#0078bd": {
+      "count": 3,
+      "sources": [
+        "https://betafpv.com/"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 3,
+      "sources": [
+        "https://betafpv.com/",
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#717171": {
+      "count": 3,
+      "sources": [
+        "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546"
+      ]
+    },
+    "#81d9ef": {
+      "count": 3,
+      "sources": [
+        "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546"
+      ]
+    },
+    "#56ad6a": {
+      "count": 3,
+      "sources": [
+        "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546"
+      ]
+    },
+    "#0000004d": {
+      "count": 3,
+      "sources": [
+        "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546"
+      ]
+    },
+    "#00000033": {
+      "count": 3,
+      "sources": [
+        "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546"
+      ]
+    },
+    "#8795a1": {
+      "count": 2,
+      "sources": [
+        "https://betafpv.com/"
+      ]
+    },
+    "#e8d225": {
+      "count": 2,
+      "sources": [
+        "https://betafpv.com/"
+      ]
+    },
+    "#999999": {
+      "count": 2,
+      "sources": [
+        "https://betafpv.com/",
+        "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546"
+      ]
+    },
+    "#e3dfdf": {
+      "count": 2,
+      "sources": [
+        "https://betafpv.com/"
+      ]
+    },
+    "#fafafa": {
+      "count": 2,
+      "sources": [
+        "https://betafpv.com/",
+        "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 2,
+      "sources": [
+        "https://betafpv.com/"
+      ]
+    },
+    "#8c0000": {
+      "count": 2,
+      "sources": [
+        "https://betafpv.com/"
+      ]
+    },
+    "#44c767": {
+      "count": 2,
+      "sources": [
+        "https://betafpv.com/"
+      ]
+    },
+    "#fff6f6": {
+      "count": 2,
+      "sources": [
+        "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546"
+      ]
+    },
+    "#08a8cf": {
+      "count": 2,
+      "sources": [
+        "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546"
+      ]
+    },
+    "#95d5df": {
+      "count": 2,
+      "sources": [
+        "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546"
+      ]
+    },
+    "#00000017": {
+      "count": 2,
+      "sources": [
+        "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546"
+      ]
+    },
+    "#d62c2c": {
+      "count": 2,
+      "sources": [
+        "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://betafpv.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#888888": {
+      "count": 2,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#ffff00": {
+      "count": 2,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#3b5998": {
+      "count": 2,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#1da1f2": {
+      "count": 2,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#dd4b39": {
+      "count": 2,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "#e60023": {
+      "count": 2,
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://betafpv.com/"
+    ],
+    "Arial": [
+      "https://betafpv.com/",
+      "https://cdn.judge.me/shopify_v2.css",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Baskerville": [
+      "https://cdn.judge.me/shopify_v2.css",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "BlinkMacSystemFont": [
+      "https://betafpv.com/"
+    ],
+    "Cantarell": [
+      "https://betafpv.com/"
+    ],
+    "Consolas": [
+      "https://betafpv.com/",
+      "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546"
+    ],
+    "Courier New": [
+      "https://betafpv.com/"
+    ],
+    "Droid Sans": [
+      "https://betafpv.com/"
+    ],
+    "Fira Sans": [
+      "https://betafpv.com/"
+    ],
+    "Helvetica": [
+      "https://betafpv.com/",
+      "https://cdn.judge.me/shopify_v2.css",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Helvetica Neue": [
+      "https://betafpv.com/"
+    ],
+    "HelveticaNeue": [
+      "https://betafpv.com/"
+    ],
+    "JudgemeIcons": [
+      "https://cdn.judge.me/shopify_v2.css",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons\" !important": [
+      "https://cdn.judge.me/shopify_v2.css",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons' !important": [
+      "https://cdn.judge.me/shopify_v2.css",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "JudgemeStar": [
+      "https://betafpv.com/"
+    ],
+    "JudgemeStar' !important": [
+      "https://cdn.judge.me/shopify_v2.css",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Liberation Mono": [
+      "https://betafpv.com/"
+    ],
+    "Menlo": [
+      "https://betafpv.com/"
+    ],
+    "Monaco": [
+      "https://betafpv.com/"
+    ],
+    "Montserrat": [
+      "https://betafpv.com/"
+    ],
+    "Nunito Sans": [
+      "https://cdn.judge.me/shopify_v2.css",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "Oxygen": [
+      "https://betafpv.com/"
+    ],
+    "Segoe UI": [
+      "https://betafpv.com/"
+    ],
+    "Ubuntu": [
+      "https://betafpv.com/"
+    ],
+    "Work Sans": [
+      "https://betafpv.com/",
+      "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546"
+    ],
+    "inherit !important": [
+      "https://betafpv.com/"
+    ],
+    "monospace": [
+      "https://betafpv.com/",
+      "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546",
+      "https://cdn.judge.me/shopify_v2.css",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "object-fit: cover": [
+      "https://betafpv.com/",
+      "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546"
+    ],
+    "opw-2snoci": [
+      "https://cdn.opinew.com/styles/opw-icons/style.css"
+    ],
+    "opw-2snoci!important": [
+      "https://cdn.opinew.com/styles/opw-icons/style.css"
+    ],
+    "opw-icons": [
+      "https://cdn.opinew.com/styles/opw-icons/style.css"
+    ],
+    "opw-icons!important": [
+      "https://cdn.opinew.com/styles/opw-icons/style.css"
+    ],
+    "opw-snoci": [
+      "https://cdn.opinew.com/styles/opw-icons/style.css"
+    ],
+    "opw-snoci!important": [
+      "https://cdn.opinew.com/styles/opw-icons/style.css"
+    ],
+    "sans-serif": [
+      "https://betafpv.com/",
+      "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546",
+      "https://cdn.judge.me/shopify_v2.css",
+      "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+    ],
+    "sans-serif!important": [
+      "https://betafpv.com/"
+    ],
+    "slick-icons": [
+      "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546"
+    ],
+    "system-ui": [
+      "https://betafpv.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://betafpv.com/",
+      "selector": "button[data-v-1ca38a28],input[data-v-1ca38a28],select[data-v-1ca38a28],textarea[data-v-1ca38a28]",
+      "declarations": "font-family:inherit;font-size:100%;line-height:1.15;margin:0"
+    },
+    {
+      "source": "https://betafpv.com/",
+      "selector": "button[data-v-1ca38a28]",
+      "declarations": "background-color:initial;background-image:none"
+    },
+    {
+      "source": "https://betafpv.com/",
+      "selector": "button[data-v-1ca38a28],input[data-v-1ca38a28],select[data-v-1ca38a28],textarea[data-v-1ca38a28]",
+      "declarations": "padding:0;line-height:inherit;color:inherit"
+    },
+    {
+      "source": "https://betafpv.com/",
+      "selector": ".flex-grid__item--1564631843475-0 .btn--tint-border",
+      "declarations": "border-color: rgba(0, 0, 0, 0.2);"
+    },
+    {
+      "source": "https://betafpv.com/",
+      "selector": ".flex-grid__item--1564631865969 .btn--tint-border",
+      "declarations": "border-color: rgba(0, 0, 0, 0.2);"
+    },
+    {
+      "source": "https://betafpv.com/",
+      "selector": ".flex-grid__item--1564631843475-1 .btn--tint-border",
+      "declarations": "border-color: rgba(0, 0, 0, 0.2);"
+    },
+    {
+      "source": "https://betafpv.com/",
+      "selector": ".hero--1628936333780eb763 .btn",
+      "declarations": "background: #616669 !important;\n        border-color: #616669 !important;"
+    },
+    {
+      "source": "https://betafpv.com/",
+      "selector": "width:100px\nwidth:65px\nwidth:80px\nwidth:80px\nwidth:65px\nwidth:80px\nwidth:80px\nwidth:90px\nwidth:90px\nwidth:90px\n\n  .ba-products-box *",
+      "declarations": "font-family:\"Work Sans\",\"HelveticaNeue\",\"Helvetica Neue\",sans-serif;text-decoration:none;margin:0;list-style:none;box-sizing:border-box;padding:0"
+    },
+    {
+      "source": "https://betafpv.com/",
+      "selector": ".ba-products-box h2",
+      "declarations": "border:none;padding-bottom:0.5em;margin-bottom:0.5em;text-transform:none;color:#222222"
+    },
+    {
+      "source": "https://betafpv.com/",
+      "selector": ".ba-product-oldprice",
+      "declarations": "text-decoration:line-through;color:#999"
+    },
+    {
+      "source": "https://betafpv.com/",
+      "selector": "button.ba-product-addtocart,button.ba-addalltocart",
+      "declarations": "font-family:\"Work Sans\", sans-serif;font-style:normal;font-weight:600;text-transform:uppercase;letter-spacing:0;border:none;cursor:pointer;font-size:14px;min-height:36px;display:block;width:100%;line-height:22px;padding:5px 20px 5px 20px;white-space:normal;margin-top:0px;background-color:#557b97;color:white"
+    },
+    {
+      "source": "https://betafpv.com/",
+      "selector": "button.ba-product-addtocart:hover,button.ba-addalltocart:hover",
+      "declarations": "background-color:#436076"
+    },
+    {
+      "source": "https://betafpv.com/",
+      "selector": "select.ba-product-variant-select",
+      "declarations": "vertical-align:baseline;margin:2px 0px 10px;height:2em;min-height:2em;max-height:2em;padding:0px 10px;line-height:1em;border-radius:0 !important;display:block;-webkit-appearance:menulist;background-image:none;width:100%;max-width:100%;font-size:1em;font-weight:normal;border:1px solid #e8e9eb;color:black;background-color:white;text-align:left"
+    },
+    {
+      "source": "https://betafpv.com/",
+      "selector": "button.ba-product-addtocart,button.ba-addalltocart",
+      "declarations": "background-color:#6371c7;color:#ffffff"
+    },
+    {
+      "source": "https://betafpv.com/",
+      "selector": "button.ba-product-addtocart:hover,button.ba-addalltocart:hover",
+      "declarations": "background-color:#3f4eae;color:#fafafa"
+    },
+    {
+      "source": "https://betafpv.com/",
+      "selector": "h3.ba-product_title",
+      "declarations": "color:#111111"
+    },
+    {
+      "source": "https://betafpv.com/",
+      "selector": ".ba-product_description",
+      "declarations": "color:#212121"
+    },
+    {
+      "source": "https://betafpv.com/",
+      "selector": "span.ba-product-price",
+      "declarations": "color:#B12704"
+    },
+    {
+      "source": "https://betafpv.com/",
+      "selector": ".ba-product-oldprice",
+      "declarations": "color:#989898"
+    },
+    {
+      "source": "https://betafpv.com/",
+      "selector": ".ba-product_title",
+      "declarations": "color:#111111;font-weight:normal"
+    },
+    {
+      "source": "https://betafpv.com/",
+      "selector": "select.ba-product-variant-select",
+      "declarations": "color:#111111"
+    },
+    {
+      "source": "https://betafpv.com/",
+      "selector": "#ba-rec-csw-wrapper #ba-csw-list li .ba-product-variant-select-wrapper select",
+      "declarations": "outline:0;border:1px solid #ddd;border-radius:12px !important;background:0 0;width:100%;height:24px;min-height:24px;margin:0;padding:0 22px 0 6px;color:#333;cursor:pointer;font-size:12px;font-style:normal;font-family:inherit !important;-webkit-appearance:none;-moz-appearance:none;-ms-appearance:none;appearance:none;box-shadow:none;-webkit-box-shadow:none;-moz-box-shadow:none"
+    },
+    {
+      "source": "https://betafpv.com/",
+      "selector": "p.product-quantity",
+      "declarations": "color: #6b6b6b;\n        font-size: 12px;"
+    },
+    {
+      "source": "https://betafpv.com/",
+      "selector": ".adp-product-bundle .buy-bundle input.addtocart",
+      "declarations": "padding: 5px 10px;\n        background-color: #222;\n        color: #FFF;\n        border: none;"
+    },
+    {
+      "source": "https://betafpv.com/",
+      "selector": ".adp-product-bundle .adp-price.regular",
+      "declarations": "color: #bbb;\n        text-decoration: line-through;"
+    },
+    {
+      "source": "https://betafpv.com/",
+      "selector": ".adp-bundle-wrapper .adp-product-bundle button",
+      "declarations": "display: inline-block;\n        padding: 4px 10px 4px;\n        margin-bottom: 0;\n        text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.1);\n        color: #ffffff;\n        text-align: center;\n        vertical-align: middle;\n        background-repeat: repeat-x;\n        border: 1px solid #cccccc;\n        border-bottom-color: #b3b3b3;\n        -webkit-border-radius: 4px;\n        -moz-border-radius: 4px;\n        border-radius: 4px;\n        -webkit-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);\n        -moz-box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, 0.05);\n        box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.2), 0 1px 2px rgba(0, 0, 0, "
+    },
+    {
+      "source": "https://betafpv.com/",
+      "selector": ".adp-product-bundle .bundle-total",
+      "declarations": "color: #bfbfbf;\n        font-size: 21px;\n        font-weight: bold;"
+    },
+    {
+      "source": "https://betafpv.com/",
+      "selector": ".adp-product-bundle .adp-price",
+      "declarations": "color: #8C0000;"
+    },
+    {
+      "source": "https://betafpv.com/",
+      "selector": ".adp-product-bundle .bundle-total",
+      "declarations": "color: #8C1919;"
+    },
+    {
+      "source": "https://betafpv.com/",
+      "selector": ".bundle-total button",
+      "declarations": "color: #fff;\n        margin: -10px 0 -10px;\n        width: 100%;\n        border: none;\n        text-decoration: none;\n        font-size: 13%;\n        font-family: inherit;\n        text-transform: uppercase;\n        font-weight: 500;\n        padding: 10px;\n        height: 100%;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "BETAFPV - Trailblazer in Micro FPV Drones & Components",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://betafpv.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://betafpv.com/",
+        "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546",
+        "https://betafpv.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://betafpv.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://betafpv.com/",
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://betafpv.com/",
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://betafpv.com/",
+        "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546",
+        "https://betafpv.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.accent-alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546"
+      ]
+    },
+    "colors.accent-success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.accent-new": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://betafpv.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://betafpv.com/",
+        "https://cdn.judge.me/shopify_v2.css",
+        "https://cdn.shopify.com/extensions/01a0cdf8-b2d2-7ccd-a251-5cf8c66ad2ca/judgeme-762/assets/shopify_v2.css"
+      ]
+    },
+    "colors.muted-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://betafpv.com/",
+        "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546"
+      ]
+    },
+    "colors.button-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://betafpv.com/",
+        "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546"
+      ]
+    },
+    "colors.overlay": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://betafpv.com/cdn/shop/t/19/assets/theme.scss.css?v=179697100398549923731747625546"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.button-hero": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.variant-selector": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.badge-sale": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    }
+  }
+}

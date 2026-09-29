@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Omega Juicers
-description: >
+name: "Omega Juicers"
+source_url: "https://omegajuicers.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Two greens anchor the entire interface — a saturated mid-tone (#298556) that fills primary buttons, collection badges, and "Add to Cart" bars, and a darker forest (#007a3e) that surfaces on hover states and the sticky header wordmark. The effect is less "wellness pastel" and more produce-aisle conviction: celery stalk, wheatgrass shot, the cap of a cold-pressed bottle. Display headlines land in Poppins at 600–700 weight, giving product names a geometric solidity that pairs well with appliance photography where chrome cylinders and matte housings dominate the frame. Body copy and UI labels drop into DM Sans, a grotesque with open apertures that stays readable at 14px on dense spec-comparison tables — the kind Omega leans on heavily, stacking RPM, wattage, and warranty years in side-by-side grids. A golden amber accent (#ffb922) marks sale callouts, star ratings, and limited-edition flags; it reads warm against the green without drifting into citrus cliché. A deep berry (#9c005f) appears sparingly — clearance badges, urgent inventory warnings — functioning as a second alert layer distinct from standard error red. Cards sit on a pure-white canvas (#ffffff) with `{rounded.sm}` corners and a single `{colors.hairline}` border; product imagery bleeds to the card edge while text content observes `{spacing.base}` internal padding. The nav bar is slim (64px), ink-dark (#111111) text over white, collapsing to a hamburger at mobile with a full-screen drawer whose backdrop uses the same near-black (#121212) at 85% opacity. Spacing is utilitarian — `{spacing.section}` (64px) between homepage modules, `{spacing.lg}` (24px) gutters in the product grid — and the overall density is higher than lifestyle brands because the audience cross-shops on specs, not mood. Touch targets honor 48px minimums, pill-shaped filter chips use `{rounded.full}`, and the sticky mobile cart bar anchors to the viewport bottom with a `{colors.primary}` background that keeps the conversion action visible through long scroll depths.
 
 colors:
@@ -316,7 +319,7 @@ components:
     headlineTypography: "{typography.display-xl}"
     subheadTypography: "{typography.body-lg}"
     ctaComponent: button-primary
-    padding: "{spacing.section-lg}" "{spacing.xl}"
+    padding: "{spacing.section-lg} {spacing.xl}"
     minHeight: 520px
     overlayGradient: linear-gradient(90deg, rgba(18,18,18,0.75) 0%, transparent 60%)
   hero-split:
@@ -324,7 +327,7 @@ components:
     textColor: "{colors.ink}"
     headlineTypography: "{typography.display-lg}"
     bodyTypography: "{typography.body-lg}"
-    padding: "{spacing.section}" "{spacing.xl}"
+    padding: "{spacing.section} {spacing.xl}"
     imagePosition: right
     imageFit: contain
   collection-header:
@@ -332,14 +335,14 @@ components:
     textColor: "{colors.ink}"
     headlineTypography: "{typography.display-md}"
     descriptionTypography: "{typography.body-md}"
-    padding: "{spacing.xxl}" 0
+    padding: "{spacing.xxl} 0"
     textAlign: center
   spec-table:
     backgroundColor: "{colors.canvas}"
     textColor: "{colors.ink}"
     labelTypography: "{typography.spec-label}"
     valueTypography: "{typography.spec-value}"
-    rowPadding: "{spacing.md}" 0
+    rowPadding: "{spacing.md} 0"
     rowBorder: 1px solid {colors.hairline-soft}
     stripeColor: "{colors.surface-soft}"
   comparison-grid:
@@ -390,7 +393,7 @@ components:
     linkTypography: "{typography.link}"
     linkColor: "{colors.hairline}"
     linkHoverColor: "{colors.on-dark}"
-    padding: "{spacing.section}" "{spacing.xl}"
+    padding: "{spacing.section} {spacing.xl}"
     borderTop: none
   newsletter-signup:
     backgroundColor: "{colors.surface-soft}"
@@ -400,7 +403,7 @@ components:
     inputComponent: text-input
     buttonComponent: button-primary
     rounded: "{rounded.sm}"
-    padding: "{spacing.xxl}" "{spacing.xl}"
+    padding: "{spacing.xxl} {spacing.xl}"
   mobile-cart-bar:
     backgroundColor: "{colors.primary}"
     textColor: "{colors.on-primary}"
@@ -503,6 +506,8 @@ components:
 - Breadcrumbs truncate to "… / Parent / Current" on mobile to prevent wrapping.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No meta theme-color was detected; the system infers white or green from brand context but the actual value for mobile browser chrome is unconfirmed.
 - Exact border-radius values on the live site could not be confirmed through extraction; `{rounded.sm}` (8px) is inferred from typical Shopify theme defaults and visual inspection.

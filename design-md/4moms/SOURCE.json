@@ -1,0 +1,1035 @@
+{
+  "source_url": "https://4moms.com",
+  "final_url": "https://www.4moms.com/",
+  "captured_at": "2026-09-28T10:16:52.996997+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://4moms.com",
+      "final_url": "https://www.4moms.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "2926085c218e4086f7c4e1260c5f008250e887f741b3e663a2565a1f28a24140",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "final_url": "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e47b14605df84a2ae4459abc6db374ed76d0223d2449ecace144c9910c4c1ea4",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463",
+      "final_url": "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "55053350c130d5e1b3925ef7f930e86531bd439de43dc6a02f7a8e48ccf6bdc4",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 228,
+      "sources": [
+        "https://www.4moms.com/",
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#ffffff": {
+      "count": 175,
+      "sources": [
+        "https://www.4moms.com/",
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#494949": {
+      "count": 66,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#e9ecef": {
+      "count": 62,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#dcdce0": {
+      "count": 44,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#cccccc": {
+      "count": 43,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#dc3545": {
+      "count": 38,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#00a465": {
+      "count": 38,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#636363": {
+      "count": 35,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#4e85e6": {
+      "count": 33,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#127fab": {
+      "count": 30,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#666666": {
+      "count": 26,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#ce00d9": {
+      "count": 21,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#f0f0f7": {
+      "count": 21,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#eee57a": {
+      "count": 16,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#17a2b8": {
+      "count": 16,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#4e85e640": {
+      "count": 16,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#737373": {
+      "count": 15,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 14,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#01010140": {
+      "count": 14,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#b10b0b": {
+      "count": 13,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 12,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#bed2f6": {
+      "count": 11,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#d885c1": {
+      "count": 10,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#00000013": {
+      "count": 10,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#eaf1fc": {
+      "count": 10,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#e4e4e4": {
+      "count": 9,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 9,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#f8f9fa": {
+      "count": 8,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#212529": {
+      "count": 8,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#6610f2": {
+      "count": 8,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#f48d52": {
+      "count": 8,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#20c997": {
+      "count": 8,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#c0b095": {
+      "count": 8,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#816960": {
+      "count": 8,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#d3b69f": {
+      "count": 8,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#0000000d": {
+      "count": 8,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#00a46540": {
+      "count": 8,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#dc354540": {
+      "count": 8,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#4e85e680": {
+      "count": 8,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#83fff0": {
+      "count": 8,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#00000080": {
+      "count": 7,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#eeeeee": {
+      "count": 7,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#b7cef5": {
+      "count": 6,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#a5dfc9": {
+      "count": 6,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#abdde5": {
+      "count": 6,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#f7f4c4": {
+      "count": 6,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#f1b0b7": {
+      "count": 6,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#00000000": {
+      "count": 6,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 6,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#adbba1": {
+      "count": 4,
+      "sources": [
+        "https://www.4moms.com/"
+      ]
+    },
+    "#cdddf8": {
+      "count": 4,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 4,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#b8e6d4": {
+      "count": 4,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#bee5eb": {
+      "count": 4,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#faf8da": {
+      "count": 4,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#f5c6cb": {
+      "count": 4,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#5c5c5c": {
+      "count": 4,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#00d784": {
+      "count": 4,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "#e4606d": {
+      "count": 4,
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+    ],
+    "Apple Color Emoji": [
+      "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+    ],
+    "Arial": [
+      "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+    ],
+    "BlinkMacSystemFont": [
+      "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+    ],
+    "Consolas": [
+      "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+    ],
+    "Courier New": [
+      "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+    ],
+    "Helvetica": [
+      "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+    ],
+    "Helvetica Neue": [
+      "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+    ],
+    "Liberation Mono": [
+      "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+    ],
+    "Menlo": [
+      "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+    ],
+    "Monaco": [
+      "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+    ],
+    "Noto Color Emoji": [
+      "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+    ],
+    "Noto Color Emoji\"!important": [
+      "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599"
+    ],
+    "Noto Sans": [
+      "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+    ],
+    "Roboto": [
+      "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+    ],
+    "SFMono-Regular": [
+      "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+    ],
+    "Segoe UI": [
+      "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+    ],
+    "Segoe UI Emoji": [
+      "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+    ],
+    "Segoe UI Symbol": [
+      "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+    ],
+    "bc-novatica-cyr": [
+      "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+    ],
+    "bc-novatica-cyr W01 Bold": [
+      "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+    ],
+    "monospace": [
+      "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+    ],
+    "monospace!important": [
+      "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+    ],
+    "sans-serif": [
+      "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.4moms.com/",
+      "selector": ".znt-pause-gif_button",
+      "declarations": "background-color:transparent;\n        position: absolute;\n        top:0;\n        right:0;\n        background-image: url(https://cdn.shopify.com/s/files/1/0261/2563/1560/files/download-1.png?v=1741797637) !important;\n        width: 44px !important;\n        height: 44px !important;\n        background-size: 24px !important;\n        background-repeat: no-repeat !important;\n        background-position: center !important;\n        border: 1px solid #000 !important;\n        cursor: pointer;\n        color: transparent;"
+    },
+    {
+      "source": "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "selector": "@charset \"UTF-8\";:root",
+      "declarations": "--white:#fff;--gray-lighter:#f8f9fa;--gray-light:#e9ecef;--gray:#CCC;--gray-dark:#666;--gray-darker:#494949;--gray-darkest:#212529;--black:#000;--blue:#4e85e6;--indigo:#6610f2;--purple:#ce00d9;--pink:#d885c1;--red:#dc3545;--orange:#f48d52;--yellow:#eee57a;--green:#00a465;--teal:#20c997;--cyan:#17a2b8;--khaki:#c0b095;--brown:#816960;--tan:#d3b69f;--gr1:#f0f0f7;--gr2:#dcdce0;--gr3:#E9E9E9;--gr4:#E2E2E2;--gr5:#737373;--gr6:#636363;--primary:#4e85e6;--secondary:#CCC;--success:#00a465;--info:#17a2b8;--warning:#eee57a;--danger:#dc3545;--breakpoint-xs:0;--breakpoint-sm:576px;--breakpoint-md:768px;--breakpoint-lg:992px;--breakpoint-xl:1200px;--breakpoint-xxl:1480px;--font-family-sans-serif:\"bc-novat"
+    },
+    {
+      "source": "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "selector": "body",
+      "declarations": "margin:0;font-family:bc-novatica-cyr,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\",Segoe UI Symbol,\"Noto Color Emoji\";font-size:1rem;font-weight:400;line-height:1.5;color:#494949;text-align:left;background-color:#fff;letter-spacing:.01em;text-rendering:optimizeLegibility;-webkit-font-smoothing:antialiased"
+    },
+    {
+      "source": "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "margin:0;font-family:inherit;font-size:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "selector": ".table-striped tbody tr:nth-of-type(odd)",
+      "declarations": "background-color:#0000000d"
+    },
+    {
+      "source": "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "selector": ".table-hover tbody tr:hover",
+      "declarations": "color:#494949;background-color:#00000013"
+    },
+    {
+      "source": "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "selector": ".table-primary tbody+tbody,.table-primary td,.table-primary th,.table-primary thead th",
+      "declarations": "border-color:#a3c0f2"
+    },
+    {
+      "source": "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "selector": ".table-secondary tbody+tbody,.table-secondary td,.table-secondary th,.table-secondary thead th",
+      "declarations": "border-color:#e4e4e4"
+    },
+    {
+      "source": "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "selector": ".table-success tbody+tbody,.table-success td,.table-success th,.table-success thead th",
+      "declarations": "border-color:#7ad0af"
+    },
+    {
+      "source": "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "selector": ".table-info tbody+tbody,.table-info td,.table-info th,.table-info thead th",
+      "declarations": "border-color:#86cfda"
+    },
+    {
+      "source": "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "selector": ".table-warning tbody+tbody,.table-warning td,.table-warning th,.table-warning thead th",
+      "declarations": "border-color:#f6f1ba"
+    },
+    {
+      "source": "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "selector": ".table-danger tbody+tbody,.table-danger td,.table-danger th,.table-danger thead th",
+      "declarations": "border-color:#ed969e"
+    },
+    {
+      "source": "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "selector": ".table-dark.table-striped tbody tr:nth-of-type(odd)",
+      "declarations": "background-color:#ffffff0d"
+    },
+    {
+      "source": "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "selector": ".table-dark.table-hover tbody tr:hover",
+      "declarations": "color:#fff;background-color:#ffffff13"
+    },
+    {
+      "source": "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "selector": ".card-header",
+      "declarations": "padding:10px 20px;margin-bottom:0;background-color:#fff;border-bottom:1px solid #e9ecef"
+    },
+    {
+      "source": "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "selector": ".reverse .alert .promo__text:not(.btn),.reverse .alert,.reverse .alert .promo--product .promo__text:not(.btn),.reverse .alert em:not(.btn),.reverse .alert p:not",
+      "declarations": "color:#494949"
+    },
+    {
+      "source": "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "selector": "button.close",
+      "declarations": "padding:0;background-color:transparent;border:0;-webkit-appearance:none;-moz-appearance:none;appearance:none"
+    },
+    {
+      "source": "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "selector": "a.bg-white:focus,a.bg-white:hover,button.bg-white:focus,button.bg-white:hover",
+      "declarations": "background-color:#e6e6e6!important"
+    },
+    {
+      "source": "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "selector": "a.bg-gray-lighter:focus,a.bg-gray-lighter:hover,button.bg-gray-lighter:focus,button.bg-gray-lighter:hover",
+      "declarations": "background-color:#dae0e5!important"
+    },
+    {
+      "source": "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "selector": "a.bg-gray-light:focus,a.bg-gray-light:hover,button.bg-gray-light:focus,button.bg-gray-light:hover",
+      "declarations": "background-color:#cbd3da!important"
+    },
+    {
+      "source": "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "selector": "a.bg-gray:focus,a.bg-gray:hover,button.bg-gray:focus,button.bg-gray:hover",
+      "declarations": "background-color:#b3b3b3!important"
+    },
+    {
+      "source": "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "selector": "a.bg-gray-dark:focus,a.bg-gray-dark:hover,button.bg-gray-dark:focus,button.bg-gray-dark:hover",
+      "declarations": "background-color:#4d4d4d!important"
+    },
+    {
+      "source": "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "selector": "a.bg-gray-darker:focus,a.bg-gray-darker:hover,button.bg-gray-darker:focus,button.bg-gray-darker:hover",
+      "declarations": "background-color:#303030!important"
+    },
+    {
+      "source": "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "selector": "a.bg-gray-darkest:focus,a.bg-gray-darkest:hover,button.bg-gray-darkest:focus,button.bg-gray-darkest:hover",
+      "declarations": "background-color:#0a0c0d!important"
+    },
+    {
+      "source": "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "selector": "a.bg-black:focus,a.bg-black:hover,button.bg-black:focus,button.bg-black:hover",
+      "declarations": "background-color:#000!important"
+    },
+    {
+      "source": "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "selector": "a.bg-blue:focus,a.bg-blue:hover,button.bg-blue:focus,button.bg-blue:hover",
+      "declarations": "background-color:#2166e0!important"
+    },
+    {
+      "source": "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "selector": "a.bg-indigo:focus,a.bg-indigo:hover,button.bg-indigo:focus,button.bg-indigo:hover",
+      "declarations": "background-color:#510bc4!important"
+    },
+    {
+      "source": "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "selector": "a.bg-purple:focus,a.bg-purple:hover,button.bg-purple:focus,button.bg-purple:hover",
+      "declarations": "background-color:#9e00a6!important"
+    },
+    {
+      "source": "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "selector": "a.bg-pink:focus,a.bg-pink:hover,button.bg-pink:focus,button.bg-pink:hover",
+      "declarations": "background-color:#cc5ead!important"
+    },
+    {
+      "source": "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+      "selector": "a.bg-red:focus,a.bg-red:hover,button.bg-red:focus,button.bg-red:hover",
+      "declarations": "background-color:#bd2130!important"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "High-Tech Baby Gear | Baby Swings, Bassinets, Playards & More! | 4moms - 4moms.com\n    \n   \n    High-Tech Baby Gear | Baby Swings, Bassinets, Playards & More! | 4moms",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.4moms.com/",
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.4moms.com/",
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "colors.secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "colors.indigo": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "colors.purple": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "colors.pink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "colors.orange": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "colors.teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "colors.khaki": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "colors.brown": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "colors.tan": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "colors.border-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "colors.border-lighter": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "colors.border-mid": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "colors.gray-mid": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "colors.gray-dim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.4moms.com/cdn/shop/t/572/assets/non_critical.css?v=72660508223293719871752527599",
+        "https://www.4moms.com/cdn/shop/t/572/assets/theme.css?v=136651927165057671351750701463"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-table": {
+      "status": "inferred"
+    }
+  }
+}

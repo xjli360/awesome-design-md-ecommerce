@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Beauty of Joseon
-description: A heritage-rooted Korean skincare brand that marries Joseon dynasty wisdom with modern dermatological science, expressed through a palette as refined as a porcelain jar. The brand's visual language is anchored by a warm, earthy coral `#cf9370` — the meta theme-color that sets a tone of gentle luxury — and a vibrant primary red `#e15a5b` that appears in CTAs, badges, and accent details, evoking the red clay seals on traditional Korean paintings. The canvas is a soft off-white `#fcfbf9` that feels like aged hanji paper, while surfaces use a whisper of warmth `#f4f0e8` and `#f7f7f8` to avoid clinical sterility. Typography leans into contrast: a refined serif (Amiri) for display moments that whisper tradition, paired with a clean sans-serif (Figtree or Inter) for body text at `#212121` ink weight. The brand's signature "hanbang" (herbal medicine) story is told through muted sage `#9da1a0`, dusty rose `#cd9ba1`, and soft gold `#dab668` accents that appear in ingredient callouts and product badges. Rounded corners are generous but never cartoonish — cards use `{rounded.md}` (12px), buttons `{rounded.sm}` (8px), and the occasional pill shape `{rounded.full}` for search or filter elements. The overall mood is calm, scholarly, and tactile — like unboxing a hand-lettered apothecary jar wrapped in linen.
+name: "Beauty of Joseon"
+source_url: "https://beautyofjoseon.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A heritage-rooted Korean skincare brand that marries Joseon dynasty wisdom with modern dermatological science, expressed through a palette as refined as a porcelain jar. The brand's visual language is anchored by a warm, earthy coral `#cf9370` — the meta theme-color that sets a tone of gentle luxury — and a vibrant primary red `#e15a5b` that appears in CTAs, badges, and accent details, evoking the red clay seals on traditional Korean paintings. The canvas is a soft off-white `#fcfbf9` that feels like aged hanji paper, while surfaces use a whisper of warmth `#f4f0e8` and `#f7f7f8` to avoid clinical sterility. Typography leans into contrast: a refined serif (Amiri) for display moments that whisper tradition, paired with a clean sans-serif (Figtree or Inter) for body text at `#212121` ink weight. The brand's signature "hanbang" (herbal medicine) story is told through muted sage `#9da1a0`, dusty rose `#cd9ba1`, and soft gold `#dab668` accents that appear in ingredient callouts and product badges. Rounded corners are generous but never cartoonish — cards use `{rounded.md}` (12px), buttons `{rounded.sm}` (8px), and the occasional pill shape `{rounded.full}` for search or filter elements. The overall mood is calm, scholarly, and tactile — like unboxing a hand-lettered apothecary jar wrapped in linen.
 
 colors:
   primary: "#e15a5b"
@@ -500,6 +504,8 @@ components:
 - Product detail page switches from side-by-side to stacked layout below 744px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for product card badges and ingredient badges not fully extracted — assumed subtle opacity or color shift
 - Error styling for form validation (red border assumed from primary color, but error message typography and iconography not confirmed)

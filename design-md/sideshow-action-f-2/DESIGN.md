@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Sideshow
-description: |
+name: "Sideshow"
+source_url: "https://www.sideshow.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Near-black canvas (#0a0a0a) turns every product photograph into a light source — Sideshow's most consequential design decision is the one that disappears completely: background. A warm gold (#c9a84c) carries every primary CTA, price callout, and hover glow, behaving less like a brand color and more like a spotlight. The site is organized around a collector's taxonomy that most e-commerce platforms would flatten into categories: Sixth Scale Figure, Premium Format Figure, Statue, Diorama, and Polystone are first-class navigation concepts with their own badge language, edition-count limits, and filtering layer.
 
   Typography runs at heavy weight and tight letterspacing for display, producing a cinematic register that never tips into gothic excess. Body copy sits at generous contrast against the dark surfaces while a muted tier (#9e9e9e) handles secondary metadata — edition size, pre-order window, scale specification — without competing for attention. Display headings frequently uppercase-lock with expanded tracking, a convention shared across entertainment-adjacent collector brands. Franchise chips — Star Wars, Marvel, DC, Lord of the Rings, Alien — run as persistent pill navigation across category pages, signaling that the site's primary mental model is universe, not product type.
@@ -412,6 +415,8 @@ components:
 - Newsletter row stacks input above CTA button on mobile (full-width both)
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - All hex colors are inferred from brand knowledge; live extraction returned zero color data — the site likely loads design tokens via client-side JS or behind anti-bot protection
 - Font stack unknown; "Gotham" is a reasonable inference for this market segment but may be Proxima Nova, a custom typeface, or another licensed condensed sans-serif — verify against actual CSS before implementation

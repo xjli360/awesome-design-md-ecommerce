@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: xigxag
-description: A deep-purple audiobook marketplace that reads like a midnight library — #351352 is the brand's primary voltage, a dark violet that wraps every primary CTA, navigation bar, and hero section in a moody, immersive glow. The site pairs this with a near-black ink (#13101a) for body text and a crisp white canvas (#f0f0f0) for backgrounds, creating a high-contrast reading environment that never feels harsh. Accent colors arrive as deliberate surprises: #02e49b (a bright mint) for success states and secondary badges, #ff9900 (warm amber) for price highlights and limited-time offers, and #e94c89 (vibrant pink) for wishlist hearts and social proof elements. The typography leans on a single serif stack — "inherit, serif" from the extracted declarations — suggesting a system that trusts classic book-like proportions over trendy sans-serif efficiency. Buttons use {rounded.sm} (8px) corners, while search bars and category pills take {rounded.full} for a friendly, approachable feel. The overall impression is of a brand that takes reading seriously but not solemnly: the dark violet backdrop of the hero section, the mint-green "Listen Now" badges, and the amber price tags all conspire to say "this is a bookstore, but it's also a discovery engine." The extracted hex list is unusually long (30+ colors), many of which are likely checkout-widget tints (Afterpay pink, Klarna blue) and social-icon brand colors — the true brand palette is tighter, centered on the violet-black-white triad with four accent notes.
+name: "xigxag"
+source_url: "https://xigxag.co.uk"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep-purple audiobook marketplace that reads like a midnight library — #351352 is the brand's primary voltage, a dark violet that wraps every primary CTA, navigation bar, and hero section in a moody, immersive glow. The site pairs this with a near-black ink (#13101a) for body text and a crisp white canvas (#f0f0f0) for backgrounds, creating a high-contrast reading environment that never feels harsh. Accent colors arrive as deliberate surprises: #02e49b (a bright mint) for success states and secondary badges, #ff9900 (warm amber) for price highlights and limited-time offers, and #e94c89 (vibrant pink) for wishlist hearts and social proof elements. The typography leans on a single serif stack — "inherit, serif" from the extracted declarations — suggesting a system that trusts classic book-like proportions over trendy sans-serif efficiency. Buttons use {rounded.sm} (8px) corners, while search bars and category pills take {rounded.full} for a friendly, approachable feel. The overall impression is of a brand that takes reading seriously but not solemnly: the dark violet backdrop of the hero section, the mint-green "Listen Now" badges, and the amber price tags all conspire to say "this is a bookstore, but it's also a discovery engine." The extracted hex list is unusually long (30+ colors), many of which are likely checkout-widget tints (Afterpay pink, Klarna blue) and social-icon brand colors — the true brand palette is tighter, centered on the violet-black-white triad with four accent notes.
 
 colors:
   primary: "#351352"
@@ -445,6 +449,8 @@ components:
 - Category pill strip becomes horizontally scrollable on mobile, with a "See All" link at the end
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted hex list contains 30+ colors, many of which are likely third-party widget colors (Shopify Pay, Klarna, Afterpay, social icons) — the true brand palette is estimated at 8-10 colors, but exact brand-specific secondary colors beyond violet, mint, amber, and pink are uncertain
 - No meta theme-color was extracted — the browser chrome color is unknown

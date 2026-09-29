@@ -1,0 +1,598 @@
+{
+  "source_url": "https://tryfi.com",
+  "final_url": "https://fitracking.com/",
+  "captured_at": "2026-09-28T09:36:37.622678+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://tryfi.com",
+      "final_url": "https://fitracking.com/",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "87111914b9ad9e6ee34321a6a6892a99ba498dd160b331165d43a97173855398",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://fitracking.com/_next/static/css/79c37d45be9b9de2.css",
+      "final_url": "https://fitracking.com/_next/static/css/79c37d45be9b9de2.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "defaf3622dff8a00498dc8e5c00115626cfd7b7ae46afe5746dc3f58fb3c43ed",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://fitracking.com/_next/static/css/6436d77b76002975.css",
+      "final_url": "https://fitracking.com/_next/static/css/6436d77b76002975.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "df2fc5858fe61c4cb1aa1f91da63000d7f8d69214b6402e94cd7ad5bc3f221a1",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://fitracking.com/_next/static/css/339d5d9bab21f794.css",
+      "final_url": "https://fitracking.com/_next/static/css/339d5d9bab21f794.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0e085d77105fe43797c3524474fb807c41298d11a37fb0fd8e48d834a335d5fa",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 21,
+      "sources": [
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 12,
+      "sources": [
+        "https://fitracking.com/_next/static/css/6436d77b76002975.css",
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    },
+    "#000000": {
+      "count": 8,
+      "sources": [
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 6,
+      "sources": [
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    },
+    "#111827": {
+      "count": 6,
+      "sources": [
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 5,
+      "sources": [
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    },
+    "#374151": {
+      "count": 4,
+      "sources": [
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    },
+    "#d1d5db": {
+      "count": 4,
+      "sources": [
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    },
+    "#4b5563": {
+      "count": 3,
+      "sources": [
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    },
+    "#968d88": {
+      "count": 3,
+      "sources": [
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    },
+    "#f3f3f2": {
+      "count": 3,
+      "sources": [
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    },
+    "#fffa01": {
+      "count": 2,
+      "sources": [
+        "https://fitracking.com/_next/static/css/6436d77b76002975.css",
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    },
+    "#6b7280": {
+      "count": 2,
+      "sources": [
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    },
+    "#e5e5e4": {
+      "count": 2,
+      "sources": [
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    },
+    "#101010": {
+      "count": 2,
+      "sources": [
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    },
+    "#e2133c": {
+      "count": 1,
+      "sources": [
+        "https://fitracking.com/"
+      ]
+    },
+    "#3c3c3c": {
+      "count": 1,
+      "sources": [
+        "https://fitracking.com/_next/static/css/6436d77b76002975.css"
+      ]
+    },
+    "#1f2937": {
+      "count": 1,
+      "sources": [
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    },
+    "#f3f4f6": {
+      "count": 1,
+      "sources": [
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    },
+    "#151515": {
+      "count": 1,
+      "sources": [
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 1,
+      "sources": [
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 1,
+      "sources": [
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    },
+    "#ffff01": {
+      "count": 1,
+      "sources": [
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Apple Color Emoji": [
+      "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+    ],
+    "Arial": [
+      "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+    ],
+    "BlinkMacSystemFont": [
+      "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+    ],
+    "Cambria": [
+      "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+    ],
+    "Consolas": [
+      "https://fitracking.com/_next/static/css/79c37d45be9b9de2.css"
+    ],
+    "Georgia": [
+      "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+    ],
+    "Helvetica Neue": [
+      "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+    ],
+    "Liberation Mono": [
+      "https://fitracking.com/_next/static/css/79c37d45be9b9de2.css"
+    ],
+    "Menlo": [
+      "https://fitracking.com/_next/static/css/79c37d45be9b9de2.css"
+    ],
+    "MessinaSans": [
+      "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+    ],
+    "Meursault Trial VF": [
+      "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+    ],
+    "Noto Color Emoji": [
+      "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+    ],
+    "Noto Sans": [
+      "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+    ],
+    "Roboto": [
+      "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+    ],
+    "SFMono-Regular": [
+      "https://fitracking.com/_next/static/css/79c37d45be9b9de2.css"
+    ],
+    "Segoe UI": [
+      "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+    ],
+    "Segoe UI Emoji": [
+      "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+    ],
+    "Segoe UI Symbol": [
+      "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+    ],
+    "Times": [
+      "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+    ],
+    "Times New Roman": [
+      "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+    ],
+    "__MessinaSansCompact_314194": [
+      "https://fitracking.com/_next/static/css/79c37d45be9b9de2.css"
+    ],
+    "__MessinaSansCompact_Fallback_314194": [
+      "https://fitracking.com/_next/static/css/79c37d45be9b9de2.css"
+    ],
+    "__MessinaSansMono_2c525d": [
+      "https://fitracking.com/_next/static/css/79c37d45be9b9de2.css"
+    ],
+    "__MessinaSans_98dc2d": [
+      "https://fitracking.com/_next/static/css/79c37d45be9b9de2.css"
+    ],
+    "__MessinaSans_Fallback_98dc2d": [
+      "https://fitracking.com/_next/static/css/79c37d45be9b9de2.css"
+    ],
+    "monospace": [
+      "https://fitracking.com/_next/static/css/79c37d45be9b9de2.css"
+    ],
+    "sans-serif": [
+      "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+    ],
+    "serif": [
+      "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+    ],
+    "ui-monospace": [
+      "https://fitracking.com/_next/static/css/79c37d45be9b9de2.css"
+    ],
+    "ui-serif": [
+      "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://fitracking.com/_next/static/css/6436d77b76002975.css",
+      "selector": ".WeightSelector_weight___kLWS .WeightSelector_adjustButton___Cpbk",
+      "declarations": "position:relative;display:flex;height:2rem;width:2rem;cursor:pointer;align-items:center;justify-content:center;border-style:none;--tw-bg-opacity:1;background-color:rgb(255 255 255/var(--tw-bg-opacity,1));padding:0"
+    },
+    {
+      "source": "https://fitracking.com/_next/static/css/339d5d9bab21f794.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-feature-settings:inherit;font-variation-settings:inherit;font-size:100%;font-weight:inherit;line-height:inherit;letter-spacing:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://fitracking.com/_next/static/css/339d5d9bab21f794.css",
+      "selector": "button,input:where([type=button]),input:where([type=reset]),input:where([type=submit])",
+      "declarations": "-webkit-appearance:button;background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://fitracking.com/_next/static/css/339d5d9bab21f794.css",
+      "selector": ".text-h1",
+      "declarations": "font-family:var(--messina-sans),MessinaSans,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;-webkit-font-smoothing:auto;-moz-osx-font-smoothing:auto;font-size:2.625rem;line-height:1;font-weight:700;letter-spacing:-.06em"
+    },
+    {
+      "source": "https://fitracking.com/_next/static/css/339d5d9bab21f794.css",
+      "selector": ".fitext-body-1,.fitext-body-2,.fitext-body-3,.fitext-button,.fitext-display-1,.fitext-display-2,.fitext-display-3,.fitext-eyebrow,.fitext-headline-1,.fitext-hea",
+      "declarations": "font-family:var(--messina-sans),MessinaSans,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;-webkit-font-smoothing:auto;-moz-osx-font-smoothing:auto"
+    },
+    {
+      "source": "https://fitracking.com/_next/static/css/339d5d9bab21f794.css",
+      "selector": ".legacytext-body",
+      "declarations": "font-family:var(--messina-sans),MessinaSans,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;font-size:17px;line-height:1.375"
+    },
+    {
+      "source": "https://fitracking.com/_next/static/css/339d5d9bab21f794.css",
+      "selector": ".legacytext-body-md",
+      "declarations": "font-family:var(--messina-sans),MessinaSans,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;font-size:.875rem;line-height:1.375"
+    },
+    {
+      "source": "https://fitracking.com/_next/static/css/339d5d9bab21f794.css",
+      "selector": "body",
+      "declarations": "--headerHeight:74px;--promoHeight:72px"
+    },
+    {
+      "source": "https://fitracking.com/_next/static/css/339d5d9bab21f794.css",
+      "selector": "body",
+      "declarations": "--promoHeight:46px;--headerHeight:84px"
+    },
+    {
+      "source": "https://fitracking.com/_next/static/css/339d5d9bab21f794.css",
+      "selector": ".prose :where(h1):not(:where([class~=not-prose],[class~=not-prose] *))",
+      "declarations": "color:var(--tw-prose-headings);font-weight:800;font-size:2.25em;margin-top:0;margin-bottom:.8888889em;line-height:1.1111111"
+    },
+    {
+      "source": "https://fitracking.com/_next/static/css/339d5d9bab21f794.css",
+      "selector": ".prose :where(h1 strong):not(:where([class~=not-prose],[class~=not-prose] *))",
+      "declarations": "font-weight:900;color:inherit"
+    },
+    {
+      "source": "https://fitracking.com/_next/static/css/339d5d9bab21f794.css",
+      "selector": ".prose :where(h1 code):not(:where([class~=not-prose],[class~=not-prose] *))",
+      "declarations": "color:inherit"
+    },
+    {
+      "source": "https://fitracking.com/_next/static/css/339d5d9bab21f794.css",
+      "selector": ".prose :where(tbody tr):not(:where([class~=not-prose],[class~=not-prose] *))",
+      "declarations": "border-bottom-width:1px;border-bottom-color:var(--tw-prose-td-borders)"
+    },
+    {
+      "source": "https://fitracking.com/_next/static/css/339d5d9bab21f794.css",
+      "selector": ".sbf-story-body h2",
+      "declarations": "color:#000;font-family:Meursault Trial VF,Georgia,Times New Roman,serif;font-weight:400;font-size:28px;line-height:1.2;letter-spacing:-1.4px;margin-bottom:1.25rem"
+    },
+    {
+      "source": "https://fitracking.com/_next/static/css/339d5d9bab21f794.css",
+      "selector": ".sbf-story-body p",
+      "declarations": "color:#000;font-family:var(--messina-sans),-apple-system,BlinkMacSystemFont,sans-serif;font-weight:600;font-size:16px;line-height:1.6;letter-spacing:-.8px;margin-bottom:1rem"
+    },
+    {
+      "source": "https://fitracking.com/_next/static/css/339d5d9bab21f794.css",
+      "selector": ".sbf-story-body a",
+      "declarations": "color:#000;text-decoration:underline"
+    },
+    {
+      "source": "https://fitracking.com/_next/static/css/339d5d9bab21f794.css",
+      "selector": "body",
+      "declarations": "margin:0;padding:0;text-rendering:optimizeLegibility;position:relative;font-family:var(--messina-sans),MessinaSans,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;letter-spacing:-.025em;--tw-text-opacity:1;color:rgb(17 24 39/var(--tw-text-opacity,1));-webkit-font-smoothing:auto;-moz-osx-font-smoothing:auto"
+    },
+    {
+      "source": "https://fitracking.com/_next/static/css/339d5d9bab21f794.css",
+      "selector": ".lg\\:legacytext-body",
+      "declarations": "font-family:var(--messina-sans),MessinaSans,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;font-size:17px;line-height:1.375"
+    },
+    {
+      "source": "https://fitracking.com/_next/static/css/339d5d9bab21f794.css",
+      "selector": ".lg\\:legacytext-body-md",
+      "declarations": "font-family:var(--messina-sans),MessinaSans,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;font-size:.875rem;line-height:1.375"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Dog GPS & Health tracking | Fi Smart Dog Collar",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fitracking.com/_next/static/css/6436d77b76002975.css",
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fitracking.com/_next/static/css/6436d77b76002975.css",
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    },
+    "colors.alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fitracking.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    },
+    "colors.surface-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    },
+    "colors.ink-secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    },
+    "colors.accent-warm": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    },
+    "colors.placeholder": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fitracking.com/_next/static/css/339d5d9bab21f794.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.editorial-serif": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.weight-selector": {
+      "status": "inferred"
+    }
+  }
+}

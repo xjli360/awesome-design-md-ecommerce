@@ -1,11 +1,15 @@
 ---
 version: alpha
-name: Kichler
-description: Warm brass against a field of near-white grays — Kichler's signature gold (#c9a861) doesn't merely accent the interface; it mirrors the physical finishes on their outdoor wall lanterns, pendant housings, and landscape spotlights. The extraction surface confirms what the product catalog implies: every canvas is a neutral stage (#f6f6f6, #f2f2f2) designed to make photographed fixtures read as they would on a job-site sample board. Color enters the system in two temperature registers. On the cool axis, a steel-blue mist (#96aeb7) and a faint sky wash (#eff9ff) carry informational callouts and collection-family headers; on the warm axis, the gold (#c9a861) drives active states, badge accents, and footer border-top strokes that tie the page closed. A high-saturation utility blue (#34a0e4) handles links and secondary CTAs — kept distinct from the gold so neither color cannibalizes the other. Flat dark near-black (#2d2d2d) grounds headings and the utility nav bar, echoing the matte-black and olde-bronze finishes in the product line.
+name: "Kichler"
+source_url: "https://www.kichler.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Warm brass against a field of near-white grays — Kichler's signature gold (#c9a861) doesn't merely accent the interface; it mirrors the physical finishes on their outdoor wall lanterns, pendant housings, and landscape spotlights. The extraction surface confirms what the product catalog implies: every canvas is a neutral stage (#f6f6f6, #f2f2f2) designed to make photographed fixtures read as they would on a job-site sample board. Color enters the system in two temperature registers. On the cool axis, a steel-blue mist (#96aeb7) and a faint sky wash (#eff9ff) carry informational callouts and collection-family headers; on the warm axis, the gold (#c9a861) drives active states, badge accents, and footer border-top strokes that tie the page closed. A high-saturation utility blue (#34a0e4) handles links and secondary CTAs — kept distinct from the gold so neither color cannibalizes the other. Flat dark near-black (#2d2d2d) grounds headings and the utility nav bar, echoing the matte-black and olde-bronze finishes in the product line.
 
-Public Sans — a U.S. government-commissioned grotesque with wide apertures and neutral counters — does all the type work. It carries institutional authority without stiffness, which suits a brand that simultaneously sells a $45 pathway light and a $4,000 chandelier collection. Display headings run at 700 weight; body copy settles at 400 with a 1.6 line-height, trusting the font's generous letterspacing over artificially forced tracking. Button labels use 600 weight at 15px with a trace of positive letter-spacing (0.25px) to survive small viewport rendering.
+  Public Sans — a U.S. government-commissioned grotesque with wide apertures and neutral counters — does all the type work. It carries institutional authority without stiffness, which suits a brand that simultaneously sells a $45 pathway light and a $4,000 chandelier collection. Display headings run at 700 weight; body copy settles at 400 with a 1.6 line-height, trusting the font's generous letterspacing over artificially forced tracking. Button labels use 600 weight at 15px with a trace of positive letter-spacing (0.25px) to survive small viewport rendering.
 
-Corner radii stay deliberately restrained: {rounded.xs} at 4px for buttons, inputs, and product cards; {rounded.sm} at 8px for overlapping drawer panels and dropdown menus; {rounded.full} only for finish swatches and icon-button avatars. No pill-shaped CTAs appear anywhere — the geometry reads as precise and specification-grade, appropriate for a brand that publishes IES photometric files alongside lifestyle photography. Spacing scales generously: {spacing.section} (64px) separates product families on category pages; product cards use {spacing.base} internal padding so thumbnail imagery breathes without crowding wattage and lumens spec labels. Error states deploy #e40303 sparingly — out-of-stock SKU indicators and required configurator fields — never as decoration.
+  Corner radii stay deliberately restrained: {rounded.xs} at 4px for buttons, inputs, and product cards; {rounded.sm} at 8px for overlapping drawer panels and dropdown menus; {rounded.full} only for finish swatches and icon-button avatars. No pill-shaped CTAs appear anywhere — the geometry reads as precise and specification-grade, appropriate for a brand that publishes IES photometric files alongside lifestyle photography. Spacing scales generously: {spacing.section} (64px) separates product families on category pages; product cards use {spacing.base} internal padding so thumbnail imagery breathes without crowding wattage and lumens spec labels. Error states deploy #e40303 sparingly — out-of-stock SKU indicators and required configurator fields — never as decoration.
 
 colors:
   primary: "#c9a861"
@@ -376,6 +380,8 @@ components:
 - Hero CTA pair (primary + secondary) stacks vertically on mobile, full-width buttons
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No meta theme-color extracted; browser chrome color on mobile is unknown — defaulted to canvas white assumption
 - Custom icon system (product-family glyphs, finish icons, certifications) not extracted; iconography style and stroke weight unconfirmed

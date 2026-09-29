@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Meater
-description: A precision cooking brand that wears its engineering on its sleeve — #c8102e (a confident, slightly warm red) acts as the primary voltage, appearing on the signature MEATER logo mark, the glowing ring that indicates probe connectivity, and the primary CTA buttons that drive purchase. The palette is dominated by a cool, technical greyscale (#1d1d1f, #393939, #666666, #808285, #9ca3af, #d8d8d8) that evokes brushed stainless steel, dark circuit boards, and the matte-black finish of the probe itself, with #f7fafc as the clean, clinical canvas. Typography runs a dual-type system: Montserrat for bold, condensed display headlines that read as authoritative and modern, and Raleway for body copy — a geometric sans-serif with distinctive open apertures that feels both approachable and precise. The brand uses Knockout (a condensed heavyweight) sparingly for promotional badges and price callouts, lending a sporty, competitive edge. Rounded corners are minimal — {rounded.xs} on cards and {rounded.sm} on buttons — reflecting the brand's industrial design ethos where form follows function. The MEATER Block (the Wi-Fi repeater/charger) is a dark, faceted cube that appears in product photography as a monolithic object, and the interface mirrors this with dense, information-rich layouts: temperature graphs, timer rings, and doneness sliders that feel like cockpit instrumentation. The overall mood is that of a premium tool — not a toy — where every pixel serves the goal of perfectly cooked food.
+name: "Meater"
+source_url: "https://www.meater.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A precision cooking brand that wears its engineering on its sleeve — #c8102e (a confident, slightly warm red) acts as the primary voltage, appearing on the signature MEATER logo mark, the glowing ring that indicates probe connectivity, and the primary CTA buttons that drive purchase. The palette is dominated by a cool, technical greyscale (#1d1d1f, #393939, #666666, #808285, #9ca3af, #d8d8d8) that evokes brushed stainless steel, dark circuit boards, and the matte-black finish of the probe itself, with #f7fafc as the clean, clinical canvas. Typography runs a dual-type system: Montserrat for bold, condensed display headlines that read as authoritative and modern, and Raleway for body copy — a geometric sans-serif with distinctive open apertures that feels both approachable and precise. The brand uses Knockout (a condensed heavyweight) sparingly for promotional badges and price callouts, lending a sporty, competitive edge. Rounded corners are minimal — {rounded.xs} on cards and {rounded.sm} on buttons — reflecting the brand's industrial design ethos where form follows function. The MEATER Block (the Wi-Fi repeater/charger) is a dark, faceted cube that appears in product photography as a monolithic object, and the interface mirrors this with dense, information-rich layouts: temperature graphs, timer rings, and doneness sliders that feel like cockpit instrumentation. The overall mood is that of a premium tool — not a toy — where every pixel serves the goal of perfectly cooked food.
 
 colors:
   primary: "#c8102e"
@@ -569,6 +573,8 @@ components:
 - Accordion content is collapsed by default on all breakpoints
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for most components (button-primary-hover, nav-link-hover, etc.) are inferred from common patterns; exact color transitions are not extracted
 - Focus ring styles (outline, offset, color) are not specified; the brand may use a custom focus indicator

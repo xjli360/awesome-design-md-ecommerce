@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Go-To-PAC
-description: |
+name: "Go-To-PAC"
+source_url: "https://www.gotopac.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Cobalt-blue procurement infrastructure meets construction-orange urgency — the Go-To-PAC palette pairs #006bb4 with #f88431 using the same chromatic logic applied to cleanroom warning strips and HVAC actuator panels: one color anchors navigation and organizational trust, the other marks action and deadline. Production Automation Corporation is a deep-catalog industrial supplier serving engineers and facilities managers who arrive with a part number already in hand. The visual system exists to close that transaction in as few clicks as possible, not to tell a brand story.
 
   Type runs on Open Sans at 14px — compact enough for multi-column specification tables, legible enough for print-to-PDF purchase orders. Seven distinct gray values (#575757, #636363, #7d7d7d, #808080, #8f8f8f, #959595, #bbbbbb) provide the hierarchy needed to separate SKU identifiers from product names, pricing tiers from per-unit footnotes, and category breadcrumbs from page titles — without introducing color where functional distinction already exists. The near-black ink (#111111) anchors headings; body copy runs at #575757 to reduce visual density on data-heavy catalog pages. Part numbers and SKU strings render in Consolas, a monospace face that signals precision and allows character-by-character comparison across search result rows.
@@ -375,6 +378,8 @@ components:
 - Alert banners stack vertically on mobile and do not auto-dismiss; user must acknowledge each
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No confirmed custom brand font — Open Sans is the most prominent non-system font in the extraction, likely loaded via Magento theme or Google Fonts CDN; Arial/Helvetica Neue are listed as fallbacks and may be primary on some page segments
 - Exact border-radius not confirmed from computed CSS — `{rounded.xs}` (4px) is inferred from industrial B2B visual conventions and Magento Luma theme defaults; fully square (0px) is possible in the deployed theme

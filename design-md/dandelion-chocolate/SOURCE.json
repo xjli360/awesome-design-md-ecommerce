@@ -1,0 +1,940 @@
+{
+  "source_url": "https://dandelionchocolate.com",
+  "final_url": "https://www.dandelionchocolate.com/",
+  "captured_at": "2026-09-28T10:20:16.143712+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://dandelionchocolate.com",
+      "final_url": "https://www.dandelionchocolate.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "f65b039b41eff47083153c0803ad09ee0e82af8fd705474569e2a0aebf376f23",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/font-face.css?v=54354920150912229561786167126",
+      "final_url": "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/font-face.css?v=54354920150912229561786167126",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2d62e6191cbe7455acb8afe1ed558c57e8f332f68e759c81664078433500eb0c",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+      "final_url": "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0c4591364bc29ae9f16e28ef07a6dd179e71954be41b3534c29d75ba3e8a25f5",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320",
+      "final_url": "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2eba376f80ad0368018fb6abff0bd28363a6cd457a66105d0aa53bfcbc5afaa5",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/base.css?v=62594590162944625871787260167",
+      "final_url": "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/base.css?v=62594590162944625871787260167",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1cb15931fad764c2517e655164aad8add2ec19adea2ed49e8e646a80bd53a117",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.dandelionchocolate.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.dandelionchocolate.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#333333": {
+      "count": 156,
+      "sources": [
+        "https://www.dandelionchocolate.com/",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/base.css?v=62594590162944625871787260167"
+      ]
+    },
+    "#ffffff": {
+      "count": 88,
+      "sources": [
+        "https://www.dandelionchocolate.com/",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/base.css?v=62594590162944625871787260167",
+        "https://www.dandelionchocolate.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#826d40": {
+      "count": 16,
+      "sources": [
+        "https://www.dandelionchocolate.com/",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/base.css?v=62594590162944625871787260167"
+      ]
+    },
+    "#777779": {
+      "count": 12,
+      "sources": [
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/base.css?v=62594590162944625871787260167"
+      ]
+    },
+    "#fffdf9": {
+      "count": 11,
+      "sources": [
+        "https://www.dandelionchocolate.com/",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/base.css?v=62594590162944625871787260167"
+      ]
+    },
+    "#151515": {
+      "count": 11,
+      "sources": [
+        "https://www.dandelionchocolate.com/",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320"
+      ]
+    },
+    "#00000026": {
+      "count": 10,
+      "sources": [
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320"
+      ]
+    },
+    "#d3a741": {
+      "count": 9,
+      "sources": [
+        "https://www.dandelionchocolate.com/",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/base.css?v=62594590162944625871787260167"
+      ]
+    },
+    "#e2c465": {
+      "count": 9,
+      "sources": [
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/base.css?v=62594590162944625871787260167"
+      ]
+    },
+    "#53595c": {
+      "count": 9,
+      "sources": [
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/base.css?v=62594590162944625871787260167"
+      ]
+    },
+    "#cacaca": {
+      "count": 8,
+      "sources": [
+        "https://www.dandelionchocolate.com/",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/base.css?v=62594590162944625871787260167"
+      ]
+    },
+    "#279a4b": {
+      "count": 8,
+      "sources": [
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700"
+      ]
+    },
+    "#ac5121": {
+      "count": 6,
+      "sources": [
+        "https://www.dandelionchocolate.com/",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/base.css?v=62594590162944625871787260167"
+      ]
+    },
+    "#f5f6f5": {
+      "count": 6,
+      "sources": [
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700"
+      ]
+    },
+    "#dedede": {
+      "count": 5,
+      "sources": [
+        "https://www.dandelionchocolate.com/",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+        "https://www.dandelionchocolate.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 5,
+      "sources": [
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320"
+      ]
+    },
+    "#a48b55": {
+      "count": 5,
+      "sources": [
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320"
+      ]
+    },
+    "#000000": {
+      "count": 5,
+      "sources": [
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/base.css?v=62594590162944625871787260167"
+      ]
+    },
+    "#666666": {
+      "count": 4,
+      "sources": [
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/base.css?v=62594590162944625871787260167"
+      ]
+    },
+    "#dcb251": {
+      "count": 4,
+      "sources": [
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700"
+      ]
+    },
+    "#8a8a8a": {
+      "count": 4,
+      "sources": [
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320"
+      ]
+    },
+    "#cccccc": {
+      "count": 3,
+      "sources": [
+        "https://www.dandelionchocolate.com/",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/base.css?v=62594590162944625871787260167"
+      ]
+    },
+    "#9b5a1d": {
+      "count": 3,
+      "sources": [
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700"
+      ]
+    },
+    "#826820": {
+      "count": 3,
+      "sources": [
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700"
+      ]
+    },
+    "#94949c": {
+      "count": 3,
+      "sources": [
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 3,
+      "sources": [
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320"
+      ]
+    },
+    "#fd9a52": {
+      "count": 2,
+      "sources": [
+        "https://www.dandelionchocolate.com/",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320"
+      ]
+    },
+    "#015ecc": {
+      "count": 2,
+      "sources": [
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700"
+      ]
+    },
+    "#f6c844": {
+      "count": 2,
+      "sources": [
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/base.css?v=62594590162944625871787260167"
+      ]
+    },
+    "#f5f1db": {
+      "count": 2,
+      "sources": [
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700"
+      ]
+    },
+    "#937526": {
+      "count": 2,
+      "sources": [
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 2,
+      "sources": [
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320"
+      ]
+    },
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320"
+      ]
+    },
+    "#e93636": {
+      "count": 2,
+      "sources": [
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320"
+      ]
+    },
+    "#d3a944": {
+      "count": 2,
+      "sources": [
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/base.css?v=62594590162944625871787260167"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.dandelionchocolate.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#c0392b": {
+      "count": 1,
+      "sources": [
+        "https://www.dandelionchocolate.com/"
+      ]
+    },
+    "#1e7e34": {
+      "count": 1,
+      "sources": [
+        "https://www.dandelionchocolate.com/"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 1,
+      "sources": [
+        "https://www.dandelionchocolate.com/"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 1,
+      "sources": [
+        "https://www.dandelionchocolate.com/"
+      ]
+    },
+    "#f8cf47": {
+      "count": 1,
+      "sources": [
+        "https://www.dandelionchocolate.com/"
+      ]
+    },
+    "#1e4e1c": {
+      "count": 1,
+      "sources": [
+        "https://www.dandelionchocolate.com/"
+      ]
+    },
+    "#3a8437": {
+      "count": 1,
+      "sources": [
+        "https://www.dandelionchocolate.com/"
+      ]
+    },
+    "#fb9e5b": {
+      "count": 1,
+      "sources": [
+        "https://www.dandelionchocolate.com/"
+      ]
+    },
+    "#5f5f5f": {
+      "count": 1,
+      "sources": [
+        "https://www.dandelionchocolate.com/"
+      ]
+    },
+    "#dfd7ba": {
+      "count": 1,
+      "sources": [
+        "https://www.dandelionchocolate.com/"
+      ]
+    },
+    "#f9f7f2": {
+      "count": 1,
+      "sources": [
+        "https://www.dandelionchocolate.com/"
+      ]
+    },
+    "#ccccce": {
+      "count": 1,
+      "sources": [
+        "https://www.dandelionchocolate.com/"
+      ]
+    },
+    "#f9f4ec": {
+      "count": 1,
+      "sources": [
+        "https://www.dandelionchocolate.com/"
+      ]
+    },
+    "#dddddf": {
+      "count": 1,
+      "sources": [
+        "https://www.dandelionchocolate.com/"
+      ]
+    },
+    "#f8f4ef": {
+      "count": 1,
+      "sources": [
+        "https://www.dandelionchocolate.com/"
+      ]
+    },
+    "#33383c": {
+      "count": 1,
+      "sources": [
+        "https://www.dandelionchocolate.com/"
+      ]
+    },
+    "#4e4e4e": {
+      "count": 1,
+      "sources": [
+        "https://www.dandelionchocolate.com/"
+      ]
+    },
+    "#d0d0d0": {
+      "count": 1,
+      "sources": [
+        "https://www.dandelionchocolate.com/"
+      ]
+    },
+    "#d0331f": {
+      "count": 1,
+      "sources": [
+        "https://www.dandelionchocolate.com/"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 1,
+      "sources": [
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700"
+      ]
+    },
+    "#00000040": {
+      "count": 1,
+      "sources": [
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700"
+      ]
+    },
+    "#e1e1e1": {
+      "count": 1,
+      "sources": [
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700"
+      ]
+    },
+    "#4a4a4a": {
+      "count": 1,
+      "sources": [
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700"
+      ]
+    },
+    "#ffc60080": {
+      "count": 1,
+      "sources": [
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320"
+    ],
+    "BlinkMacSystemFont": [
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320"
+    ],
+    "Consolas": [
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320"
+    ],
+    "Courier": [
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320"
+    ],
+    "Garamond": [
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320"
+    ],
+    "Garamond Premiere Pro": [
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/font-face.css?v=54354920150912229561786167126",
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320",
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/base.css?v=62594590162944625871787260167"
+    ],
+    "Garamond Premiere Pro !important": [
+      "https://www.dandelionchocolate.com/"
+    ],
+    "GaramondItalic": [
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/font-face.css?v=54354920150912229561786167126",
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320",
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/base.css?v=62594590162944625871787260167"
+    ],
+    "GaramondItalic' !important": [
+      "https://www.dandelionchocolate.com/"
+    ],
+    "Highway Gothic Expanded": [
+      "https://www.dandelionchocolate.com/",
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/base.css?v=62594590162944625871787260167"
+    ],
+    "Liberation Mono": [
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320"
+    ],
+    "OPTICaslonBold-Cond": [
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/font-face.css?v=54354920150912229561786167126",
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320",
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/base.css?v=62594590162944625871787260167"
+    ],
+    "Open Sans": [
+      "https://www.dandelionchocolate.com/"
+    ],
+    "SAF": [
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/font-face.css?v=54354920150912229561786167126",
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320",
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/base.css?v=62594590162944625871787260167"
+    ],
+    "SaaSeriesFD": [
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/font-face.css?v=54354920150912229561786167126"
+    ],
+    "Times": [
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700"
+    ],
+    "Ubuntu": [
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320"
+    ],
+    "arial": [
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320"
+    ],
+    "avenir": [
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320"
+    ],
+    "avenir next": [
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320"
+    ],
+    "helvetica": [
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320"
+    ],
+    "helvetica neue": [
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320"
+    ],
+    "monospace": [
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320"
+    ],
+    "noto": [
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320"
+    ],
+    "roboto": [
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320"
+    ],
+    "sans-serif": [
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320"
+    ],
+    "segoe ui": [
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320"
+    ],
+    "small=0em&medium=48em&large=66.75em&xlarge=75em": [
+      "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.dandelionchocolate.com/",
+      "selector": ":root",
+      "declarations": "--font-body-scale: 1.0;\n\t\t--font-body-line-height-scale: 0.9;\n\t\t--font-body-letter-spacing: 0.0em;\n\t\t--font-heading-scale: 1.15;\n\t\t--font-heading-line-height-scale: 1.0;\n\t\t--font-heading-letter-spacing: 0.0em;\n\t\t--font-navigation-scale: 1.2;\n\t\t--font-product-title-scale: 1.1;\n\t\t--font-product-title-line-height-scale: 0.8;\n\t\t--button-letter-spacing: 0.01em;--bg-body: #ffffff;\n\t\t\t--bg-body-rgb: 255,255,255;\n\t\t\t--bg-body-darken: #f7f7f7;\n\t\t\t--payment-terms-background-color: #ffffff;--color-body: #826D40;\n\t\t  --color-body-rgb: 130,109,64;--color-accent: #826D40;\n\t\t\t--color-accent-rgb: 130,109,64;--color-border: #e9e9e9;--color-form-border: #dedede;--color-announcement-bar-text: #333333;--color-a"
+    },
+    {
+      "source": "https://www.dandelionchocolate.com/",
+      "selector": "padding-top: 11px;\npadding-top: 11px;\npadding-top: 11px;\npadding-top: 11px;\npadding-top: 11px;\npadding-top: 11px;\npadding-top: 11px;\npadding-top: 11px;\n:root",
+      "declarations": "--logo-height: 61px;\n\t\t\t--logo-height-mobile: 51px;"
+    },
+    {
+      "source": "https://www.dandelionchocolate.com/",
+      "selector": ".header",
+      "declarations": "background-color: #f9f7f2;\n          border-color: #ccccce;"
+    },
+    {
+      "source": "https://www.dandelionchocolate.com/",
+      "selector": "#shopify-section-template--16459368956044__36e5a7f2-3c27-4571-bd42-47d25931dc34 .btn:hover",
+      "declarations": "background: #333333; color: #fff;"
+    },
+    {
+      "source": "https://www.dandelionchocolate.com/",
+      "selector": "#shopify-section-template--16459368956044__image_text_hero_LbBPQh .image-with-text-overlay--content .btn",
+      "declarations": "color: #fff !important; border-color: #fff !important;"
+    },
+    {
+      "source": "https://www.dandelionchocolate.com/",
+      "selector": ".footer .kl-private-reset-css-Xuajs1 button",
+      "declarations": "color: transparent !important;\n  width: 50px !important;\n  padding: 0 !important;\n  cursor: pointer !important;"
+    },
+    {
+      "source": "https://www.dandelionchocolate.com/",
+      "selector": ".footer .kl-private-reset-css-Xuajs1 button:hover",
+      "declarations": "color: transparent !important;"
+    },
+    {
+      "source": "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+      "selector": ".shopify-payment-button__button:not(.shopify-payment-button__button--branded)",
+      "declarations": "display:inline-flex;padding:7px 30px;align-items:center;justify-content:center;height:48px;font-size:.875rem;font-weight:600;letter-spacing:.02em;color:var(--solid-button-label, #fff);position:relative;overflow:hidden;border-radius:var(--button-border-radius, 3px);background:var(--solid-button-background, var(--color-accent))"
+    },
+    {
+      "source": "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+      "selector": ".shopify-payment-button__button:not(.shopify-payment-button__button--branded):not([disabled]):hover,.shopify-payment-button__button:not(.shopify-payment-button_",
+      "declarations": "background:var(--color-accent);color:#fff"
+    },
+    {
+      "source": "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+      "selector": ".shopify-payment-button__button.shopify-payment-button__button--branded .shopify-cleanslate div[role=button]",
+      "declarations": "display:inline-flex;padding:7px 30px!important;align-items:center;justify-content:center;min-height:48px!important;font-size:.875rem!important;font-weight:600;letter-spacing:.02em;color:var(--solid-button-label, #fff);position:relative;overflow:hidden;border-radius:var(--button-border-radius, 3px);background:var(--solid-button-background, var(--color-accent))"
+    },
+    {
+      "source": "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+      "selector": ".variations .product-form__input--color input[type=radio]+label",
+      "declarations": "width:48px;height:48px;display:inline-flex;text-indent:-9999em;position:relative;margin-left:-1px;color:transparent;cursor:pointer;z-index:4;box-shadow:0 0 0 1px var(--color-border) inset"
+    },
+    {
+      "source": "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+      "selector": ".variations .product-form__input--color input[type=radio]+label:after",
+      "declarations": "content:\"\";display:block;position:absolute;top:14px;left:14px;right:14px;bottom:14px;border-radius:50%;background-size:cover;background-color:var(--option-color);background-image:var(--option-color-image)"
+    },
+    {
+      "source": "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+      "selector": ".product .quantity.buttons_added .qty",
+      "declarations": "font-family:SAF;margin-top:5px"
+    },
+    {
+      "source": "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+      "selector": ".thb-product-detail .product-title-container .metafield-rich_text_field p",
+      "declarations": "color:#333;margin-bottom:10px"
+    },
+    {
+      "source": "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+      "selector": ".thb-product-detail .product-title,.thb-product-detail .product-title *",
+      "declarations": "font-family:OPTICaslonBold-Cond;font-weight:500;margin:6px 0;color:#333;font-size:34px;line-height:normal;letter-spacing:.04em"
+    },
+    {
+      "source": "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+      "selector": ".thb-product-detail .product-title a",
+      "declarations": "color:var(--color-body)"
+    },
+    {
+      "source": "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+      "selector": ".thb-product-detail .product-price-container .price",
+      "declarations": "font-size:14px;display:flex;flex-wrap:wrap;align-items:center;letter-spacing:.15em;color:#666"
+    },
+    {
+      "source": "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+      "selector": ".thb-product-detail .product__xr-button",
+      "declarations": "width:100%;background:var(--bg-body-darken);border-color:var(--bg-body-darken);color:var(--color-body)"
+    },
+    {
+      "source": "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+      "selector": ".product-popup-modal__button",
+      "declarations": "color:var(--color-accent);display:flex;align-items:center;cursor:pointer"
+    },
+    {
+      "source": "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+      "selector": ".product-popup-modal__content-header",
+      "declarations": "display:flex;align-items:center;justify-content:center;height:73px;text-align:center;position:sticky;background-color:var(--bg-body, #fff);top:0;left:0;flex-shrink:0"
+    },
+    {
+      "source": "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+      "selector": ".product-popup-modal__content-header h5",
+      "declarations": "color:inherit;margin:0"
+    },
+    {
+      "source": "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+      "selector": ".product-popup-modal__content-info",
+      "declarations": "padding:25px;background-color:var(--bg-body, #fff);overflow-y:scroll;width:100%;color:var(--color-body)"
+    },
+    {
+      "source": "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+      "selector": ".product-add-to-cart-sticky--inner .product__detail",
+      "declarations": "border:none;padding:0;color:#777779;margin:0;letter-spacing:normal;font-family:GaramondItalic;text-transform:capitalize;font-size:16px;font-weight:400"
+    },
+    {
+      "source": "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+      "selector": ".product-inventory-notice",
+      "declarations": "font-size:.8125rem;line-height:1;margin-bottom:20px;color:var(--color-inventory-instock, #279a4b)"
+    },
+    {
+      "source": "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+      "selector": ".product-inventory-notice--low",
+      "declarations": "color:var(--color-inventory-lowstock, #279a4b)"
+    },
+    {
+      "source": "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+      "selector": "#shopify-product-reviews .spr-starrating,#shopify-product-reviews .spr-starratings",
+      "declarations": "font-size:.625rem;color:var(--color-star)"
+    },
+    {
+      "source": "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+      "selector": ".product .add_to_cart_holder .button",
+      "declarations": "border-radius:30px;background-color:#e2c465!important;color:#333;border:0;margin:0;font-size:13px;transition:all .25s cubic-bezier(.104,.204,.492,1)"
+    },
+    {
+      "source": "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+      "selector": ".product .add_to_cart_holder .button.sold-out",
+      "declarations": "background-color:#f5f6f5!important;color:#333!important"
+    },
+    {
+      "source": "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+      "selector": ".product .add_to_cart_holder .button:hover .product__price-main span.price .amount",
+      "declarations": "color:#fff!important"
+    },
+    {
+      "source": "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+      "selector": ".product .product-button--link .btn",
+      "declarations": "background-color:#e2c465!important;border:0;transition:all .25s cubic-bezier(.104,.204,.492,1);width:100%;padding:0;height:52px;display:flex;align-items:center;justify-content:center;text-align:center"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Dandelion Chocolate | Single Origin Bean-to-Bar | San Francisco",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dandelionchocolate.com/",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/base.css?v=62594590162944625871787260167"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dandelionchocolate.com/",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dandelionchocolate.com/",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/base.css?v=62594590162944625871787260167",
+        "https://www.dandelionchocolate.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dandelionchocolate.com/",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/base.css?v=62594590162944625871787260167"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/base.css?v=62594590162944625871787260167"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dandelionchocolate.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dandelionchocolate.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dandelionchocolate.com/",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/app.css?v=69193223303108877861789525320",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/base.css?v=62594590162944625871787260167",
+        "https://www.dandelionchocolate.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.border-form": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dandelionchocolate.com/",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+        "https://www.dandelionchocolate.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dandelionchocolate.com/",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700",
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/base.css?v=62594590162944625871787260167"
+      ]
+    },
+    "colors.accent-terracotta": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700"
+      ]
+    },
+    "colors.accent-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dandelionchocolate.com/cdn/shop/t/97/assets/product.css?v=150439233359637094161788213700"
+      ]
+    },
+    "colors.bg-darken": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.dandelionchocolate.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.origin-swatch": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,0 +1,1048 @@
+{
+  "source_url": "https://theordinary.com",
+  "final_url": "https://theordinary.com/en-us",
+  "captured_at": "2026-09-28T04:09:54.212001+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://theordinary.com",
+      "final_url": "https://theordinary.com/en-us",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "sha256": "f0bbe5f261fa97847110c47edacdab269469b44b17673fb9e102d4c68184b6f6",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+      "final_url": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a588fea8593589e0ef37a15ea14732d0eaf3e333406aba7f3b76b4e7297b90a1",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/icons-font.css",
+      "final_url": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/icons-font.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "28d34aca9b6f61e45f2ed1d3f5ec972a77758a4caa435289571025a6ec47da33",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css",
+      "final_url": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b68977bacb0e084d48bde43eec9b7d773f8c52b3d886898155ecd3edc4628591",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/homePage.css",
+      "final_url": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/homePage.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3035a08e2fb23eabc3a6c9a5bc68831fa8b02ea86281ceb6f5d0b7bab6434a15",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/en_US/v1790550078096/deciem/css/styles.css?v5",
+      "final_url": "https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/en_US/v1790550078096/deciem/css/styles.css?v5",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "8411cf35f7ae474ec52425d94e73976da7e82fe63e33c7cdaab69e130dc4d1c9",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 634,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/homePage.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 425,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/homePage.css"
+      ]
+    },
+    "#333333": {
+      "count": 166,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/homePage.css"
+      ]
+    },
+    "#757575": {
+      "count": 136,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "#e1ded9": {
+      "count": 123,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/homePage.css"
+      ]
+    },
+    "#e83f42": {
+      "count": 58,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "#1d8734": {
+      "count": 39,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 31,
+      "sources": [
+        "https://theordinary.com/en-us",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "#6c757d": {
+      "count": 29,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 28,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "#212529": {
+      "count": 26,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "#495057": {
+      "count": 17,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "#b3261e": {
+      "count": 17,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "#dc049b": {
+      "count": 16,
+      "sources": [
+        "https://theordinary.com/en-us",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css",
+        "https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/en_US/v1790550078096/deciem/css/styles.css?v5"
+      ]
+    },
+    "#ffc107": {
+      "count": 16,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css"
+      ]
+    },
+    "#17a2b8": {
+      "count": 16,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css"
+      ]
+    },
+    "#343a40": {
+      "count": 16,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css"
+      ]
+    },
+    "#f8f9fa": {
+      "count": 16,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css"
+      ]
+    },
+    "#dee2e6": {
+      "count": 16,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 14,
+      "sources": [
+        "https://theordinary.com/en-us",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css",
+        "https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/en_US/v1790550078096/deciem/css/styles.css?v5"
+      ]
+    },
+    "#e9ecef": {
+      "count": 14,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "#7e7b79": {
+      "count": 12,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "#171616": {
+      "count": 12,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/homePage.css"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 10,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "#f3f2f0": {
+      "count": 10,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "#d8d8d8": {
+      "count": 8,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "#1877f2": {
+      "count": 8,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 7,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "#adb5bd": {
+      "count": 6,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css"
+      ]
+    },
+    "#262626": {
+      "count": 6,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "#22121f": {
+      "count": 5,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "#404040": {
+      "count": 5,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "#595959": {
+      "count": 5,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 4,
+      "sources": [
+        "https://theordinary.com/en-us",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "#383d41": {
+      "count": 4,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css"
+      ]
+    },
+    "#0f461b": {
+      "count": 4,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css"
+      ]
+    },
+    "#0c5460": {
+      "count": 4,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css"
+      ]
+    },
+    "#856404": {
+      "count": 4,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css"
+      ]
+    },
+    "#792122": {
+      "count": 4,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css"
+      ]
+    },
+    "#818182": {
+      "count": 4,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css"
+      ]
+    },
+    "#1b1e21": {
+      "count": 4,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css"
+      ]
+    },
+    "#26b144": {
+      "count": 4,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "#ed6d6f": {
+      "count": 4,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 4,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "#666666": {
+      "count": 4,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/homePage.css",
+        "https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/en_US/v1790550078096/deciem/css/styles.css?v5"
+      ]
+    },
+    "#222222": {
+      "count": 4,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "#212020": {
+      "count": 4,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "#8e8e8e": {
+      "count": 4,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "#cc0000": {
+      "count": 3,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "#545b62": {
+      "count": 3,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css"
+      ]
+    },
+    "#145d24": {
+      "count": 3,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css"
+      ]
+    },
+    "#117a8b": {
+      "count": 3,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css"
+      ]
+    },
+    "#d39e00": {
+      "count": 3,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css"
+      ]
+    },
+    "#da1a1e": {
+      "count": 3,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css"
+      ]
+    },
+    "#dae0e5": {
+      "count": 3,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css"
+      ]
+    },
+    "#1d2124": {
+      "count": 3,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 3,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "#d6d6d6": {
+      "count": 3,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "#505050": {
+      "count": 3,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "#0070d2": {
+      "count": 2,
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    }
+  },
+  "font_families": {
+    "AppleGothic": [
+      "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+    ],
+    "Arial": [
+      "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+    ],
+    "Century Gothic": [
+      "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+    ],
+    "Consolas": [
+      "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css"
+    ],
+    "Courier New": [
+      "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css"
+    ],
+    "FontAwesome": [
+      "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+    ],
+    "Geologica": [
+      "https://theordinary.com/en-us",
+      "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css",
+      "https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/en_US/v1790550078096/deciem/css/styles.css?v5"
+    ],
+    "Helvetica": [
+      "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+    ],
+    "Helvetica Neue": [
+      "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+    ],
+    "Liberation Mono": [
+      "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css"
+    ],
+    "Menlo": [
+      "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css"
+    ],
+    "Monaco": [
+      "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css"
+    ],
+    "PlusJakartaSans": [
+      "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+    ],
+    "Raleway": [
+      "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+    ],
+    "SFMono-Regular": [
+      "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css"
+    ],
+    "icons-Ib4af2": [
+      "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/icons-font.css"
+    ],
+    "monospace": [
+      "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css"
+    ],
+    "monospace!important": [
+      "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css"
+    ],
+    "sans-serif": [
+      "https://theordinary.com/en-us",
+      "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+      "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css",
+      "https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/en_US/v1790550078096/deciem/css/styles.css?v5"
+    ],
+    "sans-serif !important": [
+      "https://theordinary.com/on/demandware.static/-/Library-Sites-DeciemSharedLibrary/en_US/v1790550078096/deciem/css/styles.css?v5"
+    ],
+    "serif": [
+      "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+    ],
+    "swiper-icons": [
+      "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://theordinary.com/en-us",
+      "selector": ".promo-body p,\r\n    .promo-body li,\r\n    .promo-body td,\r\n    .promo-body th",
+      "declarations": "font-size: 1rem;\r\n        font-family: 'Geologica', sans-serif;\r\n        color: black;"
+    },
+    {
+      "source": "https://theordinary.com/en-us",
+      "selector": ".promo-body table",
+      "declarations": "border-collapse: collapse;\r\n        width: 100%;\r\n        margin-bottom: 1rem;\r\n        font-size: 1rem;\r\n        font-family: 'Geologica', sans-serif;"
+    },
+    {
+      "source": "https://theordinary.com/en-us",
+      "selector": ".promo-body a",
+      "declarations": "color: #dc049b;\r\n        text-decoration: underline;\r\n        font-family: 'Geologica', sans-serif;"
+    },
+    {
+      "source": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+      "selector": ":root",
+      "declarations": "--blue:#0070d2;--indigo:#6610f2;--purple:#6f42c1;--pink:#ff01f5;--red:#c00;--orange:#fd7e14;--yellow:#ffc107;--green:#008827;--teal:#20c997;--cyan:#17a2b8;--white:#fff;--gray:#6c757d;--gray-dark:#343a40;--primary:#000;--secondary:#6c757d;--success:#1d8734;--info:#17a2b8;--warning:#ffc107;--danger:#e83f42;--light:#f8f9fa;--dark:#343a40;--breakpoint-xs:0;--breakpoint-mobilemd:375px;--breakpoint-sm:544px;--breakpoint-md:768px;--breakpoint-lg:1024px;--breakpoint-mdpi:1280px;--breakpoint-xl:1366px;--breakpoint-hdpi:1440px;--breakpoint-fullhd:1660px;--breakpoint-maxwidth:1920px;--font-family-sans-serif:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",\"Liberatio"
+    },
+    {
+      "source": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+      "selector": "body",
+      "declarations": "background-color:#fff;color:#212529;font-family:var(--brand-base-font-family);font-size:1rem;font-weight:400;line-height:1.5;margin:0;text-align:left"
+    },
+    {
+      "source": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:inherit;line-height:inherit;margin:0"
+    },
+    {
+      "source": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+      "selector": "button.close",
+      "declarations": "background-color:transparent;border:0;padding:0"
+    },
+    {
+      "source": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+      "selector": ".bg-primary,a.bg-primary:focus,a.bg-primary:hover,button.bg-primary:focus,button.bg-primary:hover",
+      "declarations": "background-color:#000!important"
+    },
+    {
+      "source": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+      "selector": "a.bg-secondary:focus,a.bg-secondary:hover,button.bg-secondary:focus,button.bg-secondary:hover",
+      "declarations": "background-color:#545b62!important"
+    },
+    {
+      "source": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+      "selector": "a.bg-success:focus,a.bg-success:hover,button.bg-success:focus,button.bg-success:hover",
+      "declarations": "background-color:#145d24!important"
+    },
+    {
+      "source": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+      "selector": "a.bg-info:focus,a.bg-info:hover,button.bg-info:focus,button.bg-info:hover",
+      "declarations": "background-color:#117a8b!important"
+    },
+    {
+      "source": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+      "selector": "a.bg-warning:focus,a.bg-warning:hover,button.bg-warning:focus,button.bg-warning:hover",
+      "declarations": "background-color:#d39e00!important"
+    },
+    {
+      "source": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+      "selector": "a.bg-danger:focus,a.bg-danger:hover,button.bg-danger:focus,button.bg-danger:hover",
+      "declarations": "background-color:#da1a1e!important"
+    },
+    {
+      "source": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+      "selector": "a.bg-light:focus,a.bg-light:hover,button.bg-light:focus,button.bg-light:hover",
+      "declarations": "background-color:#dae0e5!important"
+    },
+    {
+      "source": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+      "selector": "a.bg-dark:focus,a.bg-dark:hover,button.bg-dark:focus,button.bg-dark:hover",
+      "declarations": "background-color:#1d2124!important"
+    },
+    {
+      "source": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+      "selector": ".text-body",
+      "declarations": "color:#212529!important"
+    },
+    {
+      "source": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+      "selector": ".dropdown-header",
+      "declarations": "color:#6c757d;display:block;font-size:.875rem;margin-bottom:0;padding:.5rem 1.5rem;white-space:nowrap"
+    },
+    {
+      "source": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+      "selector": ".popover-header",
+      "declarations": "background-color:#f7f7f7;border-bottom:1px solid #ebebeb;border-top-left-radius:calc(.1875rem - 1px);border-top-right-radius:calc(.1875rem - 1px);font-size:1rem;margin-bottom:0;padding:.5rem .75rem"
+    },
+    {
+      "source": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+      "selector": ".popover-body",
+      "declarations": "color:#212529;padding:.5rem .75rem"
+    },
+    {
+      "source": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+      "selector": ".btn",
+      "declarations": "background-color:transparent;border:1px solid transparent;border-radius:0;color:#212529;display:inline-block;font-size:.75rem;font-weight:400;line-height:14px;padding:.375rem .75rem;text-align:center;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;-webkit-user-select:none;-moz-user-select:none;user-select:none;vertical-align:middle"
+    },
+    {
+      "source": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+      "selector": ".btn:hover",
+      "declarations": "color:#212529;text-decoration:none"
+    },
+    {
+      "source": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+      "selector": ".btn-primary,.btn-primary.focus,.btn-primary:focus,.btn-primary:hover",
+      "declarations": "background-color:#000;border-color:#000;color:#fff"
+    },
+    {
+      "source": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+      "selector": ".btn-primary.disabled,.btn-primary:disabled,.btn-primary:not(:disabled):not(.disabled).active,.btn-primary:not(:disabled):not(.disabled):active,.show>.btn-prima",
+      "declarations": "background-color:#000;border-color:#000;color:#fff"
+    },
+    {
+      "source": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+      "selector": ".btn-secondary",
+      "declarations": "background-color:#6c757d;border-color:#6c757d;color:#fff"
+    },
+    {
+      "source": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+      "selector": ".btn-secondary.focus,.btn-secondary:focus,.btn-secondary:hover",
+      "declarations": "background-color:#5a6268;border-color:#545b62;color:#fff"
+    },
+    {
+      "source": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+      "selector": ".btn-secondary.disabled,.btn-secondary:disabled",
+      "declarations": "background-color:#6c757d;border-color:#6c757d;color:#fff"
+    },
+    {
+      "source": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+      "selector": ".btn-secondary:not(:disabled):not(.disabled).active,.btn-secondary:not(:disabled):not(.disabled):active,.show>.btn-secondary.dropdown-toggle",
+      "declarations": "background-color:#545b62;border-color:#4e555b;color:#fff"
+    },
+    {
+      "source": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+      "selector": ".btn-success",
+      "declarations": "background-color:#1d8734;border-color:#1d8734;color:#fff"
+    },
+    {
+      "source": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+      "selector": ".btn-success.focus,.btn-success:focus,.btn-success:hover",
+      "declarations": "background-color:#166828;border-color:#145d24;color:#fff"
+    },
+    {
+      "source": "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+      "selector": ".btn-success.disabled,.btn-success:disabled",
+      "declarations": "background-color:#1d8734;border-color:#1d8734;color:#fff"
+    }
+  ],
+  "confidence": "historical_partial_css_evidence",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "The Ordinary | Clinical Formulations with Integrity",
+  "schema_version": 1,
+  "design_origin": "historical",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "colors.primary-active": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "colors.primary-disabled": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "colors.muted-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/homePage.css"
+      ]
+    },
+    "colors.hairline-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/homePage.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/homePage.css"
+      ]
+    },
+    "colors.surface-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/homePage.css"
+      ]
+    },
+    "colors.on-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/homePage.css"
+      ]
+    },
+    "colors.footer-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "colors.error": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css"
+      ]
+    },
+    "colors.sale-badge": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/home/bootstrap.css",
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "colors.sold-out": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://theordinary.com/on/demandware.static/Sites-deciem-us-Site/-/en_US/v1790550078096/css/brands/theordinary/global.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-lg": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.title-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.title-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.body-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.body-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.caption": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.caption-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.badge": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.button-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.button-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.link": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.nav-link": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.product-name": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.product-price": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "rounded.none": {
+      "status": "unverified"
+    },
+    "rounded.xs": {
+      "status": "unverified"
+    },
+    "rounded.sm": {
+      "status": "unverified"
+    },
+    "rounded.md": {
+      "status": "unverified"
+    },
+    "rounded.lg": {
+      "status": "unverified"
+    },
+    "rounded.xl": {
+      "status": "unverified"
+    },
+    "rounded.full": {
+      "status": "unverified"
+    },
+    "spacing.xxs": {
+      "status": "unverified"
+    },
+    "spacing.xs": {
+      "status": "unverified"
+    },
+    "spacing.sm": {
+      "status": "unverified"
+    },
+    "spacing.md": {
+      "status": "unverified"
+    },
+    "spacing.base": {
+      "status": "unverified"
+    },
+    "spacing.lg": {
+      "status": "unverified"
+    },
+    "spacing.xl": {
+      "status": "unverified"
+    },
+    "spacing.xxl": {
+      "status": "unverified"
+    },
+    "spacing.section": {
+      "status": "unverified"
+    },
+    "components.button-primary": {
+      "status": "unverified"
+    },
+    "components.button-primary-active": {
+      "status": "unverified"
+    },
+    "components.button-primary-disabled": {
+      "status": "unverified"
+    },
+    "components.button-secondary": {
+      "status": "unverified"
+    },
+    "components.button-secondary-active": {
+      "status": "unverified"
+    },
+    "components.button-tertiary-text": {
+      "status": "unverified"
+    },
+    "components.button-tertiary-text-active": {
+      "status": "unverified"
+    },
+    "components.icon-button": {
+      "status": "unverified"
+    },
+    "components.top-nav": {
+      "status": "unverified"
+    },
+    "components.nav-link": {
+      "status": "unverified"
+    },
+    "components.nav-link-active": {
+      "status": "unverified"
+    },
+    "components.search-bar": {
+      "status": "unverified"
+    },
+    "components.search-bar-focused": {
+      "status": "unverified"
+    },
+    "components.product-card": {
+      "status": "unverified"
+    },
+    "components.product-card-image": {
+      "status": "unverified"
+    },
+    "components.product-card-name": {
+      "status": "unverified"
+    },
+    "components.product-card-price": {
+      "status": "unverified"
+    },
+    "components.sale-badge": {
+      "status": "unverified"
+    },
+    "components.sold-out-badge": {
+      "status": "unverified"
+    },
+    "components.quantity-selector": {
+      "status": "unverified"
+    },
+    "components.size-dropdown": {
+      "status": "unverified"
+    },
+    "components.footer": {
+      "status": "unverified"
+    },
+    "components.footer-link": {
+      "status": "unverified"
+    },
+    "components.footer-heading": {
+      "status": "unverified"
+    },
+    "components.accordion": {
+      "status": "unverified"
+    },
+    "components.accordion-header": {
+      "status": "unverified"
+    },
+    "components.accordion-content": {
+      "status": "unverified"
+    }
+  },
+  "observed_color_tokens": 21,
+  "total_color_tokens": 22
+}

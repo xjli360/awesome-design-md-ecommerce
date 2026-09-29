@@ -1,0 +1,873 @@
+{
+  "source_url": "https://milesandmilan.com",
+  "final_url": "https://milesandmilan.com/",
+  "captured_at": "2026-09-29T03:55:13.085719+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://milesandmilan.com",
+      "final_url": "https://milesandmilan.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "c9663eb698bc11223d674d32793a96ff946f427ce3c1b649a86d4c827e704c30",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+      "final_url": "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "98441762a9af15f43b40a6fac78028f9652525a4b7ac92c4f6aa436dc4ed85b4",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://milesandmilan.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://milesandmilan.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://milesandmilan.com/cdn/shop/t/11/assets/cscode_discount_css.css?v=123466782390499391161661932435",
+      "final_url": "https://milesandmilan.com/cdn/shop/t/11/assets/cscode_discount_css.css?v=123466782390499391161661932435",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "fd84d21103fde37dfe653211dd5a1708a6b0db21090563b977cc74ba46fa22d4",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://milesandmilan.com/cdn/shop/t/11/assets/ajaxify.scss.css?v=159292261424702860871696871108",
+      "final_url": "https://milesandmilan.com/cdn/shop/t/11/assets/ajaxify.scss.css?v=159292261424702860871696871108",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9b0cb1985f81d2b93ffc0711272ebadeeb9f3c7f6988bfb7a5dc41312f6ee671",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 82,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+        "https://milesandmilan.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://milesandmilan.com/cdn/shop/t/11/assets/cscode_discount_css.css?v=123466782390499391161661932435",
+        "https://milesandmilan.com/cdn/shop/t/11/assets/ajaxify.scss.css?v=159292261424702860871696871108"
+      ]
+    },
+    "#000000": {
+      "count": 29,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+        "https://milesandmilan.com/cdn/shop/t/11/assets/cscode_discount_css.css?v=123466782390499391161661932435"
+      ]
+    },
+    "#cccccc": {
+      "count": 26,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#4e4b4b": {
+      "count": 22,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+        "https://milesandmilan.com/cdn/shop/t/11/assets/ajaxify.scss.css?v=159292261424702860871696871108"
+      ]
+    },
+    "#2e3438": {
+      "count": 16,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#111111": {
+      "count": 10,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+        "https://milesandmilan.com/cdn/shop/t/11/assets/ajaxify.scss.css?v=159292261424702860871696871108"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 9,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#0000004d": {
+      "count": 7,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#d02e2e": {
+      "count": 7,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#333333": {
+      "count": 7,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#00000000": {
+      "count": 6,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+        "https://milesandmilan.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#008060": {
+      "count": 6,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/cscode_discount_css.css?v=123466782390499391161661932435"
+      ]
+    },
+    "#343232": {
+      "count": 4,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+        "https://milesandmilan.com/cdn/shop/t/11/assets/ajaxify.scss.css?v=159292261424702860871696871108"
+      ]
+    },
+    "#00000099": {
+      "count": 4,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#e8e8e1": {
+      "count": 4,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/cscode_discount_css.css?v=123466782390499391161661932435"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 3,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#1a1919": {
+      "count": 3,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#56ad6a": {
+      "count": 3,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 3,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/cscode_discount_css.css?v=123466782390499391161661932435"
+      ]
+    },
+    "#eeeeee": {
+      "count": 3,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/cscode_discount_css.css?v=123466782390499391161661932435"
+      ]
+    },
+    "#dddddd": {
+      "count": 3,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/cscode_discount_css.css?v=123466782390499391161661932435"
+      ]
+    },
+    "#999999": {
+      "count": 2,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#fff6f6": {
+      "count": 2,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#272626": {
+      "count": 2,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#0000001a": {
+      "count": 2,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#11111180": {
+      "count": 2,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 2,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#000000a6": {
+      "count": 2,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#a6000000": {
+      "count": 2,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#3f3f3f": {
+      "count": 2,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://milesandmilan.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#c9cccf": {
+      "count": 2,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/cscode_discount_css.css?v=123466782390499391161661932435"
+      ]
+    },
+    "#3b3b3b73": {
+      "count": 2,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/cscode_discount_css.css?v=123466782390499391161661932435"
+      ]
+    },
+    "#373737": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#040404": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#686464": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#5b5858": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#4e4b4b4d": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#00000026": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#171a1c": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#ffffffe6": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#ffffff80": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#ffffff4d": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#b4b6b9": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#333333e6": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#bfbfbf": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#ecfef0": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#fafafa": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#0b0b0b": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#444444": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#bdbdbd": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#000000bf": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#bdc1cc": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/cscode_discount_css.css?v=123466782390499391161661932435"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/cscode_discount_css.css?v=123466782390499391161661932435"
+      ]
+    },
+    "#efefef": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/cscode_discount_css.css?v=123466782390499391161661932435"
+      ]
+    },
+    "#007f60": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/cscode_discount_css.css?v=123466782390499391161661932435"
+      ]
+    },
+    "#9880ff": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/cscode_discount_css.css?v=123466782390499391161661932435"
+      ]
+    },
+    "#e1b878": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/cscode_discount_css.css?v=123466782390499391161661932435"
+      ]
+    },
+    "#202223": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/cscode_discount_css.css?v=123466782390499391161661932435"
+      ]
+    },
+    "#fff5ea": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/cscode_discount_css.css?v=123466782390499391161661932435"
+      ]
+    },
+    "#464646": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/ajaxify.scss.css?v=159292261424702860871696871108"
+      ]
+    },
+    "#00000040": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/ajaxify.scss.css?v=159292261424702860871696871108"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 1,
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/ajaxify.scss.css?v=159292261424702860871696871108"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+    ],
+    "Arial Unicode MS": [
+      "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+    ],
+    "Baskerville": [
+      "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+    ],
+    "Consolas": [
+      "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+    ],
+    "Helvetica Neue": [
+      "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+    ],
+    "Lucida Sans Unicode": [
+      "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+    ],
+    "Oswald": [
+      "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+    ],
+    "icons": [
+      "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+    ],
+    "monospace": [
+      "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+    ],
+    "sans-serif": [
+      "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+    ],
+    "serif": [
+      "https://milesandmilan.com/cdn/shop/t/11/assets/cscode_discount_css.css?v=123466782390499391161661932435"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+      "selector": "cess-denied h5,.sky-pilot-access-denied .h5,.sky-pilot-access-denied .h5--body,h4,.h4,.h4--body,h5,.h5,.h5--body,h6,.h6,.h6--body,.btn--large,.header-logo,.home",
+      "declarations": "font-family:Oswald,Helvetica Neue,Arial,sans-serif;text-transform:uppercase;letter-spacing:1px;-webkit-font-smoothing:antialiased"
+    },
+    {
+      "source": "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+      "selector": "body,input,textarea,button,select",
+      "declarations": "font-size:14px;line-height:1.6;font-family:Oswald,Helvetica Neue,Arial,sans-serif;color:#000;font-weight:400;-webkit-font-smoothing:antialiased;-webkit-text-size-adjust:100%"
+    },
+    {
+      "source": "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+      "selector": ".h1--body,.h2--body,.h3--body,.h4--body,.h5--body,.h6--body",
+      "declarations": "text-transform:none;letter-spacing:0px;font-family:Oswald,Helvetica Neue,Arial,sans-serif"
+    },
+    {
+      "source": "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+      "selector": "body:not(.template-index)",
+      "declarations": "background-color:#fff"
+    },
+    {
+      "source": "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+      "selector": ".btn--secondary,input.btn--secondary",
+      "declarations": "background-color:#fff;border:1px solid black;color:#000"
+    },
+    {
+      "source": "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+      "selector": ".btn--secondary:hover,input.btn--secondary:hover",
+      "declarations": "background-color:#686464;color:#000"
+    },
+    {
+      "source": "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+      "selector": ".btn--secondary:focus,.btn--secondary:active,input.btn--secondary:focus,input.btn--secondary:active",
+      "declarations": "background-color:#5b5858;color:#000"
+    },
+    {
+      "source": "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+      "selector": ".btn--clear",
+      "declarations": "background-color:transparent;color:#111;border:1px solid #111111"
+    },
+    {
+      "source": "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+      "selector": ".btn--clear:hover,.btn--clear:focus,.btn--clear:active",
+      "declarations": "color:#111;background-color:#4e4b4b4d"
+    },
+    {
+      "source": "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+      "selector": ".lt-ie9 .btn--clear:hover,.btn--splash",
+      "declarations": "background-color:#4e4b4b"
+    },
+    {
+      "source": "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+      "selector": ".btn--splash:hover,.btn--splash:focus,.btn--splash:active",
+      "declarations": "background-color:#343232"
+    },
+    {
+      "source": "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+      "selector": ".btn--outline",
+      "declarations": "background-color:#fff;border:1px solid #2e3438;box-shadow:0 0 0 8px #fff;color:#2e3438;margin:8px"
+    },
+    {
+      "source": "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+      "selector": ".btn--outline:hover,.btn--outline:focus,.btn--outline:active",
+      "declarations": "color:#4e4b4b;background-color:#fff"
+    },
+    {
+      "source": "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+      "selector": ".site-header",
+      "declarations": "position:relative;background-color:#fff;border-bottom:1px solid black"
+    },
+    {
+      "source": "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+      "selector": ".header-logo a",
+      "declarations": "text-decoration:none;color:#333"
+    },
+    {
+      "source": "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+      "selector": ".header-logo a:hover,.header-logo a:focus",
+      "declarations": "text-decoration:none;color:#1a1a1a"
+    },
+    {
+      "source": "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+      "selector": ".header-search",
+      "declarations": "text-align:right;background-color:transparent"
+    },
+    {
+      "source": "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+      "selector": ".header-search .search-bar",
+      "declarations": "position:relative;z-index:100;height:26px;color:#000;font-size:16px;padding:0 25px 0 0;text-align:right;border:none;margin-bottom:0;border-bottom:1px solid transparent;border-radius:0;width:5px;-webkit-transition:all .3s ease-in-out;transition:all .3s ease-in-out;cursor:pointer"
+    },
+    {
+      "source": "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+      "selector": ".header-search .search-bar:focus,.header-search .search-bar:active",
+      "declarations": "border:none;cursor:text;padding:0;margin-right:24px;color:#fff;background-color:#000;border-bottom:1px solid rgba(255,255,255,.5);box-shadow:none"
+    },
+    {
+      "source": "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+      "selector": ".nav--mobile .header-cart__bubble",
+      "declarations": "position:absolute;top:50%;margin-top:-14px;left:19px;width:12px;height:12px;border-radius:12px;background-color:#333;color:transparent"
+    },
+    {
+      "source": "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+      "selector": ".nav--mobile .header-menu",
+      "declarations": "position:absolute;right:0;background-color:#fff;z-index:9000;border-left:1px solid black;border-bottom:1px solid black;min-width:400px;padding:30px"
+    },
+    {
+      "source": "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+      "selector": ".homepage-product .product-page",
+      "declarations": "background-color:transparent"
+    },
+    {
+      "source": "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+      "selector": "],#your-shopping-cart .homepage--dark .js-qty input[type=text],.homepage--dark .figcaption a .price_wrapper,.homepage--dark input,.homepage--dark textarea,.home",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+      "selector": ".homepage--splash .btn--clear,.homepage--dark .btn--clear",
+      "declarations": "color:#fff;border:1px solid white"
+    },
+    {
+      "source": "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+      "selector": ".homepage--splash .btn--clear.disabled,.homepage--dark .btn--clear.disabled",
+      "declarations": "border:1px solid rgba(0,0,0,.3);color:#ffffff4d"
+    },
+    {
+      "source": "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+      "selector": ".homepage--splash .blog__article .btn--splash",
+      "declarations": "background-color:#343232"
+    },
+    {
+      "source": "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+      "selector": ".homepage--splash .blog__article .btn--splash:hover",
+      "declarations": "background-color:#272626"
+    },
+    {
+      "source": "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+      "selector": ".homepage-image.homepage--white .btn--clear",
+      "declarations": "color:#fff;border:1px solid #fff"
+    },
+    {
+      "source": "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+      "selector": ".homepage-image.homepage--white .btn--clear:hover,.homepage-image.homepage--white .btn--clear:focus,.homepage-image.homepage--white .btn--clear:active",
+      "declarations": "color:#000;background-color:#fff"
+    },
+    {
+      "source": "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+      "selector": ".homepage-image.homepage--light .btn--clear",
+      "declarations": "color:#f7f7f7;border:1px solid #f7f7f7"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Miles and Milan",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+        "https://milesandmilan.com/cdn/shop/t/11/assets/cscode_discount_css.css?v=123466782390499391161661932435"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+        "https://milesandmilan.com/cdn/shop/t/11/assets/cscode_discount_css.css?v=123466782390499391161661932435"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+        "https://milesandmilan.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://milesandmilan.com/cdn/shop/t/11/assets/cscode_discount_css.css?v=123466782390499391161661932435",
+        "https://milesandmilan.com/cdn/shop/t/11/assets/ajaxify.scss.css?v=159292261424702860871696871108"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/cscode_discount_css.css?v=123466782390499391161661932435"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108",
+        "https://milesandmilan.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://milesandmilan.com/cdn/shop/t/11/assets/cscode_discount_css.css?v=123466782390499391161661932435",
+        "https://milesandmilan.com/cdn/shop/t/11/assets/ajaxify.scss.css?v=159292261424702860871696871108"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "colors.overlay": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://milesandmilan.com/cdn/shop/t/11/assets/style.scss.css?v=149206949875698283191696871108"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.milestone-size-selector": {
+      "status": "inferred"
+    }
+  }
+}

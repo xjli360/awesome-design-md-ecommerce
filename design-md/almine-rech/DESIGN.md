@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Almine Rech
-description: |
+name: "Almine Rech"
+source_url: "https://www.alminerech.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Deep royal blue (#003399) takes every primary link and CTA — a deliberate assertion against the all-black neutrality that dominates institutional gallery sites. The canvas holds at pure white, the meta theme-color #ffffff enforced so exhibition photography arrives without interference, applying to the screen the same logic a white-cube room applies to hung work. Text runs in #08191b, a near-black with a faint oceanic undertone that separates it from true black and from the charcoal grays (#323232, #595959, #7d7d7d) managing secondary and tertiary hierarchy. Cool gray #cccdd5 handles divider and surface-muted duty, while the light blue tint #ddeeff surfaces as a hover-state wash behind interactive elements — focus feedback that adds no new hue to the visual field.
 
   The typographic system pairs Akkurat, a geometric grotesque carrying navigation labels and metadata, with Cambon, a contemporary serif commanding editorial display heads and artist names. The sans handles structural chrome at 12–14px; the serif commands at 24–48px, institutional precision and editorial ambition resolved in one stack. Spacing follows gallery-hang logic: sections breathe at {spacing.section}, image grids take generous margins, and columns collapse early to preserve image scale over text density. Rounded corners are essentially absent — {rounded.none} on exhibition cards and artist tiles enforces the white-cube hard-edge sensibility; only inputs and micro-labels use {rounded.xs}.
@@ -345,6 +348,8 @@ components:
 - Footer four-column grid collapses to two columns at 744px, then one column at 480px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact nav height and wordmark dimensions not extractable; 64px inferred from visual density
 - `primary-active` (#002277) and `primary-disabled` (#cccdd5 repurposed) are derived — extracted palette does not include explicit interaction-state values for the primary blue

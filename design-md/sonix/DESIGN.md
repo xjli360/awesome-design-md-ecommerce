@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Sonix
-description: A pink that doesn't blush — #f3818b, #fd848d, and #e69392 form a three-note chord of coral-rose that runs through every product page, badge, and accent on a site that sells protective phone cases. The brand's visual identity is built on the tension between soft, almost cosmetic pastels and the hard, functional reality of drop protection and MagSafe alignment. A deep navy ink (#272d45) anchors the typography, while #444444 and #676986 handle body copy — the palette reads like a makeup compact designed by an industrial engineer. The extracted hex list is unusually long (30+ colors), suggesting heavy use of Shopify checkout widgets, social icons, and stock photography, but the core brand signal is unmistakable: a warm, feminine-leaning pink-navy combination that avoids both millennial pink's saccharine and luxury's austerity. Product cards use generous white space with rounded corners, and the navigation stays clean and minimal — the pink does the emotional work. The site runs on Shopify, which means the checkout flow inherits platform defaults, but the brand pages themselves feel curated, with soft dividers (#d3d3d3, #e5e5e5) and a light gray canvas (#f6f6f6) that keeps the pink accents from overwhelming. The extracted font stack is entirely system-level (monospace fallbacks, emoji fonts, widget icons), indicating no custom brand typeface — Sonix relies on weight and spacing rather than proprietary letterforms. The result is a DTC storefront that feels more like a beauty brand than an accessories brand, where the pink is the product and the case is just the canvas.
+name: "Sonix"
+source_url: "https://www.shopsonix.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A pink that doesn't blush — #f3818b, #fd848d, and #e69392 form a three-note chord of coral-rose that runs through every product page, badge, and accent on a site that sells protective phone cases. The brand's visual identity is built on the tension between soft, almost cosmetic pastels and the hard, functional reality of drop protection and MagSafe alignment. A deep navy ink (#272d45) anchors the typography, while #444444 and #676986 handle body copy — the palette reads like a makeup compact designed by an industrial engineer. The extracted hex list is unusually long (30+ colors), suggesting heavy use of Shopify checkout widgets, social icons, and stock photography, but the core brand signal is unmistakable: a warm, feminine-leaning pink-navy combination that avoids both millennial pink's saccharine and luxury's austerity. Product cards use generous white space with rounded corners, and the navigation stays clean and minimal — the pink does the emotional work. The site runs on Shopify, which means the checkout flow inherits platform defaults, but the brand pages themselves feel curated, with soft dividers (#d3d3d3, #e5e5e5) and a light gray canvas (#f6f6f6) that keeps the pink accents from overwhelming. The extracted font stack is entirely system-level (monospace fallbacks, emoji fonts, widget icons), indicating no custom brand typeface — Sonix relies on weight and spacing rather than proprietary letterforms. The result is a DTC storefront that feels more like a beauty brand than an accessories brand, where the pink is the product and the case is just the canvas.
 
 colors:
   primary: "#f3818b"
@@ -443,6 +447,8 @@ components:
 - Accordion content (product descriptions, reviews, shipping info) is collapsed by default on all breakpoints, expanding on click
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom brand typeface was extracted from the live site — the font stack is entirely system-level fallbacks. The typography tokens above use a generic system stack; a real brand font (if one exists) would need to be specified by the design team.
 - Hover and focus states for many components (text-input, select-input, nav-links) are inferred from common ecommerce patterns rather than extracted from the live site. The extracted CSS did not include `:hover` or `:focus` pseudo-classes.

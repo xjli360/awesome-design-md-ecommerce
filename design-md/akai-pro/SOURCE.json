@@ -1,0 +1,491 @@
+{
+  "source_url": "https://www.akaipro.com",
+  "final_url": "https://www.akaipro.com/",
+  "captured_at": "2026-09-28T04:08:29.710730+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.akaipro.com",
+      "final_url": "https://www.akaipro.com/",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "0a1ecd3c9f2c64c6f1fe5becca3255b1972348a5e70bfa6d34e14b883886d17c",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://use.typekit.net/jjb1vcy.css",
+      "final_url": "https://use.typekit.net/jjb1vcy.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "36791098c60a54a9dfba5da5d4f47d78659293aa2ba6c02369a22fedb72dfb9e",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://use.typekit.net/yxf5ztq.css",
+      "final_url": "https://use.typekit.net/yxf5ztq.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "cc9669a3ff5fc930e416446346220081d27aabd5a2063994821298c0c782856c",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://use.typekit.net/tsr1eqb.css",
+      "final_url": "https://use.typekit.net/tsr1eqb.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "4a3449a5222c0f3571994ab53969461becc0e2934a5fcb0d6e14ba9ec8e349bd",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "d57dfa9957a8da048e831165819f7202eb390ff66f61fd6c8354c4a3974e3d5f",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 22,
+      "sources": [
+        "https://www.akaipro.com/"
+      ]
+    },
+    "#0d0d0d": {
+      "count": 20,
+      "sources": [
+        "https://www.akaipro.com/"
+      ]
+    },
+    "#c20439": {
+      "count": 11,
+      "sources": [
+        "https://www.akaipro.com/"
+      ]
+    },
+    "#000000": {
+      "count": 4,
+      "sources": [
+        "https://www.akaipro.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 4,
+      "sources": [
+        "https://www.akaipro.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 4,
+      "sources": [
+        "https://www.akaipro.com/"
+      ]
+    },
+    "#c2c2c2": {
+      "count": 2,
+      "sources": [
+        "https://www.akaipro.com/"
+      ]
+    },
+    "#eaeaea": {
+      "count": 1,
+      "sources": [
+        "https://www.akaipro.com/"
+      ]
+    },
+    "#337ab7": {
+      "count": 1,
+      "sources": [
+        "https://www.akaipro.com/"
+      ]
+    },
+    "#555555": {
+      "count": 1,
+      "sources": [
+        "https://www.akaipro.com/"
+      ]
+    },
+    "#dbdbdb": {
+      "count": 1,
+      "sources": [
+        "https://www.akaipro.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.akaipro.com/"
+    ],
+    "Helvetica": [
+      "https://www.akaipro.com/"
+    ],
+    "Inter": [
+      "https://www.akaipro.com/",
+      "https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+    ],
+    "alternate-gothic-atf": [
+      "https://www.akaipro.com/",
+      "https://use.typekit.net/yxf5ztq.css"
+    ],
+    "alternate-gothic-atf-thin": [
+      "https://use.typekit.net/yxf5ztq.css"
+    ],
+    "alternate-gothic-compressed": [
+      "https://www.akaipro.com/",
+      "https://use.typekit.net/yxf5ztq.css",
+      "https://use.typekit.net/tsr1eqb.css"
+    ],
+    "georgiapro-condensed": [
+      "https://use.typekit.net/tsr1eqb.css"
+    ],
+    "kallisto": [
+      "https://use.typekit.net/jjb1vcy.css"
+    ],
+    "sans-serif": [
+      "https://www.akaipro.com/",
+      "https://use.typekit.net/jjb1vcy.css",
+      "https://use.typekit.net/yxf5ztq.css",
+      "https://use.typekit.net/tsr1eqb.css"
+    ],
+    "slick": [
+      "https://www.akaipro.com/"
+    ],
+    "univers-next-pro-compressed": [
+      "https://www.akaipro.com/"
+    ],
+    "univers-next-pro-condensed": [
+      "https://www.akaipro.com/"
+    ],
+    "univers-next-pro-extended": [
+      "https://www.akaipro.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.akaipro.com/",
+      "selector": ".slick-dots li button",
+      "declarations": "background:transparent;border:0;color:transparent;display:block;font-size:0;line-height:0;outline:none;padding:5px"
+    },
+    {
+      "source": "https://www.akaipro.com/",
+      "selector": ".slick-dots li button:before",
+      "declarations": "-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;color:#000;content:\"•\";font-family:slick;font-size:6px;height:20px;left:0;line-height:20px;opacity:.25;position:absolute;text-align:center;top:0;width:20px"
+    },
+    {
+      "source": "https://www.akaipro.com/",
+      "selector": ".slick-dots li.slick-active button:before",
+      "declarations": "color:#000;opacity:.75"
+    },
+    {
+      "source": "https://www.akaipro.com/",
+      "selector": ".h1,.h1 p,h1,h1 p",
+      "declarations": "font-family:alternate-gothic-compressed,sans-serif"
+    },
+    {
+      "source": "https://www.akaipro.com/",
+      "selector": ".btn",
+      "declarations": "align-items:center;background:0;border:1px solid transparent;border-radius:4px;color:#c20439;display:flex;font-family:alternate-gothic-atf,sans-serif;font-size:20px;font-style:normal;font-weight:600;gap:4px;line-height:100%;min-width:max-content;padding:0;text-align:center;text-decoration:underline;text-decoration-color:transparent;text-decoration-thickness:1px;text-transform:uppercase;transition:all .25s ease"
+    },
+    {
+      "source": "https://www.akaipro.com/",
+      "selector": ".btn:hover,.btn[data-hovered=true]",
+      "declarations": "cursor:pointer;text-decoration-color:initial"
+    },
+    {
+      "source": "https://www.akaipro.com/",
+      "selector": ".btn.primary",
+      "declarations": "background-color:#c20439;border-color:#c20439;color:#fff"
+    },
+    {
+      "source": "https://www.akaipro.com/",
+      "selector": ".btn.primary:hover,.btn.primary[data-hovered=true]",
+      "declarations": "background-color:rgba(194,4,57,.749);border-color:rgba(194,4,57,.749)"
+    },
+    {
+      "source": "https://www.akaipro.com/",
+      "selector": ".btn.primary.outline",
+      "declarations": "background-color:transparent;border-color:#c20439;color:#c20439"
+    },
+    {
+      "source": "https://www.akaipro.com/",
+      "selector": ".btn.primary.outline:hover,.btn.primary.outline[data-hovered=true]",
+      "declarations": "background-color:#c20439;border-color:#c20439;color:#fff"
+    },
+    {
+      "source": "https://www.akaipro.com/",
+      "selector": ".btn.secondary",
+      "declarations": "background-color:#fff;border-color:#fff;color:#0d0d0d"
+    },
+    {
+      "source": "https://www.akaipro.com/",
+      "selector": ".btn.secondary:hover,.btn.secondary[data-hovered=true]",
+      "declarations": "background-color:hsla(0,0%,100%,.749);border-color:hsla(0,0%,100%,.749)"
+    },
+    {
+      "source": "https://www.akaipro.com/",
+      "selector": ".btn.secondary.outline",
+      "declarations": "background-color:transparent;border-color:#fff;color:#fff"
+    },
+    {
+      "source": "https://www.akaipro.com/",
+      "selector": ".btn.secondary.outline:hover,.btn.secondary.outline[data-hovered=true]",
+      "declarations": "background-color:#fff;border-color:#fff;color:#0d0d0d"
+    },
+    {
+      "source": "https://www.akaipro.com/",
+      "selector": ".btn.tertiary",
+      "declarations": "background-color:#0d0d0d;border-color:#0d0d0d;color:#fff"
+    },
+    {
+      "source": "https://www.akaipro.com/",
+      "selector": ".btn.tertiary:hover,.btn.tertiary[data-hovered=true]",
+      "declarations": "background-color:hsla(0,0%,5%,.749);border-color:hsla(0,0%,5%,.749)"
+    },
+    {
+      "source": "https://www.akaipro.com/",
+      "selector": ".btn.tertiary.outline",
+      "declarations": "background-color:transparent;border-color:#0d0d0d;color:#0d0d0d"
+    },
+    {
+      "source": "https://www.akaipro.com/",
+      "selector": ".btn.tertiary.outline:hover,.btn.tertiary.outline[data-hovered=true]",
+      "declarations": "background-color:#0d0d0d;border-color:#0d0d0d;color:#fff"
+    },
+    {
+      "source": "https://www.akaipro.com/",
+      "selector": ".btn.pill",
+      "declarations": "background-color:transparent;border-color:#0d0d0d;border-radius:40px;color:#0d0d0d;font-family:Inter,sans-serif;font-size:12px;font-weight:500;padding:12px;text-transform:capitalize"
+    },
+    {
+      "source": "https://www.akaipro.com/",
+      "selector": ".btn.pill.outline,.btn.pill:hover,.btn.pill[data-hovered=true]",
+      "declarations": "background-color:#0d0d0d;border-color:#0d0d0d;color:#fff;text-decoration-color:transparent"
+    },
+    {
+      "source": "https://www.akaipro.com/",
+      "selector": ".btn.pill.invert",
+      "declarations": "border-color:#fff;color:#fff"
+    },
+    {
+      "source": "https://www.akaipro.com/",
+      "selector": ".btn.pill.invert.outline,.btn.pill.invert:hover .btn.pill.invert[data-hovered=true]",
+      "declarations": "background:#fff;color:#0d0d0d;text-decoration-color:transparent"
+    },
+    {
+      "source": "https://www.akaipro.com/",
+      "selector": ".btn.primary:hover,.btn.primary[data-hovered=true],.btn.secondary:hover,.btn.secondary[data-hovered=true],.btn.tertiary:hover,.btn.tertiary[data-hovered=true]",
+      "declarations": "text-decoration-color:transparent"
+    },
+    {
+      "source": "https://www.akaipro.com/",
+      "selector": ".btn.black",
+      "declarations": "color:#0d0d0d"
+    },
+    {
+      "source": "https://www.akaipro.com/",
+      "selector": ".btn.white",
+      "declarations": "color:#fff"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Music Production Hardware & Software | Akai Professional",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.akaipro.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.akaipro.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.akaipro.com/"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.akaipro.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.akaipro.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.akaipro.com/"
+      ]
+    },
+    "colors.divider-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.akaipro.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.akaipro.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.akaipro.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.akaipro.com/"
+      ]
+    },
+    "colors.overlay-black": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.akaipro.com/"
+      ]
+    },
+    "colors.link": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.akaipro.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.carousel": {
+      "status": "inferred"
+    }
+  }
+}

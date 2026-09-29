@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Retro Games UK
-description: A khaki-and-cream palette — #98937d as the dominant ground, #d6c9b9 as the warm secondary — that reads like a faded 1980s game manual left in a cardboard box in a loft for thirty years. The site’s visual language is built on a low-contrast, almost sepia-toned canvas where #d7caba and #bea98e layer like old cartridge labels, and the only real voltage comes from #cd783f, a burnt-orange accent that punches through the muted field on price tags, add-to-cart buttons, and sale badges. Typography defaults to system sans-serif (Arial, Helvetica) with Times New Roman reserved for product descriptions and historical copy, creating a deliberate tension between the utilitarian nav and the nostalgic body text. Borders are thin and soft — #aaaaaa hairline dividers, #888888 secondary strokes — and cards carry a gentle {rounded.sm} radius that never competes with the product photography. The overall effect is that of a well-organized charity shop: orderly, slightly dusty, and utterly sincere.
+name: "Retro Games UK"
+source_url: "https://www.retrogames.co.uk"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A khaki-and-cream palette — #98937d as the dominant ground, #d6c9b9 as the warm secondary — that reads like a faded 1980s game manual left in a cardboard box in a loft for thirty years. The site’s visual language is built on a low-contrast, almost sepia-toned canvas where #d7caba and #bea98e layer like old cartridge labels, and the only real voltage comes from #cd783f, a burnt-orange accent that punches through the muted field on price tags, add-to-cart buttons, and sale badges. Typography defaults to system sans-serif (Arial, Helvetica) with Times New Roman reserved for product descriptions and historical copy, creating a deliberate tension between the utilitarian nav and the nostalgic body text. Borders are thin and soft — #aaaaaa hairline dividers, #888888 secondary strokes — and cards carry a gentle {rounded.sm} radius that never competes with the product photography. The overall effect is that of a well-organized charity shop: orderly, slightly dusty, and utterly sincere.
 
 colors:
   primary: "#cd783f"
@@ -316,6 +320,8 @@ components:
 - Search bar moves from inline nav position to below nav on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for most components could not be extracted; only primary button and product card hover are confirmed
 - Error states for form inputs (validation, required fields) are unknown

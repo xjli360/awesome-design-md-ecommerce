@@ -1,0 +1,808 @@
+{
+  "source_url": "https://www.varusdrums.com",
+  "final_url": "https://varusdrums.com/",
+  "captured_at": "2026-09-28T10:10:53.880470+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.varusdrums.com",
+      "final_url": "https://varusdrums.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "386be8d67b7880a39a089aae43bbeb80d0f03eb5036896a461a329094d6f8cf7",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://varusdrums.com/wp-content/litespeed/css/7457c1274cb339df3bcfce278a3e5e66.css?ver=e5e66",
+      "final_url": "https://varusdrums.com/wp-content/litespeed/css/7457c1274cb339df3bcfce278a3e5e66.css?ver=e5e66",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "98e57460d66871bef4544efa7710b587bd8c1f357864ceaadf865f6734f93447",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://varusdrums.com/wp-content/litespeed/css/6f87c56e50e93c86b5348662f45ef51b.css?ver=ef51b",
+      "final_url": "https://varusdrums.com/wp-content/litespeed/css/6f87c56e50e93c86b5348662f45ef51b.css?ver=ef51b",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b5661463e13342ac0fbace71ce3853c004984f8e51bf2d5160864f017630b883",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://varusdrums.com/wp-content/litespeed/css/0d11e1bf5edcf124b095ff1ac6939a76.css?ver=39a76",
+      "final_url": "https://varusdrums.com/wp-content/litespeed/css/0d11e1bf5edcf124b095ff1ac6939a76.css?ver=39a76",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ac2c52d676ae4977013c6367f11cb1826535974fbf43e435ce6928c056371634",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://varusdrums.com/wp-content/litespeed/css/4b231c368168794d9e8098fba2f7a7e0.css?ver=7a7e0",
+      "final_url": "https://varusdrums.com/wp-content/litespeed/css/4b231c368168794d9e8098fba2f7a7e0.css?ver=7a7e0",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9df2df7e8116ac6c6545535b1153e7404005fc786f3dedc0fc6378efac3fbb75",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://varusdrums.com/wp-content/litespeed/css/e05fd3f40dd0475e57e76313e1ba292b.css?ver=a292b",
+      "final_url": "https://varusdrums.com/wp-content/litespeed/css/e05fd3f40dd0475e57e76313e1ba292b.css?ver=a292b",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "19fb8fd435c0bce0c7b49c24d128cce686d4a6bba0de63d34d5effa4e1f644f4",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#444444": {
+      "count": 120,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#ffffff00": {
+      "count": 110,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 85,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#878787": {
+      "count": 84,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 76,
+      "sources": [
+        "https://varusdrums.com/",
+        "https://varusdrums.com/wp-content/litespeed/css/7457c1274cb339df3bcfce278a3e5e66.css?ver=e5e66",
+        "https://varusdrums.com/wp-content/litespeed/css/0d11e1bf5edcf124b095ff1ac6939a76.css?ver=39a76",
+        "https://varusdrums.com/wp-content/litespeed/css/4b231c368168794d9e8098fba2f7a7e0.css?ver=7a7e0"
+      ]
+    },
+    "#000000": {
+      "count": 20,
+      "sources": [
+        "https://varusdrums.com/",
+        "https://varusdrums.com/wp-content/litespeed/css/7457c1274cb339df3bcfce278a3e5e66.css?ver=e5e66"
+      ]
+    },
+    "#eeeeee": {
+      "count": 19,
+      "sources": [
+        "https://varusdrums.com/",
+        "https://varusdrums.com/wp-content/litespeed/css/7457c1274cb339df3bcfce278a3e5e66.css?ver=e5e66"
+      ]
+    },
+    "#020202": {
+      "count": 15,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#0c4da2": {
+      "count": 12,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#333333": {
+      "count": 8,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#bf0000": {
+      "count": 8,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#ebebeb": {
+      "count": 7,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#e67e22": {
+      "count": 5,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#555555": {
+      "count": 5,
+      "sources": [
+        "https://varusdrums.com/",
+        "https://varusdrums.com/wp-content/litespeed/css/7457c1274cb339df3bcfce278a3e5e66.css?ver=e5e66"
+      ]
+    },
+    "#515151": {
+      "count": 4,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 4,
+      "sources": [
+        "https://varusdrums.com/",
+        "https://varusdrums.com/wp-content/litespeed/css/7457c1274cb339df3bcfce278a3e5e66.css?ver=e5e66"
+      ]
+    },
+    "#cecece": {
+      "count": 4,
+      "sources": [
+        "https://varusdrums.com/",
+        "https://varusdrums.com/wp-content/litespeed/css/7457c1274cb339df3bcfce278a3e5e66.css?ver=e5e66"
+      ]
+    },
+    "#212121": {
+      "count": 3,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#0693e3": {
+      "count": 3,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#ff6900": {
+      "count": 3,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#202020": {
+      "count": 3,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#77a464": {
+      "count": 3,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 3,
+      "sources": [
+        "https://varusdrums.com/wp-content/litespeed/css/7457c1274cb339df3bcfce278a3e5e66.css?ver=e5e66"
+      ]
+    },
+    "#f78080": {
+      "count": 3,
+      "sources": [
+        "https://varusdrums.com/wp-content/litespeed/css/7457c1274cb339df3bcfce278a3e5e66.css?ver=e5e66"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 3,
+      "sources": [
+        "https://varusdrums.com/wp-content/litespeed/css/7457c1274cb339df3bcfce278a3e5e66.css?ver=e5e66"
+      ]
+    },
+    "#dc3232": {
+      "count": 3,
+      "sources": [
+        "https://varusdrums.com/wp-content/litespeed/css/0d11e1bf5edcf124b095ff1ac6939a76.css?ver=39a76"
+      ]
+    },
+    "#f73030": {
+      "count": 2,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 2,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#313131": {
+      "count": 2,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#00d084": {
+      "count": 2,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#020381": {
+      "count": 2,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#2874fc": {
+      "count": 2,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#cf2e2e": {
+      "count": 2,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#fcb900": {
+      "count": 2,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#9b51e0": {
+      "count": 2,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#7e7e7e": {
+      "count": 2,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 2,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#c71610": {
+      "count": 2,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#517fa4": {
+      "count": 2,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#3b5998": {
+      "count": 2,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#69c9d0": {
+      "count": 2,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#ff3333": {
+      "count": 2,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#181818": {
+      "count": 2,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#003399": {
+      "count": 2,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#202020e8": {
+      "count": 2,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#6c757d": {
+      "count": 2,
+      "sources": [
+        "https://varusdrums.com/wp-content/litespeed/css/4b231c368168794d9e8098fba2f7a7e0.css?ver=7a7e0"
+      ]
+    },
+    "#99999933": {
+      "count": 1,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#7a00df": {
+      "count": 1,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#007cba": {
+      "count": 1,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#006ba1": {
+      "count": 1,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#005a87": {
+      "count": 1,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#34e2e4": {
+      "count": 1,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#4721fb": {
+      "count": 1,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#ab1dfe": {
+      "count": 1,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#faaca8": {
+      "count": 1,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#dad0ec": {
+      "count": 1,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#fafae1": {
+      "count": 1,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#67a671": {
+      "count": 1,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "#fdd79a": {
+      "count": 1,
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    }
+  },
+  "font_families": {
+    "&#039": [
+      "https://varusdrums.com/"
+    ],
+    "Arial": [
+      "https://varusdrums.com/wp-content/litespeed/css/7457c1274cb339df3bcfce278a3e5e66.css?ver=e5e66"
+    ],
+    "Arial!important": [
+      "https://varusdrums.com/wp-content/litespeed/css/4b231c368168794d9e8098fba2f7a7e0.css?ver=7a7e0"
+    ],
+    "Open Sans": [
+      "https://varusdrums.com/"
+    ],
+    "sans-serif": [
+      "https://varusdrums.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://varusdrums.com/",
+      "selector": ":root",
+      "declarations": "--wp-block-synced-color:#7a00df;--wp-block-synced-color--rgb:122,0,223;--wp-bound-block-color:var(--wp-block-synced-color);--wp-editor-canvas-background:#ddd;--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,160.5;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px"
+    },
+    {
+      "source": "https://varusdrums.com/",
+      "selector": ":root",
+      "declarations": "--wp-admin-border-width-focus:1.5px"
+    },
+    {
+      "source": "https://varusdrums.com/",
+      "selector": ":root .has-very-light-gray-background-color",
+      "declarations": "background-color:#eee"
+    },
+    {
+      "source": "https://varusdrums.com/",
+      "selector": ":root .has-very-dark-gray-background-color",
+      "declarations": "background-color:#313131"
+    },
+    {
+      "source": "https://varusdrums.com/",
+      "selector": ":root .has-very-light-gray-color",
+      "declarations": "color:#eee"
+    },
+    {
+      "source": "https://varusdrums.com/",
+      "selector": ":root .has-very-dark-gray-color",
+      "declarations": "color:#313131"
+    },
+    {
+      "source": "https://varusdrums.com/",
+      "selector": ":root",
+      "declarations": "--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px"
+    },
+    {
+      "source": "https://varusdrums.com/",
+      "selector": ".wp-block-button",
+      "declarations": "--wp--preset--dimension--25:25%;--wp--preset--dimension--50:50%;--wp--preset--dimension--75:75%;--wp--preset--dimension--100:100%"
+    },
+    {
+      "source": "https://varusdrums.com/",
+      "selector": ":root",
+      "declarations": "--wp--style--global--content-size:var(--global-calc-content-width);--wp--style--global--wide-size:var(--global-calc-wide-content-width)"
+    },
+    {
+      "source": "https://varusdrums.com/",
+      "selector": ".wlfmc-popup .wlfmc-popup-header-bordered i:not(.wlfmc-icon-close)",
+      "declarations": "color:#333"
+    },
+    {
+      "source": "https://varusdrums.com/",
+      "selector": ".wlfmc-popup .wlfmc-popup-header-bordered i:not(.wlfmc-icon-close)",
+      "declarations": "background-color:#f2f2f2"
+    },
+    {
+      "source": "https://varusdrums.com/",
+      "selector": ".wlfmc-single-btn:not(.is-elementor) .wlfmc-add-button>a.have-sep span:before",
+      "declarations": "border-left-color:#fff0"
+    },
+    {
+      "source": "https://varusdrums.com/",
+      "selector": ".wlfmc-single-btn:not(.is-elementor) .wlfmc-add-button>a i",
+      "declarations": "color:#e67e22"
+    },
+    {
+      "source": "https://varusdrums.com/",
+      "selector": ".wlfmc-single-btn:not(.is-elementor) .wlfmc-add-button>a:hover i",
+      "declarations": "color:#515151"
+    },
+    {
+      "source": "https://varusdrums.com/",
+      "selector": ".wlfmc-single-btn:not(.is-elementor) .wlfmc-add-button>a",
+      "declarations": "background-color:#fff0"
+    },
+    {
+      "source": "https://varusdrums.com/",
+      "selector": ".wlfmc-single-btn:not(.is-elementor) .wlfmc-add-button>a:hover",
+      "declarations": "background-color:#fff0"
+    },
+    {
+      "source": "https://varusdrums.com/",
+      "selector": ".wlfmc-single-btn:not(.is-elementor) .wlfmc-add-button>a",
+      "declarations": "border-color:#fff0"
+    },
+    {
+      "source": "https://varusdrums.com/",
+      "selector": ".wlfmc-single-btn:not(.is-elementor) .wlfmc-add-button>a:hover",
+      "declarations": "border-color:#fff0"
+    },
+    {
+      "source": "https://varusdrums.com/",
+      "selector": ".wlfmc-loop-btn:not(.is-elementor) .wlfmc-add-button>a.have-sep span:before",
+      "declarations": "border-left-color:#fff0"
+    },
+    {
+      "source": "https://varusdrums.com/",
+      "selector": ".wlfmc-loop-btn:not(.is-elementor) .wlfmc-add-button>a i",
+      "declarations": "color:#e67e22"
+    },
+    {
+      "source": "https://varusdrums.com/",
+      "selector": ".wlfmc-loop-btn:not(.is-elementor) .wlfmc-add-button>a:hover i",
+      "declarations": "color:#515151"
+    },
+    {
+      "source": "https://varusdrums.com/",
+      "selector": ".wlfmc-loop-btn:not(.is-elementor) .wlfmc-add-button>a",
+      "declarations": "background-color:#fff0"
+    },
+    {
+      "source": "https://varusdrums.com/",
+      "selector": ".wlfmc-loop-btn:not(.is-elementor) .wlfmc-add-button>a:hover",
+      "declarations": "background-color:#fff0"
+    },
+    {
+      "source": "https://varusdrums.com/",
+      "selector": ".wlfmc-loop-btn:not(.is-elementor) .wlfmc-add-button>a",
+      "declarations": "border-color:#fff0"
+    },
+    {
+      "source": "https://varusdrums.com/",
+      "selector": ".wlfmc-loop-btn:not(.is-elementor) .wlfmc-add-button>a:hover",
+      "declarations": "border-color:#fff0"
+    },
+    {
+      "source": "https://varusdrums.com/",
+      "selector": ".wlfmc-guest-notice-wrapper .wlfmc-notice-buttons a.wlfmc_btn_0",
+      "declarations": "background-color:#555555!important;;color:#ffffff!important;border-radius:2px"
+    },
+    {
+      "source": "https://varusdrums.com/",
+      "selector": ".wlfmc-guest-notice-wrapper .wlfmc-notice-buttons a.wlfmc_btn_0:hover",
+      "declarations": "background-color:#555555!important;;color:#ffffff!important"
+    },
+    {
+      "source": "https://varusdrums.com/",
+      "selector": ".wlfmc-guest-notice-wrapper .wlfmc-notice-buttons a.wlfmc_btn_1",
+      "declarations": "background-color:#fff0!important;;color:#7e7e7e!important;border-radius:2px"
+    },
+    {
+      "source": "https://varusdrums.com/",
+      "selector": ".wlfmc-guest-notice-wrapper .wlfmc-notice-buttons a.wlfmc_btn_1:hover",
+      "declarations": "background-color:#fff0!important;;color:#7e7e7e!important"
+    },
+    {
+      "source": "https://varusdrums.com/",
+      "selector": "fault-table:not(.is-elementor) .wlfmc-wishlist-footer select,.wlfmc-default-table:not(.is-elementor).qty-same-button input.qty,.wlfmc-default-table:not(.is-elem",
+      "declarations": "background-color:#ebebeb!important"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Varus Custom Drums - Varus Drums",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://varusdrums.com/",
+        "https://varusdrums.com/wp-content/litespeed/css/7457c1274cb339df3bcfce278a3e5e66.css?ver=e5e66",
+        "https://varusdrums.com/wp-content/litespeed/css/0d11e1bf5edcf124b095ff1ac6939a76.css?ver=39a76",
+        "https://varusdrums.com/wp-content/litespeed/css/4b231c368168794d9e8098fba2f7a7e0.css?ver=7a7e0"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://varusdrums.com/",
+        "https://varusdrums.com/wp-content/litespeed/css/7457c1274cb339df3bcfce278a3e5e66.css?ver=e5e66",
+        "https://varusdrums.com/wp-content/litespeed/css/0d11e1bf5edcf124b095ff1ac6939a76.css?ver=39a76",
+        "https://varusdrums.com/wp-content/litespeed/css/4b231c368168794d9e8098fba2f7a7e0.css?ver=7a7e0"
+      ]
+    },
+    "colors.accent-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "colors.link": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "colors.transparent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://varusdrums.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.finish-swatch": {
+      "status": "inferred"
+    }
+  }
+}

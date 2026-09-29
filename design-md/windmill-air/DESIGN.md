@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Windmill Air
-description: |
+name: "Windmill Air"
+source_url: "https://windmillair.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Navy at #122940 — used so consistently it surfaces in three near-identical extracted variants (#122940, #122840, #142840) — carries all structural authority at Windmill Air, and then the rest of the palette immediately contradicts the category expectation. Warm peach (#f2a682), sage green (#b2c8a1), goldenrod (#fed31d), and coral-orange (#ec5039) are colors almost no HVAC manufacturer would claim as brand property; the visual argument is that an air conditioner belongs in the same conversation as furniture, not hidden behind a radiator cover. The blue-shifted near-whites (#f7f8fb, #f2f4f7) that fill the canvas lean cool and airy, reinforcing the product promise without resorting to clinical starkness.
 
   Brighton Std carries all display-weight headlines — a humanist serif with gentle swash character that reads closer to a boutique hotel welcome card than an appliance spec sheet. Montserrat handles every functional UI element. The pairing is deliberate: Brighton Std in hero and PDP headlines delivers warmth, while Montserrat in uppercase with tracked-out `{typography.button-md}` labels (1px letter-spacing, 700 weight) delivers the precision a customer needs to feel confident in an HVAC purchase. Neither font is a default choice for air care retail, which is the brand's operating premise.
@@ -361,6 +364,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Brighton Std is not a web-standard or Google Fonts typeface — weight variants beyond 400 (regular) are unconfirmed; bold/medium variants may exist but were not enumerated in extraction
 - Montserrat weights in active use on the live site could not be confirmed; 400/500/600/700 assumed from standard Shopify theme deployment patterns

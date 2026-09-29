@@ -1,0 +1,904 @@
+{
+  "source_url": "https://sjobergs.se",
+  "final_url": "https://www.sjobergs.se/sv-se",
+  "captured_at": "2026-09-29T04:14:32.565664+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://sjobergs.se",
+      "final_url": "https://www.sjobergs.se/sv-se",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "3d942dd69ce3b108592a336a1ab13ce580fdc38ab38e736b928140fd83e199b3",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.sjobergs.se/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.sjobergs.se/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.sjobergs.se/cdn/shop/t/9/assets/base.min.css?v=113295045516294264651771793344",
+      "final_url": "https://www.sjobergs.se/cdn/shop/t/9/assets/base.min.css?v=113295045516294264651771793344",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "717570ec104461c304360a97ab500de74966c2a34e0043789743deda25b2e51d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.sjobergs.se/cdn/shop/t/9/assets/global-blocks.css?v=172652210766879097301763993061",
+      "final_url": "https://www.sjobergs.se/cdn/shop/t/9/assets/global-blocks.css?v=172652210766879097301763993061",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7b26f5d312c1facc33fdab09ffcdb433977364db709ec7436914ffd8b89c6d85",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.sjobergs.se/cdn/shop/t/9/assets/component-product_card.css?v=106202247498446466141763993054",
+      "final_url": "https://www.sjobergs.se/cdn/shop/t/9/assets/component-product_card.css?v=106202247498446466141763993054",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a543a2ed46aa6d50d32c6d650744ec10bcf9538bc0ce3714ff9d561b48c21810",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "be10bc4b16346e787891f1da5de658505019fcd30172651891a4bf550c948e36",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 41,
+      "sources": [
+        "https://www.sjobergs.se/sv-se",
+        "https://www.sjobergs.se/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 37,
+      "sources": [
+        "https://www.sjobergs.se/sv-se",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#949990": {
+      "count": 15,
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "#455854": {
+      "count": 12,
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "#d6d8d3": {
+      "count": 12,
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "#181b1a": {
+      "count": 11,
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "#435854": {
+      "count": 9,
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "#dddddd": {
+      "count": 9,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 7,
+      "sources": [
+        "https://www.sjobergs.se/sv-se",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#333333": {
+      "count": 7,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#65b2e8": {
+      "count": 6,
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "#f42e4f": {
+      "count": 6,
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "#555555": {
+      "count": 6,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 5,
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "#4e504f": {
+      "count": 5,
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 5,
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "#1e242a": {
+      "count": 5,
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "#000000": {
+      "count": 5,
+      "sources": [
+        "https://www.sjobergs.se/sv-se",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#666666": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#121212": {
+      "count": 3,
+      "sources": [
+        "https://www.sjobergs.se/sv-se",
+        "https://www.sjobergs.se/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000000": {
+      "count": 3,
+      "sources": [
+        "https://www.sjobergs.se/sv-se",
+        "https://www.sjobergs.se/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#108474": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 2,
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "#fffccc": {
+      "count": 2,
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "#393f3e": {
+      "count": 2,
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "#cfd0d5": {
+      "count": 2,
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "#f2f2f0": {
+      "count": 2,
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "#c4b0b0": {
+      "count": 2,
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "#3fbc20": {
+      "count": 2,
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "#6b6b6b": {
+      "count": 2,
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.sjobergs.se/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#fbcd0a": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#a89cc8": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#c1e6e6": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#4a4a4a": {
+      "count": 1,
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "#2538b0": {
+      "count": 1,
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "#2e48cc": {
+      "count": 1,
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "#faf7ff": {
+      "count": 1,
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "#7b7b7b": {
+      "count": 1,
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.sjobergs.se/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.sjobergs.se/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#888888": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#ffff00": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#3b5998": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#1da1f2": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#dd4b39": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#e60023": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#0073b1": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#fffb00": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#eaeaea": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#e9eaeb": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#a36710": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#d2920f": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#488282": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "#4c8eda": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "Baskerville": [
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "Button Font": [
+      "https://www.sjobergs.se/sv-se"
+    ],
+    "Heading Font": [
+      "https://www.sjobergs.se/sv-se"
+    ],
+    "Helvetica": [
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons": [
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons\" !important": [
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "JudgemeIcons' !important": [
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "JudgemeStar": [
+      "https://www.sjobergs.se/sv-se"
+    ],
+    "JudgemeStar' !important": [
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "Nunito Sans": [
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "Paragraph Primary Font": [
+      "https://www.sjobergs.se/sv-se"
+    ],
+    "Paragraph Secondary Font": [
+      "https://www.sjobergs.se/sv-se"
+    ],
+    "monospace": [
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ],
+    "sans-serif": [
+      "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.sjobergs.se/sv-se",
+      "selector": ":root,\n.colorGroup--misc",
+      "declarations": "--background_color:#f8f8f8;\n--background_color_2: #fffccc;\n  --primary_text: #121212;\n  --secondary_text: #4a4a4a;\n  --primary_accent: #65b2e8;\n  --secondary_accent:#455854;\n  --tertiary_accent:#d6d8d3;\n\n  --primary_grey : #393f3e;\n  --secondary_grey : #cfd0d5;\n  --tertiary_grey : #f2f2f0;\n\n\n  --button-bg: #65b2e8;\n  --button-content: #f8f8f8;\n  --button-border: #65b2e8;"
+    },
+    {
+      "source": "https://www.sjobergs.se/sv-se",
+      "selector": ":root",
+      "declarations": "--body_color : #FFF;\n  \n\n\n--loader_color: #949990;\n--submenu-position: 54px;\n--header-height: 54px;\n\n--label_New_text: #181B1A;\n--label_New_Bg: #D6D8D3;\n--label_onSale_Bg: #D6D8D3;\n--label_onSale_text: #1e242a;\n--label_custom_Bg: #D6D8D3;\n--label_custom_text: #ffffff;\n--label_soldOut_Bg: #f5f5f5;\n--label_soldOut_text: #1e242a;\n\n--alert_success: #3fbc20;\n--alert_error: #f42e4f;\n\n--pageTransitionColor: #FFFFFF;\n\n\n\n  --btn_primary_on_light_bg: rgb(69, 88, 84);\n  --btn_primary_on_light_txt: rgb(255, 255, 255);\n  --btn_primary_on_light_border: rgb(69, 88, 84);\n\n  --btn_primary_on_dark_bg: rgb(255, 255, 255);\n  --btn_primary_on_dark_txt: rgb(24, 27, 26);\n  --btn_primary_on_dark_border: rgb(255, 25"
+    },
+    {
+      "source": "https://www.sjobergs.se/sv-se",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #435854;--jdgm-secondary-color: rgba(67,88,84,0.1);--jdgm-star-color: #435854;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #435854;--jdgm-paginate-color: #435854;--jdgm-border-radius: 0;--jdgm-reviewer-name-color: #435854"
+    },
+    {
+      "source": "https://www.sjobergs.se/sv-se",
+      "selector": ":root",
+      "declarations": "--header-offset:  var(--announcement-height-fixed);"
+    },
+    {
+      "source": "https://www.sjobergs.se/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.sjobergs.se/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.sjobergs.se/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.sjobergs.se/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.sjobergs.se/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.sjobergs.se/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.sjobergs.se/cdn/shop/t/9/assets/base.min.css?v=113295045516294264651771793344",
+      "selector": ":root",
+      "declarations": "--viewport-height:100vh;--viewport_width:100vw"
+    },
+    {
+      "source": "https://www.sjobergs.se/cdn/shop/t/9/assets/base.min.css?v=113295045516294264651771793344",
+      "selector": "body",
+      "declarations": "display:grid;grid-template-rows:auto auto 1fr auto;grid-template-columns:100%;min-height:100%;margin:0;font-size:.875rem;letter-spacing:0;scroll-behavior:smooth;line-height:1.3;font-family:var(--type_primary_paragraph_font);font-weight:var(--type_paragraf_weight);-webkit-font-smoothing:antialiased;text-size-adjust:none;"
+    },
+    {
+      "source": "https://www.sjobergs.se/cdn/shop/t/9/assets/base.min.css?v=113295045516294264651771793344",
+      "selector": ".headerSelectors--Item",
+      "declarations": "color:var(--primary_text);"
+    },
+    {
+      "source": "https://www.sjobergs.se/cdn/shop/t/9/assets/base.min.css?v=113295045516294264651771793344",
+      "selector": ".u-h1,.rte h1,.u-h1 p,.rte.u-h1 strong,.rte.u-h1 em,.rte.u-h1 time,.rte.u-h1 a",
+      "declarations": "font-size:2.5rem;font-family:var(--type_heading_font);font-weight:var(--weight_heading_font);line-height:2.875rem;letter-spacing:0;"
+    },
+    {
+      "source": "https://www.sjobergs.se/cdn/shop/t/9/assets/base.min.css?v=113295045516294264651771793344",
+      "selector": ".Dropdown--Button[aria-expanded='true'] .Dropdown--Plus::before,.Dropdown--Button[aria-expanded='true'] .Dropdown--Plus::after",
+      "declarations": "transform:translate(-50%,-50%) rotate(90deg);background-color:var(--primary_text);"
+    },
+    {
+      "source": "https://www.sjobergs.se/cdn/shop/t/9/assets/base.min.css?v=113295045516294264651771793344",
+      "selector": ".Button--Tertiary",
+      "declarations": "position:relative;border:none;box-sizing:border-box;padding:0;justify-content:center;align-items:center;width:fit-content;display:flex;transition:all .2s ease-in-out;background-color:unset;border-color:unset;"
+    },
+    {
+      "source": "https://www.sjobergs.se/cdn/shop/t/9/assets/base.min.css?v=113295045516294264651771793344",
+      "selector": ".Button--Tertiary .ButtonText",
+      "declarations": "--bottom:0;--height:1px;background-image:linear-gradient(transparent calc(100% - var(--height)),currentColor var(--height));background-position:100% 0;background-repeat:no-repeat;background-size:100% calc(100% - var(--bottom));text-decoration:none;"
+    },
+    {
+      "source": "https://www.sjobergs.se/cdn/shop/t/9/assets/base.min.css?v=113295045516294264651771793344",
+      "selector": ".Button--Tertiary .ButtonText",
+      "declarations": "color:var(--primary_text);"
+    },
+    {
+      "source": "https://www.sjobergs.se/cdn/shop/t/9/assets/base.min.css?v=113295045516294264651771793344",
+      "selector": ".Button--Tertiary:hover[disabled] .ButtonText,.Button--Tertiary[disabled] .ButtonText",
+      "declarations": "color:transparent;"
+    },
+    {
+      "source": "https://www.sjobergs.se/cdn/shop/t/9/assets/base.min.css?v=113295045516294264651771793344",
+      "selector": ".Button--PrimaryOnLight",
+      "declarations": "background-color:var(--btn_primary_on_light_bg);color:var(--btn_primary_on_light_txt);border-color:var(--btn_primary_on_light_border);"
+    },
+    {
+      "source": "https://www.sjobergs.se/cdn/shop/t/9/assets/base.min.css?v=113295045516294264651771793344",
+      "selector": ".Button--PrimaryOnLight .ButtonText",
+      "declarations": "color:var(--btn_primary_on_light_txt);"
+    },
+    {
+      "source": "https://www.sjobergs.se/cdn/shop/t/9/assets/base.min.css?v=113295045516294264651771793344",
+      "selector": ".Button--PrimaryOnDark",
+      "declarations": "background-color:var(--btn_primary_on_dark_bg);border-color:var(--btn_primary_on_dark_border);color:var(--btn_primary_on_dark_txt);"
+    },
+    {
+      "source": "https://www.sjobergs.se/cdn/shop/t/9/assets/base.min.css?v=113295045516294264651771793344",
+      "selector": ".Button--PrimaryOnDark .ButtonText",
+      "declarations": "color:var(--btn_primary_on_dark_txt);"
+    },
+    {
+      "source": "https://www.sjobergs.se/cdn/shop/t/9/assets/base.min.css?v=113295045516294264651771793344",
+      "selector": ".Button--Secondary",
+      "declarations": "background-color:transparent;color:var(--primary_text);border-color:var(--primary_grey);"
+    },
+    {
+      "source": "https://www.sjobergs.se/cdn/shop/t/9/assets/base.min.css?v=113295045516294264651771793344",
+      "selector": ".Button--Secondary .ButtonText",
+      "declarations": "color:var(--primary_text);"
+    },
+    {
+      "source": "https://www.sjobergs.se/cdn/shop/t/9/assets/base.min.css?v=113295045516294264651771793344",
+      "selector": ".Button--PrimaryOnLight:active",
+      "declarations": "background-color:var(--btn_primary_on_light_bg_hover);border-color:var(--btn_primary_on_light_border_hover);"
+    },
+    {
+      "source": "https://www.sjobergs.se/cdn/shop/t/9/assets/base.min.css?v=113295045516294264651771793344",
+      "selector": ".Button--PrimaryOnLight:active .ButtonText",
+      "declarations": "color:var(--btn_primary_on_light_txt_hover);"
+    },
+    {
+      "source": "https://www.sjobergs.se/cdn/shop/t/9/assets/base.min.css?v=113295045516294264651771793344",
+      "selector": ".Button--PrimaryOnDark:active",
+      "declarations": "background-color:var(--btn_primary_on_dark_bg_hover);border-color:var(--btn_primary_on_dark_border_hover);"
+    },
+    {
+      "source": "https://www.sjobergs.se/cdn/shop/t/9/assets/base.min.css?v=113295045516294264651771793344",
+      "selector": ".Button--PrimaryOnDark:active .ButtonText",
+      "declarations": "color:var(--btn_primary_on_dark_txt_hover);"
+    },
+    {
+      "source": "https://www.sjobergs.se/cdn/shop/t/9/assets/base.min.css?v=113295045516294264651771793344",
+      "selector": ".Button--Secondary:active",
+      "declarations": "background-color:var(--primary_accent);border-color:var(--primary_accent);"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Arbetsbänkar för hantverk och skola – Sjöbergs Workbenches",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sjobergs.se/sv-se",
+        "https://www.sjobergs.se/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sjobergs.se/sv-se",
+        "https://www.sjobergs.se/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0eb2f-ef2b-7f91-b4af-926f17a7c54b/judgeme-765/assets/shopify_v2.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "colors.secondary-accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "colors.tertiary-accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "colors.primary-grey": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "colors.secondary-grey": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "colors.error": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "colors.sold-out-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "colors.label-new-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sjobergs.se/sv-se"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.price-tag": {
+      "status": "inferred"
+    }
+  }
+}

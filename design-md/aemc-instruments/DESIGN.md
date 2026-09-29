@@ -1,13 +1,17 @@
 ---
 version: alpha
-name: AEMC Instruments
-description: Safety yellow (#ffd100) occupies every primary CTA and nav accent at AEMC — the same hue stenciled on high-voltage warning placards appears in category banners and search submit buttons, closing the perceptual gap between the physical clamp meter on a technician's belt clip and the catalog page that sold it. Dark charcoal (#3c404d) carries structural weight: top navigation, body text, and footer chrome all run at this near-black depth, lending the interface the gravity of a calibration data sheet rather than a retail landing page. Two pale sky tints (#7fcdfe, #aadeff) appear selectively in product photography overlays and accent zones, echoing the backlit LCD readouts on AEMC's panel meters and power analyzers. The silver-gray (#c1ccd0) occupies spec table headers, input borders, and divider lines — reading like anodized aluminum against the white product-page canvas. A secondary warm yellow (#ffde00) sits adjacent to the primary, providing a soft hover graduation without breaking the electrical-signal palette.
+name: "AEMC Instruments"
+source_url: "https://www.aemc.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Safety yellow (#ffd100) occupies every primary CTA and nav accent at AEMC — the same hue stenciled on high-voltage warning placards appears in category banners and search submit buttons, closing the perceptual gap between the physical clamp meter on a technician's belt clip and the catalog page that sold it. Dark charcoal (#3c404d) carries structural weight: top navigation, body text, and footer chrome all run at this near-black depth, lending the interface the gravity of a calibration data sheet rather than a retail landing page. Two pale sky tints (#7fcdfe, #aadeff) appear selectively in product photography overlays and accent zones, echoing the backlit LCD readouts on AEMC's panel meters and power analyzers. The silver-gray (#c1ccd0) occupies spec table headers, input borders, and divider lines — reading like anodized aluminum against the white product-page canvas. A secondary warm yellow (#ffde00) sits adjacent to the primary, providing a soft hover graduation without breaking the electrical-signal palette.
 
-Typography lands on Calibri and Arial at controlled weights with no decorative cuts anywhere. Display headings reach 36px at weight 700; body runs 14px at weight 400; uppercase letter-spacing on spec-label rows and product-number callouts signals the engineering register the brand inhabits. Nothing displays at the oversized proportions common to consumer storefronts — an engineer scanning measurement ranges and CAT ratings needs density, not drama.
+  Typography lands on Calibri and Arial at controlled weights with no decorative cuts anywhere. Display headings reach 36px at weight 700; body runs 14px at weight 400; uppercase letter-spacing on spec-label rows and product-number callouts signals the engineering register the brand inhabits. Nothing displays at the oversized proportions common to consumer storefronts — an engineer scanning measurement ranges and CAT ratings needs density, not drama.
 
-Corner radii hold at a blunt {rounded.xs} (4px) across buttons, inputs, cards, and filter tiles. Nothing pills or rounds dramatically; the geometry sits closer to the square housing of a switchboard instrument than the softened forms of a lifestyle app. Hairline borders at {colors.hairline} trace product card perimeters and spec table rows without adding visual noise.
+  Corner radii hold at a blunt {rounded.xs} (4px) across buttons, inputs, cards, and filter tiles. Nothing pills or rounds dramatically; the geometry sits closer to the square housing of a switchboard instrument than the softened forms of a lifestyle app. Hairline borders at {colors.hairline} trace product card perimeters and spec table rows without adding visual noise.
 
-The information hierarchy puts product family, model number, and key measurement ranges into view before any headline copy. Filter panels run left-rail in category views, scoped by measurement type and product line. Specification tables dominate detail pages — accuracy class, CAT rating, compliance standard, and measurement range rows precede marketing prose. Hero sections use the dark charcoal field with yellow headline accents and white body type, producing high contrast that reads as authoritative rather than alarming.
+  The information hierarchy puts product family, model number, and key measurement ranges into view before any headline copy. Filter panels run left-rail in category views, scoped by measurement type and product line. Specification tables dominate detail pages — accuracy class, CAT rating, compliance standard, and measurement range rows precede marketing prose. Hero sections use the dark charcoal field with yellow headline accents and white body type, producing high contrast that reads as authoritative rather than alarming.
 
 colors:
   primary: "#ffd100"
@@ -388,6 +392,8 @@ components:
 - Category tile grid collapses from 4-across → 2-across → 1-across through breakpoints
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom brand typeface detected — site uses system stack (Calibri, Arial, Helvetica). No OpenType features, variable-font axes, or licensed display weights can be confirmed; all typographic tokens are derived from system font behavior
 - Hyperlink body-text color not reliably extracted; `{colors.accent-sky}` family used as proxy — actual link treatment may use a standard browser default or a distinct dark-blue not present in the extracted palette

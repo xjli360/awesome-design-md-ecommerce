@@ -1,13 +1,17 @@
 ---
 version: alpha
-name: Novo Guitars
-description: Novo Guitars lands on a canvas the color of aged bone — #e8e8e1, a warm off-white that registers less as a website background and more as the cream binding on a 1950s archtop. Against this understated ground, Open Sans carries all text at practical weights, a deliberate voice for a maker whose instruments do the speaking. The single voltage color is #ffde16, a chrome-yellow that reads as headstock-bright — not playful, not corporate, but metallically specific, the hue of a vintage Kluson tuner button or a well-lit selector switch cap. Primary CTAs fire in this yellow against near-black #231f20 ink, a lacquer-meets-binding contrast pair that sidesteps tech-brand convention entirely.
+name: "Novo Guitars"
+source_url: "https://www.novoguitars.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Novo Guitars lands on a canvas the color of aged bone — #e8e8e1, a warm off-white that registers less as a website background and more as the cream binding on a 1950s archtop. Against this understated ground, Open Sans carries all text at practical weights, a deliberate voice for a maker whose instruments do the speaking. The single voltage color is #ffde16, a chrome-yellow that reads as headstock-bright — not playful, not corporate, but metallically specific, the hue of a vintage Kluson tuner button or a well-lit selector switch cap. Primary CTAs fire in this yellow against near-black #231f20 ink, a lacquer-meets-binding contrast pair that sidesteps tech-brand convention entirely.
 
-The palette is essentially monochromatic with that one yellow accent. Near-blacks (#231f20, #1c1d1d, #121212) build depth gradations — navigation sits darker, card surfaces lighter. Medium grays (#444444, #dedede) anchor body copy and hairlines without introducing color distraction. The warm off-white canvas (#e8e8e1) carries tonal heat that straight white cannot, linking the digital surface to the warmth of nitrocellulose lacquer and aged maple binding.
+  The palette is essentially monochromatic with that one yellow accent. Near-blacks (#231f20, #1c1d1d, #121212) build depth gradations — navigation sits darker, card surfaces lighter. Medium grays (#444444, #dedede) anchor body copy and hairlines without introducing color distraction. The warm off-white canvas (#e8e8e1) carries tonal heat that straight white cannot, linking the digital surface to the warmth of nitrocellulose lacquer and aged maple binding.
 
-Corner radii are sparse — a {rounded.sm} 4px for inputs and cards, nothing pill-shaped. The spatial grammar is guitar-workshop: deliberate, wide-breathing, each model given enough room to read as an artifact rather than a catalog entry. Section padding is generous ({spacing.section}: 64px) and photography — typically shot against neutrals that echo {colors.canvas} — anchors every page section. Specification data runs at {typography.body-sm} inside structured grids that recall a printed hang-tag, not a dashboard widget.
+  Corner radii are sparse — a {rounded.sm} 4px for inputs and cards, nothing pill-shaped. The spatial grammar is guitar-workshop: deliberate, wide-breathing, each model given enough room to read as an artifact rather than a catalog entry. Section padding is generous ({spacing.section}: 64px) and photography — typically shot against neutrals that echo {colors.canvas} — anchors every page section. Specification data runs at {typography.body-sm} inside structured grids that recall a printed hang-tag, not a dashboard widget.
 
-What separates Novo from mass-market guitar storefronts is the refusal to aestheticize through busyness. The #ffde16 accent appears at most once per viewport. There are no mega-menus, no icon-heavy chrome, no badge storms — just model names, series categories, and clean photography as navigation anchors. The brand assumes visitors arrive knowing what they want; the site's work is to present instruments with the same care the maker brings to shaping a neck heel. A boutique register, executed in Open Sans and bone-white.
+  What separates Novo from mass-market guitar storefronts is the refusal to aestheticize through busyness. The #ffde16 accent appears at most once per viewport. There are no mega-menus, no icon-heavy chrome, no badge storms — just model names, series categories, and clean photography as navigation anchors. The brand assumes visitors arrive knowing what they want; the site's work is to present instruments with the same care the maker brings to shaping a neck heel. A boutique register, executed in Open Sans and bone-white.
 
 colors:
   primary: "#ffde16"
@@ -303,6 +307,8 @@ components:
 - Hero text moves below the image on mobile (stacked block layout) rather than overlapping the photograph
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Font stack shows Open Sans only — no custom display or heading typeface detected; brand may use a stylized wordmark font loaded as SVG or image asset that extraction cannot capture
 - Many near-duplicate orange hex values (#f48120, #f58720, #f89f20, #f68d20, #f79a20, etc.) likely originate from payment-processor badge icons (PayPal, Shop Pay gradient) rather than the brand palette — only #ffde16 and the near-black/off-white range are treated as brand colors

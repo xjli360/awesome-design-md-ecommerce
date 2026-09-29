@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: KiwiCo
-description: A green voltage of #07b261 runs through every primary CTA, subscription badge, and age-bracket pill, while a secondary spark of #d33600 ignites sale banners and urgency markers — the brand uses color as a signal system for action, not just decoration. The typography stack leans on Centra, a geometric sans-serif with a friendly circular 'O' and open apertures, set at moderate weights (500–600) rather than heavy 700+ that would feel too serious for a kids' brand. Product cards float on a #f6fbfe canvas with soft shadows and {rounded.lg} corners, each one displaying a crisp age range badge in the primary green and a playful product name in display type. The subscription flow, the brand's core conversion engine, uses a three-step progress bar with numbered circles filled in #07b261 and a pill-shaped "Get started" button that repeats the same green — no secondary color competes for attention during checkout. Illustrations of smiling molecules, gears, and animals appear throughout category headers and empty states, drawn in a flat vector style with the brand's accent palette (#dbb300 for curiosity sparks, #da532c for energy). The overall feel is that of a clean, well-lit classroom where every corner has something bright to discover — generous whitespace, no hard corners on interactive elements, and a color system that tells you exactly where to tap next.
+name: "KiwiCo"
+source_url: "https://www.kiwico.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A green voltage of #07b261 runs through every primary CTA, subscription badge, and age-bracket pill, while a secondary spark of #d33600 ignites sale banners and urgency markers — the brand uses color as a signal system for action, not just decoration. The typography stack leans on Centra, a geometric sans-serif with a friendly circular 'O' and open apertures, set at moderate weights (500–600) rather than heavy 700+ that would feel too serious for a kids' brand. Product cards float on a #f6fbfe canvas with soft shadows and {rounded.lg} corners, each one displaying a crisp age range badge in the primary green and a playful product name in display type. The subscription flow, the brand's core conversion engine, uses a three-step progress bar with numbered circles filled in #07b261 and a pill-shaped "Get started" button that repeats the same green — no secondary color competes for attention during checkout. Illustrations of smiling molecules, gears, and animals appear throughout category headers and empty states, drawn in a flat vector style with the brand's accent palette (#dbb300 for curiosity sparks, #da532c for energy). The overall feel is that of a clean, well-lit classroom where every corner has something bright to discover — generous whitespace, no hard corners on interactive elements, and a color system that tells you exactly where to tap next.
 
 colors:
   primary: "#07b261"
@@ -348,6 +352,8 @@ components:
 - Subscription progress steps stack vertically on mobile instead of horizontal
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components could not be fully extracted; only primary button and product card hover states are confirmed
 - Error state styling for forms (colors, icons, animation) is inferred from the accent-orange color but not verified

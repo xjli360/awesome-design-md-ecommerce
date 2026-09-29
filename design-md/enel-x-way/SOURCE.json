@@ -1,0 +1,938 @@
+{
+  "source_url": "https://enelxway.com",
+  "final_url": "https://www.enelxway.com/",
+  "captured_at": "2026-09-28T04:59:31.041332+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://enelxway.com",
+      "final_url": "https://www.enelxway.com/",
+      "http_status": 200,
+      "content_type": "text/html;charset=utf-8",
+      "sha256": "868a191d9f868b3171fe44fef6115b4f43288d02417c99b9e912e86c0c7ca2b2",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@9.0.3/dist/css/autoComplete.min.css",
+      "final_url": "https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@9.0.3/dist/css/autoComplete.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "328f65b6d2055655e6472800d78976ac58c584d9303504e5cbee3edd5dde5a13",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+      "final_url": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "632c7a8b0fa72940c7aefa1257aa20002cf41173f7177ed148803690b8aa6cb6",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-site.lc-210218577d7e7a158c0fb8006797a065-lc.css",
+      "final_url": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-site.lc-210218577d7e7a158c0fb8006797a065-lc.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "3dc64e2452b9baf16c123e8750c09a360149d47f42d87324b1519745cfa1a066",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-cif.lc-ac744a4122b98d5fa93497ae426082b3-lc.css",
+      "final_url": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-cif.lc-ac744a4122b98d5fa93497ae426082b3-lc.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "2ca7e366e1cfc85ef61e6134be1157c4243067e3345ac1c72121f07a9984a431",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-commerce.lc-897fdd770bd4eadafd49bb347cfca8e4-lc.css",
+      "final_url": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-commerce.lc-897fdd770bd4eadafd49bb347cfca8e4-lc.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "d8d25f1e67cd4943a7683354d35f74aed3b0e65d6dd74a5a2fd824057a0d2a82",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 595,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@9.0.3/dist/css/autoComplete.min.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-site.lc-210218577d7e7a158c0fb8006797a065-lc.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-commerce.lc-897fdd770bd4eadafd49bb347cfca8e4-lc.css"
+      ]
+    },
+    "#5738ff": {
+      "count": 253,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-site.lc-210218577d7e7a158c0fb8006797a065-lc.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-commerce.lc-897fdd770bd4eadafd49bb347cfca8e4-lc.css"
+      ]
+    },
+    "#461e7d": {
+      "count": 139,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#c2cddd": {
+      "count": 127,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-site.lc-210218577d7e7a158c0fb8006797a065-lc.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-commerce.lc-897fdd770bd4eadafd49bb347cfca8e4-lc.css"
+      ]
+    },
+    "#667790": {
+      "count": 125,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-site.lc-210218577d7e7a158c0fb8006797a065-lc.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-commerce.lc-897fdd770bd4eadafd49bb347cfca8e4-lc.css"
+      ]
+    },
+    "#333333": {
+      "count": 117,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-site.lc-210218577d7e7a158c0fb8006797a065-lc.css"
+      ]
+    },
+    "#d025ab": {
+      "count": 105,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#313b49": {
+      "count": 73,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-site.lc-210218577d7e7a158c0fb8006797a065-lc.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-commerce.lc-897fdd770bd4eadafd49bb347cfca8e4-lc.css"
+      ]
+    },
+    "#000103": {
+      "count": 70,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-site.lc-210218577d7e7a158c0fb8006797a065-lc.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-commerce.lc-897fdd770bd4eadafd49bb347cfca8e4-lc.css"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 49,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#212529": {
+      "count": 47,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#828282": {
+      "count": 46,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#000000": {
+      "count": 44,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-site.lc-210218577d7e7a158c0fb8006797a065-lc.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-commerce.lc-897fdd770bd4eadafd49bb347cfca8e4-lc.css"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 42,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-site.lc-210218577d7e7a158c0fb8006797a065-lc.css"
+      ]
+    },
+    "#eff2f7": {
+      "count": 42,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-site.lc-210218577d7e7a158c0fb8006797a065-lc.css"
+      ]
+    },
+    "#ff006e": {
+      "count": 41,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#4f4f4f": {
+      "count": 36,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#6c757d": {
+      "count": 35,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#3a16ff": {
+      "count": 34,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#4d1fd4": {
+      "count": 31,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-site.lc-210218577d7e7a158c0fb8006797a065-lc.css"
+      ]
+    },
+    "#2afd95": {
+      "count": 29,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#2cfef9": {
+      "count": 23,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#b6b8f7": {
+      "count": 22,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-site.lc-210218577d7e7a158c0fb8006797a065-lc.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 21,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#3a179f": {
+      "count": 21,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#e9ecef": {
+      "count": 19,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#e9e5ff": {
+      "count": 19,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-site.lc-210218577d7e7a158c0fb8006797a065-lc.css"
+      ]
+    },
+    "#f7f8fb": {
+      "count": 18,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 18,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#fef367": {
+      "count": 17,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#cecece": {
+      "count": 17,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#9c9ff4": {
+      "count": 17,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#495057": {
+      "count": 13,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#ef2ac1": {
+      "count": 12,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-commerce.lc-897fdd770bd4eadafd49bb347cfca8e4-lc.css"
+      ]
+    },
+    "#dee2e6": {
+      "count": 12,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#dcddff": {
+      "count": 10,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#1c1e20": {
+      "count": 9,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#bdbdbd": {
+      "count": 8,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#adb5bd": {
+      "count": 6,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#ed0529": {
+      "count": 6,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-site.lc-210218577d7e7a158c0fb8006797a065-lc.css"
+      ]
+    },
+    "#ced4da": {
+      "count": 5,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#d1c9ff": {
+      "count": 5,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#1e0b85": {
+      "count": 5,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#383d41": {
+      "count": 5,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#16844d": {
+      "count": 5,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#178481": {
+      "count": 5,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#847e36": {
+      "count": 5,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#850039": {
+      "count": 5,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#656b73": {
+      "count": 5,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#191f26": {
+      "count": 5,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#c4c4c4": {
+      "count": 5,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#f4f8ff": {
+      "count": 5,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-site.lc-210218577d7e7a158c0fb8006797a065-lc.css"
+      ]
+    },
+    "#d6d6d6": {
+      "count": 4,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#1f00c9": {
+      "count": 4,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#d6d8db": {
+      "count": 4,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#a696ff": {
+      "count": 4,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#2300e2": {
+      "count": 4,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#545b62": {
+      "count": 4,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#02f27c": {
+      "count": 4,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "#01f6f0": {
+      "count": 4,
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+    ],
+    "Arial": [
+      "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+    ],
+    "Avenir": [
+      "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+    ],
+    "BlinkMacSystemFont": [
+      "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+    ],
+    "Consolas": [
+      "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+    ],
+    "Courier New": [
+      "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+    ],
+    "Helvetica Neue": [
+      "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+    ],
+    "Liberation Mono": [
+      "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+    ],
+    "Menlo": [
+      "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+    ],
+    "Monaco": [
+      "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+    ],
+    "Noto Sans": [
+      "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+    ],
+    "Roboto": [
+      "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+    ],
+    "Roobert ENEL": [
+      "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+      "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-site.lc-210218577d7e7a158c0fb8006797a065-lc.css",
+      "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-commerce.lc-897fdd770bd4eadafd49bb347cfca8e4-lc.css"
+    ],
+    "Roobert ENEL !important": [
+      "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-commerce.lc-897fdd770bd4eadafd49bb347cfca8e4-lc.css"
+    ],
+    "RoobertENEL-Black": [
+      "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-site.lc-210218577d7e7a158c0fb8006797a065-lc.css"
+    ],
+    "RoobertENEL-BlackItalic": [
+      "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-site.lc-210218577d7e7a158c0fb8006797a065-lc.css"
+    ],
+    "RoobertENEL-Bold": [
+      "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-site.lc-210218577d7e7a158c0fb8006797a065-lc.css"
+    ],
+    "RoobertENEL-Bold!important": [
+      "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-site.lc-210218577d7e7a158c0fb8006797a065-lc.css"
+    ],
+    "RoobertENEL-BoldItalic": [
+      "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-site.lc-210218577d7e7a158c0fb8006797a065-lc.css"
+    ],
+    "RoobertENEL-Light": [
+      "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-site.lc-210218577d7e7a158c0fb8006797a065-lc.css"
+    ],
+    "RoobertENEL-LightItalic": [
+      "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-site.lc-210218577d7e7a158c0fb8006797a065-lc.css"
+    ],
+    "RoobertENEL-Regular": [
+      "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-site.lc-210218577d7e7a158c0fb8006797a065-lc.css"
+    ],
+    "RoobertENEL-RegularItalic": [
+      "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-site.lc-210218577d7e7a158c0fb8006797a065-lc.css"
+    ],
+    "SFMono-Regular": [
+      "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+    ],
+    "Segoe UI": [
+      "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+    ],
+    "digitalecosystem": [
+      "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+    ],
+    "digitalecosystem!important": [
+      "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+    ],
+    "monospace": [
+      "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+    ],
+    "monospace!important": [
+      "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+    ],
+    "sans-serif": [
+      "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+    ],
+    "sans-serif!important": [
+      "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+      "selector": ".owl-carousel .owl-nav button.owl-next,.owl-carousel .owl-nav button.owl-prev,.owl-carousel button.owl-dot",
+      "declarations": "background:0 0;color:inherit;border:none;padding:0!important;font:inherit"
+    },
+    {
+      "source": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+      "selector": ":root",
+      "declarations": "--animate-duration:1s;--animate-delay:1s;--animate-repeat:1"
+    },
+    {
+      "source": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+      "selector": ":root",
+      "declarations": "--blue:#3a16ff;--indigo:#6610f2;--purple:#6f42c1;--pink:#ef2ac1;--red:#ff006e;--orange:#fd6600;--yellow:#fef367;--green:#2afd95;--teal:#20c997;--cyan:#2cfef9;--white:#fff;--gray:#6c757d;--gray-dark:#343a40;--primary:#3a16ff;--secondary:#6c757d;--success:#2afd95;--info:#2cfef9;--warning:#fef367;--danger:#ff006e;--light:#c2cddd;--dark:#313b49;--breakpoint-xxxs:0px;--breakpoint-xxs:280px;--breakpoint-xs:320px;--breakpoint-sm:360px;--breakpoint-s:576px;--breakpoint-md:768px;--breakpoint-lg-new:1024px;--breakpoint-lg:1025px;--breakpoint-xl:1200px;--breakpoint-xxl:1440px;--font-family-sans-serif:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"Noto Sans\",sans-serif,\"Apple"
+    },
+    {
+      "source": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+      "selector": "body",
+      "declarations": "margin:0;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;font-size:1rem;font-weight:400;line-height:1.5;color:#212529;text-align:left;background-color:#fff"
+    },
+    {
+      "source": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "margin:0;font-family:inherit;font-size:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+      "selector": ".table-striped tbody tr:nth-of-type(odd)",
+      "declarations": "background-color:rgba(0,0,0,.05)"
+    },
+    {
+      "source": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+      "selector": ".table-hover tbody tr:hover",
+      "declarations": "color:#212529;background-color:rgba(0,0,0,.075)"
+    },
+    {
+      "source": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+      "selector": ".table-primary tbody+tbody,.table-primary td,.table-primary th,.table-primary thead th",
+      "declarations": "border-color:#9986ff"
+    },
+    {
+      "source": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+      "selector": ".table-secondary tbody+tbody,.table-secondary td,.table-secondary th,.table-secondary thead th",
+      "declarations": "border-color:#b3b7bb"
+    },
+    {
+      "source": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+      "selector": ".table-success tbody+tbody,.table-success td,.table-success th,.table-success thead th",
+      "declarations": "border-color:#90fec8"
+    },
+    {
+      "source": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+      "selector": ".table-info tbody+tbody,.table-info td,.table-info th,.table-info thead th",
+      "declarations": "border-color:#91fefc"
+    },
+    {
+      "source": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+      "selector": ".table-warning tbody+tbody,.table-warning td,.table-warning th,.table-warning thead th",
+      "declarations": "border-color:#fef9b0"
+    },
+    {
+      "source": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+      "selector": ".table-danger tbody+tbody,.table-danger td,.table-danger th,.table-danger thead th",
+      "declarations": "border-color:#ff7ab4"
+    },
+    {
+      "source": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+      "selector": ".table-light tbody+tbody,.table-light td,.table-light th,.table-light thead th",
+      "declarations": "border-color:#dfe5ed"
+    },
+    {
+      "source": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+      "selector": ".table-dark tbody+tbody,.table-dark td,.table-dark th,.table-dark thead th",
+      "declarations": "border-color:#9499a0"
+    },
+    {
+      "source": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+      "selector": ".table-dark.table-striped tbody tr:nth-of-type(odd)",
+      "declarations": "background-color:hsla(0,0%,100%,.05)"
+    },
+    {
+      "source": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+      "selector": ".table-dark.table-hover tbody tr:hover",
+      "declarations": "color:#fff;background-color:hsla(0,0%,100%,.075)"
+    },
+    {
+      "source": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+      "selector": ".btn",
+      "declarations": "display:inline-block;font-weight:400;color:#212529;text-align:center;vertical-align:middle;cursor:pointer;user-select:none;background-color:transparent;border:1px solid transparent;padding:.375rem .75rem;font-size:1rem;line-height:1.5;border-radius:.25rem;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out"
+    },
+    {
+      "source": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+      "selector": ".btn:hover",
+      "declarations": "color:#212529;text-decoration:none"
+    },
+    {
+      "source": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+      "selector": ".btn-primary",
+      "declarations": "color:#fff;background-color:#3a16ff;border-color:#3a16ff"
+    },
+    {
+      "source": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+      "selector": ".btn-primary.focus,.btn-primary:focus,.btn-primary:hover",
+      "declarations": "color:#fff;background-color:#2500ef;border-color:#2300e2"
+    },
+    {
+      "source": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+      "selector": ".btn-primary.disabled,.btn-primary:disabled",
+      "declarations": "color:#fff;background-color:#3a16ff;border-color:#3a16ff"
+    },
+    {
+      "source": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+      "selector": ".btn-primary:not(:disabled):not(.disabled).active,.btn-primary:not(:disabled):not(.disabled):active,.show>.btn-primary.dropdown-toggle",
+      "declarations": "color:#fff;background-color:#2300e2;border-color:#2100d5"
+    },
+    {
+      "source": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+      "selector": ".btn-secondary",
+      "declarations": "color:#fff;background-color:#6c757d;border-color:#6c757d"
+    },
+    {
+      "source": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+      "selector": ".btn-secondary.focus,.btn-secondary:focus,.btn-secondary:hover",
+      "declarations": "color:#fff;background-color:#5a6268;border-color:#545b62"
+    },
+    {
+      "source": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+      "selector": ".btn-secondary.disabled,.btn-secondary:disabled",
+      "declarations": "color:#fff;background-color:#6c757d;border-color:#6c757d"
+    },
+    {
+      "source": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+      "selector": ".btn-secondary:not(:disabled):not(.disabled).active,.btn-secondary:not(:disabled):not(.disabled):active,.show>.btn-secondary.dropdown-toggle",
+      "declarations": "color:#fff;background-color:#545b62;border-color:#4e555b"
+    },
+    {
+      "source": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+      "selector": ".btn-success",
+      "declarations": "color:#212529;background-color:#2afd95;border-color:#2afd95"
+    },
+    {
+      "source": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+      "selector": ".btn-success.focus,.btn-success:focus,.btn-success:hover",
+      "declarations": "color:#212529;background-color:#04fd82;border-color:#02f27c"
+    },
+    {
+      "source": "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+      "selector": ".btn-success.disabled,.btn-success:disabled",
+      "declarations": "color:#212529;background-color:#2afd95;border-color:#2afd95"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Enel X Way",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@9.0.3/dist/css/autoComplete.min.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-site.lc-210218577d7e7a158c0fb8006797a065-lc.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-commerce.lc-897fdd770bd4eadafd49bb347cfca8e4-lc.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-site.lc-210218577d7e7a158c0fb8006797a065-lc.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-site.lc-210218577d7e7a158c0fb8006797a065-lc.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@9.0.3/dist/css/autoComplete.min.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-site.lc-210218577d7e7a158c0fb8006797a065-lc.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-commerce.lc-897fdd770bd4eadafd49bb347cfca8e4-lc.css"
+      ]
+    },
+    "colors.secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "colors.accent-magenta": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-commerce.lc-897fdd770bd4eadafd49bb347cfca8e4-lc.css"
+      ]
+    },
+    "colors.accent-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "colors.accent-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "colors.accent-cyan": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "colors.dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-site.lc-210218577d7e7a158c0fb8006797a065-lc.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-commerce.lc-897fdd770bd4eadafd49bb347cfca8e4-lc.css"
+      ]
+    },
+    "colors.light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-site.lc-210218577d7e7a158c0fb8006797a065-lc.css",
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-commerce.lc-897fdd770bd4eadafd49bb347cfca8e4-lc.css"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.enelxway.com/etc.clientlibs/enelxmobility/clientlibs/clientlib-base.lc-5a6a63ae34ade41ec512d5aedc27b433-lc.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-table": {
+      "status": "inferred"
+    }
+  }
+}

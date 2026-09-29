@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: J-List
-description: A deep-catalog anime and Japanese pop-culture storefront that runs on a high-contrast, information-dense grid anchored by a deep-navy ink (#163959) and a single red voltage (#bd2426) that marks every add-to-cart, sale badge, and critical action. The palette is surprisingly industrial for a hobbyist brand — the extracted hexes show a heavy reliance on cool grays (#404040, #595959, #737373) and crisp whites (#ebebeb, #dedede) that give the site the feel of a well-organized warehouse rather than a fan-art gallery. Blue accents (#62a1d8, #2f7bbf, #0051c3) appear in navigation and link states, while a muted green (#9bca3e, #bada7a, #516b1d) signals stock availability and pre-order status. The type system defaults to system fonts (Arial, Helvetica Neue, Roboto) with a monospace fallback for code-like elements, suggesting an engineer-built experience that prioritizes load speed and readability over brand typography. Buttons are sharp-cornered (`{rounded.none}`) for primary actions and softly rounded (`{rounded.sm}`) for secondary, creating a visual hierarchy that says "this is a functional tool, not a toy." The product grid is dense — thumbnails at 200px with tight 8px gutters — and each card carries a red price badge, a green stock indicator, and a small-font title in 13px body text. The overall effect is utilitarian, trustworthy, and built for the power user who knows exactly what they want.
+name: "J-List"
+source_url: "https://www.jlist.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep-catalog anime and Japanese pop-culture storefront that runs on a high-contrast, information-dense grid anchored by a deep-navy ink (#163959) and a single red voltage (#bd2426) that marks every add-to-cart, sale badge, and critical action. The palette is surprisingly industrial for a hobbyist brand — the extracted hexes show a heavy reliance on cool grays (#404040, #595959, #737373) and crisp whites (#ebebeb, #dedede) that give the site the feel of a well-organized warehouse rather than a fan-art gallery. Blue accents (#62a1d8, #2f7bbf, #0051c3) appear in navigation and link states, while a muted green (#9bca3e, #bada7a, #516b1d) signals stock availability and pre-order status. The type system defaults to system fonts (Arial, Helvetica Neue, Roboto) with a monospace fallback for code-like elements, suggesting an engineer-built experience that prioritizes load speed and readability over brand typography. Buttons are sharp-cornered (`{rounded.none}`) for primary actions and softly rounded (`{rounded.sm}`) for secondary, creating a visual hierarchy that says "this is a functional tool, not a toy." The product grid is dense — thumbnails at 200px with tight 8px gutters — and each card carries a red price badge, a green stock indicator, and a small-font title in 13px body text. The overall effect is utilitarian, trustworthy, and built for the power user who knows exactly what they want.
 
 colors:
   primary: "#bd2426"
@@ -432,6 +436,8 @@ components:
 - Hero banner text and CTA stack vertically at < 744px instead of the desktop side-by-side layout
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for text inputs, select inputs, and search bars could not be reliably extracted from the live site — the extracted CSS may not have included `:focus` or `:hover` pseudo-class styles
 - Error state styling for form inputs (red border, error message typography) was not present in the extracted data

@@ -1,0 +1,814 @@
+{
+  "source_url": "https://bobochoses.com",
+  "final_url": "https://bobochoses.com/",
+  "captured_at": "2026-09-28T09:21:11.058493+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://bobochoses.com",
+      "final_url": "https://bobochoses.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "ec90d3159c1b7c94d149693c20c6a90674c6c5a594382825db5ea861d67e9ef2",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://bobochoses.com/cdn/shop/t/19/assets/klevu-theme-moss.css?v=165552718233529106591779866491",
+      "final_url": "https://bobochoses.com/cdn/shop/t/19/assets/klevu-theme-moss.css?v=165552718233529106591779866491",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "19e95f952fdbd47b61d1d47a9e0377197e9fae9f431ed49ab2c44c7d67cc754d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://bobochoses.com/cdn/shop/t/19/assets/custom-bobo-klevu.css?v=110123447824222990731762935096",
+      "final_url": "https://bobochoses.com/cdn/shop/t/19/assets/custom-bobo-klevu.css?v=110123447824222990731762935096",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e7a1c18620e423b43dedd2069f60c2a130455a68dea2647b4d3a2f32c41caf31",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://bobochoses.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://bobochoses.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://bobochoses.com/cdn/shop/t/19/assets/base.css?v=178431039512352517571757488026",
+      "final_url": "https://bobochoses.com/cdn/shop/t/19/assets/base.css?v=178431039512352517571757488026",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f13b6ef75a206cf8f5fa7c3f2c6060c06e03401fabe64ddd45b2e55569e45612",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://bobochoses.com/cdn/shop/t/19/assets/custom-cookiebot.css?v=102425374013648406341751268221",
+      "final_url": "https://bobochoses.com/cdn/shop/t/19/assets/custom-cookiebot.css?v=102425374013648406341751268221",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "04c2337c3912d9cb107608d8a42102c7f202df4db5cbfc092461824970a9daf1",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 36,
+      "sources": [
+        "https://bobochoses.com/",
+        "https://bobochoses.com/cdn/shop/t/19/assets/klevu-theme-moss.css?v=165552718233529106591779866491",
+        "https://bobochoses.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://bobochoses.com/cdn/shop/t/19/assets/base.css?v=178431039512352517571757488026",
+        "https://bobochoses.com/cdn/shop/t/19/assets/custom-cookiebot.css?v=102425374013648406341751268221"
+      ]
+    },
+    "#181818": {
+      "count": 36,
+      "sources": [
+        "https://bobochoses.com/",
+        "https://bobochoses.com/cdn/shop/t/19/assets/custom-bobo-klevu.css?v=110123447824222990731762935096",
+        "https://bobochoses.com/cdn/shop/t/19/assets/custom-cookiebot.css?v=102425374013648406341751268221"
+      ]
+    },
+    "#089562": {
+      "count": 32,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#000000": {
+      "count": 23,
+      "sources": [
+        "https://bobochoses.com/",
+        "https://bobochoses.com/cdn/shop/t/19/assets/base.css?v=178431039512352517571757488026"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 18,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#020202": {
+      "count": 15,
+      "sources": [
+        "https://bobochoses.com/",
+        "https://bobochoses.com/cdn/shop/t/19/assets/base.css?v=178431039512352517571757488026"
+      ]
+    },
+    "#404040": {
+      "count": 10,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 10,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#939393": {
+      "count": 10,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#a5a5a5": {
+      "count": 10,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#373737": {
+      "count": 6,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#00a37e": {
+      "count": 5,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#ebebeb": {
+      "count": 5,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#cecece": {
+      "count": 5,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#121212": {
+      "count": 3,
+      "sources": [
+        "https://bobochoses.com/",
+        "https://bobochoses.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 3,
+      "sources": [
+        "https://bobochoses.com/",
+        "https://bobochoses.com/cdn/shop/t/19/assets/klevu-theme-moss.css?v=165552718233529106591779866491"
+      ]
+    },
+    "#ff673b": {
+      "count": 3,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#fcebea": {
+      "count": 2,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#e0342d": {
+      "count": 2,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://bobochoses.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://bobochoses.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#7a7a7a": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#d0d0d0": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#faeeb4": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#3d81d0": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#fff5ed": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#ff7249": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#f0cd16": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#54becc": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#866bd4": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#11a972": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#e87ba3": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#4d93e6": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#3d3d3d": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#e7f2f0": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#fbf1ea": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/cdn/shop/t/19/assets/klevu-theme-moss.css?v=165552718233529106591779866491"
+      ]
+    },
+    "#363636": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/cdn/shop/t/19/assets/klevu-theme-moss.css?v=165552718233529106591779866491"
+      ]
+    },
+    "#222222": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/cdn/shop/t/19/assets/klevu-theme-moss.css?v=165552718233529106591779866491"
+      ]
+    },
+    "#e7e7e7": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/cdn/shop/t/19/assets/klevu-theme-moss.css?v=165552718233529106591779866491"
+      ]
+    },
+    "#8d8d8d": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/cdn/shop/t/19/assets/klevu-theme-moss.css?v=165552718233529106591779866491"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/cdn/shop/t/19/assets/klevu-theme-moss.css?v=165552718233529106591779866491"
+      ]
+    },
+    "#5a5a5a": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/cdn/shop/t/19/assets/klevu-theme-moss.css?v=165552718233529106591779866491"
+      ]
+    },
+    "#32323266": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/cdn/shop/t/19/assets/klevu-theme-moss.css?v=165552718233529106591779866491"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#e2871c": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/cdn/shop/t/19/assets/base.css?v=178431039512352517571757488026"
+      ]
+    },
+    "#00000082": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/cdn/shop/t/19/assets/base.css?v=178431039512352517571757488026"
+      ]
+    },
+    "#a0a0a0": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/cdn/shop/t/19/assets/custom-cookiebot.css?v=102425374013648406341751268221"
+      ]
+    },
+    "#141414": {
+      "count": 1,
+      "sources": [
+        "https://bobochoses.com/cdn/shop/t/19/assets/custom-cookiebot.css?v=102425374013648406341751268221"
+      ]
+    }
+  },
+  "font_families": {
+    "Helvetica Neue": [
+      "https://bobochoses.com/",
+      "https://bobochoses.com/cdn/shop/t/19/assets/base.css?v=178431039512352517571757488026"
+    ],
+    "Helvetica Neue!important": [
+      "https://bobochoses.com/cdn/shop/t/19/assets/custom-cookiebot.css?v=102425374013648406341751268221"
+    ],
+    "Helvetica Neue\" !important": [
+      "https://bobochoses.com/",
+      "https://bobochoses.com/cdn/shop/t/19/assets/custom-bobo-klevu.css?v=110123447824222990731762935096"
+    ],
+    "inherit !important": [
+      "https://bobochoses.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://bobochoses.com/",
+      "selector": "body",
+      "declarations": "display: grid;\n        grid-template-rows: auto auto 1fr auto;\n        grid-template-columns: 100%;\n        min-height: 100%;\n        margin: 0;\n        font-size: 1.4rem;\n        line-height: 2.2rem;\n        font-family: var(--font-body-family);\n        font-style: var(--font-body-style);\n        font-weight: var(--font-body-weight);\n        -webkit-font-smoothing: antialiased;\n        -moz-osx-font-smoothing: grayscale;"
+    },
+    {
+      "source": "https://bobochoses.com/",
+      "selector": ".close-button",
+      "declarations": "width: auto;\n  background: none;\n  border: none;\n  font-size: 20px;\n  cursor: pointer;\n  color: var(--announcement-text-color, #FFF); \n  position: absolute;\n  right: 2px;\n  top: 6px;"
+    },
+    {
+      "source": "https://bobochoses.com/",
+      "selector": "t-icon-bubble .icon-cart-empty,\n      .header-menu-bobo-transparent svg.icon-search,\n      .header-menu-bobo-transparent .localization-selector.link,\n      .hea",
+      "declarations": "color: #FFFFFF;"
+    },
+    {
+      "source": "https://bobochoses.com/",
+      "selector": "n-cart-empty,\n      .header-menu-bobo-transparent:hover svg.icon-search,\n      .header-menu-bobo-transparent:hover .localization-selector.link,\n      .header-me",
+      "declarations": "color: inherit;"
+    },
+    {
+      "source": "https://bobochoses.com/",
+      "selector": "art-empty,\n      .header-menu-bobo-transparent.active svg.icon-search,\n      .header-menu-bobo-transparent.active .localization-selector.link,\n      .header-men",
+      "declarations": "color: inherit;"
+    },
+    {
+      "source": "https://bobochoses.com/",
+      "selector": ".button-1-template--19001961742669__image_banner_N4YBrj",
+      "declarations": "color: #121212!important;\n            \n            background-color: #ffffff;\n            \n                border-radius:40px;                \n            \n            height: 40px;\n            font-size: 1.6rem;\n            display: inline-flex;\n            justify-content: center;\n            align-items: center;\n            padding: 0 3rem;\n            text-decoration: none;\n            z-index: 99;"
+    },
+    {
+      "source": "https://bobochoses.com/",
+      "selector": ".button-1-template--19001961742669__image_banner_N4YBrj:hover",
+      "declarations": "color: #ffffff !important;\n                background-color: #121212 !important;\n                transition: background-color 0.3s ease, color 0.3s ease;"
+    },
+    {
+      "source": "https://bobochoses.com/",
+      "selector": "--block-count: 4;\n--ratio-percent: 125.0%;\n--ratio-percent: 125.0%;\n\n  \n  .custom-button",
+      "declarations": "display: inline-flex;\n    align-items: center;\n    justify-content: center;\n    border-radius: 40px;\n    border: none;\n    font-family: \"Helvetica Neue\";\n    font-weight: 400;\n    text-transform: none;\n    text-decoration: none;\n    cursor: pointer;\n    transition: background-color 0.2s ease, transform 0.1s ease, box-shadow 0.2s ease, width 0.2s ease;\n    outline: none;\n    position: relative;\n    white-space: nowrap;\n    margin: 0;\n    padding: 0 20px;\n    background-color: #000000;\n    color: #ffffff;\n    box-sizing: border-box;"
+    },
+    {
+      "source": "https://bobochoses.com/",
+      "selector": ".custom-button--secondary",
+      "declarations": "background-color: #ffffff;\n    color: #181818;\n    border: 1px solid #181818;"
+    },
+    {
+      "source": "https://bobochoses.com/",
+      "selector": ".custom-button--atc",
+      "declarations": "background-color: #089562;\n    color: #F8F8F8 !important;\n    border: none;"
+    },
+    {
+      "source": "https://bobochoses.com/",
+      "selector": ".custom-button--atc:hover",
+      "declarations": "background-color: #089562 !important;\n    opacity: 1 !important;"
+    },
+    {
+      "source": "https://bobochoses.com/",
+      "selector": ".custom-button--atc.is-loading,\n  .custom-button--atc.loading",
+      "declarations": "background-color: #089562 !important;"
+    },
+    {
+      "source": "https://bobochoses.com/",
+      "selector": ".custom-button--link",
+      "declarations": "display: inline-block;\n    width: auto;\n    height: auto;\n    padding: 0;\n    background: none;\n    color: #181818;\n    border: none;\n    border-radius: 2px;"
+    },
+    {
+      "source": "https://bobochoses.com/",
+      "selector": ".custom-button:hover:not(:disabled):not(.is-loading)",
+      "declarations": "background-color: #404040;"
+    },
+    {
+      "source": "https://bobochoses.com/",
+      "selector": ".custom-button--secondary:hover:not(:disabled):not(.is-loading)",
+      "declarations": "border-color: #020202;\n    background-color: #F8F8F8;"
+    },
+    {
+      "source": "https://bobochoses.com/",
+      "selector": ".custom-button--link:hover:not(:disabled):not(.is-loading)",
+      "declarations": "background: none;\n    color: #181818;"
+    },
+    {
+      "source": "https://bobochoses.com/",
+      "selector": ".custom-button--link:focus-visible:not(:disabled):not(.is-loading)",
+      "declarations": "background: none;\n    color: #181818;"
+    },
+    {
+      "source": "https://bobochoses.com/",
+      "selector": ".custom-button.custom-button--active-enabled:active:not(:disabled):not(.is-loading)",
+      "declarations": "background-color: #00a37e;\n    color: #ffffff;"
+    },
+    {
+      "source": "https://bobochoses.com/",
+      "selector": ".custom-button--secondary.custom-button--active-enabled:active:not(:disabled):not(.is-loading)",
+      "declarations": "border-color: #373737;\n    background-color: #EBEBEB;\n    color: #181818;"
+    },
+    {
+      "source": "https://bobochoses.com/",
+      "selector": ".custom-button:disabled",
+      "declarations": "background-color: #E0E0E0;\n    color: #939393;\n    cursor: not-allowed;"
+    },
+    {
+      "source": "https://bobochoses.com/",
+      "selector": ".custom-button--secondary:disabled",
+      "declarations": "border-color: #A5A5A5;\n    background-color: #ffffff;\n    color: #A5A5A5;"
+    },
+    {
+      "source": "https://bobochoses.com/",
+      "selector": "a.custom-button[aria-disabled=\"true\"]",
+      "declarations": "background-color: #e0e0e0;\n    color: #939393;\n    cursor: not-allowed;\n    pointer-events: none;"
+    },
+    {
+      "source": "https://bobochoses.com/",
+      "selector": ".custom-button.is-loading,\n  .custom-button.loading",
+      "declarations": "background-color: #089562 !important;\n    opacity: 1 !important;\n    color: transparent !important;\n    pointer-events: none;\n    overflow: hidden;"
+    },
+    {
+      "source": "https://bobochoses.com/",
+      "selector": ".add-to-cart-s.custom-button",
+      "declarations": "background-color: #089562;\n      color: #F8F8F8 !important;\n      border: none;\n      border-radius: 5px;\n      font-family: \"Helvetica Neue\" !important;\n      font-size: 20px !important;\n      font-style: normal !important;\n      font-weight: 400 !important;\n      line-height: 24px !important;\n      text-transform: none !important;\n      padding: 20px 20px !important;\n      height: auto !important;\n      text-align: center;\n      transition: all 0.3s ease;\n      position: relative;"
+    },
+    {
+      "source": "https://bobochoses.com/",
+      "selector": ".add-to-cart-s.custom-button:hover",
+      "declarations": "background-color: #089562 !important;\n      opacity: 1 !important;"
+    },
+    {
+      "source": "https://bobochoses.com/",
+      "selector": ".add-to-cart-s.custom-button.is-loading,\n    .add-to-cart-s.custom-button.loading",
+      "declarations": "background-color: #089562 !important;\n      opacity: 1 !important;\n      min-height: 64px !important;"
+    },
+    {
+      "source": "https://bobochoses.com/",
+      "selector": "display:none\n--ratio-percent: 125.0%;\n--ratio-percent: 125.0%;\n\n  \n  .custom-button",
+      "declarations": "display: inline-flex;\n    align-items: center;\n    justify-content: center;\n    border-radius: 40px;\n    border: none;\n    font-family: \"Helvetica Neue\";\n    font-weight: 400;\n    text-transform: none;\n    text-decoration: none;\n    cursor: pointer;\n    transition: background-color 0.2s ease, transform 0.1s ease, box-shadow 0.2s ease, width 0.2s ease;\n    outline: none;\n    position: relative;\n    white-space: nowrap;\n    margin: 0;\n    padding: 0 20px;\n    background-color: #000000;\n    color: #ffffff;\n    box-sizing: border-box;"
+    },
+    {
+      "source": "https://bobochoses.com/",
+      "selector": ".custom-button--secondary",
+      "declarations": "background-color: #ffffff;\n    color: #181818;\n    border: 1px solid #181818;"
+    },
+    {
+      "source": "https://bobochoses.com/",
+      "selector": ".custom-button--atc",
+      "declarations": "background-color: #089562;\n    color: #F8F8F8 !important;\n    border: none;"
+    },
+    {
+      "source": "https://bobochoses.com/",
+      "selector": ".custom-button--atc:hover",
+      "declarations": "background-color: #089562 !important;\n    opacity: 1 !important;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Bobo Choses",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "colors.primary-active": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bobochoses.com/",
+        "https://bobochoses.com/cdn/shop/t/19/assets/custom-bobo-klevu.css?v=110123447824222990731762935096",
+        "https://bobochoses.com/cdn/shop/t/19/assets/custom-cookiebot.css?v=102425374013648406341751268221"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bobochoses.com/",
+        "https://bobochoses.com/cdn/shop/t/19/assets/klevu-theme-moss.css?v=165552718233529106591779866491",
+        "https://bobochoses.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://bobochoses.com/cdn/shop/t/19/assets/base.css?v=178431039512352517571757488026",
+        "https://bobochoses.com/cdn/shop/t/19/assets/custom-cookiebot.css?v=102425374013648406341751268221"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "colors.accent-warm": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "colors.sale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "colors.badge-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bobochoses.com/"
+      ]
+    },
+    "colors.pure-black": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://bobochoses.com/",
+        "https://bobochoses.com/cdn/shop/t/19/assets/base.css?v=178431039512352517571757488026"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.button-add-to-cart": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.age-size-selector": {
+      "status": "inferred"
+    }
+  }
+}

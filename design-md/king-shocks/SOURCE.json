@@ -1,0 +1,969 @@
+{
+  "source_url": "https://kingshocks.com",
+  "final_url": "https://kingshocks.com/",
+  "captured_at": "2026-09-28T09:24:54.037398+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://kingshocks.com",
+      "final_url": "https://kingshocks.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "01da12490afd5ae866bda7d8e566ca58ee9ed4ab2c3d7aa23e3399d485c71191",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://kingshocks.com/files/css/wsm_base.css",
+      "final_url": "https://kingshocks.com/files/css/wsm_base.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=UTF-8",
+      "sha256": "371e4a7cc2d0ee79c7a465c78a7eff78b59b20ca2da72edcf9427aa486d22d9d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://kingshocks.com/files/css/bs_min.css",
+      "final_url": "https://kingshocks.com/files/css/bs_min.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=UTF-8",
+      "sha256": "cb874a45dc913a22ac6a4165e7c4033b676583f5ed810a23c5f2198746be9faf",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;900&family=Open+Sans:wght@400;700&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;900&family=Open+Sans:wght@400;700&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "09fd45807326c824bee4e228d202d794a0581c42c5c9ea417e7d2b684f44e345",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://kingshocks.com/files/css/style.css?t=7",
+      "final_url": "https://kingshocks.com/files/css/style.css?t=7",
+      "http_status": 200,
+      "content_type": "text/css;charset=UTF-8",
+      "sha256": "c8b93704bac41d87c83fada89e627f55b71efd09ebd8244d281068569062abaf",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://kingshocks.com/files/partslogic/pl-style-full.css?v=3",
+      "final_url": "https://kingshocks.com/files/partslogic/pl-style-full.css?v=3",
+      "http_status": 200,
+      "content_type": "text/css;charset=UTF-8",
+      "sha256": "d11fe6470f1fe5e135033521b809f5de92c885d6ee684b113dfd801529fd55c2",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 290,
+      "sources": [
+        "https://kingshocks.com/",
+        "https://kingshocks.com/files/css/wsm_base.css",
+        "https://kingshocks.com/files/css/bs_min.css",
+        "https://kingshocks.com/files/css/style.css?t=7",
+        "https://kingshocks.com/files/partslogic/pl-style-full.css?v=3"
+      ]
+    },
+    "#000000": {
+      "count": 138,
+      "sources": [
+        "https://kingshocks.com/",
+        "https://kingshocks.com/files/css/wsm_base.css",
+        "https://kingshocks.com/files/css/bs_min.css",
+        "https://kingshocks.com/files/css/style.css?t=7",
+        "https://kingshocks.com/files/partslogic/pl-style-full.css?v=3"
+      ]
+    },
+    "#eeeeee": {
+      "count": 123,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css",
+        "https://kingshocks.com/files/css/bs_min.css",
+        "https://kingshocks.com/files/css/style.css?t=7"
+      ]
+    },
+    "#cccccc": {
+      "count": 84,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css",
+        "https://kingshocks.com/files/css/bs_min.css",
+        "https://kingshocks.com/files/css/style.css?t=7"
+      ]
+    },
+    "#ffffff00": {
+      "count": 77,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css",
+        "https://kingshocks.com/files/css/bs_min.css",
+        "https://kingshocks.com/files/css/style.css?t=7"
+      ]
+    },
+    "#333333": {
+      "count": 50,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css",
+        "https://kingshocks.com/files/css/bs_min.css",
+        "https://kingshocks.com/files/css/style.css?t=7"
+      ]
+    },
+    "#dddddd": {
+      "count": 38,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css",
+        "https://kingshocks.com/files/css/bs_min.css",
+        "https://kingshocks.com/files/css/style.css?t=7"
+      ]
+    },
+    "#666666": {
+      "count": 31,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css",
+        "https://kingshocks.com/files/css/style.css?t=7"
+      ]
+    },
+    "#777777": {
+      "count": 23,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css",
+        "https://kingshocks.com/files/css/bs_min.css",
+        "https://kingshocks.com/files/css/style.css?t=7"
+      ]
+    },
+    "#222222": {
+      "count": 22,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css",
+        "https://kingshocks.com/files/css/bs_min.css",
+        "https://kingshocks.com/files/css/style.css?t=7"
+      ]
+    },
+    "#337ab7": {
+      "count": 22,
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css",
+        "https://kingshocks.com/files/css/style.css?t=7"
+      ]
+    },
+    "#999999": {
+      "count": 21,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css",
+        "https://kingshocks.com/files/css/bs_min.css",
+        "https://kingshocks.com/files/css/style.css?t=7"
+      ]
+    },
+    "#cc0000": {
+      "count": 17,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css",
+        "https://kingshocks.com/files/css/style.css?t=7"
+      ]
+    },
+    "#ed2424": {
+      "count": 15,
+      "sources": [
+        "https://kingshocks.com/files/css/style.css?t=7"
+      ]
+    },
+    "#3c763d": {
+      "count": 14,
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css",
+        "https://kingshocks.com/files/css/style.css?t=7"
+      ]
+    },
+    "#8a6d3b": {
+      "count": 13,
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css"
+      ]
+    },
+    "#a94442": {
+      "count": 13,
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 13,
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css",
+        "https://kingshocks.com/files/css/style.css?t=7"
+      ]
+    },
+    "#005cb8": {
+      "count": 9,
+      "sources": [
+        "https://kingshocks.com/",
+        "https://kingshocks.com/files/css/style.css?t=7",
+        "https://kingshocks.com/files/partslogic/pl-style-full.css?v=3"
+      ]
+    },
+    "#993333": {
+      "count": 9,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css",
+        "https://kingshocks.com/files/css/style.css?t=7"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 9,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css",
+        "https://kingshocks.com/files/css/style.css?t=7"
+      ]
+    },
+    "#31708f": {
+      "count": 9,
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css"
+      ]
+    },
+    "#fcf8e3": {
+      "count": 8,
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css"
+      ]
+    },
+    "#4a4af4": {
+      "count": 8,
+      "sources": [
+        "https://kingshocks.com/files/css/style.css?t=7"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 7,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css",
+        "https://kingshocks.com/files/css/style.css?t=7"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 7,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css",
+        "https://kingshocks.com/files/css/bs_min.css",
+        "https://kingshocks.com/files/css/style.css?t=7",
+        "https://kingshocks.com/files/partslogic/pl-style-full.css?v=3"
+      ]
+    },
+    "#555555": {
+      "count": 7,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css",
+        "https://kingshocks.com/files/css/bs_min.css"
+      ]
+    },
+    "#dff0d8": {
+      "count": 7,
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css"
+      ]
+    },
+    "#f2dede": {
+      "count": 7,
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css"
+      ]
+    },
+    "#111111": {
+      "count": 7,
+      "sources": [
+        "https://kingshocks.com/files/css/style.css?t=7"
+      ]
+    },
+    "#d9edf7": {
+      "count": 6,
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css"
+      ]
+    },
+    "#080808": {
+      "count": 6,
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css"
+      ]
+    },
+    "#d6d6d6": {
+      "count": 6,
+      "sources": [
+        "https://kingshocks.com/files/css/style.css?t=7"
+      ]
+    },
+    "#ffcccc": {
+      "count": 5,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css"
+      ]
+    },
+    "#7b934a": {
+      "count": 5,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css"
+      ]
+    },
+    "#212121": {
+      "count": 5,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 5,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css",
+        "https://kingshocks.com/files/css/bs_min.css",
+        "https://kingshocks.com/files/css/style.css?t=7"
+      ]
+    },
+    "#5cb85c": {
+      "count": 5,
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css"
+      ]
+    },
+    "#f0ad4e": {
+      "count": 5,
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css"
+      ]
+    },
+    "#d9534f": {
+      "count": 5,
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css"
+      ]
+    },
+    "#9d9d9d": {
+      "count": 5,
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css"
+      ]
+    },
+    "#444444": {
+      "count": 5,
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css",
+        "https://kingshocks.com/files/css/style.css?t=7"
+      ]
+    },
+    "#d6e9c6": {
+      "count": 5,
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css"
+      ]
+    },
+    "#bce8f1": {
+      "count": 5,
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css"
+      ]
+    },
+    "#faebcc": {
+      "count": 5,
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css"
+      ]
+    },
+    "#ebccd1": {
+      "count": 5,
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css"
+      ]
+    },
+    "#ffaaaa": {
+      "count": 4,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css"
+      ]
+    },
+    "#aaaaff": {
+      "count": 4,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css"
+      ]
+    },
+    "#dadada": {
+      "count": 4,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css",
+        "https://kingshocks.com/files/css/style.css?t=7"
+      ]
+    },
+    "#cd0a0a": {
+      "count": 4,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css"
+      ]
+    },
+    "#5bc0de": {
+      "count": 4,
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css"
+      ]
+    },
+    "#eeffff": {
+      "count": 3,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css"
+      ]
+    },
+    "#449944": {
+      "count": 3,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css"
+      ]
+    },
+    "#006600": {
+      "count": 3,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css"
+      ]
+    },
+    "#333388": {
+      "count": 3,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css"
+      ]
+    },
+    "#3d3d3d": {
+      "count": 3,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css"
+      ]
+    },
+    "#e4e4e4": {
+      "count": 3,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css",
+        "https://kingshocks.com/files/css/style.css?t=7"
+      ]
+    },
+    "#dd0000": {
+      "count": 3,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css"
+      ]
+    },
+    "#00a72a": {
+      "count": 3,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css"
+      ]
+    },
+    "#990000": {
+      "count": 3,
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css",
+        "https://kingshocks.com/files/css/style.css?t=7"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://kingshocks.com/",
+      "https://kingshocks.com/files/partslogic/pl-style-full.css?v=3"
+    ],
+    "Apple Color Emoji": [
+      "https://kingshocks.com/",
+      "https://kingshocks.com/files/partslogic/pl-style-full.css?v=3"
+    ],
+    "Arial": [
+      "https://kingshocks.com/",
+      "https://kingshocks.com/files/css/wsm_base.css",
+      "https://kingshocks.com/files/css/bs_min.css",
+      "https://kingshocks.com/files/partslogic/pl-style-full.css?v=3"
+    ],
+    "BlinkMacSystemFont": [
+      "https://kingshocks.com/",
+      "https://kingshocks.com/files/partslogic/pl-style-full.css?v=3"
+    ],
+    "Consolas": [
+      "https://kingshocks.com/files/css/bs_min.css"
+    ],
+    "Courier New": [
+      "https://kingshocks.com/files/css/bs_min.css"
+    ],
+    "Glyphicons Halflings": [
+      "https://kingshocks.com/files/css/bs_min.css"
+    ],
+    "Helvetica": [
+      "https://kingshocks.com/",
+      "https://kingshocks.com/files/css/wsm_base.css",
+      "https://kingshocks.com/files/css/bs_min.css",
+      "https://kingshocks.com/files/partslogic/pl-style-full.css?v=3"
+    ],
+    "Helvetica Neue": [
+      "https://kingshocks.com/",
+      "https://kingshocks.com/files/css/bs_min.css",
+      "https://kingshocks.com/files/partslogic/pl-style-full.css?v=3"
+    ],
+    "Helvetica Neue LT Std": [
+      "https://kingshocks.com/",
+      "https://kingshocks.com/files/partslogic/pl-style-full.css?v=3"
+    ],
+    "Lato": [
+      "https://kingshocks.com/files/css/bs_min.css"
+    ],
+    "Menlo": [
+      "https://kingshocks.com/files/css/bs_min.css"
+    ],
+    "Monaco": [
+      "https://kingshocks.com/files/css/bs_min.css"
+    ],
+    "Montserrat": [
+      "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;900&family=Open+Sans:wght@400;700&display=swap"
+    ],
+    "Open Sans": [
+      "https://kingshocks.com/",
+      "https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;900&family=Open+Sans:wght@400;700&display=swap",
+      "https://kingshocks.com/files/partslogic/pl-style-full.css?v=3"
+    ],
+    "Segoe UI": [
+      "https://kingshocks.com/",
+      "https://kingshocks.com/files/partslogic/pl-style-full.css?v=3"
+    ],
+    "Segoe UI Emoji": [
+      "https://kingshocks.com/",
+      "https://kingshocks.com/files/partslogic/pl-style-full.css?v=3"
+    ],
+    "Segoe UI Symbol": [
+      "https://kingshocks.com/",
+      "https://kingshocks.com/files/partslogic/pl-style-full.css?v=3"
+    ],
+    "Verdana": [
+      "https://kingshocks.com/files/css/wsm_base.css"
+    ],
+    "arial": [
+      "https://kingshocks.com/files/css/style.css?t=7"
+    ],
+    "font awesome 5 free": [
+      "https://kingshocks.com/files/css/wsm_base.css",
+      "https://kingshocks.com/files/css/style.css?t=7"
+    ],
+    "font awesome 5 free\"!important": [
+      "https://kingshocks.com/files/css/style.css?t=7"
+    ],
+    "fontawesome": [
+      "https://kingshocks.com/files/css/style.css?t=7"
+    ],
+    "monospace": [
+      "https://kingshocks.com/files/css/bs_min.css"
+    ],
+    "sans-serif": [
+      "https://kingshocks.com/",
+      "https://kingshocks.com/files/css/wsm_base.css",
+      "https://kingshocks.com/files/css/bs_min.css",
+      "https://kingshocks.com/files/css/style.css?t=7",
+      "https://kingshocks.com/files/partslogic/pl-style-full.css?v=3"
+    ],
+    "serif": [
+      "https://kingshocks.com/files/css/wsm_base.css",
+      "https://kingshocks.com/files/css/bs_min.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://kingshocks.com/",
+      "selector": "display:none;\nflex-grow: 1\n\n        .Sui-SearchBar--search-button",
+      "declarations": "background-color: #005cb8 !important;\n            color: #ffffff !important;"
+    },
+    {
+      "source": "https://kingshocks.com/",
+      "selector": "ext-decoration: underline;\ntext-decoration: underline;\ndisplay:none\ndisplay:none\ndisplay:none\ndisplay:none\ndisplay:none\ndisplay:none\ndisplay: none;\nflex-grow: 1",
+      "declarations": "background-color: #005cb8 !important;\n            color: #ffffff !important;"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".text-shadow-1,.ui-accordion-header",
+      "declarations": "color:#333;text-shadow:1px 1px 1px #fffff;filter:dropshadow(color=#fffff,offx=1,offy=1)"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".text-shadow-2,.ui-accordion-header.ui-state-active,.wsm_checkout_accordion h3.ui-state-focus,.wsm_checkout_next a,.wsm_checkout_next a:hover",
+      "declarations": "color:#fff;text-shadow:1px 1px 1px #333;filter:dropshadow(color=#fffff,offx=1,offy=1)"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": "wsm_cart_rd_wrapper select,.wsm_cart_total_wrapper,.wsm_cart_total_wrapper .wsm_cart_total_row,.wsm_cart_total_wrapper span.wsm_cart_total_col1,h3.wsm_cart_tabl",
+      "declarations": "border-color:#eee;border-style:solid;border-width:1px"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".wsm_header",
+      "declarations": "background-color:#333;color:#fff;font-weight:700;margin:0 0 10px;padding:5px"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": "#wsm_table div#header",
+      "declarations": "background-color:#333;font:700 16px verdana,arial,helvetica,sans-serif;padding:5px 10px;margin:10px 0 0;color:#fff"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".wsmdt_h1",
+      "declarations": "background-image:url(/images/ui/catalog/bg_brown_collage.png);background-position:0 -173px;background-color:#333;padding:.4em;color:#fff;font-size:1.33em;margin:0 0 10px;font-family:Verdana,Arial,Helvetica,sans-serif"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": "#wsmdt_header_2",
+      "declarations": "background-image:url(/images/ui/catalog/bg_brown_collage.png);background-repeat:repeat-x;background-position:top left;background-color:#e5e5e5;border-top:1px solid #e0e0e0;border-bottom:1px solid #fff;clear:both"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": "#wsmdt_header_3",
+      "declarations": "background-image:url(/images/ui/catalog/bg_brown_collage.png);background-repeat:repeat-x;background-color:#3d3d3d;background-position:0 -115px;font-size:1em;clear:both"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": "ul.wsmdt_left_menu li.menu_header",
+      "declarations": "color:#fff;background-image:url(/images/ui/catalog/bg_brown_collage.png);background-color:#3d3d3d;background-repeat:repeat-x;background-position:0 -115px;font-size:1em;font-weight:700;margin-bottom:.15em;padding:.5em .25em"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".wsmdt_company_header,.wsmdt_my_cart_header",
+      "declarations": "color:#fff;background-image:url(/images/ui/catalog/bg_brown_collage.png);background-color:#3d3d3d;background-repeat:repeat-x;background-position:0 -115px;font-size:1em;font-weight:700;margin-bottom:.15em;padding:.5em .25em"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".wsmdt_my_cart_header a,.wsmdt_my_cart_header a:hover",
+      "declarations": "color:#fff;text-decoration:none"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".wsm_framework .wsm_header",
+      "declarations": "background:#333 none;border:none;color:#fff;font:700 large verdana,arial,helvetica,sans-serif;padding:3px 10px;margin:0"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": "div.dropdown,div.product_option div.container,div.product_option_set div.selector,div.product_option_value_extended",
+      "declarations": "background-color:#fff;border-width:1px"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": "div.product_option_set div.selector",
+      "declarations": "background-position:right -637px;cursor:pointer;display:inline;padding:2px 22px 2px 2px;margin:8px 0;position:relative;white-space:nowrap;color:#333"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": "div.product_option_value_extended div.wsm_product_option_dropdown_unavailable",
+      "declarations": "font-weight:700;color:#c00;padding:5px"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": "div.product_option div.container div.caption",
+      "declarations": "background-color:#666;color:#fff;font-size:.83em;padding:2px 0;width:100%"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": "div.product_option div.container div.description",
+      "declarations": "font-size:.83em;font-style:italic;color:#000;padding:5px;text-align:left;width:100%;white-space:normal"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".wsm-registries-image-uploader .wsma_product_photo",
+      "declarations": "background-color:red;border:1px solid #000;float:left;height:144px;margin:4px;width:120px"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".wsm-registries-image-uploader .wsma_product_photoname",
+      "declarations": "-moz-border-bottom-colors:none;-moz-border-image:none;-moz-border-left-colors:none;-moz-border-right-colors:none;-moz-border-top-colors:none;border-color:#000;border-style:solid;border-width:1px 0;bottom:0;height:21px;position:relative;width:120px"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".ui-widget button,.ui-widget input,.ui-widget select,.ui-widget textarea",
+      "declarations": "font-family:Verdana,Arial,sans-serif;font-size:12px"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".ui-widget-header",
+      "declarations": "border:1px solid #aaa;background:#ccc url(/images/jqueryui/ui-bg_highlight-soft_75_cccccc_1x100.png) 50% 50% repeat-x;color:#222;font-weight:700"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".ui-widget-header a",
+      "declarations": "color:#222"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".ui-state-default,.ui-widget-content .ui-state-default,.ui-widget-header .ui-state-default",
+      "declarations": "border:1px solid #d3d3d3;background:#e6e6e6 url(/images/jqueryui/ui-bg_glass_75_e6e6e6_1x400.png) 50% 50% repeat-x;font-weight:400;color:#000"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".ui-state-focus,.ui-state-hover,.ui-widget-content .ui-state-focus,.ui-widget-content .ui-state-hover,.ui-widget-header .ui-state-focus,.ui-widget-header .ui-st",
+      "declarations": "border:1px solid #999;background:#dadada url(/images/jqueryui/ui-bg_glass_75_dadada_1x400.png) 50% 50% repeat-x;font-weight:400;color:#212121"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".ui-state-active,.ui-widget-content .ui-state-active,.ui-widget-header .ui-state-active",
+      "declarations": "border:0;background:#fff url(/images/jqueryui/ui-bg_glass_65_ffffff_1x400.png) 50% 50% repeat-x;font-weight:400;color:#212121"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".ui-state-highlight,.ui-widget-content .ui-state-highlight,.ui-widget-header .ui-state-highlight",
+      "declarations": "border:1px solid #fcefa1;background:#fbf9ee url(/images/jqueryui/ui-bg_glass_55_fbf9ee_1x400.png) 50% 50% repeat-x;color:#363636"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".ui-state-highlight a,.ui-widget-content .ui-state-highlight a,.ui-widget-header .ui-state-highlight a",
+      "declarations": "color:#363636"
+    },
+    {
+      "source": "https://kingshocks.com/files/css/wsm_base.css",
+      "selector": ".ui-state-error,.ui-widget-content .ui-state-error,.ui-widget-header .ui-state-error",
+      "declarations": "border:1px solid #cd0a0a;background:#fef1ec url(/images/jqueryui/ui-bg_glass_95_fef1ec_1x400.png) 50% 50% repeat-x;color:#cd0a0a"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "King Off-Road Racing Shocks, Bypass Shocks, Adjustable Coil Over Shocks, Air Shocks, UTV Shocks, Jeep Shocks, Pre-Runner Shocks, Adjustable Shocks, and Bump Stops",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kingshocks.com/",
+        "https://kingshocks.com/files/css/style.css?t=7",
+        "https://kingshocks.com/files/partslogic/pl-style-full.css?v=3"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kingshocks.com/files/css/style.css?t=7"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kingshocks.com/",
+        "https://kingshocks.com/files/css/wsm_base.css",
+        "https://kingshocks.com/files/css/bs_min.css",
+        "https://kingshocks.com/files/css/style.css?t=7",
+        "https://kingshocks.com/files/partslogic/pl-style-full.css?v=3"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css",
+        "https://kingshocks.com/files/css/bs_min.css",
+        "https://kingshocks.com/files/css/style.css?t=7"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css",
+        "https://kingshocks.com/files/css/bs_min.css",
+        "https://kingshocks.com/files/css/style.css?t=7"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css",
+        "https://kingshocks.com/files/css/bs_min.css",
+        "https://kingshocks.com/files/css/style.css?t=7"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css",
+        "https://kingshocks.com/files/css/style.css?t=7"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kingshocks.com/",
+        "https://kingshocks.com/files/css/wsm_base.css",
+        "https://kingshocks.com/files/css/bs_min.css",
+        "https://kingshocks.com/files/css/style.css?t=7",
+        "https://kingshocks.com/files/partslogic/pl-style-full.css?v=3"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kingshocks.com/",
+        "https://kingshocks.com/files/css/wsm_base.css",
+        "https://kingshocks.com/files/css/bs_min.css",
+        "https://kingshocks.com/files/css/style.css?t=7",
+        "https://kingshocks.com/files/partslogic/pl-style-full.css?v=3"
+      ]
+    },
+    "colors.dark-surface": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css",
+        "https://kingshocks.com/files/css/bs_min.css",
+        "https://kingshocks.com/files/css/style.css?t=7"
+      ]
+    },
+    "colors.darker-surface": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css"
+      ]
+    },
+    "colors.accent-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kingshocks.com/files/css/wsm_base.css",
+        "https://kingshocks.com/files/css/style.css?t=7"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://kingshocks.com/files/css/bs_min.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.vehicle-fitment-selector": {
+      "status": "inferred"
+    }
+  }
+}

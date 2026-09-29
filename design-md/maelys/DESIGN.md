@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Maëlys
-description: Maëlys is a clinically positioned body-solution brand that wraps its science in unabashed romance. The palette is built on a warm, almost blush-toned foundation — `#120d0e` (a near-black ink) grounds the typography, while `#e19aa6` and `#d0597a` serve as the primary and active accents, reading as dusty rose and deeper berry. The canvas is `#f7f4f2`, a soft off-white that avoids the clinical sterility of pure white (`#ffffff` is reserved for meta theme-color and surface cards). Supporting tones like `#968e89` (a warm gray for muted text) and `#ffe0e9` (a whisper-pink for soft surfaces) keep the system feeling tactile and feminine. Typography is a deliberate mix: Larken Medium (a refined serif) for display headlines that whisper luxury, Montserrat and Poppins (in Medium, Regular, and SemiBold weights) for body and UI text, and Morganite for decorative or accent moments. Corners are generous — `{rounded.sm}` (8px) for buttons, `{rounded.md}` (12px) for cards, and `{rounded.full}` for pill-shaped inputs — softening every interaction. The brand leans on `{spacing.lg}` (24px) and `{spacing.xl}` (32px) to create breathing room around product shots and ingredient callouts, and uses `#57539e` (a muted violet) and `#5bbad5` (a pastel teal) as accent badges or category tags. The overall effect is a boudoir-meets-laboratory: clinical claims delivered in a velvet glove.
+name: "Maëlys"
+source_url: "https://www.maelyscosmetics.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Maëlys is a clinically positioned body-solution brand that wraps its science in unabashed romance. The palette is built on a warm, almost blush-toned foundation — `#120d0e` (a near-black ink) grounds the typography, while `#e19aa6` and `#d0597a` serve as the primary and active accents, reading as dusty rose and deeper berry. The canvas is `#f7f4f2`, a soft off-white that avoids the clinical sterility of pure white (`#ffffff` is reserved for meta theme-color and surface cards). Supporting tones like `#968e89` (a warm gray for muted text) and `#ffe0e9` (a whisper-pink for soft surfaces) keep the system feeling tactile and feminine. Typography is a deliberate mix: Larken Medium (a refined serif) for display headlines that whisper luxury, Montserrat and Poppins (in Medium, Regular, and SemiBold weights) for body and UI text, and Morganite for decorative or accent moments. Corners are generous — `{rounded.sm}` (8px) for buttons, `{rounded.md}` (12px) for cards, and `{rounded.full}` for pill-shaped inputs — softening every interaction. The brand leans on `{spacing.lg}` (24px) and `{spacing.xl}` (32px) to create breathing room around product shots and ingredient callouts, and uses `#57539e` (a muted violet) and `#5bbad5` (a pastel teal) as accent badges or category tags. The overall effect is a boudoir-meets-laboratory: clinical claims delivered in a velvet glove.
 
 colors:
   primary: "#e19aa6"
@@ -273,6 +277,8 @@ components:
 - Search bar moves from inline in nav (desktop) to below hero (mobile).
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for secondary and tertiary buttons (border color, background tint) could not be reliably extracted from the live site CSS.
 - Error state styling for text inputs (border color, error message typography) is not confirmed.

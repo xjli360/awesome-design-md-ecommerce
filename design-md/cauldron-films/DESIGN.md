@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Cauldron Films
-description: A film distribution brand that opens with a closed door — the entire site is a single "Opening Soon" page rendered in a muted slate-blue (#557b97) that reads more like a library archive than a movie studio. The palette is deliberately restrained: near-black (#121212) for the single line of body copy, a mid-gray (#444444) for the secondary text, and a warm silver (#dedede) for the hairline that separates the sparse layout from the browser chrome. There are no hero images, no film stills, no trailer embeds — just a centered column of text on a white canvas, the brand name in what appears to be a condensed serif at display scale, and a single CTA button that uses the slate-blue as its fill. The design language is anti-blockbuster: where most film brands lead with spectacle, Cauldron Films leads with absence. The `{rounded.xs}` on the primary button and the `{rounded.sm}` on the input field suggest a system that will eventually support product cards and navigation, but for now the only component that matters is the waitlist signup — a text input and a submit button, both set at `{spacing.lg}` padding to give the form the same breathing room as a gallery wall. The meta theme-color of #557b97 tints the mobile browser chrome, extending the brand's quiet authority into the OS chrome itself. This is a brand that trusts a single color, a single typeface, and a single interaction to carry its entire identity until the cauldron is ready to boil.
+name: "Cauldron Films"
+source_url: "https://www.cauldron-films.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A film distribution brand that opens with a closed door — the entire site is a single "Opening Soon" page rendered in a muted slate-blue (#557b97) that reads more like a library archive than a movie studio. The palette is deliberately restrained: near-black (#121212) for the single line of body copy, a mid-gray (#444444) for the secondary text, and a warm silver (#dedede) for the hairline that separates the sparse layout from the browser chrome. There are no hero images, no film stills, no trailer embeds — just a centered column of text on a white canvas, the brand name in what appears to be a condensed serif at display scale, and a single CTA button that uses the slate-blue as its fill. The design language is anti-blockbuster: where most film brands lead with spectacle, Cauldron Films leads with absence. The `{rounded.xs}` on the primary button and the `{rounded.sm}` on the input field suggest a system that will eventually support product cards and navigation, but for now the only component that matters is the waitlist signup — a text input and a submit button, both set at `{spacing.lg}` padding to give the form the same breathing room as a gallery wall. The meta theme-color of #557b97 tints the mobile browser chrome, extending the brand's quiet authority into the OS chrome itself. This is a brand that trusts a single color, a single typeface, and a single interaction to carry its entire identity until the cauldron is ready to boil.
 
 colors:
   primary: "#557b97"
@@ -298,6 +302,8 @@ components:
 - Waitlist form switches from horizontal row (desktop) to vertical stack (mobile) at 480px breakpoint
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No font-family declarations were extractable from the live site; the serif (Playfair Display) and sans-serif (Inter) choices are inferred from the brand's editorial tone and common DTC film-distribution patterns — these should be verified against the actual site assets or design files
 - Only four hex colors were extracted from the live site, and they form a generic web palette (slate blue, two grays, near-black) — the slate-blue (#557b97) is the most distinctive and is used as primary, but the brand may have additional accent colors (e.g., for genre tags, sale badges, or seasonal campaigns) that are not present on the opening-soon page

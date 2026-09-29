@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Newport Fasteners
-description: Newport Fasteners runs on a five-color signal system borrowed from the shop floor: deep navy #163959 anchors structural chrome and header weight, industrial red #bd2426 fires every primary CTA, safety green #9bca3e flags in-stock availability, caution orange #f68b1f marks promotions and quantity-break callouts, and warm amber #f9b169 catches secondary price annotations. The palette reads like hardware-aisle wayfinding — each hue carries a functional meaning rather than an aesthetic one, and the chromatic spread is unusually wide for a B2B catalog site. Typography stays in the system font stack (Arial, Helvetica Neue, sans-serif) at modest weights; no custom typeface is loaded, which keeps the page lean for procurement managers who need to scan part specs without waiting on a font CDN. Buttons are squarely rectangular — `{rounded.xs}` at most — because the interface makes no pretense of softness. Part numbers render in courier monospace so a #10-32 × 1-1/4 socket cap screw visually distinguishes itself from prose at a glance. A persistent #163959 utility strip pinned above the main nav carries the toll-free number, account login, and live cart count — the three controls a returning B2B buyer reaches for before any navigation element. The search bar takes structural prominence in the header, wider than the logo, because the dominant buyer journey is "know the spec, find the SKU, reorder." Category depth is a selling point rather than an admission of complexity: machine screws branch into drive type, then material, then diameter and pitch. The overall register is catalog-functional — dense information, hard edges, zero decorative chrome, and color deployed strictly as a status signal.
+name: "Newport Fasteners"
+source_url: "https://www.newportfasteners.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Newport Fasteners runs on a five-color signal system borrowed from the shop floor: deep navy #163959 anchors structural chrome and header weight, industrial red #bd2426 fires every primary CTA, safety green #9bca3e flags in-stock availability, caution orange #f68b1f marks promotions and quantity-break callouts, and warm amber #f9b169 catches secondary price annotations. The palette reads like hardware-aisle wayfinding — each hue carries a functional meaning rather than an aesthetic one, and the chromatic spread is unusually wide for a B2B catalog site. Typography stays in the system font stack (Arial, Helvetica Neue, sans-serif) at modest weights; no custom typeface is loaded, which keeps the page lean for procurement managers who need to scan part specs without waiting on a font CDN. Buttons are squarely rectangular — `{rounded.xs}` at most — because the interface makes no pretense of softness. Part numbers render in courier monospace so a #10-32 × 1-1/4 socket cap screw visually distinguishes itself from prose at a glance. A persistent #163959 utility strip pinned above the main nav carries the toll-free number, account login, and live cart count — the three controls a returning B2B buyer reaches for before any navigation element. The search bar takes structural prominence in the header, wider than the logo, because the dominant buyer journey is "know the spec, find the SKU, reorder." Category depth is a selling point rather than an admission of complexity: machine screws branch into drive type, then material, then diameter and pitch. The overall register is catalog-functional — dense information, hard edges, zero decorative chrome, and color deployed strictly as a status signal.
 
 colors:
   primary: "#bd2426"
@@ -375,6 +379,8 @@ components:
 - Multi-column footer collapses to a single-column accordion on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Site returned a Cloudflare challenge page — all color and font data extracted from the Cloudflare interstitial, not the live Newport Fasteners storefront; actual brand tokens may differ materially
 - No custom typeface detected; system Arial stack confirmed, but the live site may load a commercial font (e.g., Proxima Nova, Open Sans) via CSS not captured in extraction

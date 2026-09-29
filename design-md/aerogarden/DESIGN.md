@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: AeroGarden
-description: |
+name: "AeroGarden"
+source_url: "https://www.aerogarden.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The purple-magenta bloom of AeroGarden's LED grow-panels is the brand's sharpest design signal — a deliberate product decision that marks these countertop units as precision growing technology, not kitchen decor. That same confidence in category clarity shapes the visual system. Green carries the entire brand load: a saturated, mid-range growth green that reads closer to agricultural science than lifestyle wellness, sitting against backgrounds so clean they approach clinical whiteness. The extracted site canvas of #f6f6f6 confirms a near-zero-warmth base — AeroGarden does not reach for cream or linen to soften its technological premise. Cards, input fields, and modal surfaces step up only marginally to pure white, keeping the layering flat and readable rather than deeply shadowed.
 
   Typography leans toward compact, high-x-height sans-serifs — the kind of face that communicates legibly on a seed-pod label and a 4K monitor alike. Body copy runs tight, product spec tables use tabular figures, and CTAs tend toward sentence-case urgency ("Shop Now", "Add to Cart") rather than ALL-CAPS formality. The spatial rhythm is generous on hero sections — large imagery of lush basil and tomato clusters pushed to full-bleed — then tightens sharply at the product grid and spec level, where information density earns the space.
@@ -396,6 +399,8 @@ components:
 - Promo banner trims to its shortest phrase on mobile; the dismiss X remains always visible and never collapses
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Palette severely under-extracted**: only `#f6f6f6` was captured from the live site. The brand-signature green (`#38a034`) is estimated from widely observed brand materials — verify the precise hex against the live DOM or brand guidelines before production use.
 - **No font-family stacks detected**: the site likely loads its typeface via a JavaScript-injected stylesheet or CDN-hosted font CSS that bypassed extraction. The Inter system-font stack here is a plausible approximation for AeroGarden's clean sans-serif aesthetic; the actual typeface may differ (Proxima Nova and similar geometric sans-serifs are common in this product category).

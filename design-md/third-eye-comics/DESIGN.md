@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Third Eye Comics
-description: A comic book store that uses a high-voltage blue (#2932fc) as its primary signal — not the muted indigo or navy you'd expect from a pop-culture retailer, but a piercing, almost electric cobalt that reads as urgent and collectible. This blue appears on every primary CTA, the top nav bar, and the site's meta-theme-color (#000000) provides a pitch-black frame that makes the blue and the warm accent palette — a coral (#fb8077), a teal (#0da19a), a magenta (#ed66b2), and a purple (#86469c) — pop like variant covers on a spinner rack. The typography stacks Fjalla One (a condensed, all-caps display face with a newspaper-headline punch) for headings and Poppins (a geometric sans-serif with open apertures) for body text, creating a contrast between shouty, slabby display and clean, readable body copy. Product cards use a white canvas (#ffffff) with a soft gray hairline (#dedede) and rounded corners ({rounded.sm} ~8px), while the footer and secondary surfaces shift to a warm off-white (#f1f1f0) that keeps the experience from feeling cold despite the black-and-blue dominance. The overall mood is that of a convention booth or a comic shop's new-arrivals wall — dense, colorful, and designed to catch your eye from across the room.
+name: "Third Eye Comics"
+source_url: "https://shop.thirdeyecomics.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A comic book store that uses a high-voltage blue (#2932fc) as its primary signal — not the muted indigo or navy you'd expect from a pop-culture retailer, but a piercing, almost electric cobalt that reads as urgent and collectible. This blue appears on every primary CTA, the top nav bar, and the site's meta-theme-color (#000000) provides a pitch-black frame that makes the blue and the warm accent palette — a coral (#fb8077), a teal (#0da19a), a magenta (#ed66b2), and a purple (#86469c) — pop like variant covers on a spinner rack. The typography stacks Fjalla One (a condensed, all-caps display face with a newspaper-headline punch) for headings and Poppins (a geometric sans-serif with open apertures) for body text, creating a contrast between shouty, slabby display and clean, readable body copy. Product cards use a white canvas (#ffffff) with a soft gray hairline (#dedede) and rounded corners ({rounded.sm} ~8px), while the footer and secondary surfaces shift to a warm off-white (#f1f1f0) that keeps the experience from feeling cold despite the black-and-blue dominance. The overall mood is that of a convention booth or a comic shop's new-arrivals wall — dense, colorful, and designed to catch your eye from across the room.
 
 colors:
   primary: "#2932fc"
@@ -354,6 +358,8 @@ components:
 - Footer links stack vertically on mobile, with reduced padding
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for most components (button-secondary, text-input, nav links) are inferred from common patterns but not extracted from the live site
 - Error styling for form validation (border colors, error text colors, helper text) not observed

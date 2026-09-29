@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: The Last Bookstore
-description: A labyrinth of a bookstore where the walls themselves are made of books — the site mirrors that physical density with a deep charcoal ink (#080808) on a clean white canvas, punctuated by a single sky-blue accent (#7fccf7) that reads like a skylight in a dim, towering stack room. The primary action color (#3899ec) is a cooler, more utilitarian blue, suggesting the site prioritizes function over whimsy — search, browse, cart — while the muted gray (#5f6360) handles secondary text and borders with a quiet, library-like neutrality. Typography defaults to system sans-serifs (Arial, Helvetica, Madefor, Hiragino Kaku Gothic Pro) with no custom display face, a pragmatic choice that lets the bookstore's own character — the sheer strangeness and scale of the physical space — do the heavy lifting. Rounded corners are minimal: buttons get a soft {rounded.sm} (8px), but cards and containers stay at {rounded.none} or {rounded.xs} (4px), preserving a no-nonsense, grid-aligned feel. The nav bar sits fixed at the top, a thin {spacing.sm} strip of white with the logo centered, while the hero section uses a full-bleed image of the store's famous book tunnel, the blue accent appearing only in the search bar and primary CTA. There is no decorative typography, no illustration system, no brand pattern — the design is a frame for the content, deliberately invisible so the books and the store's mythology take center stage.
+name: "The Last Bookstore"
+source_url: "https://www.lastbookstorela.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A labyrinth of a bookstore where the walls themselves are made of books — the site mirrors that physical density with a deep charcoal ink (#080808) on a clean white canvas, punctuated by a single sky-blue accent (#7fccf7) that reads like a skylight in a dim, towering stack room. The primary action color (#3899ec) is a cooler, more utilitarian blue, suggesting the site prioritizes function over whimsy — search, browse, cart — while the muted gray (#5f6360) handles secondary text and borders with a quiet, library-like neutrality. Typography defaults to system sans-serifs (Arial, Helvetica, Madefor, Hiragino Kaku Gothic Pro) with no custom display face, a pragmatic choice that lets the bookstore's own character — the sheer strangeness and scale of the physical space — do the heavy lifting. Rounded corners are minimal: buttons get a soft {rounded.sm} (8px), but cards and containers stay at {rounded.none} or {rounded.xs} (4px), preserving a no-nonsense, grid-aligned feel. The nav bar sits fixed at the top, a thin {spacing.sm} strip of white with the logo centered, while the hero section uses a full-bleed image of the store's famous book tunnel, the blue accent appearing only in the search bar and primary CTA. There is no decorative typography, no illustration system, no brand pattern — the design is a frame for the content, deliberately invisible so the books and the store's mythology take center stage.
 
 colors:
   primary: "#3899ec"
@@ -329,6 +333,8 @@ components:
 - Footer columns collapse to a single column below 744px, with accordion-style expandable link groups.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Extracted colors are limited and may include social-icon tones (#7fccf7) and a generic blue (#3899ec) that could be a framework default. The brand's true primary may be different — the sky-blue accent (#7fccf7) is the most distinctive color in the palette and may function as a secondary brand color. The extracted list is too sparse to confirm a full brand palette.
 - Font-family declarations are a mix of system fallbacks (Arial, Helvetica) and a custom font (Madefor). Madefor is used for headings and buttons, but its exact weight and size variants are inferred from common web patterns, not extracted from the live site.

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Quip
-description: A deep-teal canvas (#054040) and a luminous mint accent (#50fcce) define Quip's visual identity — a brand that treats oral care as a wellness ritual rather than a clinical chore. The dark, almost-black ink (#1a1a1a) sits on soft off-white surfaces (#fafafa, #f6f6f6) with generous breathing room, creating a calm, spa-like atmosphere that contrasts sharply with the bright, saturated CTA buttons and interactive elements. The brand's signature move is the mint-green (#50fcce) glow — it appears as the meta theme-color, as primary button fills, as hover states, and as the pulsing light on the electric toothbrush handle itself. Typography runs Inter at modest weights (400–600) with Poppins reserved for display moments, both set in clean, readable sizes that never compete with the product photography. Product cards float on white surfaces with soft shadows and {rounded.md} corners, while the subscription flow uses a persistent progress bar and pill-shaped buttons ({rounded.full}) that echo the ergonomic curves of the brush handles. The checkout experience is deliberately frictionless — a single-page subscription builder with toggle switches, radio-button tiers, and a mint-green "Get started" CTA that anchors every conversion point. There is no visual noise: no carousels, no pop-ups, no competing accent colors. The brand trusts its dark-teal/mint binary and the physical product photography — clean hero shots of the aluminum-handle brush against white or teal backdrops — to carry the emotional weight.
+name: "Quip"
+source_url: "https://getquip.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep-teal canvas (#054040) and a luminous mint accent (#50fcce) define Quip's visual identity — a brand that treats oral care as a wellness ritual rather than a clinical chore. The dark, almost-black ink (#1a1a1a) sits on soft off-white surfaces (#fafafa, #f6f6f6) with generous breathing room, creating a calm, spa-like atmosphere that contrasts sharply with the bright, saturated CTA buttons and interactive elements. The brand's signature move is the mint-green (#50fcce) glow — it appears as the meta theme-color, as primary button fills, as hover states, and as the pulsing light on the electric toothbrush handle itself. Typography runs Inter at modest weights (400–600) with Poppins reserved for display moments, both set in clean, readable sizes that never compete with the product photography. Product cards float on white surfaces with soft shadows and {rounded.md} corners, while the subscription flow uses a persistent progress bar and pill-shaped buttons ({rounded.full}) that echo the ergonomic curves of the brush handles. The checkout experience is deliberately frictionless — a single-page subscription builder with toggle switches, radio-button tiers, and a mint-green "Get started" CTA that anchors every conversion point. There is no visual noise: no carousels, no pop-ups, no competing accent colors. The brand trusts its dark-teal/mint binary and the physical product photography — clean hero shots of the aluminum-handle brush against white or teal backdrops — to carry the emotional weight.
 
 colors:
   primary: "#50fcce"
@@ -384,6 +388,8 @@ components:
 - Hero section reduces font size and padding at each breakpoint
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted color list includes several generic grays and blues (#b3d4fc, #e0e0e0, #f2f2f2) that may be Shopify checkout-widget or social-icon colors rather than brand colors — the true brand palette is likely tighter (teal, mint, white, and 2-3 grays)
 - Hover and focus states for most components were inferred from common patterns, not extracted from the live site

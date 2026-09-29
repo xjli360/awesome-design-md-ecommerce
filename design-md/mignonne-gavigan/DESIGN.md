@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Mignonne Gavigan
-description: |
+name: "Mignonne Gavigan"
+source_url: "https://www.mignonnegavigan.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Handwoven threads meet a palette that pulls no punches — the brand's signature marigold gold (#ffc863) shows up where other jewelry brands would settle for tasteful beige, landing as the primary CTA color, the hover glow, and the ambient warmth that ties the artisan credential to the checkout flow. The canvas oscillates between near-whites — #f1f1f1 and #f3f3f3 — surfaces that read less like background and more like the clearing a jeweler makes before laying out a collection. Against this field, #121212 grounds all typography with enough density to make serif display lines land cleanly, and a secondary jolt of electric yellow (#ffff00) fires on sale badges and flash moments, giving the two-tone energy system a vibrancy that matches the brand's handmade, maximalist product sensibility.
 
   Type is split across two registers that mirror the brand's own duality. Gilda Display — a serif with long calligraphic ascenders and classical engraving lineage — handles the editorial layer: hero headlines, collection titles, featured product callouts. Instrument Sans runs the functional tier: navigation, body copy, button labels, and price strings. The combination puts craft and precision in dialogue, the same conversation the physical objects have between seed bead and brass hardware.
@@ -332,6 +335,8 @@ components:
 - Footer: multi-column grid → single stacked column with accordion toggles per section heading
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No meta theme-color extracted; browser chrome accent color for mobile Safari/Chrome is unconfirmed
 - Only six hex values extracted — shadow tokens, overlay scrim opacity, and focus-ring colors are inferred from category conventions, not observed

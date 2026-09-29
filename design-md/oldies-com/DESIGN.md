@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Oldies.com
-description: A deep-catalog nostalgia marketplace where the primary voltage is a dusty rose #e0b4b4 — not a soft pink, but the color of a faded concert tee washed a hundred times, carried through every secondary badge, sale tag, and category-chip background. The brand's true anchor is #9f3a38, a dried-cranberry red that powers primary CTAs, the top nav's active state, and the "Add to Cart" button, while #db2828 (a sharper stop-sign red) punctuates sale percentages and clearance flags. The canvas is #fff6f6, a barely-there blush tint that keeps the white from feeling sterile — a warm, papery backdrop for product grids. Typography runs Lato at 400/700 for body and Arial Black at 900 for display headlines, a pairing that reads as utilitarian but earnest: the Arial Black weight gives category headers ("DVDs", "Vinyl", "Blu-ray") a loud, poster-shop confidence, while Lato body copy at 14–16px keeps product descriptions legible and unpretentious. Search bars and filter chips use {rounded.sm} (8px) — not pill-shaped, not sharp — a middle ground that says "we're not fancy, but we're not sloppy." Product cards sit on {surface-card} (#ffffff) with a soft {hairline} (#eeeeee) border, and the footer is a dense, link-heavy column grid in #555555 on #f7f7f7, the kind of information-dense bottom that signals "we've been doing this since 1995." The overall mood is a record store's website from 2005 that has been gently modernized — the reds are louder than contemporary DTC convention, the type is heavier, and the blush canvas is the one genuinely unexpected design choice.
+name: "Oldies.com"
+source_url: "https://www.oldies.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep-catalog nostalgia marketplace where the primary voltage is a dusty rose #e0b4b4 — not a soft pink, but the color of a faded concert tee washed a hundred times, carried through every secondary badge, sale tag, and category-chip background. The brand's true anchor is #9f3a38, a dried-cranberry red that powers primary CTAs, the top nav's active state, and the "Add to Cart" button, while #db2828 (a sharper stop-sign red) punctuates sale percentages and clearance flags. The canvas is #fff6f6, a barely-there blush tint that keeps the white from feeling sterile — a warm, papery backdrop for product grids. Typography runs Lato at 400/700 for body and Arial Black at 900 for display headlines, a pairing that reads as utilitarian but earnest: the Arial Black weight gives category headers ("DVDs", "Vinyl", "Blu-ray") a loud, poster-shop confidence, while Lato body copy at 14–16px keeps product descriptions legible and unpretentious. Search bars and filter chips use {rounded.sm} (8px) — not pill-shaped, not sharp — a middle ground that says "we're not fancy, but we're not sloppy." Product cards sit on {surface-card} (#ffffff) with a soft {hairline} (#eeeeee) border, and the footer is a dense, link-heavy column grid in #555555 on #f7f7f7, the kind of information-dense bottom that signals "we've been doing this since 1995." The overall mood is a record store's website from 2005 that has been gently modernized — the reds are louder than contemporary DTC convention, the type is heavier, and the blush canvas is the one genuinely unexpected design choice.
 
 colors:
   primary: "#9f3a38"
@@ -370,6 +374,8 @@ components:
 - Search bar collapses to a search icon that expands on tap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states**: Extracted only for product cards and footer links; button hover states inferred from primary-active color. No data on dropdown hover or submenu behavior.
 - **Error styling**: No form validation states (error borders, error messages) could be extracted from the live site.

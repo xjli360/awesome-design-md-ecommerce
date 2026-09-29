@@ -1,0 +1,718 @@
+{
+  "source_url": "https://rivian.com/gear-shop",
+  "final_url": "https://gearshop.rivian.com/",
+  "captured_at": "2026-09-28T10:02:39.240899+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://rivian.com/gear-shop",
+      "final_url": "https://gearshop.rivian.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "d66aa9074f257abc98c70e5939f54101277d7d4a5d9f09818bafd0c0aa3effc1",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://gearshop.rivian.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://gearshop.rivian.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://gearshop.rivian.com/cdn/shop/t/42/assets/swiper-bundle.min.css?v=17103852130929044241788301106",
+      "final_url": "https://gearshop.rivian.com/cdn/shop/t/42/assets/swiper-bundle.min.css?v=17103852130929044241788301106",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ca571ae2a47ab15c85d500918d449cd9467e8a9b7c9ab9e5cb777fb60fc3f73f",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106",
+      "final_url": "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "80d6a2b469c2a0c072c68c137bc31c81a4f2a3857ade5285c3b1ffdfd8fe2495",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://gearshop.rivian.com/cdn/shop/t/42/assets/ketch.css?v=156192737680818126831788301106",
+      "final_url": "https://gearshop.rivian.com/cdn/shop/t/42/assets/ketch.css?v=156192737680818126831788301106",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "07a967d2eedc72692e2390fb8a6bccbec6481f7d39a51141e147f8ea2f1d149c",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://gearshop.rivian.com/cdn/shop/t/42/assets/rivian.css?v=156820552823460042891788301106",
+      "final_url": "https://gearshop.rivian.com/cdn/shop/t/42/assets/rivian.css?v=156820552823460042891788301106",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "655f01fa110f924723fdd2e96c9cc7a0ae2472d1d06b74847e521742b266377b",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 8,
+      "sources": [
+        "https://gearshop.rivian.com/",
+        "https://gearshop.rivian.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/swiper-bundle.min.css?v=17103852130929044241788301106",
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106"
+      ]
+    },
+    "#000000": {
+      "count": 8,
+      "sources": [
+        "https://gearshop.rivian.com/",
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/swiper-bundle.min.css?v=17103852130929044241788301106",
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106",
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/ketch.css?v=156192737680818126831788301106"
+      ]
+    },
+    "#4a4a4c": {
+      "count": 6,
+      "sources": [
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106"
+      ]
+    },
+    "#343435": {
+      "count": 6,
+      "sources": [
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://gearshop.rivian.com/"
+      ]
+    },
+    "#292929": {
+      "count": 2,
+      "sources": [
+        "https://gearshop.rivian.com/"
+      ]
+    },
+    "#e5e0ce": {
+      "count": 2,
+      "sources": [
+        "https://gearshop.rivian.com/"
+      ]
+    },
+    "#fff5ec": {
+      "count": 2,
+      "sources": [
+        "https://gearshop.rivian.com/"
+      ]
+    },
+    "#c181ff": {
+      "count": 2,
+      "sources": [
+        "https://gearshop.rivian.com/"
+      ]
+    },
+    "#c1cbcc": {
+      "count": 2,
+      "sources": [
+        "https://gearshop.rivian.com/"
+      ]
+    },
+    "#12171d": {
+      "count": 2,
+      "sources": [
+        "https://gearshop.rivian.com/"
+      ]
+    },
+    "#d9ecf2": {
+      "count": 2,
+      "sources": [
+        "https://gearshop.rivian.com/"
+      ]
+    },
+    "#293133": {
+      "count": 2,
+      "sources": [
+        "https://gearshop.rivian.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://gearshop.rivian.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://gearshop.rivian.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#a5a5a5": {
+      "count": 2,
+      "sources": [
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106"
+      ]
+    },
+    "#212121": {
+      "count": 2,
+      "sources": [
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106"
+      ]
+    },
+    "#dfdfdf": {
+      "count": 2,
+      "sources": [
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106"
+      ]
+    },
+    "#00000059": {
+      "count": 2,
+      "sources": [
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106"
+      ]
+    },
+    "#222222": {
+      "count": 2,
+      "sources": [
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106"
+      ]
+    },
+    "#00000033": {
+      "count": 2,
+      "sources": [
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106"
+      ]
+    },
+    "#1f1f1f": {
+      "count": 2,
+      "sources": [
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106"
+      ]
+    },
+    "#353535": {
+      "count": 2,
+      "sources": [
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106"
+      ]
+    },
+    "#cbeafb": {
+      "count": 1,
+      "sources": [
+        "https://gearshop.rivian.com/"
+      ]
+    },
+    "#0066ff": {
+      "count": 1,
+      "sources": [
+        "https://gearshop.rivian.com/"
+      ]
+    },
+    "#f2e7db": {
+      "count": 1,
+      "sources": [
+        "https://gearshop.rivian.com/"
+      ]
+    },
+    "#17171d": {
+      "count": 1,
+      "sources": [
+        "https://gearshop.rivian.com/"
+      ]
+    },
+    "#444635": {
+      "count": 1,
+      "sources": [
+        "https://gearshop.rivian.com/"
+      ]
+    },
+    "#e7e0de": {
+      "count": 1,
+      "sources": [
+        "https://gearshop.rivian.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://gearshop.rivian.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://gearshop.rivian.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://gearshop.rivian.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#007aff": {
+      "count": 1,
+      "sources": [
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/swiper-bundle.min.css?v=17103852130929044241788301106"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 1,
+      "sources": [
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106"
+      ]
+    },
+    "#ffffff66": {
+      "count": 1,
+      "sources": [
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106"
+      ]
+    },
+    "#ffffff80": {
+      "count": 1,
+      "sources": [
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106"
+      ]
+    },
+    "#00000017": {
+      "count": 1,
+      "sources": [
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/ketch.css?v=156192737680818126831788301106"
+      ]
+    },
+    "#606060": {
+      "count": 1,
+      "sources": [
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/ketch.css?v=156192737680818126831788301106"
+      ]
+    }
+  },
+  "font_families": {
+    "Adventure": [
+      "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106",
+      "https://gearshop.rivian.com/cdn/shop/t/42/assets/ketch.css?v=156192737680818126831788301106"
+    ],
+    "Adventure Mono": [
+      "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106"
+    ],
+    "Apple Color Emoji": [
+      "https://gearshop.rivian.com/cdn/shop/t/42/assets/ketch.css?v=156192737680818126831788301106"
+    ],
+    "Noto Color Emoji": [
+      "https://gearshop.rivian.com/cdn/shop/t/42/assets/ketch.css?v=156192737680818126831788301106"
+    ],
+    "Segoe UI Emoji": [
+      "https://gearshop.rivian.com/cdn/shop/t/42/assets/ketch.css?v=156192737680818126831788301106"
+    ],
+    "Segoe UI Symbol": [
+      "https://gearshop.rivian.com/cdn/shop/t/42/assets/ketch.css?v=156192737680818126831788301106"
+    ],
+    "sans-serif": [
+      "https://gearshop.rivian.com/cdn/shop/t/42/assets/ketch.css?v=156192737680818126831788301106"
+    ],
+    "swiper-icons": [
+      "https://gearshop.rivian.com/cdn/shop/t/42/assets/swiper-bundle.min.css?v=17103852130929044241788301106"
+    ],
+    "system-ui": [
+      "https://gearshop.rivian.com/cdn/shop/t/42/assets/ketch.css?v=156192737680818126831788301106"
+    ],
+    "ui-sans-serif": [
+      "https://gearshop.rivian.com/cdn/shop/t/42/assets/ketch.css?v=156192737680818126831788301106"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://gearshop.rivian.com/",
+      "selector": ":root,\n    [data-scheme=light] .color-background-1",
+      "declarations": "--color-background: 255,255,255;\n      --color-background-secondary: 242,242,242;\n      --color-foreground: 0, 0, 0;\n      \n        --overwrite-background: #ffffff;\n      \n      --color-foreground-secondary: 96, 96, 96;\n   \t\t--color-overlay: 255,255,255;\n      --color-button-text: 255, 255, 255;\n      --color-button-text-hover: 255, 255, 255;\n      --color-button: 0, 0, 0;\n      --color-button-hover: 51, 51, 51;\n      --color-button-secondary: 242, 242, 242;\n      --color-button-secondary-hover: 229, 229, 229;\n      --color-button-secondary-text: 0, 0, 0;\n      --color-button-secondary-text-hover: 0, 0, 0;\n      --color-button-tertiary-text: 0, 0, 0;\n\n      --color-border-input: 209, 209, 20"
+    },
+    {
+      "source": "https://gearshop.rivian.com/",
+      "selector": ":root,\n      [data-scheme=auto] .color-background-1",
+      "declarations": "--color-background: 255,255,255;\n        --color-background-secondary: 242,242,242;\n        \n          --overwrite-background: #ffffff;\n        \n        --color-foreground: 0, 0, 0;\n        --color-foreground-secondary: 96, 96, 96;\n        --color-overlay: 255,255,255;\n        --color-button-text: 255, 255, 255;\n        --color-button-text-hover: 255, 255, 255;\n        --color-button: 0, 0, 0;\n        --color-button-hover: 51, 51, 51;\n        --color-button-secondary: 242, 242, 242;\n        --color-button-secondary-hover: 229, 229, 229;\n        --color-button-secondary-text: 0, 0, 0;\n        --color-button-secondary-text-hover: 0, 0, 0;\n\n        --color-button-tertiary-text: 0, 0, 0;\n\n      "
+    },
+    {
+      "source": "https://gearshop.rivian.com/",
+      "selector": ":root",
+      "declarations": "--color-shadow: var(--color-foreground);\n    --payment-terms-background-color: ;\n    --color-modal-overlay: 0,0,0;;"
+    },
+    {
+      "source": "https://gearshop.rivian.com/",
+      "selector": ":root",
+      "declarations": "--column-count: 1;\n    --announcement-height: 0px;\n    --ann-height: 0px;\n    --header-height: 64px;\n    --breadcrumbs-height: 0px;\n    --scrollbar-width: 0px;\n    --margin-header: 0px;\n    --spaced-section: 5rem;\n    --border-radius-product: 20px;\n    --border-radius-button: 50px;\n    --border-radius-block: 20px;\n    --border-radius-input: 12px;"
+    },
+    {
+      "source": "https://gearshop.rivian.com/",
+      "selector": ":root",
+      "declarations": "--spaced-section: 16rem;"
+    },
+    {
+      "source": "https://gearshop.rivian.com/",
+      "selector": "body",
+      "declarations": "position: relative;\n    display: flex;\n    flex-direction: column;\n    margin: 0;\n    overflow-x: hidden;\n    min-height: 100%;\n    margin: 0;\n    padding: 0;\n    scroll-behavior: smooth;\n    -webkit-font-smoothing: antialiased;\n    -moz-osx-font-smoothing: grayscale;\n    font-family: var(--font-body-family);\n    font-size: calc(var(--font-body-scale) * 1.2rem);\n    font-weight: var(--font-body-weight);\n    line-height: var(--font-body-line-height);\n    letter-spacing: calc(var(--font-body-letter-spacing) * 0.1);\n    font-style: var(--font-body-style);"
+    },
+    {
+      "source": "https://gearshop.rivian.com/",
+      "selector": "ization,\n  .header__localization a,\n  .header__localization button,\n  .header__cart,\n  .header__account-body,\n  .menu-drawer__utility-account-body,\n  .menu-draw",
+      "declarations": "font-family: var(--font-header-menu-family);\n    font-style: var(--font-header-menu-style);\n    font-weight: var(--font-header-menu-weight);\n    font-size: calc(var(--font-header-menu-text-scale) * 1rem);\n    text-transform: var(--font-header-menu-text-transform);\n    letter-spacing: var(--font-header-menu-letter-spacing);"
+    },
+    {
+      "source": "https://gearshop.rivian.com/",
+      "selector": ".section-template--20663595237538__popular_products_NX4MkP-padding .popular-products__grid",
+      "declarations": "--row_gap: 4rem;\n    --column_gap: 1.6rem;"
+    },
+    {
+      "source": "https://gearshop.rivian.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://gearshop.rivian.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://gearshop.rivian.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://gearshop.rivian.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://gearshop.rivian.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://gearshop.rivian.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://gearshop.rivian.com/cdn/shop/t/42/assets/swiper-bundle.min.css?v=17103852130929044241788301106",
+      "selector": ":root",
+      "declarations": "--swiper-theme-color: #007aff;"
+    },
+    {
+      "source": "https://gearshop.rivian.com/cdn/shop/t/42/assets/swiper-bundle.min.css?v=17103852130929044241788301106",
+      "selector": ":root",
+      "declarations": "--swiper-navigation-size: 44px;"
+    },
+    {
+      "source": "https://gearshop.rivian.com/cdn/shop/t/42/assets/swiper-bundle.min.css?v=17103852130929044241788301106",
+      "selector": ".swiper-button-next,\n.swiper-button-prev",
+      "declarations": "position: absolute;\n  top: var(--swiper-navigation-top-offset, 50%);\n  width: calc(var(--swiper-navigation-size) / 44 * 27);\n  height: var(--swiper-navigation-size);\n  margin-top: calc(0px - var(--swiper-navigation-size) / 2);\n  z-index: 10;\n  cursor: pointer;\n  display: flex;\n  align-items: center;\n  justify-content: center;\n  color: var(--swiper-navigation-color, var(--swiper-theme-color));"
+    },
+    {
+      "source": "https://gearshop.rivian.com/cdn/shop/t/42/assets/swiper-bundle.min.css?v=17103852130929044241788301106",
+      "selector": ".swiper-button-next:after,\n.swiper-button-prev:after",
+      "declarations": "font-family: swiper-icons;\n  font-size: var(--swiper-navigation-size);\n  text-transform: none !important;\n  letter-spacing: 0;\n  font-variant: initial;\n  line-height: 1;"
+    },
+    {
+      "source": "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106",
+      "selector": ":root",
+      "declarations": "--color-success: 46, 135, 13;--color-error: 183, 60, 36;--color-error-border: 238, 88, 79;--color-error-background: 255, 245, 245;--duration-short: .1s;--duration-default: .3s;--duration-long: .5s;--hover-opacity: .6;--font-sans: Adventure, ui-sans-serif, system-ui, sans-serif, \"Apple Color Emoji\", \"Segoe UI Emoji\", \"Segoe UI Symbol\", \"Noto Color Emoji\";--font-mono: \"Adventure Mono\", ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, \"Courier New\", monospace"
+    },
+    {
+      "source": "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106",
+      "selector": "[data-scheme=dark] .swiper-buttons.swiper-buttons--secondary .icon",
+      "declarations": "color:rgb(var(--color-background))"
+    },
+    {
+      "source": "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106",
+      "selector": "d__link:after,[data-scheme=dark] .card-horizontal__link,[data-scheme=dark] .card-horizontal__link:after,[data-scheme=dark] .collection-product-list .collection-",
+      "declarations": "background-color:#212121"
+    },
+    {
+      "source": "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106",
+      "selector": "[data-scheme=dark] .collection-results--products .card-wrapper,[data-scheme=dark] .product-recommendations__product .card-wrapper",
+      "declarations": "background-color:#1c1c1c"
+    },
+    {
+      "source": "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106",
+      "selector": "list--horizontal.featured-products__products-list--placeholder .card-wrapper,[data-scheme=dark] .featured-products__products-list .featured-products__products-i",
+      "declarations": "border-color:#dfdfdf"
+    },
+    {
+      "source": "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106",
+      "selector": "[data-scheme=dark] .shopify-payment-button__button.shopify-payment-button__button--unbranded",
+      "declarations": "background-color:rgb(var(--color-foreground));color:rgb(var(--color-background))"
+    },
+    {
+      "source": "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106",
+      "selector": "[data-scheme=dark] .shopify-payment-button__button.shopify-payment-button__button--unbranded:not(:disabled):hover",
+      "declarations": "background-color:rgb(var(--color-foreground-secondary))"
+    },
+    {
+      "source": "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106",
+      "selector": "[data-scheme=dark] .product__slider-nav .gallery-button,[data-scheme=dark] .product-media-modal__slider-nav-next,[data-scheme=dark] .product-media-modal__slider",
+      "declarations": "box-shadow:0 4px 20px #00000059;background-color:#222"
+    },
+    {
+      "source": "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106",
+      "selector": "[data-scheme=auto] .swiper-buttons.swiper-buttons--secondary .icon",
+      "declarations": "color:rgb(var(--color-background))"
+    },
+    {
+      "source": "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106",
+      "selector": "d__link:after,[data-scheme=auto] .card-horizontal__link,[data-scheme=auto] .card-horizontal__link:after,[data-scheme=auto] .collection-product-list .collection-",
+      "declarations": "background-color:rgb(var(--color-background))"
+    },
+    {
+      "source": "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106",
+      "selector": "[data-scheme=auto] .collection-results--products .card-wrapper,[data-scheme=auto] .product-recommendations__product .card-wrapper",
+      "declarations": "background-color:#212121"
+    },
+    {
+      "source": "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106",
+      "selector": "list--horizontal.featured-products__products-list--placeholder .card-wrapper,[data-scheme=auto] .featured-products__products-list .featured-products__products-i",
+      "declarations": "border-color:#dfdfdf"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Rivian Gear Shop | Adventure Gear, Apparel & Accessories",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gearshop.rivian.com/",
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/swiper-bundle.min.css?v=17103852130929044241788301106",
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106",
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/ketch.css?v=156192737680818126831788301106"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gearshop.rivian.com/",
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/swiper-bundle.min.css?v=17103852130929044241788301106",
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106",
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/ketch.css?v=156192737680818126831788301106"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gearshop.rivian.com/",
+        "https://gearshop.rivian.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/swiper-bundle.min.css?v=17103852130929044241788301106",
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/ketch.css?v=156192737680818126831788301106"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gearshop.rivian.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gearshop.rivian.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gearshop.rivian.com/",
+        "https://gearshop.rivian.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/swiper-bundle.min.css?v=17103852130929044241788301106",
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gearshop.rivian.com/",
+        "https://gearshop.rivian.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/swiper-bundle.min.css?v=17103852130929044241788301106",
+        "https://gearshop.rivian.com/cdn/shop/t/42/assets/base.css?v=371319664108352611788301106"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gearshop.rivian.com/"
+      ]
+    },
+    "colors.accent-info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gearshop.rivian.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-info-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gearshop.rivian.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-warm": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gearshop.rivian.com/"
+      ]
+    },
+    "colors.surface-cool": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://gearshop.rivian.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.vehicle-fit-selector": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,0 +1,850 @@
+{
+  "source_url": "https://besseytools.com",
+  "final_url": "https://besseytools.com/en-us",
+  "captured_at": "2026-09-28T10:13:40.916116+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://besseytools.com",
+      "final_url": "https://besseytools.com/en-us",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "5bfb1079a58415ccda7b1b06d04f8f322bfdf8f6b00bbcebfcdeb2c26c737dec",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://besseytools.com/kentico/bundles/pageComponents/styles?v=FazvQrgSLQxKH0mfJ0b4TQs64mUkEjGXTYiS4ojxmhA1",
+      "final_url": "https://besseytools.com/kentico/bundles/pageComponents/styles?v=FazvQrgSLQxKH0mfJ0b4TQs64mUkEjGXTYiS4ojxmhA1",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "1d91e52c03a7561344d376d40200c014877642c30d2886e6b6a080e89a8c6f97",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://besseytools.com/frontend/dist/assets/main.css",
+      "final_url": "https://besseytools.com/frontend/dist/assets/main.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "522b19430451608b065a925f68945da27bab65c5d4280c1bf61689359e2e258d",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 106,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#00000000": {
+      "count": 81,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#000000": {
+      "count": 78,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#e3000f": {
+      "count": 63,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#e3e3e3": {
+      "count": 34,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#1f2426": {
+      "count": 23,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#f8f9fa": {
+      "count": 17,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#dc3545": {
+      "count": 16,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#198754": {
+      "count": 16,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#929292": {
+      "count": 16,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#00000020": {
+      "count": 16,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#ffc107": {
+      "count": 14,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#212529": {
+      "count": 12,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#4d4d4d": {
+      "count": 12,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 9,
+      "sources": [
+        "https://besseytools.com/kentico/bundles/pageComponents/styles?v=FazvQrgSLQxKH0mfJ0b4TQs64mUkEjGXTYiS4ojxmhA1",
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#6c757d": {
+      "count": 8,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#dee2e6": {
+      "count": 8,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#706f6f": {
+      "count": 8,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#e3000b": {
+      "count": 8,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#ffffff26": {
+      "count": 6,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#c6c6c6": {
+      "count": 6,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#495057": {
+      "count": 5,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#e3000f40": {
+      "count": 5,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 4,
+      "sources": [
+        "https://besseytools.com/kentico/bundles/pageComponents/styles?v=FazvQrgSLQxKH0mfJ0b4TQs64mUkEjGXTYiS4ojxmhA1",
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#adb5bd": {
+      "count": 4,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 4,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#f18087": {
+      "count": 4,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 4,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#ececec": {
+      "count": 3,
+      "sources": [
+        "https://besseytools.com/kentico/bundles/pageComponents/styles?v=FazvQrgSLQxKH0mfJ0b4TQs64mUkEjGXTYiS4ojxmhA1",
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#5e35b1": {
+      "count": 3,
+      "sources": [
+        "https://besseytools.com/kentico/bundles/pageComponents/styles?v=FazvQrgSLQxKH0mfJ0b4TQs64mUkEjGXTYiS4ojxmhA1"
+      ]
+    },
+    "#00bcd4": {
+      "count": 3,
+      "sources": [
+        "https://besseytools.com/kentico/bundles/pageComponents/styles?v=FazvQrgSLQxKH0mfJ0b4TQs64mUkEjGXTYiS4ojxmhA1"
+      ]
+    },
+    "#43a047": {
+      "count": 3,
+      "sources": [
+        "https://besseytools.com/kentico/bundles/pageComponents/styles?v=FazvQrgSLQxKH0mfJ0b4TQs64mUkEjGXTYiS4ojxmhA1"
+      ]
+    },
+    "#e9ecef": {
+      "count": 3,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#fff3cd": {
+      "count": 3,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#b6000c": {
+      "count": 3,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#00000013": {
+      "count": 3,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#75b798": {
+      "count": 3,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#ea868f": {
+      "count": 3,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 3,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#c6c7c8": {
+      "count": 3,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#353a3c": {
+      "count": 3,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 2,
+      "sources": [
+        "https://besseytools.com/kentico/bundles/pageComponents/styles?v=FazvQrgSLQxKH0mfJ0b4TQs64mUkEjGXTYiS4ojxmhA1"
+      ]
+    },
+    "#222222": {
+      "count": 2,
+      "sources": [
+        "https://besseytools.com/kentico/bundles/pageComponents/styles?v=FazvQrgSLQxKH0mfJ0b4TQs64mUkEjGXTYiS4ojxmhA1"
+      ]
+    },
+    "#eeeeee": {
+      "count": 2,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#d63384": {
+      "count": 2,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#ced4da": {
+      "count": 2,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#664d03": {
+      "count": 2,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#f9cccf": {
+      "count": 2,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 2,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#d1e7dd": {
+      "count": 2,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#f8d7da": {
+      "count": 2,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#0000002d": {
+      "count": 2,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#ee666f": {
+      "count": 2,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#4c5051": {
+      "count": 2,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#f7b3b7": {
+      "count": 2,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#146c43": {
+      "count": 2,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#9d9d9d": {
+      "count": 2,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#ffc720": {
+      "count": 2,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#b02a37": {
+      "count": 2,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "#000000cc": {
+      "count": 2,
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Android Emoji": [
+      "https://besseytools.com/kentico/bundles/pageComponents/styles?v=FazvQrgSLQxKH0mfJ0b4TQs64mUkEjGXTYiS4ojxmhA1"
+    ],
+    "Apple Color Emoji": [
+      "https://besseytools.com/kentico/bundles/pageComponents/styles?v=FazvQrgSLQxKH0mfJ0b4TQs64mUkEjGXTYiS4ojxmhA1"
+    ],
+    "Arial": [
+      "https://besseytools.com/frontend/dist/assets/main.css"
+    ],
+    "Courier": [
+      "https://besseytools.com/kentico/bundles/pageComponents/styles?v=FazvQrgSLQxKH0mfJ0b4TQs64mUkEjGXTYiS4ojxmhA1"
+    ],
+    "Courier New": [
+      "https://besseytools.com/kentico/bundles/pageComponents/styles?v=FazvQrgSLQxKH0mfJ0b4TQs64mUkEjGXTYiS4ojxmhA1"
+    ],
+    "EmojiSymbols": [
+      "https://besseytools.com/kentico/bundles/pageComponents/styles?v=FazvQrgSLQxKH0mfJ0b4TQs64mUkEjGXTYiS4ojxmhA1"
+    ],
+    "Font Awesome 6 Brands": [
+      "https://besseytools.com/frontend/dist/assets/main.css"
+    ],
+    "Font Awesome 6 Free": [
+      "https://besseytools.com/frontend/dist/assets/main.css"
+    ],
+    "Helvetica": [
+      "https://besseytools.com/frontend/dist/assets/main.css"
+    ],
+    "NotoColorEmoji": [
+      "https://besseytools.com/kentico/bundles/pageComponents/styles?v=FazvQrgSLQxKH0mfJ0b4TQs64mUkEjGXTYiS4ojxmhA1"
+    ],
+    "Roboto": [
+      "https://besseytools.com/frontend/dist/assets/main.css"
+    ],
+    "Roboto Slab": [
+      "https://besseytools.com/frontend/dist/assets/main.css"
+    ],
+    "Segoe UI Emoji": [
+      "https://besseytools.com/kentico/bundles/pageComponents/styles?v=FazvQrgSLQxKH0mfJ0b4TQs64mUkEjGXTYiS4ojxmhA1"
+    ],
+    "Segoe UI Symbol": [
+      "https://besseytools.com/kentico/bundles/pageComponents/styles?v=FazvQrgSLQxKH0mfJ0b4TQs64mUkEjGXTYiS4ojxmhA1"
+    ],
+    "icomoon": [
+      "https://besseytools.com/frontend/dist/assets/main.css"
+    ],
+    "icomoon!important": [
+      "https://besseytools.com/frontend/dist/assets/main.css"
+    ],
+    "monospace": [
+      "https://besseytools.com/kentico/bundles/pageComponents/styles?v=FazvQrgSLQxKH0mfJ0b4TQs64mUkEjGXTYiS4ojxmhA1"
+    ],
+    "sans-serif": [
+      "https://besseytools.com/frontend/dist/assets/main.css"
+    ],
+    "slick": [
+      "https://besseytools.com/frontend/dist/assets/main.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://besseytools.com/frontend/dist/assets/main.css",
+      "selector": "button,input,select,optgroup,textarea",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0"
+    },
+    {
+      "source": "https://besseytools.com/frontend/dist/assets/main.css",
+      "selector": "::file-selector-button",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0"
+    },
+    {
+      "source": "https://besseytools.com/frontend/dist/assets/main.css",
+      "selector": ":root,:host",
+      "declarations": "--fa-style-family-classic:\"Font Awesome 6 Free\";--fa-font-solid:normal 900 1em/1 \"Font Awesome 6 Free\""
+    },
+    {
+      "source": "https://besseytools.com/frontend/dist/assets/main.css",
+      "selector": ":root,:host",
+      "declarations": "--fa-style-family-brands:\"Font Awesome 6 Brands\";--fa-font-brands:normal 400 1em/1 \"Font Awesome 6 Brands\""
+    },
+    {
+      "source": "https://besseytools.com/frontend/dist/assets/main.css",
+      "selector": "body",
+      "declarations": "font-family:var(--bs-body-font-family);font-size:var(--bs-body-font-size);font-weight:var(--bs-body-font-weight);line-height:var(--bs-body-line-height);color:var(--bs-body-color);text-align:var(--bs-body-text-align);background-color:var(--bs-body-bg);-webkit-text-size-adjust:100%;-webkit-tap-highlight-color:#0000;margin:0"
+    },
+    {
+      "source": "https://besseytools.com/frontend/dist/assets/main.css",
+      "selector": "h6,.h6,h5,.h5,h4,.h4,h3,.h3,h2,.h2,h1,.h1",
+      "declarations": "color:var(--bs-heading-color);margin-top:0;margin-bottom:.5rem;font-family:Roboto,Arial,Helvetica,sans-serif;font-style:normal;font-weight:700;line-height:1.2"
+    },
+    {
+      "source": "https://besseytools.com/frontend/dist/assets/main.css",
+      "selector": "thead,tbody,tfoot,tr,td,th",
+      "declarations": "border-color:inherit;border-style:solid;border-width:0"
+    },
+    {
+      "source": "https://besseytools.com/frontend/dist/assets/main.css",
+      "selector": "input,button,select,optgroup,textarea",
+      "declarations": "font-family:inherit;font-size:inherit;line-height:inherit;margin:0"
+    },
+    {
+      "source": "https://besseytools.com/frontend/dist/assets/main.css",
+      "selector": ":root",
+      "declarations": "--bs-breakpoint-xs:0;--bs-breakpoint-sm:576px;--bs-breakpoint-md:768px;--bs-breakpoint-lg:992px;--bs-breakpoint-xl:1200px;--bs-breakpoint-xxl:1400px"
+    },
+    {
+      "source": "https://besseytools.com/frontend/dist/assets/main.css",
+      "selector": ".table-striped>tbody>tr:nth-of-type(odd)>*,.table-striped-columns>:not(caption)>tr>:nth-child(2n)",
+      "declarations": "--bs-table-color-type:var(--bs-table-striped-color);--bs-table-bg-type:var(--bs-table-striped-bg)"
+    },
+    {
+      "source": "https://besseytools.com/frontend/dist/assets/main.css",
+      "selector": ".table-hover>tbody>tr:hover>*",
+      "declarations": "--bs-table-color-state:var(--bs-table-hover-color);--bs-table-bg-state:var(--bs-table-hover-bg)"
+    },
+    {
+      "source": "https://besseytools.com/frontend/dist/assets/main.css",
+      "selector": ".form-control::file-selector-button",
+      "declarations": "color:var(--bs-body-color);background-color:var(--bs-tertiary-bg);pointer-events:none;border-color:inherit;border-style:solid;border-width:0;border-inline-end-width:var(--bs-border-width);margin:-.375rem -.75rem;border-radius:0;margin-inline-end:.75rem;padding:.375rem .75rem;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out"
+    },
+    {
+      "source": "https://besseytools.com/frontend/dist/assets/main.css",
+      "selector": ".form-control:hover:not(:disabled):not([readonly])::file-selector-button",
+      "declarations": "background-color:var(--bs-secondary-bg)"
+    },
+    {
+      "source": "https://besseytools.com/frontend/dist/assets/main.css",
+      "selector": ".btn,form input[type=submit]",
+      "declarations": "--bs-btn-padding-x:.75rem;--bs-btn-padding-y:.375rem;--bs-btn-font-family: ;--bs-btn-font-size:1rem;--bs-btn-font-weight:bold;--bs-btn-line-height:1.5;--bs-btn-color:var(--bs-body-color);--bs-btn-bg:transparent;--bs-btn-border-width:var(--bs-border-width);--bs-btn-border-color:transparent;--bs-btn-border-radius:0;--bs-btn-hover-border-color:transparent;--bs-btn-box-shadow:inset 0 1px 0 #ffffff26,0 1px 1px #00000013;--bs-btn-disabled-opacity:.65;--bs-btn-focus-box-shadow:0 0 0 .25rem rgba(var(--bs-btn-focus-shadow-rgb),.5);padding:var(--bs-btn-padding-y)var(--bs-btn-padding-x);font-family:var(--bs-btn-font-family);font-size:var(--bs-btn-font-size);font-weight:var(--bs-btn-font-weight);line-he"
+    },
+    {
+      "source": "https://besseytools.com/frontend/dist/assets/main.css",
+      "selector": ".btn:hover,form input[type=submit]:hover",
+      "declarations": "color:var(--bs-btn-hover-color);background-color:var(--bs-btn-hover-bg);border-color:var(--bs-btn-hover-border-color)"
+    },
+    {
+      "source": "https://besseytools.com/frontend/dist/assets/main.css",
+      "selector": ".btn-check+.btn:hover,form .btn-check+input[type=submit]:hover",
+      "declarations": "color:var(--bs-btn-color);background-color:var(--bs-btn-bg);border-color:var(--bs-btn-border-color)"
+    },
+    {
+      "source": "https://besseytools.com/frontend/dist/assets/main.css",
+      "selector": ".btn:focus-visible,form input[type=submit]:focus-visible",
+      "declarations": "color:var(--bs-btn-hover-color);background-color:var(--bs-btn-hover-bg);border-color:var(--bs-btn-hover-border-color);box-shadow:var(--bs-btn-focus-box-shadow);outline:0"
+    },
+    {
+      "source": "https://besseytools.com/frontend/dist/assets/main.css",
+      "selector": ".btn-check:focus-visible+.btn,form .btn-check:focus-visible+input[type=submit]",
+      "declarations": "border-color:var(--bs-btn-hover-border-color);box-shadow:var(--bs-btn-focus-box-shadow);outline:0"
+    },
+    {
+      "source": "https://besseytools.com/frontend/dist/assets/main.css",
+      "selector": "ive,form :not(.btn-check)+input[type=submit]:active,.btn:first-child:active,form input[type=submit]:first-child:active,.btn.active,form input.active[type=submit",
+      "declarations": "color:var(--bs-btn-active-color);background-color:var(--bs-btn-active-bg);border-color:var(--bs-btn-active-border-color)"
+    },
+    {
+      "source": "https://besseytools.com/frontend/dist/assets/main.css",
+      "selector": ".btn:disabled,form input[type=submit]:disabled,.btn.disabled,form input.disabled[type=submit],fieldset:disabled .btn,fieldset:disabled form input[type=submit],f",
+      "declarations": "color:var(--bs-btn-disabled-color);pointer-events:none;background-color:var(--bs-btn-disabled-bg);border-color:var(--bs-btn-disabled-border-color);opacity:var(--bs-btn-disabled-opacity)"
+    },
+    {
+      "source": "https://besseytools.com/frontend/dist/assets/main.css",
+      "selector": ".btn-primary,form input[type=submit]",
+      "declarations": "--bs-btn-color:#fff;--bs-btn-bg:#e3000f;--bs-btn-border-color:#e3000f;--bs-btn-hover-color:#fff;--bs-btn-hover-bg:#c1000d;--bs-btn-hover-border-color:#b6000c;--bs-btn-focus-shadow-rgb:231,38,51;--bs-btn-active-color:#fff;--bs-btn-active-bg:#b6000c;--bs-btn-active-border-color:#aa000b;--bs-btn-active-shadow:inset 0 3px 5px #00000020;--bs-btn-disabled-color:#fff;--bs-btn-disabled-bg:#e3000f;--bs-btn-disabled-border-color:#e3000f"
+    },
+    {
+      "source": "https://besseytools.com/frontend/dist/assets/main.css",
+      "selector": ".btn-secondary",
+      "declarations": "--bs-btn-color:#000;--bs-btn-bg:#e3e3e3;--bs-btn-border-color:#e3e3e3;--bs-btn-hover-color:#000;--bs-btn-hover-bg:#e7e7e7;--bs-btn-hover-border-color:#e6e6e6;--bs-btn-focus-shadow-rgb:193,193,193;--bs-btn-active-color:#000;--bs-btn-active-bg:#e9e9e9;--bs-btn-active-border-color:#e6e6e6;--bs-btn-active-shadow:inset 0 3px 5px #00000020;--bs-btn-disabled-color:#000;--bs-btn-disabled-bg:#e3e3e3;--bs-btn-disabled-border-color:#e3e3e3"
+    },
+    {
+      "source": "https://besseytools.com/frontend/dist/assets/main.css",
+      "selector": ".btn-success",
+      "declarations": "--bs-btn-color:#fff;--bs-btn-bg:#198754;--bs-btn-border-color:#198754;--bs-btn-hover-color:#fff;--bs-btn-hover-bg:#157347;--bs-btn-hover-border-color:#146c43;--bs-btn-focus-shadow-rgb:60,153,110;--bs-btn-active-color:#fff;--bs-btn-active-bg:#146c43;--bs-btn-active-border-color:#13653f;--bs-btn-active-shadow:inset 0 3px 5px #00000020;--bs-btn-disabled-color:#fff;--bs-btn-disabled-bg:#198754;--bs-btn-disabled-border-color:#198754"
+    },
+    {
+      "source": "https://besseytools.com/frontend/dist/assets/main.css",
+      "selector": ".btn-info",
+      "declarations": "--bs-btn-color:#000;--bs-btn-bg:#929292;--bs-btn-border-color:#929292;--bs-btn-hover-color:#000;--bs-btn-hover-bg:#a2a2a2;--bs-btn-hover-border-color:#9d9d9d;--bs-btn-focus-shadow-rgb:124,124,124;--bs-btn-active-color:#000;--bs-btn-active-bg:#a8a8a8;--bs-btn-active-border-color:#9d9d9d;--bs-btn-active-shadow:inset 0 3px 5px #00000020;--bs-btn-disabled-color:#000;--bs-btn-disabled-bg:#929292;--bs-btn-disabled-border-color:#929292"
+    },
+    {
+      "source": "https://besseytools.com/frontend/dist/assets/main.css",
+      "selector": ".btn-warning",
+      "declarations": "--bs-btn-color:#000;--bs-btn-bg:#ffc107;--bs-btn-border-color:#ffc107;--bs-btn-hover-color:#000;--bs-btn-hover-bg:#ffca2c;--bs-btn-hover-border-color:#ffc720;--bs-btn-focus-shadow-rgb:217,164,6;--bs-btn-active-color:#000;--bs-btn-active-bg:#ffcd39;--bs-btn-active-border-color:#ffc720;--bs-btn-active-shadow:inset 0 3px 5px #00000020;--bs-btn-disabled-color:#000;--bs-btn-disabled-bg:#ffc107;--bs-btn-disabled-border-color:#ffc107"
+    },
+    {
+      "source": "https://besseytools.com/frontend/dist/assets/main.css",
+      "selector": ".btn-danger",
+      "declarations": "--bs-btn-color:#fff;--bs-btn-bg:#dc3545;--bs-btn-border-color:#dc3545;--bs-btn-hover-color:#fff;--bs-btn-hover-bg:#bb2d3b;--bs-btn-hover-border-color:#b02a37;--bs-btn-focus-shadow-rgb:225,83,97;--bs-btn-active-color:#fff;--bs-btn-active-bg:#b02a37;--bs-btn-active-border-color:#a52834;--bs-btn-active-shadow:inset 0 3px 5px #00000020;--bs-btn-disabled-color:#fff;--bs-btn-disabled-bg:#dc3545;--bs-btn-disabled-border-color:#dc3545"
+    },
+    {
+      "source": "https://besseytools.com/frontend/dist/assets/main.css",
+      "selector": ".btn-light",
+      "declarations": "--bs-btn-color:#000;--bs-btn-bg:#f8f9fa;--bs-btn-border-color:#f8f9fa;--bs-btn-hover-color:#000;--bs-btn-hover-bg:#d3d4d5;--bs-btn-hover-border-color:#c6c7c8;--bs-btn-focus-shadow-rgb:211,212,213;--bs-btn-active-color:#000;--bs-btn-active-bg:#c6c7c8;--bs-btn-active-border-color:#babbbc;--bs-btn-active-shadow:inset 0 3px 5px #00000020;--bs-btn-disabled-color:#000;--bs-btn-disabled-bg:#f8f9fa;--bs-btn-disabled-border-color:#f8f9fa"
+    },
+    {
+      "source": "https://besseytools.com/frontend/dist/assets/main.css",
+      "selector": ".btn-dark",
+      "declarations": "--bs-btn-color:#fff;--bs-btn-bg:#1f2426;--bs-btn-border-color:#1f2426;--bs-btn-hover-color:#fff;--bs-btn-hover-bg:#414547;--bs-btn-hover-border-color:#353a3c;--bs-btn-focus-shadow-rgb:65,69,71;--bs-btn-active-color:#fff;--bs-btn-active-bg:#4c5051;--bs-btn-active-border-color:#353a3c;--bs-btn-active-shadow:inset 0 3px 5px #00000020;--bs-btn-disabled-color:#fff;--bs-btn-disabled-bg:#1f2426;--bs-btn-disabled-border-color:#1f2426"
+    },
+    {
+      "source": "https://besseytools.com/frontend/dist/assets/main.css",
+      "selector": ".btn-outline-primary",
+      "declarations": "--bs-btn-color:#e3000f;--bs-btn-border-color:#e3000f;--bs-btn-hover-color:#fff;--bs-btn-hover-bg:#e3000f;--bs-btn-hover-border-color:#e3000f;--bs-btn-focus-shadow-rgb:227,0,15;--bs-btn-active-color:#fff;--bs-btn-active-bg:#e3000f;--bs-btn-active-border-color:#e3000f;--bs-btn-active-shadow:inset 0 3px 5px #00000020;--bs-btn-disabled-color:#e3000f;--bs-btn-disabled-bg:transparent;--bs-btn-disabled-border-color:#e3000f;--bs-gradient:none"
+    },
+    {
+      "source": "https://besseytools.com/frontend/dist/assets/main.css",
+      "selector": ".btn-outline-secondary",
+      "declarations": "--bs-btn-color:#e3e3e3;--bs-btn-border-color:#e3e3e3;--bs-btn-hover-color:#000;--bs-btn-hover-bg:#e3e3e3;--bs-btn-hover-border-color:#e3e3e3;--bs-btn-focus-shadow-rgb:227,227,227;--bs-btn-active-color:#000;--bs-btn-active-bg:#e3e3e3;--bs-btn-active-border-color:#e3e3e3;--bs-btn-active-shadow:inset 0 3px 5px #00000020;--bs-btn-disabled-color:#e3e3e3;--bs-btn-disabled-bg:transparent;--bs-btn-disabled-border-color:#e3e3e3;--bs-gradient:none"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "BESSEY Tools North America – BESSEY",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "colors.ink-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "colors.border-subtle": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://besseytools.com/kentico/bundles/pageComponents/styles?v=FazvQrgSLQxKH0mfJ0b4TQs64mUkEjGXTYiS4ojxmhA1"
+      ]
+    },
+    "colors.overlay-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "colors.overlay-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://besseytools.com/frontend/dist/assets/main.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-table": {
+      "status": "inferred"
+    }
+  }
+}

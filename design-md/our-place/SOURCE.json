@@ -1,0 +1,1231 @@
+{
+  "source_url": "https://fromourplace.com",
+  "final_url": "https://fromourplace.com/",
+  "captured_at": "2026-09-28T04:10:14.394869+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://fromourplace.com",
+      "final_url": "https://fromourplace.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "25be79a5a5218c87b8622d3f79bf9750f5bbae6e0dfcc17c1aff806dfcf62179",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://fromourplace.com/cdn/shop/t/4597/assets/fonts.css?v=128839496906980734061790566282",
+      "final_url": "https://fromourplace.com/cdn/shop/t/4597/assets/fonts.css?v=128839496906980734061790566282",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ada14020bf57188422df2346a7822f41615772d182943f6204f1c78d169ecb10",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+      "final_url": "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1bfca24ad87955c59e2ad6abace205fc95a27d6093660e45b07e907690997ab8",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+      "final_url": "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f4b7e804ab935b95decfa4c543fa957a1e39dc546060ea68bcaba16cb3f5915e",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282",
+      "final_url": "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c86f3569eb2db2b303d51c9f2c7496364dc8efb78e4ef76d41c4a6fbcbfbc8c2",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://fromourplace.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://fromourplace.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#35312e": {
+      "count": 108,
+      "sources": [
+        "https://fromourplace.com/",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#ffffff": {
+      "count": 73,
+      "sources": [
+        "https://fromourplace.com/",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282",
+        "https://fromourplace.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000000": {
+      "count": 69,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282",
+        "https://fromourplace.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#34312e": {
+      "count": 40,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#595752": {
+      "count": 25,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#ebe5d4": {
+      "count": 21,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+      ]
+    },
+    "#fcfaf6": {
+      "count": 21,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#cdc7b3": {
+      "count": 21,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#f5f1e9": {
+      "count": 20,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+      ]
+    },
+    "#f7f8f8": {
+      "count": 18,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#000000": {
+      "count": 16,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#e09d81": {
+      "count": 16,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#0000001a": {
+      "count": 14,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#4f463f": {
+      "count": 13,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+      ]
+    },
+    "#d37556": {
+      "count": 12,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+      ]
+    },
+    "#60605e": {
+      "count": 12,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#af5a3c": {
+      "count": 11,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#748ea1": {
+      "count": 11,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#7d836e": {
+      "count": 10,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#262c4d": {
+      "count": 9,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+      ]
+    },
+    "#ebe3d4": {
+      "count": 9,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+      ]
+    },
+    "#d3c468": {
+      "count": 9,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#fcfaf7": {
+      "count": 8,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#d3c2ca": {
+      "count": 8,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#dcad8a": {
+      "count": 8,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#d06845": {
+      "count": 8,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+      ]
+    },
+    "#d60270": {
+      "count": 8,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 8,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#fdfdfd": {
+      "count": 8,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 7,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#b55900": {
+      "count": 7,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#ccbd9e": {
+      "count": 7,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#6c674d": {
+      "count": 7,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+      ]
+    },
+    "#dc9d49": {
+      "count": 7,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#848484": {
+      "count": 7,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#5a6167": {
+      "count": 7,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#8c9195": {
+      "count": 7,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#797e83": {
+      "count": 7,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#384046": {
+      "count": 7,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#f6f3eb": {
+      "count": 6,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+      ]
+    },
+    "#a41d46": {
+      "count": 6,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#c87b5e": {
+      "count": 6,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#d6745a": {
+      "count": 6,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#fbf9f5": {
+      "count": 6,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+      ]
+    },
+    "#f2f3f3": {
+      "count": 6,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#c1a85a": {
+      "count": 6,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#baa94a": {
+      "count": 6,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#bbab4d": {
+      "count": 6,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#f7f3ec": {
+      "count": 5,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+      ]
+    },
+    "#b76d47": {
+      "count": 5,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#366495": {
+      "count": 5,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#d2cdb9": {
+      "count": 5,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+      ]
+    },
+    "#d2bd81": {
+      "count": 4,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+      ]
+    },
+    "#979797": {
+      "count": 4,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+      ]
+    },
+    "#5b653b": {
+      "count": 4,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#e4d3be": {
+      "count": 4,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#b4656a": {
+      "count": 4,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#c9bea1": {
+      "count": 4,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "#d16845": {
+      "count": 3,
+      "sources": [
+        "https://fromourplace.com/",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+      ]
+    },
+    "#00000014": {
+      "count": 3,
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+      ]
+    }
+  },
+  "font_families": {
+    "Apercu": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+    ],
+    "Arial": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+      "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+      "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+    ],
+    "Calibre": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/fonts.css?v=128839496906980734061790566282",
+      "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+      "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+    ],
+    "Calibre!important": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+    ],
+    "CalibreBold": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/fonts.css?v=128839496906980734061790566282",
+      "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+    ],
+    "CalibreMedium": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/fonts.css?v=128839496906980734061790566282",
+      "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+    ],
+    "CalibreRegular": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/fonts.css?v=128839496906980734061790566282",
+      "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+    ],
+    "CalibreSemibold": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/fonts.css?v=128839496906980734061790566282",
+      "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+    ],
+    "Chelt": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/fonts.css?v=128839496906980734061790566282",
+      "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+      "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+    ],
+    "Chelt!important": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+    ],
+    "CheltBTBolCon": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/fonts.css?v=128839496906980734061790566282",
+      "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+      "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+    ],
+    "CheltBTBolExtCon": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/fonts.css?v=128839496906980734061790566282",
+      "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+    ],
+    "CheltBTBolExtCon!important": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+    ],
+    "CheltBold": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/fonts.css?v=128839496906980734061790566282"
+    ],
+    "CheltItalic": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/fonts.css?v=128839496906980734061790566282",
+      "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+    ],
+    "CheltLight": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/fonts.css?v=128839496906980734061790566282",
+      "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+    ],
+    "Cheltlight": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+    ],
+    "Georgia": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+    ],
+    "Helvetica": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+      "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+    ],
+    "Helvetica Neue": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+    ],
+    "Plaid-L-Web": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/fonts.css?v=128839496906980734061790566282",
+      "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+      "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+    ],
+    "Plaid-L-Web!important": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+    ],
+    "Plaid-XL-Web": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/fonts.css?v=128839496906980734061790566282",
+      "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+      "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+    ],
+    "Plaid-XL-Web!important": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+    ],
+    "Plaid-XS-Web": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/fonts.css?v=128839496906980734061790566282",
+      "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+      "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+    ],
+    "Plaid-XS-Web!important": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+    ],
+    "Times New Roman": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+    ],
+    "Trebuchet MS": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+    ],
+    "Verdana": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+    ],
+    "basis-grotesque": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281"
+    ],
+    "calibre!important": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+    ],
+    "fortescue-display": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281"
+    ],
+    "sans-serif": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+      "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+      "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+    ],
+    "sans-serif!important": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+    ],
+    "serif": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+    ],
+    "serif!important": [
+      "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+      "selector": "body",
+      "declarations": "-webkit-font-smoothing:antialiased;color:#35312e;font-family:Plaid-XS-Web,Arial,sans-serif;font-size:100%;font-weight:400;line-height:1.7"
+    },
+    {
+      "source": "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+      "selector": "button",
+      "declarations": "-webkit-appearance:none;border:0;border-radius:0;color:#35312e;cursor:pointer;display:inline-block"
+    },
+    {
+      "source": "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+      "selector": ".white-button",
+      "declarations": "background-color:#fff;border-radius:2px;color:#262c4d;display:inline-block;outline:none;padding:20px 30px;text-align:center"
+    },
+    {
+      "source": "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+      "selector": ".orange-button",
+      "declarations": "background-color:#d37657;border-radius:2px;color:#fff;display:inline-block;outline:none;padding:20px 30px;text-align:center"
+    },
+    {
+      "source": "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+      "selector": ".submit-button",
+      "declarations": "align-items:center;appearance:none;-webkit-appearance:none;background-color:#d37657;color:#fff;cursor:pointer;display:flex;height:54px;justify-content:center;padding:20px 40px;text-align:center;transition:all .15s ease-out;width:100%"
+    },
+    {
+      "source": "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+      "selector": ".submit-button:hover",
+      "declarations": "background:#fff;border:1px solid #ebe5d4;box-shadow:0 2px 4px #0000001a;color:#34312e"
+    },
+    {
+      "source": "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+      "selector": ".orange-form-button",
+      "declarations": "background-color:#d37556;border-radius:4px;color:#fff;display:inline-block;font-family:Plaid-XL-Web;font-size:12px;height:54px;outline:none;padding:0 30px;text-align:center;text-transform:uppercase;width:100%"
+    },
+    {
+      "source": "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+      "selector": ".ghost-button",
+      "declarations": "appearance:none;-webkit-appearance:none;background-color:#f7f3ec;border:1.5px solid #34312e;border-radius:4px;color:#34312e;cursor:pointer;display:inline-block;outline:none;transition:all .15s ease-out"
+    },
+    {
+      "source": "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+      "selector": ".button-link",
+      "declarations": "background-color:#d37556;color:#fff;font-size:12px"
+    },
+    {
+      "source": "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+      "selector": ".button-link,.button__main",
+      "declarations": "border-radius:4px;font-family:Plaid-L-Web"
+    },
+    {
+      "source": "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+      "selector": ".button__main",
+      "declarations": "align-items:center;background-color:#35312e;color:#fcfaf6;display:flex;font-size:14px;height:46px;justify-content:center;padding:16px 40px;text-transform:uppercase;transition:all .2s ease;width:100%"
+    },
+    {
+      "source": "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+      "selector": ".button__main:hover",
+      "declarations": "background-color:#000"
+    },
+    {
+      "source": "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+      "selector": ".button__main.disabled",
+      "declarations": "background-color:#60605e!important;cursor:not-allowed"
+    },
+    {
+      "source": "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+      "selector": ".geolocation-modal-body",
+      "declarations": "font-family:Plaid-XS-Web;font-size:18px;line-height:150%;margin-bottom:38px"
+    },
+    {
+      "source": "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+      "selector": ".page-rte h1",
+      "declarations": "font-family:Plaid-XL-Web;font-size:16px;line-height:1.2;margin-bottom:20px;margin-top:50px;text-transform:uppercase"
+    },
+    {
+      "source": "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+      "selector": ".addons__header",
+      "declarations": "color:#35312e;font-family:CheltLight;font-size:36px;line-height:124%;margin-bottom:8px;text-align:center"
+    },
+    {
+      "source": "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+      "selector": ".addons__subheader",
+      "declarations": "color:#35312e;font-family:CalibreRegular;font-size:16px;line-height:144%;margin-bottom:36px;text-align:center"
+    },
+    {
+      "source": "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+      "selector": ".addons__product--price,.addons__product--title",
+      "declarations": "font-family:Chelt;font-size:20px"
+    },
+    {
+      "source": "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+      "selector": ".addons__product--description",
+      "declarations": "color:#35312e;font-family:CalibreRegular;font-size:14px;line-height:144%;margin-bottom:12px"
+    },
+    {
+      "source": "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+      "selector": ".dots ul button",
+      "declarations": "background-color:#fff;border:1px solid #34312e;border-radius:50%;height:8px;margin:0 4px;width:8px"
+    },
+    {
+      "source": "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+      "selector": ".dots ul li.active button",
+      "declarations": "background-color:#34312e"
+    },
+    {
+      "source": "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+      "selector": ".newsletter__slide button",
+      "declarations": "background-color:#0000"
+    },
+    {
+      "source": "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+      "selector": ".text-banner .large.text-banner-subheader",
+      "declarations": "font-family:Plaid-XS-Web;font-size:15px;letter-spacing:.94px;line-height:1.47"
+    },
+    {
+      "source": "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+      "selector": ".text-banner .large.text-banner-body",
+      "declarations": "font-family:Plaid-XS-Web;font-size:18px;line-height:1.56"
+    },
+    {
+      "source": "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+      "selector": ".text-banner .medium.text-banner-body",
+      "declarations": "font-family:Plaid-XS-Web;font-size:18px;line-height:1.56"
+    },
+    {
+      "source": "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+      "selector": ".text-banner .small.text-banner-subheader",
+      "declarations": "font-family:Plaid-XS-Web;font-size:14px;letter-spacing:.88px;line-height:1.57"
+    },
+    {
+      "source": "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+      "selector": ".text-banner .small.text-banner-body",
+      "declarations": "font-family:Plaid-XS-Web;font-size:16px;line-height:1.63"
+    },
+    {
+      "source": "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+      "selector": ".additional-product-information_title",
+      "declarations": "color:#4f463f;font-family:Plaid-L-Web;font-size:14px;line-height:1.71;text-transform:uppercase"
+    },
+    {
+      "source": "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+      "selector": ".additional-product-information_content>ul li",
+      "declarations": "color:#4f463f;font-family:Plaid-XS-Web;font-size:16px;line-height:1.38;margin-bottom:10px"
+    },
+    {
+      "source": "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+      "selector": ".modal-header h3",
+      "declarations": "color:#42b983;margin-top:0"
+    }
+  ],
+  "confidence": "historical_partial_css_evidence",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Our Place | The Best Non-Toxic Cookware & Kitchen Essentials",
+  "schema_version": 1,
+  "design_origin": "historical",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+      ]
+    },
+    "colors.primary-pressed": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fromourplace.com/",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "colors.ink-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "colors.muted-soft": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+      ]
+    },
+    "colors.hairline-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "colors.hairline-strong": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+      ]
+    },
+    "colors.surface-warm": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+      ]
+    },
+    "colors.surface-deep": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "colors.on-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+      ]
+    },
+    "colors.scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "colors.spice": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+      ]
+    },
+    "colors.spice-deep": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.char": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fromourplace.com/",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "colors.sage": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "colors.steam": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "colors.blue-salt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "colors.blue-salt-deep": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.cream": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.spruce": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "colors.rosa": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.lavender": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "colors.saffron": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/tailwind.app.css?v=53502995604711393791790566282"
+      ]
+    },
+    "colors.chrome": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+      ]
+    },
+    "colors.midnight": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://fromourplace.com/cdn/shop/t/4597/assets/critical.css?v=135004936741269543501790566281",
+        "https://fromourplace.com/cdn/shop/t/4597/assets/non-critical.css?v=80718754441666375771790566282"
+      ]
+    },
+    "colors.sienna": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.ember": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "typography.display-xl": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-lg": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.title-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.title-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.body-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.body-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.body-editorial": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.caption": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.eyebrow": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.eyebrow-lg": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.button-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.button-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.price": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.nav-link": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "rounded.none": {
+      "status": "unverified"
+    },
+    "rounded.xs": {
+      "status": "unverified"
+    },
+    "rounded.sm": {
+      "status": "unverified"
+    },
+    "rounded.md": {
+      "status": "unverified"
+    },
+    "rounded.lg": {
+      "status": "unverified"
+    },
+    "rounded.xl": {
+      "status": "unverified"
+    },
+    "rounded.full": {
+      "status": "unverified"
+    },
+    "spacing.xxs": {
+      "status": "unverified"
+    },
+    "spacing.xs": {
+      "status": "unverified"
+    },
+    "spacing.sm": {
+      "status": "unverified"
+    },
+    "spacing.md": {
+      "status": "unverified"
+    },
+    "spacing.base": {
+      "status": "unverified"
+    },
+    "spacing.lg": {
+      "status": "unverified"
+    },
+    "spacing.xl": {
+      "status": "unverified"
+    },
+    "spacing.xxl": {
+      "status": "unverified"
+    },
+    "spacing.section": {
+      "status": "unverified"
+    },
+    "components.button-primary": {
+      "status": "unverified"
+    },
+    "components.button-primary-hover": {
+      "status": "unverified"
+    },
+    "components.button-primary-disabled": {
+      "status": "unverified"
+    },
+    "components.button-spice": {
+      "status": "unverified"
+    },
+    "components.button-secondary": {
+      "status": "unverified"
+    },
+    "components.button-ghost": {
+      "status": "unverified"
+    },
+    "components.text-input": {
+      "status": "unverified"
+    },
+    "components.email-signup-input": {
+      "status": "unverified"
+    },
+    "components.nav-bar": {
+      "status": "unverified"
+    },
+    "components.nav-link-active": {
+      "status": "unverified"
+    },
+    "components.nav-link-inactive": {
+      "status": "unverified"
+    },
+    "components.announcement-bar": {
+      "status": "unverified"
+    },
+    "components.product-card": {
+      "status": "unverified"
+    },
+    "components.product-card-photo": {
+      "status": "unverified"
+    },
+    "components.product-card-title": {
+      "status": "unverified"
+    },
+    "components.product-card-eyebrow": {
+      "status": "unverified"
+    },
+    "components.product-card-price": {
+      "status": "unverified"
+    },
+    "components.color-swatch-dot": {
+      "status": "unverified"
+    },
+    "components.color-swatch-dot-selected": {
+      "status": "unverified"
+    },
+    "components.color-swatch-dot-pdp": {
+      "status": "unverified"
+    },
+    "components.color-swatch-dot-pdp-selected": {
+      "status": "unverified"
+    },
+    "components.color-swatch-out-of-stock": {
+      "status": "unverified"
+    },
+    "components.variant-pill": {
+      "status": "unverified"
+    },
+    "components.variant-pill-selected": {
+      "status": "unverified"
+    },
+    "components.bundle-set-card": {
+      "status": "unverified"
+    },
+    "components.hero-section": {
+      "status": "unverified"
+    },
+    "components.hero-cta": {
+      "status": "unverified"
+    },
+    "components.recipe-card": {
+      "status": "unverified"
+    },
+    "components.recipe-card-eyebrow": {
+      "status": "unverified"
+    },
+    "components.press-quote-band": {
+      "status": "unverified"
+    },
+    "components.badge-bestseller": {
+      "status": "unverified"
+    },
+    "components.badge-new": {
+      "status": "unverified"
+    },
+    "components.footer": {
+      "status": "unverified"
+    },
+    "components.footer-link": {
+      "status": "unverified"
+    },
+    "components.footer-legal": {
+      "status": "unverified"
+    }
+  },
+  "observed_color_tokens": 24,
+  "total_color_tokens": 36
+}

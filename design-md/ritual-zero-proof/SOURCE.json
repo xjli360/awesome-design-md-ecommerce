@@ -1,0 +1,835 @@
+{
+  "source_url": "https://ritualzeroproof.com",
+  "final_url": "https://www.ritualzeroproof.com/",
+  "captured_at": "2026-09-28T05:01:53.468749+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://ritualzeroproof.com",
+      "final_url": "https://www.ritualzeroproof.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "fc8d74ae85646a394c637afbdecb21c8b3da553b08fa0098e337eb4b4dc87cb9",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/index.css?v=111998427738136988931785526225",
+      "final_url": "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/index.css?v=111998427738136988931785526225",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4a55bbc81a6e7d5df7a4f66d5707afb5cd3dfb1d869a5c987cac32afdf7b7b45",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/obx-custom.css?v=101362869130947300161785523212",
+      "final_url": "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/obx-custom.css?v=101362869130947300161785523212",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "05f4ac73e669cabbe09ca45606f555f7703e89b7a658f06185b068233eca4e61",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.ritualzeroproof.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.ritualzeroproof.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/lsg-header.css?v=162646101582228544191785525175",
+      "final_url": "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/lsg-header.css?v=162646101582228544191785525175",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "cb7bf96f43ba364df370bdd28f9e3f7423aea27176eb871197d1ac6a9a5c4bfb",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/lsg-modal-dialog.css?v=102844142781356796521785523212",
+      "final_url": "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/lsg-modal-dialog.css?v=102844142781356796521785523212",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "bb5d6325f6deb828b2fe74f0ecd697180cae68b01c26dc707747e3f7a631f744",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#161a14": {
+      "count": 116,
+      "sources": [
+        "https://www.ritualzeroproof.com/",
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/index.css?v=111998427738136988931785526225",
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/obx-custom.css?v=101362869130947300161785523212"
+      ]
+    },
+    "#ffffff": {
+      "count": 88,
+      "sources": [
+        "https://www.ritualzeroproof.com/",
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/index.css?v=111998427738136988931785526225",
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/obx-custom.css?v=101362869130947300161785523212",
+        "https://www.ritualzeroproof.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/lsg-header.css?v=162646101582228544191785525175",
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/lsg-modal-dialog.css?v=102844142781356796521785523212"
+      ]
+    },
+    "#17af9c": {
+      "count": 30,
+      "sources": [
+        "https://www.ritualzeroproof.com/",
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/index.css?v=111998427738136988931785526225",
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/obx-custom.css?v=101362869130947300161785523212",
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/lsg-header.css?v=162646101582228544191785525175"
+      ]
+    },
+    "#d1efeb": {
+      "count": 11,
+      "sources": [
+        "https://www.ritualzeroproof.com/",
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/lsg-header.css?v=162646101582228544191785525175"
+      ]
+    },
+    "#00000000": {
+      "count": 10,
+      "sources": [
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/index.css?v=111998427738136988931785526225",
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/obx-custom.css?v=101362869130947300161785523212",
+        "https://www.ritualzeroproof.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/lsg-header.css?v=162646101582228544191785525175"
+      ]
+    },
+    "#222222": {
+      "count": 8,
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "#000000": {
+      "count": 8,
+      "sources": [
+        "https://www.ritualzeroproof.com/",
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/index.css?v=111998427738136988931785526225",
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/obx-custom.css?v=101362869130947300161785523212"
+      ]
+    },
+    "#555555": {
+      "count": 8,
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "#dddddd": {
+      "count": 7,
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "#eeff00": {
+      "count": 6,
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "#999999": {
+      "count": 4,
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 3,
+      "sources": [
+        "https://www.ritualzeroproof.com/",
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/index.css?v=111998427738136988931785526225"
+      ]
+    },
+    "#272d45": {
+      "count": 3,
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "#b4d5fe": {
+      "count": 3,
+      "sources": [
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/index.css?v=111998427738136988931785526225"
+      ]
+    },
+    "#333333": {
+      "count": 2,
+      "sources": [
+        "https://www.ritualzeroproof.com/",
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/lsg-header.css?v=162646101582228544191785525175"
+      ]
+    },
+    "#cccccc": {
+      "count": 2,
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 2,
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "#fcd300": {
+      "count": 2,
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "#00acd8": {
+      "count": 2,
+      "sources": [
+        "https://www.ritualzeroproof.com/",
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/index.css?v=111998427738136988931785526225"
+      ]
+    },
+    "#eeeeee": {
+      "count": 2,
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "#f9f8f4": {
+      "count": 2,
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "#467c99": {
+      "count": 2,
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "#38637a": {
+      "count": 2,
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "#90b0c2": {
+      "count": 2,
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.ritualzeroproof.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 2,
+      "sources": [
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/lsg-header.css?v=162646101582228544191785525175",
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/lsg-modal-dialog.css?v=102844142781356796521785523212"
+      ]
+    },
+    "#676986": {
+      "count": 1,
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "#f4f4f6": {
+      "count": 1,
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "#e5e5eb": {
+      "count": 1,
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "#f7f7f8": {
+      "count": 1,
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "#9a9db1": {
+      "count": 1,
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "#d3d4dd": {
+      "count": 1,
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "#00caaa": {
+      "count": 1,
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "#b2f9e9": {
+      "count": 1,
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 1,
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "#e08433": {
+      "count": 1,
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "#3cd8c4": {
+      "count": 1,
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "#96262c": {
+      "count": 1,
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "#b9e7e1": {
+      "count": 1,
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "#6b96ad": {
+      "count": 1,
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "#b5cbd6": {
+      "count": 1,
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "#d1dee6": {
+      "count": 1,
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "#e3ebf0": {
+      "count": 1,
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "#ffff00": {
+      "count": 1,
+      "sources": [
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/index.css?v=111998427738136988931785526225"
+      ]
+    },
+    "#cafdf8": {
+      "count": 1,
+      "sources": [
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/index.css?v=111998427738136988931785526225"
+      ]
+    },
+    "#cceef7": {
+      "count": 1,
+      "sources": [
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/obx-custom.css?v=101362869130947300161785523212"
+      ]
+    },
+    "#888888": {
+      "count": 1,
+      "sources": [
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/obx-custom.css?v=101362869130947300161785523212"
+      ]
+    },
+    "#3b3636": {
+      "count": 1,
+      "sources": [
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/obx-custom.css?v=101362869130947300161785523212"
+      ]
+    },
+    "#ffffffbf": {
+      "count": 1,
+      "sources": [
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/obx-custom.css?v=101362869130947300161785523212"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.ritualzeroproof.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.ritualzeroproof.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.ritualzeroproof.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0000000d": {
+      "count": 1,
+      "sources": [
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/lsg-header.css?v=162646101582228544191785525175"
+      ]
+    },
+    "#ffffff1a": {
+      "count": 1,
+      "sources": [
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/lsg-header.css?v=162646101582228544191785525175"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/lsg-modal-dialog.css?v=102844142781356796521785523212"
+      ]
+    }
+  },
+  "font_families": {
+    "Avenir Next": [
+      "https://www.ritualzeroproof.com/",
+      "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/lsg-header.css?v=162646101582228544191785525175",
+      "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/lsg-modal-dialog.css?v=102844142781356796521785523212"
+    ],
+    "Avenir Next Condensed": [
+      "https://www.ritualzeroproof.com/",
+      "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/index.css?v=111998427738136988931785526225"
+    ],
+    "Figtree": [
+      "https://www.ritualzeroproof.com/"
+    ],
+    "Georgia": [
+      "https://www.ritualzeroproof.com/",
+      "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/obx-custom.css?v=101362869130947300161785523212"
+    ],
+    "Mission Accomplished": [
+      "https://www.ritualzeroproof.com/"
+    ],
+    "Otoiwo Grotesk Ultra Wide": [
+      "https://www.ritualzeroproof.com/",
+      "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/index.css?v=111998427738136988931785526225"
+    ],
+    "inherit!important": [
+      "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/obx-custom.css?v=101362869130947300161785523212"
+    ],
+    "monospace": [
+      "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/index.css?v=111998427738136988931785526225"
+    ],
+    "oke-widget-icons": [
+      "https://www.ritualzeroproof.com/"
+    ],
+    "oke-widget-icons!important": [
+      "https://www.ritualzeroproof.com/"
+    ],
+    "sans serif": [
+      "https://www.ritualzeroproof.com/"
+    ],
+    "sans-serif": [
+      "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/index.css?v=111998427738136988931785526225",
+      "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/lsg-header.css?v=162646101582228544191785525175",
+      "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/lsg-modal-dialog.css?v=102844142781356796521785523212"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.ritualzeroproof.com/",
+      "selector": ".okeReviews[data-oke-container] button,div.okeReviews button",
+      "declarations": "border-radius:0;border:0;box-shadow:none;margin:0;width:auto;min-width:auto;padding:0;background-color:transparent;min-height:auto"
+    },
+    {
+      "source": "https://www.ritualzeroproof.com/",
+      "selector": "views[data-oke-container] input,.okeReviews[data-oke-container] select,.okeReviews[data-oke-container] textarea,div.okeReviews button,div.okeReviews input,div.o",
+      "declarations": "font-family:inherit;font-size:1em"
+    },
+    {
+      "source": "https://www.ritualzeroproof.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button,div.okeReviews .oke-button",
+      "declarations": "display:inline-block;border-style:solid;border-color:var(--oke-button-borderColor);border-width:var(--oke-button-borderWidth);background-color:var(--oke-button-backgroundColor);line-height:1;padding:12px 24px;margin:0;border-radius:var(--oke-button-borderRadius);color:var(--oke-button-textColor);text-align:center;position:relative;font-weight:var(--oke-button-fontWeight);font-size:var(--oke-button-fontSize);font-family:var(--oke-button-fontFamily);outline:0"
+    },
+    {
+      "source": "https://www.ritualzeroproof.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button.oke-is-loading:before,div.okeReviews .oke-button.oke-is-loading:before",
+      "declarations": "font-family:oke-widget-icons!important;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;content:\"\";color:undefined;font-size:12px;display:inline-block;animation:oke-spin 1s linear infinite;position:absolute;width:12px;height:12px;top:0;left:0;bottom:0;right:0;margin:auto"
+    },
+    {
+      "source": "https://www.ritualzeroproof.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button.oke-is-active,div.okeReviews .oke-button.oke-is-active",
+      "declarations": "background-color:var(--oke-button-backgroundColorActive);color:var(--oke-button-textColorActive);border-color:var(--oke-button-borderColorActive)"
+    },
+    {
+      "source": "https://www.ritualzeroproof.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button:not(.oke-is-loading):not(.oke-is-active):hover,div.okeReviews .oke-button:not(.oke-is-loading):not(.oke-is-active):h",
+      "declarations": "background-color:var(--oke-button-backgroundColorHover);color:var(--oke-button-textColorHover);border-color:var(--oke-button-borderColorHover);box-shadow:0 0 0 2px var(--oke-button-backgroundColorHover)"
+    },
+    {
+      "source": "https://www.ritualzeroproof.com/",
+      "selector": "is-loading):not(.oke-is-active):hover:active,div.okeReviews .oke-button:not(.oke-is-loading):not(.oke-is-active):active,div.okeReviews .oke-button:not(.oke-is-l",
+      "declarations": "background-color:var(--oke-button-backgroundColorActive);color:var(--oke-button-textColorActive);border-color:var(--oke-button-borderColorActive)"
+    },
+    {
+      "source": "https://www.ritualzeroproof.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-bodyText,div.okeReviews .oke-bodyText",
+      "declarations": "font-weight:var(--oke-bodyText-fontWeight);font-size:var(--oke-bodyText-fontSize);font-family:var(--oke-bodyText-fontFamily)"
+    },
+    {
+      "source": "https://www.ritualzeroproof.com/",
+      "selector": "views[data-oke-container] .oke-modal .oke-reviewContent-date,div.okeReviews .oke-modal .oke-helpful,div.okeReviews .oke-modal .oke-helpful-vote-button,div.okeRe",
+      "declarations": "color:#676986"
+    },
+    {
+      "source": "https://www.ritualzeroproof.com/",
+      "selector": ":root",
+      "declarations": "--oke-widget-spaceAbove:20px;--oke-widget-spaceBelow:20px;--oke-starRating-spaceAbove:0;--oke-starRating-spaceBelow:0;--oke-button-backgroundColor:#fff;--oke-button-backgroundColorHover:#161a14;--oke-button-backgroundColorActive:#161a14;--oke-button-textColor:#161a14;--oke-button-textColorHover:#fff;--oke-button-textColorActive:#fff;--oke-button-borderColor:#161a14;--oke-button-borderColorHover:#161a14;--oke-button-borderColorActive:#161a14;--oke-button-borderRadius:5px;--oke-button-borderWidth:2px;--oke-button-fontWeight:700;--oke-button-fontSize:var(--oke-text-regular,14px);--oke-button-fontFamily:inherit;--oke-border-color:#161a14;--oke-border-width:1px;--oke-text-primaryColor:#161a14;--o"
+    },
+    {
+      "source": "https://www.ritualzeroproof.com/",
+      "selector": ",div.okeReviews[data-oke-container] .oke-modal .oke-helpful,div.okeReviews[data-oke-container] .oke-modal .oke-helpful-vote-button,div.okeReviews[data-oke-conta",
+      "declarations": "color:var(--oke-text-primaryColor)"
+    },
+    {
+      "source": "https://www.ritualzeroproof.com/",
+      "selector": "#oke-loyalty-profile .u-textStyle--body.u-textStyle--ellipsis",
+      "declarations": "color:#161a14;font-family:\"Avenir Next\";font-size:14px;font-weight:400;line-height:20px;text-align:left"
+    },
+    {
+      "source": "https://www.ritualzeroproof.com/",
+      "selector": "#oke-loyalty-profile .u-textStyle--body",
+      "declarations": "color:#161a14;font-family:Georgia;font-size:28px;font-weight:400;line-height:1;margin:25px auto"
+    },
+    {
+      "source": "https://www.ritualzeroproof.com/",
+      "selector": "#oke-loyalty-profile .c-terms.u-textStyle--body",
+      "declarations": "color:#161a14;font-family:'Avenir Next';font-size:13px;font-weight:400;line-height:1;margin:25px auto"
+    },
+    {
+      "source": "https://www.ritualzeroproof.com/",
+      "selector": ".customer-logged-in #oke-loyalty-profile .u-textStyle--body",
+      "declarations": "font-family:'Avenir Next';font-size:13px;margin:0;margin-bottom:0"
+    },
+    {
+      "source": "https://www.ritualzeroproof.com/",
+      "selector": "#oke-loyalty-profile .c-button--outline",
+      "declarations": "border:1px solid #161a14;border-radius:5px;background-color:transparent;color:#161a14;font-family:\"Avenir Next\";font-size:20px;font-style:normal;font-weight:700;line-height:22px;text-transform:uppercase;text-align:center;max-width:412px;width:100%;height:60px"
+    },
+    {
+      "source": "https://www.ritualzeroproof.com/",
+      "selector": "#oke-loyalty-profile .c-loginForm-row button.c-button.c-button--stretch",
+      "declarations": "border-radius:5px;color:#FFF;font-family:\"Avenir Next\";font-size:20px;font-style:normal;font-weight:700;line-height:22px;text-transform:uppercase;text-align:center;max-width:412px;width:100%;height:60px"
+    },
+    {
+      "source": "https://www.ritualzeroproof.com/",
+      "selector": "#oke-loyalty-earn .c-embeddedHeaderBar-title:before",
+      "declarations": "color:#17af9c;content:'EARN POINTS';font-family:\"Avenir Next Condensed\";font-size:48px;font-weight:700;line-height:48px;text-align:center;text-transform:uppercase;-webkit-text-stroke:1px #161a14"
+    },
+    {
+      "source": "https://www.ritualzeroproof.com/",
+      "selector": "#oke-loyalty-earn .u-textStyle--body",
+      "declarations": "color:#161a14;font-family:\"Avenir Next\";font-size:20px;font-style:normal;font-weight:500;line-height:1"
+    },
+    {
+      "source": "https://www.ritualzeroproof.com/",
+      "selector": "#oke-loyalty-earn .c-actionCard .c-button.c-button--stretch",
+      "declarations": "border-radius:5px;display:flex;flex-direction:row;flex-wrap:nowrap;font-family:\"Avenir Next\";font-size:20px;font-style:normal;font-weight:700;text-align:center;text-transform:uppercase;height:50px;max-width:264px;width:100%"
+    },
+    {
+      "source": "https://www.ritualzeroproof.com/",
+      "selector": "#oke-loyalty-earn button.c-button--outline.c-button.c-button--stretch,#oke-loyalty-earn .c-actionCard .c-button.c-button--stretch .c-icon svg",
+      "declarations": "border-color:#161a14;color:#161a14"
+    },
+    {
+      "source": "https://www.ritualzeroproof.com/",
+      "selector": "div#oke-loyalty-redeem .c-embeddedHeaderBar-title",
+      "declarations": "color:#17af9c;font-family:\"Avenir Next Condensed\";font-size:48px;font-weight:700;line-height:48px;text-transform:uppercase;-webkit-text-stroke:1px #161a14;text-align:center"
+    },
+    {
+      "source": "https://www.ritualzeroproof.com/",
+      "selector": "div#oke-loyalty-redeem.okeLoyalty .u-textStyle--body",
+      "declarations": "color:#161a14;font-family:\"Avenir Next\";font-size:20px;font-style:normal;font-weight:500;line-height:32px;margin-top:0;text-align:center"
+    },
+    {
+      "source": "https://www.ritualzeroproof.com/",
+      "selector": "div#oke-loyalty-redeem.okeLoyalty .c-actionCard .u-textStyle--body:nth-of-type(4)",
+      "declarations": "color:#161a14;font-family:\"Avenir Next\";font-size:16px;font-weight:600;line-height:28px;margin-top:0"
+    },
+    {
+      "source": "https://www.ritualzeroproof.com/",
+      "selector": "div#oke-loyalty-redeem.okeLoyalty .c-button.c-confirmButton.c-button--stretch",
+      "declarations": "font-family:\"Avenir Next\";font-size:16px;font-weight:700;text-transform:uppercase"
+    },
+    {
+      "source": "https://www.ritualzeroproof.com/",
+      "selector": ".lsg-announcement .flickity-prev-next-button",
+      "declarations": "border-radius: 0;\n          width: 40px;\n          height: 40px;\n          color: inherit;\n          background: transparent;\n          border: none;\n          background-size: 10px;\n          background-repeat: no-repeat;\n          background-position: center;"
+    },
+    {
+      "source": "https://www.ritualzeroproof.com/",
+      "selector": ":root",
+      "declarations": "--lsg-header-height: 80px;"
+    },
+    {
+      "source": "https://www.ritualzeroproof.com/",
+      "selector": "#lsg-header",
+      "declarations": "background-color: #ffffff;\r\n    color: #161a14;\r\n\r\n    \r\n        box-shadow: 0 5px 20px rgba(0, 0, 0, 0.1);"
+    },
+    {
+      "source": "https://www.ritualzeroproof.com/",
+      "selector": "#lsg-header [lsg-cart-count]",
+      "declarations": "background-color: #17af9c;\r\n    color: #ffffff;"
+    },
+    {
+      "source": "https://www.ritualzeroproof.com/",
+      "selector": "#shop_label.lsg-header__menu-link",
+      "declarations": "border-radius: 5px;\r\n    background:var(--brand-color-scheme-ritual-teal, #17AF9C);\r\n    color:#fff;\r\n    border: 0 solid;\r\n    padding: 7px 31px 7px 18px;\r\n    transition: background .15s ease-in-out, color .15s ease-in-out;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Non-Alcoholic Spirits | Shop Non-Alcoholic Liquor & Alcohol Substitutes - Ritual Zero Proof",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ritualzeroproof.com/",
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/index.css?v=111998427738136988931785526225",
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/obx-custom.css?v=101362869130947300161785523212",
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/lsg-header.css?v=162646101582228544191785525175"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ritualzeroproof.com/",
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/index.css?v=111998427738136988931785526225",
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/obx-custom.css?v=101362869130947300161785523212"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ritualzeroproof.com/",
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/index.css?v=111998427738136988931785526225",
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/obx-custom.css?v=101362869130947300161785523212",
+        "https://www.ritualzeroproof.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/lsg-header.css?v=162646101582228544191785525175",
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/lsg-modal-dialog.css?v=102844142781356796521785523212"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ritualzeroproof.com/",
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/index.css?v=111998427738136988931785526225",
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/obx-custom.css?v=101362869130947300161785523212",
+        "https://www.ritualzeroproof.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/lsg-header.css?v=162646101582228544191785525175",
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/lsg-modal-dialog.css?v=102844142781356796521785523212"
+      ]
+    },
+    "colors.accent-teal-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ritualzeroproof.com/",
+        "https://www.ritualzeroproof.com/cdn/shop/t/648/assets/lsg-header.css?v=162646101582228544191785525175"
+      ]
+    },
+    "colors.accent-teal-bright": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "colors.accent-navy": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "colors.accent-berry": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.ritualzeroproof.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.zero-proof-badge": {
+      "status": "inferred"
+    }
+  }
+}

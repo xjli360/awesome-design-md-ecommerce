@@ -1,0 +1,825 @@
+{
+  "source_url": "https://travelpro.com",
+  "final_url": "https://travelpro.com/",
+  "captured_at": "2026-09-28T09:12:31.097337+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://travelpro.com",
+      "final_url": "https://travelpro.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "c7eb62389dec22ae2e334462e5b5745ae9966e2f87d7313af85904fc37019ea7",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933",
+      "final_url": "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c11933b5336c9372ea39b4dd3829382cfa944d2a700062cc310ec9d8e6fa22a6",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://travelpro.com/cdn/shop/t/439/assets/block_product-collection-grid.css?v=44537124718346955641789407932",
+      "final_url": "https://travelpro.com/cdn/shop/t/439/assets/block_product-collection-grid.css?v=44537124718346955641789407932",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b03bc5da98f51c671d32a33d2bead46517f99aec1077cccc9e0bcae059c6e663",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://travelpro.com/cdn/shop/t/439/assets/block_account.css?v=55559352210821064531789407930",
+      "final_url": "https://travelpro.com/cdn/shop/t/439/assets/block_account.css?v=55559352210821064531789407930",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "fdaffd39a7dc9c848b83eecf4f2af2f20e9451c73d723ba86448e76a10c9bd74",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://travelpro.com/cdn/shop/t/439/assets/block_cart.css?v=36101728130964523881789407932",
+      "final_url": "https://travelpro.com/cdn/shop/t/439/assets/block_cart.css?v=36101728130964523881789407932",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "1e55400659bf13b75a31e35c8adc75a6cebae8139335195be2173c6d0a8c13e2",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://travelpro.com/cdn/shop/t/439/assets/block_predictive-search.css?v=137477801223115748891789407930",
+      "final_url": "https://travelpro.com/cdn/shop/t/439/assets/block_predictive-search.css?v=137477801223115748891789407930",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "840bd201368ad9149e5f9af18f17e45b71a077108517c918f2a2d43e0aac70f4",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 110,
+      "sources": [
+        "https://travelpro.com/",
+        "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933"
+      ]
+    },
+    "#ffffff": {
+      "count": 93,
+      "sources": [
+        "https://travelpro.com/",
+        "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933"
+      ]
+    },
+    "#f8f9fa": {
+      "count": 34,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#000f9f": {
+      "count": 20,
+      "sources": [
+        "https://travelpro.com/",
+        "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 16,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 15,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#2f3441": {
+      "count": 14,
+      "sources": [
+        "https://travelpro.com/",
+        "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 14,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#e3ddd6": {
+      "count": 10,
+      "sources": [
+        "https://travelpro.com/",
+        "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933"
+      ]
+    },
+    "#fdfcf6": {
+      "count": 8,
+      "sources": [
+        "https://travelpro.com/",
+        "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933"
+      ]
+    },
+    "#fdfbf6": {
+      "count": 7,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#236192": {
+      "count": 6,
+      "sources": [
+        "https://travelpro.com/",
+        "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933"
+      ]
+    },
+    "#dedede": {
+      "count": 6,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#acacac": {
+      "count": 6,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#7f6957": {
+      "count": 4,
+      "sources": [
+        "https://travelpro.com/",
+        "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933"
+      ]
+    },
+    "#10100f": {
+      "count": 4,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#cacacb": {
+      "count": 3,
+      "sources": [
+        "https://travelpro.com/",
+        "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933"
+      ]
+    },
+    "#b6baff": {
+      "count": 3,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#ebebeb": {
+      "count": 3,
+      "sources": [
+        "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933"
+      ]
+    },
+    "#e2ddd6": {
+      "count": 3,
+      "sources": [
+        "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933"
+      ]
+    },
+    "#8f7260": {
+      "count": 2,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#6b5545": {
+      "count": 2,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#efefef": {
+      "count": 2,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#dee0ff": {
+      "count": 2,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#ececec": {
+      "count": 2,
+      "sources": [
+        "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933"
+      ]
+    },
+    "#8b0000": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#006400": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#3ed660": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#ee9441": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#c8c8c8": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#1e284b": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#2f3241": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#936b48": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#602d34": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#596b5b": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#283c5f": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#8b6e5c": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#b31d1d": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#8b7355": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#e60000": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#005fcc": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#0000004f": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#282828": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#9c8e82": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#d6d4d3": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#535dbc": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#666666": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933"
+      ]
+    },
+    "#0000004d": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933"
+      ]
+    },
+    "#ccc7c1": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933"
+      ]
+    },
+    "#fafafa": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933"
+      ]
+    },
+    "#171717": {
+      "count": 1,
+      "sources": [
+        "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933"
+    ],
+    "BlinkMacSystemFont": [
+      "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933"
+    ],
+    "Figtree": [
+      "https://travelpro.com/"
+    ],
+    "Helvetica": [
+      "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933"
+    ],
+    "Helvetica Neue": [
+      "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933"
+    ],
+    "Roboto": [
+      "https://travelpro.com/",
+      "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933"
+    ],
+    "Roboto!important": [
+      "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933"
+    ],
+    "Segoe UI": [
+      "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933"
+    ],
+    "sans-serif": [
+      "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933"
+    ],
+    "sans-serif !important": [
+      "https://travelpro.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://travelpro.com/",
+      "selector": "slot[name=more] .button",
+      "declarations": "cursor:pointer;border:none;background:none;padding:0;margin:0;font-family:var(--font-paragraph-family);font-size:var(--font-paragraph-size);text-transform:var(--text-transform);color:currentcolor;text-align:start"
+    },
+    {
+      "source": "https://travelpro.com/",
+      "selector": ".product-highlight__icon",
+      "declarations": "flex-shrink:0;width:var(--highlight-icon-size, 40px);height:var(--highlight-icon-size, 40px);display:flex;align-items:center;justify-content:center;color:var(--highlight-icon-color, #8B7355)"
+    },
+    {
+      "source": "https://travelpro.com/",
+      "selector": ".product-highlight__text",
+      "declarations": "font-family:var(--font-body--family);font-size:14px;font-weight:400;line-height:1.4;color:var(--highlight-text-color, var(--color-foreground));text-shadow:0 0 0px rgb(40,40,40),0 0 4px rgba(255,255,255,.5)"
+    },
+    {
+      "source": "https://travelpro.com/",
+      "selector": "body, .color-scheme-1, .color-scheme-2, .color-scheme-3, .color-scheme-4, .color-scheme-5, .color-scheme-6, .color-scheme-58084d4c-a86e-4d0a-855e-a0966e5043f7",
+      "declarations": "color: var(--color-foreground);\n    background-color: var(--color-background);"
+    },
+    {
+      "source": "https://travelpro.com/",
+      "selector": "slot[name=more] .button",
+      "declarations": "cursor:pointer;border:none;background:none;padding:0;margin:0;font-family:var(--font-paragraph-family);font-size:var(--font-paragraph-size);text-transform:var(--text-transform);color:currentcolor;text-align:start"
+    },
+    {
+      "source": "https://travelpro.com/",
+      "selector": "#shopify-section-sections--19542644490338__header_section .overflow-menu a[href*=\"/collections/sale\"] span",
+      "declarations": "color: #e60000 !important;"
+    },
+    {
+      "source": "https://travelpro.com/",
+      "selector": ".new-hero-slider .swiper-button-prev,\n  .new-hero-slider .swiper-button-next",
+      "declarations": "position: absolute !important;\n    top: 50% !important;\n    bottom: auto !important;\n    transform: translateY(-50%) !important;\n    width: 44px !important;\n    height: 44px !important;\n    margin: 0 !important;\n    background-color: rgba(255, 255, 255, 0.85) !important;\n    border-radius: 50% !important;\n    opacity: 1 !important;\n    cursor: pointer;\n    z-index: 3 !important;\n    display: flex !important;\n    align-items: center;\n    justify-content: center;\n    border: none;\n    padding: 0;\n    transition: background-color 0.2s ease, opacity 0.2s ease;\n    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);"
+    },
+    {
+      "source": "https://travelpro.com/",
+      "selector": ".new-hero-slider .swiper-button-prev:hover,\n  .new-hero-slider .swiper-button-next:hover",
+      "declarations": "background-color: #FFFFFF !important;\n    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.25);"
+    },
+    {
+      "source": "https://travelpro.com/",
+      "selector": ".new-hero-slider .swiper-button-prev:after,\n  .new-hero-slider .swiper-button-next:after",
+      "declarations": "font-weight: bold !important;\n    font-size: 14px !important;\n    color: #1a1a1a !important;"
+    },
+    {
+      "source": "https://travelpro.com/",
+      "selector": "slot[name=more] .button",
+      "declarations": "cursor:pointer;border:none;background:none;padding:0;margin:0;font-family:var(--font-paragraph-family);font-size:var(--font-paragraph-size);text-transform:var(--text-transform);color:currentcolor;text-align:start"
+    },
+    {
+      "source": "https://travelpro.com/",
+      "selector": "slot[name=more] .button",
+      "declarations": "cursor:pointer;border:none;background:none;padding:0;margin:0;font-family:var(--font-paragraph-family);font-size:var(--font-paragraph-size);text-transform:var(--text-transform);color:currentcolor;text-align:start"
+    },
+    {
+      "source": "https://travelpro.com/",
+      "selector": "slot[name=more] .button",
+      "declarations": "cursor:pointer;border:none;background:none;padding:0;margin:0;font-family:var(--font-paragraph-family);font-size:var(--font-paragraph-size);text-transform:var(--text-transform);color:currentcolor;text-align:start"
+    },
+    {
+      "source": "https://travelpro.com/",
+      "selector": "slot[name=more] .button",
+      "declarations": "cursor:pointer;border:none;background:none;padding:0;margin:0;font-family:var(--font-paragraph-family);font-size:var(--font-paragraph-size);text-transform:var(--text-transform);color:currentcolor;text-align:start"
+    },
+    {
+      "source": "https://travelpro.com/",
+      "selector": "slot[name=more] .button",
+      "declarations": "cursor:pointer;border:none;background:none;padding:0;margin:0;font-family:var(--font-paragraph-family);font-size:var(--font-paragraph-size);text-transform:var(--text-transform);color:currentcolor;text-align:start"
+    },
+    {
+      "source": "https://travelpro.com/",
+      "selector": "slot[name=more] .button",
+      "declarations": "cursor:pointer;border:none;background:none;padding:0;margin:0;font-family:var(--font-paragraph-family);font-size:var(--font-paragraph-size);text-transform:var(--text-transform);color:currentcolor;text-align:start"
+    },
+    {
+      "source": "https://travelpro.com/",
+      "selector": "body #insta-feed",
+      "declarations": "margin-bottom: 0px!important;\n          \n\n          \n\n          \n\n          \n            color: #2f3441;"
+    },
+    {
+      "source": "https://travelpro.com/",
+      "selector": "body #insta-feed h2",
+      "declarations": "color: #2f3441;\n        \n        \n          font-size: 36px!important;\n        \n         text-align: center;"
+    },
+    {
+      "source": "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933",
+      "selector": "body",
+      "declarations": "color:var(--color-foreground);background:var(--color-background);display:flex;flex-direction:column;margin:0;min-height:100svh;font-variation-settings:\"slnt\" 0"
+    },
+    {
+      "source": "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933",
+      "selector": ":root",
+      "declarations": "--hover-lift-amount: 4px;--hover-scale-amount: 1.03;--hover-subtle-zoom-amount: 1.015;--hover-shadow-color: var(--color-shadow);--hover-transition-duration: .25s;--hover-transition-timing: ease-out"
+    },
+    {
+      "source": "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933",
+      "selector": ".product-card__content slideshow-component",
+      "declarations": "--cursor: pointer"
+    },
+    {
+      "source": "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933",
+      "selector": ".product-card-gallery__title-placeholder",
+      "declarations": "padding:var(--padding-md);font-size:var(--font-size--2xl);line-height:var(--line-height--display-loose);word-break:break-word;color:var(--color-foreground);background-color:rgb(var(--color-foreground-rgb) / var(--opacity-5));aspect-ratio:var(--gallery-aspect-ratio);border-radius:var(--product-corner-radius);display:-webkit-box;-webkit-box-orient:vertical;overflow:hidden;text-overflow:ellipsis"
+    },
+    {
+      "source": "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933",
+      "selector": ".product-card-gallery__title-placeholder a",
+      "declarations": "color:var(--color-foreground)"
+    },
+    {
+      "source": "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933",
+      "selector": ".button",
+      "declarations": "font-family:var(--button-font-family-primary);font-weight:var(--button-font-weight-primary);text-transform:var(--button-text-case-primary);border-radius:var(--style-border-radius-buttons-primary)"
+    },
+    {
+      "source": "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933",
+      "selector": ".button-secondary",
+      "declarations": "font-family:var(--button-font-family-secondary);font-weight:var(--button-font-weight-secondary);text-transform:var(--button-text-case-secondary);border-radius:var(--style-border-radius-buttons-secondary)"
+    },
+    {
+      "source": "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933",
+      "selector": ".button,button.shopify-payment-button__button--unbranded",
+      "declarations": "--button-color: var(--color-primary-button-text);--button-background-color: var(--color-primary-button-background);--button-border-color: var(--color-primary-button-border);--button-border-width: var(--style-border-width-primary)"
+    },
+    {
+      "source": "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933",
+      "selector": ".button,.button-secondary,button.shopify-payment-button__button--unbranded",
+      "declarations": "--text-align: center;display:grid;align-content:center;text-decoration:none;text-align:var(--text-align);color:var(--button-color);-webkit-appearance:none;appearance:none;background-color:var(--button-background-color);border:none;font-family:var(--font-paragraph--family);font-style:var(--font-paragraph--style);font-size:var(--font-paragraph--size);line-height:var(--font-paragraph--line-height);margin-block:0;transition:color var(--animation-speed) var(--animation-easing),box-shadow var(--animation-speed) var(--animation-easing),background-color var(--animation-speed) var(--animation-easing);cursor:pointer;width:fit-content;box-shadow:inset 0 0 0 var(--button-border-width) var(--button-borde"
+    },
+    {
+      "source": "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933",
+      "selector": ".button-unstyled",
+      "declarations": "display:block;padding:0;background-color:inherit;color:inherit;border:0;border-radius:0;overflow:hidden;box-shadow:none;font-family:var(--font-paragraph--family);font-style:var(--font-paragraph--style);font-size:var(--font-paragraph--size)"
+    },
+    {
+      "source": "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933",
+      "selector": ".button-unstyled:hover",
+      "declarations": "background-color:inherit"
+    },
+    {
+      "source": "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933",
+      "selector": ".button-unstyled--with-icon",
+      "declarations": "color:var(--color-foreground);display:flex;gap:var(--gap-2xs, .3rem);align-items:center"
+    },
+    {
+      "source": "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933",
+      "selector": ".button-unstyled--transparent",
+      "declarations": "background-color:transparent;box-shadow:none"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Travel Luggage, Suitcase Sets, Backpacks & More | Travelpro®",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://travelpro.com/",
+        "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://travelpro.com/",
+        "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://travelpro.com/",
+        "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://travelpro.com/",
+        "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://travelpro.com/",
+        "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933"
+      ]
+    },
+    "colors.accent-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://travelpro.com/",
+        "https://travelpro.com/cdn/shop/t/439/assets/critical-home.css?v=23332425817250408161789407933"
+      ]
+    },
+    "colors.accent-tan": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "colors.sale-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "colors.border-subtle": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://travelpro.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.color-swatch-selector": {
+      "status": "inferred"
+    }
+  }
+}

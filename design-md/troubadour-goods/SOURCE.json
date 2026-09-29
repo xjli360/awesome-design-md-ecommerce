@@ -1,0 +1,792 @@
+{
+  "source_url": "https://troubadourgoods.com",
+  "final_url": "https://www.troubadourgoods.com/",
+  "captured_at": "2026-09-29T04:10:34.440086+00:00",
+  "method": "rendered-html-computed-css",
+  "pages": [
+    {
+      "url": "https://troubadourgoods.com",
+      "final_url": "https://www.troubadourgoods.com/",
+      "http_status": 200,
+      "content_type": "text/html; rendered-dom",
+      "sha256": "bc31a622f9cd6a881c0dc7adb670d0b41ac208814097788ee9a8b008fded27c6",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.troubadourgoods.com/_next/static/chunks/03u43bw8s55-b.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "final_url": "https://www.troubadourgoods.com/_next/static/chunks/03u43bw8s55-b.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4483189230c38006d78b5e074d6feedfb59e7c7d06d07512acf9d27f3a36e27f",
+      "snapshot": "rendered-style-1.css"
+    },
+    {
+      "url": "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "final_url": "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7d68d3538d5e6e2542ea330dd5c37a3b0d1a9d392578baa29f6435280cfe8c94",
+      "snapshot": "rendered-style-2.css"
+    },
+    {
+      "url": "https://www.troubadourgoods.com/#computed-style-snapshot",
+      "final_url": "https://www.troubadourgoods.com/#computed-style-snapshot",
+      "http_status": null,
+      "content_type": "text/css; derived-from=getComputedStyle",
+      "sha256": "0423c87ad3232fbefc628739e51fc86899b86371269a9097b7efcc1012c3934a",
+      "snapshot": "rendered-style-3.css"
+    }
+  ],
+  "colors": {
+    "#d9d9d9": {
+      "count": 181,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+        "https://www.troubadourgoods.com/#computed-style-snapshot"
+      ]
+    },
+    "#000000": {
+      "count": 136,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/03u43bw8s55-b.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+        "https://www.troubadourgoods.com/#computed-style-snapshot"
+      ]
+    },
+    "#ffffff": {
+      "count": 79,
+      "sources": [
+        "https://www.troubadourgoods.com/",
+        "https://www.troubadourgoods.com/_next/static/chunks/03u43bw8s55-b.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+        "https://www.troubadourgoods.com/#computed-style-snapshot"
+      ]
+    },
+    "#00000000": {
+      "count": 42,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/03u43bw8s55-b.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#2c2c2c": {
+      "count": 10,
+      "sources": [
+        "https://www.troubadourgoods.com/",
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+        "https://www.troubadourgoods.com/#computed-style-snapshot"
+      ]
+    },
+    "#0000001a": {
+      "count": 9,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#f0efeb": {
+      "count": 7,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+        "https://www.troubadourgoods.com/#computed-style-snapshot"
+      ]
+    },
+    "#9ca3af": {
+      "count": 6,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#111827": {
+      "count": 4,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#00000033": {
+      "count": 4,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#e1b22c": {
+      "count": 4,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#f7f6f3": {
+      "count": 3,
+      "sources": [
+        "https://www.troubadourgoods.com/"
+      ]
+    },
+    "#4b5563": {
+      "count": 3,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 3,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#d1d5db": {
+      "count": 3,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#374151": {
+      "count": 3,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#00000066": {
+      "count": 3,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#ffffff00": {
+      "count": 3,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 3,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#fafafa": {
+      "count": 3,
+      "sources": [
+        "https://www.troubadourgoods.com/#computed-style-snapshot"
+      ]
+    },
+    "#4f4f4f": {
+      "count": 2,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/03u43bw8s55-b.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#6b7280": {
+      "count": 2,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#e5e5df": {
+      "count": 2,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#80808080": {
+      "count": 2,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#4e72644d": {
+      "count": 2,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#2563eb": {
+      "count": 2,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#69815b": {
+      "count": 2,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#516657": {
+      "count": 1,
+      "sources": [
+        "https://www.troubadourgoods.com/"
+      ]
+    },
+    "#222222": {
+      "count": 1,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/03u43bw8s55-b.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#4f4f4f66": {
+      "count": 1,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/03u43bw8s55-b.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#ffffffe6": {
+      "count": 1,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/03u43bw8s55-b.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#3b82f680": {
+      "count": 1,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#1f2937": {
+      "count": 1,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#f3f4f6": {
+      "count": 1,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#00000080": {
+      "count": 1,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#b9b9b9": {
+      "count": 1,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#c44800": {
+      "count": 1,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#0000004d": {
+      "count": 1,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#0e0e0e": {
+      "count": 1,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#bebebe": {
+      "count": 1,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#c30102": {
+      "count": 1,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#fb2c36": {
+      "count": 1,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#0000003a": {
+      "count": 1,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#4e726433": {
+      "count": 1,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#f4f1f0": {
+      "count": 1,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "#010f1a": {
+      "count": 1,
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    }
+  },
+  "font_families": {
+    "Apple Color Emoji": [
+      "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+    ],
+    "IBM Plex Mono": [
+      "https://www.troubadourgoods.com/_next/static/chunks/03u43bw8s55-b.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "https://www.troubadourgoods.com/#computed-style-snapshot"
+    ],
+    "IBM Plex Mono Fallback": [
+      "https://www.troubadourgoods.com/_next/static/chunks/03u43bw8s55-b.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "https://www.troubadourgoods.com/#computed-style-snapshot"
+    ],
+    "Inter": [
+      "https://www.troubadourgoods.com/_next/static/chunks/03u43bw8s55-b.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "https://www.troubadourgoods.com/#computed-style-snapshot"
+    ],
+    "Inter Fallback": [
+      "https://www.troubadourgoods.com/_next/static/chunks/03u43bw8s55-b.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "https://www.troubadourgoods.com/#computed-style-snapshot"
+    ],
+    "Noto Color Emoji": [
+      "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+    ],
+    "Roboto": [
+      "https://www.troubadourgoods.com/_next/static/chunks/03u43bw8s55-b.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+    ],
+    "Roboto Fallback": [
+      "https://www.troubadourgoods.com/_next/static/chunks/03u43bw8s55-b.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+    ],
+    "Segoe UI Emoji": [
+      "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+    ],
+    "Segoe UI Symbol": [
+      "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+    ],
+    "sans-serif": [
+      "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+    ],
+    "system-ui": [
+      "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+    ],
+    "ui-sans-serif": [
+      "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-feature-settings:inherit;font-variation-settings:inherit;font-family:inherit;font-size:100%;font-weight:inherit;line-height:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "selector": "button,[type=button],[type=reset],[type=submit]",
+      "declarations": "-webkit-appearance:button;background-color:#0000;background-image:none"
+    },
+    {
+      "source": "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "selector": ".prose :where(h1):not(:where([class~=not-prose],[class~=not-prose] *))",
+      "declarations": "color:var(--tw-prose-headings);margin-top:0;margin-bottom:.888889em;font-size:2.25em;font-weight:800;line-height:1.11111"
+    },
+    {
+      "source": "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "selector": ".prose :where(h1 strong):not(:where([class~=not-prose],[class~=not-prose] *))",
+      "declarations": "color:inherit;font-weight:900"
+    },
+    {
+      "source": "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "selector": ".prose :where(a code):not(:where([class~=not-prose],[class~=not-prose] *)),.prose :where(h1 code):not(:where([class~=not-prose],[class~=not-prose] *))",
+      "declarations": "color:inherit"
+    },
+    {
+      "source": "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "selector": ".prose :where(tbody tr):not(:where([class~=not-prose],[class~=not-prose] *))",
+      "declarations": "border-bottom-width:1px;border-bottom-color:var(--tw-prose-td-borders)"
+    },
+    {
+      "source": "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "selector": ".button.primary",
+      "declarations": "--tw-bg-opacity:1;background-color:rgb(44 44 44/var(--tw-bg-opacity));--tw-text-opacity:1;color:rgb(255 255 255/var(--tw-text-opacity))"
+    },
+    {
+      "source": "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "selector": ".button.primary:hover",
+      "declarations": "--tw-bg-opacity:1;background-color:rgb(44 44 44/var(--tw-bg-opacity))"
+    },
+    {
+      "source": "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "selector": ".button.secondary",
+      "declarations": "--tw-bg-opacity:1;background-color:rgb(44 44 44/var(--tw-bg-opacity));--tw-text-opacity:1;color:rgb(255 255 255/var(--tw-text-opacity))"
+    },
+    {
+      "source": "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "selector": ".button.secondary:hover",
+      "declarations": "--tw-bg-opacity:1;background-color:rgb(44 44 44/var(--tw-bg-opacity))"
+    },
+    {
+      "source": "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "selector": ".button.tertiary",
+      "declarations": "--tw-bg-opacity:1;background-color:rgb(240 239 235/var(--tw-bg-opacity));text-align:center;font-family:var(--font-ibm-plex-mono);text-transform:uppercase;--tw-text-opacity:1;color:rgb(0 0 0/var(--tw-text-opacity));border-width:1px;border-color:#0000;justify-content:center;font-size:.8125rem"
+    },
+    {
+      "source": "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "selector": ".button.primary-alt",
+      "declarations": "--tw-bg-opacity:1;background-color:rgb(225 178 44/var(--tw-bg-opacity));--tw-text-opacity:1;color:rgb(255 255 255/var(--tw-text-opacity));border-width:1px;border-color:#0000"
+    },
+    {
+      "source": "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "selector": ".button.primary-alt:hover",
+      "declarations": "--tw-bg-opacity:1;background-color:rgb(163 71 29/var(--tw-bg-opacity))"
+    },
+    {
+      "source": "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "selector": ".button.black",
+      "declarations": "--tw-bg-opacity:1;background-color:rgb(0 0 0/var(--tw-bg-opacity));--tw-text-opacity:1;color:rgb(255 255 255/var(--tw-text-opacity));border-width:1px;border-color:#0000"
+    },
+    {
+      "source": "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "selector": ".button.black:hover",
+      "declarations": "--tw-border-opacity:1;border-color:rgb(163 71 29/var(--tw-border-opacity));--tw-bg-opacity:1;background-color:rgb(163 71 29/var(--tw-bg-opacity));--tw-text-opacity:1;color:rgb(255 255 255/var(--tw-text-opacity))"
+    },
+    {
+      "source": "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "selector": ".button.white",
+      "declarations": "--tw-bg-opacity:1;background-color:rgb(255 255 255/var(--tw-bg-opacity));--tw-text-opacity:1;color:rgb(0 0 0/var(--tw-text-opacity));border-width:1px;border-color:#0000"
+    },
+    {
+      "source": "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "selector": ".button.white:hover",
+      "declarations": "--tw-border-opacity:1;border-color:rgb(163 71 29/var(--tw-border-opacity));--tw-bg-opacity:1;background-color:rgb(163 71 29/var(--tw-bg-opacity));--tw-text-opacity:1;color:rgb(255 255 255/var(--tw-text-opacity))"
+    },
+    {
+      "source": "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "selector": ".button.outlined,.button.outlined:hover",
+      "declarations": "color:currentColor;background-color:#0000;border:1px solid"
+    },
+    {
+      "source": "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "selector": ".button.outlined.on-dark:hover",
+      "declarations": "--tw-border-opacity:1!important;border-color:rgb(225 178 44/var(--tw-border-opacity))!important;--tw-bg-opacity:1!important;background-color:rgb(225 178 44/var(--tw-bg-opacity))!important"
+    },
+    {
+      "source": "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "selector": ".button.dark-outlined",
+      "declarations": "--tw-border-opacity:1;border-width:1px;border-color:rgb(255 255 255/var(--tw-border-opacity))"
+    },
+    {
+      "source": "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "selector": ".button.dark-outlined:hover",
+      "declarations": "--tw-border-opacity:1;border-color:rgb(163 71 29/var(--tw-border-opacity));--tw-bg-opacity:1;background-color:rgb(163 71 29/var(--tw-bg-opacity));--tw-text-opacity:1;color:rgb(255 255 255/var(--tw-text-opacity))"
+    },
+    {
+      "source": "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "selector": ".button.outlined-primary:hover",
+      "declarations": "--tw-border-opacity:1;border-color:rgb(78 114 100/var(--tw-border-opacity));--tw-bg-opacity:1;background-color:rgb(78 114 100/var(--tw-bg-opacity));--tw-text-opacity:1;color:rgb(255 255 255/var(--tw-text-opacity))"
+    },
+    {
+      "source": "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "selector": ".button.dark-primary",
+      "declarations": "--tw-bg-opacity:1;background-color:rgb(17 38 23/var(--tw-bg-opacity));--tw-text-opacity:1;color:rgb(255 255 255/var(--tw-text-opacity));border-width:1px;border-color:#0000"
+    },
+    {
+      "source": "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "selector": ".button.dark-primary:hover",
+      "declarations": "--tw-bg-opacity:1;background-color:rgb(163 71 29/var(--tw-bg-opacity))"
+    },
+    {
+      "source": "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "selector": ".button.custom-button",
+      "declarations": "background-color:var(--button-bg-color)!important;color:var(--button-text-color)!important"
+    },
+    {
+      "source": "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "selector": ".\\!font-header",
+      "declarations": "font-family:var(--font-inter)!important"
+    },
+    {
+      "source": "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "selector": ".font-header",
+      "declarations": "font-family:var(--font-inter)"
+    },
+    {
+      "source": "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "selector": ":root",
+      "declarations": "--font-mr-eaves:mr-eaves-modern, sans-serif;--font-articulat:articulat-cf, sans-serif;--header-offset:2.5rem;--sticky-atc-height:79px;--sticky-atc-height-offset:0px;--mobile-sticky-menu-height:0;--mobile-toolbar-height:50px;--header-height:57px;--announcement-height:36px"
+    },
+    {
+      "source": "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "selector": ":root",
+      "declarations": "--header-height:57px"
+    },
+    {
+      "source": "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+      "selector": ":root",
+      "declarations": "--header-height:57px;--announcement-height:40px"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced.",
+    "Rendered capture is one desktop viewport and initial state only; computed style snapshot selectors are sampling identifiers, not original site selectors."
+  ],
+  "title": "Troubadour Bags & Accessories | Refined Performance | Leather | Fabric",
+  "viewport": {
+    "width": 1440,
+    "height": 1000
+  },
+  "screenshots": [
+    {
+      "snapshot": "desktop.png",
+      "sha256": "c69626d438c849e9530bd3b782c00f049dec831161d90c7c2f5a478724578476"
+    }
+  ],
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.troubadourgoods.com/",
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+        "https://www.troubadourgoods.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/03u43bw8s55-b.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+        "https://www.troubadourgoods.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.troubadourgoods.com/",
+        "https://www.troubadourgoods.com/_next/static/chunks/03u43bw8s55-b.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+        "https://www.troubadourgoods.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+        "https://www.troubadourgoods.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.troubadourgoods.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.troubadourgoods.com/",
+        "https://www.troubadourgoods.com/_next/static/chunks/03u43bw8s55-b.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU",
+        "https://www.troubadourgoods.com/#computed-style-snapshot"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "colors.accent-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "colors.eco-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "colors.eco-green-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.troubadourgoods.com/"
+      ]
+    },
+    "colors.alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "colors.link": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "colors.overlay": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "colors.paper-warm": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.troubadourgoods.com/_next/static/chunks/14g_xu2.~uvuj.css?dpl=dpl_Ao2NFrUSz5UrFTWjt8kuWHQdPtqU"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.button-tertiary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.laptop-fit-indicator": {
+      "status": "inferred"
+    }
+  }
+}

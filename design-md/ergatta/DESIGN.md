@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Ergatta
-description: A deep teal (#205b65) anchors Ergatta — not as a sporty accent but as the room itself, the water, the space you enter. This is a rowing-machine brand that borrows more from premium wellness studios and game-ui design than from gym equipment catalogs. The palette runs from that primary teal through a warm marigold (#fbcd0a) used sparingly for score highlights and achievement badges, a coral-orange (#fe663f) for secondary energy, and a soft lavender (#a89cc8) that surfaces in illustration and motion backgrounds. The canvas is a near-white (#f9fafb) with subtle warmth, not clinical hospital white. Type uses Nunito Sans for body and display — a rounded, open humanist sans that avoids the mechanical feel of typical fitness branding — and Pressura Light for select headline moments, a compressed sans that adds a sharp, editorial contrast. Buttons and cards use generous {rounded.sm} and {rounded.md} radii, but the signature move is the full-pill button ({rounded.full}) for primary actions like "Start Workout" or "Join Race", giving the interface a game-console, ready-to-play feel. The nav bar is a floating translucent panel over the hero, not a solid strip, and the hero itself is often a full-bleed video of water or rowing motion, overlaid with a scrim (#142435 at 50% opacity). Badges are compact pills with uppercase micro-labels, and the footer is a dense, dark teal (#142435) block with generous {spacing.section} padding. The overall mood is immersive, calm, and focused — a digital dojo rather than a leaderboard.
+name: "Ergatta"
+source_url: "https://ergatta.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep teal (#205b65) anchors Ergatta — not as a sporty accent but as the room itself, the water, the space you enter. This is a rowing-machine brand that borrows more from premium wellness studios and game-ui design than from gym equipment catalogs. The palette runs from that primary teal through a warm marigold (#fbcd0a) used sparingly for score highlights and achievement badges, a coral-orange (#fe663f) for secondary energy, and a soft lavender (#a89cc8) that surfaces in illustration and motion backgrounds. The canvas is a near-white (#f9fafb) with subtle warmth, not clinical hospital white. Type uses Nunito Sans for body and display — a rounded, open humanist sans that avoids the mechanical feel of typical fitness branding — and Pressura Light for select headline moments, a compressed sans that adds a sharp, editorial contrast. Buttons and cards use generous {rounded.sm} and {rounded.md} radii, but the signature move is the full-pill button ({rounded.full}) for primary actions like "Start Workout" or "Join Race", giving the interface a game-console, ready-to-play feel. The nav bar is a floating translucent panel over the hero, not a solid strip, and the hero itself is often a full-bleed video of water or rowing motion, overlaid with a scrim (#142435 at 50% opacity). Badges are compact pills with uppercase micro-labels, and the footer is a dense, dark teal (#142435) block with generous {spacing.section} padding. The overall mood is immersive, calm, and focused — a digital dojo rather than a leaderboard.
 
 colors:
   primary: "#205b65"
@@ -336,6 +340,8 @@ components:
 - Search bar may collapse to an icon that expands on tap.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover/active states** for most components (e.g., badge hover, footer link hover color, card hover shadow) were not reliably extracted from the live site CSS. The active states provided for buttons are inferred from common darkening patterns.
 - **Error and validation styling** for forms (error text color, border color on error, success states) was not observed. The `error` color (`#df340d`) is extracted but its usage context is unconfirmed.

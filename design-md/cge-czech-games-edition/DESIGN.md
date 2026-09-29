@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: CGE (Czech Games Edition)
-description: A board-game publisher whose identity is built on a deep, warm darkness — #16140e, a near-black brown that reads like a game-box interior or a well-worn tabletop, not the cold #111111 of digital-first brands. Against this ink, the brand deploys a tight, saturated palette of accents: #d80027 (a stop-sign red), #00a8c5 (a cyan that recalls ocean tiles in a strategy game), #fcc003 (a marigold yellow for highlights), and #ff7640 (a burnt orange for secondary energy). The canvas is #f0f0f0, a soft off-white that avoids the sterile glare of pure white, while #7a7a7a provides a muted middle ground for body text and secondary labels. The system uses generous {rounded.sm} (8px) on buttons and {rounded.md} (12px) on cards, a subtle softening that prevents the interface from feeling sharp or aggressive — appropriate for a brand that sells hours of focused, social play. The typography, while not fully extracted, likely favors a clean sans-serif for readability across rulebooks and digital storefronts. The overall mood is that of a well-lit game night: the tabletop is dark, the components are bright, and the focus is on the players, not the chrome.
+name: "CGE (Czech Games Edition)"
+source_url: "https://czechgames.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A board-game publisher whose identity is built on a deep, warm darkness — #16140e, a near-black brown that reads like a game-box interior or a well-worn tabletop, not the cold #111111 of digital-first brands. Against this ink, the brand deploys a tight, saturated palette of accents: #d80027 (a stop-sign red), #00a8c5 (a cyan that recalls ocean tiles in a strategy game), #fcc003 (a marigold yellow for highlights), and #ff7640 (a burnt orange for secondary energy). The canvas is #f0f0f0, a soft off-white that avoids the sterile glare of pure white, while #7a7a7a provides a muted middle ground for body text and secondary labels. The system uses generous {rounded.sm} (8px) on buttons and {rounded.md} (12px) on cards, a subtle softening that prevents the interface from feeling sharp or aggressive — appropriate for a brand that sells hours of focused, social play. The typography, while not fully extracted, likely favors a clean sans-serif for readability across rulebooks and digital storefronts. The overall mood is that of a well-lit game night: the tabletop is dark, the components are bright, and the focus is on the players, not the chrome.
 
 colors:
   primary: "#d80027"
@@ -364,6 +368,8 @@ components:
 - Product card badges remain visible on all breakpoints, but their text may truncate on very small screens.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The exact font family could not be extracted from the live site (only "swiper-icons" was found). The typography block uses "Inter" as a reasonable, clean sans-serif assumption for a board-game publisher. The actual brand font may differ.
 - Hover states for most components (beyond buttons) were not extracted and are inferred from common patterns.

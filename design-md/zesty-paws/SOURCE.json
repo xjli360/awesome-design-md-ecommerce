@@ -1,0 +1,784 @@
+{
+  "source_url": "https://zestypaws.com",
+  "final_url": "https://zestypaws.com/",
+  "captured_at": "2026-09-28T04:19:22.782364+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://zestypaws.com",
+      "final_url": "https://zestypaws.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "b175acfe0dbaac390024bfb66efd0509ae200087ee8a132cdddb341647b0ae20",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://zestypaws.com/cdn/shop/t/587/assets/fonts.css?v=140435290478509334051789572013",
+      "final_url": "https://zestypaws.com/cdn/shop/t/587/assets/fonts.css?v=140435290478509334051789572013",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "374998dd84032c703b49a9362ddb3be4971fd95883d34569d31eec6f4867202e",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://use.typekit.net/wfu8jkt.css",
+      "final_url": "https://use.typekit.net/wfu8jkt.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "cf9aba7fc39d85ba4158d846691cec4ef186197d0bd431f732d3d306ea9eefcc",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015",
+      "final_url": "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7f875db131e1b1fbea58e0ee0b774aa77fb8a969ce0c8ccf3b5d4624814371d4",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010",
+      "final_url": "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "371aaed28632b257bc7f0cb4bed0266aa0d28f2fd9cd0bee61c8e017a178a395",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://zestypaws.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://zestypaws.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 14,
+      "sources": [
+        "https://zestypaws.com/",
+        "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015",
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010",
+        "https://zestypaws.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#000000": {
+      "count": 7,
+      "sources": [
+        "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015"
+      ]
+    },
+    "#383838": {
+      "count": 6,
+      "sources": [
+        "https://zestypaws.com/",
+        "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015",
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "#fdefe0": {
+      "count": 5,
+      "sources": [
+        "https://zestypaws.com/"
+      ]
+    },
+    "#f7be00": {
+      "count": 5,
+      "sources": [
+        "https://zestypaws.com/",
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "#3b3b3b": {
+      "count": 4,
+      "sources": [
+        "https://zestypaws.com/",
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "#00000000": {
+      "count": 4,
+      "sources": [
+        "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015",
+        "https://zestypaws.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#ec7700": {
+      "count": 3,
+      "sources": [
+        "https://zestypaws.com/",
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 3,
+      "sources": [
+        "https://zestypaws.com/"
+      ]
+    },
+    "#ce4a22": {
+      "count": 2,
+      "sources": [
+        "https://zestypaws.com/",
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "#29387e": {
+      "count": 2,
+      "sources": [
+        "https://zestypaws.com/",
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "#ffb600": {
+      "count": 2,
+      "sources": [
+        "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015",
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "#0000001a": {
+      "count": 2,
+      "sources": [
+        "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015"
+      ]
+    },
+    "#00000012": {
+      "count": 2,
+      "sources": [
+        "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://zestypaws.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#284484": {
+      "count": 1,
+      "sources": [
+        "https://zestypaws.com/"
+      ]
+    },
+    "#40918d": {
+      "count": 1,
+      "sources": [
+        "https://zestypaws.com/"
+      ]
+    },
+    "#bd5e96": {
+      "count": 1,
+      "sources": [
+        "https://zestypaws.com/"
+      ]
+    },
+    "#4d9751": {
+      "count": 1,
+      "sources": [
+        "https://zestypaws.com/"
+      ]
+    },
+    "#fe8000": {
+      "count": 1,
+      "sources": [
+        "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015"
+      ]
+    },
+    "#00000026": {
+      "count": 1,
+      "sources": [
+        "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015"
+      ]
+    },
+    "#fbefe2": {
+      "count": 1,
+      "sources": [
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 1,
+      "sources": [
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "#a9a9a9": {
+      "count": 1,
+      "sources": [
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "#ececec": {
+      "count": 1,
+      "sources": [
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "#e77400": {
+      "count": 1,
+      "sources": [
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "#8a8b5b": {
+      "count": 1,
+      "sources": [
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "#217b37": {
+      "count": 1,
+      "sources": [
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "#1a6830": {
+      "count": 1,
+      "sources": [
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "#292929": {
+      "count": 1,
+      "sources": [
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "#d3d2cc": {
+      "count": 1,
+      "sources": [
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 1,
+      "sources": [
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "#dddddd": {
+      "count": 1,
+      "sources": [
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "#d5ece5": {
+      "count": 1,
+      "sources": [
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "#2e9e7b": {
+      "count": 1,
+      "sources": [
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "#fdf0f0": {
+      "count": 1,
+      "sources": [
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "#de2a2a": {
+      "count": 1,
+      "sources": [
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "#757575": {
+      "count": 1,
+      "sources": [
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://zestypaws.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://zestypaws.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://zestypaws.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "American Typewriter": [
+      "https://zestypaws.com/",
+      "https://zestypaws.com/cdn/shop/t/587/assets/fonts.css?v=140435290478509334051789572013"
+    ],
+    "Apple Color Emoji": [
+      "https://zestypaws.com/"
+    ],
+    "Arial": [
+      "https://zestypaws.com/"
+    ],
+    "Consolas": [
+      "https://zestypaws.com/"
+    ],
+    "Helvetica": [
+      "https://zestypaws.com/"
+    ],
+    "Liberation Mono": [
+      "https://zestypaws.com/"
+    ],
+    "Lucida Console": [
+      "https://zestypaws.com/"
+    ],
+    "Menlo": [
+      "https://zestypaws.com/"
+    ],
+    "Monaco": [
+      "https://zestypaws.com/"
+    ],
+    "SF Mono": [
+      "https://zestypaws.com/"
+    ],
+    "Segoe UI Emoji": [
+      "https://zestypaws.com/"
+    ],
+    "Segoe UI Symbol": [
+      "https://zestypaws.com/"
+    ],
+    "monospace": [
+      "https://zestypaws.com/"
+    ],
+    "motiva sans": [
+      "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+    ],
+    "motiva-sans": [
+      "https://zestypaws.com/",
+      "https://use.typekit.net/wfu8jkt.css"
+    ],
+    "sans-serif": [
+      "https://zestypaws.com/",
+      "https://use.typekit.net/wfu8jkt.css",
+      "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015",
+      "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://zestypaws.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: 40px;\n      --grid-column-count: 20;\n      --vertical-breather: 64px;\n      --vertical-breather-tight: 64px;\n\n      \n      --heading-xsmall-font-size: 11px;\n      --heading-small-font-size: 12px;\n      --heading-large-font-size: 48px;\n      --heading-h1-font-size: 48px;\n      --heading-h2-font-size: 36px;\n      --heading-h3-font-size: 30px;\n      --heading-h4-font-size: 22px;\n      --heading-h5-font-size: 18px;\n      --heading-h6-font-size: 16px;\n\n      \n      --form-input-field-height: 52px;\n      --form-submit-margin: 32px;\n\n      \n      --button-height: 52px;\n      --button-small-height: 44px;"
+    },
+    {
+      "source": "https://zestypaws.com/",
+      "selector": ":root",
+      "declarations": "--vertical-breather: 80px;\n      --vertical-breather-tight: 64px;\n      --product-list-block-spacing: 48px;\n\n      \n      --heading-large-font-size: 60px;\n      --heading-h1-font-size: 50px;\n      --heading-h2-font-size: 48px;\n      --heading-h3-font-size: 32px;\n      --heading-h4-font-size: 26px;\n      --heading-h5-font-size: 22px;\n      --heading-h6-font-size: 16px;"
+    },
+    {
+      "source": "https://zestypaws.com/",
+      "selector": ":root",
+      "declarations": "--vertical-breather: 90px;\n      --vertical-breather-tight: 64px;"
+    },
+    {
+      "source": "https://zestypaws.com/",
+      "selector": ":root",
+      "declarations": "--heading-font-family: \"American Typewriter\", Menlo, Consolas, Monaco, Liberation Mono, Lucida Console, monospace, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;\n      --heading-font-weight: 700;\n      --heading-font-style: normal;\n      --heading-font-transform: none;\n      --text-font-family: \"motiva-sans\", Arial, sans-serif;\n      --text-font-weight: 400;\n      --text-font-book-weight: 500;\n      --text-font-style: normal;\n      --text-font-transform: none;"
+    },
+    {
+      "source": "https://zestypaws.com/",
+      "selector": ":root",
+      "declarations": "--enable-sticky-announcement-bar: 0;"
+    },
+    {
+      "source": "https://zestypaws.com/",
+      "selector": ":root",
+      "declarations": "--enable-sticky-announcement-bar: 0;"
+    },
+    {
+      "source": "https://zestypaws.com/",
+      "selector": ":root",
+      "declarations": "--enable-sticky-header: 1;\n    --enable-transparent-header: 0;\n    --loading-bar-background: 56, 56, 56;"
+    },
+    {
+      "source": "https://zestypaws.com/",
+      "selector": "#shopify-section-sections--19509579939974__header",
+      "declarations": "--header-background: 255, 255, 255;\n    --header-text-color: 56, 56, 56;\n    --header-border-color: 225, 225, 225;\n    --reduce-header-padding: 2.4;position: -webkit-sticky;\n      position: sticky;\n      top: 0;z-index: 10;"
+    },
+    {
+      "source": "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015",
+      "selector": "button, input, select, textarea",
+      "declarations": "color: inherit;\n  font: inherit;\n  text-align: inherit;\n  margin: 0;"
+    },
+    {
+      "source": "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015",
+      "selector": ".heading, .blockquote, .rte h1, .rte h2, .rte h3, .rte h4, .rte h5, .rte h6, .rte blockquote",
+      "declarations": "font-family: var(--heading-font-family);\n  font-weight: var(--heading-font-weight);\n  font-style: var(--heading-font-style);\n  color: rgb(var(--heading-color));\n  text-transform: var(--heading-text-transform);\n  display: block;"
+    },
+    {
+      "source": "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015",
+      "selector": "p a:not(.button), .rte a:not(.button), .link",
+      "declarations": "text-underline-offset: 2px;\n  text-decoration: underline;\n  -webkit-text-decoration-color: rgba(var(--text-color), .35);\n  text-decoration-color: rgba(var(--text-color), .35);\n  transition: text-decoration-color .2s ease-in-out, color .2s ease-in-out;"
+    },
+    {
+      "source": "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015",
+      "selector": "p a:not(.button):hover, .rte a:not(.button):hover, .link:hover",
+      "declarations": "color: rgb(var(--text-color));\n    -webkit-text-decoration-color: rgb(var(--text-color));\n    text-decoration-color: rgb(var(--text-color));"
+    },
+    {
+      "source": "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015",
+      "selector": ".prev-next-button",
+      "declarations": "background: rgb(var(--prev-next-button-background, var(--root-background)));\n  color: rgb(var(--prev-next-button-color, var(--root-text-color)));\n  border: 1px solid rgba(var(--prev-next-button-color, var(--root-text-color)), .15);\n  border-radius: var(--button-border-radius);\n  pointer-events: auto;\n  justify-content: center;\n  align-items: center;\n  width: 40px;\n  height: 40px;\n  transition: color .2s ease-in-out;\n  display: flex;\n  overflow: hidden;"
+    },
+    {
+      "source": "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015",
+      "selector": ".prev-next-button[disabled]",
+      "declarations": "color: rgba(var(--prev-next-button-color), .3);"
+    },
+    {
+      "source": "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015",
+      "selector": ".input__field, #shopify-product-reviews .spr-form-input-text, #shopify-product-reviews .spr-form-input-email, #shopify-product-reviews .spr-form-input-textarea",
+      "declarations": "-webkit-appearance: none;\n  appearance: none;\n  height: var(--form-input-field-height);\n  line-height: var(--form-input-field-height);\n  border-radius: var(--button-border-radius);\n  border: 1px solid rgba(var(--text-color), .15);\n  box-shadow: none;\n  color: var(--form-input-color);\n  text-align: start;\n  background: none;\n  width: 100%;\n  padding: 0 18px;\n  transition: border .2s ease-in-out, box-shadow .2s ease-in-out;"
+    },
+    {
+      "source": "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015",
+      "selector": ".input__field:focus, select:focus, #shopify-product-reviews .spr-form-input-text:focus, #shopify-product-reviews .spr-form-input-email:focus, #shopify-product-r",
+      "declarations": "border-color: rgb(var(--text-color));\n  box-shadow: 0 0 0 1px rgb(var(--text-color)) inset;\n  outline: none;"
+    },
+    {
+      "source": "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015",
+      "selector": ".button, .shopify-challenge__button, #shopify-product-reviews .spr-summary-actions-newreview, #shopify-product-reviews .spr-button",
+      "declarations": "-webkit-appearance: none;\n  appearance: none;\n  line-height: var(--button-height);\n  text-align: center;\n  border-radius: var(--button-border-radius);\n  background: rgb(var(--button-background));\n  color: rgb(var(--button-text-color));\n  padding: 0 30px;\n  text-decoration: none;\n  display: inline-block;\n  position: relative;"
+    },
+    {
+      "source": "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015",
+      "selector": ".button:not(.button--text), .shopify-challenge__button, #shopify-product-reviews .spr-summary-actions-newreview, #shopify-product-reviews .spr-button",
+      "declarations": "font-size: calc(var(--base-font-size)  - 3px);\n  font-family: var(--text-font-family);\n  font-weight: var(--text-font-bold-weight);\n  text-transform: uppercase;\n  letter-spacing: 1.5px;"
+    },
+    {
+      "source": "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015",
+      "selector": ".button--primary, .shopify-challenge__button, #shopify-product-reviews .spr-summary-actions-newreview, #shopify-product-reviews .spr-button",
+      "declarations": "--button-background: var(--primary-button-background);\n  --button-text-color: var(--primary-button-text-color);"
+    },
+    {
+      "source": "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015",
+      "selector": ".button--secondary",
+      "declarations": "--button-background: var(--secondary-button-background);\n  --button-text-color: var(--secondary-button-text-color);"
+    },
+    {
+      "source": "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015",
+      "selector": ".button--ternary",
+      "declarations": "--button-background: var(--secondary-background);\n  --button-text-color: var(--root-text-color);"
+    },
+    {
+      "source": "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015",
+      "selector": ".button--outline",
+      "declarations": "--button-background: var(--background);\n  --button-text-color: var(--root-text-color);\n  border: 1px solid rgb(var(--border-color));"
+    },
+    {
+      "source": "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "--button-background: var(--primary-button-background);\n  --button-text-color: var(--primary-button-text-color);\n  -webkit-appearance: none !important;\n  appearance: none !important;\n  line-height: var(--button-height) !important;\n  text-align: center !important;\n  border-radius: var(--button-border-radius) !important;\n  font-size: calc(var(--base-font-size)  - 3px) !important;\n  font-family: var(--text-font-family) !important;\n  font-weight: var(--text-font-bold-weight) !important;\n  text-transform: uppercase !important;\n  letter-spacing: 1.5px !important;\n  background-color: rgb(var(--button-background)) !important;\n  color: rgb(var(--button-text-color)) !important;\n  padding: 0 30px !impor"
+    },
+    {
+      "source": "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015",
+      "selector": ".button, .shopify-challenge__button, #shopify-product-reviews .spr-summary-actions-newreview, #shopify-product-reviews .spr-button, .shopify-payment-button__but",
+      "declarations": "--button-overlay-color: rgb(from color-contrast(rgb(var(--button-background)) vs white, black) r g b / 7%);\n      background-image: linear-gradient(178deg, rgb(var(--button-background)), rgb(var(--button-background)) 10%, var(--button-overlay-color) 10%, var(--button-overlay-color) 100%), linear-gradient(rgb(var(--button-background)), rgb(var(--button-background)));"
+    },
+    {
+      "source": "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015",
+      "selector": ".shopify-model-viewer-ui.shopify-model-viewer-ui .shopify-model-viewer-ui__button",
+      "declarations": "color: rgb(var(--text-color));"
+    },
+    {
+      "source": "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015",
+      "selector": ".shopify-model-viewer-ui.shopify-model-viewer-ui .shopify-model-viewer-ui__button--control:hover",
+      "declarations": "color: rgba(var(--text-color), .55);"
+    },
+    {
+      "source": "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015",
+      "selector": "odel-viewer-ui.shopify-model-viewer-ui .shopify-model-viewer-ui__button--control:active, .shopify-model-viewer-ui.shopify-model-viewer-ui .shopify-model-viewer-",
+      "declarations": "color: rgba(var(--text-color), .55);\n  background: rgba(var(--text-color), .25);"
+    },
+    {
+      "source": "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015",
+      "selector": ".shopify-model-viewer-ui.shopify-model-viewer-ui .shopify-model-viewer-ui__button--control:not(:last-child):after",
+      "declarations": "border-color: rgba(var(--text-color), .25);"
+    },
+    {
+      "source": "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015",
+      "selector": ".shopify-model-viewer-ui.shopify-model-viewer-ui .shopify-model-viewer-ui__button--poster",
+      "declarations": "background: rgb(var(--background));\n  border-color: rgba(var(--text-color), .25);"
+    },
+    {
+      "source": "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015",
+      "selector": ".shopify-model-viewer-ui.shopify-model-viewer-ui .shopify-model-viewer-ui__button--poster:hover, .shopify-model-viewer-ui.shopify-model-viewer-ui .shopify-model",
+      "declarations": "color: rgba(var(--text-color), .55);"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Zesty Paws | Premium Quality Cat and Dog Supplements",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://zestypaws.com/",
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "colors.primary-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://zestypaws.com/",
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "colors.secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://zestypaws.com/",
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://zestypaws.com/",
+        "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015",
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://zestypaws.com/",
+        "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015",
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010",
+        "https://zestypaws.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://zestypaws.com/",
+        "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015",
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://zestypaws.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://zestypaws.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://zestypaws.com/"
+      ]
+    },
+    "colors.surface-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://zestypaws.com/",
+        "https://zestypaws.com/cdn/shop/t/587/assets/theme.css?v=42426524113533967101789572015",
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010",
+        "https://zestypaws.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://zestypaws.com/",
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "colors.error": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://zestypaws.com/cdn/shop/t/587/assets/custom.css?v=51966682020144550261789572010"
+      ]
+    },
+    "colors.accent-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://zestypaws.com/"
+      ]
+    },
+    "colors.accent-pink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://zestypaws.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.supplement-fact-callout": {
+      "status": "inferred"
+    }
+  }
+}

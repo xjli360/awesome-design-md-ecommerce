@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Summer Fridays
-description: Summer Fridays is a skincare brand that feels like a cool, calm exhale — a clean white canvas (#f4f4f6) punctuated by soft, muted neutrals (#e5e5eb, #dbdde4) and the occasional pop of unexpected color. The brand's voice is one of gentle efficacy, not aggressive transformation; it's the skincare equivalent of a lazy afternoon. The palette is anchored by a slate of sophisticated blues and grays (#676986, #2c3e50, #272d45) that lend a sense of quiet luxury, while accents like a vibrant teal (#0e7a82), a warm coral (#fd6210), and a playful yellow (#ffcf2a) inject moments of energy, often reserved for limited-edition packaging or special ingredients. Typography relies on the geometric, slightly retro Expressa, set in a range of weights that feel editorial yet approachable. The design system is defined by its generous use of soft, pill-shaped buttons (`{rounded.full}`) and cards with gentle rounding (`{rounded.lg}`), creating a tactile, human-friendly interface. There are no sharp corners or harsh contrasts; even primary actions, rendered in the deep blue-gray `{colors.primary}`, feel inviting rather than demanding. The overall mood is one of curated calm — a digital space that mirrors the brand's promise of skin that looks healthy, rested, and effortlessly radiant.
+name: "Summer Fridays"
+source_url: "https://summerfridays.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Summer Fridays is a skincare brand that feels like a cool, calm exhale — a clean white canvas (#f4f4f6) punctuated by soft, muted neutrals (#e5e5eb, #dbdde4) and the occasional pop of unexpected color. The brand's voice is one of gentle efficacy, not aggressive transformation; it's the skincare equivalent of a lazy afternoon. The palette is anchored by a slate of sophisticated blues and grays (#676986, #2c3e50, #272d45) that lend a sense of quiet luxury, while accents like a vibrant teal (#0e7a82), a warm coral (#fd6210), and a playful yellow (#ffcf2a) inject moments of energy, often reserved for limited-edition packaging or special ingredients. Typography relies on the geometric, slightly retro Expressa, set in a range of weights that feel editorial yet approachable. The design system is defined by its generous use of soft, pill-shaped buttons (`{rounded.full}`) and cards with gentle rounding (`{rounded.lg}`), creating a tactile, human-friendly interface. There are no sharp corners or harsh contrasts; even primary actions, rendered in the deep blue-gray `{colors.primary}`, feel inviting rather than demanding. The overall mood is one of curated calm — a digital space that mirrors the brand's promise of skin that looks healthy, rested, and effortlessly radiant.
 
 colors:
   primary: "#676986"
@@ -395,6 +399,8 @@ components:
 - The search bar collapses into a full-screen overlay on mobile, triggered by a search icon in the nav bar.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for many components (e.g., `text-input`, `select-input`, `product-card`) were not fully extractable from the live site and have been inferred from common patterns.
 - Error and success styling for forms (e.g., error messages, success banners) is not reliably documented.

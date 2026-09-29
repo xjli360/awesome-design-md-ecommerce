@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Little Tikes
-description: A primary blue (#259ce1) that reads as a bright, optimistic sky — not corporate navy or tech cobalt — anchors a playground of bold, chunky forms across the site. That blue hits buttons, badges, and the iconic red-and-yellow roof silhouette of the Cozy Coupe, while a deeper secondary blue (#22569c) provides weight in headers and footer blocks. The typography stack is a deliberate mix: Dinghy (a custom display face with a hand-drawn, slightly irregular feel) for headlines and hero text, GrilledCheeseBTN for playful callouts, and Nunito for body copy — a rounded sans-serif that keeps the reading experience soft and child-friendly. Oswald appears in uppercase navigation labels, adding a condensed, sporty contrast. The canvas is pure white (#ffffff), with hairline borders in #dedede that separate product tiles and category strips without adding visual noise. Product cards use generous {rounded.md} corners and a clean white surface, letting the toy photography — bright, shadowless, often against white or pastel backdrops — do the selling. Buttons are tall (48px minimum) with {rounded.sm} corners and the primary blue fill, while secondary actions drop to a white fill with a blue outline. The overall mood is unapologetically playful but not chaotic: the color palette stays tight (three blues, two grays, white), and the layout follows a strict 12-column grid with wide gutters. The brand trusts its 50-year heritage badge — "Parent Trusted for Over 50 Years" — as a persistent trust signal in the header, rendered in a small, uppercase Oswald label. There is no dark mode, no gradient, no shadow-heavy card treatment; the design is flat, bright, and built for speed on Shopify.
+name: "Little Tikes"
+source_url: "https://www.littletikes.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A primary blue (#259ce1) that reads as a bright, optimistic sky — not corporate navy or tech cobalt — anchors a playground of bold, chunky forms across the site. That blue hits buttons, badges, and the iconic red-and-yellow roof silhouette of the Cozy Coupe, while a deeper secondary blue (#22569c) provides weight in headers and footer blocks. The typography stack is a deliberate mix: Dinghy (a custom display face with a hand-drawn, slightly irregular feel) for headlines and hero text, GrilledCheeseBTN for playful callouts, and Nunito for body copy — a rounded sans-serif that keeps the reading experience soft and child-friendly. Oswald appears in uppercase navigation labels, adding a condensed, sporty contrast. The canvas is pure white (#ffffff), with hairline borders in #dedede that separate product tiles and category strips without adding visual noise. Product cards use generous {rounded.md} corners and a clean white surface, letting the toy photography — bright, shadowless, often against white or pastel backdrops — do the selling. Buttons are tall (48px minimum) with {rounded.sm} corners and the primary blue fill, while secondary actions drop to a white fill with a blue outline. The overall mood is unapologetically playful but not chaotic: the color palette stays tight (three blues, two grays, white), and the layout follows a strict 12-column grid with wide gutters. The brand trusts its 50-year heritage badge — "Parent Trusted for Over 50 Years" — as a persistent trust signal in the header, rendered in a small, uppercase Oswald label. There is no dark mode, no gradient, no shadow-heavy card treatment; the design is flat, bright, and built for speed on Shopify.
 
 colors:
   primary: "#259ce1"
@@ -393,6 +397,8 @@ components:
 - Breadcrumb trail truncates on mobile (shows only last 2 levels with "..." for earlier levels)
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for `button-secondary` and `button-tertiary-text` are inferred from common patterns; exact color transitions not extracted from live site
 - Error styling for form validation (error messages, iconography, animation) not observed; `text-input-error` border color is an assumption based on sale badge red

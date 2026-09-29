@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Matador Records
-description: A near-black canvas of #272725 — the color of a stage floor before the house lights go down — sets Matador Records apart from the white-box indie-label norm. Where most music sites float on white, Matador sinks into darkness, letting album art, tour posters, and the occasional red accent (#dd4938) punch with the urgency of a blown-out amp. The brand runs Epilogue at generous sizes for headlines and aktiv-grotesk for body copy, a pairing that reads as editorial and European rather than the expected punk or lo-fi vernacular. Navigation is a horizontal strip of uppercase links in muted gray (#c8c8c8) that brighten on hover, and the shop grid uses soft card surfaces (#f9f9f9) against the dark background — a subtle inversion of the standard e‑commerce layout. The red primary (#dd4938) appears sparingly: on add-to-cart buttons, sale badges, and the occasional vinyl pre-order banner, never overwhelming the black-and-white photography that carries the brand's visual identity. Rounded corners are restrained — buttons get {rounded.sm}, cards get {rounded.md} — but the search bar and newsletter signup use {rounded.full} pill shapes, a small gesture of approachability in an otherwise austere system. The overall effect is that of a well-curated record store at midnight: serious, warm, and entirely focused on the music.
+name: "Matador Records"
+source_url: "https://www.matadorrecords.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A near-black canvas of #272725 — the color of a stage floor before the house lights go down — sets Matador Records apart from the white-box indie-label norm. Where most music sites float on white, Matador sinks into darkness, letting album art, tour posters, and the occasional red accent (#dd4938) punch with the urgency of a blown-out amp. The brand runs Epilogue at generous sizes for headlines and aktiv-grotesk for body copy, a pairing that reads as editorial and European rather than the expected punk or lo-fi vernacular. Navigation is a horizontal strip of uppercase links in muted gray (#c8c8c8) that brighten on hover, and the shop grid uses soft card surfaces (#f9f9f9) against the dark background — a subtle inversion of the standard e‑commerce layout. The red primary (#dd4938) appears sparingly: on add-to-cart buttons, sale badges, and the occasional vinyl pre-order banner, never overwhelming the black-and-white photography that carries the brand's visual identity. Rounded corners are restrained — buttons get {rounded.sm}, cards get {rounded.md} — but the search bar and newsletter signup use {rounded.full} pill shapes, a small gesture of approachability in an otherwise austere system. The overall effect is that of a well-curated record store at midnight: serious, warm, and entirely focused on the music.
 
 colors:
   primary: "#dd4938"
@@ -319,6 +323,8 @@ components:
 - Artist detail pages collapse bio text into a "Read More" expandable section
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for text inputs and buttons beyond what was extracted (transition durations, shadow effects) are not confirmed from the live site
 - Error states for form validation (red borders, error messages) were not observed

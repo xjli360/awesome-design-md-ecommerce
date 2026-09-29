@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Lume Deodorant
-description: A confident, unapologetically pink brand that redefines body care with a bold, playful, and science-backed voice. The palette is anchored by a vibrant hot pink `#de1b83` that screams "this is not your grandmother's deodorant," supported by a deep maroon `#200000` and near-black `#020000` that ground the system with unexpected sophistication. The brand leans hard into its signature pink — it appears on every primary CTA, badge, and accent, creating a visual heartbeat that's impossible to ignore. Secondary accents of electric blue `#0077d7`, warm gold `#ffe593`, and a punchy orange `#fe5000` add energy without competing with the dominant rose. The canvas is a warm off-white `#fff4fd` with subtle pink undertones, while surfaces use `#fff4f7` and `#fff4f0` to keep the entire experience feeling soft and approachable. Typography is set in Poppins, a geometric sans-serif that balances the brand's playful personality with clean readability — display sizes at 28px and 24px carry the bold headlines, while body copy at 16px and 14px keeps product descriptions legible. Every corner is generously rounded (`{rounded.sm}` for buttons, `{rounded.md}` for cards, `{rounded.full}` for pills and badges), reinforcing the brand's friendly, approachable ethos. The result is a system that feels like a confident friend — warm, direct, and never apologetic about its pinkness.
+name: "Lume Deodorant"
+source_url: "https://lumedeodorant.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A confident, unapologetically pink brand that redefines body care with a bold, playful, and science-backed voice. The palette is anchored by a vibrant hot pink `#de1b83` that screams "this is not your grandmother's deodorant," supported by a deep maroon `#200000` and near-black `#020000` that ground the system with unexpected sophistication. The brand leans hard into its signature pink — it appears on every primary CTA, badge, and accent, creating a visual heartbeat that's impossible to ignore. Secondary accents of electric blue `#0077d7`, warm gold `#ffe593`, and a punchy orange `#fe5000` add energy without competing with the dominant rose. The canvas is a warm off-white `#fff4fd` with subtle pink undertones, while surfaces use `#fff4f7` and `#fff4f0` to keep the entire experience feeling soft and approachable. Typography is set in Poppins, a geometric sans-serif that balances the brand's playful personality with clean readability — display sizes at 28px and 24px carry the bold headlines, while body copy at 16px and 14px keeps product descriptions legible. Every corner is generously rounded (`{rounded.sm}` for buttons, `{rounded.md}` for cards, `{rounded.full}` for pills and badges), reinforcing the brand's friendly, approachable ethos. The result is a system that feels like a confident friend — warm, direct, and never apologetic about its pinkness.
 
 colors:
   primary: "#de1b83"
@@ -356,6 +360,8 @@ components:
 - Product card images maintain aspect ratio but reduce in size proportionally
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for tertiary text buttons (no reliable extraction available)
 - Error state styling for dropdowns and select elements

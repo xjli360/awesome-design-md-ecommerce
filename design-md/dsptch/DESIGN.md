@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: DSPTCH
-description: A brand built on the tension between raw utility and a single, unignorable red — #d20000, the color of a warning light on industrial machinery, of a tactical flashlight's low-battery indicator, of the exact moment a system demands attention. This red is the brand's only color voltage; it appears on the primary CTA, on sale badges, on the "Add to Cart" button, and nowhere else in the UI. The rest of the palette is a study in grayscale: #222222 for ink, #404040 for body text, #4f4f4f for muted states, #f4f4f2 and #f2f2f2 for surfaces, and #e6e6e6 for hairlines. The canvas is pure white (#ffffff). The typography system is equally restrained — Trade Gothic Next and IBM Plex Mono dominate, the latter a nod to code, to specs, to the kind of technical documentation that accompanies a precision tool. Headlines are set in Trade Gothic Next at 700 weight, tight tracking, no serifs, no sentiment. Body copy runs IBM Plex Mono at 400 weight, 14px, 1.5 line height — it reads like a product spec sheet, not a lifestyle blog. Corners are sharp: {rounded.none} on cards, {rounded.xs} on buttons, {rounded.sm} on inputs. There is no pill shape, no softness, no warmth. The nav bar is a thin strip of {colors.canvas} with {colors.ink} text, 60px tall, no background color, no shadow — just a floating utility belt. Product cards are flat white rectangles with a single hairline border (#e6e6e6), no elevation, no hover lift. The brand trusts the product photography — bags, cases, straps shot against white or concrete — to do all the emotional work. The design system is a toolbelt, not a living room.
+name: "DSPTCH"
+source_url: "https://www.dsptch.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A brand built on the tension between raw utility and a single, unignorable red — #d20000, the color of a warning light on industrial machinery, of a tactical flashlight's low-battery indicator, of the exact moment a system demands attention. This red is the brand's only color voltage; it appears on the primary CTA, on sale badges, on the "Add to Cart" button, and nowhere else in the UI. The rest of the palette is a study in grayscale: #222222 for ink, #404040 for body text, #4f4f4f for muted states, #f4f4f2 and #f2f2f2 for surfaces, and #e6e6e6 for hairlines. The canvas is pure white (#ffffff). The typography system is equally restrained — Trade Gothic Next and IBM Plex Mono dominate, the latter a nod to code, to specs, to the kind of technical documentation that accompanies a precision tool. Headlines are set in Trade Gothic Next at 700 weight, tight tracking, no serifs, no sentiment. Body copy runs IBM Plex Mono at 400 weight, 14px, 1.5 line height — it reads like a product spec sheet, not a lifestyle blog. Corners are sharp: {rounded.none} on cards, {rounded.xs} on buttons, {rounded.sm} on inputs. There is no pill shape, no softness, no warmth. The nav bar is a thin strip of {colors.canvas} with {colors.ink} text, 60px tall, no background color, no shadow — just a floating utility belt. Product cards are flat white rectangles with a single hairline border (#e6e6e6), no elevation, no hover lift. The brand trusts the product photography — bags, cases, straps shot against white or concrete — to do all the emotional work. The design system is a toolbelt, not a living room.
 
 colors:
   primary: "#d20000"
@@ -301,6 +305,8 @@ components:
 - Search bar moves from a dedicated header row on desktop to a hidden toggle on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for product cards could not be reliably extracted — the live site may use a subtle border color change or image zoom, but no CSS was found.
 - Error and success form states are inferred from extracted hex values (#ea0606, #00730b) but their exact application (border color, background tint, icon placement) is unknown.

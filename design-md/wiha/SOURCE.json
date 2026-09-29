@@ -1,0 +1,875 @@
+{
+  "source_url": "https://wihatools.com",
+  "final_url": "https://www.wihatools.com/",
+  "captured_at": "2026-09-28T09:18:28.779318+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://wihatools.com",
+      "final_url": "https://www.wihatools.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "60776dd6f60f2912775a381a9cf5ba19c69b75d7d017406b34e4906edec72049",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727",
+      "final_url": "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "8b61c1ba579491db317d37b5463c5a31f5e92d4a761140daf4b7a50bd281ecf4",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.wihatools.com/cdn/shop/t/60/assets/custom.css?v=111057300524616727741783353021",
+      "final_url": "https://www.wihatools.com/cdn/shop/t/60/assets/custom.css?v=111057300524616727741783353021",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f4dde6000e123ad1cf94f890f3c702d00fda854216c4d39b44812656e97b39ad",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.wihatools.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.wihatools.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css",
+      "final_url": "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "402bf7b27bf31e70fee81775418cc4029d51e34168d1856e09236d8587af985d",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.wihatools.com/cdn/shop/t/60/assets/mezereon.css?v=174542630291150327471751988508",
+      "final_url": "https://www.wihatools.com/cdn/shop/t/60/assets/mezereon.css?v=174542630291150327471751988508",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d83bee7229f9ee5f7e60c2aa246837dc623323b9a33ca73ac2a5f7eaa581a4d7",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 72,
+      "sources": [
+        "https://www.wihatools.com/",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/custom.css?v=111057300524616727741783353021",
+        "https://www.wihatools.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css"
+      ]
+    },
+    "#000000": {
+      "count": 20,
+      "sources": [
+        "https://www.wihatools.com/",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/custom.css?v=111057300524616727741783353021",
+        "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/mezereon.css?v=174542630291150327471751988508"
+      ]
+    },
+    "#d20024": {
+      "count": 19,
+      "sources": [
+        "https://www.wihatools.com/",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/custom.css?v=111057300524616727741783353021"
+      ]
+    },
+    "#cccccc": {
+      "count": 12,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css"
+      ]
+    },
+    "#ffffffff": {
+      "count": 11,
+      "sources": [
+        "https://www.wihatools.com/"
+      ]
+    },
+    "#cdd1d3": {
+      "count": 9,
+      "sources": [
+        "https://www.wihatools.com/",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/custom.css?v=111057300524616727741783353021"
+      ]
+    },
+    "#f4f6f8": {
+      "count": 9,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css"
+      ]
+    },
+    "#333333": {
+      "count": 9,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css"
+      ]
+    },
+    "#5d6971": {
+      "count": 8,
+      "sources": [
+        "https://www.wihatools.com/",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/custom.css?v=111057300524616727741783353021"
+      ]
+    },
+    "#ebeded": {
+      "count": 8,
+      "sources": [
+        "https://www.wihatools.com/",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/custom.css?v=111057300524616727741783353021"
+      ]
+    },
+    "#444444": {
+      "count": 6,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css"
+      ]
+    },
+    "#0e72b5": {
+      "count": 5,
+      "sources": [
+        "https://www.wihatools.com/"
+      ]
+    },
+    "#282828": {
+      "count": 5,
+      "sources": [
+        "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/custom.css?v=111057300524616727741783353021"
+      ]
+    },
+    "#fafafa": {
+      "count": 5,
+      "sources": [
+        "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/custom.css?v=111057300524616727741783353021"
+      ]
+    },
+    "#9c9c9c": {
+      "count": 5,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css"
+      ]
+    },
+    "#8c8c8c": {
+      "count": 5,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css"
+      ]
+    },
+    "#fabb00": {
+      "count": 4,
+      "sources": [
+        "https://www.wihatools.com/",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/custom.css?v=111057300524616727741783353021"
+      ]
+    },
+    "#282828ff": {
+      "count": 4,
+      "sources": [
+        "https://www.wihatools.com/"
+      ]
+    },
+    "#ffffff00": {
+      "count": 4,
+      "sources": [
+        "https://www.wihatools.com/",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/mezereon.css?v=174542630291150327471751988508"
+      ]
+    },
+    "#e7721b": {
+      "count": 4,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css"
+      ]
+    },
+    "#f45e44": {
+      "count": 4,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css"
+      ]
+    },
+    "#c5280d": {
+      "count": 4,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css"
+      ]
+    },
+    "#bbf7c5": {
+      "count": 4,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css"
+      ]
+    },
+    "#119408": {
+      "count": 4,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css"
+      ]
+    },
+    "#333333ff": {
+      "count": 3,
+      "sources": [
+        "https://www.wihatools.com/"
+      ]
+    },
+    "#d2091e": {
+      "count": 3,
+      "sources": [
+        "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/custom.css?v=111057300524616727741783353021"
+      ]
+    },
+    "#dddddd": {
+      "count": 3,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 3,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css"
+      ]
+    },
+    "#666666": {
+      "count": 3,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css"
+      ]
+    },
+    "#d9dbdc": {
+      "count": 3,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 3,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css"
+      ]
+    },
+    "#f9f9f9ff": {
+      "count": 2,
+      "sources": [
+        "https://www.wihatools.com/"
+      ]
+    },
+    "#222222ff": {
+      "count": 2,
+      "sources": [
+        "https://www.wihatools.com/"
+      ]
+    },
+    "#111111ff": {
+      "count": 2,
+      "sources": [
+        "https://www.wihatools.com/"
+      ]
+    },
+    "#faad14ff": {
+      "count": 2,
+      "sources": [
+        "https://www.wihatools.com/"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 2,
+      "sources": [
+        "https://www.wihatools.com/",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/custom.css?v=111057300524616727741783353021"
+      ]
+    },
+    "#0000001a": {
+      "count": 2,
+      "sources": [
+        "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727"
+      ]
+    },
+    "#dbdbdb": {
+      "count": 2,
+      "sources": [
+        "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/custom.css?v=111057300524616727741783353021"
+      ]
+    },
+    "#b90020": {
+      "count": 2,
+      "sources": [
+        "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727"
+      ]
+    },
+    "#dfdfdf": {
+      "count": 2,
+      "sources": [
+        "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.wihatools.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.wihatools.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 2,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css"
+      ]
+    },
+    "#e4e4e4": {
+      "count": 2,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/mezereon.css?v=174542630291150327471751988508"
+      ]
+    },
+    "#bbc4e4": {
+      "count": 2,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css"
+      ]
+    },
+    "#adadad": {
+      "count": 2,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css"
+      ]
+    },
+    "#ffffff80": {
+      "count": 2,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/mezereon.css?v=174542630291150327471751988508"
+      ]
+    },
+    "#00000066": {
+      "count": 2,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css"
+      ]
+    },
+    "#949a9f": {
+      "count": 1,
+      "sources": [
+        "https://www.wihatools.com/"
+      ]
+    },
+    "#0b0b0b4d": {
+      "count": 1,
+      "sources": [
+        "https://www.wihatools.com/"
+      ]
+    },
+    "#000000ff": {
+      "count": 1,
+      "sources": [
+        "https://www.wihatools.com/"
+      ]
+    },
+    "#666666ff": {
+      "count": 1,
+      "sources": [
+        "https://www.wihatools.com/"
+      ]
+    },
+    "#ff0000ff": {
+      "count": 1,
+      "sources": [
+        "https://www.wihatools.com/"
+      ]
+    },
+    "#f1f1f1ff": {
+      "count": 1,
+      "sources": [
+        "https://www.wihatools.com/"
+      ]
+    },
+    "#1e316a": {
+      "count": 1,
+      "sources": [
+        "https://www.wihatools.com/"
+      ]
+    },
+    "#505050": {
+      "count": 1,
+      "sources": [
+        "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727"
+      ]
+    },
+    "#5d6970": {
+      "count": 1,
+      "sources": [
+        "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727"
+      ]
+    },
+    "#00000080": {
+      "count": 1,
+      "sources": [
+        "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727"
+      ]
+    },
+    "#00000026": {
+      "count": 1,
+      "sources": [
+        "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727"
+      ]
+    },
+    "#00000088": {
+      "count": 1,
+      "sources": [
+        "https://www.wihatools.com/cdn/shop/t/60/assets/custom.css?v=111057300524616727741783353021"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.wihatools.com/"
+    ],
+    "Consolas": [
+      "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css"
+    ],
+    "Courier New": [
+      "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css"
+    ],
+    "Helvetica": [
+      "https://www.wihatools.com/"
+    ],
+    "Helvetica Neue": [
+      "https://www.wihatools.com/"
+    ],
+    "Menlo": [
+      "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css"
+    ],
+    "Monaco": [
+      "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css"
+    ],
+    "inherit!important": [
+      "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727"
+    ],
+    "monospace": [
+      "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css"
+    ],
+    "sans-serif": [
+      "https://www.wihatools.com/",
+      "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.wihatools.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: 20px;\n      --grid-column-count: 20;\n      --vertical-breather: 40px;\n      --vertical-breather-tight: 40px;\n\n      \n      --heading-xsmall-font-size: 11px;\n      --heading-small-font-size: 12px;\n      --heading-large-font-size: 48px;\n      --heading-h1-font-size: 36px;\n      --heading-h2-font-size: 32px;\n      --heading-h3-font-size: 32px;\n      --heading-h4-font-size: 30px;\n      --heading-h5-font-size: 28px;\n      --heading-h7-font-size: 14px;\n      --body-copy-medium-font-size: 18px;\n      --body-copy-large-font-size: 20px;\n\n      \n      --form-input-field-height: 52px;\n      --form-submit-margin: 32px;\n\n      \n      --button-height: 46px;\n      --button-small-height:"
+    },
+    {
+      "source": "https://www.wihatools.com/",
+      "selector": ":root",
+      "declarations": "--vertical-breather: 48px;\n      --vertical-breather-tight: 48px;\n      --product-list-block-spacing: 48px;\n\n      \n      --heading-large-font-size: 58px;\n      --heading-h1-font-size: 42px;\n      --heading-h1-line-height: 1.33;\n      --heading-h2-font-size: 38px;\n      --heading-h3-font-size: 38px;\n      --heading-h4-font-size: 32px;\n      --heading-h5-font-size: 32px;\n      --heading-h6-font-size: 22px;\n      --heading-h7-font-size: 16px;\n      --body-copy-small-font-size: 18px;\n      --body-copy-medium-font-size: 20px;\n      --body-copy-medium-line-height: 1.3;      \n      --body-copy-large-font-size: 22px;\n      --body-copy-large-line-height: 1.18;"
+    },
+    {
+      "source": "https://www.wihatools.com/",
+      "selector": ":root",
+      "declarations": "--vertical-breather: 48px;\n      --vertical-breather-tight: 48px;"
+    },
+    {
+      "source": "https://www.wihatools.com/",
+      "selector": ":root",
+      "declarations": "--wrapper-bg-color: #FFFFFFFF;\n  --wrapper-bg-color-hover: #F9F9F9FF;\n  --image-max-width: 400px;\n  --image-max-height: 600px;\n  --image-bg-color: #FFFFFFFF;\n  --image-bg-color-hover: #F9F9F9FF;\n  --add2cart-enabled:inline-block;\n  --add2cart-bg-color: #282828FF;\n  --add2cart-bg-color-hover: #FFFFFFFF;\n  --add2cart-text-color: #FFFFFFFF;\n  --add2cart-text-color-hover: #282828FF;\n  --add2cart-border-color: #282828FF;\n  --add2cart-border-color-hover: #282828FF;\n  --quickview-enabled:none;\n  --quickview-bg-color: #222222FF;\n  --quickview-bg-color-hover: #FFFFFFFF;\n  --quickview-text-color: #FFFFFFFF;\n  --quickview-text-color-hover: #111111FF;\n  --quickview-border-color: #222222FF;\n  --quickview"
+    },
+    {
+      "source": "https://www.wihatools.com/",
+      "selector": ".product-card__label--spring-sale",
+      "declarations": "background-color: #d20024;\n      color: white;"
+    },
+    {
+      "source": "https://www.wihatools.com/",
+      "selector": ".product-card__label--on-sale",
+      "declarations": "background-color: #d20024;\n      color: white;"
+    },
+    {
+      "source": "https://www.wihatools.com/",
+      "selector": ".product-card__label--pro-picks-sale",
+      "declarations": "background-color: #fabb00;\n      color: black;"
+    },
+    {
+      "source": "https://www.wihatools.com/",
+      "selector": ".product-card__label--stock-up-sale",
+      "declarations": "background-color: #1e316a;\n      color: white;"
+    },
+    {
+      "source": "https://www.wihatools.com/",
+      "selector": ".product-card__label--sema-special",
+      "declarations": "background-color: #d20024;\n      color: white;"
+    },
+    {
+      "source": "https://www.wihatools.com/",
+      "selector": ".product-card__label--stocking-stuffer-sale",
+      "declarations": "background-color: #d20024;\n      color: white;"
+    },
+    {
+      "source": "https://www.wihatools.com/",
+      "selector": ".product-card__label--web-exclusive",
+      "declarations": "background-color: #0e72b5;\n      color: white;"
+    },
+    {
+      "source": "https://www.wihatools.com/",
+      "selector": ".product-card__label--black-friday-deal",
+      "declarations": "background-color: #000000;\n      color: white;"
+    },
+    {
+      "source": "https://www.wihatools.com/",
+      "selector": ".product-card__label--winter-sale",
+      "declarations": "background-color: #0e72b5;\n      color: white;"
+    },
+    {
+      "source": "https://www.wihatools.com/",
+      "selector": ".product-card__label--new-tool",
+      "declarations": "background-color: #0e72b5;\n      color: white;"
+    },
+    {
+      "source": "https://www.wihatools.com/",
+      "selector": ".product-card__label--fathers-day-sale",
+      "declarations": "background-color: #d20024;\n      color: white;"
+    },
+    {
+      "source": "https://www.wihatools.com/",
+      "selector": ".product-card__label--safety-day-sale",
+      "declarations": "background-color: #d20024;\n      color: white;"
+    },
+    {
+      "source": "https://www.wihatools.com/",
+      "selector": ".product-card__label--50-off-in-cart",
+      "declarations": "background-color: #d20024;\n      color: white;"
+    },
+    {
+      "source": "https://www.wihatools.com/",
+      "selector": ".product-card__label--back-to-school-sale",
+      "declarations": "background-color: #d20024;\n      color: white;"
+    },
+    {
+      "source": "https://www.wihatools.com/",
+      "selector": ":root",
+      "declarations": "--enable-sticky-announcement-bar: 0;"
+    },
+    {
+      "source": "https://www.wihatools.com/",
+      "selector": ":root",
+      "declarations": "--enable-sticky-announcement-bar: 1;"
+    },
+    {
+      "source": "https://www.wihatools.com/",
+      "selector": ":root",
+      "declarations": "--enable-sticky-header: 1;\n    --enable-transparent-header: 0;\n    --loading-bar-background: 40, 40, 40;"
+    },
+    {
+      "source": "https://www.wihatools.com/",
+      "selector": "#shopify-section-header",
+      "declarations": "--header-background: 255, 255, 255;\n    --header-text-color: 40, 40, 40;\n    --header-border-color: 223, 223, 223;position: -webkit-sticky;\n      position: sticky;top: calc(var(--enable-sticky-announcement-bar) * var(--announcement-bar-height, 0px));\n    z-index: 4;"
+    },
+    {
+      "source": "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727",
+      "selector": "button,input,select,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0;text-align:inherit"
+    },
+    {
+      "source": "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727",
+      "selector": ".flickity-button",
+      "declarations": "transition:background-color .25s ease-out,border-color .25s ease-out;width:80px;height:30px;background-color:#fff;border:2px solid #EBEDED;position:absolute;bottom:0;text-align:center"
+    },
+    {
+      "source": "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727",
+      "selector": ".flickity-button:before",
+      "declarations": "content:\"\";transition:background-color .25s ease-out,border-color .25s ease-out;position:absolute;background-color:#fff;top:0;height:30px;width:25px;border:2px solid #EBEDED;transform-origin:100% 100%;margin-top:-2px;margin-right:-2px"
+    },
+    {
+      "source": "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727",
+      "selector": ".flickity-button:hover",
+      "declarations": "background-color:#d20024;border-color:#d20024"
+    },
+    {
+      "source": "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727",
+      "selector": ".flickity-button:hover:before",
+      "declarations": "border-color:#d20024;background-color:#d20024"
+    },
+    {
+      "source": "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727",
+      "selector": ".heading,.blockquote,.rte h1,.rte h2,.rte h3,.rte h4,.rte h5,.rte h6,.rte blockquote",
+      "declarations": "display:block;font-family:var(--heading-font-family);font-weight:var(--heading-font-weight);font-style:var(--heading-font-style);color:rgb(var(--heading-color));text-transform:var(--heading-text-transform)"
+    },
+    {
+      "source": "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727",
+      "selector": "p a:not(.button),.rte a:not(.button),.link",
+      "declarations": "text-decoration:underline;text-underline-offset:2px;-webkit-text-decoration-color:rgba(var(--text-color),.35);text-decoration-color:rgba(var(--text-color),.35);transition:color .2s ease-in-out,-webkit-text-decoration-color .2s ease-in-out;transition:text-decoration-color .2s ease-in-out,color .2s ease-in-out;transition:text-decoration-color .2s ease-in-out,color .2s ease-in-out,-webkit-text-decoration-color .2s ease-in-out"
+    },
+    {
+      "source": "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727",
+      "selector": "p a:not(.button):hover,.rte a:not(.button):hover,.link:hover",
+      "declarations": "color:rgb(var(--text-color));-webkit-text-decoration-color:rgb(var(--text-color));text-decoration-color:rgb(var(--text-color))"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Professional Hand Tools, Insulated Tools & Tool Kits | Wiha Tools USA",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wihatools.com/",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/custom.css?v=111057300524616727741783353021"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/custom.css?v=111057300524616727741783353021"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wihatools.com/",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/custom.css?v=111057300524616727741783353021",
+        "https://www.wihatools.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/custom.css?v=111057300524616727741783353021"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wihatools.com/",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/custom.css?v=111057300524616727741783353021",
+        "https://www.wihatools.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wihatools.com/"
+      ]
+    },
+    "colors.accent-yellow": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wihatools.com/",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/custom.css?v=111057300524616727741783353021"
+      ]
+    },
+    "colors.accent-navy": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wihatools.com/"
+      ]
+    },
+    "colors.accent-black": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wihatools.com/",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/custom.css?v=111057300524616727741783353021",
+        "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/mezereon.css?v=174542630291150327471751988508"
+      ]
+    },
+    "colors.neutral-200": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wihatools.com/",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/theme.css?v=6647749717706098771786458727",
+        "https://www.wihatools.com/cdn/shop/t/60/assets/custom.css?v=111057300524616727741783353021"
+      ]
+    },
+    "colors.neutral-300": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css"
+      ]
+    },
+    "colors.neutral-400": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@mezereon/ui-shopify@2.0.9/dist/ui-shopify.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-table": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Generation Records
-description: A black-walled punk cathedral where #f94877 — a hot, almost-fluorescent pink — cuts through the darkness like a stage light, used sparingly on sale badges, add-to-cart buttons, and the occasional header accent. The site runs on a near-monochrome palette of #111111, #222222, #272727, and #1e1e1e for backgrounds and body text, with #fbfbfb and #eeeeee providing the only relief on cards and hover states. League Gothic, a compressed, high-contrast display face, handles category headers and price tags with the same blunt-force impact as a seven-inch single sleeve, while Arial and Helvetica Neue carry product descriptions and navigation in utilitarian weight 400. The grid is tight — product thumbnails sit at {rounded.sm} with minimal padding, and the search bar is a simple outlined rectangle rather than a pill, refusing any of the friendly curves that e-commerce defaults to. Social icons for Facebook (#3b5998), Instagram (#e4405f), Twitter (#55acee), and YouTube (#cc2127) appear as raw brand-color circles in the footer, unsoftened and unapologetic. The overall effect is less "record store website" and more "zine layout from 1994 that happens to have a checkout flow" — a deliberate roughness that signals authenticity over polish.
+name: "Generation Records"
+source_url: "https://www.generationrecords.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A black-walled punk cathedral where #f94877 — a hot, almost-fluorescent pink — cuts through the darkness like a stage light, used sparingly on sale badges, add-to-cart buttons, and the occasional header accent. The site runs on a near-monochrome palette of #111111, #222222, #272727, and #1e1e1e for backgrounds and body text, with #fbfbfb and #eeeeee providing the only relief on cards and hover states. League Gothic, a compressed, high-contrast display face, handles category headers and price tags with the same blunt-force impact as a seven-inch single sleeve, while Arial and Helvetica Neue carry product descriptions and navigation in utilitarian weight 400. The grid is tight — product thumbnails sit at {rounded.sm} with minimal padding, and the search bar is a simple outlined rectangle rather than a pill, refusing any of the friendly curves that e-commerce defaults to. Social icons for Facebook (#3b5998), Instagram (#e4405f), Twitter (#55acee), and YouTube (#cc2127) appear as raw brand-color circles in the footer, unsoftened and unapologetic. The overall effect is less "record store website" and more "zine layout from 1994 that happens to have a checkout flow" — a deliberate roughness that signals authenticity over polish.
 
 colors:
   primary: "#f94877"
@@ -365,6 +369,8 @@ components:
 - Sale badges and format badges remain visible at all breakpoints — never hidden
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all interactive elements could not be fully extracted — only primary button and product card hover were confirmed from the live site
 - Error states for form inputs (validation, required fields, incorrect formats) were not observed

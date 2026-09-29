@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Lutron
-description: Every Lutron control surface is engineered to vanish — flush-mounted keypads in architectural finishes, dimmers that slide without printed labels, apps that mirror the stillness of a properly lit room. The digital expression carries this same discipline. A near-black navy (#0a0e17) dominates hero sections and system-selector panels, implying the enclosure of a well-appointed room rather than the brightness the products command. Against that dark field, warm amber (#e07830) performs exactly the function of a dimmed sconce: it draws the eye to precisely one thing at a time, appearing only on primary CTAs, active navigation states, and product callout moments. The contrast is architectural — dark ground, warm signal.
+name: "Lutron"
+source_url: "https://www.lutron.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Every Lutron control surface is engineered to vanish — flush-mounted keypads in architectural finishes, dimmers that slide without printed labels, apps that mirror the stillness of a properly lit room. The digital expression carries this same discipline. A near-black navy (#0a0e17) dominates hero sections and system-selector panels, implying the enclosure of a well-appointed room rather than the brightness the products command. Against that dark field, warm amber (#e07830) performs exactly the function of a dimmed sconce: it draws the eye to precisely one thing at a time, appearing only on primary CTAs, active navigation states, and product callout moments. The contrast is architectural — dark ground, warm signal.
 
   Typography runs in a clean geometric sans-serif at conservative weights. Display headings sit at 48px in fontWeight 300, never the heavy 700+ that consumer electronics reach for; Lutron trusts room-scene photography over typographic aggression. Body copy holds at 16px/400 in mid-gray (#5a6475) against white canvas, legible and unhurried. Navigation links and spec labels use tracked uppercase at 11–12px, a cue borrowed from interior design catalogs rather than e-commerce.
 
@@ -387,6 +391,8 @@ components:
 - Footer 4-column → 2-column at tablet → single accordion-style column on mobile with expand/collapse per section; legal row always visible
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **No hex colors extracted**: lutron.com appears to load design tokens via JavaScript or is behind anti-bot protection; zero colors were captured by the extraction pass. All palette values above derive from brand knowledge and widely-observed visual identity (dark navy hero backgrounds, amber/orange CTAs). Treat as approximate until a live pixel sample is taken.
 - **No font stack extracted**: Typography family is inferred from visual inspection of the site as likely Neue Haas Grotesk or a similar precision geometric sans-serif. Actual font name, weights, loading method (WOFF2, Adobe Fonts, self-hosted), and any custom variable-font axes are unknown.

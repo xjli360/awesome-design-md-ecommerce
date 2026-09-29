@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Uncommon Goods
-description: |
+name: "Uncommon Goods"
+source_url: "https://www.uncommongoods.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The shop declares its personality through an unlikely chromatic adjacency: a national-forest green (#006341) — the shade of a ranger station rather than a commerce CTA — set against warm apricot (#ffa549) that turns every sale badge and promo strip golden. That green, confirmed by the site's own meta theme-color, saturates every primary button, navigation bar, and trust marker, deepening to #003926 under hover. What distinguishes the visual system is its refusal to stop at two or three anchors: Uncommon Goods runs a full gift-taxonomy spectrum across catalog browse — dusty peach (#fee4ca) and vivid tangerine (#eb5721) tag outdoor and garden discoveries, rose (#f391a4) and deep mauve (#d94f6a) mark personal-care items, swimming-pool teal (#2ac4e3) signals kitchen and bar finds, warm honey (#f5bc22) flags art and home décor. Each hue functions as a wayfinding signal as much as a brand color; the palette is a product taxonomy wearing category colors.
 
   Typography pairs the custom "Escalator" display face with "Tiempos Text," an editorial serif that lends catalog gravity and reading warmth to product descriptions. The proprietary "UncommonGoods" font appears only in wordmark and logotype contexts. Display headings run large with moderate negative letter-spacing, asserting discovery over transactional efficiency. Rounded corners sit at {rounded.xs} for primary CTAs and {rounded.sm} for product cards — warm enough to signal friendliness, not so open they read playful. Only filter chips and category badge pills bloom to {rounded.full}. The canvas is white, with {colors.surface-soft} — the palest mint at #e1efea — providing section-level background differentiation without heavy color weight. Gray #aaaaaa handles secondary labels and metadata; near-black #212121 anchors all body type. Social share buttons adopt platform-native tones (#3b5998, #bd081c, #55acee) unchanged — Uncommon Goods treats sharing as infrastructure rather than a brand extension opportunity.
@@ -389,6 +392,8 @@ components:
 - Hero text/image stacks vertically on mobile with text above image
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact Escalator font metrics (x-height, cap-height, optical size range) not confirmed; fontSize and weight values are estimated from visual pattern and category conventions
 - UncommonGoods custom font is likely scoped to wordmark only — weight and full character set not extractable from CSS alone

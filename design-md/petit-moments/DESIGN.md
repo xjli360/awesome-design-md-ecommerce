@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Petit Moments
-description: Cherry-red punctuation — sale badges, add-to-cart pills, and wishlist hearts in #e8144b — interrupt a near-white blush palette of #fae2e0 and #fff4fa, giving the storefront the feel of a bijouterie window where one bold piece catches the light against tissue paper. FoundersGrotesk runs the transactional layer: navigation labels in small uppercase with open tracking, price strings at a compact 14–18px, and button copy at 12px/0.12em — a vernacular that reads fashion-forward without the self-seriousness of luxury type hierarchies. Baskerville surfaces in campaign headlines and editorial moments, its old-style serifs contrasting the grotesque grid and recalling a fashion lookbook rather than a jeweler's certificate. Product cards sit on clean white against the #fafafa body, images square-cropped at full card width with piece names in {typography.body-sm} and prices stacked directly below; four across on desktop, the grid prioritizes discovery over drama — at costume-jewelry price points shoppers buy from abundance, not singularity. Blush tones cascade from #fae2e0 through #e0b5b2 and #fff4fa as hero backgrounds, collection headers, and review-star fills, keeping the brand consistently warm without committing to a single defining hue. Accent gold (#fbcd0a) surfaces narrowly at promotional callouts; muted teal (#108474) and sage (#13a165) handle success and trust signals in form states. Lavender (#a89cc8) and pale teal (#c1e6e6) hint at seasonal collection palettes. Buttons take {rounded.full} — the pill shape is approachable and gift-store warm — against hairline-bordered card frames and flat-edged inputs that keep the layout structured. The ink (#191919) reads as charcoal rather than absolute black, ensuring blush warmth is never undercut by harsh contrast.
+name: "Petit Moments"
+source_url: "https://www.petitmoments.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Cherry-red punctuation — sale badges, add-to-cart pills, and wishlist hearts in #e8144b — interrupt a near-white blush palette of #fae2e0 and #fff4fa, giving the storefront the feel of a bijouterie window where one bold piece catches the light against tissue paper. FoundersGrotesk runs the transactional layer: navigation labels in small uppercase with open tracking, price strings at a compact 14–18px, and button copy at 12px/0.12em — a vernacular that reads fashion-forward without the self-seriousness of luxury type hierarchies. Baskerville surfaces in campaign headlines and editorial moments, its old-style serifs contrasting the grotesque grid and recalling a fashion lookbook rather than a jeweler's certificate. Product cards sit on clean white against the #fafafa body, images square-cropped at full card width with piece names in {typography.body-sm} and prices stacked directly below; four across on desktop, the grid prioritizes discovery over drama — at costume-jewelry price points shoppers buy from abundance, not singularity. Blush tones cascade from #fae2e0 through #e0b5b2 and #fff4fa as hero backgrounds, collection headers, and review-star fills, keeping the brand consistently warm without committing to a single defining hue. Accent gold (#fbcd0a) surfaces narrowly at promotional callouts; muted teal (#108474) and sage (#13a165) handle success and trust signals in form states. Lavender (#a89cc8) and pale teal (#c1e6e6) hint at seasonal collection palettes. Buttons take {rounded.full} — the pill shape is approachable and gift-store warm — against hairline-bordered card frames and flat-edged inputs that keep the layout structured. The ink (#191919) reads as charcoal rather than absolute black, ensuring blush warmth is never undercut by harsh contrast.
 
 colors:
   primary: "#e8144b"
@@ -359,6 +363,8 @@ components:
 - Promo banner: 36px on desktop → 44px on mobile (larger touch target for dismissal)
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact button border-radius not confirmed from extraction; {rounded.full} inferred from pill-button convention common to this Shopify theme tier
 - FoundersGrotesk weight usage (400 vs 500 vs 600) not directly observable from color extraction; weights assigned by fashion-jewelry category convention

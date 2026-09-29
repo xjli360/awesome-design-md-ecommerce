@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Dedon
-description: |
+name: "Dedon"
+source_url: "https://www.dedon.de"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Golden amber (#f1ad09) strikes against deep charcoal (#323232) like afternoon sunlight falling across a weave of hularo fiber — that single warm accent carries every call-to-action, hover state, and wayfinding cue on an otherwise deliberately restrained canvas. Dedon's digital presence mirrors the physicality of its furniture: generous negative space acts like the air flowing through an outdoor pavilion, and product imagery dominates the viewport at near-full-bleed scale, letting material texture speak before any headline does. Typography is set in a geometric sans-serif at moderate weights — display copy rarely exceeds weight 500, trusting the photography and spatial rhythm to create hierarchy. Navigation is architecturally minimal: a slim top bar with the wordmark left-aligned and a hamburger or sparse text links right-aligned, collapsing to a single icon on mobile. Cards and containers carry barely-there radii (`{rounded.xs}` to `{rounded.sm}`), reinforcing the precision-engineered quality of the physical product line. Buttons are compact rectangles with `{rounded.xs}` corners, filled with `{colors.primary}` amber on primary actions and outlined in `{colors.ink}` for secondary paths — never pill-shaped, never playful. The overall color story is near-monochrome with that single golden voltage: white canvas, charcoal ink, warm mid-grays for muted text and hairlines, and amber reserved exclusively for interactive affordances and brand moments. Scroll-triggered reveals and subtle parallax on hero images give the page a slow, deliberate cadence that echoes the handcraft narrative central to the brand. Footer and legal areas recede into `{colors.surface-soft}` warm gray, keeping the eye anchored on product above. The system communicates permanence, material honesty, and a European restraint that lets one accent color do all the emotional lifting.
 
 colors:
@@ -384,6 +387,8 @@ components:
 - Search overlay remains full-screen at all breakpoints — input text scales from `{typography.display-md}` to `{typography.title-lg}` on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No font-family stacks were extracted from the live site; typography tokens use a Helvetica Neue fallback stack as a best approximation — the actual brand typeface may be a custom or licensed web font loaded via JavaScript
 - Only two hex colors (#323232, #f1ad09) were reliably extracted; all derivative palette tokens (muted, hairline, surface, footer-bg) are inferred from those anchors and general brand positioning rather than measured from CSS

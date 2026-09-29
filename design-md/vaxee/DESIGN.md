@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Vaxee
-description: A single hex — #313131 — governs the entire Vaxee experience, a near-black that reads as a machined aluminum chassis rather than a software interface. The brand sells performance mice and esports peripherals, and the palette refuses any color that might suggest playfulness or consumer frippery; even the primary CTA sits in this same charcoal, relying on surface contrast and a 1px hairline to define interactive regions rather than a colored button. Typography runs the system stack at modest sizes — body copy at 14px, captions at 12px — because the site prioritizes spec tables, product photography, and configurator UI over editorial prose. Corners are uniformly sharp: every card, every button, every input uses {rounded.none} or at most {rounded.xs}, a deliberate rejection of the pill-shaped friendliness that defines consumer DTC. The product grid uses a dense 4-column layout on desktop with 12px gutters, each card showing a single product image, a model name in 16px medium weight, and a price in 14px — no badges, no ratings, no social proof. This is a brand that trusts its hardware to speak: the site is a catalog, not a story.
+name: "Vaxee"
+source_url: "https://www.vaxee.co"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A single hex — #313131 — governs the entire Vaxee experience, a near-black that reads as a machined aluminum chassis rather than a software interface. The brand sells performance mice and esports peripherals, and the palette refuses any color that might suggest playfulness or consumer frippery; even the primary CTA sits in this same charcoal, relying on surface contrast and a 1px hairline to define interactive regions rather than a colored button. Typography runs the system stack at modest sizes — body copy at 14px, captions at 12px — because the site prioritizes spec tables, product photography, and configurator UI over editorial prose. Corners are uniformly sharp: every card, every button, every input uses {rounded.none} or at most {rounded.xs}, a deliberate rejection of the pill-shaped friendliness that defines consumer DTC. The product grid uses a dense 4-column layout on desktop with 12px gutters, each card showing a single product image, a model name in 16px medium weight, and a price in 14px — no badges, no ratings, no social proof. This is a brand that trusts its hardware to speak: the site is a catalog, not a story.
 
 colors:
   primary: "#313131"
@@ -350,6 +354,8 @@ components:
 - Accordion sections are always collapsed by default on mobile; expanded by default on desktop
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one hex color (#313131) was extracted from the live site; the remaining palette (primary-active, muted, hairline, etc.) was inferred from common DTC patterns and may not match the actual site
 - No secondary or accent colors were found — accent-red and accent-green are assumed from common ecommerce patterns (sale badges, error states)

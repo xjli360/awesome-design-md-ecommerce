@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Autographia
-description: The dark navy (#163959) that anchors Autographia's interface carries the same visual authority as an archivist's binding cloth — every nav header, primary button fill, and trust callout sits in this color, signaling that provenance and authentication are the site's load-bearing commitments before a single item description is read. Against that foundation, a traffic-light status trio performs hard work at the card layer: #bd2426 flags rarity and urgency across limited listings, #9bca3e marks certified-authentic items, and #f68b1f illuminates featured and spotlight pieces. This three-tone certification language is more legible than fine-print disclaimers — the color encodes grade before the collector even reaches the product title.
+name: "Autographia"
+source_url: "https://autographia.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The dark navy (#163959) that anchors Autographia's interface carries the same visual authority as an archivist's binding cloth — every nav header, primary button fill, and trust callout sits in this color, signaling that provenance and authentication are the site's load-bearing commitments before a single item description is read. Against that foundation, a traffic-light status trio performs hard work at the card layer: #bd2426 flags rarity and urgency across limited listings, #9bca3e marks certified-authentic items, and #f68b1f illuminates featured and spotlight pieces. This three-tone certification language is more legible than fine-print disclaimers — the color encodes grade before the collector even reaches the product title.
 
   Typography runs entirely on system stacks (Arial, Helvetica Neue, -apple-system) at conservative weights. The choice reads as deliberate restraint: the autograph itself — photographed in high resolution and centered — is the typographic event on any product page, not a headline font. Body copy in #404040 against the soft #ebebeb canvas keeps the catalog register close to a printed dealer's reference rather than a digital storefront. Hairlines in #dedede divide sections without asserting themselves, and #737373 carries secondary metadata — certification numbers, grading notes, date ranges — without competing with the primary attribution.
 
@@ -353,6 +357,8 @@ components:
 - Hero photograph hides or becomes a blurred background fill below 480px viewport width
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Site is behind Cloudflare anti-bot protection; no live DOM or CSS variables were accessible — all extracted hex values are sourced from the Cloudflare error-page assets, not Autographia's actual design system
 - No custom brand font detected; typography assumes system stacks (Arial, Helvetica Neue) — a custom webfont may load via JS or be served behind the bot wall

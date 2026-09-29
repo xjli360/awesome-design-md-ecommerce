@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Galen Leather
-description: |
+name: "Galen Leather"
+source_url: "https://www.galenleather.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Hand-stitching thread color is selectable at checkout — that granular customization signals everything Galen Leather believes about its customer. Founded in İstanbul, the shop's visual identity anchors on a deep Bosphorus teal (#108474), a color that reads simultaneously as craft-workshop signage and contemporary stationery-brand confidence. Against the near-white (#fafafa) canvas, teal carries all primary CTAs, nav accents, and footer backgrounds with no delegation to the secondary palette. Amber (#ffa303) and warm gold (#fbcd0a) surface at the granular layer — sale badges, star fills, price highlights — without ever rising to brand-primary status. A burnt rust (#c4590c) handles clearance urgency, while lavender (#a89cc8) marks new-arrival callouts, giving the palette a slight unexpected softness that prevents the earth-and-craft reading from feeling predictable.
 
   Type divides into two clear registers. Baskerville — the only serif on-site — handles product names, section titles, and editorial headers; its roman weight at 36–40px on wide viewports gives the display layer a bookbinder's authority without heavy black. Nunito Sans carries every functional surface: button labels, nav links, form fields, cart totals. The serif-for-content / sans-for-action split is consistent and deliberate. At mobile widths, display type compresses to 24–26px but never trades Baskerville for a sans substitute.
@@ -321,6 +324,8 @@ components:
 - Hero split layout stacks vertically below 744px with image above the text block and center-aligned CTA
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No confirmed border-radius for modals, drawers, or overlays — `{rounded.sm}` (8px) assumed based on card radius convention
 - Social icon colors (#3b5998 Facebook, #1da1f2 Twitter, #e60023 Pinterest, #0073b1 LinkedIn) are platform-standard and excluded from brand palette; their presence in extraction does not indicate brand use

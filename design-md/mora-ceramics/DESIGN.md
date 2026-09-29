@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Mora Ceramics
-description: A tactile, earth-honoring dinnerware brand that speaks through quiet texture and warm neutrals rather than loud graphics. The canvas is a soft, almost chalky off-white (`#f3f2ee`), not a clinical bright white — it reads like unglazed stone or aged linen, setting a foundation that feels hand-touched rather than machine-perfect. Against this, the ink (`#121212`) and body (`#242833`) provide a restrained contrast that never screams; even the primary accent, a deep clay brown (`#3e2015`), emerges from the earth rather than from a Pantone brief. The brand's signature voltage comes from an unexpected sky blue (`#899df1`) — a color that appears in badges, hover states, and editorial accents — paired with a deeper cerulean (`#1990c6` and `#136f99`) that suggests hand-painted cobalt motifs on heritage pottery. Typography leans on Playfair Display for display roles, lending a serifed, editorial gravity to product names and headings, while the rest of the system stays clean and unobtrusive. Corners are softly rounded — `{rounded.sm}` (8px) on buttons, `{rounded.md}` (12px) on cards — never pill-shaped, always suggesting the gentle chamfer of a ceramic edge. The overall mood is curated but not precious: a dinner party where the host knows the provenance of every plate but doesn't mention it.
+name: "Mora Ceramics"
+source_url: "https://moraceramics.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A tactile, earth-honoring dinnerware brand that speaks through quiet texture and warm neutrals rather than loud graphics. The canvas is a soft, almost chalky off-white (`#f3f2ee`), not a clinical bright white — it reads like unglazed stone or aged linen, setting a foundation that feels hand-touched rather than machine-perfect. Against this, the ink (`#121212`) and body (`#242833`) provide a restrained contrast that never screams; even the primary accent, a deep clay brown (`#3e2015`), emerges from the earth rather than from a Pantone brief. The brand's signature voltage comes from an unexpected sky blue (`#899df1`) — a color that appears in badges, hover states, and editorial accents — paired with a deeper cerulean (`#1990c6` and `#136f99`) that suggests hand-painted cobalt motifs on heritage pottery. Typography leans on Playfair Display for display roles, lending a serifed, editorial gravity to product names and headings, while the rest of the system stays clean and unobtrusive. Corners are softly rounded — `{rounded.sm}` (8px) on buttons, `{rounded.md}` (12px) on cards — never pill-shaped, always suggesting the gentle chamfer of a ceramic edge. The overall mood is curated but not precious: a dinner party where the host knows the provenance of every plate but doesn't mention it.
 
 colors:
   primary: "#3e2015"
@@ -359,6 +363,8 @@ components:
 - Hero: On mobile, hero images may crop or stack vertically, and the CTA button becomes full-width.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for product cards (shadow intensity, any scale transforms) were inferred from common patterns but not directly extracted.
 - Error styling for forms (error message text color, helper text patterns, validation iconography) was not reliably captured from the live site.

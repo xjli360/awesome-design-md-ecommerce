@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: DiabolikDVD
-description: A single dark gray hex — `#313131` — governs nearly every surface on DiabolikDVD, a specialist horror and cult-film retailer that treats its site like a repertory cinema lobby: dim, serious, and lit only by the glow of movie posters. The brand’s visual identity is built on subtraction — no primary color, no hero gradient, no brand mascot. Instead, the entire interface is a restrained monochrome stage where cover art (often lurid, hand-illustrated, or exploitation-style) provides the only color. Body text runs at `#313131` on a white canvas (`{colors.canvas}`), but the real atmosphere comes from the product grid: each DVD or Blu-ray sits in a `{rounded.sm}` card with a soft `{colors.hairline}` border, leaving the poster art to scream in reds, yellows, and deep blacks. The typography stack is the system default — `-apple-system`, `BlinkMacSystemFont`, `Segoe UI`, `Roboto` — a deliberate choice that signals utility over personality. Buttons are small, compact, and use `{rounded.sm}` corners; the primary action (“Add to Cart”) is a `{colors.primary}` gray rectangle with white text, no glow, no shadow. The navigation is a thin, fixed bar with a logo lockup and dropdown menus, all in `{colors.ink}` on `{colors.canvas}`. There is no hero section, no carousel, no lifestyle photography — just a search bar, category filters, and a wall of titles. The experience is for collectors who know what they want: the site gets out of the way.
+name: "DiabolikDVD"
+source_url: "https://diabolikdvd.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A single dark gray hex — `#313131` — governs nearly every surface on DiabolikDVD, a specialist horror and cult-film retailer that treats its site like a repertory cinema lobby: dim, serious, and lit only by the glow of movie posters. The brand’s visual identity is built on subtraction — no primary color, no hero gradient, no brand mascot. Instead, the entire interface is a restrained monochrome stage where cover art (often lurid, hand-illustrated, or exploitation-style) provides the only color. Body text runs at `#313131` on a white canvas (`{colors.canvas}`), but the real atmosphere comes from the product grid: each DVD or Blu-ray sits in a `{rounded.sm}` card with a soft `{colors.hairline}` border, leaving the poster art to scream in reds, yellows, and deep blacks. The typography stack is the system default — `-apple-system`, `BlinkMacSystemFont`, `Segoe UI`, `Roboto` — a deliberate choice that signals utility over personality. Buttons are small, compact, and use `{rounded.sm}` corners; the primary action (“Add to Cart”) is a `{colors.primary}` gray rectangle with white text, no glow, no shadow. The navigation is a thin, fixed bar with a logo lockup and dropdown menus, all in `{colors.ink}` on `{colors.canvas}`. There is no hero section, no carousel, no lifestyle photography — just a search bar, category filters, and a wall of titles. The experience is for collectors who know what they want: the site gets out of the way.
 
 colors:
   primary: "#313131"
@@ -325,6 +329,8 @@ components:
 - Breadcrumbs: On mobile, only show the current page and a “Back” link; full breadcrumb trail on desktop
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one hex color (`#313131`) was extractable from the live site — the full palette above is inferred from common e-commerce patterns and the brand’s monochrome aesthetic. The true secondary, accent, and surface colors may differ.
 - No font-family declarations beyond system defaults were found. The brand may use a custom typeface (e.g., a horror-themed display font for the logo or headings) that was not loaded on the extracted page.

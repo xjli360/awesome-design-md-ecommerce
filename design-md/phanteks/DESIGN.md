@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Phanteks
-description: |
+name: "Phanteks"
+source_url: "https://www.phanteks.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Phanteks runs its entire digital language off a single synthetic frequency: #00ffdd, a saturated cyan that appears at threshold-level brightness against the brand's near-black infrastructure (#212934) and its clean white product pages. This is not a color borrowed from gaming convention — it is pulled directly from the meta theme-color declaration, the earliest signal the browser receives when loading the site. Every CTA, every hover state, every RGB preview widget returns to this wavelength. The dark anchor (#212934, #32373c) reads less like a consumer lifestyle neutral and more like a system interface — the same family of near-black engineers use when they want data to feel authoritative rather than decorative.
 
   Type splits between Poppins, which handles display hierarchies and navigation, and PT Sans, which carries product descriptions and longer specification copy. Poppins at weight 600–700 gives product headers clean geometric confidence that stops short of aggressive; PT Sans provides slightly warmer contrast in body paragraphs. The monospace stack — Consolas, Menlo, Monaco — surfaces in spec tables and part-number callouts, a typographic signal that this brand is conversant with the people who actually build systems.
@@ -378,6 +381,8 @@ components:
 - Category tile grids collapse from 6-up to 3-up to 2-up
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - RGB lighting preview / ARGB color-picker widget not extractable from static HTML — likely rendered client-side via canvas or WebGL; component structure inferred from product page layout patterns
 - Confirmed font weights for Poppins and PT Sans not verifiable at network level; 400/500/600/700 assumed from standard usage

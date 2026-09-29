@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Amigo Games
-description: A press release page for Amigo Games, the card game publisher behind *The Game* and *Saboteur*, uses a starkly utilitarian interface that prioritizes information delivery over visual personality. The page is built entirely on a white canvas (`#ffffff`) with black ink (`#000000`) and a single blue accent (`#1990c6`) reserved exclusively for hyperlinks — no primary brand color, no decorative flourishes, no game-themed illustration. Body text runs at 16px in a system font stack (Arial, Helvetica, sans-serif) with 1.5 line-height, creating a reading experience indistinguishable from a government document or academic press release. The only design move that signals "this is a games company" is the logo lockup at the top: a red-and-white square mark (unreadable in extraction) paired with the wordmark, set against the white field. Below that, the page is a single column of text blocks — headline in bold 24px, dateline in italic 14px, body paragraphs separated by 24px gaps — with no cards, no CTAs, no product imagery, no social proof. The blue link color (`#1990c6`) is the only non-neutral element, and it appears only in the email contact at the bottom. This is a brand that, in this context, has chosen to disappear into the generic web — the design system is essentially the browser default with a logo pasted on top.
+name: "Amigo Games"
+source_url: "https://amigo.games"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A press release page for Amigo Games, the card game publisher behind *The Game* and *Saboteur*, uses a starkly utilitarian interface that prioritizes information delivery over visual personality. The page is built entirely on a white canvas (`#ffffff`) with black ink (`#000000`) and a single blue accent (`#1990c6`) reserved exclusively for hyperlinks — no primary brand color, no decorative flourishes, no game-themed illustration. Body text runs at 16px in a system font stack (Arial, Helvetica, sans-serif) with 1.5 line-height, creating a reading experience indistinguishable from a government document or academic press release. The only design move that signals "this is a games company" is the logo lockup at the top: a red-and-white square mark (unreadable in extraction) paired with the wordmark, set against the white field. Below that, the page is a single column of text blocks — headline in bold 24px, dateline in italic 14px, body paragraphs separated by 24px gaps — with no cards, no CTAs, no product imagery, no social proof. The blue link color (`#1990c6`) is the only non-neutral element, and it appears only in the email contact at the bottom. This is a brand that, in this context, has chosen to disappear into the generic web — the design system is essentially the browser default with a logo pasted on top.
 
 colors:
   primary: "#1990c6"
@@ -222,6 +226,8 @@ components:
 - Logo lockup reduces height on mobile but does not collapse
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No font-family declarations could be extracted from the live site — the system font stack (Arial, Helvetica, sans-serif) is inferred from browser defaults and common practice; the brand may use a custom typeface on other pages
 - No primary brand color could be extracted — the blue `#1990c6` is used only for links and may not be the brand's actual primary; the red `#cc0000` in the logo is a candidate but could not be confirmed from CSS

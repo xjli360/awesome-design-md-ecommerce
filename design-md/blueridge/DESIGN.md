@@ -1,11 +1,15 @@
 ---
 version: alpha
-name: BlueRidge
-description: Spec numbers crowd the top of every BlueRidge product card — BTU ratings at 20px bold before a model name appears, a hierarchy that signals a brand sold to homeowners who already know what they need. The palette anchors on a medium mountain-sky blue (#1B5FAF) that reads consistently from nav links through primary CTAs to icon fills, with no secondary accent competing for that role. Backgrounds hold to white (#FFFFFF) with a faint cool wash ({colors.surface-soft} at #F0F5FC) beneath specification grids, giving data-dense layouts an airy container rather than a heavy technical register. The energy efficiency badge — forest green (#2E8B57) — stands deliberately apart from primary blue, marking a compliance fact rather than a brand moment, and it never appears in decorative contexts.
+name: "BlueRidge"
+source_url: "https://www.blueridgeair.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Spec numbers crowd the top of every BlueRidge product card — BTU ratings at 20px bold before a model name appears, a hierarchy that signals a brand sold to homeowners who already know what they need. The palette anchors on a medium mountain-sky blue (#1B5FAF) that reads consistently from nav links through primary CTAs to icon fills, with no secondary accent competing for that role. Backgrounds hold to white (#FFFFFF) with a faint cool wash ({colors.surface-soft} at #F0F5FC) beneath specification grids, giving data-dense layouts an airy container rather than a heavy technical register. The energy efficiency badge — forest green (#2E8B57) — stands deliberately apart from primary blue, marking a compliance fact rather than a brand moment, and it never appears in decorative contexts.
 
-Typography runs in a clean geometric sans — Inter or system equivalent — with weight doing most of the hierarchy work. Spec values run 700 at 20px with tight letter-spacing so a shopper scanning BTU, coverage area, and SEER rating can read a row in a single sweep; body copy drops to 400 at 16px with 1.6 leading for the longer product descriptions that follow. Buttons carry 600 weight at 15px, moderately rounded at {rounded.sm} — not the pill softness of a lifestyle brand, not the hard square of an industrial catalog, but a middle register that communicates reliable appliance.
+  Typography runs in a clean geometric sans — Inter or system equivalent — with weight doing most of the hierarchy work. Spec values run 700 at 20px with tight letter-spacing so a shopper scanning BTU, coverage area, and SEER rating can read a row in a single sweep; body copy drops to 400 at 16px with 1.6 leading for the longer product descriptions that follow. Buttons carry 600 weight at 15px, moderately rounded at {rounded.sm} — not the pill softness of a lifestyle brand, not the hard square of an industrial catalog, but a middle register that communicates reliable appliance.
 
-Product pages follow a two-panel rhythm: photography left, specifications and add-to-cart right, then a scrollable spec table below the fold set on {colors.surface-soft}. Category tiles on the homepage use an {colors.accent-sky} fill (#E1EEFA) to assemble a soft grid of product types before any product photography appears, letting navigation double as catalog preview. A thin trust bar above the nav — warranty terms, shipping, certification marks — treats reassurance as ambient infrastructure rather than marketing. The footer drops to a deep navy ({colors.surface-dark} at #0F2D5C), the darkest surface in the system and used nowhere else, providing a decisive terminus after long product-detail scrolls.
+  Product pages follow a two-panel rhythm: photography left, specifications and add-to-cart right, then a scrollable spec table below the fold set on {colors.surface-soft}. Category tiles on the homepage use an {colors.accent-sky} fill (#E1EEFA) to assemble a soft grid of product types before any product photography appears, letting navigation double as catalog preview. A thin trust bar above the nav — warranty terms, shipping, certification marks — treats reassurance as ambient infrastructure rather than marketing. The footer drops to a deep navy ({colors.surface-dark} at #0F2D5C), the darkest surface in the system and used nowhere else, providing a decisive terminus after long product-detail scrolls.
 
 colors:
   primary: "#1B5FAF"
@@ -351,6 +355,8 @@ components:
 - Hero-banner copy truncates headline from 40px to 28px (`{typography.display-md}`) on mobile with line-clamp on body text at 3 lines
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **All colors are brand-knowledge estimates**, not extracted hex values — the live site returned zero color tokens. Palette was inferred from brand name ("BlueRidge"), product photography context, and typical HVAC brand conventions. Primary #1B5FAF and surface-dark #0F2D5C should be validated against the actual site before use.
 - **No fonts were extracted** — zero font-family stacks detected. Inter is used as a high-probability match for a clean geometric sans used in this product category; the actual typeface must be confirmed by inspecting the live site's loaded font resources.

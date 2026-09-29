@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Fellowes
-description: |
+name: "Fellowes"
+source_url: "https://www.fellowes.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The amber signal of #fdb913 — a yellow sharp enough to read on product safety panels and warehouse shelving — is how Fellowes announces itself against a field of corporate navy (#234479) and machine-gray neutrals. The site operates in two registers: a deep institutional blue that handles navigation bars, section anchors, and primary CTAs, and a yellow that fires only where attention must land immediately — promotional banners, category hover states, and search submit buttons. Together the two colors replicate the brand's physical product language, where navy housings and yellow safety indicators have been the visual grammar of desktop shredders since the early 2000s.
 
   Segoe UI carries all type, a deliberate alignment with the Windows productivity desktop where most Fellowes equipment lives out its working life; there are no custom display faces, and the type system earns contrast through weight and size rather than any expressive letterform. Cards sit on an off-white field (#fbfbfb) with 1px hairline borders (#e0e0e0) and minimal 4px corner rounding — practical geometry that avoids both the harsh right-angle severity of industrial parts catalogs and the pill-shaped warmth of consumer lifestyle brands. The register is workbench, not boutique.
@@ -391,6 +394,8 @@ components:
 - Footer columns stack vertically on mobile with accordion expand for each section; `{colors.accent}` top border remains visible at all widths
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom brand typeface detected; Segoe UI is a Windows system font and generic `sans-serif` is the only fallback. Exact rendered font weights and sizes were estimated from standard Segoe UI conventions rather than extracted computed values.
 - Meta theme-color was not set; the navy `{colors.primary}` (#234479) is assumed as the mobile chrome color based on nav background usage.

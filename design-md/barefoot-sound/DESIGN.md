@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Barefoot Sound
-description: A studio-monitor manufacturer that builds its visual identity around the precision and materiality of its own products — the palette is drawn directly from the anodized aluminum, brushed steel, and matte black enclosures of the monitors themselves. The dominant hex #d0d0d0 (a cool, mid-tone silver-gray) acts as the brand's neutral canvas, while #2a2a2a and #1e1e1e provide deep, near-black surfaces that evoke the anechoic chambers and acoustically treated rooms where these monitors live. The brand's voltage comes from two accents: #1863dc, a confident engineering blue used sparingly for interactive elements and technical callouts, and #178087, a teal that appears in product highlights and secondary CTAs — both colors feel lab-tested rather than market-tested. Typography runs Lato at moderate weights (400–700), with display sizes staying lean at 24–32px and body copy at 15–16px; there is no decorative type, no script, no display face — every character serves clarity. Corners are almost universally sharp: `{rounded.none}` on cards, `{rounded.xs}` (4px) on buttons, and only the occasional `{rounded.sm}` (8px) on input fields. The brand trusts its product photography — extreme macro shots of tweeter domes, waveguide contours, and amplifier heatsinks — to carry the emotional weight, keeping UI chrome minimal and structural. The result is a system that feels less like a consumer electronics storefront and more like a precision instrument catalog: quiet, dense with information, and utterly unapologetic about its technical audience.
+name: "Barefoot Sound"
+source_url: "https://www.barefootsound.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A studio-monitor manufacturer that builds its visual identity around the precision and materiality of its own products — the palette is drawn directly from the anodized aluminum, brushed steel, and matte black enclosures of the monitors themselves. The dominant hex #d0d0d0 (a cool, mid-tone silver-gray) acts as the brand's neutral canvas, while #2a2a2a and #1e1e1e provide deep, near-black surfaces that evoke the anechoic chambers and acoustically treated rooms where these monitors live. The brand's voltage comes from two accents: #1863dc, a confident engineering blue used sparingly for interactive elements and technical callouts, and #178087, a teal that appears in product highlights and secondary CTAs — both colors feel lab-tested rather than market-tested. Typography runs Lato at moderate weights (400–700), with display sizes staying lean at 24–32px and body copy at 15–16px; there is no decorative type, no script, no display face — every character serves clarity. Corners are almost universally sharp: `{rounded.none}` on cards, `{rounded.xs}` (4px) on buttons, and only the occasional `{rounded.sm}` (8px) on input fields. The brand trusts its product photography — extreme macro shots of tweeter domes, waveguide contours, and amplifier heatsinks — to carry the emotional weight, keeping UI chrome minimal and structural. The result is a system that feels less like a consumer electronics storefront and more like a precision instrument catalog: quiet, dense with information, and utterly unapologetic about its technical audience.
 
 colors:
   primary: "#1863dc"
@@ -449,6 +453,8 @@ components:
 - Hero sections reduce vertical padding by 50% on mobile but maintain full-width layout
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for all components are inferred from the extracted palette and common patterns — the live site may use different transitions, durations, or color shifts
 - Error styling for forms (text-input-error) is assumed based on the extracted `#de4528` — the actual error state may include icons, helper text, or background tints

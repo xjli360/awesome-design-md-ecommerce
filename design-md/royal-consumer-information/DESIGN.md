@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Royal Consumer Information
-description: Navy and amber sit together the way a government-issue hallmark does — Royal's #003388 deep blue and #f7b818 gold carry institutional weight that makes sense for a company that has been manufacturing paper-handling machines since 1904. The custom "Rey Primary" typeface anchors display headings and navigation labels; Open Sans carries body copy and spec data at modest weights, keeping feature comparison tables and DIN-rating readouts clean without academic formality. Primary interactive chrome — buttons, links, focus rings — runs on #055e94, a mid-range royal blue that reads as authoritative on both white canvas and product photography. The golden amber (#f7b818) surfaces strictly as a promotional signal: sale flags, new-arrival callouts, limited-run badges. It never appears as a primary button color, preserving its meaning as a reward marker rather than a navigation device.
+name: "Royal Consumer Information"
+source_url: "https://www.royal.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Navy and amber sit together the way a government-issue hallmark does — Royal's #003388 deep blue and #f7b818 gold carry institutional weight that makes sense for a company that has been manufacturing paper-handling machines since 1904. The custom "Rey Primary" typeface anchors display headings and navigation labels; Open Sans carries body copy and spec data at modest weights, keeping feature comparison tables and DIN-rating readouts clean without academic formality. Primary interactive chrome — buttons, links, focus rings — runs on #055e94, a mid-range royal blue that reads as authoritative on both white canvas and product photography. The golden amber (#f7b818) surfaces strictly as a promotional signal: sale flags, new-arrival callouts, limited-run badges. It never appears as a primary button color, preserving its meaning as a reward marker rather than a navigation device.
 
   Corner radii are kept deliberately conservative — `{rounded.xs}` for text inputs and form fields, `{rounded.sm}` for cards and primary buttons, never pill-shaped. There are no soft organic curves; the geometry reads utilitarian. The grid is functional and dense, built around feature comparison and specification readout rather than editorial whitespace. Product cards carry structured metadata rows — sheet capacity, security level, and DIN rating for shredders; display type and memory capacity for calculators — making each card function as a condensed datasheet. The purple accent (#6246d7) appears selectively, likely marking a premium or commercial product tier, while the lighter periwinkle #5e74c4 handles secondary navigation states and promotional band backgrounds. A narrow top-stripe in #003388 carries utility links (support, where to buy, language) above the main nav, a corporate-site convention that Royal has preserved from the era when such strips first appeared in office-product catalogs. Footer surfaces use near-black (#252525) with hairline-gray type, anchoring regulatory copy, warranty terms, and retailer-finder links in a register that reads permanent rather than promotional.
 
@@ -389,6 +393,8 @@ components:
 - Footer link columns collapse to a single accordion on mobile; each column heading becomes an expand toggle
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No meta theme-color extracted — mobile browser chrome color for nav bar unknown; `{colors.primary-deep}` assumed as safest default
 - "Rey Primary" font details (weights available, whether it is a variable font, exact licensing) not available from extraction; weight range and tracking assumed from visual inspection

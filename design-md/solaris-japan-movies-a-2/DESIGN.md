@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Solaris Japan
-description: The brand’s identity is anchored on a deep teal #108474 — a color that reads as both oceanic and electronic, appearing in the primary navigation bar, cart totals, and checkout buttons, while the warm accent #f5af19 (a marigold yellow) punctuates sale badges, discount labels, and limited-edition callouts. The canvas is a near-white #f9fafb, with product cards surfaced on pure white #ffffff and separated by hairline borders in #e9e9e9. The typography relies on Nunito Sans for body and display text — a rounded, approachable sans-serif that softens the high-density grid of product thumbnails, price tags, and filter bars. Buttons use {rounded.sm} corners, while search bars and category pills adopt {rounded.full} for a friendly, tactile feel. The overall mood is that of a bustling marketplace — generous whitespace around hero banners, tight stacking in product grids, and a persistent yellow accent that signals urgency without aggression. Social icons and payment badges (Visa, PayPal, Klarna) sit in the footer in their native brand colors (#3b5998, #1da1f2, #dd4b39), kept separate from the core palette. The brand trusts its teal-and-marigold voltage to carry the user from browse to cart, with the checkout flow rendered in a clean, monochrome surface.
+name: "Solaris Japan"
+source_url: "https://solarisjapan.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The brand’s identity is anchored on a deep teal #108474 — a color that reads as both oceanic and electronic, appearing in the primary navigation bar, cart totals, and checkout buttons, while the warm accent #f5af19 (a marigold yellow) punctuates sale badges, discount labels, and limited-edition callouts. The canvas is a near-white #f9fafb, with product cards surfaced on pure white #ffffff and separated by hairline borders in #e9e9e9. The typography relies on Nunito Sans for body and display text — a rounded, approachable sans-serif that softens the high-density grid of product thumbnails, price tags, and filter bars. Buttons use {rounded.sm} corners, while search bars and category pills adopt {rounded.full} for a friendly, tactile feel. The overall mood is that of a bustling marketplace — generous whitespace around hero banners, tight stacking in product grids, and a persistent yellow accent that signals urgency without aggression. Social icons and payment badges (Visa, PayPal, Klarna) sit in the footer in their native brand colors (#3b5998, #1da1f2, #dd4b39), kept separate from the core palette. The brand trusts its teal-and-marigold voltage to carry the user from browse to cart, with the checkout flow rendered in a clean, monochrome surface.
 
 colors:
   primary: "#108474"
@@ -401,6 +405,8 @@ components:
 - Product grid: 4-5 columns on desktop, 2-3 on tablet, 1 on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for buttons and links were inferred from the primary color; exact hover hex values were not extracted from the live site.
 - Error styling for forms (red border, error message typography) is assumed based on common e-commerce patterns; no error state CSS was found.

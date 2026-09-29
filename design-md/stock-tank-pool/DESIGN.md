@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Stock Tank Pool
-description: Galvanized steel — the material of livestock operations and farm infrastructure — gets recast here as a backyard aspiration object, and the extracted color palette mirrors that tension precisely. The most distinctive non-framework color in the set is `#bcff05`, an electric lime that sits nowhere on a conventional pool company's palette; it fires as a voltage accent against the deep navy-teal `#11262f`, a pairing that reads more surf-brand than spa catalog. The primary green `#2aa527` carries primary CTAs — vivid enough to signal action, natural enough to stay coherent with the brand's outdoor-hardware origin. Mid-tone grays `#a3abb5`, `#b1b8be`, `#d2d6da` form a galvanized-steel gradient that maps directly onto the product's surface finish, creating an unintentional but useful material resonance between the UI neutral scale and the thing being sold. Light surfaces at `{colors.surface-soft}` (`#f3f6f8`) and `{colors.surface-card}` (`#f0f3f6`) register as cloud-gray rather than white-room, keeping the canvas warm-adjacent without slipping into beige. No custom typeface loads on the live domain — it is currently a HugeDomains parking page — so the system falls back to Roboto and the system UI stack, which suits a direct-sell, hardware-focused commerce context. Buttons sit at `{rounded.lg}` — human but not pill-soft — and product photography carries the persuasion load rather than display type. The `{colors.accent}` lime paired with `{colors.deep-teal}` on promo strips and hero CTAs is the single loudest brand differentiator in the system: no traditional pool installer would publish that combination, which is exactly the point.
+name: "Stock Tank Pool"
+source_url: "https://www.stocktankpool.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Galvanized steel — the material of livestock operations and farm infrastructure — gets recast here as a backyard aspiration object, and the extracted color palette mirrors that tension precisely. The most distinctive non-framework color in the set is `#bcff05`, an electric lime that sits nowhere on a conventional pool company's palette; it fires as a voltage accent against the deep navy-teal `#11262f`, a pairing that reads more surf-brand than spa catalog. The primary green `#2aa527` carries primary CTAs — vivid enough to signal action, natural enough to stay coherent with the brand's outdoor-hardware origin. Mid-tone grays `#a3abb5`, `#b1b8be`, `#d2d6da` form a galvanized-steel gradient that maps directly onto the product's surface finish, creating an unintentional but useful material resonance between the UI neutral scale and the thing being sold. Light surfaces at `{colors.surface-soft}` (`#f3f6f8`) and `{colors.surface-card}` (`#f0f3f6`) register as cloud-gray rather than white-room, keeping the canvas warm-adjacent without slipping into beige. No custom typeface loads on the live domain — it is currently a HugeDomains parking page — so the system falls back to Roboto and the system UI stack, which suits a direct-sell, hardware-focused commerce context. Buttons sit at `{rounded.lg}` — human but not pill-soft — and product photography carries the persuasion load rather than display type. The `{colors.accent}` lime paired with `{colors.deep-teal}` on promo strips and hero CTAs is the single loudest brand differentiator in the system: no traditional pool installer would publish that combination, which is exactly the point.
 
 colors:
   primary: "#2aa527"
@@ -356,6 +360,8 @@ components:
 - Promo strip text truncates with ellipsis on screens < 375px
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The live domain is currently a HugeDomains parking page; all extracted colors originate from the HugeDomains UI rather than a real Stock Tank Pool brand site — palette assignments reflect inference from the product category and most distinctive extracted values, not verified brand guidelines
 - No custom brand typeface detected; font stack defaults to system Roboto and Helvetica Neue — actual brand may use a slab serif, condensed sans, or hand-drawn display face once a real site launches

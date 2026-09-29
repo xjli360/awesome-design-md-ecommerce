@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Herman Miller
-description: |
+name: "Herman Miller"
+source_url: "https://www.hermanmiller.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The red at the center of every Herman Miller call-to-action — #e22d00 — reads like powdercoated industrial steel rather than brand-book scarlet: hot enough to stop a page scan cold, grounded enough to sit beside Aeron mesh and walnut-veneer photography without competing. FF Meta Headline W05 carries the display work, Erik Spiekermann's humanist sans-serif engineered to function under newsprint compression; its slightly open apertures and ink-trap geometry give product-catalog headlines a workmanlike warmth that Swiss grotesks would flatten. The canvas settles at #fafafa — not pure white but a near-white that extends reading endurance across specification-heavy product pages — with ink at #252525, a near-black that delivers strong contrast without the harsh cold snap of true black on true white.
 
   The interaction grammar is strikingly restrained. Primary buttons hold #e22d00 with white text and a near-zero corner radius ({rounded.xs}), leaning geometric rather than friendly — the form recalls machined product components more than soft consumer apps. A secondary blue (#0073ce) steps in for navigation links and anchor text, creating a two-voltage system where red means "transact" and blue means "navigate." Warm taupe (#ceb4a9) surfaces in material-swatch thumbnails and lifestyle washes, quietly anchoring the brand in natural materials without over-decorating. The near-black gray family — #252525, #464646, #4c4c4c, #616161 — runs body copy and structural chrome, producing a catalog that reads measured and professional at every zoom level.
@@ -381,6 +384,8 @@ components:
 - Mega-menu flyouts on desktop become drill-down panels within the mobile drawer
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Border-radius values not confirmed from extraction — inferred from Herman Miller's documented geometric design language; actual values may differ by 1–2px
 - Font weight variants for FF Meta Headline W05 (Light, Regular, Bold, Heavy) not individually confirmed; using weight 600/700 based on display-context conventions

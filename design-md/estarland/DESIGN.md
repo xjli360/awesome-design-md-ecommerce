@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: eStarland
-description: A retro game retailer that operates on a lean, high-contrast system anchored by a single dark gray (#313131) that serves as both primary ink and brand accent — there is no secondary color, no gradient, no decorative palette. The site reads as a utilitarian marketplace built for collectors who care about stock lists and price drops, not visual flourish. Body text runs at 14px in a system-ui stack (Arial, Helvetica Neue, sans-serif) with no custom typeface, a deliberate choice that prioritizes page speed and scannability over typographic personality. Buttons are compact rectangles at 32px height with 8px rounding ({rounded.sm}), using the same #313131 fill as the nav bar and footer — the brand treats every interactive surface as a functional container rather than a decorative element. Product cards stack in a dense grid with thin 1px hairlines, each card holding a small thumbnail, a game title in 13px bold, and a price in the same #313131. The search bar sits prominently at the top of every page, a full-width white field with a magnifying-glass icon and no placeholder text — the assumption being that users arrive knowing exactly what they want. The overall feel is that of a well-organized warehouse catalog: no hero imagery, no lifestyle photography, no brand storytelling. Every pixel earns its place by supporting the core transaction — finding a retro game and adding it to cart.
+name: "eStarland"
+source_url: "https://www.estarland.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A retro game retailer that operates on a lean, high-contrast system anchored by a single dark gray (#313131) that serves as both primary ink and brand accent — there is no secondary color, no gradient, no decorative palette. The site reads as a utilitarian marketplace built for collectors who care about stock lists and price drops, not visual flourish. Body text runs at 14px in a system-ui stack (Arial, Helvetica Neue, sans-serif) with no custom typeface, a deliberate choice that prioritizes page speed and scannability over typographic personality. Buttons are compact rectangles at 32px height with 8px rounding ({rounded.sm}), using the same #313131 fill as the nav bar and footer — the brand treats every interactive surface as a functional container rather than a decorative element. Product cards stack in a dense grid with thin 1px hairlines, each card holding a small thumbnail, a game title in 13px bold, and a price in the same #313131. The search bar sits prominently at the top of every page, a full-width white field with a magnifying-glass icon and no placeholder text — the assumption being that users arrive knowing exactly what they want. The overall feel is that of a well-organized warehouse catalog: no hero imagery, no lifestyle photography, no brand storytelling. Every pixel earns its place by supporting the core transaction — finding a retro game and adding it to cart.
 
 colors:
   primary: "#313131"
@@ -364,6 +368,8 @@ components:
 - Breadcrumb text truncates on mobile, showing only the last two path segments with "..." for earlier segments
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one hex color (#313131) was successfully extracted from the live site. The brand's true palette may include additional colors (e.g., a green for stock indicators, red for sold-out badges, gold for cart badges) that were inferred from common e-commerce patterns rather than extracted from the site. These inferred colors are marked with descriptive names (price-green, stock-green, sold-out-red, badge-gold, badge-silver) and should be verified against the actual site.
 - No font-family declarations beyond the system-ui stack were found. The brand may use a custom web font that wasn't detected during extraction.

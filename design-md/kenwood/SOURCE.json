@@ -1,0 +1,387 @@
+{
+  "source_url": "https://kenwood.com",
+  "final_url": "https://www.kenwood.com/",
+  "captured_at": "2026-09-28T04:29:57.408056+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://kenwood.com",
+      "final_url": "https://www.kenwood.com/",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "a2fe81fa4ef899a32c744da508bbf45cc2732977ba9c31662f4bd50883821e80",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.kenwood.com/common_global/css/normalize.css",
+      "final_url": "https://www.kenwood.com/common_global/css/normalize.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e74454c8d0746c4f823a6d2317b346955fbb9920441d11c13c930db9ef2f7622",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.kenwood.com/common_global/css/main.css",
+      "final_url": "https://www.kenwood.com/common_global/css/main.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f28d587a580713b1e8e59c83a950a662cd7f6e7969902d3bfe004f4057d89ca2",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.kenwood.com/common_global/css/common.css",
+      "final_url": "https://www.kenwood.com/common_global/css/common.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7af2d47b2a41bf823251956a0afb744be3f42ea9c459d17f4eea81df1d9e53e3",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#848484": {
+      "count": 5,
+      "sources": [
+        "https://www.kenwood.com/common_global/css/main.css"
+      ]
+    },
+    "#000000": {
+      "count": 4,
+      "sources": [
+        "https://www.kenwood.com/common_global/css/normalize.css",
+        "https://www.kenwood.com/common_global/css/main.css",
+        "https://www.kenwood.com/common_global/css/common.css"
+      ]
+    },
+    "#b4b6b8": {
+      "count": 3,
+      "sources": [
+        "https://www.kenwood.com/common_global/css/main.css"
+      ]
+    },
+    "#71787f": {
+      "count": 3,
+      "sources": [
+        "https://www.kenwood.com/common_global/css/main.css"
+      ]
+    },
+    "#ffff00": {
+      "count": 2,
+      "sources": [
+        "https://www.kenwood.com/common_global/css/normalize.css",
+        "https://www.kenwood.com/common_global/css/main.css"
+      ]
+    },
+    "#b3d4fc": {
+      "count": 2,
+      "sources": [
+        "https://www.kenwood.com/common_global/css/main.css"
+      ]
+    },
+    "#66000000": {
+      "count": 2,
+      "sources": [
+        "https://www.kenwood.com/common_global/css/main.css"
+      ]
+    },
+    "#c0c0c0": {
+      "count": 1,
+      "sources": [
+        "https://www.kenwood.com/common_global/css/normalize.css"
+      ]
+    },
+    "#222222": {
+      "count": 1,
+      "sources": [
+        "https://www.kenwood.com/common_global/css/main.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
+      "sources": [
+        "https://www.kenwood.com/common_global/css/main.css"
+      ]
+    },
+    "#999999": {
+      "count": 1,
+      "sources": [
+        "https://www.kenwood.com/common_global/css/main.css"
+      ]
+    },
+    "#ff0000": {
+      "count": 1,
+      "sources": [
+        "https://www.kenwood.com/common_global/css/main.css"
+      ]
+    },
+    "#00ff00": {
+      "count": 1,
+      "sources": [
+        "https://www.kenwood.com/common_global/css/main.css"
+      ]
+    },
+    "#616161": {
+      "count": 1,
+      "sources": [
+        "https://www.kenwood.com/common_global/css/main.css"
+      ]
+    },
+    "#47617a": {
+      "count": 1,
+      "sources": [
+        "https://www.kenwood.com/common_global/css/main.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 1,
+      "sources": [
+        "https://www.kenwood.com/common_global/css/common.css"
+      ]
+    }
+  },
+  "font_families": {
+    "courier new": [
+      "https://www.kenwood.com/common_global/css/normalize.css"
+    ],
+    "monospace": [
+      "https://www.kenwood.com/common_global/css/normalize.css"
+    ],
+    "sans-serif": [
+      "https://www.kenwood.com/common_global/css/normalize.css"
+    ],
+    "serif": [
+      "https://www.kenwood.com/common_global/css/normalize.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.kenwood.com/common_global/css/normalize.css",
+      "selector": "html,\r\nbutton,\r\ninput,\r\nselect,\r\ntextarea",
+      "declarations": "font-family: sans-serif;"
+    },
+    {
+      "source": "https://www.kenwood.com/common_global/css/main.css",
+      "selector": "@charset \"UTF-8\";\r\n\r\n\r\n\r\nhtml,\r\nbutton,\r\ninput,\r\nselect,\r\ntextarea",
+      "declarations": "color: #222;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "KENWOOD",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kenwood.com/common_global/css/normalize.css",
+        "https://www.kenwood.com/common_global/css/main.css",
+        "https://www.kenwood.com/common_global/css/common.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kenwood.com/common_global/css/main.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kenwood.com/common_global/css/common.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kenwood.com/common_global/css/main.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kenwood.com/common_global/css/main.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kenwood.com/common_global/css/main.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kenwood.com/common_global/css/main.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kenwood.com/common_global/css/common.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kenwood.com/common_global/css/common.css"
+      ]
+    },
+    "colors.secondary-muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kenwood.com/common_global/css/main.css"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kenwood.com/common_global/css/main.css"
+      ]
+    },
+    "colors.disabled": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kenwood.com/common_global/css/main.css"
+      ]
+    },
+    "colors.overlay": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kenwood.com/common_global/css/normalize.css"
+      ]
+    },
+    "colors.accent-slate": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.kenwood.com/common_global/css/main.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.spec-mono": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.spec-table": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    }
+  }
+}

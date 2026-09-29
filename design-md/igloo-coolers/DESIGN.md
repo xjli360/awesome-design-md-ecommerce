@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Igloo Coolers
-description: A brand born in 1947 that treats coolers as durable sculpture, the palette runs on a near-monochrome axis of #dedede, #e0e0e0, and #121212 — three values that describe a lifetime of use: the pale silver of a well-worn lid, the warm gray of a cooler body that has sat in sun for decades, and the deep near-black of the brand wordmark and structural details. Permanent Marker Pro, a hand-lettered display face with deliberate ink-splash irregularity, sits atop every hero headline and product badge, injecting a permanent-marker informality that contrasts with the otherwise restrained sans-serif body set in Arial. The brand trusts its own history as the primary design move — the founding year appears in the page title, on product pages, and as a persistent visual anchor. Product photography is the dominant color source, with coolers photographed in outdoor settings that introduce blues, greens, and earth tones against the neutral canvas. CTAs use the full #121212 ink as background with white text, a high-contrast binary that reads as industrial and no-nonsense. Cards and surfaces use {rounded.sm} corners — soft enough to feel intentional, tight enough to avoid any "friendly appliance" association. The overall mood is utilitarian with a collector's pride: these are objects meant to be kept, not replaced.
+name: "Igloo Coolers"
+source_url: "https://www.igloocoolers.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A brand born in 1947 that treats coolers as durable sculpture, the palette runs on a near-monochrome axis of #dedede, #e0e0e0, and #121212 — three values that describe a lifetime of use: the pale silver of a well-worn lid, the warm gray of a cooler body that has sat in sun for decades, and the deep near-black of the brand wordmark and structural details. Permanent Marker Pro, a hand-lettered display face with deliberate ink-splash irregularity, sits atop every hero headline and product badge, injecting a permanent-marker informality that contrasts with the otherwise restrained sans-serif body set in Arial. The brand trusts its own history as the primary design move — the founding year appears in the page title, on product pages, and as a persistent visual anchor. Product photography is the dominant color source, with coolers photographed in outdoor settings that introduce blues, greens, and earth tones against the neutral canvas. CTAs use the full #121212 ink as background with white text, a high-contrast binary that reads as industrial and no-nonsense. Cards and surfaces use {rounded.sm} corners — soft enough to feel intentional, tight enough to avoid any "friendly appliance" association. The overall mood is utilitarian with a collector's pride: these are objects meant to be kept, not replaced.
 
 colors:
   primary: "#121212"
@@ -534,6 +538,8 @@ components:
 - Search bar collapses to icon-only trigger on mobile, expanding to full-width overlay on tap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Extracted hex colors are limited to three values (#dedede, #e0e0e0, #121212) which appear to be the brand's primary structural palette. The extracted list may be missing brand accent colors, seasonal palettes, or promotional colors that exist in images but not in the extracted CSS. The badge colors (#c62828, #1565c0, #2e7d32, #f9a825) are inferred from common e-commerce patterns rather than extracted from the live site.
 - Font-family declarations found: Arial, inherit, permanent-marker-pro, sans-serif, serif ! important. The "Permanent Marker Pro" font weight and exact letter-spacing values are estimated based on typical display font behavior. The actual font may have additional weights or stylistic alternates not captured.

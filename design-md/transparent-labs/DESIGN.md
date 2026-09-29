@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Transparent Labs
-description: A science-forward supplement brand that builds trust through clinical transparency, anchored on a deep charcoal ink (#111314) and a crisp off-white canvas (#f8f9fb). The brand's primary voltage is a confident cerulean blue (#1b73b3) — appearing on every primary CTA, progress bar, and ingredient-highlight border — while a secondary emerald (#108474) signals natural, plant-based formulations and a warm amber (#ff8c00) fires up sale badges and limited-edition drops. The typography runs Aeonik, a geometric sans-serif with moderate contrast and a slightly squared "a" and "e", giving the system a laboratory-precise but approachable feel. Headlines sit at weight 700 in sizes up to 48px, while body copy at weight 400 stays readable at 16px. Cards and buttons use soft 8px radii ({rounded.sm}) — enough to feel intentional, not playful — and the product grid uses 12px radii ({rounded.md}) on images to frame the supplement photography without competing with it. The overall mood is clean, clinical, and confident: a white lab bench with blue accents, not a glossy health-magazine spread. Every component — from the sticky top nav to the ingredient-detail accordion — prioritizes information density and legibility over decorative flourish. The brand's "no proprietary blends" promise is echoed in the UI: nothing is hidden, every label is readable, every color has a job.
+name: "Transparent Labs"
+source_url: "https://transparentlabs.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A science-forward supplement brand that builds trust through clinical transparency, anchored on a deep charcoal ink (#111314) and a crisp off-white canvas (#f8f9fb). The brand's primary voltage is a confident cerulean blue (#1b73b3) — appearing on every primary CTA, progress bar, and ingredient-highlight border — while a secondary emerald (#108474) signals natural, plant-based formulations and a warm amber (#ff8c00) fires up sale badges and limited-edition drops. The typography runs Aeonik, a geometric sans-serif with moderate contrast and a slightly squared "a" and "e", giving the system a laboratory-precise but approachable feel. Headlines sit at weight 700 in sizes up to 48px, while body copy at weight 400 stays readable at 16px. Cards and buttons use soft 8px radii ({rounded.sm}) — enough to feel intentional, not playful — and the product grid uses 12px radii ({rounded.md}) on images to frame the supplement photography without competing with it. The overall mood is clean, clinical, and confident: a white lab bench with blue accents, not a glossy health-magazine spread. Every component — from the sticky top nav to the ingredient-detail accordion — prioritizes information density and legibility over decorative flourish. The brand's "no proprietary blends" promise is echoed in the UI: nothing is hidden, every label is readable, every color has a job.
 
 colors:
   primary: "#1b73b3"
@@ -511,6 +515,8 @@ components:
 - Hero sections reduce padding from 64px to 32px on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for secondary and tertiary buttons were inferred from common patterns — exact extracted hover colors are not available from the static extraction
 - Error state styling for inputs (border color, error message typography, icon placement) is inferred from common supplement e-commerce patterns, not extracted from the live site

@@ -1,0 +1,652 @@
+{
+  "source_url": "https://smallbatchpets.com",
+  "final_url": "https://smallbatchpets.com/",
+  "captured_at": "2026-09-29T04:01:40.575541+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://smallbatchpets.com",
+      "final_url": "https://smallbatchpets.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "6f2268a60949cef55cabcf157ebcc08af265d94c574bff629668d892141529c8",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://smallbatchpets.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://smallbatchpets.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://smallbatchpets.com/cdn/shop/t/11/assets/base.css?v=90447017968940225761779810633",
+      "final_url": "https://smallbatchpets.com/cdn/shop/t/11/assets/base.css?v=90447017968940225761779810633",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "790be7b3c84683bb07f7404ceb3a9e8cae15b6059418e5d17851269943c1e89f",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://smallbatchpets.com/cdn/shop/t/11/assets/typography-variables.css?v=59210130770225108001779810739",
+      "final_url": "https://smallbatchpets.com/cdn/shop/t/11/assets/typography-variables.css?v=59210130770225108001779810739",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3c154279ecab301259d51543437a42f7f1b416d0f9f355804f4a7e6da3bb71aa",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://smallbatchpets.com/cdn/shop/t/11/assets/component-slider.css?v=669093720406450411779810652",
+      "final_url": "https://smallbatchpets.com/cdn/shop/t/11/assets/component-slider.css?v=669093720406450411779810652",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c8742c789832c693196b540d8e5019a8a9ef68bcfa1c6a8e11f709ecf8b77be0",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://smallbatchpets.com/cdn/shop/t/11/assets/swiper-bundle.css?v=127803016596819466191779810737",
+      "final_url": "https://smallbatchpets.com/cdn/shop/t/11/assets/swiper-bundle.css?v=127803016596819466191779810737",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4a187f51b5331e64fcaff90749a3466876c01817af69f76734519738c1d106f6",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 21,
+      "sources": [
+        "https://smallbatchpets.com/",
+        "https://smallbatchpets.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://smallbatchpets.com/cdn/shop/t/11/assets/base.css?v=90447017968940225761779810633",
+        "https://smallbatchpets.com/cdn/shop/t/11/assets/swiper-bundle.css?v=127803016596819466191779810737"
+      ]
+    },
+    "#0a4919": {
+      "count": 12,
+      "sources": [
+        "https://smallbatchpets.com/"
+      ]
+    },
+    "#000000": {
+      "count": 8,
+      "sources": [
+        "https://smallbatchpets.com/",
+        "https://smallbatchpets.com/cdn/shop/t/11/assets/base.css?v=90447017968940225761779810633",
+        "https://smallbatchpets.com/cdn/shop/t/11/assets/swiper-bundle.css?v=127803016596819466191779810737"
+      ]
+    },
+    "#96bc2f": {
+      "count": 7,
+      "sources": [
+        "https://smallbatchpets.com/"
+      ]
+    },
+    "#caea83": {
+      "count": 6,
+      "sources": [
+        "https://smallbatchpets.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 6,
+      "sources": [
+        "https://smallbatchpets.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://smallbatchpets.com/cdn/shop/t/11/assets/swiper-bundle.css?v=127803016596819466191779810737"
+      ]
+    },
+    "#fcfdf8": {
+      "count": 5,
+      "sources": [
+        "https://smallbatchpets.com/"
+      ]
+    },
+    "#00000080": {
+      "count": 5,
+      "sources": [
+        "https://smallbatchpets.com/cdn/shop/t/11/assets/base.css?v=90447017968940225761779810633",
+        "https://smallbatchpets.com/cdn/shop/t/11/assets/swiper-bundle.css?v=127803016596819466191779810737"
+      ]
+    },
+    "#272d45": {
+      "count": 3,
+      "sources": [
+        "https://smallbatchpets.com/"
+      ]
+    },
+    "#dbdde4": {
+      "count": 3,
+      "sources": [
+        "https://smallbatchpets.com/"
+      ]
+    },
+    "#ffffff00": {
+      "count": 3,
+      "sources": [
+        "https://smallbatchpets.com/cdn/shop/t/11/assets/base.css?v=90447017968940225761779810633"
+      ]
+    },
+    "#ff682e": {
+      "count": 2,
+      "sources": [
+        "https://smallbatchpets.com/"
+      ]
+    },
+    "#676986": {
+      "count": 2,
+      "sources": [
+        "https://smallbatchpets.com/"
+      ]
+    },
+    "#144520": {
+      "count": 2,
+      "sources": [
+        "https://smallbatchpets.com/"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://smallbatchpets.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://smallbatchpets.com/cdn/shop/t/11/assets/base.css?v=90447017968940225761779810633"
+      ]
+    },
+    "#f4f4f6": {
+      "count": 1,
+      "sources": [
+        "https://smallbatchpets.com/"
+      ]
+    },
+    "#e5e5eb": {
+      "count": 1,
+      "sources": [
+        "https://smallbatchpets.com/"
+      ]
+    },
+    "#2c3e50": {
+      "count": 1,
+      "sources": [
+        "https://smallbatchpets.com/"
+      ]
+    },
+    "#b2f9e9": {
+      "count": 1,
+      "sources": [
+        "https://smallbatchpets.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://smallbatchpets.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://smallbatchpets.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://smallbatchpets.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#829084": {
+      "count": 1,
+      "sources": [
+        "https://smallbatchpets.com/cdn/shop/t/11/assets/base.css?v=90447017968940225761779810633"
+      ]
+    },
+    "#ffffffff": {
+      "count": 1,
+      "sources": [
+        "https://smallbatchpets.com/cdn/shop/t/11/assets/base.css?v=90447017968940225761779810633"
+      ]
+    },
+    "#007aff": {
+      "count": 1,
+      "sources": [
+        "https://smallbatchpets.com/cdn/shop/t/11/assets/swiper-bundle.css?v=127803016596819466191779810737"
+      ]
+    },
+    "#00000026": {
+      "count": 1,
+      "sources": [
+        "https://smallbatchpets.com/cdn/shop/t/11/assets/swiper-bundle.css?v=127803016596819466191779810737"
+      ]
+    }
+  },
+  "font_families": {
+    "DesMontilles": [
+      "https://smallbatchpets.com/cdn/shop/t/11/assets/base.css?v=90447017968940225761779810633"
+    ],
+    "Sharp Sans": [
+      "https://smallbatchpets.com/",
+      "https://smallbatchpets.com/cdn/shop/t/11/assets/base.css?v=90447017968940225761779810633"
+    ],
+    "oke-widget-icons": [
+      "https://smallbatchpets.com/"
+    ],
+    "oke-widget-icons!important": [
+      "https://smallbatchpets.com/"
+    ],
+    "swiper-icons": [
+      "https://smallbatchpets.com/cdn/shop/t/11/assets/swiper-bundle.css?v=127803016596819466191779810737"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://smallbatchpets.com/",
+      "selector": ":root,\n        .color-scheme-1",
+      "declarations": "--color-background: 252,253,248;\n        \n          --gradient-background: #fcfdf8;\n        \n\n        \n\n        --color-foreground: 10,73,25;\n        --color-background-contrast: 210,225,149;\n        --color-shadow: 130,144,132;\n        --color-button: 252,253,248;\n        --color-button-text: 10,73,25;\n        \n        --color-button-hover: 10,73,25;\n        \n        \n        --color-button-text-hover: 252,253,248;\n        \n        --color-secondary-button: 252,253,248;\n        --color-secondary-button-text: 10,73,25;\n        --color-link: 10,73,25;\n        --color-badge-foreground: 10,73,25;\n        --color-badge-background: 252,253,248;\n        --color-badge-border: 10,73,25;\n        --pa"
+    },
+    {
+      "source": "https://smallbatchpets.com/",
+      "selector": "body",
+      "declarations": "display: grid;\n        grid-template-rows: auto auto 1fr auto;\n        grid-template-columns: 100%;\n        min-height: 100%;\n        margin: 0;\n        font-size: 1.5rem;\n        letter-spacing: 0.06rem;\n        line-height: calc(1 + 0.8 / var(--font-body-scale));\n        font-family: var(--font-body-family);\n        font-style: var(--font-body-style);\n        font-weight: var(--font-body-weight);"
+    },
+    {
+      "source": "https://smallbatchpets.com/",
+      "selector": ".okeReviews[data-oke-container] button,div.okeReviews button",
+      "declarations": "border-radius:0;border:0;box-shadow:none;margin:0;width:auto;min-width:auto;padding:0;background-color:transparent;min-height:auto"
+    },
+    {
+      "source": "https://smallbatchpets.com/",
+      "selector": "views[data-oke-container] input,.okeReviews[data-oke-container] select,.okeReviews[data-oke-container] textarea,div.okeReviews button,div.okeReviews input,div.o",
+      "declarations": "font-family:inherit;font-size:1em"
+    },
+    {
+      "source": "https://smallbatchpets.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button,div.okeReviews .oke-button",
+      "declarations": "display:inline-block;border-style:solid;border-color:var(--oke-button-borderColor);border-width:var(--oke-button-borderWidth);background-color:var(--oke-button-backgroundColor);line-height:1;padding:12px 24px;margin:0;border-radius:var(--oke-button-borderRadius);color:var(--oke-button-textColor);text-align:center;position:relative;font-weight:var(--oke-button-fontWeight);font-size:var(--oke-button-fontSize);font-family:var(--oke-button-fontFamily);outline:0"
+    },
+    {
+      "source": "https://smallbatchpets.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button.oke-is-loading:before,div.okeReviews .oke-button.oke-is-loading:before",
+      "declarations": "font-family:oke-widget-icons!important;font-style:normal;font-weight:400;font-variant:normal;text-transform:none;line-height:1;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;content:\"\";color:undefined;font-size:12px;display:inline-block;animation:oke-spin 1s linear infinite;position:absolute;width:12px;height:12px;top:0;left:0;bottom:0;right:0;margin:auto"
+    },
+    {
+      "source": "https://smallbatchpets.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button.oke-is-active,div.okeReviews .oke-button.oke-is-active",
+      "declarations": "background-color:var(--oke-button-backgroundColorActive);color:var(--oke-button-textColorActive);border-color:var(--oke-button-borderColorActive)"
+    },
+    {
+      "source": "https://smallbatchpets.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-button:not(.oke-is-loading):not(.oke-is-active):hover,div.okeReviews .oke-button:not(.oke-is-loading):not(.oke-is-active):h",
+      "declarations": "background-color:var(--oke-button-backgroundColorHover);color:var(--oke-button-textColorHover);border-color:var(--oke-button-borderColorHover);box-shadow:0 0 0 2px var(--oke-button-backgroundColorHover)"
+    },
+    {
+      "source": "https://smallbatchpets.com/",
+      "selector": "is-loading):not(.oke-is-active):hover:active,div.okeReviews .oke-button:not(.oke-is-loading):not(.oke-is-active):active,div.okeReviews .oke-button:not(.oke-is-l",
+      "declarations": "background-color:var(--oke-button-backgroundColorActive);color:var(--oke-button-textColorActive);border-color:var(--oke-button-borderColorActive)"
+    },
+    {
+      "source": "https://smallbatchpets.com/",
+      "selector": ".okeReviews[data-oke-container] .oke-bodyText,div.okeReviews .oke-bodyText",
+      "declarations": "font-weight:var(--oke-bodyText-fontWeight);font-size:var(--oke-bodyText-fontSize);font-family:var(--oke-bodyText-fontFamily)"
+    },
+    {
+      "source": "https://smallbatchpets.com/",
+      "selector": "views[data-oke-container] .oke-modal .oke-reviewContent-date,div.okeReviews .oke-modal .oke-helpful,div.okeReviews .oke-modal .oke-helpful-vote-button,div.okeRe",
+      "declarations": "color:#676986"
+    },
+    {
+      "source": "https://smallbatchpets.com/",
+      "selector": ":root",
+      "declarations": "--oke-widget-spaceAbove:20px;--oke-widget-spaceBelow:20px;--oke-starRating-spaceAbove:0;--oke-starRating-spaceBelow:0;--oke-button-backgroundColor:#0a4919;--oke-button-backgroundColorHover:#96bc2f;--oke-button-backgroundColorActive:#96bc2f;--oke-button-textColor:#fff;--oke-button-textColorHover:#0a4919;--oke-button-textColorActive:#fff;--oke-button-borderColor:#dbdde4;--oke-button-borderColorHover:#dbdde4;--oke-button-borderColorActive:#96bc2f;--oke-button-borderRadius:4px;--oke-button-borderWidth:1px;--oke-button-fontWeight:700;--oke-button-fontSize:var(--oke-text-regular,14px);--oke-button-fontFamily:inherit;--oke-border-color:#caea83;--oke-border-width:1px;--oke-text-primaryColor:#0a4919;"
+    },
+    {
+      "source": "https://smallbatchpets.com/",
+      "selector": ".list-menu__item, .list-menu__item a.header__menu-item-link",
+      "declarations": "display: flex;\n    align-items: center;\n    line-height: var(--line-height-menu);\n    font-weight: 700;\n    font-size: var(--font-body-m);\n    color: rgb(var(--color-dark-green));\n    text-decoration: none;"
+    },
+    {
+      "source": "https://smallbatchpets.com/",
+      "selector": ".header__submenu",
+      "declarations": "position: absolute;\n    min-width: 100%;\n    width: 20rem;\n    border: 1px solid rgba(var(--color-foreground), 0.2);\n    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1);\n    padding: 0.5rem 0;\n    margin-top: 0.5rem;\n    background-color: rgb(var(--color-background));\n    z-index: 10;"
+    },
+    {
+      "source": "https://smallbatchpets.com/",
+      "selector": ".header__submenu .list-menu__item:hover",
+      "declarations": "background-color: rgba(var(--color-foreground), 0.05);"
+    },
+    {
+      "source": "https://smallbatchpets.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://smallbatchpets.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://smallbatchpets.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://smallbatchpets.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://smallbatchpets.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://smallbatchpets.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://smallbatchpets.com/cdn/shop/t/11/assets/base.css?v=90447017968940225761779810633",
+      "selector": ".product-card-wrapper .card,.contains-card--product",
+      "declarations": "--border-radius: var(--product-card-corner-radius);--border-width: var(--product-card-border-width);--border-opacity: var(--product-card-border-opacity);--shadow-horizontal-offset: var(--product-card-shadow-horizontal-offset);--shadow-vertical-offset: var(--product-card-shadow-vertical-offset);--shadow-blur-radius: var(--product-card-shadow-blur-radius);--shadow-opacity: var(--product-card-shadow-opacity);--shadow-visible: var(--product-card-shadow-visible);--image-padding: var(--product-card-image-padding);--text-alignment: var(--product-card-text-alignment)"
+    },
+    {
+      "source": "https://smallbatchpets.com/cdn/shop/t/11/assets/base.css?v=90447017968940225761779810633",
+      "selector": ".rte em,h1 em,h1 i,h2 em,h2 i,.h1 em,.h1 i,.rte i,.inline-richtext em,.inline-richtext i",
+      "declarations": "font-family:var(--font-family-secondary);font-style:italic;font-weight:400;text-decoration-line:underline;text-decoration-thickness:from-font;color:rgb(var(--color-dark-green));transform:rotate(-4.52deg);display:inline-block"
+    },
+    {
+      "source": "https://smallbatchpets.com/cdn/shop/t/11/assets/base.css?v=90447017968940225761779810633",
+      "selector": ".text-body",
+      "declarations": "font-size:1.5rem;letter-spacing:.06rem;line-height:calc(1 + .8 / var(--font-body-scale));font-family:var(--font-body-family);font-style:var(--font-body-style);font-weight:var(--font-body-weight)"
+    },
+    {
+      "source": "https://smallbatchpets.com/cdn/shop/t/11/assets/base.css?v=90447017968940225761779810633",
+      "selector": "h1,h2,h3,h4,h5,.h0,.h1,.h2,.h3,.h4,.h5",
+      "declarations": "font-family:var(--font-heading-family);font-style:var(--font-heading-style);font-weight:var(--font-heading-weight);letter-spacing:calc(var(--font-heading-scale) * .06rem);color:rgb(var(--color-foreground));line-height:calc(1 + .3/max(1,var(--font-heading-scale)));word-break:break-word"
+    },
+    {
+      "source": "https://smallbatchpets.com/cdn/shop/t/11/assets/base.css?v=90447017968940225761779810633",
+      "selector": ":root",
+      "declarations": "--duration-short: .1s;--duration-default: .2s;--duration-announcement-bar: .25s;--duration-medium: .3s;--duration-long: .5s;--duration-extra-long: .6s;--duration-extra-longer: .75s;--duration-extended: 3s;--ease-out-slow: cubic-bezier(0, 0, .3, 1);--animation-slide-in: slideIn var(--duration-extra-long) var(--ease-out-slow) forwards;--animation-fade-in: fadeIn var(--duration-extra-long) var(--ease-out-slow)"
+    },
+    {
+      "source": "https://smallbatchpets.com/cdn/shop/t/11/assets/base.css?v=90447017968940225761779810633",
+      "selector": ".button,.button--primary,a.button,a.button--primary",
+      "declarations": "background-color:rgb(var(--color-button));color:rgb(var(--color-button-text));border:0"
+    },
+    {
+      "source": "https://smallbatchpets.com/cdn/shop/t/11/assets/base.css?v=90447017968940225761779810633",
+      "selector": ".button:not([disabled]):hover,.button--primary:not([disabled]):hover,a.button:not([disabled]):hover,a.button--primary:not([disabled]):hover",
+      "declarations": "background-color:rgb(var(--color-button-hover));color:rgb(var(--color-button-text-hover));border:0"
+    },
+    {
+      "source": "https://smallbatchpets.com/cdn/shop/t/11/assets/base.css?v=90447017968940225761779810633",
+      "selector": "te-search .button:not([disabled]):hover,.template-search .button--primary:not([disabled]):hover,.template-search a.button:not([disabled]):hover,.template-search",
+      "declarations": "background-color:rgb(var(--color-button-hover))!important;color:rgb(var(--color-button-text-hover))!important;border:0"
+    },
+    {
+      "source": "https://smallbatchpets.com/cdn/shop/t/11/assets/base.css?v=90447017968940225761779810633",
+      "selector": ".button--secondary,a.button--secondary",
+      "declarations": "background-color:transparent;color:rgb(var(--color-dark-green));border:2px solid rgb(var(--color-dark-green))"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Smallbatch Pets",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://smallbatchpets.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://smallbatchpets.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://smallbatchpets.com/"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://smallbatchpets.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://smallbatchpets.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://smallbatchpets.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://smallbatchpets.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://smallbatchpets.com/",
+        "https://smallbatchpets.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://smallbatchpets.com/cdn/shop/t/11/assets/base.css?v=90447017968940225761779810633",
+        "https://smallbatchpets.com/cdn/shop/t/11/assets/swiper-bundle.css?v=127803016596819466191779810737"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://smallbatchpets.com/",
+        "https://smallbatchpets.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://smallbatchpets.com/cdn/shop/t/11/assets/base.css?v=90447017968940225761779810633",
+        "https://smallbatchpets.com/cdn/shop/t/11/assets/swiper-bundle.css?v=127803016596819466191779810737"
+      ]
+    },
+    "colors.accent-lime": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://smallbatchpets.com/"
+      ]
+    },
+    "colors.accent-lime-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://smallbatchpets.com/"
+      ]
+    },
+    "colors.accent-orange": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://smallbatchpets.com/"
+      ]
+    },
+    "colors.accent-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://smallbatchpets.com/"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://smallbatchpets.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-blue-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://smallbatchpets.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.navy": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://smallbatchpets.com/"
+      ]
+    },
+    "colors.slate": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://smallbatchpets.com/"
+      ]
+    },
+    "colors.sage": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://smallbatchpets.com/cdn/shop/t/11/assets/base.css?v=90447017968940225761779810633"
+      ]
+    },
+    "colors.dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://smallbatchpets.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.protein-filter-chip": {
+      "status": "inferred"
+    }
+  }
+}

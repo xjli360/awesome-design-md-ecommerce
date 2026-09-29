@@ -1,0 +1,825 @@
+{
+  "source_url": "https://wyze.com",
+  "final_url": "https://www.wyze.com/",
+  "captured_at": "2026-09-28T09:19:44.214348+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://wyze.com",
+      "final_url": "https://www.wyze.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "037a6858aa3d241ce70f1fe0bd3de99d698e61d0b91aad514cbc72d85916d47b",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.wyze.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.wyze.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.wyze.com/cdn/shop/t/766/assets/component-predictive-search-min.css?v=4394784127419536681785280383",
+      "final_url": "https://www.wyze.com/cdn/shop/t/766/assets/component-predictive-search-min.css?v=4394784127419536681785280383",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a5a2ad9376b44bd08e84496a48ed8c9411347bb320f36e46abf6b0f64e068cec",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.wyze.com/cdn/shop/t/766/assets/component-list-menu.css?v=135751289461767594771770332227",
+      "final_url": "https://www.wyze.com/cdn/shop/t/766/assets/component-list-menu.css?v=135751289461767594771770332227",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b07495147c10f4b119b73b96da27346255070f6cd063d4210e6565b594546641",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.wyze.com/cdn/shop/t/766/assets/component-search.css?v=130382253973794904871723497641",
+      "final_url": "https://www.wyze.com/cdn/shop/t/766/assets/component-search.css?v=130382253973794904871723497641",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6ca37c2cbd17959b53be121ca1b3b9028ae51ff77c86dd4e42a436cd853dbfdf",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://www.wyze.com/cdn/shop/t/766/assets/component-menu-drawer.css?v=82267479775534382391723497642",
+      "final_url": "https://www.wyze.com/cdn/shop/t/766/assets/component-menu-drawer.css?v=82267479775534382391723497642",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "53438f4e08e1277265096640d63bcf10db22c964020e16a87c5198270d07af0d",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 19,
+      "sources": [
+        "https://www.wyze.com/",
+        "https://www.wyze.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.wyze.com/cdn/shop/t/766/assets/component-predictive-search-min.css?v=4394784127419536681785280383"
+      ]
+    },
+    "#d2fff2": {
+      "count": 17,
+      "sources": [
+        "https://www.wyze.com/",
+        "https://www.wyze.com/cdn/shop/t/766/assets/component-predictive-search-min.css?v=4394784127419536681785280383"
+      ]
+    },
+    "#055446": {
+      "count": 12,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#1df0bb": {
+      "count": 10,
+      "sources": [
+        "https://www.wyze.com/",
+        "https://www.wyze.com/cdn/shop/t/766/assets/component-predictive-search-min.css?v=4394784127419536681785280383"
+      ]
+    },
+    "#98ffdf": {
+      "count": 10,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#000000": {
+      "count": 8,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#1f1f1f": {
+      "count": 6,
+      "sources": [
+        "https://www.wyze.com/",
+        "https://www.wyze.com/cdn/shop/t/766/assets/component-predictive-search-min.css?v=4394784127419536681785280383"
+      ]
+    },
+    "#4e2fd2": {
+      "count": 4,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 4,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#969696": {
+      "count": 4,
+      "sources": [
+        "https://www.wyze.com/",
+        "https://www.wyze.com/cdn/shop/t/766/assets/component-predictive-search-min.css?v=4394784127419536681785280383"
+      ]
+    },
+    "#334fb4": {
+      "count": 3,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#757575": {
+      "count": 3,
+      "sources": [
+        "https://www.wyze.com/",
+        "https://www.wyze.com/cdn/shop/t/766/assets/component-predictive-search-min.css?v=4394784127419536681785280383"
+      ]
+    },
+    "#393f47": {
+      "count": 2,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#ff8f5e": {
+      "count": 2,
+      "sources": [
+        "https://www.wyze.com/",
+        "https://www.wyze.com/cdn/shop/t/766/assets/component-predictive-search-min.css?v=4394784127419536681785280383"
+      ]
+    },
+    "#30187b": {
+      "count": 2,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#fafafa": {
+      "count": 2,
+      "sources": [
+        "https://www.wyze.com/",
+        "https://www.wyze.com/cdn/shop/t/766/assets/component-predictive-search-min.css?v=4394784127419536681785280383"
+      ]
+    },
+    "#e3e3e3": {
+      "count": 2,
+      "sources": [
+        "https://www.wyze.com/",
+        "https://www.wyze.com/cdn/shop/t/766/assets/component-predictive-search-min.css?v=4394784127419536681785280383"
+      ]
+    },
+    "#cccccc": {
+      "count": 2,
+      "sources": [
+        "https://www.wyze.com/",
+        "https://www.wyze.com/cdn/shop/t/766/assets/component-predictive-search-min.css?v=4394784127419536681785280383"
+      ]
+    },
+    "#22262b": {
+      "count": 2,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://www.wyze.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.wyze.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#b8efe0": {
+      "count": 2,
+      "sources": [
+        "https://www.wyze.com/cdn/shop/t/766/assets/component-predictive-search-min.css?v=4394784127419536681785280383"
+      ]
+    },
+    "#f7fafc": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#08846f": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#0aa288": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#33f1c2": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#1ad8a8": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#ffdf6b": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#fff8df": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#bc3131": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#1a98ff": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#f2fffc": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#4629be": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#6044d7": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#827aff": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#b8c4ff": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#e6eeff": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#d9efec": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#f0f4f7": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#e6ebf0": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#6f7882": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#525963": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#575757": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#3b3b3b": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#fad7e0": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#b50030": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#f6f5ff": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#f8f9fa": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#00000099": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#4942d0": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#3e70ca": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#3497c6": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#2bb7c2": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#25d0bf": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#21e2bd": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#1eedbb": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.wyze.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Gilroy": [
+      "https://www.wyze.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.wyze.com/",
+      "selector": ":root",
+      "declarations": "--gilroy: 'Gilroy', Futura, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji',\n    'Segoe UI Emoji', 'Segoe UI Symbol';"
+    },
+    {
+      "source": "https://www.wyze.com/",
+      "selector": ":root,\n        .color-background-1",
+      "declarations": "--color-background: 255,255,255;\n        \n          --gradient-background: #ffffff;\n        \n        --color-foreground: 31,31,31;\n        --color-accent: 29,240,187;\n        --color-shadow: 31,31,31;\n        --color-button: 29,240,187;\n        --color-button-text: 31,31,31;\n        --color-secondary-button: 255,255,255;\n        --color-secondary-button-text: 31,31,31;\n        --color-link: 31,31,31;\n        --color-badge-foreground: 31,31,31;\n        --color-badge-background: 255,255,255;\n        --color-badge-border: 31,31,31;\n        --payment-terms-background-color: rgb(255 255 255);"
+    },
+    {
+      "source": "https://www.wyze.com/",
+      "selector": "body",
+      "declarations": "display: flex;\n        flex-direction: column;\n        min-height: 100%;\n        margin: 0;\n        font-size: 1.5rem;\n        letter-spacing: 0.06rem;\n        line-height: calc(1 + 0.8 / var(--font-body-scale));\n        font-family: var(--font-body-family);\n        font-style: var(--font-body-style);\n        font-weight: var(--font-body-weight);"
+    },
+    {
+      "source": "https://www.wyze.com/",
+      "selector": ":root",
+      "declarations": "--alpha-button-background:1;--alpha-button-border:1;--alpha-link:0.85;--alpha-badge-border:0.1"
+    },
+    {
+      "source": "https://www.wyze.com/",
+      "selector": ".contains-card--product,.product-card-wrapper .card",
+      "declarations": "--border-radius:var(--product-card-corner-radius);--border-width:var(--product-card-border-width);--border-opacity:var(--product-card-border-opacity);--shadow-horizontal-offset:var(--product-card-shadow-horizontal-offset);--shadow-vertical-offset:var(--product-card-shadow-vertical-offset);--shadow-blur-radius:var(--product-card-shadow-blur-radius);--shadow-opacity:var(--product-card-shadow-opacity);--shadow-visible:var(--product-card-shadow-visible);--image-padding:var(--product-card-image-padding);--text-alignment:var(--product-card-text-alignment)"
+    },
+    {
+      "source": "https://www.wyze.com/",
+      "selector": ".contains-card--product,.product-card-wrapper .card",
+      "declarations": "--border-radius:var(--product-card-corner-radius);--border-width:var(--product-card-border-width);--border-opacity:var(--product-card-border-opacity);--shadow-horizontal-offset:var(--product-card-shadow-horizontal-offset);--shadow-vertical-offset:var(--product-card-shadow-vertical-offset);--shadow-blur-radius:var(--product-card-shadow-blur-radius);--shadow-opacity:var(--product-card-shadow-opacity);--shadow-visible:var(--product-card-shadow-visible);--image-padding:var(--product-card-image-padding);--text-alignment:var(--product-card-text-alignment)"
+    },
+    {
+      "source": "https://www.wyze.com/",
+      "selector": ".text-body",
+      "declarations": "font-size:1.5rem;letter-spacing:.06rem;line-height:calc(1 + .8 / var(--font-body-scale));font-family:var(--font-body-family);font-style:var(--font-body-style);font-weight:var(--font-body-weight)"
+    },
+    {
+      "source": "https://www.wyze.com/",
+      "selector": ".h0,.h1,.h2,.h3,.h4,.h5,h1,h2,h3,h4,h5",
+      "declarations": "letter-spacing:calc(var(--font-heading-scale) * .06rem);color:rgb(var(--color-foreground));line-height:calc(1 + .3 / max(1, var(--font-heading-scale)));word-break:break-word"
+    },
+    {
+      "source": "https://www.wyze.com/",
+      "selector": ":root",
+      "declarations": "--duration-short:100ms;--duration-default:200ms;--duration-long:500ms;--duration-extra-long:600ms;--duration-extended:3s;--animation-slide-in:slideIn var(--duration-extra-long) cubic-bezier(0, 0, 0.3, 1) forwards;--animation-fade-in:fadeIn var(--duration-extra-long) cubic-bezier(0, 0, 0.3, 1)"
+    },
+    {
+      "source": "https://www.wyze.com/",
+      "selector": ".button--secondary,.button--tertiary",
+      "declarations": "--color-button:var(--color-secondary-button);--color-button-text:var(--color-secondary-button-text)"
+    },
+    {
+      "source": "https://www.wyze.com/",
+      "selector": ".button--tertiary",
+      "declarations": "--alpha-button-background:0;--alpha-button-border:0.2"
+    },
+    {
+      "source": "https://www.wyze.com/",
+      "selector": "checkout-buttons [role=button],.cart__dynamic-checkout-buttons iframe,.customer button,.shopify-challenge__button,.shopify-payment-button [role=button],button.s",
+      "declarations": "--shadow-horizontal-offset:var(--buttons-shadow-horizontal-offset);--shadow-vertical-offset:var(--buttons-shadow-vertical-offset);--shadow-blur-radius:var(--buttons-shadow-blur-radius);--shadow-opacity:var(--buttons-shadow-opacity);--shadow-visible:var(--buttons-shadow-visible);--border-offset:var(--buttons-border-offset);--border-opacity:calc(1 - var(--buttons-border-opacity));border-radius:var(--buttons-radius-outset);position:relative"
+    },
+    {
+      "source": "https://www.wyze.com/",
+      "selector": "checkout-buttons [role=button],.cart__dynamic-checkout-buttons iframe,.customer button,.shopify-challenge__button,.shopify-payment-button [role=button],button.s",
+      "declarations": "--shadow-horizontal-offset:var(--buttons-shadow-horizontal-offset);--shadow-vertical-offset:var(--buttons-shadow-vertical-offset);--shadow-blur-radius:var(--buttons-shadow-blur-radius);--shadow-opacity:var(--buttons-shadow-opacity);--shadow-visible:var(--buttons-shadow-visible);--border-offset:var(--buttons-border-offset);--border-opacity:calc(1 - var(--buttons-border-opacity));border-radius:var(--buttons-radius-outset);position:relative"
+    },
+    {
+      "source": "https://www.wyze.com/",
+      "selector": ".button,.customer button,.shopify-challenge__button",
+      "declarations": "display:inline-flex;justify-content:center;align-items:center;border:0;padding:0 3rem;cursor:pointer;font:inherit;font-size:1.5rem;text-decoration:none;color:rgb(var(--color-button-text));transition:box-shadow var(--duration-short) ease;-webkit-appearance:none;appearance:none;background-color:rgba(var(--color-button),var(--alpha-button-background))"
+    },
+    {
+      "source": "https://www.wyze.com/",
+      "selector": ".button:not([disabled]):hover::after,.customer button:hover::after,.shopify-challenge__button:hover::after,.shopify-payment-button__button--unbranded:hover::aft",
+      "declarations": "--border-offset:1.3px;box-shadow:0 0 0 calc(var(--buttons-border-width) + var(--border-offset)) rgba(var(--color-button-text),var(--border-opacity)),0 0 0 calc(var(--buttons-border-width) + 1px) rgba(var(--color-button),var(--alpha-button-background))"
+    },
+    {
+      "source": "https://www.wyze.com/",
+      "selector": ".button--secondary:after",
+      "declarations": "--border-opacity:var(--buttons-border-opacity)"
+    },
+    {
+      "source": "https://www.wyze.com/",
+      "selector": ".button::selection,.customer button::selection,.shopify-challenge__button::selection",
+      "declarations": "background-color:rgba(var(--color-button-text),.3)"
+    },
+    {
+      "source": "https://www.wyze.com/",
+      "selector": ".button.loading",
+      "declarations": "color:transparent;position:relative"
+    },
+    {
+      "source": "https://www.wyze.com/",
+      "selector": ".button.loading",
+      "declarations": "color:rgb(var(--color-foreground))"
+    },
+    {
+      "source": "https://www.wyze.com/",
+      "selector": ".share-button__button",
+      "declarations": "font-size:1.4rem;display:flex;align-items:center;color:rgb(var(--color-link));margin-left:0;padding-left:0;min-height:4.4rem"
+    },
+    {
+      "source": "https://www.wyze.com/",
+      "selector": ".share-button__button,.share-button__fallback button",
+      "declarations": "cursor:pointer;background-color:transparent;border:none"
+    },
+    {
+      "source": "https://www.wyze.com/",
+      "selector": ".share-button__fallback button:hover",
+      "declarations": "color:rgba(var(--color-foreground),.75)"
+    },
+    {
+      "source": "https://www.wyze.com/",
+      "selector": ".share-button__close,.share-button__copy",
+      "declarations": "background-color:transparent;color:rgb(var(--color-foreground))"
+    },
+    {
+      "source": "https://www.wyze.com/",
+      "selector": ".share-button__close:focus-visible,.share-button__copy:focus-visible",
+      "declarations": "background-color:rgb(var(--color-background));z-index:2"
+    },
+    {
+      "source": "https://www.wyze.com/",
+      "selector": ".share-button__close:focus,.share-button__copy:focus",
+      "declarations": "background-color:rgb(var(--color-background));z-index:2"
+    },
+    {
+      "source": "https://www.wyze.com/",
+      "selector": ".field:not(:focus-visible):not(.focused)+.share-button__close:not(:focus-visible):not(.focused),.field:not(:focus-visible):not(.focused)+.share-button__copy:not",
+      "declarations": "background-color:inherit"
+    },
+    {
+      "source": "https://www.wyze.com/",
+      "selector": ".field__button",
+      "declarations": "align-items:center;background-color:transparent;border:0;color:currentColor;cursor:pointer;display:flex;height:4.4rem;justify-content:center;overflow:hidden;padding:0;position:absolute;right:0;top:0;width:4.4rem"
+    },
+    {
+      "source": "https://www.wyze.com/",
+      "selector": ".customer .field input:-webkit-autofill~label,.field__input:-webkit-autofill~.field__button,.field__input:-webkit-autofill~.field__label",
+      "declarations": "color:#000"
+    },
+    {
+      "source": "https://www.wyze.com/",
+      "selector": ".quantity__button",
+      "declarations": "width:calc(3.5rem / var(--font-body-scale));flex-shrink:0;font-size:1.8rem;border:0;background-color:transparent;cursor:pointer;display:flex;align-items:center;justify-content:center;color:rgb(var(--color-foreground));padding:0"
+    },
+    {
+      "source": "https://www.wyze.com/",
+      "selector": ".quantity__button:focus-visible,.quantity__input:focus-visible",
+      "declarations": "background-color:rgb(var(--color-background));z-index:2"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Wyze | Smart Home Security Cameras & Devices",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wyze.com/",
+        "https://www.wyze.com/cdn/shop/t/766/assets/component-predictive-search-min.css?v=4394784127419536681785280383"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wyze.com/",
+        "https://www.wyze.com/cdn/shop/t/766/assets/component-predictive-search-min.css?v=4394784127419536681785280383"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wyze.com/",
+        "https://www.wyze.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.wyze.com/cdn/shop/t/766/assets/component-predictive-search-min.css?v=4394784127419536681785280383"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wyze.com/",
+        "https://www.wyze.com/cdn/shop/t/766/assets/component-predictive-search-min.css?v=4394784127419536681785280383"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wyze.com/",
+        "https://www.wyze.com/cdn/shop/t/766/assets/component-predictive-search-min.css?v=4394784127419536681785280383"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wyze.com/",
+        "https://www.wyze.com/cdn/shop/t/766/assets/component-predictive-search-min.css?v=4394784127419536681785280383"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wyze.com/",
+        "https://www.wyze.com/cdn/shop/t/766/assets/component-predictive-search-min.css?v=4394784127419536681785280383"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wyze.com/",
+        "https://www.wyze.com/cdn/shop/t/766/assets/component-predictive-search-min.css?v=4394784127419536681785280383"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "colors.accent-violet": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "colors.accent-coral": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wyze.com/",
+        "https://www.wyze.com/cdn/shop/t/766/assets/component-predictive-search-min.css?v=4394784127419536681785280383"
+      ]
+    },
+    "colors.accent-deep-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "colors.warning-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wyze.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.wyze.com/",
+        "https://www.wyze.com/cdn/shop/t/766/assets/component-predictive-search-min.css?v=4394784127419536681785280383"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.device-quiz-stepper": {
+      "status": "inferred"
+    }
+  }
+}

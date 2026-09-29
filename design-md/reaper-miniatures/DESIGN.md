@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Reaper Miniatures
-description: A tabletop RPG miniature manufacturer that operates with the blunt, no-nonsense authority of a warehouse built for hobbyists who know exactly what they want. The palette is dominated by a battleship gray canvas (#f5f5f5) and near-black ink (#0a0a0a), with a single, unmistakable brand voltage in #cc0000 — a deep, dried-blood red that appears on primary CTAs, sale badges, and the site's critical action points. This is not a friendly e-commerce pastel; it's the color of a warning label or a critical hit. Supporting accents like #3273dc (a flat, utilitarian blue) and #00d1b2 (a teal-green) come from the Bulma CSS framework, but the brand has adopted them as its own for secondary actions and success states. The typography stack is a defensive, system-first cascade — `-apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif` — that prioritizes legibility over personality, a deliberate choice for a catalog-heavy site where product images must do the talking. Cards and buttons use modest `{rounded.sm}` corners, never the pill shapes of consumer brands; the search bar is a simple `{rounded.sm}` rectangle. The overall impression is that of a tool, not a destination — a dense, information-rich interface where the #cc0000 red acts as a beacon for "buy now" and "sale," and everything else recedes into the gray.
+name: "Reaper Miniatures"
+source_url: "https://www.reapermini.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A tabletop RPG miniature manufacturer that operates with the blunt, no-nonsense authority of a warehouse built for hobbyists who know exactly what they want. The palette is dominated by a battleship gray canvas (#f5f5f5) and near-black ink (#0a0a0a), with a single, unmistakable brand voltage in #cc0000 — a deep, dried-blood red that appears on primary CTAs, sale badges, and the site's critical action points. This is not a friendly e-commerce pastel; it's the color of a warning label or a critical hit. Supporting accents like #3273dc (a flat, utilitarian blue) and #00d1b2 (a teal-green) come from the Bulma CSS framework, but the brand has adopted them as its own for secondary actions and success states. The typography stack is a defensive, system-first cascade — `-apple-system, BlinkMacSystemFont, Helvetica Neue, Arial, sans-serif` — that prioritizes legibility over personality, a deliberate choice for a catalog-heavy site where product images must do the talking. Cards and buttons use modest `{rounded.sm}` corners, never the pill shapes of consumer brands; the search bar is a simple `{rounded.sm}` rectangle. The overall impression is that of a tool, not a destination — a dense, information-rich interface where the #cc0000 red acts as a beacon for "buy now" and "sale," and everything else recedes into the gray.
 
 colors:
   primary: "#cc0000"
@@ -509,6 +513,8 @@ components:
 - Table views on mobile may collapse to card-style layouts for better readability.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Hover states**: While hover states for buttons and cards are defined, hover states for nav bar dropdowns, footer links, and table rows are inferred from common patterns and may differ from the live site.
 - **Error states**: Form validation error states (text-input-error) are defined, but the exact error message styling, iconography, and placement are not confirmed from the extracted data.

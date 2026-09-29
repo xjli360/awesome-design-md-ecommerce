@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Seed
-description: A deep, near-black #313131 anchors Seed's digital presence — not as an accent but as the primary brand color itself, a deliberate departure from the pastel-and-white supplement category. The site reads as a scientific monograph translated into a consumer health brand: dense body copy in system-ui at 16px, generous line-height, and almost no decorative imagery. The color palette is intentionally austere — no secondary brand color, no gradient, no bright CTA button. Instead, the brand trusts its typographic voice and the visual weight of its product photography (probiotics in glass jars, raw ingredients on neutral surfaces) to carry the emotional load. Navigation is a thin, fixed bar with a single "Shop" link and a cart icon — no mega-menu, no category dropdowns. The hero section uses a full-width product shot with a single headline and a single CTA, pill-shaped at {rounded.full} but rendered in the same #313131 as the body text, not a contrasting color. This is a brand that refuses to shout. Every interaction feels considered: hover states are subtle opacity shifts, form fields are clean underlines, and the checkout flow is a single-column, distraction-free page. The overall effect is one of clinical precision and quiet authority — a supplement brand that wants you to read the science, not just swipe the bottle.
+name: "Seed"
+source_url: "https://seed.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep, near-black #313131 anchors Seed's digital presence — not as an accent but as the primary brand color itself, a deliberate departure from the pastel-and-white supplement category. The site reads as a scientific monograph translated into a consumer health brand: dense body copy in system-ui at 16px, generous line-height, and almost no decorative imagery. The color palette is intentionally austere — no secondary brand color, no gradient, no bright CTA button. Instead, the brand trusts its typographic voice and the visual weight of its product photography (probiotics in glass jars, raw ingredients on neutral surfaces) to carry the emotional load. Navigation is a thin, fixed bar with a single "Shop" link and a cart icon — no mega-menu, no category dropdowns. The hero section uses a full-width product shot with a single headline and a single CTA, pill-shaped at {rounded.full} but rendered in the same #313131 as the body text, not a contrasting color. This is a brand that refuses to shout. Every interaction feels considered: hover states are subtle opacity shifts, form fields are clean underlines, and the checkout flow is a single-column, distraction-free page. The overall effect is one of clinical precision and quiet authority — a supplement brand that wants you to read the science, not just swipe the bottle.
 
 colors:
   primary: "#313131"
@@ -329,6 +333,8 @@ components:
 - Accordion items remain full-width at all breakpoints
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for most components (buttons, links, cards) could not be reliably extracted from the live site — only primary button hover was inferred from the extracted color
 - Error styling for forms (input error state, error messages) is inferred from common patterns, not extracted from the live site

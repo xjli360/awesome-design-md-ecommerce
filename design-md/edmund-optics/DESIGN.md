@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Edmund Optics
-description: Thirty-thousand SKUs organized by wavelength, coating type, and numerical aperture — Edmund Optics treats its catalog as a precision instrument, building a site where specification tables carry more visual weight than lifestyle photography ever could. The canvas is clinically white against an ink confirmed at #313131, every surface tuned to reduce cognitive load for the engineer who needs an N-BK7 plano-convex lens at 1064 nm by Thursday. The primary red — a saturated crimson deeply embedded in the brand's identity — fires on every add-to-cart and quote-request CTA, standing out sharply against the white grid without competing with the dense technical content surrounding it. Navigation spreads wide in a mega-menu organized by optical family: Lenses, Mirrors, Beamsplitters, Filters, Fiber Optics, Optomechanics — each family subdivided by substrate and coating until the taxonomy reads like a reference map of photonics itself.
+name: "Edmund Optics"
+source_url: "https://www.edmundoptics.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Thirty-thousand SKUs organized by wavelength, coating type, and numerical aperture — Edmund Optics treats its catalog as a precision instrument, building a site where specification tables carry more visual weight than lifestyle photography ever could. The canvas is clinically white against an ink confirmed at #313131, every surface tuned to reduce cognitive load for the engineer who needs an N-BK7 plano-convex lens at 1064 nm by Thursday. The primary red — a saturated crimson deeply embedded in the brand's identity — fires on every add-to-cart and quote-request CTA, standing out sharply against the white grid without competing with the dense technical content surrounding it. Navigation spreads wide in a mega-menu organized by optical family: Lenses, Mirrors, Beamsplitters, Filters, Fiber Optics, Optomechanics — each family subdivided by substrate and coating until the taxonomy reads like a reference map of photonics itself.
 
   Typography runs entirely on the system stack — no custom typeface was detectable under extraction — which is quietly appropriate for a brand whose audience uses the same sans-serif on their CAD software and lab instrumentation GUIs. Type weight carries the hierarchy: part numbers appear in monospaced or tight-tracking styles at small sizes inside dense tables, while section headers hold just enough weight to orient the eye without claiming editorial prominence. Corners are modest and practical, not expressive: product cards use a 4px radius, buttons round to 6px, nothing approaches pill geometry. The whole system reads like a well-formatted IEC datasheet coaxed into a responsive layout — dense, purposeful, and uninterested in decoration for its own sake. Stock indicators, lead-time callouts, and quantity-pricing tiers are first-class UI elements rather than footnotes, because for a specifying engineer those constraints determine whether a design is even buildable. A dark near-black nav bar anchors the top of long specification pages, staying visible as users scroll through optical-system configurators that can extend several dense viewport-heights.
 
@@ -398,6 +402,8 @@ components:
 - `nav-top-strip` collapses or hides at mobile, surfacing only phone number and account icon
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one hex color (#313131) was extracted from the live site — the page returned an anti-bot challenge ("Just a moment...") blocking full palette extraction; all colors except {colors.ink} are based on brand-knowledge approximation and may not match current production tokens
 - Primary red (#cc2029) is an approximation; the exact Edmund Optics brand hex was not confirmed from live extraction and may differ from the crimson registered in their brand identity system

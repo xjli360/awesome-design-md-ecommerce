@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Kenmore Stamp Company
-description: Perforations, watermarks, and centering grades — Kenmore Stamp Company speaks the dense vocabulary of serious philately through a near-black #313131 that functions simultaneously as the primary action color, body text, and the visual weight of a catalog printed on quality stock. The site appears to load behind anti-bot protection, so only a single extracted color survived scraping; the full palette below is therefore a minimal, principled derivation from that one anchor rather than a confirmed brand system. What the anchor tells you: this is a business that does not reach for vivid color to sell — dark charcoal doing the work of red, teal, or orange in most retail contexts signals confidence in the product catalog itself. Type runs entirely on system stacks — Arial and fallbacks — suggesting either a legacy CMS or a deliberate rejection of web-font overhead in favor of fast catalog-page loads, consistent with a mail-order heritage that pre-dates e-commerce. Rounded values trend toward zero; the mental model is ledger lines and stamp grids, not rounded pill cards. The spacing system is generous at section level to accommodate philatelic imagery — perforation scans, certificate reproductions, country lot tables — while staying compact in the data-dense grid cells that list face values, grades, and set identifiers. Buttons carry the same charcoal as the brand anchor on a white canvas, creating a two-tone vocabulary that echoes black printer's ink on white paper: the aesthetic of the philatelic auction catalog translated directly into the purchase flow.
+name: "Kenmore Stamp Company"
+source_url: "https://www.kenmorestamp.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Perforations, watermarks, and centering grades — Kenmore Stamp Company speaks the dense vocabulary of serious philately through a near-black #313131 that functions simultaneously as the primary action color, body text, and the visual weight of a catalog printed on quality stock. The site appears to load behind anti-bot protection, so only a single extracted color survived scraping; the full palette below is therefore a minimal, principled derivation from that one anchor rather than a confirmed brand system. What the anchor tells you: this is a business that does not reach for vivid color to sell — dark charcoal doing the work of red, teal, or orange in most retail contexts signals confidence in the product catalog itself. Type runs entirely on system stacks — Arial and fallbacks — suggesting either a legacy CMS or a deliberate rejection of web-font overhead in favor of fast catalog-page loads, consistent with a mail-order heritage that pre-dates e-commerce. Rounded values trend toward zero; the mental model is ledger lines and stamp grids, not rounded pill cards. The spacing system is generous at section level to accommodate philatelic imagery — perforation scans, certificate reproductions, country lot tables — while staying compact in the data-dense grid cells that list face values, grades, and set identifiers. Buttons carry the same charcoal as the brand anchor on a white canvas, creating a two-tone vocabulary that echoes black printer's ink on white paper: the aesthetic of the philatelic auction catalog translated directly into the purchase flow.
 
 colors:
   primary: "#313131"
@@ -348,6 +352,8 @@ components:
 - Hero padding scales from `{spacing.xxl}` desktop to `{spacing.lg}` mobile; headline drops from display-xl to display-md
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one hex color (#313131) was extracted — the site returned a Cloudflare "Just a moment…" challenge page, blocking full CSS/token scraping. The entire color palette beyond #313131 is inferred from philatelic industry conventions and the single anchor, not confirmed brand values.
 - No custom web fonts detected; all typography stacks are system sans-serif. It is unknown whether the live site loads a custom font via JS after bot-check, or genuinely uses Arial/system fonts throughout.

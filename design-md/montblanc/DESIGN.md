@@ -1,11 +1,15 @@
 ---
 version: alpha
-name: Montblanc
-description: The eight-pointed Snowcap star pressed into every pen cap since 1913 sets the logic for an entire design system — a palette that refuses to compete with the object it frames. On screen the black deepens to near-true (#000000) against a white canvas (#ffffff), broken only by a champagne-gold accent (#c5a028) that surfaces at the brand mark, clip trim in product close-ups, and the rarest tier of CTA. The rest of the interface earns no color. Body copy settles at a slightly warm #1c1c1c rather than pure black, making product photography the mid-range tonal anchor; nothing decorative lives in this palette — every hue references something you can hold.
+name: "Montblanc"
+source_url: "https://www.montblanc.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The eight-pointed Snowcap star pressed into every pen cap since 1913 sets the logic for an entire design system — a palette that refuses to compete with the object it frames. On screen the black deepens to near-true (#000000) against a white canvas (#ffffff), broken only by a champagne-gold accent (#c5a028) that surfaces at the brand mark, clip trim in product close-ups, and the rarest tier of CTA. The rest of the interface earns no color. Body copy settles at a slightly warm #1c1c1c rather than pure black, making product photography the mid-range tonal anchor; nothing decorative lives in this palette — every hue references something you can hold.
 
-Type runs on a refined, wide-tracked serif at display positions — 48–64px in weight 400 so letterform proportions breathe rather than press — paired with an uppercase geometric sans for navigation, buttons, and all functional labels. The contrast between a tall serif headline and a tightly-spaced 0.12em uppercase CTA below it captures the brand's core tension: ancien régime craft, contemporary retail directness. Buttons everywhere are sharp-cornered (`{rounded.none}`); no pill, no soft radius appears anywhere that might suggest approachability. The interaction vocabulary is architectural — the grid line, the ruled separator, the precise cut — which is why `{colors.hairline}` rules appear between content zones in addition to spatial gaps, referencing instrument-making tolerances rather than web convention.
+  Type runs on a refined, wide-tracked serif at display positions — 48–64px in weight 400 so letterform proportions breathe rather than press — paired with an uppercase geometric sans for navigation, buttons, and all functional labels. The contrast between a tall serif headline and a tightly-spaced 0.12em uppercase CTA below it captures the brand's core tension: ancien régime craft, contemporary retail directness. Buttons everywhere are sharp-cornered (`{rounded.none}`); no pill, no soft radius appears anywhere that might suggest approachability. The interaction vocabulary is architectural — the grid line, the ruled separator, the precise cut — which is why `{colors.hairline}` rules appear between content zones in addition to spatial gaps, referencing instrument-making tolerances rather than web convention.
 
-Product cards foreground the object on a white `{colors.surface-card}` ground with a 4:5 image ratio, the product name in the display serif, and price in unemphasized body weight directly below — Montblanc does not typographically foreground the number. Editorial sections alternate full-bleed dark zones carrying serif headlines against bright white product grids, a rhythm that recalls opening and closing a presentation box. A small "PERSONALISATION AVAILABLE" badge in `{colors.gold}` on key product cards signals the engraving service — the brand's most irreversible act of ownership — without requiring explanation.
+  Product cards foreground the object on a white `{colors.surface-card}` ground with a 4:5 image ratio, the product name in the display serif, and price in unemphasized body weight directly below — Montblanc does not typographically foreground the number. Editorial sections alternate full-bleed dark zones carrying serif headlines against bright white product grids, a rhythm that recalls opening and closing a presentation box. A small "PERSONALISATION AVAILABLE" badge in `{colors.gold}` on key product cards signals the engraving service — the brand's most irreversible act of ownership — without requiring explanation.
 
 colors:
   primary: "#000000"
@@ -341,6 +345,8 @@ components:
 - Mega-menu is replaced by a nested drawer at tablet and below, preserving the full category depth
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **No hex colors extracted**: The site likely loads design tokens via JavaScript or is behind anti-bot protection; all color values above are derived from widely-documented Montblanc brand assets (pen lacquer black, Snowcap white, hardware gold) and should be verified against live computed styles before production use
 - **No font stacks extracted**: Typography stacks above reference the commonly cited "Montblanc Text" custom typeface and Helvetica Neue; the actual web font filenames, weights loaded, and fallback order require inspection of live network requests

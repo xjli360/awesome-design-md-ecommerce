@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Patagonia
-description: A brand built on a single, unapologetic black (#020202) that runs through every headline, every primary button, every footer background — not as an accent but as the foundational voltage. The palette is deliberately austere: pure white canvas, black ink, and the occasional muted gray for secondary text or borders. There is no secondary brand color in the extracted data; the brand trusts its photography of mountains, rivers, and worn-in fleece to supply all the warmth. Typography runs Avenir Next in three weights — Light, Medium, and Bold — with the bold weight reserved for display headlines and primary CTAs, while body copy stays in a clean Arial or Helvetica fallback. The system avoids decorative flourishes: buttons are flat rectangles with tight padding, navigation is a simple left-aligned logo with right-aligned links, and product cards use a thin hairline border and generous whitespace. The checkout page title ("Hang Tight! Routing to checkout...") reveals a casual, human tone that matches the brand's anti-marketing posture — no urgency, no pressure, just a quiet confidence. The design feels like a climbing wall: functional, honest, and built to last.
+name: "Patagonia"
+source_url: "https://www.patagonia.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A brand built on a single, unapologetic black (#020202) that runs through every headline, every primary button, every footer background — not as an accent but as the foundational voltage. The palette is deliberately austere: pure white canvas, black ink, and the occasional muted gray for secondary text or borders. There is no secondary brand color in the extracted data; the brand trusts its photography of mountains, rivers, and worn-in fleece to supply all the warmth. Typography runs Avenir Next in three weights — Light, Medium, and Bold — with the bold weight reserved for display headlines and primary CTAs, while body copy stays in a clean Arial or Helvetica fallback. The system avoids decorative flourishes: buttons are flat rectangles with tight padding, navigation is a simple left-aligned logo with right-aligned links, and product cards use a thin hairline border and generous whitespace. The checkout page title ("Hang Tight! Routing to checkout...") reveals a casual, human tone that matches the brand's anti-marketing posture — no urgency, no pressure, just a quiet confidence. The design feels like a climbing wall: functional, honest, and built to last.
 
 colors:
   primary: "#020202"
@@ -322,6 +326,8 @@ components:
 - Search bar may collapse to an icon on mobile, expanding on tap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one extracted hex color (#020202) was available from the live site analysis. All other color tokens (grays, whites, reds, greens) are inferred from common Patagonia design patterns and standard accessibility best practices — they may not match the exact live site values.
 - No meta theme-color was detected, so the browser chrome color is unknown.

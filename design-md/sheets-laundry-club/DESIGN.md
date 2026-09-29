@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Sheets Laundry Club
-description: A deep navy #18213f anchors the brand like a concentrated detergent cap — it’s the background for the entire header, footer, and every product-card frame, creating a dark, high-contrast stage for the electric green #34bd4d that signals “eco-friendly” without resorting to pastels. That green, a saturated lime with no yellow cast, appears on the primary CTA buttons, subscription badges, and the brand’s signature leaf icon, while a secondary accent of #19adde (a clean cyan) handles informational badges and secondary links. The typography runs on Archivo for display and Quicksand for body — Archivo Black at heavy weights (900) in the logo and section titles gives a bold, slightly compressed headline presence, while Quicksand at 400–600 in body copy keeps reading light and friendly. Cards and buttons use a consistent {rounded.sm} 8px radius — not pill-shaped, not sharp — a middle ground that feels approachable without being cute. The checkout flow and subscription toggle use a warm gold #eab000 for savings badges and price highlights, a deliberate warmth against the cool navy-green palette. White canvas (#ffffff) is reserved for product photography backgrounds and the main content area, while #efefef and #f1f3f5 provide soft surface alternates for tiered subscription cards and FAQ accordions. The brand’s voice is direct and slightly playful — “Laundry made simple” — and the design follows suit: generous whitespace, clear hierarchy, and a color system that never needs to explain itself.
+name: "Sheets Laundry Club"
+source_url: "https://sheetslaundryclub.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep navy #18213f anchors the brand like a concentrated detergent cap — it’s the background for the entire header, footer, and every product-card frame, creating a dark, high-contrast stage for the electric green #34bd4d that signals “eco-friendly” without resorting to pastels. That green, a saturated lime with no yellow cast, appears on the primary CTA buttons, subscription badges, and the brand’s signature leaf icon, while a secondary accent of #19adde (a clean cyan) handles informational badges and secondary links. The typography runs on Archivo for display and Quicksand for body — Archivo Black at heavy weights (900) in the logo and section titles gives a bold, slightly compressed headline presence, while Quicksand at 400–600 in body copy keeps reading light and friendly. Cards and buttons use a consistent {rounded.sm} 8px radius — not pill-shaped, not sharp — a middle ground that feels approachable without being cute. The checkout flow and subscription toggle use a warm gold #eab000 for savings badges and price highlights, a deliberate warmth against the cool navy-green palette. White canvas (#ffffff) is reserved for product photography backgrounds and the main content area, while #efefef and #f1f3f5 provide soft surface alternates for tiered subscription cards and FAQ accordions. The brand’s voice is direct and slightly playful — “Laundry made simple” — and the design follows suit: generous whitespace, clear hierarchy, and a color system that never needs to explain itself.
 
 colors:
   primary: "#34bd4d"
@@ -298,6 +302,8 @@ components:
 - Subscription toggle becomes a full-width stacked layout on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for text inputs, links, and secondary buttons could not be reliably extracted from the live site. The active state for `button-primary` (#2a9e3e) is an estimate based on a 15% darkening of the primary.
 - Error styling for form validation (border colors, error message typography) is not available.

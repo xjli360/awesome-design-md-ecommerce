@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Vital Proteins
-description: A clean, clinical wellness brand built on a deep navy anchor (#183f86) that reads as medical-grade trust rather than lifestyle pastel. The brand lives in the tension between that authoritative blue and a bright cyan accent (#12abe3) that signals vitality, energy, and the "glow" promise of collagen. The body copy runs in a warm charcoal (#393d40) on an almost-blue-white canvas (#ecf0f3), creating a cool, crisp atmosphere that feels like a clean kitchen or a spa treatment room. Buttons and CTAs lean heavily on the navy with white text (`{colors.on-primary}`), while secondary actions and badges use the cyan as a highlight color. The brand avoids hard corners — cards and buttons use `{rounded.sm}` (8px) to `{rounded.md}` (12px) radii, softening the clinical edge into something approachable. The Shopify platform underpins a direct-to-consumer experience that prioritizes subscription flows, product education, and before/after imagery over heavy editorial typography. There is no custom font declaration beyond a swiper-icons fallback, suggesting a system-font approach or a loaded web font not captured in extraction — the brand trusts its color system and product photography to carry the emotional weight. The overall feel is trustworthy, results-oriented, and slightly aspirational, with the navy anchoring the serious science of collagen peptides and the cyan adding the "beauty from within" lift.
+name: "Vital Proteins"
+source_url: "https://www.vitalproteins.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A clean, clinical wellness brand built on a deep navy anchor (#183f86) that reads as medical-grade trust rather than lifestyle pastel. The brand lives in the tension between that authoritative blue and a bright cyan accent (#12abe3) that signals vitality, energy, and the "glow" promise of collagen. The body copy runs in a warm charcoal (#393d40) on an almost-blue-white canvas (#ecf0f3), creating a cool, crisp atmosphere that feels like a clean kitchen or a spa treatment room. Buttons and CTAs lean heavily on the navy with white text (`{colors.on-primary}`), while secondary actions and badges use the cyan as a highlight color. The brand avoids hard corners — cards and buttons use `{rounded.sm}` (8px) to `{rounded.md}` (12px) radii, softening the clinical edge into something approachable. The Shopify platform underpins a direct-to-consumer experience that prioritizes subscription flows, product education, and before/after imagery over heavy editorial typography. There is no custom font declaration beyond a swiper-icons fallback, suggesting a system-font approach or a loaded web font not captured in extraction — the brand trusts its color system and product photography to carry the emotional weight. The overall feel is trustworthy, results-oriented, and slightly aspirational, with the navy anchoring the serious science of collagen peptides and the cyan adding the "beauty from within" lift.
 
 colors:
   primary: "#183f86"
@@ -421,6 +425,8 @@ components:
 - Subscription toggle collapses from horizontal segments to stacked radio buttons on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact font family could not be confirmed — extraction only returned "swiper-icons" as a declared font. The system assumes Inter as the primary font family based on common Shopify wellness brand usage, but the actual brand font may differ
 - Hover states for buttons and cards are inferred from common patterns — exact transition durations, shadow depths, and color shifts may vary

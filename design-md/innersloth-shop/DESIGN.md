@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Innersloth Shop
-description: A marigold-yellow #e9be33 anchors this indie merch storefront — the same saturated, slightly warm yellow that signals the Among Us crewmate's iconic suit, here used as the primary brand voltage across CTAs, badges, and accent elements. The palette reads as a deliberate contrast to the game's dark, paranoia-soaked spaceship interiors: #31373d ink provides a near-black counterweight, while #6c6c6c muted and #eaeaea canvas keep the shopping experience airy and approachable. What makes the system feel distinctly Innersloth is the tension between playful yellow and serious dark gray — a #479ccf blue appears as a secondary accent, perhaps echoing the game's admin-room terminals or the cyan crewmate, but never overpowers the marigold. Typography defaults to Arial and Helvetica Neue at standard weights, a pragmatic choice that lets the color system and product photography carry personality rather than a custom typeface. The storefront appears temporarily unavailable, but the extracted palette suggests a system built on generous white space, high-contrast buttons, and a restrained two-accent color architecture that avoids the over-designed trap of most gaming merch stores.
+name: "Innersloth Shop"
+source_url: "https://shop.innersloth.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A marigold-yellow #e9be33 anchors this indie merch storefront — the same saturated, slightly warm yellow that signals the Among Us crewmate's iconic suit, here used as the primary brand voltage across CTAs, badges, and accent elements. The palette reads as a deliberate contrast to the game's dark, paranoia-soaked spaceship interiors: #31373d ink provides a near-black counterweight, while #6c6c6c muted and #eaeaea canvas keep the shopping experience airy and approachable. What makes the system feel distinctly Innersloth is the tension between playful yellow and serious dark gray — a #479ccf blue appears as a secondary accent, perhaps echoing the game's admin-room terminals or the cyan crewmate, but never overpowers the marigold. Typography defaults to Arial and Helvetica Neue at standard weights, a pragmatic choice that lets the color system and product photography carry personality rather than a custom typeface. The storefront appears temporarily unavailable, but the extracted palette suggests a system built on generous white space, high-contrast buttons, and a restrained two-accent color architecture that avoids the over-designed trap of most gaming merch stores.
 
 colors:
   primary: "#e9be33"
@@ -361,6 +365,8 @@ components:
 - Cart summary moves below product listings on mobile, side-by-side on desktop
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The live site returned "This store is unavailable" — extracted colors may include Shopify default UI elements rather than intentional brand colors. The marigold yellow (#e9be33) is the most distinctive and likely brand-primary, but its exact usage (buttons, badges, backgrounds) is inferred from gaming merch conventions rather than observed behavior.
 - No font-family declarations beyond Arial/Helvetica Neue were found — the brand may use a custom typeface (e.g., a game-themed font) that isn't loaded on the unavailable storefront page.

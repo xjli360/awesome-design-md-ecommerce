@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Element Case
-description: Machined aluminum has a color of its own — a blue-grey that tends toward the oceanic — and Element Case's palette arrives at the same destination by hex: #226d7a as the load-bearing structural hue anchoring every primary CTA and active UI state, with #22b8d1 introducing a brighter aqua for hover surfaces and accent moments. The brand builds protective cases for premium devices from aerospace-grade materials; the digital interface mirrors that engineering logic through a compressed type stack (Open Sans at weight 400 for reading copy, 700 for display and button labels), no decorative illustration, and a background progression through calibrated near-whites — #e4f5fa as the softest surface, #b0e0e9 as a mid-register teal tint for elevated cards and section divisions. Corners are firm: primary buttons and product cards hold a 4px radius maximum, signaling hard-goods precision over consumer-app softness. The entire brand voltage concentrates into the single teal family — no secondary accent hue from a contrasting family intrudes — which gives #226d7a genuine contrast weight against the pale canvas without requiring an aggressive dark background. Horizontal rules and input borders run in a cooler hairline that retains chromatic discipline rather than drifting into warm beige. Product photography occupies maximum real estate with minimal chrome framing; specification callouts (material grade, drop protection rating, device compatibility marks) appear in uppercase label type at elevated letter-spacing, signaling precision measurement rather than feature marketing. The net effect is closer to a technical instrument's interface than a lifestyle storefront: everything present is structurally load-bearing, nothing is ambient decoration.
+name: "Element Case"
+source_url: "https://www.elementcase.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Machined aluminum has a color of its own — a blue-grey that tends toward the oceanic — and Element Case's palette arrives at the same destination by hex: #226d7a as the load-bearing structural hue anchoring every primary CTA and active UI state, with #22b8d1 introducing a brighter aqua for hover surfaces and accent moments. The brand builds protective cases for premium devices from aerospace-grade materials; the digital interface mirrors that engineering logic through a compressed type stack (Open Sans at weight 400 for reading copy, 700 for display and button labels), no decorative illustration, and a background progression through calibrated near-whites — #e4f5fa as the softest surface, #b0e0e9 as a mid-register teal tint for elevated cards and section divisions. Corners are firm: primary buttons and product cards hold a 4px radius maximum, signaling hard-goods precision over consumer-app softness. The entire brand voltage concentrates into the single teal family — no secondary accent hue from a contrasting family intrudes — which gives #226d7a genuine contrast weight against the pale canvas without requiring an aggressive dark background. Horizontal rules and input borders run in a cooler hairline that retains chromatic discipline rather than drifting into warm beige. Product photography occupies maximum real estate with minimal chrome framing; specification callouts (material grade, drop protection rating, device compatibility marks) appear in uppercase label type at elevated letter-spacing, signaling precision measurement rather than feature marketing. The net effect is closer to a technical instrument's interface than a lifestyle storefront: everything present is structurally load-bearing, nothing is ambient decoration.
 
 colors:
   primary: "#226d7a"
@@ -437,6 +441,8 @@ components:
 - Multi-column footer collapses to single-column accordion sections with expand/collapse per link group
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Site returned HTTP 403 during extraction; all color and font data derives from a partial static render rather than the live theme — additional neutral or dark tones used in overlays, modals, or dark-mode surfaces may not be captured
 - Font stack (Open Sans, Arial, Roboto) is likely a browser-default fallback chain; the actual brand typeface may be a licensed or custom font loaded via JavaScript that was blocked at extraction time

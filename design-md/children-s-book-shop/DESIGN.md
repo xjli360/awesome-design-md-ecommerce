@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: The Children's Book Shop
-description: A deep red storefront — #842222 — anchors the identity of this Hay-on-Wye children's bookstore, a color that reads less like a brand choice and more like a weathered brick wall or a well-loved book spine. The palette is deliberately restrained: warm parchment tones (#ddddd0, #eeeee0) form the canvas, while a sharp accent yellow (#fff580) appears sparingly for price tags, sale badges, and small interactive flourishes. The site trusts its inventory photography over decorative imagery — every page is a grid of book covers, each one a miniature artwork that carries the visual weight. Typography runs a simple sans-serif stack at modest sizes, never competing with the covers themselves. Navigation is flat and categorical (Picture Books, Middle Grade, Young Adult, Events), with the deep red appearing in the top bar and primary buttons. The overall mood is that of a quiet, serious shop where the books are the decoration — the design steps back and lets the inventory speak.
+name: "The Children's Book Shop"
+source_url: "https://www.childrensbookshop.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep red storefront — #842222 — anchors the identity of this Hay-on-Wye children's bookstore, a color that reads less like a brand choice and more like a weathered brick wall or a well-loved book spine. The palette is deliberately restrained: warm parchment tones (#ddddd0, #eeeee0) form the canvas, while a sharp accent yellow (#fff580) appears sparingly for price tags, sale badges, and small interactive flourishes. The site trusts its inventory photography over decorative imagery — every page is a grid of book covers, each one a miniature artwork that carries the visual weight. Typography runs a simple sans-serif stack at modest sizes, never competing with the covers themselves. Navigation is flat and categorical (Picture Books, Middle Grade, Young Adult, Events), with the deep red appearing in the top bar and primary buttons. The overall mood is that of a quiet, serious shop where the books are the decoration — the design steps back and lets the inventory speak.
 
 colors:
   primary: "#842222"
@@ -307,6 +311,8 @@ components:
 - Hero: full-width on all sizes, reduced padding on mobile (32px instead of 64px)
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for buttons, links, and cards could not be reliably extracted from static HTML/CSS analysis
 - Error styling for form validation (red borders, error messages) was not present in extracted data

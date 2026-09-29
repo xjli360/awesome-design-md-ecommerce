@@ -1,0 +1,822 @@
+{
+  "source_url": "https://aqara.com",
+  "final_url": "https://aqara.com/",
+  "captured_at": "2026-09-28T09:08:17.302314+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://aqara.com",
+      "final_url": "https://aqara.com/",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "815099bc5af414706b0054f52000e8616f2f8e5c4e46e4cc6a1e89b60ebacd1b",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://static-resource.aqara.com/css/index.css?1,790,145,619,730",
+      "final_url": "https://static-resource.aqara.com/css/index.css?1,790,145,619,730",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "6ce2af653681b0942a9b6c65531a200fc9a1b6913c80edcad2a846505fa7c8c3",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://static-resource.aqara.com/css/common.css?1,790,145,619,750",
+      "final_url": "https://static-resource.aqara.com/css/common.css?1,790,145,619,750",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "17c803f331b1dc1f2c48326862992e0f8629fbc03aa8138b84207d0a5799de27",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://static-resource.aqara.com/css/animate.min.css?1,790,145,619,750",
+      "final_url": "https://static-resource.aqara.com/css/animate.min.css?1,790,145,619,750",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "26968435703f42f548195e31049e1f621c267346a0295be2bafa457b5904ace9",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://static-resource.aqara.com/css/swiper.min.css?1,790,145,619,750",
+      "final_url": "https://static-resource.aqara.com/css/swiper.min.css?1,790,145,619,750",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c207e653a1b44030d371cae76dbc884cfa7d6936525798d06be58b4cf45a9a5a",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://static-resource.aqara.com/css/header_footer.css?1,790,145,619,750",
+      "final_url": "https://static-resource.aqara.com/css/header_footer.css?1,790,145,619,750",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ed89473276cebb2ca69ece9736a10684eabdec50f05792cd1ea4ff01a0ed673b",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 86,
+      "sources": [
+        "https://aqara.com/",
+        "https://static-resource.aqara.com/css/index.css?1,790,145,619,730",
+        "https://static-resource.aqara.com/css/common.css?1,790,145,619,750",
+        "https://static-resource.aqara.com/css/swiper.min.css?1,790,145,619,750",
+        "https://static-resource.aqara.com/css/header_footer.css?1,790,145,619,750"
+      ]
+    },
+    "#121212": {
+      "count": 55,
+      "sources": [
+        "https://static-resource.aqara.com/css/index.css?1,790,145,619,730",
+        "https://static-resource.aqara.com/css/header_footer.css?1,790,145,619,750"
+      ]
+    },
+    "#000000": {
+      "count": 30,
+      "sources": [
+        "https://aqara.com/",
+        "https://static-resource.aqara.com/css/index.css?1,790,145,619,730",
+        "https://static-resource.aqara.com/css/swiper.min.css?1,790,145,619,750",
+        "https://static-resource.aqara.com/css/header_footer.css?1,790,145,619,750"
+      ]
+    },
+    "#4660ff": {
+      "count": 29,
+      "sources": [
+        "https://aqara.com/",
+        "https://static-resource.aqara.com/css/header_footer.css?1,790,145,619,750"
+      ]
+    },
+    "#888888": {
+      "count": 10,
+      "sources": [
+        "https://static-resource.aqara.com/css/header_footer.css?1,790,145,619,750"
+      ]
+    },
+    "#666666": {
+      "count": 8,
+      "sources": [
+        "https://static-resource.aqara.com/css/common.css?1,790,145,619,750"
+      ]
+    },
+    "#f7f8fa": {
+      "count": 8,
+      "sources": [
+        "https://static-resource.aqara.com/css/header_footer.css?1,790,145,619,750"
+      ]
+    },
+    "#c2c7d1": {
+      "count": 8,
+      "sources": [
+        "https://static-resource.aqara.com/css/header_footer.css?1,790,145,619,750"
+      ]
+    },
+    "#ececec": {
+      "count": 7,
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "#333333": {
+      "count": 4,
+      "sources": [
+        "https://aqara.com/",
+        "https://static-resource.aqara.com/css/index.css?1,790,145,619,730",
+        "https://static-resource.aqara.com/css/common.css?1,790,145,619,750"
+      ]
+    },
+    "#ffffff33": {
+      "count": 4,
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "#f5f5f7": {
+      "count": 4,
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "#1d1d1f": {
+      "count": 4,
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "#6e6e73": {
+      "count": 3,
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "#86868b": {
+      "count": 3,
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "#595959": {
+      "count": 3,
+      "sources": [
+        "https://static-resource.aqara.com/css/header_footer.css?1,790,145,619,750"
+      ]
+    },
+    "#e3e6ed": {
+      "count": 3,
+      "sources": [
+        "https://static-resource.aqara.com/css/header_footer.css?1,790,145,619,750"
+      ]
+    },
+    "#ff3636": {
+      "count": 3,
+      "sources": [
+        "https://static-resource.aqara.com/css/header_footer.css?1,790,145,619,750"
+      ]
+    },
+    "#767676": {
+      "count": 2,
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "#f8f9fb": {
+      "count": 2,
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "#111111": {
+      "count": 2,
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "#010c3166": {
+      "count": 2,
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 2,
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "#939393": {
+      "count": 2,
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "#007aff": {
+      "count": 2,
+      "sources": [
+        "https://static-resource.aqara.com/css/swiper.min.css?1,790,145,619,750"
+      ]
+    },
+    "#e7ebff": {
+      "count": 2,
+      "sources": [
+        "https://static-resource.aqara.com/css/header_footer.css?1,790,145,619,750"
+      ]
+    },
+    "#d6dbff": {
+      "count": 1,
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "#f4f5f7": {
+      "count": 1,
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "#eef1ff": {
+      "count": 1,
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "#f3f4f7": {
+      "count": 1,
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "#7b7b7b": {
+      "count": 1,
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "#0f9d58": {
+      "count": 1,
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "#f59e0b": {
+      "count": 1,
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "#eaeaea": {
+      "count": 1,
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "#e8e8ed": {
+      "count": 1,
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "#dcdce2": {
+      "count": 1,
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "#d2d2d7": {
+      "count": 1,
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "#474747": {
+      "count": 1,
+      "sources": [
+        "https://static-resource.aqara.com/css/common.css?1,790,145,619,750"
+      ]
+    },
+    "#ff860c": {
+      "count": 1,
+      "sources": [
+        "https://static-resource.aqara.com/css/header_footer.css?1,790,145,619,750"
+      ]
+    },
+    "#ffefe0": {
+      "count": 1,
+      "sources": [
+        "https://static-resource.aqara.com/css/header_footer.css?1,790,145,619,750"
+      ]
+    },
+    "#008cf8": {
+      "count": 1,
+      "sources": [
+        "https://static-resource.aqara.com/css/header_footer.css?1,790,145,619,750"
+      ]
+    },
+    "#dff0fe": {
+      "count": 1,
+      "sources": [
+        "https://static-resource.aqara.com/css/header_footer.css?1,790,145,619,750"
+      ]
+    },
+    "#edf0f5": {
+      "count": 1,
+      "sources": [
+        "https://static-resource.aqara.com/css/header_footer.css?1,790,145,619,750"
+      ]
+    },
+    "#d4d4d4": {
+      "count": 1,
+      "sources": [
+        "https://static-resource.aqara.com/css/header_footer.css?1,790,145,619,750"
+      ]
+    },
+    "#dee5ec": {
+      "count": 1,
+      "sources": [
+        "https://static-resource.aqara.com/css/header_footer.css?1,790,145,619,750"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://aqara.com/"
+    ],
+    "Arial": [
+      "https://aqara.com/",
+      "https://static-resource.aqara.com/css/index.css?1,790,145,619,730",
+      "https://static-resource.aqara.com/css/common.css?1,790,145,619,750",
+      "https://static-resource.aqara.com/css/header_footer.css?1,790,145,619,750"
+    ],
+    "BlinkMacSystemFont": [
+      "https://aqara.com/"
+    ],
+    "Helvetica Neue": [
+      "https://aqara.com/"
+    ],
+    "Microsoft YaHei": [
+      "https://aqara.com/"
+    ],
+    "Microsoft Yahei": [
+      "https://static-resource.aqara.com/css/common.css?1,790,145,619,750"
+    ],
+    "PingFang SC": [
+      "https://aqara.com/"
+    ],
+    "PingFangSC-Regular": [
+      "https://static-resource.aqara.com/css/common.css?1,790,145,619,750"
+    ],
+    "Roboto": [
+      "https://aqara.com/"
+    ],
+    "Segoe UI": [
+      "https://aqara.com/"
+    ],
+    "\\5b8b\\4f53": [
+      "https://static-resource.aqara.com/css/common.css?1,790,145,619,750"
+    ],
+    "arial": [
+      "https://static-resource.aqara.com/css/common.css?1,790,145,619,750"
+    ],
+    "iconfont": [
+      "https://static-resource.aqara.com/css/header_footer.css?1,790,145,619,750"
+    ],
+    "sans-serif": [
+      "https://aqara.com/",
+      "https://static-resource.aqara.com/css/common.css?1,790,145,619,750"
+    ],
+    "宋体": [
+      "https://static-resource.aqara.com/css/common.css?1,790,145,619,750"
+    ],
+    "微软雅黑": [
+      "https://static-resource.aqara.com/css/common.css?1,790,145,619,750"
+    ],
+    "黑体": [
+      "https://static-resource.aqara.com/css/common.css?1,790,145,619,750"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://aqara.com/",
+      "selector": "e-slider-controls-container .slider-btn,\n        .indban .home-slider-controls-container .slider-btn.swiper-button-prev,\n        .indban .home-slider-controls-c",
+      "declarations": "border: none;\n            outline: none;\n            padding: 12px;\n            border-radius: 50%;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            cursor: pointer;\n            position: relative;\n            background: rgba(255, 255, 255, 0.1);\n            backdrop-filter: blur(12px);\n            -webkit-backdrop-filter: blur(12px);\n            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);\n            transition: background-color 0.2s, transform 0.2s, box-shadow 0.2s;\n            color: #fff;"
+    },
+    {
+      "source": "https://aqara.com/",
+      "selector": ".aqara-nav-header",
+      "declarations": "position: sticky;\n        top: 0;\n        z-index: 2000;\n        width: 100%;\n        font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Arial, sans-serif;"
+    },
+    {
+      "source": "https://aqara.com/",
+      "selector": ".aqara-nav-header .nav-link,\n    .aqara-nav-header .mobile-nav-link",
+      "declarations": "color: rgba(0, 0, 0, 0.88);\n        text-decoration: none;\n        transition: color .2s ease;\n        font-size: 16px;"
+    },
+    {
+      "source": "https://aqara.com/",
+      "selector": ".aqara-nav-header .nav-item:hover > .nav-link,\n    .aqara-nav-header .nav-link:hover",
+      "declarations": "color: #4660FF;"
+    },
+    {
+      "source": "https://aqara.com/",
+      "selector": ".aqara-nav-header .nav-link.is-active,\n    .aqara-nav-header .sub-link.is-active,\n    .aqara-nav-header .mobile-accordion-link.is-active,\n    .aqara-nav-header ",
+      "declarations": "color: #4660FF;\n        font-weight: 600;"
+    },
+    {
+      "source": "https://aqara.com/",
+      "selector": ".aqara-nav-header .nav-item.is-active > .nav-link,\n    .aqara-nav-header .mobile-accordion.is-active > .mobile-accordion-head > .mobile-accordion-link",
+      "declarations": "color: #4660FF;\n        font-weight: 600;"
+    },
+    {
+      "source": "https://aqara.com/",
+      "selector": ".aqara-nav-header .dropdown-menu",
+      "declarations": "--join-radius: 10px;\n\n        position: absolute;\n        top: 100%;\n        left: 50%;\n        background: #ffffff;\n        border-radius: 0 0 12px 12px;\n        padding: 16px;\n        min-width: 140px;\n        overflow: visible;\n\n        \n        opacity: 0;\n        visibility: hidden;\n        transform-origin: top center;\n        transform: translateX(-50%) translateY(-6px) scaleY(0.82);\n        transition:\n            opacity 0.20s ease,\n            transform 0.28s cubic-bezier(0.22, 1, 0.36, 1),\n            visibility 0s linear 0.28s;\n        will-change: transform, opacity;\n        display: flex;\n        flex-direction: column;\n        gap: 16px;"
+    },
+    {
+      "source": "https://aqara.com/",
+      "selector": ".aqara-nav-header .sub-link",
+      "declarations": "display: flex;\n        align-items: center;\n        gap: 10px;\n        color: rgba(0, 0, 0, 0.82);\n        text-decoration: none;\n        font-size: 15px;\n        line-height: 1.2;\n        transition: color .2s ease;"
+    },
+    {
+      "source": "https://aqara.com/",
+      "selector": ".aqara-nav-header .sub-link:hover",
+      "declarations": "color: #4660FF;"
+    },
+    {
+      "source": "https://aqara.com/",
+      "selector": ".aqara-nav-header .icon-btn",
+      "declarations": "width: 40px;\n        height: 40px;\n        display: inline-flex;\n        align-items: center;\n        justify-content: center;\n        border: 0;\n        border-radius: 999px;\n        background: transparent;\n        color: rgba(0, 0, 0, 0.82);\n        cursor: pointer;\n        transition: background-color .2s ease, color .2s ease;"
+    },
+    {
+      "source": "https://aqara.com/",
+      "selector": ".aqara-nav-header .icon-btn:hover",
+      "declarations": "background: rgba(70, 96, 255, 0.08);\n        color: #4660FF;"
+    },
+    {
+      "source": "https://aqara.com/",
+      "selector": ".aqara-nav-header .lang-trigger",
+      "declarations": "display: inline-flex;\n        align-items: center;\n        gap: 7px;\n        height: 40px;\n        padding: 0 16px;\n        border-radius: 999px;\n        border: 0;\n        background: #f4f5f7;\n        color: rgba(0, 0, 0, 0.86);\n        font-size: 14px;\n        cursor: pointer;"
+    },
+    {
+      "source": "https://aqara.com/",
+      "selector": ".aqara-nav-header .lang-dropdown",
+      "declarations": "--join-radius: 10px;\n\n        position: absolute;\n        top: 100%;\n        right: 0;\n        width: 460px;\n        background: #ffffff;\n        border-radius: 0 0 16px 16px;\n        padding: 24px;\n        overflow: visible;\n\n        \n        opacity: 0;\n        visibility: hidden;\n        transform-origin: top right;\n        transform: translateY(-6px) scaleY(0.82);\n        transition:\n            opacity 0.20s ease,\n            transform 0.30s cubic-bezier(0.22, 1, 0.36, 1),\n            visibility 0s linear 0.30s;\n        will-change: transform, opacity;"
+    },
+    {
+      "source": "https://aqara.com/",
+      "selector": ".aqara-nav-header .lang-group-title",
+      "declarations": "font-size: 14px;\n        color: #767676;\n        margin-bottom: 10px;"
+    },
+    {
+      "source": "https://aqara.com/",
+      "selector": ".aqara-nav-header .lang-card",
+      "declarations": "display: flex;\n        justify-content: space-between;\n        gap: 10px;\n        padding: 10px 12px;\n        border-radius: 8px;\n        text-decoration: none;\n        color: rgba(0, 0, 0, 0.88);\n        background: #f8f9fb;\n        transition: background-color .2s ease;"
+    },
+    {
+      "source": "https://aqara.com/",
+      "selector": ".aqara-nav-header .lang-card .language",
+      "declarations": "font-size: 14px;\n        color: rgba(0, 0, 0, 0.52);\n        white-space: nowrap;"
+    },
+    {
+      "source": "https://aqara.com/",
+      "selector": ".aqara-nav-header .search-box-clear",
+      "declarations": "width: 28px;\n        height: 28px;\n        flex: 0 0 auto;\n        border: 0;\n        border-radius: 999px;\n        background: rgba(0, 0, 0, 0.06);\n        color: rgba(0, 0, 0, 0.56);\n        cursor: pointer;\n        display: none;\n        align-items: center;\n        justify-content: center;\n        font-size: 18px;\n        line-height: 1;"
+    },
+    {
+      "source": "https://aqara.com/",
+      "selector": ".aqara-nav-header .search-box-clear:hover",
+      "declarations": "background: rgba(0, 0, 0, 0.10);\n        color: rgba(0, 0, 0, 0.82);"
+    },
+    {
+      "source": "https://aqara.com/",
+      "selector": ".aqara-nav-header .hot-search-title",
+      "declarations": "font-size: 13px;\n        color: #7b7b7b;\n        margin-bottom: 10px;"
+    },
+    {
+      "source": "https://aqara.com/",
+      "selector": ".aqara-nav-header .hot-search-list a",
+      "declarations": "display: inline-flex;\n        align-items: center;\n        gap: 8px;\n        color: rgba(0, 0, 0, 0.84);\n        text-decoration: none;\n        font-size: 14px;"
+    },
+    {
+      "source": "https://aqara.com/",
+      "selector": ".aqara-nav-header .tag",
+      "declarations": "display: inline-flex;\n        align-items: center;\n        justify-content: center;\n        height: 20px;\n        padding: 0 8px;\n        border-radius: 999px;\n        font-size: 12px;\n        color: #4660FF;\n        background: rgba(70, 96, 255, 0.10);\n        flex: 0 0 auto;"
+    },
+    {
+      "source": "https://aqara.com/",
+      "selector": ".aqara-nav-header .tag.tag-product",
+      "declarations": "color: #4660FF;\n        background: rgba(70, 96, 255, 0.10);"
+    },
+    {
+      "source": "https://aqara.com/",
+      "selector": ".aqara-nav-header .tag.tag-video",
+      "declarations": "color: #0F9D58;\n        background: rgba(15, 157, 88, 0.12);"
+    },
+    {
+      "source": "https://aqara.com/",
+      "selector": ".aqara-nav-header .tag.tag-news",
+      "declarations": "color: #F59E0B;\n        background: rgba(245, 158, 11, 0.14);"
+    },
+    {
+      "source": "https://aqara.com/",
+      "selector": ".aqara-nav-header .mobile-accordion-btn",
+      "declarations": "width: 100%;\n        min-height: 58px;\n        border: 0;\n        background: transparent;\n            display: flex;\n            align-items: center;\n            justify-content: space-between;\n            gap: 12px;\n            padding: 0;\n            text-align: left;\n            color: rgba(0, 0, 0, 0.88);\n            font-size: 15px;\n        font-weight: 500;\n        cursor: pointer;"
+    },
+    {
+      "source": "https://aqara.com/",
+      "selector": ".aqara-nav-header .mobile-accordion-link",
+      "declarations": "flex: 1 1 auto;\n        display: flex;\n        align-items: center;\n        color: inherit;\n        text-decoration: none;\n        font-size: 15px;\n        font-weight: 500;"
+    },
+    {
+      "source": "https://aqara.com/",
+      "selector": ".aqara-nav-header .mobile-accordion-toggle",
+      "declarations": "flex: 0 0 42px;\n        width: 42px;\n        border: 0;\n        background: transparent;\n        display: inline-flex;\n        align-items: center;\n        justify-content: center;\n        color: inherit;\n        cursor: pointer;\n        padding: 0;"
+    },
+    {
+      "source": "https://aqara.com/",
+      "selector": ".aqara-nav-header .mobile-accordion.open .mobile-accordion-btn",
+      "declarations": "color: #4660FF;"
+    },
+    {
+      "source": "https://aqara.com/",
+      "selector": ".aqara-nav-header .mobile-sub-link",
+      "declarations": "display: flex;\n            align-items: center;\n            gap: 10px;\n            min-height: 42px;\n            text-decoration: none;\n            color: rgba(0, 0, 0, 0.82);\n            font-size: 14px;"
+    },
+    {
+      "source": "https://aqara.com/",
+      "selector": ".aqara-nav-header .mobile-lang-group-title",
+      "declarations": "font-size: 14px;\n            color: #767676;\n            margin-bottom: 10px;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Aqara官网-空间智能-Aqara HomeKit - Aqara苹果全屋智能-定制全屋空间智能家居-空间智能家居代理加盟",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://aqara.com/",
+        "https://static-resource.aqara.com/css/header_footer.css?1,790,145,619,750"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://aqara.com/",
+        "https://static-resource.aqara.com/css/index.css?1,790,145,619,730",
+        "https://static-resource.aqara.com/css/common.css?1,790,145,619,750",
+        "https://static-resource.aqara.com/css/swiper.min.css?1,790,145,619,750",
+        "https://static-resource.aqara.com/css/header_footer.css?1,790,145,619,750"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://aqara.com/",
+        "https://static-resource.aqara.com/css/index.css?1,790,145,619,730",
+        "https://static-resource.aqara.com/css/common.css?1,790,145,619,750"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://aqara.com/",
+        "https://static-resource.aqara.com/css/index.css?1,790,145,619,730",
+        "https://static-resource.aqara.com/css/common.css?1,790,145,619,750",
+        "https://static-resource.aqara.com/css/swiper.min.css?1,790,145,619,750",
+        "https://static-resource.aqara.com/css/header_footer.css?1,790,145,619,750"
+      ]
+    },
+    "colors.text-secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "colors.text-tertiary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "colors.border-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "colors.border-mid": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "colors.accent-blue-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static-resource.aqara.com/css/header_footer.css?1,790,145,619,750"
+      ]
+    },
+    "colors.accent-blue-soft-2": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "colors.link-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static-resource.aqara.com/css/swiper.min.css?1,790,145,619,750"
+      ]
+    },
+    "colors.accent-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static-resource.aqara.com/css/header_footer.css?1,790,145,619,750"
+      ]
+    },
+    "colors.accent-orange": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static-resource.aqara.com/css/header_footer.css?1,790,145,619,750"
+      ]
+    },
+    "colors.accent-orange-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://static-resource.aqara.com/css/header_footer.css?1,790,145,619,750"
+      ]
+    },
+    "colors.accent-green": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "colors.accent-amber": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://aqara.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.device-category-tile": {
+      "status": "inferred"
+    }
+  }
+}

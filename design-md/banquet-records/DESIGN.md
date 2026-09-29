@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Banquet Records
-description: A record shop that trusts its blue — not a generic navy or a trendy cobalt, but a specific #61afd5 that reads as both a clear sky and a vintage pressing-label center. This cyan-adjacent primary sits against a #2e475b ink that feels like a well-worn sleeve, giving the whole interface a quiet, knowledgeable confidence. There is no aggressive red or urgent orange here; the brand communicates through a calm, considered palette where the primary blue appears on key CTAs and category headers, while the deep ink handles body copy and navigation. The layout leans on generous whitespace and a clean grid, letting album artwork do the heavy lifting — product cards use soft {rounded.md} corners that echo the gentle curve of a 12-inch cover, and buttons carry a modest {rounded.sm} radius that feels purposeful without being playful. Typography runs a straightforward sans-serif stack at moderate weights, with display sizes staying lean enough to not compete with the vivid sleeve art. The search experience is central — a full-width bar with {rounded.full} ends that invites browsing by artist, label, or format. The overall mood is that of a knowledgeable clerk who lets the records speak first: the interface is a frame, not the picture.
+name: "Banquet Records"
+source_url: "https://www.banquetrecords.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A record shop that trusts its blue — not a generic navy or a trendy cobalt, but a specific #61afd5 that reads as both a clear sky and a vintage pressing-label center. This cyan-adjacent primary sits against a #2e475b ink that feels like a well-worn sleeve, giving the whole interface a quiet, knowledgeable confidence. There is no aggressive red or urgent orange here; the brand communicates through a calm, considered palette where the primary blue appears on key CTAs and category headers, while the deep ink handles body copy and navigation. The layout leans on generous whitespace and a clean grid, letting album artwork do the heavy lifting — product cards use soft {rounded.md} corners that echo the gentle curve of a 12-inch cover, and buttons carry a modest {rounded.sm} radius that feels purposeful without being playful. Typography runs a straightforward sans-serif stack at moderate weights, with display sizes staying lean enough to not compete with the vivid sleeve art. The search experience is central — a full-width bar with {rounded.full} ends that invites browsing by artist, label, or format. The overall mood is that of a knowledgeable clerk who lets the records speak first: the interface is a frame, not the picture.
 
 colors:
   primary: "#61afd5"
@@ -515,6 +519,8 @@ components:
 - Search transitions from inline bar to full-screen overlay on mobile for better keyboard experience
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No font-family declarations were found during extraction; the typography stack uses Inter as a reasonable sans-serif default for an independent record store — this should be verified against the actual site CSS or design tokens
 - Only two hex colors were extracted (#61afd5 and #2e475b); the remaining color tokens (muted, hairline, surface, badge colors) are inferred from common design patterns for this brand category and should be validated against the live site

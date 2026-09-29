@@ -1,0 +1,479 @@
+{
+  "source_url": "https://sandqvist.com",
+  "final_url": "https://www.sandqvist.com/",
+  "captured_at": "2026-09-29T04:01:02.071703+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://sandqvist.com",
+      "final_url": "https://www.sandqvist.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "277bd9a29540f38453a55715f45e8e6d4d2000d3dbb42454c2ee4a4babc99f06",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "final_url": "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "cf5bd6b2cd17080f08701128d0b911edf57b5dd9555df376b4e2ff78ba7ecf8a",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "final_url": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "967c0b7343027b021589fdbad503d20c6315a7dec215b1a811e08c6eb04d248f",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.sandqvist.com/_next/static/chunks/105b52ceabb40491.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "final_url": "https://www.sandqvist.com/_next/static/chunks/105b52ceabb40491.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "1909603d09e271794d0538b5935779d52694a55e3eb6298b24e3596102d292c6",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 2,
+      "sources": [
+        "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+        "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
+      ]
+    },
+    "#0c0c0e": {
+      "count": 1,
+      "sources": [
+        "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
+      ]
+    },
+    "#212121": {
+      "count": 1,
+      "sources": [
+        "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
+      ]
+    },
+    "#444444": {
+      "count": 1,
+      "sources": [
+        "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
+      ]
+    },
+    "#959595": {
+      "count": 1,
+      "sources": [
+        "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
+      ]
+    },
+    "#c2c2c2": {
+      "count": 1,
+      "sources": [
+        "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
+      ]
+    },
+    "#e3e3e3": {
+      "count": 1,
+      "sources": [
+        "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 1,
+      "sources": [
+        "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
+      ]
+    },
+    "#000000": {
+      "count": 1,
+      "sources": [
+        "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
+      ]
+    },
+    "#f3fef2": {
+      "count": 1,
+      "sources": [
+        "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
+      ]
+    },
+    "#bdefba": {
+      "count": 1,
+      "sources": [
+        "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
+      ]
+    }
+  },
+  "font_families": {
+    "dinPro": [
+      "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
+    ],
+    "dinPro Fallback": [
+      "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "selector": ":root",
+      "declarations": "--spacing-1:4px;--spacing-2:8px;--spacing-3:12px;--spacing-4:16px;--spacing-5:20px;--spacing-6:24px;--spacing-7:28px;--spacing-8:32px;--spacing-9:36px;--spacing-10:40px;--spacing-11:44px;--spacing-12:48px;--spacing-14:56px;--spacing-16:64px;--spacing-20:80px;--spacing-25:100px;--spacing-30:120px;--spacing-33:132px;--spacing-40:160px;--spacing-80:320px;--color-scale-90:#0c0c0e;--color-scale-80:#212121;--color-scale-70:#444;--color-scale-60:#959595;--color-scale-50:#c2c2c2;--color-scale-40:#e3e3e3;--color-scale-10:#f8f8f8;--color-scale-0:#fff;--color-canvas:var(--color-scale-0);--color-canvas-inverted:var(--color-scale-90);--color-primary:var(--color-scale-90);--color-primary-inverted:var(--co"
+    },
+    {
+      "source": "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "selector": "body",
+      "declarations": "-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;background-color:var(--color-canvas);color:var(--color-primary);font-family:var(--font-primary);margin:0;font-size:16px;line-height:24px"
+    },
+    {
+      "source": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "selector": ".Header-module-scss-module__0nbCqG__root",
+      "declarations": "--banner-height:24px;--header-height:50px;height:var(--header-height);position:relative"
+    },
+    {
+      "source": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "selector": ".Header-module-scss-module__0nbCqG__header",
+      "declarations": "padding-inline:var(--spacing-4);padding-block:var(--spacing-3);z-index:var(--z-header);height:var(--header-height);background-color:transparent;justify-content:space-between;align-items:center;width:100%;transition:background-color .4s ease-in-out,color .4s ease-in-out;display:flex;position:absolute;top:0"
+    },
+    {
+      "source": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "selector": ".Header-module-scss-module__0nbCqG__solid",
+      "declarations": "background-color:var(--color-canvas)"
+    },
+    {
+      "source": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "selector": ".Header-module-scss-module__0nbCqG__light",
+      "declarations": "color:var(--color-primary-inverted)"
+    },
+    {
+      "source": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "selector": ".Header-module-scss-module__0nbCqG__dark",
+      "declarations": "color:var(--color-primary)"
+    },
+    {
+      "source": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "selector": ".Button-module-scss-module__wPNESW__root",
+      "declarations": "gap:var(--spacing-2);color:inherit;font-size:inherit;font-family:var(--font-primary);cursor:pointer;background-color:transparent;border:1px solid transparent;align-items:center;padding:0;font-weight:400;text-decoration:none;transition:opacity .3s;display:flex"
+    },
+    {
+      "source": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "selector": ".Button-module-scss-module__wPNESW__underline.Button-module-scss-module__wPNESW__dark",
+      "declarations": "color:var(--color-primary)"
+    },
+    {
+      "source": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "selector": ".Button-module-scss-module__wPNESW__underline.Button-module-scss-module__wPNESW__dark:after",
+      "declarations": "background-color:var(--color-primary)"
+    },
+    {
+      "source": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "selector": ".Button-module-scss-module__wPNESW__underline.Button-module-scss-module__wPNESW__dark:hover,.Button-module-scss-module__wPNESW__underline.Button-module-scss-mod",
+      "declarations": "color:var(--color-primary-inverted)"
+    },
+    {
+      "source": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "selector": ".Button-module-scss-module__wPNESW__underline.Button-module-scss-module__wPNESW__light:after",
+      "declarations": "background-color:var(--color-primary-inverted)"
+    },
+    {
+      "source": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "selector": ".Button-module-scss-module__wPNESW__underline.Button-module-scss-module__wPNESW__light:hover",
+      "declarations": "color:var(--color-primary)"
+    },
+    {
+      "source": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "selector": ".Button-module-scss-module__wPNESW__outline",
+      "declarations": "text-transform:uppercase;padding:var(--spacing-3);background-color:transparent;border:1px solid;justify-content:center;font-size:16px;transition:color .6s,background-color .3s"
+    },
+    {
+      "source": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "selector": ".Button-module-scss-module__wPNESW__outline.Button-module-scss-module__wPNESW__dark",
+      "declarations": "color:var(--color-primary);border-color:var(--color-primary)"
+    },
+    {
+      "source": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "selector": ".Button-module-scss-module__wPNESW__outline.Button-module-scss-module__wPNESW__dark:hover",
+      "declarations": "color:var(--color-primary-inverted);background-color:var(--color-primary)"
+    },
+    {
+      "source": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "selector": ".Button-module-scss-module__wPNESW__outline.Button-module-scss-module__wPNESW__light",
+      "declarations": "color:var(--color-primary-inverted);border-color:var(--color-primary-inverted)"
+    },
+    {
+      "source": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "selector": ".Button-module-scss-module__wPNESW__outline.Button-module-scss-module__wPNESW__light:hover",
+      "declarations": "color:var(--color-primary);background-color:var(--color-primary)"
+    },
+    {
+      "source": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "selector": ".Button-module-scss-module__wPNESW__fill.Button-module-scss-module__wPNESW__dark",
+      "declarations": "color:var(--color-primary-inverted);background-color:var(--color-primary);border-color:var(--color-primary)"
+    },
+    {
+      "source": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "selector": ".Button-module-scss-module__wPNESW__fill.Button-module-scss-module__wPNESW__light",
+      "declarations": "color:var(--color-primary);background-color:var(--color-primary-inverted);border-color:var(--color-primary-inverted)"
+    },
+    {
+      "source": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "selector": ".Button-module-scss-module__wPNESW__arrow.Button-module-scss-module__wPNESW__dark",
+      "declarations": "color:var(--color-primary)"
+    },
+    {
+      "source": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "selector": ".Button-module-scss-module__wPNESW__arrow.Button-module-scss-module__wPNESW__light",
+      "declarations": "color:var(--color-primary-inverted)"
+    },
+    {
+      "source": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "selector": ".Drawer-module-scss-module__utxJla__header",
+      "declarations": "padding:var(--spacing-4);background-color:var(--color-canvas);z-index:var(--z-content);justify-content:space-between;align-items:center;display:flex;position:-webkit-sticky;position:sticky;top:0"
+    },
+    {
+      "source": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "selector": ".SliderProducts-module-scss-module__HOfWLG__gap",
+      "declarations": "--flex-gap:8px;gap:var(--flex-gap)"
+    },
+    {
+      "source": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "selector": ".SliderProducts-module-scss-module__HOfWLG__productItem",
+      "declarations": "--flex-columns:18"
+    },
+    {
+      "source": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "selector": ".ProductGallery-module-scss-module__JKAHyG__arrow",
+      "declarations": "color:var(--color-scale-70);padding:0 var(--spacing-4)"
+    },
+    {
+      "source": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "selector": ".ProductGallery-module-scss-module__JKAHyG__dot",
+      "declarations": "color:var(--color-scale-50);transition:color .6s"
+    },
+    {
+      "source": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "selector": ".ProductGallery-module-scss-module__JKAHyG__dot.ProductGallery-module-scss-module__JKAHyG__active",
+      "declarations": "color:var(--color-primary)"
+    },
+    {
+      "source": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "selector": ".ProductGallery-module-scss-module__JKAHyG__playButton",
+      "declarations": "cursor:pointer;z-index:2;width:32px;height:32px;bottom:var(--spacing-4);right:var(--spacing-4);border:1px solid var(--color-scale-70);color:var(--color-scale-70);justify-content:center;align-items:center;display:flex;position:absolute"
+    },
+    {
+      "source": "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+      "selector": ".ProductNavigation-module-scss-module__SYL9AG__nav",
+      "declarations": "border-top:1px solid var(--color-scale-40);background-color:var(--color-canvas)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Sandqvist Bags, Backpacks & Accessories | Sandqvist",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+        "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+        "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V",
+        "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
+      ]
+    },
+    "colors.border-subtle": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sandqvist.com/_next/static/chunks/7680b4cc3cda8ce4.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
+      ]
+    },
+    "colors.accent-mint-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
+      ]
+    },
+    "colors.accent-mint": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.sandqvist.com/_next/static/chunks/663836df8b18115d.css?dpl=dpl_Fd3rB7ymJd27uCwh6JD9iTDQV86V"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-panel": {
+      "status": "inferred"
+    }
+  }
+}

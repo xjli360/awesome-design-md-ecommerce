@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Davids
-description: A muted, mineral palette anchored on #53565a — a warm charcoal that reads less like industrial gray and more like honed slate — carries the entire Davids oral-care experience, from tube graphics to checkout buttons. The brand’s visual language is deliberately anti-clinical: where conventional toothpaste brands blast white, blue, and bright mint, Davids wraps itself in #c5c1be (a weathered limestone) and #dae6df (a sage-tinted eggshell), with #d63a2f — a restrained brick red — as the sole accent, used sparingly on the Add to Cart button and small sale badges. Product photography sits on #f0f5f2, a barely-there green-white that reads as clean but not sterile, and the typography (likely a system sans-serif stack, though the site’s font-family declarations are sparse) runs at moderate weights with generous line-height, letting the ingredient stories and the brand’s “no chemicals” positioning breathe. The overall effect is one of a small-batch apothecary that happens to sell toothpaste — soft rectangles (`{rounded.sm}` on buttons, `{rounded.md}` on product cards), a hairline of #c6c6c6 that separates sections without shouting, and a body text of #626262 that feels readable but never harsh. The nav bar, a fixed strip of #ffffff with #53565a links, uses a single #d63a2f highlight on the cart icon, a tiny voltage that keeps the experience from drifting into beige monotony.
+name: "Davids"
+source_url: "https://davids-usa.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A muted, mineral palette anchored on #53565a — a warm charcoal that reads less like industrial gray and more like honed slate — carries the entire Davids oral-care experience, from tube graphics to checkout buttons. The brand’s visual language is deliberately anti-clinical: where conventional toothpaste brands blast white, blue, and bright mint, Davids wraps itself in #c5c1be (a weathered limestone) and #dae6df (a sage-tinted eggshell), with #d63a2f — a restrained brick red — as the sole accent, used sparingly on the Add to Cart button and small sale badges. Product photography sits on #f0f5f2, a barely-there green-white that reads as clean but not sterile, and the typography (likely a system sans-serif stack, though the site’s font-family declarations are sparse) runs at moderate weights with generous line-height, letting the ingredient stories and the brand’s “no chemicals” positioning breathe. The overall effect is one of a small-batch apothecary that happens to sell toothpaste — soft rectangles (`{rounded.sm}` on buttons, `{rounded.md}` on product cards), a hairline of #c6c6c6 that separates sections without shouting, and a body text of #626262 that feels readable but never harsh. The nav bar, a fixed strip of #ffffff with #53565a links, uses a single #d63a2f highlight on the cart icon, a tiny voltage that keeps the experience from drifting into beige monotony.
 
 colors:
   primary: "#53565a"
@@ -263,6 +267,8 @@ components:
 - The footer’s multi-column link layout collapses to a single column on mobile, with accordion-style expandable sections for each category.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Font family**: The extracted font-family declarations only returned `inherit`, `oke-widget-icons`, and `slick` (a carousel library). The actual brand typeface could not be determined. The typography block uses a system sans-serif stack as a fallback; the real site likely uses a custom or Google Font (e.g., Inter, Lato, or a similar clean sans-serif). This must be confirmed by inspecting the live site’s CSS @font-face or Google Fonts link.
 - **Hover states**: Only button-primary’s active state (#303030) was inferable from the extracted palette. Secondary button, text input, and link hover states are estimated based on common patterns (surface-soft background, color shifts).

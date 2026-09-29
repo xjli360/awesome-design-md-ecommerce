@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Ubiquiti
-description: A deep blue (#0193d7) cuts through a black-and-white technical canvas like a signal light in a server room — that single cyan accent is the brand voltage for every primary CTA, status indicator, and active-state glow across the UniFi ecosystem. The site runs UI Sans at clean, moderate weights with generous tracking, treating typography as infrastructure rather than decoration: display heads sit at 24–32px in weight 600, body text at 15–16px in weight 400, and every button reads in a crisp 14px medium weight. The meta theme-color of #000000 signals the brand's commitment to dark-mode-first thinking — the canvas is black, not white, and the entire layout reads like a network dashboard where information density is a feature, not a flaw. Navigation is a persistent top bar with product-family dropdowns (UniFi, UISP, AmpliFi, etc.), each entry acting as a portal into a hardware ecosystem rather than a marketing page. Cards use tight `{rounded.sm}` corners (4px), buttons use `{rounded.md}` (8px), and the only `{rounded.full}` treatment appears on search inputs and status badges — a deliberate restraint that keeps the interface feeling precise and engineered. The brand trusts dark surfaces (`{colors.canvas}` = #000000), soft surface cards (`{colors.surface-card}` = #1a1a1a), and hairline borders (`{colors.hairline}` = #2a2a2a) to create depth without shadows, a visual language that mirrors the rack-mounted hardware it sells.
+name: "Ubiquiti"
+source_url: "https://ui.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep blue (#0193d7) cuts through a black-and-white technical canvas like a signal light in a server room — that single cyan accent is the brand voltage for every primary CTA, status indicator, and active-state glow across the UniFi ecosystem. The site runs UI Sans at clean, moderate weights with generous tracking, treating typography as infrastructure rather than decoration: display heads sit at 24–32px in weight 600, body text at 15–16px in weight 400, and every button reads in a crisp 14px medium weight. The meta theme-color of #000000 signals the brand's commitment to dark-mode-first thinking — the canvas is black, not white, and the entire layout reads like a network dashboard where information density is a feature, not a flaw. Navigation is a persistent top bar with product-family dropdowns (UniFi, UISP, AmpliFi, etc.), each entry acting as a portal into a hardware ecosystem rather than a marketing page. Cards use tight `{rounded.sm}` corners (4px), buttons use `{rounded.md}` (8px), and the only `{rounded.full}` treatment appears on search inputs and status badges — a deliberate restraint that keeps the interface feeling precise and engineered. The brand trusts dark surfaces (`{colors.canvas}` = #000000), soft surface cards (`{colors.surface-card}` = #1a1a1a), and hairline borders (`{colors.hairline}` = #2a2a2a) to create depth without shadows, a visual language that mirrors the rack-mounted hardware it sells.
 
 colors:
   primary: "#0193d7"
@@ -404,6 +408,8 @@ components:
 - Search bar collapses from a full input to an icon button at mobile, expanding to full-width on tap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one hex color (#0193d7) was extracted from the live site; additional colors (primary-active, primary-disabled, success, warning, error, and all surface/ink/muted values) are inferred from common design-system patterns and may not match the exact live implementation
 - Font-family "UI Sans" was extracted but no font weights, sizes, or line heights were found; all typography values are estimated based on common technical brand patterns and may differ from actual site implementation

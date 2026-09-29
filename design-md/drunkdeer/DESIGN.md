@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: DrunkDeer
-description: A high-performance gaming keyboard brand that operates in the dark — literally. The canvas is #121212, not white; the primary voltage is #874cd3, a saturated violet that reads as cybernetic signal rather than playful accent. This is a brand that trusts deep shadow (#222222, #282828) and near-black (#111111) as its comfortable habitat, letting the purple pulse as the only color that escapes the void. Typography runs Montserrat and Poppins at modest weights — display sits at 24–32px in weight 500/600, never screaming, because the keyboards themselves are the visual spectacle. The extracted border-radius of 10px (`{rounded.md}`) appears consistently across product cards, buttons, and module edges — a single, repeatable corner radius that gives the interface a precise, machined feel without going fully pill-shaped. The meta theme-color of #282828 confirms the brand lives in this dark space even in the browser chrome. Product imagery is the hero: keyboards photographed in low light with per-key RGB glow, making each switch and keycap a point of light against the black. The violet (#874cd3) appears in primary CTAs, active states, and accent highlights — it is the single brand voltage that carries every "Add to Cart" button and spec-badge dot. There is no white anywhere except on text (#dedede body copy) and on-primary surfaces. The brand feels like a control room at night: focused, illuminated only where necessary, and built for precision.
+name: "DrunkDeer"
+source_url: "https://drunkdeer.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A high-performance gaming keyboard brand that operates in the dark — literally. The canvas is #121212, not white; the primary voltage is #874cd3, a saturated violet that reads as cybernetic signal rather than playful accent. This is a brand that trusts deep shadow (#222222, #282828) and near-black (#111111) as its comfortable habitat, letting the purple pulse as the only color that escapes the void. Typography runs Montserrat and Poppins at modest weights — display sits at 24–32px in weight 500/600, never screaming, because the keyboards themselves are the visual spectacle. The extracted border-radius of 10px (`{rounded.md}`) appears consistently across product cards, buttons, and module edges — a single, repeatable corner radius that gives the interface a precise, machined feel without going fully pill-shaped. The meta theme-color of #282828 confirms the brand lives in this dark space even in the browser chrome. Product imagery is the hero: keyboards photographed in low light with per-key RGB glow, making each switch and keycap a point of light against the black. The violet (#874cd3) appears in primary CTAs, active states, and accent highlights — it is the single brand voltage that carries every "Add to Cart" button and spec-badge dot. There is no white anywhere except on text (#dedede body copy) and on-primary surfaces. The brand feels like a control room at night: focused, illuminated only where necessary, and built for precision.
 
 colors:
   primary: "#874cd3"
@@ -285,6 +289,8 @@ components:
 - Search bar collapses to icon-only trigger below 744px, expanding to full-width overlay on tap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for most components could not be reliably extracted from the live site; only primary button hover was inferred from the active color
 - Error styling for form inputs (validation messages, error borders) was not present in extracted data

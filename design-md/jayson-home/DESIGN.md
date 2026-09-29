@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Jayson Home
-description: Jayson Home is a Chicago-born destination for considered living, where the mood is quietly sophisticated and the palette leans into deep, architectural neutrals. The brand's visual identity is anchored by a slate-like navy, `#272d3f`, which appears across primary buttons, navigation bars, and key interactive elements, lending a sense of grounded permanence. This is balanced by a warm, off-white canvas (`#f6f6f5`) and soft surfaces (`#f2f2f2`, `#ebeceb`), creating a backdrop that feels both refined and lived-in. The typographic voice pairs a classic, serifed Noe Display for editorial moments with the clean, utilitarian lines of Source Sans Pro and Helvetica for body and interface text, a combination that echoes the brand's mix of antique and modern. Signature design moves include generous use of soft rounding (`{rounded.sm}` on cards, `{rounded.md}` on buttons) that avoids the clinical feel of hard corners, and a restrained accent palette where a deep teal (`#088f87`) and a muted blue (`#1990c6`) appear sparingly—on sale badges, links, or hover states—to provide quiet moments of contrast. The overall effect is one of tactile warmth and understated luxury; the interface feels like a well-edited room, not a digital storefront.
+name: "Jayson Home"
+source_url: "https://www.jaysonhome.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Jayson Home is a Chicago-born destination for considered living, where the mood is quietly sophisticated and the palette leans into deep, architectural neutrals. The brand's visual identity is anchored by a slate-like navy, `#272d3f`, which appears across primary buttons, navigation bars, and key interactive elements, lending a sense of grounded permanence. This is balanced by a warm, off-white canvas (`#f6f6f5`) and soft surfaces (`#f2f2f2`, `#ebeceb`), creating a backdrop that feels both refined and lived-in. The typographic voice pairs a classic, serifed Noe Display for editorial moments with the clean, utilitarian lines of Source Sans Pro and Helvetica for body and interface text, a combination that echoes the brand's mix of antique and modern. Signature design moves include generous use of soft rounding (`{rounded.sm}` on cards, `{rounded.md}` on buttons) that avoids the clinical feel of hard corners, and a restrained accent palette where a deep teal (`#088f87`) and a muted blue (`#1990c6`) appear sparingly—on sale badges, links, or hover states—to provide quiet moments of contrast. The overall effect is one of tactile warmth and understated luxury; the interface feels like a well-edited room, not a digital storefront.
 
 colors:
   primary: "#272d3f"
@@ -365,6 +369,8 @@ components:
 - Product grids reduce from 3-4 columns to 1-2 columns, with images scaling proportionally.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for all interactive elements (buttons, links, cards) are inferred from the primary-active color and common patterns; exact CSS transitions and box-shadow values were not extracted.
 - Error styling for form inputs (validation messages, error icons) was not observed; the error border color is an educated guess based on the accent palette.

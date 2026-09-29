@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: GIR
-description: GIR (Get It Right) is a kitchen-tools brand that speaks in a single, confident voice — a deep, almost charcoal gray (`#313131`) that reads as serious, durable, and quietly premium. There is no bright primary color here; the brand trusts the weight of its ink, the precision of its silicone spatulas, and the honesty of its materials. The entire visual system is monochrome, leaning on a warm off-white canvas and a tight `{spacing.sm}` to `{spacing.lg}` grid that gives every product room to breathe. Typography runs the system font stack — `-apple-system`, `BlinkMacSystemFont`, `Segoe UI`, `Roboto`, `Helvetica Neue`, `Arial`, `Noto Sans`, `sans-serif` — at modest weights (400 for body, 600 for display), never shouting. Buttons are softly rounded (`{rounded.sm}`), product cards use `{rounded.md}`, and the overall feel is that of a well-edited kitchen drawer: nothing unnecessary, everything in its place. The brand's signature move is the absence of a signature move — no gradients, no badges, no decorative flourishes. GIR's design system is a quiet assertion that good tools don't need to be loud.
+name: "GIR"
+source_url: "https://getgir.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  GIR (Get It Right) is a kitchen-tools brand that speaks in a single, confident voice — a deep, almost charcoal gray (`#313131`) that reads as serious, durable, and quietly premium. There is no bright primary color here; the brand trusts the weight of its ink, the precision of its silicone spatulas, and the honesty of its materials. The entire visual system is monochrome, leaning on a warm off-white canvas and a tight `{spacing.sm}` to `{spacing.lg}` grid that gives every product room to breathe. Typography runs the system font stack — `-apple-system`, `BlinkMacSystemFont`, `Segoe UI`, `Roboto`, `Helvetica Neue`, `Arial`, `Noto Sans`, `sans-serif` — at modest weights (400 for body, 600 for display), never shouting. Buttons are softly rounded (`{rounded.sm}`), product cards use `{rounded.md}`, and the overall feel is that of a well-edited kitchen drawer: nothing unnecessary, everything in its place. The brand's signature move is the absence of a signature move — no gradients, no badges, no decorative flourishes. GIR's design system is a quiet assertion that good tools don't need to be loud.
 
 colors:
   primary: "#313131"
@@ -373,6 +377,8 @@ components:
 - Search: Full search bar in nav on desktop; icon-only on mobile that opens a full-screen overlay.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for all components (only primary/secondary buttons and product cards have defined hover styles).
 - Focus-visible styles (keyboard accessibility outlines) are not extracted.

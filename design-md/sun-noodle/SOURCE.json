@@ -1,0 +1,691 @@
+{
+  "source_url": "https://sunnoodle.com",
+  "final_url": "https://sunnoodle.com/",
+  "captured_at": "2026-09-28T10:05:09.341492+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://sunnoodle.com",
+      "final_url": "https://sunnoodle.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "bceeafde8f3f34c0ee90ccb17e525295e0781c8aae9abb62f43c711f51c1b995",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css",
+      "final_url": "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "1a5364bcd8757b74f2714e3b9bda0eb3ad2abe3820ed391567b70a06da5b18c4",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://sunnoodle.com/_astro/index.CkSBSfkg.css",
+      "final_url": "https://sunnoodle.com/_astro/index.CkSBSfkg.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "d1bf23d21e7d4dd2feccaa956dca5fa32d3095e13a4f058cf047b942e29c054b",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://sunnoodle.com/_astro/index.DJjBmG6N.css",
+      "final_url": "https://sunnoodle.com/_astro/index.DJjBmG6N.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "d53792e4376835a146ee97c67d6e8c8eb92c171e5b3409581499cfb757c127ce",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://sunnoodle.com/_astro/index.DV8PrLMj.css",
+      "final_url": "https://sunnoodle.com/_astro/index.DV8PrLMj.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "2efd906f0b8ca976ca9fa43452e1c9b726b4842094ea3d43ca02e7108818eafc",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://sunnoodle.com/_astro/_secondary_.DC0ngSsA.css",
+      "final_url": "https://sunnoodle.com/_astro/_secondary_.DC0ngSsA.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "1bc71aac55b48312e915bc6a8f3b92b9e3ec2bb222a193fc2d9d06b34d194e76",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 14,
+      "sources": [
+        "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css",
+        "https://sunnoodle.com/_astro/index.DV8PrLMj.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 5,
+      "sources": [
+        "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css",
+        "https://sunnoodle.com/_astro/index.DV8PrLMj.css",
+        "https://sunnoodle.com/_astro/_secondary_.DC0ngSsA.css"
+      ]
+    },
+    "#c72040": {
+      "count": 5,
+      "sources": [
+        "https://sunnoodle.com/_astro/index.CkSBSfkg.css",
+        "https://sunnoodle.com/_astro/index.DJjBmG6N.css",
+        "https://sunnoodle.com/_astro/_secondary_.DC0ngSsA.css"
+      ]
+    },
+    "#faf6de": {
+      "count": 4,
+      "sources": [
+        "https://sunnoodle.com/_astro/index.CkSBSfkg.css"
+      ]
+    },
+    "#00000080": {
+      "count": 4,
+      "sources": [
+        "https://sunnoodle.com/_astro/index.DV8PrLMj.css"
+      ]
+    },
+    "#f2e6c4": {
+      "count": 3,
+      "sources": [
+        "https://sunnoodle.com/_astro/index.CkSBSfkg.css"
+      ]
+    },
+    "#a1122d": {
+      "count": 3,
+      "sources": [
+        "https://sunnoodle.com/_astro/index.CkSBSfkg.css"
+      ]
+    },
+    "#fcb316": {
+      "count": 3,
+      "sources": [
+        "https://sunnoodle.com/_astro/index.CkSBSfkg.css"
+      ]
+    },
+    "#cb8bda": {
+      "count": 3,
+      "sources": [
+        "https://sunnoodle.com/_astro/index.CkSBSfkg.css"
+      ]
+    },
+    "#8bb8e8": {
+      "count": 3,
+      "sources": [
+        "https://sunnoodle.com/_astro/index.CkSBSfkg.css"
+      ]
+    },
+    "#2d2a26": {
+      "count": 3,
+      "sources": [
+        "https://sunnoodle.com/_astro/index.CkSBSfkg.css"
+      ]
+    },
+    "#ffa168": {
+      "count": 3,
+      "sources": [
+        "https://sunnoodle.com/_astro/index.CkSBSfkg.css"
+      ]
+    },
+    "#ffa06a": {
+      "count": 3,
+      "sources": [
+        "https://sunnoodle.com/_astro/index.CkSBSfkg.css"
+      ]
+    },
+    "#f98571": {
+      "count": 3,
+      "sources": [
+        "https://sunnoodle.com/_astro/index.CkSBSfkg.css"
+      ]
+    },
+    "#fdd756": {
+      "count": 3,
+      "sources": [
+        "https://sunnoodle.com/_astro/index.CkSBSfkg.css"
+      ]
+    },
+    "#2d2a2620": {
+      "count": 3,
+      "sources": [
+        "https://sunnoodle.com/_astro/index.CkSBSfkg.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 2,
+      "sources": [
+        "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css"
+      ]
+    },
+    "#1d1d1d80": {
+      "count": 2,
+      "sources": [
+        "https://sunnoodle.com/_astro/index.CkSBSfkg.css"
+      ]
+    },
+    "#000000": {
+      "count": 2,
+      "sources": [
+        "https://sunnoodle.com/_astro/index.DV8PrLMj.css",
+        "https://sunnoodle.com/_astro/_secondary_.DC0ngSsA.css"
+      ]
+    },
+    "#f0e7c8": {
+      "count": 2,
+      "sources": [
+        "https://sunnoodle.com/_astro/_secondary_.DC0ngSsA.css"
+      ]
+    },
+    "#2d2a262e": {
+      "count": 2,
+      "sources": [
+        "https://sunnoodle.com/_astro/_secondary_.DC0ngSsA.css"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 1,
+      "sources": [
+        "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css"
+      ]
+    },
+    "#2d2a2633": {
+      "count": 1,
+      "sources": [
+        "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css"
+      ]
+    },
+    "#2d2a2640": {
+      "count": 1,
+      "sources": [
+        "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css"
+      ]
+    },
+    "#007aff": {
+      "count": 1,
+      "sources": [
+        "https://sunnoodle.com/_astro/index.DV8PrLMj.css"
+      ]
+    },
+    "#00000026": {
+      "count": 1,
+      "sources": [
+        "https://sunnoodle.com/_astro/index.DV8PrLMj.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Apple Color Emoji": [
+      "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css"
+    ],
+    "Consolas": [
+      "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css"
+    ],
+    "Courier New": [
+      "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css"
+    ],
+    "Dreamboat": [
+      "https://sunnoodle.com/",
+      "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css",
+      "https://sunnoodle.com/_astro/index.CkSBSfkg.css",
+      "https://sunnoodle.com/_astro/index.DJjBmG6N.css"
+    ],
+    "Liberation Mono": [
+      "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css"
+    ],
+    "Menlo": [
+      "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css"
+    ],
+    "Monaco": [
+      "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css"
+    ],
+    "Noto Color Emoji": [
+      "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css"
+    ],
+    "Noto Sans JP": [
+      "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css",
+      "https://sunnoodle.com/_astro/index.CkSBSfkg.css"
+    ],
+    "SFMono-Regular": [
+      "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css"
+    ],
+    "Segoe UI Emoji": [
+      "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css"
+    ],
+    "Segoe UI Symbol": [
+      "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css"
+    ],
+    "Sweetheart": [
+      "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css",
+      "https://sunnoodle.com/_astro/index.CkSBSfkg.css"
+    ],
+    "Work Sans": [
+      "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css",
+      "https://sunnoodle.com/_astro/index.CkSBSfkg.css",
+      "https://sunnoodle.com/_astro/_secondary_.DC0ngSsA.css"
+    ],
+    "Zen Maru Gothic": [
+      "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css"
+    ],
+    "monospace": [
+      "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css"
+    ],
+    "sans-serif": [
+      "https://sunnoodle.com/",
+      "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css",
+      "https://sunnoodle.com/_astro/index.CkSBSfkg.css",
+      "https://sunnoodle.com/_astro/_secondary_.DC0ngSsA.css"
+    ],
+    "swiper-icons": [
+      "https://sunnoodle.com/_astro/index.DV8PrLMj.css"
+    ],
+    "system-ui": [
+      "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css"
+    ],
+    "ui-monospace": [
+      "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css"
+    ],
+    "ui-sans-serif": [
+      "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://sunnoodle.com/",
+      "selector": "a[data-v-35501f66],button[data-v-35501f66]",
+      "declarations": "border-top:2px solid var(--border);border-right:2px solid var(--border);cursor:pointer;text-decoration:none;font-size:1rem;background:var(--background);display:inline-block;box-sizing:border-box;border-radius:0 2px 2px 0;padding:.75rem 1rem;line-height:1rem;color:var(--text)!important;text-transform:uppercase;position:relative;font-family:Dreamboat,sans-serif;left:11px;top:0"
+    },
+    {
+      "source": "https://sunnoodle.com/",
+      "selector": "a.classic[data-v-35501f66],button.classic[data-v-35501f66]",
+      "declarations": "--background: var(--sriracha);--border: var(--sriracha);--text: var(--noodle);--hoverBackground: var(--hotSriracha);--hoverBorder: var(--hotSriracha)"
+    },
+    {
+      "source": "https://sunnoodle.com/",
+      "selector": "a.inverted[data-v-35501f66],button.inverted[data-v-35501f66]",
+      "declarations": "--background: var(--noodle);--border: var(--noodle);--text: var(--sriracha);--hoverBackground: var(--cookedNoodle);--hoverBorder: var(--cookedNoodle)"
+    },
+    {
+      "source": "https://sunnoodle.com/",
+      "selector": "a.hollow[data-v-35501f66],button.hollow[data-v-35501f66]",
+      "declarations": "--background: var(--noodle);--border: var(--sriracha);--text: var(--sriracha);--hoverBackground: var(--cookedNoodle);--hoverBorder: var(--sriracha)"
+    },
+    {
+      "source": "https://sunnoodle.com/",
+      "selector": "a[data-v-35501f66]:hover,button[data-v-35501f66]:hover",
+      "declarations": "animation:bounce-35501f66 .5s;background:var(--hoverBackground);border-color:var(--hoverBorder)"
+    },
+    {
+      "source": "https://sunnoodle.com/",
+      "selector": "a:hover span[data-v-35501f66],button:hover span[data-v-35501f66]",
+      "declarations": "border-color:var(--hoverBorder)"
+    },
+    {
+      "source": "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-feature-settings:inherit;font-variation-settings:inherit;font-size:100%;font-weight:inherit;line-height:inherit;letter-spacing:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css",
+      "selector": "button,input:where([type=button]),input:where([type=reset]),input:where([type=submit])",
+      "declarations": "-webkit-appearance:button;background-color:transparent;background-image:none"
+    },
+    {
+      "source": "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css",
+      "selector": ".font-body",
+      "declarations": "font-family:Work Sans,Noto Sans JP,sans-serif"
+    },
+    {
+      "source": "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css",
+      "selector": ".font-header",
+      "declarations": "font-family:Dreamboat,Zen Maru Gothic,sans-serif"
+    },
+    {
+      "source": "https://sunnoodle.com/_astro/index.CkSBSfkg.css",
+      "selector": ".button-wrapper[data-astro-cid-oafdr2gr] input[data-astro-cid-oafdr2gr].button",
+      "declarations": "border:none;cursor:pointer;text-decoration:none;background:var(--background);display:inline-block;box-sizing:border-box;border-radius:0 2px 2px 0;padding:12px 32px;line-height:16px;color:var(--text);text-transform:uppercase;position:relative;font-family:Dreamboat,sans-serif;left:11px"
+    },
+    {
+      "source": "https://sunnoodle.com/_astro/index.CkSBSfkg.css",
+      "selector": ".button-wrapper[data-astro-cid-oafdr2gr] input[data-astro-cid-oafdr2gr].button.inverted",
+      "declarations": "--background: var(--noodle);--text: var(--sriracha);--hover: var(--cookedNoodle)"
+    },
+    {
+      "source": "https://sunnoodle.com/_astro/index.CkSBSfkg.css",
+      "selector": ".button-wrapper[data-astro-cid-oafdr2gr] input[data-astro-cid-oafdr2gr].button:hover span[data-astro-cid-oafdr2gr]",
+      "declarations": "border-color:var(--hover)"
+    },
+    {
+      "source": "https://sunnoodle.com/_astro/index.CkSBSfkg.css",
+      "selector": "=ja] h1,html[lang=ja] h2,html[lang=ja] h3,html[lang=ja] h4,html[lang=ja] h5,html[lang=ja] h6,html[lang=ja] .h1,html[lang=ja] .h2,html[lang=ja] .h3,html[lang=ja]",
+      "declarations": "font-family:Dreamboat,sans-serif;font-weight:900;letter-spacing:normal"
+    },
+    {
+      "source": "https://sunnoodle.com/_astro/index.CkSBSfkg.css",
+      "selector": "html[lang=ja] body",
+      "declarations": "font-family:Work Sans,Noto Sans JP,sans-serif;background-image:none"
+    },
+    {
+      "source": "https://sunnoodle.com/_astro/index.CkSBSfkg.css",
+      "selector": ":root",
+      "declarations": "--noodle: #faf6de"
+    },
+    {
+      "source": "https://sunnoodle.com/_astro/index.CkSBSfkg.css",
+      "selector": ":root",
+      "declarations": "--cookedNoodle: #f2e6c4"
+    },
+    {
+      "source": "https://sunnoodle.com/_astro/index.CkSBSfkg.css",
+      "selector": ":root",
+      "declarations": "--sriracha: #c72040"
+    },
+    {
+      "source": "https://sunnoodle.com/_astro/index.CkSBSfkg.css",
+      "selector": ":root",
+      "declarations": "--hotSriracha: #a1122d"
+    },
+    {
+      "source": "https://sunnoodle.com/_astro/index.CkSBSfkg.css",
+      "selector": ":root",
+      "declarations": "--sunny: #fcb316"
+    },
+    {
+      "source": "https://sunnoodle.com/_astro/index.CkSBSfkg.css",
+      "selector": ":root",
+      "declarations": "--shoyu: #cb8bda"
+    },
+    {
+      "source": "https://sunnoodle.com/_astro/index.CkSBSfkg.css",
+      "selector": ":root",
+      "declarations": "--tonkotsu: #8bb8e8"
+    },
+    {
+      "source": "https://sunnoodle.com/_astro/index.CkSBSfkg.css",
+      "selector": ":root",
+      "declarations": "--carbon: #2d2a26"
+    },
+    {
+      "source": "https://sunnoodle.com/_astro/index.CkSBSfkg.css",
+      "selector": ":root",
+      "declarations": "--miso: #ffa168"
+    },
+    {
+      "source": "https://sunnoodle.com/_astro/index.CkSBSfkg.css",
+      "selector": ":root",
+      "declarations": "--spicyMiso: #ffa06a"
+    },
+    {
+      "source": "https://sunnoodle.com/_astro/index.CkSBSfkg.css",
+      "selector": ":root",
+      "declarations": "--spicySesame: #f98571"
+    },
+    {
+      "source": "https://sunnoodle.com/_astro/index.CkSBSfkg.css",
+      "selector": ":root",
+      "declarations": "--kaedama: #fdd756"
+    },
+    {
+      "source": "https://sunnoodle.com/_astro/index.CkSBSfkg.css",
+      "selector": "body",
+      "declarations": "margin:0;padding:0;font-family:Work Sans,sans-serif;scrollbar-gutter:stable;background-color:var(--noodle);background-attachment:fixed;background-blend-mode:multiply;background-image:url(/bg_halftone.svg)"
+    },
+    {
+      "source": "https://sunnoodle.com/_astro/index.CkSBSfkg.css",
+      "selector": "h1,.h1,h2,.h2,h3,.h3,h4,.h4,h5,.h5,h6,.h6",
+      "declarations": "font-family:Dreamboat,sans-serif;letter-spacing:-.15em;margin:0 0 0 -.5rem"
+    },
+    {
+      "source": "https://sunnoodle.com/_astro/index.DJjBmG6N.css",
+      "selector": ".wrapper[data-astro-cid-bbe6dxrz] .header-wrapper[data-astro-cid-bbe6dxrz] h1[data-astro-cid-bbe6dxrz]",
+      "declarations": "text-align:center;color:var(--sriracha);margin-block-end:0;margin-block-start:0;font-size:var(--tagline-size);white-space:nowrap"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Sun Noodle | The Most Uplifting Noodles since 1981",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sunnoodle.com/_astro/index.CkSBSfkg.css",
+        "https://sunnoodle.com/_astro/index.DJjBmG6N.css",
+        "https://sunnoodle.com/_astro/_secondary_.DC0ngSsA.css"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sunnoodle.com/_astro/index.CkSBSfkg.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sunnoodle.com/_astro/index.CkSBSfkg.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sunnoodle.com/_astro/index.CkSBSfkg.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sunnoodle.com/_astro/index.CkSBSfkg.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sunnoodle.com/_astro/index.CkSBSfkg.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sunnoodle.com/_astro/_secondary_.DC0ngSsA.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sunnoodle.com/_astro/index.CkSBSfkg.css"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sunnoodle.com/_astro/index.CkSBSfkg.css"
+      ]
+    },
+    "colors.accent-yellow": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sunnoodle.com/_astro/index.CkSBSfkg.css"
+      ]
+    },
+    "colors.accent-coral": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sunnoodle.com/_astro/index.CkSBSfkg.css"
+      ]
+    },
+    "colors.accent-orange": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sunnoodle.com/_astro/index.CkSBSfkg.css"
+      ]
+    },
+    "colors.accent-lavender": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sunnoodle.com/_astro/index.CkSBSfkg.css"
+      ]
+    },
+    "colors.accent-sky": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sunnoodle.com/_astro/index.CkSBSfkg.css"
+      ]
+    },
+    "colors.overlay-scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sunnoodle.com/_astro/index.DV8PrLMj.css"
+      ]
+    },
+    "colors.hairline-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://sunnoodle.com/_astro/_secondary_.CkvOFX4y.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.recipe-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    }
+  }
+}

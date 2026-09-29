@@ -1,0 +1,773 @@
+{
+  "source_url": "https://seagulllighting.com",
+  "final_url": "https://seagulllighting.com/",
+  "captured_at": "2026-09-28T09:18:43.178583+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://seagulllighting.com",
+      "final_url": "https://seagulllighting.com/",
+      "http_status": 200,
+      "content_type": "text/html;charset=UTF-8",
+      "sha256": "42ff7a5f3c176d7f36a529ced5fc373871f07477289ac7f3d59a7dbc713f0f2e",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926",
+      "final_url": "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "dcc0ebb491f570ac4878598999b28061285703ea52aaa6f695b5073ffc1df9c9",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://fast.fonts.net/cssapi/fdb6a3ec-16f8-4636-a6c2-02238c5fcc67.css",
+      "final_url": "https://fast.fonts.net/cssapi/fdb6a3ec-16f8-4636-a6c2-02238c5fcc67.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "cef28671ac7967e5b541a3caafe8a0a20ee8b04e4d9f7796c8ecf5743ebeffb4",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.SeaGullLighting.com/search/autocomplete.css",
+      "final_url": "https://www.SeaGullLighting.com/search/autocomplete.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "52dbe6fe17953fdc0661b7ebc05f7d9180e03dad9f1eb40b2ff085661528d1be",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 37,
+      "sources": [
+        "https://seagulllighting.com/",
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#000000": {
+      "count": 33,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#a0c8ba": {
+      "count": 25,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#36424a": {
+      "count": 16,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#87a3af": {
+      "count": 13,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#005072": {
+      "count": 11,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#373629": {
+      "count": 9,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#979797": {
+      "count": 7,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#9b9b9b": {
+      "count": 7,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#3c3c3c": {
+      "count": 7,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#838383": {
+      "count": 5,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#cdcdcd": {
+      "count": 5,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#cccccc": {
+      "count": 4,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#ebebeb": {
+      "count": 4,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#666666": {
+      "count": 3,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#333333": {
+      "count": 3,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#aeaeae": {
+      "count": 3,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#ebf2f5": {
+      "count": 3,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#9bbbb0": {
+      "count": 3,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#b83c36": {
+      "count": 3,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#c0c0c0": {
+      "count": 2,
+      "sources": [
+        "https://seagulllighting.com/",
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#ff0000": {
+      "count": 2,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#003b54": {
+      "count": 2,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#4d4d4f": {
+      "count": 2,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#555555": {
+      "count": 2,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#455886": {
+      "count": 2,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#2d373c": {
+      "count": 1,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#648991": {
+      "count": 1,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 1,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#737373": {
+      "count": 1,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#d9e6ed": {
+      "count": 1,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#757575": {
+      "count": 1,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#0066cc": {
+      "count": 1,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 1,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#c69d4b": {
+      "count": 1,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#d7e4df": {
+      "count": 1,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 1,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#b2b2b2": {
+      "count": 1,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#faf7dc": {
+      "count": 1,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#d1d1d1": {
+      "count": 1,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#5a5758": {
+      "count": 1,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#7e7e7e": {
+      "count": 1,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#8ca2ae": {
+      "count": 1,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 1,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#7e919c": {
+      "count": 1,
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "#ca038835": {
+      "count": 1,
+      "sources": [
+        "https://fast.fonts.net/cssapi/fdb6a3ec-16f8-4636-a6c2-02238c5fcc67.css"
+      ]
+    },
+    "#294099f3": {
+      "count": 1,
+      "sources": [
+        "https://fast.fonts.net/cssapi/fdb6a3ec-16f8-4636-a6c2-02238c5fcc67.css"
+      ]
+    },
+    "#731dd4d3": {
+      "count": 1,
+      "sources": [
+        "https://fast.fonts.net/cssapi/fdb6a3ec-16f8-4636-a6c2-02238c5fcc67.css"
+      ]
+    },
+    "#4cb16859": {
+      "count": 1,
+      "sources": [
+        "https://fast.fonts.net/cssapi/fdb6a3ec-16f8-4636-a6c2-02238c5fcc67.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://seagulllighting.com/",
+      "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+    ],
+    "Avenir LT W01 35 Light": [
+      "https://fast.fonts.net/cssapi/fdb6a3ec-16f8-4636-a6c2-02238c5fcc67.css"
+    ],
+    "Avenir LT W01 65 Medium": [
+      "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926",
+      "https://fast.fonts.net/cssapi/fdb6a3ec-16f8-4636-a6c2-02238c5fcc67.css"
+    ],
+    "Avenir LT W01 85 Heavy": [
+      "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926",
+      "https://fast.fonts.net/cssapi/fdb6a3ec-16f8-4636-a6c2-02238c5fcc67.css"
+    ],
+    "Avenir LT W01_55 Roman": [
+      "https://fast.fonts.net/cssapi/fdb6a3ec-16f8-4636-a6c2-02238c5fcc67.css"
+    ],
+    "Cambria": [
+      "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+    ],
+    "DejaVu Sans Condensed": [
+      "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+    ],
+    "Gill Sans": [
+      "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+    ],
+    "Gill Sans MT": [
+      "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+    ],
+    "Helvetica": [
+      "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+    ],
+    "Hoefler Text": [
+      "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+    ],
+    "Liberation Serif": [
+      "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+    ],
+    "Lucida Sans Unicode": [
+      "https://seagulllighting.com/",
+      "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+    ],
+    "Times": [
+      "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+    ],
+    "Times New Roman": [
+      "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+    ],
+    "proxima-nova-condensed": [
+      "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+    ],
+    "sans-serif": [
+      "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+    ],
+    "serif": [
+      "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://seagulllighting.com/",
+      "selector": "body",
+      "declarations": "font-family:Lucida Sans Unicode, Arial; margin-top:0px; padding-top:0px; background:#FFFFFF"
+    },
+    {
+      "source": "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926",
+      "selector": "body",
+      "declarations": "font-family:\"proxima-nova-condensed\", Cambria, \"Hoefler Text\", \"Liberation Serif\", Times, \"Times New Roman\", serif;\r\n\ttext-align:left;\r\n\tbackground-repeat: repeat-x;\r\n\tfont-size: 12px;\r\n\tcolor: #000;\r\n margin:0 auto;"
+    },
+    {
+      "source": "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926",
+      "selector": ".full-body",
+      "declarations": "width: 1124px; \r\n\toverflow: hidden; \r\n\tmargin: 0 auto; \r\n\tbackground-color: #ffffff;\r\n\tpadding-left: 20px;\r\n\tpadding-right: 20px;"
+    },
+    {
+      "source": "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926",
+      "selector": ".full-body .topAdminNav a",
+      "declarations": "color: #666;\r\n\t\ttext-decoration: none;\r\n\t\tmargin-right: 1em;\r\n\t\ttext-transform: uppercase;\r\n\t\tfloat: left;\r\n\t\tmargin-top: 13px;"
+    },
+    {
+      "source": "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926",
+      "selector": "#header",
+      "declarations": "width: 1235px;\r\n\tcolor: #000;\r\n\tz-index: 90000000 !important;"
+    },
+    {
+      "source": "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926",
+      "selector": ".downloadButtons",
+      "declarations": "padding: 5px;\r\n  margin: 5px;\r\n  margin-left: 16px;\r\n  text-align: center;\r\n  background-color: #87a3af;\r\n  float: left;\r\n  margin-right: 0px;\r\n  width: 92px;"
+    },
+    {
+      "source": "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926",
+      "selector": ".full-body .bottomNavigation",
+      "declarations": "color: #757575;\r\n\tfont-weight: bolder;\r\n\tfont-size: 12px;\r\n\ttext-transform: uppercase;\r\n\tdisplay: block;"
+    },
+    {
+      "source": "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926",
+      "selector": ".full-body .homeCopyright",
+      "declarations": "color: #333;\r\n\tmargin-top: 24px;"
+    },
+    {
+      "source": "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926",
+      "selector": ".bodytext",
+      "declarations": "font-size: 12px;\r\n\tcolor: 373629;"
+    },
+    {
+      "source": "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926",
+      "selector": ".registerButton",
+      "declarations": "width:150px;\r\n\tfont-family:Lucida Sans Unicode, Arial;\r\n\tfont-size:12px;\r\n\tbackground-color:#EBF2F5;\r\n\tborder-style:ridge;\r\n\tborder:ridge;"
+    },
+    {
+      "source": "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926",
+      "selector": ".leftNavHeader",
+      "declarations": "font-size: 12px;\r\n\tcolor: #003B54;\r\n\tfont-weight: bold;"
+    },
+    {
+      "source": "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926",
+      "selector": ".bodytype9",
+      "declarations": "font-size: 9px;\r\n\tcolor: #000000;"
+    },
+    {
+      "source": "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926",
+      "selector": ".bodytype9_bold",
+      "declarations": "font-size: 9px;\r\n\tcolor: #000000;\r\n\tfont-weight: bold;"
+    },
+    {
+      "source": "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926",
+      "selector": ".bodytype10",
+      "declarations": "font-size: 11px;\r\ncolor: #bbb;\r\ntext-decoration: none;\r\nmargin-top: 3px;\r\nmargin-right: 5px;"
+    },
+    {
+      "source": "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926",
+      "selector": ".bodytype10_red",
+      "declarations": "font-size: 10px;\r\n\tcolor: #FF0000;"
+    },
+    {
+      "source": "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926",
+      "selector": ".bodytype10_bold",
+      "declarations": "font-size: 10px;\r\n\tcolor: #000000;\r\n\tfont-weight: bold;"
+    },
+    {
+      "source": "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926",
+      "selector": ".bodytype11",
+      "declarations": "font-size: 11px;\r\n\tcolor: #000000;"
+    },
+    {
+      "source": "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926",
+      "selector": ".bodytype11_bold",
+      "declarations": "font-size: 11px;\r\n\tcolor: #000000;\r\n\tfont-weight: bold;"
+    },
+    {
+      "source": "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926",
+      "selector": ".bodytype11_bullets",
+      "declarations": "font-size: 11px;\r\n\tcolor: #000000;\r\n\tlist-style-position:inside;\r\n\tlist-style-type:disc;"
+    },
+    {
+      "source": "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926",
+      "selector": ".body_type_bullets",
+      "declarations": "font-size: 12px;\r\n\tcolor: #000000;\r\n\tlist-style-position:inside;\r\n\tlist-style-type:disc;"
+    },
+    {
+      "source": "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926",
+      "selector": ".bodytype12",
+      "declarations": "font-size: 12px;\r\n\tcolor: #36424A;\r\n\tpadding-left:5px;"
+    },
+    {
+      "source": "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926",
+      "selector": ".productPageText",
+      "declarations": "font-size:10px;\r\n\tfont-weight:bold;\r\n\tcolor: #3C3C3C;\r\n\ttext-decoration: none;\r\n\ttext-align: center;\r\n\tmargin-top: 5px;\r\n\tpadding: 5px 0;"
+    },
+    {
+      "source": "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926",
+      "selector": ".entireCollectionHeader",
+      "declarations": "font-size:12px;\r\n\tfont-weight:bold;\r\n\tcolor: #b83c36;\r\n\ttext-decoration: none;\r\n\ttext-align: left;\r\n\tvertical-align: middle;\r\n\tmargin-top: 5px;\r\n\tmargin-left: 0;\r\n\tmargin-bottom: 5px;\r\n\tpadding: 0 5px 5px 0;"
+    },
+    {
+      "source": "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926",
+      "selector": ".entireCollectionProductNum",
+      "declarations": "font-size:13px;\r\n\tcolor: #979797;\r\n\ttext-decoration: none;\r\n\ttext-align: center;\r\n\tvertical-align: middle;\r\n\tpadding: 3px 5px 10px 0;\r\n width: 100%;"
+    },
+    {
+      "source": "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926",
+      "selector": ".productTextHeader a",
+      "declarations": "font-size:12px;\r\n\tcolor: #005072;\r\n\ttext-decoration: none;"
+    },
+    {
+      "source": "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926",
+      "selector": ".productTextHeading",
+      "declarations": "font-size: 18px;\r\ncolor: #87a3af;\r\nmargin-bottom: 10px;\r\ntext-decoration:none !important;\r\nfont-family:\"Avenir LT W01 65 Medium\", \"Gill Sans\", \"Gill Sans MT\", \"DejaVu Sans Condensed\", Helvetica, Arial, sans-serif;\r\nletter-spacing: 2px;\r\ntext-align:left;"
+    },
+    {
+      "source": "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926",
+      "selector": ".productTextPreview",
+      "declarations": "font-size:12px;\r\n\tcolor: #979797;\r\n\ttext-decoration: none;\r\n\tvertical-align: middle;\r\n line-height: 16px;\r\n letter-spacing:.5px;\r\n\tpadding:0;"
+    },
+    {
+      "source": "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926",
+      "selector": ".productTextPreview_Bold",
+      "declarations": "font-size:12px;\r\n\tcolor: #3C3C3C;\r\n\ttext-decoration: none;\r\n\tvertical-align: middle;\r\n\tpadding:0;"
+    },
+    {
+      "source": "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926",
+      "selector": ".productText, .productText:link, .productText:visited",
+      "declarations": "font-size:12px;\r\n\tfont-weight:bold;\r\n\tcolor: #3C3C3C;\r\n\ttext-decoration: none;\r\n\tvertical-align: middle;\r\n\tpadding: 0 4px 5px 2px;"
+    },
+    {
+      "source": "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926",
+      "selector": ".productNavText:link, .productNavText:visited",
+      "declarations": "font-size:9px;\r\n\tfont-weight:bold;\r\n\tcolor: #b83c36;\r\n\ttext-decoration: none;\r\n\ttext-align: center;\r\n\tvertical-align: middle;\r\n\tpadding: 0 4px 0 2px;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Lighting, Light Fixtures, Home Lighting",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://seagulllighting.com/",
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://seagulllighting.com/",
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "colors.accent-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "colors.accent-sage": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "colors.heading-navy": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "colors.alert-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "colors.gold-accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "colors.border-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.SeaGullLighting.com/includes/css/siteStyle2014.css?version=20190926"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-badge": {
+      "status": "inferred"
+    }
+  }
+}

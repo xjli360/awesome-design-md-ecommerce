@@ -1,11 +1,15 @@
 ---
 version: alpha
-name: Agmes
-description: Every element on agmesnyc.com arrives without color — five near-achromatic tones spanning near-black (#121212) through silver-gray (#dedede) to cream (#fafafa), with nothing between that could upstage the jewelry itself. Agmes treats the interface as a museum wall: achromatic, recessive, constructed to hold light rather than emit it. The pieces carry all chromatic weight; the site declines the offer to compete. Raleway provides the typographic spine, set at ultralight weights — 200 for display, 300 for subheadings — with letter-spacing pushed to 0.10–0.18em. Headlines feel less like names than dimensions stamped on a studio sample tag, and uppercase tracking governs every label, navigation link, and call-to-action with consistent studio-quiet authority. No headline shouts; each reads like engraving.
+name: "Agmes"
+source_url: "https://www.agmesnyc.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Every element on agmesnyc.com arrives without color — five near-achromatic tones spanning near-black (#121212) through silver-gray (#dedede) to cream (#fafafa), with nothing between that could upstage the jewelry itself. Agmes treats the interface as a museum wall: achromatic, recessive, constructed to hold light rather than emit it. The pieces carry all chromatic weight; the site declines the offer to compete. Raleway provides the typographic spine, set at ultralight weights — 200 for display, 300 for subheadings — with letter-spacing pushed to 0.10–0.18em. Headlines feel less like names than dimensions stamped on a studio sample tag, and uppercase tracking governs every label, navigation link, and call-to-action with consistent studio-quiet authority. No headline shouts; each reads like engraving.
 
-The Shopify storefront organizes around product photography on near-white (#fafafa) grounds with minimal ornamentation — no colored badges, no promotional callouts. Product cards carry image, name in {typography.title-md}, and price in {typography.price-display}. Primary CTAs use full near-black (#191919) as a solid fill with cream type, a deliberate value reversal that makes the add-to-cart button read as a steel stamp on linen. Secondary interactions arrive as hairline-bordered outlines ({colors.hairline}) that dissolve into the surface rather than asserting themselves. Radius vocabulary stays restrained — corners lean toward {rounded.none} or at most {rounded.xs}, echoing the angular silhouettes of the pieces themselves.
+  The Shopify storefront organizes around product photography on near-white (#fafafa) grounds with minimal ornamentation — no colored badges, no promotional callouts. Product cards carry image, name in {typography.title-md}, and price in {typography.price-display}. Primary CTAs use full near-black (#191919) as a solid fill with cream type, a deliberate value reversal that makes the add-to-cart button read as a steel stamp on linen. Secondary interactions arrive as hairline-bordered outlines ({colors.hairline}) that dissolve into the surface rather than asserting themselves. Radius vocabulary stays restrained — corners lean toward {rounded.none} or at most {rounded.xs}, echoing the angular silhouettes of the pieces themselves.
 
-PDP pages breathe with wide vertical margins and screen-height heroes, letting a single pendant float in negative space before descriptive copy appears below. Material and edition labels carry the monospace fallback that surfaces in the font stack — an artifact of artisan-inventory logic meeting Shopify's template layer, and a texture that makes a product specification feel like a laboratory annotation. Spacing is generous throughout: {spacing.section} gutters between editorial zones signal a brand that considers silence between words as load-bearing as the words themselves.
+  PDP pages breathe with wide vertical margins and screen-height heroes, letting a single pendant float in negative space before descriptive copy appears below. Material and edition labels carry the monospace fallback that surfaces in the font stack — an artifact of artisan-inventory logic meeting Shopify's template layer, and a texture that makes a product specification feel like a laboratory annotation. Spacing is generous throughout: {spacing.section} gutters between editorial zones signal a brand that considers silence between words as load-bearing as the words themselves.
 
 colors:
   primary: "#191919"
@@ -329,6 +333,8 @@ components:
 - Nav dropdown becomes a full-screen accordion on mobile; hover states become tap-toggle states
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No accent or brand-signature color was detected; the entire extracted palette is achromatic (#121212 through #fafafa). It is possible the brand intentionally uses zero chromatic color, but a warm metal tone (gold/brass for fine jewelry) may exist in imagery-only contexts and was not captured in CSS/token extraction.
 - `surface-card: "#ffffff"` is a minor extrapolation — pure white was not in the extracted palette (nearest is #fafafa). Likely used for product image backgrounds in Shopify's Dawn or similar theme.

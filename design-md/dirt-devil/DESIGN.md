@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Dirt Devil
-description: The chrome-red chassis that has anchored American household cleaning since the early twentieth century arrives on screen as a single, uncompromising voltage — #e01e2a — that drives every primary CTA, promotional badge, and hero overlay. Where competitors reach for clinical white or corporate blue to signal cleanliness, Dirt Devil makes the opposite wager: red means power, urgency, and deal momentum. The near-black ground (#121212, #231f20) reinforces that industrial confidence, while #f3f3f3 and #d9d9d9 light surfaces keep product photography crisp against neutral planes. A secondary blue (#334fb4) surfaces selectively for informational links and secondary CTAs, preventing the primary hue from overwhelming long catalog scroll sessions. Nunito Sans — a rounded geometric sans with low stroke contrast — carries all type across the system; its soft terminals temper what could otherwise feel like a purely utilitarian parts catalog. Buttons are moderately rounded ({rounded.sm}), not pill-shaped, communicating utility over playfulness. Product cards sit on {colors.surface-card} with a faint {colors.hairline} border, foregrounding photography of red-housed appliances against neutral fields. The soft blush {colors.promo-surface} (#fceaed) appears as the surface behind sale callouts — a diluted echo of the primary red that reduces visual fatigue on promotional pages. A dark charcoal {colors.surface-dark} (#242833) grounds footer sections and announcement strips, giving the composition a base that lets the red read at full intensity wherever it appears. Promotional badges carry {colors.primary} fills with {colors.on-primary} white uppercase type, treating the brand color as the urgency signal it has historically been.
+name: "Dirt Devil"
+source_url: "https://www.dirtdevil.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The chrome-red chassis that has anchored American household cleaning since the early twentieth century arrives on screen as a single, uncompromising voltage — #e01e2a — that drives every primary CTA, promotional badge, and hero overlay. Where competitors reach for clinical white or corporate blue to signal cleanliness, Dirt Devil makes the opposite wager: red means power, urgency, and deal momentum. The near-black ground (#121212, #231f20) reinforces that industrial confidence, while #f3f3f3 and #d9d9d9 light surfaces keep product photography crisp against neutral planes. A secondary blue (#334fb4) surfaces selectively for informational links and secondary CTAs, preventing the primary hue from overwhelming long catalog scroll sessions. Nunito Sans — a rounded geometric sans with low stroke contrast — carries all type across the system; its soft terminals temper what could otherwise feel like a purely utilitarian parts catalog. Buttons are moderately rounded ({rounded.sm}), not pill-shaped, communicating utility over playfulness. Product cards sit on {colors.surface-card} with a faint {colors.hairline} border, foregrounding photography of red-housed appliances against neutral fields. The soft blush {colors.promo-surface} (#fceaed) appears as the surface behind sale callouts — a diluted echo of the primary red that reduces visual fatigue on promotional pages. A dark charcoal {colors.surface-dark} (#242833) grounds footer sections and announcement strips, giving the composition a base that lets the red read at full intensity wherever it appears. Promotional badges carry {colors.primary} fills with {colors.on-primary} white uppercase type, treating the brand color as the urgency signal it has historically been.
 
 colors:
   primary: "#e01e2a"
@@ -358,6 +362,8 @@ components:
 - Footer four-column grid collapses to accordion-style expandable sections on mobile; social icons pin to the bottom
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom font weight file extraction confirmed — Nunito Sans weight scale (400–800) inferred from common DTC patterns; verify 800 weight availability for display-xl headlines before committing
 - Meta theme-color tag not set; no explicit dark-mode palette detected — assume light-mode-only unless the Shopify theme includes a dark scheme toggle

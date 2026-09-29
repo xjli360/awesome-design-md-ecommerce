@@ -1,0 +1,1703 @@
+{
+  "source_url": "https://wishbonedesign.com",
+  "final_url": "https://nz.wishbonedesign.com/",
+  "captured_at": "2026-09-29T03:53:21.855977+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://wishbonedesign.com",
+      "final_url": "https://nz.wishbonedesign.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "9b1351af1a5b8d57938c89393d3e2a0dbbae5eadbb6bc3a5e49b270fdbb7c4d3",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663",
+      "final_url": "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "22bfafed6cc306301eeea87b83d9c71fea952efe720c7a3af7d853c31ef18951",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882",
+      "final_url": "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "cb3c4d4527062065dc8ee28f90e6d277f4daaafebd7eaf13e211d1322e47a1aa",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://nz.wishbonedesign.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://nz.wishbonedesign.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a09dfd-612e-79a0-b5e7-321d7b863d7f/vario-1-166/assets/vario-embed.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a09dfd-612e-79a0-b5e7-321d7b863d7f/vario-1-166/assets/vario-embed.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a170deddd7949ef47f6c3436c39f20942b21b766489161e9d398af5fe246078b",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 163,
+      "sources": [
+        "https://nz.wishbonedesign.com/",
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663",
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882",
+        "https://nz.wishbonedesign.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a09dfd-612e-79a0-b5e7-321d7b863d7f/vario-1-166/assets/vario-embed.css"
+      ]
+    },
+    "#2f2f2f": {
+      "count": 77,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#71a1a1": {
+      "count": 61,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#63c583": {
+      "count": 33,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#212529": {
+      "count": 29,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#dc3545": {
+      "count": 28,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#000000": {
+      "count": 24,
+      "sources": [
+        "https://nz.wishbonedesign.com/",
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663",
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#dee2e6": {
+      "count": 20,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#efd37b": {
+      "count": 19,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#6c757d": {
+      "count": 18,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#f8f9fa": {
+      "count": 18,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#f2ebe2": {
+      "count": 18,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#17a2b8": {
+      "count": 17,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#e9ecef": {
+      "count": 16,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#dcd1c2": {
+      "count": 13,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#495057": {
+      "count": 12,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#00000000": {
+      "count": 11,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882",
+        "https://nz.wishbonedesign.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a09dfd-612e-79a0-b5e7-321d7b863d7f/vario-1-166/assets/vario-embed.css"
+      ]
+    },
+    "#181818": {
+      "count": 10,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#00000080": {
+      "count": 9,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#00000040": {
+      "count": 8,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882",
+        "https://cdn.shopify.com/extensions/01a09dfd-612e-79a0-b5e7-321d7b863d7f/vario-1-166/assets/vario-embed.css"
+      ]
+    },
+    "#b8b8b8": {
+      "count": 8,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#161616": {
+      "count": 8,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 7,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663"
+      ]
+    },
+    "#d02e2e": {
+      "count": 6,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663"
+      ]
+    },
+    "#00000013": {
+      "count": 6,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#c5c5c5": {
+      "count": 6,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#71a1a180": {
+      "count": 6,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#2f2f2f80": {
+      "count": 6,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#adb5bd": {
+      "count": 6,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#598686": {
+      "count": 5,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#dce8e8": {
+      "count": 5,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#000000e6": {
+      "count": 5,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#3b5454": {
+      "count": 5,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#336644": {
+      "count": 5,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#0c5460": {
+      "count": 5,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#7c6e40": {
+      "count": 5,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#721c24": {
+      "count": 5,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#818182": {
+      "count": 5,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#00000026": {
+      "count": 5,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882",
+        "https://cdn.shopify.com/extensions/01a09dfd-612e-79a0-b5e7-321d7b863d7f/vario-1-166/assets/vario-embed.css"
+      ]
+    },
+    "#204a80": {
+      "count": 4,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663"
+      ]
+    },
+    "#c8dbdb": {
+      "count": 4,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#c0e8cd": {
+      "count": 4,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#abdde5": {
+      "count": 4,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#f9ecc3": {
+      "count": 4,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#f1b0b7": {
+      "count": 4,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#ececf6": {
+      "count": 4,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#ced4da": {
+      "count": 4,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#bed4d4": {
+      "count": 4,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#63c58340": {
+      "count": 4,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#dc354540": {
+      "count": 4,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#4e4e4e80": {
+      "count": 4,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#42b367": {
+      "count": 4,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#117a8b": {
+      "count": 4,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#e9c44e": {
+      "count": 4,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#bd2130": {
+      "count": 4,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#dae0e5": {
+      "count": 4,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#ffffff80": {
+      "count": 4,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#0000002d": {
+      "count": 4,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 3,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 3,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663"
+      ]
+    },
+    "#56ad6a": {
+      "count": 3,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663"
+      ]
+    },
+    "#0000001a": {
+      "count": 3,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#ddb3ac": {
+      "count": 3,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#4f7777": {
+      "count": 3,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#d7e5e5": {
+      "count": 3,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#d3efdc": {
+      "count": 3,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#bee5eb": {
+      "count": 3,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#fbf3da": {
+      "count": 3,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#f5c6cb": {
+      "count": 3,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#fdfdfe": {
+      "count": 3,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#4f5354": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a09dfd-612e-79a0-b5e7-321d7b863d7f/vario-1-166/assets/vario-embed.css"
+      ]
+    },
+    "#b6b6b6": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663"
+      ]
+    },
+    "#dcdcdc": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663",
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#fff6f6": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663"
+      ]
+    },
+    "#333333": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663",
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#007aff": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#ffffff40": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#91a3e5": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#f1a679": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#343a40": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#939393": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#32383e": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#88d3a1": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#e4606d": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#5e8e8e": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#86afaf80": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#0f0f0f": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#59ad7680": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#3ab0c380": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#d0b96f80": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#e1536180": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#d8d9db80": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#63c58380": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#17a2b880": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#efd37b80": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#dc354580": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#f8f9fa80": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#000000b3": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#0000004d": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#00000008": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#e2d6c5": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#d5d5d5": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#ffffffd9": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#090909": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#afb7bc": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#dddddd": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#50be74": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#5c8585": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#202223": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a09dfd-612e-79a0-b5e7-321d7b863d7f/vario-1-166/assets/vario-embed.css"
+      ]
+    },
+    "#1718180d": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a09dfd-612e-79a0-b5e7-321d7b863d7f/vario-1-166/assets/vario-embed.css"
+      ]
+    },
+    "#faf7f5": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663"
+      ]
+    },
+    "#51ab62": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663"
+      ]
+    },
+    "#163257": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663"
+      ]
+    },
+    "#0c1b2e": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663"
+      ]
+    },
+    "#c3c3c3": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663"
+      ]
+    },
+    "#a9a9a9": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663"
+      ]
+    },
+    "#a2a2a2": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663"
+      ]
+    },
+    "#d8d8d8": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663"
+      ]
+    },
+    "#0d0d0d": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663"
+      ]
+    },
+    "#ecfef0": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663"
+      ]
+    },
+    "#007bff": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#6610f2": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#fcf8e3": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#0000000d": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#b5cece": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#aee1bf": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#86cfda": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#f7e8ba": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#ed969e": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#fbfcfc": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#ffffff0d": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#ffffff13": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#63c583e6": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#dc3545e6": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#547f7f": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#47bb6d": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#3fa962": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#138496": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#10707f": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#ebc859": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#e8c042": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#c82333": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#b21f2d": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#e2e6ea": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#d3d9df": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#16181b": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#bed4d480": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#ffffffbf": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#ffffff1a": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#e3ecec": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#263636": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#e0f3e6": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#22442d": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#d1ecf1": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#062c33": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#fcf6e5": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#5a502f": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#f8d7da": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#491217": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#fefefe": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#686868": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#ebebeb": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#3ba05c": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#0f6674": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#e7bc37": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#a71d2a": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#cbd3da": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#b93d0c": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#555555": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#889f86": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#c1bc32": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#282828": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#639696": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#222222": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#e6d8c8": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#e8c152": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#e8d2d2": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#494949": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#afafaf": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#e4e4e4": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a09dfd-612e-79a0-b5e7-321d7b863d7f/vario-1-166/assets/vario-embed.css"
+      ]
+    },
+    "#babfc3": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a09dfd-612e-79a0-b5e7-321d7b863d7f/vario-1-166/assets/vario-embed.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a09dfd-612e-79a0-b5e7-321d7b863d7f/vario-1-166/assets/vario-embed.css"
+      ]
+    },
+    "#d2d5d8": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a09dfd-612e-79a0-b5e7-321d7b863d7f/vario-1-166/assets/vario-embed.css"
+      ]
+    },
+    "#fafbfb": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a09dfd-612e-79a0-b5e7-321d7b863d7f/vario-1-166/assets/vario-embed.css"
+      ]
+    },
+    "#8c9196": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a09dfd-612e-79a0-b5e7-321d7b863d7f/vario-1-166/assets/vario-embed.css"
+      ]
+    },
+    "#aadddd": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a09dfd-612e-79a0-b5e7-321d7b863d7f/vario-1-166/assets/vario-embed.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Consolas": [
+      "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663",
+      "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+    ],
+    "Courier New": [
+      "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+    ],
+    "Liberation Mono": [
+      "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+    ],
+    "Menlo": [
+      "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+    ],
+    "Monaco": [
+      "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+    ],
+    "SFMono-Regular": [
+      "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+    ],
+    "gt_walsheim_proregular": [
+      "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663",
+      "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+    ],
+    "icons": [
+      "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663"
+    ],
+    "itc-american-typewriter": [
+      "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+    ],
+    "monospace": [
+      "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663",
+      "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+    ],
+    "sans-serif": [
+      "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+    ],
+    "serif": [
+      "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663",
+      "selector": ".rte .btn,.rte .btn--secondary",
+      "declarations": "display:inline-block;padding:8px 10px;width:auto;margin:0;line-height:1.42;font-weight:700;text-decoration:none;text-align:center;vertical-align:middle;white-space:nowrap;cursor:pointer;border:1px solid transparent;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;-webkit-appearance:none;-moz-appearance:none;background-color:#204a80"
+    },
+    {
+      "source": "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663",
+      "selector": ".rte .btn:hover,.rte .btn--secondary:hover",
+      "declarations": "background-color:#163257"
+    },
+    {
+      "source": "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663",
+      "selector": ".rte .btn:active,.rte .btn--secondary:active,.rte .btn:focus,.rte .btn--secondary:focus",
+      "declarations": "background-color:#0c1b2e"
+    },
+    {
+      "source": "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663",
+      "selector": ".rte .btn[disabled],.rte [disabled].btn--secondary,.rte .btn.disabled,.rte .disabled.btn--secondary",
+      "declarations": "cursor:default;color:#b6b6b6;background-color:#f6f6f6"
+    },
+    {
+      "source": "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663",
+      "selector": ".btn--secondary,.rte .btn--secondary",
+      "declarations": "background-color:#dcdcdc"
+    },
+    {
+      "source": "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663",
+      "selector": ".btn--secondary:hover,.rte .btn--secondary:hover",
+      "declarations": "background-color:#c3c3c3"
+    },
+    {
+      "source": "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663",
+      "selector": ".btn--secondary:active,.btn--secondary:focus,.rte .btn--secondary:active,.rte .btn--secondary:focus",
+      "declarations": "background-color:#a9a9a9"
+    },
+    {
+      "source": "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663",
+      "selector": ".mobile-nav__item a,.mobile-nav__toggle button",
+      "declarations": "color:#333;padding:15px;text-decoration:none"
+    },
+    {
+      "source": "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663",
+      "selector": ".mobile-nav__item a:hover,.mobile-nav__item a:active,.mobile-nav__item a:focus,.mobile-nav__toggle button:hover,.mobile-nav__toggle button:active,.mobile-nav__t",
+      "declarations": "color:#0d0d0d"
+    },
+    {
+      "source": "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663",
+      "selector": ".mobile-nav__item a:active,.mobile-nav__item a:focus,.mobile-nav__toggle button:active,.mobile-nav__toggle button:focus",
+      "declarations": "background-color:#e9e9e9"
+    },
+    {
+      "source": "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882",
+      "selector": "@charset \"UTF-8\";:root",
+      "declarations": "--blue: #007bff;--indigo: #6610f2;--purple: #91a3e5;--pink: #ddb3ac;--red: #dc3545;--orange: #f1a679;--yellow: #efd37b;--green: #63c583;--teal: #71a1a1;--cyan: #17a2b8;--white: #ffffff;--gray: #6c757d;--gray-dark: #343a40;--primary: #71a1a1;--secondary: #2f2f2f;--success: #63c583;--info: #17a2b8;--warning: #efd37b;--danger: #dc3545;--light: #f8f9fa;--dark: #2f2f2f;--breakpoint-xs: 0;--breakpoint-sm: 576px;--breakpoint-md: 768px;--breakpoint-lg: 992px;--breakpoint-xl: 1200px;--font-family-sans-serif: gt_walsheim_proregular, sans-serif;--font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, \"Liberation Mono\", \"Courier New\", monospace"
+    },
+    {
+      "source": "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882",
+      "selector": "body",
+      "declarations": "margin:0;font-family:gt_walsheim_proregular,sans-serif;font-size:1rem;font-weight:400;line-height:1.5;color:#2f2f2f;text-align:left;background-color:#f2ebe2"
+    },
+    {
+      "source": "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882",
+      "selector": "input,button,select,optgroup,textarea",
+      "declarations": "margin:0;font-family:inherit;font-size:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882",
+      "selector": "h1,h2,h3,h4,h5,h6,.h1,.product-section__reviews #shopify-product-reviews .spr-header h2.spr-header-title,.h2,.h3,.h4,.h5,.h6",
+      "declarations": "margin-bottom:.5rem;font-family:itc-american-typewriter,serif;font-weight:700;line-height:1.2;color:inherit"
+    },
+    {
+      "source": "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882",
+      "selector": ".table-striped tbody tr:nth-of-type(odd)",
+      "declarations": "background-color:#0000000d"
+    },
+    {
+      "source": "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882",
+      "selector": ".table-hover tbody tr:hover",
+      "declarations": "background-color:#00000013"
+    },
+    {
+      "source": "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882",
+      "selector": ".table-primary th,.table-primary td,.table-primary thead th,.table-primary tbody+tbody",
+      "declarations": "border-color:#b5cece"
+    },
+    {
+      "source": "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882",
+      "selector": ".table-secondary th,.table-secondary td,.table-secondary thead th,.table-secondary tbody+tbody",
+      "declarations": "border-color:#939393"
+    },
+    {
+      "source": "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882",
+      "selector": ".table-success th,.table-success td,.table-success thead th,.table-success tbody+tbody",
+      "declarations": "border-color:#aee1bf"
+    },
+    {
+      "source": "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882",
+      "selector": ".table-info th,.table-info td,.table-info thead th,.table-info tbody+tbody",
+      "declarations": "border-color:#86cfda"
+    },
+    {
+      "source": "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882",
+      "selector": ".table-warning th,.table-warning td,.table-warning thead th,.table-warning tbody+tbody",
+      "declarations": "border-color:#f7e8ba"
+    },
+    {
+      "source": "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882",
+      "selector": ".table-danger th,.table-danger td,.table-danger thead th,.table-danger tbody+tbody",
+      "declarations": "border-color:#ed969e"
+    },
+    {
+      "source": "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882",
+      "selector": ".table-light th,.table-light td,.table-light thead th,.table-light tbody+tbody",
+      "declarations": "border-color:#fbfcfc"
+    },
+    {
+      "source": "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882",
+      "selector": ".table-dark th,.table-dark td,.table-dark thead th,.table-dark tbody+tbody",
+      "declarations": "border-color:#939393"
+    },
+    {
+      "source": "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882",
+      "selector": ".table-dark.table-striped tbody tr:nth-of-type(odd)",
+      "declarations": "background-color:#ffffff0d"
+    },
+    {
+      "source": "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882",
+      "selector": ".table-dark.table-hover tbody tr:hover",
+      "declarations": "background-color:#ffffff13"
+    },
+    {
+      "source": "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882",
+      "selector": ".btn,#store-locator #storemapper #storemapper-left #storemapper-list a.storemapper-storelink,#store-locator #storemapper #storemapper-left #storemapper-list p.s",
+      "declarations": "display:inline-block;font-weight:400;color:#2f2f2f;text-align:center;vertical-align:middle;-webkit-user-select:none;user-select:none;background-color:transparent;border:1px solid transparent;padding:11px .75rem;font-size:1rem;line-height:1.5;border-radius:0;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out"
+    },
+    {
+      "source": "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882",
+      "selector": ".btn-primary,#store-locator #storemapper #storemapper-left #storemapper-go",
+      "declarations": "color:#fff;background-color:#71a1a1;border-color:#71a1a1"
+    },
+    {
+      "source": "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882",
+      "selector": ".btn-primary:hover,#store-locator #storemapper #storemapper-left #storemapper-go:hover",
+      "declarations": "color:#fff;background-color:#5e8e8e;border-color:#598686"
+    },
+    {
+      "source": "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882",
+      "selector": ".btn-primary.disabled,#store-locator #storemapper #storemapper-left .disabled#storemapper-go,.btn-primary:disabled,#store-locator #storemapper #storemapper-left",
+      "declarations": "color:#fff;background-color:#71a1a1;border-color:#71a1a1"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Classic Bikes Trikes and Ride On Toys for Babies and Toddlers – Wishbone Design Studio NZ",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nz.wishbonedesign.com/",
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663",
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882",
+        "https://nz.wishbonedesign.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a09dfd-612e-79a0-b5e7-321d7b863d7f/vario-1-166/assets/vario-embed.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nz.wishbonedesign.com/",
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663",
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882",
+        "https://nz.wishbonedesign.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a09dfd-612e-79a0-b5e7-321d7b863d7f/vario-1-166/assets/vario-embed.css"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663"
+      ]
+    },
+    "colors.accent-blue-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "colors.dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "colors.tan": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "colors.teal-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "colors.teal-pale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "colors.gray-light": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "colors.disabled-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/timber.scss.css?v=86406401887276019151714871663"
+      ]
+    },
+    "colors.disabled-text": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://nz.wishbonedesign.com/cdn/shop/t/25/assets/bundle.css?v=105155878826619329781714774882"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.age-range-badge": {
+      "status": "inferred"
+    }
+  }
+}

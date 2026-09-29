@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Jensen Outdoor
-description: Deep navy (#272c51) dominates the header band and footer slab like the twilight edge of a teak table caught in low evening light — a color dark enough to feel architectural but warm enough (via its purple undertone) to avoid the clinical sterility of pure black outdoor-brand defaults. Display type runs in Parisine Std Narrow, a compressed humanist face originally designed for Parisian transit signage, lending headings a European industrial pedigree that pairs unexpectedly well with the organic grain of outdoor timber photography. Body and UI text shifts to Poppins at 400–500 weight with generous line-height (1.6+), creating a visual breath between dense product specification tables. The active CTA blue (#1890d7) is tuned warmer than a standard link blue — closer to swimming-pool cerulean — giving "Add to Cart" and configurator actions a poolside associative nudge without reading as hyperlink-generic. Card surfaces float on a pale canvas (#f0f0f0) with `{rounded.sm}` corners, subtle enough that furniture photography bleeds edge-to-edge; only interactive containers like the material-selector pills and search fields take `{rounded.full}`. A dark teak-brown (#382110) appears in category badges and hover underlines, anchoring the palette to physical material rather than digital abstraction. Spacing runs generous throughout — `{spacing.section}` separates lifestyle hero from product grid, and individual cards sit in `{spacing.lg}` gutters even at tablet breakpoints, refusing to crowd imagery that needs to breathe. The overall system reads as a print catalogue digitized with restraint: generous whitespace, limited color vocabulary, and a type hierarchy that trusts photography to do the emotional selling while text stays informational and crisp.
+name: "Jensen Outdoor"
+source_url: "https://www.jensenoutdoor.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Deep navy (#272c51) dominates the header band and footer slab like the twilight edge of a teak table caught in low evening light — a color dark enough to feel architectural but warm enough (via its purple undertone) to avoid the clinical sterility of pure black outdoor-brand defaults. Display type runs in Parisine Std Narrow, a compressed humanist face originally designed for Parisian transit signage, lending headings a European industrial pedigree that pairs unexpectedly well with the organic grain of outdoor timber photography. Body and UI text shifts to Poppins at 400–500 weight with generous line-height (1.6+), creating a visual breath between dense product specification tables. The active CTA blue (#1890d7) is tuned warmer than a standard link blue — closer to swimming-pool cerulean — giving "Add to Cart" and configurator actions a poolside associative nudge without reading as hyperlink-generic. Card surfaces float on a pale canvas (#f0f0f0) with `{rounded.sm}` corners, subtle enough that furniture photography bleeds edge-to-edge; only interactive containers like the material-selector pills and search fields take `{rounded.full}`. A dark teak-brown (#382110) appears in category badges and hover underlines, anchoring the palette to physical material rather than digital abstraction. Spacing runs generous throughout — `{spacing.section}` separates lifestyle hero from product grid, and individual cards sit in `{spacing.lg}` gutters even at tablet breakpoints, refusing to crowd imagery that needs to breathe. The overall system reads as a print catalogue digitized with restraint: generous whitespace, limited color vocabulary, and a type hierarchy that trusts photography to do the emotional selling while text stays informational and crisp.
 
 colors:
   primary: "#272c51"
@@ -375,6 +379,8 @@ components:
 - Footer newsletter: inline input + button → stacked full-width input then button below
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Many extracted hex values (#5865f2, #02e49b, #e94c89, #f00075, #0866ff, #f6405f, etc.) are almost certainly social-media icon colors or third-party widget defaults rather than brand tokens — excluded from the palette
 - No CSS custom properties or design-token JSON was extractable; color assignments are inferred from frequency and context positioning

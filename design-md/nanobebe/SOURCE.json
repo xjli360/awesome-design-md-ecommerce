@@ -1,0 +1,634 @@
+{
+  "source_url": "https://nanobebe.com",
+  "final_url": "https://www.nanobebe.com/",
+  "captured_at": "2026-09-28T04:54:03.861400+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://nanobebe.com",
+      "final_url": "https://www.nanobebe.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "2c8258597885f13ff85d8ac72e946c39ee960b519121a488b3e19b58bfd93aae",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.nanobebe.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.nanobebe.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191",
+      "final_url": "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4d5776d74e057209c3c24f2f1aa94b576b6733e4e6b81d4812585563b84f5270",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+      "final_url": "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "74ca6aae5468dbc924790c3b4d219a089b90a34bad53a0f7ca3a73e73b6f5ab8",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 12,
+      "sources": [
+        "https://www.nanobebe.com/",
+        "https://www.nanobebe.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191",
+        "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+      ]
+    },
+    "#00000000": {
+      "count": 12,
+      "sources": [
+        "https://www.nanobebe.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191"
+      ]
+    },
+    "#a2b790": {
+      "count": 6,
+      "sources": [
+        "https://www.nanobebe.com/"
+      ]
+    },
+    "#000000": {
+      "count": 6,
+      "sources": [
+        "https://www.nanobebe.com/",
+        "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191",
+        "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+      ]
+    },
+    "#121212": {
+      "count": 3,
+      "sources": [
+        "https://www.nanobebe.com/",
+        "https://www.nanobebe.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 2,
+      "sources": [
+        "https://www.nanobebe.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 2,
+      "sources": [
+        "https://www.nanobebe.com/"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.nanobebe.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191"
+      ]
+    },
+    "#dadada": {
+      "count": 1,
+      "sources": [
+        "https://www.nanobebe.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://www.nanobebe.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://www.nanobebe.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://www.nanobebe.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://www.nanobebe.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://www.nanobebe.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://www.nanobebe.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://www.nanobebe.com/"
+      ]
+    },
+    "#23185c": {
+      "count": 1,
+      "sources": [
+        "https://www.nanobebe.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.nanobebe.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.nanobebe.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191"
+      ]
+    },
+    "#3636364d": {
+      "count": 1,
+      "sources": [
+        "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191"
+      ]
+    },
+    "#00000066": {
+      "count": 1,
+      "sources": [
+        "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191"
+      ]
+    },
+    "#28a745": {
+      "count": 1,
+      "sources": [
+        "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191"
+      ]
+    },
+    "#ff9800": {
+      "count": 1,
+      "sources": [
+        "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191"
+      ]
+    },
+    "#dc3545": {
+      "count": 1,
+      "sources": [
+        "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191"
+      ]
+    },
+    "#007aff": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Consolas": [
+      "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191"
+    ],
+    "Courier New": [
+      "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191"
+    ],
+    "Instrument Sans": [
+      "https://www.nanobebe.com/"
+    ],
+    "Josefin Sans": [
+      "https://www.nanobebe.com/"
+    ],
+    "Liberation Mono": [
+      "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191"
+    ],
+    "Menlo": [
+      "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191"
+    ],
+    "Monaco": [
+      "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191"
+    ],
+    "Nunito": [
+      "https://www.nanobebe.com/"
+    ],
+    "SFMono-Regular": [
+      "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191"
+    ],
+    "monospace": [
+      "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191"
+    ],
+    "sans-serif": [
+      "https://www.nanobebe.com/"
+    ],
+    "swiper-icons": [
+      "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+    ],
+    "ui-monospace": [
+      "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.nanobebe.com/",
+      "selector": "[dir=\"rtl\"]:root",
+      "declarations": "--transform-logical-flip: -1;\n    --transform-origin-start: right;\n    --transform-origin-end: left;"
+    },
+    {
+      "source": "https://www.nanobebe.com/",
+      "selector": ":root",
+      "declarations": "--text-xs: 0.875rem;\n      --text-sm: 0.9375rem;\n      --text-base: 1.0rem;\n      --text-lg: 1.125rem;\n      --text-xl: 1.375rem;\n\n      \n      --container-gutter: 2rem;"
+    },
+    {
+      "source": "https://www.nanobebe.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: 3rem;\n\n      --section-vertical-spacing: 3.5rem;\n      --section-vertical-spacing-tight: 3.5rem;\n\n      --section-stack-gap:2.5rem;\n      --section-stack-gap-tight:2.5rem;"
+    },
+    {
+      "source": "https://www.nanobebe.com/",
+      "selector": ":root",
+      "declarations": "--page-overlay: 0 0 0 / 0.4;\n\n    \n    --page-background: ;\n\n    \n    --on-sale-text: 0 178 169;\n    --on-sale-badge-background: 0 178 169;\n    --on-sale-badge-text: 255 255 255;\n    --sold-out-badge-background: 239 239 239;\n    --sold-out-badge-text: 0 0 0 / 0.65;\n    --custom-badge-background: 28 28 28;\n    --custom-badge-text: 255 255 255;\n    --star-color: 28 28 28;\n\n    \n    --success-background: 201 201 201;\n    --success-text: 0 0 0;\n    --warning-background: 224 224 224;\n    --warning-text: 0 0 0;\n    --error-background: 194 194 194;\n    --error-text: 0 0 0;\n\n    \n    --modal-scheme-background: 255 255 255;\n    --modal-scheme-background-gradient: ;\n    --modal-scheme-text-color: 0 0 "
+    },
+    {
+      "source": "https://www.nanobebe.com/",
+      "selector": "display: contents\ndisplay: contents\ndisplay: contents\nposition: absolute; width: 1px; height: 1px; top: var(--header-scroll-tracker-offset, 10px); left: 0;\n\n   ",
+      "declarations": "--announcement-bar-is-sticky: 0;--header-scroll-tracker-offset: var(--announcement-bar-height);"
+    },
+    {
+      "source": "https://www.nanobebe.com/",
+      "selector": ":root",
+      "declarations": "--header-is-sticky: 1;"
+    },
+    {
+      "source": "https://www.nanobebe.com/",
+      "selector": "#shopify-section-sections--27640656888101__header",
+      "declarations": "--header-grid: \"primary-nav logo secondary-nav\" / minmax(0, 1fr) auto minmax(0, 1fr);\n    --header-padding-block: 1rem;\n    --header-transparent-header-text-color: 255 255 255;\n    --header-separation-border-color: 0 0 0 / 0.15;\n\n    position: relative;\n    z-index: 4;"
+    },
+    {
+      "source": "https://www.nanobebe.com/",
+      "selector": "#shopify-section-sections--27640656888101__header",
+      "declarations": "--header-padding-block: 1.6rem;"
+    },
+    {
+      "source": "https://www.nanobebe.com/",
+      "selector": "#shopify-section-sections--27640656888101__header",
+      "declarations": "--header-grid: \". logo secondary-nav\" \"primary-nav primary-nav primary-nav\" / minmax(0, 1fr) auto minmax(0, 1fr);"
+    },
+    {
+      "source": "https://www.nanobebe.com/",
+      "selector": "#shopify-section-sections--27640656888101__header",
+      "declarations": "--header-logo-width: 140px;"
+    },
+    {
+      "source": "https://www.nanobebe.com/",
+      "selector": "#shopify-section-sections--27640656888101__header",
+      "declarations": "--header-logo-width: 210px;"
+    },
+    {
+      "source": "https://www.nanobebe.com/",
+      "selector": ".asw-widget-button-top",
+      "declarations": "position: absolute !important;\n     top: 10px !important;\n     left: 10px !important;\n     background-color: #000 !important;\n     color: #fff !important;\n     text-decoration: none !important;\n     overflow: hidden;\n     width: 1px !important;\n     height: 1px !important;\n     margin: -1px !important;\n     padding: 0 !important;\n     border: 0 !important;\n     clip: rect(0 0 0 0) !important;\n     word-wrap: normal !important;"
+    },
+    {
+      "source": "https://www.nanobebe.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.nanobebe.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.nanobebe.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.nanobebe.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.nanobebe.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.nanobebe.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-family:inherit;font-size:100%;font-weight:inherit;font-style:inherit;line-height:inherit;text-transform:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191",
+      "selector": "button,[type=button],[type=reset],[type=submit]",
+      "declarations": "-webkit-appearance:button;background-color:#0000;background-image:none"
+    },
+    {
+      "source": "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191",
+      "selector": "button,label,summary,[role=button],[type=checkbox],[type=radio]",
+      "declarations": "-webkit-tap-highlight-color:transparent;touch-action:manipulation;cursor:pointer"
+    },
+    {
+      "source": "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191",
+      "selector": ".color-scheme--with-image-overlay .button--outline",
+      "declarations": "--border-color: var(--text-color)"
+    },
+    {
+      "source": "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191",
+      "selector": ".button,.shopify-challenge__button,.shopify-payment-button__button--unbranded",
+      "declarations": "--initial-gradient: linear-gradient(rgb(var(--button-background)), rgb(var(--button-background)));--hover-gradient: linear-gradient(transparent, transparent);--initial-background-position: var(--transform-origin-end);--hover-background-position: var(--transform-origin-start);-webkit-appearance:none;appearance:none;text-transform:var(--button-text-transform);font:var(--button-font);letter-spacing:var(--button-letter-spacing);text-shadow:none;text-align:center;cursor:pointer;color:rgb(var(--button-text-color));border:1px solid rgb(var(--button-outline-color, var(--button-background)));border-radius:var(--button-border-radius);background-color:#0000;background-image:var(--initial-gradient),var("
+    },
+    {
+      "source": "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "border:1px solid rgb(var(--button-outline-color, var(--button-background)))!important;border-radius:var(--button-border-radius)!important;background-color:#0000!important;transition:background-size .45s cubic-bezier(.785,.135,.15,.86),background-position .45s step-end,color .45s cubic-bezier(.785,.135,.15,.86),border .45s cubic-bezier(.785,.135,.15,.86)!important"
+    },
+    {
+      "source": "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191",
+      "selector": ".shopify-payment-button__button--unbranded:not(:hover)",
+      "declarations": "color:rgb(var(--button-text-color))!important"
+    },
+    {
+      "source": "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191",
+      "selector": ".button--outline",
+      "declarations": "--initial-gradient: linear-gradient(transparent, transparent);--hover-gradient: linear-gradient(rgb(var(--button-background)), rgb(var(--button-background)));--initial-background-position: var(--transform-origin-start);--hover-background-position: var(--transform-origin-end);color:rgb(var(--button-background, var(--text-color)));border-color:rgb(var(--button-outline-color, var(--border-color)))"
+    },
+    {
+      "source": "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191",
+      "selector": ".button--subdued.button--outline",
+      "declarations": "color:rgb(var(--button-background) / .65);border-color:rgb(var(--border-color))"
+    },
+    {
+      "source": "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191",
+      "selector": ".features--button-transition :is(.button,.shopify-challenge__button,.shopify-payment-button__button--unbranded):not([disabled]):hover",
+      "declarations": "color:rgb(var(--button-background));background-position:var(--hover-background-position);border-color:rgb(var(--button-background));background-size:0 101%,101% 101%"
+    },
+    {
+      "source": "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191",
+      "selector": ".features--button-transition .shopify-payment-button__button--unbranded:not([disabled]):hover",
+      "declarations": "background-color:#0000"
+    },
+    {
+      "source": "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191",
+      "selector": ".features--button-transition .button--outline:not([disabled]):hover",
+      "declarations": "color:rgb(var(--button-text-color))"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Award-Winning Baby Care Products",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.nanobebe.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.nanobebe.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.nanobebe.com/",
+        "https://www.nanobebe.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191",
+        "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.nanobebe.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.nanobebe.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.nanobebe.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.nanobebe.com/",
+        "https://www.nanobebe.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191",
+        "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.nanobebe.com/",
+        "https://www.nanobebe.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191",
+        "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"
+      ]
+    },
+    "colors.secondary-action": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.nanobebe.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.secondary-action-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.nanobebe.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.overlay": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191"
+      ]
+    },
+    "colors.error": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.nanobebe.com/cdn/shop/t/139/assets/theme.css?v=153781274076564233951782987191"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.color-swatch-selector": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    }
+  }
+}

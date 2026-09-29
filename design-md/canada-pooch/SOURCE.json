@@ -1,0 +1,830 @@
+{
+  "source_url": "https://canadapooch.com",
+  "final_url": "https://canadapooch.com/",
+  "captured_at": "2026-09-28T09:53:37.859386+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://canadapooch.com",
+      "final_url": "https://canadapooch.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "9b0ca369bb97d1da4b230c7fd17f3510fc4d36c67c07368241ba8e31b1f57b06",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://canadapooch.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://canadapooch.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304",
+      "final_url": "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d06fd71b1bf8c9c490b8ef37aaa9fd96dc38c2ece0c237f594a0bff322c7f0a1",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://canadapooch.com/cdn/shop/t/210/assets/template.index.css?v=17502786653717222541790013304",
+      "final_url": "https://canadapooch.com/cdn/shop/t/210/assets/template.index.css?v=17502786653717222541790013304",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9804f14f3479432e5cc2bf79b258f9464c668cb75fa2c9aeb7f2afba2e91fff2",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://canadapooch.com/cdn/shop/t/210/assets/custom.css?v=23981643810734540621790192928",
+      "final_url": "https://canadapooch.com/cdn/shop/t/210/assets/custom.css?v=23981643810734540621790192928",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "4c6544cfc2f5200f34f7c9b8f9f5167bc9795056bb5c630a61d2d3419c0305d5",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://canadapooch.com/cdn/shop/t/210/assets/dropdowns-alt.css?v=157520077188946287841790013304",
+      "final_url": "https://canadapooch.com/cdn/shop/t/210/assets/dropdowns-alt.css?v=157520077188946287841790013304",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e8e910900036dd0e01d7ea7239547251f770aab2089fe10e7412f8807791bb8c",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 167,
+      "sources": [
+        "https://canadapooch.com/",
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304",
+        "https://canadapooch.com/cdn/shop/t/210/assets/template.index.css?v=17502786653717222541790013304",
+        "https://canadapooch.com/cdn/shop/t/210/assets/dropdowns-alt.css?v=157520077188946287841790013304"
+      ]
+    },
+    "#ffffff": {
+      "count": 137,
+      "sources": [
+        "https://canadapooch.com/",
+        "https://canadapooch.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304",
+        "https://canadapooch.com/cdn/shop/t/210/assets/template.index.css?v=17502786653717222541790013304",
+        "https://canadapooch.com/cdn/shop/t/210/assets/dropdowns-alt.css?v=157520077188946287841790013304"
+      ]
+    },
+    "#606e76": {
+      "count": 62,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304",
+        "https://canadapooch.com/cdn/shop/t/210/assets/template.index.css?v=17502786653717222541790013304"
+      ]
+    },
+    "#005c88": {
+      "count": 48,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304",
+        "https://canadapooch.com/cdn/shop/t/210/assets/template.index.css?v=17502786653717222541790013304"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 36,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304",
+        "https://canadapooch.com/cdn/shop/t/210/assets/template.index.css?v=17502786653717222541790013304"
+      ]
+    },
+    "#383a3d": {
+      "count": 26,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 17,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "#f0f4f5": {
+      "count": 12,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304",
+        "https://canadapooch.com/cdn/shop/t/210/assets/template.index.css?v=17502786653717222541790013304"
+      ]
+    },
+    "#555555": {
+      "count": 10,
+      "sources": [
+        "https://canadapooch.com/",
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304",
+        "https://canadapooch.com/cdn/shop/t/210/assets/template.index.css?v=17502786653717222541790013304"
+      ]
+    },
+    "#cccccc": {
+      "count": 8,
+      "sources": [
+        "https://canadapooch.com/",
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304",
+        "https://canadapooch.com/cdn/shop/t/210/assets/template.index.css?v=17502786653717222541790013304"
+      ]
+    },
+    "#b0060a": {
+      "count": 8,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "#dc3737": {
+      "count": 6,
+      "sources": [
+        "https://canadapooch.com/"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 6,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304",
+        "https://canadapooch.com/cdn/shop/t/210/assets/template.index.css?v=17502786653717222541790013304"
+      ]
+    },
+    "#3d4246": {
+      "count": 4,
+      "sources": [
+        "https://canadapooch.com/"
+      ]
+    },
+    "#b0b0b0": {
+      "count": 4,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304",
+        "https://canadapooch.com/cdn/shop/t/210/assets/template.index.css?v=17502786653717222541790013304"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 3,
+      "sources": [
+        "https://canadapooch.com/"
+      ]
+    },
+    "#2e3133": {
+      "count": 3,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "#fafafa": {
+      "count": 3,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "#231f20": {
+      "count": 2,
+      "sources": [
+        "https://canadapooch.com/"
+      ]
+    },
+    "#e8e7e8": {
+      "count": 2,
+      "sources": [
+        "https://canadapooch.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://canadapooch.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://canadapooch.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#4d8cab": {
+      "count": 2,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "#0a5593": {
+      "count": 2,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "#f7f6f3": {
+      "count": 2,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "#777777": {
+      "count": 2,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "#e4e1e1": {
+      "count": 2,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 2,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "#032e51": {
+      "count": 2,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 2,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "#d9f3ff": {
+      "count": 2,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "#69727b": {
+      "count": 1,
+      "sources": [
+        "https://canadapooch.com/"
+      ]
+    },
+    "#666666": {
+      "count": 1,
+      "sources": [
+        "https://canadapooch.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://canadapooch.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://canadapooch.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://canadapooch.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#e6eef5": {
+      "count": 1,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "#ebebeb": {
+      "count": 1,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "#999999": {
+      "count": 1,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "#979797": {
+      "count": 1,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "#ededed": {
+      "count": 1,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "#8e0205": {
+      "count": 1,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "#f2f3f4": {
+      "count": 1,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 1,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "#eeeeee": {
+      "count": 1,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "#c6cbd4": {
+      "count": 1,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 1,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "#7a7a7a": {
+      "count": 1,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "#8b0000": {
+      "count": 1,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "#bebebe": {
+      "count": 1,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 1,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "#b6b6ae": {
+      "count": 1,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "#e3e3e3": {
+      "count": 1,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 1,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "#7c7c7c": {
+      "count": 1,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 1,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/dropdowns-alt.css?v=157520077188946287841790013304"
+      ]
+    },
+    "#000000bf": {
+      "count": 1,
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/dropdowns-alt.css?v=157520077188946287841790013304"
+      ]
+    }
+  },
+  "font_families": {
+    "Maison Neue Bold": [
+      "https://canadapooch.com/",
+      "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+    ],
+    "Maison Neue Book": [
+      "https://canadapooch.com/",
+      "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304",
+      "https://canadapooch.com/cdn/shop/t/210/assets/template.index.css?v=17502786653717222541790013304"
+    ],
+    "Maison Neue Light": [
+      "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+    ],
+    "Maison Neue Medium": [
+      "https://canadapooch.com/",
+      "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+    ],
+    "Orange Juice": [
+      "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+    ],
+    "Trade Gothic Bold": [
+      "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304",
+      "https://canadapooch.com/cdn/shop/t/210/assets/template.index.css?v=17502786653717222541790013304"
+    ],
+    "Trade Gothic Light": [
+      "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+    ],
+    "Trade Gothic Pro": [
+      "https://canadapooch.com/"
+    ],
+    "Trade Gothic Regular": [
+      "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304",
+      "https://canadapooch.com/cdn/shop/t/210/assets/template.index.css?v=17502786653717222541790013304"
+    ],
+    "sans-serif": [
+      "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304",
+      "https://canadapooch.com/cdn/shop/t/210/assets/template.index.css?v=17502786653717222541790013304"
+    ],
+    "sans-serif !important": [
+      "https://canadapooch.com/",
+      "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+    ],
+    "slick": [
+      "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://canadapooch.com/",
+      "selector": "h1, h2,h3,h4,h5,h6,\r\n    .h1, .h2,.h3,.h4,.h5,.h6,\r\n    [class*=\"title\"]",
+      "declarations": "font-family: Maison Neue Bold, sans-serif !important;\r\n        font-weight: 400 !important;"
+    },
+    {
+      "source": "https://canadapooch.com/",
+      "selector": "display:none;\nbackground-color: #E8E7E8;\nbackground-color: #E8E7E8;\n\n  .ai-product-carousel-antjmwmffm05rast2waigenblockfb22510cw3krq",
+      "declarations": "padding: 40px 20px 40px 20px;\n    background-color: #ffffff;"
+    },
+    {
+      "source": "https://canadapooch.com/",
+      "selector": ".ai-product-carousel__title-antjmwmffm05rast2waigenblockfb22510cw3krq",
+      "declarations": "font-size: 32px;\n    color: #000000;\n    margin: 0 0 8px 0;\n    font-weight: 600;"
+    },
+    {
+      "source": "https://canadapooch.com/",
+      "selector": ".ai-product-carousel__subtitle-antjmwmffm05rast2waigenblockfb22510cw3krq",
+      "declarations": "font-size: 16px;\n    color: #69727b;\n    margin: 0;"
+    },
+    {
+      "source": "https://canadapooch.com/",
+      "selector": ".ai-product-carousel__image-wrapper-antjmwmffm05rast2waigenblockfb22510cw3krq",
+      "declarations": "position: relative;\n    overflow: hidden;\n    margin-bottom: 12px;\n    background-color: #f4f4f4;"
+    },
+    {
+      "source": "https://canadapooch.com/",
+      "selector": ".ai-product-carousel__image-placeholder-antjmwmffm05rast2waigenblockfb22510cw3krq",
+      "declarations": "width: 100%;\n    aspect-ratio: 1;\n    background-color: #f4f4f4;\n    display: flex;\n    align-items: center;\n    justify-content: center;"
+    },
+    {
+      "source": "https://canadapooch.com/",
+      "selector": ".ai-product-carousel__swatches-antjmwmffm05rast2waigenblockfb22510cw3krq",
+      "declarations": "position: absolute;\n    bottom: 12px;\n    left: 50%;\n    transform: translateX(-50%);\n    background-color: rgba(255, 255, 255, 0.95);\n    padding: 8px 12px;\n    border-radius: 20px;\n    opacity: 0;\n    visibility: hidden;\n    transition: opacity 0.3s ease, visibility 0.3s ease;\n    white-space: nowrap;\n    font-size: 12px;\n    color: #3d4246;\n    font-weight: 500;\n    z-index: 2;"
+    },
+    {
+      "source": "https://canadapooch.com/",
+      "selector": ".ai-product-carousel__product-title-antjmwmffm05rast2waigenblockfb22510cw3krq",
+      "declarations": "font-size: 16px;\n    color: #000000;\n    margin: 0 0 8px 0;\n    font-weight: 500;"
+    },
+    {
+      "source": "https://canadapooch.com/",
+      "selector": ".ai-product-carousel__product-title-antjmwmffm05rast2waigenblockfb22510cw3krq a",
+      "declarations": "color: inherit;\n    text-decoration: none;"
+    },
+    {
+      "source": "https://canadapooch.com/",
+      "selector": ".ai-product-carousel__price-antjmwmffm05rast2waigenblockfb22510cw3krq",
+      "declarations": "font-size: 14px;\n    color: #3d4246;\n    font-weight: 500;"
+    },
+    {
+      "source": "https://canadapooch.com/",
+      "selector": ".ai-product-carousel__nav-antjmwmffm05rast2waigenblockfb22510cw3krq",
+      "declarations": "position: absolute;\n    top: 50%;\n    transform: translateY(-50%);\n    background-color: #ffffff;\n    color: #3d4246;\n    border: none;\n    width: 44px;\n    height: 44px;\n    border-radius: 50%;\n    cursor: pointer;\n    display: flex;\n    align-items: center;\n    justify-content: center;\n    z-index: 3;\n    transition: opacity 0.3s ease;"
+    },
+    {
+      "source": "https://canadapooch.com/",
+      "selector": ".ai-product-carousel__dot-antjmwmffm05rast2waigenblockfb22510cw3krq",
+      "declarations": "width: 8px;\n    height: 8px;\n    border-radius: 50%;\n    background-color: #3d4246;\n    opacity: 0.3;\n    border: none;\n    padding: 0;\n    cursor: pointer;\n    transition: opacity 0.3s ease;"
+    },
+    {
+      "source": "https://canadapooch.com/",
+      "selector": "div.fs-text-container .fs-entry-date,\n  div.fs-detail-container .fs-post-info,\n  div.fs-wrapper div.fs-has-links::after,\n  .fs-text-product,\n  .fs-overlink-text",
+      "declarations": "font-family: Maison Neue Book;\n    font-style: normal;\n    font-weight: normal;\n    font-size: 12px;"
+    },
+    {
+      "source": "https://canadapooch.com/",
+      "selector": ":root",
+      "declarations": "--footer-nav-columns-mobile: 2;\n        --footer-nav-columns-tablet: 3;\n        --footer-nav-columns-desktop: 3;"
+    },
+    {
+      "source": "https://canadapooch.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://canadapooch.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://canadapooch.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://canadapooch.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://canadapooch.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://canadapooch.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304",
+      "selector": "body, html",
+      "declarations": "margin: 0;font-family: Maison Neue Book, sans-serif"
+    },
+    {
+      "source": "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304",
+      "selector": "h1",
+      "declarations": "font-family: Trade Gothic Bold, sans-serif;font-size: 51.25px;line-height: 58.58px"
+    },
+    {
+      "source": "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304",
+      "selector": ".header-promo-bar",
+      "declarations": "display: flex;width: 100%;height: 50px;background-color: #e6eef5"
+    },
+    {
+      "source": "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304",
+      "selector": ".header-promo-bar__inner .promo-message",
+      "declarations": "color: #005c88;font-size: 12px;font-family: Maison Neue Medium, sans-serif;letter-spacing: .1px"
+    },
+    {
+      "source": "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304",
+      "selector": ".header-promo-bar__inner .carousel__control .chevron-left",
+      "declarations": "border-bottom-color: #005c88;border-left-color: #005c88"
+    },
+    {
+      "source": "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304",
+      "selector": ".header-promo-bar__inner .carousel__control .chevron-right",
+      "declarations": "border-top-color: #005c88;border-right-color: #005c88"
+    },
+    {
+      "source": "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304",
+      "selector": ".site-header",
+      "declarations": "border-bottom: .5px solid #606e76;z-index: 999;background-color: #fff"
+    },
+    {
+      "source": "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304",
+      "selector": ".site-header-mobile-menu-toggle .hamburger .hamburger-box span",
+      "declarations": "display: block;position: absolute;height: 1px;width: 100%;background-color: #000;border-radius: 1px;opacity: 1;left: 0;transform: rotate(0deg);transition: .25s ease-in-out"
+    },
+    {
+      "source": "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304",
+      "selector": ".header-nav-cart-count-container",
+      "declarations": "display: none;position: absolute;top: -7px;right: -6px;background-color: #000;border: 1px solid #fff;border-radius: 14px;padding: 7px"
+    },
+    {
+      "source": "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304",
+      "selector": ".header-nav-cart-count",
+      "declarations": "color: #fff;font-size: 8px;padding: 6px;position: absolute;top: 50%;left: 50%;transform: translate(-50%, -50%);text-align: center;font-family: Trade Gothic Bold, sans-serif"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Canada Pooch | Dog Clothes and Accessories – Dog Apparel",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://canadapooch.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://canadapooch.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://canadapooch.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://canadapooch.com/",
+        "https://canadapooch.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304",
+        "https://canadapooch.com/cdn/shop/t/210/assets/template.index.css?v=17502786653717222541790013304",
+        "https://canadapooch.com/cdn/shop/t/210/assets/dropdowns-alt.css?v=157520077188946287841790013304"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://canadapooch.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://canadapooch.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304",
+        "https://canadapooch.com/cdn/shop/t/210/assets/template.index.css?v=17502786653717222541790013304"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://canadapooch.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://canadapooch.com/",
+        "https://canadapooch.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304",
+        "https://canadapooch.com/cdn/shop/t/210/assets/template.index.css?v=17502786653717222541790013304",
+        "https://canadapooch.com/cdn/shop/t/210/assets/dropdowns-alt.css?v=157520077188946287841790013304"
+      ]
+    },
+    "colors.accent-sale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "colors.footer-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://canadapooch.com/cdn/shop/t/210/assets/layout.theme.css?v=146133168667323324231790013304"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.swatch-selector": {
+      "status": "inferred"
+    }
+  }
+}

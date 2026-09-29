@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Kamado Joe
-description: |
+name: "Kamado Joe"
+source_url: "https://www.kamadojoe.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   That unmistakable ember-red (#e2231a) hits before any headline loads — the same glaze color fired onto the ceramic dome of every Classic and Big Joe, now pulled into every CTA, price badge, and hover state on the site. The digital palette mirrors the physical product line: charcoal steel (#343738) for nav bars and footer slabs, a near-black ink (#231f20) for body copy that reads heavy and confident against generous white canvas, and a cool light gray (#dedede) used sparingly for dividers and disabled states. There is no pastel softness here; the color system runs on two voltages — the searing red and the carbonized darks — with white space acting as the only pressure release. Typography lands in a system sans-serif stack at workmanlike weights; display headings run 600–700 at 36–48px, trusting product photography (wide-angle hero shots of glowing charcoal and smoke rings) to carry the emotional load rather than decorative type. Corners stay tight — buttons and cards use `{rounded.xs}` to `{rounded.sm}`, rarely softer, channeling the machined-metal precision of the air-control dials and cast-iron hardware. Product cards sit on `{colors.surface-card}` with a subtle 1px `{colors.hairline}` border, stacking vertically on mobile with full-bleed imagery. The nav bar runs a solid `{colors.charcoal}` background with white logotype and link text, anchoring every page to that dark-on-light inversion that separates Kamado Joe from the sea of white-header e-commerce. Section spacing is generous (`{spacing.section}` at 64px+), letting each content block — configurator, comparison table, recipe carousel — breathe like a standalone billboard on the scroll.
 
 colors:
@@ -217,7 +220,7 @@ components:
     backgroundColor: "{colors.surface-dark}"
     textColor: "{colors.on-dark}"
     minHeight: 560px
-    padding: "{spacing.section-lg}" "{spacing.xl}"
+    padding: "{spacing.section-lg} {spacing.xl}"
     contentMaxWidth: 1440px
   hero-headline:
     typography: "{typography.display-xl}"
@@ -239,7 +242,7 @@ components:
     typography: "{typography.body-sm}"
     rounded: "{rounded.sm}"
     border: 1px solid {colors.hairline}
-    cellPadding: "{spacing.base}" "{spacing.lg}"
+    cellPadding: "{spacing.base} {spacing.lg}"
   badge-sale:
     backgroundColor: "{colors.badge-sale}"
     textColor: "{colors.on-primary}"
@@ -263,7 +266,7 @@ components:
     textColor: "{colors.ink}"
     typography: "{typography.body-md}"
     rounded: "{rounded.xs}"
-    padding: "{spacing.md}" "{spacing.base}"
+    padding: "{spacing.md} {spacing.base}"
     border: 1px solid {colors.hairline}
     selectedBorder: 2px solid {colors.primary}
   search-bar:
@@ -278,7 +281,7 @@ components:
     backgroundColor: "{colors.footer-bg}"
     textColor: "{colors.on-dark}"
     typography: "{typography.body-sm}"
-    padding: "{spacing.section}" "{spacing.xl}"
+    padding: "{spacing.section} {spacing.xl}"
   footer-heading:
     typography: "{typography.uppercase-label}"
     textColor: "{colors.on-dark}"
@@ -295,7 +298,7 @@ components:
     textColor: "{colors.on-primary}"
     typography: "{typography.caption}"
     height: 40px
-    padding: "{spacing.sm}" "{spacing.base}"
+    padding: "{spacing.sm} {spacing.base}"
 
 ---
 
@@ -381,6 +384,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Font families could not be reliably extracted (site returns `inherit` for all font-family stacks — likely loaded via JavaScript or a Shopify theme font loader). System sans-serif stack used as fallback; the actual brand typeface may differ.
 - Only 5 hex colors were extractable from static HTML. Additional surface colors, gradient stops, and interactive-state colors are inferred from the extracted palette rather than directly observed.

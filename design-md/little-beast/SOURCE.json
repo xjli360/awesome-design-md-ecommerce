@@ -1,0 +1,918 @@
+{
+  "source_url": "https://littlebeast.co",
+  "final_url": "https://littlebeast.co/",
+  "captured_at": "2026-09-28T04:46:25.068258+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://littlebeast.co",
+      "final_url": "https://littlebeast.co/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "b45e62da05b37eeb24cac957a251bfa38ddda2cab08a90c1020b5983c9d28053",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787",
+      "final_url": "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "01a535bd9adc8f94ef7bdc7236490534082f8230ea2b0a2e064747b743230468",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://littlebeast.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://littlebeast.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/dynamatic-cart-prd.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/dynamatic-cart-prd.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a44580b1b39ddb1eb2e297bf09f609a082e311297591b31e1b41911f4937a651",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css",
+      "final_url": "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "9f2594a5055d26c13e58f205fea2e4a54c58fbaa6dec330bf97fe50b3a6ad99b",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#152868": {
+      "count": 184,
+      "sources": [
+        "https://littlebeast.co/",
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "#ffffff": {
+      "count": 105,
+      "sources": [
+        "https://littlebeast.co/",
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787",
+        "https://littlebeast.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/dynamatic-cart-prd.css",
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+      ]
+    },
+    "#000000": {
+      "count": 44,
+      "sources": [
+        "https://littlebeast.co/",
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787",
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/dynamatic-cart-prd.css",
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+      ]
+    },
+    "#0e296c": {
+      "count": 28,
+      "sources": [
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "#fdf9f0": {
+      "count": 25,
+      "sources": [
+        "https://littlebeast.co/",
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "#f7efdc": {
+      "count": 24,
+      "sources": [
+        "https://littlebeast.co/",
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "#d2782c": {
+      "count": 19,
+      "sources": [
+        "https://littlebeast.co/",
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "#cccccc": {
+      "count": 17,
+      "sources": [
+        "https://littlebeast.co/",
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/dynamatic-cart-prd.css",
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+      ]
+    },
+    "#ffb8c4": {
+      "count": 16,
+      "sources": [
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "#ffe5b9": {
+      "count": 16,
+      "sources": [
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "#16256a": {
+      "count": 14,
+      "sources": [
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "#f3f3ef": {
+      "count": 13,
+      "sources": [
+        "https://littlebeast.co/",
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "#ebebeb": {
+      "count": 12,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+      ]
+    },
+    "#00000000": {
+      "count": 11,
+      "sources": [
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787",
+        "https://littlebeast.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/dynamatic-cart-prd.css"
+      ]
+    },
+    "#f7e2d7": {
+      "count": 10,
+      "sources": [
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "#666666": {
+      "count": 10,
+      "sources": [
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787",
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/dynamatic-cart-prd.css",
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 9,
+      "sources": [
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787",
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+      ]
+    },
+    "#333333": {
+      "count": 9,
+      "sources": [
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787",
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+      ]
+    },
+    "#81bcdf": {
+      "count": 6,
+      "sources": [
+        "https://littlebeast.co/",
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "#f3cfbd": {
+      "count": 6,
+      "sources": [
+        "https://littlebeast.co/",
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 6,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/dynamatic-cart-prd.css",
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+      ]
+    },
+    "#00aef9": {
+      "count": 6,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+      ]
+    },
+    "#fcf9f1": {
+      "count": 5,
+      "sources": [
+        "https://littlebeast.co/"
+      ]
+    },
+    "#f8c6e3": {
+      "count": 5,
+      "sources": [
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "#dddddd": {
+      "count": 5,
+      "sources": [
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787",
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/dynamatic-cart-prd.css",
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/dynamatic-cart-prd.css",
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/dynamatic-cart-prd.css",
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/dynamatic-cart-prd.css",
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+      ]
+    },
+    "#cfe7f5": {
+      "count": 4,
+      "sources": [
+        "https://littlebeast.co/",
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "#919191": {
+      "count": 4,
+      "sources": [
+        "https://littlebeast.co/"
+      ]
+    },
+    "#00000080": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/dynamatic-cart-prd.css"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/dynamatic-cart-prd.css",
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+      ]
+    },
+    "#193934": {
+      "count": 3,
+      "sources": [
+        "https://littlebeast.co/",
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "#f5c598": {
+      "count": 3,
+      "sources": [
+        "https://littlebeast.co/",
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "#19252680": {
+      "count": 3,
+      "sources": [
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "#192526": {
+      "count": 3,
+      "sources": [
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "#d5e7f2": {
+      "count": 3,
+      "sources": [
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 3,
+      "sources": [
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "#8d9aa9": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+      ]
+    },
+    "#f3f4f6": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+      ]
+    },
+    "#0000000d": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+      ]
+    },
+    "#111111": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+      ]
+    },
+    "#0085c7": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+      ]
+    },
+    "#d1d5db": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+      ]
+    },
+    "#007bff": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+      ]
+    },
+    "#2532381a": {
+      "count": 2,
+      "sources": [
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "#1a1916": {
+      "count": 2,
+      "sources": [
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "#f7efdb": {
+      "count": 2,
+      "sources": [
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "#555e5d": {
+      "count": 2,
+      "sources": [
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "#202020": {
+      "count": 2,
+      "sources": [
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "#ffe9e3": {
+      "count": 2,
+      "sources": [
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "#112155": {
+      "count": 2,
+      "sources": [
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "#555d5d": {
+      "count": 2,
+      "sources": [
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "#20202080": {
+      "count": 2,
+      "sources": [
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://littlebeast.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#007aff": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/dynamatic-cart-prd.css",
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+      ]
+    },
+    "#00000026": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/dynamatic-cart-prd.css",
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+      ]
+    },
+    "#222222": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/dynamatic-cart-prd.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Anonymous Pro": [
+      "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+    ],
+    "Anonymous Pro !important": [
+      "https://littlebeast.co/"
+    ],
+    "Anonymous Pro!important": [
+      "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+    ],
+    "AnonymousPro-Bold": [
+      "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+    ],
+    "AnonymousPro-Bold !important": [
+      "https://littlebeast.co/"
+    ],
+    "JudgemeIcons": [
+      "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+    ],
+    "Karla": [
+      "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+    ],
+    "Lexend !important": [
+      "https://littlebeast.co/"
+    ],
+    "Lexend-Light": [
+      "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+    ],
+    "Lexend-Light!important": [
+      "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+    ],
+    "Lexend-Regular": [
+      "https://littlebeast.co/",
+      "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+    ],
+    "Lexend-Regular !important": [
+      "https://littlebeast.co/"
+    ],
+    "Lexend-SemiBold": [
+      "https://littlebeast.co/",
+      "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+    ],
+    "Lexend-SemiBold !important": [
+      "https://littlebeast.co/"
+    ],
+    "Lexend-SemiBold' !important": [
+      "https://littlebeast.co/"
+    ],
+    "Lexend-light !important": [
+      "https://littlebeast.co/"
+    ],
+    "Lora-Bold": [
+      "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+    ],
+    "Lora-Bold !important": [
+      "https://littlebeast.co/"
+    ],
+    "Lora-Bold!important": [
+      "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+    ],
+    "Lora-Italic": [
+      "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+    ],
+    "Lora-Regular": [
+      "https://littlebeast.co/",
+      "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+    ],
+    "Lora-Regular!important": [
+      "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+    ],
+    "Lora-SemiBold": [
+      "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+    ],
+    "Lucida Console": [
+      "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+    ],
+    "Monaco": [
+      "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+    ],
+    "monospace": [
+      "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+    ],
+    "sans-serif": [
+      "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+    ],
+    "swiper-icons": [
+      "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/dynamatic-cart-prd.css",
+      "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://littlebeast.co/",
+      "selector": "#shopify-section-header-about .about-menu__li:hover,\n  #shopify-section-header-about .about-menu__li.open",
+      "declarations": "background-color: #FFF;\n    border-radius: 5px;"
+    },
+    {
+      "source": "https://littlebeast.co/",
+      "selector": "li.open .about-menu__anchor-block,\n  #shopify-section-header-about .about-menu-mobile__li.open .about-menu__parent-arrow,\n  #shopify-section-header-about .about",
+      "declarations": "background-color: #FCF9F1;"
+    },
+    {
+      "source": "https://littlebeast.co/",
+      "selector": "#shopify-section-header-about .about-menu__li a,\n  #shopify-section-header-about .about-menu__li .about-menu__anchor",
+      "declarations": "font-family: 'Lexend-Regular';\n      font-size: 16px;\n      font-weight: 500;\n      text-transform: uppercase;"
+    },
+    {
+      "source": "https://littlebeast.co/",
+      "selector": "#shopify-section-header-about .about-menu-mobile__anchor",
+      "declarations": "font-family: 'Lexend-Regular';\n      font-size: 16px;\n      font-weight: 400;\n      text-transform: uppercase;\n      color: #152868;"
+    },
+    {
+      "source": "https://littlebeast.co/",
+      "selector": "#shopify-section-header-about .about-menu-mobile__anchor-first-level",
+      "declarations": "color: #152868;\n      font-family: 'Lexend-Regular';\n      font-size: 24px;\n      font-weight: 500;\n      text-transform: uppercase;"
+    },
+    {
+      "source": "https://littlebeast.co/",
+      "selector": "#shopify-section-template--26842142343454__ae5df161-6762-437e-96a7-72ab465cb4e3 .teaser__button",
+      "declarations": "display:flex;\n        justify-content: center;\n        align-items: center;\n        height: 54px;\n        padding:12px 24px 12px 24px;\n        color: #f3f3ef;\n        background-color: #152868;\n        font-family: 'Lexend-Regular';\n        font-size: 16px;\n        font-weight: 500;\n        transition: all 0.3s ease-in-out;"
+    },
+    {
+      "source": "https://littlebeast.co/",
+      "selector": "#shopify-section-template--26842142343454__ae5df161-6762-437e-96a7-72ab465cb4e3 .teaser__button:hover",
+      "declarations": "color: #152868;\n        background-color: #d2782c;"
+    },
+    {
+      "source": "https://littlebeast.co/",
+      "selector": "#shopify-section-template--26842142343454__2e0a803b-5c77-4ef4-8b56-f38d72ebd05c .about-section-2__button",
+      "declarations": "display: flex;\n      padding: 12px 24px;\n      max-width: 351px;\n      justify-content: center;\n      align-items: center;\n      background: #152868;\n      color: #F3F3EF;\n      font-family: 'Lexend-Regular';\n      font-size: 16px;\n      font-weight: 500;\n      transition: all 0.3s ease-in-out;"
+    },
+    {
+      "source": "https://littlebeast.co/",
+      "selector": "#shopify-section-template--26842142343454__2e0a803b-5c77-4ef4-8b56-f38d72ebd05c .about-section-2__button:hover",
+      "declarations": "color: #152868;\n      background-color: #D2782C;"
+    },
+    {
+      "source": "https://littlebeast.co/",
+      "selector": ".advance-free-gift-card-contaner button",
+      "declarations": "font-family: Lexend-Regular !important;\n  font-weight: unset !important;\n  padding: 0 !important;\n  padding-left: 10px !important"
+    },
+    {
+      "source": "https://littlebeast.co/",
+      "selector": ".dyn-list-widget-product-title,\n.dyn-lineitem-title,\n.dyn-list-widget-product-title",
+      "declarations": "font-family: AnonymousPro-Bold !important;\n  text-transform: uppercase !important"
+    },
+    {
+      "source": "https://littlebeast.co/",
+      "selector": "a.dyn-fbt-product-title-link",
+      "declarations": "font-size: 16px !important;\n    line-height: 20px !important;\n    text-transform: uppercase !important;\n    color: #152868 !important;\n    padding-top: 16px !important;"
+    },
+    {
+      "source": "https://littlebeast.co/",
+      "selector": "span.dynamatic-fbt-product-price",
+      "declarations": "font-size: 20px !important;\n    letter-spacing: -0.02em !important;\n    color: #152868 !important;"
+    },
+    {
+      "source": "https://littlebeast.co/",
+      "selector": "span.dynamatic-fbt-product-discounted-price",
+      "declarations": "font-size: 14px !important;\n    letter-spacing: -0.02em !important;\n    color: #9a9a9a !important;\n    margin-bottom: 3px !important;"
+    },
+    {
+      "source": "https://littlebeast.co/",
+      "selector": ".dynamatic-fbt-submit-container button",
+      "declarations": "padding: 10px 60px !important;\n    font-weight: 700 !important;\n    font-family: Lexend-SemiBold !important;"
+    },
+    {
+      "source": "https://littlebeast.co/",
+      "selector": "p.dyn-product-list-subtitle",
+      "declarations": "font-size: 18px !important;\n    text-transform: uppercase;\n    font-family: 'Lexend-SemiBold' !important;\n    font-weight: bold !important;\n    font-style: italic;\n    margin-bottom: 20px !important;\n    text-align: left !important;"
+    },
+    {
+      "source": "https://littlebeast.co/",
+      "selector": ".dyn-product-list-header h3",
+      "declarations": "font-family: Lexend !important;\n    font-weight: 700 !important;\n    font-style: italic;\n    font-size: 30px !important;\n    text-transform: uppercase;"
+    },
+    {
+      "source": "https://littlebeast.co/",
+      "selector": "h3.single-product-title___",
+      "declarations": "font-size: 16px !important;\n    line-height: 20px !important;\n    text-transform: uppercase !important;\n    color: #152868 !important;\n    margin-top: 10px;\n    padding-top: 5px !important;"
+    },
+    {
+      "source": "https://littlebeast.co/",
+      "selector": ".dynamatic-list-product-button-container button.single-product-btn",
+      "declarations": "font-size: 15px !important;\n    color: #f2ebda !important;\n    height: 34px !important;"
+    },
+    {
+      "source": "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787",
+      "selector": ".quantity-block .product-cnt",
+      "declarations": "width:100%;height:44px;border:1px solid transparent;font-size:16px;line-height:24px;text-align:center;padding-left:22px;padding-right:22px;font-family:Lexend-SemiBold;background-color:#fff"
+    },
+    {
+      "source": "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787",
+      "selector": "h1,.heading1",
+      "declarations": "font-family:Lora-Bold;font-size:71px;line-height:80px;margin-bottom:1rem"
+    },
+    {
+      "source": "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787",
+      "selector": ".template-article h1,.template-article .heading1,.template-article .section-blog-post-top h1",
+      "declarations": "font-family:Lora-Bold;font-size:71px;line-height:80px;margin-bottom:.5rem"
+    },
+    {
+      "source": "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787",
+      "selector": "span,.template-article .section-blog-post-addon .text-wrapper h1 strong,.template-article .section-blog-post-addon .text-wrapper h1 *,.template-article .section",
+      "declarations": "font-family:Lora-Regular;color:#152868;font-size:72px;font-weight:700;line-height:80px"
+    },
+    {
+      "source": "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787",
+      "selector": "-post-addon .text-wrapper h1.color-ivory strong,.template-article .section-blog-post-addon .text-wrapper h1.color-ivory *,.template-article .section-blog-post-a",
+      "declarations": "color:#f7efdc"
+    },
+    {
+      "source": "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787",
+      "selector": "span,.template-article .section-blog-post-addon .text-wrapper h1 strong,.template-article .section-blog-post-addon .text-wrapper h1 *,.template-article .section",
+      "declarations": "font-family:Lora-Regular;color:#152868;font-size:36px;font-weight:700;line-height:48px"
+    },
+    {
+      "source": "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787",
+      "selector": "-post-addon .text-wrapper h1.color-ivory strong,.template-article .section-blog-post-addon .text-wrapper h1.color-ivory *,.template-article .section-blog-post-a",
+      "declarations": "color:#f7efdc"
+    },
+    {
+      "source": "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787",
+      "selector": ".pre-order__product-msg",
+      "declarations": "font-family:Lexend-Light;font-size:94%;font-weight:400;letter-spacing:-.01em;line-height:1.15;text-align:left;color:#152868;margin-bottom:14px"
+    },
+    {
+      "source": "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787",
+      "selector": ".btn-link",
+      "declarations": "font-family:Lexend-SemiBold;font-size:16px;line-height:1.5;text-transform:uppercase;letter-spacing:1px;padding:0;position:relative"
+    },
+    {
+      "source": "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787",
+      "selector": ".bg-black .btn-link",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787",
+      "selector": ".bg-light .btn-link",
+      "declarations": "color:#152868"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Dog Clothes & Apparel by Little Beast",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littlebeast.co/",
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littlebeast.co/",
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littlebeast.co/",
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787",
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787",
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/dynamatic-cart-prd.css",
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787",
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/dynamatic-cart-prd.css",
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littlebeast.co/",
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littlebeast.co/",
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787",
+        "https://littlebeast.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/dynamatic-cart-prd.css",
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littlebeast.co/",
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littlebeast.co/",
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "colors.accent-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "colors.sale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littlebeast.co/",
+        "https://littlebeast.co/cdn/shop/t/207/assets/app.css?v=5606135104562011531773960787"
+      ]
+    },
+    "colors.disabled": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://littlebeast.co/",
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/dynamatic-cart-prd.css",
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/style.css"
+      ]
+    },
+    "colors.overlay": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/extensions/01a0d6f9-8f83-7ec6-b4fd-370040cdc3ad/dynamatic-personalized-upsells-3359/assets/dynamatic-cart-prd.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.size-swatch-selector": {
+      "status": "inferred"
+    }
+  }
+}

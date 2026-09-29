@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Downtown Music Gallery
-description: >-
+name: "Downtown Music Gallery"
+source_url: "https://www.downtownmusicgallery.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Forty years of avant-garde inventory compressed into a catalog interface: Downtown Music Gallery builds its digital presence the way a serious record collector expects to browse — dense product rows, spare typographic hierarchy, and almost no decorative surface competing with artist names and imprint details. The store, a fixture of New York's experimental, jazz, and niche-genre music scene, carries collector-culture DNA into its web presence: product listings read like liner-note entries rather than retail hero cards, and navigation prioritizes genre depth over visual merchandising splash. Because no live hex values or font stacks were extractable from the site (see Known Gaps), the palette here is inferred from the brand archetype rather than confirmed tokens — a near-black ink register (#1a1a1a) against a white canvas (#ffffff), with a single warm-crimson accent (#c0151e) that echoes the matte-printed covers of underground LP releases. Square corners govern product thumbnails ({rounded.none}), reflecting the album-cover grid aesthetic that serious collectors recognize instantly; only interactive controls receive {rounded.xs} — just enough to signal clickability without softening the utilitarian register. Spacing is tighter than lifestyle retail: {spacing.base} gutters keep rows dense, and section dividers use {spacing.xl} rather than the generous editorial breathing room of fashion or home-goods stores. The footer doubles as a secondary genre and format index, listing categories, imprints, and media types — a structural choice that signals to the specialist buyer exactly what kind of inventory awaits. Typography leans on a neutral sans-serif system stack at modest weights; no bespoke display face announces the wordmark, which is itself a statement about where the brand's authority lives: in the depth and credibility of its catalog, not its visual identity.
 
 colors:
@@ -370,6 +373,8 @@ components:
 - Search bar moves from header inline to full-width top-of-page position on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No hex colors extracted from live site — palette (crimson #c0151e, near-black #1a1a1a, white #ffffff) is inferred from independent record store brand archetype, not confirmed site tokens; actual brand colors may differ significantly
 - No font-family stacks extracted — system sans-serif stack assumed; site may load a custom or licensed typeface via JS or a font service

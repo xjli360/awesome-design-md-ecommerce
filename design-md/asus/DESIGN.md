@@ -1,28 +1,11 @@
 ---
 version: alpha
-name: Asus
-description: >-
-  Neon-gradient arcs sweeping from violet (#7761ff) through cyan (#37d5ff) to mint (#35f5cb) — that animated
-  spectrum is the first thing that hits on asus.com, long before any product photo loads. The primary blue
-  (#006ce1) carries CTAs, links, and interactive affordances, but it deliberately steps back from the hero
-  stage, letting those gradient flourishes and full-bleed product photography own the viewport. Type is split
-  between two distinct personalities: condensed bold faces like Kairos Sans Condensed Bold and FF DIN
-  Condensed Bold slam product names and hero headlines into tight vertical columns, while TT Norms Pro handles
-  body copy, navigation labels, and UI text with clean geometric curves at regular and medium weights. This
-  duality — compressed energy for display, relaxed neutrality for reading — maps directly to the split
-  audience of spec-obsessed enthusiasts and everyday laptop buyers. The layout sits on a near-black (#16151b)
-  dark canvas for gaming and ROG sections, then flips to bright white with soft gray (#f5f5f5) surface cards
-  for mainstream products, creating two tonal worlds within a single domain. Product cards use sharp
-  `{rounded.xs}` corners and dense specification grids — no friendly pill shapes here. Buttons stay squared
-  off at `{rounded.xs}` to `{rounded.sm}`, reinforcing a precision-engineered ethos. Spacing runs tighter
-  than most consumer electronics sites: `{spacing.md}` between spec rows, `{spacing.lg}` between card groups,
-  with `{spacing.section}` reserved only for major category breaks. A warm peach accent (#ffb980) and muted
-  gold (#cdab82) surface in promotional badges and premium product tiers, providing just enough warmth to
-  prevent the blue-and-dark palette from reading as sterile. The mega-navigation is a content-dense flyout
-  that treats every product line as its own storefront, with thumbnail grids and comparison shortcuts baked
-  directly into the nav layer. Hover states across the site rely on the lighter sky blue (#248dff) rather
-  than simple opacity shifts, giving interactive elements a deliberate luminance bump against both dark
-  and light backgrounds.
+name: "Asus"
+source_url: "https://www.asus.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Neon-gradient arcs sweeping from violet (#7761ff) through cyan (#37d5ff) to mint (#35f5cb) — that animated spectrum is the first thing that hits on asus.com, long before any product photo loads. The primary blue (#006ce1) carries CTAs, links, and interactive affordances, but it deliberately steps back from the hero stage, letting those gradient flourishes and full-bleed product photography own the viewport. Type is split between two distinct personalities: condensed bold faces like Kairos Sans Condensed Bold and FF DIN Condensed Bold slam product names and hero headlines into tight vertical columns, while TT Norms Pro handles body copy, navigation labels, and UI text with clean geometric curves at regular and medium weights. This duality — compressed energy for display, relaxed neutrality for reading — maps directly to the split audience of spec-obsessed enthusiasts and everyday laptop buyers. The layout sits on a near-black (#16151b) dark canvas for gaming and ROG sections, then flips to bright white with soft gray (#f5f5f5) surface cards for mainstream products, creating two tonal worlds within a single domain. Product cards use sharp `{rounded.xs}` corners and dense specification grids — no friendly pill shapes here. Buttons stay squared off at `{rounded.xs}` to `{rounded.sm}`, reinforcing a precision-engineered ethos. Spacing runs tighter than most consumer electronics sites: `{spacing.md}` between spec rows, `{spacing.lg}` between card groups, with `{spacing.section}` reserved only for major category breaks. A warm peach accent (#ffb980) and muted gold (#cdab82) surface in promotional badges and premium product tiers, providing just enough warmth to prevent the blue-and-dark palette from reading as sterile. The mega-navigation is a content-dense flyout that treats every product line as its own storefront, with thumbnail grids and comparison shortcuts baked directly into the nav layer. Hover states across the site rely on the lighter sky blue (#248dff) rather than simple opacity shifts, giving interactive elements a deliberate luminance bump against both dark and light backgrounds.
 
 colors:
   primary: "#006ce1"
@@ -586,6 +569,8 @@ brighten to white on hover. Bottom strip carries legal links and region selector
 - Footer columns collapse into accordion sections with tap-to-expand headings
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - ROG sub-brand likely uses a distinct red accent and dedicated `ROGFonts-Regular` face for gaming pages, but the specific red hex was not present in the top extracted colors; gaming-section tokens may need separate extraction
 - ASUS Icons webfont was detected but individual glyph mappings and icon sizing conventions could not be determined from extraction

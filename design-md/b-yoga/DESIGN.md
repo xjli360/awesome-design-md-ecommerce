@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: B Yoga
-description: A mustard-yellow #e9be33 voltage runs through B Yoga’s digital presence — not as a background wash but as the single accent that pulls the eye to CTAs, price tags, and active states against a deep charcoal #31373d body and a clean #eaeaea canvas. The palette is deliberately restrained: three neutrals (charcoal, medium gray #6c6c6c, and warm off-white) plus one blue #479ccf that surfaces in secondary links and subtle dividers, creating a quiet tension between the earthy yellow and the cooler blue. Typography stays in the Arial/Helvetica system stack, a pragmatic choice that keeps the focus on the yoga practice itself rather than on brand typographic flair. Buttons are compact and softly rounded (`{rounded.sm}`), navigation is lean with a single-level menu, and product cards use generous `{spacing.lg}` padding to let the imagery breathe. The overall feeling is that of a studio that knows its value — warm, direct, and uncluttered — where the yellow acts like a single beam of sunlight hitting a mat.
+name: "B Yoga"
+source_url: "https://byoganow.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A mustard-yellow #e9be33 voltage runs through B Yoga’s digital presence — not as a background wash but as the single accent that pulls the eye to CTAs, price tags, and active states against a deep charcoal #31373d body and a clean #eaeaea canvas. The palette is deliberately restrained: three neutrals (charcoal, medium gray #6c6c6c, and warm off-white) plus one blue #479ccf that surfaces in secondary links and subtle dividers, creating a quiet tension between the earthy yellow and the cooler blue. Typography stays in the Arial/Helvetica system stack, a pragmatic choice that keeps the focus on the yoga practice itself rather than on brand typographic flair. Buttons are compact and softly rounded (`{rounded.sm}`), navigation is lean with a single-level menu, and product cards use generous `{spacing.lg}` padding to let the imagery breathe. The overall feeling is that of a studio that knows its value — warm, direct, and uncluttered — where the yellow acts like a single beam of sunlight hitting a mat.
 
 colors:
   primary: "#e9be33"
@@ -307,6 +311,8 @@ components:
 - Search bar moves from inline in nav to full-width below nav on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted color list is sparse and generic (only 5 hex values, with one distinctive yellow, one blue, and three neutrals). The yellow `#e9be33` was selected as primary based on distinctiveness, but the brand may have a richer palette (e.g., secondary greens, tertiary accents, or specific gradient treatments) that could not be extracted.
 - The site was unavailable at extraction time ("This store is unavailable"), so no actual page content, imagery, or layout could be analyzed. All component structures are inferred from common yoga DTC patterns.

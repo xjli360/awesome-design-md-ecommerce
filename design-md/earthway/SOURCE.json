@@ -1,0 +1,599 @@
+{
+  "source_url": "https://earthway.com",
+  "final_url": "https://earthway.com/",
+  "captured_at": "2026-09-28T09:37:06.847858+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://earthway.com",
+      "final_url": "https://earthway.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "7e83394639cde43504bfe9f304e4aea29e6618c386b00e2557a68e505f2b835a",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://earthway.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://earthway.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://earthway.com/cdn/shop/t/4/assets/theme.css?v=165036623029943794161787020332",
+      "final_url": "https://earthway.com/cdn/shop/t/4/assets/theme.css?v=165036623029943794161787020332",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "85a720b7a84509193cb130fa53ae2e76beeacff833f7563068d9638efab40048",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 11,
+      "sources": [
+        "https://earthway.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://earthway.com/cdn/shop/t/4/assets/theme.css?v=165036623029943794161787020332"
+      ]
+    },
+    "#ffffff": {
+      "count": 8,
+      "sources": [
+        "https://earthway.com/",
+        "https://earthway.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://earthway.com/cdn/shop/t/4/assets/theme.css?v=165036623029943794161787020332"
+      ]
+    },
+    "#ac1a2e": {
+      "count": 8,
+      "sources": [
+        "https://earthway.com/"
+      ]
+    },
+    "#00000066": {
+      "count": 3,
+      "sources": [
+        "https://earthway.com/cdn/shop/t/4/assets/theme.css?v=165036623029943794161787020332"
+      ]
+    },
+    "#000000": {
+      "count": 3,
+      "sources": [
+        "https://earthway.com/cdn/shop/t/4/assets/theme.css?v=165036623029943794161787020332"
+      ]
+    },
+    "#a6192e": {
+      "count": 2,
+      "sources": [
+        "https://earthway.com/"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://earthway.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 2,
+      "sources": [
+        "https://earthway.com/cdn/shop/t/4/assets/theme.css?v=165036623029943794161787020332"
+      ]
+    },
+    "#00000033": {
+      "count": 2,
+      "sources": [
+        "https://earthway.com/cdn/shop/t/4/assets/theme.css?v=165036623029943794161787020332"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 1,
+      "sources": [
+        "https://earthway.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://earthway.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://earthway.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://earthway.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://earthway.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://earthway.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://earthway.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://earthway.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://earthway.com/"
+      ]
+    },
+    "#5b6881": {
+      "count": 1,
+      "sources": [
+        "https://earthway.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://earthway.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://earthway.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://earthway.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 1,
+      "sources": [
+        "https://earthway.com/cdn/shop/t/4/assets/theme.css?v=165036623029943794161787020332"
+      ]
+    },
+    "#0000000d": {
+      "count": 1,
+      "sources": [
+        "https://earthway.com/cdn/shop/t/4/assets/theme.css?v=165036623029943794161787020332"
+      ]
+    },
+    "#0000000f": {
+      "count": 1,
+      "sources": [
+        "https://earthway.com/cdn/shop/t/4/assets/theme.css?v=165036623029943794161787020332"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://earthway.com/"
+    ],
+    "Consolas": [
+      "https://earthway.com/cdn/shop/t/4/assets/theme.css?v=165036623029943794161787020332"
+    ],
+    "Courier New": [
+      "https://earthway.com/cdn/shop/t/4/assets/theme.css?v=165036623029943794161787020332"
+    ],
+    "Helvetica": [
+      "https://earthway.com/"
+    ],
+    "Host Grotesk": [
+      "https://earthway.com/"
+    ],
+    "Liberation Mono": [
+      "https://earthway.com/cdn/shop/t/4/assets/theme.css?v=165036623029943794161787020332"
+    ],
+    "Menlo": [
+      "https://earthway.com/cdn/shop/t/4/assets/theme.css?v=165036623029943794161787020332"
+    ],
+    "Monaco": [
+      "https://earthway.com/cdn/shop/t/4/assets/theme.css?v=165036623029943794161787020332"
+    ],
+    "SFMono-Regular": [
+      "https://earthway.com/cdn/shop/t/4/assets/theme.css?v=165036623029943794161787020332"
+    ],
+    "monospace": [
+      "https://earthway.com/cdn/shop/t/4/assets/theme.css?v=165036623029943794161787020332"
+    ],
+    "sans-serif": [
+      "https://earthway.com/"
+    ],
+    "ui-monospace": [
+      "https://earthway.com/cdn/shop/t/4/assets/theme.css?v=165036623029943794161787020332"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://earthway.com/",
+      "selector": "[dir=\"rtl\"]:root",
+      "declarations": "--transform-logical-flip: -1;\n    --transform-origin-start: right;\n    --transform-origin-end: left;"
+    },
+    {
+      "source": "https://earthway.com/",
+      "selector": ":root",
+      "declarations": "--text-h0: 4rem;\n      --text-h1: 3rem;\n      --text-h2: 2.5rem;\n      --text-h3: 2rem;\n      --text-h4: 1.625rem;\n      --text-h5: 1.25rem;\n      --text-h6: 1.125rem;\n\n      --text-xs: 0.75rem;\n      --text-sm: 0.875rem;\n      --text-base: 1.0rem;\n      --text-lg: 1.25rem;\n\n      \n      --container-gutter: 2rem;\n      --section-outer-spacing-block: var(--spacing-16);\n      --section-inner-max-spacing-block: var(--spacing-12);\n      --section-inner-spacing-inline: var(--spacing-14);\n      --section-stack-spacing-block: var(--spacing-12);\n\n      \n      --grid-gutter: var(--spacing-6);\n\n      \n      --product-list-row-gap: var(--spacing-12);\n\n      \n      --input-gap: 1rem;\n      --input-heigh"
+    },
+    {
+      "source": "https://earthway.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: var(--spacing-12);\n      --section-outer-spacing-block: var(--spacing-18);\n      --section-inner-max-spacing-block: var(--spacing-16);\n      --section-inner-spacing-inline: var(--spacing-18);\n      --section-stack-spacing-block: var(--spacing-12);"
+    },
+    {
+      "source": "https://earthway.com/",
+      "selector": ":root",
+      "declarations": "--container-gutter: var(--spacing-12);\n      --section-outer-spacing-block: var(--spacing-20);\n      --section-inner-max-spacing-block: var(--spacing-16);\n      --section-inner-spacing-inline: var(--spacing-18);\n      --section-stack-spacing-block: var(--spacing-12);"
+    },
+    {
+      "source": "https://earthway.com/",
+      "selector": ":root",
+      "declarations": "--text-h0: 5rem;\n      --text-h1: 3.75rem;\n      --text-h2: 3rem;\n      --text-h3: 2.25rem;\n      --text-h4: 2rem;\n      --text-h5: 1.5rem;\n      --text-h6: 1.25rem;\n\n      --section-outer-spacing-block: var(--spacing-24);\n      --section-inner-max-spacing-block: var(--spacing-18);\n      --section-inner-spacing-inline: var(--spacing-20);"
+    },
+    {
+      "source": "https://earthway.com/",
+      "selector": ":root",
+      "declarations": "--section-outer-spacing-block: var(--spacing-24);\n      --section-inner-max-spacing-block: var(--spacing-20);\n      --section-inner-spacing-inline: var(--spacing-24);"
+    },
+    {
+      "source": "https://earthway.com/",
+      "selector": ".button:not([disabled]):hover, .btn:not([disabled]):hover, .shopify-payment-button__button--unbranded:not([disabled]):hover",
+      "declarations": "--button-background-opacity: 0.85;"
+    },
+    {
+      "source": "https://earthway.com/",
+      "selector": ".button--subdued:not([disabled]):hover",
+      "declarations": "--button-background: var(--text-color) / .05 !important;"
+    },
+    {
+      "source": "https://earthway.com/",
+      "selector": ":root",
+      "declarations": "--sticky-announcement-bar-enabled:0;"
+    },
+    {
+      "source": "https://earthway.com/",
+      "selector": "--background: 166 25 46; --text-color: 255 255 255;\n\n  :root",
+      "declarations": "--sticky-header-enabled:1;"
+    },
+    {
+      "source": "https://earthway.com/",
+      "selector": "#shopify-section-sections--22597154701530__header",
+      "declarations": "--header-grid-template: \"main-nav logo secondary-nav\" / minmax(0, 1fr) auto minmax(0, 1fr);\n    --header-padding-block: var(--spacing-3);\n    --header-background-opacity: 1.0;\n    --header-background-blur-radius: 0px;\n    --header-transparent-text-color: 255 255 255;--header-logo-width: 170px;\n      --header-logo-height: 20px;position: sticky;\n    top: 0;\n    z-index: 10;"
+    },
+    {
+      "source": "https://earthway.com/",
+      "selector": "#shopify-section-sections--22597154701530__header",
+      "declarations": "--header-logo-width: 200px;\n        --header-logo-height: 23px;--header-padding-block: var(--spacing-6);"
+    },
+    {
+      "source": "https://earthway.com/",
+      "selector": "#shopify-section-sections--22597154701530__header",
+      "declarations": "--header-grid-template: \"logo main-nav secondary-nav\" / auto minmax(0, 1fr) minmax(0, max-content);"
+    },
+    {
+      "source": "https://earthway.com/",
+      "selector": ": 255 255 255 / var(--button-background-opacity, 1);--button-outline-color: 255 255 255;--button-text-color: 0 0 0;\ncolor: #ffffff\n\n  #shopify-section-template-",
+      "declarations": "--section-background-hash: 007600091125684400096700771009010;"
+    },
+    {
+      "source": "https://earthway.com/",
+      "selector": "lay-gradient: linear-gradient(to top, rgb(0 0 0 / 0.5) 0%, rgb(0 0 0 / 0) 60%)\n--text-color: 255 255 255\n #shopify-section-template--22597154341082__collection_",
+      "declarations": "color: #a6192e; text-transform: uppercase; font-weight: bold;"
+    },
+    {
+      "source": "https://earthway.com/",
+      "selector": "#shopify-section-template--22597154341082__collection_tabs_PAVi8b .product-list",
+      "declarations": "--product-list-gap:  var(--spacing-2);\n      --product-list-items-per-row: 2;\n      --product-list-grid: auto / repeat(var(--product-list-items-per-row), minmax(0, 1fr));"
+    },
+    {
+      "source": "https://earthway.com/",
+      "selector": "#shopify-section-template--22597154341082__collection_tabs_PAVi8b .product-list",
+      "declarations": "--product-list-gap: var(--product-list-row-gap) var(--product-list-column-gap);\n        --product-list-items-per-row: 2;"
+    },
+    {
+      "source": "https://earthway.com/",
+      "selector": "#shopify-section-template--22597154341082__collection_tabs_PAVi8b .product-list",
+      "declarations": "--product-list-items-per-row: 4;"
+    },
+    {
+      "source": "https://earthway.com/",
+      "selector": "#shopify-section-template--22597154341082__collection_tabs_PAVi8b .tabs-nav__button",
+      "declarations": "color: rgb(var(--tab-color, var(--text-color) / .7));\n      border-block-end-width: 2px;\n      border-color: transparent;\n      transition: color .2s ease-in-out, border-color .2s ease-in-out;"
+    },
+    {
+      "source": "https://earthway.com/",
+      "selector": "#shopify-section-template--22597154341082__collection_tabs_PAVi8b .tabs-nav__button[aria-selected=\"true\"]",
+      "declarations": "color: rgb(var(--tab-active-color, var(--text-color)));\n      border-color: rgb(var(--tab-indicator-color, var(--tab-active-color, var(--text-color))));"
+    },
+    {
+      "source": "https://earthway.com/",
+      "selector": "nd: 255 255 255; --text-color: 39 39 39;\n--background: 255 255 255; --text-color: 39 39 39;\n--button-background-primary: 115 107 116;\n\n  #shopify-section-templa",
+      "declarations": "--section-background-hash: 0;"
+    },
+    {
+      "source": "https://earthway.com/",
+      "selector": "--scroll-progress: 0.3333333333333333\n\n  #shopify-section-template--22597154341082__product_finder_quiz_PHUpj7",
+      "declarations": "--section-background-hash: 009798004000598690703800000049800;"
+    },
+    {
+      "source": "https://earthway.com/",
+      "selector": "#shopify-section-template--22597154341082__product_finder_quiz_PHUpj7 + *",
+      "declarations": "--previous-section-background-hash: 009798004000598690703800000049800;"
+    },
+    {
+      "source": "https://earthway.com/",
+      "selector": "#shopify-section-template--22597154341082__product_finder_quiz_PHUpj7 .pfq__status",
+      "declarations": "font-size: var(--text-sm);\n    color: rgb(var(--text-color) / .6);\n    margin-block-start: var(--spacing-2);\n    margin-block-end: var(--spacing-8);"
+    },
+    {
+      "source": "https://earthway.com/",
+      "selector": "#shopify-section-template--22597154341082__product_finder_quiz_PHUpj7 .pfq__answer",
+      "declarations": "display: flex;\n    align-items: center;\n    text-align: start;\n    gap: var(--spacing-3);\n    padding: var(--spacing-4) var(--spacing-5);\n    border: 1px solid rgb(var(--text-color) / .18);\n    border-radius: var(--rounded-sm);\n    background: transparent;\n    color: currentColor;\n    font: inherit;\n    font-weight: 600;\n    cursor: pointer;\n    transition: border-color .15s ease, background-color .15s ease, color .15s ease;"
+    },
+    {
+      "source": "https://earthway.com/",
+      "selector": "#shopify-section-template--22597154341082__product_finder_quiz_PHUpj7 .pfq__answer:hover",
+      "declarations": "border-color: #ac1a2e;"
+    },
+    {
+      "source": "https://earthway.com/",
+      "selector": "#shopify-section-template--22597154341082__product_finder_quiz_PHUpj7 .pfq__nav button",
+      "declarations": "display: inline-flex;\n    align-items: center;\n    gap: var(--spacing-2);\n    background: none;\n    border: 0;\n    padding: 0;\n    font: inherit;\n    font-size: var(--text-sm);\n    color: rgb(var(--text-color) / .6);\n    cursor: pointer;"
+    },
+    {
+      "source": "https://earthway.com/",
+      "selector": "#shopify-section-template--22597154341082__product_finder_quiz_PHUpj7 .pfq__nav button:hover",
+      "declarations": "color: rgb(var(--text-color));"
+    },
+    {
+      "source": "https://earthway.com/",
+      "selector": "#shopify-section-template--22597154341082__product_finder_quiz_PHUpj7 .pfq__early",
+      "declarations": "display: inline-flex;\n    margin-block-start: var(--spacing-5);\n    padding: var(--spacing-3) var(--spacing-6);\n    border-radius: var(--rounded-button);\n    background: #ac1a2e;\n    color: #ffffff;\n    border: 0;\n    font: inherit;\n    font-weight: 700;\n    cursor: pointer;"
+    },
+    {
+      "source": "https://earthway.com/",
+      "selector": "#shopify-section-template--22597154341082__product_finder_quiz_PHUpj7 .pfq__panel-eyebrow",
+      "declarations": "font-size: var(--text-sm);\n    text-transform: uppercase;\n    letter-spacing: .08em;\n    font-weight: 700;\n    color: #ac1a2e;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Best Lawn Spreaders & Garden Equipment | EarthWay",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthway.com/"
+      ]
+    },
+    "colors.primary-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthway.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthway.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthway.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthway.com/cdn/shop/t/4/assets/theme.css?v=165036623029943794161787020332"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthway.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthway.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthway.com/",
+        "https://earthway.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://earthway.com/cdn/shop/t/4/assets/theme.css?v=165036623029943794161787020332"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthway.com/",
+        "https://earthway.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://earthway.com/cdn/shop/t/4/assets/theme.css?v=165036623029943794161787020332"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthway.com/",
+        "https://earthway.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://earthway.com/cdn/shop/t/4/assets/theme.css?v=165036623029943794161787020332"
+      ]
+    },
+    "colors.on-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthway.com/",
+        "https://earthway.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://earthway.com/cdn/shop/t/4/assets/theme.css?v=165036623029943794161787020332"
+      ]
+    },
+    "colors.overlay-scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthway.com/cdn/shop/t/4/assets/theme.css?v=165036623029943794161787020332"
+      ]
+    },
+    "colors.border-subtle": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthway.com/cdn/shop/t/4/assets/theme.css?v=165036623029943794161787020332"
+      ]
+    },
+    "colors.shadow-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://earthway.com/cdn/shop/t/4/assets/theme.css?v=165036623029943794161787020332"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.quiz-callout": {
+      "status": "inferred"
+    }
+  }
+}

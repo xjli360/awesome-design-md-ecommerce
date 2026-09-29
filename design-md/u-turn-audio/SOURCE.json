@@ -1,0 +1,768 @@
+{
+  "source_url": "https://www.uturnaudio.com",
+  "final_url": "https://uturnaudio.com/",
+  "captured_at": "2026-09-28T04:12:55.065011+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.uturnaudio.com",
+      "final_url": "https://uturnaudio.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "a695a642e6c9c9718d7b20c3048de32cad4c34992aaea65bc3c8deea478d8782",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://uturnaudio.com/cdn/shop/t/73/assets/bss-hide-variant.css?v=67370926050131259851764786398",
+      "final_url": "https://uturnaudio.com/cdn/shop/t/73/assets/bss-hide-variant.css?v=67370926050131259851764786398",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "65fb4305e8bce724bf1177ee56fb5304e625ddf02c5cc08462d83b5872b1cf7d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,600",
+      "final_url": "https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,600",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "b14085cfae1a5e701e0443b81608e9274a8c42678cd2596d3f4bddfcc159bd8d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://uturnaudio.com/cdn/shop/t/73/assets/font-awesome.min.scss.css?v=105887491219695389181764771172",
+      "final_url": "https://uturnaudio.com/cdn/shop/t/73/assets/font-awesome.min.scss.css?v=105887491219695389181764771172",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "70dacb2a60068a04c1b015a55ad295ad65997cded889e7d192b56fa5103fe682",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+      "final_url": "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e3d72822d6c9a23314469ccb368b37dff71034c840c37f980e4852990958e281",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831",
+      "final_url": "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "40b796804149a34c6451989d978a424e8644419846b9942771eaab404a46d64c",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#000000": {
+      "count": 63,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#ffffff": {
+      "count": 45,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/font-awesome.min.scss.css?v=105887491219695389181764771172",
+        "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#333333": {
+      "count": 19,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 17,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#ffffff66": {
+      "count": 14,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#0000004d": {
+      "count": 12,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#0000001a": {
+      "count": 10,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#00000099": {
+      "count": 9,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#ffffff33": {
+      "count": 8,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#ffffffcc": {
+      "count": 6,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#ffffff99": {
+      "count": 6,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#0000000d": {
+      "count": 5,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#00000026": {
+      "count": 5,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#999999": {
+      "count": 4,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#3c3c3d": {
+      "count": 4,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 4,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#000000b3": {
+      "count": 4,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#4bd963": {
+      "count": 4,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 3,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172"
+      ]
+    },
+    "#fad31f": {
+      "count": 3,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 3,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#31a8d2": {
+      "count": 3,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#00000042": {
+      "count": 3,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 3,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#ffffff0d": {
+      "count": 3,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#ffffff4d": {
+      "count": 3,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#00000008": {
+      "count": 3,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#535353": {
+      "count": 2,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172"
+      ]
+    },
+    "#636363": {
+      "count": 2,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#ffd314": {
+      "count": 2,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172"
+      ]
+    },
+    "#00000033": {
+      "count": 2,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#777777": {
+      "count": 2,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#bdbdbd": {
+      "count": 2,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#eeeeee": {
+      "count": 1,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/font-awesome.min.scss.css?v=105887491219695389181764771172"
+      ]
+    },
+    "#a2a2a2": {
+      "count": 1,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172"
+      ]
+    },
+    "#c8c8c880": {
+      "count": 1,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172"
+      ]
+    },
+    "#78bfe8": {
+      "count": 1,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172"
+      ]
+    },
+    "#dbdbdb": {
+      "count": 1,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172"
+      ]
+    },
+    "#282828": {
+      "count": 1,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172"
+      ]
+    },
+    "#72c13d": {
+      "count": 1,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172"
+      ]
+    },
+    "#e55e5e": {
+      "count": 1,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172"
+      ]
+    },
+    "#c0363a": {
+      "count": 1,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172"
+      ]
+    },
+    "#222222": {
+      "count": 1,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#444444": {
+      "count": 1,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#595959": {
+      "count": 1,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#0000003d": {
+      "count": 1,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#03020100": {
+      "count": 1,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#00000000": {
+      "count": 1,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#ffffff80": {
+      "count": 1,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#03020180": {
+      "count": 1,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 1,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "#00000080": {
+      "count": 1,
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    }
+  },
+  "font_families": {
+    "FontAwesome": [
+      "https://uturnaudio.com/cdn/shop/t/73/assets/font-awesome.min.scss.css?v=105887491219695389181764771172",
+      "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+      "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+    ],
+    "Roboto": [
+      "https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,600",
+      "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+      "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+    ],
+    "fontAwesome": [
+      "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+      "selector": ".product-price",
+      "declarations": "font-family:Roboto;font-size:19px;font-weight:400;padding:0"
+    },
+    {
+      "source": "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+      "selector": "a.long-button button",
+      "declarations": "transition:all .2s ease-in-out;background-color:transparent;border:2px solid #333;border-radius:4px;padding:10px 20px;font-size:19px"
+    },
+    {
+      "source": "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+      "selector": "a.long-button button:after",
+      "declarations": "content:\"\\f061\";font-family:fontAwesome;margin-left:10px"
+    },
+    {
+      "source": "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+      "selector": "a.long-button",
+      "declarations": "font-weight:500;color:#333;text-decoration:none"
+    },
+    {
+      "source": "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+      "selector": "a.long-button button:hover",
+      "declarations": "color:#f9f9f9!important;background-color:#333!important"
+    },
+    {
+      "source": "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+      "selector": "a.long-button-noicon button",
+      "declarations": "transition:all .2s ease-in-out;background-color:transparent;border:2px solid #333;border-radius:4px;padding:10px 20px;font-size:19px"
+    },
+    {
+      "source": "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+      "selector": "a.long-button-noicon",
+      "declarations": "font-weight:500;color:#333;text-decoration:none"
+    },
+    {
+      "source": "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+      "selector": "a.long-button-noicon button:hover",
+      "declarations": "color:#f9f9f9!important;background-color:#333!important"
+    },
+    {
+      "source": "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+      "selector": "a.long-button-hero button",
+      "declarations": "transition:all .2s ease-in-out;background-color:transparent;border:2px solid #FFF;border-radius:4px;padding:10px 20px;width:210px;font-size:19px"
+    },
+    {
+      "source": "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+      "selector": "a.long-button-hero",
+      "declarations": "color:#fff;font-weight:500;text-decoration:none"
+    },
+    {
+      "source": "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+      "selector": "a.long-button-hero button:hover",
+      "declarations": "color:#333!important;background-color:#fff!important"
+    },
+    {
+      "source": "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+      "selector": ".product-block .product-meta p",
+      "declarations": "margin-top:10px;margin-bottom:0;color:#333;font-size:16px;min-height:47px"
+    },
+    {
+      "source": "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+      "selector": ".product-block .product-desc",
+      "declarations": "overflow:hidden;display:none;padding:5px 0;color:#000;font-size:16px;font-weight:300"
+    },
+    {
+      "source": "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+      "selector": ".product-block .name a",
+      "declarations": "color:#000;font-size:30px;font-family:Roboto;font-weight:500;text-decoration:none;line-height:20px;font-style:normal"
+    },
+    {
+      "source": "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+      "selector": ".product-block .name a:hover",
+      "declarations": "color:#000"
+    },
+    {
+      "source": "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+      "selector": ".product-block .functional-buttons .btn",
+      "declarations": "background-color:#3c3c3d;font-size:17px;color:#000;padding:0;display:block;-webkit-transition:all .3s ease 0s;transition:all .3s ease 0s;font-size:0px;border:none;height:38px;line-height:38px;color:#fff"
+    },
+    {
+      "source": "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+      "selector": ".product-block .functional-buttons .btn:hover",
+      "declarations": "background-color:#000"
+    },
+    {
+      "source": "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+      "selector": ".product-block .functional-buttons .wishlist .btn-wishlist.added",
+      "declarations": "color:#333"
+    },
+    {
+      "source": "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+      "selector": ".product-block .review .spr-badge-starrating .spr-icon.spr-icon-star-empty",
+      "declarations": "color:#a2a2a2"
+    },
+    {
+      "source": "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+      "selector": ".product-block .review .spr-badge-caption",
+      "declarations": "display:none;font-size:11px;font-style:italic;color:#000;padding-top:4px;float:right"
+    },
+    {
+      "source": "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+      "selector": ".product-block .deal-clock",
+      "declarations": "position:absolute;left:0;right:0;bottom:100%;margin-bottom:0;z-index:1;background-color:#c8c8c880;-webkit-transition:all .5s ease 0s;transition:all .5s ease 0s"
+    },
+    {
+      "source": "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+      "selector": ".product_list.list .product-block .deal-clock",
+      "declarations": "position:relative;margin-top:10px;z-index:1!important;bottom:0!important;background-color:transparent"
+    },
+    {
+      "source": "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+      "selector": ".product-block .name a:hover",
+      "declarations": "color:#636363"
+    },
+    {
+      "source": "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+      "selector": ".product-left-column #image-block #view_full_size .span_link:after",
+      "declarations": "font-family:FontAwesome;color:silver;font-size:25px;line-height:25px;content:\"\\f00e\";font-weight:400;margin:0 0 0 2px"
+    },
+    {
+      "source": "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+      "selector": ".product-left-column #image-block #view_full_size .span_link:hover",
+      "declarations": "color:#000"
+    },
+    {
+      "source": "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+      "selector": ".product-left-column .image-block .view_full_size .span_link:after",
+      "declarations": "font-family:FontAwesome;color:silver;font-size:25px;line-height:25px;content:\"\\f00e\";font-weight:400;margin:0 0 0 2px"
+    },
+    {
+      "source": "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+      "selector": ".product-left-column .image-block .view_full_size .span_link:hover",
+      "declarations": "color:#000"
+    },
+    {
+      "source": "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+      "selector": ".product-center-column",
+      "declarations": "font-size:15px;font-weight:300;color:#000"
+    },
+    {
+      "source": "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+      "selector": ".product-center-column h1",
+      "declarations": "margin:0;padding-top:0;font-size:33px;font-family:Roboto;font-weight:500;line-height:30px;color:#282828;text-transform:capitalize"
+    },
+    {
+      "source": "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+      "selector": ".product-center-column .available",
+      "declarations": "margin:0;font-weight:400;color:#72c13d;text-transform:uppercase"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "U-Turn Audio",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/font-awesome.min.scss.css?v=105887491219695389181764771172",
+        "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172"
+      ]
+    },
+    "colors.icon-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172",
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/menu.scss.css?v=75891437252713903381783440831"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://uturnaudio.com/cdn/shop/t/73/assets/product.scss.css?v=8932752337632917391764771172"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.wishlist-toggle": {
+      "status": "inferred"
+    }
+  }
+}

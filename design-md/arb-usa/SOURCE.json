@@ -1,0 +1,892 @@
+{
+  "source_url": "https://arbusa.com",
+  "final_url": "https://arbusa.com/",
+  "captured_at": "2026-09-28T09:09:26.087518+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://arbusa.com",
+      "final_url": "https://arbusa.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "e36dd7aee4d4e861f7407d68c1eac4c8931c51531676f132acd2df4b787dfd27",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://use.typekit.net/trh6ibo.css",
+      "final_url": "https://use.typekit.net/trh6ibo.css",
+      "http_status": 200,
+      "content_type": "text/css;charset=utf-8",
+      "sha256": "740e25bc132af5934d28edebc8e9956d6547369ca2f6cd528702d3b2fe538a14",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "d57dfa9957a8da048e831165819f7202eb390ff66f61fd6c8354c4a3974e3d5f",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://arbusa.com/themes/arb/assets/vendor.css?id=66b7026a701e4356a78a",
+      "final_url": "https://arbusa.com/themes/arb/assets/vendor.css?id=66b7026a701e4356a78a",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c322f58e547958e7f746be2b026148bdb82a51df33c62e1fe0a1b15c2f95a8e8",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db",
+      "final_url": "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0a95e5dba8574ac360bca05afab5b800d8614eb9287c32d68aa578f52197d48b",
+      "snapshot": "stylesheet-4.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 230,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/vendor.css?id=66b7026a701e4356a78a",
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#ed1c24": {
+      "count": 89,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#000000": {
+      "count": 87,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/vendor.css?id=66b7026a701e4356a78a",
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#202227": {
+      "count": 50,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#dc3545": {
+      "count": 29,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#28a745": {
+      "count": 29,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#343841": {
+      "count": 28,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#212529": {
+      "count": 22,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#dee2e6": {
+      "count": 20,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#ffc107": {
+      "count": 17,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#17a2b8": {
+      "count": 17,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#6c757d": {
+      "count": 17,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#e9ecef": {
+      "count": 12,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#e3e3e3": {
+      "count": 12,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#51555f": {
+      "count": 12,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#495057": {
+      "count": 11,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#090a0b": {
+      "count": 8,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#ca181f": {
+      "count": 8,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#6c707b": {
+      "count": 8,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#ced4da": {
+      "count": 7,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#cccccc": {
+      "count": 5,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/vendor.css?id=66b7026a701e4356a78a",
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 5,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#7b0f13": {
+      "count": 5,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#111214": {
+      "count": 5,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#155724": {
+      "count": 5,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#0c5460": {
+      "count": 5,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#856404": {
+      "count": 5,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#721c24": {
+      "count": 5,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#858585": {
+      "count": 5,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#97999b": {
+      "count": 5,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#af0e14": {
+      "count": 4,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#c61017": {
+      "count": 4,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#1e7e34": {
+      "count": 4,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#117a8b": {
+      "count": 4,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#d39e00": {
+      "count": 4,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#bd2130": {
+      "count": 4,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#f8f9fa": {
+      "count": 4,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#888888": {
+      "count": 3,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/vendor.css?id=66b7026a701e4356a78a"
+      ]
+    },
+    "#343a40": {
+      "count": 3,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#fabfc2": {
+      "count": 3,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#f8a7ab": {
+      "count": 3,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#c1c1c3": {
+      "count": 3,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#b4b4b6": {
+      "count": 3,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#c3e6cb": {
+      "count": 3,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#b1dfbb": {
+      "count": 3,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#bee5eb": {
+      "count": 3,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#abdde5": {
+      "count": 3,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#ffeeba": {
+      "count": 3,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#ffe8a1": {
+      "count": 3,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#f5c6cb": {
+      "count": 3,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#f1b0b7": {
+      "count": 3,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 3,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#b8b8b8": {
+      "count": 3,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#ababab": {
+      "count": 3,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#ff5268": {
+      "count": 2,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/vendor.css?id=66b7026a701e4356a78a"
+      ]
+    },
+    "#eeeeee": {
+      "count": 2,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/vendor.css?id=66b7026a701e4356a78a"
+      ]
+    },
+    "#32383e": {
+      "count": 2,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#34ce57": {
+      "count": 2,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#e4606d": {
+      "count": 2,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 2,
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+    ],
+    "Apple Color Emoji": [
+      "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+    ],
+    "Arial": [
+      "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+    ],
+    "BlinkMacSystemFont": [
+      "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+    ],
+    "Consolas": [
+      "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+    ],
+    "Courier New": [
+      "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+    ],
+    "Font Awesome\\ 5 Brands": [
+      "https://arbusa.com/themes/arb/assets/vendor.css?id=66b7026a701e4356a78a"
+    ],
+    "Font Awesome\\ 5 Pro": [
+      "https://arbusa.com/themes/arb/assets/vendor.css?id=66b7026a701e4356a78a",
+      "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+    ],
+    "Helvetica Neue": [
+      "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+    ],
+    "Inter": [
+      "https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap",
+      "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+    ],
+    "Liberation Mono": [
+      "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+    ],
+    "Liberation Sans": [
+      "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+    ],
+    "Menlo": [
+      "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+    ],
+    "Monaco": [
+      "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+    ],
+    "Noto Color Emoji": [
+      "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+    ],
+    "Noto Sans": [
+      "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+    ],
+    "Roboto": [
+      "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+    ],
+    "SFMono-Regular": [
+      "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+    ],
+    "Segoe UI": [
+      "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+    ],
+    "Segoe UI Emoji": [
+      "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+    ],
+    "Segoe UI Symbol": [
+      "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+    ],
+    "monospace": [
+      "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+    ],
+    "monospace!important": [
+      "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+    ],
+    "navigo": [
+      "https://use.typekit.net/trh6ibo.css",
+      "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+    ],
+    "sans-serif": [
+      "https://use.typekit.net/trh6ibo.css",
+      "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://arbusa.com/themes/arb/assets/vendor.css?id=66b7026a701e4356a78a",
+      "selector": ".fancybox-button,.fancybox-button:link,.fancybox-button:visited",
+      "declarations": "color:#ccc"
+    },
+    {
+      "source": "https://arbusa.com/themes/arb/assets/vendor.css?id=66b7026a701e4356a78a",
+      "selector": ".fancybox-button:hover",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://arbusa.com/themes/arb/assets/vendor.css?id=66b7026a701e4356a78a",
+      "selector": ".fancybox-button[disabled],.fancybox-button[disabled]:hover",
+      "declarations": "color:#888;cursor:default;outline:none"
+    },
+    {
+      "source": "https://arbusa.com/themes/arb/assets/vendor.css?id=66b7026a701e4356a78a",
+      "selector": ".fancybox-share h1",
+      "declarations": "color:#222;font-size:35px;font-weight:700;margin:0 0 20px"
+    },
+    {
+      "source": "https://arbusa.com/themes/arb/assets/vendor.css?id=66b7026a701e4356a78a",
+      "selector": ".fancybox-share__button:link,.fancybox-share__button:visited",
+      "declarations": "color:#fff"
+    },
+    {
+      "source": "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db",
+      "selector": "@charset \"UTF-8\";:root",
+      "declarations": "--blue:#007bff;--indigo:#6610f2;--purple:#6f42c1;--pink:#e83e8c;--red:#dc3545;--orange:#fd7e14;--yellow:#ffc107;--green:#28a745;--teal:#20c997;--cyan:#17a2b8;--white:#fff;--gray:#6c757d;--gray-dark:#343a40;--primary:#ed1c24;--secondary:#202227;--success:#28a745;--info:#17a2b8;--warning:#ffc107;--danger:#dc3545;--light:#fff;--dark:#000;--breakpoint-xs:0;--breakpoint-sm:576px;--breakpoint-md:768px;--breakpoint-lg:992px;--breakpoint-xl:1200px;--breakpoint-xxl:1440px;--font-family-sans-serif:\"Inter\",sans-serif;--font-family-monospace:SFMono-Regular,Menlo,Monaco,Consolas,\"Liberation Mono\",\"Courier New\",monospace"
+    },
+    {
+      "source": "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db",
+      "selector": ".table-dark tbody+tbody,.table-dark td,.table-dark th,.table-dark thead th",
+      "declarations": "border-color:#dee2e6"
+    },
+    {
+      "source": "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db",
+      "selector": "body",
+      "declarations": "margin:0;font-family:Inter,sans-serif;font-size:1rem;font-weight:400;line-height:1.5;color:#343841;text-align:left;background-color:#fff"
+    },
+    {
+      "source": "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "margin:0;font-family:inherit;font-size:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db",
+      "selector": ".h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6",
+      "declarations": "margin-bottom:1rem;font-family:navigo,sans-serif;font-weight:700;line-height:1.2;color:#000"
+    },
+    {
+      "source": "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db",
+      "selector": ".table-striped tbody tr:nth-of-type(odd)",
+      "declarations": "background-color:rgba(0,0,0,.05)"
+    },
+    {
+      "source": "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db",
+      "selector": ".table-hover tbody tr:hover",
+      "declarations": "color:#343841;background-color:rgba(0,0,0,.075)"
+    },
+    {
+      "source": "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db",
+      "selector": ".table-primary tbody+tbody,.table-primary td,.table-primary th,.table-primary thead th",
+      "declarations": "border-color:#f6898d"
+    },
+    {
+      "source": "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db",
+      "selector": ".table-secondary tbody+tbody,.table-secondary td,.table-secondary th,.table-secondary thead th",
+      "declarations": "border-color:#8b8c8f"
+    },
+    {
+      "source": "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db",
+      "selector": ".table-success tbody+tbody,.table-success td,.table-success th,.table-success thead th",
+      "declarations": "border-color:#8fd19e"
+    },
+    {
+      "source": "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db",
+      "selector": ".table-info tbody+tbody,.table-info td,.table-info th,.table-info thead th",
+      "declarations": "border-color:#86cfda"
+    },
+    {
+      "source": "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db",
+      "selector": ".table-warning tbody+tbody,.table-warning td,.table-warning th,.table-warning thead th",
+      "declarations": "border-color:#ffdf7e"
+    },
+    {
+      "source": "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db",
+      "selector": ".table-danger tbody+tbody,.table-danger td,.table-danger th,.table-danger thead th",
+      "declarations": "border-color:#ed969e"
+    },
+    {
+      "source": "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db",
+      "selector": ".table-light tbody+tbody,.table-light td,.table-light th,.table-light thead th",
+      "declarations": "border-color:#fff"
+    },
+    {
+      "source": "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db",
+      "selector": ".table-dark tbody+tbody,.table-dark td,.table-dark th,.table-dark thead th",
+      "declarations": "border-color:#7a7a7a"
+    },
+    {
+      "source": "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db",
+      "selector": ".table-dark.table-striped tbody tr:nth-of-type(odd)",
+      "declarations": "background-color:hsla(0,0%,100%,.05)"
+    },
+    {
+      "source": "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db",
+      "selector": ".table-dark.table-hover tbody tr:hover",
+      "declarations": "color:#fff;background-color:hsla(0,0%,100%,.075)"
+    },
+    {
+      "source": "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db",
+      "selector": ".btn",
+      "declarations": "font-weight:400;color:#343841;text-align:center;vertical-align:middle;-webkit-user-select:none;-moz-user-select:none;user-select:none;background-color:transparent;border:1px solid transparent;padding:.375rem .75rem;font-size:1rem;border-radius:.25rem;transition:color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out"
+    },
+    {
+      "source": "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db",
+      "selector": ".btn:hover",
+      "declarations": "color:#343841;text-decoration:none"
+    },
+    {
+      "source": "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db",
+      "selector": ".btn-primary",
+      "declarations": "color:#fff;background-color:#ed1c24;border-color:#ed1c24"
+    },
+    {
+      "source": "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db",
+      "selector": ".btn-primary.focus,.btn-primary:focus,.btn-primary:hover",
+      "declarations": "color:#fff;background-color:#d21118;border-color:#c61017"
+    },
+    {
+      "source": "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db",
+      "selector": ".btn-primary.disabled,.btn-primary:disabled",
+      "declarations": "color:#fff;background-color:#ed1c24;border-color:#ed1c24"
+    },
+    {
+      "source": "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db",
+      "selector": ".btn-primary:not(:disabled):not(.disabled).active,.btn-primary:not(:disabled):not(.disabled):active,.show>.btn-primary.dropdown-toggle",
+      "declarations": "color:#fff;background-color:#c61017;border-color:#ba0f15"
+    },
+    {
+      "source": "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db",
+      "selector": ".btn-secondary",
+      "declarations": "color:#fff;background-color:#202227;border-color:#202227"
+    },
+    {
+      "source": "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db",
+      "selector": ".btn-secondary.focus,.btn-secondary:focus,.btn-secondary:hover",
+      "declarations": "color:#fff;background-color:#0f1012;border-color:#090a0b"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Offroad Accessories for Overlanding - Jeeps, Trucks, SUVs | ARB 4x4 Accessories",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "colors.primary-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "colors.primary-active": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/vendor.css?id=66b7026a701e4356a78a",
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/vendor.css?id=66b7026a701e4356a78a",
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/vendor.css?id=66b7026a701e4356a78a",
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/vendor.css?id=66b7026a701e4356a78a",
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "colors.secondary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "colors.secondary-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://arbusa.com/themes/arb/assets/theme.css?id=7b05f68cebb3599732db"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.vehicle-fitment-selector": {
+      "status": "inferred"
+    }
+  }
+}

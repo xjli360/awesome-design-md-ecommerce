@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Elgato
-description: A deep, saturated teal (#093836) anchors Elgato's streaming-hardware ecosystem — not as a background, but as the primary brand voltage that fills every key visual, product shot, and hero section. This is a brand that lives in the dark: its canvas is near-black (#111111), its surfaces are layered grays (#323232, #414141, #525252), and its accents are neon-bright — a cyan (#40ddd3) that reads like a live-stream chat glow, a lime (#6ff787) that could be a key-light indicator, and a warning red (#e12a40) for alerts and recording states. The typography stack is a hybrid of display and utility: ABC Ginto Discord Nord (the Discord-derived face) for bold headlines and badges, HelveticaNeueLTPro for body and interface copy, and Bebas Neue Pro for condensed numeric displays. Buttons and interactive elements use sharp, minimal radii — the brand avoids pill shapes in favor of crisp rectangles with {rounded.sm} (8px) corners, reinforcing a pro-audio/studio aesthetic. The color palette is unusually broad for a hardware brand, with 30+ extracted hexes that include a deep blue (#0c2588), a bright blue (#204cfe), a purple (#a638fe), and multiple greens (#55f578, #2eff82, #49f5eb) — suggesting a system where each product line or software feature gets its own accent color. The overall feel is that of a control surface: dark, legible, high-contrast, with color used sparingly but with high saturation to signal state changes, alerts, and brand moments.
+name: "Elgato"
+source_url: "https://www.elgato.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep, saturated teal (#093836) anchors Elgato's streaming-hardware ecosystem — not as a background, but as the primary brand voltage that fills every key visual, product shot, and hero section. This is a brand that lives in the dark: its canvas is near-black (#111111), its surfaces are layered grays (#323232, #414141, #525252), and its accents are neon-bright — a cyan (#40ddd3) that reads like a live-stream chat glow, a lime (#6ff787) that could be a key-light indicator, and a warning red (#e12a40) for alerts and recording states. The typography stack is a hybrid of display and utility: ABC Ginto Discord Nord (the Discord-derived face) for bold headlines and badges, HelveticaNeueLTPro for body and interface copy, and Bebas Neue Pro for condensed numeric displays. Buttons and interactive elements use sharp, minimal radii — the brand avoids pill shapes in favor of crisp rectangles with {rounded.sm} (8px) corners, reinforcing a pro-audio/studio aesthetic. The color palette is unusually broad for a hardware brand, with 30+ extracted hexes that include a deep blue (#0c2588), a bright blue (#204cfe), a purple (#a638fe), and multiple greens (#55f578, #2eff82, #49f5eb) — suggesting a system where each product line or software feature gets its own accent color. The overall feel is that of a control surface: dark, legible, high-contrast, with color used sparingly but with high saturation to signal state changes, alerts, and brand moments.
 
 colors:
   primary: "#093836"
@@ -357,6 +361,8 @@ components:
 - Search bar collapses to icon-only on mobile, expanding on tap
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted color palette is unusually large (30+ hexes), suggesting a complex system with product-line-specific accents, software UI states, and marketing gradients. The true primary brand color (#093836) was identified by frequency and distinctiveness, but the brand may use multiple primaries across different contexts (hardware vs. software vs. marketing).
 - Font weights and exact sizing for the extracted font families (ABC Ginto Discord Nord, HelveticaNeueLTPro, Bebas Neue Pro) are inferred from common web usage patterns, not extracted from CSS. The actual weight values may differ.

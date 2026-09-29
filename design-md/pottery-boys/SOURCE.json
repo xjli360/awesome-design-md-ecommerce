@@ -1,0 +1,1415 @@
+{
+  "source_url": "https://potteryboys.com",
+  "final_url": "https://www.potteryboys.com/",
+  "captured_at": "2026-09-29T04:29:03.714716+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://potteryboys.com",
+      "final_url": "https://www.potteryboys.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "74655ce8a8acad58a66695e1ec538932e613cedefc0a160c823d212e6e7b561b",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+      "final_url": "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3ea4aa739e6491d71a5f60efddeedf4d77e1254e6e1c4a48473a8e87def29ad8",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://cdn11.editmysite.com/css/old/fancybox.css?buildtime=1787334554",
+      "final_url": "https://cdn11.editmysite.com/css/old/fancybox.css?buildtime=1787334554",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "865cb87de9fc4d6530edce21f0103107abae6abe45cabdff2ad9af067b3d8e0a",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn11.editmysite.com/css/social-icons.css?buildtime=1787334554",
+      "final_url": "https://cdn11.editmysite.com/css/social-icons.css?buildtime=1787334554",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d8d645446bb21c52290cf523f4f2c954c62ed5603bdaeb6b4c169ec970b8eaff",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.potteryboys.com/files/main_style.css?1787334766",
+      "final_url": "https://www.potteryboys.com/files/main_style.css?1787334766",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f993de02ea007577c0584fa92426fe19cc851c92ed080cdd22e415d51d419346",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn2.editmysite.com/fonts/Lato/font.css?2",
+      "final_url": "https://cdn2.editmysite.com/fonts/Lato/font.css?2",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "cb2642e037c6e74eace100541b7e6776ecaf14371b49e4decf7831bfb0a7147b",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 126,
+      "sources": [
+        "https://www.potteryboys.com/",
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+        "https://cdn11.editmysite.com/css/old/fancybox.css?buildtime=1787334554",
+        "https://cdn11.editmysite.com/css/social-icons.css?buildtime=1787334554",
+        "https://www.potteryboys.com/files/main_style.css?1787334766"
+      ]
+    },
+    "#333333": {
+      "count": 74,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+        "https://www.potteryboys.com/files/main_style.css?1787334766"
+      ]
+    },
+    "#dddddd": {
+      "count": 36,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+        "https://www.potteryboys.com/files/main_style.css?1787334766"
+      ]
+    },
+    "#000000": {
+      "count": 34,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+        "https://cdn11.editmysite.com/css/old/fancybox.css?buildtime=1787334554"
+      ]
+    },
+    "#cccccc": {
+      "count": 21,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#eeeeee": {
+      "count": 19,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#999999": {
+      "count": 14,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+        "https://www.potteryboys.com/files/main_style.css?1787334766"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 14,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+        "https://www.potteryboys.com/files/main_style.css?1787334766"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 11,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#666666": {
+      "count": 9,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+        "https://www.potteryboys.com/files/main_style.css?1787334766"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 9,
+      "sources": [
+        "https://www.potteryboys.com/files/main_style.css?1787334766"
+      ]
+    },
+    "#363b3e": {
+      "count": 8,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+        "https://cdn11.editmysite.com/css/social-icons.css?buildtime=1787334554"
+      ]
+    },
+    "#9ba0a3": {
+      "count": 8,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#ced0d2": {
+      "count": 6,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#e74c3c": {
+      "count": 6,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 6,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+        "https://www.potteryboys.com/files/main_style.css?1787334766"
+      ]
+    },
+    "#50575b": {
+      "count": 6,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#e3e5e7": {
+      "count": 6,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#a9a9a9": {
+      "count": 5,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#444444": {
+      "count": 5,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+        "https://cdn11.editmysite.com/css/old/fancybox.css?buildtime=1787334554"
+      ]
+    },
+    "#282b2d": {
+      "count": 5,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#5897fb": {
+      "count": 5,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#ff9b00": {
+      "count": 5,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#995d00": {
+      "count": 5,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#fde9e9": {
+      "count": 5,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#f58c8c": {
+      "count": 5,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#e03939": {
+      "count": 5,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#9b1818": {
+      "count": 5,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#0063dc": {
+      "count": 5,
+      "sources": [
+        "https://cdn11.editmysite.com/css/social-icons.css?buildtime=1787334554"
+      ]
+    },
+    "#efefef": {
+      "count": 4,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#e1e1e1": {
+      "count": 4,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#525252": {
+      "count": 4,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#4d4d4c": {
+      "count": 4,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#666c70": {
+      "count": 4,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#303130": {
+      "count": 4,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#000101": {
+      "count": 4,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#42403f": {
+      "count": 4,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#2a2a2a": {
+      "count": 3,
+      "sources": [
+        "https://www.potteryboys.com/"
+      ]
+    },
+    "#222222": {
+      "count": 3,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+        "https://cdn11.editmysite.com/css/old/fancybox.css?buildtime=1787334554"
+      ]
+    },
+    "#0066cc": {
+      "count": 3,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 3,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#f5871f": {
+      "count": 3,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#fef2e6": {
+      "count": 3,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#ffbf80": {
+      "count": 3,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#c9cdcf": {
+      "count": 3,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#ff0084": {
+      "count": 3,
+      "sources": [
+        "https://cdn11.editmysite.com/css/social-icons.css?buildtime=1787334554"
+      ]
+    },
+    "#f2f2f2": {
+      "count": 3,
+      "sources": [
+        "https://www.potteryboys.com/files/main_style.css?1787334766"
+      ]
+    },
+    "#a40000": {
+      "count": 3,
+      "sources": [
+        "https://www.potteryboys.com/files/main_style.css?1787334766"
+      ]
+    },
+    "#8d5024": {
+      "count": 2,
+      "sources": [
+        "https://www.potteryboys.com/"
+      ]
+    },
+    "#0e0e0e": {
+      "count": 2,
+      "sources": [
+        "https://www.potteryboys.com/"
+      ]
+    },
+    "#111111": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+        "https://cdn11.editmysite.com/css/old/fancybox.css?buildtime=1787334554"
+      ]
+    },
+    "#6688ff": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#e6f0f9": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#a7c3d9": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#696562": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+        "https://cdn11.editmysite.com/css/old/fancybox.css?buildtime=1787334554"
+      ]
+    },
+    "#abadb3": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#e3e3e3": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#b2b2b2": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#d3d3d3": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#c0392b": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#dd5857": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#7b7b7b": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#2a8fe7": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#339900": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#2990ea": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#acb0b4": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#c90000": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#a50f0f": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#afafaf": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#313131": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#4271ae": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#c82829": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#006600": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#000066": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#440044": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#f077a0": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/social-icons.css?buildtime=1787334554"
+      ]
+    },
+    "#3b5998": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/social-icons.css?buildtime=1787334554"
+      ]
+    },
+    "#dd4b39": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/social-icons.css?buildtime=1787334554"
+      ]
+    },
+    "#3f729b": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/social-icons.css?buildtime=1787334554"
+      ]
+    },
+    "#388abe": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/social-icons.css?buildtime=1787334554"
+      ]
+    },
+    "#cc2127": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/social-icons.css?buildtime=1787334554"
+      ]
+    },
+    "#f26522": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/social-icons.css?buildtime=1787334554"
+      ]
+    },
+    "#243246": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/social-icons.css?buildtime=1787334554"
+      ]
+    },
+    "#00aced": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/social-icons.css?buildtime=1787334554"
+      ]
+    },
+    "#1ab7ea": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/social-icons.css?buildtime=1787334554"
+      ]
+    },
+    "#400191": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/social-icons.css?buildtime=1787334554"
+      ]
+    },
+    "#b31217": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.editmysite.com/css/social-icons.css?buildtime=1787334554"
+      ]
+    },
+    "#d5d5d5": {
+      "count": 1,
+      "sources": [
+        "https://www.potteryboys.com/"
+      ]
+    },
+    "#dab844": {
+      "count": 1,
+      "sources": [
+        "https://www.potteryboys.com/"
+      ]
+    },
+    "#c2a43b": {
+      "count": 1,
+      "sources": [
+        "https://www.potteryboys.com/"
+      ]
+    },
+    "#2e3235": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#07141e": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#ffcc66": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#3d3d3d": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#fbfbfb": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#f4f3f3": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#ffffcc": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#434242": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#7a7a7a": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#555555": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#cdcdcd": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#f9f9f8": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#5abafc": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#ff2825": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#8bcffd": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#e6e5e5": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#a8a8a8": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#d4d4d5": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#eaeaea": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#4b5155": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#202427": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#586065": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#31a68c": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#e13a3a": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#3875d7": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#feffde": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#e4e4e4": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#d4d4d4": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#cc7c00": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#e68c00": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#f9baba": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#fbd2d2": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#c71f1f": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#dd2323": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#ebebeb": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#363636": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#474747": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#f6f6f6": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#718c00": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#8959a8": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#8e908c": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#3e999f": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#660000": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#004444": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#444400": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#7c7c7c": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#c3c3c3": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#95a5a6": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#fcfcfc": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "#888888": {
+      "count": 1,
+      "sources": [
+        "https://www.potteryboys.com/files/main_style.css?1787334766"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+    ],
+    "Calibri": [
+      "https://www.potteryboys.com/files/main_style.css?1787334766"
+    ],
+    "Consolas": [
+      "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+    ],
+    "Courier": [
+      "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+    ],
+    "Helvetica": [
+      "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+    ],
+    "Helvetica Neue": [
+      "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+    ],
+    "Lato": [
+      "https://www.potteryboys.com/files/main_style.css?1787334766",
+      "https://cdn2.editmysite.com/fonts/Lato/font.css?2"
+    ],
+    "Lato\" !important": [
+      "https://www.potteryboys.com/"
+    ],
+    "Lora": [
+      "https://www.potteryboys.com/files/main_style.css?1787334766"
+    ],
+    "Lora\" !important": [
+      "https://www.potteryboys.com/"
+    ],
+    "Lucida Grande": [
+      "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+    ],
+    "Lucida Sans Unicode": [
+      "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+    ],
+    "Menlo": [
+      "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+    ],
+    "Monaco": [
+      "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+    ],
+    "Montserrat": [
+      "https://www.potteryboys.com/files/main_style.css?1787334766"
+    ],
+    "Montserrat\" !important": [
+      "https://www.potteryboys.com/files/main_style.css?1787334766"
+    ],
+    "Open Sans": [
+      "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+    ],
+    "Proxima Nova": [
+      "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+    ],
+    "ProximaNova": [
+      "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+    ],
+    "ProximaNova-Semibold": [
+      "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+    ],
+    "Sans-Serif": [
+      "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+    ],
+    "Tahoma": [
+      "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+    ],
+    "Verdana": [
+      "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+    ],
+    "arial": [
+      "https://www.potteryboys.com/files/main_style.css?1787334766"
+    ],
+    "monospace": [
+      "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+    ],
+    "proxima": [
+      "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+    ],
+    "sans-serif": [
+      "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+    ],
+    "verdana": [
+      "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+    ],
+    "wicons": [
+      "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+    ],
+    "wsocial": [
+      "https://cdn11.editmysite.com/css/social-icons.css?buildtime=1787334554"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.potteryboys.com/",
+      "selector": "site-footer .product-block .product-title, .wsite-elements.wsite-footer .product-description, .wsite-elements.wsite-footer .wsite-form-field label, .wsite-eleme",
+      "declarations": "color:#2a2a2a !important;"
+    },
+    {
+      "source": "https://www.potteryboys.com/",
+      "selector": "duct-small .product-title, #wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product",
+      "declarations": "font-family:\"Lato\" !important;font-style:normal !important;letter-spacing: 1px !important;"
+    },
+    {
+      "source": "https://www.potteryboys.com/",
+      "selector": "site-not-footer .paragraph a, .wsite-not-footer blockquote a, #blogTable .blog-sidebar a, #blogTable .blog-comments a, #blogTable .blog-comments-bottom a, #wsit",
+      "declarations": "color:#8d5024 !important;"
+    },
+    {
+      "source": "https://www.potteryboys.com/",
+      "selector": ".wsite-headline-paragraph,.wsite-header-section .paragraph",
+      "declarations": "font-family:\"Lora\" !important;letter-spacing: 0px !important;"
+    },
+    {
+      "source": "https://www.potteryboys.com/",
+      "selector": ".blog-header h2 a",
+      "declarations": "color:#2a2a2a !important;"
+    },
+    {
+      "source": "https://www.potteryboys.com/",
+      "selector": "#wsite-content h2.wsite-product-title",
+      "declarations": "color:#d5d5d5 !important;"
+    },
+    {
+      "source": "https://www.potteryboys.com/",
+      "selector": ".wsite-product .wsite-product-price a",
+      "declarations": "color:#fff !important;letter-spacing: 0px !important;"
+    },
+    {
+      "source": "https://www.potteryboys.com/",
+      "selector": "-not-footer blockquote a:hover, #blogTable .blog-sidebar a:hover, #blogTable .blog-comments a:hover, #blogTable .blog-comments-bottom a:hover, #wsite-com-store ",
+      "declarations": "color:#dab844 !important;"
+    },
+    {
+      "source": "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+      "selector": ".video-js .vjs-big-play-button.video-error",
+      "declarations": "background-color:#2e3235;background-image:url(/images/util/videojs/sad-face.png)"
+    },
+    {
+      "source": "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+      "selector": ".video-js .vjs-menu-button .vjs-menu .vjs-menu-content",
+      "declarations": "display:block;padding:0;margin:0;position:absolute;width:10em;bottom:1.5em;max-height:15em;overflow:auto;left:-5em;background-color:#07141e;background-color:rgba(7,20,30,0.7);box-shadow:-0.2em -0.2em 0.3em rgba(255,255,255,0.2)"
+    },
+    {
+      "source": "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+      "selector": ".video-js .vjs-menu-button ul li.vjs-selected",
+      "declarations": "background-color:#000"
+    },
+    {
+      "source": "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+      "selector": ".video-js .vjs-menu-button ul li:focus,.video-js .vjs-menu-button ul li:hover,.video-js .vjs-menu-button ul li.vjs-selected:focus,.video-js .vjs-menu-button ul ",
+      "declarations": "outline:0;color:#111;background-color:#ffffff;background-color:rgba(255,255,255,0.75);box-shadow:0 0 1em #ffffff"
+    },
+    {
+      "source": "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+      "selector": ".wsite-button",
+      "declarations": "display:inline-block;padding:0 15px 0 0;background:url(/images/common/buttons/small_grey.png) no-repeat 100% -100px;text-decoration:none !important;font-weight:normal !important;font-size:14px !important;color:#222 !important;cursor:pointer"
+    },
+    {
+      "source": "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+      "selector": ".wsite-button-highlight",
+      "declarations": "color:#fff !important"
+    },
+    {
+      "source": "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+      "selector": ".blog-post .blog-header div a:hover",
+      "declarations": "border:none;color:#68f"
+    },
+    {
+      "source": "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+      "selector": ".blog-button",
+      "declarations": "font-family:'Helvetica Neue', Helvetica, Arial;height:23px;color:#333;font-size:11px;font-weight:bold;cursor:pointer;line-height:23px;background:url(/images/common/blog/blog-comment-button.png) no-repeat 0 -23px"
+    },
+    {
+      "source": "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+      "selector": ".product-long-price",
+      "declarations": "font-weight:bold !important;font-size:16px !important;color:#000000;margin:10px 0px !important"
+    },
+    {
+      "source": "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+      "selector": ".w-gallery-button.pressed",
+      "declarations": "color:#5abafc"
+    },
+    {
+      "source": "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+      "selector": "html body .galleryImageBorder,html body a .galleryImageBorder",
+      "declarations": "border-style:solid;border-color:#ddd;border-color:rgba(0,0,0,0.13);background-color:rgba(206,208,210,0.1)"
+    },
+    {
+      "source": "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+      "selector": "html body a .galleryImageBorder",
+      "declarations": "background-color:transparent"
+    },
+    {
+      "source": "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+      "selector": "html body .galleryImageBorderBlack,html body a .galleryImageBorderBlack",
+      "declarations": "border-style:solid;border-color:#000"
+    },
+    {
+      "source": "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+      "selector": "body .wsite-image-border-hairline a img,body .wsite-image-border-thin a img,body .wsite-image-border-medium a img,body .wsite-image-border-thick a img",
+      "declarations": "border-width:1px;border-style:solid;border-color:#ddd;border-color:rgba(0,0,0,0.13)"
+    },
+    {
+      "source": "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+      "selector": "body .wsite-image-border-black a img,body .wsite-theme-dark .wsite-image-border-black a img",
+      "declarations": "border-color:#000 !important"
+    },
+    {
+      "source": "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+      "selector": "#wsite-search-product-results .wsite-search-product-result .wsite-search-product-image-container .search__image-sale-banner",
+      "declarations": "padding:2px 5px;margin:0;text-align:center;color:white !important;font-weight:400 !important"
+    },
+    {
+      "source": "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+      "selector": "#wsite-search-product-results .wsite-search-product-result .search__low-stock-badge,#wsite-search-product-results .wsite-search-product-result .search__out-of-s",
+      "declarations": "font-weight:400 !important;font-style:italic !important;color:red !important"
+    },
+    {
+      "source": "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+      "selector": ".wsite-theme-dark #wsite-search-header",
+      "declarations": "border-color:#333"
+    },
+    {
+      "source": "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+      "selector": "#wsite-com-product-on-sale",
+      "declarations": "display:none;font-size:16px;font-style:italic !important;font-weight:400 !important;color:red !important"
+    },
+    {
+      "source": "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+      "selector": "#wsite-com-product-inventory-low-stock-message,#wsite-com-product-inventory-out-of-stock-message",
+      "declarations": "display:inline;font-size:16px;font-style:italic !important;font-weight:400 !important;color:red !important"
+    },
+    {
+      "source": "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+      "selector": "#wsite-com-product-fulfillment-options__tooltip_text",
+      "declarations": "display:none;opacity:0;position:absolute;z-index:10200;border-radius:2px;max-width:200px;padding:6px 10px;color:#fff;margin-top:-20px;margin-left:10px;font-feature-settings:\"kern\", \"liga\", \"pnum\";font-family:\"proxima\", \"Proxima Nova\", \"Helvetica Neue\", \"Helvetica\", \"Arial\", sans-serif;font-size:15px;font-weight:600;line-height:1.5em;background-color:rgba(0,0,0,0.8)"
+    },
+    {
+      "source": "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+      "selector": ".wsite-com-product-option .product-option-error-message,.wsite-com-product-modifier .product-modifier-error-message",
+      "declarations": "color:#dd5857"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Handmade Pottery & Ceramic Gifts by Pottery Boys Clay Studios",
+  "schema_version": 1,
+  "batch_id": "remaining-20260929",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.potteryboys.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.potteryboys.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.potteryboys.com/",
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+        "https://cdn11.editmysite.com/css/old/fancybox.css?buildtime=1787334554",
+        "https://cdn11.editmysite.com/css/social-icons.css?buildtime=1787334554",
+        "https://www.potteryboys.com/files/main_style.css?1787334766"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+        "https://www.potteryboys.com/files/main_style.css?1787334766"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+        "https://www.potteryboys.com/files/main_style.css?1787334766"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+        "https://www.potteryboys.com/files/main_style.css?1787334766"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.potteryboys.com/",
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+        "https://cdn11.editmysite.com/css/old/fancybox.css?buildtime=1787334554",
+        "https://cdn11.editmysite.com/css/social-icons.css?buildtime=1787334554",
+        "https://www.potteryboys.com/files/main_style.css?1787334766"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.potteryboys.com/"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554"
+      ]
+    },
+    "colors.text-faint": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+        "https://www.potteryboys.com/files/main_style.css?1787334766"
+      ]
+    },
+    "colors.price-ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.editmysite.com/css/sites.css?buildtime=1787334554",
+        "https://cdn11.editmysite.com/css/old/fancybox.css?buildtime=1787334554"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.glaze-swatch": {
+      "status": "inferred"
+    }
+  }
+}

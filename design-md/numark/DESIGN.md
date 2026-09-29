@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Numark
-description: A DJ hardware brand that communicates through a stark, utilitarian palette of #eeeeee and #eeafaf — the near-white and a desaturated, dusty rose that feels less like a brand color and more like the glow of a mixer’s backlit button. The site reads as a catalog of professional tools, not a lifestyle destination: product photography dominates, type runs in the single declared font "slick" at modest weights, and the interface stays out of the way. There is no decorative flourish, no rounded-card softness — corners are sharp ({rounded.none} on most containers), buttons are compact rectangles ({rounded.sm}), and the grid is rigidly columnar. The #eeafaf accent appears sparingly, often as a hover state or a subtle divider, lending a faint warmth to an otherwise clinical #eeeeee canvas. The design trusts technical specs and high-contrast product shots over copy; the voice is "this is what it does, here are the numbers." Navigation is a horizontal strip of category links, the hero is a full-bleed product image with a tight overlay of model name and price, and the footer is a dense block of links and legal text. The overall impression is of a brand that sells to working DJs who care about knobs and faders, not brand mythology.
+name: "Numark"
+source_url: "https://www.numark.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A DJ hardware brand that communicates through a stark, utilitarian palette of #eeeeee and #eeafaf — the near-white and a desaturated, dusty rose that feels less like a brand color and more like the glow of a mixer’s backlit button. The site reads as a catalog of professional tools, not a lifestyle destination: product photography dominates, type runs in the single declared font "slick" at modest weights, and the interface stays out of the way. There is no decorative flourish, no rounded-card softness — corners are sharp ({rounded.none} on most containers), buttons are compact rectangles ({rounded.sm}), and the grid is rigidly columnar. The #eeafaf accent appears sparingly, often as a hover state or a subtle divider, lending a faint warmth to an otherwise clinical #eeeeee canvas. The design trusts technical specs and high-contrast product shots over copy; the voice is "this is what it does, here are the numbers." Navigation is a horizontal strip of category links, the hero is a full-bleed product image with a tight overlay of model name and price, and the footer is a dense block of links and legal text. The overall impression is of a brand that sells to working DJs who care about knobs and faders, not brand mythology.
 
 colors:
   primary: "#eeafaf"
@@ -422,6 +426,8 @@ components:
 - Breadcrumbs truncate on mobile, showing only the current page and a "Back" link
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only two hex colors were extracted from the live site (#eeeeee, #eeafaf) — the palette above is partially inferred from common DJ-equipment e-commerce patterns. The true primary may differ; #eeafaf is used as the distinctive accent.
 - Font-family "slick" was found but no weights, sizes, or fallback stacks were extracted — typography tokens are educated estimates based on the brand's technical/professional tone.

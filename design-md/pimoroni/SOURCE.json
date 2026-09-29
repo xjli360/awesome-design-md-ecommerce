@@ -1,0 +1,653 @@
+{
+  "source_url": "https://shop.pimoroni.com",
+  "final_url": "https://shop.pimoroni.com/",
+  "captured_at": "2026-09-28T04:27:47.930982+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://shop.pimoroni.com",
+      "final_url": "https://shop.pimoroni.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "339a2f02bc825b3903d7bbc579f672ac7f229b98bea91156931155f000797981",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Roboto:wght@400;600;700;900&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Roboto:wght@400;600;700;900&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "7a098bb56bbc76fece850cb807aae099ad4f56cb1d3ec0bd65332aad677500ae",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022",
+      "final_url": "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ccd3cbb8356d901b054b46d66cf0699a96af14341053cec05feabc0bba4c669c",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://shop.pimoroni.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://shop.pimoroni.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 6,
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022",
+        "https://shop.pimoroni.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#17171f": {
+      "count": 4,
+      "sources": [
+        "https://shop.pimoroni.com/",
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "#000000": {
+      "count": 4,
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "#0000001a": {
+      "count": 3,
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "#00000000": {
+      "count": 3,
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022",
+        "https://shop.pimoroni.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#b026ff": {
+      "count": 2,
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "#00000033": {
+      "count": 2,
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#1a1c3d": {
+      "count": 1,
+      "sources": [
+        "https://shop.pimoroni.com/"
+      ]
+    },
+    "#10304a": {
+      "count": 1,
+      "sources": [
+        "https://shop.pimoroni.com/"
+      ]
+    },
+    "#0b4653": {
+      "count": 1,
+      "sources": [
+        "https://shop.pimoroni.com/"
+      ]
+    },
+    "#8a8a8a": {
+      "count": 1,
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "#3d3d3d": {
+      "count": 1,
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "#bac0ca": {
+      "count": 1,
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "#eaebf2": {
+      "count": 1,
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "#f6f7fa": {
+      "count": 1,
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "#00d5f2": {
+      "count": 1,
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "#ff2bd6": {
+      "count": 1,
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "#10c46e": {
+      "count": 1,
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "#ff7a00": {
+      "count": 1,
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "#ffc300": {
+      "count": 1,
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "#ff2d55": {
+      "count": 1,
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "#00b2ca": {
+      "count": 1,
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "#22818e": {
+      "count": 1,
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "#c530a8": {
+      "count": 1,
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "#268056": {
+      "count": 1,
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "#b16218": {
+      "count": 1,
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "#8b7325": {
+      "count": 1,
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "#d83050": {
+      "count": 1,
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "#9a989a": {
+      "count": 1,
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "#0000000d": {
+      "count": 1,
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Roboto": [
+      "https://fonts.googleapis.com/css2?family=Roboto:wght@400;600;700;900&display=swap"
+    ],
+    "Roboto Fallback": [
+      "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://shop.pimoroni.com/",
+      "selector": ".market-panel li >button",
+      "declarations": "display: grid; grid-template-columns: auto auto minmax(0, 1fr); grid-gap: 0.5rem; align-items: center; width: 100%; min-height: 2.25rem; padding: 0.35rem 0.85rem; border: 0; border-radius: 1.25rem; background: none; color: var(--black); font: inherit; text-align: left; cursor: pointer;"
+    },
+    {
+      "source": "https://shop.pimoroni.com/",
+      "selector": ".market-panel li >button:not([aria-current]):hover::before, .market-panel li >button:not([aria-current]):focus-visible::before",
+      "declarations": "border-color: var(--magenta);"
+    },
+    {
+      "source": "https://shop.pimoroni.com/",
+      "selector": ".market-panel li >button:not([aria-current]):hover",
+      "declarations": "background-color: var(--ground-light);"
+    },
+    {
+      "source": "https://shop.pimoroni.com/",
+      "selector": ".market-panel li >button[aria-current]",
+      "declarations": "background-color: var(--magenta); color: var(--white);"
+    },
+    {
+      "source": "https://shop.pimoroni.com/",
+      "selector": ".market-panel li >button[aria-current]::before",
+      "declarations": "border-color: var(--white); background-color: var(--white); background-image: url(\"data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%23ff2bd6' stroke-width='3.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M5 12.5l4.5 4.5L19 7.5'/%3E%3C/svg%3E\");"
+    },
+    {
+      "source": "https://shop.pimoroni.com/",
+      "selector": ".menu-sheet .sheet-header .close",
+      "declarations": "padding: 0 0.5rem; border: 0; background: none; font-size: 2rem; line-height: 1; color: var(--grey); cursor: pointer;"
+    },
+    {
+      "source": "https://shop.pimoroni.com/",
+      "selector": ".path h1, .path a",
+      "declarations": "margin: 0; font-size: 2rem; font-weight: 900; line-height: 1.1; letter-spacing: -1%; color: var(--black); text-decoration: none;"
+    },
+    {
+      "source": "https://shop.pimoroni.com/",
+      "selector": ".path a:not(:last-child), .path h1:not(:last-child)",
+      "declarations": "color: var(--grey);"
+    },
+    {
+      "source": "https://shop.pimoroni.com/",
+      "selector": ".path a:hover, .path h1:not(:last-child):hover",
+      "declarations": "color: var(--accent); cursor: pointer;"
+    },
+    {
+      "source": "https://shop.pimoroni.com/",
+      "selector": ".path h1 + a::before, .path a + a::before",
+      "declarations": "content: \"/\"; margin-right: 0.5rem; font-weight: 400; color: var(--pale);"
+    },
+    {
+      "source": "https://shop.pimoroni.com/",
+      "selector": ".sort button, .toggle",
+      "declarations": "padding: 0.45rem 0.85rem; border: 0; border-radius: 1.25rem; background: none; font: inherit; font-weight: 700; color: var(--grey); cursor: pointer; transition: color 0.15s ease, background-color 0.15s ease;"
+    },
+    {
+      "source": "https://shop.pimoroni.com/",
+      "selector": ".sort button:hover, .toggle:hover",
+      "declarations": "color: var(--black);"
+    },
+    {
+      "source": "https://shop.pimoroni.com/",
+      "selector": ".sort button.selected",
+      "declarations": "background-color: var(--cyan-fill); color: var(--white);"
+    },
+    {
+      "source": "https://shop.pimoroni.com/",
+      "selector": ".sheet-header .close",
+      "declarations": "padding: 0 0.5rem; border: 0; background: none; font-size: 2rem; line-height: 1; color: var(--grey); cursor: pointer;"
+    },
+    {
+      "source": "https://shop.pimoroni.com/",
+      "selector": ".row >header .note",
+      "declarations": "margin: 0; color: var(--grey);"
+    },
+    {
+      "source": "https://shop.pimoroni.com/",
+      "selector": ".row >header .all",
+      "declarations": "margin-left: auto; font-weight: 600; color: var(--black); text-decoration-color: var(--pale); white-space: nowrap;"
+    },
+    {
+      "source": "https://shop.pimoroni.com/",
+      "selector": ".row >header .all:hover",
+      "declarations": "color: var(--accent);"
+    },
+    {
+      "source": "https://shop.pimoroni.com/",
+      "selector": ".home .banner-dots button::before",
+      "declarations": "content: \"\"; width: 0.6rem; height: 0.6rem; border-radius: 0.3rem; background-color: var(--pale); transition: width 0.2s ease, background-color 0.2s ease;"
+    },
+    {
+      "source": "https://shop.pimoroni.com/",
+      "selector": ".home .banner-dots button:hover::before",
+      "declarations": "background-color: var(--grey);"
+    },
+    {
+      "source": "https://shop.pimoroni.com/",
+      "selector": ".home .banner-dots button[aria-current=\"true\"]::before",
+      "declarations": "width: 1.4rem; background-color: var(--magenta);"
+    },
+    {
+      "source": "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022",
+      "selector": "input,button,textarea,select",
+      "declarations": "font:inherit;color:var(--black)"
+    },
+    {
+      "source": "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022",
+      "selector": ":root",
+      "declarations": "--theme-font: \"Roboto\", \"Roboto Fallback\", \"Helvetica\", \"Tahoma\", \"Arial\", sans-serif;--grey: #8a8a8a;--white: #ffffff;--black: #3d3d3d;--pale: #bac0ca;--faint: #f5f5f5;--ground: #eaebf2;--ground-light: #f6f7fa;--pale-rgb: 218, 216, 218;--cyan: #00d5f2;--magenta: #ff2bd6;--violet: #b026ff;--green: #10c46e;--orange: #ff7a00;--yellow: #ffc300;--red: #ff2d55;--cyan-fill: #00b2ca;--cyan-fill-rgb: 0, 178, 202;--cyan-ink: #22818e;--magenta-ink: #c530a8;--violet-ink: #b026ff;--green-ink: #268056;--orange-ink: #b16218;--yellow-ink: #8b7325;--red-ink: #d83050;--cyan-rgb: 0, 213, 242;--magenta-rgb: 255, 43, 214;--green-rgb: 16, 196, 110;--orange-rgb: 255, 122, 0;--input-radius: .2rem;--gutter-left: ma"
+    },
+    {
+      "source": "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022",
+      "selector": "body",
+      "declarations": "font-size:1rem;line-height:1.2em;font-family:var(--theme-font);color:var(--black)"
+    },
+    {
+      "source": "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022",
+      "selector": "h1,h2,h3,h4",
+      "declarations": "line-height:1.05em;font-weight:900;font-family:var(--theme-font)"
+    },
+    {
+      "source": "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022",
+      "selector": ".button",
+      "declarations": "background-color:var(--color);font-size:1.1rem;font-weight:700;color:#fff;position:relative;display:inline-block;z-index:1;text-decoration:none;cursor:pointer;font-family:var(--theme-font);border:0;border-bottom:solid .4rem rgba(var(--color),.5);outline:none;border-radius:.2rem;padding:.75rem 1rem;text-align:center;box-shadow:var(--mid-shadow)"
+    },
+    {
+      "source": "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022",
+      "selector": ".button.red",
+      "declarations": "--color: var(--red)"
+    },
+    {
+      "source": "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022",
+      "selector": ".button.yellow",
+      "declarations": "--color: var(--yellow)"
+    },
+    {
+      "source": "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022",
+      "selector": ".button.green",
+      "declarations": "--color: var(--green)"
+    },
+    {
+      "source": "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022",
+      "selector": ".button.violet",
+      "declarations": "--color: var(--violet)"
+    },
+    {
+      "source": "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022",
+      "selector": ".button.cyan",
+      "declarations": "--color: var(--cyan)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Pimoroni Maker Store",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.pimoroni.com/",
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022",
+        "https://shop.pimoroni.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022",
+        "https://shop.pimoroni.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "colors.pale": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "colors.dark-surface": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.pimoroni.com/"
+      ]
+    },
+    "colors.cyan-fill": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "colors.danger": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shop/t/131/assets/pimoroni.css?v=123693997554065155691790508022"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://shop.pimoroni.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.category-filter-pill": {
+      "status": "inferred"
+    }
+  }
+}

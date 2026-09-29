@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Ravensburger
-description: A deep blue (#0058a2) anchors Ravensburger's digital presence with the authority of a 140-year-old puzzle and game maker — this is the blue of a clear winter sky over Lake Constance, not a generic corporate navy. The palette extends into a darker marine (#002c58) for depth, a warm stone-gray (#58504d) for body text that reads as solid and trustworthy, and a crisp near-white (#fffffe) canvas that lets product photography breathe. A restrained accent of signal red (#cd0a1e) appears sparingly — on sale badges, error states, and the occasional call-to-action — while a secondary green (#0b7c39) marks in-stock availability and positive confirmations. The typography runs Roboto at moderate weights (400 for body, 500 for navigation, 700 for headlines), a workhorse sans-serif that prioritizes legibility across puzzle instructions, game rules, and product descriptions. Cards and buttons use a soft 8px rounding ({rounded.sm}) that suggests approachability without sacrificing the precision the brand is known for — every puzzle piece must fit exactly, and the interface mirrors that philosophy. The navigation bar sits at a substantial height, carrying the logo, search, account, and cart in a single persistent row, while category dropdowns reveal the breadth of the catalog: puzzles, games, crafts, and gifts. Product cards feature a clean white background with the product image dominating the frame, price and age recommendation set in {typography.body-sm}, and a prominent "Add to Cart" button in the primary blue. The overall mood is one of quiet competence — this is a brand that knows its audience values quality, tradition, and the satisfaction of completing something difficult.
+name: "Ravensburger"
+source_url: "https://www.ravensburger.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep blue (#0058a2) anchors Ravensburger's digital presence with the authority of a 140-year-old puzzle and game maker — this is the blue of a clear winter sky over Lake Constance, not a generic corporate navy. The palette extends into a darker marine (#002c58) for depth, a warm stone-gray (#58504d) for body text that reads as solid and trustworthy, and a crisp near-white (#fffffe) canvas that lets product photography breathe. A restrained accent of signal red (#cd0a1e) appears sparingly — on sale badges, error states, and the occasional call-to-action — while a secondary green (#0b7c39) marks in-stock availability and positive confirmations. The typography runs Roboto at moderate weights (400 for body, 500 for navigation, 700 for headlines), a workhorse sans-serif that prioritizes legibility across puzzle instructions, game rules, and product descriptions. Cards and buttons use a soft 8px rounding ({rounded.sm}) that suggests approachability without sacrificing the precision the brand is known for — every puzzle piece must fit exactly, and the interface mirrors that philosophy. The navigation bar sits at a substantial height, carrying the logo, search, account, and cart in a single persistent row, while category dropdowns reveal the breadth of the catalog: puzzles, games, crafts, and gifts. Product cards feature a clean white background with the product image dominating the frame, price and age recommendation set in {typography.body-sm}, and a prominent "Add to Cart" button in the primary blue. The overall mood is one of quiet competence — this is a brand that knows its audience values quality, tradition, and the satisfaction of completing something difficult.
 
 colors:
   primary: "#0058a2"
@@ -392,6 +396,8 @@ components:
 - Category tiles shift from 4-column grid to 2-column on tablet, single column on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted color list is heavily weighted toward blues and grays, with red and green appearing as secondary accents. The true brand palette may include additional accent colors (e.g., for seasonal campaigns or sub-brands) that could not be reliably extracted.
 - Font-family declarations included "cafeteria", "molle", and "myriad" which appear to be legacy or unused declarations; Roboto and Verdana are the primary working fonts. The exact font stack hierarchy and any variable font configurations could not be determined.

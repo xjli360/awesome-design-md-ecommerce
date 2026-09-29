@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Totallee
-description: A matte-black obsession that reduces the phone case to its absolute minimum — a 0.35mm polypropylene film that feels like nothing at all. The brand’s identity is built on absence: no logos, no branding, no bulk, just a near-invisible shell that preserves the phone’s original silhouette. The palette is anchored in near-black (#231f20) and deep charcoal (#121212), with a single electric-blue accent (#36ace3) that appears only in the cart badge and a few hover states — a tiny voltage that keeps the minimalism from feeling cold. The site runs on a white canvas (#ffffff) with hairline-thin dividers (#dedede) and soft gray surfaces (#efefef, #eeeeee) that create depth without shadows. Typography uses Lato at modest weights (400 for body, 700 for headlines), set at generous line heights that give the sparse product pages room to breathe. Every product photo is a hero shot on a pure white background — no lifestyle, no hands, no context — just the case floating in negative space. The checkout flow uses Shopify’s default blue (#0b76a8) and a secondary gray (#555555) for utility text, but the brand’s own voice stays resolutely monochrome. The result is a site that feels more like a design studio’s portfolio than an e-commerce store: quiet, precise, and utterly confident in its restraint.
+name: "Totallee"
+source_url: "https://www.totalleecase.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A matte-black obsession that reduces the phone case to its absolute minimum — a 0.35mm polypropylene film that feels like nothing at all. The brand’s identity is built on absence: no logos, no branding, no bulk, just a near-invisible shell that preserves the phone’s original silhouette. The palette is anchored in near-black (#231f20) and deep charcoal (#121212), with a single electric-blue accent (#36ace3) that appears only in the cart badge and a few hover states — a tiny voltage that keeps the minimalism from feeling cold. The site runs on a white canvas (#ffffff) with hairline-thin dividers (#dedede) and soft gray surfaces (#efefef, #eeeeee) that create depth without shadows. Typography uses Lato at modest weights (400 for body, 700 for headlines), set at generous line heights that give the sparse product pages room to breathe. Every product photo is a hero shot on a pure white background — no lifestyle, no hands, no context — just the case floating in negative space. The checkout flow uses Shopify’s default blue (#0b76a8) and a secondary gray (#555555) for utility text, but the brand’s own voice stays resolutely monochrome. The result is a site that feels more like a design studio’s portfolio than an e-commerce store: quiet, precise, and utterly confident in its restraint.
 
 colors:
   primary: "#231f20"
@@ -361,6 +365,8 @@ components:
 - Accordion items remain expanded by default on desktop, collapsed on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for text inputs could not be reliably extracted — the focus border color (#231f20) is inferred from the brand palette
 - Error states (validation, out-of-stock messaging) were not visible in the extracted data

@@ -1,0 +1,828 @@
+{
+  "source_url": "https://lyres.com",
+  "final_url": "https://lyres.com/",
+  "captured_at": "2026-09-28T09:10:56.565478+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://lyres.com",
+      "final_url": "https://lyres.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "bcf6534afd2357e14c9a343357ca023d59eb55e7a58e063c7b9af856beaeb84d",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,600,700&display=swap",
+      "final_url": "https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,600,700&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "bfb3dd989e52a389ffa6124352a419ebf45e89e5c8ecd7d573ac6bdbe5317b09",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://lyres.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://lyres.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://lyres.com/cdn/shop/t/7/assets/slick.css?v=99639561323254153231724730843",
+      "final_url": "https://lyres.com/cdn/shop/t/7/assets/slick.css?v=99639561323254153231724730843",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "59c79f8c750ff538f0f42134f880058bcef94dcf4881641b96745ec8828bffdd",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://lyres.com/cdn/shop/t/7/assets/base.css?v=172642902617818153361724730842",
+      "final_url": "https://lyres.com/cdn/shop/t/7/assets/base.css?v=172642902617818153361724730842",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "8f0c0e228a114442946855e0628edaa097dc404973442c025aad8762bf2f8e12",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://lyres.com/cdn/shop/t/7/assets/common.css?v=41913090303565346541754362500",
+      "final_url": "https://lyres.com/cdn/shop/t/7/assets/common.css?v=41913090303565346541754362500",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "04e56a474700bc177d13d0a0cc622eda20ce1d3f500131707dd0ca1f522f8faf",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 67,
+      "sources": [
+        "https://lyres.com/",
+        "https://lyres.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://lyres.com/cdn/shop/t/7/assets/base.css?v=172642902617818153361724730842",
+        "https://lyres.com/cdn/shop/t/7/assets/common.css?v=41913090303565346541754362500"
+      ]
+    },
+    "#0c2340": {
+      "count": 43,
+      "sources": [
+        "https://lyres.com/",
+        "https://lyres.com/cdn/shop/t/7/assets/common.css?v=41913090303565346541754362500"
+      ]
+    },
+    "#000000": {
+      "count": 21,
+      "sources": [
+        "https://lyres.com/",
+        "https://lyres.com/cdn/shop/t/7/assets/common.css?v=41913090303565346541754362500"
+      ]
+    },
+    "#be9546": {
+      "count": 13,
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "#f8f5ef": {
+      "count": 10,
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "#c3a767": {
+      "count": 9,
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "#eaf1fb": {
+      "count": 8,
+      "sources": [
+        "https://lyres.com/",
+        "https://lyres.com/cdn/shop/t/7/assets/common.css?v=41913090303565346541754362500"
+      ]
+    },
+    "#23a6ff": {
+      "count": 8,
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "#252324": {
+      "count": 6,
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "#e9e9e9": {
+      "count": 6,
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "#1c5296": {
+      "count": 5,
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "#808080": {
+      "count": 4,
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "#eff341": {
+      "count": 4,
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "#a60c0c": {
+      "count": 4,
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "#f8f5f0": {
+      "count": 3,
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "#484848": {
+      "count": 3,
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 2,
+      "sources": [
+        "https://lyres.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://lyres.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#00000014": {
+      "count": 2,
+      "sources": [
+        "https://lyres.com/cdn/shop/t/7/assets/common.css?v=41913090303565346541754362500"
+      ]
+    },
+    "#102f55": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "#242322": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "#31302e": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "#bb4430": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "#d8d8d8": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "#9f7f4a": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "#81632c": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "#242223": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "#383838": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "#313131": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "#1f190c": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "#b9b9b9": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "#2565c1": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "#e7e7e7": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "#0071ce": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "#232323": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "#eb001b": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "#f79e1b": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "#ff5f00": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "#142fbd": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "#1532cb": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/cdn/shop/t/7/assets/base.css?v=172642902617818153361724730842"
+      ]
+    },
+    "#333333": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/cdn/shop/t/7/assets/base.css?v=172642902617818153361724730842"
+      ]
+    },
+    "#ffffff80": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/cdn/shop/t/7/assets/common.css?v=41913090303565346541754362500"
+      ]
+    },
+    "#45a35d": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/cdn/shop/t/7/assets/common.css?v=41913090303565346541754362500"
+      ]
+    },
+    "#ff5454": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/cdn/shop/t/7/assets/common.css?v=41913090303565346541754362500"
+      ]
+    },
+    "#007edb": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/cdn/shop/t/7/assets/common.css?v=41913090303565346541754362500"
+      ]
+    },
+    "#ffbd00": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/cdn/shop/t/7/assets/common.css?v=41913090303565346541754362500"
+      ]
+    },
+    "#00000026": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/cdn/shop/t/7/assets/common.css?v=41913090303565346541754362500"
+      ]
+    },
+    "#0000001a": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/cdn/shop/t/7/assets/common.css?v=41913090303565346541754362500"
+      ]
+    },
+    "#0000003b": {
+      "count": 1,
+      "sources": [
+        "https://lyres.com/cdn/shop/t/7/assets/common.css?v=41913090303565346541754362500"
+      ]
+    }
+  },
+  "font_families": {
+    "Apple Color Emoji": [
+      "https://lyres.com/"
+    ],
+    "Apple Garamond": [
+      "https://lyres.com/"
+    ],
+    "Arial": [
+      "https://lyres.com/"
+    ],
+    "Baskerville": [
+      "https://lyres.com/"
+    ],
+    "Droid Serif": [
+      "https://lyres.com/"
+    ],
+    "Helvetica": [
+      "https://lyres.com/"
+    ],
+    "Iowan Old Style": [
+      "https://lyres.com/"
+    ],
+    "New York": [
+      "https://lyres.com/"
+    ],
+    "Oswald": [
+      "https://lyres.com/"
+    ],
+    "Segoe UI Emoji": [
+      "https://lyres.com/"
+    ],
+    "Segoe UI Symbol": [
+      "https://lyres.com/"
+    ],
+    "Source Serif Pro": [
+      "https://lyres.com/",
+      "https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,600,700&display=swap"
+    ],
+    "Times": [
+      "https://lyres.com/"
+    ],
+    "Times New Roman": [
+      "https://lyres.com/"
+    ],
+    "sans-serif": [
+      "https://lyres.com/"
+    ],
+    "serif": [
+      "https://lyres.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://lyres.com/",
+      "selector": ":root,\n    .primary-scheme",
+      "declarations": "--body-background:#ffffff;\n      \n      --body-alternate-background: #f8f5ef;\n      --heading-color: #0c2340;\n      --text-color: #000000;\n      --text-light-color: rgba(0, 0, 0, 0.5);\n      --text-extralight-color: rgba(0, 0, 0, 0.3);\n      --link-color: #c3a767;\n      --button-background:#0c2340;\n      --button-text-color: #ffffff;\n      --button-border: #0c2340;\n      --button-background-hover: #c3a767;\n      --button-text-color-hover: #ffffff;\n      --button-border-hover: #c3a767;\n      --image-bg: #ffffff;\n      --form-border: #f8f5ef;\n      --form-background: #f8f5ef;\n      --form-text-color: #252324;\n      --border-color: #eaf1fb;\n      --slider-icon-color: #0c2340;\n      --slider-ico"
+    },
+    {
+      "source": "https://lyres.com/",
+      "selector": ":root",
+      "declarations": "--h1: calc(var(--heading-font-scale) * 70px);\n      --h2: calc(var(--heading-font-scale) * 55px);"
+    },
+    {
+      "source": "https://lyres.com/",
+      "selector": ":root",
+      "declarations": "--h1: calc(var(--heading-font-scale) * 60px);\n      --h2: calc(var(--heading-font-scale) * 50px);\n      --h3: calc(var(--heading-font-scale) * 30px);\n      --h4: calc(var(--heading-font-scale) * 26px);\n      --h5: calc(var(--heading-font-scale) * 22px);"
+    },
+    {
+      "source": "https://lyres.com/",
+      "selector": ":root",
+      "declarations": "--h1: calc(var(--heading-font-scale) * 50px);\n      --h2: calc(var(--heading-font-scale) * 40px);\n      --h4: calc(var(--heading-font-scale) * 24px);\n      --h5: calc(var(--heading-font-scale) * 22px);"
+    },
+    {
+      "source": "https://lyres.com/",
+      "selector": ":root",
+      "declarations": "--h1: calc(var(--heading-font-scale) * 40px);\n        --h2: calc(var(--heading-font-scale) * 36px);\n        --parallex-height:;\n        --button-radius: 3px;\n        --form-radius: 0px;\n        --card-radius:0px;\n        --block-radius:0px;"
+    },
+    {
+      "source": "https://lyres.com/",
+      "selector": ":root",
+      "declarations": "--h2: calc(var(--heading-font-scale) * 30px);\n        --h3: calc(var(--heading-font-scale) * 28px);"
+    },
+    {
+      "source": "https://lyres.com/",
+      "selector": ".header",
+      "declarations": "--menu-font-size:14px;\n    --submenu-font-size:14px;\n    --transparent-text-color:#ffffff;\n    --header-logo-width: 200px;"
+    },
+    {
+      "source": "https://lyres.com/",
+      "selector": ".header",
+      "declarations": "--header-logo-width: 150px;\n      --mobile-menu-font-size:24px;"
+    },
+    {
+      "source": "https://lyres.com/",
+      "selector": ".quickview-side-drawer #productMedia-placeholder-main .media-box",
+      "declarations": "--image-ratio:100%;"
+    },
+    {
+      "source": "https://lyres.com/",
+      "selector": ".quickview-side-drawer #productMedia-placeholder-main .media-box",
+      "declarations": "--image-ratio:100%;"
+    },
+    {
+      "source": "https://lyres.com/",
+      "selector": ".product-pricing .product-actual-price",
+      "declarations": "font-family: Oswald, Arial, Helvetica, sans-serif; font-style: normal; font-weight: 500 !important; font-size: 12px; line-height: 36px; text-transform: uppercase; color: #0c2340;"
+    },
+    {
+      "source": "https://lyres.com/",
+      "selector": ".product-badge.soldout",
+      "declarations": "background: var(--soldout-badge-bg); color: var(--soldout-badge-color); font-size: 16px !important; padding: 0 20px !important;"
+    },
+    {
+      "source": "https://lyres.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://lyres.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://lyres.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://lyres.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://lyres.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://lyres.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://lyres.com/cdn/shop/t/7/assets/base.css?v=172642902617818153361724730842",
+      "selector": "body",
+      "declarations": "background:var(--body-background);color:var(--text-color);font-size:var(--text);font-family:var(--body-font-family);font-weight:var(--body-font-weight);line-height:var(--body-font-line-height);letter-spacing:var(--body-letter-spacing);font-style:var(--body-font-style);margin:0;padding:0;word-break:break-word;scroll-behavior:smooth;-moz-osx-font-smoothing:grayscale;-webkit-font-smoothing:antialiased;font-kerning:normal"
+    },
+    {
+      "source": "https://lyres.com/cdn/shop/t/7/assets/base.css?v=172642902617818153361724730842",
+      "selector": "button",
+      "declarations": "border:0;padding:0;color:var(--text-color);font-family:var(--body-font-family);font-weight:var(--body-font-weight);font-style:var(--body-font-style);font-size:var(--text)"
+    },
+    {
+      "source": "https://lyres.com/cdn/shop/t/7/assets/base.css?v=172642902617818153361724730842",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "color:var(--heading-color);font-family:var(--heading-font-family);font-style:var(--heading-font-style);font-weight:var(--heading-font-weight);line-height:var(--heading-font-line-height);letter-spacing:var(--heading-letter-spacing);margin:0"
+    },
+    {
+      "source": "https://lyres.com/cdn/shop/t/7/assets/base.css?v=172642902617818153361724730842",
+      "selector": ".body-font",
+      "declarations": "font-family:var(--body-font-family);font-style:var(--body-font-style);font-weight:var(--body-font-weight);letter-spacing:var(--body-letter-spacing)"
+    },
+    {
+      "source": "https://lyres.com/cdn/shop/t/7/assets/common.css?v=41913090303565346541754362500",
+      "selector": ".button,button.shopify-payment-button__button,button.shopify-payment-button__button--hidden,.shopify-challenge__button,.dd-bis-button",
+      "declarations": "text-decoration:none;text-align:center;position:relative;display:inline-flex;justify-content:center;align-items:center;font-size:14px;min-width:140px;min-height:52px;padding:10px 20px;line-height:1;cursor:pointer;border-radius:var(--button-radius);background:var(--button-background);border:var(--button-border-width, 1px) solid var(--button-border);color:var(--button-text-color);font-family:var(--button-font-family);font-weight:var(--button-font-weight);font-style:var(--button-font-style);text-transform:var(--button-text-transform);overflow:hidden;transition:.2s ease-out;gap:15px"
+    },
+    {
+      "source": "https://lyres.com/cdn/shop/t/7/assets/common.css?v=41913090303565346541754362500",
+      "selector": ".button-arrow",
+      "declarations": "width:24px;height:24px;background:var(--button-background-hover);color:var(--button-text-color-hover);display:flex;align-items:center;justify-content:center;border-radius:var(--button-radius)"
+    },
+    {
+      "source": "https://lyres.com/cdn/shop/t/7/assets/common.css?v=41913090303565346541754362500",
+      "selector": "button.shopify-payment-button__button,button.shopify-payment-button__button--hidden,.outline-button",
+      "declarations": "background:transparent;border-color:var(--button-border);color:var(--button-border)"
+    },
+    {
+      "source": "https://lyres.com/cdn/shop/t/7/assets/common.css?v=41913090303565346541754362500",
+      "selector": ".shopify-cleanslate button span,.shopify-cleanslate div[role=button] span",
+      "declarations": "color:inherit!important"
+    },
+    {
+      "source": "https://lyres.com/cdn/shop/t/7/assets/common.css?v=41913090303565346541754362500",
+      "selector": "body",
+      "declarations": "--slider-arrow-width: 36px"
+    },
+    {
+      "source": "https://lyres.com/cdn/shop/t/7/assets/common.css?v=41913090303565346541754362500",
+      "selector": ".slick-dots li.slick-active button",
+      "declarations": "border-color:var(--slider-icon-border)"
+    },
+    {
+      "source": "https://lyres.com/cdn/shop/t/7/assets/common.css?v=41913090303565346541754362500",
+      "selector": ".quantity-button",
+      "declarations": "min-width:28px;height:28px;display:flex;align-items:center;justify-content:center;background:transparent;color:var(--text-color);border-radius:100%"
+    },
+    {
+      "source": "https://lyres.com/cdn/shop/t/7/assets/common.css?v=41913090303565346541754362500",
+      "selector": ".product-card-img",
+      "declarations": "position:relative;background-color:var(--image-bg);transition:.3s;border-radius:var(--card-radius);overflow:hidden"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Lyre's Non-Alcoholic",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lyres.com/",
+        "https://lyres.com/cdn/shop/t/7/assets/common.css?v=41913090303565346541754362500"
+      ]
+    },
+    "colors.primary-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lyres.com/",
+        "https://lyres.com/cdn/shop/t/7/assets/common.css?v=41913090303565346541754362500"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lyres.com/",
+        "https://lyres.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://lyres.com/cdn/shop/t/7/assets/base.css?v=172642902617818153361724730842",
+        "https://lyres.com/cdn/shop/t/7/assets/common.css?v=41913090303565346541754362500"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lyres.com/",
+        "https://lyres.com/cdn/shop/t/7/assets/common.css?v=41913090303565346541754362500"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lyres.com/",
+        "https://lyres.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://lyres.com/cdn/shop/t/7/assets/base.css?v=172642902617818153361724730842",
+        "https://lyres.com/cdn/shop/t/7/assets/common.css?v=41913090303565346541754362500"
+      ]
+    },
+    "colors.accent-gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "colors.accent-gold-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "colors.accent-navy-mid": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lyres.com/"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lyres.com/cdn/shop/t/7/assets/common.css?v=41913090303565346541754362500"
+      ]
+    },
+    "colors.error": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lyres.com/cdn/shop/t/7/assets/common.css?v=41913090303565346541754362500"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lyres.com/cdn/shop/t/7/assets/common.css?v=41913090303565346541754362500"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spirit-filter-tabs": {
+      "status": "inferred"
+    }
+  }
+}

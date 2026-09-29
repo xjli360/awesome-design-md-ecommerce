@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Megger
-description: The casing of a Megger insulation resistance tester is near-black resin banded in high-visibility orange — the contrast ratio that survives a darkened switchgear room translates directly into the brand's digital identity. Near-black #313131 anchors every heading, nav rail, and data row; orange (`{colors.primary}`) delivers the single voltage point across primary CTAs, active states, and product-category callouts without supplementary accents competing for attention. Typography runs on a resolved system-font stack — Arial, Roboto, Segoe UI — which reads as deliberate rather than economical in a B2B catalog built for field engineers: no custom kerning, no variable-weight display face, just a clean 400–700 weight ladder that lets specification ranges, test voltages, and safety ratings render without friction.
+name: "Megger"
+source_url: "https://www.megger.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  The casing of a Megger insulation resistance tester is near-black resin banded in high-visibility orange — the contrast ratio that survives a darkened switchgear room translates directly into the brand's digital identity. Near-black #313131 anchors every heading, nav rail, and data row; orange (`{colors.primary}`) delivers the single voltage point across primary CTAs, active states, and product-category callouts without supplementary accents competing for attention. Typography runs on a resolved system-font stack — Arial, Roboto, Segoe UI — which reads as deliberate rather than economical in a B2B catalog built for field engineers: no custom kerning, no variable-weight display face, just a clean 400–700 weight ladder that lets specification ranges, test voltages, and safety ratings render without friction.
 
   The grid is dense by necessity. Megger product lines — insulation testers, earth-ground analyzers, power-quality monitors, transformer-diagnostic systems — each arrive with long specification lists and multiple model variants per family. Horizontal spec tables (`spec-table`) are a first-class UI pattern, presenting resistance ranges, test voltages, measurement categories, and IP ratings in tight 11px uppercase `{typography.spec-label}` headers over 40px striped rows. Product cards carry `{colors.primary}` category badges at `{rounded.xs}` corners, a short descriptor line, and a ghost-link CTA that highlights orange only on hover — keeping listing grids scannable without visual noise. Safety callouts (`alert-safety`, `alert-warning`) use a left-border treatment borrowed directly from IEC printed literature: a 4px `{colors.danger}` or `{colors.warning}` stripe against `{colors.surface-soft}` fill signals electrical hazard inline without interrupting prose flow. Corner radii stay minimal throughout at `{rounded.xs}`–`{rounded.sm}`; nothing exceeds `{rounded.md}`, reflecting the orthogonal precision of the physical hardware itself.
 
@@ -392,6 +396,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Color palette severely limited**: Only `#313131` was extracted from the live site; the anti-bot challenge page ("Just a moment...") blocked full rendering. The orange primary (`{colors.primary}`) at approximately `#f47920` is derived from brand knowledge — Megger's physical hardware, product imagery, and historical marketing materials consistently feature a strong amber-orange accent — but the precise web hex was not confirmed by live extraction.
 - **No meta theme-color**: The `<meta name="theme-color">` tag was absent or inaccessible; mobile browser chrome bar tint is unconfirmed.

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Faber-Castell
-description: A deep forest green (#05301a) anchors a brand that has been making art supplies since 1761, and the weight of that history shows in how confidently the system uses restraint. The primary green appears on buttons, navigation bars, and category headers — not as an accent but as a structural color that says "this is serious craft." A warm off-white (#f6f6f0) serves as the canvas, softer than pure white, evoking the tooth of fine paper. Red (#c60808) arrives sparingly: sale badges, error states, the occasional price-drop flag — a single sharp note against the green-and-cream harmony. The extracted palette is heavy on grays (#707170, #787878, #aaaaaa, #d5d5d5) used for borders, muted text, and secondary surfaces, creating a quiet hierarchy where the green and red do all the emotional work. Typography defaults to system sans-serif (Arial, sans-serif) with no custom brand font detected — the brand lets its product photography and packaging design carry personality instead. Cards use soft rounding ({rounded.sm}) while buttons are pill-shaped ({rounded.full}), a contrast that makes CTAs feel tactile and intentional. The overall mood is workshop-meets-gallery: clean enough for a professional illustrator, warm enough for a child's first pencil set.
+name: "Faber-Castell"
+source_url: "https://www.fabercastell.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep forest green (#05301a) anchors a brand that has been making art supplies since 1761, and the weight of that history shows in how confidently the system uses restraint. The primary green appears on buttons, navigation bars, and category headers — not as an accent but as a structural color that says "this is serious craft." A warm off-white (#f6f6f0) serves as the canvas, softer than pure white, evoking the tooth of fine paper. Red (#c60808) arrives sparingly: sale badges, error states, the occasional price-drop flag — a single sharp note against the green-and-cream harmony. The extracted palette is heavy on grays (#707170, #787878, #aaaaaa, #d5d5d5) used for borders, muted text, and secondary surfaces, creating a quiet hierarchy where the green and red do all the emotional work. Typography defaults to system sans-serif (Arial, sans-serif) with no custom brand font detected — the brand lets its product photography and packaging design carry personality instead. Cards use soft rounding ({rounded.sm}) while buttons are pill-shaped ({rounded.full}), a contrast that makes CTAs feel tactile and intentional. The overall mood is workshop-meets-gallery: clean enough for a professional illustrator, warm enough for a child's first pencil set.
 
 colors:
   primary: "#05301a"
@@ -371,6 +375,8 @@ components:
 - Hero banner reduces padding from 64px to 32px on mobile; overlay text shrinks proportionally
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom brand font detected; the site uses system sans-serif (Arial/Helvetica). A brand font may exist for print or packaging but is not present in the web CSS.
 - Hover and focus states for most components were inferred from common patterns; the live site may use different transitions or color shifts.

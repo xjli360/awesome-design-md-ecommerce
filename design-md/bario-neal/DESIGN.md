@@ -1,11 +1,15 @@
 ---
 version: alpha
-name: Bario Neal
-description: Every ring in the Bario Neal catalog arrives against surfaces pale enough to read as the absence of color — a deliberate visual silence that concentrates the eye entirely on hand-formed metal and ethically sourced stone. The single extracted structural anchor is #313131, a dense charcoal that governs all typographic ink and border rules without tipping fully into pure black; this one shade carries the compositional weight that louder brands distribute across multi-color accent families. The surrounding palette is a warm neutral system — parchment whites (#f9f8f6) and clean canvas (#ffffff) that read closer to raw linen than clinical digital white, with hairlines at a barely-tinted off-tone (#e8e4de) that segment content without asserting territory.
+name: "Bario Neal"
+source_url: "https://www.barioneal.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Every ring in the Bario Neal catalog arrives against surfaces pale enough to read as the absence of color — a deliberate visual silence that concentrates the eye entirely on hand-formed metal and ethically sourced stone. The single extracted structural anchor is #313131, a dense charcoal that governs all typographic ink and border rules without tipping fully into pure black; this one shade carries the compositional weight that louder brands distribute across multi-color accent families. The surrounding palette is a warm neutral system — parchment whites (#f9f8f6) and clean canvas (#ffffff) that read closer to raw linen than clinical digital white, with hairlines at a barely-tinted off-tone (#e8e4de) that segment content without asserting territory.
 
-Navigation is architecturally spare: a compact row of category names over a full-width editorial hero, letting stone color and metal finish set all tonal mood. Product cards rest in minimal sharp-cornered containment at {rounded.none} to {rounded.xs}, mirroring the precision geometry of metalwork rather than the soft-pill vocabulary of mass-market ecommerce. Primary actions present as sober dark rectangles rather than rounded fills — the commerce infrastructure is visible but deliberately un-aggressive. Type runs in system sans-serif stacks at restrained weights, with display lines at generous letter-spacing (0.08–0.12em) that signal spaciousness over urgency. Body copy sits at 14–15px with tall leading tuned for the long material-description reads that educated jewelry buyers expect.
+  Navigation is architecturally spare: a compact row of category names over a full-width editorial hero, letting stone color and metal finish set all tonal mood. Product cards rest in minimal sharp-cornered containment at {rounded.none} to {rounded.xs}, mirroring the precision geometry of metalwork rather than the soft-pill vocabulary of mass-market ecommerce. Primary actions present as sober dark rectangles rather than rounded fills — the commerce infrastructure is visible but deliberately un-aggressive. Type runs in system sans-serif stacks at restrained weights, with display lines at generous letter-spacing (0.08–0.12em) that signal spaciousness over urgency. Body copy sits at 14–15px with tall leading tuned for the long material-description reads that educated jewelry buyers expect.
 
-No decorative noise competes with gemstone photography. The brand's Philadelphia studio character — handcraft, ethical sourcing, measured precision — shows in a UI where #313131 and white carry all tonal responsibility, margins are wide, {spacing.section} breaks separate catalog tiers generously, and the overall grid breathes like a portfolio rather than a retail shelf. Inquiry and consultation flows favor simple outlined inputs on the warm canvas, and custom-ring CTAs carry the same visual weight as standard add-to-cart buttons, signaling that bespoke commissions are a primary transaction mode rather than a specialty service.
+  No decorative noise competes with gemstone photography. The brand's Philadelphia studio character — handcraft, ethical sourcing, measured precision — shows in a UI where #313131 and white carry all tonal responsibility, margins are wide, {spacing.section} breaks separate catalog tiers generously, and the overall grid breathes like a portfolio rather than a retail shelf. Inquiry and consultation flows favor simple outlined inputs on the warm canvas, and custom-ring CTAs carry the same visual weight as standard add-to-cart buttons, signaling that bespoke commissions are a primary transaction mode rather than a specialty service.
 
 colors:
   primary: "#313131"
@@ -308,6 +312,8 @@ components:
 - The hero's display-xl text scales down to the display-md size token below 744px to prevent overflow on short text containers.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Site was behind Cloudflare anti-bot protection during extraction ("Just a moment…" page title); only one hex color (#313131) was recovered — full palette is unavailable from live-site extraction.
 - No custom or licensed brand typeface was detected; only system-UI fallback stacks are present. Bario Neal likely uses a licensed serif or geometric sans for display — the typography definitions here should be replaced once the actual typeface is identified.

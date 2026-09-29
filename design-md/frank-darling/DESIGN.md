@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Frank Darling
-description: Where engagement ring brands reflexively reach for warm gold and blush rose, Frank Darling built its entire visual identity around deep indigo (#1c1794) — a saturated, almost violet blue that belongs to design studios and editorial magazines rather than jewelry cases. The choice reads as a positioning statement: this is custom work, designed collaboratively, for people who know what they want and want it done differently. The editorial type pairing sharpens that signal. Louize Display trial, a contemporary serif with the warm proportions of a 20th-century book typeface, handles every headline and display moment; AkzidenzGroteskBQ-Reg — the ur-grotesque, unchanged since 1896 — runs all UI chrome: labels, navigation, buttons, captions. Together they read like a well-designed art book rather than an e-commerce template. Light sky blue (#96dbfa) surfaces as a secondary accent used for selection halos and focus rings, carrying a freshness that leavens the indigo's gravity without breaking the cool palette logic. The neutral ground is architectural: charcoal (#373737) for headings, a cool mid-gray (#6b7280) for secondary text, warm silver (#d6d5d0) for hairlines, and a near-white (#f7f7f7) canvas that keeps ring photography as the only warm thing on screen. Corner radii are restrained — `{rounded.none}` on primary buttons, `{rounded.xs}` on cards and inputs — with `{rounded.full}` reserved exclusively for filter pills and quiz option chips where selection-state switching benefits from a clearly pill-shaped affordance. The net effect is a brand that trusts its customer: direct, non-precious in its interface despite selling precious things, and designed to make a custom ring design feel like a conversation with a very smart friend.
+name: "Frank Darling"
+source_url: "https://www.frankdarling.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Where engagement ring brands reflexively reach for warm gold and blush rose, Frank Darling built its entire visual identity around deep indigo (#1c1794) — a saturated, almost violet blue that belongs to design studios and editorial magazines rather than jewelry cases. The choice reads as a positioning statement: this is custom work, designed collaboratively, for people who know what they want and want it done differently. The editorial type pairing sharpens that signal. Louize Display trial, a contemporary serif with the warm proportions of a 20th-century book typeface, handles every headline and display moment; AkzidenzGroteskBQ-Reg — the ur-grotesque, unchanged since 1896 — runs all UI chrome: labels, navigation, buttons, captions. Together they read like a well-designed art book rather than an e-commerce template. Light sky blue (#96dbfa) surfaces as a secondary accent used for selection halos and focus rings, carrying a freshness that leavens the indigo's gravity without breaking the cool palette logic. The neutral ground is architectural: charcoal (#373737) for headings, a cool mid-gray (#6b7280) for secondary text, warm silver (#d6d5d0) for hairlines, and a near-white (#f7f7f7) canvas that keeps ring photography as the only warm thing on screen. Corner radii are restrained — `{rounded.none}` on primary buttons, `{rounded.xs}` on cards and inputs — with `{rounded.full}` reserved exclusively for filter pills and quiz option chips where selection-state switching benefits from a clearly pill-shaped affordance. The net effect is a brand that trusts its customer: direct, non-precious in its interface despite selling precious things, and designed to make a custom ring design feel like a conversation with a very smart friend.
 
 colors:
   primary: "#1c1794"
@@ -362,6 +366,8 @@ components:
 - Consultation CTA banner reduces to single-column centered text and stacked CTA on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one weight of Akzidenz Grotesk was detected (`AkzidenzGroteskBQ-Reg`); the brand likely also loads Bold and/or Light variants for typographic hierarchy — confirm weight range from loaded font files or brand style guide
 - Louize Display trial is a trial-license font; production usage may differ (licensed full version or a substitute) — verify the production font name

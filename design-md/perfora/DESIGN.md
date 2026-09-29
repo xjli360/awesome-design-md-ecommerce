@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Perfora
-description: Perfora's electric blue — an approximate #0055FF saturated enough to read as a charging indicator on a phone rather than a mouthwash label — is the single design decision that separates the brand from every legacy oral care SKU on the Indian market. Where competitors default to clinical teal, pharmaceutical aqua, or the kind of white that implies sterilisation, Perfora's primary sits closer to digital product language: the blue of a premium wearable, a fintech app, a gaming peripheral. The brand's canvas is pure white, and the electric blue carries almost the entire tonal weight of the UI — product cards, CTA buttons, nav accents, and pricing callouts all draw from this one voltage rather than splitting attention across a broader palette. Product photography does the rest: clean backgrounds, close-cropped shots of brush handles and whitening strip packaging, occasionally a model against a lifestyle setting. Typography runs in a geometric sans-serif — most likely Gilroy or a near equivalent — at weights 500–700 for headlines and 400 for body copy. Display sizes are confident without being theatrical: a 40–48px headline at weight 700 feels like product design copy rather than fashion editorial. Corner radii are moderate; pill shapes appear on filter chips and trust badges while product cards and inputs use a softer 8–12px radius, keeping the UI approachable without dissolving into the rounded-everything aesthetic common to wellness peers. The overall effect is a brand that has decided clinical credibility and consumer-electronics excitement are not opposites: every session at perfora.co.in reads like unboxing a gadget, not refilling a prescription.
+name: "Perfora"
+source_url: "https://perfora.co.in"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Perfora's electric blue — an approximate #0055FF saturated enough to read as a charging indicator on a phone rather than a mouthwash label — is the single design decision that separates the brand from every legacy oral care SKU on the Indian market. Where competitors default to clinical teal, pharmaceutical aqua, or the kind of white that implies sterilisation, Perfora's primary sits closer to digital product language: the blue of a premium wearable, a fintech app, a gaming peripheral. The brand's canvas is pure white, and the electric blue carries almost the entire tonal weight of the UI — product cards, CTA buttons, nav accents, and pricing callouts all draw from this one voltage rather than splitting attention across a broader palette. Product photography does the rest: clean backgrounds, close-cropped shots of brush handles and whitening strip packaging, occasionally a model against a lifestyle setting. Typography runs in a geometric sans-serif — most likely Gilroy or a near equivalent — at weights 500–700 for headlines and 400 for body copy. Display sizes are confident without being theatrical: a 40–48px headline at weight 700 feels like product design copy rather than fashion editorial. Corner radii are moderate; pill shapes appear on filter chips and trust badges while product cards and inputs use a softer 8–12px radius, keeping the UI approachable without dissolving into the rounded-everything aesthetic common to wellness peers. The overall effect is a brand that has decided clinical credibility and consumer-electronics excitement are not opposites: every session at perfora.co.in reads like unboxing a gadget, not refilling a prescription.
 
 colors:
   primary: "#0055FF"
@@ -352,6 +356,8 @@ components:
 
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **No hex colors extracted**: The live site (perfora.co.in) appears to load design tokens via JavaScript or returns restricted responses to automated crawlers. All color values in this file are derived from brand knowledge, not live CSS extraction — treat as approximate until validated in DevTools.
 - **Primary blue is estimated**: `#0055FF` is an informed approximation of Perfora's signature electric blue. The actual value may differ slightly (likely range: #0050FF–#005CE5); confirm via DevTools > Computed > background-color on a primary CTA.

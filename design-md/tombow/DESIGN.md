@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Tombow
-description: |
+name: "Tombow"
+source_url: "https://www.tombowusa.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The color swatch grid — not product photography — is Tombow USA's real hero element. Fifty-six dual-brush pen shades display in their actual ink pigments: hot pink at #ea205c, warm orange at #ee9441, soft lavender at #a89cc8 — all anchored against a deep teal navigation rail at #108474 that doubles as the brand's primary surface. The UI is a deliberately neutral showcase chassis: near-white grays (#f6f6f6, #eeeeee, #dedede) absorb zero visual attention so every photon of saturated color belongs to the product itself. The teal pair (#108474, #04626c) holds all primary surfaces — navigation, CTAs, active filters — in a direct echo of the MONO graphite pencil barrel, where the same hue has lived for decades. MONO eraser yellow (#fbcd0a) operates as accent voltage: sale badges, announcement bars, and promotional CTAs carry it as a two-color shorthand that any Tombow product owner already recognizes from the pencil case in their bag. Light cyan (#c1e6e6) surfaces on hover tints and category chip backgrounds, cooling the palette without introducing a disconnected hue family.
 
   Type runs Nunito Sans as the functional workhorse — a rounded humanist sans whose softly terminated strokes echo the spring-loaded give of a brush pen nib. Headlines escalate into Chalet Comprime, a condensed display face that packs an entire product family name into a single typographic punch; Baskerville appears in editorial strips and campaign copy as a serif counterweight, creating a three-tier hierarchy of compressed display, rounded functional, and classical serif accent. Radius stays compressed throughout: `{rounded.xs}` on filter chips and individual color swatches, `{rounded.sm}` on buttons and product cards, `{rounded.full}` reserved only for the circular color-circle indicators themselves — a precision corner language that suits an instrument brand calibrated for consistent line quality. Spacing is generous at the macro level (`{spacing.section}`) and packed tightly at the component level, satisfying the catalog pressure of fifty-six-color product families without visual crowding.
@@ -431,6 +434,8 @@ components:
 - `nav-dropdown` mega-menu collapses to full-screen drawer on mobile with back-navigation per category level
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No meta theme-color extracted; teal #108474 assumed as the closest digital brand representative for browser chrome
 - Chalet Comprime is a licensed display face with multiple regional variants (Cologne, London, Tokyo weights); exact weight variant used for display-xl and display-md headings not determinable from CSS extraction alone

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Amoeba Music
-description: A high-voltage yellow (#fff200) cuts through a dense, almost entirely gray-and-black palette — the single color that signals every add-to-cart button, sale badge, and genre tag across a site that sells movies, music, and pop-culture ephemera. The brand's visual system is built on contrast: a near-black ink (#202020) on a white canvas, with a secondary yellow (#fff000) used sparingly for urgency and price callouts. Red (#ed1c24) appears for sale markers and limited-time offers, while a deep purple (#36043c) surfaces in footer backgrounds and special-section headers, giving the site a record-store basement mood. Typography leans on system sans-serifs (Arial, Helvetica, Verdana) with two proprietary faces — standard0758Regular and standard0765Regular — used for display headers and product titles, suggesting a custom type system that hasn't been fully documented. Buttons are sharp-cornered rectangles with {rounded.sm} 4px radius, never pills — the brand avoids the friendly roundness of modern ecommerce in favor of a utilitarian, almost warehouse aesthetic. Product cards use a soft gray surface (#f3f3f3) with hairline borders (#d7d7d7), and the search bar sits as a full-width field rather than a compact icon, reflecting a catalog-heavy browsing experience. The overall effect is a digital storefront that feels like walking into a cavernous, fluorescent-lit record store: everything is legible, nothing is precious, and the yellow is the only thing that shouts.
+name: "Amoeba Music"
+source_url: "https://www.amoeba.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A high-voltage yellow (#fff200) cuts through a dense, almost entirely gray-and-black palette — the single color that signals every add-to-cart button, sale badge, and genre tag across a site that sells movies, music, and pop-culture ephemera. The brand's visual system is built on contrast: a near-black ink (#202020) on a white canvas, with a secondary yellow (#fff000) used sparingly for urgency and price callouts. Red (#ed1c24) appears for sale markers and limited-time offers, while a deep purple (#36043c) surfaces in footer backgrounds and special-section headers, giving the site a record-store basement mood. Typography leans on system sans-serifs (Arial, Helvetica, Verdana) with two proprietary faces — standard0758Regular and standard0765Regular — used for display headers and product titles, suggesting a custom type system that hasn't been fully documented. Buttons are sharp-cornered rectangles with {rounded.sm} 4px radius, never pills — the brand avoids the friendly roundness of modern ecommerce in favor of a utilitarian, almost warehouse aesthetic. Product cards use a soft gray surface (#f3f3f3) with hairline borders (#d7d7d7), and the search bar sits as a full-width field rather than a compact icon, reflecting a catalog-heavy browsing experience. The overall effect is a digital storefront that feels like walking into a cavernous, fluorescent-lit record store: everything is legible, nothing is precious, and the yellow is the only thing that shouts.
 
 colors:
   primary: "#fff200"
@@ -434,6 +438,8 @@ components:
 - Secondary navigation (breadcrumbs, sub-genre links) hides on mobile, accessible via the filter modal
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The proprietary fonts `standard0758Regular` and `standard0765Regular` could not be found in any public font repository; their exact weights, fallback behavior, and licensing are unknown. The system assumes they are custom web fonts loaded via @font-face, but the source URL is not documented.
 - Hover and focus states for many components (especially in the footer and filter bar) are inferred from common patterns rather than extracted from the live site.

@@ -1,0 +1,387 @@
+{
+  "source_url": "https://www.lissongallery.com",
+  "final_url": "https://lisson.com/",
+  "captured_at": "2026-09-28T04:12:57.059183+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.lissongallery.com",
+      "final_url": "https://lisson.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "9cfca1bdb01312a6890e36cfbaba1a65526e28922c6e618d3dea273410248c5a",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://lisson.com/_next/static/css/6b902f0738760f53.css",
+      "final_url": "https://lisson.com/_next/static/css/6b902f0738760f53.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "ab520b1275af644885797b7abc7f6ee0e19259dd922b8412f2a56dd8a07f36ae",
+      "snapshot": "stylesheet-1.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 14,
+      "sources": [
+        "https://lisson.com/_next/static/css/6b902f0738760f53.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 5,
+      "sources": [
+        "https://lisson.com/_next/static/css/6b902f0738760f53.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 3,
+      "sources": [
+        "https://lisson.com/_next/static/css/6b902f0738760f53.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 3,
+      "sources": [
+        "https://lisson.com/_next/static/css/6b902f0738760f53.css"
+      ]
+    },
+    "#4d4d4d": {
+      "count": 2,
+      "sources": [
+        "https://lisson.com/_next/static/css/6b902f0738760f53.css"
+      ]
+    },
+    "#1c1c1c": {
+      "count": 2,
+      "sources": [
+        "https://lisson.com/_next/static/css/6b902f0738760f53.css"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://lisson.com/_next/static/css/6b902f0738760f53.css"
+      ]
+    },
+    "#8c8c8c1a": {
+      "count": 2,
+      "sources": [
+        "https://lisson.com/_next/static/css/6b902f0738760f53.css"
+      ]
+    },
+    "#ffffff00": {
+      "count": 2,
+      "sources": [
+        "https://lisson.com/_next/static/css/6b902f0738760f53.css"
+      ]
+    },
+    "#000000": {
+      "count": 1,
+      "sources": [
+        "https://lisson.com/_next/static/css/6b902f0738760f53.css"
+      ]
+    },
+    "#8c8c8c": {
+      "count": 1,
+      "sources": [
+        "https://lisson.com/_next/static/css/6b902f0738760f53.css"
+      ]
+    },
+    "#00000033": {
+      "count": 1,
+      "sources": [
+        "https://lisson.com/_next/static/css/6b902f0738760f53.css"
+      ]
+    },
+    "#00000040": {
+      "count": 1,
+      "sources": [
+        "https://lisson.com/_next/static/css/6b902f0738760f53.css"
+      ]
+    },
+    "#0000008c": {
+      "count": 1,
+      "sources": [
+        "https://lisson.com/_next/static/css/6b902f0738760f53.css"
+      ]
+    },
+    "#ff00001a": {
+      "count": 1,
+      "sources": [
+        "https://lisson.com/_next/static/css/6b902f0738760f53.css"
+      ]
+    },
+    "#ffffff4d": {
+      "count": 1,
+      "sources": [
+        "https://lisson.com/_next/static/css/6b902f0738760f53.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Lisson Serif": [
+      "https://lisson.com/_next/static/css/6b902f0738760f53.css"
+    ],
+    "Untitled Sans": [
+      "https://lisson.com/_next/static/css/6b902f0738760f53.css"
+    ],
+    "lissonSerifSC": [
+      "https://lisson.com/_next/static/css/6b902f0738760f53.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://lisson.com/_next/static/css/6b902f0738760f53.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0"
+    },
+    {
+      "source": "https://lisson.com/_next/static/css/6b902f0738760f53.css",
+      "selector": "::file-selector-button",
+      "declarations": "font:inherit;font-feature-settings:inherit;font-variation-settings:inherit;letter-spacing:inherit;color:inherit;opacity:1;background-color:#0000;border-radius:0"
+    },
+    {
+      "source": "https://lisson.com/_next/static/css/6b902f0738760f53.css",
+      "selector": ".\\[\\&_button\\]\\:border-current\\! button,.\\[\\&_button\\]\\:focus\\:border-current\\! button:focus,html.desktop :is(.\\[\\&_button\\]\\:hover\\:border-current\\! button):ho",
+      "declarations": "border-color:currentColor!important"
+    },
+    {
+      "source": "https://lisson.com/_next/static/css/6b902f0738760f53.css",
+      "selector": ".\\[\\&_button\\>span\\]\\:text-current button>span",
+      "declarations": "color:currentColor"
+    },
+    {
+      "source": "https://lisson.com/_next/static/css/6b902f0738760f53.css",
+      "selector": ":root",
+      "declarations": "--nav-mobile-height:4.8rem;--border-width:1px"
+    },
+    {
+      "source": "https://lisson.com/_next/static/css/6b902f0738760f53.css",
+      "selector": ":root",
+      "declarations": "--border-width:.5px"
+    },
+    {
+      "source": "https://lisson.com/_next/static/css/6b902f0738760f53.css",
+      "selector": ":root",
+      "declarations": "--grid-count:8;--nav-mobile-height:5.6rem;--spacing-component:19.2rem;--padding-l:9.6rem"
+    },
+    {
+      "source": "https://lisson.com/_next/static/css/6b902f0738760f53.css",
+      "selector": ":root",
+      "declarations": "--grid-count:12"
+    },
+    {
+      "source": "https://lisson.com/_next/static/css/6b902f0738760f53.css",
+      "selector": ":root",
+      "declarations": "--grid-count:12;--grid-gutter:1.2rem;--grid-margin:2.4rem;--spacing-m:1.2rem;--spacing-l:1.8rem;--spacing-xl:2.4rem;--spacing-component:30rem;--padding-xs:4.6rem;--padding-s:6.2rem;--padding-m:9.2rem;--padding-l:14.8rem;--padding-xl:18.6rem;--padding-xxl:31.2rem"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Lisson | Contemporary Art Gallery",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lisson.com/_next/static/css/6b902f0738760f53.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lisson.com/_next/static/css/6b902f0738760f53.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lisson.com/_next/static/css/6b902f0738760f53.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lisson.com/_next/static/css/6b902f0738760f53.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lisson.com/_next/static/css/6b902f0738760f53.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lisson.com/_next/static/css/6b902f0738760f53.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lisson.com/_next/static/css/6b902f0738760f53.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lisson.com/_next/static/css/6b902f0738760f53.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lisson.com/_next/static/css/6b902f0738760f53.css"
+      ]
+    },
+    "colors.overlay-scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lisson.com/_next/static/css/6b902f0738760f53.css"
+      ]
+    },
+    "colors.hover-tint": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lisson.com/_next/static/css/6b902f0738760f53.css"
+      ]
+    },
+    "colors.alert-tint": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lisson.com/_next/static/css/6b902f0738760f53.css"
+      ]
+    },
+    "colors.transparent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lisson.com/_next/static/css/6b902f0738760f53.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.exhibition-card": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,0 +1,687 @@
+{
+  "source_url": "https://play.date",
+  "final_url": "https://play.date/",
+  "captured_at": "2026-09-28T04:57:56.157478+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://play.date",
+      "final_url": "https://play.date/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "6700a9ac3d2dc9651b0b87bdf8aa1c3c138a89b9a3397f37764cb243c49aa4b6",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://play.date/static/assets/colors/colors.45e2a71d042c.css",
+      "final_url": "https://play.date/static/assets/colors/colors.45e2a71d042c.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "c2f62778804d6faa6a21571dba6922e37ad536baba0472ed1ef2d912fa40a862",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://play.date/static/css/playdate.6965b7ebe6ef.css",
+      "final_url": "https://play.date/static/css/playdate.6965b7ebe6ef.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "acb87388b7185f24bd781791357c30a1dcc4a4700aec886121fa901d58413f77",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://play.date/static/assets/navbar/navbar.b76fabc7fa57.css",
+      "final_url": "https://play.date/static/assets/navbar/navbar.b76fabc7fa57.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b4dd176fc537a5590139d76f2cbb0b185b15de663b5ac613e7f9165f2ad9df84",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://play.date/static/css/search.b31b56dffef0.css",
+      "final_url": "https://play.date/static/css/search.b31b56dffef0.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "5f9d61ec2ed6ef028cc9264fb6ab3e4e5f86a1371cd27d30d200d5e43d533b3e",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://play.date/static/css/frontpage.3c01899defcd.css",
+      "final_url": "https://play.date/static/css/frontpage.3c01899defcd.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3ffc092a37958d2aed2c378c57214aebb77ef4059636f4e87e44bf96e98a8aef",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#012a99": {
+      "count": 4,
+      "sources": [
+        "https://play.date/static/css/frontpage.3c01899defcd.css"
+      ]
+    },
+    "#ef5023": {
+      "count": 2,
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "#000000": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "#1d1c18": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "#212223": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "#312f28": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "#57554e": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "#7e7b75": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "#7a8085": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "#64676c": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "#b1afa8": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "#efefef": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "#ffc833": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "#fbc651": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "#ff6c42": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "#e88984": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "#ff004e": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "#6c00ff": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "#9d70db": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "#306fb6": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "#5e99d0": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "#a0d1ff": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "#2c7d46": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "#60be83": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "#9be1b6": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "#469a65": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "#90f8b7": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "#00a88a": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "#127866": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "#21c6a9": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "#9400ff": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/css/frontpage.3c01899defcd.css"
+      ]
+    },
+    "#5c00ff": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/css/frontpage.3c01899defcd.css"
+      ]
+    },
+    "#4a00d1": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/css/frontpage.3c01899defcd.css"
+      ]
+    },
+    "#7800ff": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/css/frontpage.3c01899defcd.css"
+      ]
+    },
+    "#090d61": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/css/frontpage.3c01899defcd.css"
+      ]
+    },
+    "#010537": {
+      "count": 1,
+      "sources": [
+        "https://play.date/static/css/frontpage.3c01899defcd.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Helvetica": [
+      "https://play.date/static/css/playdate.6965b7ebe6ef.css"
+    ],
+    "Roobert": [
+      "https://play.date/",
+      "https://play.date/static/css/playdate.6965b7ebe6ef.css"
+    ],
+    "sans-serif": [
+      "https://play.date/static/css/playdate.6965b7ebe6ef.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://play.date/static/assets/colors/colors.45e2a71d042c.css",
+      "selector": "@charset \"utf-8\";\n\n\n:root",
+      "declarations": "--black: #000000; \n        --darkest-gray: #1d1c18;\n        --psd-darkest-gray: #212223; \n        --screen-black: #312f28; \n        --dark-gray: #57554e;\n        --mid-gray: #7e7b75;\n        --psd-dark-gray: #7a8085; \n        --psd-mid-gray: #64676c;\n        --screen-white: #b1afa8; \n        --psd-light-gray: #bbb; \n        --lightest-gray: #f5f5f5;\n        --psd-lightest-gray: #efefef; \n        --white: #ffffff; \n\n        --brand-yellow: #ffc833; \n        --device-yellow: #fbc651; \n        --red: #ef5023; \n        --readable-red: #ff6c42;\n        --muted-red: #e88984; \n        --tomato-red: #ff004e;\n        --orange: #ef5023;\n        --purple: #6c00ff; \n        --muted-purple: #9d70db; \n   "
+    },
+    {
+      "source": "https://play.date/static/css/playdate.6965b7ebe6ef.css",
+      "selector": "@charset \"utf-8\";\n:root",
+      "declarations": "--page-bg: var(--psd-lightest-gray);\n    --page-bg-inverted: var(--black);\n    --card-bg: var(--white);\n    --form-bg: var(--white);\n    --text: var(--screen-black);\n    --text-inverted: var(--white);\n    --subtle: var(--psd-dark-gray);\n    --subtler: var(--psd-light-gray);\n    --disabled: var(--psd-light-gray);\n    --interactive: var(--muted-purple);\n    --accent: var(--brand-yellow);\n    --link: var(--purple);\n    --bright: var(--purple);\n    --negative: var(--red);\n    --card-border: var(--text);\n    --input-bg: var(--page-bg);\n    --input-text: var(--text);\n    --button-bg: var(--text);\n    --button-text: var(--card-bg);\n    --status-good: var(--muted-green);\n    --status-alert: var(--or"
+    },
+    {
+      "source": "https://play.date/static/css/playdate.6965b7ebe6ef.css",
+      "selector": ":root",
+      "declarations": "--page-bg: var(--black);\n        --page-bg-inverted: var(--white);\n        --card-bg: var(--psd-darkest-gray);\n        --form-bg: var(--black);\n        --text: var(--white);\n        --text-inverted: var(--black);\n        --subtle: var(--screen-white);\n        --subtler: var(--psd-light-gray);\n        --disabled: var(--psd-dark-gray);\n        --interactive: var(--muted-purple);\n        --accent: var(--purple);\n        --link: var(--brand-yellow);\n        --bright: var(--brand-yellow);\n        --negative: var(--red);\n        --button-bg: var(--text);\n        --button-text: var(--page-bg);"
+    },
+    {
+      "source": "https://play.date/static/css/playdate.6965b7ebe6ef.css",
+      "selector": "body",
+      "declarations": "font-family: \"Roobert\", Helvetica, sans-serif;"
+    },
+    {
+      "source": "https://play.date/static/css/playdate.6965b7ebe6ef.css",
+      "selector": "html,\nbody,\n#navbar",
+      "declarations": "background-color: var(--page-bg);\n  color: var(--text);"
+    },
+    {
+      "source": "https://play.date/static/css/playdate.6965b7ebe6ef.css",
+      "selector": "div.button",
+      "declarations": "display: inline-block;\n    width: fit-content;\n    border-radius: 1em;\n    color: var(--button-text);\n    background-color: var(--button-bg);\n    padding: 0.25em 0.7em 0.35em 0.7em;\n    text-align: center;\n    margin: 2rem auto;"
+    },
+    {
+      "source": "https://play.date/static/css/playdate.6965b7ebe6ef.css",
+      "selector": "div.submit-button button,\ndiv.buttonHolder button",
+      "declarations": "-webkit-appearance: none;\n    -moz-appearance: none;\n    appearance: none;\n    cursor: pointer;\n\n    text-decoration: none;\n    display: inline-block;\n    border-radius: 0.6rem;\n    font-size: inherit;\n    font-family: inherit;\n    font-weight: 700;\n    border: 0;\n    color: var(--button-text);\n    background-color: var(--button-bg);\n    padding: 0.15em 1em 0.25em 1em;\n    margin: 0 auto 0 auto;"
+    },
+    {
+      "source": "https://play.date/static/assets/navbar/navbar.b76fabc7fa57.css",
+      "selector": "#nav-search-field::-webkit-search-cancel-button",
+      "declarations": "-webkit-appearance: none;\n    display: none;\n    z-index: 10000;\n\n    width: .75em;\n    height: .75em;\n    -webkit-mask-size: contain;\n    -webkit-mask-position: 50% 50%;\n    -webkit-mask-repeat: no-repeat;\n    \n    -webkit-mask-image: url(\"data:image/svg+xml,%3Csvg height='23.719' viewBox='0 0 23.719 23.719' width='23.719' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath d='m943.852 281.7a11.852 11.852 0 1 1 11.848-11.848 11.852 11.852 0 0 1 -11.848 11.848zm5.805-15.947a1 1 0 0 0 -1.414-1.414l-4.243 4.247-4.243-4.243a1 1 0 0 0 -1.414 1.414l4.243 4.243-4.243 4.243a1 1 0 0 0 1.414 1.414l4.243-4.243 4.243 4.243a1 1 0 0 0 1.414-1.414l-4.243-4.243z' fill='%23312f28' fill-rule='evenodd' transform='tr"
+    },
+    {
+      "source": "https://play.date/static/assets/navbar/navbar.b76fabc7fa57.css",
+      "selector": "nav.internal-nav li.button a",
+      "declarations": "padding: .35em .7em;\n    border-radius: .35em;\n\n    \n    background-color: var(--card-bg);"
+    },
+    {
+      "source": "https://play.date/static/assets/navbar/navbar.b76fabc7fa57.css",
+      "selector": "nav.internal-nav li.button a:hover",
+      "declarations": "color: var(--link);"
+    },
+    {
+      "source": "https://play.date/static/css/search.b31b56dffef0.css",
+      "selector": ":root",
+      "declarations": "--subtle: var(--psd-mid-gray);\n\t--subtler: rgba(0,0,0,.25);"
+    },
+    {
+      "source": "https://play.date/static/css/frontpage.3c01899defcd.css",
+      "selector": ":root",
+      "declarations": "--page-bg: var(--psd-dark-gray);\n    --text: var(--screen-black);\n\n    --accent: var(--brand-yellow);\n    --interactive: var(--purple);\n    --barely-subtle: var(--psd-dark-gray);\n    --mildly-subtle: var(--psd-darkest-gray);\n    --subtle: var(--psd-mid-gray);\n    --subtler: var(--screen-white);\n\n    --negative: var(--red);\n    --neutral: var(--blue);\n    --positive: var(--green);\n    --important: var(--purple);\n\n    --subtle-negative: var(--muted-red);\n    --subtle-neutral: var(--muted-blue);\n    --subtle-positive: var(--muted-green);\n    --subtle-important: var(--muted-purple);"
+    },
+    {
+      "source": "https://play.date/static/css/frontpage.3c01899defcd.css",
+      "selector": "h1#logotype",
+      "declarations": "height: 40rem;\n    font-size: 0;\n    line-height: 0;\n    padding: 0;\n    color: transparent;\n    position: relative;\n    margin: 5rem auto;\n\n    background-image: url(\"../images/logo.28192db8adaf.svg\");\n    background-repeat: no-repeat;\n    background-position: top center;\n    background-size: contain;"
+    },
+    {
+      "source": "https://play.date/static/css/frontpage.3c01899defcd.css",
+      "selector": "div#button-order a",
+      "declarations": "text-decoration: none;\n    display: inline-block;\n\n    padding: 0.1em 0.5em 0.3em 0.5em;\n    border-radius: 3em;\n\n    user-select: none;\n    -webkit-user-select: none;\n    -moz-user-select: none;\n    -o-user-select: none;\n    -ms-user-select: none;\n\n    cursor: pointer;\n\n    font-size: 1.78em;\n    font-weight: 700;\n    text-align: center;\n    text-shadow: 0 .02em .04em rgba(0,0,0,.4);\n\n    color: var(--white);\n    background-color: var(--purple);\n    background-image: linear-gradient(#9400ff, #5c00ff);\n\n    box-shadow:\n        inset 0 0.05em 0.05em rgba(255,255,255,0.6),  \n        inset 0 -0.05em 0.08em rgba(0,0,0,.5),\t\t  \n        inset 0 -0.01em 0.5em rgba(255,255,255,0.3),  \n        0 .05e"
+    },
+    {
+      "source": "https://play.date/static/css/frontpage.3c01899defcd.css",
+      "selector": "body.prepre div#button-order a,\nbody.prepre div#button-order a:active",
+      "declarations": "cursor: pointer;\n  box-shadow: none;\n  text-shadow: none;\n  background: transparent;\n  padding: 0.1em 0.5em 0.3em 0.5em;\n  color: var(--white);\n  border: 0.1em solid;\n  opacity: 0.75;"
+    },
+    {
+      "source": "https://play.date/static/css/frontpage.3c01899defcd.css",
+      "selector": "div.button#developer",
+      "declarations": "display: block;\n    width: fit-content;\n    margin: 0 auto;    \n    color: var(--white);\n    background-color: var(--screen-black);"
+    },
+    {
+      "source": "https://play.date/static/css/frontpage.3c01899defcd.css",
+      "selector": "button#muteButton",
+      "declarations": "top: 14rem;\n    left: 8rem;\n    color: transparent;\n    background-color: var(--red);\n    -webkit-mask-image: url(\"../images/VolumeOff.0239d636d609.svg\");\n    -webkit-mask-position: 0 0;\n    -webkit-mask-repeat: no-repeat;\n    -webkit-mask-size: contain;\n    width: 8rem;\n    height: 8rem;"
+    },
+    {
+      "source": "https://play.date/static/css/frontpage.3c01899defcd.css",
+      "selector": "button#muteButton.on",
+      "declarations": "-webkit-mask-image: url(\"../images/VolumeLow.a8390f097ddf.svg\");\n    -webkit-mask-position: 1rem 0;\n    background-color: var(--screen-black);\n    animation-name: pulse;\n    animation-duration: 1000ms;\n    animation-iteration-count: infinite;\n    animation-direction: alternate;"
+    },
+    {
+      "source": "https://play.date/static/css/frontpage.3c01899defcd.css",
+      "selector": "body.paused button#gameButton",
+      "declarations": "display:block;\n    position: absolute;\n    top: 40rem;\n    left: 50%;\n    transform: translateX(-50%);\n    font-size: 1.35em;\n    font-weight: 700;\n    padding: 0.25em 0.5em 0.35em 0.5em;\n    background: var(--purple);\n    border-radius: 1em;\n    border: 1rem solid transparent;\n    color: var(--white);\n    box-shadow: 0 0 5rem rgba(0,0,0,0.5);\n    transition: 250ms ease-in-out border;"
+    },
+    {
+      "source": "https://play.date/static/css/frontpage.3c01899defcd.css",
+      "selector": ".button",
+      "declarations": "background-color: var(--button-bg);\n    color: var(--button-text);"
+    },
+    {
+      "source": "https://play.date/static/css/frontpage.3c01899defcd.css",
+      "selector": ".button.noIcon",
+      "declarations": "display: inline-block;    \n    border-radius: 1em;\n    color: var(--button-text);\n    background-color: var(--button-bg);\n    padding: 0.25em 0.7em 0.35em 0.7em;\n    text-align: center;\n    margin: 2rem auto;"
+    },
+    {
+      "source": "https://play.date/static/css/frontpage.3c01899defcd.css",
+      "selector": ".button.black",
+      "declarations": "background-color: var(--black);"
+    },
+    {
+      "source": "https://play.date/static/css/frontpage.3c01899defcd.css",
+      "selector": ".button.yellow",
+      "declarations": "background-color: var(--brand-yellow);\n    color: var(--black);"
+    },
+    {
+      "source": "https://play.date/static/css/frontpage.3c01899defcd.css",
+      "selector": ".button.screenBlack",
+      "declarations": "background-color: var(--screen-black);"
+    },
+    {
+      "source": "https://play.date/static/css/frontpage.3c01899defcd.css",
+      "selector": "div.button#credits-button",
+      "declarations": "text-align: left;\n    color: var(--screen-black);\n    background-color: var(--screen-white);"
+    },
+    {
+      "source": "https://play.date/static/css/frontpage.3c01899defcd.css",
+      "selector": "div.button#orderStatus,\ndiv.button#help-button",
+      "declarations": "color: var(--white);\n    background-color: var(--purple);\n    font-size: 1.4em;"
+    },
+    {
+      "source": "https://play.date/static/css/frontpage.3c01899defcd.css",
+      "selector": "div.button a:before",
+      "declarations": "content: \"\";\n    width: 1em;\n    height: 1em;\n    display: inline-block;\n    position: relative;\n    top: 0.15em;\n    margin-right: 0.25em;\n    -webkit-mask-image: url();\n    -webkit-mask-size: 1em;\n    -webkit-mask-position: 0% 50%;\n    -webkit-mask-repeat: no-repeat;\n    background-color: var(--white);"
+    },
+    {
+      "source": "https://play.date/static/css/frontpage.3c01899defcd.css",
+      "selector": "div.button#developer a:before",
+      "declarations": "background-color: var(--white);\n    -webkit-mask-image: url(\"../images/toolbar-icon-dev.facb0dc49bac.svg\");"
+    },
+    {
+      "source": "https://play.date/static/css/frontpage.3c01899defcd.css",
+      "selector": "div.button#mirrorButton a:before",
+      "declarations": "background-color: var(--white);\n    -webkit-mask-image: url(\"../images/mirror-glyph.f1b6f3818960.svg\");"
+    },
+    {
+      "source": "https://play.date/static/css/frontpage.3c01899defcd.css",
+      "selector": "div.button#orderStatus a:before,\ndiv.button#help-button a:before",
+      "declarations": "background-color: var(--white);\n    -webkit-mask-image: url(\"../images/toolbar-icon-help.b1ee519a9db6.svg\");"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Playdate",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "colors.link": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "colors.negative": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "colors.device-yellow": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "colors.interactive": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "colors.tomato": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "colors.dark-canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "colors.dark-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://play.date/static/assets/colors/colors.45e2a71d042c.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.button-cta-order": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-card": {
+      "status": "inferred"
+    }
+  }
+}

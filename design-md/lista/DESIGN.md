@@ -1,13 +1,17 @@
 ---
 version: alpha
-name: Lista
-description: Where most tool-storage competitors reach for safety-orange or hi-vis yellow to signal industrial credibility, Lista anchors its visual identity in a deep Swiss corporate navy (#003399) — the color of aerospace tolerances and precision instrumentation, not a showroom gesture. Paired with a mechanical mid-blue (#008bd2) that reads like anodized aluminum detailing, and grounded by a neutral gray (#707070) for secondary labeling, the palette operates as a strict two-tone system derived from European engineering culture: navy owns headers, primary CTAs, and structural navigation; the lighter blue carries interactive states and accent rules that break up specification-heavy pages. No warm tones dilute the navy's authority; no tertiary hues compete with it.
+name: "Lista"
+source_url: "https://www.lista.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Where most tool-storage competitors reach for safety-orange or hi-vis yellow to signal industrial credibility, Lista anchors its visual identity in a deep Swiss corporate navy (#003399) — the color of aerospace tolerances and precision instrumentation, not a showroom gesture. Paired with a mechanical mid-blue (#008bd2) that reads like anodized aluminum detailing, and grounded by a neutral gray (#707070) for secondary labeling, the palette operates as a strict two-tone system derived from European engineering culture: navy owns headers, primary CTAs, and structural navigation; the lighter blue carries interactive states and accent rules that break up specification-heavy pages. No warm tones dilute the navy's authority; no tertiary hues compete with it.
 
-Typography runs Ballinger as the primary display face — a geometric sans-serif whose near-circular letterforms share design DNA with ITC Avant Garde Gothic Pro, Lista's secondary face deployed in label and caption contexts. Both typefaces trace back to the rationalist 1960s–70s tradition that produced Swiss railway signage and industrial machine manuals. Display type sits large and confident, often uppercase with open tracking for section headings; body text runs at 16px regular weight for specification paragraphs that run long and technical. The system never reaches for a serif face — nothing in Lista's product line invites antiquarian warmth.
+  Typography runs Ballinger as the primary display face — a geometric sans-serif whose near-circular letterforms share design DNA with ITC Avant Garde Gothic Pro, Lista's secondary face deployed in label and caption contexts. Both typefaces trace back to the rationalist 1960s–70s tradition that produced Swiss railway signage and industrial machine manuals. Display type sits large and confident, often uppercase with open tracking for section headings; body text runs at 16px regular weight for specification paragraphs that run long and technical. The system never reaches for a serif face — nothing in Lista's product line invites antiquarian warmth.
 
-Interface geometry is tight: buttons and inputs arrive with near-square 2px corners (`{rounded.xs}`), reflecting a grid system where radius is functional compression, not friendliness. Product cards are specification-first — load ratings, dimension arrays, and drawer counts lead before lifestyle photography appears. The hero section is a full-width navy module with a photographic overlay and centered display type that establishes institutional scale before the user reaches a product configurator or category browser.
+  Interface geometry is tight: buttons and inputs arrive with near-square 2px corners (`{rounded.xs}`), reflecting a grid system where radius is functional compression, not friendliness. Product cards are specification-first — load ratings, dimension arrays, and drawer counts lead before lifestyle photography appears. The hero section is a full-width navy module with a photographic overlay and centered display type that establishes institutional scale before the user reaches a product configurator or category browser.
 
-At wide breakpoints Lista centers content within a roughly 1280px container while the navy header, footer, and full-bleed accent bars extend edge to edge — an enterprise-facing layout discipline that signals this is a specifying tool for procurement managers, not a consumer storefront. The overall register is information-dense, legible at any zoom level, and free of decorative surface treatment.
+  At wide breakpoints Lista centers content within a roughly 1280px container while the navy header, footer, and full-bleed accent bars extend edge to edge — an enterprise-facing layout discipline that signals this is a specifying tool for procurement managers, not a consumer storefront. The overall register is information-dense, legible at any zoom level, and free of decorative surface treatment.
 
 colors:
   primary: "#003399"
@@ -334,6 +338,8 @@ components:
 - Footer: multi-column layout → accordion stack on mobile, no horizontal overflow
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only three hex colors extracted (#003399, #008bd2, #707070) — surface variants, error/success states, hover mid-tones, and disabled fill colors are derived rather than confirmed from live extraction
 - No meta theme-color detected — browser chrome color on mobile Safari and Chrome not confirmed

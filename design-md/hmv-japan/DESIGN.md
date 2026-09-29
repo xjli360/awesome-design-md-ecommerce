@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: HMV Japan
-description: A record store's digital storefront that feels like a mid-2000s Japanese web portal translated into a shopping engine, anchored on a deep primary blue (#109ad7) that appears on every primary button, navigation link, and category header. The brand's second voltage is a sharp accent red (#df191a) used sparingly — on sale badges, limited-edition flags, and the cart icon — creating a stop-sign urgency against the blue system. The canvas is pure white (#ffffff) with a soft surface (#f7f7f7) for product-card backgrounds, while the body text runs a cool medium gray (#444444) rather than true black, giving the dense product listings a slightly softer read. The typography system is absent of custom fonts in the extracted data, suggesting a system-ui stack that prioritizes legibility over personality — a pragmatic choice for a site that lists thousands of CDs, DVDs, books, and games across dozens of categories. The search bar is a full-width rectangle (`{rounded.none}`) with a blue border, not a pill, and the top navigation is a dense horizontal strip of category links in `{colors.primary}` that scrolls horizontally on mobile. Product cards are compact rectangles with `{rounded.xs}` corners, a thumbnail on the left, and truncated text on the right — optimized for scanning rather than dwelling. The overall mood is utilitarian but not cold: the blue injects a sense of active browsing, the red flags urgency, and the dense information architecture rewards the patient browser who knows what they want.
+name: "HMV Japan"
+source_url: "https://www.hmv.co.jp"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A record store's digital storefront that feels like a mid-2000s Japanese web portal translated into a shopping engine, anchored on a deep primary blue (#109ad7) that appears on every primary button, navigation link, and category header. The brand's second voltage is a sharp accent red (#df191a) used sparingly — on sale badges, limited-edition flags, and the cart icon — creating a stop-sign urgency against the blue system. The canvas is pure white (#ffffff) with a soft surface (#f7f7f7) for product-card backgrounds, while the body text runs a cool medium gray (#444444) rather than true black, giving the dense product listings a slightly softer read. The typography system is absent of custom fonts in the extracted data, suggesting a system-ui stack that prioritizes legibility over personality — a pragmatic choice for a site that lists thousands of CDs, DVDs, books, and games across dozens of categories. The search bar is a full-width rectangle (`{rounded.none}`) with a blue border, not a pill, and the top navigation is a dense horizontal strip of category links in `{colors.primary}` that scrolls horizontally on mobile. Product cards are compact rectangles with `{rounded.xs}` corners, a thumbnail on the left, and truncated text on the right — optimized for scanning rather than dwelling. The overall mood is utilitarian but not cold: the blue injects a sense of active browsing, the red flags urgency, and the dense information architecture rewards the patient browser who knows what they want.
 
 colors:
   primary: "#109ad7"
@@ -331,6 +335,8 @@ components:
 - Category headers lose their bottom border on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom font-family declarations were extracted; the system-ui stack is an assumption based on common practice for Japanese e-commerce sites. The actual brand may use a Japanese-specific font like "Noto Sans JP" or "Hiragino Kaku Gothic".
 - Hover states for product cards, buttons, and links are inferred from common patterns, not extracted from the live site.

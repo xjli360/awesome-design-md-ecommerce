@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Think Board
-description: |
+name: "Think Board"
+source_url: "https://www.think-board.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The writable surface as aesthetic object — Think Board makes this argument by anchoring the entire UI to a deep jade-green (#108474) that belongs more to premium workspace accessories than to institutional supply catalogs. A single punch of golden yellow (#fbcd0a) appears exactly once per page: the announcement strip or a promotional badge, a warm disruption before the teal system resumes command. Everything else descends through a long achromatic staircase from #eeeeee through a dozen near-identical grays to #121212, providing the tonal scaffolding for a utility-first Shopify catalog that would collapse into visual noise without it.
 
   Montserrat carries all display and heading work: narrow horizontal proportions, flat geometry, no serif hedging — type that behaves like the flat writable surface the brand sells. Productive geometry over expressive personality. Nunito Sans handles body copy with its round terminals softening the otherwise tightly controlled grid, preventing the catalog from reading as purely industrial. Baskerville and Open Sans appear only as Shopify stack fallbacks and review-widget artifacts, not as deliberate editorial voices.
@@ -331,6 +334,8 @@ components:
 - Hero image drops below the text stack on mobile with height capped at 280px; text alignment shifts from left-aligned to center-aligned
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Logo typeface not confirmed — Montserrat is used for headings but the wordmark may use a custom lockup or Baskerville variant; verify against supplied brand assets
 - Button corner-radius not extracted from live CSS; `{rounded.xs}` (4px) inferred from the functional, tool-grade visual register of the site

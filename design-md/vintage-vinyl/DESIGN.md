@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Vintage Vinyl
-description: A record store's digital storefront built on a stark white canvas and the deep, worn black of vinyl grooves — #000000 ink that carries every product title, price tag, and navigation label with the same weight as a 180-gram pressing. The brand trusts the raw texture of album art over decorative flourishes; product cards sit at `{rounded.sm}` with thin `{colors.hairline}` borders that frame the cover image like a record sleeve, while the search bar stretches across the top in a `{rounded.full}` pill that reads as a crate-digging invitation rather than a utility. A single accent — `#d4af37` — appears sparingly on sold-out badges and limited-edition callouts, the gold foil stamp of a collector's find. Typography runs Arial at modest sizes (body at 14px, titles at 18px) with no bold above 700, letting the record covers do the shouting. The footer stacks shipping policies and store hours in `{colors.muted}` gray, a quiet nod to the brick-and-mortar roots that still anchor the business.
+name: "Vintage Vinyl"
+source_url: "https://www.vintagevinyl.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A record store's digital storefront built on a stark white canvas and the deep, worn black of vinyl grooves — #000000 ink that carries every product title, price tag, and navigation label with the same weight as a 180-gram pressing. The brand trusts the raw texture of album art over decorative flourishes; product cards sit at `{rounded.sm}` with thin `{colors.hairline}` borders that frame the cover image like a record sleeve, while the search bar stretches across the top in a `{rounded.full}` pill that reads as a crate-digging invitation rather than a utility. A single accent — `#d4af37` — appears sparingly on sold-out badges and limited-edition callouts, the gold foil stamp of a collector's find. Typography runs Arial at modest sizes (body at 14px, titles at 18px) with no bold above 700, letting the record covers do the shouting. The footer stacks shipping policies and store hours in `{colors.muted}` gray, a quiet nod to the brick-and-mortar roots that still anchor the business.
 
 colors:
   primary: "#000000"
@@ -291,6 +295,8 @@ components:
 - Search bar collapses from centered pill to full-width input below 744px; placeholder text shortens to "Search vinyl..."
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Extracted hex colors were empty after framework filtering; the palette above is inferred from the brand's category (record store) and the single extracted font (Arial). Primary black and accent gold are common in this vertical but may not match the live site exactly.
 - No meta theme-color or page title was extracted; the site may use JavaScript-rendered titles or lack them entirely.

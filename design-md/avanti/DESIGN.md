@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Avanti
-description: |
+name: "Avanti"
+source_url: "https://www.avantiproducts.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Bright cyan (#27c3f2) floods the header and CTA layer of a site selling refrigerators and dishwashers — an unexpectedly playful voltage for a category that defaults to stainless-steel grays and safe navy. Avanti leans into this electric aqua as a signal that compact living is energetic, not compromising. The palette backs it up with a warm orange ramp (#f48120 through #d4602c) used in promotional badges, sale callouts, and hover states, giving the page a temperature contrast that keeps product grids from feeling clinical. Typography is pure utility: Roboto at medium weights across all surfaces, set in a tight vertical rhythm that lets appliance photography — always on white or light-blue (#c6e8f9) backdrops — dominate the viewport. Card corners land at `{rounded.sm}` (8px), just enough softness to humanize the grid without competing with the cylindrical and boxy product silhouettes. Navigation is a slim 64px strip anchored by the cyan wordmark left and a monospace-styled search field right, collapsing to a hamburger icon below 744px. Product cards stack energy ratings, capacity specs, and price in a compressed vertical layout that prioritizes scannability over lifestyle storytelling — this is a spec-driven shopper's interface. The Shopify backbone delivers standard cart and collection patterns, while `{spacing.section}` (64px) separates hero banners from category grids, giving the dense catalog room to breathe. Buttons are squared-off pills (`{rounded.xs}`) in the brand cyan with white text, shifting to the darker #0c97c1 on press — a deliberate nod to physical button depression on the appliances themselves.
 
 colors:
@@ -360,6 +363,8 @@ components:
 ---
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom webfont beyond Roboto detected; the site may load a proprietary display face via JavaScript or a third-party font service that wasn't captured in static extraction
 - Exact border-radius values on cards and buttons are inferred from visual pattern (4px/8px) — actual CSS values may differ slightly

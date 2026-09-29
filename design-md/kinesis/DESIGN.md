@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Kinesis
-description: A deep blue #3858e9 anchors a brand built for hands that never stop moving — this is the primary voltage that drives every CTA, product-highlight badge, and navigation accent across kinesis-ergo.com. The palette leans heavily on a near-black #1e1e1e for body text and a warm off-white #fafafa for canvas, creating a high-contrast reading environment suited to technical product specifications and ergonomic research. Red #cc1818 appears as a deliberate alert accent, used sparingly on sale badges and error states, while #4ab866 provides a secondary green for "in stock" indicators and positive confirmations. Typography runs a two-family system: Proxima Nova for body and interface copy at 16px with 1.5 line-height, and League Gothic for display headlines that set a condensed, industrial tone at 32px and 700 weight. Buttons are sharp-cornered rectangles with 8px rounding ({rounded.sm}), 48px height, and the primary blue filling the full background — no outline, no gradient, no pill shape. Product cards use a white surface ({rounded.md}) with a thin #e0e0e0 hairline, 16px padding, and a 4:3 product photo above the fold. The top navigation is a fixed 80px bar with the brand logo left-aligned, a centered product-family dropdown, and a right-aligned search icon and cart count badge in #cc1818. The overall feel is utilitarian and medical-device precise: high contrast, minimal decoration, generous vertical spacing ({spacing.section} at 64px between major sections), and a typographic hierarchy that prioritizes legibility over personality.
+name: "Kinesis"
+source_url: "https://kinesis-ergo.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep blue #3858e9 anchors a brand built for hands that never stop moving — this is the primary voltage that drives every CTA, product-highlight badge, and navigation accent across kinesis-ergo.com. The palette leans heavily on a near-black #1e1e1e for body text and a warm off-white #fafafa for canvas, creating a high-contrast reading environment suited to technical product specifications and ergonomic research. Red #cc1818 appears as a deliberate alert accent, used sparingly on sale badges and error states, while #4ab866 provides a secondary green for "in stock" indicators and positive confirmations. Typography runs a two-family system: Proxima Nova for body and interface copy at 16px with 1.5 line-height, and League Gothic for display headlines that set a condensed, industrial tone at 32px and 700 weight. Buttons are sharp-cornered rectangles with 8px rounding ({rounded.sm}), 48px height, and the primary blue filling the full background — no outline, no gradient, no pill shape. Product cards use a white surface ({rounded.md}) with a thin #e0e0e0 hairline, 16px padding, and a 4:3 product photo above the fold. The top navigation is a fixed 80px bar with the brand logo left-aligned, a centered product-family dropdown, and a right-aligned search icon and cart count badge in #cc1818. The overall feel is utilitarian and medical-device precise: high contrast, minimal decoration, generous vertical spacing ({spacing.section} at 64px between major sections), and a typographic hierarchy that prioritizes legibility over personality.
 
 colors:
   primary: "#3858e9"
@@ -330,6 +334,8 @@ components:
 - Cart count badge remains visible at all breakpoints
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components could not be reliably extracted from static CSS; active/disabled states are inferred from common patterns
 - Error styling for form validation (red borders, error messages) was not present in extracted data; #cc1818 is assumed for error borders based on its use as alert accent

@@ -1,0 +1,919 @@
+{
+  "source_url": "https://status.co",
+  "final_url": "https://www.status.co/",
+  "captured_at": "2026-09-28T09:22:39.735493+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://status.co",
+      "final_url": "https://www.status.co/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "112d9ae8ea9050d9d253f36f709cc2f50bc27f410ab38046d53c52eaa5fb6c10",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.status.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://www.status.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+      "final_url": "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "55ff73ba1677eac3ed7c39e38ac7a91f695e26e30e8e30746e8d81cfbdbd1fb4",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://www.status.co/cdn/shop/t/165/assets/vite_theme.min.css?v=168115437184736882201789168592",
+      "final_url": "https://www.status.co/cdn/shop/t/165/assets/vite_theme.min.css?v=168115437184736882201789168592",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "a6cd38c6888fa1a8373149186163f44e3490936c6588095b545a1765b0bdf71a",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://www.status.co/cdn/shop/t/165/assets/aero-slider.min.css?v=83082961526441748381781123007",
+      "final_url": "https://www.status.co/cdn/shop/t/165/assets/aero-slider.min.css?v=83082961526441748381781123007",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "33516d599c5dbcdf636a1884a0e030f378dc88552b18f164c79203d5a1312469",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdn-static.okendo.io/styles/main.min.css",
+      "final_url": "https://cdn-static.okendo.io/styles/main.min.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "09379884b3dcc1b51c1adf20ce2d6ecf46ea86beea66088e13c0df72590e92e0",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 44,
+      "sources": [
+        "https://www.status.co/",
+        "https://www.status.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+        "https://www.status.co/cdn/shop/t/165/assets/vite_theme.min.css?v=168115437184736882201789168592",
+        "https://cdn-static.okendo.io/styles/main.min.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 29,
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+        "https://cdn-static.okendo.io/styles/main.min.css"
+      ]
+    },
+    "#707070": {
+      "count": 25,
+      "sources": [
+        "https://cdn-static.okendo.io/styles/main.min.css"
+      ]
+    },
+    "#000000": {
+      "count": 22,
+      "sources": [
+        "https://www.status.co/",
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+        "https://www.status.co/cdn/shop/t/165/assets/vite_theme.min.css?v=168115437184736882201789168592",
+        "https://cdn-static.okendo.io/styles/main.min.css"
+      ]
+    },
+    "#525252": {
+      "count": 22,
+      "sources": [
+        "https://cdn-static.okendo.io/styles/main.min.css"
+      ]
+    },
+    "#00000000": {
+      "count": 16,
+      "sources": [
+        "https://www.status.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.status.co/cdn/shop/t/165/assets/vite_theme.min.css?v=168115437184736882201789168592"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 12,
+      "sources": [
+        "https://cdn-static.okendo.io/styles/main.min.css"
+      ]
+    },
+    "#202e3b": {
+      "count": 7,
+      "sources": [
+        "https://www.status.co/",
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+        "https://www.status.co/cdn/shop/t/165/assets/vite_theme.min.css?v=168115437184736882201789168592"
+      ]
+    },
+    "#d3d4dd": {
+      "count": 6,
+      "sources": [
+        "https://cdn-static.okendo.io/styles/main.min.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 4,
+      "sources": [
+        "https://www.status.co/",
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+        "https://cdn-static.okendo.io/styles/main.min.css"
+      ]
+    },
+    "#0a84ff": {
+      "count": 4,
+      "sources": [
+        "https://www.status.co/",
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 4,
+      "sources": [
+        "https://www.status.co/",
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+        "https://www.status.co/cdn/shop/t/165/assets/vite_theme.min.css?v=168115437184736882201789168592"
+      ]
+    },
+    "#dddddd": {
+      "count": 4,
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+        "https://www.status.co/cdn/shop/t/165/assets/vite_theme.min.css?v=168115437184736882201789168592"
+      ]
+    },
+    "#222222": {
+      "count": 4,
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "#999999": {
+      "count": 4,
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+        "https://www.status.co/cdn/shop/t/165/assets/vite_theme.min.css?v=168115437184736882201789168592"
+      ]
+    },
+    "#333333": {
+      "count": 4,
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+        "https://cdn-static.okendo.io/styles/main.min.css"
+      ]
+    },
+    "#d1d1d1": {
+      "count": 4,
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+        "https://www.status.co/cdn/shop/t/165/assets/vite_theme.min.css?v=168115437184736882201789168592"
+      ]
+    },
+    "#1d2135": {
+      "count": 4,
+      "sources": [
+        "https://cdn-static.okendo.io/styles/main.min.css"
+      ]
+    },
+    "#b40000": {
+      "count": 3,
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "#ffffff00": {
+      "count": 3,
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+        "https://www.status.co/cdn/shop/t/165/assets/vite_theme.min.css?v=168115437184736882201789168592"
+      ]
+    },
+    "#00000080": {
+      "count": 3,
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+        "https://www.status.co/cdn/shop/t/165/assets/vite_theme.min.css?v=168115437184736882201789168592"
+      ]
+    },
+    "#0000001a": {
+      "count": 3,
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/vite_theme.min.css?v=168115437184736882201789168592"
+      ]
+    },
+    "#83cc1c": {
+      "count": 3,
+      "sources": [
+        "https://cdn-static.okendo.io/styles/main.min.css"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 3,
+      "sources": [
+        "https://cdn-static.okendo.io/styles/main.min.css"
+      ]
+    },
+    "#43a1fa": {
+      "count": 3,
+      "sources": [
+        "https://cdn-static.okendo.io/styles/main.min.css"
+      ]
+    },
+    "#9a9db1": {
+      "count": 3,
+      "sources": [
+        "https://cdn-static.okendo.io/styles/main.min.css"
+      ]
+    },
+    "#d5c095": {
+      "count": 2,
+      "sources": [
+        "https://www.status.co/",
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "#dce6ed": {
+      "count": 2,
+      "sources": [
+        "https://www.status.co/",
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "#97b3c6": {
+      "count": 2,
+      "sources": [
+        "https://www.status.co/",
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://www.status.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#666666": {
+      "count": 2,
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "#deded5": {
+      "count": 2,
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "#e2d2b8": {
+      "count": 2,
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 2,
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "#eeeeee": {
+      "count": 2,
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "#111111": {
+      "count": 2,
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "#ffffff33": {
+      "count": 2,
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/vite_theme.min.css?v=168115437184736882201789168592"
+      ]
+    },
+    "#00000066": {
+      "count": 2,
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/vite_theme.min.css?v=168115437184736882201789168592"
+      ]
+    },
+    "#080b39": {
+      "count": 2,
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/vite_theme.min.css?v=168115437184736882201789168592"
+      ]
+    },
+    "#fcfcfd": {
+      "count": 2,
+      "sources": [
+        "https://cdn-static.okendo.io/styles/main.min.css"
+      ]
+    },
+    "#ec4048": {
+      "count": 2,
+      "sources": [
+        "https://cdn-static.okendo.io/styles/main.min.css"
+      ]
+    },
+    "#535565": {
+      "count": 2,
+      "sources": [
+        "https://cdn-static.okendo.io/styles/main.min.css"
+      ]
+    },
+    "#1990c6": {
+      "count": 1,
+      "sources": [
+        "https://www.status.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#136f99": {
+      "count": 1,
+      "sources": [
+        "https://www.status.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#121212": {
+      "count": 1,
+      "sources": [
+        "https://www.status.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#2e404c": {
+      "count": 1,
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "#eef1f2": {
+      "count": 1,
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "#bbdefd": {
+      "count": 1,
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "#9e2a2b": {
+      "count": 1,
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "#34c759": {
+      "count": 1,
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "#888888": {
+      "count": 1,
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "#bbbbbb": {
+      "count": 1,
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "#f9f9f9": {
+      "count": 1,
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "#444444": {
+      "count": 1,
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "#3e4852": {
+      "count": 1,
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "#f7f1e5": {
+      "count": 1,
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "#ffffffcc": {
+      "count": 1,
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "#202e3b40": {
+      "count": 1,
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "#00000026": {
+      "count": 1,
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "#d4c3ae": {
+      "count": 1,
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    }
+  },
+  "font_families": {
+    "Font Awesome 6 Brands": [
+      "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+    ],
+    "Font Awesome 6 Duotone": [
+      "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+    ],
+    "Font Awesome 6 Pro": [
+      "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+    ],
+    "Font Awesome 6 Sharp": [
+      "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+    ],
+    "Font Awesome 6 Sharp Duotone": [
+      "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+    ],
+    "Helvetica Neue": [
+      "https://cdn-static.okendo.io/styles/main.min.css"
+    ],
+    "Open sans": [
+      "https://cdn-static.okendo.io/styles/main.min.css"
+    ],
+    "Usual": [
+      "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+    ],
+    "oke-reviews-icons": [
+      "https://cdn-static.okendo.io/styles/main.min.css"
+    ],
+    "sans-serif": [
+      "https://www.status.co/",
+      "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+      "https://cdn-static.okendo.io/styles/main.min.css"
+    ],
+    "usual": [
+      "https://www.status.co/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.status.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button",
+      "declarations": "height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);min-height:clamp(25px, var(--shopify-accelerated-checkout-button-block-size,44px), 55px);border-radius:var(--shopify-accelerated-checkout-button-border-radius,0px);color:#fff;cursor:pointer;text-align:center;border:none;width:100%;font-size:1em;font-weight:500;line-height:1;transition:background .2s ease-in-out;display:block;box-shadow:0 0 #0000"
+    },
+    {
+      "source": "https://www.status.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded",
+      "declarations": "background-color:#1990c6;padding:1em 2em"
+    },
+    {
+      "source": "https://www.status.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button--unbranded:hover:not([disabled])",
+      "declarations": "background-color:#136f99"
+    },
+    {
+      "source": "https://www.status.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__button.button.loading",
+      "declarations": "color:#0000;position:relative"
+    },
+    {
+      "source": "https://www.status.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".shopify-payment-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);box-sizing:border-box;height:var(--shopify-accelerated-checkout-button-block-size,inherit);border-radius:var(--shopify-accelerated-checkout-button-border-radius,inherit);min-height:25px;max-height:55px;animation-delay:-.168s;text-decoration:none!important"
+    },
+    {
+      "source": "https://www.status.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "selector": ".wallet-cart-button__skeleton",
+      "declarations": "animation:acceleratedCheckoutLoadingSkeleton var(--shopify-accelerated-checkout-skeleton-animation-duration,4s) var(--shopify-accelerated-checkout-skeleton-animation-timing-function,ease) infinite;background-color:var(--shopify-accelerated-checkout-skeleton-background-color,#dedede);animation-delay:-.168s"
+    },
+    {
+      "source": "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+      "selector": "input,button,textarea,select",
+      "declarations": "font:inherit;border:none;margin:0;padding:0;background-color:transparent;-webkit-appearance:none;appearance:none;border-radius:0"
+    },
+    {
+      "source": "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+      "selector": ":root",
+      "declarations": "--Status-Blue: #202E3B;--Status-BlueAlt: #2E404C;--Status-BlueAlt80: rgba(46, 64, 76, .8);--Status-White: #F1F1F1;--Status-White80: rgba(241, 241, 241, .8);--Status-WhiteAlt: #FFFFFF;--Status-LightBlue1: #EEF1F2;--Status-LightBlue2: #DCE6ED;--Status-LightBlue3: #97B3C6;--Status-SkyBlue: #BBDEFD;--Status-Black: #222222;--Status-BlackAlt: #000000;--Vibrant-Blue: #0A84FF;--Vibrant-Blue30: rgba(10, 132, 255, .3);--GoldenSound-Gold: #D5C095;--Status-Red: #9E2A2B;--Status-Green: #34C759;--mono-gray-1: #666666;--mono-gray-2: #888888;--mono-gray-3: #BBBBBB;--mono-gray-4: #CCCCCC;--mono-gray-5: #DDDDDD;--mono-gray-8: #F5F5F5;--mono-gray-9: #F9F9F9;--swatchOnyx: #444444;--swatchBone: #DEDED5;--swatchP"
+    },
+    {
+      "source": "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+      "selector": ":root",
+      "declarations": "--header-height: 64px"
+    },
+    {
+      "source": "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+      "selector": "body",
+      "declarations": "background-color:var(--mono-gray-9)"
+    },
+    {
+      "source": "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+      "selector": "body,body a,input,textarea,button,.txtDark,.txtDark a",
+      "declarations": "color:var(--Status-Blue)"
+    },
+    {
+      "source": "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+      "selector": ".product-variants span",
+      "declarations": "display:inline-block;color:transparent;border-radius:var(--full-radius);padding:0;text-indent:100%;border:none"
+    },
+    {
+      "source": "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+      "selector": ".product-variants .Onyx span,.swatch.swatch--color.swatch--onyx",
+      "declarations": "background-color:var(--swatchOnyx)"
+    },
+    {
+      "source": "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+      "selector": ".product-variants .Bone span,.swatch.swatch--color.swatch--bone",
+      "declarations": "background-color:var(--swatchBone)"
+    },
+    {
+      "source": "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+      "selector": ".product-variants .Cream span,.swatch.swatch--color.swatch--cream,.product-variants .Ecru span,.swatch.swatch--color.swatch--ecru,.product-variants .Natural spa",
+      "declarations": "background-color:var(--swatchNatural)"
+    },
+    {
+      "source": "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+      "selector": ".product-variants .Petrol span,.swatch.swatch--color.swatch--petrol",
+      "declarations": "background-color:var(--swatchPetrol)"
+    },
+    {
+      "source": "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+      "selector": ".product-variants .Black.Alloy span,.swatch.swatch--color.swatch--black-alloy",
+      "declarations": "background-color:var(--swatchBlackAlloySolid);background:var(--swatchBlackAlloyGradient)"
+    },
+    {
+      "source": "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+      "selector": ".product-variants .Moonbeam span,.swatch.swatch--color.swatch--moonbeam",
+      "declarations": "background-color:var(--swatchMoonbeamSolid);background:var(--swatchMoonbeamGradient)"
+    },
+    {
+      "source": "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+      "selector": ".product-variants .Golden.Sound span,.swatch.swatch--color.swatch--golden-sound",
+      "declarations": "background-color:var(--swatchGoldenSoundSolid);background:var(--swatchGoldenSoundGradient)"
+    },
+    {
+      "source": "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+      "selector": "body,input,textarea,button",
+      "declarations": "font-family:Usual,sans-serif;font-size:14px;line-height:22px;font-weight:400"
+    },
+    {
+      "source": "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+      "selector": ".quantity button",
+      "declarations": "width:20px;color:var(--mono-gray-2);font-size:14px"
+    },
+    {
+      "source": "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+      "selector": ".quantity button:hover",
+      "declarations": "color:var(--Status-Blue)"
+    },
+    {
+      "source": "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+      "selector": ".txtDark .btn,.txtDark .btn.btnSolid,.txtDark .btn.btnOutline:hover,.txtLight .btn.btnSolidInverse",
+      "declarations": "background:var(--Status-Blue);border:solid 1px var(--Status-Blue);color:var(--Status-White)"
+    },
+    {
+      "source": "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+      "selector": ".txtDark .btn.btnOutline",
+      "declarations": "background:transparent;color:var(--Status-Blue)"
+    },
+    {
+      "source": "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+      "selector": ".txtDark .btn:hover,.txtDark .btn.btnSolid:hover,.txtLight .btn.btnSolidInverse:hover",
+      "declarations": "background:var(--Status-BlueAlt);border:solid 1px var(--Status-BlueAlt);color:var(--Status-White)"
+    },
+    {
+      "source": "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+      "selector": ".txtLight .btn,.txtLight .btn.btnSolid,.txtLight .btn.btnOutline:hover,.txtDark .btn.btnSolidInverse",
+      "declarations": "background:var(--Status-White);border:solid 1px var(--Status-White);color:var(--Status-Blue)"
+    },
+    {
+      "source": "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+      "selector": ".txtLight .btn.btnOutline",
+      "declarations": "background:transparent;color:var(--Status-White)"
+    },
+    {
+      "source": "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+      "selector": ".txtLight .btn:hover,.txtLight .btn.btnSolid:hover,.txtDark .btn.btnSolidInverse:hover",
+      "declarations": "background:var(--Status-Blue);border:solid 1px var(--Status-Blue);color:var(--Status-White)"
+    },
+    {
+      "source": "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+      "selector": ".contactButton",
+      "declarations": "border:1px solid var(--Status-Blue);background:var(--Status-WhiteAlt);color:var(--Status-Blue);width:100%;font-size:16px;line-height:16px"
+    },
+    {
+      "source": "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+      "selector": ".contactButton:hover",
+      "declarations": "background:var(--Status-Blue);color:var(--Status-White)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Status: Elevated audio for everyday listening",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.status.co/",
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+        "https://www.status.co/cdn/shop/t/165/assets/vite_theme.min.css?v=168115437184736882201789168592"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.status.co/",
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+        "https://www.status.co/cdn/shop/t/165/assets/vite_theme.min.css?v=168115437184736882201789168592"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.status.co/",
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+        "https://www.status.co/cdn/shop/t/165/assets/vite_theme.min.css?v=168115437184736882201789168592"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+        "https://www.status.co/cdn/shop/t/165/assets/vite_theme.min.css?v=168115437184736882201789168592"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.status.co/",
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+        "https://cdn-static.okendo.io/styles/main.min.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.status.co/",
+        "https://www.status.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+        "https://www.status.co/cdn/shop/t/165/assets/vite_theme.min.css?v=168115437184736882201789168592",
+        "https://cdn-static.okendo.io/styles/main.min.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.status.co/",
+        "https://www.status.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595",
+        "https://www.status.co/cdn/shop/t/165/assets/vite_theme.min.css?v=168115437184736882201789168592",
+        "https://cdn-static.okendo.io/styles/main.min.css"
+      ]
+    },
+    "colors.accent": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.status.co/",
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "colors.accent-checkout": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.status.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.accent-checkout-hover": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.status.co/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "colors.error": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "colors.gold": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.status.co/",
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "colors.light-blue-1": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "colors.light-blue-2": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.status.co/",
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "colors.light-blue-3": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.status.co/",
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "colors.sky-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "colors.swatch-onyx": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "colors.swatch-bone": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.status.co/cdn/shop/t/165/assets/css-theme.css?v=56688548383148482741789168595"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.button-checkout": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-swatch": {
+      "status": "inferred"
+    }
+  }
+}

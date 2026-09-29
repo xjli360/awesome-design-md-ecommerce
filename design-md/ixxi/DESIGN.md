@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: IXXI
-description: Each IXXI order arrives not as a single print but as a grid of individually cut rectangular panels that interlock by hand into a wall-scale image — the modular assembly system is the product, and every UI decision flows from that fact. Deep slate-navy (#0f172a) anchors both the primary brand action and the darkest ink on the page, creating a surface that steps back cleanly to let full-bleed photography and curated artwork read at maximum saturation. DM Serif Display pulls display headings into an editorial register — bracketed serifs at low weight read gallery wall, not e-commerce drop-down — while Futura PT handles all transactional copy with geometric discipline: navigation labels, size callouts, and uppercase button text tracked at +0.08em. That two-voice type system — serif editorial above, geometric utility below — carries IXXI's dual identity as art publisher and personalisation tool simultaneously, without either voice overpowering the artwork itself.
+name: "IXXI"
+source_url: "https://www.ixxiyourworld.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Each IXXI order arrives not as a single print but as a grid of individually cut rectangular panels that interlock by hand into a wall-scale image — the modular assembly system is the product, and every UI decision flows from that fact. Deep slate-navy (#0f172a) anchors both the primary brand action and the darkest ink on the page, creating a surface that steps back cleanly to let full-bleed photography and curated artwork read at maximum saturation. DM Serif Display pulls display headings into an editorial register — bracketed serifs at low weight read gallery wall, not e-commerce drop-down — while Futura PT handles all transactional copy with geometric discipline: navigation labels, size callouts, and uppercase button text tracked at +0.08em. That two-voice type system — serif editorial above, geometric utility below — carries IXXI's dual identity as art publisher and personalisation tool simultaneously, without either voice overpowering the artwork itself.
 
   The panel-builder interface is where IXXI diverges structurally from a standard print shop. A configuration canvas maps the user's uploaded photograph across a live grid of rectangular tiles sized in centimetres, with thin `{colors.panel-border}` lines marking every seam so the customer can see exactly how the physical assembly will look before committing. `{rounded.none}` governs the entire builder — flat corners on every tile, every crop thumbnail, every dimension chip — treating the image as an object that runs to the edge with no radius softening the illusion. Product cards in the catalogue maintain the same corner discipline: rectangular crops, Futura PT captions in `{colors.muted}` at 12 px below the image, and a hover state that insets a 2 px `{colors.primary}` border into the frame rather than lifting a shadow.
 
@@ -349,6 +353,8 @@ components:
 - Footer: five-column grid collapses to two columns on Tablet, single accordion on Mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one hex value (#0f172a) was successfully extracted from the live site; the full palette — including accent colors, hover states, promotional colors, and any warm or illustrative tones used in editorial content — is inferred from the dark-slate anchor and standard print-shop conventions
 - It is unknown whether IXXI uses any brand accent color (warm tone, highlight, or category-family color) beyond the slate-navy and neutral system defined here

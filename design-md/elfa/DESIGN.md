@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Elfa
-description: Elfa is a Swedish-born organization brand that speaks in quiet, confident tones — a system built on deep navy blues (#224466, #222299, #222288) and forest greens (#119977, #117711, #118877), anchored by a near-black theme color (#2d2926) that grounds the entire experience. The palette reads like a well-edited wardrobe: primary blues (#224466) carry the weight of navigation and structure, while accent greens (#119977) appear as thoughtful punctuation — perhaps on sale badges, sustainability callouts, or drawer-front highlights. There is no loud red or aggressive orange; the brand trusts depth over volume. The canvas is presumed white (#ffffff), letting the rich jewel tones of `{colors.primary}` and `{colors.primary-active}` do the heavy lifting on buttons, links, and interactive elements. Typography follows a clean sans-serif stack (likely system-native or a geometric like Gotham or Proxima Nova), with `{typography.display-xl}` at a restrained 28px and `{typography.button-md}` at 16px — nothing shouts. Corners are softly rounded (`{rounded.sm}` at 8px for buttons, `{rounded.md}` at 12px for cards), avoiding both the harshness of zero-radius and the playfulness of pills. The overall mood is Scandinavian utility meets premium quietude: every pixel feels considered, every color has a job, and the white space between components is as important as the components themselves. This is a system for people who believe that organization is not about hiding things, but about giving everything a rightful place.
+name: "Elfa"
+source_url: "https://www.elfa.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Elfa is a Swedish-born organization brand that speaks in quiet, confident tones — a system built on deep navy blues (#224466, #222299, #222288) and forest greens (#119977, #117711, #118877), anchored by a near-black theme color (#2d2926) that grounds the entire experience. The palette reads like a well-edited wardrobe: primary blues (#224466) carry the weight of navigation and structure, while accent greens (#119977) appear as thoughtful punctuation — perhaps on sale badges, sustainability callouts, or drawer-front highlights. There is no loud red or aggressive orange; the brand trusts depth over volume. The canvas is presumed white (#ffffff), letting the rich jewel tones of `{colors.primary}` and `{colors.primary-active}` do the heavy lifting on buttons, links, and interactive elements. Typography follows a clean sans-serif stack (likely system-native or a geometric like Gotham or Proxima Nova), with `{typography.display-xl}` at a restrained 28px and `{typography.button-md}` at 16px — nothing shouts. Corners are softly rounded (`{rounded.sm}` at 8px for buttons, `{rounded.md}` at 12px for cards), avoiding both the harshness of zero-radius and the playfulness of pills. The overall mood is Scandinavian utility meets premium quietude: every pixel feels considered, every color has a job, and the white space between components is as important as the components themselves. This is a system for people who believe that organization is not about hiding things, but about giving everything a rightful place.
 
 colors:
   primary: "#224466"
@@ -347,6 +351,8 @@ components:
 - Product filters collapse to accordion or modal on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for all components could not be fully extracted; only primary and secondary buttons have confirmed hover/active colors
 - Error styling for text inputs (iconography, helper text placement) is inferred from common patterns rather than extracted

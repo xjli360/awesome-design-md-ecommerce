@@ -1,0 +1,862 @@
+{
+  "source_url": "https://lorenacanals.com",
+  "final_url": "https://lorenacanals.com/",
+  "captured_at": "2026-09-28T09:22:18.166979+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://lorenacanals.com",
+      "final_url": "https://lorenacanals.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "e54a26cd2b2e607b453765ebf6f9b202f2500a98fd3c07ba538218b3bc404858",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://lorenacanals.com/cdn/shop/t/106/assets/base.css?v=182974248521159834171790250939",
+      "final_url": "https://lorenacanals.com/cdn/shop/t/106/assets/base.css?v=182974248521159834171790250939",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "be26fea464d98d0d5a2afa1e8f6e124d174f529cda9d3d7ffef00ce70e0739c1",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://lorenacanals.com/cdn/shop/t/106/assets/theme-custom.css?v=99710104314749034981790250355",
+      "final_url": "https://lorenacanals.com/cdn/shop/t/106/assets/theme-custom.css?v=99710104314749034981790250355",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "d807cd3c36a28c75f7c1286a6851ed66d993f070c36d48deb5786016168ac273",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@300&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400&display=swap",
+      "final_url": "https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@300&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400&display=swap",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "3713c53783ac90fd7adeadb43d7837cb877d0d191117f81919c5b050fea6dcd9",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://lorenacanals.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "final_url": "https://lorenacanals.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "2be67d829931067051705cabc083afb8507f2ba111f8825e7f3cd551ad41b88d",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://lorenacanals.com/cdn/shop/t/106/compiled_assets/styles.css?v=15549026045377965771790250943",
+      "final_url": "https://lorenacanals.com/cdn/shop/t/106/compiled_assets/styles.css?v=15549026045377965771790250943",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "b62f0644367289dca2c6dd9af995a3c7192d2fbafe0e58af351d2f1d1dccda35",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#392c22": {
+      "count": 365,
+      "sources": [
+        "https://lorenacanals.com/",
+        "https://lorenacanals.com/cdn/shop/t/106/assets/theme-custom.css?v=99710104314749034981790250355",
+        "https://lorenacanals.com/cdn/shop/t/106/compiled_assets/styles.css?v=15549026045377965771790250943"
+      ]
+    },
+    "#fcfbf9": {
+      "count": 149,
+      "sources": [
+        "https://lorenacanals.com/",
+        "https://lorenacanals.com/cdn/shop/t/106/assets/theme-custom.css?v=99710104314749034981790250355",
+        "https://lorenacanals.com/cdn/shop/t/106/compiled_assets/styles.css?v=15549026045377965771790250943"
+      ]
+    },
+    "#000000": {
+      "count": 111,
+      "sources": [
+        "https://lorenacanals.com/",
+        "https://lorenacanals.com/cdn/shop/t/106/assets/base.css?v=182974248521159834171790250939",
+        "https://lorenacanals.com/cdn/shop/t/106/compiled_assets/styles.css?v=15549026045377965771790250943"
+      ]
+    },
+    "#ffffff": {
+      "count": 73,
+      "sources": [
+        "https://lorenacanals.com/",
+        "https://lorenacanals.com/cdn/shop/t/106/assets/base.css?v=182974248521159834171790250939",
+        "https://lorenacanals.com/cdn/shop/t/106/assets/theme-custom.css?v=99710104314749034981790250355",
+        "https://lorenacanals.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://lorenacanals.com/cdn/shop/t/106/compiled_assets/styles.css?v=15549026045377965771790250943"
+      ]
+    },
+    "#f5f2ed": {
+      "count": 42,
+      "sources": [
+        "https://lorenacanals.com/",
+        "https://lorenacanals.com/cdn/shop/t/106/assets/theme-custom.css?v=99710104314749034981790250355"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 12,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#1a1a1a": {
+      "count": 12,
+      "sources": [
+        "https://lorenacanals.com/",
+        "https://lorenacanals.com/cdn/shop/t/106/assets/theme-custom.css?v=99710104314749034981790250355",
+        "https://lorenacanals.com/cdn/shop/t/106/compiled_assets/styles.css?v=15549026045377965771790250943"
+      ]
+    },
+    "#00000026": {
+      "count": 10,
+      "sources": [
+        "https://lorenacanals.com/",
+        "https://lorenacanals.com/cdn/shop/t/106/compiled_assets/styles.css?v=15549026045377965771790250943"
+      ]
+    },
+    "#333333": {
+      "count": 6,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#00000000": {
+      "count": 6,
+      "sources": [
+        "https://lorenacanals.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://lorenacanals.com/cdn/shop/t/106/compiled_assets/styles.css?v=15549026045377965771790250943"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 5,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 5,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 4,
+      "sources": [
+        "https://lorenacanals.com/",
+        "https://lorenacanals.com/cdn/shop/t/106/compiled_assets/styles.css?v=15549026045377965771790250943"
+      ]
+    },
+    "#0000001a": {
+      "count": 4,
+      "sources": [
+        "https://lorenacanals.com/cdn/shop/t/106/compiled_assets/styles.css?v=15549026045377965771790250943"
+      ]
+    },
+    "#eeeeee": {
+      "count": 3,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#444444": {
+      "count": 3,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#fefefd": {
+      "count": 3,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#fafafa": {
+      "count": 3,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#6a969a": {
+      "count": 3,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#fcfbf2": {
+      "count": 3,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#e3d6c9": {
+      "count": 2,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#999999": {
+      "count": 2,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#ff6b6b": {
+      "count": 2,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#e5eae8": {
+      "count": 2,
+      "sources": [
+        "https://lorenacanals.com/",
+        "https://lorenacanals.com/cdn/shop/t/106/compiled_assets/styles.css?v=15549026045377965771790250943"
+      ]
+    },
+    "#a92b39": {
+      "count": 2,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#513630": {
+      "count": 2,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#dedede": {
+      "count": 2,
+      "sources": [
+        "https://lorenacanals.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css"
+      ]
+    },
+    "#c0392b": {
+      "count": 2,
+      "sources": [
+        "https://lorenacanals.com/cdn/shop/t/106/compiled_assets/styles.css?v=15549026045377965771790250943"
+      ]
+    },
+    "#604b3a": {
+      "count": 2,
+      "sources": [
+        "https://lorenacanals.com/cdn/shop/t/106/compiled_assets/styles.css?v=15549026045377965771790250943"
+      ]
+    },
+    "#00000066": {
+      "count": 2,
+      "sources": [
+        "https://lorenacanals.com/cdn/shop/t/106/compiled_assets/styles.css?v=15549026045377965771790250943"
+      ]
+    },
+    "#8b0000": {
+      "count": 1,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#006400": {
+      "count": 1,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#3ed660": {
+      "count": 1,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#ee9441": {
+      "count": 1,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#c8c8c8": {
+      "count": 1,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#7b7b7b": {
+      "count": 1,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#cccccc": {
+      "count": 1,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#005fcc": {
+      "count": 1,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#66b3ff": {
+      "count": 1,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#5c5f62": {
+      "count": 1,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#34495e": {
+      "count": 1,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#888888": {
+      "count": 1,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#222222": {
+      "count": 1,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#6394f8": {
+      "count": 1,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#729ef9": {
+      "count": 1,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#00800070": {
+      "count": 1,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#f4eddc": {
+      "count": 1,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#f3f2ea": {
+      "count": 1,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#fefff6": {
+      "count": 1,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#fee2df": {
+      "count": 1,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#f1ddc2": {
+      "count": 1,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#f5fbf4": {
+      "count": 1,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#00ff00": {
+      "count": 1,
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "#ab3421": {
+      "count": 1,
+      "sources": [
+        "https://lorenacanals.com/cdn/shop/t/106/assets/theme-custom.css?v=99710104314749034981790250355"
+      ]
+    },
+    "#dad1c9": {
+      "count": 1,
+      "sources": [
+        "https://lorenacanals.com/cdn/shop/t/106/assets/theme-custom.css?v=99710104314749034981790250355"
+      ]
+    },
+    "#f5efe8": {
+      "count": 1,
+      "sources": [
+        "https://lorenacanals.com/cdn/shop/t/106/assets/theme-custom.css?v=99710104314749034981790250355"
+      ]
+    },
+    "#c8bdb4": {
+      "count": 1,
+      "sources": [
+        "https://lorenacanals.com/cdn/shop/t/106/assets/theme-custom.css?v=99710104314749034981790250355"
+      ]
+    },
+    "#ede5da": {
+      "count": 1,
+      "sources": [
+        "https://lorenacanals.com/cdn/shop/t/106/assets/theme-custom.css?v=99710104314749034981790250355"
+      ]
+    },
+    "#e6c372": {
+      "count": 1,
+      "sources": [
+        "https://lorenacanals.com/cdn/shop/t/106/assets/theme-custom.css?v=99710104314749034981790250355"
+      ]
+    },
+    "#cf7b59": {
+      "count": 1,
+      "sources": [
+        "https://lorenacanals.com/cdn/shop/t/106/assets/theme-custom.css?v=99710104314749034981790250355"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://lorenacanals.com/"
+    ],
+    "Alegreya Sans": [
+      "https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@300&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400&display=swap"
+    ],
+    "Arial": [
+      "https://lorenacanals.com/"
+    ],
+    "BlinkMacSystemFont": [
+      "https://lorenacanals.com/"
+    ],
+    "Cantarell": [
+      "https://lorenacanals.com/"
+    ],
+    "Cormorant Garamond": [
+      "https://fonts.googleapis.com/css2?family=Alegreya+Sans:wght@300&family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400&display=swap",
+      "https://lorenacanals.com/cdn/shop/t/106/compiled_assets/styles.css?v=15549026045377965771790250943"
+    ],
+    "EB Garamond": [
+      "https://lorenacanals.com/"
+    ],
+    "Helvetica Neue": [
+      "https://lorenacanals.com/"
+    ],
+    "JudgemeStar": [
+      "https://lorenacanals.com/"
+    ],
+    "Lato": [
+      "https://lorenacanals.com/",
+      "https://lorenacanals.com/cdn/shop/t/106/compiled_assets/styles.css?v=15549026045377965771790250943"
+    ],
+    "Open Sans": [
+      "https://lorenacanals.com/"
+    ],
+    "Oxygen": [
+      "https://lorenacanals.com/"
+    ],
+    "Roboto": [
+      "https://lorenacanals.com/"
+    ],
+    "Segoe UI": [
+      "https://lorenacanals.com/"
+    ],
+    "Ubuntu": [
+      "https://lorenacanals.com/"
+    ],
+    "sans-serif": [
+      "https://lorenacanals.com/"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://lorenacanals.com/",
+      "selector": "body",
+      "declarations": "color:var(--color-foreground);background:var(--color-background);display:flex;flex-direction:column;margin:0;min-height:100svh;font-variation-settings:\"slnt\" 0"
+    },
+    {
+      "source": "https://lorenacanals.com/",
+      "selector": ":root",
+      "declarations": "--hover-lift-amount:4px;--hover-scale-amount:1.03;--hover-transition-duration:0.25s;--hover-transition-timing:ease-out;--surface-transition-duration:0.3s;--submenu-animation-speed:360ms;--submenu-animation-easing:cubic-bezier(0.25,0.1,0.25,1)"
+    },
+    {
+      "source": "https://lorenacanals.com/",
+      "selector": "body,.paragraph:not(.button),.paragraph>*",
+      "declarations": "font-family:var(--font-paragraph--family);font-style:var(--font-paragraph--style);font-weight:var(--font-paragraph--weight);font-size:var(--font-paragraph--size);line-height:var(--font-paragraph--line-height);text-transform:var(--font-paragraph--case);-webkit-font-smoothing:antialiased;color:var(--color,var(--color-foreground))"
+    },
+    {
+      "source": "https://lorenacanals.com/",
+      "selector": "h1,.h1.h1",
+      "declarations": "font-family:var(--font-h1--family);font-style:var(--font-h1--style);font-weight:var(--font-h1--weight);font-size:var(--font-h1--size);line-height:var(--font-h1--line-height);letter-spacing:var(--font-h1--letter-spacing);text-transform:var(--font-h1--case);color:var(--color,var(--font-h1-color))"
+    },
+    {
+      "source": "https://lorenacanals.com/",
+      "selector": ":root",
+      "declarations": "--jdgm-primary-color: #000;--jdgm-secondary-color: rgba(0,0,0,0.1);--jdgm-star-color: #e3d6c9;--jdgm-write-review-text-color: white;--jdgm-write-review-bg-color: #000000;--jdgm-paginate-color: #000;--jdgm-border-radius: 0;--jdgm-reviewer-name-color: #000000"
+    },
+    {
+      "source": "https://lorenacanals.com/",
+      "selector": ".ly-recommendation-form button[type=\"submit\"]",
+      "declarations": "font-size: 14px !important;\n          color: #fff !important;\n          background: #999 !important;"
+    },
+    {
+      "source": "https://lorenacanals.com/",
+      "selector": ".ly-recommendation-form button[type=\"submit\"]",
+      "declarations": "font-size: 14px !important;\n          color: #fff !important;\n          background: #999 !important;"
+    },
+    {
+      "source": "https://lorenacanals.com/",
+      "selector": "#md-app-embed__modal .md-modal__header__title span, #md-app-embed__modal .md-modal__header__title h2",
+      "declarations": "color: #000000 !important;\n        line-height: 1.75em;"
+    },
+    {
+      "source": "https://lorenacanals.com/",
+      "selector": "#md-app-embed__modal .md-modal__bodyContent p",
+      "declarations": "color: #000000 !important;"
+    },
+    {
+      "source": "https://lorenacanals.com/",
+      "selector": "#gift_container .button",
+      "declarations": "background: #6394F8;\n        color: white;\n        text-align: center;\n        padding: 12px;\n        text-decoration: none;\n        display: block;\n        border-radius: 3px;\n        font-size: 16px;\n        margin: 25px 0 15px 0;"
+    },
+    {
+      "source": "https://lorenacanals.com/",
+      "selector": "#smProductDetailGiftWrapper",
+      "declarations": "position: relative;\n        font-size: 13px;\n        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\n        line-height: 1;\n        -webkit-font-smoothing: antialiased;\n        -moz-osx-font-smoothing: grayscale;\n        color: #000;\n        padding: 10px;\n        margin: 20px 0px 20px;\n        background:rgb(255, 255, 255) none repeat scroll 0% 0%;\n        -webkit-border-radius: 5px;\n        -moz-border-radius: 5px;\n        border-radius: 5px;\n        -webkit-box-shadow:rgba(0, 0, 0, 0.1) 0px 1px 1px 0px,rgba(0, 0, 0, 0.1) 0px 1px 1px 1px;\n        -moz-box-shadow:rgba(0, 0, 0, 0.1) 0px 1px 1px 0px,rgb"
+    },
+    {
+      "source": "https://lorenacanals.com/",
+      "selector": "#smProductDetailGiftWrapper .item-variants select",
+      "declarations": "display: block;\n        color:#444;\n        padding: .5em 1.0em .3em .3em;\n        width: 100%;\n        max-width: 100%;\n        box-sizing: border-box;\n        margin-top: 6px;\n        border: 1px solid #aaa;\n        -moz-border-radius: .2em;\n        -webkit-border-radius: .2em;\n        border-radius: .2em;\n        -moz-appearance: none;\n        -webkit-appearance: none;\n        appearance: none;\n        background-color:#fff;\n        background-image: url('data:image/svg+xml;charset=US-ASCII,<svg version=\"1.1\" id=\"Capa_1\" xmlns=\"http://www.w3.org/2000/svg\" xmlns:xlink=\"http://www.w3.org/1999/xlink\" x=\"0px\" y=\"0px\" width=\"292.362px\" height=\"292.362px\" viewBox=\"0 0 292.362 292.362\" style=\"en"
+    },
+    {
+      "source": "https://lorenacanals.com/cdn/shop/t/106/assets/base.css?v=182974248521159834171790250939",
+      "selector": "body",
+      "declarations": "color:var(--color-foreground);background:var(--color-background);display:flex;flex-direction:column;margin:0;min-height:100svh;font-variation-settings:\"slnt\" 0"
+    },
+    {
+      "source": "https://lorenacanals.com/cdn/shop/t/106/assets/base.css?v=182974248521159834171790250939",
+      "selector": ":root",
+      "declarations": "--hover-lift-amount: 4px;--hover-scale-amount: 1.03;--hover-subtle-zoom-amount: 1.015;--hover-shadow-color: var(--color-shadow);--hover-transition-duration: .25s;--hover-transition-timing: ease-out;--surface-transition-duration: .3s;--surface-transition-timing: var(--ease-out-quad);--submenu-animation-speed: .36s;--submenu-animation-easing: cubic-bezier(.25, .1, .25, 1)"
+    },
+    {
+      "source": "https://lorenacanals.com/cdn/shop/t/106/assets/base.css?v=182974248521159834171790250939",
+      "selector": ".product-card__content slideshow-component",
+      "declarations": "--cursor: pointer"
+    },
+    {
+      "source": "https://lorenacanals.com/cdn/shop/t/106/assets/base.css?v=182974248521159834171790250939",
+      "selector": "body,.paragraph:not(.button),.paragraph>*,.text-block.paragraph :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-paragraph--family);font-style:var(--font-paragraph--style);font-weight:var(--font-paragraph--weight);font-size:var(--font-paragraph--size);line-height:var(--font-paragraph--line-height);text-transform:var(--font-paragraph--case);-webkit-font-smoothing:antialiased;color:var(--color, var(--color-foreground))"
+    },
+    {
+      "source": "https://lorenacanals.com/cdn/shop/t/106/assets/base.css?v=182974248521159834171790250939",
+      "selector": "h1,.h1.h1,.text-block.h1>*,.text-block.h1 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h1--family);font-style:var(--font-h1--style);font-weight:var(--font-h1--weight);font-size:var(--font-h1--size);line-height:var(--font-h1--line-height);letter-spacing:var(--font-h1--letter-spacing);text-transform:var(--font-h1--case);color:var(--color, var(--font-h1-color))"
+    },
+    {
+      "source": "https://lorenacanals.com/cdn/shop/t/106/assets/base.css?v=182974248521159834171790250939",
+      "selector": "h2,.h2.h2,.text-block.h2>*,.text-block.h2 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h2--family);font-style:var(--font-h2--style);font-weight:var(--font-h2--weight);font-size:var(--font-h2--size);line-height:var(--font-h2--line-height);letter-spacing:var(--font-h2--letter-spacing);text-transform:var(--font-h2--case);color:var(--color, var(--font-h2-color))"
+    },
+    {
+      "source": "https://lorenacanals.com/cdn/shop/t/106/assets/base.css?v=182974248521159834171790250939",
+      "selector": "h3,.h3,.h3.h3,.text-block.h3>*,.text-block.h3 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h3--family);font-style:var(--font-h3--style);font-weight:var(--font-h3--weight);font-size:var(--font-h3--size);line-height:var(--font-h3--line-height);letter-spacing:var(--font-h3--letter-spacing);text-transform:var(--font-h3--case);color:var(--color, var(--font-h3-color))"
+    },
+    {
+      "source": "https://lorenacanals.com/cdn/shop/t/106/assets/base.css?v=182974248521159834171790250939",
+      "selector": "h4,.h4.h4,.text-block.h4>*,.text-block.h4 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h4--family);font-style:var(--font-h4--style);font-weight:var(--font-h4--weight);font-size:var(--font-h4--size);line-height:var(--font-h4--line-height);letter-spacing:var(--font-h4--letter-spacing);text-transform:var(--font-h4--case);color:var(--color, var(--font-h4-color))"
+    },
+    {
+      "source": "https://lorenacanals.com/cdn/shop/t/106/assets/base.css?v=182974248521159834171790250939",
+      "selector": "h5,.h5.h5,.text-block.h5>*,.text-block.h5 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h5--family);font-style:var(--font-h5--style);font-weight:var(--font-h5--weight);font-size:var(--font-h5--size);line-height:var(--font-h5--line-height);letter-spacing:var(--font-h5--letter-spacing);text-transform:var(--font-h5--case);color:var(--color, var(--font-h5-color))"
+    },
+    {
+      "source": "https://lorenacanals.com/cdn/shop/t/106/assets/base.css?v=182974248521159834171790250939",
+      "selector": "h6,.h6.h6,.text-block.h6>*,.text-block.h6 :is(h1,h2,h3,h4,h5,h6)",
+      "declarations": "font-family:var(--font-h6--family);font-style:var(--font-h6--style);font-weight:var(--font-h6--weight);font-size:var(--font-h6--size);line-height:var(--font-h6--line-height);letter-spacing:var(--font-h6--letter-spacing);text-transform:var(--font-h6--case);color:var(--color, var(--font-h6-color))"
+    },
+    {
+      "source": "https://lorenacanals.com/cdn/shop/t/106/assets/base.css?v=182974248521159834171790250939",
+      "selector": ":is(h1,h2,h3,h4,h5,h6,p)>a:hover",
+      "declarations": "--button-color: var(--color, var(--color-primary-hover))"
+    },
+    {
+      "source": "https://lorenacanals.com/cdn/shop/t/106/assets/base.css?v=182974248521159834171790250939",
+      "selector": "p:not(.h1,.h2,.h3,.h4,.h5,.h6) a:where(:not(.button,.button-secondary)),.rte :is(p,ul,ol,table):not(.h1,.h2,.h3,.h4,.h5,.h6) a:where(:not(.button,.button-second",
+      "declarations": "text-decoration-color:currentcolor"
+    },
+    {
+      "source": "https://lorenacanals.com/cdn/shop/t/106/assets/base.css?v=182974248521159834171790250939",
+      "selector": ":is(p:not(.h1,.h2,.h3,.h4,.h5,.h6) a:where(:not(.button,.button-secondary)),.rte :is(p,ul,ol,table):not(.h1,.h2,.h3,.h4,.h5,.h6) a:where(:not(.button,.button-se",
+      "declarations": "text-decoration-color:transparent;color:var(--color-primary-hover)"
+    },
+    {
+      "source": "https://lorenacanals.com/cdn/shop/t/106/assets/base.css?v=182974248521159834171790250939",
+      "selector": ".product-grid__card.product-grid__card",
+      "declarations": "display:flex;flex-flow:column nowrap;gap:var(--product-card-gap);align-items:var(--product-card-alignment);text-decoration:none;color:var(--color, var(--color-foreground));padding-block:var(--padding-block-start) var(--padding-block-end);padding-inline:var(--padding-inline-start) var(--padding-inline-end);overflow:hidden"
+    },
+    {
+      "source": "https://lorenacanals.com/cdn/shop/t/106/assets/base.css?v=182974248521159834171790250939",
+      "selector": "[product-grid-view=default]",
+      "declarations": "--product-grid-gap: 16px;--padding-block-start: 24px;--padding-block-end: 24px;--padding-inline-start: 0px;--padding-inline-end: 0px"
+    },
+    {
+      "source": "https://lorenacanals.com/cdn/shop/t/106/assets/base.css?v=182974248521159834171790250939",
+      "selector": "[product-grid-view=zoom-out]",
+      "declarations": "--product-grid-columns-desktop: repeat( 10, minmax( clamp(50px, calc(100% - 9 * var(--product-grid-gap)) / 10, 80px), 1fr ) )"
+    },
+    {
+      "source": "https://lorenacanals.com/cdn/shop/t/106/assets/base.css?v=182974248521159834171790250939",
+      "selector": ".product-grid-view-zoom-out--details .h4,.product-grid-view-zoom-out--details span,.product-grid-view-zoom-out--details s",
+      "declarations": "font-size:var(--font-size--xs);font-family:var(--font-paragraph--family)"
+    },
+    {
+      "source": "https://lorenacanals.com/cdn/shop/t/106/assets/base.css?v=182974248521159834171790250939",
+      "selector": ".button,.button-secondary,button.shopify-payment-button__button--unbranded",
+      "declarations": "--text-align: center;display:grid;align-content:center;text-decoration:none;text-align:var(--text-align);color:var(--button-color);-webkit-appearance:none;appearance:none;background-color:var(--button-background-color);border:none;font-family:var(--font-paragraph--family);font-style:var(--font-paragraph--style);font-weight:var(--font-paragraph--weight);font-size:var(--font-paragraph--size);line-height:var(--font-paragraph--line-height);margin-block:0;transition:color var(--animation-speed) var(--animation-easing),box-shadow var(--animation-speed) var(--animation-easing),background-color var(--animation-speed) var(--animation-easing);cursor:pointer;width:fit-content;box-shadow:inset 0 0 0 var"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Lorena Canals | Official Store of Washable Rugs & Sustainable Decor",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lorenacanals.com/",
+        "https://lorenacanals.com/cdn/shop/t/106/assets/theme-custom.css?v=99710104314749034981790250355",
+        "https://lorenacanals.com/cdn/shop/t/106/compiled_assets/styles.css?v=15549026045377965771790250943"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lorenacanals.com/",
+        "https://lorenacanals.com/cdn/shop/t/106/assets/theme-custom.css?v=99710104314749034981790250355",
+        "https://lorenacanals.com/cdn/shop/t/106/compiled_assets/styles.css?v=15549026045377965771790250943"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lorenacanals.com/",
+        "https://lorenacanals.com/cdn/shop/t/106/assets/theme-custom.css?v=99710104314749034981790250355"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lorenacanals.com/",
+        "https://lorenacanals.com/cdn/shop/t/106/assets/base.css?v=182974248521159834171790250939",
+        "https://lorenacanals.com/cdn/shop/t/106/assets/theme-custom.css?v=99710104314749034981790250355",
+        "https://lorenacanals.com/cdn/shopifycloud/portable-wallets/latest/accelerated-checkout-backwards-compat.css",
+        "https://lorenacanals.com/cdn/shop/t/106/compiled_assets/styles.css?v=15549026045377965771790250943"
+      ]
+    },
+    "colors.accent-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "colors.accent-terracotta": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lorenacanals.com/cdn/shop/t/106/assets/theme-custom.css?v=99710104314749034981790250355"
+      ]
+    },
+    "colors.star": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "colors.warm-cream": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lorenacanals.com/"
+      ]
+    },
+    "colors.overlay-dark": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://lorenacanals.com/cdn/shop/t/106/compiled_assets/styles.css?v=15549026045377965771790250943"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.rug-swatch-selector": {
+      "status": "inferred"
+    }
+  }
+}

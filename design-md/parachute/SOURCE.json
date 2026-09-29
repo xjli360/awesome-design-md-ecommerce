@@ -1,0 +1,938 @@
+{
+  "source_url": "https://www.parachutehome.com",
+  "final_url": "https://parachutehome.com/",
+  "captured_at": "2026-09-28T04:10:23.977780+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.parachutehome.com",
+      "final_url": "https://parachutehome.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "7c1fcbbea9e511074af250f80f4c61206dd350871b010322adfab24b3f80a2a7",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.css",
+      "final_url": "https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "c94a0dc6cbd7f95a3c4eb8f7959fd8e5905ff0794116c07a5f09bbac7ef9ffd1",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css",
+      "final_url": "https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "cccf165ed1b87949fb74a28d313ba8599b9bfbe56749f68ea40ffc3c97ef4c1a",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://parachutehome.com/cdn/shop/t/2009/assets/base.css?v=106580158811850334671776364080",
+      "final_url": "https://parachutehome.com/cdn/shop/t/2009/assets/base.css?v=106580158811850334671776364080",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "56a6ccccb100c0a949261cc7c73fe0a163292a5b49e7f09c110a47f1ce8f6d6a",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://parachutehome.com/cdn/shop/t/2009/assets/component-cart-items.css?v=134520258805341600711761241831",
+      "final_url": "https://parachutehome.com/cdn/shop/t/2009/assets/component-cart-items.css?v=134520258805341600711761241831",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "800b631b8017304c1b4258ce46d3094978abc62b5a0f2f5d92d471036d1a0061",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://parachutehome.com/cdn/shop/t/2009/assets/component-cart-drawer.css?v=162368399518557191401761241835",
+      "final_url": "https://parachutehome.com/cdn/shop/t/2009/assets/component-cart-drawer.css?v=162368399518557191401761241835",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7e1bbd9f699d5108505ef0e3e12757ca77042c6d4b4b5228877fad5a95224ca7",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#dcdad4": {
+      "count": 119,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#4a5663": {
+      "count": 117,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 113,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#c49c8c": {
+      "count": 111,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#908d8d": {
+      "count": 105,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#897467": {
+      "count": 105,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#bdc5c7": {
+      "count": 102,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#807d6f": {
+      "count": 100,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#404335": {
+      "count": 87,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#5c4335": {
+      "count": 61,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#905a3a": {
+      "count": 57,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#595454": {
+      "count": 56,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#3b3b3b": {
+      "count": 46,
+      "sources": [
+        "https://parachutehome.com/",
+        "https://parachutehome.com/cdn/shop/t/2009/assets/base.css?v=106580158811850334671776364080"
+      ]
+    },
+    "#bcbfb5": {
+      "count": 41,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#bababc": {
+      "count": 35,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#d3c2ae": {
+      "count": 34,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#007acc": {
+      "count": 31,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#555555": {
+      "count": 31,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#f7f6eb": {
+      "count": 27,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#4c474c": {
+      "count": 27,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#ffffff": {
+      "count": 26,
+      "sources": [
+        "https://parachutehome.com/",
+        "https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.css",
+        "https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css",
+        "https://parachutehome.com/cdn/shop/t/2009/assets/base.css?v=106580158811850334671776364080"
+      ]
+    },
+    "#b4b4b4": {
+      "count": 20,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#c7c9c8": {
+      "count": 14,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#f8f8f8": {
+      "count": 9,
+      "sources": [
+        "https://parachutehome.com/",
+        "https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css"
+      ]
+    },
+    "#e6dcdc": {
+      "count": 7,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#000000": {
+      "count": 7,
+      "sources": [
+        "https://parachutehome.com/",
+        "https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.css",
+        "https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css",
+        "https://parachutehome.com/cdn/shop/t/2009/assets/base.css?v=106580158811850334671776364080"
+      ]
+    },
+    "#656e60": {
+      "count": 7,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#efede7": {
+      "count": 5,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#f1eee9": {
+      "count": 4,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#7f8882": {
+      "count": 4,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#bab0a5": {
+      "count": 3,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#37333a": {
+      "count": 3,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#ffffff00": {
+      "count": 3,
+      "sources": [
+        "https://parachutehome.com/cdn/shop/t/2009/assets/base.css?v=106580158811850334671776364080"
+      ]
+    },
+    "#0000ff": {
+      "count": 2,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#88432a": {
+      "count": 2,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#e3dfd7": {
+      "count": 2,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#aab3a3": {
+      "count": 2,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#1b5351": {
+      "count": 2,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#fffcf1": {
+      "count": 2,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#676768": {
+      "count": 2,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#ededed": {
+      "count": 2,
+      "sources": [
+        "https://parachutehome.com/",
+        "https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css"
+      ]
+    },
+    "#814926": {
+      "count": 2,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#3a3d32": {
+      "count": 2,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#374151": {
+      "count": 2,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css"
+      ]
+    },
+    "#0000000d": {
+      "count": 2,
+      "sources": [
+        "https://parachutehome.com/cdn/shop/t/2009/assets/base.css?v=106580158811850334671776364080"
+      ]
+    },
+    "#495663": {
+      "count": 1,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#e6e6e6": {
+      "count": 1,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#4b5663": {
+      "count": 1,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#0d283c": {
+      "count": 1,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#8c8c8c": {
+      "count": 1,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#080808": {
+      "count": 1,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#f0eee9": {
+      "count": 1,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#737373": {
+      "count": 1,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 1,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#7d6868": {
+      "count": 1,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#796a55": {
+      "count": 1,
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "#007aff": {
+      "count": 1,
+      "sources": [
+        "https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.css"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css"
+      ]
+    },
+    "#d0d0d0": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css"
+      ]
+    },
+    "#dbdbdb": {
+      "count": 1,
+      "sources": [
+        "https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css"
+      ]
+    }
+  },
+  "font_families": {
+    "-apple-system": [
+      "https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css"
+    ],
+    "BlinkMacSystemFont": [
+      "https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css"
+    ],
+    "Font Awesome 5 Pro": [
+      "https://parachutehome.com/"
+    ],
+    "Liberation Sans": [
+      "https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css"
+    ],
+    "Petrona": [
+      "https://parachutehome.com/"
+    ],
+    "Segoe UI": [
+      "https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css"
+    ],
+    "Segoe UI Adjusted": [
+      "https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css"
+    ],
+    "Suisse Intl": [
+      "https://parachutehome.com/"
+    ],
+    "sans-serif": [
+      "https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css"
+    ],
+    "swiper-icons": [
+      "https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://parachutehome.com/",
+      "selector": ":root,\n\t\t\t  .color-scheme-1",
+      "declarations": "--color-background: 241,238,233;\n\t\t\t  \n\t\t\t    --gradient-background: #f1eee9;\n\t\t\t  \n\n\t\t\t  \n\n\t\t\t  --color-foreground: 59,59,59;\n\t\t\t  --color-background-contrast: 191,178,155;\n\t\t\t  --color-shadow: 59,59,59;\n\t\t\t  --color-button: 59,59,59;\n\t\t\t  --color-button-text: 255,255,255;\n\t\t\t  --color-secondary-button: 241,238,233;\n\t\t\t  --color-secondary-button-text: 59,59,59;\n\t\t\t  --color-link: 59,59,59;\n\t\t\t  --color-badge-foreground: 59,59,59;\n\t\t\t  --color-badge-background: 241,238,233;\n\t\t\t  --color-badge-border: 59,59,59;\n\t\t\t  --payment-terms-background-color: rgb(241 238 233);"
+    },
+    {
+      "source": "https://parachutehome.com/",
+      "selector": ":root, .color-scheme-1",
+      "declarations": "--color-background: var(--cv-color--base--surface--raw);\n\t\t\t  --gradient-background: var(--cv-color--base--surface);\n\t\t\t  --color-foreground: var(--cv-color--base--onSurface--raw);\n\n\t\t\t  --color-link: var(--cv-color--base--onSurface--raw);\n\n\t\t\t  --color-button: var(--cv-color--base--onSurface--raw);\n\t\t\t  --color-button-text: var(--cv-color--base--surface--raw);\n\t\t\t  --color-secondary-button: var(--cv-color--base--surface--raw);\n\t\t\t  --color-secondary-button-text: var(--cv-color--base--onSurface--raw);\n\n\t\t\t  --color-badge-background: var(--cv-color--base--surface--raw);\n\t\t\t  --color-badge-foreground: var(--cv-color--base--onSurface--raw);\n\t\t\t  --color-badge-border: var(--cv-color--base--onSur"
+    },
+    {
+      "source": "https://parachutehome.com/",
+      "selector": "body",
+      "declarations": "display: flex;\n\t\t\t  flex-direction: column;\n\t\t\t  min-height: 100%;\n\t\t\t  margin: 0;\n\t\t\t  font-size: 1.5rem;\n\t\t\t  letter-spacing: 0;\n\t\t\t  line-height: calc(1 + 0.8 / var(--font-body-scale));\n\t\t\t  font-family: var(--font-body-family);\n\t\t\t  font-style: var(--font-body-style);\n\t\t\t  font-weight: var(--font-body-weight);"
+    },
+    {
+      "source": "https://parachutehome.com/",
+      "selector": ":root",
+      "declarations": "--cv-color--base--surface--raw: 248, 248, 248;\n\n\t\t\t--cv-color--base--onSurface--raw: 59, 59, 59;\n\n\t\t\t--cv-color--accent--surface--raw: 248, 248, 248;\n\n\t\t\t--cv-color--accent--onSurface--raw: 144, 42, 31;"
+    },
+    {
+      "source": "https://parachutehome.com/",
+      "selector": "button.fides-banner-button.fides-reject-all-button",
+      "declarations": "display: none;\n\t\tborder: solid 1px var(--cv-color--base--onSurface);\n\t\tbackground-color: var(--cv-color--base--surface);\n\t\tcolor: var(--cv-color--base--onSurface);"
+    },
+    {
+      "source": "https://parachutehome.com/",
+      "selector": ":root",
+      "declarations": "--fides-overlay-primary-color: var(--cv-color--base--onSurface);\n\t\t\n\t\t--fides-overlay-background-color: var(--cv-color--base--surface);\n\t\t--fides-overlay-background-dark-color: var(--cv-color--base--surface);\n\t\t\n\t\t--fides-overlay-font-color: var(--cv-color--base--onSurface);\n\t\t\n\t\t--fides-overlay-font-color-dark: var(--cv-color--base--onSurface);\n\t\t\n\t\t--fides-overlay-hover-color: var(--cv-color--base--surface);\n\n\t\t\n\t\t\n\t\t--fides-overlay-font-family: var(--cv-font-body-family);\n\t\t\n\t\t--fides-overlay-font-size-body-small: var(--cv-font-size-smallest);\n\t\t\n\t\t--fides-overlay-font-size-body: var(--cv-font-size-smaller);\n\t\t\n\t\t--fides-overlay-font-size-title: var(--cv-font-size-smaller);\n\t\t\n\t\t--fides-o"
+    },
+    {
+      "source": "https://parachutehome.com/",
+      "selector": ".Product_reviews_lists_inner_new\n\t\t\t\t.bv_numReviews_component_container\n\t\t\t\t.bv_text",
+      "declarations": "padding: 0 !important;\n\t\t\t\tcolor: color-mix(\n\t\t\t\t\tin srgb,\n\t\t\t\t\tvar(--cv-color--base--onSurface),\n\t\t\t\t\ttransparent 30%\n\t\t\t\t) !important;\n\t\t\t\tfont-weight: 500 !important;\n\t\t\t\tfont-size: 12px !important;\n\t\t\t\tline-height: 136% !important;\n\t\t\t\tfont-family: var(--cv-font-body-family) !important;\n\t\t\t\tletter-spacing: 0.05em !important;\n\t\t\t\ttext-decoration: underline !important;\n\t\t\t\ttext-underline-offset: 2px !important;\n\t\t\t\ttext-transform: uppercase !important;"
+    },
+    {
+      "source": "https://parachutehome.com/",
+      "selector": "[data-rebuy-id='219953'] .rebuy-widget.widget-type-product .primary-title",
+      "declarations": "margin-bottom: 0px !important;\n\t\tfont-style: var(--font-body-style);\n\t\tfont-weight: 500;\n\t\tfont-size: 12px !important;\n\t\tfont-family: var(--font-body-family);\n\t\ttext-align: center !important;\n\t\ttext-transform: uppercase;"
+    },
+    {
+      "source": "https://parachutehome.com/",
+      "selector": "[data-rebuy-id='221364'] .rebuy-widget.widget-type-product .primary-title",
+      "declarations": "margin-bottom: 8px !important;\n\t\tcolor: #3b3b3b;\n\t\tfont-style: var(--font-body-style);\n\t\tfont-weight: 500;\n\t\tfont-size: 12px !important;\n\t\tfont-family: var(--font-body-family);\n\t\tletter-spacing: normal !important;\n\t\ttext-transform: uppercase;"
+    },
+    {
+      "source": "https://parachutehome.com/",
+      "selector": "-search-results-page__absolute-image-container,\n\t#rebuy-quick-view-dropdown-search\n\t\t.rebuy-quick-view-dropdown__container\n\t\t.rebuy-quick-view__product\n\t\t.rebuy",
+      "declarations": "background-color: #f7f7f7;"
+    },
+    {
+      "source": "https://parachutehome.com/",
+      "selector": "duct\n\t\t.rebuy-product-info\n\t\t.rebuy-product-title,\n\t#rebuy-quick-view-dropdown-search\n\t\t.rebuy-quick-view-dropdown__container\n\t\t.rebuy-quick-view__product\n\t\t.re",
+      "declarations": "visibility: hidden;\n\t\tcolor: var(--rebuy-search-color);\n\t\tfont-weight: 450;\n\t\tfont-size: 16px;\n\t\ttext-align: start;"
+    },
+    {
+      "source": "https://parachutehome.com/",
+      "selector": "ults-page__product\n\t\t.rebuy-product-info\n\t\t.rebuy-product-price,\n\t#rebuy-quick-view-dropdown-search\n\t\t.rebuy-quick-view-dropdown__container\n\t\t.rebuy-quick-view_",
+      "declarations": "justify-content: start;\n\t\tcolor: var(--rebuy-search-color);\n\t\tfont-weight: 600;\n\t\tfont-size: 13px;\n\t\ttext-align: start;"
+    },
+    {
+      "source": "https://parachutehome.com/",
+      "selector": ".rebuy-product-price\n\t\t.rebuy-money.sale,\n\t#rebuy-quick-view-dropdown-search\n\t\t.rebuy-quick-view-dropdown__container\n\t\t.rebuy-quick-view__product\n\t\t.rebuy-produ",
+      "declarations": "color: inherit;"
+    },
+    {
+      "source": "https://parachutehome.com/",
+      "selector": "#rebuy-smart-search-results-dropdown\n\t\t.rebuy-smart-search-results-page__pagination\n\t\t.rebuy-smart-search-results-page__pagination-label\n\t\tbutton.rebuy-smart-se",
+      "declarations": "padding: 0px 6px;\n\t\tcolor: inherit;\n\t\tfont-size: 16px;"
+    },
+    {
+      "source": "https://parachutehome.com/",
+      "selector": "h-results-page__pagination\n\t\t.rebuy-smart-search-results-page__pagination-label\n\t\tbutton.rebuy-smart-search-results-page__pagination-page\n\t\t.rebuy-smart-search-",
+      "declarations": "color: inherit;\n\t\topacity: 0.4;"
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.css",
+      "selector": ":root",
+      "declarations": "--swiper-theme-color:#007aff"
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.css",
+      "selector": ":root",
+      "declarations": "--swiper-navigation-size:44px"
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.css",
+      "selector": ".swiper-button-next,.swiper-button-prev",
+      "declarations": "position:absolute;top:var(--swiper-navigation-top-offset,50%);width:calc(var(--swiper-navigation-size)/ 44 * 27);height:var(--swiper-navigation-size);margin-top:calc(0px - (var(--swiper-navigation-size)/ 2));z-index:10;cursor:pointer;display:flex;align-items:center;justify-content:center;color:var(--swiper-navigation-color,var(--swiper-theme-color))"
+    },
+    {
+      "source": "https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.css",
+      "selector": ".swiper-button-next:after,.swiper-button-prev:after",
+      "declarations": "font-family:swiper-icons;font-size:var(--swiper-navigation-size);text-transform:none!important;letter-spacing:0;font-variant:initial;line-height:1"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css",
+      "selector": ":root",
+      "declarations": "--f-spinner-width: 36px;--f-spinner-height: 36px;--f-spinner-color-1: rgba(0, 0, 0, 0.1);--f-spinner-color-2: rgba(17, 24, 28, 0.8);--f-spinner-stroke: 2.75"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css",
+      "selector": ":root",
+      "declarations": "--f-button-width: 40px;--f-button-height: 40px;--f-button-border: 0;--f-button-border-radius: 0;--f-button-color: #374151;--f-button-bg: #f8f8f8;--f-button-hover-bg: #e0e0e0;--f-button-active-bg: #d0d0d0;--f-button-shadow: none;--f-button-transition: all 0.15s ease;--f-button-transform: none;--f-button-svg-width: 20px;--f-button-svg-height: 20px;--f-button-svg-stroke-width: 1.5;--f-button-svg-fill: none;--f-button-svg-filter: none;--f-button-svg-disabled-opacity: 0.65"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css",
+      "selector": ".f-button",
+      "declarations": "display:flex;justify-content:center;align-items:center;box-sizing:content-box;position:relative;margin:0;padding:0;width:var(--f-button-width);height:var(--f-button-height);border:var(--f-button-border);border-radius:var(--f-button-border-radius);color:var(--f-button-color);background:var(--f-button-bg);box-shadow:var(--f-button-shadow);pointer-events:all;cursor:pointer;transition:var(--f-button-transition)"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css",
+      "selector": ".f-button:hover:not([disabled])",
+      "declarations": "color:var(--f-button-hover-color);background-color:var(--f-button-hover-bg)"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css",
+      "selector": ".f-button:active:not([disabled])",
+      "declarations": "background-color:var(--f-button-active-bg)"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css",
+      "selector": ".f-button.is-close-btn",
+      "declarations": "--f-button-svg-stroke-width: 2;position:absolute;top:0;right:8px;z-index:40"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css",
+      "selector": ".fancybox__content>.f-button.is-close-btn",
+      "declarations": "--f-button-width: 34px;--f-button-height: 34px;--f-button-border-radius: 4px;--f-button-color: var(--fancybox-color, #fff);--f-button-hover-color: var(--fancybox-color, #fff);--f-button-bg: transparent;--f-button-hover-bg: transparent;--f-button-active-bg: transparent;--f-button-svg-width: 22px;--f-button-svg-height: 22px;position:absolute;top:-38px;right:0;opacity:.75"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css",
+      "selector": ".is-compact .fancybox__content>.f-button.is-close-btn",
+      "declarations": "--f-button-border-radius: 50%;--f-button-color: #fff;--f-button-hover-color: #fff;--f-button-outline-color: #000;--f-button-bg: rgba(0, 0, 0, 0.6);--f-button-active-bg: rgba(0, 0, 0, 0.6);--f-button-hover-bg: rgba(0, 0, 0, 0.6);--f-button-svg-width: 18px;--f-button-svg-height: 18px;--f-button-svg-filter: none;top:5px;right:5px"
+    },
+    {
+      "source": "https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css",
+      "selector": ".is-modern .f-thumbs__slide__button",
+      "declarations": "--clip-path: inset( 0 calc( ((var(--f-thumb-width, 0) - var(--f-thumb-clip-width, 0))) * (1 - var(--progress, 0)) * 0.5 ) round var(--f-thumb-border-radius, 0) );clip-path:var(--clip-path)"
+    },
+    {
+      "source": "https://parachutehome.com/cdn/shop/t/2009/assets/base.css?v=106580158811850334671776364080",
+      "selector": ":root",
+      "declarations": "--alpha-button-background: 1;--alpha-button-border: 1;--alpha-link: .85;--alpha-badge-border: .1;--focused-base-outline: .2rem solid rgba(var(--color-foreground), .5);--focused-base-outline-offset: .3rem;--focused-base-box-shadow: 0 0 0 .3rem rgb(var(--color-background)), 0 0 .5rem .4rem rgba(var(--color-foreground), .3)"
+    },
+    {
+      "source": "https://parachutehome.com/cdn/shop/t/2009/assets/base.css?v=106580158811850334671776364080",
+      "selector": ".product-card-wrapper .card,.contains-card--product",
+      "declarations": "--border-radius: var(--product-card-corner-radius);--border-width: var(--product-card-border-width);--border-opacity: var(--product-card-border-opacity);--shadow-horizontal-offset: var(--product-card-shadow-horizontal-offset);--shadow-vertical-offset: var(--product-card-shadow-vertical-offset);--shadow-blur-radius: var(--product-card-shadow-blur-radius);--shadow-opacity: var(--product-card-shadow-opacity);--shadow-visible: var(--product-card-shadow-visible);--image-padding: var(--product-card-image-padding);--text-alignment: var(--product-card-text-alignment)"
+    }
+  ],
+  "confidence": "historical_partial_css_evidence",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Parachute – Home happens here. Bedding, bath linens, decor and more.\n\n\t\t\t\t– Parachute Home",
+  "schema_version": 1,
+  "design_origin": "historical",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.primary-active": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://parachutehome.com/",
+        "https://parachutehome.com/cdn/shop/t/2009/assets/base.css?v=106580158811850334671776364080"
+      ]
+    },
+    "colors.primary-disabled": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://parachutehome.com/",
+        "https://parachutehome.com/cdn/shop/t/2009/assets/base.css?v=106580158811850334671776364080"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.muted-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "colors.hairline-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://parachutehome.com/",
+        "https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://parachutehome.com/",
+        "https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.css",
+        "https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css",
+        "https://parachutehome.com/cdn/shop/t/2009/assets/base.css?v=106580158811850334671776364080"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://parachutehome.com/",
+        "https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.css",
+        "https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css",
+        "https://parachutehome.com/cdn/shop/t/2009/assets/base.css?v=106580158811850334671776364080"
+      ]
+    },
+    "colors.accent-terracotta": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "colors.accent-teal": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "colors.accent-sage": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "colors.accent-cream": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://parachutehome.com/"
+      ]
+    },
+    "colors.star-rating": {
+      "value_status": "unverified",
+      "role_status": "inferred"
+    },
+    "colors.scrim": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://parachutehome.com/",
+        "https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.min.css",
+        "https://cdn.jsdelivr.net/npm/@fancyapps/ui@5.0/dist/fancybox/fancybox.css",
+        "https://parachutehome.com/cdn/shop/t/2009/assets/base.css?v=106580158811850334671776364080"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-lg": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.display-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.title-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.title-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.body-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.body-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.caption": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.button-md": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.button-sm": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.link": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.nav-link": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "typography.badge": {
+      "font_family_status": "partial_observed_match",
+      "measurements_status": "unverified"
+    },
+    "rounded.none": {
+      "status": "unverified"
+    },
+    "rounded.xs": {
+      "status": "unverified"
+    },
+    "rounded.sm": {
+      "status": "unverified"
+    },
+    "rounded.md": {
+      "status": "unverified"
+    },
+    "rounded.lg": {
+      "status": "unverified"
+    },
+    "rounded.xl": {
+      "status": "unverified"
+    },
+    "rounded.full": {
+      "status": "unverified"
+    },
+    "spacing.xxs": {
+      "status": "unverified"
+    },
+    "spacing.xs": {
+      "status": "unverified"
+    },
+    "spacing.sm": {
+      "status": "unverified"
+    },
+    "spacing.md": {
+      "status": "unverified"
+    },
+    "spacing.base": {
+      "status": "unverified"
+    },
+    "spacing.lg": {
+      "status": "unverified"
+    },
+    "spacing.xl": {
+      "status": "unverified"
+    },
+    "spacing.xxl": {
+      "status": "unverified"
+    },
+    "spacing.section": {
+      "status": "unverified"
+    },
+    "components.button-primary": {
+      "status": "unverified"
+    },
+    "components.button-primary-hover": {
+      "status": "unverified"
+    },
+    "components.button-primary-disabled": {
+      "status": "unverified"
+    },
+    "components.button-secondary": {
+      "status": "unverified"
+    },
+    "components.button-secondary-hover": {
+      "status": "unverified"
+    },
+    "components.button-tertiary": {
+      "status": "unverified"
+    },
+    "components.text-input": {
+      "status": "unverified"
+    },
+    "components.text-input-focus": {
+      "status": "unverified"
+    },
+    "components.text-input-error": {
+      "status": "unverified"
+    },
+    "components.nav-bar": {
+      "status": "unverified"
+    },
+    "components.nav-link-active": {
+      "status": "unverified"
+    },
+    "components.nav-link-inactive": {
+      "status": "unverified"
+    },
+    "components.product-card": {
+      "status": "unverified"
+    },
+    "components.product-card-image": {
+      "status": "unverified"
+    },
+    "components.product-card-title": {
+      "status": "unverified"
+    },
+    "components.product-card-price": {
+      "status": "unverified"
+    },
+    "components.hero-section": {
+      "status": "unverified"
+    },
+    "components.hero-cta": {
+      "status": "unverified"
+    },
+    "components.search-bar": {
+      "status": "unverified"
+    },
+    "components.badge-new": {
+      "status": "unverified"
+    },
+    "components.badge-sale": {
+      "status": "unverified"
+    },
+    "components.footer": {
+      "status": "unverified"
+    },
+    "components.footer-link": {
+      "status": "unverified"
+    },
+    "components.category-strip": {
+      "status": "unverified"
+    },
+    "components.category-tab-active": {
+      "status": "unverified"
+    },
+    "components.category-tab-inactive": {
+      "status": "unverified"
+    }
+  },
+  "observed_color_tokens": 15,
+  "total_color_tokens": 19
+}

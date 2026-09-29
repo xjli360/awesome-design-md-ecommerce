@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Lighthouse Records
-description: A raw, unpolished independent record store webstore where #0000ff — a piercing, almost synthetic blue — cuts through a palette of warm pinks (#ffe8e8), aggressive reds (#d40f0f, #ff0000), and deep navy tones (#222255, #000088) like a neon sign in a dimly lit basement. The extracted palette reads less like a designed system and more like a crate-digger’s notebook: the blues and navies suggest a default framework skeleton, while the pinks and reds hint at sale tags, sold-out badges, and the urgency of limited pressings. Typography defaults to system stacks — Arial, Helvetica Neue, and Japanese fallbacks like Hiragino Kaku Gothic Pro and Meiryo — with monospace (Consolas, Monaco, Courier New) appearing for pricing or catalog numbers, giving the interface a utilitarian, almost database-like honesty. There is no polished hero image or curated lifestyle photography; the site leans on {rounded.none} corners, tight {spacing.sm} gaps between rows of album covers, and a dense information hierarchy where every pixel competes for attention. The search bar, if present, likely sits as a simple text input with {rounded.xs} and a hairline border (#e1e1e8), while primary actions — "Add to Cart" or "Buy Now" — probably wear the most saturated accent (#0088cc or #dd1144) against a {colors.canvas} of #fcfcfc. This is a store that prioritizes inventory over interface: the design exists to get out of the way, not to impress.
+name: "Lighthouse Records"
+source_url: "https://www.lighthouserecords.jp"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A raw, unpolished independent record store webstore where #0000ff — a piercing, almost synthetic blue — cuts through a palette of warm pinks (#ffe8e8), aggressive reds (#d40f0f, #ff0000), and deep navy tones (#222255, #000088) like a neon sign in a dimly lit basement. The extracted palette reads less like a designed system and more like a crate-digger’s notebook: the blues and navies suggest a default framework skeleton, while the pinks and reds hint at sale tags, sold-out badges, and the urgency of limited pressings. Typography defaults to system stacks — Arial, Helvetica Neue, and Japanese fallbacks like Hiragino Kaku Gothic Pro and Meiryo — with monospace (Consolas, Monaco, Courier New) appearing for pricing or catalog numbers, giving the interface a utilitarian, almost database-like honesty. There is no polished hero image or curated lifestyle photography; the site leans on {rounded.none} corners, tight {spacing.sm} gaps between rows of album covers, and a dense information hierarchy where every pixel competes for attention. The search bar, if present, likely sits as a simple text input with {rounded.xs} and a hairline border (#e1e1e8), while primary actions — "Add to Cart" or "Buy Now" — probably wear the most saturated accent (#0088cc or #dd1144) against a {colors.canvas} of #fcfcfc. This is a store that prioritizes inventory over interface: the design exists to get out of the way, not to impress.
 
 colors:
   primary: "#0000ff"
@@ -288,6 +292,8 @@ components:
 - Search bar moves from header to a full-width row below the nav on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted color palette is heavily polluted with framework defaults (multiple blues, grays, and greens from Bootstrap, Shopify, or similar). The true brand palette may be more restrained than the 25+ colors listed. The most distinctive accent (#0000ff) was chosen as primary, but this may be a framework default rather than a deliberate brand choice.
 - No hover or active states could be reliably extracted for most components beyond buttons.

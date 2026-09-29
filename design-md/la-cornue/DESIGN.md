@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: La Cornue
-description: |
+name: "La Cornue"
+source_url: "https://www.lacornue.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Polished brass hardware against hand-enamelled iron — that contrast sits at the heart of every La Cornue surface, digital included. The palette anchors on a deep Parisian navy (#163959) that evokes the cast-iron body of the Château range, while a burnished gold (#b8924a) sparks through CTAs and accent borders the way brass trim catches overhead light in a professional kitchen. Body text lives in a warm charcoal (#404040) rather than pure black, softening long-form craft narratives about flame-vaulted ovens and hand-riveted doors. The canvas stays an antique ivory (#faf8f5) — never clinical white — giving product photography the same warm register as a limestone-walled Parisian showroom. Typography leans on a refined serif display face for headlines (`{typography.display-xl}`) paired with a clean geometric sans for navigation and interface text, creating the same high-low tension as a 1908 atelier operating inside a modern digital storefront. Cards and panels carry gentle `{rounded.xs}` corners — almost square, never playful — while generous `{spacing.section}` vertical rhythm between content blocks lets hero photography breathe without crowding. The product configurator — where buyers choose among 32+ enamel colours and seven metal finishes — is the signature UI moment: swatches render at 40×40px with a 2px `{colors.primary}` ring on selection, and a live preview updates with each choice. Navigation is spare and editorial: a slim sticky header with wordmark left, utility icons right, and a full-width mega-menu that drops on hover to reveal range families organised by collection. Footer columns echo the navy ground with gold link hover states, reinforcing that every pixel shares DNA with the physical product's materiality.
 
 colors:
@@ -343,6 +346,8 @@ components:
 - Mega-menu: hover dropdown → full-screen overlay with back-navigation
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - **Site blocked by Cloudflare anti-bot challenge** — page title returned "Attention Required! | Cloudflare" confirming no actual brand assets were extracted. All colours in the hint list originate from the Cloudflare challenge page UI, not La Cornue's design system.
 - **Typography is inferred** — La Cornue's actual web fonts could not be detected. The serif display face (Playfair Display) and sans-serif body (Helvetica Neue) are educated estimates based on the brand's widely-documented French luxury positioning. Actual font families may differ significantly.

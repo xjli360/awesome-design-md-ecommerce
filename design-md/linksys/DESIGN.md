@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Linksys
-description: Arimo — Google's metrically compatible Arial substitute — carries all editorial weight on linksys.com, a deliberate choice that prioritizes cross-platform rendering fidelity over typographic personality; it is the font equivalent of the hardware it represents: invisible infrastructure that simply works. A single #0098ed anchors the entire interactive system — every primary CTA, every nav hover underline, every active tab indicator runs through this one cerulean voltage, never doubled or softened into a tint family. Below it sits a tight grayscale stack: #121212 for headings, #323232 for body, #444444 for muted annotations, then #dedede and #f7f7f7 holding hairlines and section backgrounds — six colors total that compose without decoration. The geometry is utilitarian rather than playful: buttons favor `{rounded.xs}` corners, product cards sit on `{rounded.sm}` frames, and the brand's credibility is built through specification grids and compatibility badges rather than illustration or lifestyle photography. CTAs land as solid #0098ed fills with `{colors.on-primary}` type, and secondary actions step back to outlined treatments — a clear hierarchy that mirrors how networking dashboards prioritize primary action paths. Section rhythm divides neatly: hero at full-viewport with a headline in display-xl and support subhead in body-md, followed by product-feature strips that alternate between #121212 and #f7f7f7 panels to create cadence without color variety. The footer is dense charcoal — `{colors.dark-body}` — with legal links at caption scale. There are no gradients, no decorative patterns, no color outside the six extracted values; Linksys's design system reads like a spec sheet rendered in CSS: categorical, complete, and deliberately cold.
+name: "Linksys"
+source_url: "https://www.linksys.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Arimo — Google's metrically compatible Arial substitute — carries all editorial weight on linksys.com, a deliberate choice that prioritizes cross-platform rendering fidelity over typographic personality; it is the font equivalent of the hardware it represents: invisible infrastructure that simply works. A single #0098ed anchors the entire interactive system — every primary CTA, every nav hover underline, every active tab indicator runs through this one cerulean voltage, never doubled or softened into a tint family. Below it sits a tight grayscale stack: #121212 for headings, #323232 for body, #444444 for muted annotations, then #dedede and #f7f7f7 holding hairlines and section backgrounds — six colors total that compose without decoration. The geometry is utilitarian rather than playful: buttons favor `{rounded.xs}` corners, product cards sit on `{rounded.sm}` frames, and the brand's credibility is built through specification grids and compatibility badges rather than illustration or lifestyle photography. CTAs land as solid #0098ed fills with `{colors.on-primary}` type, and secondary actions step back to outlined treatments — a clear hierarchy that mirrors how networking dashboards prioritize primary action paths. Section rhythm divides neatly: hero at full-viewport with a headline in display-xl and support subhead in body-md, followed by product-feature strips that alternate between #121212 and #f7f7f7 panels to create cadence without color variety. The footer is dense charcoal — `{colors.dark-body}` — with legal links at caption scale. There are no gradients, no decorative patterns, no color outside the six extracted values; Linksys's design system reads like a spec sheet rendered in CSS: categorical, complete, and deliberately cold.
 
 colors:
   primary: "#0098ed"
@@ -335,6 +339,8 @@ components:
 - Spec badge rows truncate to 3 visible badges with "Show all specs" expand link on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No secondary or accent colors extracted beyond the single brand blue (#0098ed) and grayscale stack; error, success, and warning state colors are not extractable from the available hints and are left unspecified
 - Font weights in active deployment are unconfirmed; Arimo supports 400–700 but the specific weight pairings used on linksys.com are not derivable from the meta extraction

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Sub Pop Megamart
-description: A record label merch store that wears its black-on-black-on-black palette like a stage uniform — `#231f20` (a near-black with a whisper of brown warmth, not pure `#000`) is the background for the entire shopping experience, while `#dedede` silver-gray provides the only text and linework, and `#121212` (a colder, deeper black) appears in product-image shadows and footer blocks. The brand makes zero attempt at "retail warmth": no white canvas, no pastel accents, no lifestyle photography. Instead, product thumbnails sit on `#231f20` like artifacts in a vitrine, with `{rounded.xs}` (4px) corners that feel more functional than friendly — just enough to keep edges from cutting. The single visual voltage comes from album art and band logos, which are allowed to be full-color, fluorescent, or metallic; the store frame itself stays out of the way. Typography is a single sans-serif at moderate weights — no display face, no italic, no uppercase navigation — and the cart icon is a simple SVG outline in `#dedede`. The checkout flow (Shopify-powered) introduces its own blue and green buttons, but those are clearly widget intrusions, not brand decisions. Sub Pop Megamart is a dark room with a spotlight on the records.
+name: "Sub Pop Megamart"
+source_url: "https://megamart.subpop.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A record label merch store that wears its black-on-black-on-black palette like a stage uniform — `#231f20` (a near-black with a whisper of brown warmth, not pure `#000`) is the background for the entire shopping experience, while `#dedede` silver-gray provides the only text and linework, and `#121212` (a colder, deeper black) appears in product-image shadows and footer blocks. The brand makes zero attempt at "retail warmth": no white canvas, no pastel accents, no lifestyle photography. Instead, product thumbnails sit on `#231f20` like artifacts in a vitrine, with `{rounded.xs}` (4px) corners that feel more functional than friendly — just enough to keep edges from cutting. The single visual voltage comes from album art and band logos, which are allowed to be full-color, fluorescent, or metallic; the store frame itself stays out of the way. Typography is a single sans-serif at moderate weights — no display face, no italic, no uppercase navigation — and the cart icon is a simple SVG outline in `#dedede`. The checkout flow (Shopify-powered) introduces its own blue and green buttons, but those are clearly widget intrusions, not brand decisions. Sub Pop Megamart is a dark room with a spotlight on the records.
 
 colors:
   primary: "#231f20"
@@ -289,6 +293,8 @@ components:
 - Product card images maintain 1:1 aspect ratio at all breakpoints
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No font-family declarations were found on the live site — the system font stack `'Helvetica Neue', Helvetica, Arial, sans-serif` is inferred from common Shopify defaults and should be verified against the brand's actual design tokens
 - Only three hex colors were extracted from the live site (`#231f20`, `#dedede`, `#121212`) — all other colors in the palette (muted grays, surface variants, badge colors) are interpolated from these three and may not match the brand's actual secondary palette

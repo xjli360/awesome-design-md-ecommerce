@@ -1,0 +1,809 @@
+{
+  "source_url": "https://extremeterrain.com",
+  "final_url": "https://www.extremeterrain.com/",
+  "captured_at": "2026-09-28T04:30:38.547514+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://extremeterrain.com",
+      "final_url": "https://www.extremeterrain.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=utf-8",
+      "sha256": "cc9b9fc9821fdfe655e735b92c406df4797121a32e2a1f3db1ecab26d4e5890d",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "final_url": "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "bb0ef99b7a3b92d8a52fadb9126a13ad5f2dc2a7ce2a05f2a19b1f9b97ba3e13",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://www.extremeterrain.com/bundles/custompagesless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "final_url": "https://www.extremeterrain.com/bundles/custompagesless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "b928faefe62de7535a276e402ebefb73c25176b5349814498bf80e23ada25876",
+      "snapshot": "stylesheet-2.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 279,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+        "https://www.extremeterrain.com/bundles/custompagesless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#738537": {
+      "count": 181,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+        "https://www.extremeterrain.com/bundles/custompagesless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#a7a9ac": {
+      "count": 140,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+        "https://www.extremeterrain.com/bundles/custompagesless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#000000": {
+      "count": 79,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+        "https://www.extremeterrain.com/bundles/custompagesless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#edeeee": {
+      "count": 60,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+        "https://www.extremeterrain.com/bundles/custompagesless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#b31600": {
+      "count": 49,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+        "https://www.extremeterrain.com/bundles/custompagesless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#f2c84b": {
+      "count": 40,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+        "https://www.extremeterrain.com/bundles/custompagesless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#eceeef": {
+      "count": 38,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+        "https://www.extremeterrain.com/bundles/custompagesless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#d84510": {
+      "count": 33,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+        "https://www.extremeterrain.com/bundles/custompagesless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#58595b": {
+      "count": 29,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+        "https://www.extremeterrain.com/bundles/custompagesless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#212121": {
+      "count": 23,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+        "https://www.extremeterrain.com/bundles/custompagesless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#e8e8e8": {
+      "count": 21,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+        "https://www.extremeterrain.com/bundles/custompagesless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#f3f3f3": {
+      "count": 18,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+        "https://www.extremeterrain.com/bundles/custompagesless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#414042": {
+      "count": 12,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#797979": {
+      "count": 11,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+        "https://www.extremeterrain.com/bundles/custompagesless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 9,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#54461b": {
+      "count": 7,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#3b5998": {
+      "count": 7,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#dd4b39": {
+      "count": 7,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#d51920": {
+      "count": 7,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+        "https://www.extremeterrain.com/bundles/custompagesless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#0057c2": {
+      "count": 6,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#4c5f1b": {
+      "count": 4,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+        "https://www.extremeterrain.com/bundles/custompagesless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#be0074": {
+      "count": 4,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#5f7228": {
+      "count": 4,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#cc181e": {
+      "count": 4,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#e83d00": {
+      "count": 3,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#ffce3e": {
+      "count": 3,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#e50000": {
+      "count": 3,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#bcbcbc": {
+      "count": 3,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+        "https://www.extremeterrain.com/bundles/custompagesless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#1891cd": {
+      "count": 3,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+        "https://www.extremeterrain.com/bundles/custompagesless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#f4f8db": {
+      "count": 3,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#e2e5e7": {
+      "count": 3,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#858585": {
+      "count": 3,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/custompagesless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#b71529": {
+      "count": 2,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#00ffffff": {
+      "count": 2,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#af006b": {
+      "count": 2,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#487c07": {
+      "count": 2,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#73ad0f": {
+      "count": 2,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 2,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#666666": {
+      "count": 2,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#005f83": {
+      "count": 2,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+        "https://www.extremeterrain.com/bundles/custompagesless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#aabf63": {
+      "count": 1,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#0000003d": {
+      "count": 1,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#e1e5e6": {
+      "count": 1,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#80ffffff": {
+      "count": 1,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#8b0256": {
+      "count": 1,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#eef3f6": {
+      "count": 1,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#2196f3": {
+      "count": 1,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#005e16": {
+      "count": 1,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#002fff": {
+      "count": 1,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#0b9de5": {
+      "count": 1,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#f0facd": {
+      "count": 1,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#95a1ae": {
+      "count": 1,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#1b7729": {
+      "count": 1,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#e43535": {
+      "count": 1,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#d13327": {
+      "count": 1,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#dd3c0f": {
+      "count": 1,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#ff7d4d": {
+      "count": 1,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#0089a1": {
+      "count": 1,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "#13947d": {
+      "count": 1,
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+    ],
+    "Helvetica": [
+      "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+    ],
+    "Helvetica Neue": [
+      "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+    ],
+    "Inter": [
+      "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "https://www.extremeterrain.com/bundles/custompagesless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+    ],
+    "Lucida Grande": [
+      "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+    ],
+    "Roboto Flex": [
+      "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "https://www.extremeterrain.com/bundles/custompagesless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+    ],
+    "arial": [
+      "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+    ],
+    "sans-serif": [
+      "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "https://www.extremeterrain.com/bundles/custompagesless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+    ],
+    "unset!important": [
+      "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "selector": "input,button,select,textarea",
+      "declarations": "font-family:inherit;font-size:inherit;line-height:inherit"
+    },
+    {
+      "source": "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "selector": ".sitewideMessages .sitewideMessage_container.button_layout .sitewideMessage a:not(.close):hover",
+      "declarations": "color:#738537;background:#fff"
+    },
+    {
+      "source": "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "selector": ".product_container .product .fitment",
+      "declarations": "display:block;color:var(--color-text-text-subheading,#797979);font-size:12px;font-style:normal;font-weight:400;line-height:1.2;margin-top:4px"
+    },
+    {
+      "source": "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "selector": ".product_container .wheel_tire_kit_badge",
+      "declarations": "background-color:#797979;color:#fff;padding:4px 12px;border-radius:100px;font-size:12px;font-weight:800;text-align:center;display:block;margin-bottom:8px;line-height:1.2"
+    },
+    {
+      "source": "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "selector": ".product_container .reviews-number,.product_container .count",
+      "declarations": "line-height:20px;margin-bottom:10px;color:#a7a9ac;font-size:12px"
+    },
+    {
+      "source": "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "selector": ".product_container .badges span",
+      "declarations": "color:#738537;text-transform:uppercase;font-size:.85em;font-weight:bold;display:block"
+    },
+    {
+      "source": "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "selector": ".product_container .price",
+      "declarations": "font-family:\"Inter\",sans-serif;display:inline-block;margin:16px 0 10px;font-size:18px;font-style:normal;font-weight:700;line-height:16px;color:var(--base-color-grayscale-500-base,#212121)"
+    },
+    {
+      "source": "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "selector": ".product_container .price_container .starting_at",
+      "declarations": "display:block;color:var(--color-text-text-body,#212121);font-size:12px;font-style:normal;font-weight:600;line-height:1.2;margin-bottom:4px"
+    },
+    {
+      "source": "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "selector": ".product_container .price_container .price",
+      "declarations": "font-family:\"Inter\",sans-serif;display:inline-block;margin:0;font-size:18px;font-weight:700;line-height:1.2"
+    },
+    {
+      "source": "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "selector": ".product_container .price_container .original_price",
+      "declarations": "font-family:\"Inter\",sans-serif;display:inline-block;font-size:12px;font-style:normal;font-weight:600;line-height:140%;text-decoration:line-through;color:var(--color-text-text-subheading,#797979);margin:0 0 0 4px"
+    },
+    {
+      "source": "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "selector": ".product_container .open_box_price strong",
+      "declarations": "font-weight:400;color:#738537"
+    },
+    {
+      "source": "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "selector": ".marketing_initiative_v2 .container .hero_container:hover .hero_text_container .button_container .main_btn.ghost",
+      "declarations": "background-color:rgba(255,255,255,.32)"
+    },
+    {
+      "source": "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "selector": ".marketing_initiative_v2 .container .hero_container .hero_text_container .button_container .main_btn",
+      "declarations": "text-transform:none;background-color:#738537;color:#fff;margin:0;padding:12px 16px;font-size:16px;line-height:16px;box-shadow:none;text-shadow:none;border:0;top:auto;height:auto;font-family:\"Roboto Flex\",sans-serif"
+    },
+    {
+      "source": "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "selector": ".marketing_initiative_v2 .top_finds_container .top_finds_header h3",
+      "declarations": "display:flex;align-items:center;font-weight:400;margin:0 0 0 30px;font-family:\"Roboto Flex\",sans-serif;font-size:16px;line-height:18px;text-transform:none;color:#e8e8e8"
+    },
+    {
+      "source": "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "selector": ".marketing_initiative_v2 .top_finds_container .top_finds_buttons a",
+      "declarations": "display:flex;padding:12px 16px;justify-content:center;align-items:center;margin:6px 8px;font-size:16px;font-weight:700;line-height:20px;color:var(--brand-xt-primary-700,#4c5f1b);background:#fff;border-radius:4px;height:40px;white-space:nowrap;text-decoration:none"
+    },
+    {
+      "source": "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "selector": ".catalog_request:hover button.main_btn,.catalog_request:focus button.main_btn,.catalog_request:hover a.main_btn,.catalog_request:focus a.main_btn",
+      "declarations": "color:#fff;top:-2px;height:52px;margin-bottom:-2px;cursor:pointer;border-bottom:6px solid rgba(0,0,0,.45);background-color:#e83d00;box-shadow:0 3px 7px rgba(0,0,0,.35)"
+    },
+    {
+      "source": "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "selector": ".catalog_request:hover button.alt_btn,.catalog_request:focus button.alt_btn,.catalog_request:hover a.alt_btn,.catalog_request:focus a.alt_btn",
+      "declarations": "color:#54461b;top:-2px;height:52px;margin-bottom:-2px;cursor:pointer;border-bottom:6px solid rgba(84,70,27,.75);background-color:#ffce3e;box-shadow:0 3px 7px rgba(0,0,0,.35)"
+    },
+    {
+      "source": "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "selector": ".catalog_request:hover button.white_btn,.catalog_request:focus button.white_btn,.catalog_request:hover a.white_btn,.catalog_request:focus a.white_btn",
+      "declarations": "color:#58595b;background-color:#fff"
+    },
+    {
+      "source": "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "selector": ".catalog_request:hover button.black_btn,.catalog_request:focus button.black_btn,.catalog_request:hover a.black_btn,.catalog_request:focus a.black_btn",
+      "declarations": "color:#fff;background-color:#000"
+    },
+    {
+      "source": "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "selector": ".content_product_grid.igo h2 a",
+      "declarations": "position:absolute;top:15px;right:10px;font-size:18px;font-family:\"Roboto Flex\",sans-serif;color:#d84510;border:1px solid #a7a9ac;letter-spacing:0;line-height:38px;padding:0 30px"
+    },
+    {
+      "source": "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "selector": ".cookie_banner_container .cookie_banner .button_container button",
+      "declarations": "background-color:#000;height:45px;padding:5px 20px 0 20px"
+    },
+    {
+      "source": "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "selector": ".cookie_banner_container .cookie_banner .button_container button span",
+      "declarations": "letter-spacing:.1em;font-weight:700;font-size:medium;color:#fff"
+    },
+    {
+      "source": "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "selector": ".custom_slider_container .details .header .title",
+      "declarations": "font-family:\"Roboto Flex\",sans-serif;text-transform:none;font-size:20px;line-height:24px;margin:0;font-weight:700"
+    },
+    {
+      "source": "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "selector": ".custom_slider_container .details .header a",
+      "declarations": "color:#738537;display:block"
+    },
+    {
+      "source": "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "selector": ".additional_products .list_container .product_container .open_box_only_container .green_text",
+      "declarations": "color:#738537;font-weight:700;font-size:14px;margin:0"
+    },
+    {
+      "source": "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "selector": ".col_2 .two_three_day,.additional_products[data-display-type=\"pdp\"] .list_container ul li.col_2 .two_three_day,.additional_products[data-display-type=\"cart\"] .l",
+      "declarations": "color:#487c07;font-weight:700;font-size:14px;line-height:18px;position:relative;margin:10px 0 0 0"
+    },
+    {
+      "source": "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "selector": ".additional_products[data-display-type=\"Carousel\"] nav .prev_btn_container:before,.additional_products[data-display-type=\"pdp\"] nav .prev_btn_container:before",
+      "declarations": "position:absolute;z-index:-1;top:-20px;left:0;width:100%;height:20px;content:\"\";background-color:#fff"
+    },
+    {
+      "source": "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "selector": ".additional_products[data-display-type=\"Carousel\"] nav .next_btn_container:before,.additional_products[data-display-type=\"pdp\"] nav .next_btn_container:before",
+      "declarations": "position:absolute;z-index:-1;top:-20px;left:0;width:100%;height:20px;content:\"\";background-color:#fff"
+    },
+    {
+      "source": "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "selector": ".additional_products[data-display-type=\"Carousel\"] .list_container ul li .product,.additional_products[data-display-type=\"pdp\"] .list_container ul li .product",
+      "declarations": "overflow:hidden;color:var(--color-text-text-body,#212121);font-size:14px;line-height:1.2;font-style:normal;font-weight:400;text-decoration:none"
+    },
+    {
+      "source": "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+      "selector": ".additional_products[data-display-type=\"Carousel\"] .list_container ul li .product:hover,.additional_products[data-display-type=\"pdp\"] .list_container ul li .pro",
+      "declarations": "color:var(--brand-xt-primary-500-base,#738537)"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "4x4 Off-Road Parts & Accessories | ExtremeTerrain",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+        "https://www.extremeterrain.com/bundles/custompagesless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "colors.brand-deep": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+        "https://www.extremeterrain.com/bundles/custompagesless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "colors.accent-caution": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "colors.accent-alert": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+        "https://www.extremeterrain.com/bundles/custompagesless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+        "https://www.extremeterrain.com/bundles/custompagesless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+        "https://www.extremeterrain.com/bundles/custompagesless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+        "https://www.extremeterrain.com/bundles/custompagesless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+        "https://www.extremeterrain.com/bundles/custompagesless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.extremeterrain.com/bundles/globalless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc",
+        "https://www.extremeterrain.com/bundles/custompagesless.css?v=d5e3069ce455a05f3826688e9874c1ea515b95bc"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.price-lg": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.fitment-selector": {
+      "status": "inferred"
+    }
+  }
+}

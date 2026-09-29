@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Kamaka Hawaii
-description: A warm, sandalwood-scented brand built on a century of ukulele craft, anchored by the deep, sun-baked gold of #cbab63 — the color of aged koa wood and the brand’s primary voltage across headers, accents, and the signature Kamaka label. The palette draws from the Hawaiian landscape: #7c3f09 (rich earth), #6c2136 (volcanic wine), and #2f2f2f (lava rock) create a grounded, artisanal feel against a crisp white canvas. Typography runs Oswald for display — a condensed, confident sans-serif that nods to mid-century signage — paired with Work Sans for body, giving the site a clean, editorial rhythm. Product pages use generous whitespace and full-bleed hero imagery, with koa wood grain textures as visual anchors. Buttons are softly rounded (`{rounded.sm}`) and pill-shaped search bars (`{rounded.full}`) echo the curves of the instrument. The footer is a dense, information-rich grid of links and brand storytelling, with the Kamaka logo centered as a mark of provenance. The overall mood is one of quiet authority — not luxury, but the earned confidence of a family business that has shaped an instrument’s history for over 100 years.
+name: "Kamaka Hawaii"
+source_url: "https://www.kamakahawaii.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A warm, sandalwood-scented brand built on a century of ukulele craft, anchored by the deep, sun-baked gold of #cbab63 — the color of aged koa wood and the brand’s primary voltage across headers, accents, and the signature Kamaka label. The palette draws from the Hawaiian landscape: #7c3f09 (rich earth), #6c2136 (volcanic wine), and #2f2f2f (lava rock) create a grounded, artisanal feel against a crisp white canvas. Typography runs Oswald for display — a condensed, confident sans-serif that nods to mid-century signage — paired with Work Sans for body, giving the site a clean, editorial rhythm. Product pages use generous whitespace and full-bleed hero imagery, with koa wood grain textures as visual anchors. Buttons are softly rounded (`{rounded.sm}`) and pill-shaped search bars (`{rounded.full}`) echo the curves of the instrument. The footer is a dense, information-rich grid of links and brand storytelling, with the Kamaka logo centered as a mark of provenance. The overall mood is one of quiet authority — not luxury, but the earned confidence of a family business that has shaped an instrument’s history for over 100 years.
 
 colors:
   primary: "#cbab63"
@@ -390,6 +394,8 @@ components:
 - Accordion content is collapsed by default on all viewports.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for buttons and links were inferred from common patterns; exact transition durations and easing curves not extracted.
 - Error styling for forms (colors, icons, messages) not observed on live site; `{colors.accent-wine}` used as a reasonable error color.

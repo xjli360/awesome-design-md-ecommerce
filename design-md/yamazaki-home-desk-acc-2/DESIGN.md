@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Yamazaki Home
-description: |
+name: "Yamazaki Home"
+source_url: "https://theyamazakihome.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The wire grid of a Yamazaki steel organizer becomes a design grammar for the whole site — thin strokes, orthogonal construction, surfaces that make no claim beyond their function. The palette runs almost entirely on a single gray axis from near-black #121212 through charcoal #4d4e55 and #75767e to soft-white #f5f5f5, with no decorative color until a single precision strike of #16c793 lands on every primary CTA, in-stock signal, and new-arrival badge. That green reads less like a brand color and more like a system status indicator — closer to a terminal confirmation than a lifestyle flourish — which suits a company that frames domestic storage as honest engineering rather than aspirational decor.
 
   Type makes the one editorial gesture: LibreBaskerville, a confident slab serif, governs display and editorial headings at 700 weight in deliberate contrast to Bio Sans running all UI copy, navigation, and button labels. The serif implies a domestic intelligence — the brand trusts its product logic enough to let a traditional face speak at scale without softening it. Bio Sans holds at 14–16px with weight 500–600, compact and never competing with product photography. Corners are uniformly sharp: {rounded.none} dominates buttons, inputs, and cards; {rounded.xs} appears only on status badges where the 4px radius distinguishes overlay from substrate.
@@ -335,6 +338,8 @@ components:
 - Hero: single-column stack with image below text; CTA remains above the fold at standard mobile viewport
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - `primary-active` (#0fa878) is derived by darkening the extracted #16c793 by approximately 15%; no interactive-state snapshot was available to confirm the live hover color
 - "Brutal" appears in the font stack but its role is unconfirmed — it may be a display-weight variant loaded only for specific editorial modules or an unused theme remnant

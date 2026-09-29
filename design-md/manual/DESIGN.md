@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Manual
-description: A deep teal canvas, #0b3b3c, wraps Manual's healthcare storefront in the calm authority of a doctor's study — not the sterile white of a clinic. This single color choice, carried from the meta theme-color through every nav bar, footer, and section background, signals that men's health here is serious, private, and handled without embarrassment. Against that dark backdrop, a warm coral accent (#db5d4b) ignites every primary CTA, badge, and progress indicator, creating a voltage that says "start here." The brand's typography splits personality: Bressay, a serif with editorial weight, appears in display roles (headlines, hero text) to borrow the credibility of a legacy men's magazine, while BasisGrotesquePro handles body copy, buttons, and labels with a clean, no-nonsense sans-serif utility. Buttons use a compact {rounded.sm} radius — friendly but not pill-soft — and sit at 48px height for confident tap targets. The product-card system layers a white surface ({colors.surface-card}) over the teal canvas, with a soft hairline (#cad7d1) that defines edges without shouting. Illustrations and iconography lean toward flat, approachable line art in #6d8a83 (a muted sage), avoiding the cartoonish or the clinical. The overall feel is that of a members' club for health: dark, warm, trustworthy, with the coral acting as the concierge who points you where to go.
+name: "Manual"
+source_url: "https://manual.co"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep teal canvas, #0b3b3c, wraps Manual's healthcare storefront in the calm authority of a doctor's study — not the sterile white of a clinic. This single color choice, carried from the meta theme-color through every nav bar, footer, and section background, signals that men's health here is serious, private, and handled without embarrassment. Against that dark backdrop, a warm coral accent (#db5d4b) ignites every primary CTA, badge, and progress indicator, creating a voltage that says "start here." The brand's typography splits personality: Bressay, a serif with editorial weight, appears in display roles (headlines, hero text) to borrow the credibility of a legacy men's magazine, while BasisGrotesquePro handles body copy, buttons, and labels with a clean, no-nonsense sans-serif utility. Buttons use a compact {rounded.sm} radius — friendly but not pill-soft — and sit at 48px height for confident tap targets. The product-card system layers a white surface ({colors.surface-card}) over the teal canvas, with a soft hairline (#cad7d1) that defines edges without shouting. Illustrations and iconography lean toward flat, approachable line art in #6d8a83 (a muted sage), avoiding the cartoonish or the clinical. The overall feel is that of a members' club for health: dark, warm, trustworthy, with the coral acting as the concierge who points you where to go.
 
 colors:
   primary: "#db5d4b"
@@ -435,6 +439,8 @@ components:
 - Hero sections reduce image height on mobile, prioritizing text and CTA above the fold
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for most components are inferred from common patterns; exact transition durations and easing curves not extracted
 - Error state styling for text inputs (red border) is assumed from the badge-error color; actual error message typography and placement not confirmed

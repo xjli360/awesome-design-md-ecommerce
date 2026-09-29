@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Funko
-description: A pop-culture collectible empire built on a black-and-white stage where color is a controlled explosion — every primary CTA, badge, and product variant reads against a canvas of #111111 and #f3f3f7, with #008827 as the single high-voltage green that signals "add to cart" and #fed555 as the exclusive gold for limited-edition drops. The brand's typographic voice is a collision of Dimbo-Regular (a chunky, hand-drawn slab that screams "convention-exclusive sticker") and ProximaNova-Black for headers, creating a system where the toy aisle meets the comic-con floor. Product cards use a crisp {rounded.sm} 8px corner on a white surface, with the Pop! vinyl silhouette acting as the universal icon — no photography needed, just the black-eyed, oversized-head form language that Funko owns. Navigation is a dense, stacked affair: a utility bar of black (#111111) with white links, then a mega-menu of categories (Pop!, Games, Loungefly, etc.) in ProximaNova-Bold at 14px, then a search bar with a #008827 "Search" button. The footer is a dark, information-heavy grid with #2d2d2d backgrounds and #bfbfbf links, punctuated by social icons in their brand colors. The overall feel is maximalist but orderly — every inch of screen real estate is a potential product discovery surface, with the brand's own #c92a1d red used sparingly for sale badges and #0070cc blue for exclusive tags. This is not a quiet brand; it's a collector's wall of vinyl boxes, each one screaming for attention within a disciplined grid.
+name: "Funko"
+source_url: "https://funko.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A pop-culture collectible empire built on a black-and-white stage where color is a controlled explosion — every primary CTA, badge, and product variant reads against a canvas of #111111 and #f3f3f7, with #008827 as the single high-voltage green that signals "add to cart" and #fed555 as the exclusive gold for limited-edition drops. The brand's typographic voice is a collision of Dimbo-Regular (a chunky, hand-drawn slab that screams "convention-exclusive sticker") and ProximaNova-Black for headers, creating a system where the toy aisle meets the comic-con floor. Product cards use a crisp {rounded.sm} 8px corner on a white surface, with the Pop! vinyl silhouette acting as the universal icon — no photography needed, just the black-eyed, oversized-head form language that Funko owns. Navigation is a dense, stacked affair: a utility bar of black (#111111) with white links, then a mega-menu of categories (Pop!, Games, Loungefly, etc.) in ProximaNova-Bold at 14px, then a search bar with a #008827 "Search" button. The footer is a dark, information-heavy grid with #2d2d2d backgrounds and #bfbfbf links, punctuated by social icons in their brand colors. The overall feel is maximalist but orderly — every inch of screen real estate is a potential product discovery surface, with the brand's own #c92a1d red used sparingly for sale badges and #0070cc blue for exclusive tags. This is not a quiet brand; it's a collector's wall of vinyl boxes, each one screaming for attention within a disciplined grid.
 
 colors:
   primary: "#008827"
@@ -584,6 +588,8 @@ components:
 - Hero banner text and CTA stack vertically on mobile instead of side-by-side on desktop
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for all components are inferred from common patterns; exact transition durations and easing curves not extracted
 - Focus-visible styles (keyboard navigation outlines) not observed in extracted data

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Mud Australia
-description: Mud Australia is a celebration of handmade Australian porcelain, where the raw beauty of clay meets a restrained, earthy palette. The brand's soul lives in the quiet tension between the deep, almost charcoal ink of `#101820` and the warm, sun-bleached canvas of `#f8f6f1`. This is not a cold, minimalist white; it's a tactile, organic experience. Signature design moves include the use of a single, muted accent—a soft blush `#e7b5aa` or a muted sage `#243127`—that appears like a natural patina on a piece of pottery. The typography, set in the clean, humanist `NeueHaasUnicaPro-Light`, feels light and airy, never heavy, allowing the form and texture of the porcelain to take center stage. The overall mood is one of serene, grounded sophistication. It feels like a curated collection of heirlooms, where each piece has a story told through its subtle variations in glaze and form. The palette of `#e4e0d9`, `#e7e7e7`, and `#f2f5f5` creates a soft, diffused light, while touches of `#63666a` and `#b4b4b4` ground the design with a sense of quiet permanence. This is a brand that trusts the material, the maker's hand, and the power of negative space.
+name: "Mud Australia"
+source_url: "https://mudaustralia.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Mud Australia is a celebration of handmade Australian porcelain, where the raw beauty of clay meets a restrained, earthy palette. The brand's soul lives in the quiet tension between the deep, almost charcoal ink of `#101820` and the warm, sun-bleached canvas of `#f8f6f1`. This is not a cold, minimalist white; it's a tactile, organic experience. Signature design moves include the use of a single, muted accent—a soft blush `#e7b5aa` or a muted sage `#243127`—that appears like a natural patina on a piece of pottery. The typography, set in the clean, humanist `NeueHaasUnicaPro-Light`, feels light and airy, never heavy, allowing the form and texture of the porcelain to take center stage. The overall mood is one of serene, grounded sophistication. It feels like a curated collection of heirlooms, where each piece has a story told through its subtle variations in glaze and form. The palette of `#e4e0d9`, `#e7e7e7`, and `#f2f5f5` creates a soft, diffused light, while touches of `#63666a` and `#b4b4b4` ground the design with a sense of quiet permanence. This is a brand that trusts the material, the maker's hand, and the power of negative space.
 
 colors:
   primary: "#101820"
@@ -389,6 +393,8 @@ components:
 - The hero section's text and image stack vertically.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for all components (only primary/secondary buttons and product cards have defined hover styles).
 - Error styling for forms (only the text-input error border is defined; missing error messages, icons, and overall error state for select/dropdown).

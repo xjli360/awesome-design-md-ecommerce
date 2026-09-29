@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: VR Cover
-description: A deep blue (#0045a6) and signal red (#bd2426) tension drives VR Cover's interface — not a playful consumer palette but a precision-hardware storefront that happens to sell foam facials and lens protectors. The extracted palette is dominated by blues (#0051c3, #2f7bbf, #003681) that read as industrial reliability, punctuated by a safety-orange (#f68b1f) and a lime-green (#9bca3e) that likely flag compatibility badges or size indicators. The gray scale runs from near-black (#313131) through mid-gray (#404040) to a warm silver (#dedede), suggesting a system that trusts high-contrast readability over atmospheric tint. No rounded-full pills or bubbly cards here — corners are likely crisp at `{rounded.sm}` for buttons and `{rounded.md}` for product cards, with the only softness coming from the foam-product photography itself. The font stack falls back through system sans-serifs (Roboto, Helvetica Neue, Arial) with no brand-specific typeface declared, which either means the site uses a web font loaded dynamically (and missed by extraction) or the brand deliberately avoids typographic personality in favor of utility. Given the VR-hardware category, expect dense spec tables, compatibility matrices, and add-to-cart flows that prioritize information density over editorial whitespace. The red (#bd2426) likely serves as the primary CTA voltage — "Buy Now" or "Add to Cart" — while the deep blue (#0045a6) anchors the header, footer, and secondary actions.
+name: "VR Cover"
+source_url: "https://vr-cover.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep blue (#0045a6) and signal red (#bd2426) tension drives VR Cover's interface — not a playful consumer palette but a precision-hardware storefront that happens to sell foam facials and lens protectors. The extracted palette is dominated by blues (#0051c3, #2f7bbf, #003681) that read as industrial reliability, punctuated by a safety-orange (#f68b1f) and a lime-green (#9bca3e) that likely flag compatibility badges or size indicators. The gray scale runs from near-black (#313131) through mid-gray (#404040) to a warm silver (#dedede), suggesting a system that trusts high-contrast readability over atmospheric tint. No rounded-full pills or bubbly cards here — corners are likely crisp at `{rounded.sm}` for buttons and `{rounded.md}` for product cards, with the only softness coming from the foam-product photography itself. The font stack falls back through system sans-serifs (Roboto, Helvetica Neue, Arial) with no brand-specific typeface declared, which either means the site uses a web font loaded dynamically (and missed by extraction) or the brand deliberately avoids typographic personality in favor of utility. Given the VR-hardware category, expect dense spec tables, compatibility matrices, and add-to-cart flows that prioritize information density over editorial whitespace. The red (#bd2426) likely serves as the primary CTA voltage — "Buy Now" or "Add to Cart" — while the deep blue (#0045a6) anchors the header, footer, and secondary actions.
 
 colors:
   primary: "#0045a6"
@@ -343,6 +347,8 @@ Three badge variants share `{typography.badge}` (11px/700 weight, uppercase, 0.5
 - Search bar may collapse to an icon-only trigger on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No brand-specific web font could be extracted; the site may use a dynamically loaded font (Google Fonts, Typekit) that wasn't captured. The system font stack is documented as fallback.
 - Hover and focus states for most components are inferred from common patterns; actual extracted hover colors are unavailable.

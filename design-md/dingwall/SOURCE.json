@@ -1,0 +1,817 @@
+{
+  "source_url": "https://www.dingwallguitars.com",
+  "final_url": "https://dingwallguitars.com/",
+  "captured_at": "2026-09-28T10:09:59.120044+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://www.dingwallguitars.com",
+      "final_url": "https://dingwallguitars.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "61873a31e9361f3317c36e46360611a7773c377b618c23328e80341ac06b09e7",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://dingwallguitars.com/wp-content/themes/rs-custom/css/normalize.css",
+      "final_url": "https://dingwallguitars.com/wp-content/themes/rs-custom/css/normalize.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "0d336a97efd52a4ef44ef3270e71eac24ba405d4450016f9d3e943256e9e58c8",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css",
+      "final_url": "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "f24a403b99d9e0b350d741f0ffcd60f9b1cf29eeef5ea814075cb2b5c3f2a7f5",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://dingwallguitars.com/wp-content/themes/rs-custom/css/dingwall.webflow-h.css",
+      "final_url": "https://dingwallguitars.com/wp-content/themes/rs-custom/css/dingwall.webflow-h.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "e55c2390545d2bba639e73d99c908e9868cea53527728350fc8654733fbb8ba2",
+      "snapshot": "stylesheet-3.css"
+    },
+    {
+      "url": "https://dingwallguitars.com/wp-content/themes/rs-custom/css/base.css",
+      "final_url": "https://dingwallguitars.com/wp-content/themes/rs-custom/css/base.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "320b70ca0e373e954cf5cb57ef6940929b2321bc44a91f2cfc522a213e0f4502",
+      "snapshot": "stylesheet-4.css"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.css",
+      "final_url": "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=utf-8",
+      "sha256": "dfd8ca6ec6ffb72eecefee16cdbb442d2e2fabdb9d27e3038c64c3e66b711d9d",
+      "snapshot": "stylesheet-5.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 61,
+      "sources": [
+        "https://dingwallguitars.com/",
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css",
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/dingwall.webflow-h.css",
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.css"
+      ]
+    },
+    "#191919": {
+      "count": 19,
+      "sources": [
+        "https://dingwallguitars.com/",
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/dingwall.webflow-h.css"
+      ]
+    },
+    "#ececec": {
+      "count": 14,
+      "sources": [
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/dingwall.webflow-h.css"
+      ]
+    },
+    "#000000": {
+      "count": 13,
+      "sources": [
+        "https://dingwallguitars.com/",
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/normalize.css",
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css",
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/dingwall.webflow-h.css",
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/base.css"
+      ]
+    },
+    "#d1a547": {
+      "count": 12,
+      "sources": [
+        "https://dingwallguitars.com/",
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/dingwall.webflow-h.css"
+      ]
+    },
+    "#f7f7f7": {
+      "count": 11,
+      "sources": [
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/dingwall.webflow-h.css",
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/base.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 6,
+      "sources": [
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css"
+      ]
+    },
+    "#222222": {
+      "count": 6,
+      "sources": [
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 5,
+      "sources": [
+        "https://dingwallguitars.com/",
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css"
+      ]
+    },
+    "#999999": {
+      "count": 5,
+      "sources": [
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css"
+      ]
+    },
+    "#333333": {
+      "count": 4,
+      "sources": [
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css"
+      ]
+    },
+    "#32373c": {
+      "count": 3,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#ff6900": {
+      "count": 3,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#eeeeee": {
+      "count": 3,
+      "sources": [
+        "https://dingwallguitars.com/",
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css",
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.css"
+      ]
+    },
+    "#fafafa": {
+      "count": 3,
+      "sources": [
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css"
+      ]
+    },
+    "#c8c8c8": {
+      "count": 3,
+      "sources": [
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css"
+      ]
+    },
+    "#cf2e2e": {
+      "count": 2,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#fcb900": {
+      "count": 2,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#0693e3": {
+      "count": 2,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#9b51e0": {
+      "count": 2,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#0f0f0f": {
+      "count": 2,
+      "sources": [
+        "https://dingwallguitars.com/",
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/dingwall.webflow-h.css"
+      ]
+    },
+    "#3898ec": {
+      "count": 2,
+      "sources": [
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css"
+      ]
+    },
+    "#5d6c7b": {
+      "count": 2,
+      "sources": [
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css"
+      ]
+    },
+    "#0082f3": {
+      "count": 2,
+      "sources": [
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css"
+      ]
+    },
+    "#2895f7": {
+      "count": 2,
+      "sources": [
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css"
+      ]
+    },
+    "#abb8c3": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#f78da7": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#7bdcb5": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#00d084": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#8ed1fc": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#efefef": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#444444": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#7adcb4": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#00d082": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#a9b8c3": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#4aeadc": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#9778d1": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#cf2aba": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#ee2c82": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#fb6962": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#fef84c": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#ffceec": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#9896f0": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#fecda5": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#fe2d2d": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#6b003e": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#ffcb70": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#c751c0": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#4158d0": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#fff5cb": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#b6e3d4": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#33a7b5": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#caf880": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#71ce7e": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#020381": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#2874fc": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "#ffff00": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/normalize.css"
+      ]
+    },
+    "#c0c0c0": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/normalize.css"
+      ]
+    },
+    "#aaadb0": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css"
+      ]
+    },
+    "#e2e2e2": {
+      "count": 1,
+      "sources": [
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Arial": [
+      "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css",
+      "https://dingwallguitars.com/wp-content/themes/rs-custom/css/dingwall.webflow-h.css"
+    ],
+    "Azeret Mono": [
+      "https://dingwallguitars.com/"
+    ],
+    "Didact Gothic": [
+      "https://dingwallguitars.com/"
+    ],
+    "Fa 400": [
+      "https://dingwallguitars.com/wp-content/themes/rs-custom/css/dingwall.webflow-h.css"
+    ],
+    "Fa brands 400": [
+      "https://dingwallguitars.com/wp-content/themes/rs-custom/css/dingwall.webflow-h.css"
+    ],
+    "Fa solid 900": [
+      "https://dingwallguitars.com/wp-content/themes/rs-custom/css/dingwall.webflow-h.css"
+    ],
+    "Font Awesome 5 Brands": [
+      "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.css"
+    ],
+    "Font Awesome 5 Free": [
+      "https://dingwallguitars.com/wp-content/themes/rs-custom/css/base.css",
+      "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.css"
+    ],
+    "Helvetica": [
+      "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css",
+      "https://dingwallguitars.com/wp-content/themes/rs-custom/css/dingwall.webflow-h.css"
+    ],
+    "Helvetica Neue": [
+      "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css",
+      "https://dingwallguitars.com/wp-content/themes/rs-custom/css/dingwall.webflow-h.css"
+    ],
+    "Lato": [
+      "https://dingwallguitars.com/wp-content/themes/rs-custom/css/dingwall.webflow-h.css"
+    ],
+    "Segoe UI": [
+      "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css"
+    ],
+    "Ubuntu": [
+      "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css"
+    ],
+    "Verdana": [
+      "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css"
+    ],
+    "century-gothic": [
+      "https://dingwallguitars.com/wp-content/themes/rs-custom/css/dingwall.webflow-h.css"
+    ],
+    "dashicons": [
+      "https://dingwallguitars.com/"
+    ],
+    "eurostile-extended": [
+      "https://dingwallguitars.com/wp-content/themes/rs-custom/css/dingwall.webflow-h.css"
+    ],
+    "monospace": [
+      "https://dingwallguitars.com/wp-content/themes/rs-custom/css/normalize.css"
+    ],
+    "sans-serif": [
+      "https://dingwallguitars.com/wp-content/themes/rs-custom/css/normalize.css",
+      "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css",
+      "https://dingwallguitars.com/wp-content/themes/rs-custom/css/dingwall.webflow-h.css"
+    ],
+    "serif": [
+      "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css"
+    ],
+    "webflow-icons": [
+      "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css"
+    ],
+    "webflow-icons' !important": [
+      "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://dingwallguitars.com/",
+      "selector": ".wp-block-button__link",
+      "declarations": "color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em"
+    },
+    {
+      "source": "https://dingwallguitars.com/",
+      "selector": ".wp-block-file__button",
+      "declarations": "background:#32373c;color:#fff;text-decoration:none"
+    },
+    {
+      "source": "https://dingwallguitars.com/",
+      "selector": ".wp-block-button",
+      "declarations": "--wp--preset--dimension--25: 25%;--wp--preset--dimension--50: 50%;--wp--preset--dimension--75: 75%;--wp--preset--dimension--100: 100%;"
+    },
+    {
+      "source": "https://dingwallguitars.com/",
+      "selector": ":root :where(.wp-element-button, .wp-block-button__link)",
+      "declarations": "background-color: #32373c;border-width: 0;color: #fff;font-family: inherit;font-size: inherit;font-style: inherit;font-weight: inherit;letter-spacing: inherit;line-height: inherit;padding-top: calc(0.667em + 2px);padding-right: calc(1.333em + 2px);padding-bottom: calc(0.667em + 2px);padding-left: calc(1.333em + 2px);text-decoration: none;text-transform: inherit;"
+    },
+    {
+      "source": "https://dingwallguitars.com/",
+      "selector": "body.elementor-editor-active .zoooom::before",
+      "declarations": "content: \"\\f179     Zoom applied to the image. Check on the frontend\"; position: absolute; margin-top: 12px; text-align: right; background-color: white; line-height: 1.4em; left: 5%; padding: 0 10px 6px; font-family: dashicons; font-size: 0.9em; font-style: italic; z-index: 20;"
+    },
+    {
+      "source": "https://dingwallguitars.com/",
+      "selector": ".warranty-registration .blog_content #gform_submit_button_5",
+      "declarations": "width: auto;\n\tfont-size: 15px !important;\n\theight: auto;\n\tline-height: normal;\n\ttext-align: center;\n\tbackground: rgba(25,25,25,1);\n\tborder-width: 1px;\n\tborder-color: rgba(25,25,25,1);\n\tborder-style: solid;\n\tcolor: #ffffff;\n\tcursor: pointer;\n\tfont-weight: normal;\n\tborder-radius: 50px;\n\ttext-shadow: none;\n\tpadding: 10px 20px;"
+    },
+    {
+      "source": "https://dingwallguitars.com/",
+      "selector": ".warranty-registration .blog_content #gform_submit_button_5:is(:hover, :focus)",
+      "declarations": "background: #efefef;\n  border-color: #cccccc;\n  color: #444444;\n\tbox-shadow: none;"
+    },
+    {
+      "source": "https://dingwallguitars.com/wp-content/themes/rs-custom/css/normalize.css",
+      "selector": "button,\ninput,\noptgroup,\nselect,\ntextarea",
+      "declarations": "color: inherit;\n  \n  font: inherit;\n  \n  margin: 0;"
+    },
+    {
+      "source": "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css",
+      "selector": "body",
+      "declarations": "margin: 0;\n  min-height: 100%;\n  background-color: #fff;\n  font-family: Arial, sans-serif;\n  font-size: 14px;\n  line-height: 20px;\n  color: #333;"
+    },
+    {
+      "source": "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css",
+      "selector": ".w-button",
+      "declarations": "display: inline-block;\n  padding: 9px 15px;\n  background-color: #3898EC;\n  color: white;\n  border: 0;\n  line-height: inherit;\n  text-decoration: none;\n  cursor: pointer;\n  border-radius: 0;"
+    },
+    {
+      "source": "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css",
+      "selector": ".w-nav-button",
+      "declarations": "position: relative;\n  float: right;\n  padding: 18px;\n  font-size: 24px;\n  display: none;\n  cursor: pointer;\n  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);\n  tap-highlight-color: rgba(0, 0, 0, 0);\n  -webkit-user-select: none;\n  -moz-user-select: none;\n  -ms-user-select: none;\n  user-select: none;"
+    },
+    {
+      "source": "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css",
+      "selector": ".w-nav-button.w--open",
+      "declarations": "background-color: #C8C8C8;\n  color: white;"
+    },
+    {
+      "source": "https://dingwallguitars.com/wp-content/themes/rs-custom/css/dingwall.webflow-h.css",
+      "selector": "body",
+      "declarations": "font-family: century-gothic, sans-serif;\n  color: #191919;\n  font-size: 16px;\n  line-height: 1.6;\n  letter-spacing: 0.1px;"
+    },
+    {
+      "source": "https://dingwallguitars.com/wp-content/themes/rs-custom/css/dingwall.webflow-h.css",
+      "selector": "h1",
+      "declarations": "margin-top: 0px;\n  margin-bottom: 0px;\n  font-family: eurostile-extended, sans-serif;\n  font-size: 38px;\n  line-height: 1.2;\n  font-weight: 900;"
+    },
+    {
+      "source": "https://dingwallguitars.com/wp-content/themes/rs-custom/css/dingwall.webflow-h.css",
+      "selector": ".product_header",
+      "declarations": "background-color: #f7f7f7;"
+    },
+    {
+      "source": "https://dingwallguitars.com/wp-content/themes/rs-custom/css/dingwall.webflow-h.css",
+      "selector": ".accordion-body__contents",
+      "declarations": "margin-top: 8px;\n  opacity: 1;\n  font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;\n  color: #9096a4;\n  font-size: 14px;\n  line-height: 26px;\n  font-weight: 300;"
+    },
+    {
+      "source": "https://dingwallguitars.com/wp-content/themes/rs-custom/css/dingwall.webflow-h.css",
+      "selector": ".accordion-header",
+      "declarations": "display: -webkit-box;\n  display: -webkit-flex;\n  display: -ms-flexbox;\n  display: flex;\n  padding: 20px;\n  -webkit-box-align: center;\n  -webkit-align-items: center;\n  -ms-flex-align: center;\n  align-items: center;\n  color: #2e323c;"
+    },
+    {
+      "source": "https://dingwallguitars.com/wp-content/themes/rs-custom/css/dingwall.webflow-h.css",
+      "selector": ".faq-button",
+      "declarations": "margin-top: 20px;\n  padding-top: 12px;\n  padding-bottom: 12px;\n  border-radius: 3px;\n  background-color: #ffb223;\n  -webkit-transition: background-color 200ms ease;\n  transition: background-color 200ms ease;\n  font-family: Lato, sans-serif;\n  font-weight: 700;"
+    },
+    {
+      "source": "https://dingwallguitars.com/wp-content/themes/rs-custom/css/dingwall.webflow-h.css",
+      "selector": ".faq-button:hover",
+      "declarations": "background-color: #ffd17b;"
+    },
+    {
+      "source": "https://dingwallguitars.com/wp-content/themes/rs-custom/css/dingwall.webflow-h.css",
+      "selector": ".n_heading_product_component",
+      "declarations": "padding: 150px 20px 50px;\n  background-color: #f7f7f7;"
+    },
+    {
+      "source": "https://dingwallguitars.com/wp-content/themes/rs-custom/css/base.css",
+      "selector": ".accordion__item > .accordion-header:after",
+      "declarations": "font-family: \"Font Awesome 5 Free\";\n  font-weight: 900;\n  font-size: 16px;\n  content: \"\\f077\";\n  color: #000;\n  float: right;\n  position: relative;\n  display: block;\n  top: 2px;\n  transition: .3s all;\n  transform: rotate(-180deg);\n  opacity: 100;"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Home - Dingwall Dingwall",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dingwallguitars.com/",
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/dingwall.webflow-h.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dingwallguitars.com/",
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/dingwall.webflow-h.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dingwallguitars.com/",
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css",
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/dingwall.webflow-h.css",
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/dingwall.webflow-h.css",
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/base.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/dingwall.webflow-h.css"
+      ]
+    },
+    "colors.surface-muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dingwallguitars.com/",
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css",
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dingwallguitars.com/",
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/webflow.css",
+        "https://dingwallguitars.com/wp-content/themes/rs-custom/css/dingwall.webflow-h.css",
+        "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.css"
+      ]
+    },
+    "colors.ink-alt": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://dingwallguitars.com/"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.spec-table": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    }
+  }
+}

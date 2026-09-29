@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: NIS America Store
-description: A collector's marketplace that wears its fandom on its sleeve through a high-contrast palette anchored on #ffb600 — a marigold yellow that reads as both premium and playful, the kind of accent that makes a limited-edition steelbook or art book feel like a treasure rather than a transaction. The storefront runs on a near-black foundation (#1d1d1d for the top chrome, #121212 for deep backgrounds) with #345caa as a secondary blue that recalls classic RPG UI elements — think menu screens from a 90s JRPG, but rendered in clean DM Sans and Roboto Condensed. Product cards use #dedede borders on #f6f6f6 surfaces with {rounded.sm} corners, while the primary CTA button (#ffb600 on #1d1d1d) carries {rounded.xs} — deliberately less rounded than the {rounded.md} of search inputs, as if to say "this is the action that matters." The cart badge (#d10000) and sale flags (#ffb600 on #282828) introduce urgency without breaking the system's two-color accent discipline. Shopify's platform constraints are visible in the checkout flow (where #005eff appears as a payment-widget blue), but the brand's own territory — pre-order banners, edition counters, and genre tags — stays firmly in the yellow-blue-near-black triangle. The overall feel is a game collector's shelf: dark wood, yellowed spine labels, and the occasional red "sold out" sticker.
+name: "NIS America Store"
+source_url: "https://store.nisamerica.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A collector's marketplace that wears its fandom on its sleeve through a high-contrast palette anchored on #ffb600 — a marigold yellow that reads as both premium and playful, the kind of accent that makes a limited-edition steelbook or art book feel like a treasure rather than a transaction. The storefront runs on a near-black foundation (#1d1d1d for the top chrome, #121212 for deep backgrounds) with #345caa as a secondary blue that recalls classic RPG UI elements — think menu screens from a 90s JRPG, but rendered in clean DM Sans and Roboto Condensed. Product cards use #dedede borders on #f6f6f6 surfaces with {rounded.sm} corners, while the primary CTA button (#ffb600 on #1d1d1d) carries {rounded.xs} — deliberately less rounded than the {rounded.md} of search inputs, as if to say "this is the action that matters." The cart badge (#d10000) and sale flags (#ffb600 on #282828) introduce urgency without breaking the system's two-color accent discipline. Shopify's platform constraints are visible in the checkout flow (where #005eff appears as a payment-widget blue), but the brand's own territory — pre-order banners, edition counters, and genre tags — stays firmly in the yellow-blue-near-black triangle. The overall feel is a game collector's shelf: dark wood, yellowed spine labels, and the occasional red "sold out" sticker.
 
 colors:
   primary: "#ffb600"
@@ -383,6 +387,8 @@ components:
 - Search bar collapses from a visible input on desktop to an icon-triggered overlay on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover states for most components (beyond primary/secondary buttons) could not be reliably extracted from the live site; the system assumes a simple opacity or color shift where not specified.
 - Error states for forms (validation messages, input error borders) are inferred from common Shopify patterns rather than extracted.

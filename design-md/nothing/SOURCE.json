@@ -1,0 +1,602 @@
+{
+  "source_url": "https://nothing.tech",
+  "final_url": "https://nothing.tech/",
+  "captured_at": "2026-09-28T09:07:53.103012+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://nothing.tech",
+      "final_url": "https://nothing.tech/",
+      "http_status": 200,
+      "content_type": "text/html",
+      "sha256": "e22757401c0a568ce94c58a3e196617140c463c96bdeb7b38f3b8695a43eaf00",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css",
+      "final_url": "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "3ecd7ad7aae93d63bbbbcfd9292823cefb183ed76df1f4847fe3cdf08ab3c3aa",
+      "snapshot": "stylesheet-1.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Ch7VuJCF.css",
+      "final_url": "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Ch7VuJCF.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "42eb5becc61f601f251e8e7d0460db67e5220754f5da77f5cafaa3ac70dd8ba6",
+      "snapshot": "stylesheet-2.css"
+    },
+    {
+      "url": "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/fOJvfYOR.css",
+      "final_url": "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/fOJvfYOR.css",
+      "http_status": 200,
+      "content_type": "text/css",
+      "sha256": "7156473bac2d1c3c3900b28d2d3bb052ca2d7291fec03288970a8d57405ab5a9",
+      "snapshot": "stylesheet-3.css"
+    }
+  ],
+  "colors": {
+    "#00000000": {
+      "count": 28,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css",
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Ch7VuJCF.css"
+      ]
+    },
+    "#000000": {
+      "count": 14,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css",
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Ch7VuJCF.css"
+      ]
+    },
+    "#ffffff": {
+      "count": 6,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css",
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Ch7VuJCF.css"
+      ]
+    },
+    "#b1b3b3": {
+      "count": 5,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "#0000004d": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css",
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Ch7VuJCF.css"
+      ]
+    },
+    "#0000001a": {
+      "count": 4,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "#9ca3af": {
+      "count": 3,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "#f4f4f4": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "#595a5a0d": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "#00000033": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css",
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Ch7VuJCF.css"
+      ]
+    },
+    "#006479": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "#27d4e0": {
+      "count": 2,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "#3b82f680": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "#e5e7eb": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "#002f6c": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "#999999": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "#b3b3b3": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "#c6102e": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "#f5f5f5": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "#ff42ad": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "#ffc700": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "#ffee00": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "#00000099": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "#ffffffe6": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "#ffffff00": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "#0000000d": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "#f4e300": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "#450a0ae6": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "#172554e6": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "#052e16e6": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "#431407e6": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "#083344e6": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "#500724e6": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "#000000cc": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "#ffffff80": {
+      "count": 1,
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Ch7VuJCF.css"
+      ]
+    }
+  },
+  "font_families": {
+    "Apple Color Emoji": [
+      "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+    ],
+    "Consolas": [
+      "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+    ],
+    "Courier New": [
+      "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+    ],
+    "Geist Mono Variable": [
+      "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+    ],
+    "Geist Variable": [
+      "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+    ],
+    "LatteraMonoLL": [
+      "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+    ],
+    "Liberation Mono": [
+      "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+    ],
+    "Menlo": [
+      "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+    ],
+    "Monaco": [
+      "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+    ],
+    "NType82-Headline": [
+      "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+    ],
+    "NType82-Regular": [
+      "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+    ],
+    "Ndot-Bold": [
+      "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+    ],
+    "Ndot-Regular": [
+      "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+    ],
+    "Noto Color Emoji": [
+      "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+    ],
+    "SFMono-Regular": [
+      "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+    ],
+    "Segoe UI Emoji": [
+      "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+    ],
+    "Segoe UI Symbol": [
+      "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+    ],
+    "monospace": [
+      "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+    ],
+    "sans-serif": [
+      "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+    ],
+    "system-ui": [
+      "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+    ],
+    "ui-monospace": [
+      "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+    ],
+    "ui-sans-serif": [
+      "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "font-feature-settings:inherit;font-variation-settings:inherit;font-family:inherit;font-size:100%;font-weight:inherit;line-height:inherit;letter-spacing:inherit;color:inherit;margin:0;padding:0"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css",
+      "selector": "button,input:where([type=button]),input:where([type=reset]),input:where([type=submit])",
+      "declarations": "-webkit-appearance:button;background-color:#0000;background-image:none"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css",
+      "selector": ":root",
+      "declarations": "--accent-red:200 16 46;--accent-yellow:255 199 0;--accent-blue:0 47 108;--greyscale-white:255 255 255;--greyscale-100:244 244 244;--greyscale-200:216 217 217;--greyscale-300:203 204 204;--greyscale-400:190 192 192;--greyscale-default:177 179 179;--greyscale-600:155 157 157;--greyscale-700:133 135 135;--greyscale-800:111 112 112;--greyscale-900:89 90 90;--greyscale-1000:60 60 60;--greyscale-black:4 4 4;--greyscale-dm-light:24 24 24;--greyscale-dm-dark:4 4 4"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css",
+      "selector": ".type-product-name",
+      "declarations": "text-transform:lowercase;font-family:Ndot-Regular,sans-serif;font-size:1.25rem;font-weight:55;line-height:1.25rem"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css",
+      "selector": ".type-product-name-cs",
+      "declarations": "font-family:Ndot-Regular,sans-serif;font-size:1.25rem;font-weight:55;line-height:1.25rem"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css",
+      "selector": ".type-body",
+      "declarations": "font-family:NType82-Regular,sans-serif;font-size:1rem;font-weight:400;line-height:1.4rem"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css",
+      "selector": ".type-body:is(.dark *):not(:is(.light,.light *))",
+      "declarations": "--tw-text-opacity:1;color:rgb(var(--greyscale-white) / var(--tw-text-opacity,1))"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css",
+      "selector": "button.dark\\:bg-pure-white .type-callout:is(.dark *):not(:is(.light,.light *))",
+      "declarations": "--tw-text-opacity:1;color:rgb(var(--greyscale-black) / var(--tw-text-opacity,1))"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css",
+      "selector": "body",
+      "declarations": "--scrollbar-width:0px"
+    },
+    {
+      "source": "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Ch7VuJCF.css",
+      "selector": ":root",
+      "declarations": "--aside-width:400px;--cart-aside-summary-height-with-discount:300px;--cart-aside-summary-height:250px;--grid-item-width:355px;--header-height:64px;--color-dark:#000;--color-light:#fff"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Nothing | UK",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-300",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css",
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Ch7VuJCF.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css",
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Ch7VuJCF.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css",
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Ch7VuJCF.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css",
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Ch7VuJCF.css"
+      ]
+    },
+    "colors.accent-yellow": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "colors.accent-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "colors.accent-cyan": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "colors.accent-pink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "colors.accent-yellow-bright": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "colors.greyscale-default": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn.shopify.com/oxygen-v2/43495/38485/80939/4555695/assets/Bm2DUkCi.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.spec-strip": {
+      "status": "inferred"
+    }
+  }
+}

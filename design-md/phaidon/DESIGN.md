@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Phaidon
-description: A scholarly yet sensual art-book publisher whose identity is built on a near-black ink (#231f20) and a sharp, acidic yellow (#ffc800) — the kind of yellow that reads as a highlighter stroke across a monograph page, not a friendly accent. The brand trusts its typography above all else: Akzidenz Grotesk Next in its condensed and extended cuts runs across the entire surface, from 12px captions that sit tight against plate edges to 48px display heads that stretch across full-bleed spreads. The yellow appears sparingly — a single CTA button, a price badge, a category tag — and never competes with the art itself. The canvas is a warm off-white (#f0f0f0) rather than pure white, giving the site the feel of uncoated paper stock. Secondary blues (#bad2df) and teals (#088f87) surface only in editorial callouts and footer links, never in primary actions. The grid is generous: 64px sections, 48px xxl spacing, and cards with soft 12px radii (`{rounded.md}`) that suggest a gallery wall rather than a product shelf. There is no hero video, no auto-playing carousel — just a clean, typographic hierarchy that lets the book covers breathe. The checkout path, powered by Shopify, introduces a secondary yellow (#f6e70f) and a cooler gray (#dedede) for form fields, but the editorial pages remain resolutely monochrome with yellow as the sole voltage.
+name: "Phaidon"
+source_url: "https://www.phaidon.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A scholarly yet sensual art-book publisher whose identity is built on a near-black ink (#231f20) and a sharp, acidic yellow (#ffc800) — the kind of yellow that reads as a highlighter stroke across a monograph page, not a friendly accent. The brand trusts its typography above all else: Akzidenz Grotesk Next in its condensed and extended cuts runs across the entire surface, from 12px captions that sit tight against plate edges to 48px display heads that stretch across full-bleed spreads. The yellow appears sparingly — a single CTA button, a price badge, a category tag — and never competes with the art itself. The canvas is a warm off-white (#f0f0f0) rather than pure white, giving the site the feel of uncoated paper stock. Secondary blues (#bad2df) and teals (#088f87) surface only in editorial callouts and footer links, never in primary actions. The grid is generous: 64px sections, 48px xxl spacing, and cards with soft 12px radii (`{rounded.md}`) that suggest a gallery wall rather than a product shelf. There is no hero video, no auto-playing carousel — just a clean, typographic hierarchy that lets the book covers breathe. The checkout path, powered by Shopify, introduces a secondary yellow (#f6e70f) and a cooler gray (#dedede) for form fields, but the editorial pages remain resolutely monochrome with yellow as the sole voltage.
 
 colors:
   primary: "#ffc800"
@@ -343,6 +347,8 @@ components:
 - Search bar moves from inline nav position to full-width below nav on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for secondary buttons, text inputs, and nav links were not fully extractable from the live site CSS; the active states provided are best-guess based on common patterns
 - Error state styling for forms (error messages, iconography, color) could not be confirmed — #c13515 is an assumption based on common e-commerce patterns

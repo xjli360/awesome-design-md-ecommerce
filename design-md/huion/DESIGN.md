@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Huion
-description: |
+name: "Huion"
+source_url: "https://www.huion.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The first visual signal is #00bfd6 — a digital cyan sitting at the exact intersection of teal and aqua, with no warmth softening its edge. Huion wraps a highly technical drawing-tablet catalog in a framework-derived visual system (Element UI) whose neutral ramp runs from #303133 body copy through #606266 secondary text, #909399 placeholder labels, and #c0c4cc disabled states — a precise descending scale that keeps every surface cool and recessive until that single cyan lands on a button, a badge, or a promo bar. The deliberateness signals an audience that reads spec sheets: customers comparing 8192-level pressure sensitivity against 60ms report rates don't need visual interference.
 
   Aileron carries the type, a geometric sans-serif with proportions close to Futura but apertures opened enough for small-size legibility. At weight 700 it reads as engineering precision rather than editorial force; display headlines step from 48px hero scale through 32px section titles and 18px card titles with no dramatic contrast jumps. The Aileron-Bold variant is reserved for product names and pricing — the moments that need to hold against photography. Button labels and nav links sit at 500 weight, between reading and calling.
@@ -364,6 +367,8 @@ components:
 - Footer: 4-column → 2-column → single-column accordion with collapsed link lists on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - `primary-active` (#00a8bc) is derived at −10% lightness from the primary; actual hover/pressed hex not directly extracted and may differ
 - Button border-radius confirmed as Element UI's default 4px; exact Huion override not independently verified from live CSS

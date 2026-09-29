@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Flamingo
-description: Electric violet (#6600ff) carries every primary action on the site — not as an accent or seasonal pop, but as the brand's permanent structural color, pressed against near-white lavender-tinted surfaces (#f7f7f8, #f4f4f6) for a high-contrast charge that women's body care rarely attempts at this saturation. The hue family stretches from a deep cosmic purple (#2b1453) in dark heroes and overlays, through the main CTA voltage at #6600ff, to a pressed-state at #5a00e0 and a soft lavender (#c299ff) for disabled states and decorative fills — a monochromatic spectrum that reads anything but single-note because each stop has a distinct functional role. Inter handles all typographic work: a neutral grotesque that does not compete with color, letting the violet and form language carry the character. Buttons reach for {rounded.full}, giving CTAs and pill-tag filters a smooth oval silhouette; product cards and inputs land at {rounded.sm} to stay grounded without going boxy. The supporting palette is deliberately cool — muted blue-grays (#676986, #9a9db1) carry secondary body copy, and near-white hairlines (#dbdde4, #e5e5eb) draw borders and dividers without introducing warmth that would flatten the violet's impact. Dark navy (#272d45) anchors footer hierarchies, giving the page definitive closure on long scroll. The meta theme-color (#c4cdd5), a fog-blue, surfaces only in browser chrome — it is not a brand application color. Flamingo's system makes one bet and follows it completely: violet is primary, and every surface decision exists to make that primary pop.
+name: "Flamingo"
+source_url: "https://www.shopflamingo.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Electric violet (#6600ff) carries every primary action on the site — not as an accent or seasonal pop, but as the brand's permanent structural color, pressed against near-white lavender-tinted surfaces (#f7f7f8, #f4f4f6) for a high-contrast charge that women's body care rarely attempts at this saturation. The hue family stretches from a deep cosmic purple (#2b1453) in dark heroes and overlays, through the main CTA voltage at #6600ff, to a pressed-state at #5a00e0 and a soft lavender (#c299ff) for disabled states and decorative fills — a monochromatic spectrum that reads anything but single-note because each stop has a distinct functional role. Inter handles all typographic work: a neutral grotesque that does not compete with color, letting the violet and form language carry the character. Buttons reach for {rounded.full}, giving CTAs and pill-tag filters a smooth oval silhouette; product cards and inputs land at {rounded.sm} to stay grounded without going boxy. The supporting palette is deliberately cool — muted blue-grays (#676986, #9a9db1) carry secondary body copy, and near-white hairlines (#dbdde4, #e5e5eb) draw borders and dividers without introducing warmth that would flatten the violet's impact. Dark navy (#272d45) anchors footer hierarchies, giving the page definitive closure on long scroll. The meta theme-color (#c4cdd5), a fog-blue, surfaces only in browser chrome — it is not a brand application color. Flamingo's system makes one bet and follows it completely: violet is primary, and every surface decision exists to make that primary pop.
 
 colors:
   primary: "#6600ff"
@@ -332,6 +336,8 @@ components:
 - Footer: four columns collapse to two at tablet, then to a single-column accordion at mobile; each heading row acts as a disclosure toggle with a +/− indicator
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom brand display typeface detected; Inter is the sole extracted font family. A web font loaded via JS after interaction (or served through an A/B test) may exist but was not captured.
 - Pure white (#ffffff) did not appear in the extracted top-color list; {colors.surface-card} is inferred as white for component backgrounds — verify against live rendered surfaces.

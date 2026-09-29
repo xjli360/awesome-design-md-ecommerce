@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Simplicity
-description: |
+name: "Simplicity"
+source_url: "https://www.simplicityvac.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The #00b5d1 teal that anchors Simplicity's interface reads less like a brand color and more like the indicator light on the machine itself — poolwater-bright against a near-black #242424 grid, marking every active CTA, hover ring, and navigation state while the surrounding layout stays deliberately flat. The tagline "Simply Powerful" is not decoration; it is a layout constraint. Pages are wide, uncluttered corridors of product photography where Gotham headings label rather than persuade, and the chrome stays out of the way.
 
   Gotham A and Gotham B carry all display and UI text — a geometric sans-serif that reads like hardware labeling at heavy weights and relaxes at book weight for body copy. Open Sans handles supplemental paragraphs where Gotham steps back. SignPainter surfaces as a script accent in promotional banners and sale callouts — a brief handwritten flourish against the machined geometry of Gotham's circles, the only decorative gesture the brand permits itself. The contrast is intentional and controlled.
@@ -370,6 +373,8 @@ components:
 - Category tabs scroll horizontally on mobile rather than wrapping
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No confirmed border-radius values from live extraction; {rounded.xs} = 4px is inferred from the brand's rectilinear product aesthetic
 - No confirmed Gotham font weights in use — 600 and 700 are standard Gotham family variants; verify against the actual font license and CSS delivery

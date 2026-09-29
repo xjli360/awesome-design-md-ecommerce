@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: CMON
-description: A deep charcoal #313131 anchors CMON’s board-game universe — not the bright primary you’d expect from a publisher of monster-fighting miniatures, but a serious, ink-heavy canvas that makes every game box, card, and component feel like a premium artifact. The brand trusts its product photography to carry the color voltage: vivid miniatures, saturated game boards, and punchy box art pop against the near-black body copy and muted-soft backgrounds. Typography runs the system stack at modest weights — display sits at 24px weight 600 rather than the heavy 700+ that tabletop competitors use — letting the intricate game art do the heavy lifting. Buttons and interactive elements use {rounded.sm} (8px) corners, a subtle softening that keeps the interface approachable without sacrificing the brand’s serious, collector-oriented tone. The single extracted hex #313131 is the brand’s true signature: a dark, almost architectural gray that appears in headers, footers, and primary text, suggesting a design system built for legibility and longevity rather than trend-driven color. Product cards and game boxes use {rounded.md} (12px) to frame the art without competing with it, while the full-width hero sections push to the edges with no rounding at all — a deliberate contrast between the contained world of the game and the infinite space of the browser.
+name: "CMON"
+source_url: "https://cmon.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep charcoal #313131 anchors CMON’s board-game universe — not the bright primary you’d expect from a publisher of monster-fighting miniatures, but a serious, ink-heavy canvas that makes every game box, card, and component feel like a premium artifact. The brand trusts its product photography to carry the color voltage: vivid miniatures, saturated game boards, and punchy box art pop against the near-black body copy and muted-soft backgrounds. Typography runs the system stack at modest weights — display sits at 24px weight 600 rather than the heavy 700+ that tabletop competitors use — letting the intricate game art do the heavy lifting. Buttons and interactive elements use {rounded.sm} (8px) corners, a subtle softening that keeps the interface approachable without sacrificing the brand’s serious, collector-oriented tone. The single extracted hex #313131 is the brand’s true signature: a dark, almost architectural gray that appears in headers, footers, and primary text, suggesting a design system built for legibility and longevity rather than trend-driven color. Product cards and game boxes use {rounded.md} (12px) to frame the art without competing with it, while the full-width hero sections push to the edges with no rounding at all — a deliberate contrast between the contained world of the game and the infinite space of the browser.
 
 colors:
   primary: "#313131"
@@ -255,6 +259,8 @@ components:
 - Product card grids collapse from 3-4 columns to single column on mobile, with images scaling to full width.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one hex color (#313131) was reliably extracted from the live site; the full palette above is inferred from common board-game publisher patterns and may not match the actual site. The accent colors (red, gold, blue) are educated guesses based on industry conventions and should be verified against the live site.
 - No secondary or accent colors were extracted — the brand may use a wider palette for game-specific promotions that wasn't captured.

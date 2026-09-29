@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Rane
-description: A deep black canvas (#01060e) and a single electric-blue voltage (#015afd) define Rane's design language — a system built for the DJ booth where every control must be legible at a glance under strobes and smoke. The brand's identity is rooted in professional audio hardware: thick, purposeful typography set in trade-gothic-next and its compressed/condensed variants, generous hit targets on interactive elements, and a near-total absence of decorative flourish. The color palette is deliberately austere — #141414 for surfaces, #eeeeee for body text, #c2c2c2 for muted states — with the blue acting as the sole accent for primary actions, active states, and signal paths. Rounded corners are minimal (4px on buttons, 8px on cards), a nod to the machined aluminum of their mixers and controllers. The system trusts high-contrast relationships: white (#ffffff) on black for primary CTAs, black on white for secondary, and a hairline (#e4e4e5) that separates sections without adding visual noise. This is not a brand that sells aspiration — it sells precision, and every pixel is engineered for the moment when a fader needs to cut clean.
+name: "Rane"
+source_url: "https://www.rane.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep black canvas (#01060e) and a single electric-blue voltage (#015afd) define Rane's design language — a system built for the DJ booth where every control must be legible at a glance under strobes and smoke. The brand's identity is rooted in professional audio hardware: thick, purposeful typography set in trade-gothic-next and its compressed/condensed variants, generous hit targets on interactive elements, and a near-total absence of decorative flourish. The color palette is deliberately austere — #141414 for surfaces, #eeeeee for body text, #c2c2c2 for muted states — with the blue acting as the sole accent for primary actions, active states, and signal paths. Rounded corners are minimal (4px on buttons, 8px on cards), a nod to the machined aluminum of their mixers and controllers. The system trusts high-contrast relationships: white (#ffffff) on black for primary CTAs, black on white for secondary, and a hairline (#e4e4e5) that separates sections without adding visual noise. This is not a brand that sells aspiration — it sells precision, and every pixel is engineered for the moment when a fader needs to cut clean.
 
 colors:
   primary: "#015afd"
@@ -322,6 +326,8 @@ components:
 - Sidebar filters hide behind a "Filters" toggle button on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for text inputs beyond the basic focus border could not be extracted — placeholder styling, error message typography, and helper text patterns are inferred from common patterns
 - The exact font weights for trade-gothic-next variants (regular vs. medium vs. bold) are estimated from common web usage — the live site may use specific weight values not captured

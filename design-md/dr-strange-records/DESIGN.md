@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Dr. Strange Records
-description: A deep-blue #3984c6 storefront that reads more like a rare-vinyl archive than a retail site — the single accent color, a saturated cobalt, appears on every add-to-cart button, category badge, and navigation highlight, giving the interface the focused energy of a collector's flashlight beam. The brand trusts its inventory photography over decorative imagery; product grids sit on a white canvas with minimal chrome, letting album art and sleeve condition speak. Type leans toward a clean, slightly condensed sans-serif at modest weights — body copy at 15px with generous line-height (1.6) keeps reading comfortable across long discography scrolls, while section headers at 24px weight 600 create clear hierarchy without shouting. Search is the primary navigation gesture, surfaced as a persistent pill-shaped input (`{rounded.full}`) in the top bar, reflecting a catalog-driven experience where customers arrive knowing what they want. Category strips use soft-pill badges (`{rounded.lg}`) in the primary blue against white, with secondary tags in muted gray for format (LP, 7", CD) and condition. The footer is unusually dense — a single-column stack of links, store policies, and social icons that reads like the back of a record sleeve. There is no hero carousel, no lifestyle photography, no promotional noise; the design assumes the visitor is already a convert, here to browse the stacks.
+name: "Dr. Strange Records"
+source_url: "https://www.drstrange.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A deep-blue #3984c6 storefront that reads more like a rare-vinyl archive than a retail site — the single accent color, a saturated cobalt, appears on every add-to-cart button, category badge, and navigation highlight, giving the interface the focused energy of a collector's flashlight beam. The brand trusts its inventory photography over decorative imagery; product grids sit on a white canvas with minimal chrome, letting album art and sleeve condition speak. Type leans toward a clean, slightly condensed sans-serif at modest weights — body copy at 15px with generous line-height (1.6) keeps reading comfortable across long discography scrolls, while section headers at 24px weight 600 create clear hierarchy without shouting. Search is the primary navigation gesture, surfaced as a persistent pill-shaped input (`{rounded.full}`) in the top bar, reflecting a catalog-driven experience where customers arrive knowing what they want. Category strips use soft-pill badges (`{rounded.lg}`) in the primary blue against white, with secondary tags in muted gray for format (LP, 7", CD) and condition. The footer is unusually dense — a single-column stack of links, store policies, and social icons that reads like the back of a record sleeve. There is no hero carousel, no lifestyle photography, no promotional noise; the design assumes the visitor is already a convert, here to browse the stacks.
 
 colors:
   primary: "#3984c6"
@@ -426,6 +430,8 @@ components:
 - Breadcrumb truncates with "..." on mobile, showing only current page and parent
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Only one hex color (#3984c6) was extracted from the live site; the full palette above is inferred from common e-commerce patterns and record-store conventions. The actual secondary colors, error states, and surface tones may differ.
 - No font-family declarations were reliably extracted; Inter is assumed as a common modern sans-serif. The actual typeface may be different (e.g., system fonts, a custom face).

@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: Branch Furniture
-description: >
+name: "Branch Furniture"
+source_url: "https://www.branchfurniture.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   Branch's most telling commitment is color-architectural: the meta theme-color (#314438), the primary CTA fill, the mobile nav drawer background, and the wordmark are all the same deep forest green — not color-coordinated, but literally the same value, as though the brand picked one hex before opening any design tool. That green never reads outdoors or environmental; it reads like the color of a room where serious work happens, closer to a London club library than a forest trail. The warm-white canvas (#faf8f4) and aged-linen surface (#f3eeea) prevent the palette from going cold or corporate, while a muted sage bridge (#9fb59e) appears in swatch selectors, hover states, and secondary fills to keep forest and cream in quiet conversation. When the brand needs temperature contrast it reaches for a sun-dried terracotta (#da5f4d) — not a conventional e-commerce red but something closer to a clay pot on a concrete windowsill — reserving it for promotional banners, urgency badges, and review star fills rather than letting it anywhere near primary navigation. Frank Ruhl Libre, a serif with visible ink traps and old-style proportions, carries every display headline: an atypical choice for DTC furniture commerce where geometric grotesques dominate, but one that positions Branch alongside interior design editorial rather than big-box retail. Quicksand manages all body copy and UI labels with its rounded terminals, providing an approachable counterweight to the serif gravity above. Koulen, a condensed all-caps display face, surfaces in hero category stamps and collection badges — giving the brand a way to assert scale or urgency without a weight change or added visual mass. Corner radii stay deliberately restrained throughout: product cards and primary buttons share a 6px curve, the brand avoids pill shapes for standard CTAs, and the palette is left to carry the expressive weight that other brands assign to geometry. The configurator experience — desk dimensions, finishes, add-on shelving — is Branch's signature interaction: a card-select grid where a 2px forest-green border rings chosen options tightly while hairline-bordered inactives recede into the warm canvas, the whole surface sitting on the linen {colors.surface-soft} background. On mobile, the nav collapses into a full-height drawer in {colors.primary} with white-reversed type — the clearest signal that forest green is the brand's structural element, not merely a button fill.
 
 colors:
@@ -363,6 +366,8 @@ components:
 - Footer: four columns → two columns at 744px → single-column accordion at < 480px; column heads become tap-to-expand toggles
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Motion and animation tokens (hover transition curves, configurator step transitions, drawer slide timing) not extractable from static analysis
 - Exact button height and padding values unconfirmed from live DOM; 48px height is inferred from DTC norms and visual inspection

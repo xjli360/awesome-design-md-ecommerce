@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Rough Trade US
-description: A record store that wears its independence as a raw, unpolished edge — the palette is pulled from the physical world of vinyl sleeves and cardboard mailers, not a digital mood board. The extracted hexes read like a crate-digger's haul: `#404040` (the deep charcoal of a record sleeve spine), `#bd2426` (a vintage label red that appears on sale badges and price drops), `#62a1d8` (the washed denim blue of a used-bin divider), and `#9bca3e` (a fluorescent lime that could only be a New Order or Talking Heads 12″ single). There is no single brand color; instead, Rough Trade uses a functional palette where `#163959` (navy) anchors headers and `#f68b1f` (safety orange) punctuates limited-edition drops. The typography stack is system-native — `-apple-system`, `Arial`, `Helvetica Neue`, `Segoe UI`, `Roboto`, `Ubuntu` — a deliberate refusal of custom type that mirrors the store's ethos: the music is the design, not the font. Buttons are sharp-cornered (`{rounded.xs}`), text is dense, and whitespace is tighter than a 7″ single sleeve. The site feels like a warehouse shelf: organized but not precious, with `#ebebeb` hairline dividers and `#dedede` surface cards that echo the cardboard of a mail-order shipment. The Cloudflare challenge page that greeted extraction is itself a design signal — this is a site that prioritizes security and inventory accuracy over frictionless browsing, a stance that says "we've been burned by bots and we don't care if you have to wait."
+name: "Rough Trade US"
+source_url: "https://www.roughtrade.com/en-us"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A record store that wears its independence as a raw, unpolished edge — the palette is pulled from the physical world of vinyl sleeves and cardboard mailers, not a digital mood board. The extracted hexes read like a crate-digger's haul: `#404040` (the deep charcoal of a record sleeve spine), `#bd2426` (a vintage label red that appears on sale badges and price drops), `#62a1d8` (the washed denim blue of a used-bin divider), and `#9bca3e` (a fluorescent lime that could only be a New Order or Talking Heads 12″ single). There is no single brand color; instead, Rough Trade uses a functional palette where `#163959` (navy) anchors headers and `#f68b1f` (safety orange) punctuates limited-edition drops. The typography stack is system-native — `-apple-system`, `Arial`, `Helvetica Neue`, `Segoe UI`, `Roboto`, `Ubuntu` — a deliberate refusal of custom type that mirrors the store's ethos: the music is the design, not the font. Buttons are sharp-cornered (`{rounded.xs}`), text is dense, and whitespace is tighter than a 7″ single sleeve. The site feels like a warehouse shelf: organized but not precious, with `#ebebeb` hairline dividers and `#dedede` surface cards that echo the cardboard of a mail-order shipment. The Cloudflare challenge page that greeted extraction is itself a design signal — this is a site that prioritizes security and inventory accuracy over frictionless browsing, a stance that says "we've been burned by bots and we don't care if you have to wait."
 
 colors:
   primary: "#bd2426"
@@ -417,6 +421,8 @@ components:
 - Search bar transitions from a fixed header element to a full-screen overlay on mobile.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - The extracted color palette is dominated by generic web colors (multiple grays, blues, and one bright accent) — the brand's true primary may be more distinctive than `#bd2426` red, but this was the most unique color in the extraction. A deeper crawl of the actual site (bypassing Cloudflare) would yield a more accurate palette.
 - Font-family declarations were system-only; no custom typefaces were detected. Rough Trade may use a proprietary or licensed font that wasn't extractable from the Cloudflare challenge page.

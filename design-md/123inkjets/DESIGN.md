@@ -1,7 +1,10 @@
 ---
 version: alpha
-name: 123inkjets
-description: |
+name: "123inkjets"
+source_url: "https://www.123inkjets.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
   The price point comes first. Every surface on 123inkjets resolves to a value signal — a compatibility guarantee, a bulk-tier callout, or a clearance badge — anchored by an emphatic #ff5501 orange that handles every primary CTA against an otherwise monochromatic infrastructure of neutral grays. The platform is Magento (magento-icons and boilerplate-theme-icons surface in the font stack), and the design defers to Luma-era conventions: a utility top bar for account links and mini-cart count, a search-dominant masthead, and a category-tree sidebar on listing pages. This is a catalog environment designed for a purchasing agent or IT manager who arrives with a model number and expects friction-free navigation to the correct cartridge.
 
   Open Sans runs the entire typographic system — 400 weight for body and specs copy, 700 for price figures and CTAs — without any custom display typeface. The choice matches the brand's register: legible, neutral, familiar, with no ornamental weight to slow scan-reading of product rows. Ink sits at near-black #111111 and #303030, muted details at #555555 and #777777, while grid separators and card borders cycle through a sequence of near-identical grays (#d1d1d1, #c2c2c2, #e4e4e4, #e8e8e8) that creates density without visual noise.
@@ -353,6 +356,8 @@ components:
 - Trust badge row switches from horizontal to a 2×2 grid on tablet, single column on mobile
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom display typeface confirmed — Open Sans appears to be the sole web font; webfont delivery via a CDN or JS loader not captured in static extraction may add weight variants not visible here
 - True page canvas color not directly extracted — #ffffff is assumed; #f2f2f2 and #f0f0f0 both appear in the palette and may serve as the actual page background in some template zones

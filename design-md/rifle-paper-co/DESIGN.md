@@ -1,33 +1,11 @@
 ---
 version: alpha
-name: Rifle Paper Co.
-description: >-
-  Berthold Baskerville Pro set at display scale in near-black (#272727) on pale
-  canvas opens every Rifle Paper Co. editorial moment — it reads less like a
-  website headline than like the title page of a hardcover stationery catalog, and
-  that confusion is intentional. The brand's structural anchor is deep forest green
-  (#214232), which carries primary CTAs and the brand mark with the permanence of
-  pressed botanicals, while lighter greens (#3f533a, #c2caac, #a6b3ad) layer
-  outward like growth rings, softer with each step; below the structural greens the
-  palette branches into seasonal keys — warm rust (#d6381d) marks promotions and
-  urgency, soft periwinkle (#899df1) carries collectible and gift contexts, deep teal
-  (#0e7a82) surfaces for special-edition runs, each hue distinct enough that a
-  returning customer reads the seasonal story before reading the copy. Navigation
-  sits in a sage (#c2caac) announcement band above the logo, with nav links set in
-  Nautica uppercase at generous letter-spacing — deliberately keeping wayfinding
-  words secondary to illustration; product card surfaces rest on near-white (#f4f4f6,
-  {colors.surface-soft}), framed by hairline borders (#dedede) so thin they read
-  more as a breath than a boundary. Corners are restrained throughout — buttons take
-  {rounded.xs}, product cards stay {rounded.none} — because the brand's physical
-  goods are paper-edged rectangles and the UI reflects that without needing to say
-  so. The footer drops to deep navy (#272d45), a chromatic register shift that closes
-  the page the way a dark endpaper closes a hardcover; footnote links retire to
-  muted lavender-gray (#676986). The cream wash (#ffebb4) appears as illustration
-  background rather than UI surface, a reminder that the illustration is the product
-  and the interface is the frame, while Baskerville body copy at 16px and 1.6 line
-  height gives those illustrations room to breathe, and price points appear in the
-  same serif at 18px weight-400 — no bolding, no color signal — because value in
-  this brand registers through restraint, not emphasis.
+name: "Rifle Paper Co."
+source_url: "https://riflepaperco.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Berthold Baskerville Pro set at display scale in near-black (#272727) on pale canvas opens every Rifle Paper Co. editorial moment — it reads less like a website headline than like the title page of a hardcover stationery catalog, and that confusion is intentional. The brand's structural anchor is deep forest green (#214232), which carries primary CTAs and the brand mark with the permanence of pressed botanicals, while lighter greens (#3f533a, #c2caac, #a6b3ad) layer outward like growth rings, softer with each step; below the structural greens the palette branches into seasonal keys — warm rust (#d6381d) marks promotions and urgency, soft periwinkle (#899df1) carries collectible and gift contexts, deep teal (#0e7a82) surfaces for special-edition runs, each hue distinct enough that a returning customer reads the seasonal story before reading the copy. Navigation sits in a sage (#c2caac) announcement band above the logo, with nav links set in Nautica uppercase at generous letter-spacing — deliberately keeping wayfinding words secondary to illustration; product card surfaces rest on near-white (#f4f4f6, {colors.surface-soft}), framed by hairline borders (#dedede) so thin they read more as a breath than a boundary. Corners are restrained throughout — buttons take {rounded.xs}, product cards stay {rounded.none} — because the brand's physical goods are paper-edged rectangles and the UI reflects that without needing to say so. The footer drops to deep navy (#272d45), a chromatic register shift that closes the page the way a dark endpaper closes a hardcover; footnote links retire to muted lavender-gray (#676986). The cream wash (#ffebb4) appears as illustration background rather than UI surface, a reminder that the illustration is the product and the interface is the frame, while Baskerville body copy at 16px and 1.6 line height gives those illustrations room to breathe, and price points appear in the same serif at 18px weight-400 — no bolding, no color signal — because value in this brand registers through restraint, not emphasis.
 
 colors:
   primary: "#214232"
@@ -397,6 +375,8 @@ components:
 - Search drawer narrows to full-width on mobile with input font reduced to display-sm (22px)
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Exact hero overlay opacity and blend mode not extractable from static extraction — rgba(255,255,255,0.55) is inferred from visual brightness of live site
 - Whether Nautica is a proprietary Rifle Paper Co. typeface or a commercially licensed font could not be confirmed; fallback stack defaults to sans-serif

@@ -1,0 +1,887 @@
+{
+  "source_url": "https://griotsgarage.com",
+  "final_url": "https://www.griotsgarage.com/",
+  "captured_at": "2026-09-28T04:29:16.950660+00:00",
+  "method": "static-html-css",
+  "pages": [
+    {
+      "url": "https://griotsgarage.com",
+      "final_url": "https://www.griotsgarage.com/",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "sha256": "8be1bf5947780c4b963640c9fc3d2219dea299333d0eec7a67ec44c404675285",
+      "snapshot": "homepage.html"
+    },
+    {
+      "url": "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css",
+      "final_url": "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css",
+      "http_status": 200,
+      "content_type": "text/css; charset=UTF-8",
+      "sha256": "2f33fd523665f2f2caa9d803a7e697df087f201bc92eff182b0a77671cecc7ea",
+      "snapshot": "stylesheet-1.css"
+    }
+  ],
+  "colors": {
+    "#ffffff": {
+      "count": 185,
+      "sources": [
+        "https://www.griotsgarage.com/",
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#343434": {
+      "count": 140,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#ec0928": {
+      "count": 137,
+      "sources": [
+        "https://www.griotsgarage.com/",
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#333333": {
+      "count": 61,
+      "sources": [
+        "https://www.griotsgarage.com/",
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#e5e5e5": {
+      "count": 56,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#707070": {
+      "count": 51,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#000000": {
+      "count": 35,
+      "sources": [
+        "https://www.griotsgarage.com/",
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#dddddd": {
+      "count": 26,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#cccccc": {
+      "count": 20,
+      "sources": [
+        "https://www.griotsgarage.com/",
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#999999": {
+      "count": 18,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#757575": {
+      "count": 14,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#eeeeee": {
+      "count": 12,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#666666": {
+      "count": 12,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#787878": {
+      "count": 10,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#f27474": {
+      "count": 8,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#f1a500": {
+      "count": 7,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#008a06": {
+      "count": 6,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#efefef": {
+      "count": 6,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#007dc6": {
+      "count": 6,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#313440": {
+      "count": 5,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#7a7a7a": {
+      "count": 5,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#e0e0e0": {
+      "count": 5,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#e7f4f9": {
+      "count": 5,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#beebff": {
+      "count": 5,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#0f1435": {
+      "count": 4,
+      "sources": [
+        "https://www.griotsgarage.com/"
+      ]
+    },
+    "#a5dc86": {
+      "count": 4,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#3085d6": {
+      "count": 4,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#0a6aa1": {
+      "count": 4,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#e2e3e3": {
+      "count": 4,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#fffdea": {
+      "count": 3,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#d9d9d9": {
+      "count": 3,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#d6d6d6": {
+      "count": 3,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#dfdfdf": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#d5ffd8": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#ffdddd": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#8f8f8f": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#545454": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#c4e6f5": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#add8e6": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#f0f3fe": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#fbf9f9": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#e8eff7": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#a8e4ff": {
+      "count": 2,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#690412": {
+      "count": 1,
+      "sources": [
+        "https://www.griotsgarage.com/"
+      ]
+    },
+    "#ffff00": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#474747": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#595959": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#aaaaaa": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#b4dbed": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#f0f0f0": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#facea8": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#f8bb86": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#9de0f6": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#3fc3ee": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#c9dae1": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#87adbd": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#d6cdc0": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#f1f1f1": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#626568": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "#3e67f8": {
+      "count": 1,
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    }
+  },
+  "font_families": {
+    "/5.5.3/": [
+      "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+    ],
+    "/only screen and (max-width: 375px)/": [
+      "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+    ],
+    "/only screen and (min-width:1024px) and (max-width:1681px)/": [
+      "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+    ],
+    "/only screen and (min-width:1024px)/": [
+      "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+    ],
+    "/only screen and (min-width:1681px)/": [
+      "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+    ],
+    "/only screen and (min-width:375px) and (max-width:719px)/": [
+      "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+    ],
+    "/only screen and (min-width:375px)/": [
+      "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+    ],
+    "/only screen and (min-width:719px) and (max-width:1024px)/": [
+      "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+    ],
+    "/only screen and (min-width:719px)/": [
+      "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+    ],
+    "/only screen/": [
+      "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+    ],
+    "Arial": [
+      "https://www.griotsgarage.com/",
+      "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+    ],
+    "Benton Sans": [
+      "https://www.griotsgarage.com/"
+    ],
+    "Benton Sans Cond Black": [
+      "https://www.griotsgarage.com/"
+    ],
+    "BentonSansStdCondensedBlack": [
+      "https://www.griotsgarage.com/",
+      "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+    ],
+    "BentonSansStdCondensedBold": [
+      "https://www.griotsgarage.com/",
+      "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+    ],
+    "BentonSansStdRegular": [
+      "https://www.griotsgarage.com/",
+      "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+    ],
+    "Helvetica": [
+      "https://www.griotsgarage.com/",
+      "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+    ],
+    "Roboto": [
+      "https://www.griotsgarage.com/"
+    ],
+    "Source Sans Pro": [
+      "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+    ],
+    "arial": [
+      "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+    ],
+    "false": [
+      "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+    ],
+    "monospace": [
+      "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+    ],
+    "object-fit: contain": [
+      "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+    ],
+    "sans serif": [
+      "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+    ],
+    "sans-serif": [
+      "https://www.griotsgarage.com/",
+      "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+    ],
+    "sans-serif!important": [
+      "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+    ],
+    "serif": [
+      "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+    ]
+  },
+  "css_rules": [
+    {
+      "source": "https://www.griotsgarage.com/",
+      "selector": "button.close",
+      "declarations": "display: flex;\n    position: absolute;\n    right: 20px;\n    cursor: pointer;\n    background-color: #cccccc;\n    border: 1px solid #000000;\n    transition-duration: 0.4s;"
+    },
+    {
+      "source": "https://www.griotsgarage.com/",
+      "selector": "button.close:hover",
+      "declarations": "background-color: #000000;"
+    },
+    {
+      "source": "https://www.griotsgarage.com/",
+      "selector": "height:50px;font-weight: bold;text-align: center;display:none\n\n    :root",
+      "declarations": "--gg-main: #ec0928;\n    --gg-dark-red: #690412;\n    --gg-dark-blue: #0f1435;\n    --gg-main-dark: #000;\n    --gg-white: #fff;"
+    },
+    {
+      "source": "https://www.griotsgarage.com/",
+      "selector": ".heroCarousel-content > a.button:hover",
+      "declarations": "background:white;\ncolor:#ec0928;"
+    },
+    {
+      "source": "https://www.griotsgarage.com/",
+      "selector": ".slick-dots li button::before",
+      "declarations": "color: #fff;\n    opacity: .6;"
+    },
+    {
+      "source": "https://www.griotsgarage.com/",
+      "selector": "div#sd-product-set-carousel-64949939-4abe-466e-a669-5da357cb2b48",
+      "declarations": "font-family: BentonSansStdCondensedBlack,'Benton Sans Cond Black';\n    text-transform: uppercase;\n    letter-spacing: .25px !important;"
+    },
+    {
+      "source": "https://www.griotsgarage.com/",
+      "selector": ".new-products-content h2",
+      "declarations": "color: #ffffff;\n        font-size: 1rem;\n      \tfont-weight: normal;\n        line-height: 1.5;\n        text-transform: uppercase;"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css",
+      "selector": "button,input,optgroup,select,textarea",
+      "declarations": "color:inherit;font:inherit;margin:0"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css",
+      "selector": "body",
+      "declarations": "background:#fff;color:#343434;cursor:auto;margin:0;padding:0;position:relative"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css",
+      "selector": "body",
+      "declarations": "font-family:BentonSansStdRegular,Arial,Helvetica,sans-serif;line-height:1.5"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css",
+      "selector": "h1,h2,h3,h4,h5,h6",
+      "declarations": "color:#343434;font-family:BentonSansStdCondensedBlack,Arial,Helvetica,sans-serif;letter-spacing:.25px;margin-bottom:.75rem"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css",
+      "selector": "h1 small,h2 small,h3 small,h4 small,h5 small,h6 small",
+      "declarations": "color:#fff;font-size:60%;line-height:0"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css",
+      "selector": ".button",
+      "declarations": "-webkit-appearance:none;-moz-appearance:none;border-radius:0;border-style:solid;border-width:1px;cursor:pointer;font-family:BentonSansStdCondensedBold;font-weight:400;line-height:normal;margin:0 0 1rem;position:relative;text-align:center;text-decoration:none;display:-webkit-inline-box;display:-ms-inline-flexbox;display:inline-flex;background-color:transparent;border-color:#343434;color:#343434;font-size:1.25rem;padding:.875rem 3rem;border-radius:2px;outline:0"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css",
+      "selector": ".button.active,.button.is-active,.button:focus,.button:hover",
+      "declarations": "background-color:transparent;border-color:#ec0928;color:#ec0928"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css",
+      "selector": ".button:active",
+      "declarations": "background-color:transparent;border:1px solid #ec0928;color:#ec0928"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css",
+      "selector": ".button--primary",
+      "declarations": "background-color:#ec0928;border-color:#ec0928;color:#fff"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css",
+      "selector": ".button--primary.active,.button--primary.is-active,.button--primary:focus,.button--primary:hover",
+      "declarations": "background-color:#fff;border-color:#ec0928;color:#ec0928"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css",
+      "selector": ".button--primary:active",
+      "declarations": "background-color:#fff;border:1px solid #ec0928;color:#ec0928"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css",
+      "selector": ".button--tertiary",
+      "declarations": "background-color:transparent;border-color:transparent;color:#343434"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css",
+      "selector": ".button--tertiary.active,.button--tertiary.is-active,.button--tertiary:focus,.button--tertiary:hover",
+      "declarations": "background-color:transparent;border-color:transparent;color:#ec0928"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css",
+      "selector": ".button--tertiary:active",
+      "declarations": "background-color:transparent;border:1px solid transparent;color:#ec0928"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css",
+      "selector": ".button--action",
+      "declarations": "border-color:#343434;color:#343434"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css",
+      "selector": ".button--action.active,.button--action.is-active,.button--action:focus,.button--action:hover",
+      "declarations": "border-color:#ec0928;color:#ec0928"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css",
+      "selector": ".button--action:active",
+      "declarations": "border:1px solid #ec0928;color:#ec0928"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css",
+      "selector": ".button[disabled]",
+      "declarations": "background-color:rgba(15,255,255,0);border-color:#ccc;color:#ccc;cursor:default"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css",
+      "selector": ".form-body",
+      "declarations": "background-color:#fff;border:1px solid #999;-webkit-box-shadow:0 1px 2px rgba(52,52,52,.13);box-shadow:0 1px 2px rgba(52,52,52,.13);margin-bottom:1.5rem;max-width:none;padding:1.5rem"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css",
+      "selector": ".panel-header",
+      "declarations": "background-color:#fff;margin:0;padding:1.5rem 2rem 0"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css",
+      "selector": ".pagination-list li a,.pagination-list li button",
+      "declarations": "border-radius:2px;-webkit-transition:background-color .3s ease-out;transition:background-color .3s ease-out;background:0 0;color:#707070;display:block;font-size:1em;font-weight:400;line-height:inherit;padding:.3125rem .1875rem"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css",
+      "selector": "li.pagination-item--current a,li.pagination-item--current button",
+      "declarations": "color:#343434;cursor:default;font-weight:700"
+    },
+    {
+      "source": "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css",
+      "selector": ".card-figcaption-body .card-text",
+      "declarations": "color:#fff"
+    }
+  ],
+  "confidence": "css_values_observed_roles_inferred",
+  "limitations": [
+    "CSS value presence does not verify semantic role, visibility or computed styles.",
+    "Layout, typography sizes, spacing, radii, interactions and responsive behavior are inferred unless explicitly evidenced."
+  ],
+  "title": "Car Surface Care Products, Detailing Supplies, Auto Accessories",
+  "schema_version": 1,
+  "batch_id": "expansion-20260928-200",
+  "tokens": {
+    "colors.primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.griotsgarage.com/",
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "colors.ink": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "colors.canvas": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.griotsgarage.com/",
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "colors.body": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.griotsgarage.com/",
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "colors.muted": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "colors.hairline": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "colors.surface-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "colors.surface-card": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "colors.on-primary": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.griotsgarage.com/",
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "colors.border-strong": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.griotsgarage.com/",
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "colors.disabled": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.griotsgarage.com/",
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "colors.accent-dark-red": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.griotsgarage.com/"
+      ]
+    },
+    "colors.accent-dark-blue": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://www.griotsgarage.com/"
+      ]
+    },
+    "colors.success": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "colors.success-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "colors.warning": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "colors.info": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "colors.danger-soft": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "colors.danger-bg": {
+      "value_status": "observed_in_css",
+      "role_status": "inferred",
+      "sources": [
+        "https://cdn11.bigcommerce.com/s-k4cw9d5dn9/stencil/8886da00-94cf-013f-f32b-4201d46ef01e/e/3a281a60-88cb-013f-792a-26f87ba108bf/css/theme-595769a0-9b36-013f-8627-3e3d79fbe07f.css"
+      ]
+    },
+    "typography.display-xl": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.display-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.title-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.body-sm": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.caption": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "typography.button-md": {
+      "font_family_status": "observed_family_with_fallbacks",
+      "measurements_status": "inferred"
+    },
+    "rounded.none": {
+      "status": "inferred"
+    },
+    "rounded.xs": {
+      "status": "inferred"
+    },
+    "rounded.sm": {
+      "status": "inferred"
+    },
+    "rounded.md": {
+      "status": "inferred"
+    },
+    "rounded.lg": {
+      "status": "inferred"
+    },
+    "rounded.full": {
+      "status": "inferred"
+    },
+    "spacing.none": {
+      "status": "inferred"
+    },
+    "spacing.xxs": {
+      "status": "inferred"
+    },
+    "spacing.xs": {
+      "status": "inferred"
+    },
+    "spacing.sm": {
+      "status": "inferred"
+    },
+    "spacing.md": {
+      "status": "inferred"
+    },
+    "spacing.base": {
+      "status": "inferred"
+    },
+    "spacing.lg": {
+      "status": "inferred"
+    },
+    "spacing.xl": {
+      "status": "inferred"
+    },
+    "spacing.xxl": {
+      "status": "inferred"
+    },
+    "spacing.section": {
+      "status": "inferred"
+    },
+    "components.button-primary": {
+      "status": "inferred"
+    },
+    "components.button-secondary": {
+      "status": "inferred"
+    },
+    "components.text-input": {
+      "status": "inferred"
+    },
+    "components.nav-bar": {
+      "status": "inferred"
+    },
+    "components.product-card": {
+      "status": "inferred"
+    },
+    "components.hero": {
+      "status": "inferred"
+    },
+    "components.footer": {
+      "status": "inferred"
+    },
+    "components.badge": {
+      "status": "inferred"
+    },
+    "components.search": {
+      "status": "inferred"
+    },
+    "components.trust-badge": {
+      "status": "inferred"
+    }
+  }
+}

@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Faulkner House Books
-description: A sanctuary for fine literature rendered in deep navy #003388, a color that reads like the spine of a vintage hardcover — authoritative, quiet, and utterly distinct from the pastels and earth tones of most independent bookstores. The brand lives in the tension between that saturated primary and a crisp white canvas (#fafafa), with accents of gold (#f0b849) and teal (#1c7c7c) that feel like the foil stamping and marbled endpapers of a rare edition. Typography leans on Georgia and Courier, serif and monospace working together to evoke the printed page and the typewriter — the tools of the literary trade. The site’s architecture is spare and intentional: a single-column hero with a full-bleed image, a navigation that reads like a table of contents, and product cards with `{rounded.sm}` corners that feel like the edges of a well-loved book. There is no visual noise, no carousel, no pop-up — just the quiet confidence of a room full of books. The primary CTA, a navy rectangle with gold text, is the only moment of high contrast, and it lands like a bookmark slipped between pages. The brand’s signature move is the use of the extracted #003388 as a full-bleed background on the hero and footer, with white text set in Georgia at a generous `{spacing.lg}` line-height, creating a reading experience that feels like settling into a leather chair. The extracted palette includes a wide range of blues and grays, but the distinctive navy and gold are the brand’s true voice — the rest are likely framework defaults and widget colors.
+name: "Faulkner House Books"
+source_url: "https://www.faulknerhousebooks.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  A sanctuary for fine literature rendered in deep navy #003388, a color that reads like the spine of a vintage hardcover — authoritative, quiet, and utterly distinct from the pastels and earth tones of most independent bookstores. The brand lives in the tension between that saturated primary and a crisp white canvas (#fafafa), with accents of gold (#f0b849) and teal (#1c7c7c) that feel like the foil stamping and marbled endpapers of a rare edition. Typography leans on Georgia and Courier, serif and monospace working together to evoke the printed page and the typewriter — the tools of the literary trade. The site’s architecture is spare and intentional: a single-column hero with a full-bleed image, a navigation that reads like a table of contents, and product cards with `{rounded.sm}` corners that feel like the edges of a well-loved book. There is no visual noise, no carousel, no pop-up — just the quiet confidence of a room full of books. The primary CTA, a navy rectangle with gold text, is the only moment of high contrast, and it lands like a bookmark slipped between pages. The brand’s signature move is the use of the extracted #003388 as a full-bleed background on the hero and footer, with white text set in Georgia at a generous `{spacing.lg}` line-height, creating a reading experience that feels like settling into a leather chair. The extracted palette includes a wide range of blues and grays, but the distinctive navy and gold are the brand’s true voice — the rest are likely framework defaults and widget colors.
 
 colors:
   primary: "#003388"
@@ -330,6 +334,8 @@ components:
 - The search bar, which is a prominent full-width element on desktop, becomes a collapsible icon on mobile that expands to a full-width input when tapped.
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - Hover and focus states for all components could not be reliably extracted from the static CSS. The hover states described above (button darkening, card border shift) are inferred from common patterns and the brand's aesthetic, not from live site inspection.
 - Error states for form inputs (validation errors, required field indicators) were not observed on the live site. A standard red border and error message pattern is assumed but not confirmed.

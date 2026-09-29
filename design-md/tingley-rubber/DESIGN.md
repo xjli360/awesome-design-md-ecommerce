@@ -1,7 +1,11 @@
 ---
 version: alpha
-name: Tingley Rubber
-description: Waterproof workwear demands a visual language that communicates protection instantly — Tingley achieves this through safety-red (#ea1921) CTAs set against a deep navy foundation (#272d45), while an unexpected purple-gray mid-tone (#676986) threads through body copy and secondary UI, giving the catalog a more refined register than most PPE competitors. The palette is a study in functional signal hierarchy: red fires for primary actions, safety-yellow (#ffcf2a) marks hazard callouts and promotional banners, a teal accent (#00caaa) flags technology features like ANSI ratings, and a soft mint (#b2f9e9) surfaces on compliance-verified product cards. The dark-to-light navy range — from deep #272d45 through slate #2c3e50 to the muted purple-gray #9a9db1 — forms an industrial chromatic foundation that eschews the typical black-and-safety-orange convention without sacrificing authority. Type runs on Arial throughout, a deliberate functional choice that signals no-frills professionalism: this is a brand that would rather display waterproofing specs than typographic finesse. Buttons are sharp-cornered ({rounded.xs}), not pill-shaped; the UI vocabulary is angular and worksite-ready rather than consumer-friendly. Product cards carry ASTM and ANSI compliance badges in cardinal red and certification-green (#4bb543), embedding regulatory data directly into the browse experience. A four-color badge matrix — red for hazard class, green for certification, teal for material spec, yellow for caution — encodes an entire regulatory vocabulary without prose. The overall composition reads as a PPE catalog that has quietly systematized its safety-signal language: each color carries a meaning, each component a function, nothing is purely decorative.
+name: "Tingley Rubber"
+source_url: "https://www.tingleyrubber.com"
+captured_at: null
+evidence_status: "historical_unverified"
+description: |-
+  Waterproof workwear demands a visual language that communicates protection instantly — Tingley achieves this through safety-red (#ea1921) CTAs set against a deep navy foundation (#272d45), while an unexpected purple-gray mid-tone (#676986) threads through body copy and secondary UI, giving the catalog a more refined register than most PPE competitors. The palette is a study in functional signal hierarchy: red fires for primary actions, safety-yellow (#ffcf2a) marks hazard callouts and promotional banners, a teal accent (#00caaa) flags technology features like ANSI ratings, and a soft mint (#b2f9e9) surfaces on compliance-verified product cards. The dark-to-light navy range — from deep #272d45 through slate #2c3e50 to the muted purple-gray #9a9db1 — forms an industrial chromatic foundation that eschews the typical black-and-safety-orange convention without sacrificing authority. Type runs on Arial throughout, a deliberate functional choice that signals no-frills professionalism: this is a brand that would rather display waterproofing specs than typographic finesse. Buttons are sharp-cornered ({rounded.xs}), not pill-shaped; the UI vocabulary is angular and worksite-ready rather than consumer-friendly. Product cards carry ASTM and ANSI compliance badges in cardinal red and certification-green (#4bb543), embedding regulatory data directly into the browse experience. A four-color badge matrix — red for hazard class, green for certification, teal for material spec, yellow for caution — encodes an entire regulatory vocabulary without prose. The overall composition reads as a PPE catalog that has quietly systematized its safety-signal language: each color carries a meaning, each component a function, nothing is purely decorative.
 
 colors:
   primary: "#ea1921"
@@ -364,6 +368,8 @@ components:
 - Spec tables become horizontally scrollable at tablet and below, with the first column (spec label) sticking left
 
 ## Known Gaps
+
+- **Historical provenance:** The original capture time and raw evidence are unavailable. Token values have not been freshly verified; the [collection manifest](../../data/manifest.json) records this entry as historical_unverified.
 
 - No custom typeface detected — site relies entirely on system Arial; a custom wordmark or display font may exist as an SVG logo asset not captured in CSS font stacks
 - Font stacks include `oke-widget-icons` (Okendo reviews widget) and `swiper-icons` (carousel library) — neither represents brand typography
